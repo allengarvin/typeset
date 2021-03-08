@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1536__schoene_auszerlesne_lieder
+source:
+    city: Nuremberg
+    date_exact: true
+    title: 'Schöne auszerlesne lieder'
+    year: 1536

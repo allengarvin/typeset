@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /palestrina
+biography:
+    name: Giovanni Pierluigi da Palestrina
+    name_variants:
+        - Giovanni Pierluigi da Prenestino
+        - Giannetto Palestrina
+    last_name: Palestrina
+    nationality: Italian
+    born_year: 1525
+    born_circa: true
+    died_year: 1594
+    died_date: 1594-02-02
+    born_location:
+        region: Palestrina
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /antonio_rotta
+biography:
+    name: Antonio Rotta
+    name_variants:
+        - Antonio Rota
+    last_name: Rotta
+    nationality: Italian
+    born_year: 1495
+    born_circa: true
+    died_year: 1549
+    born_location:
+        region: Padua?
+        country: Italy
+    died_location:
+        region: Padua
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.23941

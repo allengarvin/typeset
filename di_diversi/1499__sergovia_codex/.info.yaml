@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1499__sergovia_codex
+source:
+    date_circa: true
+    title: Segovia Codex
+    year: 1480

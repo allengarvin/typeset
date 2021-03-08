@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: georg_forster/deutsche_liedlein_2
+source:
+    city: Nuremberg
+    date_exact: true
+    title: Der ander theil Teutscher Liedlein
+    year: 1540

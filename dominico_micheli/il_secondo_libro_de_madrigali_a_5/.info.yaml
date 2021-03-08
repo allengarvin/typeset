@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1564__micheli_domenico__madrigali_a_5_voci__libro_2
+    typeset_directory: dominico_micheli/il_secondo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro de madrigali
+    full_title: Il secondo libro de madrigali a cinque voci, novamente da lui composti, e per Antonio Gardano posti in Luci
+    press: Antonio Gardano press
+    year: 1564
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 27

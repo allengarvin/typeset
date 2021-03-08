@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: joachim_magdeburg/christliche_und_troestliche
+source:
+    city: Erfurt
+    date_exact: true
+    title: 'Christliche und Tröstliche Tischgesenge'
+    year: 1572

@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /matthew_locke
+biography:
+    name: Matthew Locke
+    name_variants:
+        - Matthew Lock
+    last_name: Locke
+    nationality: English
+    born_year: 1621
+    born_circa: true
+    died_year: 1677
+    died_date: 1677-08-10
+    born_location:
+        region: Exeter
+        country: England
+    died_location:
+        region: London
+        country: England

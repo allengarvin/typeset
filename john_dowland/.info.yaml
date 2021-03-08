@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /john_dowland
+biography:
+    name: John Dowland
+    last_name: Dowland
+    nationality: English
+    born_year: 1563
+    died_year: 1626
+    died_date: 1626-02-20
+    born_location:
+        region: London?
+        country: England
+    died_location:
+        region: London
+        country: England

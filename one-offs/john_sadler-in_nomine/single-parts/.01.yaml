@@ -1,0 +1,11 @@
+---
+files:
+- 01-sadler-a4-0-score.ly
+- 01-sadler-a4-1-cantus.ly
+- 01-sadler-a4-2-medius.ly
+- 01-sadler-a4-3-tenor.ly
+- 01-sadler-a4-4-bassus.ly
+- 01-sadler-a4-5-contratenor.ly
+primary:
+  composer: John Sadler (fl.1565-1585)
+  title: In nomine

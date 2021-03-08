@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: vatican_library/capp_giulia__ms_XIII.27
+source:
+    city: Florence?
+    date_range: true
+    title: Vatican Library, Capp. Giulia MS XIII.27
+    year: 1492-94

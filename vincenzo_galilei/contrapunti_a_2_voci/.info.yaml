@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1584__galilei_vincenzo__contrapunti_a_2_voci
+    typeset_directory: vincenzo_galilei/contrapunti_a_2_voci
+source:
+    city: Florence
+    date_exact: true
+    title: Contrapunti à 2 voci
+    full_title: Contrapunti à due voci di Vincenzio Galilei Nobile Fiorentino
+    press: Giorgio Marscotti press
+    year: 1584

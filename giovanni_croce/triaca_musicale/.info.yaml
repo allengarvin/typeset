@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giovanni_croce/triaca_musicale
+source:
+    city: Vincenti
+    date_exact: true
+    title: Triaca Musicale
+    year: 1596

@@ -1,0 +1,19 @@
+---
+local:
+    facsimile_directory: complete/1568__dattari_ghinolfo__la_villanelle_a_3_4_e_5_voci
+    typeset_directory: ghinolfo_dattari/le_villanelle
+source:
+    city: Venice
+    date_exact: true
+    title: Le Villanelle, à 3, à 4, & à 5 voci
+    press: Girolamo Scotto press
+    year: 1568
+contents:
+    type: villanella
+    parts: 3|4|5
+    language: italian
+library:
+    bologna: S.82
+    bernstein: 303
+    new_vogel: 692
+    rism: D1085 (1568)

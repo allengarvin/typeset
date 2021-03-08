@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giovanni_maria_nanino/madrigali_a_5__1581
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Madrigali à 5 di ... Nanino ... et di ... Stabile'
+    year: 1581

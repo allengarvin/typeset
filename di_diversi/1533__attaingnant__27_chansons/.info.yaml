@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1533__attaingnant__27_chansons
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Attaingnant press
+    print: true
+    title: 27 chansons musicales a 4 parties
+    year: 1533

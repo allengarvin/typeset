@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giovanni_croce/motetti_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenti press
+    print: true
+    title: 'Motetti à 4 voci, libro primo'
+    year: 1597

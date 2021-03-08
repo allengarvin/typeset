@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /leonardo_meldert
+biography:
+    name: Leonard Meldert
+    name_variants:
+        - Lonardo Meldert
+    last_name: Meldert
+    nationality: Flemish
+    born_year: 1535
+    born_circa: true
+    died_year: 1610
+    died_date: 1610-04-08
+    born_location:
+        region: Meldert
+        country: Flanders
+    died_location:
+        region: Orvieto
+        country: Italy

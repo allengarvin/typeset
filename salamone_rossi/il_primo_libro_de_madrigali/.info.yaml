@@ -1,0 +1,38 @@
+---
+local:
+    facsimile_directory: complete/1600__rossi_salomone__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: salamone_rossi/il_primo_libro_de_madrigali
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali
+    press: Ricciardo Amadino
+    year: 1600
+contents:
+    type: madrigal
+    parts: 5|6
+    language: italian
+    pieces: 21
+    1:
+        flats: 0
+        final: a
+        title: Pur venisti cor mio
+        text_type: madrigal
+        author: Giovanni Battista Guarini (1538-1612)
+        text:
+            - Pur venisti, cor mio
+            - E pur t'hò qui presente e pur ti veggio
+            - E non dormo, e non sogno, e non vaneggio.
+            - Venisti sì, ma fuggi
+            - Sì ratto, che mi struggi.
+            - Ahi, fuggitiva vista degli amanti,
+            - Come sogno se' tu d'occhi vegghianti.
+        translation:
+            - Yet you came, my heart, 
+            - and while I have you here and see you, 
+            - I do not sleep, nor dream, nor am delirious.
+            - You came, true, but fled
+            - so fast, that you destroy me.
+            - Ah, fleeting vision of lovers, 
+            - you are like a daydream!
+        translator: Campelli (CPDL license)

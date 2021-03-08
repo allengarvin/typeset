@@ -1,0 +1,13 @@
+---
+top:
+    type: composer
+    path: /etienne_du_tertre
+biography:
+    name: Estienne du Tertre
+    name_variants:
+        - Etienne du Tertre
+    last_name: Du Tertre
+    nationality: French
+    flourished: Paris, mid-16c
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.08427

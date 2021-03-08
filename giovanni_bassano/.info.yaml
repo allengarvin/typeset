@@ -1,0 +1,23 @@
+---
+top:
+    type: composer
+    path: /giovanni_bassano
+biography:
+    name: Giovanni Bassano
+    name_variants:
+        - Giovanni Bassani
+        - Zanetto Bassano
+        - Zuane Bassano
+    last_name: Bassano
+    nationality: Italian
+    born_year: 1560/61
+    died_year: 1617
+    died_date: 1617-08-16
+    born_location:
+        region: Venice?
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.53233

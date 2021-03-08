@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: complete/1568__giovanelli_pietro__novi_thesari_musici__liber_primus
+    typeset_directory: di_diversi/1568__novi_thesari_musici__libro_1
+source:
+    city: Venice
+    date_exact: true
+    title: Novi Thesauri Musici, liber primus
+    full_title: Thesauri Musici, liber primus quo selectissime pianeq nove
+    press: Antonio Gardano press
+    year: 1568
+contents:
+    type: motet

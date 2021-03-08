@@ -1,0 +1,19 @@
+---
+local:
+    facsimile_directory: complete/1544__crecquillon_thomas__le_tiers_livre_de_chansons_a_4_parties
+    typeset_directory: thomas_crecquillon/le_tiers_livre_de_chansons
+source:
+    city: Antwerp
+    date_exact: false
+    title: Le tiers livre de chansons à 4
+    full_title: Le tiers livre de chansons à quatre parties
+    press: Tielman Susato press
+    year: 1544
+catalog:
+    rism: 1544/11
+contents:
+    type: chanson
+    parts: 4
+    part_names: superius, contratenor, tenor, bassus
+    language: french
+    pieces: 37

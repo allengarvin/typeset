@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: peter_philips/institution_harmonique
+source:
+    city: Frankfurt
+    date_exact: true
+    title: Institution Harmonique
+    year: 1615

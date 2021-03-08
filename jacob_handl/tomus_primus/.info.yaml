@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: jacob_handl/tomus_primus
+source:
+    city: Prague
+    date_exact: true
+    manuscript: false
+    press: Nigrini press
+    print: true
+    title: Operis musici cantionum, tomus primus
+    year: 1586

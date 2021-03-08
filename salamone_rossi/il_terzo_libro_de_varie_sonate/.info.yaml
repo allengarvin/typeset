@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: salamone_rossi/il_terzo_libro_de_varie_sonate
+source:
+    city: Venice
+    date_exact: true
+    title: Il terzo libro de varie sonate ...
+    year: 1623

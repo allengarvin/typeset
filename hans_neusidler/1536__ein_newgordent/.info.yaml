@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: hans_neusidler/1536__ein_newgordent
+source:
+    city: Nuremberg
+    date_exact: true
+    title: 'Ein newgeordent künstlich Lautenbuch'
+    year: 1536

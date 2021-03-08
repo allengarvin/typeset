@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/senfl-fortuna_ad_voces_musicales
+source:
+    city: Nuremberg
+    date_exact: true
+    title: De Arte Canendi
+    year: 1540

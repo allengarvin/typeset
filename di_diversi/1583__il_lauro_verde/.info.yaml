@@ -1,0 +1,18 @@
+---
+local:
+    facsimile_directory: complete/1583__il_lauro_verde_madrigali_a_sei_voci_di_diversi_autori
+    typeset_directory: di_diversi/1583__il_lauro_verde
+source:
+    city: Ferrara
+    date_exact: true
+    title: Il lauro verde madrigali à 6 voci
+    full_title: Il lauro verde madrigali à 6 voci di diversi autori
+    press: Vittorio Baldini
+    year: 1583
+    reprints: 1591
+contents:
+    type: madrigal
+    parts: 6
+    part_names: canto, alto, tenore, basso, quinto, sesto
+    language: italian
+    pieces: 31

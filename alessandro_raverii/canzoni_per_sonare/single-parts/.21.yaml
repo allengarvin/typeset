@@ -1,0 +1,11 @@
+---
+files:
+- 21-frescobaldi-a5-0-score.ly
+- 21-frescobaldi-a5-1-canto.ly
+- 21-frescobaldi-a5-2-alto.ly
+- 21-frescobaldi-a5-3-tenore.ly
+- 21-frescobaldi-a5-4-basso.ly
+- 21-frescobaldi-a5-5-quinto.ly
+primary:
+  composer: Girolamo Frescobaldi (1583-1643)
+  title: 21. Canzon vigesimaprima

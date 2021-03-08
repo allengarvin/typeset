@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: francesco_bendusi/opera_nova_de_balli
+source:
+    city: Venice
+    date_exact: true
+    title: Opera nova de balli
+    year: 1553

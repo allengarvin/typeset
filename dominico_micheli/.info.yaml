@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /dominico_micheli
+biography:
+    name: Domenico Micheli
+    last_name: Micheli
+    nationality: Flemish
+    born_year: 1540
+    born_circa: true
+    died_year: 1590
+    died_circa: true
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Bologna
+        country: Italy

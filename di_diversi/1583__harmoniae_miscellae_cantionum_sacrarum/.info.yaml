@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1583__harmoniae_miscellae_cantionum_sacrarum
+source:
+    city: Nuremberg
+    date_exact: true
+    manuscript: false
+    press: Lechner press
+    print: true
+    title: 'Harmoniæ Cantionum Sacrarum'
+    year: 1583

@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/lully-chaconne-cadmus
+source:
+    city: Paris
+    date_exact: true
+    title: Cadmus et Hermione
+    year: 1673

@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: pierre_phalese/een_duytsch_musyck
+source:
+    city: Antwerp
+    date_exact: true
+    title: Een Duytsch Musyck
+    year: 1572

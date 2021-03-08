@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1615__trabaci_giovanni_maria__il_secondo_libro_de_ricercate_et_altri_varii_capricci
+    typeset_directory: giovanni_maria_trabaci/il_secondo_libro
+source:
+    city: Naples
+    date_exact: true
+    title: Il secondo libro de ricercate, & ... capricci
+    press: Giacomo Carlino press
+    year: 1615
+contents:
+    type: ricercar
+    parts: 4|5
+catalog:
+    sartori: 1615c

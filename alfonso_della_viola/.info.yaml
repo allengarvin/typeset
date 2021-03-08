@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /alfonso_della_viola
+biography:
+    name: Alfonso dalla Viola
+    name_variants:
+        - Alfonso della Viola
+        - Alfonso de la Viola
+        - Alfonso Viola
+    last_name: Viola
+    nationality: Italian
+    born_year: 1508
+    born_circa: true
+    died_year: 1573
+    died_circa: true
+    born_location:
+        region: Ferrara
+        country: Italy
+    died_location:
+        region: Ferrara
+        country: Italy

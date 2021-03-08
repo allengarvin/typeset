@@ -1,0 +1,14 @@
+---
+local:
+    facsimile_directory: complete/1636__buonamente_giovanni_battista__sonate_et_canzoni__libro_6
+    typeset_directory: giovanni_battista_buonamente/sonate_et_canzoni_libro_sesto
+source:
+    city: Venice
+    date_exact: true
+    title: Sonate, et canzoni
+    full_title: Sonate, et canzoni a due, tre, quattro, cinque, et a sei voci libro sesto
+    press: Alessandro Vincenti press
+    year: 1636
+contents:
+    type: sonata|canzona|
+    parts: 3

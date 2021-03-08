@@ -1,0 +1,13 @@
+---
+files:
+- 01-gabrieli-a6-0-score.ly
+- 01-gabrieli-a6-1-cantus.ly
+- 01-gabrieli-a6-2-altus.ly
+- 01-gabrieli-a6-3-tenor.ly
+- 01-gabrieli-a6-4-bassus.ly
+- 01-gabrieli-a6-5-quintus.ly
+- 01-gabrieli-a6-6-sextus.ly
+primary:
+  composer: Andrea Gabrieli (c.1532-1585)
+  folio: Bishop Fulbert of Chartres (c.952-1028)
+  title: Sancta Maria succure miseris

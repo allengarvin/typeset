@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1571__vinci_pietro__il_terzo_libro_de_madrigali_a_5_voci
+    typeset_directory: pietro_vinci/il_terzo_libro_de_madrigali
+source:
+    city: Venice
+    date_exact: true
+    title: Il terzo libro de madrigali à 5 voci
+    full_title: Il terzo libro de madrigali à cinque voci, novamente composto e dato in luce
+    press: Girolamo Scotto press
+    year: 1571
+    reprints: 1579
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /lodovico_balbi
+biography:
+    name: Lodovico Balbi
+    name_variants:
+        - Ludovico Balbi
+    last_name: Balbi
+    nationality: Italian
+    born_year: 1545
+    born_circa: true
+    died_year: 1604
+    born_location:
+        region: Venice
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy

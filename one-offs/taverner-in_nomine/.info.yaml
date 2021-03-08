@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/taverner-in_nomine
+source:
+    date_exact: true
+    title: '''Baldwin'' partbooks'
+    year: 1551

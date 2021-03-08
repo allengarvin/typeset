@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: jacquet_de_berchem/capricci
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Primo, secondo et terzo libro del capriccio
+    year: 1561

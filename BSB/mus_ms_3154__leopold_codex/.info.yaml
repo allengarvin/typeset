@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: BSB/mus_ms_3154__leopold_codex
+source:
+    date_circa: true
+    title: Leopold Codex
+    year: 1487

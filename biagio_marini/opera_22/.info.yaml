@@ -1,0 +1,27 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: biagio_marini/opera_22
+source:
+    city: Venice
+    date_exact: true
+    title: Diversi generi di sonate, da chiesa, e da camera, libro terza
+    full_title: Per ogni sorte di strumento musicale diversi generi di sonate, da chiesa, e da camera, libro terza
+    press: Francesco Magni press
+    year: 1655
+catalog:
+contents:
+    type: sonata|corrente|saraband|balletto
+    part_names: violino I, violino II, 
+    pieces: 25
+    25:
+        flats: 1
+        final: g
+        parts: violino I, violino II, viola, basso
+        clefs:
+            violino I: g2
+            violino II: g2
+            viola: c3
+            basso: f4
+        title: Passacaglio
+

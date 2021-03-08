@@ -1,0 +1,18 @@
+---
+local:
+    facsimile_directory: complete/1573__primavera_giovan_leonardo__i_frutto_di_primavera_a_5_voci__libro_quarto
+    typeset_directory: giovan_leonardo_primavera/i_frutto_di_primavera
+source:
+    city: Venice
+    date_exact: true
+    title: I frutti à 5 voci, libro quarto
+    full_title: I frutti di Giovan Leonardo Primavera à cinque voci con un dialogo à dieci, libro quarto
+    press: Girolamo Scott press
+    year: 1573
+catalog:
+    bologna: U.111B
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

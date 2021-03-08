@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giovanni_de_nola/canzone_libro_primo
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Canzone villanesche à tre voci'
+    year: 1545

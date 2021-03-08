@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /filippo_nicoletti
+biography:
+    name: Filippo Nicoletti
+    last_name: Nicoletti
+    nationality: Italian
+    born_unknown: true
+    died_year: 1634
+    died_date: 1634-09-27
+    born_location:
+        region: Ferrara
+        country: Italy
+    died_location:
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.19901

@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /stefano_felis
+biography:
+    name: Stefano Felis
+    last_name: Felis
+    nationality: Italian
+    born_year: 1550
+    born_circa: true
+    died_year: 1603
+    born_circa: true
+    born_location:
+        region: Bari
+        country: Italy
+    died_location:
+        region: Bari
+        country: Italy

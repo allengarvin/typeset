@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /pierre_de_manchicourt
+biography:
+    name: Pierre de Mancicourt
+    name_variants:
+        - Pierre de Mancicourt
+        - Pierre de Mancicurti
+    last_name: Manchicourt
+    nationality: French
+    born_year: 1510
+    born_circa: true
+    died_year: 1564
+    died_date: 1564-10-05
+    born_location:
+        region: Béthune
+        country: France
+    died_location:
+        region: Madrid
+        country: Spain

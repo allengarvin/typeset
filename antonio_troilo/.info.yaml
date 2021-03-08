@@ -1,0 +1,14 @@
+---
+top:
+    type: composer
+    path: /antonio_troilo
+biography:
+    name: Antonio Troilo
+    last_name: Troilo
+    nationality: Italian
+    flourished: 1606-1608
+    born_location:
+        region: Verona
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.28414

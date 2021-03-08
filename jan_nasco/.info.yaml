@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /jan_nasco
+biography:
+    name: Jan Nasco
+    name_variants:
+        - Gian Nasco
+        - Giovanni Nasco
+    last_name: Nasco
+    nationality: Flemish
+    born_year: 1510
+    born_circa: true
+    died_year: 1561
+    born_location:
+        country: Flanders
+    died_location:
+        region: Treviso
+        country: Italy

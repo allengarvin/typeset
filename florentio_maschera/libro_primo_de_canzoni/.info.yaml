@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: florentio_maschera/libro_primo_de_canzoni
+source:
+    date_exact: true
+    title: Libro primo de canzoni
+    year: 1578

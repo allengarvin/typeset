@@ -1,0 +1,27 @@
+---
+top:
+    type: composer
+    path: /alessandro_striggio
+biography:
+    name: Alessandro Striggio
+    name_variants:
+        - Alessandro Strigi
+        - Alessandro Strigia
+    last_name: Striggio
+    nationality: Italian
+    born_year: 1536
+    born_circa: true
+    born_range: 1536-1537
+    died_year: 1592
+    died_date: 1592-02-29
+    born_location:
+        region: Mantua
+        country: Italy
+    died_location:
+        region: Mantua
+        country: Italy
+    urls:
+        - https://en.wikipedia.org/wiki/Alessandro_Striggio
+        - http://www.cpdl.org/wiki/index.php/Alessandro_Striggio
+        - https://imslp.org/wiki/Category:Striggio,_Alessandro
+        - https://doi.org/10.1093/gmo/9781561592630.article.26957

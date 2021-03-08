@@ -1,0 +1,13 @@
+---
+files:
+- 08-grandi-a5-0-score.ly
+- 08-grandi-a5-1-cantus.ly
+- 08-grandi-a5-2-altus.ly
+- 08-grandi-a5-3-tenor.ly
+- 08-grandi-a5-4-bassus.ly
+- 08-grandi-a5-5-quintus.ly
+- 08-grandi-a5-6-continuo.ly
+primary:
+  composer: Alessandro Grandi (1590-1630)
+  folio: Concluding antiphon of the Liturgy of the Hours
+  title: Ave Regina coelerum

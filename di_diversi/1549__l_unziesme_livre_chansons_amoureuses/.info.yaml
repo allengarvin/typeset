@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1549__l_unziesme_livre_chansons_amoureuses
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: Susato press
+    print: true
+    title: L'unziesme livre contenant 29 chansons
+    year: 1549

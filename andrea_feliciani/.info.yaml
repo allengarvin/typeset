@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /andrea_feliciani
+biography:
+    name: Andrea Feliciani
+    name_variants:
+        - Andrea Felisiani
+    last_name: Feliciani
+    nationality: Italian
+    died_year: 1596
+    died_date: 1596-12-24
+    born_location:
+        region: Siena
+        country: Italy
+    died_location: 
+        region: Siena
+        country: Italy

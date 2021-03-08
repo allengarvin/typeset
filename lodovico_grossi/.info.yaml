@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /lodovico_grossi
+biography:
+    name: Lodovico Viadana
+    name_variants:
+        - Lodovico Grossi da Viadana
+    last_name: Viadana
+    nationality: Italian
+    born_year: 1560
+    born_circa: true
+    died_year: 1627
+    died_date: 1627-05-02
+    born_location:
+        region: Viadana, nr Parma
+        country: Italy
+    died_location:
+        region: Gualtieri, nr Parma
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.29278

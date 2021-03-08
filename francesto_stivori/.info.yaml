@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /francesco_stivori
+biography:
+    name: Francesco Stivori
+    name_variants:
+        - Francesco Stivorio
+    last_name: Stivori
+    nationality: Italian
+    born_year: 1550
+    born_circa: true
+    died_year: 1605
+    born_location:
+        region: Venice
+        country: Italy
+    died_location:
+        region: Graz
+        country: Italy

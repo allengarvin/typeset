@@ -1,0 +1,9 @@
+COMP=gabrieli
+PARTS=8
+TYPE=madrigal
+TITLE=a_le_guancie_di_rose
+for i in 14; do
+mkdir -p single-parts/$i-output
+    rm single-parts/$i-output/$i-*.zip
+zip single-parts/$i-output/$i-$COMP-$TYPE-a$PARTS-$TITLE-source.zip parts/$i*.ly include/*ly single-parts/$i-*ly single-parts/include/distribution-header.ly single-parts/$i-*midi
+done

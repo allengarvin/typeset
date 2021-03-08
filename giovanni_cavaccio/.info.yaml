@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /giovanni_cavaccio
+biography:
+    name: Giovanni Cavaccio
+    name_variants:
+        - Giovanni Cavacchio
+        - Giovanni Cavaggio
+        - Giovanni Cavazzio
+    last_name: Cavaccio
+    nationality: Italian
+    born_year: 1556
+    born_circa: true
+    died_year: 1626
+    died_date: 1626-08-11
+    born_location:
+        region: Bergamo
+        country: Italy
+    died_location:
+        region: Bergamo
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.05197

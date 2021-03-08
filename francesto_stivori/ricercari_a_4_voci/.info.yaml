@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: complete/1589__stivori_francesco__ricercar_a_4_voci
+    typeset_directory: francesto_stivori/ricercari_a_4_voci
+source:
+    city: Venice
+    date_exact: true
+    title: Ricercari à 4 voci
+    full_title: Ricercari a quatro voci
+    press: Ricciardo Amadino press
+    year: 1579
+catalog:
+    bologna: U.218

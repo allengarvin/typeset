@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /giovanni_caletti
+biography:
+    name: Giovanni Battista Calleti
+    name_variants:
+        - Giovanni Battista Calleto
+        - Giovanni Battista Calleti di Bruno
+    last_name: Caletti
+    nationality: Italian
+    born_year: 1577
+    born_date: 1577-03-26
+    died_year: 164
+    born_location:
+        region: Crema
+        country: Italy
+    died_location:
+        region: Crema
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.04591

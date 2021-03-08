@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /giuseppe_caimo
+biography:
+    name: Gioseppe Caimo
+    last_name: Caimo
+    nationality: Italian
+    born_year: 1545
+    born_circa: true
+    died_year: 1584
+    died_date: 1584-10-31
+    born_location:
+        region: Milan
+        country: Italy
+    died_location:
+        region: Milan
+        country: Italy

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: andrea_gabrieli/sacrae_cantiones_liber_1
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Sacrae cantiones quinque vocum, liber primus
+    year: 1565

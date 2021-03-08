@@ -1,0 +1,14 @@
+---
+files:
+- 05-wert-a6-0-score.ly
+- 05-wert-a6-1-cantus.ly
+- 05-wert-a6-2-cantus.ly
+- 05-wert-a6-3-altus.ly
+- 05-wert-a6-4-tenor.ly
+- 05-wert-a6-5-bassus.ly
+- 05-wert-a6-6-quintus.ly
+- 05-wert-a6-7-sextus.ly
+primary:
+  composer: Giaches de Wert (1535-1596)
+  folio: Romans 11:34-36
+  title: Quis enim cognovit sensum Domini

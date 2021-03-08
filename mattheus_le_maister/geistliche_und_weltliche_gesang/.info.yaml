@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: mattheus_le_maister/geistliche_und_weltliche_gesang
+source:
+    city: Wittenberg
+    date_exact: true
+    manuscript: false
+    press: Schwertel press
+    print: true
+    title: Geistliche und weltliche Teusche Geseng
+    year: 1566

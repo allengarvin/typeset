@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /johann_rosenmueller
+biography:
+    name: Johann Rosenmüller
+    name_variants:
+        - Giovanni Rosenmüller
+        - Johann Rosenmiller
+    last_name: Rosenmüller
+    nationality: German
+    born_year: 1619
+    born_circa: true
+    died_year: 1684
+    died_date: 1684-09-12
+    born_location:
+        region: Zwickau
+        country: Germany
+    died_location:
+        region: Wolfenbüttel
+        country: Germany

@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: 1620__banchieri_adriano__primo_libro_delle_messe_e_motetti_concertato/bologna-V.231
+    typeset_directory: adriano_banchieri/primo_libro_delle_messe_e_motetti
+source:
+    city: Venice
+    date_exact: true
+    title: Primo libro delle messe e motetti, op. 42
+    full_title: Primo libro delle messe e motetti concertato con basso e due tenori nell'organo, opera XXXXII
+    press: Alessandro Vincenti press
+    year: 1620
+catalog:
+    bologna: V.231

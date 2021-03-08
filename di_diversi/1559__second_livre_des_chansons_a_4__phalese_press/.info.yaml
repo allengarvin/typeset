@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1559__second_livre_des_chansons_a_4__phalese_press
+source:
+    city: Louvain
+    date_exact: true
+    manuscript: false
+    press: 'Phalèse press'
+    print: true
+    title: 'Second livre des chansons à 4 parties'
+    year: 1552

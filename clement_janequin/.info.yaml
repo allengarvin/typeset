@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /clement_janequin
+biography:
+    name: Clément Janequin
+    name_variants:
+        - Clément Jannequin
+    last_name: Janequin
+    nationality: French
+    born_year: 1485
+    born_circa: true
+    died_year: 1558
+    died_after: true
+    born_location:
+        region: Châtellerault
+        country: France
+    died_location:
+        region: Paris
+        country: France
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.14127

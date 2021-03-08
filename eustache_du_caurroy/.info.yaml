@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /eustache_du_caurroy
+biography:
+    name: Eustache Du Caurroy
+    last_name: Du Caurroy
+    nationality: French
+    born_year: 1549
+    born_date 1549-02-04
+    died_year: 1609
+    died_date: 1609-08-07
+    born_location:
+        region: Gerberoy
+        country: France
+    died_location:
+        region: Paris
+        country: France

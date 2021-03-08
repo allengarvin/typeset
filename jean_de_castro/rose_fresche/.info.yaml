@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: jean_de_castro/rose_fresche
+source:
+    city: Venice
+    date_exact: true
+    title: Rose fresche
+    full_title: Rose fresche madrigali novi di Giovan de Castro
+    press: Ricciardo Amadino press
+    year: 1591
+contents:
+    type: madrigal
+    parts: 3
+    part_names: canto, tenore, basso
+    language: italian

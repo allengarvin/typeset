@@ -1,0 +1,20 @@
+---
+local:
+    facsimile_directory: complete/1571__willaert_adrian__i_sacri_et_santi_salmi_che_si_cantano_a_vespro_a_4_voci
+    typeset_directory: adrian_willaert/i_sacri_et_santi_salmi_a_4
+source:
+    city: Venice
+    date_exact: true
+    title: I sacri e santi salmi
+    full_title: I sacri e santi salmi che si cantano a vespro e compielta con li suoi himni responsorij et benedicamus
+    press: Antonio Gardano press
+    year: 1555
+    reprints: 1571
+catalog:
+    rism: W1123-1555
+    lewis: Gardano 211
+contents:
+    type: motet, hymn
+    parts: 4
+    part_names: cantus, altus, tenor bassus
+    language: latin

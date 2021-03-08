@@ -1,0 +1,11 @@
+---
+files:
+- 01-gabrieli-a4-0-score.ly
+- 01-gabrieli-a4-1-cantus.ly
+- 01-gabrieli-a4-2-altus.ly
+- 01-gabrieli-a4-3-tenor.ly
+- 01-gabrieli-a4-4-bassus.ly
+primary:
+  composer: Andrea Gabrieli (c.1532-1585)
+  folio: Responsory for Matins on feria (Psalm 17:2-3)
+  title: Diligam te Domine

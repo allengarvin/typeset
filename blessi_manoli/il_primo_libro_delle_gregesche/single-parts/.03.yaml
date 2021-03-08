@@ -1,0 +1,11 @@
+---
+files:
+- 03-gabrieli-a4-0-score.ly
+- 03-gabrieli-a4-1-canto.ly
+- 03-gabrieli-a4-2-alto.ly
+- 03-gabrieli-a4-3-tenore.ly
+- 03-gabrieli-a4-4-basso.ly
+primary:
+  composer: Andrea Gabrieli (1533-1585)
+  folio: Antonio Molino
+  title: Cando pinso al turmendo

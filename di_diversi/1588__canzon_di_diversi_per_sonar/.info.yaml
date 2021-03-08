@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: vincenzi/canzon_di_diversi
+source:
+    city: Venice
+    date_exact: true
+    title: Canzon di diversi per sonar
+    year: 1588

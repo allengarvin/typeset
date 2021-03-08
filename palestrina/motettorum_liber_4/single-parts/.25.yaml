@@ -1,0 +1,12 @@
+---
+files:
+- 25-palestrina-a5-0-score.ly
+- 25-palestrina-a5-1-cantus.ly
+- 25-palestrina-a5-2-altus.ly
+- 25-palestrina-a5-3-tenor.ly
+- 25-palestrina-a5-4-bassus.ly
+- 25-palestrina-a5-5-quintus.ly
+primary:
+  composer: Giovanni Pierluigi da Palestrina (c.1525-1594)
+  folio: Song of Solomon 7:1-2
+  title: Quam pulchri sunt

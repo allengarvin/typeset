@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_di_lasso/sacrae_cantiones_liber_2
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Sacræ cantiones ... liber secundus'
+    year: 1566

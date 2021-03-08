@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: lodovico_grossi/cento_concerti_ecclesiastici
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenti press
+    print: true
+    title: Cento concerti ecclesiastici
+    year: 1605

@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: complete/1595__wert_giaches_de__l_undecimo_libro_de_madrigali_a_5_voci
+    typeset_directory: giaches_de_wert/book_XI_a5
+source:
+    city: Venice
+    date_exact: true
+    title: 'L''Undecima Libro de Madrigali à 5'
+    year: 1595
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

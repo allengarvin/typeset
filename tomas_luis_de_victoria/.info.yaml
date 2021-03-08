@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /tomas_luis_de_victoria
+biography:
+    name: Tomás Luis de Victoria
+    last_name: Victoria
+    nationality: Spanish
+    born_year: 1548
+    died_year: 1611
+    died_date: 1611-08-11
+    born_location:
+        region: Avila
+        country: Spain
+    died_location:
+        region: Madrid
+        country: Spain

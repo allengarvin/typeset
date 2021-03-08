@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_di_lasso/sacrae_cantiones_liber_3
+source:
+    city: Venicem
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Sacræ cantiones ... liber tertius'
+    year: 1566

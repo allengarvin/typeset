@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /giovanni_maria_radino
+biography:
+    name: Giovanni Maria Radino
+    last_name: Radino
+    nationality: Italian
+    born_unknown: true
+    died_year: 1607
+    died_circa: true

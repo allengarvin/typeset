@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: pierre_attaingnant/1529__31_chansons_a_4
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Attaingnant press
+    print: true
+    title: '31 chanson musicales à 4 partie'
+    year: 1529

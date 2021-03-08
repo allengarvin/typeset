@@ -1,0 +1,10 @@
+---
+files:
+- 10-canale-a4-0-score.ly
+- 10-canale-a4-1-canto.ly
+- 10-canale-a4-2-alto.ly
+- 10-canale-a4-3-tenore.ly
+- 10-canale-a4-4-basso.ly
+primary:
+  composer: Floriano Canale (c.1550-c.1603)
+  title: La Porta

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: johann_wannenmacher/bicinia_sive
+source:
+    city: Bern
+    date_exact: true
+    manuscript: false
+    press: Apiarius press
+    print: true
+    title: 'Bicinia sive duo, Germanica ad æquales'
+    year: 1553

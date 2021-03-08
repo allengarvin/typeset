@@ -1,0 +1,19 @@
+---
+local:
+    facsimile_directory: complete/1557__nasco_giovanni__il_secondo_libri_de_madrigali_a_5_voci
+    typeset_directory: jan_nasco/il_secondo_libro_di_madrigali_a_5_voci
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro di madrigali à 5 voci
+    full_title: Di Giovan Nasco Il secondo libro di madrigali à 5 voci
+    press: Antonio Gardano press
+    year: 1557
+catalog:
+    NV: 2009
+contents:
+    type: madrigal
+    parts: 5
+    part_names: cantus, altus, tenor, bassus, quintus
+    language: italian
+    pieces: 28

@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /girolamo_frescobaldi
+biography:
+    name: Girolamo Frescobaldi
+    name_variants:
+        - Geronimo Alissandro
+        - Gerolamo Frescobaldi
+        - Girolimo Frescobaldi
+    last_name: Frescobaldi
+    nationality: Italian
+    born_year: 1583
+    died_year: 1643
+    died_date: 1643-03-01
+    born_location:
+        region: Ferrara
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

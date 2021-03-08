@@ -1,0 +1,15 @@
+---
+top:
+    type: composer
+    path: /giandominico_la_martoretta
+biography:
+    name: Giandominico La Martoretta
+    name_variants:
+        - Giandominico Martoretta
+        - Giandominico Il Martoretta
+    last_name: La Martoretta
+    nationality: Italian
+    flourished: 1544-66
+    born_location:
+        region: Calabria
+        country: Italy

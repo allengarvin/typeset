@@ -1,0 +1,12 @@
+---
+files:
+- 02-gabrieli-a5-0-score.ly
+- 02-gabrieli-a5-1-cantus.ly
+- 02-gabrieli-a5-2-altus.ly
+- 02-gabrieli-a5-3-tenor.ly
+- 02-gabrieli-a5-4-bassus.ly
+- 02-gabrieli-a5-5-quintus.ly
+primary:
+  composer: Andrea Gabrieli (c.1532-1585)
+  folio: Psalm 8
+  title: Domine, Dominus noster

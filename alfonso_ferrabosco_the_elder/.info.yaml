@@ -1,0 +1,23 @@
+---
+top:
+    type: composer
+    path: /alfonso_ferrabosco_the_elder
+biography:
+    name: Alfonso Ferrabosco I
+    last_name: Ferrabosco
+    nationality: Italian
+    born_year: 1543
+    born_date: 1543-01-18
+    died_year: 1588
+    died_date: 1588-08-12
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Bologna
+        country: Italy
+urls:
+    - https://doi.org/10.1093/gmo/9781561592630.article.09507
+    - https://www.cpdl.org/wiki/index.php/Alfonso_Ferrabosco_I
+    - http://en.wikipedia.org/wiki/Alfonso_Ferrabosco_the_elder
+    - https://imslp.org/wiki/Category:Ferrabosco_Sr.,_Alfonso

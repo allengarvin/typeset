@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /heinrich_schutz
+biography:
+    name: Henrich Schütz
+    name_variants:
+        - Henrich Schütz
+        - Henricus Sagittarius
+    last_name: Schütz
+    nationality: German
+    born_year: 1585
+    born_date: 1585-10-09
+    died_year: 1672
+    died_date: 1672-11-06
+    born_location:
+        region: Bad Köstritz
+        country: Germany
+    died_location:
+        region: Dresden
+        country: Germany

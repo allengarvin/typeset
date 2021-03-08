@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /mateo_flecha_il_joven
+biography:
+    name: Matea Flecha il Joven
+    last_name: Flecha
+    nationality: Spanish
+    born_year: 1530
+    born_circa: true
+    died_year: 1604
+    born_location:
+        region: Prades, nr Tarragona
+        country: Spain
+    died_location:
+        region: Berga
+        country: Spain
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.09800

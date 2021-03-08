@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: william_byrd/cantiones_sacrae
+source:
+    city: London
+    date_exact: true
+    title: Cantiones sacrae
+    year: 1575

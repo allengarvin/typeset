@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /nicola_vicentino
+biography:
+    name: Nicola Vicentino
+    last_name: Vicentino
+    nationality: Italian
+    born_year: 1511
+    died_year: 1576
+    died_cira: true
+    born_location:
+        region: Vicenza
+        country: Italy
+    died_location:
+        region: Milan
+        country: Italy

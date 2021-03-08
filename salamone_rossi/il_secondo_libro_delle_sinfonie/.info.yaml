@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: salamone_rossi/il_secondo_libro_delle_sinfonie
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro delle sinfonie ...
+    year: 1608

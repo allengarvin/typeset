@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giaches_de_wert/book_VI_a5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: 'Il sesto libro de madrigali à 5'
+    year: 1577
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

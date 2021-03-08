@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: michael_praetorius/musarum_sioniar
+source:
+    city: Nuremberg
+    date_exact: true
+    title: 'Musarum Sioniar: Motectae et Psalmi Latini'
+    year: 1607

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_di_lasso/1570__premier_livre_des_chansons_a_4_et_5
+source:
+    city: Leuven
+    date_exact: true
+    manuscript: false
+    press: 'Phalèse press'
+    print: true
+    title: Premier livre des chansons ... par Lassus, de Rore
+    year: 1570

@@ -1,0 +1,23 @@
+---
+top:
+    type: composer
+    path: /gioseffo_guami
+biography:
+    name: Gioseffo Guami
+    name_variants:
+        - Giuseppe Guami
+        - Gioseffo de Lucca
+    last_name: Guami
+    nationality: Italian
+    born_year: 1542
+    born_date: 1542-01-27
+    died_year: 1611
+    born_location:
+        region: Lucca
+        country: Italy
+    died_location:
+        region: Lucca
+        country: Italy
+urls:
+    - https://doi.org/10.1093/gmo/9781561592630.article.11895
+    - https://en.wikipedia.org/wiki/Gioseffo_Guami

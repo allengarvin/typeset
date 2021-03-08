@@ -1,0 +1,12 @@
+---
+files:
+- 04-gabrieli-a5-0-score.ly
+- 04-gabrieli-a5-1-cantus.ly
+- 04-gabrieli-a5-2-altus.ly
+- 04-gabrieli-a5-3-tenor.ly
+- 04-gabrieli-a5-4-bassus.ly
+- 04-gabrieli-a5-5-quintus.ly
+primary:
+  composer: Andrea Gabrieli (c.1532-1585)
+  folio: Psalm 45:1-8
+  title: Deus noster refugium

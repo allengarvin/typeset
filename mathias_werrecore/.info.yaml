@@ -1,0 +1,14 @@
+---
+top:
+    type: composer
+    path: /mathias_werrecore
+biography:
+    name: Matthias Werrecore
+    name_variants:
+        - Matthias Verecore
+        - Matthias Verecore
+        - Matthias Verrecore
+    last_name: Werrecore
+    nationality: Flemish
+    died_year: 1574
+    died_circa: true

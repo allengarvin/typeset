@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orazio_faa/il_secondo_libro_de_madrigali
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Il secondo libro de madrigali à 5 e 6 voci'
+    year: 1571

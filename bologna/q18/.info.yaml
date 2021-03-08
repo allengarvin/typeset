@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: bologna/q18
+source:
+    date_circa: true
+    title: Bologna MS Q18
+    year: 1487

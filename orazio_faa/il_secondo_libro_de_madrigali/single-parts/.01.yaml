@@ -1,0 +1,11 @@
+---
+files:
+- 01-faa-a5-0-score.ly
+- 01-faa-a5-1-canto.ly
+- 01-faa-a5-2-alto.ly
+- 01-faa-a5-3-tenore.ly
+- 01-faa-a5-4-basso.ly
+- 01-faa-a5-5-quinto.ly
+primary:
+  composer: 'Giovanni Matteo Faà di Bruno (fl.c1570)'
+  title: 'Gridò più volte il Po, quest’onde, o Donna'

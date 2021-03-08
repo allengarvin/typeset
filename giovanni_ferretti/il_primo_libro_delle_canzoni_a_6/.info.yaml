@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giovanni_ferretti/il_primo_libro_delle_canzoni_a_6
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: 'Il primo libro delle canzoni à 6 voci'
+    year: 1568

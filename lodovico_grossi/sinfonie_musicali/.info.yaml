@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: lodovico_grossi/sinfonie_musicali
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenti press
+    print: true
+    title: 'Sinfonie musicali à 8'
+    year: 1610

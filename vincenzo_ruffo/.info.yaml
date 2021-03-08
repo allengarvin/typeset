@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /vincenzo_ruffo
+biography:
+    name: Vincenzo Ruffo
+    last_name: Ruffo
+    nationality: Italian
+    born_year: 1508
+    born_circa: true
+    died_year: 1587
+    died_date: 1587-02-09
+    born_location:
+        region: Verona
+        country: Italy
+    died_location:
+        region: Pordenone
+        country: Italy

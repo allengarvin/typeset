@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /giovanni_croce
+biography:
+    name: Giovanni Croce
+    last_name: Croce
+    nationality: Italian
+    born_year: 1557
+    born_circa: true
+    died_year: 1609
+    died_date: 1609-05-15
+    born_location:
+        region: Chioggia
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.06848

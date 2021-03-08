@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /benedetto_pallavicino
+biography:
+    name: Benedetto Pallavicino
+    last_name: Pallavicino
+    nationality: Italian
+    born_year: 1551
+    born_circa: true
+    died_year: 1601
+    died_date: 1601-11-26
+    born_location:
+        region: Cremona
+        country: Italy
+    died_location:
+        region: Mantua
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.20761

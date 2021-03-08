@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: ottaviano_petrucci/canti-b
+source:
+    city: Venice
+    date_exact: true
+    title: Canti B numero cinquanta
+    year: 1501

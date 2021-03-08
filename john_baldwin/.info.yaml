@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /john_baldwin
+biography:
+    name: John
+    name_variants:
+        - John Baldwine
+        - John Baldwyn
+        - John Baudewyn
+        - John Bawdwine
+    last_name: Baldwin
+    nationality: English
+    born_year: 1560
+    born_circa: true
+    died_year: 1615
+    died_date: 1615-08-28
+    born_location:
+        country: England
+    died_location:
+        region: London
+        country: England

@@ -1,0 +1,19 @@
+---
+local:
+    facsimile_directory: 1537__novum_et_insigne_opus_musicum__6_5_et_4_vocum
+    typeset_directory: di_diversi/1537__novum_et_insigne_opus_musicum
+source:
+    city: Nuremberg
+    date_exact: true
+    title: Novum et insigne opus musicum
+    press: Hieronymus Andreae press
+    year: 1537
+contents:
+    type: motet
+    parts: 5|6|7
+    language: latin
+catalog:
+    rism: 1537.1
+urls:
+    imslp: https://imslp.org/wiki/Novum_et_insigne_opus_musicum_(Formschneider%2C_Hieronymus)
+

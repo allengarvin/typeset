@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: luca_marenzio/madrigali_a_4_voci
+source:
+    city: Venice
+    date_exact: true
+    title: 'Madrigali à 4, Libro Primo'
+    year: 1585

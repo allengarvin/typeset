@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /francesco_guerrero
+biography:
+    name: Francesco Guerrero
+    last_name: Guerrero
+    nationality: Spanish
+    born_year: 1528
+    born_year: 1528-10-04
+    died_yeaR: 1599
+    died_date: 1599-11-08
+    born_location:
+        region: Seville
+        country: Spain
+    died_location:
+        region: Seville
+        country: Spain
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.11929

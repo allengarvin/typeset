@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /adriano_banchieri
+biography:
+    name: Adriano Banchieri
+    name_variants:
+        - Adriano Tomaso Banchieri
+    last_name: Banchieri
+    nationality: Italian
+    born_year: 1568
+    born_date: 1568-09-03
+    died_year: 1634
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Bologna
+        country: Italy
+    urls:
+        - https://en.wikipedia.org/wiki/Adriano_Banchieri
+        - http://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000001932

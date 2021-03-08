@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1587__gallus_jacobus__tertius_tomus__musici_operis_harmonium_4_5_6_8_et_plurium_vocum
+    typeset_directory: jacob_handl/tomus_tertius
+source:
+    city: Prague
+    date_exact: true
+    title: Musici operis harmoniarum, tertius tomus
+    press: Jiří Nigrin press
+    year: 1587

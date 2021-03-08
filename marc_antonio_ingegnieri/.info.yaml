@@ -1,0 +1,25 @@
+---
+top:
+    type: composer
+    path: /marc_antonio_ingegnieri
+biography:
+    name: Marc'Antonio Ingegneri
+    name_variants:
+        - Marc'Antonio Ingegnieri
+        - Marc'Antonio Ingignieri
+        - Marc'Antonio Ingignero
+        - Marc'Antonio Inzegneri
+    last_name: Ingegneri
+    nationality: Italian
+    born_year: 1535-1536
+    born_range: true
+    died_year: 1592
+    died_date: 1592-07-01
+    born_location:
+        region: Verona
+        country: Italy
+    died_location:
+        region: Cremona
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.13795

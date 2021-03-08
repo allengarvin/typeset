@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: andrea_gabrieli/il_primo_libro_de_madrigali_a_6
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Il primo libro de madrigali à 6 voci'
+    year: 1574

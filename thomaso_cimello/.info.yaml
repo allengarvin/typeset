@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /thomaso_cimello
+biography:
+    name: Giovanthomaso Cimello
+    name_variants:
+        - Thomaso Cimello
+    last_name: Cimello
+    nationality: Italian
+    born_year: 1510
+    born_circa: true
+    died_year: 1579
+    died_circa: true
+    born_location:
+        region: Arpino
+        country: Italy

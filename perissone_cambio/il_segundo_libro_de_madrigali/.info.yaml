@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: perissone_cambio/il_segundo_libro_de_madrigali
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Il segundo libro di madregali a 5 voci
+    year: 1550

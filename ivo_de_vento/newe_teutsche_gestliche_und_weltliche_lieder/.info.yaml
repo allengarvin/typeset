@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1582__vento__ivo_de_newe_teutsche_geistliche_und_weltliche_lieder
+    typeset_directory: ivo_de_vento/newe_teutsche_gestliche_und_weltliche_lieder
+source:
+    city: Munich
+    date_exact: true
+    title: Newe teutsche geistliche und weltliche lieder
+    press: Adam Berg press
+    year: 1582

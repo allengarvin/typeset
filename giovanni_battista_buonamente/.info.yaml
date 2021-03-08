@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /giovanni_battista_buonamente
+biography:
+    name: Giovanni Battista Buonamente
+    last_name: Buonamente
+    nationality: Italian
+    born_unknown: True
+    died_year: 1642
+    died_date: 1642-08-29
+    born_location:
+        region: Mantua
+        country: Italy
+    died_location:
+        region: Assisi
+        country: Italy

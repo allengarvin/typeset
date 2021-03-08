@@ -1,0 +1,22 @@
+---
+top:
+    type: printer
+    path: /pierre_phalese
+biography:
+    name: Pierre Phalèse
+    name_variants:
+        -
+        -
+        -
+    last_name: Phalèse
+    nationality: Flemish
+    born_year: 1505
+    born_circa: true
+    died_year: 1573
+    died_circa: true
+    born_location:
+        region: Leuven
+        country: Flanders
+    died_location:
+        region: Leuven
+        country: Flanders

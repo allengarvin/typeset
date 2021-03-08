@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /floriano_canale
+biography:
+    name: Floriano Canale
+    name_variants:
+        - Floriano Canali
+        - Floriano Canalis
+    last_name: Canale
+    nationality: Italian
+    born_year: 1550
+    born_circa: true
+    died_year: 1603
+    died_circa: true
+    born_location:
+        region: Brescia
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.04711

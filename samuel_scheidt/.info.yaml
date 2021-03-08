@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /samuel_scheidt
+biography:
+    name: Samuel Scheidt
+    last_name: Scheidt
+    nationality: German
+    born_year: 1587
+    born_date: 1587-11-03
+    died_year: 1654
+    died_date: 1654-03-24
+    born_location:
+        region: Halle
+        country: Germany
+    died_location:
+        region: Halle
+        country: Germany

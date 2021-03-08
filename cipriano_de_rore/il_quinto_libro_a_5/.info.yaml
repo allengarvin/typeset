@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: cipriano_de_rore/il_quinto_libro_a_5
+source:
+    date_exact: true
+    title: 'Il quinto libro di madrigali à 5 voci'
+    year: 1557

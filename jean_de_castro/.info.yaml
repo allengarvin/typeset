@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /jean_de_castro
+biography:
+    name: Jean de Castro
+    name_variants:
+        - Jean de Castro
+        - Giovan de Castro
+        - Giovanni de Castro
+        - Ioanne de Castro
+        - Ionnis a Castro
+    last_name: Castro
+    nationality: Flemish
+    born_year: 1540
+    born_circa: true
+    died_year: 1600
+    died_circa: true
+    born_location:
+        region: Liège
+        country: Flanders
+    died_location:
+        region: Cologne?
+        country: France

@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/andrea_gabrieli-ricercar_a8
+source:
+    city: Venice
+    date_exact: true
+    title: Concerti ... di Chiesa
+    year: 1587

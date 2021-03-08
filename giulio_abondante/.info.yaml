@@ -1,0 +1,13 @@
+---
+top:
+    type: composer
+    path: /giulio_abondante
+biography:
+    name: Giulio Abondante
+    name_variants:
+        - Giulio Abundante
+        - Julio Abondate
+        - Giulio Abondante dal Pestrina
+    last_name: Abondante
+    nationality: Italian
+    flourished: 1547-87

@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /jean_servin
+biography:
+    name: Jean Servin
+    name_variants:
+        - Jean Servyn
+    last_name: Servin
+    nationality: French
+    born_year: 1530
+    born_circa: true
+    died_year: 1595
+    died_circa: true
+    born_location:
+        region: Orleans or Blois
+        country: France
+    died_location: 
+        region: Geneva
+        country: Switzerland

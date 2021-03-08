@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giacomo_gastoldi/balletti_a_5_voci
+source:
+    city: Antwerp
+    date_exact: true
+    title: Balletti a cinque voci
+    year: 1596

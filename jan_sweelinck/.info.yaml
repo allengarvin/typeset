@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /jan_sweelinck
+biography:
+    name: Jan Pieterszoon Sweelinck
+    name_variants:
+        - Jan Pieterszoon Swelinck
+        - Jan Pieterszoon Zwelinck
+        - Jan Pieterszoon Sweeling
+        - Jan Pieterszoon Sweelingh
+        - Jan Pieterszoon Sweling
+        - Jan Pieterszoon Swelingh
+    last_name: Sweelinck
+    nationality: Flemish
+    born_year: 1562
+    died_year: 1621
+    died_date: 1612-10-16
+    born_location:
+        region: Deventer
+        country: Netherlands
+    died_location:
+        region: Amsterdam
+        country: Netherlands

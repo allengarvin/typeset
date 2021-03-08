@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/lully-chaconne_des_scaramouches
+source:
+    date_exact: true
+    title: Bourgeois Gentilhomme
+    year: 1673

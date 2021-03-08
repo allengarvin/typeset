@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /clemens_non_papa
+biography:
+    name: Jacobus Clemens non Papa
+    name_variants:
+        - Jacob Clement
+    last_name: Clemens non Papa
+    nationality: Flemish
+    born_year: 1510
+    born_circa: true
+    born_range: 1510-1515
+    died_year: 1555/6
+    urls:
+        https://doi.org/10.1093/gmo/9781561592630.article.05930

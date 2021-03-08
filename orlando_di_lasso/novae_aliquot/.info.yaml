@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_di_lasso/novae_aliquot
+source:
+    city: Munich
+    date_exact: true
+    title: Novae aliquot ... cantiones suavissimae
+    year: 1577

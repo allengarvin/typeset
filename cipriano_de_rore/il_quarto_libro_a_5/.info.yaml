@@ -1,0 +1,124 @@
+---
+local:
+    facsimile_directory: complete/1557__rore_cipriano_de__il_quarto_libro_di_madrigali_a_5_voci__gardano_press
+    typeset_directory: cipriano_de_rore/il_quarto_libro_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: 'Il quarto libro di madrigali à 5 voci'
+    year: 1557
+    pieces: 28
+catalog:
+    lewis: 232
+    rism: R2496-1557/23
+    bsb: 4 mus pr 155/12
+    bnf: Rés 1039 (T only)
+contents:
+    1:
+        title: La bella greca ond'el pasto ideo
+    2:
+        title: O morte eterno fin di tutti'i mali
+    3:
+        title: Alcun non puo saper da chi sia amato
+    4:
+        title: Ingrata e la mia donna
+        composer: Adrian Willaert (c.1490-1562)
+        part: 1
+    5:
+        title: Ingrata hai lasso l'amo
+        composer: Adrian Willaert (c.1490-1562)
+        part: 2
+    6:
+        title: Volgi'l tuo corso alla tua riva manca
+    7:
+        title: Come la notte ogni fiammella e vivo
+    8:
+        title: Quando signor lasciast'entro'a le rive
+        part: 1
+    9:
+        title: Ma poi che vostr'altezz'a noi ritorno
+        part: 2
+    10:
+        title: Io mi rivolgo indietro a ciascun passo
+        composer: Jan Nasco (c.1510-1561)
+        part: 1
+    11:
+        title: Talhor m'assale in mezo a tristi pianti
+        composer: Jan Nasco (c.1510-1561)
+        part: 2
+    12:
+        title: Di virtù, di costumi, di valore,
+        part: 1
+    13:
+        title: Così ’l mio stil, qual fé la tua bellezza
+        part: 2
+    14:
+        title: In suo rusciell'amato
+        composer: Jan Nasco (c.1510-1561)
+    15:
+        title: Che giova saettar un che si more
+        composer: Innocentia Alberti (c.1535-1615)
+    16:
+        title: Nova bellezza in habito gentile
+        composer: Innocentia Alberti (c.1535-1615)
+    17:
+        title: L'ineffabil bonta del Redentore
+    18:
+        title: Amor l'arco e rete indarndo tendi
+        composer: Sandrin (c.1490-after 1560)
+    19:
+        title: Dal gran pastor Ideo vista e rapita
+        composer: Giovanni Contino (c.1513-1574)
+    20:
+        title: Discolorato hai morte il più bel volto
+        composer: Pietro Taglia (fl.1565-1577)
+        part: 1
+    21:
+        title: Ben torna a consolar tanto dolore
+        composer: Pietro Taglia (fl.1565-1577)
+        part: 2
+    22:
+        title: Amor io son si lieto
+        composer: Baldassare Donato (1529-1603)
+    23:
+        title: Quanto più a l'alma speme crescia
+    24:
+        title: Se ben il duol che per voi donna sento
+        part: 1
+    25:
+        title: Ben voi a più di mille e mille segni
+        part: 2
+    26:
+        title: L'alto signor dinanzi a cui non vale
+        part: 1
+        final: c
+        flats: 1
+        voci: 6
+        clefs:
+            cantus: g2
+            altus: c2
+            tenor: c3
+            bassus: f3
+            quintus: c3
+            sesta: c1
+        author: Francesco Petrarca (1304-1374)
+    27:
+        title: L'una piagh' arde e versa foco e fiamma
+        part: 2
+        final: f
+        flats: 1
+        voci: 6
+        clefs:
+            cantus: g2
+            altus: c2
+            tenor: c3
+            bassus: f3
+            quintus: c3
+            sesta: c1
+        author: Francesco Petrarca (1304-1374)
+    28:
+        title: Amor se così dolc'e il mio dolore
+        voci: 8

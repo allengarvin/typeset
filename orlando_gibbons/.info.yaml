@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /orlando_gibbons
+biography:
+    name: Orlando Gibbons
+    last_name: Gibbons
+    nationality: English
+    born_year: 1583
+    born_date: 1583-12-25
+    died_year: 1625
+    died_date: 1625-06-05
+    born_location:
+        region: Oxford
+        country: England
+    died_location:
+        region: Canterbury
+        country: England
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.11092

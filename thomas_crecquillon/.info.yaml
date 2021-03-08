@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /thomas_crecquillon
+biography:
+    name: Thomas Crecquillon
+    name_variants:
+        - Thomas Crequillon
+        - Thomas Cricquillon
+        - Thomas Crequillonis
+        - Thomas Carchillion
+        - Thomas Krequilon
+    last_name: Crequillon
+    nationality: Flemish
+    born_year: 1505
+    born_circa: true
+    died_year: 1557
+    died_circa: true
+    born_location:
+        country: Flanders

@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: georg_forster/deutsche_liedlein__book_5
+source:
+    city: Nuremberg
+    date_exact: true
+    title: 'Fünften Teutscher Liedlein'
+    year: 1556

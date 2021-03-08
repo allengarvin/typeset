@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: thomas_campion/the_first_booke_of_of_ayres
+source:
+    date_exact: true
+    title: Two Bookes of Ayres
+    year: 1637

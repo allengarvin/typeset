@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giaches_de_wert/1583__musici_suavissimi
+source:
+    city: Nuremberg
+    date_exact: true
+    manuscript: false
+    press: Gerlach press
+    print: true
+    title: Modulationum sacrarum 5 et sex vocum
+    year: 1583

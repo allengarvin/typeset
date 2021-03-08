@@ -1,0 +1,17 @@
+---
+files:
+- 30-lasso-a8-0-score.ly
+- 30-lasso-a8-0.1-score.ly
+- 30-lasso-a8-0.2-score.ly
+- 30-lasso-a8-1-cantus1.ly
+- 30-lasso-a8-2-altus1.ly
+- 30-lasso-a8-3-tenor1.ly
+- 30-lasso-a8-4-bassus1.ly
+- 30-lasso-a8-5-cantus2.ly
+- 30-lasso-a8-6-altus2.ly
+- 30-lasso-a8-7-tenor2.ly
+- 30-lasso-a8-8-bassus2.ly
+primary:
+  composer: Orlande de Lassus (c.1532-1594)
+  folio: Book of Psalms 120
+  title: Levavi oculos meos

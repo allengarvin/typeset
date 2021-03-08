@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /hans_leo_hassler
+biography:
+    name: Hans Leo Hassler
+    name_variants:
+        - Johann Leo Hassler
+        - Hans Leo Haslerus
+    last_name: Hassler
+    nationality: German
+    born_year: 1564
+    born_date: 1564-10-26
+    died_year: 1612
+    died_date: 1612-06-08
+    born_location:
+        region: Nuremberg
+        country: Germany
+    died_location:
+        region: Frankfurt
+        country: Germany

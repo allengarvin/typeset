@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: michael_praetorius/terpsichore
+source:
+    city: 'Wolfenbüttel'
+    date_exact: true
+    title: Terpsichore, Musarum Aoniarum
+    year: 1612

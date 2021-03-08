@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: blessi_manoli/il_primo_libro_delle_gregesche
+source:
+    city: Venice
+    date_exact: true
+    title: Il Primo Libro Delle Greghesche
+    year: 1564

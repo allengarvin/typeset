@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1539__le_parangon_des_chansons_4
+source:
+    city: Lyons
+    date_exact: true
+    manuscript: false
+    press: Moderne press
+    print: true
+    title: Le parangon des chansons, quart livre
+    year: 1539

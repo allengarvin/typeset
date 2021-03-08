@@ -1,0 +1,12 @@
+---
+files:
+- 09-palestrina-a5-0-score.ly
+- 09-palestrina-a5-1-cantus.ly
+- 09-palestrina-a5-2-altus.ly
+- 09-palestrina-a5-3-tenor.ly
+- 09-palestrina-a5-4-bassus.ly
+- 09-palestrina-a5-5-quintus.ly
+primary:
+  composer: Giovanni Pierluigi da Palestrina (c.1525-1594)
+  folio: John 20:17, 15:26, 16:22
+  title: Ascendo ad Patrem

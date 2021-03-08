@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1575__duc_philippe__fiamengo__libro_primo_a_6_voci
+    typeset_directory: philippe_de_monte/le_vergini_1574
+source:
+    city: Venice
+    date_exact: true
+    title: Le vergini, libro primo à 6 voci
+    press: Antonio Gardano press
+    year: 1574
+catalog:
+    newvogel: NV 875
+contents:
+    type: madrigal
+    parts: 6
+    part_names: canto, alto, tenore, basso, quinto, sesto

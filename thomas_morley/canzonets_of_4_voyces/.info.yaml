@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: thomas_morley/canzonets_of_4_voyces
+source:
+    city: London
+    date_exact: true
+    manuscript: false
+    press: Peter Short press
+    print: true
+    title: Canzonets or Little Short Songs to Foure Voyces
+    year: 1597

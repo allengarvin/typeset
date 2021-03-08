@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1578__mosto_giovanni_battista__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: giovanni_battista_mosto/primo_libro_de_madrigali
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali à 5 voci
+    press: Girolamo Scotto press
+    year: 1578
+catalog:
+    bologna: T.124
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

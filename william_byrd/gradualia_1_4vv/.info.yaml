@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: william_byrd/gradualia_1_4vv
+source:
+    city: London
+    date_exact: true
+    title: Gradualia ac cantiones sacre, liber primus
+    press: Thomas East press
+    year: 1605

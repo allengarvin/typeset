@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1591__wert_giaches_de__il_decimo_libro_de_madrigali_a_5_voci__gardano_press
+    typeset_directory: giaches_de_wert/book_X_a5
+source:
+    city: Venice
+    date_exact: true
+    title: Il decimo libro de madrigali à 5 voci
+    press: Angelo Gardano press
+    year: 1591
+catalog:
+    bologna: V.4
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: ottaviano_petrucci/frottole_1
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Petrucci press
+    print: true
+    title: Frottole libro primo
+    year: 1504

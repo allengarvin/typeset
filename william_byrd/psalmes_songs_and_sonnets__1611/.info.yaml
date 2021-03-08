@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: william_byrd/psalmes_songs_and_sonnets__1611
+source:
+    city: London
+    date_exact: true
+    title: Psalmes, songs and sonnets
+    year: 1611

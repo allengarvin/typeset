@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: elias_ammerbach/1583__orgel_oder_instrument_tabulaturbuch
+source:
+    city: Nuremberg
+    date_exact: true
+    manuscript: false
+    press: Gerlach press
+    print: true
+    title: Orgel oder Instrument Tabulaturbuch
+    year: 1583

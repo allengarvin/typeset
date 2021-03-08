@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: claude_le_jeune/octonaires_de_la_vanite
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Ballard press
+    print: true
+    title: Octonaires de la vanite et inconstance du monde
+    year: 1606

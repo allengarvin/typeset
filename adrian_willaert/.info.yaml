@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /adrian_willaert
+biography:
+    name: Adrian Willaert
+    name_variants:
+        - Adriano Willaert
+        - Adrian Vuigliart
+    last_name: Willaert
+    nationality: Flemish
+    born_year: 1490
+    born_circa: true
+    died_year: 1562
+    died_date: 1562-12-07
+    born_location:
+        region: Bruges or Roulaers
+        country: Flanders
+    died_location:
+        region: Venice
+        country: Italy
+    urls:
+        - http://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000040122
+        - https://en.wikipedia.org/wiki/Adrian_Willaert

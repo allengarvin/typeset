@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: girolamo_frescobaldi/primo_libro_d_arie_musicali
+source:
+    city: Florence
+    date_exact: true
+    title: Primo libro d'arie musicali per cantarsi
+    year: 1630

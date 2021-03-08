@@ -1,0 +1,13 @@
+---
+top:
+    type: composer
+    path: /girolamo_conversi
+biography:
+    name: Girolamo Conversi
+    last_name: Conversi
+    nationality: Italian
+    flourished: 1572-1575
+    born_location:
+        region: Italy
+        country: Correggio
+    

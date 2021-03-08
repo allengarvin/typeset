@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /antonio_morsolino
+biography:
+    name: Antonio Morsolino
+    last_name: Morsolino
+    nationality: Italian
+    flourished: 1588-1594
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.19170

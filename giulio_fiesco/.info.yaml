@@ -1,0 +1,9 @@
+---
+top:
+    type: composer
+    path: /giulio_fiesco
+biography:
+    name: Giulio Fiesco
+    last_name: Fiesco
+    nationality: Italian
+    flourished: 1550-1570

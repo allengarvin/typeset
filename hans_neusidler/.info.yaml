@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /hans_neusidler
+biography:
+    name: Hans Neusidler
+    last_name: Neusidler
+    nationality: Austrian
+    born_year: 1508
+    born_circa: true
+    died_year: 1563
+    died_date: 1563-02-02
+    born_location:
+        region: Bratislava
+        country: Slovakia
+    died_location:
+        region: Nuremberg
+        country: Germany

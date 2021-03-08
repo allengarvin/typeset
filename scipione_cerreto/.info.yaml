@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /scipione_cerreto
+biography:
+    name: Scipione Cerreto
+    last_name: Cerreto
+    nationality: Italian
+    born_year: 1551
+    born_circa: true
+    died_year: 1633
+    died_circa: true
+    born_location:
+        region: Naples
+        country: Italy
+    died_location:
+        region: Naples
+        country: Italy

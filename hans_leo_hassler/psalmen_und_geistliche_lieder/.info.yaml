@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: hans_leo_hassler/psalmen_und_geistliche_lieder
+source:
+    city: Nuremberg
+    date_exact: true
+    title: Psalmen und geistliche Lieder
+    year: 1608

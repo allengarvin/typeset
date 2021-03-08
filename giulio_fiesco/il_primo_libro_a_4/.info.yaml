@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giulio_fiesco/il_primo_libro_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Il primo libro di madrigali à 4 voci'
+    year: 1554

@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1589__byrd_william__cantiones_sacrae
+    typeset_directory: william_byrd/1589_cantiones_sacrae
+source:
+    city: London
+    date_exact: true
+    title: Liber primus sacrarum cantionum
+    full_title: Liber primus sacrarum cantionum quinque vocum
+    press: Thomas East press
+    year: 1589
+contents:
+    type: motet
+    parts: 5
+    part_names: superius, medius, contratenor, tenor, bassus
+    language: latin

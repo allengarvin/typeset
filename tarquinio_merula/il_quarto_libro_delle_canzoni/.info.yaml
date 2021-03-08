@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1651__merula_tarquinio__il_quarto_libro_delle_canzoni_da_suonare_a_2_et_a_3
+    typeset_directory: tarquinio_merula/il_quarto_libro_delle_canzoni
+source:
+    city: Venice
+    date_exact: true
+    title: Il quarto libro delle canzoni da suonare, op. 17
+    full_title: Il quarto libro delle canzoni da suonare a doi e a tre
+    press: Alessandro Vincenti
+    year: 1651

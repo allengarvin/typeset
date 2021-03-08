@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: adrian_willaert/intavolatura_de_li_madrigali_di_verdelot
+source:
+    city: Venice
+    date_exact: true
+    title: Intavolatura de li madrigali di Verdelotto
+    year: 1536

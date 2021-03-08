@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giovanni_battista_conforti/madrigali_novamente
+source:
+    city: Venice
+    date_exact: true
+    title: 'Madrigali Nuovamente à 5, libro primo'
+    year: 1567

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1545__16e_livre_des_chansons__attaingnant
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Attaingnant press
+    print: true
+    title: Seysiesme livre contenant 29 chansons nouvelles
+    year: 1545

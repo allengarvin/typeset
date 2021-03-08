@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1555__sextus_tomus_evangelio_dominicorum
+source:
+    city: Nuremberg
+    date_exact: true
+    title: Sextus tomus evangeliorum et piarum sentiarum
+    year: 1555

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: johann_staden/newe_pavenen_galliarden
+source:
+    city: Nuremberg
+    date_exact: true
+    manuscript: false
+    press: Balthasar press
+    print: true
+    title: Newe Pavanen, Galliarden ...
+    year: 1618

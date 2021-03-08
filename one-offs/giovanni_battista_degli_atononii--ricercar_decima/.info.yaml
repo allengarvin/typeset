@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/giovanni_battista_degli_atononii--ricercar_decima
+source:
+    date_exact: true
+    title: Ricercate sopra il violoncello o clavicemalo
+    year: 1567

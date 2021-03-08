@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: andrea_gabrieli/terzo_libro_de_ricercari
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Il terzo libro de ricercari
+    year: 1596

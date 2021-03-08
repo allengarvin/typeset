@@ -1,0 +1,18 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: sebastian_raval/il_primo_libro_de_canzonette
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro di canzonette à 4 voci
+    press: Giacomo Vincenti press
+    year: 1593
+catalog:
+    bologna: U.113
+contents:
+    type: canzonette|ricercar
+    parts: 4
+    part_names: canto, alto, tenore, basso
+    language: italian
+    pieces: 23

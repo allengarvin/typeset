@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: pierre_attaingnant/1528__35_chansons_a_4
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Attaignant press
+    print: true
+    title: '35 chansons musicales à 4 parties'
+    year: 1528

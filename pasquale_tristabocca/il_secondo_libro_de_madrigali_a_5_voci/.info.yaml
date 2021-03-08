@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1586__pasquale_tristabocca_il_secondo_libro_di_madrigali_a_5_voci 
+    typeset_directory: pasquale_tristabocca/il_secondo_libro_de_madrigali_a_5_voci
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro di madrigali à 5 voci
+    press: Girolamo Scotto
+    year: 1586
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

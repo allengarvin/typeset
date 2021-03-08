@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /pietro_vinci
+biography:
+    name: Pietro Vinci
+    last_name: Vinci
+    nationality: Italian
+    born_year: 1525
+    born_circa: true
+    died_year: 1584
+    born_location:
+        region: Nicosia, Sicily
+        country: Italy
+    died_location:
+        region: Nicosia, Sicily
+        country: Italy

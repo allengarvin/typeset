@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1564__gardano__il_primo_libro_de_canzoni_francese_a_2
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Il primo libro de canzoni Francese à 2'
+    year: 1564

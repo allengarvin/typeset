@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_di_lasso/jubilus_b_virginis
+source:
+    city: Munich
+    date_exact: true
+    manuscript: false
+    press: Henricus press
+    print: true
+    title: Jubilus B. Virginis hoc est Centum Magnificat
+    year: 1609

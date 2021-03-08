@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /mattheus_le_maister
+biography:
+    name:
+    name_variants:
+        -
+        -
+        -
+    last_name:
+    nationality:
+    born_year:
+    died_year:
+    died_date:
+    born_location:
+        region:
+        country:
+    died_location:
+        region:
+        country:

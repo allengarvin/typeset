@@ -1,0 +1,606 @@
+---
+local:
+    facsimile_directory: complete/1586__wert_giaches_de__l_ottava_libro_de_madrigali_a_5_voci
+    typeset_directory: giaches_de_wert/book_VIII_a5
+source:
+    city: Venice
+    date_exact: true
+    title: L"'"Ottavo Libro de Madrigali à 5 voci'
+    full_title: L"'"ottavo libro de madrigali a cinque voci, novamente composto e dato in luce
+    press: Angelo Gardano press
+    year: 1586
+    reprints: 1596
+catalog:
+    bologna: V.1
+    rism: W-0885
+    bsb: 4 Mus.pr. 44
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 21
+    1:
+        flats: 1
+        final: g
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+        title: "Io non son però morto"
+        text_type: madrigal
+        author: Girolamo Romanino (c.1485-c.1566)"
+        text:
+            - "Io no son però morto,"
+            - "Donna, come pensate,"
+            - "Perchè più non m'amate;"
+            - "Anzi ritorno in vita."
+            - "Ché l'alma in voi sepolta"
+            - "Da voi sendosi sciolta"
+            - "Si trova esser uscita"
+            - "D'una prigion mortale;"
+            - "E cangia in vita e ben"
+            - "La morte e'l male."
+    2:
+        flats: 1
+        final: g
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+        title: Rallegrati mio cor
+        text_type: madrigal
+        text:
+            - "Rallegrati mio cor, ch'ogni dolore,"
+            - "Che per donna hai patito in gioia è volto"
+            - "E al fin sei stato accolto"
+            - "Nel sen de la tua Diva"
+            - "Ch'or d'ogni dubbio è priva,"
+            - "Chavea del nostro amore"
+            - "Onde vivrem beati a tutte l'ore."
+    3:
+        flats: 1
+        final: g
+        clefs:
+            canto: c1
+            alto: c1
+            tenore: c3
+            basso: f4
+            quinto: c1
+        title: Sì come ai freschi
+        text:
+            - "Sì come ai freschi matutini rai"
+            - "Rosa vermiglia in bianchi gigli splende"
+            - "Così la vostra man quando si stende"
+            - "Ai lumi dolci e gai,"
+            - "Se non che quella si disfiora e solve"
+            - "Tosto ch’el sol si volve,"
+            - "Ma la man vostra ha più vaghezza sempre"
+            - "De l’amorose tempre,"
+            - "Di que’ begl’occhi ond’è il mio cor di polve."
+            - "Ben essi fan ch’ei si distrugg’e stempre"
+            - "In foco tal che venga cenere"
+            - "Pria ch’il foco in lui si spenga."
+        text_type: madrigal
+    4:
+        flats: 1
+        final: f
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+        title: Vezzosi Augelli infra le verdi fronde
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto XVI ottava XII
+        text_type: ottava rima
+            - "Vezzosi augelli infra le verdi fronde"
+            - "Temprano a prova lascivette note"
+            - "Mormora l’aura, e fa le foglie e l’onde"
+            - "Garrir, che variamente ella percote"
+            - "Quando taccion gli augelli, alto risponde;"
+            - "Quando cantan gli augei, più lieve scote."
+            - "Sia caso o d'arte, or accompagna, ed ora"
+            - "Alterna i versi lor la musica ora."
+        translation:
+            - "The joyous birds hid under greenwood shade"
+            - "Sung merry notes on every branch and bough;"
+            - "The wind, that in the leaves and waters played,"
+            - "With murmurs sweet now sung, and whistled now."
+            - "Ceased the birds, the winds loud answer made,"
+            - "And while they sang, it rumbled soft and low;"
+            - "Thus were it hap or cunning, chance or art"
+            - "The wind in this strange music bore its part."
+        translator: Edmund Spenser (c.1552-1599)
+    5:
+        flats: 1
+        final: f
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+        text_type: madrigal
+        title: Fra le dorate chiome
+            - "Fra le dorate chiome"
+            - "D’Amarilli gentil Amor tessea"
+            - "Lacci con che legar l’alme volea,"
+            - "Quando, ne dir so come,"
+            - "Stringerci si sentio"
+            - "Da’ crespi e bei capelli:"
+            - "Onde sdegnoso a quelli"
+            - "Disse, O legame rio,"
+            - "Come dei tu legar agl’altri il core,"
+            - "Se leghi me, ch’io lego gl’altri Amore?"
+    6:
+        flats: 0
+        final: c
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: g2
+        title: Usciva homai del molle e fresco grembo
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto XIV ottava I
+        text_type: ottava rima
+        text:
+            - "Usciva omai del molle e fresco grembo"
+            - "Della gran madre sua la notte oscura,"
+            - "Aure lievi portando e largo nembo"
+            - "Di sua rugiada preziosa e pura,"
+            - "E scotendo del vel l'humido lembo,"
+            - "Ne spargeva i fioretti e la verdura,"
+            - "E i venticelli dibattendo l'ali,"
+            - "Lusingavano il sonno de mortali."
+        translation:
+            - "Now from the fresh, the soft and tender bed"
+            - "Of her still mother, gentle night out flew,"
+            - "The fleeting balm on hills and dales she shed,"
+            - "With honey drops of pure and precious dew,"
+            - "And on the verdure of green forests spread"
+            - "The virgin primrose and the violet blue,"
+            - "And sweet-breathed Zephyr on his spreading wings,"
+            - "Sleep, ease, repose, rest, peace and quiet brings."
+        translator: Edward Fairfax (c.1580-1635)
+    7:
+        title: Sovente all'hor che sù gli estivi ardori
+        flats: 0
+        final: d
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: g2
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto VII ottava 19
+        part: 1
+        text_type: ottava rima
+        translator: Edward Fairfax (c.1580-1635)
+        text:
+            - Sovente, allor che su gli estivi ardori }
+            - giacean le pecorelle a l’ombra assise, }
+            - ne la scorza de’ faggi e de gli allori }
+            - segnò l’amato nome in mille guise, }
+            - e de’ suoi strani ed infelici amori }
+            - gli aspri successi in mille piante incise; }
+            - e in rileggendo poi le proprie note }
+            - rigò di belle lagrime le gote.  }
+        translation:
+            - But oft, when underneath the green-wood shade }
+            - Her flocks lay hid from Phoebus' scorching rays, }
+            - Unto her knight she songs and sonnets made, }
+            - And them engrav'd in bark of beech and bays; }
+            - She told how Cupid did her first invade,  }
+            - How conquer'd her, and ends with Tancred's praise; }
+            - And when her passion's writ she over read, }
+            - Again she mourn'd, again salt tears she shed. }
+    8:
+        title: Poscia dicea piangendo
+        flats: 0
+        final: a
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: g2
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto VII ottava 20
+        part: 2
+        text_type: ottava rima
+        translator: Edward Fairfax (c.1580-1635)
+        text:
+            - Poscia dicea piangendo\x3A In voi serbate
+            - Questa dolente istoria amiche piante
+            - Perchè se fia ch’alle vostre ombre grate
+            - Giammai soggiorni alcun fedele amante
+            - Senta svegliarsi al cor dolce pietate
+            - Delle sventure mie sì varie e tante:
+            - E dica\x3A ahi troppo in giusta empia mercede
+            - Diè fortuna ed amore a sì gran fede!
+        translation:
+            - You happy trees, for ever keep (quoth she)
+            - This woeful story in your tender rind
+            - Another day under your shade, may be,
+            - Will come to rest again some lover kind,
+            - Who if these trophies of my griefs he see,
+            - Shall feel dear pity pierce his gentle mind.
+            - With that she sigh'd, and said, too late I prove
+            - There is no truth in fortune, trust in love!
+    9:
+        title: Misera, non credea
+        flats: 0
+        final: a
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: g2
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto XIX ottava 106
+        text_type: ottava rima
+        part: 1
+        translator: Edward Fairfax (c.1580-1635)
+        text:
+            - Misera, non credea ch'a gli occhi miei
+            - Potessi in alcun tempo esser noioso.
+            - Or cieca farmi volentier torrei
+            - Per non vederti, e riguardar non oso.
+            - Oimè de' lumi già sí dolci e rei
+            - Ov' è la fiamma? ov' è il bel raggio ascoso?
+            - De le fiorite guance il bel vermiglio
+            - Ov' è fuggito? ov' è il seren del ciglio?
+        translation:
+            - I never thought that to mine eyes, my dear,
+            - Thou couldst have grievous or unpleasant been;
+            - But now would blind or rather dead I were,
+            - That thy sad plight might be unknown, unseen!
+            - Alas! where is thy mirth and smiling cheer?
+            - Where are thine eyes' clear beams and sparkles sheen?
+            - Of thy fair cheek where is the purple red,
+            - And forehead's whiteness? are all gone, all dead.
+    10:
+        title: Ma che? squallido e scuro
+        flats: 1
+        final: d
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: g2
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto XIX ottava 107
+        text_type: ottava rima
+        part: 2
+        translator: Edward Fairfax (c.1580-1635)
+            - Misera, non credea ch'a gli occhi miei
+            - Potessi in alcun tempo esser noioso.
+            - Or cieca farmi volentier torrei
+            - Per non vederti, e riguardar non oso.
+            - Oimè de' lumi già sí dolci e rei
+            - Ov' è la fiamma? ov' è il bel raggio ascoso?
+            - De le fiorite guance il bel vermiglio
+            - Ov' è fuggito? ov' è il seren del ciglio?
+        translation:
+            - Though gone, though dead, I love thee still, behold;
+            - Death wounds, but kills not love; yet if thou live,
+            - Sweet soul, still in his breast, my follies bold
+            - Ah, pardon love's desires, and stealths forgive;
+            - Grant me from his pale mouth some kisses cold,
+            - Since death doth love of just reward deprive;
+            - And of thy spoils sad death afford me this,
+            - Let me his mouth, pale, cold and bloodless, kiss.
+    11:
+        title: Non è sì denso velo
+        text_type: madrigal
+        flats: 0
+        clefs:
+            canto: g2
+            alto: g2
+            tenore: c3
+            basso: f3
+            quinto: g2
+        final: f
+            - "Non è si denso velo"
+            - "Se fosser monti sopra mont' imposti"
+            - "Ne si remoto cielo"
+            - "Che possa far nascosti"
+            - "Et lontan quei bei lumi"
+            - "Che ne mari ne fiumi"
+            - "Ne paesi longiqui"
+            - "Faran giamai che non mi sian propinqui."
+            - "I gl'hò si affissi a gl'occhi"
+            - "Ch'a ogni sguardo ch'io scocchi"
+            - "Parmi che quel splendor mi fenda il viso"
+            - "Ch'in vita mi mantien poi che m'hà ucciso."
+    12:
+        title: Qual musico gentil prima che chiara
+        flats: 0
+        final: a
+        clefs:
+            canto: c1
+            alto: c2
+            tenore: c4
+            basso: f4
+            quinto: c3
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto XVI ottava 43
+        text_type: ottava rima
+        part: 1
+            - "Qual musico gentil prima che chiara"
+            - "altamente la voce al canto snodi,"
+            - "al’armonia gli animi altrui prepara"
+            - "con dolci ricercate in bassi modi,"
+            - "così costei, che nella doglia amara"
+            - "già tutti non oblia l’arte e le frodi,"
+            - "fa di sospir breve concento in prima"
+            - "per dispor l’alma in cui le voci imprima."
+        translation:
+            - "As cunning singers, ere they strain on high"
+            - "In loud melodieus tunes their gentle voice,"
+            - "Prepare the hearers' ears to harmony,"
+            - "With feignings sweet, low notes and warble choice;"
+            - "So she, not having yet forgot pardie"
+            - "Her wonted shifts and sleights in Cupid's toys,"
+            - "A sequence first of sighs and sobs forth cast"
+            - "To breed compassion dear, then spoke at last."
+        translator: Edward Fairfax (c.1580-1635)
+    13:
+        title: Poi cominciò\x3A Non aspettar ch’io preghi
+        flats: 0
+        final: a
+        clefs:
+            canto: c1
+            alto: c1
+            tenore: c4
+            basso: f4
+            quinto: c3
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto XVI ottava 44
+        text_type: ottava rima
+        part: 2
+        translator: Edward Fairfax (c.1580-1635)
+        text:
+            - Poi cominciò: “Non aspettar ch’io preghi,
+            - crudel, te, come amante amante deve.
+            - Tai fumm’ un tempo; or se tal esser neghi,
+            - e di ciò la memoria anco t’è greve,
+            - come nemico almen ascolta: i preghi
+            - d’un nemico talor l’altro riceve.
+            - Ben quel ch’io chieggio è tal che darlo puoi
+            - e integri conservar gli sdegni tuoi.
+        translation:
+            - Suppose not, cruel! that I come to woo
+            - Or pray, as ladies do their loves and lords.
+            - Such were we late, if thou disdain it now,
+            - Or scorn to grant such grace as love affords,
+            - At least yet as an en'my listen thou,
+            - Sworn foes sometime will talk and chaffer words;
+            - For what I ask thee may'st thou grant right well,
+            - And lessen nought thy wrath and anger fell.
+    14:
+        title: Se m’odii, e in ciò diletto alcun tu senti
+        flats: 0
+        clefs:
+            canto: c1
+            alto: c2
+            tenore: c4
+            basso: f4
+            quinto: c3
+        final: e
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto XVI ottava 45
+        text_type: ottava rima
+        part: 3
+        text:
+            - Se m’odii, e in ciò diletto alcun tu senti,
+            - non te’n vengo a privar\x3A godi pur d’esso.
+            - Giusto a te pare e siasi. Anch’io le genti
+            - cristiane odiai, no’l nego, odiai te stesso.
+            - Nacqui pagana, usai vari argomenti
+            - che per me fosse il vostro imperio opresso;
+            - te perseguii, te presi, e te lontano
+            - da l’arme trassi in loco ignoto e strano
+        translation:
+            - If me thou hate, and in that hate delight,
+            - I come not to appease thee, hate me still,
+            - It's like for like; I bore great hate and spite
+            - Gainst Christians all, chiefly I wish thee ill\x3A
+            - I was a Pagan born, and all my might
+            - Against Godfredo bent, mine art and skill\x3A
+            - I followed thee, took thee, and bore thee far,
+            - To this strange isle, and kept thee safe from war.
+        translator: Edward Fairfax (c.1580-1635)
+    15:
+        title: Aggiungi a questo ancor
+        flats: 0
+        final: a
+        clefs:
+            canto: c1
+            alto: c2
+            tenore: c4
+            basso: f4
+            quinto: c3
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto XVI ottava 46
+        text_type: ottava rima
+        part: 4
+        translator: Edward Fairfax (c.1580-1635)
+        text:
+            - Aggiungi a quest’ ancor quel ch’a maggiore
+            - "onta tu rechi ed a maggior tuo danno:"
+            - t’ingannai, t’allettai nel nostro amore;
+            - empia lusinga certo, iniqu’ inganno,
+            - lasciarsi corre il virginal suo fiore,
+            - far de le sue bellezze altrui tiranno,
+            - quelle ch’a mille antichi in premio sono
+            - negate, offrire a novo amante in dono!
+        translation:
+            - And more, which more thy hate may justly move,
+            - More to thy loss, more to thy shame and grief,
+            - I thee enchanted and allur'd to love;
+            - Wicked deceit, craft worthy sharp reprief!
+            - Mine honour gave I thee, all gifts above,
+            - And of my beauty made thee lord and chief,
+            - And to my suitors old what I denay'd,
+            - That gave I thee, my lover new, unpray'd.
+    16:
+        title: Sia questa pur tra le mie frodi
+        flats: 0
+        final: e
+        clefs:
+            canto: c1
+            alto: c2
+            tenore: c4
+            basso: f4
+            quinto: c3
+        author: Torquato Tasso (1544-1595)
+        source: Gerusalemme Liberata
+        source_part: Canto XVI ottava 47
+        text_type: ottava rima
+        part: 5
+        translator: Edward Fairfax (c.1580-1635)
+        text:
+            - "Sia questa pur tra le mie frodi, e vaglia"
+            - "sì di tante mio colpe in te ‘l difetto"
+            - "che tu quinci ti parta e non ti caglia"
+            - "di questo albergo tuo già sì diletto."
+            - "Vattene, passa il mar, pugna, travaglia,"
+            - "struggi la fede nostra\x3A anch’io t’affretto."
+            - "che dico nostra? ah non più mia! fedele"
+            - "sono a te solo, idolo mio crudele."
+        translation:
+            - "But reckon that among my faults, and let"
+            - "Those many wrongs provoke thee so to wrath"
+            - "That hence thou run, and that at nought thou set"
+            - "This pleasant house, so many joys which hath:"
+            - "Go, travel, pass the seas, fight, conquest get,"
+            - "Destroy our faith; what, shall I say our faith?"
+            - "Ah no! no longer ours; before thy shrine"
+            - "Alone I pray, thou cruel saint of mine."
+    17:
+        title: Forsennata gridava
+        flats: 0
+        clefs:
+            canto: c1
+            alto: c2
+            tenore: c4
+            basso: f4
+            quinto: c3
+        final: e
+            - "Forsennata gridava, O tu che porte"
+            - "parte teco di me, parte ne lassi,"
+            - "o prendi l’una o rendi l’altra, o morte"
+            - "dà insieme ad ambe\x3A arresta i passi,"
+            - "sol che ti sian le voci ultime porte;"
+            - "non dico i baci, altra più degna avrassi"
+            - "quelli da te. Che temi, empio, se resti?"
+            - "Potrai negar, poi che fuggir potesti."
+    18:
+        title: Non sospirar, Pastor
+        flats: 0
+        final: d
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+        author: Torquato Tasso (1544-1595)
+        source: Ecloghe
+        source_part: 3. La festa campestre
+            - "Non sospirar, pastor, non lagrimare:"
+            - "Queste lagrime amare"
+            - "Che spargi da’ tuoi lumi,"
+            - "Non spegneran scintilla dell’ardore,"
+            - "Ove ognor ti consumi:"
+            - "Ché s’amor dalle fiamme del tuo core"
+            - "Può trarre umor e venti,"
+            - "Trarrà dal pianto ancor faville ardenti."
+    19:
+        title: Questi odorati fiori
+        flats: 0
+        final: d
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+        text_type: madrigal
+        text:
+            - "Questi odorati fiori,"
+            - "Gialli, persi, vermigli, azzurri e bianchi,"
+            - "Ch’in sugl’estivi ardori"
+            - "E freschi e dolci nidi,"
+            - "Erano agl’Amoretti afflitti e stanchi;"
+            - "Braman, Donna Real, aver ricetto"
+            - "Sotto il bel vel che vi nasconde il petto."
+    20:
+        title: Vener, ch'un giorno avea
+        text_type: madrigal
+        flats: 0
+        clefs:
+            canto: c1
+            alto: c1
+            tenore: c4
+            basso: f4
+            quinto: c1
+        final: d
+            - "Vener, ch’un giorno avea"
+            - "Perduto il caro suo fanciul Amore,"
+            - "Con materno dolore"
+            - "Ricorse agli occhi ove abitar solea"
+            - "(Di Margherita, e in quelli)"
+            - "Nol ritrovando, con dogliosi stridi"
+            - "Disse\x3A Se in questi nidi"
+            - "Non sei tu, figlio mio,"
+            - "Dove trovarti più sperar debb’io?"
+            - "Intanto ella volgend’ ai bei capelli"
+            - "Gli occhi languidi omai per lunghi pianti,"
+            - "Vide che di quel or mille novelli"
+            - "Laccioli ordiva ai miserelli amanti."
+    21:
+        title: Con voi giocando Amor
+        text_type: madrigal
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+        flats: 0
+        final: d
+            - "Con voi giocando Amor, a voi simile,"
+            - "Involast’ all’incauto la faretra:"
+            - "Egli, perché s’arretra"
+            - "Per poca offesa alle più gravi umile,"
+            - "Scoperto il furto, di ch’al fin s’avvide,"
+            - "Iròssi, e non fu parco"
+            - "A por la mano all’arco"
+            - "Per ferirvi. Ma vide le saette"
+            - "Dal fianco suo divise,"
+            - "E le due luci fide,"
+            - "A rimirar si mise;"
+            - "E invaghito di voi, di sé sorrise."

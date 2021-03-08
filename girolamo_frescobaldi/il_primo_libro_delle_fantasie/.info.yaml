@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1608__frescobaldi_girolamo__il_primo_libro_delle_fantasie_a_4
+    typeset_directory: girolamo_frescobaldi/il_primo_libro_delle_fantasie
+source:
+    city: Milan
+    date_exact: true
+    title: Il primo libro delle fantasie à 4
+    full_title: Il primo libro delle fantasie à 4 di Geronimo Frescobaldi
+    press: Filippo Lomazzo press
+    year: 1608

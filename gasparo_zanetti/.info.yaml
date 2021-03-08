@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /gasparo_zanetti
+biography:
+    name: Gasparo Zanetti
+    name_variants:
+        - Gasparo Zannetti
+    last_name: Zanetti
+    nationality: Italian
+    flourished: 1626-45

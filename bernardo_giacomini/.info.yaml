@@ -1,0 +1,15 @@
+---
+top:
+    type: composer
+    path: /bernardo_giacomini
+biography:
+    name: Bernardo Giacomini
+    last_name: Giacomini
+    nationality: Italian
+    born_year: 1532
+    born_date: 1532-05-02
+    died_year: 1562
+    died_after: true
+    born_location: 
+        region: Florence
+        country: Italy

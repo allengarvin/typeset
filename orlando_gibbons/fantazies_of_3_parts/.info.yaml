@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_gibbons/fantazies_of_3_parts
+source:
+    city: London
+    date_circa: true
+    title: Fantasies of three parts
+    year: 1620

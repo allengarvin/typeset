@@ -1,0 +1,23 @@
+---
+top:
+    type: composer
+    path: /claude_le_jeune
+biography:
+    name: Claude Le Jeune
+    name_variants:
+        - Claudin Le Jeune
+    last_name: LE Jeune
+    nationality: French
+    born_year: 1528
+    born_range: 1528-1530
+    born_circa: true
+    died_year: 1600
+    died_date: 1600-09-26
+    born_location:
+        region: Valenciennes
+        country: France
+    died_location:
+        region: Paris
+        country: France
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.16365

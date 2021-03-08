@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giaches_de_wert/book_IX_a5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Il Nono Libro de Madrigali à 5 et 6'
+    year: 1588
+contents:
+    type: madrigal
+    parts: 5|6
+    language: italian

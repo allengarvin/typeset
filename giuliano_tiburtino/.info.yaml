@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /giuliano_tiburtino
+biography:
+    name: Giuliano Tiburtino
+    name_variants: 
+        - Giuliano Bonaugurio da Tivoli
+    last_name: Tiburtino
+    nationality: Italian
+    born_year: 1510
+    born_circa: true
+    died_year: 1569
+    died_date: 1569-12-16
+    born_location:
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

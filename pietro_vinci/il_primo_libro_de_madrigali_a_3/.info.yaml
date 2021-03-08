@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1582__vinci_pietro__il_primo_libro_de_madrigali_a_3_voci
+    typeset_directory: pietro_vinci/il_primo_libro_de_madrigali_a_3
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali à 3 voci
+    press: Girolamo Scotto press
+    year: 1582
+catalog:
+    bologna: U.369
+contents:
+    type: madrigal
+    parts: 3
+    part_names: canto, tenore, basso
+    language: italian

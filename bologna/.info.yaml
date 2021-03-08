@@ -1,0 +1,12 @@
+---
+top:
+    type: library
+    path: /bologna
+data:
+    name: Museo internazionale e biblioteca della musica
+    city: Bologna
+    country: Italy
+    designation: I-Bc
+    urls:
+        - https://en.wikipedia.org/wiki/Museo_internazionale_e_biblioteca_della_musica
+        - http://www.bibliotecamusica.it/cmbm/scripts/gaspari/src_aut.asp

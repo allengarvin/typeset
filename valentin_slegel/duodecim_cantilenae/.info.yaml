@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1578__slegel_valentin__duodecim_cantilenae_ex_sacrosancta_scriptura_desumptae
+    typeset_directory: valentin_slegel/duodecim_cantilenae
+source:
+    city: Copenhagen
+    date_exact: true
+    title: Duodecim cantilenae
+    press: Georg Hantzsch press
+    year: 1578
+catalog:
+    rism: S-3575
+    bsb: 4 Mus.pr. 175
+contents:
+    type: motet, lieder
+    parts: 4
+    part_names: discantus, altus, tenor bassus

@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1609__thesselius_johannes__paduanen_intraden_galliarden_a_5
+    typeset_directory: johannes_thesselius/1609__paduanen_intraden_galliarden
+source:
+    city: Nuremberg
+    date_exact: true
+    title: Neue liebliche Paduanen, Intraden und Galliarden
+    full_title: Neue liebliche Paduanen, Intraden und Galliarden auff allerlen instrumentenzugebrauchen
+    press: Paul Rauffmanns press
+    year: 1609

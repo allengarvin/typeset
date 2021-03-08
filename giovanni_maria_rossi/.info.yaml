@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /giovanni_maria_rosso
+biography:
+    name: Giovanni Maria de Rossi
+    name_variants:
+        - Giovanni Maria de Rosso
+        - Giovanni Maria Il Rosso
+    last_name: Rossi
+    nationality: Italian
+    born_year: 1522
+    born_circa: true
+    died_year: 1590
+    died_date: 1590-04-30
+    born_location:
+        region: Brescia
+        country: Italy
+    died_location:
+        region: Mantua
+        country: Italy

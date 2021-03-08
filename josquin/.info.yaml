@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /josquin
+biography:
+    name: Josquin des Prez
+    name_variants:
+        - Josquin Desprez
+        - Josquinus
+        - Joessequin
+        - Josquin a Prato
+        - Josquin de Prato
+    last_name: des Prez
+    nationality: French
+    born_year: 1450
+    born_circa: true
+    died_year: 1521
+    died_date: 1521-08-27
+    born_location:
+        region: Saint Quentin
+        country: France
+    died_location:
+        region: Condé-sur-l'Escaut
+        country: France

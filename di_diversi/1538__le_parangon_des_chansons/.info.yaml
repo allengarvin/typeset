@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1538__le_parangon_des_chansons
+source:
+    city: Lyon
+    date_exact: true
+    manuscript: false
+    press: Moderne press
+    print: true
+    title: Le parangon des chansons, livre 1
+    year: 1528

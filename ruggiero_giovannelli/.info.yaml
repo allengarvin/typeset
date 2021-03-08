@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /ruggiero_giovannelli
+biography:
+    name: Ruggiero Giovannelli
+    name_variants:
+        - Ruggiero Giovanelli
+    last_name: Giovannelli
+    nationality: Italian
+    born_year: 1560
+    born_circa: true
+    died_year: 1625
+    died_date: 1625-01-07
+    born_location:
+        region: Velletri
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

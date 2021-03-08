@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /giovanni_maria_trabaci
+biography:
+    name: Giovanni Maria Trabaci
+    last_name: Trabaci
+    nationality: Italian
+    born_year: 1575
+    born_circa: true
+    died_year: 1647
+    died_date: 1647-12-31
+    born_location:
+        region: Irsini
+        country: Italy/Croatia
+    died_location:
+        region: Naples
+        country: Italy
+urls:
+    - https://doi.org/10.1093/gmo/9781561592630.article.28244

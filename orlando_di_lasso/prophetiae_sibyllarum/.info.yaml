@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_di_lasso/prophetiae_sibyllarum
+source:
+    date_exact: true
+    title: Prophetiae Sibyllarum
+    year: 1577

@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1626__farina_carlo__libro_delle_pavane_gagliarde_brand_mascharata
+    typeset_directory: carlo_farina/pavane_gagliarde__libro_primo
+source:
+    city: Dresden
+    date_exact: true
+    title: Libro delle pavane, gagliarde, brandi, ...
+    full_title: Libro delle pavane, gagliarde, brandi, mascharata, aria franzesa, volte, balletti, sonate, canzone à 2, 3, 4
+    press: Wolfgango Seiffert
+    year: 1626
+contents:
+    type: dances
+    parts: 2|3|4
+    part_names: canto, alto, tenore, basso

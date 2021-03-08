@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1575__meiland_jakob__sacrae_aliquot_cantiones_latinae_et_germanicae
+    typeset_directory: jacob_meiland/sacrae_aliquot_cantiones_latinae_et_germanicae
+source:
+    city: Frankfurt
+    date_exact: true
+    title: Sacræ Aliquot Cantiones Latinæ et Germanicæ
+    press: Georg Rab press
+    year: 1575

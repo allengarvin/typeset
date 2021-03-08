@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /jacques_moderne
+biography:
+    name: Jacques Moderne
+    last_name: Moderne
+    nationality: French/Italian
+    born_year: 1495
+    born_circa: true
+    died_year: 1560
+    died_circa: true
+    born_location:
+        region: Pinguente
+        country: Italy
+    died_location:
+        region: Lyons
+        country: France

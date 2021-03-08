@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /vincenzo_galilei
+biography:
+    name: Vincenzo Galilei
+    last_name: Galilei
+    nationality: Italian
+    born_year: 1520
+    born_circa: true
+    died_year: 1591
+    died_date: 1591-07-02
+    born_location:
+        region: Tuscany
+        country: Italy
+    died_location:
+        region: Florence
+        country: Italy

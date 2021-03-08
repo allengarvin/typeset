@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: philippe_de_monte/il_primo_libro_de_madrigali_a_3
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Il primo libro de madrigali a 3 voci
+    year: 1582

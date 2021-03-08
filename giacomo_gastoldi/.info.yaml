@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /giacomo_gastoldi
+biography:
+    name: Giovanni Giacomo Gastoldi
+    last_name: Gastoldi
+    nationality: Italian
+    born_year: 1554
+    born_circa: true
+    died_year: 1609
+    died_date: 1609-01-04
+    born_location:
+        region: Cremona
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.10721

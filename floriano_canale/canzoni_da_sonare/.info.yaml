@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: floriano_canale/canzoni_da_sonare
+source:
+    date_exact: true
+    title: Canzoni da Sonare
+    year: 1578

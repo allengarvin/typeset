@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /thomas_morley
+biography:
+    name: Thomas Morley
+    last_name: Morley
+    nationality: English
+    born_year: 1557
+    born_circa: true
+    died_year: 1602
+    born_location:
+        region: Norwich
+        country: England
+    died_location:
+        region: London
+        country: England

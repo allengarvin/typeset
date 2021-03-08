@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /johann_wannenmacher
+biography:
+    name: Johannes Wannenmacher
+    name_variants:
+        - Johannes Vannius
+    last_name: Wannenmacher
+    nationality: Swiss
+    born_year: 1484
+    born_circa: true
+    died_year: 1551
+    born_location:
+        region: Neuenburg am Rhen
+        country: Switzerland
+    died_location:
+        region: Berne
+        country: Switzerland

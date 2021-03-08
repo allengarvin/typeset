@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /asciano_mayone
+biography:
+    name: Ascanio Mayone
+    last_name: Mayone
+    nationality: Italian
+    born_year: 1565
+    born_circa: true
+    died_year: 1627
+    died_date: 1627-03-09
+    born_location:
+        region: Naples
+        country: Italy
+    died_location:
+        region: Naples
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.18177

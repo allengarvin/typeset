@@ -1,0 +1,13 @@
+---
+top:
+    type: composer
+    path: /francesco_manara
+biography:
+    name: Francesco Manara
+    name_variants: 
+        - Francesco Manari
+    last_name: Manara
+    nationality: Italian
+    flourished: 1548-91
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.17583

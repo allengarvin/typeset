@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: seth_calvisius/harmonia_cantionum
+source:
+    city: Leipzig
+    date_exact: true
+    title: Harmonia cantionum ecclesiasticarum
+    year: 1597

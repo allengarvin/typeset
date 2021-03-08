@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1520__liber_selectarum
+source:
+    city: Augsberg
+    date_exact: true
+    title: Liber selectarum cantionum
+    year: 1530

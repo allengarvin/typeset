@@ -1,0 +1,20 @@
+---
+top:
+    type: composer|editor|printer
+    path: /georg_forster
+biography:
+    name: Georg Forster
+    last_name: Forster
+    nationality: German
+    born_year: 1510
+    born_circa: true
+    died_year: 1568
+    died_date: 1568-11-12
+    born_location:
+        region: Upper Palatinate
+        country: Germany
+    died_location: 
+        region: Nuremberg
+        country: Germany
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.10003

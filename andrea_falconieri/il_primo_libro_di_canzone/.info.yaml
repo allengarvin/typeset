@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: andrea_falconieri/il_primo_libro_di_canzone
+source:
+    city: Naples
+    date_exact: true
+    title: Il primo libro di canzone, sinfonie, fantasie, ...
+    press: Paolini e Ricci press
+    year: 1650

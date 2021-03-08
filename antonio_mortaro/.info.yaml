@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /antonio_mortaro
+biography:
+    name: Antonio Mortaro
+    last_name: Mortaro
+    nationality: Italian
+    flourished: 1587-1610
+urls:
+    - https://doi.org/10.1093/gmo/9781561592630.article.19172

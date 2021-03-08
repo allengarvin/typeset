@@ -1,0 +1,14 @@
+---
+files:
+- 10-gabrieli-a7-0-score.ly
+- 10-gabrieli-a7-1-cantus.ly
+- 10-gabrieli-a7-2-altus.ly
+- 10-gabrieli-a7-3-tenor.ly
+- 10-gabrieli-a7-4-bassus.ly
+- 10-gabrieli-a7-5-quintus.ly
+- 10-gabrieli-a7-6-sextus.ly
+- 10-gabrieli-a7-7-septima.ly
+primary:
+  composer: Andrea Gabrieli (c.1532-1585)
+  folio: 'Christmas day motet ((paraphrase of the Luke: 2:10-11)'
+  title: Angelus ad pastores ait

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: jean_maillard/missa_ad_imitationem_moduli_cum_4_vocibus
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Le Roy & Ballard press
+    print: true
+    title: Missa ad imitationem
+    year: 1558

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1617__seconda_aggiunta_alli_concerti
+source:
+    city: Milan
+    date_exact: true
+    manuscript: false
+    press: Lomazzo press
+    print: true
+    title: Seconda aggiunta alli concerti
+    year: 1617

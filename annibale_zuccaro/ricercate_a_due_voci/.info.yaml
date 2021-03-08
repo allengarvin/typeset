@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: annibale_zuccaro/ricercate_a_due_voci
+source:
+    city: Venice
+    date_exact: true
+    title: Ricercate a due voci
+    year: 1606

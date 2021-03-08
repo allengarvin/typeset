@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /sebastian_raval
+biography:
+    name: Sebastian Raval
+    name_variants:
+        - Sebastian Ravalle
+    last_name: Raval
+    nationality: Spanish
+    born_year: 1550
+    born_circa: true
+    died_year: 1604
+    died_date: 1604-10-27
+    born_location:
+        region: Catagena
+        country: Spain
+    died_location:
+        region: Palermo
+        country: Italy

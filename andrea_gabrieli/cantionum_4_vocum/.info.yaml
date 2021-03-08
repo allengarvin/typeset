@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: andrea_gabrieli/cantionum_4_vocum
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Ecclesiasticarum cantionum 4 vocum
+    year: 1576

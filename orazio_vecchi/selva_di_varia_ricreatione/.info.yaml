@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1590__vecchi_orazio__selva_di_varia_ricreatione
+    typeset_directory: orazio_vecchi/selva_di_varia_ricreatione
+source:
+    city: Venice
+    date_exact: true
+    title: Selva di varia ricreatione
+    full_title: Selva di varia ricreatione di Horatio Vecchi
+    press: Angelo Gardano press
+    year: 1590

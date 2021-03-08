@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1539__sixiesme_livre_contentant_27_chansons_a_4
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Attaingnant press
+    print: true
+    title: Sixiesme livre contenant 27 chansons
+    year: 1539

@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1583__monte_philippe_de__il_settimo_libro_delli_madrigali_a_5_voci
+    typeset_directory: philippe_de_monte/il_settimo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il settimo libro delli Madrigali à 5
+    press: Angelo Gardano press
+    year: 1583
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 22

@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /nicholas_yonge
+biography:
+    name: Nicholas Yonge
+    name_variants:
+        - Nicholas Young
+        - Nicholas Younge
+    last_name: Yonge
+    nationality: English
+    died_year: 1619
+    died_date: 1619-10-23
+    born_location:
+        region: East Sussex
+        country: England
+    died_location:
+        region: London
+        country: England

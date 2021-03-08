@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /johann_staden
+biography:
+    name: Johann Staden
+    last_name: Staden
+    nationality: German
+    born_year: 1581
+    born_date: 1581-07-02
+    died_year: 1634
+    died_date: 1634-11-15
+    born_location:
+        region: Nuremberg
+        country: Germany
+    died_location:
+        region: Nuremberg
+        country: Germany

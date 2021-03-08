@@ -1,0 +1,20 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: ottaviano_petrucci/motetti_4
+source:
+    city: Venice
+    date_exact: true
+    title: Motetti libro 4
+    full_title: Motetti libro quarto
+    press: Petrucci press
+    year: 1505
+catalog:
+    bologna: V.1
+    rism: w-0885
+    bsb: 4 Mus.pr. 44
+contents:
+    type: motet
+    parts: 4
+    part_names: superius, altus, tenor, bassus
+    language: latin

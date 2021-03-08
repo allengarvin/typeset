@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: william_byrd/gradualia_2
+source:
+    city: London
+    date_exact: true
+    title: Gradualia cantionum sacrarum, liber secundus
+    full_title: Gradualia sev cantionum sacrarum quarum aliae ad quatuor, aliae vero ad quinque et sex voce edita sunt, lib. secundus
+    press: Ricardi Redmeri press
+    year: 1610
+contents:
+    type: motet
+    parts: 4, 5, 6
+    part_names: canto, alto, tenore, basso, quinto
+    language: latin
+    pieces: 46

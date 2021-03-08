@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /orazio_vecchi
+biography:
+    name: Orazio Vecchi
+    name_variants:
+        - Horatio Vecchi
+        -
+        -
+    last_name: Vecchi
+    nationality: Italian
+    born_year: 1550
+    born_date: 1550-12-06
+    died_year: 1605
+    died_date: 1605-02-19
+    born_location:
+        region: Modena
+        country: Italy
+    died_location:
+        region: Modena
+        country: Italy

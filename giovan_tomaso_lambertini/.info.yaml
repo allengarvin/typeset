@@ -1,0 +1,15 @@
+---
+top:
+    type: composer
+    path: /giovan_tomaso_lambertini
+biography:
+    name: Giovan Tomaso Lambertini
+    last_name: Lambertini
+    nationality: Italian
+    flourished: 1545-1580
+    born_location:
+        region: Bologna
+        country: Flanders
+    died_location:
+        region: ?Rome
+        country: Italy

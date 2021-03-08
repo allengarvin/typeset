@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /tielman_susato
+biography:
+    name: Tylman Susato
+    name_variants:
+        - Tielman Susato
+    last_name: Susato
+    nationality: Flemish
+    born_year: 1510
+    born_circa: true
+    died_year: 1570
+    born_location:
+        region: Soest
+        country: Flanders
+    died_location:
+        country: Sweden

@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /perissone_cambio
+biography:
+    name: Perissone Cambio
+    name_variants:
+        - Pyrison Cambio
+        -
+        -
+    last_name: Perissone Cambio
+    nationality: Flemish
+    born_year: 1520
+    born_circa: true
+    died_year: 1562
+    died_circa: true

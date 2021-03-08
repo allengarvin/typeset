@@ -1,0 +1,10 @@
+---
+files:
+- 01-palestrina-a4-0-score.ly
+- 01-palestrina-a4-1-cantus.ly
+- 01-palestrina-a4-2-altus.ly
+- 01-palestrina-a4-3-tenor.ly
+- 01-palestrina-a4-4-bassus.ly
+primary:
+  composer: Giovanni Pierluigi da Palestrina (c.1525-1594)
+  title: Missa quem dicunt homines

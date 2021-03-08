@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /cristobal_morales
+biography:
+    name: Cristóbal de Morales
+    last_name: Morales
+    nationality: Spanish
+    born_year: 1500
+    born_circa: true
+    died_year: 1553
+    born_location:
+        region: Seville
+        country: Spain
+    died_location:
+        country: Spain

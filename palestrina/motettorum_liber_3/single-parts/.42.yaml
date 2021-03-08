@@ -1,0 +1,15 @@
+---
+files:
+- 42-palestrina-a8-0-score.ly
+- 42-palestrina-a8-1-cantus.ly
+- 42-palestrina-a8-2-septima.ly
+- 42-palestrina-a8-3-altus.ly
+- 42-palestrina-a8-4-sextus.ly
+- 42-palestrina-a8-5-quintus.ly
+- 42-palestrina-a8-6-tenor.ly
+- 42-palestrina-a8-7-ottava.ly
+- 42-palestrina-a8-8-bassus.ly
+primary:
+  composer: Giovanni Pierluigi da Palestrina (c.1525-1594)
+  folio: Concluding antiphon of the Liturgy of the Hours
+  title: Ave Regina coelorum

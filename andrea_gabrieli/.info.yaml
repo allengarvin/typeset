@@ -1,0 +1,23 @@
+---
+top:
+    type: composer
+    path: /andrea_gabrieli
+biography:
+    name: Andrea Gabrieli
+    last_name: Gabrieli
+    nationality: Italian
+    born_year: 1532
+    born_circa: true
+    died_year: 1585
+    died_date: 1585-08-30
+    born_location:
+        region: Venice
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.40692
+        - https://en.wikipedia.org/wiki/Andrea_Gabrieli
+        - https://imslp.org/wiki/Category:Gabrieli,_Andrea
+        - http://www.cpdl.org/wiki/index.php/Andrea_Gabrieli

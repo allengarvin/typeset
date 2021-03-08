@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: adriano_banchieri/eclesiastiche_sinfonie
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Amadino press
+    print: true
+    title: Eclesiastiche sinfonie, op. 16
+    year: 1607

@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /mateo_flecha_il_viejo
+biography:
+    name: Matteo Flecha il viejo
+    last_name: Flecha
+    nationality: Spanish
+    born_year: 1481
+    born_circa: true
+    died_year: 1553
+    died_circa: true
+    born_location:
+        region: Prades
+        country: Spain
+    died_location:
+        region: Poblet
+        country: Spain

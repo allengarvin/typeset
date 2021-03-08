@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: eustache_du_caurroy/fantasies
+source:
+    city: Paris
+    date_exact: true
+    title: 'Fantasies à III, IV, V, et VI parties'
+    year: 1610

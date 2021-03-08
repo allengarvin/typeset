@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1542__il_primo_libro_de_madrigali_a_5_di_diversi
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Il primo libro di madrigali de diversi
+    year: 1542

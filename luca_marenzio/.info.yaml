@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /luca_marenzio
+biography:
+    name: Luca Marenzio
+    name_variants:
+        - Luca Marentio
+    last_name: Marenzio
+    nationality: Italian
+    born_year: 1553
+    born_circa: true
+    died_year: 1599
+    died_date: 1599-08-22
+    born_location:
+        region: Coccaglio, near Brescia
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

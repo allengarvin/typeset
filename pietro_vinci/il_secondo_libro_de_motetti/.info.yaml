@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1572__vinci_pietro__il_secondo_libro_de_motetti_a_5_voci__scotto_press
+    typeset_directory: pietro_vinci/il_secondo_libro_de_motetti
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro de Motetti à 5 voci
+    press: Girolamo Scotto press
+    year: 1572
+catalog:
+    bologna: U.370
+contents:
+    type: motet
+    parts: 5
+    part_names: cantus, altus, tenor, bassus, quintus
+    language: latin

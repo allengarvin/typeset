@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /francesco_usper
+biography:
+    name: Francesco Usper
+    name_variants:
+        - Francesco Sponga
+        - Francesco Spongia
+        - Francesco Sponza
+    last_name: Usper
+    nationality: Flemish
+    born_year: 1560
+    born_circa: true
+    died_year: 1641
+    died_date: 1641-02-24
+    born_location:
+        region: Istria
+        country: Italy/Croatia
+    died_location:
+        region: Venice
+        country: Italy
+urls:
+    - https://doi.org/10.1093/gmo/9781561592630.article.28864

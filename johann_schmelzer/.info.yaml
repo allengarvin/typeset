@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /johann_schmelzer
+biography:
+    name: Johann Heinrich Schmelzer
+    name_variants:
+        - Johann Heinrich Schmeltzer
+    last_name: Schmelzer
+    nationality: Austrian
+    born_year: 1620
+    born_circa: true
+    died_year: 1680
+    born_location:
+        region: Scheibbs
+        country: Austria
+    died_location:
+        region: Prague
+        country: Czechia

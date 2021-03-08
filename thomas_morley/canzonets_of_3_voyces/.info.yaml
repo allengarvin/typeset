@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: thomas_morley/canzonets_of_3_voyces
+source:
+    date_exact: true
+    title: Canzonets or Little Short Songs to Three Voyces
+    year: 1637

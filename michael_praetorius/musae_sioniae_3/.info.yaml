@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: michael_praetorius/musae_sioniae_3
+source:
+    city: Regensburg
+    date_exact: true
+    title: 'Musæ Sioniæ dritter theil'
+    year: 1607

@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: luca_marenzio/il_secondo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: 'Il secondo libro de madrigali à 5 voci'
+    year: 1582

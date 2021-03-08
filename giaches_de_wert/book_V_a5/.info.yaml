@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giaches_de_wert/book_V_a5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Il quinto libro de madrigali à 5'
+    year: 1571
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

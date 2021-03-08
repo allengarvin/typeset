@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /christopher_simpson
+biography:
+    name: Christopher Simpson
+    name_variants:
+        - Christopher Sympson
+    last_name: Simpson
+    nationality: English
+    born_year: 1602
+    born_range: 1602-1606
+    born_circa: true
+    died_year: 1669
+    born_location:
+        region: North Yorkshire
+        country: England
+    died_location:
+        region: London
+        country: England
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.25844

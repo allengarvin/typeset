@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /arcangelo_corelli
+biography:
+    name: Arcangelo Corelli
+    last_name: Corelli
+    nationality: Italian
+    born_year: 1653
+    born_date: 1653-02-17
+    died_year: 1713
+    died_date: 1713-01-08
+    born_location:
+        region: Fusignano
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.06478

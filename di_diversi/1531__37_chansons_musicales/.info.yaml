@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1531__37_chansons_musicales
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Attaingnant press
+    print: true
+    title: 37 chansons musicales
+    year: 1531

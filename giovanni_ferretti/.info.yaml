@@ -1,0 +1,12 @@
+---
+top:
+    type: composer
+    path: /giovanni_ferretti
+biography:
+    name: Giovanni Ferretti
+    last_name: Ferretti
+    nationality: Italian
+    born_year: 1540
+    born_circa: true
+    died_year: 1609
+    died_circa: true

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1536__la_couronne_et_fleur_des_chansons
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    press: Antico press
+    print: true
+    title: La couronne et fleur des chansons
+    year: 1536

@@ -1,0 +1,26 @@
+---
+local:
+    facsimile_directory: complete/1592__radino_giovanni_maria__il_primo_libro_d_intavolatura_di_balli_d_arpicorda
+    typeset_directory: giovanni_maria_radino/il_primo_libro_d_intavolatura_d_arpicordo
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro di balli d'arpicordo
+    full_title: Il primo libro d'intavolatura di balli d'arpicordo
+    press: Giacomo Vincenti
+    year: 1592
+contents:
+    type: dance
+    parts: 1
+    pieces: 21
+    1:
+        flats: 0
+        final: e
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+        title: "Pzss'e mezo"
+        text_type: passamezzo

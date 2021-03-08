@@ -1,0 +1,101 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: antonio_mortaro/primo_libro_de_canzoni
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Amadino press
+    print: true
+    title: 'Primo libro de canzoni à 4'
+    year: 1600
+catalog:
+    bologna: T.203
+contents:
+    type: canzona
+    parts: 4|8
+    1:
+        title: La Bertozza
+        flats: 1
+        final: f
+    2:
+        title: L'Albergona
+        flats: 1
+        final: f
+    3:
+        title: La Fachinetta
+        flats: 1
+        final: f
+    4:
+        title: La Pera
+        flats: 1
+        final: f
+    5:
+        title: La Morona
+        flats: 1
+        final: f
+    6:
+        title: La Cornela
+        flats: 0
+        final: d
+    7:
+        title: La Malfatta
+        flats: 0
+        final: d
+    8:
+        title: La Tergnana
+        flats: 0
+        final: g
+    9:
+        title: La Zucchella
+        flats: 0
+        final: a
+    10:
+        title: La Mortara
+        flats: 0
+        final: a
+    11:
+        title: La Claudia
+        flats: 0
+        final: e
+    12:
+        title: La Maluezza
+        flats: 1
+        final: g
+    13:
+        title: La Portia
+        flats: 1
+        final: g
+    14:
+        title: La Bagliona
+        flats: 1
+        final: g
+    15:
+        title: La Pozzobonella
+        flats: 1
+        final: g
+    16:
+        title: La Dagoldina
+        flats: 0
+        final: d
+    17:
+        title: La Bellotta
+        flats: 0
+        final: g
+    18:
+        title: La Patuzza
+        flats: 0
+        final: g
+    19:
+        title: La Montina
+        flats: 0
+        final: c
+    20:
+        title: La Saronna
+        flats: 0
+        final: c
+    21:
+        title: L'Antegnata
+        flats: 0
+        final: g

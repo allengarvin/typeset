@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1648__fantasien
+source:
+    city: Amsterdam
+    date_exact: true
+    manuscript: false
+    press: Mathysz press
+    print: true
+    title: XX konincklycke fantasien
+    year: 1648

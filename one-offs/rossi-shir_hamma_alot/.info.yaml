@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/rossi-shir_hamma_alot
+source:
+    city: Venice
+    date_exact: true
+    title: Ha-shirim asher li-Shlomo
+    year: 1623

@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1599__marenzio_luca__nono_libro_de_madrigali_a_5_voci__gardano_press
+    typeset_directory: luca_marenzio/1599__il_nono_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il nono libro de madrigali à 5 voci
+    full_title: Il nono libro de madrigali à 5 voci, novamente composto e dato in luce
+    press: Angelo Gardano press
+    year: 1599
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 21

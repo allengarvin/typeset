@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giovanni_ferretti/il_quarto_libro_delle_napolitane_a5
+source:
+    city: Venice
+    date_exact: true
+    title: 'Il primo libro delle Napolitane á 5 voci'
+    year: 1573

@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /florentio_maschera
+biography:
+    name: Florentio Maschera
+    name_variants:
+        - Florenzio Maschera
+    last_name: Maschera
+    nationality: Italian
+    born_year: 1540
+    born_circa: true
+    died_year: 1584
+    died_circa: true
+    born_location:
+        region: Brescia?
+        country: Italy
+    died_location:
+        region: Breschia
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.17968

@@ -1,0 +1,18 @@
+---
+local:
+    facsimile_directory: complete/1586__caimo_giuseppe__fiamme_ardente_de_madrigali_et_canzoni_a_5
+    typeset_directory: di_diversi/1586__fiamma_ardente
+source:
+    city: Venice
+    date_exact: true
+    title: Fiamma ardente de madrigali et canzoni à 5 voci
+    full_title: Fiamma ardente de madrigali et canzoni à cinque voci con un dialogo à dieci de diversi soggetti
+    press: Ricciardo Amadino press
+    year: 1586
+    reprints: 1596
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 30

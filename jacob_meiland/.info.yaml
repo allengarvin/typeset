@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /jacob_meiland
+biography:
+    name: Jacob Meiland
+    name_variants:
+        - Jakob Meiland
+        - Jacob Meyland
+        - Jacob Mayland
+    last_name: Meiland
+    nationality: German
+    born_year: 1542
+    died_year: 1577
+    died_date: 1577-12-31
+    born_location:
+        region: Senftenberg
+        country: Germany
+    died_location:
+        region: Württemberg
+        country: German

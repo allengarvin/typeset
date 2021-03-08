@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: pietro_vinci/il_sesto_libro_de_madrigali
+source:
+    city: Venice
+    date_exact: true
+    title: Il sesto libro de madrigali à 5 voci
+    press: Girolamo Scotto press
+    year: 1584
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

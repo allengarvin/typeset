@@ -1,0 +1,8 @@
+---
+top:
+    type: library
+    path: /vatican_library
+biography:
+    name: Vatican Library
+    city: Rome
+    country: Italy

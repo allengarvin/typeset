@@ -1,0 +1,18 @@
+---
+local:
+    facsimile_directory: complete/1578__balbi_ludovici__ecclesiasticarum_canionum_4_vocum
+    typeset_directory: lodovico_balbi/ecclesiasticarum_cantionum_4_vocum
+source:
+    city: Venice
+    date_exact: true
+    title: Ecclesiasticarum cantionum 4 vocum
+    full_title: Ecclesiasticarum cantionum quatuor vocum omnibus adventus dominicis
+    press: Angelo Gardano press
+    year: 1578
+catalog:
+    bologna: R.290
+contents:
+    type: motet
+    parts: 4
+    part_names: cantus, altus, tenor, bassus
+    language: latin

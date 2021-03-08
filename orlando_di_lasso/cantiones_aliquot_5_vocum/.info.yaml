@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_di_lasso/cantiones_aliquot_5_vocum
+source:
+    city: Munich
+    date_exact: true
+    title: Cantiones aliquot cinque vocum
+    year: 1569

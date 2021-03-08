@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /ivo_de_vento
+biography:
+    name: Ivo de Vento
+    name_variants:
+        - Yvo de Vento
+    last_name: Vento
+    nationality: Flemish
+    born_year: 1544
+    born_circa: true
+    died_year: 1575
+    died_location:
+        region: Munich
+        country: Germany

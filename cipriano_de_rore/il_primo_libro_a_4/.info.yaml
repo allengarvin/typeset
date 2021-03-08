@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: cipriano_de_rore/il_primo_libro_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: 'Il primo libro di madrigali à 4 voci'
+    year: 1551
+    reprints: 1552, 1557, 1565, 1569, 1573, 1575, 1582
+catalog:
+    rism: R2501-1551
+    lewis: 158
+

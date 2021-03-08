@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: tomas_luis_de_victoria/cantiones_sacrae
+source:
+    city: Dillingen
+    date_exact: true
+    manuscript: false
+    press: Mayer press
+    print: true
+    title: Cantiones sacrae
+    year: 1589

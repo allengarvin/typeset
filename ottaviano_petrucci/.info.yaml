@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /ottaviano_petrucci
+biography:
+    name: Ottaviano Petrucci
+    name_variants:
+        - Ottaviano dei Petrucci
+    last_name: Petrucci
+    nationality: Italian
+    born_year: 1466
+    born_date: 1466-06-18
+    died_year: 1539
+    died_date: 1539-05-07
+    born_location:
+        region: Fossombrone
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy

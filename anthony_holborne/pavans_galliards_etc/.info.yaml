@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: anthony_holborne/pavans_galliards_etc
+source:
+    city: London
+    date_exact: true
+    title: Pavans, Galliards, Almains and other short Aeirs
+    year: 1599

@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: john_dowland/2nd_booke_of_songs
+source:
+    city: London
+    date_exact: true
+    title: The Second Booke of Songs or Ayres
+    year: 1600

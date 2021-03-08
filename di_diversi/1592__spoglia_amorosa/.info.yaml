@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1592__spoglia_amorosa
+source:
+    city: Venice
+    date_exact: true
+    title: 'Spoglia amorosa madrigali à 5 voci'
+    year: 1592

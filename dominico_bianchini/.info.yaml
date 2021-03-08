@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /dominico_bianchini
+biography:
+    name: Domenico Bianchini
+    name_variants:
+        - Domenico il Rossetto Bianchini
+        - Domenico il Rosso Bianchini
+        - Domenico Bianchini Veneziano
+    last_name: Bianchini
+    nationality: Italian
+    born_year:1510
+    born_circa: true
+    died_year: 1576
+    died_circa: true
+    born_location:
+        region: Udine?
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.03028

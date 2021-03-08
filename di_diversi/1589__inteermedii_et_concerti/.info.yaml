@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1591__vincenti_giacomo__intermedii_et_concerti
+    typeset_directory: di_diversi/1589__inteermedii_et_concerti
+source:
+    city: Venice
+    date_exact: true
+    title: Intermedii et concerti
+    full_title: Intermedii et concerti fatti per commedia rappresentata in Firenze nelle nozze del serenissime don Ferdinando Medici
+    press: Giacomo Vincenci
+    year: 1591

@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /francesco_soriano
+biography:
+    name: Francesco Soriano
+    name_variants:
+        - Francesco Suriano
+        - Francesco Suriani
+        - Francesco  Surianus
+    last_name: Soriano
+    nationality: Italian
+    born_year: 1548
+    born_circa: true
+    died_year: 1621
+    died_date: 1621-07-19
+    born_location:
+        region: Viterbo
+        country: Italy
+    died_location: 
+        region: Rome
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.26258

@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /jacob_handl
+biography:
+    name: Jacobus Handl
+    name_variants:
+        - Jacobus Gallus
+        - Jacobus Handelius
+        - Jacob Handl
+    nationality: Slovene
+    last_name: Handl
+    born_year: 1550
+    died_year: 1591
+    died_date: 1591-07-18
+    born_location:
+        region: Carniola
+        country: Slovenia
+    died_location:
+        region: Prague
+        country: Czechia

@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /philippe_verdelot
+biography:
+    name: Philippe Verdelot
+    name_variants:
+        - Philippe Deslouges
+    last_name: Verdelot
+    nationality: French
+    born_year: 1480
+    born_circa: true
+    died_year: 1530
+    died_circa: true
+    born_location:
+        region: Verdelot, Saine-et-Marne
+        country: France
+    died_location:
+        region: ?Florence
+        country: Italy

@@ -1,0 +1,11 @@
+---
+top:
+    type: composer|editor
+    path: /claude_gervaise
+biography:
+    name: Claude Gervaise
+    last_name: Gervaise
+    nationality: French
+    flourished: Paris, 1540-1560
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.10971

@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: adrian_willaert/recerchari
+source:
+    date_exact: true
+    title: 'Fantesie et Recerchari à 3'
+    year: 1559

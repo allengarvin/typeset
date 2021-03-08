@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: adriano_banchieri/festino_nella_sera
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Amadino press
+    print: true
+    title: 'Festino nella sera del giovedì grasso'
+    year: 1608

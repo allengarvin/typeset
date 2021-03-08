@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: nicholas_yonge/musica_transalpina__2
+source:
+    city: London
+    date_exact: true
+    title: Musica Transalpina the Second Book
+    year: 1597

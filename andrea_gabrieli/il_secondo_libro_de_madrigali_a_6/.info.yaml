@@ -1,0 +1,326 @@
+---
+local:
+    facsimile_directory: complete/1580__gabrieli_andrea__il_secondo_libro_de_madrigali_a_6_voci/
+    typeset_directory: andrea_gabrieli/il_secondo_libro_de_madrigali_a_6
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: 'Il secondo libro de madrigali à 6 voci'
+    year: 1580
+contents:
+    type: madrigal
+    parts: 6
+    part_names: canto, alto, tenore, basso, quinto, sesto
+    language: italian
+    pieces: 22
+    1:
+        flats: 1
+        final: g
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: g2
+            sesto: c3
+        title: Sonno diletto e caro
+        text_type: madrigal
+        author: anonymous
+        text:
+    2:
+        flats: 1
+        final: g
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: c3
+            sesto: g2
+        title: Cinto m'avea tra belle e nude braccia
+        text_type: madrigal
+        author: anonymous
+        text:
+    3:
+        flats: 1
+        final: g
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: c3
+            sesto: g2
+        title: Clori a Damon dicea, dolce ben mio
+        text_type: 
+        author:
+        text:
+    4:
+        flats: 1
+        final: g
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: c1
+            sesto: c3
+        title:
+        text_type:
+        author:
+        text:
+    5:
+        flats: 1
+        final: g
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+            sesto: c4
+        title: La bella pargoletta
+        text_type: madrigal
+        author: Torquato Tasso
+        text:
+    6:
+        flats: 1
+        final: g
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+            sesto: c4
+        title: Se tu m'ami i' t'adoro
+        text_type: madrigal
+        author: anonymous
+        text:
+    7:
+        flats: 1
+        final: g
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+            sesto: f3
+        title: Se vuoi ch'io muoia, o nuovo Basilisco
+        text_type: madrigal
+        author: anonymous
+        text:
+    8:
+        flats: 1
+        final: g
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+            sesto: c4
+        title: Dolcissimo ben mio
+        text_type: madrigal
+        author: anonymous
+        text:
+    9:
+        flats: 0
+        final: a
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c2
+            sesto: c4
+        title: Donna cinta di ferro e di diamente
+        text_type: sonnet
+        author: anonymous
+        text:
+    10:
+        flats: 0
+        final: a
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c2
+            sesto:
+        title: Vinca dunque il voler più saggio et pio
+        text_type: sonnet
+        author: anonymous
+        text:
+    11:
+        flats: 0
+        final: a
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c2
+            sesto: c4
+        title: O soave al mio cor dolce catena
+        text_type: madrigal
+        author:
+        text:
+    12:
+        flats: 1
+        final: a
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c4
+            basso: f3
+            quinto: g2
+            sesto: c4
+        title: Quel dolce suono e quel soave canto
+        text_type: madrigal
+        author: anonymous
+        text:
+    13:
+        flats: 1
+        final: f
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: f3
+            sesto: c2
+        title: Or ch'a noi torna la stagion novella
+        text_type: 
+        author: anonymous
+        text:
+    14:
+        flats: 1
+        final: f
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c1
+            sesto: f3
+        title: Vieni, Flora gentil, vieni e discaccia
+        text_type: madrigal
+        author: anonymous
+        text:
+    15:
+        flats: 0
+        final: g
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: c1
+            sesto: c4
+        title: Come esser può che non sei stanco, Amore
+        text_type: madrigal
+        author: anonymous
+        text:
+    16:
+        flats: 0
+        final: g
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: c1
+            sesto: c4
+        title: Mentre la bella Dori e le compagne
+        text_type: madrigal
+        author: anonymous
+        text:
+    17:
+        flats: 0
+        final: a
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: c4
+            quinto: g2
+            sesto: c4
+        title: Non ti sdegnar, O Filli, ch'io ti segua
+        text_type: madrigal
+        author: anonymous
+        text:
+    18:
+        flats: 0
+        final: a
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: c4
+            quinto: g2
+            sesto: c4
+        title: Chè piangi, alma, e sospiri
+        text_type: madrigal
+        author: anonymous
+        text:
+    19:
+        flats: 0
+        final: a
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: c4
+            quinto: g2
+            sesto: c4
+        title: Tu vuoi, lasso, ch'io pera
+        text_type: madrigal
+        author: anonymous
+        text:
+    20:
+        flats: 0
+        final: g
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c3
+            sesto: f4
+        title: Per farmi Amor d'ogn'altro più contento
+        text_type: sonnet
+        author: anonymous
+        text:
+    21:
+        flats: 0
+        final: g
+        clefs:
+            canto: c1
+            alto: c3
+            tenore: c4
+            basso: f4
+            quinto: c3
+            sesto: f4
+        title: Così di quanto ebbi gia l'alma trista
+        text_type: sonnet
+        author: anonymous
+        text:
+    22:
+        flats: 1
+        final: g
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: f3
+            quinto: c1
+            sesto: c4
+        title: Voi non volete, donne
+        text_type: madrigal
+        author: anonymous
+        text:

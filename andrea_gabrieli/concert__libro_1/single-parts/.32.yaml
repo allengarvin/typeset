@@ -1,0 +1,15 @@
+---
+files:
+- 32-gabrieli-a8-0-score.ly
+- 32-gabrieli-a8-1-cantusOne.ly
+- 32-gabrieli-a8-2-altusOne.ly
+- 32-gabrieli-a8-3-tenorOne.ly
+- 32-gabrieli-a8-4-bassusOne.ly
+- 32-gabrieli-a8-5-cantusTwo.ly
+- 32-gabrieli-a8-6-altusTwo.ly
+- 32-gabrieli-a8-7-tenorTwo.ly
+- 32-gabrieli-a8-8-bassusTwo.ly
+primary:
+  composer: Andrea Gabrieli (c.1532-1585)
+  folio: Concluding antiphon of the Liturgy of the Hours
+  title: Ave Regina coelorum

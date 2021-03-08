@@ -1,0 +1,11 @@
+---
+files:
+- 19-gabrieli-a4-0-score.ly
+- 19-gabrieli-a4-1-cantus.ly
+- 19-gabrieli-a4-2-altus.ly
+- 19-gabrieli-a4-3-tenor.ly
+- 19-gabrieli-a4-4-bassus.ly
+primary:
+  composer: Andrea Gabrieli (c.1532-1585)
+  folio: Saint Venantius Fortunatus (c.530-c.609)
+  title: O crux fidelis

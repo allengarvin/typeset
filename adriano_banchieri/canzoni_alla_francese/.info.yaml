@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: adriano_banchieri/canzoni_alla_francese
+source:
+    city: Venice
+    date_exact: true
+    title: Canzoni alla Francese a 4 voci
+    year: 1596

@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /antonio_becchi
+biography:
+    name: Antonio di Becchi
+    name_variants:
+        - Antonio Becchi
+        - Marc'Antonio di Becchi
+    last_name: Becchi
+    nationality: Italian
+    born_year: 1522
+    born_date: 1522-12-19
+    died_year: 1566
+    born_location:
+        region: Parma
+        country: Italy
+    died_location:
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.02454

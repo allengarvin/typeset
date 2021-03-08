@@ -1,0 +1,17 @@
+---
+files:
+- 43-palestrina-a8-0-score.ly
+- 43-palestrina-a8-0.1-score.ly
+- 43-palestrina-a8-0.2-score.ly
+- 43-palestrina-a8-1-cantus1.ly
+- 43-palestrina-a8-2-altus1.ly
+- 43-palestrina-a8-3-tenor1.ly
+- 43-palestrina-a8-4-bassus1.ly
+- 43-palestrina-a8-5-cantus2.ly
+- 43-palestrina-a8-6-altus2.ly
+- 43-palestrina-a8-7-tenor2.ly
+- 43-palestrina-a8-8-bassus2.ly
+primary:
+  composer: Giovanni Pierluigi da Palestrina (c.1525-1594)
+  folio: Antiphon to Magnificat, Christmas Day Vespers
+  title: Hodie Christus natus est

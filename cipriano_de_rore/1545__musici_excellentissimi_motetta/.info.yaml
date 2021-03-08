@@ -1,0 +1,64 @@
+---
+local:
+    facsimile_directory: complete$ cd 1545__rore_cipriano_de__musici_excellentissimi_motetta/
+    typeset_directory: cipriano_de_rore/1545__musici_excellentissimi_motetta
+source:
+    city: Venice
+    date_exact: true
+    title: Musici excellentissimi motetta
+    full_title: Musici excellentissimi motetta nunc primum summa siligientia in lucem prodita
+    press: Antonio Gardano press
+    year: 1545
+    reprints:
+catalog:
+    bologna:
+    rism:
+    bsb:
+contents:
+    type: motet
+    parts: 5
+    part_names: cantus, altus, tenor, bassus, quintus
+    language: italian
+    pieces: 37
+    36:
+        parts: 6
+        flats: 1
+        title: Nunc cognovi Domine
+        part_names: cantus, altus, tenor, bassus, quintus, sexta pars
+        clefs:
+            cantus: c1
+            alto: c3
+            tenor: c4
+            bassus: f4
+            quintus: f3
+            sexta pars: c4
+        part: 1
+        final: c
+        text:
+            - "Nunc cognovi, Domine, quia verus est sermo,"
+            - "quem audivi in terra mea super sermonibus"
+            - "tuis, et non credebam narrantibus mihi, donec"
+            - "ipse veni, et vidi oculis meis et probavi,"
+            - "quod media pars mihi nuntiata non fuerit;"
+            - "et tu, domine, fac me sicut unum ex mercenariis tuis."
+    37:
+        parts: 6
+        flats: 1
+        title: Beati servi tui
+        part_names: cantus, altus, tenor, bassus, quintus, sexta pars
+        part: 2
+        final: f
+        clefs:
+            cantus: c1
+            alto: c3
+            tenor: c4
+            bassus: f4
+            quintus: f3
+            sexta pars: c4
+        text:
+            - "Beati servi tui, qui hic stant coram te semper,"
+            - "et experiuntur largitatem tuam."
+            - "Sit Dominus Deus benedictus,"
+            - "qui posuit te super thronum patris tui,"
+            - "ut faceres iudicium et iustitiam;"
+            - "et tu, domine, fac me sicut unum ex mercenariis tuis."

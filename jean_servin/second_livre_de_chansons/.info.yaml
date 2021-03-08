@@ -1,0 +1,14 @@
+---
+local:
+    facsimile_directory: 1576__servin_jean__second_livre_de_chansons_a_4_a_5_et_a_8_parties
+    typeset_directory: jean_servin/second_livre_de_chansons
+
+source:
+    city: Lyon
+    date_exact: true
+    title: Second livre de chansons à 4, 5, 6, et 8 parties
+    full_title: Second livre de chansons nouvelles a quatre, cinque, six, et huit parties
+    press: Charles Pesnot press
+    year: 1578
+contents:
+    type: chanson

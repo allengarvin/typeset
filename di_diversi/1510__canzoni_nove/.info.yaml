@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1510__canzoni_nove
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    press: Antico press
+    print: true
+    title: Canzoni nove con alcune scelte de varii libri
+    year: 1510

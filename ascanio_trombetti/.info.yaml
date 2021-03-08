@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /ascanio_tombetti
+biography:
+    name: Ascanio Trombetti
+    name_variants:
+        - Ascanio Cavalaro
+        - Ascanio del Cornetto
+        - Ascanio Cavallari
+    last_name: Trombetti
+    nationality: Italian
+    born_year: 1544
+    died_year: 1590
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Bologna
+        country: Italy

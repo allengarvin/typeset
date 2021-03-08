@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: ottaviano_petrucci/motetti_a
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Petrucci press
+    print: true
+    title: Motetti A
+    year: 1502

@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /baldassara_donato
+biography:
+    name: Baldassare Donato
+    name_variants:
+        - Baldassara Donato
+        - Baldassare Donati
+    last_name: Donato
+    nationality: Italian
+    born_year: 1529
+    died_year: 1603
+    died_date: 1603-02-17
+    born_location:
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.07990

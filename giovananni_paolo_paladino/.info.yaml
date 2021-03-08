@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /giovananni_paolo_paladino
+biography:
+    name: Giovanni Paolo Paladino
+    name_variants:
+        - Jean Paul Paladin
+    last_name: Paladino
+    nationality: Italian
+    born_unknown: true
+    died_year: 1565
+    died_before: true
+    born_location:
+        region: Milan?
+        country: Italy
+    died_location:
+        region: Lyons
+        country: France
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.20732

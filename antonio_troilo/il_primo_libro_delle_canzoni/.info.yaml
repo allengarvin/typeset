@@ -1,0 +1,102 @@
+---
+local:
+    facsimile_directory: complete/1606__troilo_antonio__il_primo_libro_delle_canzoni_da_sonare_a_4_e_5_voci
+    typeset_directory: antonio_troilo/il_primo_libro_delle_canzoni
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Ricciardo Amadino press
+    print: true
+    title: Il primo libro delle canzoni da sonare
+    year: 1606
+catalog:
+    rism: T 1270
+contents:
+    type: canzona
+    parts: 4|5
+    1:
+        title: Canzon Prima
+        flats: 0 
+        final: a
+    2:
+        title: Canzon Seconda
+        flats: 0
+        final: a
+    3:
+        title: Canzon Terza
+        flats: 0
+        final: a
+    4:
+        title: Canzon Quarta
+        flats: 0
+        final: c
+    5:
+        title: Canzon Quinta
+        flats: 1
+        final: g
+    6:
+        title: Canzon Sesta
+        flats: 1
+        final: g
+    7:
+        title: Canzon Sestina
+        flats: 1
+        final: g
+    8:
+        title: Canzon Ottava
+        flats: 1
+        final: g
+    9:
+        title: Canzon Nona
+        flats: 1
+        final: f
+        clefs: c1, c3, c4, f4
+    10:
+        title: Canzon Decima
+        flats: 1
+        final: f
+    11:
+        title: Canzon Undecima
+        flats: 1
+        final: f
+    12:
+        title: Canzon Duodecima
+        flats: 1
+        final: f
+    13:
+        title: Canzon Terza decima
+        flats: 0
+        final: a
+    14:
+        title: Canzon Quarta decima
+        flats: 0
+        final: a
+    15:
+        title: Canzon Quinta decima
+        flats: 1
+        final: g
+    16:
+        title: Canzon Decima sesta
+        flats: 1
+        final: g
+    17:
+        title: Canzon Decima settima
+        flats: 1
+        final: g
+    18:
+        title: Canzon Decima ottava
+        flats: 0
+        final: a
+    19:
+        title: Canzon Decima nona
+        flats: 1
+        final: g
+    20:
+        title: Canzon Vigesima
+        flats: 1
+        final: g
+    21:
+        title: Canzon Vigesima prima
+        flats: 1
+        final: f

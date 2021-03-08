@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: 
+    physical_facsimile: Bernd Becker
+    typeset_directory: alfonso_ferrabosco_the_elder/secondo_libro
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro de madrigali à cinque
+    press: Angelo Gardano press
+    year: 1587
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

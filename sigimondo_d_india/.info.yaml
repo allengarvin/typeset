@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /sigimondo_d_india
+biography:
+    name: Sigismondo D'India
+    last_name: D'India
+    nationality: Italian
+    born_year: 1582
+    born_circa: true
+    died_year: 1629
+    died_date: 1629-04-19
+    born_location:
+        region: Palermo
+        country: India
+    died_location:
+        region: Modena?
+        country: Italy

@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: 1601__guami_giuseppe__partidura_per_sonare_delle_canzonette_alla_francese$ 
+    typeset_directory: gioseffo_guami/partidura_per_sonare_della_canzonette_alla_francese
+source:
+    city: Venice
+    date_exact: true
+    title: Partidura per sonare delle canzonette alla Francese
+    press: Giacomo Vincenzi press
+    year: 1601
+contents:
+    type: canzona
+    parts: 2
+catalog:
+    bologna: S.264
+    rism: G-4806
+    sartori: 1601e

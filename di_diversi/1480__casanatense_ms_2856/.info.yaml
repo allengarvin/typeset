@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1480__casanatense_ms_2856
+source:
+    date_exact: true
+    title: Biblioteca Casanatense MS 2856
+    year: 1548

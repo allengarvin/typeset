@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: william_byrd/mass-a3
+source:
+    city: London
+    date_range: true
+    title: Christ Church, Oxford Mus. 489-493
+    year: 1592-3

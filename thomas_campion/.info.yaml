@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /thomas_campion
+biography:
+    name: Thomas Campion
+    name_variants:
+        - Thomas Campian
+    last_name: Campion
+    nationality: English
+    born_year: 1567
+    born_date: 1567-02-12
+    died_year: 1620
+    died_date: 1620-03-01
+    born_location:
+        region: London
+        country: England
+    died_location:
+        region: London
+        country: England

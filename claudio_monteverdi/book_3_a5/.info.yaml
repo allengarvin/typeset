@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: claudio_monteverdi/book_3_a5
+source:
+    city: Venice
+    date_exact: true
+    title: 'Il terzo libro de madrigali à 5'
+    year: 1592

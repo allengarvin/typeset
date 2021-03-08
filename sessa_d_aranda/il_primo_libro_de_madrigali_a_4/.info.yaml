@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1571__d_aranda_sessa__il_primo_libro_de_madrigali_a_4_voci
+    typeset_directory: sessa_d_aranda/il_primo_libro_de_madrigali_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: 'Il primo libro de madrigali à 4 voci'
+    year: 1571
+contents:
+    type: madrigal
+    parts: 4

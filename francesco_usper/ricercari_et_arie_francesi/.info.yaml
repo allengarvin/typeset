@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: complete/1595__usper_francesco__ricercari_et_arie_francesi
+    typeset_directory: francesco_usper/ricercari_et_arie_francesi
+source:
+    city: Venice
+    date_exact: true
+    title: Ricercari et arie francesi à 4 voci
+    press: Giacomo Vincenzi press
+    year: 1595
+contents:
+    type: ricercar|canazona
+    parts: 4

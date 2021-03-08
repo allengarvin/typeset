@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: seth_calvisius/1612__biciniorum
+source:
+    city: Leipzig
+    date_exact: true
+    title: Biciniorum libri duo
+    year: 1612

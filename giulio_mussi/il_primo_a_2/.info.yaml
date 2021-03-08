@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giulio_mussi/il_primo_a_2
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenti press
+    print: true
+    title: Il primo libro delle canzoni da sonare
+    year: 1620

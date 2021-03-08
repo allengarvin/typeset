@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: william_byrd/parthenia
+source:
+    city: London
+    date_exact: true
+    title: Parthenia or the Maydenhead
+    year: 1612

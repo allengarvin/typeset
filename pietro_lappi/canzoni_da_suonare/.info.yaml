@@ -1,0 +1,28 @@
+---
+local:
+    facsimile_directory: complete/1616__lappi_pietro__canzoni_da_sonare_a_4_5_6_7_8_9_et_c_voci
+    typeset_directory: pietro_lappi/canzoni_da_suonare
+source:
+    city: Venice
+    date_exact: true
+    title: Canzoni da suonare, op. 9
+    full_title: Canzoni da suonare di Pietro Lappi ... a 4, 5, 6, 7, 8, 9, 10, 11, 12, e 13
+    press: Gardano press
+    year: 1616
+catalog:
+    bologna: AA.159
+contents:
+    type: canzona
+    parts: 4
+    part_names: canto, alto, tenore, basso
+    language: italian
+    pieces: 23
+    1:
+        flats: 0
+        final: c
+        clefs:
+            canto: g2
+            alto: c2
+            tenore: c3
+            basso: c4
+        title: La ghirardella

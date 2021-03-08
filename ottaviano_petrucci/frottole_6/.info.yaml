@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1505__petrucci__frottole_libro_sexto
+    typeset_directory: ottaviano_petrucci/frottole_6
+source:
+    city: Venice
+    date_exact: true
+    title: Frottole libro sexto
+    full_title: Frottole libro sexto
+    press: Ottaviano Petrucci press
+    year: 1505/6

@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: jacques_moderne/le_parangon_des_chansons__livre_4
+source:
+    city: Lyons
+    date_exact: true
+    title: Le parangon des chansons, quart livre
+    year: 1539

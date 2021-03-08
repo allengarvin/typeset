@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /pietro_lappi
+biography:
+    name: Pietro Lappi
+    last_name: Lappi
+    nationality: Italian
+    born_year: 1575
+    born_circa: true
+    died_year: 1630
+    born_location:
+        country: Italy
+    died_location:
+        region: Brescia
+        country: Italy

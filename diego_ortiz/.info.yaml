@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /diega_ortiz
+biography:
+    name: Diego Ortiz
+    last_name: Ortiz
+    nationality: Spanish
+    born_year: 1510
+    born_circa: true
+    died_year: 1570
+    died_circa: true
+    born_location:
+        region: Toledo
+        country: Spain
+    died_location:
+        region: Naples?
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.20508

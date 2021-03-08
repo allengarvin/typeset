@@ -1,0 +1,14 @@
+---
+top:
+    type: composer
+    path: /francesco_bendusi
+biography:
+    name: Francesco Bendusi
+    last_name: Bendusi
+    nationality: Italian
+    flourished: c.1553
+    born_location:
+        region: Siena
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.02647

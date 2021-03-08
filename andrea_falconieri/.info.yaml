@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /andrea_falconieri
+biography:
+    name: Andrea Falconieri
+    last_name: Falconieri
+    nationality: Italian
+    born_year: 1585/6
+    died_year: 1656
+    died_date: 1656-07-29
+    born_location:
+        region: Naples
+        country: Italy
+    died_location:
+        region: Naples
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.09258

@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /cipriano_de_rore
+biography:
+    name: Cipriano de Rore
+    last_name: Rore
+    nationality: Netherlandish
+    born_year: 1515/16
+    died_year: 1565
+    died_date: 1565-09-20
+    born_location:
+        region: Renaix
+        country: Netherlands
+    died_location:
+        region: Parma
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.23815

@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1589__wert_giaques_de__il_primo_libro_delle_canzonette_villanelle_a_5_voci
+    typeset_directory: giaches_de_wert/canzonette_villanelle
+source:
+    city: Venice
+    date_exact: true
+    title: Il Primo Libro delle Canzonette Villanelle à 5 voci
+    press: Angelo Gardano press
+    year: 1589
+contents:
+    type: villanella
+    parts: 5
+    language: italian
+catalog:
+    rism: W-0888
+    bologna: U.379

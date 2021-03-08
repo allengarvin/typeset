@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /johannes_thesselius
+biography:
+    name: Johann Thesselius
+    last_name: Thesselius
+    nationality: German
+    born_year: 1580
+    born_circa: true
+    died_year: 1643
+    born_location:
+        region: Erfurt
+        country: Germany
+    died_location:
+        region: Hermannstadt (Sibiu)
+        country: Romania

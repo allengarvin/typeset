@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /giovanni_battista_mosto
+biography:
+    name: Giovanni Battista Mosto
+    last_name: Mosto
+    nationality: Italian
+    born_year: 1550
+    born_circa: true
+    died_year: 1596
+    born_location:
+        region: Udine
+        country: Italy
+    died_location:
+        region: Alba Iulia
+        country: Romania

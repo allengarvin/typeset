@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /giovan_leonardo_primavera
+biography:
+    name: Giovan Leonardo Primavera
+    last_name: Primavera
+    nationality: Italian
+    born_year: 1545
+    born_circa: true
+    died_year: 1585
+    died_circa: true
+    born_location:
+        region: Barletta
+        country: Italy
+    died_location:
+        region: ?Naples
+        country: Italy

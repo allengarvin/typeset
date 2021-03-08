@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1591__livre_septieme_des_chansons
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: 'Phalèse press'
+    print: true
+    title: 'Livre septieme des chansons à 4 parties'
+    year: 1592

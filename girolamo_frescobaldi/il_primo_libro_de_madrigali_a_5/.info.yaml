@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: girolamo_frescobaldi/il_primo_libro_de_madrigali_a_5
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: 'Phalèse press'
+    print: true
+    title: 'Il primo libro de madrigali à 5 voci'
+    year: 1608

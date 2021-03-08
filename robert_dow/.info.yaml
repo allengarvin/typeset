@@ -1,0 +1,15 @@
+---
+top:
+    type: scribe
+    path: /robert_dow
+biography:
+    name: Robert Dow
+    name_variants:
+        - Robert Dowe
+        -
+        -
+    last_name: Dow
+    nationality: English
+    born_year: 1553
+    died_year: 1588
+    died_date:  1588-11-10

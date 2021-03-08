@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1590__novi_frutti_musicali
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenti press
+    print: true
+    title: 'Novi frutti musicali: madrigali à 5 voci'
+    year: 1590

@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: jhan_gero/il_primo_libro_de_madrigali_a_2
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Il primo libro de madrigali Italiani e canzon Francese à 2
+      voci'
+    year: 1540

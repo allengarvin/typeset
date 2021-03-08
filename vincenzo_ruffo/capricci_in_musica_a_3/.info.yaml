@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: vincenzo_ruffo/capricci_in_musica_a_3
+source:
+    city: Milan
+    date_exact: true
+    title: Capricci in Musica à 3 voci
+    full_title: Capricci in Musica à tre voci di Vincenzo Ruffo Mastro di Capella nel Domo di Milano
+    press: Francesco Moscheni
+    year: 1564
+contents:
+    type: capricci
+    parts: 3
+    part_names: canto, tenore, basso

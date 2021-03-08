@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1560__premier_livre_des_fleurs_a_3
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: 'Phalèse press'
+    print: true
+    title: 'Premier livre du recueil des fleurs ... à 3'
+    year: 1560

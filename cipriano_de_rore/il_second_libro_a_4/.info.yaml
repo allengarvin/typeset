@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: cipriano_de_rore/il_second_libro_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Il secondo libro di madrigali à 4 voci'
+    year: 1557

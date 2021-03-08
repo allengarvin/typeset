@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: riccardo_rognoni/passagi
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vicenti press
+    print: true
+    title: Passagi per potersi essercitare
+    year: 1592

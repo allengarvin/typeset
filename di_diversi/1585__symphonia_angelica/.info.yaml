@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1585__symphonia_angelica
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: 'Phalèse press'
+    print: true
+    title: Symphonia angelica di diversi
+    year: 1585

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: josquin/le_septiesme_livre
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: Susato press
+    print: true
+    title: Le septisme livre contenant 24 chansons
+    year: 1545

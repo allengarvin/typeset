@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: robert_dow/consort_songs_by_byrd
+source:
+    date_exact: true
+    title: Dow Partbooks
+    year: 1592

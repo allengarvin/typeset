@@ -1,0 +1,9 @@
+---
+top:
+    type: composer
+    path: /gioan_paien
+biography:
+    name: Gioan Paien
+    last_name: Paien
+    nationality: Italian
+    flourished: 1560s

@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /johann_walter
+biography:
+    name: Johann Walter
+    name_variants:
+        - Johann Walther
+        - Johannes Walther
+        -
+    last_name: Walter
+    nationality: German
+    born_year: 1496
+    died_year: 1570-03-25
+    born_location:
+        region: Kahla, Thuringia
+        country: Germany
+    died_location:
+        region: Torgau
+        country: Germany

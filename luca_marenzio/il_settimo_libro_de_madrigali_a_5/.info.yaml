@@ -1,0 +1,22 @@
+---
+local:
+    facsimile_directory: complete/1595__marenzio_luca__il_settimo_libro_de_madrigali_a_5_voci
+    typeset_directory: luca_marenzio/il_settimo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il settimo libro de madrigali à 5 voci
+    full_title: Di Luca Marenzio il settimo libro de madrigali à cinque voci
+    press: Angelo Gardano press
+    year: 1595
+catalog:
+    bologna: V.1
+    rism: w-0885
+    bsb: 4 Mus.pr. 44
+    new_vogel: M560
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 21

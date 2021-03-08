@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: giulio_abondante/il_quinto_libro_de_tabolatura
+source:
+    city: Venice
+    date_exact: true
+    title: Il quinto libro de tabolatura da liuto
+    press: Angelo Gardano press
+    year: 1587

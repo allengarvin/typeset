@@ -1,0 +1,9 @@
+---
+files:
+- 01-philips-a3-0-score.ly
+- 01-philips-a3-1-cantus.ly
+- 01-philips-a3-2-tenor.ly
+- 01-philips-a3-3-bassus.ly
+primary:
+  composer: Peter Philips (c.1560-1628)
+  title: 'Trio de la première mode'

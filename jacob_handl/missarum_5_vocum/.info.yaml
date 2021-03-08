@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: jacob_handl/missarum_5_vocum
+source:
+    city: Prague
+    date_exact: true
+    manuscript: false
+    press: Nigrini press
+    print: true
+    title: Missarum V vocum, liber I
+    year: 1580

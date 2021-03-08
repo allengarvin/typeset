@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: complete/1552__rore_cipriano_de__terzo_libro_de_madrigali_a_5
+    typeset_directory: cipriano_de_rore/il_terzo_libro_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: 'Il terzo libro de madrigali à 5 voci'
+    year: 1552
+    pieces: 31

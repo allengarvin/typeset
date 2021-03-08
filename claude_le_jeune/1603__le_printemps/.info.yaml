@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1603__le_jeune_claude__le_printemps
+    typeset_directory: claude_le_jeune/1603__le_printemps
+source:
+    city: Paris
+    date_exact: true
+    title: Le printemps
+    full_title: Le printemps de Claud. le Jeune
+    press: Ballard press
+    year: 1603

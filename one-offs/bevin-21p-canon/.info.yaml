@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/bevin-21p-canon
+source:
+    city: London
+    date_exact: true
+    manuscript: false
+    press: Young press
+    print: true
+    title: A briefe and short instruction of the art of Musicke
+    year: 1631

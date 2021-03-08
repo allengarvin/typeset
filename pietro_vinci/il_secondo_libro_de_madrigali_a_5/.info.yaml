@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1567__vinci_pietro__il_secondo_libro_de_madrigali_a_5_voci__rampazetto_press
+    typeset_directory: pietro_vinci/il_secondo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro de madrigali à 5 voci
+    press: Francesco Rampazetto press
+    year: 1567
+catalog:
+    bologna: U.361
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

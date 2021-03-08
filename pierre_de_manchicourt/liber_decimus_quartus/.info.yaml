@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: pierre_de_manchicourt/liber_decimus_quartus
+source:
+    city: Paris
+    date_exact: true
+    title: Liber decima quartus XIX musicas cantiones
+    year: 1539

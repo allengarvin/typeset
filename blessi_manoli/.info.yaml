@@ -1,0 +1,23 @@
+---
+top:
+    type: poet
+    path: /blessi_manoli
+biography:
+    name: Antonio Molino
+    name_variants:
+        - Blessi Molina
+        - Antonio Burchiella Molina
+    last_name: Molina
+    nationality: Italian
+    born_year: 1495
+    born_circa: true
+    born_range: 1495-1497
+    died_year: 1571
+    died_circa: true
+    born_location:
+        country: Italy
+    died_location:
+        region: Venice?
+        country: Italy
+    urls:
+        https://doi.org/10.1093/gmo/9781561592630.article.10003

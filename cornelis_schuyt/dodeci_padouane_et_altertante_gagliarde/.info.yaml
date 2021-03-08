@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: cornelis_schuyt/dodeci_padouane_et_altertante_gagliarde
+source:
+    city: Leiden
+    date_exact: true
+    title: Dodeci Padovane, et altretante Gagliarde
+    year: 1611

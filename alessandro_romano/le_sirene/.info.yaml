@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: alessandro_romano/le_sirene
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: Le Sirene et Secondo Libro de suoi Madrigali
+    year: 1577

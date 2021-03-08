@@ -1,0 +1,13 @@
+---
+files:
+- 18-byrd-a6-0-score.ly
+- 18-byrd-a6-1-superius.ly
+- 18-byrd-a6-2-discantus.ly
+- 18-byrd-a6-3-contraOne.ly
+- 18-byrd-a6-4-contraTwo.ly
+- 18-byrd-a6-5-tenor.ly
+- 18-byrd-a6-6-bassus.ly
+primary:
+  composer: William Byrd (c.1540-1623)
+  folio: Paraphrase of Job 34:15
+  title: Memento homo

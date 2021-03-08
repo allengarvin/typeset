@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1566__lasso_tiers_livres_des_chansons
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: 'Phalèse press'
+    print: true
+    title: Tiers livres des chansons
+    year: 1566

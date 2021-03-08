@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: adrian_willaert/1539__musica_4_vocum
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: 'Del primo libro de i motetti à 4 voci'
+    year: 1530

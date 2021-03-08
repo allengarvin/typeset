@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giandominico_la_martoretta/il_terzo_libro_di_madrigali_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Il terzo libro di madregali a 4 voci
+    year: 1554

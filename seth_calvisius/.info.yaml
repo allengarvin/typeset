@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /seth_calvisius
+biography:
+    name: Sethus Calvisius
+    name_variants:
+        - Seth Calvisius
+        - Seth Kalwitz
+    last_name: Calvisius
+    nationality: German
+    born_year: 1556
+    born_date: 1556-02-21
+    died_year: 1615
+    died_date: 1615-11-24
+    born_location:
+        region: Sachsenburg, Thuringia
+        country: Germany
+    died_location:
+        region: Leipzig
+        country: Germany

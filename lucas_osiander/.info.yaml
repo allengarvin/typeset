@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /lucas_osiander
+biography:
+    name: Lucas Osiander
+    last_name: Osiander
+    nationality: German
+    born_year: 1534
+    died_year: 1604
+    died_date: 1604-09-17
+    born_location:
+        region: Nuremberg
+        country: Germany
+    died_location:
+        region: Stuttgart
+        country: Germany

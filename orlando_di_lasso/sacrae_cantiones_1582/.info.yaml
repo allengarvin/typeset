@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_di_lasso/sacrae_cantiones_1582
+source:
+    city: Munich
+    date_exact: true
+    manuscript: false
+    press: Berg press
+    print: true
+    title: 'Sacræ cantiones quinque vocum'
+    year: 1582

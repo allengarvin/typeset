@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: johann_ott/121_newe_lieder
+source:
+    city: Nuremberg
+    date_exact: true
+    title: 121 newe lieder
+    year: 1534

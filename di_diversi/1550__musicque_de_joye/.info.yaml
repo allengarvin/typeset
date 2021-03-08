@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1550__musicque_de_joye
+source:
+    city: Lyon
+    date_circa: true
+    manuscript: false
+    press: Moderne press
+    print: true
+    title: Musicque de Joye
+    year: 1550

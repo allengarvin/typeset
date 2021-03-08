@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/greiter--fortuna_desperata
+source:
+    city: Basle
+    date_exact: true
+    manuscript: false
+    press: Gregor Faber
+    print: true
+    title: Musices practiae erotematum, libri II
+    year: 1553

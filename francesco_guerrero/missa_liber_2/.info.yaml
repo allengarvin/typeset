@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: francesco_guerrero/missa_liber_2
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    press: Basae press
+    print: true
+    title: Missarum liber secundus
+    year: 1582

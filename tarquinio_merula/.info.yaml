@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /tarquinio_merula
+biography:
+    name: Tarquino Merula
+    last_name: Merula
+    nationality: Italian
+    born_year: 1594
+    born_circa: true
+    died_year: 1665
+    died_date: 1665-12-10
+    born_location:
+        region: Cremona
+        country: Italy
+    died_location:
+        region: Cremona
+        country: Italy

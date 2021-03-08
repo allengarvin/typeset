@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /cornelis_schuyt
+biography:
+    name: Cornelis Schuyt
+    name_variants:
+        - Cornelis Floriszoon Schuyt
+        - Cornelis Schuit
+    last_name: Schuyt
+    nationality: Dutch
+    born_year: 1557
+    died_year: 1616
+    died_date: 1616-06-09
+    born_location:
+        region: Leiden
+        country: Netherlands
+    died_location:
+        region: Leiden
+        country: Netherlands
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.25178

@@ -1,0 +1,24 @@
+---
+top:
+    type: composer|printer
+    path: /antonio_gardano
+biography:
+    name: Antonio Gardano
+    name_variants:
+        - Antonio Gardane
+        - Antoine Gardane
+    last_name: Gardano
+    nationality: French
+    born_year: 1509
+    died_year: 1569
+    died_date: 1569-10-28
+    born_location:
+        region: southern France
+        country: France
+    died_location:
+        region: Venice
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.10654
+        - https://en.wikipedia.org/wiki/Antonio_Gardano
+        - https://imslp.org/wiki/Category:Gardano,_Antonio

@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /girolamo_scotto
+biography:
+    name: Girolamo Scotto
+    name_variants:
+        - Geronimo Scotto
+        - Hieronymus Scotto
+        - Gerolamo Scotto
+    last_name: Scrotto
+    nationality: Italian
+    born_year: 1505
+    born_circa: true
+    died_year: 1572
+    died_date: 1572-09-03
+    born_location:
+        region: Milan
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy

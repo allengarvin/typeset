@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1582__lasso_orlando_di__libro_de_villanelle_moresche_et_altra_canzoni_a_4_6_et_8_voci
+    typeset_directory: orlando_di_lasso/libro_de_villanelle_moresche
+source:
+    city: Antwerp
+    date_exact: true
+    title: Libro de villanelle, moresche, et altre canzoni
+    press: Pierre Phalèse press
+    year: 1582

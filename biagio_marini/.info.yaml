@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /biagio_marini
+biography:
+    name: Biagio Marini
+    last_name: Marini
+    nationality: Italian
+    born_year: 1594
+    born_date: 1594-02-03
+    died_year: 1663
+    died_date: 1663-11-17
+    born_location:
+        region: Brescia
+        country: Venice
+    died_location:
+        region: Venice
+        country: Italy

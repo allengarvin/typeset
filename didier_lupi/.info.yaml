@@ -1,0 +1,13 @@
+---
+top:
+    type: composer
+    path: /didier_lupi
+biography:
+    name: Didier Lupi
+    name_variants:
+        - Didier Lupi Second
+    last_name: Lupi
+    nationality: French
+    flourished: mid-16c
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.17183

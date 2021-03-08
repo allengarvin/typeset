@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: pierre_attaingnant/27_chansons_musicales_a_4
+source:
+    city: Paris
+    date_exact: true
+    title: Vingt et sept chansons musicales
+    year: 1533

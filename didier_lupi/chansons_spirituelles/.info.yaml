@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: didier_lupi/chansons_spirituelles
+source:
+    city: Lyon
+    date_exact: true
+    manuscript: false
+    press: Beringen press
+    print: true
+    title: Premier livre de chansons spirituelles, par Guillaume Gueroult
+    year: 1548

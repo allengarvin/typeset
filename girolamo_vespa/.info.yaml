@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /girolamo_vespa
+biography:
+    name: Girolamo Vespa
+    last_name: Vespa
+    nationality: Italian
+    born_year: 1540
+    born_circa: true
+    died_year: 1596
+    died_circa: true
+    born_location:
+        region: Naples
+        country: Italy
+    died_location:
+        country: Italy

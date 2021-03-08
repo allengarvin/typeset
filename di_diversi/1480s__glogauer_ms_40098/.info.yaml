@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1480s__glogauer_ms_40098
+source:
+    date_circa: true
+    manuscript: true
+    manuscript_name: 'Kraków MS Mus. 40098'
+    print: false
+    title: '''Glogauer Liederbuch'''
+    year: 1480

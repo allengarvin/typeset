@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /philippe_de_monte
+biography:
+    name: Philippe de Monte
+    last_name: Monte
+    nationality:
+    born_year: 1521
+    died_year: 1603
+    died_date: 1603-07-04
+    born_location:
+        region: Mechelen
+        country: Flanders
+    died_location:
+        region: Prague
+        country: Czechia

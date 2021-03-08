@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /riccardo_rognoni
+biography:
+    name: Riccardo Rognoni
+    name_variants:
+        - Ricardo Rognoni
+        - Richardo Rognoni
+    last_name: Rognoni
+    nationality: Italian
+    born_year: 1550
+    born_circa: true
+    died_year: 1620
+    died_date: 1620-04-20
+    born_location:
+        region: Bergamo
+        country: Italy
+    died_location:
+        region: Milan
+        country: Italy

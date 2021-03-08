@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: nicola_vicentino/madrigali_a_5_voci
+source:
+    city: Milan
+    date_exact: true
+    manuscript: false
+    press: Pontio press
+    print: true
+    title: 'Madrigali à 5 voci, libro quinto'
+    year: 1572

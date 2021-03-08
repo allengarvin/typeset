@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: library_of_congress/laborde_chansonnier__ms_m2.1_l25
+source:
+    date_exact: true
+    title: Laborde chansonnier
+    year: 1578

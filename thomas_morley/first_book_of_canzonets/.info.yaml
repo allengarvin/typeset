@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: thomas_morley/first_book_of_canzonets
+source:
+    date_exact: true
+    title: The First Booke of Canzonets to Two Voyces
+    year: 1597

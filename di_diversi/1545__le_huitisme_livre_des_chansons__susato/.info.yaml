@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1545__le_huitisme_livre_des_chansons__susato
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: Susato press
+    print: true
+    title: 'Le huitiesme livre des chanons à 4'
+    year: 1545

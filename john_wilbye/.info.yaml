@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /john_wilbye
+biography:
+    name: John Wilbye
+    name_variants:
+        - John Willoughbye
+    last_name: Wilbye
+    nationality: English
+    born_year: 1574
+    born_date: 1574-03-07
+    died_year: 1638
+    born_location:
+        region: Diss
+        country: England
+    died_location:
+        region: Colchester
+        country: England

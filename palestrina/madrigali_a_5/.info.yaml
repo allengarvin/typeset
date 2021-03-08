@@ -1,0 +1,18 @@
+---
+local:
+    facsimile_directory: complete/1581__palestrina__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: palestrina/madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali à 5 voci
+    press: Angelo Gardano press
+    full_title: Il primo libro de madrigali a cinque voci
+    year: 1581
+catalog:
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 27

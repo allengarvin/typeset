@@ -1,0 +1,8 @@
+---
+top:
+    type: library
+    path: /british_library
+biography:
+    name: British Library
+    city: London
+    country: UK

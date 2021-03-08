@@ -1,0 +1,23 @@
+---
+top:
+    type: composer
+    path: /orlando_di_lasso
+biography:
+    name: Orlande de Lassus
+    name_variants:
+        - Orlando di Lasso
+        - Roland Lassus
+    last_name: Lasso
+    nationality: Franco-Flemish
+    born_year: 1532
+    born_circa: true
+    died_year: 1594
+    died_date: 1594-06-14
+    born_location:
+        region: Mons, Hainaut
+        country: Flanders
+    died_location:
+        region: Munich
+        country: Germany
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.6002278212

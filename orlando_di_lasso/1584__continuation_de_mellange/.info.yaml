@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1584__lasso_orlando_di__continuation_du_mellange
+    typeset_directory: orlando_di_lasso/1584__continuation_de_mellange
+source:
+    city: Paris
+    date_exact: true
+    title: Continuation du mellange
+    full_title: Continuation du mellange d'Orlande de Lassus à 3, 4, 5, 6, et dix parties
+    press: Le Roy et Ballard press
+    year: 1584

@@ -1,0 +1,10 @@
+---
+files:
+- 01-obrecht-a4-0-score.ly
+- 01-obrecht-a4-1-cantus.ly
+- 01-obrecht-a4-2-altus.ly
+- 01-obrecht-a4-3-tenor.ly
+- 01-obrecht-a4-4-bassus.ly
+primary:
+  composer: Jacob Obrecht (1457/8-1505)
+  title: Missa Fortuna Desperata

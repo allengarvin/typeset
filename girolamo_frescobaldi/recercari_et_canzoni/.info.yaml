@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: girolamo_frescobaldi/recercari_et_canzoni
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    press: Zannetti press
+    print: true
+    title: Recercari et canzoni frenzese, libro primo
+    year: 1615

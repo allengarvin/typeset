@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1546__6e_livre_chansons_a5_a6
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: Susato press
+    print: true
+    title: Le sixiesme livre contenant 31 chansons
+    year: 1546

@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /giocomo_filippo_biumi
+biography:
+    name: Giacomo Filippo Biumi
+    name_variants:
+        - Goacomo Filippo Bimio
+    nationality: Italian
+    born_year: 1580
+    born_circa: true
+    died_year: 1653
+    died_date: 1653-11-24
+    born_location:
+        region: Milan?
+        country: Italy
+    died_location:
+        region: Milan
+        country: Italy
+urls:
+    - https://doi.org/10.1093/gmo/9781561592630.article.03166

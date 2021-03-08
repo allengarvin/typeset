@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1622__diruta_girolamo__seconda_parte_del_transilvano_dialogo_diviso_in_4_libri
+    typeset_directory: di_diversi/1622__transilvano__libro_2
+source:
+    city: Venice
+    date_exact: true
+    title: Seconda parte del transilvano dialogo
+    press: Vincenti press
+    year: 1522
+contents:
+    type: ricercari|moteti
+    parts: 4
+    language: latin
+catalog:
+    bologna: D.19
+

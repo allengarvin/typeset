@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orlando_gibbons/the_first_set_of_madrigals_and_mottets
+source:
+    city: London
+    date_exact: true
+    title: The First Set of Madrigals and Mottets
+    year: 1612

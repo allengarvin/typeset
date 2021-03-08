@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1645__zanetti_gasparo__il_scolaro_per_imparar_a_suonare_di_violino
+    typeset_directory: gasparo_zanetti/il_scolaro
+source:
+    city: Milan
+    date_exact: true
+    title: Il scolaro per imparar a suonare di violino
+    full_title: Il scolaro per imparar a suonare il violino et altri stromenti
+    press: Carlo Camagno press
+    year: 1645

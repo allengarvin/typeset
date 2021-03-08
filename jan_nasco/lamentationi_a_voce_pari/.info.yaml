@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: jan_nasco/lamentationi_a_voce_pari
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Lamentationi à voce pari à 4 voci'
+    year: 1561

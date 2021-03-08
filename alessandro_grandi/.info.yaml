@@ -1,0 +1,15 @@
+---
+top:
+    type: composer
+    path: /alessandro_grandi
+biography:
+    name: Alessandro Grandi
+    last_name: Grandi
+    nationality: Italian
+    born_year: 1586
+    died_year: 1530
+    born_location:
+        country: Italy
+    died_location:
+        region: Bergamo
+        country: Italy

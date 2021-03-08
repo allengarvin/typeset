@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1540__verdelot_philippe__tutti_li_madrigali_del_primo_et_secondo_libro_a_4_voci
+    typeset_directory: philippe_verdelot/1540__tutii_li_madrigali
+source:
+    city: Venice
+    date_exact: true
+    title: Tutti li madrigali del primo et secondo libro di Verdelot
+    press: Girolamo Scotto press
+    year: 1540

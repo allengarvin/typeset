@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /carlo_farina
+biography:
+    name: Carlo Farina
+    last_name: Farina
+    nationality: Italian
+    born_year: 1604
+    born_circa: true
+    died_year: 1639
+    born_location:
+        region: Mantua
+        country: Italy
+    died_location:
+        region: Vienna
+        country: Austria

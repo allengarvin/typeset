@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /filippo_duc
+biography:
+    name: Filippo Duc
+    name_variants:
+        - Filippo de Duc
+        - Philippe de Duc
+        - Philippe le Duc
+    last_name: Duc
+    nationality: Flemish
+    born_year: 1550
+    born_circa: true
+    died_year: 1586
+    died_circa: true
+    died_date: 1596-05-06
+    born_location:
+        country: Flanders

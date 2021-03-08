@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: johann_walter/wittenbergisch_gsangbiichli
+source:
+    city: Wittenberg
+    date_exact: true
+    title: Geystliches gesangk Buchleyn
+    year: 1537

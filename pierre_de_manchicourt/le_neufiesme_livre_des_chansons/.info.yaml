@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: pierre_de_manchicourt/le_neufiesme_livre_des_chansons
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: Susato press
+    print: true
+    title: Le neufiesme livre des chansons
+    year: 1545

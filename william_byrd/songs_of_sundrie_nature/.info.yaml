@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: william_byrd/songs_of_sundrie_nature
+source:
+    city: London
+    date_exact: true
+    manuscript: false
+    press: Thomas East press
+    print: true
+    title: Songs of sundrie natures
+    year: 1589

@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /pierre_attaingnant
+biography:
+    name: Pierre Attaingnant
+    last_name: Attaingnant
+    nationality: French
+    born_year: 1494
+    born_circa: true
+    died_year: 1552
+    died_circa: true
+    born_location:
+        region: Douai
+        country: France
+    died_location:
+        region: Paris
+        country: France

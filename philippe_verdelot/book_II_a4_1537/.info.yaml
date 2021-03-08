@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1537__verdelot_philippe__il_secondo_libro_de_madrigali
+    typeset_directory: philippe_verdelot/book_II_a4_1537
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro de madrigali
+    full_title: L"'"ottavo libro de madrigali a cinque voci, novamente composto e dato in luce
+    press: Ottaviano Scotto press
+    year: 1536

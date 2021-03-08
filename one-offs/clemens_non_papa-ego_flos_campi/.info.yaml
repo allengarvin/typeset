@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/clemens_non_papa-ego_flos_campi
+source:
+    city: Leuven
+    date_exact: true
+    title: Liber Octavvus Cantionum Sacrarum
+    year: 1567

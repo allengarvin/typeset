@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: domenico_micheli/il_quinto_libro
+source:
+    city: Venice
+    date_exact: true
+    title: Il quinto libro de madrigali
+    press: Angelo Gardano press
+    year: 1581
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

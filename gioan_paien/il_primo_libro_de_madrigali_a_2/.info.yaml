@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1572__paien_giovanni__il_primo_libro_de_madrigali_a_2_voci__gardano
+    typeset_directory: gioan_paien/il_primo_libro_de_madrigali_a_2
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali à 2 voci
+    press: Antonio Gardano press
+    year: 1564
+contents:
+    type: madrigal
+    parts: 2
+    part_names: canto, tenore
+    language: italian

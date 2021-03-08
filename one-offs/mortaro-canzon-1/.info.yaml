@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/mortaro-canzon-1
+source:
+    date_exact: true
+    title: Libro primo de canzoni da sonare
+    year: 1673

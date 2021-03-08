@@ -1,0 +1,18 @@
+---
+local:
+    facsimile_directory: 1573__lasso_orlando_di__sex_cantiones_latinae_quatuor
+
+    typeset_directory: orlando_di_lasso/sex_cantiones
+source:
+    city: Munich
+    date_exact: true
+    title: Sex cantiones latinae quatuor
+    press: Adam Berg press
+    year: 1573
+contents:
+    type: madrigal|lied|motet|chanson
+    parts: 4
+    language: italian|german|latin|french
+catalog:
+    new_vogel: 1386
+    rism: L860

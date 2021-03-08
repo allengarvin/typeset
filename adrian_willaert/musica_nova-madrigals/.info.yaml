@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: adrian_willaert/musica_nova-madrigals
+source:
+    city: Ferrara
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Musica Nova
+    year: 1559

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1570__il_secondo_libro_delle_fiamme_madrigali
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: Il secondo libro delle fiamme madrigali a 5 & 6 voci
+    year: 1570

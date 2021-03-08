@@ -1,0 +1,12 @@
+---
+top:
+    type: composer
+    path: /nicolas_gombert
+biography:
+    name: Nicolas Gombert
+    last_name: Gombert
+    nationality: Flemish
+    born_year: 1495
+    born_circa: true
+    died_year: 1560
+    died_circa: true

@@ -1,0 +1,12 @@
+---
+local:
+    typeset_directory: agostino_soderini/canzoni
+source:
+    city: Milan
+    date_exact: true
+    title: Canzoni à 4 & 8 voci
+    press: Simon Tini press
+    year: 1608
+contents:
+    type: canzona
+    parts: 4

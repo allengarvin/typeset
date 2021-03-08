@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /john_adson
+biography:
+    name: John Adson
+    last_name: Adson
+    nationality: English
+    born_year: 1587
+    born_date: 1587-01-24
+    died_year: 1640
+    died_date: 1640-06-29
+    born_location:
+        region: Watford
+        country: England
+    died_location:
+        region: London
+        country: England

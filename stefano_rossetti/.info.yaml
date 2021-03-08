@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /stefano_rossetti
+biography:
+    name: Stefano Rossetto
+    name_variants:
+        - Stefano Rossetti
+    last_name: Rossetto
+    nationality: Italian
+    floushied: 1560-80

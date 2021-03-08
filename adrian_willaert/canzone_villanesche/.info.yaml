@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: adrian_willaert/canzone_villanesche
+source:
+    city: Venice
+    date_exact: true
+    title: Canzone Villanesche alla Napolitana
+    year: 1545

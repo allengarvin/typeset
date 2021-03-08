@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giovanni_bassano/motetti_madrigali_et_canzoni_francese_diminuiti
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenti press
+    print: true
+    title: Motetti, madrigali, et canzoni ... diminuiti per sonar
+    year: 1591

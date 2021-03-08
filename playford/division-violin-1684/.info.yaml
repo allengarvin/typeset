@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: playford/division-violin-1684
+source:
+    city: London
+    date_exact: true
+    title: The Division Violin
+    year: 1684

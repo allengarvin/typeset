@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /jacob_obrecht
+biography:
+    name: Jacob Obrecht
+    name_variants:
+        - Jacob Hobrecht
+    last_name: Obrecht
+    nationality: Flemish
+    born_year: 1457/8
+    died_year: 1505
+    died_date: 1505-10-01
+    born_location:
+        region: Ghent
+        country: Flanders
+    died_location:
+        region: Ferrara
+        country: Italy

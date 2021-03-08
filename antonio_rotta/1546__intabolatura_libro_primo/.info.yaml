@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: antonio_rotta/1546__intabolatura_libro_primo
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Intabolatura de lauto, libro primo
+    year: 1546

@@ -1,0 +1,13 @@
+---
+files:
+- 04-wert-a6-0-score.ly
+- 04-wert-a6-1-cantus.ly
+- 04-wert-a6-2-altus.ly
+- 04-wert-a6-3-tenor.ly
+- 04-wert-a6-4-bassus.ly
+- 04-wert-a6-5-quintus.ly
+- 04-wert-a6-6-sextus.ly
+primary:
+  composer: Giaches de Wert (1535-1596)
+  folio: Romans 11:33
+  title: O altitudo divitiarum

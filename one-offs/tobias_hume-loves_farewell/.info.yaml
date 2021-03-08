@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/tobias_hume-loves_farewell
+source:
+    city: London
+    date_exact: true
+    title: The First Part of Ayres or Musicall Humors
+    year: 1605

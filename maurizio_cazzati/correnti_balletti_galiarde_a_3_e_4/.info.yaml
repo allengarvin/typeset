@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1659__cazzati_maurizio__correnti_balletti_gliarde
+    typeset_directory: maurizio_cazzati/correnti_balletti_galiarde_a_3_e_4
+source:
+    city: Venice
+    date_exact: true
+    title: Correnti, balletti, galiarde à 3 e 4
+    press: Francesco Magni press
+    year: 1649

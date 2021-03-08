@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /giovanni_pasta
+biography:
+    name: Giovanni Pasta
+    last_name: Pasta
+    nationality: Italian
+    born_year: 1604
+    died_year: 1663/4
+    born_location:
+        region: Milan
+        country: Italy
+    died_location:
+        region: Milan
+        country: Italy

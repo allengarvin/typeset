@@ -1,0 +1,13 @@
+---
+top:
+    type: composer
+    path: /agostino_soderini
+biography:
+    name: Agostini Soderini
+    name_variants:
+        - Agostino Soderini
+    last_name: Soderini
+    nationality: Italian
+    flourished: 1598-1608
+urls:
+    - https://doi.org/10.1093/gmo/9781561592630.article.26086

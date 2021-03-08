@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /peter_philips
+biography:
+    name: Peter Philips
+    name_variants:
+        - Peter Phillipps
+        - Peter Phillips
+    last_name: Philips
+    nationality: English
+    born_year: 1560
+    born_circa: true
+    died_year: 1628
+    born_location:
+        region: London
+        country: England
+    died_location:
+        region: Brussels
+        country: Belgium

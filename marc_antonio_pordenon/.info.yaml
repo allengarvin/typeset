@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /marc_antonio_pordenon
+biography:
+    name: Marc'Antonio da Pordenon
+    name_variants:
+        - Marc'Antonio Forlano
+        - Marc'Antonio dal Violin
+        - Marc'Antonio dalla Viola
+    last_name: Pordenon
+    nationality: Italian
+    born_year: 1535
+    born_circa: true
+    died_year: 1586
+    born_location:
+        region: Pordenone
+        country: Italy
+    died_location:
+        region: Padua
+        country: Italy

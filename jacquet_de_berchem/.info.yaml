@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /jacquet_de_berchem
+biography:
+    name: Jacquet de Berchem
+    last_name: Berchem
+    nationality: Flemish
+    born_year: 1505
+    born_circa: true
+    died_year: 1567
+    died_date: 1567-03-02
+    born_location:
+        region: Berchem-lez-Anvers
+        country: Flanders
+    died_location:
+        region: Monopoli
+        country: Italy

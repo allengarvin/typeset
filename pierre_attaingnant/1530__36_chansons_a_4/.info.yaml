@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: pierre_attaingnant/1530__36_chansons_a_4
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Attaingnant press
+    print: true
+    title: '36 chansons musicales à 4 parties'
+    year: 1530

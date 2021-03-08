@@ -1,0 +1,20 @@
+---
+local:
+    facsimile_directory: complete/1589__vecchi_orazio__madrigali_a_cinque_voci
+
+    typeset_directory: orazio_vecchi/madrigali_a_5_libro_primo
+source:
+    city: Venice
+    date_exact: true
+    title: Madrigali à 5 voci, libro primo
+    full_title: Madrigali à cinque voci di Horatio Vecchi novamente stampati, libro primo
+    press: Angelo Gardano press
+    year: 1589
+catalog:
+    bologna: U.282
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 21

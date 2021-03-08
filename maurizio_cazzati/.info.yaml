@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /maurizio_cazzati
+biography:
+    name: Maurizio Cazzati
+    last_name: Cazzati
+    nationality: Italian
+    born_year: 1616
+    died_year: 1678
+    born_location:
+        region: Lucera
+        country: Italy
+    died_location:
+        region: Mantua
+        country: Italy

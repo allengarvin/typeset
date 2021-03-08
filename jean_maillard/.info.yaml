@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /jean_maillard
+biography:
+    name: Jean Maillard
+    name_variants:
+        - Jean Maillart
+    last_name: Maillard
+    nationality: French
+    flourished: 1538-70

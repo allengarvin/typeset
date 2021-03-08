@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1592__le_gloria_musicale
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Amardino press
+    print: true
+    title: 'La gloria musicale à 5 voci'
+    year: 1592

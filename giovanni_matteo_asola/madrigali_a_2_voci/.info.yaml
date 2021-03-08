@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giovanni_matteo_asola/madrigali_a_2_voci
+source:
+    city: Venice
+    date_exact: true
+    title: Madrigali a 2 voci da cantar in fuga
+    year: 1587

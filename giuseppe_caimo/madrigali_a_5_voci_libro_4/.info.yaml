@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giuseppe_caimo/madrigali_a_5_voci_libro_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenzi press
+    print: true
+    title: Madrigali a 5 voci, libro quarto
+    year: 1585

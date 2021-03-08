@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/cavalli__canzon_a_8
+source:
+    city: Venice
+    date_exact: true
+    title: Musiche Sacre Concernenti
+    year: 1656

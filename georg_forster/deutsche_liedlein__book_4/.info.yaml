@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1556__forster_georg__frische_teutsche_liedlein_teil_4
+    typeset_directory: georg_forster/deutsche_liedlein__book_4
+source:
+    city: Nuremberg
+    date_exact: true
+    title: Fische teutsche lieder, vierter teil
+    press: Georg Forster press
+    year: 1556

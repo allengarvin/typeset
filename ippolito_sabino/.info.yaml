@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /ippolito_sabino
+biography:
+    name: Ippolito Sabino
+    name_variants:
+        - Ippolito Sabini
+    last_name: Sabino
+    nationality: Italian
+    born_year: 1550
+    born_circa: true
+    died_year: 1593
+    died_date: 1593-08-25
+    born_location:
+        region: Lanciano
+        country: Italy
+    died_location:
+        region: Lanciano
+        country: Italy

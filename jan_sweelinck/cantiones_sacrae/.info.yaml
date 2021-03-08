@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1619__sweelinck_jan_pieterszoon__cantiones_sacrae
+    typeset_directory: jan_sweelinck/cantiones_sacrae
+source:
+    city: Antwerp
+    date_exact: true
+    title: Cantiones Sacræ
+    full_title: Cantiones sacræ cum Basso Continuo ad Organum
+    press: Peter Phalèse press
+    year: 1619

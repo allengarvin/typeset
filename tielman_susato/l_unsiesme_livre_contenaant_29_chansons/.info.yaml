@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: tielman_susato/l_unsiesme_livre_contenaant_29_chansons
+source:
+    city: Antwerp
+    date_exact: true
+    title: L'Unziesme Livre [de] Chansons Amoureuses
+    year: 1549

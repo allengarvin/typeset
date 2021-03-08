@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: pierre_attaingnant/1536__35_chansons_en_tablature_des_orgues
+source:
+    city: Paris
+    date_exact: true
+    manuscript: false
+    press: Attaingnant press
+    print: true
+    title: 35 chansons ... en la tabulature des orgues
+    year: 1530

@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /claudio_merulo
+biography:
+    name: Claudio Merulo
+    name_variants:
+        - Claudio da Correggio
+        - Claudio Merlotti
+        - Claudio Merulus
+    last_name: Merulo
+    nationality: Italian
+    born_year: 1533
+    born_date: 1533-04-08
+    died_year: 1604
+    died_date: 1604-05-04
+    born_location:
+        region: Correggio
+        country: Italy
+    died_location:
+        region: Parma
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.40699

@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /giovanni_de_nola
+biography:
+    name: Giovanni Domenico da Nola
+    name_variants:
+        - Giovanni Domenico da Nolla
+    last_name: Nola
+    nationality: Italian
+    born_range: 1510-1520
+    died_year: 1592
+    born_location:
+        region: Nola
+        country: Italy
+    died_location:
+        region: Naples
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.20028

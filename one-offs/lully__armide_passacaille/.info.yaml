@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/lully__armide_passacaille
+source:
+    city: Paris
+    date_exact: true
+    title: Armide
+    year: 1686

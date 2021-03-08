@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: alessandro_striggio/il_primo_libro_a_6
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Il primo libro de madrigali a sei voci
+    year: 1565

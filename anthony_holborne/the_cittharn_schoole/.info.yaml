@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: anthony_holborne/the_cittharn_schoole
+source:
+    city: London
+    date_exact: true
+    manuscript: false
+    press: Short press
+    print: true
+    title: The Cittharn Scholle
+    year: 1597

@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: 
+source:
+    city: Nuremberg
+    date_exact: true
+    title: Fünffzig geistliche Lieder und Psalmen
+    full_title: Fünffzig geistliche Lieder und Psalmen mit vier Stimmen auff contrapunctsweise (für die Schulen und Kirchen in löblichen Fürstenthumb Würtenberg)
+    press: Unknown
+    year: 1586
+contents:
+    type: kirchenlied
+    parts: 4
+    part_names: cantus altus tenor bassus
+    language: german

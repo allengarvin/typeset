@@ -1,0 +1,23 @@
+---
+top:
+    type: composer
+    path: /claudio_monteverdi
+biography:
+    name: Claudio Monteverdi
+    name_variants:
+        - Claudio Monteverde
+        - Claudio Giovanni Zuan Antonio Monteverdi
+    last_name: Monteverdi
+    nationality: Italian
+    born_year: 1567
+    born_date: 1567-05-15
+    died_year: 1643
+    died_date: 1643-11-29
+    born_location:
+        region: Cremona
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.44352

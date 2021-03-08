@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/se_pur_ti_guardo
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro di canzon villanesche alla Napolitana
+    year: 1551

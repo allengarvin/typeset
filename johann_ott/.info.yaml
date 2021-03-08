@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /johann_ott
+biography:
+    name: Hans Ott
+    name_variants:
+        - Johann Ott
+        - Hans Ottler
+        - Hans Otto
+        - Hans Ottel
+    last_name: Ott
+    nationality: German
+    died_year: 1546
+    died_location:
+        region: Nuremberg
+        country: Germany

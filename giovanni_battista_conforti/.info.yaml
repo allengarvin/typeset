@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /giovanni_battista_conforti
+biography:
+    name: Giovanni Battista Conforti
+    last_name: Conforti
+    nationality: Italian
+    flourished: 1550-1570
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.06276

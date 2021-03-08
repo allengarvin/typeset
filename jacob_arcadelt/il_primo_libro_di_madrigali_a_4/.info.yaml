@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: jacob_arcadelt/il_primo_libro_di_madrigali_a_4
+source:
+    city: Venice
+    date_exact: true
+    title: 'Il primo libro di madrigali d''Arcadelt à 4 voci'
+    year: 1539

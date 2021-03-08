@@ -1,0 +1,20 @@
+---
+local:
+    facsimile_directory: complete/1593__ruggiero_giovannelli__il_secondo_libro_de_madrigali_a_5_voci 
+    typeset_directory: typeset.new/ruggiero_giovannelli
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro di madrigali à 5 voci
+    full_title: Di Ruggiero Giovannelli il secondo libro de madrigali à cinque voci
+    press: Angelo Gardano press
+    year: 1593
+    reprints: 1607
+catalog:
+    bologna: S.237
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 21

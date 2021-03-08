@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: 'di_diversi/1545__secundus_tomus_biciniorum_quæ_et_ipsa_sunt_gallica_latina_germanica'
+source:
+    city: Wittenberg
+    date_exact: true
+    manuscript: false
+    press: Rhau press
+    print: true
+    title: Secundus tomus bicinia
+    year: 1545

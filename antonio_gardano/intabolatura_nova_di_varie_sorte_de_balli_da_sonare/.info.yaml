@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: antonio_gardano/intabolatura_nova_di_varie_sorte_de_balli_da_sonare
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Intabolatura nova di varie sorte de balli da sonare
+    year: 1551

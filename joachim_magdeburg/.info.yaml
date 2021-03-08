@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /joachim_magdeburg
+biography:
+    name: Joachim Magdeburg
+    name_variants:
+        -
+        -
+        -
+    last_name: Maghdeburg
+    nationality: German
+    born_year: 1525
+    born_circa: true
+    died_year: 1587
+    born_location:
+        region: Gardelegen, Altmark
+        country: Germany

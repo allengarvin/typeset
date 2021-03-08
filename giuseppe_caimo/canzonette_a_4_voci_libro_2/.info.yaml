@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: giuseppe_caimo/canzonette_a_4_voci_libro_2
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenzi press
+    print: true
+    title: 'Il secondo libro di canzonette à 4 voci'
+    year: 1584

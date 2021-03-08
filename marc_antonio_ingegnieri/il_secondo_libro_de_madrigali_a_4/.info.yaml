@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: marc_antonio_ingegnieri/il_secondo_libro_de_madrigali_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il secondo libro di madregali a 4 voci
+    year: 1579
+contents:
+    type: madrigal|canzonas
+    parts: 4
+    language: italian

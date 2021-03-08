@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: alessandro_raverii/canzoni_per_sonare
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Raverii press
+    print: true
+    title: Canzoni per Sonare
+    year: 1608

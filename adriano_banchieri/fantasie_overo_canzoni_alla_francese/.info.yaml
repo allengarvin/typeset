@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: adriano_banchieri/fantasie_overo_canzoni_alla_francese
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Amadino press
+    print: true
+    title: Fantasie overo canzoni alla Francese a 4 voci
+    year: 1603

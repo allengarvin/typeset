@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: robert_dow/other_pieces
+source:
+    date_exact: true
+    title: Dow Partbooks
+    year: 1592

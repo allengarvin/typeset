@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /anthony_holborne
+biography:
+    name: Anthony Holborne
+    last_name: Holborne
+    nationality: English
+    born_year: 1545
+    born_circa: true
+    died_year: 1602
+    died_date: 1602-12-01
+    born_location:
+        country: England
+    died_location:
+        country: England
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.13196

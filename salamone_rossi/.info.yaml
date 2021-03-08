@@ -1,0 +1,22 @@
+---
+top:
+    type: composer
+    path: /salamone_rossi
+biography:
+    name: Salamone Rossi
+    name_variants: 
+        - Salomone Rossi
+        - Salamon de' Rossi
+        - Shlomo Rossi
+    last_name: Rossi
+    nationality: Italian
+    born_year: 1570
+    born_date: 1570-08-19
+    died_year: 1630
+    died_circa: true
+    born_location:
+        region: Mantua?
+        country: Italy
+    died_location:
+        region: Mantua?
+        country: Italy

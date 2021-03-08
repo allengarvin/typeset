@@ -1,0 +1,20 @@
+---
+top:
+    type: poet
+    path: /ludovico_ariosto
+biography:
+    name: Ludovico Ariosto
+    last_name: Ariosto
+    nationality: Italian
+    born_year: 1474
+    born_date: 1474-09-08
+    died_year: 1533
+    died_date: 1533-07-06
+    born_location:
+        region: Modena
+        country: Italy
+    died_location:
+        region: Ferrara
+        country: Italy
+    urls:
+        - https://en.wikipedia.org/wiki/Ludovico_Ariosto

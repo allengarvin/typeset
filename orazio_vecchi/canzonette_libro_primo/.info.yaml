@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: orazio_vecchi/canzonette_libro_primo
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Canzonette, libro primo à 4 voci'
+    year: 1585

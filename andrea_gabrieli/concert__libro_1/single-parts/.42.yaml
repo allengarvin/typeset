@@ -1,0 +1,27 @@
+---
+files:
+- 42-gabrieli-a16-0.1-score.ly
+- 42-gabrieli-a16-0.2-score.ly
+- 42-gabrieli-a16-0.3-score.ly
+- 42-gabrieli-a16-0.4-score.ly
+- 42-gabrieli-a16-00-score.ly
+- 42-gabrieli-a16-01-cantus.ly
+- 42-gabrieli-a16-02-altus.ly
+- 42-gabrieli-a16-03-tenor.ly
+- 42-gabrieli-a16-04-bassus.ly
+- 42-gabrieli-a16-05-quintus.ly
+- 42-gabrieli-a16-06-sextus.ly
+- 42-gabrieli-a16-07-septima.ly
+- 42-gabrieli-a16-08-octava.ly
+- 42-gabrieli-a16-09-nona.ly
+- 42-gabrieli-a16-10-decima.ly
+- 42-gabrieli-a16-11-undecima.ly
+- 42-gabrieli-a16-12-duodecima.ly
+- 42-gabrieli-a16-13-nonaTwo.ly
+- 42-gabrieli-a16-14-decimaTwo.ly
+- 42-gabrieli-a16-15-undecimaTwo.ly
+- 42-gabrieli-a16-16-duodecimaTwo.ly
+primary:
+  composer: Andrea Gabrieli (c.1532-1585)
+  folio: Choir I
+  title: Gloria in excelsis Deo

@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: baldassara_donato/il_primo_libro_di_canzon_villanesche_alla_napolitana_a_4_voci
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro di canzon villanesche alla Napolitana
+    year: 1551

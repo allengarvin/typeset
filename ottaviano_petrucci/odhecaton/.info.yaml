@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: ottaviano_petrucci/odhecaton
+source:
+    city: Venice
+    date_exact: true
+    title: Odhecaton
+    year: 1501

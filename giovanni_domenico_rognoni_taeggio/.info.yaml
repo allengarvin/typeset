@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /giovanni_domenico_rognoni_taeggio
+biography:
+    name: Giovanni Domenico Rognoni Taeggio
+    name_variants:
+        - Taegio
+    last_name: Rognoni
+    nationality: Italian
+    born_unknown: true
+    died_year: 1624
+    died_circa: true
+    born_location:
+        region: Milan?
+        country: Italy
+    died_location:
+        region: Milan?
+        country: Italy
+urls:
+    - https://doi.org/10.1093/gmo/9781561592630.article.23686

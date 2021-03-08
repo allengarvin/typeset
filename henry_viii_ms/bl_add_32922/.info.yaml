@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: henry_viii_ms/bl_add_32922
+source:
+    date_exact: true
+    title: Henry VIII songbook
+    year: 1536

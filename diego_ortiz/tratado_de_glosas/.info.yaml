@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: diega_ortiz/tratado_de_glosas
+source:
+    city: Rome
+    date_exact: true
+    title: Il trattado de glosas
+    year: 1553

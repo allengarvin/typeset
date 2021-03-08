@@ -1,0 +1,27 @@
+---
+top:
+    type: composer
+    path: /alessandro_romano
+biography:
+    name: Alessandro Romano
+    name_variants:
+        - Alessandro da Roma
+        - Alexander Romanus
+        - Alexander de Urbe
+        - Don Giulio Cesare
+        - Julius Caesar Romanus
+    last_name: Romano
+    nationality: Italian
+    born_year: 1533
+    born_circa: true
+    died_year: 1592
+    born_location:
+        region: Rome
+        country: Italy
+    died_location:
+        region: Formia
+        country: Italy
+    urls:
+        - http://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000045360?rskey=iOjP8j&result=1
+        - http://www.bibliotecamusica.it/cmbm/scripts/gaspari/libri.asp?ms=%27E%27&ms=%27M%27&ID=4070
+        - https://www.cpdl.org/wiki/index.php/Alessandro_Romano

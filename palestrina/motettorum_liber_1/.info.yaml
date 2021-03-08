@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1579__palestrina__liber_primus_motectorum
+    typeset_directory: palestrina/motettorum_liber_1
+source:
+    city: Rome
+    date_exact: true
+    title: Liber primus motettorum
+    full_title: Liber primus motettorum quae partim quinis, partim senis, partim septenis vocibus concinantur
+    press: Valerio e Dorico press
+    year: 1569
+    reprints: 1579 (Gardano)
+contents:
+    type: motet
+    parts: 5|6|7
+    part_names: cantus, altus, tenor, bassus, quintus, sextus
+    language: latin

@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1567__rosso_giovanni_et_merulo_claudio__motetti
+    typeset_directory: giovanni_maria_rosso/mottetti_a_5_libro_1
+source:
+    city: Venice
+    date_exact: true
+    title: Mottetti a cinque voci
+    full_title: Mottetti di Gio Maria Rosso maestro di capella del duomo di manotva a cinque voci
+    press: Claudio Merulo press
+    year: 1567

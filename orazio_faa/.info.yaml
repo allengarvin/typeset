@@ -1,0 +1,12 @@
+---
+top:
+    type: composer
+    path: /orazio_faa
+biography:
+    name: Giovanni Matteo Faà di Bruno
+    name_variants:
+        - Orazio Faa
+        - Horatio Faa
+    last_name: Faà 
+    nationality: Italian
+    flourished: 1570

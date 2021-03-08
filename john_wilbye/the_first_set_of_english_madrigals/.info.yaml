@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: john_wilbye/the_first_set_of_english_madrigals
+source:
+    date_circa: true
+    title: The First set of English Madrigals
+    year: 1604

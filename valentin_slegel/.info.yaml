@@ -1,0 +1,10 @@
+---
+top:
+    type: composer
+    path: /valentin_slegel
+biography:
+    name: Valentin Slegel
+    name_variants:
+        - Valentinium Slegelium
+    last_name: Slegel
+    flourished: 1578

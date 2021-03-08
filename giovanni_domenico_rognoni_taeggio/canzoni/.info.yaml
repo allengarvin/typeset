@@ -1,0 +1,120 @@
+---
+local:
+    facsimile_directory: complete/1605__rognoni_giovanni_dominico__canzoni_a_4_e_8_voci
+    typeset_directory: giovanni_domenico_rognoni_taeggio/canzoni
+source:
+    city: Milan
+    date_exact: true
+    title: Canzoni à 4 et 8 voci
+    press: Simon Tini press
+    year: 1605
+contents:
+    type: canzona
+    parts: 4|8
+    1:
+        title:  La Lombarda
+        parts: 4
+        flats: 1
+    2:
+        title:  La Gallia
+        parts: 4
+        flats: 1
+    3:
+        title:  L'Albertina
+        parts: 4
+        flats: 1
+    4:
+        title:  L'Arluna
+        parts: 4
+        flats: 1
+    5:
+        title:  L'Homodea
+        parts: 4
+        flats: 1
+    6:
+        title:  La Capitania Lombarda
+        parts: 4
+        flats: 1
+    7:
+        title:  La Biffa
+        parts: 4
+        flats: 0
+    8:
+        title:  La Galarna
+        parts: 4
+        flats: 0
+    9:
+        title:  La Niguarda
+        parts: 4
+        flats: 0
+    10:
+        title: La Cingarda
+        parts: 4
+        flats: 0
+    11:
+        title: La Riva
+        parts: 4
+        flats: 1
+    12:
+        title: La Mazza
+        parts: 4
+        flats: 1
+    13:
+        title: La Rigamonta
+        parts: 4
+        flats: 1
+    14:
+        title: La Biuma
+        parts: 4
+        flats: 1
+    15:
+        title: La Sfondrata
+        composer: Gaspar Costa (fl.1605)
+        parts: 4
+        flats: 0
+    16:
+        title: L'Aureliana
+        parts: 4
+        flats: 0
+    17:
+        title: La Basgapera
+        parts: 4
+        flats: 0
+    18:
+        title: La porta
+        parts: 8
+        flats: 0
+    19:
+        title: Tota pulchra es
+        parts: 8
+        flats: 0
+    20:
+        title: Cantate Domino
+        parts: 8
+        flats: 1
+    21:
+        title: Quemadmodum desiderat
+        parts: 8
+        flats: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

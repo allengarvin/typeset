@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: asciano_mayone/secondo_libro
+source:
+    city: Naples
+    date_exact: true
+    manuscript: false
+    press: Gargano and Nucci press
+    print: true
+    title: Secondo libro di diversi capricci per sonare
+    year: 1609

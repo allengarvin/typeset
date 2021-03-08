@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /ghinolfo_dattari
+biography:
+    name: Ghinolfo Dattari
+    name_variants:
+        - Ghinolfo Dal Dattaro
+    last_name: Dattari
+    nationality: Italian
+    born_year: 1535
+    born_circa: true
+    died_year: 1617
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Bologna
+        country: Italy
+urls:
+    - https://doi.org/10.1093/gmo/9781561592630.article.07241

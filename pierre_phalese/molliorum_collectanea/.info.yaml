@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: pierre_phalese/molliorum_collectanea
+source:
+    city: Antwerp
+    date_exact: true
+    title: Chorearum molliorum collectanea
+    year: 1583

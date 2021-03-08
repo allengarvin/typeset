@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: john_dowland/lachrimae
+source:
+    city: London
+    date_circa: true
+    title: 'Lachrimæ, or seaven teares'
+    year: 1604

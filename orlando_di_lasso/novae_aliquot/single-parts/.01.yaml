@@ -1,0 +1,11 @@
+---
+files:
+- 01-lassus-a2-0-score.ly
+- 01-lassus-a2-1-cantus-transposed.ly
+- 01-lassus-a2-1-cantus.ly
+- 01-lassus-a2-2-tenor-transposed.ly
+- 01-lassus-a2-2-tenor.ly
+primary:
+  composer: Orlande de Lassus (c.1532-1594)
+  folio: Ecclesiasticus 14:22
+  title: Beatus vir qui in sapien morabitur

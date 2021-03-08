@@ -1,0 +1,11 @@
+---
+files:
+- 79-picforth-a5-0-score.ly
+- 79-picforth-a5-1-cantus.ly
+- 79-picforth-a5-2-altus.ly
+- 79-picforth-a5-3-tenor.ly
+- 79-picforth-a5-4-bassus.ly
+- 79-picforth-a5-5-quintus.ly
+primary:
+  composer: Picforth
+  title: 'In Nomine à 5'

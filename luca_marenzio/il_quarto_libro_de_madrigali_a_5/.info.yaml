@@ -1,0 +1,19 @@
+---
+local:
+    facsimile_directory: complete/1584__marenzio_luca__il_quarto_libro_de_madrigali_a_5_voci
+    typeset_directory: luca_marenzio/il_quarto_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il quarto libro de madrigali à cinque voci
+    full_title: Il quarto libro de madrigali à cinque voci novamente composti e dati in luce
+    press: Vincenzi ed Amadino press
+    year: 1584
+    reprints: 1594
+catalog:
+    bologna: T.16
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

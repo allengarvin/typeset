@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: michael_praetorius/musae_sioniae_1
+source:
+    city: Regensburg
+    date_exact: true
+    title: 'Musæ Sioniæ erster theil'
+    year: 1605

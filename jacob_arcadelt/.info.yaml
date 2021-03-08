@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /jacob_arcadelt
+biography:
+    name: Jacques Arcadelt
+    name_variants:
+        - Jacques Archadelt
+        - Jacques Arcadet
+        - Jacob Arcadelt
+        - Jacobus Arcadelt
+    last_name: Arcadelt
+    nationality: Flemish
+    born_year: 1507
+    died_year: 1568
+    died_date: 1568-10-14
+    born_location:
+        country: France or Flanders
+    died_location:
+        region: Lorraine
+        country: France

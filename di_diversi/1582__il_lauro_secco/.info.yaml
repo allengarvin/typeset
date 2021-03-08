@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: di_diversi/1582__il_lauro_secco
+source:
+    city: Ferrara
+    date_exact: true
+    manuscript: false
+    press: Baldini press
+    print: true
+    title: 'Il Lauro Secco à 5 voci'
+    year: 1582

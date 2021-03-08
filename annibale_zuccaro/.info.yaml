@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /annibale_zuccaro
+biography:
+    name: Annibale Zuccaro
+    last_name: Zuccaro
+    nationality: Italian
+    flourished: 1603-1609
+    urls:
+         - https://imslp.org/wiki/Category:Zuccaro,_Annibale

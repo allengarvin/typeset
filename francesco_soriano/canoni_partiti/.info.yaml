@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: francesco_soriano/canoni_partiti
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Robletti press press
+    print: true
+    title: Canoni et oblighi di cento sopra L'Ave Maris Stella
+    year: 1610

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: cipriano_de_rore/sacrae_cantiones
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: Sacrae Cantiones quae dicuntur motecta
+    year: 1595

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: one-offs/arcadelt-o_sacrum_convivium
+source:
+    city: Ferrara
+    date_exact: true
+    manuscript: false
+    press: Buglhat press
+    print: true
+    title: Moteti de la Simia
+    year: 1539

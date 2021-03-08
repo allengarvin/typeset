@@ -1,0 +1,16 @@
+---
+files:
+- 01-cavalli-a8-0-score.ly
+- 01-cavalli-a8-0.1-score.ly
+- 01-cavalli-a8-0.2-score.ly
+- 01-cavalli-a8-1-chr_II_canto.ly
+- 01-cavalli-a8-1-chr_I_canto.ly
+- 01-cavalli-a8-2-chr_II_alto.ly
+- 01-cavalli-a8-2-chr_I_alto.ly
+- 01-cavalli-a8-3-chr_II_tenore.ly
+- 01-cavalli-a8-3-chr_I_tenore.ly
+- 01-cavalli-a8-4-chr_II_basso.ly
+- 01-cavalli-a8-4-chr_I_basso.ly
+primary:
+  composer: Francesco Cavalli (1602-1676)
+  title: 'Canzon à 8'

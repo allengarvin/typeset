@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1542__arcadelt_jacob__il_primo_libro_di_madrigali_a_3_voci
+    typeset_directory: jacob_arcadelt/il_primo_libro_di_madrigali_a_3
+source:
+    city: Venice
+    date_exact: true
+    title: Primo libro di madrigali à 3
+    full_title: Primo libro di madrigali d'Archadelt a tre voci
+    press: Antonio Gardano press
+    year: 1542
+    reprints: 1559

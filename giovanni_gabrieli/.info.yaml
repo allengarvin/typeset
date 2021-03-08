@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /giovanni_gabrieli
+biography:
+    name: Giovanni Gabrieli
+    last_name: Gabrieli
+    nationality: Italian
+    born_year: 1554
+    born_circa: true
+    died_year: 1612
+    born_location:
+        region: Venice
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy

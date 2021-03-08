@@ -1,0 +1,17 @@
+top:
+    type: composer
+    path: /william_byrd
+biography:
+    name: William Byrd
+    nationality: English
+    born_year: 1540
+    born_circa: true
+    died_year: 1623
+    died_date: 1623-07-04
+    born_location:
+        region: London
+        country: England
+    died_location:
+        region: Essex
+        country: England
+    
