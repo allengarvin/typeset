@@ -1,0 +1,15 @@
+\version "2.14.2"
+\include "english.ly"
+
+\include "../include/paper-parts.ly"
+\include "../include/global-parts.ly"
+\include "../include/macros.ly"
+\include "../include/scheme.ly"
+
+\include "../parts/001-ave_regina_celorum.ly"
+\include "../parts/002-fors_seulement.ly"
+\include "../parts/003-fors_seulement.ly"
+\include "../parts/004-tant_que_nostre_argent_durra.ly"
+\include "../parts/005-lamor_de_moy.ly"
+\include "../parts/006-unne_playsante_fillete.ly"
+\include "../parts/007-et_raira_plus_la_lune.ly"

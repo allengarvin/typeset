@@ -1,0 +1,69 @@
+\version "2.16.0"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+
+\header {
+    % Things that change per piece:
+    title = "Blow, Shepherds, blow"
+
+    % Things that change per part:
+    partname = "Altus (part 2 of 3)"
+    instrument = "Blow, Shepherds, blow (altus)"
+
+    % Unchanging:
+    originallyset = "2013-04-29"
+    lastupdated = "2013-04-29"
+    shorttitle = "blow_shepherds_blow"
+    \include "include/distribution-header.ly"
+    tagline = #'f
+}
+
+\include "../parts/08-morley-a3-canzonetta.ly"
+    
+\book {
+    \bookOutputName "08-morley--blow_shepherds_blow"
+    \bookOutputSuffix "--2-altus--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef treble
+            \global 
+            \altusVIII 
+        >>
+        \addlyrics { \altusLyricsModernVIII }
+    }
+}
+
+\book {
+    \bookOutputName "08-morley--blow_shepherds_blow"
+    \bookOutputSuffix "--2-altus--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef alto
+            \global 
+            \altusVIII 
+        >>
+        \addlyrics { \altusLyricsModernVIII }
+    }
+}
+    
+\book {
+    \bookOutputName "08-morley--blow_shepherds_blow"
+    \bookOutputSuffix "--2-altus--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \altusVIII 
+        >>
+        \addlyrics { \altusLyricsModernVIII }
+    }
+}
+

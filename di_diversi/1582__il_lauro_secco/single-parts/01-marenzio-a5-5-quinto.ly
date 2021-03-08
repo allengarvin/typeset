@@ -1,0 +1,46 @@
+\version "2.16.0"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+#(set-global-staff-size 19.2)
+
+\header {
+    % Things that change per piece:
+    title = "Mentre l'aura spirò"
+    composer = "Luca Marenzio (c.1553-1599)"
+    folio = "Anonymous poet"
+
+    % Things that change per part:
+    partname = "Quinto (part 3 of 5)"
+    instrument = "Mentre l'aura spirò (quinto)"
+
+    % Unchanging:
+    originallyset = "2013-10-09"
+    lastupdated = "2013-10-09"
+    shorttitle = "mentre_laura_spiro"
+    \include "include/distribution-header.ly"
+    tagline = #'f
+}
+
+\include "../parts/01-marenzio-a5-madrigal.ly"
+    
+\book {
+    \bookOutputName "01-marenzio--mentre_laura_spiro"
+    \bookOutputSuffix "--3-quinto--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \quintoI
+        >>
+        \addlyrics { \quintoLyricsI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+

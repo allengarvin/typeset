@@ -1,0 +1,63 @@
+\version "2.16.0"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts.ly"
+
+\header {
+    % Things that change per piece:
+    title = "Le vecchie per invidia sono pazze"
+
+    % Things that change per part:
+    partname = "Cantus (part 1 of 4)"
+    instrument = "Le vecchie per invidia sono pazze (cantus)"
+
+    % Unchanging:
+    composer = "Francesco Corteccia (1502-1571)"
+    originallyset = "2012/Dec/23"
+    lastupdated = "2012/Dec/23"
+    shorttitle = "le_vecchie_per_invidia"
+    \include "include/distribution-header.ly"
+    tagline = #'f
+}
+
+\include "../parts/16-corteccia-a4-villanella.ly"
+    
+\book {
+    \bookOutputName "16-corteccia--le_vecchie_per_invidia"
+    \bookOutputSuffix "--1-cantus--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef treble
+            \global 
+            \cantusXVI 
+        >>
+        \addlyrics { \cantusLyricsXVI }
+        \header {
+            partname = "Cantus"
+        }
+     %   \include "../include/vocal-layout-parts.ly"
+    }
+}
+    
+\book {
+    \bookOutputName "16-corteccia--le_vecchie_per_invidia"
+    \bookOutputSuffix "--1-cantus--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef alto
+            \global 
+            \cantusXVI 
+        >>
+        \addlyrics { \cantusLyricsXVI }
+        \header {
+            partname = "Cantus"
+        }
+     %   \include "../include/vocal-layout-parts.ly"
+    }
+}

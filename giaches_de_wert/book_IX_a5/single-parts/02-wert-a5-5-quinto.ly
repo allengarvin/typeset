@@ -1,0 +1,60 @@
+\version "2.16.0"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+#(set-global-staff-size 19.2)
+
+\header {
+    % Things that change per piece:
+    title = "Ecco che un'altra volta, o piagge apriche"
+    subtitle = "Prima parte"
+    folio = \markup { Jacopo Sannazaro, \italic{Rime,} Sonetto XXIX Quinto XII ottava 96 }
+
+    % Things that change per part:
+    partname = "Quinto (part 3 of 5)"
+    instrument = "Ecco che un'altra volta (quinto)"
+
+    % Unchanging:
+    originallyset = "2013-10-03"
+    lastupdated = "2013-10-03"
+    shorttitle = "ecco_che_un_altra_volta"
+    \include "include/distribution-header.ly"
+    tagline = #'f
+}
+
+\include "../parts/02-wert-a5-madrigal.ly"
+    
+\book {
+    \bookOutputName "02-wert--ecco_che_un_altra_volta"
+    \bookOutputSuffix "--3-quinto--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \quintoII
+        >>
+        \addlyrics { \quintoLyricsII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "02-wert--ecco_che_un_altra_volta"
+    \bookOutputSuffix "--3-quinto--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef alto
+            \global 
+            \quintoII
+        >>
+        \addlyrics { \quintoLyricsII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

@@ -1,0 +1,46 @@
+\version "2.18.2"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts.ly"
+
+#(set-global-staff-size 19.2)
+
+\header {
+    % Things that change per piece:
+    title = "Nun bitten wir den Heiligen Geist"
+
+    % Things that change per part:
+    partname = "Bassus (part 5 of 5)"
+    instrument = "Nun bitten wir den Heiligen Geist (bassus)"
+
+    % Unchanging:
+    originallyset = "2013-06-02"
+    lastupdated = "2013-06-02"
+    shorttitle = "nun_bitten_wir"
+    \include "include/distribution-header.ly"
+    tagline = #'f
+}
+
+\include "../parts/23-walther-a5-lied.ly"
+
+\book {
+    \bookOutputName "23-walther--nun_bitten_wir"
+    \bookOutputSuffix "--4-bassus--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef bass
+            \global 
+            \bassusXXIII 
+        >>
+        \addlyrics { \bassusLyricsXXIII }
+        \header {
+            partname = "Bassus"
+        }
+     %   \include "../include/vocal-layout-parts.ly"
+    }
+}

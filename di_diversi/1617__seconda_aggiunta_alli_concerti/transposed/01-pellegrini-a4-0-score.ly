@@ -1,0 +1,72 @@
+\version "2.18.2"
+\include "english.ly"
+
+\include "../include/paper-1-score.ly" 
+\include "../include/global-score.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+
+#(set-global-staff-size 16.0)
+
+\header {
+    % Things that change per piece:
+    title = "Canzona detta la Pelegrina"
+    subtitle = \markup { \italic { Tranposed down a 4th } } 
+    instrument = "Canzona detta la Pelegrina (score)"
+    composer = "Vincenzo Pellegrini (c.1562-1630)"
+
+    % Unchanging:
+    \include "include/distribution-header.ly"
+    lastupdated = "2017-08-07"
+    tagline = #'f
+}
+
+\include "../parts/01-pellegrini-a4-canzona.ly"
+
+\book {
+    \bookOutputName "01-canzona_detta_la_pelegrina-transposed_4th"
+    \bookOutputSuffix "--0-score"
+    \score {
+         <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper #'staff-staff-spacing #'padding = #3
+            } <<
+                \new Voice <<
+                    \set Staff.instrumentName = #"Canto"
+                    \incipit \cantoIincipitVoice
+                    \clef "treble"
+                    \global\transpose f c
+                    \cantoI
+                >>
+                \new Voice <<
+                    \set Staff.instrumentName = #"Alto"
+                    \incipit \altoIincipitVoice
+                    \clef "treble"
+                    \global\transpose f c
+                    \altoI
+                >>
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenore"
+                    \incipit \tenoreIincipitVoice
+                    \clef "treble"
+                    \global\transpose f c
+                    \tenoreI
+                >>
+                \new Voice <<
+                    \set Staff.instrumentName = #"Basso"
+                    \incipit \bassoIincipitVoice
+                    \clef "bass"
+                    \global\transpose f c
+                    \bassoI
+                >>
+             >>
+         >>
+        \include "../include/vocal-layout-score-barring.ly"
+        \midi {
+            \context {
+                \Score
+                tempoWholesPerMinute = #(ly:make-moment 68 2)
+            }
+        }
+    }   
+}

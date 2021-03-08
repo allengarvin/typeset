@@ -1,0 +1,356 @@
+% I vo piangendo 
+% Gabrieli
+% Petrarch 365
+
+% I' vo piangendo i miei passati tempi
+% i quai posi in amar cosa mortale,
+% senza levarmi a volo, abbiend'io l'ale,
+% per dar forse di me non bassi esempi.
+% 
+% Tu che vedi i miei mali indegni et empi,
+% Re del cielo invisibile immortale,
+% soccorri a l'alma disviata e frale,
+% e 'l suo defecto di tua gratia adempi:
+% 
+% sí che, s'io vissi in guerra et in tempesta,
+% mora in pace et in porto; et se la stanza
+% fu vana, almen sia la partita honesta.
+% 
+% A quel poco di viver che m'avanza
+% et al morir, degni esser Tua man presta:
+% Tu sai ben che 'n altrui non ò speranza
+
+cantoIVincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c2"
+    \key f \major
+
+    d1
+}
+
+% canto: checked against source (double-checked against IMSLP manuscript)
+cantoIV = \relative c' {
+    \fourTwoCutTime
+    \key f \major
+
+    r1 d | f1. f2 | f1 d ~ | d r | R\breve | r2 a' c c | c c g2.( a4 | bf1) a |
+        r1 a | a2 f g a | bf1 a | a2 a 
+
+    g1 | g r | d2 d4 e f g a2 ~ | a e r1 | r2 f f4 g a bf | c2 g a a | a1 g |
+        r2 d e f ~ | f4 f e2 f1 | R\breve | c1 c2 
+
+    f2 ~ | f4 f d2 f1 ~ | f2 d1 bf2 ~ | bf d d1 | b r | g'1. f2 | f1 e2 e |
+        d1 c2 f ~ | f e d1 ~ | d2\melisma c4 bf c1\melismaEnd |
+        d\breve | r1 g ~ | g g | d'\breve | b1 c2 c ~ | c c c1 | c\breve |
+
+    a\breve | a\breve ~ | a1 r | R\breve*3 | R\breve | r2 a1 g2 ~ | g fs g1 | 
+        fs2 g1 g2 | g g g1 ~ | g fs | R\breve*2 | r2 g g a | bf1 g | 
+        r1 g2 g | a bf1 g2 | f f f g | a1 a | r2
+
+    c2 c bf | g1 bf2 a ~ | a c c4( bf a g | f2.) d4 a'1 | 
+        fs\longa*1/2
+    \bar "|."
+}
+
+cantoLyricsIV = \lyricmode {
+    I' vo pian -- gen -- do __ i miei pas -- sa -- ti tem -- pi
+    I quai po -- si~in a -- mar co -- sa mor -- ta -- le,
+    Sen -- za le -- var -- mi~a vo -- lo, 
+    % \ijLyrics
+        sen -- za le -- var -- mi~a vo -- lo~a -- vend' io l'a -- le,
+    % \normalLyrics
+      
+    Per dar for -- se di me 
+    \ijLyrics
+    per dar for -- se di me __
+    \normalLyrics
+        non bas -- si~e -- sem -- pi.
+ 
+    Tu che ve -- di~i miei ma -- li~in -- de -- gni~et em -- pi,
+    Re __ del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le, __
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    E'l suo de -- fec -- to,
+    \ijLyrics
+    e'l suo de -- fec -- to,
+    \normalLyrics
+         di tua gra -- tia~a -- dem -- pi,
+    e'l suo de -- fec -- to,
+         di __ tua gra -- tia~a -- dem -- pi.
+}
+
+altoIVincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c3"
+    \key f \major
+
+    d1
+}
+
+% alto: checked against source (double-checked against IMSLP manuscript)
+altoIV = \relative c' {
+    \fourTwoCutTime
+    \key f \major
+
+    R\breve | d1 d ~ | d2 d bf1 | a r2 d | f f f f | e1 e2 r | e2 e1 e2 |
+        g g e1 | e r2 f | f f e e | d
+
+    f1 f2 | c c1( b4 a | b2. c4) b1 | R\breve | c2 c4 d e f g2 | d1 d2 c4 d |
+        e e e2 f1 | r2 c b b | b1 c | r2 c bf a2 ~ | a4 a g2 f1 | r1 
+
+    r2 a | c d2. d4 c2 | d bf2.( c4 d2) | d bf a1 | d\breve ~ | d | 
+        R\breve*2 | R\breve*3 | r1 d ~ | d g, | g'1. g2 ~ | g g e2.( d8[ e] | 
+        f1) f2 f ~ | f( e4 d e2) e | f2.( e4
+
+    d1) | e\breve | e1. d2 ~ | d cs d1 | cs2 d1 d2 | d d d1 ~ | d cs |
+        r2 f1 ef2 ~ | ef d c1 | d2 ef1 d2 | c1. bf2 | g1 a2 d | d e f1 | 
+        d2 g c, d ~ | d d c1 | bf2 r 
+
+    r2 c | c d ef1 | c2 d1 d2 | c bf d1 | d r | r1 r2 d | d c f1 | d2 g f f ~ |
+        f4 d d1 \ficta cs2 \unficta | d\longa*1/2
+    \bar "|."
+}
+
+altoLyricsIV = \lyricmode {
+    I' vo __ pian -- gen -- do i miei pas -- sa -- ti tem -- pi
+    \ijLyrics
+        i miei pas -- sa -- ti tem -- pi
+    \normalLyrics
+    I quai po -- si~in a -- mar co -- sa mor -- ta -- le,
+    Sen -- za le -- var -- mi~a vo -- lo, 
+    \ijLyrics
+        sen -- za le -- var -- mi~a vo -- lo
+    \normalLyrics
+        a -- vend' io l'a -- le,
+      
+    Per dar for -- se di me 
+    \ijLyrics
+    per dar for -- se di me 
+    \normalLyrics
+        non __ bas -- si~e -- sem -- pi. __
+ 
+    Re __ del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le, 
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    \ijLyrics
+    soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    \normalLyrics
+    E'l suo de -- fec -- to, di tua gra -- tia~a -- dem -- pi,
+    \ijLyrics
+    e'l suo de -- fec -- to, di tua gra -- tia~a -- dem -- pi,
+    \normalLyrics
+    e'l suo de -- fec -- to, di tua gra -- tia a -- dem -- pi.
+}
+
+tenoreIVincipit = \relative c {
+    \time 2/2
+    \clef "petrucci-c4"
+    \key f \major
+
+    d1
+}
+
+% tenore: checked against source
+tenoreIV = \relative c {
+    \fourTwoCutTime
+    \key f \major
+
+    R\breve*2 | d1 d ~ | d2 d f1 | d\breve | r1 r2 e | e e1 g2 ~ | 
+        g d a'1 ~ | a a | r2 a c c | d d c1 | a2 a d d ~ | d d g, g4 a |
+        bf c d2 a1 | r1 g2
+
+    g4 a | bf bf bf2 a1 | r2 c c1 ~ | c2 c, g'1 | g r1 | R\breve | 
+        c,1 d2 f ~ | f4 f e2 f1 ~ | f\breve | d1 d | d2 g2.( fs8[ e] fs2) |
+        g\breve ~ | g1 r1 | R\breve*2 | R\breve*2 | r1 g ~ | g g | d'\breve | 
+        d1 b2.( c4 | d2) g,1 g2 |
+
+    a1.( g4 f | g1.) c2 | f,2.( g4 a1) | a r1 | a1. bf2 ~ | bf a g1 |
+        a2 bf1 a2 | g1. f2 | d1 e | a1. bf2 ~ | bf a g1 | a2 c1 g2 | 
+        ef'1. d2 | c1 d | r1 r2 d, | d e f1 | d2 r  
+
+    c2 c | d f1 e2 | e g c, c | f d r g | c, f1 bf2 | a1 f2 r | 
+        g2 g a bf ~ | bf g f f | f g a1 | a\breve ~ | a\longa*1/2
+    \bar "|."
+}
+
+tenoreLyricsIV = \lyricmode {
+    I' vo __ pian -- gen -- do i miei pas -- sa -- ti tem -- pi
+    I quai po -- si~in a -- mar co -- sa mor -- ta -- le,
+    Sen -- za le -- var -- mi~a vo -- lo, 
+    \ijLyrics
+        sen -- za le -- var -- mi~a vo -- lo
+    \normalLyrics
+        a -- vend' __ io l'a -- le,
+      
+    Per dar for -- se di me __ non bas -- si~e -- sem -- pi. __
+ 
+    Re __ del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le, 
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    \ijLyrics
+    soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    \normalLyrics
+    E'l suo de -- fec -- to,
+    \ijLyrics
+    e'l suo de -- fec -- to,
+    \normalLyrics
+         di tua gra -- tia~a -- dem -- pi,
+         di tua gra -- tia~a -- dem -- pi,
+    e'l suo de -- fec -- to, di tua gra -- tia~a -- dem -- pi. __
+}
+
+bassoIVincipit = \relative c {
+    \time 2/2
+    \clef "petrucci-f4"
+    \key f \major
+
+    d1
+}
+
+% basso: checked against source
+bassoIV = \relative c {
+    \fourTwoCutTime
+    \key f \major
+
+    R\breve | r1 d | f1. f2 | f1 d | r1 r2 d | a a a2.( bf4 | c1.) c2 |
+        g1 a ~ | a r2 d | d d c c | bf1 f | f2 f g1 ~ | g g |
+
+    r2 d' d4 e f g | a2 g r1 | g,2 bf4 c d e f2 | c1 r2 f, | f f g1 | g r1 |
+        c1 d2 f ~ | f4 f e2 f1 | r1 r2 f, | a bf2. bf4 a2 | bf bf g1 ~ | g2 g
+
+    d'1 | g,\breve | r1 d' ~ | d2 d c1 | bf2 bf a1 | a bf | ef ef | d r | 
+        R\breve | g,\breve | g1 g' ~ | g c, | f2 f1 f2 | c1 c | d\breve |
+        a\breve | r2 a1 d2 ~ | d a bf1 | a2 g1 fs2 | g1. a2 |
+
+    bf1 a | R\breve*4 | R\breve*2 | g2 g a bf ~ | bf g c f, | bf bf c2.( bf4 | 
+        a2) g r1 | r2 g1 g2 | a bf1 g2 | d'2. d4 d2 d | c1 f,2 bf | bf c 
+
+    d2.( e4) | f2 e f f | d d a1 | d\longa*1/2
+        
+    \bar "|."
+}
+
+bassoLyricsIV = \lyricmode {
+    I' vo pian -- gen -- do i miei pas -- sa -- ti tem -- pi __
+    I quai po -- si~in a -- mar co -- sa mor -- ta -- le,
+    sen -- za le -- var -- mi~a vo -- lo, 
+    \ijLyrics
+        sen -- za le -- var -- mi~a vo -- lo
+    \normalLyrics
+        a -- vend' io l'a -- le,
+      
+    Per dar for -- se di me 
+    \ijLyrics
+    per dar for -- se di me 
+    \normalLyrics
+        non bas -- si~e -- sem -- pi.
+ 
+    Tu __ che ve -- di~i miei ma -- li~in -- de -- gni~et em -- pi,
+    Re del ciel, __ in -- vi -- si -- bi -- le~im -- mor -- ta -- le, 
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    E'l suo de -- fec -- to, di tua gra -- tia~a -- dem -- pi,
+    \ijLyrics
+    e'l suo de -- fec -- to, di tua gra -- tia~a -- dem -- pi,
+    \normalLyrics
+    e'l suo de -- fec -- to di tua gra -- ti' a -- dem -- pi.
+}
+
+quintoIVincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c4"
+    \key f \major
+
+    g1
+}
+
+% quinto: checked against source (double-checked against IMSLP manuscript)
+quintoIV = \relative c' {
+    \fourTwoCutTime
+    \key f \major
+
+    g1 bf ~ | bf2 bf bf1 | a r1 | r2 d, a' a | a1. a2 | c2.( bf4 a g a2) |
+        g1 r2 g | d' d cs cs | cs1 cs2 r4 d | d2 d, e e |
+
+    f1 f2.( e4 | f g a2) d, g | g g r g | g4 a bf c d2 c | r c, c4 d e f |
+        g2 f r1 | g1 f2 f | f2.( e4 d1) | d2 d a' a ~ | a4 a g2 f1 | r2 c' 
+
+    bf2 a ~ | a4 a g2 a1 | R\breve | f1 g2 g | d1 d | r bf' ~ | bf2 bf a1 ~ |
+        a2 a1 g2 | g1 a2 d ~ | d c bf1 | g\breve | R\breve | d'\breve |
+        b1 b ~ | b d | d c ~ | c2 c a a | c2.( bf8[ a] g4 e a2 ~ | 
+        a4 g f2. e4 d2 ~ | d
+
+    cs2) cs1 | r2 e1 f2 ~ | f e d1 | e2 g1 d2 | bf'1. a2 | g1 a | 
+        r2 d,1 g2 ~ | g d ef1 | d2 c1 b2 | c1. d2 | ef1 d | 
+        g2 g a bf ~ | bf g r1 | d2 d e f ~ | f d g2.( f8[ g] | a2)
+
+    bf2 g4( a8[ bf]) c2 ~ | c bf bf1 | a2 d, d d | f1 d2 f ~ | f e f f |
+        d2 e r d ~ | d c c'2.( bf8[ c]) | d2 d, e1 | d\longa*1/2
+    \bar "|."
+}
+
+quintoLyricsIV = \lyricmode {
+    I' vo __ pian -- gen -- do i miei pas -- sa -- ti tem -- pi
+    \ijLyrics
+        i miei pas -- sa -- ti tem -- pi
+    \normalLyrics
+    I quai po -- si~in a -- mar co -- sa mor -- ta -- le,
+    sen -- za le -- var -- mi~a vo -- lo, 
+    \ijLyrics
+        sen -- za le -- var -- mi~a vo -- lo
+    \normalLyrics
+        a -- vend' io l'a -- le,
+      
+    Per dar for -- se di me 
+    \ijLyrics
+    per dar for -- se di me 
+    \normalLyrics
+        non bas -- si~e -- sem -- pi.
+ 
+    Tu __ che ve -- di~i miei ma -- li~in -- de -- gni~et em -- pi,
+    Re del ciel, __ in -- vi -- si -- bi -- le~im -- mor -- ta -- le, 
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    \ijLyrics
+    soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    \normalLyrics
+    E'l suo de -- fec -- to,
+    \ijLyrics
+    e'l suo de -- fec -- to,
+    \normalLyrics
+         di __ tua gra -- ti -- a~a -- dem -- pi,
+    e'l suo de -- fec -- to,
+         di __ tua gra -- tia~a -- dem -- pi,
+         di __ tua gra -- ti -- a~a -- dem -- pi.
+}
+
+cantoIVincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \cantoIVincipit
+    >>
+>>
+
+altoIVincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \altoIVincipit
+    >>
+>>
+
+tenoreIVincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \tenoreIVincipit
+    >>
+>>
+
+bassoIVincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \bassoIVincipit
+    >>
+>>
+
+quintoIVincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \quintoIVincipit
+    >>
+>>
+

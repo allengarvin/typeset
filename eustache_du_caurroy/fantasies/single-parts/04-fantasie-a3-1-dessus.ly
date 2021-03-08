@@ -1,0 +1,41 @@
+\version "2.16.0"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+#(set-global-staff-size 19.2)
+
+\header {
+    % Things that change per piece:
+    title = "Fantasie IV"
+
+    % Things that change per part:
+    partname = "Dessus (part 1 of 3)"
+    instrument = "Fantasie IV à 3 (dessus)"
+
+    % Unchanging:
+    originallyset = "2013-06-19"
+    lastupdated = "2013-06-19"
+    \include "include/distribution-header.ly"
+    tagline = #'f
+}
+
+\include "../parts/04-fantasy.ly"
+    
+\book {
+    \bookOutputName "04-fantasie-a3"
+    \bookOutputSuffix "--1-dessus--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef treble
+            \global 
+            \dessusIV
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

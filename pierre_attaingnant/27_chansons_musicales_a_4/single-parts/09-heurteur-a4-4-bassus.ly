@@ -1,0 +1,46 @@
+\version "2.16.0"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts.ly"
+
+#(set-global-staff-size 18.0)
+\header {
+    % Things that change per piece:
+    title = "Allons ung peu avant"
+    composer = "Giullaume de Heurteur (fl.1530-1545)"
+
+    % Things that change per part:
+    partname = "Bassus (part 4 of 4)"
+    instrument = "Allons ung peu avant (bassus)"
+
+    % Unchanging:
+    originallyset = "2013-07-08"
+    lastupdated = "2013-07-08"
+    shorttitle = "allons_ung_peu"
+    \include "include/distribution-header.ly"
+    tagline = #'f
+}
+
+\include "../parts/09-heurteur-a4-chanson.ly"
+
+\book {
+    \bookOutputName "09-heurteur--allons_ung_peu"
+    \bookOutputSuffix "--4-bassus--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef bass
+            \global 
+            \bassusIX 
+        >>
+        \addlyrics { \bassusLyricsIX }
+        \header {
+            partname = "Bassus"
+        }
+     %   \include "../include/vocal-layout-parts.ly"
+    }
+}

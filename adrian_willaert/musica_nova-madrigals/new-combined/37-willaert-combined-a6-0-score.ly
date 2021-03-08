@@ -1,0 +1,208 @@
+\version "2.18.2"
+\include "english.ly"
+
+\include "../include/paper-1-score.ly"
+\include "../include/global-score.ly"
+\include "../include/macros.ly"
+\include "../include/scheme.ly"
+
+#(set-global-staff-size 16.0)
+
+\header {
+    % Things that change per piece:
+    title = "I' vidi in terra angelici costumi"
+    folio = \markup { Petrarca, \italic{Canzoniere} CLVI (156) }
+    instrument = "I' vidi in terra (score)"
+
+    % Unchanging:
+    \include "include/distribution-header.ly"
+    lastupdated = "2016-09-04"
+    tagline = #'f
+}
+\include "../parts/37-willaert-a6-madrigal.ly"
+\include "../parts/38-willaert-a6-madrigal.ly"
+
+\book {
+    \bookOutputName "37-willaert--i_vidi_in_terra--amor_senno"
+    \bookOutputSuffix "-comb--0-score"
+    \score {
+        \header { piece = "Prima parte" }
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+            } <<
+                \new Voice <<
+                    \set Staff.instrumentName = #"Cantus"
+                    \incipit \cantusXXXVIIincipitVoice
+                    \clef treble
+                    \global
+                    \cantusXXXVII
+                >>
+                \addlyrics { \cantusLyricsXXXVII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Altus"
+                    \incipit \altusXXXVIIincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \altusXXXVII
+                >>
+                \addlyrics { \altusLyricsXXXVII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quintus"
+                    \incipit \quintusXXXVIIincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \quintusXXXVII
+                >>
+                \addlyrics { \quintusLyricsXXXVII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenor"
+                    \incipit \tenorXXXVIIincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenorXXXVII
+                >>
+                \addlyrics { \tenorLyricsXXXVII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Sesta"
+                    \incipit \sestaXXXVIIincipitVoice
+                    \clef "bass"
+                    \global
+                    \sestaXXXVII
+                >>
+                \addlyrics { \sestaLyricsXXXVII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Bassus"
+                    \incipit \bassusXXXVIIincipitVoice
+                    \clef "bass"
+                    \global
+                    \bassusXXXVII
+                >>
+                \addlyrics { \bassusLyricsXXXVII }
+        >>
+        \include "../include/vocal-layout-score-barring.ly"
+        \midi {
+            \context {
+                \Score
+                tempoWholesPerMinute = #(ly:make-moment 102 2)
+            }
+        }
+    }
+    \score {
+        \header { piece = "Seconda parte" }
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+            } <<
+                \new Voice <<
+                    \set Staff.instrumentName = #"Cantus"
+                    \incipit \cantusXXXVIIIincipitVoice
+                    \clef treble
+                    \global
+                    \cantusXXXVIII
+                >>
+                \addlyrics { \cantusLyricsXXXVIII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Altus"
+                    \incipit \altusXXXVIIIincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \altusXXXVIII
+                >>
+                \addlyrics { \altusLyricsXXXVIII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quintus"
+                    \incipit \quintusXXXVIIIincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \quintusXXXVIII
+                >>
+                \addlyrics { \quintusLyricsXXXVIII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenor"
+                    \incipit \tenorXXXVIIIincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenorXXXVIII
+                >>
+                \addlyrics { \tenorLyricsXXXVIII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Sesta"
+                    \incipit \sestaXXXVIIIincipitVoice
+                    \clef "bass"
+                    \global
+                    \sestaXXXVIII
+                >>
+                \addlyrics { \sestaLyricsXXXVIII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Bassus"
+                    \incipit \bassusXXXVIIIincipitVoice
+                    \clef "bass"
+                    \global
+                    \bassusXXXVIII
+                >>
+                \addlyrics { \bassusLyricsXXXVIII }
+        >>
+        \include "../include/vocal-layout-score-barring.ly"
+        \midi {
+            \context {
+                \Score
+                tempoWholesPerMinute = #(ly:make-moment 102 2)
+            }
+        }
+    }
+    \markup { \fill-line {
+        \column { \line { \italic { "Prima parte" } } }
+        \column { \line { \italic { "Translation" } } }
+    } }
+    \markup {
+        \fill-line {
+            \column {
+                \line { I' vidi in terra angelici costumi }
+                \line { et celesti bellezze al mondo sole, }
+                \line { tal che di rimembrar mi giova et dole, }
+                \line { ché quant'io miro par sogni, ombre et fumi; }
+                \line { et vidi lagrimar que' duo bei lumi, }
+                \line { ch'àn fatto mille volte invidia al sole; }
+                \line { et udì' sospirando dir parole }
+                \line { che farian gire i monti et stare i fiumi. }
+                \line { \hspace #12 Petrarca, \italic { Canzoniere } 156 }
+            }
+            \column {
+                \line { I saw angelic virtue on earth }
+                \line { and heavenly beauty on terrestrial soil, }
+                \line { so I am sad and joyful at the memory, }
+                \line { and what I see seems dream, shadows, smoke: }
+                \line { and I saw two lovely eyes that wept, }
+                \line { that made the sun a thousand times jealous: }
+                \line { and I heard words emerge among sighs }
+                \line { that made the mountains move, and halted rivers. }
+                \line { \hspace #12 A.S. Kline (©2004, used with permission) }
+            }
+        }
+    }
+    \markup { \fill-line {
+        \column { \line { \vspace #1 } \line { \italic { "Seconda parte" } } }
+        \column { \line { \vspace #1 } \line { \italic { "Translation" } } }
+    } }
+    \markup {
+        \fill-line {
+            \column {
+                \line { Amor, Senno, Valor, Pietate, et Doglia }
+                \line { facean piangendo un più dolce concento }
+                \line { d'ogni altro che nel mondo udir si soglia; }
+                \line { et era il cielo a l'armonia sì intento }
+                \line { che non se vedea in ramo mover foglia, }
+                \line { tanta dolcezza avea pien l'aere e 'l vento. }
+                \line { \hspace #12 Petrarca, \italic { Canzoniere } 156 }
+            }
+            \column {
+                \line { Love, Judgement, Pity, Worth and Grief, }
+                \line { made a sweeter chorus of weeping }
+                \line { than any other heard beneath the moon: }
+                \line { and heaven so intent upon the harmony }
+                \line { no leaf was seen to move on the boughs, }
+                \line { so filled with sweetness were the wind and air. }
+                \line { \hspace #12 A.S. Kline (©2004, used with permission) }
+            }
+        }
+    }
+}
