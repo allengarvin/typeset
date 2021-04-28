@@ -59,9 +59,9 @@ cantoLyricsI = \lyricmode {
     Da voi sen -- do -- si sciol -- ta,
     Si tro -- va~es -- ser' u -- sci -- ta
     D'u -- na pri -- gion mor -- ta -- le,
-    E can -- gia~in vi -- ta~e ben
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l ma -- le,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l ma -- le.
+    E can -- gia~in vi -- ta~e~in ben
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 altoIincipit = \relative c' {
@@ -121,9 +121,9 @@ altoLyricsI = \lyricmode {
     Da voi sen -- do -- si sciol -- ta,
     Si tro -- va~es -- ser' u -- sci -- ta
     D'u -- na pri -- gion mor -- ta -- le,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l __ ma -- le,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l ma -- le,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l ma -- le.
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l __ ma -- le,
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 tenoreIincipit = \relative c' {
@@ -180,8 +180,8 @@ tenoreLyricsI = \lyricmode {
     \ijLyrics An -- zi ri -- tor -- no~in vi -- ta. \normalLyrics
 
     Ché l'al -- ma~in voi se -- pol -- ta,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l ma -- le,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l ma -- le.
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 bassoIincipit = \relative c {
@@ -223,8 +223,8 @@ bassoLyricsI = \lyricmode {
     \ijLyrics An -- zi ri -- tor -- no~in vi -- ta. \normalLyrics
 
     Ché l'al -- ma~in voi se -- pol -- ta,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l ma -- le,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l ma -- le.
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 quintoIincipit = \relative c'' {
@@ -281,8 +281,8 @@ quintoLyricsI = \lyricmode {
     Da voi sen -- do -- si sciol -- ta,
     Si tro -- va~es -- ser' u -- sci -- ta
     D'u -- na pri -- gion __ mor -- ta -- le,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l __ ma -- le,
-    E can -- gia~in vi -- ta~e ben la mor -- te~e'l ma -- le.
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l __ ma -- le,
+    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 cantoIincipitVoice = <<
@@ -332,7 +332,7 @@ quintoIincipitVoice = <<
 %da voi sendosi sciolta
 %si trova esser uscita
 %d'una prigion mortale;
-%e cangia in vit'e ben
+%e cangia in vit'e~in ben
 %la morte e'l male.
 %
 %I am not, however, dead,

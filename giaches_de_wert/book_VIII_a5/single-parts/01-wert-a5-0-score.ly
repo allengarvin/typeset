@@ -100,7 +100,7 @@
                 \line { Da voi sendosi sciolta }
                 \line { Si trova esser uscita }
                 \line { D'una prigion mortale; }
-                \line { E cangia in vita e ben }
+                \line { E cangia in vita e in ben }
                 \line { La morte e'l male. }
             }
 % May be copyright encumbered. Can't remember where I got this:
