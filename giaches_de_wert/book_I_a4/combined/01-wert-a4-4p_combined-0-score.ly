@@ -34,7 +34,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #5.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
 
                 \new Voice << 
@@ -86,7 +86,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #5.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
 
                 \new Voice << 
@@ -138,7 +138,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #5.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
 
                 \new Voice << 
@@ -190,7 +190,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #5.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
 
                 \new Voice << 

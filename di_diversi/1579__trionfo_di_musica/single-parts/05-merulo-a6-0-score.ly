@@ -23,6 +23,8 @@
     language = "italian"
     lastupdated = "2021-07-05"
     originallyset = "2021-07-05"
+    flats = 1
+    final = "g"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -35,7 +37,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #5.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"

@@ -35,7 +35,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
@@ -84,7 +84,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
@@ -133,7 +133,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
@@ -182,7 +182,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
@@ -231,7 +231,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
@@ -264,7 +264,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"

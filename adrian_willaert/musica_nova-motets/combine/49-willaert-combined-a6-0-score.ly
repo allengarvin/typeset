@@ -29,7 +29,7 @@
     \score {
         \header { piece = "Prima pars" }
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+                \override StaffGrouper.staff-staff-spacing.padding = #6
             } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice <<
@@ -87,7 +87,7 @@
     \score {
         \header { piece = "Secunda pars" }
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+                \override StaffGrouper.staff-staff-spacing.padding = #6
             } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice <<
@@ -133,7 +133,7 @@
     \score {
         \header { piece = "Prima pars" }
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+                \override StaffGrouper.staff-staff-spacing.padding = #6
             } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice <<

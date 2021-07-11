@@ -35,7 +35,7 @@
     \bookOutputSuffix "--0-score"
     \score {
         \new Staff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #6
+            \override StaffGrouper.staff-staff-spacing.padding = #6
         } <<
             \new Voice << 
                \set Staff.instrumentName = #""
@@ -44,7 +44,7 @@
                 \global \violV 
             >>
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
 
                 \new Voice << \global \trebleV >>

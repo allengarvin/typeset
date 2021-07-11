@@ -28,7 +28,7 @@
     \score {
         \header { piece = "Prima parte" }
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice << 
@@ -78,7 +78,7 @@
     \score {
         \header { piece = "Seconda parte" }
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice << 

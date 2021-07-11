@@ -36,7 +36,7 @@
             \header { piece = "Kyrie" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"
@@ -102,7 +102,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"
@@ -168,7 +168,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"
@@ -224,7 +224,7 @@
         \header { piece = "Sanctus" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"
@@ -280,7 +280,7 @@
         \header { piece = "Benedictus" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"
@@ -320,7 +320,7 @@
         \header { piece = "Osanna" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"
@@ -376,7 +376,7 @@
         \header { piece = "Agnus Dei" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4
+                \override StaffGrouper.staff-staff-spacing.padding = #4
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"

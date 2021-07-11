@@ -35,7 +35,7 @@
          <<
             \new PianoStaff % = choirStaff \with {
                 \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #3
             } <<
                 \new Voice <<
                     \incipit \cantoIincipitVoice

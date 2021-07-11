@@ -29,7 +29,7 @@
         \header { piece = "Premier pars" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Superius"
@@ -78,7 +78,7 @@
         \header { piece = "Deuxiesme pars" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Superius"

@@ -37,7 +37,7 @@
         \header { piece = "Kyrie" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Cantus"
@@ -77,7 +77,7 @@
         \header { piece = "Gloria" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Cantus"
@@ -117,7 +117,7 @@
         \header { piece = "Credo" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Cantus"
@@ -157,7 +157,7 @@
         \header { piece = "Sanctus" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Cantus"
@@ -197,7 +197,7 @@
         \header { piece = "Benedictus" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Cantus"
@@ -237,7 +237,7 @@
         \header { piece = "Agnus Dei" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Cantus"

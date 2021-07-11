@@ -28,7 +28,7 @@
         \header { piece = "Prima parte" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #5
+                \override StaffGrouper.staff-staff-spacing.padding = #5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto I"
@@ -100,7 +100,7 @@
         \header { piece = "Seconda parte" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #5
+                \override StaffGrouper.staff-staff-spacing.padding = #5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto I"

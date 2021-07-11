@@ -29,7 +29,7 @@
     \score {
         <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.0
+                \override StaffGrouper.staff-staff-spacing.padding = #4.0
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
@@ -79,7 +79,7 @@
     \score {
         <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #4.0
+                \override StaffGrouper.staff-staff-spacing.padding = #4.0
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"

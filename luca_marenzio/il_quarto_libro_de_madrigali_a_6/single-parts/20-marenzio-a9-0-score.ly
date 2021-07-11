@@ -32,7 +32,7 @@
     \score {
         <<
         \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #2.5
+            \override StaffGrouper.staff-staff-spacing.padding = #2.5
         } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Solo Canto"
@@ -44,7 +44,7 @@
                 \addlyrics { \cantoThreeLyricsXX }
         >>
         \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #3.5
+            \override StaffGrouper.staff-staff-spacing.padding = #3.5
         } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto I"
@@ -80,7 +80,7 @@
                 \addlyrics { \bassoOneLyricsXX }
             >>
         \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #3.5
+            \override StaffGrouper.staff-staff-spacing.padding = #3.5
         } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto II"

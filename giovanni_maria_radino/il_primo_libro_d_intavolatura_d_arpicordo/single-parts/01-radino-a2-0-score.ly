@@ -33,7 +33,7 @@
          \header { piece = \markup \center-column { "" \vspace #1 } }
          <<
             \new PianoStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #5
+                \override StaffGrouper.staff-staff-spacing.padding = #5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #""

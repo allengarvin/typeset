@@ -31,10 +31,10 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #3
             } <<
               \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #3
               } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus I"
@@ -70,7 +70,7 @@
                 \addlyrics { \duodecimaTwoLyricsXLII }
               >>
               \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #3
               } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus II"
@@ -106,7 +106,7 @@
                 \addlyrics { \sextusLyricsXLII }
               >>
               \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #3
               } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus III"
@@ -142,7 +142,7 @@
                 \addlyrics { \nonaTwoLyricsXLII }
               >>
               \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #3
               } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus IV"

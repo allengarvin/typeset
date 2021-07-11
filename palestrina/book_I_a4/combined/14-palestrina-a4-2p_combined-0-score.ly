@@ -29,7 +29,7 @@
     \bookOutputSuffix "--0-score"
     \score {
         \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+            \override StaffGrouper.staff-staff-spacing.padding = #4.5
         } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice << 
@@ -79,7 +79,7 @@
     }   
     \score {
         \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+            \override StaffGrouper.staff-staff-spacing.padding = #4.5
         } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice << 
