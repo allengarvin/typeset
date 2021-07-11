@@ -35,7 +35,7 @@
         }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+                \override StaffGrouper.staff-staff-spacing.padding = #6
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
@@ -101,7 +101,7 @@
         }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+                \override StaffGrouper.staff-staff-spacing.padding = #6
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
@@ -167,7 +167,7 @@
         }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+                \override StaffGrouper.staff-staff-spacing.padding = #6
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
@@ -233,7 +233,7 @@
         }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+                \override StaffGrouper.staff-staff-spacing.padding = #6
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
@@ -299,7 +299,7 @@
         }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+                \override StaffGrouper.staff-staff-spacing.padding = #6
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"

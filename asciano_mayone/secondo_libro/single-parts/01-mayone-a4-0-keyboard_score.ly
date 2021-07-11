@@ -30,7 +30,7 @@
     \score {
          <<
             \new PianoStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6
+                \override StaffGrouper.staff-staff-spacing.padding = #6
             } <<
                 \new Voice <<
                     \clef "treble"

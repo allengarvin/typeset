@@ -37,7 +37,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper #'staff-staff-spacing #'padding = #6.0
+                \override StaffGrouper.staff-staff-spacing.padding = #6.0
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"

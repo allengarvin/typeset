@@ -30,7 +30,7 @@
     \score {
         \header { piece = "Prima stanza" }
         \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+            \override StaffGrouper.staff-staff-spacing.padding = #4.5
         } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice << 
@@ -72,7 +72,7 @@
     \score {
         \header { piece = "Seconda stanza" }
         \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+            \override StaffGrouper.staff-staff-spacing.padding = #4.5
         } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice << 
@@ -114,7 +114,7 @@
     \score {
         \header { piece = "Terza stanza" }
         \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+            \override StaffGrouper.staff-staff-spacing.padding = #4.5
         } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice << 
@@ -156,7 +156,7 @@
     \score {
         \header { piece = "Seconda stanza" }
         \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper #'staff-staff-spacing #'padding = #4.5
+            \override StaffGrouper.staff-staff-spacing.padding = #4.5
         } <<
             \new ChoirStaff = choirStaff <<
                 \new Voice << 
