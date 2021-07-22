@@ -268,13 +268,12 @@ colorBr =
 \scale #'(-1 . 2) { "¬" }
         \once\override TextSpanner #'(bound-details right text) = \markup
 \scale #'(1 . 2) { "¬" }
-        \once\override TextSpanner #'bound-details #'left-broken #'text =
+        \once\override TextSpanner.bound-details.left-broken.text = ##f
+        \once\override TextSpanner.bound-details.right-broken.text =
 ##f
-        \once\override TextSpanner #'bound-details #'right-broken #'text =
-##f
-        \once\override TextSpanner #'bound-details #'left #'padding = #'0
-        \once\override TextSpanner #'bound-details #'right #'padding = #'-1
-        \once\override TextSpanner #'style = #'none
+        \once\override TextSpanner.bound-details.left.padding = #'0
+        \once\override TextSpanner.bound-details.right.padding = #'-1
+        \once\override TextSpanner.style = #'none
         $music
 #})
 
