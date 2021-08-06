@@ -1,8 +1,8 @@
 %    Amor, che sol de' i cor leggiadri ha cura
 %    Ne mei scaldar degnossi alma villana
-%    Di salir vivo al ciel l'huomo assicura
+%    Di salir vivo al ciel l'uomo assicura
 %    Con ottimo riposo e lode humana
-%    Amor ogni virtu semplice è pura
+%    Amor ogni virtu semplice e pura
 %    Ogni bellezza vil caduca e vana
 %    E ne ripete par ch'io mi distempre
 %    Che'n voi raddoppia la mia vita sempre.
@@ -42,24 +42,24 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    A -- mor, che sol de~i cor leg -- gia -- dri~ha cu -- ra,
+    A -- mor, che sol dei cor leg -- gia -- dri~ha cu -- ra,
     Ne mei scal -- dar de -- gnos -- si~al -- ma vil -- la -- na
-    Di __ sa -- lir vi -- vo~al ciel
+    Di __ sa -- lir vi -- vo~al ciel,
     \ijLyrics
-    Di __ sa -- lir vi -- vo~al ciel 
+    di __ sa -- lir vi -- vo~al ciel 
     \normalLyrics 
-        l'huo -- mo~as -- si -- cu -- ra
-    Con o -- tti -- mo ri -- po -- so,
-    Con o -- tti -- mo ri -- po -- so, e lo -- de~hu -- ma -- na
-    A -- mor o -- gni vir -- tu sem -- pli -- ce~è pu -- ra 
-    A -- mor o -- gni vir -- tu,
-    A -- mor o -- gni vir -- tu sem -- pli -- ce~è pu -- ra 
+        l'uo -- mo~as -- si -- cu -- ra
+    Con ot -- ti -- mo ri -- po -- so,
+    con ot -- ti -- mo ri -- po -- so, e lo -- de~u -- ma -- na
+    A -- mor o -- gni vir -- tù sem -- pli -- ce~e pu -- ra 
+    a -- mor o -- gni vir -- tù,
+    a -- mor o -- gni vir -- tù sem -- pli -- ce~e pu -- ra 
     O -- gni bel -- lez -- za vil ca -- du -- ca~e va -- na
     E ne ri -- pe -- te pur, __
-    E ne ri -- pe -- te pur __ ch'io mi di -- stem -- pre
-    Che'n voi rad -- dop -- pia
+    e ne ri -- pe -- te pur __ ch'io mi di -- stem -- pre
+    Che'n voi rad -- dop -- pia,
     \ijLyrics
-    Che'n voi rad -- dop -- pia 
+    che'n voi rad -- dop -- pia 
     \normalLyrics
         la mia vi -- ta sem -- pre.
 }
@@ -101,23 +101,23 @@ altoI = \relative c'' {
 }
 
 altoLyricsI = \lyricmode {
-    A -- mor, che sol de~i cor leg -- gia -- dri~ha cu -- ra,
+    A -- mor, che sol dei cor leg -- gia -- dri~ha cu -- ra,
     Ne mei scal -- dar de -- gnos -- si~al -- ma vil -- la -- na __
-    Di __ sa -- lir vi -- vo~al ciel
+    Di __ sa -- lir vi -- vo~al ciel,
     \ijLyrics
-    Di sa -- lir vi -- vo~al ciel 
+    di sa -- lir vi -- vo~al ciel 
     \normalLyrics 
-        l'huo -- mo~as -- si -- cu -- ra
-    Con o -- tti -- mo ri -- po -- so,
-    Con o -- tti -- mo ri -- po -- so, e lo -- de~hu -- ma -- na
-    A -- mor o -- gni vir -- tu __ sem -- pli -- ce~è pu -- ra 
-    A -- mor o -- gni vir -- tu sem -- pli -- ce~è pu -- ra 
+        l'uo -- mo~as -- si -- cu -- ra
+    Con ot -- ti -- mo ri -- po -- so,
+    con ot -- ti -- mo ri -- po -- so, e lo -- de~u -- ma -- na
+    A -- mor o -- gni vir -- tù __ sem -- pli -- ce~e pu -- ra 
+    a -- mor o -- gni vir -- tù sem -- pli -- ce~e pu -- ra 
     O -- gni bel -- lez -- za vil ca -- du -- ca~e va -- na
     E ne ri -- pe -- te pur, 
-    E ne ri -- pe -- te pur ch'io mi __ di -- stem -- pre
-    Che'n voi rad -- dop -- pia
+    e ne ri -- pe -- te pur ch'io mi __ di -- stem -- pre
+    Che'n voi rad -- dop -- pia,
     \ijLyrics
-    Che'n voi __ rad -- dop -- pia 
+    che'n voi __ rad -- dop -- pia 
     \normalLyrics
         la mia vi -- ta sem -- pre.
 }
@@ -156,23 +156,23 @@ bassoI = \relative c' {
 }
 
 bassoLyricsI = \lyricmode {
-    A -- mor, che sol de~i cor leg -- gia -- dri~ha cu -- ra,
+    A -- mor, che sol dei cor leg -- gia -- dri~ha cu -- ra,
     Ne mei scal -- dar de -- gnos -- si~al -- ma vil -- la -- na
-    Di __ sa -- lir vi -- vo~al ciel
+    Di __ sa -- lir vi -- vo~al ciel,
     \ijLyrics
-    Di sa -- lir vi -- vo~al ciel 
+    di sa -- lir vi -- vo~al ciel 
     \normalLyrics
-        l'huo -- mo~as -- si -- cu -- ra
-    Con o -- tti -- mo ri -- po -- so,
-    Con o -- tti -- mo ri -- po -- so, __ e lo -- de~hu -- ma -- na
-    A -- mor o -- gni vir -- tu,
-    A -- mor o -- gni vir -- tu sem -- pli -- ce~è pu -- ra __
+        l'uo -- mo~as -- si -- cu -- ra
+    Con ot -- ti -- mo ri -- po -- so,
+    con ot -- ti -- mo ri -- po -- so, __ e lo -- de~u -- ma -- na
+    A -- mor o -- gni vir -- tù,
+    a -- mor o -- gni vir -- tù sem -- pli -- ce~e pu -- ra __
     O -- gni bel -- lez -- za vil __ ca -- du -- ca~e va -- na
     E ne __ ri -- pe -- te pur, 
-    E ne __ ri -- pe -- te pur ch'io mi di -- stem -- pre
-    Che'n voi rad -- dop -- pia
+    e ne __ ri -- pe -- te pur ch'io mi di -- stem -- pre
+    Che'n voi rad -- dop -- pia,
     \ijLyrics
-    Che'n voi rad -- dop -- pia 
+    che'n voi rad -- dop -- pia 
     \normalLyrics
         la mia vi -- ta sem -- pre.
 }
