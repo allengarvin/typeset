@@ -134,11 +134,11 @@ tenorVI = \relative c' {
     \key f \major
 
     c1 a2 c ~ | c a1 a2 | bf1 c | r2 f d c | d bf c1 | c r2 c | c1 c2 c ~ |
-        c c a bf | g1 r2 c | c e f d | c2
+        c c a( bf) | g1 r2 c | c e f d | c2
 
     f,4( g a bf) c2 ~ | c \ficta b \unficta c2.( bf?4 |
         a2) bf a f | 
-        a1( g2. a4 | bf c d2. c4 bf2 ~ | bf a4 g a2. bf4) | a\longa*1/2
+        a1 g2.( a4 | bf c d2. c4 bf2 ~ | bf a4 g a2. bf4) | a\longa*1/2
         \bar "||" c1 c1 ~ | c2 c a bf | g g r2 c | 
     % --- page ---
     c2 a bf c | c a bf c | d( g,) c1 | R\breve | r2 a f g | a bf c2. bf4 | 
@@ -158,7 +158,7 @@ tenorLyricsVI = \lyricmode {
     Fug -- gi fug -- gi cor mi -- o,
     L'in -- gra -- t'e crud' A -- mo -- re,
     Che trop -- p'è gran -- d'er -- ro -- re,
-    Far -- si~un cie -- co fan -- ciul sì al -- to~id -- di -- o, __
+    Far -- si~un cie -- co fan -- ciul sì __ al -- to~id -- di -- o,
         sì al -- to~id -- di -- o.
 
     Co -- no -- sci~il tem -- po per -- so,
