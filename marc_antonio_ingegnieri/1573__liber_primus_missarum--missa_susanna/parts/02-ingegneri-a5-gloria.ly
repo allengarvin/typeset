@@ -41,11 +41,11 @@ cantusII = \relative c'' {
     
     c2 bf | a g \[ c1( | a) \] g2 bf | a g g1 ~ | g2 g fs1 | r2 d'1 g2 ~ |
         g e e1 ~ | e f ~ | f2 d d1 | d1.( c4 b | c2) g d'1 |
-        \time 3/2 b1. | R1.*2 | d2 d d | cs1 cs2 |
+        \time 3/2 \threeFromBreve b1. | R1.*2 | d2 d d | cs1 cs2 |
 
     d1. | e2 e e | f1 f2 | d1. | R1.*2 | d2 d2. d4 | c2 c c | bf1 a2 |
         f' f2. f4 | e2 e e | d1 c2 | d d2. d4 | c2 c c | bf1 a2 |
-        \fourTwoCutTime \[ g\breve( d') \] | b\longa*1/2
+        \fourTwoCutTime \breveFromThree \[ g\breve( d') \] | b\longa*1/2
     \bar "|."
 }
 
@@ -145,11 +145,12 @@ altusII = \relative c' {
 
     c1 ~ | c2 c c a ~ | a bf1 bf2 | a a1 d,2 | 
         e4\melisma\ficta f g2. fs8[ e] fs!2\unficta\melismaEnd |
-        \time 3/2 | g1. | a | a1 a2 | f1 g2 | a1. ~ a ~ | a  | R |
+        \time 3/2 \threeFromBreve | g1. | a | a1 a2 | f1 g2 | a1. ~ a ~ | a  | R |
         bf2 bf2. bf4 | a2 a a | g1 fs2 | a a2. a4 | 
 
     a2 a a | f1 f2 | a1 c2 ~ | c4 c g c2 c4 | a1 a2 | bf2 bf2. bf4 | a2 a a |
-        g1 fs2 | \fourTwoCutTime r1 g ~ | g2( fs4 e fs1) | g\longa*1/2
+        g1 fs2 | \fourTwoCutTime  \breveFromThree
+        r1 g ~ | g2( fs4 e fs1) | g\longa*1/2
     \bar "|."
 }
 
@@ -244,13 +245,14 @@ tenorII = \relative c' {
 
     c2( bf ~ | bf4 a8[ g] a2) bf1 ~ | bf r1 | R\breve | r1 r2 d | d bf c1 ~ |
         c2 c a1 | g g' | e2 e a1 ~ | a2 a a1 | r1 d, ~ | d d | c2. ( bf4 a1) |
-        \time 3/2 g1 r2 | d' d d | cs1 cs2 |
+        \time 3/2 \threeFromBreve g1 r2 | d' d d | cs1 cs2 |
 
     % --- page ---
     d1. | R | d2 d d | cs1 cs2 | d1. | d2 d2. d4 | c2 c c | bf1 a2 | d d2. d4 |
         a2 a a | bf1 f2 | f' a2. a4 | g2 g g | f1 e2 | g f2. d4 |
 
-    f2 f f | d1 d2 | \fourTwoCutTime \[ d1( ef) \] | d\breve~d\longa*1/2
+    f2 f f | d1 d2 | \fourTwoCutTime \breveFromThree 
+        \[ d1( ef) \] | d\breve~d\longa*1/2
     \bar "|."
 }
 
@@ -342,11 +344,13 @@ bassusII = \relative c' {
         R\breve | r1 r2 g' |
     % --- page ---
     d2 ef c1 ~ | c2 c d1 | r1 g | c1. a2 ~ | a a1 d2 ~ | d g, g1 | d1. g2 |
-        \[ c,1( d) \] | \time 3/2 g1. | R | a2 a a | bf1 bf2 | a1. | d,2 d d |
+        \[ c,1( d) \] | \time 3/2 \threeFromBreve
+        g1. | R | a2 a a | bf1 bf2 | a1. | d,2 d d |
         a'1 a2 | d,1. | g2 bf2. bf4 |
 
     f2 f f | g1 d2 | R1.*3 | d2 f2. f4 | c2 c c | d1 a'2 | g bf2. bf4 |
-        f2 f f | g1 d2 | \fourTwoCutTime \[ g1( c, d\breve) \] |
+        f2 f f | g1 d2 | \fourTwoCutTime \breveFromThree 
+        \[ g1( c, d\breve) \] |
         g\longa*1/2
     \bar "|."
 }
@@ -443,12 +447,14 @@ quintusII = \relative c' {
         d) \] g,2 g' | fs g
 
     ef1 ~ | ef2 ef d1 ~ | d\breve | r1 c ~ | c f | d2 d g2. g4 | fs2 fs fs g~|
-        g4( f ef2) d1 | \time 3/2 d2 d d | f1 f2 | e1. | R | e2 e e |
+        g4( f ef2) d1 | \time 3/2 \threeFromBreve 
+        d2 d d | f1 f2 | e1. | R | e2 e e |
         f1 f2 | e1. | a2 a2. a4 |
 
     g2 f f | f1. | d | f2 f2. f4 | e2 e e | d1 c2 | d c2. c4 | c2 c g |
         d' a r | d1 f2 ~ | f4 f c c2 f,4 | \[ bf2( g) \] a |
-        \fourTwoCutTime | \[ b1( \colorBr c2.\colorBrBegin \] b4\colorBrEnd |
+        \fourTwoCutTime \breveFromThree
+        \[ b1( \colorBr c2.\colorBrBegin \] b4\colorBrEnd |
         a\breve) | g\longa*1/2
     \bar "|."
 }
