@@ -27,11 +27,13 @@ cantusII = \relative c'' {
     r2 r4 b e2 e4 d | c b a2 a4 a d2 ~ | d4 c4 b a \[ a1( | g) \] e |
         R\breve*2 | r1 r2 c'4 c | c2 c r2 c4 c |
         \invisibleTime\time 2/2 s1*0\raisedTwoTwoTime c2 c | 
-        \singleTime\time 3/2 R1.*2 | b1 b2
+        \singleTime\time 3/2 R1.*4 | b1 b2
 
     % --- page ---
     c1 b2 | c d1 | \fourTwoCutTime e2 e e1 | e2 e d c | c b( c) r4 g |
-        a g a2 g4 e f2 | e1 r1 | \singleTime\time 3/2 e'2
+        a g a2 g4 e f2 | e1 r1 | \invisibleTime\time 2/2 
+        s1*0\raisedTwoTwoTime
+        R1 | \singleTime\time 3/2 e'2
 
     e2 d | e1 r2 | c b1 | a r2 | c b a | g1 r2 | a1 g2 | a1 b2 | c2. b4 c2 |
         b1 d2 | c2. b4 c2 | b1 g2 | a2. g4
@@ -56,14 +58,14 @@ cantusII = \relative c'' {
 
     a4 g r b a g r b8[ b] | a4 g r g g g8[ g] g[ g g g ] |
     \invisibleTime\time 2/2 s1*0\raisedTwoTwoTime
-        g8[ g] g4 r c \singleTime\time 3/2 c2 b1 | c1 g2 
-        \repeat volta 2 {
-        c1 d2 | e1 c2 | 
+        g8[ g] g4 r c \time 6/2 c2 b1 c1 g2  % we write out the repeats
+        c1 d2 e1 c2 | d1 e2 f1 e2 | c1 d2 e1 d2 | c1 b2 c1 g2 |
+        c1 d2 e1 c2 | d1 e2 f1 e2 | c1 d2 e1 d2 | c1 b2 c1. |
+        c1 d2 e1 d2 | c1 b2 c1. 
+        c1 d2 e1 d2 | c1 b2 c1. 
 
-        d1 e2 | f1 e2 | c1 d2 | e1 d2 | c1 b2 | c1.
-        c1 d2 | e1 d2 | 
-        }
-       \alternative { { c1 b2 } { c1.\fermata } } \bar "||"
+        
+         \bar "||"
         \fourTwoCutTime R\breve*5 R\breve | f\breve | e1 d |
         d c | d\breve | r2 a1 a2 | a1.
 
@@ -218,13 +220,18 @@ cantusLyricsII = \lyricmode {
     ¡No se -- a un pun -- to de -- te -- ni -- do,
     Se -- ño -- res, es -- se ba -- tel,
     \ijLyrics
-        esse ba -- tel,
+        es -- se ba -- tel,
     \normalLyrics
         es -- se ba -- tel!
-    ¡Oh, qué ven -- tu -- ra~he te -- ni -- do,
-    pu -- es que pu -- de~en -- trar él,
-    pu -- es que pu -- de~en -- trar él!
-        que él!
+    ¡Oh, qué ven -- tu -- ra he te -- ni -- do,
+    pues que pu -- de~en -- trar en él,
+    pues que pu -- de~en -- trar en él,
+ 
+    ¡Oh, qué
+     ven -- tu -- ra he te -- ni -- do,
+     pues que pu -- de~en -- trar en él,
+     pues que pu -- de~en -- trar en él!
+
     % -- double bar --
 %
 %Gratias agamus Domino Deo nostro.
@@ -368,7 +375,7 @@ altusII = \relative c' {
         g2. f4 e d e2 ~ | e d e1 | R\breve*2 | r1 r2 a4 a | a2 a
 
     r2 a4 a | \invisibleTime\time 2/2 a2 a | \singleTime\time 3/2
-        R1.*2 | gs1 gs2 | a1 gs2 a f1 | \fourTwoCutTime e2 g g1 | g2 g g e |
+        R1.*4 | gs1 gs2 | a1 gs2 | a f1 | \fourTwoCutTime e2 g g1 | g2 g g e |
         g1 g2 r4 e | f e f2 e4 c d2 | e1
 
     r1 | \invisibleTime\time 2/2 r1 | \singleTime\time 3/2 g2 a f | e1 r2 |
@@ -376,7 +383,7 @@ altusII = \relative c' {
         d2. e4 d2 | e1 d2 | d2. e4 d2 |
 
     % --- page ---
-    \fourTwoCutTime e1 e2. e4 | e\breve | R\breve*3 | r1 r2 r4 e |
+    \fourTwoCutTime e1 e2. e4 | e\breve\fermata | R\breve*3 | r1 r2 r4 e |
         e2 e4 g2 g4 d e | f2 e r4 e2 e4 | g g d e f2 e | r2 r4 e d2 b4 c |
 
     d4 d e2 r4 g2 g4 | a2 a4 g2 g4 f2 | g r4 g2 g4 g2 | g4 g g g a1 |
@@ -396,9 +403,99 @@ altusII = \relative c' {
 
     r4 e a, b r4 e8[ e] | a,4 b r c e e8[ e] d[ d e e] | 
         \invisibleTime\time 2/2 d8[ d] e4 r g |
-        \singleTime\time 3/2 a2 g1 | e1 r2 | R1.*11 | r2 r e | a1 a2 | c1 c2 |
+        \time 6/2
+        a2 g1 e1 r2 | R\breve.*5 | r1. r2 r e | a1 a2 c1 c2 | 
+
+        bf1 bf2 c1 b2 | a1 a2 c1 b2 | e, g1 g1. |
+            % written out repeat:
+            a1 a2 c1 b2 | e, g1 g1.\fermata \bar "||"
+
+    \fourTwoCutTime
+    R\breve*5 | R\breve | a\breve | a1 f2 g | a1 a | a\breve | r2 f1 f2 |
+        e1. e2 | g a g1 | a r2
+
+    f2 ~ | f f \[ e1( | f) \] g | g c, | c g'2 e | g1 g ~ | g r2 e ~ |
+        e e g g | e e g1 | e r2 a ~ | a a a1 | f2. e4 d2 c | c bf c1 ~ |
+        c r1 | g'4( e) g( e) 
+
+    c4 a'2 g4 | f2 g r1 | R\breve | r2 r4 e2 e4 e4. e8 | e4 e d2 e r4 g ~ |
+        g g e2 e d4 f ~ | f d d2 d r2 | d4 d g2 r4 a2 g4 ~ | g e f2 g 
+    % --- page 7: ---
+    r2 | R\breve | e2 e g8[ f g a] g4 g ~ | g e e2 e1 | R\breve | 
+        r2 r4 g' e2 g4 e | f d c2 r1 | R\breve | r2 r4 g8[ g] g4 e f g |
+        e1 r1 | r1 c2 d | e f g r4 g | g2 g 
+
+    g4 f8[ g] a4 g ~ | \invisibleTime\time 2/2 g4 a a f \singleTime\time 3/2
+        g1 g2 a g1 | g r2 | R1.*2 | a1 a2 g1 g2 | a1 a2 g1 e2 | r1. c1 c2 |
+        g'1 g2 a f1 | g1. 
+
+    r1. | a1 a2 g1 g2 | a1 a2 g1. | r1. c,1 c2 | g'1 g2 a f1 | g g2 c, f1 |
+        e g2 e g1 | \fourTwoCutTime g1 g | g4 f8[ g] 
+
+    a4 g2 g4 g g8[ g] | g2 g4 g2 c4 a a | g2 g4 g2 f8[ g] a4 a | 
+        g2 r4 e a2 g4 g ~ | g g g f8[ g] a2 a4 a ~ | a a e2 g1 | 
+        r2 d4 d e2. e4 | e2 f e2. d4 | c1
+
+    e4 f g e | f2 e c c4 c | e2 f g1 | g2 g4 g g2. g4 | g2 a g g | 
+        bf2. a4 g f g2 | g r4 g 
+    % --- page ---
+
+    g4 g8[ g] g4 g | % g2 g4 g2 f8[ g] a4 a | 
+    % INSERTING TWO MEASURES HERE from CPDL 
+    g2 g4 g2 c4 a a | g2 g4 g2 f8[ g] a4 a | 
+    % insertion over
         
-    bf1 bf2 | c1 b2 | 
+        g2 r4 e a2 g4 g ~ |
+        g g g g a2 a4 a ~ | a a e2 g g4 g ~ | g g g2 g2. g4 | 
+        g4 f8[ g] a4 a g2 g | bf2. a4 g f g2 | 
+
+    g2 r4 g g g8[ g] g4 g | g2 g4 g2 c4 a a | g2 g4 g2 f8[ g] a4 a |
+        g2 r4 e a2 g4 g ~ | g g g g a2 a4 a ~ | a a e2 g1 |
+
+    r2 g4 g g2 g4 g | g2 a g g | bf2. a4 g f g2 | g1 e4. e8 e4 e | 
+        e e f2 e1 | r1 e4. e8 e4 e |
+
+    f4 e f g c,2 r | r4 e f g c,1 | \singleTime\time 3/2 e1 f2 |
+                      % vvvvv d4. e8 to d2. e4
+        f2. f4 c2 | d2 d2. e4 | e1 g2 | g1 a2 | a1 g2 | a1 g2 | g1 a2 | 
+        a1 g2 | a1
+
+    r2 | 
+        a1 a2 | g1 g2 | a1 a2 | g1. | e1 e2 e1 e2 |
+        e1 e2 d1. e1. | g1 g2 g1 g2 | g1 g2 | r2 e1 |
+        \colorBr g2 \colorBrBegin g g \colorBrEnd | b1. | g ~ | g |
+        \repeat volta 2 {
+        \colorBr g2. \colorBrBegin g4 
+
+    % --- page ---
+                \colorBrEnd e2 ~ | e e1 | g1. ~ | g 
+        }
+        \fourTwoCutTime
+        g2. g4 g g g g | g2 g4 g a1 | g a2 g4 g | a2 g4 g a a g g |
+        a a g g 
+
+    \clef alto f1 | e r2 c ~ | c c d c | d e f1 | c r1 | R\breve | r1 r2 c |
+        e1 f2 e | f d e1 | R\breve | r1 r2 e ~ | e e f e | f d c1 | 
+        R\breve*2 | \repeat volta 2 {
+            \times 2/3 { f2 f c }
+
+    \clef mezzosoprano
+            \times 2/3 { g'2 g g } \times 2/3 { a a e } \times 2/3 { g1 g2 }
+            \times 2/3 { c,1 c2 } \times 2/3 { c2 e1 } | e1 e 
+        }
+         a4 a a a g2. g4 | g4 f g d e2 e | e4 e e b
+
+    b2. b4 | a b c d e2 e | c4. d8 e4. f8 g2. g4 | g fs g d e2 e |
+        g4 g g g g2. g4 | a a a a
+
+    gs1 | a r4 e a2 ~ | a4 gs a2 e4 e a2 | e1 a | a2 a a1 | a2 e g g |
+        f1 e | r2 g g1 | g2 g g e | g1 g 
+    % --- page ---
+    r2 a1 a2 | a a gs1 ~ | gs gs | gs1. e2 | g d e1 ~ | e e | c1. e2 | 
+        f f e\longa*1/2
+        
+        
+
     \bar "|."
 }
 
@@ -594,205 +691,6 @@ altusLyricsII = \lyricmode {
 %        in fal -- sis fra -- tri -- bus.
 }
 
-bassusII = \relative c {
-    \fourTwoCutTime
-    \clef varbaritone
-    \key c \major
-
-    \bar "|."
-}
-
-bassusLyricsII = \lyricmode {
-%%¡Bomba, bomba, y agua fuera!
-%    ¡Va -- yan los car -- gos al mar
-%    que nos y -- mos a -- ne -- gar!
-%    ¡va -- yan,
-%        va -- yan los car -- gos al mar
-%    que nos y -- mos a -- ne -- gar!
-%    ¡Do re -- me -- dio no se~e -- spe -- ra!
-%    ¡do re -- me -- dio no se~e -- spe -- ra!
-%    ¡A l'e -- sco -- ta so -- cor -- red!
-%    ¡a l'e -- sco -- ta so -- cor -- red,
-%        so -- cor -- red!
-%    ¡Vo -- so -- tros id al ti -- món!
-%    ¡Qué~e -- spa -- cio! ¡Cor -- red, cor -- red!
-%    ¿No veis nue -- stra per -- di -- ción?
-%
-%    Es -- sas gú -- me -- nas cor -- tad
-%    por -- que se~a -- mai -- ne la ve -- la.
-%%¡Hazia acá contrapesad!
-%%¡Oh, que la nave se asuela!
-%    ¡Man -- dad ca -- la -- fe -- te -- ar
-%    que qui -- zá da -- rá re -- me -- dio!
-%%¡Ya no ay tiempo ni lugar,
-%%que la nau se abre por medio!
-%%
-%    ¿Qué ha -- re -- mos?
-%    ¿qué ha -- re -- mos?
-%%¿Si aprovechará nadar?
-%    ¡Oh, que~e -- stá tan bra -- vo~el mar,
-%    que to -- dos pe -- re -- çe -- re -- mos!
-%    Pi -- pas y ta -- blas to -- me -- mos.
-%
-%    Mas, tri -- ste yo, ¿que ha -- ré?
-%    Mas, tri -- ste yo, ¿que ha -- ré?
-%    Que yo, que no sé na -- dar, ¡mo -- ri -- ré!
-%    Que yo, que no sé na -- dar, ¡mo -- ri -- ré!
-%        ¡mo -- ri -- ré!
-%
-%    Vir -- gen ma -- dre, yo pro -- me -- to
-%    Re -- zar con ti -- no tus ho -- ras.
-%    Si, Juan, cho~e -- sca -- pas, hier -- mo mo -- ras.
-%    Mon -- ser -- ra -- te lue -- go me -- to.
-%%Yo, triste, ofrezco también,
-%%en saliendo deste lago,
-%%ir descalço a Santiago,
-%    eu yen -- do~a Je -- ru -- sa -- lén,
-%    \ijLyrics
-%    eu yen -- do~a Je -- ru -- sa -- lén.
-%    \normalLyrics
-%%
-%%    ¡San -- ta Vir -- gen de Loreto,
-%    ¡sant Gi -- nés, so -- cor -- red -- nos!
-%    ¡Que me~a -- ho -- go,
-%    %% --- page ---
-%    que me~a -- ho -- go, % santo Dios !
-%    ¡Sant El -- mo, san -- to ben -- di -- to!
-%%¡Oh, virgen de Guadalupe,
-%    nu -- e -- stra mal -- dad no te~o -- cu -- pe.
-%    ¡Se -- ño -- ra de Mon -- ser -- ra -- te,
-%    oý, se -- ño -- ra y gran re -- sca -- te!
-%
-%    ¡Oh gran so -- cor -- ro~y bo -- nan -- ça!
-%    ¡Na -- ve vie -- ne,
-%    na -- ve vie -- ne en que~e -- sca -- pe -- mos!
-%    ¡Al -- le -- gad, al -- le -- gad que pe -- re -- çe -- mos!
-%    ¡So -- cor -- red, no~a -- ya tar -- dan -- ça,
-%      so -- cor -- red,
-%      so -- cor -- red!
-%    ¡No se -- a un pun -- to de -- te -- ni -- do,
-%    Se -- ño -- res, es -- se ba -- tel,
-%    \ijLyrics
-%        esse ba -- tel,
-%    \normalLyrics
-%        es -- se ba -- tel!
-%    ¡Oh, qué ven -- tu -- ra~he te -- ni -- do,
-%    pu -- es que pu -- de~en -- trar él,
-%    pu -- es que pu -- de~en -- trar él!
-%        que él!
-%    % -- double bar --
-%%
-%%Gratias agamus Domino Deo nostro.
-%    Di -- gnum et ju -- stum est,
-%    de tan gran -- de be -- ne -- fi -- cio
-%    % --- page ---
-%    re -- çe -- bi -- do~en e -- ste di -- a.
-%
-%    Can -- te -- mos con a -- le -- grí -- a
-%    To -- dos hoy por su ser -- vi -- cio.
-%    ¡E -- a, e -- a, sus, em -- pe -- ce -- mos!
-%    %Empieça tú, Gil Piçarra,
-%    A ta -- ñer con tu gui -- tar -- ra
-%    Y no -- so -- tros te~a -- yu -- da -- re -- mos.
-%%
-%%Esperad que esté templada.
-%    Tiem -- pla -- la bien, hi de ru -- in.
-%
-%    Din dr -- rin din, din di -- rin din,
-%    ¡A -- ca -- ba, mal -- di -- to, ya!
-%    Din dr -- rin din di -- rin din,
-%    Den den de -- dén,
-%    Din din din
-%    \ijLyrics
-%    din dr -- rin din din din din di -- rin
-%    \normalLyrics
-%        din.
-%%¡Oh, como está destemplada!
-%%¡Acaba, maldito, ya!
-%%Dendén, dendén, dindirindín.
-%%¡Es por demás!
-%%Sube, sube un poco más.
-%%Dendén, dendén, dindirindín.
-%    ¡Muy bien e -- stá!
-%%
-%    An -- de pues, nue -- stro~a -- pel -- li -- do,
-%    el ta -- ñer con el can -- tar
-%    con -- cor -- des en a -- la -- bar
-%    % --- page ---
-%    a Je -- sús re -- zién na -- ci -- do,
-%    a Je -- sús re -- zién na -- ci -- do.
-%%
-%%Dindirindín, dindirindín.
-%    Ben -- di -- to~el que hoy~a ve -- ni -- do
-%    A li -- brar -- nos de~a -- go -- nía,
-%    \ijLyrics
-%    a li -- brar -- nos de~a -- go -- nía.
-%    \normalLyrics
-%    Din din din di -- rin
-%    \ijLyrics
-%    din din di -- rin din din di -- rin din di -- rin den de -- dén,
-%    \normalLyrics
-%
-%    din din din di -- rin din din din din din di -- rin din,
-%%%bendito sea este día
-%%%que nasció el contentamiento.
-%    Re -- me -- dió su~ad -- ve -- ni -- mien -- to mil e -- no -- jos.
-%    Din din din din
-%    \ijLyrics
-%    din di -- rin din din din din
-%    din din din din din din din din din di -- rin din din din din din din din din
-%
-%    din di -- rin din din din di -- rin din din din din din din di -- rin.
-%    \normalLyrics
-%    Ben -- di -- tos sean los o -- jos
-%    Que con pie -- dad nos mi -- ra -- ron,
-%    \ijLyrics
-%        con pie -- dad nos mi -- ra -- ron
-%    \normalLyrics
-%    Y ben -- di -- tos, que~an -- sí~a -- man -- sa -- ron
-%    tal for -- tu -- na.
-%%
-%    No que -- de con -- go -- xa~al -- gu -- na,
-%    De -- mos pris -- sa,
-%        pris -- sa~al na -- ve -- gar,
-%            al na -- ve -- gar
-%    poys o ven -- to nos ha del le -- var.
-%    ¡Gar -- ri -- do ven -- da -- val!
-%    \ijLyrics
-%    ¡Gar -- ri -- do ven -- da -- val!
-%    \normalLyrics
-%    No se vio bo -- nan -- ça~i -- gual
-%    so -- bre tan gran de -- sa -- tien -- to.
-%    Bien a -- yas tú, vien -- to,
-%    que~an -- sí me a -- yu -- das con -- tra for -- tu -- na.
-%%
-%    Gri -- tá, gri -- tá,
-%    \ijLyrics
-%        gri -- tá,
-%    \normalLyrics
-%        to -- dos a u -- na gr -- itá:
-%    ¡Bo -- nan -- ça, bo -- nan -- ça, sal -- va -- men -- to,
-%        sal -- va -- men -- to!
-%    Mie -- do~o -- vi -- stes al tor -- men -- to,
-%    % --- page ---
-%%no tuviendo ya sperança.
-%%
-%    ¡O mo -- di -- ce fi -- de -- i!
-%    El -- lo~e -- stá muy bien an -- sí.
-%    Ga -- la es to -- do a na -- die hoy due -- la
-%    la ga -- la chi -- ne -- la,
-%    de la chi -- na ga -- la, la ga -- la chi -- ne -- la,
-%    Mu -- cho pro -- me -- te -- mos en tor -- men -- ta fie -- ra
-%    mas, lue -- go~o -- fre -- ce -- mos in -- fi -- ni -- ta çe -- ra.
-%    De la chi -- na ga -- la, la ga -- la chi -- ne -- la.
-%
-%%¡A Dios, señores!
-%%¡A la vela!
-%    Nam si pe -- ri -- cu -- la sunt in ma -- ri,
-%        pe -- ri -- cu -- la sunt in ter -- ra
-%    y pe -- ri -- cu -- la in fal -- sis fra -- tri -- bus,
-%        in fal -- sis fra -- tri -- bus.
-}
 
 tenorII = \relative c' {
     \fourTwoCutTime
@@ -994,11 +892,114 @@ tenorLyricsII = \lyricmode {
 %        in fal -- sis fra -- tri -- bus.
 }
 
-bassusII = \relative c {
-    \fourTwoCutTime
-    \clef varbaritone
+bassusIIincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c4"
     \key c \major
 
+    a2.
+}
+
+bassusII = \relative c' {
+    \fourTwoCutTime
+    \clef tenor
+    \key c \major
+
+    R\breve*3 | a2. a4 a2 a | g1 f | e r2 e4 e | e2 e e e | f\breve |
+        a2. a4 a2 a | g1 f | e r2 
+
+    e4 e | e2 e e e | f1 a ~ | a2 g f e | f e d1 | c\breve | r1 c' ~ |
+        c2 b a g | a g f1 | e\breve | r1 r2 e4 e | a g
+
+    a4 g e1 | r1 r2 e4 e | a g a g e1 | r2 g4 g e1 | r1 r2 e | a a4 g f2 e |
+        d1 r4 a' d2 | d4 c b a g2 
+
+    % --- page ---
+    g2 | g1 g2 g g g f1 ~ | f r1 | R\breve | r2 e4 e a2. g4 | f e d d' d c bf2|
+        a2. g4 f1 | e r1 | R\breve*2 | r1 r4 a2 e4 | a g 
+
+    a4 f e2 r4 a ~ | a g c4. c8 c4 b g8([ a b c] | d4 c2) b4 c2 a4 a |
+        a2 a r2 f4 f | \invisibleTime\time 2/2 f2 f | 
+        \singleTime \time 3/2 c'1 b2 |
+
+    a1 g2 | a f1 | e1. | R1.*3 | \fourTwoCutTime r2 c c1 | 
+        c2 c g' a | g1 c, | R\breve | r4 e a g a2 g4 e | \invisibleTime
+        \time 2/2 f2 e \singleTime\time 3/2 R1.*4 | a2 e f |
+
+    e1 r2 | d e1 | a1. | R1.*3 | r2 r e | f2. e4 f2 | e1 g2 | f2. e4 f2 |
+        \fourTwoCutTime e1 c2. d4 | e\breve\fermata
+        e2 e4 a2 s4 a gs | a2 e
+
+    r2 a | c2. b4 a2 g4 g | f1 e | R\breve*2 | r1 r2 a | g e4 c' b2 g4 c |
+        b b c2 r4 c2 c4 | f,2 f4 c'2 b4 a2 | g r4 c2 c4 
+
+    % --- page ---
+    c2 | c4 c c c f,1 | \singleTime\time 3/2 c'1 r2 | R1.*2 | r2 r c, |
+        c2. c4 c'2 | f, g1 | \fourTwoCommonTime c,2 r2 c'8[ c c c] c[ c] c4 |
+        c2 c4 f,
+
+    c'2 r | r2 e,4 f g g a f | e2 r4 g8[ g] f4 e r4 g8[ g] | f4 e r c c2 c4 e |
+        f e d2 c1 | c'4. c8
+
+    c8[ c c c] c2 c | r4 c c f, c'2 r2 | r1 r4 c c c8[ c] | 
+        c4 c d2 a4 a a a8[ a] | a4 a bf2 f1 |
+
+    r2 f1 f2 | f f g a | g1 c,2 r4 c' | g8[ g] c4 g8[ g] c4 g2 r4 g8[ g] |
+        f4 e r4 g8[ g] f4 e r c |
+
+    f2 g a1 | g r4 g8[ g] c4 g8[ g] | c4 c, f1 g2 | a1 g2 r4 a8[ a] |
+        g4 c f, a g c, a' d, | g2 a4 d,
+    % --- page ---
+    g2 r4 e | f e r e f e r e8[ e] | f4 e r g c,4 c8[ c] g'[ g c, c] |
+        \invisibleTime\time 2/2
+        g'[ g] c,4 r c' |\time 6/2
+        f,2 g1
+
+    c,1. | R\breve.*5 | r1. r2 r c' | a1 d2 c1 a2 | b1 g2 f1 g2 |
+        a1 d2 c1 g2 | a g1 c,1. | 
+    % repeat:
+        a'1 d2 c1 g2 | a g1 c,1.\fermata | R\breve*5 R\breve |
+        d\breve | a'1 bf | a a | d,\breve | 
+
+    r2 d1 d2 | a'1. a2 | g f c'1 | f, r2 f ~ | f f a1 ~ | a g | g f ~ |
+        f2 f g( a | g1) c, ~ | c\breve ~ | c ~ | c1 r2 c ~ | c c f1 ~ |
+        f f | f2 e d1 | c\breve | c'4
+
+    g4 c g c1 | R\breve | r1 r4 c c2 | g a4 g2 e4 f2 | e r4 e2 e4 e4. e8 |
+        e4 e g2 c, r4 c' ~ | c g a2 e g4 f ~ | f g
+
+    d2 g1 | r2 g4 g c2 c4 b ~ | b c a2 g r | R\breve | | c2 c c1 | c2 c bf1 |
+        R\breve | r2 r4 g a2 g4 c, | f g c,2 r1 | c'2 c bf1 |
+
+    % --- page ---
+    R\breve*2 | r2 g a b | c d g, r4 g | c2 g c f,4 c' ~ | 
+        \invisibleTime\time 2/2 c4 f, a2 | \singleTime\time 3/2
+        g1 c2 | f, g1 | c, r2 | c'1 g2 | c1 c2 | f,1 f2 | c'1
+
+    c2 | R1. | c,1 c2 | g'1 g2 | a f1 | g1. | R | c,1 g'2 | c,1 c'2 | 
+        f,1 f2 | c'1. | R | c,1 c2 | g'1 g2 | a f1 | g1 g2 | c d1 | e2 c b |
+
+    c2 f, d | c1 g'2 | a g1 | \fourTwoCutTime c,1 c | r1 c'2 g | 
+        c c4 c2 c4 f, f | c'2 c4 c2 c4 f, f | c'2 r4 c, f2 c4 c' ~ |
+        
+
+    c4 c c c a2 a4 a ~ | a a a2 g g4 g ~ | g g g2 c,1 | c2 d e2. e4 | 
+        e2 f e c | f g a2. a4 | a2 a g1 | g2 g4 g 
+
+    c2. c4 | c2 f, c' c | bf2. c4 g a g2 | c, r4 c' c c8[ c] g4 g |
+        c2 c4 c2 c4 f, f | c'2 c4 c2
+    % --- page ---
+    c4 f, f | c'2 r4 c, f2 c4 c' ~ | c c c c a2 a4 a ~ | a a a2 g g4 g ~|
+        g g g2 c2. c4 | c c8[ c] f,4 f c'2 c |
+
+    bf2. c4 g a g2 | c, r4 c' c c8[ c] g4 g | c2 c4 c2 c4 f, f |
+        c'2 c4 c2 c4 f, f | c'2 r4 c, f2 c4
+
+    c' ~ | c c c c a2 a4 a ~ | a a a2 g1 | r2 g4 g c2 c4 c | c2 f, c' c |
+        bf2. c4 g a g2 | c,\breve | r1 e4. e8 e4
+
+    e4 | f e f g c,1 | r1 r4 c f g | c,2 r r1 | 
+        
     \bar "|."
 }
 
@@ -1193,7 +1194,6 @@ bassusLyricsII = \lyricmode {
 %    y pe -- ri -- cu -- la in fal -- sis fra -- tri -- bus,
 %        in fal -- sis fra -- tri -- bus.
 }
-
 cantusIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
@@ -1214,11 +1214,11 @@ altusIIincipitVoice = <<
 %        \tenorIIincipit
 %    >>
 %>>
-%
-%bassusIIincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \bassusIIincipit
-%    >>
-%>>
-%
+
+bassusIIincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \bassusIIincipit
+    >>
+>>
+
