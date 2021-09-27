@@ -1,4 +1,4 @@
-% Dolci spoglie, felici e care tanto,
+% Dolci spoglie, felice e care tanto,
 % mentr’al ciel piacqu’e fui da lui gradita,
 % prendet’or questa miserabil’ vita
 % e qui fin abbia il duol, le pen’e’l pianto.
@@ -58,7 +58,7 @@ cantoXVII = \relative c' {
 }
 
 cantoLyricsXVII = \lyricmode {
-    Dol -- ci spo -- glie, fe -- lic' __ e ca -- re tan -- to,
+    Dol -- ci spo -- glie, fe -- li -- c'e ca -- re tan -- to,
     Men -- tre~al ciel piac -- qu’e fui da lui gra -- di -- ta,
     Pren -- de -- t’or que -- sta mi -- se -- ra -- bil’ vi -- ta
     e qui fin ab -- bia~il duol, le pe -- n’e’l pian -- to,
@@ -75,7 +75,7 @@ cantoLyricsXVII = \lyricmode {
     \ijLyrics
     di ch’an -- cor mi glo -- ri’e van -- to.
     \normalLyrics
-    Fe -- lic', ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
+    Fe -- li -- c'ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
     se __ le na -- vi tro -- ia -- ne~il no -- stro li -- do
     con quel cru -- del mai non a -- ves -- ser vi -- sto.
     Co -- sì dis -- se, pre -- men -- d’al pet -- to Di -- do la __ spa -- da,
@@ -123,7 +123,7 @@ altoXVII = \relative c' {
 }
 
 altoLyricsXVII = \lyricmode {
-    Dol -- ci spo -- glie, fe -- lic' e ca -- re tan -- to,
+    Dol -- ci spo -- glie, fe -- li -- c'e ca -- re tan -- to,
     Men -- tre~al ciel piac -- qu’e fui da lui gra -- di -- ta,
     Pren -- de -- t’or que -- sta mi -- se -- ra -- bil’ vi -- ta
     e qui fin ab -- bia~il duol, __ le pe -- n’e’l pian -- to,
@@ -139,7 +139,7 @@ altoLyricsXVII = \lyricmode {
     Vist’ ho __ for -- ni -- ta la ter -- ra
     di ch’an -- cor mi glo -- ri’e van -- to,
     di ch’an -- cor mi glo -- ri’e van -- to.
-    Fe -- lic', ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
+    Fe -- li -- c'ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
     se __ le na -- vi tro -- ia -- ne~il no -- stro li -- do
     con quel cru -- del mai non a -- ves -- ser vi -- sto.
     Co -- sì dis -- se, pre -- men -- d’al pet -- to Di -- do la spa -- da,
@@ -188,7 +188,7 @@ tenoreXVII = \relative c' {
 }
 
 tenoreLyricsXVII = \lyricmode {
-    Dol -- ci spo -- glie, fe -- lic' e ca -- re tan -- to,
+    Dol -- ci spo -- glie, fe -- li -- c'e ca -- re tan -- to,
     Men -- tre~al ciel piac -- qu’e fui da lui gra -- di -- ta,
     Pren -- de -- t’or que -- sta mi -- se -- ra -- bil’ vi -- ta
     e qui fin ab -- bia~il duol, 
@@ -209,7 +209,7 @@ tenoreLyricsXVII = \lyricmode {
     \ijLyrics
     di ch’an -- cor mi glo -- ri’e van -- to.
     \normalLyrics
-    Fe -- lic', ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
+    Fe -- li -- c'ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
     se le na -- vi tro -- ia -- ne~il no -- stro li -- do __
     con quel cru -- del,
     \ijLyrics
@@ -258,7 +258,7 @@ bassoXVII = \relative c {
 }
 
 bassoLyricsXVII = \lyricmode {
-    Dol -- ci spo -- glie, fe -- lic' __ e ca -- re tan -- to,
+    Dol -- ci spo -- glie, fe -- li -- c'e ca -- re tan -- to,
     Men -- tre~al ciel piac -- qu’e fui da lui gra -- di -- ta,
     Pren -- de -- t’or que -- sta mi -- se -- ra -- bil’ vi -- ta
     e qui fin ab -- bia~il duol, le pe -- n’e’l pian -- to.
@@ -269,7 +269,7 @@ bassoLyricsXVII = \lyricmode {
     Ven -- di -- cat’ ho Si -- che -- o,
     Vist’ ho for -- ni -- ta la ter -- ra
     di ch’an -- cor mi glo -- ri’e van -- to,
-    Fe -- lic', ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
+    Fe -- li -- c'ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
     se le na -- vi tro -- ia -- ne~il no -- stro li -- do
     con quel cru -- del mai non a -- ves -- ser vi -- sto.
     Co -- sì dis -- se, pre -- men -- d’al pet -- to Di -- do la spa -- da,

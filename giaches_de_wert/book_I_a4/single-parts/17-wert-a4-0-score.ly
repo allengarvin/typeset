@@ -81,17 +81,17 @@
     \markup {
         \fill-line {
             \column {
-                \line { Dolci spoglie, felici e care tanto, }
-                \line { mentr’al ciel piacqu’e fui da lui gradita, }
-                \line { prendet’or questa miserabil’ vita }
+                \line { Dolci spoglie, felice e care tanto, }
+                \line { mentre al ciel piacque e fui da lui gradita, }
+                \line { prendete or questa miserabile vita }
                 \line { e qui fin abbia il duol, le pen’e’l pianto. }
                 \line { Viss’ho’l mio corso }
                 \line { ed ho finito quanto mi die natura; }
                 \line { or vo’ nell’altra vita. }
-                \line { Vendicat’ho Sicheo, }
+                \line { Vendicate ho Sicheo, }
                 \line { vist’ho fornita la terra }
                 \line { di ch’ancor mi glori’e vanto. }
-                \line { Felice, ahimè, troppo felic’er’io }
+                \line { Felice, ahimè, troppo felice er’io }
                 \line { se le navi troiane il nostro lido }
                 \line { con quel crudel mai non avesser visto. }
                 \line { Così disse, premend’al petto Dido la spada, }
