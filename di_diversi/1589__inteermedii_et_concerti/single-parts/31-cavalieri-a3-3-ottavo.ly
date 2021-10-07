@@ -41,16 +41,107 @@
 \include "../parts/49-cavalieri-a3-risposta.ly"
 
 \book {
-    \bookOutputName "31-cavalieri--o_che_nuovo_miracolo-a_3_coro"
+    \bookOutputName "31-cavalieri--o_che_nuovo_miracolo-coro_ii_a_3"
     \bookOutputSuffix "--3-ottavo--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 1"
             \global 
             \ottavoXXXI
         >>
                 \addlyrics { \ottavoLyricsXXXI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \set Staff.instrumentName = #"Risposta 2"
+            \global 
+            \ottavoXXXIII
+        >>
+                \addlyrics { \ottavoLyricsXXXIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \set Staff.instrumentName = #"Risposta 3"
+            \global 
+            \ottavoXXXV
+        >>
+                \addlyrics { \ottavoLyricsXXXV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \set Staff.instrumentName = #"Risposta 4"
+            \global 
+            \ottavoXXXVII
+        >>
+                \addlyrics { \ottavoLyricsXXXVII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \set Staff.instrumentName = #"Risposta 5"
+            \global 
+            \ottavoXXXIX
+        >>
+                \addlyrics { \ottavoLyricsXXXIX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \set Staff.instrumentName = #"Risposta 6"
+            \global 
+            \ottavoXLI
+        >>
+                \addlyrics { \ottavoLyricsXLI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \set Staff.instrumentName = #"Risposta 7"
+            \global 
+            \ottavoXLIII
+        >>
+                \addlyrics { \ottavoLyricsXLIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \set Staff.instrumentName = #"Risposta 8"
+            \global 
+            \ottavoXLV
+        >>
+                \addlyrics { \ottavoLyricsXLV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \set Staff.instrumentName = #"Risposta 9"
+            \global 
+            \ottavoXLVII
+        >>
+                \addlyrics { \ottavoLyricsXLVII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \set Staff.instrumentName = #"Risposta 10"
+            \global 
+            \ottavoXLIX
+        >>
+                \addlyrics { \ottavoLyricsXLIX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

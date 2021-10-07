@@ -6,7 +6,7 @@
 % O luce alm'e gradita,
 % Chi mi darà più vita?
 % Deh se pietad'ha'l ciel della mia sorte,
-% O mi rend'il mio sol o dia mi morte.
+% O mi rend'il mio sol o mi dia morte.
 
 cantoXXVIIincipit = \relative c' {
     \time 2/2

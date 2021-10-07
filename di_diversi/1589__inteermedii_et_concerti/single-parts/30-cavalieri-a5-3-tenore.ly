@@ -48,6 +48,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 1"
             \global 
             \tenoreXXX
         >>
@@ -57,6 +58,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 2"
             \global 
             \tenoreXXXII
         >>
@@ -65,6 +67,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 3"
             \global 
             \tenoreXXXIV
         >>
@@ -73,6 +76,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 4"
             \global 
             \tenoreXXXVI
         >>
@@ -81,6 +85,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 5"
             \global 
             \tenoreXXXVIII
         >>
@@ -89,6 +94,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 6"
             \global 
             \tenoreXL
         >>
@@ -97,6 +103,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 7"
             \global 
             \tenoreXLII
         >>
@@ -105,6 +112,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 8"
             \global 
             \tenoreXLIV
         >>
@@ -113,6 +121,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 9"
             \global 
             \tenoreXLVI
         >>
@@ -121,6 +130,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 10"
             \global 
             \tenoreXLVIII
         >>
@@ -129,6 +139,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
+            \set Staff.instrumentName = #"Ballo 11"
             \global 
             \tenoreL
         >>
@@ -143,6 +154,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 1"
             \global 
             \tenoreXXX
         >>
@@ -152,6 +164,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 2"
             \global 
             \tenoreXXXII
         >>
@@ -160,6 +173,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 3"
             \global 
             \tenoreXXXIV
         >>
@@ -168,6 +182,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 4"
             \global 
             \tenoreXXXVI
         >>
@@ -176,6 +191,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 5"
             \global 
             \tenoreXXXVIII
         >>
@@ -184,6 +200,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 6"
             \global 
             \tenoreXL
         >>
@@ -192,6 +209,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 7"
             \global 
             \tenoreXLII
         >>
@@ -200,6 +218,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 8"
             \global 
             \tenoreXLIV
         >>
@@ -208,6 +227,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 9"
             \global 
             \tenoreXLVI
         >>
@@ -216,6 +236,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 10"
             \global 
             \tenoreXLVIII
         >>
@@ -224,6 +245,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 11"
             \global 
             \tenoreL
         >>

@@ -37,6 +37,7 @@ cantusIV = \relative c'' {
         ef d\colorBrEnd c2. d4 ef2) | d\longa*1/2
 
     \bar "||"
+    s1*0 ^\markup { \italic { à 3 (cantus, altus, tenor) } }
     R\breve | d1 c2 d ~ | d4( c bf2) a d | c d r d ~ | d c d2.( c4 |
         bf a g2. a4 bf2) | a g a1 | g2 bf a bf ~ | bf4( a g2) f f' |
 
@@ -130,6 +131,7 @@ altusIV = \relative c'' {
     % --- page ---
     g2 c1( b4 a | b1) b\longa*1/4 \bar "||"
 
+    s1*0 #(if *is-parts* #{<>^\markup { \italic { à 3 (cantus, altus, tenor) } }  #})
     d,1 c2 d ~ | d4( e f g a2) f | g f2.( g4 a f | g a bf2) a a | 
         g a2.( g4 f2) | d ef d4\melisma c d e | f d
 
@@ -217,6 +219,7 @@ tenorIV = \relative c'' {
     a1 ~ | a2 f r f' ~ | f g a2.( d,4) | d2 d f1 ~ | f2 d d d | f2.( g4 a2) g |
         r2 g ef1 | d r2 d | bf g r d' | bf1 g | bf1. c2 ~ |
         c\ficta ef2.\melisma d4 c2\melismaEnd\unficta d\longa*1/2\bar "||"
+    s1*0 #(if *is-parts* #{<>^\markup { \italic { à 3 (cantus, altus, tenor) } }  #})
     R\breve | bf1 a2 bf ~ | bf4( c d e f2) d | ef d2.( e4 f d | 
         e2 f2. e4 d2) | g, c bf2.( c4 | d2 ef) d1 | r2 g f g ~ |
         g4( f ef2) 

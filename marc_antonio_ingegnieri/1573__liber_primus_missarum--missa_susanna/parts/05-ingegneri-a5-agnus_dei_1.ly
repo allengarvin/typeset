@@ -6,9 +6,9 @@ cantusVincipit = \relative c'' {
     g1.
 }
 
+% cantus: checked against source
 cantusV = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     R\breve | r1 g ~ | g2 g \[ bf1 ~| bf( c ~ | c) \] d2 d | d1 d2 d |
@@ -23,6 +23,14 @@ cantusV = \relative c'' {
 }
 
 cantusLyricsV = \lyricmode {
+    A -- gnus De -- i,
+        qui tol -- lis pec -- ca -- ta mun -- di,
+        qui tol -- lis pec -- ca -- ta mun -- di,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis.
 }
 
 altusVincipit = \relative c' {
@@ -33,9 +41,9 @@ altusVincipit = \relative c' {
     d1.
 }
 
+% altus: checked against source
 altusV = \relative c' {
     \fourTwoCutTime
-    \clef mezzosoprano
     \key f \major
 
     R\breve | d1. d2 | bf\breve | g1 r1 | g' bf ~ | bf bf | bf a2 f | 
@@ -43,12 +51,20 @@ altusV = \relative c' {
         bf bf1 bf2 |
 
     bf2 bf a1 ~ | a a | r2 a1 a2 | fs fs g1 ~ | g e | f2. f4 f2 g | a\breve |
-        a1 r1 | a d, | g fs2 g ~ | g4( f ef2) d1 ~ | d g2. g4 | g1 fs2 g ! |  
+        a1 r1 | a d, | g fs2 g ~ | g4( f ef2) d1 ~ | d g2. g4 | g1 fs2 g ~ |
         g4( c, g'2. fs8[ e] fs2) | g\longa*1/2
     \bar "|."
 }
 
 altusLyricsV = \lyricmode {
+    A -- gnus De -- i,
+        qui tol -- lis pec -- ca -- ta mun -- di,
+        qui tol -- lis pec -- ca -- ta mun -- di,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis, __
+        mi -- se -- re -- re no -- bis.
 }
 
 tenorVincipit = \relative c' {
@@ -59,13 +75,13 @@ tenorVincipit = \relative c' {
     d1.
 }
 
+% tenor: checked against source
 tenorV = \relative c' {
     \fourTwoCutTime
-    \clef alto
     \key f \major
 
     d1. d2 | \[ bf1( g) \] | d'\breve | ef1. ef2 | c1 g2 d' | d1 d2 d |
-        bf d c bf ~ | bf4( a a g8[ a] bf4 c d e | f\breve) | f1 r1 | R\breve |
+        bf d c( bf ~ | bf4 a a g8[ a] bf4 c d e | f\breve) | f1 r1 | R\breve |
         f1. f2 |
 
     g2 g e1 | d r2 d ~ | d d cs cs | d1 g, | R\breve*2 | r2 f'1 d2 | 
@@ -75,6 +91,14 @@ tenorV = \relative c' {
 }
 
 tenorLyricsV = \lyricmode {
+    A -- gnus De -- i,
+    A -- gnus De -- i,
+        qui tol -- lis pec -- ca -- ta mun -- di,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis.
 }
 
 bassusVincipit = \relative c' {
@@ -85,13 +109,13 @@ bassusVincipit = \relative c' {
     g1.
 }
 
+% bassus: checked against source
 bassusV = \relative c' {
     \fourTwoCutTime
-    \clef varbaritone
     \key f \major
 
     R\breve*2 | g1. g2 | ef2.( d4 c1 ~ | c) g'2 g | bf1 bf2 bf, | ef bf f'1 ~|
-        f bf, | R\breve*3 | r2 bf'1 bf2 | g g a1 | d,\breve ~ | d1 r1 | 
+        f bf, | R\breve R\breve*2 | r2 bf'1 bf2 | g g a1 | d,\breve ~ | d1 r1 | 
         r1 d' ~ | d2 d cs cs |
 
     d2.( c4 bf1) | a2 d,1 d2 | cs d a'1 | d, g ~ | g2 g d g | \[ c,1( d) \] |
@@ -100,6 +124,13 @@ bassusV = \relative c' {
 }
 
 bassusLyricsV = \lyricmode {
+    A -- gnus De -- i,
+        qui tol -- lis pec -- ca -- ta mun -- di,
+        mi -- se -- re -- re no -- bis, __
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis.
 }
 
 quintusVincipit = \relative c' {
@@ -110,9 +141,9 @@ quintusVincipit = \relative c' {
     g1
 }
 
+% quintus: checked against source
 quintusV = \relative c' {
     \fourTwoCutTime
-    \clef alto
     \key f \major
 
     r1 g | g2 bf2.( c4 d2 ~ | d) g, g'1 ~ | g g | ef1 d2 g | f1 f2 f |
@@ -127,6 +158,16 @@ quintusV = \relative c' {
 }
 
 quintusLyricsV = \lyricmode {
+    A -- gnus De -- i,
+    A -- gnus De -- i,
+        qui tol -- lis pec -- ca -- ta mun -- di,
+        qui tol -- lis pec -- ca -- ta mun -- di,
+        mi -- se -- re -- re no -- bis, __
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis.
 }
 
 cantusVincipitVoice = <<

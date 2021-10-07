@@ -42,7 +42,7 @@
 \include "../parts/49-cavalieri-a3-risposta.ly"
 
 \book {
-    \bookOutputName "31-cavalieri--o_che_nuovo_miracolo-a_3_coro"
+    \bookOutputName "31-cavalieri--o_che_nuovo_miracolo-coro_ii_a_3"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -81,6 +81,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 1"
         }
     }   
 
@@ -123,6 +126,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Risposta 2"
+        }
     }   
 
 
@@ -163,6 +169,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 3"
         }
     }   
 
@@ -205,6 +214,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Risposta 4"
+        }
     }   
 
 
@@ -246,6 +258,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Risposta 5"
+        }
     }   
 
 
@@ -286,6 +301,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 6"
         }
     }   
 
@@ -330,6 +348,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Risposta 7"
+        }
     }   
 
 
@@ -370,6 +391,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 8"
         }
     }   
 
@@ -412,6 +436,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Risposta 9"
+        }
     }   
 
     \score {
@@ -451,6 +478,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 10"
         }
     }   
     \markup {

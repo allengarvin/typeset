@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 14.5)
+#(set-global-staff-size 14.4)
 
 \header {
     % Things that change per piece:
@@ -54,7 +54,7 @@
 \include "../parts/49-cavalieri-a3-risposta.ly"
 
 \book {
-    \bookOutputName "29-cavalieri--o_che_nuovo_miracolo-cori_1_e_2"
+    \bookOutputName "29-cavalieri--o_che_nuovo_miracolo-tutti_cori"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -110,6 +110,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 1"
+        }
     }   
     \score {
          <<
@@ -148,6 +151,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 1"
         }
     }   
 
@@ -205,6 +211,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 2"
+        }
     }   
     \score {
          <<
@@ -243,6 +252,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 2"
         }
     }   
 
@@ -300,6 +312,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 3"
+        }
     }   
     \score {
          <<
@@ -338,6 +353,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 3"
         }
     }   
     \score {
@@ -394,6 +412,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 4"
+        }
     }   
 
     \score {
@@ -433,6 +454,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 4"
         }
     }   
     \score {
@@ -483,6 +507,9 @@
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
+        \header {
+            piece = "Ballo 5"
+        }
         \midi {
             \context {
                 \Score
@@ -527,6 +554,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 5"
         }
     }   
     \score {
@@ -583,6 +613,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 6"
+        }
     }   
     \score {
          <<
@@ -621,6 +654,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 6"
         }
     }   
     \score {
@@ -677,6 +713,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 7"
+        }
     }   
 
     \score {
@@ -716,6 +755,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 7"
         }
     }   
     \score {
@@ -772,6 +814,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 8"
+        }
     }   
     \score {
          <<
@@ -810,6 +855,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 8"
         }
     }   
     \score {
@@ -866,6 +914,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 9"
+        }
     }   
     \score {
          <<
@@ -904,6 +955,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 9"
         }
     }   
     \score {
@@ -960,6 +1014,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 10"
+        }
     }   
     \score {
          <<
@@ -998,6 +1055,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Risposta 10"
         }
     }   
     \score {
@@ -1053,6 +1113,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Ballo 11"
         }
     }   
     \markup {

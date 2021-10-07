@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Susanna fayre sometime of love"
-    subtitle = "Svsann' unjour."
+    subtitle = "Svsann' unjour"
 
     composer = "Alfonso Ferrabosco, Sr. (1543-1588)"
     instrument = "Susanna fayre (score)"

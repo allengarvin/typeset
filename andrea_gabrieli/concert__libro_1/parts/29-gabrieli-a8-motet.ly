@@ -123,7 +123,7 @@ altusXXIX = \relative c' {
         R\breve | r2 g2. g4 g2 | f d d1 | b r1 | r1 r2 c | d e
 
     f1 | f1 r1 | r2 f f1 | d2 ef d d | c g g c ~ | c a r1 | r1 r2 a | a d c1 |
-        c4 c c2 a4 c c bf |
+        c4 c c2 a4 c c\ficta b\unficta |
 
     c2 g r1 | r4 a bf f c'2 a4 f' | f2 f r4 a, d f | e2 f g1 ~ | g2 f ef1 |
         d r2 bf ~ | bf c g1 | a2 d
@@ -398,17 +398,17 @@ quintusXXIXincipit = \relative c' {
     c\breve
 }
 
+% quintus: checked against source
 quintusXXIX = \relative c' {
     \fourTwoCommonTime
-    \clef tenor
     \key f \major
 
     c\breve | a1 r1 | c\breve | a1 r1 | r2 a f2. f4 | f2 c' d a | c2. c4 a1 |
         r1 f | f2 bf1 g2 |
 
     % --- page ---
-    R\breve*2 | r1 r2 g ~ | g g a d, | g2.( f4 e2) g | d g4 f e d c2 ~ |
-        c f d f | f2. f4 f1 | R\breve | r2 c' d2. c4 | bf2 bf
+    R\breve*2 | r1 r2 g ~ | g g a d, | g2.( f4 e2) g | d g4( f e d c2 ~ |
+        c) f d f | f2. f4 f1 | R\breve | r2 c' d2.( c4 | bf2) bf
 
     c2 c | c4 c d4. d8 c1 | r2 f,1 a2 | g g1 c,2 | g'4( a bf c d2) g, |
         R\breve | r2 g b1 | c1. a2 | a c c1 |
@@ -419,73 +419,84 @@ quintusXXIX = \relative c' {
     a4.( g8 f4) e | f2 d r r4 a' | a f2 c'4 a8([ g f e] d4) a' | c2 a r1 |
         R\breve | r2 d,1 f2 | f1 d | R\breve | r1
 
-    r2 a ~ | a4 a a2 d, a' | bf a g1 | g2. g4 a1 | bf2 f g2. c,4 |
+    r2 a' ~ | a4 a a2 d, a' | bf a g1 | g2. g4 a1 | bf2 f g2. c,4 |
         d2 e2. e4 e2 | c c c f | f1 r1 | c'2 c4 c
 
     c2 c4 c | d1 d2 r4 bf | a g f4. f8 d2 g4 g | fs g g c2( b4) c2 | r1 c2 c4 c|
         a2 c4 c 
 
     d2 d | R\breve | r1 r4 f, a bf | f4. f8 f4 a2 g4 a2 | bf g g1 | g r2 e ~ |
-        e c2 c4.( d8[ e f] g4 c,) | f1 r1 | 
+        e4 c2 c4.( d8[ e f] g4 c,) | f1 r1 | 
 
     a2 f4 g a2 r | f g4 g a2 r | R\breve | g2 c a4.( g16[ a] bf2) |
         c c d d | c1 r2 c ~ | c a g1 | f c'2 bf4 bf | a2 r a f4 g | a2 r
 
-    f2 d4 e | f d a' a d, g g g | e2 e fs g | g c, f4 d4. e8[ f g] |
-        a[ bf] c2 g4 a2 f | e c4( d e c c'2) | a\longa*1/2
+    f2 d4 e | f d a' a d, g g g | e2 e fs g | g c, f4 d4.( e8[ f g] |
+        a[ bf] c2 g4) a2 f | e c4( d e c c'2) | a\longa*1/2
     \bar "|."
 }
 
 quintusLyricsXXIX = \lyricmode {
-%    O Crux,
-%    \ijLyrics
-%    o Crux, splen -- di -- di -- or,
-%    \normalLyrics
-%    o Crux,
-%        splen -- di -- di -- or cun -- ctis a -- stris,
-%        mun -- do ce -- le -- bris,
-%        mun -- do ce -- le -- bris,
-%    ho -- mi -- ni -- bus,
-%    ho -- mi -- ni -- bus mul -- tum a -- ma -- bi -- lis,
-%        mul -- tum a -- ma -- bi -- lis,
-%        san -- cti -- or u -- ni -- ver -- sis;
-%   %que so -- la fu -- i -- sti di -- gna
-%        por -- ta -- re ta -- len -- tum mun -- di,
-%    que so -- la fu -- i -- sti di -- gna,
-%        fu -- i -- sti di -- gna por -- ta -- re ta -- len -- tum mun -- di,
-%            por -- ta -- re ta -- len -- tum mun -- di:
-%    dul -- ce li -- gnum,
-%        dul -- ces cla -- vos,
-%        dul -- ci -- a fe -- rens pon -- de -- ra,
-%        dul -- ci -- a fe -- rens pon -- de -- ra
-%    sal -- va pre -- sen -- tem ca -- ter -- vam,
-%        in tu -- is ho -- di -- e lau -- di -- bus con -- gre -- ga -- tam,
-%            con -- gre -- ga -- tam.
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
-%
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
-%    Al -- le -- lu -- ia.
-%
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
+    O Crux,
+    \ijLyrics
+    o Crux, 
+    \normalLyrics
+        splen -- di -- di -- or,
+    o Crux,
+        splen -- di -- di -- or cun -- ctis a -- stris,
+        mun -- do ce -- le -- bris,
+    \ijLyrics
+        mun -- do ce -- le -- bris,
+    \normalLyrics
+    ho -- mi -- ni -- bus,
+    \ijLyrics
+    ho -- mi -- ni -- bus
+    \normalLyrics
+        mul -- tum a -- ma -- bi -- lis,
+        san -- cti -- or u -- ni -- ver -- sis;
+    que so -- la fu -- i -- sti di -- gna
+        por -- ta -- re __ ta -- len -- tum mun -- di,
+            fu -- i -- sti di -- gna
+        por -- ta -- re,
+        por -- ta -- re ta -- len -- tum mun -- di,
+        por -- ta -- re ta -- len -- tum mun -- di:
+    dul -- ce li -- gnum,
+        dul -- ci -- a fe -- rens pon -- de -- ra,
+        dul -- ci -- a fe -- rens pon -- de -- ra,
+    \ijLyrics
+        dul -- ci -- a fe -- rens pon -- de -- ra
+    \normalLyrics
+    sal -- va pre -- sen -- tem ca -- ter -- vam,
+        in tu -- is ho -- di -- e lau -- di -- bus con -- gre -- ga -- tam,
+    sal -- va pre -- sen -- tem ca -- ter -- vam,
+        in tu -- is ho -- di -- e lau -- di -- bus con -- gre -- ga -- tam,
+            con -- gre -- ga -- tam.
+    Al -- le -- lu -- ia.
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
 }
 
 sextusXXIXincipit = \relative c {
@@ -496,9 +507,9 @@ sextusXXIXincipit = \relative c {
     f\breve
 }
 
+% sextus: (Bassus II) checked against source
 sextusXXIX = \relative c {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     R\breve*2 | r1 f ~ | f c | R\breve | f | c1 r2 f, | bf2. bf4 f2 f' |
@@ -536,55 +547,59 @@ sextusXXIX = \relative c {
 }
 
 sextusLyricsXXIX = \lyricmode {
-%    O Crux,
-%    \ijLyrics
-%    o Crux, splen -- di -- di -- or,
-%    \normalLyrics
-%    o Crux,
-%        splen -- di -- di -- or cun -- ctis a -- stris,
-%        mun -- do ce -- le -- bris,
-%        mun -- do ce -- le -- bris,
-%    ho -- mi -- ni -- bus,
-%    ho -- mi -- ni -- bus mul -- tum a -- ma -- bi -- lis,
-%        mul -- tum a -- ma -- bi -- lis,
-%        san -- cti -- or u -- ni -- ver -- sis;
-%   %que so -- la fu -- i -- sti di -- gna
-%        por -- ta -- re ta -- len -- tum mun -- di,
-%    que so -- la fu -- i -- sti di -- gna,
-%        fu -- i -- sti di -- gna por -- ta -- re ta -- len -- tum mun -- di,
-%            por -- ta -- re ta -- len -- tum mun -- di:
-%    dul -- ce li -- gnum,
-%        dul -- ces cla -- vos,
-%        dul -- ci -- a fe -- rens pon -- de -- ra,
-%        dul -- ci -- a fe -- rens pon -- de -- ra
-%    sal -- va pre -- sen -- tem ca -- ter -- vam,
-%        in tu -- is ho -- di -- e lau -- di -- bus con -- gre -- ga -- tam,
-%            con -- gre -- ga -- tam.
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
-%
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
-%    Al -- le -- lu -- ia.
-%
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
-%    Al -- le -- lu -- ia.
-%    \ijLyrics
-%    Al -- le -- lu -- ia.
-%    \normalLyrics
+    O __ Crux,
+    \ijLyrics
+    o Crux,
+    \normalLyrics
+        splen -- di -- di -- or cun -- ctis a -- stris,
+        mun -- do ce -- le -- bris,
+    ho -- mi -- ni -- bus mul -- tum a -- ma -- bi -- lis,
+    ho -- mi -- ni -- bus mul -- tum a -- ma -- bi -- lis,
+        san -- cti -- or u -- ni -- ver -- sis;
+    que so -- la fu -- i -- sti di -- gna,
+    que so -- la __ fu -- i -- sti di -- gna,
+            fu -- i -- sti di -- gna
+        por -- ta -- re ta -- len -- tum mun -- di,
+        por -- ta -- re ta -- len -- tum mun -- di,
+        por -- ta -- re ta -- len -- tum mun -- di:
+    dul -- ce li -- gnum,
+        dul -- ces cla -- vos,
+        dul -- ci -- a fe -- rens pon -- de -- ra,
+        dul -- ci -- a fe -- rens pon -- de -- ra
+    sal -- va pre -- sen -- tem ca -- ter -- vam,
+        in tu -- is ho -- di -- e lau -- di -- bus con -- gre -- ga -- tam,
+            con -- gre -- ga -- tam,
+    sal -- va pre -- sen -- tem ca -- ter -- vam,
+        in tu -- is ho -- di -- e lau -- di -- bus con -- gre -- ga -- tam,
+            con -- gre -- ga -- tam.
+    Al -- le -- lu -- ia.
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
+    \ijLyrics
+    Al -- le -- lu -- ia.
+    \normalLyrics
+    Al -- le -- lu -- ia.
 }
 
 septimaXXIXincipit = \relative c' {

@@ -60,24 +60,24 @@ cantoVincipitVoice = <<
     >>
 >>
 
-%altoVincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \altoVincipit
-%    >>
-%>>
-%
-%tenoreVincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \tenoreVincipit
-%    >>
-%>>
-%
-%bassoVincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \bassoVincipit
-%    >>
-%>>
-%
+altoVincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \altoVincipit
+    >>
+>>
+
+tenoreVincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \tenoreVincipit
+    >>
+>>
+
+bassoVincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \bassoVincipit
+    >>
+>>
+

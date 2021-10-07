@@ -48,6 +48,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 1"
             \global 
             \altoXXX
         >>
@@ -57,6 +58,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 2"
             \global 
             \altoXXXII
         >>
@@ -65,6 +67,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 3"
             \global 
             \altoXXXIV
         >>
@@ -73,6 +76,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 4"
             \global 
             \altoXXXVI
         >>
@@ -81,6 +85,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 5"
             \global 
             \altoXXXVIII
         >>
@@ -89,6 +94,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 6"
             \global 
             \altoXL
         >>
@@ -97,6 +103,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 7"
             \global 
             \altoXLII
         >>
@@ -105,6 +112,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 8"
             \global 
             \altoXLIV
         >>
@@ -113,6 +121,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 9"
             \global 
             \altoXLVI
         >>
@@ -121,6 +130,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 10"
             \global 
             \altoXLVIII
         >>
@@ -129,6 +139,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 11"
             \global 
             \altoL
         >>
@@ -143,6 +154,7 @@
     \score {
         \new Voice << 
             \clef "alto"
+            \set Staff.instrumentName = #"Ballo 1"
             \global 
             \altoXXX
         >>
@@ -151,7 +163,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 2"
             \global 
             \altoXXXII
         >>
@@ -159,7 +172,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 3"
             \global 
             \altoXXXIV
         >>
@@ -167,7 +181,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 4"
             \global 
             \altoXXXVI
         >>
@@ -175,7 +190,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 5"
             \global 
             \altoXXXVIII
         >>
@@ -183,7 +199,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 6"
             \global 
             \altoXL
         >>
@@ -191,7 +208,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 7"
             \global 
             \altoXLII
         >>
@@ -199,7 +217,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 8"
             \global 
             \altoXLIV
         >>
@@ -207,7 +226,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 9"
             \global 
             \altoXLVI
         >>
@@ -215,7 +235,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 10"
             \global 
             \altoXLVIII
         >>
@@ -223,7 +244,8 @@
     }
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "alto"
+            \set Staff.instrumentName = #"Ballo 11"
             \global 
             \altoL
         >>

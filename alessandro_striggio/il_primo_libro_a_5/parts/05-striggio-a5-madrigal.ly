@@ -55,9 +55,9 @@ cantoLyricsV = \lyricmode {
     Ma chi l'a -- vea le -- ga -- to poi __ ve -- den -- do,
     Va, Va, dis -- se~o ma -- dre,
     Va, __ dis -- se~o ma -- dre, cer -- ca~un no -- vo~A -- mo -- re, __
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re,
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re,
-    Per -- che~il mio re -- gno qui sa -- rà __ mag -- gio -- re.
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re,
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re,
+    Per -- ché~il mio re -- gno qui sa -- rà __ mag -- gio -- re.
 }
 
 altoVincipit = \relative c' {
@@ -102,13 +102,13 @@ altoLyricsV = \lyricmode {
     Ma chi l'a -- vea le -- ga -- to poi ve -- den -- do,
     Va, Va, dis -- se~o ma -- dre,
     Va, __ dis -- se~o ma -- dre, cer -- ca~un no -- vo~A -- mo -- re, 
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re,
-    Per -- che~il mio re -- gno qui,
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re,
+    Per -- ché~il mio re -- gno qui,
     \ijLyrics
-    Per -- che~il mio re -- gno qui 
+    Per -- ché~il mio re -- gno qui 
     \normalLyrics
         sa -- rà mag -- gio -- re,
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re.
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re.
 }
 
 tenoreVincipit = \relative c' {
@@ -157,10 +157,10 @@ tenoreLyricsV = \lyricmode {
     Ma chi l'a -- vea le -- ga -- to poi ve -- den -- do,
     Va, Va, __ dis -- se~o ma -- dre,
     Va, dis -- se~o ma -- dre, cer -- ca~un no -- vo~A -- mo -- re, 
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re, __
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re, __
         sa -- rà mag -- gio -- re,
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re,
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re.
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re,
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re.
 }
 
 bassoVincipit = \relative c {
@@ -201,10 +201,10 @@ bassoLyricsV = \lyricmode {
     Ma chi l'a -- vea le -- ga -- to poi ve -- den -- do,
     Va, Va, __ dis -- se~o ma -- dre, cer -- ca~un no -- vo~A -- mo -- re, 
         cer -- ca~un no -- vo~A -- mo -- re, 
-    Per -- che~il mio re -- gno qui sa -- rà __ mag -- gio -- re,
-    Per -- che~il mio re -- gno qui,
+    Per -- ché~il mio re -- gno qui sa -- rà __ mag -- gio -- re,
+    Per -- ché~il mio re -- gno qui,
     \ijLyrics
-    Per -- che~il mio re -- gno qui 
+    Per -- ché~il mio re -- gno qui 
     \normalLyrics
         sa -- rà mag -- gio -- re,
         sa -- rà mag -- gio -- re.
@@ -260,9 +260,9 @@ quintoLyricsV = \lyricmode {
     Ma chi l'a -- vea __ le -- ga -- to poi ve -- den -- do,
     Va, Va, __ dis -- se~o ma -- dre,
     Va, __ dis -- se~o ma -- dre, cer -- ca~un no -- vo~A -- mo -- re, 
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re,
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re,
-    Per -- che~il mio re -- gno qui sa -- rà mag -- gio -- re,
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re,
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re,
+    Per -- ché~il mio re -- gno qui sa -- rà mag -- gio -- re,
         sa -- rà mag -- gio -- re.
 }
 

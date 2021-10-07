@@ -12,10 +12,11 @@ superiusXVII = \relative c' {
     \key c \major
 
     e\breve | a1 a | g1.( f4 e | d2. c4 d1 | c2) c' c c | b b a1 | r c | 
-        b a ~ | a2\melisma\ficta g4 fs\melismaEnd g1\unficta | r c | b a ~ | 
-        a2\melisma\ficta g4 fs g1\unficta \melismaEnd| 
+        b a ~ | a2\melisma\ficta g4 f\melismaEnd g1\unficta | r c | b a ~ | 
+        a2\melisma\ficta g4 f g1\unficta \melismaEnd| 
 
-    a2 a a a | g g f1 | e\breve | R | b' | c1 a | b e | d1. c2 | b a g1 |
+    a2 a a a | g g f1 | e\breve | R | b' | c1 a | b e | d1. c2 | 
+        b a\ficta gs1\unficta |
         a\breve | R | r1 e | g g | d\breve | r2 d' d d | c\breve | b1 a |
         R\breve | r1 d | c\breve |
 
@@ -100,7 +101,8 @@ tenorXVII = \relative c {
         c\breve | g1 a | e\breve | R\breve*2 | r2 e' e e | e e d1 | e e |
         c c |
 
-    b\breve | R | r1 e | d1. c2 | b a g1 | \[ a\breve( | g) \] | r1 b | d d |
+    b\breve | R | r1 e | d1. c2 | 
+        b a\ficta gs1\unficta | \[ a\breve( | g) \] | r1 b | d d |
         a\breve | r1 d | b2 c b c ~ | c4( b a1 g2) | a1 r2 a | g e f d |
         a' a c c | c1
 

@@ -41,12 +41,13 @@
 \include "../parts/49-cavalieri-a3-risposta.ly"
 
 \book {
-    \bookOutputName "31-cavalieri--o_che_nuovo_miracolo-a_3_coro"
+    \bookOutputName "31-cavalieri--o_che_nuovo_miracolo-coro_ii_a_3"
     \bookOutputSuffix "--1-quinto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 1"
             \global 
             \quintoXXXI
         >>
@@ -56,6 +57,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 2"
             \global 
             \quintoXXXIII
         >>
@@ -65,6 +67,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 3"
             \global 
             \quintoXXXV
         >>
@@ -74,6 +77,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 4"
             \global 
             \quintoXXXVII
         >>
@@ -83,6 +87,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 5"
             \global 
             \quintoXXXIX
         >>
@@ -92,6 +97,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 6"
             \global 
             \quintoXLI
         >>
@@ -101,6 +107,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 7"
             \global 
             \quintoXLIII
         >>
@@ -110,6 +117,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 8"
             \global 
             \quintoXLV
         >>
@@ -119,6 +127,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 9"
             \global 
             \quintoXLVII
         >>
@@ -128,6 +137,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Risposta 10"
             \global 
             \quintoXLIX
         >>

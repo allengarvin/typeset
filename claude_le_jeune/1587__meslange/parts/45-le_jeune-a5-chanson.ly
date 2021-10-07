@@ -37,7 +37,7 @@ superiusXLV = \relative c'' {
         g4) \ficta fs4\unficta g d d2 r2 | r4 a' bf2. c4 d bf | 
         a2 g r4 d' d d |
 
-    ef4 d c2 bf4 bf a g | fs d'2 d4 e c2 c4 | d bf2 bf4 c a d c ~ | 
+    ef4 d c2 bf4 bf a g | fs d'2 d4\ficta ef\unficta c2 c4 | d bf2 bf4 c a d c ~ | 
         c f4 ef ef d2 d4 a | b2 r4 d d8([ c] bf[ a] bf4) g |
 
     d'2 bf4 g2 g4 a2 | r4 f' f8([ e d c] bf4) c bf a | g2 r4 d' bf2 d4 f ~ |

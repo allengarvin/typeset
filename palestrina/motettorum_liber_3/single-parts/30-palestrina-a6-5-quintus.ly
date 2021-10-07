@@ -1,0 +1,61 @@
+\version "2.18.2"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    % Things that change per piece:
+    title = "Postquam autem falso eorum"
+    subtitle = "Secunda pars"
+    instrument = "Postquam autem falso eorum: Secunda pars (quintus)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "postquam_autem_falso_eorum"
+    shortcomp = "palestrina"
+    folio = "Paraphrase of parts of Daniel 13"
+
+    % Things that change per part:
+    partname = "Quintus (part 4 of 6)"
+    instrument = "Postquam autem falso eorum: Secunda pars (quintus)"
+
+    % Unchanging:
+    lastupdated = "2021-09-05"
+    originallyset = "2021-09-05"
+    \include "include/distribution-header.ly"
+    tagline = #'f
+}
+
+\include "../parts/30-palestrina-a6-motet.ly"
+
+\book {
+    \bookOutputName "30-palestrina--postquam_autem_falso_eorum-secunda_pars"
+    \bookOutputSuffix "--4-quintus--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \quintusXXX
+        >>
+                \addlyrics { \quintusLyricsXXX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "30-palestrina--postquam_autem_falso_eorum-secunda_pars"
+    \bookOutputSuffix "--4-quintus--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \quintusXXX
+        >>
+                \addlyrics { \quintusLyricsXXX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

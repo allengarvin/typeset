@@ -100,6 +100,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 1"
+        }
     }   
     \score {
          <<
@@ -154,6 +157,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Ballo 2"
         }
     }   
     \score {
@@ -210,6 +216,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 3"
+        }
     }   
     \score {
          <<
@@ -264,6 +273,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Ballo 4"
         }
     }   
     \score {
@@ -320,6 +332,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 5"
+        }
     }   
     \score {
          <<
@@ -374,6 +389,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Ballo 6"
         }
     }   
     \score {
@@ -430,6 +448,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 7"
+        }
     }   
     \score {
          <<
@@ -484,6 +505,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Ballo 8"
         }
     }   
     \score {
@@ -540,6 +564,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 9"
+        }
     }   
     \score {
          <<
@@ -595,6 +622,9 @@
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
         }
+        \header {
+            piece = "Ballo 10"
+        }
     }   
     \score {
          <<
@@ -649,6 +679,9 @@
                 \Score
                 tempoWholesPerMinute = #(ly:make-moment 96 2)
             }
+        }
+        \header {
+            piece = "Ballo 11"
         }
     }   
     \markup {

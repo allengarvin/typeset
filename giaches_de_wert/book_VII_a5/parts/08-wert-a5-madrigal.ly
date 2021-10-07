@@ -96,8 +96,8 @@ cantoLyricsVIII = \lyricmode {
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le~e tut -- te bel -- le
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
-    Fa -- cean ri -- pa -- ri~ai fer -- vi -- di ca -- lo -- ri
-    Fa -- cean ri -- pa -- ri~ai fer -- vi -- di __ ca -- lo -- ri
+    Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri
+    Fa -- cean ri -- pa -- ro~ai fer -- vi -- di __ ca -- lo -- ri
     Di gior -- ni~e -- sti -- vi con lor spes -- se~om -- brel -- le;
     E tra quei ra -- mi con si -- cu -- ri vo -- li vo -- li
     E tra quei ra -- mi con si -- cu -- ri vo -- li
@@ -157,8 +157,8 @@ altoLyricsVIII = \lyricmode {
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     \ijLyrics Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le~e \normalLyrics
         tut -- te bel -- le __
-    Fa -- cean ri -- pa -- ri~ai fer -- vi -- di,
-    Fa -- cean ri -- pa -- ri~ai fer -- vi -- di ca -- lo -- ri
+    Fa -- cean ri -- pa -- ro~ai fer -- vi -- di,
+    Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri
     Di gior -- ni~e -- sti -- vi con lor spes -- se~om -- brel -- le;
     E tra quei ra -- mi
     E tra quei ra -- mi con si -- cu -- ri vo -- li,
@@ -219,7 +219,7 @@ tenoreLyricsVIII = \lyricmode {
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
-    Fa -- cean ri -- pa -- ri~ai fer -- vi -- di ca -- lo -- ri
+    Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri
         ai fer -- vi -- di ca -- lo -- ri,
     Di gior -- ni~e -- sti -- vi con lor spes -- se~om -- brel -- le;
     E tra quei ra -- mi con si -- cu -- ri vo -- li,
@@ -278,7 +278,7 @@ bassoLyricsVIII = \lyricmode {
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
-    Fa -- cean ri -- pa -- ri~ai fer -- vi -- di ca -- lo -- ri
+    Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri
     Di gior -- ni~e -- sti -- vi con lor spes -- se~om -- brel -- le;
     E tra quei ra -- mi con si -- cu -- ri vo -- li,
     E tra quei ra -- mi con si -- cu -- ri vo -- li vo -- li,
@@ -337,7 +337,7 @@ quintoLyricsVIII = \lyricmode {
     Con -- te -- sti~in va -- rie for -- me
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
-    Fa -- cean ri -- pa -- ri~ai fer -- vi -- di ca -- lo -- ri
+    Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri
         ca -- lo -- ri,
     Di gior -- ni~e -- sti -- vi con lor spes -- se~om -- brel -- le;
     E tra quei ra -- mi con __ si -- cu -- ri vo -- li,

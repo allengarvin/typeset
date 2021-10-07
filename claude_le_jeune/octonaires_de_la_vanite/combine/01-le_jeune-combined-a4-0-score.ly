@@ -11,11 +11,12 @@
 \header {
     % Things that change per piece:
     title = "Quand on arrestera la course coutumiere"
+    subtitle = "transposed down a tone"
     instrument = "Quand on arrestera la course coutumiere: Premiere partie (score)"
 
     % Unchanging:
-    \include "include/distribution-header.ly"
     lastupdated = "2018-11-25"
+    \include "include/distribution-header.ly"
     tagline = #'f
 }
 \include "../parts/01-le_jeune-a4-chanson.ly"
@@ -24,7 +25,7 @@
 
 \book {
     \bookOutputName "01-le_jeune--quand_on_arrestera--3p"
-    \bookOutputSuffix "-comb--0-score"
+    \bookOutputSuffix "-transposed--0-score"
     \score {
         \header { piece = "Premiere partie" }
          <<
@@ -35,7 +36,7 @@
                     \set Staff.instrumentName = #"Dessus"
                     \incipit \dessusIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose d c
                     \dessusI
                 >>
                 \addlyrics { \dessusLyricsI }
@@ -43,7 +44,7 @@
                     \set Staff.instrumentName = #"Haute-contre"
                     \incipit \hautecontreIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose d c
                     \hautecontreI
                 >>
                 \addlyrics { \hautecontreLyricsI }
@@ -51,7 +52,7 @@
                     \set Staff.instrumentName = #"Taille"
                     \incipit \tailleIincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose d c
                     \tailleI
                 >>
                 \addlyrics { \tailleLyricsI }
@@ -59,7 +60,7 @@
                     \set Staff.instrumentName = #"Basse-contre"
                     \incipit \bassecontreIincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose d c
                     \bassecontreI
                 >>
                 \addlyrics { \bassecontreLyricsI }
@@ -83,7 +84,7 @@
                     \set Staff.instrumentName = #"Dessus"
                     \incipit \dessusIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose d c
                     \dessusII
                 >>
                 \addlyrics { \dessusLyricsII }
@@ -91,7 +92,7 @@
                     \set Staff.instrumentName = #"Haute-contre"
                     \incipit \hautecontreIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose d c
                     \hautecontreII
                 >>
                 \addlyrics { \hautecontreLyricsII }
@@ -99,7 +100,7 @@
                     \set Staff.instrumentName = #"Taille"
                     \incipit \tailleIIincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose d c
                     \tailleII
                 >>
                 \addlyrics { \tailleLyricsII }
@@ -107,7 +108,7 @@
                     \set Staff.instrumentName = #"Basse-contre"
                     \incipit \bassecontreIIincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose d c
                     \bassecontreII
                 >>
                 \addlyrics { \bassecontreLyricsII }
@@ -131,7 +132,7 @@
                     \set Staff.instrumentName = #"Dessus"
                     \incipit \dessusIIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose d c
                     \dessusIII
                 >>
                 \addlyrics { \dessusLyricsIII }
@@ -139,7 +140,7 @@
                     \set Staff.instrumentName = #"Haute-contre"
                     \incipit \hautecontreIIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose d c
                     \hautecontreIII
                 >>
                 \addlyrics { \hautecontreLyricsIII }
@@ -147,7 +148,7 @@
                     \set Staff.instrumentName = #"Taille"
                     \incipit \tailleIIIincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose d c
                     \tailleIII
                 >>
                 \addlyrics { \tailleLyricsIII }

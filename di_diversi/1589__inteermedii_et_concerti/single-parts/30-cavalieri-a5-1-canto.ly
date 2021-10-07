@@ -48,6 +48,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 1"
             \global 
             \cantoXXX
         >>
@@ -56,6 +57,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 2"
             \global 
             \cantoXXXII
         >>
@@ -64,6 +66,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 3"
             \global 
             \cantoXXXIV
         >>
@@ -72,6 +75,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 4"
             \global 
             \cantoXXXVI
         >>
@@ -80,6 +84,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 5"
             \global 
             \cantoXXXVIII
         >>
@@ -88,6 +93,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 6"
             \global 
             \cantoXL
         >>
@@ -96,6 +102,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 7"
             \global 
             \cantoXLII
         >>
@@ -104,6 +111,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 8"
             \global 
             \cantoXLIV
         >>
@@ -112,6 +120,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 9"
             \global 
             \cantoXLVI
         >>
@@ -120,6 +129,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 10"
             \global 
             \cantoXLVIII
         >>
@@ -128,6 +138,7 @@
     \score {
         \new Voice << 
             \clef "treble"
+            \set Staff.instrumentName = #"Ballo 11"
             \global 
             \cantoL
         >>

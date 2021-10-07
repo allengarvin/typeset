@@ -19,6 +19,7 @@
     instrument = "Susann' un jour (quintaPars)"
 
     % Unchanging:
+    lastupdated = "2018-08-24"
     \include "include/distribution-header.ly"
     composer = "Cipriano de Rore (c.1515-1565)"
     lastupdated = "2018-08-24"

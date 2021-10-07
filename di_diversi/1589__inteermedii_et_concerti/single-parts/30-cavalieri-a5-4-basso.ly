@@ -48,6 +48,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 1"
             \global 
             \bassoXXX
         >>
@@ -57,6 +58,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 2"
             \global 
             \bassoXXXII
         >>
@@ -65,6 +67,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 3"
             \global 
             \bassoXXXIV
         >>
@@ -73,6 +76,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 4"
             \global 
             \bassoXXXVI
         >>
@@ -81,6 +85,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 5"
             \global 
             \bassoXXXVIII
         >>
@@ -89,6 +94,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 6"
             \global 
             \bassoXL
         >>
@@ -97,6 +103,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 7"
             \global 
             \bassoXLII
         >>
@@ -105,6 +112,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 8"
             \global 
             \bassoXLIV
         >>
@@ -113,6 +121,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 9"
             \global 
             \bassoXLVI
         >>
@@ -121,6 +130,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 10"
             \global 
             \bassoXLVIII
         >>
@@ -129,6 +139,7 @@
     \score {
         \new Voice << 
             \clef "bass"
+            \set Staff.instrumentName = #"Ballo 11"
             \global 
             \bassoL
         >>
