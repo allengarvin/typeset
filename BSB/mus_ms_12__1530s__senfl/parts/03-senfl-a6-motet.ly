@@ -5,7 +5,7 @@ discantusOneIIIincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
 
-    g1
+    g1*2
 }
 
 % discantus: checked against source
@@ -231,7 +231,7 @@ discantusTwoIIIincipit = \relative c' {
     \clef "petrucci-c1"
     \key c \major
 
-    d1
+    d1*2
 }
 
 % discantus II: checked against source
@@ -751,14 +751,6 @@ tenorOneIIIincipit = \relative c' {
     \clef "petrucci-c3"
     \key c \major
 
-    g\breve
-}
-
-tenorOneIIIincipit = \relative c' {
-    \time 4/4
-    \clef "petrucci-c3"
-    \key c \major
-
     g\maxima*1/8
 }
 
@@ -931,7 +923,7 @@ tenorTwoIIIincipit = \relative c {
     \clef "petrucci-c4"
     \key c \major
 
-    d1
+    d1*2
 }
 
 % tenor II: checked against source
@@ -1172,7 +1164,7 @@ bassusIIIincipit = \relative c {
     \clef "petrucci-f4"
     \key c \major
 
-    g1
+    g1*2
 }
 
 % bassus: checked against source
