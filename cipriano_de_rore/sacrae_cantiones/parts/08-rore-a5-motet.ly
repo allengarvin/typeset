@@ -170,12 +170,14 @@ tenorVIII = \relative c' {
         e e d c | e a, a1 | R\breve*2 | r1 r2 e' ~ | e c2. a4 a2 |d c b1 |
         a\breve | 
 
-    r1 \[ b1( | cs1.) \] cs2 | d\breve ~ | d1 r1 | \[ b1( cs ~ |
-        cs2) \] cs d1 ~ | d\breve | b1 e ~ | e2 d \[ c1( | a) \] b2 e, | fs1 g |
-        a fs ~ | fs a ~ | a2 g e1 | e a ~ | a g ~ | g c |
+                             % vvvvvvv d\breve. to d\breve
+    r1 \[ b1( | cs1.) \] cs2 | d\breve r1 \[ b1( | cs1.) \] cs2 d\breve ~| 
+        d1 b1 | e1. d2 | \[ c1( a) \] | b2 e, fs1 | g a | fs\breve | 
+        a1. g2 | e1 e | a\breve | g | c1 
 
-    c2 c2.( b4 a g | f2) g a2.( b4 | c2) c, g'1 | g r2 g ~ | g c1 c2 |
-        c4( b a g a2) g | a1. a2 | a b d1 | g,2 c1( b4 a | b1) c\longa*1/4
+    c2 c2 ~ | c4( b4 a g f2) g | a2.( b4 c2) c, | g'1 g | r2 g1 c2 ~ |
+        c c2 c4( b a g | a2) g a1 ~ | a2 a2 a b | d1 g,2 c ~ | 
+        c( b4 a b1) | c\longa*1/2
     \bar "|."
 }
 
@@ -195,11 +197,11 @@ tenorLyricsVIII = \lyricmode {
     Vi -- si -- tas e -- um di -- lu -- cu -- lo, __
     vi -- si -- tas e -- um di -- lu -- cu -- lo,
     et __ su -- bi -- to pro -- bas il -- lum.
-    U -- sque -- quo, __
+    U -- sque -- quo, 
     u -- sque -- quo __ non par -- cis mi -- hi,
-        non par -- cis mi -- hi, __
-    nec __ di -- mit -- tis me
-    ut __ glu -- ti -- am __ sa -- li -- vam me -- am,
+        non par -- cis mi -- hi,
+    nec di -- mit -- tis me
+    ut glu -- ti -- am __ sa -- li -- vam me -- am,
     ut glu -- ti -- am, __
     ut glu -- ti -- am sa -- li -- vam me -- am?
 }

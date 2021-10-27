@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "peccavi_quid_faciam_tibi"
     shortcomp = "rore"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Job 7:20-21"
 
     % Unchanging:
