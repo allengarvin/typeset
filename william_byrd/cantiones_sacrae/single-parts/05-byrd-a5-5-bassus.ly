@@ -10,13 +10,13 @@
 \header {
     % Things that change per piece:
     title = "Libera me, Domine, et pone me juxta te"
-    instrument = "Libera me, Domine, et pone me juxta te (discantus)"
+    instrument = "Libera me, Domine, et pone me juxta te (bassus)"
     folio = "Job 17:3, 11-12"
     composer = "William Byrd (c.1540-1623)"
 
     % Things that change per part:
-    partname = "Discantus (part 2 of 5)"
-    instrument = "Libera me, Domine, et pone me juxta te (discantus)"
+    partname = "Bassus (part 5 of 5)"
+    instrument = "Libera me, Domine, et pone me juxta te (bassus)"
 
     % Unchanging:
     originallyset = "2018-11-04"
@@ -29,30 +29,15 @@
 
 \book {
     \bookOutputName "05-byrd--libera_me_domine_et_pone_me_juxta_te"
-    \bookOutputSuffix "--2-discantus--tr8_clef"
+    \bookOutputSuffix "--5-bassus--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble_8"
+            \clef "bass"
             \global 
-            \discantusV
+            \bassusV
         >>
-                \addlyrics { \discantusLyricsV }
-     %   \include "../include/vocal-layout-parts-barring.ly"
-    }
-}
-
-\book {
-    \bookOutputName "05-byrd--libera_me_domine_et_pone_me_juxta_te"
-    \bookOutputSuffix "--2-discantus--al_clef"
-    \include "../include/paper-1-part.ly"
-    \score {
-        \new Voice << 
-            \clef "alto"
-            \global 
-            \discantusV
-        >>
-                \addlyrics { \discantusLyricsV }
+                \addlyrics { \bassusLyricsV }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

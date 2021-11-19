@@ -9,39 +9,38 @@
 
 \header {
     % Things that change per piece:
-    title = "Peccantem me quotidie"
+    title = "Miserere nostri"
     subtitle = ""
-    instrument = "Peccantem me quotidie:  (superius)"
+    instrument = "Miserere nostri:  (superius I)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "peccantem_me_quotidie"
-    shortcomp = "byrd"
-    composer = "William Byrd (c.1540-1623)"
-    folio = "7th Respond at Matins for the Dead"
+    shorttitle = "miserere_nostri"
+    shortcomp = "tallis"
+    composer = "Thomas Tallis (c.1505-1585)"
 
     % Things that change per part:
-    partname = "Superius (part 1 of 5)"
-    instrument = "Peccantem me quotidie:  (superius)"
+    partname = "Superius I (part 1 of 7)"
+    instrument = "Miserere nostri:  (superius I)"
 
     % Unchanging:
-    lastupdated = "2020-06-06"
-    originallyset = "2020-06-06"
+    lastupdated = "2021-11-14"
+    originallyset = "2021-11-14"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/06-byrd-a5-motet.ly"
+\include "../parts/34-tallis-a7-motet.ly"
 
 \book {
-    \bookOutputName "06-byrd--peccantem_me_quotidie-"
-    \bookOutputSuffix "--1-superius--tr_clef"
+    \bookOutputName "34-tallis--miserere_nostri-"
+    \bookOutputSuffix "--1-superiusOne--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \superiusVI
+            \superiusOneXXXIV
         >>
-                \addlyrics { \superiusLyricsVI }
+                \addlyrics { \superiusOneLyricsXXXIV }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

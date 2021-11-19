@@ -9,39 +9,39 @@
 
 \header {
     % Things that change per piece:
-    title = "Peccantem me quotidie"
+    title = "Candidi facti sunt Nazarei"
     subtitle = ""
-    instrument = "Peccantem me quotidie:  (bassus)"
+    instrument = "Candidi facti sunt Nazarei:  (tenor)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "peccantem_me_quotidie"
-    shortcomp = "byrd"
-    composer = "William Byrd (c.1540-1623)"
-    folio = "7th Respond at Matins for the Dead"
+    shorttitle = "candidi_facti_sunt_nazarei"
+    shortcomp = "tallis"
+    composer = "Thomas Tallis (c.1505-1585)"
+    folio = "Responsory at first vespers of an Apostle or Evangelist in Paschal time"
 
     % Things that change per part:
-    partname = "Bassus (part 5 of 5)"
-    instrument = "Peccantem me quotidie:  (bassus)"
+    partname = "Tenor (part 4 of 5)"
+    instrument = "Candidi facti sunt Nazarei:  (tenor)"
 
     % Unchanging:
-    lastupdated = "2020-06-06"
-    originallyset = "2020-06-06"
+    lastupdated = "2021-11-18"
+    originallyset = "2021-11-18"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/06-byrd-a5-motet.ly"
+\include "../parts/22-tallis-a5-motet.ly"
 
 \book {
-    \bookOutputName "06-byrd--peccantem_me_quotidie-"
-    \bookOutputSuffix "--5-bassus--bs_clef"
+    \bookOutputName "22-tallis--candidi_facti_sunt_nazarei-"
+    \bookOutputSuffix "--4-tenor--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "bass"
             \global 
-            \bassusVI
+            \tenorXXII
         >>
-                \addlyrics { \bassusLyricsVI }
+                \addlyrics { \tenorLyricsXXII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

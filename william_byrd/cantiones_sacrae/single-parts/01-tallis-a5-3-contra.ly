@@ -9,54 +9,54 @@
 
 \header {
     % Things that change per piece:
-    title = "Peccantem me quotidie"
+    title = "Salvator mundi, salva nos"
     subtitle = ""
-    instrument = "Peccantem me quotidie:  (discantus)"
+    instrument = "Salvator mundi, salva nos:  (contra)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "peccantem_me_quotidie"
-    shortcomp = "byrd"
-    composer = "William Byrd (c.1540-1623)"
-    folio = "7th Respond at Matins for the Dead"
+    shorttitle = "salvator_mundi_salva_nos"
+    shortcomp = "tallis"
+    composer = "Thomas Tallis (c.1505-1585)"
+    folio = "Antiphon for the Exaltation of the Holy Cross"
 
     % Things that change per part:
-    partname = "Discantus (part 2 of 5)"
-    instrument = "Peccantem me quotidie:  (discantus)"
+    partname = "Contra (part 3 of 5)"
+    instrument = "Salvator mundi, salva nos:  (contra)"
 
     % Unchanging:
-    lastupdated = "2020-06-06"
-    originallyset = "2020-06-06"
+    lastupdated = "2021-11-05"
+    originallyset = "2021-11-05"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/06-byrd-a5-motet.ly"
+\include "../parts/01-tallis-a5-motet.ly"
 
 \book {
-    \bookOutputName "06-byrd--peccantem_me_quotidie-"
-    \bookOutputSuffix "--2-discantus--tr_clef"
+    \bookOutputName "01-tallis--salvator_mundi_salva_nos-"
+    \bookOutputSuffix "--3-contra--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "treble_8"
             \global 
-            \discantusVI
+            \contraI
         >>
-                \addlyrics { \discantusLyricsVI }
+                \addlyrics { \contraLyricsI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "06-byrd--peccantem_me_quotidie-"
-    \bookOutputSuffix "--2-discantus--al_clef"
+    \bookOutputName "01-tallis--salvator_mundi_salva_nos-"
+    \bookOutputSuffix "--3-contra--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \discantusVI
+            \contraI
         >>
-                \addlyrics { \discantusLyricsVI }
+                \addlyrics { \contraLyricsI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

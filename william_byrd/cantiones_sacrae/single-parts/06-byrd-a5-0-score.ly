@@ -6,20 +6,24 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
-    title = "Libera me, Domine, et pone me juxta te"
-    language = "latin"
-    instrument = "Libera me, Domine, et pone me juxta te (score)"
-    folio = "Job 17:3, 11-12"
+    title = "Peccantem me quotidie"
+    subtitle = ""
+    instrument = "Peccantem me quotidie:  (score)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "peccantem_me_quotidie"
+    shortcomp = "byrd"
     composer = "William Byrd (c.1540-1623)"
-
+    needtranslation = #'f
+    folio = "7th Respond at Matins for the Dead"
 
     % Unchanging:
-    originallyset = "2018-11-04"
-    lastupdated = "2018-11-04"
+    language = "latin"
+    lastupdated = "2020-06-06"
+    originallyset = "2020-06-06"
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
@@ -29,12 +33,12 @@
 \include "../parts/06-byrd-a5-motet.ly"
 
 \book {
-    \bookOutputName "06-byrd--libera_me_domine_et_pone_me_juxta_te"
+    \bookOutputName "06-byrd--peccantem_me_quotidie-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Superius"
@@ -47,19 +51,19 @@
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"
                     \incipit \discantusVIincipitVoice
-                    \clef "treble_8"
+                    \clef "treble"
                     \global
                     \discantusVI
                 >>
                 \addlyrics { \discantusLyricsVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Contratenor"
-                    \incipit \contratenorVIincipitVoice
+                    \incipit \contraVIincipitVoice
                     \clef "treble_8"
                     \global
-                    \contratenorVI
+                    \contraVI
                 >>
-                \addlyrics { \contratenorLyricsVI }
+                \addlyrics { \contraLyricsVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
                     \incipit \tenorVIincipitVoice
@@ -82,31 +86,28 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 98 2)
+                tempoWholesPerMinute = #(ly:make-moment 104 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                 \line { Libera me Domine, et pone me juxta te: }
-                 \line { et cujusvis manus pugnet contra me. }
-                 \line { Dies mei transierunt, }
-                 \line { cogitationes meæ dissipatæ sunt, }
-                 \line { torquentes cor meum. }
-                 \line { Noctem verterunt in diem, }
-                 \line { et rursum post tenebras spero lucem.}
-                 \line { \hspace #12 { Job 17:3, 11-12 }}
+                \line { Peccantem me quotidie }
+                \line { et non me penitentem, }
+                \line { timor mortis conturbat me. }
+                \line { \vspace #0.5 }
+                \line { Quia in inferno nulla est redemptio. }
+                \line { Miserere mei, Deus, et salva me. }
             }
             \column {
-                 \line { Deliver me O Lord, and set me beside thee: }
-                 \line { and let any man's hand fight against me. }
-                 \line { my days have passed away, }
-                 \line { my thoughts are dissipated, }
-                 \line { tormenting my heart. }
-                 \line { They have turned night into day, }
-                 \line { and after darkness I hope for light again. }
-                 \line { \hspace #12 { Douay-Rheims translation }}
+                \line { I who sin every day }
+                \line { and am not penitent }
+                \line { the fear of death troubles me: }
+                \line { \vspace #0.5 }
+                \line { For in hell there is no redemption. }
+                \line { Have mercy upon me, O God, and save me. }
+                \line { \hspace #12 CPDL translation }
             }
         }
     }

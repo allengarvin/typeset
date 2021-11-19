@@ -1,643 +1,508 @@
-superiusVIincipit = \relative c' {
-    \time 2/2
-    \clef "petrucci-c1"
-    \key f \major
+%Peccantem me quotidie
+%et non me penitentem,
+%timor mortis conturbat me.
+%
+%Quia in inferno nulla est redemptio.
+%Miserere mei, Deus, et salva me.
+%
 
-    d1.
+
+superiusVIincipit = \relative c'' {
+    \time 2/2
+    \clef "petrucci-g"
+    \key bf \major
+
+    d1
 }
 
 % superius: checked against source
-superiusVI = \relative c' {
+superiusVI = \relative c'' {
     \fourTwoCutTime
-    \key f \major
+    \key bf \major
 
-    R\breve*2 | r1 d ~ | d2 e fs1 | g g | a bf2. a8([ g] |
-        f4) g( a2 g2. a4 | bf g a2. g4 g2 ~ | g fs) g1 | R\breve | r1 d' ~ |
-        d2 c bf1 | a a2. g4( | f e
+    R\breve*4 | R\breve*2 | d1 ef ~ | ef2 d bf d | c2. c4 bf2 d ~ |
+        d c2. bf4( d2 ~ | d4 c bf1 a2) | bf1 r1 | R\breve | r1 a ~ |
+        a bf ~ | bf2 a fs a ~ | a g1 fs2 | g\breve ~ | g1 r1 | R\breve | r2
 
-    d4 f e1) | d r1 | R\breve | e1 f2 f | e a1 g2 | a\breve | r1 a |
-        bf2 bf a d ~ | d c d1 | a g4( bf2 a4 | g f g2) a1 | d, ef2 ef |
-        d g1 fs2 | g\breve ~ | g ~ | g | R\breve*2 | f1. f2 | f f
+    g2 d'1 | d2 d1 bf2 | ef1 d2 d, | g1 g2 g ~ | g f bf1 | a2 g fs g |
+        a1 a2 d ~ | d( cs) d1 | R\breve | g,1 d' | d2 d1 b2 | c1 b ~ |
+        b r1 | R\breve R\breve*4 | r1
 
-    bf1 | g2 a1 g2 ~ | g4 f( f1) e2 | f1 r2 c( | f2.) ef4( d ef4 f2) |
-        g\breve | R | f1. f2 | f f bf1 | g2 g1 d2 | ef4( c g'1) fs2( |
-        g1) d | r1 g | f2
+    bf1 ~ | bf c | d c2 c | f2. e4( d c bf g | bf1) a ~ | a r1 | a\breve |
+        a1 bf ~ | bf g2 g | c1 bf | a r1 | r1 bf | c ef | d1 c2 f ~ | f
 
-    bf1 a2 ~ | a4( g g1 fs2) | \invisibleTime\time 6/2
-        s1*0\raisedSixTwoTime
-        g1 g1. g2 | \invisibleTime\time 4/2 g\longa*1/2 \bar "||"
+    ef2.( d4 c2) | b2 g1 d'2 ~ | d4 c( bf2 a bf ~ | bf a) bf1 ~ | bf r1 |
+        R\breve | r1 g ~ | g2 f bf a | g1 f2 ef ~ | ef d f( bf, | c) d r c' ~|
+        c bf ef d |
 
-    % secunda pars
-    R\breve | r1 r2 bf ~ | bf2 a d1 | c r2 c ~ | c g bf2.( a4 | bf g a1 g2) |
-        a\breve | R\breve*2 | r2 c1 a2 | c1 bf2
-
-    c2 ~ | c4 bf c( d ef1) | d\breve | r2 d1 c2 | c b c a | bf1( a2 bf) |
-        g\breve | r2 c, c c' ~ | c4 a( bf g a f) g2 | f f e f ~ |
-        f4( e d c) d2 d' ~ | d c c b |
+    c2. c4 bf1 | r2 bf c bf ~ | bf4( c af2) g bf ~ | bf bf c g |
+        a1.( f2 | g2. f4 ef d ef c) | d2 d'1 c2 | d ef f2.( ef4 | d2) c 
 
     % --- page ---
-    c2. g4 a2( g) | g1 r2 g ~ | g f f e | f c ef( d ~ | d4 e fs2) g g |
-        g d'2. c8([ bf] c4 a | b c2 b4) c1 | a2. a4 d1 | d, d | r2 a' a d ~ |
-        d4
+    d2 c | bf2. bf4 a2 bf ~ | bf a bf c | d2. d4 d1 ~ | d r2 g, ~ |
+        g f bf a | g2. g4 fs2 a ~ | a d, f2. g4 | a2 bf a g ~ | g c1 bf2 ~ |
+        bf
 
-    c8([ bf] c4 a b c2 bf4) | a1 bf2 c | d2. d4 b1 | r2 g g1 | f2 g bf1 |
-        a2 g2.( fs8[ e] fs4 g | a2 d, ef f | g1) f2 bf, | f'2.( g4 a2 bf |
-        c1) d ~ | d r1 | R\breve | r1 r2
+    a2 bf bf | a1 g | g r2 c ~ | c f, af2. bf4 | c2 ef c1 | bf r2 d ~ |
+        d c1 b2 | c\breve | R\breve*3 | r1 r2 c ~ | c bf1 a2 | g\breve |
+        r2 a1 g2 ~ | g fs g1 ~ | g r1 | r2
+        
+    a1 d,2 | f2. g4 a2 bf | g1 f2 bf ~ | bf a1 g2 | a1( f ~ | f) r2 d' ~ |
+        d g, c2. d4 | e2 f d1 | cs2 e1 d2 ~ | d cs d1 ~ | d r1 | r1 r2 d ~ |
+        d c1
 
-    a2 | a1 g2 a | bf1 a2. g4( | a bf c2 bf a2 ~ | a g) a1 | r2 fs fs fs |
-        g1 g | g a | a r2 d, | d d g1 | g2 g a1 ~ | a a | R\breve |
-        f1 g | e r1 | r1 g | a
-
-    fs1 | R\breve | a1 bf | g r1 | R\breve | r1 r2 c, | ef2. d4 c2 g' ~ |
-        g fs g1 | g r1 | a bf2. a4 | g2 d'1 cs2 | d1 a ~ | a\breve |
-        r1 r2 e | f2. e4 d2 d' ~ | d g,1 bf2 ~ | bf4( c d c bf a bf g | bf2
-
-    a1 g2) | a1 a | bf g | r2 d f2. e4 | d2 g1 fs2 | g4( a bf2 a4 g g2 ~ |
-        g fs) g1 | R\breve R | r2 g1 f2 | bf1 a | g4( f g a) bf1 | r2 d1 c2 |
-        ef1 d ~ | d r2 d, | d d'2.( c4 a2) | b\longa*1/2
+    b2 | c c1 b4( a) | b\longa*1/2
     \bar "|."
 }
 
 superiusLyricsVI = \lyricmode {
-    Li -- be -- ra me Do -- mi -- ne,
-        Do -- mi -- ne,
-    li -- be -- ra me Do -- mi -- ne,
-    et po -- ne me jux -- ta te,
-    et po -- ne me jux -- ta te,
-        jux -- ta te,
-    et po -- ne me jux -- ta te: __
-    et cu -- jus -- vis ma -- nus pu -- gnet __ con -- tra me,
-        con -- tra __ me,
-    et cu -- jus -- vis ma -- nus pu -- gnet con -- tra __ me,
-        pu -- gnet con -- tra __ me,
-            con -- tra me.
+    Pec -- can -- tem me quo -- ti -- di -- e,
+        quo -- ti -- di -- e,
+    pec -- can -- tem me quo -- ti -- di -- e __
+    et non me pe -- ni -- ten -- tem,
+    et non me pe -- ni -- ten -- tem,
+    \ijLyrics
+    et non me pe -- ni -- ten -- tem,
+    \normalLyrics
+    et non me pe -- ni -- ten -- tem, __
+    ti -- mor mor -- tis con -- tur -- bat __ me, __
+    ti -- mor mor -- tis con -- tur -- bat me,
+    ti -- mor mor -- tis con -- tur -- bat __ me,
+        con -- tur -- bat __ me. __ 
 
-    Di -- es me -- i tran -- si -- e -- runt,
-    di -- es me -- i tran -- si -- e -- runt,
-    co -- gi -- ta -- ti -- o -- nes me -- æ 
-        dis -- si -- pa -- tæ __ sunt,
+    Qui -- a in in -- fer -- no, 
+        in __ in -- fer -- no nul -- la est re -- dem -- pti -- o,
+            re -- dem -- pti -- o,
+    qui -- a in in -- fer -- no nul -- la est re -- dem -- pti -- o,
+            re -- dem -- pti -- o,
+        nul -- la est re -- dem -- pti -- o, __
     \ijLyrics
-        dis -- si -- pa -- tæ __ sunt,
+        nul -- la est re -- dem -- pti -- o.
     \normalLyrics
-    co -- gi -- ta -- ti -- o -- nes me -- æ, 
-    co -- gi -- ta -- ti -- o -- nes me -- æ 
-        dis -- si -- pa -- tæ __ sunt,
-        dis -- si -- pa -- tæ sunt,
-        dis -- si -- pa -- tæ __ sunt,
+    Mi -- se -- re -- re me -- i De -- us, __ et sal -- va me,
+        et sal -- va me,
+    mi -- se -- re -- re me -- i De -- us, et __ sal -- va me,
+        et __ sal -- va me,
     \ijLyrics
-        dis -- si -- pa -- tæ sunt,
+        et sal -- va me, __
     \normalLyrics
-    tor -- quen -- tes cor me -- um,
-            me -- um,
-        cor me -- um, __
-    tor -- quen -- tes cor me -- um,
-            me -- um.
-    No -- ctem ver -- te -- runt in di -- em,
-    \ijLyrics
-    no -- ctem ver -- te -- runt in di -- em,
-    \normalLyrics
-    et rur -- sum,
-    et rur -- sum,
-    \ijLyrics
-    et rur -- sum 
-    \normalLyrics
-        post te -- ne -- bras spe -- ro lu -- cem,
-        post te -- ne -- bras spe -- ro lu -- cem, __
-    \ijLyrics
-        post te -- ne -- bras spe -- ro lu -- cem,
-    \normalLyrics
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-        spe -- ro lu -- cem,
-            lu -- cem,
-    \ijLyrics
-        spe -- ro lu -- cem, __
-    \normalLyrics
-        spe -- ro lu -- cem.
+    mi -- se -- re -- re me -- i De -- us, et __ sal -- va me, __
+    mi -- se -- re -- re me -- i De -- us, et sal -- va me, __
+        et __ sal -- va me,
+            sal -- va __ me.
+}
+
+discantusVIincipit = \relative c'' {
+    \time 2/2
+    \clef "petrucci-c2"
+    \key bf \major
+
+    g1
 }
 
 % discantus: checked against source
-discantusVIincipit = \relative c' {
-    \time 2/2
-    \clef "petrucci-c3"
-    \key f \major
-
-    d1.
-}
-
-discantusVI = \relative c' {
+discantusVI = \relative c'' {
     \fourTwoCutTime
-    \key f \major
+    \key bf \major
 
-    R\breve*3 | r1 d ~ | d2 c bf1 | a g2.( a4 | bf2 f g4 a bf c |
-        d ef d1) c2 | d1 r2 g ~ | g f ef1 | d d2.( c4) | bf2.( a4) g1 | r1 a ~ |
-        a2 b cs1 | d2 f2.( e4
+    R\breve*2 | g1 bf ~ | bf2 a f a | g2. g4 f1 | g2 g1 f2 | f bf ef,2.( f4 |
+        g f bf2.) a4( g2 ~ | g fs) g g | g1 g2 f | r bf, f'1 ~ | f2 g
 
-    f4 d | f2 e2. d4 d2 ~ | d) cs d1 | R\breve | e1 f2 f | e g1 fs2 |
-        g g,( a bf2~ | bf4 a4 g2 fs) g | a1 r2 g | bf bf a c ~ | c b c1 |
-        r2 d d a | g g1 g2 | g\breve | r2 g1 g2 | g
+    f2. e4 | f2 g a1 ~ | a r1 | e f2 g | e1 a, | d1. a2 | g1 r | 
+        r2 c g'1 | g2 g1 f2 | bf1 a2 bf | a1 d, | g g | d1.( c4 bf | c1) g' |
+        r2 g, \[ d'1\melisma | e\melismaEnd \] d2 d |
 
-    g2 a f | bf1 g2 bf ~ | bf a f d' ~ | d c d g, | c2. bf4( a bf c2 |
-        bf4 a g f c'2 g | a) f f1 | R\breve | bf1. bf2 | bf bf ef1 |
-        c2 d2. c4 bf2 ~ | bf bf bf1 | r2
+    a'1 a2 a ~ | a f1 bf2 ~ | bf4( a g1 fs2) | g g1 g2 | g1 g |
+        d1. e2 | f1 f2 f | g2.( f4 g4. a8 bf2 ~ | bf) a( g1) |
+        f2 f g2.( a4 | g f f1) e2 | f2 f 
 
-    g1 g2 | g g c1 | bf2 bf1 a2 | bf( c2. bf8[ a] bf4. c8 | d4 e f2) f,1 |
-        g r2 d' ~ | \invisibleTime\time 6/2
-         s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        d2 c ef( d2. c4 c2 ~ | \invisibleTime\time 4/2 c2) b4( a) b\longa*1/4
-        \bar "||"
-
-    r1 d1 ~ | d2 g, g'1 | d2 f2. e4(
-
-    f4) g( | a1 e2 a | g c,) d1 | r1 r2 d ~ | d c f1 | e2 g2. f4( g a |
-        bf2. a8[ g] f4 e f g | a2. f4 a g f e8[ d] | c4 d e f) g1 ~ |
-        g c, | r2 d2. c4( d) e( | f e
-
+    f2 d | g1 r2 f ~ | f g a1 | a2 f1 bf2 ~ | bf4( a g f e2) f | 
+        e1 r1 | r1 r2 c2 ~ | c d1 ef2 ~ | ef d ef g ~ | g4( f f1) e2 | f1 r1 |
+        ef f | af g | f2 bf1
     % --- page ---
-    d4 c bf g ef'2 | d1) c | r1 r2 d ~ | d c c b | c a g1 | a2 r2 r1 |
-        r1 r2 a' ~ | a g g fs | g e c d | g,4 g c2. a4( bf g) |
-        g1 r2 g4 g | e2( a) g1 | f4( g
+    % -- interrim check --
+    %\key bf \major
+    a2 | g1 g | g g, | d' c2 f ~ | f4( ef) c2 d1 | f1. d2 | f c f1 | d2 d1 c2 | 
+       d1 g,2 f' ~ | f ef af g | f1 d2 ef ~ | ef d c c | r2 g'2. ef4 bf'2 ~ |
+        bf
 
-    a4 bf c2) d ~ | d c c b | c f, g1 | d' r2 c | c a'2.( g8[ f] g4 e |
-        fs g2) fs4 g2 g ~ | g f a4 g g2 ~ | g( fs) g2. g,4 | a1 d2 g, |
-        a2. a4 g2 g | g1 g2 a |
+    af2. g4( g2 ~ | g4 f8[ g] af4 g f ef ef2 | d) c ef1 | r2 f1 e2 | f c f1 |
+        bf, r2 g' ~ | g f bf a | g2. g4 f2 f | f2.( ef4 d ef f2 | bf,1 c2) 
 
-    bf4( a bf c) d1 | R\breve*2 | r1 r2 d | d1 c2 d | ef1 d2 f | f d f e ~ |
-        e4( d e f g2 f ~ | f4 e d2) cs cs | d( f2. e4 d c | bf a g2 c2. bf4 |
-        a2 g4 f bf2 c) | d1 r2
+    d4( ef) | f1 r2 g ~ | g f bf2. a4 | g2( f g) ef | d2. f4 ef( d d2 ~ |
+        d) c d d | f2. ef4 d1 | r2 f1 d2 | ef ef f bf, | f'1 d ~ | d r2 g ~ |
+       g d ef2. f4 | 
 
-    a2 | a a d1 | d d | e\breve | a, | r2 g g g | g e1 a2 | a2.( g4 a f a2 ~ |
-        a g) a1 ~ | a bf | c a2 a | bf2. a4 g2 c ~ | c cs d1 | d2 r e1 |
-        f1 d | r1 d2 f2 ~ | f4 e d2
+    g2 af f1 | ef2 g1 f2 ~ | f ef f f | d e4( f) g1 | r2 g1 c,2 | 
+        ef2. ef4 f2 af | g1 g | r1 r2 g ~ | g f1\ficta e2\unficta | f1 f | e d | 
+        e2 c2. d4( e c) |
 
-    e2 f | g\breve | g, | c1 d | g,2 c ef2. d4 | c2 d1 g,2 | d'1 a ~ |
-        a r2 d | f2. e4 d2 a' ~ | a g a1 | a, r2 a | bf2. a4 g2 g' ~ |
-        g( f) g d ~ | d4( e f2. e4 f d | f2 e d2. c4 | bf a) g2 r
-
-    % --- page ---
-    g2 | bf1 a | r2 g d'2. c4 | bf1 ef2 ef | \[ d1( bf) \] | bf r2 g ~ |
-        g f bf1 | g r2 d' ~ | d bf f'1 | c r2 f ~ | f bf, d( ef ~ |
-        ef4 d c bf a g a2) | g d'1 a2 | d\breve | d\longa*1/2
-
+    d2 d1 g,2 | bf2. c4 d2 f | e1 d ~ | d r1 | r1 r2 d | c1 d | e r2 a ~ |
+        a d, f2. f4 | g2 bf a1 | a r2 a ~ | a\ficta e\unficta f2. g4 | 
+        a2. c4 bf1 | a r2 a ~ | a g1 fs2 | g1 g | g1. g2 | g\longa*1/2
     \bar "|."
 }
 
 discantusLyricsVI = \lyricmode {
-    Li -- be -- ra me Do -- mi -- ne,
+    Pec -- can -- tem me quo -- ti -- di -- e,
     \ijLyrics
-    li -- be -- ra me Do -- mi -- ne,
+    pec -- can -- tem me quo -- ti -- di -- e,
     \normalLyrics
-    li -- be -- ra me Do -- mi -- ne,
-    et po -- ne me jux -- ta te,
-        jux -- ta te,
-    et po -- ne me jux -- ta te,
+        quo -- ti -- di -- e,
+    pec -- can -- tem me quo -- ti -- di -- e, __
     \ijLyrics
-    et po -- ne me jux -- ta te:
+    pec -- can -- tem me quo -- ti -- di -- e
     \normalLyrics
-    et cu -- jus -- vis ma -- nus pu -- gnet con -- tra me,
-        pu -- gnet con -- tra me,
-            con -- tra me,
-    et cu -- jus -- vis ma -- nus pu -- gnet con -- tra me,
+    et non me pe -- ni -- ten -- tem,
     \ijLyrics
-    et cu -- jus -- vis ma -- nus pu -- gnet con -- tra me,
+    et non me pe -- ni -- ten -- tem,
     \normalLyrics
-        pu -- gnet con -- tra me.
+    et non __ me,
+    et non me pe -- ni -- ten -- tem,
+        pe -- ni -- ten -- tem,
+    ti -- mor mor -- tis con -- tur -- bat __ me,
+        con -- tur -- bat me,
+    \ijLyrics
+        con -- tur -- bat me,
+    \normalLyrics
+    ti -- mor mor -- tis con -- tur -- bat me,
+    \ijLyrics
+    ti -- mor mor -- tis con -- tur -- bat me,
+    ti -- mor mor -- tis con -- tur -- bat me,
+    \normalLyrics
+        con -- tur -- bat me.
+    \ijLyrics
+        con -- tur -- bat me,
+    \normalLyrics
 
-    Di -- es me -- i tran -- si -- e -- runt,
+    Qui -- a in in -- fer -- no,
+        in in -- fer -- no,
+    qui -- a in in -- fer -- no,
+        in in -- fer -- no nul -- la est __ re -- dem -- pti -- o,
+    qui -- a in in -- fer -- no nul -- la est re -- dem -- pti -- o,
+            re -- dem -- pti -- o,
+        nul -- la est re -- dem -- pti -- o,
+            re -- dem -- pti -- o,
     \ijLyrics
-    di -- es me -- i tran -- si -- e -- runt,
+            re -- dem -- pti -- o.
     \normalLyrics
-        tran -- si -- e -- runt,
-    co -- gi -- ta -- ti -- o -- nes me -- æ,
+    Mi -- se -- re -- re me -- i De -- us, __
     \ijLyrics
-    co -- gi -- ta -- ti -- o -- nes me -- æ
+    mi -- se -- re -- re me -- i De -- us,
     \normalLyrics
-        dis -- si -- pa -- tæ __ sunt,
+        et sal -- va me,
     \ijLyrics
-        dis -- si -- pa -- tæ sunt, __
+        et sal -- va __ me,
     \normalLyrics
-    co -- gi -- ta -- ti -- o -- nes me -- æ dis -- si -- pa -- tæ sunt,
+    mi -- se -- re -- re me -- i De -- us, et __ sal -- va me,
     \ijLyrics
-    co -- gi -- ta -- ti -- o -- nes me -- æ dis -- si -- pa -- tæ sunt,
+        et sal -- va me,
     \normalLyrics
-    tor -- quen -- tes cor me -- um,
+        sal -- va __ me,
+    mi -- se -- re -- re me -- i De -- us, __ et sal -- va me,
+    mi -- se -- re -- re me -- i De -- us,
     \ijLyrics
-    tor -- quen -- tes cor me -- um,
-    tor -- quen -- tes cor me -- um,
+    mi -- se -- re -- re me -- i De -- us,
     \normalLyrics
-        cor me -- um.
-
-    No -- ctem ver -- te -- runt in di -- em,
+        et __ sal -- va me,
     \ijLyrics
-    no -- ctem ver -- te -- runt in di -- em, __
-    \normalLyrics
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-    \ijLyrics
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem, __
-    \normalLyrics
-        post te -- ne -- bras spe -- ro lu -- cem,
-    \ijLyrics
-        post te -- ne -- bras spe -- ro lu -- cem,
-    \normalLyrics
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-        spe -- ro lu -- cem,
-    \ijLyrics
-        spe -- ro lu -- cem,
-    \normalLyrics
-        spe -- ro lu -- cem,
-    \ijLyrics
-        spe -- ro lu -- cem.
+        et sal -- va me.
     \normalLyrics
 }
 
-contratenorVIincipit = \relative c' {
+contraVIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c3"
-    \key f \major
+    \key bf \major
 
-    d1.
+    d1
 }
 
 % contra: checked against source
-contratenorVI = \relative c' {
+contraVI = \relative c' {
     \fourTwoCutTime
-    \key f \major
+    \key bf \major
 
-    r1 d ~ | d2 c bf1 | a2 bf2.( a4 g f | g2) e d1 | d'1. e2 | fs1 g2 d ~ |
-        d4 e( f2 ef d ~ | d4 c8[ bf] a2 bf) g | r2 d'( c) bf | d1 r2 c ~ |
-        c bf a1 |
+    R\breve | r1 d | ef1. d2 | bf d1 f2 ~ | f( ef2. d4 d2 ~ |
+        d c2. bf4 d2 ~ | d4 c bf1) a2 | bf1 r1 | r1 d | ef1. d2 | 
+        bf2 d c2. c4 | bf1 r1 | r1 e | f1. e2 |
 
-    g2 g'2.( f4 e d | cs a d1) cs2 | d1 r1 | r2 d cs d | a a1 a2 | a1 r2 a |
-        c c a d ~ | d cs d a | c ef d d ~ | d d d1 | R\breve | r2 d, ef ef | d
+    cs2 e1 d2 ~ | d c d1 | r2 g, d'1 | d2 d1 bf2 | ef1 d | 
+        ef2. d4 bf2\melisma c |
+        d2. e4 fs2 g ~ | g\ficta fs2\unficta\melismaEnd g2 g | ef c d g,2 ~ |
+        g4 a4( bf c d2) g, | r1 r2 g | d'1 d2 d ~ | d
 
-    g1 f2 | g1 r2 g | bf bf a d ~ | d4( c ef2.) d4( c2) | b1 r2 bf ~ |
-        bf bf bf bf | ef1 c2 d ~ | d g,4.( a8 bf4. c8 d2 ~ | d) c1 bf4.( c8 |
-        d4. e8 f1 e4 d | e2 f) c1 | r2 c1
-
-    c2 | c c f1 | c2 f2.( ef4 d) c( | d2) ef2. d4( bf c) | d2 g,2. a4 bf2 ~ |
-        bf a bf2. c4 | d2 f ef d ~ | d4( c b a b c2 b4) | c1 r1 | R\breve R |
-        r2 d1 c2 | ef1 d | \invisibleTime\time 6/2
-         s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        b2
-
-    c2 g\breve | \invisibleTime\time 4/2 g\longa*1/2 \bar "||"
-    bf1. g2 | bf2.( c8[ d] ef2 d | bf) d1 d2 | f e cs e ~ | e4 d e( f g2. f4 |
-        d e f2. e4 f d | e2. d4 c bf c2 ~ | c4 d
-
+    c2 f1 | e d1 ~ | d2 a2 d2.( c4 | bf2 c d a | g2. a4 b c d2 | ef1) d |
+        r1 bf1 | c2 d1 c2 | d ef2.( d4 bf4. c8 | d4. ef8 f1 ef4 d) |
+        c2( d) ef1 | r1 bf | c
     % --- page ---
-    ef4 c) d1 ~ | d r1 | r1 r2 f ~ | f c ef1 | d2 g2. f4 g( a |
-        bf2. a4 g f g2 ~ | g fs) g1 | r2 g1 f2 | f e f bf, |
-        \ficta ef1\unficta d | e!2 f g2. g4 | c,2 d1 c2 | c b c f, | bf1 a | r2
+    % interrim check
+    d1 ~ | d2 ef1 r2 | d1 e2 f ~ | f d d g ~ | g4( f e d cs a d2 ~ |
+        d)\ficta cs\unficta d e ~ | e c f1 | f2 f f bf, | bf1 bf2 bf ~ | 
+        bf a g1 | r2 a bf d | g,1 r1 | r1 bf ~ | bf c ~ | c ef | d1.
 
-    g'1 f2 | f e f bf, | ef1 d | c2. c4 d2 g, | c1 r1 | R\breve | r1 r2 g' ~|
-        g f f e | f f, bf1 | a g2. g4 | e2 f c'( bf | c1) r2 d |
-        d a'2.( g8[ f] g4 e | fs4
+    bf2 ~ | bf f'2.( ef4 d2) | c1 bf | r1 bf ~ | bf2 a c f, | bf2.( a4 g2. a4 | 
+        bf c d2 ef4 d d2 | bf c) f, g4 g | af2( bf) f g ~ | g d ef f |
+        g2.( a8[ bf] c2 d | ef c ef) d |
 
-    g2) \ficta fs!4\unficta g2 d | ef d1 c2 | d1 r2 d | d1 c2 d | f1( ef4 d d2~
-        d c) d f ~ | f4( ef) d2( f bf, ~ | bf a bf2. c4 | d1) cs |
-        r2 a d c | d2.( e4 f2) e( | a,2. bf4 c2 f ~ | f
+    bf1 r1 | r2 c1 bf2 | ef d c1 | f,2 f'2. ef4 d2( | c4 bf bf2. a8[ bf] g4 a) |
+        bf1 r1 | R\breve | r2 f'1 c2 | d e f2.( ef4 | d2 c bf) g | a d1 g,2 |
+        bf a g2.( a4 | bf) g d'2 r a | bf g a1 | R\breve |
 
-    e2) f e ~ | e4 d( e f g2 f ~ | f4 e d1 cs2) | d a a a | b1 b | c \[ cs1( |
-        d) \] d1 | r2 b b b | c1 cs2 cs | d2.( e4 f2 e ~ | e4 d d1 cs2) |
-        d\breve | r1 d | d
+    r2 d1 g,2 | bf2. c4 d2 ef | c1 bf | r2 d1 c2 ~ | c b c1 | c2 c2. bf4 af2 |
+        g c ef( c) | g'1 c,2 d | f c d2. d4 | ef1 c2 g' ~ | g ef1 d2 | ef1 d |
+        d2. c4( a2 c) | c\breve | r1 r2 d ~ | d
 
-    c1 | r2 a a2. a4 | bf2 d1 cs2 | d2.( e4 f d f2 ~ | f e) f1 |
-        R\breve | d1 ef | c r1 | r1 r2 d | ef2. d4 c2 g' ~ | g fs g2.( a4 |
-        bf g bf2) a1 | r2 d, f2. e4( | d2) d1
-    % --- page ---
-    c2 | d bf a1 | r1 f | g\breve | d1 r2 g | d'2. d4 d,2 d' ~ | d c f2.( e4 |
-        d c d1 cs2) | d1. d,2 | g1 d | r2 g c2. bf4 | a2 d1 ef2 | d\breve |
-        d1 r2
-
-    d2 ~ | d c d1 | bf2 d1 c2 | ef1 d2. c4( | d ef d c bf a g f) |
-        g2 g'1 f2 | bf1 a2 a ~ | a4 g g1( fs2) | g\longa*1/2
+    % \key f \major
+    c1 b2 | c a c g( | a1) b | r2 d1 a2 | b cs d f ~ | f4 e4( d2 c d ~ |
+        d cs) d1 | r2 f1 d2 ~ | d c d1 | r2 a'1 f2 ~ | f e f1 | 
+        e2 d2.( e4 f2 | e a, d1) | 
+        e d | r2 d1 c2 ~ | c b d1 | r2 ef1 d2 ~ | 
+        d\ficta c\unficta d1 ~ d\longa*1/2
     \bar "|."
 }
 
-contratenorLyricsVI = \lyricmode {
-    Li -- be -- ra me Do -- mi -- ne,
+contraLyricsVI = \lyricmode {
+    Pec -- can -- tem me quo -- ti -- di -- e,
     \ijLyrics
-    li -- be -- ra me Do -- mi -- ne,
+    pec -- can -- tem me quo -- ti -- di -- e,
     \normalLyrics
-        Do -- mi -- ne,
-    li -- be -- ra me Do -- mi -- ne,
-    et po -- ne me jux -- ta te,
+    pec -- can -- tem me quo -- ti -- di -- e
+    et non me pe -- ni -- ten -- tem,
+        pe -- ni -- ten -- tem,
+%    et non me pe -- ni -- ten -- tem,
     \ijLyrics
-    et po -- ne me jux -- ta te,
-    et po -- ne me jux -- ta te,
+    et non me pe -- ni -- ten -- tem,
     \normalLyrics
-    et po -- ne me jux -- ta te,
+    et non me pe -- ni -- ten -- tem,
+        pe -- ni -- ten -- tem,
+    ti -- mor mor -- tis con -- tur -- bat __ me,
+    ti -- mor mor -- tis,
+    ti -- mor mor -- tis con -- tur -- bat me,
     \ijLyrics
-    et po -- ne me jux -- ta __ te: 
+    ti -- mor mor -- tis con -- tur -- bat me,
     \normalLyrics
-    et __ cu -- jus -- vis ma -- nus pu -- gnet __ con -- tra __ me,
-    et cu -- jus -- vis ma -- nus pu -- gnet con -- tra __ me,
+        con -- tur -- bat me,
     \ijLyrics
-    et cu -- jus -- vis ma -- nus pu -- gnet con -- tra __ me,
+        con -- tur -- bat me,
     \normalLyrics
-        pu -- gnet con -- tra me,
-            con -- tra me.
+    ti -- mor __ mor -- tis con -- tur -- bat me.
 
-    Di -- es me -- i,
-    di -- es me -- i tran -- si -- e -- runt, __
-    di -- es me -- i tran -- si -- e -- runt, 
-    co -- gi -- ta -- ti -- o -- nes me -- æ dis -- si -- pa -- tæ sunt,
+    Qui -- a in in -- fer -- no,
+        in in -- fer -- no nul -- la est re -- dem -- pti -- o,
+    qui -- a in in -- fer -- no,
+        in in -- fer -- no nul -- la est re -- dem -- pti -- o,
     \ijLyrics
-    co -- gi -- ta -- ti -- o -- nes me -- æ,
+        nul -- la est re -- dem -- pti -- o,
     \normalLyrics
-    co -- gi -- ta -- ti -- o -- nes me -- æ dis -- si -- pa -- tæ sunt,
+            re -- dem -- pti -- o.
+    Mi -- se -- re -- re me -- i De -- us, et __ sal -- va me,
+        et sal -- va me,
     \ijLyrics
-    co -- gi -- ta -- ti -- o -- nes me -- æ dis -- si -- pa -- tæ sunt, __
+        et sal -- va __ me,
     \normalLyrics
-        dis -- si -- pa -- tæ sunt,
+    mi -- se -- re -- re me -- i De -- us, et sal -- va me,
     \ijLyrics
-        dis -- si -- pa -- tæ sunt,
+        et sal -- va __ me,
     \normalLyrics
-    tor -- quen -- tes cor me -- um,
-        cor __ me -- um,
+        et __ sal -- va __ me,
     \ijLyrics
-    tor -- quen -- tes cor __ me -- um,
+        et sal -- va me,
     \normalLyrics
-        cor __ me -- um.
-
-    No -- ctem ver -- te -- runt in di -- em,
+    mi -- se -- re -- re me -- i __ De -- us, et sal -- va me,
     \ijLyrics
-    no -- ctem ver -- te -- runt in di -- em,
+        et sal -- va me,
     \normalLyrics
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
+        et sal -- va me,
+        et sal -- va me,
     \ijLyrics
-        post te -- ne -- bras spe -- ro lu -- cem,
+        et sal -- va me. __
     \normalLyrics
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-    \ijLyrics
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-    \normalLyrics
-        spe -- ro lu -- cem,
-    \ijLyrics
-        spe -- ro lu -- cem,
-    \normalLyrics
-            lu -- cem,
-    \normalLyrics
-        spe -- ro lu -- cem,
-    \ijLyrics
-        spe -- ro lu -- cem.
-    \normalLyrics
-
 }
 
-tenorVIincipit = \relative c {
+tenorVIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c4"
-    \key f \major
+    \key bf \major
 
-    d1.
+    d1
 }
 
 % tenor: checked against source
-tenorVI = \relative c {
+tenorVI = \relative c' {
     \fourTwoCutTime
-    \key f \major
+    \key bf \major
 
-    d1. e2 | fs1 g | fs2( g2.) a4( bf2 ~ | bf a4 g) a1 | g1. g2 | d1 d' ~ |
-        d2 c bf1 | g2 d g4( a bf g | a1) g2 g | bf bf g a ~ |
-        a4 g( g1 fs2) | g1 r2 g ~ | g
+    d1 ef ~ | ef2 d bf d | c2. bf4 g1 ~ | g2 f bf a | bf c a( bf ~ |
+        bf4) a4( g f g2 a) | bf f g c, | g' f g bf( | a1) g | r1 bf | 
+        f'1. c2 | d2. ef4 
 
-    f2 e1 | d a'2. g4( | f e d2) a'1 | r2 e f f | e a1 d,2( |
-        a'2. bf4 c a bf2) | a\breve~a | g1 fs2 fs | g c1 b2 | c2 d bf c |
-        d2 d2. c4( a2) | bf4( a g f
+    d2 c( | a d1 cs2) | d a d2. c4 | a2 c bf2.( a4 | g2) a1( fs2 | bf1) a2 a | 
+        bf1 g2 d' ~ | d4 c c1 b2( | c2. bf4 g2 a | g1) d2 g | d'1 bf2 g ~|
+        g a bf2.( a4 | bf c 
 
-    ef4 d c2 | f g a) d, ~ | d c( e1) | d\breve | 
-        r2 \ficta ef1 ef!2\unficta | c c f1 |
-        d2 \ficta ef1\unficta bf4.( c8 | d4 e! f g a) f( bf2 ~ |
-        bf) a( g1) | c,2 f1 e2 | g a g1 | r2 a1 a2 | a a bf1 |
-
-    g1 r1 | R\breve | r2 f2.( e4 d c) | bf2 d( g2.) f4( | e1) d |
-        r2 e( c2. d4 | e f g1) fs2 | g a( g4 f g a) | bf2 f2. g4( a bf |
-        c2. bf4 a1) | \invisibleTime\time 6/2
-         s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        g2 g1 d2 \ficta ef ef!\unficta | \invisibleTime\time 4/2
-        d\longa*1/2 \bar "||"
-    
-    R\breve | r1 g ~ | g2 f bf1 | a2 a2. g4 a( bf | c1 g2 d' | bf c) d1 |
-        r r2 a ~ | a g2 bf1 | g2 d'2. c4 d( e | f2 f,2. e4 f g | a1) g ~ |
-        g r2 g2 ~ | g4 f4 g( a 
+    d2 bf ef ~ | ef4) d( c2 d2. g,4 | a2 bf a) g | r1 d | e f | f2 f bf2.( a4 |
+        g1) a | b2. c4 d2( g,) | g\breve | r1 g | a2 bf1 a2 | bf c2. bf4( g4. a8|
     % --- page ---
-    \[ bf1 | a) \] g2 g ~ | g d2 e f | g1 f2 g( | ef2. f4 g1) | c,2 r r2 g'2~|  
-        g4 f4 f1 e2 | f2. g4( a) bf( c2) | d1 d,2. a'4 | g2 c,( e d) | 
-        c1 r2 d' ~ | d c2 c b | c f, bf1 | a 
+    bf4. c8 d2 bf c) | a bf1 c2 ~ | c d2. c4 bf2 | bf a bf1 |
+        r2 g1 a2 | bf1 a2 a | d2. c4( bf a g2 ~ | g1) a ~ | a g | 
+        e2 a2.( g4 a bf) | c2 f, d g( | f1) ef | r1 bf' | c2 d1 bf2 |
+    % interrim check
+    bf2 ef1 d2 | ef1 ef2 bf ~ | bf4 c( d ef) f1 | r1 g, | g2 bf1 g2 |
+        g f1 bf,2( | f'1) f ~ | f r1 | f1. d2 | g f ef1 | d r1 | r2 c'1 bf2 |
+        c f, bf1 | ef,2 g1 f2 | ef d c bf( | ef f g bf) |
 
-    g2. f4 | g2 c, d1 | ef4 ef bf'2. a4( g2 ~ | g4 f4 d2) g1 | r2 d d d'2 ~ |
-        d4( c8[ bf] c4 a b c2 b4 | c1) f,2 g | r c4 c d2 g, | d1 r1 | 
-        r2 d d1 | c2 d ef1 | d2
+    ef,1 r1 | R\breve | r1 r2 c' ~ | c f, a bf | g( bf) ef,1 | r2 bf'1 f2 |
+        bf c d2. c4( | bf2) a r1 | r1 r2 bf ~ | bf f g ef | d2. d4( g2) g ~ | 
+        g d ef c | g' a g d | R\breve | r2 a'1 d,2 | f2. g4 a2 bf |
+        g1 f2 r | r a1 g2 ~ | g
 
-    g1 fs4( e | fs2 g) a1 | r2 a a1 | g2 a bf1 | a r2 f | g ef f d( |
-        f2. g4 a2. g4 | a bf c2 bf a | f g) a2. g4( | f e d2) e( f | g1) f2 r |
-        c2. d4( e d
+    fs2 g ef' | d2. g,4 g1 | r1 r2 c | c2. bf4 af1 | g2 g a bf ~ |
+        bf4 f a2 g1 | c,2 c' g2. af4( | bf g c2 af f) | bf c1 bf2 ~ |
+        bf a c g | af1 g | f2 d'2. c4( a2) | b
 
-    f2 | \[ d1 e) \] | d d | d2 d g1 | g2 e1 a2 ~ | a4( g4 fs e) fs1 |
-        r2 d d d | e1 e2 e | f1( d2 e | f d e1) | d g | a fs2 fs | g2. f4 e2 e~|
-        e e2 
-
-    d2.( e8[ f] | g4 a bf2) a1 | r1 bf1 | c a2 a | bf2. a4 g2 c ~ | c b2 c g |
-        r c, ef2. d4 | c2 c'1 b2 | c1 g | R\breve | r1 e'1 | f d | 
-        r2 d, f2. e4 | d2 d'1 cs2 | d1 a | r2
-
-    % --- page ---
-    g2 bf2. a4 | g2 bf4 c d1 | d, r1 | r1 r2 d | g2. f4( e d e2) |
-        d g1 f2 | bf1 a1 | g1 ef2( c) | d1 d2 g ~ | g f2 bf1 | a d2.( c4 |
-        bf a 
-
-    g2 a) bf | g2.( f4 d ef f2 | ef c) bf1 ~ | bf r1 | R\breve | r2 g'1 f2 | 
-        \[ bf1( a) \] | g\longa*1/2
-
+    c2 d g, ~ | g( f1) e2 | d1 g ~ | g d | g2 a d,1 ~ | d f | e d | f bf |
+        a d,2 d' | c2. bf4( c2 d) | bf1 r2 a ~ | a d, f2. g4 | a2 c bf1 | 
+        a2 a1 g2 ~ | g f g e | fs g a1 | b2 c g2.( f4 | ef1) d1~d\longa*1/2
     \bar "|."
 }
 
 tenorLyricsVI = \lyricmode {
-    Li -- be -- ra me Do -- mi -- ne,
-        Do -- mi -- ne,
+    Pec -- can -- tem me quo -- ti -- di -- e, __
+    pec -- can -- tem me quo -- ti -- di -- e,
     \ijLyrics
-    li -- be -- ra me Do -- mi -- ne,
+    pec -- can -- tem me quo -- ti -- di -- e,
     \normalLyrics
-    et po -- ne me jux -- ta te,
-    li -- be -- ra me Do -- mi -- ne,
-    et po -- ne me jux -- ta __ te, __
+    pec -- can -- tem me quo -- ti -- di -- e,
     \ijLyrics
-    et po -- ne me jux -- ta te,
-    et po -- ne me jux -- ta __ te, __
+    pec -- can -- tem me quo -- ti -- di -- e,
     \normalLyrics
-        jux -- ta __ te:
-    et cu -- jus -- vis ma -- nus pu -- gnet __ con -- tra me,
+    pec -- can -- tem me __ quo -- ti -- di -- e,
     \ijLyrics
-        pu -- gnet con -- tra __ me,
+    pec -- can -- tem me __ quo -- ti -- di -- e
     \normalLyrics
-    et cu -- jus -- vis ma -- nus pu -- gnet con -- tra me,
-        pu -- gnet con -- tra __ me,
-            con -- tra __ me,
-        pu -- gnet con -- tra me.
+    et non me pe -- ni -- ten -- tem,
+        pe -- ni -- ten -- tem,
+    ti -- mor mor -- tis con -- tur -- bat __ me,
+    \ijLyrics
+    ti -- mor __ mor -- tis con -- tur -- bat me,
+    ti -- mor mor -- tis con -- tur -- bat __ me, __
+    \normalLyrics
+    ti -- mor mor -- tis con -- tur -- bat __ me,
+    \ijLyrics
+    ti -- mor mor -- tis con -- tur -- bat me,
+    \normalLyrics
+        con -- tur -- bat __ me.
+    ti -- mor mor -- tis con -- tur -- bat me. __
 
-    Di -- es me -- i tran -- si -- e -- runt,
+    Qui -- a in in -- fer -- no,
     \ijLyrics
-    di -- es me -- i tran -- si -- e -- runt, __
+    qui -- a in in -- fer -- no
     \normalLyrics
-        tran -- si -- e -- runt,
-    co -- gi -- ta -- ti -- o -- nes me -- æ,
-    co -- gi -- ta -- ti -- o -- nes me -- æ dis -- si -- pa -- tæ __ sunt,
+        nul -- la est re -- dem -- pti -- o,
+    qui -- a in in -- fer -- no nul -- la est re -- dem -- pti -- o,
     \ijLyrics
-    co -- gi -- ta -- ti -- o -- nes me -- æ dis -- si -- pa -- tæ sunt,
+        nul -- la est re -- dem -- pti -- o, __
+        nul -- la est re -- dem -- pti -- o,
     \normalLyrics
-        dis -- si -- pa -- tæ sunt,
+    Mi -- se -- re -- re me -- i De -- us, et sal -- va me,
+        et sal -- va me,
     \ijLyrics
-        dis -- si -- pa -- tæ sunt,
+        et sal -- va me,
     \normalLyrics
-        dis -- si -- pa -- tæ sunt,
-
-    tor -- quen -- tes cor me -- um,
-        cor me -- um,
+    mi -- se -- re -- re __ me -- i De -- us, et sal -- va __ me,
     \ijLyrics
-    tor -- quen -- tes cor me -- um,
+        et sal -- va me,
     \normalLyrics
-        cor me -- um,
+        et sal -- va me,
     \ijLyrics
-        cor me -- um,
+        et sal -- va me,
+        et sal -- va me,
     \normalLyrics
-        cor __ me -- um,
+    mi -- se -- re -- re me -- i De -- us, et sal -- va me,
     \ijLyrics
-        cor me -- um.
+        et sal -- va __ me,
     \normalLyrics
-
-    No -- ctem ver -- te -- runt in di -- em,
+    mi -- se -- re -- re me -- i De -- us, et sal -- va me,
     \ijLyrics
-    no -- ctem ver -- te -- runt in di -- em,
+        et sal -- va me,
+        et sal -- va __ me. __
     \normalLyrics
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-    \ijLyrics
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-    \normalLyrics
-        post te -- ne -- bras spe -- ro lu -- cem,
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-        post te -- ne -- bras spe -- ro lu -- cem,
-        post te -- ne -- bras spe -- ro lu -- cem,
-    \ijLyrics
-            spe -- ro lu -- cem,
-    \normalLyrics
-        spe -- ro lu -- cem,
-    \ijLyrics
-        spe -- ro lu -- cem, __
-    \normalLyrics
-        spe -- ro lu -- cem.
 }
 
-bassusVIincipit = \relative c' {
+bassusVIincipit = \relative c {
     \time 2/2
-    \clef "petrucci-f4"
+    \clef "petrucci-c5"
     \key bf \major
 
-    g1.
+    d1
 }
 
 % bassus: checked against source
-bassusVI = \relative c' {
+bassusVI = \relative c {
     \fourTwoCutTime
-    \key f \major
+    \key bf \major
 
-    R\breve*4 | R\breve*2 | r1 g ~ | g2 f ef1 |
-        d ef2.( d4| bf c d bf c2.) c4 | d\breve | g,1. g2 | a\breve | r1 r2 a |
-        bf bf a d ~ | d cs d1 | a( d2.) d4 | a1 r1 | r1 d |
+    R\breve*4 | r1 d | ef1. d2 | bf d2 c2. c4 | bf1 r1 | R\breve R | r1 f' |
+        bf1. a2 | f bf a2. a4 | d,1 r1 | R\breve | r1 d | d d | g1. g2 | 
+        g\breve | c,1 r1 | R\breve*2 | c1 g' | g2 g1
 
-    c2 c d1 | g,2. g4 d'2 d | ef ef d g ~ | g fs g1 | g,2 g d' r2 |
-        r1 c1 | d2 g, d'1 | b2( c1) c2 | g\breve | R | R\breve*4 | r1 c ~ |
-        c2 c c c | f1 d2 f ~ | f4( ef4 d c) bf2
+    ef2 | af1 g | fs2 g d( bf') | a\breve | a,1 d | d2 d1 bf2 | ef1 d | 
+        g1. g2 | c,1 g' ~ | g r1 | R\breve R\breve*2 | r1 ef ~ | ef2 f g1 | 
+        f2 f bf2.( a4 | g f ef d ef) c( f2) | bf,1 r1 | R\breve*2 | 
 
-    bf' ~ | bf4( a g f ef2 g ~ | g4 f ef d) c2( d4 ef | f1) bf, | r1 r2 g ~|
-        g2 g g g | c1 a | g2.( a4 bf c) d2 ~ | d c ef2.( d4 | bf2. c4 d ef f2 |
-        \[ c1 d) \] | \invisibleTime\time 6/2
-         s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        g,2 c1 b2( c1) | \invisibleTime\time 4/2 g\longa*1/2\bar "||"
-    % secunda
-    R\breve*4 | r1 r2 g' ~ | g f bf1 | a2 a,2. g4 a( bf | c1) g2 g' ~ |
-        g4 f g( a bf1) | f r1 | r1 r2 c | g1 c | bf2 bf2. a4 bf( c |
-        d1 g,2 c) | g1 r1 | R\breve | r1 r2 g' ~ | g f f
+    a1 b2 c ~ | c a d f ~ | f4 ef( d c) bf1 ~ | bf r2 ef ~ | ef f g1 |
+        f2 f g1 | ef bf' | af ef | r1 f | c1. c2 | g'2.( a4 bf1) | bf, f' ~ |
+        f2 f bf,1 ~ | bf r1 | R\breve*2 R\breve*2 | r2 
+    % -- interrim check ---
+    bf1 g2 | c bf af1 | g r1 | r1 r2 g' ~ | g ef af g | f2. f4 ef1 | R\breve |
+        r2 f1 bf,2 | ef d c1 | bf r1 | r1 r2 bf' ~ | bf f2 bf a |
+        g2. g4 f2 r | R\breve*2 | r1 r2 g ~ | g d g
 
-    e?2 | f bf, \[ c1( | d) \] c2 r | r1 r2 d | g, g'2.( e4 f) d( |
-        e4. f8 g2) f g4 g | ef2. f4( g1) | c,2 r r1 |
-        r2 c1 bf2 | bf a g g | c( bf ef1) | d c2 c | f1 d ~ | d
-    % --- page ---
-    g,2 g' | g c2.( bf8[ a] bf4) g( | a1) g2 g ~| g fs g e( | d1 g, |
-        c2 b) c1 | R\breve | r1 r2 d | d1 c2 d | ef1 d | d2 f2.( e4 d2 |
-        c1) bf ~ | bf r2 a | a1
+    f2 | ef2. ef4 d1 ~ | d\breve | d2. ef4 f2 g | ef1 d2 g( | f1) bf,2.( c4 |
+        d2) d ef2. f4( | g1) c,2. d4( | e2) f1 f2 | c1 r1 | R\breve | 
+        r1 r2 g' ~ | g c, ef2. f4 | g2 af f1 | 
+    % --- page --- 
+        
+    ef1 r2 g ~ | g f1 e2 | f1 c | d2.( ef4 f1) | g\breve | c, | R\breve*2 |
+        r1 r2 bf' ~ | bf a1( g4) f( | g1) a2 r | R\breve | r2 a1 d,2 | 
+        f2. g4 a2 bf | g1 f | c2 d1 d2 | a1 r1 | r1
 
-    g2 a | bf1 a | R\breve | r1 r2 a | a1 g2 a | bf1 a | R\breve | g1 g2 g | 
-        c1 a2 a |
-        d1 d | r2 g, g g | c1 a2 a | d1.( c2 | d bf a1) | d r1 | R\breve |
-
-    bf1 c | a r1 | g a | f r | r2 c' d2. c4 | bf2 bf'1 g2 | g1 c, |
-        c c2. bf4 | a1 g2 g | c1 c | r1 g' ~ | g a | d, r1 | R\breve | r1 a |
-        d\breve | g,1 r2 g | bf2. a4 g2 g' ~ | g f
-
-    bf1( | a) d, | R\breve | bf1 d | g, r2 d' | ef2. d4 c1 | r1 g |
-        bf2. a4 g1 | r2 d'1 bf2 | ef1 d | R\breve | r2 g1 f2 |
-        bf2.( a4 g f ef d | c bf c2) d2. c4(
-
-    bf4 a) g2 d'1 | bf2. c4( d1) | g,\longa*1/2
-
+    d ~ | d b2 c( | d\breve) | g2 c,4.( d8 ef4) f( g2) | c,1 g1~g\longa*1/2
     \bar "|."
 }
 
 bassusLyricsVI = \lyricmode {
-    Li -- be -- ra me Do -- mi -- ne,
-        Do -- mi -- ne,
-    et po -- ne me jux -- ta te,
-        jux -- ta te,
-    et po -- ne me jux -- ta te,
+    Pec -- can -- tem me quo -- ti -- di -- e,
     \ijLyrics
-    et po -- ne me jux -- ta te,
+    pec -- can -- tem me quo -- ti -- di -- e
     \normalLyrics
-        jux -- ta te,
-    et po -- ne me jux -- ta te:
-    et __ cu -- jus -- vis ma -- nus pu -- gnet con -- tra __ me,
-    et __ cu -- jus -- vis ma -- nus pu -- gnet __ con -- tra __ me,
-            con -- tra __ me.
+    et non me pe -- ni -- ten -- tem,
+    et non me pe -- ni -- ten -- tem,
+        pe -- ni -- ten -- tem,
+    et non me pe -- ni -- ten -- tem,
+        pe -- ni -- ten -- tem, __
+    ti -- mor mor -- tis con -- tur -- bat __ me,
+    ti -- mor mor -- tis con -- tur -- bat __ me, __
+    \ijLyrics
+    ti -- mor mor -- tis con -- tur -- bat me,
+    \normalLyrics
+        mor -- tis con -- tur -- bat __ me, __
+            con -- tur -- bat me. __
 
-    Di -- es me -- i tran -- si -- e -- runt,
-        tran -- si -- e -- runt,
-    di -- es me -- i tran -- si -- e -- runt,
-    co -- gi -- ta -- ti -- o -- nes me -- æ dis -- si -- pa -- tæ __ sunt,
+    Qui -- a in in -- fer -- no nul -- la est re -- dem -- pti -- o,
+    qui -- a in in -- fer -- no nul -- la est re -- dem -- pti -- o,
+        nul -- la est re -- dem -- pti -- o, __
+    Mi -- se -- re -- re me -- i De -- us, __ et sal -- va me,
+        et sal -- va me,
+    mi -- se -- re -- re me -- i De -- us, et __ sal -- va me,
+        et sal -- va me,
     \ijLyrics
-        dis -- si -- pa -- tæ __ sunt,
+        et __ sal -- va me,
     \normalLyrics
-    co -- gi -- ta -- ti -- o -- nes me -- æ dis -- si -- pa -- tæ __ sunt,
-        dis -- si -- pa -- tæ __ sunt,
-    \ijLyrics
-        dis -- si -- pa -- tæ __ sunt,
-    \normalLyrics
-    tor -- quen -- tes cor me -- um,
-        cor me -- um, __
-    tor -- quen -- tes cor me -- um,
-    \ijLyrics
-    tor -- quen -- tes cor me -- um.
-    \normalLyrics
-
-    No -- ctem ver -- te -- runt in di -- em,
-    \ijLyrics
-    no -- ctem ver -- te -- runt in di -- em,
-    \normalLyrics
-    et rur -- sum,
-    \ijLyrics
-    et rur -- sum
-    \normalLyrics
-        post te -- ne -- bras spe -- ro lu -- cem,
-    \ijLyrics
-        post te -- ne -- bras spe -- ro lu -- cem,
-    \normalLyrics
-    et __ rur -- sum,
-    et rur -- sum post te -- ne -- bras spe -- ro lu -- cem,
-    et rur -- sum post te -- ne -- bras,
-        post te -- ne -- bras spe -- ro lu -- cem,
-            spe -- ro lu -- cem,
-                lu -- cem,
-            spe -- ro lu -- cem.
+    mi -- se -- re -- re me -- i De -- us, et sal -- va me,
+        et __ sal -- va __ me,
+        et __ sal -- va me. __
 }
 
 superiusVIincipitVoice = <<
@@ -654,10 +519,10 @@ discantusVIincipitVoice = <<
     >>
 >>
 
-contratenorVIincipitVoice = <<
+contraVIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \contratenorVIincipit
+        \contraVIincipit
     >>
 >>
 

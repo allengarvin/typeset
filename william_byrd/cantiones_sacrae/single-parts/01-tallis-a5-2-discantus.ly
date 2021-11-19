@@ -9,50 +9,54 @@
 
 \header {
     % Things that change per piece:
-    title = "Libera me, Domine, et pone me juxta te"
-    instrument = "Libera me, Domine, et pone me juxta te (discantus)"
-    folio = "Job 17:3, 11-12"
-    composer = "William Byrd (c.1540-1623)"
+    title = "Salvator mundi, salva nos"
+    subtitle = ""
+    instrument = "Salvator mundi, salva nos:  (discantus)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "salvator_mundi_salva_nos"
+    shortcomp = "tallis"
+    composer = "Thomas Tallis (c.1505-1585)"
+    folio = "Antiphon for the Exaltation of the Holy Cross"
 
     % Things that change per part:
     partname = "Discantus (part 2 of 5)"
-    instrument = "Libera me, Domine, et pone me juxta te (discantus)"
+    instrument = "Salvator mundi, salva nos:  (discantus)"
 
     % Unchanging:
-    originallyset = "2018-11-04"
-    lastupdated = "2018-11-04"
+    lastupdated = "2021-11-05"
+    originallyset = "2021-11-05"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/05-byrd-a5-motet.ly"
+\include "../parts/01-tallis-a5-motet.ly"
 
 \book {
-    \bookOutputName "05-byrd--libera_me_domine_et_pone_me_juxta_te"
+    \bookOutputName "01-tallis--salvator_mundi_salva_nos-"
     \bookOutputSuffix "--2-discantus--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \discantusV
+            \discantusI
         >>
-                \addlyrics { \discantusLyricsV }
+                \addlyrics { \discantusLyricsI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "05-byrd--libera_me_domine_et_pone_me_juxta_te"
+    \bookOutputName "01-tallis--salvator_mundi_salva_nos-"
     \bookOutputSuffix "--2-discantus--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \discantusV
+            \discantusI
         >>
-                \addlyrics { \discantusLyricsV }
+                \addlyrics { \discantusLyricsI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
