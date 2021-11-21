@@ -10,30 +10,30 @@
 
 \header {
     % Things that change per piece:
-    title = "Candidi facti sunt Nazarei"
+    title = "Derelinquat impius viam suam"
     subtitle = ""
-    instrument = "Candidi facti sunt Nazarei:  (score)"
+    instrument = "Derelinquat impius viam suam:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "candidi_facti_sunt_nazarei"
-    shortcomp = "tallis"
+    shorttitle = "derelinquat_impius_viam_suam"
     composer = "Thomas Tallis (c.1505-1585)"
+    shortcomp = "tallis"
     needtranslation = #'t
-    folio = "Responsory at first vespers of an Apostle or Evangelist in Paschal time"
+    folio = "Isaiah 55:7; Joel 2:13"
 
     % Unchanging:
     language = "latin"
     lastupdated = "2021-11-18"
     originallyset = "2021-11-18"
-    flats = 1
-    final = "d"
+    flats = 0
+    final = "c"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/22-tallis-a5-motet.ly"
+\include "../parts/13-tallis-a5-motet.ly"
 
 \book {
-    \bookOutputName "22-tallis--candidi_facti_sunt_nazarei-"
+    \bookOutputName "13-tallis--derelinquat_impius_viam_suam-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,44 +42,44 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Superius"
-                    \incipit \superiusXXIIincipitVoice
+                    \incipit \superiusXIIIincipitVoice
                     \clef "treble"
                     \global
-                    \superiusXXII
+                    \superiusXIII
                 >>
-             \addlyrics { \superiusLyricsXXII }
+             \addlyrics { \superiusLyricsXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"
-                    \incipit \discantusXXIIincipitVoice
+                    \incipit \discantusXIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \discantusXXII
+                    \discantusXIII
                 >>
-             \addlyrics { \discantusLyricsXXII }
+             \addlyrics { \discantusLyricsXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Contratenor"
-                    \incipit \contratenorXXIIincipitVoice
-                    \clef "bass"
+                    \incipit \contratenorXIIIincipitVoice
+                    \clef "treble_8"
                     \global
-                    \contratenorXXII
+                    \contratenorXIII
                 >>
-             \addlyrics { \contratenorLyricsXXII }
+             \addlyrics { \contratenorLyricsXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXXIIincipitVoice
+                    \incipit \tenorXIIIincipitVoice
                     \clef "bass"
                     \global
-                    \tenorXXII
+                    \tenorXIII
                 >>
-             \addlyrics { \tenorLyricsXXII }
+             \addlyrics { \tenorLyricsXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusXXIIincipitVoice
+                    \incipit \bassusXIIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusXXII
+                    \bassusXIII
                 >>
-             \addlyrics { \bassusLyricsXXII }
+             \addlyrics { \bassusLyricsXIII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -93,14 +93,20 @@
     \markup {
         \fill-line {
             \column {
-                \line { Candidi facti sunt Nazarei ejus. Alleluia.  }
-                \line { Splendorem Dei dederunt. Alleluia.  }
-                \line { Et sicut lac coagulati sunt. Alleluia. }
+                \line { Derelinquat impius viam suam, }
+                \line { et vir iniquus cogitationes suas, }
+                \line { et revertatur ad Dominum et miserebitur ejus. }
+                \line { Quia benignus et misericors est,  }
+                \line { et præstabilis super malitia,  }
+                \line { Dominus Deus noster. }
             }
             \column {
-                \line { Radiant white became his Nazarites. Alleluia.  }
-                \line { They gave splendour to God. Alleluia.  }
-                \line { And are curdled like milk. Alleluia. }
+                \line { Let the wicked forsake his way,  }
+                \line { and the unjust man his thoughts,  }
+                \line { and let him return to the Lord, and he will have mercy on him. }
+                \line { For the Lord our God is gracious and merciful,  }
+                \line { and repenteth him of the evil, }
+                \line { the Lord Our God. }
             }
         }
     }

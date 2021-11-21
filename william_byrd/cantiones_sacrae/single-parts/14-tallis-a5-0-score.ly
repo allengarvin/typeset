@@ -10,30 +10,28 @@
 
 \header {
     % Things that change per piece:
-    title = "Candidi facti sunt Nazarei"
+    title = "Dum transisset Sabbatum"
     subtitle = ""
-    instrument = "Candidi facti sunt Nazarei:  (score)"
+    instrument = "Dum transisset Sabbatum:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "candidi_facti_sunt_nazarei"
-    shortcomp = "tallis"
+    shorttitle = "dum_transisset_sabbatum"
     composer = "Thomas Tallis (c.1505-1585)"
+    shortcomp = "tallis"
     needtranslation = #'t
-    folio = "Responsory at first vespers of an Apostle or Evangelist in Paschal time"
+    folio = "Mark 16:1"
 
     % Unchanging:
     language = "latin"
-    lastupdated = "2021-11-18"
-    originallyset = "2021-11-18"
-    flats = 1
-    final = "d"
+    lastupdated = "2021-11-20"
+    originallyset = "2021-11-20"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/22-tallis-a5-motet.ly"
+\include "../parts/14-tallis-a5-motet.ly"
 
 \book {
-    \bookOutputName "22-tallis--candidi_facti_sunt_nazarei-"
+    \bookOutputName "14-tallis--dum_transisset_sabbatum-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,44 +40,44 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Superius"
-                    \incipit \superiusXXIIincipitVoice
+                    \incipit \superiusXIVincipitVoice
                     \clef "treble"
                     \global
-                    \superiusXXII
+                    \superiusXIV
                 >>
-             \addlyrics { \superiusLyricsXXII }
+             \addlyrics { \superiusLyricsXIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Discantus"
-                    \incipit \discantusXXIIincipitVoice
-                    \clef "treble_8"
+                    \incipit \discantusXIVincipitVoice
+                    \clef "treble"
                     \global
-                    \discantusXXII
+                    \discantusXIV
                 >>
-             \addlyrics { \discantusLyricsXXII }
+             \addlyrics { \discantusLyricsXIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Contratenor"
-                    \incipit \contratenorXXIIincipitVoice
-                    \clef "bass"
+                    \incipit \contratenorXIVincipitVoice
+                    \clef "treble"
                     \global
-                    \contratenorXXII
+                    \contratenorXIV
                 >>
-             \addlyrics { \contratenorLyricsXXII }
+             \addlyrics { \contratenorLyricsXIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXXIIincipitVoice
-                    \clef "bass"
+                    \incipit \tenorXIVincipitVoice
+                    \clef "treble_8"
                     \global
-                    \tenorXXII
+                    \tenorXIV
                 >>
-             \addlyrics { \tenorLyricsXXII }
+             \addlyrics { \tenorLyricsXIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusXXIIincipitVoice
-                    \clef "bass"
+                    \incipit \bassusXIVincipitVoice
+                    \clef "treble_8"
                     \global
-                    \bassusXXII
+                    \bassusXIV
                 >>
-             \addlyrics { \bassusLyricsXXII }
+             \addlyrics { \bassusLyricsXIV }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -93,14 +91,16 @@
     \markup {
         \fill-line {
             \column {
-                \line { Candidi facti sunt Nazarei ejus. Alleluia.  }
-                \line { Splendorem Dei dederunt. Alleluia.  }
-                \line { Et sicut lac coagulati sunt. Alleluia. }
+                \line { Dum transisset Sabbatum,  }
+                \line { Maria Magdalene et Maria Jacobi  }
+                \line { et Salome emerunt aromata:  }
+                \line { ut venientes ungerent Jesum. Alleluia. }
             }
             \column {
-                \line { Radiant white became his Nazarites. Alleluia.  }
-                \line { They gave splendour to God. Alleluia.  }
-                \line { And are curdled like milk. Alleluia. }
+                \line { And when the sabbath was past,  }
+                \line { Mary Magdalene, and Mary the mother of James, }
+                \line { and Salome, had bought sweet spices:  }
+                \line { that they might come and anoint him. Alleluia. }
             }
         }
     }

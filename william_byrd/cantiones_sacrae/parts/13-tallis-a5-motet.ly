@@ -13,9 +13,9 @@ superiusXIIIincipit = \relative c' {
     d1.
 }
 
+% superius: checked against source
 superiusXIII = \relative c' {
     \fourTwoCutTime
-    \clef soprano
     \key c \major
 
     R\breve*4 | R\breve*5 | r1 d ~ | d2 d f1 | e2 g2. g4 f2 ~ | f d f a ~|
@@ -25,9 +25,9 @@ superiusXIII = \relative c' {
         g fs4( e fs e fs g) | a1 r1 | r1 r2 d | d d b
 
     g2 | b d1 cs2 | d d, g a | b2. g4 a2 c | b1 r1 | r1 r2 e, | 
-        g2 a b2. g4 | a2 c b1 | a r1 | r1 a ~ | a d, | r2 d g fs | e
+        g2 a b2. g4 | a2 c( b1) | a r1 | r1 a ~ | a d, | r2 d g fs | e
 
-    d2 d' c | a( g1 fs2 | e) d r1 | R\breve*2 | r2 e a g | f e d' c | 
+    d2 c' b | a( g1 fs2 | e) d r1 | R\breve*2 | r2 e a g | f e d' c | 
         b( a1 gs2) | a\breve | R\breve*2 | r2 e e g ~ | g4 a b2 c a | b
 
     c2. b4( a2 | g e) b'1 | R\breve | b2. b4 b2 d ~ | d4( c b a c2 b4 a |
@@ -35,30 +35,31 @@ superiusXIII = \relative c' {
 
     % --- page ---
     a2 ~ | a4 g( f) e( f2 e ~ | e) a2 r a ~ | a4 a a1 d2 ~ |
-        d4 c b a b2 a ~ | a g fs d ~ | d4 d d1 g2 ~ | g4( f e d e2) d ~ |
+        d4 c( b a b2) a ~ | a( g) fs d ~ | d4 d d1 g2 ~ | g4( f e d e2) d ~ |
         d g2.( f4 d2) | e\longa*1/2
     \bar "|."
 }
 
 superiusLyricsXIII = \lyricmode {
-%    De -- re -- lin -- quat im -- pi -- us vi -- am su -- am,
-%        vi -- am su -- am,
-%        vi -- am su -- am,
-%    et vir i -- ni -- quus co -- gi -- ta -- ti -- o -- nes su -- as,
-%    et re -- ver -- ta -- tur ad Do -- mi -- num
-%        et mi -- se -- re -- bi -- tur e -- jus,
-%        e -- jus.
-%    Qui -- a be -- ni -- gnus et mi -- se -- ri -- cors est,
-%    \ijLyrics
-%        be -- ni -- gnus et mi -- se -- ri -- cors est,
-%    \normalLyrics
-%    et præ -- sta -- bi -- lis su -- per ma -- li -- ti -- a,
-%    Do -- mi -- nus De -- us no -- ster,
-%    \ijLyrics
-%    Do -- mi -- nus De -- us no -- ster,
-%    \normalLyrics
-%    Do -- mi -- nus De -- us no -- ster,
-%        De -- us no -- ster.
+    De -- re -- lin -- quat im -- pi -- us __ vi -- am su -- am, __
+    et vir i -- ni -- quus co -- gi -- ta -- ti -- o -- nes su -- as,
+    et re -- ver -- ta -- tur ad Do -- mi -- num,
+    \ijLyrics
+    et re -- ver -- ta -- tur ad Do -- mi -- num
+    \normalLyrics
+        et mi -- se -- re -- bi -- tur e -- jus,
+    \ijLyrics
+        et mi -- se -- re -- bi -- tur e -- jus,
+    \normalLyrics
+    Qui -- a be -- ni -- gnus et mi -- se -- ri -- cors __ est,
+        be -- ni -- gnus et mi -- se -- ri -- cors __ est,
+    et præ -- sta -- bi -- lis su -- per ma -- li -- ti -- a,
+    Do -- mi -- nus De -- us no -- ster,
+    Do -- mi -- nus De -- us __ no -- ster,
+    \ijLyrics
+    Do -- mi -- nus De -- us __ no -- ster,
+    \normalLyrics
+    Do -- mi -- nus De -- us __ no -- ster.
 }
 
 discantusXIIIincipit = \relative c' {
@@ -69,9 +70,9 @@ discantusXIIIincipit = \relative c' {
     g1.
 }
 
+% discantus: checked against source
 discantusXIII = \relative c' {
     \fourTwoCutTime
-    \clef alto
     \key c \major
 
     g1. g2 | b1 a2 c ~ | c4 c b1 g2 | b d2.( c4 f2 ~ | f e2. d4 c2 | 
@@ -86,7 +87,7 @@ discantusXIII = \relative c' {
     g1 | r1 r2 a | a4 a b1 a2 | g d'( c e ~ | e d2. e8[ f] e2) | d1 r1 |
         R\breve | r2 a d e | fs2. d4 e2 g | fs1 r1 | d\breve | b1 r2 a | b a g
 
-    d'2 | e d2. c4( c2 ~ | c b a) g | r2 d d e | f g1 f2 | e2 e' e e |
+    d'2 | e d2. c4( c2 ~ | c b a) g | r2 d d e | f g1( f2) | e2 e' e e |
         c2 c4 e2 d4 e2 | r2 e d4 d b2 | cs a a
 
     % --- page ---
@@ -94,30 +95,34 @@ discantusXIII = \relative c' {
         e2 g2. f4( e d | e2) d2.( c4 b a | b2 a1 g2 | c2. d4) e2
 
     f2 ~ | f4 e e2 d( c ~ | c4 b c1 a4 b | c d e2) a, e' ~ |
-        e4( d c b c2.) b4 | a1 r2 c | c c2.( b4 a g) | a\breve | r1 a2. b4 |
-        c2 d1
+        e4( d c b c2.) b4( | a1) r2 c | c c2.( b4 a g) | a\breve | r1 a2. b4 |
+        c2 d1(
 
-    cs2 | d\breve | f1( d2 f ~ | f4 e d c d2.) c4 | b2 b2. b4 b2 |
+    cs2) | d\breve | f1( d2 f ~ | f4 e d c d2.) c4( | b2) b2. b4 b2 |
         b2. a4( g a b c | d2) c1( b2) | c\longa*1/2
     \bar "|."
 }
 
 discantusLyricsXIII = \lyricmode {
-%    De -- re -- lin -- quat im -- pi -- us vi -- am su -- am,
-%        vi -- am su -- am,
-%        vi -- am su -- am,
-%    et vir i -- ni -- quus co -- gi -- ta -- ti -- o -- nes su -- as,
-%    et re -- ver -- ta -- tur ad Do -- mi -- num
-%        et mi -- se -- re -- bi -- tur e -- jus,
-%        e -- jus.
-%    Qui -- a be -- ni -- gnus et mi -- se -- ri -- cors est,
-%    \ijLyrics
-%        be -- ni -- gnus et mi -- se -- ri -- cors est,
-%    \normalLyrics
-%    et præ -- sta -- bi -- lis su -- per ma -- li -- ti -- a,
-%    Do -- mi -- nus De -- us no -- ster,
-%    \ijLyrics
-%    Do -- mi -- nus De -- us no -- ster,
+    De -- re -- lin -- quat im -- pi -- us vi -- am su -- am,
+        vi -- am su -- am,
+    de -- re -- lin -- quat im -- pi -- us vi -- am su -- am,
+        vi -- am su -- am,
+        vi -- am su -- am,
+    et vir i -- ni -- quus co -- gi -- ta -- ti -- o -- nes su -- as,
+    et re -- ver -- ta -- tur ad Do -- mi -- num
+        et mi -- se -- re -- bi -- tur e -- jus,
+        et mi -- se -- re -- bi -- tur e -- jus,
+    Qui -- a be -- ni -- gnus et mi -- se -- ri -- cors __ est,
+            et mi -- se -- ri -- cors __ est,
+        be -- ni -- gnus et mi -- se -- ri -- cors,
+            mi -- se -- ri -- cors est,
+    et præ -- sta -- bi -- lis su -- per ma -- li -- ti -- a,
+    Do -- mi -- nus De -- us __ no -- ster,
+    Do -- mi -- nus De -- us no -- ster, __
+         De -- us no -- ster,
+    Do -- mi -- nus De -- us no -- ster, __
+    Do -- mi -- nus De -- us __ no -- ster.
 %    \normalLyrics
 %    Do -- mi -- nus De -- us no -- ster,
 %        De -- us no -- ster.
@@ -150,7 +155,7 @@ contratenorXIII = \relative c {
         d1 r1 | a\breve | g1 r1 | R\breve R | r1 r2 g | c b a g | 
         f' e2.( d4) d2|
 
-    cs2 a c b | a e a1 | d,2( e f) g | e f1 e2 | a2. a4 a2 f | g a f f |
+    cs2 a c b | a e a1 | d,2( e f) g? | e f1 e2 | a2. a4 a2 f | g a f f |
         e c'1 b2 | e2. e4 e2 c | d e c 
 
     % --- page ---
