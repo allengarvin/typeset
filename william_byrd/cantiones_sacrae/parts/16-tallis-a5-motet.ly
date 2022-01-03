@@ -22,7 +22,6 @@ superiusXVIincipit = \relative c' {
 % superius: checked against source
 superiusXVI = \relative c' {
     \time 6/2
-    \clef soprano
     \key f \major
 
     R\breve. | f2 f g a1 bf2 | a1 g2 f1 r2 | R\breve. | bf2 bf bf a1 f2 | 
