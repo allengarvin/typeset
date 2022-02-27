@@ -178,13 +178,6 @@ cantusXIincipitVoice = <<
     >>
 >>
 
-quintaVoxXIincipitVoice = <<
-    \new MensuralVoice <<
-        { s1 \noBreak }
-        \quintaVoxXIincipit
-    >>
->>
-
 altusXIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
@@ -203,6 +196,13 @@ bassusXIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
         \bassusXIincipit
+    >>
+>>
+
+quintaVoxXIincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \quintaVoxXIincipit
     >>
 >>
 

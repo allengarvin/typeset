@@ -125,7 +125,6 @@ bassusIVincipit = \relative c {
 % bassus: checked against source
 bassusIV = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key f \major
 
     \repeat volta 2 {
