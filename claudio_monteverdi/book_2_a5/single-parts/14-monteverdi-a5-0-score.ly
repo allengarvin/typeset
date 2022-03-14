@@ -24,6 +24,8 @@
     language = "italian"
     lastupdated = "2022-03-12"
     originallyset = "2022-03-12"
+    flats = 1
+    final = "f"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
