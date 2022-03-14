@@ -9,38 +9,38 @@
 
 \header {
     % Things that change per piece:
-    title = "Non sono in queste rive"
+    title = "Dolcemente dormiva la mia Clori"
     subtitle = ""
-    instrument = "Non sono in queste rive:  (canto)"
+    instrument = "Dolcemente dormiva la mia Clori:  (canto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "non_sono_in_queste_rive"
+    shorttitle = "dolcemente_dormiva_la_mia_clori"
     folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
     shortcomp = "monteverdi"
 
     % Things that change per part:
     partname = "Canto (part 1 of 5)"
-    instrument = "Non sono in queste rive:  (canto)"
+    instrument = "Dolcemente dormiva la mia Clori:  (canto)"
 
     % Unchanging:
-    lastupdated = "2022-03-13"
-    originallyset = "2022-03-13"
+    lastupdated = "2022-03-14"
+    originallyset = "2022-03-14"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/07-monteverdi-a5-madrigal.ly"
+\include "../parts/16-monteverdi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "07-monteverdi--non_sono_in_queste_rive-"
+    \bookOutputName "16-monteverdi--dolcemente_dormiva_la_mia_clori-"
     \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \cantoVII
+            \cantoXVI
         >>
-                \addlyrics { \cantoLyricsVII }
+                \addlyrics { \cantoLyricsXVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

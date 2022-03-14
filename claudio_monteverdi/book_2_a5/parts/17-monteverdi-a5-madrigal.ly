@@ -50,7 +50,7 @@ cantoLyricsXVII = \lyricmode {
         pur il cor mi -- o?
     Cru -- del, per -- ché mi fug -- gi?
     S’hai del -- la mor -- te mia tan -- to de -- si -- o?
-    tu sei pur il cor mi -- o?
+    tu sei pur il __ cor mi -- o?
     Cre -- di -- tu per fug -- gi -- re,
     Cru -- del far -- mi mo -- ri -- re?
     cru -- del far -- mi mo -- ri -- re?
@@ -79,9 +79,9 @@ altoXVIIincipit = \relative c' {
     ef1.
 }
 
+% alto: checked against source
 altoXVII = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key f \major
 
     ef1. d2 ~ | d4 c d( c8[ bf] c4) d ef2 | d c4 c8[ c] c4 bf
@@ -106,34 +106,33 @@ altoXVII = \relative c' {
 }
 
 altoLyricsXVII = \lyricmode {
-%    Cru -- del, per -- ché mi fug -- gi?
-%    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
-%    Tu sei,
-%    \ijLyrics
-%    tu sei
-%    \normalLyrics
-%        pur il cor mi -- o?
-%    cru -- del, per -- ché mi fug -- gi?
-%    s’hai del -- la mor -- te mia tan -- to de -- si -- o?
-%    tu sei pur il cor mi -- o?
-%    Cre -- di -- tu per fug -- gi -- re,
-%    Cru -- del far -- mi mo -- ri -- re?
-%    cru -- del far -- mi mo -- ri -- re?
-%    Ah! non si può mo -- rir,
-%    ah, non si può mo -- rir sen -- za do -- lo -- re
-%    E do -- ler,
-%    e do -- ler non si po’ chi non ha co -- re,
-%        non si po’ chi non ha co -- re,
-%    e do -- ler,
-%    e do -- ler non si po’ chi non ha co -- re,
-%    \ijLyrics
-%        non si po’ chi non ha co -- re,
-%    \normalLyrics
-%        non si po’ chi non ha co -- re,
-%    \ijLyrics
-%        non si po’ chi non ha co -- re,
-%    \normalLyrics
-%        non si po’ chi non ha co -- re.
+    Cru -- del, per -- ché __ mi fug -- gi?
+    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    Tu sei pur il cor mi -- o?
+    cru -- del, per -- ché mi fug -- gi?
+    s’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    tu sei,
+    tu sei pur il cor mi -- o? __
+    tu sei pur il cor mi -- o?
+    Cre -- di -- tu per fug -- gi -- re,
+    Cru -- del far -- mi mo -- ri -- re?
+    cre -- di -- tu per fug -- gi -- re,
+    cru -- del far -- mi mo -- ri -- re?
+    Ah! non si può mo -- rir,
+    ah, non si può mo -- rir sen -- za do -- lo -- re
+    E do -- ler non si po’,
+        non si po’,
+        non si po’ chi non ha co -- re,
+    e do -- ler,
+    e do -- ler non si po’,
+    \ijLyrics
+        non si po’,
+    \normalLyrics
+        non si po’ chi non ha co -- re,
+    \ijLyrics
+        non si po’ chi non ha co -- re,
+    \normalLyrics
+            chi non ha co -- re.
 }
 
 tenoreXVIIincipit = \relative c' {
@@ -144,17 +143,17 @@ tenoreXVIIincipit = \relative c' {
     bf1
 }
 
+% tenore: checked against source
 tenoreXVII = \relative c' {
     \fourTwoCommonTime
-    \clef tenor
     \key f \major
 
     r1 bf | a2 bf4 g4. a8 bf2( a4) | bf2 a4 a8[ g] a4 g f2 | d e4 fs
 
-    g1 | f1. r4 d' | d2 r4 a b4. b8 c[ a] d4 ~ | d( cs) d2 r1 | R\breve*2 |
+    g1 | fs1. r4 d' | d2 r4 a b4. b8 c[ a] d4 ~ | d( cs) d2 r1 | R\breve*2 |
         r1 r4 d, d'4. c8 | bf4 g a2 d,4 a'
 
-    d4. c8 | b2 cs4 d2 cs4 d2 ~ | d r4 d2 bf c4 | a g a2 g bf8[ a] g4 |
+    d4. c8 | b2 cs4 d2( cs4) d2 ~ | d r4 d2 bf c4 | a g a2 g bf8[ a] g4 |
         bf4 bf c c r1 | r1 bf8[ c] d4
 
     bf4 bf | a a2 d4 g, g c c | bf bf bf2. c8[ c] c4 g | a2 bf2. c8[ c] c4 g |
@@ -173,34 +172,40 @@ tenoreXVII = \relative c' {
 }
 
 tenoreLyricsXVII = \lyricmode {
-%    Cru -- del, per -- ché mi fug -- gi?
-%    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
-%    Tu sei,
-%    \ijLyrics
-%    tu sei
-%    \normalLyrics
-%        pur il cor mi -- o?
-%    cru -- del, per -- ché mi fug -- gi?
-%    s’hai del -- la mor -- te mia tan -- to de -- si -- o?
-%    tu sei pur il cor mi -- o?
-%    Cre -- di -- tu per fug -- gi -- re,
-%    Cru -- del far -- mi mo -- ri -- re?
-%    cru -- del far -- mi mo -- ri -- re?
-%    Ah! non si può mo -- rir,
-%    ah, non si può mo -- rir sen -- za do -- lo -- re
-%    E do -- ler,
-%    e do -- ler non si po’ chi non ha co -- re,
-%        non si po’ chi non ha co -- re,
-%    e do -- ler,
-%    e do -- ler non si po’ chi non ha co -- re,
-%    \ijLyrics
-%        non si po’ chi non ha co -- re,
-%    \normalLyrics
-%        non si po’ chi non ha co -- re,
-%    \ijLyrics
-%        non si po’ chi non ha co -- re,
-%    \normalLyrics
-%        non si po’ chi non ha co -- re.
+    Cru -- del, per -- ché mi fug -- gi?
+    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    Tu sei,
+    \ijLyrics
+    tu sei
+    \normalLyrics
+        pur il cor mi -- o?
+    tu sei pur il cor mi -- o,
+    \ijLyrics
+    tu sei pur il cor mi -- o, __
+    \normalLyrics
+    tu sei pur il cor mi -- o?
+    Cre -- di -- tu per fug -- gi -- re,
+    \ijLyrics
+    cre -- di -- tu per fug -- gi -- re,
+    \normalLyrics
+    Cru -- del far -- mi mo -- ri -- re?
+    Ah! non si può mo -- rir,
+    ah, non si può mo -- rir sen -- za do -- lo -- re
+    E do -- ler,
+    \ijLyrics
+    e do -- ler,
+    \normalLyrics
+    e do -- ler non si po’ chi non ha co -- re,
+        non si po’ chi non ha co -- re,
+    e __ do -- ler,
+    e do -- ler non si po’ chi non ha co -- re,
+    \ijLyrics
+        non si po’ chi non ha co -- re,
+    \normalLyrics
+        non si po’ chi non ha co -- re,
+        non si po’,
+        non si po’ chi __ non ha,
+            chi non ha co -- re.
 }
 
 bassoXVIIincipit = \relative c' {
@@ -211,59 +216,68 @@ bassoXVIIincipit = \relative c' {
     g1
 }
 
+% basso: checked against source
 bassoXVII = \relative c' {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     r1 g | f2 d4 ef2 d4 c2 | bf f'4 f8[ e] f4 g d2 | b c4 d
 
-    g,1 | d'1. r4 d | g2 r4 d g4. g8 a4 bf | a2 d, r1 | R\breve*3 |
+    g,1 | d'1. r4 d | g2 r4 d g4. g8 a4 bf | a2 d, r1 | R\breve*2 R\breve |
         r4 g, d'1 r4 d | g4. g8 a4 bf a2 d, ~ | d 
 
     r4 d g4. f8 ef4 c | d1 g,2 g'8[ g] g4 | g bf f f r1 | 
         r1 bf,8[ bf] bf4 bf bf | f'4 f2 d4
 
-    ef4 g f f | bf bf bf,2. f'8[ f] f4 g | d2 bf2. f8[ f] f4 g | 
+    ef4 g f f | bf bf bf,2. f'8[ f] f4 g | d2 bf2. f'8[ f] f4 g | 
         d ef4. ef8 c4 bf1 | f 
 
     f'1 ~ | f2 e d1 | bf a | g r4 g'8[ g] g4. f8 | 
-        g[ f] g4 g g8[ g] g4. f8 ef[ d] ef4 |
+        ef8[ d] ef4 ef ef8[ ef] ef4. d8 c[ bf] c4 | 
 
-    ef4 ef8[ ef] ef4. d8 c[ bf] c4 c f8[ f] | f4 d8[ d] g4. g8 c,4 c d2 ~ |
-        d1 g,\longa*1/4
+    c2 f1 e2 | d1 d ~ | d2 c bf1 | r4 bf'8[ bf] bf4. a8 g[ f] g4 g g8[ g] |
+        g4. f8 ef[ d] ef4
+
+    ef4 ef8[ ef] ef4. d8 | c[ bf] c4 c f8[ f] f4 d8[ d] g4. g8 |
+        c,4 c d1. | g,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXVII = \lyricmode {
-%    Cru -- del, per -- ché mi fug -- gi?
-%    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
-%    Tu sei,
-%    \ijLyrics
-%    tu sei
-%    \normalLyrics
-%        pur il cor mi -- o?
-%    cru -- del, per -- ché mi fug -- gi?
-%    s’hai del -- la mor -- te mia tan -- to de -- si -- o?
-%    tu sei pur il cor mi -- o?
-%    Cre -- di -- tu per fug -- gi -- re,
-%    Cru -- del far -- mi mo -- ri -- re?
-%    cru -- del far -- mi mo -- ri -- re?
-%    Ah! non si può mo -- rir,
-%    ah, non si può mo -- rir sen -- za do -- lo -- re
-%    E do -- ler,
-%    e do -- ler non si po’ chi non ha co -- re,
-%        non si po’ chi non ha co -- re,
-%    e do -- ler,
-%    e do -- ler non si po’ chi non ha co -- re,
-%    \ijLyrics
-%        non si po’ chi non ha co -- re,
-%    \normalLyrics
-%        non si po’ chi non ha co -- re,
-%    \ijLyrics
-%        non si po’ chi non ha co -- re,
-%    \normalLyrics
-%        non si po’ chi non ha co -- re.
+    Cru -- del, per -- ché mi fug -- gi?
+    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    Tu sei,
+    \ijLyrics
+    tu sei
+    \normalLyrics
+        pur il cor mi -- o?
+    tu sei,
+    \ijLyrics
+    tu sei
+    \normalLyrics
+        pur il cor mi -- o, __
+    tu sei pur il cor mi -- o?
+    cru -- del, per -- ché mi fug -- gi?
+    cru -- del, per -- ché mi fug -- gi?
+    Cru -- del far -- mi mo -- ri -- re?
+    Ah! non si può mo -- rir,
+    ah, non si può mo -- rir sen -- za do -- lo -- re
+    E __ do -- ler,
+    e do -- ler non si po’ chi non ha co -- re,
+    \ijLyrics
+        non si po’ chi non ha co -- re,
+    \normalLyrics
+    e do -- ler,
+    \ijLyrics
+    e __ do -- ler 
+    \normalLyrics
+        non si po’ chi non ha co -- re,
+    \ijLyrics
+        non si po’ chi non ha co -- re,
+    \normalLyrics
+        non si po’ chi non ha co -- re,
+        non si po’,
+        non si po’ chi non ha co -- re.
 }
 
 quintoXVIIincipit = \relative c'' {
@@ -274,21 +288,23 @@ quintoXVIIincipit = \relative c'' {
     a4
 }
 
+% quinto: checked against source
 quintoXVII = \relative c'' {
     \fourTwoCommonTime
-    \clef soprano
     \key f \major
 
     R\breve*3 | r2 r4 a d4. c8 bf4 g | a2 d,4 a' d4. c8 bf4 a ~ |
         a g2( fs4) 
 
-    g2 r2 | r1 r2 d' ~ | d c bf c4 d | e2 d c4 c8[ c] c4 bf | a a2 g4 a2 bf~|
+    g2 r2 | r1 r2 d' ~ | d c bf c4 d | 
+    \ficta
+        ef2\unficta d c4 c8[ c] c4 bf | a a2 g4 a2 bf~|
         bf a1. | r1 r2 r4 a |
 
     d2 r4 a bf2 g4 a | fs g2( fs4) g2 g8[ a] bf4 | bf bf a a2 d4 c bf |
         bf a bf bf r1 |
 
-    r2 r4 d c bf c c | d d f2. c8[ c] c4 bf | a2 f'2. c,8[ c] c4 bf |
+    r2 r4 d c bf c c | d d f2. c8[ c] c4 bf | a2 f'2. c8[ c] c4 bf |
         a g4. g8 g4 
 
     bf2 bf | a1. g2 | f1 f | f2 d r1 | r4 bf'8[ bf] bf4. a8 g[ f] g4 g g8[ g] |
@@ -298,39 +314,40 @@ quintoXVII = \relative c'' {
         d[ c] d4 d d8[ d] d4. c8 bf[ a] bf4 | bf bf8[ bf] 
 
     bf4. a8 g[ f] g4 g2 | r4 g8[ g] g4 f8[ g] a2 bf4.( a8 | 
-        g4) a4. g8 f2 bf4 a2 | g\longa*1/2
+        g4) a4.( g8 f2) bf4 a2 | g\longa*1/2
     \bar "|."
 }
 
 quintoLyricsXVII = \lyricmode {
 %    Cru -- del, per -- ché mi fug -- gi?
 %    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
-%    Tu sei,
-%    \ijLyrics
-%    tu sei
-%    \normalLyrics
-%        pur il cor mi -- o?
-%    cru -- del, per -- ché mi fug -- gi?
-%    s’hai del -- la mor -- te mia tan -- to de -- si -- o?
-%    tu sei pur il cor mi -- o?
-%    Cre -- di -- tu per fug -- gi -- re,
-%    Cru -- del far -- mi mo -- ri -- re?
-%    cru -- del far -- mi mo -- ri -- re?
-%    Ah! non si può mo -- rir,
-%    ah, non si può mo -- rir sen -- za do -- lo -- re
-%    E do -- ler,
-%    e do -- ler non si po’ chi non ha co -- re,
-%        non si po’ chi non ha co -- re,
-%    e do -- ler,
-%    e do -- ler non si po’ chi non ha co -- re,
-%    \ijLyrics
-%        non si po’ chi non ha co -- re,
-%    \normalLyrics
-%        non si po’ chi non ha co -- re,
-%    \ijLyrics
-%        non si po’ chi non ha co -- re,
-%    \normalLyrics
-%        non si po’ chi non ha co -- re.
+    Tu sei pur il cor mi -- o?
+    tu sei pur il cor __ mi -- o?
+    Cru -- del, per -- ché mi fug -- gi?
+    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    tu sei
+    \ijLyrics
+    tu sei
+    \normalLyrics
+        pur il cor mi -- o?
+    Cre -- di -- tu per fug -- gi -- re,
+    Cru -- del far -- mi mo -- ri -- re?
+    cru -- del far -- mi mo -- ri -- re?
+    Ah! non si può mo -- rir,
+    ah, non si può mo -- rir sen -- za do -- lo -- re
+    E do -- ler,
+    e do -- ler non si po’ chi non ha co -- re,
+    \ijLyrics
+        non si po’ chi non ha co -- re,
+    \normalLyrics
+    e __ do -- ler,
+    e __ do -- ler __ non si po’ chi non ha co -- re,
+    \ijLyrics
+        non si po’ chi non ha co -- re,
+    \normalLyrics
+        non si po’ chi non ha co -- re,
+        non si po’,
+        non si po’ chi __ non __ ha co -- re.
 }
 
 cantoXVIIincipitVoice = <<

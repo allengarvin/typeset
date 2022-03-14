@@ -14,6 +14,7 @@
     instrument = "Non sono in queste rive:  (alto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "non_sono_in_queste_rive"
+    folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
     shortcomp = "monteverdi"
 
     % Things that change per part:

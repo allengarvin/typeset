@@ -9,38 +9,38 @@
 
 \header {
     % Things that change per piece:
-    title = "Non sono in queste rive"
+    title = "Crudel, perché mi fuggi?"
     subtitle = ""
-    instrument = "Non sono in queste rive:  (canto)"
+    instrument = "Crudel, perché mi fuggi?:  (basso)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "non_sono_in_queste_rive"
-    folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
+    shorttitle = "crudel_perche_mi_fuggi"
     shortcomp = "monteverdi"
+    folio = "Giovanni Battista Guarini (1538-1612)"
 
     % Things that change per part:
-    partname = "Canto (part 1 of 5)"
-    instrument = "Non sono in queste rive:  (canto)"
+    partname = "Basso (part 5 of 5)"
+    instrument = "Crudel, perché mi fuggi?:  (basso)"
 
     % Unchanging:
-    lastupdated = "2022-03-13"
-    originallyset = "2022-03-13"
+    lastupdated = "2022-03-14"
+    originallyset = "2022-03-14"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/07-monteverdi-a5-madrigal.ly"
+\include "../parts/17-monteverdi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "07-monteverdi--non_sono_in_queste_rive-"
-    \bookOutputSuffix "--1-canto--tr_clef"
+    \bookOutputName "17-monteverdi--crudel_perche_mi_fuggi-"
+    \bookOutputSuffix "--5-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "bass"
             \global 
-            \cantoVII
+            \bassoXVII
         >>
-                \addlyrics { \cantoLyricsVII }
+                \addlyrics { \bassoLyricsXVII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
