@@ -18,8 +18,8 @@
     instrument = "Canzon Duodecima 'L'Uggiera' (score)"
 
     % Unchanging:
-    originallyset = "2013/Apr/12"
-    lastupdated = "2013/Apr/12"
+    originallyset = "2013-04-12"
+    lastupdated = "2013-04-12"
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"

@@ -16,8 +16,8 @@
 
     % Unchanging:
     language = "instrumental"
-    originallyset = "2013-Apr-28"
-    lastupdated = "2013-Apr-28"
+    originallyset = "2013-04-28"
+    lastupdated = "2013-04-28"
     flats = 0
     final = "d"
     shorttitle = "canzon_sesta__l_alcenagina"

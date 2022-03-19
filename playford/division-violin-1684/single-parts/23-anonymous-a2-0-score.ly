@@ -20,8 +20,8 @@
 
     instrument = "Johnny Cock Thy Beaver"
 
-    originallyset = "2013/May/08"
-    lastupdated = "2013/May/08"
+    originallyset = "2013-05-08"
+    lastupdated = "2013-05-08"
     shorttitle = "johnny_cock_thy_beaver"
     \include "include/distribution-header.ly"
     tagline = #'f

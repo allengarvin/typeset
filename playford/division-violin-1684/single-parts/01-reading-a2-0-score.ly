@@ -73,8 +73,8 @@ scordaturaIncipit =
     style = "Baroque"
 
 
-    originallyset = "2013/Apr/10"
-    lastupdated = "2013/Apr/10"
+    originallyset = "2013-04-10"
+    lastupdated = "2013-04-10"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

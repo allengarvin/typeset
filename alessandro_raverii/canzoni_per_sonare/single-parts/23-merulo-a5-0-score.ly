@@ -15,7 +15,7 @@
     instrument = "Canzon vigesimaterza (score)"
 
     % Unchanging:
-    lastupdated = "2012/Dec/29"
+    lastupdated = "2012-12-29"
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"

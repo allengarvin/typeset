@@ -37,8 +37,8 @@
 
     instrument = "Prelude (Baltzar)"
 
-    originallyset = "2013/May/25"
-    lastupdated = "2013/May/25"
+    originallyset = "2013-05-25"
+    lastupdated = "2013-05-25"
     shorttitle = "prelude"
     \include "include/distribution-header.ly"
     tagline = #'f

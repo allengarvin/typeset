@@ -15,8 +15,8 @@
     instrument = "Vecchie letrose (score)"
 
     % Unchanging:
-    originallyset = "2012/Dec/23"
-    lastupdated = "2012/Dec/23"
+    originallyset = "2012-12-23"
+    lastupdated = "2012-12-23"
     flats = 1
     final = "f"
     shorttitle = "vecchie_letrose"

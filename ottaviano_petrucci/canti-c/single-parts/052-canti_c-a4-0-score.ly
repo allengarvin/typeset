@@ -18,8 +18,8 @@
     instrument = "Et marion la brune (score)"
 
     % Unchanging:
-    originallyset = "2.18.22-22"
-    lastupdated = "2.18.22-22"
+    originallyset = "2010-06-23"
+    lastupdated = "2012-11-04"
     flats = 1
     final = "g"
     shorttitle = "et_marion_la_brune"

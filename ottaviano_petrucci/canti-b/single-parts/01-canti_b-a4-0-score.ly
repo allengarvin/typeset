@@ -18,8 +18,8 @@
     instrument = "L'Homme Armé (score)"
 
     % Unchanging:
-    originallyset = "2012/Dec/27"
-    lastupdated = "2012/Dec/27"
+    originallyset = "2012-12-27"
+    lastupdated = "2012-12-27"
     flats = 1
     final = "d"
     shorttitle = "lomme_arme"

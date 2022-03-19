@@ -16,8 +16,8 @@
     instrument = "La Averolda (score)"
 
     % Unchanging:
-    originallyset = "2012/Dec/24"
-    lastupdated = "2012/Dec/24"
+    originallyset = "2012-12-24"
+    lastupdated = "2012-12-24"
     flats = 0
     final = "d"
     shorttitle = "la_averolda"

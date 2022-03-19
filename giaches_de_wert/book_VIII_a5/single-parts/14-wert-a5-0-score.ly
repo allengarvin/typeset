@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Se m’odii, e in ciò diletto alcun tu senti"
     subtitle = "Terza parte"
-    folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XIVI ottava 45 }
+    folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XVI ottava 45 }
     needtranslation = #'f
     instrument = "Se m'odii (score)"
     language = "italian"

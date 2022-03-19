@@ -19,8 +19,8 @@
     folio = "CCLXXXIV (284)"
 
     % Unchanging:
-    originallyset = "2015-12-1"
-    lastupdated = "2015-12-1"
+    originallyset = "2015-12-01"
+    lastupdated = "2015-12-01"
     shorttitle = "galliarde"
     \include "include/distribution-header.ly"
     tagline = #'f

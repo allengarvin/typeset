@@ -108,7 +108,7 @@
                 \line { Destroy our faith; what, shall I say our faith? }
                 \line { Ah no! no longer ours; before thy shrine }
                 \line { Alone I pray, thou cruel saint of mine. }
-                \line { \hspace #12 Edward Fairfax translation (1500) }
+                \line { \hspace #12 Edward Fairfax translation (1600) }
             }
         }
     }

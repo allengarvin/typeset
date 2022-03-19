@@ -10,19 +10,21 @@
 
 \header {
     % Things that change per piece:
-    title = "O salutaris Hostia"
+    title = "Voce mea ad Dominum clamavi"
     subtitle = ""
-    instrument = "O salutaris Hostia:  (score)"
+    instrument = "Voce mea ad Dominum clamavi:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "o_salutaris_hostia"
+    shorttitle = "voce_mea_ad_dominum_clamavi"
     shortcomp = "rore"
     needtranslation = #'t
-    folio = "Hymn for Corpus Christi (by St. Thomas Aquinas)"
+    folio = "Psalm 142:2-3; Psalm 27:2"
 
     % Unchanging:
     language = "latin"
-    lastupdated = "2021-10-27"
-    originallyset = "2021-10-27"
+    lastupdated = "2021-10-28"
+    originallyset = "2021-10-28"
+    flats = 0
+    final = "a"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -30,7 +32,7 @@
 \include "../parts/05-rore-a5-motet.ly"
 
 \book {
-    \bookOutputName "05-rore--o_salutaris_hostia-"
+    \bookOutputName "05-rore--voce_mea_ad_dominum_clamavi-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -83,24 +85,28 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 128 2)
+                tempoWholesPerMinute = #(ly:make-moment 118 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { O salutaris Hostia, }
-                \line { Quae caeli pandis ostium: }
-                \line { Bella premunt hostilia, }
-                \line { Da robur, fer auxilium. }
+                \line { Voce mea ad Dominum clamavi,  }
+                \line { voce mea ad Dominum deprecatus sum. }
+                \line { Effundo in conspectu ejus orationem meam,  }
+                \line { et tribulationem meam ante ipsum pronuntio: }
+                \line { \vspace #0.5 }
+                \line { Exaudi, Domine, vocem deprecationis meæ dum oro ad te. }
             }
             \column {
-                \line { O saving Victim, }
-                \line { Who expandest the door of heaven, }
-                \line { Hostile armies press, }
-                \line { Give strength; bear aid. }
-                \line { \hspace #12 Wikipedia translation }
+                \line { I cried unto the Lord with my voice:  }
+                \line { yea, even unto the Lord did I make my supplication. }
+                \line { I poured out my complaints before him:  }
+                \line { and shewed him of my trouble. }
+                \line { \vspace #0.5 }
+                \line { Hear the voice of my humble petitions, when I cry unto thee. }
+                \line { \hspace #10 Book of Common Prayer }
             }
         }
     }

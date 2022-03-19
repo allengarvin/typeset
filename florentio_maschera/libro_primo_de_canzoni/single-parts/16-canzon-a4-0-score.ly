@@ -17,8 +17,8 @@
     instrument = "Canzon Decimasesta (score)"
 
     % Unchanging:
-    originallyset = "2013/Apr/12"
-    lastupdated = "2013/Apr/12"
+    originallyset = "2013-04-12"
+    lastupdated = "2013-04-12"
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"

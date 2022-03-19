@@ -18,8 +18,8 @@
     instrument = "Canzon Decima 'La Rosa' (score)"
 
     % Unchanging:
-    originallyset = "2013/Apr/12"
-    lastupdated = "2013/Apr/12"
+    originallyset = "2013-04-12"
+    lastupdated = "2013-04-12"
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"

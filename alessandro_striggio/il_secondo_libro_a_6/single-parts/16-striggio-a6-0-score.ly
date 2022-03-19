@@ -17,7 +17,7 @@
     folio = \markup { Ludovico Ariosto, \italic { Orlando Furioso } Canto XXV ottava 68 }
 
     % Unchanging:
-    lastupdated = "2015-16-05"
+    lastupdated = "2015-12-05"
     flats = 1
     final = "f"
     shorttitle = "non_rumor_di_tamburi"

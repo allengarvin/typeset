@@ -17,8 +17,8 @@
     instrument = "Ricercar Quarto (score)"
 
     % Unchanging:
-    originallyset = "2013/Apr/10"
-    lastupdated = "2013/Apr/10"
+    originallyset = "2013-04-10"
+    lastupdated = "2013-04-10"
     flats = 1
     final = "g"
     shorttitle = "recercar"

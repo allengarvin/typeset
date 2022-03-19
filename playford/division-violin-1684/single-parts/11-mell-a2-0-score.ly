@@ -37,8 +37,8 @@
 
     instrument = "John Come Kiss Me Now (Mell)"
 
-    originallyset = "2013/May/08"
-    lastupdated = "2013/May/08"
+    originallyset = "2013-05-08"
+    lastupdated = "2013-05-08"
     shorttitle = "john_come_kiss"
     \include "include/distribution-header.ly"
     tagline = #'f

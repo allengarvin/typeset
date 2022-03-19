@@ -36,8 +36,8 @@
     final = "d"
     flats = 0
 
-    originallyset = "2013/May/08"
-    lastupdated = "2013/May/08"
+    originallyset = "2013-05-08"
+    lastupdated = "2013-05-08"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

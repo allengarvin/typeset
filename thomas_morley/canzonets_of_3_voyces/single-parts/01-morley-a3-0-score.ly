@@ -15,8 +15,8 @@
     instrument = "See, see, myne own sweet jewell (score)"
 
     % Unchanging:
-    originallyset = "2012/Dec/23"
-    lastupdated = "2012/Dec/23"
+    originallyset = "2012-12-23"
+    lastupdated = "2012-12-23"
     flats = 0
     final = "g"
     shorttitle = "see_see_mine_own_sweet_jewel"

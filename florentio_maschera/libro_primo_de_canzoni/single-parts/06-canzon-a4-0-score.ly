@@ -19,8 +19,8 @@
     instrument = "Canzon Sesta (score)"
 
     % Unchanging:
-    originallyset = "2013/Apr/12"
-    lastupdated = "2013/Apr/12"
+    originallyset = "2013-04-12"
+    lastupdated = "2013-04-12"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

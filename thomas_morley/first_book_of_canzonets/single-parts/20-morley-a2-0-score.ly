@@ -15,8 +15,8 @@
     instrument = "Fantasie: La Sirena (score)"
 
     % Unchanging:
-    originallyset = "2013-20-08"
-    lastupdated = "2013-20-08"
+    originallyset = "2013-04-08"
+    lastupdated = "2013-04-08"
     flats = 1
     final = "b"
     shorttitle = "la_sirena"

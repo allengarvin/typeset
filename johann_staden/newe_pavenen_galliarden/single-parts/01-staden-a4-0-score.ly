@@ -17,8 +17,8 @@
     instrument = "Pavana I (score)"
 
     % Unchanging:
-    originallyset = "2.18.21-02"
-    lastupdated = "2.18.21-02"
+    originallyset = "2016-01-02"
+    lastupdated = "2016-01-02"
     shorttitle = "pavana_1"
     \include "include/distribution-header.ly"
     tagline = #'f

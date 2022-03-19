@@ -17,8 +17,8 @@
     language = "italian"
 
     % Unchanging:
-    originallyset = "2013-03--12"
-    lastupdated = "2013-03--12"
+    originallyset = "2013-03-12"
+    lastupdated = "2013-03-12"
     flats = 0
     final = "d"
     shorttitle = "son_presa_disse"

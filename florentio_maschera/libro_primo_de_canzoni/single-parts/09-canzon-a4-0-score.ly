@@ -18,8 +18,8 @@
     instrument = "Canzon Nona 'La Duranda' (score)"
 
     % Unchanging:
-    originallyset = "2013/Apr/27"
-    lastupdated = "2013/Apr/27"
+    originallyset = "2013-04-27"
+    lastupdated = "2013-04-27"
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"

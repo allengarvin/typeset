@@ -17,8 +17,8 @@
     needtranslation = #'f
 
     % Unchanging:
-    originallyset = "2013-13-23"
-    lastupdated = "2013-13-23"
+    originallyset = "2013-09-23"
+    lastupdated = "2013-09-23"
     flats = 0
     final = "d"
     shorttitle = "ma_di_che_debbo_lamentarmi"

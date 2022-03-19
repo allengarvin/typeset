@@ -17,8 +17,8 @@
     instrument = "Ricercar Segondo (score)"
 
     % Unchanging:
-    originallyset = "2023/Jan/12"
-    lastupdated = "2023/Jan/12"
+    originallyset = "2013-01-12"
+    lastupdated = "2013-01-12"
     flats = 0
     final = "g"
     shorttitle = "recercar"

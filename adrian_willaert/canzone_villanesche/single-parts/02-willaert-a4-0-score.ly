@@ -18,8 +18,8 @@
     language = "italian"
 
     % Unchanging:
-    originallyset = "2012/Dec/23"
-    lastupdated = "2012/Dec/23"
+    originallyset = "2012-12-23"
+    lastupdated = "2012-12-23"
     flats = 0
     final = "d"
     shorttitle = "o_dolce_vita_mia"

@@ -16,8 +16,8 @@
     instrument = "La Maggia (score)"
 
     % Unchanging:
-    originallyset = "2012/Dec/24"
-    lastupdated = "2012/Dec/24"
+    originallyset = "2012-12-24"
+    lastupdated = "2012-12-24"
     flats = 1
     final = "g"
     shorttitle = "la_maggia"

@@ -19,8 +19,8 @@
 
     instrument = "The Duke of Norfolk, or Paul's Steeple"
 
-    originallyset = "2013/May/08"
-    lastupdated = "2013/May/08"
+    originallyset = "2013-05-08"
+    lastupdated = "2013-05-08"
     shorttitle = "duke_of_norvolk"
     \include "include/distribution-header.ly"
     tagline = #'f
