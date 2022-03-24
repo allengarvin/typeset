@@ -32,7 +32,6 @@ cantusXIIIincipit = \relative c'' {
 
 cantusXIII = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     R\breve*3 | r1 e1 ~ | e2 e e e | e e f1 ~ | f e | r1 cs | d2 d e1 | d2
