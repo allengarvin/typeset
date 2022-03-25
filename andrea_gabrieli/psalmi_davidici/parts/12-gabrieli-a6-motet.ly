@@ -1,3 +1,10 @@
+% Quoniam ego in flagella paratus sum, et dolor meus in conspectu meo semper.
+% Quoniam iniquitatem meam annuntiabo, et cogitabo pro peccato meo.
+% Inimici autem mei vivunt, et confirmati sunt super me: et multiplicati sunt qui oderunt me inique.
+% Qui retribuunt mala pro bonis detrahebant mihi, quoniam sequebar bonitatem.
+% Ne derelinquas me, Domine Deus meus; ne discesseris a me.
+% Intende in adjutorium meum, Domine Deus salutis meæ.
+
 cantusXIIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"
@@ -6,9 +13,9 @@ cantusXIIincipit = \relative c'' {
     a1.
 }
 
+% cantus: checked against source
 cantusXII = \relative c'' {
     \fourTwoCommonTime
-    \clef soprano
     \key c \major
 
     R\breve*2 | a1. a2 | a1 c | a1. d2 ~ | d c c1 | b a | a2 a g1 ~ | g r1 |
@@ -31,11 +38,34 @@ cantusXII = \relative c'' {
     g e a4. a8 b4 d4.( c16[ b] a4) | b1 r1 | r1 e ~ | e2 e d c ~ | c c r1 |
         r2 e d4 b c2 | b r
 
-    r2 c~ | c c c1 | a a2 e' | b1 g | c\breve | b\longa*1/2
+    r2 c~ | c c c1 | a a2 e' | d1 b | c\breve | b\longa*1/2
     \bar "|."
 }
 
 cantusLyricsXII = \lyricmode {
+    Quo -- ni -- am e -- go in __ fla -- gel -- la pa -- ra -- tus sum, __
+        et do -- lor me -- us
+        % in con -- spe -- ctu me -- o sem -- per.
+
+    Quo -- ni -- am i -- ni -- qui -- ta -- tem me -- am 
+            an -- nun -- ti -- a -- bo,
+        et co -- gi -- ta -- bo 
+            % pro pec -- ca -- to me -- o.
+    I -- ni -- mi -- ci au -- tem me -- i vi -- vunt,
+        et con -- fir -- ma -- ti sunt su -- per me:
+        et __ mul -- ti -- pli -- ca -- ti sunt __
+            % qui o -- de -- runt me i -- ni -- que.
+
+    Qui re -- tri -- bu -- unt ma -- la pro bo -- nis 
+            de -- tra -- he -- bant mi -- hi,
+        quo -- ni -- am se -- que -- bar bo -- ni -- ta -- tem.
+
+    Ne de -- re -- lin -- quas me, Do -- mi -- ne De -- us me -- us;
+        ne di -- sces -- se -- ris a me.
+
+    In -- ten -- de in ad -- ju -- to -- ri -- um me -- um,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ.
 }
 
 altusXIIincipit = \relative c' {
@@ -46,14 +76,14 @@ altusXIIincipit = \relative c' {
     a1.
 }
 
+% altus: checked against source
 altusXII = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key c \major
 
     a1. a2 | a1 c | a2 d1 c2 | c1 a2 c | c c d f ~ | f e e1 | e2 e 
 
-    e2 e | d\breve | R\breve*2 | e1. e2 | f e d cs | d\breve | d1 e ~ | 
+    e2 e | d\breve | R\breve R | e1. e2 | f e d cs | d\breve | d1 e ~ | 
         e2 e e1 | R\breve | r4 e
 
     d4 c g'1 | g e | e1. d2 | cs1 cs | r1 e | c f | e e | e r1 | R\breve*2 |
@@ -66,7 +96,7 @@ altusXII = \relative c' {
         cs1 cs2 e | e1. e2 | e1 d2.( e4 | f1) e | 
 
     d2.( e8[ f] g2 d) | e1 r1 | R\breve | r1 r2 e | cs d4 f e e d4. d8 |
-        g,4 g'2( f4) g2 r | r1 e ~ | e2 e e1 | 
+        g,4 g'2\melisma\ficta fs4\unficta\melismaEnd g2 r | r1 e ~ | e2 e e1 | 
 
     e1 a | r2 g f4 e e2 | e r4 b d d e2 | d r2 f1 ~ | f2 e e1 | d c2 c |
         a1 g2 g'4( f 
@@ -76,6 +106,31 @@ altusXII = \relative c' {
 }
 
 altusLyricsXII = \lyricmode {
+    Quo -- ni -- am e -- go in fla -- gel -- la pa -- ra -- tus sum,
+        in __ fla -- gel -- la pa -- ra -- tus sum,
+%        et do -- lor me -- us
+        in con -- spe -- ctu me -- o sem -- per.
+
+    Quo -- ni -- am % i -- ni -- qui -- ta -- tem me -- am
+            an -- nun -- ti -- a -- bo,
+        et co -- gi -- ta -- bo
+            pro pec -- ca -- to me -- o.
+%    I -- ni -- mi -- ci au -- tem me -- i vi -- vunt,
+        et con -- fir -- ma -- ti sunt su -- per me:
+        et mul -- ti -- pli -- ca -- ti sunt
+%            qui o -- de -- runt me i -- ni -- que.
+%
+    Qui __ re -- tri -- bu -- unt ma -- la pro bo -- nis
+            de -- tra -- he -- bant mi -- hi,
+        quo -- ni -- am,
+
+    Ne de -- re -- lin -- quas me, Do -- mi -- ne De -- us me -- us;
+%        ne di -- sces -- se -- ris a me.
+%
+    In -- ten -- de in ad -- ju -- to -- ri -- um me -- um,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ,
+            sa -- lut -- is me -- æ,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ.
 }
 
 tenorXIIincipit = \relative c' {
@@ -86,9 +141,9 @@ tenorXIIincipit = \relative c' {
     a2
 }
 
+% tenor: checked against source
 tenorXII = \relative c' {
     \fourTwoCommonTime
-    \clef tenor
     \key c \major
 
     R\breve*4 | R\breve | r1 r2 a | gs gs a1 | R\breve | r2 b1 c2 ~ |
@@ -97,12 +152,13 @@ tenorXII = \relative c' {
     a1 | a d,2 e | fs g g( fs) | g1 e ~ | e2 e e1 | R\breve | r2 r4 e' d c b2 |
 
     c1 r2 a | g4( f e d e2) f | e1 e2 a ~ | a b1 \[ c2 ~| c( a1) \] b2 ~ |
-        b a1( g2) | a1 r1 | r1 r2 a | a4 a f d a' a
+        b a1\melisma\ficta gs2\unficta\melismaEnd | a1 r1 | r1 r2 a | 
+        a4 a f d a' a
 
     a4 a | f d a'2 r4 f2 d4 | a'2 f1 a2 | a c c2.( b8[ a] | g2) g f1 |
         r2 a b c | a g4 g 
 
-    f1 | e r1 | R\breve*5 | g1. fs2 | g d' e d4 cs ~| cs cs d2 b1 |
+    f1 | e r1 | R\breve R\breve*4 | g1. fs2 | g d' e d4 cs ~| cs cs d2 b1 |
         r2 e, e e | e1 e2 a | gs1. a2 |
 
     a1 f ~ | f c'2 g ~ | g4( a b c d1) | c a2 b | c2. b4 a2 g | e e a e4 e |
@@ -116,6 +172,32 @@ tenorXII = \relative c' {
 }
 
 tenorLyricsXII = \lyricmode {
+%    Quo -- ni -- am e -- go in fla -- gel -- la 
+        Pa -- ra -- tus sum,
+        et do -- lor me -- us
+        in con -- spe -- ctu me -- o sem -- per.
+
+    Quo -- ni -- am % i -- ni -- qui -- ta -- tem me -- am
+            an -- nun -- ti -- a -- bo,
+        et co -- gi -- ta -- bo
+            pro __ pec -- ca -- to __ me -- o.
+%    I -- ni -- mi -- ci au -- tem me -- i vi -- vunt,
+        et con -- fir -- ma -- ti sunt,
+        et con -- fir -- ma -- ti sunt su -- per me:
+        et mul -- ti -- pli -- ca -- ti sunt
+            qui o -- de -- runt me i -- ni -- que.
+
+%    Qui re -- tri -- bu -- unt ma -- la pro bo -- nis
+%            de -- tra -- he -- bant mi -- hi,
+        quo -- ni -- am se -- que -- bar bo -- ni -- ta -- tem.
+
+    Ne de -- re -- lin -- quas me, Do -- mi -- ne De -- us me -- us;
+        ne di -- sces -- se -- ris a me.
+
+    In -- ten -- de in ad -- ju -- to -- ri -- um,
+        in ad -- ju -- to -- ri -- um me -- um,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ.
 }
 
 bassusXIIincipit = \relative c' {
@@ -126,9 +208,9 @@ bassusXIIincipit = \relative c' {
     a1.
 }
 
+% bassus: checked against source
 bassusXII = \relative c' {
     \fourTwoCommonTime
-    \clef bass
     \key c \major
 
     R\breve*2 | r1 a ~ | a2 a a1 | f d2 d ~ | d a' a1 | e2 e cs cs | d1 r1 | 
@@ -140,8 +222,8 @@ bassusXII = \relative c' {
     a1 a | d e | f d | e\breve | a,1 r1 | R\breve | r2 d d4 d c a | 
         d f2 d4 a'2 r | r d,1 d2 | f f 
 
-    c1 | c f,2 r2 | f'1 g2 a | a4 f2 e4 d1 | c r1 | R\breve*3 | r1 d2. d4 |
-        f f e2 d1 | R\breve*3 | r2 a 
+    c1 | c f,2 r2 | f'1 g2 a | a4 f2 e4 d1 | c r1 | R\breve R\breve*2 | 
+        r1 d2. d4 | f f e2 d1 | R\breve R\breve*2 | r2 a 
 
     a2 a | a1 a2 a | e'1. a,2 | a1 bf ~ | bf c | g g | r2 c1 d2 | e2. d4 c2 b|
         a1 r1 | a2 d 
@@ -149,11 +231,35 @@ bassusXII = \relative c' {
     a4 a d d | c4. c8 d2 g, d' | r1 a' ~ | a2 a e1 ~ | e f | 
         c2 c d4 e a,2 | e' e f4 g
 
-    c,2 | g' f1 f2 | c\breve | a2 c d1 | e a,1 ~ | a e'\longa*1/2
+    c,2 | g' f1 f2 | c\breve | d1 a2 c | d1 e | a,\breve | e'\longa*1/2
     \bar "|."
 }
 
 bassusLyricsXII = \lyricmode {
+    Quo -- ni -- am e -- go in __ fla -- gel -- la pa -- ra -- tus sum,
+%        et do -- lor me -- us
+        in __ con -- spe -- ctu me -- o sem -- per.
+
+    Quo -- ni -- am,
+%            an -- nun -- ti -- a -- bo,
+        et co -- gi -- ta -- bo
+            pro pec -- ca -- to me -- o.
+%    I -- ni -- mi -- ci au -- tem me -- i vi -- vunt,
+        et con -- fir -- ma -- ti sunt su -- per me:
+        et mul -- ti -- pli -- ca -- ti sunt
+            qui o -- de -- runt me i -- ni -- que.
+
+%    Qui re -- tri -- bu -- unt ma -- la pro bo -- nis
+            de -- tra -- he -- bant mi -- hi,
+%        quo -- ni -- am se -- que -- bar bo -- ni -- ta -- tem.
+
+    Ne de -- re -- lin -- quas me, Do -- mi -- ne De -- us me -- us;
+        ne di -- sces -- se -- ris a me.
+
+    In -- ten -- de in ad -- ju -- to -- ri -- um me -- um,
+        Do -- mi -- ne __ De -- us sa -- lut -- is me -- æ,
+            sa -- lut -- is me -- æ,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ.
 }
 
 quintusXIIincipit = \relative c' {
@@ -164,9 +270,9 @@ quintusXIIincipit = \relative c' {
     e1.
 }
 
+% quintus: checked against source
 quintusXII = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key c \major
 
     r1 e ~ | e2 e e1 | f e | e1. e2 | f2.( e4 f g a2) | a\breve | R | 
@@ -194,6 +300,29 @@ quintusXII = \relative c' {
 }
 
 quintusLyricsXII = \lyricmode {
+    Quo -- ni -- am e -- go in fla -- gel -- la pa -- ra -- tus sum,
+        et do -- lor me -- us
+%        in con -- spe -- ctu me -- o sem -- per.
+%
+    Quo -- ni -- am i -- ni -- qui -- ta -- tem me -- am
+            an -- nun -- ti -- a -- bo,
+%        et co -- gi -- ta -- bo
+            pro pec -- ca -- to me -- o.
+    I -- ni -- mi -- ci au -- tem me -- i vi -- vunt,
+        et con -- fir -- ma -- ti sunt su -- per me:
+        et mul -- ti -- pli -- ca -- ti sunt
+%            qui o -- de -- runt me i -- ni -- que.
+%
+    Qui __ re -- tri -- bu -- unt ma -- la pro bo -- nis
+            de -- tra -- he -- bant mi -- hi,
+        quo -- ni -- am se -- que -- bar bo -- ni -- ta -- tem.
+
+    Ne de -- re -- lin -- quas me, Do -- mi -- ne De -- us me -- us;
+        ne di -- sces -- se -- ris a me.
+
+    In -- ten -- de in ad -- ju -- to -- ri -- um me -- um,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ.
 }
 
 sextusXIIincipit = \relative c' {
@@ -204,9 +333,9 @@ sextusXIIincipit = \relative c' {
     a2
 }
 
+% sextus: checked against source
 sextusXII = \relative c' {
     \fourTwoCommonTime
-    \clef tenor
     \key c \major
 
     R\breve*4 | R\breve*2 | r1 r2 a | fs fs g1 | r2 g g1 | g e | e r2 c' ~|
@@ -214,11 +343,11 @@ sextusXII = \relative c' {
 
     a2 g | a b a1 | b r2 g ~ | g g g g | e'2 d4 c2 b4 c2 | c4 c b c 
 
-    g2 g | r2 c c1 ~ | c2 a a1 | a2 a1 e'2 | d d g,1 | a r1 | R\breve*2 |
+    g2 g | r2 c c1 ~ | c2 a a1 | a2 a1 e'2 | d d g,1 | a r1 | R\breve |
         c2. b4 a a g g | a2 e f4.( g8 a2) |
 
     d,1 r1 | r1 r2 a' ~ | a a f f | f4( g a f g2) a | c1 r2 c ~ | c d e e4 c~|
-        c d2 c( b8[ a] b2) | c\breve | R\breve*2 | r1
+        c d2 c( b8[ a] b2) | c\breve | R\breve R | r1
 
     a2. a4 | c c b2 a1 | r1 d ~ | d2 e d1 ~ | d2 g, c g4 a ~ | a a d,2 e1 |
         r2 a a a | a1 a2 e |
@@ -235,6 +364,34 @@ sextusXII = \relative c' {
 }
 
 sextusLyricsXII = \lyricmode {
+%    Quo -- ni -- am e -- go in fla -- gel -- la 
+        Pa -- ra -- tus sum,
+        et do -- lor me -- us
+        in __ con -- spe -- ctu me -- o sem -- per.
+
+    Quo -- ni -- am i -- ni -- qui -- ta -- tem me -- am
+            an -- nun -- ti -- a -- bo,
+        et co -- gi -- ta -- bo
+            pro pec -- ca -- to me -- o.
+    I -- ni -- mi -- ci au -- tem me -- i vi -- vunt,
+%        et con -- fir -- ma -- ti sunt su -- per me:
+        et __ mul -- ti -- pli -- ca -- ti sunt
+            qui __ o -- de -- runt me i -- ni -- que.
+
+%    Qui re -- tri -- bu -- unt ma -- la pro bo -- nis
+            de -- tra -- he -- bant mi -- hi,
+        quo -- ni -- am __ se -- que -- bar bo -- ni -- ta -- tem.
+
+    Ne de -- re -- lin -- quas me, Do -- mi -- ne De -- us me -- us;
+        ne di -- sces -- se -- ris a me.
+
+    In -- ten -- de in ad -- ju -- to -- ri -- um me -- um,
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ,
+    \ijLyrics
+            sa -- lut -- is me -- æ,
+    \normalLyrics
+        Do -- mi -- ne De -- us sa -- lut -- is me -- æ,
+            sa -- lut -- is me -- æ,
 }
 
 cantusXIIincipitVoice = <<
