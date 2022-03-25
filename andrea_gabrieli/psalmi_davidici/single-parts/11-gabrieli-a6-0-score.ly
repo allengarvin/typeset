@@ -16,8 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "ego_autem_tamquam_surdus_non_audiebam"
     shortcomp = "gabrieli"
-    needtranslation = #'t
-    folio = "Psalm 37/38"
+    needtranslation = #'f
+    folio = "Psalm 37/38:14-17"
 
     % Unchanging:
     language = "latin"
@@ -98,6 +98,25 @@
     \markup {
         \fill-line {
             \column {
+                \line { Ego autem, tamquam surdus, non audiebam; }
+                \line { et sicut mutus non aperiens os suum. }
+                \line { Et factus sum sicut homo non audiens, }
+                \line { et non habens in ore suo redargutiones. }
+                \line { Quoniam in te, Domine, speravi; }
+                \line { tu exaudies me, Domine Deus meus. }
+                \line { Quia dixi: Nequando supergaudeant mihi inimici mei; }
+                \line { et dum commoventur pedes mei, super me magna locuti sunt. }
+            }
+            \column {
+                \line { As for me, I was like a deaf man, and heard not: }
+                \line { and as one that is dumb, who doth not open his mouth. }
+                \line { I became even as a man that heareth not: }
+                \line { and in whose mouth are no reproofs. }
+                \line { For in thee, O Lord, have I put my trust: }
+                \line { thou shalt answer for me, O Lord my God. }
+                \line { I have required that they, even mine enemies, should not triumph over me: }
+                \line { for when my foot slipped, they rejoiced greatly against me. }
+                \line { \hspace #12 { 1662 \italic { Book of Common Prayer } } }
             }
         }
     }

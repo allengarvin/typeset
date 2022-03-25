@@ -16,8 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "quoniam_ego_in_flagella_paratus_sum"
     shortcomp = "gabrieli"
-    needtranslation = #'t
-    folio = "Psalm 37/38"
+    needtranslation = #'f
+    folio = "Psalm 37/38:18-23"
 
     % Unchanging:
     language = "latin"
@@ -98,6 +98,29 @@
     \markup {
         \fill-line {
             \column {
+                \line { Quoniam ego in flagella paratus sum, }
+                \line { et dolor meus in conspectu meo semper. }
+                \line { Quoniam iniquitatem meam annuntiabo, }
+                \line { et cogitabo pro peccato meo. }
+                \line { Inimici autem mei vivunt, et confirmati sunt super me: }
+                \line { et multiplicati sunt qui oderunt me inique. }
+                \line { Qui retribuunt mala pro bonis detrahebant mihi, }
+                \line { quoniam sequebar bonitatem. }
+                \line { Ne derelinquas me, Domine Deus meus; ne discesseris a me. }
+                \line { Intende in adjutorium meum, Domine Deus salutis meae. }
+            }
+            \column {
+                \line { And I, truly, am set in the plague: }
+                \line { and my heaviness is ever in my sight. }
+                \line { For I will confess my wickedness: }
+                \line { and be sorry for my sin. }
+                \line { But mine enemies live, and are mighty: }
+                \line { and they that hate me wrongfully are many in number. }
+                \line { They also that reward evil for good are against me: }
+                \line { because I follow the thing that good is. }
+                \line { Forsake me not, O Lord my God: be not thou far from me. }
+                \line { Haste thee to help me: O Lord God of my salvation. }
+                \line { \hspace #12 { 1662 \italic { Book of Common Prayer } } }
             }
         }
     }

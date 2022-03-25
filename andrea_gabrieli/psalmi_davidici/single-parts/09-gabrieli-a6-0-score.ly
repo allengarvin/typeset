@@ -16,8 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "putruerunt_et_corruptae_sunt_cicatrices_meae"
     shortcomp = "gabrieli"
-    needtranslation = #'t
-    folio = "Psalm 37/38"
+    needtranslation = #'f
+    folio = "Psalm 37/38:6-9"
 
     % Unchanging:
     language = "latin"
@@ -98,6 +98,25 @@
     \markup {
         \fill-line {
             \column {
+                \line { Putruerunt et corruptae sunt cicatrices meae, }
+                \line { a facie insipientiae meae. }
+                \line { Miser factus sum et curvatus sum usque in finem; }
+                \line { tota die contristatus ingrediebar. }
+                \line { Quoniam lumbi mei impleti sunt illusionibus, }
+                \line { et non est sanitas in carne mea. }
+                \line { Afflictus sum, et humiliatus sum nimis; }
+                \line { rugiebam a gemitu cordis mei. }
+            }
+            \column {
+                \line { My wounds stink, and are corrupt: }
+                \line { through my foolishness. }
+                \line { I am brought into so great trouble and misery: }
+                \line { that I go mourning all the day long. }
+                \line { For my loins are filled with a sore disease: }
+                \line { and there is no whole part in my body. }
+                \line { I am feeble, and sore smitten: }
+                \line { I have roared for the very disquietness of my heart. }
+                \line { \hspace #12 { 1662 \italic { Book of Common Prayer } } }
             }
         }
     }

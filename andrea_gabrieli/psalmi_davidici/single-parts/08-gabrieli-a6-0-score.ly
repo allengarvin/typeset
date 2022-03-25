@@ -16,8 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "domine_ne_in_furore_tuo_arguas_me"
     shortcomp = "gabrieli"
-    needtranslation = #'t
-    folio = "Psalm 37/38"
+    needtranslation = #'f
+    folio = "Psalm 37/38:2-5"
 
     % Unchanging:
     language = "latin"
@@ -98,6 +98,25 @@
     \markup {
         \fill-line {
             \column {
+                \line { Domine, ne in furore tuo arguas me, }
+                \line { neque in ira tua corripias me: }
+                \line { Quoniam sagittae tuae infixae sunt mihi, }
+                \line { et confirmasti super me manum tuam. }
+                \line { Non est sanitas in carne mea, a facie irae tuae;  }
+                \line { non est pax ossibus meis, a facie peccatorum meorum: }
+                \line { quoniam iniquitates meae supergressae sunt caput meum, }
+                \line { et sicut onus grave gravatae sunt super me. }
+            }
+            \column {
+                \line { Put me not to rebuke, O Lord, in thine anger:  }
+                \line { neither chasten me in thy heavy displeasure. }
+                \line { For thine arrows stick fast in me:  }
+                \line { and thy hand presseth me sore. }
+                \line { There is no health in my flesh, because of thy displeasure: }
+                \line { neither is there any rest in my bones, by reason of my sin. }
+                \line { For my wickednesses are gone over my head: }
+                \line { and are like a sore burden, too heavy for me to bear. }
+                \line { \hspace #12 { 1662 \italic { Book of Common Prayer } } }
             }
         }
     }

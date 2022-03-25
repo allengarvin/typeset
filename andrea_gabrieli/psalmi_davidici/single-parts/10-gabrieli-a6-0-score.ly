@@ -16,8 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "domine_ante_te_omne_desiderium_meum"
     shortcomp = "gabrieli"
-    needtranslation = #'t
-    folio = "Psalm 37/38"
+    needtranslation = #'f
+    folio = "Psalm 37/38:10-13"
 
     % Unchanging:
     language = "latin"
@@ -98,6 +98,27 @@
     \markup {
         \fill-line {
             \column {
+                \line { Domine, ante te omne desiderium meum, }
+                \line { et gemitus meus a te non est absconditus. }
+                \line { Cor meum conturbatum est; dereliquit me virtus mea, }
+                \line { et lumen oculorum meorum, et ipsum non est mecum. }
+                \line { Amici mei et proximi mei adversum me appropinquaverunt, et steterunt; }
+                \line { et qui juxta me erant, de longe steterunt: }
+                \line { et vim faciebant qui quaerebant animam meam. }
+                \line { Et qui inquirebant mala mihi, locuti sunt vanitates, }
+                \line { et dolos tota die meditabantur. }
+            }
+            \column {
+                \line { Lord, thou knowest all my desire: }
+                \line { and my groaning is not hid from thee. }
+                \line { My heart panteth, my strength hath failed me: }
+                \line { and the sight of mine eyes is gone from me. }
+                \line { My lovers and my neighbours did stand looking upon my trouble: }
+                \line { and my kinsmen stood afar off. }
+                \line { They also that sought after my life laid snares for me: }
+                \line { and they that went about to do me evil talked of wickedness, }
+                \line { and imagined deceit all the day long. }
+                \line { \hspace #12 { 1662 \italic { Book of Common Prayer } } }
             }
         }
     }

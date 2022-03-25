@@ -15,7 +15,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "domine_ante_te_omne_desiderium_meum"
     shortcomp = "gabrieli"
-    folio = "Psalm 37/38"
+    folio = "Psalm 37/38:10-13"
 
     % Things that change per part:
     partname = "Bassus (part 6 of 6)"
