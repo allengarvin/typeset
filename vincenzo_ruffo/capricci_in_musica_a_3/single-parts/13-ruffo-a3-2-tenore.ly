@@ -60,7 +60,7 @@
         \new Voice << 
             \clef bass
             \global 
-            \transpose f c \tenoreXIII 
+            \tenoreXIII 
         >>
      %   \include "../include/vocal-layout-parts.ly"
     }

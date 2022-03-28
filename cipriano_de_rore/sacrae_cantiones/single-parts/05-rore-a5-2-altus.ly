@@ -9,21 +9,21 @@
 
 \header {
     % Things that change per piece:
-    title = "O salutaris Hostia"
+    title = "Voce mea ad Dominum clamavi"
     subtitle = ""
-    instrument = "O salutaris Hostia:  (altus)"
+    instrument = "Voce mea ad Dominum clamavi:  (altus)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "o_salutaris_hostia"
+    shorttitle = "voce_mea_ad_dominum_clamavi"
     shortcomp = "rore"
-    folio = "Hymn for Corpus Christi (by St. Thomas Aquinas)"
+    folio = "Psalm 142:2-3; Psalm 27:2"
 
     % Things that change per part:
     partname = "Altus (part 2 of 5)"
-    instrument = "O salutaris Hostia:  (altus)"
+    instrument = "Voce mea ad Dominum clamavi:  (altus)"
 
     % Unchanging:
-    lastupdated = "2021-10-27"
-    originallyset = "2021-10-27"
+    lastupdated = "2021-10-28"
+    originallyset = "2021-10-28"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -31,27 +31,12 @@
 \include "../parts/05-rore-a5-motet.ly"
 
 \book {
-    \bookOutputName "05-rore--o_salutaris_hostia-"
+    \bookOutputName "05-rore--voce_mea_ad_dominum_clamavi-"
     \bookOutputSuffix "--2-altus--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
-            \global 
-            \altusV
-        >>
-                \addlyrics { \altusLyricsV }
-     %   \include "../include/vocal-layout-parts-barring.ly"
-    }
-}
-
-\book {
-    \bookOutputName "05-rore--o_salutaris_hostia-"
-    \bookOutputSuffix "--2-altus--al_clef"
-    \include "../include/paper-1-part.ly"
-    \score {
-        \new Voice << 
-            \clef "alto"
             \global 
             \altusV
         >>

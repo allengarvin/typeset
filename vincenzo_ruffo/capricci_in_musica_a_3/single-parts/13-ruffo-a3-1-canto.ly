@@ -83,7 +83,7 @@
         \new Voice << 
             \clef tenor
             \global 
-            \transpose f c \cantoXIII
+            \cantoXIII
         >>
         \header {
             partname = "Canto"

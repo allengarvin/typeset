@@ -32,7 +32,7 @@
         \new Voice << 
             \clef bass
             \global 
-            \transpose f c \bassoXIII 
+            \bassoXIII 
         >>
         \header {
             partname = "Basso"

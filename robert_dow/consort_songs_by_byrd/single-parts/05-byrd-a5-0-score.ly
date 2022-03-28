@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 17.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -31,7 +31,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Superius"
                     \incipit \superiusVincipitVoice
@@ -78,5 +80,19 @@
             }
         }
     }   
+    \markup {
+        \fill-line {
+            \column {
+                \line { While Phoebus us'd to dwell }
+                \line { amongst the woods so wild }
+                \line { where oft he did lament and wail }
+                \line { how Daphne him beguil'd. }
+                \line { His only pleasure was }
+                \line { to fill the nights and days }
+                \line { with harp in hand and on his bed }
+                \line { to wear a crown of bays. }
+            }
+        }
+    }
 }
 

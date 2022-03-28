@@ -12,7 +12,7 @@
 \header {
     % Things that change per piece:
     title = "Se m’odii, e in ciò diletto alcun tu senti"
-    folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Quinto XIVI ottava 45 }
+    folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Quinto XVI ottava 45 }
 
     % Things that change per part:
     partname = "Quinto (part 3 of 5)"

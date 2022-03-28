@@ -13,7 +13,7 @@
     % Things that change per piece:
     title = "Se m’odii, e in ciò diletto alcun tu senti"
     subtitle = "Terza parte"
-    folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XIVI ottava 45 }
+    folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XVI ottava 45 }
 
     % Things that change per part:
     partname = "Tenore (part 4 of 5)"
