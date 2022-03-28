@@ -30,11 +30,30 @@ cantoXXXVIII = \relative c'' {
 cantoLyricsXXXVIII = \lyricmode {
 }
 
-altoXXXVIII = \relative c' {
-    \fourTwoCutTime
-    \clef mezzosoprano
+altoXXXVIIIincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c3"
     \key f \major
 
+    f1
+}
+
+altoXXXVIII = \relative c' {
+    \fourTwoCutTime
+    \clef alto
+    \key f \major
+
+    r1 f | r2 f f f | d f ef2. d4 | c bf ef2 d1 | d1. e2 | f d1 cs2 |
+        d d d d | d1 d2 d | bf1
+
+    a2 bf2 ~ | bf4( a8[ g] a2) bf r4 f ~ | f f f'2. f4 g2 | g1 g | r1 r2 d ~|
+        d4 bf2 bf4 f2 f | f f f g | a1 a2 r2 | r1 g' ~ | g e2 e | fs1 r1 |
+
+    r2 a f g4 f ~ | f d d( cs) d1 | R\breve*2 | r1 a2. a4 | a2 c2. c4 g g |
+        c2 b c g | r2 d' b4. b8 b2 | b r r d | d d d1 ~ | d2 c a1 |
+
+    a2 a4 a2 bf4 a2 | a r2 r4 bf bf g | ef' ef d2 d4 g g e | a2 f g g |
+        r2 r4 d d bf c2 | a d1( c2) | d\longa*1/2
     \bar "|."
 }
 

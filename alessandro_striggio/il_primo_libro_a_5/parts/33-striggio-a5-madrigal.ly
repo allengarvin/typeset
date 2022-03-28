@@ -1,4 +1,4 @@
-% Ri don lieti
+% Ri don liete
 
 cantoXXXIIIincipit = \relative c'' {
     \time 2/2
@@ -34,11 +34,31 @@ cantoXXXIII = \relative c'' {
 cantoLyricsXXXIII = \lyricmode {
 }
 
+altoXXXIIIincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c2"
+    \key f \major
+
+    d2.
+}
+
 altoXXXIII = \relative c' {
     \fourTwoCutTime
     \clef mezzosoprano
     \key f \major
 
+    d2.( e8[ f] g4) g f2 ~ | f4( e8[ d] e2) f d | c1 bf2 r4 bf | d2 d ef1 |
+        d r1 | f f2 g4 a ~ | a f bf2 a g | g g1( f2) |
+
+    g2 d f g | f e r a | bf bf1 a2 | bf2.( a4 g2) g ~ | g f g1 ~ | g r1 |
+        r2 bf bf a | g f ef1 ~ | ef2 ef ef ef | r4 d a' a a2 a |
+
+    d,2 d4 d f1 | e r4 a a a | a1 a | R\breve*2 | r2 g1 g2 | a1 g2 f | f d d1 |
+        r2 d f1 | a r4 a, c2 d | c bf ef2. ef4 | d2 ef d1 |
+
+    f2 f1 d2 | f a1 g2 ~ | g( fs4 e fs1) | g1 r1 | r2 g2. fs4 fs2 | 
+        g g a1 | bf2 g g a ~ | a4\melisma\ficta g g1 fs2\unficta\melismaEnd |
+        g2 r r1 | a1 a ~ | a2 a a1 | fs\longa*1/2
     \bar "|."
 }
 

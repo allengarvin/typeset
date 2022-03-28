@@ -30,7 +30,8 @@ superiusVII = \relative c' {
         c1. b2 | a1 g | R\breve*2 R\breve | r1 r2 g | a b c1 ~ | c2 b a1 | g r1 |
         R\breve | 
 
-    r2 g b c | d1 c2 b ~ | b4( a a1 gs4 fs | g2 a) b1 | r2 a b c |
+    r2 g b c | d1 c2 b ~ | b4\melisma a a1 gs4 fs | \ficta
+        gs2 a\unficta\melismaEnd b1 | r2 a b c |
         d1 c2 b ~ | \invisibleTime\time 6/2 s1*0\raisedSixTwoTime
         b4( a c2. b4 a1 gs2) | \invisibleTime\time 4/2 a\longa*1/2
     \bar "|."

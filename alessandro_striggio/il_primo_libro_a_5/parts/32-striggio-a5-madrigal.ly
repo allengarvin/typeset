@@ -35,11 +35,35 @@ cantoXXXXII = \relative c'' {
 cantoLyricsXXXXII = \lyricmode {
 }
 
-altoXXXXII = \relative c' {
-    \fourTwoCutTime
-    \clef mezzosoprano
+altoXXXXIIincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c3"
     \key f \major
 
+    f1
+}
+
+altoXXXXII = \relative c' {
+    \fourTwoCutTime
+    \clef alto
+    \key f \major
+
+    f1 f ~ | f2 f f e | c f2.( e8[ d] e2) | f d g1 | c,\breve | r2 f c d |
+        e f c d | bf1 a | r2 c d e | f d
+
+    e2 f | d c bf d | d1 d2. d4 | d2 f2.( e8[ d] e2) | f1 r2 f4 d| 
+        f2 d4 d g2 c, | d f1 e2 | g2.( f4 e1) | e2 e c
+
+    g'4 e ~ | e f e2 f f | c e4 f2 f4 f2 | f1 r1 | r4 d c d e e g2 |
+        c, r4 f e c d e | f2 d r1 | f1 f2 f | f f f e |
+
+    f1 e | d e | f e2 f | d4 g fs2 g1 | e2 c d e | f f2.( e8[ d] e2) | 
+        f r2 r4 c c2 | d4 e2 f4 d2 f | d c4 d2 e4 f2 |
+
+    r2 f1 f2 ~ | f4( e d1) e2 | f4( e d c bf1) | a4 f'2 e4 f2 d4 d | 
+        g2 c, c4 c c2 | a f' f1 ~ | f2 f f e | c f2.( e8[ d] e2) | f c
+
+    c1 | c2 r4 f f1 ~ | f2 f f e | c f2.( e8[ d] e2) | f c c1 | c\longa*1/2
     \bar "|."
 }
 

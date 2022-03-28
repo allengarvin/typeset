@@ -47,7 +47,7 @@ cantoLyricsXI = \lyricmode {
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
 
-    E de le da -- me se -- gui -- ria la trac -- cia:
+    E de le da -- me se -- gui -- ria __ la trac -- cia:
     % Ché va -- go~e par -- go -- let -- to
     È que -- sto co -- me quel -- lo,
     E leg -- gia -- dret -- to~e bel -- lo.
@@ -191,13 +191,13 @@ tenoreLyricsXI = \lyricmode {
 
     È que -- sto co -- me quel -- lo,
     E leg -- gia -- dret -- to~e bel -- lo.
-    Se pur vuol tuo de -- sti -- no
+    Se pur vuol __ tuo de -- sti -- no
     \ijLyrics
     Se pur vuol tuo de -- sti -- no
     \normalLyrics
     Ch’e -- gli sia cac -- cia -- to -- re,
     Pren -- di,
-    Pren -- di co -- stei, __
+    Pren -- di __ co -- stei, __
 
     Vez -- zo -- set -- to Gre -- chi -- no,
     Se pur vuol tuo de -- sti -- no,
@@ -207,7 +207,7 @@ tenoreLyricsXI = \lyricmode {
     \ijLyrics
         men -- tre~el -- la fug -- ge,
     \normalLyrics
-    Pren -- di co -- stei men -- tre~el -- la fug -- ge~A -- mo -- re.
+    Pren -- di co -- stei __ men -- tre~el -- la fug -- ge~A -- mo -- re.
 }
 
 bassoXIincipit = \relative c, {

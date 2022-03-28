@@ -22,11 +22,33 @@ cantoXXXIV = \relative c'' {
 cantoLyricsXXXIV = \lyricmode {
 }
 
+altoXXXIVincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c2"
+    \key f \major
+
+    g1.
+}
+
 altoXXXIV = \relative c' {
     \fourTwoCutTime
     \clef mezzosoprano
     \key f \major
 
+    g1. g2 | a1 bf2 a ~ | a g1 \ficta fs2\unficta | g g1 g2 ~ | g a2. a4 a2 |
+        a a r a ~ | a f1 g2 | ef1 d2 r4 g, | a2 d d cs | d a d bf | a a r1 |
+
+    a1 g | a a | a r2 a | a d c c | bf f'2.( e4 d2) | e c d d | r4 c c f, a1 |
+        a2 a' g f | e f1 d2 ~ | d c d r | r f f d4 f ~ | f d
+
+    % --- page ---
+    d2 d ef | d f4 f2 d4 c2 | d bf'2. bf4 bf2 | bf bf f bf | R\breve |
+        r2 bf a1 ~ | a2 bf1 g2 ~ | g( fs4 e fs1) | g1 r1 | r1 r2 g ~ |
+        g4 g fs2 a d, | g g g e |
+
+    d1 d2 g ~ | g4 fs4 fs2 g d | bf'2.( a4 g2) a | g fs g1 | g2 g2. fs4 fs2 |
+        g a bf2.( a4 | g1) r2 a | g fs g1 | g2 bf1 a2 ~ | 
+        a bf4 g2( fs8[ e] fs2) | g\longa*1/2
     \bar "|."
 }
 

@@ -1,6 +1,6 @@
 % Donna bell'e gentil
 
-cantoLXIincipit = \relative c'' {
+cantoXLIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c1"
     \key c \major
@@ -8,7 +8,7 @@ cantoLXIincipit = \relative c'' {
     a1
 }
 
-cantoLXI = \relative c'' {
+cantoXLI = \relative c'' {
     \fourTwoCutTime
     \clef soprano
     \key c \major
@@ -30,21 +30,47 @@ cantoLXI = \relative c'' {
     \bar "|."
 }
 
-cantoLyricsLXI = \lyricmode {
+cantoLyricsXLI = \lyricmode {
 }
 
-altoLXI = \relative c' {
-    \fourTwoCutTime
-    \clef mezzosoprano
+altoXLIincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c3"
     \key c \major
 
+    e1
+}
+
+altoXLI = \relative c' {
+    \fourTwoCutTime
+    \clef alto
+    \key c \major
+
+    r1 e | b2 e d b | d d a c | c2.( d4 e c f2) | e e, e g ~ | g4 g d'2 e1 |
+        r2 e e2.( d4 | c2) c b1 | a2 a
+
+    g1 | d' d2 d | cs1 r2 b | a a a1 | a r2 c | a2. e'4 e2 b | d e e4 c d e |
+        f2 e4 g f e e( d) | e2 e e2. e4 | e2 e
+
+    c1 | a2 r4 e' f2 e | d c d a | e'1 e2 e | f f f f | d e f e | c e e1 ~|
+        e e | r1 r2 g, | a2. g4 f2 e | d a' a b | c\breve |
+
+    b2 d e2. d4 | d2 b d d | e e e1 | c\longa*1/2 \bar "||" a1 c2 b |
+        d1 d2 c | e d1 f2 ~ | f4( e e d8[ c] d2) e | r g, b a ~ | a e'1 d2 | 
+        r2 d
+
+    g2 g ~ | G4 g f2 e1 | e r2 e ~ | e4 d c2 d e | f( e1 d2) | e g2. g4 f2 | 
+        e  e1 | d r1 | r2 e2. e4 e2 ~ | e( d) e1 ~ | e r1 | f2 g e f | d e
+
+    c4 f2 d4 | g2 e4 g f e d d | e1 r1 | r2 d e4 g g( f) | g2 g e4 e e2 |
+        e c a' f ~ | f4 f f2 g g ~ | g e1 e2 | e\breve | e\longa*1/2
     \bar "|."
 }
 
-altoLyricsLXI = \lyricmode {
+altoLyricsXLI = \lyricmode {
 }
 
-tenoreLXI = \relative c' {
+tenoreXLI = \relative c' {
     \fourTwoCutTime
     \clef alto
     \key c \major
@@ -52,10 +78,10 @@ tenoreLXI = \relative c' {
     \bar "|."
 }
 
-tenoreLyricsLXI = \lyricmode {
+tenoreLyricsXLI = \lyricmode {
 }
 
-bassoLXI = \relative c' {
+bassoXLI = \relative c' {
     \fourTwoCutTime
     \clef varbaritone
     \key c \major
@@ -63,10 +89,10 @@ bassoLXI = \relative c' {
     \bar "|."
 }
 
-bassoLyricsLXI = \lyricmode {
+bassoLyricsXLI = \lyricmode {
 }
 
-quintoLXI = \relative c' {
+quintoXLI = \relative c' {
     \fourTwoCutTime
     \clef soprano
     \key c \major
@@ -74,41 +100,41 @@ quintoLXI = \relative c' {
     \bar "|."
 }
 
-quintoLyricsLXI = \lyricmode {
+quintoLyricsXLI = \lyricmode {
 }
 
-cantoLXIincipitVoice = <<
+cantoXLIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoLXIincipit
+        \cantoXLIincipit
     >>
 >>
 
-altoLXIincipitVoice = <<
+altoXLIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altoLXIincipit
+        \altoXLIincipit
     >>
 >>
 
-tenoreLXIincipitVoice = <<
+tenoreXLIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreLXIincipit
+        \tenoreXLIincipit
     >>
 >>
 
-bassoLXIincipitVoice = <<
+bassoXLIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassoLXIincipit
+        \bassoXLIincipit
     >>
 >>
 
-quintoLXIincipitVoice = <<
+quintoXLIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \quintoLXIincipit
+        \quintoXLIincipit
     >>
 >>
 

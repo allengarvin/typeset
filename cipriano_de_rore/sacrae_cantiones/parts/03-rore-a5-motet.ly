@@ -45,7 +45,7 @@ cantusIII = \relative c'' {
         \ficta d4 c c2. b8[ a] b!2\unficta\melismaEnd |
     % --- page ---
     c2 g a b | c a g1 | f r1 | r1 r2 f ~ | f bf a c ~ |
-        c4( bf8[ a] bf4 a c1) | c\longa*1/2
+        c4( bf8[ a] bf4 a c1) | c\breve~c~c\longa*1/2
 
     \bar "|."
 }
@@ -67,7 +67,7 @@ cantusLyricsIII = \lyricmode {
             et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
         et u -- sque,
         et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
-            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus.
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus. __
 }
 
 altusIIIincipit = \relative c' {
@@ -78,9 +78,9 @@ altusIIIincipit = \relative c' {
     f1.
 }
 
+% altus: checked against source
 altusIII = \relative c' {
     \fourTwoCutTime
-    \clef mezzosoprano
     \key f \major
 
     f1. f2 | f1 d | c2 f f d | f1 f2 f | g1 c,2 d | d2.( e4 f2) f | g g
@@ -114,23 +114,25 @@ altusIII = \relative c' {
 }
 
 altusLyricsIII = \lyricmode {
-%    Po -- pu -- lus e -- jus, et o -- ves pa -- scu -- æ e -- jus.
-%
-%    In -- tro -- i -- te por -- tas e -- jus in con -- fes -- si -- o -- ne,
-%        por -- tas e -- jus in con -- fes -- si -- o -- ne;
-%    a -- tri -- a e -- jus in hym -- nis:
-%        con -- fi -- te -- mi -- ni il -- li.
-%            Lau -- da -- te no -- men e -- jus,
-%            lau -- da -- te no -- men e -- jus,
-%
-%    quo -- ni -- am su -- a -- vis est Do -- mi -- nus,
-%        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
-%        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
-%        et u -- sque in ge -- ne -- ra -- ti -- o -- nem
-%            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
-%        et u -- sque,
-%        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
-%            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus.
+    Po -- pu -- lus e -- jus, et o -- ves pa -- scu -- æ e -- jus,
+        et o -- ves pa -- scu -- æ e -- jus. __
+
+    In -- tro -- i -- te por -- tas e -- jus __ in con -- fes -- si -- o -- ne,
+    a -- tri -- a e -- jus in hym -- nis:
+        con -- fi -- te -- mi -- ni il -- li.
+            Lau -- da -- te no -- men e -- jus,
+            lau -- da -- te no -- men e -- jus,
+
+    quo -- ni -- am su -- a -- vis est Do -- mi -- nus,
+    quo -- ni -- am su -- a -- vis est Do -- mi -- nus,
+        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem
+            et ge -- ne -- ra -- ti -- o -- nem,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
+                ve -- ri -- tas e -- jus.
 }
 
 tenorIIIincipit = \relative c' {
@@ -141,9 +143,9 @@ tenorIIIincipit = \relative c' {
     bf1.
 }
 
+% tenor: checked against source
 tenorIII = \relative c' {
     \fourTwoCutTime
-    \clef alto
     \key f \major
 
     R\breve*2 | r1 bf ~ | bf2 bf bf1 | g f2 bf | bf g d'1 | c2 g d'1 | c bf |
@@ -173,23 +175,23 @@ tenorIII = \relative c' {
 }
 
 tenorLyricsIII = \lyricmode {
-%    Po -- pu -- lus e -- jus, et o -- ves pa -- scu -- æ e -- jus.
-%
-%    In -- tro -- i -- te por -- tas e -- jus in con -- fes -- si -- o -- ne,
-%        por -- tas e -- jus in con -- fes -- si -- o -- ne;
-%    a -- tri -- a e -- jus in hym -- nis:
-%        con -- fi -- te -- mi -- ni il -- li.
-%            Lau -- da -- te no -- men e -- jus,
-%            lau -- da -- te no -- men e -- jus,
-%
-%    quo -- ni -- am su -- a -- vis est Do -- mi -- nus,
-%        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
-%        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
-%        et u -- sque in ge -- ne -- ra -- ti -- o -- nem
-%            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
-%        et u -- sque,
-%        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
-%            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus.
+    Po -- pu -- lus e -- jus, et o -- ves pa -- scu -- æ e -- jus.
+
+    In -- tro -- i -- te por -- tas e -- jus in __ con -- fes -- si -- o -- ne,
+    in -- tro -- i -- te in con -- fes -- si -- o -- ne;
+    a -- tri -- a e -- jus in hym -- nis:
+        con -- fi -- te -- mi -- ni il -- li. __
+            Lau -- da -- te no -- men e -- jus,
+
+    quo -- ni -- am su -- a -- vis est Do -- mi -- nus,
+    quo -- ni -- am su -- a -- vis est Do -- mi -- nus, __
+        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus.
 }
 
 bassusIIIincipit = \relative c {
@@ -200,9 +202,9 @@ bassusIIIincipit = \relative c {
     c1
 }
 
+% bassus: checked against source
 bassusIII = \relative c {
     \fourTwoCutTime
-    \clef varbaritone
     \key f \major
 
     R\breve*4 | R\breve*2 | c1 d | f g | bf2.( a8[ g] f2) d | c1 bf2 bf' ~ |
@@ -231,21 +233,20 @@ bassusIII = \relative c {
 bassusLyricsIII = \lyricmode {
 %    Po -- pu -- lus e -- jus, et o -- ves pa -- scu -- æ e -- jus.
 %
-%    In -- tro -- i -- te por -- tas e -- jus in con -- fes -- si -- o -- ne,
-%        por -- tas e -- jus in con -- fes -- si -- o -- ne;
-%    a -- tri -- a e -- jus in hym -- nis:
-%        con -- fi -- te -- mi -- ni il -- li.
-%            Lau -- da -- te no -- men e -- jus,
-%            lau -- da -- te no -- men e -- jus,
-%
-%    quo -- ni -- am su -- a -- vis est Do -- mi -- nus,
-%        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
-%        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
-%        et u -- sque in ge -- ne -- ra -- ti -- o -- nem
-%            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
-%        et u -- sque,
-%        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
-%            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus.
+    In -- tro -- i -- te por -- tas e -- jus in __ con -- fes -- si -- o -- ne,
+        in con -- fes -- si -- o -- ne,
+    a -- tri -- a e -- jus, __
+    a -- tri -- a e -- jus __ in hym -- nis: 
+        con -- fi -- te -- mi -- ni il -- li.
+            Lau -- da -- te no -- men e -- jus,
+
+    quo -- ni -- am su -- a -- vis est Do -- mi -- nus, __
+        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
+            mi -- se -- ri -- cor -- di -- a e -- jus,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem
+            et ge -- ne -- ra -- ti -- o -- nem,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus.
 }
 
 quintusIIIincipit = \relative c' {
@@ -256,9 +257,9 @@ quintusIIIincipit = \relative c' {
     d1.
 }
 
+% quintus: checked against source
 quintusIII = \relative c' {
     \fourTwoCutTime
-    \clef mezzosoprano
     \key f \major
 
     R\breve*3 | d1. d2 | d1 f | g2 bf bf a | c2.( bf4 a g f2 ~ | f) f d bf ~|
@@ -270,7 +271,7 @@ quintusIII = \relative c' {
     f2 g2.( f4 f2 ~ | f4 e8[ d] e2) f a ~ | a a a1 | bf a2 a | d,1 e2 f ~ |
         f d e2.( f4 | g2) d a'1 | c a | R\breve | r2 g
 
-    c2.( bf4 | a2) g f e | c f2.( e4 e d8[ c] | d1) e1 ~ | e r1 | r2 g g1 |
+    c2.( bf4 | a2) g f e | c( f2. e4 e d8[ c] | d1) e1 ~ | e r1 | r2 g g1 |
         e2.( f4 g2) c, | c c2.\melisma\ficta b8[ a] b!2\unficta\melismaEnd |
         c1. f2 ~ | f f
 
@@ -292,23 +293,23 @@ quintusIII = \relative c' {
 }
 
 quintusLyricsIII = \lyricmode {
-%    Po -- pu -- lus e -- jus, et o -- ves pa -- scu -- æ e -- jus.
-%
-%    In -- tro -- i -- te por -- tas e -- jus in con -- fes -- si -- o -- ne,
-%        por -- tas e -- jus in con -- fes -- si -- o -- ne;
-%    a -- tri -- a e -- jus in hym -- nis:
-%        con -- fi -- te -- mi -- ni il -- li.
-%            Lau -- da -- te no -- men e -- jus,
-%            lau -- da -- te no -- men e -- jus,
-%
-%    quo -- ni -- am su -- a -- vis est Do -- mi -- nus,
-%        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
-%        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
-%        et u -- sque in ge -- ne -- ra -- ti -- o -- nem
-%            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
-%        et u -- sque,
-%        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
-%            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus.
+    Po -- pu -- lus e -- jus, et o -- ves pa -- scu -- æ e -- jus. __
+
+    In -- tro -- i -- te por -- tas e -- jus in con -- fes -- si -- o -- ne,
+    a -- tri -- a e -- jus in hym -- nis:
+        con -- fi -- te -- mi -- ni il -- li.
+            Lau -- da -- te no -- men e -- jus, __
+            lau -- da -- te __ no -- men e -- jus, 
+
+    quo -- ni -- am su -- a -- vis est Do -- mi -- nus,
+    quo -- ni -- am su -- a -- vis est Do -- mi -- nus, __
+        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
+        in æ -- ter -- num mi -- se -- ri -- cor -- di -- a e -- jus,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
+        et u -- sque in ge -- ne -- ra -- ti -- o -- nem,
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus,
+            et ge -- ne -- ra -- ti -- o -- nem ve -- ri -- tas e -- jus.
 }
 
 cantusIIIincipitVoice = <<

@@ -9,7 +9,6 @@ cantusOneXXVincipit = \relative c'' {
 % cantus I: checked against source
 cantusOneXXV = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key bf \major
 
     s1*0^\markup { \italic { Versus } }

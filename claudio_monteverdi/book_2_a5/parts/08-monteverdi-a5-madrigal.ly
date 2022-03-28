@@ -20,7 +20,6 @@ cantoVIIIincipit = \relative c'' {
 % canto: checked against source
 cantoVIII = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key f \major
 
     r1 d4 d8[ d] d4 c | bf2 bf \times 2/3 { a2 a a } |

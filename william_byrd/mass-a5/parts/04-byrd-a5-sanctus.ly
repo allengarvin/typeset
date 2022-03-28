@@ -9,7 +9,6 @@ superiusIVincipit = \relative c'' {
 % superius: checked against source
 superiusIV = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     \[ a\breve( d) \] c\breve | R | \[ a( d) \] | c | R | r1 bf ~ |

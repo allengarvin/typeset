@@ -33,11 +33,33 @@ cantoXXXVII = \relative c'' {
 cantoLyricsXXXVII = \lyricmode {
 }
 
-altoXXXVII = \relative c' {
+altoXXXVIIincipit = \relative c'' {
+    \time 4/4
+    \clef "petrucci-c2"
+    \key f \major
+
+    g1
+}
+
+altoXXXVII = \relative c'' {
     \fourTwoCommonTime
     \clef mezzosoprano
     \key f \major
 
+    g1 a2. a4 | f2 f d1 | f2 f d2. f2 | e2 f f1 | f2 f f4 f d2 | f a f c' ~|
+        c a a1 | a4 a a f bf2
+
+    g2 | a2. bf4 a a g2 ~ | g( f) g a | bf bf4 g2 f4 f2 | f f d d4 f ~ | 
+        f f e2 f d | a' bf4 g2 g4 fs2 | g\longa*1/2 \bar "||" r2 d2. d4 e2 |
+
+    f2 f g1 | c,2 f2. f4 f2 | f f d2. e4 | f1 d2 g | e f d d | f1 e2.( f4 |
+        g2) g1 f2 | d\breve | d2 d f2. c4 | g'2 d d1 | b
+
+    r2 c ~ | C e f c | d f1 e2 | f r4 c c2 bf | a c d c | 
+        r2 r4 a' a a bf4.( a8 | g2) a r4 f f e | f4.( e8 d2.) bf4 ef2 |
+
+    d1. r4 g | g1 g2 d | d1 d2 e | c f d ef | d d r2 r4 g ~ |
+        g f e2 d f4.( g8 | a4) bf a2 a a | g a bf1 | a2 g1 f2 | g\longa*1/2
     \bar "|."
 }
 

@@ -39,11 +39,36 @@ cantoXL = \relative c'' {
 cantoLyricsXL = \lyricmode {
 }
 
-altoXL = \relative c' {
-    \fourTwoCommonTime
-    \clef mezzosoprano
+altoXLincipit = \relative c' {
+    \time 4/4
+    \clef "petrucci-c3"
     \key f \major
 
+    d2.
+}
+
+altoXL = \relative c' {
+    \fourTwoCommonTime
+    \clef alto
+    \key f \major
+
+    R\breve | d2. f4 e2 c4 c | D2 bf g4 g c2 | a r4 e' f2 d | e4 e f2 c r4 c ~|
+        c c2 bf4 c2 d | r4 e f f f2 e |
+
+    r4 d f e d2 cs | r4 d d d d2 cs | r4 d4. d8 f4 d d g2 | fs1 r2 g | 
+        e c d g, | a f' ef ef | d d4 d d c
+
+    c2 | bf4 a2( g4) a2 r4 a ~ | a c c2 d4 e f c | r4 c d d2 d bf4 |
+        a2 a r4 d2 d4 | bf2 a g4 d'2( c4) | d2 d f e | f c d1 |
+
+    c2 r4 d d2 ef | d1 d2 r4 d | e2 f f f | e4 e e2 f4 f2( e4) | 
+        f e d4.( e8 f4. e8 d4) c | bf2 a r4 d4. d8 d4 | b4 b
+
+    c2 c4 a4. a8 c4 | d a2 d( cs4) d2 | r2 d d f | f f f f | d d d1 | 
+        d2 r4 d d2 f | f f f f | d d d1 | d2 r4 d 
+
+    e4 e f2 ~ | f4 d2 g g c,4 ~ | c f e2 d r4 d | c c c2 bf4 bf d d | 
+        d2 d4 c f f d2 | f4 f2 f4 f2 d | d d4 f2 e4 d2 | cs\longa*1/2
     \bar "|."
 }
 
