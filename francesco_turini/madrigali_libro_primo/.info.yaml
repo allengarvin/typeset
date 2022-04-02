@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1624__turini_francesco__madrigali_a_1_2_e_3_con_alcune_sonate_a_2_e_3
+    typeset_directory: francesco_turini/madrigali_libro_primo
+source:
+    city: Venice
+    date_exact: true
+    title: Madrigali à 1, 2, e 3 voci con alcune sonate
+    press: Vincenti press
+    year: 1621

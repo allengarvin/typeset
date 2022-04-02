@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /melchior_franck
+biography:
+    name: Melchior Franck
+    last_name: Franck
+    nationality: German
+    born_year: 1579
+    born_circa: true
+    died_year: 1639

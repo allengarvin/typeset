@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1576__luzzaschi_luzzasco__second_libro_de_madrigali_a_5_voci/
+    typeset_directory: luzzascho_luzzaschi/secondo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Secondo libro de madrigali à 5 voci
+    press: Angelo Gardano press
+    year: 1576
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: complete/1599__marenzio_luca__nono_libro_de_madrigali_a_5_voci__gardano_press
+source:
+    city: Venice
+    date_exact: true
+    title: 'Il nono libro de madrigali à 5 voci'
+    print: true
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    year: 1599

@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: john_ward/the_first_set_of_english_madrigals
+source:
+    city: London
+    date_exact: true
+    title: The first set of English madrigals
+    press: Thomas Snodham press
+    year: 1613

@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /giovanni_paolo_cima
+biography:
+    name: Giovanni Paolo Cima
+    last_name: Cima
+    nationality: Italian
+    born_year: 1570
+    born_circa: true
+    died_year: 1630
+    born_location:
+        region: Milan
+        country: Italy
+    died_location:
+        region: Milan
+        country: Italy

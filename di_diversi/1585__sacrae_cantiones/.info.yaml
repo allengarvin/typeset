@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: typeset.new/di_diversi/1585__sacrae_cantiones
+source:
+    city: Nuremberg
+    date_exact: true
+    manuscript: false
+    press: Gerlachiae press
+    print: true
+    title: 'Sacrae cantiones cum quinque, sex et pluribus vocibus'
+    year: 1585

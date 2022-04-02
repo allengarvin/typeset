@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /leonora_duarte
+biography:
+    name: Leonora Duarte
+    last_name: Duarte
+    nationality: Flemish
+    born_year: 1610
+    died_year: 1678
+    died_circa: true
+    born_location:
+        region: Antwerp
+        country: Flanders
+    died_location:
+        region: Antwerp
+        country: Flanders

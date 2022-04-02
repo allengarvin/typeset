@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /pomponio_nenna
+biography:
+    name: Pomponio Nenna
+    last_name: Nenna
+    nationality: Italian
+    born_year: 1556
+    born_date: 1556-06-13
+    died_year: 1608
+    died_date: 1608-07-25
+    born_location:
+        region: Bari
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

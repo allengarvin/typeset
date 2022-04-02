@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1554__da_reggio_hoste__madrigali_a_4_voci_libro_3
+    typeset_directory: hoste_da_reggio/il_terzo_libro_a_4
+source:
+    city: Venice
+    date_exact: true
+    title: Il terzo libro delli madrigali à 4 voci
+    press: Scotto Press
+    year: 1554

@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1609__nenna_pomponia__il_quarto_libro_de_madrigali_a_5_voci
+    typeset_directory: pomponio_nenna/il_quarto_libro_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il quarto libro de madrigali à 5 voci
+    full_title: Il quarto libro de madrigali à cinque voci
+    press: Bartholomeo Magni press
+    year: 1617
+    reprints: 1617
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

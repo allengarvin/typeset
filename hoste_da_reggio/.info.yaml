@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /hoste_da_reggio
+biography:
+    name: Hoste da Reggio
+    name_variants:
+        - L'Hoste da Reggio
+        - L'Osto da Reggio
+    last_name: da Reggio
+    nationality: Italian
+    born_year: 1520
+    born_circa: true
+    died_year: 1569
+    born_location:
+        region: Reggio
+        country: Italy
+    died_location:
+        country: Italy

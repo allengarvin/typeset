@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1627__jarzebski_adam__concerti_e_canzoni
+    typeset_directory: adam_jarzebski/concerti_e_canzoni
+source:
+    city: Warsaw
+    date_exact: true
+    title: Canzoni e Concerti
+    full_title: Canzoni e Concerti a due, tre, e quattro voci cum basso continuo
+    year: 1627

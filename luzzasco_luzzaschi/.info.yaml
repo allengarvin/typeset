@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /luzzascho_luzzaschi
+biography:
+    name: Luzzasco Luzzaschi
+    last_name: Luzzaschi
+    nationality: Italian
+    born_year: 1545
+    died_year: 1607
+    died_date: 1607-09-10
+    born_location:
+        region: Ferrara
+        country: Italy
+    died_location:
+        region: Ferrara
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.17234

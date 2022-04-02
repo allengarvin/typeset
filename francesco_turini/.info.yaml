@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /francesco_turini
+biography:
+    name: Francesco Turini
+    last_name: Turini
+    nationality: Italian
+    born_year: 1589
+    born_circa: true
+    died_year: 1656
+    born_location:
+        region: Prague
+        country: Czechia
+    died_location:
+        region: Brescia
+        country: Italy

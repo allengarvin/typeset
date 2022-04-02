@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1591__byrd_william__liber_secundus_sacrarum_cantionum
+    typeset_directory: william_byrd/1591__cantionum_sacrarum_II
+source:
+    city: London
+    date_exact: true
+    title: Liber secundus sacrarum cantionum
+    full_title: Liber secundus sacrarum cantionum quarum aliæ ad quinque, aliæ vero ad sex voces æditæ sunt
+    press: Thomas East press
+    year: 1591
+contents:
+    type: motet
+    parts: 5
+    part_names: superius, medius, contratenor, tenor, bassus
+    language: latin

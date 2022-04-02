@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1606__cima_giovan_paolo__partito_de_ricercari_e_canzoni_alla_francese
+    typeset_directory: giovanni_paolo_cima/partito_de_ricercari_e_canzoni
+source:
+    city: Milan
+    date_exact: true
+    title: Partito de Ricercari e Canzoni alla Francese
+    full_title: L"'"ottavo libro de madrigali a cinque voci, novamente composto e dato in luce
+    press: Tini e Lomazzo press
+    year: 1606
+catalog:
+    bologna: Y.125
+contents:
+    type: ricercare, canzone, caprice, fantasia
+    parts: 4

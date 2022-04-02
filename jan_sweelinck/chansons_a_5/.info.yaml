@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1594__sweelinck_jan_pieterszoon__chansons_a_5_parties
+    typeset_directory: jan_sweelinck/chansons_a_5
+source:
+    city: Antwerp
+    date_exact: true
+    title: Chansons à cinc parties
+    full_title: Chansons a cinc parties
+    press: Pierre Phalese press
+    year: 1594

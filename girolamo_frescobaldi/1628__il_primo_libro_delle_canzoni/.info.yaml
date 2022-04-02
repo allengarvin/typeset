@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: girolamo_frescobaldi/1628__il_primo_libro_delle_canzoni
+source:
+    city: Rome
+    date_exact: true
+    title: Il primo libro delle canzoni ad 1, 2, 3, e 4 voci
+    press: Bartista Robletti press
+    year: 1628

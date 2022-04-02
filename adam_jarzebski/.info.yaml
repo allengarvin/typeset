@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /adam_jarzebski
+biography:
+    name: Adam Jarzebski
+    last_name: Jarzebski
+    nationality: Polish
+    born_year: late 16c
+    died_year: 1648
+    born_location:
+        region: Warsaw
+        country: Poland
+    died_location:
+        region: Warsaw
+        country: Poland

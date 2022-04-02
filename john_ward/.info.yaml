@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /john_ward
+biography:
+    name: John Ward
+    last_name: Ward
+    nationality: English
+    born_year: 1589
+    born_circa: true
+    died_year: 1638
+    died_date: 1638-08-31
+    born_location:
+        country: England
+    died_location:
+        country: England

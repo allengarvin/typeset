@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1550__da_reggio_hoste__il_primo_libro_de_madrigali_a_4
+    typeset_directory: hoste_da_reggio/il_primo_libro_a_4
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali à 4 voci
+    press: Antonio Gardano Press
+    year: 1547

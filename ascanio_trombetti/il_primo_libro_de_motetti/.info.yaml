@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1589__trombetti_ascanio__il_primo_libro_de_motetti__gardano_press
+    typeset_directory: ascanio_trombetti/ il_primo_libro_de_motetti
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de motetti
+    press: Angelo Gardano press
+    year: 1589
+catalog:
+    bologna: U.256

@@ -1,0 +1,18 @@
+---
+local:
+    facsimile_directory: complete/1594__palestrina_giovanni_pierluigi_da__madrigali_spirituali_a_5_voci
+    typeset_directory: palestrina/delli_madrigali_spirituali
+source:
+    city: Rome
+    date_exact: true
+    title: Delli madrigali spirituali a 5 voci, libro secondo
+    press: Coattino press
+    year: 1586
+    reprints: 1594
+catalog:
+    bologna: T.262
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

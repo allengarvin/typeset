@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1603__franck_melchior__pavanen_galliarden_und_intraden
+    typeset_directory: melchior_franck/newer_pavanen_galliarden_unnd_intraden
+source:
+    city: Coburg
+    date_exact: true
+    title: Newer Pavanen, Galliarden, unnd Intraden
+    press: Hauck press
+    year: 1603

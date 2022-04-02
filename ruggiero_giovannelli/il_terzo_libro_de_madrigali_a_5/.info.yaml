@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: 1599__ruggiero_giovannelli__il_terzo_libro_de_madrigali_a_5_voci__gardano_press
+    typeset_directory: giovannelli_ruggiero/il_terzo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il terzo libro de madrigali à 5 voci
+    press: Angelo Gardano press
+    year: 1599
+catalog:
+    bologna: S.239
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

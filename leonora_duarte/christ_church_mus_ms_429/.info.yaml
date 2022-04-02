@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: facsimiles/complete/1640s__duarte_leonora__sinfonie_a5__christ_church_mus_ms_429/
+    typeset_directory: leonora_duarte/christ_church_mus_ms_429
+source:
+    city: Antwerp
+    date_exact: false
+    title: Christ Church Mus. Ms. 429
+    full_title: Christ Church Mus. Ms. 429
+    year: c.1625-1650
