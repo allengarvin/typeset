@@ -6,33 +6,31 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 14.5)
+#(set-global-staff-size 15.0)
 
 \header {
     % Things that change per piece:
-    title = "Rimanti in pace, alla dolente e bella"
-    subtitle = "Prima parte"
-    instrument = "Rimanti in pace, alla dolente e bella: Prima parte (score)"
+    title = "Come vivrò nelle mie pene, Amore"
+    subtitle = ""
+    instrument = "Come vivrò nelle mie pene, Amore:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "rimanti_in_pace_alla_dolente_e_bella"
-    shortcomp = "marenzio"
+    shorttitle = "come_vivro_nelle_mie_pene_amore"
+    shortcomp = "pallavicino"
+    folio = \markup { Torquato Tasso, \italic{Rime per Lucrezia Bendidio} (1561) }
     needtranslation = #'t
-    folio = "Angelo Grillo (1557-1629)"
 
     % Unchanging:
     language = "italian"
-    lastupdated = "2022-04-02"
-    originallyset = "2022-04-02"
-    flats = 1
-    final = "d"
+    lastupdated = "2022-04-03"
+    originallyset = "2022-04-03"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/17-marenzio-a5-madrigal.ly"
+\include "../parts/01-pallavicino-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "17-marenzio--rimanti_in_pace_alla_dolente_e_bella-prima_parte"
+    \bookOutputName "01-pallavicino--come_vivro_nelle_mie_pene_amore-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -41,44 +39,44 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXVIIincipitVoice
+                    \incipit \cantoIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoXVII
+                    \cantoI
                 >>
-             \addlyrics { \cantoLyricsXVII }
+             \addlyrics { \cantoLyricsI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXVIIincipitVoice
+                    \incipit \altoIincipitVoice
                     \clef "treble"
                     \global
-                    \altoXVII
+                    \altoI
                 >>
-             \addlyrics { \altoLyricsXVII }
+             \addlyrics { \altoLyricsI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXVIIincipitVoice
+                    \incipit \quintoIincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintoXVII
+                    \quintoI
                 >>
-             \addlyrics { \quintoLyricsXVII }
+             \addlyrics { \quintoLyricsI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXVIIincipitVoice
+                    \incipit \tenoreIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreXVII
+                    \tenoreI
                 >>
-             \addlyrics { \tenoreLyricsXVII }
+             \addlyrics { \tenoreLyricsI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXVIIincipitVoice
+                    \incipit \bassoIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoXVII
+                    \bassoI
                 >>
-             \addlyrics { \bassoLyricsXVII }
+             \addlyrics { \bassoLyricsI }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -92,14 +90,16 @@
     \markup {
         \fill-line {
             \column {
-                \line { Rimanti in pace, alla dolente e bella }
-                \line { Cloride Tirsi sospirando disse; }
-                \line { Rimanti, io me ne vo; tal mi prescrisse }
-                \line { Legge empio fato e sorte aspra e rubella. }
-                \line { Ed ella, ora dall'una e l'altra stella }
-                \line { Stillando amaro umore, i lumi affisse }
-                \line { Nei lumi del suo Tirsi, e gli trafisse }
-                \line { Il cor di pietosissime quadrella. }
+                \line { Come vivrò nelle mie pene, Amore, }
+                \line { si lunge dal mio core, }
+                \line { se la dolce memoria non m'aita }
+                \line { di lei ch'è la mia vita? }
+                \line { Dolce memoria e spene, }
+                \line { immaginata dolce e caro oggetto, }
+                \line { voi sete il mio diletto, }
+                \line { la mia vita, il mio bene; }
+                \line { ma pur mezzo son' io tra morto e vivo, }
+                \line { perché del cor son privo. }
             }
         }
     }
