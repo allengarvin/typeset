@@ -92,7 +92,7 @@ tenorI = \relative c' {
     a2 g4. a8 bf8[ c16 bf a8 g] | 
         d'[ e f g] a[ d, a' bf] c4 g4. a8[ bf a16 g] | f4 g8[ a] bf2. a2 g4 ~ |
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        g8[ g fs g] a[ c, bf c] d4. d8[ c a] bf4 a1 | \invisibleTime\time 4/2
+        g8[ g fs g] a[ c, bf c] d4. d8 c[ a] bf4 a1 | \invisibleTime\time 4/2
         g\longa*1/2
     \bar "|."
 }
@@ -120,7 +120,7 @@ bassusI = \relative c {
         bf[ g c bf] a[ f bf a] g[ f] g4 f f' | f
 
     g a4. f8 bf[ g c a] d2 | r8 d,[ f d] g[ e] a4 d, e f g ~ | 
-        g fs g c, r8 d[ e c] \ficta f[ d] g4 \unficta| 
+        g fs g c, r8 d[ e c] f[ d] g4 | 
         r8 e[ f d] g[ e] a4 fs8[ d bf' g] c[ a] d4 | 
 
               % vv adding dot to g4  vv  again, no dot

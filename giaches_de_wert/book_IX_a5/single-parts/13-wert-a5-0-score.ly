@@ -90,10 +90,10 @@
         \fill-line {
             \column {
                 \line { Crudele, acerba, in esorabil morte, }
-                \line { cagion mi dài di mai non esser lieto }
+                \line { cagion mi dai di mai non esser lieto }
                 \line { ma di menar tutta mia vita in pianto }
                 \line { e i giorni oscuri et le dogliose notti; }
-                \line { i mei gravi sospir non vanno in rime, }
+                \line { i miei gravi sospir non vanno in rime, }
                 \line { e'l mio duro martir vince ogni stile. }
                 \line { \hspace #12 Petrarca, \italic{Canzoniere} CCCXXXII (332) }
             }

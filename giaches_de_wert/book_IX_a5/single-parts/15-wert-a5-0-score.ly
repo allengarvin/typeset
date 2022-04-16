@@ -91,14 +91,14 @@
         \fill-line {
             \column { 
                 \line { L’anima mia ferita }
-                \line { Versa per gli occhi fuore }
-                \line { Un fiume di dolore; }
-                \line { A miglior tempo ho pianto }
-                \line { Per sdegno, ò per timore: }
-                \line { Queste non son più lagrime d’amore, }
-                \line { Sangue del l’alma è il pianto, }
-                \line { Che vien dalla ferita, }
-                \line { Ond’esce col dolor l’alma e la vita. }
+                \line { versa per gli occhi fuore }
+                \line { un fiume di dolore; }
+                \line { a miglior tempo ho pianto }
+                \line { per sdegno, ò per timore: }
+                \line { queste non son più lagrime d’amore, }
+                \line { sangue del l’alma è il pianto, }
+                \line { che vien dalla ferita, }
+                \line { ond’esce col dolor l’alma e la vita. }
             }
         }
     }

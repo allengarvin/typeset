@@ -13,6 +13,8 @@
     title = "Sinfonia quarta"
     language = "instrumental"
     instrument = "Sinfonia 4 (score)"
+    flats = 1
+    final = "g"
 
     % Unchanging:
     originallyset = "2013-04-16"

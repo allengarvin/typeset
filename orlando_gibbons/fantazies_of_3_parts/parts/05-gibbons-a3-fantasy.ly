@@ -30,7 +30,7 @@ altusV = \relative c'' {
 
     c4 g8[ a] bf4 a4. g8 e4 f8[ g a\ficta b]\unficta | 
         c[ a] d2 cs4 d2 r4 a8[ b] | c4 b8[ c] d4. d8 cs4 a4.\ficta b8[ c d] | 
-        e[ c] d f4 
+        e[ c d] f4 
 
     f8 e4 f f,8[ g] a[ b c d] | 
         \invisibleTime\time 6/2 s1*0\raisedSixTwoTime

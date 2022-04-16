@@ -90,15 +90,15 @@
         \fill-line {
             \column { 
                 \line { Di morte già sentia il fero ultimo dardo, }
-                \line { Quando con dolce sguardo }
-                \line { E soave parlar vita mi diede  }
-                \line { Chi fuor ch'in morte al mio languir non crede, }
-                \line { Sian sempre dunque Amore, }
-                \line { Si gravi le mia pene }
-                \line { E si acerbo il dolore }
-                \line { Ch'à morte mille volte il dì mi mene, }
-                \line { Poi ch'ella non soccore al mio martire }
-                \line { Se non presso al morire. }
+                \line { quando con dolce sguardo }
+                \line { e soave parlar vita mi diede  }
+                \line { chi fuor ch'in morte al mio languir non crede, }
+                \line { sian sempre dunque Amore, }
+                \line { si gravi le mia pene }
+                \line { e si acerbo il dolore }
+                \line { ch'à morte mille volte il dì mi mene, }
+                \line { poi ch'ella non soccore al mio martire }
+                \line { se non presso al morire. }
             }
         }
     }   

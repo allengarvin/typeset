@@ -100,11 +100,11 @@
         \fill-line {
             \column {
                 \line { Mesola, il Po da lato, e ’l mar a fronte, }
-                \line { Ed intorno le mura e dentro i boschi, }
-                \line { E i seggi ombrosi e foschi }
-                \line { Fanno le tue bellezze altère e conte; }
+                \line { ed intorno le mura e dentro i boschi, }
+                \line { e i seggi ombrosi e foschi }
+                \line { fanno le tue bellezze altère e conte; }
                 \line { E sono opre d’Alfonso, e più non fece }
-                \line { Mai l’arte o la natura, e far non lece. }
+                \line { mai l’arte o la natura, e far non lece. }
             }
         }
     }

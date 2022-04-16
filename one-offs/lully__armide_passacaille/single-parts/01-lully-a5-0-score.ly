@@ -13,6 +13,8 @@
     title = "Passacaille"
     language = "instrumental"
     instrument = "Passacaille (score)"
+    final = "g"
+    flats = 1
 
     % Unchanging:
     originallyset = "2013-04-16"

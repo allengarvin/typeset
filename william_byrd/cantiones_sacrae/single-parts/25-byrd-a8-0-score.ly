@@ -18,6 +18,8 @@
     composer = "William Byrd (c.1540-1623)"
     shortcomp = "byrd"
     needtranslation = #'f
+    final = "f"
+    flats = 1
     folio = "Matthew 22:37,39"
 
     % Unchanging:

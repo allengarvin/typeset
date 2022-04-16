@@ -88,14 +88,14 @@
         \fill-line {
             \column {
                 \line { Or si rallegri il cielo, }
-                \line { E insuperbisca Manto, }
-                \line { Ch'avete voi di lei lo scettro e'l manto, }
-                \line { Voi che vincendo andate, }
-                \line { Il mal col bene e col saper l'etate. }
+                \line { e insuperbisca Manto, }
+                \line { ch'avete voi di lei lo scettro e'l manto, }
+                \line { voi che vincendo andate, }
+                \line { il mal col bene e col saper l'etate. }
                 \line { Cosi la mente Astrea vi regga, }
-                \line { E'l core Vi tenga aperto amore, }
-                \line { E la corona d'oro, }
-                \line { D'oliva ornata sia sempre e d'alloro.  }
+                \line { e'l core Vi tenga aperto amore, }
+                \line { e la corona d'oro, }
+                \line { d'oliva ornata sia sempre e d'alloro.  }
             }
         }
     }

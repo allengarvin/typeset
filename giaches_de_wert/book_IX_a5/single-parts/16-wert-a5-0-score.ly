@@ -91,14 +91,14 @@
             \column {
                 \vspace #2
                 \line { O come vaneggiate Donna }
-                \line { Pensando avermi tolto il core }
-                \line { Con tormi il vostro amore.  }
-                \line { Chi non ha cor è morto, }
+                \line { pensando avermi tolto il core }
+                \line { con tormi il vostro amore.  }
+                \line { chi non ha cor è morto, }
                 \line { Ed io mi son accorto }
-                \line { D’esser tanto più vivo }
-                \line { Quanto di voi son privo }
-                \line { Anzi ero morto; e quando vi lasciai  }
-                \line { Rinacqui sì ch’io non morrò più mai. }
+                \line { d’esser tanto più vivo }
+                \line { quanto di voi son privo }
+                \line { anzi ero morto; e quando vi lasciai  }
+                \line { rinacqui sì ch’io non morrò più mai. }
             }
         }
     }

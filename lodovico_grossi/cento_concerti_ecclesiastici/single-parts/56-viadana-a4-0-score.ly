@@ -18,6 +18,8 @@
     shortcomp = "viadana"
     needtranslation = #'f
     folio = "Antiphon to the Magnificat at 2nd Vespers of Corpus Christi"
+    final = "f"
+    flats = 1
 
     % Unchanging:
     language = "latin"

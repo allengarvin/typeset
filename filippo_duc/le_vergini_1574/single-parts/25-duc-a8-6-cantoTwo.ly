@@ -27,7 +27,7 @@
     tagline = #'f
 }
 
-\include "../parts/25-duc-a8-madrigall.ly"
+\include "../parts/25-duc-a8-madrigal.ly"
 
 \book {
     \bookOutputName "25-duc--sacre_muse_beate-"

@@ -90,13 +90,13 @@
     \markup {
         \fill-line {
             \column {
-                 \line { Allor ch'errand'in quei bei prati intorno  }
+                 \line { Allor ch'errando in quei bei prati intorno  }
                  \line { venni La viddi e da sue luci chiuse }
-                 \line { Gionse l'ardore ove non gionse il lume }
+                 \line { gionse l'ardore ove non gionse il lume }
                  \line { \vspace #1 }
                  \line { Aura ed onde i cercava e nel ritorno }
-                 \line { Spirt' ed umor di doglia il cor diffuse }
-                 \line { Ch'accrebbe spirto à l'Aura ed onde al fiume. }
+                 \line { spirto ed umor di doglia il cor diffuse }
+                 \line { ch'accrebbe spirto all'Aura ed onde al fiume. }
             }
         }
     }

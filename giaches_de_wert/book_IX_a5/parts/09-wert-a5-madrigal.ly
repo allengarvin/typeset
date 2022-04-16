@@ -4,7 +4,7 @@
 % 
 % Aura ed onde i cercava e nel ritorno
 % Spirt' ed umor di doglia il cor diffuse
-% Ch'accrebbe spirto à l'Aura ed onde al fiume.
+% Ch'accrebbe spirto àll'Aura ed onde al fiume.
 
 cantoIXincipit = \relative c' {
     \time 4/4
@@ -69,16 +69,16 @@ cantoLyricsIX = \lyricmode {
  
     Au -- ra~ed on -- de~i cer -- ca -- va e nel ri -- tor -- no
     Spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
-    Ch'ac -- creb -- be spir -- to~à l'Au -- ra, 
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, 
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra,
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \normalLyrics
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra, 
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, 
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra~ed
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
     \normalLyrics
         on -- de~al fiu -- me,
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra, 
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, 
         ed on -- de~al __ fiu -- me,
         ed on -- de~al fiu -- me.
 
@@ -151,13 +151,13 @@ altoLyricsIX = \lyricmode {
     \normalLyrics
     Spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se,
     spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
-    Ch'ac -- creb -- be spir -- to~à l'Au -- ra,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra~ed
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
     \normalLyrics
         on -- de~al fiu -- me,
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra, ed on -- de~al fiu -- me,
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra~ed on -- de~al fiu -- me,
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, ed on -- de~al fiu -- me,
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed on -- de~al fiu -- me,
         ed on -- de~al fiu -- me,
         ed on -- de~al fiu -- me.
 }
@@ -221,15 +221,15 @@ tenoreLyricsIX = \lyricmode {
     Au -- ra~ed on -- de~i cer -- ca -- va e nel ri -- tor -- no
     Spir -- t'ed u -- mor dì do -- glia,
     spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
-    Ch'ac -- creb -- be spir -- to~à l'Au -- ra,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra~ed
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
     \normalLyrics
         on -- de~al fiu -- me,
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra,
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra,
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra
     \normalLyrics
         ed on -- de~al fiu -- me,
         ed on -- de~al fiu -- me, __
@@ -301,8 +301,8 @@ bassoLyricsIX = \lyricmode {
         e nel ri -- tor -- no
     \normalLyrics
     Spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
-    Ch'ac -- creb -- be spir -- to~à l'Au -- ra~ed on -- de~al fiu -- me,
-    Ch'ac -- creb -- be spir -- to~à l'Au -- ra~ed on -- de~al fiu -- me,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed on -- de~al fiu -- me,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed on -- de~al fiu -- me,
         ed on -- de~al fiu -- me,
         ed on -- de~al fiu -- me.
 }
@@ -375,9 +375,9 @@ quintoLyricsIX = \lyricmode {
 
     Au -- ra~ed on -- de~i cer -- ca -- va e nel ri -- tor -- no
     Spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
-    Ch'ac -- creb -- be spir -- to~à l'Au -- ra,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~à l'Au -- ra~ed
+    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
     \normalLyrics
         on -- de~al fiu -- me,
         ed on -- de~al fiu -- me,

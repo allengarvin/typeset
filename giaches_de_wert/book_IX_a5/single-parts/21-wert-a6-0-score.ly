@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 17.1)
+#(set-global-staff-size 13.5)
 
 \header {
     % Things that change per piece:
@@ -90,18 +90,18 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ha Ninfe adorne, e belle, }
-                \line { La casta Margherita, ed essa è Dea, }
-                \line { Se virtù fa gli Dei, come solea; }
-                \line { Però boschi, palagi, e prati, e valli, }
-                \line { Secchi, ed ondosi calli, }
-                \line { Le fece il grande Alfonso,  }
-                \line { E cinse intorno Navi }
-                \line { E d'erranti ferer ampio soggiorno, }
-                \line { E giunse i porti, e i lustri, in cui le serra, }
-                \line { Perchè sia la prigion campo di guerra, }
-                \line { E i diletti sian glorie, }
-                \line { E tante prede sue tutte vittorie. }
+                \line { Ha Ninfe adorne e belle, }
+                \line { la casta Margherita, ed essa è Dea, }
+                \line { se virtù fa gli Dei, come solea; }
+                \line { però boschi, palagi, e prati, e valli, }
+                \line { secchi, ed ondosi calli, }
+                \line { le fece il grande Alfonso,  }
+                \line { e cinse intorno Navi }
+                \line { e d'erranti ferer ampio soggiorno, }
+                \line { e giunse i porti, e i lustri, in cui le serra, }
+                \line { perché sia la prigion campo di guerra, }
+                \line { e i diletti sian glorie, }
+                \line { e tante prede sue tutte vittorie. }
             }
         }
     }

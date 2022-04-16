@@ -83,13 +83,13 @@
         \fill-line {
             \column {
                 \line { Ecco che un altra volta o piagge apriche, }
-                \line { Udrete il piant'e i gravi miei lamenti; }
-                \line { Udrete, selve, i dolorosi accenti }
-                \line { E'l tristo suon de le querele antiche. }
+                \line { udrete il piant'e i gravi miei lamenti; }
+                \line { udrete, selve, i dolorosi accenti }
+                \line { e'l tristo suon de le querele antiche. }
                 \line { Udrai tu, mar, l'usate mie fatiche, }
-                \line { E i pesci al mio languir staranno intenti. }
-                \line { Staran pietose a'miei sospiri ardenti }
-                \line { Quest'aure che mi fur gran tempo amiche. }
+                \line { e i pesci al mio languir staranno intenti. }
+                \line { staran pietose a'miei sospiri ardenti }
+                \line { quest'aure che mi fur gran tempo amiche. }
             }
         }
     }

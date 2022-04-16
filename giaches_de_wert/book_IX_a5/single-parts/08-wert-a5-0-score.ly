@@ -91,14 +91,14 @@
         \fill-line {
             \column {
                  \line { Sovra un bel cristallino e puro rivo, }
-                 \line { Che lambendo sen gia l'erbett'e i fiori }
-                 \line { Temprand'al fresco seggio il caldo estivo }
-                 \line { Giacea la bella e vezzosetta Clori. }
+                 \line { che lambendo sen gia l'erbett'e i fiori }
+                 \line { temprand'al fresco seggio il caldo estivo }
+                 \line { giacea la bella e vezzosetta Clori. }
                  \line { \vspace #1 }
                  \line { Scherzava intorno al bel sembiante divo }
-                 \line { L'Aura e movea la chiom'in vaghi errori, }
-                 \line { E de begli occhi il lume ardente vivo }
-                 \line { Velava il sonno e non sopia gli ardori.  }
+                 \line { l'Aura e movea la chiom'in vaghi errori, }
+                 \line { e de begli occhi il lume ardente vivo }
+                 \line { velava il sonno e non sopia gli ardori.  }
             }
         }
     }

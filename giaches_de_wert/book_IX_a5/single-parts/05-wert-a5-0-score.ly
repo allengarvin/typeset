@@ -91,11 +91,11 @@
         \fill-line {
             \column {
                 \line { Ben riconosco in voi l'usate forme, }
-                \line { Non, lasso, in me, che da sì lieta vita }
-                \line { Son fatto albergo d'infinita doglia. }
+                \line { non, lasso, in me, che da sì lieta vita }
+                \line { son fatto albergo d'infinita doglia. }
                 \line { Quinci vedea 'l mio bene; et per queste orme }
-                \line { Torno a veder ond'al ciel nuda è gita, }
-                \line { Lasciando in terra la sua bella spoglia. }
+                \line { torno a veder ond'al ciel nuda è gita, }
+                \line { lasciando in terra la sua bella spoglia. }
             }
             \column {
                 \line { I recognise familiar forms in you, }

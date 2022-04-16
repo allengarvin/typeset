@@ -4,7 +4,7 @@
 %    E cinse intorno Navi 
 %    E d'erranti fere ampio soggiorno,
 %    E giunse i porti e i lustri in cui le serra,
-%    Perchè sia la prigion campo di guerra,
+%    Perché sia la prigion campo di guerra,
 %    E i diletti sian glorie,
 %    E tante prede sue tutte vittorie.
 
@@ -55,7 +55,7 @@ cantoOneLyricsXXII = \lyricmode {
     E cin -- se~in -- tor -- no Na -- vi 
     E d'er -- ran -- ti fe -- re~am -- pio sog -- gior -- no,
     E giun -- se~i por -- ti~e~i lu -- stri~in cui le ser -- ra,
-    Per -- chè sia la pri -- gion cam -- po di guer -- ra,
+    Per -- ché sia la pri -- gion cam -- po di guer -- ra,
     E~i di -- let -- ti __ sian glo -- rie,
     E tan -- te pre -- de sue tut -- te vit -- to -- rie,
 
@@ -123,7 +123,7 @@ cantoTwoLyricsXXII = \lyricmode {
     \ijLyrics
     E giun -- se~i por -- ti~e~i lu -- stri~in cui le ser -- ra,
     \normalLyrics
-    Per -- chè sia la pri -- gion cam -- po di guer -- ra,
+    Per -- ché sia la pri -- gion cam -- po di guer -- ra,
     E~i di -- let -- ti sian glo -- rie,
     E tan -- te pre -- de sue tut -- te vit -- to -- rie,
     E tan -- te pre -- de sue tut -- te vit -- to -- rie,
@@ -182,7 +182,7 @@ altoLyricsXXII = \lyricmode {
     E d'er -- ran -- ti fe -- re~am -- pio sog -- gior -- no,
     E giun -- se~i por -- ti~e~i lu -- stri~in cui le ser -- ra,
     E giun -- se~i por -- ti~e~i lu -- stri in cui le ser -- ra,
-    Per -- chè sia la pri -- gion cam -- po di guer -- ra,
+    Per -- ché sia la pri -- gion cam -- po di guer -- ra,
     E~i __ di -- let -- ti sian glo -- rie,
     E tan -- te pre -- de sue,
     E tan -- te pre -- de sue tut -- te vit -- to -- rie,
@@ -240,7 +240,7 @@ tenoreLyricsXXII = \lyricmode {
     E d'er -- ran -- ti fe -- re~am -- pio sog -- gior -- no,
     E giun -- se~i por -- ti~e~i lu -- stri~in cui le ser -- ra,
     E giun -- se~i por -- ti~e~i lu -- stri~in cui le ser -- ra,
-    Per -- chè sia la pri -- gion cam -- po di guer -- ra,
+    Per -- ché sia la pri -- gion cam -- po di guer -- ra,
         cam -- po di guer -- ra,
     \ijLyrics
         cam -- po di __ guer -- ra,
@@ -296,7 +296,7 @@ bassoLyricsXXII = \lyricmode {
     Le fe -- ce~il gran -- de~Al -- fon -- so 
     E d'er -- ran -- ti fe -- re~am -- pio sog -- gior -- no,
     E giun -- se~i por -- ti~e~i lu -- stri __ in cui le ser -- ra,
-    Per -- chè sia la pri -- gion cam -- po di guer -- ra, __
+    Per -- ché sia la pri -- gion cam -- po di guer -- ra, __
         cam -- po di guer -- ra,
     E~i di -- let -- ti sian glo -- rie,
     E tan -- te pre -- de sue tut -- te vit -- to -- rie,
@@ -346,7 +346,7 @@ quintoLyricsXXII = \lyricmode {
     E __ d'er -- ran -- ti fe -- re am -- pio sog -- gior -- no,
         sog -- gior -- no,
     E giun -- se~i por -- ti~e~i lu -- stri~in cui le ser -- ra,
-    Per -- chè sia la pri -- gion cam -- po di guer -- ra,
+    Per -- ché sia la pri -- gion cam -- po di guer -- ra,
     E~i di -- let -- ti sian glo -- rie,
     E tan -- te pre -- de sue tut -- te vit -- to -- rie,
         tut -- te vit -- to -- rie,

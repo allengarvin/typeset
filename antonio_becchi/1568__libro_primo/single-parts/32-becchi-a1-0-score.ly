@@ -14,6 +14,8 @@
     language = "instrumental"
     instrument = "Ancor che col partire (score)"
     folio = "Madrigale à 4 di Cipriano de Rore"
+    final = "e"
+    flats = 0
 
     % Unchanging:
     composer = \markup { \italic { entabulated by } Antonio di Becchi (1522-c.1566) }

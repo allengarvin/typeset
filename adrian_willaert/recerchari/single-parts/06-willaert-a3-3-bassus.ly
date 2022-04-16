@@ -1,58 +1,44 @@
-\version "2.16.0"
+\version "2.18.2"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
-\include "../include/global-score.ly" 
+\include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
-\include "../include/layout-parts.ly"
+\include "../include/vocal-layout-parts-barring.ly"
 
 \header {
     % Things that change per piece:
-    title = "Ricercar Six"
+    title = "Recercar VI"
+    subtitle = ""
+    instrument = "Recercar VI:  (bassus)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "recercar_vi"
+    shortcomp = "willaert"
 
     % Things that change per part:
     partname = "Bassus (part 3 of 3)"
-    instrument = "Ricercar Six (bassus)"
+    instrument = "Recercar VI:  (bassus)"
 
     % Unchanging:
-    originallyset = "2013/Jan/12"
-    lastupdated = "2013/Jan/12"
+    lastupdated = "2022-04-16"
+    originallyset = "2022-04-16"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/06-recerchari.ly"
+\include "../parts/06-willaert-a3-rivercar.ly.ly"
 
 \book {
-    \bookOutputName "06-recerchari"
-    \bookOutputSuffix "--3-bassus--tr8_clef"
+    \bookOutputName "06-willaert--recercar_vi-"
+    \bookOutputSuffix "--3-bassus--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble_8"
+            \clef "bass"
             \global 
-            \bassusVI 
+            \bassusVI
         >>
-        \header {
-            partname = "Bassus"
-        }
-     %   \include "../include/layout-parts.ly"
-    }
-}
-\book {
-    \bookOutputName "06-recerchari"
-    \bookOutputSuffix "--3-bassus--al_clef"
-    \include "../include/paper-1-part.ly"
-    \score {
-        \new Voice << 
-            \clef alto
-            \global 
-            \bassusVI 
-        >>
-        \header {
-            partname = "Bassus"
-        }
-     %   \include "../include/layout-parts.ly"
+     %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

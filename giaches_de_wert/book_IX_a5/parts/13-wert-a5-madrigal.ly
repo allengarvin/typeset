@@ -37,7 +37,7 @@ cantoXIII = \relative c' {
 
 cantoLyricsXIII = \lyricmode {
     Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
-    Ca -- gion mi dài di mai non es -- ser lie -- to
+    Ca -- gion mi dai di mai non es -- ser lie -- to
     Ma di me -- nar,
     ma di me -- nar tut -- ta mia vi -- ta~in pian -- to,
     ma di me -- nar tut -- ta mia vi -- ta~in pian -- to,
@@ -47,7 +47,7 @@ cantoLyricsXIII = \lyricmode {
         in pian -- to
     E~i gior -- ni~o -- scu -- ri et __ le do -- glio -- se __ not -- ti, __
     e~i gior -- ni~o -- scu -- ri et le do -- glio -- se __ not -- ti,
-    I mei gra -- vi so -- spir non van -- no~in ri -- me,
+    I miei gra -- vi so -- spir non van -- no~in ri -- me,
         non van -- no~in ri -- me, __
     E'l mio du -- ro __ mar -- tir, __
     e'l mio du -- ro mar -- tir,
@@ -100,8 +100,8 @@ altoXIII = \relative c' {
 altoLyricsXIII = \lyricmode {
     Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
     cru -- de -- le~a -- cer -- ba~in __ e -- so -- ra -- bil __ mor -- te,
-    Ca -- gion mi dài,
-    ca -- gion mi dài di mai non es -- ser lie -- to
+    Ca -- gion mi dai,
+    ca -- gion mi dai di mai non es -- ser lie -- to
     Ma di me -- nar tut -- ta mia vi -- ta~in pian -- to,
     \ijLyrics
     ma di me -- nar tut -- ta __ mia vi -- ta~in pian -- to,
@@ -114,7 +114,7 @@ altoLyricsXIII = \lyricmode {
     e~i gior -- ni~o -- scu -- ri,
     e~i gior -- ni~o -- scu -- ri~et le do -- glio -- se __ not -- ti,
         et le do -- glio -- se~et le do -- glio -- se not -- ti:
-    I mei gra -- vi so -- spir non van -- no~in ri -- me,
+    I miei gra -- vi so -- spir non van -- no~in ri -- me,
         non van -- no~in ri -- me,
         non van -- no~in ri -- me,
     E'l mio du -- ro mar -- tir,
@@ -168,9 +168,9 @@ tenoreXIII = \relative c' {
 
 tenoreLyricsXIII = \lyricmode {
     Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
-    Ca -- gion mi dài,
-    ca -- gion mi dài di mai non es -- ser lie -- to,
-    ca -- gion mi dài di mai non es -- ser lie -- to
+    Ca -- gion mi dai,
+    ca -- gion mi dai di mai non es -- ser lie -- to,
+    ca -- gion mi dai di mai non es -- ser lie -- to
     Ma di me -- nar tut -- ta mia vi -- ta~in __ pian -- to,
     ma di me -- nar tut -- ta mia __ vi -- ta~in pian -- to,
         tut -- ta mia vi -- ta~in pian -- to,
@@ -179,7 +179,7 @@ tenoreLyricsXIII = \lyricmode {
     E~i gior -- ni~o -- scu -- ri et le do -- glio -- se not -- ti,
     e~i gior -- ni~o -- scu -- ri et le do -- glio -- se not -- ti, __
         et le do -- glio -- se not -- ti;
-    I mei gra -- vi __ so -- spir __ non van -- no~in ri -- me,
+    I miei gra -- vi __ so -- spir __ non van -- no~in ri -- me,
     E'l mio du -- ro mar -- tir __ vin -- ce~o -- gni sti -- le,
         vin -- ce~o -- gni sti -- le,
         vin -- ce~o -- gni sti -- le,
@@ -221,7 +221,7 @@ bassoXIII = \relative c {
 
 bassoLyricsXIII = \lyricmode {
     Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te, __
-    Ca -- gion mi dài di mai non es -- ser lie -- to,
+    Ca -- gion mi dai di mai non es -- ser lie -- to,
         di mai non es -- ser lie -- to
     Ma di me -- nar tut -- ta mia vi -- ta~in pian -- to,
         tut -- ta mia vi -- ta~in pian -- to,
@@ -229,7 +229,7 @@ bassoLyricsXIII = \lyricmode {
     E~i gior -- ni~o -- scu -- ri et le do -- glio -- se not -- ti,
     e~i gior -- ni~o -- scu -- ri~et le do -- glio -- se not -- ti,
         et le do -- glio -- se not -- ti;
-    I __ mei gra -- vi __ so -- spir non van -- no~in ri -- me,
+    I __ miei gra -- vi __ so -- spir non van -- no~in ri -- me,
     E'l mio du -- ro __ mar -- tir vin -- ce~o -- gni sti -- le, __
     E'l mio du -- ro mar -- tir vin -- ce~o -- gni sti -- le,
         vin -- ce~o -- gni sti -- le,
@@ -274,7 +274,7 @@ quintoXIII = \relative c' {
 
 quintoLyricsXIII = \lyricmode {
     Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
-    Ca -- gion mi dài di mai non es -- ser lie -- to
+    Ca -- gion mi dai di mai non es -- ser lie -- to
     Ma __ di me -- nar tut -- ta mia vi -- ta~in pian -- to,
     ma di me -- nar tut -- ta mia vi -- ta~in pian -- to,
         mia vi -- ta~in pian -- to, __
@@ -282,7 +282,7 @@ quintoLyricsXIII = \lyricmode {
     E~i gior -- ni~o -- scu -- ri~et __ le do -- glio -- se not -- ti,
     e~i gior -- ni~o -- scu -- ri et le do -- glio -- se not -- ti,
     e~i gior -- ni~o -- scu -- ri et le do -- glio -- se not -- ti;
-    I mei gra -- vi __ so -- spir __ non van -- no~in ri -- me,
+    I miei gra -- vi __ so -- spir __ non van -- no~in ri -- me,
     E'l mio du -- ro mar -- tir vin -- ce~o -- gni sti -- le,
     e'l mio du -- ro mar -- tir vin -- ce~o -- gni sti -- le,
     e'l mio du -- ro mar -- tir __ vin -- ce~o -- gni sti -- le,

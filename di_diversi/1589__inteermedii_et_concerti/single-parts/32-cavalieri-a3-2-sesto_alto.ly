@@ -13,6 +13,7 @@
     subtitle = "Ballo e risposta intercalati"
     instrument = "O che nuovo miracolo (alto [ballo] e sesto [risposta])"
     headerspace = \markup { \vspace #2 }
+    language = "italian"
     shorttitle = "o_che_nuovo_miracolo"
     shortcomp = "cavalieri"
     composer = "Emilio de' Cavalieri (c.1550-1602)"

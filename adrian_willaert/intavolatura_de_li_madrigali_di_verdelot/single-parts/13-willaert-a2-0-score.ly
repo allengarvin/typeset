@@ -14,6 +14,8 @@
     instrument = "Madonna il tuo bel viso (score)"
     needtranslation = #'t
     language = "italian"
+    final = "g"
+    flats = 0
 
     % Unchanging:
     originallyset = "2018-09-26"

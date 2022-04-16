@@ -28,7 +28,7 @@
     tagline = #'f
 }
 
-\include "../parts/17-duc-a6-madrigall.ly"
+\include "../parts/17-duc-a6-madrigal.ly"
 
 \book {
     \bookOutputName "17-duc--vergine_santa_che_con_chiaro_esempio-"

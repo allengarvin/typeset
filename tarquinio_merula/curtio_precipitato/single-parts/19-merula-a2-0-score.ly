@@ -16,6 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "or_che_e_tempo_di_dormire"
     shortcomp = "merula"
+    final = "a"
+    flats = 0
     needtranslation = #'t
 
     % Unchanging:

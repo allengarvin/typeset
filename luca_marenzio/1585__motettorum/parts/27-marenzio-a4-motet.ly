@@ -268,7 +268,7 @@ bassusXXVII = \relative c {
         c2 a bf
 
     g2 | a f g ef | f1 r2 c | d bf c1 | r2 f bf1 | a bf2 bf, | f'1 bf, ~ |
-        bf f'1 ~ f \longa*1/2
+        bf f'1 ~ f\longa*1/2
     
     \bar "|."
 }

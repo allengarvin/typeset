@@ -16,6 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "saltarello"
     shortcomp = "cavaccio"
+    final = "g"
+    flats = 1
 
     % Unchanging:
     language = "instrumental"

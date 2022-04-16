@@ -12,6 +12,7 @@
     title = "O che nuovo miracolo"
     subtitle = "Ballo e risposta intercalati"
     headerspace = \markup { \vspace #2 }
+    language = "italian"
     shorttitle = "o_che_nuovo_miracolo"
     shortcomp = "cavalieri"
     composer = "Emilio de' Cavalieri (c.1550-1602)"

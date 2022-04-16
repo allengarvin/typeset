@@ -83,11 +83,11 @@
         \fill-line {
             \column {
                 \line { E se di vero amor qualche scintilla }
-                \line { Regna fra questi sassi, }
-                \line { Avran mercede del cor che desiando ard'e sfavilla. }
+                \line { regna fra questi sassi, }
+                \line { avran mercede del cor che desiando ard'e sfavilla. }
                 \line { Ma, lasso a me, che valse già nol crede }
-                \line { Quella ch'io sol vorrei ver me tranquilla, }
-                \line { Ne le lagrime mie m'acquistan fede. }
+                \line { quella ch'io sol vorrei ver me tranquilla, }
+                \line { ne le lagrime mie m'acquistan fede. }
             }
         }
     }

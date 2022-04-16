@@ -100,12 +100,12 @@
                 \line { Un bacio solo à tante pene hai cruda? }
                 \line { Un bacio à tanta fede? }
                 \line { La dovuta mercede }
-                \line { Non si paga biciando; }
+                \line { non si paga biciando; }
                 \line { Il bacio è segno di futuro diletto }
-                \line { E par che dic' anche egli: i ti prometto }
-                \line { Questo ti fia per pegno }
-                \line { Che sarai tosto lieto }
-                \line { Or godi e taci; }
+                \line { e par che dic' anche egli: i ti prometto }
+                \line { questo ti fia per pegno }
+                \line { che sarai tosto lieto }
+                \line { or godi e taci; }
                 \line { Chè son d'amor mute promesse i baci. }
             }
         }

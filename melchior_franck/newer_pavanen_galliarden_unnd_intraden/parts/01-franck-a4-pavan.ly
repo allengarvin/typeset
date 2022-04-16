@@ -146,7 +146,7 @@ bassusI = \relative c {
         f d c2 d a | bf g a1 |
         \invisibleTime\time 2/2
     }
-    \alternative { { d1 } {d\longa*1/4 } }
+    \alternative { { d1 } { d\longa*1/4 } }
     \bar "|."
 }
 

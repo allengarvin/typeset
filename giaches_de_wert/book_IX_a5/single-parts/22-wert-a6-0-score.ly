@@ -87,27 +87,15 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ha Ninfe adorne, e belle, }
-                \line { La casta Margherita, ed essa è Dea, }
-                \line { Se virtù fa gli Dei, come solea; }
-                \line { Però boschi, palagi, e prati, e valli, }
-                \line { Secchi, ed ondosi calli, }
-                \line { Le fece il grande Alfonso,  }
-                \line { E cinse intorno Navi }
-                \line { E d'erranti ferer ampio soggiorno, }
-                \line { E giunse i porti, e i lustri, in cui le serra, }
-                \line { Perchè sia la prigion campo di guerra, }
-                \line { E i diletti sian glorie, }
-                \line { E tante prede sue tutte vittorie. }
-%    Però boschi, palagi, e prati e valli,
-%    Secchi et ondosi calli,
-%    Le fece il grande Alfonso,
-%    E cinse intorno Navi 
-%    E d'erranti fere ampio soggiorno,
-%    E giunse i porti e i lustri in cui le serra,
-%    Perchè sia la prigion campo di guerra,
-%    E i diletti sian glorie,
-%    E tante prede sue tutte vittorie.
+                \line { Però boschi, palagi, e prati e valli, }
+                \line { secchi et ondosi calli, }
+                \line { le fece il grande Alfonso, }
+                \line { e cinse intorno Navi  }
+                \line { e d'erranti fere ampio soggiorno, }
+                \line { e giunse i porti e i lustri in cui le serra, }
+                \line { perché sia la prigion campo di guerra, }
+                \line { e i diletti sian glorie, }
+                \line { e tante prede sue tutte vittorie. }
             }
         }
     }

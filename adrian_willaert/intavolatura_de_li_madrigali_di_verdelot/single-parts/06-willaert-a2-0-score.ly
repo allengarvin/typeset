@@ -14,6 +14,8 @@
     instrument = "Fuggi, fuggi, cor mio (score)"
     needtranslation = #'t
     language = "italian"
+    final = "f"
+    flats = 1
 
     % Unchanging:
     originallyset = "2018-09-26"
