@@ -17,7 +17,7 @@
     shorttitle = "e_dicea_luna_sospirando_allora"
     folio = \markup { Torquato Tasso, \italic{Rime} 273 }
     shortcomp = "monteverdi"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

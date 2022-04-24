@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "non_giacinti_o_narcisi"
     shortcomp = "monteverdi"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Girolamo Casoni (c.1528-1592)"
 
     % Unchanging:
