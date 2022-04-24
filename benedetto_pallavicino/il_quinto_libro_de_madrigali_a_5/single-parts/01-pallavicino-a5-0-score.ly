@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -89,14 +89,14 @@
         \fill-line {
             \column {
                 \line { Levò con la sua mano }
-                \line { Il vel la donna mia, }
-                \line { Ch'entr'al bel seno duoi pomi copria }
-                \line { Volsi stender la mano }
-                \line { Ma non osai ch'intorno v'era un laccio }
-                \line { Gridò Amor, Ecco insano }
-                \line { Che non tocasti e fù il pensier pur vano }
-                \line { Poiche sol per mirare }
-                \line { Ti strins' il laccio e ti convien' amare. }
+                \line { il vel la donna mia, }
+                \line { ch'entr'al bel seno duoi pomi copria }
+                \line { volsi stender la mano }
+                \line { ma non osai ch'intorno v'era un laccio }
+                \line { gridò Amor. Ecco insano }
+                \line { che non tocasti e fù il pensier pur vano }
+                \line { poiche sol per mirare }
+                \line { ti strinse il laccio e ti conviene amare. }
             }
         }
     }
