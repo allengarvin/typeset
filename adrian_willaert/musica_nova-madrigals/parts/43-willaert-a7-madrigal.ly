@@ -2,14 +2,14 @@
 %Quando nascesti, Amore?
 %  Quando la terra si riveste di verd' et bel colore.
 %Allor di che nascesti?
-%  D'un ardore che otio et lascivia in se richiud' et serra.
+%  D'un ardore che otio e lascivia in se richiud' et serra.
 %Con ti constringe a farne tanta guerra?
-%  Calda speranza et gelido timore.
+%  Calda speranza e gelido timore.
 %In cui fai la tua stanza?
-%  In gentil core che sotto el mio valor' tosto s'atterra.
+%  In gentil core che sotto il mio valor' tosto s'atterra.
 %Chi fai la tua nutrice?
 %  Giovinezza.
-%E le serve furno a lei dintorno?
+%E le serve furno a lei d'intorno?
 %  Vanità, gelosia, pomp' e bellezza.
 %Di che ti pasci?
 %  D'un parlare adorno.
@@ -19,11 +19,11 @@
 % Quando nascesti, Amore? Quando la terra 
 % Si riveste di verd’ et bel colore. 
 % Al’ hor’ di che nascesti? D’ un ardore 
-% Ch’ otio et lascivia in se richiud’ et serra. 
+% Ch’ otio e lascivia in se richiud’ et serra. 
 % Che ti constringe a farne tanta guerra? 
-% Calda sperança et gelido timore. 
+% Calda sperança e gelido timore. 
 % In cui fai la tua stança? In gentil core 
-% Che sotto el mio valor tosto s’ atterra. 
+% Che sotto il mio valor tosto s’ atterra. 
 % Chi fu la tua nutrice? Giovineça. 
 % Et le serve che furno a lei dintorno? 
 % Vanità, gelosia, pomp’ et belleça. 
@@ -95,19 +95,19 @@ cantusXLIII = \relative c'' {
 cantusLyricsXLIII = \lyricmode {
   %  Quan -- do na -- sce -- sti, Amore?
     Quan -- do la ter -- ra si ri -- ve -- ste 
-        di ver -- de~et bel co -- lo -- re.
+        di ver -- de~e bel co -- lo -- re.
     % Allor di che nascesti?
-    d'un ar -- do -- re, Che~o -- tio~et la -- sci -- via~in 
-        se ri -- chiu -- de~et ser -- ra. __
+    d'un ar -- do -- re, Ch'o -- zio~e la -- sci -- via~in 
+        se ri -- chiu -- de~e ser -- ra. __
     % Con ti constringe a farne tanta guerra?
     Cal -- da spe -- ran -- za,
-    Cal -- da spe -- ran -- za~et ge -- li -- do ti -- mo -- re. __
+    Cal -- da spe -- ran -- za~e ge -- li -- do ti -- mo -- re. __
     % In cui fai la tua stanza?
     In gen -- til co -- re,
     In gen -- til co -- re, 
-    Che sot -- to~el mio va -- lor 
-    Che sot -- to~el mio va -- lor to -- sto s'at -- ter -- ra.
-    Che sot -- to~el mio va -- lor to -- sto s'at -- ter -- ra.
+    Che sot -- to~il mio va -- lor 
+    Che sot -- to~il mio va -- lor to -- sto s'at -- ter -- ra.
+    Che sot -- to~il mio va -- lor to -- sto s'at -- ter -- ra.
     % Chi fu la tua nutrice?
     Gio -- vi -- nez -- za.
     % E le serve furno a lei dintorno?
@@ -176,20 +176,20 @@ altusXLIII = \relative c' {
 altusLyricsXLIII = \lyricmode {
   %  Quan -- do na -- sce -- sti, Amore?
     Quan -- do la ter -- ra si __ ri -- ve -- ste 
-        di ver -- de~et bel co -- lo -- re.
+        di ver -- de~e bel co -- lo -- re.
     % Allor di che nascesti?
-    d'un __ ar -- do -- re, Che~o -- tio~et la -- sci -- via~in 
-        se ri -- chiu -- de~et ser -- ra.
+    d'un __ ar -- do -- re, Ch'o -- zio~e la -- sci -- via~in 
+        se ri -- chiu -- de~e ser -- ra.
     % Con ti constringe a farne tanta guerra?
     Cal -- da spe -- ran -- za,
-    Cal -- da spe -- ran -- za~et ge -- li -- do ti -- mo -- re. __
+    Cal -- da spe -- ran -- za~e ge -- li -- do ti -- mo -- re. __
     % In cui fai la tua stanza?
     In gen -- til co -- re,
     In gen -- til co -- re, 
-    Che sot -- to~el mio va -- lor,
-    Che sot -- to~el mio va -- lor to -- sto s'at -- ter -- ra.
+    Che sot -- to~il mio va -- lor,
+    Che sot -- to~il mio va -- lor to -- sto s'at -- ter -- ra.
         to -- sto s'at -- ter -- ra.
-    Che sot -- to~el mio va -- lor to -- sto s'at -- ter -- ra.
+    Che sot -- to~il mio va -- lor to -- sto s'at -- ter -- ra.
     % Chi fu la tua nutrice?
     Gio -- vi -- nez -- za.
     % E le serve furno a lei dintorno?
@@ -257,22 +257,22 @@ tenorXLIII = \relative c' {
 tenorLyricsXLIII = \lyricmode {
     Quan -- do na -- sce -- sti~A -- mor?
 %    Quan -- do la ter -- ra si __ ri -- ve -- ste 
-%        di ver -- de~et bel co -- lo -- re.
+%        di ver -- de~e bel co -- lo -- re.
      Al -- hor di che na -- sce -- sti?
-%    d'un __ ar -- do -- re, Che~o -- tio~et la -- sci -- via~in 
-%        se ri -- chiu -- de~et ser -- ra.
+%    d'un __ ar -- do -- re, Ch'o -- zio~e la -- sci -- via~in 
+%        se ri -- chiu -- de~e ser -- ra.
     Chi ti co -- strin -- se,
-    Chi ti co -- strin -- se~à far -- ne tan -- ta guer -- ra? 
+    Chi ti co -- strin -- se~a far -- ne tan -- ta guer -- ra? 
 %    % Con ti constringe a farne tanta guerra?
     Cal -- da spe -- ran -- za,
-    Cal -- da spe -- ran -- za~et ge -- li -- do ti -- mo -- re. 
+    Cal -- da spe -- ran -- za~e ge -- li -- do ti -- mo -- re. 
     In cui fai la tua stan -- za?
 %    In gen -- til co -- re,
 %    In gen -- til co -- re, 
-%    Che sot -- to~el mio va -- lor,
-%    Che sot -- to~el mio va -- lor to -- sto s'at -- ter -- ra.
+%    Che sot -- to~il mio va -- lor,
+%    Che sot -- to~il mio va -- lor to -- sto s'at -- ter -- ra.
 %        to -- sto s'at -- ter -- ra.
-%    Che sot -- to~el mio va -- lor to -- sto s'at -- ter -- ra.
+%    Che sot -- to~il mio va -- lor to -- sto s'at -- ter -- ra.
     Chi fu __ la tua __ nu -- tri -- ce?
     Gio -- vi -- nez -- za.
     Et le ser -- ve che fur -- no~à lei __ d'in -- tor -- no?
@@ -341,9 +341,9 @@ bassusXLIII = \relative c, {
 bassusLyricsXLIII = \lyricmode {
     Quan -- do na -- sce -- sti~A -- mor?
     Al -- hor __ di che na -- sce -- sti?
-    d'un ar -- do -- re, Che~o -- tio~et la -- sci -- via~in 
-        se __ ri -- chiu -- de~et ser -- ra.
-    Chi ti co -- strin -- se~à far -- ne tan -- ta guer -- ra? 
+    d'un ar -- do -- re, Ch'o -- zio~e la -- sci -- via~in 
+        se __ ri -- chiu -- de~e ser -- ra.
+    Chi ti co -- strin -- se~a far -- ne tan -- ta guer -- ra? 
     In cui fai la __ tua stan -- za?
     Chi fu la tua nu -- tri -- ce?
     Et __ le ser -- ve che fur -- no~à lei d'in -- tor -- no?
@@ -351,8 +351,8 @@ bassusLyricsXLIII = \lyricmode {
         pom -- pa~e bel -- lez -- za,
         pom -- pa~e bel -- lez -- za,
     Di che ti pa -- sci? 
-    Of -- fen -- de -- ti la mor -- te~ò la __ vec -- chiez -- za?
-        ò la vec -- chiez -- za?
+    Of -- fen -- de -- ti la mor -- te~o la __ vec -- chiez -- za?
+        o la vec -- chiez -- za?
     Non, ch'io ri -- na -- sco mil -- le vol -- te~il gior -- no,
         ri -- na -- sco mil -- le vol -- te~il gior -- no,
     Non, ch'io ri -- na -- sco mil -- le vol -- te~il gior -- no,
@@ -407,16 +407,16 @@ quintusXLIII = \relative c' {
 quintusLyricsXLIII = \lyricmode {
     Quan -- do na -- sce -- sti~A -- mor?
     Al -- hor di che na -- sce -- sti?
-    Chi ti co -- strin -- se~à far -- ne tan -- ta guer -- ra? 
+    Chi ti co -- strin -- se~a far -- ne tan -- ta guer -- ra? 
     In __ cui fai la tua __ stan -- za?
     In gen -- til co -- re,
     In gen -- til co -- re, 
-    Che sot -- to~el mio va -- lor __ to -- sto s'at -- ter -- ra.
+    Che sot -- to~il mio va -- lor __ to -- sto s'at -- ter -- ra.
         to -- sto s'at -- ter -- ra.
     Chi fu la tua __ nu -- tri -- ce?
     Et le ser -- ve __ che fur -- no~à lei d'in -- tor -- no?
     Di che ti pa -- sci? __
-    Of -- fen -- de -- ti la mor -- te~ò la __ vec -- chiez -- za?
+    Of -- fen -- de -- ti la mor -- te~o la __ vec -- chiez -- za?
     Non, ch'io ri -- na -- sco mil -- le vol -- te~il gior -- no,
     Non, ch'io ri -- na -- sco mil -- le vol -- te~il gior -- no,
         ri -- na -- sco mil -- le vol -- te~il gior -- no,
@@ -475,18 +475,18 @@ sestaXLIII = \relative c'' {
 
 sestaLyricsXLIII = \lyricmode {
     Quan -- do la ter -- ra si ri -- ve -- ste 
-        di ver -- de~et bel co -- lo -- re.
-    d'un __ ar -- do -- re, Che~o -- tio~et la -- sci -- via~in 
-        se ri -- chiu -- de~et ser -- ra,
-        ri -- chiu -- de~et ser -- ra.
+        di ver -- de~e bel co -- lo -- re.
+    d'un __ ar -- do -- re, Ch'o -- zio~e la -- sci -- via~in 
+        se ri -- chiu -- de~e ser -- ra,
+        ri -- chiu -- de~e ser -- ra.
     Cal -- da spe -- ran -- za,
-    Cal -- da spe -- ran -- za~et ge -- li -- do ti -- mo -- re. 
+    Cal -- da spe -- ran -- za~e ge -- li -- do ti -- mo -- re. 
     In gen -- til co -- re,
     In __ gen -- til co -- re, 
-    Che sot -- to~el mio va -- lor, __
-    Che sot -- to~el mio va -- lor __ to -- sto s'at -- ter -- ra.
+    Che sot -- to~il mio va -- lor, __
+    Che sot -- to~il mio va -- lor __ to -- sto s'at -- ter -- ra.
         to -- sto s'at -- ter -- ra.
-    Che sot -- to~el mio va -- lor to -- sto s'at -- ter -- ra.
+    Che sot -- to~il mio va -- lor to -- sto s'at -- ter -- ra.
     Gio -- vi -- nez -- za.
     Va -- ni -- tà, ge -- lo -- si -- a,  pom -- pa~e  bel -- lez -- za,
        \ijLyrics pom -- pa~e  bel -- lez -- za, \normalLyrics
@@ -548,20 +548,20 @@ settimaXLIII = \relative c {
 settimaLyricsXLIII = \lyricmode {
     Quan -- do na -- sce -- sti~A -- mor?
     Quan -- do la ter -- ra si ri -- ve -- ste 
-        di ver -- de~et bel co -- lo -- re.
+        di ver -- de~e bel co -- lo -- re.
      Al -- hor __ di che na -- sce -- sti?
     Chi ti co -- strin -- se,
-    Chi ti co -- strin -- se~à far -- ne tan -- ta guer -- ra? 
+    Chi ti co -- strin -- se~a far -- ne tan -- ta guer -- ra? 
     In cui __ fai la __ tua stan -- za?
-    Che sot -- to~el mio va -- lor to -- sto s'at -- ter -- ra.
+    Che sot -- to~il mio va -- lor to -- sto s'at -- ter -- ra.
         to -- sto s'at -- ter -- ra.
-    Che sot -- to~el mio va -- lor to -- sto s'at -- ter -- ra.
+    Che sot -- to~il mio va -- lor to -- sto s'at -- ter -- ra.
     Chi fu la tua nu -- tri -- ce? __
     Et __ le ser -- ve che fur -- no~à lei __ d'in -- tor -- no?
     Di che ti pa -- sci? 
     D'un __ par -- lar a -- dor -- no. __
-    Of -- fen -- de -- ti la mor -- te~ò la vec -- chiez -- za?
-        ò la vec -- chiez -- za?
+    Of -- fen -- de -- ti la mor -- te~o la vec -- chiez -- za?
+        o la vec -- chiez -- za?
     Non, ch'io ri -- na -- sco mil -- le vol -- te~il gior -- no,
         mil -- le vol -- te~il gior -- no,
         il gior -- no,

@@ -106,21 +106,21 @@
         \fill-line {
             \column {
                 \line { Quando nascesti Amor? } 
-                \line { \hspace #2 Quando la terra si riveste di verd' et bel colore. } 
+                \line { \hspace #2 Quando la terra si riveste di verde e bel colore. } 
                 \line { Allor di che nascesti? } 
-                \line { \hspace #2 D'un ardore che otio et lascivia in se richiud' et serra. } 
-                \line { Con ti constringe a farne tanta guerra? } 
+                \line { \hspace #2 D'un ardore ch'ozio e lascivia in se richiude e serra. } 
+                \line { Con ti costringe a farne tanta guerra? } 
                 \line { \hspace #2 Calda speranza et gelido timore. } 
                 \line { In cui fai la tua stanza? } 
                 \line { \hspace #2 In gentil core che sotto el mio valor' tosto s'atterra. } 
                 \line { Chi fai la tua nutrice? } 
                 \line { \hspace #2 Giovinezza. } 
-                \line { E le serve furno a lei dintorno? } 
-                \line { \hspace #2 Vanità, gelosia, pomp' e bellezza. } 
+                \line { E le serve furno a lei d'intorno? } 
+                \line { \hspace #2 Vanità, gelosia, pompa e bellezza. } 
                 \line { Di che ti pasci? } 
                 \line { \hspace #2 D'un parlare adorno. } 
-                \line { Offendeti la mort' o la vecchiaia? } 
-                \line { \hspace #2 No, che io rinasco mille volt' il giorno. } 
+                \line { Offendeti la mort' o la vecchiezza? } 
+                \line { \hspace #2 No, ch'io rinasco mille volte il giorno. } 
             }
         }
     }
