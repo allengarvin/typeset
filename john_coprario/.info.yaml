@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /john_coprario
+biography:
+    name: John Coprario
+    name_variants:
+        - John Cooper
+        - John Cowper
+        - John Coperario
+    last_name: Coprario
+    nationality: English
+    born_year: 1570
+    born_circa: true
+    died_year: 1626
+    died_date: 1596-05-06
+    born_location:
+        country: England
+    died_location:
+        region: London?
+        country: England

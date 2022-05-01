@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: 1596__banchieri_adriano__canzoni_alla_francese/bologna-V.219
     typeset_directory: adriano_banchieri/canzoni_alla_francese
 source:
     city: Venice

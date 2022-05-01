@@ -1,12 +1,12 @@
 ---
 local:
-    facsimile_directory: complete/1586__wert_giaches_de__l_ottava_libro_de_madrigali_a_5_voci
+    facsimile_directory: complete/1586__wert_giaches_de__l_ottavo_libro_de_madrigali_a_5_voci
     typeset_directory: giaches_de_wert/book_VIII_a5
 source:
     city: Venice
     date_exact: true
-    title: L"'"Ottavo Libro de Madrigali à 5 voci'
-    full_title: L"'"ottavo libro de madrigali a cinque voci, novamente composto e dato in luce
+    title: L Ottavo Libro de Madrigali à 5 voci
+    full_title: L ottavo libro de madrigali a cinque voci, novamente composto e dato in luce
     press: Angelo Gardano press
     year: 1586
     reprints: 1596

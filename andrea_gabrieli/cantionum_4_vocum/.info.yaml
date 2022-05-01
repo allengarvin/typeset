@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1589__gabrieli_andrea__ecclesiasticarum_cantionum_4_vocum
     typeset_directory: andrea_gabrieli/cantionum_4_vocum
 source:
     city: Venice

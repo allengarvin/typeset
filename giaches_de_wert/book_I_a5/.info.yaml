@@ -10,6 +10,10 @@ source:
     print: true
     title: 'Il primo libro de madrigali à 5'
     year: 1558
+catalog:
+    rism: W855-1558
+    bernstein: 162
+    BSB: 4 mus pr 192/1
 contents:
     type: madrigal
     parts: 5

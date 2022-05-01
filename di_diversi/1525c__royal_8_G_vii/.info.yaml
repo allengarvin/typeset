@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: british_library/royal_8_G_vii
+source:
+    date_circa: true
+    title: British Library Royal 8 G. vii
+    year: 1487

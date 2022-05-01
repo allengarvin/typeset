@@ -1,0 +1,18 @@
+---
+local:
+    facsimile_directory: complete/1627__biumi_giacomo_filippo__partito_delle_canzoni_alla_francese_a_4_e_a_8
+    typeset_directory: giacomo_filippi_biumi/partito_delle_canzoni_alla_francese
+source:
+    city: Milan
+    date_exact: true
+    title: Partito delle canzoni alla francese
+    full_title: 'Partito delle canzoni alla francese à 4 & à 8 con alcune arie de correnti, libro primo, opera seconda'
+    press: Gratiano Ferioli press
+    year: 1627
+catalog:
+contents:
+    type: canzona
+    parts: 4|8
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian
+    pieces: 22

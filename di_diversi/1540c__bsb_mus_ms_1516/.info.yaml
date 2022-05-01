@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: BSB/mus_ms_1516
+source:
+    date_circa: true
+    title: BSB Mus. MS 1516 partbooks
+    year: 1487

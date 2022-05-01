@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: complete/1583__wert_giaches_de__il_quarto_libro_de_madrigali_a_5_voci
+    facsimile_directory: 1567__wert_giaches_de__il_quarto_libro_de_madrigali_a_5_voci__gardano_press
     typeset_directory: giaches_de_wert/book_IV_a5
 source:
     city: Venice

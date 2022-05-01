@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1555__lasso_orlando_di__il_primo_libro_de_madrigali_a_5_voci
     typeset_directory: orlando_di_lasso/il_primo_libro_de_madrigal_a_5
 source:
     city: Venice

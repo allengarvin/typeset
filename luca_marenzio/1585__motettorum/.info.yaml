@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1588__marenzio_luca__motettorum/
+    typeset_directory: luca_marenzio/1585__motettorum
+source:
+    city: Venice
+    date_exact: true
+    title: Motettorum liber primus
+    press: Scotto press
+    year: 1588

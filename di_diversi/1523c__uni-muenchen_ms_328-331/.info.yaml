@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: uni-muenchen.de/mss_328-331
+source:
+    date_circa: true
+    title: Munich University MSS 328-331 partbooks
+    year: 1610

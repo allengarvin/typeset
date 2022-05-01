@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: tregian/ms_egerton_3665
+source:
+    date_circa: true
+    title: MS Egerton 3665 ('The Tregian Manuscript')
+    year: 1610

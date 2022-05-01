@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1581__wert_giaches_de__settimo_libro_de_madrigali_a_5_voci
     typeset_directory: giaches_de_wert/book_VII_a5
 source:
     city: Venice

@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: 1620__banchieri_adriano__primo_libro_delle_messe_e_motetti_concertato/bologna-V.231
+    facsimile_directory: complete/1620__banchieri_adriano__primo_libro_delle_messe_e_motetti_concertato
     typeset_directory: adriano_banchieri/primo_libro_delle_messe_e_motetti
 source:
     city: Venice

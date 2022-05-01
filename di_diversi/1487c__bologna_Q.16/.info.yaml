@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: bologna/q16
+source:
+    city: Naples or Rome
+    date_circa: true
+    title: Bologna MS Q16
+    year: 1487

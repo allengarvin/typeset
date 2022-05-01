@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /lodovico_agostini
+biography:
+    name: Lodovico Agostini
+    last_name: Agostini
+    nationality: Italian
+    born_year: 1534
+    died_year: 1590
+    died_date: 1590-09-20
+    born_location:
+        region: Ferrara
+        country: Italy
+    died_location:
+        region: Ferrara
+        country: Italy

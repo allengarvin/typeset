@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: B-Br/1516circa__chansonnier_de_marguerite_d_austriche__brussels_ms_228
+source:
+    date_circa: true
+    manuscript: true
+    manuscript_name: Brussel MS. 228
+    print: false
+    title: Album de Marguerite d'Austriche
+    year: 1516

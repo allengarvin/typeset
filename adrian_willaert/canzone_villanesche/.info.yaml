@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1545__willaert_adrian__canzone_villanesche_alla_napolitana_a_4_voci
     typeset_directory: adrian_willaert/canzone_villanesche
 source:
     city: Venice

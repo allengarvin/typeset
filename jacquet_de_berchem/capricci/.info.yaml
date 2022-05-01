@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1561__berchem_jachet_de__primo_secondo_et_terzo_libro_dell_capriccio_a_4_voci__gardano_press
     typeset_directory: jacquet_de_berchem/capricci
 source:
     city: Venice
@@ -9,4 +9,11 @@ source:
     press: Gardano press
     print: true
     title: Primo, secondo et terzo libro del capriccio
+    full_title: Primo, secondo, et terzo libro del capiccio di Jiachetto Berchem con la musica da lui composta sopra le Stanze del Furioso
     year: 1561
+catalog:
+    lewis: 274
+    rism: B1981-1561
+    bologna: R.338
+    BSB: 4 mus pr 109/6
+    NV: 201-3

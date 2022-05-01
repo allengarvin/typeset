@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1583__gabrieli_andrea__venetiarum_psalmi_davidici__gardano_press
+    typeset_directory: andrea_gabrieli/psalmi_davidici
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Psalmi Davidici
+    year: 1583

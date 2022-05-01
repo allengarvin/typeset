@@ -1,0 +1,8 @@
+---
+local:
+    facsimile_directory: false
+    typeset_directory: osterreich-nationalbibliothek/ms-18810
+source:
+    date_exact: true
+    title: Austria MS 18 810 partbooks
+    year: 1612

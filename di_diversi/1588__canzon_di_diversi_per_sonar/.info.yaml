@@ -1,7 +1,7 @@
 ---
 local:
-    facsimile_directory: false
-    typeset_directory: vincenzi/canzon_di_diversi
+    facsimile_directory: complete/1588__di_diversi__canzon_per_sonar
+    typeset_directory: di_diversi/1588__canzon_di_diversi_per_sonar
 source:
     city: Venice
     date_exact: true

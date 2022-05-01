@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1565__gabrieli_andrea__sacrae_cantiones_vulgo_motecta_appellatae_5_vocum
     typeset_directory: andrea_gabrieli/sacrae_cantiones_liber_1
 source:
     city: Venice

@@ -1,6 +1,6 @@
 ---
 top:
-    type: composer
+    type: di_diversi
     path: /di_diversi
 biography:
-    name: Various
+    name: Di diversi eccellentissimi musici

@@ -6,6 +6,7 @@ import glob
 import json
 import os
 import re
+import shutil
 import sys
 import yaml
 
@@ -23,6 +24,7 @@ class Collection:
     short_name = None
     publisher = None
     title = None
+    parent = None
 
     def __str__(self):
         if self.path == None:
@@ -57,6 +59,74 @@ class Piece:
 
     def __init__(self):
         self.lilypond_files = []
+
+def check_catalog(coll):
+    if "catalog" not in coll.yaml or type(coll.yaml["catalog"]) != dict:
+        return None
+
+    cat_html = "Catalog info: <ul>\n"
+    for cat, ndx in coll.yaml["catalog"].items():
+        if cat == "rism":
+            cat_html += "<li> RISM: {} </li>\n".format(ndx)
+        elif cat == "lewis":
+            cat_html += "<li> Antonio Gardano bibliography index (Mary Lewis): {} </li>\n".format(ndx)
+        elif cat == "BSB":
+            cat_html += "<li> Munich, Bayerische Staatsbibliothek: {} </li>\n".format(ndx)
+        elif cat == "bologna":
+            cat_html += "<li> Bologna, Civico Museo Bibliografico Musicale: {} </li>\n".format(ndx)
+        elif cat == "NV":
+            cat_html += "<li> New Vogel: {} </li>\n".format(ndx)
+        else:
+            cat_html += "<li> {}: {} </li>\n".format(cat, ndx)
+    cat_html += "</ul><p>\n"
+    return cat_html
+
+def check_facsimile(coll):
+    if "local" in coll.yaml and "facsimile_directory" in coll.yaml["local"]:
+        fac_dir = coll.yaml["local"]["facsimile_directory"] 
+        if not fac_dir or not os.path.exists("/home/agarvin/facsimiles/" + fac_dir):
+            # TODO: print error, fix
+            return
+        fac_dir = coll.yaml["local"]["facsimile_directory"] + "/"
+    else:
+        return
+
+    target_dir = coll.facsimile
+
+    f_files = {}
+
+    for fn in ["cover.jpg", "contents.jpg", "dedication.jpg"]:
+        path = "/home/agarvin/facsimiles/" + fac_dir + "/" + fn
+        target_path = target_dir + fn
+        
+        if not os.path.exists(path):
+            continue
+        f_files[fn] = target_path
+
+        if os.path.exists(target_path) and os.path.getmtime(path) < os.path.getmtime(target_path):
+            continue
+        print("facsimile {} -> {}".format(path, target_path))
+        shutil.copyfile(path, target_path)
+
+    return f_files
+
+def parse_markup(mu):
+    mu = mu[mu.index('{')+1:len(mu) - 1 - mu[::-1].index('}')].strip()
+
+    if "\\italic" in mu:
+        if "\\italic {" in mu:
+            mu = mu.replace("\\italic {", "<i>")
+        elif "\italic{" in mu:
+            mu = mu.replace("\\italic{", "<i>")
+        else:
+            print("Fix:", mu)
+            sys.exit(1)
+
+
+        cl = mu.index("}")
+        mu = mu[:cl] + "</i>" + mu[cl+1:]
+
+    return mu
 
 def query_name(bio):
     return bio["name"]
@@ -145,11 +215,69 @@ def get_header_field(header, field):
             if "markup" not in l:
                 data = eval(l)
             else:
-                # DO LATER: data[f] = parse_markup(l)
-                data = l
+                data = parse_markup(l)
+                # data = l
 
     return data
 
+def match_clef(s):
+    clefs = { "tr_clef" : "treble clef",
+              "tr8_clef" : "octavated treble clef",
+              "al_clef" : "alto clef",
+              "bs_clef" : "bass clef",
+              "mz_clef" : "mezzosoprano clef",
+              "tn_clef" : "tenor clef",
+              "br_clef" : "baritone clef",
+            }
+    if s in clefs:
+        return clefs[s]
+    return None
+
+def table_row(pdf, path):
+
+    base_fn = basename(pdf).split(".")[0]
+    dash_parts = [x for x in base_fn.split("-") if len(x)]
+
+    if dash_parts[-2].isdigit():
+        print(path)
+        print(dash_parts)
+        print(pdf)
+        sys.exit(1)
+    else:
+        part_name = dash_parts[-2]
+
+    if not dash_parts[-3].isdigit():
+        print("-3 is not a digit")
+        print(path)
+        print(dash_parts)
+        print(pdf)
+        sys.exit(1)
+    else:
+        part_num = dash_parts[-3]
+    
+    pdf_type = dash_parts[-1]
+
+    if "clef" in pdf_type:
+        cl = match_clef(pdf_type)
+        if cl == None:
+            print("CLEF ERROR:", pdf_type)
+            print("Path:", path)
+            sys.exit(1)
+
+    row = "    " * 3 + "<tr>\n" + """
+                <td> &nbsp;&nbsp; {partno} &nbsp;&nbsp; </td>
+                <td> &nbsp;&nbsp; <a href="{pdf}">{partname}</a> &nbsp;&nbsp; </td>
+                <td> &nbsp;&nbsp; part in {clef} </td>
+            </tr>
+""".format(partno=part_num, partname=part_name, clef=cl, pdf=basename(pdf))
+    return row
+
+def read_link(path):
+    fd = open(path)
+    s = fd.read().strip()
+    fd.close()
+    return s
+    
 def write_pieces(coll):
     score_re = re.compile("^[0-9]+-[A-Za-z0-9_]+-a[0-9]+-0+-score.ly$")
 
@@ -180,12 +308,19 @@ def write_pieces(coll):
         folio = get_header_field(header, "folio")
         composer = get_header_field(header, "composer")
         shortcomp = get_header_field(header, "shortcomp")
+        shorttitle = get_header_field(header, "shorttitle")
+        if shorttitle == None:
+            shorttitle = basename(p.path)
+
+        if composer == None:
+            composer = coll.parent.short_name
 
         p.h_title = title
         p.h_subtitle = subtitle
         p.h_folio = folio
         p.h_composer = composer
         p.h_shortcomp = shortcomp
+        
 
         #print(shortcomp)
         if subtitle != None and len(subtitle) > 0:
@@ -193,6 +328,93 @@ def write_pieces(coll):
         else:
             tit = title
         html += "    " * 4 + '<li value="{num}"> <a href="single-parts/{outputdir}">{title}</a> {composer}</li>\n'.format(num=p.num.lstrip("0"), outputdir=basename(p.path), title=tit, composer=("[{}]".format(composer) if composer != None else ""))
+
+        p_html = """
+<html>
+    <head> 
+        <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+        <title>{title}</title>
+    </head>
+    <body>
+        <a href="../../../../index.html">TOP</a> / <a href="../../../index.html">{composer_group}</a> / <a href="../../index.html">{coll_name}</a> / {path} <p>
+        <center>
+        <h2>{title}<h2><br>by<br>
+        <h3>{composer}</h3><p>
+        </center>
+
+
+""".format(title=tit, composer_group=coll.parent.short_name, composer=composer, path=shorttitle, coll_name=coll.title)
+
+        p_html_end = """    </body>
+    <!-- generate_index.py ran at {isotime} -->
+</html>""".format(isotime=datetime.datetime.now().isoformat())
+
+
+        if folio != None and len(folio) and "Fol." not in folio:
+            p_html += "Text source: {}<p>\n".format(folio)
+
+        score_files = sorted(glob.glob(p.path + "/*-score.pdf"))
+        if len(score_files) == 0:
+            print("NO SCORE FILE")
+            print(p.path)
+            sys.exit(1)
+
+        p_html += "Score{}: ".format("s" if len(score_files) > 1 else "")
+
+        for sc in score_files:
+            p_html += '<a href="{score}">{score}</a><br>\n'.format(score=basename(sc))
+        p_html += "\n<p>\n"
+
+        pdf_files = sorted(glob.glob(p.path + "/*_clef.pdf"))
+        p_html += "    " * 2 + "<table>"
+
+        p_html += """
+            <tr>
+                <td> &nbsp;&nbsp; Num &nbsp;&nbsp; </td>
+                <td> &nbsp;&nbsp; Name &nbsp;&nbsp; </td>
+                <td> &nbsp;&nbsp; Cleffing; </td>
+            </tr>
+"""
+
+        for pdf in pdf_files:
+            p_html += table_row(pdf, p.path)
+
+        p_html += "    " * 2 + "</table><p>\n\n"
+
+        parts_files = glob.glob(p.path + "/*parts.pdf")
+        if len(parts_files):
+            p_html += "    " * 2 + "<ul>\n"
+            for pf in parts_files:
+                pf_base = basename(pf)
+                pf_html = "    " * 3 + '<li><a href="%s">{}</a></li>\n' % pf_base
+                if "-recorder_parts.pdf" in pf_base:
+                    p_html += pf_html.format("Aggregated parts for recorder and winds (no alto clefs)")
+                elif "-viol_parts.pdf" in pf_base:
+                    p_html += pf_html.format("Aggregated parts for viols (alto clefs, no octavated treble clefs)")
+                elif "-parts.pdf" in pf_base:
+                    p_html += pf_html.format("All aggregated parts (may include both alto and octavated treble clefs)")
+                else:
+                    print("UNKNOWN PARTS FILE:")
+                    print(p.path)
+                    print(pf)
+                    sys.exit(1)
+            p_html += "    " * 2 + "</ul><p>\n"
+                
+                
+
+        if os.path.exists(p.path + "/cpdl.link"):
+            p_html += "    " * 2 + 'CPDL link: <a href="{link}">{link}</a><br>\n'.format(link=read_link(p.path + "/cpdl.link"))
+        if os.path.exists(p.path + "/imslp.link"):
+            p_html += "    " * 2 + 'IMSLP link: <a href="{link}">{link}</a><br>\n'.format(link=read_link(p.path + "/imslp.link"))
+
+        if os.path.exists(p.path + "/youtube.link"):
+            p_html += "<p><center>\n" + "    " * 2 + read_link(p.path + "/youtube.link") + "\n</center></p>\n"
+
+        p_html += p_html_end
+
+        p_fd = open(p.path + "/index.html", "w")
+        p_fd.write(p_html)
+        p_fd.close()
 
     html += "    " * 3 + "</ol>\n"
     #print(coll.path)
@@ -206,7 +428,7 @@ def write_composer_index(args):
             top = c.yaml["top"]
         else:
             print("warning: {}/.info.yaml has no [top] section".format(c.path))
-        if top["type"] != "composer" and top["type"] != "printer" and top["type"] != "scribe" and top["type"] != "poet":
+        if top["type"] != "composer" and top["type"] != "printer" and top["type"] != "scribe" and top["type"] != "poet" and top["type"] != "di_diversi":
             print("Skipping {}: not composer".format(c.path))
             continue
 
@@ -273,6 +495,22 @@ def write_composer_index(args):
 
             piece_list = write_pieces(cl)
 
+            facs = check_facsimile(cl)
+
+            fac_html = None
+            if type(facs) == dict and len(facs):
+                fac_html = "<table>\n<tr>"
+                for f in ["cover.jpg", "contents.jpg", "dedication.jpg"]:
+                    if f in facs:
+                        fac_html += "<td align=\"center\">{}</td>".format(f.split(".")[0].capitalize())
+                fac_html += "</tr>\n"
+                for f in ["cover.jpg", "contents.jpg", "dedication.jpg"]:
+                    if f in facs:
+                        fac_html += '  <td><a href="facs_img/{}"><img src="facs_img/{}" width="400" /></a></td>\n'.format(f, f)
+                fac_html += "</tr>\n"
+                fac_html += "</table>\n"
+
+            catalog = check_catalog(cl)
             chtml ="""
 <html>
     <head> 
@@ -287,11 +525,14 @@ def write_composer_index(args):
             <h3> {composer} </h3>
         </center>
         <p>
+        {catalog}
         {piece_list}
+        <p>
+        {facsimiles}
     </body>
     <!-- generate_index.py ran at {isotime} -->
 </html>
-""".format(cname=cl.title, comp_name=c.name_alone, publisher=cl.publisher, composer=c.short_name, isotime=datetime.datetime.now().isoformat(), piece_list=piece_list)
+""".format(cname=cl.title, comp_name=c.name_alone, publisher=cl.publisher, composer=c.short_name, isotime=datetime.datetime.now().isoformat(), piece_list=piece_list, catalog=("" if catalog == None else catalog), facsimiles=("" if fac_html == None else fac_html))
             fd = open(cl.path + "/index.html", "w")
             fd.write(chtml)
             fd.close()
@@ -351,9 +592,8 @@ def build_composers(args):
             if col.startswith(cd + "/"):
                 col_obj = Collection()
                 col_obj.path = col
+                col_obj.parent = comp
 
-                if not os.path.exists(col + "/facs_img"):
-                    os.mkdir(col + "/facs_img")
                 cyaml_fn = col + "/.info.yaml"
                 if not os.path.exists(cyaml_fn):
                     if args.verbose:
@@ -370,6 +610,10 @@ def build_composers(args):
                 col_obj.cparent = comp
                 col_obj.yaml = col_conf
                 comp.collections.append(col_obj)
+
+                if not os.path.exists(col + "/facs_img"):
+                    os.mkdir(col + "/facs_img")
+                col_obj.facsimile = col + "/facs_img/"
 
                 for p in piece_dirs:
                     if not p.startswith(col + "/"):

@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1583__agostini_ludovico__il_nuovo_echo_a_5_voci__baldini_press
+    typeset_directory: lodoovico_agostino/il_nuovo_echo
+source:
+    city: Ferrara
+    date_exact: true
+    title: Il nuovo echo a 5 voci
+    press: Vittorio Baldini press
+    year: 1583

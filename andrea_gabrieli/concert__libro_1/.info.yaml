@@ -1,12 +1,12 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1587__gabrieli_andrea__concerti
     typeset_directory: andrea_gabrieli/concert__libro_1
 source:
     city: Venice
     date_exact: true
     manuscript: false
-    press: Gardano press
+    press: Angelo Gardano press
     print: true
     title: Concerti, il primo libro
     year: 1587

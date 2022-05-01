@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1559__willaert_adriano__musica_nova
     typeset_directory: adrian_willaert/musica_nova-motets
 source:
     city: Ferrara

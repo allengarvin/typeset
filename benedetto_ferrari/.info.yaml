@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /benedetto_ferrari
+biography:
+    name: Benedetto Ferrari
+    name_variants:
+        - Benedetto Ferrari dalla Tiorba
+        - Benedetto Ferrari della Tiorba
+    last_name: Ferrari
+    nationality: Italian
+    born_year: 1603
+    born_circa: true
+    died_year: 1681
+    died_date: 1681-10-22
+    born_location:
+        region: Reggio nell'Emilia
+        country: Italy
+    died_location:
+        region: Modena
+        country: Italy

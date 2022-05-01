@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1575__gabrieli_andrea__libro_primo_de_madrigal_a_3_voci
     typeset_directory: andrea_gabrieli/il_primo_libro_de_madrigali_a_3
 source:
     city: Venice

@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1574__gabrieli_andrea__il_primo_libro_de_madrigali_a_6_voci
     typeset_directory: andrea_gabrieli/il_primo_libro_de_madrigali_a_6
 source:
     city: Venice

@@ -1,6 +1,6 @@
 ---
 top:
-    type: composer|editor|printer
+    type: composer
     path: /georg_forster
 biography:
     name: Georg Forster

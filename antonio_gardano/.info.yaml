@@ -1,6 +1,6 @@
 ---
 top:
-    type: composer|printer
+    type: composer
     path: /antonio_gardano
 biography:
     name: Antonio Gardano

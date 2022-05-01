@@ -1,0 +1,17 @@
+---
+local:
+    facsimile_directory: complete/1595__marenzio_luca__il_sesto_libro_de_madrigali_a_6_voci
+    typeset_directory: luca_marenzio/il_sesto_libro_de_madrigali_a_6
+source:
+    city: Venice
+    date_exact: true
+    title: Il sesto libro de madrigali a 6 voci
+    press: Angelo Gardano press
+    year: 1595
+catalog:
+    bologna: T.47
+contents:
+    type: madrigal
+    parts: 6
+    part_names: canto, alto, tenore, basso, quinto, sesto
+    language: italian

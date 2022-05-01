@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1571__wert_giaches_de__il_quinto_libro_de_madrigali_a_5_6_e_7_voci__gardano
     typeset_directory: giaches_de_wert/book_V_a5
 source:
     city: Venice
