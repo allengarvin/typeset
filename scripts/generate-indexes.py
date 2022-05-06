@@ -76,6 +76,8 @@ def check_catalog(coll):
             cat_html += "<li> Bologna, Civico Museo Bibliografico Musicale: {} </li>\n".format(ndx)
         elif cat == "NV":
             cat_html += "<li> New Vogel: {} </li>\n".format(ndx)
+        elif cat == "sartori":
+            cat_html += "<li> Claudi Sartori, <i>Bibligrafia della musica strumentale Italiano</i>: {} </li>\n".format(ndx)
         else:
             cat_html += "<li> {}: {} </li>\n".format(cat, ndx)
     cat_html += "</ul><p>\n"
@@ -353,6 +355,9 @@ def write_pieces(coll):
         if folio != None and len(folio) and "Fol." not in folio:
             p_html += "Text source: {}<p>\n".format(folio)
 
+        preview = glob.glob(p.path + "/*-0-score.preview.png")
+        if len(preview) == 1:
+            p_html += "    " * 2 + '\n\n<center><img src="{}" alt="preview of first system of score" \/></center><p>\n\n'.format(preview[0])
         score_files = sorted(glob.glob(p.path + "/*-score.pdf"))
         if len(score_files) == 0:
             print("NO SCORE FILE")
