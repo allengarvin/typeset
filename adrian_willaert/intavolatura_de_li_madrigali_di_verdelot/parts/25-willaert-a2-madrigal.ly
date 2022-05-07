@@ -13,7 +13,6 @@ cantoXXV = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
-    \set Staff.midiInstrument=#"voice oohs"
     R\breve*4 | r1 g ~ | g a ~ | a2 g f e | d\breve | c1 r1 |
     % --- page ---
     g'1 a2 a | b b c1 | a b | a2 g1\melisma\ficta fs2\unficta | 
@@ -72,7 +71,6 @@ luteXXVnotes = \relative c' {
     \key c \major
     \time 4/2 
 
-    \set Staff.midiInstrument=#"acoustic guitar (nylon)"
 }
 
 % rhythm checked against source
@@ -125,8 +123,6 @@ luteXXV = \relative c' {
     \key c \major
     \time 4/2 
 
-    %\set Staff.midiInstrument = #"lute"
-    \set Staff.midiInstrument=#"acoustic guitar (nylon)"
     d1 <d g,> | <e g,> a,2 d | <c a> <b g> <a f> <c e,> |
     <d d,> b4\4 a <d b\4 d,>1 | <e c c,> <c c,>2 d
     c b a c4 g | <d' f,>2 <e e, c> <f d,> <g c, e,>

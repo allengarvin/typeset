@@ -11,7 +11,6 @@ superiusIII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     R\breve*4 | R\breve*2 | r1 f | g1. f2 | g1 a | bf a ~ | a2( g bf a | 
         g1) f | R\breve | r1 r2 bf ~ | bf a\melisma g bf | a1 g2 f4 g |
         a bf c1 bf2 | c1 bf | a2 bf1 a2 | g1\melismaEnd f | 
@@ -49,7 +48,6 @@ contratenorIII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     R\breve*2 | c1 d ~ | d2 c d1 | e f | e2( d1 f2 ~ | f e d c | d1 e2 d4 c |
         e2 d) f1 ~ | f\breve | R | r2 c2.( bf4 a g | f2 c' bf4 a) f'2 ~ |
         f4( e f2) d1 | r2 f1 e2 | d( c2. a4 bf2 | c4 d e f g2 f ~ | f e) 
@@ -98,7 +96,6 @@ tenorIII = \relative c {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     R\breve*2 | r1 f | g1. f2 | g1 a | bf1.( a2) | c1 f, | bf c ~ | 
         c2 bf c f, ~ |
         f d f2.( g4 | a bf c2 bf c | d g,) a1 ~ | a r2 bf ~ | bf a( f1 |
@@ -171,7 +168,6 @@ bassusOneIII = \relative c {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     f1 g ~ | g2 f g a ~ | a4( g f e d c bf a | bf2) c bf( d | c1) f,2 a |
         g2.( a4 bf c d2 | c c f a | g2. f4 e2 f | c g' f1) | bf, r1 | r1 r2 f |
         bf( c a d ~ | d c) d bf | f'1
@@ -226,7 +222,6 @@ bassusTwoIII = \relative c {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     R\breve*4 | r1 f | g1. f2 | g1 a | r2 bf1 a2( | g bf) a1 | r2 f1 d2 |
         f c g' f | d( e f1 | d2 e) f1 | r2 f2.( e4 d c | d1) bf2.( c4 | 
         d e f2 c d) |
@@ -277,7 +272,6 @@ quintusIII = \relative c' {
     %\clef soprano
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     R\breve*4 | R\breve*4 | r1 c | d c2 d ~ | d e1 f2 ~ | f e1( d2 | 
         f e d1) | c r | R\breve | f1 e2( d | f e1 d2 | c4 d e f g1 |
         f2 g1 f2 ~ | f e f1 | e2 d1) c2 ~ | c r2 r1 | r r2 f ~ | f e2 d( c |

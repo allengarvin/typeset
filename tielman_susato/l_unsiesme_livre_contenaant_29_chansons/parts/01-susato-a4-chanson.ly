@@ -81,7 +81,6 @@ contraIincipit = \relative c'' {
 % contra: checked against source
 contraI = \relative c'' {
     \fourTwoCutTime
-    \clef mezzosoprano
     \key c \major
 
     \ficta

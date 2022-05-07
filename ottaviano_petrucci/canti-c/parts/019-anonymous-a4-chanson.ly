@@ -33,7 +33,7 @@ cantusXIX = \relative c'' {
     \invisibleTime \time 2/2
     g fs4 g\longa*1/8
     \invisibleTime \time 4/2
-    \repeat "volta" 4 {
+    \repeat volta 4 {
         R\breve | r1 r4 g g a | g4. a8 b[ c] d2 c4 c b | c2 r4 a a a b2 ~ | 
         b4 a4. g8 g2 fs4 g2 |
     }
@@ -96,7 +96,7 @@ contraXIX = \relative c' {
     d8[ c8 b a] b\longa*1/8 |
     \invisibleTime \time 4/2
 
-    \repeat "volta" 4 {
+    \repeat volta 4 {
         g2 g4 a g4. a8 b[ c] d4 ~ | d c4 c b c2 r4 c4 | 
         c4. c8 b4 a c8[ d e f] g2 | e r4 f4 f f g2 | f4. e8 d[ b] c4 d2 b |
     } 
@@ -157,7 +157,7 @@ tenorXIX = \relative c' {
     \invisibleTime \time 2/2 a2 g\longa*1/8 |
     \invisibleTime \time 4/2
 
-    \repeat "volta" 4 {
+    \repeat volta 4 {
         R\breve | r1 r4 e' e f | g2. f4 e c d2 | 
         c r4 c c c d2 ~ | d4 c4 b g a a g2 |
     } 
@@ -214,7 +214,7 @@ bassusXIX = \relative c {
     \invisibleTime \time 2/2
     d2 g,\longa*1/8 |
     \invisibleTime \time 4/2
-    \repeat "volta" 4 {
+    \repeat volta 4 {
         g'2 g4 f e g2 f4 | e4. d16[ c] d4 d c2 r4 f | 
         c8[ d e f] g4 d g a g g | c,2 r4 f f a g2 | 
         d4 f g e d2 g, |

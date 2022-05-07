@@ -21,7 +21,6 @@ rhythmXXXIX = \relative c'{
 
 luteXXXIX = \relative c'{
     \time 3/2
-    \clef "treble_8"
     \key g \major
 
     

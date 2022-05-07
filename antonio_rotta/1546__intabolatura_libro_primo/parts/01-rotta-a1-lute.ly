@@ -16,8 +16,6 @@ bassI = \relative c' {
 }
 
 rhythmI = \relative c'' {
-          \set Staff.midiInstrument = #"synth drum" 
-    % NOTE: this instrument screws up the midi
 
     g16*4 s s s | g8*4 s | s s | g16*4 s s s | s s s s | s s s s |
         g8*4 s | g16*4 s s s | s s s s | g8*4 s | s s | s s | s s | s s 

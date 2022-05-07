@@ -1,6 +1,5 @@
 luteXVI = \relative c'' {
     \time 2/2
-    \clef "treble_8"
     \key g \major
 
     d1 | d2 d | <d g,>1 | <d g,>2 g, | <b g g,>1 | <b g d g,>2 <b g,> |

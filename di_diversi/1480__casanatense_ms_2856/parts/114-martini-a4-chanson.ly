@@ -11,7 +11,6 @@ cantusCXIV = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
 
     f\breve | \[ f1 e \] | c\breve | r1 g' | a\breve | a1 a | a\breve | g |
         f ~ | f1 d | d\breve | \[ e1 d \] | c f ~ | f e | f\breve | R | c' |

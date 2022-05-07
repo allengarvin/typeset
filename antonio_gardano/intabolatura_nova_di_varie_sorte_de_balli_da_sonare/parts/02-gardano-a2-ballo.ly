@@ -10,7 +10,6 @@ trebleII = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
     \repeat volta 2 {
     r2 <b d g> <b d g>2. e4 | d c b a b c d e d b c d <c e g>1 ~ |
         <c e g>4 f e d <c e g>1 ~ 
@@ -41,7 +40,6 @@ bassII = \relative c' {
     \fourTwoCutTime
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
     \repeat volta 2 {
     r2 <g d' g>2 
     << 

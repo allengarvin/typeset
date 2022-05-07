@@ -3,11 +3,11 @@ cantoII = \relative c'' {
     \key c \major
     \clef soprano
     
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         g1 g2 gs | a b c1 | g2 r4 c b a g f |
         e e' e4. d16[ c] b4 a b2 | a2
     } 
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         c4 c2 b4 a4. b8 |
         fs4 g4. a8 b4 a2 a | r4 b c4. d8 e2 d | 
         c2. b4 a g a2 |

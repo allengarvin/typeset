@@ -9,7 +9,6 @@ cantusIIIincipit = \relative c'' {
 % cantus: checked against source
 cantusIII = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     r1 d ~ | d2 d d1 | g,2 d' ef4\melisma \ficta d d2 ~ |

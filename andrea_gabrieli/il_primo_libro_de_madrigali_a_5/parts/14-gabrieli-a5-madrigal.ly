@@ -26,7 +26,6 @@ cantoXIVincipit = \relative c'' {
 
 cantoXIV = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     r1 r2 c | c4 d e2 d r4 c | a b c2 b r2 | r2 c2. c4 c c | d1 c2 c |

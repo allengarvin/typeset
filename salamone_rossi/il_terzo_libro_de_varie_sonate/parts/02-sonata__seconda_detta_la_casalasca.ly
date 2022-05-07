@@ -99,12 +99,12 @@ bassoII = \relative c {
     \key c \major
     \time 4/4
 
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         d2 d4 d | f2 g f2. f4 | c2 d | a2. a'4 | gs2 a | d,2. d4 | 
         cs2 d | a' f | e1 | a,2 a' | g4 f e d | c4. d8 e2 | d4 c b a |
         g2 c | f4. g8 a2 | g b, | c4. d8 e2 | fs fs | g c, | d1 | g, |
     }
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         \once \override Staff.TimeSignature  #'style = #'single-digit
         \time 3/2
         d'2 g fs | g c, b | c f e | f d cs | d a4 b c d | e f g1 | c,1. |

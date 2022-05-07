@@ -11,7 +11,6 @@ cantusXXIX = \relative c'' {
     \fourTwoCommonTime
     \key f \major
 
- %\set Staff.midiInstrument="trombone"
 
     g2 g4 g d'2 r8 a[ d c] | bf4 d bf2 c4 bf ef2 | 
         d4. c8 bf4. a16[ g] a4 bf a2 |
@@ -60,7 +59,6 @@ altusXXIXincipit = \relative c' {
 altusXXIX = \relative c' {
     \fourTwoCommonTime
     \key f \major
- %\set Staff.midiInstrument="trombone"
 
     r1 d2 d4 d | g2 r8 d[ g f] ef4 g ef8[ c g' a] |
         bf[ g bf a] g[ f d e] 
@@ -112,7 +110,6 @@ tenorXXIXincipit = \relative c' {
 tenorXXIX = \relative c' {
     \fourTwoCommonTime
     \key f \major
- %\set Staff.midiInstrument="trombone"
 
     R\breve*2 | g2 g4 g d'2 r8 a[ d c] | bf4 d bf2 c4 bf ef2 |
         d4. c8 bf4. a16[ g] 
@@ -167,7 +164,6 @@ bassusXXIXincipit = \relative c {
 bassusXXIX = \relative c {
     \fourTwoCommonTime
     \key f \major
-% \set Staff.midiInstrument="trombone"
 
     R\breve*2 | r1 d2 d4 d | g2 d8 d[ g f] ef4 g ef8[ c g' a] |
         bf[ g bf a] g[ f d e] 

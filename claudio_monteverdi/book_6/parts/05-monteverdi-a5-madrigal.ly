@@ -507,7 +507,7 @@ quintoLyricsV = \lyricmode {
         e fe -- re,
         e fe -- re,
         e fe -- re,
-        e fe -- r'a -- spr'e sel -- vag -- ge,
+        e fe -- r'a -- spr'e sel -- vag -- ge.
 }
 
 cantoVincipitVoice = <<

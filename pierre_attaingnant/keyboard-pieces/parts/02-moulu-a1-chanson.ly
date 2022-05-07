@@ -13,7 +13,6 @@ trebleIIincipit = \relative c'' {
 trebleII = \relative c'' {
     \key f \major
     \time 4/4
-    \set Staff.midiInstrument = "harpsichord"
     
     r4 a a8[ g] a16[ g f g] | 
     a8[ g f g] a[ bf c a] |
@@ -66,7 +65,6 @@ bassIIincipit = \relative c' {
 bassII = \relative c' {
     \key f \major
     \time 4/4
-     \set Staff.midiInstrument = "harpsichord"
 
     r4 <e a,> <e a,> <d bf> |
     << { e2 e | f e | e4 d8[ c] bf4 d | c8[ bf a bf] c[ d g, f] } \\

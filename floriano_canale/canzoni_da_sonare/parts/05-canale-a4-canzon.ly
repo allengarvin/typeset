@@ -118,7 +118,6 @@ tenoreVincipit = \relative c' {
 }
 
 tenoreV = \relative c' {
-    %\clef "treble_8"
     \key f \major
     \fourTwoCommonTime
 

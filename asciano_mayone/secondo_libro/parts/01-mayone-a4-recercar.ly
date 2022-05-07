@@ -177,7 +177,6 @@ trebleKeyboardI = \relative c'' {
     \fourTwoCommonTime
     \key f \major
 
-    \set Staff.midiInstrument="harpsichord"
     R\breve*2 | r1 e | g2 c, d e | f1 e | r2 g2. f4 e2 | d1 c2 bf4 a |
         << { \stemUp e'4 f g f e d c2 ~ c2 d e1 | f2 g f4 e d2 ~ | 
             d4 c c d8[ e] f1 ~ | f2 e2. d4 d2 | e1. d2 ~| d cs d1 | } \\
@@ -238,7 +237,6 @@ bassKeyboardI = \relative c' {
     \fourTwoCommonTime
     \key f \major
 
-    \set Staff.midiInstrument="harpsichord"
     a1 c2 f, | g a bf1 | a r2 c ~ | c4 bf a2 g1
     << 
       { 

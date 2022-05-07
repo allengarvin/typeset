@@ -10,12 +10,12 @@ cantoPrimoXV = \relative c'' {
     \key f \major
     \time 4/4
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         d1 | ef | d | g,2 c ~ | c b | c f, | bf1 | a | d,2 g ~ | g fs | 
             g d' ~ | d c ~ | c bf ~ | bf a | bf d ~ | d c ~ | c bf ~ | bf a |
         c2. bf8[ a] | g2 g | a1 | g
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \singleTime \time 3/2 \threeFromOne
 
         g'2 f e | d c bf |
@@ -44,12 +44,12 @@ cantoSecondoXVincipit = \relative c'' {
 cantoSecondoXV = \relative c'' { 
     \key f \major
     \time 4/4
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         r2 d ~ | d c ~ | c b | c4 bf a g | f1 | e2 a ~| a g ~ | g fs | 
             g4 f e d | c2 c' ~ | c bf ~ | bf a | d1 | c | d2 f,4 d | e2 a |
         d2 d | c2. c,4 | e2 e ~ | e4 fs4 g2 ~ | g fs | g1
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \singleTime \time 3/2  \threeFromOne
 
         bf2 a g | f a g | c1 r2 |
@@ -78,12 +78,12 @@ bassoXVincipit = \relative c' {
 bassoXV = \relative c' {
     \key f \major
     \time 4/4
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         g1 | ef2. f4 | g2. f4 | e!2 f4 e | d1 | c2 d | bf2. c4 | d2. c4 | 
             b2 c4 bf | a1 | g2 g' | ef f | d 
         d | f1 bf,2 bf' | a1 | g2. d4 | f1 | c2 c ~ | c4 d ef2 | d1 | g,
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \singleTime \time 3/2 \threeFromOne
 
         g'2 a a | bf f g | 

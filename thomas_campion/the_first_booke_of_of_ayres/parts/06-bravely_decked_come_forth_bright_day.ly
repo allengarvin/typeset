@@ -3,7 +3,7 @@ cantusVI = \relative c'' {
     \clef soprano
     \key c \major
 
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         g2. g4 g2 f | e d e1 | r2 c'2 c2. c4 | b2 a g fs | g1 g2 g |
 
         g f d1 | \invisibleTime \time 2/2 e1
@@ -22,7 +22,7 @@ altusVI = \relative c' {
     \clef mezzosoprano
     \key c \major
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         e2. e4 e2 d | c b c1 | r2 g' a2. a4 | g2 f e d | d1 d2 d | e c c b |
         \invisibleTime \time 2/2 c1 |
     }
@@ -40,7 +40,7 @@ tenorVI = \relative c' {
     \clef alto
     \key c \major
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         c2. c4 c2 a | g g g1 | r2 e' f2. f4 | d2 c c a | b1 b2 b | c a g1 |
         \invisibleTime \time 2/2 g1
     }
@@ -58,7 +58,7 @@ bassusVI = \relative c {
     \clef bass
     \key c \major
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         c2. c4 c2 d | e4 f g2 c,1 | r2 c
 
         f2. f,4 | g2 a4 b c2 d | g,1 g2 g' | e f

@@ -9,7 +9,6 @@ cantoIIincipit = \relative c'' {
 cantoII = \relative c'' {
     \fourTwoCommonTime
     \key f \major
-    \set Staff.midiInstrument = "Flute"
 
     R\breve*2 | r2 g d'4 e f2 | e4 g2 f4 e d e2 | d r4 g, d' e f e |
         d8[ bf c a] bf[ g a f] g[ a bf g] a[ bf c d] |
@@ -36,7 +35,6 @@ altoIIincipit = \relative c' {
     \clef "petrucci-c2"
     \time 4/4
     \key f \major
-    \set Staff.midiInstrument = "Flute"
 
     d2
 }
@@ -45,7 +43,6 @@ altoII = \relative c' {
     %\clef treble
     \fourTwoCommonTime
     \key f \major
-    \set Staff.midiInstrument = "Flute"
 
     d2 g4 a bf2 a4 c ~ | c bf a2 g f4 f ~ | f e2 d8[ c] d4 g f8[ g a bf] |
         c4 d c8[ bf a g] a1 | R\breve*2 | r1
@@ -82,7 +79,6 @@ tenoreIIincipit = \relative c' {
 tenoreII = \relative c' {
     \fourTwoCommonTime
     \key f \major
-    \set Staff.midiInstrument = "Flute"
 
     r2 g d'4 e f2 | e4 g2 f2 e4 d2 | c g4. a8 bf4 a8[ g] a4 d | 
         c b c d cs d2 cs4 | d bf f' g
@@ -118,7 +114,6 @@ bassoIIincipit = \relative c {
 bassoII = \relative c {
     \fourTwoCommonTime
     \key f \major
-    \set Staff.midiInstrument = "Flute"
     
     R\breve | r2 d g4 a bf2 | a4 c2 bf8[ a] g4 f8[ e] d[ e f g] | a4 g a2 a1 | 
         r4 g d' e f e d c | 

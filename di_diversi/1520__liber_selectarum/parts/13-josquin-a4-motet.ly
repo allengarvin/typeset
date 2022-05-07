@@ -10,7 +10,6 @@ cantusXIIIincipit = \relative c' {
 cantusXIII = \relative c' {
     \fourTwoCutTime
     \key c \major
-\set Staff.midiInstrument="choir aahs"
 
     R\breve*4 | R\breve*2 | r2 e1 d2 | e1 c | b r2 c ~ | c d e f |
 
@@ -72,7 +71,6 @@ altusXIIIincipit = \relative c' {
 altusXIII = \relative c' {
     \fourTwoCutTime
     \key c \major
-\set Staff.midiInstrument="choir aahs"
 
     R\breve*4 | R\breve*3 | r1 r2 a ~ | a g a1 | f e | r2 e'1 e2 | e1 e |
 
@@ -128,7 +126,6 @@ tenorXIIIincipit = \relative c' {
 tenorXIII = \relative c' {
     \fourTwoCutTime
     \key c \major
-\set Staff.midiInstrument="choir aahs"
 
     r1 g ~ | g2 g g g | d1 d | f1. d2 | a'\breve | r2 a1 g2 | a1 f |
 
@@ -183,7 +180,6 @@ bassusXIIIincipit = \relative c {
 bassusXIII = \relative c {
     \fourTwoCutTime
     \key c \major
-\set Staff.midiInstrument="choir aahs"
 
     c1. c2 | c c g1 | g b2. g4 | d'\breve | r2 d1 c2 | 
 

@@ -187,7 +187,6 @@ trebleKeyboardI = \relative c'' {
     \time 4/2
     \key f \major
     
-    \set Staff.midiInstrument="harpsichord"
     d1 c2 f |
     << 
       { 
@@ -271,7 +270,6 @@ bassKeyboardI = \relative c' {
     \time 4/2
     \key f \major
 
-    \set Staff.midiInstrument="harpsichord"
 
     R\breve*4 | r2
     << 

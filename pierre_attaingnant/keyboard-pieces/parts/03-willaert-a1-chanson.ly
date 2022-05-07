@@ -14,7 +14,6 @@ trebleIII = \relative c' {
     \key c \major
  %   \clef soprano
     \time 4/4
-    \set Staff.midiInstrument = "harpsichord"
     
     d4 d f16[ e f g] f8[ e] | f4 f g8[ f16 g] a[ g f g] | a1 |
         r2 a8[ b] c4 | b4 a a8[ gs] a16[ gs a32 gs fs gs] | 
@@ -74,7 +73,6 @@ bassIII = \relative c' {
     \key c \major
     \time 4/4
  %   \clef tenor
-     \set Staff.midiInstrument = "harpsichord"
     
                                                  % vvvvvvvv cs, but doesn't sound right
     r2 d4 d | d d c2 | r2 d8[ e] f4 | e d d8[ c] d16[ c b c] |

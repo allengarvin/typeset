@@ -1,4 +1,5 @@
 cantusXXIVincipit = \relative c'' {
+    \singleTime
     \time 3/2
     \clef "petrucci-g"
     \key c \major
@@ -26,6 +27,7 @@ cantusXXIV = \relative c'' {
 }
 
 altusXXIVincipit = \relative c'' {
+    \singleTime
     \time 3/2
     \clef "petrucci-c2"
     \key c \major
@@ -51,6 +53,7 @@ altusXXIV = \relative c'' {
 }
 
 tenorXXIVincipit = \relative c' {
+    \singleTime
     \time 3/2
     \clef "petrucci-c3"
     \key c \major
@@ -77,6 +80,7 @@ tenorXXIV = \relative c' {
 }
 
 bassusXXIVincipit = \relative c' {
+    \singleTime
     \time 3/2
     \clef "petrucci-f3"
     \key c \major

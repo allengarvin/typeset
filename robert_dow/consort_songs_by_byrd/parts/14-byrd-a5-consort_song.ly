@@ -145,7 +145,8 @@ mediusXIV = \relative c' {
         a f r2 | d' f ef d1 c2 ~ | c4 bf4 a1 g r2 | a1 d2 c2. bf4 g2 |
         a f r d' f \ficta ef \unficta | d1 c2. bf4 a1 | g\breve*3/2\fermata 
     
-    \bar "|." }
+    \bar "|."
+}
 
 contraXIVincipit = \relative c {
     \key f \major

@@ -12,8 +12,6 @@ cantusII = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
-\set Staff.midiInstrument="choir aahs"
-
     g1 c ~ | c c | \[ d( e) \] c\breve | R\breve*3 | c1.( b2) | a1 g | 
         a2( g c1 ~ | c2 b4 a b1) | c\breve | R\breve*2 | R\breve | r1 c ~ | 
         c2 c c1 | \[ d( e \] | 
@@ -106,7 +104,6 @@ altusII = \relative c' {
     %\clef alto
     \key c \major
 
-\set Staff.midiInstrument="choir aahs"
     R\breve*2 | g1 c ~ | c c | \[ d( e) \] | c\breve | R\breve*3 | c1.( b2) |
         a1 g | a2.( g4 c1 ~ | c2 b4 a b1) | c\breve | R\breve*3 | r1 c ~ |
         c2 c c1 | \[ d( e) \] | c\breve | R | c | a1 g | a2.( b4 c1 ~ | 
@@ -197,7 +194,6 @@ tenorII = \relative c' {
     %\clef alto
     \key c \major
 
-\set Staff.midiInstrument="choir aahs"
     R\breve*4 | g1 c ~ | c c | \[ d( e) \] | c\breve | R\breve | R\breve*2 | 
         c1.( b2) |
         a1 g | a2( g c1 ~ | c2 b4 a b1) | c\breve | R\breve*3 | r1 c ~ |
@@ -280,7 +276,6 @@ bassusII = \relative c {
     %\clef bass
     \key c \major
 
-\set Staff.midiInstrument="choir aahs"
     R\breve*4 | R\breve*2 | g1 c ~ | c c | \[ d( e) \] | c\breve | R\breve*3 |
         c1.( b2) | a1 g | a1.( b2) | c\breve | R\breve*2 | R\breve*2 | 
         r1 c ~ | c2 c c1 | \[ d( e) \] | c\breve | R\breve*2 | c\breve | 

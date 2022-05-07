@@ -8,7 +8,6 @@ cantoIincipit = \relative c'' {
 
 cantoI = \relative c'' {
     \key f \major
-    \set Staff.midiInstrument = "Flute"
     \fourTwoCommonTime
 
     R\breve*2 | r1 r2 d | d8[ c d e] f4 d e d f e ~ | e d2 cs4 d bf a2 | 
@@ -59,7 +58,6 @@ altoIincipitVoice = <<
 
 altoI = \relative c'' {
     \key f \major
-    \set Staff.midiInstrument = "Flute"
     \fourTwoCommonTime
 
     R\breve*2 | r1 r4 g g8[ f g a] | bf4 g a bf g bf a2 | 
@@ -107,10 +105,8 @@ tenoreIincipitVoice = <<
 >>
 
 tenoreI = \relative c' {
-    %\clef "treble_8"
     \key f \major
     \fourTwoCommonTime
-    \set Staff.midiInstrument = "Flute"
 
     r2 d d8[ c d e] f4 d | e d f e2 d2 cs4 | d bf a2 g1 |
         R\breve*2 | r1 r4 d' d8[ c d e] | f4 e2 d4 
@@ -145,7 +141,6 @@ bassoIincipit = \relative c' {
     \clef "petrucci-c4"
     \time 4/4
     \key f \major
-    \set Staff.midiInstrument = "Flute"
 
     g2
 }
@@ -160,7 +155,6 @@ bassoIincipitVoice = <<
 bassoI = \relative c' {
     \fourTwoCommonTime
     \key f \major
-    \set Staff.midiInstrument = "Flute"
 
     g2 g8[ e g a] bf4 g a bf | g bf a2 g4 fs g e | d g2 fs4 g1 |
         R\breve*2 | r4 g g8[ f g a] 

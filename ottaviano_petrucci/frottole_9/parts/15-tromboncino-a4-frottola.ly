@@ -71,8 +71,6 @@ altusXV = \relative c' {
     \fourTwoCommonTime
     \key c \major
 
-  \set Staff.midiInstrument="acoustic guitar (nylon)"
-
     \repeat volta 2 {
     r2 c2. d4 e2 ~ | e d4 c c2 e | d4 c b a g1 ~ | g g | e' d2. c4 |
         b2 c1 c2 ~ | c4 b a2 g1 | e e | 
@@ -104,7 +102,6 @@ tenorXV = \relative c' {
     \fourTwoCommonTime
     \key c \major
 
-  \set Staff.midiInstrument="acoustic guitar (nylon)"
     \repeat volta 2 { 
     c2 e1 d4 c | c2 e1 d4 c | b2 e2. d4 c2 ~ | c b4 a b1 | c2. b4 a g a2 |
         g2. f4 e1 | f2. e4 d c d2 | c1 c | 
@@ -135,7 +132,6 @@ bassusXV = \relative c {
     \fourTwoCommonTime
     \key c \major
 
-  \set Staff.midiInstrument="acoustic guitar (nylon)"
     \repeat volta 2 {
     c1 c | c c | g2 a c1 | g g | c d | g,2 c1. | f,1 g | g' g | 
     }

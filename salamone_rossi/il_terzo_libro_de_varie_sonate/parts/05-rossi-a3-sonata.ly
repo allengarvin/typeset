@@ -85,7 +85,7 @@ cantoPrimoV = \relative c' {
     ef8.[ f16] g2 g,4 | g a bf8.[ c16] d4 ~ | d a a2 | 
            g1 ~ | g2
           \clef treble
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         d''8[ e! d c] | b[ c b c] d[ b c d] | e[ f e f] g[ f e d] | e[ c d e] 
         f[ g f g] | a[ g a f] g[ f g e] | fs[ g fs g] a,[ a bf c] |
             d[ ef d c] bf[ a bf c] | d[ bf c a] bf[ bf c d] | ef[ g f ef] 

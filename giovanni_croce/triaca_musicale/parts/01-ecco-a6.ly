@@ -412,7 +412,6 @@ cantoTwoI = \relative c' {
     \fourTwoCommonTime
     \key f \major
 
-    \set Staff.midiInstrument = "trombone"
     R\breve*4 | 
         R\breve*3 | c2 c r1 | R\breve | 
         R\breve*4 | r1 r2 g | 
@@ -459,7 +458,6 @@ altoTwoI = \relative c' {
     \fourTwoCommonTime
     \key f \major
 
-    \set Staff.midiInstrument = "trombone"
     R\breve*4 | 
         R\breve*3 | a2 a r1 | R\breve | 
         R\breve*4 | r1 r2 e | 
@@ -506,7 +504,6 @@ bassoTwoI = \relative c {
     \fourTwoCommonTime
     \key f \major
 
-    \set Staff.midiInstrument = "trombone"
     R\breve*4 | 
         R\breve*3 | f2 f r1 | R\breve | 
         R\breve*4 | r1 r2 c | 

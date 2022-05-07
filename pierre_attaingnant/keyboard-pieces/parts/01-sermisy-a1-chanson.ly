@@ -13,7 +13,6 @@ trebleI = \relative c'' {
     \key f \major
  %   \clef soprano
     \time 4/4
-     \set Staff.midiInstrument = "harpsichord"
     
     \repeat volta 2 { 
     c16[ bf c d] c8[ d] c[ bf16 c] bf8[ a16 g] | 
@@ -56,7 +55,6 @@ bassI = \relative c' {
     \key f \major
 %    \clef tenor
     \time 4/4
-     \set Staff.midiInstrument = "harpsichord"
 
     \repeat volta 2 {
     <f f,>2 <f a, f>4 << { \stemUp d8[ e] } \\ { <bf g>4 } >> |

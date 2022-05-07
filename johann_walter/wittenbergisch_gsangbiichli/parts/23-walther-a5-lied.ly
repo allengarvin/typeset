@@ -1,4 +1,4 @@
-discantusIincipit = \relative c' { 
+discantusXXIIIincipit = \relative c' { 
     \time 2/2
     \clef "petrucci-c1"
     \key f \major 
@@ -7,11 +7,10 @@ discantusIincipit = \relative c' {
 }
 
 % checked against source
-discantusI = \relative c' { 
+discantusXXIII = \relative c' { 
     \fourTwoCutTime
     \key f \major 
 
-    \override Slur #'transparent = ##t
     R\breve*2 | f\breve | g1 g | f2 a2.( g4 f2 ~ | f e4 d e1) | 
         f1.( g2) | a2.( g4 a bf c2 ~ | c) bf4( a bf1) | c2( a g1) |
 
@@ -30,7 +29,7 @@ discantusI = \relative c' {
 
 }
 
-discantusLyricsI = \lyricmode {
+discantusLyricsXXIII = \lyricmode {
     Nun bit -- ten wir den __ Hei -- li -- gen __ Geist, __
         den Hei -- li -- gen Geist, __
     Um __ den rech -- ten Glau -- ben __ al -- ler __ meist,
@@ -40,7 +39,7 @@ discantusLyricsI = \lyricmode {
     Ky -- ri -- e -- lei -- son. __
 }
 
-altusIincipit = \relative c' { 
+altusXXIIIincipit = \relative c' { 
     \time 2/2
     \key f \major 
     \clef "petrucci-c3"
@@ -49,10 +48,9 @@ altusIincipit = \relative c' {
 }
  
 % checked against source
-altusI = \relative c' { 
+altusXXIII = \relative c' { 
     \fourTwoCutTime
     \key f \major 
-    \override Slur #'transparent = ##t
 
     R\breve*3 | c\breve | d1 d | c\breve | c | a | g | c | c | R\breve |
         e | g | a | g | 
@@ -66,7 +64,7 @@ altusI = \relative c' {
     \bar "|."
 }
 
-altusLyricsI = \lyricmode {
+altusLyricsXXIII = \lyricmode {
     Nun bit -- ten wir den Hei -- li -- gen Geist, 
     Um den rech -- ten Glau -- ben al -- ler __ meist,
     Daß er uns be -- hü -- te an un -- serm En -- de,
@@ -74,7 +72,7 @@ altusLyricsI = \lyricmode {
     Ky -- ri -- e -- lei -- son. 
 }
 
-tenorIincipit = \relative c { 
+tenorXXIIIincipit = \relative c { 
     \time 2/2
     \key f \major 
     \clef "petrucci-c4"
@@ -83,10 +81,9 @@ tenorIincipit = \relative c {
 }
 
 % checked against source
-tenorI = \relative c { 
+tenorXXIII = \relative c { 
     \fourTwoCutTime
     \key f \major 
-    \override Slur #'transparent = ##t
 
     R\breve*4 | f\breve | g1 g | f\breve | f | d | c | f | f | R\breve*2 |
         a\breve | c | d | c | a | f |
@@ -98,7 +95,7 @@ tenorI = \relative c {
     \bar "|."
 }
 
-tenorLyricsI = \lyricmode {
+tenorLyricsXXIII = \lyricmode {
     Nun bit -- ten wir den Hei -- li -- gen Geist, 
     Um den rech -- ten Glau -- ben al -- ler __ meist,
     Daß er uns be -- hü -- te an un -- serm En -- de,
@@ -106,7 +103,7 @@ tenorLyricsI = \lyricmode {
     Ky -- ri -- e -- lei -- son. __
 }
 
-bassusIincipit = \relative c { 
+bassusXXIIIincipit = \relative c { 
     \time 2/2
     \key f \major 
     \clef "petrucci-f4"
@@ -115,10 +112,9 @@ bassusIincipit = \relative c {
 }
     
 % checked against source
-bassusI = \relative c { 
+bassusXXIII = \relative c { 
     \fourTwoCutTime
     \key f \major 
-    \override Slur #'transparent = ##t
 
     R\breve | c\breve | d1 d | c\breve | R | c | f, | f | \[ g1( bf) \] |
         a2( f c'1) | r2 f,2.( g4 a2) | bf c d1 | \[ c( a \] | 
@@ -134,7 +130,7 @@ bassusI = \relative c {
     \bar "|."
 }
 
-bassusLyricsI = \lyricmode {
+bassusLyricsXXIII = \lyricmode {
     Nun bit -- ten wir den Hei -- li -- gen Geist, 
     \ijLyrics
         den __ Hei -- li -- gen Geist, __
@@ -152,7 +148,7 @@ bassusLyricsI = \lyricmode {
     Ky -- ri -- e -- lei -- son. 
 }
 
-vagansIincipit = \relative c { 
+vagansXXIIIincipit = \relative c { 
     \time 2/2
     \key f \major 
     \clef "petrucci-c4"
@@ -161,10 +157,9 @@ vagansIincipit = \relative c {
 }
 
 % checked against source
-vagansI = \relative c { 
+vagansXXIII = \relative c { 
     \fourTwoCutTime
     \key f \major 
-    \override Slur #'transparent = ##t
 
     f\breve | g1 g | f2 a2.( g4) f2 ~ | f e4( d) e1 | d\breve | 
         r1 g | a1.( bf2 | c1.) a2 | d\breve | e2 f1( e2 |
@@ -186,7 +181,7 @@ vagansI = \relative c {
     \bar "|."
 }
 
-vagansLyricsI = \lyricmode {
+vagansLyricsXXIII = \lyricmode {
     Nun bit -- ten wir den __ Hei -- li -- gen Geist, 
     \ijLyrics
     Nun bit -- ten wir den Hei -- li -- gen Geist, 
@@ -202,38 +197,38 @@ vagansLyricsI = \lyricmode {
     Ky -- ri -- e -- lei -- son. 
 }
 
-discantusIincipitVoice = <<
+discantusXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \discantusIincipit
+        \discantusXXIIIincipit
     >>
 >>
 
-altusIincipitVoice = <<
+altusXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altusIincipit
+        \altusXXIIIincipit
     >>
 >>
 
-tenorIincipitVoice = <<
+tenorXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenorIincipit
+        \tenorXXIIIincipit
     >>
 >>
 
-bassusIincipitVoice = <<
+bassusXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassusIincipit
+        \bassusXXIIIincipit
     >>
 >>
 
-vagansIincipitVoice = <<
+vagansXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \vagansIincipit
+        \vagansXXIIIincipit
     >>
 >>
 

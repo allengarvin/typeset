@@ -9,7 +9,6 @@ cantoVincipit = \relative c' {
 % canto: checked against source
 cantoV = \relative c' {
     \fourTwoCommonTime
-    \clef treble
     \key f \major
     
     f2 f4 f c' a8[ bf] c[ d e c] | d4 e f f e g8[ f] e4. d8 | 

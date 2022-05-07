@@ -45,7 +45,7 @@ cantoII = \relative c' {
         r2 a2. a4 f2 | g g e4 g8[ f] 
 
     e4 e8[ d] | 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         c2 r2 r4 c8[ bf] a4 a8[ g] | f2 r2 r4 f'8[ e] d4 d8[ c] |
             bf2 f' f g | \invisibleTime \time 2/2 f d 
     } 
@@ -142,7 +142,7 @@ altoII = \relative c' {
    
     r4 g'8[ f] | 
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         e4 e8[ d] c2 r2 r4 c8[ bf] | a4 a8[ g] f2 r2 r4 f'8[ e] |
         d4 d8[ c] bf4 bf a2 g | \invisibleTime \time 2/2 a bf 
     }
@@ -234,7 +234,7 @@ tenoreII = \relative c' {
         d4 f2 e4 f1 | r2 c2. c4 c2 |
 
     c b c1 | 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         r4 g'8[ f] e4 e8[ d] c2 r2 | r4 c8[ bf] a4 a8[ g] f2 r2 |
             r4 f'8[ e] d4 d8[ d] c2 c | \invisibleTime \time 2/2 d2. g,4 
     }
@@ -334,7 +334,7 @@ bassoII = \relative c {
     d d c c' bf g | a a g2 r4 f e c | d d c2 r r4 f | d2 c f1 |
         r2 f2. f4 a2 | g g c,1 |
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         r2 r4 c'8[ bf] a4 a8[ g] f2 | r2 r4 f8[ e] d4 d8[ c] bf2 ~ |
             bf bf2 f' e | \invisibleTime \time 2/2 d g
     }

@@ -11,12 +11,12 @@ cantoPrimoXII = \relative c''' {
     \key c \major
     \time 4/4
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         R1 | g8[ f e d] c4 d | e8[ d c d] e4 b | c8[ d e c] f2 | 
             e4 c d4. d8 | c[ b a g] f4 g | 
         a4 c d g8[ f] e[ d] c4 b a | d c d2 | e1 
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \singleTime \time 3/2  \threeFromOne
         
         g2
@@ -43,12 +43,12 @@ cantoSecondoXII = \relative c'' {
     \key c \major
     \time 4/4
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         d8[ c b a] g4 a | b b a8[ c b a] | g'[ f e d] c4 d |
             e,8[ f g e] a4 d |
         c8[ bf a g] f4 g | a c d2 | c4 a b2 | c4 a g c | b c2 b4 | c1
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \singleTime \time 3/2  \threeFromOne
         
         b2
@@ -73,12 +73,12 @@ bassoXIIincipit = \relative c' {
 bassoXII = \relative c' {
     \key c \major
     \time 4/4
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         g2 e4 fs | g2 a4 b | c4. b8 a4 f | c4. c8 d[ e f g] | a4 a bf2 |
             a8[ g f e] d4 c8[ b] | 
         a4 a' g8[ f e d] | c4. d8 e4 f | g4 a f g | c,1 
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \singleTime \time 3/2   \threeFromOne
         
         g'2

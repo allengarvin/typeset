@@ -15,7 +15,6 @@ cantoI = \relative c' {
     \key f \major
 
     s1*0 _\markup "Fortuna disparata"
-    \set Staff.midiInstrument = #"flute"
     f\breve | f1( e) | c\breve | r1 g' | a\breve | a1 a | a\breve | g | f ~ | 
         f1 d | d\breve | \[ e1 d \] | f f ~ | f e | f\breve | R | c' ~ | 
         c1 a | bf\breve | d1 c2 bf | a\breve | r1 a | g1. f2 | e1 e |
@@ -53,8 +52,6 @@ altoI = \relative c' {
     \key f \major
 
     s1*0 _\markup "Sancte Petre"
-    \set Staff.midiInstrument = #"trumpet"
-    \set Staff.midiMaximumVolume = #0.5
     c1 c | d c | R\breve*2 | c1 c2 c | d1 c | R\breve | r1 c | c2 c d1 | 
         c r1 | R\breve*3 | r1 c | c d | c r1 | R\breve*3 | r1 c | c2 c d1 |
         c r1 | R\breve*2 | c1 c | d c | R\breve*3 | r1
@@ -111,7 +108,6 @@ tenoreI = \relative c {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument = #"viola"
     s1*0 _\markup "Fortuna disparata"
     f1. g2 | a bf c1 ~ | c2 a1 g4 f | g1 g | 
         r1 \colorBr f2. \colorBrBegin g4 | a2. bf4 c2. d4 \colorBrEnd |
@@ -151,7 +147,6 @@ bassoI = \relative c {
     \key f \major
 
     s1*0 _\markup "Fortuna disparata"
-    \set Staff.midiInstrument = #"cello"
     f1. e2 | d1 a' ~ | a2 f1 e4 d | c\breve | f1. e2 | d4 e f g a2. bf4 | 
         c2 a2. g4 f2 | c d \[ c1 | f\] d | 
         r \colorBr g2. \colorBrBegin a4\colorBrEnd | 
@@ -186,8 +181,6 @@ quintoI = \relative c' {
     \key f \major
 
     s1*0 _\markup "Ora pro nobis"
-    \set Staff.midiInstrument = #"trombone"
-    \set Staff.midiMaximumVolume = #0.5
 
     R\breve*2 | c1 a2 bf | c1 c | R\breve*2 | c1 a2 bf | c\breve | R |
         R\breve*2 | c1 a2 bf | c\breve | R\breve | R | r1 c | a2 bf c1 |

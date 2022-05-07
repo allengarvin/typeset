@@ -41,7 +41,7 @@ cantoPrimoI = \relative c'' {
     fs d g e a2 | g8[ a g fs] e[ a, a' g] fs[ d g fs] | 
     e8[ g a g] fs[ d g fs] e4 fs | g2 g2. fs4 | g1. 
 
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         \time 4/4 \oneFromThree
         d,2 d4 d | d4. d8 g8[ fs g e] | a[ g a fs] b[ a b g] |
         c[ b c a] c[ b c a] | b4 r8 g'16[ f] e[ d c b] a[ g fs e] | 
@@ -100,7 +100,7 @@ cantoSecondoI = \relative c'' {
     a[ fs b a] g[ fs c' b] a[ d, d' c] | b4 g c a d c | 
     e c fs d g2 | d4 e a,1 | b1. |
 
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         \time 4/4\oneFromThree
         b,2 b4 b | b4. b8 e[ d e cs] | fs[ e fs d] g[ fs g e] | 
         a[ g a fs] a[ g a fs] | g[ d] e4. e8 fs4 ~ | fs8[ fs] g4. g8 a4 ~ | 
@@ -146,7 +146,7 @@ bassoI = \relative c {
     fs g a | b, c d | e fs g| a b c | d, e fs | g a b | c d, e | b d1 |
     g,1. |
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \time 4/4\oneFromThree
         g'2 g4 g | g2 e | d b4. c8 | b2 d, | g a4. a8 | b4. b8 c4. c8 | 
         d4. d8 e4. fs8 | g2 c, | c' c4 c | c2 a | g e4. f8 | d2 g, | 

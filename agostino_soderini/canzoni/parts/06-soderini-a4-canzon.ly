@@ -8,7 +8,6 @@ cantoVIincipit = \relative c'' {
 
 cantoVI = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key f \major
 
     c2 c4 c f,2 f4 c' | a bf c d e g8[ f] e[ d c d] | 

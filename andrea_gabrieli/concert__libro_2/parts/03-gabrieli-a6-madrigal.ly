@@ -5,7 +5,9 @@
 %
 %E starete a vedere
 %correr selvaggie fere.
-%Ecco dall'orto colta lattuca tenerina
+%Ecco dall'orto colta 
+%lattuca tenerina
+%spiegate è in crespa avolta
 %in cui par che s'affina
 %licor di nera oliva
 %che i desti sensi aviva.
@@ -76,7 +78,8 @@ cantoLyricsIII = \lyricmode {
     \normalLyrics
     cor -- rer sel -- vag -- gie fe -- re.
     Ec -- co,
-    ec -- co dal -- l'or -- to col -- ta lat -- tu -- ca te -- ne -- ri -- na,
+    ec -- co dal -- l'or -- to col -- ta 
+    Lat -- tu -- ca te -- ne -- ri -- na,
     \ijLyrics
         lat -- tu -- ca te -- ne -- ri -- na
     \normalLyrics
@@ -94,9 +97,9 @@ altoIIIincipit = \relative c'' {
     g2
 }
 
+% alto: checked against source
 altoIII = \relative c'' {
     \fourTwoCommonTime
-    \clef mezzosoprano
     \key f \major
 
     g2 bf4. a8 g4 g f8([ e d c] | d1) a'2 r4 a | bf g4. g8 g4 
@@ -122,6 +125,30 @@ altoIII = \relative c'' {
 }
 
 altoLyricsIII = \lyricmode {
+    Nel bel giar -- di -- n'en -- tra -- te,
+    Fe -- li -- ci~Al -- me ben na -- te,
+    nel bel giar -- di -- no~en -- tra -- te,
+    nel bel giar -- di -- no~en -- tra -- te,
+    fe -- li -- ci~Al -- me ben na -- te,
+    Che qui~u -- di -- re -- te~il can -- to
+        per o -- gni can -- to.
+    Che dol -- ce fan -- n'au -- gei per o -- gni can -- to.
+
+    E sta -- re -- te~a ve -- de -- re
+    Cor -- rer sel -- vag -- gie fe -- re,
+    cor -- rer sel -- vag -- gie fe -- re,
+        sel -- vag -- gie fe -- re.
+    Ec -- co,
+    ec -- co dal -- l'or -- to col -- ta 
+    Lat -- tu -- ca te -- ne -- ri -- na,
+        lat -- tu -- ca te -- ne -- ri -- na
+    Spie -- ga -- t'è~in cre -- spa~a -- vol -- ta
+    In cui par che s'af -- fi -- na
+    Li -- cor di ne -- ra~o -- li -- va,
+    \ijLyrics
+    li -- cor di ne -- ra~o -- li -- va
+    \normalLyrics
+    Che~i de -- sti sen -- si~a -- vi -- va.
 }
 
 tenoreIIIincipit = \relative c' {
@@ -132,9 +159,9 @@ tenoreIIIincipit = \relative c' {
     d4
 }
 
+% tenore: checked against source
 tenoreIII = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key f \major
 
     R\breve | r1 r2 r4 d | bf c4. c8 g4 d'2 g, | r2 d' f4. e8 d4 bf |
@@ -157,6 +184,23 @@ tenoreIII = \relative c' {
 }
 
 tenoreLyricsIII = \lyricmode {
+%    Nel bel giar -- di -- n'en -- tra -- te,
+    Fe -- li -- ci~Al -- me ben na -- te,
+    Nel bel giar -- di -- no~en -- tra -- te,
+    fe -- li -- ci~Al -- me ben na -- te,
+    Che qui~u -- di -- re -- te~il can -- to
+    Che dol -- ce fan -- n'au -- gei,
+    che dol -- ce fan -- n'au -- gei per o -- gni can -- to.
+
+    E sta -- re -- te~a ve -- de -- re
+    Cor -- rer sel -- vag -- gie fe -- re,
+    cor -- rer sel -- vag -- gie fe -- re,
+    cor -- rer sel -- vag -- gie fe -- re.
+    Ec -- co dal -- l'or -- to col -- ta
+    Spie -- ga -- t'è~in cre -- spa~a -- vol -- ta
+    In cui par che s'af -- fi -- na
+    Li -- cor di ne -- ra~o -- li -- va, __
+    Che~i de -- sti sen -- si~a -- vi -- va.
 }
 
 bassoIIIincipit = \relative c {
@@ -167,14 +211,15 @@ bassoIIIincipit = \relative c {
     d2
 }
 
+% basso: checked against source
 bassoIII = \relative c {
     \fourTwoCommonTime
-    \clef varbaritone
     \key f \major
 
     R\breve*3 | r1 d2 bf'4. a8 | g4 g f8([ e d c] d1) | a'2 r4 a
 
-    f4 g4. g8 d4 | a'2 d, r1 | R\breve*4 | r4 d' bf2 bf4 bf2 g4 | a fs
+    f4 g4. g8 d4 | a'2 d, r1 | R\breve*2 R\breve*2 | r4 d' bf2 bf4 bf2 g4 | 
+        a fs
 
     g4 g a1 | d,2 bf2. bf4 bf2 | bf4 bf bf1 bf2 | r1 r4 bf bf8[ c d e] |
         f2 c r4 c 
@@ -190,6 +235,22 @@ bassoIII = \relative c {
 }
 
 bassoLyricsIII = \lyricmode {
+    Nel bel giar -- di -- n'en -- tra -- te,
+    Fe -- li -- ci~Al -- me ben na -- te,
+    Che dol -- ce fan -- n'au -- gei per o -- gni can -- to.
+
+    E sta -- re -- te~a ve -- de -- re
+    Cor -- rer sel -- vag -- gie fe -- re,
+    cor -- rer sel -- vag -- gie fe -- re.
+%    Ec -- co,
+%    ec -- co dal -- l'or -- to col -- ta lat -- tu -- ca te -- ne -- ri -- na,
+        Lat -- tu -- ca te -- ne -- ri -- na,
+            te -- ne -- ri -- na
+    Spie -- ga -- t'è~in cre -- spa~a -- vol -- ta
+    In cui par che s'af -- fi -- na
+%    Li -- cor di ne -- ra~o -- li -- va,
+%    li -- cor di ne -- ra~o -- li -- va
+    Che~i de -- sti sen -- si~a -- vi -- va.
 }
 
 quintoIIIincipit = \relative c'' {
@@ -200,9 +261,9 @@ quintoIIIincipit = \relative c'' {
     d2
 }
 
+% quinto: checked against source
 quintoIII = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key f \major
 
     r1 r2 d | f4. e8 d4 d cs2 d4 f | f e4. e8 d4 d2 b |
@@ -215,7 +276,7 @@ quintoIII = \relative c'' {
     d2 f4 f f2 d4 bf | bf8[ c d e] f2 d1 | r2 c4 c8[ d] e[ f] g4 e2 |
         d4 d8[ c]
 
-    bf8[ g] g2 fs8[ e] fs2 | g1 g'2 fs | d d4 d e e f d | 
+    bf8[ a] g2( fs8[ e] fs2) | g1 g'2 fs | d d4 d e e f d | 
         r2 d e4. e8 fs4 g | e2 f4 d
 
     cs4. cs8 d4 bf | a2 b r1 | R\breve | r2 r4 d d c d8[ e] f4 |
@@ -229,6 +290,32 @@ quintoIII = \relative c'' {
 }
 
 quintoLyricsIII = \lyricmode {
+    Nel bel giar -- di -- n'en -- tra -- te,
+    Fe -- li -- ci~Al -- me ben na -- te,
+    nel bel giar -- di -- no~en -- tra -- te,
+    fe -- li -- ci~Al -- me ben na -- te,
+    \ijLyrics
+    fe -- li -- ci~Al -- me ben na -- te,
+    \normalLyrics
+%    Che qui~u -- di -- re -- te~il can -- to
+    Che dol -- ce fan -- n'au -- gei per o -- gni can -- to.
+
+    E sta -- re -- te~a ve -- de -- re
+    Cor -- rer sel -- vag -- gie fe -- re,
+    cor -- rer sel -- vag -- gie fe -- re,
+    \ijLyrics
+    cor -- rer sel -- vag -- gie fe -- re.
+    \normalLyrics
+    Ec -- co,
+    ec -- co dal -- l'or -- to col -- ta 
+    Lat -- tu -- ca te -- ne -- ri -- na,
+    lat -- tu -- ca te -- ne -- ri -- na
+    In cui par che s'af -- fi -- na,
+        par che s'af -- fi -- na
+    Li -- cor di ne -- ra~o -- li -- va,
+    li -- cor di ne -- ra~o -- li -- va
+    Che~i de -- sti sen -- si,
+    che~i de -- sti sen -- si~a -- vi -- va.
 }
 
 sestoIIIincipit = \relative c' {
@@ -239,9 +326,9 @@ sestoIIIincipit = \relative c' {
     d2
 }
 
+% sesto: checked against source
 sestoIII = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key f \major
 
     R\breve*3 | d2 f4. e8 d4 d g,2 | d' r4 d f4. e8 d4 d | cs2 d4 a
@@ -254,7 +341,7 @@ sestoIII = \relative c' {
     d2 | f4 f f2 d1 | bf4 bf8[ c] d[ e] f4 bf,2 r4 f | f8[ g a bf] c1 g4 g |
 
     g8[ a bf c] d1 d2 | r2 g1 d2 | r1 r2 d | e4. e8 f4 g e2 d4 d |  
-    cs4. cs8 d4 bf a2 d ~ | d d 
+    cs4. cs8 d4 bf a2 d ~ | d r 
 
     r2 e | c c d4 d c2 | d r4 bf bf a bf8[ c] d4 | bf2 r r r4 bf |
         f4. f8 g4. g8 
@@ -264,6 +351,31 @@ sestoIII = \relative c' {
 }
 
 sestoLyricsIII = \lyricmode {
+    Nel bel giar -- di -- n'en -- tra -- te,
+    \ijLyrics
+    nel bel giar -- di -- n'en -- tra -- te,
+    \normalLyrics
+    Fe -- li -- ci~Al -- me ben na -- te,
+    \ijLyrics
+    fe -- li -- ci~Al -- me ben na -- te,
+    \normalLyrics
+    Che qui~u -- di -- re -- te~il can -- to
+    Che dol -- ce fan -- n'au -- gei per o -- gni can -- to.
+
+    E sta -- re -- te~a ve -- de -- re
+    Cor -- rer sel -- vag -- gie fe -- re,
+    cor -- rer sel -- vag -- gie fe -- re,
+    \ijLyrics
+    cor -- rer sel -- vag -- gie fe -- re.
+    \normalLyrics
+    Ec -- co 
+    Lat -- tu -- ca te -- ne -- ri -- na,
+    lat -- tu -- ca te -- ne -- ri -- na
+    Spie -- ga -- t'è~in cre -- spa~a -- vol -- ta
+    In cui par che s'af -- fi -- na
+    Li -- cor di ne -- ra~o -- li -- va,
+    Che~i de -- sti sen -- si~a -- vi -- va,
+    che~i de -- sti sen -- si~a -- vi -- va.
 }
 
 cantoIIIincipitVoice = <<

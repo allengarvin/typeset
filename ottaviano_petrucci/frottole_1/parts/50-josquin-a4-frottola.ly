@@ -11,7 +11,6 @@ cantusL = \relative c'' {
     \fourTwoCutTime
     \key f \major
 
-\set Staff.midiInstrument="choir aahs"
     a1 a | bf2. a4 g2 f | e1( f | d\breve | e2 f1 e2) | f1 f4( g a bf |
         c\breve ~ | c1) bf | a1. g2 | f1 e | f\breve | e\fermata
     \repeat volta 2 { 
@@ -52,7 +51,6 @@ altusL = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-\set Staff.midiInstrument="flute"
     f1 f | f2. e4 d2 c | c\breve | r2 f1 e4 d | c2 bf c1 | a f2. g4 |
         a bf c1 a2 ~ | a c1 bf2 | c1 f,2 g~ | g f g c ~ | c bf4 a bf1 | 
         c\breve\fermata
@@ -89,7 +87,6 @@ tenorL = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-\set Staff.midiInstrument="flute"
     c1 c | d2. c4 bf2 a | g1 a | bf1. a2 | g f g1 | f c' | f,2. g4 a bf c d |
         e2 f1 e2 | f e4 d c2 c ~ | c bf c1 | f,\breve | g\fermata
         
@@ -124,7 +121,6 @@ bassusL = \relative c {
     \fourTwoCutTime
     \key f \major
 
-\set Staff.midiInstrument="flute"
     f1 f | bf, bf | c f | bf,\breve | c2 d c1 | c' a | r2 f2. g4 a bf | 
         c2 bf4 a g1 | f1. e2 | d1 c | d\breve | c\fermata |
     \repeat volta 2 {

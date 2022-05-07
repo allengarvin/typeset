@@ -5,7 +5,7 @@
 %Quest'è vicino aver l'ora suprema,
 %    e voi non la sentite?
 %O meraviglia di durezza estrema.
-%    Esser alma d'un core,
+%    Uscir l'alma d'un core,
 %e separarsi, e non sentir dolore.
 
 cantoXXincipit = \relative c'' {
@@ -16,9 +16,9 @@ cantoXXincipit = \relative c'' {
     a4
 }
 
+% canto: checked against source
 cantoXX = \relative c'' {
     \fourTwoCommonTime
-    \clef soprano
     \key f \major
 
     R\breve | r1 r4 a f4. e8 | d4 d g4. f8 e[ f] g2( fs4) | g g
@@ -38,7 +38,7 @@ cantoXX = \relative c'' {
 
     r4 a | bf8[ bf a g] a2 g r2 | R\breve | r1 r4 a bf8[ bf a g] | a4 a r2
 
-    r4 fs g8[ g f e] | fs4( g2 fs4) g1 | R\breve*2 | R\breve*2 | r1
+    r4 fs g8[ g \ficta fs!\unficta e] | fs4( g2 fs4) g1 | R\breve*2 | R\breve*2 | r1
     % --- page ---
 
     r2 r8 f[ f f] | f[ f g a] bf4. bf8 a4( bf a2) | g r2 r8 bf[ bf bf] 
@@ -80,7 +80,7 @@ cantoLyricsXX = \lyricmode {
         e voi non la sen -- ti -- te?
     \normalLyrics
 %    O me -- ra -- vi -- glia di du -- rez -- za e -- stre -- ma.
-%        Es -- ser al -- ma d'un co -- re,
+%        U -- scir al -- ma d'un co -- re,
     E se -- pa -- rar -- si~e non sen -- tir do -- lo -- re,
     \ijLyrics
     e se -- pa -- rar -- si~e non sen -- tir do -- lo -- re,
@@ -96,37 +96,81 @@ altoXXincipit = \relative c'' {
     g2
 }
 
+% alto: checked against source
 altoXX = \relative c'' {
     \fourTwoCommonTime
-    \clef alto
     \key f \major
 
-    g2 e4. d8 c2 r4 f | d4. c8 bf[ c] d2 cs4 d2 | R\breve | r4 d
+    g2 e4. d8 c2 r4 f | d4. c8 bf[ c] d2( cs4) d2 | R\breve | r4 d
 
     ef4 bf c4. d8 c2 | d r f2. f4 | e2 d1( cs2) | d1 r1 | R\breve*2 | 
         r1 f2. f4  |
 
-    g2 f4 f8[ e] e1 | fs4 d8[ e] f4 g2 f4 f e | f f8[ g] a4 b2 a4 a gs | 
+    g2 f4 f8[ e] e1 | fs4 d8[ e] f4 g2 f4 f( e) | f f8[ g] a4 b2 a4 a( gs) | 
         a2 r4 d, 
 
     b2 r2 | R\breve*2 | r4 d g e f8[ f f f] f2 | f r4 d g bf, c8[ c c c ] |
 
-    c2 c4 c d8[ d d d ] d4 cs | d2 r4 d d8[ c d e] f8. g16 f8. g16 |
+    c2 c4 c d8[ d d d ] d4( cs) | d2 r4 d d8[ c d e] f8.( g16 f8. g16 |
 
-    a4 a2 g8[ f] e2 e | r4 e f2 r4 fs g8[ g fs e] | fs4 g2 fs4 g d
+    a4) a2 g8[ f] e2 e | r4 e f2 r4 fs g8[ g fs e] | fs4( g2 fs4) g d
 
     e2 | r4 e f2 r4 e f8[ f e d] | e2 fs r1 | r4 f g8[ g f e] d1 ~ | d d |
         R\breve*2 | 
 
     e4. f8 g2 g4 g g( fs) | g2 r r r8 e[ e e] | e[ e f g] c,4 c c2 
+    % -- page ---
 
-    d8[ d d d] | d[ d e f] g4. g8 fs[ d] g2 fs4 | g8[ d d d] d[ d e f] 
+    d8[ d d d] | d[ d e f] g4. g8 fs([ d] g2 fs4) | g8[ d d d] d[ d e f] 
 
-    a8[ f f f] f[ f g a] | bf[ a] g2 fs4 g\longa*1/2
+    g2. f4 | e( f2 e4) f2. e4 | fs( g2 fs4) g2 r | 
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        r8 e[ e e] e[ e f g] 
+
+    a8[ f f f] f[ f g a] bf[ a] g2( fs4) | \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 altoLyricsXX = \lyricmode {
+    Voi pur da me,
+    \ijLyrics
+    voi pur da me
+    \normalLyrics
+        par -- ti -- te,
+    voi pur da me par -- ti -- te,
+        A -- ni -- ma du -- ra,
+        a -- ni -- ma,
+        a -- ni -- ma du -- ra,
+    Né vi duo -- le~il par -- ti -- re,
+    \ijLyrics
+    né vi duo -- le~il par -- ti -- re,
+    \normalLyrics
+    Oi -- mé % que -- st'è mo -- ri -- re
+    Cru -- del,
+    cru -- del e voi gio -- i -- te?
+    cru -- del,
+    cru -- del e voi gio -- i -- te?
+    cru -- del e voi gio -- i -- te?
+    Que -- st'è vi -- cin a -- ver __ l'o -- ra su -- pre -- ma,
+        e voi,
+        e voi non la sen -- ti -- te?
+        e voi,
+        e voi,
+        e voi non la sen -- ti -- te?
+        e voi non la sen -- ti -- te?
+%%    O me -- ra -- vi -- glia di du -- rez -- za e -- stre -- ma.
+        U -- scir l'al -- ma d'un co -- re,
+    E se -- pa -- rar -- si~e non sen -- tir do -- lo -- re,
+    e se -- pa -- rar -- si~e non sen -- tir do -- lo -- re,
+    \ijLyrics
+    e se -- pa -- rar -- si~e non sen -- tir do -- lo -- re,
+    \normalLyrics
+        do -- lo -- re,
+    e se -- pa -- rar -- si~e non sen -- tir,
+    \ijLyrics
+    e se -- pa -- rar -- si~e non sen -- tir
+    \normalLyrics
+        do -- lo -- re.
 }
 
 tenoreXXincipit = \relative c' {
@@ -137,14 +181,14 @@ tenoreXXincipit = \relative c' {
     d4
 }
 
+% tenore: checked against source
 tenoreXX = \relative c' {
     \fourTwoCommonTime
-    \clef tenor
     \key f \major
 
     r1 r2 r4 d | bf4. a8 g4 fs a2 d, | r4 bf' bf bf c d a2 | bf4. bf8 
 
-    bf4 g a8[ a] bf2 a4 | bf2 d2. d4 c2 | bf2. a4 r1 | r2 d2. d4 c2 |
+    bf4 g a8[ a] bf2( a4) | bf2 d2. d4 c2 | bf2. a4 r1 | r2 d2. d4 c2 |
         b1 a2 a4. a8 | 
 
     % --- page ---
@@ -155,27 +199,57 @@ tenoreXX = \relative c' {
         d r2 r4 g, g8[ g a a] | a2 a4 a
 
     a8[ a bf bf] a2 | a r2 r1 | R\breve*2 | r1 r2 r4 bf | 
-        c2 r4 c d8[ d c bf] c4 d ~ | d( cs) d2 r4 fs, 
+        c2 r4 c d8[ d c bf] c4( d ~ | d cs) d2 r4 fs, 
 
-    g8[ g f e] | f4 f r2 r4 a bf8[ bf a g] | a4 bf16[ a bf g] a2 b1 |
-        R\breve | \key c \major R\breve r2 g4. a8 
+    g8[ g f e] | f4 f r2 r4 a bf8[ bf a g] | a4( bf16[ a bf g] a2) b1 |
+        R\breve | % \key c \major 
+        R\breve r2 g4. a8 
 
-    bf4 g8[ g] a2 | \key f \major g2 r8 g[ g g] g[ g a bf] c2 ~ |
-        c4 bf a bf2 a4 bf2 | r2 r8[ g bf g] 
+    b4 g8[ g] a2 | %\key f \major 
+        g2 r8 g[ g g] g[ g a bf] c2 ~ |
+        c4 bf a( bf2 a4) bf2 | r2 r8 g[ bf g] 
 
     d'4. c8 d2 | g, r2 r8 g[ g g] g[ g a bf] | c4. bf8 c2 f,8[ f' f e] d4 c |
 
-    d8[ a bf c] d2 g,8[ bf bf bf] bf[ bf c d] | e[ c c c] c4 bf
+    d8[ a bf c] d2 g,8[ bf bf bf] bf[ bf c d] | 
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        e8[ c c c] c4 bf
 
-    a4 d r8 d[ d d] | d4 d d2 d\longa*1/2
-
-
-
-    
+    a4 d r8 d[ d d] d4 d d2 | \invisibleTime\time 4/2 d\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXX = \lyricmode {
+    Voi pur da me par -- ti -- te,
+    voi pur da me par -- ti -- te,
+    voi pur da me par -- ti -- te,
+        A -- ni -- ma du -- ra,
+        a -- ni -- ma du -- ra,
+        a -- ni -- ma du -- ra,
+        a -- ni -- ma __ du -- ra,
+    Oi -- mé,
+    oi -- mé __ que -- st'è mo -- ri -- re
+    Cru -- del,
+    cru -- del e voi gio -- i -- te?
+    cru -- del e voi gio -- i -- te?
+    \ijLyrics
+    cru -- del e voi gio -- i -- te?
+    \normalLyrics
+%    Que -- st'è vi -- cin a -- ver l'o -- ra su -- pre -- ma,
+        e voi,
+        e voi non la sen -- ti -- te?
+        e voi non la sen -- ti -- te?
+    \ijLyrics
+        e voi non la sen -- ti -- te?
+    \normalLyrics
+        U -- scir l'al -- ma d'un co -- re,
+    E se -- pa -- rar -- si~e non sen -- tir __ do -- lo -- re,
+        e non sen -- tir do -- lo -- re,
+    e se -- pa -- rar -- si~e non sen -- tir do -- lo -- re,
+    e se -- pa -- rar -- si~e non sen -- tir do -- lo -- re,
+    e se -- pa -- rar -- si~e non sen -- tir,
+        e non sen -- tir do -- lo -- re,
+        e non sen -- tir do -- lo -- re.
 }
 
 bassoXXincipit = \relative c' {
@@ -199,7 +273,7 @@ bassoXX = \relative c' {
         d, r4 bf8[ c] d4 bf8[ bf] c2 | f r4 d8[ e] 
 
     f4 d8[ d] e2 | a, r2 r1 | R\breve | r1 r2 r4 d | g2 r4 c, f8[ f d bf] f2 |
-        bf2 r s1*0^\markup "Rest here?"
+        bf2 r % s1*0^\markup "Rest here?"
 
     r4 g c8[ c a f] | c'2 f,4 f' d8[ d bf g] a2 | d1 r1 | R\breve | r4 c d2 
 
@@ -211,13 +285,52 @@ bassoXX = \relative c' {
     b4 a b2 e | c4. d8 \key f \major e2 e4 g d2 | g, r r r8 c[ c c] |
 
     % --- page ---
-    c8[ c d e] f4. ef8 f2 bf, | R\breve*3 | r1 g8[ g g g] g[ a bf c] 
+    c8[ c d e] f4. ef8 f2 bf, | R\breve*2 R\breve | r1 g8[ g g g] g[ a bf c] 
 
-    c8[ c c c] c4 d8[ e] f2. ef4 | d1 g,\longa*1/2
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+    c8[ c c c] c4 d8[ e] f2. ef4 d1 | \invisibleTime\time 4/2 g,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXX = \lyricmode {
+    Voi pur da me par -- ti -- te,
+    \ijLyrics
+    voi pur da me par -- ti -- te,
+    \normalLyrics
+        A -- ni -- ma du -- ra,
+        a -- ni -- ma du -- ra,
+        a -- ni -- ma du -- ra,
+        a -- ni -- ma, __
+        a -- ni -- ma du -- ra,
+    Né vi duo -- le~il par -- ti -- re,
+    \ijLyrics
+    né vi duo -- le~il par -- ti -- re,
+    \normalLyrics
+%    Oi -- mé que -- st'è mo -- ri -- re
+    Cru -- del,
+    \ijLyrics
+    cru -- del
+    \normalLyrics
+        e voi gio -- i -- te?
+    \ijLyrics
+        cru -- del e voi gio -- i -- te?
+        cru -- del e voi gio -- i -- te?
+    \normalLyrics
+        e voi,
+        e voi non la sen -- ti -- te?
+        e voi,
+        e voi non la sen -- ti -- te?
+    \ijLyrics
+        e voi non la sen -- ti -- te?
+    \normalLyrics
+    O me -- ra -- vi -- glia di du -- rez -- za~e -- stre -- ma.
+        U -- scir l'al -- ma d'un co -- re,
+    E se -- pa -- rar -- si~e non sen -- tir do -- lo -- re,
+    e se -- pa -- rar -- si~e non sen -- tir
+    \ijLyrics
+    e se -- pa -- rar -- si~e non sen -- tir
+    \normalLyrics
+        do -- lo -- re.
 }
 
 bassoContinuoXXincipit = \relative c {
@@ -228,9 +341,9 @@ bassoContinuoXXincipit = \relative c {
     g2
 }
 
+% basso: checked against source
 bassoContinuoXX = \relative c {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     g2 c a d4 d' | bf4. a8 g4 fs a2 d, | g ef4. d8 c4 bf d2 |
@@ -249,14 +362,15 @@ bassoContinuoXX = \relative c {
 
     d2 ef4 c d1 ~ | d g, | g'2. ef4 ef2 d | \key c \major d4. c8 b4 a 
 
-    b2 e | c4. d8 e2 \key bf \major e4 g d2 | g, g' e4 d c4. c8 |
+    b2 e | c4. d8 e2 \key f \major e4 g d2 | g, g' e4 d c4. c8 |
         c4 c8[ d] 
 
     f4. e8 f2 bf, | \clef alto d'4 e8[ f] g[ g, bf g] d'4. c8 d2 | 
         g, bf4 a g2. a4 |
 
-    c4. bf8 c2 f,4 f'8[ e] d4 cs | d8[ a bf c] d2 \clef bass g4 g, g a8[ bf] |
-        c4 c c4 d8[ e] f2. ef4 | d1 g,\longa*1/2
+    c4. bf8 c2 f,4 f'8[ e] d4 cs | d8[ a bf c] d2 \clef bass g,4 g, g a8[ bf] |
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        c4 c c4 d8[ e] f2. ef4 d1 |\invisibleTime\time 4/2 g,\longa*1/2
         
     \bar "|."
 }

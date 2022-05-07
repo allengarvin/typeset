@@ -19,7 +19,6 @@ trebleI = \relative c'' {
     \clef treble
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
 
     % ugh, can I move this down?
     % page 1
@@ -169,7 +168,6 @@ bassI = \relative c {
     \clef bass
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
 
     \partial 2
     <c g' c>2 | 

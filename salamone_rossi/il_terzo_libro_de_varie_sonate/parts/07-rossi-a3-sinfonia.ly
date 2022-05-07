@@ -11,7 +11,7 @@ cantoPrimoVII = \relative c' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         r1 d2 ~ d8[ e16 f] g[ a bf c] | d4 a bf2 a8[ d a bf] c4 c |
             bf2 a8[ d a bf] c4 a 
 
@@ -21,7 +21,7 @@ cantoPrimoVII = \relative c' {
     \alternative {
         {d8.[ c16 bf8. a16] a2 g1 } {d'8.[ c16 bf8. a16] a2 g2 r4 bf } 
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         c4 d2 c16[ bf a g] fs4 g a4. g16[ f] | e4 e f d e d d' c | 
         bf8[ c d bf] c2 bf 
 
@@ -53,7 +53,7 @@ cantoSecondoVII = \relative c' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         d2 ~ d8[ e16 f] g[ a bf c] d4 a bf2 | a4 fs g2 fs r8 a[ e f] | g4 g
 
         f8.[ g16 f8. g16] a4 f2 e4 | f a2 g4 a d2 cs4 |
@@ -62,7 +62,7 @@ cantoSecondoVII = \relative c' {
     \alternative { 
         { fs4 g2 fs4 g1 } { fs4 g2 fs4 g2 bf }
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         a2 g d' r4 f, | g a2 g16[ f e d] cs4 f bf c | 
             d8[ c] bf2 a4 bf2 
 
@@ -92,12 +92,12 @@ bassoVII = \relative c' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         g1 fs2 g | d g, d' a4 c | g2 d' a4. bf8 c2 | f,4 f' d e f d g a | 
         d, g2 g4 f2 ef |
     }
     \alternative { { d4 c d2  g,1 } { d'4 c d2 g,2 g' } }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         f2 ef d2. d4 | c2 bf a4 bf g a | bf a8[ g] f2 bf2. bf4 | a2
 
         g f4 f' d f | c a bf g a1 | d4 a bf g a bf g c | f, e' f d e f d g | 

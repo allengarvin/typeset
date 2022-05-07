@@ -51,7 +51,6 @@ luteLVIII = \relative c'' {
     \fourTwoCommonTime
     \key f \major
 
-    \set Staff.midiInstrument=#"acoustic guitar (nylon)"
 
 
     <a e cs a,>4 a, <fs' d d,> a-. <a e b e,> gs-. <a e cs a,> a, | 

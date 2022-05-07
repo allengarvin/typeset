@@ -12,7 +12,7 @@ cantoI = \relative c'' {
     \key c \major
     \set Staff.instrumentName = "Canto"
 
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         d2 d4 e | d4. d8 d4 d | c b a2 | a1 | r4 e'4. e8 e4 |
 
         d b b2 | a4 a4. a8 a4 | g g g a | 
@@ -20,7 +20,7 @@ cantoI = \relative c'' {
     \alternative 
         g g fs g
     }
-    \repeat "volta" { 
+    \repeat volta { 
         \invisibleTime \time 4/2
         g4 b8[ \melisma a] b[ c ] d2 \melismaEnd |
             d4 g fs2 g4 d2 f4 | e2 d r4 c a c | }
@@ -60,7 +60,7 @@ altoI = \relative c' {
    
     r4 g'8[ f] | 
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         e4 e8[ d] c2 r2 r4 c8[ bf] | a4 a8[ g] f2 r2 r4 f'8[ e] |
         d4 d8[ c] bf4 bf a2 g | \invisibleTime \time 2/2 a bf 
     }
@@ -106,7 +106,7 @@ bassoI = \relative c {
     d d c c' bf g | a a g2 r4 f e c | d d c2 r r4 f | d2 c f1 |
         r2 f2. f4 a2 | g g c,1 |
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         r2 r4 c'8[ bf] a4 a8[ g] f2 | r2 r4 f8[ e] d4 d8[ c] bf2 ~ |
             bf bf2 f' e | \invisibleTime \time 2/2 d g
     }

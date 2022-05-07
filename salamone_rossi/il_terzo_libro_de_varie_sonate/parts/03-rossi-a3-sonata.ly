@@ -39,7 +39,7 @@ cantoPrimoIII = \relative c'' {
     d8[ ef16 d] c8[ d16 c] bf8[ c16 bf] g8[ a16 bf] a2 r |
     r bf8[ c16 d] c8[ d16 ef] | d8[ e16 f] e8[ f16 g] fs8[ g16 fs] g[ fs e fs] |
     g2  \bar "||" d8[ ef d c]
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         bf[ c bf c] d[ ef d c] | bf[ c d c] bf[ a bf g] |
         a[ bf c bf] a[ f a bf] | c[ g' f e] d[ bf c d] | 
         c[ ef d c] bf[ d c bf] | a[ a bf c] d[ c bf g] |

@@ -11,7 +11,6 @@ cantusXXVIII = \relative c'' {
     \fourTwoCutTime
     \key f \major
 
-%\set Staff.midiInstrument="choir aahs"
     \partial 2 r2 | R\breve*3 | r2 c c c | bf bf a( g4 f) | e2 a g f |
         f e f r | c' r a r | c r f, r | c'1 a2.( bf4 | c2) d bf( a ~ | 
         a g4 f e2) g | c, f f e |
@@ -60,7 +59,6 @@ altusXXVIII = \relative c {
     \fourTwoCutTime
     \key f \major
 
-%\set Staff.midiInstrument="choir aahs"
     \partial 2 r2 | R\breve*3 | r2 f a a | g g f4( g a bf) | c2 c bf a | 
         g g f1 ~ | f c'2 r | a r c r | f, c'1( d2 | e f1) f2 | f f, g1( | 
         a2 d) c1 | a r2 c | c c c c | f1 r2 
@@ -108,7 +106,6 @@ tenorXXVIII = \relative c {
     \fourTwoCutTime
     \key f \major
 
-%\set Staff.midiInstrument="choir aahs"
     \partial 2 f2 | a a bf bf | c1 c2 d | c f f e | f1 r1 | R\breve*2 | 
         r1 r2 c | r a r c | r f, r f | c' a1( g4 f | g2) d'1( c4 bf) | c1. bf2 |
         a bf g g | f1 r2
@@ -153,7 +150,6 @@ bassusXXVIII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-%\set Staff.midiInstrument="choir aahs"
     \partial 2 c2 | 
         c c d d | c4( bf a g) a2 bf | a f g g | f1 r | R\breve*3 | r1 f | 
         f2 r a c | r f,1( e4 d | c2) bf1 f'2 ~ | f( e4 d) c2 ef | f( bf,) c1 |

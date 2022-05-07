@@ -55,16 +55,16 @@ cantoLyricsXI = \lyricmode {
     Vo me -- su -- ran -- do~a __ pas -- si __ tar -- di~e len -- ti,
         e __ len -- ti,
     E gli~oc -- chi por -- to per fug -- gir in -- ten -- ti
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi,
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi, 
-        la re -- na stam -- pi. __
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi,
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi, 
+        l'a -- re -- na stam -- pi. __
  
     Al -- tro scher -- mo non tro -- vo che mi scam -- pi,
     Al -- tro scher -- mo non tro -- vo che mi scam -- pi
     Dal ma -- ni -- fe -- sto~ac -- cor -- ger de le gen -- ti,
     Dal ma -- ni -- fe -- sto~ac -- cor -- ger de le gen -- ti,
     Per -- ché ne gli~at -- ti d'al -- le -- grez -- za spen -- ti
-    Di fuor si leg -- ge com' io den -- tro~a -- vam -- pi.
+    Di fuor si leg -- ge co -- m'io den -- tro~av -- vam -- pi.
 }
 
 altoXIincipit = \relative c'' {
@@ -113,10 +113,10 @@ altoLyricsXI = \lyricmode {
     Vo me -- su -- ran -- do~a __ pas -- si tar -- di~e len -- ti,
     E gli~oc -- chi por -- to per fug -- gir,
     E gli~oc -- chi por -- to __ per fug -- gir in -- ten -- ti
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi,
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi, 
-        la re -- na stam -- pi, 
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi, 
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi,
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi, 
+        l'a -- re -- na stam -- pi, 
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi, 
  
     Al -- tro scher -- mo non tro -- vo che mi scam -- pi,
     Al -- tro scher -- mo non tro -- vo che mi scam -- pi
@@ -125,7 +125,7 @@ altoLyricsXI = \lyricmode {
         de le gen -- ti,
     Per -- ché ne gli~at -- ti d'al -- le -- grez -- za spen -- ti
     Per -- ché ne gli~at -- ti d'al -- le -- grez -- za spen -- ti
-    Di fuor si leg -- ge com' io den -- tro~a -- vam -- pi.
+    Di fuor si leg -- ge co -- m'io den -- tro~av -- vam -- pi.
 }
 
 tenoreXIincipit = \relative c'' {
@@ -175,10 +175,10 @@ tenoreLyricsXI = \lyricmode {
     Vo me -- su -- ran -- do,
     Vo me -- su -- ran -- do~a pas -- si tar -- di~e len -- ti,
     E gli~oc -- chi por -- to per fug -- gir in -- ten -- ti
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi,
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi,
     O -- ve ve -- sti -- gio~hu -- man,
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi, 
-        la re -- na stam -- pi. 
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi, 
+        l'a -- re -- na stam -- pi. 
  
     Al -- tro scher -- mo non tro -- vo che mi scam -- pi, __
     Al -- tro scher -- mo non tro -- vo che mi scam -- pi
@@ -186,7 +186,7 @@ tenoreLyricsXI = \lyricmode {
         de le gen -- ti,
     Per -- ché __ ne gli~at -- ti d'al -- le -- grez -- za spen -- ti,
     Per -- ché ne gli~at -- ti d'al -- le -- grez -- za spen -- ti
-    Di fuor si leg -- ge com' io den -- tro~a -- vam -- pi.
+    Di fuor si leg -- ge co -- m'io den -- tro~av -- vam -- pi.
 }
 
 bassoXIincipit = \relative c' {
@@ -235,10 +235,10 @@ bassoLyricsXI = \lyricmode {
     Vo me -- su -- ran -- do,
     Vo me -- su -- ran -- do~a pas -- si tar -- di~e len -- ti,
     E gli~oc -- chi por -- to per fug -- gir in -- ten -- ti
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi,
-         la re -- na stam -- pi,
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi,
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi.
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi,
+         l'a -- re -- na stam -- pi,
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi,
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi.
  
     Al -- tro scher -- mo non tro -- vo che mi scam -- pi,
     Al -- tro scher -- mo non tro -- vo che mi scam -- pi,
@@ -248,7 +248,7 @@ bassoLyricsXI = \lyricmode {
     Dal ma -- ni -- fe -- sto~ac -- cor -- ger de le gen -- ti,
     Dal ma -- ni -- fe -- sto~ac -- cor -- ger de le gen -- ti,
     Per -- ché ne gli~at -- ti d'al -- le -- grez -- za spen -- ti
-    Di fuor si leg -- ge com' io den -- tro~a -- vam -- pi.
+    Di fuor si leg -- ge co -- m'io den -- tro~av -- vam -- pi.
 }
 
 quintoXIincipit = \relative c'' {
@@ -293,9 +293,9 @@ quintoLyricsXI = \lyricmode {
     Vo me -- su -- ran -- do~a pas -- si tar -- di~e len -- ti,
     E gli~oc -- chi por -- to per fug -- gir in -- ten -- ti
         per fug -- gir in -- ten -- ti
-    O -- ve ve -- sti -- gio~hu -- man __ la re -- na stam -- pi,
-        la re -- na stam -- pi,
-    O -- ve ve -- sti -- gio~hu -- man la re -- na stam -- pi. 
+    O -- ve ve -- sti -- gio~hu -- man __ l'a -- re -- na stam -- pi,
+        l'a -- re -- na stam -- pi,
+    O -- ve ve -- sti -- gio~hu -- man l'a -- re -- na stam -- pi. 
  
     Al -- tro scher -- mo non tro -- vo che mi scam -- pi,
         che mi scam -- pi, __
@@ -303,7 +303,7 @@ quintoLyricsXI = \lyricmode {
     Dal ma -- ni -- fe -- sto~ac -- cor -- ger de le gen -- ti,
     Per -- ché ne gli~at -- ti d'al -- le -- grez -- za spen -- ti,
     Per -- ché ne gli~at -- ti d'al -- le -- grez -- za spen -- ti
-    Di fuor si leg -- ge com' io den -- tro~a -- vam -- pi.
+    Di fuor si leg -- ge co -- m'io den -- tro~av -- vam -- pi.
 }
 
 cantoXIincipitVoice = <<

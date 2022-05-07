@@ -6,7 +6,7 @@ cantusIII = \relative c'' {
     g4. g8 d'4 g | f ef d4. bf8 | 
         c4 d c4. bf8 | a1 | c4. c8 d4 bf | g bf
 
-    a4. d8 | cs4 d e4. d8 | d2 \repeat "volta" 2 {
+    a4. d8 | cs4 d e4. d8 | d2 \repeat volta 2 {
         f | c4 a bf a8[ g] | fs2 r4 d' | c4 bf a4. g8 | 
         g1\fermata
     }
@@ -28,7 +28,7 @@ altusIII = \relative c' {
         a4. a8 f4 d | g g fs a | a g 
 
     % e4 corrected to e2:
-    e2 | fs \repeat "volta" 2 {
+    e2 | fs \repeat volta 2 {
         a | a8[ g f e] d4 d | d a' bf2 | a8[ g] f2 fs4 | g1\fermata
     }
     \bar "|."
@@ -49,7 +49,7 @@ tenorIII = \relative c' {
         f' bf, c2 | d1 | % r2 removed
         c4. a8 a4 bf | bf g a f' | e d 
 
-    d4 cs | d2 \repeat "volta" 2 { 
+    d4 cs | d2 \repeat volta 2 { 
         d4 c8[ bf] | a4 c bf bf | a2 f' | f4 d d2 |
         d1\fermata
     }
@@ -71,7 +71,7 @@ bassusIII = \relative c' {
 
     f2 | bf,1 | f'4. f8 d4 g | g g, d'4. d8 | a'4 bf 
 
-    a2 | d, \repeat "volta" 2 {
+    a2 | d, \repeat volta 2 {
         d4. e8 | f4 f g g, | d'4. c8 bf2 | f4 g d'2 |
         g,1\fermata
     }

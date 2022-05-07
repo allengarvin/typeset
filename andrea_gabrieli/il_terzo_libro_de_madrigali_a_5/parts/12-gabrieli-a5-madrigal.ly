@@ -24,7 +24,7 @@ cantoXIIincipit = \relative c'' {
 % canto: checked against source
 cantoXII = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
+    \key c \major
 
     e1 e2 e | f e d1 | cs r | R\breve | r1 r2 e ~ | e e e1 | f2 e d1 |
         cs r | r2 r4 e e4. e8 d4 c | b2 b4 cs cs d 
@@ -256,7 +256,6 @@ quintoXIIincipit = \relative c'' {
 
 quintoXII = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key c \major
 
     cs1 cs2 cs | d c bf4.( a8 g[ f] g4) | a2 r b1 | b2 b c b | a1 gs |

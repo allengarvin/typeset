@@ -42,6 +42,36 @@ cantusII = \relative c'' {
         g,2\melisma \[ bf1 \colorBr a2 \colorBrBegin ~ |
         a4 \] g4\colorBrEnd g1 \ficta fs2\unficta\melismaEnd | g\breve~
         g~g\longa*1/2
+    \bar "||"
+    R\breve*2 R\breve*3 | r2 g g g | d' e f( e4 d | 
+        c2) d2.\melisma\ficta cs8[ b] cs!2\unficta\melismaEnd | d\breve |
+        r1 d2. d4 | d2 d ef1 | d r1 | d2. d4 d2 d | bf( c 
+
+    \[ a1 | bf) \] a | r2 a f bf | bf g a2.( bf4 | \[ c1 bf) \] |
+        a g2 bf ~ | bf a a d ~ | d c c a | bf a1 f'2 ~ | 
+        f4\melisma\ficta e d2. cs8[ b] cs!2\unficta\melismaEnd | d\breve |
+        R | r1 d ~ | d2 d bf d | 
+
+    c2 bf a2.( bf4 | c2 bf1 a2 | g1) a ~ | a\breve | r2 a1 c2 | bf a1 d2 |
+        c bf a1 | g1 r1 | r1 r2 d' | f c2.( a4 d2) | e f2.\melisma e4 d2 |
+        c4 a d2.\ficta cs8[ b] cs!2\unficta\melismaEnd | 
+
+    d\breve | r1 d | d2 d1 c2 ~ | c bf( a2. g4 | f d d'2. c4 bf2 ~ |
+        bf) a r1 | a1. a2 | bf c d1 | c bf2( g | bf1) a | r1 d | 
+        d2 c d2.( c4 | bf2) a g1 | r1
+
+    a1 ~ | a a | d1. d2 | bf bf a1 | f bf2 bf ~ | bf a g1 | r1 a | 
+        d\breve | \[ c1( f ~ | f2 \] e d c | \[ bf1 g) \] | a a | bf d ~ |
+        d d | R\breve | r1 r2 g, | d'1 d2 bf ~ | bf4( g d'2. e4
+
+    f2 ~ | f4 e d1 c4 bf | a2) bf2.( a8[ g] a2) | bf1 bf | a2 g d'1 ~ |
+        d2 d bf c | g1 a2( bf ~ | bf g \[ c1 | bf) \] g | r1 r2 d' |
+        f2. f4 ef2 d | c bf a1 | 
+    % --- page ---
+    r2 a1 d2 ~ | d c bf a | c d1 bf2 ~ | 
+        bf g2.\melisma\ficta fs8[ e] fs!2\unficta\melismaEnd | g d' bf c ~ |
+        c d r d ~ | d d f ef | d\breve | b\longa*1/2
+
     \bar "|."
 }
 

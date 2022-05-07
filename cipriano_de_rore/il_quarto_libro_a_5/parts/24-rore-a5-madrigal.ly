@@ -28,7 +28,6 @@ cantusXXIVincipit = \relative c'' {
 % cantus: checked against source
 cantusXXIV = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key c \major
 
     d2 a1 a2 | e'1 e2 e | e d1 e2 | f1 e2 r4 ds ~ | ds ds ds2 ds4 ds e2 ~ |

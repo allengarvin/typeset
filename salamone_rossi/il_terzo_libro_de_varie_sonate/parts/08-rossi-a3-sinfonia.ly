@@ -11,7 +11,7 @@ cantoPrimoVIII = \relative c'' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         r1 d8[ e f e] d4 d | c8[ bf a bf] c4 f, g d'2 cs4 | 
             d8[ e f e ] d4 d c d c8[ bf a c] |
 
@@ -21,7 +21,7 @@ cantoPrimoVIII = \relative c'' {
     }
     \alternative { { g1 } { g2 r4 d'8[ e] } }
     \invisibleTime\time 4/2
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         f4 f g g a4. g8 f4 bf,8[ a] | g[ a] bf2 a4 bf2 r4 g8[ a] | 
         bf4 bf c c d4. e8 f4 a | g f e2 d
 
@@ -48,7 +48,7 @@ cantoSecondoVIII = \relative c'' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         g8[ a bf a] g4 g f8[ e d e] f4 g | 
         a8[ bf c bf] a[ bf c a] bf4 a bf g | f c' f, bf 
 
@@ -59,7 +59,7 @@ cantoSecondoVIII = \relative c'' {
     }
     \alternative { { g1 } { g2 bf } }
         \invisibleTime\time 4/2
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         a4. bf8 c2 c r4 g8[ a] | bf4 bf c c d4. c8 bf4. a8 | 
             g[ a] bf2 a4 bf2 a4 c |
 
@@ -88,7 +88,7 @@ bassoVIII = \relative c' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         g2. a4 bf2 bf, | f'2. a4 g fs g e | d a bf8[ c d e] f[ e d e] f4 f | 
         g8[ a bf a] 
 
@@ -97,7 +97,7 @@ bassoVIII = \relative c' {
     }
     \alternative { { g,1 } { g2 g' } } 
     \invisibleTime\time 4/2
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         f4 f2 e4 f2. g8[ f] | ef4 d c f 
 
         bf,2 ef!8[ f g f] | ef4 d c f bf, bf' f2 | g a d, g | f

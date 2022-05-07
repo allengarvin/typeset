@@ -11,7 +11,7 @@ cantoPrimoX = \relative c'' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         d2 ~ d8[ c16 bf] a4 bf2 ~ bf8[ a16 g] fs4 | 
         g4. a8 bf8[ c d bf] c4 f4. e16[ d] c4 | d4. c8 d[ e f d]
 
@@ -20,7 +20,7 @@ cantoPrimoX = \relative c'' {
         \invisibleTime\time 2/2
         g1 |
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \singleTime \time 3/2 \threeFromOne 
 
         R1. | d'2 c bf | a2. bf4 c2 | bf a g | c bf4 c d e | f2 c1 |
@@ -50,7 +50,7 @@ cantoSecondoX = \relative c'' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         r1 d2 ~ d8[ c16 bf] a4 | bf4. a8 g[ a bf g] a4. g8 a8[ bf c a] |
             bf4. a8 bf[ c d bf] c4 d2 cs4 | 
 
@@ -58,7 +58,7 @@ cantoSecondoX = \relative c'' {
         \invisibleTime\time 2/2
             g1
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \singleTime
         \time 3/2 \threeFromOne 
 
@@ -90,14 +90,14 @@ bassoX = \relative c' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         g2 fs g4 g,8[ a] bf[ c] d4 | g,2 g f f | bf bf a4 g a2 | 
             d2 d c c | f bf,4 a bf4. c8 d2 |
 
         \invisibleTime\time 2/2
         g,1
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         \singleTime
         \time 3/2 \threeFromOne 
 

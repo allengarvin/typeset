@@ -1,4 +1,5 @@
 cantusXXVincipit = \relative c'' {
+    \singleTime
     \time 3/2
     \clef "petrucci-g"
     \key f \major
@@ -28,6 +29,7 @@ cantusXXV = \relative c'' {
 }
 
 altusXXVincipit = \relative c' {
+    \singleTime
     \time 3/2
     \clef "petrucci-c2"
     \key f \major
@@ -57,6 +59,7 @@ altusXXV = \relative c' {
 }
 
 tenorXXVincipit = \relative c' {
+    \singleTime
     \time 3/2
     \clef "petrucci-c3"
     \key f \major
@@ -87,6 +90,7 @@ tenorXXV = \relative c' {
 }
 
 bassusXXVincipit = \relative c {
+    \singleTime
     \time 3/2
     \clef "petrucci-f3"
     \key f \major

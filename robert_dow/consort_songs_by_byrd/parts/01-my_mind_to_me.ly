@@ -1,6 +1,4 @@
 superiusMyMind = \relative c'' {
-    \set Staff.instrumentName = "Superius"
-    \set Staff.midiInstrument = "recorder"
     \key f \major
     \time 6/2
 
@@ -38,8 +36,6 @@ superiusLyricsModernMyMind = \lyricmode {
 }
 
 mediusMyMind = \relative c' {
-    \set Staff.instrumentName = "Medius"
-    \set Staff.midiInstrument = "recorder"
     \key f \major
     \time 6/2
 
@@ -57,8 +53,6 @@ mediusMyMind = \relative c' {
 }
 
 contraMyMind = \relative c' {
-    \set Staff.instrumentName = "Contra"
-    \set Staff.midiInstrument = "recorder"
     \key f \major
     \time 6/2
 
@@ -75,8 +69,6 @@ contraMyMind = \relative c' {
 }
 
 tenorMyMind = \relative c {
-    \set Staff.instrumentName = "Tenor"
-    \set Staff.midiInstrument = "recorder"
     \key f \major
     \time 6/2
 
@@ -93,8 +85,6 @@ tenorMyMind = \relative c {
 }
 
 bassusMyMind = \relative c {
-    \set Staff.instrumentName = "Bassus"
-    \set Staff.midiInstrument = "recorder"
     \key f \major
     \time 6/2
 

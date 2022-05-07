@@ -13,7 +13,6 @@ cantoI = \relative c'' {
     \clef soprano
     \key f \major
 
-    \set Staff.midiInstrument=#"voice oohs"
 
     r1 g | bf2 a bf2. c4 | d2 d r1 | r2 d d d | c a bf1 | a r1 |
         r1 r2 a | bf bf
@@ -47,15 +46,11 @@ luteInotes = \relative c' {
     \key f \major
     \time 4/2 
 
-    \set Staff.midiInstrument=#"acoustic guitar (nylon)"
 }
 
 luteI = \relative c'' {
     \key f \major
     \time 4/2 
-
-    %\set Staff.midiInstrument = #"lute"
-    \set Staff.midiInstrument=#"acoustic guitar (nylon)"
 
     g1 bf2. a4 | g2 fs <g g,>1 | <d bf g\5>2. a4 <d bf g\5>2 <a fs> | 
         <bf g\5> d4 b\4 <f' d d,>2 <f d> | e f g <d g,> 

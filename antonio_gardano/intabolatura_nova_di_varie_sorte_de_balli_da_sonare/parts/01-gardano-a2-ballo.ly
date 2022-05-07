@@ -11,7 +11,6 @@ trebleI = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
     \repeat volta 2 {
     r2 d d d4 e | d c b a b2 g' | 
         g4 g8[ fs] g[ fs e fs] g4 \ficta f\unficta e d | 
@@ -46,7 +45,6 @@ bassI = \relative c' {
     \fourTwoCutTime
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
 
     \repeat volta 2 {
     r2 <g d' g> <g d' g>1 ~ | <g d' g>2 <g d' g> <g d' g>1 ~ | 

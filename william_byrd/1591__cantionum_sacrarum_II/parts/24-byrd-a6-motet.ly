@@ -1009,7 +1009,6 @@ bassusXXIVincipit = \relative c {
 % bassus: checked against source (all 3 parts)
 bassusXXIV = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key bf \major
 
     R\breve*4 | R\breve*5 R\breve*5 R\breve*5 R\breve*2 | r2 bf1 ef2 ~ |

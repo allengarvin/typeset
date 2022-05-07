@@ -10,7 +10,7 @@ cantoPrimoXI = \relative c''' {
     \key c \major
     \time 4/4
 
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         R1 | g4 g8[ g] g4 f | e c8[ d] e[ f g e] | fs4 g2 fs4 | 
             g4 g8[ g] g4 f | e2 d | c4 c8[ c] c4 b | a 
         c2 b4 | e8[ f] g2 fs4 | g d e c | d4. c16[ b] a2 |
@@ -19,7 +19,7 @@ cantoPrimoXI = \relative c''' {
         { b1 }
         { b2 r }
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         r4 a b8[ c d b] | c4 e c8[ d e c] | d4 g 
         e8[ f g e] | f4 f d8[ e f d] | e4 f e2 | d r | 
             r8 d[ e f] g4 f | e4. d8 e8[ c d e] | f[ c d e] f4 e | d c
@@ -43,7 +43,7 @@ cantoSecondoXIincipit = \relative c'' {
 cantoSecondoXI = \relative c'' { 
     \key c \major
     \time 4/4
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         d4 d8[ d] d4 c | b g8[ a] b[ c d b] | c4 e8[ d] c[ b a g] |
             a4 b! a2 | g4 b4. c8[ d b] | c[ g g g] 
         g4 f | e c8[ d] e[ f g e] | fs4 g a d | c4. b8 a2 | 
@@ -53,7 +53,7 @@ cantoSecondoXI = \relative c'' {
         { g1 }
         { g4 d' b8[ c d b]  }
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         c4. b16[ a] 
         g4 f | e c' a8[ b c a] | b4. a8 g2 | a4 d b8[ c d b] | cs4 d2 cs4 |
             d8[ a b c] d4 c | b4. a8 b[ g a b] | c[ g a b]
@@ -78,7 +78,7 @@ bassoXIincipit = \relative c' {
 bassoXI = \relative c' {
     \key c \major
     \time 4/4
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         g2 fs | g g, | c2. e4 | d b c d | e2. d4 | c2 b | c2. g4 |
             d'4 e fs g | c,2 d | e4 b
         c a | b4. c8 d2 |
@@ -87,7 +87,7 @@ bassoXI = \relative c' {
         { g,1 }
         { g2 g' }
     }
-    \repeat "volta" 2 { 
+    \repeat volta 2 { 
         f2 e4 d | a'2 a | g c, | f4 d g d | 
             a' g8[ f] g[ e] a4 | d,4. c8
         b4 a | g g'8[ f] e4 d | c c8[ b] a4 g | f4 f'8[ e] d4 c | 

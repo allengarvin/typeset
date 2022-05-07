@@ -10,7 +10,6 @@ violinoPrimoXXXVII = \relative c''' {
     \fourTwoCommonTime
     \key c \major
 
-    \set Staff.midiInstrument = "violin"
 
     g2 g4 d e2 e4 b | c4. b8 a4 d g,1 | R\breve | d'2 d4 b d2 r4 d8[ c] |
         b4 b8[ a] g2 r4 g8[ a] b4 d | c8[ d e f] 
@@ -50,7 +49,6 @@ violinoSecondoXXXVII = \relative c''' {
     \fourTwoCommonTime
     \key c \major
 
-    \set Staff.midiInstrument = "violin"
     R\breve | r1 g2 g4 d | e2 e4 b c4. b8 a4 d | g,1 r1 | 
         g'2 g4 e g2 r4 g8[ f] | e4 e8[ d] c2. b4
 
@@ -88,7 +86,6 @@ bassoXXXVII = \relative c' {
     \fourTwoCommonTime
     \key c \major
 
-    \set Staff.midiInstrument = "trombone"
     R\breve*4 | R\breve*2 | r1 g2 g4 d | e2 e4 b c4. b8 a4 d | g,1 r1 | 
         R\breve*3 | c2 c4 g' a2 a4 e |
 
@@ -115,7 +112,6 @@ BassoOrganoXXXVII = \relative c' {
     \fourTwoCommonTime
     \key c \major
 
-    \set Staff.midiInstrument = "organ"
     g1 c,2. g'4 | a4. g8 fs2 g1 | c2 c4 g c, e fs2 | g1 g2 d | e1 e2 b |
 
     c2. b4 a g d'2 | g,1 g'2 g4 d | e2 e4 b c4. b8 a4 d | g,1 c | 

@@ -12,7 +12,6 @@ cantoXXIX = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument=#"voice oohs"
 
     d\breve | cs1 d | e f | g2.( f4 e2 d) | cs1 r2 e | f f g a | bf1. a2 |
         g2. a4 bf2( a ~ |
@@ -105,7 +104,6 @@ luteXXIXnotes = \relative c' {
     \key f \major
     \time 4/2 
 
-    \set Staff.midiInstrument=#"acoustic guitar (nylon)"
 }
 
 % Lute: checked against source
@@ -113,8 +111,6 @@ luteXXIX = \relative c' {
     \key f \major
     \time 4/2 
 
-    %\set Staff.midiInstrument = #"lute"
-    \set Staff.midiInstrument=#"acoustic guitar (nylon)"
 
     <a f d>1 <a f d> | <a e a,> <a fs d> | <c g c,> <d bf bf,> |
         <d bf g,>2. <c a\3>4 <bf g>2. f4 | <a e a,>1 r2 <cs a\3 a,> |

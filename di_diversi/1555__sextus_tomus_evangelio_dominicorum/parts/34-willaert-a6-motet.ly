@@ -17,7 +17,6 @@ cantusXXXIV = \relative c'' {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     a\breve | d | c1. c2 | c c1 f2 ~ | f f f1 | e e | r1 e | f2 f1 e2 | d1 d |
         e1. e2 | f1 f~ | f d2 d | e1. e2 |
     % --- page ---
@@ -74,7 +73,6 @@ altusXXXIV = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     d\breve | d | e1. f2 | f\breve | R | r2 g1 g2 ~ | g g a1 | a\breve |
         a | r1 g | f2 a1 a2 | a1 g | g1. g2 | f1 a ~ | a d, | r1 r2 bf' ~ |
         bf g1 g2 |
@@ -137,7 +135,6 @@ tenorXXXIV = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     r1 a ~ | a b | c1. a2 | a a1 a2 ~ | a a2 a1 | c\breve g1 r1 | d a'2 a ~ |
         a a2 f1 | g c1 ~ | c2 c2 a1 | \[ a( bf) \] | g r1 | R\breve | 
         R\breve*2 | r1 bf1
@@ -197,7 +194,6 @@ bassusXXXIV = \relative c {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="choir aahs"
     r1 d ~ | d g | c,1. f2 | f1 f | d1. d2 | c1 c ~ | c a | r1 a | d2 d1 d2 |
         c1 c | f1. f2 | d1 g | c, r | 
     % --- page ---  
@@ -257,7 +253,6 @@ quintusXXXIV = \relative c' {
     \fourTwoCutTime
     \key f \major
         
-    \set Staff.midiInstrument="choir aahs"
     fs\breve ~ | fs1 g | g1. c,2 | c\breve | r1 d | g,1. g2 | c\breve |
         a2.( bf4 c1) | f, a | c2 c1 g2 | a1 c | d1. d2 | c1 c ~ | c a |
 
@@ -321,7 +316,6 @@ sextusXXXIV = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument="trombone"
     R\breve*4 | R\breve | e1. e2 | e1 e | d e | f\breve | e | R\breve*4 |
         R\breve | d1. d2 | d1 d | c d | ef\breve | d | R\breve*4 | R\breve
 

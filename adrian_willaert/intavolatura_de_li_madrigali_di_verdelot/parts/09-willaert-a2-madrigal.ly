@@ -11,7 +11,6 @@ cantoIX = \relative c'' {
     \fourTwoCutTime
     \key f \major
 
-    \set Staff.midiInstrument=#"voice oohs"
 
     c\breve | d1. c2 | bf1 c | c1. a2 | bf a g1 | a\breve | r2 f bf bf |
         a2. g4 f2 e |
@@ -44,7 +43,6 @@ luteIXnotes = \relative c' {
     \key f \major
     \time 4/2 
 
-    \set Staff.midiInstrument=#"acoustic guitar (nylon)"
 }
 
 rhythmIX = \relative c { 
@@ -67,9 +65,6 @@ rhythmIX = \relative c {
 luteIX = \relative c'' {
     \key f \major
     \time 4/2 
-
-    %\set Staff.midiInstrument = #"lute"
-    \set Staff.midiInstrument=#"acoustic guitar (nylon)"
 
     <a f f,>1 <a f f,> | <bf f bf,>1. <a f f,>2
     <g d g,>1 <g e\3 c,> | <a f f,>1. <f c f,>2

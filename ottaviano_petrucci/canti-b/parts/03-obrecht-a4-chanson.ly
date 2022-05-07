@@ -9,75 +9,72 @@ cantusIIIincipit = \relative c'' {
 % cantus: checked 2nd part
 cantusIII = \relative c'' {
     \fourTwoCutTime
-    \key c \major
 
     \ficta s1*0 _\markup "Jay pris amours"
-    a\breve c1 c | b\breve e, | r1 g a b | c b2 g a1 g |
-    r b c d | e d2 b c a1 b2 | a f g1 a\breve | r\breve a\breve | c1 b\breve g1 |
-    a \[ g\breve c1 ~ | c \] b1 c\breve | r\breve c\breve | b1 g a\breve | g1 e r a1 ~ | 
-    a g1 a1. b2 | g\breve r | g a1. g2 | f e e\breve d1 | e\breve r1  
+    a1 c2 c | b1 e, | r2 g a b | c b4 g a2 g |
+    r b c d | e d4 b c a2 b4 | a f g2 a1 | r1 a1 | c2 b1 g2 |
+    a \[ g1 c2 ~ | c \] b2 c1 | r1 c1 | b2 g a1 | g2 e r a2 ~ | 
+    a g2 a2. b4 | g1 r | g a2. g4 | f e e1 d2 | e1 r2  
     % line one
 
-    b'1 | b b c1. b4 a | g1 a b g1 ~| g fs1 g\breve | r1 e f g | a e r g |
-    a g c1. b2 | a1 g c b2 e ~ | e d2 b1 c a ~ | a g1 a\breve ~ | a
+    b'2 | b b c2. b8[ a] | g2 a b g2 ~| g fs2 g1 | r2 e f g | a e r g |
+    a g c2. b4 | a2 g c b4 e ~ | e d4 b2 c a ~ | a g2 a1 ~ | a
     % line two, flip page
 
-    r1 a ~ | a b1 c2 b4 a g2 a ~ | a bf2 a d1 cs4 b cs!1 | d g, r\breve |
-    r\breve r1 g2. a4 | b2 a1 gs2 a4 g f e d1 | r2 a'1 g2
-    \unficta a bf1 a4 g | f\breve. e1 | \ficta d1. c4 bf c2 d1 cs2 | 
-    d f2. e4 a1 g2 a1 ~ | a\breve \[ g\breve | a \] r\breve | r\breve r1 a ~ | a g1. f4 e f2 e | 
-    f1 d2 a'2. b4 c2. b4
+    r2 a ~ | a b2 c4 b8[ a] g4 a ~ | a bf4 a d2 cs8[ b] cs!2 | d g, r1 |
+    r1 r2 g4. a8 | b4 a2 gs4 a8[ g f e] d2 | r4 a'2 g4
+    \unficta a bf2 a8[ g] | f1. e2 | \ficta d2. c8[ bf] c4 d2 cs4 | 
+    d f4. e8 a2 g4 a2 ~ | a1 \[ g1 | a \] r1 | r1 r2 a ~ | a g2. f8[ e] f4 e | 
+    f2 d4 a'4. b8 c4. b8
     
     % page two, line one
 
-    g2 | a c1 b2 a c1 b4 a | g2 a1 gs2 a\breve | R\breve*2 | r\breve c1 a2 c2 ~| 
-    c4 b4 a g a2 g4 f e2 g a c | b a1 gs2 a1 f2 g2 ~ | 
-    g4 f4 e d c1 r d | e2. f4 g2 a g c b a | r d1 cs2 d1 g,2 a ~ | 
-    a b2 c a1 g4 f e1 | r e f2 d f g | a b 
+    g4 | a c2 b4 a c2 b8[ a] | g4 a2 gs4 a1 | R\breve | r1 c2 a4 c4 ~| 
+    c8[ b8 a g] a4 g8[ f] e4 g a c | b a2 gs4 a2 f4 g4 ~ | 
+    g8[ f8 e d] c2 r d | e4. f8 g4 a g c b a | r d2 cs4 d2 g,4 a ~ | 
+    a b4 c a2 g8[ f] e2 | r e f4 d f g | a b 
     % page two, line two
 
-    c2. b4 a g a1 g2 | a\breve*2 | a\breve. b1 | c1. a2. g4 f e f1 |
-    g2. a4 b c b2 a c2. b4 a2 | 
-    gs\longa*1/2\fermata \bar "||" \break
+    c4. b8 a[ g] a2 g4 | a1 r1 | a1. b2 | c2. a4. g8[ f e] f2 |
+    g4. a8 b[ c] b4 a c4. b8 a4 | gs\longa*1/2\fermata \bar "||" \break
 
     % GOT 4/2 DOWN TO HERE
     % page two, line three, flip page
 
-    R\breve*2 | R\breve g2. a8 b c2 b | g2. f4 e2 d1 c1 b2 | 
-    c c'1 a2 b d2. c4 b a | g2 a1 g2 a c2. bf4 a2 ~ | 
-    a4 g4 g1 fs2 g b1 a2 | b c1 b4 a b2 a r g ~ | g c1 b2 c1. b4 a | 
-    g1 r R\breve | e1. d2 e c g'1 ~| g2 fs2 fs! e g4 a b c d2 
+    R\breve | r1 g4. a16[ b] c4 b | g4. f8 e4 d2 c2 b4 | 
+    c c'2 a4 b d4. c8[ b a] | g4 a2 g4 a c4. bf8 a4 ~ | 
+    a8[ g8] g2 fs4 g b2 a4 | b c2 b8[ a] b4 a r g ~ | g c2 b4 c2. b8[ a] | 
+    g2 r r1 | e2. d4 e c g'2 ~| g4 fs4 fs! e g8[ a b c] d4 
     % page three, line one
 
-    e2 ~| e4 d4 c b a2 d1 cs4 b cs!1 | d b r2 b c2. d4 | 
-    e2 d1 c4 b c2 b c b4 a | b2 g a1 R\breve | r1 g2. a4 bf2 a2. g4 f e | 
-    d1 r2 g1 a2 d, g2 ~| g4 a4 b1 a1 g2 a f | g f4 e d1 r2 d'2. c4 b a | 
-    b2 a1 g2 a\breve | d,\breve r1 d' | c a2 
+    e4 ~| e8[ d8 c b] a4 d2 cs8[ b] cs!2 | d b r4 b c4. d8 | 
+    e4 d2 c8[ b] c4 b c b8[ a] | b4 g a2 r1 | r2 g4. a8 bf4 a4. g8[ f e] | 
+    d2 r4 g2 a4 d, g4 ~| g8[ a8] b2 a2 g4 a f | g f8[ e] d2 r4 d'4. c8[ b a] | 
+    b4 a2 g4 a1 | d,1 r2 d' | c a4 
     % page three, line two
 
     \unficta
-    bf2. a4 \ficta f2. g4 a bf! | a2 g1 fs2 g1 r2 g ~ | 
-    g a1 g4 f g2 f4 e d2 g ~ | g a1 g4 f g2. a4 b c d2 ~| 
-    d c2 r d1 cs2 d1 | b r2 c2. b4 g2. a4 b2 | a1 r2 d c e2. d4 c2 | 
-    b a1 gs2 
+    bf4. a8 \ficta f4. g8[ a bf!] | a4 g2 fs4 g2 r4 g ~ | 
+    g a2 g8[ f] g4 f8[ e] d4 g ~ | g a2 g8[ f] g4. a8 b[ c] d4 ~| 
+    d c4 r d2 cs4 d2 | b r4 c4. b8 g4. a8 b4 | a2 r4 d c e4. d8 c4 | 
+    b a2 gs4 
     % page three, line three, flip page
 
-    a\breve | r1 c1 b2. c4 d2 b | c1 a2 c b a1 gs2 | a g4 f e2 g f a g b |
-    a1 r a b | c2 b4 a g2 f e a1 gs2 | a1 r1 R\breve | c1 a2 c2. b4 c d e1 | 
-    a,2 c2. b4 a1 gs4 fs gs!1 | a2 c2. b4 a g a1 g | r2 e1 c2 b2. a4 b1 | 
+    a1 | r2 c2 b4. c8 d4 b | c2 a4 c b a2 gs4 | a g8[ f] e4 g f a g b |
+    a2 r a b | c4 b8[ a] g4 f e a2 gs4 | a2 r2 r1 | c2 a4 c4. b8[ c d] e2 | 
+    a,4 c4. b8 a2 gs8[ fs] gs!2 | a4 c4. b8[ a g] a2 g | r4 e2 c4 b4. a8 b2 | 
     a r 
     % page four, line one
 
-    e'2. f4 g a g2 ~ | g fs4 e fs!1 g r | R\longa | 
-    c1. b4 a g2. a4 b c d2 | c a1 gs2 a1. g4 f | e1 d e2 d4 c b1 | 
-    a4 b c d e f g1 fs2 g b | a1 r2 c2. b4 g2. a4 b c | 
-    b2 e,2. f4 g a g2 c, r c'2 ~ | c4 b4 a1 gs2 a2. b4 c2 
+    e'4. f8 g[ a] g4 ~ | g fs8[ e] fs!2 g r | R\breve | 
+    c2. b8[ a] g4. a8 b[ c] d4 | c a2 gs4 a2. g8[ f] | e2 d e4 d8[ c] b2 | 
+    a8[ b c d] e[ f] g2 fs4 g b | a2 r4 c4. b8 g4. a8[ b c] | 
+    b4 e,4. f8[ g a] g4 c, r c'4 ~ | c8[ b8] a2 gs4 a4. b8 c4 
     % page four, line two
 
-    d2 ~| d4 c4 b a g1 r c1 | b2 d2. c4 b a g2 b2. c4 d2 | 
-    c a1 gs2 a c b1 | e, r R\breve | R\breve a1. b2 | c1 b2 g1 a1 b2 | 
-    a c2. b4 a2 g a1 gs2 | 
-    a\longa*1/2
+    d4 ~| d8[ c8 b a] g2 r c2 | b4 d4. c8[ b a] g4 b4. c8 d4 | 
+    c a2 gs4 a c b2 | e, r r1 | r1 a2. b4 | c2 b4 g2 a2 b4 | 
+    a c4. b8 a4 g a2 gs4 | a\longa*1/2
     % page four, line three, end
 
     \bar "|."
@@ -94,7 +91,6 @@ altusIIIincipit = \relative c'' {
 
 % altus: checked against source
 altusIII = \relative c'' {
-    \key c \major
     \fourTwoCutTime
     
     \ficta
@@ -174,7 +170,6 @@ tenorIIIincipit = \relative c' {
 }
 
 tenorIII = \relative c' {
-    \key c \major
     \fourTwoCutTime
 
     \ficta
@@ -251,7 +246,6 @@ bassusIIIincipit = \relative c {
 }
 
 bassusIII = \relative c {
-    \key c \major
     \fourTwoCutTime
 
     d1 a'2 f | g b a1 | d,2 e4. d8 c4 d b2 | a r4 c2 d4 e g4 ~ | 

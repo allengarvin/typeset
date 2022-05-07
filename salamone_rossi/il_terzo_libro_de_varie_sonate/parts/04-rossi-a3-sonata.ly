@@ -58,7 +58,7 @@ cantoPrimoIV = \relative c'' {
         d d | e4 g2 fs4 | g1 ~ | g2 d | d
     d ~ | d cs4. d16[ e] | a,1 ~ | a2 a2 | a d4 c | b a b g | a2 b4 c |
         d2 d | c b4. e8 | a,1 | 
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         g4 d'8[ c] b[ c d e] | d[ c b c] d[ c b a] |
         b[ b c d] e[ b c d] | e[ f e d] c[ b c a] | b[ c d e] d[ b c d] |
             e8 g4 fs8 g[ e d c] | b[ d c b] a[
@@ -180,7 +180,7 @@ bassoIV = \relative c' {
         g2 g' | g f | e1 | d ~ | d2 d | d d | e1 | d1 ~ | d2 b |
 
     c e | d1 | 
-    \repeat "volta" 2 {
+    \repeat volta 2 {
         g,1 ~ |  g2 g' | g4 f e d | c b c d | g, a b g | c d e fs | 
             g e f d | e d e c |
         d e fs g | a b g a | d, c b a | g fs' g a | d, e d c | b g a b |

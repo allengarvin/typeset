@@ -12,9 +12,6 @@ cantoII = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
-    %\set Staff.midiInstrument=#"voice oohs"
-    %\set Staff.midiInstrument=#"acoustic guitar (nylon)"
-
     R\breve*2 | a1 g2 e | f2. g4 a2 f | g a f1 ~ | f e ~ | e r1 |
 
     r2 a2 a g | a2. a4 g2 g | e a2. g4 f e | f1 e ~ | e r1 | r2 a a g |
@@ -42,15 +39,12 @@ luteIInotes = \relative c' {
     \key c \major
     \time 4/2 
 
-    %\set Staff.midiInstrument=#"acoustic guitar (nylon)"
 }
 
 luteII = \relative c'' {
     \key c \major
     \time 4/2 
 
-    %\set Staff.midiInstrument = #"lute"
-    %\set Staff.midiInstrument=#"acoustic guitar (nylon)"
 
     g1 <f d>2 d | <e c> <f a,> <g bf,> <g e\3 c\4> | 
         <f d> <g d bf> <e\3 c\4> <f d> | <g ds g,> d <d g,> g |

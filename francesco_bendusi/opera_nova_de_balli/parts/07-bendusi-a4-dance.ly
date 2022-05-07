@@ -10,7 +10,6 @@ cantusVII = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
     a2 a gs a | b4 a b c b2 c | b a gs1 ~ | gs2 b c a | b2. a8[ b] c2 b |
         a1 gs | a2. a4 gs2 a | b4 a b c b2 c |
 
@@ -38,7 +37,6 @@ altusVII = \relative c {
     \fourTwoCutTime
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
     e2. f4 e2 e | g1 g2 e ~ | e c4 d e2. d4 | e2 e e f | g g e1 ~ | 
         e2 d e1 | e2. f4 e2. f4 | g1 g2 e ~ | e c4 d e2. d4 |
 
@@ -68,7 +66,6 @@ tenorVII = \relative c' {
     \fourTwoCutTime
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
     c1 b2 c | d1 d2 c | g a b1 | b2 b c1 | d c2 g | a1 b | c b2 c | d1 d2 c |
         g a b1 | b2 b c1 | d 
 
@@ -96,7 +93,6 @@ bassusVII = \relative c' {
     \fourTwoCutTime
     \key c \major
 
-    \set Staff.midiInstrument = "harpsichord"
     a1 e2 a | g1 g2 a | e2 f e1 | e2 e a1 | g a2 e | f1 e | a e2 a |
         g1 g2 a | e2 f e1 | e2 e a1 | g 
 
