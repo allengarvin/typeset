@@ -170,7 +170,6 @@ coroItenoreIXXincipit = \relative c' {
 % tenore: checked against source, with 3 corrections (thus, hesitent about)
 coroItenoreIXX = \relative c' {
     \fourTwoCommonTime
-    \clef tenor
     \key f \major
 
     a1. a2 | a4. g8 a4 bf c2. bf4 | a\breve | r2 g g e | a1 d,2 bf' ~ | 
@@ -521,7 +520,6 @@ coroIIIaltoXXincipit = \relative c' {
 
 coroIIIaltoXX = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key f \major
 
     R\breve*4 R\breve*5 R\breve*5 r1 c1 | c2 c d4. c8 d4 e | f4. e8 f4 g a1 ~ |
@@ -554,7 +552,8 @@ coroIIIaltoXX = \relative c' {
     \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 g1 g f |
 
     e\breve r1 | g1. g2 f1 | g\breve r1 | R\breve.*2 | e1 e fs | g g2 f1 f2 | 
-        e\breve r1 | a1 a f | e\breve r1 | R\breve.*2 | f1 f f | e\breve r1 |
+        e\breve r1 | a1 a f | e\breve r1 | R\breve.*2 | g1 g e |
+        d\breve r1 | R\breve.*2 | f1 f f | e\breve r1 |
         g1 g g | 
 
     f\breve f1 | e1. f4 g a1 | a g\breve | \fourTwoCutTime f1 r2 f ~ | 
@@ -663,7 +662,7 @@ coroIIIbassoIXX = \relative c {
     \bar "|."
 }
 
-CoroIIIbassoIIXXincipit = \relative c, {
+coroIIIbassoIIXXincipit = \relative c, {
     \time 4/4
     \clef "petrucci-f5"
     \key f \major
@@ -671,9 +670,9 @@ CoroIIIbassoIIXXincipit = \relative c, {
     f1
 }
 
-CoroIIIbassoIIXX = \relative c, {
+% basso: checked against source
+coroIIIbassoIIXX = \relative c, {
     \fourTwoCommonTime
-    \clef subbass
     \key f \major
 
     R\breve*4 R\breve*5 R\breve*5 r1 f | f2 f bf1 ~ | bf2 a4 g f4. e8 f4 g |
@@ -690,7 +689,7 @@ CoroIIIbassoIIXX = \relative c, {
     d'1 | g, r1 | R\breve*3 R\breve*2 r2 e2. e4 e2 | a\breve | d,1 r1 |
         R\breve*4 | r1 r2 f | f c g'1 | c,2 c c g' | d1 g | R\breve*2 |
         R\breve*3 | r1 r4 a a a | d,1 r4 bf' bf bf | ef2 f g1 |
-        f4 d ef4. c8 bf2 r2 | r4 d ef g f4. f8 ef4 c | d4. bf8 a4 c 
+        f4 d ef4. c8 bf2 r2 | r4 d ef g f4. f8 ef4 c | d4. bf8 c4 a 
 
     bf4. g8 a4 f | c'\breve | f,2 bf,2. bf4 bf2 | ef2. f4 g2 c, | 
         g'1 c,2 c ~ | c4 c c4. c8 f1 | r8 c[ c d] e4 c g'1 | 
@@ -712,43 +711,257 @@ CoroIIIbassoIIXX = \relative c, {
     \bar "|."
 }
 
-coroIVcantoXX = \relative c' {
-    \fourTwoCommonTime
-    \clef alto
+coroIVcantoXXincipit = \relative c'' {
+    \time 4/4
+    \clef "petrucci-c1"
     \key f \major
 
+    c2
+}
+
+% canto: checked against source
+coroIVcantoXX = \relative c'' {
+    \fourTwoCommonTime
+    \key f \major
+
+    R\breve*4 R\breve*5 R\breve*5 R\breve*5 R\breve*3 r1 c2 c4 c | 
+        d2 c c b | c r4 c d2 b4 c ~ | c a bf2 a c | bf4 a a g8[ f] 
+
+    g1 | f2 a g4 f f2 ~ | f e f1 | R\breve*5 | R\breve*2 
+        r1 d' ~ | d2 d d1 | d2. d,4 d1 | r2 a'2. a4 a2 | a1 r1 | d1. d2 | 
+        d1 d2. d,4 | d1 r2 a'2 ~ | a4 a4 a2 
+
+    fs2 a ~ | a4 a a2 b1 ~ | b r2 c | g g2. bf4 bf2 | bf1 r2 r4 d |
+        c4. d8 bf4. c8 a4 g a2 | b1 r1 | R\breve | r2 d c4 a bf2 | a4 bf g2 
+
+    f2 r | r1 r2 r4 bf | a2 r4 c b2 r4 d | cs2 e2. e4 e,2 ~ | e r4 a a1 |
+        a r1 | R\breve*4 | r1 r2 c | c2. d4 b c2 b4 | c1
+
+    r2 d | d d, d'1 | R\breve*2 R\breve*2 | r2 f2. f4 e2 | d d cs1 | 
+        r1 r4 d d d | ef2 d1 c4 bf | a2 r r4 f' ef4. ef8 | d2 r 
+
+    r1 | r2 r4 c bf4. bf8 a4 a | g2 f g4 c, c'2 | a bf2. bf4 bf2 | 
+        bf2. a4 g2. a4 | b c d d, e2 g ~ | g4 g g4. g8 f2 bf, | r8 c'[ c bf] 
+
+    g4 a bf1 | r8 d[ d c] a4 b cs d2 cs4 | d1 r1 | R\breve*3 | 
+
+    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 R\breve. | 
+        c1 c a | g\breve r1 | R\breve.*3 | a1 a a | 
+
+    b1 c2 a1 d2 | cs\breve r1 | c c d | c\breve r1 | R\breve.*2 | d1 d c |
+        b\breve r1 | R\breve. | c1 c c | a\breve r1 | R\breve.*2 | d1 d d | 
+        c\breve. | f\breve e1 | 
+
+    \fourTwoCutTime f1 r2 bf, ~ | bf bf bf1 | r1 r2 g ~ | g g g1 | g r1 |
+        r1 c4 c8[ d] c4 bf | a2 c2. bf8[ a] g4 c, | c'1 r1 | 
+        r8 f[ d e] f[ d bf c] d4. bf16[ c] 
+
+    % --- page ---
+    d4. d16[ e] | f2 f16[ f, g a] bf[ c d e] f1 | 
+        r8 c[ ef d] c16[ bf c bf] c[ bf a g] a1 ~ a\longa*1/2
     \bar "|."
 }
 
-coroIValtoXX = \relative c' {
-    \fourTwoCommonTime
-    \clef alto
+coroIValtoIXXincipit = \relative c'' {
+    \time 4/4
+    \clef "petrucci-c2"
     \key f \major
 
+    a2
+}
+
+% alto: checked against source
+coroIValtoIXX = \relative c'' {
+    \fourTwoCommonTime
+    \key f \major
+
+    R\breve*4 R\breve*5 R\breve*5 R\breve*5 R\breve*3 r1 a2 a4 a | 
+        bf2 a g g | e4 g a2 f4 g2 e4 | f2 d4 e f2 a | g4 f f1 e2 | f c
+
+    d4 c a b | c1 c | R\breve*5 R\breve*2 | r1 bf' | bf2 bf1 f2 | f1 r1 |
+        a2. a4 a2 a, | a1 r1 | f' bf2 bf ~ | bf f2 f1 | r1 a2. a4 |
+        a2 a, a d2 ~ | d4 d4 d2 
+
+    b2. c4 | d1 r2 g | ef c g'1 | r2 f f4. f8 f4. d8 | 
+        f4. f8 bf,4. d8 d1 | d r1 | R\breve | r1 f2 d4 bf | c d2 c4 d2 r | r1
+
+    r2 r4 f | f2 r4 g g2 r4 a | a2 b2. b4 b2 | a1 a,2 e' | fs1 r1 | 
+        R\breve*4 | r1 r2 a | f g2. c,4 g'2 | e1 r2 d ~ | d4 g fs d
+
+    d1 | R\breve*2 R\breve*2 | r2 d a'2. e4 | fs a d,2 a'1 | r1 r4 bf bf bf |
+        bf2 a g1 | a2 r2 r4 bf g4. a8 | bf2 r2 r4 f g4. ef8 |
+        f4. d8 ef4 f bf,2 
+
+    r4 c ~ | c c c4. d8 e4 f g2 | f d2. d4 f2 | r2 g2. d4 ef f | g1 g | 
+        r2 c,2. c4 c4. c8 | c4 g'2 g4 g2 r4 d ~ | d a' a1 a2 | a1 r1 | 
+        R\breve*3 
+
+    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 R\breve. |
+        e1 e f | g\breve r1 | R\breve.*3 | e1 e d | d g2 a1 a2 | a\breve r1 |
+        e1 e f | a\breve r1 | R\breve.*2 | g1 g g | g\breve r1 | R\breve. | 
+        a1 a e | 
+
+    c'\breve r1 | R\breve.*2 | f,1 f d2 a' ~ | a e e1 r1 | 
+        c2 d e f g2. c,4 | \fourTwoCutTime c1 r2 f ~ | f4 bf, bf1 ef2 | 
+        R\breve | g2. c,4 d1 | e r1 | r1 f ~ | f2 c c1 | c2 r4 c' a2 f ~ |
+        f f f1 ~ | f f\longa*1/2
     \bar "|."
 }
 
-coroIVtenoreXX = \relative c' {
-    \fourTwoCommonTime
-    \clef alto
+coroIValtoIIXXincipit = \relative c' {
+    \time 4/4
+    \clef "petrucci-c3"
     \key f \major
 
+    f2
+}
+
+% alto: checked against source
+coroIValtoIIXX = \relative c' {
+    \fourTwoCommonTime
+    \key f \major
+
+    R\breve*4 R\breve*5 R\breve*5 R\breve*5 R\breve*3 r1 f2 f4 f | f2 f e d |
+        c4 e2 f4 d2 e4 c ~ | c d bf2 c f | bf, d c1 | a2. c4
+
+    bf4 a a g8[ f] | g1 a | R\breve*5 | R\breve*2 | r1 d ~ | d2 f d1 | 
+        d f2. a4 ~ | a a, a4. b8 cs4 d e2 | fs1 r1 | d1. f2 | d1 d | 
+        f2. a2 a,4 a4. b8 |
+
+    cs4 d e2 fs1 | r2 d2. d4 d2 | g1 r2 c, ~ | c4 c ef2. bf4 bf2 | 
+        bf bf c4. c8 f4. f8 | f4. a8 d,4. d8 d4 bf a2 | g1 r1 | R\breve | 
+
+    f'2 d4 bf c2 bf4 bf | f'4. f,8 g2 bf r2 | r1 r2 r4 d | c2 r4 e d2 r4 f |
+        e2 e2. e4 e2 | e f e1 | d r1 | R\breve*4 | r1 r2 f |
+
+    f2 e d1 | c2 g g1 | r4 d' d2. b4 b2 | R\breve*2 R\breve*2 | 
+        r2 d2. d4 a2 | d1 r1 | r1 r4 d d d | c2 d2. g,4 g'2 | r1 r4 d bf c | 
+        d2
+
+    r2 r4 f bf, \ficta ef\unficta | d2 g,4 c r4 d c a | c2 f, c' g |
+        a f' d bf ~ | bf ef r g ~ | g4 g, g2 g4 c2 c4 | 
+        c4. c8 g2 r8 c[ c bf] a4 c | 
+
+    r2 r4 g2 g4 g2 | r4 d' a1 a2 | a1 r1 | R\breve*3 | 
+    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 R\breve. |
+        c1 c1. a2 | c\breve r1 | R\breve.*3 | cs1 cs d | d c f2. d4 | 
+
+    a\breve r1 | cs1 e d | e\breve r1 | R\breve.*2 | d1 d e | g\breve r1 | 
+        R\breve. | c,1 c c | c\breve r1 | R\breve.*2 | a1 a a | a\breve r1 |
+        c c\breve | \fourTwoCutTime c1 r2 d ~ | d d
+
+    g,1 | r1 r2 g ~ | g g g1 | g r1 | r1 c ~ | c2 f r4 c8[ d] e[ f g e] |
+        c2 c1 a2 | f'1. bf,2 | bf2. d4 a2. bf4 | c\longa*1/2
     \bar "|."
 }
 
-coroIVbassoXX = \relative c' {
-    \fourTwoCommonTime
-    \clef alto
+coroIVbassoXXincipit = \relative c {
+    \time 4/4
+    \clef "petrucci-f3"
     \key f \major
 
+    f2
+}
+
+% coro: checked against source
+coroIVbassoXX = \relative c {
+    \fourTwoCommonTime
+    \key f \major
+
+    R\breve*4 R\breve*5 R\breve*5 R\breve*5 R\breve*3 r1 f2 f4 f | bf2 f g g |
+        c,4 c'2 a4 bf2 g4 a ~ | a f g2 
+
+    f1 | R\breve | f1 bf,2 d | c1 f | R\breve*5 R\breve*2 | r1 bf ~ | 
+        bf2 bf bf1 ~ | bf2 d d,1 | a'\breve | d,1 r1 | bf'1. bf2 | bf1. d2 |
+        d,1 a' ~ | a
+
+    d,2 d ~ | d4 d d2 g1 ~ | g r2 c, ~ | c4 c c2 ef1 | bf2 bf' a4. a8 bf4. bf8|
+        f4. f8 g4. g8 d1 | g r1 | R\breve | r2 bf a4 f g2 |
+
+    f4 d ef2 bf r | r1 r2 r4 bf | f'2 r4 c g'2 r4 d | a'2 e2. e4 e2 |
+        a1. a,2 | d1 r1 | R\breve*4 | r1 r2 f | f c
+
+    g'1 | c,2 c c g' | d1 g | R\breve*2 R\breve*2 | r2 d2. d4 cs2 | d bf' a1 |
+        r1 r4 bf bf bf | ef,2 f g1 | f2 r r4 d ef4. c8 | bf2 r r4 d
+
+    ef4 g | f4. f8 ef4 c d4. bf8 c2 ~ | c c'1 c,2 | f bf,2. bf4 bf2 | 
+        ef2. f4 g2 c, | g'1 c,2 c ~ | c4 c c4. c8 f1 | c8[ c c d] e4 c
+
+    g'1 | d2 d a'1 | d, r1 | R\breve*3 | 
+    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 R\breve. | 
+        c1 c f | c\breve r1 | R\breve.*3 | a'1 a d, | g e2 f1 d2 | 
+        a'\breve r1 | 
+
+    a1 a d, | a'\breve r1 | R\breve.*2 | g1 g c | g\breve r1 | R\breve. |
+        f1 a c | f,\breve r1 | R\breve.*2 | d1 d d | a'\breve. | f1 c\breve | 
+        \fourTwoCutTime f1 
+
+    r2 bf, ~ | bf2 bf ef1 | r1 r2 ef | b2 c g'1 | c, r1 | r1 f2. g4 |
+        a2 f c'1 | f,2 f1 f2 | bf1 bf, ~ | bf2 bf f'\longa*1/2
     \bar "|."
 }
 
-coroVcantoXX = \relative c' {
-    \fourTwoCommonTime
-    \clef alto
+coroVcantoXXincipit = \relative c'' {
+    \time 4/4
+    \clef "petrucci-c1"
     \key f \major
 
+    c4
+}
+
+coroVcantoXX = \relative c'' {
+    \fourTwoCommonTime
+    \clef soprano
+    \key f \major
+
+    R\breve*4 R\breve*5 R\breve*5 R\breve*5 R\breve*5 R\breve*4
+        r1 c4 c8[ c] c4 bf | a8[ g a bf] 
+
+    a4. c8 bf16[ a bf8] g16[ a bf8] a16[ g a8] f16[ g a8] | g8 f4 e8 f2 r1 |
+        r2 r4 c' bf16[ a bf8] g16[ a bf8] 
+
+    a16[ g a8] f16[ g a8] | g8 f4 e8 f4 c'4. c8 ef4 d2 | c r4 c4. c8 ef4 d2 | c1
+
+    c8[ bf a c] bf[ a g f] | e4 f2 e4 f1 | r1 f | bf2. c4 d2 bf | f1 r2 a ~ |
+        a f a4 e
+
+    a2 ~ | a4 d, d2 r1 | bf' bf2. c4 | d2 bf f1 | r2 a1 f2 | a4 e a2 a fs ~|
+        fs4 fs fs2 g1 ~ | g r2 g ~ | g4 g g2
+
+    g1 | f r1 | R\breve*2 | r2 d' ef c | d1 r1 | r1 d2 c4 a | 
+        bf2 a4 bf g2 f | r4 f e2 r4 g fs2 |
+
+    r4 a gs2. gs4 gs2 | a\breve | fs1 r1 | R\breve*4 | r1 r2 a | a g g1 |
+        g2 g g g | r4 d' d2 d 
+
+    b2 | c c d r4 d ~ | d8[ d] c4 bf2 a2. g4 ~ | 
+        g\ficta fs8[ e] fs!2\unficta g1 | R\breve*3 | r4 a a a bf1 | 
+        R\breve*5 |
+
+    r2 f2. bf4 bf2 | g2. a4 b2 c | d2. g,4 g2 r4 g | e8[ d e f] g2 c, f | 
+        r1 
+    % --- page ---
+    r8 bf[ bf c] d4. c16[ bf] | a1 r2 a | a d2. d4 d2 | c1. c2 | 
+        c4 f f c d2. c4 | bf2 a1 g2 | 
+    \singleTime\time 3/1 a\breve. ~ | a | R\breve.*3 | a1 a bf | c a c | 
+        bf g bf | a f a | g e g | f d f | e c e | 
+
+    d1. e2 f1 | g e\breve | \fourTwoCutTime d2 fs g g | a1 d, | R\breve |
+        \singleTime\time 3/1 R\breve. | g1 g f | e\breve r1 | g1. g2 e1 |
+
+    fs\breve r1 | R\breve.*3 | a1 a f | e\breve r1 | R\breve.*4 | g1 g e |
+        d2 g1 e c2 ~ | c c'2. bf4 a2 g1 | f\breve. | R | 
+
+    bf1 bf bf | a\breve a1 | a\breve. | c1 c\breve | \fourTwoCutTime
+        c1 r2 f, ~ | f bf g1 | r1 r2 g ~ | g f4 ef d g, g'2 | g1 r1 |
+        a4 a8[ g]
+
+    a4 bf c2 c2 ~ | c bf4 a g c, c'2 | c r8 c[ a bf] c[ a f g] a2 |
+        d, d'1 bf2 | bf f f2. g4 | a\longa*1/2
     \bar "|."
 }
 
@@ -762,15 +975,15 @@ coroValtoXX = \relative c' {
 
 coroVtenoreXX = \relative c' {
     \fourTwoCommonTime
-    \clef alto
+    \clef tenor
     \key f \major
 
     \bar "|."
 }
 
-coroVbassoXX = \relative c' {
+coroVbassoXX = \relative c {
     \fourTwoCommonTime
-    \clef alto
+    \clef bass
     \key f \major
 
     \bar "|."
@@ -867,48 +1080,48 @@ coroIIIbassoIXXincipitVoice = <<
     >>
 >>
 
-CoroIIIbassoIIXXincipitVoice = <<
+coroIIIbassoIIXXincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \CoroIIIbassoIIXXincipit
+        \coroIIIbassoIIXXincipit
     >>
 >>
 
-%coroIVcantoXXincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \coroIVcantoXXincipit
-%    >>
-%>>
-%
-%coroIValtoXXincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \coroIValtoXXincipit
-%    >>
-%>>
-%
-%coroIVtenoreXXincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \coroIVtenoreXXincipit
-%    >>
-%>>
-%
-%coroIVbassoXXincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \coroIVbassoXXincipit
-%    >>
-%>>
-%
-%coroVcantoXXincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \coroVcantoXXincipit
-%    >>
-%>>
-%
+coroIVcantoXXincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \coroIVcantoXXincipit
+    >>
+>>
+
+coroIValtoIXXincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \coroIValtoIXXincipit
+    >>
+>>
+
+coroIValtoIIXXincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \coroIValtoIIXXincipit
+    >>
+>>
+
+coroIVbassoXXincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \coroIVbassoXXincipit
+    >>
+>>
+
+coroVcantoXXincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \coroVcantoXXincipit
+    >>
+>>
+
 %coroValtoXXincipitVoice = <<
 %    \new MensuralVoice <<
 %        { s1 \noBreak }
