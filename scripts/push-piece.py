@@ -175,7 +175,7 @@ def find_header(lines):
             if "distribution-header" in l:
                 hlines += [ln.strip() for ln in open("../include/distribution-header.ly")]
             hlines.append(l.strip())
-    print "UNABLE TO FIND \\header in SCORE"
+    print("UNABLE TO FIND \\header in SCORE")
     sys.exit(1)
 
  

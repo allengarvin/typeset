@@ -1,11 +1,128 @@
 #!/usr/bin/python3
+# WORKS!
 
 import os, sys, argparse, re
 from collections import OrderedDict
 
+def display_note(n, o):
+    if o < 0:
+        return n + "," * o
+    if o > 0:
+        return n + "'" * o
+    return n
+
+def extract_range(s, pn, args):
+    diatonic = [ "g", "a", "b", "c", "d", "e", "f", ]
+    notes = [ "gf", "g", "gs", "af", "a", "as", "bf", "b", "bs", "cf", "c", "cs", "df", "d", "ds", "ef", "e", "es", "ff", "f", "fs", ]
+    full_range = [ x + ",," for x in notes ] + \
+                 [ x + "," for x in notes ] + \
+                 [ x for x in notes ] + \
+                 [ x + "'" for x in notes ] + \
+                 [ x + "''" for x in notes ] + \
+                 [ x + "'''" for x in notes ]
+    try:
+        partname, eq, initial, *section = s.split()
+    except: 
+        print("EXTRACT problem for section <{}>".format(pn), s) # found a few problems with this. Breaks on continuo figuration
+        return
+
+    if eq != "=" or section[0] != '{' or section[-1] != '}':
+        print("PROBLEM WITH:", s)   # so far, none have hit this
+        return
+
+    section = section[1:-1]
+    #print(section)
+
+    if "'" in initial:
+        octave = initial.count("'")
+    else:
+        octave = -initial.count(",")
+        
+    previous = initial.rstrip(",").rstrip("'")
+
+    highest = "af,,"
+    lowest = "gs'''"
+
+    for nt in section:
+        if nt == "r" or nt == "R" or nt == "s":
+            continue
+
+        if args.verbose:
+            print("{} -> {} (low: {} :: high: {})".format(display_note(previous, octave), nt, lowest, highest))
+
+        if "'" in nt:
+            octave += nt.count("'")
+            nt = nt.rstrip("'")
+        elif "," in nt:
+            octave -= nt.count(",")
+            nt = nt.rstrip(",")
+        
+        #if nt[0] == previous[0]:
+        if nt == previous:
+            previous = nt
+        else:
+            previous_i = diatonic.index(previous[0])
+            for i, n in enumerate(diatonic):
+                if n == nt[0]:
+                    diff = previous_i - i
+                    if i < previous_i and abs(diff) < 4:
+                        previous = nt
+                    elif i > previous_i and abs(diff) < 4:
+                        previous = nt
+                    elif i < previous_i:
+                        octave += 1
+                        previous = nt
+                    elif i > previous_i:
+                        octave -= 1
+                        previous = nt
+                    else:
+                        previous = nt
+                    break
+        if octave > 0:
+            note_s = nt + "'" * octave
+        elif octave < 0:
+            note_s = nt + "," * abs(octave)
+        else:
+            note_s = nt
+
+        if full_range.index(note_s) > full_range.index(highest):
+            highest = note_s
+        if full_range.index(note_s) < full_range.index(lowest):
+            lowest = note_s
+
+        if args.verbose:
+            print("  after action: current: {} (low: {} :: high: {})".format(display_note(previous, octave), lowest, highest))
+                        
+    print("{} range: {} <-> {}".format(pn, lowest, highest))
+        
+
+def strip_quotes(s):
+    flag = False
+
+    new_sec = ""
+    for i in s:
+        if i == '"':
+            if not flag:
+                flag = True
+                continue
+            flag = False
+            continue
+        new_sec += i
+    new_sec = re.sub('\s+', " ", new_sec)
+    return new_sec
+        
+    
 def remove_escapes(s):
     new_sec = ""
 
+    s = re.sub('\\\\markup "[^"]*"', " ", s)
+    s = re.sub('\\\\markup {[^}]*}', " ", s)
+    if "s1*0" in s:
+        s = s.replace("s1*0", " ")
+    if "s2*0" in s:
+        s = s.replace("s2*0", " ")
+
+    #new_sec = re.sub('\\\\markup {[^}]*}', " ", new_sec)
     escape_bool = False
     for i in range(len(s)):
         if s[i].isdigit():
@@ -27,21 +144,23 @@ def remove_escapes(s):
         new_sec = new_sec.replace("is-parts ", " ")
     if "is score " in new_sec:
         new_sec = new_sec.replace("is-score ", " ")
-    if '"' in new_sec:
-        t = ""
-        flag = False
-        for i in range(len(new_sec)):
-            if new_sec[i] == '"':
-                if not flag:
-                    flag = True
-                    continue
-                else:
-                    flag = False
-                    continue
-            if flag:
-                continue
-            t += s[i]
-        new_sec = t
+# some problems, possibly with escapes
+#    if '"' in new_sec:
+#        t = ""
+#        flag = False
+#        for i in range(len(new_sec)):
+#            if new_sec[i] == '"':
+#                if not flag:
+#                    flag = True
+#                    continue
+#                else:
+#                    flag = False
+#                    continue
+#            if flag:
+#                continue
+#            t += s[i]
+#        new_sec = t
+    new_sec = re.sub(' _ ', " ", new_sec)
     new_sec = re.sub(' R ', " ", new_sec)
     new_sec = re.sub(' r ', " ", new_sec)
     new_sec = re.sub('\s+', " ", new_sec)
@@ -95,6 +214,7 @@ def main(pf, pn):
 
     num = basename(pf).split("-")[0].lstrip("0")
     roman = int2roman(int(num))
+    start_re_str = "^" + pn + roman + " .*relative "
     start_re = re.compile(r"^" + pn + roman + " .*relative ")
     end_re = re.compile(r"^} *$")
     
@@ -120,12 +240,19 @@ def main(pf, pn):
             section += " }"
         if part_bool:
             section += line + "\n"
+    if section == "":
+        print("{}: unable to find section {}".format(pf, pn))
+        print("Debug: re start:", start_re_str)
+        sys.exit(1)
     section = remove_escapes(section)
-    print(section)
+
+    strip_quotes(section)
+    extract_range(section, pn, args)
     
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description="Extract the actual music section from a parts file")
     ap.add_argument("partsfile", help="path to parts file")
     ap.add_argument("partname", help="part name (e.g., 'canto')")
+    ap.add_argument("-v", "--verbose", action="store_true", help="Verbose")
     args = ap.parse_args()
     main(args.partsfile, args.partname)

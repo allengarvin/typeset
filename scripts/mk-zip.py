@@ -43,7 +43,7 @@ def ascii_filter(s):
         'Æ':'AE', 'Œ':'OE',
         'ß':'ss',
         '#':'no_', "&" : "_", "[" : "", "]" : "",
-        ",":"", "'":"", "/":"", ";":"", ":":"-", "?":"",
+        ",":"", "'":"", "/":"", ";":"", ":":"-", "?":"", "." : "",
         "’":"_",
     }
     for c in filters.keys():
@@ -140,7 +140,7 @@ def check_score(pn):
                     title = parse_markup(line)
                 else:
                     title = parse_quote(line)
-            if re.search(" subtitle *=", line):
+            if not args.nosubtitle and re.search(" subtitle *=", line):
                 if "markup" in line:
                     subtitle = parse_markup(line)
                 else:
@@ -183,5 +183,6 @@ def main(args):
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description="Replacement for mk-zip bash script")
     ap.add_argument("piecenum", help="Piece number including leading zeros")
+    ap.add_argument("-n", "--nosubtitle", action="store_true", help="Suppress subtitle in filename")
     args = ap.parse_args()
     main(args)

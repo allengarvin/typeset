@@ -357,7 +357,7 @@ def write_pieces(coll):
 
         preview = glob.glob(p.path + "/*-0-score.preview.png")
         if len(preview) == 1:
-            p_html += "    " * 2 + '\n\n<center><img src="{}" alt="preview of first system of score" \/></center><p>\n\n'.format(preview[0])
+            p_html += "    " * 2 + '\n\n<center><img src="{}" alt="preview of first system of score" \/></center><p>\n\n'.format(basename(preview[0]))
         score_files = sorted(glob.glob(p.path + "/*-score.pdf"))
         if len(score_files) == 0:
             print("NO SCORE FILE")
