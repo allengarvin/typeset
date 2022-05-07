@@ -40,9 +40,9 @@ coroIcantoXX = \relative c' {
         c1 r8 c[ c bf] a4. g16[ f] | e1 r4 g4. g8 g4 | f2. a4 a1 | a r1 |
         R\breve*3 |
 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-        \fourTwoCutTime R\breve R\breve*2
-        \singleTime\time 3/1 c1 c a | g\breve r1 | c1. c2 a1 | b\breve r1 |
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+        \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2
+        \singleTime\time 3/1\threeWholeFromBreve c1 c a | g\breve r1 | c1. c2 a1 | b\breve r1 |
         a1 a b | c c2 bf1 bf2 | a\breve r1 |
     % --- page ---
     R\breve.  R\breve.*2 | 
@@ -50,11 +50,11 @@ coroIcantoXX = \relative c' {
         R\breve.*4 | c1 c c | bf\breve bf1 | a\breve a1 | a\breve c1 | 
         c c\breve |
 
-    \fourTwoCutTime c1 r2 f, ~ | f4 bf bf1 g2 | R\breve | r1 g4 g8[ a] g4 f |
+    \fourTwoCutTime\breveFromThreeWhole c1 r2 f, ~ | f4 bf bf1 g2 | R\breve | r1 g4 g8[ a] g4 f |
         e e8[ f] e4 d c1 | r2 c' ~ c8[ bf a g] f[ e d c] |
 
     c[ f d e] f[ c' a bf] c4. bf8 c16[ bf c bf] c[ bf a g] | 
-        a2 a1 a2 | d1. d2 d2 bf c\longa*1/2
+        a2 a1 a2 | d1. d2 d2 bf c1 ~ c\longa*1/2
     \bar "|."
 }
 
@@ -91,9 +91,9 @@ coroIaltoIXX = \relative c' {
         e4 c g'1 r8 d[ d e] | f4 d a'2. e4 e4. a8 |
 
     fs1 r1 | R\breve*3 |
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 
-    \singleTime\time 3/1 e1 e f | g\breve r1 | g1. e2 fs1 | d\breve r1 | 
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 
+    \singleTime\time 3/1\threeWholeFromBreve e1 e f | g\breve r1 | g1. e2 fs1 | d\breve r1 | 
         fs fs g | e a2 f1 g2 | e\breve r1 |
 
     % --- page ---
@@ -101,11 +101,11 @@ coroIaltoIXX = \relative c' {
     R\breve.*2 | e1 e d | cs d f | g1. d2 d1 | d\breve r1 | R\breve.*4 R\breve.|
         d1. c2 d e | f1. e2 f g | a\breve e1 | f g1. e2 | 
 
-    \fourTwoCutTime a1 r2 d, | f2. d4 g1 | r2 g d8[ ef f d] ef[ c ef f] |
+    \fourTwoCutTime\breveFromThreeWhole a1 r2 d, | f2. d4 g1 | r2 g d8[ ef f d] ef[ c ef f] |
         g1 r1 | g4 g8[ a] g4 f e e8[ f] e4 d | c1
 
     r2 c ~ | c c c1 | r1 r2 f | 
-        f8[ g e f] d[ e c d] bf2 f' f1 f\longa*1/2
+        f8[ g e f] d[ e c d] bf2 f' f1 f~f\longa*1/2
 
     \bar "|."
 }
@@ -144,18 +144,18 @@ coroIaltoIIXX = \relative c' {
     R\breve*5 | r2 d'2. d4 d2 | bf g1 g2 | g1 g | c2. c4 c4. c8 f2 |
         r4 c4. c8 c4 bf1 | r4 d4. d8 d4 e2 a, | a1 r1 | R\breve*3 | 
     
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 
-    \singleTime\time 3/1 c1 c c | c\breve r1 | e1. e2 d1 | d\breve r1 | 
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 
+    \singleTime\time 3/1\threeWholeFromBreve c1 c c | c\breve r1 | e1. e2 d1 | d\breve r1 | 
         d1 d d | c f2 d1 d2 | cs\breve r1 | R\breve. R\breve.*2 | cs1 cs d | 
 
     e1 a, bf | bf1. bf2 d1 | b\breve r1 | R\breve.*4 | g'1 g g | g\breve d1 |
-        d\breve d1 | r1 r c | c c\breve | \fourTwoCutTime 
+        d\breve d1 | r1 r c | c c\breve | \fourTwoCutTime\breveFromThreeWhole 
         c1 r2 d ~ | d f ef1 | r1 
 
     r2 g ~ | g4 f ef c r4 d2 g,4 | g2 g'2. c,4 c2 ~ | c c c1 | 
         f2. f4 e8[ d c b] c2 | c2 c ~ c8[ d bf c] a[ bf g a] | f2 bf d1
-        c\longa*1/2
+        c\breve~c\longa*1/2
     \bar "|."
 }
 
@@ -196,13 +196,13 @@ coroItenoreIXX = \relative c' {
         g4. g8 c2 r4 f,4. f8 f4 | g1 r4 g4. g8 g4 | a2. a4 a1 | a r1 |
 
     R\breve*3 | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 
-    \singleTime\time 3/1 g1 g a | e\breve r1 | R\breve. R | a1 d, g | c, f d |
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 
+    \singleTime\time 3/1\threeWholeFromBreve g1 g a | e\breve r1 | R\breve. R | a1 d, g | c, f d |
         R\breve.*2 R\breve.*2 | a'1 a a | a1. d1 bf2 ~ | bf g2. a4 bf g 
 
     a2 d, | d\breve r1 | R\breve.*4 | c'1 c c | d\breve bf1 | f\breve r1 |
-        R\breve. | c'1. g2 c1 | \fourTwoCutTime a1 r2 bf ~ | bf bf bf1 |
+        R\breve. | c'1. g2 c1 | \fourTwoCutTime\breveFromThreeWhole a1 r2 bf ~ | bf bf bf1 |
         R\breve | g2. a4 b c d2 | c1 g | a r2 a |
 
     a2 f4 c4. d8[ e f] g4 e | a1 a | f'2 ~ f8[ g e f] d[ e c d] bf2 ~ |
@@ -254,19 +254,20 @@ coroItenoreIIXX = \relative c {
         g'1 e2 g ~ | g4 g g4. g8 a1 | r2 r8 g[ g a] bf4 g
 
     d'2 ~ | d4 a a1 e2 | fs1 r1 | R\breve*3 | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 
-    \singleTime\time 3/1 g1 c, f | c\breve r1 | g'1. g2 d1 | g\breve r1 | 
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 
+    \singleTime\time 3/1\threeWholeFromBreve g1 c, f | c\breve r1 | g'1. g2 d1 | g\breve r1 | 
         a1 a g | g c,2 d1 d2 | a'\breve r1 | R\breve. R\breve.*2 | e1 e f | 
 
     a1 f d | d'2. c4 bf a g1 \ficta fs2\unficta | g\breve r1 | R\breve.*4 |
         g1. f2 g a | bf1. a2 bf c | d1. c2 a bf | c1. bf2 a1 ~ |
-        a2 g4 f e1 c | \fourTwoCutTime c1 r2 f ~ | f d g1 | r1
+        a2 g4 f e1 c | \fourTwoCutTime\breveFromThreeWhole c1 r2 f ~ | f d g1 | r1
 
     r2 g | d8[ ef f d] ef[ c ef f] g1 | g r2 c, ~ | c c f1 ~ | f2 c c2. c'4 |
-        a8[ f' e d] c[ bf a g] f[ bf a g] f[ e d c] | R\breve*2 | 
+                                                    % vvvvvvvvvv removing
+        a8[ f' e d] c[ bf a g] f[ bf a g] f[ e d c] | % R\breve*2 | 
     %  vvvv bf1 to bf1.
-        bf'1. f2 f1 f\longa*1/2
+        bf'1. f2 f1 f1~f\longa*1/2
 
     \bar "|."
 }
@@ -303,18 +304,18 @@ coroIbassoXX = \relative c, {
         c4 c c4. c8 f[ f, f g] a4 f | c'1 r8 g[ g a] bf4 g | d'1 a | d r1 |
 
     R\breve*3 | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 
-    \singleTime\time 3/1 c1 c f, | c'\breve r1 | c1. c2 d1 | g,\breve r1 |
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 
+    \singleTime\time 3/1\threeWholeFromBreve c1 c f, | c'\breve r1 | c1. c2 d1 | g,\breve r1 |
         d'1 d g, | c a2 bf1 g2 | a\breve r1 | R\breve. R\breve.*2 | 
         a1 a d | a d bf |
 
     g1 g' d | g,\breve r1 | R\breve.*4 | c1 c c | g'\breve g,1 | d'\breve d1 |
-        a\breve. | f1 c'\breve | \fourTwoCutTime f,1 r2 bf ~ |
+        a\breve. | f1 c'\breve | \fourTwoCutTime\breveFromThreeWhole f,1 r2 bf ~ |
         bf2 bf ef1 | r1 
 
     r2 ef | b2 c g1 | c c4 c8[ d] c4 bf | a4 a8[ bf] a4 g f1 ~ | f2 f c'1 |
-        f,2 f1 f2 | bf1. bf2 bf1 f\longa*1/2
+        f,2 f1 f2 | bf1. bf2 bf1 f1~f\longa*1/2
 
     \bar "|."
 }
@@ -351,18 +352,18 @@ coroIIcantoXX = \relative c'' {
 
     c4. bf16[ a] | g1 r8 bf[ bf c] d4. c16[ bf] | a2 d, r4 a' e a | a1 r1 |
         r1 r4 c c g | a1 r1 | R\breve | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve r1 r2 b2 | c c d1 |
-    \singleTime\time 3/1 g,\breve r1 | R\breve.*2 | d'1. d2 cs1 | d\breve r1 |
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve r1 r2 b2 | c c d1 |
+    \singleTime\time 3/1\threeWholeFromBreve g,\breve r1 | R\breve.*2 | d'1. d2 cs1 | d\breve r1 |
         R\breve.*3 | cs1 cs d | cs\breve r1 | R\breve.*3 R\breve. | d1 d c | 
 
                                         
     b1 r2 c1 a2 ~ | a f1 f'2 e1 | f\breve. | R\breve.*2 | f,1 f d | 
-        e c\breve | c'1. bf2 g1 | \fourTwoCutTime a1 r2 d ~ | d d ef1 |
-        r2 \ficta ef\unficta d g, | g\breve | g1 r1 | 
+        e c\breve | c'1. bf2 g1 | \fourTwoCutTime\breveFromThreeWhole a1 r2 d ~ | d d ef1 |
+        r2 \ficta e!\unficta d g, | g\breve | g1 r1 | 
 
     r1 a4 a8[ g] a4 bf | c f,4. g8[ a f] g1 | f8[ c' a bf] c[ a f g] a2 f ~ |
-        f bf1 bf2 bf1 a\longa*1/2
+        f bf1 bf2 bf1 a1~a\longa*1/2
     \bar "|."
 }
 
@@ -399,8 +400,8 @@ coroIIaltoXX = \relative c' {
         c r8 d[ d c] bf4 d | d2. d4 cs8[ b a g] a2 | 
 
     a1 r1 | r1 r4 c c4. c8 | c1 r1 | R\breve 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve r1 r2 g' | g a f1 | \singleTime\time 3/1 
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve r1 r2 g' | g a f1 | \singleTime\time 3/1\threeWholeFromBreve 
         e\breve r1 | R\breve.*2 | d1. d2
 
     a'1 | fs\breve r1 | R\breve.*3 | e1 e f | a\breve r1 | R\breve.*3 |
@@ -408,7 +409,7 @@ coroIIaltoXX = \relative c' {
         d,1 d e | g e a | a1. f2 g1 | a\breve. | R\breve.*2 | d,1 a a |
         a\breve r1 | 
 
-    c1 c\breve | \fourTwoCutTime c1 r2 d ~ | d d bf1 | r2 g' g1 | r2 g,1 g'2 ~|
+    c1 c\breve | \fourTwoCutTime\breveFromThreeWhole c1 r2 d ~ | d d bf1 | r2 g' g1 | r2 g,1 g'2 ~|
         g c, r1 | r1 c ~ | c2 c c1 | c2 f1 f2 | f1 f | r2 f1 f2 |
         f\longa*1/2
     \bar "|."
@@ -447,17 +448,19 @@ coroIItenoreXX = \relative c' {
         g e e4. e8 a8[ a a g] f4. c8 | c2 r r8 g'[ f e] d4 d |
 
     d2 r4 a' a1 ~ | a2 fs r1 | r1 r4 g g4. e8 | a1 r1 | R\breve | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve r1 r2 d | g, c1 bf2 | 
-    \singleTime\time 3/1 c\breve r1 | R\breve.*2 | g1. bf2 a1 | a\breve r1 |
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve r1 r2 d | g, c1 \ficta b2\unficta | 
+    \singleTime\time 3/1\threeWholeFromBreve c\breve r1 | R\breve.*2 | 
+        g1.\ficta b2 \unficta a1 | a\breve r1 |
 
     R\breve.*3 | a1 a a | a\breve r1 | R\breve.*3 R\breve. | 
         b1 b c | d c c | c1. c2 c1 |
               % vv inserted
         c\breve. R\breve.*2 | f,1 f f | c1. d2 e c | f4 g a bf c1. c,2 |
 
-    \fourTwoCutTime c1 r2 f ~ | f bf1 ef,2 | r2 g g1 ~ | g2 g g1 | g r1 | 
-        r1 a ~ | a2 a4 c2 g4 c2 ~ | c a a1 | r2 bf1 bf2 | bf2. f4 f\longa*1/2
+    \fourTwoCutTime\breveFromThreeWhole c1 r2 f ~ | f bf1 ef,2 | r2 g g1 ~ | g2 g g1 | g r1 | 
+        r1 a ~ | a2 a4 c2 g4 c2 ~ | c a a1 | r2 bf1 bf2 | bf2. f4 f1~ 
+        f\longa*1/2
     \bar "|."
 }
 
@@ -494,19 +497,20 @@ coroIIbassoXX = \relative c, {
 
     f8[ f, f g] a4 f | c'1 r8 g[ g a] bf4 g | d'2 d a1 | d r1 | r1 r4 c c4. c8|
         f1 r1 | R\breve | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 
 
     R\breve.*4 
-    \fourTwoCutTime R\breve r1 r2 g | e f d1 |
-    \singleTime\time 3/1 c\breve r1 | R\breve.*2 g1. g2 a1 | d\breve r1 | 
+    \fourTwoCutTime\breveFromThreeWhole R\breve r1 r2 g | e f d1 |
+    \singleTime\time 3/1\threeWholeFromBreve c\breve r1 | R\breve.*2 g1. g2 a1 | d\breve r1 | 
         R\breve.*3 |
         a1 a d | a\breve r1 | R\breve.*3 R\breve. | 
 
     g1 g c | g c a | f f' c | f,\breve. | R\breve.*2 | d'1 d d | a\breve. |
-        f1 c'\breve | \fourTwoCutTime f,1 r2 bf ~ | bf bf ef1 | r2 e
+        f1 c'\breve | \fourTwoCutTime\breveFromThreeWhole f,1 r2 bf ~ | bf bf ef1 | 
+        r2\ficta ef\unficta
 
     b2 c | g' c, g1 | c r1 | r1 f2. g4 | a2 f c1 | f2 f,1 f2 | bf1. bf2 
-        bf1 f\longa*1/2
+        bf1 f1~f\longa*1/2
     \bar "|."
 }
 
@@ -548,15 +552,15 @@ coroIIIaltoXX = \relative c' {
 
     g4. f16[ e] d1 | r8 f[ f g] a4. g16[ f] e4 a4. g8 e4 | fs2 fs2. fs4 g2 |
         e f g1 | f r1 | R\breve | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 g1 g f |
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 | \singleTime\time 3/1\threeWholeFromBreve g1 g f |
 
     e\breve r1 | g1. g2 f1 | g\breve r1 | R\breve.*2 | e1 e fs | g g2 f1 f2 | 
         e\breve r1 | a1 a f | e\breve r1 | R\breve.*2 | g1 g e |
         d\breve r1 | R\breve.*2 | f1 f f | e\breve r1 |
         g1 g g | 
 
-    f\breve f1 | e1. f4 g a1 | a g\breve | \fourTwoCutTime f1 r2 f ~ | 
+    f\breve f1 | e1. f4 g a1 | a g\breve | \fourTwoCutTime\breveFromThreeWhole f1 r2 f ~ | 
         f f g1 | r2 g1 f4 ef | d g, c1\ficta b2\unficta | c1 r1 | 
         c4 c8[ d] c4 bf a a8[ bf] a4 g | f2
 
@@ -597,15 +601,15 @@ coroIIItenoreIXX = \relative c' {
 
     c2 ~ | c4 g g4. c8 c1 | r4 g2 g4 g1 | r4 a2 a4 a1 | r2 d2. d4 d g, ~ |
         g e a4. b8 c1 | c r1 | R\breve | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
 
-    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 e,1 e c' | 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 | \singleTime\time 3/1\threeWholeFromBreve e,1 e c' | 
         c\breve r1 | g1. g2 d'1 | b\breve r1 | R\breve.*2 | a1 a a | 
         g g2 c1 f,2 | a\breve r1 | a a a | a\breve r1 | 
 
     R\breve.*2 | b1 b c | d\breve r1 | R\breve.*2 | c1 c c | c\breve r1 |
         d1 d d | d\breve r1 | c\breve c1 c c\breve | 
-        \fourTwoCutTime c1 r2 d ~ | d4 bf bf2 r1 | 
+        \fourTwoCutTime\breveFromThreeWhole c1 r2 d ~ | d4 bf bf2 r1 | 
 
     r2 bf g1 | g1. g2 | g1 g4 g8[ f] g4 g | a2. bf4 c2 f, ~ |
         f4 c' c2. g2 c4 | c2 c2. a4 a2 | r2 f2. d4 d2 | bf'2 f f4 g a bf | 
@@ -646,18 +650,18 @@ coroIIIbassoIXX = \relative c {
         c4 c c4. c8 c1 | r4 c2 c4 d1 | r4 d2 d4 e a,2 a'4 |
 
     a2 a2. a4 d,2 | e4 g2 f e8[ d] e2 | f1 r1 | R\breve | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 g1 e c | 
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 | \singleTime\time 3/1\threeWholeFromBreve g1 e c | 
         c\breve r1 | e1. e2 a1 | g\breve r1 | R\breve.*2 | 
 
     e1 a, d | g, c a | a\breve r1 | e'1 a, d | a\breve r1 | R\breve.*2 |
         g'1 g g | g\breve r1 | R\breve.*2 | a1 a a | g\breve r1 | bf bf g |
         a\breve a1 | a e r1 | c c\breve | 
 
-    \fourTwoCutTime c1 r2 f ~ | f4 d bf2 bf'1 | r2 g2. g,4 g'2 | 
+    \fourTwoCutTime\breveFromThreeWhole c1 r2 f ~ | f4 d bf2 bf'1 | r2 g2. g,4 g'2 | 
         r2 c b8[ a g f] g2 ~ | g e e4 e8[ d] e4 g | e2. e4 f2 c ~ |
                                    % vvvvvvvvvvvvvvvvvvvvv downa  whole step
-        c c c c ~ | c c f1 ~ | f2 bf, f'1 ~ f  f\longa*1/2
+        c c c c ~ | c c f1 ~ | f2 bf, f'1 ~ f  f~f\longa*1/2
 
     \bar "|."
 }
@@ -695,17 +699,17 @@ coroIIIbassoIIXX = \relative c, {
         g'1 c,2 c ~ | c4 c c4. c8 f1 | r8 c[ c d] e4 c g'1 | 
 
     r8 d[ d e] f4 d a'2 a | d, d'2. d4 b2 | c\breve | f,1 r1 | R\breve | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 c'1 c f, |
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 | \singleTime\time 3/1\threeWholeFromBreve c'1 c f, |
         c'\breve r1 | c1. c2 d1 | g,\breve r1 | 
 
     R\breve.*2 | a1 a d, | g e2 f1 d2 | a'\breve r1 | a a d, | a'\breve r1 | 
         R\breve.*2 | g1 g c, | g'\breve r1 | R\breve.*2 | f1 f f | 
         c'\breve r1 | g1 g g | d'\breve d,1 | a'\breve. | f1 c\breve | 
 
-    \fourTwoCutTime f1 r2 bf ~ | bf bf ef,1 | r2 ef' b c | g c, g'1 | 
+    \fourTwoCutTime\breveFromThreeWhole f1 r2 bf ~ | bf bf ef,1 | r2 ef' b c | g c, g'1 | 
         c, c'4 c8[ d] c4 bf | a a8[ bf] a4 g f1 ~ | f2 f c1 | f2 f1 f2 | 
-        bf,1. bf2 | bf1 f'\longa*1/2
+        bf,1. bf2 | bf1 f'~f\longa*1/2
         
 
     \bar "|."
@@ -745,21 +749,22 @@ coroIVcantoXX = \relative c'' {
 
     g4 a bf1 | r8 d[ d c] a4 b cs d2 cs4 | d1 r1 | R\breve*3 | 
 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 R\breve. | 
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 | \singleTime\time 3/1\threeWholeFromBreve R\breve. | 
         c1 c a | g\breve r1 | R\breve.*3 | a1 a a | 
 
-    b1 c2 a1 d2 | cs\breve r1 | c c d | c\breve r1 | R\breve.*2 | d1 d c |
+    b1 c2 a1 d2 | cs\breve r1 | \ficta cs cs! d | cs!\breve r1 | 
+        R\breve.*2 | d1 d c |
         b\breve r1 | R\breve. | c1 c c | a\breve r1 | R\breve.*2 | d1 d d | 
         c\breve. | f\breve e1 | 
 
-    \fourTwoCutTime f1 r2 bf, ~ | bf bf bf1 | r1 r2 g ~ | g g g1 | g r1 |
+    \fourTwoCutTime\breveFromThreeWhole f1 r2 bf, ~ | bf bf bf1 | r1 r2 g ~ | g g g1 | g r1 |
         r1 c4 c8[ d] c4 bf | a2 c2. bf8[ a] g4 c, | c'1 r1 | 
         r8 f[ d e] f[ d bf c] d4. bf16[ c] 
 
     % --- page ---
     d4. d16[ e] | f2 f16[ f, g a] bf[ c d e] f1 | 
-        r8 c[ ef d] c16[ bf c bf] c[ bf a g] a1 ~ a\longa*1/2
+        r8 c[ ef d] c16[ bf c bf] c[ bf a g] a\longa*1/4
     \bar "|."
 }
 
@@ -797,16 +802,16 @@ coroIValtoIXX = \relative c'' {
         r2 c,2. c4 c4. c8 | c4 g'2 g4 g2 r4 d ~ | d a' a1 a2 | a1 r1 | 
         R\breve*3 
 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 R\breve. |
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 | \singleTime\time 3/1\threeWholeFromBreve R\breve. |
         e1 e f | g\breve r1 | R\breve.*3 | e1 e d | d g2 a1 a2 | a\breve r1 |
         e1 e f | a\breve r1 | R\breve.*2 | g1 g g | g\breve r1 | R\breve. | 
         a1 a e | 
 
     c'\breve r1 | R\breve.*2 | f,1 f d2 a' ~ | a e e1 r1 | 
-        c2 d e f g2. c,4 | \fourTwoCutTime c1 r2 f ~ | f4 bf, bf1 ef2 | 
+        c2 d e f g2. c,4 | \fourTwoCutTime\breveFromThreeWhole c1 r2 f ~ | f4 bf, bf1 ef2 | 
         R\breve | g2. c,4 d1 | e r1 | r1 f ~ | f2 c c1 | c2 r4 c' a2 f ~ |
-        f f f1 ~ | f f\longa*1/2
+        f f f1 ~ | f f~f\longa*1/2
     \bar "|."
 }
 
@@ -845,13 +850,13 @@ coroIValtoIIXX = \relative c' {
         c4. c8 g2 r8 c[ c bf] a4 c | 
 
     r2 r4 g2 g4 g2 | r4 d' a1 a2 | a1 r1 | R\breve*3 | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 R\breve. |
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 | \singleTime\time 3/1\threeWholeFromBreve R\breve. |
         c1 c1. a2 | c\breve r1 | R\breve.*3 | cs1 cs d | d c f2. d4 | 
 
     a\breve r1 | cs1 e d | e\breve r1 | R\breve.*2 | d1 d e | g\breve r1 | 
         R\breve. | c,1 c c | c\breve r1 | R\breve.*2 | a1 a a | a\breve r1 |
-        c c\breve | \fourTwoCutTime c1 r2 d ~ | d d
+        c c\breve | \fourTwoCutTime\breveFromThreeWhole c1 r2 d ~ | d d
 
     g,1 | r1 r2 g ~ | g g g1 | g r1 | r1 c ~ | c2 f r4 c8[ d] e[ f g e] |
         c2 c1 a2 | f'1. bf,2 | bf2. d4 a2. bf4 | c\longa*1/2
@@ -891,17 +896,17 @@ coroIVbassoXX = \relative c {
         ef2. f4 g2 c, | g'1 c,2 c ~ | c4 c c4. c8 f1 | c8[ c c d] e4 c
 
     g'1 | d2 d a'1 | d, r1 | R\breve*3 | 
-    \singleTime\time 3/1 R\breve.*5 R\breve.*5 R\breve.*4 
-    \fourTwoCutTime R\breve R\breve*2 | \singleTime\time 3/1 R\breve. | 
+    \singleTime\time 3/1\threeWholeFromBreve R\breve.*5 R\breve.*5 R\breve.*4 
+    \fourTwoCutTime\breveFromThreeWhole R\breve R\breve*2 | \singleTime\time 3/1\threeWholeFromBreve R\breve. | 
         c1 c f | c\breve r1 | R\breve.*3 | a'1 a d, | g e2 f1 d2 | 
         a'\breve r1 | 
 
     a1 a d, | a'\breve r1 | R\breve.*2 | g1 g c | g\breve r1 | R\breve. |
         f1 a c | f,\breve r1 | R\breve.*2 | d1 d d | a'\breve. | f1 c\breve | 
-        \fourTwoCutTime f1 
+        \fourTwoCutTime\breveFromThreeWhole f1 
 
     r2 bf, ~ | bf2 bf ef1 | r1 r2 ef | b2 c g'1 | c, r1 | r1 f2. g4 |
-        a2 f c'1 | f,2 f1 f2 | bf1 bf, ~ | bf2 bf f'\longa*1/2
+        a2 f c'1 | f,2 f1 f2 | bf1 bf, ~ | bf2 bf f'1~\longa*1/2
     \bar "|."
 }
 
@@ -913,9 +918,9 @@ coroVcantoXXincipit = \relative c'' {
     c4
 }
 
+% canto: checked against source
 coroVcantoXX = \relative c'' {
     \fourTwoCommonTime
-    \clef soprano
     \key f \major
 
     R\breve*4 R\breve*5 R\breve*5 R\breve*5 R\breve*5 R\breve*4
@@ -947,16 +952,16 @@ coroVcantoXX = \relative c'' {
     % --- page ---
     r8 bf[ bf c] d4. c16[ bf] | a1 r2 a | a d2. d4 d2 | c1. c2 | 
         c4 f f c d2. c4 | bf2 a1 g2 | 
-    \singleTime\time 3/1 a\breve. ~ | a | R\breve.*3 | a1 a bf | c a c | 
+    \singleTime\time 3/1\threeWholeFromBreve a\breve. ~ | a | R\breve.*3 | a1 a bf | c a c | 
         bf g bf | a f a | g e g | f d f | e c e | 
 
-    d1. e2 f1 | g e\breve | \fourTwoCutTime d2 fs g g | a1 d, | R\breve |
-        \singleTime\time 3/1 R\breve. | g1 g f | e\breve r1 | g1. g2 e1 |
+    d1. e2 f1 | g e\breve | \fourTwoCutTime\breveFromThreeWhole d2 fs g g | a1 d, | R\breve |
+        \singleTime\time 3/1\threeWholeFromBreve R\breve. | g1 g f | e\breve r1 | g1. g2 e1 |
 
-    fs\breve r1 | R\breve.*3 | a1 a f | e\breve r1 | R\breve.*4 | g1 g e |
-        d2 g1 e c2 ~ | c c'2. bf4 a2 g1 | f\breve. | R | 
+    fs\breve r1 | R\breve.*3 | a1 a f | e\breve r1 | R\breve.*3 R\breve. | 
+        g1 g e | d2 g1 e c2 ~ | c c'2. bf4 a2 g1 | f\breve. | R | 
 
-    bf1 bf bf | a\breve a1 | a\breve. | c1 c\breve | \fourTwoCutTime
+    bf1 bf bf | a\breve a1 | a\breve. | c1 c\breve | \fourTwoCutTime\breveFromThreeWhole
         c1 r2 f, ~ | f bf g1 | r1 r2 g ~ | g f4 ef d g, g'2 | g1 r1 |
         a4 a8[ g]
 
@@ -965,26 +970,266 @@ coroVcantoXX = \relative c'' {
     \bar "|."
 }
 
+coroValtoXXincipit = \relative c' {
+    \time 4/4
+    \clef "petrucci-c3"
+    \key f \major
+
+    f4
+}
+
+% alto: checked against source extensively, corrected maybe?
 coroValtoXX = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key f \major
 
+    R\breve*4 R\breve*5 R\breve*5 R\breve*5 R\breve*5 R\breve*4 
+        r1 f4 f8[ f] f4 f | f2. a4 f g 
+
+    e4 f | 
+        d8. c16 bf4 a4. c8 bf16[ a bf8] g16[ a bf8] a16[ g a8] f16[ g a8] 
+        g8 f4 e8 f4 a' 
+
+    f4 g e f | d8. c16 bf4 a f'4. f8 g4 g2 | e2 r4 f4. f8 g4 g2 |
+        e f g4 c, c2 ~ | c4 bf8[ a] g2 
+
+    a1 | r1 d | bf2 d d1 | r2 a'2. a,4 a2 ~ | a a'2 a1 | a r1 | d, bf2 d |
+        d1 r2 a'2 ~ | a4 a,4 a1 a'2 | a1 
+
+    r2 d,2 ~ | d4 d4 d2 d1 ~ | d r2 c2 ~ | c4 c4 c g2 ef'4 bf2 | bf1 r1 |
+        R\breve*2 | r2 d g f | f1 r | r1 r2 f | 
+
+    d4 bf c d2 c4 d2 | r4 c c2 r4 d d2 | r4 e e2. b4 e2 ~ | 
+        e4 a, a b cs d
+
+    e4. a,8 | a1 r1 | R\breve*4 | r1 r2 c | c2. g4 g1 | g r2 d' ~ | 
+        d4 g, d'2 d d | g,4 c2 a4 d2
+
+    r4 f ~ | f8[ f] f4 d2 d r4 g, | a2 d d1 | R\breve*3 | r4 d d d f1 | 
+        R\breve*5 | r2 d2. d4 d2 | 
+
+    r2 g1 g2 | g1 r4 g e8[ d e f] | g2 c, r4 f2 c4 | c2 c r4 g'2 d4 | 
+        d2 d4 a'2 a,4 a2 | a'1
+
+    % --- page ---
+    % checked thru here
+
+%   vv inserting rest
+    r1
+    r2 g2. g4 a2 | g2. c,4 c c c4. f8 | d2\ficta fs\unficta g d |
+                                            % vvvvvvv ditching
+    \singleTime\time 3/1\threeWholeFromBreve % d1 d e | 
+        f1 d f | e c e |
+
+    d\breve r1 | a'1 f d 
+        g e c | f1. e2 d1 | c\breve r1 | d1 d e | f d f |
+        e c e | d bf d | 
+
+    c a c | bf1. c2 d1 | d\breve cs1 | 
+        \fourTwoCutTime\breveFromThreeWhole d2 d d ef | c1 b |
+        R\breve | 
+        \singleTime\time 3/1\threeWholeFromBreve R\breve. | g1 c c | c\breve r1 | 
+
+    d1. b2 cs1 | a\breve r1 | R\breve.*3 | cs1 e d | e\breve r1 | R\breve.*4 |
+        d1 d g, | g\breve r1 | c1 a2 c1 g2 | 
+
+             % vvvvvvv 1 measure cut (struck thru in source)
+    c\breve. | R\breve. | d1 d d | d1. a2 a1 | r2 c1 c2 c1 | c c\breve |
+        \fourTwoCutTime\breveFromThreeWhole c1 r2 d | bf1 bf | r1 r2 g ~ | g g'2. g4 
+
+    g,2 ~ | g c r1 | e a | e r4 g g4. c,8 | c\breve | r2 d1 d2 | d1 r2 f ~ |
+        f c c\longa*1/4
     \bar "|."
 }
 
+coroVtenoreXXincipit = \relative c' {
+    \time 4/4
+    \clef "petrucci-c4"
+    \key f \major
+
+}
+
+% tenore: checked against source
 coroVtenoreXX = \relative c' {
     \fourTwoCommonTime
-    \clef tenor
     \key f \major
 
+    R\breve*4 R\breve*5 R\breve*5 R\breve*5 R\breve*5 R\breve*4
+        r1 a4 a8[ a] a4 d | c2. f4 d ef 
+
+    c4 d | bf8. a16 g4 f a f g e f | d bf' a4. f'8 d4 ef c d | bf8. a16 g4 f 
+
+    a4. a8 c4 b2 | c r4 a4. a8 c4 b2 | c8[ bf a c] bf[ a g f] e2 f | 
+        g4 c, c'2 c1 | r1
+
+    f, ~ | f2 d d1 | d r2 a' | a1. a2 | a1 r1 | f1. d2 | d1 d | r2 a' a1 ~ |
+        a2 a a a ~ | a4 a a2 g1 ~ | g r2 g ~ | g4 c
+
+    g2 g1 | R\breve R\breve*2 | r2 bf c4 bf2 a4 | bf1 r1 | r1 bf2 c4 d | 
+        bf2 f'4. f,8 g2 bf | r4 a g2 r4 g a2 |
+
+    r4 c b2. b4 e,2 ~ | e a2 a1 | a r1 | R\breve*4 | r1 r2 f | c1 r4 g' d2 |
+        r2 g g g | r4 d
+
+    d2 d g | g a bf r4 bf4 ~ | bf8[ bf8] a4 g2 d4 d'2 d4 | d2 d, g1 | 
+        R\breve*3 | r4 f f f f1 | 
+    % checked thru here
+    % --- page ---
+    R\breve*5 | r2 f bf1 | bf r4 g2 g4 | g2. g4 e8[ d e f] g2 | 
+        c,4 g' e8[ f g e] f2 f |
+
+    g4 c2 g4 g2 g | r2 a a1 | a d2. d4 | g,2 c2. c,4 c2 | 
+        c'4 a a4. a8 bf4 f' f c | 
+
+    d2. c4 bf1 | 
+        \singleTime\time 3/1\threeWholeFromBreve a1 a b | c a c | 
+        bf g bf | a\breve r1 |
+        g\breve g1 | f\breve g1 | e e fs | g e g | 
+
+    f\breve f1 | g\breve e1 | f\breve d1 | e\breve c1 | d\breve. |
+        bf'1 a\breve | \fourTwoCutTime\breveFromThreeWhole 
+        a2 a d, g ~ | g\ficta fs\unficta g1 | R\breve |
+                           % vvvvvv missing R\breve?
+        \singleTime\time 3/1\threeWholeFromBreve R\breve. e1 e c | c\breve r1 | 
+
+    g'1 d' a | a\breve r1 | R\breve.*3 | e1 a d, | a'\breve r1 | R\breve.*4 |
+        g1 g1. c,2 | g'1 c, e | f1. a2 c1 | a\breve. | R | 
+
+    g1 d d | d d'\breve | r2 a1 a2 a1 | r1 g c, | \fourTwoCutTime\breveFromThreeWhole c1 r2 f ~ |
+        f4 d d bf'2 g4 g2 | R\breve | g2. g4 
+
+    g1 | g r1 | c1. c2 | c f, r2 c' ~ | c4 f, f1 f2 | f1 r2 f | 
+        bf2. f4 f1~f\longa*1/2
     \bar "|."
 }
 
+coroVbassoXXincipit = \relative c {
+    \time 4/4
+    \clef "petrucci-f4"
+    \key f \major
+
+    f4
+}
+
+% basso: checked against source
 coroVbassoXX = \relative c {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
+
+    R\breve*4 R\breve*5 R\breve*5 R\breve*5 R\breve*5 R\breve*4
+        r1 f4 f8[ f] f4 f | f1 r1 | 
+
+    r2 r4 f d ef c d | bf8. a16 g4 f2 r1 | r2 r4 f'4. f8 c4 g'2 | 
+        c, r4 f4. f8 c4 g'2 | 
+
+    c,1 c ~ | c f, | r1 bf ~ | bf2 bf bf1 ~ | bf2 d d1 | a\breve | d1 r1 |
+        bf1. bf2 | bf1. d2 | d1 a ~ | a d2 d ~ | d4 d d2
+
+    g,1 ~ | g r2 c ~ | c4 c c2 ef1 | bf r1 | R\breve*2 | r2 bf ef f |
+        bf,1 r1 | r1 bf'2 a4 f | g2 f4 d
+
+    ef2 bf | r4 f c'2 r4 g d'2 | r4 a e'2. e4 e2 | a,\breve | d1 r1 | 
+        R\breve*4 | r1 r2 f, | f c'
+
+    g1 | c2 c c g | d'1 g,2 g | c c bf r4 bf' | f8[ g a f] g[ g, bf c] 
+
+    d2 g | d1 g, | R\breve*3 | r4 d' d d bf1 |
+    % --- page ---
+    % checked thru here
+    R\breve*5 | r2 bf2. bf4 bf2 | ef2. f4 g2 c, | g1 c2 c ~ | c4 c c4. c8 f1 |
+        c r8 g[ g a] 
+
+    bf4 g | d'1 a | d2 d2. d4 b2 | c\breve | f,4 f' f4. f8 bf2. a4 | 
+        g2 fs g1 | 
+        \singleTime\time 3/1\threeWholeFromBreve d\breve. | R | d1 d e | 
+    
+    f1 d f | e c e | d1. c2 bf1 | a\breve a1 | g\breve g1 | d' f d | 
+        e\breve c1 | d\breve bf1 | c\breve a1 | bf\breve. |
+
+    g1 a\breve | \fourTwoCutTime\breveFromThreeWhole d2 d b c | a1 g | R\breve | 
+        \singleTime\time 3/1\threeWholeFromBreve R\breve. | c1 c f, | c'\breve r1 | g1. g2 a1 |
+        d\breve r1 | R\breve.*3 | a1 a d | 
+
+    a\breve r1 | R\breve.*3 R\breve. | g1 g c | g c a | f f' c | f,\breve. | 
+        R | g1 g g | d'\breve d1 | a\breve. | f1 c'\breve | 
+
+    \fourTwoCutTime\breveFromThreeWhole f,1 r2 bf ~ | bf bf ef1 | r1 r2 ef | b c g1 | c r1 | 
+        a'4 a8[ bf] a4 g f1 ~ | f2 f c1 |
+
+    f2 f,1 f2 | bf1. bf2 | bf1 f1~f\longa*1/2
+    \bar "|."
+}
+
+bassoSeguenteXXincipit = \relative c {
+    \time 4/4
+    \key f \major
+    \clef "petrucci-f4"
+
+    f1.
+}
+
+% checked against source
+bassoSeguenteXX = \relative c {
+    \fourTwoCommonTime
+    \key f \major
+
+    f1. f2 | f,1. f2 | f4. e8 f4 g a4. g8 a4 bf | c\breve | f,2 f bf1 | 
+        bf2 bf f1 | c' c2 c | g1 g | c2 c a f | c'\breve | f,2 f4 f bf4. a8
+
+    bf4 c | d1 g,4 g' ef c | d d' bf g a2 a, | bf bf c1 ~ | c f, |
+        f2 f bf1 ~ | bf2 a4 g f4. e8 f4 g | a4. g8 a4 bf c1 ~ | c2 b4 a g1 ~|
+        g c | r8 c[ a bf] c4 bf
+
+    a2. g4 | f2 e f1 | c' f2 f4 f | bf2 f g g | c,4 c'2 a4 bf2 g4 a ~ |
+        a f g2 f1 | bf2 d c1 | f, bf,2 d | c1 f4 f8[ f] f4 f | 
+        f2. % \clef tenor 
+        f'4 d ef 
+
+    c4 d | bf8. a16 g4 f % \clef bass 
+        f4 d ef c d | bf8. a16 g4 f % \clef tenor 
+        f''4 d ef c d | 
+        bf8. a16 g4 f % \clef bass 
+        f4. f8 c4 g'2 | c, r4 f4. f8 c4 g'2 |
+
+    c,1 c ~ | c f, | r1 bf ~ | bf2 bf bf1 ~ | bf2 d d,1 | a'\breve | d,1 r1 |
+        bf'1. bf2 | bf1. d2 | d,1 a' ~ | a d, ~ | d g ~ | g c2 c ~ |
+        c4 c c2 ef1 | bf2 bf a4. a8 bf4. bf8 | 
+
+    f4. f8 g4. g8 d1 | g2 g' ef f | bf, bf ef f | bf, bf' a4 f g2 | 
+        f4 d ef2 bf4 bf' a f | g2 f4 d ef2 bf | f'4 f, c'2 g'4 g, 
+
+    d'2 | a'4 a, e2. e4 e2 | a\breve | d2 d g, g | f4 f' e4. c8 d4 bf c a |
+        bf c f,2 r4 c' bf4. g8 | a4 f g2 d'1 | g,2. g4 bf2 f | c'1 f,2 f |
+        f c' g1 | c2 c c g |
+
+    d'1 g,2 g | c c bf2. bf'4 | f8[ g a f] g[ g, bf c] d2 g | d1 g,2 g2 ~|
+        g4 g4 fs2g ef' | d d2. d4 cs2 | d bf' a4 a, a a | d d d d bf2 bf |
+        ef f g1 | f4 d
+
+    ef4. d8 bf2 ef4. c8 | bf4 d ef g f d ef c | d4. bf8 c4 a bf4. g8 a4 f |
+        c'\breve | f,2 bf2. bf4 bf2 | ef2. f4 g g, c2 | g1 c2 c2 ~ | 
+        c4 c4 c4. c8 f2 f, | c'1 
+
+    g8[ g g a] bf4 g | d'1 a | d,2 d'2. d4 b2 | c\breve | 
+        f,4 f' f4. f8 bf2. a4 | g2 fs g1 | 
+
+    \singleTime\time 3/1\threeWholeFromBreve d\breve\ficta b'1\unficta | 
+        c a c | d, d e | f d f | e c e | 
+        d1. c2 bf1 | a\breve a1 | 
+
+    g\breve g1 | d' f d | e\breve c1 | d\breve bf1 | c\breve a1 | bf\breve. |
+        g1 a\breve | \fourTwoCutTime\breveFromThreeWhole d2 d b c | a1 g2 g' | e f d1 | 
+        \time 3/1\threeWholeFromBreve c1 c f, | c' c f, | c'1. c2 d1 | 
+
+    g,1. g2 a1 | d d g, | c a2 bf1 g2 | a1 a d, | g e2 f1 d2 | a'1 a d | 
+        a a d, | a' a d | a d bf | g g' d | g, g c | g g c | 
+
+    g1 c a | f f' c | f, f f | c' c c | g g g | d'\breve d1 | a\breve. |
+        f1 c'\breve | \fourTwoCutTime\breveFromThreeWhole f,1 r2 bf ~ | bf2 bf ef,1 |
+        r2 ef' b c | g c 
+
+    g1 | c c4 c8[ d] c4 bf | a a8[ bf] a4 g f1 ~ | f2 f c'1 | 
+        f,2 f1 f2 | bf1. bf2 | bf1 f1~f\longa*1/2
 
     \bar "|."
 }
@@ -1122,24 +1367,31 @@ coroVcantoXXincipitVoice = <<
     >>
 >>
 
-%coroValtoXXincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \coroValtoXXincipit
-%    >>
-%>>
-%
-%coroVtenoreXXincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \coroVtenoreXXincipit
-%    >>
-%>>
-%
-%coroVbassoXXincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \coroVbassoXXincipit
-%    >>
-%>>
-%
+coroValtoXXincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \coroValtoXXincipit
+    >>
+>>
+
+coroVtenoreXXincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \coroVtenoreXXincipit
+    >>
+>>
+
+coroVbassoXXincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \coroVbassoXXincipit
+    >>
+>>
+
+bassoSeguenteXXincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \bassoSeguenteXXincipit
+    >>
+>>
+
