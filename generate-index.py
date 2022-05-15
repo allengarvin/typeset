@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-import os, sys, argparse, re, collections, datetime, subprocess
+import os, sys, argparse, re, collections, datetime, subprocess, glob
 
 
 
@@ -743,8 +743,13 @@ def generate_files(pieces):
         else:
             plural = ""
         fd.write('  <li> <a href="lang-{0}.html">{1}</a> ({2} piece{3})</li>\n'.format(lang, lang.capitalize(), language_count[lang], plural))
-    fd.write("""</ul><p>
-        <a href='index-composer.html'>Composer List</a><br><p>
+
+    fd.write("</ul><p>\n")
+
+    output = subprocess.check_output(["./scripts/categories.py", "-l"])
+    fd.write(output.decode("utf-8"))
+    
+    fd.write("""<a href='index-composer.html'>Composer List</a><br><p>
         
         </div>
       <!-- content goes here -->

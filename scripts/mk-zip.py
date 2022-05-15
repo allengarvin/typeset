@@ -108,8 +108,11 @@ def check_score(pn):
     score_path = path + "/single-parts/" + pn + "-*-0-score.ly"
     scores = glob.glob(score_path)
     if len(scores) == 0:
-        print("No files: {0}".format(score_path))
-        sys.exit(1)
+        score_path = path + "/single-parts/" + pn + "-*-00-score.ly"
+        scores = glob.glob(score_path)
+        if len(scores) == 0:
+            print("No files: {0}".format(score_path))
+            sys.exit(1)
     if len(scores) > 1:
         print("Multiple files: {0}".format(score_path))
         for s in scores:
