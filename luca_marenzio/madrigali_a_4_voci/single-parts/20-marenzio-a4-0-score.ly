@@ -19,6 +19,7 @@
     flats = 1
     final = "d"
     shorttitle = "tutto_l_di_piango"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

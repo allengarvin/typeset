@@ -15,6 +15,7 @@
     instrument = "Capriccio 8:  (score)"
     shorttitle = "capriccio_8"
     shortcomp = "cima"
+    categories = "[canzona]"
 
     % Unchanging:
     language = "instrumental"

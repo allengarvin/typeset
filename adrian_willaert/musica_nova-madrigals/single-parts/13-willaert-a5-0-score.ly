@@ -23,6 +23,7 @@
     flats = 1
     final = "c"
     shorttitle = "quando_fra_l_altre_donne"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

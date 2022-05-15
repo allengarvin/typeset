@@ -22,6 +22,7 @@
     flats = 1
     final = "g"
     shorttitle = "qual_vive_salamandra"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

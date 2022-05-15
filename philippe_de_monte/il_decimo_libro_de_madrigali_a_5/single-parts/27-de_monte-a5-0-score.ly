@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "credei_mentre_io_dormia"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

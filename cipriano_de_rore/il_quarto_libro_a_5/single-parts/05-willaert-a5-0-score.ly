@@ -23,6 +23,7 @@
     originallyset = "2019-09-25"
     flats = 1
     final = "f"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
     composer = "Adrian Willaert (c.1490-1562)"

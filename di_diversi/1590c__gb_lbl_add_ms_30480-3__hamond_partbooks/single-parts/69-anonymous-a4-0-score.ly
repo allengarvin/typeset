@@ -24,6 +24,7 @@
     originallyset = "2021-08-21"
     flats = 1
     final = "g"
+    categories = "[in-nomine]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

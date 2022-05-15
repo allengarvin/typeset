@@ -24,6 +24,7 @@
     originallyset = "2020-04-27"
     flats = 1
     final = "f"
+    categories = "[polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

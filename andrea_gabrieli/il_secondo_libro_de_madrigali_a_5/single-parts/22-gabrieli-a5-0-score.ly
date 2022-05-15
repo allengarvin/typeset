@@ -23,6 +23,7 @@
     flats = 1
     final = "c"
     shorttitle = "gira_lunga_stagion"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

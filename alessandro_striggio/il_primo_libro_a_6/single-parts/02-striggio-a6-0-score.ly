@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "e_qual_cervo"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

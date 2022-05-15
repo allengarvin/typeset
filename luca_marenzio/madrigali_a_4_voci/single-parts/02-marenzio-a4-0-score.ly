@@ -18,6 +18,7 @@
     flats = 1
     final = "f"
     shorttitle = "dissi_a_l_amata_mia"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

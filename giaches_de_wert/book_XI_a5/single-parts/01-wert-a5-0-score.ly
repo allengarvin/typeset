@@ -20,6 +20,7 @@
     flats = 1
     final = "g"
     shorttitle = "ah_dolente_partita"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

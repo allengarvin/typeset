@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "lasso_amor_mi_trasporta"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -13,8 +13,8 @@
     title = "Je cuide se ce temps dure"
     language = "instrumental"
     instrument = "Je cuide se ce temps dure (score)"
-    composer="Jean Japart (fl.c.1474-1481)"
-    subtitle=\markup { \italic { Je quido } } 
+    composer = "Jean Japart (fl.c.1474-1481)"
+    subtitle = \markup { \italic { Je quido } } 
     folio = \markup { fol. 128\super{v} - 129\super{r} }
 
     % Unchanging:

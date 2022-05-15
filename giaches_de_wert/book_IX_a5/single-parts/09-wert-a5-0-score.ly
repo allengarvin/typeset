@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "allor_cherrandin_quei_bei_prati_intorno"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

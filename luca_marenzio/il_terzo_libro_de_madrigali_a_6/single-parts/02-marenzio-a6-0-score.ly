@@ -22,6 +22,7 @@
     flats = 0
     final = "a"
     shorttitle = "danzava_con_maniere"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

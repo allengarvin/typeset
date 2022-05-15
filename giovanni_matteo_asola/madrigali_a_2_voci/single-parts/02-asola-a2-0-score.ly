@@ -25,6 +25,7 @@
     flats = 1
     final = "c"
     shorttitle = "e_quella_a_fiori"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

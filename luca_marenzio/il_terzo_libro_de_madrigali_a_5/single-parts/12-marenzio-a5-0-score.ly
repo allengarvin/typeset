@@ -21,6 +21,7 @@
     originallyset = "2020-01-25"
     flats = 0
     final = "g"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     needtranslation = #'f
     tagline = #'f

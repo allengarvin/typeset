@@ -19,6 +19,7 @@
     lastupdated = "2019-07-31"
     originally_set = "2019-07-31"
     flats = 0
+    categories = "[canzona]"
     final = "d"
     \include "include/distribution-header.ly"
     tagline = #'f

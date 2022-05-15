@@ -22,6 +22,7 @@
     flats = 1
     final = "f"
     shorttitle = "volgi_l_tuo_corso_alla_tua_riva_manca"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

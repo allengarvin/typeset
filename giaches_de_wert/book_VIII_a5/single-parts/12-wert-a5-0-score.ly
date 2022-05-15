@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "qual_musico"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

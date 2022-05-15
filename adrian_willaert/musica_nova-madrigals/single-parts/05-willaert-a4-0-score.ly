@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "questa_anima_gentil"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

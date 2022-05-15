@@ -21,6 +21,7 @@
     flats = 0
     final = "g"
     shorttitle = "al_suon"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

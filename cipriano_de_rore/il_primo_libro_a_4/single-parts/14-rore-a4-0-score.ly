@@ -21,6 +21,7 @@
     originallyset = "2018-08-08"
     lastupdated = "2018-08-08"
     shorttitle = "amor_ben_mi_credevo"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

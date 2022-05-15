@@ -17,6 +17,7 @@
     flats = 0
     final = "g"
     shorttitle = "i_lieti_amanti"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

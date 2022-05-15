@@ -24,6 +24,7 @@
     flats = 1
     final = "f"
     shorttitle = "qual_iniqua_mia_sorte"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

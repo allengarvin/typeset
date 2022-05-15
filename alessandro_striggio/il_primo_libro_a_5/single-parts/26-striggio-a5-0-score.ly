@@ -21,6 +21,7 @@
     flats = 0
     final = "e"
     shorttitle = "misero_piu_d'ogni_uom"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

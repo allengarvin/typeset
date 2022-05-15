@@ -20,6 +20,7 @@
     flats = 1
     final = "g"
     shorttitle = "canzon_primi_toni_a_10"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

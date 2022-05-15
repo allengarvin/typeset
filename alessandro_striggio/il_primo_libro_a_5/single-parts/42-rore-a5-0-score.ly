@@ -25,6 +25,7 @@
     originallyset = "2021-10-30"
     flats = 0
     final = "a"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     source = \markup { \italic{ Il primo libro de madrigali à 5 voci di Alessandro Striggio } (Antonio Gardano press, Venice, 1560) }
     composer = "Cipriano de Rore (c.1515-1565)"

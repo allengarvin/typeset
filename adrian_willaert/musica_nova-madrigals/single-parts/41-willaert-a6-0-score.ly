@@ -18,7 +18,7 @@
     shorttitle = "pien_d’un_vago_penser_che_me_desvia"
     shortcomp = "willaert"
     needtranslation = #'t
-    folio = "Petrarca, Canzoniere CLXIX (169)"
+    folio = \markup { Petrarca, \italic{Canzoniere} CLXIX (169) }
 
     % Unchanging:
     language = "italian"
@@ -26,6 +26,7 @@
     originallyset = "2018-09-16"
     flats = 1
     final = "f"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

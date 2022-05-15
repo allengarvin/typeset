@@ -22,6 +22,7 @@
     flats = 1
     final = "g"
     shorttitle = "onde_avviene"
+    categories = "[madrigal,polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

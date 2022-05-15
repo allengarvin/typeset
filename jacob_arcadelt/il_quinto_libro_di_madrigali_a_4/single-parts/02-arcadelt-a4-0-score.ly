@@ -18,6 +18,7 @@
     flats = 0
     final = "g"
     shorttitle = "pietose_rime"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

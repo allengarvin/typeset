@@ -15,6 +15,7 @@
     instrument = "Capriccio sopra sette note:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "capriccio_sopra_sette_note"
+    categories = "[canzona]"
     shortcomp = "cazzati"
 
     % Unchanging:

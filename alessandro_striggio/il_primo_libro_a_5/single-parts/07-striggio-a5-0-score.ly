@@ -23,6 +23,7 @@
     flats = 1
     final = "c"
     shorttitle = "giovane_illustre"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

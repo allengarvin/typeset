@@ -20,6 +20,7 @@
     flats = 1
     final = "f"
     shorttitle = "con_lagrime_e_sospir"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

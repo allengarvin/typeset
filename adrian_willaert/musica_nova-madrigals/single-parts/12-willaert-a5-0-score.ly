@@ -23,6 +23,7 @@
     flats = 0
     final = "g"
     shorttitle = "ond_io_non_pote"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

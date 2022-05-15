@@ -22,6 +22,7 @@
     originallyset = "2015-08-30"
     lastupdated = "2015-08-30"
     shorttitle = "vieni_clori_gentil"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

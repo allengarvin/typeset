@@ -20,6 +20,7 @@
     flats = 1
     final = "c"
     shorttitle = "vienne_montan"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

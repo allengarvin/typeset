@@ -20,6 +20,7 @@
     originallyset = "2020-01-18"
     flats = 0
     final = "g"
+    categories = "[dialogo]"
     \include "include/distribution-header.ly"
     tagline = #'f
     composer = "Michele Varotto (c.1550-c.1599)"

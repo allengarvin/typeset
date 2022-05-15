@@ -19,6 +19,7 @@
 
     % Unchanging:
     originallyset = "2018-10-05"
+    categories = "[canzona]"
     lastupdated = "2018-10-05"
     shorttitle = "ricercar_anchor_che_col_partire"
     \include "include/distribution-header.ly"

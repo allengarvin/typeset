@@ -22,6 +22,7 @@
     flats = 0
     final = "f"
     shorttitle = "perche_di_pioggia_il_ciel"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

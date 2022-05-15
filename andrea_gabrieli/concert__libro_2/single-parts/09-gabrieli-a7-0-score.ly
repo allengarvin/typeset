@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "io_mi_sento_morire"
+    categories = "[madrigal,dialogo]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

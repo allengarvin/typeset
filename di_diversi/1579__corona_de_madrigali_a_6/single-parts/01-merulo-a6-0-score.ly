@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "gelo_ha_madonna"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -21,6 +21,7 @@
     % Unchanging:
     originallyset = "2013-04-12"
     lastupdated = "2013-04-12"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

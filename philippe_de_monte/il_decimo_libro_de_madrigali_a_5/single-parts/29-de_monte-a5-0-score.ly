@@ -23,6 +23,7 @@
     flats = 0
     final = "e"
     shorttitle = "non_sia_pi_meco"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

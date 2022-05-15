@@ -21,6 +21,7 @@
     flats = 1
     final = "g"
     shorttitle = "cantai_mentre_ch’i’_arsi_del_mio_foco"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

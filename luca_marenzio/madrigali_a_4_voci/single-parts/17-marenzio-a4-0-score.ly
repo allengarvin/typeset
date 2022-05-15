@@ -17,6 +17,7 @@
     flats = 0
     final = "d"
     shorttitle = "come_doglia"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

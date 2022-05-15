@@ -21,6 +21,7 @@
     originally_set = "2019-12-05"
     flats = 0
     final = "g"
+    categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

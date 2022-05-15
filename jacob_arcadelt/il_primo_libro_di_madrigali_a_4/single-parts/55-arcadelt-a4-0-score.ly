@@ -22,6 +22,7 @@
     flats = 0
     final = "g"
     shorttitle = "ver_infernel"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

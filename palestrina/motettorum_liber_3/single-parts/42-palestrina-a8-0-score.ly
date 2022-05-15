@@ -21,6 +21,7 @@
     flats = 1
     final = "f"
     shorttitle = "ave_regina_coelorum"
+    categories = "[polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

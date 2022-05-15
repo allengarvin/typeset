@@ -19,6 +19,7 @@
     lastupdated = "2013-06-08"
     flats = 0
     final = "c"
+    categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

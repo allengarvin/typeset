@@ -14,6 +14,7 @@
     language = "instrumental"
     subtitle = ""
     instrument = "Fantasia Capriccio, 2 toni:  (score)"
+    categories = "[canzona]"
     composer = "Anonymous"
 
     % Unchanging:

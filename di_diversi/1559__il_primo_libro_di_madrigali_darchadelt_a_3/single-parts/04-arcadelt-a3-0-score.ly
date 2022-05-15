@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "dormendo_un_giorno"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

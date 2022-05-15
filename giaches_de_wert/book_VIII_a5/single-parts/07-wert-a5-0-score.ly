@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "sovente_allor"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

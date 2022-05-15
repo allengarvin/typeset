@@ -19,6 +19,7 @@
     language = "instrumental"
     lastupdated = "2020-02-25"
     originallyset = "2020-02-25"
+    categories = "[canzona]"
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"

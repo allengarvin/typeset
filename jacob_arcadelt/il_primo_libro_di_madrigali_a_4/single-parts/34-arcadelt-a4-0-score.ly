@@ -22,6 +22,7 @@
     flats = 1
     final = "f"
     shorttitle = "quanta_belta"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

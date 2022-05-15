@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "ne_fero_sdegno_mai_donna"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

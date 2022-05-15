@@ -20,6 +20,7 @@
     flats = 0
     final = "c"
     shorttitle = "amor_se_non_consenti"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

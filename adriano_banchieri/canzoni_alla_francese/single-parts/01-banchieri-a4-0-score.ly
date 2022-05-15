@@ -21,6 +21,7 @@
     originallyset = "2013-04-07"
     lastupdated = "2013-04-07"
     shorttitle = "canzon_prima__la_rovattina"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

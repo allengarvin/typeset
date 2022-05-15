@@ -23,6 +23,7 @@
     flats = 0
     final = "g"
     shorttitle = "stupida_e_fissa"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

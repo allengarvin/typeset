@@ -21,6 +21,7 @@
     flats = 0
     final = "d"
     shorttitle = "la_bella_greca"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -22,6 +22,7 @@
     flats = 1
     final = "bf"
     shorttitle = "potro_viver_io_piu"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

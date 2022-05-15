@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "ma_i_venti_che_portavano"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

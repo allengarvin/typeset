@@ -22,6 +22,7 @@
     % Unchanging:
     originallyset = "2014-12-14"
     lastupdated = "2014-12-14"
+    categories = "[madrigal,dialogo]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -23,6 +23,7 @@
     flats = 1
     final = "f"
     shorttitle = "amor_compagno_eterno"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

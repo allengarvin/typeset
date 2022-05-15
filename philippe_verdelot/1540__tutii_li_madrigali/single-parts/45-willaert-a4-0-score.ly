@@ -24,6 +24,7 @@
     originallyset = "2020-10-10"
     flats = 1
     final = "f"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     composer = "Adrian Willaert (c.1490-1562)"
 

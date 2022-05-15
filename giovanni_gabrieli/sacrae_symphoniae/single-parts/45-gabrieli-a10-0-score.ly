@@ -20,6 +20,7 @@
     flats = 0
     final = "c"
     shorttitle = "canzon_duodecimi_toni_i_a_10"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -22,6 +22,9 @@
     language = "italian"
     lastupdated = "2022-04-24"
     originallyset = "2022-04-24"
+    flats = 1
+    final = "g"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

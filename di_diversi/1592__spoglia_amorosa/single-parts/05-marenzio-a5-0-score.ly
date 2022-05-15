@@ -22,6 +22,7 @@
     flats = 0
     final = "a"
     shorttitle = "rivi_fontane_e_fiumi"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

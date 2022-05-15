@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -19,7 +19,7 @@
     lastupdated = "2018-07-01"
     flats = 1
     final = "f"
-    shorttitle = "m._john_langstons_pavan"
+    shorttitle = "m_john_langstons_pavan"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -27,12 +27,12 @@
 \include "../parts/10-dowland-a5-pavan.ly"
 
 \book {
-    \bookOutputName "10-dowland--m._john_langstons_pavan"
+    \bookOutputName "10-dowland--m_john_langstons_pavan"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"

@@ -22,6 +22,7 @@
     flats = 1
     final = "f"
     shorttitle = "or_si_rallegri_il_cielo"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -16,6 +16,7 @@
 
     % Unchanging:
     language = "instrumental"
+    categories = "[canzona]"
     originally_set = "2019-01-24"
     originallyset = "2019-01-24"
     lastupdated = "2019-01-24"

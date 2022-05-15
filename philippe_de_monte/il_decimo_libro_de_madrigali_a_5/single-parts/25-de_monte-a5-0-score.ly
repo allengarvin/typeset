@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "parea_dicesse"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

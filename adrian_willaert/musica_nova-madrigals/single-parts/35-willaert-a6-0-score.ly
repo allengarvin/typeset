@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "in_qual_parte_del_ciel"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

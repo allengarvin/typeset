@@ -21,6 +21,7 @@
     flats = 0
     final = "d"
     shorttitle = "canzon_sesta__l_alcenagina"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

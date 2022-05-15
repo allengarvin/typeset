@@ -15,6 +15,7 @@
     instrument = "Fantasia 7:  (score)"
     shorttitle = "fantasia_7"
     shortcomp = "cima"
+    categories = "[canzona]"
 
     % Unchanging:
     language = "instrumental"

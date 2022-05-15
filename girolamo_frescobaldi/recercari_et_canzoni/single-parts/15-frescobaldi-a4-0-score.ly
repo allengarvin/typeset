@@ -18,6 +18,7 @@
     shortcomp = "frescobaldi"
 
     % Unchanging:
+    categories = "[canzona]"
     language = "instrumental"
     lastupdated = "2021-11-11"
     originallyset = "2021-11-11"

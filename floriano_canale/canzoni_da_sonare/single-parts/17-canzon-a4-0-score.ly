@@ -21,6 +21,7 @@
     flats = 0
     final = "c"
     shorttitle = "la_robbata"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

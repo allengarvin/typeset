@@ -24,6 +24,7 @@
     flats = 0
     final = "c"
     shorttitle = "chiare_fresche"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

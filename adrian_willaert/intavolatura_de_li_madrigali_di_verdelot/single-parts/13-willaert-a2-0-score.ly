@@ -21,6 +21,7 @@
     originallyset = "2018-09-26"
     lastupdated = "2018-09-26"
     shorttitle = "madonna_il_tuo_bel_viso"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

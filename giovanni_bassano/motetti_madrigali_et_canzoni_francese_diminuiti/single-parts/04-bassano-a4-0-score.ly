@@ -15,12 +15,13 @@
     instrument = "Ancor che col partire (score)"
 
     % Unchanging:
+    \include "include/distribution-header.ly"
     composer = "Cipriano de Rore / Canto parte by Giovanni Bassano (c.1561-1617)"
     originallyset = "2018-10-07"
     lastupdated = "2018-10-07"
     flats = 0
     final = "e"
-    \include "include/distribution-header.ly"
+    categories = "[madrigal]"
     tagline = #'f
 }
 

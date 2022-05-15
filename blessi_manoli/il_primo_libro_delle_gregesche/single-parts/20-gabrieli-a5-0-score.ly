@@ -24,6 +24,7 @@
     flats = 1
     final = "c"
     shorttitle = "sassi_palae"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

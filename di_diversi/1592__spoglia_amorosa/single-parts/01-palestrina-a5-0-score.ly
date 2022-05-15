@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "vestiva_i_colli"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "aggiungi_a_questo_ancor"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

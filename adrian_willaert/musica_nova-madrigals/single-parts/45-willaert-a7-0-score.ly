@@ -24,6 +24,7 @@
     flats = 1
     final = "g"
     shorttitle = "che_fai_alma"
+    categories = "[madrigal,dialogo]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

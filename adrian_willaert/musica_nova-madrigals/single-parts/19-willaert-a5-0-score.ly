@@ -23,6 +23,7 @@
     flats = 0
     final = "c"
     shorttitle = "onde_tolse_amor_loro"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

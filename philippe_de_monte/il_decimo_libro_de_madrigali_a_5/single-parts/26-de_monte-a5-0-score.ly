@@ -23,6 +23,7 @@
     flats = 0
     final = "e"
     shorttitle = "e_perche_io_torni"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

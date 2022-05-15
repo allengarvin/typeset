@@ -23,6 +23,7 @@
     flats = 0
     final = "e"
     shorttitle = "una_celeste_nube"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

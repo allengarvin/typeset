@@ -24,6 +24,7 @@
     flats = 0
     final = "d"
     shorttitle = "scorgo_tanto_alto"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

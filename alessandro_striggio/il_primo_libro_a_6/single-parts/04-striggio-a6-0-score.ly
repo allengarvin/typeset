@@ -23,6 +23,7 @@
     flats = 0
     final = "e"
     shorttitle = "anchor_chio_possa_dire"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -22,6 +22,7 @@
     flats = 0
     final = "c"
     shorttitle = "deh_se_lo_sdegno_altiero"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

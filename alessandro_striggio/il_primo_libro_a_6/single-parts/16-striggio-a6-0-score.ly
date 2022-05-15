@@ -23,6 +23,7 @@
     flats = 1
     final = "a"
     shorttitle = "o_messagi_del_cor"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

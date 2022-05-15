@@ -24,6 +24,7 @@
     flats = 1
     final = "f"
     shorttitle = "e_vu_fiumi_chie"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

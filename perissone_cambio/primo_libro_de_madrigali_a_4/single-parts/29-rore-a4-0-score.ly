@@ -24,6 +24,7 @@
     originallyset = "2020-10-18"
     flats = 1
     final = "g"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     composer = "Cipriano de Rore (c.1515-1565)"
     tagline = #'f

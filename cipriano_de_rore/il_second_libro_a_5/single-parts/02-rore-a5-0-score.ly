@@ -23,6 +23,7 @@
     flats = 1
     final = "f"
     shorttitle = "la_terra_di_novelli"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

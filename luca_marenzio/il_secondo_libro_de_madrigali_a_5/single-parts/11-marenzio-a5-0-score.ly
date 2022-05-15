@@ -22,6 +22,7 @@
     flats = 0
     final = "c"
     shorttitle = "itene_a_lombra"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

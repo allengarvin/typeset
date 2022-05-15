@@ -23,6 +23,7 @@
     needtranslation = #'f
     flats = 0
     final = "a"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

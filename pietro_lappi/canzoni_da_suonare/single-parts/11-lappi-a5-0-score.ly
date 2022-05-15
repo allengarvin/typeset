@@ -21,6 +21,7 @@
     originallyset = "2020-01-19"
     flats = 1
     final = "f"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

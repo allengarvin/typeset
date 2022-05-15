@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "aspro_core_et_selvaggio"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -24,6 +24,7 @@
     flats = 0
     final = "a"
     shorttitle = "chi_mette_il_pie"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

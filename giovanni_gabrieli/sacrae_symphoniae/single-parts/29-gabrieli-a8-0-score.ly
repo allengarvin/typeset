@@ -20,6 +20,7 @@
     originallyset = "2013-05-11"
     flats = 0
     final = "a"
+    categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -18,6 +18,7 @@
     flats = 1
     final = "f"
     shorttitle = "sul_carro_della_mente"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

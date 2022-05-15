@@ -18,7 +18,7 @@
     shorttitle = "ben_s’io_non_erro_di_pietate_un_raggio"
     shortcomp = "willaert"
     needtranslation = #'t
-    folio = "Petrarca, Canzoniere CLXIX (169)"
+    folio = \markup { Petrarca, \italic{Canzoniere} CLXIX (169) }
 
     % Unchanging:
     language = "italian"
@@ -26,6 +26,7 @@
     originallyset = "2018-09-16"
     flats = 1
     final = "f"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

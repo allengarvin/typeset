@@ -21,6 +21,7 @@
     lastupdated = "2015-05-30"
     flats = 1
     final = "g"
+    categories = "[in-nomine]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

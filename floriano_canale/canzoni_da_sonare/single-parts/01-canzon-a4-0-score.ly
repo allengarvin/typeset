@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "la_bevilacqua"
     shortcomp = "canale"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

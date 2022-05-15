@@ -20,6 +20,7 @@
     flats = 1
     final = "g"
     shorttitle = "ave_maria_gratia_plena"
+    categories = "[polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

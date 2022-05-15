@@ -21,6 +21,7 @@
     flats = 0
     final = "d"
     shorttitle = "nasce_la_pena_mia"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

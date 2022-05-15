@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "dunque_il_consenti_amor"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

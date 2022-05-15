@@ -23,6 +23,7 @@
     originallyset = "2014-12-21"
     lastupdated = "2014-12-21"
     shorttitle = "io_partiro"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

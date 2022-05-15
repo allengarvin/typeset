@@ -18,6 +18,7 @@
     flats = 1
     final = "d"
     shorttitle = "veggo_dolce_mio_bene"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

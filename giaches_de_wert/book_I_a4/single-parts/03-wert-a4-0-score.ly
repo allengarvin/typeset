@@ -20,6 +20,7 @@
     flats = 0
     final = "c"
     shorttitle = "quant_esser_vi_dee_car_un_huom"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

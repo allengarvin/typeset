@@ -25,6 +25,7 @@
     flats = 0
     final = "g"
     shorttitle = "these_that_bee_certaine_signes"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

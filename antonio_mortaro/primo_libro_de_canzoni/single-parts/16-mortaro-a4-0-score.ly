@@ -20,6 +20,7 @@
     flats = 0
     final = "d"
     shorttitle = "la_dagoldina"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

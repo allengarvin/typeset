@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "non_sospirar_pastor"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

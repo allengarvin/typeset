@@ -19,6 +19,7 @@
     % Unchanging:
     originallyset = "2015-10-10"
     lastupdated = "2015-10-10"
+    categories = "[canzona]"
     flats = 1
     final = "f"
     shorttitle = "ricercar_del_sesto_tuono"

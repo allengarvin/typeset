@@ -22,6 +22,7 @@
     flats = 0
     final = "a"
     shorttitle = "grido_piu_volte_il_po"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

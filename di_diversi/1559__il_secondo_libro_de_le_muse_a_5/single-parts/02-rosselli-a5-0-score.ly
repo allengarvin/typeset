@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "laspetto_sacro"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

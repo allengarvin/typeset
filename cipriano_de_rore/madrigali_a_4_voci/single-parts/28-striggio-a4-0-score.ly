@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Gravi pene in amor si provan molte"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XVI ottava 1 }
-    composer = "Alessandro Striggio (c.1515-1592)"
+    composer = "Alessandro Striggio (c.1536-1592)"
     instrument = "Gravi pene in amor (score)"
     language = "italian"
     needtranslation = #'f
@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "gravi_pene_in_amor"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

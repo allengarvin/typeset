@@ -25,6 +25,7 @@
     originallyset = "2021-07-05"
     flats = 1
     final = "g"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

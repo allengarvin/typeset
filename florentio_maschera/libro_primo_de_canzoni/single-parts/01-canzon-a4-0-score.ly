@@ -23,6 +23,7 @@
     flats = 1
     final = "g"
     shorttitle = "la_capriola"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

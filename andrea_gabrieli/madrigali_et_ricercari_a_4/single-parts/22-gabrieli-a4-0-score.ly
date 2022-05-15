@@ -18,6 +18,7 @@
     % Unchanging:
     lastupdated = "2019-07-29"
     originally_set = "2019-07-29"
+    categories = "[canzona]"
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"

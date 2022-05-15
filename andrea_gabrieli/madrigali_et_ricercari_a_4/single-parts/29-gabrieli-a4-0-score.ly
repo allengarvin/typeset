@@ -18,6 +18,7 @@
     % Unchanging:
     originally_set = "2019-01-22"
     originallyset = "2019-01-22"
+    categories = "[canzona]"
     lastupdated = "2019-01-22"
     flats = 0
     final = "c"

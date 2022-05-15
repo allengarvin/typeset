@@ -16,6 +16,7 @@
     % Unchanging:
     language = "instrumental"
     originallyset = "2018-06-30"
+    categories = "[canzona]"
     lastupdated = "2018-06-30"
     flats = 1
     final = "g"

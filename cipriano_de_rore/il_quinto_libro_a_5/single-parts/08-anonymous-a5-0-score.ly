@@ -24,6 +24,7 @@
     flats = 0
     final = "a"
     shorttitle = "io_piango_ed_ella_il_volto"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

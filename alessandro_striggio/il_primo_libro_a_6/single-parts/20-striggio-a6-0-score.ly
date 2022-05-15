@@ -22,6 +22,7 @@
     flats = 1
     final = "g"
     shorttitle = "sogni_mio_ben_havete"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

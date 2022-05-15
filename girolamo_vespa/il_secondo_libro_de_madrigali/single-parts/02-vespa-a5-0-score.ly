@@ -23,6 +23,7 @@
     flats = 0
     final = "g"
     shorttitle = "one_quai_fior"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

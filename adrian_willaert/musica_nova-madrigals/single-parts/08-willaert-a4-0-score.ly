@@ -23,6 +23,7 @@
     flats = 0
     final = "e"
     shorttitle = "quest_arder_mio"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

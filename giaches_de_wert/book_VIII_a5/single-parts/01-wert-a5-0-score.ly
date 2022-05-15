@@ -24,6 +24,7 @@
     flats = 1
     final = "g"
     shorttitle = "io_non_son_pero_morto"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
     tags = "{5vv,italian,madrigal,mode g-1}"
@@ -92,7 +93,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { Io no son però morto, }
+                \line { Io non son però morto, }
                 \line { Donna, come pensate, }
                 \line { Perchè più non m'amate; }
                 \line { Anzi ritorno in vita. }

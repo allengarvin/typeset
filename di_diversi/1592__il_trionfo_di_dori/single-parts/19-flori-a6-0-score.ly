@@ -23,6 +23,7 @@
     flats = 1
     final = "g"
     shorttitle = "piu_trasparente_velo"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

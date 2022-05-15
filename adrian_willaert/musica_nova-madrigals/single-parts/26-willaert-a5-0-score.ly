@@ -23,6 +23,7 @@
     flats = 0
     final = "e"
     shorttitle = "talor_massale_in_mezzo"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

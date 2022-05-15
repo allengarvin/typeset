@@ -20,6 +20,7 @@
     flats = 1
     final = "f"
     shorttitle = "la_sante_pale"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

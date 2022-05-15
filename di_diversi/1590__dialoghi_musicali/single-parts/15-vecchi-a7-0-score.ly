@@ -22,6 +22,7 @@
     flats = 1
     final = "g"
     shorttitle = "stavasi_aminta"
+    categories = "[madrigal,polychoral,dialogo]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

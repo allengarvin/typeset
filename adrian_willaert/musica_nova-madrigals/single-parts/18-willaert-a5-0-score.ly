@@ -23,6 +23,7 @@
     flats = 1
     final = "a"
     shorttitle = "quel_foco_e_morto"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -21,6 +21,7 @@
     flats = 1
     final = "d"
     shorttitle = "crudele_acerba_in_exorabil_morte"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

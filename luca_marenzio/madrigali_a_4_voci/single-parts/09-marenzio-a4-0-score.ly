@@ -20,6 +20,7 @@
     flats = 0
     final = "c"
     shorttitle = "e_per_virtu"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

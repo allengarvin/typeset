@@ -20,6 +20,7 @@
     flats = 1
     final = "f"
     shorttitle = "la_fiorentina"
+    categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

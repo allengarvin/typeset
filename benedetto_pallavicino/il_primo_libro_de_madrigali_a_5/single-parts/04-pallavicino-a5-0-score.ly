@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "tra_le_purpuree_rose"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

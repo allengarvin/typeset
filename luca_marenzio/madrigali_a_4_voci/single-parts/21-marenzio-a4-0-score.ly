@@ -19,6 +19,7 @@
     flats = 1
     final = "a"
     shorttitle = "lasso_che_pur"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

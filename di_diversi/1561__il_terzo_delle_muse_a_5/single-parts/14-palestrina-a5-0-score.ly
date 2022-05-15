@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "se_ben_non_veggon"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

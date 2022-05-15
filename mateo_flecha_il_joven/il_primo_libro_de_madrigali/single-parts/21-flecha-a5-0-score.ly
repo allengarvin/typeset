@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "sento_laura_soave"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

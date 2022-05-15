@@ -24,6 +24,7 @@
     flats = 0
     final = "e"
     shorttitle = "s_alzin_l_onde_signor"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

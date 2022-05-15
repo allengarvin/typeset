@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "e_con_la_faccia"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

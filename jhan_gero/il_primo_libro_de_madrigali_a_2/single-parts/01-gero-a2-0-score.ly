@@ -21,6 +21,7 @@
     flats = 0
     final = "a"
     shorttitle = "non_fia_ch_io_tema"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

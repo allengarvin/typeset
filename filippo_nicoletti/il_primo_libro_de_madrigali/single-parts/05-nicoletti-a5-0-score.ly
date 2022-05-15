@@ -23,6 +23,7 @@
     flats = 1
     final = "f"
     shorttitle = "osia_perche_l_angelico"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

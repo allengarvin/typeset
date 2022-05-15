@@ -23,6 +23,7 @@
     flats = 1
     final = "f"
     shorttitle = "di_questa_bionde"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

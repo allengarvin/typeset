@@ -22,6 +22,7 @@
     flats = 0
     final = "c"
     shorttitle = "rose_bianche_e_vermiglie"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

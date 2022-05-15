@@ -24,6 +24,7 @@
     flats = 0
     final = "c"
     shorttitle = "segli_e_pur_mio_destino"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

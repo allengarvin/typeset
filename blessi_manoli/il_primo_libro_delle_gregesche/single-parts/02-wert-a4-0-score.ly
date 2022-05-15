@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "chel_bello_epithimia"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

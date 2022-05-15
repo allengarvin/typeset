@@ -15,6 +15,8 @@
     instrument = "Missa Jäger:  (score)"
 
     % Unchanging:
+    flats = 0
+    final = "g"
     \include "include/distribution-header.ly"
     lastupdated = "2018-11-06"
     tagline = #'f

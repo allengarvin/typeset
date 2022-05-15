@@ -22,6 +22,7 @@
     flats = 1
     final = "f"
     shorttitle = "chie_val_cu_la_candari"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

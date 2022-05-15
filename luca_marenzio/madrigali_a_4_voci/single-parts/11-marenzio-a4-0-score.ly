@@ -17,6 +17,7 @@
     flats = 0
     final = "c"
     shorttitle = "vedi_le_valli"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

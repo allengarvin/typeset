@@ -23,6 +23,7 @@
     flats = 1
     final = "d"
     shorttitle = "valle_che_de_lamenti"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

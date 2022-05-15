@@ -27,6 +27,7 @@
     language = "italian"
     lastupdated = "2020-07-25"
     originallyset = "2020-07-25"
+    categories = "[polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

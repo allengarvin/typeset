@@ -22,6 +22,7 @@
     flats = 0
     final = "e"
     shorttitle = "stillo_l_anima"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

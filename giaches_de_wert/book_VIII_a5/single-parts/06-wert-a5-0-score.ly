@@ -22,6 +22,7 @@
     flats = 0
     final = "c"
     shorttitle = "usciva_homai"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

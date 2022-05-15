@@ -23,6 +23,7 @@
     flats = 0
     final = "g"
     shorttitle = "quando_si_vide"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

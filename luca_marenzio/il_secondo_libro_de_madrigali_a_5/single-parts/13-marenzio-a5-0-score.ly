@@ -22,6 +22,7 @@
     flats = 0
     final = "e"
     shorttitle = "o_voi_che_sospirate"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

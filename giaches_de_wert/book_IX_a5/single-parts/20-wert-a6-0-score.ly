@@ -22,6 +22,7 @@
     flats = 1
     final = "g"
     shorttitle = "mesola_il_po_da_lato"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

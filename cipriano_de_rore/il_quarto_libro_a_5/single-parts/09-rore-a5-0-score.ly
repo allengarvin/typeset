@@ -23,6 +23,7 @@
     flats = 0
     final = "g"
     shorttitle = "ma_poi_che_vostra_altezza"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

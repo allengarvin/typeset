@@ -24,11 +24,12 @@
     flats = 1
     final = "c"
     shorttitle = "amur_se_mi_tel_dao"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/04-bonaldi-a4-madrigale.ly"
+\include "../parts/04-bonaldi-a4-madrigal.ly"
 
 \book {
     \bookOutputName "04-bonaldi--amur_se_mi_tel_dao"

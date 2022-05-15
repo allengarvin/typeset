@@ -23,6 +23,7 @@
     flats = 1
     final = "c"
     shorttitle = "quanto_esser"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

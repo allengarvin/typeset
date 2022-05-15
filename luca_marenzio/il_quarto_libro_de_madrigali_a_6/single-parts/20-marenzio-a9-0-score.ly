@@ -20,6 +20,7 @@
     lastupdated = "2015-01-17"
     flats = 0
     final = "g"
+    categories = "[madrigal,polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

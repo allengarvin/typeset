@@ -23,6 +23,7 @@
     flats = 1
     final = "g"
     shorttitle = "oh_infelice_o_misero"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

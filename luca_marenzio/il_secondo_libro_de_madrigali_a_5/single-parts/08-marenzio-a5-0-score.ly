@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "quando_sorge_laurora"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

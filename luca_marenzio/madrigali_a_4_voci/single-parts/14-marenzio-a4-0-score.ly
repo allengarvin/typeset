@@ -17,6 +17,7 @@
     flats = 0
     final = "a"
     shorttitle = "vezzosi_augelli"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

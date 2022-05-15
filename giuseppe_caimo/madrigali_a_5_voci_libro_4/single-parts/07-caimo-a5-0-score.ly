@@ -24,6 +24,7 @@
     flats = 1
     final = "g"
     shorttitle = "e_mentre_il_guardo"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

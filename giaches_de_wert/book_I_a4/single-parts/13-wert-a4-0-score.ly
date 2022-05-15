@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "ma_di_che_debbo_lamentarmi"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

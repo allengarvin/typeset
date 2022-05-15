@@ -18,7 +18,7 @@
     shorttitle = "si_profundo_era_et_di_si_larga_vena"
     shortcomp = "willaert"
     needtranslation = #'t
-    folio = "Petrarca, Canzoniere CCXXX (230)"
+    folio = \markup { Petrarca, \italic{Canzoniere} CCXXX (230) }
 
     % Unchanging:
     language = "italian"
@@ -26,6 +26,7 @@
     originallyset = "2015-04-29"
     flats = 0
     final = "g"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -20,6 +20,7 @@
     flats = 0
     final = "g"
     shorttitle = "apollo_s_ancor_vive"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

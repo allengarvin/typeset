@@ -21,6 +21,7 @@
     flats = 0
     final = "g"
     shorttitle = "questa_si_bianca_neve"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

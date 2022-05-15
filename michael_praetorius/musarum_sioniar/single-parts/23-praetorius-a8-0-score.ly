@@ -21,6 +21,7 @@
     lastupdated = "2018-12-08"
     flats = 1
     final = "g"
+    categories = "[polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

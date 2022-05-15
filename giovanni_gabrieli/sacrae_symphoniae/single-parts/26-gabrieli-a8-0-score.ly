@@ -20,6 +20,7 @@
     originallyset = "2016-08-06"
     flats = 1
     final = "g"
+    categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
 }
 

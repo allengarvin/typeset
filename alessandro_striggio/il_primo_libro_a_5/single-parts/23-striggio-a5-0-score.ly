@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "torbido_il_mincio"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

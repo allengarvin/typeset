@@ -23,6 +23,7 @@
     flats = 1
     final = "f"
     shorttitle = "degno_che_dotte_istorie"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

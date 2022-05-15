@@ -21,6 +21,7 @@
     flats = 1
     final = "g"
     shorttitle = "in_nomine"
+    categories = "[in-nomine]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -22,6 +22,7 @@
     flats = 0
     final = "g"
     shorttitle = "un_lauro_mi_difese"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

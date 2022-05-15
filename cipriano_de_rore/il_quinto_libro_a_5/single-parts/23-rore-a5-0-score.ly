@@ -21,6 +21,7 @@
     flats = 1
     final = "f"
     shorttitle = "da_lestremo_orizzonte"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "la_donna_che_l_mio_cor_nel_viso_porta"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

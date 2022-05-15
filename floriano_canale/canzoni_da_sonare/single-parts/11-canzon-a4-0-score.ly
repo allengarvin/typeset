@@ -21,6 +21,7 @@
     flats = 0
     final = "a"
     shorttitle = "la_nuvolina"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

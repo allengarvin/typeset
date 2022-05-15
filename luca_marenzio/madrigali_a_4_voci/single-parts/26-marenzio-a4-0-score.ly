@@ -18,6 +18,7 @@
     flats = 1
     final = "d"
     shorttitle = "lasso_dicea"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

@@ -22,6 +22,7 @@
     flats = 0
     final = "a"
     shorttitle = "lasso_che_ogni_augeletto"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

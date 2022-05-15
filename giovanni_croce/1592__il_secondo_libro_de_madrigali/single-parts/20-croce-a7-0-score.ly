@@ -22,6 +22,7 @@
     flats = 1
     final = "g"
     shorttitle = "filli_morir_vorrei"
+    categories = "[madrigal,polychoral,dialogo]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

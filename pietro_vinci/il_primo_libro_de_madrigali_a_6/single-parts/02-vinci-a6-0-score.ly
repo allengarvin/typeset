@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "pioggia_di_lagrimar_nebbia_di_sdegni"
     shortcomp = "vinci"
-    folio = "Petrarca, Canzoniere CLXXXIX (189)"
+    folio = \markup { Petrarca, \italic{Canzoniere} CLXXXIX (189) }
     needtranslation = #'f
 
     % Unchanging:
@@ -25,6 +25,7 @@
     originallyset = "2020-09-12"
     flats = 0
     final = "g"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

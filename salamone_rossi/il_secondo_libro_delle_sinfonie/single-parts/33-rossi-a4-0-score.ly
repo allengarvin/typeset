@@ -22,6 +22,7 @@
     flats = 0
     final = "g"
     shorttitle = "canzon_per_sonar_a4"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

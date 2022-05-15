@@ -19,6 +19,7 @@
     flats = 1
     final = "d"
     shorttitle = "zefiro_torna"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

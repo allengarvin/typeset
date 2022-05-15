@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "gia_avea_l_eterna_mano"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -18,6 +18,7 @@
     composer = "Luzzasco Luzzaschi (c.1545-1607)"
 
     % Unchanging:
+    categories = "[canzona]"
     lastupdated = "2019-08-31"
     originally_set = "2019-08-31"
     flats = 0

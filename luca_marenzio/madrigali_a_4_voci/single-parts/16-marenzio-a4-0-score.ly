@@ -17,6 +17,7 @@
     flats = 0
     final = "a"
     shorttitle = "dolci_son_le_quadrella"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

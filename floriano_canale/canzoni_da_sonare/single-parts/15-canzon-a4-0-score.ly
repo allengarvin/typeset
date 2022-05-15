@@ -21,6 +21,7 @@
     flats = 0
     final = "d"
     shorttitle = "la_averolda"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

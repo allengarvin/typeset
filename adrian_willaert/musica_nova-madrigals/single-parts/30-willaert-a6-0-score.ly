@@ -18,7 +18,7 @@
     shorttitle = "pioggia_di_lagrimar_nebbia_di_sdegni"
     shortcomp = "willaert"
     needtranslation = #'t
-    folio = "Petrarca, Canzoniere CLXXXIX (189)"
+    folio = \markup { Petrarca, \italic{Canzoniere} CLXXXIX (189) }
 
     % Unchanging:
     language = "italian"
@@ -26,6 +26,7 @@
     originallyset = "2016-09-03"
     flats = 1
     final = "g"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

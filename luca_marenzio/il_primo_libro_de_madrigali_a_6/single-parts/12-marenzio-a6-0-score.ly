@@ -22,6 +22,7 @@
     flats = 0
     final = "g"
     shorttitle = "occhi_sereni"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -23,6 +23,7 @@
     flats = 1
     final = "f"
     shorttitle = "lungo_le_rive"
+    categories = "[madrigal,polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -20,6 +20,7 @@
     flats = 1
     final = "g"
     shorttitle = "or_che_la_terra_di_fioretti_e_fronde"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -21,6 +21,7 @@
     flats = 0
     final = "a"
     shorttitle = "anchor_che_la_partita"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

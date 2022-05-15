@@ -21,6 +21,7 @@
     flats = 0
     final = "g"
     shorttitle = "la_durante"
+    categories = "[canzona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

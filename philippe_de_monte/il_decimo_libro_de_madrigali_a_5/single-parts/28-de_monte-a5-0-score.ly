@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "nasce_il_gran_piacer_mio"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

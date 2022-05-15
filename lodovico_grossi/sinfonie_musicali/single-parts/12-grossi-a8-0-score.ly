@@ -20,6 +20,7 @@
     originallyset = "2016-08-08"
     lastupdated = "2016-08-08"
     shorttitle = "la_bergamasca"
+    categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

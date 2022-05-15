@@ -1,4 +1,4 @@
-\ersion "2.18.2"
+\version "2.18.2"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -22,6 +22,7 @@
     flats = 0
     final = "g"
     shorttitle = "vaghi_e_lieti_fanciulli"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

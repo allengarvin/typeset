@@ -18,6 +18,7 @@
     flats = 1
     final = "c"
     shorttitle = "vedi_ch_egli_ama_il_suon"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

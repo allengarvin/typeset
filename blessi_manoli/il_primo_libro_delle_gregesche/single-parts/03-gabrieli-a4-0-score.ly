@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     shorttitle = "cando_pinso_al_turmendo"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

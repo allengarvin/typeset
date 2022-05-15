@@ -23,6 +23,7 @@
     flats = 0
     final = "c"
     shorttitle = "chi_strinse_mai_piu_bello_mano"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

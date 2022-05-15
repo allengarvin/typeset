@@ -18,7 +18,7 @@
     shorttitle = "ove_chi_posi_gli_occhi_lassi_o_giri"
     shortcomp = "willaert"
     needtranslation = #'t
-    folio = "Petrarca, Canzoniere CLVIII (158)"
+    folio = \markup { Petrarca, \italic{Canzoniere} CLVIII (158) }
 
     % Unchanging:
     language = "italian"
@@ -26,6 +26,7 @@
     originallyset = "2018-09-01"
     flats = 0
     final = "d"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

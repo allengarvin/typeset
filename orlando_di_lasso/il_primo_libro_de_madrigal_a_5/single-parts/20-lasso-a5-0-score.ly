@@ -21,6 +21,7 @@
     flats = 1
     final = "d"
     shorttitle = "fiera_stella"
+    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
