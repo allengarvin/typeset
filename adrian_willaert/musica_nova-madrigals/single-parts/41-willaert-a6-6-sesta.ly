@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "pien_d’un_vago_penser_che_me_desvia"
     shortcomp = "willaert"
-    folio = "Petrarca, Canzoniere CLXIX (169)"
+    folio = \markup { Petrarca, \italic{Canzoniere} CLXIX (169) }
 
     % Things that change per part:
     partname = "Sesta (part 2 of 6)"

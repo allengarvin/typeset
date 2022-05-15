@@ -25,7 +25,7 @@
     tagline = #'f
 }
 
-\include "../parts/01-conversi-a5-canzon.ly"
+\include "../parts/01-conversi-a5-canzone.ly"
 
 \book {
     \bookOutputName "01-conversi--quella_che_gli_occhi"

@@ -30,7 +30,7 @@
     
 \book {
     \bookOutputName "16-frescobaldi--cosi_mi_disprezzate"
-    \bookOutputSuffix "--2-basso-continuo--bs_clef"
+    \bookOutputSuffix "--2-basso_continuo--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

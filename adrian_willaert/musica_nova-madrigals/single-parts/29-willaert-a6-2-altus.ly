@@ -16,7 +16,7 @@
     instrument = "Passa la nave mia colma d'oblio:  (altus)"
     shorttitle = "passa_la_nave_mia_colma_doblio"
     shortcomp = "willaert"
-    folio = "Petrarca, Canzoniere CLXXXIX (189)"
+    folio = \markup { Petrarca, \italic{Canzoniere} CLXXXIX (189) }
 
     % Things that change per part:
     partname = "Altus (part 3 of 6)"

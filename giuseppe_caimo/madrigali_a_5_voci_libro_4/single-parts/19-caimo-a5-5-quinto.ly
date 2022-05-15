@@ -30,7 +30,7 @@
     
 \book {
     \bookOutputName "19-caimo--e_ben_ragion"
-    \bookOutputSuffix "--3-quinto--tr__clef"
+    \bookOutputSuffix "--3-quinto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
@@ -45,7 +45,7 @@
     
 \book {
     \bookOutputName "19-caimo--e_ben_ragion"
-    \bookOutputSuffix "--3-quinto--al__clef"
+    \bookOutputSuffix "--3-quinto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

@@ -19,7 +19,7 @@
     % Unchanging:
     originallyset = "2018-07-01"
     lastupdated = "2018-07-01"
-    shorttitle = "m._john_langstons_pavan"
+    shorttitle = "m_john_langstons_pavan"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -27,7 +27,7 @@
 \include "../parts/10-dowland-a5-pavan.ly"
 
 \book {
-    \bookOutputName "10-dowland--m._john_langstons_pavan"
+    \bookOutputName "10-dowland--m_john_langstons_pavan"
     \bookOutputSuffix "--2-altus--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -41,7 +41,7 @@
 }
 
 \book {
-    \bookOutputName "10-dowland--m._john_langstons_pavan"
+    \bookOutputName "10-dowland--m_john_langstons_pavan"
     \bookOutputSuffix "--2-altus--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

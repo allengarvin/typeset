@@ -26,7 +26,7 @@
     
 \book {
     \bookOutputName "20-donne_il_celeste_lume"
-    \bookOutputSuffix "--1-solo-canto--tr_clef"
+    \bookOutputSuffix "--1-solo_canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

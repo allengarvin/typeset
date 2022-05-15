@@ -28,7 +28,7 @@
     tagline = #'f
 }
 
-\include "../parts/05-bonaldi-a4-madrigale.ly"
+\include "../parts/05-bonaldi-a4-madrigal.ly"
 
 \book {
     \bookOutputName "05-bonaldi--denime_plio_san_protta_cavagliero"
