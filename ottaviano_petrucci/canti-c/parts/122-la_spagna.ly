@@ -56,25 +56,11 @@ cantusII = \relative c'' {
     \bar "|."
 }
 
-tenorIIincipit = \relative c' {
-    \key c \major
-    \fourTwoCutTime
-    \clef "petrucci-cX"
-
-}
-
 tenorII = \relative c' {
     \key c \major
     \fourTwoCutTime
     
     \bar "|." 
-}
-
-contraIIincipit = \relative c' {
-    \key c \major
-    \time 2/2
-    \clef "petrucci-cX"
-    
 }
 
 contraII = \relative c' {

@@ -73,7 +73,7 @@ contraLI = \relative c' {
 
 tenorLIincipit = \relative c' {
     \key c \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c4"
 
     g1.
@@ -107,7 +107,7 @@ tenorLI = \relative c' {
 
 bassusLIincipit = \relative c' {
     \key c \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-f4"
 
     g1.

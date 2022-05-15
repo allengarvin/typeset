@@ -80,7 +80,7 @@ altoI = \relative c' {
 %   3
 %   5 Bartholomæe
 altoLyricsI = \lyricmode {
-    \italic {
+    \ijLyrics
         San -- cte Pe -- tre,
         San -- cte An -- dre -- a,
         San -- cte Ja -- co -- be,
@@ -92,7 +92,6 @@ altoLyricsI = \lyricmode {
         San -- cte Mat -- thæ -- e,
         San -- cte Thad -- dæ -- e,
         San -- cte Bar -- tho -- lo -- mæ -- e,
-    }    
 }
 
 tenoreIincipit = \relative c {
@@ -195,7 +194,7 @@ quintoI = \relative c' {
 }
 
 quintoLyricsI = \lyricmode {
-    \italic {
+    \ijLyrics
         O -- ra pro no -- bis,
         O -- ra pro nobis,
         O -- ra pro nobis,
@@ -207,7 +206,6 @@ quintoLyricsI = \lyricmode {
         O -- ra pro no -- bis,
         O -- ra pro no -- bis,
         O -- ra pro no -- bis.
-    }
 }
 
 cantoIincipitVoice = <<

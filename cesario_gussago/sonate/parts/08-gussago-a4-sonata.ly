@@ -33,7 +33,7 @@ cantoVIII = \relative c' {
     r4 f f f | g bf a g8[ f] g4 c c c | d f e2 c d4 d | d c b2 c a |
         bf4 bf bf a g2 g4 a |
 
-    g4 f2 e4 f1 ~ | f r1 | r1 r2 g4 g8[ g] | g4 a g2 4 g f f | 
+    g4 f2 e4 f1 ~ | f r1 | r1 r2 g4 g8[ g] | g4 a g2 g4 g f f | 
         f e d2 d a'4 a8[ a] | a4 bf a2 a4 f g a | bf2 a4 c
 
     d4 e f2 | e c bf4 a2 g4 | a1 r2 c | a4 bf c c a bf c a | bf a g f e2 f ~|

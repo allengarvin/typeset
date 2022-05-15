@@ -48,7 +48,7 @@ contraCI = \relative c' {
 
 tenorCIincipit = \relative c {
     \key c \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c3"
 
     f\breve
@@ -71,7 +71,7 @@ tenorCI = \relative c {
 
 bassusCIincipit = \relative c {
     \key c \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-f3"
 
     f\breve

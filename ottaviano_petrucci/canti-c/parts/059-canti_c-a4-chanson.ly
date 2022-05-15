@@ -64,7 +64,7 @@ contraLIX = \relative c' {
 
 tenorLIXincipit = \relative c' {
     \key f \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c4"
 
     g1
@@ -94,7 +94,7 @@ tenorLIX = \relative c' {
 
 bassusLIXincipit = \relative c' {
     \key f \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-f4"
 
     g1

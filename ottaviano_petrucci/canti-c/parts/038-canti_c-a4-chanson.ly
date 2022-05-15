@@ -63,7 +63,7 @@ contraXXXVIII = \relative c' {
 
 tenorXXXVIIIincipit = \relative c' {
     \key c \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c4"
 
     a\breve
@@ -95,7 +95,7 @@ tenorXXXVIII = \relative c' {
 
 bassusXXXVIIIincipit = \relative c {
     \key c \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-f3"
 
     a\breve.

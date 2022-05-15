@@ -70,7 +70,7 @@ contraCX = \relative c' {
 
 tenorCXincipit = \relative c' {
     \key c \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c3"
 
     c\breve
@@ -90,7 +90,7 @@ tenorCX = \relative c' {
 
 bassusCXincipit = \relative c' {
     \key c \major
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-f3"
 
     g1

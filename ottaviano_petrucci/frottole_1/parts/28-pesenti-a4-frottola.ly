@@ -31,8 +31,8 @@ cantusLyricsXXVIII = \lyricmode {
     Al -- hor quan -- do~ar -- ri -- va -- va la gru suo ser -- vi -- dor
     gru, gru, gru, gru, gru, gru, __ gru.
     Gen -- til am -- ba -- sci -- a dor
-    Che dis -- se non le -- ve, tor -- ne~a dor -- mir,
-    tor -- ne, __ tor -- ne, tor -- ne, tor -- ne~a dor -- mir.
+    Che dis -- se non le -- ve, tor -- ne~a __ dor -- mir,
+    tor -- ne, __ tor -- ne, tor -- ne, tor -- ne~a __ dor -- mir.
 
 
     Dal lec -- to me le -- va -- va 

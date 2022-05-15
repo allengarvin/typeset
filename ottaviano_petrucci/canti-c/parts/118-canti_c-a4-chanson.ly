@@ -46,7 +46,7 @@ cantusCXVIII = \relative c' {
 
 tenorCXVIIIincipit = \relative c' {
     \key g \dorian
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c4"
 
     g\longa
