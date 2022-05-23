@@ -14,10 +14,11 @@
     subtitle = "Secunda pars"
     instrument = "Ecce enim in iniquitatibus: Secunda pars (score)"
     headerspace = \markup { \vspace #2 }
+    categories = "[penitential]"
     shorttitle = "ecce_enim_in_iniquitatibus"
     shortcomp = "gabrieli"
     needtranslation = #'f
-    folio = "Psalm 51 (Vulgate 50)"
+    folio = "Psalm 50/51"
 
     % Unchanging:
     language = "latin"

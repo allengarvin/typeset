@@ -17,7 +17,8 @@
     shorttitle = "tu_es_refugium_meum"
     shortcomp = "gabrieli"
     needtranslation = #'f
-    folio = "Psalm 32:7-9"
+    folio = "Psalm 31/32:7-9"
+    categories = "[penitential]"
 
     % Unchanging:
     language = "latin"

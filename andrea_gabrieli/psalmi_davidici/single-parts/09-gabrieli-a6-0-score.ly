@@ -17,6 +17,7 @@
     shorttitle = "putruerunt_et_corruptae_sunt_cicatrices_meae"
     shortcomp = "gabrieli"
     needtranslation = #'f
+    categories = "[penitential]"
     folio = "Psalm 37/38:6-9"
 
     % Unchanging:

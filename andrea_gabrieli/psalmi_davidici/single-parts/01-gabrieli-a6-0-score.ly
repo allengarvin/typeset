@@ -14,6 +14,7 @@
     subtitle = "Prima pars"
     instrument = "Domine, ne in furore tuo arguas me: Prima pars (score)"
     headerspace = \markup { \vspace #2 }
+    categories = "[penitential]"
     folio = "Psalm 6:2-5"
 
     % Unchanging:

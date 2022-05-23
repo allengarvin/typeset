@@ -17,7 +17,8 @@
     shorttitle = "delictum_meum_cognitum_tibi_feci"
     shortcomp = "gabrieli"
     needtranslation = #'f
-    folio = "Psalm 32:5-6"
+    folio = "Psalm 31/32:5-6"
+    categories = "[penitential]"
 
     % Unchanging:
     language = "latin"

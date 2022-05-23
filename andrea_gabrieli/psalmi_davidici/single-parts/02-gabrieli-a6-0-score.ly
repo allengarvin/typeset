@@ -14,6 +14,7 @@
     subtitle = "Secunda pars"
     instrument = "Quoniam non est in morte qui memor sit tui: Secunda pars (score)"
     headerspace = \markup { \vspace #2 }
+    categories = "[penitential]"
     folio = "Psalm 6:6-8"
 
     % Unchanging:

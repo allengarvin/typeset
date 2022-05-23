@@ -17,6 +17,7 @@
     shorttitle = "ego_autem_tamquam_surdus_non_audiebam"
     shortcomp = "gabrieli"
     needtranslation = #'f
+    categories = "[penitential]"
     folio = "Psalm 37/38:14-17"
 
     % Unchanging:

@@ -16,8 +16,9 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "domine_labia_mea_aperies"
     shortcomp = "gabrieli"
+    categories = "[penitential]"
     needtranslation = #'f
-    folio = "Psalm 51 (Vulgate 50)"
+    folio = "Psalm 50/51"
 
     % Unchanging:
     language = "latin"

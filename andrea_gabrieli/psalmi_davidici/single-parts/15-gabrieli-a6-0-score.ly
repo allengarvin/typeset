@@ -14,10 +14,11 @@
     subtitle = "Tertia pars"
     instrument = "Cor mundum crea in me: Tertia pars (score)"
     headerspace = \markup { \vspace #2 }
+    categories = "[penitential]"
     shorttitle = "cor_mundum_crea_in_me"
     shortcomp = "gabrieli"
     needtranslation = #'f
-    folio = "Psalm 51 (Vulgate 50)"
+    folio = "Psalm 50/51"
 
     % Unchanging:
     language = "latin"

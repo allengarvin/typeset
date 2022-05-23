@@ -16,8 +16,9 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "beati_quorum_remissae_sunt_iniquitates"
     shortcomp = "gabrieli"
+    categories = "[penitential]"
     needtranslation = #'f
-    folio = "Psalm 32:1-4"
+    folio = "Psalm 31/32:1-4"
 
     % Unchanging:
     language = "latin"

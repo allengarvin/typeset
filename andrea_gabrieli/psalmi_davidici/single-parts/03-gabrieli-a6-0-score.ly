@@ -14,6 +14,7 @@
     subtitle = "Tertia pars"
     instrument = "Discedite a me omnes qui operamini iniquitatem: Tertia pars (score)"
     headerspace = \markup { \vspace #2 }
+    categories = "[penitential]"
     folio = "Psalm 6:9-11"
 
     % Unchanging:

@@ -17,7 +17,8 @@
     shorttitle = "in_camo_et_freno_maxillas"
     shortcomp = "gabrieli"
     needtranslation = #'f
-    folio = "Psalm 32:9-11"
+    folio = "Psalm 31/32:9-11"
+    categories = "[penitential]"
 
     % Unchanging:
     language = "latin"

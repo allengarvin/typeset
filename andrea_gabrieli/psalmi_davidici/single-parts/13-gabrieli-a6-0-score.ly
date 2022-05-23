@@ -15,9 +15,10 @@
     instrument = "Miserere mei: Prima pars (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "miserere_mei"
+    categories = "[penitential]"
     shortcomp = "gabrieli"
     needtranslation = #'f
-    folio = "Psalm 51 (Vulgate 50)"
+    folio = "Psalm 50/51"
 
     % Unchanging:
     language = "latin"

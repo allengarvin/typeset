@@ -17,6 +17,7 @@
     shorttitle = "quoniam_ego_in_flagella_paratus_sum"
     shortcomp = "gabrieli"
     needtranslation = #'f
+    categories = "[penitential]"
     folio = "Psalm 37/38:18-23"
 
     % Unchanging:

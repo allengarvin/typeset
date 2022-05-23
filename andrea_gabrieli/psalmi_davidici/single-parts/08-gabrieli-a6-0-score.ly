@@ -17,6 +17,7 @@
     shorttitle = "domine_ne_in_furore_tuo_arguas_me"
     shortcomp = "gabrieli"
     needtranslation = #'f
+    categories = "[penitential]"
     folio = "Psalm 37/38:2-5"
 
     % Unchanging:
