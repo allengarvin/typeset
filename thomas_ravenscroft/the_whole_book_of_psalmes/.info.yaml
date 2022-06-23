@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1633__ravenscroft_thomas__the_whole_book_of_psalmes
+    typeset_directory: thomas_ravenscroft/the_whole_book_of_psalmes
+source:
+    city: London
+    date_exact: true
+    title: The Whole Booke of Psalmes
+    year: 1621
+    reprints: 1596
