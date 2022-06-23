@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /thomas_tallis
+biography:
+    name: Thomas Tallis
+    last_name: Tallis
+    nationality: English
+    born_year: 1505
+    born_circa: true
+    died_year: 1585
+    died_date: 1585-11-23
+    born_location:
+        country: England
+    died_location:
+        country: England

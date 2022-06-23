@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1567__parker_archbishop_matthew__the_whole_psalter__tallis
+    typeset_directory: thomas_tallis/the_whole_psalter
+source:
+    city: London
+    date_exact: true
+    title: The Whole Psalter translated into English meter
+    year: 1567
+    press: John Daye press
