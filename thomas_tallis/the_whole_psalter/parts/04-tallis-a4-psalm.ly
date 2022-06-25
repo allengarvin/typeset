@@ -84,7 +84,7 @@
 % O blest be God, who day by day
 %  doth heap his gifts on us;
 %  this God is God of all our health,
-%  in power most glorious. Selah.
+%  in power most glorious. 
 % He is our God, even God, I say,
 %  all health and wealth to shape;
 %  yea, death is ruled by God the Lord,
@@ -142,7 +142,7 @@
 % O all ye realms of all the Earth,
 %  sing ye to God of bliss;
 %  sing psalms and hymns to testify
-%  how worthy praise he is. Selah.
+%  how worthy praise he is. 
 % 
 % To him that rideth on heaven of heavens,
 %  as he hath done of old;
