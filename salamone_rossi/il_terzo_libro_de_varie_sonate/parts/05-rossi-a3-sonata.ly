@@ -1,3 +1,5 @@
+myRepeat = \markup { \italic { Si replica l'ultima parte ma più presto } } 
+
 cantoOneVincipit = \relative c' {
     \time 4/4
     \clef "petrucci-c3"
@@ -108,7 +110,9 @@ cantoOneV = \relative c' {
         f[ d g e] | f[ g a f] g[ d f e] | d[ g, c bf] a2 |
             g4 f8[ g] a[ c bf c] | d[ bf a g] f[ g a bf] | c[
         bf a c] b[ c d \ficta b!]\unficta | c[ d e c] d[ f e g,] |
-            a[ bf c a] bf[ bf a g] | f[ d] g2 \ficta fs4 \unficta |
+            a[ bf c a] bf[ bf a g] | 
+    s1*0 #(if *is-parts* #{<>\myRepeat #})
+        f8[ d] g2 \ficta fs4 \unficta |
     }
     \alternative { { g1 ~ | g2 d'8.[ e16] d8.[ c16] } { g\longa*1/4 } }
     \bar "|."
@@ -218,8 +222,10 @@ cantoTwoV = \relative c'' {
         g8[ g' d e] f[ e d c] | bf[ d c bf] a[ bf c d] | 
 
     g,8[ d' c a] d[ e f d] | e[ f g e] f[ d g e] | fs[ g a fs] g[ d f e] | 
+    s1*0 #(if *is-parts* #{<>\myRepeat #})
         d8[ g, c bf] a2 |
     }
+
     \alternative { { g1 ~ | g2 b8.[ c16] b8.[ c16] } { g\longa*1/4 } } 
     \bar "|."
 }
@@ -304,9 +310,13 @@ bassoV = \relative c' {
         d4 | ef c d c | d bf f'2 | bf,4 bf' a bf | g c, f f | e f d g | 
         c, c bf c | a d g, a | bf c d2 | g,4 bf' a bf | g c,
 
-        f4 f | e f d g | c, c bf c | a d g, a | bf c d2 
+        f4 f | e f d g | c, c bf c | a d g, a | 
+        s1*0 _\myRepeat
+        bf4 c d2 
+    
     }
     \alternative { { g,1 ~ | g2 g'4 a } { g,\longa*1/4 } }
+
     \bar "|."
 }
 
