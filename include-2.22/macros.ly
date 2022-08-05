@@ -1,5 +1,5 @@
 % macros.ly
-% 2021-07-11
+% 2022-05-01
 % version 2.0
 
 \pointAndClickOff
@@ -9,6 +9,10 @@ unficta = \unset suggestAccidentals
 ficta = \set suggestAccidentals = ##t
 incipitLarge = \once \override NoteHead #'font-size = #3
 stemOff = { \hide Staff.Stem }
+
+% should have done this years ago
+melfi = { \melisma\ficta }
+melfiEnd = { \melismaEnd\unficta }
 
 noSlur = \override Slur #'transparent = ##t
 
@@ -202,6 +206,13 @@ raisedSixTwoTime = ^\markup {
     \override #'(baseline-skip . 2)
     \column {
         \number \small 6 \number \small 2
+    }
+}
+
+raisedNineTwoTime = ^\markup {
+    \override #'(baseline-skip . 2)
+    \column {
+        \number \small 9 \number \small 2
     }
 }
 
