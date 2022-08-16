@@ -15,6 +15,7 @@
     title = "Sonata prima"
     language = "instrumental"
     subtitle = "detta la Moderna"
+    categories = "[trio]"
     instrument = "Sonata 1 'detta la Moderna' (score)"
 
     % Unchanging:

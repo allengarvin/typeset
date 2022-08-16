@@ -13,6 +13,7 @@
     title = "Cantai: or piango"
     folio = \markup { Petrarca, \italic{Canzoniere} CCXXIX (229) }
     instrument = "Cantai: or piango (score)"
+    originallyset = "2013-12-21"
 
     % Unchanging:
     \include "include/distribution-header.ly"

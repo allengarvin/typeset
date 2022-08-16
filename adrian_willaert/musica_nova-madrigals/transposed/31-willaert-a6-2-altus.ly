@@ -30,12 +30,12 @@
     
 \book {
     \bookOutputName "31-willaert--i_piansi_or_canto"
-    \bookOutputSuffix "--3-altus--tr_clef"
+    \bookOutputSuffix "--3-altus--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble"
-            \global\transpose g c 
+            \clef "treble_8"
+            \global\transpose f c 
             \altusXXXI
         >>
         \addlyrics { \altusLyricsXXXI }

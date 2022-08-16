@@ -1,7 +1,7 @@
 cantoXI =  \relative a' {
     \clef treble
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         a1 c2 b  |
@@ -40,7 +40,7 @@ cantoXI =  \relative a' {
 quintoXI =  \relative e'' {
     \clef treble
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         e1 e2 e  |
@@ -79,7 +79,7 @@ quintoXI =  \relative e'' {
 altoXI =  \relative e' {
     \clef treble
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         e1 e2 e  |
@@ -117,7 +117,7 @@ altoXI =  \relative e' {
 tenoreXI =  \relative c' {
     \clef alto
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         c1 a2 e' ~  |
@@ -156,7 +156,7 @@ tenoreXI =  \relative c' {
 bassoXI =  \relative a, {
     \clef bass
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         a1 a'2 gs  |

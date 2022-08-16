@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Sonata terza"
     language = "instrumental"
+    categories = "[trio]"
     subtitle = "sopra l'Arie della Romenesca"
     instrument = "Sonata 3 'sopra l'Arie della Romenesca' (score)"
 

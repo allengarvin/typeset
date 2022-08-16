@@ -74,6 +74,7 @@ meaneXI = \relative c' {
         f2 d f | e1 r2 f | d f e1 | e2 e1 g2 | f f e1 | r2
 
         f2 d f | e1 r2 f | d e f1 | \invisibleTime\time 6/2
+            s1*0\raisedSixTwoTime
             f2 a2. g4( f2) f e |
             \invisibleTime\time 4/2
     }
@@ -139,6 +140,7 @@ contratenorXI = \relative c' {
         c2 bf c | c1 r2 c | bf c c1 | c2 c1 d2 | c2 c c1 | r2
 
         c2 bf c | c1 r2 c | bf2. g4 c1 | \invisibleTime\time 6/2
+        s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
 
         c2 ef2. d4( c bf) c2 c |
         \invisibleTime\time 4/2
@@ -206,6 +208,7 @@ tenorXI = \relative c {
 
         a2 f a | g1 r2 a  f bf a1 | 
         \invisibleTime\time 6/2
+        s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         f2 c'2. bf4( a2) g g | 
         \invisibleTime\time 4/2
     }
@@ -271,6 +274,7 @@ baseXI = \relative c {
         f2 bf f | c'1 r2 f, | bf f c'1 | c2 c1 g2 | a f c'1 | r2
 
         f,2 bf f | c'1 r2 f, | bf g f1 | \invisibleTime\time 6/2 
+        s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         f'2 c ef( f) c c | \invisibleTime\time 4/2
     }
     \alternative { { f,1 r1 } { f\longa*1/2} }

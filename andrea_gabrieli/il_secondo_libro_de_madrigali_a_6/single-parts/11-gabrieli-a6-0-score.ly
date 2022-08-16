@@ -13,8 +13,10 @@
     title = "O soave al mio cor dolce catena"
     subtitle = ""
     instrument = "O soave al mio cor dolce catena:  (score)"
+    categories = "[madrigal]"
     needtranslation = #'t
     language = "italian"
+    shortcomp = "a_gabrieli"
     headerspace = \markup { \vspace #2 } 
 
     % Unchanging:
@@ -26,7 +28,7 @@
     tagline = #'f
 }
 
-\include "../parts/11-gabrieli-a6-madrigali.ly"
+\include "../parts/11-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "11-gabrieli--o_soave_al_mio_cor_dolce_catena-"

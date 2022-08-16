@@ -7,10 +7,10 @@ cantoOneIIincipit = \relative c'' {
     d2
 }
 
+% canto I: checked against source
 cantoOneII = \relative c'' {
     \key f \major
     \singleTime \time 3/2
-    \clef treble
     
     R1. | d2 e4 f g e | f2. e4 d2 | e2. d4 c2 | d1 d2 | e2. f4 g e |
         f g a1 | f2 e1 |
@@ -27,10 +27,10 @@ cantoTwoIIincipit = \relative c'' {
     g2
 }
 
+% canto II: checked against source
 cantoTwoII = \relative c'' {
     \key f \major
     \singleTime \time 3/2
-    \clef soprano
 
     g2 a4 bf c a | bf2. a4 g2 | a2. g4 f2 | g1 a2 | bf2. c4 d bf | 
         c2. c4 bf2 | a2. bf4 c2 | 

@@ -1,7 +1,7 @@
 cantoIX =  \relative d'' {
     \clef treble
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         d\breve |
@@ -31,7 +31,7 @@ cantoIX =  \relative d'' {
         r a fs a b c d2 ~ |
         \invisibleTime \time 2/2
         d\raisedTwoTwoTime cs2 |
-        \invisibleTime \time 4/2 
+        \invisibleTime \fourTwoCommonTime 
         d\breve
     }
 }
@@ -39,7 +39,7 @@ cantoIX =  \relative d'' {
 quintoIX =  \relative a' {
     \clef treble
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
     \repeat volta 2 {
         a1 b  |
         a2. g4 fs2. g4  |
@@ -68,7 +68,7 @@ quintoIX =  \relative a' {
         r d a d b2 a  |
         \invisibleTime \time 2/2
         a2.\raisedTwoTwoTime g4 |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         fs\breve |
     }
 
@@ -77,7 +77,7 @@ quintoIX =  \relative a' {
 altoIX =  \relative c' {
     \clef alto
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         fs1 g  |
@@ -107,7 +107,7 @@ altoIX =  \relative c' {
         r d d d d2 fs  |
         \invisibleTime \time 2/2
         e4\raisedTwoTwoTime d e2 |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         d\breve  |
     }
 }
@@ -115,7 +115,7 @@ altoIX =  \relative c' {
 tenoreIX =  \relative c' {
     \clef tenor
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         a1 d  |
@@ -145,7 +145,7 @@ tenoreIX =  \relative c' {
         r fs d fs b,2 fs4 g  |
         \invisibleTime \time 2/2
         a1\raisedTwoTwoTime | 
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         a\breve
     }
 }
@@ -153,7 +153,7 @@ tenoreIX =  \relative c' {
 bassoIX =  \relative d {
     \clef bass
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         d2. c4 b a g2  |
@@ -183,7 +183,7 @@ bassoIX =  \relative d {
         d g,2 d'  |
         \invisibleTime \time 2/2
         a'1\raisedTwoTwoTime 
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         d,\breve  |
     }
 }

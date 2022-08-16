@@ -11,12 +11,17 @@
 \header {
     % Things that change per piece:
     title = "Domine quid multiplicati sunt"
+    language = "latin"
     instrument = "Domine quid multiplicati sunt (score)"
-    folio = \markup { Psalm 3:2-5 }
+    folio = "Psalm 3:2-5"
 
     % Unchanging:
-    \include "include/distribution-header.ly"
+    originallyset = "2017-08-20"
     lastupdated = "2017-08-20"
+    flats = 1
+    final = "d"
+    shorttitle = "domine_quid_multiplicati_sunt"
+    \include "include/distribution-header.ly"
     tagline = #'f
 }
 \include "../parts/01-willaert-a4-motet.ly"
@@ -123,6 +128,7 @@
     }
     \markup { \fill-line {
         \column { \line { \italic { "Prima pars" } } }
+        \column { \line { \italic { "Translation" } } }
     } }
     \markup {
         \fill-line {
@@ -144,6 +150,7 @@
     }
     \markup { \fill-line {
         \column { \line { \vspace #1 } \line { \italic { "Secunda pars" } } }
+        \column { \line { \vspace #1 } \line { \italic { "Translation" } } }
     } }
     \markup {
         \fill-line {

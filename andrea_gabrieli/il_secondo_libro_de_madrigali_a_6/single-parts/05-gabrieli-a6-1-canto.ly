@@ -25,7 +25,7 @@
     tagline = #'f
 }
 
-\include "../parts/05-gabrieli-a6-madrigali.ly"
+\include "../parts/05-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "05-gabrieli--la_bella_pargoletta-"

@@ -15,6 +15,8 @@
     folio = \markup { Torquato Tasso, \italic{Rime} }
     instrument = "Però boschi (score)"
     needtranslation = #'t
+    final = "c"
+    flats = 0
     language = "italian"
 
     % Unchanging:

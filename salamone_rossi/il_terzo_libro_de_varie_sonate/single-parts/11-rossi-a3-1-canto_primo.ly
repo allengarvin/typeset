@@ -24,11 +24,11 @@
     tagline = #'f
 }
 
-\include "../parts/11-sinfonia_quinta.ly"
+\include "../parts/11-rossi-a3-sinfonia.ly"
     
 \book {
     \bookOutputName "11-sinfonia_5"
-    \bookOutputSuffix "--1-canto-primo-tr_clef"
+    \bookOutputSuffix "--1-canto_one-tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

@@ -17,6 +17,7 @@
     folio = \markup { Antonio Migliori, \italic { Priego alla beata vergine Maria (1593) } }
     shorttitle = "figlio_immortal_dimmortal_padre"
     shortcomp = "palestrina"
+    category = "[madrigal]"
     needtranslation = #'f
 
     % Unchanging:
@@ -29,7 +30,7 @@
     tagline = #'f
 }
 
-\include "../parts/01-palestrina-a5-madrigali.ly"
+\include "../parts/01-palestrina-a5-madrigal.ly"
 
 \book {
     \bookOutputName "01-palestrina--figlio_immortal_dimmortal_padre-"

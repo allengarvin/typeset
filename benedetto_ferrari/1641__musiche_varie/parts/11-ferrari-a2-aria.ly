@@ -289,8 +289,8 @@ cantoLyricsXI = \lyricmode {
     non tre -- sco più 
     \normalLyrics
         con vo -- i,
-    al -- la lar -- ga~al -- la lar -- ga~am -- bi d -- oi, __
-    al -- la lar -- ga am -- bi d -- oi.
+    al -- la lar -- ga~al -- la lar -- ga~am -- bi do -- i, __
+    al -- la lar -- ga am -- bi do -- i.
     S’o -- gni~un fos -- se co -- m’i -- o,
         fos -- se co -- m’i -- o
     sa -- ria un ba -- lor -- do~A -- mor, A -- mor, e __ non __ un __ 

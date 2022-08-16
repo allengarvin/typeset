@@ -17,6 +17,7 @@
     % Things that change per part:
     partname = "Bassus (part 6 of 6)"
     instrument = "Cantai: or piango (bassus)"
+    originallyset = "2013-12-21"
 
     % Unchanging:
     \include "include/distribution-header.ly"

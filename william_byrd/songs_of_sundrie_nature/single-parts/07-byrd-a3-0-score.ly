@@ -13,6 +13,7 @@
     title = "Attend mine humble prayer Lord"
     language = "english"
     folio = "Psalm 143:1-2"
+    categories = "[penitential]"
     instrument = "Attend mine humble prayer (score)"
 
     % Unchanging:

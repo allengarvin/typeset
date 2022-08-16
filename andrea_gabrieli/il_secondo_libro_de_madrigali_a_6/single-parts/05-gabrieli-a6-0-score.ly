@@ -15,6 +15,7 @@
     instrument = "La bella pargoletta:  (score)"
     needtranslation = #'f
     language = "italian"
+    shortcomp = "a_gabrieli"
     folio = "Torquato Tasso (1544-1595)"
 
     % Unchanging:
@@ -26,7 +27,7 @@
     tagline = #'f
 }
 
-\include "../parts/05-gabrieli-a6-madrigali.ly"
+\include "../parts/05-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "05-gabrieli--la_bella_pargoletta-"

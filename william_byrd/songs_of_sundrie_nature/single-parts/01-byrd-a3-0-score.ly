@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Lord in thy rage rebuke me not"
+    categories = "[penitential]"
     language = "english"
     folio = "Psalm 6:1-2"
     instrument = "Lord in thy rage (score)"

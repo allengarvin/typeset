@@ -25,7 +25,7 @@
     tagline = #'f
 }
 
-\include "../parts/11-gabrieli-a6-madrigali.ly"
+\include "../parts/11-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "11-gabrieli--o_soave_al_mio_cor_dolce_catena-"

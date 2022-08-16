@@ -24,7 +24,7 @@
     tagline = #'f
 }
 
-\include "../parts/14-gabrieli-a6-madrigali.ly"
+\include "../parts/14-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "14-gabrieli--vieni_flora_gentil-"

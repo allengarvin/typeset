@@ -16,7 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "have_mercy_upon_me_o_god"
     shortcomp = "byrd"
-    folio = "Psalm 51:1-2"
+    folio = "Psalm 50/51:1-2"
+    categories = "[penitential]"
 
     % Unchanging:
     language = "english"

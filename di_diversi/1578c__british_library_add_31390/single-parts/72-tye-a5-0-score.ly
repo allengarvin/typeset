@@ -13,8 +13,8 @@
     title = "In Nomine à 5 'Seldom sene'"
     language = "instrumental"
     instrument = "In Nomine à 5 'Seldom sene' (score)"
-    composer = "Christopher Tye (c.1505-c.1573)"
     subtitle = "Weidner #20"
+    composer = "Christopher Tye (c.1505-c.1573)"
     folio = \markup { fol. 71\super{v} - 72\super{r} }
 
 

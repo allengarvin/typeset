@@ -40,7 +40,7 @@
                     \set Staff.instrumentName = #"Cantus"
                     \incipit \cantusXXXIincipitVoice
                     \clef treble
-                    \global\transpose g c
+                    \global\transpose f c
                     \cantusXXXI
                 >>
                 \addlyrics { \cantusLyricsXXXI }
@@ -48,15 +48,15 @@
                     \set Staff.instrumentName = #"Sesta"
                     \incipit \sestaXXXIincipitVoice
                     \clef "treble"
-                    \global\transpose g c
+                    \global\transpose f c
                     \sestaXXXI
                 >>
                 \addlyrics { \sestaLyricsXXXI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
                     \incipit \altusXXXIincipitVoice
-                    \clef "treble"
-                    \global\transpose g c
+                    \clef "treble_8"
+                    \global\transpose f c
                     \altusXXXI
                 >>
                 \addlyrics { \altusLyricsXXXI }
@@ -64,7 +64,7 @@
                     \set Staff.instrumentName = #"Quintus"
                     \incipit \quintusXXXIincipitVoice
                     \clef "treble_8"
-                    \global\transpose g c
+                    \global\transpose f c
                     \quintusXXXI
                 >>
                 \addlyrics { \quintusLyricsXXXI }
@@ -72,7 +72,7 @@
                     \set Staff.instrumentName = #"Tenor"
                     \incipit \tenorXXXIincipitVoice
                     \clef "treble_8"
-                    \global\transpose g c
+                    \global\transpose f c
                     \tenorXXXI
                 >>
                 \addlyrics { \tenorLyricsXXXI }
@@ -80,7 +80,7 @@
                     \set Staff.instrumentName = #"Bassus"
                     \incipit \bassusXXXIincipitVoice
                     \clef "bass"
-                    \global\transpose g c
+                    \global\transpose f c
                     \bassusXXXI
                 >>
                 \addlyrics { \bassusLyricsXXXI }

@@ -13,8 +13,10 @@
     title = "Or ch’a noi torna la stagion novella"
     subtitle = ""
     instrument = "Or ch’a noi torna la stagion novella:  (score)"
+    categories = "[madrigal]"
     needtranslation = #'f
     language = "italian"
+    shortcomp = "a_gabrieli"
 
     % Unchanging:
     lastupdated = "2019-11-11"
@@ -25,7 +27,7 @@
     tagline = #'f
 }
 
-\include "../parts/13-gabrieli-a6-madrigali.ly"
+\include "../parts/13-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "13-gabrieli--or_che_a_noi_torna_la_stagion_novella-"

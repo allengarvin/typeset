@@ -13,6 +13,9 @@
     title = "Correnta sesta"
     language = "instrumental"
     instrument = "Correnta 6 (score)"
+    categories = "[trio]"
+    final = "a"
+    flats = 0
 
     % Unchanging:
     originallyset = "2013-04-16"

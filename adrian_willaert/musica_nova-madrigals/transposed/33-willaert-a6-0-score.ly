@@ -17,6 +17,7 @@
 
     % Unchanging:
     \include "include/distribution-header.ly"
+    originallyset = "2013-12-21"
     lastupdated = "2013-12-21"
     tagline = #'f
 }

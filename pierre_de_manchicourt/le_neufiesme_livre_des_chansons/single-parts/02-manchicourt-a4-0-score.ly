@@ -13,7 +13,8 @@
     title = "En Dieu me consolle"
     language = "french"
     subtitle = "Deuxième pars"
-    folio = \markup { Paraphrase of Psalm 130, \italic { De profundis } }
+    folio = \markup { Paraphrase of Psalm 129/130, \italic { De profundis } }
+    categories = "[penitential]"
     instrument = "En Dieu me consolle (score)"
 
     % Unchanging:

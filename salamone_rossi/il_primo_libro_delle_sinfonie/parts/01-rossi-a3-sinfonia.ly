@@ -7,10 +7,10 @@ cantoOneIincipit = \relative c'' {
         d4.*4/3
 }
 
+% canto I: checked against source
 cantoOneI = \relative c'' {
     \key f \major
     \time 4/4
-    \clef treble
 
     \repeat volta 2 {
         d4. e8 f4 g8[ f] | e4 e d8[ c d e] | f4 d2 c4 | d4 d8[ e] f4 g8[ f] |
@@ -35,10 +35,10 @@ cantoTwoIincipit = \relative c'' {
     g4.*4/3
 }
 
+% canto II: checked against source
 cantoTwoI = \relative c'' {
     \key f \major
     \time 4/4
-    \clef treble
 
     \repeat volta 2 {
         R1 | g4. a8 bf4 c8[ bf] | a4 a g8[ bf a g] | f4. g8 a4 b | 
@@ -63,10 +63,10 @@ bassoIincipit = \relative c' {
     g2
 }
 
+% basso: checked against source
 bassoI = \relative c' {
     \key f \major
     \time 4/4
-    \clef varbaritone
 
     \repeat volta 2 {
         g2 f4 e8[ d] | c8[ d e f] g4 g | f2 ef | d d | c8[ d e f] g4 g |

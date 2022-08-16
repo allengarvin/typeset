@@ -11,12 +11,15 @@
 \header {
     % Things that change per piece:
     title = "Correnta settima"
+    final = "d"
+    flats = 1
     language = "instrumental"
     instrument = "Correnta 7 (score)"
+    categories = "[trio]"
 
     % Unchanging:
-    originallyset = "2033-04-16"
-    lastupdated = "2033-04-16"
+    originallyset = "2013-04-16"
+    lastupdated = "2013-04-16"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

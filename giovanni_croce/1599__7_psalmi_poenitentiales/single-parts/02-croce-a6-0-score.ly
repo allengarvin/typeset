@@ -17,6 +17,7 @@
     shorttitle = "defatigatus_sum_sic_suspirando"
     shortcomp = "croce"
     needtranslation = #'t
+    categories = "[penitential]"
     folio = "Paraphrase of Psalm 6 by Francesco Bembo (1544-1599)"
 
     % Unchanging:

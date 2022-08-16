@@ -24,7 +24,7 @@
     tagline = #'f
 }
 
-\include "../parts/13-gabrieli-a6-madrigali.ly"
+\include "../parts/13-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "13-gabrieli--or_che_a_noi_torna_la_stagion_novella-"

@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Sinfonia quarta"
     language = "instrumental"
+    categories = "[trio]"
     instrument = "Sinfonia 4 (score)"
     flats = 1
     final = "g"

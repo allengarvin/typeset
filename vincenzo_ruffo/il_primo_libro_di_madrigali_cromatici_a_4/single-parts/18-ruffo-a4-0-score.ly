@@ -22,7 +22,7 @@
     lastupdated = "2015-01-11"
     flats = 1
     final = "c"
-    categories = "[madrigal]"
+    categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

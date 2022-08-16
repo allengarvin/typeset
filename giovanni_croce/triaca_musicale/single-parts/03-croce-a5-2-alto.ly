@@ -7,7 +7,7 @@
 \include "../include/scheme.ly" 
 \include "../include/layout-parts.ly"
 
-#(set-global-staff-size 19.2)
+#(set-global-staff-size 19.0)
 
 \header {
     % Things that change per piece:

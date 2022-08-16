@@ -36,7 +36,7 @@
     \score {
         \new Voice << 
             \clef "treble"
-            \global 
+            \global\transpose g c 
             \quintoIII
         >>
                 \addlyrics { \quintoLyricsIII }

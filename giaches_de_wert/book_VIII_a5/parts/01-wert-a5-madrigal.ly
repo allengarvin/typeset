@@ -41,9 +41,9 @@ cantoI = \relative c'' {
 cantoLyricsI = \lyricmode {
     Io non son pe -- rò mor -- to,
     Don -- na co -- me pen -- sa -- te,
-    Per -- chè più non m'a -- ma -- te,
+    Per -- ché più non m'a -- ma -- te,
     Don -- na co -- me pen -- sa -- te,
-    Per -- chè più non m'a -- ma -- te,
+    Per -- ché più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta __
     An -- zi ri -- tor -- no~in __ vi -- ta.
 
@@ -104,12 +104,12 @@ altoI = \relative c' {
 altoLyricsI = \lyricmode {
     Io non son pe -- rò mor -- to,
     Don -- na __ co -- me pen -- sa -- te,
-    Per -- chè più __ non m'a -- ma -- te,
+    Per -- ché più __ non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta
     An -- zi ri -- tor -- no~in vi -- ta,
     Io non son pe -- rò mor -- to,
     Don -- na co -- me __ pen -- sa -- te,
-    Per -- chè più non m'a -- ma -- te,
+    Per -- ché più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta,
     An -- zi ri -- tor -- no~in vi -- ta,
     An -- zi ri -- tor -- no~in vi -- ta,
@@ -165,7 +165,7 @@ tenoreI = \relative c' {
 tenoreLyricsI = \lyricmode {
     Io non son pe -- rò mor -- to, __
     Don -- na co -- me pen -- sa -- te,
-    Per -- chè __ più non m'a -- ma -- te,
+    Per -- ché __ più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta
     An -- zi ri -- tor -- no~in vi -- ta,
     An -- zi ri -- tor -- no~in vi -- ta,
@@ -173,7 +173,7 @@ tenoreLyricsI = \lyricmode {
         ri -- tor -- no~in vi -- ta,
     Io non son pe -- rò mor -- to,
     Don -- na co -- me pen -- sa -- te,
-    Per -- chè __ più non m'a -- ma -- te,
+    Per -- ché __ più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta,
     An -- zi ri -- tor -- no~in vi -- ta,
     An -- zi ri -- tor -- no~in vi -- ta,
@@ -216,7 +216,7 @@ bassoLyricsI = \lyricmode {
     An -- zi ri -- tor -- no~in vi -- ta
     Io non son pe -- rò mor -- to, 
     Don -- na co -- me pen -- sa -- te,
-    Per -- chè più non m'a -- ma -- te,
+    Per -- ché più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta,
     An -- zi ri -- tor -- no~in vi -- ta,
     An -- zi ri -- tor -- no~in vi -- ta,
@@ -270,11 +270,11 @@ quintoLyricsI = \lyricmode {
     An -- zi ri -- tor -- no~in vi -- ta,
     Io non son __ pe -- rò mor -- to, __
     Don -- na co -- me pen -- sa -- te, __
-    Per -- chè più non m'a -- ma -- te,
+    Per -- ché più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta,
     Io non son pe -- rò mor -- to,
     Don -- na co -- me __ pen -- sa -- te,
-    Per -- chè più non m'a -- ma -- te,
+    Per -- ché più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta.
 
     Ché l'al -- ma~in voi se -- pol -- ta,
@@ -325,7 +325,7 @@ quintoIincipitVoice = <<
 %
 %Io no son però morto,
 %Donna, come pensate,
-%perchè più non m'amate;
+%perché più non m'amate;
 %anzi ritorn'in vita
 %
 %ché l'alm'in voi sepolta

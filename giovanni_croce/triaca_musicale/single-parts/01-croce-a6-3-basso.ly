@@ -25,7 +25,7 @@
     tagline = #'f
 }
 
-\include "../parts/01-ecco-a6.ly"
+\include "../parts/01-croce-a6-canzone.ly"
 
 \book {
     \bookOutputName "01-ecco"

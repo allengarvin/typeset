@@ -1,6 +1,46 @@
 % S'udian sovente gareggiar nel canto
+% un Cucco e un Rossignuolo:
+% mentre l'un altro solo
+% credea sovr'ogni augello averne il vanto.
+% Quando nel più fervor de tal contese
+% un Papagallo audace,
+% persuadendo la pace,
+% a farne egli tra lor giudizio prese.
+% 
+% Disse il Cucco: O buon Giudice, non sai
+% che chi non brama il Cù,
+% chi non l'onora è un Cù!
+% che dà nova al Villan d'uscir di guai.
+% Or senti il canto mio
+% come egli è grave:
+% Cocù Cocù Cocù Cocù Cocù.
+% Certo nel mondo tutto un tal non have.
+% 
+% Rispose il Rossignol: Dunque
+% tu cri, tu cri, tu cri, tu cri, tu cri.
+% nella armonia di pareggiarti me,
+% soave è il canto mio 
+% leggiadro e bello;
+% Pazzo che sei,, si si,, fre chi
+% fre ferio chi
+% E ognun' lo pregia più d'ogni altro Augello.
+% 
+% Grave il Giudice allor,
+% convien ch'impari:
+% Rossignuolo mio dolce,
+% tu certo canti dolce,
+% ma non vaglione un Cù cento tuoi pari.
+% Tosto che tal sentenza udita fu
+% di Cucchi un lungo giro,
+% lieti a cantar s'udiro:
+% Viva il Cù!
+% Cocù Cocù Cocù!
+% Viva il Cù!
+% Cocù Cocù Cocù Cocù. 
+
+% S'udian sovente gareggiar nel canto
 % un Cucco e un Rossignuolo
-% Mentre l'un altro solo
+% Mentre l'un l'altro solo
 % Credea sovr'ogni augello averne il vanto
 % Quando nel più fervor de tal contese
 % Un Papagallo audace,
@@ -114,22 +154,22 @@ cantoLyricsIII = \lyricmode {
     Men -- tre l'un l'al -- tro so -- lo
     Cre -- dea so -- vr'o -- gni~Au -- gel -- lo~a -- ver -- ne~il van -- to.
     Quan -- do nel più fer -- vor de dal con -- te -- se
-    Un Pa -- pa -- gal -- lo
-    Un Pa -- pa -- gal -- lo~au -- da -- ce,
+    Un Pap -- pa -- gal -- lo
+    Un Pap -- pa -- gal -- lo~au -- da -- ce,
     Per -- sua -- den -- do __ la pa -- ce,
-    A far -- ne~eg -- li tra lor giu -- di -- zio  pre -- se,
+    A far -- ne~e -- gli tra lor giu -- di -- zio  pre -- se,
     giu -- di -- tio pre -- se.
 
     % secondo parte: 
-    Dis -- se'l Cuc -- co O buon Giu -- di -- ce non sa -- i 
+    Dis -- se'l Cuc -- co: O buon Giu -- di -- ce non sa -- i 
     che chi non bra -- ma~il Cù 
-        il Cù il Cù chi nó l'ho -- no -- ra~è~u Cù 
+        il Cù il Cù chi nó l'ho -- no -- ra~è~un Cù 
     \ijLyrics
         Chi nó l'ho -- no -- ra~è~un Cù Che
     \normalLyrics
     dà no -- va~al Vil -- lan d'u -- scir di gua -- i 
-    Hor sen -- ti~il can -- to
-    Hor sen -- ti~il can -- to mi -- o
+    Or sen -- ti~il can -- to
+    Or sen -- ti~il can -- to mi -- o
     co -- m'e -- gli~è gra -- ve
     Co -- cù 
     \ijLyrics
@@ -142,19 +182,19 @@ cantoLyricsIII = \lyricmode {
     un tal __ non ha -- ve.
 
     % terza parte:
-    Ri -- spo -- se~il Ros -- si -- gnol Dun -- que Dun -- que 
+    Ri -- spo -- se~il Ros -- si -- gnuol: Dun -- que Dun -- que 
     que que que que que
     que que que que que
     tu cri tu cri tu cri tu cri tu cri 
     tu cri tu cri 
-    nell' ar -- mo -- nia di pa -- reg -- giar -- ti~à me __
+    nell' ar -- mo -- nia di pa -- reg -- giar -- ti~a me? __
     Soa -- ve~è il can -- to mi -- o
     leg -- gia -- dro~e bel -- lo
-    Paz -- zo che sei si si fre chi 
+    Paz -- zo che sei, si si, fre chi 
     fre fe -- rio chi
     fre fe -- rio chi 
-    E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
-    E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
+    E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
+    E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
 
     % quarta parte:
     Gra -- ve~il Giu -- di -- ce~all' hor
@@ -173,11 +213,11 @@ cantoLyricsIII = \lyricmode {
         lie -- ti~a can -- tar s'u -- di -- ro.
     \normalLyrics
 
-    Vi -- va~il Cù
-    Vi -- va~il Cù
+    Vi -- va~il Cù!
+    Vi -- va~il Cù!
     Co -- cù Co -- cù \ijLyrics Co -- cù \normalLyrics
-    Vi -- va~il Cù
-    Vi -- va~il Cù
+    Vi -- va~il Cù!
+    Vi -- va~il Cù!
     Co -- cù Co -- cù Co -- cù
     \ijLyrics
     Co -- cù Co -- cù Co -- cù
@@ -298,20 +338,20 @@ quintoLyricsIII = \lyricmode {
     Men -- tre l'un l'al -- tro so -- lo
     Cre -- dea so -- vr'o -- gni~Au -- gel -- lo~a -- ver -- ne~il van -- to
     Quan -- do nel più fer -- vor de tal con -- te - se
-    un Pa -- pa -- gal -- lo
-    un Pa -- pa -- gal -- lo'au -- da -- ce,
+    un Pap -- pa -- gal -- lo
+    un Pap -- pa -- gal -- lo'au -- da -- ce,
     Per -- sua -- den -- do la pa -- ce
     Per -- sua -- den -- do la pa -- ce,
-    A far -- ne~eg -- li tra lor giu -- di -- zio  pre -- se
+    A far -- ne~e -- gli tra lor giu -- di -- zio  pre -- se
     giu -- di -- zio pre - se.
 
     % seconda parte:
-    Dis -- se'l Cuc -- co O buon Giu -- di -- ce non sa -- i 
+    Dis -- se'l Cuc -- co: O buon Giu -- di -- ce non sa -- i 
     Che chi non bra -- ma~il Cù il Cù 
-    Chi non l'ho -- no -- ra~è~u Cù
+    Chi non l'ho -- no -- ra~è~un Cù!
     Che dà no -- va~al Vil -- lan d'u -- scir di gua -- i 
-    Hor sen -- ti~il can -- to
-    Hor sen -- ti~il can -- to mi -- o
+    Or sen -- ti~il can -- to
+    Or sen -- ti~il can -- to mi -- o
     co -- me~e gli~è 
     co -- me~e gli~è gra -- ve
     Co -- cù Co -- cù 
@@ -322,7 +362,7 @@ quintoLyricsIII = \lyricmode {
         un tal __ non ha -- ve.
 
     % terza parte:
-    Ri -- spo -- se~il Ros -- si -- gnol Dun -- que 
+    Ri -- spo -- se~il Ros -- si -- gnuol: Dun -- que 
     que que \ijLyrics que que \normalLyrics 
     que que que \ijLyrics que que que que que \normalLyrics
     tu cri tu cri tu cri tu cri tu cri 
@@ -331,11 +371,11 @@ quintoLyricsIII = \lyricmode {
     \ijLyrics nell' ar -- mo -- nia \normalLyrics di pa -- reg -- giar -- ti
     So -- a -- ve~è~il can -- to mi -- o
     leg -- gia -- dro~e bel -- lo
-    si si fre chi 
+    si si, fre chi 
     fre fe -- rio chi
     fre fe -- rio chi 
-    E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
-    E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
+    E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
+    E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
 
     % quarta parte:
     Gra -- ve~il Giu -- di -- ce~al' hor
@@ -354,11 +394,11 @@ quintoLyricsIII = \lyricmode {
         Lie -- ti~a can -- tar
         Lie -- ti~a can -- tar can -- tar s'u -- di -- ro
 
-    Vi -- va~il Cù
-    Vi -- va~il Cù
+    Vi -- va~il Cù!
+    Vi -- va~il Cù!
     Co -- cù \ijLyrics Co -- cù Co -- cù \normalLyrics 
-    Vi -- va~il Cù
-    \ijLyrics Vi -- va~il Cù \normalLyrics
+    Vi -- va~il Cù!
+    \ijLyrics Vi -- va~il Cù! \normalLyrics
     Co -- cù \ijLyrics Co -- cù Co -- cù
     Co -- cù Co -- cù Co -- cù Co -- cù \normalLyrics
     Co -- cù \ijLyrics Co -- cù Co -- cù 
@@ -471,20 +511,20 @@ altoLyricsIII = \lyricmode {
     Men -- tre l'un l'al -- tro so -- lo
     Cre -- dea so -- vr'o -- gni~Au -- gel -- lo~a -- ver -- ne~il van -- to.
     Quan -- do nel più fer -- vor de tal con -- te -- se,
-    Un Pa -- pa -- gal -- lo
-    Un Pa -- pa -- gal -- lo Un Pa -- pa -- gal -- lo~au -- da -- ce
+    Un Pap -- pa -- gal -- lo
+    Un Pap -- pa -- gal -- lo Un Pa -- pa -- gal -- lo~au -- da -- ce
     Per -- sua -- den -- do __ la pa -- ce
-    A far -- ne~eg -- li tra lor 
-    A far -- ne~eg -- li tra lor giu -- di -- zio  pre -- se
+    A far -- ne~e -- gli tra lor 
+    A far -- ne~e -- gli tra lor giu -- di -- zio  pre -- se
     giu -- di -- zio pre -- se.
 
     % secondo parte: 
-    Dis -- se'l Cuc -- co O buon Giu -- di -- ce non sa -- i 
-    che chi non bra -- ma~il Cù il Cù chi non l'ho -- no -- ra~è~u Cù chi 
+    Dis -- se'l Cuc -- co: O buon Giu -- di -- ce non sa -- i 
+    che chi non bra -- ma~il Cù il Cù chi non l'ho -- no -- ra~è~un Cù chi 
         non l'ho -- no -- ra~è~un Cù Che
     dà no -- va~al Vil -- lan d'u -- scir di gua -- i 
-    Hor sen -- ti~il can -- to
-    Hor sen -- ti~il can -- to mi -- o
+    Or sen -- ti~il can -- to
+    Or sen -- ti~il can -- to mi -- o
     co -- me~e __ gli~è gra -- ve
     Co -- cù Co -- cù \ijLyrics Co -- cù Co -- cù Co -- cù \normalLyrics
     Cer -- to nel mon -- do tut -- to~un tal non ha -- ve
@@ -494,21 +534,21 @@ altoLyricsIII = \lyricmode {
         un tal un tal __ non ha -- ve.
 
     % terza parte:
-    Ri -- spo -- se~il Ros -- si -- gnol Dun -- que Dun -- que 
+    Ri -- spo -- se~il Ros -- si -- gnuol: Dun -- que Dun -- que 
     que que \ijLyrics que que que \normalLyrics 
     que \ijLyrics que que que que que que \normalLyrics
     tu cri tu cri tu cri tu cri tu cri 
     tu cri tu cri 
     nell' ar -- mo -- nia __ di pa -- reg -- giar -- ti
-        di pa -- reg -- giar -- ti~à me
+        di pa -- reg -- giar -- ti~a me?
     So -- a -- ve~è~il can -- to mi -- o
     leg -- gia -- dro~e bel -- lo
-    paz -- zo che sei si si fre chi 
+    paz -- zo che sei, si si, fre chi 
     fre fe -- rio chi
     fre fe -- rio chi 
-    E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
+    E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
     \ijLyrics
-    E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
+    E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
     \normalLyrics
 
     % quarta parte:
@@ -532,11 +572,11 @@ altoLyricsIII = \lyricmode {
         Lie -- ti~a can -- tar s'u -- di -- ro.
         \normalLyrics
 
-    Vi -- va~il Cù
-    Vi -- va~il Cù
+    Vi -- va~il Cù!
+    Vi -- va~il Cù!
     Co -- cù \ijLyrics Co -- cù \normalLyrics Co -- cù
-    Vi -- va~il Cù
-    Vi -- va~il Cù
+    Vi -- va~il Cù!
+    Vi -- va~il Cù!
     Co -- cù \ijLyrics Co -- cù Co -- cù
     Co -- cù Co -- cù Co -- cù
     Co -- cù Co -- cù Co -- cù \normalLyrics
@@ -650,11 +690,11 @@ tenoreLyricsIII = \lyricmode {
     Men -- tre l'un l'al -- tro so -- lo
     Cre -- dea so -- vr'o -- gni~au -- gel -- lo~a -- ver -- n'il van -- to.
     Quan -- do nel più fer -- vor de tal con -- te -- se
-    Un Pa -- pa -- gal -- lo~au -- da -- ce
-    Un Pa -- pa -- gal -- lo~au -- da -- ce au -- da -- ce,
+    Un Pap -- pa -- gal -- lo~au -- da -- ce
+    Un Pap -- pa -- gal -- lo~au -- da -- ce au -- da -- ce,
     Per -- sua -- den -- do la pa -- ce
     Per -- sua -- den -- do la pa -- ce,
-    A far -- ne~eg -- li tra lor giu -- di -- zio  pre -- se
+    A far -- ne~e -- gli tra lor giu -- di -- zio  pre -- se
     giu -- di -- zio pre -- se.
 
     % secondo parte: 
@@ -663,10 +703,10 @@ tenoreLyricsIII = \lyricmode {
     Dis -- se'l Cuc -- co 
     \normalLyrics
     che chi non bra -- ma~il Cù il Cù il Cù 
-    Chi non l'ho -- no -- ra~è~u Cù
+    Chi non l'ho -- no -- ra~è~un Cù!
     Che dà no -- va~al Vil -- lan d'u -- scir di gua -- i 
-    Hor sen -- ti~il can -- to
-    Hor sen -- ti~il can -- to mi -- o
+    Or sen -- ti~il can -- to
+    Or sen -- ti~il can -- to mi -- o
     co -- me~e  gli~è 
     \ijLyrics co -- me~e gli~è \normalLyrics gra -- ve~il Co -- cù
     Co -- cù 
@@ -676,20 +716,20 @@ tenoreLyricsIII = \lyricmode {
         un tal un tal non ha -- ve.
 
     % terza parte:
-    Ri -- spo -- se~il Ros -- si -- gnol Dun -- que Dun -- que 
+    Ri -- spo -- se~il Ros -- si -- gnuol: Dun -- que Dun -- que 
     que que \ijLyrics que que que \normalLyrics 
     que que \ijLyrics que que que \normalLyrics
     tu cri tu cri tu cri tu cri tu cri 
     tu cri tu cri 
     nell' ar -- mo -- nia di pa -- reg -- giar -- ti
-        di pa -- reg -- giar -- ti~à me
+        di pa -- reg -- giar -- ti~a me?
     So -- a -- ve~è~il can -- to mi -- o
-    paz -- zo che sei si si fre chi 
+    paz -- zo che sei, si si, fre chi 
     fre fe -- rio chi
     fre fe -- rio chi 
-    E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
+    E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
     \ijLyrics
-    E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
+    E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
     \normalLyrics
 
     % quarta parte:
@@ -710,11 +750,11 @@ tenoreLyricsIII = \lyricmode {
         Lie -- ti~a can -- tar can -- tar s'u -- di -- ro
         Lie -- ti~a can -- tar s'u -- di -- ro
         Lie -- ti~a can -- tar s'u -- di -- ro
-    Vi -- va~il Cù
-    Vi -- va~il Cù
+    Vi -- va~il Cù!
+    Vi -- va~il Cù!
     Co -- cù Co -- cù \ijLyrics Co -- cù \normalLyrics 
-    Vi -- va~il Cù
-    \ijLyrics Vi -- va~il Cù \normalLyrics
+    Vi -- va~il Cù!
+    \ijLyrics Vi -- va~il Cù! \normalLyrics
     Co -- cù Co -- cù \ijLyrics Co -- cù
     Co -- cù Co -- cù Co -- cù
     Co -- cù Co -- cù Co -- cù
@@ -817,20 +857,20 @@ bassoLyricsIII = \lyricmode {
     Men -- tre l'un l'al -- tro so -- lo
     Cre -- dea so -- vr'o -- gni~Au -- gel -- lo~a -- ver -- ne~il van -- to
     Quan -- do nel più fer -- vor de tal con -- te -- se
-    un Pa -- pa -- gal -- lo~au -- da -- ce
-    un Pa -- pa -- gal -- lo~au -- da -- ce,
+    un Pap -- pa -- gal -- lo~au -- da -- ce
+    un Pap -- pa -- gal -- lo~au -- da -- ce,
     Per -- sua -- den -- do la pa -- ce
     Per -- sua -- den -- do la pa -- ce,
-    A far -- ne~eg -- li tra lor giu -- di -- zio  pre -- se
+    A far -- ne~e -- gli tra lor giu -- di -- zio  pre -- se
     giu -- di -- zio pre -- se.
 
     % seconda parte:
-    Dis -- se'l Cuc -- co O buon Giu -- di -- ce non sa -- i 
-    Che chi non bra -- ma~il Cù il Cù 
-    Chi non l'ho -- no -- ra~è~u Cù
-    Che dà no -- va~al Vil -- lan d'u -- scir di gua -- i 
-    Hor sen -- ti~il can -- to
-    Hor sen -- ti~il can -- to mi -- o
+    Dis -- se'l Cuc -- co: O buon Giu -- di -- ce non sa -- i 
+    Che chi non bra -- ma~il Cù il Cù
+    Chi non l'ho -- no -- ra~è~un Cù!
+    Che dà no -- va~al Vil -- lan d'u -- scir di gua -- i.
+    Or sen -- ti~il can -- to
+    Or sen -- ti~il can -- to mi -- o
     co -- me~e gli~è gra -- ve
     Co -- cù Co -- cù 
         \ijLyrics  Co -- cù Co -- cù Co -- cù \normalLyrics
@@ -840,7 +880,7 @@ bassoLyricsIII = \lyricmode {
         un tal __ non ha -- ve.
 
     % terza parte:
-    Ri -- spo -- se~il Ros -- si -- gnol Dun -- que 
+    Ri -- spo -- se~il Ros -- si -- gnuol: Dun -- que 
         Dun -- que 
     que que \ijLyrics que que \normalLyrics 
     que que que \ijLyrics que que que \normalLyrics
@@ -851,12 +891,12 @@ bassoLyricsIII = \lyricmode {
     So -- a -- ve~è~il can -- to mi -- o
     leg -- gia -- dro~e bel -- lo
 
-    Paz -- zo che sei si si fre chi 
+    Paz -- zo che sei, si si, fre chi 
     fre fe -- rio chi
     fre fe -- rio chi 
-    E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
+    E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo
     \ijLyrics 
-        E~o -- gn'un lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
+        E~o -- gnun' lo preg -- gia più d'o -- gn'al -- tro~Au -- gel -- lo.
     \normalLyrics
 
     % quarta parte:
@@ -875,11 +915,11 @@ bassoLyricsIII = \lyricmode {
         \ijLyrics
         Lie -- ti~a can -- tar s'u -- di -- ro
         \normalLyrics
-    Vi -- va~il Cù
-    Vi -- va~il Cù
+    Vi -- va~il Cù!
+    Vi -- va~il Cù!
     Co -- cù Co -- cù \ijLyrics Co -- cù \normalLyrics 
-    Vi -- va~il Cù
-    Vi -- va~il Cù
+    Vi -- va~il Cù!
+    Vi -- va~il Cù!
     Co -- cù Co -- cù 
     \ijLyrics Co -- cù Co -- cù
     Co -- cù Co -- cù Co -- cù Co -- cù

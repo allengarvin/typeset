@@ -19,6 +19,7 @@
     language = "instrumental"
     lastupdated = "2020-02-06"
     originallyset = "2020-02-06"
+    categories = "[trio]"
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"

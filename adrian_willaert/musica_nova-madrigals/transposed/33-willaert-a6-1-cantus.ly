@@ -20,6 +20,7 @@
     instrument = "Cantai: or piango (cantus)"
 
     % Unchanging:
+    originallyset = "2013-12-21"
     \include "include/distribution-header.ly"
     lastupdated = "2013-12-21"
     tagline = #'f

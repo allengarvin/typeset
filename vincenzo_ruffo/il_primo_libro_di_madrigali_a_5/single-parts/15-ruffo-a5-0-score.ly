@@ -22,7 +22,7 @@
     flats = 1
     final = "f"
     shorttitle = "liete_piante"
-    categories = "[madrigal]"
+    categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

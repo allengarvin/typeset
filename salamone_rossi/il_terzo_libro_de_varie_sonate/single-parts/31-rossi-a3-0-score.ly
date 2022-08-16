@@ -13,6 +13,10 @@
     title = "Correnta quinta"
     language = "instrumental"
     instrument = "Correnta 5 (score)"
+    categories = "[trio]"
+
+    final = "f"
+    flats = 1
 
     % Unchanging:
     originallyset = "2013-04-16"

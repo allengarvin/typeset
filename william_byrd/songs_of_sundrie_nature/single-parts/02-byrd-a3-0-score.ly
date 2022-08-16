@@ -12,8 +12,9 @@
     % Things that change per piece:
     title = "Right blest are they whose wicked sins"
     language = "english"
-    folio = "Psalm 32:1-2"
+    folio = "Psalm 31/32:1-2"
     instrument = "Right blest are they (score)"
+    categories = "[penitential]"
 
     % Unchanging:
     originallyset = "2015-10-11"

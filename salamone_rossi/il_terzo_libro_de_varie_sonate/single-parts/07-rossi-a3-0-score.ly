@@ -11,9 +11,10 @@
 \header {
     % Things that change per piece:
     title = "Sinfonia I"
-    final "g"
+    final = "g"
     flats = 1
     language = "instrumental"
+    categories = "[trio]"
     instrument = "Sinfonia 1 (score)"
 
     % Unchanging:

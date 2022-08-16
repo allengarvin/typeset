@@ -32,6 +32,23 @@
 
 \book {
     \bookOutputName "01-tallis--man_blest_no_doubt-"
+    \bookOutputSuffix "--2-contratenor--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \contratenorI
+        >>
+                \addlyrics { \contratenorLyricsI }
+                \addlyrics { \contratenorLyricsIa }
+                \addlyrics { \contratenorLyricsIb }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "01-tallis--man_blest_no_doubt-"
     \bookOutputSuffix "--2-contratenor--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {

@@ -12,6 +12,9 @@
     % Things that change per piece:
     title = "Sinfonia quinta"
     language = "instrumental"
+    categories = "[trio]"
+    final = "g"
+    flats = 0
     instrument = "Sinfonia 5 (score)"
 
     % Unchanging:
@@ -21,7 +24,7 @@
     tagline = #'f
 }
 
-\include "../parts/11-sinfonia_quinta.ly"
+\include "../parts/11-rossi-a3-sinfonia.ly"
     
 \book {
     \bookOutputName "11-sinfonia_5"

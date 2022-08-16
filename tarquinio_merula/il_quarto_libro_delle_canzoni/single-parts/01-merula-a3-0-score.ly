@@ -14,6 +14,7 @@
     subtitle = ""
     instrument = "L'Ariberta:  (score)"
     headerspace = \markup { \vspace #2 }
+    categories = "[trio]"
 
     % Unchanging:
     language = "instrumental"

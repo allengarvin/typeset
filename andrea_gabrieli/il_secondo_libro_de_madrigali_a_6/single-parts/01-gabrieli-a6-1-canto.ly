@@ -21,6 +21,7 @@
     instrument = "Sonno diletto e caro:  (canto)"
 
     % Unchanging:
+    categories = "[madrigal]"
     lastupdated = "2020-07-11"
     originallyset = "2020-07-11"
     \include "include/distribution-header.ly"

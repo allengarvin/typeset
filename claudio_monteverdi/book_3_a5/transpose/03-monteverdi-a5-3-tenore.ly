@@ -7,6 +7,7 @@
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
+#(set-global-staff-size 19.0)
 \header {
     % Things that change per piece:
     title = "Sovra tenere erbette e bianchi fiori"
@@ -36,7 +37,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
-            \global 
+            \global\transpose g c 
             \tenoreIII
         >>
                 \addlyrics { \tenoreLyricsIII }
@@ -51,7 +52,7 @@
     \score {
         \new Voice << 
             \clef "alto"
-            \global 
+            \global\transpose g c 
             \tenoreIII
         >>
                 \addlyrics { \tenoreLyricsIII }

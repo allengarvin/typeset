@@ -1,7 +1,7 @@
 cantoVII =  \relative e'' {
     \clef treble
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         e4 d c b a2 a  |
@@ -12,7 +12,7 @@ cantoVII =  \relative e'' {
         c2. b8 a g4 a b c  |
         \invisibleTime \time 2/2
         d2\raisedTwoTwoTime f |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         e d d cs | d\breve  |
     }
     \repeat volta 2 {
@@ -41,7 +41,7 @@ cantoVII =  \relative e'' {
 quintoVII =  \relative a' {
     \clef treble
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         a2. b4 c2 d  |
@@ -52,7 +52,7 @@ quintoVII =  \relative a' {
         g2. a4 b c d2  |
         \invisibleTime \time 2/2
         d4\raisedTwoTwoTime c8 b a2 |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         a a  bf a4. g8 | fs\breve |
     }
     \repeat volta 2 {
@@ -81,7 +81,7 @@ quintoVII =  \relative a' {
 altoVII =  \relative c' {
     \clef alto
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         e2 a,1 a2  |
@@ -92,7 +92,7 @@ altoVII =  \relative c' {
         c2 g1 d'2  |
         \invisibleTime \time 2/2
         d4\raisedTwoTwoTime d4. c16 b a4 ~ |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         a a4 d2 d a | a\breve  |
     }
     \repeat volta 2 {
@@ -121,7 +121,7 @@ altoVII =  \relative c' {
 tenoreVII =  \relative c' {
     \clef alto
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         c1 f2 f  |
@@ -132,7 +132,7 @@ tenoreVII =  \relative c' {
         e4 f g2. f8 e d4 e  |
         \invisibleTime \time 2/2
         f2\raisedTwoTwoTime d |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         e fs g e | d\breve  |
     }
     \repeat volta 2 {
@@ -161,7 +161,7 @@ tenoreVII =  \relative c' {
 bassoVII =  \relative a {
     \clef bass
     \key c \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         a2. g4 f e d2  |
@@ -172,7 +172,7 @@ bassoVII =  \relative a {
         c,4 d e f g2. f8 e  |
         \invisibleTime \time 2/2
         d2\raisedTwoTwoTime d |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         cs d g a | d,\breve  |
     }
     \repeat volta 2 {

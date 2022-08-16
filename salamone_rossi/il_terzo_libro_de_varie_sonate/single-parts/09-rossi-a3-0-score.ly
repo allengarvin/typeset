@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Sinfonia terza detta la Cecchina"
     language = "instrumental"
+    categories = "[trio]"
     instrument = "Sinfonia 3 (score)"
 
     % Unchanging:

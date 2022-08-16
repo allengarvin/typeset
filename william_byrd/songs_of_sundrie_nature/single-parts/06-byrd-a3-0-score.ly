@@ -12,7 +12,8 @@
     % Things that change per piece:
     title = "From depth of sin, O Lord to thee"
     language = "english"
-    folio = "Psalm 130:1-2"
+    folio = "Psalm 129/130:1-2"
+    categories = "[penitential]"
     instrument = "From depth of sin (score)"
 
     % Unchanging:

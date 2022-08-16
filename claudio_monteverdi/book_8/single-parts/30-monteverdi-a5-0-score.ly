@@ -16,6 +16,8 @@
     headerspace = \markup { \vspace #1 }
     shorttitle = "lamento_della_ninfa"
     shortcomp = "monteverdi"
+    final = "a"
+    flats = 0
     needtranslation = #'f
     folio = "Ottavio Rinuccini (1562-1621)"
 

@@ -95,7 +95,7 @@
             \column {
                 \line { Io non son però morto, }
                 \line { Donna, come pensate, }
-                \line { Perchè più non m'amate; }
+                \line { Perché più non m'amate; }
                 \line { Anzi ritorno in vita. }
                 \line { Ché l'alma in voi sepolta }
                 \line { Da voi sendosi sciolta }

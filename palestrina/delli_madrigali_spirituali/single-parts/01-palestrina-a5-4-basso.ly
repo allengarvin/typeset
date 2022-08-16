@@ -28,7 +28,7 @@
     tagline = #'f
 }
 
-\include "../parts/01-palestrina-a5-madrigali.ly"
+\include "../parts/01-palestrina-a5-madrigal.ly"
 
 \book {
     \bookOutputName "01-palestrina--figlio_immortal_dimmortal_padre-"

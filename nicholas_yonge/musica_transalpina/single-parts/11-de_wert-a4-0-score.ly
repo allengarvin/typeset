@@ -25,7 +25,7 @@
     flats = 1
     final = "f"
     shorttitle = "who_will_ascend"
-    categories = "[madrigal]"
+    categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

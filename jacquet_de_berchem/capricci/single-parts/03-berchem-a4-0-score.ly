@@ -22,7 +22,7 @@
     flats = 0
     final = "a"
     shorttitle = "o_gran_bonta_de_cavallieri"
-    categories = "[madrigal]"
+    categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

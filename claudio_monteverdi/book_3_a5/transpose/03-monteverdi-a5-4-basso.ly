@@ -36,7 +36,7 @@
     \score {
         \new Voice << 
             \clef "bass"
-            \global 
+            \global\transpose g c 
             \bassoIII
         >>
                 \addlyrics { \bassoLyricsIII }

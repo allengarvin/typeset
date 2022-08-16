@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "gagliarda"
     shortcomp = "turini"
+    categories = "[trio]"
 
     % Unchanging:
     language = "instrumental"

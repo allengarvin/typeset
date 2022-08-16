@@ -18,6 +18,7 @@
     shortcomp = "falconieri"
     final = "g"
     flats = 1
+    categories = "[trio]"
 
     % Unchanging:
     language = "instrumental"

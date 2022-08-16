@@ -17,8 +17,9 @@
     shorttitle = "in_manus_tuas_domine"
     shortcomp = "tallis"
     composer = "Thomas Tallis (c.1505-1585)"
-    needtranslation = #'t
-    folio = "Psalm 31:6 (Vulgate 30)"
+    needtranslation = #'f
+    categories = "[penitential]"
+    folio = "Psalm 30/31:6"
 
     % Unchanging:
     language = "latin"

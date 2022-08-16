@@ -15,6 +15,8 @@
     subtitle = "Kyrie"
     composer = "Orlande de Lassus (c.1532-1594)"
     instrument = "Missa Susanne un jour: Kyrie (score)"
+    final = "g"
+    flats = 1
 
     % Unchanging:
     originallyset = "2018-12-04"

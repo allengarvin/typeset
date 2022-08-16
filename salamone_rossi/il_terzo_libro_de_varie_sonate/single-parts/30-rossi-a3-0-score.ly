@@ -13,6 +13,9 @@
     title = "Correnta quarta"
     language = "instrumental"
     instrument = "Correnta4 (score)"
+    flats = 0
+    final = "g"
+    categories = "[trio]"
 
     % Unchanging:
     originallyset = "2013-04-16"

@@ -1,7 +1,7 @@
 cantoIII =  \relative d'' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         d2. c8 bf a4 g a bf  |
@@ -41,7 +41,7 @@ cantoIII =  \relative d'' {
 quintoIII =  \relative g' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
     \repeat volta 2 {
         g1 d'2. c8 bf  |
         a4 g a bf c2. bf8 a  |
@@ -79,7 +79,7 @@ quintoIII =  \relative g' {
 altoIII =  \relative d' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         d1 d2 f ~  |
@@ -119,7 +119,7 @@ altoIII =  \relative d' {
 tenoreIII =  \relative bf {
     \clef alto
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         bf2. a8 g a2 d  |
@@ -159,7 +159,7 @@ tenoreIII =  \relative bf {
 bassoIII =  \relative g {
     \clef bass
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         g1 fs2 d  |

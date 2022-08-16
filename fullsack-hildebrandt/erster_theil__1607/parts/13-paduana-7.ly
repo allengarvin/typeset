@@ -1,7 +1,7 @@
 cantoXIII =  \relative a' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         a1 a2 c  |
@@ -32,7 +32,7 @@ cantoXIII =  \relative a' {
         g4 a g2 f1  |
         \invisibleTime \time 6/2
         f2\raisedSixTwoTime g2. f4 f1 e2 |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         f\breve
     }
 
@@ -41,7 +41,7 @@ cantoXIII =  \relative a' {
 quintoXIII =  \relative f' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         r2 f c'2. d4  |
@@ -72,7 +72,7 @@ quintoXIII =  \relative f' {
         c2. bf4 a bf2 a4  |
         \invisibleTime \time 6/2
         bf2\raisedSixTwoTime d c1 c4 bf a g |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         a\breve
     }
 
@@ -81,7 +81,7 @@ quintoXIII =  \relative f' {
 altoXIII =  \relative c' {
     \clef alto
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         f2. e8 d c4 d e f  |
@@ -112,7 +112,7 @@ altoXIII =  \relative c' {
         e4 f2 e4 f2 c  |
         \invisibleTime \time 6/2
         d1\raisedSixTwoTime g,2 c c1 |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         c\breve
     }
 
@@ -121,7 +121,7 @@ altoXIII =  \relative c' {
 tenoreXIII =  \relative c' {
     \clef tenor
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         a1 a2 g4 f  |
@@ -152,7 +152,7 @@ tenoreXIII =  \relative c' {
         g4 f g2 a4 f f2 |
         \invisibleTime \time 6/2
         f\raisedSixTwoTime d e f g c, |
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         c\breve
     }
 }
@@ -160,7 +160,7 @@ tenoreXIII =  \relative c' {
 bassoXIII =  \relative f {
     \clef bass
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         f1 f2 e4 d  |
@@ -191,7 +191,7 @@ bassoXIII =  \relative f {
         c f,2 f  |
         \invisibleTime \time 6/2
         bf1\raisedSixTwoTime c c
-        \invisibleTime \time 4/2
+        \invisibleTime \fourTwoCommonTime
         f,\breve
     }
 }

@@ -35,7 +35,7 @@
     \score {
         \new Voice << 
             \clef bass
-            \global\transpose g c 
+            \global\transpose f c 
             \bassusXXXI 
         >>
         \addlyrics { \bassusLyricsXXXI }
@@ -43,17 +43,3 @@
     }
 }
 
-\book {
-    \bookOutputName "31-willaert--i_piansi_or_canto"
-    \bookOutputSuffix "--6-bassus--al_clef"
-    \include "../include/paper-1-part.ly"
-    \score {
-        \new Voice << 
-            \clef alto
-            \global\transpose g c 
-            \bassusXXXI 
-        >>
-        \addlyrics { \bassusLyricsXXXI }
-     %   \include "../include/vocal-layout-parts-barring.ly"
-    }
-}

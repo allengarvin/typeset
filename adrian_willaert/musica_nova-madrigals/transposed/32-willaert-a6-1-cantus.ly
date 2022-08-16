@@ -36,7 +36,7 @@
     \score {
         \new Voice << 
             \clef treble
-            \global\transpose g c 
+            \global\transpose f c 
             \cantusXXXII
         >>
         \addlyrics { \cantusLyricsXXXII }

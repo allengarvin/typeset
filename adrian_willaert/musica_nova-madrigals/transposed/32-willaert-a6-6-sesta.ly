@@ -35,7 +35,7 @@
     \score {
         \new Voice << 
             \clef "treble"
-            \global\transpose g c 
+            \global\transpose f c 
             \sestaXXXII
         >>
         \addlyrics { \sestaLyricsXXXII }

@@ -6,13 +6,13 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
     title = "Canzon del Cucco e Rossignuolo"
     language = "italian"
-    subtitle = "con la sentenza del Papagallo"
+    subtitle = "con la sentenza del Pappagallo"
 
     instrument = "Canzon del Cucco e Rossignuolo (score)"
 
@@ -86,5 +86,100 @@
             }
         }
     }   
+    \markup {
+        \fill-line {
+            \column { 
+                \line { \italic { Prima parte: } }
+                \line { S'udian sovente gareggiar nel canto }
+                \line { un Cucco e un Rossignuolo: }
+                \line { mentre l'un l'altro solo }
+                \line { credea sovre ogni augello averne il vanto. }
+                \line { Quando nel più fervor de tal contese }
+                \line { un Pappagallo audace, }
+                \line { persuadendo la pace, }
+                \line { a farne egli tra lor giudizio prese. }
+                \line { \vspace #0.5 }
+                \line { \italic { Seconda parte: } }
+                \line { Disse il Cucco: O buon Giudice, non sai }
+                \line { che chi non brama il Cù, }
+                \line { chi non l'onora è un \auto-footnote "Cù!" \italic "abbr.: un culo" }
+                \line { che dà nova al Villan d'uscir di guai. }
+                \line { Or senti il canto mio }
+                \line { come egli è grave: }
+                \line { Cocù Cocù Cocù Cocù Cocù. }
+                \line { Certo nel mondo tutto un tal non have. }
+                \line { \vspace #0.5 }
+                \line { \italic { Terza parte: } }
+                \line { Rispose il Rossignuol: Dunque }
+                \line { tu cri, tu cri, tu cri, tu cri, tu cri. }
+                \line { nella armonia di pareggiarti a me? }
+                \line { Soave è il canto mio  }
+                \line { leggiadro e bello; }
+                \line { Pazzo che sei, si si, fre chi }
+                \line { fre ferio chi }
+                \line { E ognun' lo pregia più d'ogni altro Augello. }
+                \line { \vspace #0.5 }
+                \line { \italic { Quarta e ultima parte: } }
+                \line { Grave il Giudice allor, }
+                \line { convien ch'impari: }
+                \line { Rossignuolo mio dolce, }
+                \line { tu certo canti dolce, }
+                \line { ma non vagliono un Cù cento tuoi pari. }
+                \line { Tosto che tal sentenza udita fu }
+                \line { di Cucchi un lungo giro, }
+                \line { lieti a cantar s'udiro: }
+                \line { Viva il Cù! }
+                \line { Cocù Cocù Cocù! }
+                \line { Viva il Cù! }
+                \line { Cocù Cocù Cocù! }
+            }
+            \column {
+                \line { \italic { Prima parte: } }
+                \line { Often one hears competing in song }
+                \line { a Cuckoo and a Nightingale: }
+                \line { while each other alone }
+                \line { believes above every bird to hold the advantage. }
+                \line { When in fervor of such arguments }
+                \line { a valiant Parrot, }
+                \line { keeping the peace, }
+                \line { decides to make judgement between them. }
+                \line { \vspace #0.5 }
+                \line { \italic { Seconda parte: } }
+                \line { Spoke the Cuckoo: O good judge, don't you know }
+                \line { that whoever does not esteem the Cu, }
+                \line { that whoever does not honor him is an ass! }
+                \line { that gives news to the lout to leave his troubles. }
+                \line { Now listen to my song }
+                \line { for it is serious: }
+                \line { Cuckoo. Cuckoo cuckoo cuckoo cuckoo. }
+                \line { Certainly in all the world such can't be had. }
+                \line { \vspace #0.5 }
+                \line { \italic { Terza parte: } }
+                \line { The nightingale responds: Then you cluck, }
+                \line { you cluck, you cluck, you cluck. }
+                \line { In harmony you think yourself equal to me? }
+                \line { Sweet is my song, }
+                \line { graceful and beautiful. }
+                \line { You're nuts, yes yes,  }
+                \line { how beastly. }
+                \line { And everyone esteems it more than every other bird? }
+                \line { \vspace #0.5 }
+                \line { \italic { Quarta e ultima parte: } }
+                \line { Gravely the judge then }
+                \line { agrees that they are unequal: }
+                \line { My sweet nightingale, }
+                \line { you certainly sing sweetly, }
+                \line { but even a hundred of you are not worth one Cu. }
+                \line { Immediately as the sentence was heard }
+                \line { a long gyre of cuckoos }
+                \line { was heard joyously singing: }
+                \line { Long live the Cu! }
+                \line { Cuckoo! cuckoo! cuckoo! }
+                \line { Long live the Cu! }
+                \line { Cuckoo! cuckoo! cuckoo! }
+                \line { \italic { translated by ATG } }
+            }
+        }
+    }
 }
 

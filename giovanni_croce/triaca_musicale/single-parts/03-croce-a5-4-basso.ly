@@ -30,7 +30,7 @@
 
 \book {
     \bookOutputName "03-croce--canzon_del_cucco"
-    \bookOutputSuffix "--4-basso--bs_clef"
+    \bookOutputSuffix "--5-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

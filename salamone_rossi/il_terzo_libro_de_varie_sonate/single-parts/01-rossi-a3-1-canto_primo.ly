@@ -30,7 +30,7 @@
     
 \book {
     \bookOutputName "01-rossi--sonata_1"
-    \bookOutputSuffix "--1-canto-primo-tr_clef"
+    \bookOutputSuffix "--1-canto_one-tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

@@ -219,7 +219,7 @@ tenorLyricsXX = \lyricmode {
     but bet -- ter it is,
     but bet -- ter it is,
     in in -- no -- cence to chuse __  it,
-    then by my fault __ t'of -- fend my God on hye,
+    then by my fault __ t'of -- fend __ my God on hye,
     then by my faulte, then by my faulte, 
         of -- fend my God __ on hye,
     then by my fault t'of -- fend my God on hye,
@@ -289,7 +289,7 @@ bassusLyricsXX = \lyricmode {
     doe yeeld to you my bo -- dy to a -- buse __ it,
     my bo -- dy to a -- buse it,
     I kill my soule
-    and if __ I doe re -- fuse it, you will me judge,
+    and if __ I doe __ re -- fuse it, you will me judge,
     you will mee judge to death re -- proch -- ful -- ly,
     but bet -- ter it is, but bet -- ter it is __
         but bet -- ter it is,
@@ -364,7 +364,7 @@ quintusLyricsXX = \lyricmode {
     whome hir sweet lookes __ al -- lur'd,
     was in __ hir hart, full sad and sore mo -- lest -- ed, 
     full sad and sore mo -- lest -- ed 
-    see -- ing __ the __ force hir chas -- ti -- tie en -- dur'd, 
+    see -- ing __ the __ force hir chas -- ti -- tie __ en -- dur'd, 
         hir chas -- ti -- te en -- dur'd __
     to them she said, if __ I __ by craft pro -- cur'd, 
     doe yeld to you my bo -- dy to __ a -- buse it,
@@ -378,9 +378,9 @@ quintusLyricsXX = \lyricmode {
     in in -- no -- cense to chuse it,
     then by my fault t'of -- fend __ my God on hye
     t'of -- fend my God on hye,
-    then by my fault __ t'of -- fend my God on hye,
+    then by my fault __ t'of -- fend my God __ on hye,
     then by __ my fault,
-    then by my fault t'of -- fend my God on hye,
+    then by my fault t'of -- fend my God __ on hye,
     then by my fault t'of -- fend my God on hye.
 }
 

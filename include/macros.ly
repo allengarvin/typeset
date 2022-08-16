@@ -10,6 +10,8 @@ unficta = \unset suggestAccidentals
 ficta = \set suggestAccidentals = ##t
 incipitLarge = \once \override NoteHead #'font-size = #3
 stemOff = { \hide Staff.Stem }
+melfi = \melisma\ficta
+melfiEnd = \melismaEnd\unficta
 
 noSlur = \override Slur #'transparent = ##t
 

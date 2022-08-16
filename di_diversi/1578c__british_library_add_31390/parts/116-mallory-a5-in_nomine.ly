@@ -263,7 +263,7 @@ quintusCXVI = \relative c' {
     f2 e4 f e e | d2 c4 f d4. c8 a4 d | b2 c d4 d c e | d c2 f4 e e d2 |
         r4 d e d8[ c] d4 d c4. bf8 | a4 c d
 
-    c4 d2 a8[ bf] c4 ~ | c a bf c d2 c | \time 6/2
+    c4 d2 a8[ bf] c4 ~ | c a bf c d2 c | \time 6/4\threeFromOne
         f4 f4. c8 f4 d c8 d | bf4 a2 d4 c4. c8 | f4 e8 f d4 c8 d bf c d e |
         % checked to here
         f4 d4. c8 bf4 a4. bf8 | c4 d 

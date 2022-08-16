@@ -13,6 +13,9 @@
     title = "Correnta seconda detta la Emiglia"
     language = "instrumental"
     instrument = "Correnta 2 (score)"
+    final = "g"
+    flats = 1
+    categories = "[trio]"
 
     % Unchanging:
     originallyset = "2013-04-16"

@@ -35,7 +35,7 @@
     \score {
         \new Voice << 
             \clef "treble_8"
-            \global\transpose g c 
+            \global\transpose f c 
             \quintusXXXII
         >>
         \addlyrics { \quintusLyricsXXXII }
@@ -53,7 +53,7 @@
     \score {
         \new Voice << 
             \clef alto
-            \global\transpose g c 
+            \global\transpose f c 
             \quintusXXXII
         >>
         \addlyrics { \quintusLyricsXXXII }

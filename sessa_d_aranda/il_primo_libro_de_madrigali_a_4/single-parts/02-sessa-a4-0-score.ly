@@ -23,7 +23,7 @@
     flats = 0
     final = "g"
     shorttitle = "deh_dove_senza_me"
-    categories = "[madrigal]"
+    categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

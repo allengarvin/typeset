@@ -1,0 +1,66 @@
+\version "2.18.2"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    % Things that change per piece:
+    title = "Give peace in these our days O Lord"
+    subtitle = ""
+    instrument = "Give peace in these our days O Lord:  (medius)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "give_peace_in_these_our_days_o_lord"
+    shortcomp = "ravenscroft"
+    composer = "Thomas Ravenscroft (c.1592-c.1635)"
+    folio = "Da pacem Domine"
+
+    % Things that change per part:
+    partname = "Medius (part 2 of 4)"
+    instrument = "Give peace in these our days O Lord:  (medius)"
+
+    % Unchanging:
+    lastupdated = "2022-06-19"
+    originallyset = "2022-06-19"
+    \include "include/distribution-header.ly"
+    tagline = #'f
+}
+
+\include "../parts/26-ravenscroft-a4-hymn.ly"
+
+\book {
+    \bookOutputName "26-ravenscroft--give_peace_in_these_our_days_o_lord-"
+    \bookOutputSuffix "--2-medius--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \mediusXXVI
+        >>
+                \addlyrics { \mediusLyricsXXVI }
+                \addlyrics { \mediusLyricsXXVIa }
+                \addlyrics { \mediusLyricsXXVIb }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "26-ravenscroft--give_peace_in_these_our_days_o_lord-"
+    \bookOutputSuffix "--2-medius--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \mediusXXVI
+        >>
+                \addlyrics { \mediusLyricsXXVI }
+                \addlyrics { \mediusLyricsXXVIa }
+                \addlyrics { \mediusLyricsXXVIb }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

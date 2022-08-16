@@ -12,8 +12,9 @@
     % Things that change per piece:
     title = "Lord hear my prayer instantly"
     language = "english"
-    folio = "Psalm 102:1-2"
+    folio = "Psalm 101/102:1-2"
     instrument = "Lord hear my prayer (score)"
+    categories = "[penitential]"
 
     % Unchanging:
     originallyset = "2015-10-11"

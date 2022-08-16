@@ -13,8 +13,10 @@
     title = "Vieni Flora gentil"
     subtitle = ""
     instrument = "Vieni Flora gentil:  (score)"
+    categories = "[madrigal]"
     needtranslation = #'f
     language = "italian"
+    shortcomp = "a_gabrieli"
 
     % Unchanging:
     lastupdated = "2019-11-13"
@@ -25,7 +27,7 @@
     tagline = #'f
 }
 
-\include "../parts/14-gabrieli-a6-madrigali.ly"
+\include "../parts/14-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "14-gabrieli--vieni_flora_gentil-"

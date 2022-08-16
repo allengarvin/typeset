@@ -14,6 +14,8 @@
     composer = "Orlande de Lassus (c.1532-1594)"
     subtitle = "Christe"
     language = "latin"
+    final = "d"
+    flats = 1
     instrument = "Missa Susanne un jour: Christe (score)"
 
     % Unchanging:

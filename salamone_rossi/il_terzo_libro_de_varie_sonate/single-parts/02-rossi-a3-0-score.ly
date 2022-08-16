@@ -12,8 +12,11 @@
     % Things that change per piece:
     title = "Sonata seconda"
     language = "instrumental"
+    categories = "[trio]"
     subtitle = "detta la Casalasca"
     instrument = "Sonata 2 'detta la Casalasca' (score)"
+    final = "d"
+    flats = 0
 
     % Unchanging:
 

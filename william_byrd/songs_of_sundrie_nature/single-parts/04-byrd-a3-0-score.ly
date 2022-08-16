@@ -12,8 +12,9 @@
     % Things that change per piece:
     title = "O God which art most merciful"
     language = "english"
-    folio = "Psalm 51:1"
+    folio = "Psalm 50/51:1"
     instrument = "O God which art most merciful (score)"
+    categories = "[penitential]"
 
     % Unchanging:
     originallyset = "2015-10-11"

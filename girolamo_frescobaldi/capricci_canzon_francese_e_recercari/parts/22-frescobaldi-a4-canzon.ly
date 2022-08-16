@@ -8,9 +8,9 @@ cantoXXIIincipit = \relative c'' {
     d2
 }
 
+% canto: checked against source
 cantoXXII = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key f \major
 
     d2 d4 d d8[ ef bf c] d[ g, d' e] | 
@@ -23,10 +23,11 @@ cantoXXII = \relative c'' {
 
     % --- page ---
     bf4 c d8[ c d ef] bf4 d2 cs4 | d2 d4 d d8[ f bf, c] d2 ~| 
-        \invisibleTime\time 2/2 d2 d | \time 3/1 d1. e2 fs1 |
+        \invisibleTime\time 2/2 s1*0\raisedTwoTwoTime d2 d | 
+        \time 3/2\threeFromOne d2. e4 fs2 |
 
-    g1 e d | e f g | c, d c | d c2 bf a1 | b\breve r1 | g1. a2 b1 | c f e | 
-        d\breve. | \fourTwoCommonTime
+    g2 e d | e f g | c, d c | d c4 bf a2 | b1 r2 | g2. a4 b2 | c f e | 
+        d1. | \fourTwoCommonTime\oneFromThree
 
     d2 g4 f8[ e] d[ f] e4 d d | cs d2 cs4 d2. bf4 ~ | bf bf2 a4 bf f' d e |
         f g a d, ef c d2 ~ |
@@ -35,10 +36,11 @@ cantoXXII = \relative c'' {
     d4 c8[ bf] a2 bf4 c d cs | d2 r r1 | R\breve | 
 
     g4 f8[ e] d[ f] e4 d f e d | c4. d8 e4 f bf, c bf2 | 
-        r2 d4 c8[ bf] a[ bf] g2 fs4 | \invisibleTime\time 2/2 g1
+        r2 d4 c8[ bf] a[ bf] g2 fs4 | \invisibleTime\time 2/2
+        s1*0\raisedTwoTwoTime g1
 
-    \time 3/1 R\breve.*4 | d1 a2 c b1 | c f e | d\breve cs1 | 
-        \fourTwoCommonTime d1 d4 f g a |
+    \time 3/2\threeFromOne R1. R1.*3 | d'2 a4 c b2 | c f e | d1 cs2 | 
+        \fourTwoCommonTime\oneFromThree d1 d4 f g a |
 
     % --- page ---
     d,4 e f d g1 | ef2 d d r | r1 g,4 bf c d | g, a2 bf4 a2 g ~|
@@ -65,9 +67,9 @@ altoXXIIincipit = \relative c'' {
     g2
 }
 
+% alto: checked against source
 altoXXII = \relative c'' {
     \fourTwoCommonTime
-    \clef mezzosoprano
     \key f \major
 
     R\breve*2 | r1 g2 g4 g |
@@ -80,10 +82,14 @@ altoXXII = \relative c'' {
 
     % --- page ---
     g4 a bf2 r1 | r8 bf[ a g] f[ g d e] f4 g f8[ bf a g] | 
-        \invisibleTime\time 2/2 a4 bf a2 | \time 3/1 b\breve r1 | 
+        \invisibleTime\time 2/2 
+        s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
 
-    R\breve. | c1 bf2 a g1 | a1. bf1 a2 | bf1 g fs | g f2 e d1 | e1. f2 g1 |
-        e a g | bf\breve a1 | \fourTwoCommonTime
+        a4 bf a2 | 
+        \time 3/2\threeFromOne b1 r2 | 
+
+    R1. | c2 bf4 a g2 | a2. bf2 a4 | bf2 g fs | g f4 e d2 | e2. f4 g2 |
+        e a g | bf1 a2 | \fourTwoCommonTime\oneFromThree
 
     b2 r2 r8 d,8[ e f] g[ a bf g] | a4 f g a bf a8[ g] f[ a] g4 ~ |
         g f f2 f r | r2 c'4 bf8[ a] g[ bf] a4 bf a8[ g] |
@@ -93,11 +99,14 @@ altoXXII = \relative c'' {
         r2 c4 bf8[ a] g[ c] f,4 bf a |
 
     g2 r8 f[ g a] bf[ c d bf] c4 bf | a2 r r8 d,[ e f] g[ a bf g] | 
-        a4 g bf a8 g4 f8 ef4 d2 | \invisibleTime\time 2/2 d1 
-    \time 3/1
+        a4 g bf a8 g4 f8 ef4 d2 | \invisibleTime\time 2/2 
+        s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        d1 
+    \time 3/2\threeFromOne
 
-    g1 d2 f e1 | f\breve r1 | c' g2 bf a1 | bf1. bf2 a g | a\breve g1 | 
-        e a g2 a | bf1. a2 a1 | \fourTwoCommonTime a1 r1 |
+    g2 d4 f e2 | f1 r2 | c' g4 bf a2 | bf2. bf4 a g | a1 g2 | 
+        e a g4 a | bf2. a4 a2 | 
+        \fourTwoCommonTime\oneFromThree a1 r1 |
 
     % --- page ---
     r1 g4 bf c d | g, a bf a8[ g] a2 e | f4 g a f g2 f | 
@@ -122,9 +131,9 @@ tenoreXXIIincipit = \relative c' {
     d2
 }
 
+% tenore: checked against source
 tenoreXXII = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key f \major
 
     R\breve | d2 d4 d d8[ ef bf c] d[ g, d' e] | f4 d ef d8[ c] b4 c2 bf8[ a] |
@@ -136,10 +145,13 @@ tenoreXXII = \relative c' {
         R\breve |
     % --- page ---
     r8 g'[ f e] d[ ef bf c] d4 f e2 | d2. bf8[ c] d4 ef d2 |
-        \invisibleTime\time 2/2 f4 g2 fs4 | \time 3/1 g\breve d1 | 
+        \invisibleTime\time 2/2 
+        s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        f4 g2 fs4 | 
+        \time 3/2\threeFromOne g1 d2 | 
 
-    e1. f2 g1 | c, d e | f1. d2 e f | bf,1 c d | d\breve. | R | c1. d2 e1 |
-        f2 d g1 fs | \fourTwoCommonTime
+    e2. f4 g2 | c, d e | f2. d4 e f | bf,2 c d | d1. | R | c2. d4 e2 |
+        f4 d g2 fs | \fourTwoCommonTime\oneFromThree
 
     g1 r1 | r1 r2 r8 f,[ g a] | bf[ c d bf] c2 d g4 f8[ e] |
         d[ f] e4 f g ef f bf, c |
@@ -148,10 +160,13 @@ tenoreXXII = \relative c' {
         d d c d e8[ a, bf c] d[ e f d] |
 
     e2 r r r8 c[ d e] | f[ g a f] g4 a d, c d4. e8 | 
-        f4 e r2 r8 f,[ g a] bf[ c d a] | \invisibleTime\time 2/2 b1 
+        f4 e r2 r8 f,[ g a] bf[ c d a] | \invisibleTime\time 2/2 
+        s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        b1 
 
-    \time 3/1 g1 bf c | d a2 c b1 | c d c | bf d e | f1. e2 d1 | c1. d2 e1 |
-        g2 d f1 e | \fourTwoCommonTime fs2 d4 f g a e f |
+    \time 3/2\threeFromOne g2 bf c | d a4 c b2 | c d c | bf d e | f2. e4 d2 | c2. d4 e2 |
+        g4 d f2 e | 
+        \fourTwoCommonTime\oneFromThree fs2 d4 f g a e f |
 
     % --- page ---
     g4 f8[ e] d4 f ef2. bf4 | c2 d4 e f d2 cs4 | d c8[ bf] a4 bf2 g4 a bf~ |
@@ -178,9 +193,9 @@ bassoXXIIincipit = \relative c' {
     g2
 }
 
+% basso: checked against source
 bassoXXII = \relative c' {
     \fourTwoCommonTime
-    \clef varbaritone
     \key f \major
 
     R\breve*3 | r1 g2 g4 g | g8[ bf f g] a[ d, g a] bf4. c8 d2 | g,1 r1 | 
@@ -188,22 +203,27 @@ bassoXXII = \relative c' {
     R\breve | g2 g4 g g8[ bf f g] a[ a, d e] | f4 g d2 g r | R\breve |
     % --- page ---
     g2 g4 g g8[ bf f g] a4 a | bf1 r2 r8 g[ f e] |
-        \invisibleTime\time 2/2 d8[ f bf, c] d2 | \time 3/1 g\breve r1 |
+        \invisibleTime\time 2/2 
+        s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+    d8[ f bf, c] d2 |
+        \time 3/2\threeFromOne g1 r2 |
 
-    R\breve.*4 | g1. a2 b1 | c bf2 a g1 | a f c' | bf1. c2 d1 |
+    R1.*4 | g2. a4 b2 | c bf4 a g2 | a f c' | bf2. c4 d2 |
 
-    \fourTwoCommonTime
+    \fourTwoCommonTime\oneFromThree
     g,1 r1 | r1 g4 f8[ e] d4 ef | d2 f bf1 | R\breve |
     % --- page ---
     r1 g4 f8[ e] d[ f] e4 | d c8[ bf] c[ a] d4 g,2 r8 d'[ e f] |
         g8[ a bf g] a4 bf c d g, f |
 
     c'2 r r1 | r2 c4 bf8[ a] g[ bf] a4 g2 | 
-        r8 d[ e f] g[ g, a bf] c[ d ef c] d2 | \invisibleTime\time 2/2 g,1
-    \time 3/1
+        r8 d[ e f] g[ g, a bf] c[ d ef c] d2 | \invisibleTime\time 2/2 
+        s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        g,1
+    \time 3/2\threeFromOne
 
-    R\breve. | d'1 f g | a bf f | g\breve r1 | d f g | a f c' | g2 bf1 f2 a1 |
-        \fourTwoCommonTime d,1 r1 | 
+    R1. | d'2 f g | a bf f | g1 r2 | d f g | a f c' | g4 bf2 f4 a2 |
+        \fourTwoCommonTime\oneFromThree d,1 r1 | 
     % --- page ---
     R\breve | r1 d4 f g a | d, e f d ef2. d4 | c2 d4 bf c d g,8[ a bf g] |
         d'1 r1 |

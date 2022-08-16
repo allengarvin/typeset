@@ -28,7 +28,7 @@
     
 \book {
     \bookOutputName "32-correnta_6"
-    \bookOutputSuffix "--2-canto-secondo-tr_clef"
+    \bookOutputSuffix "--2-canto_two-tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

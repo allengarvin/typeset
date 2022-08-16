@@ -25,7 +25,7 @@
     tagline = #'f
 }
 
-\include "../parts/08-gabrieli-a6-madrigali.ly"
+\include "../parts/08-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "08-gabrieli--dolcissimo_ben_mio-"

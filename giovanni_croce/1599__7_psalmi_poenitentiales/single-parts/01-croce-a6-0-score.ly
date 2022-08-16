@@ -17,6 +17,7 @@
     shorttitle = "deus_ne_me_objurga_in_furore"
     shortcomp = "croce"
     needtranslation = #'t
+    categories = "[penitential]"
     folio = "Paraphrase of Psalm 6 by Francesco Bembo (1544-1599)"
 
     % Unchanging:

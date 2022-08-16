@@ -23,7 +23,7 @@
     tagline = #'f
 }
 
-\include "../parts/02-du_caurroy-a3-fantasie.ly"
+\include "../parts/02-du_caurroy-a3-fantasia.ly"
 
 \book {
     \bookOutputName "02-fantasie-a3"

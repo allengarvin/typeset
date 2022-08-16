@@ -13,8 +13,10 @@
     title = "Dolcissimo ben mio"
     subtitle = ""
     instrument = "Dolcissimo ben mio:  (score)"
+    categories = "[madrigal]"
     needtranslation = #'f
     language = "italian"
+    shortcomp = "a_gabrieli"
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:
@@ -26,7 +28,7 @@
     tagline = #'f
 }
 
-\include "../parts/08-gabrieli-a6-madrigali.ly"
+\include "../parts/08-gabrieli-a6-madrigal.ly"
 
 \book {
     \bookOutputName "08-gabrieli--dolcissimo_ben_mio-"

@@ -1,7 +1,7 @@
 cantoXV =  \relative c'' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         a2. bf4 a c bf2  |
@@ -46,7 +46,7 @@ cantoXV =  \relative c'' {
 quintoXV =  \relative c'' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         c2. d4 f e d2  |
@@ -91,7 +91,7 @@ quintoXV =  \relative c'' {
 altoXV =  \relative c' {
     \clef alto
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         f2. d2 e4 g4. f8  |
@@ -136,7 +136,7 @@ altoXV =  \relative c' {
 tenoreXV =  \relative c' {
     \clef tenor
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
     \repeat volta 2 {
         a2. f2 g4 bf4. a8  |
         g4 c2 f,4 f g4. a8 bf4  |
@@ -181,7 +181,7 @@ tenoreXV =  \relative c' {
 bassoXV =  \relative f {
     \clef bass
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         f2. bf,4 d c g2  |

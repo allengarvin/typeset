@@ -13,6 +13,7 @@
     title = "Lord in thy wrath correct me not"
     language = "english"
     folio = "Psalm 38:1-2"
+    categories = "[penitential]"
     instrument = "Lord in thy wrath (score)"
 
     % Unchanging:

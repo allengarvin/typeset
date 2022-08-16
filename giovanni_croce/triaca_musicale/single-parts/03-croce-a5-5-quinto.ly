@@ -7,7 +7,7 @@
 \include "../include/scheme.ly" 
 \include "../include/layout-parts.ly"
 
-#(set-global-staff-size 19.2)
+#(set-global-staff-size 18.6)
 
 \header {
     % Things that change per piece:
@@ -30,7 +30,7 @@
     
 \book {
     \bookOutputName "03-croce--canzon_del_cucco"
-    \bookOutputSuffix "--5-quinto--tr8_clef"
+    \bookOutputSuffix "--4-quinto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
@@ -49,7 +49,7 @@
     
 \book {
     \bookOutputName "03-croce--canzon_del_cucco"
-    \bookOutputSuffix "--5-quinto--al_clef"
+    \bookOutputSuffix "--4-quinto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

@@ -82,7 +82,7 @@ tenoreXVII = \relative c' {
 
 bassoXVIIincipit = \relative c' {
     \key c \major
-    \fourTwoCommonTime
+    \time 4/4
     \clef "petrucci-f3"
 
     g1

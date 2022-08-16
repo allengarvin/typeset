@@ -1,0 +1,66 @@
+\version "2.18.2"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    % Things that change per piece:
+    title = "The man is blest that hath not bent"
+    subtitle = ""
+    instrument = "The man is blest that hath not bent:  (medius)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "the_man_is_blest_that_hath_not_bent"
+    shortcomp = "morley"
+    folio = "Psalm 1"
+
+    % Things that change per part:
+    partname = "Medius (part 2 of 4)"
+    instrument = "The man is blest that hath not bent:  (medius)"
+
+    % Unchanging:
+    lastupdated = "2022-06-17"
+    originallyset = "2022-06-17"
+    \include "include/distribution-header.ly"
+    composer = "Thomas Morley (c.1557-1602)"
+    tagline = #'f
+}
+
+\include "../parts/21-morley-a4-psalm.ly"
+
+\book {
+    \bookOutputName "21-morley--the_man_is_blest_that_hath_not_bent-"
+    \bookOutputSuffix "--2-medius--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \mediusXXI
+        >>
+                \addlyrics { \mediusLyricsXXI }
+                \addlyrics { \mediusLyricsXXIa }
+                \addlyrics { \mediusLyricsXXIb }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "21-morley--the_man_is_blest_that_hath_not_bent-"
+    \bookOutputSuffix "--2-medius--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \mediusXXI
+        >>
+                \addlyrics { \mediusLyricsXXI }
+                \addlyrics { \mediusLyricsXXIa }
+                \addlyrics { \mediusLyricsXXIb }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

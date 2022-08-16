@@ -24,7 +24,7 @@
     flats = 1
     final = "f"
     shorttitle = "io_dico_e_dissi"
-    categories = "[madrigal]"
+    categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

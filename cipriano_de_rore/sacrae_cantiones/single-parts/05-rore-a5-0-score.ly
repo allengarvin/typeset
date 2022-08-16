@@ -18,6 +18,7 @@
     shortcomp = "rore"
     needtranslation = #'t
     folio = "Psalm 142:2-3; Psalm 27:2"
+    categories = "[penitential]"
 
     % Unchanging:
     language = "latin"

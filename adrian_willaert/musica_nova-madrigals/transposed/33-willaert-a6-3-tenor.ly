@@ -18,6 +18,7 @@
     partname = "Tenor (part 5 of 6)"
     instrument = "Cantai: or piango (tenor)"
 
+    originallyset = "2013-12-21"
     % Unchanging:
     \include "include/distribution-header.ly"
     lastupdated = "2013-12-21"

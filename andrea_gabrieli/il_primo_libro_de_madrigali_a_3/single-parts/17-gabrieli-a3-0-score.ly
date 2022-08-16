@@ -23,7 +23,7 @@
     flats = 1
     final = "d"
     shorttitle = "dove_speranza_mia"
-    categories = "[madrigal]"
+    categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

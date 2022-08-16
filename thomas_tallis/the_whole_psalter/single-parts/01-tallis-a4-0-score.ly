@@ -52,7 +52,7 @@
                 \new Voice <<
                     \set Staff.instrumentName = #"Contratenor"
                     \incipit \contratenorIincipitVoice
-                    \clef "treble"
+                    \clef "treble_8"
                     \global
                     \contratenorI
                 >>

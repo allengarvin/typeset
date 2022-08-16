@@ -24,7 +24,7 @@
     tagline = #'f
 }
 
-\include "../parts/15-sinfonia_nona.ly"
+\include "../parts/15-rossi-a3-sinfonia.ly"
     
 \book {
     \bookOutputName "15-sinfonia_9"

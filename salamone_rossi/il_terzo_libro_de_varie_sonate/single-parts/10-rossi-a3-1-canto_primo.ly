@@ -28,7 +28,7 @@
     
 \book {
     \bookOutputName "10-rossi--sinfonia_4"
-    \bookOutputSuffix "--1-canto-primo-tr_clef"
+    \bookOutputSuffix "--1-canto_one-tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

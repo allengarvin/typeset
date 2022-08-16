@@ -13,6 +13,9 @@
     title = "Correnta terza detta la Cecchina"
     language = "instrumental"
     instrument = "Correnta 3 (score)"
+    final = "g"
+    flats = 1
+    categories = "[trio]"
 
     % Unchanging:
     originallyset = "2013-04-16"

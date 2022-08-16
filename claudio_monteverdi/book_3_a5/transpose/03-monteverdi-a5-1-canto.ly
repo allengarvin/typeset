@@ -13,7 +13,6 @@
     title = "Sovra tenere erbette e bianchi fiori"
     subtitle = "transposed down a 5th"
     instrument = "Sovra tenere erbette e bianchi fiori: transposed down a 5th (canto)"
-    headerspace = \markup { \vspace #2 }
     shorttitle = "sovra_tenere_erbette_e_bianchi_fiori"
     shortcomp = "monteverdi"
 
@@ -37,7 +36,7 @@
     \score {
         \new Voice << 
             \clef "treble"
-            \global 
+            \global\transpose g c 
             \cantoIII
         >>
                 \addlyrics { \cantoLyricsIII }
@@ -52,7 +51,7 @@
     \score {
         \new Voice << 
             \clef "alto"
-            \global 
+            \global\transpose g c 
             \cantoIII
         >>
                 \addlyrics { \cantoLyricsIII }

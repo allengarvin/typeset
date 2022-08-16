@@ -14,6 +14,7 @@
     final = "g"
     flats = 1
     language = "instrumental"
+    categories = "[trio]"
     instrument = "Sinfonia 2 (score)"
 
     % Unchanging:

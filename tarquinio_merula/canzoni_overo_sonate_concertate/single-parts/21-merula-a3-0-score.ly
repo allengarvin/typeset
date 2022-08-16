@@ -15,6 +15,7 @@
     flats = 0
     language = "instrumental"
     instrument = "Chiacona (score)"
+    categories = "[trio]"
 
     % Unchanging:
     originallyset = "2013-04-16"

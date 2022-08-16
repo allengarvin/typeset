@@ -15,6 +15,8 @@
     flats = 0
     language = "english"
     instrument = "Lord in thy wrath (score)"
+    categories = "[penitential]"
+    shortcomp = "byrd"
     folio = "Psalm 6:1-2, anonymous metrical translation"
 
 

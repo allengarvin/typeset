@@ -27,7 +27,7 @@
     tagline = #'f
 }
 
-\include "../parts/03-luzzaschi-a5-madrigali.ly"
+\include "../parts/03-luzzaschi-a5-madrigal.ly"
 
 \book {
     \bookOutputName "03-luzzaschi--dolci_sospiri_ardenti-"

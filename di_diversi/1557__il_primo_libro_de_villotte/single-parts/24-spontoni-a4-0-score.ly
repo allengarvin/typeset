@@ -23,6 +23,7 @@
     originally_set = "2019-11-17"
     flats = 1
     final = "g"
+    categories = "[furioso]"
     \include "include/distribution-header.ly"
     composer = "Bartolomeo Spontone (1530-c.1592)"
     tagline = #'f

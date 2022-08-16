@@ -1,19 +1,19 @@
 % Dolci spoglie, felice e care tanto,
-% mentr’al ciel piacqu’e fui da lui gradita,
-% prendet’or questa miserabil’ vita
-% e qui fin abbia il duol, le pen’e’l pianto.
-% Viss’ho’l mio corso
+% mentr'al ciel piacqu'e fui da lui gradita,
+% prendet'or questa miserabil' vita
+% e qui fin abbia il duol, le pen'e'l pianto.
+% Viss'ho'l mio corso
 % ed ho finito quanto mi die natura;
-% or vo’ nell’altra vita.
-% Vendicat’ho Sicheo,
-% vist’ho fornita la terra
-% di ch’ancor mi glori’e vanto.
-% Felice, ahimè, troppo felic’er’io
+% or vo' nell'altra vita.
+% Vendicat'ho Sicheo,
+% vist'ho fornita la terra
+% di ch'ancor mi glori'e vanto.
+% Felice, ahimè, troppo felic'er'io
 % se le navi troiane il nostro lido
 % con quel crudel mai non avesser visto.”
-% Così disse, premend’al petto Dido la spada,
+% Così disse, premend'al petto Dido la spada,
 % che mostrò di sangue un rio
-% d’ira, d’odio, d’amor, di pianto misto.
+% d'ira, d'odio, d'amor, di pianto misto.
 
 % Dolci spoglie felice care tanto|Dolci spoglie felic'e care tanto, mentr'al ciel piacque   (Gualtieri)
 cantoXVIIincipit = \relative c' {
@@ -59,28 +59,28 @@ cantoXVII = \relative c' {
 
 cantoLyricsXVII = \lyricmode {
     Dol -- ci spo -- glie, fe -- li -- c'e ca -- re tan -- to,
-    Men -- tre~al ciel piac -- qu’e fui da lui gra -- di -- ta,
-    Pren -- de -- t’or que -- sta mi -- se -- ra -- bil’ vi -- ta
-    e qui fin ab -- bia~il duol, le pe -- n’e’l pian -- to,
+    Men -- tre~al ciel piac -- qu'e fui da lui gra -- di -- ta,
+    Pren -- de -- t'or que -- sta mi -- se -- ra -- bil' vi -- ta
+    e qui fin ab -- bia~il duol, le pe -- n'e'l pian -- to,
     \ijLyrics
-        le pe -- n’e’l pian -- to.
+        le pe -- n'e'l pian -- to.
     \normalLyrics
 
-    Vis -- s’ho’l mio cor -- so __
+    Vis -- s'ho'l mio cor -- so __
     ed ho for -- ni -- to quan -- to mi die __ na -- tu -- ra;
-    or __ vo’ nel -- l’al -- tra vi -- ta.
-    Ven -- di -- cat’ ho Si -- che -- o,
-    Vist’ ho for -- ni -- ta la ter -- ra
-    di ch’an -- cor mi glo -- ri’e van -- to,
+    or __ vo' nel -- l'al -- tra vi -- ta.
+    Ven -- di -- ca -- t'ho Si -- che -- o,
+    Vi -- st'ho for -- ni -- ta la ter -- ra
+    di ch'an -- cor mi glo -- ri'e van -- to,
     \ijLyrics
-    di ch’an -- cor mi glo -- ri’e van -- to.
+    di ch'an -- cor mi glo -- ri'e van -- to.
     \normalLyrics
     Fe -- li -- c'ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
     se __ le na -- vi tro -- ia -- ne~il no -- stro li -- do
     con quel cru -- del mai non a -- ves -- ser vi -- sto.
-    Co -- sì dis -- se, pre -- men -- d’al pet -- to Di -- do la __ spa -- da,
+    Co -- sì dis -- se, pre -- men -- d'al pet -- to Di -- do la __ spa -- da,
     che __ mo -- strò di san -- gue~un ri -- o
-    d’i -- ra, d’o -- dio, d’A -- mor, __ di pian -- to mi -- sto.
+    d'i -- ra, d'o -- dio, d'A -- mor, __ di pian -- to mi -- sto.
 }
 
 altoXVIIincipit = \relative c' {
@@ -124,28 +124,28 @@ altoXVII = \relative c' {
 
 altoLyricsXVII = \lyricmode {
     Dol -- ci spo -- glie, fe -- li -- c'e ca -- re tan -- to,
-    Men -- tre~al ciel piac -- qu’e fui da lui gra -- di -- ta,
-    Pren -- de -- t’or que -- sta mi -- se -- ra -- bil’ vi -- ta
-    e qui fin ab -- bia~il duol, __ le pe -- n’e’l pian -- to,
-        le pe -- n’e’l pian -- to.
+    Men -- tre~al ciel piac -- qu'e fui da lui gra -- di -- ta,
+    Pren -- de -- t'or que -- sta mi -- se -- ra -- bil' vi -- ta
+    e qui fin ab -- bia~il duol, __ le pe -- n'e'l pian -- to,
+        le pe -- n'e'l pian -- to.
 
-    Vis -- s’ho’l mio cor -- so 
+    Vis -- s'ho'l mio cor -- so 
     \ijLyrics
-    Vis -- s’ho’l mio cor -- so 
+    Vis -- s'ho'l mio cor -- so 
     \normalLyrics
     ed ho for -- ni -- to quan -- to mi die na -- tu -- ra;
-    or vo’ nel -- l’al -- tra vi -- ta. __
-    Ven -- di -- cat’ ho Si -- che -- o,
-    Vist’ ho __ for -- ni -- ta la ter -- ra
-    di ch’an -- cor mi glo -- ri’e van -- to,
-    di ch’an -- cor mi glo -- ri’e van -- to.
+    or vo' nel -- l'al -- tra vi -- ta. __
+    Ven -- di -- ca -- t'ho Si -- che -- o,
+    Vi -- st'ho __ for -- ni -- ta la ter -- ra
+    di ch'an -- cor mi glo -- ri'e van -- to,
+    di ch'an -- cor mi glo -- ri'e van -- to.
     Fe -- li -- c'ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
     se __ le na -- vi tro -- ia -- ne~il no -- stro li -- do
     con quel cru -- del mai non a -- ves -- ser vi -- sto.
-    Co -- sì dis -- se, pre -- men -- d’al pet -- to Di -- do la spa -- da,
+    Co -- sì dis -- se, pre -- men -- d'al pet -- to Di -- do la spa -- da,
     che mo -- strò di san -- gue~un ri -- o,
         un ri -- o
-    d’i -- ra, d’o -- dio, d’A -- mor, __ di pian -- to mi -- sto.
+    d'i -- ra, d'o -- dio, d'A -- mor, __ di pian -- to mi -- sto.
 }
 
 tenoreXVIIincipit = \relative c' {
@@ -189,25 +189,25 @@ tenoreXVII = \relative c' {
 
 tenoreLyricsXVII = \lyricmode {
     Dol -- ci spo -- glie, fe -- li -- c'e ca -- re tan -- to,
-    Men -- tre~al ciel piac -- qu’e fui da lui gra -- di -- ta,
-    Pren -- de -- t’or que -- sta mi -- se -- ra -- bil’ vi -- ta
+    Men -- tre~al ciel piac -- qu'e fui da lui gra -- di -- ta,
+    Pren -- de -- t'or que -- sta mi -- se -- ra -- bil' vi -- ta
     e qui fin ab -- bia~il duol, 
     \ijLyrics
     e qui fin ab -- bia~il duol, 
     \normalLyrics
-        le pe -- n’e’l pian -- to.
+        le pe -- n'e'l pian -- to.
 
-    Vis -- s’ho’l mio cor -- so 
+    Vis -- s'ho'l mio cor -- so 
     \ijLyrics
-    Vis -- s’ho’l mio cor -- so 
+    Vis -- s'ho'l mio cor -- so 
     \normalLyrics
     ed ho __ for -- ni -- to quan -- to mi die na -- tu -- ra;
-    or vo’ nel -- l’al -- tra vi -- ta.
-    Ven -- di -- cat’ ho Si -- che -- o, __
-    Vist’ ho for -- ni -- ta la ter -- ra
-    di ch’an -- cor mi glo -- ri’e van -- to,
+    or vo' nel -- l'al -- tra vi -- ta.
+    Ven -- di -- ca -- t'ho Si -- che -- o, __
+    Vi -- st'ho for -- ni -- ta la ter -- ra
+    di ch'an -- cor mi glo -- ri'e van -- to,
     \ijLyrics
-    di ch’an -- cor mi glo -- ri’e van -- to.
+    di ch'an -- cor mi glo -- ri'e van -- to.
     \normalLyrics
     Fe -- li -- c'ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
     se le na -- vi tro -- ia -- ne~il no -- stro li -- do __
@@ -216,9 +216,9 @@ tenoreLyricsXVII = \lyricmode {
     con quel cru -- del 
     \normalLyrics
         mai non a -- ves -- ser vi -- sto.
-    Co -- sì dis -- se, pre -- men -- d’al pet -- to Di -- do la spa -- da,
+    Co -- sì dis -- se, pre -- men -- d'al pet -- to Di -- do la spa -- da,
     che mo -- strò di san -- gue~un ri -- o __
-    d’i -- ra, d’o -- dio, d’A -- mor, di pian -- to mi -- sto.
+    d'i -- ra, d'o -- dio, d'A -- mor, di pian -- to mi -- sto.
 }
 
 bassoXVIIincipit = \relative c {
@@ -259,22 +259,22 @@ bassoXVII = \relative c {
 
 bassoLyricsXVII = \lyricmode {
     Dol -- ci spo -- glie, fe -- li -- c'e ca -- re tan -- to,
-    Men -- tre~al ciel piac -- qu’e fui da lui gra -- di -- ta,
-    Pren -- de -- t’or que -- sta mi -- se -- ra -- bil’ vi -- ta
-    e qui fin ab -- bia~il duol, le pe -- n’e’l pian -- to.
+    Men -- tre~al ciel piac -- qu'e fui da lui gra -- di -- ta,
+    Pren -- de -- t'or que -- sta mi -- se -- ra -- bil' vi -- ta
+    e qui fin ab -- bia~il duol, le pe -- n'e'l pian -- to.
 
-    Vis -- s’ho’l mio cor -- so 
+    Vis -- s'ho'l mio cor -- so 
     ed ho for -- ni -- to quan -- to mi die __ na -- tu -- ra;
-    or vo’ nel -- l’al -- tra vi -- ta.
-    Ven -- di -- cat’ ho Si -- che -- o,
-    Vist’ ho for -- ni -- ta la ter -- ra
-    di ch’an -- cor mi glo -- ri’e van -- to,
+    or vo' nel -- l'al -- tra vi -- ta.
+    Ven -- di -- ca -- t'ho Si -- che -- o,
+    Vi -- st'ho for -- ni -- ta la ter -- ra
+    di ch'an -- cor mi glo -- ri'e van -- to,
     Fe -- li -- c'ahi -- mè, trop -- po fe -- li -- ce~er' i -- o
     se le na -- vi tro -- ia -- ne~il no -- stro li -- do
     con quel cru -- del mai non a -- ves -- ser vi -- sto.
-    Co -- sì dis -- se, pre -- men -- d’al pet -- to Di -- do la spa -- da,
+    Co -- sì dis -- se, pre -- men -- d'al pet -- to Di -- do la spa -- da,
     che mo -- strò di san -- gue~un ri -- o __
-    d’i -- ra, d’o -- dio, d’A -- mor, __ di pian -- to mi -- sto.
+    d'i -- ra, d'o -- dio, d'A -- mor, __ di pian -- to mi -- sto.
 }
 
 cantoXVIIincipitVoice = <<

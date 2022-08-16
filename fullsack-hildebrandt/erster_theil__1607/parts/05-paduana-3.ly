@@ -1,7 +1,7 @@
 cantoV =  \relative d'' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
 
     \repeat volta 2 {
         d2. e4 f e d2 ~  |
@@ -43,7 +43,7 @@ cantoV =  \relative d'' {
 quintoV =  \relative bf' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
    \repeat volta 2 {
         bf1 a2 bf  |
         r4 a d e f e d2 ~  |
@@ -84,7 +84,7 @@ quintoV =  \relative bf' {
 altoV =  \relative g' {
     \clef treble
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
     \repeat volta 2 {
         g1 f2 g  |
         a g a r4 f  |
@@ -125,7 +125,7 @@ altoV =  \relative g' {
 tenoreV =  \relative d' {
     \clef alto
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
     \repeat volta 2 {
         d2 bf4 c d c bf2  |
         f'4 e d2 d2. c4  |
@@ -166,7 +166,7 @@ tenoreV =  \relative d' {
 bassoV =  \relative g {
     \clef bass
     \key f \major
-    \time 4/2
+    \fourTwoCommonTime
     \repeat volta 2 {
         g1 d2 g  |
         d' g, d'4 c bf a  |

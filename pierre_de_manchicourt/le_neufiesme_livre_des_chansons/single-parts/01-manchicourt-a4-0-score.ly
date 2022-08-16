@@ -13,7 +13,8 @@
     title = "Du fond de ma pensée"
     language = "french"
     subtitle = "Première pars"
-    folio = \markup { Paraphrase of Psalm 130, \italic { De profundis } }
+    folio = \markup { Paraphrase of Psalm 129/130, \italic { De profundis } }
+    categories = "[penitential]"
     instrument = "Du fond de ma pensée (score)"
 
     % Unchanging:

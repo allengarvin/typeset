@@ -14,6 +14,7 @@
     final = "g"
     flats = 1
     language = "instrumental"
+    categories = "[trio]"
     subtitle = "va sonata alla quarta Alta"
     instrument = "Sinfonia I: va sonata alla quarta Alta (score)"
     headerspace = \markup { \vspace #2 }

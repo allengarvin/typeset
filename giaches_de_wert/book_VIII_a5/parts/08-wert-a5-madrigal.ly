@@ -1,6 +1,6 @@
 %Poscia dicea piangendo: In voi serbate
 %Questa dolente istoria amiche piante
-%Perchè se fia ch’alle vostre ombre grate
+%Perché se fia ch’alle vostre ombre grate
 %Giammai soggiorni alcun fedele amante
 %Senta svegliarsi al cor dolce pietate
 %Delle sventure mie sì varie e tante:
@@ -44,9 +44,9 @@ cantoLyricsVIII = \lyricmode {
     Po -- scia di -- cea pian -- gen -- do,
     Po -- scia di -- cea pian -- gen -- do, __ in voi ser -- ba -- te
     Que -- sta do -- len -- te~i -- sto -- ria~a -- mi -- che pian -- te
-    Per -- chè se fia ch’al -- le vo -- stre~om -- bre gra -- te
+    Per -- ché se fia ch’al -- le vo -- stre~om -- bre gra -- te
     Giam -- mai sog -- gior -- ni~al -- cun fe -- de -- le~a -- man -- te,
-    Per -- chè se fia ch’al -- le vo -- stre~om -- bre gra -- te
+    Per -- ché se fia ch’al -- le vo -- stre~om -- bre gra -- te
     Giam -- mai sog -- gior -- ni~al -- cun fe -- de -- le~a -- man -- te,
     % Sen -- ta sve -- gliar -- si~al cor dol -- ce pie -- ta -- te
     Del -- le sven -- tu -- re mie sì va -- rie~e tan -- te,
@@ -92,9 +92,9 @@ altoLyricsVIII = \lyricmode {
         pian -- gen -- do, __ in voi __ ser -- ba -- te
     Que -- sta do -- len -- te~i -- sto -- ria~a -- mi -- che pian -- te,
         a -- mi -- che pian -- te
-    Per -- chè se fia ch’al -- le vo -- stre~om -- bre gra -- te
+    Per -- ché se fia ch’al -- le vo -- stre~om -- bre gra -- te
     Giam -- mai sog -- gior -- ni~al -- cun fe -- de -- le~a -- man -- te,
-    Per -- chè se fia ch’al -- le vo -- stre~om -- bre gra -- te
+    Per -- ché se fia ch’al -- le vo -- stre~om -- bre gra -- te
     Sen -- ta sve -- gliar -- si~al cor dol -- ce pie -- ta -- te
     Del -- le sven -- tu -- re mie sì va -- rie~e tan -- te,
     E di -- ca: ahi trop -- po~in giu -- sta~em -- pia mer -- ce -- de
@@ -140,9 +140,9 @@ tenoreLyricsVIII = \lyricmode {
     Po -- scia di -- cea pian -- gen -- do, 
     Po -- scia di -- cea pian -- gen -- do, __ in voi ser -- ba -- te
     Que -- sta do -- len -- te~i -- sto -- ria a -- mi -- che pian -- te
-    Per -- chè se fia ch’al -- le vo -- stre~om -- bre gra -- te
+    Per -- ché se fia ch’al -- le vo -- stre~om -- bre gra -- te
     Giam -- mai sog -- gior -- ni~al -- cun fe -- de -- le~a -- man -- te,
-    Per -- chè se fia ch’al -- le vo -- stre~om -- bre gra -- te
+    Per -- ché se fia ch’al -- le vo -- stre~om -- bre gra -- te
     Giam -- mai sog -- gior -- ni~al -- cun fe -- de -- le~a -- man -- te,
     Sen -- ta sve -- gliar -- si~al cor dol -- ce pie -- ta -- te
     Del -- le sven -- tu -- re mie sì va -- rie~e tan -- te,
@@ -185,7 +185,7 @@ bassoVIII = \relative c' {
 bassoLyricsVIII = \lyricmode {
     Po -- scia di -- cea pian -- gen -- do, in voi ser -- ba -- te
     Que -- sta do -- len -- te~i -- sto -- ria~a -- mi -- che pian -- te
-    Per -- chè se fia ch’al -- le vo -- stre~om -- bre gra -- te
+    Per -- ché se fia ch’al -- le vo -- stre~om -- bre gra -- te
     Giam -- mai sog -- gior -- ni~al -- cun fe -- de -- le~a -- man -- te,
     Sen -- ta sve -- gliar -- si~al cor dol -- ce pie -- ta -- te
     Del -- le sven -- tu -- re mie sì va -- rie~e tan -- te,
@@ -229,7 +229,7 @@ quintoVIII = \relative c'' {
 quintoLyricsVIII = \lyricmode {
     Po -- scia di -- cea pian -- gen -- do, in voi ser -- ba -- te
     Que -- sta do -- len -- te~i -- sto -- ria~a -- mi -- che pian -- te
-    Per -- chè se fia ch’al -- le vo -- stre~om -- bre gra -- te
+    Per -- ché se fia ch’al -- le vo -- stre~om -- bre gra -- te
     Giam -- mai sog -- gior -- ni~al -- cun fe -- de -- le~a -- man -- te,
     Sen -- ta sve -- gliar -- si~al cor dol -- ce pie -- ta -- te
     Del -- le sven -- tu -- re mie sì va -- rie~e tan -- te,

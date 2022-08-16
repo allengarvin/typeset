@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     language = "instrumental"
+    categories = "[trio]"
     subtitle = "Detta la Viena"
     instrument = "Sonata 6 in dialogo 'Detta la Viena' (score)"
 

@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Cruda Amarilli"
-    instrument = "Cruda Amarilli: Prima parte (score)"
+    instrument = "Cruda Amarilli: Prima e seconda parti (score)"
     folio = \markup { Giovanni Battista Guarini, \italic{Il Pastor Fido} Atto I Scena 2 }
     headerspace = \markup { \vspace #2 }
 
@@ -26,8 +26,8 @@
 \include "../parts/18-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "17-wert--prima_parte--seconda_parte"
-    \bookOutputSuffix "-comb--0-score"
+    \bookOutputName "17-wert--cruda_amarilli"
+    \bookOutputSuffix "-comb--transposed-0-score"
     \score {
         \header { piece = "Prima parte" }
          <<
@@ -38,7 +38,7 @@
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoXVIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \cantoXVII
                 >>
                 \addlyrics { \cantoLyricsXVII }
@@ -46,7 +46,7 @@
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoXVIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \quintoXVII
                 >>
                 \addlyrics { \quintoLyricsXVII }
@@ -54,7 +54,7 @@
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoXVIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \altoXVII
                 >>
                 \addlyrics { \altoLyricsXVII }
@@ -62,7 +62,7 @@
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreXVIIincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose f c
                     \tenoreXVII
                 >>
                 \addlyrics { \tenoreLyricsXVII }
@@ -70,7 +70,7 @@
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoXVIIincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose f c
                     \bassoXVII
                 >>
                 \addlyrics { \bassoLyricsXVII }
@@ -94,7 +94,7 @@
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoXVIIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \cantoXVIII
                 >>
                 \addlyrics { \cantoLyricsXVIII }
@@ -102,7 +102,7 @@
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoXVIIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \quintoXVIII
                 >>
                 \addlyrics { \quintoLyricsXVIII }
@@ -110,7 +110,7 @@
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoXVIIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \altoXVIII
                 >>
                 \addlyrics { \altoLyricsXVIII }
@@ -118,7 +118,7 @@
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreXVIIIincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose f c
                     \tenoreXVIII
                 >>
                 \addlyrics { \tenoreLyricsXVIII }
@@ -126,7 +126,7 @@
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoXVIIIincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose f c
                     \bassoXVIII
                 >>
                 \addlyrics { \bassoLyricsXVIII }

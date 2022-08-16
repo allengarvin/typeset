@@ -12,7 +12,10 @@
     % Things that change per piece:
     title = "Sinfonia ottava"
     language = "instrumental"
+    categories = "[trio]"
     instrument = "Sinfonia 8 (score)"
+    final = "e"
+    flats = 0
 
     % Unchanging:
     originallyset = "2013-04-16"
@@ -21,7 +24,7 @@
     tagline = #'f
 }
 
-\include "../parts/14-sinfonia_ottava.ly"
+\include "../parts/14-rossi-a3-sinfonia.ly"
     
 \book {
     \bookOutputName "14-sinfonia_8"

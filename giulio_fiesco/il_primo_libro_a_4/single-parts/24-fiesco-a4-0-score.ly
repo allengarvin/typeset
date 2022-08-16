@@ -21,7 +21,7 @@
     flats = 1
     final = "g"
     shorttitle = "crudel_di_che_peccato"
-    categories = "[madrigal]"
+    categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
