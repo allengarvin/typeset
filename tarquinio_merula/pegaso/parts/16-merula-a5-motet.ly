@@ -683,7 +683,7 @@ figuresXVI = \figuremode {
 
     s | s | s | s | 
 
-    s\breve s2 <_+> | s4 <5 6>2 s4 s2 <3>4 <6>2 s4 <_+>2 |
+    s\breve s2 <_+> | s4 <5>2 <6>4 s4 s2 <3>4 <6>2 s4 <_+>2 |
         s1. s4 <6>2 s4 <_+>2 | s\breve. | 
 
     s | s | s | s | 
