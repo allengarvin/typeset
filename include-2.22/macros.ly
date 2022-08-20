@@ -15,7 +15,7 @@ melfi = { \melisma\ficta }
 melfiEnd = { \melismaEnd\unficta }
 
 % got this from a Potharn Imre score:
-doubleTimeSig = \set Score.measureLength = #(ly:make-moment 1/32) s32 \bar ""
+doubleTimeSig = { \set Score.measureLength = #(ly:make-moment 1/32) s32 \bar "" }
 
 noSlur = \override Slur #'transparent = ##t
 slurOff = \override Slur #'transparent = ##t
