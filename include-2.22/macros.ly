@@ -14,7 +14,12 @@ stemOff = { \hide Staff.Stem }
 melfi = { \melisma\ficta }
 melfiEnd = { \melismaEnd\unficta }
 
+% got this from a Potharn Imre score:
+doubleTimeSig = \set Score.measureLength = #(ly:make-moment 1/32) s32 \bar ""
+
 noSlur = \override Slur #'transparent = ##t
+slurOff = \override Slur #'transparent = ##t
+slurOn = \override Slur #'transparent = ##f
 
 singleTime = \once \override Staff.TimeSignature  #'style = #'single-digit
 invisibleTime = \once \override Staff.TimeSignature #'break-visibility = #all-invisible 
