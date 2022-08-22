@@ -168,7 +168,6 @@ bassoOneLXXXIII = \relative c {
     \repeat volta 2 {
         R1 | d4 d8[ d] d4 a| d2. fs8.[ e16] | fs8[ d] fs8.[ e16] fs8[ d] a'4 |
         a,2. a4 | a' e8.[ d16] cs8[ a] gs4 | a e' a2 |
-        %\clef alto 
         e'4 e8.[ d16] cs4 b | 
 
         a2 r4 a8[ b] | cs4 b4. cs8 d4 | e8[ fs] g4 fs e | d cs b2 |
@@ -183,16 +182,16 @@ bassoOneLXXXIII = \relative c {
     \repeat volta 2 {
         r4 a''4. g16[ a] fs8[ e] | d4 d'4. c16[ d] b8[ a] | 
         g4. fs8 e[ d cs b] | a1 | r8 a'[ a e] cs'[ a16 b] cs8[ a] |
-        %\clef alto 
         e'8[ cs e cs] a2 | d,4. d'8 b4 e ~ |
         % --- page ---
         e4 ds r e ~ | e8[ cs16 d] e8[ a,] r4 a ~ |
         %\clef bass
         a8[ fs16 g] a8[ d,] g4 fs | e2. e4 | fs2 gs4. fs8 | e1 |
         r2 e16[ fs gs a] b8[ e,] | b'[ e,] b'4. gs8[ a b] | 
-       % \clef alto
         cs4 e, e' gs,8[ a] | b2 e, ~ | e4 e'8[ d] cs4 b | a2. g4 | 
-        fs2\clef alto d' |
+        fs2
+         #(if *is-cello* #{ \clef tenor #} #{ \clef alto #} )
+            d' |
         r2 r8 d[ a b] | fs4 fs' e d | a'2. d,4 | 
 
        % \clef bass
@@ -202,11 +201,12 @@ bassoOneLXXXIII = \relative c {
     r4 a b4. g8 | e2 fs8[ fs g d] | e4. cs8 a4 d | b2 a4. b8 | cs4 d b2 |
         gs4 a fs2 | e b'4 b' | 
 
-    gs2 r | a4. b8 cs[ a d d,] | e4 fs e a ~ | a8[ b] cs[ a] \clef alto
+    gs2 r | a4. b8 cs[ a d d,] | e4 fs e a ~ | a8[ b] cs[ a] 
+         #(if *is-cello* #{ \clef tenor #} #{ \clef alto #} )
         e'8[ b cs a] | gs4 e8[ b''] gs4 e | b gs e2 \clef bass
         e,1 | 
     % --- page ---
-    \clef alto
+         #(if *is-cello* #{ \clef tenor #} #{ \clef alto #} )
 
     r8 e'16[ fs] gs8[ e] b'[ gs e b'] | 
         e8.[ d16] cs[ b a8] fs'16[ e fs8] e16[ d e8] | 
@@ -246,24 +246,86 @@ bassoTwoLXXXIIIincipit = \relative c {
     a4
 }
 
-bassoTwoLXXXIII = \relative c {
-    \clef bass
-    \key d \major
-    \fourTwoCutTime
 
-    \repeat volta 2 { 
+% basso: checked against source
+bassoTwoLXXXIII = \relative c {
+    \key d \major
+    \time 2/2
+
+    \repeat volta 2 {  
     R1*4 R1 | a4 a8[ a] a4 e | a2. cs8.[ b16] | cs8[ a] cs8.[ b16] cs8[ a] e'4|
 
     a,2 a' ~| a4 e8[ fs] g4 fs | e2 d4 a | b cs8[ d] e4 e, | 
-        a a'8[ b] cs4 a \clef alto
-        cs4 e4. d8 cs4 b | a2 d,4 d8[ d] | fs4 a d2 | 
+        a a'8[ b] cs4 a 
+         #(if *is-cello* #{ \clef tenor #} #{ \clef alto #} )
+        e'4. d8 cs4 b | a2 d,4 d8[ d] | fs4 a d2 | 
 
     r4 d8[ d] d4 d | fs a d, e | b8[ cs] d4 cs b | r4 b2 as4 | b fs2 e4 |
         fs2 fs4. gs8 | a1 | a4 b cs a | 
 
     \clef bass
     fs1
+    } % checked thru here
+
+    \repeat volta 2 {
+        a4. g16[ a] fs8[ e] d4 | d'4. c16[ d] b8[ a] g4 ~ |
+        g8[ fs e d] cs8[ b] a4 | e' cs' a e'8[ cs] | a1 | 
+        r2 r8 a[ a fs] | a[ fs16 g] a8[ d,] g[ e g e] |
+    % --- page ----
+    b'4 b, e4. e16[ d] | cs2 a | d4 d8.[ cs16] b4. a8 | gs2 a4. gs8 |
+        fs4 b e,2 |
+         #(if *is-cello* #{ \clef tenor #} #{ \clef alto #} )
+        e''8[ b] b4 gs8[ b] e,4 | \clef bass
+        e,1 | e'2. d4 |
+
+    cs2. b4 ~ | b8[ a] gs2 a4 ~ | a a'2 g4 | fs e8[ d] a'4 a, | d1 ~ | d |
+        d,4 d' cs b | a1 ~
+
+    a
     }
+    R1*2 | 
+        b'4 cs4. a8 fs4 | r4 g8[ g] a[ e] fs4 | e a d b | %\clef bass
+        e,2 fs | b,1 |
+
+    e4. fs8 gs[ e a a,] | cs4 d a fs | e d a'4. b8 | cs4 a gs a | e'1 | 
+        
+        r2 e'16[ e e e] e8[ b] | gs'4 e b gs |
+    % --- page ---
+    %\clef bass
+    e4. e16[ fs] gs8[ e b' gs] | e8[ a8.] g16[ fs e] d8[ a' cs, a'] |
+        b,[ g' a, a']
+         #(if *is-cello* #{ \clef tenor #} #{ \clef alto #} )
+            cs8[ a cs d] | e8[ a e cs] a2 |
+
+    \clef bass
+    a,1 | r2 a16[ a' a8] 
+         #(if *is-cello* #{ \clef tenor #} #{ \clef alto #} )
+        cs16[ a a e'] | 
+        a8 d,4 cs8 d4 e | fs2 e8[ a] g[ e16 fs] | 
+
+    g4 d e2 | \clef bass a,8[ g16 fs] e16[ d cs8] a'[ g16 a] b[ cs d e] |
+        cs8[ a e' cs] a2 | %\clef bass
+        a,4. a'16[ g] fs8.[ e16] d8.[ e16] |
+
+    fs8.[ g16] a8[ d,] fs, d] d'4 | r4 d16[ e fs e] d8[ a] d,4 |
+        d'16[ a' a a] cs,[ a' a a] d,[ a' a a] a,[ a' a a] | g4 fs e b |
+
+    % --- page ---
+    e16[ fs gs a] b8 ~ b32[ a gs fs] 
+         #(if *is-cello* #{ \clef tenor #} #{ \clef alto #} )
+            e16[ a' gs a] b8.[ fs,16] \clef bass
+        e16[ fs e d] cs8.[ d16] e[ d cs b] a8.[ g16] | 
+        fs16[ e d8] d'16[ e fs g] a[ b cs8] d4 | r2 d,16[ d, d8] d'16[ fs, d8]|
+
+    r2 d'8.[ d16] cs[ a d d,] | r4 e'8[ d] cs[ a] r4 | R1*2 
+        r2 r4 f''4 | a,2 r4 d | f,1 | r4 d'2 c8[ bf] | 
+                                
+               % vvvvv key change in switch to 1 flat
+        a4 g %\clef bass 
+            f4 f, | bf2 a4. bf8 | c1 | f,2 bf4 g |
+
+    a1 | d,\longa*1/4
+        
     \bar "|."
 }
 
