@@ -6,35 +6,32 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.5)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
-    title = "Newark Siege"
+    title = "Pavana II"
     subtitle = ""
-    instrument = "Newark Siege:  (score)"
+    instrument = "Pavana II:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "newark_siege"
-    shortcomp = "jenkins"
+    shorttitle = "pavana_ii"
+    shortcomp = "farina"
+    final = "g"
+    flats = 0
     categories = "[]"
 
     % Unchanging:
     language = "instrumental"
-    lastupdated = "2022-08-22"
-    originallyset = "2022-08-22"
-    flats = -2
-    final = "d"
+    lastupdated = "2022-08-16"
+    originallyset = "2022-08-16"
     \include "include/distribution-header.ly"
-    composer = "John Jenkins (1592-1678)"
     tagline = #'f
 }
 
-#(define *is-cello* #f)
-\include "../parts/083-jenkins-a4-siege.ly"
-
+\include "../parts/02-farina-a4-pavana.ly"
 
 \book {
-    \bookOutputName "083-jenkins--newark_siege-"
+    \bookOutputName "02-farina--pavana_ii-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,32 +39,32 @@
                 \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
-                    \set Staff.instrumentName = #"Treble I"
-                    \incipit \cantoOneLXXXIIIincipitVoice
+                    \set Staff.instrumentName = #"Canto"
+                    \incipit \cantoIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoOneLXXXIII
+                    \cantoII
                 >>
                 \new Voice <<
-                    \set Staff.instrumentName = #"Treble II"
-                    \incipit \cantoTwoLXXXIIIincipitVoice
-                    \clef "treble"
+                    \set Staff.instrumentName = #"Alto"
+                    \incipit \altoIIincipitVoice
+                    \clef "treble_8"
                     \global
-                    \cantoTwoLXXXIII
+                    \altoII
                 >>
                 \new Voice <<
-                    \set Staff.instrumentName = #"Bass I"
-                    \incipit \bassoOneLXXXIIIincipitVoice
+                    \set Staff.instrumentName = #"Tenore"
+                    \incipit \tenoreIIincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenoreII
+                >>
+                \new Voice <<
+                    \set Staff.instrumentName = #"Basso"
+                    \incipit \bassoIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoOneLXXXIII
-                >>
-                \new Voice <<
-                    \set Staff.instrumentName = #"Bass II"
-                    \incipit \bassoTwoLXXXIIIincipitVoice
-                    \clef "bass"
-                    \global
-                    \bassoTwoLXXXIII
+                    \bassoII
                 >>
              >>
          >>
@@ -75,7 +72,7 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 48 2)
+                tempoWholesPerMinute = #(ly:make-moment 64 2)
             }
         }
     }   

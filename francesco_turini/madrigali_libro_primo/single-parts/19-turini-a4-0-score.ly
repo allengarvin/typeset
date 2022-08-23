@@ -17,6 +17,8 @@
     shorttitle = "sinfonia"
     shortcomp = "turini"
     categories = "[trio]"
+    final = "g"
+    flats = 1
 
     % Unchanging:
     language = "instrumental"

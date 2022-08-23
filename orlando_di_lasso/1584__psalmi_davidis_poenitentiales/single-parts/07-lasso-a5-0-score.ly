@@ -10,30 +10,30 @@
 
 \header {
     % Things that change per piece:
-    title = "In decachordo, psalterio"
-    subtitle = "Secunda pars"
-    instrument = "In decachordo, psalterio: Secunda pars (score)"
+    title = "Turbatus est a furore oculus meus"
+    subtitle = "Psalm I"
+    instrument = "Turbatus est a furore oculus meus: Psalm I (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "in_decachordo_psalterio"
-    shortcomp = "gabrieli"
-    categories = "[]"
+    shorttitle = "turbatus_est_a_furore_oculus_meus"
+    shortcomp = "lasso"
+    categories = "[penitential]"
     needtranslation = #'f
-    folio = "Psalm 91/92:3-4"
+    folio = "Psalm 6:7"
 
     % Unchanging:
     language = "latin"
     lastupdated = "2022-08-20"
     originallyset = "2022-08-20"
     flats = 0
-    final = "a"
+    final = "d"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/14-gabrieli-a5-motet.ly"
+\include "../parts/07-lasso-a5-motet.ly"
 
 \book {
-    \bookOutputName "14-gabrieli--in_decachordo_psalterio-secunda_pars"
+    \bookOutputName "07-lasso--turbatus_est_a_furore_oculus_meus-psalm_i"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,68 +42,57 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusXIVincipitVoice
+                    \incipit \cantusVIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantusXIV
+                    \cantusVII
                 >>
-             \addlyrics { \cantusLyricsXIV }
+             \addlyrics { \cantusLyricsVII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusXIVincipitVoice
+                    \incipit \altusVIIincipitVoice
                     \clef "treble"
                     \global
-                    \altusXIV
+                    \altusVII
                 >>
-             \addlyrics { \altusLyricsXIV }
+             \addlyrics { \altusLyricsVII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXIVincipitVoice
+                    \incipit \tenorVIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorXIV
+                    \tenorVII
                 >>
-             \addlyrics { \tenorLyricsXIV }
+             \addlyrics { \tenorLyricsVII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quintus"
-                    \incipit \quintusXIVincipitVoice
+                    \incipit \quintusVIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintusXIV
+                    \quintusVII
                 >>
-             \addlyrics { \quintusLyricsXIV }
+             \addlyrics { \quintusLyricsVII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusXIVincipitVoice
+                    \incipit \bassusVIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusXIV
+                    \bassusVII
                 >>
-             \addlyrics { \bassusLyricsXIV }
+             \addlyrics { \bassusLyricsVII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 112 2)
+                tempoWholesPerMinute = #(ly:make-moment 108 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { In decachordo, psalterio, }
-                \line { cum cantico, in cithara. }
-                \line { Quia delectasti me, Domine, in factura tua; }
-                \line { et in operibus manuum tuarum exsultabo. }
-            }
-            \column {
-                \line { Upon an instrument of ten strings, and upon the lute: }
-                \line { upon a loud instrument, and upon the harp. }
-                \line { For thou, Lord, hast made me glad through thy works: }
-                \line { and I will rejoice in giving praise for the operations of thy hands. }
-                \line { \hspace #8 1662 \italic { The Book of Common Prayer } }
             }
         }
     }

@@ -14,6 +14,8 @@ melfi = \melisma\ficta
 melfiEnd = \melismaEnd\unficta
 
 noSlur = \override Slur #'transparent = ##t
+slurOff = \override Slur #'transparent = ##t
+slurOn = \override Slur #'transparent = ##f
 
 singleTime = \once \override Staff.TimeSignature  #'style = #'single-digit
 invisibleTime = \once \override Staff.TimeSignature #'break-visibility = #all-invisible 

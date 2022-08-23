@@ -9,11 +9,14 @@ unficta = \unset suggestAccidentals
 ficta = \set suggestAccidentals = ##t
 incipitLarge = \once \override NoteHead #'font-size = #3
 stemOff = { \hide Staff.Stem }
+figuresDown = \override Staff.BassFigureAlignmentPositioning #'direction = #DOWN
+
 
 % should have done this years ago
 melfi = { \melisma\ficta }
 melfiEnd = { \melismaEnd\unficta }
 
+mensuralTime = \once \override Score.TimeSignature.style = #'mensural
 % got this from a Potharn Imre score:
 doubleTimeSig = { \set Score.measureLength = #(ly:make-moment 1/32) s32 \bar "" }
 

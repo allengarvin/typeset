@@ -10,15 +10,14 @@
 
 \header {
     % Things that change per piece:
-    title = "In decachordo, psalterio"
-    subtitle = "Secunda pars"
-    instrument = "In decachordo, psalterio: Secunda pars (score)"
+    title = "Gloria Patri"
+    subtitle = "Psalm I"
+    instrument = "Gloria Patri: Psalm I (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "in_decachordo_psalterio"
-    shortcomp = "gabrieli"
-    categories = "[]"
+    shorttitle = "gloria_patri"
+    shortcomp = "lasso"
+    categories = "[penitential]"
     needtranslation = #'f
-    folio = "Psalm 91/92:3-4"
 
     % Unchanging:
     language = "latin"
@@ -30,10 +29,10 @@
     tagline = #'f
 }
 
-\include "../parts/14-gabrieli-a5-motet.ly"
+\include "../parts/11-lasso-a5-motet.ly"
 
 \book {
-    \bookOutputName "14-gabrieli--in_decachordo_psalterio-secunda_pars"
+    \bookOutputName "11-lasso--gloria_patri-psalm_i"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,68 +41,57 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusXIVincipitVoice
+                    \incipit \cantusXIincipitVoice
                     \clef "treble"
                     \global
-                    \cantusXIV
+                    \cantusXI
                 >>
-             \addlyrics { \cantusLyricsXIV }
+             \addlyrics { \cantusLyricsXI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusXIVincipitVoice
+                    \incipit \altusXIincipitVoice
                     \clef "treble"
                     \global
-                    \altusXIV
+                    \altusXI
                 >>
-             \addlyrics { \altusLyricsXIV }
+             \addlyrics { \altusLyricsXI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXIVincipitVoice
+                    \incipit \tenorXIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorXIV
+                    \tenorXI
                 >>
-             \addlyrics { \tenorLyricsXIV }
+             \addlyrics { \tenorLyricsXI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quintus"
-                    \incipit \quintusXIVincipitVoice
+                    \incipit \quintusXIincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintusXIV
+                    \quintusXI
                 >>
-             \addlyrics { \quintusLyricsXIV }
+             \addlyrics { \quintusLyricsXI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusXIVincipitVoice
+                    \incipit \bassusXIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusXIV
+                    \bassusXI
                 >>
-             \addlyrics { \bassusLyricsXIV }
+             \addlyrics { \bassusLyricsXI }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 112 2)
+                tempoWholesPerMinute = #(ly:make-moment 108 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { In decachordo, psalterio, }
-                \line { cum cantico, in cithara. }
-                \line { Quia delectasti me, Domine, in factura tua; }
-                \line { et in operibus manuum tuarum exsultabo. }
-            }
-            \column {
-                \line { Upon an instrument of ten strings, and upon the lute: }
-                \line { upon a loud instrument, and upon the harp. }
-                \line { For thou, Lord, hast made me glad through thy works: }
-                \line { and I will rejoice in giving praise for the operations of thy hands. }
-                \line { \hspace #8 1662 \italic { The Book of Common Prayer } }
             }
         }
     }

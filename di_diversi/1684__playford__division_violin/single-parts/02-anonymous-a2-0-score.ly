@@ -17,6 +17,8 @@
     shorttitle = "the_duke_of_norfolk_or_pauls_steeple"
     shortcomp = "anonymous"
     composer = "Anonymous"
+    final = "d"
+    flats = "1"
 
     % Unchanging:
     language = "instrumental"
