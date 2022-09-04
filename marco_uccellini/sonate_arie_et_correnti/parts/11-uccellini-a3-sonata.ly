@@ -1,3 +1,5 @@
+% La leona
+
 cantoOneXIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-g"
@@ -44,12 +46,14 @@ cantoOneXI = \relative c'' {
         f8[ g f e] d4 d cs2 |
 
     d8[ e d c] b4 b a2 | e'8[ f e d] c4 c b2 | c8[ d c b] a4 a gs2 |
-        a1. | \time 4/4 r2 g' | f2. e4 | 
+        a1. | \time 4/4 s1*0 _\markup { "Grave" } r2 g' | f2. e4 | 
 
     e2. e4 | fs2 a, ~ | a4 g g2 ~ | g4 fs8[ e] fs2 | g4 g' f2 | e2. d4 | 
         d2. d4 | e2 d | c2. b4 | b2. b4 | a1 | 
 
-    \time 3/2 R1.*3 | a'2 f a | g2. f4 e2 | d d cs | d r r | R1.*2 |
+    \time 3/2 
+        s1*0 _\markup { "Presto" } 
+        R1.*3 | a'2 f a | g2. f4 e2 | d d cs | d r r | R1.*2 |
         g2 e g | f2. e4 d2 | c c b | c a c | 
 
     b2. a4 g2 | a a gs | \time 4/4 a2 r | r r8 d16[ e] f[ g a b] |
@@ -58,7 +62,9 @@ cantoOneXI = \relative c'' {
     r2 r8 c16[ d] e[ f g a] | g8[ f16 e] d[ e f d] e8[ d16 c] b[ c d b] | 
         c8[ a16 b] c[ d e f] e8[ d16 c] b[ c d b] | 
 
-    c8[ b16 a] gs[ a b gs] a8[ e'] e[ e16 e] | e8[ c] c[ c16 c] b2 | c a |
+    c8[ b16 a] gs[ a b gs] a8[ e'] e[ e16 e] | e8[ c] c[ c16 c] 
+        s1*0 _\markup { "Adagio" } 
+        b2 | c a |
         gs a ~ | a gs | a\longa*1/4
     \bar "|."
 }
@@ -71,9 +77,9 @@ cantoTwoXIincipit = \relative c'' {
     e2
 }
 
+% canto II: checked against source
 cantoTwoXI = \relative c'' {
     \time 4/4
-    \clef treble
     \key c \major
 
     e2 e4 e | a, e' e fs | g4. f16[ e] d8[ e f g] | a4. g16[ f] e8[ f g e] |
@@ -88,7 +94,8 @@ cantoTwoXI = \relative c'' {
     fs8[ fs] d'16[ c b a] | b8[ b] c16[ b a g] a8[ a] b16[ a g f] |
         g8[ g] e'16[ d c b] c8[ c] d16[ c b a] | 
 
-    b4 c2 b4 | c e e e | a, e' e f | g4. f16[ e] d8[ e f g] |
+    b4 c2 b4 | c e e e | a, e' e\ficta fs\unficta | 
+        g4. f16[ e] d8[ e f g] |
         a4 a16[ g f e] f8[ f] d16[ c b a]
 
     b8[ b] a'16[ f e d] f8[ f] g16[ f e d] | 
@@ -117,11 +124,15 @@ cantoTwoXI = \relative c'' {
     b8[ c b a] g4 g a b | c2 r2 r4 g' | a8[ b a g] f4 g e2 | 
         f8[ g f e] d4 e c2 | g'8[ a g f] e4 f d2 | 
 
-    e8[ f e d] c4 d b2 | a1. | \time 4/4 r2 e' ~ | e4 d d2 ~ |
+    e8[ f e d] c4 d b2 | a1. | \time 4/4 
+        s1*0 #(if *is-parts* #{<>_\markup { "Grave" } #})
+        r2 e' ~ | e4 d d2 ~ |
         d4 cs8[ b] cs2 | d c | b2. a4 | a2. a4 | b2 d ~ | d4 c c2 ~ |
         c4 b8[ a] b2 | 
 
-    c4 g b2 ~ | b4 a a2 ~ | a4 gs8[ fs] gs2 | a1 | \time 3/2 e'2 c e | 
+    c4 g b2 ~ | b4 a a2 ~ | a4 gs8[ fs] gs2 | a1 | \time 3/2 
+        s1*0 #(if *is-parts* #{<>_\markup { "Presto" } #})
+        e'2 c e | 
         d2. c4 b2 | a a gs | a r r | R1. R | d2 b d |
 
     c2. b4 a2 | g g fs | g r r | R1.*2 | e'2 c e | d2. c4 b2 | c b1 |
@@ -131,7 +142,9 @@ cantoTwoXI = \relative c'' {
         b8[ a16 g] fs[ g a fs] g2 | R1 | r8 c16[ d] e[ f g a] 
 
     g8[ f16 e] d[ e f d] | e8[ d16 c] b[ c d b] c8[ c] c[ c16 c] | 
-        c8[ e] e[ e16 e] e2 ~ | e d ~ | d c | b1 | a\longa*1/4    
+        c8[ e] e[ e16 e] 
+        s1*0 #(if *is-parts* #{<>_\markup { "Adagio" } #})
+         e2 ~ | e d ~ | d c | b1 | a\longa*1/4    
 
     
     \bar "|."
@@ -167,9 +180,12 @@ bassoXI = \relative c' {
         c4 d e f g2 | e f g | c,1 f2 | d2 e c | d b c | a1 g2 |
 
     c2 f e | d bf' a | g e d | c a' g | f bf4 g a2 | d, g a | c c, g' |
-        c, f4 d e2 | a,1. | \time 4/4 e'1 f2 g | a1
+        c, f4 d e2 | a,1. | \time 4/4 
+        s1*0 #(if *is-parts* #{<>_\markup { "Grave" } #})
+        e'1 f2 g | a1
 
     d,2 a b c | d1 g,2 d' | e f | g1 | c,2 b c d | e1 a, | \time 3/2 
+        s1*0 #(if *is-parts* #{<>_\markup { "Presto" } #})
         a1 a2 | d1 e2 | cs d e | a, d d | g1 a2 |
 
     fs2 g a | d, g g | c,1 d2 | b c d | g, c c | f1 g2 | e f g | c, c c | 
@@ -177,39 +193,47 @@ bassoXI = \relative c' {
         a,4 a' gs2 | a4 e 
 
     a,8[ d] d4 | cs2 d4 a | d8[ g] g4 fs2 | g4 d g8[ c,] c4 ~ |
-        c b c g | c2. g'4 c,8[ d] e4 a,2 | a' gs | a d, | e1 ~ | e |
+        c b c g | c2. g'4 c,8[ d] e4 a,2 | a' 
+        s1*0 #(if *is-parts* #{<>_\markup { "Adagio" } #})
+        gs2 | a d, | e1 ~ | e |
         a,\longa*1/4
     \bar "|."
 }
 
+% figures checked carefully
 figuresXI = \figuremode {
-    s2 <6> s <5 6+> s1*3 | s1 s2 <5 6+> s1 s2 <6> s <4+> | s <6 5> s1 |
+    \figuresDown
+    s2 <6> s <5>4 <6+> s1*2 s2 <_+> | s1 s2 <5>4 <6+> s1 s2 <6> s <4>4 <_+> | 
+        s2 <6>4 <5> s1 |
 
-    s2 <6> s <4+> s1*4 | s2. <_->4 s s s8 <_-> <_->4 | s\breve |
+    s2 <6> s <4>4 <_+> s1 <_-> s2 s8 s <_+>4 | <_+>2 <_+>2 | 
+                       % vv removing flat, doesn't make sense in context
+        s2. <_->4 s s s8 s <_->4 | s\breve |
 
-    s4 <6> <5 6+>1 s\breve <5 6>1 <6>4 <5 6> | s\breve |
-        s1 s2 <4+> % 3/2 time
+    s4 <6> <5> <6+> s2 s\breve <5>4 <6> s2 <6>4 <5>8 <6> | s1 s2. <_->4 % s\breve |
+        s1 <_+>2 <4>4 <_+> % 3/2 time
         s1 <6>2
 
     s1 <6+>2 | s\breve. | s2 s <_+> s <6> s | s <6> <_+> s1. | s2 s <_-> |
-    <_-> s s | s <6> s | s <5 6+>1 | s2 <_-> <6> |
+    <_-> s <_+> | s s <6> | s <5>2 <6+> | s2 <_-> <6> |
 
     s1 <_+>2 s1. | s\breve. | s\breve. | <6>1. | s <6> s\breve. s1. <5> |
     
-    s1 <5 6>2 s1 <5 6>2 | s1. s1 <5 6>2 | s1 <_+>2 <_-> <5 6> s |
-        s\breve. s1. % time 4/4
+    s1 <5>4 <6> s1 <5>4 <6> | s1. s1 <5>4 <6> | s1 <_+>2 <_-> <5>4 <6> s2 |
+        s1. s2 s <_+> s1. % time 4/4
 
-    s1 <7 6>2 <7 6> <4+>1 | 
-    s1 <7 6>2 <7 6> <4+>1 | 
-    s1 <7 6>2 <7 6> <4 3>1 | 
-    s1 <7 6>2 <7 6> <4+>1 s1 | 
-    <_->1 s2 | s1 <5>2 <6> <_+> s1 <_->2 s s1. |
+    s1 <7>4 <6> <7> <6> <4>2 <_+>2 | 
+    s1 <7>4 <6> <7> <6> <4>2 <_+> | 
+    s1 <7>4 <6> <7> <6> <4>2 <3> | 
+    s1 <7>4 <6> <7> <6> <4>2 <_+>2 s1 | 
+    <_->1 s2 | s1 <5>2 <6> s2 <_+> s <_->2 s s1. |
 
     <6>2 s <_+> s1. | s1. | <6>2 s <_+> | s\breve. | <6>1. | s2 <6> s | s1. |
-        s2 <4+>1 | s1 <_->2 
+        s2 <4> <_+> | % 4/4
+        s1 | <_->4 <_+> 
 
     s2 | <6> <_->4 <_+> s2 <6> | s4 <_+> s2 s1 | s1 s4 <_+> <_->2 <_-> <6> |
-    <_->1
+    <_->1 <7+>2 <6 4> <5>2 <_+>
 
     
 }
