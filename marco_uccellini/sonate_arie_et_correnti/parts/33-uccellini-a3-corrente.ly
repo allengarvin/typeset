@@ -3,13 +3,13 @@
 cantoOneXXXIIIincipit = \relative c''' {
     \clef "petrucci-g"
     \key c \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     g2
 }
 
+% canto I: checked against source
 cantoOneXXXIII = \relative c''' {
-    \clef treble
     \key c \major
     \time 3/2
 
@@ -35,13 +35,13 @@ cantoOneXXXIII = \relative c''' {
 cantoTwoXXXIIIincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     e2
 }
 
+% canto 2: checked against source
 cantoTwoXXXIII = \relative c'' {
-    \clef treble
     \key c \major
     \time 3/2
 
@@ -54,7 +54,7 @@ cantoTwoXXXIII = \relative c'' {
     \alternative { { c1 e2 } { c1 c2 } }
     \repeat volta 2 {
         d1 d2 | e d cs | d e4 d e d | c2 b4 a b a | gs1 a2 | a1 gs2 |
-        \colorBr a2\colorBrBegin e1\colorBrEnd e1 | f2 g f | e1 d2 | e1 f2 |
+        \colorBr a2\colorBrBegin e1\colorBrEnd | f2 g f | e1 d2 | e1 f2 |
         g2. f4 e c | c'1 b2 | c1.
     }
     \alternative { { c1 c2 } { c\longa*3/8 } }
@@ -69,8 +69,8 @@ bassoXXXIIIincipit = \relative c' {
     c2
 }
 
+% basso: checked against source
 bassoXXXIII = \relative c' {
-    \clef bass
     \key c \major
     \time 3/2
 

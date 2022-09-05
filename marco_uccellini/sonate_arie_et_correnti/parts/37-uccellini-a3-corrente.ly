@@ -17,7 +17,7 @@ cantoOneXXXVII = \relative c'' {
 cantoTwoXXXVIIincipit = \relative c'' {
     \clef "petrucci-g"
     \key f \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     f2
 }
@@ -45,7 +45,7 @@ cantoTwoXXXVII = \relative c'' {
 bassoXXXVIIincipit = \relative c {
     \clef "petrucci-f4"
     \key f \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     d2
 }

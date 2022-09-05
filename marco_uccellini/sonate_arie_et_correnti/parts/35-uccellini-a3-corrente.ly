@@ -2,13 +2,13 @@
 cantoOneXXXVincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     d2
 }
 
+% canto I: checked against source
 cantoOneXXXV = \relative c'' {
-    \clef treble
     \key c \major
     \time 3/2
 
@@ -35,13 +35,13 @@ cantoOneXXXV = \relative c'' {
 cantoTwoXXXVincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     b2
 }
 
+% canto: checked against source
 cantoTwoXXXV = \relative c'' {
-    \clef treble
     \key c \major
     \time 3/2
 
@@ -68,13 +68,13 @@ cantoTwoXXXV = \relative c'' {
 bassoXXXVincipit = \relative c' {
     \clef "petrucci-f4"
     \key c \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     g2
 }
 
+% basso: Checked against source
 bassoXXXV = \relative c' {
-    \clef bass
     \key c \major
     \time 3/2
 

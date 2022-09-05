@@ -17,7 +17,7 @@ cantoOneXXXIX = \relative c'' {
 cantoTwoXXXIXincipit = \relative c'' {
     \clef "petrucci-g"
     \key f \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     ef2
 }
@@ -50,7 +50,7 @@ cantoTwoXXXIX = \relative c'' {
 bassoXXXIX = \relative c' {
     \clef bass
     \key f \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     \partial 2 c2
     \repeat volta 2 {

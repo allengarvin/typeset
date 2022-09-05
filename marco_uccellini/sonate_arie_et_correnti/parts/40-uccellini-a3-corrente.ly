@@ -17,7 +17,7 @@ cantoOneXL = \relative c'' {
 cantoTwoXLincipit = \relative c'' {
     \clef "petrucci-g"
     \key f \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     bf2
 }
@@ -50,7 +50,7 @@ cantoTwoXL = \relative c'' {
 bassoXLincipit = \relative c' {
     \clef "petrucci-f4"
     \key f \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     g2
 }

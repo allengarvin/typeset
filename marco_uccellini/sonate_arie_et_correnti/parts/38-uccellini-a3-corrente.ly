@@ -17,7 +17,7 @@ cantoOneXXXVIII = \relative c'' {
 cantoTwoXXXVIIIincipit = \relative c' {
     \clef "petrucci-g"
     \key d \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     d2
 }
@@ -45,6 +45,14 @@ cantoTwoXXXVIII = \relative c' {
     }
     \alternative { { d1 d2 } { d\longa*3/8 } }
     \bar "|."
+}
+
+bassoXXXVIIIincipit = \relative c' {
+    \clef "petrucci-f4"
+    \key d \major
+    \time 6/4 \doubleTimeSig \time 3/1
+
+    d2
 }
 
 bassoXXXVIII = \relative c' {

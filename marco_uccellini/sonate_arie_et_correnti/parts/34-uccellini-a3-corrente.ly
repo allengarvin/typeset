@@ -2,29 +2,29 @@
 cantoOneXXXIVincipit = \relative c''' {
     \clef "petrucci-g"
     \key d \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     a2
 }
 
+% canto I: checked against source
 cantoOneXXXIV = \relative c''' {
-    \clef treble
     \key d \major
     \time 3/2
 
     \partial 2 a2
     \repeat volta 2 {
-        a2 fs8[ e fs g] fs2 | e1 d2 | c1 b2 | a a' a | fs b b | g1 fs2 |
+        a2 fs8[ e fs g] fs2 | e1 d2 | cs1 b2 | a a' a | fs b b | g1 fs2 |
         \colorBr g2\colorBrBegin a1\colorBrEnd | e1. | r2 d d |
 
-        b2 e e | c1 d2 | d1 cs2 | d1. 
+        b2 e e | cs1 d2 | d1 cs2 | d1. 
     }
     \alternative { { d1 a'2 } { d,1 e2 } }
     \repeat volta 2 {
         e2. fs4 e2 | d cs1 | b2 b'4 a g fs | g2 a4 g fs e | 
         fs2. g4 a2 | fs2. g4 a2 |
 
-    e1 fs23 | g1 a2 \colorBr a2\colorBrBegin gs1\colorBrEnd | a2 e fs |
+    e1 fs2 | g1 a2 \colorBr a2\colorBrBegin gs1\colorBrEnd | a2 e fs |
         g a4 g fs e | \colorBr fs2\colorBrBegin e1\colorBrEnd | d1.
     }
     \alternative { { d1 e2 } { d\longa*3/8 } }
@@ -34,11 +34,12 @@ cantoOneXXXIV = \relative c''' {
 cantoTwoXXXIVincipit = \relative c'' {
     \clef "petrucci-g"
     \key d \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     fs2
 }
 
+% canto 2: checked against source
 cantoTwoXXXIV = \relative c'' {
     \clef treble
     \key d \major
@@ -65,13 +66,13 @@ cantoTwoXXXIV = \relative c'' {
 bassoXXXIVincipit = \relative c {
     \clef "petrucci-f4"
     \key d \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     d2
 }
 
+% basso: checked against source
 bassoXXXIV = \relative c {
-    \clef bass
     \key d \major
     \time 3/2
 
@@ -84,7 +85,7 @@ bassoXXXIV = \relative c {
     }
     \alternative { { d1 d2 } { d1 a2 } }
     \repeat volta 2 {
-        a'1 a2 | \colorBr b2\colorBrBegin fs1\colorBrEnd | b,1. b2 | 
+        a'1 a2 | \colorBr b2\colorBrBegin fs1\colorBrEnd | b,1 b2 | 
         g1 d'2 | d2. e4 fs2 | fs1. | a2 g fs | e d cs | b1 b2 | a1 a2 | 
         \colorBr g1 \colorBrBegin d'2 ~ | d a1\colorBrEnd | d,1.
     }

@@ -1,23 +1,39 @@
 % corrente XIII, La Banda
+cantoOneXLIincipit = \relative c'' {
+    \clef "petrucci-g"
+    \key f \major
+    \time 6/4 \doubleTimeSig \time 3/1
+
+    a2
+}
+
 cantoOneXLI = \relative c'' {
     \clef treble
     \key f \major
     \time 3/2
 
-    \partial 2
+    \partial 2 a2
     \repeat volta 2 {
+        a4 g a bf c2 | bf1 a2 | g4 f g a bf2 | a1 g2 | f4 e f g a2 |
+        g1 f2 | e2. a8[ g] f2 | g e1 | d2 f' e | d c2. bf4 | 
+
+        a2 c' bf | a g2. f4 | e2 g f | f1 e2 | f1.
     }
-    \alternative { { } { } }
+    \alternative { { f1 a,2 } { f'1 d2 } }
     \repeat volta 2 {
+        d4 c bf c d bf | c bf a bf c a | bf2. a8[ bf] c2 | bf a1 | g2 bf4 c d e|
+
+        f1 g2 | c,1 d2 | e1 fs2 | g f e | d c bf | a4 g a bf c2 | c1 b2 | 
+        c2. bf4 a2 | \colorBr bf2\colorBrBegin g1\colorBrEnd | a1.
     }
-    \alternative { { } { } }
+    \alternative { { a1 d2 } { a\longa*3/8 } }
     \bar "|."
 }
 
 cantoTwoXLIincipit = \relative c' {
     \clef "petrucci-g"
     \key f \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     f2
 }
@@ -50,7 +66,7 @@ cantoTwoXLI = \relative c' {
 bassoXLI = \relative c {
     \clef bass
     \key f \major
-    \time 3/2
+    \time 6/4 \doubleTimeSig \time 3/1
 
     \partial 2 f2
     \repeat volta 2 {
