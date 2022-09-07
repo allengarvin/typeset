@@ -7,6 +7,32 @@ import os, sys, argparse, re, collections, datetime, subprocess, glob
 
 
 composers = {
+'Giuseppe Giamberti (c.1600-c.1663)' : 'giamberti',
+'Marco Uccellini (c.1603-1680)' : 'uccellini',
+'Aurelio Bonelli (1569-c.1620)' : 'bonelli',
+'John Ward (1571-1638)' : 'ward',
+ "Vittoria Aleotti (c.1575-c.1620)" : "v_aleotti",
+ 'John Coprario (c.1570s-1626)' : "coperario",
+ 'John Jenkins (1592-1678)' : "jenkinks",
+ 'R. Golder (fl. 1600)' : "golder", 
+ 'John Mundy (c.1555-1630)' : "mundy",
+
+"Joannes Baptista Zesso (fl. early 16c)" : "zesso",
+    "Giacomo Bonzanini (fl.1616)" : "bonzanini",
+'Giovanni Battista Buonamente (c.1595-1642)' : "buonamente",
+'[Gaspar van Weerbeke (c.1455-c.1516)] (poss. Obrecht or Isaac)' : 'van_weerbeke',
+'Claude Goudimel (c.1514-1572)' : 'goudimel',
+'Johann Walter (1496-1570)' : 'walther',
+'Richard Allison (c.1560-c.1610)' : 'allison',
+'John Farmer (c.1570-1605)': 'farmer',
+'Richard Alison (c.1560-c.1610)': 'alison',
+'Thomas Ravenscroft (c.1592-c.1635)': 'ravenscroft',
+'Antonius Capriolus [Antonio Caprioli (fl.c.1425-1475)]' : 'caprioli',
+'Cesario Gussago (fl.1599-1612)' : 'gussago',
+'Lodovico Agostini (1534-1590)' : 'agostini',
+'Cipriano de Rore / Basso parte by Giovanni Bassano (c.1561-1617)': "rore",
+"John Reading (c.1645-1692)" : "reading",
+'Cesario Gussago (fl.1599-1612)' : "gussago",
 'Adam Jarzębski (late 16c-1648)' : "jarzebski",
 "Adam Rener (c.1482-c.1520)" : "rener",
 "Adriano Banchieri (1568-1634)" :  "banchieri",
@@ -560,6 +586,25 @@ def strip_home(p):
 
     #return p[p.index("typeset.new")+12:]
 
+def cap_proper(s):
+    if "/" not in s:
+        return s
+
+    new_s = ""
+
+    flag = False
+    for i, c in enumerate(s):
+        
+        if c == "/":
+            flag = True
+            new_s += " / "
+        elif flag:
+            new_s += c.upper()
+            flag = False
+        else:
+            new_s += c
+    return new_s
+
 def gen_composer_file(short, long, style):
     fd = open("/home/agarvin/typeset.new/comp-%s.html" % short, "w")
     fd.write("""<!DOCTYPE html>
@@ -701,7 +746,7 @@ def generate_files(pieces):
 
         fd.write("    </table>\n")
         fd.write("<br /><br /><br /><br />\n")
-        fd.write("    <div id='by_note'>Index files inspired by by Peter Payzant</div></div>\n")
+        fd.write("    <div id='by_note'>Index files inspired by Peter Payzant</div></div>\n")
         fd.write("  </body>\n</html>\n")
         fd.close()
 
@@ -732,9 +777,14 @@ def generate_files(pieces):
       <div id='hdr'>Hawthorne Early Music editions</div>
       <ul>
 """.format(datetime.datetime.now().strftime("%F")))
+
+    all_total = 0
     for pn in sorted(per_number.keys()):
-        fd.write("<li><a href='a{0}-pieces.html'>à {1}</a>\n".format(pn, pn))
+        fd.write("<li><a href='a{0}-pieces.html'>à {1}</a> ({2} piece{3})\n".format(pn, pn, len(per_number[pn]), "s" if len(per_number[pn]) > 1 else ""))
+        all_total += len(per_number[pn])
     fd.write("</ul><p>\n")
+    fd.write("Total pieces: {0}<br /><br />\n".format(all_total))
+
     fd.write("Languages:<br>\n<ul>\n")
     print language_count
     for lang in language_files.keys():
@@ -742,7 +792,7 @@ def generate_files(pieces):
             plural = "s"
         else:
             plural = ""
-        fd.write('  <li> <a href="lang-{0}.html">{1}</a> ({2} piece{3})</li>\n'.format(lang, lang.capitalize(), language_count[lang], plural))
+        fd.write('  <li> <a href="lang-{0}.html">{1}</a> ({2} piece{3})</li>\n'.format(lang.replace("/", "-"), cap_proper(lang.capitalize()), language_count[lang], plural))
 
     fd.write("</ul><p>\n")
 
