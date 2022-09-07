@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -6,72 +6,74 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 16.0)
+
 \header {
     % Things that change per piece:
-    title = "Canzon V"
-
-    % Things that change per part:
-    composer = "Claudio Merulo (1533-1604)"
-    instrument = "Canzon V (score)"
+    title = "Ricercar V"
+    subtitle = ""
+    instrument = "Ricercar V:  (score)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "ricercar_v"
+    shortcomp = "cima"
+    categories = "[canzona]"
+    final = "f"
+    flats = 1
 
     % Unchanging:
-    lastupdated = "2013-04-28"
-    flats = 1
-    final = "g"
-    categories = "[canzona]"
-    \include "include/distribution-header.ly"
     language = "instrumental"
+    lastupdated = "2022-09-07"
+    originallyset = "2022-09-07"
+    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/05-merulo-a4-canzon.ly"
-    
+\include "../parts/05-cima-a4-ricercar.ly"
+
 \book {
-    \bookOutputName "05-merulo--canzon_quinta-a4"
+    \bookOutputName "05-cima--ricercar_v-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
                 \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
-                \new Voice << 
+                \new Voice <<
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoVincipitVoice
-                    \clef treble 
-                    \global 
-                    \cantoV 
+                    \clef "treble"
+                    \global
+                    \cantoV
                 >>
-                \new Voice << 
+                \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoVincipitVoice
-                    \clef treble
-                    \global 
-                    \altoV 
+                    \clef "treble"
+                    \global
+                    \altoV
                 >>
-                \new Voice << 
+                \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreVincipitVoice
                     \clef "treble_8"
-                    \global 
-                    \tenoreV 
+                    \global
+                    \tenoreV
                 >>
-                \new Voice << 
+                \new Voice <<
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoVincipitVoice
                     \clef "bass"
-                    \global 
-                    \bassoV 
+                    \global
+                    \bassoV
                 >>
-            >>
-        >>
+             >>
+         >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 72 2)
+                tempoWholesPerMinute = #(ly:make-moment 116 2)
             }
         }
     }   
 }
-

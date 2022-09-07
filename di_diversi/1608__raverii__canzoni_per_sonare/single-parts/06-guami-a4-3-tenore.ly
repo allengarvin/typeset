@@ -9,11 +9,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Canzon sesta"
+    title = "Canzon VI"
 
     % Things that change per part:
     composer = "Gioseffo Guami (1542-1611)"
-    instrument = "Canzon sesta (tenore)"
+    instrument = "Canzon VI (tenore)"
     partname = "Tenore (part 3 of 4)"
 
     % Unchanging:

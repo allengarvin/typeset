@@ -9,11 +9,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Canzon quinta"
+    title = "Canzon V"
 
     % Things that change per part:
     composer = "Claudio Merulo (1533-1604)"
-    instrument = "Canzon quinta (alto)"
+    instrument = "Canzon V (alto)"
     partname = "Alto (part 2 of 4)"
 
     % Unchanging:

@@ -11,11 +11,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Canzon seconda"
+    title = "Canzon II"
 
     % Things that change per part:
     composer = "Giovanni Gabrieli (1557-1617)"
-    instrument = "Canzon seconda (canto)"
+    instrument = "Canzon II (canto)"
     partname = "Canto (part 1 of 4)"
 
     % Unchanging:

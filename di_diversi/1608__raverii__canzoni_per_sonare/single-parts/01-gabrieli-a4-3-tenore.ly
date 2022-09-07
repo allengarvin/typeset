@@ -9,13 +9,13 @@
 
 \header {
     % Things that change per piece:
-    title = "Canzon prima"
-    subtitle = "La Spiritata"
-    instrument = "Canzon prima: La Spiritata (tenore)"
+    title = "Canzon I"
+    subtitle = "La spiritata"
+    instrument = "Canzon I: La Spiritata (tenore)"
 
     % Things that change per part:
     partname = "Tenore (part 3 of 4)"
-    instrument = "Canzon prima: La Spiritata (tenore)"
+    instrument = "Canzon I: La Spiritata (tenore)"
     composer = "Giovanni Gabrieli (c.1557-1612)"
 
     % Unchanging:

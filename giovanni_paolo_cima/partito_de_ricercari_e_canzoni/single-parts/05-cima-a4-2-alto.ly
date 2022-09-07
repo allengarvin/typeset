@@ -1,4 +1,4 @@
-\version "2.16.0"
+\version "2.18.2"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
@@ -9,52 +9,50 @@
 
 \header {
     % Things that change per piece:
-    title = "Canzon VI"
+    title = "Ricercar V"
+    subtitle = ""
+    instrument = "Ricercar V:  (alto)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "ricercar_v"
+    shortcomp = "cima"
 
     % Things that change per part:
-    composer = "Gioseffo Guami (1542-1611)"
-    instrument = "Canzon VI (alto)"
     partname = "Alto (part 2 of 4)"
+    instrument = "Ricercar V:  (alto)"
 
     % Unchanging:
-    lastupdated = "2013-04-16"
+    lastupdated = "2022-09-07"
+    originallyset = "2022-09-07"
     \include "include/distribution-header.ly"
-    language = "instrumental"
     tagline = #'f
 }
 
-\include "../parts/06-guami-a4-canzon.ly"
-    
+\include "../parts/05-cima-a4-ricercar.ly"
+
 \book {
-    \bookOutputName "06-guami--canzon_sesta-a4"
+    \bookOutputName "05-cima--ricercar_v-"
     \bookOutputSuffix "--2-alto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef treble
+            \clef "treble"
             \global 
-            \altoVI 
+            \altoV
         >>
-        \header {
-            partname = "Alto"
-        }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "06-guami--canzon_sesta-a4"
+    \bookOutputName "05-cima--ricercar_v-"
     \bookOutputSuffix "--2-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef alto 
+            \clef "alto"
             \global 
-            \altoVI 
+            \altoV
         >>
-        \header {
-            partname = "Alto"
-        }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

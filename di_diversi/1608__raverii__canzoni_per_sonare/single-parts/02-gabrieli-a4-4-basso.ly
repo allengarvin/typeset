@@ -10,11 +10,11 @@
 #(set-global-staff-size 18.2)
 \header {
     % Things that change per piece:
-    title = "Canzon seconda"
+    title = "Canzon II"
 
     % Things that change per part:
     composer = "Giovanni Gabrieli (1557-1617)"
-    instrument = "Canzon seconda (basso)"
+    instrument = "Canzon II (basso)"
     partname = "Basso (part 4 of 4)"
 
     % Unchanging:
