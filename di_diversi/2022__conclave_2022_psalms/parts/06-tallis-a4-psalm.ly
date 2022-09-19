@@ -70,7 +70,7 @@ meaneVI =  \relative c' {
     \repeat volta 3 {
     \invisibleTime\time 6/2 e2 e2 e e1. |
     \invisibleTime\time 5/2 e2 a a gs1 |
-    \invisibleTime\time 9/2 gs2 gs1 fs2\ficta gs!\unficta a gs1 r2 
+    \invisibleTime\time 9/2 gs2 gs1 fs2 gs a gs1 r2 
 
     \invisibleTime\time 6/2 gs2 gs gs gs1. |
     \invisibleTime\time 5/2 b2 a a gs1 |

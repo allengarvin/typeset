@@ -11,8 +11,8 @@ cantusOneXLVincipit = \relative c'' {
     g1
 }
 
+% cantus I: checked against source
 cantusOneXLV = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCommonTime
 
@@ -49,24 +49,25 @@ cantusOneXLV = \relative c'' {
 }
 
 cantusOneLyricsXLV = \lyricmode {
-%    Lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%        gen -- tes;
-%    lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li.
-%
-%    Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%        su -- per nos,
-%        su -- per nos,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%                Do -- mi -- ni
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            ma -- net in æ -- ter -- num,
+    Lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
+    Lau -- da -- te e -- um om -- nes po -- pu -- li,
+            po -- pu -- li,
+    lau -- da -- te e -- um om -- nes po -- pu -- li.
+
+    Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+    quo -- ni -- am,
+    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+            ma -- net in æ -- ter -- num,
+            et ve -- ri -- tas Do -- mi -- ni,
+            ma -- net in æ -- ter -- num,
+                in æ -- ter -- num,
+            et ve -- ri -- tas Do -- mi -- ni,
+            ma -- net in æ -- ter -- num,
+            ma -- net in æ -- ter -- num.
 %            ma -- net in æ -- ter -- num,
 %                in æ -- ter -- num,
 %            ma -- net in æ -- ter -- num,
@@ -82,8 +83,8 @@ cantusTwoXLVincipit = \relative c' {
     d2
 }
 
+% cantus: checked against source
 cantusTwoXLV = \relative c' {
-    \clef soprano
     \key c \major
     \fourTwoCommonTime
 
@@ -94,9 +95,9 @@ cantusTwoXLV = \relative c' {
     fs2) g g ~ | g4 e a1 a2 | g\breve | R | r2 a
 
     b2 b | c1 a2 d ~ | d b c4( d e2 ~ | e4 d d1) cs2 | d\breve |
-        r2 g, d' a | b1 g2 c4 b |
+        r2 g, d' a | b1 g2 c4( b |
 
-    a4 d, a'2. a4 | a1 a2. bf4 | a1 r1 | R\breve | r1 r2 e ~ |
+    a2) d, a'2. a4 | a1 a2. bf4 | a1 r1 | R\breve | r1 r2 e ~ |
         e4 d e2 r2 c' ~ | c4 b c2 b g |
 
     b1. a2 | gs a1 gs2 | a1 e2. f4 | g\breve | R\breve*2 | r1 r2 e' ~ |
@@ -113,36 +114,36 @@ cantusTwoXLV = \relative c' {
         r2 g c4. b8 a2 |
 
     b2. cs4 d1 | R\breve | r1 a | b2 d4 b c1 | d r2 d ~ | d b a4 g a2 ~ |
-        a4 g g1 fs2 | g1 r1 | 
+        a4( g g1 fs2) | g1 r1 | 
 
     r2 d'1 e2 | d2.( c8[ b] a4 b c2 ~ | c b a1) | b\longa*1/2
     \bar "|."
 }
 
 cantusTwoLyricsXLV = \lyricmode {
-%    Lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%        gen -- tes;
-%    lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li.
-%
-%    Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%        su -- per nos,
-%        su -- per nos,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%                Do -- mi -- ni
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            ma -- net in æ -- ter -- num,
-%            ma -- net in æ -- ter -- num,
-%                in æ -- ter -- num,
-%            ma -- net in æ -- ter -- num,
-%                in æ -- ter -- num,
-%                in æ -- ter -- num.
+    Lau -- da -- te,
+    lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
+        om -- nes gen -- tes,
+        om -- nes po -- pu -- li,
+    Lau -- da -- te e -- um om -- nes po -- pu -- li,
+    lau -- da -- te e -- um om -- nes po -- pu -- li,
+        po -- pu -- li.
+
+    Quo -- ni -- am,
+    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+        su -- per nos,
+    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+            et ve -- ri -- tas Do -- mi -- ni,
+            ma -- net in æ -- ter -- num,
+                in æ -- ter -- num,
+            et ve -- ri -- tas Do -- mi -- ni,
+            ma -- net in æ -- ter -- num,
+    \ijLyrics
+            ma -- net in æ -- ter -- num,
+    \normalLyrics
+                in æ -- ter -- num.
 }
 
 contratenorXLVincipit = \relative c' {
@@ -153,8 +154,8 @@ contratenorXLVincipit = \relative c' {
     g1
 }
 
+% contratenor: checked against source
 contratenorXLV = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -170,13 +171,13 @@ contratenorXLV = \relative c' {
     r2 d'| d d e g | d f e2. e4 | d1 r2 f ~ | f4 e f2 e c | e1. d2 |
         cs d1 c2 |
 
-    b1 c2. f4 | e2 c g'1 ~ | g2 d2.( e4 f) d | e2 a, b e, | e1 r2 e' ~ |
+    b1 c2. f4 | e2 c g'1 ~ | g2 d2.( e4 f) d | e2 a,( b) e, | e1 r2 e' ~ |
         e4 d e2 d b |
 
     d2 a e'1 | e2. b4 c2 c ~ | c d g,1 | r1 d'2 g ~ | g4 a b2. a4 a2 |
         gs4( a2 gs4) a2. e4 |
 
-    f2 d f4. e8 e2 ~ | e4( d8[ c] b2) a1 | R\breve*2 | r1 r2 f' | f g a2. g4 |
+    f2 d f4. e8 e2 ~ | e4 d8([ c] b2) a1 | R\breve R | r1 r2 f' | f g a2. g4 |
         f4. e8( d4 f) e1 | 
 
     % --- page ---
@@ -186,40 +187,45 @@ contratenorXLV = \relative c' {
     r2 c, ~ | c b a4 g a2 | d, d' f4. e8 d2 | e2. fs4 g1 | r1 c, |
         b2 g4 b a1 |
 
-    g2 d'2. c4 a2( | b) c r1 | g' fs2 d4 e8([ fs] | 
+    g2 d'2. c4 a2( | b) c r1 | g' fs2 d4 e8([ fs]) | 
         g4.( f8 e4 d f e2 d8[ c] |
 
     e4 d g1 fs2) | g1 r1 | r1 d | b2 g4 b c( b a d) | d1 r2 d ~ |
-        d b a4 g c2 ~ | c4 b a2
+        d b a4 g c2 ~ | c4( b a2
 
-    d2 c | a d1 e2 | d2.( c8[ b] d4 c a2) | d\longa*1/2
+    d2 c) | a d1 e2 | d2.( c8[ b] d4 c a2) | d\longa*1/2
     \bar "|."
 }
 
 contratenorLyricsXLV = \lyricmode {
-%    Lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%        gen -- tes;
-%    lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li.
-%
-%    Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%        su -- per nos,
-%        su -- per nos,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%                Do -- mi -- ni
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            ma -- net in æ -- ter -- num,
-%            ma -- net in æ -- ter -- num,
-%                in æ -- ter -- num,
-%            ma -- net in æ -- ter -- num,
-%                in æ -- ter -- num,
-%                in æ -- ter -- num.
+    Lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
+    lau -- da -- te Do -- mi -- num,
+        Do -- mi -- num om -- nes gen -- tes,
+    Lau -- da -- te e -- um om -- nes po -- pu -- li,
+    lau -- da -- te e -- um om -- nes po -- pu -- li,
+        po -- pu -- li, __
+    lau -- da -- te e -- um om -- nes po -- pu -- li.
+
+    Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+        con -- fir -- ma -- ta est __ su -- per nos,
+            su -- per nos,
+    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+        su -- per nos,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+        mi -- se -- ri -- cor -- di -- a __ e -- jus,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+            et ve -- ri -- tas Do -- mi -- ni,
+            ma -- net in æ -- ter -- num,
+            et ve -- ri -- tas Do -- mi -- ni,
+            ma -- net in æ -- ter -- num,
+                in æ -- ter -- num,
+            ma -- net in æ -- ter -- num,
+            ma -- net in æ -- ter -- num,
+    \ijLyrics
+            ma -- net in æ -- ter -- num,
+    \normalLyrics
+                in æ -- ter -- num.
 }
 
 tenorXLVincipit = \relative c' {
@@ -230,8 +236,8 @@ tenorXLVincipit = \relative c' {
     a2
 }
 
+% tenor: checked against source
 tenorXLV = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -253,46 +259,57 @@ tenorXLV = \relative c' {
     r2 a | a b c4. c8 g2 | g2.( a4 b c d e) | d1 e ~ | e a, | R\breve | 
         b1 c2 c | d2. d4 c2 c4( d |
 
-    e4 f d2) e1 | r1 r2 c | c d f2. e4 | d1 c4 b a b | c d b2 a1 | R\breve | 
+    e4 f d2) e1 | r1 r2 c | c d f2. e4 | d1 c4( b a b | c d b2) a1 | R\breve | 
+    % --- page ---
 
-    r2 a b4. a8 g2 | a2. b4 c1 | r2 c d4. c8 b2 | c f, g1 | a2 g2. e4 c2 | 
+    r2 a b4. a8 g2 | a2. b4 c1 | r2 c d4. c8 b2 | c f, g1 | a2( g2.) e4 c2 | 
         r1 f | e2
 
     c4. e8 d2 g | c,4( d8[ e] f4) g a1 | d,2 b' c4. b8 a2 |
-        b1 c2 d | e1 c | b2 g4 e 
+        b1 c2( d) | e1 c | b2 g4 e 
 
     a1 | g2 g1 fs2 | g e d1 | g4 b2 d4 e1 | d r1 | d\breve | b2 g4 b a( g a2) |
         g1
 
-    c2. b4 | a( g fs g a g2 fs8[ e] | fs2. g4) a2 a ~ | a d a d, |
+    c2. b4 | a( g fs g a g2 fs8[ e] | fs2. g4) a2 a ~ | a d a( d,) |
         d\longa*1/2
     \bar "|."
 }
 
 tenorLyricsXLV = \lyricmode {
-%    Lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%        gen -- tes;
-%    lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li.
-%
-%    Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%        su -- per nos,
-%        su -- per nos,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%                Do -- mi -- ni
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            ma -- net in æ -- ter -- num,
-%            ma -- net in æ -- ter -- num,
-%                in æ -- ter -- num,
-%            ma -- net in æ -- ter -- num,
-%                in æ -- ter -- num,
-%                in æ -- ter -- num.
+    Lau -- da -- te Do -- mi -- num,
+    \ijLyrics
+    lau -- da -- te Do -- mi -- num
+    \normalLyrics
+        om -- nes gen -- tes,
+    \ijLyrics
+        om -- nes gen -- tes,
+    \normalLyrics
+    Lau -- da -- te e -- um om -- nes po -- pu -- li,
+        om -- nes po -- pu -- li,
+    lau -- da -- te e -- um om -- nes po -- pu -- li,
+        om -- nes po -- pu -- li.
+
+    Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+            e -- jus,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+    \ijLyrics
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+    \normalLyrics
+            et ve -- ri -- tas Do -- mi -- ni,
+            et ve -- ri -- tas Do -- mi -- ni,
+                Do -- mi -- ni
+            ma -- net in æ -- ter -- num,
+                in __ æ -- ter -- num,
+            et ve -- ri -- tas Do -- mi -- ni
+            ma -- net in æ -- ter -- num,
+            ma -- net in æ -- ter -- num,
+                in æ -- ter -- num,
+            ma -- net in æ -- ter -- num,
+                in æ -- ter -- num,
+                in __ æ -- ter -- num.
 }
 
 bassusOneXLVincipit = \relative c {
@@ -303,8 +320,8 @@ bassusOneXLVincipit = \relative c {
     g2
 }
 
+% bassus I: checked against source
 bassusOneXLV = \relative c {
-    \clef bass
     \key c \major
     \fourTwoCommonTime
 
@@ -314,11 +331,12 @@ bassusOneXLV = \relative c {
 
     g,1 r2 d' | g1 e2 a ~ | a4 a d,2 r1 | a4. b8 
 
-    c1 g2 | r1 g | c2 a d1 | b2 e1 c2 | c f e2. e4 | d\breve | R\breve*3 |
+    c1 g2 | r1 g | c2 a d1 | b2 e1 c2 | c( f e2.) e4 | d\breve | R\breve |
+        R\breve*2
         r1 r2 d | e e f1 | d2
 
-    g1 e2 | f4( g a2. g4) e2 | fs1 r1 | R\breve*7 | r2 a2. g4 a2 | g e g1 ~ |
-        g2 f e1 |
+    g1 e2 | f4( g a2. g4) e2 | fs1 r1 | R\breve*3 R\breve*4 | 
+        r2 a2. g4 a2 | g e g1 ~ | g2 f e1 |
 
     e2. e4 a,1 | r1 r2 c' ~ | c4 b c2 b g | b2.( a4 gs2) a | e1 f2.( e4 |
         d2) b a 
@@ -334,34 +352,31 @@ bassusOneXLV = \relative c {
 
     b( g c b a1) | g r1 | r1 c' | b2 g4 b a1 | g d2 d | g d r d ~ | d e c a |
 
-    e2.( e4 fs g e c) | d1 r1 | fs2 g a1 | g\longa*1/2
+    d2.( e4 fs g e c) | d1 r1 | fs2 g a1 | g\longa*1/2
     \bar "|."
 }
 
 bassusOneLyricsXLV = \lyricmode {
-%    Lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%        gen -- tes;
-%    lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    lau -- da -- te e -- um, om -- nes po -- pu -- li,
-%    Lau -- da -- te e -- um, om -- nes po -- pu -- li.
-%
-%    Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
-%        su -- per nos,
-%        su -- per nos,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%        mi -- se -- ri -- cor -- di -- a e -- jus,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%                Do -- mi -- ni
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            et ve -- ri -- tas Do -- mi -- ni,
-%            ma -- net in æ -- ter -- num,
-%            ma -- net in æ -- ter -- num,
-%                in æ -- ter -- num,
-%            ma -- net in æ -- ter -- num,
-%                in æ -- ter -- num,
-%                in æ -- ter -- num.
+    Lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
+    lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
+    Lau -- da -- te e -- um om -- nes po -- pu -- li,
+    lau -- da -- te e -- um om -- nes po -- pu -- li.
+
+    Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+    quo -- ni -- am con -- fir -- ma -- ta est su -- per nos,
+        su -- per nos,
+        mi -- se -- ri -- cor -- di -- a e -- jus,
+            e -- jus,
+            et ve -- ri -- tas Do -- mi -- ni,
+            et ve -- ri -- tas Do -- mi -- ni,
+            ma -- net in æ -- ter -- num,
+                in æ -- ter -- num,
+            et ve -- ri -- tas Do -- mi -- ni,
+            ma -- net in æ -- ter -- num,
+            ma -- net in æ -- ter -- num,
+                in æ -- ter -- num,
+            ma -- net in æ -- ter -- num,
+                in æ -- ter -- num.
 }
 
 bassusTwoXLVincipit = \relative c {
@@ -406,11 +421,11 @@ bassusTwoXLV = \relative c {
 
 bassusTwoLyricsXLV = \lyricmode {
     Lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-        gen -- tes; 
+        gen -- tes, 
     lau -- da -- te Do -- mi -- num om -- nes gen -- tes,
-    Lau -- da -- te e -- um, om -- nes po -- pu -- li,
-    lau -- da -- te e -- um, om -- nes po -- pu -- li,
-    Lau -- da -- te e -- um, om -- nes po -- pu -- li.
+    Lau -- da -- te e -- um om -- nes po -- pu -- li,
+    lau -- da -- te e -- um om -- nes po -- pu -- li,
+    lau -- da -- te e -- um om -- nes po -- pu -- li.
 
     Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos, 
     quo -- ni -- am con -- fir -- ma -- ta est su -- per nos, __

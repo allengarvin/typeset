@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "lemenfrodito"
     shortcomp = "uccellini"
-    categories = "[trio]"
+    categories = "[trio,animal]"
     final = "d"
     flats = -2
     folio = "Maritati insieme, la Gallina e'l Cucco fanno un bel concerto"

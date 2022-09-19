@@ -14,6 +14,8 @@
     instrument = "Man blest no doubt:  (tenor)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "man_blest_no_doubt"
+    folio = "Archbishop Matthew Parker (1504-1575), Psalm 1"
+    source = "The Whole Psalter translated into English Metre (John Daye press, London, 1567)"
     shortcomp = "tallis"
     composer = "Thomas Tallis (c.1505-1585)"
     folio = "Archbishop Matthew Parker (1504-1575), Psalm 1"

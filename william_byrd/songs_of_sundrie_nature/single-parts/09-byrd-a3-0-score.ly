@@ -20,6 +20,7 @@
     flats = 0
     final = "c"
     shorttitle = "the_nightingale"
+    categories = "[animal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

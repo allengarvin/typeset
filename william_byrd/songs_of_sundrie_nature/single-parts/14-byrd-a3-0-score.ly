@@ -13,6 +13,7 @@
     title = "The greedy Hawk with sudden sight of lure"
     language = "english"
     folio = "Geoffrey Whitney (c.1548-c.1601)"
+    categories = "[animal]"
     instrument = "The greedy Hawk (score)"
 
     % Unchanging:

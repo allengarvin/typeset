@@ -18,7 +18,7 @@
     shortcomp = "uccellini"
     final = "d"
     flats = -2
-    categories = "[trio]"
+    categories = "[trio,ground]"
 
     % Unchanging:
     language = "instrumental"

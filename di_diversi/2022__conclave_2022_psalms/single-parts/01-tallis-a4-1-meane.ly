@@ -17,6 +17,8 @@
     shortcomp = "tallis"
     composer = "Thomas Tallis (c.1505-1585)"
     folio = "Archbishop Matthew Parker (1504-1575), Psalm 1"
+    folio = "Archbishop Matthew Parker (1504-1575), Psalm 1"
+    source = "The Whole Psalter translated into English Metre (John Daye press, London, 1567)"
 
     % Things that change per part:
     partname = "Meane (part 1 of 4)"

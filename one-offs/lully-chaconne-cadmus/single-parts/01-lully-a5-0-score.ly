@@ -13,6 +13,7 @@
     title = "Chaconne des Africains"
     language = "instrumental"
     instrument = "Chaconne des Africains (score)"
+    categories = "[ground]"
     final = "c"
     flats = 0
 

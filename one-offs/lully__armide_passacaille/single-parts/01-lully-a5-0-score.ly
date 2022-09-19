@@ -15,6 +15,7 @@
     instrument = "Passacaille (score)"
     final = "g"
     flats = 1
+    categories = "[ground]"
 
     % Unchanging:
     originallyset = "2013-04-16"

@@ -28,7 +28,7 @@
 
 \book {
     \bookOutputName "25-marini--passacaglio-"
-    \bookOutputSuffix "--2-violino-ii--tr_clef"
+    \bookOutputSuffix "--2-violino_2--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

@@ -16,8 +16,10 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "confitebor_tibi_domine"
     shortcomp = "merula"
-    categories = "[]"
-    needtranslation = #'t
+    categories = "[ground]"
+    needtranslation = #'f
+    flats = 0
+    final = "c"
     folio = "Psalm 110/111"
 
     % Unchanging:

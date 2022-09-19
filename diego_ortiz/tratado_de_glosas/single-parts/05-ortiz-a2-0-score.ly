@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "recercada_primera"
     shortcomp = "ortiz"
+    categories = "[ground]"
 
     % Unchanging:
     language = "instrumental"

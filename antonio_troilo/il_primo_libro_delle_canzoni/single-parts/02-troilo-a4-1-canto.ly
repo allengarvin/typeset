@@ -9,13 +9,13 @@
 
 \header {
     % Things that change per piece:
-    title = "Canzon Seconda"
+    title = "Canzon II"
     subtitle = ""
-    instrument = "Canzon Seconda:  (canto)"
+    instrument = "Canzon II:  (canto)"
 
     % Things that change per part:
     partname = "Canto (part 1 of 4)"
-    instrument = "Canzon Seconda:  (canto)"
+    instrument = "Canzon II:  (canto)"
 
     % Unchanging:
     lastupdated = "2019-02-02"

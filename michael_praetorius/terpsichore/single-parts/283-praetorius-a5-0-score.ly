@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Passameze 1"
+    categories = "[ground]"
     final = "c"
     flats = 0
     language = "instrumental"

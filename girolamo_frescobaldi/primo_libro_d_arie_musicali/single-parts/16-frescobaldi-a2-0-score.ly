@@ -14,6 +14,7 @@
     subtitle = "Aria di passacaglia"
     instrument = "Così mi disprezzate (score)"
     language = "italian"
+    categories = "[ground]"
 
     % Unchanging:
     originallyset = "2013-04-16"

@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Canzon Seconda"
+    title = "Canzon II"
     language = "instrumental"
     subtitle = ""
-    instrument = "Canzon Seconda:  (score)"
+    instrument = "Canzon II:  (score)"
 
     % Unchanging:
     lastupdated = "2019-02-02"

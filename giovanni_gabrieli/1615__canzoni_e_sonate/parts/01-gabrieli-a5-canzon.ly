@@ -6,9 +6,9 @@ cantoIincipit = \relative c'' {
     e2
 }
 
+% checked against parts
 cantoI = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key c \major
 
     R\breve*4 R\breve*2 | r1 e2 e4 e | d2. b4 c b c d | e2 c b e ~ | 

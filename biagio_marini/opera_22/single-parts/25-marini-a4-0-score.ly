@@ -14,6 +14,7 @@
     language = "instrumental"
     subtitle = ""
     instrument = "Passacaglio à 3 e à 4  (score)"
+    categories = "[ground]"
 
     % Unchanging:
     lastupdated = "2019-03-09"

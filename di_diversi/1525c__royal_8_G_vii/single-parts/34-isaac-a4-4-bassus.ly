@@ -10,15 +10,15 @@
 \header {
     % Things that change per piece:
     title = "Anima mea"
-    subtitle = "Prima pars"
-    instrument = "Anima mea: Prima pars (bassus)"
-    folio = \markup { fol. 59\super{v} - 60\super{r} }
+    instrument = "Anima mea (bassus)"
+    folio = \markup { fol. 59\super{v} - 62\super{r} }
+    subtitle = "Song of Songs 5:6-8"
     composer = "Heinrich Isaac (c.1450-1517)"
     headerspace = \markup { \vspace #2 }
 
     % Things that change per part:
     partname = "Bassus (part 4 of 4)"
-    instrument = "Anima mea: Prima pars (bassus)"
+    instrument = "Anima mea (bassus)"
 
     % Unchanging:
     lastupdated = "2020-02-16"
@@ -30,7 +30,7 @@
 \include "../parts/34-isaac-a4-motet.ly"
 
 \book {
-    \bookOutputName "34-isaac--anima_mea-prima_pars"
+    \bookOutputName "34-isaac--anima_mea"
     \bookOutputSuffix "--4-bassus--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -45,7 +45,7 @@
 }
 
 \book {
-    \bookOutputName "34-isaac--anima_mea-prima_pars"
+    \bookOutputName "34-isaac--anima_mea"
     \bookOutputSuffix "--4-bassus--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -60,7 +60,7 @@
 }
 
 \book {
-    \bookOutputName "34-isaac--anima_mea-prima_pars"
+    \bookOutputName "34-isaac--anima_mea"
     \bookOutputSuffix "--4-bassus--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {

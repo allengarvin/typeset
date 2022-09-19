@@ -14,6 +14,7 @@
     language = "instrumental"
     instrument = "Passamezzo d'Italie (score)"
     composer = "Giorgio Mainerio (c.1535-1582)"
+    categories = "[ground]"
     final = "g"
     flats = 1
 

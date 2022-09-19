@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Contraponto bestiale alla mente"
     instrument = "Contraponto bestiale (score)"
+    categories = "[animal]"
 
     % Unchanging:
     language = "italian"

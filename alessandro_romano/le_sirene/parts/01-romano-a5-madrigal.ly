@@ -1,4 +1,4 @@
-% Io gia cantando la mia libertate
+% Io già cantando la mia libertate
 % I lacci rotti, e le faville spente,
 % Di che m’arse, e legò sì fieramente
 % Donna gentil, ma nuda di pietate.
@@ -59,27 +59,27 @@ cantoI = \relative c' {
 }
 
 cantoLyricsI = \lyricmode {
-    Io gia can -- tan -- do la mia li -- ber -- ta -- te
-    \ijLyrics
-    Io gia can -- tan -- do la mia li -- ber -- ta -- te
-    \normalLyrics
-    I lac -- ci rot -- ti~e __ le fa -- vil -- le spen -- te,
-    Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,
-        sì fie -- ra -- men -- te,
-        sì fie -- ra -- men -- te
-    Don -- na gen -- til, ma nu -- da di pie -- ta -- te.
-
-    E di -- cea __ me -- co~or qual no -- va bel -- ta -- te
-    Strin -- ge -- rà me d’un no -- do,
-        d’un no -- do si pos -- sen -- te,
-    Che non mi scio -- glia~e di che fa -- ce~ar -- den -- te
-    \ijLyrics
-    Che non mi scio -- glia~e di __ che fa -- ce~ar -- den -- te
-    \normalLyrics
-    Strug -- ger po -- trà le mie vo -- glie ge -- la -- te?
-    Strug -- ger po -- trà le mie vo -- glie ge -- la -- te?
-        le mie vo -- glie ge -- la -- te?
-        le mie vo -- glie ge -- la -- te?
+    Io già can -- tan -- do la mia li -- ber -- ta -- te,
+    io già can -- tan -- do la mia li -- ber -- ta -- te,
+    io già can -- tan -- do la mia li -- ber -- ta -- te
+        li -- ber -- ta -- te
+    I lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
+%    Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,
+%        sì fie -- ra -- men -- te,
+%        sì fie -- ra -- men -- te
+%    Don -- na gen -- til, ma nu -- da di pie -- ta -- te.
+%
+%    E di -- ceame -- co~or qual no -- va bel -- ta -- te
+%    Strin -- ge -- rà me d’un no -- do,
+%        d’un no -- do si pos -- sen -- te,
+%    Che non mi scio -- glia~e di che fa -- ce~ar -- den -- te
+%    \ijLyrics
+%    Che non mi scio -- glia~e diche fa -- ce~ar -- den -- te
+%    \normalLyrics
+%    Strug -- ger po -- trà le mie vo -- glie ge -- la -- te?
+%    Strug -- ger po -- trà le mie vo -- glie ge -- la -- te?
+%        le mie vo -- glie ge -- la -- te?
+%        le mie vo -- glie ge -- la -- te?
 }
 
 altoIincipit = \relative c' {
@@ -122,8 +122,8 @@ altoI = \relative c' {
 }
 
 altoLyricsI = \lyricmode {
-    Io gia can -- tan -- do la mia li -- ber -- ta -- te
-    Io gia can -- tan -- do 
+    Io già can -- tan -- do la mia li -- ber -- ta -- te
+    Io già can -- tan -- do 
         can -- tan -- do la mia li -- ber -- ta -- te
     I lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
         e le fa -- vil -- le spen -- te,
@@ -188,7 +188,7 @@ tenoreI = \relative c {
 }
 
 tenoreLyricsI = \lyricmode {
-    Io gia can -- tan -- do la mia li -- ber -- ta -- te
+    Io già can -- tan -- do la mia li -- ber -- ta -- te
     I __ lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
         e le fa -- vil -- le spen -- te,
     Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,
@@ -258,7 +258,7 @@ bassoI = \relative c {
 }
 
 bassoLyricsI = \lyricmode {
-    Io gia can -- tan -- do la mia li -- ber -- ta -- te
+    Io già can -- tan -- do la mia li -- ber -- ta -- te
     I lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
         e le fa -- vil -- le spen -- te,
     Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,
@@ -319,8 +319,8 @@ quintoI = \relative c' {
 }
 
 quintoLyricsI = \lyricmode {
-    Io gia can -- tan -- do la mia li -- ber -- ta -- te
-    Io gia can -- tan -- do la mia li -- ber -- ta -- te
+    Io già can -- tan -- do la mia li -- ber -- ta -- te
+    Io già can -- tan -- do la mia li -- ber -- ta -- te
     I lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
         e le fa -- vil -- le spen -- te,
     Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,

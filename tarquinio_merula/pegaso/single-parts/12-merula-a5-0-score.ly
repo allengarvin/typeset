@@ -16,9 +16,11 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "laetatus_sum"
     shortcomp = "merula"
-    categories = "[]"
-    needtranslation = #'t
+    categories = "[ground]"
+    needtranslation = #'f
     folio = "Psalm 121/122"
+    final = "c"
+    flats = 0
 
     % Unchanging:
     language = "latin"

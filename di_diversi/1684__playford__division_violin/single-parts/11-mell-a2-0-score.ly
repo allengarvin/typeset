@@ -11,6 +11,7 @@
     language = "instrumental"
     final = "g"
     flats = -1
+    categories = "[ground]"
 
 
     style = "Baroque"

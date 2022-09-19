@@ -22,7 +22,7 @@
     flats = 0
     final = "a"
     shorttitle = "dunque_sia_vero"
-    categories = "[madrigal]"
+    categories = "[madrigal,animal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -95,7 +95,7 @@ altusXXI = \relative c' {
         d1.( c4 bf | c2) d( f1 | e) d1 ~ | d r1 | r1 r2 g, |
 
     d'2 d c a | bf c a d | f f e1 | r1 r2 g, | d' d1 c2 | d e f2.( e4 |
-        d c d2) bf( g) | a1( bf2 c ~ | c4 a bf2 g) g' | f g1( f2) | g1 r1 | 
+        d c d2) bf( g) | a1( bf2 c ~ | c4 a bf2 g) g' | f g1\melfi fs2\melfiEnd | g1 r1 | 
         R\breve | r2 a, d
 
     d2 ~ | d c d f | e d c( d | a bf a1) | R\breve 
@@ -113,14 +113,14 @@ altusXXI = \relative c' {
     r2 d | d c a bf | a c( d) g, | r2 d' e f | d f f e | d1 r1 | r2 d e f |
         e1 r2 e ~ | e c d f | e d e a, ~ | a bf a f | g f2.( g4 a bf |
 
-    c2 d) a f' ~ | f e( d e) | c1 r1 | r2 d1 c2 | d d f1 ~ | f2( e4 d c2) f ~| 
+    c2 d) a f' ~ | f e( d e) | c1 r1 | r2 d1\ficta cs2\unficta | d d f1 ~ | f2( e4 d c2) f ~| 
         f( e) f f,4( g | a bf c d e2) d ~ | 
         d\melisma\ficta cs\unficta\melismaEnd d1 ~ | d r1 | R\breve*2 |
         r2 bf c e | d2. c4 bf2 c | d f1( e2) | f\breve |
     % --- page ---
     r2 d d f ~ | f e f2.( e4 | d2 c1 d2 | e d1 c2) | d1 r2 d ~ | d c bf1 ~ |
         bf2( a bf c | d1) a | r2 d2.( e4 f2) | g c,( d a | 
-        bf) g r e' ~ | e d c1 |
+        bf) g r \ficta ef' ~ | ef\unficta d c1 |
         b\longa*1/2
     \bar "|."
 }
@@ -342,8 +342,8 @@ quintusXXI = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    R\breve*4 | R\breve | r1 r2 g ~ | g d'1( c4 bf | c2) d f1( |
-        e2. d4 e2 f2 ~ | f4 e d1 c2 | d\breve) | r1 r2 f, | g g f f' ~ |
+    R\breve*4 | R\breve | r1 r2 g ~ | g d'1( c4 bf | c2) d f1\melfi |
+        e2. d4 e2 f2 ~ | f4 e d1 cs2 | d\breve\melfiEnd | r1 r2 f, | g g f f' ~ |
         f4( e) d2 c( d ~ | d c)
 
     d1 | r2 g, d' d | c a bf bf | a1 r1 | R\breve | r2 d, a' a |

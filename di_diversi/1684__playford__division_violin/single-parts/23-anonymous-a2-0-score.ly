@@ -13,6 +13,7 @@
     subtitle = "A Scotch Tune to a Ground"
     final = "f"
     flats = 1
+    categories = "[ground]"
 
     composer = "Anonymous"
 

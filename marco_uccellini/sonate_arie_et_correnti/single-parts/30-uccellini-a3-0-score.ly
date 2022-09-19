@@ -16,12 +16,14 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "la_donlina"
     shortcomp = "uccellini"
-    categories = "[]"
+    categories = "[trio]"
 
     % Unchanging:
     language = "instrumental"
     lastupdated = "2022-09-04"
     originallyset = "2022-09-04"
+    flats = 0
+    final = "a"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

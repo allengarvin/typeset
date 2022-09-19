@@ -11,6 +11,7 @@
     language = "instrumental"
 
     style = "Baroque"
+    categories = "[ground]"
     composer = "Michel Farinel (1649-1726)"
 
 

@@ -22,6 +22,8 @@
     language = "instrumental"
     lastupdated = "2022-09-04"
     originallyset = "2022-09-04"
+    flats = 0
+    final = "c"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -7,8 +7,8 @@ cantoOneXLIincipit = \relative c'' {
     a2
 }
 
+% canto: checked against source
 cantoOneXLI = \relative c'' {
-    \clef treble
     \key f \major
     \time 3/2
 
@@ -38,15 +38,15 @@ cantoTwoXLIincipit = \relative c' {
     f2
 }
 
+% canto 2: checked against source
 cantoTwoXLI = \relative c' {
-    \clef treble
     \key f \major
     \time 3/2
 
     \partial 2 f2
     \repeat volta 2 {
         f4 e f g a2 | d,4 c d e f2 | e4 d e f g2 | f1 e2 | d4 c d e f2 |
-        e1 d2 | cs1 d2 | d1 s2 | d d' c | bf
+        e1 d2 | cs1 d2 | d1 cs2 | d d' c | bf
 
         g1 | f2 a' g | f d1 | c2 e a, | \colorBr d2\colorBrBegin g,1\colorBrEnd|
         a1.
@@ -63,10 +63,18 @@ cantoTwoXLI = \relative c' {
     \bar "|."
 }
 
-bassoXLI = \relative c {
-    \clef bass
+bassoXLIincipit = \relative c {
+    \clef "petrucci-f4"
     \key f \major
     \time 6/4 \doubleTimeSig \time 3/1
+
+    f2
+}
+
+% basso: checked against source
+bassoXLI = \relative c {
+    \key f \major
+    \time 3/2
 
     \partial 2 f2
     \repeat volta 2 {
@@ -82,7 +90,7 @@ bassoXLI = \relative c {
         g,2 ef' bf | bf' a g | f e d | c2. bf4 a2 | g a1 | 
 
     bf2 a g | f f'1 | \colorBr e2\colorBrBegin d1\colorBrEnd | c1 d2 | 
-        \colorBr bf2\colorBegin c1\colorBrEnd | f,1. 
+        \colorBr bf2\colorBrBegin c1\colorBrEnd | f,1. 
     }
     \alternative { { f1 bf2 } { f\longa*3/8 } }
     \bar "|."

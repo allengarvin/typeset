@@ -6,7 +6,7 @@ cantusIIincipit = \relative c'' {
     g\breve
 }
 
-% cantus: checked against source
+% cantus: checked against source (first part) (both parts)
 cantusII = \relative c'' {
     \fourTwoCutTime
     \key f \major
@@ -44,7 +44,7 @@ cantusII = \relative c'' {
         g~g\longa*1/2
     \bar "||"
     R\breve*2 R\breve*3 | r2 g g g | d' e f( e4 d | 
-        c2) d2.\melisma\ficta cs8[ b] cs!2\unficta\melismaEnd | d\breve |
+        c2) d2.\melisma\ficta c8[ bf] c2\unficta\melismaEnd | d\breve |
         r1 d2. d4 | d2 d ef1 | d r1 | d2. d4 d2 d | bf( c 
 
     \[ a1 | bf) \] a | r2 a f bf | bf g a2.( bf4 | \[ c1 bf) \] |
@@ -60,7 +60,7 @@ cantusII = \relative c'' {
         bf) a r1 | a1. a2 | bf c d1 | c bf2( g | bf1) a | r1 d | 
         d2 c d2.( c4 | bf2) a g1 | r1
 
-    a1 ~ | a a | d1. d2 | bf bf a1 | f bf2 bf ~ | bf a g1 | r1 a | 
+    a1 ~ | a a | d1. d2 | bf bf a1 | f bf2 bf ~ | bf( a) g1 | r1 a | 
         d\breve | \[ c1( f ~ | f2 \] e d c | \[ bf1 g) \] | a a | bf d ~ |
         d d | R\breve | r1 r2 g, | d'1 d2 bf ~ | bf4( g d'2. e4
 
@@ -100,30 +100,30 @@ cantusLyricsII = \lyricmode {
     Fi -- li -- us __ Pa -- tris,
     fi -- li -- us __ Pa -- tris. __
     % ---
-%    Qui tol -- lis pec -- ca -- ta mun -- di,
-%        mi -- se -- re -- re no -- bis,
-%        mi -- se -- re -- re no -- bis.
-%    Qui tol -- lis pec -- ca -- ta mun -- di,
-%        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram.
-%    Qui se -- des ad dex -- te -- ram Pa -- tris,
-%        mi -- se -- re -- re no -- bis,
-%        mi -- se -- re -- re no -- bis,
-%            no -- bis.
-%    Quo -- ni -- am tu so -- lus San -- ctus.
-%    Tu so -- lus Do -- mi -- nus,
-%    tu so -- lus Do -- mi -- nus,
-%        Do -- mi -- nus,
-%    tu so -- lus Al -- tis -- si -- mus
-%    Je -- su Chri -- ste,
-%    cum San -- cto,
-%    cum San -- cto Spi -- ri -- tu,
-%    cum San -- cto Spi -- ri -- tu,
-%        in glo -- ri -- a De -- i Pa -- tris.
-%        a -- men,
-%        in glo -- ri -- a De -- i Pa -- tris,
-%        a -- men,
-%        in glo -- ri -- a De -- i Pa -- tris.
-%        A -- men.
+    Qui tol -- lis pec -- ca -- ta __ mun -- di,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis.
+    Qui tol -- lis pec -- ca -- ta __ mun -- di,
+        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
+            de -- pre -- ca -- ti -- o -- nem no -- stram. __
+    Qui se -- des ad dex -- te -- ram Pa -- tris,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re __ no -- bis.
+    Quo -- ni -- am tu so -- lus San -- ctus.
+    Tu so -- lus Do -- mi -- nus,
+    tu __ so -- lus Al -- tis -- si -- mus
+    Je -- su Chri -- ste,
+    Je -- su Chri -- ste,
+    Je -- su Chri -- ste,
+    cum San -- cto Spi -- ri -- tu,
+        in glo -- ri -- a __ De -- i Pa -- tris.
+        A -- men,
+        in glo -- ri -- a De -- i Pa -- tris,
+        in glo -- ri -- a De -- i Pa -- tris, __
+        A -- men,
+            De -- i Pa -- tris,
+            De -- i Pa -- tris.
+        A -- men.
 }
 
 altusIIincipit = \relative c' {
@@ -134,7 +134,7 @@ altusIIincipit = \relative c' {
     d1
 }
 
-% altus: checked against source
+% altus: checked against source (both sections)
 altusII = \relative c' {
     \fourTwoCutTime
     \key f \major
@@ -164,7 +164,34 @@ altusII = \relative c' {
     d2 d | a bf g a ~ | a g bf( c) | d1 d | e2 f1 d2 | \[ g1( f) \] |
         g1 r1 | r1 a | a2 a bf( a | g1) f | R\breve | r2 d d a |
         bf2.\melisma c4 d2 \ficta ef | bf c ef1\unficta \melismaEnd |
-        d\longa*1/2
+        d\longa*1/2 
+        \bar "||"
+    % --- page ---
+    R\breve*2 | r1 d | d2 d g a | bf( a4 g f2) g ~ | g d r g | f a2.( f4 g2) |
+        a\breve | f1 fs2. fs4 | fs2 g a1 | a2 g1 g2 | \[ f1( a) \] | g2.( a4
+
+    bf2) a ~ | a4\melfi g g1 fs2\melfiEnd | g g e f | bf, c d2.( c4 |
+        bf1) a2( f) | g2.( a4 bf1) | r2 d1 d2 | g c, c f ~ | f4( g a1) a2 |
+        g e f2.( e8[ d] | a'\breve) | a2 a1 g2 | 
+
+    a2 a bf1 | a2 g2.\melfi fs8[ e] fs!2\melfiEnd | g\breve | R | r2 d1 f2( |
+        e) d r1 | r1 a | c2 d e2.( f4 | g2) c,\melfi f2. g4 | 
+        a2 g2. fs8[ e] fs!2\melfiEnd | g bf a1 | g1. g2 | a1. f2 | r2 a
+
+    f2 g | a1 bf2( a | f bf2. a8[ g] f4 g | a1) d,2 d | d f1 g2 |
+        a( g4 f) e1 | r2 d1 d2 | e f g1 | f2 d2.( e4 f2 ~ | f e f g | a1) d, |
+        r2 d f2. e4 |
+
+    d2 c d2.( c4 | bf2) a g1 ~ | g2 a bf c | a1 r2 a ~ | a a d1 ~ | 
+        d2 d bf g | d'1 f ~ | f2( e) d1 ~ | d g,2.( a4 | bf2 a) d1 ~ | 
+        d r1 | a'\breve | bf1 f | g1. g2 ~ | g( f4 e f1) | g a | 
+
+    d,2 g g a | bf a f1 | R\breve | r2 a bf g ~ | g g1 a2 | \[ f1( g) \] |
+        r2 f f f | d1. bf2( | c1) d ~ | d r1 | r2 g f g | d e1 c2 | 
+        d2( bf1 c2) | a a'2.( g8[ f] g2) |
+    % --- page ---
+    a1 r1 | r1 r2 a ~ | a f1 f2 | f a d,4( e f g) | a1 d, | r1 r2 d | 
+        d d g1 | g a | g4( a bf g a2) g ~ | g4( d g2) fs1 | g\longa*1/2
     \bar "|."
 }
 
@@ -201,31 +228,35 @@ altusLyricsII = \lyricmode {
     fi -- li -- us Pa -- tris,
     \normalLyrics
     fi -- li -- us Pa -- tris.
-%    % ---
-%    Qui tol -- lis pec -- ca -- ta mun -- di,
-%        mi -- se -- re -- re no -- bis,
-%        mi -- se -- re -- re no -- bis.
-%    Qui tol -- lis pec -- ca -- ta mun -- di,
-%        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram.
-%    Qui se -- des ad dex -- te -- ram Pa -- tris,
-%        mi -- se -- re -- re no -- bis,
-%        mi -- se -- re -- re no -- bis,
-%            no -- bis.
-%    Quo -- ni -- am tu so -- lus San -- ctus.
-%    Tu so -- lus Do -- mi -- nus,
-%    tu so -- lus Do -- mi -- nus,
-%        Do -- mi -- nus,
-%    tu so -- lus Al -- tis -- si -- mus
-%    Je -- su Chri -- ste,
-%    cum San -- cto,
-%    cum San -- cto Spi -- ri -- tu,
-%    cum San -- cto Spi -- ri -- tu,
-%        in glo -- ri -- a De -- i Pa -- tris.
-%        a -- men,
-%        in glo -- ri -- a De -- i Pa -- tris,
-%        a -- men,
-%        in glo -- ri -- a De -- i Pa -- tris.
-%        A -- men.
+    % ---
+    Qui tol -- lis pec -- ca -- ta __ mun -- di,
+        pec -- ca -- ta __ mun -- di,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re __ no -- bis.
+    Qui tol -- lis pec -- ca -- ta __ mun -- di, __
+        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
+            de -- pre -- ca -- ti -- o -- nem no -- stram.
+    Qui se -- des ad dex -- te -- ram __ Pa -- tris,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis.
+    Quo -- ni -- am tu so -- lus San -- ctus.
+    Tu so -- lus Do -- mi -- nus, __
+    tu so -- lus Do -- mi -- nus,
+    tu __ so -- lus __ Al -- tis -- si -- mus
+    Je -- su __ Chri -- ste, __
+    Je -- su Chri -- ste,
+    Je -- su Chri -- ste,
+    cum San -- cto Spi -- ri -- tu,
+    \ijLyrics
+    cum San -- cto __ Spi -- ri -- tu, __
+    \normalLyrics
+    cum San -- cto Spi -- ri -- tu, __
+        in glo -- ri -- a De -- i Pa -- tris.
+        A -- men,
+        in glo -- ri -- a De -- i __ Pa -- tris,
+        in glo -- ri -- a De -- i Pa -- tris, __
+        A -- men.
 }
 
 tenorIIincipit = \relative c' {
@@ -236,7 +267,7 @@ tenorIIincipit = \relative c' {
     g1
 }
 
-% tenor: checked against source
+% tenor: checked against source (both parts)
 tenorII = \relative c' {
     \fourTwoCutTime
     \key f \major
@@ -266,6 +297,36 @@ tenorII = \relative c' {
         r2 g,1 g2 | c bf a1 ~ | a d | g,2 g a2.( bf4 | c2 bf4 g) d'1 ~ |
         d r2 d ~ | d d bf1 | \ficta ef2.\melisma d4 c1\melismaEnd\unficta |
         b\longa*1/2
+        \bar "||"
+    g1 g2 g | d'1. c2 | d2.( e4 f1) | bf,2.( c4 d e f2 | d c) d1 ~ | d r1 |
+        R\breve R | a2. a4 a2 a | 
+        \[\ficta b1\melisma a\melismaEnd\unficta \] | d r1 | a2. a4 a2 a |
+        bf2.( c4
+
+    d1) | g, r2 d' | d bf c d | d f1( d2) | g1 r1 | g1. g2 | f1 g | 
+        d2 f e d4( e | f d e1) d2 ~ | d\melfi cs\melfiEnd d1 | a r2 a | 
+        d2.( e4 f2) d | 
+
+    f2 f bf,4( c d e | f2 ef) d1 | d r2 d | e g r d | g1. c,2 |
+        c2 d2.\melfi cs8[ b] cs!2\melfiEnd | d2.( e4 f1) | r1 r2 a, | 
+        bf c d f ~ | f4( e d c
+
+    d1) | g,2 d' f1 | ef d | r2 f e d | c d2.( c4 bf2) | a1 r1 |
+        r2 d1 d2 | e f g1 | f2 d( f e2 ~ | e4 d4 d1 c2) | \[ d1( g) \] |
+        r1 r2 g, | a1 a | r1 
+
+    r2 d | e f g g | d1 r1 | r2 g f f | g a d,1 ~ | d r1 | d c | f f2 f ~ |
+        f f2 d1 | g c, | d f | r2 f, bf c | d1 r1 | f1. f2 | f\breve | 
+        f1 r1 | r1 
+
+    d1 ~ | d d1 ~ | d2 bf2 a1 | r2 g d'1 ~ | d2 c2 d2.( f4 | e2 d1 c2) |
+        d1 g,1 ~ | g r2 c | d1. d2 | f d( c1) | bf2.( c4 d1) | r2 g, bf a |
+        g4( a bf c d2) ef ~ | ef d2 
+    % --- page ---
+    c2\melfi d ~ | d4 g, g'1 fs2\melfiEnd | g d ef1 | d c2 bf | a d bf2. bf4 |
+        a2 d f e | f f d1 | r1 r2 a | a a bf bf ~ | bf c d a | bf2.( c4 
+
+    d2 ef ~ | ef) d r d ~ | d g c,1 | d2 bf( a1) | g\longa*1/2
     \bar "|."
 }
 
@@ -303,30 +364,38 @@ tenorLyricsII = \lyricmode {
     fi -- li -- us Pa -- tris, __
     fi -- li -- us Pa -- tris.
     % ---
-%    Qui tol -- lis pec -- ca -- ta mun -- di,
-%        mi -- se -- re -- re no -- bis,
-%        mi -- se -- re -- re no -- bis.
-%    Qui tol -- lis pec -- ca -- ta mun -- di,
-%        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram.
-%    Qui se -- des ad dex -- te -- ram Pa -- tris,
-%        mi -- se -- re -- re no -- bis,
-%        mi -- se -- re -- re no -- bis,
-%            no -- bis.
-%    Quo -- ni -- am tu so -- lus San -- ctus.
-%    Tu so -- lus Do -- mi -- nus,
-%    tu so -- lus Do -- mi -- nus,
-%        Do -- mi -- nus,
-%    tu so -- lus Al -- tis -- si -- mus
-%    Je -- su Chri -- ste,
-%    cum San -- cto,
-%    cum San -- cto Spi -- ri -- tu,
-%    cum San -- cto Spi -- ri -- tu,
-%        in glo -- ri -- a De -- i Pa -- tris.
-%        a -- men,
-%        in glo -- ri -- a De -- i Pa -- tris,
-%        a -- men,
-%        in glo -- ri -- a De -- i Pa -- tris.
-%        A -- men.
+    Qui tol -- lis pec -- ca -- ta __ mun -- di, __
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis.
+    Qui tol -- lis pec -- ca -- ta mun -- di,
+        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem __ no -- stram,
+            de -- pre -- ca -- ti -- o -- nem __ no -- stram.
+    Qui se -- des ad dex -- te -- ram Pa -- tris, __
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re,
+        mi -- se -- re -- re no -- bis.
+    Quo -- ni -- am tu so -- lus San -- ctus. __
+    Tu so -- lus,
+    tu so -- lus Do -- mi -- nus,
+    tu so -- lus Do -- mi -- nus, __
+    tu so -- lus Al -- tis -- si -- mus
+    Je -- su Chri -- ste,
+    Je -- su Chri -- ste,
+    \ijLyrics
+    Je -- su Chri -- ste,
+    \normalLyrics
+    Je -- su __ Chri -- ste,
+    cum San -- cto Spi -- ri -- tu, __
+    cum San -- cto Spi -- ri -- tu, __
+        in glo -- ri -- a __ De -- i Pa -- tris,
+            De -- i Pa -- tris.
+        A -- men,
+        in glo -- ri -- a De -- i Pa -- tris,
+        A -- men,
+        in glo -- ri -- a De -- i Pa -- tris,
+        A -- men,
+            De -- i Pa -- tris.
+        A -- men.
 }
 
 bassusIIincipit = \relative c' {
@@ -337,7 +406,7 @@ bassusIIincipit = \relative c' {
     g1.
 }
 
-% bassus: checked against source
+% bassus: checked against source (first part) (and second part!)
 bassusII = \relative c' {
     \fourTwoCutTime
     \key f \major
@@ -366,6 +435,31 @@ bassusII = \relative c' {
     d1 | r2 \[ g1( f2 ~ | f) \] c g'( f) | d g1 f2 | e( d) f( g ~ |
         g c, \[ d1 | g) \] c, | R\breve | d1 d2 d | ef1 d | r2 g g f |
         g1 d | r2 g1 ef2 ~ | ef c c1 | g'\longa*1/2
+        \bar "||"
+    R\breve*2 | d1 d2 d | g1. f2 | g a bf2.( c4 | d2) bf1 g2 | bf a d, c |
+        f d a'1 | d,\breve | r1 d2. d4 | d2 g c,1 | d\breve | g1 g2 d | 
+
+    ef2 c d1 | r2 g a f | g a( bf2. a4 | g f g2) f d( | c1) g' | r1 r2 g ~ |
+        g f a bf ~ | bf a a d, | g a d,1 ~ | d a' | r2 d, d g |
+
+    f2 d g1 | f2( c) d1 | r2 g1 bf2 | a g d'1 | c2 g1 f2( | c' bf) a1 |
+        r2 d,1 f2 | e d a'1 | g2 f d2.( e4 | f2 g) d1 | r1 d | ef2 c 
+
+    g'1 | f2.( g4 a2 bf | a) d, r1 | r2 d g a | bf g( \[ bf1 | a) \] g | 
+        d1. e2 | f g a1( | bf2) g bf2.( a4 | g2 f ef1) | d\breve | R | r1 g |
+        g2 g 
+
+    f1 ~ | f2 e d1 | R\breve | r2 d g c, | d1 a' | d, r2 d ~ | d d g1 ~ |
+        g2 g f f | bf1 bf2.( a4 | g2) d ef1 | d\breve | R | 
+        \[ f\breve | \colorBr bf1.\colorBrBegin ( \] a2\colorBrEnd ) |
+        g\breve | d | r1 d | g1. f2 | 
+
+    g2 a( bf2. a4 | g2. f4 e1) | d r1 | r2 g g f | bf2.( a4 g1) | f2 bf, r1 |
+        r2 bf'2 g g | f ef d1 | r2 g1 c2 ~ | c bf a g | bf c a1 |
+    % --- page ---
+    g2.( f4 ef2 c) | d1 r1 | d ef2 bf( | f') g a1 | d,1. bf'2 ~ | 
+        bf a2 g\melfi f2 ~ | f4 e4 d c \[ bf1 | ef\melfiEnd \] d1 |
+        r2 g1 c2 ~ | c bf2 a d, | g1 f2 c | \[ g'1( d) \] | g\longa*1/2
     \bar "|."
 }
 
@@ -399,31 +493,34 @@ bassusLyricsII = \lyricmode {
     fi -- li -- us Pa -- tris,
     \normalLyrics
     fi -- li -- us Pa -- tris.
-%    % ---
-%    Qui tol -- lis pec -- ca -- ta mun -- di,
-%        mi -- se -- re -- re no -- bis,
-%        mi -- se -- re -- re no -- bis.
-%    Qui tol -- lis pec -- ca -- ta mun -- di,
-%        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram.
-%    Qui se -- des ad dex -- te -- ram Pa -- tris,
-%        mi -- se -- re -- re no -- bis,
-%        mi -- se -- re -- re no -- bis,
-%            no -- bis.
-%    Quo -- ni -- am tu so -- lus San -- ctus.
-%    Tu so -- lus Do -- mi -- nus,
-%    tu so -- lus Do -- mi -- nus,
-%        Do -- mi -- nus,
-%    tu so -- lus Al -- tis -- si -- mus
-%    Je -- su Chri -- ste,
-%    cum San -- cto,
-%    cum San -- cto Spi -- ri -- tu,
-%    cum San -- cto Spi -- ri -- tu,
-%        in glo -- ri -- a De -- i Pa -- tris.
-%        a -- men,
-%        in glo -- ri -- a De -- i Pa -- tris,
-%        a -- men,
-%        in glo -- ri -- a De -- i Pa -- tris.
-%        A -- men.
+    % ---
+    Qui tol -- lis pec -- ca -- ta mun -- di, __
+        pec -- ca -- ta mun -- di,
+        pec -- ca -- ta mun -- di,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis.
+    Qui tol -- lis pec -- ca -- ta mun -- di,
+        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
+            de -- pre -- ca -- ti -- o -- nem no -- stram.
+    Qui se -- des ad dex -- te -- ram Pa -- tris,
+    qui se -- des ad dex -- te -- ram Pa -- tris,
+        mi -- se -- re -- re no -- bis,
+        mi -- se -- re -- re no -- bis.
+    Quo -- ni -- am tu so -- lus San -- ctus.
+    Tu so -- lus Do -- mi -- nus,
+    tu so -- lus Do -- mi -- nus,
+    tu __ so -- lus __ Al -- tis -- si -- mus
+    Je -- su Chri -- ste,
+    Je -- su __ Chri -- ste,
+    cum San -- cto Spi -- ri -- tu,
+    cum San -- cto Spi -- ri -- tu,
+    cum San -- cto Spi -- ri -- tu,
+        in glo -- ri -- a De -- i Pa -- tris.
+        A -- men,
+        in glo -- ri -- a De -- i Pa -- tris,
+        A -- men,
+        in glo -- ri -- a De -- i Pa -- tris.
+        A -- men.
 }
 
 quintusIIincipit = \relative c' {
@@ -438,7 +535,6 @@ quintusIIincipit = \relative c' {
 %   qui tollis: checked against source
 quintusII = \relative c' {
     \fourTwoCutTime
-    \clef alto
     \key f \major
 
     R\breve | r1 r2 d ~ | d d f1 | e2 f2.( e4 d c | d2) e f e | d1 r2 d ~ |
@@ -549,9 +645,9 @@ quintusLyricsII = \lyricmode {
     cum San -- cto Spi -- ri -- tu, __
     cum San -- cto Spi -- ri -- tu,
         in glo -- ri -- a De -- i Pa -- tris.
-        a -- men,
+        A -- men,
         in glo -- ri -- a De -- i Pa -- tris,
-        a -- men,
+        A -- men,
         in glo -- ri -- a De -- i Pa -- tris.
         A -- men.
 }

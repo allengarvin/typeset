@@ -23,7 +23,7 @@
 % Sì, sì, ch’io ti conosco;
 % Or sei lupa, or agnella,
 % or sei lampo, or sei stella,
-% col dolce misci il tosco. 
+% col dolce mischi il tosco. 
 
 % Insieme:
 % Cangia donna pensier etc.
@@ -31,7 +31,7 @@
 % Canto solo:
 % Sì, sì, ch’io t’ho provata,
 % mentitrice, bugiarda,
-% Traditrice, infingarda,
+% traditrice, infingarda (*),    (*) lusingarda in edizione di 1635.
 % senza fè, sciagurata.
 
 % Insieme:

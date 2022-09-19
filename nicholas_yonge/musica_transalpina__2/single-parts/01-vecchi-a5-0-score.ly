@@ -23,7 +23,7 @@
     flats = 1
     final = "f"
     shorttitle = "the_white_delightful_swan"
-    categories = "[madrigal]"
+    categories = "[madrigal,animal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

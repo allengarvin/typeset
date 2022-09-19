@@ -197,14 +197,14 @@ bassoXXV = \relative c' {
 }
 
 continuoFiguresXXV = \figuremode {
-        %\bassFigureStaffAlignmentDown
+        \bassFigureStaffAlignmentDown
 
     s\breve s1 <6 -> <_+>1
     \time 3/2 s1.*3
 
-    s1.*6 <5 6>1 s2 
+    s1.*6 <5>4 <6>4 s2 s2 
 
-    <5 6>1 s2 | s1.*3 s1 <_->2 s1. <6> s1.
+    <5>4 <6>4 s2 s | s1.*3 s1 <_->2 s1. <6> s1.
 
     s1.*10
 
@@ -222,7 +222,7 @@ continuoFiguresXXV = \figuremode {
 
     s1.*3 \time 4/2
 
-    s2. <6>4 <5 6>1
+    s2. <6>4 <5>8 <6>
 }
 
 violinoPrimoXXVincipitVoice = <<

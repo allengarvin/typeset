@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "beatus_vir"
     shortcomp = "merula"
-    categories = "[]"
+    categories = "[ground]"
     final = "g"
     flats = 1
     needtranslation = #'f

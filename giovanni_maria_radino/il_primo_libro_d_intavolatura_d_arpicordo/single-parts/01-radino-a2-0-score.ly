@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Pass'e mezo"
     language = "instrumental"
+    categories = "[ground]"
     subtitle = ""
     final = "c"
     flats = 0

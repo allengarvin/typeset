@@ -14,6 +14,7 @@
     subtitle = "sopra La Spagna"
     instrument = "Recercada quinta: sopra La Spagna (score)"
     shorttitle = "recercada_quinta"
+    categories = "[ground]"
     shortcomp = "ortiz"
 
     % Unchanging:

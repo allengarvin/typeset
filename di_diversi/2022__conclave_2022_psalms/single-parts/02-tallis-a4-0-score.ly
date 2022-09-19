@@ -12,10 +12,12 @@
     % Things that change per piece:
     title = "Man blest no doubt"
     subtitle = "The first tune"
-    subsubtitle = "(alternate barring)"
+    subsubtitle = "(original barring)"
     instrument = "Man blest no doubt: The first tune (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "man_blest_no_doubt"
+    folio = "Archbishop Matthew Parker (1504-1575), Psalm 1"
+    source = "The Whole Psalter translated into English Metre (John Daye press, London, 1567)"
     shortcomp = "tallis"
     composer = "Thomas Tallis (c.1505-1585)"
     categories = "[]"
@@ -38,7 +40,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #6.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Meane"
@@ -93,6 +95,34 @@
     \markup {
         \fill-line {
             \column {
+                \line { Man blest, no doubt, who walk'th not out }
+                \line { \hspace #1 in wicked men's affairs, }
+                \line { and stand'th no day in sinners' way, }
+                \line { \hspace #1 nor sitt'th in scorners' chairs; }
+                \line { but hold'th even still God's Law in will, }
+                \line { \hspace #1 with all his heart's delight; }
+                \line { and will him use on it to muse, }
+                \line { \hspace #1 to keep it day and night. }
+            }
+            \column {
+                \line { He like shall be the planted tree, }
+                \line { \hspace #1 nor set the river's course; }
+                \line { which forth in tide, whose leaves abide, }
+                \line { \hspace #1 all prosp’reth what he does. }
+                \line { Not so, not so the wicked do, }
+                \line { \hspace #1 like dust or chaff they be; }
+                \line { uphoist by wind, as light by kind }
+                \line { \hspace #1 from face of Earth to see. }
+            }
+            \column {
+                \line { Therefore these men, no wicked then, }
+                \line { \hspace #1 in judgment shall not stand, }
+                \line { nor sinners be in company }
+                \line { \hspace #1 of righteous men of hand. }
+                \line { The Lord doth know, and will avow }
+                \line { \hspace #1 men's ways that are of God; }
+                \line { where shall decay the beaten way }
+                \line { \hspace #1 of wicked men, so broad. }
             }
         }
     }

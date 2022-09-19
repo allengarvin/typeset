@@ -36,6 +36,7 @@
             \global 
             \quintoI
         >>
+        \addLyrics { \quintoLyricsI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
@@ -50,6 +51,7 @@
             \global 
             \quintoI
         >>
+        \addLyrics { \quintoLyricsI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

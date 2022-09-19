@@ -64,18 +64,26 @@ altoXVIII = \relative c'' {
     g1 | r2 a bf bf | a a4 a f d f4. g8 | a4 a a a a2. g8[ f] | 
         e2 f4 d f2 c4 f | f4. g8 f4 f f f f2 | f bf1 bf2 |
 
-%    bf1 bf2 a4 g | g c f, r bf2 bf4 bf | bf2 bf a a4 a bf g2 e4 | 
-%        f d2 cs4 d2 r1 | R\breve | r2 g f4 f f2 | d4 f2 e4 d c d 
+    % what if we weren't supposed to repeat bf1 bf2?
+
+    a4 g g c f, r4 bf2 | bf4 bf bf2 bf a | a4 a bf g2 e4 f d ~ |
+        d cs d2 r1 | R\breve | r2 g f4 f f2 | d4 f2 e4 d c d 
+
+    f4 | e2 d r2 a'4 f ~ | f8[ g] a4 bf a r4 d, a'2 |
+        d,2. c4 bf bf c c' ~ | c a bf g4. f8[ e f] d2 | r2 d4. c8 bf4 ef d c8[ bf] |
+    a4 
+%%    bf1 bf2 a4 g | g c f, r bf2 bf4 bf | bf2 bf a a4 a bf g2 e4 | 
+%%        f d2 cs4 d2 r1 | R\breve | r2 g f4 f f2 | d4 f2 e4 d c d 
+%%
+%%    f4 | e2 d r2 bf'4 f ~ | f8[ g] a4 bf a r4 d, a'2 | d,2. c4 bf bf c c' ~|
+%%        c a bf g4. f8[ e f] d2 | r2 d4. c8 bf4 ef d c8[ bf] | 
 %
-%    f4 | e2 d r2 bf'4 f ~ | f8[ g] a4 bf a r4 d, a'2 | d,2. c4 bf bf c c' ~|
-%        c a bf g4. f8[ e f] d2 | r2 d4. c8 bf4 ef d c8[ bf] | 
-
-    s\breve*7 | 
-    R\breve |  r2 g f4 f f2 | d4 f2 e4 d4 c d 
-
-    f4 | e2 d r2 bf'4 f4 ~ | f8[ g8] a4 bf a r4 d, a'2 | 
-        d,2. c4 bf4 bf c c' ~ | c a4 bf g4. f8[ e f] d2 | 
-        r d4. c8 bf4 ef d c8[ bf] | a4
+%    s\breve*7 | 
+%    R\breve |  r2 g f4 f f2 | d4 f2 e4 d4 c d 
+%
+%    f4 | e2 d r2 bf'4 f4 ~ | f8[ g8] a4 bf a r4 d, a'2 | 
+%        d,2. c4 bf4 bf c c' ~ | c a4 bf g4. f8[ e f] d2 | 
+%        r d4. c8 bf4 ef d c8[ bf] | a4
 
     a'4 g2 e4. f8 g4 e | g1 r1 | r4 d4. d8 d4 g4. c,8 ef4 c |
         d2 a'4. c8 c4 a c a ~ | a bf4 a2 a1 | r2 a fs4. fs8 
@@ -91,8 +99,8 @@ altoXVIII = \relative c'' {
         r2 d1 ef2 |
 
     d2. c4 b2 b | r2 f' e4 f d4 g ~ | g g g2 r a | 
-        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        bf4. a8 g4. f8 g4 d g1 fs2 |\invisibleTime\time 4/2 g\longa*1/2
+       % \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        bf4. a8 g4. f8 g4 d g2 ~ | g fs2 g\longa*1/2
 
         
     \bar "|."

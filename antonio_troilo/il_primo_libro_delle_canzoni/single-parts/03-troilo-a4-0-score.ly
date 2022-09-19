@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Canzon Terza"
+    title = "Canzon III"
     subtitle = ""
-    instrument = "Canzon Terza:  (score)"
+    instrument = "Canzon III:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "canzon_terza"
     shortcomp = "troilo"

@@ -47,7 +47,7 @@ cantusLyricsIII = \lyricmode {
         o -- mnes i -- ni -- mi -- ci me -- i; 
         con -- ver -- tan -- tur, __
         et e -- ru -- be -- scant val -- de ve -- lo -- ci -- ter,
-            val -- de ve -- lo -- ci -- ter.
+            val -- de ve -- lo -- ci -- ter,
             val -- de ve -- lo -- ci -- ter.
 }
 
@@ -153,8 +153,8 @@ tenorLyricsIII = \lyricmode {
         o -- mnes i -- ni -- mi -- ci __ me -- i; __
         con -- ver -- tan -- tur,
         et e -- ru -- be -- scant __ val -- de ve -- lo -- ci -- ter,
-            val -- de ve -- lo -- ci -- ter.
-            val -- de ve -- lo -- ci -- ter.
+            val -- de ve -- lo -- ci -- ter,
+            val -- de ve -- lo -- ci -- ter,
             val -- de ve -- lo -- ci -- ter.
 }
 
@@ -251,7 +251,7 @@ quintusLyricsIII = \lyricmode {
         o -- mnes i -- ni -- mi -- ci me -- i;
         con -- ver -- tan -- tur,
         et e -- ru -- be -- scant val -- de ve -- lo -- ci -- ter,
-            val -- de ve -- lo -- ci -- ter.
+            val -- de ve -- lo -- ci -- ter,
             val -- de ve -- lo -- ci -- ter.
 }
 
@@ -301,7 +301,7 @@ sextusLyricsIII = \lyricmode {
         o -- mnes i -- ni -- mi -- ci me -- i;
         con -- ver -- tan -- tur,
         et e -- ru -- be -- scant val -- de ve -- lo -- ci -- ter,
-            val -- de ve -- lo -- ci -- ter.
+            val -- de ve -- lo -- ci -- ter,
             val -- de ve -- lo -- ci -- ter.
 }
 

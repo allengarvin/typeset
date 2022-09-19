@@ -130,15 +130,15 @@ cantoTwoIII = \relative c'' {
     g4 g,16[ f g a] b4 g | 
     } % checked thru here
     \time 6/4 
-    b4 #(if *is-parts* #{<>^\markup { \italic { Ciaccona } } #}) 
-            g8[ a] b4 a8[ g] a[ b] a4 |
+    s1*0 #(if *is-parts* #{<>^\markup { \italic { Ciaccona } } #}) 
+        b4 g8[ a] b4 a8[ g] a[ b] a4 |
         g4 a8[ b] c[ d] e4 a,2 | 
 
     b4 d8[ c] d[ e fs e] \ficta fs!8[ g a fs!] | \unficta
         g8[ a g f!] e[ d c b] a[ g a b] | g2. r4 r2 | R1. |
         r4 b g fs fs8[ g a fs] | 
     % --- page ---
-    g4 e8[ f] g4 g fs e8[ fs] | g4 g8[ a] b4 a fs'8[ g] a4 |
+    g4 \ficta e8[ fs]\unficta g4 g fs! e8[ fs] | g4 g8[ a] b4 a fs'8[ g] a4 |
         g e8[ \ficta fs] g4 g\unficta fs! e8[ fs] | 
         g4 b,8[ a] b4 r a8[ g] a4 |
 
@@ -180,8 +180,8 @@ bassoIIIincipit = \relative c' {
     g4
 }
 
+% basso: checked against source
 bassoIII = \relative c' {
-    \clef bass
     \key c \major
     \time 4/4
 
@@ -201,20 +201,23 @@ bassoIII = \relative c' {
 
         c, c' b a | g b, c d | e b c a | b g d' d, | g2 g4 g 
     }
-    \time 6/4 g'2 #(if *is-parts* #{<>^\markup { \italic { Ciaccona } } #}) 
-        g4 d2 d4 | e2 c d |
+    \time 6/4 s1*0 #(if *is-parts* #{<>^\markup { \italic { Ciaccona } } #}) 
+        g'2 g4 d2 d4 | e2 c d |
 
     g,2 g'4 d2 d4 | e2 c d | 
-    g,2 g'4 d2 d4 | e2 c d | 
-    g,2 g'4 d2 d4 | e2 c d | 
-    g,2 g'4 d2 d4 | e2 c d | 
+    g,2 g4 d'2 d4 | e2 c d |
+    g,2 g4 d'2 d4 | e2 e4 d d2 |
+    g,2 d'4 d4 d2 | e2 c4 d d2 |
 
-    
-    g,2 g'4 d2 d4 | e2 c d | 
-    g,2 g'4 e e2 | f4 c2 g'4 g2 | c,2 c4 g'2 g4 | a2 f g | c,2 c4 g'2 g4 |
+    g,2 g4 d' d2 e e4 d d2 |
+    g,2 g'4 e e2 f4 c2 g'4 g2 |
+    c,2 c4 g'2 g4 a2 f g | 
+    c,2 c4 g'2 g4  
 
-    a2 f g | c,2 c4 g'2 g4 | a e f g g2 | c,2 c4 g'2 g4 | a e f g g2 |
-        c,2 c4 b2 b4 | a2 a4 g g2 |
+    a2 f g | 
+    c,2 c4 g'2 g4 a e f g g2 | 
+    c,2 c4 g'2 g4 a e f g g2 |
+    c,2 c4 b2 b4 a2 a4 g g2 |
 
     c2 c4 b2 b4 | a2 a4 g g2 | c2 c4 g'2 g4 | a e f g g2 |
         c,2 c4 g'2 g4 | a e f g g2 | c,2 c4 d2 d4 | e c d e e2 |
@@ -229,6 +232,7 @@ bassoIII = \relative c' {
     \bar "|."
 }
 
+% figures checked carefully
 figuresIII = \figuremode {
     \figuresDown
     
@@ -237,6 +241,33 @@ figuresIII = \figuremode {
     s2 | s4 <6> s2 <_+>4 <6> s <_+> | <_+> s2 <_+>4 | s <_+> s2 | s1 | s2. <6>4|
 
     s1 | s4 <6> s2 | s1 | <_+>4 s2 <_+>4 | s1 % --repeat--
+    
+    s2 <6> | s1 | s2 
+
+    s2 | <_+>4 <6> s <_+> | <_+> s2 <_+>4 | s2. <5>8 <6> | s1 | <5> | s | <5> |
+
+    s\breve. | s4 s <4> <_+> s1 | % --repeat--
+    
+    % Ciaccona! 6/4
+    s2. s2 <_+>4 | s1 <_+>2 |
+
+    s2. <_+> s2 s <_+> | s2. <_+> s2 s <_+> |
+        s2. <_+> | s2 s4 <4> <_+>2 | s2. <_+> s2 s4 <4> <_+>2 |
+
+    s2. <_+> s2. <4>4 <_+>2 | s1 <6>2  s2. <4>4 <3>2 | s1. | s | s | 
+
+    s1.*2 | s4 <6> s <4> <3>2 | s1. | s4 <6> s <4> <3>2 | s1. s2 s4 <4> <3>2 |
+
+    s1. s2. <4>4 <3>2 | s1. | s4 <6> s <4> <3>2 | s1. s4 <6> s <4> <3>2 | 
+        s1. <_+>4 <6> s <4> <_+>2 |
+
+    s2. <6> | s2. <4>4 <3>2 s1. s1 <_+>2 | s2. <_+> | s2. <4>4 <_+>2 |
+    % time 4/4 
+    s1
+
+    s2. <_+>4 s1 s2. <6>4 | s1*2 <_+>1 <4>2 <_+> 
+
+    
 }
 
 cantoOneIIIincipitVoice = <<

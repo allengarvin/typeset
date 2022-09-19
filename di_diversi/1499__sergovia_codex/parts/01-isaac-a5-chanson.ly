@@ -14,28 +14,31 @@ cantoI = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    s1*0 _\markup "Fortuna disparata"
-    f\breve | f1( e) | c\breve | r1 g' | a\breve | a1 a | a\breve | g | f ~ | 
-        f1 d | d\breve | \[ e1 d \] | f f ~ | f e | f\breve | R | c' ~ | 
-        c1 a | bf\breve | d1 c2 bf | a\breve | r1 a | g1. f2 | e1 e |
+    s1*0 ^\markup "Fortuna disparata"
+    f\breve | f1( e) | c\breve | r1 g' | a\breve | a1 a | a\breve( | g) | f ~ | 
+        f1( d) | d\breve | \[ e1( d) \] | f f ~ | f( e) | f\breve | R | c' ~ | 
+        c1 a( | bf\breve | d1 c2 bf) | a\breve | r1 a | g1.( f2 | e1 e) |
 
-    f\breve | \[ g1 a | bf\breve \] | bf1 a | a f | g\breve | a1. bf2 |
-        c1 c | d c2 bf ~ | bf a a1 ~ | a2 g4 f g1 | a\breve | R | a1. g4 f |
-        e\breve | c | r1 c | d f | e\breve | f1 g ~ | g2 f e d | e\breve | 
-        \[ d1 f ~ | f2 \] e d c | \[ c\breve | d \] |
+    f\breve | \[ g1( a | bf\breve) \] | bf1 a | a( f) | g\breve | a1.( bf2 |
+        c1 c | d c2 bf ~ | bf a a1 ~ | a2 g4 f g1) | a\breve | R | a1.( g4 f) |
+        e\breve | c | r1 c | d f | e\breve | f1 g ~ | g2( f e d | e\breve | 
+        \[ d1 f ~ | f2 \] e d c | \[ c\breve | d) \] |
 
-    e\breve | r1 f | g a | bf1. a2 | g1 f ~ | f2 e4 d e1 | f\longa*1/2
+    e\breve | r1 f | g a | bf1. a2 | g1 f ~ | f2( e4 d e1) | f\longa*1/2
     \bar "|."
 }
 
-% cantoLyricsI = \lyricmode {
-%     \italic {
-%         For -- tu -- na de -- spe -- ra -- ta
-% iniqua e maledicta,
-% che di tal dona electa
-% la fama ay denegata.
-%     }
-% }
+cantoLyricsI = \lyricmode {
+    \ijLyrics
+        For -- tu -- na,
+        for -- tu -- na de -- spe -- ra -- ta,
+            de -- spe -- ra -- ta,
+    i -- ni -- qua e ma -- le -- di -- cta,
+        e ma -- le -- di -- cta,
+    che __ di tal, 
+    che di tal do -- na~e -- le -- cta
+    la fa -- ma ai de -- ne -- gra -- ta.
+}
 
 % sancte petre
 altoIincipit = \relative c' {
@@ -51,7 +54,7 @@ altoI = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    s1*0 _\markup "Sancte Petre"
+    s1*0 ^\markup "Sancte Petre"
     c1 c | d c | R\breve*2 | c1 c2 c | d1 c | R\breve | r1 c | c2 c d1 | 
         c r1 | R\breve*3 | r1 c | c d | c r1 | R\breve*3 | r1 c | c2 c d1 |
         c r1 | R\breve*2 | c1 c | d c | R\breve*3 | r1
@@ -81,17 +84,17 @@ altoI = \relative c' {
 %   5 Bartholomæe
 altoLyricsI = \lyricmode {
     \ijLyrics
-        San -- cte Pe -- tre,
-        San -- cte An -- dre -- a,
-        San -- cte Ja -- co -- be,
-        San -- cte Tho -- ma,
-        San -- cte Jo -- án -- nes,
-        San -- cte Si -- mon,
-        San -- cte Ja -- co -- be,
-        San -- cte Phi -- lip -- pe,
-        San -- cte Mat -- thæ -- e,
-        San -- cte Thad -- dæ -- e,
-        San -- cte Bar -- tho -- lo -- mæ -- e,
+        San -- cte Pe -- tre.
+        San -- cte An -- dre -- a.
+        San -- cte Ja -- co -- be.
+        San -- cte Tho -- ma.
+        San -- cte Jo -- án -- nes.
+        San -- cte Si -- mon.
+        San -- cte Ja -- co -- be.
+        San -- cte Phi -- lip -- pe.
+        San -- cte Mat -- thæ -- e.
+        San -- cte Thad -- dæ -- e.
+        San -- cte Bar -- tho -- lo -- mæ -- e.
 }
 
 tenoreIincipit = \relative c {
@@ -107,8 +110,8 @@ tenoreI = \relative c {
     \fourTwoCutTime
     \key f \major
 
-    s1*0 _\markup "Fortuna disparata"
-    f1. g2 | a bf c1 ~ | c2 a1 g4 f | g1 g | 
+    s1*0 ^\markup "Fortuna disparata"
+    f1.( g2 | a bf) c1 ~ | c2( a1 g4 f | g1) g | 
         r1 \colorBr f2. \colorBrBegin g4 | a2. bf4 c2. d4 \colorBrEnd |
         e1 c2 f ~ | f e4 d e d c bf | a1 r2 a2 ~ | a4 bf4 c d bf2. a4 |
         g2 \colorBr bf2. \colorBrBegin a4\colorBrEnd g f |
@@ -132,6 +135,18 @@ tenoreI = \relative c {
     \bar "|."
 }
 
+tenoreLyricsI = \lyricmode {
+    \ijLyrics
+        For -- tu -- na,
+%        for -- tu -- na de -- spe -- ra -- ta,
+%            de -- spe -- ra -- ta,
+%    i -- ni -- qua e ma -- le -- di -- cta,
+%        e ma -- le -- di -- cta,
+%    che __ di tal, 
+%    che di tal do -- na~e -- le -- cta
+%    la fa -- ma ai de -- ne -- gra -- ta.
+}
+
 bassoIincipit = \relative c {
     \time 2/2
     \clef "petrucci-f3"
@@ -145,7 +160,7 @@ bassoI = \relative c {
     \fourTwoCutTime
     \key f \major
 
-    s1*0 _\markup "Fortuna disparata"
+    s1*0 ^\markup "Fortuna disparata"
     f1. e2 | d1 a' ~ | a2 f1 e4 d | c\breve | f1. e2 | d4 e f g a2. bf4 | 
         c2 a2. g4 f2 | c d \[ c1 | f\] d | 
         r \colorBr g2. \colorBrBegin a4\colorBrEnd | 
@@ -179,7 +194,7 @@ quintoI = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    s1*0 _\markup "Ora pro nobis"
+    s1*0 ^\markup "Ora pro nobis"
 
     R\breve*2 | c1 a2 bf | c1 c | R\breve*2 | c1 a2 bf | c\breve | R |
         R\breve*2 | c1 a2 bf | c\breve | R\breve | R | r1 c | a2 bf c1 |

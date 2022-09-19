@@ -19,6 +19,7 @@
     lastupdated = "2016-04-25"
     flats = 0
     final = "c"
+    categories = "[animal]"
     shorttitle = "capriciata"
     \include "include/distribution-header.ly"
     tagline = #'f

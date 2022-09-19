@@ -11,9 +11,9 @@
 \header {
     % Things that change per piece:
     title = "Anima mea"
-    subtitle = "Prima pars"
-    instrument = "Anima mea: Prima pars (score)"
-    folio = \markup { fol. 59\super{v} - 60\super{r} }
+    instrument = "Anima mea (score)"
+    folio = \markup { fol. 59\super{v} - 62\super{r} }
+    subtitle = "Song of Songs 5:6-8"
     composer = "Heinrich Isaac (c.1450-1517)"
     headerspace = \markup { \vspace #2 }
 
@@ -30,12 +30,12 @@
 \include "../parts/34-isaac-a4-motet.ly"
 
 \book {
-    \bookOutputName "34-isaac--anima_mea-prima_pars"
+    \bookOutputName "34-isaac--anima_mea"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
@@ -86,12 +86,27 @@
                 \line { ut dilectus locutus est. }
                 \line { Quaesivi et non inveni illum;  }
                 \line { vocavi et non respondit mihi. }
+                \line { \vspace #0.5 } 
+                \line { Invenerunt me custodes civitatis,  }
+                \line { percusserunt me et vulneraverunt me. }
+                \line { Tulerunt pallium meum custodes murorum. }
+                \line { \vspace #0.5 } 
+                \line { Filiae Hierusalem, }
+                \line { nuntiate dilecto quia amore langueo. }
             }
             \column {
                 \line { My soul failed  }
                 \line { when my beloved spoke; }
                 \line { I sought him, but I could not find him;  }
                 \line { I called him, but he gave me no answer. }
+                \line { \vspace #0.5 } 
+                \line { The watchmen of the city found me, }
+                \line { they smote me and they wounded me. }
+                \line { The keepers of the walls took away my veil from me. }
+                \line { \vspace #0.5 } 
+                \line { Daughters of Jerusalem, }
+                \line { tell my beloved that I am sick of love. }
+
                 \line { \hspace #10 \italic { translation by Paul Pascal (1925-2015) } }
             }
         }

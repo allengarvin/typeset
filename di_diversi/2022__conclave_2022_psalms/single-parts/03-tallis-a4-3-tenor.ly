@@ -15,6 +15,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "let_god_arise_in_majesty"
     shortcomp = "tallis"
+    folio = "Archbishop Matthew Parker (1504-1575), Psalm 1"
+    source = "The Whole Psalter translated into English Metre (John Daye press, London, 1567)"
     composer = "Thomas Tallis (c.1505-1585)"
     folio = "Archbishop Matthew Parker (1504-1575), Psalm 68"
 

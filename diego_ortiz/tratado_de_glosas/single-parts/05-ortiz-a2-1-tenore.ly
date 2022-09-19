@@ -14,6 +14,7 @@
     instrument = "Recercada primera: sopra La Spagna (tenore)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "recercada_primera"
+    categories = "[ground]"
     shortcomp = "ortiz"
 
     % Things that change per part:

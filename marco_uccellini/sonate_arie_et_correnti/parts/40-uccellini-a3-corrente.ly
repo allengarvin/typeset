@@ -1,16 +1,33 @@
 % corrente XII, La Briganta
+cantoOneXLincipit = \relative c'' {
+    \clef "petrucci-g"
+    \key f \major
+    \time 6/4 \doubleTimeSig \time 3/1
+
+    d2
+}
+
+ %canto I: checked against source
 cantoOneXL = \relative c'' {
-    \clef treble
     \key f \major
     \time 3/2
 
-    \partial 2
+    \partial 2 d2
     \repeat volta 2 {
+        d2. c4 bf a | bf2 a1 | g2 g' a | bf bf, c | d c1 | d2 d e | f f, g | 
+        a g1 | f2 f' ef | f2 g4 f ef d | 
+
+        c2. d4 ef2 | f2 c2. d4 | d1.
     }
-    \alternative { { } { } }
+    \alternative { { d1 d2 } { d1 f2} }
     \repeat volta 2 {
+        f2. g8[ a] bf2 | bf a1 | g2 bf bf | a a a | g4 g, ef f g a | 
+        bf f d e f g |
+
+        af2 af af | g g g| f bf4 a bf g | a2 c4 bf c a | bf2. a4 g2 | g1 fs2 |
+        g1.
     }
-    \alternative { { } { } }
+    \alternative { { g1 f'2 } { g,\longa*3/8 } }
     \bar "|."
 }
 
@@ -22,8 +39,8 @@ cantoTwoXLincipit = \relative c'' {
     bf2
 }
 
+% canto 2: checked against source
 cantoTwoXL = \relative c'' {
-    \clef treble
     \key f \major
     \time 3/2
 
@@ -55,8 +72,8 @@ bassoXLincipit = \relative c' {
     g2
 }
 
+% basso: checked against source
 bassoXL = \relative c' {
-    \clef bass
     \key f \major
     \time 3/2
 
@@ -78,6 +95,11 @@ bassoXL = \relative c' {
     }
     \alternative { { g1 bf2 } { g\longa*3/8 } }
     \bar "|."
+}
+
+figuresXL = \figuremode {
+    \figuresDown
+    s2 | s\breve. | s2 <_-> s | s1.*11 | s1. | s1.*6 | s2 s <6>
 }
 
 cantoOneXLincipitVoice = <<

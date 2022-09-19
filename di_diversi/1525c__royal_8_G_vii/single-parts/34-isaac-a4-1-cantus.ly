@@ -10,15 +10,15 @@
 \header {
     % Things that change per piece:
     title = "Anima mea"
-    subtitle = "Prima pars"
-    instrument = "Anima mea: Prima pars (cantus)"
-    folio = \markup { fol. 59\super{v} - 60\super{r} }
+    instrument = "Anima mea (cantus)"
+    folio = \markup { fol. 59\super{v} - 62\super{r} }
+    subtitle = "Song of Songs 5:6-8"
     composer = "Heinrich Isaac (c.1450-1517)"
     headerspace = \markup { \vspace #2 }
 
     % Things that change per part:
     partname = "Cantus (part 1 of 4)"
-    instrument = "Anima mea: Prima pars (cantus)"
+    instrument = "Anima mea (cantus)"
 
     % Unchanging:
     lastupdated = "2020-02-16"
@@ -30,7 +30,7 @@
 \include "../parts/34-isaac-a4-motet.ly"
 
 \book {
-    \bookOutputName "34-isaac--anima_mea-prima_pars"
+    \bookOutputName "34-isaac--anima_mea"
     \bookOutputSuffix "--1-cantus--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {

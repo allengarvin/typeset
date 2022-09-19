@@ -49,6 +49,7 @@
                     \global 
                     \altoI
                 >>
+                \addlyrics { \altoLyricsI }
                 \new Voice << 
                     \set Staff.instrumentName = #"[Quintus]"
                     \incipit \quintoIincipitVoice
@@ -56,6 +57,7 @@
                     \global 
                     \quintoI 
                 >>
+                \addlyrics { \quintoLyricsI }
                 \new Voice << 
                     \set Staff.instrumentName = #"[Tenor]"
                     \incipit \tenoreIincipitVoice
