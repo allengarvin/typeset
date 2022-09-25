@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly"
@@ -6,7 +6,7 @@
 \include "../include/macros.ly"
 \include "../include/scheme.ly"
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:

@@ -13,9 +13,9 @@ cantoXIincipit = \relative c'' {
     a2.
 }
 
+% canto: checked against source
 cantoXI = \relative c'' {
     \fourTwoCutTime
-    \clef soprano
     \key c \major
 
     R\breve | r1 a2. a4 | a2 a4 b c2 a | r4 a a gs a2 f | e4 c'4. c8 b4 a1 ~ |
@@ -24,8 +24,8 @@ cantoXI = \relative c'' {
     a4 a4. a8 g4 | f( e8[ d] e2) f4 d2 d4 | d2 e4 e f1 ~ | f2 e r4 a a gs |
         a2 f e4 a4. a8 a4 | a2 d, r r4 f ~ | f8[ f] e4 d2 a1 |
 
-    r4 f'4. f8 e4 d1 | cs4 d d e f8([ e d e] f4) g | a a4. a8 g2 f e4 ~ |
-        e8[\melisma\ficta d] d2 cs4\unficta\melismaEnd d2 r4 a' |
+    r4 f'4. f8 e4 d1 | cs4 d d e f8([ e d e] f4) g | a a4. a8 g2 f\melfi e4 ~ |
+        e8[ d] d2 cs4\melfiEnd d2 r4 a' |
         a8([ g a b] c4) c a bf g2 | a4 f f8([ e f g] 
 
     a1) | a2. g4. f8 f2( e4) f2 r4 f f f f g | a2 a4 a f f f g | 
@@ -42,15 +42,17 @@ cantoXI = \relative c'' {
 cantoLyricsXI = \lyricmode {
     Quan -- te vol -- te vol -- ge -- te 
     I bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
-    Tan -- to s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te;
+    Tan -- te s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te;
 
-    quan -- te vol -- te vol -- ge -- te 
-    i bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
+    Quan -- te vol -- te vol -- ge -- te 
+    I bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
+        dol -- ce mia vi -- ta,
     \ijLyrics
         dol -- ce mia vi -- ta,
     \normalLyrics
-    tan -- to s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te
+    Tan -- te s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te
     Con fiam -- ma sì gra -- di -- ta,
+    con fiam -- ma sì gra -- di -- ta,
     Che dal -- l'i -- stes -- so~ar -- do -- re,
     \ijLyrics
     che dal -- l'i -- stes -- so~ar -- do -- re
@@ -70,9 +72,9 @@ altoXIincipit = \relative c' {
     d2.
 }
 
+% alto: checked against source
 altoXI = \relative c' {
     \fourTwoCutTime
-    \clef alto
     \key c \major
 
     d2. d4 d2 d4 e | f2 d r4 d d cs | d2. b4 a1 | r4 f'4. f8 e4 d1 | 
@@ -86,7 +88,7 @@ altoXI = \relative c' {
         a2) a4 g4. f8 f2( e4) | f d d8([ c d e] f1 ~ | f2) e 
 
     d4 d c2 | c r4 c d d d e | f2 f r4 c4. d8 e4 | 
-        f f f e d8([ c d e] d4) c | d2 d4 f e d d2 | cs4 d2( cs4) d2. d4 |
+        f f f e d8([ c d e] d4) c | d2 d4 f e d d2 | cs4( d2 cs4) d2. d4 |
 
     d4 d a c c2 c4 f | e e e g g2 g4 g | c, a a b d2 a | R\breve | 
         r4 c4. d8 e4 f f f e | d8([ c d e] d4) c d2 d4 f |
@@ -96,6 +98,26 @@ altoXI = \relative c' {
 }
 
 altoLyricsXI = \lyricmode {
+    Quan -- te vol -- te vol -- ge -- te
+    I bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
+    Tan -- te s'av -- vi -- va~il fo -- co on -- de m'ar -- de -- te,
+        on -- de m'ar -- de -- te;
+
+    Quan -- te vol -- te vol -- ge -- te
+    I bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
+    Tan -- te s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te
+    Con fiam -- ma sì gra -- di -- ta,
+    con fiam -- ma sì gra -- di -- ta,
+    Che dal -- l'i -- stes -- so~ar -- do -- re
+    On -- de si strug -- ge~ha re -- fri -- ge -- rio~il co -- re,
+        re -- fri -- ge -- rio~il co -- re,
+    che dal -- l'i -- stes -- so~ar -- do -- re,
+    \ijLyrics
+    che dal -- l'i -- stes -- so~ar -- do -- re,
+    che dal -- l'i -- stes -- so~ar -- do -- re
+    \normalLyrics
+    on -- de si strug -- ge~ha re -- fri -- ge -- rio~il co -- re,
+        ha re -- fri -- ge -- rio~il co -- re.
 }
 
 tenoreXIincipit = \relative c {
@@ -106,9 +128,9 @@ tenoreXIincipit = \relative c {
     d2
 }
 
+% tenore: checked against source
 tenoreXI = \relative c {
     \fourTwoCutTime
-    \clef tenor
     \key c \major
 
     R\breve*3 | d2 d4 e f8([ e d e] f4) g | a a4. a8 g4 f1 ~ | f2 e r2 r4 c'~|
@@ -131,6 +153,29 @@ tenoreXI = \relative c {
 }
 
 tenoreLyricsXI = \lyricmode {
+%    Quan -- te vol -- te vol -- ge -- te
+%    I bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
+    Tan -- te s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te;
+        dol -- ce mia vi -- ta,
+
+    Quan -- te vol -- te vol -- ge -- te
+    I bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
+    Tan -- te s'av -- vi -- va~il fo -- co,
+    tan -- te s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te,
+    tan -- te s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te
+    Con fiam -- ma sì gra -- di -- ta,
+    con fiam -- ma sì gra -- di -- ta,
+    Che dal -- l'i -- stes -- so~ar -- do -- re,
+    \ijLyrics
+    che dal -- l'i -- stes -- so~ar -- do -- re,
+    \normalLyrics
+    che dal -- l'i -- stes -- so~ar -- do -- re,
+    \ijLyrics
+    che dal -- l'i -- stes -- so~ar -- do -- re
+    \normalLyrics
+    On -- de si strug -- ge~ha re -- fri -- ge -- rio~il co -- re,
+    on -- de si strug -- ge~ha re -- fri -- ge -- rio~il co -- re,
+        ha re -- fri -- ge -- rio~il co -- re.
 }
 
 bassoXIincipit = \relative c {
@@ -141,9 +186,9 @@ bassoXIincipit = \relative c {
     d2.
 }
 
+% basso: checked against source
 bassoXI = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key c \major
 
     R\breve*4 R\breve*4 | r1 d2. d4 | d2 c4 c f1 | d2 r d4 d d e8[ e] |
@@ -153,7 +198,7 @@ bassoXI = \relative c {
         a4 d,4. d8 c4 bf2.( a8[ g] | f4 f'2 e8[ d] c[ b a g] f4 g | a1) d |
 
     R\breve | r1 r4 d d8([ c d e] | f2) c d4 bf c2 | f, r4 f' d d d c | 
-        f2 f r1 | R\breve*2 | r1 d2 d4 d | d2. c4 f2 f | r1 r4 c4. d8 e4 |
+        f2 f r1 | R\breve R | r1 d2 d4 d | d2. c4 f2 f | r1 r4 c4. d8 e4 |
 
     f4 f f e d8([ c d e] d4) c \[ d1( e) \] | a, r4 f4. g8 a4 | 
         bf bf bf a g8([ f g a] g4) f | \[ g1( a) \] | d\longa*1/2
@@ -161,6 +206,17 @@ bassoXI = \relative c {
 }
 
 bassoLyricsXI = \lyricmode {
+    Quan -- te vol -- te vol -- ge -- te,
+    \ijLyrics
+    quan -- te vol -- te vol -- ge -- te
+    \normalLyrics
+    I bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
+    Tan -- te s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te;
+    Con fiam -- ma sì gra -- di -- ta,
+    Che dal -- l'i -- stes -- so~ar -- do -- re,
+    che dal -- l'i -- stes -- so~ar -- do -- re
+    On -- de si strug -- ge~ha re -- fri -- ge -- rio~il co -- re,
+    On -- de si strug -- ge~ha re -- fri -- ge -- rio~il co -- re.
 }
 
 quintoXIincipit = \relative c' {
@@ -171,9 +227,9 @@ quintoXIincipit = \relative c' {
     a2.
 }
 
+% quinto: checked against source
 quintoXI = \relative c' {
     \fourTwoCutTime
-    \clef tenor
     \key c \major
 
     R\breve*4 | r1 a2. a4 | a2 b4 b c2 a | a4 g a f e1 | r4 f4. f8 e4 d2 c4 e |
@@ -194,6 +250,21 @@ quintoXI = \relative c' {
 }
 
 quintoLyricsXI = \lyricmode {
+    Quan -- te vol -- te vol -- ge -- te~I 
+        bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
+        mia vi -- ta,
+    quan -- te vol -- te vol -- ge -- te~I 
+        bei vo -- stri~oc -- chi~in me, dol -- ce mia vi -- ta,
+    Tan -- te s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te,
+        on -- de m'ar -- de -- te,
+    tan -- te s'av -- vi -- va~il fo -- co~on -- de m'ar -- de -- te,
+    Con fiam -- ma sì gra -- di -- ta,
+    Che dal -- l'i -- stes -- so~ar -- do -- re~On -- de 
+        si strug -- ge~ha re -- fri -- ge -- rio~il co -- re,
+    che dal -- l'i -- stes -- so~ar -- do -- re
+    on -- de si strug -- ge~ha re -- fri -- ge -- rio~il co -- re,
+        il co -- re,
+    on -- de si strug -- ge~ha re -- fri -- ge -- rio~il co -- re.
 }
 
 cantoXIincipitVoice = <<

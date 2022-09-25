@@ -17,6 +17,8 @@
     shorttitle = "la_balia"
     shortcomp = "uccellini"
     categories = "[trio]"
+    final = "d"
+    flats = -2
 
     % Unchanging:
     language = "instrumental"

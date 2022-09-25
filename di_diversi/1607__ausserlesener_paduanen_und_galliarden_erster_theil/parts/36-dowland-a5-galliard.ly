@@ -6,9 +6,9 @@ cantoXXXVIincipit = \relative c'' {
     g2
 }
 
+% canto: checked against source
 cantoXXXVI = \relative c'' {
     \singleTime\time 3/2
-    \clef treble
     \key f \major
 
     \repeat volta 2 {
@@ -39,14 +39,14 @@ altoXXXVIincipit = \relative c'' {
     g2
 }
 
+% alto: checked against source
 altoXXXVI = \relative c'' {
     \singleTime\time 3/2
-    \clef mezzosoprano
     \key f \major
 
     \repeat volta 2 {
-        g2 g g | g2. f8[ e] d2 | bf' bf c | a1 a2 | a a4 a2 d,4 | f2 d c |
-        d d1 | d1.
+        g2 g g | g2. f8[ \ficta ef] \unficta d2 | bf' bf c | a1 a2 | 
+        a a4 a2 d,4 | f2 d c | d d1 | d1.
     }
     \repeat volta 2 {
         g2 g g | fs2. g4 a2 | f e e | a2. g4 fs2 | bf2. a8[ g] f4 g |
@@ -55,7 +55,7 @@ altoXXXVI = \relative c'' {
         f1.
     }
     \repeat volta 2 {
-        g4 a bf a g2 | a1. | a2 a g4 d | g1 g2 | g1 f4 d | f2. f4 e2 | d d1 |
+        g4 a bf a g2 | a1. | a2 a g4 d | g1 g2 | g1 f4 c | f2. f4 e2 | d d1 |
         d1.
     }
 }
@@ -68,9 +68,9 @@ tenoreXXXVIincipit = \relative c' {
     d2
 }
 
+% tenore: checked against source
 tenoreXXXVI = \relative c' {
     \singleTime\time 3/2
-    \clef alto
     \key f \major
 
     \repeat volta 2 {
@@ -100,9 +100,9 @@ bassoXXXVIincipit = \relative c' {
     g2
 }
 
+% basso: checked against source
 bassoXXXVI = \relative c' {
     \singleTime\time 3/2
-    \clef bass
     \key f \major
 
     \repeat volta 2 {
@@ -130,9 +130,9 @@ quintoXXXVIincipit = \relative c' {
     bf2
 }
 
+% quinto: checked against source
 quintoXXXVI = \relative c' {
     \singleTime\time 3/2
-    \clef tenor
     \key f \major
 
     \repeat volta 2 {

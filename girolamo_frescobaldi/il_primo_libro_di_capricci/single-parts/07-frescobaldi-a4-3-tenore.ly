@@ -1,0 +1,59 @@
+\version "2.18.2"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    lastupdated = "2022-09-24"
+    originallyset = "2022-09-24"
+    \include "include/distribution-header.ly"
+ 
+    % Things that change per piece:
+    title = "Capriccio VII"
+    subtitle = "sopra l'aria 'Or che noi rimena'"
+    instrument = "Capriccio VII: sopra l'aria 'Or che noi rimena' (tenore)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "capriccio_vii"
+    shortcomp = "frescobaldi"
+
+    % Things that change per part:
+    partname = "Tenore (part 3 of 4)"
+    instrument = "Capriccio VII: sopra l'aria 'Or che noi rimena' (tenore)"
+
+    % Unchanging:
+    tagline = #'f
+}
+
+\include "../parts/07-frescobaldi-a4-capriccio.ly"
+
+\book {
+    \bookOutputName "07-frescobaldi--capriccio_vii"
+    \bookOutputSuffix "--3-tenore--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenoreVII
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "07-frescobaldi--capriccio_vii"
+    \bookOutputSuffix "--3-tenore--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenoreVII
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

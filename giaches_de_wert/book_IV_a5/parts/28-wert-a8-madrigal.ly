@@ -7,6 +7,13 @@
 % O restate, alti dei, fra noi restate,
 % Che la terra del ciel’ a par beate.
 
+
+%Quanto ti deggio cara Italia mia
+%Dal forte Alfonso il mio cesareo seggio
+%  Richiamar sento a sommi onori di pria.
+%O restate, alti dei, fra noi restate,
+%Che la terra del ciel’ a par beate. 
+
 cantoOneXXVIIIincipit = \relative c'' {
     \time 2/2
     \key f \major
@@ -39,7 +46,7 @@ cantoOneXXVIII = \relative c'' {
 
 cantoOneLyricsXXVIII = \lyricmode {
     Ca -- ra Ger -- ma -- nia mia quan -- to ti deg -- gio, 
-        Da Bar -- ba -- ra gen -- til ren -- der mi veg -- io,
+        Da Bar -- ba -- ra gen -- til ren -- der mi veg -- gio,
     L'an -- ti -- ca~e -- ta del -- l'or ch'in me __ fi -- o -- ria
     O re -- sta -- te~al -- ti dei fra noi re -- sta -- te,
     o re -- sta -- te~al -- ti dei fra noi re -- sta -- te;
@@ -91,37 +98,38 @@ altoOneXXVIIIincipit = \relative c'' {
     g1
 }
 
+% alto: checked against source
 altoOneXXVIII = \relative c'' {
     \fourTwoCutTime
-    \clef mezzosoprano
     \key f \major
 
     g1 g2 f4 f ~ | f f f2 d4 d ef d ~ | d( c) d2 r1 | R\breve | r1 g |
-        g2 f4 f2 f4 f2 | d4 d ef d2 c4 d2 | r2 f f f |
+        g2 f4 f2 f4 f2 | d4 d ef d2( c4) d2 | r2 f f f |
 
     f2 f4 f2 f4 d2 | ef d d1 | R\breve*4 R\breve*2 | r2 bf'1 bf2 | bf1. d2 ~ |
-        d4 c bf2. a4 g2 ~ | g4 g f2 e r4 d ~ | d d d2 f2. e4 |
+        d4 c bf2. a4 g2 ~ | g4 g f2 d r4 d ~ | d d d2 f2. e4 |
         d2. bf4 c f f2 | f
 
     f1 f2 | f f4 f f c f2 ~ | f4 g a2 d,1 | \singleTime \time 3/2
         r2 bf'1 | bf2 bf d ~ | d4 c bf2. a4 | g2 g f | d1 r2 |
         d2. d4 d2 | f2. e4 d2 ~ | d4 bf c f f2 |
 
-    f1. | f2 f f | f f4 f2 a4 | d,2 g a4 d, | d1 r2 | d2 f f | f f4 f2 a4 |
-        d,2 g a4 d, | d\longa*1/2
+    f1. | f2 f f | f f4 f2 a4 | d,2 g a4( d,) | d1 r2 | d2 f f | f f4 f2 a4 |
+        d,2 g a4( d,) | d\longa*1/2
     \bar "|."
 }
 
 altoOneLyricsXXVIII = \lyricmode {
-%    Ca -- ra Ger -- ma -- nia mia quan -- to ti deg -- gio,
-%        Da Bar -- ba -- ra gen -- til ren -- der mi veg -- io,
-%    L'an -- ti -- ca~e -- ta del -- l'or ch'in me fi -- o -- ria
-%    O re -- sta -- te~al -- ti dei fra noi re -- sta -- te,
-%    o re -- sta -- te~al -- ti dei fra noi re -- sta -- te;
-%    Che la ter -- ra del cie -- lo~a par be -- a -- te
-%    o re -- sta -- te~al -- ti dei fra noi re -- sta -- te
-%    che la ter -- ra del cie -- lo~a par be -- a -- te
-%    che la ter -- ra del cie -- lo~a par be -- a -- te.
+    Ca -- ra Ger -- ma -- nia mia quan -- to ti deg -- gio,
+        Da Bar -- ba -- ra gen -- til ren -- der mi veg -- gio,
+    L'an -- ti -- ca~e -- ta del -- l'or ch'in me fi -- o -- ria
+    O re -- sta -- te~al -- ti dei fra noi __ re -- sta -- te,
+    o __ re -- sta -- te~al -- ti dei fra noi re -- sta -- te;
+    Che la ter -- ra del cie -- lo~a par __ be -- a -- te
+    o re -- sta -- te~al -- ti dei fra noi re -- sta -- te,
+    o re -- sta -- te~al -- ti dei __ fra noi re -- sta -- te
+    che la ter -- ra del cie -- lo~a par be -- a -- te
+    che la ter -- ra del cie -- lo~a par be -- a -- te.
 }
 
 altoTwoXXVIIIincipit = \relative c'' {
@@ -171,7 +179,8 @@ tenoreOneXXVIII = \relative c' {
     d1 d2 d4 c ~ | c c c2 b c4 a | g2 a r1 | R\breve | r1 d | d2 d4 c2 c4 c2 |
         b c4 a g2 a | r2 d d d |
 
-    c2 c4 c2 c4 b2 | c a g1 | R\breve*6 | r1 f' ~ | f2 f f1 | a2 f f d | 
+    c2 c4 c2 c4 b2 | c a g1 | R\breve*4 R\breve*2 | 
+        r1 f' ~ | f2 f f1 | a2 f f d | 
         ef4 ef c2 bf1 ~ | bf r2 bf | d f f1 | d2 d1 d2 | d2 d4 f f1 | f,
 
     bf2 d | \invisibleTime \time 2/2 d1 \singleTime \time 3/2 d2. g4 f2 ~ | 
@@ -184,15 +193,16 @@ tenoreOneXXVIII = \relative c' {
 }
 
 tenoreOneLyricsXXVIII = \lyricmode {
-%    Ca -- ra Ger -- ma -- nia mia quan -- to ti deg -- gio,
-%        Da Bar -- ba -- ra gen -- til ren -- der mi veg -- io,
-%    L'an -- ti -- ca~e -- ta del -- l'or ch'in me fi -- o -- ria
-%    O re -- sta -- te~al -- ti dei fra noi re -- sta -- te,
-%    o re -- sta -- te~al -- ti dei fra noi re -- sta -- te;
-%    Che la ter -- ra del cie -- lo~a par be -- a -- te
-%    o re -- sta -- te~al -- ti dei fra noi re -- sta -- te
-%    che la ter -- ra del cie -- lo~a par be -- a -- te
-%    che la ter -- ra del cie -- lo~a par be -- a -- te.
+    Ca -- ra Ger -- ma -- nia mia quan -- to ti deg -- gio,
+        Da Bar -- ba -- ra gen -- til ren -- der mi veg -- gio,
+    L'an -- ti -- ca~e -- ta del -- l'or ch'in me fi -- o -- ri
+    O __ re -- sta -- te~al -- ti dei fra noi re -- sta -- te, __
+        fra noi re -- sta -- te;
+    Che la ter -- ra del cie -- lo~a par be -- a -- te,
+        be -- a -- te
+    o __ re -- sta -- te~al -- ti dei fra noi re -- sta -- te
+    che la ter -- ra del cie -- lo~a par be -- a -- te
+    che __ la ter -- ra del cie -- lo~a par be -- a -- te.
 }
 
 tenoreTwoXXVIIIincipit = \relative c'' {
@@ -234,20 +244,21 @@ bassoOneXXVIIIincipit = \relative c' {
     g1
 }
 
+% basso: checked against source
 bassoOneXXVIII = \relative c' {
     \fourTwoCutTime
-    \clef varbaritone
     \key f \major
 
     g1 g2 bf4 f ~ | f f f2 g c,4 d | ef2 d r1 | R\breve | r1 g | 
         g2 bf4 f2 f4 f2 | g c,4 d ef2 d | r bf bf bf |
 
-    f'2 f4 f2 f4 g2 | c, d g1 | R\breve*6 | r1 bf ~ | bf2 bf bf2. d4 ~ |
-        d a bf2. f4 g2 | ef d bf,1 | r2 bf bf1 ~ | bf2 bf f'1 | 
+    f'2 f4 f2 f4 g2 | c, d g1 | R\breve*4 R\breve*2 | 
+        r1 bf ~ | bf2 bf bf2. d4 ~ |
+        d a bf2. f4 g2 | ef f bf,1 | r2 bf bf1 ~ | bf2 bf f'1 | 
         f2 bf,1 bf2 | bf bf4 bf
 
     f'1 ~ | f2 d g g | \invisibleTime \time 2/2 d1 | \singleTime \time 3/2
-        g,1 r2 | R1.*3 | r2 r bf' ~ | bf4 bf bf2 d ~ | d4 c bf1 |
+        g,1 r2 | R1.*2 R1. | r2 r bf' ~ | bf4 bf bf2 d ~ | d4 c bf1 |
         bf2 f4 bf, f'2 | bf,1. | f'2 f f | f a4 c2 f,4 | g2 g, d' |
 
     d1 r2 | bf bf bf | f'2 f4 f2 d4 | g2 g d | g,\longa*1/2
@@ -255,15 +266,15 @@ bassoOneXXVIII = \relative c' {
 }
 
 bassoOneLyricsXXVIII = \lyricmode {
-%    Ca -- ra Ger -- ma -- nia mia quan -- to ti deg -- gio,
-%        Da Bar -- ba -- ra gen -- til ren -- der mi veg -- io,
-%    L'an -- ti -- ca~e -- ta del -- l'or ch'in me fi -- o -- ria
-%    O re -- sta -- te~al -- ti dei fra noi re -- sta -- te,
-%    o re -- sta -- te~al -- ti dei fra noi re -- sta -- te;
-%    Che la ter -- ra del cie -- lo~a par be -- a -- te
-%    o re -- sta -- te~al -- ti dei fra noi re -- sta -- te
-%    che la ter -- ra del cie -- lo~a par be -- a -- te
-%    che la ter -- ra del cie -- lo~a par be -- a -- te.
+    Ca -- ra Ger -- ma -- nia mia quan -- to ti deg -- gio,
+        Da Bar -- ba -- ra gen -- til ren -- der mi veg -- gio,
+    L'an -- ti -- ca~e -- ta del -- l'or ch'in me fi -- o -- ria
+    O __ re -- sta -- te~al -- ti dei fra noi re -- sta -- te,
+        fra noi __ re -- sta -- te;
+    Che la ter -- ra del cie -- lo~a par be -- a -- te
+    o __ re -- sta -- te~al -- ti dei fra noi re -- sta -- te
+    che la ter -- ra del cie -- lo~a par be -- a -- te
+    che la ter -- ra del cie -- lo~a par be -- a -- te.
 }
 
 bassoTwoXXVIIIincipit = \relative c' {
@@ -296,6 +307,11 @@ bassoTwoXXVIII = \relative c' {
 }
 
 bassoTwoLyricsXXVIII = \lyricmode {
+%Quanto ti deggio cara Italia mia
+%Dal forte Alfonso il mio cesareo seggio
+%  Richiamar sento a sommi onori di pria.
+%O restate, alti dei, fra noi restate,
+%Che la terra del ciel’ a par beate. 
 }
 
 cantoOneXXVIIIincipitVoice = <<

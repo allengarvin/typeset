@@ -1,3 +1,20 @@
+% Mentre io campai contento
+% Correvano li giorni più che'l vento,
+% E mò ch'io vivo in pene
+% Dura mill'anni il giorno amaro mene,
+% 
+% Mentre io campai ridendo,
+% Li giorni se n'andavano fuggendo,
+% 
+% Mentre io campai cantando,
+% Li giorni se n'andavano volando,
+% 
+% Oimè che gioia e bene
+% Volando se ne fugge amaromente,
+% 
+% Ma gli affanni e gli guai,
+% Scorrono dentre al petto sempre mai,
+
 cantoIIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-g"
@@ -24,6 +41,7 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
+    \set stanza = "1. "
     Men -- tre~io cam -- pai con -- ten -- to
     Cor -- re -- va -- no li gior -- ni più che'l ven -- to,
     
@@ -36,6 +54,44 @@ cantoLyricsII = \lyricmode {
 
     Du -- ra mil -- l'an -- ni~il gior -- no~a -- ma -- ro me -- ne,
     du -- ra mil -- l'an -- ni~il gior -- no~a -- ma -- ro me -- ne.
+}
+
+cantoLyricsIIa = \lyricmode {
+    \set stanza = "2. "
+    Men -- tre~io cam -- pai ri -- den -- do,
+    Li gior -- ni se n'an -- da -- va -- no fug -- gen -- do,
+
+    Men -- tre~io cam -- pai ri -- den -- do,
+    Li gior -- ni se n'an -- da -- va -- no fug -- gen -- do,
+
+    E mò "..."
+}
+
+cantoLyricsIIb = \lyricmode {
+    \set stanza = "3. "
+    Men -- tre~io cam -- pai can -- tan -- do,
+    Li gior -- ni se n'an -- da -- va -- no vo -- lan -- do,
+
+    Men -- tre~io cam -- pai can -- tan -- do,
+    Li gior -- ni se n'an -- da -- va -- no vo -- lan -- do,
+
+    E mò "..."
+}
+
+cantoLyricsIIc = \lyricmode {
+    \set stanza = "4. "
+    Oi -- mè che gio -- ia~e be -- ne
+    Vo -- lan -- do se ne fug -- ge~a -- ma -- ro -- men -- te,
+
+    Oi -- mè che gio -- ia~e be -- ne
+    Vo -- lan -- do se ne fug -- ge~a -- ma -- ro -- men -- te,
+
+    Ma gli~af -- fan -- ni~e gli gua -- i,
+    Scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+    scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+
+    scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+    scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i.
 }
 
 altoIIincipit = \relative c'' {
@@ -65,6 +121,7 @@ altoII = \relative c'' {
 }
 
 altoLyricsII = \lyricmode {
+    \set stanza = "1. "
     Men -- tre~io cam -- pai con -- ten -- to
     Cor -- re -- va -- no li gior -- ni più che'l ven -- to,
     
@@ -77,6 +134,53 @@ altoLyricsII = \lyricmode {
 
     Du -- ra mil -- l'an -- ni~il gior -- no,
     du -- ra mil -- l'an -- ni~il gior -- no~a -- ma -- ro me -- ne.
+}
+
+altoLyricsIIa = \lyricmode {
+    \set stanza = "2. "
+    Men -- tre~io cam -- pai ri -- den -- do,
+    Li gior -- ni se n'an -- da -- va -- no fug -- gen -- do,
+
+    Men -- tre~io cam -- pai ri -- den -- do,
+    Li gior -- ni se n'an -- da -- va -- no fug -- gen -- do,
+
+    E mò "..."
+}
+
+altoLyricsIIb = \lyricmode {
+    \set stanza = "3. "
+    Men -- tre~io cam -- pai can -- tan -- do,
+    Li gior -- ni se n'an -- da -- va -- no vo -- lan -- do,
+
+    Men -- tre~io cam -- pai can -- tan -- do,
+    Li gior -- ni se n'an -- da -- va -- no vo -- lan -- do,
+
+    E mò "..."
+}
+
+altoLyricsIIc = \lyricmode {
+    \set stanza = "4. "
+    Oi -- mè che gio -- ia~e be -- ne
+    Vo -- lan -- do se ne fug -- ge~a -- ma -- ro -- men -- te,
+
+    Oi -- mè che gio -- ia~e be -- ne
+    Vo -- lan -- do se ne fug -- ge~a -- ma -- ro -- men -- te,
+
+    Ma gli~af -- fan -- ni~e gli gua -- i,
+    Scor -- ro -- no den -- tre~al pet -- to,
+    scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+
+    scor -- ro -- no den -- tre~al pet -- to,
+    scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i.
+}
+
+altoLyricsIId = \lyricmode {
+    Ma gli~af -- fan -- ni~e gli gua -- i,
+    Scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+
+    Ma gli~af -- fan -- ni~e gli gua -- i,
+    Scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+
 }
 
 tenoreIIincipit = \relative c'' {
@@ -108,6 +212,7 @@ tenoreII = \relative c'' {
 }
 
 tenoreLyricsII = \lyricmode {
+    \set stanza = "1. "
     Men -- tre~io cam -- pai con -- ten -- to
     Cor -- re -- va -- no li gior -- ni più che'l ven -- to,
     
@@ -116,12 +221,61 @@ tenoreLyricsII = \lyricmode {
     
     E mò ch'io vi -- vo~in pe -- ne
     Du -- ra mil -- l'an -- ni~il gior -- no,
-        il gior -- no~a -- ma -- ro me -- ne,
+        il gior -- no~a -- ma -- ro me -- ne;
 
     E mò ch'io vi -- vo~in pe -- ne
-    Du -- ra mil -- l'an -- ni~il gior -- no,
+    du -- ra mil -- l'an -- ni~il gior -- no,
     du -- ra mil -- l'an -- ni~il gior -- no,
         il gior -- no~a -- ma -- ro me -- ne.
+}
+
+tenoreLyricsIIa = \lyricmode {
+    \set stanza = "2. "
+    Men -- tre~io cam -- pai ri -- den -- do,
+    Li gior -- ni se n'an -- da -- va -- no fug -- gen -- do,
+
+    Men -- tre~io cam -- pai ri -- den -- do,
+    Li gior -- ni se n'an -- da -- va -- no fug -- gen -- do,
+
+    E mò "..."
+}
+
+tenoreLyricsIIb = \lyricmode {
+    \set stanza = "3. "
+    Men -- tre~io cam -- pai can -- tan -- do,
+    Li gior -- ni se n'an -- da -- va -- no vo -- lan -- do,
+
+    Men -- tre~io cam -- pai can -- tan -- do,
+    Li gior -- ni se n'an -- da -- va -- no vo -- lan -- do,
+
+    E mò "..."
+}
+
+tenoreLyricsIIc = \lyricmode {
+    \set stanza = "4. "
+    Oi -- mè che gio -- ia~e be -- ne
+    Vo -- lan -- do se ne fug -- ge~a -- ma -- ro -- men -- te,
+
+    Oi -- mè che gio -- ia~e be -- ne
+    Vo -- lan -- do se ne fug -- ge~a -- ma -- ro -- men -- te,
+
+    Ma gli~af -- fan -- ni~e gli gua -- i,
+    Scor -- ro -- no den -- tre~al pet -- to,
+        al pet -- to sem -- pre ma -- i;
+
+    Ma gli~af -- fan -- ni~e gli gua -- i,
+    scor -- ro -- no den -- tre~al pet -- to,
+    scor -- ro -- no den -- tre~al pet -- to,
+        al pet -- to sem -- pre ma -- i.
+}
+
+tenoreLyricsIId = \lyricmode {
+    Ma gli~af -- fan -- ni~e gli gua -- i,
+    Scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+
+    Ma gli~af -- fan -- ni~e gli gua -- i,
+    Scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+
 }
 
 bassoIIincipit = \relative c' {
@@ -152,6 +306,7 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
+    \set stanza = "1. "
     Cor -- re -- va -- no li gior -- ni più che'l ven -- to,
     
     Cor -- re -- va -- no li gior -- ni più che'l ven -- to,
@@ -164,6 +319,46 @@ bassoLyricsII = \lyricmode {
     Du -- ra mil -- l'an -- ni~il gior -- no,
     du -- ra mil -- l'an -- ni~il gior -- no~a -- ma -- ro,
         a -- ma -- ro me -- ne.
+}
+
+bassoLyricsIIa = \lyricmode {
+    \set stanza = "2. "
+    Li gior -- ni se n'an -- da -- va -- no fug -- gen -- do,
+
+    Li gior -- ni se n'an -- da -- va -- no fug -- gen -- do,
+    E mò "..."
+}
+
+bassoLyricsIIb = \lyricmode {
+    \set stanza = "3. "
+    Li gior -- ni se n'an -- da -- va -- no vo -- lan -- do,
+
+    Li gior -- ni se n'an -- da -- va -- no vo -- lan -- do,
+    E mò "..."
+}
+
+bassoLyricsIIc = \lyricmode {
+    \set stanza = "4. "
+    Vo -- lan -- do se ne fug -- ge~a -- ma -- ro -- men -- te,
+
+    Vo -- lan -- do se ne fug -- ge~a -- ma -- ro -- men -- te,
+
+    Ma gli~af -- fan -- ni~e gli gua -- i,
+
+    Scor -- ro -- no den -- tre~al pet -- to,
+    scor -- ro -- no den -- tre~al pet -- to sem -- pre,
+        sem - pre ma -- i.
+
+    scor -- ro -- no den -- tre~al pet -- to,
+    scor -- ro -- no den -- tre~al pet -- to sem -- pre,
+        sem - pre ma -- i.
+}
+
+bassoLyricsIId = \lyricmode {
+    Scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+
+    Scor -- ro -- no den -- tre~al pet -- to sem -- pre ma -- i,
+
 }
 
 cantoIIincipitVoice = <<

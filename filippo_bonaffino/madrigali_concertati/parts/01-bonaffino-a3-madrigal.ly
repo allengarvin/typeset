@@ -8,7 +8,7 @@
 % Ad un sospir errante
 % che forse vola in seno ad altro amante.
 
-cantoIincipit = \relative c'' {
+cantoOneIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"
     \key f \major
@@ -16,8 +16,8 @@ cantoIincipit = \relative c'' {
     c4
 }
 
-% canto: checked against source
-cantoI = \relative c'' {
+% cantoOne: checked against source
+cantoOneI = \relative c'' {
     \fourTwoCommonTime
     \key f \major
 
@@ -44,7 +44,7 @@ cantoI = \relative c'' {
     \bar "|."
 }
 
-cantoLyricsI = \lyricmode {
+cantoOneLyricsI = \lyricmode {
     Dol -- cis -- si -- mo so -- spi -- ro,
     dol -- cis -- si -- mo so -- spi -- ro
     Ch'e -- sci da quel -- la boc -- ca
@@ -64,7 +64,7 @@ cantoLyricsI = \lyricmode {
         ad al -- tro~a -- man -- te.
 }
 
-tenoreIincipit = \relative c'' {
+cantoTwoIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"
     \key f \major
@@ -72,8 +72,8 @@ tenoreIincipit = \relative c'' {
     a4
 }
 
-% tenore: checked against source
-tenoreI = \relative c'' {
+% cantoTwo: checked against source
+cantoTwoI = \relative c'' {
     \fourTwoCommonTime
     \key f \major
 
@@ -99,7 +99,7 @@ tenoreI = \relative c'' {
     \bar "|."
 }
 
-tenoreLyricsI = \lyricmode {
+cantoTwoLyricsI = \lyricmode {
     Dol -- cis -- si -- mo so -- spi -- ro,
     dol -- cis -- si -- mo so -- spi -- ro
     Ch'e -- sci da quel -- la boc -- ca
@@ -148,32 +148,32 @@ continuoI = \relative c {
     \bar "|."
 }
 
-continuoFiguresI = \figuremode {
+figuresI = \figuremode {
     \override Staff.BassFigureAlignmentPositioning.direction = #DOWN
-    s2 s <4 _+> s4 <_+> | s2 <4 _+> s s | <4 _+> s
+    s2 s <4>4 <_+> s4 <_+> | s2 <4>4 <_+> s2 s | <4>4 <_+> s2
 
-    s s | <4 _+>1 s4 s2 <6>4 s <6> <4 3>2 s s s s <4+ _+>1
+    s s | <4>2 <_+> s4 s2 <6>4 s <6> <4>4 <3> s2 s s s <_+>4 <4>2 <_+>4
 
-    s2 s1 s4 <6> <4 3>2 s s1 s2 <4 3>2 s1 s2 <4 _+> s1 <4 _+>1 s2 <4 3>
+    s2 s1 s4 <6> <4>4 <3> s2 s1 s2 <4>4 <3> s1 s2 <4>4 <_+> s1 <4>2 <_+>2 s2 <4>4 <3>
 
-    <4 3>2 <4 3>2 <4 3>2 <6>4 s s2 s4 <5 6>4 s4 <5 6>4 s s <6> s s2 s4 <5 6>
+    <4> <3> <4> <3> <4> <3> <6>4 s s2 s4 <5>8 <6> s4 <5>8 <6> s4 s <6> s s2 s4 <5>8 <6>
 
-    s <5 6 _+> s s <6> s s2 s <6>4 <_+> s <6>8 <6> <_->2 <4 _+> s s 
+    s4 <5>8 <6+> s4 s <6> s s2 s <6>4 <_+> s <6>8 <6> <_->2 <4>4 <_+> s2 s 
 
-    s2 s <4 3> s s1 s4 <6> <4 3>2 s <_->1 <4 _+>2 s1 <3 4 3> 
+    s2 s <4>4 <3> s2 s1 s4 <6> <4>4 <3> s2 <_->1 <4>4 <_+> s1 <3>4 <4>2 <3>4
 }
 
-cantoIincipitVoice = <<
+cantoOneIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoIincipit
+        \cantoOneIincipit
     >>
 >>
 
-tenoreIincipitVoice = <<
+cantoTwoIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreIincipit
+        \cantoTwoIincipit
     >>
 >>
 

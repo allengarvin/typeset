@@ -17,6 +17,8 @@
     shorttitle = "la_briganta"
     shortcomp = "uccellini"
     categories = "[trio]"
+    final = "g"
+    flats = 1
 
     % Unchanging:
     language = "instrumental"

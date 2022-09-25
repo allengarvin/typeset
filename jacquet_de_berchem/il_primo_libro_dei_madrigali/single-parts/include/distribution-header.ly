@@ -1,4 +1,4 @@
-    composer = "None (None-None)"
+    composer = "Jacquet de Berchem (c.1505-1567)"
     source = \markup { \italic { Il primo libri di madrigali à 4 } (Antonio Gardano press, Venice, 1556) }
     style = "Renaissance"
     

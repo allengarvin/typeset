@@ -6,8 +6,8 @@ cantoXVIIincipit = \relative c'' {
     a1
 }
 
+% canto: checked against source
 cantoXVII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -36,7 +36,7 @@ cantoLyricsXVII = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a,
         mo -- rir,
         mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra,
+    Gli~oc -- chi mi -- ran -- do di __ co -- lei ch’a -- do -- ra,
     On -- d’el -- la che di lui non me -- no~ar -- de -- a,
     on -- d’el -- la che di lui non me -- no~ar -- de -- a,
         non __ me -- no~ar -- de -- a,
@@ -296,6 +296,7 @@ sestoXVIIincipit = \relative c'' {
     a1
 }
 
+% sesto: checked against source
 sestoXVII = \relative c'' {
     \clef treble
     \key c \major

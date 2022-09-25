@@ -12,30 +12,34 @@ superiusIincipit = \relative c'' {
     g2
 }
 
+% superius: checked against source
 superiusI = \relative c'' {
     \fourTwoCutTime
-    \clef soprano
     \key f \major
 
     g2 g4 g a2 f | g a bf1( | a) r1 | R\breve | g2 g4 g f2 d | 
         e f d4\melisma c d e | f g a f g2 a ~ | 
         a4 g g1\ficta fs2\unficta | 
 
-    g1\melismaEnd r2 a | bf bf g c ~ | c4 bf a g a2 bf4 a | g f e d e1 | d r1 |
-        r1 r2 f | g g f bf ~ | bf a bf g | a1 f ~ | f d | g2 g4 g 
+    g1\melismaEnd r2 a | bf bf g c ~ | c4( bf a g) a2 bf4( a | 
+        g f e d e1) | d r1 |
+        r1 r2 f | g g f bf ~ | bf( a) bf( g) | a1 f ~ | f d | g2 g4 g 
 
-    a2 f | g a bf1 | a r1 | 
-        d,2 d4 d e2 c | f4 g a bf c2 c | \invisibleTime\time 6/2 
-        bf2 g a g1 f2 | 
+    a2 f | g( a) bf1 | a r1 | 
+        r1 d,2 d4 d | e2 c f4( g a bf | c2) c bf2 g |
+        a g1 f2 | g\longa*1/2
     \bar "|."
 }
 
 superiusLyricsI = \lyricmode {
     De vous ser -- vir m’est prins en -- vie __
     plus que fem -- me qui soit en -- vie __
-    tant au con -- gneu en vous de bien
-% et vouldrois que sceussiez combien
-% ma pense est en vous ravie
+    tant au con -- gneu en __ vous de __ bien
+    et voul -- drois que sceus -- si -- ez com -- bien
+    ma pen -- se est en vous ra -- vie,
+    \ijLyrics
+    ma pen -- se est en vous ra -- vie.
+    \normalLyrics
 }
 
 contraIincipit = \relative c' {

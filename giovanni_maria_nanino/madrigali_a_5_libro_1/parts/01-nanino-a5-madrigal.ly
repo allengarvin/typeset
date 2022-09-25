@@ -16,7 +16,7 @@ cantoIincipit = \relative c'' {
     a1
 }
 
-% canto: Checked against source
+% canto: checked against source
 cantoI = \relative c'' {
     \fourTwoCommonTime
     \key c \major

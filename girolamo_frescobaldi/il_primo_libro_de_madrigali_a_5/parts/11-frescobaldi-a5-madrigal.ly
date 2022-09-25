@@ -1,3 +1,35 @@
+% Giunto è pur, Lidia, il mio,
+% non so se deggia dire:
+% o partire o morire,
+% lasso dirò ben io,
+% che la morte è la partita,
+% poi che’n lasciando te
+% lascio la vita.
+% 
+% Ecco l’hora, ecco ch’io
+% A pen il posso dire
+% Son costretto a partire,
+% dammi Lidia, cor mio
+% L’ultimo bacio omai
+% L’ultimo adio
+% Così dico in partendo
+% Ella tace piangendo
+% Ed io piango
+% Ella vien meco
+% Ed io seco rimango.
+% 
+% Lidia, ti lasso, ahi lasso
+% ma in pegno il cor ti lasso.
+% Ma se nel cor scolpita
+% se' tu dolce mia vita
+% come senza il cor mio
+% viver dunque poss’io?
+% O Dio, che tu potessi
+% Meco venirne, o ch’io teco mi stessi:
+% che se’l mio cor tu sei,
+% meco il mio core, e te mio cor avrei.
+% 
+
 cantoXIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"

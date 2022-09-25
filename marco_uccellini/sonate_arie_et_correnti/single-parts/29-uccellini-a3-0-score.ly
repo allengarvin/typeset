@@ -17,6 +17,8 @@
     shorttitle = "la_castigliona"
     shortcomp = "uccellini"
     categories = "[trio]"
+    final = "c"
+    flats = 0
 
     % Unchanging:
     language = "instrumental"
