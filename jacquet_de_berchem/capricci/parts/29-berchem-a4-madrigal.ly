@@ -1,3 +1,12 @@
+%   131  che rami e ceppi e tronchi e sassi e zolle
+%        non cessò di gittar ne le bell’onde,
+%        fin che da sommo ad imo sì turbolle,
+%        che non furo mai più chiare né monde.
+%        E stanco al fin, e al fin di sudor molle,
+%        poi che la lena vinta non risponde
+%        allo sdegno, al grave odio, all’ardente ira,
+%        cade sul prato, e verso il ciel sospira.
+
 cantoXXIXincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-g"
@@ -6,9 +15,9 @@ cantoXXIXincipit = \relative c'' {
     g2
 }
 
+% canto: checked against source
 cantoXXIX = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key f \major
 
     r1 r2 g | d' d4 f2 d4 r4 a | bf2 a4 d2 c4 d2 | c4 f,4.( g8 a4) bf1 | 
@@ -18,10 +27,11 @@ cantoXXIX = \relative c'' {
         a2 r d c4 a | bf c d2 r4 d d g, | bf c d d2 f e4 |
 
     d2 cs1 r2 | r1 r2 r4 e ~| e f2 d4 e8([ d c bf] a4) bf ~ |
-        bf8([ a]) g2( f4) g1 | r2 g g1 | g a2 a | c1. d2 | b b c1 |
-        c2 g a bf | c d
+        bf8([ a]) g2\melfi fs4\melfiEnd g1 | r2 g g1 | g a2 a | c1. d2 | 
+        b b c1 | c2 g a bf | c d
 
-    g,2 a4 f | a c2( bf4) c2 r4 g ~ | g g a2 b c ~ | c d4 bf g a bf2 | 
+    g,2 a4 f | a c2\melfi b4\melfiEnd c2 r4 g ~ | g g a2 b c ~ | 
+        c d4 bf g a bf2 | 
         a2 c c,4 c d2 | c4 c'2 c4 bf g a r8 f | g2 f4 f'2 e4
 
     e2 | c2 r4 c d2 e | d1 bf | c2 g a g | e r4 c' c bf2( a8[ g] |
@@ -30,6 +40,24 @@ cantoXXIX = \relative c'' {
 }
 
 cantoLyricsXXIX = \lyricmode {
+    Che ra -- mi~e cep -- pi e tron -- chi~e sas -- si~e zol -- le,
+        e __ zol -- le
+    Non ces -- sò di git -- tar ne le __ bel -- l’on -- de,
+    Fin che da som -- mo~ad i -- mo sì tur -- bol -- le,
+        sì tur -- bol -- le,
+    Che non fu -- ron mai più,
+    \ijLyrics
+    che non fu -- ron mai più
+    \normalLyrics
+            chia -- re né mon -- de,
+        mai __ più chia -- re __ né __ mon -- de.
+    E stan -- co~al fin, e~al fin di su -- dor mol -- le,
+    Poi che la le -- na vin -- ta non ri -- spon -- de
+    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l’ar -- den -- te~i -- ra,
+    Ca -- de sul pra -- to~e ver -- so~il ciel so -- spi'
+        so -- spi -- ra~e ver -- so~il ciel sos'
+        so -- spi -- ra e ver -- so~il ciel so -- spi -- ra,
+            so -- spi -- ra. __
 }
 
 altoXXIXincipit = \relative c' {
@@ -40,9 +68,9 @@ altoXXIXincipit = \relative c' {
     d2
 }
 
+% alto: checked against source
 altoXXIX = \relative c' {
     \fourTwoCommonTime
-    \clef mezzosoprano
     \key f \major
 
     d2 g g4 bf2 g4 | g f g a f2 g4 c, | g' g f2 a f4 g | a2. a4 g( f2 e4) |
@@ -58,11 +86,28 @@ altoXXIX = \relative c' {
         e4 e f f g g a2 | g d4 d2 f( e4) |
 
     f1 r2 f | f,4 f a2 bf c4 f ~ | f e r f g1 ~ | g2 a r4 bf g c |
-        a r8 bf a2 g | r4 d e2 e f | r4 d a'4. g8 e4 r8 f g1 fs\longa*1/2
+        a r8 bf a2 g r4 d | e2 e f r4 d | a'4. g8 e4 r8 f g1 | fs\longa*1/2
     \bar "|."
 }
 
 altoLyricsXXIX = \lyricmode {
+    Che ra -- mi~e cep -- pi~e tron -- chi~e sas -- si~e zol -- le,
+    che ra -- mi~e cep -- pi~e tron -- chi~e sas -- si~e zol -- le,
+    Non ces -- sò di git -- tar ne le __ bel -- l’on -- de,
+    Fin che da som -- mo~ad i -- mo sì tur -- bol -- le,
+        sì tur -- bol -- le,
+    Che non fu -- ron mai più chia -- re né mon -- de,
+    che non fu -- ron mai più chia -- re né mon -- de, __
+        chia -- re né mon -- de,
+        chia -- re né __ mon -- de.
+    E stan -- co~al fin, e~al fin di su -- dor mol -- le,
+        di su -- dor mol -- le,
+    Poi che la le -- na vin -- ta non ri -- spon -- de
+    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l’ar -- den -- te~i -- ra,
+    Ca -- de sul pra -- to~e ver -- so~il ciel so -- spi -- ra,
+        e ver -- so~il ciel so -- spi -- ra,
+        e ver -- so~il ciel,
+        e ver -- so~il ciel so -- spi -- ra.
 }
 
 tenoreXXIXincipit = \relative c' {
@@ -73,9 +118,9 @@ tenoreXXIXincipit = \relative c' {
     g2
 }
 
+% tenore: checked against source
 tenoreXXIX = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key f \major
 
     r2 g d' g, | a4 a bf a d4. c8 bf4 a | r4 d d d f( e) d2 | 
@@ -85,20 +130,34 @@ tenoreXXIX = \relative c' {
         a bf) g g'2 f d4 | e f g2 r4 f e c | d e
 
     f4 g2 f4 g2 | d4( e d1) a2 | r2 r4 e' e a, c d | e2 f d4 d e2 |
-        cs4 d cs b c2 d4.( c8 | bf4 c a2) g1 | r2 b b1 | c
+        cs4 d cs b c2( d4. c8 | bf4 c a2) g1 | r2 b b1 | c
 
     c2 c | f1. f2 | d d f1 | e2 r4 c2 d g4 | e f2 g c,4 c c | 
         f4.( e8 d[ c] d4. c8 c2 b4) | c c2 d4 d d f2 | e f 
 
-    d4 c2 bf4 | c1 r1 | f2 f,4 f g2 f | c' a c1 | r4 e f2 d4 g2 e4 |
-        fs4 g2 fs4 g2 g, | c c a r4 bf c1 d\longa*1/2
+    d4 c2\ficta bf4\unficta | c1 r1 | c2 f,4 f g2 f | c' a c1 | 
+        r4 e f2 d4 g2 e4 | fs4 g2 fs4 g2 g, | c c a r4 bf c1 d~d\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXXIX = \lyricmode {
+    Che ra -- mi~e cep -- pi~e tron -- chi~e sas -- si~e zol -- le,
+        e sas -- si~e zol -- le,
+        e sas -- si~e zol -- le,
+    Non ces -- sò di git -- tar ne le __ bel -- l’on -- de,
+    Fin che da som -- mo~ad i -- mo sì tur -- bol -- le,
+    Che non fu -- ron mai più,
+    che non fu -- ron mai più chia -- re né mon -- de,
+    che non fu -- ron mai più chia -- re né mon -- de,
+        chia -- re né mon -- de.
+    E stan -- co~al fin, e~al fin di su -- dor mol -- le,
+    Poi che la le -- na vin -- ta non ri -- spon -- de
+    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l’ar -- den -- te~i -- ra,
+    Ca -- de sul pra -- to~e ver -- so~il ciel so -- spi -- ra~e ver -- so~il ciel so -- spi -- ra,
+        e ver -- so~il ciel so -- spi -- ra. __
 }
 
-bassoXXIXincipit = \relative c {
+bassoXXIXincipit = \relative c' {
     \time 4/4
     \clef "petrucci-f3"
     \key f \major
@@ -106,9 +165,9 @@ bassoXXIXincipit = \relative c {
     g2
 }
 
-bassoXXIX = \relative c {
+% basso: checked against soure
+bassoXXIX = \relative c' {
     \fourTwoCommonTime
-    \clef varbaritone
     \key f \major
 
     r1 g2 d' | d, g4 f bf4. a8 g4 f | g2 d r4 a' bf2 | a4 d2 c4 bf4.( a8 g2) |
@@ -118,7 +177,7 @@ bassoXXIX = \relative c {
         c a bf c d2 r4 a | g c bf g d'2 r4 g, |
     
     g4 c, g'4.( a8 bf[ c] d2 c4 | bf2) a r4 a a d, | a' a2 bf g a4 ~ |
-       a d, f g c, f2 g4 ~ | g c, d2 g1 | r2 g g1 | c, f2 f | f1. d2 |
+       a d, f( g) c, f2 g4 ~ | g c, d2 g1 | r2 g g1 | c, f2 f | f1. d2 |
 
     g2 g f1 | c2 c f g | a bf c f, | f g a g | c, f4 d g g f2 |
         c' bf2. a4 g2 | f1. r2 | r1 r2 c' | c,4 c d2 c
@@ -128,6 +187,23 @@ bassoXXIX = \relative c {
 }
 
 bassoLyricsXXIX = \lyricmode {
+    Che ra -- mi~e cep -- pi~e tron -- chi~e sas -- si~e zol -- le,
+        e tron -- chi~e sas -- si~e zol -- le,
+    Non ces -- sò di git -- tar ne le __ bel -- l’on -- de,
+    Fin che da som -- mo~ad i -- mo sì tur -- bol -- le,
+    Che non fu -- ron mai più,
+    \ijLyrics
+    che non fu -- ron mai più
+    \normalLyrics
+            chia -- re né mon -- de,
+    che non fu -- ron mai più chia -- re __ né mon -- de,
+        chia -- re __ né mon -- de.
+    E stan -- co~al fin,
+        al fin di su -- dor mol -- le,
+    Poi che la le -- na vin -- ta non ri -- spon -- de
+    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l’ar -- den -- te~i -- ra,
+    Ca -- de sul pra -- to~e ver -- so~il ciel so -- spi -- ra,
+        e ver -- so~il ciel so -- spi -- ra.
 }
 
 cantoXXIXincipitVoice = <<

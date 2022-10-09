@@ -29,7 +29,7 @@
     tagline = #'f
 }
 
-\include "../parts/34-gibbons-a5-in_in_nomine.ly"
+\include "../parts/34-gibbons-a5-in_nomine.ly"
 
 \book {
     \bookOutputName "34-gibbons--in_nomine-"

@@ -130,10 +130,10 @@ cantoLyricsXIX = \lyricmode {
     dor -- mi dor -- mi,
     dor -- mi dor -- mi fi -- glio~e non va -- gi -- re.
 
-    Per -- chè, tem -- po~an -- cor ver -- rà
-    per -- chè,
+    Per -- ché, tem -- po~an -- cor ver -- rà
+    per -- ché,
     \ijLyrics
-    per -- chè 
+    per -- ché 
     \normalLyrics
         tem -- po~an -- cor ver -- rà
     Che va -- gir __ bi -- so -- gne -- rà.
@@ -147,7 +147,7 @@ cantoLyricsXIX = \lyricmode {
     \normalLyrics
         quei lu -- mi di -- vi -- ni, __
     Co -- me fan gli~al -- tri bam -- bi -- ni,
-    Per -- chè to -- sto~o -- scu -- ro ve -- lo
+    Per -- ché to -- sto~o -- scu -- ro ve -- lo
     pri -- ve -- rà di lu -- me~il cie -- lo.
 
     Deh __ ben mio deh cor mio fa,
@@ -155,9 +155,9 @@ cantoLyricsXIX = \lyricmode {
 
     O -- ver pren -- di que -- sto lat -- te
     dal -- le mie ma -- mel -- le~in -- tat -- te __
-    Per -- chè,
+    Per -- ché,
     \ijLyrics
-    per -- chè 
+    per -- ché 
     \normalLyrics
         mi -- ni -- stro cru -- de -- le
     ti pre -- pa -- ra~a -- ce -- to~e fie -- le. __
@@ -176,7 +176,7 @@ cantoLyricsXIX = \lyricmode {
     Po -- sa~or que -- ste mem -- bra bel -- le
     vez -- zo -- set -- te,
     vez -- zo -- set -- te~e te -- ne -- rel -- le __
-    per -- chè poi fer -- ri~e ca -- te -- ne,
+    per -- ché poi fer -- ri~e ca -- te -- ne,
     \ijLyrics
         fer -- ri~e ca -- te -- ne
     \normalLyrics
@@ -216,7 +216,7 @@ cantoLyricsXIX = \lyricmode {
     dor -- mi, dor -- mi,
     \normalLyrics
         pur re -- den -- tor mi -- o, __
-    per -- chè poi con lie -- to vi -- so,
+    per -- ché poi con lie -- to vi -- so,
         con lie -- to vi -- so __
     ci ve -- drem in Pa -- ra -- di -- so.
 
@@ -290,11 +290,11 @@ bassoXIX = \relative c' {
 
 bassoContinuoXIX = \figuremode {
     \bassFigureStaffAlignmentDown
-    <_+>2 <7>8 <6>8 s2. | <_+>2 <7>8 <6>8 s2. | <_+>2 <7>8 <6>8 s2. |
+    <_+>2 <7> <6> | <_+>2 <7> <6> | <_+>2 <7> <6> |
     s1.*159 
 
     s1*2
-    <_+>1 | <7 +>8 <6>8 s4 <_+>2 <_+>1 s1*3 s2 <4>16 <3>16 s8 s4 s1 <_+> <_+>
+    <_+>1 | <7 +>4 <6> <_+>2 <_+>1 s1*3 s2 <4>4 <3> s1 <_+> <_+>
         <_+>2 s s1 s\breve <_+> 
 }
 

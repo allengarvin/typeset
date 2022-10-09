@@ -175,14 +175,14 @@ continuoFiguresXIV = \figuremode {
 %    \bassFigureStaffAlignmentDown
     s1 s4 <6>4 s2 s\breve*2 s\breve s2 <6>4 s s s s <6>
 
-    s1. <6>2 | s1 <6>4 s s s | <6> s s <5 6> <6> s s <6> |
-        <7 6>1 s |
+    s1. <6>2 | s1 <6>4 s s s | <6> s s <5>8 <6> <6>4 s s <6> |
+        <7>4 <6>2. s1 |
 
     s\breve*3 | 
 
     s1. s4 <6> | s\breve | s1
 
-    s1 | s4 s8 <6> s2 s\breve s2 <5 6> s s <6> s
+    s1 | s4 s8 <6> s2 s\breve s2 <5>4 <6> s2 s <6> s
 
     s4 <6> s2 s\breve*2 
 

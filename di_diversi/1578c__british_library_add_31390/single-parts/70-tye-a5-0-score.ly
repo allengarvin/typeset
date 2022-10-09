@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "In Nomine à 5 'Saye so'"
-    subtitle = ""
+    subtitle = "Weidner #18"
     instrument = "In Nomine à 5 'Saye so':  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine_a_5_saye_so"
@@ -20,7 +20,7 @@
     final = "d"
     flats = 1
     composer = "Christopher Tye (c.1505-c.1573)"
-    folio = \markup { fol. 64\super{v} - 65\super{r} "[Weidner #18]" }
+    folio = \markup { fol. 64\super{v} - 65\super{r} }
 
     % Unchanging:
     language = "instrumental"
