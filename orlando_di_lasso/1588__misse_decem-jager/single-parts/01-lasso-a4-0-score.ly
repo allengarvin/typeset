@@ -15,6 +15,7 @@
     instrument = "Missa Jäger:  (score)"
 
     % Unchanging:
+    language = "latin"
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
