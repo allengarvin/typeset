@@ -291,7 +291,7 @@ def generate_files(pieces):
 
         fd.write("    </table>\n")
         fd.write("<br /><br /><br /><br />\n")
-        fd.write("    <div id='by_note'>Index files inspired by by Peter Payzant</div></div>\n")
+        fd.write("    <div id='by_note'>Index files inspired by Peter Payzant</div></div>\n")
         fd.write("  </body>\n<html>\n")
         fd.close()
 

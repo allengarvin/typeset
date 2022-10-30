@@ -184,7 +184,7 @@ def query_date(bio):
     if "died_year" in bio:
         dyear = str(bio["died_year"])
         if "died_circa" in bio and bio["died_circa"] == True:
-            dyear = "c." + byear
+            dyear = "c." + dyear
     elif "died_range" in bio:
         dyear = reduce_range(bio["died_range"])
     else:
@@ -294,6 +294,7 @@ def write_pieces(coll):
         for ly in p.lilypond_files:
             if score_re.match(basename(ly)):
                 sf = ly
+                a_voci = basename(ly).split("-")[2]
                 break
         if sf == None:
             print("Cannot find score:")
@@ -331,11 +332,25 @@ def write_pieces(coll):
             tit = title
         html += "    " * 4 + '<li value="{num}"> <a href="single-parts/{outputdir}">{title}</a> {composer}</li>\n'.format(num=p.num.lstrip("0"), outputdir=basename(p.path), title=tit, composer=("[{}]".format(composer) if composer != None else ""))
 
+        p_header = """
+        <meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@music_early" />
+        <meta name="twitter:creator" content="@music_early" />
+        <meta name="og:title" content="{title} {a_voci} by {composer}" />
+        <title>{title} by {composer}</title>
+""".format(title=tit, composer=composer, a_voci=a_voci)
+        preview = glob.glob(p.path + "/*-0-score.preview.png")
+        if len(preview) == 1:
+            p_header += '    <meta property="og:image" content="https://dfwviols.com/typeset/{}" />'.format(preview[0].replace("/home/agarvin/typeset.new/", ""))
+
+        if os.path.exists(p.path + "/twitter.txt"):
+            p_header += '    <meta property="og:description" content="{}" />'.format(open(p.path + "/twitter.txt").read())
+
         p_html = """
 <html>
     <head> 
-        <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
-        <title>{title}</title>
+        {header}
     </head>
     <body>
         <a href="../../../../index.html">TOP</a> / <a href="../../../index.html">{composer_group}</a> / <a href="../../index.html">{coll_name}</a> / {path} <p>
@@ -345,7 +360,7 @@ def write_pieces(coll):
         </center>
 
 
-""".format(title=tit, composer_group=coll.parent.short_name, composer=composer, path=shorttitle, coll_name=coll.title)
+""".format(header=p_header, title=tit, composer_group=coll.parent.short_name, composer=composer, path=shorttitle, coll_name=coll.title)
 
         p_html_end = """    </body>
     <!-- generate_index.py ran at {isotime} -->
@@ -355,7 +370,6 @@ def write_pieces(coll):
         if folio != None and len(folio) and "Fol." not in folio:
             p_html += "Text source: {}<p>\n".format(folio)
 
-        preview = glob.glob(p.path + "/*-0-score.preview.png")
         if len(preview) == 1:
             p_html += "    " * 2 + '\n\n<center><img src="{}" alt="preview of first system of score" \/></center><p>\n\n'.format(basename(preview[0]))
         score_files = sorted(glob.glob(p.path + "/*-score.pdf"))
@@ -368,7 +382,16 @@ def write_pieces(coll):
 
         for sc in score_files:
             p_html += '<a href="{score}">{score}</a><br>\n'.format(score=basename(sc))
+        
         p_html += "\n<p>\n"
+
+        midi_files = sorted(glob.glob(p.path + "/*.midi"))
+        if len(midi_files):
+            p_html += "\n<p />\n"
+            p_html += "MIDI files:<br /><ul>\n"
+            for mf in midi_files:
+                p_html += "<li><a href='{0}'>{1}</a></li>\n".format(basename(mf), basename(mf))
+            p_html += "</ul><p>\n"
 
         pdf_files = sorted(glob.glob(p.path + "/*_clef.pdf"))
         p_html += "    " * 2 + "<table>"

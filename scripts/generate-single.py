@@ -9,6 +9,18 @@ def output_num(a, num):
         return a
     else:
         return "%0*d" % (len(str(num)), a)
+
+def number(str):
+    num_map = {"one" : "I", "two" : "II", "three" : "III", 
+        "four" : "IV", "five" : "V", "six" : "VI",
+
+    # ok, extending this here to "vox":
+        "vox" : "vox"}
+    for i in ["one", "two", "three", "four", "five", "six"]:
+        if str[-len(i):] == i or str[-len(i):] == i.capitalize():
+            return str[:-len(i)] + " " + num_map[i]
+    return str
+
 def ascii_filter(s):
     filters = { 
         'à':'a', 'è':'e', 'ì':'i', 'ò':'o', 'ù':'u',
@@ -21,7 +33,7 @@ def ascii_filter(s):
         'Æ':'AE', 'Œ':'OE', 
         'ß':'ss',
         '#':'no_',
-        ",":"", "'":"", "/":"", ";":"", ":":"-",
+        ",":"", "'":"", "/":"", ";":"", ":":"-", "?":"", "’" : "", "." : "",
     }
     for c in filters.keys():
         if c in s:
@@ -67,7 +79,9 @@ def write_roman(num):
 def main(argv):
     p = argparse.ArgumentParser(description="Generate lilypond single parts")
     p.add_argument("-o", "--overwrite", action="store_true", help="overwrite existing file")
+    p.add_argument("-a", "--addlyrics", help="Addition lyrics (a, b, c...final)")
     p.add_argument("-t", "--title", help="title of piece")
+    p.add_argument("-l", "--language", help="For language tag")
     p.add_argument("-u", "--subtitle", help="subtitle of piece")
     p.add_argument("-s", "--size", type=int, help="size of score", default=16)
     p.add_argument("-v", "--vocal", action="store_true", help="add lyrics sections")
@@ -77,10 +91,29 @@ def main(argv):
     p.add_argument("parts", nargs="+", help="part names in form canto:8a (to generate alto and octave clefs")
     args = p.parse_args()
 
+    if args.addlyrics and args.addlyrics not in ["a","b", "c", "d", "e", "f", "g", "h"]:
+        print("Error -a/--addlyrics followed by non-alphabet.")
+        sys.exit(1)
     score_pat = re.compile("^[0-9][0-9]*-[a-z][a-z_]*-a[0-9][0-9]*-0-score.ly$")
     if not score_pat.match(args.score):
-        print("Error: title does not match proper format (use -h for help")
+        print("Error: title does not match proper format (use -h for help)")
+        print "SCORE: ", args.score
         sys.exit(1)
+
+    if args.vocal and not args.language:
+        print("-v/--vocal specified but not -l/--language")
+        sys.exit(1)
+    if not args.vocal and args.language != "instrumental":
+        print("Not a vocal score, but '{0}' is not instrumental.".format(args.language))
+        sys.exit(1)
+
+    if args.language and args.vocal:
+        known_languages = [ "english", "spanish", "italian", "german", 
+            "latin", "dutch", "hebrew", "french", "german/latin", "german/italian" ]
+        if args.language not in known_languages:
+            print("Language '{0}' not in : {1}".format(args.language, ", ".join(known_languages)))
+            print("Modify known_languages variable in generate-single.py")
+            sys.exit(1)
 
     tp = args.score.split("-")
     num = tp[0]
@@ -107,7 +140,7 @@ def main(argv):
     subtitle = args.subtitle if args.subtitle else ""
 
     score_str = [
-                '\\version "2.18.2"',
+                '\\version "2.22.1"',
                 '\\include "english.ly"',
                 '',
                 '\\include "../include/paper-1-score.ly" ',
@@ -118,21 +151,40 @@ def main(argv):
                 '#(set-global-staff-size {0}.0)'.format(args.size),
                 '',
                 '\\header {',
+                '    lastupdated = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
+                '    originallyset = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
+                '    \\include "include/distribution-header.ly"',
                 '    % Things that change per piece:',
                 '    title = "{0}"'.format(title),
                 '    subtitle = "{0}"'.format(subtitle),
                 '    instrument = "{0}: {1} (score)"'.format(title, subtitle ),
+                '    headerspace = \\markup { \\vspace #2 }',
                 ]
+    score_str.append('    shorttitle = "{0}"'.format(ascii_filter(title.lower().replace(" ", "_"))))
+    score_str.append('    shortcomp = "{0}"'.format(ascii_filter(composer.lower().replace(" ", "_"))))
+    score_str.append('    categories = "[]"')
+    if args.language and args.language != "english" and args.language != "instrumental":
+        score_str.append("    needtranslation = #'t")
+
     if args.folio:
-        score_str.append('    folio = \\markup { %s }' % args.folio)
+        if "\\italic" in args.folio:
+            score_str.append('    folio = \\markup { %s }' % args.folio)
+        else:
+            score_str.append('    folio = "%s"' % args.folio)
     
     
     
     score_str += [       
         '',
         '    % Unchanging:',
-        '    \\include "include/distribution-header.ly"',
-        '    lastupdated = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
+    ]
+
+    if args.language:
+        score_str += [ '    language = "{0}"'.format(args.language) ]
+    elif not args.vocal:
+        score_str += [ '    language = "{0}"'.format("instrumental") ]
+
+    score_str += [
         "    tagline = #'f",
         '}',
     ]
@@ -158,7 +210,11 @@ def main(argv):
     music = fd.read()
     roman = write_roman(int(num.lstrip("0")))
     r = re.compile(".*" + roman + "incipit.*relative.*")
-    parts_in_order = map(lambda(x): x[0:x.index(roman)], filter(r.match,  music.split("\n")))
+    parts_in_order = map(lambda(x): x[0:x.index(roman + "incipit")], filter(r.match,  music.split("\n")))
+
+    if len(parts_in_order) != pnum:
+        print("ERROR: Multiple incipits found!")
+        sys.exit(1)
         
     for p in parts:
         s = "{0}{1}".format(p, roman)
@@ -175,13 +231,13 @@ def main(argv):
         '    \\score {',
         '         <<',
         '            \\new ChoirStaff = choirStaff \\with {',
-        '                \\override StaffGrouper #\'staff-staff-spacing #\'padding = #3',
+        '                \\override StaffGrouper.staff-staff-spacing.padding = #4.5',
         '            } <<',
     ]
     for i in range(0, len(parts)):
         sec = [
             '                \\new Voice <<',
-            '                    \\set Staff.instrumentName = #"{0}"'.format(parts[i].capitalize()),
+            '                    \\set Staff.instrumentName = #"{0}"'.format(number(parts[i].capitalize())),
             '                    \\incipit \\{0}{1}incipitVoice'.format(parts[i], roman),
         ]
         cl = False
@@ -205,7 +261,12 @@ def main(argv):
             '                >>',
         ]
         if args.vocal:
-            sec += ['                \\addlyrics { \\%sLyrics%s }' % (parts[i], roman) ]
+            sec += ['             \\addlyrics { \\%sLyrics%s }' % (parts[i], roman) ]
+            if args.addlyrics:
+                for let in ["a", "b", "c", "d", "e", "f", "g", "h", "i"]:
+                    sec += ['                \\addlyrics { \\%sLyrics%s%s }' % (parts[i], roman, let) ]
+                    if let == args.addlyrics:
+                        break
         score_str += sec
 
     score_str += [
@@ -251,23 +312,31 @@ def main(argv):
                 '\\include "../include/vocal-layout-parts-barring.ly"',
                 '',
                 '\\header {',
+                '    lastupdated = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
+                '    originallyset = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
+                '    \\include "include/distribution-header.ly"',
+                ' ',
                 '    % Things that change per piece:',
                 '    title = "{0}"'.format(title),
                 '    subtitle = "{0}"'.format(subtitle),
-                '    instrument = "{0}: {1} ({2})"'.format(title, subtitle, parts_in_order[i]),
+                '    instrument = "{0}: {1} ({2})"'.format(title, subtitle, number(parts_in_order[i])),
+                '    headerspace = \\markup { \\vspace #2 }',
         ]
+        part_str.append('    shorttitle = "{0}"'.format(ascii_filter(title.lower().replace(" ", "_"))))
+        part_str.append('    shortcomp = "{0}"'.format(ascii_filter(composer.lower().replace(" ", "_"))))
         if args.folio:
-            part_str.append('    folio = \\markup { %s }' % args.folio)
+            if "\\italic" in args.folio:
+                part_str.append('    folio = \\markup { %s }' % args.folio)
+            else:
+                part_str.append('    folio = "%s"' % args.folio)
         part_str += [ '', '    % Things that change per part:', ]
         
-        partname = "{0} (part {1} of {2})".format(parts_in_order[i].capitalize(), ndx + 1, len(parts_in_order))
+        partname = "{0} (part {1} of {2})".format(number(parts_in_order[i].capitalize()), ndx + 1, len(parts_in_order))
         part_str += [ 
                 '    partname = "{0}"'.format(partname), 
-                '    instrument = "{0}: {1} ({2})"'.format(title, subtitle, parts_in_order[i]),
+                '    instrument = "{0}: {1} ({2})"'.format(title, subtitle, number(parts_in_order[i])),
                 '',
                 '    % Unchanging:',
-                '    \\include "include/distribution-header.ly"',
-                '    lastupdated = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
                 "    tagline = #'f",
                 '}',
                 '',
@@ -300,6 +369,12 @@ def main(argv):
             ]
             if args.vocal:
                 part_str += ['                \\addlyrics { \\%sLyrics%s }' % (parts_in_order[i], roman) ]
+
+                if args.addlyrics:
+                    for let in ["a", "b", "c", "d", "e", "f", "g", "h", "i"]:
+                        part_str += ['                \\addlyrics { \\%sLyrics%s%s }' % (parts[i], roman, let) ]
+                        if let == args.addlyrics:
+                            break
             part_str += [
                 '     %   \include "../include/vocal-layout-parts-barring.ly"',
                 '    }',
@@ -311,6 +386,8 @@ def main(argv):
         fd = open(fn, "w")
         fd.write("\n".join(part_str))
         print("{0}: created".format(fn))
+    if not os.path.isdir("{}-output".format(num)):
+        os.mkdir("{}-output".format(num))
 
 if __name__ == "__main__":
     main(sys.argv)

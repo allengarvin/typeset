@@ -1,0 +1,37 @@
+#!/bin/bash
+
+. ~/.bashrc
+
+if (( $(ls -1 *-source.zip | wc -l) == 0 )); then
+    echo "No *-source.zip file"
+    exit 1
+fi
+
+if (( $(ls -1 *-source.zip | wc -l) > 1 )); then
+    echo "Multiple *-source.zip file*"
+    exit 1
+fi
+
+PF=$(ls -1 *-source.zip | sed "s/-source.zip/-parts.pdf/")
+if [[ -f $PF ]]; then
+    echo "$PF: already exists"
+else
+    pdfcat $PF $(ls -1 *_clef.pdf)
+    echo "$PF: generated with $(pdfinfo $PF | grep ^Pages | awk '{print $NF}') pages"
+fi
+
+PF=$(ls -1 *-source.zip | sed "s/-source.zip/-viol_parts.pdf/")
+if [[ -f $PF ]]; then
+    echo "$PF: already exists"
+else
+    pdfcat $PF $(ls -1 *_clef.pdf | grep -v tr8_clef)
+    echo "$PF: generated with $(pdfinfo $PF | grep ^Pages | awk '{print $NF}') pages"
+fi
+
+PF=$(ls -1 *-source.zip | sed "s/-source.zip/-recorder_parts.pdf/")
+if [[ -f $PF ]]; then
+    echo "$PF: already exists"
+else
+    pdfcat $PF $(ls -1 *_clef.pdf | grep -v al_clef)
+    echo "$PF: generated with $(pdfinfo $PF | grep ^Pages | awk '{print $NF}') pages"
+fi

@@ -5,6 +5,8 @@ import os
 import re
 import sys
 import composers
+import categories_class
+import datetime
 
 header_cache = {}
 
@@ -70,6 +72,12 @@ class Score:
         
         flag = False
 
+        unuploaded_file = self.directory + "/" + self.filename.split("-")[0] + "-output/unuploaded"
+        if os.path.exists(unuploaded_file):
+            self.unuploaded = True
+        else:
+            self.unuploaded = False
+
         for l in lines:
             if "\\header" in l:
                 flag = True
@@ -92,10 +100,16 @@ class Score:
                 if rside[0] == "[" and rside[-1] == "]":
                     self.categories = rside[1:-1].split(",")
 
+        self.numparts = self.filename.split("-")[2].lstrip("a")
         self.title = find_header(hlines, "title")
         self.subtitle = find_header(hlines, "subtitle")
         self.composer = find_header(hlines, "composer")
         self.language = find_header(hlines, "language")
+        self.lastupdated = find_header(hlines, "lastupdated")
+        if type(self.lastupdated) == str and re.match("^20[0-3][0-9]-[01][0-9]-[0-3][0-9]$", self.lastupdated):
+            self.created_on = datetime.datetime.strptime(self.lastupdated, "%Y-%m-%d")
+        else:
+            self.created_on = datetime.datetime.strptime("2012-01-01", "%Y-%m-%d")
         self.final = find_header(hlines, "final")
         self.flats = find_header(hlines, "flats")        
         if not self.flats:
@@ -154,6 +168,7 @@ def write_page(cat, scores):
 <html lang='en-US'>
   <head>
     <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+    <meta name="twitter:sitee" content="@music_early" />
     <script src='scripts/sorttable.js'></script>
 
     <title>{cap_category} scores</title>
@@ -163,29 +178,38 @@ def write_page(cat, scores):
   </head>
 
   <body>
+    <a href="index.html">Main Index</a><p>
+
     <center><h2>{cap_category} scores</h2></center><p>
 
     {base_text}<p>
 
     <div id='content'>
       <div id='hdr'>Hawthorne Early Music editions: {category} scores</div>
-""".format(base_text=base_text, cap_category=cat.capitalize(), category=cat).replace("STYLE", style.replace("4CAF50", "0099ff")))
-    fd.write("      \n    <table class='sortable' id='musicstyle'>\n      <tr><th style='width:20%'>Composer</th><th style='width:25%'>Title</th><th style='width:5%'>Subitle</th><th style='width:5%'>Language</th><th style='width:14%'>Mode</th><th style='width:15%'>Files</th></tr>\n")
+""".format(base_text=base_text, cap_category=categories_class.category_list[cat], category=cat).replace("STYLE", style.replace("4CAF50", "0099ff")))
+    fd.write("      \n    <table class='sortable' id='musicstyle'>\n      <tr><th style='width:20%'>Composer</th><th style='width:20%'>Title</th><th style='width:5%'>Subtitle</th><th style='width:5%'># Parts</th><th style='width:5%'>Language</th><th style='width:14%'>Mode</th><th style='width:15%'>Files</th></tr>\n")
 
     for sc in scores:
+        if (datetime.datetime.now() - sc.created_on).days < 30:
+            tmp_title = "{} <img src='doc/images/icons8-new-64.png' alt='File created less than 30 days ago' />".format(sc.title)
+        else:
+            tmp_title = sc.title
         table_row = ("      <tr><td class='composer'><a href='comp-{0}.html'>{1}</a></td>\n"+
                      "          <td class='title'>{2}</td>\n"+
                      "          <td class='subtitle'>{3}</td>\n"+
+                     "          <td class='numparts'>{8}</td>\n"+
                      "          <td class='language'><a href='lang-{4}.html'>{5}</a></td>\n"+
                      "          <td class='mode'>{6}</td>\n"+
                      "          <td class='output' align='left'><a href='{7}'>Score + Parts</a></td>\n" +
-                     "     </tr>\n").format(sc.shortcomp, sc.composer, sc.title, sc.subtitle, sc.language, sc.language, find_mode(sc.final, sc.flats), sc.output)
+                     "     </tr>\n").format(sc.shortcomp, sc.composer, tmp_title, sc.subtitle, sc.language, sc.language, find_mode(sc.final, sc.flats), sc.output, sc.numparts)
 
         fd.write(table_row)
 
     fd.write("    </table>\n")
     fd.write("<br /><br /><br /><br />\n")
-    fd.write("    <div id='by_note'>Index files inspired by by Peter Payzant</div></div>\n")
+    # Peter suggested I remove this
+    # fd.write("    <div id='by_note'>Index files inspired by by Peter Payzant</div></div>\n")
+    fd.write("</div>\n")
     fd.write("  </body>\n</html>\n")
     fd.close()
 
@@ -193,7 +217,12 @@ def write_page(cat, scores):
 
 def main(args):
     scores = find_all_scores(args)
-    scores = [s for s in scores if args.category in s.categories]
+    if args.category == "new":
+        scores = [s for s in scores if (datetime.datetime.now() - s.created_on).days < 30]
+    elif args.category == "unuploaded":
+        scores = [s for s in scores if s.unuploaded]
+    else:
+        scores = [s for s in scores if args.category in s.categories]
     if len(scores) == 0:
         print("No scores matching category {}".format(args.category))
         return 1

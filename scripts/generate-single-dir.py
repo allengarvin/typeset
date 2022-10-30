@@ -41,8 +41,8 @@ def generate_composer(conf):
             byear = "?"
         if "died_year" in conf["biography"]:
             dyear = str(conf["biography"]["died_year"])
-            if "died_circa" in conf["biography"] and conf["biography"]["born_circa"] == True:
-                dyear = "c." + byear
+            if "died_circa" in conf["biography"] and conf["biography"]["died_circa"] == True:
+                dyear = "c." + dyear
         elif "died_range" in conf["biography"]:
             dyear = reduce_range(conf["biography"]["died_range"])
         else:

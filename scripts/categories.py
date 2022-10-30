@@ -3,12 +3,19 @@
 import argparse
 
 category_list = {
-    "canzona" : "Italian instrumental music, 1580-1630",
-    "polychoral" : "Cori spezzati",
-    "dialogo" : "Madrigali dialoghi (+ some chansons)",
-    "in-nomine" : "In nomini",
+    "canzona" : "Italian instrumental ensemble music, 1580-1630",
+    "polychoral" : "Cori spezzati (polychoral pieces)",
+    "dialogo" : "Madrigali dialoghi",
+    "in-nomine" : "In nomines, consort pieces around a plainchant",
     "viol-madrigal" : "Madrigals found in English viol partbooks",
     "madrigal" : "Madrigal",
+    "penitential" : "The 7 penitential psalms",
+    "furioso" : "Settings from Orlando Furioso",
+    "trio" : "Italian trio sonatas (2 high instruments + bass)",
+    "animal" : "Music about or involving animals",
+    "ground" : "Music on top of a ground bass",
+    "new" : "Scores made in the past 30 days",
+    "unuploaded" : "Scores not yet uploaded to IMSLP or CPDL",
 }
 
 if __name__ == "__main__":
