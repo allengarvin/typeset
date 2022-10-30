@@ -5,7 +5,7 @@
 % Che se freddo timore
 % del suo rimbombo sì v'ingombra il petto,
 % quel tormentoso affetto
-% che prova fate altrui
+% che provar fate altrui
 % bramareste addolcito in me per vui,
 % ed allor forse chiedereste aita
 % a chi con stratio or ritenete in vita.
@@ -18,8 +18,8 @@ cantoIincipit = \relative c'' {
     d1
 }
 
+% canto: checked against source
 cantoI = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -33,7 +33,7 @@ cantoI = \relative c'' {
 
     e4. e8 e4 d1 | c2 r4 d e e e2 | g4 d f f f2 e | r1 r2 r4 d | b c b 
 
-    a2( g4) a2 | R\breve*2 | r2 d2. d8[ d] d4 d | c1 b2 r |
+    a2\melfi gs4\melfiEnd a2 | R\breve R | r2 d2. d8[ d] d4 d | c1 b2 r |
         e2. e8[ e] d4 d c2 | b a4 a b2 d4 d |
 
     c8([ d e f] g2) g g ~ | g4 f e2 d1 | r2 r4 g,8[ g] c4 a d2 | 
@@ -59,7 +59,7 @@ cantoLyricsI = \lyricmode {
     Del suo rim -- bom -- bo,
     del suo rim -- bom -- bo sì v'in -- gom -- bra'l pet -- to,
     Quel tor -- men -- to -- so~af -- fet -- to
-    Che pro -- va fa -- te~al -- tru -- i
+    Che pro -- var fa -- te~al -- tru -- i
     Bra -- ma -- re -- ste~ad -- dol -- ci -- to~in me __ per vu -- i,
         chie -- de -- re -- ste ai -- ta,
     Ed al -- lor for -- se chie -- de -- re -- ste ai -- ta
@@ -75,8 +75,8 @@ altoIincipit = \relative c'' {
     b1
 }
 
+% alto: checked against source
 altoI = \relative c'' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -84,26 +84,49 @@ altoI = \relative c'' {
 
     fs4 g8[ a] b4 b | b2 c b1 | a2 r r r4 f | e8[ d e c] d2 c1 |
 
-    r4 a' c8[ b c c] a1 | a2 r4 bf a a4. a8 a4 | g2 g g a a a2 | 
+    r4 a' c8[ b c c] a1 | a2 r4 bf a a4. a8 a4 | g2 g4 g a a a2 | 
         c r4 c bf a4. a8 g4 |
 
     a2 a4 a c c g2 | b4 b c c c2 c | r1 r4 b g a ~ | a g r e b'2 e, | 
         r1 d2. d8[ d] |
 
-    e2 e g fs | r2 fs2. fs8[ fs] g4 fs | a b2( a4) b2 r2 | r2 b2. b8[ b] a4 a |
+    e2 e g fs | r2 fs2. fs8[ fs] g4 fs | a( b2 a4) b2 r2 | r2 b2. b8[ b] a4 a |
         g2 e r1 | g4 g 
     
     b2 c4 c c g | a a a2 a r4 b | c a b2 a r4 d,8[ d] | g4. e8 a2 g r2 |
         c,8[ c] c'2 b4 
 
     c4.( b8 a4) g | r4 g8[ g] c[ a] c4 b2 r4 g | g g a2. g4 a8[ b c a] |
-        b( c2 b4) 
+        b4( c2 b4) 
 
     c4 g g g | a2. fs4 g g g2 ~ | g g r4 d a'2 | b\longa*1/2
     \bar "|."
 }
 
 altoLyricsI = \lyricmode {
+    Cru -- de -- lis -- si -- ma Don -- na,
+    Il tuo -- no~es -- ser vor -- re -- i
+    Poi che lam -- po voi se -- te~a gli~oc -- chi mie -- i,
+    E ful -- mi -- ne~al mio co -- re,
+    \ijLyrics
+    e ful -- mi -- ne~al mio co -- re.
+    \normalLyrics
+    Che se fred -- do ti -- mo -- re
+    Del suo rim -- bom -- bo,
+    che se fred -- do ti -- mo -- re
+    del suo rim -- bom -- bo,
+    del suo rim -- bom -- bo sì v'in -- gom -- bra il pet -- to,
+    Quel tor -- men -- to -- so~af -- fet -- to,
+    quel tor -- men -- to -- so~af -- fet -- to
+    Che pro -- var fa -- te~al -- tru -- i
+    Bra -- ma -- re -- ste~ad -- dol -- ci -- to~in me per vu -- i,
+    Ed al -- lor for -- se chie -- de -- re -- ste ai -- ta,
+        chie -- de -- re -- ste ai -- ta
+    \ijLyrics
+        chie -- de -- re -- ste ai -- ta
+    \normalLyrics
+    A chi con stra -- tio~or ri -- te -- ne -- te~in vi -- ta,
+    a chi con stra -- tio~or ri -- te -- ne -- te in vi -- ta.
 }
 
 tenoreIincipit = \relative c' {
@@ -114,8 +137,8 @@ tenoreIincipit = \relative c' {
     d2
 }
 
+% tenore: checked against source
 tenoreI = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -123,12 +146,12 @@ tenoreI = \relative c' {
 
     g4 g e f8[ g] a4 a g g | g2 c, r1 | r4 e g8[ fs g d] 
 
-    e2 d | r2 r4 a c8[ b c a] e'2 | a, r4 r8 f' e8[ d e c] d2 a |
+    e2 d | r2 r4 a c8[ b c a] e'2 | a,4 r8 f' e8[ d e c] d2 a |
         r2 r4 d2 c4 c a8[ b] | c2
 
     c4 b c c c2 | c r4 c d d4. d8 bf4 | a2 a4 d c c c2 | g4 g' c, c c2 c |
 
-    g'4 e f e d2 c4 a | b e2 c2 b2 a | r2 fs2. fs8[ fs] g4 fs | a( b2 a4) b1 |
+    g'4 e f e d2 c4 a | b e2 c4 b2 a | r2 fs2. fs8[ fs] g4 fs | a( b2 a4) b1 |
         R\breve |
 
     r2 e2. e8[ e] d4 d | c2 b b4 b c2 | e4 e c2 d r | r g4 g e2 e4 d |
@@ -143,6 +166,29 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
+    Cru -- de -- lis -- si -- ma Don -- na,
+    Il tuo -- no~es -- ser vor -- re -- i
+    Poi che lam -- po voi se -- te~a gli~oc -- chi mie -- i,
+    E ful -- mi -- ne~al mio co -- re,
+    e ful -- mi -- ne~al mio co -- re,
+    \ijLyrics
+    e ful -- mi -- ne~al mio co -- re.
+    \normalLyrics
+    Che se fred -- do ti -- mo -- re
+    Del suo rim -- bom -- bo,
+    che se fred -- do ti -- mo -- re
+    del suo rim -- bom -- bo,
+    del suo rim -- bom -- bo sì v'in -- gom -- bra'l pet -- to,
+        sì v'in -- gom -- bra'l pet -- to,
+    Quel tor -- men -- to -- so~af -- fet -- to
+    Che pro -- var fa -- te~al -- tru -- i
+    Bra -- ma -- re -- ste~ad -- dol -- ci -- to,
+    bra -- ma -- re -- ste~ad -- dol -- ci -- to~in me per vu -- i,
+    Ed al -- lor for -- se chie -- de -- re -- ste ai -- ta,
+        chie -- de -- re -- ste ai -- ta,
+        chie -- de -- re -- ste ai -- ta
+    A chi con stra -- tio~or ri -- te -- ne -- te~in vi -- ta,
+    a chi con stra -- tio~or ri -- te -- ne -- te~in vi -- ta.
 }
 
 bassoIincipit = \relative c' {
@@ -153,8 +199,8 @@ bassoIincipit = \relative c' {
     g1
 }
 
+% basso: checked against source
 bassoI = \relative c' {
-    \clef varbaritone
     \key c \major
     \fourTwoCommonTime
 
@@ -166,7 +212,7 @@ bassoI = \relative c' {
         e2 e4 g f f 
 
     f2 | c r2 r1 | R\breve | r4 g' f f f2 c | r2 r4 a' fs g2 f4 |
-        e2 e r1 | r2 d4. d8[ d] d4 d | 
+        e2 e r1 | r2 d2. d8[ d] d4 d | 
 
     c1 b | R\breve | a'2. a8[ a] g4 g f2 | e e4 e g2 a4 a | 
         e2 a g4 g b2 | c4 c g2
@@ -180,6 +226,24 @@ bassoI = \relative c' {
 }
 
 bassoLyricsI = \lyricmode {
+    Cru -- de -- lis -- si -- ma Don -- na,
+    Il tuo -- no~es -- ser vor -- re -- i
+    Poi che lam -- po voi se -- te~a gli~oc -- chi mie -- i,
+    E ful -- mi -- ne~al mio co -- re,
+    \ijLyrics
+    e ful -- mi -- ne~al mio co -- re.
+    \normalLyrics
+    Che se fred -- do ti -- mo -- re
+    Del suo rim -- bom -- bo,
+    del suo rim -- bom -- bo sì v'in -- gom -- bra'l pet -- to,
+    Quel tor -- men -- to -- so~af -- fet -- to
+    Che pro -- var fa -- te~al -- tru -- i
+    Bra -- ma -- re -- ste~ad -- dol -- ci -- to,
+    bra -- ma -- re -- ste~ad -- dol -- ci -- to~in me per vu -- i,
+        chie -- de -- re -- ste ai -- ta,
+    Ed al -- lor for -- se chie -- de -- re -- ste ai -- ta
+    A chi con stra -- tio~or ri -- te -- ne -- te~in vi -- ta.
+%    a chi con stra -- tio~or ri -- te -- ne -- te~in vi -- ta.
 }
 
 quintoIincipit = \relative c'' {
@@ -190,8 +254,8 @@ quintoIincipit = \relative c'' {
     g1
 }
 
+% quinto: checked against source
 quintoI = \relative c'' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -202,13 +266,45 @@ quintoI = \relative c'' {
     c8 g] a1 g2 | r2 r4 g' f8[ e f d] e2 | d r4 g f e4. e8 d4 | 
         e2 e4 d f f f2 | g r4 g2 f4
 
-    f4 d8[ e] | f2 e4 f g g e2 | d4 d a' a a2 | g e4 c d c a g8[ g'] | e4
+    f4 d8[ e] | f2 e4 f g g e2 | d4 d a' a a2 g | e4 c d c a g8[ g'] e4
 
-    f8[ d] e2 g4 r4 d 
+    f8[ d] | e2 g4 r4 d d2 cs4 | r2 a2. a8[ a] b2 | c e1 d2 | 
+        b2. b8[ b] d4 d b2 | e1 r2 
+
+    r4 a ~ | a a8[ a] g4 g g2 e | r1 r2 g4 g | e2 d4 d c8([ d e f] g4) g | 
+        e d cs2 d r2 |
+
+    r1 c8[ c] f4 d g8[ f] | e[ d] e4.( d16 c] f4) e2 r4 f | 
+        g e f2 e r4 d8[ d] | g4 e
+
+    a2 d, r2 | R\breve*2 | r4 a a a b2. g4 | b d c2. b4 a2 | g\longa*1/2
     \bar "|."
 }
 
 quintoLyricsI = \lyricmode {
+    Cru -- de -- lis -- si -- ma Don -- na,
+    cru -- de -- lis -- si -- ma Don -- na,
+    Il tuo -- no~es -- ser vor -- re -- i
+    Poi che lam -- po voi se -- te~a gli~oc -- chi mie -- i,
+    E ful -- mi -- ne~al mio co -- re,
+    \ijLyrics
+    e ful -- mi -- ne~al mio co -- re.
+    \normalLyrics
+    Che se fred -- do ti -- mo -- re
+    Del suo rim -- bom -- bo,
+    che se fred -- do ti -- mo -- re
+    del suo rim -- bom -- bo,
+    del suo rim -- bom -- bo sì v'in -- gom -- bra'l pet -- to,
+        sì v'in -- gom -- bra'l pet -- to,
+            il pet -- to,
+    Quel tor -- men -- to -- so~af -- fet -- to,
+    quel tor -- men -- to -- so~af -- fet -- to
+    Che pro -- var fa -- te~al -- tru -- i
+    Bra -- ma -- re -- ste~ad -- dol -- ci -- to~in me per vu -- i,
+        chie -- de -- re -- ste,
+        chie -- de -- re -- ste ai -- ta,
+    Ed al -- lor for -- se chie -- de -- re -- ste ai -- ta
+    A chi con stra -- tio~or ri -- te -- ne -- te~in vi -- ta.
 }
 
 cantoIincipitVoice = <<
