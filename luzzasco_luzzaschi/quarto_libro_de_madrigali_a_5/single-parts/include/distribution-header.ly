@@ -1,5 +1,5 @@
     composer = "Luzzasco Luzzaschi (1545-1607)"
-    source = \markup { \italic { Il quarto libro de madrigali à 5 voci } (Vittorio Baldini press, Venice, 1594) }
+    source = \markup { \italic { Il quarto libro de madrigali à 5 voci } (Vittorio Baldini press, Ferrara, 1594) }
     style = "Renaissance"
     
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
