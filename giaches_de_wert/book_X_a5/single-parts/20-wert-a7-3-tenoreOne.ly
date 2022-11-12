@@ -58,3 +58,4 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+

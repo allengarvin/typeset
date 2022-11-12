@@ -26,10 +26,23 @@
 % O lovely pity,
 % which increases desire in me and beauty in you.
 
+% Profeti della quinta (very similar):
+% I see indeed pity, although lately come,
+% in your hardened heart, but never too
+% late were the favours of Love.
+% O sweet marvels! My fire
+% burned never so hot
+% as now in this cool relief, nor have I
+% ever seen , my dear beautiful light,
+% you graced with such beauty and
+% shining so, as now that pity warms
+% and adorns you. O lovely pity, which
+% increases my desire and your beauty!
+
 cantoVincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     a1
 }
@@ -37,8 +50,9 @@ cantoVincipit = \relative c'' {
 % canto: checked against source
 cantoV = \relative c'' {
     \key c \major
-    \fourTwoCommonTime
+    \fourTwoCutTime
 
+    s1*0^\markup { \italic { Prima parte } }
     a1 g ~ | g2 f f1 | e e | e r1 | R\breve | r1 r2 g | c b a g | c\breve |
         a1 r1 | R\breve*2 | 
 
@@ -49,6 +63,8 @@ cantoV = \relative c'' {
         b e a,1 | d2. d4 c2
 
     a2 ~ | a( gs4 fs gs1) | a\longa*1/2 \bar "||"
+    s1*0^\markup { \italic { Seconda parte } }
+
     R\breve*2 | r1 r2 c | b2. b4 b2 c | a1 gs | r2 a c b | a4( b c d e2. d4 |
         c1) b | r2 e, 
 
@@ -104,16 +120,17 @@ cantoLyricsV = \lyricmode {
 altoVincipit = \relative c' {
     \clef "petrucci-c3"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     e1
 }
 
+% alto: checked against source
 altoV = \relative c' {
-    \clef alto
     \key c \major
-    \fourTwoCommonTime
+    \fourTwoCutTime
 
+    s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Prima parte" } } #})
     e1 e ~ | e2 c d1 | c b | b r1 | R\breve*3 | r2 e a g | f e d c |
         R\breve*2 | r2 a' g1 ~ | g2 f 
 
@@ -122,6 +139,8 @@ altoV = \relative c' {
 
     f1 d2. d4 | e1 e | e r2 a | g1. g2 | g g f1 | d2. d4 e1 | e\breve | 
         e\longa*1/2 \bar "||"
+    s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Seconda parte" } } #})
+
     f1 e2. e4 | e2 e a1 | gs r2 a | gs2. gs4 gs2 a | f1 e | r2 e a g | f1 g2
 
     e2 | f c d e | c2.( b4 a g f2) | g c c c | a a' g( c,4 d | 
@@ -148,47 +167,49 @@ altoV = \relative c' {
 }
 
 altoLyricsV = \lyricmode {
-%    Io veg -- gio pur pie -- ta -- te
-%    Nel -- l'in -- du -- ra -- to co -- re,
-%    io veg -- gio pur pie -- ta -- te an -- cor che tar -- di
-%    nel -- l'in -- du -- ra -- to co -- re,
-%    Ma tar -- de non fur mai gra -- tie d'A -- mo -- re,
-%    ma tar -- de non fur mai gra -- tie d'A -- mo -- re.
-%
-%    O dol -- ci me -- ra -- vi -- glie, il fo -- co mi -- o
-%    Non fu mai sì co -- cen -- te
-%    Co -- m'or nel re -- fri -- ge -- rio, nè vid -- d'i -- o,
-%    Ca -- ra mia lu -- ce~a -- dor -- na,
-%    Voi di tan -- ta bel -- lez -- za e sì lu -- cen -- te,
-%    Co -- m'o -- ra che pie -- tà,
-%    \ijLyrics
-%    co -- m'o -- ra che pie -- tà
-%    \normalLyrics
-%        v'ac -- cen -- de~ed or -- na.
-%    O leg -- gia -- dra pie -- ta -- te,
-%    \ijLyrics
-%    o leg -- gia -- dra pie -- ta -- te,
-%    \normalLyrics
-%    Ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
-%        in voi bel -- ta -- te,
-%    ch'in me cre -- sce de -- sir, in voi,
-%        in voi bel -- ta -- te,
-%        in voi bel -- ta -- te!
+    Io veg -- gio pur pie -- ta -- te
+    Nel -- l'in -- du -- ra -- to co -- re,
+    io veg -- gio pur pie -- ta -- te an -- cor che tar -- di
+    nel -- l'in -- du -- ra -- to co -- re,
+    Ma tar -- de non fur mai gra -- tie d'A -- mo -- re,
+    ma tar -- de non fur mai gra -- tie d'A -- mo -- re.
+
+    O dol -- ci me -- ra -- vi -- glie,
+    \ijLyrics
+    o dol -- ci me -- ra -- vi -- glie,
+    \normalLyrics
+        il fo -- co mi -- o
+    Non fu mai sì co -- cen -- te
+    Co -- m'or nel re -- fri -- ge -- rio, nè vid -- d'i -- o,
+    Ca -- ra mia lu -- ce~a -- dor -- na,
+    Voi di tan -- ta bel -- lez -- za e sì lu -- cen -- te,
+    Co -- m'o -- ra che pie -- tà v'ac -- cen -- de~ed or -- na,
+    co -- m'o -- ra che pie -- tà v'ac -- cen -- de~ed or -- na.
+    O __ leg -- gia -- dra pie -- ta -- te,
+    \ijLyrics
+    o leg -- gia -- dra pie -- ta -- te,
+    \normalLyrics
+    Ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
+    ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
+        in voi __ bel -- ta -- te,
+        in voi,
+        in voi bel -- ta -- te!
 }
 
 tenoreVincipit = \relative c' {
     \clef "petrucci-c4"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     c1
 }
 
+% tenore: checked against source
 tenoreV = \relative c' {
-    \clef tenor
     \key c \major
-    \fourTwoCommonTime
+    \fourTwoCutTime
 
+    s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Prima parte" } } #})
     c1 b | c2 a1. | a1 gs | gs r2 c | b e d2.( c4 | d1) e~e\breve | R |
         r2 c, f 
 
@@ -198,8 +219,10 @@ tenoreV = \relative c' {
     a1 ~ | a2 a a1 ~ | a b | r2 e e1 | e2 d1 cs2 | d1 a2. a4 | c1 b | a r1 | 
         r2 e g2. d4 | e2 e d1 | 
 
-    f2. f4 e2 \[ e ~ | e\colorBr e'2.\colorBrBegin \] d4\colorBrEnd b2 | 
+    f2. f4 e2 \[ e ~ | 
+        e\colorBr \melisma e'2.\colorBrBegin \] d4\colorBrEnd b2 \melismaEnd | 
         cs\longa*1/2 \bar "||"
+    s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Seconda parte" } } #})
 
     d1 b2. b4 | b2 c a1 | b r2 a | e2. e4 e2 a | d,1 e | R\breve | r2 a c g |
         a a \[ g1( \colorBr a2.\colorBrBegin \] g4\colorBrEnd
@@ -208,12 +231,12 @@ tenoreV = \relative c' {
         d4 d d2 c1 ~ | c2 c a2.( b4 | c2) a r1 | 
 
     r1 r2 g ~ | g4 a b2 c4 a g2 | e r4 g c c b2 | a1 r2 a | e'1 b2 d ~ |
-        d d b1 | R\breve*2 | r1 r2 e | e1 e | 
+        d d b1 | R\breve R | r1 r2 e | e1 e | 
 
     d1 d | b1 r1 | R\breve*2 | r1 r2 r4 c ~ | c c f2 e4 e d2 | 
         b r4 a2 a4 a2 | g4 g g2 g e | f a2. a4 g2 | c1
     % --- page ---
-    r2 a | c b a g | r4 b d2 c b ~ | b4( a) a2 b1 | r2 g b c ~ |
+    r2 a | c b a g | r4 b d2 c b ~ | b4( a a2) b1 | r2 g b c ~ |
         c4 c c2 e r4 e, | g2 f e1 | d
 
     r2 e | g f \[ e1( | c'1.) \] a2 | r g b d | b a r b | d c b1 | 
@@ -222,57 +245,65 @@ tenoreV = \relative c' {
 }
 
 tenoreLyricsV = \lyricmode {
-%    Io veg -- gio pur pie -- ta -- te
-%    Nel -- l'in -- du -- ra -- to co -- re,
-%    io veg -- gio pur pie -- ta -- te an -- cor che tar -- di
-%    nel -- l'in -- du -- ra -- to co -- re,
-%    Ma tar -- de non fur mai gra -- tie d'A -- mo -- re,
-%    ma tar -- de non fur mai gra -- tie d'A -- mo -- re.
-%
-%    O dol -- ci me -- ra -- vi -- glie, il fo -- co mi -- o
-%    Non fu mai sì co -- cen -- te
-%    Co -- m'or nel re -- fri -- ge -- rio, nè vid -- d'i -- o,
-%    Ca -- ra mia lu -- ce~a -- dor -- na,
-%    Voi di tan -- ta bel -- lez -- za e sì lu -- cen -- te,
-%    Co -- m'o -- ra che pie -- tà,
-%    \ijLyrics
-%    co -- m'o -- ra che pie -- tà
-%    \normalLyrics
+    Io veg -- gio pur pie -- ta -- te an -- cor che tar -- di __
+    Nel -- l'in -- du -- ra -- to co -- re,
+    io veg -- gio pur pie -- ta -- te,
+    nel -- l'in -- du -- ra -- to co -- re,
+    nel -- l'in -- du -- ra -- to co -- re,
+    Ma tar -- de non fur mai gra -- tie d'A -- mo -- re,
+    ma tar -- de non fur mai gra -- tie d'A -- mo -- re.
+
+    O dol -- ci me -- ra -- vi -- glie,
+    \ijLyrics
+    o dol -- ci me -- ra -- vi -- glie,
+    \normalLyrics
+%        il fo -- co mi -- o
+    Non fu mai sì co -- cen -- te
+    Co -- m'or nel re -- fri -- ge -- rio, nè vid -- d'i -- o,
+    Ca -- ra mia lu -- ce~a -- dor -- na,
+    Voi __ di tan -- ta bel -- lez -- za e sì lu -- cen -- te,
+    Co -- m'o -- ra che pie -- tà,
+    co -- m'o -- ra che pie -- tà
 %        v'ac -- cen -- de~ed or -- na.
-%    O leg -- gia -- dra pie -- ta -- te,
-%    \ijLyrics
-%    o leg -- gia -- dra pie -- ta -- te,
-%    \normalLyrics
-%    Ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
-%        in voi bel -- ta -- te,
-%    ch'in me cre -- sce de -- sir, in voi,
-%        in voi bel -- ta -- te,
-%        in voi bel -- ta -- te!
+    O __ leg -- gia -- dra pie -- ta -- te,
+    \ijLyrics
+    o leg -- gia -- dra pie -- ta -- te,
+    \normalLyrics
+    Ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
+        in voi bel -- ta -- te,
+    ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
+        in voi bel -- ta -- te,
+    \ijLyrics
+        in voi bel -- ta -- te,
+    \normalLyrics
+        in voi bel -- ta -- te!
 }
 
-bassoVincipit = \relative c {
+bassoVincipit = \relative c' {
     \clef "petrucci-f4"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     a1
 }
 
-bassoV = \relative c {
-    \clef bass
+% basso: checked against source
+bassoV = \relative c' {
     \key c \major
-    \fourTwoCommonTime
+    \fourTwoCutTime
 
+    s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Prima parte" } } #})
     a1 e ~ | e2 f d1 | a e' | e r2 a, | e' c g'1 ~ | g c, ~ | c r1 | 
         R\breve | r2 a a' g | 
 
-    f2 e d1 | c\breve | r2 c e'1 ~ | e2 f d1 | a e' | e r2 a, | e' c g'1 ~ |
+    f2 e d1 | c\breve | r2 a e'1 ~ | e2 f d1 | a e' | e r2 a, | e' c g'1 ~ |
         g c, ~ | c r1 | R\breve | r2 c f e | d c
 
     f1 ~ | f e | r2 a, c1 ~ | c2 g g' g | a d,2. d4 d2 | a4( b c d e1) |
         a, r2 a | c1. g2 | g' g a
 
     d,2 ~ | d4 d d2 a4( b c d | e\breve) a,\longa*1/2 \bar "||"
+    s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Seconda parte" } } #})
     a'1 gs2. gs4 | gs2 a f1 | e r1 | R\breve*2 | r2 a a e | f1 c | r1 r2 e |
         f c d d | 
 
@@ -285,56 +316,54 @@ bassoV = \relative c {
     d1 | c r2 a | a'1 e | g d | e r1 | r1 r2 e | a4( g f e d2) c | g'1 c,2 r4 f~|
         f f d2 e4 a
     % --- page ---
-    d2 | e r4 a,2 a4 d2 | g,4 c g'2 c,1 | R\breve*2 | r1 r2 e | g f e1 | 
+    d,2 | e r4 a,2 a4 d2 | g,4 c g'2 c,1 | R\breve*2 | r1 r2 e | g f e1 | 
         a, r2 b | c e2. e4 c2 | f1
 
-    r2 e | c d e a, | R\breve*2 | r2 c a d | c1 g | r1 g' | a2 a, e'1 | 
+    r2 e | c d e a, | R\breve R | r2 c a d | c1 g | r1 g' | a2 a, e'1 | 
         a,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsV = \lyricmode {
+    Io veg -- gio pur pie -- ta -- te an -- cor che tar -- di __
 %    Io veg -- gio pur pie -- ta -- te
-%    Nel -- l'in -- du -- ra -- to co -- re,
-%    io veg -- gio pur pie -- ta -- te an -- cor che tar -- di
-%    nel -- l'in -- du -- ra -- to co -- re,
-%    Ma tar -- de non fur mai gra -- tie d'A -- mo -- re,
-%    ma tar -- de non fur mai gra -- tie d'A -- mo -- re.
-%
-%    O dol -- ci me -- ra -- vi -- glie, il fo -- co mi -- o
-%    Non fu mai sì co -- cen -- te
-%    Co -- m'or nel re -- fri -- ge -- rio, nè vid -- d'i -- o,
-%    Ca -- ra mia lu -- ce~a -- dor -- na,
-%    Voi di tan -- ta bel -- lez -- za e sì lu -- cen -- te,
-%    Co -- m'o -- ra che pie -- tà,
-%    \ijLyrics
-%    co -- m'o -- ra che pie -- tà
-%    \normalLyrics
-%        v'ac -- cen -- de~ed or -- na.
-%    O leg -- gia -- dra pie -- ta -- te,
-%    \ijLyrics
-%    o leg -- gia -- dra pie -- ta -- te,
-%    \normalLyrics
-%    Ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
+    Nel -- l'in -- du -- ra -- to co -- re,
+    io veg -- gio pur pie -- ta -- te an -- cor che tar -- di __
+    nel -- l'in -- du -- ra -- to co -- re,
+    Ma tar -- de non fur mai gra -- tie d'A -- mo -- re,
+    ma tar -- de non fur mai gra -- tie d'A -- mo -- re.
+
+    O dol -- ci me -- ra -- vi -- glie, il fo -- co mi -- o
+    Non fu mai sì co -- cen -- te
+    Co -- m'or nel re -- fri -- ge -- rio, nè vid -- d'i -- o,
+    Ca -- ra mia lu -- ce~a -- dor -- na,
+    Voi di tan -- ta bel -- lez -- za e sì lu -- cen -- te,
+    Co -- m'o -- ra che pie -- tà v'ac -- cen -- de~ed or -- na,
+    co -- m'o -- ra che pie -- tà v'ac -- cen -- de~ed or -- na.
+    O __ leg -- gia -- dra pie -- ta -- te,
+    o leg -- gia -- dra pie -- ta -- te,
+        in voi bel -- ta -- te,
+    Ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
 %        in voi bel -- ta -- te,
 %    ch'in me cre -- sce de -- sir, in voi,
-%        in voi bel -- ta -- te,
-%        in voi bel -- ta -- te!
+        in voi bel -- ta -- te,
+        in voi bel -- ta -- te!
 }
 
 quintoVincipit = \relative c {
     \clef "petrucci-c4"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     e2
 }
 
+% quinto: checked against source
 quintoV = \relative c {
-    \clef tenor
     \key c \major
-    \fourTwoCommonTime
+    \fourTwoCutTime
 
+    s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Prima parte" } } #})
     R\breve*3 | r2 e a1 | g2 c1( b4 a | b1) c | r2 g c b | a g f e | r1 d2 g |
 
     a2 c1 b2 | a1 g | r2 a b1 | e,2 a1 a2 | a1 b | r2 e, a1 | g2 c1( b4 a |
@@ -344,11 +373,12 @@ quintoV = \relative c {
         e2 e'2.( d4 b2) | cs1 r2 e | e1 e2 d ~ | d 
 
     cs2 d1 | a2. a4 c1 | b\breve | a\longa*1/2 \bar "||"
+    s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Seconda parte" } } #})
 
     d,1 e2. e4 | e2 e' d1 | e r2 e | e2. e4 e2 e | d1 b | r2 c e e | c1 c | 
         R\breve | 
 
-    r1 r2 a | c g a a | f1 e2 a | g e a f | g1 c2 c | d b e b | d1 e | r2 g, e
+    r1 r2 a | c g a a | f1 e2 a | g e a f | g1 c2 c | d b e c | d1 e | r2 g, e
 
     a2 ~ | a4( gs8[ fs] gs2) a a ~ | a4 d,2 g4 g2.( f8[ e] | a2) a f1 | 
         e2 c'2. b4 a2 | g d' b1 | e,2 r4 g c c 
@@ -357,7 +387,8 @@ quintoV = \relative c {
         c2) g r a ~ | a e'1 b2 ~ | b d1 a2 | e' b 
     % --- page ---
     e4( d c b | \[ a1 b) \] |
-        a2 \[ d1\colorBr e2\colorBrBegin ~ e4 \] d8[ c] \colorBrEnd d2 e r |
+        a2 \[ d1 ( \colorBr e2\colorBrBegin ~ |
+        e4 \] d8[ c] \colorBrEnd d2 ) e r |
         R\breve | r2 e2. e4 d2 | d4 c b2 c1 ~ | c r1 | R\breve*2 | r1 r2 g |
         e fs g1 | g
 
@@ -370,31 +401,36 @@ quintoV = \relative c {
 
 quintoLyricsV = \lyricmode {
 %    Io veg -- gio pur pie -- ta -- te
-%    Nel -- l'in -- du -- ra -- to co -- re,
-%    io veg -- gio pur pie -- ta -- te an -- cor che tar -- di
-%    nel -- l'in -- du -- ra -- to co -- re,
-%    Ma tar -- de non fur mai gra -- tie d'A -- mo -- re,
-%    ma tar -- de non fur mai gra -- tie d'A -- mo -- re.
-%
-%    O dol -- ci me -- ra -- vi -- glie, il fo -- co mi -- o
-%    Non fu mai sì co -- cen -- te
-%    Co -- m'or nel re -- fri -- ge -- rio, nè vid -- d'i -- o,
-%    Ca -- ra mia lu -- ce~a -- dor -- na,
-%    Voi di tan -- ta bel -- lez -- za e sì lu -- cen -- te,
+        An -- cor che tar -- di
+    Nel -- l'in -- du -- ra -- to co -- re,
+    nel -- l'in -- du -- ra -- to co -- re,
+    io veg -- gio pur pie -- ta -- te an -- cor che tar -- di
+    nel -- l'in -- du -- ra -- to co -- re,
+    Ma tar -- de non fur mai gra -- tie d'A -- mo -- re,
+    ma tar -- de non __ fur mai gra -- tie d'A -- mo -- re.
+
+    O dol -- ci me -- ra -- vi -- glie,
+    \ijLyrics
+    o dol -- ci me -- ra -- vi -- glie,
+    \normalLyrics
+        il fo -- co mi -- o
+    Non fu mai sì co -- cen -- te
+    Co -- m'or nel re -- fri -- ge -- rio,
+    co -- m'or nel re -- fri -- ge -- rio, nè vid -- d'i -- o,
+    Ca -- ra mia lu -- ce~a -- dor -- na,
+    Voi di tan -- ta bel -- lez -- za e sì lu -- cen -- te,
 %    Co -- m'o -- ra che pie -- tà,
 %    \ijLyrics
 %    co -- m'o -- ra che pie -- tà
 %    \normalLyrics
-%        v'ac -- cen -- de~ed or -- na.
-%    O leg -- gia -- dra pie -- ta -- te,
-%    \ijLyrics
-%    o leg -- gia -- dra pie -- ta -- te,
-%    \normalLyrics
-%    Ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
-%        in voi bel -- ta -- te,
-%    ch'in me cre -- sce de -- sir, in voi,
-%        in voi bel -- ta -- te,
-%        in voi bel -- ta -- te!
+        v'ac -- cen -- de~ed or -- na,
+    Co -- m'o -- ra __ che pie -- tà v'ac -- cen -- de~ed or -- na.
+    O leg -- gia -- dra pie -- ta -- te, __
+        in voi bel -- ta -- te,
+    Ch'in me cre -- sce de -- sir, in voi bel -- ta -- te,
+        in voi bel -- ta -- te,
+        in voi __ bel -- ta -- te,
+        in voi bel -- ta -- te!
 }
 
 cantoVincipitVoice = <<

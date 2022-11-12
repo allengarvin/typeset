@@ -58,3 +58,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "20-wert--vicino_un_chiaro_e_cristallino_fonte-dialogo_a_sette"
+    \bookOutputSuffix "--6-tenoreTwo--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \tenoreTwoXX
+        >>
+                \addlyrics { \tenoreTwoLyricsXX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
