@@ -18,6 +18,7 @@
     shortcomp = "marenzio"
     needtranslation = #'t
     folio = "Antiphon to Magnificat, Christmas Day Vespers"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

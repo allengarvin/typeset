@@ -14,6 +14,7 @@
     language = "latin"
     subtitle = "Prima pars"
     instrument = "Resonet in laudibus - prima pars (score)"
+    categories = "[christmas]"
 
     % Unchanging:
     originallyset = "2015-12-17"

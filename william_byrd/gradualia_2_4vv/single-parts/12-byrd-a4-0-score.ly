@@ -16,7 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "vidimus_stellam_ejus_in_oriente"
     shortcomp = "byrd"
-    needtranslation = #'t
+    needtranslation = #'f
+    categories = "[christmas]"
     folio = "Matthew 2:2: Communion motet for the Epiphany"
 
     % Unchanging:

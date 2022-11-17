@@ -18,6 +18,7 @@
     shortcomp = "praetorius"
     needtranslation = #'t
     folio = "Martin Luther (1483-1546)"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "german"

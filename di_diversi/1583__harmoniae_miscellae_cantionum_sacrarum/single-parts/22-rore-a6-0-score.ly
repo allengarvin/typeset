@@ -15,6 +15,7 @@
     instrument = "Hodie Christus natus est (score)"
     composer = "Cipriano de Rore (c.1515-1566)"
     folio = "Antiphon to the Magnificat for vespers on Christmas day"
+    categories = "[christmas]"
 
     % Unchanging:
     originallyset = "2018-08-12"

@@ -16,6 +16,7 @@
     instrument = "Hodie Christus natus est:  (score)"
     headerspace = \markup { \vspace #2 }
     folio = "Antiphon to Magnificat, Christmas Day Vespers"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

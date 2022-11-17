@@ -13,6 +13,7 @@
     title = "In dulci jubilo"
     instrument = "In dulci jubilo (score)"
     language = "german"
+    categories = "[christmas]"
 
     % Unchanging:
     originallyset = "2015-12-19"

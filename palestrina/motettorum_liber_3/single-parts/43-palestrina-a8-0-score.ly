@@ -14,6 +14,7 @@
     language = "latin"
     folio = "Antiphon to Magnificat, Christmas Day Vespers" 
     instrument = "Hodie Christus natus est (score)"
+    categories = "[christmas]"
 
     % Unchanging:
     originallyset = "2015-12-25"

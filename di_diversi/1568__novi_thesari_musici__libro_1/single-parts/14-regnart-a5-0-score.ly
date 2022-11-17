@@ -16,6 +16,7 @@
     composer = "Jacob Regnart (c.1540-1599)"
     headerspace = \markup { \vspace #2 }
     folio = "Motet for Christmas day"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

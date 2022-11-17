@@ -16,6 +16,7 @@
     subtitle = ""
     instrument = "Hodie Christus natus est:  (score)"
     folio = "Antiphon to Magnificat for Christmas vespers"
+    categories = "[christmas]"
 
     % Unchanging:
     originallyset = "2018-12-07"

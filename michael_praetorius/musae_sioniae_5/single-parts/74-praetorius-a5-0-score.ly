@@ -17,6 +17,7 @@
     shorttitle = "vom_himmel_hoch_da_komm_ich_her"
     shortcomp = "praetorius"
     needtranslation = #'t
+    categories = "[christmas]"
     folio = "Martin Luther (1483-1546)"
 
     % Unchanging:

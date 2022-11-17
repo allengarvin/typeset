@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Resonet in laudibus"
     instrument = "Resonet in laudibus (score)"
+    categories = "[christmas]"
 
     language = "latin"
 

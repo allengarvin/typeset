@@ -14,6 +14,7 @@
     language = "latin"
     subtitle = "Secunda pars: Hodie apparuit in Israel"
     instrument = "Resonet in laudibus - seconda pars (score)"
+    categories = "[christmas]"
 
     % Unchanging:
     originallyset = "2015-12-17"

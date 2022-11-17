@@ -16,8 +16,9 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "hodie_christus_natus_est"
     shortcomp = "sweelinck"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Antiphon to Magnificat, Christmas Day Vespers"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

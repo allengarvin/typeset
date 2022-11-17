@@ -21,7 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_dulci_jubilo"
     shortcomp = "praetorius"
-    categories = "[]"
+    categories = "[christmas]"
     needtranslation = #'t
 
     % Unchanging:

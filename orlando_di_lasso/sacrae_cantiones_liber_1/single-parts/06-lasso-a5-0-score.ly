@@ -17,6 +17,7 @@
     shorttitle = "videntes_stellam_magi"
     shortcomp = "lasso"
     needtranslation = #'f
+    categories = "[christmas]"
     folio = "Responsory at Matins of Epiphany"
 
     % Unchanging:

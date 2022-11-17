@@ -17,6 +17,7 @@
     shorttitle = "hodie_christus_natus_est"
     shortcomp = "byrd"
     needtranslation = #'f
+    categories = "[christmas]"
     folio = "Antiphon to Magnificat, Christmas Day Vespers"
 
     % Unchanging:

@@ -13,7 +13,8 @@
     title = "Canite tuba in Sion"
     language = "latin"
     instrument = "Canite tuba in Sion (score)"
-    folio = "1st & 3rd antiphon, 4th Sunday Avent Vespers" 
+    folio = "1st & 3rd antiphon, 4th Sunday Advent Vespers" 
+    categories = "[christmas]"
 
     % Unchanging:
     originallyset = "2015-12-23"

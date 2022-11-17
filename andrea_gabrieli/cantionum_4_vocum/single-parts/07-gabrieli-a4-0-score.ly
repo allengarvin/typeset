@@ -15,6 +15,7 @@
     instrument = "Videntes stellam Magi:  (score)"
     headerspace = \markup { \vspace #2 }
     folio = "In Epiphania Domini (responsory at Matins of the Epiphany)"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

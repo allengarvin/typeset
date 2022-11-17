@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "puer_natus_est"
     shortcomp = "byrd"
-    categories = "[]"
+    categories = "[christmas]"
     needtranslation = #'f
     folio = "Introit for Christmas Day Mass"
     final = "d"

@@ -18,6 +18,7 @@
     shortcomp = "mel"
     composer = "Rinaldo del Mel (c.1554-c.1598)"
     needtranslation = #'t
+    categories = "[christmas]"
     folio = "Antiphon to Magnificat, Christmas Day Vespers"
 
     % Unchanging:

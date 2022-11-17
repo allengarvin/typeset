@@ -16,8 +16,10 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "hierusalem_surge"
     shortcomp = "balbi"
-    needtranslation = #'t
+    needtranslation = #'f
+    categories = "[christmas]"
     folio = "Communion for Advent II (Baruch 5:5, 4:36)"
+
     final = "f"
     flats = 1
 

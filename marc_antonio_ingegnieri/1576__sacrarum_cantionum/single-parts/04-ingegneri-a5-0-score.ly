@@ -18,6 +18,7 @@
     shortcomp = "ingegneri"
     needtranslation = #'f
     folio = "7th Respond at Matins on Christmas Day"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

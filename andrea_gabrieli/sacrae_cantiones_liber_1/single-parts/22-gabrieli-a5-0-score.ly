@@ -15,6 +15,7 @@
     instrument = "Sancta et immaculata Virginitas:  (score)"
     headerspace = \markup { \vspace #2 }
     folio = "Sixth responsory at Matins of Christmas Day"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

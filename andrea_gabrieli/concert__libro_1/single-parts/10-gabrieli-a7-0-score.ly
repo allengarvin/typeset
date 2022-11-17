@@ -21,6 +21,7 @@
     lastupdated = "2018-08-14"
     flats = 1
     final = "f"
+    categories = "[christmas]"
     shorttitle = "angelus_ad_pastores_ait"
     \include "include/distribution-header.ly"
     tagline = #'f

@@ -14,6 +14,7 @@
     language = "german"
     instrument = "Vom Himmel hoch (score)"
 
+    categories = "[christmas]"
     % Unchanging:
     originallyset = "2015-12-19"
     lastupdated = "2015-12-19"

@@ -14,6 +14,7 @@
     subtitle = ""
     instrument = "Vom Himmel hoch da komm ich her:  (score)"
     headerspace = \markup { \vspace #2 }
+    categories = "[christmas]"
     shorttitle = "vom_himmel_hoch_da_komm_ich_her"
     shortcomp = "praetorius"
     needtranslation = #'t

@@ -17,6 +17,7 @@
     shorttitle = "in_dulci_jubilo"
     shortcomp = "praetorius"
     needtranslation = #'f
+    categories = "[christmas]"
 
     % Unchanging:
     language = "german/latin"

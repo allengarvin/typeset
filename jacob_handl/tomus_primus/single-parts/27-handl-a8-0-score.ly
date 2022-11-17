@@ -14,6 +14,7 @@
     language = "latin"
     folio = "Responsory at Matins on Christmas Day" 
     instrument = "Hodie nobis cœlorum rex (score)"
+    categories = "[christmas]"
 
     % Unchanging:
     lastupdated = "2015-12-23"

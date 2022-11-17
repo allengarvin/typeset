@@ -19,6 +19,7 @@
     folio = "Motet for Advent"
     composer = "Jacob Obrecht (c.1452-1505)"    
     needtranslation = #'t
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

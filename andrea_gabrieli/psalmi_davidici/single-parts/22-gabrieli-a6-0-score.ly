@@ -16,7 +16,6 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "de_profundis_clamavi"
     shortcomp = "gabrieli"
-    categories = "[]"
     needtranslation = #'f
     categories = "[penitential]"
     folio = "Psalm 129/130"

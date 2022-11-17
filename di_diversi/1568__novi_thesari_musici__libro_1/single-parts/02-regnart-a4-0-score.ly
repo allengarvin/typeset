@@ -16,6 +16,7 @@
     instrument = "Qui venturus est veniet: Seconda pars (score)"
     headerspace = \markup { \vspace #2 }
     folio = "Antiphon for Advent IV"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

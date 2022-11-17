@@ -14,6 +14,7 @@
     language = "latin"
     subtitle = ""
     instrument = "Puer natus est nobis:  (score)"
+    categories = "[christmas]"
     folio = "In Festo Nativitatis Christi"
 
     % Unchanging:

@@ -17,6 +17,7 @@
     shorttitle = "es_ist_ein_ros_entsprungen"
     shortcomp = "praetorius"
     needtranslation = #'t
+    categories = "[christmas]"
 
     % Unchanging:
     language = "german"

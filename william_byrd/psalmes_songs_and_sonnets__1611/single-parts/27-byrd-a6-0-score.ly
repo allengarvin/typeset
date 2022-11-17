@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "this_day_christ_was_born"
     shortcomp = "byrd"
+    categories = "[christmas]"
     folio = "A Caroll for Christmas Day"
 
     % Unchanging:

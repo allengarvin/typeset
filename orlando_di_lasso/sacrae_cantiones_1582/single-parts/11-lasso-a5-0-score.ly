@@ -15,6 +15,7 @@
     instrument = "Angelus ad pastores ait:  (score)"
     headerspace = \markup { \vspace #2 }
     folio = "Christmas day motet (paraphrase of the Luke: 2:10-11)"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

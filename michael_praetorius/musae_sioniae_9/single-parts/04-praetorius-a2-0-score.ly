@@ -13,6 +13,7 @@
     title = "Gelobet seist du, Jesu Christ"
     subtitle = ""
     instrument = "Gelobet seist du, Jesu Christ:  (score)"
+    categories = "[christmas]"
     headerspace = \markup { \vspace #2 }
     shorttitle = "gelobet_seist_du_jesu_christ"
     shortcomp = "praetorius"

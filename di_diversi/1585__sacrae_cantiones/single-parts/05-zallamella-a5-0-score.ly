@@ -17,7 +17,8 @@
     shorttitle = "verbum_caro_factum_est"
     shortcomp = "zallamella"
     composer = "Pandolfo Zallamella (1551-c.1590)"
-    needtranslation = #'t
+    categories = "[christmas]"
+    needtranslation = #'f
     folio = "John 1:14 (Final responsory for Christmas matins)"
 
     % Unchanging:

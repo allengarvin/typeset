@@ -17,6 +17,7 @@
     shorttitle = "universi_qui_te_expectant"
     shortcomp = "balbi"
     needtranslation = #'t
+    categories = "[christmas]"
     folio = "Offertory for Advent I (Psalm 24:2-3)"
     final = "g"
     flats = 1

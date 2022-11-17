@@ -18,6 +18,7 @@
     shortcomp = "palestrina"
     needtranslation = #'t
     folio = "Responsory for matins on Christmas day"
+    categories = "[christmas]"
 
     % Unchanging:
     language = "latin"

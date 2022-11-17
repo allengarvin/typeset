@@ -15,6 +15,7 @@
     subtitle = ""
     instrument = "Angelus ad pastores ait:  (score)"
     folio = "In Nativitate Domine (paraphrase of the Luke: 2:10-11)"
+    categories = "[christmas]"
 
     % Unchanging:
     originallyset = "2018-12-08"

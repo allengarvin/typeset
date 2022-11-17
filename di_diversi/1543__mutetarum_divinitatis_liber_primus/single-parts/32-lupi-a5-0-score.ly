@@ -15,6 +15,7 @@
     composer = "Johannes Lupi (c.1506-1539)"
     subtitle = ""
     instrument = "Quem vidistis pastores dicit:  (score)"
+    categories = "[christmas]"
     folio = "3rd responsory for Matins on Christmas day"
 
     % Unchanging:

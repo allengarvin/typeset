@@ -14,6 +14,7 @@
     language = "instrumental"
     instrument = "Noé noé noé (score)"
     folio = \markup { fol. 28\super{v} - 29\super{r} }
+    categories = "[christmas]"
     composer = "Brumel, Antoine  (c.1460-c.1512)"
 
 

@@ -15,6 +15,7 @@
     instrument = "Der Tag der ist so freudenreich:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "der_tag_der_ist_so_freudenreich"
+    categories = "[christmas]"
     shortcomp = "praetorius"
     needtranslation = #'f
     folio = "Martin Luther (1483-1546)"

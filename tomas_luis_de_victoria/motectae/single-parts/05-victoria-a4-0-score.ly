@@ -14,6 +14,7 @@
     language = "latin"
     instrument = "O magnum mysterium (score)"
     folio = "Fourth of nine responsories for Matins of Christmas Day"
+    categories = "[christmas]"
 
     % Unchanging:
     originallyset = "2017-08-22"

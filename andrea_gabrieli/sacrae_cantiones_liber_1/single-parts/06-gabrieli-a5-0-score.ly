@@ -15,6 +15,7 @@
     instrument = "Levavi oculos meos in montes: Prima pars (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "levavi_oculos_meos_in_montes"
+    categories = "[christmas]"
     shortcomp = "gabrieli"
     needtranslation = #'f
     folio = "Psalm 121"
