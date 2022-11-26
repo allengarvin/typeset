@@ -13,25 +13,27 @@
     originallyset = "2022-11-25"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "In resurrectione tua Domine"
+    title = "Aspice Domine de sede sancta tua"
     subtitle = ""
-    instrument = "In resurrectione tua Domine:  (score)"
+    instrument = "Aspice Domine de sede sancta tua:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "in_resurrectione_tua_domine"
+    shorttitle = "aspice_domine_de_sede_sancta_tua"
     shortcomp = "byrd"
     categories = "[]"
-    final = "a"
+    needtranslation = #'f
+    final = "f"
     flats = 1
+    folio = "Motet for the Summer Histories (Prophets)"
 
     % Unchanging:
     language = "latin"
     tagline = #'f
 }
 
-\include "../parts/17-byrd-a5-motet.ly"
+\include "../parts/18-byrd-a5-motet.ly"
 
 \book {
-    \bookOutputName "17-byrd--in_resurrectione_tua_domine-"
+    \bookOutputName "18-byrd--aspice_domine_de_sede_sancta_tua-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -40,64 +42,72 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Superius"
-                    \incipit \superiusXVIIincipitVoice
+                    \incipit \superiusXVIIIincipitVoice
                     \clef "treble"
                     \global
-                    \superiusXVII
+                    \superiusXVIII
                 >>
-             \addlyrics { \superiusLyricsXVII }
+             \addlyrics { \superiusLyricsXVIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Medius"
-                    \incipit \mediusXVIIincipitVoice
+                    \incipit \mediusXVIIIincipitVoice
                     \clef "treble"
                     \global
-                    \mediusXVII
+                    \mediusXVIII
                 >>
-             \addlyrics { \mediusLyricsXVII }
+             \addlyrics { \mediusLyricsXVIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Contratenor"
-                    \incipit \contratenorXVIIincipitVoice
+                    \incipit \contratenorXVIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \contratenorXVII
+                    \contratenorXVIII
                 >>
-             \addlyrics { \contratenorLyricsXVII }
+             \addlyrics { \contratenorLyricsXVIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXVIIincipitVoice
+                    \incipit \tenorXVIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorXVII
+                    \tenorXVIII
                 >>
-             \addlyrics { \tenorLyricsXVII }
+             \addlyrics { \tenorLyricsXVIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusXVIIincipitVoice
+                    \incipit \bassusXVIIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusXVII
+                    \bassusXVIII
                 >>
-             \addlyrics { \bassusLyricsXVII }
+             \addlyrics { \bassusLyricsXVIII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 96 2)
+                tempoWholesPerMinute = #(ly:make-moment 106 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { In resurrectione tua Domine: Alleluia. }
-                \line { Lætentur cœli, et exultet terra.  Alleluia. }
+                \line { Aspice, Domine de sede sancta tua, }
+                \line { et cogita de nobis; }
+                \line { Inclina, Deus meus, aurem tuam et audi; }
+                \line { Aperi oculos meos et vide tribulationem nostram. }
+                \line { \vspace #0.5 }
+                \line { Respice Domine, de sanctuario tuo }
+                \line { et de excelsis cœlorum habitaculis. }
             }
             \column {
-                \line { At thy resurrection, O Lord: Alleluia, }
-                \line { Let the heavens give praise and the earth rejoice. Alleluia. }
-                \line { \hspace #10 CPDL translation (CPDL license) }
+                \line { Look down, O Lord, from thy holy seat, }
+                \line { and think on us: }
+                \line { Incline thine ear, O my God, and hear. }
+                \line { Open my eyes and behold our tribulation. }
+                \line { Look down, O Lord, from thy sanctuary }
+                \line { and thy high heavenly dwellings. }
             }
         }
     }
