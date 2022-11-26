@@ -96,7 +96,7 @@
                 \line { You young girls of 15 years of age, }
                 \line { Come no more to the fountain anymore, }
                 \line { Your eyes are too radiant, }
-                \line { Your breasts perky, mouths laughing, cunts warm, }
+                \line { Your breasts perky, mouths laughing, cunnies warm, }
                 \line { Your heart merrier than that of a hag. }
                 \line { You young girls of 15 years of age, }
                 \line { Come no more to the fountain anymore, }

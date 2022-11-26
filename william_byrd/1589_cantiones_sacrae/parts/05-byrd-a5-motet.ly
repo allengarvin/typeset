@@ -230,8 +230,8 @@ tenorVincipit = \relative c' {
     c1
 }
 
+% tenor: checked against source
 tenorV = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
@@ -244,7 +244,7 @@ tenorV = \relative c' {
     e1 f2 | g1 \[ d'( | g,) \] a | r2 g1 c2 ~ | c d b1 | c2 a f d | a' g e1 |
         c g'2( f4 e | d2) g g1 | r2 c f, c' | a2. g4
 
-    f1 | e e2 f | e g1 a2 ~ | a c2. b4 a2 ~ | a gs a1 | g2 a1 a2 | b1 a | f a |
+    f1 | e e2 f | e g1 a2 ~ | a c2.( b4 a2 ~ | a gs) a1 | g2 a1 a2 | b1 a | f a |
         a2 c1 a2 | b2. a4 g1 | g f | a2 r
 
     r2 a | c1 bf2 a ~ | a4( g f2) e1 ~ | e r2 b' | gs2. a4 b1 | a a2 b ~ |
@@ -267,25 +267,38 @@ tenorV = \relative c' {
 }
 
 tenorLyricsV = \lyricmode {
-%    O Do -- mi -- ne ad -- ju -- va me,
-%        et sal -- vus e -- ro
-%    \ijLyrics
-%        et sal -- vus e -- ro:
-%    \normalLyrics
-%    et li -- be -- ra me de la -- que -- o mor -- tis æ -- ter -- næ,
-%     ne me sur -- ri -- pi -- at ho -- stis a -- stu -- tus,
-%        sed vi -- gi -- lan -- tem sem -- per re -- pe -- ri -- at,
-%            re -- pe -- ri -- at,
-%        qui -- a pec -- ca -- vi ni -- mis,
-%            ni -- mis,
-%        qui -- a pec -- ca -- vi ni -- mis.
-%    Et si com -- mi -- si un -- de me dam -- na -- re po -- tes,
-%        non a -- mi -- si -- sti quo me sal -- va -- re po -- tes:
-%    nec gau -- des per -- di -- ti -- o -- ne mo -- ri -- en -- ti -- um,
-%        sed ut vi -- ve -- rent tu mor -- tu -- us es,
-%    et mors tu -- a pec -- ca -- to -- rum,
-%        pec -- ca -- to -- rum mor -- tem,
-%            oc -- ci -- dit in sæ -- cu -- la,
+    O Do -- mi -- ne ad -- ju -- va me,
+    \ijLyrics
+    O Do -- mi -- ne ad -- ju -- va me,
+    \normalLyrics
+        et sal -- vus e -- ro
+    \ijLyrics
+        et sal -- vus e -- ro:
+    \normalLyrics
+    et li -- be -- ra me de la -- que -- o mor -- tis æ -- ter -- næ,
+     ne me sur -- ri -- pi -- at ho -- stis a -- stu -- tus,
+        sed vi -- gi -- lan -- tem sem -- per re -- pe -- ri -- at,
+            re -- pe -- ri -- at,
+        qui -- a pec -- ca -- vi ni -- mis,
+    \ijLyrics
+        qui -- a pec -- ca -- vi __ ni -- mis,
+    \normalLyrics
+            pec -- ca -- vi ni -- mis.
+    Et si com -- mi -- si un -- de me dam -- na -- re,
+            dam -- na -- re po -- tes, __
+        non a -- mi -- si -- sti quo me sal -- va -- re po -- tes:
+    nec gau -- des per -- di -- ti -- o -- ne,
+        per -- di -- ti -- o -- ne mo -- ri -- en -- ti -- um,
+        sed ut vi -- ve -- rent tu mor -- tu -- us es,
+    et mors tu -- a pec -- ca -- to -- rum,
+        pec -- ca -- to -- rum mor -- tem,
+            oc -- ci -- dit in sæ -- cu -- la, __
+            oc -- ci -- dit in sæ -- cu -- la,
+                in sæ -- cu -- la,
+            oc -- ci -- dit in sæ -- cu -- la,
+                in sæ -- cu -- la,
+            oc -- ci -- dit in sæ -- cu -- la,
+                in sæ -- cu -- la.
 %    \ijLyrics
 %            oc -- ci -- dit in sæ -- cu -- la,
 %    \normalLyrics
@@ -300,8 +313,8 @@ bassusVincipit = \relative c {
     f1
 }
 
+% bassus: checked against source
 bassusV = \relative c {
-    \clef bass
     \key c \major
     \fourTwoCutTime
 
@@ -309,7 +322,7 @@ bassusV = \relative c {
         d cs d1 | e2 c d a | c1 g
 
     r2 e' c a | e'1 a,2 a | d2. d4 g,1 | c2 c f,2. f4 | f1 bf | a1. d2 |
-        a1 d ~ | d r1 | R\breve*3 | r1 d | b2 c a1 | g r1 | r1 r2 g' |
+        a1 d ~ | d r1 | R\breve R\breve*2 | r1 d | b2 c a1 | g r1 | r1 r2 g' |
 
     e2 f d2. d4 | c1 c | a2 f g1 ~ | g2 g c1 ~ | c r1 | R\breve | r1 a |
         c2 b c a | a'2.( g4 f1) | e r2 a, | e' c d f | e1 a, | r1 f |
@@ -332,29 +345,37 @@ bassusV = \relative c {
 }
 
 bassusLyricsV = \lyricmode {
-%    O Do -- mi -- ne ad -- ju -- va me,
-%        et sal -- vus e -- ro
-%    \ijLyrics
-%        et sal -- vus e -- ro:
-%    \normalLyrics
-%    et li -- be -- ra me de la -- que -- o mor -- tis æ -- ter -- næ,
+    O Do -- mi -- ne ad -- ju -- va me,
+    \ijLyrics
+    O Do -- mi -- ne ad -- ju -- va me,
+    \normalLyrics
+        et sal -- vus e -- ro
+    \ijLyrics
+        et sal -- vus e -- ro:
+    \normalLyrics
+    et li -- be -- ra me de la -- que -- o mor -- tis æ -- ter -- næ, __
 %     ne me sur -- ri -- pi -- at ho -- stis a -- stu -- tus,
-%        sed vi -- gi -- lan -- tem sem -- per re -- pe -- ri -- at,
-%            re -- pe -- ri -- at,
-%        qui -- a pec -- ca -- vi ni -- mis,
-%            ni -- mis,
-%        qui -- a pec -- ca -- vi ni -- mis.
-%    Et si com -- mi -- si un -- de me dam -- na -- re po -- tes,
-%        non a -- mi -- si -- sti quo me sal -- va -- re po -- tes:
-%    nec gau -- des per -- di -- ti -- o -- ne mo -- ri -- en -- ti -- um,
-%        sed ut vi -- ve -- rent tu mor -- tu -- us es,
-%    et mors tu -- a pec -- ca -- to -- rum,
-%        pec -- ca -- to -- rum mor -- tem,
-%            oc -- ci -- dit in sæ -- cu -- la,
-%    \ijLyrics
-%            oc -- ci -- dit in sæ -- cu -- la,
-%    \normalLyrics
-%            oc -- ci -- dit in sæ -- cu -- la.
+        sed vi -- gi -- lan -- tem sem -- per re -- pe -- ri -- at,
+    \ijLyrics
+            sem -- per re -- pe -- ri -- at, __
+    \normalLyrics
+        qui -- a pec -- ca -- vi ni -- mis,
+    \ijLyrics
+        qui -- a pec -- ca -- vi ni -- mis,
+    \normalLyrics
+    Et si com -- mi -- si un -- de me __ dam -- na -- re po -- tes:
+        non a -- mi -- si -- sti quo me sal -- va -- re po -- tes:
+    nec gau -- des per -- di -- ti -- o -- ne mo -- ri -- en -- ti -- um,
+        sed ut vi -- ve -- rent tu mor -- tu -- us es,
+    et mors tu -- a pec -- ca -- to -- rum,
+        pec -- ca -- to -- rum mor -- tem,
+            oc -- ci -- dit in sæ -- cu -- la,
+    \ijLyrics
+            oc -- ci -- dit in sæ -- cu -- la,
+    \normalLyrics
+            oc -- ci -- dit in sæ -- cu -- la,
+                in sæ -- cu -- la.
+                in sæ -- cu -- la.
 }
 
 superiusVincipitVoice = <<
