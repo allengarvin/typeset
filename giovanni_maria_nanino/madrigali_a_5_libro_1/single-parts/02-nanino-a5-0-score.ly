@@ -9,30 +9,30 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2022-09-19"
-    originallyset = "2022-09-19"
+    lastupdated = "2022-12-02"
+    originallyset = "2022-12-02"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Occhi si dè per voi giunger al core"
-    subtitle = "Prima parte"
-    instrument = "Occhi si dè per voi giunger al core: Prima parte (score)"
+    title = "Forse ch'avrete"
+    subtitle = "Seconda parte"
+    instrument = "Forse ch'avrete: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "occhi_si_de_per_voi_giunger_al_core"
+    shorttitle = "forse_chavrete"
     shortcomp = "nanino"
     categories = "[madrigal]"
-    needtranslation = #'t
+    final = "a"
     flats = 0
-    final = "d"
+    needtranslation = #'t
 
     % Unchanging:
     language = "italian"
     tagline = #'f
 }
 
-\include "../parts/01-nanino-a5-madrigal.ly"
+\include "../parts/02-nanino-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "01-nanino--occhi_si_de_per_voi_giunger_al_core-prima_parte"
+    \bookOutputName "02-nanino--forse_chavrete-seconda_parte"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -41,65 +41,63 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoIincipitVoice
+                    \incipit \cantoIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoI
+                    \cantoII
                 >>
-             \addlyrics { \cantoLyricsI }
+             \addlyrics { \cantoLyricsII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoIincipitVoice
+                    \incipit \altoIIincipitVoice
                     \clef "treble"
                     \global
-                    \altoI
+                    \altoII
                 >>
-             \addlyrics { \altoLyricsI }
+             \addlyrics { \altoLyricsII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoIincipitVoice
+                    \incipit \quintoIIincipitVoice
                     \clef "treble"
                     \global
-                    \quintoI
+                    \quintoII
                 >>
-             \addlyrics { \quintoLyricsI }
+             \addlyrics { \quintoLyricsII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreIincipitVoice
+                    \incipit \tenoreIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreI
+                    \tenoreII
                 >>
-             \addlyrics { \tenoreLyricsI }
+             \addlyrics { \tenoreLyricsII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoIincipitVoice
+                    \incipit \bassoIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoI
+                    \bassoII
                 >>
-             \addlyrics { \bassoLyricsI }
+             \addlyrics { \bassoLyricsII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 80 2)
+                tempoWholesPerMinute = #(ly:make-moment 78 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Occhi si dè per voi giunger al core }
-                \line { divin obietto per mai sempre amarlo, }
-                \line { temp'or'è ben, se desiate farlo, }
-                \line { con gloria sua e vostro eterno onore, }
-                \line { di volgervi a quel raggio a quel splendore }
-                \line { che da bei sette colli manda Carlo }
-                \line { a la gran Roma sua, e sì mirarlo }
-                \line { ch'io dice: occhi beati a tutte l'ore. }
+                \line { Forse ch'avrete da temere giammai }
+                \line { ch'a voi il ciel di sdegno o d'ira velo }
+                \line { che far vi sole abbassar mort'in terra. }
+                \line { Alzate pur la vostra luce al cielo }
+                \line { che da così celesti e santi rai; }
+                \line { sempre pace s'impetra e mai non guerra. }
             }
         }
     }

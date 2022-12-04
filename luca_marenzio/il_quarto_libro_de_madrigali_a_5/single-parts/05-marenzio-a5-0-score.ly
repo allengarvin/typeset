@@ -9,30 +9,30 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2022-09-19"
-    originallyset = "2022-09-19"
+    lastupdated = "2022-12-03"
+    originallyset = "2022-12-03"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Occhi si dè per voi giunger al core"
-    subtitle = "Prima parte"
-    instrument = "Occhi si dè per voi giunger al core: Prima parte (score)"
+    title = "Mentre il Ciel è sereno"
+    subtitle = ""
+    instrument = "Mentre il Ciel è sereno:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "occhi_si_de_per_voi_giunger_al_core"
-    shortcomp = "nanino"
+    shorttitle = "mentre_il_ciel_e_sereno"
+    shortcomp = "marenzio"
     categories = "[madrigal]"
-    needtranslation = #'t
-    flats = 0
     final = "d"
+    flats = 0
+    needtranslation = #'t
 
     % Unchanging:
     language = "italian"
     tagline = #'f
 }
 
-\include "../parts/01-nanino-a5-madrigal.ly"
+\include "../parts/05-marenzio-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "01-nanino--occhi_si_de_per_voi_giunger_al_core-prima_parte"
+    \bookOutputName "05-marenzio--mentre_il_ciel_e_sereno-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -41,65 +41,65 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoIincipitVoice
+                    \incipit \cantoVincipitVoice
                     \clef "treble"
                     \global
-                    \cantoI
+                    \cantoV
                 >>
-             \addlyrics { \cantoLyricsI }
+             \addlyrics { \cantoLyricsV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoIincipitVoice
+                    \incipit \altoVincipitVoice
                     \clef "treble"
                     \global
-                    \altoI
+                    \altoV
                 >>
-             \addlyrics { \altoLyricsI }
+             \addlyrics { \altoLyricsV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoIincipitVoice
-                    \clef "treble"
-                    \global
-                    \quintoI
-                >>
-             \addlyrics { \quintoLyricsI }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreIincipitVoice
+                    \incipit \quintoVincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreI
+                    \quintoV
                 >>
-             \addlyrics { \tenoreLyricsI }
+             \addlyrics { \quintoLyricsV }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenore"
+                    \incipit \tenoreVincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenoreV
+                >>
+             \addlyrics { \tenoreLyricsV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoIincipitVoice
+                    \incipit \bassoVincipitVoice
                     \clef "bass"
                     \global
-                    \bassoI
+                    \bassoV
                 >>
-             \addlyrics { \bassoLyricsI }
+             \addlyrics { \bassoLyricsV }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 80 2)
+                tempoWholesPerMinute = #(ly:make-moment 82 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Occhi si dè per voi giunger al core }
-                \line { divin obietto per mai sempre amarlo, }
-                \line { temp'or'è ben, se desiate farlo, }
-                \line { con gloria sua e vostro eterno onore, }
-                \line { di volgervi a quel raggio a quel splendore }
-                \line { che da bei sette colli manda Carlo }
-                \line { a la gran Roma sua, e sì mirarlo }
-                \line { ch'io dice: occhi beati a tutte l'ore. }
+                \line { Mentre il Ciel è sereno }
+                \line { si odon ne' campi i Grlli }
+                \line { e tu, dolce mia Filli, }
+                \line { co'l canto fai stupir Ninfe e Pastori. }
+                \line { Ma io di dolor pieno }
+                \line { calde lagrime fuori, }
+                \line { verso dagli occhi e'l cor che mi sfavilli. }
+                \line { Tu non odi crudel gli acuti strilli. }
             }
         }
     }
