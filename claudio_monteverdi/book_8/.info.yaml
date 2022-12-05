@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1638__monteverdi_claudio__madrigali_guerrieri_et_amorosi
+    typeset_directory: claudio_monteverdi/book_8
+source:
+    city: Venice
+    date_exact: true
+    title: Madrigali guerrieri et amorosi, libro 8
+    press: Alessandro Vincenti press
+    year: 1638

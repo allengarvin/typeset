@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1682__vitali_giovanni_battista__varie_partite_del_passamezo_ciaccona_capricci_e_passagalli/
+    typeset_directory: giovanni_battista_vitali/varie_partite__opera_7
+source:
+    city: Modena
+    date_exact: true
+    manuscript: false
+    press: Gasparo Ferri press
+    print: true
+    title: Varie partite del passemezzo, ciaccona, etc, op. 7
+    year: 1682

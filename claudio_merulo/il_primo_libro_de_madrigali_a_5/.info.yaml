@@ -1,0 +1,14 @@
+---
+local:
+    facsimile_directory: complete/1566__merulo_claudio__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: claudio_merulo/il_primo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali à 5 voci
+    press: Claudio Merulo press
+    year: 1566
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

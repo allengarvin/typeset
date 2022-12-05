@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /dario_castello
+biography:
+    name: Dario Castello
+    last_name: Castello
+    nationality: Italian
+    born_year: 1602
+    died_year: 1631
+    died_date: 1631-07-02
+    born_location:
+        region: Venice
+        country: Italy
+    died_location:
+        region: Venice
+        country: Italy

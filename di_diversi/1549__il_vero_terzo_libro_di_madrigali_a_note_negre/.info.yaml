@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1549__di_diversi__il_vero_terzo_libro_de_madrigali_a_note_negre__gardano_press
+    typeset_directory: di_diversi/1549__il_vero_terzo_libro_di_madrigali_a_note_negre
+source:
+    city: Venice
+    date_exact: true
+    title: Il vero terzo libro di madrigali de diversi autori a note negre
+    press: Antonio Gardano press
+    year: 1549

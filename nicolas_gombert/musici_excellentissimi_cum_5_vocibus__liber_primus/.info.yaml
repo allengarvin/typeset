@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1552__gombert_nicolai__musici_excellentissimi_cum_5_vocibus__liber_primus
+    typeset_directory: nicolas_gombert/musici_excellentissimi_cum_5_vocibus__liber_primus
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: Musici excellentissimi cum 5 vocibus, liber primus
+    year: 1552

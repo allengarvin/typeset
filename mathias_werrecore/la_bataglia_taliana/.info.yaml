@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1552__werrecore_mathias__la_bataglia_taliana_a_4_voci
+    typeset_directory: mathias_werrecore/la_bataglia_taliana
+source:
+    city: Venice
+    date_exact: true
+    title: La bataglia taliana
+    press: Antonio Gardano press
+    year: 1552

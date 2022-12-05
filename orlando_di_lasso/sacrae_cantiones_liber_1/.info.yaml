@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1565__lasso_orlando_di__sacrae_cantiones_vulgo_motecta_5_vocum__gardano_press
+    typeset_directory: orlando_di_lasso/sacrae_cantiones_liber_1
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Sacræ cantiones ... liber primus'
+    year: 1565

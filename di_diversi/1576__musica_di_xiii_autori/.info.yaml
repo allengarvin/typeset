@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1576__musica_di_13_autori
     typeset_directory: di_diversi/1576__musica_di_xiii_autori
 source:
     city: Venice

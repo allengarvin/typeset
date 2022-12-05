@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /jean_baptiste_lully
+biography:
+    name: Jean-Baptiste Lully
+    last_name: Lully
+    nationality: Italian
+    born_year: 1632
+    born_date: 1632-11-28
+    died_year: 1687
+    died_date: 1687-03-22
+    born_location:
+        region: Florence
+        country: Italy
+    died_location:
+        region: Paris
+        country: France

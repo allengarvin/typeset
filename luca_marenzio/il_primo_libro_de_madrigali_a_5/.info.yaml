@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1580__marenzio_luca__il_primo_libro_de_madrigali_a_5_voci
     typeset_directory: luca_marenzio/il_primo_libro_de_madrigali_a_5
 source:
     city: Venice

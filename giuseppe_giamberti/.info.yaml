@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /giuseppe_giamberti
+biography:
+    name: Giuseppe Giamberti
+    name_variants:
+        - Gioseppe Giamberti
+    last_name: Giamberti
+    nationality: Italian
+    born_year: 1600
+    born_circa: True
+    died_year: 1663
+    died_circa: True
+    born_location:
+        region: Rome
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

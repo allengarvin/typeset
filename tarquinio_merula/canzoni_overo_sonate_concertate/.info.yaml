@@ -1,9 +1,10 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1637__merula_tarquinio__canzoni_overo_sonate_concertate_per_chiese_e_camera
     typeset_directory: tarquinio_merula/canzoni_overo_sonate_concertate
 source:
     city: Venice
     date_exact: true
+    press: Alessandro Vincenti press
     title: Canzoni over sonate concertate
     year: 1637

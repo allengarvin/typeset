@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /giovanni_battista_vitali
+biography:
+    name: Giovanni Battista Vitali
+    last_name: Vitali
+    nationality: Italian
+    born_year: 1632
+    born_date: 1632-02-18
+    died_year: 1692
+    died_date: 1692-10-12
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Bologna
+        country: Italy

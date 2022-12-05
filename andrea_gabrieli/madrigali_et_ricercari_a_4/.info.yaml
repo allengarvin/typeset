@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1589__gabrieli_andrea__madrigali_et_ricercari
     typeset_directory: andrea_gabrieli/madrigali_et_ricercari_a_4
 source:
     city: Venice

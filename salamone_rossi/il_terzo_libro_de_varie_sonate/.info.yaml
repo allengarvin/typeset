@@ -1,9 +1,10 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1623__rossi_salamone__il_terzo_libro_de_varie_sonate
     typeset_directory: salamone_rossi/il_terzo_libro_de_varie_sonate
 source:
     city: Venice
     date_exact: true
     title: Il terzo libro de varie sonate ...
+    press: Vincenti press
     year: 1623

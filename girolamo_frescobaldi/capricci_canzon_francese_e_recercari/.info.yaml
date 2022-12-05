@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1626__frescobaldi_girolamo__canzon_francese_e_recercari
+    typeset_directory: girolamo_frescobaldi/capricci_canzon_francese_e_recercari
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro di capricci, canzon francese, e recercari
+    full_title: Il primo libro di capricci, canzon francese, e recercari fatti sopra diversi soggetti et arie in partitura
+    press: Alessandro Vincenti press
+    year: 1626

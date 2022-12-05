@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: 1596__croce_giovanni__salmi_che_si_cantano_a_3/
+    facsimile_directory: complete/1596__croce_giovanni__salmi_che_si_cantano_a_3/
     typeset_directory: giovanni_croce/salmi_che_si_cantano
 source:
     city: Venice

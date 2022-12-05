@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1545__willaert_adrian__musici_celeberrimi_ac_chori_divi_marci_illustrissimae_reipublicae_venetiarum__musica_4_vocum__liber_secundus
     typeset_directory: adrian_willaert/1545__musici_celeberrimi
 source:
     city: Ferrara

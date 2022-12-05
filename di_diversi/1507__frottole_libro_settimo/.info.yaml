@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1507__petrucci__frottole_libro_septimo
+    typeset_directory: di_diversi/1507__frottole_libro_settimo
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Ottaviano Petrucci press
+    print: true
+    title: Frottole libro septimo
+    year: 1507

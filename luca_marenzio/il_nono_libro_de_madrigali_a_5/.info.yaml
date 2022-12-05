@@ -1,7 +1,7 @@
 ---
 local:
-    facsimile_directory: false
-    typeset_directory: complete/1599__marenzio_luca__nono_libro_de_madrigali_a_5_voci__gardano_press
+    facsimile_directory: complete/1599__marenzio_luca__nono_libro_de_madrigali_a_5_voci__gardano_press
+    typeset_directory: luca_marenzio/il_nono_libro_de_madrigali_a_5
 source:
     city: Venice
     date_exact: true

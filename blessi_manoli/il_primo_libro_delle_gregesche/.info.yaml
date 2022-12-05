@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1564__manoli_blessi__il_primo_libro_delle_gregesche
     typeset_directory: blessi_manoli/il_primo_libro_delle_gregesche
 source:
     city: Venice

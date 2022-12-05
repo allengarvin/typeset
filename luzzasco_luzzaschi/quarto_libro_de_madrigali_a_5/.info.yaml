@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1594__luzzaschi_luzzasco__il_quarto_libro_de_madrigali_a_5_voci
+    typeset_directory: luzzascho_luzzaschi/quarto_libro_de_madrigali_a_5
+source:
+    city: Ferrara
+    date_exact: true
+    title: Il quarto libro de madrigali à 5 voci
+    press: Vittorio Baldini press
+    year: 1594
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

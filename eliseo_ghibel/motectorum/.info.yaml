@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1548__ghibel_eliseo__motectorum_helysei_5_vocibus
+    typeset_directory: eliseo_ghibel/motectorum
+source:
+    city: Venice
+    date_exact: true
+    title: Motectorum cum 5 vocibus
+    press: Girolamo Scotto press
+    year: 1548

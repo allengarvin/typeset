@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1585__vecchi_orazio__canzonette_libro_primo_a_4_voci
     typeset_directory: orazio_vecchi/canzonette_libro_primo
 source:
     city: Venice

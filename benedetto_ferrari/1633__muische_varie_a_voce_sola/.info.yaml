@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1633__ferrari_benedetto__musiche_varie_a_voce_sola
+    typeset_directory: benedetto_ferrari/1633__muische_varie_a_voce_sola
+source:
+    city: Venice
+    date_exact: true
+    title: Muische varie a voce sola
+    press: Bartholomeo Magni
+    year: 1633

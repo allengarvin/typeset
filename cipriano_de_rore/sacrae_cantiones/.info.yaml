@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1595__rore_cipriano_de__sacrae_cantiones_quae_dicuntur_motecta_cum_5_6_e_7_vocibus
     typeset_directory: cipriano_de_rore/sacrae_cantiones
 source:
     city: Venice

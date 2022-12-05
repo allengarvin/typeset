@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1604__philips_peter__il_primo_libro_de_madrigali_a_6_voci
+    typeset_directory: peter_philips/il_primo_libro_de_madrigali_a_6
+source:
+    city: Antwerp
+    date_exact: true
+    title: Il primo libro de madrigali a 6 voci
+    press: Peter Phalèse press
+    year: 1604

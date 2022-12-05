@@ -1,8 +1,11 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1480s__chansonnier_of_isabella_d_este__rome_bibl_casanatense_ms_2856
     typeset_directory: di_diversi/1480__casanatense_ms_2856
 source:
-    date_exact: true
     title: Biblioteca Casanatense MS 2856
-    year: 1548
+    year: 1480
+    date_circa: true
+    manuscript: true
+    manuscript_name: Biblioteca Casanatense MS 2856
+    print: false

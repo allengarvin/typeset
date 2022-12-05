@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1569__musica_de_virtuosi_della_florida_capella_dell_illustrissimo_et_eccellentis 
+    typeset_directory: di_diversi/1569__musica_de_virtuosi_della_florida_capella
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Girolamo Scotto press
+    print: true
+    title: Di virtuosi della florida capella Musica a 5 voci
+    year: 1569

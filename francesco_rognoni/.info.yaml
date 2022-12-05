@@ -1,0 +1,15 @@
+---
+top:
+    type: composer
+    path: /francesco_rognoni
+biography:
+    name: Francesco Rognoni Taeggio
+    last_name: Rognoni
+    nationality: Italian
+    died_year: 1626
+    born_circa: true
+    born_location:
+        region: Milan
+        country: Italy
+    died_location:
+        country: Italy

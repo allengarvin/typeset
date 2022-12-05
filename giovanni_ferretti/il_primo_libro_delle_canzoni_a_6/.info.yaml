@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1573__ferretti_giovanni__il_primo_libro_delle_canzoni_alla_napolitana_a_6_voci/
     typeset_directory: giovanni_ferretti/il_primo_libro_delle_canzoni_a_6
 source:
     city: Venice

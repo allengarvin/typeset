@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: 
+    facsimile_directory: complete/1610__byrd_william__gradualia_liber_secundus 
     typeset_directory: william_byrd/gradualia_2
 source:
     city: London

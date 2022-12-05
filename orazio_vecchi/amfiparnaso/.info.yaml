@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: 1610__vecchi_orazio__l_amphiparnaso_comedia_harmonica
+    facsimile_directory: complete/1610__vecchi_orazio__l_amphiparnaso_comedia_harmonica
     typeset_directory: orazio_vecchi/amphiparnaso
 source:
     city: Venice

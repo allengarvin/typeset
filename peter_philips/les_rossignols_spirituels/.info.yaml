@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: complete/1616__les_rossignols_spirituels/books.google.com
+    typeset_directory: peter_philips/les_rossignols_spirituels
+source:
+    city: Valenciennes
+    date_exact: true
+    title: Les rossignols spirituels
+    year: 1616

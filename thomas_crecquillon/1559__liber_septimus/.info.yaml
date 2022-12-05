@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1559__crecquillon_thomas__liber_septimus_cantionum_sacrarum_vulgo_moteta__4_vocum
+    typeset_directory: thomas_crecquillon/1559__liber_septimus
+source:
+    city: Leuven
+    date_exact: true
+    manuscript: false
+    press: Phalèse press
+    print: true
+    title: Liber septimus cantionum sacrarum vulgo
+    year: 1559

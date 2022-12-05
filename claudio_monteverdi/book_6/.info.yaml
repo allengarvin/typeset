@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: 1614__monteverdi_claudio__il_sesto_libro_de_madrigali_a_5_voci
+    typeset_directory: claudio_monteverdi/book_6
+source:
+    city: Venice
+    date_exact: true
+    title: 'Il sesto libro de madrigali a 5 voci'
+    press: Ricciardo Amadino press
+    year: 1614

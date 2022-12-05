@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1623__frescobaldi_girolamo__il_primo_libro_di_capprici
+    typeset_directory: girolamo_frescobaldi/il_primo_libro_di_capricci
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    press: Luca Soldi press
+    print: true
+    title: Il primo libro di capricci fatti sopra diversi soggetti
+    year: 1624

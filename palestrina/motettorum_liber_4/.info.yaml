@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1587__palestrina__motettorum_5_vocibus_liber_quartus
     typeset_directory: palestrina/motettorum_liber_4
 source:
     city: Rome

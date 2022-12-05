@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1630__banchieri_adriano__trattenimenti_da_villa_concertati_in_ordine
+    typeset_directory: adriano_banchieri/1630__trattenimenti_da_villa_concertati
+source:
+    city: Venice
+    date_exact: true
+    title: Trattenimenti da villa concertati
+    press: Alessandro Vincenti press
+    year: 1630

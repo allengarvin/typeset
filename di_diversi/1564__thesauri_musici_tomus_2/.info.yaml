@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1564__thesauri_musici_tomus_secundus_continens_optimas_7_vocum_cantiones
+    typeset_directory: di_diversi/1564__thesauri_musici_tomus_2
+source:
+    city: Nuremberg
+    date_exact: true
+    manuscript: false
+    press: Montani press
+    print: true
+    title: Thesauri musici tomus secundus 
+    year: 1564

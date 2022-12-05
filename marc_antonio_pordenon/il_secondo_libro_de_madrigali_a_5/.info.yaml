@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1572__ingegneri_marc_antonio__il_secondo_libro_de_madrigali_a_5_voci
     typeset_directory: marc_antonio_pordenon/il_secondo_libro_de_madrigali_a_5
 source:
     city: Venice

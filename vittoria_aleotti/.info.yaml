@@ -1,0 +1,15 @@
+---
+top:
+    type: composer
+    path: /vittoria_aleotti
+biography:
+    name: Vittoria Aleotti
+    last_name: Aleotti
+    nationality: Italian
+    born_year: 1575
+    born_circa: True
+    died_year: 1620
+    died_circa: True
+    born_location:
+        region: Ferrara
+        country: Italy

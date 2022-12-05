@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1626__buonamente_giovanni_battista__il_quarto_libro_de_varie_sonate
+    typeset_directory: giovanni_battista_buonamente/il_quarto_libro_de_varie_sonate
+source:
+    city: Venice
+    date_exact: true
+    title: Il quarto libro de varie sonate
+    full_title: Il quarto libro de varie sonate, Sinfonie, Gagliarde, Corrente, e Brandi per sona con 2 violini e un basso di viola
+    press: Alessandro Vincenti press
+    year: 1626

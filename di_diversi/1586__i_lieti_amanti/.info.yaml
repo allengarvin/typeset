@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: complete/1586__di_diversi__i_lieti_amanti_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: di_diversi/1586__i_lieti_amanti
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Amadino press
+    title: I liete amanti
+    print: true
+    year: 1586
+    

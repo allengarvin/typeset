@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /thomas_weelkes
+biography:
+    name: Thomas Weelkes
+    last_name: Weelkes
+    nationality: English
+    born_year: 1576
+    died_year: 1623
+    born_location:
+        region: Elsted
+        country: England
+    died_location:
+        region: London
+        country: England

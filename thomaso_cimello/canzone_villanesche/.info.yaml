@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1545__cimello_giovanni_thomasco__canzone_villanesche_a_3_voci
     typeset_directory: thomaso_cimello/canzone_villanesche
 source:
     city: Venice

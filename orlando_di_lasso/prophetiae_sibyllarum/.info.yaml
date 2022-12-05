@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1600__lasso_orlando_di__prophetiae_sibyllarum
     typeset_directory: orlando_di_lasso/prophetiae_sibyllarum
 source:
     date_exact: true

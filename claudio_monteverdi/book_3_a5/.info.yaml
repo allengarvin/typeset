@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1594__monteverdi_claudio__il_terzo_libro_de_madrigali_a_5_voci
     typeset_directory: claudio_monteverdi/book_3_a5
 source:
     city: Venice

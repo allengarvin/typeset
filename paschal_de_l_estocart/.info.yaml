@@ -1,0 +1,10 @@
+---
+top:
+    type: composer
+    path: /paschal_de_l_estocart
+biography:
+    name: Paschal L'Estocart
+    last_name: L'Estocart
+    nationality: French
+    born_year: 1539
+    died_year: 1584

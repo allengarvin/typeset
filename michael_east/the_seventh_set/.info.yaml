@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1638__east_michael__the_seventh_set_of_bookes
+    typeset_directory: michael_east/the_seventh_set
+source:
+    city: London
+    date_exact: true
+    manuscript: false
+    press: Stansby and Latham
+    print: true
+    title: The seventhe set of bookes
+    year: 1638

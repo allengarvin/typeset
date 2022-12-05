@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1620__rognoni_francesco__Selva_de_varii_passaggi
+    typeset_directory: francesco_rognoni/selva_de_varii_passaggi
+source:
+    city: Milan
+    date_exact: true
+    title: Selva de varii passaggi
+    press: Filippo Lomazzo press
+    year: 1620

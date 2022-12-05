@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /thomas_ravenscroft
+biography:
+    name: Thomas Ravenscroft
+    last_name: Ravenscroft
+    nationality: English
+    born_year: 1592
+    born_circa: true
+    died_year: 1635
+    died_circa: true
+    born_location:
+        country: England
+    died_location:
+        country: England

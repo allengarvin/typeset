@@ -23,7 +23,7 @@
     needtranslation = #'f
     final = "f"
     flats = 1
-    folio = "Magnifat antiphon, 2nd vespers for All Saints (2e text: Revelation 7:12)"
+    folio = "Magnificat antiphon, 2nd vespers for All Saints (2e text: Revelation 7:12)"
 
     % Unchanging:
     language = "latin"

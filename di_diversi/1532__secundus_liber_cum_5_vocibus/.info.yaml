@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1532__secundus_liber_cum_5_vocibus
+    typeset_directory: di_diversi/1532__secundus_liber_cum_5_vocibus
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    print: true
+    title: Secundus liber cum 5 vocibus
+    year: 1532

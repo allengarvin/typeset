@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1576__vespa_da_napoli_gironimo__il_secondo_libro_de_madrigali_a_5_voci
     typeset_directory: girolamo_vespa/il_secondo_libro_de_madrigali
 source:
     city: Venice

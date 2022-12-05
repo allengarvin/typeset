@@ -1,0 +1,21 @@
+---
+top:
+    type: composer
+    path: /giovanni_coperario
+biography:
+    name: John Coprario
+    name_variants:
+        - Jaches de Wert
+        - Giaches de Vuert
+        - Jaches de Vuert
+    last_name: Wert
+    nationality: Flemish
+    born_year: 1535
+    died_year: 1596
+    died_date: 1596-05-06
+    born_location:
+        region: Ghent
+        country: Flanders
+    died_location:
+        region: Mantua
+        country: Italy

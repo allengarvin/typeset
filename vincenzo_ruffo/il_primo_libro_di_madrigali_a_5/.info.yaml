@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1555__ruffo_vincenzo__il_primo_libro_di_madrigali_a_5_voci
     typeset_directory: vincenzo_ruffo/il_primo_libro_di_madrigali_a_5
 source:
     city: Venice

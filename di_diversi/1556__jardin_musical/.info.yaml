@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1556__caulery_jean__jardin_musical_contenant_plusieurs_belles_fleurs_de_chansons_spirituelles/
+    typeset_directory: di_diversi/1556__jardin_musical
+source:
+    city: Antwerp
+    date_exact: false
+    manuscript: false
+    press: Huebert Waelrant press
+    print: true
+    title: Jardin Musical
+    year: 1556

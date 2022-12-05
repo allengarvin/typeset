@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1553__ortiz_diego__trattado_de_glosas
     typeset_directory: diega_ortiz/tratado_de_glosas
 source:
     city: Rome

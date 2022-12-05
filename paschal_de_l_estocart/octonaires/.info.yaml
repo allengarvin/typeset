@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1582__l_estocart_pascal_de__octonaires_de_la_vanite_du_monde_en_musique_a_3_4_5_et_6_parties
+    typeset_directory: de_l_estocart_pascal/octonaires
+source:
+    city: Lyon
+    date_exact: true
+    title: Premier livre des octonaires de la vanité du monde
+    press: Barthélémi Vincent press
+    year: 1582

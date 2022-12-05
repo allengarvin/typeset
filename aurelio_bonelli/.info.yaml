@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /aurelio_bonelli
+biography:
+    name: Aurelio Bonelli
+    last_name: Bonelli
+    nationality: Italian
+    born_year: 1569
+    died_year: 1620
+    died_circa: True
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        country: Italy

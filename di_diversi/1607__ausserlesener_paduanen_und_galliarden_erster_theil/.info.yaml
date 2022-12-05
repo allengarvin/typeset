@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1607__ausserlesener_paduanen_und_galliarden_erster_theil
+    typeset_directory: di_diversi/1607__ausserlesener_paduanen_und_galliarden_erster_theil
+source:
+    city: Hamburg
+    date_exact: true
+    manuscript: false
+    press: Ohr press
+    print: true
+    title: Außerlesener Paduanen und Galliarden, erster theil
+    year: 1607

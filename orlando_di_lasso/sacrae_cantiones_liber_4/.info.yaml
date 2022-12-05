@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1566__lasso_orlando_di__sacrae_cantiones_vulgo_motecta_6_et_8_vocum__liber_quartus
     typeset_directory: orlando_di_lasso/sacrae_cantiones_liber_4
 source:
     city: Venicem

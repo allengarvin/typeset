@@ -1,0 +1,12 @@
+---
+top:
+    type: composer
+    path: /cesario_gussago
+biography:
+    name: Cesario Gussago
+    last_name: Gussago
+    nationality: Italian
+    flourished: 1599-1612
+    born_location:
+        region: Brescia
+        country: Italy

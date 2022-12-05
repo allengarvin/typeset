@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1667__simpson_christopher__the_division_viol/
+    typeset_directory: christopher_simpson/the_division_viol
+source:
+    city: London
+    date_exact: true
+    manuscript: false
+    press: W. Godbid press
+    print: true
+    title: Chelys, or, The Division-Viol, editio II
+    year: 1667

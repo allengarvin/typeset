@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /francesco_bianciardi
+biography:
+    name: Francesco Bianciardi
+    name_variants:
+        - Francesco Bianchardus
+        - Francesco Bianchiardus
+    last_name: Bianciardi
+    nationality: Italian
+    born_year: 1571
+    born_circa: true
+    died_year: 1607
+    born_location:
+        region: Siena
+        country: Italy
+    died_location:
+        region: Siena
+        country: Italy

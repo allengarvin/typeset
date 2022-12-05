@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1547__cambio_perissone__primo_libro_di_madrigali_a_4_voci
     typeset_directory: perissone_cambio/primo_libro_de_madrigali_a_4
 source:
     city: Venice

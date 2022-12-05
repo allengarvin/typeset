@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1602__bonelli_aurello__il_primo_libro_de_ricercari_et_canzoni_a_4_voci
+    typeset_directory: aurelio_bonelli/il_primo_libro_de_ricercari_et_canzoni
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il primo libro de ricercari et canzoni à 4 voci
+    year: 1602
+contents:
+    type: canzona
+    parts: 4

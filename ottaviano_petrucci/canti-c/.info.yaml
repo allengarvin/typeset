@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1503__petrucci__canti_c
     typeset_directory: ottaviano_petrucci/canti-c
 source:
     city: Venice

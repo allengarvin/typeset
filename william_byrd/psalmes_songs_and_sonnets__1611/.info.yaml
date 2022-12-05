@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1611__byrd_william__psalms_songs_and_sonnets
     typeset_directory: william_byrd/psalmes_songs_and_sonnets__1611
 source:
     city: London

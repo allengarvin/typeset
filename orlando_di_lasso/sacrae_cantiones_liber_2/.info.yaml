@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1566__lasso_orlando_di__sacrae_cantiones_vulgo_motecta_5_et_6_vocum__liber_secundus__gardano_press
     typeset_directory: orlando_di_lasso/sacrae_cantiones_liber_2
 source:
     city: Venice

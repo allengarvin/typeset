@@ -1,7 +1,6 @@
 ---
 local:
-    facsimile_directory: 1573__lasso_orlando_di__sex_cantiones_latinae_quatuor
-
+    facsimile_directory: complete/1573__lasso_orlando_di__sex_cantiones_latinae_quatuor
     typeset_directory: orlando_di_lasso/sex_cantiones
 source:
     city: Munich

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1598__di_diversi__fiori_musicali_a_3_voci_libro_secondo
+    typeset_directory: di_diversi/1598__fiori_musicali_a_3
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Giacomo Vincenti
+    print: true
+    title: Fiori Musicali di diversi a 3 voci
+    year: 1598

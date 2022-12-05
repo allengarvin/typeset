@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1608__weelkes_thomas__ayeres_or_phantasticke_spirites_for_3_voices
+    typeset_directory: thomas_weelkes/1608__ayeres_or_phantasticke_spirites
+source:
+    city: london
+    date_exact: true
+    manuscript: false
+    press: William Barley press
+    print: true
+    title: Ayeres or phantasticke spirites
+    year: 1608

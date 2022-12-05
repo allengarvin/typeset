@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1597__gabrieli_giovanni__sacrae_symphoniae
     typeset_directory: giovanni_gabrieli/sacrae_symphoniae
 source:
     city: Venice

@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1490s__bologna_ms_q17
+    typeset_directory: di_diversi/1490c__bologna_ms_Q.17
+source:
+    city: Florence
+    date_exact: false
+    manuscript: true
+    title: I-Bc Q.17
+    year: 1490

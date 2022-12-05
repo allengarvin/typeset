@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /michael_east
+biography:
+    name: Michael East
+    name_variants:
+        - Michael Easte
+        - Michael Est
+        - Michael Este
+    last_name: East
+    nationality: English
+    born_year: 1580
+    born_circa: true
+    died_year: 1638
+    born_location:
+        country: England
+    died_location:
+        region: Lichfield
+        country: England

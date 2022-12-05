@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1599__palestrina__missarum_cum_4_5_e_6_vocibus__liber_octavus
     typeset_directory: palestrina/missarum_liber_8
 source:
     city: Venice

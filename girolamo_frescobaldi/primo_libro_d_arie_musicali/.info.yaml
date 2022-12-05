@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1630__frescobaldi_girolamo__primo_libro_d_arie_musicali
     typeset_directory: girolamo_frescobaldi/primo_libro_d_arie_musicali
 source:
     city: Florence

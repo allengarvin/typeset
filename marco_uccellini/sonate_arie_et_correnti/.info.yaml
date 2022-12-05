@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1642__uccellini_marco__sonate_arie_et_correnti__op_3
+    typeset_directory: marco_uccellini/sonate_arie_et_correnti
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Alessandro Vincenti press
+    print: true
+    title: Sonate, arie et correnti per sonare con diversi instromenti
+    year: 1642

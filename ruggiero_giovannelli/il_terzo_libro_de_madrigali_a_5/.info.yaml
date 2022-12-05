@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: 1599__ruggiero_giovannelli__il_terzo_libro_de_madrigali_a_5_voci__gardano_press
+    facsimile_directory: complete/1599__ruggiero_giovannelli__il_terzo_libro_de_madrigali_a_5_voci__gardano_press
     typeset_directory: giovannelli_ruggiero/il_terzo_libro_de_madrigali_a_5
 source:
     city: Venice

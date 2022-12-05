@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1543__di_diversi__il_primo_libro_a_2_voci_de_diversi_autori__gardane_press
+    typeset_directory: di_diversi/1543__gardano__il_primo_libro_a_2_voci
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: Il primo libro a 2 voci
+    year: 1543

@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1591__bassano_giovanni__motetti_madrigali_et_canzoni_francese_diminuiti
     typeset_directory: giovanni_bassano/motetti_madrigali_et_canzoni_francese_diminuiti
 source:
     city: Venice

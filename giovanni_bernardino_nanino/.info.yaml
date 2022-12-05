@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /giovanni_bernardino_nanino
+biography:
+    name: Giovanni Bernardino Nanino
+    last_name: Nanino
+    nationality: Italia
+    born_year: 1560
+    born_circa: true
+    died_year: 1618
+    died_date: 1623
+    born_location:
+        region: Vallerano
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

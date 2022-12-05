@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: 
+    facsimile_directory: complete/1628__frescobaldi_girolamo__il_primo_libro_delle_canzoni
     typeset_directory: girolamo_frescobaldi/1628__il_primo_libro_delle_canzoni
 source:
     city: Rome

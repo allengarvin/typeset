@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1500circa__vatican_library_cappella_sistina_ms_42
+    typeset_directory: di_diversi/1512c__vatican_library__capp_sist_42
+source:
+    city: Italy
+    date_exact: false
+    manuscript: true
+    title: V-CVbav Vatican Library MS Capp. Sist. 42
+    year: 1503

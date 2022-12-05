@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1680s__hamond_partbooks__gb-lbl_add_ms_30480
+    typeset_directory: di_diversi/1590c__gb_lbl_add_ms_30480-3__hamond_partbooks
+source:
+    city: Suffolk
+    date_exact: false
+    manuscript: true
+    title: GB-Lbl Add. MS 30480-83 [The Hamond Partbooks]
+    year: 1590

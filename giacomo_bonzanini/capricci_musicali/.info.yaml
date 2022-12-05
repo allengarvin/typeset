@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1616__bonzanini_giacomo__capricci_musicali_per_cantare_e_suonate_a_4
+    typeset_directory: giacomo_bonzanini/capricci_musicali
+source:
+    city: Venice
+    date_exact: true
+    title: Capricci musicali per cantare e suonare a 4 voci
+    press: Giacomo Vincenti press
+    year: 1616
+catalog:
+    bologna: R.135

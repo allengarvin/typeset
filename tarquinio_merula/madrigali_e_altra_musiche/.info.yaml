@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1633__merula_tarquinio__madrigali_e_altra_musische
+    typeset_directory: tarquinio_merula/madrigali_e_altra_musiche
+source:
+    city: Venice
+    date_exact: true
+    press: Bartolomeo Magni press
+    title: Madrigali et altre musiche concertate
+    year: 1633

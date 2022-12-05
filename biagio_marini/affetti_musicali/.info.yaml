@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1617__marini_biagio__affetti_musicali
+    typeset_directory: biagio_marini/affetti_musicali
+source:
+    city: Venice
+    date_exact: true
+    title: Affetti musicali
+    press: Gardano/Magni press
+    year: 1617

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: di_diversi/2022__conclave_2022_psalms
+source:
+    city: Dallas
+    date_exact: true
+    manuscript: false
+    press: Hawthorne Early Music
+    print: true
+    title: English Metrical Psalms for VdGSA Conclave 2022
+    year: 2022

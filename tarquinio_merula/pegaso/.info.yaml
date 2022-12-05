@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1640__merula_cav_tarquinio__pegaso_opra_musicale_lundecima_oue_sodono_salmi_motetti
+    typeset_directory: tarquinio_merula/pegaso
+source:
+    city: Venice
+    date_exact: true
+    press: Alessandro Vincenti press
+    title: Pegaso, opra musicale l'undecima
+    year: 1640

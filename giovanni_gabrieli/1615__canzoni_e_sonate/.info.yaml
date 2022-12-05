@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1615__gabrieli_giovanni__canzoni_et_sonate_a_3_5_6_7_8_10_12_14_15_e_22_voci
+    typeset_directory: giovanni_gabrieli/1615__canzoni_e_sonate
+source:
+    city: Venice
+    date_exact: true
+    title: Canzoni et sonate
+    full_title: Canzoni et sonate del signor Giovanni Gabrieli a 3, 5, 6, 7, 8, 10, 12, 14, 15, 22
+    press: Gardano press
+    year: 1615

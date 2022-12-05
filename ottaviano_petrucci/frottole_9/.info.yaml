@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: 1508__petrucci__frottole_libro_nono/digitale-sammlungen.de
+    facsimile_directory: complete/1508__petrucci__frottole_libro_nono/digitale-sammlungen.de
     typeset_directory: ottaviano_petrucci/frottole_9
 source:
     city: Venice

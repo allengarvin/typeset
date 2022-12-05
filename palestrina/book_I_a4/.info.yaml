@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: 1583__palestrina__il_primo_libro_de_madrigali_a_4_voci
     typeset_directory: palestrina/book_I_a4
 source:
     city: Dorico

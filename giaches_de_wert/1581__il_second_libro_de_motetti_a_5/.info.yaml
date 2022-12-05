@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1581__wert_giaches_de__il_secondo_libro_de_motetti_a_5_voci/
+    typeset_directory: giaches_de_wert/1581__il_second_libro_de_motetti_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro de motetti a 5 voci
+    press: Girolamo Scotto press
+    year: 1581

@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1581__marenzio_luca__il_secondo_libro_de_madrigali_a_5_voci
     typeset_directory: luca_marenzio/il_secondo_libro_de_madrigali_a_5
 source:
     city: Venice

@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1597__cavaccio_giovanni__musica_canzoni_alla_franzese_pavana_madrigali_a_4
     typeset_directory: giovanni_cavaccio/musica_a_4
 source:
     city: Venice

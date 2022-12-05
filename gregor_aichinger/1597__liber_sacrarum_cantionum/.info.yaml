@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1597__aichinger_gregor__liber_sacrarum_cantionum_5_6_7_et_8_vocum
+    typeset_directory: gregog_aichinger/1597__liber_sacrarum_cantionum
+source:
+    city: Nuremberg
+    date_exact: true
+    manuscript: false
+    press: Kaufmann press
+    print: true
+    title: Liber sacrarum cantionum
+    year: 1597

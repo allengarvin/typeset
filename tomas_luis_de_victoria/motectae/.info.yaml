@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1572__victoria_tomas_luis__motecta
     typeset_directory: tomas_luis_de_victoria/motectae
 source:
     city: Venice

@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: adriano_banchieri/il_zabaione
+source:
+    city: Venice
+    date_exact: true
+    title: Il Zabaione musicale
+    full_title: Il Zabaione musicale inventione boscareccia
+    press: Simonis Tini press
+    year: 1603

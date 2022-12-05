@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1623__bonaffino_filippo__madrigali_concertati
+    typeset_directory: filippo_bonaffino/madrigali_concertati
+source:
+    city: Messina
+    date_exact: true
+    manuscript: false
+    press: Pietro Brea press
+    print: true
+    title: Madrigali concertati
+    year: 1623
+contents:
+    type: madrigal
+    language: italian

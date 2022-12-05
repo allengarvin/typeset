@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1575__byrd_tallis__cantiones_sacrae
     typeset_directory: william_byrd/cantiones_sacrae
 source:
     city: London

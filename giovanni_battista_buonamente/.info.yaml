@@ -6,7 +6,8 @@ biography:
     name: Giovanni Battista Buonamente
     last_name: Buonamente
     nationality: Italian
-    born_unknown: True
+    born_year: 1595
+    born_circa: True
     died_year: 1642
     died_date: 1642-08-29
     born_location:

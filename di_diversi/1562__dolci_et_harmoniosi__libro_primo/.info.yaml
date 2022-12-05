@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1562__i_dolci_et_harmoniosi_concenti_fatti_da_diversi_a_5_voci__libro_primo
+    typeset_directory: di_diversi/1562__dolci_et_harmoniosi__libro_primo
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Girolamo Scotto press
+    print: true
+    title: I dolci et harmoniosi concenti
+    year: 1562

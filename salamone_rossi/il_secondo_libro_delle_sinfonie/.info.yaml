@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1608__rossi_salamone__il_secondo_libro_delle_sinfonie
     typeset_directory: salamone_rossi/il_secondo_libro_delle_sinfonie
 source:
     city: Venice

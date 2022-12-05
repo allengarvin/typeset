@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1657__giambreti_giuseppe__duo_tessuti_con_diversi_solfeggiamenti
+    typeset_directory: giuseppe_giamberti/duo_tessuti
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    press: Amadia Balmonti press
+    print: true
+    title: Duo tessuti con diversi solfeggiamenti scherzi
+    year: 1657
+contents:
+    type: bicinia
+    parts: 2

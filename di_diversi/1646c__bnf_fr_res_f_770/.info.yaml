@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1640s__fr-bnf_res_f_770__fantazias_sarabands_etc_pour_violes__ward_lawes_coprario_gibbons/
+    typeset_directory: di_diversi/1646c__bnf_fr_res_f_770
+source:
+    city: England
+    date_exact: false
+    manuscript: true
+    title: F-Pn BNF MS Res. F. 770
+    year: 1646

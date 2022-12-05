@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1577__palestrina__motettorum_quae_partim_5_partim_6_partim_8_vocibus__liber_secundus
     typeset_directory: palestrina/motettorum_liber_2
 source:
     city: Venice

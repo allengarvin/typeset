@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1561__di_cipriano_et_annibale_madrigali_a_4_voci
     typeset_directory: cipriano_de_rore/madrigali_a_4_voci
 source:
     city: Venice

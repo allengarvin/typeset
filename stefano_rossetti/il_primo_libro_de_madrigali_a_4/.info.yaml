@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1560__rossetti_stefano__il_primo_libro_de_madrigali_a_4_voci
     typeset_directory: stefano_rossetti/il_primo_libro_de_madrigali_a_4
 source:
     city: Venice

@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1578__ingegneri_marc_antonio__il_primo_libro_de_madrigali_a_4
+    typeset_directory: marc_antonio_ingegnieri/il_primo_libro_de_madrigali_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il primo libro di madregali a 4 voci
+    year: 1578
+contents:
+    type: madrigal|canzonas
+    parts: 4
+    language: italian

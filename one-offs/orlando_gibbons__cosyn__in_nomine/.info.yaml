@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1620s__bl_r_m_23_i_4__cosyn_virginal_book
+    typeset_directory: orlando_gibbons__cosyn__in_nomine
+source:
+    city: Ludlow
+    date_exact: false
+    manuscript: true
+    title: GB-Lbl R.M.23.L.4 (Cosyn virginal book)
+    year: 1620

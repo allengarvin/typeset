@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: 1629__castello_dario__sonate_concertate_in_stil_moderno
+    typeset_directory: dario_castello/sonate_concertate_libro_1
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Francesco Magni press
+    print: true
+    title: Sonate concertate in stil moderno, libro I
+    year: 1629

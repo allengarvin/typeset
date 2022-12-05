@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1582__lasso_orlando_di__fasciculi_aliquot_sacrarum_cantionum_cum_4_5_6_e_8_vocibus
+    typeset_directory: orlando_di_lasso/1582__fasciculi_aliquot_sacrarum
+source:
+    city: Nuremberg
+    date_exact: true
+    title: Fasciculi aliquot sacrarum cantionum
+    press: Gerlach press
+    year: 1582

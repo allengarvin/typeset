@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1604__lasso_orlando_di__magnum_opus
+    typeset_directory: orlando_di_lasso/1604__magnus_opus
+source:
+    city: Munich
+    date_exact: true
+    manuscript: false
+    press: Nicolai Henrici press
+    print: true
+    title: Magnum opus musicum Orlandi de Lasso
+    year: 1604

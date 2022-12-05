@@ -1,0 +1,11 @@
+---
+top:
+    type: composer
+    path: /gregor_aichinger
+biography:
+    name: Gregor Aichinger
+    last_name: Aichinger
+    nationality: German
+    born_year: 1565
+    died_year: 1628
+    died_date: 1628-01-21

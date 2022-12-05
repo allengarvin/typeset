@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1541__le_parangon_des_chansons__neufuiesme_livre
+    typeset_directory: di_diversi/1541__le_parangon__neufiesme_livre
+source:
+    city: Lyon
+    date_exact: true
+    manuscript: false
+    press: Jacques Moderne press
+    print: true
+    title: Le parangon des chansons, neufuiesme livre
+    year: 1541

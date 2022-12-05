@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1610c__gb-ob_ms_mus_sch_d_212-216
+    typeset_directory: di_diversi/1610c__GB_OB_mus_sch_d_212_216__in_nomines
+source:
+    city: London
+    date_exact: false
+    manuscript: true
+    title: GB-Ob MS. Mus. Sch. d. 212-216 (c.1610, London)
+    year: 1610

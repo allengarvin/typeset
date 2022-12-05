@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1595__luzzaschi_luzzasco__quinto_libro_de_madrigali_a_5
+    typeset_directory: luzzascho_luzzaschi/quinto_libro_de_madrigali_a_5
+source:
+    city: Ferrara
+    date_exact: true
+    title: Quinto libro de' madrigali à 5 voci
+    press: Vittorio Baldini press
+    year: 1595
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

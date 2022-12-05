@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: complete/1626__pasta_giovanni__affetti_d_erato_madrigali_in_concerto_a_2_3_e_4_voci
+    typeset_directory: giovanni_pasta/madrigali_in_concerto
+source:
+    city: Venice
+    date_exact: true
+    title: Affetti d'Erato: madrigali in concerto
+    full_title: L ottavo libro de madrigali a cinque voci, novamente composto e dato in luce
+    press: Alessandro Vincenti press
+    year: 1626
+catalog:
+    bologna: BB.103

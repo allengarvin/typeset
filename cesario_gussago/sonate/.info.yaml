@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: complete/1608__gussago_cesario__28_sonate_a_4_6_e_8
+    typeset_directory: cesario_gussago/sonate
+source:
+    city: Venice
+    date_exact: true
+    title: Sonate a 4, 6 et otto, con alcuni conerti
+    full_title: Sonate a 4, 6 et otto, con alcuni conerti, con le sue sinfonie da suonare avanti, e doppo secondo il placito, e commodo de sonatori
+    press: Ricciardo Amadino press
+    year: 1608
+catalog:
+    sartori: 1608-J

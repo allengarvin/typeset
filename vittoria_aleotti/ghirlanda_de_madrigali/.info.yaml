@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1593__aleotti_vittori__ghirlanda_de_madrigali_a_4_voci
+    typeset_directory: vittoria_aleotti/ghirlanda_de_madrigali
+source:
+    city: Venice
+    date_exact: true
+    title: Ghirlanda de madrigali à 4 voci
+    press: Giacomo Vincenti prss
+    year: 1593
+catalog:
+    bologna: R.2

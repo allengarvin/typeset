@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1552__gero_ihan__il_primo_libro_de_madrigali_italiani_et_canzon_francese_a_2_voci
     typeset_directory: jhan_gero/il_primo_libro_de_madrigali_a_2
 source:
     city: Venice

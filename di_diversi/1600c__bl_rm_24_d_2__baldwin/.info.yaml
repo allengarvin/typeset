@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1606c__gb-lbl_rm_24_d_2__baldwin_commonplace_book
+    typeset_directory: di_diversi/1600c__bl_rm_24_d_2__baldwin
+source:
+    city: Windsor
+    date_exact: false
+    manuscript: true
+    title: GB-Lbl R.M.24.d.2 (Baldwin Commonplace Book)
+    year: 1600

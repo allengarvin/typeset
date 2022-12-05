@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1585__de_floridi_virtuosi__il_secondo_libro_de_madrigali_a_5_voci
+    typeset_directory: di_diversi/1585__il_secondo_libro_de_floridi_virtuosi
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Amadino press
+    print: true
+    title: De floridi virtuosi d'italia il secondo libro de madrigali
+    year: 1585

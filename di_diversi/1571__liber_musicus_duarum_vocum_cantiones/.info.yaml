@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1571__liber_musicus_duarum_vocum_cantiones_tum_latinas_tum_gallicas_atque_teutonicas
+    typeset_directory: di_diversi/1571__liber_musicus_duarum_vocum_cantiones
+source:
+    city: Antwep
+    date_exact: true
+    manuscript: false
+    press: Phalèse press
+    print: true
+    title: Liber musicus duarum vocum cantiones
+    year:  1571

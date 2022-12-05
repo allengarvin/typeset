@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1539__arcadelt_jacob__il_primo_libro_di_madrigali_a_4_voci
     typeset_directory: jacob_arcadelt/il_primo_libro_di_madrigali_a_4
 source:
     city: Venice

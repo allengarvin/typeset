@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1615__frescobaldi_girolamo__recercari_et_canzoni
     typeset_directory: girolamo_frescobaldi/recercari_et_canzoni
 source:
     city: Rome

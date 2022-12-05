@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1629__marini_biagio__sonate_symphonie__opera_ottava
+    typeset_directory: biagio_marini/opera_ottava
+source:
+    city: Venice
+    date_exact: true
+    title: Sonate symphonie
+    press: Gardano/Magni press
+    year: 1629

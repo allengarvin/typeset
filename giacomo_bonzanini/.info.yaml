@@ -1,0 +1,12 @@
+---
+top:
+    type: composer
+    path: /giacomo_bonzanini
+biography:
+    name: Giacomo Bonzanini
+    last_name: Bonzanini
+    nationality: Italian
+    flourished: 1616
+    born_location:
+        region: Mantua
+        country: Italy

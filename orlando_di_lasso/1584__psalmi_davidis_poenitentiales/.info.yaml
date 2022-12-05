@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1584__lasso_orlando_di__psalmi_davidis_poenitentiales_modis_musicis_redditi__5_vocum
+    typeset_directory: orlando_di_lasso/1584__psalmi_davidis_poenitentiales
+source:
+    city: Munich
+    date_exact: true
+    manuscript: false
+    press: Adam Berg press
+    print: true
+    title: Psalmi Davidis poenitentiales
+    year: 1584

@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: 1537__novum_et_insigne_opus_musicum__6_5_et_4_vocum
+    facsimile_directory: complete/1537__novum_et_insigne_opus_musicum__6_5_et_4_vocum
     typeset_directory: di_diversi/1537__novum_et_insigne_opus_musicum
 source:
     city: Nuremberg

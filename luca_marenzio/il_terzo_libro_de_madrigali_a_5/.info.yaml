@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1582__marenzio_luca__il_terzo_libro_de_madrigali_a_5_voci
     typeset_directory: luca_marenzio/il_terzo_libro_de_madrigali_a_5
 source:
     city: Venice

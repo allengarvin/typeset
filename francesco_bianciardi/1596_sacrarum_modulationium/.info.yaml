@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: 1596__bianciardi_francesco__senensis_ecclesiae_sacrarum_modulationum_quae_vulgo
+    typeset_directory: francesco_bianciardi/1596_sacrarum_modulationium
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Sacrarum modulationum, liber primus
+    year: 1596

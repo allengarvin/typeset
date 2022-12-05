@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1590__dialoghi_musicali_de_diversi_eccelentissimi_autori_a_7_8_9_10_11_12_voci
     typeset_directory: di_diversi/1590__dialoghi_musicali
 source:
     city: Venice

@@ -1,0 +1,9 @@
+---
+local:
+    facsimile_directory: complete/1607__praetorius_michael__musae_sioniae_2__ander_theil
+    typeset_directory: michael_praetorius/musae_sioniae_2
+source:
+    city: Regensburg
+    date_exact: true
+    title: 'Musæ Sioniæ ander theil'
+    year: 1607

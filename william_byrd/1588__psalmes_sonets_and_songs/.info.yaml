@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1588__byrd_william__psalms_sonets_and_songs
+    typeset_directory: william_byrd/1588__psalmes_sonets_and_songs
+source:
+    city: London
+    date_exact: true
+    printer: Thomas Este press
+    title: Psalmes, sonets and songs of sadnes and pietie
+    year: 1588
