@@ -26,6 +26,34 @@
 % you sing, and scatter roses and flowers.
 % Long live the beautiful Dori.
 
+% CPDL translation:
+% Graceful nymphs and loving young shepherds,
+% with what happy countenance
+% in this shady vale by the clear ripples
+% of this sprightly font, Cupid drew you today
+% to choose flower by flower,
+% to weave little garlands, and to crown
+% my gentle nymph.
+% While charming satyrs and sylvans
+% in their strange dress
+% dance with modest mien,
+% you sing, scattering roses and flowers:
+% “Long live fair Dori!”.
+
+% Liner notes translations from Hyperion:
+% Gentle nymphs and loving shepherds,
+% With happy faces
+% In this valley by the clear flow
+% Of this bubbling brook, Cupid brought you
+% To chose flower by flower,
+% To weave garlands, and to crown
+% My gentle nymph.
+% While satyrs and sylvans
+% In their costume
+% Dance with humility,
+% And sing, scattering roses and flowers:
+% “Long live beautiful Dori!”
+
 cantoIIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key f \major
@@ -171,6 +199,7 @@ altoLyricsIII = \lyricmode {
     vi -- va la bel -- la Do -- ri.
 }
 
+% tenore: checked against source
 tenoreIIIincipit = \relative c' {
     \clef "petrucci-c4"
     \key f \major
@@ -180,11 +209,11 @@ tenoreIIIincipit = \relative c' {
 }
 
 tenoreIII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
-    R\breve | r4 a g a bf2 a | g4. g8 g4 f e2 e | f4 f a2 a4 f g2 | 
+                                                             % vv f to g
+    R\breve*2 | r4 a g a bf2 a | g4. g8 g4 f e2 e | f4 f a2 a4 g g2 | 
 
     g1 \times 2/3 { f2 f f } | \times 2/3 { f1 d2 } bf1 | bf\breve | R
         r2 r4 c' g c c f, | g( a) bf2 r1 | r1 r2 r4 c | 
@@ -212,34 +241,37 @@ tenoreIII = \relative c' {
 }
 
 tenoreLyricsIII = \lyricmode {
-%    Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
-%    Che con lie -- ti sem -- bian -- ti
-%    In que -- st'om -- bro -- sa val -- le % al -- l’on -- de chia -- re
-%    % Di vi -- vo fon -- te~og -- gi vi tras -- se~A -- mo -- re
-%        og -- gi vi tras -- se~A -- mo -- re
+    Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
+    Che con lie -- ti sem -- bian -- ti
+    In que -- st'om -- bro -- sa val -- le % al -- l’on -- de chia -- re
+%    % Di vi -- vo fon -- te~
+        og -- gi vi tras -- se~A -- mo -- re
 %    % A sce -- glier fior da fio -- re
-%    Per tes -- ser ghir -- lan -- det -- te,
-%    per tes -- ser ghir -- lan -- det -- te e co -- ro -- na -- re
-%    La mia Nin -- fa gen -- ti -- le;
-%    Men -- tre vez -- zo -- si Sa -- ti -- ri~e Sil -- va -- ni
-%    Nei lo -- ro~a -- bi -- ti stra -- ni
-%    Dan -- zan con mo -- do~u -- mi -- le,
+    Per tes -- ser ghir -- lan -- det -- te,
+    per tes -- ser ghir -- lan -- det -- te e co -- ro -- na -- re
+    La mia Nin -- fa gen -- ti -- le;
+    Men -- tre vez -- zo -- si Sa -- ti -- ri~e Sil -- va -- ni
+    Nei lo -- ro~a -- bi -- ti stra -- ni
+    Dan -- zan con mo -- do~u -- mi -- le,
 %    dan -- zan con mo -- do~u -- mi -- le,
 %    Voi,
-%    voi can -- ta -- te,
+    Voi can -- ta -- te,
+        can -- ta -- te,
+        can -- ta -- te,
+        can -- ta -- te,
 %        can -- ta -- te, spar -- gen -- do~e ro -- s'e fio -- ri,
 %        can -- ta -- te,
 %        can -- ta -- te,
-%    Vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va la bel -- la Do -- ri,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va la bel -- la Do -- ri.
+    Vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va la bel -- la Do -- ri,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va la bel -- la Do -- ri.
 }
 
 bassoIIIincipit = \relative c {
@@ -250,12 +282,12 @@ bassoIIIincipit = \relative c {
     f2
 }
 
+% basso: checked against source
 bassoIII = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCommonTime
 
-    R\breve | f2 e4 f bf,8([ c d e] f4) c | ef4. ef8 ef4 f c2 c | 
+    R\breve*2 | f2 e4 f bf,8([ c d e] f4) c | ef4. ef8 ef4 f c2 c | 
 
     f,4 f f2 a4 c g2 | c1 \times 2/3 { f,2 f f } | \times 2/3 { bf1 bf2 } ef,1|
         ef1
@@ -263,7 +295,7 @@ bassoIII = \relative c {
     r4 bf' bf8([ c d e] | f4) g ef2 d4 g g e | f2 c4. d8 e4 f2 d4 | 
         c2 bf4 bf' a g 
 
-    f8([ g a bf] | g4) e f( g) c,1 | R\breve*4 | r2 c f1 | ef d | 
+    f8([ g a bf] | g4) e f( g) c,1 | R\breve*2 R\breve*2 | r2 c f1 | ef d | 
         g,4 g'2 e4 f2 f4 a | g2 c, r1 | R\breve*3 | 
     \time 6/2 f2. f4 f2 bf,1 f2 | c'2. bf4 c2 g d'1 | d2 g c, f2. g4 f2 |
         bf,1 bf2 bf' bf bf | 
@@ -271,7 +303,7 @@ bassoIII = \relative c {
     f1 g2 d1 d2 | bf bf bf f1 g2 | \fourTwoCommonTime d'1 d | g, c | 
         f1 r2 r4 f | f2 f r1 | R\breve | r2 r4 d g2 g | 
 
-    r2 r4 g g2 g | d g4 f bf,8([ c d e] f4) f | g2 d'4 d8[ e] f2 f4 f8[ g] |
+    r2 r4 g g2 g | d g4 f bf,8([ c d e] f4) f, | g2 d'4 d8[ e] f2 f4 f8[ g] |
         a2 f4 f8[ g] 
 
     a2 f4 f | bf, f c'2 f,4 f'8[ g] a2 | f4 f8[ g] a2 f f | bf, f c'1 | 
@@ -280,34 +312,37 @@ bassoIII = \relative c {
 }
 
 bassoLyricsIII = \lyricmode {
-%    Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
-%    Che con lie -- ti sem -- bian -- ti
-%    In que -- st'om -- bro -- sa val -- le % al -- l’on -- de chia -- re
-%    % Di vi -- vo fon -- te~og -- gi vi tras -- se~A -- mo -- re
+    Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
+    Che con lie -- ti sem -- bian -- ti
+    In que -- st'om -- bro -- sa val -- le al -- l’on -- de chia -- re
+    Di vi -- vo fon -- te~og -- gi vi tras -- se~A -- mo -- re
 %        og -- gi vi tras -- se~A -- mo -- re
-%    % A sce -- glier fior da fio -- re
+    A sce -- glier fior __ da fio -- re
 %    Per tes -- ser ghir -- lan -- det -- te,
 %    per tes -- ser ghir -- lan -- det -- te e co -- ro -- na -- re
-%    La mia Nin -- fa gen -- ti -- le;
-%    Men -- tre vez -- zo -- si Sa -- ti -- ri~e Sil -- va -- ni
-%    Nei lo -- ro~a -- bi -- ti stra -- ni
-%    Dan -- zan con mo -- do~u -- mi -- le,
-%    dan -- zan con mo -- do~u -- mi -- le,
-%    Voi,
-%    voi can -- ta -- te,
-%        can -- ta -- te, spar -- gen -- do~e ro -- s'e fio -- ri,
+        e co -- ro -- na -- re
+    La mia Nin -- fa gen -- ti -- le;
+    Men -- tre vez -- zo -- si Sa -- ti -- ri~e Sil -- va -- ni
+    Nei lo -- ro~a -- bi -- ti stra -- ni
+    Dan -- zan con mo -- do~u -- mi -- le,
+    dan -- zan con mo -- do~u -- mi -- le,
+    Voi,
+    voi,
+    voi can -- ta -- te,
+        can -- ta -- te,
+        can -- ta -- te, spar -- gen -- do~e ro -- s'e fio -- ri,
 %        can -- ta -- te,
 %        can -- ta -- te,
-%    Vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va la bel -- la Do -- ri,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va la bel -- la Do -- ri.
+    Vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va la bel -- la Do -- ri,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va la bel -- la Do -- ri.
 }
 
 quintoIIIincipit = \relative c'' {
@@ -318,8 +353,8 @@ quintoIIIincipit = \relative c'' {
     a4
 }
 
+% quinto: checked against source
 quintoIII = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCommonTime
 
@@ -346,39 +381,41 @@ quintoIII = \relative c'' {
         a4 d bf c d2 c | bf a1 r4 a8[ bf] | 
 
     c2 a4 a8[ bf] c2 a4 a | d c c2 c4 a8[ bf] c2 | 
-        a4 a8[ a] c2 a4 a8[ bf] c4 c8[ c] | bf2 a g1 | a\longa*1/2
+        a4 a8[ bf] c2 a4 a8[ bf] c4 c8[ c] | bf2 a g1 | a\longa*1/2
     \bar "|."
 }
 
 quintoLyricsIII = \lyricmode {
-%    Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
-%    Che con lie -- ti sem -- bian -- ti
-%    In que -- st'om -- bro -- sa val -- le % al -- l’on -- de chia -- re
-%    % Di vi -- vo fon -- te~og -- gi vi tras -- se~A -- mo -- re
+    Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
+    Che con lie -- ti sem -- bian -- ti
+    In que -- st'om -- bro -- sa val -- le al -- l’on -- de chia -- re
+    Di vi -- vo fon -- te % ~og -- gi vi tras -- se~A -- mo -- re
 %        og -- gi vi tras -- se~A -- mo -- re
-%    % A sce -- glier fior da fio -- re
-%    Per tes -- ser ghir -- lan -- det -- te,
-%    per tes -- ser ghir -- lan -- det -- te e co -- ro -- na -- re
-%    La mia Nin -- fa gen -- ti -- le;
-%    Men -- tre vez -- zo -- si Sa -- ti -- ri~e Sil -- va -- ni
-%    Nei lo -- ro~a -- bi -- ti stra -- ni
-%    Dan -- zan con mo -- do~u -- mi -- le,
-%    dan -- zan con mo -- do~u -- mi -- le,
-%    Voi,
-%    voi can -- ta -- te,
-%        can -- ta -- te, spar -- gen -- do~e ro -- s'e fio -- ri,
-%        can -- ta -- te,
-%        can -- ta -- te,
-%    Vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va la bel -- la Do -- ri,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va la bel -- la Do -- ri.
+    A sce -- glier fior __ da fio -- re
+    Per tes -- ser ghir -- lan -- det -- te,
+        ghir -- lan -- det -- te e co -- ro -- na -- re
+    La mia Nin -- fa gen -- ti -- le;
+    Men -- tre vez -- zo -- si Sa -- ti -- ri~e Sil -- va -- ni
+    Nei lo -- ro~a -- bi -- ti stra -- ni
+    Dan -- zan con mo -- do~u -- mi -- le,
+    \ijLyrics
+    dan -- zan con mo -- do~u -- mi -- le,
+    \normalLyrics
+    Voi,
+    voi can -- ta -- te,
+        can -- ta -- te, spar -- gen -- do~e ro -- s'e fio -- ri,
+        can -- ta -- te,
+        can -- ta -- te, spar -- gen -- do~e ro -- s'e fio -- ri,
+    Vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va la bel -- la Do -- ri,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va la bel -- la Do -- ri.
 }
 
 sestoIIIincipit = \relative c' {
@@ -389,8 +426,8 @@ sestoIIIincipit = \relative c' {
     c2
 }
 
+% sesto: checked against source
 sestoIII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
@@ -404,7 +441,7 @@ sestoIII = \relative c' {
 
     e4) e d2 | c1 r1 | R\breve | r4 d2 g,4 a2 a4 c | b2 c r1 | R\breve*3 |
         \time 6/2
-        a2. a4 a2 f1 f2 | g2. g4 
+        a2. a4 a2 f1 f2 | g2. g4 g2
 
     g2 a1 | a2 g g a2. d4 a2 | f1 f2 r1 r2 | R\breve. | bf2 bf bf c1 g2 |
         \fourTwoCommonTime a1 d, ~ | d2 g1 r4 c |
@@ -419,34 +456,34 @@ sestoIII = \relative c' {
 }
 
 sestoLyricsIII = \lyricmode {
-%    Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
-%    Che con lie -- ti sem -- bian -- ti
-%    In que -- st'om -- bro -- sa val -- le % al -- l’on -- de chia -- re
-%    % Di vi -- vo fon -- te~og -- gi vi tras -- se~A -- mo -- re
+    Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
+    Che con lie -- ti sem -- bian -- ti
+    In que -- st'om -- bro -- sa val -- le al -- l’on -- de chia -- re
+    Di vi -- vo fon -- te % ~og -- gi vi tras -- se~A -- mo -- re
 %        og -- gi vi tras -- se~A -- mo -- re
-%    % A sce -- glier fior da fio -- re
-%    Per tes -- ser ghir -- lan -- det -- te,
+    A sce -- glier fior da fio -- re __
+    Per tes -- ser ghir -- lan -- det -- te,
+    per tes -- ser ghir -- lan -- det -- te,
 %    per tes -- ser ghir -- lan -- det -- te e co -- ro -- na -- re
-%    La mia Nin -- fa gen -- ti -- le;
-%    Men -- tre vez -- zo -- si Sa -- ti -- ri~e Sil -- va -- ni
-%    Nei lo -- ro~a -- bi -- ti stra -- ni
-%    Dan -- zan con mo -- do~u -- mi -- le,
+    La mia Nin -- fa gen -- ti -- le;
+    Men -- tre vez -- zo -- si Sa -- ti -- ri~e Sil -- va -- ni
+    Nei lo -- ro~a -- bi -- ti stra -- ni
+    Dan -- zan con mo -- do~u -- mi -- le, __
 %    dan -- zan con mo -- do~u -- mi -- le,
-%    Voi,
-%    voi can -- ta -- te,
-%        can -- ta -- te, spar -- gen -- do~e ro -- s'e fio -- ri,
-%        can -- ta -- te,
-%        can -- ta -- te,
-%    Vi -- va,
+    Voi can -- ta -- te,
+        can -- ta -- te,
+        can -- ta -- te,
+        can -- ta -- te, spar -- gen -- do~e ro -- s'e fio -- ri,
+    Vi -- va,
+    vi -- va,
+    vi -- va,
 %    vi -- va,
 %    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va la bel -- la Do -- ri,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va,
-%    vi -- va la bel -- la Do -- ri.
+    vi -- va la bel -- la Do -- ri,
+    vi -- va,
+    vi -- va,
+    vi -- va,
+    vi -- va la bel -- la Do -- ri.
 }
 
 cantoIIIincipitVoice = <<
