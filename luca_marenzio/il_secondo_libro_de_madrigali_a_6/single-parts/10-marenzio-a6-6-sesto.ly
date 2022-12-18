@@ -1,4 +1,4 @@
-\version "2.16.0"
+\version "2.18.2"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
@@ -8,51 +8,55 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2022-12-17"
+    originallyset = "2022-12-17"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Cantai già lieto"
-    subtitle = "Prima parte"
+    title = "In un bel bosco"
+    subtitle = ""
+    instrument = "In un bel bosco:  (sesto)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "in_un_bel_bosco"
+    shortcomp = "marenzio"
+    folio = \markup { Torquato Tasso, \italic{Rime} 247 }
 
     % Things that change per part:
     partname = "Sesto (part 5 of 6)"
-    instrument = "Cantai già lieto (sesto)"
-    folio = "Anonymous poet"
+    instrument = "In un bel bosco:  (sesto)"
 
     % Unchanging:
-    originallyset = "2014-12-15"
-    lastupdated = "2014-12-15"
-    shorttitle = "cantai_gia_lieto"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/12-marenzio-a6-madrigal.ly"
-    
+\include "../parts/10-marenzio-a6-madrigal.ly"
+
 \book {
-    \bookOutputName "12-marenzio--cantai_gia_lieto"
+    \bookOutputName "10-marenzio--in_un_bel_bosco-"
     \bookOutputSuffix "--5-sesto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \sestoXII
+            \sestoX
         >>
-        \addlyrics { \sestoLyricsXII }
+                \addlyrics { \sestoLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
-    
+
 \book {
-    \bookOutputName "12-marenzio--cantai_gia_lieto"
+    \bookOutputName "10-marenzio--in_un_bel_bosco-"
     \bookOutputSuffix "--5-sesto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef alto
+            \clef "alto"
             \global 
-            \sestoXII
+            \sestoX
         >>
-        \addlyrics { \sestoLyricsXII }
+                \addlyrics { \sestoLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

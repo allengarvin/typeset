@@ -1,4 +1,4 @@
-\version "2.16.0"
+\version "2.18.2"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
@@ -8,51 +8,54 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2022-12-11"
+    originallyset = "2022-12-11"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Cantai già lieto"
-    subtitle = "Prima parte"
+    title = "E s'io mi doglio"
+    subtitle = ""
+    instrument = "E s'io mi doglio:  (tenore)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "e_sio_mi_doglio"
+    shortcomp = "marenzio"
 
     % Things that change per part:
     partname = "Tenore (part 4 of 6)"
-    instrument = "Cantai già lieto (tenore)"
-    folio = "Anonymous poet"
+    instrument = "E s'io mi doglio:  (tenore)"
 
     % Unchanging:
-    originallyset = "2014-12-15"
-    lastupdated = "2014-12-15"
-    shorttitle = "cantai_gia_lieto"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/12-marenzio-a6-madrigal.ly"
-    
+\include "../parts/09-marenzio-a6-madrigal.ly"
+
 \book {
-    \bookOutputName "12-marenzio--cantai_gia_lieto"
+    \bookOutputName "09-marenzio--e_sio_mi_doglio-"
     \bookOutputSuffix "--4-tenore--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \tenoreXII
+            \tenoreIX
         >>
-        \addlyrics { \tenoreLyricsXII }
+                \addlyrics { \tenoreLyricsIX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "12-marenzio--cantai_gia_lieto"
+    \bookOutputName "09-marenzio--e_sio_mi_doglio-"
     \bookOutputSuffix "--4-tenore--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef alto
+            \clef "alto"
             \global 
-            \tenoreXII 
+            \tenoreIX
         >>
-        \addlyrics { \tenoreLyricsXII }
+                \addlyrics { \tenoreLyricsIX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

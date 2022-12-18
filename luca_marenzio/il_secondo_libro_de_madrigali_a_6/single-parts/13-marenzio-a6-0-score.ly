@@ -10,28 +10,28 @@
 
 \header {
     % Things that change per piece:
-    title = "Cantai già lieto"
-    subtitle = "Prima parte"
-    instrument = "Cantai già lieto (score)"
+    title = "Che la mia donna"
+    subtitle = "Seconda parte"
+    instrument = "Che la mia donna (score)"
     needtranslation = #'t
     language = "italian"
     folio = "Anonymous poet"
 
     % Unchanging:
-    originallyset = "2014-12-15"
-    lastupdated = "2014-12-15"
+    originallyset = "2014-11-16"
+    lastupdated = "2014-11-16"
     flats = 1
-    final = "d"
-    shorttitle = "cantai_gia_lieto"
+    final = "g"
+    shorttitle = "che_la_mia_donna"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/12-marenzio-a6-madrigal.ly"
+\include "../parts/13-marenzio-a6-madrigal.ly"
     
 \book {
-    \bookOutputName "12-marenzio--cantai_gia_lieto"
+    \bookOutputName "13-marenzio--che_la_mia_donna"
     \bookOutputSuffix "--0-score"
     \score {
         \new ChoirStaff = choirStaff \with {
@@ -40,52 +40,52 @@
             \new ChoirStaff = choirStaff <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXIIincipitVoice
+                    \incipit \cantoXIIIincipitVoice
                     \clef treble 
                     \global 
-                    \cantoXII 
+                    \cantoXIII 
                 >>
-                \addlyrics { \cantoLyricsXII }
+                \addlyrics { \cantoLyricsXIII }
                 \new Voice << 
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXIIincipitVoice
+                    \incipit \quintoXIIIincipitVoice
                     \clef treble
                     \global 
-                    \quintoXII 
+                    \quintoXIII 
                 >>
-                \addlyrics { \quintoLyricsXII }
+                \addlyrics { \quintoLyricsXIII }
                 \new Voice << 
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXIIincipitVoice
+                    \incipit \altoXIIIincipitVoice
                     \clef treble
                     \global 
-                    \altoXII
+                    \altoXIII
                 >>
-                \addlyrics { \altoLyricsXII }
+                \addlyrics { \altoLyricsXIII }
                 \new Voice << 
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXIIincipitVoice
+                    \incipit \tenoreXIIIincipitVoice
                     \clef "treble_8"
                     \global 
-                    \tenoreXII 
+                    \tenoreXIII 
                 >>
-                \addlyrics { \tenoreLyricsXII }
+                \addlyrics { \tenoreLyricsXIII }
                 \new Voice << 
                     \set Staff.instrumentName = #"Sesto"
-                    \incipit \sestoXIIincipitVoice
+                    \incipit \sestoXIIIincipitVoice
                     \clef "treble_8"
                     \global 
-                    \sestoXII 
+                    \sestoXIII 
                 >>
-                \addlyrics { \sestoLyricsXII }
+                \addlyrics { \sestoLyricsXIII }
                 \new Voice << 
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXIIincipitVoice
+                    \incipit \bassoXIIIincipitVoice
                     \clef "bass"
                     \global 
-                    \bassoXII
+                    \bassoXIII
                 >>
-                \addlyrics { \bassoLyricsXII }
+                \addlyrics { \bassoLyricsXIII }
             >>
         >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -99,14 +99,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { Cantai già lieto il mio libero stato, }
-                \line { Il foco spento e rotto, il giogo e i lacci, }
-                \line { Che d'ira armato e d'indurati ghiacci }
-                \line { Le mie piaghe saldare avea pensato. }
-                \line { Or lasso piango e son preso e legato, }
-                \line { Ignudo, inerme, in gli amorosi impacci, }
-                \line { Nè perché mi distempre o mi disfacci, }
-                \line { Mercè chiedendo e men gravoso il fato.  }
+                \line { Ché la mia donna altiera e disdegnosa, }
+                \line { Mentre ne i miei sospir l'invoco e chiamo, }
+                \line { Gioir scorgo s'io ardo e s'io languisco, }
+                \line { E s'io cerco troncar l'Idra amorosa, }
+                \line { M'ivesco più quanto fuggir più bramo, }
+                \line { Come augel che campar tenta dal visco. }
             }
         }
     }

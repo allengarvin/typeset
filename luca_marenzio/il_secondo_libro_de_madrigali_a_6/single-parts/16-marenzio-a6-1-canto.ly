@@ -1,4 +1,4 @@
-\version "2.16.0"
+\version "2.18.2"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
@@ -8,36 +8,39 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2022-12-17"
+    originallyset = "2022-12-17"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Cantai già lieto"
-    subtitle = "Prima parte"
+    title = "Filli mia bella"
+    subtitle = ""
+    instrument = "Filli mia bella:  (canto)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "filli_mia_bella"
+    shortcomp = "marenzio"
 
     % Things that change per part:
     partname = "Canto (part 1 of 6)"
-    instrument = "Cantai già lieto (canto)"
-    folio = "Anonymous poet"
+    instrument = "Filli mia bella:  (canto)"
 
     % Unchanging:
-    originallyset = "2014-12-15"
-    lastupdated = "2014-12-15"
-    shorttitle = "cantai_gia_lieto"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/12-marenzio-a6-madrigal.ly"
-    
+\include "../parts/16-marenzio-a6-madrigal.ly"
+
 \book {
-    \bookOutputName "12-marenzio--cantai_gia_lieto"
+    \bookOutputName "16-marenzio--filli_mia_bella-"
     \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef treble
+            \clef "treble"
             \global 
-            \cantoXII
+            \cantoXVI
         >>
-        \addlyrics { \cantoLyricsXII }
+                \addlyrics { \cantoLyricsXVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

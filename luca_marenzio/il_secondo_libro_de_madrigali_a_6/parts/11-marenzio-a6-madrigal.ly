@@ -1,378 +1,353 @@
-% Cantai già lieto il mio libero stato,
-% Il foco spento e rotto, il giogo e i lacci,
-% Che d'ira armato e d'indurati ghiacci
-% Le mie piaghe saldare avea pensato.
-% Or lasso piango e son preso e legato,
-% Ignudo, inerme, in gli amorosi impacci,
-% Nè perchè mi distempre o mi disfacci,
-% Mercè chiedendo e men gravoso il fato. 
-
-% Che la mia donna altiera e disdegnosa,
-% Mentre ne i miei sospir l'invoco e chiamo,
-% Gioir scorgo s'io ardo e s'io languisco,
-% E s'io cerco troncar l'Idra amorosa,
-% M'ivesco più quanto fuggir più bramo,
-% Come augel che campar tenta dal visco.
-
+% O dolce laccio, o vaghe reti, o bosco
+%      vezzoso, o cacciator che mi togliesti
+%      il core, dove l'hai, crudele, ascosto?
+% Io pur ritorno spesso a pianger vosco,
+%      ed a cercar tra queste erbette e questi
+%      vaghi fioretti ov'egli sia nascosto.
 cantoXIincipit = \relative c'' {
+    \clef "petrucci-c1"
+    \key c \major
     \time 4/4
-    \clef "petrucci-g"
-    \key f \major
 
-    d1
+    cs\breve
 }
 
 % canto: checked against source
 cantoXI = \relative c'' {
+    \key c \major
     \fourTwoCommonTime
-    \key f \major
 
-    r1 d | f2.( e8[ d] c2. d4 | e f g2.) g,4 bf2 | a1 r | g bf2 d |
-        d1 cs |
+    gs\breve | a1 b | c2.( b4 a g a2 ~ | a) gs r4 gs a b | c\breve | a1
 
-    cs2 d2. d4 e2 | fs4( g2 fs4) g2 r4 d | d2. c4 c2. bf4 | bf2. a4
+    r4 c2 d4 ~ | d8([ c b a] g2) e4 e' e4.( d16[ c] | b4 c2 b4) c g g2 | 
+        e4 e' 
 
-    a2. g4 | f2.( g8[ f] e1) | a2 r4 d e f g2 | g r4 c, d e f2 |
-        f2 r4 a, bf c d2 | d r4 f
+    e4.( d16[ c] b4 c2 b4) | c1 r2 r4 g ~ | g b4. c8 d2 b4 c d |
+        e1 e4 c b2 | a1 f4. g8 a4 a |
 
-    f2 c | d e f1 | e2.( f4 g1) | r1 r2 c, ~ | c4 c bf2 a1 | r1 g4 g a2 |
-        bf1 r | d4 d e2 f4 f2 e4 |
+    a4 a a1 a,2 | a'4. b8 c4 c c c c2 ~ | c c, c'4. d8 e4 e |
+        e e e1 e,2 | r1 e | fs1. g2 | 
 
-    d2 c1 bf2 ~ | bf a bf1 | r2 bf1 d2 ~ | d c b1 | b cs2 d ~ | d cs r1 |
-        r f1 | e d | g2 r r1 | r1 r2 g, | a1 
+    g2 e e2. e4 | e2 d e1 | e1. r4 b' | c d e2. d4 c b | a2 e d f4 g |
 
-    g1 | r2 c d1 | c r4 d d4. c8 | bf4 bf a2 a1 | r2 d,2. e4 f2 | 
-        r2 f4 g a1 ~ | a2 gs4 fs gs1 |
+    a2. g4 f e d2 ~ | d g1 r4 g | g g g g8[ e] fs2 g | r1 r4 g c c |
+        c b8[ a] b2 
 
-    a1. bf2 ~ | bf a1 g2 ~ | g4( fs8[ e] fs2) g2 r4 g' | g2 r4 g g2 r4 g |
-        g2 r4 g e2 d | r4 d f2 
+    c2 a | d4 d d \ficta c8[ b]\unficta cs!2 d | 
+        r2 r4 d b a g4. a8 | b2 a r2 r4 b | c d e2. d4
 
-    e1 ~ | e r1 | a, f' ~ | \invisibleTime \time 6/2 s1*0\raisedSixTwoTime
-        f2 e d c bf1 | \invisibleTime \time 4/2 a\longa*1/2
-
-    
+    c4 b | a2 a r1 | d2 g,4 c c b8[ a] b2 | c1 r1 | r1 c1 | a2 g f g a1 
+        g\longa*1/2
     \bar "|."
 }
 
 cantoLyricsXI = \lyricmode {
-    Can -- tai __ già lie -- to 
-    Can -- tai già lie -- to~il mio li -- be -- ro sta -- to,
-    Il fo -- co spen -- to~e rot -- to~il gio -- go~e~i lac -- ci,
-    Che d'i -- ra~ar -- ma -- to
-    \ijLyrics
-    Che d'i -- ra~ar -- ma -- to 
-    \normalLyrics 
-    Che d'i -- ra~ar -- ma -- to 
-        e d'in -- du -- ra -- ti ghiac -- ci __
-    Le __ mie pia -- ghe 
-    \ijLyrics
-    Le mie pia -- ghe 
-    \normalLyrics
-    Le mie pia -- ghe sal -- da -- re~a -- vea pen -- sa -- to.
-    Or las -- so pian -- go~e son pre -- so e le -- ga -- to,
-    I -- gnu -- do, i -- ner -- me, in gli~a -- mo -- ro -- si~im -- pac -- ci,
-    Nè per -- chè,
-    Nè per -- chè __ mi di -- stem -- pre~o mi __ dis -- fac -- ci,
-    Mer -- cè,
-    Mer -- cè,
-    Mer -- cè chie -- den -- do 
-    \ijLyrics
-        chie -- den -- do __
-    \normalLyrics
-            e men __ gra -- vo -- so~il fa -- to. 
+    O dol -- ce lac -- cio, o va -- ghe re -- ti o bo -- sco
+    Vez -- zo -- so,
+        o bo -- sco
+    vez -- zo -- so, o __ cac -- cia -- tor che mi to -- glie -- sti
+    Il co -- re, do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+    Io pur ri -- tor -- no spes -- so~a pian -- ger vo -- sco,
+    Ed a cer -- car tra que -- ste~er -- bet -- te,
+    ed a cer -- car tra que -- ste~er -- bet -- te e que -- sti
+    Va -- ghi fio -- ret -- ti
+        e que -- sti
+    va -- ghi fio -- ret -- ti,
+        e que -- sti
+    va -- ghi fio -- ret -- ti, o -- v'e -- gli sia na -- sco -- sto,
+    ed a cer -- car tra que -- ste~er -- bet -- te e que -- sti
+    va -- ghi fio -- ret -- ti,
+        o -- v'e -- gli sia na -- sco -- sto.
 }
 
-altoXIincipit = \relative c'' {
+altoXIincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key c \major
     \time 4/4
-    \clef "petrucci-c2"
-    \key f \major
 
-    g1
+    e2
 }
 
 % alto: checked against source
-altoXI = \relative c'' {
+altoXI = \relative c' {
+    \key c \major
     \fourTwoCommonTime
-    \key f \major
 
-    R\breve*2 | g1 bf2.( a8[ g] | f2. g4 a bf c2 ~ | c) c, d2.( e4 | f1) e |
-        R\breve | r2 a bf2. bf4 |
+    R\breve*3 | r1 e2 e4 g ~ | g c,4.( d8 e2) a,4.( b8 c4) | r4 a d c 
 
-    a2. a4 g2. g4 | f2 f r c' | a1 a | r2 f g4 a d,2 | g1 r | d2
+    f4.( g8 a[ g f e] | d2) d4 e4.( d8[ c b] a[ b c d] | e2) d4 g g4.( f16[ e] 
 
-    c2 bf a | d1 r2 a' ~ | a4 a2 g f d4 | g1 g | e4 e a2 g1 | R\breve |
-        a4 a b2 c1 | R\breve | r1 r2 c, |
+    d4) d | r g c,8([ d e f] g4. f16[ e] d2) | e1 r4 g e4. f8 | g1 r1 |
+        R\breve | c,4. d8 e4 e d d c2 | f1 
 
-    d2 a f'1 ~ | f f2 f ~ | f g1 a2 | gs\breve | gs1 a | a\breve ~ | a1 a |
-        g g2.( fs4 | g e a2. g4 a2) | f1 r | r1 r2 g |
+    f4. g8 a4 a | a f e2 e a,4. b8 | c4 e a a a2 g ~ | g r4 c, c c c2 ~ | 
+        c b r1 | R\breve*4 | r1
 
-    a1 g | r1 r4 bf a4. a8 | f4 g e2 f f ~ | f4 g a2 d,2. e4 | f1 r | 
-        r1 r2 e ~ | e4 e f1 
+    r2 r4 e | f g a2. g4 f e | d1 d | R\breve | r1 c2 d4 g |
+        g \ficta f8[ e] \unficta fs!2 g a | f e4 d 
 
-    e4 d | e2 e fs g | a1 b2 r4 b | c2 r r r4 g | e2 d4 g g1 | r4 g f2 a1 |
+    c4 a r2 | d g4 g g f8[ e] fs2 | g r2 r4 e e g | 
+        g \ficta f8[ e]\unficta fs!2 g1 | 
+        R\breve | r1 r4 g f f |
 
-    r2 a f e | d1. a'2 | 
-        \invisibleTime \time 6/2 s1*0 #(if *is-parts* #{ <>\raisedSixTwoTime #})
-        r1 g g | \invisibleTime \time 4/2 fs\longa*1/2
+    f4 e8[ d] e2 f r2 | r2 r4 c e d d c8[ b] | c1 c | c2 b a e' c1
+        c\longa*1/2
     \bar "|."
 }
 
 altoLyricsXI = \lyricmode {
-    Can -- tai __ già lie -- to 
-    Il fo -- co spen -- to~e rot -- to~il gio -- go e~i lac -- ci,
-    Che d'i -- ra~ar -- ma -- to
-    Che d'i -- ra~ar -- ma -- to e __ d'in -- du -- ra -- ti ghiac -- ci 
-    Le mie pia -- ghe 
-    Le mie pia -- ghe a -- vea pen -- sa -- to.
-    Or __ las -- so pian -- go~e son pre -- so~e le -- ga -- to,
-        i -- ner -- me, in gli~a -- mo -- ro -- si~im -- pac -- ci,
-    Nè per -- chè,
+%    O dol -- ce lac -- cio, 
+        O va -- ghe re -- ti, __
+        o va -- ghe re -- ti~o bo -- sco
+    Vez -- zo -- so,
+    vez -- zo -- so, o cac -- cia -- tor 
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
     \ijLyrics
-    Nè per -- chè,
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
     \normalLyrics
-    Nè __ per -- chè mi di -- stem -- pre~o mi dis -- fac -- ci,
-    Mer -- cè chie -- den -- do 
-    Mer -- cè chie -- den -- do 
-            e men gra -- vo -- so il fa -- to. 
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto? __
+            cru -- de -- le~a -- sco -- sto?
+%    Io pur ri -- tor -- no spes -- so~a pian -- ger vo -- sco,
+%    Ed a cer -- car,
+    Ed a cer -- car tra que -- ste~er -- bet -- te e que -- sti
+    Va -- ghi fio -- ret -- ti~o -- v'e -- gli sia na -- sco -- sto,
+        e que -- sti
+    va -- ghi fio -- ret -- ti,
+    \ijLyrics
+        e que -- sti
+    va -- ghi fio -- ret -- ti,
+    \normalLyrics
+        e que -- sti
+    va -- ghi fio -- ret -- ti,
+        e que -- sti
+    va -- ghi fio -- ret -- ti~o -- v'e -- gli sia na -- sco -- sto.
 }
 
-tenoreXIincipit = \relative c' {
+tenoreXIincipit = \relative c {
+    \clef "petrucci-c4"
+    \key c \major
     \time 4/4
-    \clef "petrucci-c3"
-    \key f \major
 
-    d1
+    e2
 }
 
 % tenore: checked against source
-tenoreXI = \relative c' {
+tenoreXI = \relative c {
+    \key c \major
     \fourTwoCommonTime
-    \key f \major
 
-    R\breve*2 | r1 r2 d ~ | d f2.( e8[ d] c2 ~ | c4 d e f g2) g, | d'1 a |
-        a2 d2. d4 cs2 |
+    R\breve*3 | r1 e2 a4 g | c4.( d8 e[ d c b] a4. b8 c[ b a g] |
+        f\breve) | g1
 
-    d1 g,4 g g'2 ~ | g4 f f2. e4 e2 ~ | e4 d d2. c4 c2 ~ | 
-        c4( bf8[ a] a'2. g8[ f] e2) |
+    a1 | g2 g c,8([ d e f] g2) | a4 c c4.( b16[ a] g1) | c, r4 c' c  c | b1
 
-    d1 r | e2 d4 e f2 c | r2 r4 e g2 a | g f f e | d c1 b2 | 
-        \[ c1( d) \] | g4 g f1 e2 |
+    g2 c4 f, | g2 g4 c e2 e, | a4. b8 c2 r2 a4. b8 | c4 c f f f,2 f | 
+        r2 a4. b8 c2 
 
-    a4 a d,1 cs2 | R\breve | f4 f g2 a a,4 a | bf1 c | r4 a c c a2 bf | 
-        c1 d ~ | d\breve | R\breve |
+    c4. d8 | e4 a, a a c1 | c,\breve | r1 gs' | a1. c2 | b a gs2. gs4 |
+        gs2 a b1 | b r1 | R\breve | 
 
-    r2 e2. e4 f2 ~ | f e r1 | r2 a,2. a4 b2 | c g d'1 | c\breve | r2 f g1 |
-        f r | r1 r2 g | a1 g2 r | r1
+    r2 r4 e, f g a2 ~ | a4 g f e d1 | g c4 c c b8[ a] | b2 c a g | 
+        c, c' d f | 
 
-    r2 d ~ | d4 e f2 f4 g a2 | R\breve*2 | R\breve*2 | r2 r4 d, d2 r4 g | 
-        e2 d r4 c b2 | c r4 d 
+    r2 r4 g, c c c b8[ a] | b2 b g a | c a g g | r2 d' g,4 a b2 ~ |
+        b4 a g f 
 
-    e2 r4 g | d1 e | a1. g2 | f\breve | \invisibleTime \time 6/2
-        s1*0 #(if *is-parts* #{ <>\raisedSixTwoTime #}) g1 d\breve |
-        \invisibleTime \time 4/2 d\longa*1/2
+    e2 g | a4 a a g8[ f] g2 a | f g a d | c a r1 | g a2 b | 
+        c1 c, c 
+        c\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXI = \lyricmode {
-    Can -- tai __ già lie -- to~il mio li -- be -- ro sta -- to,
-    Il fo -- co spen -- to~e rot -- to~il gio -- go~e~i lac -- ci,
-    Che d'i -- ra~ar -- ma -- to
-    Che d'i -- ra~ar -- ma -- to~e d'in -- du -- ra -- ti ghiac -- ci  __
-    Le mie pia -- ghe 
-    Le mie pia -- ghe 
-    Le mie pia -- ghe 
-    \ijLyrics
-    Le mie pia -- ghe 
-    \normalLyrics
-        sal -- da -- re~a -- vea pen -- sa -- to. __
-        e son pre -- so
-        e son pre -- so~e le -- ga -- to,
-    I -- gnu -- do, i -- ner -- me, 
-    Nè __ per -- chè,
-    \ijLyrics
-    Nè per -- chè,
-    \normalLyrics
-    Mer -- cè chie -- den -- do 
-    \ijLyrics
-        chie -- den -- do 
-    \normalLyrics
-    Mer -- cè, chie -- den -- do~e men gra -- vo -- so~il fa -- to. 
+%    O dol -- ce lac -- cio, 
+        O va -- ghe re -- ti~o bo -- sco
+    Vez -- zo -- so,
+    vez -- zo -- so, o cac -- cia -- tor che mi to -- glie -- sti
+    Il co -- re, do -- ve l'hai,
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+        do -- ve l'hai,
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+    Io pur ri -- tor -- no spes -- so~a pian -- ger vo -- sco,
+    Ed a cer -- car __ tra que -- ste~er -- bet -- te~e que -- sti
+    Va -- ghi fio -- ret -- ti~o -- v'e -- gli sia na -- sco -- sto,
+        e que -- sti
+    va -- ghi fio -- ret -- ti~o -- v'e -- gli sia na -- sco -- sto,
+    ed a cer -- car __ tra que -- ste~er -- bet -- te~e que -- sti
+    va -- ghi fio -- ret -- ti~o -- v'e -- gli sia na -- sco -- sto,
+        o -- v'e -- gli sia na -- sco -- sto.
 }
 
-bassoXIincipit = \relative c' {
+bassoXIincipit = \relative c {
+    \clef "petrucci-f4"
+    \key c \major
     \time 4/4
-    \clef "petrucci-f3"
-    \key f \major
 
-    g1
+    e\breve
 }
 
 % basso: checked against source
-bassoXI = \relative c' {
+bassoXI = \relative c {
+    \key c \major
     \fourTwoCommonTime
-    \key f \major
 
-    r2 g1 bf2 ~ | bf4( a8[ g] f2. g4 a bf | c2) c, g'1 | d2 d f2.( e8[ d] |
-        c1) r |
+    e\breve | a1 gs | a\breve | e1 r1 | R\breve*5 | r2 c c4. d8 e4 c |
 
-    R\breve*2 | r1 r2 g' | d'2. a4 c2. g4 | bf2. f4 a2. e4 | f2.( e8[ d] a'1) |
+    e4. f8 g2. g4 f d | c2 c4 a e'1 | a, d4. e8 f4 f | 
 
-    d,2 d' c b | c g4 c bf2 a | bf f4 a g2 fs | g d f1 ~ | f2 e d1 ~ |
-        d2 c1 b2 |
+    f4 f f1 f,2 | f'4. g8 a4 a a a a2 ~ | a a, a'4. b8 c4 c | c c c1 c,2 |
+        e\breve | 
 
-    c\breve | f4 f g2 a1 | d c | bf a | g f ~ | f\breve ~ | f1 bf,2 bf' ~ |
-        bf g1 d2 | e\breve | e1 a2 d, | a'\breve ~ | a1
+    d1. c2 | g' a e2. e4 | e2 f e1 | e2 e a gs | a1 r2 a, | d cs d1 | 
+        d r1 | R\breve*4 | 
 
-    d,1 | e2.( f4 g2. d4 | e c f2. e4 f2) | bf,1 r | R\breve*2 | 
-        r1 r4 g' d'4. a8 | bf4 g a2 d,1 | R\breve*3 |
+    r2 g e d | c d e1 | d2 d e4 f g2 ~ | g4 f e d c2 c | f4 f f e8[ d]
 
-    R\breve*2 | r1 r4 g g2 | r4 c b2 c4 c, g'2 | r4 c b2 c4 c, g'2 ~ | 
-        g4 g4 d2 a'1 ~ | a
-
-    d1 ~ | d2 c2 bf a | \invisibleTime \time 6/2 
-        s1*0 #(if *is-parts* #{ <>\raisedSixTwoTime #}) g\breve. |
-        \invisibleTime \time 4/2 d\longa*1/2
+    e2 f | d c f g | a1 g | c, a2 g |
+        f1. e2 f1 c'\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXI = \lyricmode {
-    Can -- tai __ già lie -- to 
-    Can -- tai __ 
-    Il fo -- co spen -- to~e rot -- to~il gio -- go~e~i lac -- ci,
-    Che d'i -- ra~ar -- ma -- to
-    Che d'i -- ra~ar -- ma -- to 
-    Che d'i -- ra~ar -- ma -- to~e d'in -- du -- ra -- ti ghiac -- ci 
-    Le mie pia -- ghe sal -- da -- re~a -- vea pen -- sa -- to.
-    Or __ las -- so pian -- go~e son pre -- so~e __ le -- ga -- to,
-        in gli~a -- mo -- ro -- si~im -- pac -- ci,
-    Mer -- cè chie -- den -- do 
-    Mer -- cè chie -- den -- do 
-    Mer -- cè __ chie -- den -- do~e __  men __ gra -- vo -- so~il fa -- to. 
+    O dol -- ce lac -- cio, % o va -- ghe re -- ti~o bo -- sco
+%    Vez -- zo -- so,
+%    vez -- zo -- so, 
+        o cac -- cia -- tor,
+        o cac -- cia -- tor che mi to -- glie -- sti
+    Il co -- re, do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+    Io pur ri -- tor -- no spes -- so~a pian -- ger vo -- sco,
+    Ed a cer -- car tra que -- ste~er -- bet -- te,
+        o -- v'e -- gli sia na -- sco -- sto,
+    ed a cer -- car __ tra que -- ste~er -- bet -- t'e que -- sti
+    Va -- ghi fio -- ret -- ti~o -- v'e -- gli sia na -- sco -- sto,
+        o -- v'e -- gli sia na -- sco -- sto.
 }
 
-quintoXIincipit = \relative c'' {
+quintoXIincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key c \major
     \time 4/4
-    \clef "petrucci-g"
-    \key f \major
 
-    g1
+    e\breve
 }
 
-quintoXI = \relative c'' {
+% quinto: checked against source
+quintoXI = \relative c' {
+    \key c \major
     \fourTwoCommonTime
-    \key f \major
 
-    g1 bf2.( a8[  g] | f2. g4 a bf c2) | r1 d | f2.( e8[ d] c2. d4 | 
-        e f g2.) g,4
+    e\breve | e1. b2 | e2.( d4 c b c2 ~ | c) b r1 | r1 r2 r4 a | 
+        d c f4.( g8 a4. g8 
 
-    bf2 | a1 r2 e' | e f2. f4 e2 | d1 d | R\breve | r4 d f2. e4 e2 ~ |
-        e4 d 
+    f8[ e d c] | b2) b c8([ b a b] c[ d e f] | g2) g r2 r4 g | 
+        c,8([ d e f] g1.) | g2
 
-    d2.( cs8[ b] cs2) | d1 r2 r4 d | e f g e r2 r4 c | d e f c r2 r4 a |
-        bf c d2 c1 | R\breve |
+    r4 g e4. f8 g2 | r2 d1 f4 f | e2. fs4 gs( a2 gs4) | a2 r r1 | 
+        a,4. b8 c4 c c c c2 ~ | c
 
-    r2 g' g d | e f g1 | c,2 g'4 g f2 e | f1 e | d c | bf a | a r |
-        r1 r2 d ~ | d g1 f2 |
-        
-    e\breve | e1 r | r2 e2. e4 f2 ~ | f e2. d4 d2 ~ | d4( c c2. b8[ a] b2) |
-        c\breve | R\breve | r2 c d1 | c r2 g' ~ | g fs g r | r1 
+    c c4. d8 e4 e | e e e1 e2 | e4. f8 g4 g g g g2 ~| g g, r1 | R\breve |
+        R\breve*2 | r2 r4 b c d 
 
-    r4 d2 e4 | f1 f,2. g4 | a2 a2. bf4 c2 ~ | c b4 a b1 | c f | e d ~ |
-        d d | r4 e g2 r4 g g2 |
+    e2 ~ | e4 d c b a1 | a r2 d | f4 g a2. g4 f e | d2 b e4 e e d8[ c] |
+        d2 e
 
-    r4 g g2 r2 r4 d | bf2 a r1 | r2 e' f1 ~ | f2 e d c | 
-        \invisibleTime \time 6/2 s1*0 #(if *is-parts* #{ <>\raisedSixTwoTime #})
-        bf1.( c2 d1) | \invisibleTime \time 4/2 d\longa*1/2
+    r2 r4 d | e d c b8[ a] b2 c | c g'4 g g \ficta f8[ e]\unficta fs!2 | 
+        g4.( f16[ e] d2) e a4 d, |
 
-    
+    e4 g8[ e] fs2 g r2 | r1 r2 r4 d | e f g2. f4 e d | c2 c r1 |
+        r1 c2 g'4 g |
+
+    g4\ficta f8[ e]\unficta fs!2 g1 | r1 e | f2 g a g f1
+        e\longa*1/2
     \bar "|."
 }
 
 quintoLyricsXI = \lyricmode {
-    Can -- tai __
-    Can -- tai __ già lie -- to il mio li -- be -- ro sta -- to,
-        e rot -- to~il gio -- go~e~i lac -- ci,
-    Che d'i -- ra~ar -- ma -- to
+    O dol -- ce lac -- cio, o va -- ghe re -- ti~o bo -- sco
+    Vez -- zo -- so, o cac -- cia -- tor che mi to -- glie -- sti~Il
+    co -- re, do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+%    Io pur ri -- tor -- no spes -- so~a pian -- ger vo -- sco,
+    Ed a cer -- car __ tra que -- ste~er -- bet -- te,
+    ed a cer -- car tra que -- ste~er -- bet -- t'e que -- sti
+%    Va -- ghi fio -- ret -- ti~o -- v'e -- gli sia na -- sco -- sto,
+    va -- ghi fio -- ret -- ti,
+        e que -- sti
+    va -- ghi fio -- ret -- ti,
     \ijLyrics
-    Che d'i -- ra~ar -- ma -- to 
-    Che d'i -- ra~ar -- ma -- to 
-    \normalLyrics 
-        e d'in -- du -- ra -- ti ghiac -- ci 
-    Le mie pia -- ghe sal -- da -- re~a -- vea pen -- sa -- to.
-    Or __ las -- so pian -- go e son pre -- so~e le -- ga -- to,
-    I -- gnu -- do, i -- ner -- me, 
-    Nè per -- chè,
-    \ijLyrics
-    Nè per -- chè,
+        e que -- sti
+    va -- ghi fio -- ret -- ti,
     \normalLyrics
-    Nè per -- chè
-        mi di -- stem -- pre~o mi dis -- fac -- ci,
-    Mer -- cè,
-    \ijLyrics
-    Mer -- cè,
-    \normalLyrics
-    Mer -- cè chie -- den -- do 
-        e men __ gra -- vo -- so~il fa -- to. 
+        e que -- sti
+    va -- ghi fio -- ret -- ti
+    ed a cer -- car tra que -- ste~er -- bet -- te, e que -- sti
+    va -- ghi fio -- ret -- ti
+        o -- v'e -- gli sia na -- sco -- sto.
 }
 
 sestoXIincipit = \relative c' {
+    \clef "petrucci-c4"
+    \key c \major
     \time 4/4
-    \clef "petrucci-c3"
-    \key f \major
 
-    d1
+    b\breve
 }
 
 % sesto: checked against source
 sestoXI = \relative c' {
+    \key c \major
     \fourTwoCommonTime
-    \key f \major
 
-    r1 r2 d ~ | d f2.( e8[ d] c2 ~ | c4 d e f g2) g, | d'1 a2 a | 
-        c2.( bf8[ a] g1) | r 
+    b\breve | c1 b2 e ~ | e4( d c d e1) | e r4 b c d | e4.( d8 c[ b a b]
 
-    r4 e' a2 | a2. a4 a1 | a1 g | R\breve | R | r1 r2 r4 e | f g a d, r1 | r
+    c4. b8 a[ g f g] | a1) a | R\breve | r2 r4 d e4.( d16[ c] b2) |
+        c4.( d8 e4) c d1 | c
 
-    r2 r4 a' | f g a2 d,1 | r2 a a2. g4 | f2 g d'1 | g,\breve | g4 g a2 c1 |
-        r1 r2 a'4 a | f2 d r1 | r 
+    r2 g | g4. a8 b2. b4 a b | c1 b4 e e2 ~ | e a,1 r2 | f4. g8 a4 a a a a2 ~|
+        a a, 
 
-    e4 e fs2 | g1 a2 g | f e d1 | c bf | r2 d bf a | e'\breve | e1 r | 
-        r2 a, cs d ~ | d cs d1 |
+    a'4. b8 c4 c | c c c1 c,2 | c'4. d8 e4 e e e e2 ~ | e e, b'1 |
+        d1. e2 | d c
 
-    g,1. d'2 | r1 r2 c | d1 c | R\breve*2 | r1 r4 g' f4. e8 | d4 d cs2 d r |
-        f2. g4 a2 d, ~ | d4 e f1 
+    b2. b4 | b2 a gs1 | gs r1 | r2 a c4 d e2 | R\breve | 
+        d,2 f4 g a2. a4 | b c d d r1 |
 
-    e4 d | e\breve | a,1 d | cs d ~ | d g,2 r4 d' | c2 r4 g' e2 d | 
-        r4 e g2 r4 c, bf2 | r4 bf
+    r4 g, c, c' c b8[ a] b2 | c a g f ~ | f g a1 | g r1 |
+        r4 e' d d d c8[ b] cs2 | 
 
-    d1( cs4 b) | cs1 r1 | r1 d | \invisibleTime \time 6/2
-        s1*0 #(if *is-parts* #{ <>\raisedSixTwoTime #})
-        d2 c bf a g1 | \invisibleTime \time 4/2 a\longa*1/2
+    d1 r1 | R\breve | r2 r4 c c c c b8[ a] | b2 c r1 | r4 a c c c b8[ a] b2 |
+        e1 r2 r4 e, | a2 b
+
+    c2 c a4.( g8 f2) 
+        g\longa*1/2
     \bar "|."
 }
 
 sestoLyricsXI = \lyricmode {
-    Can -- tai __ già lie -- to 
-    Can -- tai __ il mio li -- be -- ro sta -- to,
-    Che d'i -- ra~ar -- ma -- to
+    O dol -- ce lac -- cio, o va -- ghe re -- ti, % o bo -- sco
+    Vez -- zo -- so,
+    vez -- zo -- so, o cac -- cia -- tor che mi to -- glie -- sti
+    Il co -- re, do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+        do -- ve l'hai cru -- de -- le~a -- sco -- sto?
+    Io pur ri -- tor -- no spes -- so~a pian -- ger vo -- sco,
+    Ed a cer -- car,
+    ed a cer -- car tra que -- ste~er -- bet -- te e que -- sti
+    Va -- ghi fio -- ret -- ti~o -- v'e -- gli sia __ na -- sco -- sto,
+        e que -- sti
+    va -- ghi fio -- ret -- ti,
     \ijLyrics
-    Che d'i -- ra~ar -- ma -- to 
-    \normalLyrics 
-        e d'in -- du -- ra -- ti ghiac -- ci 
-    Le mie pia -- ghe 
-    Le mie pia -- ghe 
-    Le mie pia -- ghe sal -- da -- re~a -- vea pen -- sa -- to.
-    Or las -- so pian -- go e son pre -- so~e le -- ga -- to,
-    I -- gnu -- do, in gli~a -- mo -- ro -- si~im -- pac -- ci,
-    Nè per -- chè,
-    Nè per -- chè mi di -- stem -- pre~o mi dis -- fac -- ci,
-    Mer -- cè chie -- den -- do 
-    Mer -- cè,
-    \ijLyrics
-    Mer -- cè,
+        e que -- sti
+    va -- ghi fio -- ret -- ti,
     \normalLyrics
-        chie -- den -- do 
-            e men gra -- vo -- so~il fa -- to. 
+        e que -- sti
+    va -- ghi fio -- ret -- ti
+        o -- v'e -- gli sia na -- sco -- sto.
 }
 
 cantoXIincipitVoice = <<
