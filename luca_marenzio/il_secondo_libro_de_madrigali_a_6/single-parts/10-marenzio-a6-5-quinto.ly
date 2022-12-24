@@ -19,7 +19,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_un_bel_bosco"
     shortcomp = "marenzio"
-    folio = \markup { Torquato Tasso, \italic{Rime} 247 }
+    folio = \markup { Torquato Tasso, \italic{Rime} 395 }
 
     % Things that change per part:
     partname = "Quinto (part 3 of 6)"

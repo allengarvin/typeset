@@ -20,6 +20,7 @@
     lastupdated = "2013-09-13"
     flats = 1
     final = "g"
+    poeticform = "madrigal"
     shorttitle = "rallegrati_mio_cor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
@@ -90,12 +91,12 @@
         \fill-line {
             \column {
                 \line { Rallegrati mio cor, ch'ogni dolore, }
-                \line { Che per donna hai patito in gioia è volto }
-                \line { E al fin sei stato accolto }
-                \line { Nel sen de la tua Diva }
-                \line { Ch'or d'ogni dubbio è priva, }
-                \line { Chavea del nostro amore }
-                \line { Onde vivrem beati a tutte l'ore. }
+                \line { che per donna hai patito in gioia è volto }
+                \line { e al fin sei stato accolto }
+                \line { nel sen della tua Diva }
+                \line { ch'or d'ogni dubbio è priva, }
+                \line { chavea del nostro amore }
+                \line { onde vivrem beati a tutte l'ore. }
             }
         }
     }

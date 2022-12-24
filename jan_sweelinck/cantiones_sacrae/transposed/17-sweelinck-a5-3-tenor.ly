@@ -31,6 +31,22 @@
 
 \include "../parts/17-sweelinck-a5-motet.ly"
 
+
+\book {
+    \bookOutputName "17-sweelinck--hodie_christus_natus_est-"
+    \bookOutputSuffix "transpose-5th--4-tenor--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global\transpose g c 
+            \tenorXVII
+        >>
+                \addlyrics { \tenorLyricsXVII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
 \book {
     \bookOutputName "17-sweelinck--hodie_christus_natus_est-"
     \bookOutputSuffix "transpose-5th--4-tenor--tr8_clef"

@@ -21,6 +21,7 @@
     lastupdated = "2014-12-01"
     flats = 0
     final = "d"
+    poeticform = "madrigal"
     shorttitle = "vener_chun_giorno_avea"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

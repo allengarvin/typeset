@@ -22,6 +22,7 @@
     flats = 1
     final = "f"
     shorttitle = "fra_le_dorate_chiome"
+    poeticform = "madrigal"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -91,15 +92,15 @@
         \fill-line {
             \column {
                 \line { Fra le dorate chiome }
-                \line { D’Amarilli gentil Amor tessea }
-                \line { Lacci con che legar l’alme volea, }
-                \line { Quando, ne dir so come, }
-                \line { Stringerci si sentio }
-                \line { Da’ crespi e bei capelli: }
+                \line { d’Amarilli gentil Amor tessea }
+                \line { lacci con che legar l’alme volea, }
+                \line { quando, ne dir so come, }
+                \line { stringerci si sentio }
+                \line { da’ crespi e bei capelli: }
                 \line { Onde sdegnoso a quelli }
-                \line { Disse: O legame rio, }
-                \line { Come dei tu legar agl’altri il core, }
-                \line { Se leghi me, ch’io lego gl’altri Amore? }
+                \line { disse: O legame rio, }
+                \line { come dei tu legar agl’altri il core, }
+                \line { se leghi me, ch’io lego gl’altri Amore? }
             }
         }
     }

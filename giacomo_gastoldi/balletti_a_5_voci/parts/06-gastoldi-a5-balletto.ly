@@ -11,7 +11,8 @@ cantoVI = \relative c'' {
     \key c \major
 
     \override Slur #'transparent = ##t 
-    r2 r4 c8[ d] | \repeat volta 2 { 
+    \partial 4
+    c8[ d] | \repeat volta 2 { 
         e4 e d c | b g r4 d'8[ c] | b4 g a a | 
         g2 r4 c8[ d] | e4 e d e | f2. e8[ d] | e2. d8[ c] |
 
@@ -37,7 +38,7 @@ cantoVI = \relative c'' {
     \bar "|."
 }
 
-cantoLyricsVIone = \lyricmode {
+cantoLyricsVI =  \lyricmode {
     Se ben ve -- di~o vi -- ta mi -- a
     Ch'io lan -- gui -- sco per tuo~a -- mor.
     Fa la la la la la la la la la la la la la la la la
@@ -54,8 +55,8 @@ cantoLyricsVIone = \lyricmode {
     Mi la.
 }
 
-cantoLyricsVItwo = \lyricmode {
-    Io ti por -- go~ogn' hor tri -- bu -- to
+cantoLyricsVIa = \lyricmode {
+    Io ti por -- go~o -- gnor tri -- bu -- to
     E di pian -- to~e di so -- spir
     Fa la la la la la la la la la la la la la la la la
 
@@ -63,15 +64,15 @@ cantoLyricsVItwo = \lyricmode {
     Io ti la.
 
     Ma fe -- ra di -- sprez -- zi,
-    Ne o -- di ne prez -- zi,
-    Chi chi -- e -- de ogn' hor ai -- u
+    Né o -- di né prez -- zi,
+    Chi chi -- e -- de o -- gnor aiu -- to
     Fa la la la la la la la la Fa la la la la la la
 
 % 1e, 2e:
     Ma la.
 }
 
-cantoLyricsVIthree = \lyricmode {
+cantoLyricsVIb = \lyricmode {
     O -- pra~in me gli sde -- gni~e l'i -- re
     Dam -- mi mor -- te di tua man
     Fa la la la la la la la la la la la la la la la la
@@ -79,7 +80,7 @@ cantoLyricsVIthree = \lyricmode {
     O -- pra~in la.
 
     Che tar -- di? che fa -- i?
-    Deh tram -- mi di gu -- i
+    Deh tram -- mi di gua -- i
     Con -- ten -- ta il tuo de -- si -- re,
     Fa la la la la la la la la Fa la la la la la la
     
@@ -98,7 +99,7 @@ altoVI = \relative c'' {
     \time 4/4
     \key c \major
 
-    r2 r4 g8[ g] | \repeat volta 2 {
+    \partial 4 g8[ g] | \repeat volta 2 {
         g4 g g g | g g r g8[ e] | g4 g g fs | g2 r4 g8[ g] |
         g4 g g e | a2 a4 a |
 
@@ -125,7 +126,7 @@ altoVI = \relative c'' {
     \bar "|."
 }
 
-altoLyricsVIone = \lyricmode {
+altoLyricsVI =  \lyricmode {
     Se ben ve -- di~o vi -- ta mi -- a
     Ch'io lan -- gui -- sco per tuo~a -- mor.
     Fa la la la la la la la la la la la la la la la la
@@ -140,8 +141,8 @@ altoLyricsVIone = \lyricmode {
     Mi la.
 
 }
-altoLyricsVItwo = \lyricmode {
-    Io ti por -- go~ogn' hor tri -- bu -- to
+altoLyricsVIa = \lyricmode {
+    Io ti por -- go~o -- gnor tri -- bu -- to
     E di pian -- to~e di so -- spir
     Fa la la la la la la la la la la la la la la la la
 
@@ -149,15 +150,15 @@ altoLyricsVItwo = \lyricmode {
     Io ti la.
 
     Ma fe -- ra di -- sprez -- zi,
-    Ne o -- di ne prez -- zi,
-    Chi chi -- e -- de ogn' hor ai -- u
+    Né o -- di né prez -- zi,
+    Chi chi -- e -- de o -- gnor aiu -- to
     Fa la la la la la la la Fa la la la la la la 
 
 % 1e, 2e:
     Ma la.
 }
 
-altoLyricsVIthree = \lyricmode {
+altoLyricsVIb = \lyricmode {
     O -- pra~in me gli sde -- gni~e l'i -- re
     Dam -- mi mor -- te di tua man
     Fa la la la la la la la la la la la la la la la la
@@ -165,7 +166,7 @@ altoLyricsVIthree = \lyricmode {
     O -- pra~in la.
 
     Che tar -- di? che fa -- i?
-    Deh tram -- mi di gu -- i
+    Deh tram -- mi di gua -- i
     Con -- ten -- ta il tuo de -- si -- re,
     Fa la la la la la la la Fa la la la la la la 
     
@@ -186,7 +187,7 @@ tenoreVI = \relative c' {
     \time 4/4
     \key c \major
 
-    r2 r4 c8[ c] | \repeat volta 2 {
+    \partial 4 c8[ c] | \repeat volta 2 {
         c4 c d e | d b r b8[ a] | d4 g, d' d | d2 r4 e8[ d] |
         c4 e g g | f2 c4 c | c2 e4 e | 
 
@@ -213,7 +214,7 @@ tenoreVI = \relative c' {
     \bar "|."
 }
 
-tenoreLyricsVIone = \lyricmode {
+tenoreLyricsVI =  \lyricmode {
     Se ben ve -- di~o vi -- ta mi -- a
     Ch'io lan -- gui -- sco per tuo~a -- mor.
     Fa la la la la la la la la la la la la la la la la
@@ -228,8 +229,8 @@ tenoreLyricsVIone = \lyricmode {
     Mi la.
 }
 
-tenoreLyricsVItwo = \lyricmode {
-    Io ti por -- go~ogn' hor tri -- bu -- to
+tenoreLyricsVIa = \lyricmode {
+    Io ti por -- go~o -- gnor tri -- bu -- to
     E di pian -- to~e di so -- spir
     Fa la la la la la la la la la la la la la la la la
 
@@ -237,15 +238,15 @@ tenoreLyricsVItwo = \lyricmode {
     Io ti la.
 
     Ma fe -- ra di -- sprez -- zi,
-    Ne o -- di ne prez -- zi,
-    Chi chi -- e -- de ogn' hor ai -- u
+    Né o -- di né prez -- zi,
+    Chi chi -- e -- de o -- gnor aiu -- to
     Fa la la la la la la la Fa la la la la la la 
 
 % 1e, 2e:
     Ma la.
 }
 
-tenoreLyricsVIthree = \lyricmode {
+tenoreLyricsVIb = \lyricmode {
     O -- pra~in me gli sde -- gni~e l'i -- re
     Dam -- mi mor -- te di tua man
     Fa la la la la la la la la la la la la la la la la
@@ -253,7 +254,7 @@ tenoreLyricsVIthree = \lyricmode {
     O -- pra~in la.
 
     Che tar -- di? che fa -- i?
-    Deh tram -- mi di gu -- i
+    Deh tram -- mi di gua -- i
     Con -- ten -- ta il tuo de -- si -- re,
     Fa la la la la la la la Fa la la la la la la 
     
@@ -273,7 +274,7 @@ bassoVI = \relative c {
     \time 4/4
     \key c \major
 
-    r2 r4 c8[ c] | \repeat volta 2 {
+    \partial 4 c8[ c] | \repeat volta 2 {
         c4 c g' c, | g' g r g8[ a] | g4 e d d | g2 r4 c,8[ g'] |
         c,4 c' b c | f,2 f4 f | c2 c4 c |
 
@@ -298,7 +299,7 @@ bassoVI = \relative c {
     \bar "|."
 }
 
-bassoLyricsVIone = \lyricmode {
+bassoLyricsVI =  \lyricmode {
     Se ben ve -- di~o vi -- ta mi -- a
     Ch'io lan -- gui -- sco per tuo~a -- mor.
     Fa la la la la la la la la la la la la la la la la
@@ -312,8 +313,8 @@ bassoLyricsVIone = \lyricmode {
 
     Mi la.
 }
-bassoLyricsVItwo = \lyricmode {
-    Io ti por -- go~ogn' hor tri -- bu -- to
+bassoLyricsVIa = \lyricmode {
+    Io ti por -- go~o -- gnor tri -- bu -- to
     E di pian -- to~e di so -- spir
     Fa la la la la la la la la la la la la la la la la
 
@@ -321,15 +322,15 @@ bassoLyricsVItwo = \lyricmode {
     Io ti la.
 
     Ma fe -- ra di -- sprez -- zi,
-    Ne o -- di ne prez -- zi,
-    Chi chi -- e -- de ogn' hor ai -- u
+    Né o -- di né prez -- zi,
+    Chi chi -- e -- de o -- gnor aiu -- to
     Fa la la la la la la la Fa la la la la la la 
 
 % 1e, 2e:
     Ma la.
 }
 
-bassoLyricsVIthree = \lyricmode {
+bassoLyricsVIb = \lyricmode {
     O -- pra~in me gli sde -- gni~e l'i -- re
     Dam -- mi mor -- te di tua man
     Fa la la la la la la la la la la la la la la la la
@@ -337,7 +338,7 @@ bassoLyricsVIthree = \lyricmode {
     O -- pra~in la.
 
     Che tar -- di? che fa -- i?
-    Deh tram -- mi di gu -- i
+    Deh tram -- mi di gua -- i
     Con -- ten -- ta il tuo de -- si -- re,
     Fa la la la la la la la Fa la la la la la la 
     
@@ -357,7 +358,8 @@ quintoVI = \relative c'' {
     \time 4/4
     \key c \major
 
-    r2 r4 e8[ d] | \repeat volta 2 {
+    \partial 4
+    e8[ d] | \repeat volta 2 {
         c4 c b c | d d r b8[ a] | b4 cs d d | b2 r4 c8[ b] |
         c4 c d c | c2 c4 c |
 
@@ -383,7 +385,7 @@ quintoVI = \relative c'' {
     \bar "|."
 }
 
-quintoLyricsVIone = \lyricmode {
+quintoLyricsVI =  \lyricmode {
     Se ben ve -- di~o vi -- ta mi -- a
     Ch'io lan -- gui -- sco per tuo~a -- mor.
     Fa la la la la la la la la la la la la la la la la
@@ -398,8 +400,8 @@ quintoLyricsVIone = \lyricmode {
     Mi la.
 }
 
-quintoLyricsVItwo = \lyricmode {
-    Io ti por -- go~ogn' hor tri -- bu -- to
+quintoLyricsVIa = \lyricmode {
+    Io ti por -- go~o -- gnor tri -- bu -- to
     E di pian -- to~e di so -- spir
     Fa la la la la la la la la la la la la la la la la
 
@@ -407,15 +409,15 @@ quintoLyricsVItwo = \lyricmode {
     Io ti la.
 
     Ma fe -- ra di -- sprez -- zi,
-    Ne o -- di ne prez -- zi,
-    Chi chi -- e -- de~ogn' hor ai -- u
+    Né o -- di né prez -- zi,
+    Chi chi -- e -- de~o -- gnor aiu -- to
     Fa la la la la la la la la Fa la la la la la la 
 
 % 1e, 2e:
     Ma la.
 }
 
-quintoLyricsVIthree = \lyricmode {
+quintoLyricsVIb = \lyricmode {
     O -- pra~in me gli sde -- gni~e l'i -- re
     Dam -- mi mor -- te di tua man
     Fa la la la la la la la la la la la la la la la la
@@ -423,7 +425,7 @@ quintoLyricsVIthree = \lyricmode {
     O -- pra~in la.
 
     Che tar -- di? che fa -- i?
-    Deh tram -- mi di gu -- i
+    Deh tram -- mi di gua -- i
     Con -- ten -- ta~il tuo de -- si -- re,
     Fa la la la la la la la la Fa la la la la la la 
     

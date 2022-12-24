@@ -22,6 +22,7 @@
     lastupdated = "2014-11-29"
     flats = 0
     final = "d"
+    poeticform = "ottava rima"
     shorttitle = "ma_che_squallido"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

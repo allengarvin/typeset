@@ -23,8 +23,8 @@ cantoXXincipit = \relative c'' {
     d1
 }
 
+% canto: checked against source
 cantoXX = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCommonTime
 
@@ -98,8 +98,8 @@ altoXXincipit = \relative c' {
     f1
 }
 
+% alto: checked against source
 altoXX = \relative c' {
-    \clef mezzosoprano
     \key f \major
     \fourTwoCommonTime
 
@@ -114,7 +114,7 @@ altoXX = \relative c' {
 
     r4 b c2 b r2 | r4 a e a a1 | a bf | f f | g2 f f1 | f4 d a' c bf bf a a |
 
-    d4 f g2 a1 | r2 d,1 cs2 | e4 e a2 g1 | g2 c1 g4 g | g4. a8 bf2 bf1 |
+    d,4 f g2 a1 | r2 d,1 cs2 | e4 e a2 g1 | g2 c1 g4 g | g4. a8 bf2 bf1 |
         r4 bf bf bf a2
 
     g4 bf | a2 a4 a a2 a4 a | a1 g | g2 g e e4 g ~ |
@@ -131,6 +131,41 @@ altoXX = \relative c' {
 }
 
 altoLyricsXX = \lyricmode {
+    Ba -- ci,
+%    ba -- ci,
+    ba -- ci, ohi -- mè non mi -- ra -- te, __
+        ohi -- mè, 
+        ohi -- mè non mi -- ra -- te, __
+    Che men -- tr'io par -- lo~o -- bli -- o __
+    Co -- me l'o -- re sen van,
+    \ijLyrics
+    co -- me l'o -- re __ sen van
+    \normalLyrics
+        fu -- ga -- ci~e lie -- ve,
+        sen van fu -- ga -- ci~e lie -- ve,
+    Ba -- cia -- te,
+    \ijLyrics
+    ba -- cia -- te,
+    \normalLyrics
+    ba -- cia -- te, 
+        ohi -- mè ba -- cia -- te:
+    Lun -- go~è'l no -- stro de -- si -- o,
+    Ma la spe -- ran -- za~è fra -- le~il tem -- po~è bre -- ve.
+    Tac -- cia che gio -- ir de -- ve;
+    Ba -- ci, non sia -- te len -- ti,
+        non sia -- te len -- ti,
+    Ve -- ni -- te,
+    ve -- ni -- te,
+    ve -- ni -- t'a mil -- le~a mil -- le,
+    Quan -- te son le fa -- vil -- le
+    Del mio bel fo -- co~e quan -- ti~i rag -- gi~ar -- den -- ti,
+    Mia lu -- ce~han gli~oc -- chi vo -- stri,
+    Sian tan -- ti~i ba -- ci no -- stri.
+    Ba -- ci, di tan -- te gio -- ie,
+        di tan -- te gio -- ie~u -- na sol re -- sta,
+    Che tut -- te l'al -- tre~a -- van -- za,
+    So -- la del cor spe -- ran -- za,
+    so -- la del cor spe -- ran -- za.
 }
 
 tenoreXXincipit = \relative c' {
@@ -141,12 +176,12 @@ tenoreXXincipit = \relative c' {
     a1
 }
 
+% tenore: checked against source
 tenoreXX = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
-    R\breve | a1 a | r4 a2 d4 d d cs2 | d1 f2.( g4 | a2) d r2 r4 g ~ |
+    R\breve | a1 a | r4 a2 d4 d d cs2 | d1 f2.( g4 | a2) e r2 r4 g ~ |
         g g r4 g2 g4 c, ef | 
 
     d2 g, r1 | R\breve*2 | a'2 g f e | d c8[ d e f] g4 d r4 a | 
@@ -168,11 +203,49 @@ tenoreXX = \relative c' {
     a1 a | R\breve | d2 d4 a f'2 f | e e d d | r1 r2 r4 g | a2 e f4. g8 a2 |
         d,1 r1 | 
     % --- page ---
-    r4 d d d ef d f2 | f1 c | a a | f4 d d'2.( c8[ bf] a2) | bf\longa*1/2
+    r4 d d d ef d f2 | f1 c | a a | f4 d d'2.( c8[ bf] a2) | 
+     % vvvvvvvvvvvv b(f) in first edition
+        g\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXX = \lyricmode {
+    Ba -- ci,
+%    ba -- ci,
+%    ba -- ci, 
+        ohi -- mè,
+        ohi -- mè non mi -- ra -- te,
+    ba -- ci, 
+        ohi -- mè,
+        non mi -- ra -- te,
+%    Che men -- tr'io par -- lo~o -- bli -- o
+%    Co -- me l'o -- re sen van,
+    Co -- me l'o -- re sen van fu -- ga -- ci~e lie -- ve,
+        sen van fu -- ga -- ci~e lie -- ve,
+    co -- me l'o -- re sen van fu -- ga -- ci~e lie -- ve,
+            fu -- ga -- ci~e lie -- ve,
+    Ba -- cia -- te, ohi -- mè,
+        ohi -- mè ba -- cia -- te:
+    Lun -- go~è'l no -- stro de -- si -- o,
+%    Ma la spe -- ran -- za~è fra -- le, il tem -- po~è bre -- ve.
+    Tac -- cia che gio -- ir de -- ve;
+    Ba -- ci, non sia -- te len -- ti,
+%        non sia -- te len -- ti,
+    Ve -- ni -- te,
+%    ve -- ni -- te,
+%    ve -- ni -- te,
+    ve -- ni -- t'a mil -- le~a mil -- le~a mil -- le,
+    ve -- ni -- t'a mil -- le~a mil -- le~a mil -- le~a mil -- le~a mil -- le
+    Quan -- te son le fa -- vil -- le
+    Del mio bel fo -- co~e quan -- ti~i rag -- gi~ar -- den -- ti,
+    Mia lu -- ce~han gli~oc -- chi vo -- stri,
+    Sian tan -- ti~i ba -- ci no -- stri.
+    Ba -- ci, di tan -- te gio -- ie~u -- na sol re -- sta,
+    So -- la del cor spe -- ran -- za,
+    Che tut -- te l'al -- tre~a -- van -- za,
+    so -- la del cor spe -- ran -- za.
+%    so -- la del cor,
+%        del cor spe -- ran -- za.
 }
 
 bassoXXincipit = \relative c {
@@ -183,8 +256,8 @@ bassoXXincipit = \relative c {
     d1
 }
 
+% basso: checked against source
 bassoXX = \relative c {
-    \clef varbaritone
     \key f \major
     \fourTwoCommonTime
 
@@ -207,16 +280,53 @@ bassoXX = \relative c {
 
     ef,4 bf f'2 | f f4 g2 ef4 d2 | d4 g2 f4 bf g a2 | a d4 bf2 f4 c' d |
 
-    c2 c f,4 f2 f4 | g2 g a1 | d, r1 | d a | R\breve | d2 g4 f bf,8[ c d e] f2|
-        c e 
+    c2 c f,4 f2 f4 | g2 g a1 | d, r1 | d a | R\breve | 
+        d2 g4 f bf,8([ c d e] f2) | c e 
 
     % --- page ---
-    g2 d | a' r2 r1 | R\breve*2 | r4 g g4. f8 ef4 g f2 | bf,1 c | d a | 
+    g2 d | a' r2 r1 | R\breve R | r4 g g4. f8 ef4 g f2 | bf,1 c | d a | 
         bf2. c4 d1 | g,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXX = \lyricmode {
+    Ba -- ci,
+%    ba -- ci,
+%    ba -- ci, ohi -- mè,
+%        ohi -- mè,
+        ohi -- mè non mi -- ra -- te,
+    ba -- ci,
+        ohi -- mè,
+        ohi -- mè,
+%    ba -- ci, ohi -- mè,
+    Che men -- tr'io par -- lo~o -- bli -- o
+    Co -- me l'o -- re sen van fu -- ga -- ci~e lie -- ve,
+    co -- me l'o -- re sen van,
+    co -- me l'o -- re sen van fu -- ga -- ci~e lie -- ve,
+    Ba -- cia -- te, 
+    \ijLyrics
+    ba -- cia -- te, 
+    \normalLyrics
+    Ba -- cia -- te, 
+%        ohi -- mè,
+%        ohi -- mè,
+        ohi -- mè ba -- cia -- te:
+    Lun -- go~è'l no -- stro de -- si -- o,
+    Ma la spe -- ran -- za~è fra -- le~il tem -- po~è bre -- ve.
+    Tac -- cia che gio -- ir de -- ve;
+    Ba -- ci, non sia -- te len -- ti,
+        non sia -- te len -- ti,
+    Ve -- ni -- te,
+    ve -- ni -- te,
+    ve -- ni -- te,
+    ve -- ni -- t'a mil -- le~a mil -- le,
+    Quan -- te son le fa -- vil -- le
+    Del mio bel fo -- co~e quan -- ti~i rag -- gi~ar -- den -- ti,
+    Mia lu -- ce~han gli~oc -- chi vo -- stri,
+    Sian tan -- ti~i ba -- ci no -- stri.
+    Ba -- ci, di tan -- te gio -- ie~u -- na sol re -- sta,
+    Che tut -- te l'al -- tre~a -- van -- za,
+    So -- la del cor spe -- ran -- za.
 }
 
 quintoXXincipit = \relative c'' {
@@ -227,8 +337,8 @@ quintoXXincipit = \relative c'' {
     d1
 }
 
+% quinto: checked against source
 quintoXX = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCommonTime
 
@@ -263,6 +373,41 @@ quintoXX = \relative c'' {
 }
 
 quintoLyricsXX = \lyricmode {
+    Ba -- ci,
+%    ba -- ci,
+%    ba -- ci, ohi -- mè,
+        ohi -- mè non mi -- ra -- te,
+    ba -- ci,
+        ohi -- mè,
+        ohi -- mè non mi -- ra -- te,
+    Che men -- tr'io par -- lo~o -- bli -- o __
+    Co -- me l'o -- re sen van,
+%    co -- me l'o -- re sen van fu -- ga -- ci~e lie -- ve,
+        sen van fu -- ga -- ci~e lie -- ve,
+    \ijLyrics
+        sen van fu -- ga -- ci~e lie -- ve,
+    \normalLyrics
+%            fu -- ga -- ci~e lie -- ve,
+    Ba -- cia -- te, 
+    ba -- cia -- te, 
+    ba -- cia -- te, ohi -- mè ba -- cia -- te:
+    Lun -- go~è'l no -- stro de -- si -- o,
+    Ma la spe -- ran -- za~è fra -- le~il tem -- po~è bre -- ve.
+    Tac -- cia che gio -- ir de -- ve;
+    Ba -- ci, non sia -- te len -- ti,
+    Ve -- ni -- te,
+    ve -- ni -- te,
+%    ve -- ni -- te,
+    ve -- ni -- t'a mil -- le~a mil -- le,
+    ve -- ni -- t'a mil -- le~a mil -- le~a mil -- le~a mil -- le~a mil -- le,
+    Quan -- te son le fa -- vil -- le
+    Del mio bel fo -- co~e quan -- ti~i rag -- gi~ar -- den -- ti,
+    Mia lu -- ce~han gli~oc -- chi vo -- stri,
+    Sian tan -- ti~i ba -- ci no -- stri.
+    Ba -- ci, di tan -- te gio -- ie~u -- na sol re -- sta,
+    Che tut -- te l'al -- tre~a -- van -- za,
+    So -- la del cor spe -- ran -- za,
+    so -- la del cor spe -- ran -- za.
 }
 
 sestoXXincipit = \relative c' {
@@ -273,8 +418,8 @@ sestoXXincipit = \relative c' {
     d1
 }
 
+% sesto: checked against source
 sestoXX = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -285,7 +430,7 @@ sestoXX = \relative c' {
         g4 g, r2 c1 | bf2 d4 c2 e4 a2 | r4 c,
 
     bf4 a a8[ bf] c4 g2 | r2 g d'1 | d2 r4 d ef2 d | R\breve | 
-        r4 a c d e8([ a,] a'2) e4 | r1 d ~ | d2 c
+        r4 a cs d e8([ a,] a'2) e4 | r1 d ~ | d2 c
 
     bf1 | bf2 bf c f, | r4 f' f a f g e f | f f e2 f1 | r1 r2 r4 e ~ |
         e a, a2 r1 | r2 g'1 e4 c | 
@@ -293,10 +438,10 @@ sestoXX = \relative c' {
     bf4. c8 d4 d r2 r4 bf | bf4. c8 d1 d2 | r2 r4 f f2 f4 f | 
         f2 f r4 c c8[ d e f] | 
 
-    g4 c, c8[ d e f] g2 e | d d4 bf bf bf c2 | c r2 r1 | R\breve*5 | 
+    g4 c, c8[ d e f] g2 e | d d4 bf bf bf c2 | c r2 r1 | R\breve R\breve*4 | 
         f1 e | d2 g4 f 
 
-    bf8([ c d e] f4) f | r1 r4 f,2 a4 | c2 g1 a2 | r4 a d4. c8 bf4 d c2 |
+    bf,8([ c d e] f4) f | r1 r4 f,2 a4 | c2 g1 a2 | r4 a d4. c8 bf4 d c2 |
         f, c' d a |
 
     bf2. c4 d1 | g,4 bf bf bf bf bf c2 | bf1 r2 g'4 a ~ | a d, f1 e2 | 
@@ -305,6 +450,39 @@ sestoXX = \relative c' {
 }
 
 sestoLyricsXX = \lyricmode {
+    Ba -- ci,
+    ba -- ci,
+    ba -- ci, ohi -- mè,
+        ohi -- mè non mi -- ra -- te,
+%    Che men -- tr'io par -- lo~o -- bli -- o
+    Co -- me l'o -- re sen van,
+%    co -- me l'o -- re sen van fu -- ga -- ci~e lie -- ve,
+        sen van fu -- ga -- ci~e lie -- ve,
+    co -- me l'o -- re sen van,
+        sen van fu -- ga -- ci~e lie -- ve,
+    Ba -- cia -- te,
+    ba -- cia -- te,
+%        ohi -- mè,
+%        ohi -- mè,
+        ohi -- mè ba -- cia -- te:
+    Lun -- go~è'l no -- stro de -- si -- o,
+    Ma la spe -- ran -- za~è fra -- le~il tem -- po~è bre -- ve.
+%    Tac -- cia 
+        che __ gio -- ir % de -- ve;
+    Ba -- ci, non sia -- te len -- ti,
+        non sia -- te len -- ti,
+    Ve -- ni -- te,
+    ve -- ni -- te,
+    ve -- ni -- t'a mil -- le~a mil -- le~a mil -- le~a mil -- le~a mil -- le,
+    Quan -- te son le fa -- vil -- le
+%    Del mio bel fo -- co~e quan -- ti~i rag -- gi~ar -- den -- ti,
+%    Mia lu -- ce, han gli~oc -- chi vo -- stri,
+%    Sian tan -- ti~i ba -- ci no -- stri.
+    Ba -- ci, di tan -- te gio -- ie u -- na sol re -- sta,
+    Che tut -- te l'al -- tre~a -- van -- za,
+    So -- la del cor spe -- ran -- za,
+    che tut -- te l'al -- tre~a -- van -- za,
+    so -- la __ del cor spe -- ran -- za.
 }
 
 cantoXXincipitVoice = <<

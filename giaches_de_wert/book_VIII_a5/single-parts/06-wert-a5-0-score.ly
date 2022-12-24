@@ -21,6 +21,7 @@
     lastupdated = "2013-01-20"
     flats = 0
     final = "c"
+    poeticform = "ottava rima"
     shorttitle = "usciva_homai"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
@@ -91,13 +92,13 @@
         \fill-line {
             \column {
                 \line { Usciva omai del molle e fresco grembo }
-                \line { Della gran madre sua la notte oscura, }
-                \line { Aure lievi portando e largo nembo }
-                \line { Di sua rugiada preziosa e pura, }
-                \line { E scotendo del vel l'humido lembo, }
-                \line { Ne spargeva i fioretti e la verdura, }
-                \line { E i venticelli dibattendo l'ali, }
-                \line { Lusingavano il sonno de mortali. }
+                \line { della gran madre sua la notte oscura, }
+                \line { aure lievi portando e largo nembo }
+                \line { di sua rugiada preziosa e pura, }
+                \line { e scotendo del vel l'humido lembo, }
+                \line { ne spargeva i fioretti e la verdura, }
+                \line { e i venticelli dibattendo l'ali, }
+                \line { lusingavano il sonno de mortali. }
             }
             \column {
                 \line { Now from the fresh, the soft and tender bed }

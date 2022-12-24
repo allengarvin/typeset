@@ -21,6 +21,7 @@
     lastupdated = "2015-01-01"
     flats = 1
     final = "f"
+    poeticform = "ottava rima"
     shorttitle = "vezzosi_augelli"
     categories = "[madrigal,animal]"
     \include "include/distribution-header.ly"
@@ -91,13 +92,13 @@
         \fill-line {
             \column {
                 \line { Vezzosi augelli infra le verdi fronde }
-                \line { Temprano a prova lascivette note }
-                \line { Mormora l’aura, e fa le foglie e l’onde }
-                \line { Garrir, che variamente ella percote }
-                \line { Quando taccion gli augelli, alto risponde; }
+                \line { temprano a prova lascivette note }
+                \line { mormora l’aura, e fa le foglie e l’onde }
+                \line { garrir, che variamente ella percote }
+                \line { quando taccion gli augelli, alto risponde; }
                 \line { Quando cantan gli augei, più lieve scote. }
-                \line { Sia caso o d'arte, or accompagna, ed ora }
-                \line { Alterna i versi lor la musica ora.  }
+                \line { sia caso o d'arte, or accompagna, ed ora }
+                \line { alterna i versi lor la musica ora.  }
             }
             \column {
                 \line { The joyous birds hid under greenwood shade }

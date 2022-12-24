@@ -21,6 +21,7 @@
     lastupdated = "2014-11-29"
     flats = 1
     final = "g"
+    poeticform = "madrigal"
     shorttitle = "si_come_ai_freschi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
@@ -95,13 +96,13 @@
                 \line { Così la vostra man quando si stende }
                 \line { Ai lumi dolci e gai, }
                 \line { Se non che quella si disfiora e solve }
-                \line { Tosto ch’el sol si volve, }
+                \line { Tosto ch'el sol si volve, }
                 \line { Ma la man vostra ha più vaghezza sempre }
-                \line { De l’amorose tempre, }
-                \line { Di que’ begl’occhi ond’è il mio cor di polve. }
-                \line { Ben essi fan ch’ei si distrugg’e stempre }
+                \line { De l'amorose tempre, }
+                \line { Di que' begl'occhi ond'è il mio cor di polve. }
+                \line { Ben essi fan ch'ei si distrugg'e stempre }
                 \line { In foco tal che venga cenere }
-                \line { Pria ch’il foco in lui si spenga. }
+                \line { Pria ch'il foco in lui si spenga. }
             }
         }
     }

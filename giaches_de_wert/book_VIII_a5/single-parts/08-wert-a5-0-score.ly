@@ -22,6 +22,7 @@
     lastupdated = "2014-11-29"
     flats = 0
     final = "a"
+    poeticform = "ottava rima"
     shorttitle = "poscia_dicea_piangendo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

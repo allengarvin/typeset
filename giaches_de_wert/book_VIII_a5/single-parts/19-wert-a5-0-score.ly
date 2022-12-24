@@ -21,6 +21,7 @@
     flats = 0
     final = "d"
     shorttitle = "questi_odorati"
+    poeticform = "madrigal"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

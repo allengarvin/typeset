@@ -23,6 +23,7 @@
     lastupdated = "2014-12-31"
     flats = 1
     final = "g"
+    poeticform = "madrigal"
     shorttitle = "io_non_son_pero_morto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
@@ -94,15 +95,15 @@
         \fill-line {
             \column {
                 \line { Io non son però morto, }
-                \line { Donna, come pensate, }
-                \line { Perché più non m'amate; }
-                \line { Anzi ritorno in vita. }
-                \line { Ché l'alma in voi sepolta }
-                \line { Da voi sendosi sciolta }
-                \line { Si trova esser uscita }
-                \line { D'una prigion mortale; }
+                \line { donna, come pensate, }
+                \line { perché più non m'amate; }
+                \line { anzi ritorno in vita. }
+                \line { ché l'alma in voi sepolta }
+                \line { da voi sendosi sciolta }
+                \line { si trova esser uscita }
+                \line { d'una prigion mortale; }
                 \line { E cangia in vita e in ben }
-                \line { La morte e'l male. }
+                \line { la morte e'l male. }
             }
 % May be copyright encumbered. Can't remember where I got this:
 %            \column {

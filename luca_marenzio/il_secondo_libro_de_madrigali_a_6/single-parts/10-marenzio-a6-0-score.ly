@@ -23,7 +23,7 @@
     final = "c"
     flats = 0
     needtranslation = #'t
-    folio = \markup { Torquato Tasso, \italic{Rime} 247 }
+    folio = \markup { Torquato Tasso, \italic{Rime} 395 }
 
     % Unchanging:
     language = "italian"

@@ -23,6 +23,7 @@
     flats = 0
     final = "e"
     shorttitle = "sia_questa"
+    poeticform = "ottava rima"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

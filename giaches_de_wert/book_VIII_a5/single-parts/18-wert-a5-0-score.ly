@@ -21,6 +21,7 @@
     lastupdated = "2014-11-30"
     flats = 0
     final = "d"
+    poeticform = "eclogue"
     shorttitle = "non_sospirar_pastor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

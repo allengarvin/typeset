@@ -22,6 +22,7 @@
     flats = 0
     final = "e"
     shorttitle = "forsennata_gridava"
+    poeticform = "ottava rima"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

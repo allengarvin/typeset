@@ -22,6 +22,7 @@
     lastupdated = "2014-11-29"
     flats = 0
     final = "a"
+    poeticform = "ottava rima"
     shorttitle = "misera_non_credea"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

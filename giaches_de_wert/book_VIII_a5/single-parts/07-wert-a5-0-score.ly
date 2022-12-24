@@ -22,6 +22,7 @@
     lastupdated = "2014-08-16"
     flats = 0
     final = "d"
+    poeticform = "ottava rima"
     shorttitle = "sovente_allor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

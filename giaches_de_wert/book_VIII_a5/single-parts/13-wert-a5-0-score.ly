@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     shorttitle = "poi_comincio"
+    poeticform = "ottava rima"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

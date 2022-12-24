@@ -20,6 +20,7 @@
     lastupdated = "2015-01-01"
     flats = 1
     final = "f"
+    poeticform = "madrigal"
     shorttitle = "non_e_si_denso_velo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
@@ -97,7 +98,7 @@
                 \line { Che ne mari ne fiumi }
                 \line { Ne paesi longiqui }
                 \line { Faran giamai che non mi sian propinqui. }
-                \line { I gl'hò si affissi a gl'occhi }
+                \line { Ii gli ho si affissi a gli occhi }
                 \line { Ch'a ogni sguardo ch'io scocchi }
                 \line { Parmi che quel splendor mi fenda il viso }
                 \line { Ch'in vita mi mantien poi che m'hà ucciso. }

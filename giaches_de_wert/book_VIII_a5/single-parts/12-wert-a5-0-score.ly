@@ -22,6 +22,7 @@
     lastupdated = "2012-11-15"
     flats = 0
     final = "a"
+    poeticform = "ottava rima"
     shorttitle = "qual_musico"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

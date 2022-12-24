@@ -1,9 +1,10 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1591__gastoldi_giovanni_giacomo__balletti_a_5_voci
     typeset_directory: giacomo_gastoldi/balletti_a_5_voci
 source:
-    city: Antwerp
+    city: Venice
     date_exact: true
-    title: Balletti a cinque voci
-    year: 1596
+    press: Amadino press
+    title: Balletti a 5 voci
+    year: 1591
