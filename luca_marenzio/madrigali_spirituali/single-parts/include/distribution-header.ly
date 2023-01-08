@@ -1,5 +1,5 @@
     composer = "Luca Marenzio (c.1553-1599)"
-    source = \markup { \italic { Il quarto libro de madrigali à cinque voci } (Vincenzi e Amadino press, Venice, 1584) }
+    source = \markup { \italic { Madrigali spirituali a 5 voci, libro primo } (Alessandro Gardano press, Rome, 1584) }
     style = "Renaissance"
     
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?

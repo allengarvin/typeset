@@ -76,7 +76,7 @@ altoI = \relative c' {
     \fourTwoCutTime
     \key c \major
 
-    s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Prima parte" } } #})
+    % s1*0 #(if *is-parts* #{<> ^\markup { \italic { "Prima parte" } } #})
     r2 e2.( d4 c b | a1) e'2 g ~ | g4( f e d c2) b4 a | gs1 gs | a2. a4 b2 c |
         e1 fs | r1 g ~ | g2 f e1 | e2 d c c |
 

@@ -14,14 +14,12 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Spirto a cui giova"
-    subtitle = ""
-    instrument = "Spirto a cui giova:  (score)"
+    subsubtitle = "(transposed down a 5th)"
+    instrument = "Spirto a cui giova: (transposed down a 5th) (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "spirto_a_cui_giova"
     shortcomp = "marenzio"
-    categories = "[madrigal]"
-    final = "c"
-    flats = 0
+    categories = "[]"
     needtranslation = #'t
 
     % Unchanging:
@@ -32,7 +30,7 @@
 \include "../parts/14-marenzio-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "14-marenzio--spirto_a_cui_giova-"
+    \bookOutputName "14-marenzio--spirto_a_cui_giova-transposed_5th"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -43,31 +41,31 @@
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoXIVincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose g c
                     \cantoXIV
                 >>
              \addlyrics { \cantoLyricsXIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoXIVincipitVoice
-                    \clef "treble"
-                    \global
+                    \clef "treble_8"
+                    \global\transpose g c
                     \altoXIV
                 >>
              \addlyrics { \altoLyricsXIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoXIVincipitVoice
-                    \clef "treble"
-                    \global
+                    \clef "treble_8"
+                    \global\transpose g c
                     \quintoXIV
                 >>
              \addlyrics { \quintoLyricsXIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreXIVincipitVoice
-                    \clef "treble"
-                    \global
+                    \clef "treble_8"
+                    \global\transpose g c
                     \tenoreXIV
                 >>
              \addlyrics { \tenoreLyricsXIV }
@@ -75,7 +73,7 @@
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoXIVincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose g c
                     \bassoXIV
                 >>
              \addlyrics { \bassoLyricsXIV }
@@ -98,15 +96,6 @@
                 \line { ma di virtù leggiadre e pellegrine: }
                 \line { portino i Cigni le tue lodi a volo }
                 \line { da l'uno a l'altro Polo. }
-            }
-            \column { 
-                \line { "(O)" Spirit, who spends its years to good end }
-                \line { in search of great treasure, }
-                \line { not of gems nor of gold, }
-                \line { but of virtues graceful and noble: }
-                \line { May the Swans carry your praises on wing }
-                \line { from one to the other Pole. }
-                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -7,12 +7,12 @@
 
 % pellegrine: (f,pl) strange, foreign, *noble*
 % a cui giova: serves, is useful to?
+% spender: fig. "spent"
 
 % meh, don't like the first two lines of this, my translation: 
 
-% (O) Spirit, who the years serve well to a happy end,
-    % there must be another meaning for spendere than to spend!!
-% spending a fine treasure,
+% (O) Spirit, who has spent its years to good end
+% in search of great treasure,
 % neither of gems nor of gold,
 % but of virtues graceful and noble:
 % May the Swans carry your praises on wing
