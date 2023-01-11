@@ -14,7 +14,7 @@
 
     % Things that change per part:
     instrument = "Chi la gagliarda (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -95,41 +95,43 @@
     \markup {
         \fill-line {
             \column {
-                \line { Chi la gagliarda donna vo imparare,  }
+                \line { 1. Chi la \auto-footnote "gagliarda" \italic "'gagliarda' could be the dance that's the direct object of 'imparare' or an adjective modifying 'donna': robust, vigorous." donna vo' imparare,  }
                 \line { Venite a nui che siamo mastri fini,  }
-                \line { Che de sera e de matina  }
+                \line { Che di sera e da mattini  }
                 \line { mai manchiamo di sonare: }
-                \line { Tan tan tan tarira,  }
-                \line { \hspace #2 rira, rira.  }
-                \line { \vspace #1 }
-                \line { Provange un poco cance voi chiamare, }
-                \line { Appassa diece volte che salimo, }
-                \line { Che de sera ... }
-                \line { \vspace #1 }
-                \line { Se la gagliarda donna vo imparare,  }
-                \line { Sotto lo maestro elle bisogna stare,  }
-                \line { Che de sera ... }
-                \line { \vpsace #1 }
-                \line { A che e principiante li vo dare,  }
-                \line { Questo compagnio ch'a nome Martino,  }
-                \line { Che de sera ... }
+                \line { Tan tan tan tarira, rira, rira.  }
+                \line {     \vspace #1 }
+                \line { 2.  Provance un poco cance vuoi chiamare, }
+                \line { A passa diece volte che salimo, }
+                \line { Che di sera ... }
+                \line {     \vspace #1 }
+                \line { 3. Se la gagliarda donna vuoi imparare,  }
+                \line { Sotto lo mastro el te bisogna stare,  }
+                \line { Che di sera ... }
+                \line {     \vspace #1 }
+                \line { 4. A chi è principiante li vo dare,  }
+                \line { Questo compagno ch'ha nome Martini,  }
+                \line { Che di sera ... }
             }
             \column {
-% Who wants to learn the galliard, lady,
-% Come to us that are the crafty masters
-% From the night to the day
-% We never stop playing.
-% Tan tan tan tarira,
-% \hspace #2 rira, rira.
-% Try a little [dance] we ask of you
-% [...]?
-% From the night...
-% If the galliard, lady, you wish to learn
-% Under the master she needs to stay.
-% From the night...
-% ...
-% This partner whose name is Martino
-% From the night...
+                \line { 1. Who wants to learn the Galliard, lady, }
+                \line { come to us as we are experienced masters. }
+                \line { From the night till the morning }
+                \line { we never lack for playing: }
+                \line { Tan tan tan tarira, rira, rira.  }
+                \line {     \vspace #1 }
+                \line { 2.  Try a little dance, you'll want to cry out }
+                \line { At ten steps we jump. }
+                \line { From the night ... }
+                \line {     \vspace #1 }
+                \line { 3. If the Galliard you wish to learn }
+                \line { under the master you have to stay. }
+                \line { From the night ... }
+                \line {     \vspace #1 }
+                \line { 4. To whom is the beginner we'll give to them }
+                \line { this partner who has the name Martini. }
+                \line { From the night ... }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

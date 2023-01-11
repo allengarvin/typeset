@@ -31,15 +31,15 @@ cantusXIV = \relative c'' {
 cantusLyricsXIVone = \lyricmode {
  \set stanza = #"1. "
     Chi la ga -- gliar -- da,
-    Chi la ga -- gliar -- da don -- na vo im -- pa -- ra -- re, 
+    Chi la ga -- gliar -- da don -- na vo' im -- pa -- ra -- re, 
     Chi la ga -- gliar -- da,
     \ijLyrics Chi la ga -- gliar -- da \normalLyrics
-        don -- na vo im -- pa -- ra -- re, 
+        don -- na vo' im -- pa -- ra -- re, 
 
     Ve -- ni -- te~a nui che sia -- mo, ma -- stri fi -- ni, 
         ma -- stri fi -- ni, 
         ma -- stri fi -- ni, 
-    Che de se -- ra~e de ma -- ti -- na 
+    Che di se -- ra~e da mat -- ti -- ni 
     mai man -- chia -- mo,
     mai man -- chia -- mo di so -- na -- re:
     Tan tan tan ta -- ri -- ra, 
@@ -53,17 +53,17 @@ cantusLyricsXIVone = \lyricmode {
 
 cantusLyricsXIVtwo = \lyricmode {
  \set stanza = #"2. "
-    Pro -- van -- ge~un po -- co,
-    Pro -- van -- ge~un po -- co can -- ce voi chia -- ma - re,
-    Pro -- van -- ge~un po -- co,
-    Pro -- van -- ge~un po -- co can -- ce voi chia -- ma - re,
+    Pro -- van -- ce~un po -- co,
+    Pro -- van -- ce~un po -- co can -- ce vuoi chia -- ma - re,
+    Pro -- van -- ce~un po -- co,
+    Pro -- van -- ce~un po -- co can -- ce vuoi chia -- ma - re,
 
-    Ap -- pas -- sa die -- ce vol -- te che sa -- li -- mo,
+    A pas -- sa die -- ce vol -- te che sa -- li -- mo,
         che sa -- li -- mo,
         che sa -- li -- mo,
 
-%    Che de se -- ra~e "..."
-%        de ma -- ti -- na 
+%    Che di se -- ra~e "..."
+%        da mat -- ti -- ni 
 %    mai man -- chia -- mo,
 %    mai man -- chia -- mo di so -- na -- re:
 %    Tan tan tan ta -- ri -- ra, 
@@ -77,27 +77,27 @@ cantusLyricsXIVtwo = \lyricmode {
 
 cantusLyricsXIVthree = \lyricmode {
  \set stanza = #"3. "
-    Chi la ga -- gliar -- da,
-    Chi la ga -- gliar -- da don -- na vo im -- pa -- ra -- re, 
-    Chi la ga -- gliar -- da,
-    Chi la ga -- gliar -- da don -- na vo im -- pa -- ra -- re, 
-    Sot -- to lo ma -- stro~el -- le bi -- so -- gni sta -- re, 
-        bi -- so -- gni star',
-        bi -- so -- gni star',
-%    Che de se -- ra~e "..."
+    Se la ga -- gliar -- da,
+    Se la ga -- gliar -- da don -- na vuoi im -- pa -- ra -- re, 
+    Se la ga -- gliar -- da,
+    Se la ga -- gliar -- da don -- na vuoi im -- pa -- ra -- re, 
+    Sot -- to lo ma -- stro~el te bi -- so -- gna sta -- re, 
+        bi -- so -- gna star',
+        bi -- so -- gna star',
+%    Che di se -- ra~e "..."
 }
 
 cantusLyricsXIVfour = \lyricmode {
  \set stanza = #"4. "
-    A che e prin -- ci
-    A che e prin -- ci -- pian -- te li vo da - re, 
-    A che e prin -- ci
-    A che e prin -- ci -- pian -- te li vo da - re, 
+    A chi è prin -- ci
+    A chi è prin -- ci -- pian -- te li vo da - re, 
+    A chi è prin -- ci
+    A chi è prin -- ci -- pian -- te li vo da - re, 
 
-    Que -- sto com -- pa -- gnio ch'a no -- me Mar -- ti -- no, 
+    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- ni, 
         no -- me Mar -- tin',
         no -- me Mar -- tin',
-%    Che de se -- ra~e "..."
+%    Che di se -- ra~e "..."
 }
 
 altusXIVincipit = \relative c' {
@@ -134,12 +134,12 @@ altusLyricsXIVone = \lyricmode {
         don -- na vo~im -- pa -- ra -- re, 
     Chi la ga -- gliar -- da,
     \ijLyrics Chi la ga -- gliar -- da \normalLyrics
-        don -- na~vo im -- pa -- ra -- re, 
+        don -- na vo'~im -- pa -- ra -- re, 
 
     Ve -- ni -- te~a nui __ che sia -- mo, ma -- stri fi -- ni, 
         ma -- stri fi -- ni, 
         ma -- stri fi -- ni, 
-    Che de se -- ra~e de ma -- ti -- na 
+    Che di se -- ra~e da mat -- ti -- ni 
     mai man -- chia -- mo,
     mai man -- chia -- mo di so -- na -- re:
     Tan tan tan ta -- ri -- ra, 
@@ -153,41 +153,41 @@ altusLyricsXIVone = \lyricmode {
 
 altusLyricsXIVtwo = \lyricmode {
  \set stanza = #"2. "
-    Pro -- van -- ge~un po -- co,
-    Pro -- van -- ge~un po -- co can -- ce voi chia -- ma -- re,
-    Pro -- van -- ge~un po -- co,
-    Pro -- van -- ge~un po -- co can -- ce voi chia -- ma -- re,
+    Pro -- van -- ce~un po -- co,
+    Pro -- van -- ce~un po -- co can -- ce vuoi chia -- ma -- re,
+    Pro -- van -- ce~un po -- co,
+    Pro -- van -- ce~un po -- co can -- ce vuoi chia -- ma -- re,
 
-    Ap -- pas -- sa die -- ce vol -- te che sa -- li -- mo,
+    A pas -- sa die -- ce vol -- te che sa -- li -- mo,
         che sa -- li -- mo,
         che sa -- li -- mo,
 
-%    Che de se -- ra~e "..."
+%    Che di se -- ra~e "..."
 }
 
 altusLyricsXIVthree = \lyricmode {
  \set stanza = #"3. "
-    Chi la ga -- gliar -- da,
-    Chi la ga -- gliar -- da don -- na vo~im -- pa -- ra -- re, 
-    Chi la ga -- gliar -- da,
-    Chi la ga -- gliar -- da don -- na vo~im -- pa -- ra -- re, 
-    Sot -- to lo ma -- stro~el -- le bi -- so -- gni sta -- re, 
-        bi -- so -- gni star',
-        bi -- so -- gni star',
-%    Che de se -- ra~e "..."
+    Se la ga -- gliar -- da,
+    Se la ga -- gliar -- da don -- na vuoi~im -- pa -- ra -- re, 
+    Se la ga -- gliar -- da,
+    Se la ga -- gliar -- da don -- na vuoi~im -- pa -- ra -- re, 
+    Sot -- to lo ma -- stro~el te bi -- so -- gna sta -- re, 
+        bi -- so -- gna star',
+        bi -- so -- gna star',
+%    Che di se -- ra~e "..."
 }
 
 altusLyricsXIVfour = \lyricmode {
  \set stanza = #"4. "
-    A che e prin -- ci
-    A che e prin -- ci -- pian -- te li vo da -- re, 
-    A che e prin -- ci
-    A che e prin -- ci -- pian -- te li vo da -- re, 
+    A chi è prin -- ci
+    A chi è prin -- ci -- pian -- te li vo da -- re, 
+    A chi è prin -- ci
+    A chi è prin -- ci -- pian -- te li vo da -- re, 
 
-    Que -- sto com -- pa -- gnio ch'a no -- me Mar -- ti -- no, 
+    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- ni, 
         no -- me Mar -- tin',
         no -- me Mar -- tin',
-%    Che de se -- ra~e "..."
+%    Che di se -- ra~e "..."
 }
 
 tenorXIVincipit = \relative c' {
@@ -225,12 +225,12 @@ tenorLyricsXIVone = \lyricmode {
         don -- na vo~im -- pa -- ra -- re, 
     Chi la ga -- gliar -- da,
     \ijLyrics Chi la ga -- gliar -- da \normalLyrics
-        don -- na~vo im -- pa -- ra -- re, 
+        don -- na vo'~im -- pa -- ra -- re, 
 
     Ve -- ni -- te~a nui che sia -- mo, ma -- stri fi -- ni, 
         ma -- stri fi -- ni, 
         ma -- stri fi -- ni, 
-    Che de se -- ra~e de ma -- ti -- na 
+    Che di se -- ra~e da mat -- ti -- ni 
     mai man -- chia -- mo,
     mai man -- chia -- mo di so -- na -- re:
     Tan tan tan ta -- ri -- ra, 
@@ -244,41 +244,41 @@ tenorLyricsXIVone = \lyricmode {
 
 tenorLyricsXIVtwo = \lyricmode {
  \set stanza = #"2. "
-    Pro -- van -- ge~un po -- co,
-    Pro -- van -- ge~un po -- co can -- ce voi chia -- ma -- re,
-    Pro -- van -- ge~un po -- co,
-    Pro -- van -- ge~un po -- co can -- ce voi chia -- ma -- re,
+    Pro -- van -- ce~un po -- co,
+    Pro -- van -- ce~un po -- co can -- ce vuoi chia -- ma -- re,
+    Pro -- van -- ce~un po -- co,
+    Pro -- van -- ce~un po -- co can -- ce vuoi chia -- ma -- re,
 
-    Ap -- pas -- sa die -- ce vol -- te che sa -- li -- mo,
+    A pas -- sa die -- ce vol -- te che sa -- li -- mo,
         che sa -- li -- mo,
         che sa -- li -- mo,
 
-%    Che de se -- ra~e "..."
+%    Che di se -- ra~e "..."
 }
 
 tenorLyricsXIVthree = \lyricmode {
  \set stanza = #"3. "
-    Chi la ga -- gliar -- da,
-    Chi la ga -- gliar -- da don -- na vo~im -- pa -- ra -- re, 
-    Chi la ga -- gliar -- da,
-    Chi la ga -- gliar -- da don -- na vo~im -- pa -- ra -- re, 
-    Sot -- to lo ma -- stro~el -- le bi -- so -- gni sta -- re, 
-        bi -- so -- gni star',
-        bi -- so -- gni star',
-%    Che de se -- ra~e "..."
+    Se la ga -- gliar -- da,
+    Se la ga -- gliar -- da don -- na vuoi~im -- pa -- ra -- re, 
+    Se la ga -- gliar -- da,
+    Se la ga -- gliar -- da don -- na vuoi~im -- pa -- ra -- re, 
+    Sot -- to lo ma -- stro~el te bi -- so -- gna sta -- re, 
+        bi -- so -- gna star',
+        bi -- so -- gna star',
+%    Che di se -- ra~e "..."
 }
 
 tenorLyricsXIVfour = \lyricmode {
  \set stanza = #"4. "
-    A che e prin -- ci
-    A che e prin -- ci -- pian -- te li vo da -- re, 
-    A che e prin -- ci
-    A che e prin -- ci -- pian -- te li vo da -- re, 
+    A chi è prin -- ci
+    A chi è prin -- ci -- pian -- te li vo da -- re, 
+    A chi è prin -- ci
+    A chi è prin -- ci -- pian -- te li vo da -- re, 
 
-    Que -- sto com -- pa -- gnio ch'a no -- me Mar -- ti -- no, 
+    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- ni, 
         no -- me Mar -- tin',
         no -- me Mar -- tin',
-%    Che de se -- ra~e "..."
+%    Che di se -- ra~e "..."
 }
 
 bassusXIVincipit = \relative c {
@@ -315,12 +315,12 @@ bassusLyricsXIVone = \lyricmode {
         don -- na vo~im -- pa -- ra -- re, 
     Chi la ga -- gliar -- da,
     \ijLyrics Chi la ga -- gliar -- da \normalLyrics
-        don -- na~vo im -- pa -- ra -- re, 
+        don -- na vo'~im -- pa -- ra -- re, 
 
     Ve -- ni -- te~a nui che sia -- mo, ma -- stri fi -- ni, 
         ma -- stri fi -- ni, 
         ma -- stri fi -- ni, 
-    Che de se -- ra~e de ma -- ti -- na 
+    Che di se -- ra~e da mat -- ti -- ni 
     mai man -- chia -- mo,
     mai man -- chia -- mo di so -- na -- re:
     Tan tan tan ta -- ri -- ra, 
@@ -334,41 +334,41 @@ bassusLyricsXIVone = \lyricmode {
 
 bassusLyricsXIVtwo = \lyricmode {
  \set stanza = #"2. "
-    Pro -- van -- ge~un po -- co,
-    Pro -- van -- ge~un po -- co can -- ce voi chia -- ma -- re,
-    Pro -- van -- ge~un po -- co,
-    Pro -- van -- ge~un po -- co can -- ce voi chia -- ma -- re,
+    Pro -- van -- ce~un po -- co,
+    Pro -- van -- ce~un po -- co can -- ce vuoi chia -- ma -- re,
+    Pro -- van -- ce~un po -- co,
+    Pro -- van -- ce~un po -- co can -- ce vuoi chia -- ma -- re,
 
-    Ap -- pas -- sa die -- ce vol -- te che sa -- li -- mo,
+    A pas -- sa die -- ce vol -- te che sa -- li -- mo,
         che sa -- li -- mo,
         che sa -- li -- mo,
 
-%    Che de se -- ra~e "..."
+%    Che di se -- ra~e "..."
 }
 
 bassusLyricsXIVthree = \lyricmode {
  \set stanza = #"3. "
-    Chi la ga -- gliar -- da,
-    Chi la ga -- gliar -- da don -- na vo~im -- pa -- ra -- re, 
-    Chi la ga -- gliar -- da,
-    Chi la ga -- gliar -- da don -- na vo~im -- pa -- ra -- re, 
-    Sot -- to lo ma -- stro~el -- le bi -- so -- gni sta -- re, 
-        bi -- so -- gni star',
-        bi -- so -- gni star',
-%    Che de se -- ra~e "..."
+    Se la ga -- gliar -- da,
+    Se la ga -- gliar -- da don -- na vuoi~im -- pa -- ra -- re, 
+    Se la ga -- gliar -- da,
+    Se la ga -- gliar -- da don -- na vuoi~im -- pa -- ra -- re, 
+    Sot -- to lo ma -- stro~el te bi -- so -- gna sta -- re, 
+        bi -- so -- gna star',
+        bi -- so -- gna star',
+%    Che di se -- ra~e "..."
 }
 
 bassusLyricsXIVfour = \lyricmode {
  \set stanza = #"4. "
-    A che e prin -- ci
-    A che e prin -- ci -- pian -- te li vo da -- re, 
-    A che e prin -- ci
-    A che e prin -- ci -- pian -- te li vo da -- re, 
+    A chi è prin -- ci
+    A chi è prin -- ci -- pian -- te li vo da -- re, 
+    A chi è prin -- ci
+    A chi è prin -- ci -- pian -- te li vo da -- re, 
 
-    Que -- sto com -- pa -- gnio ch'a no -- me Mar -- ti -- no, 
+    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- ni, 
         no -- me Mar -- tin',
         no -- me Mar -- tin',
-%    Che de se -- ra~e "..."
+%    Che di se -- ra~e "..."
 }
 
 cantusXIVincipitVoice = <<
