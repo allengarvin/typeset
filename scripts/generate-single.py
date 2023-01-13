@@ -33,6 +33,7 @@ def ascii_filter(s):
         'Æ':'AE', 'Œ':'OE', 
         'ß':'ss',
         '#':'no_',
+        "(" : "", ")" : "",
         ",":"", "'":"", "/":"", ";":"", ":":"-", "?":"", "’" : "", "." : "",
     }
     for c in filters.keys():
@@ -226,7 +227,7 @@ def main(argv):
         '\\include "{0}"'.format(real_parts), '',
     
         '\\book {',
-        '    \\bookOutputName "{0}-{1}--{2}-{3}"'.format(num, composer, ascii_filter(title.lower().replace(" ", "_")), ascii_filter(subtitle.lower().replace(" ", "_"))),
+        '    \\bookOutputName "{0}-{1}--{2}-{3}"'.format(num, composer, ascii_filter(title.lower().replace(" ", "_")), ascii_filter(subtitle.lower().replace(" ", "_").replace("(", "").replace(")", ""))),
         '    \\bookOutputSuffix "--{0}-score"'.format(output_num(0, pnum)),
         '    \\score {',
         '         <<',
@@ -286,10 +287,18 @@ def main(argv):
             '    \\markup {',
             '        \\fill-line {',
             '            \\column {',
-            '            }',
-            '        }',
-            '    }',
-        ]
+            '            }' ];
+        if args.language == "italian":
+            score_str += [
+                    '%           \\column {',
+                    '%               % translation orig date:',
+                    '%               % translation updated:',
+                    '%           }',
+                ]
+        score_str += [
+                '        }',
+                '    }',
+            ]
     score_str += [ '}' ]
     if not args.overwrite and os.path.isfile(args.score):
         print("{0}: already exists (use -o to overwrite)".format(args.score))
