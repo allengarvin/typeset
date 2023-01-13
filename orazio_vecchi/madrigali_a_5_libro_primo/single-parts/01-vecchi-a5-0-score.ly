@@ -110,7 +110,7 @@
                 \line { fills me with total joy and desire. }
                 \line { If in dying, no other pain were I to feel, }
                 \line { I would be happy with a thousand deaths a day.  }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

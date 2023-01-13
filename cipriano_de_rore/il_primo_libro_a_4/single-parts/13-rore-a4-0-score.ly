@@ -100,7 +100,7 @@
                 \line { And so, a thousand, thousand times a day, }
                 \line { I would wish to part from you, }
                 \line { so sweet are my returns. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

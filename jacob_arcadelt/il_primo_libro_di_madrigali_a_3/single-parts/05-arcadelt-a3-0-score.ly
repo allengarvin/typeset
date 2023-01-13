@@ -91,7 +91,7 @@
                 \line { Now to you I will say }
                 \line { Lift one torment, }
                 \line { As from two deaths I cannot die. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

@@ -107,7 +107,7 @@
                 \line { Envy, Jealousy, Worry and Scorn }
                 \line { to me, in the blind hell where }
                 \line { where my cruel agony would last eternally. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

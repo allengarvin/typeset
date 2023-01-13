@@ -111,7 +111,7 @@
                 \line { and make shorter the hours of my life, }
                 \line { my contented soul will depart from me }
                 \line { if by your hand I will lose my life. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

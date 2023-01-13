@@ -110,7 +110,7 @@
                 \line { is in vain to repent, and to end in grief, }
                 \line { for it is too much an error }
                 \line { for a blind youth to make himself so great a god. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

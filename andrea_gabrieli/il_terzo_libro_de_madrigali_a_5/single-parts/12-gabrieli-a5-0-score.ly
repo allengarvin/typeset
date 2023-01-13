@@ -106,7 +106,7 @@
                 \line { as I'm almost dead; }
                 \line { If you really wish at last, Lady, that I die, }
                 \line { Free my soul, that in you dwells. }
-                \line { \hspace #12 "(my translation)" }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

@@ -108,7 +108,7 @@
                 \line { At least do not take revenge }
                 \line { On the man who wounded lies, }
                 \line { Cry no longer war, but peace. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

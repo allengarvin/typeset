@@ -110,7 +110,7 @@
                 \line { burning in this condition; }
                 \line { But your frigidness is my worst pain }
                 \line { that constantly leads me to a sorrowful death. }
-                \line { \hspace #12 \italic { (my translation) } }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

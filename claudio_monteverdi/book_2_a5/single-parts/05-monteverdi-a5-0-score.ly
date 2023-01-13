@@ -109,7 +109,7 @@
                 \line { touches us but a little }
                 \line { then they both would be base seaweeds, }
                 \line { daffodils and hyacynths, in contrast to us! }
-                \line { \hspace #10 -translation by editor (ATG) }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

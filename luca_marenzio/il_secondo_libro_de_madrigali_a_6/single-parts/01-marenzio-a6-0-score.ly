@@ -116,7 +116,7 @@
                 \line { of beauty that the world claims and adores, }
                 \line { that more than a thousand pages would be written }
                 \line { of your harsh cruelty with my desires. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

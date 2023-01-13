@@ -109,7 +109,7 @@
                 \line { much more preferring rest than mean stalks of corn. }
                 \line { The birds, the wild beasts, every man hides himself and quietens, }
                 \line { and only the Cicada does not feel at peace. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

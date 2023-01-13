@@ -104,7 +104,7 @@
                 \line { I have picked for you, with my own hand, from a thousand plants; }
                 \line { And for my pure faith, }
                 \line { give me a kiss instead, in trade. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

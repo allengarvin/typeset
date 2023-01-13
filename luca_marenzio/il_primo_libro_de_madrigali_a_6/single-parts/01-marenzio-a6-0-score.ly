@@ -111,7 +111,7 @@
                 \line { set alight the heavens, and every hidden part of it, }
                 \line { then, discovering her graceful face, }
                 \line { reveals all the beauty of Paradise. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

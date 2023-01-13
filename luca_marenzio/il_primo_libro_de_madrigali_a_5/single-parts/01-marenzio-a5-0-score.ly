@@ -104,7 +104,7 @@
                 \line { burns from a fiercer flame; }
                 \line { Ah, it alone suffices, }
                 \line { that first ardent pain, to bring me death. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

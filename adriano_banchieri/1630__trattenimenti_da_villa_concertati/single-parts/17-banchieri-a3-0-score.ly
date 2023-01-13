@@ -90,7 +90,7 @@
                 \line { Lovely tresses to your black }
                 \line { that frollick around your face: }
                 \line { You are the night, and your eyes are day. }
-                \line { \hspace #8 -translation by editor (ATG) }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

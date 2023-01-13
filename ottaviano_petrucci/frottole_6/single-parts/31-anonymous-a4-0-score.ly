@@ -156,7 +156,7 @@
                 \line { It won't yet do you harm, }
                 \line { If I seem to you too demure, }
                 \line { here love makes me stand firm. }
-                \line { \hspace #10 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

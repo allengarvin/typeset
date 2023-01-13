@@ -106,7 +106,7 @@
                 \line { either torment or mercy }
                 \line { My heart shall neither live nor die for us, }
                 \line { yours will neither rejoice or suffer. }
-                \line { \hspace #12 \italic { my translation } }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

@@ -172,7 +172,7 @@
                 \line { ties together your heart and mine }
                 \line { that never will it be reduced or unbound, }
                 \line { by neither time nor death. }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

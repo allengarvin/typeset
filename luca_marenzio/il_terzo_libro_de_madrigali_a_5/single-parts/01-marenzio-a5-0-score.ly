@@ -92,11 +92,11 @@
         \fill-line {
             \column {
                 \line { Madonna poi che uccider mi volete }
-                \line { Non nego di morire, }
-                \line { Ma se con dolci sguardi voi potete }
-                \line { La mia vita finire, }
-                \line { Non è più giusta voglia }
-                \line { Ch'io muoia di dolcezza che di doglia? }
+                \line { non nego di morire, }
+                \line { ma se con dolci sguardi voi potete }
+                \line { la mia vita finire, }
+                \line { non è più giusta voglia }
+                \line { ch'io muoia di dolcezza che di doglia? }
             }
             \column {
                 \line { Lady, since you want to kill me }
@@ -105,7 +105,7 @@
                 \line { end my life, }
                 \line { is it not a more just desire }
                 \line { that I die of sweetness than of pain? }
-                \line { \hspace #12 (my translation) }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }
