@@ -15,6 +15,7 @@
     instrument = "Il dì s'appressa:  (score)"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
     headerspace = \markup { \vspace #2 }
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

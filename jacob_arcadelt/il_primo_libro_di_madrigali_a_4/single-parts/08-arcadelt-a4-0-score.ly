@@ -15,6 +15,7 @@
     instrument = "Occhi miei lassi:  (score)"
     headerspace = \markup { \vspace #2 }
     folio = \markup { Petrarca, \italic{Canzoniere} XIV (14) }
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

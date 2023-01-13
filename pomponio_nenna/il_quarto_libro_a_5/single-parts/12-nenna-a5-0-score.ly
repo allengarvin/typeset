@@ -22,7 +22,7 @@
     categories = "[madrigal]"
     final = "f"
     flats = 1
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

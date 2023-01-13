@@ -13,7 +13,7 @@
     title = "Cantavan quatro legiadrette Ninfe"
     subtitle = "Prima parte"
     instrument = "Cantavan quatro legiadrette Ninfe: Prima parte (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -73,13 +73,21 @@
     \markup {
         \fill-line {
             \column {
-                \line { Cantavan quatro legiadrette Ninfe, }
-                \line { In si soavi accenti; }
-                \line { Ch'acquetarono il mar fermar i venti }
-                \line { Quando appresso lo belle }
-                \line { Damon s'assise, }
-                \line { E raddoppiò i concenti, }
-                \line { Spargend'il suon in queste parti e'n quelle. }
+                \line { Cantavan quattro legiadrette Ninfe, }
+                \line { in sì soavi accenti }
+                \line { ch'acquetarono il mar fermar i venti, }
+                \line { quando appresso le belle }
+                \line { Damon s'assise, e raddoppiò i concenti, }
+                \line { spargend'il suon in queste parti e'n quelle. }
+            }
+            \column {
+                \line { Four graceful nymphs were singing }
+                \line { in such sweet tones }
+                \line { so as to calm the seas, to still the winds; }
+                \line { When near the beautiful ones }
+                \line { Damon seated himself, and redoubled their harmony }
+                \line { spreading the sound far and wide. }
+                \line { \hspace #10 \italic { Translation by editor } }
             }
         }
     }

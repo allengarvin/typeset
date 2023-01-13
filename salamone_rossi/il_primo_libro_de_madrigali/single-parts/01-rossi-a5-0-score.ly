@@ -13,7 +13,7 @@
     title = "Pur venisti, cor mio"
     subtitle = ""
     instrument = "Pur venisti, cor mio:  (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Giovanni Battista Guarini (1538-1612)"
 

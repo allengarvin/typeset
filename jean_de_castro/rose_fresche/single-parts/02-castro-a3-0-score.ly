@@ -73,12 +73,20 @@
     \markup {
         \fill-line {
             \column {
-                \line { Onde io per meglio udire, }
-                \line { Cosi grata armonia, }
-                \line { V'accorsi vidi m'altro desire; }
+                \line { Onde io per meglio udire }
+                \line { così grata armonia, }
+                \line { v'accorsi vidi m'altro desire; }
                 \line { Sento da quel de pria }
-                \line { Che libero v'andai preso ritorno  }
-                \line { Dal dolce canto d'una Ninfa adorno. }
+                \line { che libero v'andai preso ritorno  }
+                \line { dal dolce canto d'una Ninfa adorno. }
+            }
+            \column {
+                \line { Thus I, the better to hear }
+                \line { such pleasant harmony, }
+                \line { noticed you and saw nothing else I ever desired: }
+                \line { I went freely, but I return captive, }
+                \line { by the sweet song of a beautiful Nymph. }
+                \line { \hspace #10 \italic { Translation by editor } }
             }
         }
     }

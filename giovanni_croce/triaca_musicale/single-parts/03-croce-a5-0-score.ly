@@ -13,6 +13,7 @@
     title = "Canzon del Cucco e Rossignuolo"
     language = "italian"
     subtitle = "con la sentenza del Pappagallo"
+    needtranslation = #'f
 
     instrument = "Canzon del Cucco e Rossignuolo (score)"
 
@@ -178,7 +179,7 @@
                 \line { Cuckoo! cuckoo! cuckoo! }
                 \line { Long live the Cu! }
                 \line { Cuckoo! cuckoo! cuckoo! }
-                \line { \italic { translated by ATG } }
+                \line { \italic { translated by editor } }
             }
         }
     }

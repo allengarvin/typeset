@@ -17,7 +17,7 @@
     shortcomp = "zarlino"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXV (365) }
     composer = "Gioseffo Zarlino (1517-1590)"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

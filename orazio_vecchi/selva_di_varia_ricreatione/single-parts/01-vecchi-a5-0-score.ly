@@ -14,6 +14,7 @@
     subtitle = ""
     instrument = "Se desio di fuggir:  (score)"
     headerspace = \markup { \vspace #2 }
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

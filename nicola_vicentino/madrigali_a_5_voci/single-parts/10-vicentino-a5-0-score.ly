@@ -18,6 +18,7 @@
 
     % Unchanging:
     lastupdated = "2015-07-20"
+    needtranslation = #'f
     flats = 1
     final = "d"
     shorttitle = "laura_chel_verde_lauro"

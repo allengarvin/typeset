@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "O beltà rara, O santi modi adorni"
     instrument = "O beltà rara(score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Luigi Alamanni (1495-1556)"
 

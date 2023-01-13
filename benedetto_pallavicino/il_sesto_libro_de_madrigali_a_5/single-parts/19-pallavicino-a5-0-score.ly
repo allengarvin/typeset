@@ -17,7 +17,7 @@
     shorttitle = "ma_grideran_per_me_le_piaggie_e_i_monti"
     shortcomp = "pallavicino"
     folio = \markup { Giovanni Battista Guarini, \italic{Il Pastor Fido} Atto I Scena 2 }
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

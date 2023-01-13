@@ -14,6 +14,7 @@
     language = "italian"
     subtitle = "Seconda parte"
     instrument = "Ma se tempo gia mai verrà (score)"
+    needtranslation = #'f
     folio = "Anonymous poet"
 
     % Unchanging:

@@ -1,6 +1,6 @@
 %Onde io per meglio udire,
 %Cosi grata armonia,
-%V'accorsi vidi m'altro desire;
+%V'accorsi vidi m'altro desire 
 %Sento da quel de pria
 %Che libero v'andai preso ritorno 
 %Dal dolce canto d'una Ninfa adorno.
@@ -49,7 +49,7 @@ cantoLyricsII = \lyricmode {
     \ijLyrics
     on -- de~io per me -- glio~u -- di -- re,
     \normalLyrics
-    on -- de~io per me -- glio~u -- di -- re,
+    on -- de~io per me -- glio~u -- di -- re
     Co -- sì gra -- ta,
     co -- sì gra -- ta ar -- mo -- ni -- a
     V'ac -- cor -- si,
@@ -111,7 +111,7 @@ tenoreLyricsII = \lyricmode {
     On -- de~io per me -- glio~u -- di -- re,
     on -- de~io per me -- glio~u -- di -- re,
     on -- de~io __ per me -- glio~u -- di -- re,
-        per me -- glio~u -- di -- re,
+        per me -- glio~u -- di -- re
     Co -- sì gra -- ta,
     co -- sì gra -- ta~ar -- mo -- ni -- a
     V'ac -- cor -- si,
@@ -178,7 +178,7 @@ bassoLyricsII = \lyricmode {
             m'al -- tro de -- si -- re,
             m'al -- tro de -- si -- re,
     \ijLyrics
-            m'al -- tro de -- si -- re;
+            m'al -- tro de -- si -- re
     \normalLyrics
     Sen -- to da quel de pri -- a,
         de pri -- a

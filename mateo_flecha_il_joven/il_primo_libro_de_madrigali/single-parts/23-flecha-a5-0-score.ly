@@ -15,6 +15,7 @@
     instrument = "Sperando alfin da le soavi piante: Terza parte (score)"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCXX (320) }
     headerspace = \markup { \vspace #2 }
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Fuggi, speme mia, fuggi"
     instrument = "Fuggi, speme mia (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
 

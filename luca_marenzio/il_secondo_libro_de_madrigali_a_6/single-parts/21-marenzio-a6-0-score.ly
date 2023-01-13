@@ -15,6 +15,7 @@
     instrument = "Fuggendo tutte di paura piene: Terza e ultima parte (score)"
     headerspace = \markup { \vspace #2 }
     folio = "Franco Sacchetti (1332-1400)"
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

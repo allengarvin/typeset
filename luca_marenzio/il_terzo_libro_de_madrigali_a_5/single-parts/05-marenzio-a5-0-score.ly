@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "per_voi_conven_chio_arda"
     shortcomp = "marenzio"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CCLXVII (267) }
 
     % Unchanging:

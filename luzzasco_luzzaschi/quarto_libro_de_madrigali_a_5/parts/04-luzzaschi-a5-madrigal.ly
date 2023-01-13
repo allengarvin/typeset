@@ -8,15 +8,17 @@
 % che qui sol bella parve a gli occhi miei.
 %     - Orsina Cavaletta
 % 
-% Newcomb:
-% While the night adorned the borders of its beautiful mantle
+
+% my translation:
+% While the night adorned the hem of its beautiful cloak
 % with stars,
-% a shepherd said,
-% pouring forth a large shower of tears:
-% Holy, bright, and living lights of the heavens,
-% you are rather less beautiful than the eyes of her
-% who alone apeared beautiful to my eyes.
-% 
+% a shepherd spoke,
+% pouring out a storm of tears:
+% Blessed, shining lights of the living heavens,
+% you are much less beautiful
+% than the eyes of she
+% who alone appeared beautiful before my own eyes.
+
 % Poem via Rime di diversi celebri poeti dell'età nostra (Bergamo: 1587)
 
 cantoIVincipit = \relative c'' {

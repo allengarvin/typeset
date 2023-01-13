@@ -12,6 +12,7 @@
     subtitle = "Prima parte"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCX (310) }
     instrument = "Zefiro torna (score)"
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

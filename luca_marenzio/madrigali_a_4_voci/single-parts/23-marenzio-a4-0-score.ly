@@ -12,6 +12,7 @@
     subtitle = "Seconda parte"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCX (310) }
     instrument = "Ma per me, lasso (score)"
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

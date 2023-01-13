@@ -103,34 +103,37 @@
             }
         }
     }
-    \markup { \fill-line {
-        \column { \line { \italic { "Prima parte" } } }
-    } }
     \markup {
         \fill-line {
             \column {
-                \line { Cantavan quatro legiadrette Ninfe, }
-                \line { In si soavi accenti; }
-                \line { Ch'acquetarono il mar fermar i venti }
-                \line { Quando appresso lo belle }
-                \line { Damon s'assise, }
-                \line { E raddoppiò i concenti, }
-                \line { Spargend'il suon in queste parti e'n quelle. }
-            }
-        }
-    }
-    \markup { \fill-line {
-        \column { \line { \vspace #1 } \line { \italic { "Seconda parte" } } }
-    } }
-    \markup {
-        \fill-line {
-            \column {
-                \line { Onde io per meglio udire, }
-                \line { Cosi grata armonia, }
-                \line { V'accorsi vidi m'altro desire; }
+                \line { Cantavan quattro legiadrette Ninfe, }
+                \line { in sì soavi accenti }
+                \line { ch'acquetarono il mar fermar i venti, }
+                \line { quando appresso le belle }
+                \line { Damon s'assise, e raddoppiò i concenti, }
+                \line { spargend'il suon in queste parti e'n quelle. }
+                \line { \vspace #1 }
+                \line { Onde io per meglio udire }
+                \line { così grata armonia, }
+                \line { v'accorsi vidi m'altro desire; }
                 \line { Sento da quel de pria }
-                \line { Che libero v'andai preso ritorno  }
-                \line { Dal dolce canto d'una Ninfa adorno. }
+                \line { che libero v'andai preso ritorno  }
+                \line { dal dolce canto d'una Ninfa adorno. }
+            }
+            \column {
+                \line { Four graceful nymphs were singing }
+                \line { in such sweet tones }
+                \line { so as to calm the seas, to still the winds; }
+                \line { When near the beautiful ones }
+                \line { Damon seated himself, and redoubled their harmony }
+                \line { spreading the sound far and wide. }
+                \line { \vspace #1 }
+                \line { Thus I, the better to hear }
+                \line { such pleasant harmony, }
+                \line { noticed you and saw nothing else I ever desired: }
+                \line { I went freely, but I return captive, }
+                \line { by the sweet song of a beautiful Nymph. }
+                \line { \hspace #10 \italic { Translation by editor } }
             }
         }
     }

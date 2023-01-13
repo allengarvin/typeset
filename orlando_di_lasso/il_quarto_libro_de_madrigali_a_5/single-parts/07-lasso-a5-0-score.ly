@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_belta_rara_o_santi_modi_adorni"
     shortcomp = "lasso"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Luigi Alamanni (1495-1556)"
 
     % Unchanging:

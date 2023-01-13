@@ -14,6 +14,7 @@
     instrument = "Capriciata à 3 voci (score)"
 
     % Unchanging:
+    needtranslation = #'f
     language = "italian"
     originallyset = "2016-04-25"
     lastupdated = "2016-04-25"

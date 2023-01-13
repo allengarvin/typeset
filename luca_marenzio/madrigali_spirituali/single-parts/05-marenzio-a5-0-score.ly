@@ -22,7 +22,7 @@
     categories = "[madrigal]"
     final = "d"
     flats = 1
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Cristoforo Castelletti (d.1596)"
 
     % Unchanging:

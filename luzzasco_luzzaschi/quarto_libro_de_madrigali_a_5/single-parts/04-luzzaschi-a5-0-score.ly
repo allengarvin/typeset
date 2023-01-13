@@ -22,7 +22,7 @@
     categories = "[madrigal]"
     final = "a"
     flats = 0
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Orsina Cavaletta (d.1592)"
 
     % Unchanging:
@@ -101,6 +101,17 @@
                 \line { voi siete assai men belle }
                 \line { degli occhi di colei }
                 \line { che qui sol bella parve a gli occhi miei. }
+            }
+            \column {
+                \line { While the night adorned the hem of its beautiful cloak }
+                \line { with stars, }
+                \line { a shepherd spoke, }
+                \line { pouring out a storm of tears: }
+                \line { Blessed, shining lights of the living heavens, }
+                \line { you are much less beautiful }
+                \line { than the eyes of she }
+                \line { who alone appeared beautiful before my own eyes. }
+                \line { \hspace #10 \italic { Translation by editor } }
             }
         }
     }

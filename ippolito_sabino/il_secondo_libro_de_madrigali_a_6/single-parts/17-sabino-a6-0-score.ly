@@ -17,7 +17,7 @@
     shorttitle = "si_che_sio_vissi_in_guerra"
     shortcomp = "sabino"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXV (365) }
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

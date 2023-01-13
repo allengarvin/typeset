@@ -22,7 +22,7 @@
     categories = "[madrigal]"
     final = "a"
     flats = 0
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"
@@ -103,6 +103,20 @@
                 \line { l'ingombra e versa il vivo sangue fuore, }
                 \line { ahimè, non sa qual sia }
                 \line { maggior, la gioia o l'aspra pena ria. }
+            }
+            \column {
+                \line { Amongst the sweetness and the anger, }
+                \line { the joy and the suffering, }
+                \line { the youthful Clori }
+                \line { burns into ice and freezes in fire: }
+                \line { she feel pain and delight }
+                \line { for her dear Aminta, seized by Love; }
+                \line { She languishes, sighs sweetly, and lives and dies, }
+                \line { and while the pain of her mortal wound fills her breast }
+                \line { and spills out her living blood, }
+                \line { alas, she does not which would be }
+                \line { better, the joy or the bitter pain. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

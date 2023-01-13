@@ -15,6 +15,7 @@
     subtitle = "Seconda parte"
     folio = \markup { Petrarca, \italic{Canzoniere} LXXXV (85) }
     instrument = "Ma chi pensò (score)"
+    needtranslation = #'f
 
     % Unchanging:
     originallyset = "2013-09-11"

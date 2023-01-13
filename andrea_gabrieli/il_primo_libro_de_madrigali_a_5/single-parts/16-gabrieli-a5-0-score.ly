@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "ecco_laurora"
     shortcomp = "gabrieli"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Vincenzo Querini (1478-1514)"
 
     % Unchanging:

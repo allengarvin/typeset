@@ -22,7 +22,7 @@
     categories = "[madrigal]"
     final = "c"
     flats = 0
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Francesco Beccuti (1509-1553)"
 
     % Unchanging:

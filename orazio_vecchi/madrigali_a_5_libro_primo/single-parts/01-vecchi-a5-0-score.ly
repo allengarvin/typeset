@@ -14,6 +14,7 @@
     subtitle = ""
     instrument = "Il bianco e dolce cigno:  (score)"
     headerspace = \markup { \vspace #2 }
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

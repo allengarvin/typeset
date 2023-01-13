@@ -15,6 +15,7 @@
     instrument = "Crudel, acerba, inesorabil Morte:  (score)"
     headerspace = \markup { \vspace #2 }
     folio = \markup { Petrarca, \italic{Canzoniere} CCCXXXII (332) }
+    needtranslation = #'f
 
 
     % Unchanging:

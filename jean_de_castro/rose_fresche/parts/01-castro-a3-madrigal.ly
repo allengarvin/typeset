@@ -1,10 +1,45 @@
-%    Cantavan quatro legiadrette Ninfe,
-%    In si soavi accenti;
-%    Ch'acquetarono il mar fermar i venti
-%    Quando appresso lo belle
-%    Damon s'assise,
-%    E raddoppiò i concenti,
-%    Spargend'il suon in queste parti e'n quelle.
+% 1e parte:
+% Cantavan quattro legiadrette Ninfe,
+% in sì soavi accenti
+% ch'acquetarono il mar fermar i venti,
+% quando appresso le belle
+% Damon s'assise, e raddoppiò i concenti,
+% spargend'il suon in queste parti e'n quelle.
+% 
+% 2e parte:
+% Onde io per meglio udire
+% così grata armonia,
+% v'accorsi vidi m'altro desire;
+% Sento da quel de pria
+% che libero v'andai preso ritorno 
+% dal dolce canto d'una Ninfa adorno.
+% 
+% % % My translation:
+% Four graceful nymphs were singing
+% in such sweet tones
+% so as to calm the seas, to still the winds;
+% When near the beautiful ones
+% Damon seated himself, and redoubled their harmony
+% spreading the sound far and wide.
+% 
+% Thus I, the better to hear
+% such pleasant harmony,
+% noticed you and saw nothing else I ever desired:
+% I went freely, but I return captive,
+% by the sweet song of a beautiful Nymph.
+% 
+% Notes: 
+% acquetarono:      3rd person plural passato remoto for 'acquetare', a variant
+%                   spelling of acquietare
+% assise:           3rd person singular passato remoto of assidersi (to seat)
+%                   to sit, to lie (variant sedersi)
+% 
+% accorsi:          1st person passato remoto of accorrere, to rush, hurry
+%                    OR of accorgersi, notice!
+% vidi:             1st person passato remoto of vedere
+% pria:             poetic form of "prima"
+
+% Damon: probably a reference to Virgil's 3rd Eclogue.
 
 cantoIincipit = \relative c'' {
     \time 4/4
@@ -45,15 +80,15 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    Can -- ta -- van qua -- tro le -- gia -- dret -- te Nin -- fe,
+    Can -- ta -- van quat -- tro le -- gia -- dret -- te Nin -- fe,
     In si so -- a -- vi,
     in si so -- a -- vi,
     \ijLyrics
     in si so -- a -- vi,
     \normalLyrics
-    in si so -- a -- vi~ac -- cen -- ti;
+    in si so -- a -- vi~ac -- cen -- ti
     Ch'ac -- que -- ta -- ro -- no~il mar __ fer -- mar i ven -- ti
-    Quan -- do~ap -- pres -- so lo bel -- le
+    Quan -- do~ap -- pres -- so le bel -- le
     Da -- mon s'as -- si -- se,
     Da -- mon s'as -- si -- se,
     \ijLyrics
@@ -109,15 +144,15 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-    Can -- ta -- van qua -- tro le -- gia -- dret -- te Nin -- fe,
+    Can -- ta -- van quat -- tro le -- gia -- dret -- te Nin -- fe,
     In si so -- a -- vi,
     in si so -- a -- vi,
     \ijLyrics
     in si so -- a -- vi,
     \normalLyrics
-    in si so -- a -- vi~ac -- cen -- ti;
+    in si so -- a -- vi~ac -- cen -- ti
     Ch'ac -- que -- ta -- ro -- no~il mar fer -- mar i ven -- ti
-    Quan -- do~ap -- pres -- so lo bel -- le
+    Quan -- do~ap -- pres -- so le bel -- le
     Da -- mon s'as -- si -- se, __
     Da -- mon s'as -- si -- se,
     \ijLyrics
@@ -171,7 +206,7 @@ bassoLyricsI = \lyricmode {
     \ijLyrics
     in si so -- a -- vi,
     \normalLyrics
-    in si so -- a -- vi~ac -- cen -- ti;
+    in si so -- a -- vi~ac -- cen -- ti
     Ch'ac -- que -- ta -- ro -- no~il mar fer -- mar i ven -- ti
     Da -- mon s'as -- si -- se,
     E rad -- dop -- piò~i con -- cen -- ti,

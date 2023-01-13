@@ -119,8 +119,7 @@
                 \line { \vspace #0.5 }
                 \line { Unlucky me! Bereft of all aid, who against heaven and earth have offended.  }
                 \line { Where shall I go? Where shall I turn? To whom shall I flee? Who will have pity on me?  }
-                \line { I do not dare to lift up mine eyes to the heavens, because I have gravely sinned against them.  
-}
+                \line { I do not dare to lift up mine eyes to the heavens, because I have gravely sinned against them. }
                 \line { I find no refuge on earth, because I have been a disgrace to it.  }
                 \line { \vspace #0.5 }
                 \line { What, therefore, am I to do? Shall I despair?  }

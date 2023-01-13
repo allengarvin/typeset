@@ -20,6 +20,7 @@
     language = "italian"
     lastupdated = "2020-01-30"
     originallyset = "2020-01-30"
+    needtranslation = #'f
     flats = 1
     final = "f"
     categories = "[madrigal]"

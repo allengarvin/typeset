@@ -15,7 +15,7 @@
     folio = "Giovanni Battista Guarini (1538-1612)"
 
     instrument = "Thirsi morir volea (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

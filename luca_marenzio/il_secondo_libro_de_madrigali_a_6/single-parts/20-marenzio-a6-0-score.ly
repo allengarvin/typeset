@@ -15,6 +15,7 @@
     instrument = "Noi starem troppo, che'l tempo si turba: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
     folio = "Franco Sacchetti (1332-1400)"
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

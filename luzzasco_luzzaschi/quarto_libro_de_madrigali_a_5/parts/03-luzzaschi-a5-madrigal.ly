@@ -10,19 +10,19 @@
 % ahimè, non sa qual sia
 % maggior, la gioia o l'aspra pena ria.
 % 
-% Newcomb:
-% 
-% Between the delights and the rages
-% and the joy and the suffering
-% the maiden Clori
-% burns in ice, freezes in flames
-% feels pain and pleasure
-% possessed with Love for her dear Aminta.
-% She languishes, she sighs sweetly, she lives and dies
-% and while the suffering from her wound
-% weighs down her  breast and ppours forth her living blood,
-% alas, she knows not which be
-% greater, the joy or the harsh and evil pain.
+
+% My translation:
+% Amongst the sweetness and the anger,
+% the joy and the suffering,
+% the youthful Clori
+% burns into ice and freezes in fire:
+% she feel pain and delight
+% for her dear Aminta, seized by Love;
+% She languishes, sighs sweetly, and lives and dies,
+% and while the pain of her mortal wound fills her breast
+% and spills out her living blood,
+% alas, she does not which would be
+% better, the joy or the bitter pain.
 
 cantoIIIincipit = \relative c'' {
     \clef "petrucci-c1"

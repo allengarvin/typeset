@@ -18,6 +18,7 @@
     language = "italian"
     originallyset = "2016-04-25"
     lastupdated = "2016-04-25"
+    needtranslation = #'f
     flats = 0
     final = "c"
     shorttitle = "contraponto_bestiale"

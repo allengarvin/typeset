@@ -14,7 +14,7 @@
     subtitle = "Prima parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XIX ottava 106 }
     instrument = "Misera, non credea (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

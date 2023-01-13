@@ -150,7 +150,7 @@ tenorXXI = \relative c {
         d g1 f2 ~ | f f d c | a
 
     bf2.( a4 a g8[ f] | g1) f2 c' ~ | c a1 f2 | g1 g2.( a4 | bf1) a2 a | 
-        a1 c2 c | f e d1 ~ | d r1 | r1 c | d2 c a c | e2. e4 e2 f | e d e1 ~ |
+        a1 c2 c | f e c1 ~ | c r1 | r1 c | d2 c a c | e2. e4 e2 f | e d e1 ~ |
         e c2 a ~ | a4 a g2 d'1 | a 
 
     d1 | c2. c4 a2 a ~ | a4( bf8[ c] d2) bf1 ~ | bf2 c d1 | g,\breve |
