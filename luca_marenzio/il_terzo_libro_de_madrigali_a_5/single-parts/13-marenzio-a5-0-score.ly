@@ -90,30 +90,29 @@
         \fill-line {
             \column {
                 \line { Ecco più che mai bella e vaga l'aura: }
-                \line { Pastor le vostre Ninfe risvegliate, }
-                \line { Che'l giorno già s'inaura; }
+                \line { pastor le vostre Ninfe risvegliate, }
+                \line { che'l giorno già s'inaura; }
                 \line { Ecco ch'ella di fronde e d'erbe e fiori }
-                \line { Vi da vari colori; }
+                \line { vi da vari colori; }
                 \line { Tessete ghirlandette e'l crin ornate }
-                \line { D'amate pastorelle, }
-                \line { Gitene insieme in queste parti e'n quelle. }
-                \line { Ecco l'aura cantate, ecco la scorta }
-                \line { D'un bel seren ch'ogni piacer n'apporta. }
+                \line { d'amate pastorelle, }
+                \line { gitene insieme in queste parti e'n quelle. }
+                \line { ecco l'aura cantate, ecco la scorta }
+                \line { d'un bel seren ch'ogni piacer n'apporta. }
             }
-%           Holding off publishing--I don't like some phrasing here
-%            \column {
-%                \line { Here is the breeze, more lovely and fair than ever; }
-%                \line { Shepherd, awaken your Nymphs }
-%                \line { as the morning already drapes itself in gold; }
-%                \line { Here is she of the fronds, of the grasses, and flowers }
-%                \line { giving you various colors; }
-%                \line { Woven garlands and adornèd hair }
-%                \line { of beloved shepherdesses, }
-%                \line { going together here and there. }
-%                \line { Here is the zephyr, singing; here is the escort }
-%                \line { of a beautiful, clear day, that every pleasure brings. }
-%                \line { \hspace #12 (my translation) }
-%            }
+            \column {
+                \line { Here is the breeze, more lovely and fair than ever; }
+                \line { Shepherd, awaken your Nymphs }
+                \line { as the morning already drapes itself in gold; }
+                \line { Here she gives you a variety of colors }
+                \line { in the fronds, the grassses, and flowers; }
+                \line { Weave garlands and adorn the hair of }
+                \line { of the beloved shepherdesses, }
+                \line { and go together with them, here and there. }
+                \line { Feel the breeze, sing! for here it is the escort }
+                \line { of a beautiful clear day that brings every pleasure. }
+                \line { \hspace #10 \italic { translation by editor } }
+            }
         }
     }
 }

@@ -81,7 +81,6 @@
                 \line { Or io vi vo’ ben dire: }
                 \line { Levate l’un martire, }
                 \line { Che di due morti, io non posso morire. }
-                \line { \hspace #8 Pietro Bembo, \italic { Gli Asolani } (1505) }
             }
             \column {
                 \line { You have set me afire, }

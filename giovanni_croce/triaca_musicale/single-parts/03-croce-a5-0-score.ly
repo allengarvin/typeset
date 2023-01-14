@@ -179,7 +179,7 @@
                 \line { Cuckoo! cuckoo! cuckoo! }
                 \line { Long live the Cu! }
                 \line { Cuckoo! cuckoo! cuckoo! }
-                \line { \italic { translated by editor } }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

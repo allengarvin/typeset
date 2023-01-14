@@ -10,6 +10,7 @@ category_list = {
     "viol-madrigal" : "Madrigals found in English viol partbooks",
     "madrigal" : "Madrigal",
     "penitential" : "The 7 penitential psalms",
+    "christmas" : "Christmas: Motets, hymns, and carols, from Advent to Epiphany",
     "furioso" : "Settings from Orlando Furioso",
     "trio" : "Italian trio sonatas (2 high instruments + bass)",
     "animal" : "Music about or involving animals",

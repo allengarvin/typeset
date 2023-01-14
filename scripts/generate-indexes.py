@@ -393,6 +393,7 @@ def write_pieces(coll):
                 p_html += "<li><a href='{0}'>{1}</a></li>\n".format(basename(mf), basename(mf))
             p_html += "</ul><p>\n"
 
+            
         pdf_files = sorted(glob.glob(p.path + "/*_clef.pdf"))
         p_html += "    " * 2 + "<table>"
 
@@ -521,6 +522,13 @@ def write_composer_index(args):
 
         for cl in c.collections:
 
+            dedications = sorted(glob.glob(cl.path + "/doc/dedication*html"))
+            ded_html = None
+            if len(dedications):
+                ded_html = "Dedications transcribed:<br><ul>\n" 
+                for df in dedications:
+                    ded_html += "<li><a href='doc/{0}'>{1}</a></li>\n".format(basename(df), basename(df))
+                ded_html += "</ul><p>\n"
             piece_list = write_pieces(cl)
 
             facs = check_facsimile(cl)
@@ -556,11 +564,13 @@ def write_composer_index(args):
         {catalog}
         {piece_list}
         <p>
+        {dedications}
+        <p>
         {facsimiles}
     </body>
     <!-- generate_index.py ran at {isotime} -->
 </html>
-""".format(cname=cl.title, comp_name=c.name_alone, publisher=cl.publisher, composer=c.short_name, isotime=datetime.datetime.now().isoformat(), piece_list=piece_list, catalog=("" if catalog == None else catalog), facsimiles=("" if fac_html == None else fac_html))
+""".format(cname=cl.title, dedications=(ded_html if ded_html else ""), comp_name=c.name_alone, publisher=cl.publisher, composer=c.short_name, isotime=datetime.datetime.now().isoformat(), piece_list=piece_list, catalog=("" if catalog == None else catalog), facsimiles=("" if fac_html == None else fac_html))
             fd = open(cl.path + "/index.html", "w")
             fd.write(chtml)
             fd.close()

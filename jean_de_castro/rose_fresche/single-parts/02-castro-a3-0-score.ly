@@ -86,7 +86,7 @@
                 \line { noticed you and saw nothing else I ever desired: }
                 \line { I went freely, but I return captive, }
                 \line { by the sweet song of a beautiful Nymph. }
-                \line { \hspace #10 \italic { Translation by editor } }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

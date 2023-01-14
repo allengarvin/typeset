@@ -87,7 +87,7 @@
                 \line { When near the beautiful ones }
                 \line { Damon seated himself, and redoubled their harmony }
                 \line { spreading the sound far and wide. }
-                \line { \hspace #10 \italic { Translation by editor } }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

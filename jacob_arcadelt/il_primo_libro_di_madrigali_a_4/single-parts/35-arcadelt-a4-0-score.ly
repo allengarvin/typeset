@@ -89,10 +89,12 @@
                 \line { \hspace #12 Anonymous}
             }
             \column {
-       \line { \italic { If you're willing to provide a Creative-Commons } }
-       \line { \italic { licensed translation, email me. } }
+%May I die a wicked death
+%if I do not love and adore you
+%as much
             }
         }
     }
 }
+
 
