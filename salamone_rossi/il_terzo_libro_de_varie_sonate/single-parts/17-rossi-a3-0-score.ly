@@ -73,7 +73,7 @@
         \column {
             \line { [che] va sonata una terza più bassa di quello [che] si suona all'alta }
             \line { \vspace #1 }
-            \line { \italic { that must be played a third lower than the one played high } "[my translation]" }
+            \line { \italic { that must be played a third lower than the one played high } }
             \line { \vspace #1 }
             \line { See Andrew Parrott, Early Music XII 1984, pg 506. }
             \line { Also Stephen Bonta, Ricercare IV 1992, pg 37. }

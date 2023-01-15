@@ -117,6 +117,7 @@
                 \line { you have hidden prickly thorns, Love? }
                 \line { He burns, then, who in vain approaches them }
                 \line { And pierces his heart with poisonous thorn.  }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

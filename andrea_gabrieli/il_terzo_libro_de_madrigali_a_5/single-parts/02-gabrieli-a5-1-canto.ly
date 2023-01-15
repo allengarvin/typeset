@@ -14,7 +14,7 @@
     instrument = "Mentre la greggia errando:  (canto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "mentre_la_greggia_errando"
-    shortcomp = "gabrieli"
+    shortcomp = "a_gabrieli"
 
     % Things that change per part:
     partname = "Canto (part 1 of 5)"

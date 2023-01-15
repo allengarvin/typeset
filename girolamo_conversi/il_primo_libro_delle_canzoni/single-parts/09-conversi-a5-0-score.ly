@@ -97,6 +97,7 @@
                 \line { When you look at me, with those thieving eyes, }
                 \line { I become red and white in am instance, }
                 \line { Thus gazing, I die happy and content. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

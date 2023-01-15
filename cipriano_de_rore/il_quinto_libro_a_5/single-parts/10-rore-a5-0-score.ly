@@ -113,6 +113,7 @@
                 \line { You exchanged your heart. }
                 \line { Is it not then suffering }
                 \line { To be granted death for your sake, lady? }
+                \line { \hspace #10 \italic { translation by editor } }
             }
             % This is my translation
             % Original source: http://lyra.unil.ch/books/1/images/101

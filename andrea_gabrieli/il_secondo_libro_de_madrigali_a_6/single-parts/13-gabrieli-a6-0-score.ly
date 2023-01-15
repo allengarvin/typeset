@@ -115,6 +115,7 @@
                 \line { the most cruel of any ever, and the most disdainful; }
                 \line { So says Damon among flowers and the grass }
                 \line { sweetly singing in spring. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

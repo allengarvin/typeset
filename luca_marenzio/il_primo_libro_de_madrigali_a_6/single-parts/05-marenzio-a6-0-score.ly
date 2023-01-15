@@ -102,14 +102,19 @@
                 \line { Che la suo fiamma sete assai lucente, }
                 \line { Ardendo ha vita e duol alcun non sente. }
                 \line { O che felice sorte, }
-                \line { Viver in fiamma e non haver la morte. }
+                \line { Viver in fiamma e non aver la morte. }
             }
             % my translation
             \column {
-%As the salamander lives in burning flame
-%and rejoices therein,
-%So does my heart in you,
-
+                % translation date: 2023-01-14
+                \line { As the salamander lives in burning flame }
+                \line { and rejoices therein, }
+                \line { So does my heart in you, }
+                \line { whose flame is very bright: }
+                \line { burning [that] has light and yet feels no pain. }
+                \line { Oh what a happy fate }
+                \line { to live in flame and not experience death. }
+                \line { \hspace #10 \italic { translation by editor } } }
             }
         }
     }

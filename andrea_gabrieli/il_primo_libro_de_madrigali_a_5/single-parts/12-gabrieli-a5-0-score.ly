@@ -92,13 +92,13 @@
         \fill-line {
             \column {
                 \line { Donna, per acquetar vostro desire }
-                \line { Non m'è grave il morire, }
-                \line { Anzi il viver m'annoia; }
+                \line { non m'è grave il morire, }
+                \line { anzi il viver m'annoia; }
                 \line { Sapendo esser voler vostro ch'io muoia }
-                \line { Ben morrei più contento }
-                \line { S'io fossi innanzi a voi di vita spento, }
-                \line { E vi vedessi a sorte, }
-                \line { Lagrimar per pietà della mia morte. }
+                \line { ben morrei più contento }
+                \line { s'io fossi innanzi a voi di vita spento, }
+                \line { e vi vedessi a sorte, }
+                \line { lagrimar per pietà della mia morte. }
                 \line { Donna, s'in ciò quetassi il mio desire, }
                 \line { O che dolce morire. }
             }
@@ -114,6 +114,7 @@
                 \line { Weep with pity at my death. }
                 \line { Lady, if I may calm my desire: }
                 \line { O how sweet to die. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

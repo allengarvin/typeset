@@ -167,6 +167,7 @@
                 \line { \hspace #5    for now I know you, since I look at you again, }
                 \line { \hspace #5    and you are torment and madness; }
                 \line { \hspace #5    though the foolish common folk call you Love. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

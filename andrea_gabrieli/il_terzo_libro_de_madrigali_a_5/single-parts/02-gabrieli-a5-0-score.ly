@@ -15,7 +15,7 @@
     instrument = "Mentre la greggia errando:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "mentre_la_greggia_errando"
-    shortcomp = "gabrieli"
+    shortcomp = "a_gabrieli"
     needtranslation = #'t
 
     % Unchanging:
@@ -102,6 +102,20 @@
                 \line { In sè stesso il martir che mi tormenta, }
                 \line { Che ò si farà pietoso }
                 \line { O lascierà a gli amanti alcun risposo. }
+            }
+            \column {
+                % translation done: 2023-01-14
+                \line { While his flocks wandered, }
+                \line { grazing upon the green grass, }
+                \line { a shepherd, sighing }
+                \line { to the heavens, asked for revenge upon love. }
+                \line { 'From the day that my eyes were opened, }
+                \line { such pain,' said he, 'never have I suffered. }
+                \line { Let Love feel, O gods, }
+                \line { the same torment that torments me, }
+                \line { so that it would become merciful, }
+                \line { or at least give lovers some respite.' }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

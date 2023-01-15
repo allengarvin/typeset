@@ -118,6 +118,7 @@
                 \line { give me those roses }
                 \line { that you have in your lips concealed }
                 \line { so you may, to my soul, give sweet comfort. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -115,6 +115,7 @@
                 \line { happy, you will see the sad soul rejoice, }
                 \line { and scattering in your lap beloved flowers }
                 \line { the little cupids disport among us. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
