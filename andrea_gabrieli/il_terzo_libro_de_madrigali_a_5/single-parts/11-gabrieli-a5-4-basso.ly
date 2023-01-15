@@ -11,14 +11,14 @@
     % Things that change per piece:
     title = "Vita della vita mia"
     subtitle = ""
-    instrument = "Vita della vita mia:  (alto)"
+    instrument = "Vita della vita mia:  (basso)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "vita_della_vita_mia"
     shortcomp = "a_gabrieli"
 
     % Things that change per part:
-    partname = "Alto (part 3 of 5)"
-    instrument = "Vita della vita mia:  (alto)"
+    partname = "Basso (part 5 of 5)"
+    instrument = "Vita della vita mia:  (basso)"
 
     % Unchanging:
     lastupdated = "2020-04-29"
@@ -27,34 +27,49 @@
     tagline = #'f
 }
 
-\include "../parts/12-gabrieli-a5-madrigal.ly"
+\include "../parts/11-gabrieli-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "12-gabrieli--vita_della_vita_mia-"
-    \bookOutputSuffix "--3-alto--tr_clef"
+    \bookOutputName "11-gabrieli--vita_della_vita_mia-"
+    \bookOutputSuffix "--5-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "bass"
             \global 
-            \altoXII
+            \bassoXI
         >>
-                \addlyrics { \altoLyricsXII }
+                \addlyrics { \bassoLyricsXI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "12-gabrieli--vita_della_vita_mia-"
-    \bookOutputSuffix "--3-alto--al_clef"
+    \bookOutputName "11-gabrieli--vita_della_vita_mia-"
+    \bookOutputSuffix "--5-basso--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \bassoXI
+        >>
+                \addlyrics { \bassoLyricsXI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "11-gabrieli--vita_della_vita_mia-"
+    \bookOutputSuffix "--5-basso--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altoXII
+            \bassoXI
         >>
-                \addlyrics { \altoLyricsXII }
+                \addlyrics { \bassoLyricsXI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

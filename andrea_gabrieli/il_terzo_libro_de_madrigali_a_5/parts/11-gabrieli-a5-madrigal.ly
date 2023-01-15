@@ -13,7 +13,7 @@
 % Free my soul, that in you dwells.
 
 
-cantoXIIincipit = \relative c'' {
+cantoXIincipit = \relative c'' {
     \time 4/4
     \key c \major
     \clef "petrucci-g"
@@ -22,7 +22,7 @@ cantoXIIincipit = \relative c'' {
 }
 
 % canto: checked against source
-cantoXII = \relative c'' {
+cantoXI = \relative c'' {
     \fourTwoCommonTime
     \key c \major
 
@@ -42,7 +42,7 @@ cantoXII = \relative c'' {
     \bar "|."
 }
 
-cantoLyricsXII = \lyricmode {
+cantoLyricsXI = \lyricmode {
     Vi -- ta del -- la mia vi -- ta,
     \ijLyrics
     vi -- ta del -- la mia vi -- ta,
@@ -74,7 +74,7 @@ cantoLyricsXII = \lyricmode {
          ch'in voi di -- mo -- ra.
 }
 
-altoXIIincipit = \relative c'' {
+altoXIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c2"
     \key c \major
@@ -83,7 +83,7 @@ altoXIIincipit = \relative c'' {
 }
 
 % alto: checked against source
-altoXII = \relative c'' {
+altoXI = \relative c'' {
     \fourTwoCommonTime
     \key c \major
 
@@ -105,7 +105,7 @@ altoXII = \relative c'' {
     \bar "|."
 }
 
-altoLyricsXII = \lyricmode {
+altoLyricsXI = \lyricmode {
     Vi -- ta del -- la mia vi -- ta,
     \ijLyrics
     vi -- ta del -- la mia vi -- ta,
@@ -140,7 +140,7 @@ altoLyricsXII = \lyricmode {
          ch'in voi di -- mo -- ra.
 }
 
-tenoreXIIincipit = \relative c' {
+tenoreXIincipit = \relative c' {
     \time 4/4
     \clef "petrucci-c3"
     \key c \major
@@ -149,7 +149,7 @@ tenoreXIIincipit = \relative c' {
 }
 
 % tenore: checked against source
-tenoreXII = \relative c' {
+tenoreXI = \relative c' {
     \fourTwoCommonTime
     \key c \major
 
@@ -171,7 +171,7 @@ tenoreXII = \relative c' {
     \bar "|."
 }
 
-tenoreLyricsXII = \lyricmode {
+tenoreLyricsXI = \lyricmode {
     Vi -- ta del -- la mia vi -- ta,
     \ijLyrics
     vi -- ta del -- la mia vi -- ta,
@@ -193,7 +193,7 @@ tenoreLyricsXII = \lyricmode {
          ch'in voi di -- mo -- ra.
 }
 
-bassoXIIincipit = \relative c {
+bassoXIincipit = \relative c {
     \time 4/4
     \clef "petrucci-c4"
     \key c \major
@@ -202,7 +202,7 @@ bassoXIIincipit = \relative c {
 }
 
 % basso: checked against source
-bassoXII = \relative c {
+bassoXI = \relative c {
     \fourTwoCommonTime
     \key c \major
 
@@ -219,7 +219,7 @@ bassoXII = \relative c {
     \bar "|."
 }
 
-bassoLyricsXII = \lyricmode {
+bassoLyricsXI = \lyricmode {
     Vi -- ta del -- la mia vi -- ta,
     \ijLyrics
     vi -- ta del -- la mia vi -- ta,
@@ -246,7 +246,7 @@ bassoLyricsXII = \lyricmode {
          ch'in voi di -- mo -- ra.
 }
 
-quintoXIIincipit = \relative c'' {
+quintoXIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-g"
     \key c \major
@@ -254,7 +254,7 @@ quintoXIIincipit = \relative c'' {
     cs1
 }
 
-quintoXII = \relative c'' {
+quintoXI = \relative c'' {
     \fourTwoCommonTime
     \key c \major
 
@@ -277,7 +277,7 @@ quintoXII = \relative c'' {
     \bar "|."
 }
 
-quintoLyricsXII = \lyricmode {
+quintoLyricsXI = \lyricmode {
     Vi -- ta del -- la mia vi -- ta,
     \ijLyrics
     vi -- ta del -- la mia vi -- ta,
@@ -308,38 +308,38 @@ quintoLyricsXII = \lyricmode {
          ch'in voi di -- mo -- ra.
 }
 
-cantoXIIincipitVoice = <<
+cantoXIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoXIIincipit
+        \cantoXIincipit
     >>
 >>
 
-altoXIIincipitVoice = <<
+altoXIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altoXIIincipit
+        \altoXIincipit
     >>
 >>
 
-tenoreXIIincipitVoice = <<
+tenoreXIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreXIIincipit
+        \tenoreXIincipit
     >>
 >>
 
-bassoXIIincipitVoice = <<
+bassoXIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassoXIIincipit
+        \bassoXIincipit
     >>
 >>
 
-quintoXIIincipitVoice = <<
+quintoXIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \quintoXIIincipit
+        \quintoXIincipit
     >>
 >>
 
