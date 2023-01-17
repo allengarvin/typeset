@@ -59,3 +59,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "16-marenzio--filli_mia_bella-"
+    \bookOutputSuffix "--5-tenore--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \tenoreXVI
+        >>
+                \addlyrics { \tenoreLyricsXVI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

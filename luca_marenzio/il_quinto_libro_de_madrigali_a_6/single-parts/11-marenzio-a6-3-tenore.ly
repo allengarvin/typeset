@@ -60,3 +60,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "11-marenzio--nel_dolce_seno_della_bella_clori-"
+    \bookOutputSuffix "--5-tenore--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \tenoreXI
+        >>
+                \addlyrics { \tenoreLyricsXI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

@@ -108,6 +108,7 @@
                 \line { Ove l'aspro martir mio viva eterno. }
             }
             \column {
+                \vspace #4
                 \line { Flee, my hope, flee, }
                 \line { and flee to never return; }
                 \line { You alone, who destroy  }

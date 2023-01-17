@@ -24,6 +24,18 @@
 % And I shall surely die if help does not come from
 % Sweet Laura, life of my life.
 
+% Laura sweet, life of my life,
+%  Who so sweetly
+%  Invites me to her loving fire,
+%  With such dear sweetness
+%  Often inflames my heart,
+%  That I take pleasure in that sweet ardor;
+%  And so sweet is the joy,
+%  That I feel myself dying of sweetness:
+%  And I will die well, if soon you do not help me
+%  Laura sweet, life of my life."
+
+
 cantoIIIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-g"

@@ -24,6 +24,7 @@
     final = "f"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    poeticform = "sonnet"
     tagline = #'f
 }
 
@@ -106,22 +107,39 @@
     \markup {
         \fill-line {
             \column {
-                \line { Quando nascesti Amor? } 
-                \line { \hspace #2 Quando la terra si riveste di verde e bel colore. } 
-                \line { Allor di che nascesti? } 
-                \line { \hspace #2 D'un ardore ch'ozio e lascivia in se richiude e serra. } 
-                \line { Con ti costringe a farne tanta guerra? } 
-                \line { \hspace #2 Calda speranza et gelido timore. } 
-                \line { In cui fai la tua stanza? } 
-                \line { \hspace #2 In gentil core che sotto el mio valor' tosto s'atterra. } 
-                \line { Chi fai la tua nutrice? } 
-                \line { \hspace #2 Giovinezza. } 
-                \line { E le serve furno a lei d'intorno? } 
-                \line { \hspace #2 Vanità, gelosia, pompa e bellezza. } 
-                \line { Di che ti pasci? } 
-                \line { \hspace #2 D'un parlare adorno. } 
-                \line { Offendeti la mort' o la vecchiezza? } 
-                \line { \hspace #2 No, ch'io rinasco mille volte il giorno. } 
+                \line { Quando nascesti Amor? Quando la terra }
+                \line { si riveste di verde e bel colore.   }
+                \line { Allor di che nascesti?  D'un ardore }
+                \line { ch'ozio e lascivia in se richiude e serra.   }
+                \line { Con ti costringe a farne tanta guerra?   }
+                \line { Calda speranza et gelido timore.   }
+                \line { In cui fai la tua stanza?  In gentil core }
+                \line { che sotto il mio valor' tosto s'atterra.   }
+                \line { \vspace #0.5 }
+                \line { Chi fai la tua nutrice?  Giovinezza.   }
+                \line { E le serve furno a lei d'intorno?   }
+                \line { Vanità, gelosia, pompa e bellezza.   }
+                \line { Di che ti pasci?  D'un parlare adorno.   }
+                \line { Offendeti la morte o la vecchiezza?   }
+                \line { No, ch'io rinasco mille volte il giorno.   }
+            }
+            \column {
+                \line { When were you born, Love? When the earth }
+                \line { was blanketed in green and lovely colors. }
+                \line { Then, of what were you born? Of a passion }
+                \line { that encloses and binds idleness and licentiousness within. }
+                \line { What forces you to make so much war? }
+                \line { Hot hope, and frigid fear. }
+                \line { Wherein do you make your chambers? In the gentle heart, }
+                \line { that bows quickly under my power. }
+                \line { \vspace #0.5 }
+                \line { Who was your nursemaid? Youth.  }
+                \line { And who are your servants around you? }
+                \line { Vanity, jealousy, pride and beauty. }
+                \line { Of what are you nourished? Of graceful parlance. }
+                \line { Does death or old age injure you? }
+                \line { No, for I am reborn a thousand times a day. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
