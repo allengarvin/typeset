@@ -92,11 +92,22 @@
         \fill-line {
             \column {
                 \line { Donne leggiadre che seguite Amore, }
-                \line { Voi di pietà vaghe: }
+                \line { voi di pietà vaghe: }
                 \line { Mirate alle mie piaghe }
-                \line { E dite a questa fera }
-                \line { Crudel' hai torto a far che costrui pera. }
+                \line { e dite a questa fera }
+                \line { Crudel, hai torto a far che costui pera. }
             }
+           \column {
+%               % translation orig date: 2023-01-28
+%               % translation updated:
+                \line { Graceful women who follow love, }
+                \line { you of fleeting mercy: }
+                \line { Look upon my wounds }
+                \line { and tell to this wild, cruel one: }
+                \line { You are wrong to make him perish. }
+                \line { \hspace #10 \italic { translation by editor } }
+           }
+
         }
     }
 }

@@ -2,7 +2,7 @@
 % Voi di pietà vaghe:
 % Mirate alle mie piaghe
 % E dite a questa fera
-% Crudel' hai torto a far che costrui pera.
+% Crudel' hai torto a far che costui pera.
 
 cantoXXincipit = \relative c' {
     \time 2/2
@@ -90,21 +90,21 @@ cantoLyricsXX = \lyricmode {
     \ijLyrics
     cru -- del' __ hai tor -- to 
     \normalLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-        a far che co -- strui pe -- ra,
-            che __ co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
+            che __ co -- stui pe -- ra,
     cru -- del' __ hai tor -- to
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-        a far che co -- strui pe -- ra,
-            che co -- strui pe -- ra.
+        a far che co -- stui pe -- ra,
+            che co -- stui pe -- ra.
 }
 
 altoXXincipit = \relative c' {
@@ -193,26 +193,26 @@ altoLyricsXX = \lyricmode {
     \normalLyrics
         al -- le mie pia -- ghe
     E di -- te~a que -- sta fe -- ra
-    Cru -- del' __ hai tor -- to a far che co -- strui pe -- ra,
+    Cru -- del' __ hai tor -- to a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-            che co -- strui pe -- ra,
+            che co -- stui pe -- ra,
     \ijLyrics
-            che __ co -- strui pe -- ra,
+            che __ co -- stui pe -- ra,
     \normalLyrics
     cru -- del' __ hai tor -- to
-        a far che co -- strui pe -- ra,
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-            che co -- strui pe -- ra,
-            che co -- strui pe -- ra.
+            che co -- stui pe -- ra,
+            che co -- stui pe -- ra.
 }
 
 tenoreXXincipit = \relative c' {
@@ -294,21 +294,21 @@ tenoreLyricsXX = \lyricmode {
         al -- le mie pia -- ghe
     E di -- te~a que -- sta fe -- ra
     Cru -- del' hai tor -- to
-        a far che co -- strui pe -- ra,
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-           che co -- strui pe -- ra,
-            che co -- strui pe -- ra,
+           che co -- stui pe -- ra,
+            che co -- stui pe -- ra,
 %    cru -- del' hai tor -- to
-        a far che co -- strui pe -- ra,
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-           che co -- strui pe -- ra,
-           che co -- strui pe -- ra.
+           che co -- stui pe -- ra,
+           che co -- stui pe -- ra.
 }
 
 bassoXXincipit = \relative c {
@@ -396,25 +396,25 @@ bassoLyricsXX = \lyricmode {
     \normalLyrics
     E di -- te~a que -- sta fe -- ra
     Cru -- del' hai tor -- to,
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-            che __ co -- strui pe -- ra,
+            che __ co -- stui pe -- ra,
     cru -- del' hai tor -- to
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-            che co -- strui pe -- ra.
+            che co -- stui pe -- ra.
 }
 
 quintoXXincipit = \relative c' {
@@ -495,24 +495,24 @@ quintoLyricsXX = \lyricmode {
     \ijLyrics
     cru -- del' hai tor -- to
     \normalLyrics
-        a far che co -- strui pe -- ra,
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-        che co -- strui pe -- ra,
+        che co -- stui pe -- ra,
     \ijLyrics
-        che __ co -- strui pe -- ra,
+        che __ co -- stui pe -- ra,
     \normalLyrics
     cru -- del' __ hai tor -- to
-        a far che co -- strui pe -- ra,
-        a far che co -- strui pe -- ra,
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
+        a far che co -- stui pe -- ra,
+        a far che co -- stui pe -- ra,
     \ijLyrics
-        a far che co -- strui pe -- ra,
+        a far che co -- stui pe -- ra,
     \normalLyrics
-            che co -- strui pe -- ra,
-            che co -- strui pe -- ra.
+            che co -- stui pe -- ra,
+            che co -- stui pe -- ra.
 }
 
 cantoXXincipitVoice = <<
