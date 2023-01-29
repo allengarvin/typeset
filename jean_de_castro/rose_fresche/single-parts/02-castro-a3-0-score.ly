@@ -81,9 +81,11 @@
                 \line { dal dolce canto d'una Ninfa adorno. }
             }
             \column {
+%               % translation orig date: 2023-01-10
+%               % translation updated: 2023-01-19
                 \line { Thus I, the better to hear }
                 \line { such pleasant harmony, }
-                \line { noticed you and saw nothing else I ever desired: }
+                \line { I rushed there, and saw nothing else I ever desired: }
                 \line { I went freely, but I return captive, }
                 \line { by the sweet song of a beautiful Nymph. }
                 \line { \hspace #10 \italic { translation by editor } }

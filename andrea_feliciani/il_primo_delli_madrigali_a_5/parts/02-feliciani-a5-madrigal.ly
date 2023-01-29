@@ -1,5 +1,5 @@
 % Ma maggior meraviglia 
-% E ch'in quei lacci in quel arco in quei dardi,
+% È ch'in quei lacci in quel arco in quei dardi,
 % Alto piacer si trova
 % Sall'il mio cor per prova
 % Che ferito non langue
@@ -42,7 +42,7 @@ cantoLyricsII = \lyricmode {
     \normalLyrics
     ma mag -- gior,
     ma mag -- gior me -- ra -- vi -- glia,
-    E ch'in quei lac -- ci~in quel ar -- co in quei dar -- di,
+    È ch'in quei lac -- ci~in quel ar -- co in quei dar -- di,
     Al -- to pia -- cer si tro -- va
     Sal -- l'il mio cor,
     sal -- l'il mio cor per pro -- va,
@@ -91,10 +91,10 @@ altoII = \relative c'' {
 altoLyricsII = \lyricmode {
     Ma mag -- gior me -- ra -- vi -- glia,
     ma mag -- gior me -- ra -- vi -- glia,
-    E ch'in quei lac -- ci,
+    È ch'in quei lac -- ci,
     ma mag -- gior me -- ra -- vi -- glia,
     ma mag -- gior me -- ra -- vi -- glia,
-    E ch'in quei lac -- ci~in quel ar -- co~in quei dar -- di,
+    è ch'in quei lac -- ci~in quel ar -- co~in quei dar -- di,
     Al -- to pia -- cer,
     al -- to pia -- cer si tro -- va
     \ijLyrics
@@ -147,7 +147,7 @@ tenoreLyricsII = \lyricmode {
     ma mag -- gior me -- ra -- vi -- glia,
     ma mag -- gior me -- ra -- vi -- glia,
     ma mag -- gior me -- ra -- vi -- glia,
-    E ch'in quei lac -- ci~in quel ar -- co~in quei dar -- di,
+    È ch'in quei lac -- ci~in quel ar -- co~in quei dar -- di,
     Al -- to pia -- cer si tro -- va
     \ijLyrics
     al -- to pia -- cer si tro -- va
@@ -196,11 +196,11 @@ bassoII = \relative c' {
 bassoLyricsII = \lyricmode {
     Ma mag -- gior me -- ra -- vi -- glia,
         me -- ra -- vi -- glia,
-    E ch'in quei lac -- ci,
+    È ch'in quei lac -- ci,
     ma mag -- gior me -- ra -- vi -- glia,
     ma mag -- gior me -- ra -- vi -- glia,
     ma mag -- gior me -- ra -- vi -- glia,
-    E ch'in quei lac -- ci~in quel ar -- co~in quei dar -- di,
+    È ch'in quei lac -- ci~in quel ar -- co~in quei dar -- di,
     Al -- to pia -- cer si tro -- va
     Sal -- l'il mio cor per pro -- va,
     \ijLyrics
@@ -250,9 +250,9 @@ quintoLyricsII = \lyricmode {
     Ma mag -- gior me -- ra -- vi -- glia,
     ma mag -- gior me -- ra -- vi -- glia,
     ma mag -- gior me -- ra -- vi -- glia,
-    E ch'in quei lac -- ci,
+    È ch'in quei lac -- ci,
     ma mag -- gior me -- ra -- vi -- glia,
-    E ch'in quei lac -- ci~in quel ar -- co,
+    è ch'in quei lac -- ci~in quel ar -- co,
         in quel ar -- co~in quei dar -- di,
     Al -- to pia -- cer si tro -- va
     Sal -- l'il mio cor per pro -- va,

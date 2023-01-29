@@ -6,7 +6,7 @@
 \include "../include/macros.ly"
 \include "../include/scheme.ly"
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -14,8 +14,7 @@
     subtitle = "Prima parte"
     instrument = "Che nuova Cinthia e questa (score)"
     language = "italian"
-    needtranslation = #'t
-    folio = "Anonymous poet"
+    needtranslation = #'f
 
     % Unchanging:
     originallyset = "2016-04-23"
@@ -25,6 +24,7 @@
     shorttitle = "che_nuova_cinthia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    poeticform = "madrigal"
     tagline = #'f
 }
 
@@ -91,12 +91,23 @@
     \markup {
         \fill-line {
             \column {
-                \line { Che nuova Cinthia e questa }
-                \line { Che in vece d'arc'adopera le ciglia }
-                \line { E per i dard'i sguardi }
-                \line { E per lacciuoli i crin de l'aurea testa }
-                \line { Ne caprioli o Pardi }
-                \line { Ma gl'uomin'e gli Dei saetta e piglia. }
+                \line { Che nuova Cinthia è questa: }
+                \line { che invece d'arco adopera le ciglia, }
+                \line { e per i dardi i sguardi }
+                \line { e per lacciuoli i crin de l'aurea testa; }
+                \line { né caprioli o pardi }
+                \line { ma gli uomini e gli Dei saetta e piglia. }
+            }
+            \column {
+%               % translation orig date: 2023-01-17
+%               % translation updated:
+                \line { What is new about Cynthia is this: }
+                \line { That instead of a bow she employs her eyelashes, }
+                \line { and for arrows her glances, }
+                \line { and for snares the golden locks of her head: }
+                \line { Neither deer nor leopards }
+                \line { but men and Gods are struck and brought down. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

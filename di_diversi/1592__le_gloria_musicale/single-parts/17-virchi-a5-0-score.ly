@@ -92,14 +92,15 @@
     \markup {
         \fill-line {
             \column {
+                % touchup of text: 2023-01-23
                 \line { Copre madonna ad arte con freddi e finti sguardi }
-                \line { Nè l'esterno, l'ardor c'hà nel' interno }
-                \line { E quanto fuori appar fiera è sdegnosa }
-                \line { Tanto nel cor pietosa, }
-                \line { Hor sì non men che ne l'amar costante, }
-                \line { Son io felice amante, }
-                \line { Che quell' è vero Amore, }
-                \line { Ove l'amata finge odioso core. }
+                \line { né l'esterno, l'ardor ch'ha nel' interno }
+                \line { e quanto fuori appar fiera è sdegnosa }
+                \line { tanto nel cor pietosa, }
+                \line { or sì non men che ne l'amar costante, }
+                \line { son io felice amante, }
+                \line { che quell' è vero Amore, }
+                \line { ove l'amata finge odioso core. }
             }
         }
     }

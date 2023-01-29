@@ -1,0 +1,46 @@
+\version "2.18.2"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    lastupdated = "2023-01-27"
+    originallyset = "2023-01-27"
+    \include "include/distribution-header.ly"
+ 
+    % Things that change per piece:
+    title = "Dolce fiammella mia"
+    subsubtitle = "(transposed down a 5th)"
+    instrument = "Dolce fiammella mia: (transposed down a 5th) (quinto)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "dolce_fiammella_mia"
+    shortcomp = "nanino"
+
+    % Things that change per part:
+    partname = "Quinto (part 2 of 5)"
+    instrument = "Dolce fiammella mia: (transposed down a 5th) (quinto)"
+
+    % Unchanging:
+    tagline = #'f
+}
+
+\include "../parts/04-nanino-a5-madrigal.ly"
+
+\book {
+    \bookOutputName "04-nanino--dolce_fiammella_mia-transposed_down_a_5th"
+    \bookOutputSuffix "--2-quinto--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global\transpose g c 
+            \quintoIV
+        >>
+                \addlyrics { \quintoLyricsIV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

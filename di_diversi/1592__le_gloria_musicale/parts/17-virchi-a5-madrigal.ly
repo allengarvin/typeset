@@ -1,11 +1,23 @@
-%     Copre madonna ad arte con freddi e finti sguardi
-%     Nè l'esterno, l'ardor c'hà nel' interno
-%     E quanto fuori appar fiera è sdegnosa
-%     Tanto nel cor pietosa,
-%     Hor sì non men che ne l'amar costante,
-%     Son io felice amante,
-%     Che quell' è vero Amore,
-%     Ove l'amata finge odioso core.
+Copre madonna ad arte con freddi e finti sguardi
+Né l'esterno, l'ardor che ha nell' interno
+e quanto fuori appar fiera è sdegnosa
+tanto nel cor pietosa:
+or sì non men che ne l'amar costante,
+son io felice amante,
+che quell' è vero Amore,
+ove l'amata finge odioso core.
+
+% attempt as of 2023-01-23:
+% My lady artifully with cold and false expressions
+% shrouds the ardor she feels within and without,
+% and though fierce and disdainful as she appears on the outside,
+% in her heart she is compassionate,
+% [[not sure how to render this. I think it is:
+%     ora si non meno che ne la amare costante]]
+%     now no less than a constant love?
+% I am her happy lover,
+% for that is true love,
+% where the beloved feigns a hateful heart.
 
 cantoXVIIincipit = \relative c''' {
     \time 4/4
@@ -43,13 +55,13 @@ cantoLyricsXVII = \lyricmode {
     Co -- pre ma -- don -- na~ad ar -- te
     con fred -- di~e fin -- ti sguar -- di,
     Nè l'e -- ster -- no, l'ar -- dor,
-    Nè l'e -- ster -- no, l'ar -- dor c'hà nel' in -- ter -- no
+    Nè l'e -- ster -- no, l'ar -- dor ch'ha nel' in -- ter -- no
     fie -- ra~è __ sde -- gno -- sa
     Tan -- to nel cor pie -- to -- sa,
-    Hor sì non men che ne l'a -- mar co -- stan -- te,
+    Or sì non men che ne l'a -- mar co -- stan -- te,
     Son io fe -- li -- ce~a -- man -- te,
-    Che quell' è ve -- ro~A -- mo -- re,
-    Che quell' è ve -- ro~A -- mo -- re,
+    Che quel -- l'è ve -- ro~A -- mo -- re,
+    Che quel -- l'è ve -- ro~A -- mo -- re,
     O -- ve l'a -- ma -- ta fin -- ge,
     O -- ve l'a -- ma -- ta fin -- ge~o -- dio -- so co -- re,
         o -- dio -- so co -- re,
@@ -98,14 +110,14 @@ altoLyricsXVII = \lyricmode {
     Co -- pre ma -- don -- na~ad ar -- te
     con fred -- di~e fin -- ti sguar -- di,
 
-    Nè l'e -- ster -- no, l'ar -- dor c'hà nel' in -- ter -- no
+    Nè l'e -- ster -- no, l'ar -- dor ch'ha nel' in -- ter -- no
     E quan -- to fuo -- ri~ap -- par fie -- ra~è sde -- gno -- sa
     Tan -- to nel cor pie -- to -- sa,
-    Hor sì non men che ne l'a -- mar co -- stan -- te,
+    Or sì non men che ne l'a -- mar co -- stan -- te,
     Son io fe -- li -- ce~a -- man -- te,
     Son io fe -- li -- ce~a -- man -- te,
-    Che quell' è ve -- ro~A -- mo -- re,
-    Che quell' è ve -- ro~A -- mo -- re,
+    Che quel -- l'è ve -- ro~A -- mo -- re,
+    Che quel -- l'è ve -- ro~A -- mo -- re,
     O -- ve l'a -- ma -- ta fin -- ge~o -- dio -- so co -- re,
         o -- dio -- so co -- re,
     O -- ve l'a -- ma -- ta fin -- ge~o -- dio -- so co -- re,
@@ -150,13 +162,13 @@ tenoreLyricsXVII = \lyricmode {
     Co -- pre ma -- don -- na~ad ar -- te
     con fred -- di~e fin -- ti sguar -- di,
 
-    Nè l'e -- ster -- no, l'ar -- dor c'hà nel' in -- ter -- no
-    Nè l'e -- ster -- no, l'ar -- dor c'hà nel' in -- ter -- no
+    Nè l'e -- ster -- no, l'ar -- dor ch'ha nel' in -- ter -- no
+    Nè l'e -- ster -- no, l'ar -- dor ch'ha nel' in -- ter -- no
     E quan -- to fuo -- ri~ap -- par fie -- ra~è sde -- gno -- sa
     Tan -- to nel cor pie -- to -- sa,
-    Hor sì non men che ne l'a -- mar co -- stan -- te,
+    Or sì non men che ne l'a -- mar co -- stan -- te,
     Son io fe -- li -- ce~a -- man -- te,
-    Che quell' è ve -- ro~A -- mo -- re,
+    Che quel -- l'è ve -- ro~A -- mo -- re,
     O -- ve l'a -- ma -- ta fin -- ge,
     O -- ve l'a -- ma -- ta fin -- ge~o -- dio -- so co -- re,
     O -- ve l'a -- ma -- ta fin -- ge~o -- dio -- so co -- re.
@@ -195,10 +207,10 @@ bassoLyricsXVII = \lyricmode {
     Co -- pre ma -- don -- na~ad ar -- te 
     con fred -- di~e fin -- ti sguar -- di,
 
-    Nè l'e -- ster -- no, l'ar -- dor __ c'hà nel' in -- ter -- no
+    Nè l'e -- ster -- no, l'ar -- dor __ ch'ha nel' in -- ter -- no
     Tan -- to nel cor pie -- to -- sa,
     Son io fe -- li -- ce~a -- man -- te,
-    Che quell' è ve -- ro~A -- mo -- re,
+    Che quel -- l'è ve -- ro~A -- mo -- re,
     O -- ve l'a -- ma -- ta fin -- ge,
     O -- ve l'a -- ma -- ta fin -- ge~o -- dio -- so co -- re,
         o -- dio -- so co -- re.
@@ -237,16 +249,16 @@ quintoXVII = \relative c'' {
 
 quintoLyricsXVII = \lyricmode {
     Co -- pre ma -- don -- na~ad ar -- te,
-    Co -- pre ma -- don -- na~ad ar -- te
+    co -- pre ma -- don -- na~ad ar -- te
     con fred -- di~e fin -- ti sguar -- di,
 
-    Nè l'e -- ster -- no, l'ar -- dor c'hà nel' in -- ter -- no
-        c'hà nel' in -- ter -- no
+    Nè l'e -- ster -- no, l'ar -- dor ch'ha nel' in -- ter -- no
+        ch'ha nel' in -- ter -- no
     E quan -- to fuo -- ri~ap -- par fie -- ra~è sde -- gno -- sa
-    Hor sì non men che ne l'a -- mar co -- stan -- te,
+    Or sì non men che ne l'a -- mar co -- stan -- te,
     Son io fe -- li -- ce~a -- man -- te,
-    Che quell' è ve -- ro~A -- mo -- re,
-    Che quell' è ve -- ro~A -- mo -- re,
+    Che quel -- l'è ve -- ro~A -- mo -- re,
+    Che quel -- l'è ve -- ro~A -- mo -- re,
     O -- ve l'a -- ma -- ta fin -- ge~o -- dio -- so co -- re,
         o -- dio -- so co -- re,
     O -- ve l'a -- ma -- ta fin -- ge~o -- dio -- so co -- re,

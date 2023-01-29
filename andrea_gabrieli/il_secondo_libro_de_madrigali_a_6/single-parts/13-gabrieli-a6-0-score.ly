@@ -99,12 +99,12 @@
         \fill-line {
             \column {
                 \line { Or ch’a noi torna la stagion novella }
-                \line { Gli augei, le fiere e tutti gli animali }
-                \line { Senton d’amor i dolci acuti strali, }
-                \line { Te sola Amor non punge, ò d’ogni fiera }
-                \line { Più cruda in ciascun tempo e più superba; }
+                \line { gli augei, le fiere e tutti gli animali }
+                \line { senton d’amor i dolci acuti strali, }
+                \line { te sola Amor non punge, ò d’ogni fiera }
+                \line { più cruda in ciascun tempo e più superba; }
                 \line { Così dicea Damon tra fiori e l’erba }
-                \line { Dolcemente cantando a primavera. }
+                \line { dolcemente cantando a primavera. }
             }
             \column {
                 % my translation

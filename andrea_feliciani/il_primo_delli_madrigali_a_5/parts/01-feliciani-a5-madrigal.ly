@@ -38,10 +38,10 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    Che nuo -- va Cin -- thia~e que -- sta
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
-    Che nuo -- va Cin -- thia~e que -- sta
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che nuo -- va Cin -- thia~è que -- sta
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che nuo -- va Cin -- thia~è que -- sta
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
         a -- do -- pe -- ra le ci -- glia,
     E per i dar -- di~i sguar -- di,
     \ijLyrics
@@ -49,7 +49,7 @@ cantoLyricsI = \lyricmode {
     \normalLyrics
     e per i dar -- di~i sguar -- di,
     E per lac -- ciuo -- li~i crin de l'au -- rea te -- sta
-    Ne ca -- pri -- o -- li~o Par -- di
+    Né ca -- pri -- o -- li~o par -- di
     Ma gli~uo -- min' e gli Dei,
     ma gli~uo -- min' e gli Dei,
     \ijLyrics
@@ -95,13 +95,13 @@ altoI = \relative c' {
 }
 
 altoLyricsI = \lyricmode {
-    Che nuo -- va Cin -- thia~e que -- sta,
+    Che nuo -- va Cin -- thia~è que -- sta,
     \ijLyrics
-    Che nuo -- va Cin -- thia~e que -- sta
+    Che nuo -- va Cin -- thia~è que -- sta
     \normalLyrics
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
-    Che nuo -- va Cin -- thia~e que -- sta
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che nuo -- va Cin -- thia~è que -- sta
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
     E per i __ dar -- di~i sguar -- di,
     e per i dar -- di~i sguar -- di,
     e per i dar -- di~i sguar -- di,
@@ -110,11 +110,11 @@ altoLyricsI = \lyricmode {
     E per lac -- ciuo -- li~i 
     \normalLyrics
         crin de l'au -- rea te -- sta
-    Ne ca -- pri -- o -- li~o Par -- di,
+    Né ca -- pri -- o -- li~o par -- di,
     \ijLyrics
-    ne ca -- pri -- o -- li~o Par -- di,
+    né ca -- pri -- o -- li~o par -- di,
     \normalLyrics
-    ne ca -- pri -- o -- li~o Par -- di
+    né ca -- pri -- o -- li~o par -- di
     Ma gli~uo -- min' e gli Dei sa -- et -- ta~e pi -- glia,
     ma gli~uo -- min' e gli Dei, __
         sa -- et -- ta~e pi -- glia,
@@ -155,13 +155,13 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-    Che nuo -- va Cin -- thia~e que -- sta,
+    Che nuo -- va Cin -- thia~è que -- sta,
     \ijLyrics
-    Che nuo -- va Cin -- thia~e que -- sta
+    Che nuo -- va Cin -- thia~è que -- sta
     \normalLyrics
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
-    Che nuo -- va Cin -- thia~e que -- sta
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che nuo -- va Cin -- thia~è que -- sta
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
         a -- do -- pe -- ra le ci -- glia,
     E per i dar -- di~i sguar -- di,
     e per i dar -- di~i sguar -- di,
@@ -170,8 +170,8 @@ tenoreLyricsI = \lyricmode {
     \normalLyrics
     e per i dar -- di~i sguar -- di,
     E per lac -- ciuo -- li~i crin __ de l'au -- rea te -- sta
-    Ne ca -- pri -- o -- li~o Par -- di,
-    ne ca -- pri -- o -- li~o Par -- di
+    Né ca -- pri -- o -- li~o par -- di,
+    né ca -- pri -- o -- li~o par -- di
     Ma gli~uo -- min' e __ gli Dei sa -- et -- ta~e pi -- glia,
     ma gli~uo -- min' e gli Dei,
     \ijLyrics
@@ -209,17 +209,17 @@ bassoI = \relative c {
 }
 
 bassoLyricsI = \lyricmode {
-    Che nuo -- va Cin -- thia~e que -- sta
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
-    Che nuo -- va Cin -- thia~e que -- sta
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che nuo -- va Cin -- thia~è que -- sta
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che nuo -- va Cin -- thia~è que -- sta
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
     E per i dar -- di~i sguar -- di,
     \ijLyrics
     e per i dar -- di~i sguar -- di,
     \normalLyrics
     E per lac -- ciuo -- li~i crin de l'au -- rea te -- sta
         del -- la~au -- rea te -- sta,
-    Ne ca -- pri -- o -- li~o Par -- di
+    Né ca -- pri -- o -- li~o par -- di
     Ma gli~uo -- min' e __ gli Dei sa -- et -- ta~e pi -- glia,
     ma gli~uo -- min' e gli Dei,
     \ijLyrics
@@ -262,10 +262,10 @@ quintoI = \relative c' {
 }
 
 quintoLyricsI = \lyricmode {
-    Che nuo -- va Cin -- thia~e que -- sta
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
-    Che~in ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
-    Che nuo -- va Cin -- thia~e que -- sta,
+    Che nuo -- va Cin -- thia~è que -- sta
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che~in -- ve -- ce d'ar -- c'a -- do -- pe -- ra le ci -- glia,
+    Che nuo -- va Cin -- thia~è que -- sta,
     E per i dar -- di~i sguar -- di,
     e per i dar -- di,
     e per i dar -- di~i sguar -- di,
@@ -274,9 +274,9 @@ quintoLyricsI = \lyricmode {
     e per __ i dar -- di~i sguar -- di,
     \normalLyrics
     E per lac -- ciuo -- li~i crin de l'au -- rea te -- sta
-    Ne ca -- pri -- o -- li~o Par -- di,
+    Né ca -- pri -- o -- li~o par -- di,
     \ijLyrics
-    ne ca -- pri -- o -- li~o Par -- di
+    né ca -- pri -- o -- li~o par -- di
     \normalLyrics
     Ma gli~uo -- min' e gli Dei sa -- et -- ta~e pi -- glia,
     Ma gli~uo -- min' e gli Dei sa -- et -- ta~e pi -- glia,

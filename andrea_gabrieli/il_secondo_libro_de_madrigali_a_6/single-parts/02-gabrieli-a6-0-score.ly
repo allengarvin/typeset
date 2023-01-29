@@ -100,12 +100,22 @@
     \markup {
         \fill-line {
             \column {
-                \line { Cinto m'havea tra belle e nude braccia }
+                \line { Cinto m'avea tra belle e nude braccia }
                 \line { Amor pien di desio: }
                 \line { era tanto il diletto e'l piacer mio }
-                \line { ch'i' provai come in un s'arde~ed agghiaccia }
+                \line { ch'i' provai come in un s'arde ed agghiaccia }
                 \line { e come in un baleno }
                 \line { si può per troppa gioia venir meno. }
+            }
+            \column {
+                % my translation: 2023-01-20
+                \line { I was encircled in the lovely, bare arms }
+                \line { of Love, full of desire: }
+                \line { So much was my delight and pleasure, }
+                \line { it proved like one who burns and freezes, }
+                \line { and how like in a flash of lightning, }
+                \line { one can, for too much joy, grow faint. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

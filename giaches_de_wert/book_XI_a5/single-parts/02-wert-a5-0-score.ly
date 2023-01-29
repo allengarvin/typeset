@@ -87,7 +87,7 @@
                 tempoWholesPerMinute = #(ly:make-moment 76 2)
             }
         }
-    }   
+       
     \markup {
         \fill-line {
             \column {

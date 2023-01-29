@@ -99,12 +99,12 @@
         \fill-line {
             \column {
                 \line { Vieni Flora gentil, vieni e discaccia }
-                \line { La nubilosa pioggia e'l verno rio, }
-                \line { Dagli occhi e dal cor mio, }
-                \line { Ne' la tua dolce vista, }
-                \line { Lieta vedrai gioir l'anima trista }
-                \line { E sparger nel tuo grembo amati fiori, }
-                \line { Tra noi scherzando i pargoletti Amori. }
+                \line { la nubilosa pioggia e'l verno rio, }
+                \line { dagli occhi e dal cor mio, }
+                \line { ne' la tua dolce vista, }
+                \line { lieta vedrai gioir l'anima trista }
+                \line { e sparger nel tuo grembo amati fiori, }
+                \line { tra noi scherzando i pargoletti Amori. }
             }
             \column {
             % my translation

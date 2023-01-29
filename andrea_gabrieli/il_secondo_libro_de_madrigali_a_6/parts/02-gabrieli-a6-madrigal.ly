@@ -8,6 +8,16 @@
 % cinto: pp. of cingere, to twist, wind, to surround or encompass or encircle
 % havea: archaic aveva I think
 
+% I was encircled in the lovely, bare arms
+% by Love, full of desire:
+% So much was my delight and pleasure,
+% it proved like one who burns and freezes,
+% and how like in a flash of lightning,
+% one can, for too much joy, grow faint.
+
+% venire meno: fail, be insufficient, 
+% Marty: become faint [see Wert 10th libro] (wiktionary agrees)
+
 cantoIIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-g"
