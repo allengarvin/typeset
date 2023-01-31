@@ -92,16 +92,16 @@
         \fill-line {
             \column {
                 \line { Con voi giocando Amor, a voi simile, }
-                \line { Involast’ all’incauto la faretra: }
+                \line { involast’ all’incauto la faretra: }
                 \line { Egli, perché s’arretra }
-                \line { Per poca offesa alle più gravi umile, }
-                \line { Scoperto il furto, di ch’al fin s’avvide, }
-                \line { Iròssi, e non fu parco }
-                \line { A por la mano all’arco }
-                \line { Per ferirvi. Ma vide le saette  }
-                \line { Dal fianco suo divise, }
-                \line { E le due luci fide, }
-                \line { A rimirar si mise; }
+                \line { per poca offesa alle più gravi umile, }
+                \line { scoperto il furto, di ch’al fin s’avvide, }
+                \line { iròssi, e non fu parco }
+                \line { a por la mano all’arco }
+                \line { per ferirvi. Ma vide le saette  }
+                \line { dal fianco suo divise, }
+                \line { e le due luci fide, }
+                \line { a rimirar si mise; }
                 \line { E invaghito di voi, di sé sorrise. }
             }
         }

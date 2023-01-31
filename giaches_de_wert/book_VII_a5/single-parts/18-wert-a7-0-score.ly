@@ -21,7 +21,7 @@
     lastupdated = "2013-09-08"
     flats = 1
     final = "g"
-    categories = "[polychoral,dialogo]"
+    categories = "[polychoral,dialogo,madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

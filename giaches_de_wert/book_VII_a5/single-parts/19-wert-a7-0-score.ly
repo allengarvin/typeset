@@ -21,7 +21,7 @@
     lastupdated = "2018-09-18"
     flats = 1
     final = "g"
-    categories = "[dialogo]"
+    categories = "[dialogo,madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

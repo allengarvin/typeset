@@ -19,7 +19,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "ma_di_che_debbo_lamentarmi"
     shortcomp = "merulo"
-    categories = "[madrigal]"
+    categories = "[madrigal,furioso]"
     final = "d"
     flats = 1
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 21 }

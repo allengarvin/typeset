@@ -25,7 +25,7 @@
     originallyset = "2020-05-30"
     flats = 0
     final = "a"
-    categories = "[madrigal,polychoral]"
+    categories = "[madrigal,polychoral,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

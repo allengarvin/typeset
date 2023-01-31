@@ -22,7 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "di_morte_gia_sentia"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

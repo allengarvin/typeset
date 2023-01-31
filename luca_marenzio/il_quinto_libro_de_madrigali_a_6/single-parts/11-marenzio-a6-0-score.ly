@@ -19,7 +19,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "nel_dolce_seno_della_bella_clori"
     shortcomp = "marenzio"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     final = "a"
     flats = 0
     folio = \markup { Torquato Tasso, \italic { Rime d'Amore } 378 } 

@@ -22,7 +22,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "tirsi_morir_volea"
     shortcomp = "pallavicino"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     needtranslation = #'f
 
     % Unchanging:

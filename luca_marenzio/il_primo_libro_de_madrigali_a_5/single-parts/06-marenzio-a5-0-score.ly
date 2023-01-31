@@ -22,6 +22,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    categories = "[madrigal,morte]"
     tagline = #'f
 }
 
