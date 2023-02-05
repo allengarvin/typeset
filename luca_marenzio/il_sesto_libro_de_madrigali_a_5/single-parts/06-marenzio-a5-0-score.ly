@@ -91,15 +91,17 @@
         \vspace #4
         \fill-line {
             \column {
-                \line { Stillò l'anima in pianto }
-                \line { Tirsi, quando partire }
-                \line { Dovea da Clori e ne volea morire; }
-                \line { Ma la ninfa pietosa, }
-                \line { Con la bocca amorosa }
-                \line { Quell' umor colse e poi }
-                \line { Lo ridiede al pastor coi baci suoi. }
-                \line { Onde per gli occhi uscita, }
-                \line { Rientro per le labbra in lui la vita. }
+               \line { Stillò l'anima in pianto }
+               \line { tirsi, quando partire }
+               \line { dovea da Clori e ne volea morire; }
+               \line { Ma la ninfa pietosa, }
+               \line { con la bocca amorosa }
+               \line { quell' umor colse e poi }
+               \line { lo ridiede al pastor coi baci suoi. }
+               \line { Onde per gli occhi uscita, }
+               \line { rientro per le labbra in lui la vita. }
+            }
+            \column {
             }
         }
     }

@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "baciai_per_aver_vita"
     shortcomp = "philips"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     needtranslation = #'t
     final = "g"
     flats = 1
