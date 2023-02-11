@@ -8,54 +8,54 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2023-02-10"
+    originallyset = "2023-02-10"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Quando nascesti, Amor?"
+    title = "Soccorrete ben mio"
     subtitle = ""
-    instrument = "Quando nascesti, Amor?:  (altus)"
-    folio = "Panfilo Sasso (c.1455-1527)"
+    instrument = "Soccorrete ben mio:  (tenore)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "soccorrete_ben_mio"
+    shortcomp = "wert"
 
     % Things that change per part:
-    partname = "Altus (part 3 of 7)"
-    instrument = "Quando nascesti, Amor?:  (altus)"
+    partname = "Tenore (part 4 of 5)"
+    instrument = "Soccorrete ben mio:  (tenore)"
 
     % Unchanging:
-    lastupdated = "2013-04-23"
-    originallyset = "2013-04-23"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/43-willaert-a7-madrigal.ly"
-
-#(set-global-staff-size 16.5)
+\include "../parts/15-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "43-willaert--quando_nascesti_amor-"
-    \bookOutputSuffix "--3-altus--tr8_clef"
+    \bookOutputName "15-wert--soccorrete_ben_mio-"
+    \bookOutputSuffix "--4-tenore--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \altusXLIII
+            \tenoreXV
         >>
-                \addlyrics { \altusLyricsXLIII }
+                \addlyrics { \tenoreLyricsXV }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
-#(set-global-staff-size 15.6)
 \book {
-    \bookOutputName "43-willaert--quando_nascesti_amor-"
-    \bookOutputSuffix "--3-altus--al_clef"
+    \bookOutputName "15-wert--soccorrete_ben_mio-"
+    \bookOutputSuffix "--4-tenore--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altusXLIII
+            \tenoreXV
         >>
-                \addlyrics { \altusLyricsXLIII }
+                \addlyrics { \tenoreLyricsXV }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

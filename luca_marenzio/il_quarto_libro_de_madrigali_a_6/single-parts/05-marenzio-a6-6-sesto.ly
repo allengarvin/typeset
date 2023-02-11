@@ -8,54 +8,55 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2023-02-07"
+    originallyset = "2023-02-07"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Quando nascesti, Amor?"
+    title = "Vattene anima mia"
     subtitle = ""
-    instrument = "Quando nascesti, Amor?:  (altus)"
-    folio = "Panfilo Sasso (c.1455-1527)"
+    instrument = "Vattene anima mia:  (sesto)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "vattene_anima_mia"
+    shortcomp = "marenzio"
+    folio = "Giovanni Battista Pigna (1529-1575)"
 
     % Things that change per part:
-    partname = "Altus (part 3 of 7)"
-    instrument = "Quando nascesti, Amor?:  (altus)"
+    partname = "Sesto (part 5 of 6)"
+    instrument = "Vattene anima mia:  (sesto)"
 
     % Unchanging:
-    lastupdated = "2013-04-23"
-    originallyset = "2013-04-23"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/43-willaert-a7-madrigal.ly"
-
-#(set-global-staff-size 16.5)
+\include "../parts/05-marenzio-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "43-willaert--quando_nascesti_amor-"
-    \bookOutputSuffix "--3-altus--tr8_clef"
+    \bookOutputName "05-marenzio--vattene_anima_mia-"
+    \bookOutputSuffix "--5-sesto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \altusXLIII
+            \sestoV
         >>
-                \addlyrics { \altusLyricsXLIII }
+                \addlyrics { \sestoLyricsV }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
-#(set-global-staff-size 15.6)
 \book {
-    \bookOutputName "43-willaert--quando_nascesti_amor-"
-    \bookOutputSuffix "--3-altus--al_clef"
+    \bookOutputName "05-marenzio--vattene_anima_mia-"
+    \bookOutputSuffix "--5-sesto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altusXLIII
+            \sestoV
         >>
-                \addlyrics { \altusLyricsXLIII }
+                \addlyrics { \sestoLyricsV }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

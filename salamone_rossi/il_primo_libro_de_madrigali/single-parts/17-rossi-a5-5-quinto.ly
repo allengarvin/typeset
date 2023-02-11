@@ -60,3 +60,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "17-rossi--udite_lagrimosi_spirti_daverno-"
+    \bookOutputSuffix "--4-quinto--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \quintoXVII
+        >>
+                \addlyrics { \quintoLyricsXVII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

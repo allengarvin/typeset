@@ -8,54 +8,54 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2023-02-11"
+    originallyset = "2023-02-11"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Quando nascesti, Amor?"
+    title = "Crudelissima doglia"
     subtitle = ""
-    instrument = "Quando nascesti, Amor?:  (altus)"
-    folio = "Panfilo Sasso (c.1455-1527)"
+    instrument = "Crudelissima doglia:  (alto)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "crudelissima_doglia"
+    shortcomp = "wert"
 
     % Things that change per part:
-    partname = "Altus (part 3 of 7)"
-    instrument = "Quando nascesti, Amor?:  (altus)"
+    partname = "Alto (part 3 of 5)"
+    instrument = "Crudelissima doglia:  (alto)"
 
     % Unchanging:
-    lastupdated = "2013-04-23"
-    originallyset = "2013-04-23"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/43-willaert-a7-madrigal.ly"
-
-#(set-global-staff-size 16.5)
+\include "../parts/16-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "43-willaert--quando_nascesti_amor-"
-    \bookOutputSuffix "--3-altus--tr8_clef"
+    \bookOutputName "16-wert--crudelissima_doglia-"
+    \bookOutputSuffix "--3-alto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \altusXLIII
+            \altoXVI
         >>
-                \addlyrics { \altusLyricsXLIII }
+                \addlyrics { \altoLyricsXVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
-#(set-global-staff-size 15.6)
 \book {
-    \bookOutputName "43-willaert--quando_nascesti_amor-"
-    \bookOutputSuffix "--3-altus--al_clef"
+    \bookOutputName "16-wert--crudelissima_doglia-"
+    \bookOutputSuffix "--3-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altusXLIII
+            \altoXVI
         >>
-                \addlyrics { \altusLyricsXLIII }
+                \addlyrics { \altoLyricsXVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

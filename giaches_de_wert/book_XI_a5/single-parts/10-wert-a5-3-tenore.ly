@@ -60,3 +60,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "10-wert--udite_lagrimosi_spirti_daverno-"
+    \bookOutputSuffix "--4-tenore--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \tenoreX
+        >>
+                \addlyrics { \tenoreLyricsX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

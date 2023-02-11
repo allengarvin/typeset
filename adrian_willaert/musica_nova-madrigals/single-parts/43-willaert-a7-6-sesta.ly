@@ -7,6 +7,7 @@
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
+#(set-global-staff-size 19.5)
 \header {
     % Things that change per piece:
     title = "Quando nascesti, Amor?"
@@ -44,7 +45,7 @@
     }
 }
 
-#(set-global-staff-size 16.5)
+#(set-global-staff-size 16.0)
 \book {
     \bookOutputName "43-willaert--quando_nascesti_amor-"
     \bookOutputSuffix "--2-sesta--al_clef"
