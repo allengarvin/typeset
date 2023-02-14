@@ -1,0 +1,15 @@
+The <i>in nomine</i> is a genre of polyphonic composition unique to English consort music, originating
+in the Benedictus section of John Taverner's <i>Gloria tibi Trinitas</i> mass (written circa 1530). The
+composer uses the "In nomine Domine" plainchaint as a cantus firmus around which to weave counterpoint.
+Around the late 1560s or 1570s, multiple composers began to write such pieces, and the popularity
+persisted about a century, with the last period example composed by a youthful Henry Purcell. It is
+most associated with the viol consort, though a few keyboard, vocal, and lute in nomines are known.
+Typically, a high voice viol plays the in nomine plainchant in single breves, usually but not always
+entering before any other instruments. <p>
+Most of my transcriptions are Elizabethan examples. Later Jacobean in nomine compositions tended to
+be very complex and difficult pieces that show off the counterpoint skills of the composer.<p>
+See also:
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/In_Nomine">Wikipedia's In Nomine article</a></li>
+<li><a href="https://doi.org/10.1093/gmo/9781561592630.article.13804">The New Grove Dictionary of Music</a></li>
+</ul>

@@ -1,0 +1,16 @@
+None of the scores in this section have been uploaded to IMSLP or CPDL. There are several
+possible reasons: most often, it's because it's part of a larger set I haven't finished yet.
+In a few cases, I have chosen not to because the piece is too slight or uninteresting. For a
+handful of Frescobaldi pieces, I got tired of arguing with the IMSLP staff that no, these aren't
+arrangements because they're in partitura: Frescobaldi preferred to present his keyboard
+pieces that way, and putting them in a two-stave keyboard score would be the <b>true</b>
+arrangement.<p>
+Most of the time, it's the first reason: It's the first part of a 2-part or multipart piece
+and I just haven't finished the other pieces. (especially masses: I always get bogged down
+in the credo!)<p>
+Previously, these pieces I would leave in an unfinished state, and it was difficult to keep
+track of them, so I would forget about such pieces and then rediscover them years later.
+This week (2022-09-20), I wrote a script to track down unfinished pieces. Now I'm placing them
+here, via a special tag in directories,
+allowing downloading for the curious, and also letting me track them more easily. If there's
+something you'd like me to complete, just pester me about it.

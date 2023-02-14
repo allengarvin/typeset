@@ -1,0 +1,70 @@
+Throughout the first eighty years of music printing, publications of music for instrumental
+ensembles was relatively rare, around or less than 1% of all prints. This began to change in
+the 1580s on with the publication of the instrumental <i>canzona</i>. 
+<p>
+The published instrumental canzona came out of two traditions: organists in northern Italy
+had used the mid 16th century French chanson as a model for abstract improvisation. The
+initial theme of many chansons, with a long initial note followed by short repeated notes
+of the same pitch, because a standard motif in many canzonas. Other features of the Chanson
+that were often followed in the canzona included the light, quick textures, polyphonic
+imitation of a simple theme in all the voice, and clearly delineated sections.
+<p>
+Another tradition contributing to the new instrumental repertoire was the ricercar. From
+around the middle of the 16th century on, there had been publications of lute, keyboard,
+and occasionally instrumental ensemble (published in partbooks) of pieces of a more
+intellectual bent, where usually a single musical idea was explored within piece,
+using techniques of pure counterpoint: inversion, augmentation, diminution, etc. 
+<p>
+The first published instrumental canzona that remains extant remains extant was found in Nicola 
+Vicentino's fifth book of madrigals in 1572. At the end of the collection was a piece labeled
+"canzone da sonare" ("song to play"). In the next few years, occasionally instrumental pieces 
+could be found at the end of collections otherwise devoted to vocal compositions, such as 
+Ingegneri's second book of madrigals a 4 voce, which contained two pieces labeled 
+"aria di canzon francese per sonare" ("french song for playing"). In 1582, the first collection
+devoted to the genre was published, Florentio Maschera's <i>Libro primo de canzoni da sonare
+a quattro voce</i>, which proved to be very popular, going through multiple reprintings. Manuscript
+copies also exist in Torino of Maschera's pieces entabulated in German organ tablature, and in
+Bologna in partitura form.
+<p>
+Following Maschera's publication, there were a handful of similar publications in the 1580s, several
+more in the 1590s, and dozens in the period of 1600-1630. Typical collections often contained
+pieces both of the canzona/chanson tradition as well as the ricercar type of piece. Most were
+published in partbooks, labeled "per ogni sorte di strumenti" (for every sort of instruments),
+and were apparently used for both ensemble and keyboard (with keyboard players making their own
+intabulations in partitura, keyboard tablature, or the more familiar two-stave form). 
+A few publications included both partitura and partbooks, and some, aimed more at keyboard players, 
+were only in partitura (Frescobaldi preferred this form) or two-stave keyboard tabulations.
+<p>
+Though the genre quickly lost popularity after 1630, its name survived for abstract instrumental
+compositions. The canzona per sonare ("song for playing") later became the "canzona sonata" (played song)
+and that eventually morphed into simply "sonata" (something that is "played").
+<p>
+A note on terminology: <i>Canzona</i> simply means "song" in Italian, and is a variation
+of the modern standard Italian <i>canzone</i>. Both "canzona" and "canzone" were used
+interchangeably in the period, and there were many publications that used "canzone" to mean simply
+"song", an Italian-texted composition of lighter form than the more serious "madrigale". Other 
+publications used "canzonetta/canzonette/" or "canzonet", the Italian apocopic form, which
+also became popular in English (pluralized with "canzonets"). The plural of "canzona" as well as
+"canzone" was usually "canzoni", with "canzone" being relatively rare, though not unheard of.
+"Canzona" is preferred by musicologists for discussion the instrumental genre, with "canzone"
+being used for lighter vocal pieces today.
+<p>
+Other terms occasionally used in the period included "fantasia"/"fantasie" and "capriccio"/"capricci".
+<p>
+"Sonare" is of course a variant of the modern standard Italian "suonare" ("to play"). "Sonata" is
+the feminine participle of the verb, which was to become the simple noun for the genre of
+instrumental composition.
+<p>
+The term "canzona" or "canzone" should also not be confused with the serious poetic form, with its
+complicated rhyme scheme, that arose in the 12th century. Madrigal books often contained multiple
+grouped madrigals using canzone by Petrarca and others. These were typically the most serious
+of poetry, and the compositions were prestige pieces by composers.
+<p>
+References:
+<ul>
+<li> <a href="https://doi.org/10.1093/gmo/9781561592630.article.04804">New Grove Dictionary entry for Canzona</a></li>
+<li> <i>Italian Ricercars and Canzonas, vol. 1 & 2, introduction</i> by George Houle (PRB productions, 2004) </i>
+<li> <i>Italian Instrumental Music of the Sixteenth and Early Seventeenth Centuries, introduction</i> by James Ladewig (Garland Publishing, 1989</li>
+<li> <i>Bibliografia della musica strumentale Italiana</i> by Claudio Sartori (Leo S. Oslschki, 1952) </li>
+<li> <i>Intimate Music: A History of the Idea of Chamber Music</i> by John H. Baron (Pendragon press, 1998)</li>
+</ul>

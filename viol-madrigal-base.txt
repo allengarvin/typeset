@@ -1,0 +1,495 @@
+Placeholder text for a longer, future write-up. The popularity of the Italian madrigal in England started in
+the late 1580s and lasted through the first third of the 17th century. <p>
+These are Italian madrigals that are to be found in manuscripts that mainly
+consist of viol repertoire. I'll write something longer later. Right now, I'm listing madrigals found in
+the "Great Set" (GB-Och Mss. 2, 397-408, 436), Drexel 4180-4185 (US-NYp Mus. Rex. Drexel 4180-8185), Bl. Add. 40657-40661.
+<p>
+
+Manuscript contents
+<ul>
+<li> <a href="https://vdgs.org.uk/indexmss/03%20British%20Library%20MSS.pdf">British Library MSS</a></li>
+<li> <a href="https://vdgs.org.uk/indexmss/05%20Christ%20Church%20MSS.pdf">Christ Church MSS</a></li>
+<li> <a href="https://vdgs.org.uk/indexmss/07%20NY%20Drexel%204180-5.pdf">NY Drexel 4180-5</a></li>
+</ul>
+
+
+<center>British Library, Add. MSS 40,657-40,661 ("The Shirley Partbooks", in William Lawes' hand)</center>
+<table>
+    <tr>
+        <td>Composer </td>
+        <td>No. in MSS</td>
+        <td>Title</td>
+            <td>40657</td>
+            <td>40658</td>
+            <td>40659</td>
+            <td>40660</td>
+            <td>40661</td>
+        <td>Orig. Source</td>
+    </tr>
+
+    <tr>
+        <td>Claudio Monteverdi</td>
+        <td>7</td>
+        <td>O come è gran martire</td>
+            <td>34</td>
+            <td>34</td>
+            <td>20</td>
+            <td>34</td>
+            <td>5</td>
+        <td><a href="claudio_monteverdi/book_3_a5">III a5</a></td>
+    </tr>
+    <tr>
+        <td>Claudio Monteverdi</td>
+        <td>8</td>
+        <td>Là tra ’l sangue e le morti</td>
+            <td>34</td>
+            <td>34</td>
+            <td>20</td>
+            <td>34</td>
+            <td>5</td>
+        <td><a href="claudio_monteverdi/book_3_a5">III a5</a></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>19</td>
+        <td>Arda pur sempre o mora</td>
+            <td>39v</td>
+            <td>39v</td>
+            <td>25v</td>
+            <td>39v</td>
+            <td>10v</td>
+        <td><a href="luca_marenzio//il_settimo_libro_de_madrigali_a_5">VII a5</a> (#11)</td>
+    </tr>
+
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>20</td>
+        <td>Rimanti in pace, alla dolente e bella</td>
+            <td>39v</td>
+            <td>39v</td>
+            <td>25v</td>
+            <td>39v</td>
+            <td>10v</td>
+        <td>VI a5 (#17)</td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>21</td>
+        <td>Ond'ei di morte</td>
+            <td>40</td>
+            <td>40</td>
+            <td>25</td>
+            <td>39</td>
+            <td>11</td>
+        <td>VI a5 (#18)</td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>22</td>
+        <td>Caro dolce mio ben chi mi vi toglie?</td>
+            <td>40</td>
+            <td>40</td>
+            <td>26</td>
+            <td>40</td>
+            <td>11</td>
+        <td>III a5</td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>23</td>
+        <td>Che se tu se’ il cor mio</td>
+            <td>40v</td>
+            <td>40v</td>
+            <td>26v</td>
+            <td>40v</td>
+            <td>11v</td>
+        <td>VI a5</td>
+    </tr>
+
+    <tr>
+        <td>Orazio Vecchi</td>
+        <td>24</td>
+        <td>Clorinda hai vinto</td>
+            <td>40v</td>
+            <td>40v</td>
+            <td>26v</td>
+            <td>40v</td>
+            <td>11v</td>
+        <td>I a5</td>
+    </tr>
+
+    <tr>
+        <td>Claudio Monteverdi</td>
+        <td>25</td>
+        <td>Sovra tenere erbette</td>
+            <td>41</td>
+            <td>41</td>
+            <td>27</td>
+            <td>41</td>
+            <td>12</td>
+        <td><a href="claudio_monteverdi/book_3_a5">III a5</a></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>26</td>
+        <td>Deh, poi ch'era ne' fati ch'io dovessi</td>
+            <td>41v</td>
+            <td>41v</td>
+            <td>27v</td>
+            <td>41v</td>
+            <td>12v</td>
+        <td><a href="luca_marenzio//il_settimo_libro_de_madrigali_a_5">VII a5</a></td>
+    </tr>
+
+    <tr>
+        <td>Benedetto Pallavicino</td>
+        <td>27</td>
+        <td>Come vivrò nelle mie pene</td>
+            <td>41v</td>
+            <td>41v</td>
+            <td>27v</td>
+            <td>41v</td>
+            <td>12v</td>
+        <td>VI a5</td>
+    </tr>
+
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>27</td>
+        <td>Quell'augellin, che canta</td>
+            <td>42</td>
+            <td>42</td>
+            <td>28</td>
+            <td>42</td>
+            <td>13</td>
+        <td><a href="luca_marenzio/il_settimo_libro_de_madrigali_a_5">VII a5</a></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>30</td>
+        <td>Solo e pensoso</td>
+            <td>43</td>
+            <td>43</td>
+            <td>29</td>
+            <td>43</td>
+            <td>14</td>
+        <td>IX a5</td>
+    </tr>
+</table>
+<p>
+
+<center>British Library, Egerton MS 2465</center>
+<table>
+    <tr>
+        <td>Composer </td>
+        <td>Title</td>
+            <td>Folio</td>
+        <td>Orig. Source</td>
+    </tr>
+
+    <tr>
+        <td>Claudio Monteverdi</td>
+        <td>Là tra ’l sangue e le morti</td>
+            <td>42v</td>
+        <td><a href="claudio_monteverdi/book_3_a5">III a5</a></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>Arda pur sempre o mora</td>
+            <td>43v</td>
+        <td>VIII a5 (#11)</td>
+    </tr>
+</table>
+<p>
+
+<center>Christ Church, Mus. 2, 404-408, 436 ("The Great Set")</center>
+<table>
+    <tr>
+        <td>Composer </td>
+        <td>No. in MSS</td>
+        <td>Title</td>
+            <td>2</td>
+            <td>404</td>
+            <td>405</td>
+            <td>406</td>
+            <td>407</td>
+            <td>408</td>
+            <td>436</td>
+        <td>Orig. Source</td>
+    </tr>
+
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>1</td>
+        <td>Arda pur sempre o mora</td>
+            <td>108</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>49</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>2</td>
+        <td>Rimanti in pace, alla dolente e bella</td>
+            <td>108v</td>
+            <td>1v</td>
+            <td>1v</td>
+            <td>1v</td>
+            <td>1v</td>
+            <td>1v</td>
+            <td>49v</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>3</td>
+        <td>Ond'ei di morte</td>
+            <td>109</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>50</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>4</td>
+        <td>Caro dolce mio ben chi mi vi toglie?</td>
+            <td>109v</td>
+            <td>2v</td>
+            <td>2v</td>
+            <td>2v</td>
+            <td>2v</td>
+            <td>2v</td>
+            <td>50v</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>5</td>
+        <td>Che se tu se’ il cor mio</td>
+            <td>110</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>51</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Claudio Monteverdi</td>
+        <td>6</td>
+        <td>Là tra ’l sangue e le morti</td>
+            <td>110v</td>
+            <td>3v</td>
+            <td>3v</td>
+            <td>3v</td>
+            <td>3v</td>
+            <td>3v</td>
+            <td>51v</td>
+        <td><a href="claudio_monteverdi/book_3_a5">III a5</a></td>
+    </tr>
+    <tr>
+        <td>Claudio Monteverdi</td>
+        <td>8</td>
+        <td>Sovra tenere erbette</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td><a href="claudio_monteverdi/book_3_a5">III a5</a></td>
+    </tr>
+    <tr>
+        <td>Claudio Monteverdi</td>
+        <td>9</td>
+        <td>O come è gran martire</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Orazio Vecchi</td>
+        <td>10</td>
+        <td>Clorinda hai vinto</td>
+            <td>113</td>
+            <td>5v</td>
+            <td>5v</td>
+            <td>5v</td>
+            <td>5v</td>
+            <td>5v</td>
+            <td>54v</td>
+        <td>I a5</td>
+    </tr>
+    <tr>
+        <td>Benedetto Pallavicino</td>
+        <td>13</td>
+        <td>Era l'anima mia </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td>VI a5</td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>14</td>
+        <td>Ami, Tirsi, e me'l nieghi </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td><a href="luca_marenzio//il_settimo_libro_de_madrigali_a_5">VII a5</a></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>15</td>
+        <td>Deh, poi ch'era ne' fati ch'io dovessi</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Benedetto Pallavicino</td>
+        <td>16</td>
+        <td>Come vivrò nelle mie pene</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>17</td>
+        <td>Quell'augellin, che canta</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Luca Marenzio</td>
+        <td>18</td>
+        <td>Ma grideran per me le piaggie</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td><a href="luca_marenzio//il_settimo_libro_de_madrigali_a_5">VII a5</a></td>
+    </tr>
+    <tr>
+        <td>Benedetto Pallavicino</td>
+        <td>21</td>
+        <td>O dolorosa morte</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td>VII a5 (#10)</td>
+    </tr>
+    <tr>
+        <td>Claudio Monteverdi</td>
+        <td>22</td>
+        <td>Voi pur da me partite</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td>IV a5</td>
+    </tr>
+    <tr>
+        <td>Claudio Monteverdi</td>
+        <td>23</td>
+        <td>Luci serene e chiare</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td>IV a5 (#8)</td>
+    </tr>
+    <tr>
+        <td>Benedetto Pallavicino</td>
+        <td>-</td>
+        <td>Cor mio deh non languire</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td>VI a5 (#16)</td>
+    </tr>
+    <tr>
+        <td>Benedetto Pallavicino</td>
+        <td>-</td>
+        <td>O come vaneggiate Donna </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <td>VI a5 (#15)</td>
+    </tr>
+</table>
+<p>
+
+<center>Christ Church, Mus. 21</center>
+<table>
+    <tr>
+        <td>Composer </td>
+        <td>Page</td>
+        <td>Title</td>
+        <td>Orig. Source</td>
+    </tr>
+</table>
+
+<p>
+Looking for contents of GB-Lbl Add. MS 18936, which has a variety of madrigals. DIAMM has no full listing: <a href="https://www.diamm.ac.uk/sources/1875">https://www.diamm.ac.uk/sources/1875</a>.<p>

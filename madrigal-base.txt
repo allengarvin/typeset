@@ -1,0 +1,70 @@
+The word <i>madrigal</i> has two primary meanings: 
+first, it is a poetic form for short lyric poetry, consisting of
+an unfixed rhyme scheme and a varying combination of 
+hendecasyllabic or hypasyllabic (11 or 7 syllables) lines. Petrarch wrote
+a bare handful in the trecento, out of hundreds of sonnets, which were the
+most elevated type of Italian poetry. Madrigals, on the other hand, while
+still serious poetry, were a lighter form. By the 16th century, they had come
+to dominate Italian poetry, with dozens of print collections published throughout the century.
+<p>
+The second meaning refers to a musical composition that became suddenly
+popular in Florence in the 1520s, associated especially with the composer
+Philippe Verdelot (c.1480-1540) and later Jacob Arcadelt (c.1507-1568).
+Initially circulating in manuscripts, in the mid 1530s its popularity exploded
+with a number of publications (mostly printed in Venice, the center by
+far of Italian printing, musical or otherwise), and grew in popularity
+every decade until its height in the 1580s and 90s. In the early 17th century,
+its popularity waned, especially after 1620.<p>
+
+In some circles today, the term "madrigal" is used to mean any renaissance
+vocal composition, by "madrigal" groups that might sing anything from
+15th century French chansons or Latin motets, lighter Italian forms like
+frottele or villanelle, to English fa-la-la pieces, as well as the occasional
+actual madrigal. On this page, I'll only be using the term in its Italian
+meaning, though elsewhere you can find some English madrigals. The English
+madrigal craze started around 1590 and lasted about 30 years. While
+composers across Europe wrote a variety of madrigals, they did so almost
+universally in Italian. Only in England did composers write madrigals in
+their native tongue, for a brief time (and also translated Italian madrigals
+into English).<p>
+
+Most of the pieces transcribed here are from the period 1560-1600, though
+there are also a moderate number from both the earlier and later period,
+including a handful of concerted madrigals of the baroque. For the texts,
+I've developed the following style guide:<p>
+
+The Italian is lightly modernized by:
+<ul>
+<li> removal of pleonastic <i>h</i>'s except those handful that survive in
+modern Italian (hence, <i>hora</i> -> <i>ora</i>, <i>hoggi</i>-><i>oggi</i>, etc.)</li>
+<li> spelling is mostly standardized, and on rare occasion, an additional
+consonant is added for consistency with modern spelling</i>
+<li> <i>et</i> is replaced with <i>e</i> except when it comes just before a 
+vowel, in which case it is replaced by <i>ed</i></li> (even when this would
+not match modern style, where ed would just be used before words starting with e)</li>
+<li> u/v and i/j are standardized according to modern rules</li>
+<li> accents are added per modern rules (<i>perché</i>, <i>più</i>, etc)</li>
+<li> Certain word combinations are expanded where the syllabic sound would
+not be clear to a non-Italian speaker (for instance, <i>gl'occhi</i> -> 
+<i>gli occhi</i>, <i>c'ha</i> -> <i>ch'ha</i>)</li>
+<li> A few archaic terms like <i>all'hor</i> are collapsed into their modern form <i>allor</i>.</li>
+<li> Punctuation is added where it makes sense. Internal punctuation
+is almost always missing from madrigal publications. Here, I add commas
+before phrases are repeated, and light other punctuation to reflect how
+I read the text (if the poem is published elsewhere in the 17th century,
+I usually take punctuations from the poetry collection, provided it makes
+sense). Sometimes this is a bit arbitrary, as it can be ambiguous. The
+reader should feel free to disagree with my choices and make changes
+themselves. Sometimes punctuation is shown on the score pages in the text after the piece that doesn't make its way into the music text for lack of making musical sense.</li>
+</ul>
+<p>
+
+A convention in most madrigal music publications is to capitalize the first
+word of each poetic line. Here, I capitalize the first occurrence of a poetic
+line, but not each subsequent, which allows the eye to notice when there's
+a possible new theme or meaning starting. This is somewhat arbitrary, but I've
+been doing it over a decade now and prefer to be consistent to my earlier
+practice.<p>
+
+Note: I've been actively studying Italian since 2019. Sometimes my older publications don't follow the above rules as well. I'm slowly in the process of revising older work to conform with my current style.<p>
+
