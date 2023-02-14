@@ -1,3 +1,15 @@
+% working on:
+% I am not, however, dead,
+% Lady, as you think,
+% Because you no longer love me;
+% Rather, I return to life.
+% For the soul, buried in you,
+% Once freed by you,
+% Is found to have left
+% A mortal prison;
+% And changes death and evil
+% Into life and good.
+
 cantoIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"
