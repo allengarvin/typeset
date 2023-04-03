@@ -1,4 +1,4 @@
-cantoXVIIIincipit = \relative c''' {
+cantoXIXincipit = \relative c''' {
     \time 2/2
     \clef "petrucci-g"
     \key c \major
@@ -7,7 +7,7 @@ cantoXVIIIincipit = \relative c''' {
 }
 
 % canto: checked against source
-cantoXVIII = \relative c''' {
+cantoXIX = \relative c''' {
     \fourTwoCutTime
     \clef treble
     \key c \major
@@ -28,7 +28,7 @@ cantoXVIII = \relative c''' {
     \bar "|."
 }
 
-cantoLyricsXVIII = \lyricmode {
+cantoLyricsXIX = \lyricmode {
     Ma gri -- de -- ran per me le piag -- g'e~i mon -- ti,
     ma gri -- de -- ran per me le piag -- g'e~i mon -- ti
     E que -- sta sel -- va~a cu -- i 
@@ -44,7 +44,7 @@ cantoLyricsXVIII = \lyricmode {
     di -- ran -- no~i miei la -- men -- ti.
 }
 
-altoXVIIIincipit = \relative c'' {
+altoXIXincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c2"
     \key c \major
@@ -53,7 +53,7 @@ altoXVIIIincipit = \relative c'' {
 }
 
 % alto: checked against source
-altoXVIII = \relative c'' {
+altoXIX = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
@@ -70,7 +70,7 @@ altoXVIII = \relative c'' {
     \bar "|."
 }
 
-altoLyricsXVIII = \lyricmode {
+altoLyricsXIX = \lyricmode {
     Ma gri -- de -- ran per me le piag -- g'e~i mon -- ti,
         le piag -- g'e~i mon -- ti 
     E que -- sta sel -- va~a cu -- i
@@ -85,7 +85,7 @@ altoLyricsXVIII = \lyricmode {
     di -- ran -- no~i miei la -- men -- ti.
 }
 
-tenoreXVIIIincipit = \relative c'' {
+tenoreXIXincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c3"
     \key c \major
@@ -94,7 +94,7 @@ tenoreXVIIIincipit = \relative c'' {
 }
 
 % tenore: checked against source
-tenoreXVIII = \relative c'' {
+tenoreXIX = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
@@ -113,7 +113,7 @@ tenoreXVIII = \relative c'' {
     \bar "|."
 }
 
-tenoreLyricsXVIII = \lyricmode {
+tenoreLyricsXIX = \lyricmode {
     Ma __ gri -- de -- ran per me le piag -- g'e~i mon -- ti,
         le piag -- g'e~i __ mon -- ti
     E que -- sta sel -- va~a cu -- i
@@ -129,7 +129,7 @@ tenoreLyricsXVIII = \lyricmode {
     di -- ran -- no~i miei la -- men -- ti.
 }
 
-bassoXVIIIincipit = \relative c'' {
+bassoXIXincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c4"
     \key c \major
@@ -138,7 +138,7 @@ bassoXVIIIincipit = \relative c'' {
 }
 
 % basso: checked against source
-bassoXVIII = \relative c'' {
+bassoXIX = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
@@ -155,7 +155,7 @@ bassoXVIII = \relative c'' {
     \bar "|."
 }
 
-bassoLyricsXVIII = \lyricmode {
+bassoLyricsXIX = \lyricmode {
     Ma gri -- de -- ran per me le piag -- g'e~i mon -- ti,
         le piag -- g'e~i mon -- ti
     E que -- sta sel -- va~a cu -- i
@@ -168,7 +168,7 @@ bassoLyricsXVIII = \lyricmode {
     di -- ran -- no~i miei __ la -- men -- ti.
 }
 
-quintoXVIIIincipit = \relative c''' {
+quintoXIXincipit = \relative c''' {
     \time 2/2
     \clef "petrucci-g"
     \key c \major
@@ -177,7 +177,7 @@ quintoXVIIIincipit = \relative c''' {
 }
 
 % quinto: checked against source
-quintoXVIII = \relative c''' {
+quintoXIX = \relative c''' {
     \fourTwoCutTime
     \key c \major
 
@@ -196,7 +196,7 @@ quintoXVIII = \relative c''' {
     \bar "|."
 }
 
-quintoLyricsXVIII = \lyricmode {
+quintoLyricsXIX = \lyricmode {
     Ma gri -- de -- ran per me le piag -- g'e~i mon -- ti,
     ma gri -- de -- ran per me le piag -- g'e~i mon -- ti
     E que -- sta sel -- va~a cu -- i
@@ -212,38 +212,38 @@ quintoLyricsXVIII = \lyricmode {
     di -- ran -- no~i miei la -- men -- ti.
 }
 
-cantoXVIIIincipitVoice = <<
+cantoXIXincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoXVIIIincipit
+        \cantoXIXincipit
     >>
 >>
 
-altoXVIIIincipitVoice = <<
+altoXIXincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altoXVIIIincipit
+        \altoXIXincipit
     >>
 >>
 
-tenoreXVIIIincipitVoice = <<
+tenoreXIXincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreXVIIIincipit
+        \tenoreXIXincipit
     >>
 >>
 
-bassoXVIIIincipitVoice = <<
+bassoXIXincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassoXVIIIincipit
+        \bassoXIXincipit
     >>
 >>
 
-quintoXVIIIincipitVoice = <<
+quintoXIXincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \quintoXVIIIincipit
+        \quintoXIXincipit
     >>
 >>
 
