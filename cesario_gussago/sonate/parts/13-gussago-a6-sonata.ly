@@ -23,7 +23,7 @@ cantoXIII = \relative c'' {
     e2 g a f | e1 d4 a'2 f4 ~ | f d2 g fs8[ e] fs2 | g4 g2 e c f4 ~ |
         f e8[ d] e2 f1 | r1 
 
-    r4 d2 g4 ~ | g e2 a f d4 ~ | d g2 s4 g1 | g\breve | g | g1 r1 | R\breve |
+    r4 d2 g4 ~ | g e2 a f d4 ~ | d g2 fs4 g1 | g\breve | g | g1 r1 | R\breve |
         d2. b4 e2 cs | d b a1 | g r1 | 
 
     r2 g'2. e4 a2 | f d e g | a f e1 | d4 a'2 f d g4 ~ | 

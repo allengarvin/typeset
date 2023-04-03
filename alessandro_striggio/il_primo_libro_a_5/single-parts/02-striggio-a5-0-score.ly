@@ -99,6 +99,16 @@
                 \line { Stenda le braccia del tuo giust'impero }
                 \line { Dovunque copre il gran nostre emispero.  }
             }
+            \column {
+                \line { Worthy such that learned histories and cultivated poems }
+                \line { sing of your glory, }
+                \line { so that it does not hide in the obscure depths }
+                \line { the happy and illustrious revered memory of you, }
+                \line { worthy that, as is just to your valor, }
+                \line { the arms of your just empire extend }
+                \line { wherever extends our great hemisphere. }
+                \line { \hspace #10 \italic { translation by editor } } 
+            }
         }
     }
 }

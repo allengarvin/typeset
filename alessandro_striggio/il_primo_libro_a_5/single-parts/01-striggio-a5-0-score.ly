@@ -91,16 +91,29 @@
     \markup {
         \fill-line {
             \column {
-                \line { O de la bella Etruria invitto Duce }
-                \line { Cosmo lume maggiore, }
-                \line { De l'italico onore, }
-                \line { In cui splend'e riluce }
-                \line { Quant uom far può d'eterna gloria degno, }
-                \line { Ché sei poggiato al segno }
-                \line { U ne tempi vetusti }
-                \line { Col consiglio e con l'armi, }
-                \line { S'alzar que magni Augusti }
-                \line { Ch'ancor onora e riverisce il mondo. }
+                \line { O della bella Etruria invitto Duce }
+                \line { cosmo lume maggiore, }
+                \line { dell'italico onore, }
+                \line { in cui splend'e riluce }
+                \line { quant uom far può d'eterna gloria degno, }
+                \line { ché sei poggiato al segno }
+                \line { u ne tempi vetusti }
+                \line { col consiglio e con l'armi, }
+                \line { s'alzar que magni Augusti }
+                \line { ch'ancor onora e riverisce il mondo. }
+            }
+            \column {
+                \line { Oh, invincible leader of lovely Etruria, }
+                \line { Cosimo, greatest light }
+                \line { of Italian honor, }
+                \line { in which shines and radiates }
+                \line { all that a man can do worthy of eternal glory, }
+                \line { you have achieved the mark; }
+                \line { where in ancient times, }
+                \line { with counsel and with arms, }
+                \line { those great Augustuses rose, }
+                \line { that the world still honors and reveres. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

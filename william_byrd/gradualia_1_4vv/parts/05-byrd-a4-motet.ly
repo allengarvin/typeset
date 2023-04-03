@@ -228,7 +228,7 @@ bassusV = \relative c' {
     bf1. a2 | g1 f | f g2.( f4 | ef1) d | R\breve | d2. f4 ef2. d4 | c1 d |
         g,2 d' c bf | a1
 
-    g2 d' ~ | d4 f ef2 d c( | d ef d1) | g, c2.( d4 | ef g g2 ef c) |
+    g2 d' ~ | d4 f ef2 d c( | d ef d1) | g, c2.( d4 | ef f g2 ef c) |
         g'\longa*1/2
     \bar "|."
 }

@@ -1,5 +1,45 @@
 % Che giova passeder cittadi|Che giova posseder cittadi e regni e palagi habitar (prima parte)
 
+
+% translation 03-30-23, needs some work:
+
+% What good is it to possess cities and kingdoms,
+% and live in palaces of lofty design,
+% and have servants worthy of imperial power,
+% and coffers heavy with great treasure,
+% to be sung of by sublime minds,
+% to wear purple, to eat off gold,
+% and match the sun in beauty,
+% yet lie in a bed cold and lonely?
+% 
+% But what good there is to have faithful lovers,
+% and with them share every thought,
+% desires, fears, laughter, tears,
+% and anger and hope, and falsity and truth,
+% now with caring deeds, now with apperances,
+% make the weight of life lighter,
+% and if roughness and in base thoughts,
+% [be] above worldly customs, happy and gentle.
+% 
+% How dear must a man be to you, who desires
+% your happiness more than his own,
+% who calls out no other name but yours,
+% who, thinking but of you, eases all his troubles,
+% who fears for and cherishes you more than the world,
+% who often lives in you, dies in himself,
+% who is led by the tranquil and pure lights
+% of your mortal journey as his guides.
+% 
+% For you are not a complete being,
+% Nor are we, but each is half of a whole;
+% Love is then what makes us whole,
+% And binds and holds us like a nail in the middle,
+% So that every part enjoys and rejoices
+% So much that its delights have no bound,
+% And if one could last long in such a state,
+% One would become perfectly blessed.
+
+
 cantoIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-g"

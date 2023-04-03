@@ -15,8 +15,9 @@
     folio = \markup { Anonymous poet }
 
     % Unchanging:
-    \include "include/distribution-header.ly"
     lastupdated = "2015-06-13"
+    originallyset = "2015-06-13"
+    \include "include/distribution-header.ly"
     tagline = #'f
 }
 \include "../parts/01-striggio-a5-madrigal.ly"
@@ -137,38 +138,27 @@
             }
         }
     }
-    \markup { \fill-line {
-        \column { \line { \italic { "Prima parte" } } }
-    } }
     \markup {
         \fill-line {
             \column {
-                \line { O de la bella Etruria invitto Duce }
-                \line { Cosmo lume maggiore, }
-                \line { De l'italico onore, }
-                \line { In cui splend'e riluce }
-                \line { Quant uom far può d'eterna gloria degno, }
-                \line { Che sei poggiato al segno }
-                \line { U ne tempi vetusti }
-                \line { Col consiglio e con l'armi, }
-                \line { S'alzar que magni Augusti }
-                \line { Ch'ancor onora e riverisce il mondo. }
-            }
-        }
-    }
-    \markup { \fill-line {
-        \column { \line { \vspace #1 } \line { \italic { "Seconda parte" } } }
-    } }
-    \markup {
-        \fill-line {
-            \column {
+                \line { O della bella Etruria invitto Duce }
+                \line { cosmo lume maggiore, }
+                \line { dell'italico onore, }
+                \line { in cui splend'e riluce }
+                \line { quant uom far può d'eterna gloria degno, }
+                \line { che sei poggiato al segno }
+                \line { u ne tempi vetusti }
+                \line { col consiglio e con l'armi, }
+                \line { s'alzar que magni Augusti }
+                \line { ch'ancor onora e riverisce il mondo. }
+                \line { \vspace #1 }
                 \line { Degno che dotte istorie e colti carmi }
-                \line { Cantino la tua gloria }
-                \line { Tal che non celi ne l'oscuro fondo  }
-                \line { Lete l'illustre tua alta memoria }
-                \line { Degno che fatto al tuo valor secondo }
-                \line { Stenda le braccia del tuo giust'impero }
-                \line { Dovunque copre il gran nostre emispero.  }
+                \line { cantino la tua gloria }
+                \line { tal che non celi ne l'oscuro fondo  }
+                \line { lete l'illustre tua alta memoria }
+                \line { degno che fatto al tuo valor secondo }
+                \line { stenda le braccia del tuo giust'impero }
+                \line { dovunque copre il gran nostre emispero.  }
             }
         }
     }

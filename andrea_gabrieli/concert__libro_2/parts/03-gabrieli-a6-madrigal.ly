@@ -6,24 +6,43 @@
 %E starete a vedere
 %correr selvaggie fere.
 %Ecco dall'orto colta 
-%lattuca tenerina
-%spiegate è in crespa avolta
+%lattuca tenerina spiegate è in crespa avolta
 %in cui par che s'affina
 %licor di nera oliva
 %che i desti sensi aviva.
 %
 %Ma pria odorate il vicin spico,
-%e poi, fedete a mensa voi:
-%ch'a queste aure seconde, fior frutti e fronde,
-%vi soffron a servir,
+%e poi, sedete a mensa voi:
+%ch'a queste aure seconde, 
+%vi soffron a servir, fior, frutti e fronde,
 %quinci surgendo con le fronti liete
 %chiare fresche e dolce acque inchinerete.
+
+% Enter the beautiful garden,
+% happy and blessed souls,
+% for here you will hear the song
+% that sweet birds make in every corner.
+% 
+% And you will stand and see
+% wild beasts running round.
+% Behold, picked from the garden,
+% tender lettuce, unfolded and curly,
+% in which the liquor of black olives,
+% that awakens the keen senses,
+% seems to refine itself.
+% 
+% But first, smell the nearby lavender,
+% and then, sit at the table:
+% for in these gentle breezes,
+% flowers, fruits, and fronds will be served to you,
+% and from here, rising with joyful faces,
+% you will bow to clear, fresh, and sweet waters.
 
 % augei: augelli
 % lattuca: lettuce (modern: lattuga)
 % tenerino: soft (tenera)
 % licore: modern liquore
-% spico: spigo
+% spico: spigo (or maybe lavender?)
 
 cantoIIIincipit = \relative c'' {
     \time 4/4

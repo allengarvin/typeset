@@ -101,23 +101,23 @@
                 \line { ché l'alma in voi sepolta }
                 \line { da voi sendosi sciolta }
                 \line { si trova esser uscita }
-                \line { d'una prigion mortale; }
+                \line { d'una prigion mortale, }
                 \line { E cangia in vita e in ben }
                 \line { la morte e'l male. }
             }
-% May be copyright encumbered. Can't remember where I got this:
-%            \column {
-%                \line { I am not, however, dead, }
-%                \line { Lady, as you think, }
-%                \line { Because you no longer love me. }
-%                \line { rather I've come back to life }
-%                \line { Because the soul buried in you, }
-%                \line { Now set free of you, }
-%                \line { Finds itself to have issued forth }
-%                \line { From a mortal prison, }
-%                \line { And changes into life and to good }
-%                \line { What was death and evil. }
-%            }
+            \column {
+               \line { Though I'm not dead, }
+               \line { my lady, as you think, }
+               \line { for you no longer love me; }
+               \line { instead, I return to life. }
+               \line { For the soul buried in you }
+               \line { feeling itself released }
+               \line { finds it has escaped }
+               \line { from a mortal prison, }
+               \line { and transforms death and evil }
+               \line { into life and goodness. }
+               \line { \hspace #10 \italics { translation by editor } } 
+            }
         }
     }
 }

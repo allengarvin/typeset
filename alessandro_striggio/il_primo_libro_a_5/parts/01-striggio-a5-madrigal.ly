@@ -1,13 +1,32 @@
-% O de la bella Etruria invitto Duce
-% Cosmo lume maggiore,
-% De l'italico onore,
-% In cui splend'e riluce
-% Quant uom far può d'eterna gloria degno,
-% Che sei poggiato al segno
-% U ne tempi vetusti
-% Col consiglio e con l'armi,
-% S'alzar que magni Augusti
-% Ch'ancor onora e riverisce il mondo.
+% O della bella Etruria invitto Duce
+% cosmo lume maggiore
+% de l'italico onore,
+% in cui splend'e riluce
+% quant uom far può d'eterna gloria degno;
+% che sei poggiato al segno
+% u ne tempi vetusti
+% col consiglio e con l'armi,
+% s'alzar que magni Augusti
+% ch'ancor onora e riverisce il mondo.
+
+% Oh, invincible leader of lovely Etruria,
+% Cosimo, greatest light
+% of Italian honor,
+% in which shines and radiates
+% all that a man can do worthy of eternal glory,
+% you have achieved the mark;
+% where in ancient times,
+% with counsel and with arms,
+% those great Augustuses rose,
+% that the world still honors and reveres.
+% 
+% Worthy that learned histories and cultivated poems
+% sing of your glory,
+% so that it does not hide in the obscure depths
+% the happy and illustrious revered memory of you,
+% worthy that, as is just to your valor,
+% the arms of your just empire extend
+% wherever extends our great hemisphere.
 
 cantoIincipit = \relative c'' {
     \time 2/2
@@ -42,7 +61,7 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    O de la bel -- la~E -- tru -- ria~in -- vit -- to Du -- ce
+    O del -- la bel -- la~E -- tru -- ria~in -- vit -- to Du -- ce
         in -- vit -- to Du -- ce Co -- smo,
         in -- vit -- to Du -- ce Co -- smo 
         lu -- me mag -- gio -- re,
@@ -97,7 +116,7 @@ altoI = \relative c' {
 }
 
 altoLyricsI = \lyricmode {
-    O __ de la bel -- la~E -- tru -- ria in -- vit -- to Du -- ce Co -- smo,
+    O __ del -- la bel -- la~E -- tru -- ria in -- vit -- to Du -- ce Co -- smo,
         in -- vit -- to Du -- ce Co -- smo,
         lu -- me mag -- gio -- re,
     De l'i -- ta -- li -- co~o -- no -- re,
@@ -148,8 +167,8 @@ tenoreI = \relative c {
 }
 
 tenoreLyricsI = \lyricmode {
-    O de la bel -- la~E -- tru -- ria,
-    O de la bel -- la~E -- tru -- ria~in -- vit -- to Du -- ce Co -- smo,
+    O del -- la bel -- la~E -- tru -- ria,
+    O del -- la bel -- la~E -- tru -- ria~in -- vit -- to Du -- ce Co -- smo,
         Co -- smo, Co -- smo,
         lu -- me mag -- gio -- re,
     De l'i -- ta -- li -- co~o -- no -- re,
@@ -199,7 +218,7 @@ bassoI = \relative c, {
 }
 
 bassoLyricsI = \lyricmode {
-    O de la bel -- la~E -- tru -- ria in -- vit -- to Du -- ce Co -- smo,
+    O del -- la bel -- la~E -- tru -- ria in -- vit -- to Du -- ce Co -- smo,
         in -- vit -- to Du -- ce Co -- smo,
         lu -- me mag -- gio -- re,
     De l'i -- ta -- li -- co~o -- no -- re,
@@ -247,7 +266,7 @@ quintoI = \relative c' {
 }
 
 quintoLyricsI = \lyricmode {
-    O de la bel -- la~E -- tru -- ria Co -- smo in -- vit -- to Du -- ce
+    O del -- la bel -- la~E -- tru -- ria Co -- smo in -- vit -- to Du -- ce
         Co -- smo
         lu -- me mag -- gio -- re,
         lu -- me mag -- gio -- re,

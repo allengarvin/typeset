@@ -12,20 +12,20 @@
     % Things that change per piece:
     title = "Italia mia"
     instrument = "Italia mia (score)"
-    subtitle = "transposed up a second"
+    subtitle = "transposed up a fourth"
     composer = "Philippe Verdelot (c.1485-c.1530)" 
     folio = \markup { Petrarca, \italic{Canzoniere} CXXVIII (128) }
 
     % Unchanging:
-    \include "include/distribution-header.ly"
     lastupdated = "2013-09-23"
+    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
 \include "../parts/05-verdelot-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "05-italia_mia-transposed"
+    \bookOutputName "05-verdelot--italia_mia-transposed"
     \bookOutputSuffix "--0-score"
     \score {
         <<
@@ -37,15 +37,15 @@
                     \set Staff.instrumentName = #"Cantus"
                     \incipit \cantusVincipitVoice
                     \clef treble
-                    \global\transpose c d
+                    \global\transpose c f
                     \cantusV
                 >>
                 \addlyrics { \cantusLyricsV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
                     \incipit \altusVincipitVoice
-                    \clef "treble_8"
-                    \global\transpose c d
+                    \clef "treble"
+                    \global\transpose c f
                     \altusV
                 >>
                 \addlyrics { \altusLyricsV }
@@ -53,7 +53,7 @@
                     \set Staff.instrumentName = #"Tenor"
                     \incipit \tenorVincipitVoice
                     \clef "treble_8"
-                    \global\transpose c d
+                    \global\transpose c f
                     \tenorV
                 >>
                 \addlyrics { \tenorLyricsV }
@@ -61,7 +61,7 @@
                     \set Staff.instrumentName = #"Quintus"
                     \incipit \quintusVincipitVoice
                     \clef "treble_8"
-                    \global\transpose c d
+                    \global\transpose c f
                     \quintusV
                 >>
                 \addlyrics { \quintusLyricsV }
@@ -69,7 +69,7 @@
                     \set Staff.instrumentName = #"Bassus"
                     \incipit \bassusVincipitVoice
                     \clef "bass"
-                    \global\transpose c d
+                    \global\transpose c f
                     \bassusV
                 >>
                 \addlyrics { \bassusLyricsV }

@@ -64,11 +64,11 @@ cantoXVI = \relative c'' {
 cantoLyricsXVI = \lyricmode {
     Gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na,
     gra -- zie ch'a po -- chi~il ciel lar -- go __ de -- sti -- na:
-    Ra -- ra ver -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
         non già d'u -- ma -- na gen -- te,
     Sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
-    E'n hu -- mil don -- na al -- ta bel -- tà di -- vi -- na,
+    E'n u -- mil don -- na al -- ta bel -- tà di -- vi -- na,
         al -- ta bel -- tà di -- vi -- na;
 
     Leg -- gia -- dria sin -- gu -- la -- re et pel -- le -- gri -- na, __
@@ -130,12 +130,12 @@ altoLyricsXVI = \lyricmode {
     Gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na,
         ch'a po -- chi~il ciel lar -- go de -- sti -- na,
         ch'a po -- chi~il ciel lar -- go de -- sti -- na;
-    Ra -- ra ver -- tú, 
-    ra -- ra ver -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tú, 
+    ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
     Sot -- to bion -- di ca -- pei,
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
-    E'n hu -- mil don -- na al -- ta bel -- tà di -- vi -- na,
+    E'n u -- mil don -- na al -- ta bel -- tà di -- vi -- na,
         al -- ta bel -- tà di -- vi -- na,
             di -- vi -- na;
 
@@ -192,10 +192,10 @@ tenoreLyricsXVI = \lyricmode {
         Ch'a po -- chi~il ciel lar -- go de -- sti -- na,
             lar -- go __ de -- sti -- na,
     gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na:
-    Ra -- ra ver -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
     Sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
         ca -- nu -- ta men -- te,
-    E'n hu -- mil don -- na al -- ta bel -- tà di -- vi -- na,
+    E'n u -- mil don -- na al -- ta bel -- tà di -- vi -- na,
         al -- ta bel -- tà di -- vi -- na,
     \ijLyrics
         al -- ta bel -- tà di -- vi -- na;
@@ -252,10 +252,10 @@ bassoXVI = \relative c {
 
 bassoLyricsXVI = \lyricmode {
     Gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na,
-    Ra -- ra ver -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
     Sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
-    E'n hu -- mil don -- na al -- ta bel -- tà,
+    E'n u -- mil don -- na al -- ta bel -- tà,
         al -- ta bel -- tà di -- vi -- na; __
 
     Leg -- gia -- dria sin -- gu -- la -- re,
@@ -313,16 +313,16 @@ quintoLyricsXVI = \lyricmode {
         Ch'a po -- chi~il ciel lar -- go de -- sti -- na,
     gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na,
         ch'a po -- chi~il ciel lar -- go de -- sti -- na:
-    Ra -- ra ver -- tú, non già d'u -- ma -- na,
+    Ra -- ra vir -- tú, non già d'u -- ma -- na,
         non già d'u -- ma -- na gen -- te,
     \ijLyrics
         non già d'u -- ma -- na gen -- te,
     \normalLyrics
     Sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
-    E'n hu -- mil don -- na,
+    E'n u -- mil don -- na,
     \ijLyrics
-    e'n hu -- mil don -- na
+    e'n u -- mil don -- na
     \normalLyrics 
         al -- ta bel -- tà di -- vi -- na,
         al -- ta bel -- tà di -- vi -- na;
@@ -387,7 +387,7 @@ sestaLyricsXVI = \lyricmode {
     \ijLyrics
         ch'a po -- chi~il ciel lar -- go __ de -- sti -- na;
     \normalLyrics
-    Ra -- ra ver -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
     \ijLyrics
         non già d'u -- ma -- na gen -- te,
     \normalLyrics
@@ -396,7 +396,7 @@ sestaLyricsXVI = \lyricmode {
     \ijLyrics
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     \normalLyrics
-    E'n hu -- mil don -- na al -- ta bel -- tà di -- vi -- na,
+    E'n u -- mil don -- na al -- ta bel -- tà di -- vi -- na,
         al -- ta bel -- tà __ di -- vi -- na;
 
     Leg -- gia -- dria sin -- gu -- la -- re et pel -- le -- gri -- na,
