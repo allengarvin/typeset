@@ -10,19 +10,19 @@
 
 \header {
     % Things that change per piece:
-    title = "Ma grideran per me le piaggie e i monti"
-    subtitle = "Seconda parte"
-    instrument = "Ma grideran per me le piaggie e i monti: Seconda parte (score)"
+    title = "Cruda Amarilli"
+    subtitle = "Prima parte"
+    instrument = "Cruda Amarilli: Prima parte (score)"
     needtranslation = #'f
     folio = \markup { Giovanni Battista Guarini, \italic{Il Pastor Fido} Atto I Scena 2 }
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:
     language = "italian"
-    lastupdated = "2019-12-01"
-    originally_set = "2019-12-01"
+    lastupdated = "2013-06-08"
+    originally_set = "2013-06-08"
     flats = 0
-    final = "c"
+    final = "g"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -31,7 +31,7 @@
 \include "../parts/18-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "18-wert--ma_grideran_per_me_le_piaggie_e_i_monti-seconda_parte"
+    \bookOutputName "18-wert--cruda_amarilli-prima_parte"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -91,26 +91,26 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ma grideran per me le piaggie, e i monti }
-                \line { e questa selva, a cui }
-                \line { sì spesso il tuo bel nome }
-                \line { di risonar insegno; }
-                \line { per me piangendo i fonti, }
-                \line { e mormorando i venti, }
-                \line { diranno i miei lamenti. }
-                \line { e ti dirà la morte il mio martire. }
+                \line { Cruda Amarilli che col nome ancora }
+                \line { d'amar, ahi lasso, amaramennte insegni; }
+                \line { Amarilli, del candido ligustro }
+                \line { più candida e più bella, }
+                \line { ma da l'aspido sordo }
+                \line { e più sorda e più fera e più fugace, }
+                \line { poi che col dir t'offendo }
+                \line { i'mi morrò tacendo. }
             }
-            \column { 
-                \line { Yet for me will cry out the hills and the mountains }
-                \line { and these woods, to which }
-                \line { so often your fair name }
-                \line { to resound I teach. }
-                \line { Weeping for me, the springs, }
-                \line { and murmuring, the winds, }
-                \line { will tell my laments. } 
+            \column {
+                \line { Cruel Amaryllis, who with your name }
+                \line { to love, alas, bitterly you teach; }
+                \line { Amaryllis, more than the white privet }
+                \line { pure, and more beautiful, }
+                \line { but deafer than the deaf asp, }
+                \line { and fiercer and more elusive; }
+                \line { since in speaking I offend you, }
+                \line { I shall die in silence. }
                 \line { \hspace #12 -CPDL translation }
             }
-
         }
     }
 }

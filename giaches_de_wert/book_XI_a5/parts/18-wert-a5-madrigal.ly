@@ -1,249 +1,305 @@
-cantoXVIIIincipit = \relative c''' {
+% Cruda Amarilli che col nome ancora
+% d'amar, ahi lasso, amaramennte insegni;
+% Amarilli, del candido ligustro
+% più candida e più bella,
+% ma da l'aspido sordo
+% e più sorda e più fera e più fugace,
+% poi che col dir t'offendo
+% i'mi morrò tacendo
+
+cantoXVIIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-g"
     \key c \major
 
-    g2
+    e1.
 }
 
-% canto: checked against source
-cantoXVIII = \relative c''' {
+% checked against source
+cantoXVII = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key c \major
 
-    r1 g2 g8[ g g g ] | g4 g, e c e'2 e | r1 g2 g8[ g g g ] | 
-        g4 g, e c e'2 e | r2 e,
+    R\breve | r1 e ~ | e2 d4 c d1 | c g'1 ~ | g2 f4 e f1 | e r1 | r g1 ~ |
+        g2 f4 e d1 | e c1 ~ | c2 c2 c c | b1 b2 b ~ | b c1 d2 ~ | d e1 a,2 | 
 
-    g1 | g a ~ | a2 g g1 | g2 r4 b b b a b | c2 c4 c c c c2 | 
-        c d2.( c4 c2 ~ | c b) c1 | r2 e e e | d4 e f2 e1 | 
+    r2 e' f g | a1. g2 | f e d1 | e d | c2 e f g | a1. g2 ~ |g f1 e2 |
+        d c1 b2 ~ | b4( g4 c1 b2) | c1 r2 e4 e | e2 e4 d 
 
-    r4 c c c b c d2 | g,4 g c8[ d e f] g2 g4 g | g2 f1 e2 | e2 d2.( c4 c2 ~|
-        c b) c4 g c8[ d e f] | g2 g4 g 
+    cs4. cs8 cs4 d | e2 e4 e e4. e8 e4 e | d1 d2 r4 b | b g4. g8 g4 g2 g |
+        r1 r2 e'4 e | e2 c d4 e f2 | e\breve | r1 d | e 
 
-    g2 f | e1 e2 c ~ | c4( b a2) g r4 g | 
-        \invisibleTime\time 6/2
-        s1*0\raisedSixTwoTime
-        g2 a b c d1 | \invisibleTime\time 4/2 e\longa*1/2
+    f2 g ~ | g f1 e2 ~ | e\melisma d1 \ficta cs2 \unficta \melismaEnd | 
+        d\breve | r2 d b bf | a1. g2 | fs\melisma g1 fs2 \melismaEnd | 
+        g r4 g a2. b4 | c2 b d c | r2 c b bf | a\breve | r4 a a2
+
+    g2 f | fs g1( fs2) | g1 r | d'1 cs2 \ficta c \unficta | b1 r1 | 
+        r1 r2 d ~ | d2 b4 bf a g a2 | b\longa*1/2
     \bar "|."
 }
 
-cantoLyricsXVIII = \lyricmode {
-    Ma gri -- de -- ran per me le piag -- g'e~i mon -- ti,
-    ma gri -- de -- ran per me le piag -- g'e~i mon -- ti
-    E que -- sta sel -- va~a cu -- i 
-    Sì spes -- so~il tuo bel no -- me
-    Di ri -- so -- nar in -- se -- gno;
-    Per me pian -- gen -- do~i fon -- ti,
-    per me pian -- gen -- do~i fon -- ti,
-    E mor -- mo -- ran -- do~i ven -- ti,
-    Di -- ran -- no~i miei la -- men -- ti,
-
-    e mor -- mo -- ran -- do~i ven -- ti,
-    di -- ran -- no~i miei la -- men -- ti,
-    di -- ran -- no~i miei la -- men -- ti.
+cantoLyricsXVII = \lyricmode {
+    Cru -- da~A -- ma -- ril -- li,
+    \ijLyrics
+    Cru -- da~A -- ma -- ril -- li, 
+    \normalLyrics
+    Cru -- da~A -- ma -- ril -- li che __ co'l no -- me~an -- co -- ra
+    D'a -- mar ahi __ las -- so,
+    D'a -- mar ahi las -- so~a -- ma -- ra -- men -- te~in -- se -- gni,
+    D'a -- mar ahi las -- so~a -- ma -- ra -- men -- te~in -- se -- gni;
+    A -- ma -- ril -- li del can -- di -- do li -- gu -- stro
+    Più can -- di -- da~e più bel -- la,
+    Ma da l'a -- spi -- do sor -- do
+  % e più sor -- da
+    e più fe -- ra~e più fu -- ga -- ce,
+    Poi che col dir __ t'of -- fen -- do
+    I' mi mor -- rò ta -- cen -- do,
+    Poi che col dir t'of -- fen -- do
+    i' mi mor -- rò
+    i' mi mor -- rò ta -- cen -- do,
+    i' mi mor -- rò
+    i' __ mi mor -- rò ta -- cen -- do.
 }
 
-altoXVIIIincipit = \relative c'' {
+altoXVIIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c2"
     \key c \major
 
-    c2
+    c1.
 }
 
-% alto: checked against source
-altoXVIII = \relative c'' {
+% alto: checked againstr source
+altoXVII = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
-    R\breve | r1 c2 c8[ c c c ] | c4 g e c e'2 e4 e | c2 g g1 ~ | g e2 r4 c |
-        c2 c c1 ~ | c2 c c1 | b2
+    c1. b4 a | g\breve ~ | g | g | R\breve*2 | c1. b4 a | b2( c1 b2) | 
+        c1 r2 a | f f1 e2 | e1 e | g a | b c2. c4 | c2 b
 
-    r4 d d d d d | f1 f | r4 f f f e2 e | d1 e | r2 g g1 | g2 a4 f g1 ~ |
-        g2 e r4 c f8[ g a b] | c1 c2 r4 c, |
+    c2 c | c1 c | R\breve*3 | r4 a c d e1  ~ | e2 d c b | a1 g | g\breve | 
+        g1 r2 g4 g | g2 g4 f e4. e8 e4 f | g2 g4 g a4. a8
 
-    c2 d e1 ~ | e2 f2 g1 ~ | g g | r4 c, c8[ d e f] g4 g r a | 
-        g2. g4 e e e'2 | d4 d d1 c2 | \invisibleTime\time 6/2
-        s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        b2 a g\breve | | \invisibleTime\time 4/2 g\longa*1/2
+    a4 g | g1 g2 r4 d | d c4. c8 c4 c2 c | r1 r2 e4 e | 
+        e g f e d8([ c] c2 b4) | c1 r2 g' ~ | g a1 b2 | c1. b2 | a1 g2 g | 
+        a1
+
+    a2 a | fs \ficta f\unficta d1 | r1 g | fs2 \ficta f\unficta e g | d1 d | 
+        r2 d e f | 
+        g g a2. b4 | c g g1 d2 | r1 r2 a' | fs \ficta f\unficta d2. d4 |
+
+    a'2 b r1 | d1 b2 bf | a1 r | d1 b2 bf | a1. g2 | fs( g1 fs2) |
+        g\longa*1/2
     \bar "|."
 }
 
-altoLyricsXVIII = \lyricmode {
-    Ma gri -- de -- ran per me le piag -- g'e~i mon -- ti,
-        le piag -- g'e~i mon -- ti 
-    E que -- sta sel -- va~a cu -- i
-    Sì spes -- so~il tuo bel no -- me
-    Di ri -- so -- nar in -- se -- gno;
-    Per me pian -- gen -- do~i fon -- ti,
-    E mor -- mo -- ran -- do~i ven -- ti,
-    Di -- ran -- no~i miei __ la -- men -- ti,
-
-    e mor -- mo -- ran -- do~i ven -- ti,
-    di -- ran -- no~i miei la -- men -- ti,
-    di -- ran -- no~i miei la -- men -- ti.
+altoLyricsXVII = \lyricmode {
+    Cru -- da~A -- ma -- ril -- li, 
+    Cru -- da~A -- ma -- ril -- li che co'l no -- me~an -- co -- ra,
+    D'a -- mar ahi las -- so~a -- ma -- ra -- men -- te~in -- se -- gni,
+    D'a -- mar ahi las -- so~a -- ma -- ra -- men -- te~in -- se -- gni;
+    A -- ma -- ril -- li del can -- di -- do li -- gu -- stro
+    Più can -- di -- da~e più bel -- la,
+    Ma da l'a -- spi -- do sor -- do
+  % e più sor -- da
+    e più fe -- ra~e più fu -- ga -- ce,
+    Poi __ che col dir t'of -- fen -- do
+        t'of -- fen -- do,
+    I' mi mor -- rò
+    \ijLyrics
+    i' mi mor -- rò 
+    \normalLyrics
+        ta -- cen -- do,
+    Poi che col dir
+    \ijLyrics Poi che col dir \normalLyrics 
+        t'of -- fen -- do
+    i' mi mor -- rò ta -- cen -- do,
+    i' mi mor -- rò
+    i' mi mor -- rò ta -- cen -- do.
 }
 
-tenoreXVIIIincipit = \relative c'' {
+tenoreXVIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c3"
     \key c \major
 
-    g1*1/2
+    e1.
 }
 
-% tenore: checked against source
-tenoreXVIII = \relative c'' {
+% checked against source
+tenoreXVII = \relative c' {
     \fourTwoCutTime
     \key c \major
 
-    R\breve | r1 r2 g ~ | g g8[ g g g] g4 g, e c | e'2 e4 e c2 g ~ |
-        g c1 c2 | r4 g g c a2.( g4 |
+    R\breve*4 | R\breve | r1 e ~ | e2 d4 c d1 ~ | d\breve | c2 c1 c2 | 
+        c2 c a1 | b r | e f | g a ~ | a2 g f e | f\breve | f1 g | g r | r 
 
-    f2) g g g | r2 g d'4 g, a g | c2 c2. c4 c c | a2 a g1 ~ | g g |
-        r2 c c c | g'4 e d2 c r4 g | c8[ d e f] 
+    r2 e | f1 g | a1. g2 | f e d1 | e d | c r | R\breve | r2 e e4. e8 c4 c |
+        d1 d2 r4 d | g,4 g4. g8 g4 g2 g | r1 r2 c4 c |
 
-    g2 g4 g a d, | e e g1 e2 | R\breve*2 | r2 r4 g, c8[ d e f] g2 |
-        g4 g e e c c c2 | c r4 g c8[ d e f] g4 g | r1
+    c2 a a4 c f,2 | g1 r2 e'4 e | e c f2. e4 d2 | c1 r1 | R\breve*2 |
+        R\breve*3 |
+        r1 r2 r4 d | b2 bf a4 g a2 | g1 r2 c | e2. f4 g1 ~ | g2 f2 e1 | d 
 
-    r2 g | \invisibleTime\time 6/2
-        s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        g2 f e e d1 | \invisibleTime\time 4/2 c\longa*1/2
+    r1 | R\breve | r1 g1 | fs2 \ficta f\unficta e1 | R\breve | d1 b2 bf | 
+        a g a1 | g\longa*1/2
     \bar "|."
 }
 
-tenoreLyricsXVIII = \lyricmode {
-    Ma __ gri -- de -- ran per me le piag -- g'e~i mon -- ti,
-        le piag -- g'e~i __ mon -- ti
-    E que -- sta sel -- va~a cu -- i
-    Sì spes -- so~il tuo bel no -- me
-    Di ri -- so -- nar in -- se -- gno;
-    Per me pian -- gen -- do~i fon -- ti,
-    E mor -- mo -- ran -- do~i ven -- ti,
-    Di -- ran -- no~i miei la -- men -- ti,
+tenoreLyricsXVII = \lyricmode {
+    Cru -- da~A -- ma -- ril -- li che co'l no -- me~an -- co -- ra,
+    D'a -- mar ahi las -- so~a -- ma -- ra -- men -- te~in -- se -- gni,
+    D'a -- mar ahi las -- so~a -- ma -- ra -- men -- te~in -- se -- gni;
 
-    e mor -- mo -- ran -- do~i ven -- ti,
-    di -- ran -- no~i miei la -- men -- ti,
-    e mor -- mo -- ran -- do~i ven -- ti,
-    di -- ran -- no~i miei la -- men -- ti.
+    Più can -- di -- da~e più bel -- la,
+    Ma da l'a -- spi -- do sor -- do
+  % e più sor -- da
+    e più fe -- ra~e più fu -- ga -- ce,
+    e più fe -- ra~e più fu -- ga -- ce,
+
+    I' mi mor -- rò ta -- cen -- do,
+    Poi che col dir t'of -- fen -- do,
+    i' mi mor -- rò,
+    i' mi mor -- rò ta -- cen -- do.
 }
 
-bassoXVIIIincipit = \relative c'' {
+bassoXVIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c4"
     \key c \major
 
-    g2
+    c1.
 }
 
 % basso: checked against source
-bassoXVIII = \relative c'' {
+bassoXVII = \relative c' {
     \fourTwoCutTime
     \key c \major
 
-    g2 g8[ g g g] g4 g, e c | e'2 e4 e c1 ~ | c2 c, c1 ~ | c\breve |
-        c1 r2 c | c c f1 ~ | f2 c c1 | g'2 r4 g 
+    R\breve*3 | c1. b4 a | b2( c1 b2) | c1 c ~ | c2 b4 a g1 ~ | g\breve | 
+        c,1 f ~ | f2 f f a | e1 e | R\breve*3 | R\breve*2 | e1 f2 g | a1. g2 |
 
-    g4 g d g | f2 f4 f f f f2 ~ | f d e2.( f4 | g1) c, ~ | c\breve | r1 r2 c |
-        c c g'4 e d2 | c\breve | R | r1 r4 c c8[ d e f] | g2 g 
+    f1 e | f\breve | f1 g ~ | g g1 | r2 c4 c c1 | c2. d4 a4. a8 a4 d | 
+        c2 c4 c a4. a8 a4 c | g1 g2 r4 g | g c,4. c8 c4 c2
 
-    r4 c, c c | c c c c r4 c f8[ g a b] | c2 c,4 c c1 | 
-        d1 e ~ | \invisibleTime\time 6/2
-        s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        e2 f g\breve | |\invisibleTime\time 4/2 c,\longa*1/2
+    c4 c | bf1 c | r4 c f2. e4 d2 | c\breve | R\breve*4 | r1 g' |
+        fs2 \ficta f\unficta e g | d d r1 | r1 r2 d | e4 f g1 f2 | 
+        e1 d4 d f2 | c c 
+
+    e4 f g g | a\breve | d,2 r4 d' b2 bf | a g a1 | g1. g2 | d2 d a' c |
+        g1 g | d2 d e g | d\breve | g\longa*1/2
     \bar "|."
 }
 
-bassoLyricsXVIII = \lyricmode {
-    Ma gri -- de -- ran per me le piag -- g'e~i mon -- ti,
-        le piag -- g'e~i mon -- ti
-    E que -- sta sel -- va~a cu -- i
-    Sì spes -- so~il tuo bel no -- me
-    Di ri -- so -- nar __ in -- se -- gno; __
-    Per me pian -- gen -- do~i fon -- ti,
-    E mor -- mo -- ran -- do~i ven -- ti,
-    e mor -- mo -- ran -- do~i ven -- ti,
-    e mor -- mo -- ran -- do~i ven -- ti,
-    di -- ran -- no~i miei __ la -- men -- ti.
+bassoLyricsXVII = \lyricmode {
+    Cru -- da~A -- ma -- ril -- li, 
+    Cru -- da~A -- ma -- ril -- li che co'l no -- me~an -- co -- ra,
+    D'a -- mar ahi las -- so~a -- ma -- ra -- men -- te~in -- se -- gni,
+    A -- ma -- ril -- li del can -- di -- do li -- gu -- stro
+    Più can -- di -- da~e più bel -- la,
+    Ma da l'a -- spi -- do sor -- do~e più sor -- da
+    e più fu -- ga -- ce,
+
+    I' mi mor -- rò ta -- cen -- do,
+
+    Poi che col dir t'of -- fen -- do
+        t'of -- fen -- do,
+    Poi che col dir t'of -- fen -- do,
+
+    i' mi mor -- rò ta -- cen -- do,
+    i' mi mor -- rò ta -- cen -- do,
+        mi mor -- rò ta -- cen -- do.
 }
 
-quintoXVIIIincipit = \relative c''' {
+quintoXVIIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-g"
     \key c \major
 
-    g2
+    c1
 }
 
 % quinto: checked against source
-quintoXVIII = \relative c''' {
+quintoXVII = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
-    R\breve | g2 g8[ g g g] g4 g, e c | e'2 e r1 | g2 g8[ g g g] g4 g, e c |
-        e'2 e
+    R\breve | r2 c1 b4 a | b2( c1 b2) | c e1 d4 c | d\breve | c2 c1 b4 a |
+        g\breve ~ | g | g1 a ~ | a2 a a a | gs1 gs | R\breve | r1 e' |
 
-    r2 e, | e e f1 ~ | f2 e e1 | d2 r4 g g g fs g | a2 a4 a a a a2 ~ |
-        a f g1 ~ | g\breve | g1 r4 c c c | b c d2 g,4 g
+    f2 g a g ~ | g f1 e2 | d c1 b2 ~ | b4( g c1 b2) | c2 r4 c c d e2 |
+        d c1 b2 | a a r1 | r2 a d d | b g d'1 | e r2 c4 c | 
 
-    c8[ d e f] | g2 g4 g g2 f | e1 e2 c ~ | c4( b a2) g2. g'4 | g2 f e e |
-        d1 e2 r4 g, | c8[ d e f] g4 g r1 |
+    c2 c4 a a4. a8 a4 a | c2 c4 c c4. c8 c4 c | b1 b2 r4 g | g e4. e8 e4 e2 e |
+        r1 r2 g2 ~ | g4 g a2. g4 f d |
 
-    r4 g, c8[ d e f] g2 g4 g | g2 f1 e2 | \invisibleTime\time 6/2
-        s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        e2 \[ d1( c \] b2) | \invisibleTime\time 4/2 c\longa*1/2
+    e8([ d c d] e[ d e f] g2. a8[ b] | c2) c r1 | r1 d | e2 f g1 ~ | g2 f e1 |
+        d2 r4 d b2 bf | a1 r | r2 d b bf | a g a1 | g r |
+
+    r2 g' fs \ficta f\unficta | e1. d2 | cs( d1 cs2) | d\breve | 
+        r2 d cs \ficta c\unficta | b1 r1 |
+        R\breve | r1 g' | fs2 \ficta f \unficta e r4 d | d\breve | d\longa*1/2
     \bar "|."
 }
 
-quintoLyricsXVIII = \lyricmode {
-    Ma gri -- de -- ran per me le piag -- g'e~i mon -- ti,
-    ma gri -- de -- ran per me le piag -- g'e~i mon -- ti
-    E que -- sta sel -- va~a cu -- i
-    Sì spes -- so~il tuo bel no -- me
-    Di ri -- so -- nar __ in -- se -- gno;
-    Per me pian -- gen -- do~i fon -- ti,
-    E mor -- mo -- ran -- do~i ven -- ti,
-    Di -- ran -- no~i miei la -- men -- ti,
-    di -- ran -- no~i miei la -- men -- ti,
-
-    e mor -- mo -- ran -- do~i ven -- ti,
-    e mor -- mo -- ran -- do~i ven -- ti,
-    di -- ran -- no~i miei la -- men -- ti.
+quintoLyricsXVII = \lyricmode {
+    Cru -- da~A -- ma -- ril -- li,
+    Cru -- da~A -- ma -- ril -- li, 
+    \ijLyrics
+    Cru -- da~A -- ma -- ril -- li 
+    \normalLyrics
+        che co'l no -- me~an -- co -- ra,
+    D'a -- mar ahi las -- so~a -- ma -- ra -- men -- te~in -- se -- gni,
+    D'a -- mar ahi las -- so~a -- ma -- ra -- men -- te,
+        a -- ma -- ra -- men -- te~in -- se -- gni;
+    A -- ma -- ril -- li del can -- di -- do li -- gu -- stro
+    Più can -- di -- da~e più bel -- la,
+    Ma da l'a -- spi -- do sor -- do
+  % e più sor -- da
+    e __ più fe -- ra~e più fu -- ga -- ce,
+    Poi che col dir t'of -- fen -- do
+    I' mi mor -- rò
+    \ijLyrics
+    i' mi mor -- rò 
+    \normalLyrics
+        ta -- cen -- do,
+    i' mi mor -- rò ta -- cen -- do,
+    i' mi mor -- rò
+    i' mi mor -- rò ta -- cen -- do.
 }
 
-cantoXVIIIincipitVoice = <<
+cantoXVIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoXVIIIincipit
+        \cantoXVIIincipit
     >>
 >>
 
-altoXVIIIincipitVoice = <<
+altoXVIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altoXVIIIincipit
+        \altoXVIIincipit
     >>
 >>
 
-tenoreXVIIIincipitVoice = <<
+tenoreXVIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreXVIIIincipit
+        \tenoreXVIIincipit
     >>
 >>
 
-bassoXVIIIincipitVoice = <<
+bassoXVIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassoXVIIIincipit
+        \bassoXVIIincipit
     >>
 >>
 
-quintoXVIIIincipitVoice = <<
+quintoXVIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \quintoXVIIIincipit
+        \quintoXVIIincipit
     >>
 >>
 
