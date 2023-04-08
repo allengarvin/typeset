@@ -1,8 +1,35 @@
+cantoIincipit = \relative c'' {
+    \time 2/2
+    \clef "petrucci-g"
+    \key c \major
+
+    d1
+}
+
 cantoI = \relative c'' {
     \fourTwoCutTime
     \clef treble
     \key c \major
 
+    d1 d2 e ~ | e4 e fs2 g2. g4 | g c, g' f e2.( d8[ c] | 
+
+    d4) e d2 g,4 a b c | a g a2 b1 | R\breve | r1 r2 c c4 g c2 ~ | c4( b8[ a]
+
+    b4) c d2 e | d\breve ~ | d1 b | r4 b2 b4 a b c2 | b1 r1 | r1 r4 c c g' ~ |
+        g8[ g] g4 
+
+    e2. c4 d e | f\melfi e8[ d] c[ d] e4. d8 d2 cs4\melfiEnd | d1 r2 r4 c ~ |
+        c8[ c] a4 b4. c8 
+
+    d2 d4 f ~ | f8[ f] d4 e2. fs4 g d | g g f4.( e8 d2) c4 e e2 ~ | e4 e c2
+
+    b4 d2 e4 | c d4. c8 c2 b4 c2 ~ | c r4 g2 c4 b g | 
+        c2. d4 e fs g4.\melfi f16[ e]|
+
+    d8[ b] e4. d8 d2 cs4\melfiEnd d2 ~ | d r4 d2 d4 e2 | c d e d ~ | 
+        d d r4 b2 b4 | c2
+
+    r4 c4.( b8[ a g] f[ g a b] | c2) a4 d d2 
     \bar "|."
 }
 

@@ -13,7 +13,7 @@
     title = "Dica chi vuol allegro viver voglio"
     subtitle = ""
     instrument = "Dica chi vuol allegro viver voglio:  (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -89,9 +89,16 @@
     \markup {
         \fill-line {
             \column {
-                \line { Dica chi vuol allegro viver voglio  }
-                \line { Sempre cantar, danzar, star' festeggiando }
-                \line { In gioc'e'n riso con amor trescando. }
+                \line { Dica chi vuol, allegro viver voglio: }
+                \line { sempre cantar, danzar, star' festeggiando, }
+                \line { in gioc'e'n riso con amor trescando. }
+            }
+            \column { 
+                % translation: 2023-04-08
+                \line { Whoever may say what the wish, I want to live cheerfully: }
+                \line { always singing, dancing, to be celebrating, }
+                \line { in play and laughter, flirting with love. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
