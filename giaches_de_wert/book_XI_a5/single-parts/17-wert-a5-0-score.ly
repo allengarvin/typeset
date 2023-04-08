@@ -11,15 +11,15 @@
 \header {
     lastupdated = "2023-04-03"
     originallyset = "2023-04-03"
-    flats = 1
-    final = "g"
+    flats = 0
+    final = "e"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Ahi lasso, ogni or veggio io"
+    title = "Anima del cor mio"
     subtitle = ""
-    instrument = "Ahi lasso, ogni or veggio io:  (score)"
+    instrument = "Anima del cor mio:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "ahi_lasso_ogni_or_veggio_io"
+    shorttitle = "anima_del_cor_mio"
     shortcomp = "wert"
     categories = "[madrigal]"
     needtranslation = #'f
@@ -30,10 +30,10 @@
     tagline = #'f
 }
 
-\include "../parts/14-wert-a5-madrigal.ly"
+\include "../parts/17-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "14-wert--ahi_lasso_ogni_or_veggio_io-"
+    \bookOutputName "17-wert--anima_del_cor_mio-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,44 +42,44 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXIVincipitVoice
+                    \incipit \cantoXVIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoXIV
+                    \cantoXVII
                 >>
-             \addlyrics { \cantoLyricsXIV }
+             \addlyrics { \cantoLyricsXVII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXIVincipitVoice
+                    \incipit \quintoXVIIincipitVoice
                     \clef "treble"
                     \global
-                    \quintoXIV
+                    \quintoXVII
                 >>
-             \addlyrics { \quintoLyricsXIV }
+             \addlyrics { \quintoLyricsXVII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXIVincipitVoice
-                    \clef "treble"
-                    \global
-                    \altoXIV
-                >>
-             \addlyrics { \altoLyricsXIV }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXIVincipitVoice
+                    \incipit \altoXVIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreXIV
+                    \altoXVII
                 >>
-             \addlyrics { \tenoreLyricsXIV }
+             \addlyrics { \altoLyricsXVII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenore"
+                    \incipit \tenoreXVIIincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenoreXVII
+                >>
+             \addlyrics { \tenoreLyricsXVII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXIVincipitVoice
+                    \incipit \bassoXVIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoXIV
+                    \bassoXVII
                 >>
-             \addlyrics { \bassoLyricsXIV }
+             \addlyrics { \bassoLyricsXVII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -93,24 +93,28 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ahi lasso, ogni or veggio io }
-                \line { ch'il bel Idolo mio }
-                \line { ad altra luce splende, }
-                \line { e la mia vita offende: }
-                \line { onde per l'infinito e gran martire, }
-                \line { m'è forza di morire. }
+                \line { Anima del cor mio, }
+                \line { poiché da me, misera me, tu parti, }
+                \line { s'ami conforto alcuno a miei martiri, }
+                \line { non isdegnar ch'almen ti segua anch'io, }
+                \line { solo co' miei sospiri }
+                \line { e sol per rimembrarti, }
+                \line { ch'in tante pene e in così fiero scempio: }
+                \line { Vivrò d'amor di vera fede esempio. }
             }
            \column {
                % translation orig date: 2023-04-03
                % translation updated:
-                \line { Alas, every hour I lie awake in vigil, }
-                \line { for my beautiful Idol }
-                \line { shines upon another light, }
-                \line { and my life offends: }
-                \line { thus, due to my great and unending suffering, }
-                \line { I am forced to die. }
+                \line { Soul of my heart, }
+                \line { since from me, oh poor me, you depart, }
+                \line { if you take some comfort in my torments, }
+                \line { do not disdain that at least I also follow you, }
+                \line { alone with my sighs }
+                \line { and only in remembrance of you, }
+                \line { that in so much pain and in such cruel torment: }
+                \line { I will live as an example of love and true faith. }
                 \line { \hspace #10 \italic { translation by editor } }
-           }
+            }
         }
     }
 }

@@ -6,10 +6,10 @@
 % Che né mari né fiumi
 % Né paesi longiqui
 % Faran gia mai che non mi sian propinqui.
-% I gl'hò si affissi a gl'occhi
+% I' gli~ho si affissi a gli~occhi
 % Ch'a ogni sguardo ch'io scocchi
 % Parmi che quel splendor mi fenda il viso
-% Ch'in vita mi mantien poi -- ché m'hà ucciso.
+% Ch'in vita mi mantien poi -- ché m'ha ucciso.
 
 cantoXIincipit = \relative c' {
     \time 2/2
@@ -57,15 +57,15 @@ cantoLyricsXI = \lyricmode {
     Che né ma -- ri né fiu -- mi,
     Né __ pa -- e -- si lon -- gi -- qui
     Fa -- ran già mai che non mi sian __ pro -- pin -- qui.
-    I gl'hò si~af -- fis -- si~a gl'oc -- chi
+    I' gli~ho si~af -- fis -- si~a gli~oc -- chi
     Ch'a~o -- gni sguar -- do ch'io scoc -- chi
     Par -- mi che quel splen -- dor mi fen -- da~il vi -- so
-    Ch'in vi -- ta mi man -- tien poi -- ché m'hà~uc -- ci -- so, __
+    Ch'in vi -- ta mi man -- tien poi -- ché m'ha~uc -- ci -- so, __
     Ch'in vi -- ta mi man -- tien,
     \ijLyrics
     Ch'in vi -- ta mi man -- tien 
     \normalLyrics 
-        poi -- ché m'hà~uc -- ci -- so.
+        poi -- ché m'ha~uc -- ci -- so.
 }
 
 altoXIincipit = \relative c' {
@@ -113,12 +113,12 @@ altoLyricsXI = \lyricmode {
     Che __ né ma -- ri né fiu -- mi,
     Né __ pa -- e -- si lon -- gi -- qui
     Fa -- ran già mai che non mi sian pro -- pin -- qui.
-    I gl'hò si~af -- fis -- si~a gl'oc -- chi
+    I' gli~ho si~af -- fis -- si~a gli~oc -- chi
     Ch'a~o -- gni sguar -- do ch'io scoc -- chi
     Par -- mi che quel splen -- dor mi fen -- da~il vi -- so
-    Ch'in vi -- ta mi man -- tien poi -- ché m'hà~uc -- ci -- so, 
-    Ch'in vi -- ta mi man -- tien poi __ che m'hà~uc -- ci -- so, 
-        poi -- ché m'hà~uc -- ci -- so.
+    Ch'in vi -- ta mi man -- tien poi -- ché m'ha~uc -- ci -- so, 
+    Ch'in vi -- ta mi man -- tien poi __ che m'ha~uc -- ci -- so, 
+        poi -- ché m'ha~uc -- ci -- so.
 }
 
 tenoreXIincipit = \relative c' {
@@ -155,11 +155,11 @@ tenoreLyricsXI = \lyricmode {
     Che __ né ma -- ri né fiu -- mi,
     Né __ pa -- e -- si lon -- gi -- qui
     Fa -- ran già mai che non mi sian pro -- pin -- qui.
-    I gl'hò si~af -- fis -- si~a gl'oc -- chi
+    I' gli~ho si~af -- fis -- si~a gli~oc -- chi
     Par -- mi che quel splen -- dor mi fen -- da~il vi -- so
-    Ch'in vi -- ta mi man -- tien poi -- ché m'hà~uc -- ci -- so, 
-    Ch'in vi -- ta mi man -- tien poi __ che m'hà~uc -- ci -- so, 
-        poi -- ché m'hà~uc -- ci -- so.
+    Ch'in vi -- ta mi man -- tien poi -- ché m'ha~uc -- ci -- so, 
+    Ch'in vi -- ta mi man -- tien poi __ che m'ha~uc -- ci -- so, 
+        poi -- ché m'ha~uc -- ci -- so.
 }
 
 bassoXIincipit = \relative c {
@@ -193,9 +193,9 @@ bassoLyricsXI = \lyricmode {
     Che __ né ma -- ri né fiu -- mi,
     Né __ pa -- e -- si lon -- gi -- qui
     Fa -- ran già mai
-    I gl'hò si~af -- fis -- si~a gl'oc -- chi
+    I' gli~ho si~af -- fis -- si~a gli~oc -- chi
     Par -- mi che quel splen -- dor mi fen -- da~il vi -- so
-    Ch'in vi -- ta mi man -- tien poi __ che m'hà~uc -- ci -- so. 
+    Ch'in vi -- ta mi man -- tien poi __ che m'ha~uc -- ci -- so. 
 }
 
 quintoXIincipit = \relative c' {
@@ -247,15 +247,15 @@ quintoLyricsXI = \lyricmode {
         né fiu -- mi,
     Né __ pa -- e -- si lon -- gi -- qui
     Fa -- ran già mai che non __ mi sian pro -- pin -- qui.
-    I gl'hò si~af -- fis -- si~a gl'oc -- chi
+    I' gli~ho si~af -- fis -- si~a gli~oc -- chi
     Ch'a~o -- gni sguar -- do ch'io scoc -- chi
     Par -- mi che quel splen -- dor mi fen -- da~il vi -- so
-    Ch'in vi -- ta mi man -- tien poi -- ché m'hà~uc -- ci -- so, 
+    Ch'in vi -- ta mi man -- tien poi -- ché m'ha~uc -- ci -- so, 
     Ch'in vi -- ta mi man -- tien,
     \ijLyrics
     Ch'in vi -- ta mi man -- tien,
     \normalLyrics
-        poi -- ché m'hà~uc -- ci -- so.
+        poi -- ché m'ha~uc -- ci -- so.
 }
 
 cantoXIincipitVoice = <<

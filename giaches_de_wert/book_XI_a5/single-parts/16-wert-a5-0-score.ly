@@ -9,31 +9,32 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2023-04-03"
-    originallyset = "2023-04-03"
+    lastupdated = "2023-04-05"
+    originallyset = "2023-04-05"
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Ahi lasso, ogni or veggio io"
-    subtitle = ""
-    instrument = "Ahi lasso, ogni or veggio io:  (score)"
+    title = "Felice il bel tacer, che s'impregiona"
+    subtitle = "Seconda parte"
+    instrument = "Felice il bel tacer, che s'impregiona: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "ahi_lasso_ogni_or_veggio_io"
+    shorttitle = "felice_il_bel_tacer_che_simpregiona"
     shortcomp = "wert"
     categories = "[madrigal]"
     needtranslation = #'f
+    folio = "Luigi Tansillo (1510-1588)"
 
     % Unchanging:
     language = "italian"
-    poeticform = "madrigal"
+    poeticform = "sonnet"
     tagline = #'f
 }
 
-\include "../parts/14-wert-a5-madrigal.ly"
+\include "../parts/16-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "14-wert--ahi_lasso_ogni_or_veggio_io-"
+    \bookOutputName "16-wert--felice_il_bel_tacer_che_simpregiona-seconda_parte"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,73 +43,73 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXIVincipitVoice
+                    \incipit \cantoXVIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoXIV
+                    \cantoXVI
                 >>
-             \addlyrics { \cantoLyricsXIV }
+             \addlyrics { \cantoLyricsXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXIVincipitVoice
+                    \incipit \quintoXVIincipitVoice
                     \clef "treble"
                     \global
-                    \quintoXIV
+                    \quintoXVI
                 >>
-             \addlyrics { \quintoLyricsXIV }
+             \addlyrics { \quintoLyricsXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXIVincipitVoice
+                    \incipit \altoXVIincipitVoice
                     \clef "treble"
                     \global
-                    \altoXIV
+                    \altoXVI
                 >>
-             \addlyrics { \altoLyricsXIV }
+             \addlyrics { \altoLyricsXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXIVincipitVoice
+                    \incipit \tenoreXVIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreXIV
+                    \tenoreXVI
                 >>
-             \addlyrics { \tenoreLyricsXIV }
+             \addlyrics { \tenoreLyricsXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXIVincipitVoice
+                    \incipit \bassoXVIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoXIV
+                    \bassoXVI
                 >>
-             \addlyrics { \bassoLyricsXIV }
+             \addlyrics { \bassoLyricsXVI }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 84 2)
+                tempoWholesPerMinute = #(ly:make-moment 88 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Ahi lasso, ogni or veggio io }
-                \line { ch'il bel Idolo mio }
-                \line { ad altra luce splende, }
-                \line { e la mia vita offende: }
-                \line { onde per l'infinito e gran martire, }
-                \line { m'è forza di morire. }
+                \line { Felice il bel tacer, che s'impregiona }
+                \line { entro a sì belle mura, e'l dolce riso, }
+                \line { che di sì ricche gemme s'incorona: }
+                \line { ma più felice me, ch'intento e fiso }
+                \line { al bel che splende a l'armonia che suona, }
+                \line { l'orecchie ho in cielo e gli occhi in paradiso. }
             }
            \column {
                % translation orig date: 2023-04-03
                % translation updated:
-                \line { Alas, every hour I lie awake in vigil, }
-                \line { for my beautiful Idol }
-                \line { shines upon another light, }
-                \line { and my life offends: }
-                \line { thus, due to my great and unending suffering, }
-                \line { I am forced to die. }
+                \line { Blessed is the beautiful silence, that permeats }
+                \line { within such beautiful walls, and the sweet laughter, }
+                \line { that crowns itself with such rich gems: }
+                \line { but more blessed still am I, intent and focused }
+                \line { on the beauty that shines and the harmony that plays, }
+                \line { my ears I have in heaven and my eyes in paradise. }
                 \line { \hspace #10 \italic { translation by editor } }
            }
         }

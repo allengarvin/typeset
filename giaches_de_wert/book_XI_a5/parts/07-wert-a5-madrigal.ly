@@ -3,13 +3,27 @@
 % Senza morir? Come potrò patire,
 % Ch'altri di te fruisca e non morire?
 % Miracolo d'Amore,
-% Che con nuovo dolore,
+% Che con nuovo dolore
 % Fa ch'in un punto i provi vita e morte,
 % Chiudendosi le porte
 % Al gaudio ed al diletto,
 % Nè le più interne parti del mio petto,
 % Dunque risuonin d'ogni intorno omai,
 % Lamenti pianti e guai.
+
+% Ah, how will I endure, my sweet life,
+% that you lie as one in the arms of my enemy,
+% without dying? How can I bear,
+% that someone else enjoys you and not die?
+% A miracle of Love,
+% that with new suffering
+% makes me in an instance experience life and death,
+% closing the doors
+% to joy and pleasure,
+% Nor the deepest parts of my breast,
+% let there resound all around now,
+% Laments, tears, and woes.
+% on the cantus coelnn recording? Review if I can find the liner notes
 
 cantoVIIincipit = \relative c'' {
     \time 2/2

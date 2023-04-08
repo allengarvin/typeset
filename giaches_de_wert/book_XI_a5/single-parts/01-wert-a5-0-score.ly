@@ -91,23 +91,23 @@
             \column {
                 \line { Ah dolente partita! }
                 \line { Ah fin de la mia vita! }
-                \line { Da te parto, e non moro? e pur i' provo }
-                \line { La pena de la morte, }
-                \line { E sento nel partire }
-                \line { Un vivace morire, }
-                \line { Che dà vita al dolore, }
-                \line { Per far che moia immortalmente il core. }
+                \line { Da te parto, e non moro? E pur i' provo }
+                \line { la pena de la morte, }
+                \line { e sento nel partire }
+                \line { un vivace morire }
+                \line { che dà vita al dolore, }
+                \line { per far che moia immortalmente il core. }
             }
             \column {
                 \line { Ah, painful parting! }
-                \line { Ah, end of my life! }
-                \line { From thee I leave and I don't die?  But I feel  }
-                \line { The pain of death }
-                \line { And I feel on leaving }
-                \line { A lively dying, }
-                \line { Which gives life to pain }
-                \line { To let my heart immortally die. }
-                \line { \hspace #12 CPDL translation }
+                \line { Ah, the end of my life! }
+                \line { From thee I part, and I do not die?  Yet I feel  }
+                \line { the pain of death }
+                \line { And I feel upon leaving }
+                \line { a vivid dying }
+                \line { that gives life to the suffering, }
+                \line { to let my heart die eternally. }
+                \line { \hspace #12 \italic { translation by editor } }
             }
         }
     }

@@ -93,17 +93,17 @@
         \fill-line {
             \column {
                 \line { Ahi come soffrirò dolce mia vita, }
-                \line { Che giacci in braccio al mio nemico unita, }
+                \line { che giacci in braccio al mio nemico unita, }
                 \line { Senza morir? Come potrò patire, }
-                \line { Ch'altri di te fruisca e non morire? }
+                \line { ch'altri di te fruisca e non morire? }
                 \line { Miracolo d'Amore, }
-                \line { Che con nuovo dolore, }
-                \line { Fa ch'in un punto i provi vita e morte, }
-                \line { Chiudendosi le porte }
-                \line { Al gaudio ed al diletto, }
-                \line { Nè le più interne parti del mio petto, }
-                \line { Dunque risuonin d'ogni intorno omai, }
-                \line { Lamenti pianti e guai. }
+                \line { che con nuovo dolore, }
+                \line { fa ch'in un punto i provi vita e morte, }
+                \line { chiudendosi le porte }
+                \line { al gaudio ed al diletto, }
+                \line { nè le più interne parti del mio petto, }
+                \line { dunque risuonin d'ogni intorno omai, }
+                \line { lamenti pianti e guai. }
             }
         }
     }

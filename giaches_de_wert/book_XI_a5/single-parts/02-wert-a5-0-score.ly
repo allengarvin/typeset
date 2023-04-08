@@ -121,7 +121,7 @@
                 \line { was so blithe and beautiful. }
                 \line { But I am no longer whom I used to be, }
                 \line { so dear to others' eyes. }
-                \line { \hspace #6 -Campelli (CPDL license), modified by ATG }
+                \line { \hspace #6 -Campelli (CPDL license), modified slightly by editor }
             }
         }
     }
