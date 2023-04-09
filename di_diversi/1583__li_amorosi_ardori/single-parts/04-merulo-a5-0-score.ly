@@ -11,6 +11,8 @@
 \header {
     lastupdated = "2023-04-08"
     originallyset = "2023-04-08"
+    flats = 1
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     composer = "Claudio Merulo (1533-1604)"
