@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.2)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -36,7 +36,10 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.0
+            } <<
+
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoIIIincipitVoice
