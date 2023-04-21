@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Italia mia"
     instrument = "Italia mia (score)"
-    subtitle = "transposed up a fourth"
+    subtitle = "transposed up a tone"
     composer = "Philippe Verdelot (c.1485-c.1530)" 
     folio = \markup { Petrarca, \italic{Canzoniere} CXXVIII (128) }
 
@@ -37,7 +37,7 @@
                     \set Staff.instrumentName = #"Cantus"
                     \incipit \cantusVincipitVoice
                     \clef treble
-                    \global\transpose c f
+                    \global\transpose c d
                     \cantusV
                 >>
                 \addlyrics { \cantusLyricsV }
@@ -45,7 +45,7 @@
                     \set Staff.instrumentName = #"Altus"
                     \incipit \altusVincipitVoice
                     \clef "treble"
-                    \global\transpose c f
+                    \global\transpose c d
                     \altusV
                 >>
                 \addlyrics { \altusLyricsV }
@@ -53,7 +53,7 @@
                     \set Staff.instrumentName = #"Tenor"
                     \incipit \tenorVincipitVoice
                     \clef "treble_8"
-                    \global\transpose c f
+                    \global\transpose c d
                     \tenorV
                 >>
                 \addlyrics { \tenorLyricsV }
@@ -61,7 +61,7 @@
                     \set Staff.instrumentName = #"Quintus"
                     \incipit \quintusVincipitVoice
                     \clef "treble_8"
-                    \global\transpose c f
+                    \global\transpose c d
                     \quintusV
                 >>
                 \addlyrics { \quintusLyricsV }
@@ -69,7 +69,7 @@
                     \set Staff.instrumentName = #"Bassus"
                     \incipit \bassusVincipitVoice
                     \clef "bass"
-                    \global\transpose c f
+                    \global\transpose c d
                     \bassusV
                 >>
                 \addlyrics { \bassusLyricsV }
