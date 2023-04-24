@@ -96,14 +96,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Danzava con maniere sopre humane }
-                \line { D'amorose donzelle allegro coro, }
-                \line { E si stavano l'aure immote e piane, }
-                \line { Intente forse al bel grato lavoro.  }
-                \line { Et ascondea l'alt' onde oceane }
-                \line { Il gran celest Avriga i bei crin d'oro, }
-                \line { Quando di sdegno e di pieta d'accesa }
-                \line { Ver me l'alma mia Dea disse son presa. }
+                \line { Danzava con maniere sopr'umane }
+                \line { d'amorose donzelle allegro coro, }
+                \line { e si stavano l'aure immote e piane, }
+                \line { intente forse al bel grato lavoro. }
+                \line { Ed ascondea l'alt' onde oceane }
+                \line { il gran celest Avriga i bei crin d'oro, }
+                \line { quando di sdegno e di pietad'accesa }
+                \line { ver me l'alma mia Dea disse: son presa. }
             }
         }
     }

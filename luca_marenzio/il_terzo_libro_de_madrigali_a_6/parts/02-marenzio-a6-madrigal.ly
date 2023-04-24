@@ -1,11 +1,11 @@
-% Danzava con maniere sopre humane
-% D'amorose donzelle allegro coro,
-% E si stavano l'aure immote e piane,
-% Intente forse al bel grato lavoro. 
-% Et ascondea l'alt' onde oceane
-% Il gran celest Avriga i bei crin d'oro,
-% Quando di sdegno e di pieta d'accesa
-% Ver me l'alma mia Dea disse son presa 
+% Danzava con maniere sopr'umane
+% d'amorose donzelle allegro coro,
+% e si stavano l'aure immote e piane,
+% intente forse al bel grato lavoro. 
+% Ed ascondea l'alt' onde oceane
+% il gran celest Avriga i bei crin d'oro,
+% quando di sdegno e di pietad'accesa
+% ver me l'alma mia Dea disse: son presa.
 
 
 cantoIIincipit = \relative c'' {
@@ -46,7 +46,7 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    Dan -- za -- va con ma -- nie -- re so -- pre~hu -- ma -- ne
+    Dan -- za -- va con ma -- nie -- re so -- pr'u -- ma -- ne
     D'a -- mo -- ro -- se don -- zel -- le~al -- le -- gro co -- ro,
         al -- le -- gro co -- ro,
         al -- le -- gro co -- ro,
@@ -58,7 +58,7 @@ cantoLyricsII = \lyricmode {
     Et a -- scon -- dea ne l'alt' on -- de o -- ce -- a -- ne
     Il gran ce -- lest' A -- vri -- ga~i bei crin d'o -- ro,
     Quan -- do
-    Quan -- do di sde -- gno~e di pie -- ta d'ac -- ce -- sa
+    Quan -- do di sde -- gno~e di pie -- ta -- d'ac -- ce -- sa
     Ver me l'al -- ma mia Dea dis -- se son pre -- sa,
         son pre -- sa,
         \ijLyrics
@@ -101,7 +101,7 @@ altoII = \relative c' {
 }
 
 altoLyricsII = \lyricmode {
-   Dan -- za -- va con ma -- nie -- re so -- pre~hu -- ma -- ne
+   Dan -- za -- va con ma -- nie -- re so -- pr'u -- ma -- ne
     D'a -- mo -- ro -- se don -- zel -- le~al -- le -- gro co -- ro,
         al -- le -- gro co -- ro,
         al -- le -- gro co -- ro,
@@ -111,7 +111,7 @@ altoLyricsII = \lyricmode {
     Et a -- scon -- dea,
     Et a -- scon -- dea ne l'alt' on -- de~o -- ce -- a -- ne
     Il gran ce -- lest' A -- vri -- ga i bei crin d'o -- ro,
-    Quan -- do __ di sde -- gno~e di pie -- ta d'ac -- ce -- sa
+    Quan -- do __ di sde -- gno~e di pie -- ta -- d'ac -- ce -- sa
     Ver me,
     Ver me l'al -- ma mia Dea dis -- se son pre -- sa,
         son pre -- sa.
@@ -150,7 +150,7 @@ tenoreII = \relative c {
 }
 
 tenoreLyricsII = \lyricmode {
-    Dan -- za -- va con ma -- nie -- re so -- pre~hu -- ma -- ne
+    Dan -- za -- va con ma -- nie -- re so -- pr'u -- ma -- ne
     D'a -- mo -- ro -- se don -- zel -- le al -- le -- gro co -- ro,
         al -- le -- gro co -- ro,
     E si sta -- va -- no l'au -- re 
@@ -243,7 +243,7 @@ quintoII = \relative c' {
 }
 
 quintoLyricsII = \lyricmode {
-    Dan -- za -- va con ma -- nie -- re so -- pre~hu -- ma -- ne
+    Dan -- za -- va con ma -- nie -- re so -- pr'u -- ma -- ne
     D'a -- mo -- ro -- se don -- zel -- le~al -- le -- gro co -- ro,
         al -- le -- gro co -- ro,
         al -- le -- gro co -- ro,
@@ -254,7 +254,7 @@ quintoLyricsII = \lyricmode {
     Et a -- scon -- dea ne l'alt' on -- de~o -- ce -- a -- ne
     Il gran ce -- lest' A -- vri -- ga~i bei crin d'o -- ro,
     Quan -- do
-    Quan -- do di sde -- gno~e di pie -- ta d'ac -- ce -- sa
+    Quan -- do di sde -- gno~e di pie -- ta -- d'ac -- ce -- sa
     Ver me l'al -- ma mia Dea dis -- se son pre -- sa dis -- se,
         son pre -- sa,
         son pre -- sa.
@@ -303,7 +303,7 @@ sestoLyricsII = \lyricmode {
         ne l'alt' on -- de~o -- ce -- a -- ne
     Il gran ce -- lest' A -- vri -- ga i bei crin d'o -- ro,
     Quan -- do
-    Quan -- do di sde -- gno~e di pie -- ta d'ac -- ce -- sa
+    Quan -- do di sde -- gno~e di pie -- ta -- d'ac -- ce -- sa
     Ver me l'al -- ma mia Dea dis -- se son pre -- sa,
         dis -- se son pre -- sa.
 }

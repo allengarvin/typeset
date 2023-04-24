@@ -99,13 +99,24 @@
         \fill-line {
             \column {
                 \line { In un lucido rio }
-                \line { Mirand'il suo bel viso, }
-                \line { Così doleasi un pastorel d'Amore }
+                \line { mirando il suo bel viso, }
+                \line { così doleasi un pastorel d'Amore: }
                 \line { Misero, perché anch'io }
-                \line { Quasi nuovo Narciso }
-                \line { Non mi converto lagrimand' in fiore? }
-                \line { Ch'in quella form' almeno }
-                \line { Mi raccorrebbe la mia Donn'in seno. }
+                \line { quasi nuovo Narciso }
+                \line { non mi converto lagrimando in fiore? }
+                \line { Ch'in quella forma almeno }
+                \line { mi raccorrebbe la mia Donna in seno. }
+            }
+            \column {
+                \line { By a clear stream, }
+                \line { gazing upon her lovely face, }
+                \line { a shepherd so lamented to himself of his love. }
+                \line { Miserable one, for why cannot I, }
+                \line { like a new Narcissus }
+                \line { weeping, being transformed into a flower? }
+                \line { For at least in that form, }
+                \line { My lady would clasp me to her breast. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

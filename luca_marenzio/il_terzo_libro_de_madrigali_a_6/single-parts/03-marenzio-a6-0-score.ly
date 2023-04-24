@@ -96,14 +96,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Son presa disse e a me rivolse in giro } 
-                \line { Vergognosetta le ridenti stelle, } 
-                \line { Da quai per quanto d'ogn'intorno miro, } 
-                \line { Non veggio le più honeste e le più belle. } 
-                \line { L'alma mia all'hor accolt' in un sospiro, } 
-                \line { Sentendo raddoppiar strali e facelle, } 
-                \line { S'io son, mi disse, in simil lacc' involta, } 
-                \line { Tu ne sospirari più d'una volta. } 
+                \line { Son presa disse, e a me rivolse in giro }
+                \line { vergognosetta le ridenti stelle, }
+                \line { da quai per quanto d'ogni intorno miro, }
+                \line { non veggio le più oneste e le più belle. }
+                \line { L'alma mia all'hor accolt' in un sospiro, }
+                \line { sentendo raddoppiar strali e facelle, }
+                \line { s'io son, mi disse, in simil laccio involta, }
+                \line { tu ne sospirarai più d'una volta. }
             }
         }
     }

@@ -1,11 +1,11 @@
-% Son presa disse e a me rivolse in giro
-% Vergognosetta le ridenti stelle,
-% Da quai per quanto d'ogn'intorno miro,
-% Non veggio le più honeste e le più belle.
+% Son presa disse, e a me rivolse in giro
+% vergognosetta le ridenti stelle,
+% da quai per quanto d'ogni intorno miro,
+% non veggio le più oneste e le più belle.
 % L'alma mia all'hor accolt' in un sospiro,
-% Sentendo raddoppiar strali e facelle,
-% S'io son, mi disse, in simil lacc' involta,
-% Tu ne sospirari più d'una volta.
+% sentendo raddoppiar strali e facelle,
+% s'io son, mi disse, in simil laccio involta,
+% tu ne sospirarai più d'una volta.
 
 cantoIIIincipit = \relative c'' {
     \time 4/4
@@ -50,7 +50,7 @@ cantoLyricsIII = \lyricmode {
     Son pre -- sa dis -- se~e~a me ri -- vol -- se~in gi -- ro
     Ver -- go -- gno -- set -- ta le ri -- den -- ti stel -- le,
     Da quai per quan -- to d'ogn' in -- tor -- no mi -- ro,
-    Non veg -- gio le più~ho -- ne -- ste e le più bel -- le. __
+    Non veg -- gio le più~o -- ne -- ste e le più bel -- le. __
     L'al -- ma mia % all'hor accolt' in un
         so -- spi -- ro,
         so -- spi -- ro,
@@ -115,7 +115,7 @@ altoLyricsIII = \lyricmode {
     Son pre -- sa dis -- se
     Ver -- go -- gno -- set -- ta le ri -- den -- ti stel -- le,
     Da quai per quan -- to d'ogn' in -- tor -- no mi -- ro,
-    Non veg -- gio le più~ho -- ne -- ste~e le più bel -- le.
+    Non veg -- gio le più~o -- ne -- ste~e le più bel -- le.
     L'al -- ma
     L'al -- ma mia~all' hor ac -- colt' in un
         so -- spi -- ro __
@@ -180,8 +180,8 @@ tenoreLyricsIII = \lyricmode {
     Son pre -- sa dis -- se e~a me ri -- vol -- se~in gi -- ro
     Ver -- go -- gno -- set -- ta le ri -- den -- ti stel -- le,
     Da quai per quan -- to d'ogn' in -- tor -- no mi -- ro,
-    Non veg -- gio le più~ho -- ne -- ste,
-    Non veg -- gio le più~ho -- ne -- ste~e le più bel -- le.
+    Non veg -- gio le più~o -- ne -- ste,
+    Non veg -- gio le più~o -- ne -- ste~e le più bel -- le.
     L'al -- ma mia~all' hor ac -- colt' in un
         so -- spi -- ro,
         so -- spi -- ro,
@@ -295,8 +295,8 @@ quintoLyricsIII = \lyricmode {
     Son pre -- sa dis -- se e~a me ri -- vol -- se~in gi -- ro
     Ver -- go -- gno -- set -- ta le ri -- den -- ti __ stel -- le,
     Da quai per quan -- to d'ogn' in -- tor -- no mi -- ro,
-    Non veg -- gio le più~ho -- ne -- ste
-    Non veg -- gio le più~ho -- ne -- ste~e le più bel -- le.
+    Non veg -- gio le più~o -- ne -- ste
+    Non veg -- gio le più~o -- ne -- ste~e le più bel -- le.
     L'al -- ma mia all' hor ac -- colt' in un
         so -- spi -- ro,
         so -- spi -- ro,
