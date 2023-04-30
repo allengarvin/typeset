@@ -21,7 +21,7 @@
 % The fair and beautiful Armillo
 % paid tribute to the sea
 % with his bitter tears,
-% -- while at the top of a rocky ledge [phrase better?]
+% while atop a rocky precipice,
 % weeping, he poured out his heart's grief.
 % 
 % And he said: O blessed waves
