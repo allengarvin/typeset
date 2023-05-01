@@ -1,11 +1,11 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1572__conversi_girolamo__il_primo_libro_de_canzoni_alla_napolitana_a_5_voci__scotto_press
     typeset_directory: girolamo_conversi/il_primo_libro_delle_canzoni
 source:
     city: Venice
     date_exact: true
-    title: 'Il primo libro delle canzoni á 5 voci'
-    year: 1575
+    title: 'Il primo libro delle canzoni a 5 voci'
+    year: 1572
     reprints: 1575, 1580
     press: Girolamo Scotto

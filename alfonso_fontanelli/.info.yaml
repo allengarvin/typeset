@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /alfonso_fontanelli
+biography:
+    name: Alfonso Fontanelli
+    last_name: Fontanelli
+    nationality: Italian
+    born_year: 1557
+    born_date: 1557-02-15
+    died_year: 1622
+    died_date: 1622-02-11
+    born_location:
+        region: Reggio nell'Emilia
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

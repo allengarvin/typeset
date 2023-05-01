@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1582__agostini_lodovico__madrigali_a_6_libro_3
+    typeset_directory: lodovico_agostino/madrigali_libro_3
+source:
+    city: Ferrara
+    date_exact: true
+    title: Madrigali libro terzo
+    press: Heredi di Francesco Rossi press
+    year: 1582

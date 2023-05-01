@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/complete/1594__marenzio_luca__il_quinto_libro_de_madrigali_a_5_voci
+    typeset_directory: luca_marenzio/il_quinto_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il quinto libro de madrigali a 5 voci
+    year: 1584

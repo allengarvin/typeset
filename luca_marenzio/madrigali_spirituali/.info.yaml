@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1584__marenzio_luca__madrigali_spirituali_a_5_voci
+    typeset_directory: luca_marenzio/madrigali_spirituali
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    press: Alessandro Gardano press
+    print: true
+    title: Madrigali spirituali a 5 voci, libro primo
+    year: 1584

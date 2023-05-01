@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: /home/agarvin/facsimiles/complete/1581__victoria_tomas_luis__cantica_virginis_vulgo_magnificat_4_vocibus/
+    typeset_directory: tomas_luis_de_victoria/1581__cantica_virginis
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    press: Dominici Basae press
+    print: true
+    title: Cantica B. Virginis vulgo magnificat
+    year: 1581

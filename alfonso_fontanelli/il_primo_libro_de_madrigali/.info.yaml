@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1603__fontanelli_alfonso__primo_libro_dei_madrigali_senza_nome_a_5_voci
+    typeset_directory: alfonso_fontanelli/il_primo_libro_de_madrigali
+source:
+    city: Ferrara
+    date_exact: true
+    manuscript: false
+    press: Baldini press
+    print: true
+    title: Primo libro di madregali senza nome a 5 voci
+    year: 1595
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

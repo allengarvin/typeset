@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /giovanni_piccioni
+biography:
+    name: Giovanni Piccioni
+    name_variants:
+        - Giovanni Pizzoni
+        - Giovanni Pisoni
+    last_name: Piccioni
+    nationality: Italian
+    born_year: 1549
+    died_year: 1619
+    born_location:
+        region: Rimini
+        country: Italy
+    died_location:
+        region: orvieto
+        country: Italy

@@ -1,0 +1,11 @@
+---
+local:
+    facsimile_directory: complete/1583__vecchi_orazio__madrigali_a_6_voci
+
+    typeset_directory: orazio_vecchi/madrigali_a_6_libro_primo
+source:
+    city: Venice
+    date_exact: true
+    title: Madrigali à 6 voci, libro primo
+    press: Angelo Gardano press
+    year: 1583

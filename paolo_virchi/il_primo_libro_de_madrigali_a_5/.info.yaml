@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1584__virchi_paolo__il_primo_libro_de_madrigali_a_5_voci__vincenti_press
+    typeset_directory: paolo_virchi/il_primo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenti e Amadino press
+    print: true
+    title: Il primo libro de madrigali a 5 voci
+    year: 1584
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1594__ferro_giulio__il_primo_libro_de_madrigali_a_5_voci__amadino_press
+    typeset_directory: andrea_feliciani/il_primo_delli_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali a 5 voci
+    press: Ricciardo Amadino press
+    year: 1594

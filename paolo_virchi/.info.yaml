@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /paolo_virchi
+biography:
+    name: Paolo Virchi
+    last_name: Virchi
+    nationality: Italian
+    born_year: 1551
+    born_circa: true
+    died_year: 1610
+    born_location:
+        region: Brescia
+        country: Italy
+    died_location:
+        region: Mantua
+        country: Italy

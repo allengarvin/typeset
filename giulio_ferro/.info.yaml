@@ -1,0 +1,14 @@
+---
+top:
+    type: composer
+    path: /giulio_ferro
+biography:
+    name: Giulio Ferro
+    last_name: Ferro
+    nationality: Italian
+    born_unknown: 1535
+    died_year: 1594
+    died_circa: true
+    born_location:
+        region: Urbino
+        country: Italy
