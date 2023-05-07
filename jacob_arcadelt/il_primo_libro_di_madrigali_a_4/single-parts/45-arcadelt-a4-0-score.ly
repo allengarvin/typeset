@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "O felici occhi miei"
     instrument = "O felici occhi miei (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

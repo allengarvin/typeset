@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Questi odorati fiori"
-    needtranslation = #'t
+    needtranslation = #'f
     instrument = "Questi odorati fiori (score)"
     language = "italian"
 
@@ -98,16 +98,17 @@
                 \line { Braman, Donna Real, aver ricetto }
                 \line { Sotto il bel vel che vi nasconde il petto. }
             }
-%            \column {
-%                \line { These sweet-smelling flowers, }
-%                \line { Yellow, violet, red, blue and white, }
-%                \line { Which during summer’s heat }
-%                \line { Made fresh and gentle bowers }
-%                \line { For the afflicted, weary little Cupids, }
-%                \line { Desire, O regal lady, to find refuge }
-%                \line { Under the fair veil that conceals your bosom. }
-%                \line { \hspace #12 Martin Morell }
-%            }
+            \column {
+                % translation 2023-04-23
+                \line { These fragrant flowers, }
+                \line { yellow, peach, red, blue and white, }
+                \line { that in the heat of summer }
+                \line { were a fresh and sweet resting place }
+                \line { for the lovelorn, weary Cupids; }
+                \line { They desire, noble Lady, to find haven }
+                \line { beneath the lovely veil that conceals your breast. }
+                \line { \hspace #10 \italic { translation by editor } }
+            }
         }
     }
 }

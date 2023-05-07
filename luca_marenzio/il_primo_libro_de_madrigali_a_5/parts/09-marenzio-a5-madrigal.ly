@@ -8,15 +8,17 @@
 % Della mia vita, oltre ogni assenzio amara.
 %
 % -- Luigi Tansillo
-% Grievous martirdoms, fierce torments,
-% harsh fetters, evil snares, rough chains,
-% where I night and day, every hour, every moment
-% miserable lament my lost well-being;
-% Sad voices, complaints, cries and laments,
-% tears shed and eternal efflections
-% are my nourishment and the treasured tranquility
-% of my life, more bitter than any wormwood.
-%  -- madrigals of Luzzaschi, AR editions, copyright encumbered.
+
+
+% Sorrowful sufferings, fierce torments,
+% harsh shackles, cruel snares, savage chains,
+% where I, by night, by day, by hour and moment
+% miserably weep for my lost love;
+% Sad voices, complaints, howls and laments,
+% frequent tears and unending pains
+% are my nourishment and the precious peace
+% of my life is now bitter as wormwood.
+% 2023-05-06 yay thesaurus!
 
 cantoIXincipit = \relative c' {
     \time 4/4
@@ -68,12 +70,12 @@ cantoLyricsIX = \lyricmode {
     Mi -- se -- ro pian -- go~il mio per -- du -- to be -- ne;
     Tri -- ste vo -- ci, que -- re -- le, ur -- li~e __ la -- men -- ti,
     La -- gri -- me,
-    La -- gri -- me spes -- se~e sem -- pi -- ter -- ne pe -- ne
+    la -- gri -- me spes -- se~e sem -- pi -- ter -- ne pe -- ne
     Son' il mio ci -- bo~e la qui -- e -- te ca -- ra
     Del -- la mia vi -- ta, __ 
-    Del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
-    Del -- la mia vi -- ta, 
-    Del -- la mia vi -- ta ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
+    del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
+    del -- la mia vi -- ta, 
+    del -- la mia vi -- ta ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
         ol -- tre~o -- gni as -- sen -- zio~a -- ma -- ra.
 }
 
@@ -128,9 +130,9 @@ altoLyricsIX = \lyricmode {
         e sem -- pi -- ter -- ne pe -- ne
     Son' il mio ci -- bo~e la qui -- e -- te ca -- ra
     Del -- la mia vi -- ta, 
-    Del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra, __
-    Del -- la mia vi -- ta, 
-    Del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra, __
+    del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra, __
+    del -- la mia vi -- ta, 
+    del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra, __
         ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra.
 }
 
@@ -176,10 +178,10 @@ tenoreLyricsIX = \lyricmode {
     Mi -- se -- ro pian -- go~il mio per -- du -- to be -- ne;
         que -- re -- le, ur -- li~e __ la -- men -- ti,
     La -- gri -- me,
-    La -- gri -- me spes -- se e sem -- pi -- ter -- ne pe -- ne
+    la -- gri -- me spes -- se e sem -- pi -- ter -- ne pe -- ne
     Del -- la mia vi -- ta, 
-    Del -- la mia vi -- ta, ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
-    Del -- la mia vi -- ta, __
+    del -- la mia vi -- ta, ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
+    del -- la mia vi -- ta, __
         ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
         ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra.
 }
@@ -227,11 +229,11 @@ bassoLyricsIX = \lyricmode {
     Tri -- ste vo -- ci, 
         ur -- li~e __ la -- men -- ti, __
     La -- gri -- me spes -- se,
-    La -- gri -- me spes -- se~e sem -- pi -- ter -- ne pe -- ne
-    Del -- la mia vi -- ta, 
-    Del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
-    Del -- la mia vi -- ta, 
-    Del -- la mia vi -- ta ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra.
+    la -- gri -- me spes -- se~e sem -- pi -- ter -- ne pe -- ne
+    del -- la mia vi -- ta, 
+    del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
+    del -- la mia vi -- ta, 
+    del -- la mia vi -- ta ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra.
 }
 
 quintoIXincipit = \relative c {
@@ -284,12 +286,12 @@ quintoLyricsIX = \lyricmode {
     La -- gri -- me spes -- se e sem -- pi -- ter -- ne pe -- ne
         e la qui -- e -- te ca -- ra
     Del -- la mia vi -- ta, 
-    Del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
-    Del -- la mia vi -- ta, 
+    del -- la mia vi -- ta~ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra,
+    del -- la mia vi -- ta, 
     \ijLyrics
-    Del -- la mia vi -- ta, 
+    del -- la mia vi -- ta, 
     \normalLyrics
-    Del -- la mia __ vi -- ta ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra, __
+    del -- la mia __ vi -- ta ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra, __
         ol -- tre~o -- gni~as -- sen -- zio~a -- ma -- ra.
 }
 

@@ -1,16 +1,18 @@
 %Quando dal Mare uscita
-%Con tre Tritoni amici in compagnia,
-%Facea dolce armonia
-%Cantando una Sirena, Alma e gradita
-%Fra l'erbe e le viole
-%Ove giacea dormendo il mio bel sole.
+%con tre Tritoni amici in compagnia
+%facea dolce armonia,
+%cantando una Sirena, alma e gradita,
+%fra l'erbe e le viole
+%ove giacea dormendo il mio bel sole.
 %
-%When, emerging from the sea
-%in the company of three friendly tritons
-%a mermaid, divine and welcome
-%was making sweet harmony,
-%singing among the grasses and the violets 
-%where my beautiful sun lay sleeping.
+
+% When emerging from the sea
+% With three friendly Tritons in company
+% making sweet harmony,
+% a Siren sang, profound and welcome:
+% amidst the grasses and the violets
+% where my own beautiful sun lay sleeping.
+
 cantoVIIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-g"
@@ -46,7 +48,7 @@ cantoLyricsVII = \lyricmode {
     Con tre Tri -- to -- ni~a -- mi -- ci~in com -- pa -- gni -- a,
     quan -- do dal Ma -- re~us -- ci -- ta
     Fa -- cea dol -- ce~ar -- mo -- ni -- a
-    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e __ gra -- di -- ta
+    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e __ gra -- di -- ta:
     Fra l'er -- b'e le vi -- o -- le,
     fra l'er -- b'e le vi -- o -- le
     O -- ve gia -- cea dor -- men -- do, 
@@ -88,7 +90,7 @@ altoLyricsVII = \lyricmode {
     Con tre Tri -- to -- ni~a -- mi -- ci~in com -- pa -- gni -- a,
 %    quan -- do dal Ma -- re~us -- ci -- ta
     Fa -- cea dol -- ce~ar -- mo -- ni -- a
-    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta
+    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta:
     Fra l'er -- b'e le vi -- o -- le,
     fra l'er -- b'e le vi -- o -- le
         e le vi -- o -- le
@@ -131,7 +133,7 @@ tenoreLyricsVII = \lyricmode {
     Con tre Tri -- to -- ni~a -- mi -- ci~in com -- pa -- gni -- a,
     quan -- do dal Ma -- re~us -- ci -- ta
     Fa -- cea __ dol -- ce~ar -- mo -- ni -- a
-    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta
+    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta:
     Fra l'er -- b'e le vi -- o -- le,
     fra l'er -- b'e le vi -- o -- le
     O -- ve gia -- cea dor -- men -- do il mio bel so -- le,
@@ -167,7 +169,7 @@ bassoLyricsVII = \lyricmode {
     Quan -- do dal Ma -- re~us -- ci -- ta
     Con tre Tri -- to -- ni~a -- mi -- ci~in com -- pa -- gni -- a,
     Fa -- cea dol -- ce~ar -- mo -- ni -- a
-%    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta
+%    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta:
     Fra l'er -- b'e le vi -- o -- le,
     fra l'er -- b'e le vi -- o -- le
     O -- ve gia -- cea dor -- men -- do~il mio bel so -- le,
@@ -205,7 +207,7 @@ quintoLyricsVII = \lyricmode {
     Con tre Tri -- to -- ni~a -- mi -- ci~in com -- pa -- gni -- a,
     Quan -- do dal Ma -- re~us -- ci -- ta
     Fa -- cea dol -- ce~ar -- mo -- ni -- a
-    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta
+    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta:
     Fra l'er -- b'e le vi -- o -- le,
     fra l'er -- b'e le vi -- o -- le
     O -- ve gia -- cea dor -- men -- do~il mio bel so -- le,
@@ -242,7 +244,7 @@ sestoLyricsVII = \lyricmode {
 %    Con tre Tri -- to -- ni~a -- mi -- ci~in com -- pa -- gni -- a,
 %    quan -- do dal Ma -- re~us -- ci -- ta
 %    Fa -- cea dol -- ce~ar -- mo -- ni -- a
-    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta
+    Can -- tan -- do~u -- na Si -- re -- na~Al -- ma~e gra -- di -- ta:
     Fa -- cea dol -- ce~ar -- mo -- ni -- a
     Fra l'er -- b'e le vi -- o -- le,
     fra l'er -- b'e le vi -- o -- le

@@ -13,7 +13,7 @@
     title = "O caso novo e strano"
     subtitle = "Quarta parte"
     instrument = "O caso novo e strano: Quarta parte (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -21,7 +21,7 @@
     originally_set = "2019-11-09"
     flats = 1
     final = "c"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -98,11 +98,20 @@
         \fill-line {
             \column {
                 \line { O caso novo e strano }
-                \line { Ch'a sì dolce morir spiegasse l'ale }
-                \line { Questo incauto animale, }
-                \line { Scorto dal chiaro lume di lontano }
-                \line { E dai vari concenti }
-                \line { Onde stavan le piagge e i monti intenti. }
+                \line { ch'a sì dolce morir spiegasse l'ale }
+                \line { questo incauto animale, }
+                \line { scorto dal chiaro lume di lontano }
+                \line { e dai vari concenti }
+                \line { onde stavan le piagge e i monti intenti. }
+            }
+            \column {
+                \line { O fate, new and strange, }
+                \line { that to such a sweet death unfurl the wings }
+                \line { of this incautious creature, }
+                \line { guided by a clear light from afar }
+                \line { and by sundry harmonies }
+                \line { that have captivated the slopes and the mountains. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -13,7 +13,7 @@
     title = "Giravan quelle foglie"
     subtitle = "Terza parte"
     instrument = "Giravan quelle foglie: Terza parte (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -21,7 +21,7 @@
     originally_set = "2019-11-09"
     flats = 1
     final = "f"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -98,11 +98,20 @@
         \fill-line {
             \column {
                 \line { Giravan quelle foglie }
-                \line { U si lodovan le belezze e'l nome }
-                \line { I begli occhi e le chiome }
-                \line { Di quella ch'è cagion delle mie doglie, }
-                \line { Intorno ad una face }
-                \line { Che spense una farfalla invid'audace. }
+                \line { u' si lodavan le belezze e'l nome }
+                \line { i begli occhi e le chiome }
+                \line { di quella ch'è cagion delle mie doglie, }
+                \line { intorno ad una face }
+                \line { che spense una farfalla invid'audace. }
+            }
+            \column {
+                \line { The leaves were swirling, }
+                \line { where being praised were the beauty and the name, }
+                \line { the lovely eyes and the tresses }
+                \line { of she who is the cause of my pains, }
+                \line { like around a flame }
+                \line { that burnt a moth too bold and envious. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

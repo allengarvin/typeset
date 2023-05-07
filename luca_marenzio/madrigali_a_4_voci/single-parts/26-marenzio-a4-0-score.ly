@@ -88,8 +88,6 @@
                 \line { D'haver un pastorel preso et avinto }
                 \line { Ch'a l'incontro primier si dié per vinto? }
             }
-            \column {
-            }
         }
     }
 }

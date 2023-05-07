@@ -12,9 +12,10 @@
     % Things that change per piece:
     title = "Dolorosi martir, fieri tormenti"
     instrument = "Dolorosi martir (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Luigi Tansillo (1510-1568)"
+    poeticform = "ottava_rima"
 
     % Unchanging:
     originallyset = "2014-12-12"
@@ -90,13 +91,24 @@
         \fill-line {
             \column {
                 \line { Dolorosi martir, fieri tormenti, } 
-                \line { Duri ceppi, empi lacci, aspre catene, } 
-                \line { Ov'io la notte i giorni, ore e momenti } 
-                \line { Misero piango il mio perduto bene; } 
+                \line { duri ceppi, empi lacci, aspre catene, } 
+                \line { ov'io la notte i giorni, ore e momenti } 
+                \line { misero piango il mio perduto bene; } 
                 \line { Triste voci, querele, urli, e lamenti, } 
-                \line { Lagrime spesse e sempiterne pene } 
-                \line { Son' il mio cibo e la quiete cara } 
-                \line { Della mia vita, oltre ogni assenzio amara. } 
+                \line { lagrime spesse e sempiterne pene } 
+                \line { son' il mio cibo e la quiete cara } 
+                \line { della mia vita, oltre ogni assenzio amara. } 
+            }
+            \column {
+                 \line { Sorrowful sufferings, fierce torments, }
+                 \line { harsh shackles, cruel snares, savage chains, }
+                 \line { where I, by night, by day, by hour and moment }
+                 \line { miserably weep for my lost love; }
+                 \line { Sad voices, complaints, howls and laments, }
+                 \line { frequent tears and unending pains }
+                 \line { are my nourishment and the precious peace }
+                 \line { of my life is now bitter as wormwood. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

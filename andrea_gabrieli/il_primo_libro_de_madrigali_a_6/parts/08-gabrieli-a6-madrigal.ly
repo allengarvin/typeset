@@ -1,16 +1,18 @@
-%Giravan quelle foglie
-%U si lodovan le belezze e'l nome
-%I begli occhi e le chiome
-%Di quella ch'è cagion delle mie doglie,
-%Intorno ad una face
-%Che spense una farfalla invid'audace.
+% Giravan quelle foglie
+% u' si lodavan le belezze e'l nome
+% i begli occhi e le chiome
+% di quella ch'è cagion delle mie doglie,
+% intorno ad una face
+% che spense una farfalla invid'audace.
 %
-%There where the praises were being sung
-%of the beauties and the name,
-%the beautiful eyes, and the tresses
-%of her who is the cause of my pains,
-%those petals were swirling around a flame
-%that had obliterated a bold, envious moth.
+% changing lodovan to lodavan: for imperfetto di lodare
+
+% The leaves were swirling,
+% where being praised were the beauty and the name,
+% the lovely eyes and the tresses
+% of she who is the cause of my pains,
+% like around a flame
+% that burnt a moth too bold and envious.
 
 cantoVIIIincipit = \relative c' {
     \time 4/4
@@ -44,8 +46,8 @@ cantoVIII = \relative c' {
 
 cantoLyricsVIII = \lyricmode {
     Gi -- ra -- van quel -- le fo -- glie
-    U si lo -- do -- van le be -- lez -- ze~e'l no -- me,
-    u si lo -- do -- van le be -- lez -- ze~e'l no -- me
+    U si lo -- da -- van le be -- lez -- ze~e'l no -- me,
+    u si lo -- da -- van le be -- lez -- ze~e'l no -- me
     I be -- gli~oc -- chi~e le chi -- ome
     Di quel -- la ch'è ca -- gion,
     i be -- gli~oc -- chi~e le chi -- ome
@@ -89,8 +91,8 @@ altoVIII = \relative c'' {
 
 altoLyricsVIII = \lyricmode {
     Gi -- ra -- van quel -- le fo -- glie
-    U si lo -- do -- van le be -- lez -- ze~e'l no -- me,
-    u si lo -- do -- van le be -- lez -- ze~e'l no -- me,
+    U si lo -- da -- van le be -- lez -- ze~e'l no -- me,
+    u si lo -- da -- van le be -- lez -- ze~e'l no -- me,
         e'l no -- me
     I be -- gli~oc -- chi~e le chi -- ome
     Di quel -- la ch'è ca -- gion del -- le mie do -- glie,
@@ -136,8 +138,8 @@ tenoreVIII = \relative c' {
 
 tenoreLyricsVIII = \lyricmode {
     Gi -- ra -- van quel -- le fo -- glie __
-    U si lo -- do -- van le be -- lez -- ze~e'l no -- me,
-    u si lo -- do -- van le be -- lez -- ze~e'l no -- me __
+    U si lo -- da -- van le be -- lez -- ze~e'l no -- me,
+    u si lo -- da -- van le be -- lez -- ze~e'l no -- me __
     I be -- gli~oc -- chi~e le chi -- ome
     Di quel -- la ch'è ca -- gion del -- le mie do -- glie,
     i be -- gli~oc -- chi~e le chi -- ome
@@ -181,8 +183,8 @@ bassoVIII = \relative c {
 
 bassoLyricsVIII = \lyricmode {
     Gi -- ra -- van quel -- le fo -- glie
-    U si lo -- do -- van le be -- lez -- ze~e'l no -- me,
-    u si lo -- do -- van le be -- lez -- ze~e'l no -- me
+    U si lo -- da -- van le be -- lez -- ze~e'l no -- me,
+    u si lo -- da -- van le be -- lez -- ze~e'l no -- me
     I be -- gli~oc -- chi~e le chi -- ome
         ch'è ca -- gion del -- le mie do -- glie,
     In -- tor -- n'ad u -- na fa -- ce
@@ -222,8 +224,8 @@ quintoVIII = \relative c'' {
 
 quintoLyricsVIII = \lyricmode {
     Gi -- ra -- van quel -- le fo -- glie __
-    U si lo -- do -- van le be -- lez -- ze~e'l no -- me,
-    u si lo -- do -- van le be -- lez -- ze~e'l no -- me
+    U si lo -- da -- van le be -- lez -- ze~e'l no -- me,
+    u si lo -- da -- van le be -- lez -- ze~e'l no -- me
     I be -- gli~oc -- chi~e le chi -- ome
     Di quel -- la ch'è ca -- gion del -- le mie do -- glie,
     In -- tor -- n'ad u -- na fa -- ce
@@ -262,9 +264,9 @@ sestoVIII = \relative c' {
 
 sestoLyricsVIII = \lyricmode {
     Gi -- ra -- van quel -- le fo -- glie
-    U si lo -- do -- van le be -- lez -- ze~e'l no -- me,
+    U si lo -- da -- van le be -- lez -- ze~e'l no -- me,
         e'l no -- me,
-    u si lo -- do -- van le be -- lez -- ze~e'l no -- me
+    u si lo -- da -- van le be -- lez -- ze~e'l no -- me
         ch'è __ ca -- gion del -- le mie do -- glie,
     I be -- gli~oc -- chi~e le chi -- ome
     In -- tor -- n'ad u -- na fa -- ce

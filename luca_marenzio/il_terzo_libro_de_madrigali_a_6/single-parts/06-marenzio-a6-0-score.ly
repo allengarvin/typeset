@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "In un lucido rio"
     instrument = "In un lucido rio (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Torquato Tasso"
 

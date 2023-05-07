@@ -13,7 +13,7 @@
     title = "Quando dal Mare uscita"
     subtitle = "Seconda parte"
     instrument = "Quando dal Mare uscita: Seconda parte (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -21,7 +21,7 @@
     originally_set = "2019-11-09"
     flats = 1
     final = "c"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -98,11 +98,21 @@
         \fill-line {
             \column {
                 \line { Quando dal Mare uscita }
-                \line { Con tre Tritoni amici in compagnia, }
-                \line { Facea dolce armonia }
-                \line { Cantando una Sirena, Alma e gradita }
-                \line { Fra l'erbe e le viole }
-                \line { Ove giacea dormendo il mio bel sole. }
+                \line { con tre Tritoni amici in compagnia }
+                \line { facea dolce armonia, }
+                \line { cantando una Sirena, alma e gradita, }
+                \line { fra l'erbe e le viole }
+                \line { ove giacea dormendo il mio bel sole. }
+            }
+            \column {
+                % translation date: 2023-05-07
+                \line { When emerging from the sea }
+                \line { With three friendly Tritons in company }
+                \line { making sweet harmony, }
+                \line { a Siren sang, profound and welcome: }
+                \line { amidst the grasses and the violets }
+                \line { where my own beautiful sun lay sleeping. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

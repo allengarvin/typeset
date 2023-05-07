@@ -93,7 +93,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { Poi che ti piace amor che la tua fiamma }
+                \line { Poiché ti piace amor che la tua fiamma }
                 \line { Di nuov'in me, da bella man sia sparta }
                 \line { Vogl'il duol che ho sofferto in canto e'n gioia; }
                 \line { Del tuo fuoco al mio ben sol'una dramma }

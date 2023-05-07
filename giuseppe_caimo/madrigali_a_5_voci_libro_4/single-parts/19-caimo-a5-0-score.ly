@@ -101,10 +101,6 @@
                 \line { Che d'altra nebbia il mondo anco sia tinto, }
                 \line { Di pioggia gelo e tenebroso orrore. }
             }
-            \column {
-       \line { \italic { If you're willing to provide a Creative-Commons } }
-       \line { \italic { licensed translation, email me. } }
-            }
         }
     }
 }

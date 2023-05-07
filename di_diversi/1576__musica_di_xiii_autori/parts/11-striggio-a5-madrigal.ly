@@ -1,4 +1,4 @@
-% Poi che ti piace amor che la tua fiamma
+% Poiché ti piace amor che la tua fiamma
 % Di nuov'in me, da bella man sia sparta
 % Vogl'il duol che ho sofferto in canto e'n gioia;
 % Del tuo fuoco al mio ben sol'una dramma
@@ -40,7 +40,7 @@ cantoXI = \relative c' {
 }
 
 cantoLyricsXI = \lyricmode {
-    Poi che ti pia -- ce~a -- mor che la tua fiam -- ma
+    Poi -- ché ti pia -- ce~a -- mor che la tua fiam -- ma
     Di nuo -- v'in me, da bel -- la man sia spar -- ta,
         da bel -- la man sia spar -- ta
     Vo -- gl'il duol ch'ho sof -- fer -- to in can -- t'e'n gio -- ia,
@@ -88,7 +88,7 @@ altoXI = \relative c' {
 }
 
 altoLyricsXI = \lyricmode {
-    Poi che ti pia -- ce~a -- mor che la tua fiam -- ma
+    Poi -- ché ti pia -- ce~a -- mor che la tua fiam -- ma
     Di nuo -- v'in me, da bel -- la man sia spar -- ta,
     Vo -- gl'il duol ch'ho sof -- fer -- to in can -- t'e'n gio -- ia,
         in can -- t'e'n gio -- ia;
@@ -148,7 +148,7 @@ tenoreXI = \relative c {
 }
 
 tenoreLyricsXI = \lyricmode {
-    Poi che ti pia -- ce~a -- mor __ che la tua fiam -- ma
+    Poi -- ché ti pia -- ce~a -- mor __ che la tua fiam -- ma
     Di nuo -- v'in me, da bel -- la man sia spar -- ta,
         da bel -- la man sia spar -- ta
     Vo -- gl'il duol __ ch'ho sof -- fer -- to in can -- t'e'n gio -- ia;
@@ -206,7 +206,7 @@ bassoXI = \relative c {
 }
 
 bassoLyricsXI = \lyricmode {
-    Poi che ti pia -- ce~a -- mor che la tua fiam -- ma
+    Poi -- ché ti pia -- ce~a -- mor che la tua fiam -- ma
     Di nuo -- v'in me, da bel -- la man sia spar -- ta,
     Vo -- gl'il duol ch'ho sof -- fer -- to in can -- t'e'n gio -- ia;
     Del tuo fuo -- c'al mio ben so -- l'u -- na dram -- ma
@@ -250,7 +250,7 @@ quintoXI = \relative c' {
 }
 
 quintoLyricsXI = \lyricmode {
-    Poi che ti pia -- ce~a -- mor che la tua fiam -- ma
+    Poi -- ché ti pia -- ce~a -- mor che la tua fiam -- ma
     Di nuo -- v'in me, da bel -- la man sia spar -- ta __
     Vo -- gl'il duol ch'ho sof -- fer -- to in can -- t'e'n gio -- ia,
         in can -- t'e'n gio -- ia;

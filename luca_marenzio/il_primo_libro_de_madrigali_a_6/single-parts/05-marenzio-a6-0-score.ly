@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Qual vive Salamandra in fiamma ardente"
     instrument = "Qual vive Salamandra (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
 

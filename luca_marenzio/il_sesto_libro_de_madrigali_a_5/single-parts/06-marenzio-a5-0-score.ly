@@ -101,8 +101,6 @@
                \line { Onde per gli occhi uscita, }
                \line { rientro per le labbra in lui la vita. }
             }
-            \column {
-            }
         }
     }
 }

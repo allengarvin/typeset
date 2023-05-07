@@ -22,7 +22,7 @@
     shorttitle = "stringeami_galatea"
     shortcomp = "marenzio"
     categories = "[madrigal]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

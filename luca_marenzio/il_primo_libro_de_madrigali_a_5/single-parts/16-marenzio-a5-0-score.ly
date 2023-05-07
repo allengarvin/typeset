@@ -90,13 +90,13 @@
         \fill-line {
             \column {
                 \line { Questa di verdi erbette }
-                \line { E di novelli fior tessuta or ora }
-                \line { Vaga e gentil ghirlanda }
-                \line { Giovin pastor ti manda }
-                \line { L’amata e bella Flora, }
-                \line { Che con le sue caprette }
-                \line { Sta in riva al Tebro soggiornando e dice, }
-                \line { Ch’ivi or t’aspetta e ti vo’ far felice. }
+                \line { e di novelli fior tessuta or ora }
+                \line { vaga e gentil ghirlanda }
+                \line { giovin pastor ti manda }
+                \line { l'amata e bella Flora, }
+                \line { che con le sue caprette }
+                \line { sta in riva al Tebro soggiornando e dice, }
+                \line { ch'ivi or t'aspetta e ti vo' far felice. }
             }
         }
     }

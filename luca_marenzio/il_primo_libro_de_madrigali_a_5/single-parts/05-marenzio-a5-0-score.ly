@@ -15,6 +15,7 @@
     needtranslation = #'t
     language = "italian"
     folio = "Jacopo Sannazaro (1458-1530)"
+    poeticform = "madrigal"
 
     % Unchanging:
     originallyset = "2014-12-10"

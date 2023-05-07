@@ -1,15 +1,17 @@
-%O caso novo e strano
-%Ch'a sì dolce morir spiegasse l'ale
-%Questo incauto animale,
-%Scorto dal chiaro lume di lontano
-%E dai vari concenti
-%Onde stavan le piagge e i monti intenti.
-%
-%O new and strange affair
-%that this rash creature should spread its wings
-%led from afar by the bright light 
-%and by the different harmonies
-%upon which the slopes and the hills are intent.
+% O caso novo e strano
+% ch'a sì dolce morir spiegasse l'ale
+% questo incauto animale,
+% scorto dal chiaro lume di lontano
+% e dai vari concenti
+% onde stavan le piagge e i monti intenti.
+
+% O fate, new and strange,
+% that to such a sweet death unfurl the wings
+% of this incautious creature,
+% guided by a clear light from afar
+% and by sundry harmonies
+% that have captivated the slopes and the mountains.
+
 
 cantoIXincipit = \relative c''' {
     \time 4/4

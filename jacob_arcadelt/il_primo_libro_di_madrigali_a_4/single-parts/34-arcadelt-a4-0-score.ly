@@ -94,10 +94,6 @@
                 \line { D’Angela sono insieme col bel nome.  }
                 \line { \hspace #12 Anonymous}
             }
-            \column {
-       \line { \italic { If you're willing to provide a Creative-Commons } }
-       \line { \italic { licensed translation, email me. } }
-            }
         }
     }
 }

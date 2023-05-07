@@ -13,7 +13,7 @@
     title = "O de la bella Etruria invitto Duce"
     subtitle = "Prima parte"
     instrument = "O de la bella Etruria (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
 

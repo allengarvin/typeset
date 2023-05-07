@@ -13,7 +13,7 @@
     title = "Sì potess' io morire"
     subtitle = "Quinta e ultima parte"
     instrument = "Sì potess' io morire: Quinta e ultima parte (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -21,7 +21,7 @@
     originally_set = "2019-11-09"
     flats = 1
     final = "f"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -98,11 +98,20 @@
         \fill-line {
             \column {
                 \line { Sì potess'io morire }
-                \line { Nei vivi rai del mio bel sol al canto }
-                \line { Come io mi struggo in pianto, }
-                \line { O dolce fin de l'aspro mio martire }
+                \line { nei vivi rai del mio bel sol al canto }
+                \line { come io mi struggo in pianto, }
+                \line { o dolce fin de l'aspro mio martire! }
                 \line { Poi che lieto n'andrei }
-                \line { A la morte cantando i dolor miei. }
+                \line { a la morte cantando i dolor miei. }
+            }
+            \column {
+                \line { If I could but die }
+                \line { in the living rays of my beautiful sun while singing, }
+                \line { even as I languish in tears, }
+                \line { Oh a sweet end to my bitter torment! }
+                \line { Then happily I would go }
+                \line { to death, singing my laments. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "donne_leggiadre"
     shortcomp = "conversi"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

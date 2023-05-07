@@ -15,6 +15,7 @@
     instrument = "Tirsi morir volea (score)"
     needtranslation = #'t
     language = "italian"
+    poeticform = "madrigal"
 
     % Unchanging:
     originallyset = "2013-09-25"
@@ -26,9 +27,9 @@
     tagline = #'f
 }
 
-\include "../parts/06-madrigal-a5.ly"
-\include "../parts/07-madrigal-a5.ly"
-\include "../parts/08-madrigal-a5.ly"
+\include "../parts/06-marenzio-a5-madrigal.ly"
+\include "../parts/07-marenzio-a5-madrigal.ly"
+\include "../parts/08-marenzio-a5-madrigal.ly"
     
 \book {
     \bookOutputName "06-marenzio---tirsi_morir_volea-"

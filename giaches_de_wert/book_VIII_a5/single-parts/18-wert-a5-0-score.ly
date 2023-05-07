@@ -93,12 +93,23 @@
             \column {
                 \line { Non sospirar, pastor, non lagrimare: }
                 \line { Queste lagrime amare }
-                \line { Che spargi da’ tuoi lumi, }
-                \line { Non spegneran scintilla dell’ardore, }
-                \line { Ove ognor ti consumi: }
+                \line { che spargi da' tuoi lumi }
+                \line { non spegneran scintilla dell’ardore, }
+                \line { ove ognor ti consumi: }
                 \line { Ché s’amor dalle fiamme del tuo core }
-                \line { Può trarre umor e venti, }
-                \line { Trarrà dal pianto ancor faville ardenti. }
+                \line { può trarre umor e venti, }
+                \line { trarrà dal pianto ancor faville ardenti. }
+            }
+            \column {
+                \line { Do not sigh, shepherd, do not weep: }
+                \line { these bitter tears }
+                \line { that you shed from your eyes }
+                \line { do not douse the blaze of passion, }
+                \line { wherein every moment you waste away: }
+                \line { For if love, from the flames of your heart, }
+                \line { can draw moisture and winds, }
+                \line { it will also draw burning sparks from your tears. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

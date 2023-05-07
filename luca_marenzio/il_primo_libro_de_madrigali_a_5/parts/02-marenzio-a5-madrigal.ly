@@ -1,12 +1,16 @@
-%Ohimè dov'è il mio ben, dov'è il mio core?
-%Chi m'asconde il mio ben, e chi me'l toglie?
-%Dunque ha potuto sol desio d'onore
-%darmi fera cagion di tante doglie?
-%Dunque han potuto in me, più che il mio amore,
-%ambitiose e troppo lievi voglie?
-%Ahi sciocco mondo e cieco! Ahi cruda sorte,
-%che ministro mi fai della mia morte! 
+
+% Ohimè dov'è il mio ben, dov'è il mio core?
+% Chi m'asconde il mio core, e chi me'l toglie?
+% Dunque ha potuto sol desio d'onore
+% darmi fera cagion di tante doglie?
+% Dunque han potuto in me, più che il mio amore,
+% ambitiose e troppo lievi voglie?
+% Ahi sciocco mondo e cieco! Ahi cruda sorte,
+% che ministro mi fai della mia morte! 
 % - Bernardo Tasso
+
+% Alas, where is my beloved, where is my heart?
+% Who hides hides my heart from me, and who takes it from me?
 
 cantoIIincipit = \relative c''' {
     \time 4/4

@@ -1,17 +1,17 @@
-%Dalle Cimerie grotte
-%L'ombre e i sogni e gli horror già tratti havea,
-%E in silentio rendea
-%L'aria, la terra, e l'atra umida notte,
-%E in tenebroso velo
-%Stavan taciti involti il mond'e'l Cielo.
-%
-%From the Cimmerian caves
-%night had already drawn the phantoms, the dreams, and the terrors,
-%and was making silent
-%the air, the earth, and the gloomy humidity, 
-%and the world and the heavens were wrapped in a tenebrous veil.
+% Dalle Cimerie grotte
+% l'ombre e i sogni e gli horror già tratti avea,
+% e in silentio rendea
+% l'aria, la terra, e l'atra umida notte,
+% e in tenebroso velo
+% stavan taciti involti il Mondo e'l Cielo.
 
 % havea: variant of haveva, 3rd person singular imperfect
+% From the Cimmerian caves,
+% shadows, dreams, and terrors were already withdrawn,
+% and in silence returned
+% the air, the earth, and the dark, damp night,
+% and in a tenebrous veil,
+% the world and the heavens were wrapped in silence.
 
 cantoVIincipit = \relative c'' {
     \time 4/4
@@ -44,7 +44,7 @@ cantoVI = \relative c'' {
 cantoLyricsVI = \lyricmode {
     Dal -- le Ci -- me -- rie grot -- te,
     dal -- le Ci -- me -- rie grot -- te
-    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~ha -- ve -- a, __
+    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~a -- ve -- a, __
     E~in si -- len -- tio ren -- de -- a
     L'a -- ria, la ter -- ra e l'a -- tra~u -- mi -- da not -- te,
     E~in te -- ne -- bro -- so ve -- lo,
@@ -85,8 +85,8 @@ altoVI = \relative c' {
 altoLyricsVI = \lyricmode {
     Dal -- le Ci -- me -- rie grot -- te,
     dal -- le Ci -- me -- rie grot -- te
-    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~ha -- ve -- a,
-        già trat -- ti~ha -- ve -- a,
+    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~a -- ve -- a,
+        già trat -- ti~a -- ve -- a,
     E~in si -- len -- tio ren -- de -- a
     L'a -- ria, la ter -- ra e l'a -- tra~u -- mi -- da not -- te,
         e l'a -- tra~u -- mi -- da not -- te,
@@ -131,8 +131,8 @@ tenoreVI = \relative c' {
 tenoreLyricsVI = \lyricmode {
     Dal -- le Ci -- me -- rie grot -- te,
     dal -- le Ci -- me -- rie grot -- te
-    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~ha -- ve -- a,
-        già trat -- ti~ha -- ve -- a,
+    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~a -- ve -- a,
+        già trat -- ti~a -- ve -- a,
     E~in si -- len -- tio ren -- de -- a,
     e~in si -- len -- tio ren -- de -- a
     L'a -- ria, la ter -- ra e l'a -- tra~u -- mi -- da not -- te,
@@ -174,7 +174,7 @@ bassoVI = \relative c' {
 
 bassoLyricsVI = \lyricmode {
     Dal -- le Ci -- me -- rie grot -- te,
-    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~ha -- ve -- a,
+    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~a -- ve -- a,
     E~in si -- len -- tio ren -- de -- a
     L'a -- ria, la ter -- ra e l'a -- tra~u -- mi -- da not -- te,
     E~in te -- ne -- bro -- so ve -- lo,
@@ -215,7 +215,7 @@ quintoVI = \relative c'' {
 
 quintoLyricsVI = \lyricmode {
     Dal -- le Ci -- me -- rie grot -- te,
-    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~ha -- ve -- a,
+    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~a -- ve -- a,
     E~in si -- len -- tio ren -- de -- a
     L'a -- ria, la ter -- ra e l'a -- tra~u -- mi -- da not -- te,
     E~in te -- ne -- bro -- so ve -- lo,
@@ -259,7 +259,7 @@ sestoVI = \relative c' {
 sestoLyricsVI = \lyricmode {
     Dal -- le Ci -- me -- rie grot -- te,
     dal -- le Ci -- me -- rie grot -- te
-    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~ha -- ve -- a,
+    L'om -- bre~e~i so -- gni~e gli~or -- ror già trat -- ti~a -- ve -- a,
     E~in si -- len -- tio ren -- de -- a
     e~in si -- len -- tio ren -- de -- a
     L'a -- ria, la ter -- ra e l'a -- tra~u -- mi -- da not -- te,

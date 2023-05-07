@@ -1,15 +1,17 @@
 %Sì potess'io morire
-%Nei vivi rai del mio bel sol al canto
-%Come io mi struggo in pianto,
-%O dolce fin de l'aspro mio martire
-%Poi che lieto n'andrei
-%A la morte cantando i dolor miei.
-%
-%If only I might die
-%in the living rays of my beautiful sun,
-%singing as I melt in tears,
-%oh what a sweet ending to my bitter torment
-%for I would gladly go to my death singing my sorrows.
+%nei vivi rai del mio bel sol al canto
+%come io mi struggo in pianto,
+%o dolce fin de l'aspro mio martire!
+%poi che lieto n'andrei
+%a la morte cantando i dolor miei.
+
+
+% If I could but die
+% in the living rays of my beautiful sun while singing,
+% even as I languish in tears,
+% Oh a sweet end to my bitter torment!
+% Then happily I would go
+% to death, singing of my sorrows.
 
 cantoXincipit = \relative c'' {
     \time 4/4
@@ -57,7 +59,7 @@ cantoLyricsX = \lyricmode {
     \normalLyrics
         del mio bel sol al can -- to, __
     Co -- m'io mi strug -- go~in pian -- to,
-    O dol -- ce fin de l'a -- spro mio mar -- ti -- re
+    O dol -- ce fin de l'a -- spro mio mar -- ti -- re!
     Poi che lie -- to n'an -- dre -- i,
     poi che lie -- to n'an -- dre -- i
     Al -- la mor -- te can -- tan -- do,
@@ -116,8 +118,8 @@ altoLyricsX = \lyricmode {
     nei vi -- vi rai del mio bel sol al can -- to,
     Co -- m'io mi strug -- go~in pian -- to,
     co -- m'io mi strug -- go~in pian -- to,
+    O dol -- ce fin de l'a -- spro mio mar -- ti -- re!
 
-    O dol -- ce fin de l'a -- spro mio mar -- ti -- re
     Poi che lie -- to n'an -- dre -- i,
         n'an -- dre -- i,
     poi che lie -- to n'an -- dre -- i
@@ -174,7 +176,7 @@ tenoreLyricsX = \lyricmode {
     nei vi -- vi rai del mio bel sol al can -- to,
     Co -- m'io mi strug -- go~in pian -- to,
     co -- m'io mi strug -- go~in pian -- to,
-    O dol -- ce fin de l'a -- spro mio mar -- ti -- re
+    O dol -- ce fin de l'a -- spro mio mar -- ti -- re!
     Poi che lie -- to n'an -- dre -- i,
         n'an -- dre -- i,
     poi che lie -- to n'an -- dre -- i
@@ -224,7 +226,7 @@ bassoLyricsX = \lyricmode {
         al can -- to,
     Co -- m'io mi strug -- go~in pian -- to,
     co -- m'io mi strug -- go~in pian -- to,
-%    O dol -- ce fin de l'a -- spro mio mar -- ti -- re
+%    O dol -- ce fin de l'a -- spro mio mar -- ti -- re!
 
     Poi che lie -- to n'an -- dre -- i,
     poi che lie -- to n'an -- dre -- i
@@ -334,7 +336,7 @@ sestoLyricsX = \lyricmode {
     Nei vi -- vi rai del mio bel sol al can -- to,
     Co -- m'io mi strug -- go~in pian -- to,
 %    O dol -- ce fin de l'a -- spro mio mar -- ti -- re
-        de l'a -- spro mio mar -- ti -- re
+        de l'a -- spro mio mar -- ti -- re!
     Poi che lie -- to n'an -- dre -- i,
     poi che lie -- to n'an -- dre -- i
     Al -- la mor -- te can -- tan -- do,

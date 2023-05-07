@@ -13,7 +13,7 @@
     title = "Vorria morire per uscir di guai"
     composer = "Hubert Waelrant (c.1517-1595)"
     instrument = "Vorria morire (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

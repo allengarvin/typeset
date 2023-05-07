@@ -13,7 +13,7 @@
     title = "Quando nascesti, Amor?"
     subtitle = ""
     instrument = "Quando nascesti, Amor?:  (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Panfilo Sasso (c.1455-1527)"
 

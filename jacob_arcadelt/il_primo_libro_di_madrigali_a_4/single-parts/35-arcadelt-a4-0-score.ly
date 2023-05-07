@@ -88,11 +88,6 @@
                 \line { s'io non amo et adoro i vostri rami?  }
                 \line { \hspace #12 Anonymous}
             }
-            \column {
-%May I die a wicked death
-%if I do not love and adore you
-%as much
-            }
         }
     }
 }

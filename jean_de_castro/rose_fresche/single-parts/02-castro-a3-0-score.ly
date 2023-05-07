@@ -13,7 +13,7 @@
     title = "Onde io per meglio udire"
     subtitle = "Seconda parte"
     instrument = "Onde io per meglio udire: Seconda parte (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

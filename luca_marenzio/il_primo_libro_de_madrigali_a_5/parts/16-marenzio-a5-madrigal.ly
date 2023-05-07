@@ -2,10 +2,10 @@
 % E di novelli fior tessuta or ora
 % Vaga e gentil ghirlanda
 % Giovin pastor ti manda
-% L’amata e bella Flora,
+% L'amata e bella Flora,
 % Che con le sue caprette
 % Sta in riva al Tebro soggiornando e dice,
-% Ch’ivi or t’aspetta e ti vo’ far felice.
+% Ch'ivi or t'aspetta e ti vo' far felice.
 
 cantoXVIincipit = \relative c'' {
     \time 4/4
@@ -46,16 +46,16 @@ cantoLyricsXVI = \lyricmode {
     Va -- ga~e gen -- til ghir -- lan -- da
     Gio -- vin pa -- stor ti man -- da,
     Gio -- vin pa -- stor ti man -- da
-    L’a -- ma -- ta~e bel -- la Flo -- ra,
+    L'a -- ma -- ta~e bel -- la Flo -- ra,
     Che con le sue ca -- pret -- te,
     Che con le sue ca -- pret -- te,
     Che con le sue ca -- pret -- te
     Sta~in ri -- va~al Te -- bro sog -- gior -- nan -- do~e __ di -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce.
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce,
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce.
 }
 
 
@@ -99,17 +99,17 @@ altoLyricsXVI = \lyricmode {
     Va -- ga~e gen -- til ghir -- lan -- da
     Gio -- vin pa -- stor ti man -- da,
     Gio -- vin pa -- stor ti man -- da
-    L’a -- ma -- ta~e bel -- la Flo -- ra,
+    L'a -- ma -- ta~e bel -- la Flo -- ra,
     Che con le sue ca -- pret -- te,
         le sue ca -- pret -- te,
         le sue ca -- pret -- te, 
     Che con le sue ca -- pret -- te
     Sta~in ri -- va~al __ Te -- bro sog -- gior -- nan -- do~e di -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce.
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce,
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce.
 }
 
 tenoreXVIincipit = \relative c' {
@@ -150,18 +150,18 @@ tenoreLyricsXVI = \lyricmode {
     Va -- ga~e gen -- til ghir -- lan -- da
     Gio -- vin pa -- stor ti man -- da,
     Gio -- vin pa -- stor ti man -- da
-    L’a -- ma -- ta~e bel -- la Flo -- ra,
+    L'a -- ma -- ta~e bel -- la Flo -- ra,
     Che con le sue ca -- pret -- te,
     \ijLyrics
     Che con le sue ca -- pret -- te,
     \normalLyrics
     Sta~in ri -- va~al Te -- bro,
         al Te -- bro sog -- gior -- nan -- do~e di -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce.
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce,
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce.
 }
 
 bassoXVIincipit = \relative c {
@@ -191,16 +191,16 @@ bassoXVI = \relative c {
 }
 
 bassoLyricsXVI = \lyricmode {
-    L’a -- ma -- ta~e bel -- la Flo -- ra,
+    L'a -- ma -- ta~e bel -- la Flo -- ra,
     Che con le sue ca -- pret -- te,
     Che con le sue ca -- pret -- te,
     \ijLyrics
     Che con le sue ca -- pret -- te
     \normalLyrics
     Sta~in ri -- va~al Te -- bro sog -- gior -- nan -- do~e di -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce.
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce.
 }
 
 quintoXVIincipit = \relative c'' {
@@ -250,17 +250,17 @@ quintoLyricsXVI = \lyricmode {
     Va -- ga~e gen -- til ghir -- lan -- da
     Gio -- vin pa -- stor ti man -- da,
     Gio -- vin pa -- stor ti man -- da
-    L’a -- ma -- ta~e bel -- la Flo -- ra, __
+    L'a -- ma -- ta~e bel -- la Flo -- ra, __
     Che con le sue ca -- pret -- te,
     Che con le sue ca -- pret -- te,
         le sue ca -- pret -- te
     Sta~in ri -- va~al Te -- bro,
         al Te -- bro sog -- gior -- nan -- do~e di -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce,
-    Ch’i -- vi~or t’a -- spet -- ta~e ti vo’ far fe -- li -- ce,
-        e ti vo’ far fe -- li -- ce.
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce,
+    Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
+        e ti vo' far fe -- li -- ce.
 }
 
 cantoXVIincipitVoice = <<

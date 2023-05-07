@@ -81,8 +81,6 @@
                 \line { Ché non mi sia il morire, }
                 \line { Si tosto fin del mio dolce languire. }
             }
-            \column {
-            }
         }
     }
 }

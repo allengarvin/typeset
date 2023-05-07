@@ -15,6 +15,7 @@
     needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
+    poeticform = "madrigal"
 
     % Unchanging:
     originallyset = "2014-12-07"

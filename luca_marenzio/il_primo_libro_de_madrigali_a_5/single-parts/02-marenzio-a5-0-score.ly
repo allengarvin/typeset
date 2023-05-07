@@ -15,6 +15,7 @@
     needtranslation = #'t
     language = "italian"
     folio = "Bernardo Tasso (1493-1569)"
+    poeticform = "ottava_rima"
 
     % Unchanging:
     originallyset = "2014-12-09"
@@ -91,7 +92,7 @@
             \column {
                 % Italian reviewed 2020-05-09
                 \line { Ohimè dov'è il mio ben, dov'è il mio core? } 
-                \line { Chi m'asconde il mio ben, e chi me'l toglie? } 
+                \line { Chi m'asconde il mio core, e chi me'l toglie? } 
                 \line { Dunque ha potuto sol desio d'onore } 
                 \line { darmi fera cagion di tante doglie? } 
                 \line { Dunque han potuto in me, più che il mio amore, } 

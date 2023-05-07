@@ -13,7 +13,7 @@
     title = "Da le Cimerie grotte"
     subtitle = "Prima parte"
     instrument = "Da le Cimerie grotte: Prima parte (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -21,7 +21,7 @@
     originally_set = "2019-11-10"
     flats = 1
     final = "f"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -98,11 +98,20 @@
         \fill-line {
             \column {
                 \line { Dalle Cimerie grotte }
-                \line { L'ombre e i sogni e gli horror già tratti havea, }
-                \line { E in silentio rendea }
-                \line { L'aria, la terra, e l'atra umida notte, }
-                \line { E in tenebroso velo }
-                \line { Stavan taciti involti il mond'e'l Cielo. }
+                \line { l'ombre e i sogni e gli horror già tratti avea, }
+                \line { e in silentio rendea }
+                \line { l'aria, la terra, e l'atra umida notte, }
+                \line { e in tenebroso velo }
+                \line { stavan taciti involti il Mondo e'l Cielo. }
+            }
+            \column {
+                \line { From the Cimmerian caverns, }
+                \line { shadows, dreams, and terrors were already withdrawn, }
+                \line { and into silence returned }
+                \line { the air, the earth, and the dark, damp night, }
+                \line { and in a tenebrous veil, }
+                \line { the world and the heavens were wrapped in silence. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
