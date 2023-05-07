@@ -115,8 +115,8 @@ def strip_quotes(s):
 def remove_escapes(s):
     new_sec = ""
 
-    s = re.sub('\\\\markup "[^"]*"', " ", s)
-    s = re.sub('\\\\markup {[^}]*}', " ", s)
+    s = re.sub('\^*\\\\markup "[^"]*"', " ", s)
+    s = re.sub('\^*\\\\markup {[^}]*}', " ", s)
     if "s1*0" in s:
         s = s.replace("s1*0", " ")
     if "s2*0" in s:
@@ -131,7 +131,7 @@ def remove_escapes(s):
             if s[i] == "[" or re.match(r"^[a-zA-Z]$", s[i]):
                 continue
             escape_bool = False
-        if s[i] == "|" or s[i] == "\n" or s[i] == "~" or s[i] == "/" or s[i] == "*" or s[i] == "(" or s[i] == ")" or s[i] == "[" or s[i] == "]" or s[i] == "." or s[i] == "!":
+        if s[i] == "|" or s[i] == "\n" or s[i] == "~" or s[i] == "/" or s[i] == "*" or s[i] == "(" or s[i] == ")" or s[i] == "[" or s[i] == "]" or s[i] == "." or s[i] == "!" or s[i] == "?":
             new_sec += " "
             continue
 
@@ -162,7 +162,9 @@ def remove_escapes(s):
 #        new_sec = t
     new_sec = re.sub(' _ ', " ", new_sec)
     new_sec = re.sub(' R ', " ", new_sec)
+    new_sec = re.sub(' volta ', " ", new_sec)
     new_sec = re.sub(' r ', " ", new_sec)
+    new_sec = re.sub(' #([^)]*) ', "", new_sec)
     new_sec = re.sub('\s+', " ", new_sec)
     return new_sec
             

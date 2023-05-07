@@ -191,7 +191,7 @@ def main(args):
         parts_file_str += generate_part(args, c, num)
         parts_trail += "{part}{roman}incipitVoice = <<\n".format(part=c, roman=int2roman(num))
         parts_trail += "    \\new MensuralVoice <<\n        { s1 \\noBreak }\n"
-        parts_trail += "        {part}{roman}incipit\n".format(part=c, roman=int2roman(num))
+        parts_trail += "        \\{part}{roman}incipit\n".format(part=c, roman=int2roman(num))
         parts_trail += "    >>\n>>\n\n"
         score_file_str += score_sec(args, c, num)
         
