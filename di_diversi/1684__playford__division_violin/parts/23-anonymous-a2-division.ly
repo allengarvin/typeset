@@ -1,7 +1,6 @@
 violinXXIII =  \relative c'' {
   \key f \major
   \time 6/4
-  \clef treble
 
   \partial 4 d4 	|
   \repeat volta 2 {

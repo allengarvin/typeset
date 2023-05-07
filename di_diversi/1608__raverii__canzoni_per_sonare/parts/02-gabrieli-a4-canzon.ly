@@ -193,7 +193,6 @@ bassoII = \relative c {
 }
 
 bassoGeneraleII = \relative c'' {
-    \clef treble
     \fourTwoCutTime
     \key c \major
 

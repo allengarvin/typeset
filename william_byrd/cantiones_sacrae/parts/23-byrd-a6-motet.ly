@@ -472,7 +472,6 @@ bassusXXIIIincipit = \relative c {
 % bassus: checked against source
 bassusXXIII = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key c \major
 
     R\breve*4 | R\breve*5 R\breve*3 |

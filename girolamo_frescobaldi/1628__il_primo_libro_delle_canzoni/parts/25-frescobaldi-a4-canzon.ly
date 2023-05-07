@@ -116,7 +116,6 @@ bassoTwoXXVincipit = \relative c {
 
 bassoTwoXXV = \relative c {
     \fourTwoCommonTime
-    \clef bass
     \key c \major
 
     g2 g4 a b c d2 | cs2 r4 d4 a g8[ f] e4 a | d,1 r1 | 

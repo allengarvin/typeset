@@ -9,7 +9,6 @@ cantoIincipit = \relative c'' {
 % checked against source
 cantoI = \relative c'' {
     \fourTwoCommonTime
-    % \clef soprano
     \key c \major
     
     r1 r2 d ~ | d4 d e2 d1 | r4 d8[ d] d2 b r4 d8[ d] | d1 b2 e |

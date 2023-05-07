@@ -45,7 +45,6 @@ altusXCVIIIincipit = \relative c' {
 
 altusXCVIII = \relative c' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     R\breve*4 | d\breve f d d d c f g f g a a a a |

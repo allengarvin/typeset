@@ -45,7 +45,6 @@ altoXXXIIIincipit = \relative c {
 
 % alto: checked carefully against source
 altoXXXIII = \relative c {
-  %  \clef tenor
     \fourTwoCutTime
     \key f \major
 
@@ -88,7 +87,6 @@ tenoreXXXIIIincipit = \relative c {
 
 % checked against source
 tenoreXXXIII = \relative c {
-  %  \clef tenor
     \fourTwoCutTime
     \key f \major
 
@@ -333,7 +331,6 @@ ottavoXXXIII = \relative c {
 }
 
 bassoGeneraleTrebleXXXIII = \relative c' {
-    \clef treble
     \fourTwoCutTime
     \key f \major
 
@@ -343,7 +340,6 @@ bassoGeneraleTrebleXXXIII = \relative c' {
 
 % BG: checked against source
 bassoGeneraleBassXXXIII = \relative c {
-    \clef bass
     \fourTwoCutTime
     \key f \major
 

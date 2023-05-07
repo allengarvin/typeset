@@ -15,7 +15,6 @@ cantusXXIX = \relative c'' {
         a g4 f e2. d4 | d2 e f g ~ | g4 d g2. f4 g2 | bf a d2. c4 |
         bf2 a1 bf2 ~ | bf4 g g1 \ficta fs2\unficta | g\breve | r1 d |
 
-    %\clef mezzosoprano
     \ficta ef1 ef! \unficta
     d\breve | c | bf1 a2 bf | \[ g1 f \] | bf2 c d1 | c2 bf a1 |
         g\breve | r1 bf' ~ | bf a | f2 g2. f4 e2 | d1. g2 ~ | 

@@ -28,7 +28,6 @@ cantusXXXIII = \relative c' {
         \invisibleTime\time 4/2 d\longa*1/2 \bar "||"
        
     % --- page ---
-    %\clef soprano 
     R\breve*2 | R\breve | a'1 b2 d ~ | d\ficta cs\unficta d1 | d1. c4 b | 
         a\breve | b1 c2. b4|
         g2 a2.\ficta bf4\unficta a g8[ f] | e2 a2. b4 c2 ~ | 

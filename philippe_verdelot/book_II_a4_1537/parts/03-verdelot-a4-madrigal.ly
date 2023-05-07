@@ -196,7 +196,6 @@ bassusIIIincipit = \relative c, {
 % bassus: checked against source
 bassusIII = \relative c, {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     f1 bf2 d | c c f, a | d2.( c4 bf2) a | g1 f | r2 f' bf, d | ef f c c | bf1

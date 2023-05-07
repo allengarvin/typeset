@@ -6,14 +6,14 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
     title = "Io non son però morto"
     folio = "Girolamo Romanino (c.1485-c.1566)"
     instrument = "Io non son però morto (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     final = "g"
     flats = 1
     language = "italian"
@@ -116,7 +116,7 @@
                \line { from a mortal prison, }
                \line { and transforms death and evil }
                \line { into life and goodness. }
-               \line { \hspace #10 \italics { translation by editor } } 
+               \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

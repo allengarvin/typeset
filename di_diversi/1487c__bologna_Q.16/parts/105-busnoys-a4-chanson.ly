@@ -10,7 +10,6 @@ cantusCVincipit = \relative c' {
 cantusCV = \relative c' {
     \key c \major 
     \fourTwoCutTime 
- %   \clef soprano
 
     f\breve ~ | f1 e | c\breve | r1 g' | a\breve ~ | a1 a | a\breve | g | 
         f\breve ~ | f1 d | d\breve | \[ e1 d \] | c f ~ | f2 e e d | f\breve |

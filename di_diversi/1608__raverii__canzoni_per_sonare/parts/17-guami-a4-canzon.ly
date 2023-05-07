@@ -164,7 +164,6 @@ bassoXVIIincipit = \relative c' {
 }
 
 bassoXVII = \relative c' {
-%    \clef varbaritone
     \fourTwoCutTime
     \key f \major
 

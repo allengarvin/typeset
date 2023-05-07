@@ -8,7 +8,6 @@ bassoXXIIincipit = \relative c' {
 
 % basso: checked back in the day
 bassoXXII = \relative c' {
-    \clef bass
     \key f \major
     \fourTwoCommonTime
 

@@ -10,7 +10,6 @@ cantusIIincipit = \relative c'' {
 
 cantusII = \relative c'' {
     \fourTwoCutTime
-    % \clef soprano
     \key c \major
 
     a\breve | g1. c2 ~ | c b c1 ~ | c2 b4 a b a g f | e1 r | b' c | b1. a2 |

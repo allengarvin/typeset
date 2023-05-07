@@ -8,7 +8,6 @@ cantusXincipit = \relative c'' {
 
 cantusX = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     R\breve | c | d1 d2 f ~ | f e4( d e2) e | f d c4( bf a g | f1) f | g2 c

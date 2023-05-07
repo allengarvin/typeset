@@ -217,7 +217,6 @@ bassusXVIincipit = \relative c {
 
 bassusXVI = \relative c {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     R\breve | a1 bf2 d ~ | d cs d1 | a2. c4 bf1 | a r1 | r1 r2 d ~ | 

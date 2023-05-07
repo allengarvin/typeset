@@ -249,7 +249,6 @@ bassoXIIIincipit = \relative c {
 
 bassoXIII = \relative c {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     r1 d2. e4 | f1 f2. g4 | a1 r1 | r2 d,2. e4 f2 | f2. d4 c2 bf |

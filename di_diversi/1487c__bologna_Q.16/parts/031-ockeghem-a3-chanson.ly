@@ -73,7 +73,6 @@ contraXXXIincipit = \relative c {
 % contra: checked against source
 contraXXXI = \relative c {
     \fourTwoCutTime
-    % \clef varbaritone
     \key c \major
 
     R\breve*2 | d1. e2 | \[ f1 g \] | a\breve | d,2. c4 b1 | \[ a1. d2 ~ |

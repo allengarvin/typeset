@@ -107,7 +107,6 @@ violinV =  \relative c'' {
 groundbassV =  \relative c {
   \key c \major
   \time 3/4
-  \clef bass
 
   \repeat volta 10 {
     d4 d2 | a4 a2 | 

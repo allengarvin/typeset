@@ -18,7 +18,6 @@ cantoXXVincipit = \relative c'' {
 % canto: checked against source
 cantoXXV = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key f \major
 
     a1 a2 a | bf1 a2 f | g a1 a2 | bf4.( a8 g2) a1 ~ | a2 r4 a a a d2 |

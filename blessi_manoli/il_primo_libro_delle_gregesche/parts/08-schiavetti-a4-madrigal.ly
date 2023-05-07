@@ -210,7 +210,6 @@ bassoVIIIincipit = \relative c {
 % basso: checked against source
 bassoVIII = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key f \major
 
     R\breve | r1 r2 f | d4 bf c d c2 f, | bf g4 c bf bf ef2 | bf d a d |

@@ -451,7 +451,6 @@ bassoSecondo = \relative c {
 
 % BC: checked against source
 bassoContinuo = \relative c''' {
-    \clef treble 
     \fourTwoCommonTime
     \key c \major
 

@@ -162,7 +162,6 @@ bassoVI = \relative c' {
 }
 
 bassoGeneraleVI = \relative c''' {
-    %\clef treble
     \fourTwoCutTime
     \key f \major
 

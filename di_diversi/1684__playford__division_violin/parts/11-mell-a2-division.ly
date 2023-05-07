@@ -1,7 +1,6 @@
 violinXI =  \relative c'' {
     \key g \major
     \time 2/2
-    \clef treble
     
     % variation 1:
     g4.^\markup { \box 1} a8 b4 a16[( g8.]) | c4 e, c' b8[( a)] | 

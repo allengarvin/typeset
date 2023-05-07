@@ -9,7 +9,6 @@ cantoXIXincipit = \relative c''' {
 % canto: checked against source
 cantoXIX = \relative c''' {
     \fourTwoCutTime
-    \clef treble
     \key c \major
 
     r1 g2 g8[ g g g ] | g4 g, e c e'2 e | r1 g2 g8[ g g g ] | 

@@ -197,7 +197,6 @@ bassoIIIincipit = \relative c' {
 
 bassoIII = \relative c' {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     R\breve*4 R\breve | g4 g g2. g4 g2 | f f4 d ef4. d8 ef4 f | bf,2 bf4 bf

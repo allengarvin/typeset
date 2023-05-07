@@ -229,7 +229,6 @@ bassusVIIincipit = \relative c {
 % bassus: checked against source
 bassusVII = \relative c {
     \fourTwoCommonTime
-    \clef bass
     \key c \major
 
     R\breve*2 | r1 c | d c2 g' | fs2. fs4 g1 | R\breve | d1 e | d2 g2. fs4 fs2|

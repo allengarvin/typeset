@@ -298,7 +298,6 @@ sestoXVIIincipit = \relative c'' {
 
 % sesto: checked against source
 sestoXVII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 

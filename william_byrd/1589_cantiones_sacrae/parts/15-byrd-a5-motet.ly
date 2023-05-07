@@ -17,7 +17,6 @@ superiusXVincipit = \relative c'' {
 % superius: checked against source
 superiusXV = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key c \major
 
     R\breve*4 | R\breve*2 | e1. f2 | e1 d2 cs | d1 cs2 cs ~ | cs4 d e2 f( e ~|

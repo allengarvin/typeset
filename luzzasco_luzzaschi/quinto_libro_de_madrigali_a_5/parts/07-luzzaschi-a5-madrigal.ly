@@ -210,7 +210,6 @@ bassoVIIincipit = \relative c' {
 
 % basso: checked against source
 bassoVII = \relative c' {
-    \clef bass
     \key c \major
     \fourTwoCommonTime
 

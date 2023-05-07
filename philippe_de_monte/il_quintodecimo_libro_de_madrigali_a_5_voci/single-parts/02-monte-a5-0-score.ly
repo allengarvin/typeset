@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "baciai_per_aver_vita"
     shortcomp = "monte"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     final = "a"
     flats = 0
     needtranslation = #'t
@@ -102,6 +102,7 @@
                 \line { Di sì soave bocca in un bel volto }
                 \line { baciando, il cor mi fu rapito e tolto. }
             }
+
         }
     }
 }

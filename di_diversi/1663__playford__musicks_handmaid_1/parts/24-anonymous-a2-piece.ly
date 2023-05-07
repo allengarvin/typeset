@@ -16,7 +16,6 @@ trebleXXIV =  \relative c'' {
 
 bassXXIV =  \relative c' {
     \singleTime \time 3/2
-    \clef bass
     \key d \major
 
     \repeat volta 2 { 

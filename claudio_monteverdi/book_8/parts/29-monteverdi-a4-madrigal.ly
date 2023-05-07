@@ -175,7 +175,6 @@ continuoXXIXincipit = \relative c' {
 
 continuoXXIX = \relative c' {
     \fourTwoCommonTime
-    \clef bass
     \key c \major
 
     r2 r4 c8[ c] c4 b a a8[ g] | f4 e g g, c2 r4 c | 

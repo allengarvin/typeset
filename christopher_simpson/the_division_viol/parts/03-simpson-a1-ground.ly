@@ -9,7 +9,6 @@ groundIIIincipit = \relative c' {
 }
 
 groundIII = \relative c' {
-    \clef bass
     \key bf \major
     \singleTime \time 3/2
 

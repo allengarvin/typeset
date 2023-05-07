@@ -175,7 +175,6 @@ bassoIIIincipit = \relative c' {
 
 bassoIII = \relative c' {
     \fourTwoCutTime
-    \clef bass
     \key f \major
 
     r1 g2 bf | \ficta ef,1\unficta f2. f4 | c d e2 bf f' | g bf f f | 

@@ -14,7 +14,6 @@ cantoXVIincipit = \relative c'' {
 
 % canto: checked against source
 cantoXVI = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCutTime
 
@@ -66,7 +65,6 @@ altoXVIincipit = \relative c' {
 
 % alto: checked against source
 altoXVI = \relative c' {
-    \clef treble
     \key f \major
     \fourTwoCutTime
 

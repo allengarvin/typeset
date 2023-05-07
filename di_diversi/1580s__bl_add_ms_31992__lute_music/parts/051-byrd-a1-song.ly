@@ -23,7 +23,6 @@ luteLIincipit = \relative c {
 
 luteLI = \relative c {
     \time 3/2
-    \clef treble_8
     \key bf \major
 
     <bf bf'\4 d\3>1 <ef bf' ef>2 | 

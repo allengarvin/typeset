@@ -121,7 +121,6 @@ bassoIincipit = \relative c {
 
 bassoI = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key f \major
 
     \repeat volta 2 {

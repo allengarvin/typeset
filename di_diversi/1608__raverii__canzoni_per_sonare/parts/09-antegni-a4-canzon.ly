@@ -8,7 +8,6 @@ cantoIXincipit = \relative c'' {
 }
 
 cantoIX = \relative c'' {
-%    \clef treble
     \fourTwoCommonTime
     \key f \major
 

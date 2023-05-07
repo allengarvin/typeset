@@ -192,7 +192,6 @@ bassoVIIincipit = \relative c {
 
 bassoVII = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key c \major
     
     e\breve | g2 g a1 | g2 e1 d2 | c b a1 | e' r1 | e e2 e | f1

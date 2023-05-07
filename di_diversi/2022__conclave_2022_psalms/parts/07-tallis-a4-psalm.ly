@@ -274,7 +274,6 @@ baseVIIincipit = \relative c {
 % base: checked against source
 baseVII = \relative c {
     \time 3/2
-    \clef bass
     \key c \major
 
     \repeat volta 3 {

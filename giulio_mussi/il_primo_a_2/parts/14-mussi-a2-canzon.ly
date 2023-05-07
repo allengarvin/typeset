@@ -113,7 +113,6 @@ continuoXIVincipit = \relative c' {
 continuoXIV = \relative c' {
     \fourTwoCommonTime
     \key f \major
-    \clef bass
 
     % s1*0^\markup "1"
     g2 g4 g c, ef d2 | g,1\p f'4 d a'2 | 

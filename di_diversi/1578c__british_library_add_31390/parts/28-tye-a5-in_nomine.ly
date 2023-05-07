@@ -126,7 +126,6 @@ bassusXXVIIIincipit = \relative c {
 
 bassusXXVIII = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key f \major
 
     R\breve*2 | r2 d8[ d d d] d8[ d d d] d4 \bracketify d4 |

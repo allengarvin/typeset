@@ -376,7 +376,6 @@ bassusXIVincipit = \relative c' {
 %        checked against modern transposed score at CPDL
 bassusXIV = \relative c' {
     \time 3/1
-    \clef bass
     \key c \major
 
     R\breve.*4 | R\breve.*5 | R\breve.*4 | g1 f2 d e e | d\breve r1 |

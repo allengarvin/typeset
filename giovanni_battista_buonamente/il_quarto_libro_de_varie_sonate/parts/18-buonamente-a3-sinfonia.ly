@@ -9,7 +9,6 @@ cantoOneXVIIIincipit = \relative c'' {
 % canto: checked against source
 cantoOneXVIII = \relative c'' {
     \time 4/4
-    \clef treble
     \key c \major
 
     \repeat volta 2 {

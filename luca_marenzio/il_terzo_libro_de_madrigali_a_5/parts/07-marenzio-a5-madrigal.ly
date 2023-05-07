@@ -224,7 +224,6 @@ quintoVIIincipit = \relative c'' {
 % quinto: checked against source
 quintoVII = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key c \major
 
     r1 r2 d | b4. c8 d2 g, g' | e4. f8 g2 c,1 | c2. bf4 a2 g | a4. a8 a4 a c1 |

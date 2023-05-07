@@ -107,8 +107,6 @@ tenorCIIIincipit = \relative c' {
 }
 
 tenorCIII = \relative c' {
-    % \clef tenor
-    \clef bass
     \key c \major
     \fourTwoCutTime
 

@@ -248,7 +248,6 @@ bassoXIIincipit = \relative c {
 
 % basso: checked against source
 bassoXII = \relative c {
-    \clef bass
     \key c \major
     \fourTwoCommonTime
 

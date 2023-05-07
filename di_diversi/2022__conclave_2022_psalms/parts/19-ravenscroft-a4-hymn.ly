@@ -168,7 +168,6 @@ bassusXIXincipit = \relative c {
 
 bassusXIX = \relative c {
     \time 3/2
-    \clef bass
     \key c \major
 
     \partial 2 c2 |

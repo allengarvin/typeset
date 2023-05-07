@@ -103,7 +103,6 @@ bassoXVincipit = \relative c' {
 
 bassoXV = \relative c' {
     \time 4/4
-    \clef bass
     \key c \major
 
     \repeat volta 2 {

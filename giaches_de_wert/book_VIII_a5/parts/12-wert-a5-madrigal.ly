@@ -260,7 +260,7 @@ quintoXII = \relative c' {
         f4 f f2 f d | d1 d | R\breve | r2 d e e4 e ~ | 
         e8 d d4. c8 c4 b c2( b4) |
 
-    c4 c c4. c8 bf4. bf8 a4. a8 | g4 f g2 g4 g g'g | e2 e c g' | 
+    c4 c c4. c8 bf4. bf8 a4. a8 | g4 f g2 g4 g g' g | e2 e c g' | 
         e2( d4 c d2 c4 b | c1) c | a a | r4 a d d b b 
 
     g2 ~ | g4 c2 b( a8[ g] a2 ~ | a) a b c | r2 d g, a | f g a1 |

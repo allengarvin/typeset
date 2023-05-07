@@ -109,7 +109,6 @@ bassoXIIincipit = \relative c' {
 
 bassoXII = \relative c' {
     \fourTwoCutTime
-    \clef bass
     \key f \major
 
     R\breve*2 | g2 g4 g f2 d | ef1 d | r2 bf'2. g4 bf2 |

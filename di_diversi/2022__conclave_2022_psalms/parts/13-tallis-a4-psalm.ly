@@ -256,7 +256,6 @@ baseXIIIincipit = \relative c' {
 % base: checked against source
 baseXIII = \relative c' {
     \fourTwoCommonTime
-    \clef bass
     \key c \major
 
     \partial 2 g2 

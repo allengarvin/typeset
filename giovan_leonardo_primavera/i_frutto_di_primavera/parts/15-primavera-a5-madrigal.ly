@@ -29,7 +29,6 @@ cantoXVincipit = \relative c'' {
 % canto: checked against source
 cantoXV = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     g1 bf ~ | bf2 c d ef | d( c1 b2) | c c d1 | ef

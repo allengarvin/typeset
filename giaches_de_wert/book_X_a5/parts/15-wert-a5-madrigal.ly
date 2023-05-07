@@ -173,7 +173,6 @@ bassoXVincipit = \relative c {
 
 % basso: checked against source
 bassoXV = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCutTime
 

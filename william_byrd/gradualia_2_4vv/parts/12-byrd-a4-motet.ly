@@ -200,7 +200,6 @@ bassusXIIincipit = \relative c {
 % bassus: checked against source
 bassusXII = \relative c {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     r2 d2. d4 fs2 | g bf a2.( g4 | fs2 g) d1 | R\breve | d1. d2 |

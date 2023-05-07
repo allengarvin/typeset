@@ -206,7 +206,6 @@ bassoXIXincipit = \relative c' {
 
 bassoXIX = \relative c' {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     R\breve*4 | r1 g2 bf | r2 r4 g bf bf, f'2 | f\breve | bf,4 bf8[ bf] 

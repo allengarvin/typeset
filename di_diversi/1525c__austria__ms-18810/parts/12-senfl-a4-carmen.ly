@@ -39,7 +39,6 @@ contraXII = \relative c' {
     g2. a4 b c d2 ~ | d4 e f d e d c b | c a d1\ficta c2 | f1. e4 d | 
         \unficta c2 a e'1 | r2 e d e |
 
-    %\clef tenor
     c2 d a2. b4 | c a b c d2 a ~ | a g a1 | r2 a f g | e2. f4 g1 ~ |
         g c | b r2 g | f e1 d2 | e e' d e | c e
 

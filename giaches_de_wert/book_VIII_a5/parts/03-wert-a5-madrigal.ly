@@ -12,6 +12,36 @@
 % Pria ch’il foco in lui si spenga.
 % ?? G.B. Nicolucci detto Il Pigna ??
 
+% from here: https://static1.squarespace.com/static/546ec7b4e4b0f50af9844a82/t/5f27fcbd9526e63b9bc1512f/1596456125385/Lyracle.Texts+%26+Translation.pdf
+% Just as fresh morning rays
+% shine on vermillion roses and white lilies
+% so too shines your hand
+% when it reaches toward sweet and cheerful eyes,
+% if the rose does not wither and dissolve
+% before the sun turns away.
+% But your hand is always more beautiful
+% than the amorous ways
+% of those beautiful eyes, where dwells my heart of dust.
+% Those eyes make my heart destroy and distemper itself.
+% in such a flame
+% that ashes come before the fire is extinguished.
+
+% Another:
+% file:///home/agarvin/Downloads/Tensho_Shonen_Shisetsu_The_Italian_Tour.pdf
+% As a vermilion rose shines in the cool
+% morning rays amidst white lilies, thus is
+% your hand, when it reaches towards
+% those sweet gay eyes;
+% but that rose withers and dissolves
+% when the sun rises,
+% and yet your hand has always more beauty,
+% tempered by the amorous fires
+% of those lovely eyes which reduce my
+% heart to dust,
+% since they cause it to melt constantly
+% in such a fire that it becomes ashes
+% before the fire in it is extinguished.
+
 cantoIIIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"

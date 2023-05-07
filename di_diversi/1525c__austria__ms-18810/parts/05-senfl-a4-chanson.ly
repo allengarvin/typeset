@@ -64,7 +64,6 @@ contraV = \relative c'' {
     a2. b4 c2 d | e2. d8[ c] b4 a c2 | e f d1 | c r2 c' ~ | c b \[ g1 |
         a \] g ~ | g g | a g2 e | d4 c b a b2 c ~ | c b 
     % --- page ---
-    %\clef mezzosoprano 
         a1 | g c2 d | e2. f4 g2 \[ a ~ | 
         a g1 \] \ficta fs2\unficta | g c, d1 | c\breve~c~c~c~c\longa*1/2
     \bar "|."

@@ -7,7 +7,6 @@ cantusXLIIincipit = \relative c'' {
 }
 
 cantusXLII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 

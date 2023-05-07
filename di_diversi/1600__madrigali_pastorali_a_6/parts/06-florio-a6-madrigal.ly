@@ -25,7 +25,6 @@ cantoVIincipit = \relative c''' {
 % canto: checked against source
 cantoVI = \relative c''' {
     \fourTwoCutTime
-    \clef treble
     \key c \major
 
     g2 f4 e4. e8 e4 d2 | R\breve | r2 r4 f e e d g,8[ g] | c4. c8 c4 b a2 a |
@@ -307,7 +306,6 @@ sestoVIincipit = \relative c'' {
 
 sestoVI = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key c \major
 
     e2 d4 b4. b8 g'4 g2 | r1 g,2 g4 a | b2 c r1 | R\breve | r1 r2 e2 | e4 c g'2

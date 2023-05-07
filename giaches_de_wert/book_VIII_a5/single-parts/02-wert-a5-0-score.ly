@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Rallegrati mio cor"
     instrument = "Rallegrati mio cor (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -95,8 +95,19 @@
                 \line { e al fin sei stato accolto }
                 \line { nel sen della tua Diva }
                 \line { ch'or d'ogni dubbio è priva, }
-                \line { chavea del nostro amore }
-                \line { onde vivrem beati a tutte l'ore. }
+                \line { ch'avea del nostro amore. }
+                \line { Onde vivrem beati a tutte l'ore. }
+            }
+            \column {
+                % translation: 2023-05-06
+                \line { Rejoice, my heart, that every pain }
+                \line { you have suffered for the lady is turned to joy, }
+                \line { and at last you have been welcomed }
+                \line { into the bosom of your Goddess }
+                \line { who now is free from every doubt }
+                \line { that she had of our love, }
+                \line { Thus we will live blessed forever. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

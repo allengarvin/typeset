@@ -15,7 +15,6 @@ cantoXincipit = \relative c'' {
 }
 
 cantoX = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 

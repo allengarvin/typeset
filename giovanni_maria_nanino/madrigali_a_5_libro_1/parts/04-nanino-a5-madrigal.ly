@@ -190,7 +190,6 @@ quintoIVincipit = \relative c'' {
 % quinto: checked against source
 quintoIV = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key c \major
 
     R\breve*3 | r2 d e4 f4. e8 d4 | d2 d r1 | r2 d e4 e e2 | e r4 c f f f2 |

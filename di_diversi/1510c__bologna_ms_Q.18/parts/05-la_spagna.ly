@@ -9,7 +9,6 @@ cantusVincipit = \relative c'' {
 % cantus: checked against source
 cantusV = \relative c'' {
     \fourTwoCutTime
-   % \clef soprano
     \key f \major
 
     \ficta

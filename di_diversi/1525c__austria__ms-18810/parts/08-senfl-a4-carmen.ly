@@ -15,7 +15,6 @@ discantusVIII = \relative c'' {
         e4 d d1 \ficta cs2\unficta | d1 r2 f | e d4 c b1 | 
         a2 a'1 \ficta gs2 \unficta | 
 
-%    \clef soprano
     a2 c1 b4 a | b2 \[ e,1 a2 ~ | a \] g4 f g1 | a1. g4 f | e\breve |
         r1 f | e1. d2 | c2. d4 e2 f ~ | f4 e e1 d2 | e g2. f4 e2 ~ |
         e4 d d1\ficta cs2\unficta | 
@@ -56,14 +55,12 @@ contraVIII = \relative c' {
     \[ e1 c \] | r2 c a b | c1 b2 c | a g a1 | f r2 f' | c2. d4 e d e2 |
         a, e'2. d4 c2 ~ | c c c b | 
 
-    %\clef tenor
     a2. g4 f2 e4 d | e1 d2 d' ~ | d c2. d4 e2 | a,1 r2 a | c2. d4 e1 | R\breve|
 
         a,1 b | c d | R\breve | g,1 a | b c | b r2 e ~ | e d e1 | 
 
 
     % --- page ---
-    %\clef alto
     r2 e2. f4 g2 ~ | g4 f e d c2. d4 | e\breve | e\longa*1/2
     \bar "|."
 }

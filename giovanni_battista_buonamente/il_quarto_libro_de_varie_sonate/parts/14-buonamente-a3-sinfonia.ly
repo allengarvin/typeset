@@ -79,7 +79,6 @@ bassoXIVincipit = \relative c {
 % basso: checked against source
 bassoXIV = \relative c {
     \time 4/4
-    \clef bass
     \key c \major
 
     \repeat volta 2 {

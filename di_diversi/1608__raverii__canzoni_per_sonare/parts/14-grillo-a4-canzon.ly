@@ -110,7 +110,6 @@ tenoreXIVincipit = \relative c' {
 
 % tenore: checked against source
 tenoreXIV = \relative c' {
-  %  \clef alto
     \fourTwoCommonTime
     \key c \major
 

@@ -18,7 +18,6 @@ cantusVIincipit = \relative c' {
 
 cantusVI = \relative c' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     f1 c' ~ | c2 c c1 | f,2.( e4 f g a2) | g g c1 ~ | c2 c c1 | r2 d f1 ~ |

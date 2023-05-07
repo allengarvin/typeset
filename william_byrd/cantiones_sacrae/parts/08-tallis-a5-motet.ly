@@ -171,7 +171,6 @@ bassusVIIIincipit = \relative c' {
 % bassus: checked against source
 bassusVIII = \relative c' {
     \time 6/2
-    \clef bass
     \key bf \major
 
     g2 c, ef d1. | d2 g, bf a1. | a'2 bf g a1 f2 | g d1 g,1 r2 |

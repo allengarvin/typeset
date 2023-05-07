@@ -7,6 +7,11 @@
 % Di sì soave bocca in un bel volto
 % baciando, il cor mi fu rapito e tolto.
 
+% I kissed to have live
+% for whereever there is beauty there is life, and I had death,
+% buth death so welcome,
+% that was a more blessed fate,
+% working onthis...
 cantoIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major

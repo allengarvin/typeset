@@ -255,7 +255,6 @@ bassoIincipit = \relative c' {
 
 % basso: checked against source
 bassoI = \relative c' {
-    \clef bass
     \key c \major
     \fourTwoCommonTime
 

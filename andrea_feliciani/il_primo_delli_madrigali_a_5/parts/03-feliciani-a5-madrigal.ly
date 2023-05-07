@@ -42,7 +42,6 @@ cantoIIIincipit = \relative c'' {
 }
 
 cantoIII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 

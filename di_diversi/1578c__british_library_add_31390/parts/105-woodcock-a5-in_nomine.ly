@@ -149,7 +149,6 @@ bassusCVincipit = \relative c {
 % right side of page
 % bassus: checked against source
 bassusCV = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCutTime
 

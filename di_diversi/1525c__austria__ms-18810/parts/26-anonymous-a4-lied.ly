@@ -108,7 +108,6 @@ bassavoxXXVI = \relative c' {
     d,2. c4 d1 | r2 e1 c2 ~ | c b c1 ~ | c r1 | e f2. g4 | a b c1 b2 |
         c f,1 e4 d | c1 r2 c | \[ d1 g \] | f2 e c e ~ | e d4 c b1 | a2. b4 
 
-    %\clef varbaritone 
     c2 d2 ~ | d4 e f2 g f | g\breve | d | r1 g | d' b | \[ a f | g\breve \] |
         d | r1 c | g' g | c,1. d2 | e1 a, | r1 c | d d | \[ c e ~ | 
         e2 \] f g1 |

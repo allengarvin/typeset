@@ -8,7 +8,6 @@ celloIincipit = \relative c' {
 
 celloI = \relative c' {
     \time 4/4
-    \clef bass
     \key f \major
 
     g4. g8 g[ g g g ] | bf[ g bf a16 g] a8[ f g a] | \clef tenor

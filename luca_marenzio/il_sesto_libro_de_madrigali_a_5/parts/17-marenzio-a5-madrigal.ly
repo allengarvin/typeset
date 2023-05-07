@@ -27,7 +27,6 @@ cantoXVIIincipit = \relative c'' {
 % canto: checked against source
 cantoXVII = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     R\breve*2 | e1 b4 b c2 | b1 r2 cs | cs d ef1 | d2 g1 f2 | e2. e4 e a2 e4 |

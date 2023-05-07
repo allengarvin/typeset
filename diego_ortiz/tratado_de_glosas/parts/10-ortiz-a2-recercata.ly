@@ -49,7 +49,6 @@ bassoXincipit = \relative c {
 % basso: checked against source (on previous piece)
 bassoX = \relative c {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     d1 a g bf a g bf c d f e d f g c, d c g' f g 

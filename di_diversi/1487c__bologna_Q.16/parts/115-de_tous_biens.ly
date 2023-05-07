@@ -46,7 +46,6 @@ tenorCXVincipit = \relative c' {
 % tenor: checked against source (compared with copenhagen)
 tenorCXV = \relative c' {
     \key f \major
-   % \clef tenor
     \fourTwoCutTime
     
     g\breve ~ | g | bf | a | g1 bf | bf c | d\breve | 

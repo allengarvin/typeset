@@ -1,3 +1,39 @@
+
+% Fra le dorate chiome
+% d’Amarilli gentil Amor tessea
+% lacci con che legar l’alme volea,
+% quando, ne dir so come,
+% stringerci si sentio
+% da’ crespi e bei capelli:
+% Onde sdegnoso a quelli
+% disse: O legame rio,
+% come dei tu legar agl’altri il core,
+% se leghi me, ch’io lego gl’altri Amore?
+% copyright-encumbered translation:
+
+% liner notes:
+% Out of kind Amarilli’s golden hair
+% Cupid wove a snare
+% with which he wanted to bind souls.
+% When, I’m not sure how,
+% while embracing, amongst her beautiful curls,
+% scornful waves that they are,
+% Cupid said:“Oh wicked bindings
+% who ensnare people’s hearts,
+% will you bind mine, I who ensnare other lovers?”
+
+% Mine:
+% From the golden locks
+% of gentle Amaryllis, Cupid was weaving
+% the trap with which he wished to bind souls,
+% when, I don't know how,
+% he felt himself entwined
+% by those curls and beautiful tresses:
+% thus, indignant at them,
+% said he: O wicked bonds,
+% how can you bind the hearts of others
+% if you bind me, the one who fetters others by Love?
+
 cantoVincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"
@@ -56,15 +92,15 @@ cantoLyricsV = \lyricmode {
     Da cres -- pi~e bei ca -- pel -- li
     On -- de sde -- gnos' a quel -- li Dis -- se 
     O le -- ga -- me ri -- o Co -- me
-    Dei tu le -- gar a gl'al -- tri~il co -- re
+    Dei tu le -- gar a gli~al -- tri~il co -- re
     O le -- ga -- me ri -- o Co -- me
-    Dei tu le -- gar a gl'al -- tri~il co -- re
-    Se le -- ghi me ch'io le -- go gl'al -- tri~a -- mo -- re
-    Se le -- ghi me ch'io le -- go gl'al -- tri~a -- mo -- re
+    Dei tu le -- gar a gli~al -- tri~il co -- re
+    Se le -- ghi me ch'io le -- go gli~al -- tri~a -- mo -- re
+    Se le -- ghi me ch'io le -- go gli~al -- tri~a -- mo -- re
     Se le -- ghi me 
     Se le -- ghi __ me 
     \ijLyrics Se le -- ghi me \normalLyrics
-    ch'io __ le -- go gl'al -- tri~a -- mo -- re.
+    ch'io __ le -- go gli~al -- tri~a -- mo -- re.
        
 }
 
@@ -127,12 +163,12 @@ altoLyricsV = \lyricmode {
     O le -- ga -- me ri -- o
     \ijLyrics O le -- ga -- me ri -- o \normalLyrics
     O le -- ga -- me ri -- o 
-    Co -- me dei tu le -- gar a gl'al -- tri~il co -- re,
-        a gl'al -- tri~il co -- re,
-    Se le -- ghi me ch'io le -- go gl'al -- tri~a -- mo -- re,
-    Se le -- ghi me ch'io le -- go gl'al -- tri~a -- mo -- re,
-    Se le -- ghi me ch'io le -- go gl'al -- tri~a -- mo -- re,
-    Se le -- ghi me __ ch'io le -- go gl'al -- tri~a -- mo -- re.
+    Co -- me dei tu le -- gar a gli~al -- tri~il co -- re,
+        a gli~al -- tri~il co -- re,
+    Se le -- ghi me ch'io le -- go gli~al -- tri~a -- mo -- re,
+    Se le -- ghi me ch'io le -- go gli~al -- tri~a -- mo -- re,
+    Se le -- ghi me ch'io le -- go gli~al -- tri~a -- mo -- re,
+    Se le -- ghi me __ ch'io le -- go gli~al -- tri~a -- mo -- re.
 }
 
 tenoreVincipit = \relative c' {
@@ -183,10 +219,10 @@ tenoreLyricsV = \lyricmode {
     Co -- me dei tu le -- gar 
     O le -- ga -- me ri -- o 
     \ijLyrics O le -- ga -- me ri -- o \normalLyrics
-    Co -- me dei tu le -- gar a gl'al -- tri~il co -- re
-    Se le -- ghi me ch'io le -- go gl'al -- tri~a -- mo -- re
-        ch'io le -- go gl'al -- tri~a -- mo -- re
-    Se le -- ghi me ch'io le -- go gl'al -- tri~a -- mo -- re.
+    Co -- me dei tu le -- gar a gli~al -- tri~il co -- re
+    Se le -- ghi me ch'io le -- go gli~al -- tri~a -- mo -- re
+        ch'io le -- go gli~al -- tri~a -- mo -- re
+    Se le -- ghi me ch'io le -- go gli~al -- tri~a -- mo -- re.
 }
 
 bassoVincipit = \relative c {
@@ -230,9 +266,9 @@ bassoLyricsV = \lyricmode {
     On -- de sde -- gnos' a quel -- li 
     Dis -- se O le -- ga -- me ri -- o 
     Co -- me dei tu le -- gar 
-    Co -- me dei tu le -- gar a gl'al -- tri~il co -- re
+    Co -- me dei tu le -- gar a gli~al -- tri~il co -- re
     Se le -- ghi me
-    \ijLyrics Se le -- ghi me \normalLyrics ch'io le -- go gl'al -- tri~a -- mo -- re.
+    \ijLyrics Se le -- ghi me \normalLyrics ch'io le -- go gli~al -- tri~a -- mo -- re.
 }
 
 
@@ -294,13 +330,13 @@ quintoLyricsV = \lyricmode {
     On -- de sde -- gnos' a quel -- li Dis -- se Dis -- se
     O le -- ga -- me ri -- o
     \ijLyrics O le -- ga -- me ri -- o \normalLyrics
-    Co -- me dei tu le -- gar a gl'al -- tri~il co -- re,
-    Co -- me dei tu le -- gar a gl'al -- tri~il __ co -- re,
-    Se le -- ghi me ch'io le -- go gl'al -- tri~a -- mo -- re,
+    Co -- me dei tu le -- gar a gli~al -- tri~il co -- re,
+    Co -- me dei tu le -- gar a gli~al -- tri~il __ co -- re,
+    Se le -- ghi me ch'io le -- go gli~al -- tri~a -- mo -- re,
     Se le -- ghi me
     \ijLyrics Se __ le -- ghi me \normalLyrics
     Se le -- ghi me
-    \ijLyrics Se le -- ghi me \normalLyrics ch'io le -- go gl'al -- tri~a -- mo -- re.
+    \ijLyrics Se le -- ghi me \normalLyrics ch'io le -- go gli~al -- tri~a -- mo -- re.
 }
 
 cantoVincipitVoice = <<

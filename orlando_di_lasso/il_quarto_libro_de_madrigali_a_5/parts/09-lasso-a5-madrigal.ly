@@ -137,7 +137,6 @@ bassoIXincipit = \relative c {
 % basso: checked against source
 bassoIX = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key c \major
 
     e\breve | a,1 d | c2 b c c | f4 g d2 g,1 | r2 c f4 e a2 | e1 r1 |

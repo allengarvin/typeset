@@ -32,7 +32,6 @@ cantoVIIincipit = \relative c'' {
 
 cantoVII = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key c \major
 
     g1 d'2. d4 | d2 d e1 | d r1 | R\breve R | r1 r2 g ~ | g f e g4 g |

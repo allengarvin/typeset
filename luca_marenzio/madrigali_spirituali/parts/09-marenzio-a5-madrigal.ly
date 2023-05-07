@@ -28,7 +28,6 @@ cantoIXincipit = \relative c'' {
 
 % canto: checked against source
 cantoIX = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 

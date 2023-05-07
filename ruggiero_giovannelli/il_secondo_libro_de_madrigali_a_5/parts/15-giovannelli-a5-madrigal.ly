@@ -15,7 +15,6 @@ cantoXVincipit = \relative c'' {
 
 cantoXV = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key f \major
 
     d1. d2 | d\breve | g1. f2 | e1 cs2 cs4 d | e2 e f f4 e | d2 c bf4 bf 

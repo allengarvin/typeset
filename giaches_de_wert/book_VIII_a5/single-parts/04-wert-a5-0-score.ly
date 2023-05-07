@@ -109,6 +109,7 @@
                 \line { And while they sang, it rumbled soft and low; }
                 \line { Thus were it hap or cunning, chance or art }
                 \line { The wind in this strange music bore its part.  }
+                \line { \hspace #12 Edward Fairfax translation (1600) }
             }
         }
     }

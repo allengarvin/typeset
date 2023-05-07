@@ -18,7 +18,6 @@ cantoXIIincipit = \relative c'' {
 
 cantoXII = \relative c'' {
     \fourTwoCommonTime
-    \clef treble
     \key c \major
 
     g1 gs | a bf | b! c | cs d | ds e | f fs | g gs | a gs | g! fs | f! e |

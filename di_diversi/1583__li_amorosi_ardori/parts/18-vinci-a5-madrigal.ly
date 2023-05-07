@@ -26,7 +26,6 @@ cantoXVIIIincipit = \relative c'' {
 
 % canto: checked against source
 cantoXVIII = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCutTime
 

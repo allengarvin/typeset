@@ -45,7 +45,6 @@ cantoTwoIIincipit = \relative c'' {
 
 cantoTwoII = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key c \major
 
     c2 c4 c b4. a8 g[ a b g] a4 c2 b4 c b a2 | g4 g' g g f4. e8 d[ e f d] | 

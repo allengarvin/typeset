@@ -157,7 +157,6 @@ bassoIIincipit = \relative c' {
 
 bassoII = \relative c' {
     \fourTwoCutTime
-    \clef bass
     \key c \major
 
     r1 a ~ | a2 g f1 | f2 e f1 ~ | f2 e d4. d8 d4 c | bf4. a8 g2 f f | f'1. e2 |

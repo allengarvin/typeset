@@ -290,7 +290,6 @@ baseVIIIincipit = \relative c {
 baseVIII = \relative c {
     \override Staff.TimeSignature.transparent = ##t
     \time 3/2
-    \clef bass
     \key c \major
 
     \repeat volta 3 {

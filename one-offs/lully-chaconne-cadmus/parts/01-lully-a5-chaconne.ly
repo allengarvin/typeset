@@ -1,7 +1,7 @@
 violinIincipit = \relative c''' { 
     \singleTime \time 3/4
     \key c \major
-    \clef french
+    \clef "petrucci-g1"
 
     g8*2
 }

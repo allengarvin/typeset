@@ -1,5 +1,5 @@
 cantoXXIincipit = \relative c'' {
-    \clef treble
+    \clef "petrucci-g2"
     \time 2/2
     \key f \major
 

@@ -43,7 +43,6 @@ altusIIIincipit = \relative c' {
 % altus: checked against source
 altusIII = \relative c' {
     \fourTwoCutTime
-%    \clef tenor
     \key c \major
 
     b1 g2 e' ~ | e d4 c b2 e ~ | e d e d4 c | 

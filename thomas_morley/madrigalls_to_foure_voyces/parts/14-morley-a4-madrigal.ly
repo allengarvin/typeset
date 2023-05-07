@@ -96,7 +96,6 @@ altusXIVincipit = \relative c'' {
 
 altusXIV = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key c \major
 
     r2 c e4. f8 g2 | c, r4 d e4. f8 g2 | d4 d f4.( e16[ d] 

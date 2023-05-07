@@ -12,7 +12,6 @@ cantusIVincipit = \relative c'' {
 
 % cantus: checked against source
 cantusIV = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCutTime
 

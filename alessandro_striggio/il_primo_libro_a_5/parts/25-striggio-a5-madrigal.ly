@@ -189,7 +189,6 @@ quintoXXVincipit = \relative c {
 
 quintoXXV = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key c \major
 
     R\breve*2 | e1. e2 | fs\breve | g2 c, c g' | g a a1 | g r2 e | 

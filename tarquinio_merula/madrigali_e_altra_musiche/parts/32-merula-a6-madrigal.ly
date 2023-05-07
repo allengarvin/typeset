@@ -306,7 +306,6 @@ continuoXXXIIincipit = \relative c {
 }
 
 continuoXXXII = \relative c {
-    \clef bass
     \key c \major
     \time 6/2
 

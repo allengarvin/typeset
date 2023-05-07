@@ -7,7 +7,6 @@ violinIIincipit =  \relative c'' {
 }
 
 violinII =  \relative c'' {
-  \clef treble
   \key f \major 
   \time 2/2 
 

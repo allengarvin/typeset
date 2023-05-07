@@ -311,7 +311,6 @@ sextaVoxXVincipit = \relative c' {
 
 sextaVoxXV = \relative c' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     s1*0_\markup { \italic { Resolution } } 

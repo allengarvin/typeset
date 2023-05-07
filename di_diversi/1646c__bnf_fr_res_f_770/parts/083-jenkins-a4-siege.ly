@@ -85,7 +85,6 @@ cantoTwoLXXXIIIincipit = \relative c' {
 }
 
 cantoTwoLXXXIII = \relative c' {
-    \clef treble
     \key d \major
     \time 2/2
 

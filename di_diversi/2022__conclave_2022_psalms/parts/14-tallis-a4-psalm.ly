@@ -265,7 +265,6 @@ baseXIVincipit = \relative c' {
 baseXIV = \relative c' {
     \override Staff.TimeSignature.transparent = ##t
     \fourTwoCommonTime
-    \clef bass
     \key c \major
 
     \repeat volta 3 { 

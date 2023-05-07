@@ -214,7 +214,6 @@ bassusLyricsXIX = \lyricmode {
 % discantus II: checked against source
 discantusTwoXIX = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     \ficta

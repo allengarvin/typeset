@@ -285,7 +285,6 @@ quintoIincipit = \relative c'' {
 
 % quinto: checked against source
 quintoI = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCommonTime
 

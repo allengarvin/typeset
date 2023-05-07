@@ -8,7 +8,6 @@ superiusXXXVIIincipit = \relative c'' {
 
 % superius: checked against source
 superiusXXXVII = \relative c'' {
-%    \clef soprano
     \key f \major
     \fourTwoCutTime
 

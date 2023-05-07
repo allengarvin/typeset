@@ -109,7 +109,6 @@ basseXIXincipit = \relative c {
 
 basseXIX = \relative c {
     \fourTwoCutTime
-    \clef bass
     \key c \major
 
     R\breve | e\breve ~ | e1 d | c r2 a | c1 g2 g' | a4. g8 f2 c4. d8 e4 f ~|

@@ -6,14 +6,14 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
     title = "Fra le dorate chiome"
     folio = "Anonymous"
     instrument = "Fra le dorate chiome (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -102,10 +102,21 @@
                 \line { come dei tu legar agl’altri il core, }
                 \line { se leghi me, ch’io lego gl’altri Amore? }
             }
+            \column {
+                % translation: 2023-05-06
+                \line { From the golden locks }
+                \line { of gentle Amaryllis, Cupid was weaving }
+                \line { the trap with which he wished to bind souls, }
+                \line { when, I don't know how, }
+                \line { he felt himself entwined }
+                \line { by those curls and beautiful tresses: }
+                \line { thus, indignant at them, }
+                \line { said he: O wicked bonds, }
+                \line { how can you bind the hearts of others }
+                \line { if you bind me, for I bind others by Love? }
+                \line { \hspace #10 \italic { translation by editor } }
+            }
         }
     }
-
-
-
 }
 

@@ -7,7 +7,6 @@ cantusIincipit = \relative c'' {
 }
 
 cantusI = \relative c'' {
-    % \clef soprano
     \key c \major
     \fourTwoCutTime
 

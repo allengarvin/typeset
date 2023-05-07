@@ -158,7 +158,6 @@ bassoXXincipit = \relative c' {
 % basso: checked against source
 bassoXX = \relative c' {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     R\breve*3 | r1 r2 g | a4 bf4. a8 g4 f2 bf,8([ c d e] | f2) r4 bf f4. e8 f4 g |

@@ -319,7 +319,6 @@ quintoVIincipit = \relative c'' {
 }
 
 quintoVI = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 

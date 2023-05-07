@@ -28,7 +28,6 @@ cantoXIincipit = \relative c'' {
 
 % canto: checked against source
 cantoXI = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCutTime
 

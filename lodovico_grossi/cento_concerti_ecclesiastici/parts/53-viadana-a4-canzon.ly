@@ -219,7 +219,6 @@ continuoLIIIincipit = \relative c {
 continuoLIII = \relative c {
     \fourTwoCommonTime
     \key f \major
-    \clef bass
 
     g2 a4 c bf2 ef | d c bf4 a g8[ a bf c] | d4 b c d g,2 g | 
         a4 c bf2 ef d |

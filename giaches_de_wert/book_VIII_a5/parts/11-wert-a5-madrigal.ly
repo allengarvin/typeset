@@ -11,6 +11,22 @@
 % Parmi che quel splendor mi fenda il viso
 % Ch'in vita mi mantien poi -- ché m'ha ucciso.
 
+% Morrell??
+%            \column {
+%                \line { There is not so thick a veil }
+%                \line { That if mountains were stacked on mountains, }
+%                \line { Nor so remote a sky }
+%                \line { The could conceal }
+%                \line { For neither seas nor streams }
+%                \line { Nor distant lands }
+%                \line { Will otherwise part them from me. }
+%                \line { I have affixed them with my own eyes }
+%                \line { So with every look that I make, }
+%                \line { It seems the splendor of her face returns to me }
+%                \line { That keeps me alive, for it has slain me. }
+%            }
+
+
 cantoXIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-g"

@@ -1,6 +1,5 @@
 violI = \relative c {
     \time 4/2
-    \clef bass
     \key g \major
 
     \repeat volta  2 {

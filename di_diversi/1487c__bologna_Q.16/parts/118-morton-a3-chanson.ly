@@ -9,7 +9,6 @@ cantusCXVIIIincipit = \relative c' {
 % Cantus: checked against source
 cantusCXVIII = \relative c' {
     \key f \major
-   % \clef alto
    \fourTwoCutTime
 
     f f | c2 d e1 | r2 c f2 g | a g1 f2 ~ | f e2 f d | c1 r2 c |
