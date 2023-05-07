@@ -11,7 +11,6 @@
 \header {
     % Things that change per piece:
     title = "O felici occhi miei"
-    folio = "Anonymous poet"
     instrument = "O felici occhi miei (score)"
     needtranslation = #'t
     language = "italian"
@@ -85,11 +84,21 @@
                 \line { perché sembianze avete }
                 \line { degli occhi che gli fu si dolci e rei. }
                 \line { Voi ben voi sete voi felici,  }
-                \line { Ed io io non che per quetar vostro desio }
-                \line { Corre a mirar l'onde mi struggo poi. }
-                \line { \hspace #12 Anonymous}
+                \line { ed io non che per quetar vostro desio }
+                \line { corre a mirar l'onde, mi struggo poi. }
             }
             \column {
+                % translation: 2023-05-06
+                % see notes. I am not entirely happy with this!
+
+                \line { O happy eyes of mine, happy you, }
+                \line { you who are dear to my sun }
+                \line { because you bear the resemblance }
+                \line { of those eyes that were to him so sweet, and so guilty, }
+                \line { You, dear, you are happy,  }
+                \line { and I am not, and to quench your desire, }
+                \line { I rush to gaze upon the waves, and to pine. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -7,6 +7,16 @@
 % ma perché sete a me crudel e ria,
 % ed a chi no'l vo dir cortese e pia.
 
+% My lady, if I offend you,
+% I beg your forgiveness, for dying silently
+% redoubles my suffering,
+% that which makes me die.
+% 
+% ??? il vo lasso pur dire? If it were io, It'd make sense. I double-checked 1539
+% It is not only your beauty that kills be,
+% but because you are to me cruel and wicked,
+% and to those .... ???
+
 cantusXIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c1"

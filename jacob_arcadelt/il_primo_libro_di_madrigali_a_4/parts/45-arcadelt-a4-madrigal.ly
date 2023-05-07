@@ -3,18 +3,17 @@
 % perche sembianze avete degli occhi 
 % Che gli fu si dolci e rei.
 % Voi ben voi sete voi felici, 
-% Ed io io non che per quetar vostro desio
+% Ed io non, che per quetar vostro desio
 % Corre a mirar l'onde mi struggo poi.
 
-% Internet translation:
-% Oh my happy eyes, happy you
-% That you can behold dearly my sun,
-% For [this is what] the face
-% To the eyes, to which it was so sweet and regal.
-% You are beautiful, glowing,
-% You are happy, and I,
-% And I am not, for to quieten my longing desire for you,
-% I look up at you whereby I then suffer).
+% O happy eyes of mine, happy you,
+% you who are dear to my sun
+% because you bear the resemblance
+% of those eyes that were to him so sweet, and so guilty,
+%                          % ^^^^ to her? gli is ambiguous
+% You, dear, you are happy, 
+% and I am not, and to quench your desire,
+% I rush to gaze upon the waves, and to pine.
 
 cantusXLVincipit = \relative c'' {
     \time 2/2

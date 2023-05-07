@@ -21,7 +21,7 @@
     % Unchanging:
     originallyset = "2015-05-30"
     lastupdated = "2015-05-30"
-    shorttitle = "o_felice_occhi_miei"
+    shorttitle = "o_felici_occhi_miei"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -29,7 +29,7 @@
 \include "../parts/45-arcadelt-a4-madrigal.ly"
     
 \book {
-    \bookOutputName "45-arcadelt--o_felice_occhi_miei"
+    \bookOutputName "45-arcadelt--o_felici_occhi_miei"
     \bookOutputSuffix "--2-altus--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -46,7 +46,7 @@
 #(set-global-staff-size 17.5)
 
 \book {
-    \bookOutputName "45-arcadelt--o_felice_occhi_miei"
+    \bookOutputName "45-arcadelt--o_felici_occhi_miei"
     \bookOutputSuffix "--2-altus--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
