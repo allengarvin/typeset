@@ -24,6 +24,7 @@
     shorttitle = "fra_le_dorate_chiome"
     poeticform = "madrigal"
     categories = "[madrigal]"
+    rhyme = "aBBacddcEE"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

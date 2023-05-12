@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     shorttitle = "misera_non_credea"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

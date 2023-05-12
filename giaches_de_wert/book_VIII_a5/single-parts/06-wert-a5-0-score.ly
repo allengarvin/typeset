@@ -24,6 +24,7 @@
     poeticform = "ottava rima"
     shorttitle = "usciva_homai"
     categories = "[madrigal]"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

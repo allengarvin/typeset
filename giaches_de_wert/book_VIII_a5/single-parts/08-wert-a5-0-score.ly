@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     shorttitle = "poscia_dicea_piangendo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

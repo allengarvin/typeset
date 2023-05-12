@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #1 }
     shorttitle = "dolci_sospiri_ardenti"
     shortcomp = "luzzaschi"
+    rhyme = "abCbdbEfDe"
     categories = "[madrigal]"
     needtranslation = #'t
 

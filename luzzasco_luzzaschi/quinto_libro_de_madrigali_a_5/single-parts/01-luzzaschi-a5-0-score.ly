@@ -20,7 +20,7 @@
     shorttitle = "aura_che_errando_intorno"
     shortcomp = "luzzaschi"
     categories = "[madrigal]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Ridolfo Arlotti (1546-1613)"
     final = "a"
     flats = 0
@@ -100,6 +100,16 @@
                 \line { Dilli che quasi un Cigno a l'ultime ore, }
                 \line { misera piango e moro, }
                 \line { e piangendo e morendo anco' l'adoro. }
+            }
+            \column {
+                \line { O breeze, who wandering around }
+                \line { goes from frond to frond, from flower to flower, }
+                \line { carry swiftly to my cruel Idol }
+                \line { my sad compaints: }
+                \line { Tell him that, like a Swan in her last hours, }
+                \line { miserable I weep and I die, }
+                \line { and yet, weeping and dying, still I adore him. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

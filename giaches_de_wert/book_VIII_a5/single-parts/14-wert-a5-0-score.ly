@@ -23,6 +23,7 @@
     flats = 0
     final = "e"
     shorttitle = "se_m_odii"
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

@@ -23,7 +23,7 @@
     final = "a"
     flats = 0
     composer = "Annibale Stabile (c.1535-1595)"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Ottaviano Salvi (d.1553)"
 
     % Unchanging:

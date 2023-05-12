@@ -24,6 +24,7 @@
     flats = 1
     final = "g"
     poeticform = "madrigal"
+    rhyme = "abcddcefe"
     shorttitle = "io_non_son_pero_morto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

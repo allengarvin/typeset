@@ -1,3 +1,15 @@
+% Donna se voi m'odiate,
+% a che sì dolce poi baci mi date,
+% forse a ciò l'alma per estrema gioia,
+% di dolcezza ne moia.
+% 
+% Se per questo lo fate,
+% baciate pur baciate,
+% che contento mi fia,
+% finir baciando voi la vita mia.
+% 
+% moia: muoia, tuscan
+% fia: sia
 cantoXXIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"
@@ -41,7 +53,7 @@ cantoLyricsXXI = \lyricmode {
     Don -- na se voi m'o -- dia -- te,
     A che sì dol -- ce poi ba -- ci mi da -- te,
         se voi m'o -- dia -- te,
-    a che sì dol -- ce poi ba -- ci mi da -- te,
+    a che sì dol -- ce poi ba -- ci mi da -- te?
     For -- se~ac -- ciò l'al -- ma,
     \ijLyrics
     for -- se~ac -- ciò l'al -- ma
@@ -117,7 +129,7 @@ altoLyricsXXI = \lyricmode {
     Don -- na se voi m'o -- dia -- te,
     A che sì dol -- ce poi __ ba -- ci mi da -- te,
     a che sì dol -- ce poi ba -- ci mi da -- te,
-        ba -- ci mi da -- te,
+        ba -- ci mi da -- te?
     For -- se~ac -- ciò l'al -- ma per e -- stre -- ma gio -- ia,
         per e -- stre -- ma gio -- ia,
     Di dol -- cez -- za ne mo -- ia,
@@ -187,7 +199,7 @@ tenoreXXI = \relative c' {
 
 tenoreLyricsXXI = \lyricmode {
     Don -- na se voi m'o -- dia -- te,
-    A che sì dol -- ce poi __ ba -- ci mi da -- te,
+    A che sì dol -- ce poi __ ba -- ci mi da -- te?
     For -- se~ac -- ciò l'al -- ma,
     for -- se~ac -- ciò l'al -- ma per e -- stre -- ma,
         per e -- stre -- ma gio -- ia,
@@ -258,7 +270,7 @@ bassoXXI = \relative c {
 
 bassoLyricsXXI = \lyricmode {
     Don -- na se voi m'o -- dia -- te,
-    A che sì dol -- ce poi __ ba -- ci __ mi da -- te,
+    A che sì dol -- ce poi __ ba -- ci __ mi da -- te?
     For -- se~ac -- ciò l'al -- ma,
     for -- se~ac -- ciò l'al -- ma per e -- stre -- ma gio -- ia,
     Di dol -- cez -- za ne mo -- ia,

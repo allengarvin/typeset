@@ -24,6 +24,7 @@
     final = "e"
     shorttitle = "sia_questa"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

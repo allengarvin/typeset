@@ -23,6 +23,7 @@
     final = "d"
     poeticform = "eclogue"
     shorttitle = "non_sospirar_pastor"
+    rhyme = "AabCbCdD"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

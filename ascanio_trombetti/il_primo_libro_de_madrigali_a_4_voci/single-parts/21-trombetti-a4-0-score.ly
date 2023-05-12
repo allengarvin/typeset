@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #1 }
     shorttitle = "donna_se_voi_modiate"
     shortcomp = "trombetti"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Cesare Rinaldi (1559-1636)"
 
     % Unchanging:
@@ -25,7 +25,7 @@
     originallyset = "2020-09-27"
     flats = 1
     final = "d"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -86,14 +86,26 @@
         \fill-line {
             \column {
                 \line { Donna se voi m'odiate, }
-                \line { A che sì dolce poi baci mi date, }
+                \line { A che sì dolce poi baci mi date? }
                 \line { Forse a ciò l'alma per estrema gioia, }
                 \line { Di dolcezza ne moia. }
                 \line { \vspace #0.5 }
                 \line { Se per questo lo fate, }
                 \line { Baciate pur baciate, }
-                \line { Che contento mi fia, }
+                \line { Che contento mi fia }
                 \line { Finir baciando voi la vita mia. }
+            }
+            \column {
+                \line { Lady, if you hate me }
+                \line { then why give me such sweet kisses? }
+                \line { Maybe so that my soul, in extreme joy, }
+                \line { would die of the sweetness of them. }
+                \line { \vspace #0.5 }
+                \line { If for this you do it: }
+                \line { kiss then kiss again, }
+                \line { for I would be content }
+                \line { to end my life, kissing you. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

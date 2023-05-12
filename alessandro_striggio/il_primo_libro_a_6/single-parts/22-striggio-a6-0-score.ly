@@ -15,6 +15,7 @@
     needtranslation = #'t
     language = "italian"
     folio = "Anonymous poet"
+    poeticform = "ottava_rima"
 
 
     % Unchanging:
@@ -104,12 +105,12 @@
             \vspace #4
                 \line { Fortuna alata il pié calva la testa, }
                 \line { e con un crin davanti si dipinge, }
-                \line { E un vecchio zoppo che con quei si resta, }
-                \line { Ch'ella si lasci a dietro anco si finge, }
-                \line { Per mostrar ch'è fugace e che, se presta }
-                \line { La man quand' uom l'incontra il crin non stringe, }
-                \line { Ella sen va leggiera più che'l vento, }
-                \line { E'l zoppo vi riman che'l pentimento. }
+                \line { e un vecchio zoppo che con quei si resta, }
+                \line { ch'ella si lasci a dietro anco si finge, }
+                \line { per mostrar ch'è fugace e che, se presta }
+                \line { la man quand' uom l'incontra il crin non stringe, }
+                \line { ella sen va leggiera più che'l vento, }
+                \line { e'l zoppo vi riman che'l pentimento. }
             }
         }
     }

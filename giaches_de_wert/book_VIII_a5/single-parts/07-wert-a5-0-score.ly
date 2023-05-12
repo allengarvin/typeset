@@ -24,6 +24,7 @@
     final = "d"
     poeticform = "ottava rima"
     shorttitle = "sovente_allor"
+    rhyme = "ABABABCC"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

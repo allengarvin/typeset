@@ -19,8 +19,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "queste_felice_erbette"
     shortcomp = "gabrieli"
-    categories = "[]"
-    needtranslation = #'t
+    categories = "[madrigal]"
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

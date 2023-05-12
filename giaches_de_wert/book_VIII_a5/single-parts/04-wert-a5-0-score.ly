@@ -22,6 +22,7 @@
     flats = 1
     final = "f"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     shorttitle = "vezzosi_augelli"
     categories = "[madrigal,animal]"
     \include "include/distribution-header.ly"

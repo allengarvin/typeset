@@ -363,43 +363,82 @@
         \fill-line {
             \column {
                 \line { Dalle Cimerie grotte }
-                \line { L'ombre e i sogni e gli horror già tratti havea, }
-                \line { E in silentio rendea }
-                \line { L'aria, la terra, e l'atra umida notte, }
-                \line { E in tenebroso velo }
-                \line { Stavan taciti involti il mond'e'l Cielo. }
+                \line { l'ombre e i sogni e gli horror già tratti havea, }
+                \line { e in silentio rendea }
+                \line { l'aria, la terra, e l'atra umida notte, }
+                \line { e in tenebroso velo }
+                \line { stavan taciti involti il mond'e'l Cielo. }
                 \vspace #2
                 \line { Quando dal Mare uscita }
-                \line { Con tre Tritoni amici in compagnia, }
-                \line { Facea dolce armonia }
-                \line { Cantando una Sirena, Alma e gradita }
-                \line { Fra l'erbe e le viole }
-                \line { Ove giacea dormendo il mio bel sole. }
+                \line { con tre Tritoni amici in compagnia, }
+                \line { facea dolce armonia }
+                \line { cantando una Sirena, Alma e gradita }
+                \line { fra l'erbe e le viole }
+                \line { ove giacea dormendo il mio bel sole. }
                 \vspace #2
 
                 \line { Giravan quelle foglie }
-                \line { U si lodovan le belezze e'l nome }
-                \line { I begli occhi e le chiome }
-                \line { Di quella ch'è cagion delle mie doglie, }
-                \line { Intorno ad una face }
-                \line { Che spense una farfalla invid'audace. }
+                \line { u si lodavan le belezze e'l nome }
+                \line { i begli occhi e le chiome }
+                \line { di quella ch'è cagion delle mie doglie, }
+                \line { intorno ad una face }
+                \line { che spense una farfalla invid'audace. }
                 \vspace #2
  
                 \line { O caso novo e strano }
-                \line { Ch'a sì dolce morir spiegasse l'ale }
-                \line { Questo incauto animale, }
-                \line { Scorto dal chiaro lume di lontano }
-                \line { E dai vari concenti }
-                \line { Onde stavan le piagge e i monti intenti. }
+                \line { ch'a sì dolce morir spiegasse l'ale }
+                \line { questo incauto animale, }
+                \line { scorto dal chiaro lume di lontano }
+                \line { e dai vari concenti }
+                \line { onde stavan le piagge e i monti intenti. }
                 \vspace #2
 
                 \line { Sì potess'io morire }
-                \line { Nei vivi rai del mio bel sol al canto }
-                \line { Come io mi struggo in pianto, }
-                \line { O dolce fin de l'aspro mio martire }
+                \line { nei vivi rai del mio bel sol al canto }
+                \line { come io mi struggo in pianto, }
+                \line { o dolce fin de l'aspro mio martire! }
                 \line { Poi che lieto n'andrei }
-                \line { A la morte cantando i dolor miei. }
+                \line { a la morte cantando i dolor miei. }
+            }
+            \column {
+                \line { From the Cimmerian caverns, }
+                \line { shadows, dreams, and terrors were already withdrawn, }
+                \line { and into silence returned }
+                \line { the air, the earth, and the dark, damp night, }
+                \line { and in a tenebrous veil, }
+                \line { the world and the heavens were wrapped in silence. }
+                \vspace #2
+                \line { When emerging from the sea }
+                \line { With three friendly Tritons in company }
+                \line { making sweet harmony, }
+                \line { a Siren sang, profound and welcome: }
+                \line { amidst the grasses and the violets }
+                \line { where my own beautiful sun lay sleeping. }
+                \vspace #2
 
+                \line { The leaves were swirling, }
+                \line { where being praised were the beauty and the name, }
+                \line { the lovely eyes and the tresses }
+                \line { of she who is the cause of my pains, }
+                \line { like around a flame }
+                \line { that burnt a moth too bold and envious. }
+                \vspace #2
+
+                \line { O fate, new and strange, }
+                \line { that to such a sweet death unfurl the wings }
+                \line { of this incautious creature, }
+                \line { guided by a clear light from afar }
+                \line { and by sundry harmonies }
+                \line { that have captivated the slopes and the mountains. }
+                \vspace #2
+
+                \line { If I could but die }
+                \line { in the living rays of my beautiful sun while singing, }
+                \line { even as I languish in tears, }
+                \line { Oh a sweet end to my bitter torment! }
+                \line { Then happily I would go }
+                \line { to death, singing my laments. } 
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

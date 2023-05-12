@@ -22,7 +22,7 @@
     shorttitle = "tirsi_morir_volea"
     shortcomp = "pallavicino"
     categories = "[madrigal]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

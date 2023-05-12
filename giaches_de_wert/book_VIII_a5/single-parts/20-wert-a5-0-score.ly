@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     poeticform = "madrigal"
+    rhyme = "aBbAcDdeEcFGFG"
     shorttitle = "vener_chun_giorno_avea"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

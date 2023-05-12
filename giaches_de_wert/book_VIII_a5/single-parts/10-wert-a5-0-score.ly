@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     shorttitle = "ma_che_squallido"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

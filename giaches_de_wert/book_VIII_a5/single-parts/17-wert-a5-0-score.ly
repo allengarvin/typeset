@@ -23,6 +23,7 @@
     final = "e"
     shorttitle = "forsennata_gridava"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

@@ -21,7 +21,7 @@
     shortcomp = "marenzio"
     folio = \markup { Petrarca, \italic{Canzoniere} CCXXXVII (237) }
     categories = "[]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

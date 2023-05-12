@@ -18,6 +18,7 @@
     shortcomp = "luzzaschi"
     needtranslation = #'t
     folio = "Orsina Cavaletta (d.1592)"
+    rhyme = "abAccddEE"
 
     % Unchanging:
     language = "italian"
