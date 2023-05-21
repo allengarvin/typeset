@@ -1,0 +1,22 @@
+= Scaldava il sol di mezzo giorno l'arco
+
+== Poet: Luigi Alamanni (1495-1556) Favola di Narciso (1532)
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il terzo libro de madrigali à 5 voci  (Angelo Gardano press, Venice, 1582)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Scaldava il sol di mezzo giorno l’arco|The midday sun warmed the arch
+|Nel dorso del Leon suo albergo caro,|of Leo's back in his cherished lair;
+|Sotto ’l boschetto più di frondi carco|In the grove beneath the thick boughs
+|Dormia ’l pastor con le sue greggi a paro;|sleeps the shepherd with his flocks yoked nearby;
+|Giaceva il villanel de l’opra scarco.|The peasant lies, exhausted at work,
+|Vie più di posa che di spighe avaro;|much more preferring rest than mean stalks of corn.
+|Gli augei, le fere, ogni uom s’asconde e tace,|The birds, the wild beasts, every man hides himself and quietens,
+|Sol la Cicala non si sente in pace.|and only the Cicada does not feel at peace.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

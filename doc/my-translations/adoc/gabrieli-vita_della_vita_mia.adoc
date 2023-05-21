@@ -1,0 +1,20 @@
+= Vita della vita mia
+
+== Poet: Anonymous
+
+=== Composer: Andrea Gabrieli (c.1532-1585)
+
+==== Source:  Il terzo libro de madrigali à 5 voci  (Gardano press, Venice, 1589)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Vita della mia vita,|Life of my life,
+|Avete pur gran torto|You are very wrong
+|A non mi dar aita,|to not give me aid,
+|Poi che son quasi morto;|as I'm almost dead;
+|Se pur volete al fin, Donna, che io mora,|If you really wish at last, Lady, that I die,
+|Lasciate l'alma mia, che in voi dimora.|Free my soul, that in you dwells.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

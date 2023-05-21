@@ -1,0 +1,20 @@
+= Liquide perle, Amor, dagli occhi sparse
+
+== Poet: Anonymous poet
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il primo libro de madrigali a 5 voci  (Gardano press, Venice, 1580)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Liquide perle, Amor dagli occhi sparse,|Liquid pearls from Love's eyes scattered
+|in premio del mio ardore,|in reward for my ardor,
+|ma, lasso, ohime! che’l core|but, alas! my heart
+|di maggior foco m'arse;|burns from a fiercer flame;
+|Ahi, che bastava solo|Ah, it alone suffices,
+|a darmi morte il primo ardente duolo.|that first ardent pain, to bring me death.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

@@ -1,0 +1,24 @@
+= Ecco più che mai bella e vaga l'aura
+
+== Poet: Anonymous
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il terzo libro de madrigali à 5 voci  (Angelo Gardano press, Venice, 1582)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Ecco più che mai bella e vaga l'aura:|Here is the breeze, more lovely and fair than ever;
+|pastor le vostre Ninfe risvegliate,|Shepherd, awaken your Nymphs
+|che'l giorno già s'inaura;|as the morning already drapes itself in gold;
+|Ecco ch'ella di fronde e d'erbe e fiori|Here she gives you a variety of colors
+|vi da vari colori;|in the fronds, the grassses, and flowers;
+|Tessete ghirlandette e'l crin ornate|Weave garlands and adorn the hair of
+|d'amate pastorelle,|of the beloved shepherdesses,
+|gitene insieme in queste parti e'n quelle.|and go together with them, here and there.
+|ecco l'aura cantate, ecco la scorta|Feel the breeze, sing! for here it is the escort
+|d'un bel seren ch'ogni piacer n'apporta.|of a beautiful clear day that brings every pleasure.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

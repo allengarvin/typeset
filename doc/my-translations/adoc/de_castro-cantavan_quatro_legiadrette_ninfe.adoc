@@ -1,0 +1,20 @@
+= Cantavan quatro legiadrette Ninfe
+
+== Poet: Anonymous
+
+=== Composer: Jean de Castro (c.1540-c.1600)
+
+==== Source:  Rose fresche  (Ricciardo Amadino press, Venice, 1591)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Cantavan quattro legiadrette Ninfe,|Four graceful nymphs were singing
+|in sì soavi accenti|in such sweet tones
+|ch'acquetarono il mar fermar i venti,|so as to calm the seas, to still the winds;
+|quando appresso le belle|When near the beautiful ones
+|Damon s'assise, e raddoppiò i concenti,|Damon seated himself, and redoubled their harmony
+|spargend'il suon in queste parti e'n quelle.|spreading the sound far and wide.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

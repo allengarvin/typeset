@@ -1,0 +1,21 @@
+= Non giacinti o narcisi
+
+== Poet: Girolamo Casoni (c.1528-1592)
+
+=== Composer: Claudio Monteverdi (1567-1643)
+
+==== Source:  Il secondo libro de madrigali à 5  (Raverii press, Venice, 1590; 1607 ed. used)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Non giacinti o narcisi|Neither hyacinths or daffodills,
+|ma piccioletti fior siamo, che Amore|but mere pretty little flowers are we, which Love,
+|manda a voi, di beltà candido fiore.|that innocent flower of beauty, sends to you.
+|O se il sol de’ vostri occhi|Or if the sun of your eyes
+|pur un poco ne tocchi,|touches us but a little
+|saran vil alghe poi|then they both would be base seaweeds,
+|e narcisi e giacinti a fronte a noi!|daffodils and hyacynths, in contrast to us!
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

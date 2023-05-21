@@ -1,0 +1,23 @@
+= Il bianco e dolce cigno
+
+== Poet: Anonymous
+
+=== Composer: Jacques Arcadelt (c.1507-1568)
+
+==== Source:  Il primo libro di madrigali d'Arcadelt à 4 voci  (Venice, 1539)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Il bianco e dolce cigno cantando more,|The white and sweet swan dies singing,
+|ed io piangendo giungo al fin del viver mio.|and I, weeping, reach the end of my life.
+|Strana e diversa sorte,|Strange and different fate,
+|che ei more sconsolato|that he dies disconsolate
+|ed io moro beato.|and I die blessed,
+|Morte che nel morire|Death that in dying
+|m'empie di gioia tutto e di desire.|fills me with total joy and desire.
+|Se nel morir, altro dolor non sento,|If in dying, no other pain were I to feel,
+|di mille morte il dì sarei contento.|I would be happy with a thousand deaths a day.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

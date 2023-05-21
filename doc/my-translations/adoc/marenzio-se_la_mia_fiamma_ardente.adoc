@@ -1,0 +1,21 @@
+= Se la mia fiamma ardente
+
+== Poet: Anonymous
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il terzo libro de madrigali à 5 voci  (Angelo Gardano press, Venice, 1582)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Se la mia fiamma ardente|If my ardent flame
+|Fosse il maggior tormento|were my worst torment,
+|Che per voi vita mia nel petto sento,|the one that I feel in my breast for you,
+|Io morirei beato,|I would die blessed,
+|Ardendo in questo stato;|burning in this condition;
+|Ma il vostro gelo è la maggior mia pena|But your frigidness is my worst pain
+|Ch'a dolorosa morte ogni or mi mena.|that constantly leads me to a sorrowful death.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

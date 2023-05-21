@@ -1,0 +1,28 @@
+= Fuggi, fuggi, cor mio
+
+== Poet: Anonymous
+
+=== Composer: Philippe Verdelot (c.1485-c.1530)
+
+==== Source:  Il primo libro di madrigali  (Scotto press, Venice, 1537)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Fuggi, fuggi, cor mio!|Flee, flee, my heart!
+|L'ingrato e crud'Amore!|Ungrateful and cruel Love!
+|Che troppo è grande errore,|As it is too great an error
+|Farsi un cieco fanciul sì alto iddio.|for a blind youth to make himself so great a god.
+||
+|Conosci il tempo perso|Know and understand the wasted time
+|Per una finta se colma d'inganni!|for a fiction so heaped with deceits!
+|Esci di servitù, esci d'affanni!|Leave this servitude, leave these worries!
+|Non istar più, sommerso|Stay no more, drowning
+|in gelosia, sospetti, sdegn'e pianti!|in jealosy, suspicions, resentments, and tears!
+|Ché'l fin de ciechi amanti|Because the fate of blind lovers
+|È in van pentirsi e finir in dolore,|is in vain to repent, and to end in grief,
+|Per esser troppo errore|for it is too much an error
+|Farsi un cieco fanciul sì alto iddio.|for a blind youth to make himself so great a god.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

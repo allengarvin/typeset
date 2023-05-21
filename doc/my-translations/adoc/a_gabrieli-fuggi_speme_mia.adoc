@@ -1,0 +1,21 @@
+= Fuggi, speme mia, fuggi
+
+== Poet: Anonymous poet
+
+=== Composer: Andrea Gabrieli (c.1532-1585)
+
+==== Source:  Il secondo libro de madrigali à 5 voci  (Gardano press, Venice, 1572)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Fuggi, speme mia, fuggi|Flee, my hope, flee,
+|E fuggi per non far mai più ritorno;|and flee to never return;
+|Sola tu, che distruggi|You alone, who destroy
+|Ogni mia pace, a far vienne soggiorno,|all my peace; let come
+|Invidia, Gelosia, Pensiero e Scorno|Envy, Jealousy, Worry and Scorn
+|Meco nel cieco inferno|to me, in the blind hell where
+|Ove l'aspro martir mio viva eterno.|where my cruel agony would last eternally.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

@@ -1,0 +1,20 @@
+= Madonna poi ch'uccider mi volete
+
+== Poet: Anonymous madrigal
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il terzo libro de madrigali à 5 voci  (Angelo Gardano press, Venice, 1582)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Madonna poi che uccider mi volete|Lady, since you want to kill me
+|non nego di morire,|I cannot deny dying;
+|ma se con dolci sguardi voi potete|But if with sweet glances you can
+|la mia vita finire,|end my life,
+|non è più giusta voglia|is it not a more just desire
+|ch'io muoia di dolcezza che di doglia?|that I die of sweetness than of pain?
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

@@ -1,0 +1,22 @@
+= Satiati Amor
+
+== Poet: Anonymous poet
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il secondo libro de madrigali à 6 voci  (Venice, 1584)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Satiati Amor, ch'a più doglioso amante|Be satisfied, Love, that did you ever yet use a heart [worse]
+|Di me non impiagasti il cor ancora,|than that of me, the most sorrorful lover,
+|Ridi Fortuna, ché fra tante e tante|Laugh, Fortune, because alone among many
+|Alme infelici la mia più t'onora;|unhappy souls, mine honors you most;
+|Godete donna sola oggi fra tante,|Rejoice, Lady, today alone among many
+|Che'l mondo di beltà vanta et adora|of beauty that the world claims and adores,
+|Che'n più di mille carte scritto sia|that more than a thousand pages would be written
+|Vostra durezza con la voglia mia.|of your harsh cruelty with my desires.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

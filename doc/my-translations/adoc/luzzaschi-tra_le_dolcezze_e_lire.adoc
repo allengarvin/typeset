@@ -1,0 +1,25 @@
+= Tra le dolcezze e l'ire
+
+== Poet: Anonymous
+
+=== Composer: Luzzasco Luzzaschi (1545-1607)
+
+==== Source:  Il quarto libro de madrigali à 5 voci  (Vittorio Baldini press, Ferrara, 1594)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Tra le dolcezze e l'ire|Amongst the sweetness and the anger,
+|e la gioia e'l martire,|the joy and the suffering,
+|la giovinetta Clori|the youthful Clori
+|arde nel ghiaccio, agghiaccia negli ardori,|burns into ice and freezes in fire:
+|sente pena e diletto|she feel pain and delight
+|del caro Aminta suo presa d'Amore;|for her dear Aminta, seized by Love;
+|Langue, dolce sospira, e vive e more|She languishes, sighs sweetly, and lives and dies,
+|e mentre il duol della sua piaga il petto|and while the pain of her mortal wound fills her breast
+|l'ingombra e versa il vivo sangue fuore,|and spills out her living blood,
+|ahimè, non sa qual sia|alas, she does not which would be
+|maggior, la gioia o l'aspra pena ria.|better, the joy or the bitter pain.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

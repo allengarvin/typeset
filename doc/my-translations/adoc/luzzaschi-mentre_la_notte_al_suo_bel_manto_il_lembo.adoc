@@ -1,0 +1,23 @@
+= Mentre la notte al suo bel manto il lembo
+
+== Poet: Orsina Cavaletta (d.1592)
+
+=== Composer: Luzzasco Luzzaschi (1545-1607)
+
+==== Source:  Il quarto libro de madrigali à 5 voci  (Vittorio Baldini press, Ferrara, 1594)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Mentre la notte al suo bel manto il lembo|While the night adorned the hem of its beautiful cloak
+|ingemmava di stelle,|with stars,
+|un pastorel dicea|a shepherd spoke,
+|di lagrime versando un largo nembo:|pouring out a storm of tears:
+|Sante chiara del Ciel vive facelle,|Blessed, shining lights of the living heavens,
+|voi siete assai men belle|you are much less beautiful
+|degli occhi di colei|than the eyes of she
+|che qui sol bella parve a gli occhi miei.|who alone appeared beautiful before my own eyes.
+||\hspace #10 \italic { Translation by editor }
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

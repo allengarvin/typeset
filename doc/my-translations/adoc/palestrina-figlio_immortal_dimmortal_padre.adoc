@@ -1,0 +1,22 @@
+= Figlio immortal d'immortal padre
+
+== Poet: Antonio Migliori,  Priego alla beata vergine Maria (1593) 
+
+=== Composer: Giovanni Pierluigi da Palestrina (c.1525-1594)
+
+==== Source:  Delli madrigali spirituali a 5 voci, libro secondo  (Coattino press, Rome, 1594)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Figlio immortal d'immortal padre e figlio|Immortal son of immortal father and mortal son
+|Mortal di mortal madre e Dio superno,|of mortal mother and God most high,
+|E uom, che morto per divin consiglio|and man, dead by divine guidance,
+|Della morte trionfi e dell'inferno,|who would triumph over death and hell,
+|Volgi pietoso a me, vogli quel ciglio|turn mercifully to me, turn thy gaze,
+|Ond'ha 'l mondo ad ognor, legge e governo:|by which the world, always, is ruled and governed:
+|Mentre de' falli miei che tanti sono|while of my errors, which are great,
+|Chieggo per la tua Madre a te perdono.|I ask of you, through thy mother, forgiveness.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

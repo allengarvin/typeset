@@ -1,0 +1,22 @@
+= Clorinda hai vinto
+
+== Poet: Anonymous madrigal
+
+=== Composer: Orazio Vecchi (1550-1605)
+
+==== Source:  Madrigali à 5 voci, libro primo  (Angelo Gardano press, Venice, 1589)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Clorinda hai vinto|Clorinda you have won
+|Or prendi l'armi,|Now you take up arms,
+|Crudel che poi più farmi|What more cruel thing can you do to me
+|S'io mor nel tuo bel seno?|If I die on your lovely breast?
+|Ma se qualche pietà merita il vinto,|But if the vanquished warrants some mercy
+|Non far vendetta almeno|At least do not take revenge
+|D'huom che ferito giace|On the man who wounded lies,
+|Né più gridar guerra, ma pace.|Cry no longer war, but peace.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

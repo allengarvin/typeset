@@ -1,0 +1,31 @@
+= Chi la gagliarda
+
+== Poet: Anonymous
+
+=== Composer: Baldassare Donato (c.1530-1603)
+
+==== Source:  Il primo libro di canzon villanesche alla Napolitana  (Venice, 1551)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|1. Chi la \auto-footnote "gagliarda" \italic "'gagliarda' could be the dance that's the direct object of 'imparare' or an adjective modifying 'donna': robust, vigorous." donna vo' imparare,|1. Who wants to learn the Galliard, lady,
+|Venite a nui che siamo mastri fini,|come to us as we are experienced masters.
+|Che di sera e da mattini|From the night till the morning
+|mai manchiamo di sonare:|we never lack for playing:
+|Tan tan tan tarira, rira, rira.|Tan tan tan tarira, rira, rira.
+||
+|2.  Provance un poco cance vuoi chiamare,|2.  Try a little dance, you'll want to cry out
+|A passa diece volte che salimo,|At ten steps we jump.
+|Che di sera ...|From the night ...
+||
+|3. Se la gagliarda donna vuoi imparare,|3. If the Galliard you wish to learn
+|Sotto lo mastro el te bisogna stare,|under the master you have to stay.
+|Che di sera ...|From the night ...
+||
+|4. A chi è principiante li vo dare,|4. To whom is the beginner we'll give to them
+|Questo compagno ch'ha nome Martini,|this partner who has the name Martini.
+|Che di sera ...|From the night ...
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

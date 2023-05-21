@@ -1,0 +1,20 @@
+= O gradite o sprezzate
+
+== Poet: Anonymous
+
+=== Composer: Pomponio Nenna (1556-1608)
+
+==== Source:  Il quarto libro de madrigali à 5 voci  (Bartholomeo Magni press, Venice, 1617)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|O gradite o sprezzate|Either love me or break
+|il mio cor, la mia fede;|my heart, my faith.
+|O mi togliete o date|Either let me go or grant me
+|O tormento o mercede.|either torment or mercy
+|Non sia ch'a noi non viva o mora il core,|My heart shall neither live nor die for us,
+|vostro in gioia non sia, vostro in dolore.|yours will neither rejoice or suffer.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

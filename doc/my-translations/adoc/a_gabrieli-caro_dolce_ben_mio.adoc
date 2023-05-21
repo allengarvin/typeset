@@ -1,0 +1,22 @@
+= Caro dolce ben mio
+
+== Poet: Anonymous madrigal
+
+=== Composer: Andrea Gabrieli (c.1532-1585)
+
+==== Source:  Musica di XIII autori illustri à 5 voci  (Gardano press, Venice, 1576)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Caro dolce ben mio, perché fuggire,|My sweet dear love, why flee
+|Chi v'ama, et per amar languisce e more?|he who loves you, and for love languishes and dies?
+|Se vi piace il mio pianto e'l mio martire,|If my weeping and my suffering please you,
+|Eccovi il petto, e ne cavate il core;|here is my chest, and from it you may rip out my heart;
+|Ché quando io deggia per dolor morire,|Because when I must, from grief, die,
+|E far del viver mio più brevi l'ore,|and make shorter the hours of my life,
+|L'alma lieta da me farà partita|my contented soul will depart from me
+|Se di man vostra lasciarò la vita.|if by your hand I will lose my life.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

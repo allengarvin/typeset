@@ -1,0 +1,20 @@
+= Sapete amanti perché ignudo sia
+
+== Poet: Valerio Marcellini,  Delle Rime di Diversi Nobili Poeti Toscani  (1565)
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il quarto libro de madrigali à cinque voci  (Vincenzi e Amadino press, Venice, 1584)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Sapete amanti perché ignudo sia,|Lovers: Do you know why Cupid would be nude,
+|perché fanciullo, e perché cieco Amore?|why he is a youth and why he is blind?
+|perché mentre l'angelica armonia|Because while he raptly listened to the
+|della mia bella Donna intento udia,|angelic harmony of my lovely lady,
+|per gran dolcezza uscito di se fuore:|from its very sweetness he went mad:
+|perdé la veste, il senno, gli occhi e'l core.|He lost his garb, his wits, his eyes and his heart.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

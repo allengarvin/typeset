@@ -1,0 +1,57 @@
+= Canzon del Cucco e Rossignuolo
+
+== Poet: Anonymous
+
+=== Composer: Giovanni Croce (1557-1609)
+
+==== Source:  Triaca Musicale  (Vincenti, 1596)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|\italic { Prima parte: }|\italic { Prima parte: }
+|S'udian sovente gareggiar nel canto|Often one hears competing in song
+|un Cucco e un Rossignuolo:|a Cuckoo and a Nightingale:
+|mentre l'un l'altro solo|while each other alone
+|credea sovre ogni augello averne il vanto.|believes above every bird to hold the advantage.
+|Quando nel più fervor de tal contese|When in fervor of such arguments
+|un Pappagallo audace,|a valiant Parrot,
+|persuadendo la pace,|keeping the peace,
+|a farne egli tra lor giudizio prese.|decides to make judgement between them.
+||
+|\italic { Seconda parte: }|\italic { Seconda parte: }
+|Disse il Cucco: O buon Giudice, non sai|Spoke the Cuckoo: O good judge, don't you know
+|che chi non brama il Cù,|that whoever does not esteem the Cu,
+|chi non l'onora è un \auto-footnote "Cù!" \italic "abbr.: un culo"|that whoever does not honor him is an ass!
+|che dà nova al Villan d'uscir di guai.|that gives news to the lout to leave his troubles.
+|Or senti il canto mio|Now listen to my song
+|come egli è grave:|for it is serious:
+|Cocù Cocù Cocù Cocù Cocù.|Cuckoo. Cuckoo cuckoo cuckoo cuckoo.
+|Certo nel mondo tutto un tal non have.|Certainly in all the world such can't be had.
+||
+|\italic { Terza parte: }|\italic { Terza parte: }
+|Rispose il Rossignuol: Dunque|The nightingale responds: Then you cluck,
+|tu cri, tu cri, tu cri, tu cri, tu cri.|you cluck, you cluck, you cluck.
+|nella armonia di pareggiarti a me?|In harmony you think yourself equal to me?
+|Soave è il canto mio|Sweet is my song,
+|leggiadro e bello;|graceful and beautiful.
+|Pazzo che sei, si si, fre chi|You're nuts, yes yes,
+|fre ferio chi|how beastly.
+|E ognun' lo pregia più d'ogni altro Augello.|And everyone esteems it more than every other bird?
+||
+|\italic { Quarta e ultima parte: }|\italic { Quarta e ultima parte: }
+|Grave il Giudice allor,|Gravely the judge then
+|convien ch'impari:|agrees that they are unequal:
+|Rossignuolo mio dolce,|My sweet nightingale,
+|tu certo canti dolce,|you certainly sing sweetly,
+|ma non vagliono un Cù cento tuoi pari.|but even a hundred of you are not worth one Cu.
+|Tosto che tal sentenza udita fu|Immediately as the sentence was heard
+|di Cucchi un lungo giro,|a long gyre of cuckoos
+|lieti a cantar s'udiro:|was heard joyously singing:
+|Viva il Cù!|Long live the Cu!
+|Cocù Cocù Cocù!|Cuckoo! cuckoo! cuckoo!
+|Viva il Cù!|Long live the Cu!
+|Cocù Cocù Cocù!|Cuckoo! cuckoo! cuckoo!
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

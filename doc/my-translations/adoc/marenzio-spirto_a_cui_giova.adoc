@@ -1,0 +1,20 @@
+= Spirto a cui giova
+
+== Poet: Anonymous
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il quarto libro de madrigali à cinque voci  (Vincenzi e Amadino press, Venice, 1584)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Spirto a cui giova gli anni a buona fine|"(O)" Spirit, who spends its years to good end
+|spender nel bel tesoro,|in search of great treasure,
+|non di gemme né d'oro,|not of gems nor of gold,
+|ma di virtù leggiadre e pellegrine:|but of virtues graceful and noble:
+|portino i Cigni le tue lodi a volo|May the Swans carry your praises on wing
+|da l'uno a l'altro Polo.|from one to the other Pole.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

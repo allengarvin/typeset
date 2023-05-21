@@ -1,0 +1,21 @@
+= Voi mi poneste in foco
+
+== Poet: Pietro Bembo (1470-1547)  Gli Asolani  (1505)
+
+=== Composer: Jacques Arcadelt (1507-1568)
+
+==== Source:  Primo libro di madrigali à 3  (Antonio Gardano press, Venice, 1542)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Voi mi poneste in foco,|You have set me afire,
+|Per farmi anzi ’l mio dì, Donna, perire;|To make me perish before my time, Lady;
+|E perché questo mal vi parea poco,|And since this injury seems so little to you,
+|Col pianto raddoppiaste il mio languire.|With weeping you doubled my anguish.
+|Or io vi vo’ ben dire:|Now to you I will say
+|Levate l’un martire,|Lift one torment,
+|Che di due morti, io non posso morire.|As from two deaths I cannot die.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

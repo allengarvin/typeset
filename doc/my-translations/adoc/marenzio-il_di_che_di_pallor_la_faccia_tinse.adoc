@@ -1,0 +1,25 @@
+= Il dì che di pallor la faccia tinse
+
+== Poet: Cristoforo Castelletti (d.1596)
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Madrigali spirituali a 5 voci, libro primo  (Alessandro Gardano press, Rome, 1584)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Il dì che di pallor la faccia tinse|The day that his pale face tinted
+|e che di bruna veste|and clad itself in dark garb,
+|il sol coverse il bel carro lucente,|the sun covered its beautiful shining chariot,
+|sì gran pietà del suo fattor lo strinse:|such great pity for its creator took hold of it:
+|la Madre afflitta e mesta|The Mother, afflicted and sad,
+|ch'a l'orrendo spettacolo presente,|who at the horrid spectacle presented,
+|vide il Figlio innocente|witnessed her innocent Son,
+|dalle mani, da' piedi, e dalla fronte|from whom his hands, his feet and brow
+|versar vermiglio fonte,|pour out vermillian founts
+|da ferro di soverchio alto dolore;|from the iron, in unbridled pain;
+|sentì passarsi acerbamente il core.|She felt her heart bitingly pierced.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

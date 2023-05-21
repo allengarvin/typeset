@@ -1,0 +1,20 @@
+= Trecce ombrose ove s'asconde
+
+== Poet: Anonymous
+
+=== Composer: Adriano Banchieri (1568-1634)
+
+==== Source:  Trattenimenti da villa concertati  (Alessandro Vincenti press, Venice, 1630)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Trecce ombrose, ove s'asconde,|Shadowy tresses, where they hide
+|per ferir l'alato Arciero,|so to wound the winged archer,
+|cedin pur le chiome bionde,|his blonde curls thus yield.
+|belle trecce al vostro nero|Lovely tresses to your black
+|che scherzando al viso intorno,|that frollick around your face:
+|notte siete e gli occhi giorno.|You are the night, and your eyes are day.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

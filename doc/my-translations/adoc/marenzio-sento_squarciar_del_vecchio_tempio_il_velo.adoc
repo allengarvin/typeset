@@ -1,0 +1,22 @@
+= Sento squarciar del vecchio tempio il velo
+
+== Poet: Francesco Beccuti (1509-1553)
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Madrigali spirituali a 5 voci, libro primo  (Alessandro Gardano press, Rome, 1584)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Sento squarciar del vecchio tempio il velo|I hear the veil of the old temple tear
+|e'l mio si sta dinanzi agli occhi avvolto:|and mine is still bound, wrapped over my eyes;
+|trema la terra e fassi oscuro il cielo;|the earth trembles and the sky grows dark;
+|io non muto 'l pensier né cangio il volto;|I do not change my thinking or revise my countenance;
+|spezzansi i sassi, ed io son freddo gelo;|the stones shatter and I am cold as ice;
+|sorgono i morti, i' giaccio ancor sepolto:|the dead rise, and I lie, still interred:
+|ma tu, cagion di sì gran cose, dammi|but you, the cause of such great things, give me
+|ch'io risorga, apra gli occhi e'l cor infiammi.|that I may rise; open my eyes and inflame my heart.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

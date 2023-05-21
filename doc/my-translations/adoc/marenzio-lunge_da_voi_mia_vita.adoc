@@ -1,0 +1,25 @@
+= Lunge da voi mia vita
+
+== Poet: Anonymous
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il terzo libro de madrigali à 5 voci  (Angelo Gardano press, Venice, 1582)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Lunge da voi mia vita:|Far from you, my life:
+|Com'è che vivo i' sia|How is it I live
+|S'in questa dipartita|if with this departure
+|Da voi resta con voi l'anima mia.|from you, my soul remains with you.
+||
+|Me da voi l'altrui voglia|Me from you, someone else's desire [separates us],
+|Voi da me discompagna la mia sorte|and you from me, my fate sunders,
+|Ma di tal nod'Amore|but such a bond of Love
+|Strinse il vostro e il mio core|ties together your heart and mine
+|Che non fia che'l rallenti o che'l discioglia|that never will it be reduced or unbound,
+|Giamai tempo ne morte.|by neither time nor death.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

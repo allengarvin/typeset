@@ -1,0 +1,20 @@
+= Onde io per meglio udire
+
+== Poet: Anonymous
+
+=== Composer: Jean de Castro (c.1540-c.1600)
+
+==== Source:  Rose fresche  (Ricciardo Amadino press, Venice, 1591)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Onde io per meglio udire|Thus I, the better to hear
+|così grata armonia,|such pleasant harmony,
+|v'accorsi vidi m'altro desire;|noticed you and saw nothing else I ever desired:
+|Sento da quel de pria|I went freely, but I return captive,
+|che libero v'andai preso ritorno|by the sweet song of a beautiful Nymph.
+|dal dolce canto d'una Ninfa adorno.|
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

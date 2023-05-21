@@ -1,0 +1,20 @@
+= Come inanti de l'alba ruggiadosa
+
+== Poet: Anonymous poet
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il primo libro de madrigali à 6 voci  (Gardano press, Venice, 1581)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Come inanti de l'alba ruggiadosa|As at the breaking of the dewy dawn
+|La bella luce sua n'apporta Clori|Chloris brings her radiant light
+|E de più bei colori|and the most lovely colors
+|Raccende il ciel con ogni parte ascosa,|set alight the heavens, and every hidden part of it,
+|Indi scoprendo il suo leggiadro viso,|then, discovering her graceful face,
+|Apre quanto de bel ha'l Paradiso.|reveals all the beauty of Paradise.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

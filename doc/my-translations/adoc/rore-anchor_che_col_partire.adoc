@@ -1,0 +1,22 @@
+= Anchor che col partire
+
+== Poet: Alfonso d'Avalos
+
+=== Composer: Cipriano de Rore (c.1515-1565)
+
+==== Source:  Il primo libro di madrigali à 4 voci  (Gardano press, Venice, 1551)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Ancor che col partire|Even though with parting
+|Io mi sento morire,|I feel myself dying,
+|Partir vorrei ogni ora, ogni momento:|I would wish to part every hour, every moment,
+|Tanto è il piacer ch'io sento|such is the pleasure that I feel
+|De la vita ch'acquisto nel ritorno.|in the life I gain upon returning.
+|Et così mille e mille volte il giorno,|And so, a thousand, thousand times a day,
+|Partir da voi vorrei:|I would wish to part from you,
+|Tanto son dolci gli ritorni miei.|so sweet are my returns.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]

@@ -1,0 +1,20 @@
+= Togli dolce ben mio
+
+== Poet: Anonymous
+
+=== Composer: Luca Marenzio (c.1553-1599)
+
+==== Source:  Il terzo libro de madrigali à 5 voci  (Angelo Gardano press, Venice, 1582)
+
+[cols="a,a",options="header,autowidth"]
+|===
+|Original text|Translation
+|Togli, dolce ben mio,|Take, my sweet love,
+|Questi bei fior con lieto e uman sembiante,|these beautiful flowers with a cheerful and affable countenance,
+|Che pien d'alto desio|that, full of deep desire,
+|Ti ho colto di mia man fra mille piante;|I have picked for you, with my own hand, from a thousand plants;
+|E per mia pura fede,|And for my pure faith,
+|Donami un bacio in vece di mercede.|give me a kiss instead, in trade.
+|===
+
+link:/typeset/doc/my-translations[Back to list of translations]
