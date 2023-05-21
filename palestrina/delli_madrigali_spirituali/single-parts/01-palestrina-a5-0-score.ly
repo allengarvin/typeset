@@ -17,7 +17,7 @@
     folio = \markup { Antonio Migliori, \italic { Priego alla beata vergine Maria (1593) } }
     shorttitle = "figlio_immortal_dimmortal_padre"
     shortcomp = "palestrina"
-    category = "[madrigal]"
+    categories = "[madrigal]"
     needtranslation = #'f
 
     % Unchanging:

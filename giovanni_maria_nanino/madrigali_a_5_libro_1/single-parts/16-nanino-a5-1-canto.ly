@@ -21,6 +21,7 @@
     originallyset = "2016-08-02"
     lastupdated = "2016-08-02"
     shorttitle = "morir_non_puo_l_mio_core"
+    folio = "Benedetto Pannini (fl.1560s)"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

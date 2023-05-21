@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.5)
+#(set-global-staff-size 17.0)
 
 \header {
     % Things that change per piece:
@@ -23,6 +23,8 @@
     final = "a"
     shorttitle = "et_oltre_al_mio_destino"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -35,7 +37,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.0
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"

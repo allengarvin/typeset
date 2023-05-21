@@ -14,6 +14,7 @@
     subtitle = "Prima parte"
     folio = \markup { Giovanni Battista Guarini, \italic{Il Pastor Fido} Atto I Scena 2 }
     instrument = "Cruda Amarilli (score)"
+    categories = "[madrigal]"
 
     % Unchanging:
     lastupdated = "2013-06-18"

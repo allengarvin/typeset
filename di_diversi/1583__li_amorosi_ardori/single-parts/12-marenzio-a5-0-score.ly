@@ -23,7 +23,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "perche_adoprar_catene"
     shortcomp = "marenzio"
-    categories = "[]"
+    categories = "[madrigal]"
     needtranslation = #'f
     folio = "Mutio Manfredi (1535-1609)"
 

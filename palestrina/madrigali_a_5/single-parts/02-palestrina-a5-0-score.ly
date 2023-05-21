@@ -20,7 +20,7 @@
     shorttitle = "vergine_saggia"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
     shortcomp = "palestrina"
-    categories = "[madirgal]"
+    categories = "[madrigal]"
     needtranslation = #'f
     final = "a"
     flats = 0

@@ -101,25 +101,26 @@
         \fill-line {
             \column {
                 \line { Eran Ninfe e Pastori  }
-                \line { Uniti con le grazie e con gli Amori }
-                \line { E di suoni e di canti  }
-                \line { Facean tal armonia }
-                \line { Che si fermava il sol, l’erba fioria; }
-                \line { Poi di rose e d’acanti }
-                \line { Tessevano ghirlande e d’amaranti }
-                \line { E ne i versi dicean cogliend’i fiori: }
-                \line { Viva, viva la bella Dori!  }
+                \line { uniti con le grazie e con gli Amori, }
+                \line { e di suoni e di canti  }
+                \line { facean tal armonia }
+                \line { che si fermava il sol, l’erba fioria; }
+                \line { poi di rose e d’acanti }
+                \line { tessevano ghirlande e d’amaranti }
+                \line { e ne i versi dicean cogliend’i fiori: }
+                \line { viva, viva la bella Dori!  }
             }
             \column {
                 \line { Nymphs and Shepherds }
-                \line { united with the graces and the gods of Love, }
-                \line { and with music and songs, }
+                \line { were united with the graces and the gods of Love, }
+                \line { and with sounds and songs }
                 \line { made such harmony }
-                \line { that the sun stood still and the flowers bloomed; }
+                \line { that the sun stood still, the grass flowered; }
                 \line { then with roses and acanthus }
-                \line { and amaranti, wove garlands }
-                \line { and in their verses, while gathering flowers, sang, }
-                \line { Long live the beautiful Dori! }
+                \line { and amaranths, they weave garlands, }
+                \line { and in their verses while gathering flowers say: }
+                \line { Long live fair Dori! }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

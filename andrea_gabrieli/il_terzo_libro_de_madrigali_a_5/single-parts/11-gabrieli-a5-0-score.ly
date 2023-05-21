@@ -17,6 +17,7 @@
     shorttitle = "vita_della_vita_mia"
     shortcomp = "a_gabrieli"
     needtranslation = #'f
+    rhyme = "ABABCC"
 
     % Unchanging:
     language = "italian"
@@ -24,7 +25,7 @@
     originallyset = "2020-04-29"
     flats = 0
     final = "a"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

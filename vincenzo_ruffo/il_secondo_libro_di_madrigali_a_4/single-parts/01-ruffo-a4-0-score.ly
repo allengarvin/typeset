@@ -83,12 +83,12 @@
         \fill-line {
             \column {
                 \line { Leggiadre Donne, che quella bellezza }
-                \line { Che Natura vi diede }
-                \line { Desiderate ornar di gentilezza; }
+                \line { che Natura vi diede }
+                \line { desiderate ornar di gentilezza; }
                 \line { Se'l chiuso vostro cor non s'apre pria }
-                \line { Tanto che v'entri'l bel raggio d'Amore, }
-                \line { Da cui vien tal valore; }
-                \line { E' non avrà giammai quel che desia. }
+                \line { tanto che v'entri'l bel raggio d'Amore, }
+                \line { da cui vien tal valore; }
+                \line { e' non avrà giammai quel che desia. }
             }
         }
     }

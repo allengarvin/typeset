@@ -1,11 +1,11 @@
-% Morir non puo'l mio core
+% Morir non può'l mio core
 
-%    Morir non puo ’l mi core
-%    E ’ucciderlo vorrei poi che vi piaci
-%    Ma trar non il puo fuori
-%    Del petto vostr’ ove gran tempo giace
-%    E uccidendol’ io come desio,
-%    So che moreste voi morend’ anchi’io.
+%    Morir non può 'l mi core
+%    E ucciderlo vorrei poi che vi piaci
+%    Ma trar non il può fuori
+%    Del petto vostr' ove gran tempo giace
+%    E uccidendol' io come desio,
+%    So che moreste voi moren -- d'anch'io.
 % - Benedetto Pannini
 
 
@@ -38,18 +38,18 @@ cantoXVI = \relative c'' {
 }
 
 cantoLyricsXVI = \lyricmode {
-    Mo -- rir non puo’l mi co -- re
-    E~'uc -- ci -- der -- lo, 
-    E~'uc -- ci -- der -- lo vor -- rei,
-    E~'uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
-    Ma trar non il puo fuo -- ri,
-    Ma trar non il puo fuo -- ri,
-    Del pet -- to vo -- stro o -- ve gran tem -- po gia -- ce
-    Et uc -- ci -- den -- dol’ io co -- me de -- si -- o,
-    So che mo -- re -- ste voi mo -- rend’ an -- chi~i -- o,
-    Et uc -- ci -- den -- dol’ io co -- me de -- si -- o,
-    So che mo -- re -- ste voi,
-    So che mo -- re -- ste voi mo -- rend’ an -- chi~i -- o.
+    Mo -- rir non può'l mi co -- re
+    E~uc -- ci -- der -- lo, 
+    e~uc -- ci -- der -- lo vor -- rei,
+    e~uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
+    Ma trar non il può fuo -- ri,
+    ma trar non il può fuo -- ri,
+    del pet -- to vo -- stro o -- ve gran tem -- po gia -- ce
+    Ed uc -- ci -- den -- dol' io co -- me de -- si -- o,
+    So che mo -- re -- ste voi mo -- ren -- d'an -- ch'i -- o,
+    ed uc -- ci -- den -- dol' io co -- me de -- si -- o,
+    so che mo -- re -- ste voi,
+    so che mo -- re -- ste voi mo -- ren -- d'an -- ch'i -- o.
 }
 
 altoXVIincipit = \relative c'' {
@@ -82,21 +82,21 @@ altoXVI = \relative c'' {
 }
 
 altoLyricsXVI = \lyricmode {
-    Mo -- rir non puo’l mi co -- re
-    E~'uc -- ci -- der -- lo vor -- rei,
-    E~'uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
-    Ma trar non il puo fuo -- ri,
-    Ma trar non il puo fuo -- ri,
+    Mo -- rir non può'l mi co -- re
+    E~uc -- ci -- der -- lo vor -- rei,
+    e~uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
+    Ma trar non il può fuo -- ri,
+    ma trar non il può fuo -- ri,
     Del pet -- to vo -- stro~o -- ve gran tem -- po gia -- ce
-    Et uc -- ci -- den -- dol’ io co -- me de -- si -- o,
+    Ed uc -- ci -- den -- dol' io co -- me de -- si -- o,
     So che mo -- re -- ste voi, 
-    so che mo -- re -- ste voi mo -- rend’ an -- chi~i -- o,
-    Et uc -- ci -- den -- dol’ io co -- me de -- si -- o,
-    So che mo -- re -- ste voi,
+    So che mo -- re -- ste voi mo -- ren -- d'an -- ch'i -- o,
+    ed uc -- ci -- den -- dol' io co -- me de -- si -- o,
+    so che mo -- re -- ste voi,
     \ijLyrics
-    So che mo -- re -- ste voi,
+    so che mo -- re -- ste voi,
     \normalLyrics
-    So che mo -- re -- ste voi mo -- rend’ __ an -- chi~i -- o.
+    so che mo -- re -- ste voi mo -- ren -- d'an -- ch'i -- o.
 }
 
 tenoreXVIincipit = \relative c' {
@@ -129,18 +129,18 @@ tenoreXVI = \relative c' {
 }
 
 tenoreLyricsXVI = \lyricmode {
-    Mo -- rir __ non puo’l mi co -- re
-    E~'uc -- ci -- der -- lo vor -- rei,
-    E~'uc -- ci -- der -- lo vor -- rei __ poi che vi pia -- ci,
-    Ma trar non il puo fuo -- ri,
-    Ma trar non il puo fuo -- ri,
+    Mo -- rir __ non può'l mi co -- re
+    E~uc -- ci -- der -- lo vor -- rei,
+    e~uc -- ci -- der -- lo vor -- rei __ poi che vi pia -- ci,
+    Ma trar non il può fuo -- ri,
+    ma trar non il può fuo -- ri,
     Del pet -- to vo -- stro o -- ve gran tem -- po gia -- ce
-    Et uc -- ci -- den -- dol’ io co -- me de -- si -- o,
+    Ed uc -- ci -- den -- dol' io co -- me de -- si -- o,
     So che mo -- re -- ste voi,
-    so che mo -- re -- ste voi mo -- rend’ an -- chi~i -- o,
-    Et uc -- ci -- den -- dol’ io co -- me de -- si -- o,
-    So che mo -- re -- ste voi,
-    so che mo -- re -- ste voi __ mo -- rend’ __ an -- chi~i -- o.
+    so che mo -- re -- ste voi mo -- ren -- d'an -- ch'i -- o,
+    ed uc -- ci -- den -- dol' io co -- me de -- si -- o,
+    so che mo -- re -- ste voi,
+    so che mo -- re -- ste voi __ mo -- ren -- d'an -- ch'i -- o.
 }
 
 bassoXVIincipit = \relative c' {
@@ -169,14 +169,14 @@ bassoXVI = \relative c' {
 }
 
 bassoLyricsXVI = \lyricmode {
-    Mo -- rir non puo’l mi co -- re
-    E~'uc -- ci -- der -- lo vor -- rei,
-    E~'uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
-    Ma trar non il puo fuo -- ri,
+    Mo -- rir non può'l mi co -- re
+    E~uc -- ci -- der -- lo vor -- rei,
+    e~uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
+    Ma trar non il può fuo -- ri,
     Del pet -- to vo -- stro~o -- ve gran tem -- po gia -- ce
-    So che mo -- re -- ste voi __ mo -- rend’ an -- chi~i -- o,
-    So che mo -- re -- ste,
-    So che mo -- re -- ste voi __ mo -- rend’ an -- chi~i -- o.
+    So che mo -- re -- ste voi __ mo -- ren -- d'an -- ch'i -- o,
+    so che mo -- re -- ste,
+    so che mo -- re -- ste voi __ mo -- ren -- d'an -- ch'i -- o.
 }
 
 quintoXVIincipit = \relative c'' {
@@ -208,19 +208,19 @@ quintoXVI = \relative c'' {
 }
 
 quintoLyricsXVI = \lyricmode {
-    Mo -- rir non puo’l mi co -- re
-    E~'uc -- ci -- der -- lo, 
-    E~'uc -- ci -- der -- lo vor -- rei,
-    E~'uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
+    Mo -- rir non può'l mi co -- re
+    E~uc -- ci -- der -- lo, 
+    e~uc -- ci -- der -- lo vor -- rei,
+    e~uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
         poi che vi pia -- ci,
-    Ma trar non il puo fuo -- ri,
-    Ma trar non il puo fuo -- ri,
+    Ma trar non il può fuo -- ri,
+    ma trar non il può fuo -- ri,
     Del pet -- to vo -- stro~o -- ve gran tem -- po gia -- ce
-    Et uc -- ci -- den -- dol’ io co -- me de -- si -- o,
+    Ed uc -- ci -- den -- dol' io co -- me de -- si -- o,
     So che mo -- re -- ste voi,
-    Et uc -- ci -- den -- dol’ io co -- me de -- si -- o,
-    So che mo -- re -- ste voi,
-    so che mo -- re -- ste voi mo -- rend’ an -- chi~i -- o.
+    ed uc -- ci -- den -- dol' io co -- me de -- si -- o,
+    so che mo -- re -- ste voi,
+    so che mo -- re -- ste voi mo -- ren -- d'an -- ch'i -- o.
 }
 
 cantoXVIincipitVoice = <<

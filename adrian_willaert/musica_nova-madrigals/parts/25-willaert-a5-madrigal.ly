@@ -40,8 +40,8 @@ cantusXXV = \relative c' {
 cantusLyricsXXV = \lyricmode {
     Io mi ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so,
     io mi __ ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so
-    Col cor -- po stan -- cho ch'a gran pe -- na por -- to,
-    Et pren -- do`al -- lor __ del vo -- str'ae -- re con -- for -- to
+    Col cor -- po stan -- co ch'a gran pe -- na por -- to,
+    Et pren -- do~al -- lor __ del vo -- str'ae -- re con -- for -- to
     Che'l fa gir ol -- tra,
     che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so,
     che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so!
@@ -103,9 +103,9 @@ altusLyricsXXV = \lyricmode {
     Io mi ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so,
     io mi __ ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so,
         a cia -- scun pas -- so
-    Col cor -- po stan -- cho,
-    col cor -- po stan -- cho ch'a gran pe -- na por -- to,
-    Et pren -- do`al -- lor del vo -- str'ae -- re con -- for -- to
+    Col cor -- po stan -- co,
+    col cor -- po stan -- co ch'a gran pe -- na por -- to,
+    Et pren -- do~al -- lor del vo -- str'ae -- re con -- for -- to
     Che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so,
     che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so,
     che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so!
@@ -167,9 +167,9 @@ tenorLyricsXXV = \lyricmode {
     Io mi ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so,
     io mi ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so,
     io mi ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so
-    Col cor -- po stan -- cho ch'a gran pe -- na por -- to,
-    Et pren -- do`al -- lor del vo -- str'ae -- re con -- for -- to
-    et pren -- do`al -- lor del vo -- str'ae -- re con -- for -- to
+    Col cor -- po stan -- co ch'a gran pe -- na por -- to,
+    Et pren -- do~al -- lor del vo -- str'ae -- re con -- for -- to
+    et pren -- do~al -- lor del vo -- str'ae -- re con -- for -- to
     Che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so,
     che'l fa gir ol -- tra,
     che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so,
@@ -228,8 +228,8 @@ bassusXXV = \relative c {
 bassusLyricsXXV = \lyricmode {
     Io __ mi ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so,
     io mi ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so
-    Col cor -- po stan -- cho ch'a gran pe -- na por -- to,
-    Et pren -- do`al -- lor del vo -- str'ae -- re con -- for -- to
+    Col cor -- po stan -- co ch'a gran pe -- na por -- to,
+    Et pren -- do~al -- lor del vo -- str'ae -- re con -- for -- to
     Che'l fa gir ol -- tra,
     che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so,
     che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so!
@@ -285,8 +285,8 @@ quintusXXV = \relative c {
 quintusLyricsXXV = \lyricmode {
     Io mi __ ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so, __
     io mi ri -- vol -- go~in -- die -- tro~a cia -- scun pas -- so
-    Col cor -- po stan -- cho ch'a gran pe -- na por -- to,
-    Et pren -- do`al -- lor del vo -- str'ae -- re con -- for -- to
+    Col cor -- po stan -- co ch'a gran pe -- na por -- to,
+    Et pren -- do~al -- lor del vo -- str'ae -- re con -- for -- to
     Che'l fa __ gir ol -- tra di -- cen -- do: Ohi -- mè las -- so,
     che'l fa gir ol -- tra,
     che'l fa gir ol -- tra di -- cen -- do: Ohi -- mè las -- so!

@@ -1,5 +1,7 @@
     composer = "Vittoria Aleotti (c.1575-c.1620)"
-    source = \markup { \italic { Ghirlanda de madrigali à 4 voci } (Giacomo Vincenti prss, Venice, 1593) }
+    source = \markup { \italic { Ghirlanda de madrigali à 4 voci } (Giacomo Vincenti press, Venice, 1593) }
+    % ALL are Guarini!
+    folio = "Giovanni Battista Guarini (1538-1612)"
     style = "Renaissance"
     
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?

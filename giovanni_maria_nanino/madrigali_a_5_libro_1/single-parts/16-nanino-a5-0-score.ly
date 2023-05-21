@@ -10,8 +10,8 @@
 
 \header {
     % Things that change per piece:
-    title = "Morir non puo'l mio core"
-    instrument = "Morir non puo'l mio core (score)"
+    title = "Morir non può'l mio core"
+    instrument = "Morir non può'l mio core (score)"
     needtranslation = #'t
     language = "italian"
 
@@ -20,6 +20,8 @@
     lastupdated = "2014-12-09"
     flats = 1
     final = "g"
+    folio = "Benedetto Pannini (fl.1560s)"
+    rhyme = "aBaBCC"
     shorttitle = "morir_non_puo_l_mio_core"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
@@ -83,12 +85,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Morir non puo ’l mi core } 
-                \line { E ’ucciderlo vorrei poi che vi piaci } 
-                \line { Ma trar non il puo fuori } 
-                \line { Del petto vostr’ ove gran tempo giace } 
-                \line { E uccidendol’ io come desio, } 
-                \line { So che moreste voi morend’ anchi’io. } 
+                % Italian fix-up: 2023-05-12
+                \line { Morir non può 'l mi core } 
+                \line { e ucciderlo vorrei poi che vi piaci } 
+                \line { ma trar non il può fuori } 
+                \line { del petto vostr' ove gran tempo giace } 
+                \line { ed uccidendol' io come desio, } 
+                \line { so che moreste voi morendo anch'io. } 
             }
 %            \column {
 %            }

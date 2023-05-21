@@ -20,6 +20,7 @@
 
     % Unchanging:
     lastupdated = "2019-11-14"
+    categories = "[madrigal]"
     originally_set = "2019-11-14"
     flats = 1
     final = "g"
