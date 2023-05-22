@@ -78,6 +78,12 @@ class Score:
         else:
             self.unuploaded = False
 
+        noimslp_file = self.directory + "/" + self.filename.split("-")[0] + "-output/noimslp"
+        if os.path.exists(noimslp_file):
+            self.noimslp = True
+        else:
+            self.noimslp = False
+
         for l in lines:
             if "\\header" in l:
                 flag = True
@@ -221,6 +227,8 @@ def main(args):
         scores = [s for s in scores if (datetime.datetime.now() - s.created_on).days < 30]
     elif args.category == "unuploaded":
         scores = [s for s in scores if s.unuploaded]
+    elif args.category == "noimslp":
+        scores = [s for s in scores if s.noimslp]
     else:
         scores = [s for s in scores if args.category in s.categories]
     if len(scores) == 0:

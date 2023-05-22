@@ -5,6 +5,7 @@ import os
 import sys
 import argparse
 import composers
+import subprocess
 
 def basename(s):
     return s.split("/")[-1]
@@ -51,6 +52,10 @@ def find_text(lines, fn):
                 t = ""
             else:
                 t = l[l.index("{")+1:len(l)-l[::-1].index("}")-1].strip()
+            if "\\hspace #" in t:
+                a, b = t.split("\\hspace #")
+                n, c = b.split(" ", 1)
+                t = a + "&nbsp;" * int(n) + c
             sections[-1].append(t)
         #print(l)
     if len(sections) != 2:
@@ -90,16 +95,16 @@ class Score:
     
         if "\\italic" in mu:
             if "\\italic {" in mu:
-                mu = mu.replace("\\italic {", "")
+                mu = mu.replace("\\italic {", "<i>")
             elif "\italic{" in mu:
-                mu = mu.replace("\\italic{", "")
+                mu = mu.replace("\\italic{", "<i>")
             else:
                 print("Fix:", mu)
                 sys.exit(1)
     
     
             cl = mu.index("}")
-            mu = mu[:cl] + "" + mu[cl+1:]
+            mu = mu[:cl] + "</i>" + mu[cl+1:]
     
         return mu
 
@@ -127,7 +132,7 @@ class Score:
         self.original, self.translation = find_text(lines, fn)
         #print("DEBUG", self.header)
 
-        for hf in ["title", "subtitle", "folio", "composer", "shortcomp", "shorttitle", "source"]:
+        for hf in ["title", "subtitle", "folio", "composer", "shortcomp", "shorttitle", "source", "poeticform"]:
             self.attributes[hf] = self.get_header_field(hf)
 
         if self.attributes["shorttitle"] == None:
@@ -145,15 +150,23 @@ class Score:
     def __repr__(self):
         return self.__name__()
 
-    def build_page(self):
-
-#        print(self.filename)
-#        print(self.header)
+    def build_page(self, before, after):
+        template = open("/home/agarvin/typeset.new/doc/my-translations/template.html").read()
         tit = self.attributes["title"]
-        if "subtitle" in self.attributes:
+        if "subtitle" in self.attributes and self.attributes["subtitle"]:
             stit = self.attributes["subtitle"]
+            if " parte" in stit:
+                parte = stit.lower().split()[0]
+                ordinals = ["prima", "seconda", "terza", "quarta", "quinta", "sesta", "settima", "ottava", "nona", "decima", "undecima"]
+                if parte in ordinals:
+                    n = ordinals.index(parte)
+                    print(parte, n, self)
+                    print("  before", before)
+                    print("  after", after)
+                else:
+                    print("*********** subtitle contains parte, but not a valid ordinal: '{}'".format(stit))
         else:
-            stit = ""
+            stit = False
         if "folio" in self.attributes:
             folio = self.attributes["folio"]
         else:   
@@ -163,24 +176,44 @@ class Score:
             print(self.attributes)
             sys.exit(1)
         source = self.attributes["source"]
-        myfn =  "/home/agarvin/typeset.new/doc/my-translations/{}-{}.adoc".format(self.attributes["shortcomp"], self.attributes["shorttitle"])
+        myfn =  "/home/agarvin/typeset.new/doc/my-translations/{}-{}.html".format(self.attributes["shortcomp"], self.attributes["shorttitle"])
         link = '<li><a href="/typeset/doc/my-translations/{}-{}.html">{}</a> {}</li>'.format(self.attributes["shortcomp"], self.attributes["shorttitle"], tit, comp)
 
         fd = open(myfn, "w")
-        fd.write("= {}\n\n".format(tit))
-        fd.write("== Poet: {}\n\n".format(folio or "Anonymous"))
-        fd.write("=== Composer: {}\n\n".format(comp))
-        fd.write("==== Source: {}\n\n".format(source))
+        template = template.replace("TITLE", tit + (": "+stit if stit else ""))
+        if folio:
+            template = template.replace("POET", "Poet/source: " + folio)
+        else:
+            template = template.replace("POET", "Anonymous poet")
+        
+        fd.write(template)
+        fd.write('<a href="../../index.html">TOP</a> / <a href="index.html">Translations Page</a><p>\n\n')
+        fd.write("<center><h2>{}</h2></center><p>\n\n".format(tit + (": "+stit if stit else "")))
+        fd.write('<font size="+1">Poet/poetic source: {}</font><br>\n\n'.format(folio or "Anonymous poet"))
+        if "poeticform" in self.attributes:
+            fd.write("Poetic form/text type: {}<br>\n".format(self.attributes["poeticform"]))
+        fd.write("<p>Music composer: {}<br>\n".format(comp))
+        fd.write("Music source: {}<p>\n\n".format(source))
+        
 
-        fd.write('[cols="a,a",options="header,autowidth"]\n')
-        fd.write("|===\n")
-        fd.write("|Original text|Translation\n")
-        for i in range(max(len(self.original),len(self.translation))):
-            fd.write("|{original}|{translation}\n".format(original=line_no(self.original, i), translation=line_no(self.translation,i)))
-        fd.write("|===\n")
+        fd.write("""    <table>
+        <tr>
+            <td width="30%">Original Italian</td><td width="30%">Translation</td>
+        </tr>
+        <tr>
+            <td>
+""")
+        for oline in self.original:
+            fd.write("    " * 4 + oline + "<br>\n")
+        fd.write("            </td>\n            <td>\n")
+        for tline in self.translation:
+            fd.write("    " * 4 + tline + "<br>\n")
+        fd.write("            </td>\n        </tr>\n    </table><hr>")
 
-        fd.write("\n")
-        fd.write("link:/typeset/doc/my-translations[Back to list of translations]\n")
+        fd.write('Link to musical piece: <a href="/typeset/{}/{}-output">{}</a><p>\n'.format("/".join(self.filename.split("/")[4:7]), self.attributes["number"], tit))
+        fd.write("</body>\n")
+        fd.write("</html>")
+
         fd.close()
         return link
         
@@ -208,7 +241,7 @@ def find_all_scores(args):
             continue
         dist_head = dn + "/include/distribution-header.ly"
 
-        score_files = [dn + "/" + x for x in files if ("-0-score.ly" in x or "-00-score.ly" in x) and filter_italian(args, dn + "/" + x)]
+        score_files = [dn + "/" + x for x in files if (x.endswith("-0-score.ly")or x.endswith("-00-score.ly")) and filter_italian(args, dn + "/" + x)]
         all_scores += sorted(score_files)
     return all_scores
 
@@ -227,15 +260,56 @@ def main(args):
 
     index_fd = open("/home/agarvin/typeset.new/doc/my-translations/index.html", "w")
     index_fd.write("""<html>
-<head><title>My translations from Italian</title><meta charset="utf-8"></head><body>
+<head><title>My translations from Italian</title><meta charset="utf-8">
+<link rel="stylesheet" href="../../aaa.css">
+</head><body>
 <center><h1>My translations</h1><p>from<p><h2>Italian</h2><br><p>
 </center>
+
+I started transcribing madrigals in 2012, at which point I knew little
+to no Italian, though I studied French in college. Finally, in 2019,
+I started studying it formally, taking weekly lessons at the Italian School of
+Dallas. These continue to this day: a one-on-one lesson once a week, and a
+group lesson once a week. The emphasis is on modern standard Italian, but
+of course that's not all that different from the Renaissance, except for a lot
+of vocabulary that only exists in literature.<p>
+Since the start of 2023 I've made an extended effort to start translating
+texts. My goal is to provide useful translations for singers to interpret
+texts, and I don't attempt rhymes or meter. I try not to torture the English
+syntax too much to artificially fit the Italian, though. but I also try not
+to strand subjects or objects too far from the line they occur on. Some
+texts I still find very difficult and have postponed attempting: Petrarca,
+and a lot of very highly elevated neo-Petrarcan of the early 16c. Guarini
+can be really tough at times. It's a journey!<p>
+I'd like to thank Martin Morell, who runs 
+<a href="http://italianmadrigal.com">italianmadrigal.com</a> for help with
+answering occasional questions about oddities I've come across.<p>
+The following sites I've found quite useful as well:<p>
+<ul>
+<li> <a href="http://www.pbm.com/~lindahl/florio/">John Florio's Italian->English dictionary</a> of 1612. An amazing resource of words common and obscure with
+translations into period English. With a search engine! I've also got a physical facsimile of this.</li>
+<li> <a href="https://www.treccani.it/">L'Enciclopedia Treccani</a>: which a vast monolingual dictionary.</li>
+<li> <a href="https://www.gdli.it/">Grande dizionario della lingua italiana</a>: basically the OED of Italian. The 1962 edition. I have a few physical volumes of this, but not the whole set. Like the OED, it contains EVERYTHING. There's a search engine, that can display the original pages of that edition.</li>
+<li> <a href="https://gallica.bnf.fr/ark:/12148/bpt6k51164r?rk=42918;4">Il vocabolario degli Accademici della Crusca</a> of 1621, at BNF.</li>
+<li> <a href="https://en.wiktionary.org/wiki">Wiktionary</a> where you can search for just about any word, including already conjugated, pluralized, gender-modified word. </li>
+</ul>
+<p>
+As of May 2023, I've done about 120 translation, and I've got 570 to go (!!).<br>
 <ol>
 """)
-    for fn,sob in score_map.items():
-        link = sob.build_page()
+    for i, fn in enumerate(my_scores):
+        sob = score_map[fn]
+        
+        link = sob.build_page(i and score_map[my_scores[i-1]], i < len(my_scores)-1 and score_map[my_scores[i+1]])
         index_fd.write(link + "\n")
+
+#    for fn,sob in score_map.items():
+#        link = sob.build_page()
+#        index_fd.write(link + "\n")
     index_fd.write("</ol>\n</body>\n</html>\n")
+
+    index_fd.close()
+    subprocess.run(["rsync", "-4a", "/home/agarvin/typeset.new/doc/my-translations/", "nitfol.com:/var/www/html/typeset/doc/my-translations"])
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description="Build my translation pages")
