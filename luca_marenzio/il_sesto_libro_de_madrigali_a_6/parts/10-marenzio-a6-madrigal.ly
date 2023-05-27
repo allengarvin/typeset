@@ -6,6 +6,94 @@
 % E quando della vita il filo incide,
 % Porga dolor, ch'al mio sen' vada eguale.
 
+% Quando si more il corpo sol s'uccide,
+% ma quando uom ch'ama dal suo ben diparte,
+% l'anima ch'era integra si divide.
+% 
+% Anzi la più perfetta e maggior parte,
+% negli occhi altrui riposta si rimane,
+% ch'amor di propria man la tronca, e parte.
+% 
+
+% Dunque da voi convien ch'io m'allontane,
+% o dell'anima mia parte più cara,
+% per commetter la vita a l'onde insane?
+% 
+% O dì, che mal per me Febo rischiara,
+% e qual sarà giungendo la partita,
+% s'aspettandola solo ella è sì amara?
+% 
+
+% Dammi, pietosa morte, a tempo aita,
+% se mi sia del mio ben la via precisa,
+% prima che parta il piè parta la vita.
+% 
+% Meglio è lasciando qui la carne uccisa,
+% rimanersi con voi questa alma intera,
+% che lontana da voi girsen divisa.
+
+% O Fortuna volubil e leggiera:
+% appena vidi il sol che ne fui privo,
+% al cominciar del dì giunse la sera.
+% 
+% Lunge da voi, se da voi lunge io vivo,
+% le lagrime, il pensiero e la speranza,
+% saranno il cibo mio d'ogn' altro schivo.
+%
+% E se da lungo pianto ora m'avanza,
+% il sonno in braccio per pietà mi prenda,
+% la bella cara angelica sembianza.
+
+% Ma questo, ohimè! temo, che'n van s'attenda,
+% come il sonno amator delle fredde ombre
+% portar può cosa che tant' arda e splenda?
+% 
+% Né sia c'uman pensier dipinga ed ombre
+% celeste lume ond'è'l bel viso adorno,
+% sì che dal tristo cor le nebbie sgombre,
+% 
+% Né perché io vada là, 've nasce il giorno,
+% avrà mai raggio il sol così lucente,
+% che mi levi le tenebre d'intorno.
+
+% Altra aurora bisogna, altro oriente,
+% a gli occhi miei per cui senza voi sono,
+% il Cielo oscuro e le sue luci spente.
+% 
+% Misero, che pensando a quel, ch'io sono,
+% ed a quel ch'io sarò preso il viaggio,
+% quasi m'offende del bel guard' il dono.
+
+% Un tempo, io mi credea c'avendo il raggio
+% de begli occhi presente e Cielo e Terra
+% non avesse bastato a farmi oltraggio.
+% 
+% Or ciò che vedo, lasso, mi fa guerra,
+% ma'l bel guardo divin per cui m'alzai
+% fin sopra il Cielo è quel che piu m'atterra.
+% 
+% Mirando de bei lumi i dolci rai
+% voce par ch'oda ch'ivi dentro gridi,
+% questi son gli occhi ove tu lunge andrai.
+
+% Occhi de' miei desiri e d'amor nidi,
+% vorrei chiedervi in don qualche mercede
+% pria che l'aura mi tolga i cari lidi.
+% 
+% Ma'l vostro duro orgoglio, che non crede,
+% l'ardor che tanto in picciol tempo crebbe,
+% ch'osi sperar mercè non mi dà fede.
+
+% Una pur chiederò che mi si debbe,
+% ed ella è tal che benché d'odio accesi,
+% l'un nemico talor da l'altro l'ebbe.
+% 
+% Occhi s'io moro e sia che vel palesi,
+% perché voi vivi abbiate lode ed io,
+% già spento, qual c'onor siate cortesi
+% 
+% d'una lagrima vostra al cener mio.
+
 cantoXincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"

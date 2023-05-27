@@ -17,6 +17,7 @@
     % Unchanging:
     \include "include/distribution-header.ly"
     lastupdated = "2016-04-23"
+    categories = "[madrigal]"
     tagline = #'f
 }
 \include "../parts/01-feliciani-a5-madrigal.ly"

@@ -44,6 +44,21 @@
 
 \book {
     \bookOutputName "10-marenzio--se_quel_dolor_che_va_innanzi_al_morire-prima_parte"
+    \bookOutputSuffix "--2-alto--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \altoX
+        >>
+                \addlyrics { \altoLyricsX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "10-marenzio--se_quel_dolor_che_va_innanzi_al_morire-prima_parte"
     \bookOutputSuffix "--2-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

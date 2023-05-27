@@ -24,6 +24,7 @@
     final = "g"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    poeticform = "capitolo"
     tagline = #'f
 }
 
@@ -48,7 +49,7 @@
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoXincipitVoice
-                    \clef "treble"
+                    \clef "treble_8"
                     \global
                     \altoX
                 >>
@@ -114,6 +115,7 @@
                 \line { But I do not believe that Death, when it strikes }
                 \line { And when the thread of life it cuts, }
                 \line { Gives grief, that might to mine compare. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
