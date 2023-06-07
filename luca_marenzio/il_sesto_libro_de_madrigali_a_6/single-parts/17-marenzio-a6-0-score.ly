@@ -126,7 +126,7 @@
                 \line { up above the heavens, is what most drags me down to earth. }
                 \line { \vspace #1 }
                 \line { Gazing upon the sweet beams of your beautiful eyes, }
-                \line { a voice I seam to hear cries within: }
+                \line { a voice I seem to hear cries within: }
                 \line { These are the eyes from which you will be far parted. }
                 \line { \hspace #10 \italic { translation by editor } }
 

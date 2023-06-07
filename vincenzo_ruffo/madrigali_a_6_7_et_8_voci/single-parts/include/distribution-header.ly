@@ -1,0 +1,10 @@
+    composer = "Vincenzo Ruffo (c.1508-1587)"
+    source = \markup { \italic { Madrigali a 6, a 7, et a 8 voce } (Scotto press, Venice, 1554) }
+    style = "Renaissance"
+    
+    % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
+    maintainer = "Allen Garvin"
+    maintainerEmail = "aurvondel@gmail.com"
+    maintainerWeb = "http://dfwviols.com"
+    booktitle = \markup { Set by Allen Garvin (aurvondel@gmail.com) (ver. #(strftime "%Y-%m-%d)" (localtime (current-time))) CC BY-NC 2.5 }
+    tagline = #'f

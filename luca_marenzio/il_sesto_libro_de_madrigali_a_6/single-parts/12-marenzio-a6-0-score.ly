@@ -113,7 +113,7 @@
            \column {
                % translation orig date: 2023-05-24
                % translation updated:
-                \line { Thus is it necessary that from you I go for away, }
+                \line { Thus is it necessary that from you I go far away, }
                 \line { O, dearest part of my soul, }
                 \line { and entrust my life to the raging waves? }
                 \line { \vspace #1 }

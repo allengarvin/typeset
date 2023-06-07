@@ -276,7 +276,7 @@ bassoI = \relative c {
     f1) c | r2 r4 a' bf g d'2 | c\breve | R\breve*2 | r2 c2. b4 a2 | 
         g2. f4 e1 | d2 r r r4 d' | c a bf g 
 
-    a f r2 | r1 a2 fs4 g | e2 d r a' | b g f1 | r2 c' d bf | a d, g g |
+    a f r2 | r1 a2 fs4 g | e2 d r a' | \ficta bf\unficta g f1 | r2 c' d bf | a d, g g |
         c, d 
 
     e1 | d r1 | r1 e | f2. g4 a1 ~ | a2 g f1 | e a ~ | 
@@ -292,7 +292,7 @@ bassoLyricsI = \lyricmode {
         ch'in te sua lu -- ce~a -- sco -- se:
     A -- mor mi spin -- ge~a dir,
     a -- mor mi spin -- ge~a dir di te pa -- ro -- le,
-    Ma non s'in -- co -- min -- ciar sen -- za tua ai -- ta, __
+    Ma __ non s'in -- co -- min -- ciar sen -- za tua ai -- ta, __
     E di co -- lui ch'a -- man -- do~in te __ si po -- se,
         ch'a -- man -- do~in te si po -- se.
 

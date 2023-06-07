@@ -7,7 +7,7 @@
 % Usammo altr'arme che saette o frombe.
 % Io senza scale in su la rocca salto
 % e lo stendardo piantovi di botto,
-% e la nimica mia mi caccio sotto.
+% e la nemica mia mi caccio sotto.
 
 cantoXVIincipit = \relative c'' {
     \time 2/2

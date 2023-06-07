@@ -32,12 +32,12 @@ cantoLyricsXVII = \lyricmode {
     E que' bel -- li~oc -- chi che~i cor' fan -- no smal -- ti,
         fan -- no smal -- ti,
     Pos -- sen -- ti~a ri -- schia -- rar,
-    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-    Et tôr -- re l'al -- me~a' cor -- pi~et dar -- le~al -- tru -- i;
+    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+    e tor -- re l'al -- me~a' cor -- pi~e dar -- le~al -- tru -- i;
 
-    Col dir pien d'in -- tel -- let -- ti dol -- ci~et al -- ti,
-    Co~i so -- spir' soa -- ve -- men -- te rot -- ti:
+    Col dir pien d'in -- tel -- let -- ti dol -- ci~ed al -- ti,
+    Coi so -- spir' soa -- ve -- men -- te rot -- ti:
     Da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
     da __ que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i.
 }
@@ -79,16 +79,16 @@ altoXVII = \relative c'' {
 altoLyricsXVII = \lyricmode {
     E que' bel -- li~oc -- chi che~i cor' fan -- no smal -- ti,
     e que' bel -- li~oc -- chi che~i cor' fan -- no smal -- ti,
-    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
+    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
     pos -- sen -- ti~a ri -- schia -- rar,
-    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-    Et tôr -- re l'al -- me~a' cor -- pi~et dar -- le~al -- tru -- i;
+    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+    e tor -- re l'al -- me~a' cor -- pi~e dar -- le~al -- tru -- i;
 
     Col dir,
     col dir,
-    col dir pien d'in -- tel -- let -- ti dol -- ci~et al -- ti,
-    Co~i so -- spir' soa -- ve -- men -- te rot -- ti,
-    co~i so -- spir' soa -- ve -- men -- te rot -- ti:
+    col dir pien d'in -- tel -- let -- ti dol -- ci~ed al -- ti,
+    Coi so -- spir' soa -- ve -- men -- te rot -- ti,
+    coi so -- spir' soa -- ve -- men -- te rot -- ti:
     Da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
     da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
         tran -- sfor -- ma -- to fu -- i.
@@ -126,14 +126,14 @@ tenoreXVII = \relative c'' {
 
 tenoreLyricsXVII = \lyricmode {
     E que' bel -- li~oc -- chi che~i cor' fan -- no smal -- ti, __
-    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-        a -- bis -- so~et not -- ti,
-    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-    Et tôr -- re l'al -- me~a' cor -- pi~et dar -- le~al -- tru -- i;
+    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+        a -- bis -- so~e not -- ti,
+    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+    e tor -- re l'al -- me~a' cor -- pi~e dar -- le~al -- tru -- i;
 
     Col dir,
-    col dir pien d'in -- tel -- let -- ti dol -- ci~et al -- ti,
-    Co~i so -- spir' soa -- ve -- men -- te rot -- ti:
+    col dir pien d'in -- tel -- let -- ti dol -- ci~ed al -- ti,
+    Coi so -- spir' soa -- ve -- men -- te rot -- ti:
     Da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
     da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
         tran -- sfor -- ma -- to fu -- i.
@@ -172,14 +172,14 @@ bassoXVII = \relative c' {
 
 bassoLyricsXVII = \lyricmode {
     E que' bel -- li~oc -- chi che~i cor' fan -- no smal -- ti,
-    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-        a -- bis -- so~et not -- ti,
-    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-        a -- bis -- so~et not -- ti,
-    Et tôr -- re l'al -- me~a' cor -- pi~et dar -- le~al -- tru -- i;
+    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+        a -- bis -- so~e not -- ti,
+    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+        a -- bis -- so~e not -- ti,
+    e tor -- re l'al -- me~a' cor -- pi~e dar -- le~al -- tru -- i;
 
-    Col dir pien d'in -- tel -- let -- ti dol -- ci~et al -- ti,
-    Co~i so -- spir' soa -- ve -- men -- te rot -- ti:
+    Col dir pien d'in -- tel -- let -- ti dol -- ci~ed al -- ti,
+    Coi so -- spir' soa -- ve -- men -- te rot -- ti:
     Da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
     da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
     da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i.
@@ -217,14 +217,14 @@ quintoXVII = \relative c'' {
 
 quintoLyricsXVII = \lyricmode {
     E que' bel -- li~oc -- chi che~i cor' fan -- no smal -- ti,
-    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-    Et tôr -- re l'al -- me~a' cor -- pi~et dar -- le~al -- tru -- i;
+    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+    e tor -- re l'al -- me~a' cor -- pi~e dar -- le~al -- tru -- i;
 
     Col dir,
-    col dir pien d'in -- tel -- let -- ti dol -- ci~et al -- ti,
-    Co~i so -- spir' soa -- ve -- men -- te rot -- ti:
+    col dir pien d'in -- tel -- let -- ti dol -- ci~ed al -- ti,
+    Coi so -- spir' soa -- ve -- men -- te rot -- ti:
     Da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
     da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
     \ijLyrics
@@ -271,14 +271,14 @@ sestaLyricsXVII = \lyricmode {
     E que' bel -- li~oc -- chi che~i cor',
         che~i cor' fan -- no smal -- ti,
         che~i cor' fan -- no smal -- ti, __
-    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~et not -- ti,
-    Et tôr -- re l'al -- me~a' cor -- pi~et dar -- le~al -- tru -- i,
-    et tôr -- re l'al -- me~a' cor -- pi~et dar -- le~al -- tru -- i;
+    Pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+    pos -- sen -- ti~a ri -- schia -- rar a -- bis -- so~e not -- ti,
+    e tor -- re l'al -- me~a' cor -- pi~e dar -- le~al -- tru -- i,
+    e tor -- re l'al -- me~a' cor -- pi~e dar -- le~al -- tru -- i;
 
-    Col dir pien d'in -- tel -- let -- ti dol -- ci~et al -- ti,
-    col dir pien d'in -- tel -- let -- ti dol -- ci~et al -- ti,
-    Co~i so -- spir' soa -- ve -- men -- te rot -- ti:
+    Col dir pien d'in -- tel -- let -- ti dol -- ci~ed al -- ti,
+    col dir pien d'in -- tel -- let -- ti dol -- ci~ed al -- ti,
+    Coi so -- spir' soa -- ve -- men -- te rot -- ti:
     Da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
     da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i,
     da que -- sti ma -- gi tran -- sfor -- ma -- to fu -- i.

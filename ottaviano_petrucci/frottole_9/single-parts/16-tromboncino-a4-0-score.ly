@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.7)
+#(set-global-staff-size 17.2)
 
 \header {
     % Things that change per piece:
@@ -27,10 +27,10 @@
     tagline = #'f
 }
 
-\include "../parts/15-tromboncino-a4-frottola.ly"
+\include "../parts/16-tromboncino-a4-frottola.ly"
 
 \book {
-    \bookOutputName "15-tromboncino--ostinato_vo_seguire-"
+    \bookOutputName "16-tromboncino--ostinato_vo_seguire-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -39,32 +39,34 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusXVincipitVoice
+                    \incipit \cantusXVIincipitVoice
                     \clef "treble"
                     \global
-                    \cantusXV
+                    \cantusXVI
                 >>
-                \addlyrics { \cantusLyricsXV }
+                \addlyrics { \cantusLyricsXVI }
+                \addlyrics { \cantusLyricsXVIa }
+                \addlyrics { \cantusLyricsXVIb }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusXVincipitVoice
+                    \incipit \altusXVIincipitVoice
                     \clef "treble_8"
                     \global
-                    \altusXV
+                    \altusXVI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXVincipitVoice
+                    \incipit \tenorXVIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorXV
+                    \tenorXVI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusXVincipitVoice
+                    \incipit \bassusXVIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusXV
+                    \bassusXVI
                 >>
              >>
          >>
@@ -80,7 +82,7 @@
         \fill-line {
             \column {
                 \line { Ostinato vo' seguire }
-                \line { la magnanima mia impresa, }
+                \line { la magnanima mia impresa; }
                 \line { Fame, Amor, qual voi offesa, }
                 \line { s’io dovesse ben morire. }
                 \line { \hspace #10 Ostinato ... }
@@ -99,7 +101,31 @@
                 \line { s'io ne resto vincitore. }
                 \line { S'io la perdo, al fin gran core }
                 \line { mostrarà l'alto desire. }
-                \line { \vspace #2 } 
+                \line { \hspace #10 Ostinato ... }
+            }
+            \column {
+                \line { Stubbornly I will follow }
+                \line { my noblest venture; }
+                \line { Do to me, Love, what offends you, }
+                \line { if I must die well. }
+                \line { \hspace #10 Stubbornly... }
+                \line { \vspace #2 }
+                \line { Do me, Heavens, do me, O Fortune, }
+                \line { good or ill as you please: }
+                \line { neither pleasure nor injury }
+                \line { will dishearten me or make me more foolhardy. }
+                \line { For of the one I am incapable, }
+                \line { [while] the other I cannot escape. }
+                \line { \hspace #10 Stubbornly... }
+                \line { \vspace #2 }
+                \line { Win or lose, I expect naught }
+                \line { of my venture other than honor: }
+                \line { Above heaven I will blessedly ascend }
+                \line { if of it I become the victor. }
+                \line { If I nobly lose her in the end, my heart }
+                \line { will demonstrate its highest desire. }
+                \line { \hspace #10 Stubbornly... }
+                \line { \hspace #8 \italic { translation by editor }  }
             }
         }
     }

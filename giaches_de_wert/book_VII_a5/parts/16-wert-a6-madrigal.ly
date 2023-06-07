@@ -1,5 +1,5 @@
 % Grazie ch'a pochi il ciel largo destina:
-% rara vertú, non già d'umana gente,
+% rara vertù, non già d'umana gente,
 % sotto biondi capei canuta mente,
 % e 'n humil donna alta beltà divina;
 % 
@@ -10,7 +10,7 @@
 % 
 % e que' belli occhi che i cor' fanno smalti,
 % possenti a rischiarar abisso et notti,
-% et tôrre l'alme a' corpi, et darle altrui;
+% et tôrre l'alme a' corpi, e darle altrui;
 % 
 % col dir pien d'intelletti dolci et alti,
 % co i sospiri soave-mente rotti:
@@ -64,15 +64,15 @@ cantoXVI = \relative c'' {
 cantoLyricsXVI = \lyricmode {
     Gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na,
     gra -- zie ch'a po -- chi~il ciel lar -- go __ de -- sti -- na:
-    Ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tù, non già d'u -- ma -- na gen -- te,
         non già d'u -- ma -- na gen -- te,
     Sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     E'n u -- mil don -- na al -- ta bel -- tà di -- vi -- na,
         al -- ta bel -- tà di -- vi -- na;
 
-    Leg -- gia -- dria sin -- gu -- la -- re et pel -- le -- gri -- na, __
-    leg -- gia -- dria sin -- gu -- la -- re et pel -- le -- gri -- na,
+    Leg -- gia -- dria sin -- gu -- la -- re e pel -- le -- gri -- na, __
+    leg -- gia -- dria sin -- gu -- la -- re e pel -- le -- gri -- na,
         et pel -- le -- gri -- na,
     E'l __ can -- tar che ne l'a -- ni -- ma si sen -- te,
     L'an -- dar ce -- le -- ste~e'l va -- go spir -- to~ar -- den -- te,
@@ -130,8 +130,8 @@ altoLyricsXVI = \lyricmode {
     Gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na,
         ch'a po -- chi~il ciel lar -- go de -- sti -- na,
         ch'a po -- chi~il ciel lar -- go de -- sti -- na;
-    Ra -- ra vir -- tú, 
-    ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tù, 
+    ra -- ra vir -- tù, non già d'u -- ma -- na gen -- te,
     Sot -- to bion -- di ca -- pei,
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
@@ -192,7 +192,7 @@ tenoreLyricsXVI = \lyricmode {
         Ch'a po -- chi~il ciel lar -- go de -- sti -- na,
             lar -- go __ de -- sti -- na,
     gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na:
-    Ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tù, non già d'u -- ma -- na gen -- te,
     Sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
         ca -- nu -- ta men -- te,
     E'n u -- mil don -- na al -- ta bel -- tà di -- vi -- na,
@@ -252,7 +252,7 @@ bassoXVI = \relative c {
 
 bassoLyricsXVI = \lyricmode {
     Gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na,
-    Ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tù, non già d'u -- ma -- na gen -- te,
     Sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     sot -- to bion -- di ca -- pei ca -- nu -- ta men -- te,
     E'n u -- mil don -- na al -- ta bel -- tà,
@@ -313,7 +313,7 @@ quintoLyricsXVI = \lyricmode {
         Ch'a po -- chi~il ciel lar -- go de -- sti -- na,
     gra -- zie ch'a po -- chi~il ciel lar -- go de -- sti -- na,
         ch'a po -- chi~il ciel lar -- go de -- sti -- na:
-    Ra -- ra vir -- tú, non già d'u -- ma -- na,
+    Ra -- ra vir -- tù, non già d'u -- ma -- na,
         non già d'u -- ma -- na gen -- te,
     \ijLyrics
         non già d'u -- ma -- na gen -- te,
@@ -387,7 +387,7 @@ sestaLyricsXVI = \lyricmode {
     \ijLyrics
         ch'a po -- chi~il ciel lar -- go __ de -- sti -- na;
     \normalLyrics
-    Ra -- ra vir -- tú, non già d'u -- ma -- na gen -- te,
+    Ra -- ra vir -- tù, non già d'u -- ma -- na gen -- te,
     \ijLyrics
         non già d'u -- ma -- na gen -- te,
     \normalLyrics

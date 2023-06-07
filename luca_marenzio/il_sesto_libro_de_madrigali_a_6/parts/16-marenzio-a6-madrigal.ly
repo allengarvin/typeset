@@ -260,7 +260,7 @@ quintoLyricsXVI = \lyricmode {
     \ijLyrics
         del bel guar -- d'il do -- no,
     \normalLyrics
-        del bel guar -- d'il do -- no,
+        del bel guar -- do,
         del bel guar -- d'il do -- no.
 }
 

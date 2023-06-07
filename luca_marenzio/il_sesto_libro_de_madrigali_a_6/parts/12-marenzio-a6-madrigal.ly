@@ -106,8 +106,8 @@ altoLyricsXII = \lyricmode {
     Per com -- met -- ter la vi -- t'a l'on -- de~in -- sa -- ne?
 
 %    O di, che mal per me Fe -- bo ri -- schia -- ra,
-    E qual sa -- rà giun -- gen -- do la pa -- ti -- ta,
-    e qual sa -- rà giun -- gen -- do la pa -- ti -- ta,
+    E qual sa -- rà giun -- gen -- do la par -- ti -- ta,
+    e qual sa -- rà giun -- gen -- do la par -- ti -- ta,
         la pa -- ti -- ta,
     S'a -- spet -- tan -- do -- la so -- lo,
     s'a -- spet -- tan -- do -- la so -- lo,
