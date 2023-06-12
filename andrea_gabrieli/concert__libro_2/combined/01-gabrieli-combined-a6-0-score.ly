@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "I' vo piangendo"
     instrument = "I' vo piangendo: Prima parte (score)"
-    folio = \markup { Petrarca, \italic { Canzoniere,} CCCLXV (365) }
+    folio = \markup { Petrarca, \italic{Canzoniere} CCCLXV (365) }
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:

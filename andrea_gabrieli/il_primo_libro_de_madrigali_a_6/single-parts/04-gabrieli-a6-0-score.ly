@@ -99,16 +99,16 @@
         \fill-line {
             \column {
                 \line { Neve e Rose ha nel volto  }
-                \line { La nova mia angioletta, ond'io discerno }
-                \line { Primavera in un punto aprir col verno; }
+                \line { la nova mia angioletta, ond'io discerno }
+                \line { primavera in un punto aprir col verno; }
                 \line { Ma chi sia che le tocchi }
-                \line { Se fra la Neve e il foco e fra le Rose }
-                \line { Pungenti spine hai, lasso, Amor, nascose? }
+                \line { se fra la Neve e il foco e fra le Rose }
+                \line { pungenti spine hai, lasso, Amor, nascose? }
                 \line { Arda dunque chi in van se li avvicina, }
-                \line { E punga il cor di velenosa spina. }
+                \line { e punga il cor di velenosa spina. }
             }
             \column {
-            % My translation
+            % My translation (from Jan 2023?)
                 \line { Snow and roses she has in her face, }
                 \line { my new little angel, whence I discern }
                 \line { spring which opens at the point with winter; }

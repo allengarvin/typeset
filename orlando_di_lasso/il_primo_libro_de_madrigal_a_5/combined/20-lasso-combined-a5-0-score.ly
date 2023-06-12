@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Fiera Stella s'el ciel ha forza in noi"
-    folio = \markup { Petrarca, \italic {Canzoniere} CLXXIV (174) }
+    folio = \markup { Petrarca, \italic{Canzoniere} CLXXIV (174) }
     instrument = "Fiera Stella (score)"
 
     % Unchanging:

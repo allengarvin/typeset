@@ -14,7 +14,7 @@
     instrument = "Io piango ed ella il volto (score)"
     language = "italian"
     needtranslation = #'f
-    folio = "Petrarch?"
+    folio = "Petrarca?"
 
     % Unchanging:
     composer = "Anonymous"

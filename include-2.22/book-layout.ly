@@ -2,7 +2,7 @@
     ragged-bottom = ##f
     \context {
         \Voice
-        restNumberThreshold = #5
+        restNumberThreshold = #0
         \consists Ambitus_engraver
     }
 }

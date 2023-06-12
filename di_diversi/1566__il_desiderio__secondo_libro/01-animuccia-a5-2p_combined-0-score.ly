@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "A la dolce ombra de le belle frondi"
     composer = "Paolo Animuccia (c.1500-1569)"
-    folio = \markup { Petrarca, \italic { Canzoniere,} CXLII (142) }
+    folio = \markup { Petrarca, \italic{anzoniere} CXLII (142) }
     instrument = "A la dolce ombra de le belle frondi (score)"
 
     % Unchanging:

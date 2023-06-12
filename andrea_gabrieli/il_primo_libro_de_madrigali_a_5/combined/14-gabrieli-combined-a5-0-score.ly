@@ -13,7 +13,7 @@
     title = "Vago ucelletto che cantando vai"
     instrument = "Vago ucelletto che cantando vai: Prima e seconda parte (score)"
     headerspace = \markup { \vspace #2 }
-    folio = \markup { Petrarca, \italic{Canzoniere,} CCCLIII (353) }
+    folio = \markup { Petrarca, \italic{Canzoniere} CCCLIII (353) }
 
     % Unchanging:
     language = "italian"

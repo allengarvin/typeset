@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Solo et pensoso"
-    folio = \markup { Petrarca, \italic {Canzoniere} XXXV (35) }
+    folio = \markup { Petrarca, \italic{Canzoniere} XXXV (35) }
     instrument = "Solo et pensoso (score)"
 
     % Unchanging:

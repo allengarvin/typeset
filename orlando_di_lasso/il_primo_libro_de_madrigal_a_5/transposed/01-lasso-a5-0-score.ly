@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Cantai, or piango"
     subtitle = "Prima parte"
-    folio = \markup { Petrarca, \italic {Canzoniere} CCXXIX (229) }
+    folio = \markup { Petrarca, \italic{Canzoniere} CCXXIX (229) }
     instrument = "Cantai, or piango (score)"
 
     % Unchanging:

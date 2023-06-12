@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "I' vo piangendo"
     composer = "Andrea Gabrieli (c.1532-1585)"
-    folio = \markup { Petrarca, italic { Canzoniere,} CCCLXV (365) }
+    folio = \markup { Petrarca, italic{Canzoniere} CCCLXV (365) }
     instrument = "I' vo piangendo (score)"
 
     % Unchanging:

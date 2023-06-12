@@ -16,7 +16,7 @@
     shorttitle = "passa_la_nave_mia_colma_doblio"
     shortcomp = "vinci"
     needtranslation = #'f
-    folio = "Petrarca, Canzoniere CLXXXIX (189)"
+    folio = \markup { Petrarca, \italic{Canzoniere} CLXXXIX (189) }
 
     % Unchanging:
     language = "italian"

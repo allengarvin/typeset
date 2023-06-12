@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Mia benigna fortuna"
     instrument = "Mia benigna fortuna (score)"
-    folio = \markup { Petrarca, \italic{Canzoniere} 332 }
+    folio = \markup { Petrarca, \italic{Canzoniere} CCCXXXII (332) } 
 
     % Unchanging:
     \include "include/distribution-header.ly"

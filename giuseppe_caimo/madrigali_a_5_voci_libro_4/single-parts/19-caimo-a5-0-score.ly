@@ -6,12 +6,11 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
     title = "E ben ragion se l'eterno mottore"
-    folio = "Anonymous poet)"
 
     instrument = "E ben ragion (score)"
     language = "italian"
@@ -24,6 +23,7 @@
     final = "g"
     shorttitle = "e_ben_ragion"
     categories = "[madrigal]"
+    rhyme = "ABABABBA"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -36,7 +36,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.8
             } <<
 
                 \new Voice << 
@@ -93,13 +93,13 @@
         \fill-line {
             \column {
                 \line { E ben ragion se l'eterno mottore }
-                \line { De cieli a d'aspre spine il capo avinto }
-                \line { Ch'anco il pianeta che distingue l'ore }
-                \line { Sdegni aver oggi il suo di raggi cinto. }
+                \line { de cieli a d'aspre spine il capo avinto }
+                \line { ch'anco il pianeta che distingue l'ore }
+                \line { sdegni aver oggi il suo di raggi cinto. }
                 \line { Ed è ragion se l'empio nostro errore }
-                \line { Ha d'ogni luce il fonte, ahi lasso, estinto, }
-                \line { Che d'altra nebbia il mondo anco sia tinto, }
-                \line { Di pioggia gelo e tenebroso orrore. }
+                \line { ha d'ogni luce il fonte, ahi lasso, estinto, }
+                \line { che d'altra nebbia il mondo anco sia tinto, }
+                \line { di pioggia gelo e tenebroso orrore. }
             }
         }
     }

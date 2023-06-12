@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Or che'l ciel et la terra e'l vento tace"
     instrument = "Or che'l ciel et la terra e'l vento tace (score)"
-    folio = \markup { Petrarca, \italic { Canzoniere, } CLXIV (164) } 
+    folio = \markup { Petrarca, \italic{Canzoniere} CLXIV (164) } 
 
     % Unchanging:
     lastupdated = "2019-02-11"

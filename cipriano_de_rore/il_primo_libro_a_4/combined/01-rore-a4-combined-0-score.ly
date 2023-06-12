@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "A la dolce ombra de le belle frondi"
-    folio = \markup { Petrarca, \italic { Canzoniere,} CXLII (142) }
+    folio = \markup { Petrarca, \italic{Canzoniere} CXLII (142) }
     instrument = "A la dolce ombra (score)"
 
     % Unchanging:

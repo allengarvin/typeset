@@ -18,7 +18,7 @@
     instrument = "Del cibo onde'l signor:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "del_cibo_ondel_signor"
-    folio = \markup { Petrarch, \italic{Canzoniere} CCCXLII }
+    folio = \markup { Petrarca, \italic{Canzoniere} CCCXLII (342) }
 
     shortcomp = "marenzio"
     categories = "[madrigal]"

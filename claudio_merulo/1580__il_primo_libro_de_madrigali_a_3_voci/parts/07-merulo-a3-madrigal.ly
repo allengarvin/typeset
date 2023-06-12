@@ -1,3 +1,12 @@
+%    23     Deh, perché voglio anco di me dolermi?
+%           Ch’error, se non d’amarti, unqua commessi?
+%           Che meraviglia, se fragili e infermi
+%           feminil sensi fur subito oppressi?
+%           Perché dovev’io usar ripari e schermi
+%           che la somma beltà non mi piacessi,
+%           gli alti sembianti e le saggie parole?
+%           Misero è ben chi veder schiva il sole!
+
 cantoVIIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"
@@ -6,9 +15,9 @@ cantoVIIincipit = \relative c'' {
     g1
 }
 
+% canto: checked against source
 cantoVII = \relative c'' {
     \fourTwoCommonTime
-    \clef soprano
     \key f \major
 
     r1 g | r2 bf1 g2 | g f1 bf2 ~ | bf4 bf g2 bf a | g1 f2 r4 f | 
@@ -28,17 +37,80 @@ cantoVII = \relative c'' {
 }
 
 cantoLyricsVII = \lyricmode {
+    Deh, 
+    deh, per -- ché vo -- glio~an -- co di me do -- ler -- mi?
+    Ch’er -- ror, se non d’a -- mar -- ti~un -- qua com -- mes -- si?
+    Che me -- ra -- vi -- glia, se fra -- gi -- li e~in -- fer -- mi
+    Fe -- mi -- nil sen -- si fur su -- bi -- to,
+        fur su -- bi -- to,    
+        fur su -- bi -- t'op -- pres -- si?
+    Per -- ché __ do -- ve -- v’io~u -- sar ri -- pa -- ri~e scher -- mi,
+        ri -- pa -- ri~e scher -- mi
+    Che la som -- ma bel -- tà non mi pia -- ces -- si,
+    Gli~al -- ti sem -- bian -- ti,
+    gli~al -- ti sem -- bian -- ti e le sag -- gie pa -- ro -- le?
+    Mi -- se -- ro~è ben,
+    mi -- se -- ro~è ben chi ve -- der schi -- va~il so -- le,
+    mi -- se -- ro~è ben,
+    mi -- se -- ro~è ben chi ve -- der schi -- va~il so -- le!
 }
 
-tenoreVII = \relative c' {
-    \fourTwoCommonTime
-    \clef mezzosoprano
+tenoreVIIincipit = \relative c' {
+    \time 4/4
+    \clef "petrucci-c2"
     \key f \major
 
+    d1
+}
+
+% tenore: checked against source
+tenoreVII = \relative c' {
+    \fourTwoCommonTime
+    \key f \major
+
+    d1 r2 ef ~ | ef d \ficta ef! ef!\unficta | d2. d4 c2 d | 
+        ef2 ef2.( d4 d2 ~ | d4 c8[ bf] c2) d r4 a | bf c d g, c2 bf | 
+    
+    a4 d c2 bf r4 a | bf c d g, c2 bf | a4 d c2 bf r2 | r2 r4 d e2 fs |
+        g d4 g f4. f8 e2 | r4 d g1 f2 | ef
+
+    ef4 d c2 d4 f | e4. e8 e4 f d4. d8 d4 f | f2 f4 e2 d( c4) | d2 f f2. f4 |
+        e2 d c f | e2. d4 c2 d4 g | 
+
+    f4 d f2 e r4 d | f e f2 e4 c e f | e2 d d d | cs cs4 cs cs2 d | 
+        e f1 d2 ~ | d cs r1 | a'2 a4 g f2 e | 
+
+    r4 f bf a g2 fs | r2 e f d2 ~ | d4 d4 d2 cs1 | cs r1 | d d2 c | 
+        f e2. a,4 d2 | f4 f2 f4 f2 e2 ~ | 
+        e4 e4 d2.\melfi cs8[ b] cs!2\melfiEnd | d1 
+
+    r1 | f f2 e | f e2. f4 d2 | f4 f2 c4 d2. e4 ~ | 
+        e d4 d2.\melfi cs8[ b] cs!2\melfiEnd | d\longa*1/2
+
+    
     \bar "|."
 }
 
 tenoreLyricsVII = \lyricmode {
+    Deh,
+    deh, __ per -- ché vo -- glio~an -- co di me do -- ler -- mi?
+    Ch’er -- ror, se non d’a -- mar -- ti~un -- qua com -- mes -- si?
+    ch’er -- ror, se non d’a -- mar -- ti~un -- qua com -- mes -- si?
+    Che me -- ra -- vi -- glia, se fra -- gi -- li e~in -- fer -- mi
+    Fe -- mi -- nil sen -- si fur su -- bi -- to,
+        fur su -- bi -- to,
+        fur su -- bi -- t'op -- pres -- si?
+    Per -- ché do -- ve -- v’io~u -- sar ri -- pa -- ri~e scher -- mi,
+        ri -- pa -- ri~e scher -- mi,
+        ri -- pa -- ri~e scher -- mi,
+        ri -- pa -- ri~e scher -- mi
+    Che la som -- ma bel -- tà non mi pia -- ces -- si,
+    Gli~al -- ti sem -- bian -- ti,
+    gli~al -- ti sem -- bian -- ti e le sag -- gie pa -- ro -- le?
+    Mi -- se -- ro~è ben,
+    mi -- se -- ro~è ben chi ve -- der schi -- va~il so -- le,
+    mi -- se -- ro~è ben,
+    mi -- se -- ro~è ben chi ve -- der schi -- va~il so -- le!
 }
 
 bassoVIIincipit = \relative c' {
@@ -49,9 +121,9 @@ bassoVIIincipit = \relative c' {
     g1
 }
 
+% basso: checked against source
 bassoVII = \relative c' {
     \fourTwoCommonTime
-    \clef tenor
     \key f \major
 
                                      % vvvv adding dot to c2
@@ -68,11 +140,29 @@ bassoVII = \relative c' {
         g, r4 c f,2 bf ~ | bf4 bf d2 a1 | a r1 | f' f2 e |
 
     d2 a2. f4 g2 | d d'2. d4 a2 | c d a1 | d, r1 | d' d2 cs | 
-        d a2. d,4 g2 | d f2. f4 g4 | a bf a1 | d,\longa*1/2
+        d a2. d,4 g2 | d f2. f4 g2 | a bf a1 | d,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsVII = \lyricmode {
+    Deh,
+    deh, per -- ché vo -- glio~an -- co di me do -- ler -- mi?
+    Ch’er -- ror, se non d’a -- mar -- ti~un -- qua com -- mes -- si?
+    Che me -- ra -- vi -- glia, se fra -- gi -- li e~in -- fer -- mi
+    Fe -- mi -- nil sen -- si fur su -- bi -- to,
+        fur su -- bi -- to,
+        fur su -- bi -- t'op -- pres -- si?
+    Per -- ché do -- ve -- v’io~u -- sar ri -- pa -- ri~e scher -- mi,
+        ri -- pa -- ri~e scher -- mi,
+        ri -- pa -- ri~e scher -- mi
+    Che la som -- ma bel -- tà non mi pia -- ces -- si,
+    Gli~al -- ti sem -- bian -- ti,
+    gli~al -- ti sem -- bian -- ti,
+    gli~al -- ti sem -- bian -- ti e le sag -- gie pa -- ro -- le?
+    Mi -- se -- ro~è ben,
+    mi -- se -- ro~è ben chi ve -- der schi -- va~il so -- le,
+    mi -- se -- ro~è ben,
+    mi -- se -- ro~è ben chi ve -- der schi -- va~il so -- le!
 }
 
 cantoVIIincipitVoice = <<
