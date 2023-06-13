@@ -1,0 +1,129 @@
+= Francesco Petrarca (1304-1374)
+
+One of the _tre corone_ of Italian literature, and the most famous lyric
+poet of European history, Petrarch (the usual rendering in English)
+ was the single-most used poetic source
+for the cinquecento madrigale. Thousands of settings exist, primarily
+starting in the 1540s and lasting well into the 17th century. 
+
+His primary work was the _Rerum vulgarium fragmenta_
+("Fragments of Vernacular Matters"), also known as his _Canzoniere_, and
+sometimes as the _Rime Sparse_ ("Scattered rhymes", taken from the first
+poem of the work). The 366 poems consist of 317 sonetti (sonnets), 19 canzoni, 9
+sestine, 7 ballate, and 4 madrigali. It was begun in 1327, and continued
+through most of Petrarch's life, ending around 1368. An autograph copy in
+the Vatican provides dating for most of the pieces. The central theme is
+the poet's love for Laura, whom Petrarch met in April 1327. There are many
+puns on Laura's name, mostly _l'aura_ (breeze, sometimes aura) or
+_lauro_ (laurel, the tree associated with Apollo, and poetry since classical 
+times). The first 263 poems are traditional classified as "In vita", written
+during the life of Laura, and the remaining 103 "In morte", after her death.
+
+In the late 1400s Pietro Bembo (1470-1547) gained a love of the Florentine
+dialect while his father served as an ambassador for Venice in Florence,
+and especially a love of the poetry of Petrarch. In the early 1500s, he
+wrote a work that came to be known as the _Prose della volgar lingua_
+(Prose of the Vernacular Tongue), which circulated widely in literary
+circles in manuscript form before being published in 1525. It extolled
+Petrarch as the best example of Italian poetry (and Boccaccio for prose).
+He also edited the first truly authentic edition of Petrarch's poetry in
+the age of the printing press. More than any thing else, this established
+Petrarch as the model for poetry, and started a century-long trend of 
+Petrarcan poetry widely imitated by poets throughout the peninsula.
+
+The musical madrigal began its life in 1520s Florence, and was more associated
+with somewhat lighter forms of poetry, mostly (of course) the madrigal,
+with its unfixed rhyme scheme (which by this time allowed 7-syllable lines
+as well as 11-syllable: the four examples in the Canzoniere only consist
+of hendecasyllabic lines). Early settings of Petrarch exist, including
+Verdelot's famous setting of _Italia Mia_ (#128), but it was not until
+the 1540s as the madrigal became more widespread outside of Florence that
+Petrarch was widely used as a model. Cipriano de Rore and Adriano Willaert,
+especially, associated with Venice and Ferrara, set many sonnets of Petrarch, 
+usually 6-part pieces. Willaert's famous publication, the _Musica Nova_ of 
+1559, consisted of 21 sonnets of Petrarch (most written years past and
+only circulated in manuscript). Toward the end of the century, the popularity
+of Petrarcan poetry began to wane, especially as pastoral poetry 
+experienced a sudden vogue around 1570-1600, though it never disappeared
+entirely.
+
+
+* link:canzoniere-2.html[Canzoniere 2 (II)] _Per fare una leggiadra sua vendetta_ (sonnet)
+* link:canzoniere-12.html[Canzoniere 12 (XII)] _Se la mia vita da l'aspro tormento_ (sonnet)
+* link:canzoniere-13.html[Canzoniere 13 (XIII)] _Quando fra l'altre donne ad ora ad ora_ (sonnet)
+* link:canzoniere-14.html[Canzoniere 14 (XIV)] _Occhi miei lassi, mentre ch'io vi giro_ (ballata grande)
+* link:canzoniere-15.html[Canzoniere 15 (XV)] _Io mi rivolgo indietro a ciascun passo_ (sonnet)
+* link:canzoniere-22.html[Canzoniere 22 (XXII)] _A qualunque animale alberga in terra_ (sestina)
+* link:canzoniere-31.html[Canzoniere 31 (XXXI)] _Questa anima gentil che si diparte_ (sonnet)
+* link:canzoniere-34.html[Canzoniere 34 (XXXIV)] _Apollo, s'anchor vive il bel desio_ (sonnet)
+* link:canzoniere-35.html[Canzoniere 35 (XXXV)] _Solo et pensoso i più deserti campi_ (sonnet)
+* link:canzoniere-52.html[Canzoniere 52 (LII)] _Non al suo amante più Diana piacque_ (madrigale)
+* link:canzoniere-62.html[Canzoniere 62 (LXII)] _Padre del ciel, dopo i perduti giorni_ (sonnet)
+* link:canzoniere-66.html[Canzoniere 66 (LXVI)] _L'aere gravato, et l'importuna nebbia_ (sestina)
+* link:canzoniere-68.html[Canzoniere 68 (LXVIII)] _L'aspetto sacro de la terra vostra_ (sonnet)
+* link:canzoniere-70.html[Canzoniere 70 (LXX)] _Lasso me, ch'i' non so in qual parte pieghi_ (canzone)
+* link:canzoniere-75.html[Canzoniere 75 (LXXV)] _I begli occhi ond'i' fui percosso in guisa_ (sonnet)
+* link:canzoniere-84.html[Canzoniere 84 (LXXXIV)] _- Occhi piangete: accompagnate il core_ (sonnet)
+* link:canzoniere-85.html[Canzoniere 85 (LXXXV)] _Io amai sempre, et amo forte anchora_ (sonnet)
+* link:canzoniere-90.html[Canzoniere 90 (XC)] _Erano i capei d'oro a l'aura sparsi_ (sonnet)
+* link:canzoniere-106.html[Canzoniere 106 (CVI)] _Nova angeletta sovra l'ale accorta_ (madrigale)
+* link:canzoniere-111.html[Canzoniere 111 (CXI)] _La donna che 'l mio cor nel viso porta_ (sonnet)
+* link:canzoniere-121.html[Canzoniere 121 (CXXI)] _Or vedi, Amor, che giovenetta donna_ (madrigale)
+* link:canzoniere-124.html[Canzoniere 124 (CXXIV)] _Amor, Fortuna et la mia mente, schiva_ (sonnet)
+* link:canzoniere-126.html[Canzoniere 126 (CXXVI)] _Chiare, fresche et dolci acque_ (canzone)
+* link:canzoniere-127.html[Canzoniere 127 (CXXVII)] _In quella parte dove Amor mi sprona_ (canzone)
+* link:canzoniere-128.html[Canzoniere 128 (CXXVIII)] _Italia mia, benché 'l parlar sia indarno_ (canzone)
+* link:canzoniere-129.html[Canzoniere 129 (CXXIX)] _Di pensier in pensier, di monte in monte_ (canzone)
+* link:canzoniere-131.html[Canzoniere 131 (CXXXI)] _Io canterei d'amor sì novamente_ (sonnet)
+* link:canzoniere-133.html[Canzoniere 133 (CXXXIII)] _Amor m'à posto come segno a strale_ (sonnet)
+* link:canzoniere-142.html[Canzoniere 142 (CXLII)] _A la dolce ombra de le belle frondi_ (sestina)
+* link:canzoniere-150.html[Canzoniere 150 (CL)] _- Che fai alma? che pensi? avrem mai pace?_ (sonnet)
+* link:canzoniere-156.html[Canzoniere 156 (CLVI)] _I' vidi in terra angelici costumi_ (sonnet)
+* link:canzoniere-158.html[Canzoniere 158 (CLVIII)] _Ove ch'i' posi gli occhi lassi o giri_ (sonnet)
+* link:canzoniere-159.html[Canzoniere 159 (CLIX)] _In qual parte del ciel, in quale idea_ (sonnet)
+* link:canzoniere-164.html[Canzoniere 164 (CLXIV)] _Or che 'l ciel et la terra e 'l vento tace_ (sonnet)
+* link:canzoniere-167.html[Canzoniere 167 (CLXVII)] _Quando Amor i belli occhi a terra inchina_ (sonnet)
+* link:canzoniere-169.html[Canzoniere 169 (CLXIX)] _Pien d'un vago penser che me desvia_ (sonnet)
+* link:canzoniere-170.html[Canzoniere 170 (CLXX)] _Piú volte già dal bel sembiante humano_ (sonnet)
+* link:canzoniere-171.html[Canzoniere 171 (CLXXI)] _Giunto m'à Amor fra belle et crude braccia_ (sonnet)
+* link:canzoniere-172.html[Canzoniere 172 (CLXXII)] _O Invidia nimica di vertute_ (sonnet)
+* link:canzoniere-174.html[Canzoniere 174 (CLXXIV)] _Fera stella (se 'l cielo a forza in noi_ (sonnet)
+* link:canzoniere-189.html[Canzoniere 189 (CLXXXIX)] _Passa la nave mia colma d'oblio_ (sonnet)
+* link:canzoniere-195.html[Canzoniere 195 (CXCV)] _Di dì in dì vo cangiando il viso e 'l pelo_ (sonnet)
+* link:canzoniere-196.html[Canzoniere 196 (CXCVI)] _L'aura serena che fra verdi fronde_ (sonnet)
+* link:canzoniere-199.html[Canzoniere 199 (CXCIX)] _O bella man, che mi destringi 'l core_ (sonnet)
+* link:canzoniere-203.html[Canzoniere 203 (CCIII)] _Lasso, ch'i' ardo, et altri non me 'l crede_ (sonnet)
+* link:canzoniere-207.html[Canzoniere 207 (CCVII)] _Ben mi credea passar mio tempo omai_ (canzone)
+* link:canzoniere-209.html[Canzoniere 209 (CCIX)] _I dolci colli ov'io lasciai me stesso_ (sonnet)
+* link:canzoniere-213.html[Canzoniere 213 (CCXIII)] _Grazie ch'a pochi il ciel largo destina_ (sonnet)
+* link:canzoniere-214.html[Canzoniere 214 (CCXIV)] _Anzi tre dì creata era alma in parte_ (sestina)
+* link:canzoniere-216.html[Canzoniere 216 (CCXVI)] _Tutto 'l dì piango; et poi la notte, quando_ (sonnet)
+* link:canzoniere-220.html[Canzoniere 220 (CCXX)] _Onde tolse Amor l'oro, et di qual vena_ (sonnet)
+* link:canzoniere-222.html[Canzoniere 222 (CCXXII)] _- Liete et pensose, accompagnate et sole_ (sonnet)
+* link:canzoniere-229.html[Canzoniere 229 (CCXXIX)] _Cantai, or piango, et non men di dolcezza_ (sonnet)
+* link:canzoniere-230.html[Canzoniere 230 (CCXXX)] _I' piansi, or canto, ché 'l celeste lume_ (sonnet)
+* link:canzoniere-235.html[Canzoniere 235 (CCXXXV)] _Lasso, Amor mi trasporta ov'io non voglio_ (sonnet)
+* link:canzoniere-237.html[Canzoniere 237 (CCXXXVII)] _Non a tanti animali il mar fra l'onde_ (sestina)
+* link:canzoniere-239.html[Canzoniere 239 (CCXXXIX)] _Là ver' l'aurora, che sì dolce l'aura_ (sestina)
+* link:canzoniere-241.html[Canzoniere 241 (CCXLI)] _L'alto signor dinanzi a cui non vale_ (sonnet)
+* link:canzoniere-245.html[Canzoniere 245 (CCXLV)] _Due rose fresche, et colte in paradiso_ (sonnet)
+* link:canzoniere-246.html[Canzoniere 246 (CCXLVI)] _L'aura che 'l verde lauro et l'aureo crine_ (sonnet)
+* link:canzoniere-265.html[Canzoniere 265 (CCLXV)] _Aspro core et selvaggio, et cruda voglia_ (sonnet)
+* link:canzoniere-266.html[Canzoniere 266 (CCLXVI)] _Signor mio caro, ogni pensier mi tira_ (sonnet)
+* link:canzoniere-267.html[Canzoniere 267 (CCLXVII)] _Oimè il bel viso, oimè il soave sguardo_ (sonnet)
+* link:canzoniere-273.html[Canzoniere 273 (CCLXXIII)] _Che fai? Che pensi? che pur dietro guardi_ (sonnet)
+* link:canzoniere-274.html[Canzoniere 274 (CCLXXIV)] _Datemi pace, o duri miei pensieri_ (sonnet)
+* link:canzoniere-301.html[Canzoniere 301 (CCCI)] _Valle che de' lamenti miei se' piena_ (sonnet)
+* link:canzoniere-304.html[Canzoniere 304 (CCCIV)] _Mentre che 'l cor dagli amorosi vermi_ (sonnet)
+* link:canzoniere-310.html[Canzoniere 310 (CCCX)] _Zephiro torna, e 'l bel tempo rimena_ (sonnet)
+* link:canzoniere-311.html[Canzoniere 311 (CCCXI)] _Quel rosignol, che sì soave piagne_ (sonnet)
+* link:canzoniere-320.html[Canzoniere 320 (CCCXX)] _Sento l'aura mia anticha, e i dolci colli_ (sonnet)
+* link:canzoniere-324.html[Canzoniere 324 (CCCXXIV)] _Amor, quando fioria_ (ballata mezzana)
+* link:canzoniere-332.html[Canzoniere 332 (CCCXXXII)] _Mia benigna fortuna e 'l viver lieto_ (sestina)
+* link:canzoniere-338.html[Canzoniere 338 (CCCXXXVIII)] _Lasciato ài, Morte, senza sole il mondo_ (sonnet)
+* link:canzoniere-342.html[Canzoniere 342 (CCCXLII)] _Del cibo onde 'l signor mio sempre abonda_ (sonnet)
+* link:canzoniere-353.html[Canzoniere 353 (CCCLIII)] _Vago augelletto che cantando vai_ (sonnet)
+* link:canzoniere-356.html[Canzoniere 356 (CCCLVI)] _L'aura mia sacra al mio stanco riposo_ (sonnet)
+* link:canzoniere-359.html[Canzoniere 359 (CCCLIX)] _Quando il soave mio fido conforto_ (canzone)
+* link:canzoniere-365.html[Canzoniere 365 (CCCLXV)] _I' vo piangendo i miei passati tempi_ (sonnet)
+* link:canzoniere-366.html[Canzoniere 366 (CCCLXVI)] _Vergin bella, che di sol vestita_ (canzone)

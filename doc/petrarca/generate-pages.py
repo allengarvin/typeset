@@ -42,12 +42,15 @@ def roman(num):
     return "".join([a for a in roman_num(num)])
 
 
+cnt = 0
 class Poem:
     def __init__(self, num):
+        global cnt
         self.number = num
         self.italian = []
         self.english = []
         self.poem_form = None
+        cnt += 1
 
 poems = dict()
 
@@ -70,9 +73,10 @@ def main(args):
                     poems[num].italian.pop()
             num = int(line)
             poems[num] = Poem(num)
-            mark = True
             continue
         if num:
+            if line == "" and len(poems[num].italian) == 0:
+                continue
             poems[num].italian.append(line)
     fd = open("translation.utf8", encoding="utf-8")
     num = None
@@ -81,7 +85,7 @@ def main(args):
         line = line.strip()
         if line == "" and previous == "":
             continue
-        if re.match("^[0-9][0-9]*\\. '", line):
+        if re.match("^[0-9][0-9]*\\. ", line):
             if num:
                 while poems[num].english[-1] == "":
                     poems[num].english.pop()
@@ -103,7 +107,7 @@ def main(args):
     for i in range(1,367):
         fd = open("base/{}.txt".format(i), mode="w", encoding="utf-8")
         fd.write("<center>\n")
-        fd.write("<h2>{}</h2><p>\n".format(poems[i].italian[0]))
+        fd.write("<h2>{}</h2><p>\n".format(poems[i].italian[0].rstrip(",").rstrip(";").rstrip(":")))
         fd.write("<h3>Canzoniere #{} ({})</h3><p>\n".format(i, roman(i)))
         fd.write("Poetic form: {}".format(poems[i].poem_form))
         fd.write("</center><br>\n")
@@ -137,7 +141,8 @@ def main(args):
                 fd.write("    {}<br />\n".format(l))
         fd.write("    </td>\n")
         fd.write("  </tr>\n")
-        fd.write("</table>\n")
+        fd.write("</table><p>\n")
+        fd.write("<hr /><br>All translations copyrighted by A.S. Kline, and are used with explicit permission.<p>")
 
 #        groupings = [x for x in groupings if x]
 #        if i in [52, 54, 106, 121]:
