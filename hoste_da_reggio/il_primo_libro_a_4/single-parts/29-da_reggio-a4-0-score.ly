@@ -17,7 +17,7 @@
     shorttitle = "ingiustissimo_amor_perche_si_raro"
     shortcomp = "da_reggio"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso,} Canto II ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto II ottava 1 }
 
     % Unchanging:
     language = "italian"

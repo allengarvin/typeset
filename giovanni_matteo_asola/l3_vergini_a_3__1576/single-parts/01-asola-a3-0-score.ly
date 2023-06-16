@@ -10,11 +10,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Virgine bella"
+    title = "Vergine bella"
     subtitle = ""
-    instrument = "Virgine bella:  (score)"
+    instrument = "Vergine bella:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "virgine_bella"
+    shorttitle = "vergine_bella"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
     shortcomp = "asola"
     needtranslation = #'f
@@ -94,7 +94,7 @@
                 \line { e tu del ciel regina.  }
             }
             \column {
-                \line { Lovely Virgin, who, clothed in glory, }
+                \line { Lovely Vergin, who, clothed in glory, }
                 \line { crowned with stars, so pleased }
                 \line { the high Sun, that he hid his light in you, }
                 \line { love urges me to speak of you: }
@@ -103,7 +103,7 @@
                 \line { \vspace #1 }
                 \line { I call on her who always replies truly }
                 \line { to those who call to her with faith: }
-                \line { Virgin, if the final }
+                \line { Vergin, if the final }
                 \line { misery of human life can forever }
                 \line { turn to you for mercy, bow down to hear my prayer, }
                 \line { and help me in this, my war, }

@@ -83,7 +83,7 @@
                 \line { Per affogarsi si spiccò dal lido: } 
                 \line { Pur al fin si levò da mirar l’acque, } 
                 \line { E ritornò dove la notte giacque. } 
-                \line { \hspace #12 Canto X, ottava 26 }
+                \line { \hspace #12 canto X, ottava 26 }
             }
             \column {
                 \line { But the loud wind which, sweeping ocean, bears } 

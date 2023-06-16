@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Io dico e dissi, e dirò fin ch’io viva"
     subtitle = "Seconda parte"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XVI ottava 2 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XVI ottava 2 }
     composer = "Cipriano de Rore (c.1515-1565)"
     instrument = "Io dico e dissi (score)"
     language = "italian"

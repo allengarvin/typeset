@@ -23,6 +23,7 @@
     originally_set = "2019-12-21"
     flats = 0
     final = "d"
+    poeticform = "canzone"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

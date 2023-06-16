@@ -14,7 +14,7 @@
     instrument = "Alcun non può saper (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XIX ottava 1}
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XIX ottava 1}
 
     % Unchanging:
     originallyset = "2015-08-09"

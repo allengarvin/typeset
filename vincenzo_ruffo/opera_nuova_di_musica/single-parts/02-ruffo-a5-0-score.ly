@@ -14,7 +14,7 @@
     instrument = "La verginella (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando furioso} Canto I ottava 42 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 42 }
 
     % Unchanging:
     originallyset = "2014-12-27"

@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Era il bel viso suo, quale esser suole"
     composer = "Giulio Schiavetti (fl.1562-5)"
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso,} Canto XI ottava 65 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XI ottava 65 }
     instrument = "Era il bel viso suo (score)"
     language = "italian"
     needtranslation = #'f

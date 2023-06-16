@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Et oltre al mio destino, io ci fui spinta"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXII ottava 24 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 24 }
     instrument = "Et oltre al mio destino (score)"
     language = "italian"
     needtranslation = #'f

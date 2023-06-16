@@ -24,7 +24,7 @@
     categories = "[madrigal,furioso]"
     needtranslation = #'f
     rhyme = "ABABABCC"
-    folio = \markup { Ludovico Ariosto, \italic {Orlando furioso,} Canto XXXII ottava 23 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 23 }
 
 
     % Unchanging:

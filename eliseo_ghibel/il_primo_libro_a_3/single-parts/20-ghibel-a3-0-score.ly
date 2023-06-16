@@ -83,7 +83,6 @@
                 \line { il peccator, poi ch’alcun dì gli ha indulto, }
                 \line { che se medesmo, senza altrui richiesta, }
                 \line { innavedutamente manifesta. }
-                \line { \hspace #5 Ludovico Ariosto, \italic{Orlando Furioso,} canto VI ottava 1 }
             }
             \column {
                 \line { Wretched that evil man who lives in trust }

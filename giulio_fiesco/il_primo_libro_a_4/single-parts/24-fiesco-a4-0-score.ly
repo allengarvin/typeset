@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Crudel, di che peccato a doler t'hai"
     language = "italian"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXII ottava 40 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 40 }
     instrument = "Crudel, di che peccato (score)"
 
     % Unchanging:

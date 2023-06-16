@@ -15,7 +15,7 @@
     instrument = "La verginella è simile alla rosa:  (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando furioso} Canto I ottava 42 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 42 }
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:

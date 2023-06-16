@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Cantan fra rami gli augelletti vaghi"
     subtitle = "Prima parte"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso}, Canto XXXV ottava 50 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXV ottava 50 }
     source = \markup { \italic { Madrigali a 2 voci da cantar in fuga } (Venice, 1587) }
     composer = "Giovanni Matteo Asola (c.1532-1609)"
     instrument = "Cantan fra rami gli augelletti vaghi (score)"

@@ -14,7 +14,7 @@
     instrument = "Vaghi boschetti (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando furioso} Canto VI ottava 21 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VI ottava 21 }
 
     % Unchanging:
     originallyset = "2014-12-29"

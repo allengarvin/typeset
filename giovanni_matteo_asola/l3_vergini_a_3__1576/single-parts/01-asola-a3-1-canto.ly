@@ -9,9 +9,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Virgine bella"
+    title = "Vergine bella"
     subtitle = ""
-    instrument = "Virgine bella:  (canto)"
+    instrument = "Vergine bella:  (canto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "virgine_bella"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
@@ -19,7 +19,7 @@
 
     % Things that change per part:
     partname = "Canto (part 1 of 3)"
-    instrument = "Virgine bella:  (canto)"
+    instrument = "Vergine bella:  (canto)"
 
     % Unchanging:
     lastupdated = "2020-08-19"

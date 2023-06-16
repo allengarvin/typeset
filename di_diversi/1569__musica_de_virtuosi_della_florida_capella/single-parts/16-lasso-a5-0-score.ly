@@ -17,7 +17,7 @@
     shorttitle = "pensier_dicea_che’l_cor_m’aggiacci_et_ardi"
     shortcomp = "lasso"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando furioso} Canto I ottava 41 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 41 }
     composer = "Orlando di Lasso (c.1532-1594)"
 
     % Unchanging:

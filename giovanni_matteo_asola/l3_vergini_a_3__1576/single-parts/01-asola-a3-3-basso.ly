@@ -10,16 +10,16 @@
 #(set-global-staff-size 19.5)
 \header {
     % Things that change per piece:
-    title = "Virgine bella"
+    title = "Vergine bella"
     subtitle = ""
-    instrument = "Virgine bella:  (basso)"
+    instrument = "Vergine bella:  (basso)"
     shorttitle = "virgine_bella"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
     shortcomp = "asola"
 
     % Things that change per part:
     partname = "Basso (part 3 of 3)"
-    instrument = "Virgine bella:  (basso)"
+    instrument = "Vergine bella:  (basso)"
 
     % Unchanging:
     lastupdated = "2020-08-19"

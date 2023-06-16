@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Ma poi che’l mio destino iniquo e duro"
     subtitle = "Terza stanza"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 79 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 79 }
     instrument = "Ma poi che’l mio destino (score)"
     language = "italian"
     needtranslation = #'f

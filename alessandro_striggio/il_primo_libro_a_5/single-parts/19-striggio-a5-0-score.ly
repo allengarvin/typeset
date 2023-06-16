@@ -14,7 +14,7 @@
     instrument = "Era il bel viso suo (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludivico Ariosto, \italic { Orlando Furioso, } Canto XI ottava 65 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XI ottava 65 }
 
     % Unchanging:
     originallyset = "2014-12-30"

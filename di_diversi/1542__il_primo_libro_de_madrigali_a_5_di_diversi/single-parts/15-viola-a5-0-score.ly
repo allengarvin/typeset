@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Ingiustissimo Amor, perché sì raro"
     composer = "Alfonso dalla Viola (c.1508-c.1573)"
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso,} Canto II ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto II ottava 1 }
     instrument = "Ingiustissimo Amor (score)"
     language = "italian"
     needtranslation = #'f

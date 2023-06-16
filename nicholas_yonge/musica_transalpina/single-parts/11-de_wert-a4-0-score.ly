@@ -15,7 +15,7 @@
     needtranslation = #'f
     subtitle = "Chi salira per me madonna in cielo"
     composer = "Giaches de Wert (1535-1596)"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXV ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXV ottava 1 }
 
     instrument = "Who will ascend to heaven? (cantus)"
 

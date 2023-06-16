@@ -83,7 +83,7 @@
                 \line { dal ciel cader: né qui finisce il male; }
                 \line { che le rimette, e di nuovo arde: ond’io }
                 \line { non ho mai fine al precipizio mio. }
-                \line { \hspace #12 Canto XXXII, ottava 21 }
+                \line { \hspace #12 canto XXXII, ottava 21 }
             }
             \column {
                 \line { But, woe is me, alas! and, what can I }

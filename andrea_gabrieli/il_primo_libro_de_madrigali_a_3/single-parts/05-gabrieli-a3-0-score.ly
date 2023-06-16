@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Dunque baciar sì belle e dolce labbia"
     subtitle = "Prima stanza"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXVI ottava 32 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXVI ottava 32 }
     instrument = "Dunque baciar (score)"
     language = "italian"
     needtranslation = #'f

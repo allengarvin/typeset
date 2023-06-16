@@ -13,7 +13,7 @@
     title = "Ingiustissimo Amor"
     subtitle = ""
     instrument = "Ingiustissimo Amor:  (score)"
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso,} Canto II ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto II ottava 1 }
     headerspace = \markup { \vspace #2 }
     shorttitle = "ingiustissimo_amor"
     shortcomp = "paien"

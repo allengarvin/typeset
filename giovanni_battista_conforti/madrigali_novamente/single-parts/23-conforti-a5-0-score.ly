@@ -19,7 +19,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "dunque_baciar"
     shortcomp = "conforti"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXVI ottava 32 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXVI ottava 32 }
     final = "c"
     flats = 0
     categories = "[furioso,madrigal]"

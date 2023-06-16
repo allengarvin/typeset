@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Zerbin la debol voce riforzando"
     subtitle = "Sesta stanza"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 83 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 83 }
     instrument = "Zerbin la debol (score)"
     language = "italian"
     needtranslation = #'f

@@ -83,7 +83,7 @@
                 \line { giorno ch’al mondo generata fui! }
                 \line { Che debbo far? che poss’io far qui sola? }
                 \line { chi mi dà aiuto? ohimè, chi mi consola? }
-                \line { \hspace #12 Canto X, ottava 27 }
+                \line { \hspace #12 canto X, ottava 27 }
             }
             \column {
                 \line { Stretched on the bed, upon her face she lay, }

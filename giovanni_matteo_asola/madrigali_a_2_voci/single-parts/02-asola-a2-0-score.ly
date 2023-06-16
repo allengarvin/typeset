@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "E quella a fiori a pomi a la verdura"
     subtitle = "Seconda parte"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso}, Canto XXXV ottava 51 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXV ottava 51 }
     source = \markup { \italic { Madrigali a 2 voci da cantar in fuga } (Venice, 1587) }
     composer = "Giovanni Matteo Asola (c.1532-1609)"
     instrument = "E quella a fiori a pomi a la verdura (score)"

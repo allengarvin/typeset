@@ -83,7 +83,7 @@
                 \line { Che porti il corpo, poi che porta l’alma. }
                 \line { E con le braccia e con le vesti segno }
                 \line { Fa tuttavia, perché ritorni il legno.  }
-                \line { \hspace #12 Canto X, ottava 25 }
+                \line { \hspace #12 canto X, ottava 25 }
             }
             \column {
                 \line { Where unavailing was the feeble note, }

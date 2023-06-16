@@ -83,7 +83,7 @@
                 \line { Il fior ch’intatto io mi venia serbando } 
                 \line { Per non turbarti, ohimè! l’animo casto, } 
                 \line { Ohimè! per forza avranno colto e guasto. } 
-                \line { \hspace #12 Canto VIII, ottava 77 }
+                \line { \hspace #12 canto VIII, ottava 77 }
             }
             \column {
                 \line { My hope, where are thou, where? In doleful wise } 

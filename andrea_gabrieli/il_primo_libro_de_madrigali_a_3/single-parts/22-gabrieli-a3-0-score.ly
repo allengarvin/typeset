@@ -82,7 +82,7 @@
                 \line { L’acqua, la terra al suo favor s’inchina: } 
                 \line { Gioveni vaghi e donne inamorate } 
                 \line { Amano averne e seni e tempie ornate. } 
-                \line { \hspace #12 Canto I, ottava 42 }
+                \line { \hspace #12 canto I, ottava 42 }
             }
             \column {
                 \line { The virgin has her image in the rose }

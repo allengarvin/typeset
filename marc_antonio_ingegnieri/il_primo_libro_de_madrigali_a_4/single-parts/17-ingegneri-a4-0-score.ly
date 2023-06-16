@@ -15,7 +15,7 @@
     instrument = "Come la notte ogni fiammella è viva:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "come_la_notte_ogni_fiammella_e_viva"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XLV ottava 37}
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLV ottava 37}
     shortcomp = "ingegneri"
     needtranslation = #'f
 

@@ -83,7 +83,7 @@
                 \line { atto a piegar la sua voglia proterva, }
                 \line { da me s’asconde, come aspide suole, }
                 \line { che, per star empio, il canto udir non vuole. }
-                \line { \hspace #12 Canto XXXII, ottava 19 }
+                \line { \hspace #12 canto XXXII, ottava 19 }
             }
             \column {
                 \line { Proud youth! he knows my worship and my love, }

@@ -17,7 +17,7 @@
     shorttitle = "sun_medesimo_ardor_sun_disir_pare"
     shortcomp = "nasco"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando furioso} Canto IV ottava 66 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto IV ottava 66 }
 
     % Unchanging:
     language = "italian"

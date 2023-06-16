@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Sopra il sanguigno corpo s’abbandona"
     subtitle = "Ultima stanza"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 86 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 86 }
     instrument = "Sopra il sanguigno (score)"
     language = "italian"
     needtranslation = #'f

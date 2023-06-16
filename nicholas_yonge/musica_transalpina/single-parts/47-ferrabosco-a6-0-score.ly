@@ -13,7 +13,7 @@
     title = "These that bee certaine signes"
     subtitle = "Questi ch'indizio"
     composer = "Alfonso Ferrabosco, Sr. (1543-1588)"
-    folio = \markup { Ludovico Ariosto, \italic { Orlando Furioso } Cantus XXIII ottava 127 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 127 }
     instrument = "These that be certain signs (score)"
     language = "english"
 

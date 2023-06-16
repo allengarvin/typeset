@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Se tu m’occidi, è ben ragion che deggi"
     subtitle = "Seconda stanza"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXVI ottava 33 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXVI ottava 33 }
     instrument = "Se tu m’occidi (score)"
     language = "italian"
     needtranslation = #'f

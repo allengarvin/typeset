@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "A questo la mestissima Issabella"
     subtitle = "Quarta stanza"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 80 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 80 }
     instrument = "A questo la mestissima (score)"
     language = "italian"
     needtranslation = #'f

@@ -91,7 +91,6 @@
                 \line { una tigre crudel fatta clemente. }
                 \line { Sospirando piangea, tal ch’un ruscello }
                 \line { parean le guancie, e ’l petto un Mongibello. }
-                \line { \hspace #5 Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 40 }
             }
             \column {
                 \line { Pensive, above an hour, with drooping head, }

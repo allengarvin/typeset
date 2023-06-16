@@ -14,7 +14,7 @@
     instrument = "La verginella (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando furioso} Canto I ottava 42 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 42 }
 
     % Unchanging:
     originallyset = "2016-06-18"
@@ -90,7 +90,6 @@
                 \line { l’acqua, la terra al suo favor s’inchina: }
                 \line { gioveni vaghi e donne inamorate }
                 \line { amano averne e seni e tempie ornate. }
-                \line { \hspace #10 Ludovico Ariosto, \italic{Orlando Furioso,} Canto I ottava 42 }
             }
             \column {
                 \line { The virgin has her image in the rose } 

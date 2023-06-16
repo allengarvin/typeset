@@ -14,7 +14,7 @@
     subtitle = ""
     instrument = "Vaghi boschetti di soavi allori:  (score)"
     headerspace = \markup { \vspace #2 }
-    folio = \markup { Ludovico Ariosto, \italic{Orlando furioso} Canto VI ottava 21 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VI ottava 21 }
 
     shorttitle = "vaghi_boschetti_di_soavi_allori"
     shortcomp = "ingegneri"

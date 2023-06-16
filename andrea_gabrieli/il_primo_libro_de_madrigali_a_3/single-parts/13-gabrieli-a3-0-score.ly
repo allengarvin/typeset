@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Non credo che quest’ultime parole"
     subtitle = "Settima stanza"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 85 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 85 }
     instrument = "Non credo (score)"
     language = "italian"
     needtranslation = #'f

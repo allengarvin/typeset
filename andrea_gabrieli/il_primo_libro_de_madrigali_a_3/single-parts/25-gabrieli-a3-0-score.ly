@@ -83,7 +83,7 @@
                 \line { ch’in te con prieghi mai pietà si metta; } 
                 \line { che ti diletti, anzi ti pasci e vivi } 
                 \line { di trar dagli occhi lacrimosi rivi! } 
-                \line { \hspace #12 Canto XXXII, ottava 20 }
+                \line { \hspace #12 canto XXXII, ottava 20 }
             }
             \column {
                 \line { Ah! Love, arrest this wight who runs so free, } 

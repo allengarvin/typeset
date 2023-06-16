@@ -23,7 +23,7 @@
     shortcomp = "ruffo"
     categories = "[madrigal,furioso]"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic { Orlando Furioso } Canto XXVII ottava 117 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXVII ottava 117 }
 
     % Unchanging:
     language = "italian"

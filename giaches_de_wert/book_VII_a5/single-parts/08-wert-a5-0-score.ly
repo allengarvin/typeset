@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Vaghi boschetti di soavi allori"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando furioso,} Canto VI ottava 21 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VI ottava 21 }
     instrument = "Vaghi boschetti di soavi allori (score)"
     language = "italian"
     needtranslation = #'f

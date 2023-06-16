@@ -83,7 +83,7 @@
                 \line { la vita, e l’alma disperata danno. – }
                 \line { Così, piangendo forte e sospirando, }
                 \line { seco dicea l’addolorato Orlando. }
-                \line { \hspace #12 Canto VIII, ottava 78 }
+                \line { \hspace #12 canto VIII, ottava 78 }
             }
             \column {
                 \line { If this fair flower be plucked, oh, misery! oh, }

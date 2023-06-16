@@ -15,7 +15,7 @@
     language = "english"
     needtranslation = #'f
     composer = "Noë Faignient (fl.c.1560-1600)"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIII ottava 127 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 127 }
 
     instrument = "These that be certain signs (cantus)"
 

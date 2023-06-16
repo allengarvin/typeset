@@ -75,9 +75,10 @@ tenorI = \relative c {
         r1 r2 g | a1 g | c1. b4 a | g1 c2 d |
 
     e1. d2 | c b4 a b1 | a r2 c | b g a2. b4 | c2 b a1 | g a2 c ~ |
-        c4 b a1 g2 | r2 c1 b2 | c1 
+                    % vv inserting at Ulrich Alper's suggestion
+        c4 b a1 g2 | \bracketify r1 r2 c2 ~ | c b2 c1  |
 
-    g1 | r2 a g2. f4 | e d a'1 g2 | f1 e ~ e\longa*1/2
+    g1 r2 a | g2. f4 e d a'2 ~ | a g2 f1 | e\longa*1/2
     \bar "|."
 }
 
@@ -103,8 +104,9 @@ bassavoxI = \relative c {
     e1 | r2 a, c2. d4 | e d c b a2. b4 | c2 b c g | r2 c1 d2 | f1 e | 
         r2 a g4 f e d | e1 a, | r2 e' c d | e1
 
-    a,2 e' ~ | e4 d c2 b1 | a r2 e' | c a e'1 | a, r2 c ~ | 
-        c4 d c2 a c | d1 a~a\longa*1/2
+                            % vvvvvvv inserted at Ulrich Alpers' suggestion
+    a,2 e' ~ | e4 d c2 b1 | a \bracketify r1 | r2 e' c a | e'1 a, | 
+        r2 c2. d4 c2 | a c d1 | a\longa*1/2
     \bar "|."
 }
 

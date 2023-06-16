@@ -14,7 +14,7 @@
     instrument = "Tra le purpuree rose (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando furioso} Canto VI ottava 22 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VI ottava 22 }
 
     % Unchanging:
     originallyset = "2015-07-12"

@@ -15,7 +15,7 @@
     instrument = "L’ineffabil bontà del Redentore:  (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic { Orlando Furioso, } Canto XLIII ottava 62 } 
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLIII ottava 62 } 
 
     % Unchanging:
     lastupdated = "2019-07-02"

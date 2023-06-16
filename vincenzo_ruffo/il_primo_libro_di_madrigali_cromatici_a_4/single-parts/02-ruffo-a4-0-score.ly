@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Ingiustissimo Amor, perché sì raro"
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso,} Canto II ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto II ottava 1 }
 
     instrument = "Ingiustissimo Amor (score)"
     language = "italian"

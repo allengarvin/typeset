@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Cantan fra i rami gli augelletti vaghi"
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso,} Canto XXXV ottava 50 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXV ottava 50 }
 
     instrument = "Cantan fra i rami (score)"
     language = "italian"

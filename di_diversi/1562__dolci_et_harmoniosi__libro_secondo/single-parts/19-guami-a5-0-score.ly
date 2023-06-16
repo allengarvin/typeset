@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Gravi pene in amor si provan molte"
     composer = "Gioseffo Guami (1542-1611)"
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso,} Canto XVI ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XVI ottava 1 }
     instrument = "Gravi pene in amor (score)"
     language = "italian"
     needtranslation = #'f

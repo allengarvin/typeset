@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Deh, dove senza me, dolce mia vita"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto VIII ottava 76 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 76 }
 
     % Things that change per part:
     instrument = "Deh, dove senza me (score)"
@@ -92,7 +92,6 @@
                 \line { si va lagnando in questa parte e in quella; }
                 \line { tanto che ’l lupo l’ode da lontano, }
                 \line { e ’l misero pastor ne piagne invano. }
-                \line { \hspace #10 Ludovico Ariosto, \italic{Orlando Furioso,} Canto VIII ottava 76 }
             }
             \column {
                 \line { Without me, my sweet life, beshrew me, where }

@@ -14,7 +14,7 @@
     instrument = "Come la notte (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XLV ottava 37}
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLV ottava 37}
 
     % Unchanging:
     originallyset = "2015-08-08"

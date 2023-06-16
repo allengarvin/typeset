@@ -14,7 +14,7 @@
     instrument = "Queste non son più lacrime (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso } Canto XXIII ottava 126 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 126 }
 
     % Unchanging:
     originallyset = "2013-09-18"

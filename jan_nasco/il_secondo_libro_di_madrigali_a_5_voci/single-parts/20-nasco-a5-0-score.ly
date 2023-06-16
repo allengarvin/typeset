@@ -15,7 +15,7 @@
     instrument = "E di pregare ogni signore amante:  (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIII ottava 109 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 109 }
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:

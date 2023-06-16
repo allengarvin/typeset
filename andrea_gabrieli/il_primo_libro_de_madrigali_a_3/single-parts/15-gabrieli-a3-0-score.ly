@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Il dolce sonno mi promise pace"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXIII ottava 63 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXIII ottava 63 }
     instrument = "Il dolce sonno (score)"
     language = "italian"
     needtranslation = #'f
@@ -82,7 +82,7 @@
                 \line { non oda o vegga mai più vero in terra: }
                 \line { se ’l dormir mi dà gaudio, e il veggiar guai, }
                 \line { possa io dormir senza destarmi mai. }
-                \line { \italic { Orlando Furioso } XXXIII 63 }
+                \line { \italic{Orlando Furioso,} XXXIII 63 }
             }
             \column {
                 \line { Sweet sleep with promised peace my soul did buoy, }

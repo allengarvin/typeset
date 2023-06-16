@@ -83,7 +83,7 @@
                 \line { Si va lagnando in questa parte e in quella; } 
                 \line { Tanto che’l lupo l’ode da lontano, } 
                 \line { E’l misero pastor la piagne invano. } 
-                \line { \hspace #12 Canto VIII, ottava 76 }
+                \line { \hspace #12 canto VIII, ottava 76 }
             }
             \column {
                 \line { Without me, my sweet life, beshrew me, where } 

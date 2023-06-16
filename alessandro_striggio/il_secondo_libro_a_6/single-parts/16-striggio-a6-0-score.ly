@@ -14,7 +14,7 @@
     instrument = "Non rumor di tamburi (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic { Orlando Furioso } Canto XXV ottava 68 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXV ottava 68 }
 
     % Unchanging:
     lastupdated = "2015-12-05"

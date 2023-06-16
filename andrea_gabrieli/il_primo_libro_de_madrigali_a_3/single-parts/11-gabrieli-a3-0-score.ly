@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Di ciò, cor mio, nessun timor vi tocchi"
     subtitle = "Quinta stanza"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 81 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 81 }
     instrument = "Di ciò, cor mio (score)"
     language = "italian"
     needtranslation = #'f

@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Era il bel viso suo"
     subtitle = "Prima parte"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XI ottava 65 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XI ottava 65 }
     composer = "Cipriano de Rore (c.1515-1565)"
     instrument = "Era il bel viso suo (score)"
     language = "italian"

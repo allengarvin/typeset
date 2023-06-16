@@ -90,7 +90,6 @@
                 \line { e dei divini onori arriva al segno, } 
                 \line { quando, servando i suoi senza alcun danno, } 
                 \line { si fa che gl’inimici in rotta vanno. } 
-                \line { \hspace #5 Ludovico Ariosto, \italic{Orlando Furioso,} canto XV ottava 1 }
             }
             \column {
                 \line { Though Conquest fruit of skill or fortune be, } 

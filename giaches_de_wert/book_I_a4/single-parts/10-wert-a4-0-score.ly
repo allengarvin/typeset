@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Se tu m'occidi, e ben ragion che deggi"
     subtitle = "Seconda parte"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXVI ottava 33 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXVI ottava 33 }
     source = \markup { \italic { Il primo libro de madrigali a 4 voci } (Venice, 1561) }
     composer = "Giaches de Wert (1535-1596)"
     instrument = "Se tu m'occidi (score)"

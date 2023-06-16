@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Alcun non può saper da chi sia amato"
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso,} Canto XIX ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XIX ottava 1 }
 
     instrument = "Alcun non può saper (score)"
     language = "italian"

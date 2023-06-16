@@ -23,7 +23,7 @@
     shortcomp = "lasso"
     categories = "[madrigal,furioso]"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso,} Canto VII ottava 11 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VII ottava 11 }
 
 
     % Unchanging:

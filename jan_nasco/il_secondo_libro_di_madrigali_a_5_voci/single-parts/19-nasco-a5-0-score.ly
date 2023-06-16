@@ -15,7 +15,7 @@
     instrument = "Liete piante, verdi erbe, limpide acque:  (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIII ottava 108 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 108 }
 
     headerspace = \markup { \vspace #2 }
 

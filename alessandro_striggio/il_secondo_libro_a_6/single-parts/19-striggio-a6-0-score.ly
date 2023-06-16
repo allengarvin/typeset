@@ -15,7 +15,7 @@
     instrument = "Hor se mi mostra (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic { Orlando Furioso } Canto XLVI ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLVI ottava 1 }
 
     % Unchanging:
     originallyset = "2013-05-15"

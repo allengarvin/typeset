@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Questi ch’indizio fan del mio tormento"
-    folio = \markup { Ludovico Ariosto, \italic { Orlando furioso, } Canto XXIII ottava 127 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 127 }
     instrument = "Questi ch’indizio (score)"
     language = "italian"
     needtranslation = #'f

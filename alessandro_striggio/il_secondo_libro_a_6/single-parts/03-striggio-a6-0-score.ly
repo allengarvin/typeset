@@ -14,7 +14,7 @@
     instrument = "Questi ch'indizio (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic { Orlando Furioso } Canto XXIII ottava 127 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 127 }
 
     % Unchanging:
     originallyset = "2013-06-08"

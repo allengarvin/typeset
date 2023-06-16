@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Chi mette il piè su l’amorosa pania"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 1 }
 
     % Things that change per part:
     instrument = "Chi mette il piè (score)"
@@ -92,7 +92,6 @@
                 \line { suo furor mostra a qualche altro segnale } 
                 \line { E quale è di pazzia segno più espresso } 
                 \line { che, per altri voler, perder se stesso? } 
-                \line { \hspace #10 Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 1 }
             }
             \column {
                 \line { Let him make haste his feet to disengage, } 

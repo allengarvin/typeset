@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Avorio e gemma ed ogni pietra dura"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XLIV ottava 66 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLIV ottava 66 }
 
     instrument = "Avorio e gemma (score)"
     language = "italian"

@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Questi ch’indizio fan del mio tormento"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso} canto XXIII ottava 127 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 127 }
     instrument = "Questi ch’indizio (score)"
     language = "italian"
     needtranslation = #'f
@@ -98,7 +98,6 @@
                 \line { mentre dibatte intorno al fuoco l’ali. }
                 \line { Amor, con che miracolo lo fai, }
                 \line { che ’n fuoco il tenghi, e nol consumi mai? }
-                \line { \hspace #5 Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 127 }
             }
             \column {
                 \line { No; these, which are the index of my woes, }

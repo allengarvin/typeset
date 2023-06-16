@@ -25,7 +25,7 @@
 
     categories = "[madrigal,furioso]"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic { Orlando Furioso } Canto XXV ottava 68 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXV ottava 68 }
 
     % Unchanging:
     language = "italian"

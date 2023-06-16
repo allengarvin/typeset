@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "E ne la face de begli occhi accende"
     subtitle = "Seconda parte"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XI ottava 66 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XI ottava 66 }
     composer = "Cipriano de Rore (c.1515-1566)"
     instrument = "E ne la face (score)"
     language = "italian"

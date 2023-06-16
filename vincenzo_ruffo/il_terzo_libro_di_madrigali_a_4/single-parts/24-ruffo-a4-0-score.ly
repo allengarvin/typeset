@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "questi_chindizio_fan_del_mio_tormento"
     shortcomp = "ruffo"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso} canto XXIII ottava 127 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 127 }
 
     needtranslation = #'f
 

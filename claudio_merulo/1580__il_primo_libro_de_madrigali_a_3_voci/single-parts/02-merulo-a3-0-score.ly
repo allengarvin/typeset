@@ -85,7 +85,7 @@
                 \line { un che sì stima sue virtù profonde, }
                 \line { che bisogno sarà che dal ciel scenda }
                 \line { immortal dea che ’l cor d’amor gli accenda? }
-                \line { \hspace #12 Canto XXXII, ottava 18 }
+                \line { \hspace #12 canto XXXII, ottava 18 }
             }
             \column {
                 \line { Can it be true? "(she cried)" Shall I be fain }

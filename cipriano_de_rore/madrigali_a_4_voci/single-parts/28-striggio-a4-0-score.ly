@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Gravi pene in amor si provan molte"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XVI ottava 1 }
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XVI ottava 1 }
     composer = "Alessandro Striggio (c.1536-1592)"
     instrument = "Gravi pene in amor (score)"
     language = "italian"
