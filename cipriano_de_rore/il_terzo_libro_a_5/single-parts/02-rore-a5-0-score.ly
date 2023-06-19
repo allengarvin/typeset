@@ -124,6 +124,7 @@
                 \line { in the sweet limbs of your dear Son, }
                 \line { on my uncertain state, }
                 \line { who, without counsel, come to you for counsel. }
+                \line { \hspace #12 A.S. Kline (©2004, used with permission) }
 
            }
         }

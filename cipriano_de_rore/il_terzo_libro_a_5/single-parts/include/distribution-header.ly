@@ -1,5 +1,5 @@
     composer = "Cipriano de Rore (1515/16-1565)"
-    source = \markup { \italic { Il terzo libro de madrigali à 5 voci } (Antonio Gardano press, Venice, 1552) }
+    source = \markup { \italic { Il terzo libro de madrigali di Cipriano a 5 voci } (Antonio Gardano press, Venice, 1552) }
     style = "Renaissance"
     
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?

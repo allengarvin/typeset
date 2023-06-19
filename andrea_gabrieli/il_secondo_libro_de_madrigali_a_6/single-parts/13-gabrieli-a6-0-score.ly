@@ -108,7 +108,8 @@
             }
             \column {
                 % my translation
-                \line { Now that to us returns the new season, }
+                % modified 2023-06-17
+                \line { Now that the new season returns to us, }
                 \line { the birds, the beasts and all the animals }
                 \line { feel the sweet and sharp darts of Cupid; }
                 \line { To only you Love does not strike, of each beast }
