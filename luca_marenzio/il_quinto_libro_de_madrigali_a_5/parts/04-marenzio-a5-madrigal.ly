@@ -1,3 +1,9 @@
+%      O qual grazia senti sopra al tuo colle,
+% patria mia bella, in te mirando, il giorno
+% che meco avea con l'un l'altro mie sole!
+% Poi carco di pensier, quel breve tempo
+% rivolgendo fra me, mi parse un'ombra,
+% ché non vedea la desiata mano.
 cantoIVincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
@@ -6,15 +12,15 @@ cantoIVincipit = \relative c'' {
     c1
 }
 
+% canto: checked against source
 cantoIV = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
     r1 c | cs2 d1 d4 c | b2 g'4 f2 c4 d2 | d4 e4. e8 d4 d2 cs | 
         r4 d d2 r4 d g f | e d
 
-    c2.( b8[ a] b2) | c1 r1 | r4 g' f d e fs g d, ~ | d8[ e] c4 b2 cs1 |
+    c2.( b8[ a] b2) | c1 r1 | r4 g' f d e fs g d ~ | d8[ e] c4 b2 cs1 |
         d d | e c ~ | c2 b b1 | r2 r4 e d4. c8 b4 a | r4 d
 
     e4 f4. f8 f4 e2 | r1 a,4 b4. d8 cs4 | d2 r2 r1 | r4 b c1 d2 | 
@@ -26,6 +32,17 @@ cantoIV = \relative c'' {
 }
 
 cantoLyricsIV = \lyricmode {
+    O qual gra -- zia sen -- ti so -- pra~al tuo col -- le,
+    Pa -- tria mia bel -- la in te,
+        in te mi -- ran -- do~il gior -- no
+    Che me -- co~a -- vea con l'un l'al -- tro mie so -- le!
+    Poi car -- co di __ pen -- sier, quel bre -- ve tem -- po
+    Ri -- vol -- gen -- do fra me,
+        quel bre -- ve tem -- po
+%    ri -- vol -- gen -- do fra me, 
+        mi par -- se~u -- n'om -- bra,
+    Ché non __ ve -- dea la de -- si -- a -- ta ma -- no,
+        la de -- si -- a -- ta ma -- no.
 }
 
 altoIVincipit = \relative c'' {
@@ -36,8 +53,8 @@ altoIVincipit = \relative c'' {
     g\breve
 }
 
+% alto: Checked against source
 altoIV = \relative c'' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -54,6 +71,15 @@ altoIV = \relative c'' {
 }
 
 altoLyricsIV = \lyricmode {
+    O qual gra -- zia sen -- ti so -- pra~al tuo col -- le,
+    Pa -- tria mia bel -- la in te,
+        in te __ mi -- ran -- do~il gior -- no
+    Che me -- co~a -- vea con l'un l'al -- tro mie so -- le!
+    Poi car -- co di __ pen -- sier, quel bre -- ve tem -- po
+    Ri -- vol -- gen -- do fra me, 
+        quel bre -- ve tem -- po
+    ri -- vol -- gen -- do fra me, mi par -- se~u -- n'om -- bra,
+    Ché non __ ve -- dea la de -- si -- a -- ta ma -- no.
 }
 
 tenoreIVincipit = \relative c' {
@@ -64,8 +90,8 @@ tenoreIVincipit = \relative c' {
     e\breve
 }
 
+% tenore: checked against source
 tenoreIV = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -82,6 +108,16 @@ tenoreIV = \relative c' {
 }
 
 tenoreLyricsIV = \lyricmode {
+    O qual gra -- zia sen -- ti so -- pra~al tuo col -- le,
+    Pa -- tria mia bel -- la~in te,
+        in te mi -- ran -- do~il gior -- no
+%    Che me -- co~a -- vea con l'un % 
+        l'al -- tro mie so -- le!
+    Poi car -- co di __ pen -- sier, 
+    Ri -- vol -- gen -- do fra me,
+        quel bre -- ve tem -- po
+    ri -- vol -- gen -- do fra me, mi par -- se~u -- n'om -- bra,
+    Ché non __ ve -- dea la de -- si -- a -- ta ma -- no.
 }
 
 bassoIVincipit = \relative c' {
@@ -92,8 +128,8 @@ bassoIVincipit = \relative c' {
     c2
 }
 
+% basso: checked against source
 bassoIV = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -108,6 +144,15 @@ bassoIV = \relative c' {
 }
 
 bassoLyricsIV = \lyricmode {
+%    O qual gra -- zia sen -- ti so -- pra~al tuo col -- le,
+%    Pa -- tria mia bel -- la~in te,
+%        in te mi -- ran -- do~il gior -- no
+    Che me -- co~a -- vea con l'un l'al -- tro mie so -- le!
+    Poi car -- co di __ pen -- sier, quel bre -- ve tem -- po,
+        quel bre -- ve tem -- po
+    Ri -- vol -- gen -- do fra me, mi par -- se~u -- n'om -- bra,
+    Ché non ve -- dea la de -- si -- a -- ta ma -- no,
+        la de -- si -- a -- ta ma -- no.
 }
 
 quintoIVincipit = \relative c' {
@@ -119,7 +164,6 @@ quintoIVincipit = \relative c' {
 }
 
 quintoIV = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -137,6 +181,15 @@ quintoIV = \relative c' {
 }
 
 quintoLyricsIV = \lyricmode {
+    O qual gra -- zia sen -- ti so -- pra~al tuo col -- le,
+    Pa -- tria mia bel -- la~in te,
+        in te mi -- ran -- do~il gior -- no
+    Che me -- co~a -- vea con l'un % l'al -- tro mie so -- le!
+    Poi __ car -- co __ di pen -- sier, quel bre -- ve tem -- po
+    Ri -- vol -- gen -- do fra me,
+    ri -- vol -- gen -- do fra me, mi par -- se~u -- n'om -- bra,
+    Ché non ve -- dea la de -- si -- a -- ta ma -- no,
+        la de -- si -- a -- ta ma -- no.
 }
 
 cantoIVincipitVoice = <<

@@ -22,7 +22,7 @@
     flats = 1
     final = "d"
     shorttitle = "laura_chel_verde_lauro"
-    categories = "[madrigal]"
+    categories = "[chromatic,madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

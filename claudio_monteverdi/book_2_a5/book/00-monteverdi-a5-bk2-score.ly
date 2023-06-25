@@ -3,7 +3,7 @@
 
 \include "../include/paper-score.ly" 
 \include "../include/global-score.ly" 
-\include "../include/book-layout.ly"
+\include "../include/book-layout-score.ly"
 \include "../include/macros.ly" 
 \include "../include/scheme.ly"
 

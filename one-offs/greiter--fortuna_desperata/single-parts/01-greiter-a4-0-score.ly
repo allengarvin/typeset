@@ -23,6 +23,7 @@
     flats = 1
     final = "bf"
     shorttitle = "passibus_amgiguis_fortuna"
+    categories = "[chromatic]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

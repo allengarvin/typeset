@@ -1,3 +1,13 @@
+%      Ben credo ch'ancor tu sospiri, o sole,
+% pensando a la divina ignuda mano,
+% ché, se ben ti rimembra di quel tempo,
+% ti rincrescea lassar l'amato colle;
+% al fin costretto di portarne il giorno,
+% pien d'ira, il nostro ciel copristi d'ombra.
+% 
+%      Tal ombra giù facea de' rami il sole,
+% il giorno che 'l mio cor beasti, o mano,
+% qual mai colle non vide in alcun tempo.
 cantoVIincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
@@ -6,8 +16,8 @@ cantoVIincipit = \relative c'' {
     e1
 }
 
+% canto: checked against source
 cantoVI = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -24,11 +34,24 @@ cantoVI = \relative c'' {
         fs4 g d1 e4 c | g'1 e2 c4 c | c2 c4 c2 b4 a2 ~ | a a r1 |
 
     d4 b e2 d4 g e fs | g2. e4 d2 a | b4 g c2 b4 d d g, |   
-        d8([ e f g] a4) d, d1 | b\longa*1/2
+        d'8([ e f g] a4) d, d1 | b\longa*1/2
     \bar "|."
 }
 
 cantoLyricsVI = \lyricmode {
+    Ben cre -- do ch'an -- cor tu so -- spi -- ri~o so -- le,
+    Pen -- san -- do~a la di -- vi -- na~i -- gnu -- da ma -- no,
+    Ché, __ se ben ti ri -- mem -- bra,
+        ti ri -- mem -- bra di quel tem -- po,
+    Ti rin -- cre -- scea las -- sar l'a -- ma -- to col -- le;
+    Al fin co -- stret -- to di por -- tar -- ne~il gior -- no,
+    Pien d'i -- ra, il no -- stro ciel __ co -- pri -- sti d'om -- bra.
+
+    Tal om -- bra giù,
+    tal om -- bra giù fa -- cea de' ra -- mi~il so -- le,
+    Il gior -- no che'l mio cor be -- a -- sti~o ma -- no,
+    Qual mai col -- le non vi -- de~in al -- cun tem -- po,
+    qual mai col -- le non vi -- de~in al -- cun tem -- po.
 }
 
 altoVIincipit = \relative c'' {
@@ -39,8 +62,8 @@ altoVIincipit = \relative c'' {
     a1
 }
 
+% alto: checked against source
 altoVI = \relative c'' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -62,6 +85,21 @@ altoVI = \relative c'' {
 }
 
 altoLyricsVI = \lyricmode {
+    Ben cre -- do ch'an -- cor tu so -- spi -- ri~o so -- le,
+        ch'an -- cor tu so -- spi -- ri~o so -- le,
+            o so -- le,
+    Pen -- san -- do % ~a la di -- vi -- na~i -- gnu -- da ma -- no,
+    Ché, __ se ben ti ri -- mem -- bra,
+        ti ri -- mem -- bra di __ quel tem -- po,
+    Ti rin -- cre -- scea las -- sar l'a -- ma -- to col -- le;
+    Al fin co -- stret -- to di por -- tar -- ne~il gior -- no,
+    Pien d'i -- ra, il no -- stro ciel co -- pri -- sti d'om -- bra.
+
+    Tal om -- bra giù,
+    tal om -- bra giù __ fa -- cea de' ra -- mi~il so -- le,
+    Il gior -- no che'l mio cor be -- a -- sti~o ma -- no,
+    Qual mai col -- le non vi -- de~in al -- cun tem -- po,
+        non vi -- de~in al -- cun tem -- po.
 }
 
 tenoreVIincipit = \relative c' {
@@ -72,8 +110,8 @@ tenoreVIincipit = \relative c' {
     e1
 }
 
+% tenore: checked against source
 tenoreVI = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -95,9 +133,28 @@ tenoreVI = \relative c' {
 }
 
 tenoreLyricsVI = \lyricmode {
+    Ben cre -- do ch'an -- cor tu so -- spi -- ri~o so -- le,
+%            so -- spi -- ri,
+            so -- spi -- ri~o so -- le,
+%        ch'an -- cor tu so -- spi -- ri~o so -- le,
+    Pen -- san -- do~a la di -- vi -- na~i -- gnu -- da ma -- no,
+    Ché, se ben ti ri -- mem -- bra,
+    ché, se ben ti ri -- mem -- bra di quel tem -- po,
+    Ti rin -- cre -- scea las -- sar l'a -- ma -- to col -- le;
+    Al fin co -- stret -- to di por -- tar -- ne~il gior -- no,
+    Pien d'i -- ra, il no -- stro ciel co -- pri -- sti d'om -- bra.
+
+    Tal om -- bra,
+    tal om -- bra giù fa -- cea,
+        fa -- cea __ de' ra -- mi~il so -- le,
+    Il gior -- no che'l mio cor be -- a -- sti~o ma -- no,
+    Qual mai col -- le,
+    qual mai col -- le,
+    qual mai col -- le non vi -- de~in al -- cun tem -- po.
+%        non vi -- de~in al -- cun tem -- po.
 }
 
-bassoVIincipit = \relative c {
+bassoVIincipit = \relative c' {
     \clef "petrucci-c4"
     \key c \major
     \time 4/4
@@ -105,8 +162,8 @@ bassoVIincipit = \relative c {
     a1
 }
 
-bassoVI = \relative c {
-    \clef tenor
+% basso: checked against source
+bassoVI = \relative c' {
     \key c \major
     \fourTwoCommonTime
 
@@ -114,7 +171,7 @@ bassoVI = \relative c {
         d4 d, d8([ e f g] a2) a | R\breve | r2 r4 g a f a2 | g g
 
     f1 ~ | f e2 a4 d, | a'4. b8 cs4 d a2 d, | d'2. d4 d2 r4 a8[ b] | 
-        c2 c g2. g4 | g2 r4 d8[ e] f2 f | a e f1 ~ | f c2 r4 c' | a c
+        c2 c g2. g4 | g2 r4 d8[ e] f2 f | a e f1 ~ | f c2 r4 c' | a b
 
     c4 d e4. d8 c4 b | a1 g2 c | c2. c,4 g'2. g4 | g d f g a2 g ~ | g1 r1 |
         r1 r4 c, c8([ d e f] | g4) g r4 d f4. g8 a2 ~ | a4 d c a
@@ -127,6 +184,23 @@ bassoVI = \relative c {
 }
 
 bassoLyricsVI = \lyricmode {
+    Ben cre -- do ch'an -- cor tu so -- spi -- ri~o so -- le,
+                o so -- le,
+%            so -- spi -- ri,
+            so -- spi -- ri~o so -- le,
+    Pen -- san -- do~a la di -- vi -- na~i -- gnu -- da ma -- no,
+    Ché, se ben ti ri -- mem -- bra,
+    ché, se ben ti ri -- mem -- bra di quel tem -- po,
+    Ti rin -- cre -- scea las -- sar l'a -- ma -- to col -- le;
+    Al fin co -- stret -- to di por -- tar -- ne~il gior -- no,
+    Pien d'i -- ra, il no -- stro ciel __ co -- pri -- sti d'om -- bra.
+
+    Tal om -- bra,
+    tal om -- bra giù fa -- cea de' ra -- mi~il so -- le,
+    Il gior -- no che'l mio cor be -- a -- sti~o ma -- no,
+    Qual mai col -- le,
+    qual mai col -- le non vi -- de~in al -- cun tem -- po.
+%        non vi -- de~in al -- cun tem -- po.
 }
 
 quintoVIincipit = \relative c' {
@@ -137,8 +211,8 @@ quintoVIincipit = \relative c' {
     e1
 }
 
+% quinto: checked against source
 quintoVI = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -148,8 +222,8 @@ quintoVI = \relative c' {
     r4 f a2 e4 f e c | g1 c | r2 g' a1 ~ | a g4 e2 d4 | cs4. d8 e4 a a2 a |
         r1 r4 f8[ g] a2 | g r4 e8[ f] g2 g ~ | g f1 c2 | 
 
-    c\breve ~ | c1 c2 r2 | R\breve | r1 r2 e | g r4 e g1 | R\breve*2 |
-        r4 c, g'8([ f e d] c4) c r4 g | b4. b8 d2 r1 | r2 r4 c g' d2 e4 ~ |
+    c\breve ~ | c1 c2 r2 | R\breve | r1 r2 e | g r4 e g1 | R\breve R |
+        r4 c, g'8([ f e d] c4) c r4 g | b4. c8 d2 r1 | r2 r4 c g' d2 e4 ~ |
         e8([ a,] a'4. g16[ f] e4) fs1 | r1
 
     g1 | e2 e r4 e e8([ d e f] | e1) c2 g | a d a1 | a4 e' d1 c4 e |
@@ -160,6 +234,25 @@ quintoVI = \relative c' {
 }
 
 quintoLyricsVI = \lyricmode {
+    Ben cre -- do ch'an -- cor tu so -- spi -- ri~o so -- le,
+            so -- spi -- ri,
+            so -- spi -- ri~o so -- le,
+        ch'an -- cor tu so -- spi -- ri~o so -- le,
+    Pen -- san -- do~a la di -- vi -- na~i -- gnu -- da ma -- no,
+    % Ché, se ben ti ri -- mem -- bra di quel tem -- po,
+        ti ri -- mem -- bra,
+        ti ri -- mem -- bra __ di quel tem -- po,
+    % Ti rin -- cre -- scea las -- sar l'a -- ma -- to col -- le;
+    % Al fin co -- stret -- to di por -- tar -- ne~il gior -- no,
+    Al fin,
+    al fin
+    Pien d'i -- ra, il no -- stro ciel co -- pri -- sti d'om -- bra.
+ 
+    Tal om -- bra,
+    tal om -- bra giù fa -- cea de' ra -- mi~il so -- le,
+    Il gior -- no che'l mio cor % bea -- sti, o ma -- no,
+    Qual mai col -- le non vi -- de~in al -- cun tem -- po,
+        non vi -- de~in al -- cun tem -- po.
 }
 
 cantoVIincipitVoice = <<

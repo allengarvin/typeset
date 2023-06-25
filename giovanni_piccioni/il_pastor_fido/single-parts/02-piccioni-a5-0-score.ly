@@ -19,7 +19,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "udite_lagrimosi_spirti_daverno"
     shortcomp = "piccioni"
-    categories = "[madrigal,morte]"
+    categories = "[madrigal,morte,chromatic]"
     needtranslation = #'f
     final = "a"
     flats = 0

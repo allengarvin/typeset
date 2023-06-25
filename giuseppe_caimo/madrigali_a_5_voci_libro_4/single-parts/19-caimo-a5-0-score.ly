@@ -22,7 +22,7 @@
     flats = 1
     final = "g"
     shorttitle = "e_ben_ragion"
-    categories = "[madrigal]"
+    categories = "[chromatic,madrigal]"
     rhyme = "ABABABBA"
     \include "include/distribution-header.ly"
     tagline = #'f

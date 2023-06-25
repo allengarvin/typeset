@@ -1,4 +1,10 @@
-cantoIIincipit = \relative c'' {
+%      Lasso, vedrò io mai venire il tempo
+% ch'ella a seder m'invite a la bell'ombra,
+% e mi ritenga in quel beato colle
+% dal sorger primo al dipartir del sole,
+% sovente la gentil candida mano
+% vèr me porgendo, come fe' quel giorno?
+cantoIIincipit = \relative c''' {
     \clef "petrucci-g"
     \key c \major
     \time 4/4
@@ -6,8 +12,8 @@ cantoIIincipit = \relative c'' {
     g1
 }
 
-cantoII = \relative c'' {
-    \clef treble
+% canto: checked against source
+cantoII = \relative c''' {
     \key c \major
     \fourTwoCommonTime
 
@@ -15,7 +21,7 @@ cantoII = \relative c'' {
         gs4. gs8 gs4 a b2 b | r2 r4 e2 f 
 
     d4 ~ | d e2 e d g4 ~ | g e e c bf4. bf8 bf4 bf | a1 a2 r2 | 
-        r4 a b c d4. c8 d4 e| fs g2( fs4) g4( f8[ e] d2) | r2 g c, d |
+        r4 a b c d4. c8 d4 e| fs g2 fs4 g4( f8[ e] d2) | r2 g c, d |
 
     e4. d8 e4 f g2 r2 | r4 c, c d e f2 e4 | f2 r4 c c4. d8 e4 c |
         d2 b4. b8 e2 e | e4 a, b c d2 d | r2 e1 b2 | c2. d4 
@@ -29,6 +35,22 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
+    Las -- so, ve -- drò io mai ve -- ni -- re~il tem -- po
+    Ch'el -- l'a se -- der m'in -- vi -- te~a la bel -- l'om -- bra,
+    E mi ri -- ten -- ga,
+    e mi __ ri -- ten -- ga~in quel be -- a -- to col -- le
+    Dal sor -- ger pri -- mo~al di -- par -- tir del so -- le, __
+    dal sor -- ger pri -- mo~al di -- par -- tir,
+        al di -- par -- tir del so -- le,
+    So -- ven -- te la gen -- til can -- di -- da ma -- no
+    Vèr me por -- gen -- do, co -- me fe' quel gior -- no,
+    so -- ven -- te la gen -- til can -- di -- da ma -- no
+    vèr me por -- gen -- do,
+    \ijLyrics
+    vèr me por -- gen -- do,
+    \normalLyrics
+        co -- me fe' quel gior -- no,
+    vèr me por -- gen -- do, co -- me fe' quel gior -- no?
 }
 
 altoIIincipit = \relative c'' {
@@ -39,8 +61,8 @@ altoIIincipit = \relative c'' {
     g1
 }
 
+% alto: checked against source
 altoII = \relative c'' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -61,6 +83,19 @@ altoII = \relative c'' {
 }
 
 altoLyricsII = \lyricmode {
+    Las -- so, ve -- drò io mai ve -- ni -- re~il tem -- po
+    Ch'el -- l'a se -- der m'in -- vi -- te~a la bel -- l'om -- bra,
+    E mi ri -- ten -- ga,
+    e mi ri -- ten -- ga~in quel be -- a -- to col -- le
+    Dal sor -- ger pri -- mo~al di -- par -- tir del so -- le,
+    dal sor -- ger pri -- mo~al di -- par -- tir del so -- le,
+        al di -- par -- tir del so -- le,
+    So -- ven -- te la gen -- til can -- di -- da ma -- no
+    Vèr me por -- gen -- do, co -- me fe' quel gior -- no,
+    so -- ven -- te la gen -- til can -- di -- da ma -- no
+    Vèr me por -- gen -- do,
+    vèr me por -- gen -- do, co -- me fe' __ quel gior -- no,
+    vèr me por -- gen -- do, co -- me fe' quel gior -- no?
 }
 
 tenoreIIincipit = \relative c' {
@@ -71,12 +106,12 @@ tenoreIIincipit = \relative c' {
     d1
 }
 
+% tenore: checked against source
 tenoreII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
-    r2 d1 e2 | g1 a4 e e4. e8 | a4 g d d c2 d | f4 f2 d4 d2 b | 
+    r2 d1 e2 | g1 a4 e e4. e8 | a4 g d d c2 e | f4 f2 d4 d2 b | 
         b4. b8 b4 c d2 d | r4 g2 e
 
     d2 b4 ~ | b c2 g' f d4 ~ | d e2 f4 d4. d8 d4 d | cs1 cs2 r2 | R\breve | 
@@ -93,6 +128,20 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
+    Las -- so,
+    las -- so, ve -- drò io mai ve -- ni -- re~il tem -- po
+    Ch'el -- l'a se -- der m'in -- vi -- te~a la bel -- l'om -- bra,
+    E mi ri -- ten -- ga,
+    e mi ri -- ten -- ga~in quel be -- a -- to col -- le
+    Dal sor -- ger pri -- mo~al di -- par -- tir del so -- le, __
+    So -- ven -- te la gen -- til can -- di -- da ma -- no
+    Vèr me por -- gen -- do, co -- me fe' quel gior -- no,
+    Vèr me por -- gen -- do,
+    \ijLyrics
+    vèr me por -- gen -- do,
+    \normalLyrics
+    vèr me por -- gen -- do, co -- me fe' quel gior -- no,
+    vèr me por -- gen -- do, co -- me fe' quel gior -- no?
 }
 
 bassoIIincipit = \relative c' {
@@ -103,8 +152,8 @@ bassoIIincipit = \relative c' {
     g1
 }
 
+% basso: checked against source
 bassoII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -117,12 +166,23 @@ bassoII = \relative c' {
     r4 c' c d | e f f4.( e16[ d] c4 bf c2) | f,1 r1 | R\breve | r1 r2 r4 g |
         e d c2 c g'4 g | a2 f e1 | d4 d' d4. e8 f4 d c2 ~ | c
 
-    g4. g8 a2 e' | a1 r4 d b a | g2 g r1 | r4 c a g f1 | c r1 | R\breve | 
+    g4. g8 a2 e' | a,1 r4 d b a | g2 g r1 | r4 c a g f1 | c r1 | R\breve | 
         r2 a'1 e2 | f2. g4 a1 ~ | a\breve | d,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsII = \lyricmode {
+    Las -- so,
+    las -- so, ve -- drò io mai ve -- ni -- re~il tem -- po
+    Ch'el -- l'a se -- der m'in -- vi -- te~a la bel -- l'om -- bra,
+    E mi ri -- ten -- ga,
+    e mi ri -- ten -- ga~in quel be -- a -- to col -- le
+    Dal sor -- ger pri -- mo~al di -- par -- tir del so -- le,
+        al di -- par -- tir del so -- le,
+    Vèr me por -- gen -- do, co -- me fe' quel gior -- no,
+    So -- ven -- te la gen -- til __ can -- di -- da ma -- no
+    Vèr me por -- gen -- do,
+    vèr me por -- gen -- do, co -- me fe' quel gior -- no?
 }
 
 quintoIIincipit = \relative c' {
@@ -133,8 +193,8 @@ quintoIIincipit = \relative c' {
     d1
 }
 
+% quinto: checked against source
 quintoII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -153,6 +213,20 @@ quintoII = \relative c' {
 }
 
 quintoLyricsII = \lyricmode {
+    Las -- so,
+    las -- so, ve -- drò io mai ve -- ni -- re~il tem -- po
+    % Ch'el -- l'a se -- der m'in -- vi -- te~a la bel -- l'om -- bra,
+    E mi ri -- ten -- ga,
+    e mi ri -- ten -- ga % in quel be -- a -- to col -- le
+    Dal sor -- ger pri -- mo~al di -- par -- tir del so -- le,
+    dal sor -- ger pri -- mo~al di -- par -- tir del so -- le,
+    So -- ven -- te la gen -- til can -- di -- da ma -- no
+    Vèr me por -- gen -- do, 
+    vèr me por -- gen -- do, 
+
+    so -- ven -- te la gen -- til can -- di -- da ma -- no
+    vèr me por -- gen -- do, co -- me fe' quel gior -- no,
+    vèr me por -- gen -- do, co -- me fe' quel gior -- no?
 }
 
 cantoIIincipitVoice = <<

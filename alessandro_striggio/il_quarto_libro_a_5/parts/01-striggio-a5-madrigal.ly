@@ -55,10 +55,10 @@ cantoI = \relative c'' {
         f g a2 g a | g4 a f g a2
 
     g2 | r4 g g2. g4 a g | g1 e | r2 c'1 c2 | bf2 a1 g2 ~ | 
-        g2 \[ a1( \colorBr g2 \colorBrBegin ~ 
-        g4 \] f8[ e\colorBrEnd ] f2) g2 fs ~ | fs4 fs g2 a1 ~ | a g2 g ~ | g4 g
+        g2 \[ a1\melfi \colorBr g2 \colorBrBegin ~ 
+        g4 \] fs8[ e\colorBrEnd ] fs!2\melfiEnd g2 fs ~ | fs4 fs g2 a1 ~ | a g2 g ~ | g4 g
 
-    e2. d2( c4) | d2 r4 d2 d4 e2 | f1 e | r2 g g1 | a bf2 bf | c1 d2 r4 c |
+    e2. d2\melfi cs4\melfiEnd | d2 r4 d2 d4 e2 | f1 e | r2 g g1 | a bf2 bf | c1 d2 r4 c |
         bf2 a2. g2( fs4) | g2 g
 
     a4 g g2 | g4 g2 f4 f2 d | d1 g | R\breve | r2 a fs4. g8 a2 |
@@ -72,7 +72,7 @@ cantoLyricsI = \lyricmode {
     Me -- ra -- vi -- gli -- ai~ed ar -- si, 
     Tac -- qui, scris -- si e __ spe -- ra -- i.
     Pe -- n'e mar -- ti -- ri~e gua -- i
-    N'eb -- bi, ed al ven -- to spar -- si,
+    N'eb -- bi, ed __ al ven -- to spar -- si,
         ed al ven -- to spar -- si
     So -- spi -- ri~ac -- ce -- si,
     so -- spi -- ri,
@@ -176,8 +176,8 @@ tenoreIincipit = \relative c' {
     g\breve
 }
 
+% tenore: checked against source
 tenoreI = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCutTime
 
@@ -209,33 +209,31 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-%    In -- te -- si, ven -- ni e vi -- di
-%        ven -- ni e vi -- di
-%    Me -- ra -- vi -- gli -- ai~ed ar -- si,
-%    Tac -- qui, scris -- si e spe -- ra -- i.
-%    Pe -- n'e mar -- ti -- ri~e gua -- i
-%    N'eb -- bi, ed al ven -- to spar -- si,
-%        ed al ven -- to spar -- si
-%    So -- spi -- ri~ac -- ce -- si,
-%    so -- spi -- ri,
-%    so -- spi -- ri~ac -- ce -- si,
-%    so -- spi -- ri~ac -- ce -- si e la -- gri -- mo -- si stri -- di.
-%    La fe -- ra ge -- lo -- si -- a
-%    Mi con -- dus -- s'al -- la mor -- te.
-%    Mu -- tai pen -- sie -- r'e sor -- te,
-%    \ijLyrics
-%    mu -- tai pen -- sie -- r'e sor -- te,
-%    \normalLyrics
-%    mu -- tai pen -- sie -- r'e sor -- te
-%    Fi -- ni la pe -- na mi -- a: la -- gri -- me san -- te,
-%        la -- gri -- me san -- te,
-%    \ijLyrics
-%        la -- gri -- me san -- te
-%    \normalLyrics
-%    Al -- lor ch'io ve -- ni me -- no,
-%        ch'io ve -- ni me -- no,
-%    Vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no,
-%    vin -- to dal pian -- to~al -- la mia Don -- na in se -- no.
+    In -- te -- si, ven -- ni e vi -- di
+    Me -- ra -- vi -- gli -- ai~ed ar -- si,
+    Tac -- qui, scris -- si e __ spe -- ra -- i.
+    Pe -- n'e mar -- ti -- ri~e gua -- i
+    N'eb -- bi, __ ed al ven -- to spar -- si,
+        ed al ven -- to spar -- si
+    So -- spi -- ri~ac -- ce -- si,
+    so -- spi -- ri,
+    so -- spi -- ri~ac -- ce -- si e la -- gri -- mo -- si stri -- di.
+    La fe -- ra ge -- lo -- si -- a __
+    Mi __ con -- dus -- s'al -- la mor -- te.
+    Mu -- tai pen -- sie -- r'e sor -- te,
+    mu -- tai pen -- sie -- r'e sor -- te,
+        pen -- sie -- r'e sor -- te
+    Fi -- ni,
+    fi -- ni __ la pe -- na mi -- a: la -- gri -- me san -- te,
+        la -- gri -- me san -- te,
+    \ijLyrics
+        la -- gri -- me san -- te
+    \normalLyrics
+    Al -- lor ch'io ve -- ni me -- no,
+    al -- lor ch'io ve -- ni me -- no,
+    Vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no,
+    vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no,
+    vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no.
 }
 
 bassoIincipit = \relative c {
@@ -246,8 +244,8 @@ bassoIincipit = \relative c {
     g2
 }
 
+% basso: checked against source
 bassoI = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCutTime
 
@@ -267,7 +265,8 @@ bassoI = \relative c {
     c2 g r2 g' | f1. ef2 | d1 c ~ | c d ~ | d g,2 d' ~ | d4 d b2 cs1 | 
         d g,2. g4 | c1 a | d2 g,2. g4 c2 | 
 
-    f,1 c' | r2 f, c' c | f d bf1 | f' r1 | R\breve*3 | r1 c2 b4 c | 
+              % vv f2 to g2
+    f,1 c' | r2 g c c | f d bf1 | f' r1 | R\breve*3 | r1 c2 b4 c | 
         f,2 a d f4 c ~ | c d a2 
 
     d2 d | g,4 f bf2 f bf ~ | bf4 f c' g d'1 | g,\longa*1/2
@@ -277,31 +276,27 @@ bassoI = \relative c {
 bassoLyricsI = \lyricmode {
 %    In -- te -- si, ven -- ni e vi -- di
 %        ven -- ni e vi -- di
-%    Me -- ra -- vi -- gli -- ai~ed ar -- si,
-%    Tac -- qui, scris -- si e spe -- ra -- i.
-%    Pe -- n'e mar -- ti -- ri~e gua -- i
-%    N'eb -- bi, ed al ven -- to spar -- si,
-%        ed al ven -- to spar -- si
-%    So -- spi -- ri~ac -- ce -- si,
-%    so -- spi -- ri,
-%    so -- spi -- ri~ac -- ce -- si,
-%    so -- spi -- ri~ac -- ce -- si e la -- gri -- mo -- si stri -- di.
-%    La fe -- ra ge -- lo -- si -- a
-%    Mi con -- dus -- s'al -- la mor -- te.
-%    Mu -- tai pen -- sie -- r'e sor -- te,
-%    \ijLyrics
-%    mu -- tai pen -- sie -- r'e sor -- te,
-%    \normalLyrics
-%    mu -- tai pen -- sie -- r'e sor -- te
-%    Fi -- ni la pe -- na mi -- a: la -- gri -- me san -- te,
-%        la -- gri -- me san -- te,
-%    \ijLyrics
-%        la -- gri -- me san -- te
-%    \normalLyrics
-%    Al -- lor ch'io ve -- ni me -- no,
-%        ch'io ve -- ni me -- no,
-%    Vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no,
-%    vin -- to dal pian -- to~al -- la mia Don -- na in se -- no.
+%    Me -- ra -- vi -- gli -- ai~
+        Ed ar -- si,
+    Tac -- qui, scris -- si e spe -- ra -- i.
+    Pe -- n'e mar -- ti -- ri~e gua -- i
+    N'eb -- bi, __ ed al ven -- to spar -- si
+    So -- spi -- ri~ac -- ce -- si,
+    so -- spi -- ri,
+    so -- spi -- ri~ac -- ce -- si,
+    so -- spi -- ri~ac -- ce -- si e la -- gri -- mo -- si stri -- di.
+    La fe -- ra ge -- lo -- si -- a,
+    la fe -- ra ge -- lo -- si -- a
+    Mi con -- dus -- s'al -- la mor -- te.
+    Mu -- tai pen -- sie -- r'e sor -- te
+    Fi -- ni la pe -- na __ mi -- a: la -- gri -- me san -- te,
+        la -- gri -- me san -- te,
+    \ijLyrics
+        la -- gri -- me san -- te
+    \normalLyrics
+    Al -- lor ch'io ve -- ni me -- no,
+    Vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no,
+    vin -- to dal pian -- to~al -- la __ mia Don -- n'in se -- no.
 }
 
 quintoIincipit = \relative c' {
@@ -312,8 +307,8 @@ quintoIincipit = \relative c' {
     d2
 }
 
+% quinto: checked against source
 quintoI = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCutTime
 
@@ -324,7 +319,7 @@ quintoI = \relative c' {
         f r4 a2 f4 | a8([ g a bf] c4) f, f4.( e8 d2) | c
 
     r4 c'2 c,4 e8([ d e f] | g4) g d4.( e8 f2) c | r4 c' c c b2 c | 
-        r2 r4 g g g fs2 | g4 e a f g a2 g4 |
+        r2 r4 g g g fs2 | g4 e a f g( a2 g4) |
 
     a2 r4 g c, c g'2 ~ | g g f4.( e8 d2) | a'1 r2 d, | fs g a g | 
         f4.( e8 d2) e d | cs d e4 f e2 | d d1
@@ -339,38 +334,40 @@ quintoI = \relative c' {
         c f,1 bf2 ~ | bf a r1 | R\breve | r2 g fs4 g c,2 | c4 g'2 bf4 f2 g |
 
     d2 g e d4 e | f2 e f4 a2 g4 ~ | g f e2 d fs | g4 c, d4. e8 f2 f | 
-        f g a4 d, d'2 | b\longa*1/2
+        f g a4( d, d'2) | b\longa*1/2
     \bar "|."
 }
 
 quintoLyricsI = \lyricmode {
 %    In -- te -- si, ven -- ni e vi -- di
 %        ven -- ni e vi -- di
-%    Me -- ra -- vi -- gli -- ai~ed ar -- si,
-%    Tac -- qui, scris -- si e spe -- ra -- i.
-%    Pe -- n'e mar -- ti -- ri~e gua -- i
-%    N'eb -- bi, ed al ven -- to spar -- si,
-%        ed al ven -- to spar -- si
-%    So -- spi -- ri~ac -- ce -- si,
-%    so -- spi -- ri,
-%    so -- spi -- ri~ac -- ce -- si,
-%    so -- spi -- ri~ac -- ce -- si e la -- gri -- mo -- si stri -- di.
-%    La fe -- ra ge -- lo -- si -- a
-%    Mi con -- dus -- s'al -- la mor -- te.
-%    Mu -- tai pen -- sie -- r'e sor -- te,
-%    \ijLyrics
-%    mu -- tai pen -- sie -- r'e sor -- te,
-%    \normalLyrics
-%    mu -- tai pen -- sie -- r'e sor -- te
-%    Fi -- ni la pe -- na mi -- a: la -- gri -- me san -- te,
-%        la -- gri -- me san -- te,
-%    \ijLyrics
-%        la -- gri -- me san -- te
-%    \normalLyrics
-%    Al -- lor ch'io ve -- ni me -- no,
-%        ch'io ve -- ni me -- no,
-%    Vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no,
-%    vin -- to dal pian -- to~al -- la mia Don -- na in se -- no.
+    Me -- ra -- vi -- gli -- ai~ed ar -- si,
+    Tac -- qui, scris -- si e __ spe -- ra -- i.
+    Pe -- n'e mar -- ti -- ri~e gua -- i
+    N'eb -- bi, ed al ven -- to spar -- si,
+        ed al ven -- to spar -- si
+    So -- spi -- ri~ac -- ce -- si,
+    so -- spi -- ri~ac -- ce -- si,
+    \ijLyrics
+    so -- spi -- ri~ac -- ce -- si
+    \normalLyrics
+        e la -- gri -- mo -- si stri -- di.
+    La fe -- ra ge -- lo -- si -- a,
+    la fe -- ra ge -- lo -- si -- a
+    Mi con -- dus -- s'al -- la mor -- te.
+    Mu -- tai pen -- sie -- r'e sor -- te,
+    mu -- tai pen -- sie -- r'e sor -- te,
+    mu -- tai,
+    mu -- tai pen -- sie -- r'e sor -- te
+    Fi -- ni la __ pe -- na mi -- a,
+        la pe -- na mi -- a: la -- gri -- me san -- te,
+        la -- gri -- me san -- te
+    Al -- lor __ ch'io ve -- ni me -- no,
+    Vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no,
+    vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no,
+    \ijLyrics
+    vin -- to dal pian -- to~al -- la mia Don -- n'in se -- no.
+    \normalLyrics
 }
 
 cantoIincipitVoice = <<

@@ -13,7 +13,7 @@
     title = "Mentre il cuculo"
 
     instrument = "Mentre il cuculo (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -83,13 +83,24 @@
         \fill-line {
             \column {
                 \line { Mentre il cuculo } 
-                \line { Il suo cucu cantava: } 
-                \line { Lascia dicea Amarilli } 
-                \line { Lascia Damon tua Filli } 
-                \line { E corri in braccio, } 
-                \line { Corri cor mio } 
+                \line { il suo cucu cantava: } 
+                \line { Lascia, dicea Amarilli } 
+                \line { lascia, Damon, tua Filli } 
+                \line { e corri in braccio! } 
+                \line { Corri, cor mio! } 
                 \line { Cucu non odi? } 
                 \line { Egli t’invita ed io.  } 
+            }
+            \column {
+                \line { While the cuckoo }
+                \line { was singing its "cuckoo": }
+                \line { Leave, said Amaryllis, }
+                \line { Damon, leave your Phyllis }
+                \line { and run into my arms! }
+                \line { Run, my heart! }
+                \line { Don't you harken the cuckoo? }
+                \line { He invites you, and I do too. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

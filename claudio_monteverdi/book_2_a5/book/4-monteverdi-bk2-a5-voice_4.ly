@@ -3,7 +3,7 @@
 
 \include "../include/paper-parts.ly"
 \include "../include/global-parts.ly"
-\include "../include/book-layout.ly"
+\include "../include/book-layout-parts.ly"
 \include "../include/macros.ly"
 \include "../include/scheme.ly"
 \include "../include/vocal-layout-parts-barring.ly"

@@ -1,3 +1,9 @@
+%      Quand'io ripenso al benedetto giorno
+% che nel mie cor rinova il dolce tempo,
+% sospiro il don dell'onorata mano
+% ch'Amor mi fece, e dico: — Ov'è quell'ombra?
+% Ecco che già con Libra alberga il sole:
+% perché non la vegg'io nel ricco colle? —
 cantoIIIincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
@@ -6,8 +12,8 @@ cantoIIIincipit = \relative c'' {
     a1
 }
 
+% canto: checked against source
 cantoIII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -30,6 +36,21 @@ cantoIII = \relative c'' {
 }
 
 cantoLyricsIII = \lyricmode {
+    Quan -- d'io ri -- pen -- so~al be -- ne -- det -- to gior -- no
+    Che nel mie cor ri -- no -- va~il dol -- ce tem -- po,
+    So -- spi -- ro,
+    so -- spi -- ro~il don del -- l'o -- no -- ra -- ta ma -- no
+    Ch'A -- mor __ mi fe -- ce, e di -- co:~o -- v'è quel -- l'om -- bra?
+        o -- v'è quel -- l'om -- bra?
+    Ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    Per -- ché non la veg -- g'io nel ric -- co col -- le?
+    per -- ché non la veg -- g'io __ nel ric -- co col -- le?
+        non __ la veg -- g'io nel ric -- co col -- le?
+
+    ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    Per -- ché non la veg -- g'io nel ric -- co col -- le?
+    per -- ché non la veg -- g'io nel ric -- co col -- le,
+        nel ric -- co col -- le?
 }
 
 altoIIIincipit = \relative c' {
@@ -40,8 +61,8 @@ altoIIIincipit = \relative c' {
     d1
 }
 
+% alto: checked against source
 altoIII = \relative c' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -63,6 +84,20 @@ altoIII = \relative c' {
 }
 
 altoLyricsIII = \lyricmode {
+    Quan -- d'io ri -- pen -- so~al be -- ne -- det -- to gior -- no
+    Che nel mie cor ri -- no -- va~il dol -- ce tem -- po,
+    So -- spi -- ro,
+    so -- spi -- ro~il don del -- l'o -- no -- ra -- ta ma -- no
+    Ch'A -- mor mi fe -- ce, e di -- co:~o -- v'è quel -- l'om -- bra?
+        e di -- co:~o -- v'è quel -- l'om -- bra?
+    Ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    Per -- ché non la veg -- g'io __ nel ric -- co col -- le?
+    per -- ché non la veg -- g'io nel ric -- co col -- le,
+        nel ric -- co col -- le?
+
+    ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    per -- ché non la veg -- g'io __ nel ric -- co col -- le?
+    per -- ché non la veg -- g'io nel ric -- co col -- le?
 }
 
 tenoreIIIincipit = \relative c' {
@@ -73,8 +108,8 @@ tenoreIIIincipit = \relative c' {
     fs4
 }
 
+% tenore: checked against source
 tenoreIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -94,6 +129,23 @@ tenoreIII = \relative c' {
 }
 
 tenoreLyricsIII = \lyricmode {
+%    Quan -- d'io ri -- pen -- so~al be -- ne -- det -- to gior -- no
+%    Che nel mie cor ri -- no -- va~il dol -- ce tem -- po,
+    So -- spi -- ro,
+    so -- spi -- ro~il don % del -- l'o -- no -- ra -- ta ma -- no
+    Ch'A -- mor mi fe -- ce, e di -- co,
+        e di -- co:~o -- v'è quel -- l'om -- bra?
+        o -- v'è quel -- l'om -- bra?
+    Ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    Per -- ché non la veg -- g'io __ nel ric -- co col -- le?
+    per -- ché non la veg -- g'io __ nel ric -- co col -- le,
+        nel ric -- co col -- le?
+
+    ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    per -- ché non la veg -- g'io __ nel ric -- co col -- le?
+    per -- ché,
+    per -- ché non la veg -- g'io nel ric -- co col -- le,
+        nel ric -- co col -- le?
 }
 
 bassoIIIincipit = \relative c {
@@ -104,8 +156,8 @@ bassoIIIincipit = \relative c {
     d4
 }
 
+% basso: checked against source
 bassoIII = \relative c {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -125,6 +177,22 @@ bassoIII = \relative c {
 }
 
 bassoLyricsIII = \lyricmode {
+%    Quan -- d'io ri -- pen -- so~al be -- ne -- det -- to gior -- no
+%    Che nel mie cor ri -- no -- va~il dol -- ce tem -- po,
+    So -- spi -- ro,
+    so -- spi -- ro~il __ don del -- l'o -- no -- ra -- ta ma -- no
+    Ch'A -- mor __ mi fe -- ce, e di -- co,
+        e di -- co:~o -- v'è quel -- l'om -- bra?
+    Ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    Per -- ché non la veg -- g'io nel ric -- co col -- le?
+        non __ la veg -- g'io nel ric -- co col -- le?
+    per -- ché,
+    per -- ché non __ la veg -- g'io nel ric -- co col -- le?
+
+    ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    per -- ché non la veg -- g'io nel ric -- co col -- le?
+    per -- ché non la veg -- g'io __ nel ric -- co col -- le,
+        non la veg -- g'io nel ric -- co col -- le?
 }
 
 quintoIIIincipit = \relative c' {
@@ -135,8 +203,8 @@ quintoIIIincipit = \relative c' {
     r4 a
 }
 
+% quinto: checked against source
 quintoIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -156,6 +224,20 @@ quintoIII = \relative c' {
 }
 
 quintoLyricsIII = \lyricmode {
+%    Quan -- d'io ri -- pen -- so~al be -- ne -- det -- to gior -- no
+%    Che nel mie cor ri -- no -- va~il dol -- ce tem -- po,
+    So -- spi -- ro,
+    so -- spi -- ro~il don,
+    so -- spi -- ro~il don del -- l'o -- no -- ra -- ta ma -- no
+    Ch'A -- mor mi fe -- ce, e di -- co,
+        e di -- co:~o -- v'è quel -- l'om -- bra?
+            o -- v'è quel -- l'om -- bra?
+    Ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    Per -- ché non la veg -- g'io nel ric -- co col -- le?
+    per -- ché non la veg -- g'io nel ric -- co col -- le?
+    ec -- co che già con Li -- bra~al -- ber -- ga~il so -- le:
+    per -- ché non la veg -- g'io __ nel ric -- co col -- le?
+    per -- ché non la veg -- g'io __ nel ric -- co col -- le?
 }
 
 cantoIIIincipitVoice = <<
