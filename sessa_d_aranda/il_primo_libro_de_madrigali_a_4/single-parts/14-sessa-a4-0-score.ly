@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "anchor_che_la_partita"
     categories = "[madrigal]"
+    motifs = "[parting,Amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -82,11 +83,19 @@
         \fill-line {
             \column {
                 \line { Ancor che la partita } 
-                \line { Sia la sola cagion d'i dolor miei, } 
-                \line { Partir sempre vorrei } 
-                \line { Poi ch'al ritorno tal dolcezz'io sento, } 
-                \line { Che avanzo col piacer ogni tormento. } 
+                \line { sia la sola cagion d'i dolor miei, } 
+                \line { partir sempre vorrei, } 
+                \line { poi ch'al ritorno tal dolcezz'io sento } 
+                \line { che avanzo col piacer ogni tormento. } 
             }
+            \column {
+                % translation: 2023-06-28
+                \line { Although the departure }
+                \line { be the sole reason of my sufferings, }
+                \line { I would always wish to part, }
+                \line { for upon returning I feel such sweetness }
+                \line { that I overcome every torment with pleasure. }
+                \line { \hspace #10 \italic { translation by editor } }
         }
     }
 }

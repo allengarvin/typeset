@@ -13,6 +13,7 @@
     originallyset = "2023-04-07"
     flats = 1
     final = "g"
+    motifs = "[]"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Che fai alma?"

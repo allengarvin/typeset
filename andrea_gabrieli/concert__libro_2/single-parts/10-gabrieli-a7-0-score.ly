@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "dunque_sia_vero"
     categories = "[madrigal,animal]"
+    motifs = "[phoenix,marriage,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
