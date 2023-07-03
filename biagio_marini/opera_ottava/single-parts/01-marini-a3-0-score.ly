@@ -17,6 +17,8 @@
     shorttitle = "sonata_i"
     shortcomp = "marini"
     categories = "[trio]"
+    final = "a"
+    flats = 0
 
     % Unchanging:
     language = "instrumental"
