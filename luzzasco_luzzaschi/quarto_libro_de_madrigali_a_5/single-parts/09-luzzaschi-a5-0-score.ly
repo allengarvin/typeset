@@ -9,22 +9,21 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2023-06-19"
-    originallyset = "2023-06-19"
-    flats = 0
-    final = "a"
+    lastupdated = "2023-08-02"
+    originallyset = "2023-08-02"
+    flats = 1
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Io v'amo, anima mia"
+    title = "Tu ribello d'Amor"
     subtitle = ""
-    instrument = "Io v'amo, anima mia:  (score)"
+    instrument = "Tu ribello d'Amor:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "io_vamo_anima_mia"
+    shorttitle = "tu_ribello_damor"
     shortcomp = "luzzaschi"
     categories = "[madrigal]"
+    motifs = "[amore]"
     needtranslation = #'t
-    folio = "Annibale Pocaterra (1559-1593)"
-    rhyme = "aBCcBDdEE"
 
     % Unchanging:
     language = "italian"
@@ -35,12 +34,12 @@
 \include "../parts/09-luzzaschi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "09-luzzaschi--io_vamo_anima_mia-"
+    \bookOutputName "09-luzzaschi--tu_ribello_damor-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.7
+                \override StaffGrouper.staff-staff-spacing.padding = #5.0
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
@@ -53,19 +52,11 @@
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoIXincipitVoice
-                    \clef "treble"
+                    \clef "treble_8"
                     \global
                     \altoIX
                 >>
              \addlyrics { \altoLyricsIX }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreIXincipitVoice
-                    \clef "treble_8"
-                    \global
-                    \tenoreIX
-                >>
-             \addlyrics { \tenoreLyricsIX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoIXincipitVoice
@@ -74,6 +65,14 @@
                     \quintoIX
                 >>
              \addlyrics { \quintoLyricsIX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenore"
+                    \incipit \tenoreIXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenoreIX
+                >>
+             \addlyrics { \tenoreLyricsIX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoIXincipitVoice
@@ -88,22 +87,21 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 80 2)
+                tempoWholesPerMinute = #(ly:make-moment 78 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Io v'amo, anima mia, }
-                \line { vorrei sovente dire, ed ardo, ahi lasso! }
-                \line { Chiude la voce entro alle labbra Amore }
-                \line { e vergogna e timore, }
-                \line { e mi fanno d'uom vivo un muto sasso. }
-                \line { Amor, deh, se tu vuoi ch'i miei martiri }
-                \line { io pur taccia e sospiri: }
-                \line { tu dilli a lei che mi consuma e sface, }
-                \line { tu parla quel che la mia lingua tace. }
+                \line { Tu ribello d'Amor, tu di pietade }
+                \line { crudo nemico e mio, }
+                \line { deh! frena omai ver me l'aspro desio }
+                \line { o torna in libertade }
+                \line { mio core, in cui sì dispietato avventi }
+                \line { col vago de' tuoi lumi almi lucenti }
+                \line { strali ognor mille e mille e di tua mano }
+                \line { temprati poi per no'l ferir mai in vano. }
             }
 %           \column {
 %               % translation orig date:

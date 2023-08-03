@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
@@ -8,69 +8,70 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2023-07-19"
+    originallyset = "2023-07-19"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Ecco mormorar l'onde"
+    title = "Piagne e sospira"
     subtitle = ""
-    instrument = "Ecco mormorar l'onde:  (alto)"
+    instrument = "Piagne e sospira:  (alto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "ecco_mormorar_londe"
-    folio = \markup { Torquato Tasso, \italic{Rime per Laura Peperara}  }
+    shorttitle = "piagne_e_sospira"
     shortcomp = "monteverdi"
+    folio = \markup { Torquato Tasso, \italic { Gerusalemme Conquistata, } Canto VIII, ottava 6 }
 
     % Things that change per part:
     partname = "Alto (part 3 of 5)"
-    instrument = "Ecco mormorar l'onde:  (alto)"
+    instrument = "Piagne e sospira:  (alto)"
 
     % Unchanging:
-    lastupdated = "2022-03-12"
-    originallyset = "2022-03-12"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/14-monteverdi-a5-madrigal.ly"
+\include "../parts/20-monteverdi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "14-monteverdi--ecco_mormorar_londe-"
+    \bookOutputName "20-monteverdi--piagne_e_sospira-"
     \bookOutputSuffix "--3-alto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \altoXIV
+            \altoXX
         >>
-                \addlyrics { \altoLyricsXIV }
+                \addlyrics { \altoLyricsXX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "14-monteverdi--ecco_mormorar_londe-"
+    \bookOutputName "20-monteverdi--piagne_e_sospira-"
     \bookOutputSuffix "--3-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altoXIV
+            \altoXX
         >>
-                \addlyrics { \altoLyricsXIV }
+                \addlyrics { \altoLyricsXX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "14-monteverdi--ecco_mormorar_londe-"
+    \bookOutputName "20-monteverdi--piagne_e_sospira-"
     \bookOutputSuffix "--3-alto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \altoXIV
+            \altoXX
         >>
-                \addlyrics { \altoLyricsXIV }
+                \addlyrics { \altoLyricsXX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

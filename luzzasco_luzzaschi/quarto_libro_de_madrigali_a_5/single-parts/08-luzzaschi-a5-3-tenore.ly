@@ -8,54 +8,55 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2023-08-02"
-    originallyset = "2023-08-02"
+    lastupdated = "2023-06-19"
+    originallyset = "2023-06-19"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Tu ribello d'Amor"
+    title = "Io v'amo, anima mia"
     subtitle = ""
-    instrument = "Tu ribello d'Amor:  (alto)"
+    instrument = "Io v'amo, anima mia:  (tenore)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "tu_ribello_damor"
+    shorttitle = "io_vamo_anima_mia"
     shortcomp = "luzzaschi"
+    folio = "Annibale Pocaterra (1559-1593)"
 
     % Things that change per part:
-    partname = "Alto (part 2 of 5)"
-    instrument = "Tu ribello d'Amor:  (alto)"
+    partname = "Tenore (part 3 of 5)"
+    instrument = "Io v'amo, anima mia:  (tenore)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/09-luzzaschi-a5-madrigal.ly"
+\include "../parts/08-luzzaschi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "09-luzzaschi--tu_ribello_damor-"
-    \bookOutputSuffix "--2-alto--tr8_clef"
+    \bookOutputName "08-luzzaschi--io_vamo_anima_mia-"
+    \bookOutputSuffix "--3-tenore--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \altoIX
+            \tenoreVIII
         >>
-                \addlyrics { \altoLyricsIX }
+                \addlyrics { \tenoreLyricsVIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "09-luzzaschi--tu_ribello_damor-"
-    \bookOutputSuffix "--2-alto--al_clef"
+    \bookOutputName "08-luzzaschi--io_vamo_anima_mia-"
+    \bookOutputSuffix "--3-tenore--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altoIX
+            \tenoreVIII
         >>
-                \addlyrics { \altoLyricsIX }
+                \addlyrics { \tenoreLyricsVIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

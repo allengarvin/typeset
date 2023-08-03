@@ -1,12 +1,12 @@
-% Invide siepi, a che mi contendere
-% le dolcezze amorose
+% Invide siepi, a che mi contendete
+% la dolcezze amorose
 % che tien madonna nelle labbia ascose?
 % Forse perché temete
 % che sian le vostre rose al par di quelle
 % ch'ha la mia donna in bocca assai men belle.
 
 % siepe: hedge, fount, fence, trench.
-cantoVIIincipit = \relative c'' {
+cantoVIIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
     \time 4/4
@@ -15,7 +15,7 @@ cantoVIIincipit = \relative c'' {
 }
 
 % canto: checked against source
-cantoVII = \relative c'' {
+cantoVIII = \relative c'' {
     \key c \major
     \fourTwoCommonTime
 
@@ -37,23 +37,24 @@ cantoVII = \relative c'' {
     \bar "|."
 }
 
-cantoLyricsVII = \lyricmode {
+cantoLyricsVIII = \lyricmode {
+%    In -- vi -- de sie -- pi,
     In -- vi -- de sie -- pi, a che mi con -- ten -- de -- te,
         a che mi con -- ten -- de -- te,
         a che mi con -- ten -- de -- te
-    Le dol -- cez -- ze~a -- mo -- ro -- se,
-    le dol -- cez -- ze~a -- mo -- ro -- se
-    Che tien ma -- don -- na nel -- le lab -- bia~a -- sco -- se?
-    che tien ma -- don -- na nel -- le lab -- bia~a -- sco -- se?
+    La dol -- cez -- ze~a -- mo -- ro -- se,
+    la dol -- cez -- ze~a -- mo -- ro -- se
+    Che tien ma -- don -- na nel -- le lab -- bi'a -- sco -- se,
+    che tien ma -- don -- na nel -- le lab -- bi'a -- sco -- se?
     For -- se per -- ché te -- me -- te,
     for -- se per -- ché te -- me -- te
     Che sian le vo -- stre ro -- se~al par di quel -- le
-    Ch'ha la mia don -- na~in boc -- ca~as -- sai men bel -- le,
+    Ch'ha la mia don -- na~in boc -- c'as -- sai men bel -- le,
         as -- sai men bel -- le,
         as -- sai men bel -- le.
 }
 
-altoVIIincipit = \relative c' {
+altoVIIIincipit = \relative c' {
     \clef "petrucci-c3"
     \key c \major
     \time 4/4
@@ -62,7 +63,7 @@ altoVIIincipit = \relative c' {
 }
 
 % alto: checked against source
-altoVII = \relative c' {
+altoVIII = \relative c' {
     \key c \major
     \fourTwoCommonTime
 
@@ -71,8 +72,8 @@ altoVII = \relative c' {
     f4 d | e f g2 c, r2 | r2 c2. b8[ b] a2 | g r4 a b g c d |
         b( a8[ g] a2) c d | d
 
-    d2. d4 d2 | e1 e | r2 fs g d ~ | d4 d cs2 d1 | d r2 r4 g |
-        e4. d8 c4 c f f e a ~ | a
+    d2. d4 d2 | e1 e | r2 fs g d2 ~ | d4 d cs2 d1 | d r2 r4 g |
+        e4. d8 c4 c f f e a ~ | a 
 
     g2( fs4) g2 r2 | r4 e2 c d g,4 | d'8([ c a b] c[ d e f] g2) g |
         r2 d1 d2 | r4 f e c e2 d | R\breve |
@@ -80,21 +81,20 @@ altoVII = \relative c' {
     r4 f e c e2 d | r4 d e4. f8 g4 d f f | e e d2 c r4 g' | a f g2. g4
 
     e4( f8[ e] | d[ c] d4) e a, c g a f' | e2 e r2 e4 a |
-        fs g2( fs4) g2 r2 | r4 a a b
+       fs4 g2( fs4) g2 r2 | r4 a a b
 
-    a2 g | r2 e4 g fs g2( fs4) | g\longa*1/2
+    a2 g | r2 e4 g fs4 g2( fs4) | g\longa*1/2
     \bar "|."
 }
 
-altoLyricsVII = \lyricmode {
-%    In -- vi -- de sie -- pi,
+altoLyricsVIII = \lyricmode {
         A che mi con -- ten -- de -- te,
-        a che mi con -- ten -- de -- te,
+        a che mi con -- ten -- de -- te
     In -- vi -- de sie -- pi, a che mi con -- ten -- de -- te
-    Le dol -- cez -- ze~a -- mo -- ro -- se,
-    le dol -- cez -- ze~a -- mo -- ro -- se
-    Che tien ma -- don -- na nel -- le lab -- bia~a -- sco -- se?
-        nel -- le lab -- bia~a -- sco -- se?
+    La dol -- cez -- ze~a -- mo -- ro -- se,
+    la dol -- cez -- ze~a -- mo -- ro -- se
+    Che tien ma -- don -- na nel -- le lab -- bi'a -- sco -- se,
+        nel -- le lab -- bi'a -- sco -- se?
     For -- se per -- ché te -- me -- te,
         per -- ché te -- me -- te
     Che sian le vo -- stre ro -- se~al par di quel -- le
@@ -104,7 +104,7 @@ altoLyricsVII = \lyricmode {
         as -- sai men bel -- le.
 }
 
-tenoreVIIincipit = \relative c' {
+tenoreVIIIincipit = \relative c' {
     \clef "petrucci-c4"
     \key c \major
     \time 4/4
@@ -113,7 +113,7 @@ tenoreVIIincipit = \relative c' {
 }
 
 % tenore: checked against source
-tenoreVII = \relative c' {
+tenoreVIII = \relative c' {
     \key c \major
     \fourTwoCommonTime
 
@@ -123,22 +123,22 @@ tenoreVII = \relative c' {
     r2 d g g ~ | g4 g e2 d1 | d2 r4 d' b4. a8 g4 g | c c a2 d c4.( d8 |
         e2) d r1 | r4 c
 
-    a4. g8 f4 f \ficta bf bf!\unficta | a d2 c( b4) c2 | r2 g1 g4 bf |
+    a4. g8 f4 f \ficta bf bf!\unficta| a d2 c( b4) c2 | r2 g1 g4 bf |
         a f a2 g r2 | d'1 d | r1 r4 g,
 
-    b4. c8 | d4 b c c b b a2 | g r2 r2 r4 e' | f d e2. d4 c2 | b r2 r1 |
+    b4. c8 | d4 b c c b b a2 | g r2 r2 r4 e' | f d e2. d4 c2 | b2 r2 r1 |
         r2 b4 e cs d2(
 
     cs4) | d1 r4 g, a d, | a'2 d, d'4 d2 e4 | d2 c4 c a g a2 | g\longa*1/2
     \bar "|."
 }
 
-tenoreLyricsVII = \lyricmode {
+tenoreLyricsVIII = \lyricmode {
     In -- vi -- de sie -- pi,
-    in -- vi -- de sie -- pi, a che mi con -- ten -- de -- te,
-    Le dol -- cez -- ze~a -- mo -- ro -- se
-    Che tien ma -- don -- na nel -- le lab -- bia~a -- sco -- se?
-    che tien ma -- don -- na nel -- le lab -- bia~a -- sco -- se?
+    in -- vi -- de sie -- pi, a che mi con -- ten -- de -- te
+    La dol -- cez -- ze~a -- mo -- ro -- se
+    Che tien ma -- don -- na nel -- le lab -- bi'a -- sco -- se,
+    che tien ma -- don -- na nel -- le lab -- bi'a -- sco -- se?
     For -- se per -- ché te -- me -- te,
     for -- se,
     Che sian le vo -- stre ro -- se~al par di quel -- le
@@ -148,7 +148,7 @@ tenoreLyricsVII = \lyricmode {
         as -- sai men bel -- le.
 }
 
-bassoVIIincipit = \relative c' {
+bassoVIIIincipit = \relative c' {
     \clef "petrucci-f4"
     \key c \major
     \time 4/4
@@ -157,40 +157,41 @@ bassoVIIincipit = \relative c' {
 }
 
 % basso: checked against source
-bassoVII = \relative c' {
+bassoVIII = \relative c' {
+    \clef bass
     \key c \major
     \fourTwoCommonTime
 
-    R\breve | r2 g2. f8[ f] e2 | d r r d ~ | d4 c8[ c] b2 a r2 |
+    R\breve | r2 g2. f8[ f] e2 | d r2 r2 d ~ | d4 c8[ c] b2 a r2 |
         r1 r4 b c a | b c
 
     d2 g,4 g' a f | g e d2 c g | d' d2. d4 b2 | a1 a | R\breve*4 |
-        r1 r2 g'4 e  ~| e8[ d] c4 c
+        r1 r2 g'4 e ~ | e8[ d] c4 c
 
-    f4 f d2 g4 | f4.( g8 a2) g r2 | r2 g,1 g2 | r4 d' c a c2 g |
+    f f d2 g4 | f4.( g8 a2) g r2 | r2 g,1 g2 | r4 d' c a c2 g |
         r2 g'1 g4 bf | a f a2 g1 | r1
 
-    r2 d | e4. f8 g4 d f f e e | d2 c r4 g' a f | g2. f4 e2 d | e4 a, e'2 a,1|
+    r2 d | e4. f8 g4 d f f e e | d2 c r4 g' a f | g2. f4 e2 d | e4 a, e'2 a,1 |
 
     R\breve | a4 a' fs g2( fs4) g2 | r2 c, d4 g, d'2 | g,\longa*1/2
     \bar "|."
 }
 
-bassoLyricsVII = \lyricmode {
+bassoLyricsVIII = \lyricmode {
     In -- vi -- de sie -- pi,
     in -- vi -- de sie -- pi, a che mi con -- ten -- de -- te,
         a che mi con -- ten -- de -- te
-    Le dol -- cez -- ze~a -- mo -- ro -- se
-    Che tien __ ma -- don -- na nel -- le lab -- bia~a -- sco -- se?
+    La dol -- cez -- ze~a -- mo -- ro -- se
+    Che tien ma -- don -- na nel -- le lab -- bi'a -- sco -- se?
     For -- se per -- ché te -- me -- te,
     for -- se per -- ché te -- me -- te
     Che sian le vo -- stre ro -- se~al par di quel -- le
-    Ch'ha la mia don -- na~in boc -- ca~as -- sai men bel -- le,
+    Ch'ha la mia don -- na~in boc -- c'as -- sai men bel -- le,
         as -- sai men bel -- le,
         as -- sai men bel -- le.
 }
 
-quintoVIIincipit = \relative c'' {
+quintoVIIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
     \time 4/4
@@ -199,7 +200,7 @@ quintoVIIincipit = \relative c'' {
 }
 
 % quinto: checked against source
-quintoVII = \relative c'' {
+quintoVIII = \relative c'' {
     \key c \major
     \fourTwoCommonTime
 
@@ -217,57 +218,59 @@ quintoVII = \relative c'' {
     r4 d' e b d2 ~ | d4 c b2 a e'4 e | d( c8[ b] a[ g] a4 g4. f8 e4 f) |
         e2 r2 a4 d b c ~ | c( b) c
 
-    e d d d2 | d\longa*1/2
+    e4 d d d2 | d\longa*1/2
     \bar "|."
 }
 
-quintoLyricsVII = \lyricmode {
-        A che mi con -- ten -- de -- te,
+quintoLyricsVIII = \lyricmode {
+%    In -- vi -- de sie -- pi,
+%    in -- vi -- de sie -- pi, a che mi con -- ten -- de -- te,
+        A che mi con -- ten -- de -- te
     In -- vi -- de sie -- pi, a che mi con -- ten -- de -- te,
     in -- vi -- de sie -- pi, a che mi con -- ten -- de -- te
-    Le dol -- cez -- ze~a -- mo -- ro -- se,
-    le dol -- cez -- ze~a -- mo -- ro -- se
-    Che tien ma -- don -- na nel -- le lab -- bia~a -- sco -- se?
+    La dol -- cez -- ze~a -- mo -- ro -- se,
+    la dol -- cez -- ze~a -- mo -- ro -- se
+    Che tien ma -- don -- na nel -- le lab -- bi'a -- sco -- se?
     For -- se per -- ché te -- me -- te,
     for -- se per -- ché te -- me -- te
     Che sian le vo -- stre ro -- se~al par di quel -- le
-    Ch'ha la mia don -- na~in boc -- ca~as -- sai men bel -- le,
+    Ch'ha la mia don -- na~in boc -- c'as -- sai men bel -- le,
         as -- sai men bel -- le,
         as -- sai men bel -- le.
 }
 
-cantoVIIincipitVoice = <<
+cantoVIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoVIIincipit
+        \cantoVIIIincipit
     >>
 >>
 
-altoVIIincipitVoice = <<
+altoVIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altoVIIincipit
+        \altoVIIIincipit
     >>
 >>
 
-tenoreVIIincipitVoice = <<
+tenoreVIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreVIIincipit
+        \tenoreVIIIincipit
     >>
 >>
 
-bassoVIIincipitVoice = <<
+bassoVIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassoVIIincipit
+        \bassoVIIIincipit
     >>
 >>
 
-quintoVIIincipitVoice = <<
+quintoVIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \quintoVIIincipit
+        \quintoVIIIincipit
     >>
 >>
 

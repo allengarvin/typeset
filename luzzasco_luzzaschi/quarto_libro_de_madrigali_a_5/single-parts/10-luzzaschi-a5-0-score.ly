@@ -9,31 +9,30 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2023-01-17"
-    originallyset = "2023-01-17"
+    lastupdated = "2023-08-03"
+    originallyset = "2023-08-03"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Invide siepi"
+    title = "Vero è ch'Amor"
     subtitle = ""
-    instrument = "Invide siepi:  (score)"
+    instrument = "Vero è ch'Amor:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "invide_siepi"
+    shorttitle = "vero_e_chamor"
     shortcomp = "luzzaschi"
     categories = "[madrigal]"
-    motifs = "[amore,rose]"
-    final = "g"
-    flats = 0
+    motifs = "[amore]"
     needtranslation = #'t
 
     % Unchanging:
     language = "italian"
+    poeticform = "madrigal"
     tagline = #'f
 }
 
-\include "../parts/07-luzzaschi-a5-madrigal.ly"
+\include "../parts/10-luzzaschi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "07-luzzaschi--invide_siepi-"
+    \bookOutputName "10-luzzaschi--vero_e_chamor-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,63 +41,65 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoVIIincipitVoice
+                    \incipit \cantoXincipitVoice
                     \clef "treble"
                     \global
-                    \cantoVII
+                    \cantoX
                 >>
-             \addlyrics { \cantoLyricsVII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoVIIincipitVoice
-                    \clef "treble"
-                    \global
-                    \quintoVII
-                >>
-             \addlyrics { \quintoLyricsVII }
+             \addlyrics { \cantoLyricsX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoVIIincipitVoice
-                    \clef "treble"
-                    \global
-                    \altoVII
-                >>
-             \addlyrics { \altoLyricsVII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreVIIincipitVoice
+                    \incipit \altoXincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreVII
+                    \altoX
                 >>
-             \addlyrics { \tenoreLyricsVII }
+             \addlyrics { \altoLyricsX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quinto"
+                    \incipit \quintoXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \quintoX
+                >>
+             \addlyrics { \quintoLyricsX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenore"
+                    \incipit \tenoreXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenoreX
+                >>
+             \addlyrics { \tenoreLyricsX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoVIIincipitVoice
+                    \incipit \bassoXincipitVoice
                     \clef "bass"
                     \global
-                    \bassoVII
+                    \bassoX
                 >>
-             \addlyrics { \bassoLyricsVII }
+             \addlyrics { \bassoLyricsX }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 76 2)
+                tempoWholesPerMinute = #(ly:make-moment 78 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Invide siepi, a che mi contendete }
-                \line { le dolcezze amorose }
-                \line { che tien madonna nelle labbia ascose? }
-                \line { Forse perché temete }
-                \line { che sian le vostre rose al par di quelle }
-                \line { ch'ha la mia donna in bocca assai men belle. }
+                \line { Vero è ch'Amor mi punge e mi saetta, }
+                \line { e talor sì m'alletta }
+                \line { col bello che con arte in voi figura }
+                \line { che mal mio grado fa ch'io spesso giro }
+                \line { questi occhi a voi; ma quando altrove miro }
+                \line { non potete ver me l'empia natura }
+                \line { tanto celar che più non possa sdegno, }
+                \line { vero mio Duce e al mio languir sostegno. }
             }
 %           \column {
 %               % translation orig date:

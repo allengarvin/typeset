@@ -8,22 +8,21 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2023-06-19"
-    originallyset = "2023-06-19"
+    lastupdated = "2023-08-02"
+    originallyset = "2023-08-02"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Io v'amo, anima mia"
+    title = "Tu ribello d'Amor"
     subtitle = ""
-    instrument = "Io v'amo, anima mia:  (canto)"
+    instrument = "Tu ribello d'Amor:  (canto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "io_vamo_anima_mia"
+    shorttitle = "tu_ribello_damor"
     shortcomp = "luzzaschi"
-    folio = "Annibale Pocaterra (1559-1593)"
 
     % Things that change per part:
     partname = "Canto (part 1 of 5)"
-    instrument = "Io v'amo, anima mia:  (canto)"
+    instrument = "Tu ribello d'Amor:  (canto)"
 
     % Unchanging:
     tagline = #'f
@@ -32,7 +31,7 @@
 \include "../parts/09-luzzaschi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "09-luzzaschi--io_vamo_anima_mia-"
+    \bookOutputName "09-luzzaschi--tu_ribello_damor-"
     \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {

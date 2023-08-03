@@ -8,39 +8,40 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2023-08-02"
-    originallyset = "2023-08-02"
+    lastupdated = "2023-07-19"
+    originallyset = "2023-07-19"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Tu ribello d'Amor"
+    title = "Piagne e sospira"
     subtitle = ""
-    instrument = "Tu ribello d'Amor:  (basso)"
+    instrument = "Piagne e sospira:  (basso)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "tu_ribello_damor"
-    shortcomp = "luzzaschi"
+    shorttitle = "piagne_e_sospira"
+    shortcomp = "monteverdi"
+    folio = \markup { Torquato Tasso, \italic { Gerusalemme Conquistata, } Canto VIII, ottava 6 }
 
     % Things that change per part:
     partname = "Basso (part 5 of 5)"
-    instrument = "Tu ribello d'Amor:  (basso)"
+    instrument = "Piagne e sospira:  (basso)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/09-luzzaschi-a5-madrigal.ly"
+\include "../parts/20-monteverdi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "09-luzzaschi--tu_ribello_damor-"
+    \bookOutputName "20-monteverdi--piagne_e_sospira-"
     \bookOutputSuffix "--5-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "bass"
             \global 
-            \bassoIX
+            \bassoXX
         >>
-                \addlyrics { \bassoLyricsIX }
+                \addlyrics { \bassoLyricsXX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

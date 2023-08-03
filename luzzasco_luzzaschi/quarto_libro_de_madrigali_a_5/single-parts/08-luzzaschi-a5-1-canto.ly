@@ -8,39 +8,40 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2023-08-02"
-    originallyset = "2023-08-02"
+    lastupdated = "2023-06-19"
+    originallyset = "2023-06-19"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Tu ribello d'Amor"
+    title = "Io v'amo, anima mia"
     subtitle = ""
-    instrument = "Tu ribello d'Amor:  (basso)"
+    instrument = "Io v'amo, anima mia:  (canto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "tu_ribello_damor"
+    shorttitle = "io_vamo_anima_mia"
     shortcomp = "luzzaschi"
+    folio = "Annibale Pocaterra (1559-1593)"
 
     % Things that change per part:
-    partname = "Basso (part 5 of 5)"
-    instrument = "Tu ribello d'Amor:  (basso)"
+    partname = "Canto (part 1 of 5)"
+    instrument = "Io v'amo, anima mia:  (canto)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/09-luzzaschi-a5-madrigal.ly"
+\include "../parts/08-luzzaschi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "09-luzzaschi--tu_ribello_damor-"
-    \bookOutputSuffix "--5-basso--bs_clef"
+    \bookOutputName "08-luzzaschi--io_vamo_anima_mia-"
+    \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "bass"
+            \clef "treble"
             \global 
-            \bassoIX
+            \cantoVIII
         >>
-                \addlyrics { \bassoLyricsIX }
+                \addlyrics { \cantoLyricsVIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
