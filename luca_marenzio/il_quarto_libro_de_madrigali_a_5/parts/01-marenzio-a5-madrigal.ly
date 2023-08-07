@@ -101,7 +101,7 @@ altoLyricsI = \lyricmode {
     Giun -- to,
     giun -- to~al -- la tom -- ba~o -- ve~al suo spir -- to vi -- vo
     Do -- lo -- ro -- sa pri -- gion il ciel,
-        il ciel pre -- scris -- se,
+        il ciel pre -- scris -- se, __
             pre -- scris -- se,
     Di __ co -- lor,    __
         di mo -- to pri -- vo,
