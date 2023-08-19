@@ -22,6 +22,8 @@
     categories = "[madrigal]"
     motifs = "[amore,fire]"
     needtranslation = #'f
+    final = "g"
+    flats = 1
 
     % Unchanging:
     language = "italian"

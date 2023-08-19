@@ -8,13 +8,13 @@
 % perché negli atti d'alegrezza spenti
 % di fuor si legge com'io dentro avampi:
 % 
-% sí ch'io mi credo omai che monti et piagge
+% sì ch'io mi credo omai che monti et piagge
 % et fiumi et selve sappian di che tempre
 % sia la mia vita, ch'è celata altrui.
 % 
-% Ma pur sí aspre vie né sí selvagge
+% Ma pur sì aspre vie né sì selvagge
 % cercar non so ch'Amor non venga sempre
-% ragionando con meco, et io co llui.
+% ragionando con meco, et io colui.
 
 cantoXIincipit = \relative c''' {
     \time 2/2

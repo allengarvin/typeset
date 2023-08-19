@@ -6,7 +6,7 @@
 \include "../include/macros.ly"
 \include "../include/scheme.ly"
 
-#(set-global-staff-size 14.5)
+#(set-global-staff-size 17.0)
 
 \header {
     % Things that change per piece:
@@ -15,8 +15,8 @@
     folio = \markup { Psalm 45:1-8 }
 
     % Unchanging:
-    \include "include/distribution-header.ly"
     lastupdated = "2018-08-19"
+    \include "include/distribution-header.ly"
     tagline = #'f
 }
 \include "../parts/04-gabrieli-a5-motet.ly"
@@ -29,21 +29,21 @@
         \header { piece = "Prima pars" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #8
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
                     \incipit \cantusIVincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose c ef
                     \cantusIV
                 >>
                 \addlyrics { \cantusLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
                     \incipit \altusIVincipitVoice
-                    \clef "treble_8"
-                    \global
+                    \clef "treble"
+                    \global\transpose c ef
                     \altusIV
                 >>
                 \addlyrics { \altusLyricsIV }
@@ -51,7 +51,7 @@
                     \set Staff.instrumentName = #"Quintus"
                     \incipit \quintusIVincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose c ef
                     \quintusIV
                 >>
                 \addlyrics { \quintusLyricsIV }
@@ -59,7 +59,7 @@
                     \set Staff.instrumentName = #"Tenor"
                     \incipit \tenorIVincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose c ef
                     \tenorIV
                 >>
                 \addlyrics { \tenorLyricsIV }
@@ -67,7 +67,7 @@
                     \set Staff.instrumentName = #"Bassus"
                     \incipit \bassusIVincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose c ef
                     \bassusIV
                 >>
                 \addlyrics { \bassusLyricsIV }
@@ -85,21 +85,23 @@
         \header { piece = "Secunda pars" }
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #8
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
                     \incipit \cantusVincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose c ef
+                    \set Score.currentBarNumber = #56
                     \cantusV
                 >>
                 \addlyrics { \cantusLyricsV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
                     \incipit \altusVincipitVoice
-                    \clef "treble_8"
-                    \global
+                    \clef "treble"
+                    \global\transpose c ef
+                    \set Score.currentBarNumber = #56
                     \altusV
                 >>
                 \addlyrics { \altusLyricsV }
@@ -107,7 +109,8 @@
                     \set Staff.instrumentName = #"Quintus"
                     \incipit \quintusVincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose c ef
+                    \set Score.currentBarNumber = #56
                     \quintusV
                 >>
                 \addlyrics { \quintusLyricsV }
@@ -115,7 +118,8 @@
                     \set Staff.instrumentName = #"Tenor"
                     \incipit \tenorVincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose c ef
+                    \set Score.currentBarNumber = #56
                     \tenorV
                 >>
                 \addlyrics { \tenorLyricsV }
@@ -123,7 +127,8 @@
                     \set Staff.instrumentName = #"Bassus"
                     \incipit \bassusVincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose c ef
+                    \set Score.currentBarNumber = #56
                     \bassusV
                 >>
                 \addlyrics { \bassusLyricsV }

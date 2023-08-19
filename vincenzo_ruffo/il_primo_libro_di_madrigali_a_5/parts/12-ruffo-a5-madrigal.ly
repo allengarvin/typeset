@@ -27,7 +27,7 @@ cantoXII = \relative c'' {
 }
 
 cantoLyricsXII = \lyricmode {
-    Sì che, s'io vis -- si~in guer -- ra~e in tem -- pe -- sta,
+    Sì che, s'io vis -- si~in guer -- ra~ed in tem -- pe -- sta,
     Mo -- ra~in pa -- ce~e in por -- to; e se la stan -- za Fu va -- na,
         e se la stan -- za Fu va -- na,
     Al -- men sia la par -- ti -- ta~o -- ne -- sta.
@@ -40,8 +40,8 @@ cantoLyricsXII = \lyricmode {
     \normalLyrics
     e __ al mo -- rir de -- gni~es -- ser tua man pre -- sta,
         de -- gni~es -- ser tua man pre -- sta:
-    Tu sai ben che~in al -- trui __ non ò spe -- ran -- za, __
-    tu sai __ ben che~in al -- trui non ò spe -- ran -- za.
+    Tu sai ben che~in al -- trui __ non ho spe -- ran -- za, __
+    tu sai __ ben che~in al -- trui non ho spe -- ran -- za.
 }
 
 altoXIIincipit = \relative c' {
@@ -76,8 +76,8 @@ altoXII = \relative c' {
 }
 
 altoLyricsXII = \lyricmode {
-    Sì che, s'io vis -- si~in guer -- ra~e in tem -- pe -- sta,
-        in guer -- ra~e in tem -- pe -- sta,
+    Sì che, s'io vis -- si~in guer -- ra~ed in tem -- pe -- sta,
+        in guer -- ra~ed in tem -- pe -- sta,
     Mo -- ra~in pa -- ce, e in por -- to; e se la stan -- za Fu va -- na,
     \ijLyrics
         e se la stan -- za __ Fu va -- na,
@@ -94,9 +94,9 @@ altoLyricsXII = \lyricmode {
     \ijLyrics
         de -- gni~es -- ser tua man pre -- sta:
     \normalLyrics
-    Tu sai ben che~in al -- trui non ò __ spe -- ran -- za,
-        non ò __ spe -- ran -- za,
-    tu sai ben __ che~in al -- trui non ò spe -- ran -- za.
+    Tu sai ben che~in al -- trui non ho __ spe -- ran -- za,
+        non ho __ spe -- ran -- za,
+    tu sai ben __ che~in al -- trui non ho spe -- ran -- za.
 }
 
 tenoreXIIincipit = \relative c' {
@@ -144,9 +144,9 @@ tenoreLyricsXII = \lyricmode {
     e al mo -- rir 
     \normalLyrics
         de -- gni~es -- ser tua man pre -- sta,
-    Tu sai ben che~in al -- trui non __ ò spe -- ran -- za,
-        non ò __ spe -- ran -- za,
-    tu sai ben che~in al -- trui non ò spe -- ran -- za.
+    Tu sai ben che~in al -- trui non __ ho spe -- ran -- za,
+        non ho __ spe -- ran -- za,
+    tu sai ben che~in al -- trui non ho spe -- ran -- za.
 }
 
 bassoXIIincipit = \relative c {
@@ -189,9 +189,9 @@ bassoLyricsXII = \lyricmode {
     E al mo -- rir,
     e al mo -- rir de -- gni~es -- ser tua man pre -- sta,
         de -- gni~es -- ser tua man pre -- sta:
-    Tu sai ben che~in al -- trui non __ ò spe -- ran -- za,
-        non ò __ spe -- ran -- za,
-    tu sai ben che~in al -- trui non ò __ spe -- ran -- za.
+    Tu sai ben che~in al -- trui non __ ho spe -- ran -- za,
+        non ho __ spe -- ran -- za,
+    tu sai ben che~in al -- trui non ho __ spe -- ran -- za.
 }
 
 quintoXIIincipit = \relative c' {
@@ -223,7 +223,7 @@ quintoXII = \relative c' {
 }
 
 quintoLyricsXII = \lyricmode {
-    Sì che, s'io vis -- si~in guer -- ra~e in tem -- pe -- sta,
+    Sì che, s'io vis -- si~in guer -- ra~ed in tem -- pe -- sta,
         e in tem -- pe -- sta,
     Mo -- ra~in pa -- ce, e __ in por -- to; e se la stan -- za Fu va -- na,
         e se la __  stan -- za Fu va -- na,
@@ -240,8 +240,8 @@ quintoLyricsXII = \lyricmode {
     \ijLyrics
         de -- gni~es -- ser tua man pre -- sta:
     \normalLyrics
-    Tu sai ben che~in al -- trui non ò spe -- ran -- za,
-    tu sai ben che~in al -- trui __ non ò __ spe -- ran -- za.
+    Tu sai ben che~in al -- trui non ho spe -- ran -- za,
+    tu sai ben che~in al -- trui __ non ho __ spe -- ran -- za.
 }
 
 cantoXIIincipitVoice = <<

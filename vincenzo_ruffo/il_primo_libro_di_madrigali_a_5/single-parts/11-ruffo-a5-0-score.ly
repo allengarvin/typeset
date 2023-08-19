@@ -101,7 +101,6 @@
                 \line { Re del cielo invisibile immortale, }
                 \line { soccorri a l'alma disviata e frale, }
                 \line { e 'l suo defecto di tua gratia adempi. }
-                \line { \hspace #12 Petrarca 147 }
             }
             \column {
                 \line { I go weeping for my time past, }

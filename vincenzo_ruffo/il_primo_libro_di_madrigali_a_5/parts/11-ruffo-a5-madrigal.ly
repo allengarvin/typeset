@@ -42,9 +42,9 @@ cantoLyricsXI = \lyricmode {
 
     Tu che ve -- di~i miei ma -- li, __ in -- de -- gni~e em -- pi,
     Re __ del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le,
-    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~ed fra -- le,
     E'l suo de -- fec -- to,
-    e'l suo de -- fec -- to di tua gra -- tia~a -- dem -- pi.
+    e'l suo de -- fec -- to di tua gra -- zia~a -- dem -- pi.
 %        a -- dem -- pi.
 }
 
@@ -100,12 +100,12 @@ altoLyricsXI = \lyricmode {
     Tu che ve -- di~i miei ma -- li, in -- de -- gni~e em -- pi,
     Re del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le,
     Re __ del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le,
-    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~ed fra -- le,
     E'l suo de -- fec -- to,
     \ijLyrics
     e'l suo de -- fec -- to 
     \normalLyrics
-        di tua gra -- tia~a -- dem -- pi,
+        di tua gra -- zia~a -- dem -- pi,
             a -- dem -- pi.
 }
 
@@ -158,9 +158,9 @@ tenoreLyricsXI = \lyricmode {
     Tu che ve -- di~i miei ma -- li, in -- de -- gni~e em -- pi,
     Re del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le,
     Re del ciel,
-    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
-        di -- svi -- a -- ta~e fra -- le,
-    E'l suo de -- fec -- to di __ tua gra -- tia~a -- dem -- pi,
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~ed fra -- le,
+        di -- svi -- a -- ta~ed fra -- le,
+    E'l suo de -- fec -- to di __ tua gra -- zia~a -- dem -- pi,
         a -- dem -- pi.
 }
 
@@ -207,9 +207,9 @@ bassoLyricsXI = \lyricmode {
     Tu che ve -- di~i miei ma -- li, in -- de -- gni~e em -- pi,
     Re del ciel, __ in -- vi -- si -- bi -- le~im -- mor -- ta -- le,
     Re del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le,
-    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e fra -- le,
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~ed fra -- le,
     E'l suo de -- fec -- to,
-    e'l suo de -- fec -- to di tua gra -- tia~a -- dem -- pi.
+    e'l suo de -- fec -- to di tua gra -- zia~a -- dem -- pi.
 }
 
 quintoXIincipit = \relative c' {
@@ -258,12 +258,12 @@ quintoLyricsXI = \lyricmode {
     Tu __ che ve -- di~i miei ma -- li, in -- de -- gni~e em -- pi,
     Re del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le,
     Re del ciel, in -- vi -- si -- bi -- le~im -- mor -- ta -- le,
-    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~e __ fra -- le,
+    Soc -- cor -- ri~a l'al -- ma di -- svi -- a -- ta~ed __ fra -- le,
     E'l suo de -- fec -- to,
     \ijLyrics
     e'l suo de -- fec -- to
     \normalLyrics 
-        di tua gra -- tia~a -- dem -- pi,
+        di tua gra -- zia~a -- dem -- pi,
             a -- dem -- pi.
 }
 

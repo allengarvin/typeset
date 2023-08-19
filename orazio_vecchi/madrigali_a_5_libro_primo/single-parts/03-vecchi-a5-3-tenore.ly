@@ -1,0 +1,61 @@
+\version "2.22.1"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    lastupdated = "2023-08-07"
+    originallyset = "2023-08-07"
+    \include "include/distribution-header.ly"
+ 
+    % Things that change per piece:
+    title = "Deh, dimmi vita mia"
+    subtitle = ""
+    instrument = "Deh, dimmi vita mia:  (tenore)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "deh_dimmi_vita_mia"
+    shortcomp = "vecchi"
+
+    % Things that change per part:
+    partname = "Tenore (part 4 of 5)"
+    instrument = "Deh, dimmi vita mia:  (tenore)"
+
+    % Unchanging:
+    tagline = #'f
+}
+
+\include "../parts/03-vecchi-a5-madrigal.ly"
+
+\book {
+    \bookOutputName "03-vecchi--deh_dimmi_vita_mia-"
+    \bookOutputSuffix "--4-tenore--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenoreIII
+        >>
+                \addlyrics { \tenoreLyricsIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "03-vecchi--deh_dimmi_vita_mia-"
+    \bookOutputSuffix "--4-tenore--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenoreIII
+        >>
+                \addlyrics { \tenoreLyricsIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

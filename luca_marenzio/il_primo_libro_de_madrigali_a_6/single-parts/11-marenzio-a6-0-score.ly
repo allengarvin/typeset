@@ -97,7 +97,7 @@
         \fill-line {
             \column {
                 \line { Ahimè, tal fu d'Amore e l'esca e l'amo }
-                \line { La fiamme e'l visco, le quadrella e'l laccio }
+                \line { La fiamma e'l visco, le quadrella e'l laccio }
                 \line { Ch'or di doglia mi pasco, e temo e bramo }
                 \line { E'n dubbio di me stesso ardendo aghiaccio; }
                 \line { Bramo di veder quella che sempre amo }

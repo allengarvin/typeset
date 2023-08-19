@@ -2,7 +2,7 @@
 % E fiumi e selve sappian di che tempre
 % Sia la mia vita, ch'è celata altrui.
 % 
-% Ma pur sì aspre vie né sì selvagge
+% Ma pur sì aspre vie nè sì selvagge
 % Cercar non so ch'Amor non venga sempre
 % Ragionando con meco, ed io con lui.
 
@@ -40,11 +40,11 @@ cantoLyricsXII = \lyricmode {
     E fiu -- mi~e sel -- ve sap -- pian di che tem -- pre
     Sia la mia vi -- ta, ch'è ce -- la -- ta~al -- tru -- i.
 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so ch'A -- mor non ven -- ga sem -- pre
     Ra -- gio -- nan -- do con me -- co~ed io con lu -- i,
 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so ch'A -- mor non ven -- ga sem -- pre
     Ra -- gio -- nan -- do con me -- co~ed io con lu -- i,
         ch'A -- mor non ven -- ga sem -- pre
@@ -89,13 +89,13 @@ altoLyricsXII = \lyricmode {
         sap -- pian di che tem -- pre
     Sia la __ mia vi -- ta, ch'è ce -- la -- ta~al -- tru -- i.
 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so % ch'A -- mor non ven -- ga sem -- pre
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so ch'A -- mor non ven -- ga sem -- pre
     Ra -- gio -- nan -- do con me -- co~ed io con lu -- i,
 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge __
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge __
     Cer -- car non so ch'A -- mor non ven -- ga sem -- pre
     Ra -- gio -- nan -- do con me -- co~ed io con lu -- i.
 }
@@ -135,11 +135,11 @@ tenoreLyricsXII = \lyricmode {
     E fiu -- mi~e sel -- ve sap -- pian di che tem -- pre
     Sia la mia vi -- ta, ch'è __ ce -- la -- ta~al -- tru -- i.
 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so ch'A -- mor non ven -- ga sem -- pre
     Ra -- gio -- nan -- do con me -- co~ed io con lu -- i,
 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so ch'A -- mor non ven -- ga sem -- pre
     Ra -- gio -- nan -- do con me -- co~ed io con lu -- i,
         ed io con lu -- i.
@@ -179,11 +179,11 @@ bassoLyricsXII = \lyricmode {
     E fiu -- mi~e sel -- ve sap -- pian di che tem -- pre
     Sia la __ mia vi -- ta, ch'è ce -- la -- ta~al -- tru -- i.
 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so ch'A -- mor non ven -- ga sem -- pre
     Ra -- gio -- nan -- do con me -- co~ed io con lu -- i,
 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so ch'A -- mor non ven -- ga sem -- pre
     Ra -- gio -- nan -- do con me -- co~ed io con lu -- i.
 }
@@ -222,9 +222,9 @@ quintoLyricsXII = \lyricmode {
     Sia la mia vi -- ta, 
     Sia la mia vi -- ta, ch'è __ ce -- la -- ta~al -- tru -- i.
 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so 
-    Ma pur sì a -- spre vie né sì sel -- vag -- ge
+    Ma pur sì a -- spre vie nè sì sel -- vag -- ge
     Cer -- car non so ch'A -- mor non ven -- ga sem -- pre
     Ra -- gio -- nan -- do con me -- co~ed io con lu -- i, __
 

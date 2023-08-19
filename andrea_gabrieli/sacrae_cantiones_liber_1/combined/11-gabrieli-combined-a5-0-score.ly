@@ -15,7 +15,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "cantate_domino_canticum_novum"
     shortcomp = "gabrieli"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Psalm 96:1-4"
 
     % Unchanging:

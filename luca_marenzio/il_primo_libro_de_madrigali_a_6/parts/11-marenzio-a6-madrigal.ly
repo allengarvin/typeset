@@ -1,5 +1,5 @@
 % Ahimè, tal fu d'Amore e l'esca e l'amo
-% La fiamme e'l visco, le quadrella e'l laccio
+% La fiamma e'l visco, le quadrella e'l laccio
 % Ch'or di doglia mi pasco, e temo e bramo
 % E'n dubbio di me stesso ardendo aghiaccio;
 % Bramo di veder quella che sempre amo
@@ -51,8 +51,8 @@ cantoLyricsXI = \lyricmode {
     \normalLyrics
         tal fu d'A -- mo -- re e l'e -- sca~e l'a -- mo,
         tal fu d'A -- mo -- re e l'e -- sca~e l'a -- mo
-    La fiam -- me,
-    La fiam -- me e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, __
+    La fiam -- ma,
+    La fiam -- ma e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, __
     Ch'or di do -- glia mi pa -- sco~e te -- mo~e bra -- mo
     E'n dub -- bio di me stes -- so,
     E'n dub -- bio di me stes -- so~ar -- den -- do~a -- ghiac -- cio;
@@ -113,8 +113,8 @@ altoLyricsXI = \lyricmode {
             e l'e -- sca~e l'a -- mo,
     \normalLyrics
             e l'e -- sca~e l'a -- mo
-    La fiam -- me,
-    La fiam -- me e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, 
+    La fiam -- ma,
+    La fiam -- ma e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, 
     Ch'or __ di do -- glia mi pa -- sco~e te -- mo~e bra -- mo
     E'n dub -- bio di me stes -- so~ar -- den -- do~a -- ghiac -- cio;
     Bra -- mo di ve -- der quel -- la che sem -- pre~a -- mo
@@ -164,8 +164,8 @@ tenoreLyricsXI = \lyricmode {
     \normalLyrics
         tal fu d'A -- mo -- re e l'e -- sca~e l'a -- mo,
             e l'e -- sca~e l'a -- mo
-    La fiam -- me,
-    La fiam -- me e'l vi -- sco, le qua -- drel -- la e'l lac -- cio,  __
+    La fiam -- ma,
+    La fiam -- ma e'l vi -- sco, le qua -- drel -- la e'l lac -- cio,  __
     Ch'or di do -- glia mi pa -- sco~e te -- mo e bra -- mo
         ar -- den -- do~a -- ghiac -- cio;
     E te -- mo non ve -- der -- la, on -- de mi sfac -- cio __
@@ -213,8 +213,8 @@ bassoXI = \relative c' {
 bassoLyricsXI = \lyricmode {
     Ahi -- mè, tal fu d'A -- mo -- re,
         tal fu d'A -- mo -- re e l'e -- sca~e l'a -- mo,
-    La fiam -- me,
-    La fiam -- me~e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, 
+    La fiam -- ma,
+    La fiam -- ma~e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, 
     Ch'or __ di do -- glia mi __ pa -- sco,
         mi pa -- sco~e te -- mo~e bra -- mo
         ar -- den -- do~a -- ghiac -- cio;
@@ -267,8 +267,8 @@ quintoLyricsXI = \lyricmode {
         e l'e -- sca~e l'a -- mo,
     \normalLyrics
         e l'e -- sca~e l'a -- mo,
-    La fiam -- me,
-    La fiam -- me~e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, 
+    La fiam -- ma,
+    La fiam -- ma~e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, 
         e'l lac -- cio, 
     Ch'or __ di do -- glia mi pa -- sco~e te -- mo~e __ bra -- mo
     E'n dub -- bio di me stes -- so ar -- den -- do~a -- ghiac -- cio;
@@ -325,7 +325,7 @@ sestoLyricsXI = \lyricmode {
     \ijLyrics
         e l'e -- sca~e l'a -- mo,
     \normalLyrics
-    La fiam -- me e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, 
+    La fiam -- ma e'l vi -- sco, le qua -- drel -- la~e'l lac -- cio, 
     Ch'or __ di do -- glia mi pa -- sco e te -- mo~e bra -- mo
     E'n dub -- bio di me stes -- so~ar -- den -- do,
     Bra -- mo di ve -- der quel -- la che sem -- pre~a -- mo
