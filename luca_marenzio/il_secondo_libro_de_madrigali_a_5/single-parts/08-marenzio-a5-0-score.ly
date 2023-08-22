@@ -97,8 +97,18 @@
                 \line { E i pargoletti amori }
                 \line { Van con le Ninfe intorno }
                 \line { Al mio bel sole adorno, }
-                \line { Scherzando ad ora ad ora }
+                \line { Scherzando ad ora ad ora, }
                 \line { Onde la terra e’l ciel se n’innamora. }
+            }
+            \column { 
+                \line { When the dawn rises, }
+                \line { the grasses and the flowers smile }
+                \line { and the amorous cherubs }
+                \line { go with the nymphs around }
+                \line { my lovely adorned sun, }
+                \line { frolicking all the while, }
+                \line { where the earth and the heavens fall in love. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

@@ -6,40 +6,40 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.0)
+#(set-global-staff-size 17.0)
 
 \header {
+    lastupdated = "2023-08-19"
+    originallyset = "2023-08-19"
+    flats = 0
+    final = "g"
+    \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Filli al partir"
-    subtitle = ""
-    instrument = "Filli al partir:  (score)"
+    title = "Per farmi Amor"
+    subtitle = "Prima parte"
+    instrument = "Per farmi Amor: Prima parte (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "filli_al_partir"
-    shortcomp = "luzzaschi"
-    composer = "Luzzasco Luzzaschi (c.1545-1607)"
+    shorttitle = "per_farmi_amor"
+    shortcomp = "gabrieli"
+    categories = "[madrigal]"
+    motifs = "[]"
     needtranslation = #'t
 
     % Unchanging:
     language = "italian"
-    lastupdated = "2021-10-02"
-    originallyset = "2021-10-02"
-    flats = 1
-    final = "g"
-    categories = "[madrigal]"
-    motifs = "[pastoral,parting]"
-    \include "include/distribution-header.ly"
+    poeticform = "sonnet"
     tagline = #'f
 }
 
-\include "../parts/20-luzzaschi-a6-madrigal.ly"
+\include "../parts/20-gabrieli-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "20-luzzaschi--filli_al_partir-"
+    \bookOutputName "20-gabrieli--per_farmi_amor-prima_parte"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
@@ -50,13 +50,13 @@
                 >>
              \addlyrics { \cantoLyricsXX }
                 \new Voice <<
-                    \set Staff.instrumentName = #"Sesto"
-                    \incipit \sestoXXincipitVoice
+                    \set Staff.instrumentName = #"Alto"
+                    \incipit \altoXXincipitVoice
                     \clef "treble"
                     \global
-                    \sestoXX
+                    \altoXX
                 >>
-             \addlyrics { \sestoLyricsXX }
+             \addlyrics { \altoLyricsXX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoXXincipitVoice
@@ -66,14 +66,6 @@
                 >>
              \addlyrics { \quintoLyricsXX }
                 \new Voice <<
-                    \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXXincipitVoice
-                    \clef "treble_8"
-                    \global
-                    \altoXX
-                >>
-             \addlyrics { \altoLyricsXX }
-                \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreXXincipitVoice
                     \clef "treble_8"
@@ -81,6 +73,14 @@
                     \tenoreXX
                 >>
              \addlyrics { \tenoreLyricsXX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Sesto"
+                    \incipit \sestoXXincipitVoice
+                    \clef "bass"
+                    \global
+                    \sestoXX
+                >>
+             \addlyrics { \sestoLyricsXX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoXXincipitVoice
@@ -95,24 +95,26 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 72 2)
+                tempoWholesPerMinute = #(ly:make-moment 86 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Filli al partir del suo caro Pastore }
-                \line { dicea: ben mio, se tu fai col mio core, }
-                \line { ohimè, da me partita, }
-                \line { che fia della mia vita? }
-                \line { Io non posso partire, }
-                \line { rispose egli: da te senza morire, }
-                \line { né mai da te si parte }
-                \line { quella di me più cara e miglior parte }
-                \line { che teco Amor unio, }
-                \line { ma da me stesso io parto e dal cor mio. }
+                \line { Per farmi Amor d'ogni altro più contento, }
+                \line { allor che men pensai d'essegli grato }
+                \line { il bel viso da me cotanto amato }
+                \line { mosse ad aver pietà del mio tormento. }
+                \line { Ond'io che sì gran ben conosco e sento }
+                \line { gioia ch'avanza ogni mortale stato }
+                \line { il presente mi godo e pel passato, }
+                \line { d'aver assai patito non mi pento. }
             }
+%           \column {
+%               % translation orig date:
+%               % translation updated:
+%           }
         }
     }
 }
