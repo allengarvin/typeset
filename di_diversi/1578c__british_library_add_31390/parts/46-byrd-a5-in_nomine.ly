@@ -30,7 +30,7 @@ cantusXLVI = \relative c'' {
 
     bf c] d[ c d e] | f4 f, a2 r4 a a8[ bf c d] | e[ d e f] g2 r2 r4 g, |
         g8[ f g a] bf[ a bf c] d4. c8 a2 | r2 r4 c4 c8[ bf c d] e[ d e f] |
-        g2 r4 a, bf8[ a bf c] d[ e]\ficta fs4\unficta | 
+        g2 r4 a, bf8[ a bf c] d[ e] f?4 | 
         d4 g2 f4 g d4. c8 a4 | b\longa*1/2
     \bar "|."
 }
