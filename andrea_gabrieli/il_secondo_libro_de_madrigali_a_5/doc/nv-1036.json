@@ -1,0 +1,21 @@
+{
+    "composer" : "GABRIELI, Andrea",
+    "nvId" : 1036,
+    "page" : 680,
+    "year" : 1572,
+    "titleDesc" : "Di Andrea Gabrieli organista della Illustrissima S. di Venetia in S. Marco Il Secondo Libro di Madrigali a cinque voci, insieme doi e sei et uno Dialogo a otto. Novamente con ogni diligentia Ristampato. A cinque voci. In Venetia apresso li figluoli di Antonio Gardano, 1572."
+    "titleShort" : "Il secondo libro di madrigali a 5 voci",
+    "titleAbbr" : "IIa5",
+    "dedication" : "Ded. e Indice == 1570",
+    "fascicles" : [ "C", "A", "T", "B", "5" ],
+    "folds" : "8°",
+    "pagine" : "28",
+    "libraries" : {
+        "D-Mbs" : "complete",
+        "GB-Lem": "complete",
+        "GB-Lwa" : "complete",
+        "GB-Lbm" : [ "C", "A", "T", "5" ],
+        "I-Vnm (Canal)" : "B"
+    }
+}
+

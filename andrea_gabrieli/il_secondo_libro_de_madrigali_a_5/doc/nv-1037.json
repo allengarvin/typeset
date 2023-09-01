@@ -1,0 +1,170 @@
+{
+    "composer" : "GABRIELI, Andrea",
+    "nvId" : 1037,
+    "page" : 680,
+    "year" : 1588,
+    "titleDesc" : "Di Andrea Gabrieli organista della serenissima Signoria di Venetia in S. Marco il Secondo Libro di Madrigali a cinque voci. Con un Dialogo a otto, novamente ristampato. In Venetia appresso Angelo Gardano, 1588.",
+    "titleShort" : "Il secondo libro di madrigali a 5 voci",
+    "titleAbbr" : "IIa5",
+    "fascicles" : [ "C", "A", "T", "B", "5" ],
+    "folds" : "8°",
+    "pagine" : "31",
+    "emendations" : "Additional corrections via CPDL (unchecked as yet)",
+    "pieces" : [
+        {
+            "piece" : "Molino a le virtù tante e sì rare",
+            "page" : 1
+        },
+        {
+            "piece" : "Felice Antonio, alma ricetto",
+            "page" : 2,
+            "parte": "seconda parte"
+        },
+        {
+            "piece" : "Laura, soave, vita di mia vita, che così dolcemente",
+            "page" : 3,
+            "poet" : "Cassola"
+        },
+        {
+            "piece" : "Dimmi, cieco, ch'avventi fiamm'e strali",
+            "page" : 4,
+        },
+        {
+            "piece" : "Ove son le promesse, ove la fede",
+            "page" : 5,
+            "parte": "seconda parte",
+        },
+        {
+            "piece" : "Alma serena e bella, se del vostro splendor",
+            "page" : 6,
+            "poet" : "Cassola",
+        },
+        {
+            "piece" : "Amor, che de' mortali ogni cor vede, ha ritrovato",
+            "page" : 7,
+        },
+        {
+            "piece" : "Se sol pensando in voi chiara si vede",
+            "page" : 8,
+        },
+        {
+            "piece" : "Quando spirti divini suonan in voce",
+            "page" : 9,
+        },
+        {
+            "piece" : "Deh qual prova maggior, donna, volete del mio crudel martire",
+            "page" : 10,
+        },
+        {
+            "piece" : "Vaghi augelletti, che per valli e monti e monti accompagnate",
+            "page" : 11,
+        },
+        {
+            "piece" : "La viva neve e le vermiglie rose",
+            "page" : 12,
+            "poet" : "Almateo",
+            "notes" : "Poetic attribution via CPDL"
+        },
+        {
+            "piece" : "Le treccie d'or, che m'annodaro il core",
+            "page" : 13,
+            "parte": "seconda parte",
+            "poet" : "Almateo",
+            "notes" : "Poetic attribution via CPDL"
+        },
+        {
+            "piece" : "Amami, vita mia, ch'io t'amo anchora",
+            "page" : 14,
+        },
+        {
+            "piece" : "Ben mille volte il dì meco m'adiro",
+            "page" : 15,
+            "poet" : "Cassola"
+        },
+        {
+            "piece" : "Fuggi speme mia, fuggi per non far giamai ritorno",
+            "page" : 16,
+            "poet" : "Cini",
+            "notes" : "Poetic attribution via CPDL"
+        },
+        {
+            "piece" : "Gentil madonna e questo di rubin, di gemm'e d'oro",
+            "page" : 17,
+        },
+        {
+            "piece" : "Non vedi, o sacr'Apollo, com'a gran torto",
+            "page" : 18,
+        },
+        {
+            "piece" : "Vostro fui e sarò, mentre ch'io viva",
+            "page" : 19,
+        },
+        {
+            "piece" : "Angel dal terzo cielo, dal terzo ciel scieso fra noi",
+            "page" : 20,
+        },
+        {
+            "piece" : "Così ogni vostra voglia, donna, bramo adempire",
+            "page" : 21,
+            "poet" : "Parabosco",
+            "notes" : "Poetic attribution via CPDL"
+        },
+        {
+            "piece" : "Gira lunga stagion lucente e viva per l'Italico ciel",
+            "page" : 22,
+        },
+        {
+            "piece" : "O d'honesta beltà luce sovrana",
+            "page" : 23,
+            "parte": "seconda parte",
+        },
+        {
+            "piece" : "Quanti sepolti giù nel foco eterno",
+            "page" : 24,
+        },
+        {
+            "piece" : "Come havrò pace",
+            "page" : 25,
+        },
+        {
+            "piece" : "Alma beltà e bella, che da legami sciolta, nuda salisti",
+            "page" : 26,
+            "poet" : "Sannazaro",
+        },
+        {
+            "piece" : "Altri monti, altri piani",
+            "page" : 27,
+            "parte": "seconda parte",
+            "poet" : "Sannazaro",
+        },
+        {
+            "piece" : "Quale la vita e l'olmo",
+            "page" : 28,
+            "parte": "terza parte",
+            "poet" : "Sannazaro",
+        },
+        {
+            "piece" : "Pianser le sante dive",
+            "page" : 29,
+            "parte": "quarta parte",
+            "poet" : "Sannazaro",
+        },
+        {
+            "piece" : "Dunque fresche corone",
+            "page" : 30,
+            "parte": "quinta parte",
+            "poet" : "Sannazaro",
+        },
+        {
+            "piece" : "S'al ciel piace, signora",
+            "page" : 31,
+        }
+    ],
+    "libraries" : {
+        "B-Br" : "complete",
+        "D-DI" : "complete",
+        "GB-Lbm" : [ "C", "A", "T", "B" ],
+        "F-CC" : [ "C" ]
+    }
+}
+
