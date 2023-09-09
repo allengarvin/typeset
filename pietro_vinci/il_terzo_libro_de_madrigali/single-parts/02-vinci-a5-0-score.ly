@@ -10,13 +10,13 @@
 
 \header {
     % Things that change per piece:
-    title = "Nè la dolce stagion"
+    title = "Nella dolce stagion"
     subtitle = ""
-    instrument = "Nè la dolce stagion:  (score)"
+    instrument = "Nella dolce stagion:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "ne_la_dolce_stagion"
+    shorttitle = "nella_dolce_stagion"
     shortcomp = "vinci"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Tarquinia Molza (1542-1617)"
 
     % Unchanging:
@@ -26,6 +26,7 @@
     flats = 1
     final = "f"
     categories = "[madrigal]"
+    motifs = "[paradox,spring,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -33,7 +34,7 @@
 \include "../parts/02-vinci-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "02-vinci--ne_la_dolce_stagion-"
+    \bookOutputName "02-vinci--nella_dolce_stagion-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -93,13 +94,24 @@
     \markup {
         \fill-line {
             \column {
-                \line { Nè la dolce stagion di primavera }
-                \line { Senza foglie vedrò mirti et allori }
-                \line { Di verno al ghiaccio i fiori; }
-                \line { Sorger lieti e fiorir rose e viole, }
-                \line { Pria che da voi mio sole }
-                \line { Scioglia quest’alma o che per l’altro oggetto, }
-                \line { Nuovo foco d’amor mi scaldi il petto. }
+                \line { Nella dolce stagion di primavera }
+                \line { senza foglie vedrò mirti ed allori, }
+                \line { di verno al ghiaccio i fiori }
+                \line { sorger lieti, e fiorir rose e viole, }
+                \line { pria che da voi mio sole }
+                \line { scioglia quest’alma o che per l’altro oggetto, }
+                \line { nuovo foco d’amor mi scaldi il petto. }
+            }
+            \column {
+                % translation: 2023-09-06 THIS WAS HARD
+                \line { In the sweet season of spring }
+                \line { I will see myrtles and laurels stand without leaves, }
+                \line { and in the frost of winter, flowers }
+                \line { bloom forth happily, and roses and violets blossom, }
+                \line { before from you, my Sun, }
+                \line { this soul would be unbound, or for another }
+                \line { would a new flame of love burn in my breast. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

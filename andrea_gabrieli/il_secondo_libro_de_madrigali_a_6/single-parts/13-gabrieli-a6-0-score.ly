@@ -14,6 +14,7 @@
     subtitle = ""
     instrument = "Or ch’a noi torna la stagion novella:  (score)"
     categories = "[madrigal]"
+    motifs = "[pastoral,cupid]"
     needtranslation = #'f
     language = "italian"
     shortcomp = "a_gabrieli"
@@ -107,7 +108,6 @@
                 \line { dolcemente cantando a primavera. }
             }
             \column {
-                % my translation
                 % modified 2023-06-17
                 \line { Now that the new season returns to us, }
                 \line { the birds, the beasts and all the animals }

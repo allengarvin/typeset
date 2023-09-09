@@ -302,7 +302,8 @@ bassoI = \relative c' {
     \fourTwoCommonTime d1 r1 | r1 f2 f | f f4 f d c bf c |
         d2 d bf' bf | bf bf4 f g a bf a | g2 g c, f |
 
-    d2 g1 ef2 | f1 d | R\breve*2 | d1 d2 c | bf a g1 | g g' | g2 f ef1 ~ |
+                 % vv correction! (was a d) Kip let me know
+    d2 g1 ef2 | f1 bf, | R\breve*2 | d1 d2 c | bf a g1 | g g' | g2 f ef1 ~ |
         ef2 bf c1 | g r1 | d'4 d d2
 
     e4 g fs2 ~ | fs g r1 | R\breve*2 | r4 f g bf4. a8 a4 bf bf, |

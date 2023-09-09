@@ -108,7 +108,7 @@
                 \line { e punga il cor di velenosa spina. }
             }
             \column {
-            % My translation (from Jan 2023?)
+            % translation (from Jan 2023?)
                 \line { Snow and roses she has in her face, }
                 \line { my new little angel, whence I discern }
                 \line { spring which opens at the point with winter; }

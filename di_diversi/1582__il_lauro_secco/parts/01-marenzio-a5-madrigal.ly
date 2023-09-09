@@ -1,16 +1,16 @@
-% Mentre l’aura spirò nel verde Lauro,
-% Felice fu l’ardore,
-% Con che m’accese il core,
-% Che lieto à l’ombra del’amate foglie
-% Addolcia mie doglie.
-% Hor perche (lasso oime) secco ti vedo ?
-% Forsi è’l foco, che move
-% l’alma de’ sospir miei caldi & ardenti ?
-% Ma tu l’ira di Giove,
-% N’è’l fulmine paventi.
+% Mentre l'aura spirò nel verde Lauro,
+% felice fu l'ardore,
+% con che m'accese il core,
+% che lieto a l'ombra del'amate foglie
+% addolcia mie doglie.
+% Or perché (lasso ohime) secco ti vedo?
+% Forsi è'l foco, che move
+% l'alma de' sospir miei caldi ed ardenti?
+% ma tu l'ira di Giove,
+% n'è'l fulmine paventi.
 % Ahi per me secco, e ad altri verde; Io credo,
-% Che sotto à i sacri rami un sogno tale
-% Veder mi fè la tua virtù fatale.
+% che sotto a i sacri rami un sogno tale
+% veder mi fe la tua virtù fatale.
 
 cantoIincipit = \relative c'' {
     \time 4/4
@@ -63,37 +63,37 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    % Men -- tre l’au -- ra spi -- rò 
+    % Men -- tre l'au -- ra spi -- rò 
         nel ver -- de Lau -- ro,
-    % Fe -- li -- ce fu l’ar -- do -- re,
-    Con che m’ac -- ce -- se~il co -- re,
+    % Fe -- li -- ce fu l'ar -- do -- re,
+    Con che m'ac -- ce -- se~il co -- re,
     Che lie -- to,
     Che lie -- to,
-    Che lie -- to~à l’om -- bra de l’a -- ma -- te fo -- glie
+    Che lie -- to~a l'om -- bra de l'a -- ma -- te fo -- glie
     Ad -- dol -- cia le mie do -- glie,
         le mie __ do -- glie.
 
-    Hor per -- che __ (las -- so~oi -- me oi -- me) sec -- co __ ti ve -- do?
+    Or per -- ché __ (las -- so~ohi -- mè ohi -- mè) sec -- co __ ti ve -- do?
         sec -- co ti ve -- do?
     For -- si~è~il fo -- co, 
     For -- si~è~il fo -- co, che mo -- ve
-    L’al -- ma de’ so -- spir miei cal -- di~ed ar -- den -- ti?
-    Ma tu l’i -- ra,
-        l’i -- ra di Gio -- ve,
-    Nè’l ful -- mi -- ne pa -- ven -- ti,
-    Nè’l ful -- mi -- ne pa -- ven -- ti.
+    L'al -- ma de' so -- spir miei cal -- di~ed ar -- den -- ti?
+    Ma tu l'i -- ra,
+        l'i -- ra di Gio -- ve,
+    N'è'l ful -- mi -- ne pa -- ven -- ti,
+    N'è'l ful -- mi -- ne pa -- ven -- ti.
 
     Ahi __
     Ahi __ per me sec -- co~e~ad al -- tri ver -- de~io
         cre -- do,
         io cre -- do,
-    Che sot -- to~à~i sa -- cri ra -- mi~un so -- gno ta -- le, __
+    Che sot -- to~a~i sa -- cri ra -- mi~un so -- gno ta -- le, __
         la tua vir -- tù, 
-    Ve -- der mi fè,
-    Ve -- der mi fè la tua vir -- tù fa -- ta -- le,
-        ve -- der mi fè,
-        ve -- der mi fè,
-    Ve -- der mi fè la tua vir -- tù fa -- ta -- le.
+    Ve -- der mi fe,
+    Ve -- der mi fe la tua vir -- tù fa -- ta -- le,
+        ve -- der mi fe,
+        ve -- der mi fe,
+    Ve -- der mi fe la tua vir -- tù fa -- ta -- le.
 }
 
 altoIincipit = \relative c'' {
@@ -143,33 +143,33 @@ altoI = \relative c'' {
 }
 
 altoLyricsI = \lyricmode {
-    Men -- tre l’au -- ra spi -- rò nel ver -- de Lau -- ro,
-    Fe -- li -- ce fu l’ar -- do -- re,
-    Con che m’ac -- ce -- se~il co -- re,
+    Men -- tre l'au -- ra spi -- rò nel ver -- de Lau -- ro,
+    Fe -- li -- ce fu l'ar -- do -- re,
+    Con che m'ac -- ce -- se~il co -- re,
     Che lie -- to,
-    Che lie -- to~à l’om -- bra de l’a -- ma -- te fo -- glie
+    Che lie -- to~a l'om -- bra de l'a -- ma -- te fo -- glie
         le mie do -- glie,
     Ad -- dol -- cia le mie do -- glie.
 
-    Hor per -- che __ (las -- so~oi -- me) sec -- co ti ve -- do?
+    Or per -- ché __ (las -- so~ohi -- mè) sec -- co ti ve -- do?
     For -- si~è~il fo -- co, 
     For -- si~è~il fo -- co, che __ mo -- ve
-    L’al -- ma de’ so -- spir miei cal -- di~ed ar -- den -- ti?
-    Ma tu l’i -- ra,
-        l’i -- ra di Gio -- ve,
-    Nè’l ful -- mi -- ne pa -- ven -- ti,
-    Nè’l ful -- mi -- ne pa -- ven -- ti. __
+    L'al -- ma de' so -- spir miei cal -- di~ed ar -- den -- ti?
+    Ma tu l'i -- ra,
+        l'i -- ra di Gio -- ve,
+    N'è'l ful -- mi -- ne pa -- ven -- ti,
+    N'è'l ful -- mi -- ne pa -- ven -- ti. __
 
     Ahi __ per me sec -- co~e~ad al -- tri ver -- de~io
         cre -- do,
         io cre -- do,
-    Che sot -- to~à~i sa -- cri ra -- mi~un so -- gno ta -- le, 
-    Ve -- der mi fè,
-    Ve -- der mi fè la tua vir -- tù fa -- ta -- le,
-        ve -- der mi fè,
-    ve -- der mi fè la tua vir -- tù fa -- ta -- le,
-        ve -- der mi fè,
-    Ve -- der mi fè la tua vir -- tù __ fa -- ta -- le.
+    Che sot -- to~a~i sa -- cri ra -- mi~un so -- gno ta -- le, 
+    Ve -- der mi fe,
+    Ve -- der mi fe la tua vir -- tù fa -- ta -- le,
+        ve -- der mi fe,
+    ve -- der mi fe la tua vir -- tù fa -- ta -- le,
+        ve -- der mi fe,
+    Ve -- der mi fe la tua vir -- tù __ fa -- ta -- le.
 }
 
 tenoreIincipit = \relative c' {
@@ -221,40 +221,40 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-    Men -- tre l’au -- ra spi -- rò 
-    Fe -- li -- ce fu l’ar -- do -- re,
-    Con che m’ac -- ce -- se~il co -- re,
+    Men -- tre l'au -- ra spi -- rò 
+    Fe -- li -- ce fu l'ar -- do -- re,
+    Con che m'ac -- ce -- se~il co -- re,
     Che lie -- to,
-    Che lie -- to~à l’om -- bra de l’a -- ma -- te fo -- glie
+    Che lie -- to~a l'om -- bra de l'a -- ma -- te fo -- glie
     Ad -- dol -- cia le mie do -- glie,
     Ad -- dol -- cia le mie do -- glie.
 
-    Hor per -- che __ (las -- so~oi -- me oi -- me) sec -- co ti ve -- do?
+    Or per -- ché __ (las -- so~ohi -- mè ohi -- mè) sec -- co ti ve -- do?
         sec -- co ti ve -- do?
     For -- si~è~il fo -- co, 
     For -- si~è~il fo -- co, 
         cal -- di~ed ar -- den -- ti?
-    Ma tu l’i -- ra, l’i -- ra,
-        l’i -- ra di Gio -- ve,
-    Nè’l ful -- mi -- ne pa -- ven -- ti,
-    Nè’l ful -- mi -- ne pa -- ven -- ti.
+    Ma tu l'i -- ra, l'i -- ra,
+        l'i -- ra di Gio -- ve,
+    N'è'l ful -- mi -- ne pa -- ven -- ti,
+    N'è'l ful -- mi -- ne pa -- ven -- ti.
 
     Ahi 
     Ahi __ per me sec -- co~e~ad al -- tri ver -- de~io cre -- do,
         io cre -- do,
-    Che sot -- to~à~i sa -- cri ra -- mi~un so -- gno ta -- le, 
-    Ve -- der mi fè,
+    Che sot -- to~a~i sa -- cri ra -- mi~un so -- gno ta -- le, 
+    Ve -- der mi fe,
     \ijLyrics
-    ve -- der mi fè,
+    ve -- der mi fe,
     \normalLyrics
-    Ve -- der mi fè la tua vir -- tù fa -- ta -- le,
-        ve -- der mi fè,
-    Ve -- der mi fè la tua vir -- tù fa -- ta -- le,
-    Ve -- der mi fè,
+    Ve -- der mi fe la tua vir -- tù fa -- ta -- le,
+        ve -- der mi fe,
+    Ve -- der mi fe la tua vir -- tù fa -- ta -- le,
+    Ve -- der mi fe,
     \ijLyrics
-    ve -- der mi fè,
+    ve -- der mi fe,
     \normalLyrics
-    Ve -- der mi fè la tua vir -- tù fa -- ta -- le.
+    Ve -- der mi fe la tua vir -- tù fa -- ta -- le.
 }
 
 bassoIincipit = \relative c' {
@@ -305,36 +305,36 @@ bassoI = \relative c' {
 }
 
 bassoLyricsI = \lyricmode {
-    Men -- tre l’au -- ra spi -- rò 
+    Men -- tre l'au -- ra spi -- rò 
         nel ver -- de Lau -- ro,
-    Fe -- li -- ce fu l’ar -- do -- re,
-    Con che m’ac -- ce -- se~il co -- re,
-    Che lie -- to~à l’om -- bra,
-    Che lie -- to~à l’om -- bra,
-    Che lie -- to~à l’om -- bra,
+    Fe -- li -- ce fu l'ar -- do -- re,
+    Con che m'ac -- ce -- se~il co -- re,
+    Che lie -- to~a l'om -- bra,
+    Che lie -- to~a l'om -- bra,
+    Che lie -- to~a l'om -- bra,
     Ad -- dol -- cia, __
     Ad -- dol -- cia le mie do -- glie.
 
     For -- si~è~il fo -- co, 
     For -- si~è~il fo -- co, che mo -- ve
-    L’al -- ma de’ so -- spir miei cal -- di~ed ar -- den -- ti?
-    Ma tu l’i -- ra di Gio -- ve,
-    Nè’l ful -- mi -- ne pa -- ven -- ti,
+    L'al -- ma de' so -- spir miei cal -- di~ed ar -- den -- ti?
+    Ma tu l'i -- ra di Gio -- ve,
+    N'è'l ful -- mi -- ne pa -- ven -- ti,
     \ijLyrics
-    Nè’l ful -- mi -- ne pa -- ven -- ti.
+    N'è'l ful -- mi -- ne pa -- ven -- ti.
     \normalLyrics
 
     Ahi, __
     Ahi, io cre -- do,
-    Che sot -- to~à~i sa -- cri ra -- mi~un so -- gno ta -- le, 
-    Ve -- der mi fè,
+    Che sot -- to~a~i sa -- cri ra -- mi~un so -- gno ta -- le, 
+    Ve -- der mi fe,
     \ijLyrics
-    Ve -- der mi fè 
+    Ve -- der mi fe 
     \normalLyrics
         la tua vir -- tù fa -- ta -- le, __
-        ve -- der mi fè,
+        ve -- der mi fe,
     \ijLyrics
-    Ve -- der mi fè 
+    Ve -- der mi fe 
     \normalLyrics
         la tua vir -- tù fa -- ta -- le.
 }
@@ -387,38 +387,38 @@ quintoI = \relative c'' {
 }
 
 quintoLyricsI = \lyricmode {
-    Men -- tre l’au -- ra spi -- rò 
+    Men -- tre l'au -- ra spi -- rò 
         nel ver -- de Lau -- ro,
-    Fe -- li -- ce fu l’ar -- do -- re,
+    Fe -- li -- ce fu l'ar -- do -- re,
     Che lie -- to,
     Che lie -- to,
-    Che lie -- to~à l’om -- bra de l’a -- ma -- te fo -- glie
+    Che lie -- to~a l'om -- bra de l'a -- ma -- te fo -- glie
     Ad -- dol -- cia le mie do -- glie,
     Ad -- dol -- cia,
     Ad -- dol -- cia le mie do -- glie.
 
-    Hor per -- che __ (las -- so~oi -- me oi -- me) sec -- co ti ve -- do?
+    Or per -- ché __ (las -- so~ohi -- mè ohi -- mè) sec -- co ti ve -- do?
     For -- si~è~il fo -- co, 
     For -- si~è~il fo -- co, che __ mo -- ve
-    L’al -- ma de’ so -- spir miei cal -- di~ed ar -- den -- ti?
-    Ma tu __ l’i -- ra,
-        l’i -- ra di Gio -- ve,
-    Nè’l ful -- mi -- ne pa -- ven -- ti,
-    Nè’l ful -- mi -- ne pa -- ven -- ti.
+    L'al -- ma de' so -- spir miei cal -- di~ed ar -- den -- ti?
+    Ma tu __ l'i -- ra,
+        l'i -- ra di Gio -- ve,
+    N'è'l ful -- mi -- ne pa -- ven -- ti,
+    N'è'l ful -- mi -- ne pa -- ven -- ti.
 
     Ahi __
     Ahi __ per me sec -- co~e~ad al -- tri ver -- de~io
         cre -- do,
         io cre -- do, __
-    Che sot -- to~à~i sa -- cri ra -- mi~un so -- gno ta -- le, 
-    Ve -- der mi fè,
+    Che sot -- to~a~i sa -- cri ra -- mi~un so -- gno ta -- le, 
+    Ve -- der mi fe,
     \ijLyrics
-    ve -- der mi fè,
+    ve -- der mi fe,
     \normalLyrics
-    Ve -- der mi fè la tua vir -- tù fa -- ta -- le,
-    Ve -- der mi fè,
+    Ve -- der mi fe la tua vir -- tù fa -- ta -- le,
+    Ve -- der mi fe,
     \ijLyrics
-    ve -- der mi fè,
+    ve -- der mi fe,
     \normalLyrics
         la tua vir -- tù fa -- ta -- le,
         la tua vir -- tù __ fa -- ta -- le.

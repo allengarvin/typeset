@@ -104,7 +104,6 @@
                 \line { Apre quanto de bel ha'l Paradiso.  }
             }
             \column {
-                % My translation
                 \line { As at the breaking of the dewy dawn }
                 \line { Chloris brings her radiant light }
                 \line { and the most lovely colors }

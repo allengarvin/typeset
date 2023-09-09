@@ -96,12 +96,13 @@
                 \line { Farsi un cieco fanciul sì alto iddio.  }
             }
             \column {
+                % translation modified: 2023-08-25
                 \line { Flee, flee, my heart! }
                 \line { Ungrateful and cruel Love! }
                 \line { As it is too great an error }
-                \line { for a blind youth to make himself so great a god. }
+                \line { for a blind youth to make himself so high a god. }
                 \line { \vspace #1 }
-                \line { Know and understand the wasted time }
+                \line { Understand the wasted time }
                 \line { for a fiction so heaped with deceits! }
                 \line { Leave this servitude, leave these worries! }
                 \line { Stay no more, drowning }

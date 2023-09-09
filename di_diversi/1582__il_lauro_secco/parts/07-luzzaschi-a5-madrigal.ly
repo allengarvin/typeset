@@ -1,25 +1,24 @@
 % Se'l lauro è sempre verde,
-% E per fredda stagion foglia non perde,
-% Ond'è che'l mio sfrondato
-% E secco a primavera sia restato?
-% 
-% Dhe, se pur secco fosse
-% A tutti, come a me, la pena mia
-% Assai minor saria,
+% e per fredda stagion foglia non perde,
+% ond'è che'l mio sfrondato
+% e secco a primavera sia restato?
+% Deh, se pur secco fosse
+% a tutti, come a me, la pena mia
+% assai minor saria;
 % Ma ingrato solo a me secco languisce,
-% E à gli altri più, che mai, verde fiorisce.
+% e a gli altri più, che mai, verde fiorisce.
 % 
-% If the laurel tree is evergreen,
-% and in the cold season does not lose its leaves,
-% why is it that mine has remained leafless
-% and dried up in springtime?
 % 
-% Ah, if it were dried up
-% for everyone as it is for me, my grief
-% would be rather less,
-% but ungrateful, only to mee is it dried up and withered
-% and to others no more than ever green and flourishing.
-    % ^^ from AR Editions
+% If the laurel is evergreen,
+% I in the cold season looses not its leaf,
+% why is it that mine is leafless,
+% and bare in the springtime it remains?
+% Ah, if it were dry
+% for everyone as it is for me, my pain
+% would be be much less;
+% But ungrateful, only for me does it languish dry,
+% and for others more than ever, blossoms green.
+
 
 
 cantoVIIincipit = \relative c'' {
@@ -72,13 +71,13 @@ cantoLyricsVII = \lyricmode {
     On -- d'è che'l mio sfron -- da -- to
     e sec -- co a pri -- ma -- ve -- ra sia re -- sta -- to?
  
-    Dhe, __ se pur sec -- co fos -- se
+    Deh, __ se pur sec -- co fos -- se
     A tut -- ti, co -- me~a me, % la pe -- na mi -- a
     As -- sai mi -- nor sa -- ri -- a,
         la __ pe -- na mi -- a
     Ma~in -- gra -- to % so -- lo~a me sec -- co lan -- gui -- sce,
-    E~à gli~al -- tri più, che mai,
-    e~à gli~al -- tri più, che mai, ver -- de fio -- ri -- sce,
+    E~a gli~al -- tri più, che mai,
+    e~a gli~al -- tri più, che mai, ver -- de fio -- ri -- sce,
         ver -- de fio -- ri -- sce. __
 }
 
@@ -139,14 +138,14 @@ altoLyricsVII = \lyricmode {
     on -- d'è che'l mio sfron -- da -- to
     E sec -- co a pri -- ma -- ve -- ra sia re -- sta -- to?
 
-    Dhe, se pur sec -- co fos -- se
+    Deh, se pur sec -- co fos -- se
     A tut -- ti, co -- me~a me, % la pe -- na mi -- a
     a tut -- ti, co -- me~a me, la pe -- na mi -- a
     As -- sai mi -- nor sa -- ri -- a,
         la pe -- na mi -- a
     as -- sai mi -- nor sa -- ri -- a;
     Ma~in -- gra -- to so -- lo~a me sec -- co lan -- gui -- sce,
-    E~à gli~al -- tri più, che mai, ver -- de fio -- ri -- sce, __
+    E~a gli~al -- tri più, che mai, ver -- de fio -- ri -- sce, __
         ver -- de fio -- ri -- sce.
 }
 
@@ -206,7 +205,7 @@ tenoreLyricsVII = \lyricmode {
         a pri -- ma -- ve -- ra sia re -- sta -- to?
             sia re -- sta -- to?
 
-    Dhe, se pur sec -- co fos -- se
+    Deh, se pur sec -- co fos -- se
     A tut -- ti, co -- me~a me, % la pe -- na mi -- a
     dhe, se pur sec -- co fos -- se
     a tut -- ti, co -- me~a me, la pe -- na mi -- a
@@ -214,7 +213,7 @@ tenoreLyricsVII = \lyricmode {
         la pe -- na mi -- a
     as -- sai mi -- nor sa -- ri -- a,
 %    Ma~in -- gra -- to % so -- lo~a me sec -- co lan -- gui -- sce,
-    E~à gli~al -- tri più, che mai, ver -- de fio -- ri -- sce,
+    E~a gli~al -- tri più, che mai, ver -- de fio -- ri -- sce,
         ver -- de fio -- ri -- sce,
         ver -- de fio -- ri -- sce.
 }
@@ -268,10 +267,10 @@ bassoLyricsVII = \lyricmode {
     on -- d'è che'l mio sfron -- da -- to
     E sec -- co a pri -- ma -- ve -- ra sia re -- sta -- to?
 
-    Dhe, __ se pur sec -- co fos -- se
+    Deh, __ se pur sec -- co fos -- se
     A tut -- ti, co -- me~a me, la __ pe -- na mi -- a
     As -- sai mi -- nor sa -- ri -- a,
-    E~à gli~al -- tri più, che mai, ver -- de fio -- ri -- sce,
+    E~a gli~al -- tri più, che mai, ver -- de fio -- ri -- sce,
         ver -- de fio -- ri -- sce,
         ver -- de fio -- ri -- sce.
 }
@@ -335,7 +334,7 @@ quintoLyricsVII = \lyricmode {
     E sec -- co a pri -- ma -- ve -- ra,
         a pri -- ma -- ve -- ra sia re -- sta -- to?
 
-    Dhe, __ se pur sec -- co fos -- se
+    Deh, __ se pur sec -- co fos -- se
     A tut -- ti, co -- me~a me, 
     dhe, se pur sec -- co fos -- se
     a tut -- ti, co -- me~a me, 
@@ -344,7 +343,7 @@ quintoLyricsVII = \lyricmode {
         la pe -- na mi -- a
     As -- sai mi -- nor sa -- ri -- a,
     Ma~in -- gra -- to so -- lo~a me sec -- co lan -- gui -- sce,
-    E~à gli~al -- tri più, che mai, ver -- de fio -- ri -- sce,
+    E~a gli~al -- tri più, che mai, ver -- de fio -- ri -- sce,
         ver -- de, ver -- de fio -- ri -- sce.
 }
 

@@ -13,7 +13,7 @@
 
     % Things that change per part:
     instrument = "Canzon per sonar à 4 (tenore)"
-    partname = "Tenore (part 3 or 4)"
+    partname = "Tenore (part 3 of 4)"
 
     % Unchanging:
     originallyset = "2013-05-12"

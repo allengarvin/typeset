@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Fuggi, fuggi, cor mio"
     instrument = "Fuggi, fuggi, cor mio (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     final = "f"
     flats = 1
@@ -22,6 +22,7 @@
     lastupdated = "2018-09-26"
     shorttitle = "fuggi_fuggi_cor_mio"
     categories = "[madrigal]"
+    motifs = "[cupid]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -89,6 +90,24 @@
                 \line { E in van pentirsi e finir in dolore }
                 \line { Per esser tropp'erore }
                 \line { Farsi un cieco fanciul sì alto iddio.  }
+            }
+            \column {
+                % translation modified: 2023-08-25
+                \line { Flee, flee, my heart! }
+                \line { Ungrateful and cruel Love! }
+                \line { As it is too great an error }
+                \line { for a blind youth to make himself so high a god. }
+                \line { \vspace #1 }
+                \line { Understand the wasted time }
+                \line { for a fiction so heaped with deceits! }
+                \line { Leave this servitude, leave these worries! }
+                \line { Stay no more, drowning }
+                \line { in jealosy, suspicions, resentments, and tears! }
+                \line { Because the fate of blind lovers }
+                \line { is in vain to repent, and to end in grief, }
+                \line { for it is too much an error }
+                \line { for a blind youth to make himself so great a god. }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }

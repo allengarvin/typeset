@@ -107,7 +107,6 @@
                 \line { tra noi scherzando i pargoletti Amori. }
             }
             \column {
-            % my translation
                 \line { Come gentle Flora, come and chase away }
                 \line { the cloudy rain and the miserable winter }
                 \line { from my eyes and from my heart. }

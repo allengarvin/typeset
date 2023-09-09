@@ -101,14 +101,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Anchor ch'io possa dire, }
-                \line { Che d'haver vita il cor soltanto sente }
-                \line { Quant' a voi son presente; }
-                \line { Poi che non m'è concesso }
-                \line { Esservi ogn'hor appresso, }
-                \line { Mai non vorrei venire, }
-                \line { Mia vita, innanzi a voi, }
-                \line { Tant' ho dolor de la partita poi. }
+                \line { Ancor ch'io possa dire, }
+                \line { che d'haver vita il cor soltanto sente }
+                \line { quant' a voi son presente; }
+                \line { poi che non m'è concesso }
+                \line { esservi ogn'hor appresso, }
+                \line { mai non vorrei venire, }
+                \line { mia vita, innanzi a voi, }
+                \line { tant' ho dolor de la partita poi. }
             }
         }
     }

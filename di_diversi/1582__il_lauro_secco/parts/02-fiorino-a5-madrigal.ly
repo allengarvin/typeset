@@ -1,13 +1,13 @@
 % Ode l'anima mia gioia infinita,
-% Cura di questo core,
-% Pianta gran tempo nel mio sen nodrita,
-% Porgon l'usata aita
-% Questi occhi lassi à la tua sacra fronde
-% Che convertiti in onde
-% Sono, mercè d'Amore,
-% Accio prenda da lor vita, e vigore,
-% E tu crudel non vuoi,
-% Ch'io viva à l'ombra de bei rami tuoi.
+% cura di questo core,
+% pianta gran tempo nel mio sen nodrita,
+% porgon l'usata aita
+% questi occhi lassi a la tua sacra fronde
+% che convertiti in onde
+% sono, mercè d'Amore,
+% accio prenda da lor vita, e vigore,
+% e tu crudel non vuoi,
+% ch'io viva a l'ombra de bei rami tuoi.
 
 cantoIIincipit = \relative c'' {
     \time 4/4
@@ -53,16 +53,16 @@ cantoLyricsII = \lyricmode {
     Pian -- ta gran tem -- po nel mio sen no -- dri -- ta,
     Que -- sti~oc -- chi las -- si,
     Por -- gon l'u -- sa -- ta~a -- i -- ta
-    Que -- sti~oc -- chi las -- si~à la tua sa -- cra fron -- de
+    Que -- sti~oc -- chi las -- si~a la tua sa -- cra fron -- de
     Che con -- ver -- ti -- ti~in on -- de
     So -- no, mer -- cè d'A -- mo -- re,
     % Ac -- cio pren -- da da lor vi -- ta~e vi -- go -- re,
     E tu,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à l'om -- bra de bei ra -- mi tuo -- i,
+    Ch'io vi -- va~a l'om -- bra de bei ra -- mi tuo -- i,
         non vuo -- i,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à l'om -- bra de bei ra -- mi tuo -- i.
+    Ch'io vi -- va~a l'om -- bra de bei ra -- mi tuo -- i.
 }
 
 altoIIincipit = \relative c' {
@@ -112,18 +112,18 @@ altoLyricsII = \lyricmode {
         no -- dri -- ta,
     Que -- sti~oc -- chi las -- si,
     Por -- gon l'u -- sa -- ta~a -- i -- ta
-    Que -- sti~oc -- chi las -- si~à la tua sa -- cra fron -- de
+    Que -- sti~oc -- chi las -- si~a la tua sa -- cra fron -- de
     Che con -- ver -- ti -- ti~in on -- de
     So -- no, mer -- cè d'A -- mo -- re,
     Ac -- cio pren -- da da lor vi -- ta,
         vi -- ta~e vi -- go -- re,
         non vuo -- i,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à l'om -- bra de bei ra -- mi tuo -- i.
+    Ch'io vi -- va~a l'om -- bra de bei ra -- mi tuo -- i.
     E tu __ cru -- del,
     E tu cru -- del non vuo -- i,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à l'om -- bra de bei ra -- mi tuo -- i.
+    Ch'io vi -- va~a l'om -- bra de bei ra -- mi tuo -- i.
 }
 
 tenoreIIincipit = \relative c' {
@@ -173,18 +173,18 @@ tenoreLyricsII = \lyricmode {
         nel mio sen no -- dri -- ta,
     Por -- gon l'u -- sa -- ta~a -- i -- ta
     Por -- gon l'u -- sa -- ta~a -- i -- ta
-    Que -- sti~oc -- chi las -- si à la tua sa -- cra fron -- de
+    Que -- sti~oc -- chi las -- si a la tua sa -- cra fron -- de
     Che con -- ver -- ti -- ti~in on -- de
     So -- no, mer -- cè d'A -- mo -- re,
     Ac -- cio pren -- da da lor vi -- ta~e vi -- go -- re,
     E tu cru -- del non vuo -- i,
     E tu cru -- del,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à l'om -- bra de bei ra -- mi tuo -- i,
+    Ch'io vi -- va~a l'om -- bra de bei ra -- mi tuo -- i,
     E tu cru -- del,
     E tu,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à __ l'om -- bra de bei ra -- mi tuo -- i.
+    Ch'io vi -- va~a __ l'om -- bra de bei ra -- mi tuo -- i.
 }
 
 bassoIIincipit = \relative c {
@@ -225,17 +225,17 @@ bassoLyricsII = \lyricmode {
     Pian -- ta gran tem -- po nel mio sen no -- dri -- ta,
     Por -- gon l'u -- sa -- ta~a -- i -- ta
     Que -- sti~oc -- chi las -- si,
-    Que -- sti~oc -- chi las -- si~à la tua sa -- cra fron -- de
+    Que -- sti~oc -- chi las -- si~a la tua sa -- cra fron -- de
     So -- no, mer -- cè __ d'A -- mo -- re,
     Ac -- cio pren -- da da lor vi -- ta,
         vi -- ta~e vi -- go -- re,
         non vuo -- i,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à l'om -- bra de bei ra -- mi tuo -- i,
+    Ch'io vi -- va~a l'om -- bra de bei ra -- mi tuo -- i,
     E tu cru -- del non vuo -- i,
         non vuo -- i,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à l'om -- bra de bei ra -- mi tuo -- i.
+    Ch'io vi -- va~a l'om -- bra de bei ra -- mi tuo -- i.
 }
 
 quintoIIincipit = \relative c' {
@@ -277,18 +277,18 @@ quintoLyricsII = \lyricmode {
     Pian -- ta gran tem -- po nel mio sen no -- dri -- ta,
     Por -- gon l'u -- sa -- ta~a -- i -- ta
     Que -- sti~oc -- chi las -- si,
-    Que -- sti~oc -- chi las -- si à la tua sa -- cra fron -- de
+    Que -- sti~oc -- chi las -- si a la tua sa -- cra fron -- de
     So -- no, mer -- cè d'A -- mo -- re,
     Ac -- cio pren -- da da lor vi -- ta,
         vi -- ta~e vi -- go -- re,
     E tu cru -- del,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à __ l'om -- bra de bei ra -- mi tuo -- i,
+    Ch'io vi -- va~a __ l'om -- bra de bei ra -- mi tuo -- i,
     E tu cru -- del,
     E tu cru -- del non vuo -- i,
     E tu cru -- del,
     E tu cru -- del non vuo -- i,
-    Ch'io vi -- va~à l'om -- bra de bei ra -- mi tuo -- i.
+    Ch'io vi -- va~a l'om -- bra de bei ra -- mi tuo -- i.
 }
 
 cantoIIincipitVoice = <<

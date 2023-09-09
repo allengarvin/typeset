@@ -2,5 +2,5 @@
     source = "Ricercate sopra il violoncello o clavicemalo (1687)"
 
     style = "Baroque"
-    booktitle = \markup { Typeset by Allen Garvin (aurvondel@gmail.com) (orig. \lastupdated / ver. #(strftime "%Y-%m-%d)" (localtime (current-time))) CC BY-NC 4.0 }
+    booktitle = \markup { Typeset by Allen Garvin (aurvondel@gmail.com) (orig. \lastupdated / ver. #(strftime "%Y-%m-%d)" (localtime (current-time))) CC BY-NC 4.0 (no perf. restrictions) }
     tagline = #'f

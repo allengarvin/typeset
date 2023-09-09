@@ -66,7 +66,7 @@ cantoOneXXIV = \relative c'' {
         g[ d' b d] cs[ a'] e4 | fs4 fs a, a | b8[ cs] d4 d cs | 
 
     d4 d8[ cs] b[ a b a] | g4 fs e2 | d4 a' a' a | g4 g8[ fs] e[ d] cs4 |
-        d2 a'4 a | a8[ g fs e] cs d4 cs8 | d8.[ d16] fs4 d8.[ d16] a4 |
+        d2 a'4 a | g8[ fs e d] cs d4 cs8 | d8.[ d16] fs4 d8.[ d16] a4 |
 
     b8[ g b d] cs2 | d8.[ d,16] fs4 d8.[ d16] a'4 |
         b8[ cs] d2 cs4 | d16[ e fs g] a[ g fs e] d4 a |

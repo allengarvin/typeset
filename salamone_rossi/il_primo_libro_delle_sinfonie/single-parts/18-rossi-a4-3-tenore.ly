@@ -13,7 +13,7 @@
 
     % Things that change per part:
     instrument = "Gagliarda I à 4 (tenore)"
-    partname = "Tenore (part 3 or 4)"
+    partname = "Tenore (part 3 of 4)"
 
     % Unchanging:
     originallyset = "2013-06-08"

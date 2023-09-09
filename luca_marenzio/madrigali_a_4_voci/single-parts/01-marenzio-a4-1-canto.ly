@@ -18,6 +18,7 @@
 
     % Unchanging:
     language = "italian"
+    categories = "[madrigal]"
     lastupdated = "2012-12-23"
     shorttitle = "non_vidi_mai_dopo"
     \include "include/distribution-header.ly"

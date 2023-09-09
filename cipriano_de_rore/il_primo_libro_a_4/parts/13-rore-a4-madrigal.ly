@@ -3,7 +3,7 @@
 %    Partir vorrei ogni or, ogni momento:
 %    Tanto è il piacer ch'io sento
 %    De la vita ch'acquisto nel ritorno.
-%    Et così mille e mille volte il giorno,
+%    E così mille e mille volte il giorno,
 %    Partir da voi vorrei: 
 %    Tanto son dolci gli ritorni miei.
 
@@ -61,12 +61,12 @@ cantoLyricsXI = \lyricmode {
     Tan -- to~è~il pia -- cer ch'io sen -- to
     Tan -- to~è~il pia -- cer ch'io sen -- to
     De la vi -- ta ch'ac -- qui -- sto nel ri -- tor -- no.
-    Et co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
+    E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
         mil -- le~e mil -- le vol -- te~il gior -- no,
     Par -- tir da voi vor -- re -- i: __
     Tan -- to son dol -- ci gli ri -- tor -- ni mie -- i.
 
-    Et co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
+    E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
         mil -- le~e mil -- le vol -- te~il gior -- no,
     Par -- tir da voi vor -- re -- i: __
     Tan -- to son dol -- ci gli ri -- tor -- ni __ mie -- i.
@@ -110,14 +110,14 @@ altoLyricsXI = \lyricmode {
     Tan -- to~è~il pia -- cer ch'io sen -- to
     Tan -- to~è~il pia -- cer ch'io sen -- to
     De la vi -- ta ch'ac -- qui -- sto nel __ ri -- tor -- no.
-    Et co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
-    Et co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
+    E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
+    E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
     Par -- tir da voi vor -- re -- i: 
     Tan -- to son dol -- ci,
     Tan -- to son dol -- ci gli ri -- tor -- ni mie -- i.
 
-    Et co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
-    Et co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
+    E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
+    E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
     Par -- tir da voi vor -- re -- i: 
     Tan -- to son dol -- ci,
     Tan -- to son dol -- ci gli ri -- tor -- ni mie -- i.
@@ -164,13 +164,13 @@ tenoreLyricsXI = \lyricmode {
     Tan -- to~è~il pia -- cer ch'io sen -- to
     \normalLyrics
     De la vi -- ta ch'ac -- qui -- sto nel ri -- tor -- no.
-    Et co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
+    E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
         mil -- le~e mil -- le vol -- te~il gior -- no,
         mil -- le~e mil -- le vol -- te~il gior -- no,
     Par -- tir da voi vor -- re -- i: 
     Tan -- to son dol -- ci gli ri -- tor -- ni mie -- i.
 
-    Et co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
+    E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
         mil -- le~e mil -- le vol -- te~il gior -- no,
         mil -- le~e mil -- le vol -- te~il gior -- no,
     Par -- tir da voi vor -- re -- i: 
@@ -218,14 +218,14 @@ bassoLyricsXI = \lyricmode {
     Tan -- to~è~il pia -- cer ch'io sen -- to
     \normalLyrics
     De la vi -- ta ch'ac -- qui -- sto nel ri -- tor -- no.
-    Et co -- sì,
-    Et co -- sì mil -- le~e mil -- le vol -- te,
+    E co -- sì,
+    E co -- sì mil -- le~e mil -- le vol -- te,
         mil -- le~e mil -- le vol -- te~il gior -- no,
     Par -- tir da voi vor -- re -- i: 
     Tan -- to son dol -- ci,
     Tan -- to son dol -- ci gli __ ri -- tor -- ni mie -- i.
 
-    Et co -- sì mil -- le~e mil -- le vol -- te,
+    E co -- sì mil -- le~e mil -- le vol -- te,
         mil -- le~e mil -- le vol -- te~il gior -- no,
     Par -- tir da voi vor -- re -- i: 
     Tan -- to son dol -- ci,

@@ -1,10 +1,13 @@
-% Nè la dolce stagion di primavera
+% Nella dolce stagion di primavera
 % Senza foglie vedrò mirti et allori
 % Di verno al ghiaccio~i fiori;
 % Sorger lieti e fiorir rose e viole,
 % Pria che da voi mio sole
 % Scioglia quest’alma o che per l’altre oggetto,
 % Novo foco d’amor mi scaldi il petto.
+
+% (I previously had this as Né la dolce..., but I think that may be wrong)
+% Scioglia: variation of sciolga, 1st person congiuntivo??
 
 cantoIIincipit = \relative c'' {
     \time 4/4
@@ -46,9 +49,9 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    Nè la dol -- ce sta -- gion di pri -- ma -- ve -- ra
+    Nel -- la dol -- ce sta -- gion di pri -- ma -- ve -- ra
     Sen -- za fo -- glie ve -- drò mir -- ti~ed al -- lo -- ri
-%    Di ver -- n'al ghiac -- cio~i fio -- ri;
+%    Di ver -- n'al ghiac -- cio~i fio -- ri
     Sor -- ger lie -- ti e fio -- rir __ ro -- s'e vi -- o -- le,
     Pria che da voi mio so -- le,
         da voi __ mio so -- le
@@ -107,11 +110,11 @@ altoII = \relative c' {
 }
 
 altoLyricsII = \lyricmode {
-    Nè la dol -- ce sta -- gion di pri -- ma -- ve -- ra,
+    Nel -- la dol -- ce sta -- gion di pri -- ma -- ve -- ra,
         pri -- ma -- ve -- ra
     Sen -- za fo -- glie ve -- drò,
     sen -- za fo -- glie ve -- drò mir -- ti~ed al -- lo -- ri
-    Di ver -- n'al ghiac -- cio~i fio -- ri;
+    Di ver -- n'al ghiac -- cio~i fio -- ri
     Sor -- ger lie -- ti e fio -- rir ro -- s'e vi -- o -- le,
         e fio -- rir __ ro -- s'e vi -- o -- le, __
     Pria che da voi,
@@ -171,7 +174,7 @@ tenoreLyricsII = \lyricmode {
     Sen -- za fo -- glie ve -- drò mir -- ti~ed al -- lo -- ri,
         mir -- ti~ed al -- lo -- ri
     Di ver -- no,
-    Di ver -- n'al ghiac -- cio~i fio -- ri;
+    Di ver -- n'al ghiac -- cio~i fio -- ri
     Sor -- ger lie -- ti e fio -- rir ro -- s'e vi -- o -- le,
         ro -- s'e vi -- o -- le,
         ro -- s'e vi -- o -- le,
@@ -226,9 +229,9 @@ bassoII = \relative c {
 }
 
 bassoLyricsII = \lyricmode {
-    Nè la dol -- ce sta -- gion di pri -- ma -- ve -- ra,
+    Nel -- la dol -- ce sta -- gion di pri -- ma -- ve -- ra,
     Sen -- za fo -- glie ve -- drò mir -- ti~ed al -- lo -- ri
-    Di ver -- n'al ghiac -- cio~i fio -- ri;
+    Di ver -- n'al ghiac -- cio~i fio -- ri
     Sor -- ger lie -- ti e fio -- rir ro -- s'e vi -- o -- le,
         ro -- s'e vi -- o -- le,
     Pria che da voi __ mio so -- le
@@ -287,10 +290,10 @@ quintoII = \relative c' {
 }
 
 quintoLyricsII = \lyricmode {
-    Nè la dol -- ce sta -- gion di pri -- ma -- ve -- ra,
+    Nel -- la dol -- ce sta -- gion di pri -- ma -- ve -- ra,
         di pri -- ma -- ve -- ra
     Sen -- za fo -- glie ve -- drò mir -- ti~ed al -- lo -- ri
-    Di ver -- n'al ghiac -- cio~i fio -- ri;
+    Di ver -- n'al ghiac -- cio~i fio -- ri
     Sor -- ger lie -- ti e fio -- rir ro -- s'e vi -- o -- le,
         e fio -- rir ro -- s'e vi -- o -- le,
     Pria che da voi,

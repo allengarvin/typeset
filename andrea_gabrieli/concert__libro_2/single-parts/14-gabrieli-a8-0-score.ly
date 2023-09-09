@@ -23,6 +23,7 @@
     flats = 1
     final = "g"
     categories = "[madrigal,polychoral]"
+    motifs = "[pastoral,nymph]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

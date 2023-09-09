@@ -23,7 +23,7 @@
     originally_set = "2019-12-14"
     flats = 0
     final = "a"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -103,7 +103,6 @@
                 \line { O che dolce morire. }
             }
             \column {
-                % My translation
                 \line { My lady, to appease your desire, }
                 \line { It is not hard for me to die, }
                 \line { As life wearies me; }

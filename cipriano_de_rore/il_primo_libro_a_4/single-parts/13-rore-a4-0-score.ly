@@ -22,7 +22,7 @@
     flats = 0
     final = "e"
     shorttitle = "anchor_che_col_partire"
-    categories = "[madrigal]"
+    categories = "[madrigal,favorite,morte]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -83,13 +83,13 @@
         \fill-line {
             \column {
                 \line { Ancor che col partire }
-                \line { Io mi sento morire, }
-                \line { Partir vorrei ogni ora, ogni momento: }
-                \line { Tanto è il piacer ch'io sento }
-                \line { De la vita ch'acquisto nel ritorno. }
-                \line { Et così mille e mille volte il giorno, }
+                \line { io mi sento morire, }
+                \line { partir vorrei ogni ora, ogni momento: }
+                \line { tanto è il piacer ch'io sento }
+                \line { della vita ch'acquisto nel ritorno. }
+                \line { E così mille e mille volte il giorno, }
                 \line { Partir da voi vorrei:  }
-                \line { Tanto son dolci gli ritorni miei. }
+                \line { tanto son dolci gli ritorni miei. }
             }
             \column {
                 \line { Even though with parting }

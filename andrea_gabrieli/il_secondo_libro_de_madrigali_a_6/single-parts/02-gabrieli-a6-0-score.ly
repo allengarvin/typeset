@@ -108,7 +108,7 @@
                 \line { si può per troppa gioia venir meno. }
             }
             \column {
-                % my translation: 2023-01-20
+                % translation: 2023-01-20
                 \line { I was encircled in the lovely, bare arms }
                 \line { of Love, full of desire: }
                 \line { So much was my delight and pleasure, }

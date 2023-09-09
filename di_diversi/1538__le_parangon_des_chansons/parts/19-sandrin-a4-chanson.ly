@@ -87,7 +87,7 @@ altusXIX = \relative c' {
 
     d1 d2 d | d2.( c8[ b] a2) b | b a a g |
     % --- page ---
-    a\breve | g1 g2 d' | b \ficta e\unficta d d | f f e1 | c f |
+    a\breve | g1 g2 d' | b \ficta e\unficta d e | f f e1 | c f |
         e2 f e1 | f2.( e4) d2 c | c b c1 | g a | a'1. a2 | f f f f |
         g2.( f4 e d c b | a2 f')
 

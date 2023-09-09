@@ -104,7 +104,6 @@
                 \line { O che felice sorte, }
                 \line { Viver in fiamma e non aver la morte. }
             }
-            % my translation
             \column {
                 % translation date: 2023-01-14
                 \line { As the salamander lives in burning flame }

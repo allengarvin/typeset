@@ -1,4 +1,4 @@
-cantoXIincipit = \relative c'' {
+cantoVIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c1"
     \key f \major
@@ -6,7 +6,7 @@ cantoXIincipit = \relative c'' {
     c1
 }
 
-cantoXI = \relative c'' {
+cantoVI = \relative c'' {
     \fourTwoCutTime
 %    \clef soprano
     \key f \major
@@ -34,7 +34,7 @@ cantoXI = \relative c'' {
     \bar "|."
 }
 
-cantoLyricsXI = \lyricmode {
+cantoLyricsVI = \lyricmode {
     Fug -- gi, fug -- gi cor mi -- o,
     L'in -- gra -- to~e cru -- do~A -- mo -- re,
     Che trop -- po~e gran -- de~er -- ro -- re,
@@ -54,7 +54,7 @@ cantoLyricsXI = \lyricmode {
         sì __ al -- to~id -- di -- o.  __
 }
 
-rhythmXI = \relative c'' { 
+rhythmVI = \relative c'' { 
     \time 4/2
 
     g4*4 g8*4 s2 | s\breve |
@@ -79,7 +79,7 @@ rhythmXI = \relative c'' {
 
 % NOTE: master copy is the below. Copy, and s/\\[0-9]// to eliminate string
 % placement
-luteXInotes = \relative c' {
+luteVInotes = \relative c' {
     \key f \major
     \time 4/2 
 
@@ -121,7 +121,7 @@ luteXInotes = \relative c' {
     <c f,> a4 g <c a f>2. bf4 | <c a f>\longa*1/2
 }
 
-luteXI = \relative c' {
+luteVI = \relative c' {
     \key f \major
     \time 4/2 
 
@@ -164,14 +164,14 @@ luteXI = \relative c' {
     \bar "|."
 }
 
-cantoXIincipitVoice = <<
+cantoVIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoXIincipit
+        \cantoVIincipit
     >>
 >>
 
-luteXIincipit = \relative c'' {
+luteVIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c1"
     \key f \major
@@ -179,10 +179,10 @@ luteXIincipit = \relative c'' {
     c1
 }
 
-luteXIincipitVoice = <<
+luteVIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \luteXIincipit
+        \luteVIincipit
     >>
 >>
 

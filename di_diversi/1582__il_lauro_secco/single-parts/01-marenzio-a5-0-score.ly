@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -36,7 +36,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.7
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
@@ -93,19 +93,19 @@
     \markup {
         \fill-line {
             \column {
-                \line { Mentre l’aura spirò nel verde Lauro, } 
-                \line { Felice fu l’ardore, } 
-                \line { Con che m’accese il core, } 
-                \line { Che lieto à l’ombra de l’amate foglie } 
-                \line { Addolcia mie doglie. } 
-                \line { Hor perche (lasso oime) secco ti vedo? } 
-                \line { Forsi è’l foco, che move } 
-                \line { L’alma de’ sospir miei caldi & ardenti? } 
-                \line { Ma tu l’ira di Giove, } 
-                \line { N’è’l fulmine paventi. } 
-                \line { Ahi per me secco, e ad altri verde; Io credo, } 
-                \line { Che sotto à i sacri rami un sogno tale } 
-                \line { Veder mi fè la tua virtù fatale. } 
+                \line { Mentre l'aura spirò nel verde Lauro, } 
+                \line { felice fu l'ardore, } 
+                \line { con che m'accese il core, } 
+                \line { che lieto à l'ombra de l'amate foglie } 
+                \line { addolcia mie doglie. } 
+                \line { Or perche (lasso oime) secco ti vedo? } 
+                \line { Forsi è'l foco, che move } 
+                \line { l'alma de' sospir miei caldi & ardenti? } 
+                \line { Ma tu l'ira di Giove, } 
+                \line { n'è'l fulmine paventi. } 
+                \line { ahi per me secco, e ad altri verde; io credo, } 
+                \line { che sotto a i sacri rami un sogno tale } 
+                \line { veder mi fe la tua virtù fatale. } 
             }
         }
     }

@@ -20,9 +20,6 @@
 % to the murmuring of the waves, and among the flowers
 % the Graces and the amorous cherubs sport.
 
-% I see an attribution to Tasso, but not many
-% there's an attribution to Guarini on CPDL but it seems unlikely, perhaps,
-% for 1583?
 
 cantoXXIVincipit = \relative c'' {
     \clef "petrucci-g"
@@ -32,13 +29,13 @@ cantoXXIVincipit = \relative c'' {
     c2
 }
 
+% canto: checked against source
 cantoXXIV = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCommonTime
 
     r2 c c4( bf8[ a] g4 a | bf c d e f2) d | c4 f, g2 a4.( bf8 c2) | 
-        R\breve*2 | r4 f,2 c'( bf8[ a] 
+        R\breve R | r4 f,2 c'( bf8[ a] 
 
     g4) bf | c d d2 d r2 | R\breve | r1 r2 bf | f' g f4 d ef2 |
         d4 g ef f g8([ f ef d] c4) bf |
@@ -51,12 +48,12 @@ cantoXXIV = \relative c'' {
 
     f8([ g] a4 ~ | a) g4 r2 r2 bf | d2 c bf( a4 g | f2 g a1) |
         bf\breve | R | 
-        \time 3/2 R1.*4 | f2 f f | f2. f4 f2 | f f e 
+        \time 3/2\threeFromOne R1.*2 R1.*2 | f'2 f f | f2. f4 f2 | f f e 
 
-    \fourTwoCommonTime f2 f r2 r4 c | c8([ d e f] g4) g e f f2 ~ |
+    \fourTwoCommonTime\oneFromThree f2 f r2 r4 c | c8([ d e f] g4) g e f f2 ~ |
         f4 e c c f2 f | R\breve | r4 d2 d4. c8 bf4. bf8 \ficta ef4 ~|
 
-    \ficta ef8[ d d c16 bf] c2\unficta\melismaEnd d1 | 
+    \ficta ef8[\melisma d d c16 bf] c2\unficta\melismaEnd d1 | 
         r1 r2 r4 g | e4. f8 g1 g4 e | d4. c8 d1 d2 | r2 r4 d f e f2 ~ |
         f4( e8[ d]
 
@@ -64,43 +61,33 @@ cantoXXIV = \relative c'' {
         e2 c d4 e
 
     f4 d | g1 g2 r2 | r4 f f f e2. c4 | d e f d e8([ d e f] g2) |
+        \invisibleTime\time 6/2 s1*0 \raisedSixTwoTime
         g2 g e4 d c c c1
-        c\longa*1/2
+        \invisibleTime\time 4/2 c\longa*1/2
     \bar "|."
 }
 
 cantoLyricsXXIV = \lyricmode {
-%    Fe -- li -- ce pri -- ma -- ve -- ra
-%    Di bei pen -- sier fio -- ri -- sce,
-%        fio -- ri -- sce nel mio co -- re,
-%        fio -- ri -- sce nel mio co -- re,
-%    No -- vo LAU -- RO d'A -- mo -- re
-%    A cui ri -- de la ter -- ra~e'l Ciel d'in -- tor -- no,
-%        e'l Ciel d'in -- tor -- no.
-%    E di bel man -- to~a -- dor -- no,
-%    e di bel man -- to~a -- dor -- no
-%    Di gia -- cin -- ti~e vi -- o -- le il Po si ve -- ste,
-%    \ijLyrics
-%        il Po si ve -- ste.
-%    \normalLyrics
-%    Dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
-%    \ijLyrics
-%    dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
-%    \normalLyrics
-%    E can -- ta -- no,
-%    e can -- ta -- no gli~au -- gel -- li~in -- fra le fron -- de
-%    Al mor -- mo -- rar del -- l'on -- de, e~in grem -- bo~a fio -- ri,
-%    \ijLyrics
-%        e~in grem -- bo~a fio -- ri,
-%    \normalLyrics
-%        a fio -- ri
-%    Scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
-%    \ijLyrics
-%    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
-%    \normalLyrics
-%        e~i par -- go -- let -- ti~A -- mo -- ri,
-%    \ijLyrics
-%        e~i par -- go -- let -- ti~A -- mo -- ri.
+    Fe -- li -- ce pri -- ma -- ve -- ra, __
+    fe -- li -- ce pri -- ma -- ve -- ra
+    Di bei pen -- sier fio -- ri -- sce,
+        fio -- ri -- sce nel __ mio co -- re,
+    No -- vo lau -- ro d'A -- mo -- re
+    A cui ri -- de la ter -- ra~e'l Ciel d'in -- tor -- no,
+    E di __ bel man -- to~a -- dor -- no,
+        a -- dor -- no 
+    Di gia -- cin -- ti~e vi -- o -- le il Po si ve -- ste.
+    Dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li.
+    E can -- ta -- no gli~au -- gel -- li~in -- fra le fron -- de
+    Al mor -- mo -- rar del -- l'on -- de, e~in grem -- bo~a fio -- ri,
+    \ijLyrics
+        e~in grem -- bo~a fio -- ri,
+    \normalLyrics
+        e~in grem -- bo~a fio -- ri
+    Scher -- zan le Gra -- zie e~i par -- go -- let -- ti~A -- mo -- ri,
+    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+        e~i par -- go -- let -- ti~A -- mo -- ri.
 %    \normalLyrics
 }
 
@@ -112,8 +99,8 @@ altoXXIVincipit = \relative c'' {
     a2
 }
 
+% alto: checked against source
 altoXXIV = \relative c'' {
-    \clef mezzosoprano
     \key f \major
     \fourTwoCommonTime
 
@@ -124,7 +111,7 @@ altoXXIV = \relative c'' {
         d4 g2 g4 f4.( e8 d[ e] f4 ~ | f8[ e] e4) f bf2 a 
 
     g4 | a a g4.( a8 bf1) | bf2 r2 r2 g | a4 c4. bf8 bf4 c2 c4 f, |
-        f d4. e8[ f g] a2 a4 a | f2 d4 d f f4. f8 f4 | 
+        f d4.( e8[ f g] a2) a4 a | f2 d4 d f f4. f8 f4 | 
 
     g4 e e g a1 | g r1 | R\breve | r2 a g a | g4 f f( e8[ d] e2) f4 f |
         a2 c a1 ~ | a2 g g1 | g2 e4 f g f8[ e] d4 c |
@@ -146,10 +133,10 @@ altoXXIV = \relative c'' {
 %
 %    r1 | e4 f g f8[ e] | d4( e f) e r2 f| a g f2.( e4 |
 %        d4 c bf2.) bf4 bf'2 | g a g g | 
-        \time 3/2
+        \time 3/2\threeFromOne
         a2 a a | f2. f4 f2 | f f
 
-    f2 | f1 f2 | a2 a a | bf2. c4 bf2 | a bf g | \fourTwoCommonTime
+    e2 | f1 f2 | a2 a a | bf2. c4 bf2 | a bf g | \fourTwoCommonTime\oneFromThree
         a1 a2 r4 g | e8([ f g a] g4) g g a a2 ~ | a4 a a c bf2 a ~ |
         a4 g 
 
@@ -160,41 +147,51 @@ altoXXIV = \relative c'' {
         g2. g4 f4. g8 a4 f | a2
 
     bf2 r1 | r1 r2 f | bf4 c d b c2 c4 g | f4. g8 a4 bf c1 | bf r4 g g g |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         e2 c c'4 bf a a g1 
-        a\longa*1/2
+        \invisibleTime\time 4/2 a\longa*1/2
 
     
     \bar "|."
 }
 
 altoLyricsXXIV = \lyricmode {
-%    Fe -- li -- ce pri -- ma -- ve -- ra
-%    Di bei pen -- sier fio -- ri -- sce,
-%        fio -- ri -- sce nel mio co -- re,
-%        fio -- ri -- sce nel mio co -- re,
-%    No -- vo LAU -- RO d'A -- mo -- re
-%    A cui ri -- de la ter -- ra~e'l Ciel d'in -- tor -- no,
-%        e'l Ciel d'in -- tor -- no.
-%    E di bel man -- to~a -- dor -- no,
-%    e di bel man -- to~a -- dor -- no
-%    Di gia -- cin -- ti~e vi -- o -- le il Po si ve -- ste,
-%    \ijLyrics
-%        il Po si ve -- ste.
-%    \normalLyrics
-%    Dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
-%    \ijLyrics
-%    dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
-%    \normalLyrics
-%    E can -- ta -- no,
-%    e can -- ta -- no gli~au -- gel -- li~in -- fra le fron -- de
-%    Al mor -- mo -- rar del -- l'on -- de, e~in grem -- bo~a fio -- ri,
-%    \ijLyrics
-%        e~in grem -- bo~a fio -- ri,
-%    \normalLyrics
-%        a fio -- ri
-%    Scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
-%    \ijLyrics
-%    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+    Fe -- li -- ce pri -- ma -- ve -- ra,
+    fe -- li -- ce pri -- ma -- ve -- ra
+    Di bei pen -- sier fio -- ri -- sce nel mio co -- re,
+        fio -- ri -- sce nel mio co -- re,
+    No -- vo lau -- ro d'A -- mo -- re,
+    \ijLyrics
+    no -- vo lau -- ro d'A -- mo -- re
+    \normalLyrics
+    A cui ri -- de la ter -- ra~e'l Ciel d'in -- tor -- no.
+    E di bel man -- to~a -- dor -- no,
+    \ijLyrics
+    e di bel man -- to~a -- dor -- no
+    \normalLyrics
+    Di gia -- cin -- ti~e vi -- o -- le,
+    di gia -- cin -- ti~e vi -- o -- le il Po si ve -- ste,
+    \ijLyrics
+        il Po si ve -- ste.
+    \normalLyrics
+    Dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
+    \ijLyrics
+    dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
+    \normalLyrics
+    E can -- ta -- no gli~au -- gel -- li~in -- fra le fron -- de, __
+        in -- fra le fron -- de 
+    Al mor -- mo -- rar del -- l'on -- de,
+    al mor -- mo -- rar del -- l'on -- de, e~in grem -- bo~a fio -- ri,
+    \ijLyrics
+        e~in grem -- bo~a fio -- ri
+    \normalLyrics
+    Scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+        e~i par -- go -- let -- ti~A -- mo -- ri,
+        e~i par -- go -- let -- ti~A -- mo -- ri,
+    \ijLyrics
+        e~i par -- go -- let -- ti~A -- mo -- ri,
+    \normalLyrics
+    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri.
 %    \normalLyrics
 %        e~i par -- go -- let -- ti~A -- mo -- ri,
 %    \ijLyrics
@@ -210,8 +207,8 @@ tenoreXXIVincipit = \relative c {
     f1
 }
 
+% tenore: checked against source
 tenoreXXIV = \relative c {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -227,11 +224,11 @@ tenoreXXIV = \relative c {
     f4 f | g8([ f e d] e[ f g e] a2) a | R\breve | r2 f e f4 e ~ |
         e c c8([ d e f] g2) a | r2 e f f | e8([ d c d] e[ f] 
 
-    g2 e4 d2) | e1 r2 d4 e | f e8[ d] c4 d r1 | 
+    g2) e4 d2 | e1 r2 d4 e | f e8[ d] c4 d r1 | 
         f4 g a a8[ g] f2 c | r4 a c bf a2 f4 a | d1. g,2 ~ | g c1 c2 |
 
-    \time 3/2 f2 f f | bf,2. a4 bf2 | d bf c | f,1 f2 | a c c | bf2. f'4 f2 |
-        f d g | \fourTwoCommonTime f1. e2 | r4 c
+    \time 3/2\threeFromOne f2 f f | bf,2. a4 bf2 | d bf c | f,1 f2 | a c c | bf2. f'4 f2 |
+        f d g | \fourTwoCommonTime\oneFromThree f1. e2 | r4 c
 
     c8([ d e f] g4) f f f, | a4.( bf8 c4) f f d f2 ~ | f4( g a1) g2 |
         R\breve | r2 r4 f f4. e8 d2 | f4 f4.( g8[ a f] 
@@ -241,39 +238,49 @@ tenoreXXIV = \relative c {
 
     c2 c4 c a2 f | r2 bf a4 g a4. bf8 | c1 bf2 bf | g4 a bf g g'1 | 
         a\breve | r4 f f f e2. c4 | 
-        e4 f g e e2 f g1 
-        f\longa*1/2
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        e4 f g e e2( f g1)
+        \invisibleTime\time 4/2 f\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXXIV = \lyricmode {
-%    Fe -- li -- ce pri -- ma -- ve -- ra
-%    Di bei pen -- sier fio -- ri -- sce,
-%        fio -- ri -- sce nel mio co -- re,
-%        fio -- ri -- sce nel mio co -- re,
-%    No -- vo LAU -- RO d'A -- mo -- re
-%    A cui ri -- de la ter -- ra~e'l Ciel d'in -- tor -- no,
-%        e'l Ciel d'in -- tor -- no.
-%    E di bel man -- to~a -- dor -- no,
-%    e di bel man -- to~a -- dor -- no
-%    Di gia -- cin -- ti~e vi -- o -- le il Po si ve -- ste,
-%    \ijLyrics
-%        il Po si ve -- ste.
-%    \normalLyrics
-%    Dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
-%    \ijLyrics
-%    dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
-%    \normalLyrics
-%    E can -- ta -- no,
-%    e can -- ta -- no gli~au -- gel -- li~in -- fra le fron -- de
-%    Al mor -- mo -- rar del -- l'on -- de, e~in grem -- bo~a fio -- ri,
-%    \ijLyrics
-%        e~in grem -- bo~a fio -- ri,
-%    \normalLyrics
-%        a fio -- ri
-%    Scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
-%    \ijLyrics
-%    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+    Fe -- li -- ce pri -- ma -- ve -- ra,
+    fe -- li -- ce pri -- ma -- ve -- ra,
+        pri -- ma -- ve -- ra
+    Di bei pen -- sier fio -- ri -- sce,
+        fio -- ri -- sce nel __ mio co -- re,
+        fio -- ri -- sce nel __ mio co -- re,
+    No -- vo lau -- ro d'A -- mo -- re
+    A cui ri -- de la ter -- ra~e'l Ciel d'in -- tor -- no.
+    E di bel man -- to~a -- dor -- no,
+    \ijLyrics
+    e di bel man -- to~a -- dor -- no
+    \normalLyrics
+    Di gia -- cin -- ti~e vi -- o -- le,
+    \ijLyrics
+    di gia -- cin -- ti~e vi -- o -- le
+    \normalLyrics
+        il Po si ve -- ste,
+    \ijLyrics
+        il Po si __ ve -- ste.
+    \normalLyrics
+    Dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
+    dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
+    E can -- ta -- no gli~au -- gel -- li~in -- fra le fron -- de
+    Al mor -- mo -- rar del -- l'on -- de, e~in grem -- bo~a fio -- ri,
+    \ijLyrics
+        e~in grem -- bo~a fio -- ri
+    \normalLyrics
+    Scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+    \ijLyrics
+    scher -- zan le Gra -- zie
+    \normalLyrics
+        e~i par -- go -- let -- ti~A -- mo -- ri,
+    \ijLyrics
+        e~i par -- go -- let -- ti~A -- mo -- ri,
+    \normalLyrics
+    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri.
 %    \normalLyrics
 %        e~i par -- go -- let -- ti~A -- mo -- ri,
 %    \ijLyrics
@@ -289,8 +296,8 @@ bassoXXIVincipit = \relative c {
     f2
 }
 
+% basso: checked against source
 bassoXXIV = \relative c {
-    \clef varbaritone
     \key f \major
     \fourTwoCommonTime
 
@@ -298,15 +305,15 @@ bassoXXIV = \relative c {
         f1. r2 | R\breve*2 | r2
 
     bf,2 f' g | f4 d ef2 d4 g ef f | g8([ f ef d] c4 d ef2) ef | f\breve |
-        bf,1 r1 | r1 r2 c' | 
+        bf,1 r1 | r1 r2 f' | 
 
     e4 c4. d8 e4 f2 f | R\breve*4 | r2 c f d | a' e g1 | c, r1 | 
         d4 e f e8[ d] c4\melfi d
 
     ef4\melfiEnd bf | r1 r2 f' | f e f4( e d c | bf\breve) c | 
-        \time 3/2 R1.*4 |
+        \time 3/2\threeFromOne R1.*2 R1.*2 |
         f2 f f | bf,2. a4 bf2 | d bf c | 
-    \fourTwoCommonTime
+    \fourTwoCommonTime\oneFromThree
         f2 f r1 | r1 r4 f f8([ g a bf] | c4) c a a bf2 f | 
         f4 e f1 c2 | R\breve | r1 r2 g' | f4. e8 
 
@@ -315,39 +322,26 @@ bassoXXIV = \relative c {
 
     f4 d | e2 f r1 | R\breve | d2 d4 d c2 a | 
         bf4 c d bf c1 ~ | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         c\breve.
-        f\longa*1/2
+        \invisibleTime\time 4/2 f\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXXIV = \lyricmode {
-%    Fe -- li -- ce pri -- ma -- ve -- ra
-%    Di bei pen -- sier fio -- ri -- sce,
-%        fio -- ri -- sce nel mio co -- re,
-%        fio -- ri -- sce nel mio co -- re,
-%    No -- vo LAU -- RO d'A -- mo -- re
+    Fe -- li -- ce pri -- ma -- ve -- ra
+    Di bei pen -- sier fio -- ri -- sce,
+        fio -- ri -- sce nel __ mio co -- re,
+    No -- vo lau -- ro d'A -- mo -- re
 %    A cui ri -- de la ter -- ra~e'l Ciel d'in -- tor -- no,
 %        e'l Ciel d'in -- tor -- no.
-%    E di bel man -- to~a -- dor -- no,
-%    e di bel man -- to~a -- dor -- no
-%    Di gia -- cin -- ti~e vi -- o -- le il Po si ve -- ste,
-%    \ijLyrics
-%        il Po si ve -- ste.
-%    \normalLyrics
-%    Dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
-%    \ijLyrics
-%    dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
-%    \normalLyrics
-%    E can -- ta -- no,
-%    e can -- ta -- no gli~au -- gel -- li~in -- fra le fron -- de
-%    Al mor -- mo -- rar del -- l'on -- de, e~in grem -- bo~a fio -- ri,
-%    \ijLyrics
-%        e~in grem -- bo~a fio -- ri,
-%    \normalLyrics
-%        a fio -- ri
-%    Scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
-%    \ijLyrics
-%    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+    E di bel man -- to~a -- dor -- no
+    Di gia -- cin -- ti~e vi -- o -- le il Po si ve -- ste.
+    Dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
+    E can -- ta -- no gli~au -- gel -- li~in -- fra le fron -- de
+    Al mor -- mo -- rar del -- l'on -- de, e~in grem -- bo~a fio -- ri __
+    Scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri.
 %    \normalLyrics
 %        e~i par -- go -- let -- ti~A -- mo -- ri,
 %    \ijLyrics
@@ -363,8 +357,8 @@ quintoXXIVincipit = \relative c' {
     c2
 }
 
+% Quinto: checked against source
 quintoXXIV = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -375,16 +369,16 @@ quintoXXIV = \relative c' {
         r2 r4 d' bf c ef4.( d8 | c[ bf a g] a4) d c1 | 
 
     bf2 bf a4 f4. g8 a4 | bf2 bf r1 | r1 r4 c c c ~ |
-        c8[ c] c4 c2 f d4 d | a'1 g2 c, | r2 f, c' a | 
+        c8[ c] c4 c2 f d4 d | a'1( g2) c, | r2 f, c' a | 
         
-    e4 f c'1 f,2 | r2 g a2. bf4 | c2 c b4 c d2 | c1 g4 a bf a8[ g] |
+    e4 f c'1 f,2 | r2 g a2. bf4 | c2 c b4( c d2) | c1 g4 a bf a8[ g] |
         f4( g a) f r2 bf | bf a
 
-    bf8([ c d e] f4 e8[ d] | c1) c2 r2 | r2 f f4 d g4. f8 |
-        e4 d8[ e] f1 e2 | \time 3/2
-        R1.*4 | c2 c f, | f2. f4 f2 | 
+    bf8([ c d e] f4 e8[ d] | c1) c2 r2 | r2 f f4 d g4.( f8 |
+        e4 d8[ e] f1) e2 | \time 3/2\threeFromOne
+        R1.*2 R1.*2 | c2 c f, | f2. f4 f2 | 
 
-    f2 f c' | \fourTwoCommonTime 
+    f2 f c' | \fourTwoCommonTime\oneFromThree 
         c2 c4 f, f8([ g a bf] c4) c | c2. c4 c2 c| R\breve | 
         c2 c a4 f'4.( e8[ e d16 c] 
 
@@ -395,13 +389,40 @@ quintoXXIV = \relative c' {
         r2 r4 c c c a2 ~ | a4 f f g a2
 
     a'2 | g f r1 | r1 c2 c4 c | a2 f a4 bf c f | d1 g,2 g |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         g2. g4 g2 a c1
-        c\longa*1/2
+        \invisibleTime\time 4/2 c\longa*1/2
 
     \bar "|."
 }
 
 quintoLyricsXXIV = \lyricmode {
+    Fe -- li -- ce pri -- ma -- ve -- ra
+    Di bei pen -- sier fio -- ri -- sce nel mio co -- re,
+        fio -- ri -- sce nel mio co -- re,
+    No -- vo lau -- ro d'A -- mo -- re
+    A cui ri -- de la ter -- ra~e'l Ciel d'in -- tor -- no,
+    E di bel man -- to~a -- dor -- no,
+    \ijLyrics
+    e di bel man -- to~a -- dor -- no
+    \normalLyrics
+    Di gia -- cin -- ti~e vi -- o -- le il Po si ve -- ste,
+    \ijLyrics
+        il Po si ve -- ste.
+    \normalLyrics
+    Dan -- zan le Nin -- fe~o -- ne -- ste~e~i pa -- sto -- rel -- li,
+    E can -- ta -- no gli~au -- gel -- li in -- fra le fron -- de
+    Al mor -- mo -- rar del -- l'on -- de, e~in grem -- bo~a fio -- ri,
+    \ijLyrics
+        e~in grem -- bo~a fio -- ri
+    \normalLyrics
+    Scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+    \ijLyrics
+    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+    \normalLyrics
+    scher -- zan le Gra -- zie~e~i par -- go -- let -- ti~A -- mo -- ri,
+        e~i par -- go -- let -- ti~A -- mo -- ri.
+%    \normalLyrics
 }
 
 sestoXXIVincipit = \relative c' {
@@ -431,9 +452,9 @@ sestoXXIV = \relative c' {
         g2 r2 r2 bf,4 c | d c8[ bf] 
 
     a4( bf c) bf r2 | r2 a d c | c1 c2 f | f4( e d c bf2) d | c1 c |
-        \time 3/2 c2 c c | d2. c4 d2 | a bf g | 
+        \time 3/2\threeFromOne c2 c c | d2. c4 d2 | a bf g | 
 
-    a1 a2 | c c c | d2. c4 d2 | d d c | \fourTwoCommonTime
+    a1 a2 | c c c | d2. c4 d2 | d d c | \fourTwoCommonTime\oneFromThree
         c2 c r4 c c8([ d e f] | g4) g e2 r4 c a8([ bf c d] |
 
     c4) c e f d2 c | c2. c4 c1 | a2. a4 bf4. a8 g[ g] c4 ~ |
@@ -444,8 +465,9 @@ sestoXXIV = \relative c' {
 
     e1 f | r1 d2 d4 d | c2 a bf4 c d bf | d2 d4 d e f g e | f2 d r1 | 
         d2 d4 d c2 a | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         c4( d e c g'2 f2. e8[ d] e2)
-        f\longa*1/2
+        \invisibleTime\time 4/2 f\longa*1/2
     \bar "|."
 }
 
@@ -454,7 +476,7 @@ sestoLyricsXXIV = \lyricmode {
     Di bei pen -- sier fio -- ri -- sce,
         fio -- ri -- sce nel __ mio co -- re,
         fio -- ri -- sce nel __ mio co -- re,
-    No -- vo LAU -- RO d'A -- mo -- re
+    No -- vo lau -- ro d'A -- mo -- re
     A cui ri -- de la ter -- ra~e'l Ciel d'in -- tor -- no,
         e'l Ciel d'in -- tor -- no.
     E di bel man -- to~a -- dor -- no,

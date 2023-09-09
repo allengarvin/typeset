@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -37,7 +37,7 @@
          <<
 
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.7
             } <<
 
                 \new Voice << 
@@ -93,13 +93,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Hor fuggi infedel' ombra }
-                \line { Del mio stanco pensier pianta infelice, }
-                \line { Svelli la tua radici dal cor mio; }
-                \line { C'hor giusto sdegno sgombra }
-                \line { Quel ch'ingombrò l'ingiusto mio desio; }
-                \line { Nè fia più, che mi sogne }
-                \line { (Coronato di te) larve, e menzogne. }
+                \line { Or fuggi infedel' ombra }
+                \line { del mio stanco pensier; pianta infelice, }
+                \line { svelli la tua radici dal cor mio; }
+                \line { ch'or giusto sdegno sgombra }
+                \line { quel ch'ingombrò l'ingiusto mio desio. }
+                \line { Né fia più che mi sogne }
+                \line { (coronato di te) larve, e menzogne. }
             }
         }
     }

@@ -109,7 +109,6 @@
                 \line { Ch'a l'alma mia darai dolce ristoro. }
             }
             \column {
-                % My translation
                 \line { My very sweetest one, }
                 \line { hope of my heart, }
                 \line { as a reward for my love }

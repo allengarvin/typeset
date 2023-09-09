@@ -101,7 +101,6 @@
             }
             \column {
                 \vspace #2
-                % My translations
                 \line { If my ardent flame }
                 \line { were my worst torment, }
                 % instead of breaking the lines into English order, I'll fudge here to keep it line-by-line

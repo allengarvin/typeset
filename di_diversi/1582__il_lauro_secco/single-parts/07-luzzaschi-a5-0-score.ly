@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -17,7 +17,7 @@
     composer = "Luzzasco Luzzaschi (c.1545-1607)"
     shorttitle = "sel_lauro_e_sempre_verde"
     shortcomp = "luzzaschi"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"
@@ -26,6 +26,7 @@
     flats = 0
     final = "g"
     categories = "[madrigal]"
+    motif = "[laurel,faded-love]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -38,7 +39,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.7
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
@@ -94,16 +95,31 @@
         \fill-line {
             \column {
                 \line { Se'l lauro è sempre verde, }
-                \line { E per fredda stagion foglia non perde, }
-                \line { Ond'è che'l mio sfrondato }
-                \line { E secco a primavera sia restato? }
+                \line { e per fredda stagion foglia non perde, }
+                \line { ond'è che'l mio sfrondato }
+                \line { e secco a primavera sia restato? }
                 \line { \vspace #0.5 }
-                \line { Dhe, se pur secco fosse }
-                \line { A tutti, come a me, la pena mia }
-                \line { Assai minor saria, }
+                \line { Deh, se pur secco fosse }
+                \line { a tutti, come a me, la pena mia }
+                \line { assai minor saria; }
                 \line { Ma ingrato solo a me secco languisce, }
-                \line { E a gli altri più, che mai, verde fiorisce. }
+                \line { e a gli altri più, che mai, verde fiorisce. }
+            }
+            \column {
+                % translation date: 2023-08-26
+                \line { If the laurel is evergreen, }
+                \line { I in the cold season looses not its leaf, }
+                \line { why is it that mine is leafless, }
+                \line { and bare in the springtime it remains? }
+                \line { Ah, if it were dry }
+                \line { for everyone as it is for me, my pain }
+                \line { would be be much less; }
+                \line { But ungrateful, only for me does it languish dry, }
+                \line { and for others more than ever, blossoms green. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
 }
+
+

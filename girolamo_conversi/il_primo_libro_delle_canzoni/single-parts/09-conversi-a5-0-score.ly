@@ -92,7 +92,6 @@
                 \line { Divento rosso e bianco in un momento, }
                 \line { Così mirando i mor liete e contento, }
             }
-            % This is my translation:
             \column {
                 \line { When you look at me, with those thieving eyes, }
                 \line { I become red and white in am instance, }

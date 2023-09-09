@@ -101,6 +101,7 @@
                 \line { sian di vaghezza ornate e di splendore. }
             }
             \column {
+                % translation date: 2021-11-28 ?
                 \line { To You, Londonio, I send }
                 \line { these lowly notes of mine and this song, }
                 \line { and I beg you from my heart, as I desire }
@@ -108,7 +109,7 @@
                 \line { and to keep them close }
                 \line { alongside  with your light and with your favor, }
                 \line { to be adorned ornately and with splendor. }
-                \line { \hspace #12 (Translation mine) }
+                \line { \hspace #10 \italic { translation by editor } }
             }
             
         }

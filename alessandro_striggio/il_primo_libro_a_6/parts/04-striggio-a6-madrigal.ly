@@ -1,4 +1,4 @@
-% Anchor ch'io possa dire,
+% Ancor ch'io possa dire,
 % Che d'aver vita il cor soltanto sente
 % Quant' a voi son presente;
 % Poi che non m'è concesso
@@ -51,7 +51,7 @@ cantoIV = \relative c'' {
 }
 
 cantoLyricsIV = \lyricmode {
-    An -- chor ch'io pos -- sa di -- re,
+    An -- cor ch'io pos -- sa di -- re,
     che d'a -- ver vi -- ta~il cor sol -- tan -- to sen -- te
     Quant' a voi son pre -- sen -- te,
     Quant' a voi son pre -- sen -- te,
@@ -114,7 +114,7 @@ altoIV = \relative c' {
 }
 
 altoLyricsIV = \lyricmode {
-    An -- chor ch'io pos -- sa di -- re,
+    An -- cor ch'io pos -- sa di -- re,
     che d'a -- ver vi -- ta~il cor sol -- tan -- to sen -- te
     Quant' a voi son pre -- sen -- te,
     Quant' a voi son pre -- sen -- te,
@@ -175,7 +175,7 @@ tenoreIV = \relative c' {
 }
 
 tenoreLyricsIV = \lyricmode {
-    An -- chor ch'io pos -- sa di -- re,
+    An -- cor ch'io pos -- sa di -- re,
     che d'a -- ver vi -- ta~il cor sol -- tan -- to sen -- te
     Quant' a voi son pre -- sen -- te,
     Quant' a voi son pre -- sen -- te,
@@ -237,7 +237,7 @@ bassoIV = \relative c {
 }
 
 bassoLyricsIV = \lyricmode {
-    An -- chor ch'io pos -- sa di -- re,
+    An -- cor ch'io pos -- sa di -- re,
     che d'a -- ver vi -- ta~il cor sol -- tan -- to sen -- te
     Quant' a voi son pre -- sen -- te,
     Quant' a voi son pre -- sen -- te,
@@ -297,7 +297,7 @@ quintoIV = \relative c' {
 }
 
 quintoLyricsIV = \lyricmode {
-    An -- chor ch'io pos -- sa di -- re,
+    An -- cor ch'io pos -- sa di -- re,
     che d'a -- ver vi -- ta~il cor sol -- tan -- to sen -- te
     Quant' a voi son pre -- sen -- te,
     Poi che non m'è con -- ces -- so,
@@ -355,9 +355,9 @@ sestoIV = \relative c {
 }
 
 sestoLyricsIV = \lyricmode {
-    An -- chor ch'io pos -- sa di -- re,
+    An -- cor ch'io pos -- sa di -- re,
     \ijLyrics
-    An -- chor ch'io pos -- sa di -- re,
+    An -- cor ch'io pos -- sa di -- re,
     \normalLyrics
     che d'a -- ver vi -- ta~il cor sol -- tan -- to sen -- te
     Quant' a voi son pre -- sen -- te,

@@ -1,13 +1,23 @@
-%  Hor fuggi infedel' ombra
-%  Del mio stanco pensier pianta infelice,
-%  Svelli la tua radici dal cor mio;
-%  C'hor giusto sdegno sgombra
-%  Quel ch'ingombrò l'ingiusto mio desio;
-%  Nè fia più, che mi sogne
-%  (Coronato di te) larve, e menzogne.
+%  Or fuggi infedel' ombra
+%  del mio stanco pensier; pianta infelice,
+%  svelli la tua radici dal cor mio;
+%  ch'or giusto sdegno sgombra
+%  quel ch'ingombrò l'ingiusto mio desio.
+%  Né fia più che mi sogne
+%  (coronato di te) larve, e menzogne.
 % 
-% Flee, unfaithful shadow
+% Why does sogne end with an 'e'? 
+% 
+% Now flee, unfaithful shadow
+% of my tired thoughts; unhappy plant,
+% pull up your roots from my heart;
+% For now righteous disdain clears 
+% that which cluttered my unjust desire
+% No more shall I dream
+% (crowned by you) of succubi (?? nightmares) and deceits.
 
+
+% larve: ooo: nightghost, night hag, 
 cantoVincipit = \relative c' {
     \time 4/4
     \key c \major
@@ -53,22 +63,22 @@ cantoV = \relative c' {
 }
 
 cantoLyricsV = \lyricmode {
-    Hor fug -- gi in -- fe -- del' om -- bra
+    Or fug -- gi in -- fe -- del' om -- bra
     Del mio stan -- co pen -- sier,
-    Del mio stan -- co pen -- sier pian -- ta~in -- fe -- li -- ce,
+    del mio stan -- co pen -- sier; pian -- ta~in -- fe -- li -- ce,
     Svel -- li la tua ra -- di -- ce,
-    Svel -- li la tua ra -- di -- ce dal cor mi -- o;
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno sgom -- bra
+    svel -- li la tua ra -- di -- ce dal cor mi -- o;
+    Ch'or giu -- sto sde -- gno sgom -- bra,
+    ch'or giu -- sto sde -- gno sgom -- bra
     Quel __ ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
-    Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
-    Quel __ ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o;
-    Nè fia più, che mi so -- gne
+    quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
+    quel __ ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o;
+    Né fia più che mi so -- gne
     (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
-    Nè fia più, che mi so -- gne, __
-    Nè __ fia più, che mi so -- gne
-    (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
-    (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne.
+    né fia più che mi so -- gne, __
+    né __ fia più che mi so -- gne
+    (co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
+    (co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne.
 }
 
 altoVincipit = \relative c' {
@@ -118,27 +128,27 @@ altoV = \relative c' {
 }
 
 altoLyricsV = \lyricmode {
-    Hor fug -- gi,
-    Hor fug -- gi in -- fe -- del' om -- bra
-    Del mio stan -- co pen -- sier pian -- ta~in -- fe -- li -- ce,
-    Del mio stan -- co pen -- sier pian -- ta~in -- fe -- li -- ce,
+    Or fug -- gi,
+    or fug -- gi in -- fe -- del' om -- bra
+    Del mio stan -- co pen -- sier, pian -- ta~in -- fe -- li -- ce,
+    del mio stan -- co pen -- sier; pian -- ta~in -- fe -- li -- ce,
     Svel -- li la tua ra -- di -- ce,
-    Svel -- li la tua ra -- di -- ce,
-    Svel -- li la tua ra -- di -- ce dal cor mi -- o;
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno,
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno sgom -- bra
+    svel -- li la tua ra -- di -- ce,
+    svel -- li la tua ra -- di -- ce dal cor mi -- o;
+    ch'or giu -- sto sde -- gno sgom -- bra,
+    Ch'or giu -- sto sde -- gno,
+    Ch'or giu -- sto sde -- gno sgom -- bra,
+    Ch'or giu -- sto sde -- gno sgom -- bra,
+    Ch'or giu -- sto sde -- gno sgom -- bra
     Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
-    Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
+    quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
         l'in -- giu -- sto mio de -- si -- o,
-    Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o;
-    Nè fia più, che mi so -- gne
+    quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o;
+    Né fia più che mi so -- gne
     (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
-    Nè fia più, che mi so -- gne,
+    né fia più che mi so -- gne,
         che mi so -- gne
-    (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
+    (co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
         lar -- ve~e men -- zo -- gne,
         lar -- ve~e men -- zo -- gne.
 }
@@ -185,20 +195,20 @@ tenoreV = \relative c {
 }
 
 tenoreLyricsV = \lyricmode {
-    Hor fug -- gi in -- fe -- del' om -- bra
-    Del mio stan -- co pen -- sier pian -- ta~in -- fe -- li -- ce,
+    Or fug -- gi in -- fe -- del' om -- bra
+    Del mio stan -- co pen -- sier; pian -- ta~in -- fe -- li -- ce,
     Svel -- li la tua ra -- di -- ce,
-    Svel -- li la tua ra -- di -- ce,
-    Svel -- li la tua ra -- di -- ce dal cor mi -- o;
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno sgom -- bra
+    svel -- li la tua ra -- di -- ce,
+    svel -- li la tua ra -- di -- ce dal cor mi -- o;
+    Ch'or giu -- sto sde -- gno sgom -- bra,
+    ch'or giu -- sto sde -- gno sgom -- bra,
+    ch'or giu -- sto sde -- gno sgom -- bra
     Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o, __
-    Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
-    Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o;
-    Nè fia più, che mi so -- gne
+    quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
+    quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o;
+    Né fia più che mi so -- gne
     (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
-    (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
+    (co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
         lar -- ve~e men -- zo -- gne,
         lar -- ve~e men -- zo -- gne.
 }
@@ -246,22 +256,22 @@ bassoV = \relative c {
 }
 
 bassoLyricsV = \lyricmode {
-    Hor fug -- gi,
-    Hor fug -- gi in -- fe -- del' om -- bra
-    Del mio stan -- co pen -- sier, pian -- ta~in -- fe -- li -- ce,
+    Or fug -- gi,
+    or fug -- gi in -- fe -- del' om -- bra
+    Del mio stan -- co pen -- sier; pian -- ta~in -- fe -- li -- ce,
     Svel -- li la tua ra -- di -- ce,
-    Svel -- li la tua ra -- di -- ce dal __ cor mi -- o;
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno sgom -- bra
+    svel -- li la tua ra -- di -- ce dal __ cor mi -- o;
+    Ch'or giu -- sto sde -- gno sgom -- bra,
+    ch'or giu -- sto sde -- gno sgom -- bra,
+    ch'or giu -- sto sde -- gno sgom -- bra
     Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
-    Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
-    Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
+    quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
+    quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
         l'in -- giu -- sto mio __ de -- si -- o;
-    Nè fia più, che mi so -- gne __
+    Né fia più che mi so -- gne __
     (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
-    (Co -- ro -- na -- to di te)
-    (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne.
+    (co -- ro -- na -- to di te)
+    (co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne.
 }
 
 quintoVincipit = \relative c {
@@ -306,26 +316,26 @@ quintoV = \relative c {
 }
 
 quintoLyricsV = \lyricmode {
-    Hor fug -- gi in -- fe -- del' om -- bra
+    Or fug -- gi in -- fe -- del' om -- bra
     Del mio stan -- co pen -- sier,
-    Del mio stan -- co pen -- sier pian -- ta~in -- fe -- li -- ce,
+    del mio stan -- co pen -- sier pian -- ta~in -- fe -- li -- ce,
     Svel -- li la tua ra -- di -- ce,
-    Svel -- li la tua ra -- di -- ce dal cor mi -- o;
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno sgom -- bra,
-    C'hor giu -- sto sde -- gno sgom -- bra
+    svel -- li la tua ra -- di -- ce dal cor mi -- o;
+    Ch'or giu -- sto sde -- gno sgom -- bra,
+    ch'or giu -- sto sde -- gno sgom -- bra,
+    ch'or giu -- sto sde -- gno sgom -- bra
     Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
         l'in -- giu -- sto mio de -- si -- o,
-    Quel ch'in -- gom -- brò,
-    Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
-    Quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o;
-    Nè fia più, che mi so -- gne,
-    Nè fia più, che mi so -- gne
+    quel ch'in -- gom -- brò,
+    quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o,
+    quel ch'in -- gom -- brò l'in -- giu -- sto mio de -- si -- o;
+    Né fia più che mi so -- gne,
+    né fia più che mi so -- gne
     (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
-    Nè fia più, che __ mi so -- gne
-    (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
+    né fia più che __ mi so -- gne
+    (co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
         lar -- ve~e men -- zo -- gne,
-    (Co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
+    (co -- ro -- na -- to di te) lar -- ve~e men -- zo -- gne,
         lar -- ve~e men -- zo -- gne.
 }
 

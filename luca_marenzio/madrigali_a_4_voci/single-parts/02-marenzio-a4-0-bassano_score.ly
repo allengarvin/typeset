@@ -8,15 +8,16 @@
 
 \header {
     % Things that change per piece:
-    title = "Dissi à l'amata mia"
+    title = "Dissi a l'amata mia"
     folio = "G. B. Moscaglia"
-    instrument = "Dissi à l'amata mia (score)"
+    instrument = "Dissi a l'amata mia (score)"
 
     % Unchanging:
     lastupdated = "2012-12-23"
     shorttitle = "dissi_a_l_amata_mia"
     \include "include/distribution-header.ly"
     language = "italian"
+    categories = "[madrigal,favorite]"
     tagline = #'f
 }
 
@@ -76,7 +77,7 @@
         \fill-line {
             \column {
                 \line { Dissi a l’amata mia, lucida stella }
-                \line { Che più d’ogn’ altra luce, }
+                \line { Che più d’ogni altra luce, }
                 \line { Ed al mio cor adduce }
                 \line { Fiamme, strali e catene, }
                 \line { Ch’ogn’hor mi danno pene: }
