@@ -1,11 +1,11 @@
 % Credei mentre io dormia ch'egli già satio
-% Del mio dolor de le miserie mie
-% Fatto avendo di me si lungo stratio
-% Avesse anco oggi mai voglie più pie
-% Ma suegliato m'accorsi in breve spatio
-% Che si facean maggior mie pene rie,
-% Il duolo falsamente il sonno atterra
-% Ma l'amaro vegghiar, ohime, non erra.
+% del mio dolor, delle miserie mie,
+% fatto avendo di me si lungo stratio
+% avesse anco oggi mai voglie più pie.
+% Ma svegliato m'accorsi in breve spatio
+% che si facean maggior mie pene rie;
+% il duolo falsamente il sonno atterra
+% ma l'amaro vegghiar, ohimè, non erra.
 
 cantoXXVIIincipit = \relative c'' {
     \time 4/4
@@ -46,21 +46,21 @@ cantoLyricsXXVII = \lyricmode {
     cre -- dei men -- tre~io dor -- mia 
     \normalLyrics
         men -- tre~io dor -- mia ch'e -- gli già sa -- tio
-    Del mio __ do -- lor de le mi -- se -- rie mi -- e
+    Del mio __ do -- lor, del -- le mi -- se -- rie mi -- e
     \ijLyrics
         de le mi -- se -- rie mi -- e
     \normalLyrics
     Fat -- to~a -- ven -- do di me si lun -- go stra -- tio
-    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e
-    Ma sue -- glia -- to m'ac -- cor -- si~in bre -- ve spa -- tio
+    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e.
+    Ma sve -- glia -- to m'ac -- cor -- si~in bre -- ve spa -- tio
     Che si __ fa -- cean mag -- gior mie pe -- ne ri -- e,
     Il duo -- lo fal -- sa -- men -- te~il son -- no~at -- ter -- ra
     Ma l'a -- ma -- ro veg -- ghiar, 
     \ijLyrics
     ma l'a -- ma -- ro veg -- ghiar, 
     \normalLyrics
-        ohi -- me, 
-    ma l'a -- ma -- ro veg -- ghiar, ohi -- me, non er -- ra.
+        ohi -- mè, 
+    ma l'a -- ma -- ro veg -- ghiar, ohi -- mè, non er -- ra.
 }
 
 altoXXVIIincipit = \relative c' {
@@ -102,16 +102,16 @@ altoLyricsXXVII = \lyricmode {
     cre -- dei men -- tre~io dor -- mia 
     \normalLyrics
         ch'e -- gli già sa -- tio
-    Del __ mio do -- lor de le mi -- se -- rie mi -- e
+    Del __ mio do -- lor, del -- le mi -- se -- rie mi -- e
     Fat -- to~a -- ven -- do __ di me si lun -- go stra -- tio,
         si lun -- go stra -- tio
-    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e
-    Ma __ sue -- glia -- to m'ac -- cor -- si~in bre -- ve spa -- tio
+    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e.
+    Ma __ sve -- glia -- to m'ac -- cor -- si~in bre -- ve spa -- tio
     Che si __ fa -- cean mag -- gior mie pe -- ne ri -- e,
     Il duo -- lo fal -- sa -- men -- te~il son -- no~at -- ter -- ra
-    Ma l'a -- ma -- ro veg -- ghiar, ohi -- me,
+    Ma l'a -- ma -- ro veg -- ghiar, ohi -- mè,
     ma l'a -- ma -- ro veg -- ghiar, 
-        l'a -- ma -- ro veg -- ghiar, ohi -- me,
+        l'a -- ma -- ro veg -- ghiar, ohi -- mè,
             non er -- ra,
             non er -- ra.
 }
@@ -153,16 +153,16 @@ tenoreLyricsXXVII = \lyricmode {
     cre -- dei men -- tre~io dor -- mia 
     \normalLyrics
         ch'e -- gli già sa -- tio
-    Del __ mio do -- lor de le mi -- se -- rie mi -- e
+    Del __ mio do -- lor, del -- le mi -- se -- rie mi -- e
     Fat -- to~a -- ven -- do di me si lun -- go stra -- tio
-    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e
+    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e.
     Che si __ fa -- cean mag -- gior mie pe -- ne ri -- e,
     Ma l'a -- ma -- ro veg -- ghiar, 
         l'a -- ma -- ro veg -- ghiar, 
     \ijLyrics
        ma l'a -- ma -- ro veg -- ghiar, 
     \normalLyrics
-            ohi -- me, __ non er -- ra.
+            ohi -- mè, __ non er -- ra.
 }
 
 bassoXXVIIincipit = \relative c {
@@ -199,14 +199,14 @@ bassoLyricsXXVII = \lyricmode {
     Cre -- dei men -- tre~io dor -- mia ch'e -- gli già sa -- tio
         de le mi -- se -- rie mi -- e
     Fat -- to~a -- ven -- do di me si lun -- go stra -- tio
-    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e
+    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e.
     Che si __ fa -- cean mag -- gior mie pe -- ne ri -- e,
     Il duo -- lo fal -- sa -- men -- te~il son -- no~at -- ter -- ra
     Ma l'a -- ma -- ro veg -- ghiar, 
     \ijLyrics
     ma l'a -- ma -- ro veg -- ghiar, 
     \normalLyrics
-        ohi -- me, non er -- ra.
+        ohi -- mè, non er -- ra.
 }
 
 quintoXXVIIincipit = \relative c' {
@@ -248,18 +248,18 @@ quintoLyricsXXVII = \lyricmode {
     cre -- dei men -- tre~io dor -- mia 
     \normalLyrics
         ch'e -- gli già sa -- tio
-    Del mio __ do -- lor de le mi -- se -- rie mi -- e
+    Del mio __ do -- lor, del -- le mi -- se -- rie mi -- e
     Fat -- to~a -- ven -- do di me,
     \ijLyrics
     Fat -- to~a -- ven -- do di me 
     \normalLyrics
         si lun -- go stra -- tio
-    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e
-    Ma sue -- glia -- to m'ac -- cor -- si~in bre -- ve spa -- tio
+    A -- ves -- se~an -- co~og -- gi mai vo -- glie più pi -- e.
+    Ma sve -- glia -- to m'ac -- cor -- si~in bre -- ve spa -- tio
         mie pe -- ne ri -- e,
     Il duo -- lo fal -- sa -- men -- te~il son -- no~at -- ter -- ra
-    Ma l'a -- ma -- ro veg -- ghiar, ohi -- me,
-    ma l'a -- ma -- ro veg -- ghiar, ohi -- me, non er -- ra.
+    Ma l'a -- ma -- ro veg -- ghiar, ohi -- mè,
+    ma l'a -- ma -- ro veg -- ghiar, ohi -- mè, non er -- ra.
 }
 
 cantoXXVIIincipitVoice = <<

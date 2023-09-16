@@ -1,11 +1,12 @@
 % Nasce il gran piecer mio da van gioire
-% Che se mi fugge in un tratto com'ombra
-% Se da vera cagion nasce il martire
-% Che ogni piacer fin dentro il cor mi sgombra
-% Così quiete non trova il mio desire
-% Se non nel falso che l'anima ingombra,
+% che se mi fugge in un tratto come ombra:
+% se da vera cagion nasce il martire,
+% che ogni piacer fin dentro il cor mi sgombra,
+% così quiete non trova il mio desire
+% se non nel falso che l'anima ingombra.
 % Fugga dunque da me cosa verace
-% Se'l ver m'annoia e'l falso si mi piace.
+% se'l ver m'annoia e'l falso sì mi piace.
+
 cantoXXVIIIincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"
@@ -50,7 +51,7 @@ cantoLyricsXXVIII = \lyricmode {
     Che~o -- gni pia -- cer fin den -- tro~il cor mi sgom -- bra
     Co -- sì quie -- te non tro -- va~il mio de -- si -- re,
         Co -- sì,
-    Se non nel fal -- so che l'a -- ni -- ma~in -- gom -- bra,
+    Se non nel fal -- so che l'a -- ni -- ma~in -- gom -- bra.
     Fug -- ga dun -- que da me co -- sa ve -- ra -- ce
     Se'l ver m'an -- no -- ia e'l fal -- so si mi pia -- ce,
         e'l __ fal -- so si mi pia -- ce.
@@ -100,7 +101,7 @@ altoLyricsXXVIII = \lyricmode {
     \ijLyrics
     co -- sì __ quie -- te non tro -- va~il mio de -- si -- re,
     \normalLyrics
-    Se non nel fal -- so che __ l'a -- ni -- ma~in -- gom -- bra, __
+    Se non nel fal -- so che __ l'a -- ni -- ma~in -- gom -- bra. __
     Fug -- ga dun -- que da me co -- sa ve -- ra -- ce
     Se'l ver m'an -- no -- ia,
     se'l ver,
@@ -155,7 +156,7 @@ tenoreLyricsXXVIII = \lyricmode {
         Co -- sì,
     \normalLyrics
         Co -- sì quie -- te non tro -- va~il mio de -- si -- re,
-    Se non nel fal -- so che l'a -- ni -- ma~in -- gom -- bra, __
+    Se non nel fal -- so che l'a -- ni -- ma~in -- gom -- bra. __
     Fug -- ga dun -- que da me co -- sa __ ve -- ra -- ce
     Se'l ver m'an -- no -- ia,
     \ijLyrics
@@ -264,7 +265,7 @@ quintoLyricsXXVIII = \lyricmode {
     Co -- sì __ quie -- te non tro -- va~il mio de -- si -- re,
     Co -- sì,
         quie -- te non tro -- va~il mio de -- si -- re,
-    Se non nel fal -- so che l'a -- ni -- ma~in -- gom -- bra,
+    Se non nel fal -- so che l'a -- ni -- ma~in -- gom -- bra.
     Fug -- ga dun -- que da me co -- sa ve -- ra -- ce
     Se'l ver m'an -- no -- ia,
     \ijLyrics

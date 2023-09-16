@@ -1,11 +1,11 @@
-% Non sia più meco quel ch'io odo vero
-% Ma quel soave falso eternamente
-% Poi che di si dolce esca il mio pensiero
-% Pasce la mesta e travagliata mente
+% Non sia più meco quel ch'io odo vero,
+% ma quel soave falso eternamente
+% poiché di sì dolce esca il mio pensiero
+% pasce la mesta e travagliata mente.
 % Fugga da me il venen mortal e fiero
-% Che le mie gioie eternamente ba spente,
-% E poi ch'ogni mio ben mi toglie e serra
-% Non oda o veggia mai più vero in terra.
+% che le mie gioie eternamente ha spente,
+% e poiché ogni mio ben mi toglie e serra
+% non oda o veggia mai più vero in terra.
 
 cantoXXIXincipit = \relative c'' {
     \time 4/4
@@ -48,13 +48,13 @@ cantoLyricsXXIX = \lyricmode {
     \normalLyrics
         quel ch'io o -- do ve -- ro
     Ma quel so -- a -- ve fal -- so~e -- ter -- na -- men -- te
-    Poi che di si dol -- ce~e -- sca il mio pen -- sie -- ro
+    Poi -- ché di sì dol -- ce~e -- sca il mio pen -- sie -- ro
     Pa -- sce la me -- sta~e tra -- va -- glia -- ta men -- te
         Fug -- ga da me~il ve -- nen mor -- tal e fie -- ro
     Che le mie gio -- ie~e -- ter -- na -- men -- te~ha spen -- te,
     E poi __ ch'o -- gni mio ben 
     \ijLyrics
-    e poi ch'o -- gni mio ben 
+    e poi -- ch'o -- gni mio ben 
     \normalLyrics
         mi to -- glie~e ser -- ra,
     \ijLyrics
@@ -107,11 +107,11 @@ altoLyricsXXIX = \lyricmode {
     \normalLyrics
         quel ch'io o -- do ve -- ro
     Ma quel so -- a -- ve fal -- so~e -- ter -- na -- men -- te
-    Poi che di si __ dol -- ce~e -- sca~il mio __ pen -- sie -- ro
+    Poi -- ché di sì __ dol -- ce~e -- sca~il mio __ pen -- sie -- ro
     Pa -- sce la me -- sta e tra -- va -- glia -- ta men -- te
         mor -- tal __ e fie -- ro
     Che le mie gio -- ie~e -- ter -- na -- men -- te~ha spen -- te,
-    E poi ch'o -- gni mio ben 
+    E poi -- ch'o -- gni mio ben 
     \ijLyrics
     e poi __ ch'o -- gni mio ben 
     \normalLyrics
@@ -162,11 +162,11 @@ tenoreLyricsXXIX = \lyricmode {
     \normalLyrics
         quel ch'io o -- do ve -- ro
     Ma quel so -- a -- ve fal -- so~e -- ter -- na -- men -- te
-    Poi che di si __ dol -- ce~e -- sca~il mio pen -- sie -- ro __
+    Poi -- ché di sì __ dol -- ce~e -- sca~il mio pen -- sie -- ro __
     Pa -- sce la me -- sta~e tra -- va -- glia -- ta men -- te
     Fug -- ga da me~il ve -- nen mor -- tal e fie -- ro
     Che le mie gio -- ie~e -- ter -- na -- men -- te~ha spen -- te,
-    E poi ch'o -- gni mio ben mi to -- glie~e ser -- ra,
+    E poi -- ch'o -- gni mio ben mi to -- glie~e ser -- ra,
         mi to -- glie~e ser -- ra
     Non o -- da o veg -- gia mai più ve -- ro~in ter -- ra.
 }
@@ -207,7 +207,7 @@ bassoLyricsXXIX = \lyricmode {
     Ma quel so -- a -- ve fal -- so~e -- ter -- na -- men -- te
     Pa -- sce la me -- sta~e tra -- va -- glia -- ta men -- te
         e -- ter -- na -- men -- te~ha spen -- te,
-    E poi ch'o -- gni mio ben mi to -- glie~e ser -- ra,
+    E poi -- ch'o -- gni mio ben mi to -- glie~e ser -- ra,
         mi to -- glie~e ser -- ra
     Non o -- da o veg -- gia mai più ve -- ro~in ter -- ra.
 }
@@ -258,9 +258,9 @@ quintoLyricsXXIX = \lyricmode {
     Pa -- sce la me -- sta~e tra -- va -- glia -- ta men -- te
         Fug -- ga da me~il ve -- nen mor -- tal e fie -- ro
     Che le mie gio -- ie~e -- ter -- na -- men -- te~ha spen -- te,
-    E poi ch'o -- gni mio ben mi to -- glie~e ser -- ra,
+    E poi -- ch'o -- gni mio ben mi to -- glie~e ser -- ra,
     \ijLyrics
-    e poi ch'o -- gni mio ben mi to -- glie~e ser -- ra,
+    e poi -- ch'o -- gni mio ben mi to -- glie~e ser -- ra,
     \normalLyrics
         mi to -- glie~e ser -- ra
     Non o -- da o veg -- gia mai più ve -- ro~in ter -- ra.

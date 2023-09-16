@@ -21,6 +21,7 @@
     flats = 1
     final = "f"
     shorttitle = "missa_fortuna__kyrie_eleison"
+    categories = "[fortuna]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

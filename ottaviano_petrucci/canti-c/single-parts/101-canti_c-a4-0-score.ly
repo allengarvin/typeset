@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "fortuna_desperata"
     \include "include/distribution-header.ly"
+    categories = "[fortuna]"
     tagline = #'f
 }
 

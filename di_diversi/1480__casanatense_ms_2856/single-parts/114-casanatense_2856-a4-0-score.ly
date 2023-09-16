@@ -22,6 +22,7 @@
     lastupdated = "2016-03-04"
     flats = 1
     final = "f"
+    categories = "[fortuna]"
     shorttitle = "fortuna_disperata"
     \include "include/distribution-header.ly"
     tagline = #'f

@@ -1,11 +1,11 @@
-% Parea dicesse con aperte braccia
-% D'averti usato torto, or mi pent'io
-% Stringemi forte e dolcemente abbracia
-% Che tu sei la mia vita ed il cor mio
+% Parea dicesse con aperte braccia:
+% «D'averti usato torto, or mi pent'io.
+% Stringemi forte e dolcemente abbracia,
+% che tu sei la mia vita ed il cor mio.
 % Succia ste labbia e questa fronte baccia
-% E tempra or mai l'ardente tuo desio
-% Al' or mi tenn'io sol felice in terra
-% Ma l'amaro vegghiar mi torno in guerra.
+% e tempra or mai l'ardente tuo desio.»
+% Allor mi tenn'io sol felice in terra
+% ma l'amaro vegghiar mi torno in guerra.
 
 cantoXXVincipit = \relative c'' {
     \time 4/4
@@ -40,8 +40,8 @@ cantoXXV = \relative c'' {
 }
 
 cantoLyricsXXV = \lyricmode {
-    Pa -- rea di -- ces -- se con a -- per -- te brac -- cia
-    D'a -- ver -- ti~u -- sa -- to tor -- to, or mi pen -- t'i -- o
+    Pa -- rea di -- ces -- se con a -- per -- te brac -- cia:
+    D'a -- ver -- ti~u -- sa -- to tor -- to, or mi pen -- t'i -- o.
     Strin -- ge -- mi for -- te~e dol -- ce -- men -- te~ab -- brac -- cia
     Che tu sei la mia vi -- ta~ed il cor mi -- o
     Suc -- cia ste lab -- bia e que -- sta fron -- te bac -- cia
@@ -97,8 +97,8 @@ altoXXV = \relative c' {
 }
 
 altoLyricsXXV = \lyricmode {
-    Pa -- rea di -- ces -- se con a -- per -- te brac -- cia
-    D'a -- ver -- ti~u -- sa -- to tor -- to, or mi pen -- t'i -- o
+    Pa -- rea di -- ces -- se con a -- per -- te brac -- cia:
+    D'a -- ver -- ti~u -- sa -- to tor -- to, or mi pen -- t'i -- o.
     Strin -- ge -- mi for -- te~e dol -- ce -- men -- te~ab -- brac -- cia
     Che tu sei la mia vi -- ta ed __ il cor mi -- o
     Suc -- cia ste lab -- bia e que -- sta fron -- te bac -- cia
@@ -147,7 +147,7 @@ tenoreXXV = \relative c' {
 }
 
 tenoreLyricsXXV = \lyricmode {
-    D'a -- ver -- ti~u -- sa -- to tor -- to, or mi pen -- t'i -- o
+    D'a -- ver -- ti~u -- sa -- to tor -- to, or mi pen -- t'i -- o.
     Strin -- ge -- mi for -- te~e dol -- ce -- men -- te~ab -- brac -- cia
     Che tu sei la mia vi -- ta~ed il cor mi -- o
     Suc -- cia ste lab -- bia e que -- sta fron -- te bac -- cia
@@ -196,7 +196,7 @@ bassoXXV = \relative c' {
 }
 
 bassoLyricsXXV = \lyricmode {
-    D'a -- ver -- ti~u -- sa -- to tor -- to~or mi pen -- t'i -- o
+    D'a -- ver -- ti~u -- sa -- to tor -- to~or mi pen -- t'i -- o.
     Che tu sei la mia vi -- ta ed il cor mi -- o
     E tem -- pra~or mai l'ar -- den -- te tuo de -- si -- o,
     Al -- lor mi ten -- n'io sol fe -- li -- ce~in ter -- ra 
@@ -237,7 +237,7 @@ quintoXXV = \relative c' {
 }
 
 quintoLyricsXXV = \lyricmode {
-    D'a -- ver -- ti~u -- sa -- to tor -- to, or mi pen -- t'i -- o
+    D'a -- ver -- ti~u -- sa -- to tor -- to, or mi pen -- t'i -- o.
     Che tu sei la mia vi -- ta ed il cor mi -- o
     Suc -- cia ste lab -- bia e que -- sta fron -- te bac -- cia
     E tem -- pra~or mai l'ar -- den -- te, 

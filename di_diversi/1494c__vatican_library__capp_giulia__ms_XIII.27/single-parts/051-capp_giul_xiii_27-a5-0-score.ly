@@ -22,6 +22,7 @@
     % Unchanging:
     originallyset = "2016-03-12"
     lastupdated = "2016-03-12"
+    categories = "[fortuna]"
     shorttitle = "fortuna_desperata"
     \include "include/distribution-header.ly"
     tagline = #'f

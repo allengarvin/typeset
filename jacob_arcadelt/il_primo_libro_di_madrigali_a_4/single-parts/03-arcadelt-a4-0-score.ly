@@ -11,7 +11,6 @@
 \header {
     % Things that change per piece:
     title = "Ingiustissimo amore"
-    folio = "Anonymous poet"
     instrument = "Ingiustissimo amore (score)"
     needtranslation = #'t
     language = "italian"
@@ -23,6 +22,8 @@
     final = "f"
     shorttitle = "ingiustissimo_amore"
     categories = "[madrigal]"
+    rhyme = "aBBCdEFDceeAA"
+    poeticform = "madrigal"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -81,18 +82,18 @@
         \fill-line {
             \column {
                 \line { Ingiustissimo amore  }
-                \line { Che val l'unico servir con fede  }
-                \line { S'altri meco concorre alla mercede. }
+                \line { che val l'unico servir con fede  }
+                \line { s'altri meco concorre alla mercede. }
                 \line { \vspace #1 }
                 \line { Per madonna arsi ed ard' or la mia vita }
-                \line { E si vive la fiamma  }
-                \line { Di quel che sempre fui d'esser contento }
-                \line { Il cieco mio desir ch'ogn'or s'infiamma  }
-                \line { Fa la voglia infinita }
-                \line { Tal che dal torto non e'l foco spento  }
-                \line { Ma mi doglio ch'io sento }
-                \line { In madonna mancar sol per tuo errore }
-                \line { La justitia per me per lei l'onore. }
+                \line { e si vive la fiamma  }
+                \line { di quel che sempre fui d'esser contento }
+                \line { il cieco mio desir ch'ogn'or s'infiamma  }
+                \line { fa la voglia infinita }
+                \line { tal che dal torto non e'l foco spento  }
+                \line { ma mi doglio ch'io sento }
+                \line { in madonna mancar sol per tuo errore }
+                \line { la giustizia per me per lei l'onore. }
             }
         }
     }

@@ -21,6 +21,7 @@
 
     % Unchanging:
     language = "german/italian"
+    categories = "[fortuna]"
     lastupdated = "2020-08-22"
     originallyset = "2020-08-22"
     flats = 1

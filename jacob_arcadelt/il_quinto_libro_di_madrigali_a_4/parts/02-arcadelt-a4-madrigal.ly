@@ -1,13 +1,20 @@
-%    Pietose rime e voi freddi sospiri
-%    Correte del bel Tebro a le chiare onde
-%    Ove lieto n'asconde 
-%    Anna sola cagion de miei martiri 
-%
-%    A cui direte che la notte~e'l giorno
-%    Sempre smarrito vo com'ella vole 
-%    Che sue dolce parole
-%    Mi fan mesto restar fin al ritorno 
+% Pietose rime, e voi, freddi sospiri:
+% correte del bel Tebro alle chiare onde
+% ove lieto n'asconde 
+% Anna, sola cagion de miei martiri,
+% a cui direte che la notte e'l giorno
+% sempre smarrito vo, come ella vole, 
+% che sue dolce parole
+% mi fan mesto restar fin al ritorno.
 
+% Pitiful rhymes, and you, cold sighs:
+% rush to clear waves of the lovely Tiber
+% where jofully hidden is
+% Anna, sole cause of my torments,
+% to whom you will say that by night and day
+% I always wander aimlessly, as she wishes,
+% for her sweet words
+% make me melancholy until her return at last.
 cantusIIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c1"
@@ -44,13 +51,13 @@ cantusII = \relative c'' {
 cantusLyricsII = \lyricmode {
     Pie -- to -- se ri -- me e voi fred -- di so -- spi -- ri,
         e voi fred -- di so -- spi -- ri,
-    Cor -- re -- te del bel Te -- bro a le chiar' on -- de
+    Cor -- re -- te del bel Te -- bro a le chia -- re~on -- de
     O -- ve lie -- to n'a -- scon -- de,
-    An -- na so -- la ca -- gion 
+    An -- na so -- la ca -- gion,
     An -- na so -- la ca -- gion de __ miei __ mar -- ti -- ri,
 
     A cui di -- re -- te che la not -- te~el __ gior -- no, __
-    Sem -- pre smar -- ri -- to vo com' el -- la vo -- le, 
+    Sem -- pre smar -- ri -- to vo, co -- m'el -- la vo -- le, 
     Che sue dol -- ce __ pa -- ro -- le
     Mi fan me -- sto re -- star fin al ri -- tor -- no,
         fin al ri -- tor -- no. __
@@ -94,13 +101,13 @@ altusLyricsII = \lyricmode {
         pie -- to -- se ri -- me __ 
     e voi fred -- di so -- spi -- ri,
         fred -- di so -- spi -- ri,
-    Cor -- re -- te del bel Te -- bro~a le chiar' on -- de
+    Cor -- re -- te del bel Te -- bro~a le chia -- re~on -- de
     O -- ve lie -- to n'a -- scon -- de,
     An -- na so -- la ca -- gion,
     An -- na so -- la ca -- gion de miei __ mar -- ti -- ri,
 
     A cui di -- re -- te che la not -- te~el gior -- no, 
-    Sem -- pre smar -- ri -- to vo com' el -- la vo -- le 
+    Sem -- pre smar -- ri -- to vo, co -- m'el -- la vo -- le 
     Che sue dol -- ce pa -- ro -- le __
     Mi fan me -- sto re -- star fin al ri -- tor -- no,
     mi fan me -- sto re -- star fin al ri -- tor -- no,
@@ -147,13 +154,13 @@ tenorLyricsII = \lyricmode {
         pie -- to -- se ri -- me
     e voi fred -- di so -- spi -- ri,
         so -- spi -- ri, __
-    Cor -- re -- te del bel Te -- bro~a le chiar' on -- de
+    Cor -- re -- te del bel Te -- bro~a le chia -- re~on -- de
     O -- ve lie -- to __ n'a -- scon -- de,
     An -- na so -- la ca -- gion,
     An -- na so -- la ca -- gion de miei mar -- ti -- ri,
 
     A cui di -- re -- te che la not -- te~el gior -- no,
-    Sem -- pre smar -- ri -- to vo com' el -- la vo -- le 
+    Sem -- pre smar -- ri -- to vo, co -- m'el -- la vo -- le 
         vo -- le,
     Che sue dol -- ce pa -- ro -- le
     Mi fan me -- sto re -- star,
@@ -193,16 +200,16 @@ bassusII = \relative c' {
 bassusLyricsII = \lyricmode {
     Pie -- to -- se ri -- me e voi fred -- di so -- spi -- ri,
         e voi fred -- di so -- spi -- ri,
-    Cor -- re -- te del bel Te -- bro~a le chiar' on -- de
+    Cor -- re -- te del bel Te -- bro~a le chia -- re~on -- de
     O -- ve lie -- to n'a -- scon -- de,
     An -- na so -- la ca -- gion 
         so -- la ca -- gion de miei mar -- ti -- ri,
 
     A cui di -- re -- te che la not -- te~el gior -- no, 
-    Sem -- pre smar -- ri -- to vo com' el -- la vo -- le 
+    Sem -- pre smar -- ri -- to vo, co -- m'el -- la vo -- le 
     Che sue dol -- ce __ pa -- ro -- le
     Mi fan me -- sto re -- star fin al ri -- tor -- no,
-    Mi fan me -- sto re -- star fin al ri -- tor -- no,
+    mi fan me -- sto re -- star fin al ri -- tor -- no,
         fin al ri -- tor -- no.
 }
 

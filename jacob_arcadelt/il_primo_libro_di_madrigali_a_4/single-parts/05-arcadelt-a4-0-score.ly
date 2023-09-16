@@ -92,6 +92,13 @@
                 \line { ancor ch'ella non prezzi il servir lei }
                 \line { che quanto mai d'ogni altra aver potrei. }
             }
-        }
+%            \column {
+%                % translation: 2023-09-09
+%I never wish another thought
+%to dwell in my heart
+%than of my lady,
+%and however much courtesy could
+%love 
+%        }
     }
 }

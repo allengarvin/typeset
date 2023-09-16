@@ -9,7 +9,7 @@
 %    Fa la voglia infinita
 %    Tal che dal torto non e'l foco spento 
 %    Ma mi doglio ch'io sento
-%    In ma -- donna mancar sol per tuo errore
+%    In madonna mancar sol per tuo errore
 %    La justitia per me per lei l'onore.
 
 
@@ -60,8 +60,8 @@ cantusLyricsIII = \lyricmode {
     Tal che dal tor -- to non e'l fo -- co spen -- to 
     Ma mi do -- glio ch'io sen -- to
     In ma -- don -- na man -- car sol per tuo~er -- ro -- re
-    La ju -- sti -- tia per me per lei l'o -- no -- re,
-    La ju -- sti -- tia per me per lei l'o -- no -- re,
+    La giu -- sti -- zia per me per lei l'o -- no -- re,
+    La giu -- sti -- zia per me per lei l'o -- no -- re,
         per lei l'o -- no -- re. __
 }
 
@@ -113,9 +113,9 @@ altusLyricsIII = \lyricmode {
     Tal che dal tor -- to non __ e'l fo -- co spen -- to 
     Ma mi do -- glio ch'io sen -- to
     In ma -- don -- na man -- car sol per tuo~er -- ro -- re
-    La ju -- sti -- tia per me per lei l'o -- no -- re,
+    La giu -- sti -- zia per me per lei l'o -- no -- re,
         per lei l'o -- no -- re,
-    la ju -- sti -- tia per me per lei l'o -- no -- re,
+    la giu -- sti -- zia per me per lei l'o -- no -- re,
     \ijLyrics
         per lei l'o -- no -- re.
     \normalLyrics
@@ -172,8 +172,8 @@ tenorLyricsIII = \lyricmode {
     Tal che dal tor -- to non __ e'l fo -- co spen -- to  __
     Ma __ mi do -- glio ch'io sen -- to __
     In ma -- don -- na man -- car sol per tuo~er -- ro -- re
-    La ju -- sti -- tia per me per lei l'o -- no -- re,
-    La ju -- sti -- tia per me per lei l'o -- no -- re,
+    La giu -- sti -- zia per me per lei l'o -- no -- re,
+    La giu -- sti -- zia per me per lei l'o -- no -- re,
         per lei l'o -- no -- re,
         per lei __ l'o -- no -- re.
 }
@@ -228,8 +228,8 @@ bassusLyricsIII = \lyricmode {
     Tal che dal tor -- to non __ e'l fo -- co spen -- to __
     Ma __ mi do -- glio ch'io sen -- to __
     In ma -- don -- na man -- car sol per tuo~er -- ro -- re
-    La ju -- sti -- tia per me per lei l'o -- no -- re,
-    La ju -- sti -- tia per me per lei l'o -- no -- re,
+    La giu -- sti -- zia per me per lei l'o -- no -- re,
+    La giu -- sti -- zia per me per lei l'o -- no -- re,
         per lei l'o -- no -- re.
 }
 

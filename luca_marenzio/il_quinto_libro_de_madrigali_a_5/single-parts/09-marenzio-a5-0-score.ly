@@ -23,7 +23,7 @@
     shortcomp = "marenzio"
     categories = "[madrigal]"
     motifs = "[flame,love]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Giovanni Battista Guarini (1538-1612)"
 
     % Unchanging:
@@ -106,10 +106,24 @@
                 \line { né tempo, né ragion, né morte vale. }
                 \line { Chi spegne antico incendio il fa immortale. }
             }
-%           \column {
-%               % translation orig date:
-%               % translation updated:
-%           }
+          \column {
+              % translation orig date: 2023-09-10
+              % master version: di_diversi/1589__le_gioie/single-parts/21-soriano-a5-0-score.ly
+ 
+              % translation updated:
+              % do-not-publish-translation
+                \line { Woe! ancient flame }
+                \line { that had slept, by the breath of a single }
+                \line { oh so sweet word }
+                \line { awakens, and in my heart burns and sparks. }
+                \line { Alas, facing Love, }
+                \line { when its first sweetness drips }
+                \line { into a tender heart, }
+                \line { neither scorn, nor pain, }
+                \line { nor time, nor reason, nor death may prevale. }
+                \line { He who quenches an old fire makes it immortal. }
+                \line { \hspace #10 \italic { translation by editor }  }
+          }
         }
     }
 }

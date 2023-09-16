@@ -1,11 +1,11 @@
 % Già avea l'eterna mano d'ogni sua stella
-% Fatto il sereno ciel lucente, e adorno;
-% E di Febo la candida sorella
-% Facea parer la notte un chiaro giorno;
+% fatto il sereno ciel lucente, e adorno;
+% e di Febo la candida sorella
+% facea parer la notte un chiaro giorno.
 % Stanca già sen dormia la pastorella,
-% Che avea il discorso il monte, e'l piano intorno,
-% Quando con quella, che mi ancide, e sface,
-% Il dolce sonno mi promise pace.
+% che avea il discorso il monte, e'l piano intorno,
+% quando con quella, che mi ancide, e sface,
+% il dolce sonno mi promise pace.
 %         -- Pietro Arigone Cavaliere?
 
 % The last line is a quote from Ariosto (Canto 23, ottava 63)

@@ -17,7 +17,7 @@
     lastupdated = "2013-07-13"
     flats = 0
     final = "g"
-    shorttitle = "pietose_rime"
+    shorttitle = "ecco_d_oro_l_eta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -26,7 +26,7 @@
 \include "../parts/04-arcadelt-a4-madrigal.ly"
     
 \book {
-    \bookOutputName "04-arcadelt--pietose_rime"
+    \bookOutputName "04-arcadelt--ecco_d_oro_l_eta"
     \bookOutputSuffix "--0-score"
     \score {
         <<

@@ -39,8 +39,8 @@ cantusLyricsI = \lyricmode {
     m'em -- pie di gio -- ia
     tut -- to~e di de -- si -- re.
     Se nel mo -- rir __ al -- tro do -- lor non sen -- to __
-    di mil -- le mor -- te~il di sa -- rei con  -- ten -- to,
-    di mil -- le mor -- te~il di sa -- rei con -- ten -- to. __
+    di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to,
+    di mil -- le mor -- te~il dì sa -- rei con -- ten -- to. __
 }
 
 altusIincipit = \relative c' {
@@ -86,11 +86,11 @@ altusLyricsI = \lyricmode {
     m'em -- pie di gio -- ia
     tut -- to~e di de -- si -- re.
     Se nel mo -- rir' __ al -- tro do -- lor non sen -- to
-    di mil -- le mor -- te~il di, 
-    di mil -- le mor -- te~il di,
-    di mil -- le mor -- te~il di, 
-    di mil -- le mor -- te~il di, 
-    di mil -- le mor -- te~il di,
+    di mil -- le mor -- te~il dì, 
+    di mil -- le mor -- te~il dì,
+    di mil -- le mor -- te~il dì, 
+    di mil -- le mor -- te~il dì, 
+    di mil -- le mor -- te~il dì,
 
     sa -- rei __ con -- ten -- to.
 }
@@ -141,11 +141,11 @@ tenorLyricsI = \lyricmode {
     m'em -- pie di gio -- ia
     tut -- to~e di de -- si -- re.
     Se nel mo -- rir' __ al -- tro do -- lor non sen -- to,
-    di mil -- le mor -- te~il di,
-    di mil -- le mor -- te~il di sa -- rei con -- ten -- to,
-    di mil -- le mor -- te~il di,
-    di mil -- le mor -- te~il di sa -- rei con  -- ten -- to,
-    di mil -- le mor -- te~il di sa -- rei con  -- ten -- to.
+    di mil -- le mor -- te~il dì,
+    di mil -- le mor -- te~il dì sa -- rei con -- ten -- to,
+    di mil -- le mor -- te~il dì,
+    di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to,
+    di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to.
 }
 
 bassusIincipit = \relative c {
@@ -189,9 +189,9 @@ bassusLyricsI = \lyricmode {
     tut -- to~e di de -- si -- re.
 
     Se nel mo -- rir' __ al -- tro do -- lor non sen -- to,
-    di mil -- le mor -- te~il di __ sa -- rei con -- ten -- to,
-    di mil -- le mor -- te~il di __ sa -- rei con -- ten -- to,
-    di mil -- le mor -- te~il di sa -- rei con -- ten -- to.
+    di mil -- le mor -- te~il dì __ sa -- rei con -- ten -- to,
+    di mil -- le mor -- te~il dì __ sa -- rei con -- ten -- to,
+    di mil -- le mor -- te~il dì sa -- rei con -- ten -- to.
 }
 
 cantusIincipitVoice = <<

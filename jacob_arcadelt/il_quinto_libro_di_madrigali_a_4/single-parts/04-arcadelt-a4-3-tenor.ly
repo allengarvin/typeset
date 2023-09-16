@@ -18,7 +18,7 @@
     % Unchanging:
     originallyset = "2013-07-13"
     lastupdated = "2013-07-13"
-    shorttitle = "pietose_rime"
+    shorttitle = "ecco_d_oro_l_eta"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -26,7 +26,7 @@
 \include "../parts/04-arcadelt-a4-madrigal.ly"
     
 \book {
-    \bookOutputName "04-arcadelt--pietose_rime"
+    \bookOutputName "04-arcadelt--ecco_d_oro_l_eta"
     \bookOutputSuffix "--3-tenor--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -41,7 +41,7 @@
 }
 
 \book {
-    \bookOutputName "04-arcadelt--pietose_rime"
+    \bookOutputName "04-arcadelt--ecco_d_oro_l_eta"
     \bookOutputSuffix "--3-tenor--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

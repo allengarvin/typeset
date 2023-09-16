@@ -19,6 +19,7 @@
     % Unchanging:
     originallyset = "2013-08-04"
     lastupdated = "2013-08-04"
+    categories = "[fortuna]"
     flats = 1
     final = "f"
     shorttitle = "quodlibet_ich_stund_fortuna"

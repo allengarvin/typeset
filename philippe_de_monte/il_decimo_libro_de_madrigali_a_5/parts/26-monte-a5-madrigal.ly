@@ -1,11 +1,11 @@
-% E perch'io torni a le mie usate pene
-% Sparve il sonno qual nebbia a un fiero vento
-% Ond'io pien d'ogni duol fuor d'ogni speme
-% Suegliato mi trovai solo e scontento 
+% E perch'io torni a le mie usate pene,
+% sparve il sonno qual nebbia a un fiero vento;
+% ond'io pien d'ogni duol, fuor d'ogni speme
+% suegliato mi trovai solo e scontento.
 % O breve gioia, o fuggitivo bene
-% Come lieve t'involi in un momento
-% Ben posso dir Amor con la tua pace 
-% Il dolce sonno è ben stato falace.
+% come lieve t'involi in un momento!
+% Ben posso dir Amor con la tua pace
+% il dolce sonno è ben stato fallace.
 
 cantoXXVIincipit = \relative c' {
     \time 4/4
@@ -42,10 +42,10 @@ cantoLyricsXXVI = \lyricmode {
     E per -- ch'io tor -- ni~a le mie~u -- sa -- te pe -- ne,
     e per -- ch'io tor -- ni a le mie~u -- sa -- te pe -- ne
     Spar -- ve~il son -- no qual neb -- bia~a~un fie -- ro ven -- to
-    On -- d'io pien d'o -- gni duol fuor d'o -- gni spe -- me
+    On -- d'io pien d'o -- gni duol, fuor d'o -- gni spe -- me
     Sue -- glia -- to mi tro -- vai
     O bre -- ve gio -- ia~o fug -- gi -- ti -- vo be -- ne
-    Co -- me lie -- ve t'in -- vo -- li~in un mo -- men -- to,
+    Co -- me lie -- ve t'in -- vo -- li~in un mo -- men -- to!
     Ben pos -- so dir,
     \ijLyrics
     ben pos -- so dir 
@@ -98,10 +98,10 @@ altoLyricsXXVI = \lyricmode {
             a le mie~u -- sa -- te __ pe -- ne,
         \normalLyrics
     Spar -- ve~il son -- no qual neb -- bia~a~un fie -- ro ven -- to
-    On -- d'io pien d'o -- gni duol fuor d'o -- gni spe -- me
+    On -- d'io pien d'o -- gni duol, fuor d'o -- gni spe -- me
     Sue -- glia -- to mi tro -- vai
     O bre -- ve gio -- ia~o fug -- gi -- ti -- vo be -- ne
-    Co -- me lie -- ve t'in -- vo -- li~in un mo -- men -- to,
+    Co -- me lie -- ve t'in -- vo -- li~in un mo -- men -- to!
     Ben pos -- so dir A -- mor con la tua pa -- ce 
     Il dol -- ce son -- no~è ben sta -- to fal -- la -- ce,
     \ijLyrics
@@ -147,10 +147,10 @@ tenoreXXVI = \relative c' {
 tenoreLyricsXXVI = \lyricmode {
     E per -- ch'io tor -- ni a le mie~u -- sa -- te pe -- ne, __
     e per -- ch'io tor -- ni a le mie~u -- sa -- te pe -- ne
-    On -- d'io __ pien d'o -- gni duol fuor d'o -- gni spe -- me
+    On -- d'io __ pien d'o -- gni duol, fuor d'o -- gni spe -- me
     Sue -- glia -- to mi __ tro -- vai e scon -- ten -- to
     O bre -- ve gio -- ia~o fug -- gi -- ti -- vo be -- ne
-    Co -- me lie -- ve t'in -- vo -- li~in un mo -- men -- to,
+    Co -- me lie -- ve t'in -- vo -- li~in un mo -- men -- to!
     Ben pos -- so dir A -- mor con la tua pa -- ce 
     Il dol -- ce son -- no è ben sta -- to __ fal -- la -- ce,
     \ijLyrics
@@ -189,7 +189,7 @@ bassoXXVI = \relative c {
 
 bassoLyricsXXVI = \lyricmode {
     E per -- ch'io tor -- ni a le mie~u -- sa -- te pe -- ne,
-    On -- d'io pien d'o -- gni duol fuor d'o -- gni spe -- me
+    On -- d'io pien d'o -- gni duol, fuor d'o -- gni spe -- me
     Sue -- glia -- to mi tro -- vai so -- lo~e scon -- ten -- to
     Ben pos -- so dir A -- mor con la tua pa -- ce 
     Il dol -- ce son -- no~è ben sta -- to fal -- la -- ce,
@@ -236,13 +236,13 @@ quintoLyricsXXVI = \lyricmode {
         a le mie~u -- sa -- te pe -- ne
     \normalLyrics
     Spar -- ve~il son -- no qual neb -- bia~a~un fie -- ro ven -- to
-    On -- d'io pien d'o -- gni duol fuor d'o -- gni spe -- me,
+    On -- d'io pien d'o -- gni duol, fuor d'o -- gni spe -- me,
     \ijLyrics
         fuor d'o -- gni spe -- me
     \normalLyrics
     Sue -- glia -- to mi tro -- vai e scon -- ten -- to
     O bre -- ve gio -- ia~o fug -- gi -- ti -- vo be -- ne
-    Co -- me lie -- ve t'in -- vo -- li~in un mo -- men -- to,
+    Co -- me lie -- ve t'in -- vo -- li~in un mo -- men -- to!
     Ben pos -- so dir A -- mor con la tua pa -- ce 
     \ijLyrics
         A -- mor con la tua pa -- ce 
