@@ -9,6 +9,15 @@
 % mort'è chi v'ama e vive in dura sorte,
 % che ben vivo non è l'uom ch'ama morte.
 
+% A false belief you have,
+% Lady, if you believe that
+% that I be not alive since
+% I no longer love you;
+% Rather, I will die if I love you,
+% since I live as much as I love you no longer.
+% And if I ever bore you love
+% and 
+
 cantoVIIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
