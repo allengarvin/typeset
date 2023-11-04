@@ -17,7 +17,9 @@
     shorttitle = "io_non_potria_goder_gioia_perfetta"
     shortcomp = "merulo"
     composer = "Claudio Merulo (1533-1604)"
-    needtranslation = #'t
+    needtranslation = #'f
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
 
     % Unchanging:
     language = "italian"
@@ -26,6 +28,7 @@
     flats = 1
     final = "g"
     categories = "[madrigal]"
+    motifs = "[amore,eyes,joy]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -94,13 +97,26 @@
         \fill-line {
             \column {
                 \line { Io non potria goder gioia perfetta }
-                \line { Se non vedessi voi mia cara gioia, }
-                \line { Il cui vago splendor si mi diletta; }
-                \line { Che poco ogni altra tenebre m'annoia }
-                \line { Mentre a tesaurizzarvi io son eletta, }
+                \line { se non vedessi voi mia cara gioia, }
+                \line { il cui vago splendor sì mi diletta; }
+                \line { che poco ogni altra tenebre m'annoia }
+                \line { mentre a tesaurizzarvi io son eletta. }
                 \line { Gioisco nel mio cuor di tanta gioia }
-                \line { Che mirandovi gli occhi e'l vago viso: }
-                \line { Mi par veder aperto il paradiso. }
+                \line { che mirandovi gli occhi e'l vago viso, }
+                \line { mi par veder aperto il paradiso. }
+            }
+            \column {
+                % translation date: 2023-11-04
+                % Not a great translation, but I think it's weak poetry in the Italian
+                \line { I could not enjoy perfect joy }
+                \line { were I not to see you, my dear delight, }
+                \line { whose happy splendor so charms me; }
+                \line { for little does every other shadow weary me }
+                \line { whilst to treasure you I have chosen, }
+                \line { I rejoice in my heart with so much joy }
+                \line { that in gazing on your eyes and your happy face }
+                \line { to mee it seems paradise was opened. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
