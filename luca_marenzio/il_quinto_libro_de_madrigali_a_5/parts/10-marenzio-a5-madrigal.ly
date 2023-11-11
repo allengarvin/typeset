@@ -1,3 +1,30 @@
+% Quella che lieta del mortal mio duolo,
+% nei monti e per le selve oscure e sole
+% fuggendo gir come nemico sole
+% me che lei, come donna onero e colo.
+% Al pensier mio che questo obietto ha solo
+% e ch'indi vive e cibo altro non vuole,
+% celar non può de' suoi begli occhi il sole
+% né per fuggir, né per levarsi a volo.
+% 
+% Ben puote ella sparire a me dinanzi,
+% Come augellin che'l duro arciero ha scorto,
+% ratto ver gli alti boschi volar prende;
+% Ma l'ali del pensier chi fia ch'avanzi?
+% Chi lungo calle ed aspro è piano e corto,
+% così caldo desio l'affrete stende.
+% 
+% Giovanni della Casa
+% 
+% Text has: "onor'e colo" 1551 has "honoro". Leave as onero???
+% puote: archaic form of può, but poetry has pote??
+% alti boschi, or altri boschi? [poem source]
+% Arciero is capitalized in poetic source: some meaning?
+%   or should it be arciere: archer?
+
+% earlier source:
+% https://books.google.com/books?id=R4dIAQAAMAAJ&pg=PA86&dq=%22quella+che+lieta+del+mortal+mio+duolo%22+%22ella+sparire%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjP7pKbkbuCAxXKj2oFHel6D7oQ6AF6BAgHEAI#v=onepage&q=%22quella%20che%20lieta%20del%20mortal%20mio%20duolo%22%20%22ella%20sparire%22&f=false
+
 cantoXincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major

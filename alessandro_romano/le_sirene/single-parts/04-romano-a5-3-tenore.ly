@@ -14,15 +14,15 @@
  
     % Things that change per piece:
     title = "Di ch'ella mossa"
-    subtitle = "Secondaa parte"
-    instrument = "Di ch'ella mossa: Secondaa parte (tenore)"
+    subtitle = "Seconda parte"
+    instrument = "Di ch'ella mossa: Seconda parte (tenore)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "di_chella_mossa"
     shortcomp = "romano"
 
     % Things that change per part:
     partname = "Tenore (part 4 of 5)"
-    instrument = "Di ch'ella mossa: Secondaa parte (tenore)"
+    instrument = "Di ch'ella mossa: Seconda parte (tenore)"
 
     % Unchanging:
     tagline = #'f
@@ -31,7 +31,7 @@
 \include "../parts/04-romano-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "04-romano--di_chella_mossa-secondaa_parte"
+    \bookOutputName "04-romano--di_chella_mossa-seconda_parte"
     \bookOutputSuffix "--4-tenore--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -46,7 +46,7 @@
 }
 
 \book {
-    \bookOutputName "04-romano--di_chella_mossa-secondaa_parte"
+    \bookOutputName "04-romano--di_chella_mossa-seconda_parte"
     \bookOutputSuffix "--4-tenore--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     lastupdated = "2023-09-10"
@@ -21,10 +21,9 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_dolce_sonno"
     shortcomp = "monte"
-    categories = "[]"
+    categories = "[madrigal]"
     motifs = "[]"
     needtranslation = #'t
-    folio = "Pietro Arigone"
 
     % Unchanging:
     language = "italian"
@@ -95,6 +94,14 @@
     \markup {
         \fill-line {
             \column {
+                \line { O dolce sonno più di vera vita, }
+                \line { compagno ch'assomigli a fiera morte: }
+                \line { sonno per cui d'allora infinita }
+                \line { godo del mio bel sol beatà sorte. }
+                \line { Sonno che con l'amara dipartita }
+                \line { ogni contento mio teco ne porti; }
+                \line { chiude questi occhi eternamente ormai }
+                \line { se'l dormir mi da gaudio, e'l vegghiar guai. }
             }
 %           \column {
 %               % translation orig date:

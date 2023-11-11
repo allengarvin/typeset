@@ -19,7 +19,6 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_dolce_sonno"
     shortcomp = "monte"
-    folio = "Pietro Arigone"
 
     % Things that change per part:
     partname = "Basso (part 5 of 5)"

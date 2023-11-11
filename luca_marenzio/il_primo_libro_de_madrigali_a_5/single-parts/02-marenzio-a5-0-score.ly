@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Ohimè dov'è il mio ben, dov'è il mio core?"
     instrument = "Ohimè dov'è il mio ben (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Bernardo Tasso (1493-1569)"
     poeticform = "ottava_rima"
@@ -23,6 +23,7 @@
     flats = 0
     final = "c"
     categories = "[madrigal]"
+    motifs = "[amore,pride]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,14 +92,27 @@
         \fill-line {
             \column {
                 % Italian reviewed 2020-05-09
-                \line { Ohimè dov'è il mio ben, dov'è il mio core? } 
+                % reviewed, corrected 2023-11-10
+                \line { Ohimè! dov'è il mio ben, dov'è il mio core? } 
                 \line { Chi m'asconde il mio core, e chi me'l toglie? } 
                 \line { Dunque ha potuto sol desio d'onore } 
                 \line { darmi fera cagion di tante doglie? } 
-                \line { Dunque han potuto in me, più che il mio amore, } 
+                \line { Dunque ha potuto in me più che il mio amore, } 
                 \line { ambitiose e troppo lievi voglie? } 
                 \line { Ahi sciocco mondo e cieco! Ahi cruda sorte, } 
                 \line { che ministro mi fai della mia morte!  } 
+            }
+            \column {
+                % translation 2023-11-11
+                \line { Alas! Where is beloved, where is my heart? }
+                \line { Who has hidden my own heart from me, and who takes it from me? }
+                \line { Could the desire alone for honor }
+                \line { give me such cruel cause for so much pain? }
+                \line { Could ambitious and too fleeting desires }
+                \line { have meant more to me that my love? }
+                \line { Ah foolish and blind world! Ah, cruel fate, }
+                \line { that renders me the minister of my own death! }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

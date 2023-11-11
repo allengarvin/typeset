@@ -19,7 +19,7 @@
     categories = "[madrigal]"
     final = "c"
     flats = 0
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Giovanni Battista Guarini (1538-1612)"
 
     % Unchanging:
@@ -93,6 +93,18 @@
                 \line { ne più bramar potrei. }
                 \line { Di sì soave bocca in un bel volto }
                 \line { baciando, il cor mi fu rapito e tolto. }
+            }
+            \column { 
+                % translation date: 2023-10-21
+                \line { I kissed to have life, }
+                \line { for where there is beauty is life, yet I found death; }
+                \line { but a death so welcomed }
+                \line { that a more blessed fate }
+                \line { I could not have, living: }
+                \line { nor could I desire more }
+                \line { from so sweet a mouth, on such a lovely face: }
+                \line { kissing, my heart was captivated and stolen away. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

@@ -18,6 +18,7 @@
 % Il resto direm' noi
 % Ai quattro venti con più chiaro suono.
 
+% Changes: 2023-11-05 "ne i" changed -> nei
 cantoOneXXVincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c1"
@@ -68,7 +69,7 @@ cantoOneLyricsXXV = \lyricmode {
     di -- te quel che vo -- le -- te
     che l'u -- bi -- dir -- vi~a noi sem -- pre con -- vie -- ne.
  
-    Tro -- via -- mo tut -- te noi __ ne~i san -- ti pet -- ti
+    Tro -- via -- mo tut -- te noi __ nei san -- ti pet -- ti
     Di -- te pur voi chi so -- no Gior -- gi -- o
         Gior -- gi -- o e __ Gio -- van -- ni,
             e Gio -- van -- ni
@@ -134,7 +135,7 @@ tenoreOneLyricsXXV = \lyricmode {
     di -- te quel che vo -- le -- te
     che l'u -- bi -- dir -- vi~a noi sem -- pre __ con -- vie -- ne.
 
-    Tro -- via -- mo tut -- te noi ne~i san -- ti pet -- ti __
+    Tro -- via -- mo tut -- te noi nei san -- ti pet -- ti __
     Di -- te pur voi chi so -- no Gior -- gi -- o
         Gior -- gi -- o e Gio -- van -- ni,
             e Gio -- van -- ni
@@ -202,7 +203,7 @@ tenoreTwoLyricsXXV = \lyricmode {
 
     Poi __ che'al -- ber -- go cor -- te -- se,
         cor -- te -- se
-    Tro -- via -- mo tut -- te noi ne~i san -- ti pet -- ti
+    Tro -- via -- mo tut -- te noi nei san -- ti pet -- ti
     Di due fra -- tel -- li~e -- let -- ti,
     di due fra -- tel -- li~e -- let -- ti,
     Que -- sti lo -- da -- te con le vo -- glie~ac -- ce -- se,
@@ -267,7 +268,7 @@ bassoTwoLyricsXXV = \lyricmode {
             al -- za -- te.
 
     Poi __ che'al -- ber -- go cor -- te -- se
-    Tro -- via -- mo tut -- te noi ne~i san -- ti pet -- ti
+    Tro -- via -- mo tut -- te noi nei san -- ti pet -- ti
     Di due fra -- tel -- li~e -- let -- ti,
     di due fra -- tel -- li~e -- let -- ti,
     Que -- sti lo -- da -- te con le vo -- glie~ac -- ce -- se,
@@ -337,7 +338,7 @@ altoTwoLyricsXXV = \lyricmode {
 
     Poi __ che'al -- ber -- go cor -- te -- se,
         cor -- te -- se
-    Tro -- via -- mo tut -- te noi ne~i san -- ti pet -- ti
+    Tro -- via -- mo tut -- te noi nei san -- ti pet -- ti
     Di due fra -- tel -- li~e -- let -- ti,
     di due fra -- tel -- li~e -- let -- ti,
     Que -- sti lo -- da -- te con le vo -- glie~ac -- ce -- se,
@@ -405,7 +406,7 @@ cantoTwoLyricsXXV = \lyricmode {
 
     Poi __ che'al -- ber -- go cor -- te -- se,
         cor -- te -- se
-    Tro -- via -- mo tut -- te noi ne~i san -- ti pet -- ti
+    Tro -- via -- mo tut -- te noi nei san -- ti pet -- ti
     Di due fra -- tel -- li~e -- let -- ti,
     di due fra -- tel -- li~e -- let -- ti,
     Que -- sti lo -- da -- te con le vo -- glie~ac -- ce -- se,
@@ -473,7 +474,7 @@ bassoOneLyricsXXV = \lyricmode {
     di -- te quel che vo -- le -- te
     che l'u -- bi -- dir -- vi~a noi sem -- pre con -- vie -- ne.
 
-    Tro -- via -- mo tut -- te noi ne~i san -- ti pet -- ti
+    Tro -- via -- mo tut -- te noi nei san -- ti pet -- ti
     Di -- te pur voi chi so -- no Gior -- gi -- o __
             e __ Gio -- van -- ni,
             e Gio -- van -- ni
@@ -534,7 +535,7 @@ altoOneLyricsXXV = \lyricmode {
     di -- te quel che vo -- le -- te
     che l'u -- bi -- dir -- vi~a noi sem -- pre con -- vie -- ne.
 
-    Tro -- via -- mo tut -- te noi ne~i san -- ti pet -- ti
+    Tro -- via -- mo tut -- te noi nei san -- ti pet -- ti
     Di -- te pur voi chi so -- no Gior -- gi -- o
         Gior -- gi -- o e __ Gio -- van -- ni,
             e Gio -- van -- ni

@@ -16,8 +16,8 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Di ch'ella mossa"
-    subtitle = "Secondaa parte"
-    instrument = "Di ch'ella mossa: Secondaa parte (score)"
+    subtitle = "Seconda parte"
+    instrument = "Di ch'ella mossa: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "di_chella_mossa"
     shortcomp = "romano"
@@ -34,7 +34,7 @@
 \include "../parts/04-romano-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "04-romano--di_chella_mossa-secondaa_parte"
+    \bookOutputName "04-romano--di_chella_mossa-seconda_parte"
     \bookOutputSuffix "--0-score"
     \score {
          <<

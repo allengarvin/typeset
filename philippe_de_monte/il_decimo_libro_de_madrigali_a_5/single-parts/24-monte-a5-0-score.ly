@@ -15,7 +15,6 @@
     instrument = "Già avea l'eterna mano (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Pietro Arigone (?)"
 
     % Unchanging:
     originallyset = "2016-05-04"

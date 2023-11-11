@@ -38,20 +38,20 @@ cantoXIII = \relative c'' {
 cantoLyricsXIII = \lyricmode {
     Ché la mia don -- na~al -- tie -- ra e dis -- de -- gno -- sa,
         e dis -- de -- gno -- sa,
-    Men -- tre ne~i miei so -- spir l'in -- vo -- co~e chia -- mo,
+    Men -- tre nei miei so -- spir l'in -- vo -- co~e chia -- mo,
     Gio -- ir __ scor -- go s'io ar -- do e s'io lan -- gui -- sco,
     E s'io cer -- co tron -- car
-    E __ s'io cer -- co tron -- car __ l'I -- dra~a -- mo -- ro -- sa,
+    e __ s'io cer -- co tron -- car __ l'I -- dra~a -- mo -- ro -- sa,
     M'i -- ve -- sco più 
     \ijLyrics
-    M'i -- ve -- sco più 
+    m'i -- ve -- sco più 
     \normalLyrics
         quan -- to fug -- gir 
         quan -- to fug -- gir 
         quan -- to fug -- gir più bra -- mo,
     Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco,
         ten -- ta dal vi -- sco,
-    Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco.
+    co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco.
 }
 
 altoXIIIincipit = \relative c' {
@@ -95,13 +95,13 @@ altoXIII = \relative c' {
 altoLyricsXIII = \lyricmode {
     Che __ la __ mia don -- na~al -- tie -- ra~e dis -- de -- gno -- sa,
         e dis -- de -- gno -- sa,
-    Men -- tre ne~i miei so -- spir l'in -- vo -- co~e chia -- mo,
+    Men -- tre nei miei so -- spir l'in -- vo -- co~e chia -- mo,
     Gio -- ir scor -- go s'io ar -- do e s'io lan -- gui -- sco,
     E s'io cer -- co tron -- car l'I -- dra
-    E s'io cer -- co tron -- car l'I -- dra~a -- mo -- ro -- sa,
+    e s'io cer -- co tron -- car l'I -- dra~a -- mo -- ro -- sa,
     Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco,
         che cam -- par ten -- ta dal vi -- sco,
-    Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco.
+    co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco.
 }
 
 tenoreXIIIincipit = \relative c' {
@@ -139,18 +139,18 @@ tenoreXIII = \relative c' {
 }
 
 tenoreLyricsXIII = \lyricmode {
-    Men -- tre ne~i miei so -- spir l'in -- vo -- co~e chia -- mo,
+    Men -- tre nei miei so -- spir l'in -- vo -- co~e chia -- mo,
         e __ s'io lan -- gui -- sco,
     E __ s'io cer -- co tron -- car l'I -- dra~a -- mo -- ro -- sa,
-    E s'io cer -- co tron -- car l'I -- dra~a -- mo -- ro -- sa,
+    e s'io cer -- co tron -- car l'I -- dra~a -- mo -- ro -- sa,
     M'i -- ve -- sco più 
     \ijLyrics
-    M'i -- ve -- sco più 
+    m'i -- ve -- sco più 
     \normalLyrics
-    M'i -- ve -- sco più 
+    m'i -- ve -- sco più 
         quan -- to fug -- gir più bra -- mo
     Co -- me~au -- gel  __
-    Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco,
+    co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco,
         che cam -- par ten -- ta dal vi -- sco,
         che cam -- par,
         che cam -- par ten -- ta dal vi -- sco.
@@ -190,14 +190,14 @@ bassoXIII = \relative c {
 }
 
 bassoLyricsXIII = \lyricmode {
-    Men -- tre ne~i miei so -- spir l'in -- vo -- co~e chia -- mo,
+    Men -- tre nei miei so -- spir l'in -- vo -- co~e chia -- mo,
         e s'io lan -- gui -- sco,
     E s'io cer -- co tron -- car
-    E s'io cer -- co tron -- car l'I -- dra~a -- mo -- ro -- sa,
+    e s'io cer -- co tron -- car l'I -- dra~a -- mo -- ro -- sa,
     Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco,
-    Co -- me~au -- gel
+    co -- me~au -- gel
         ten -- ta dal vi -- sco,
-    Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco.
+    co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco.
 }
 
 quintoXIIIincipit = \relative c'' {
@@ -242,21 +242,21 @@ quintoXIII = \relative c'' {
 quintoLyricsXIII = \lyricmode {
     Che __ la mia don -- na~al -- tie -- ra~e dis -- de -- gno -- sa,
         e dis -- de -- gno -- sa,
-    Men -- tre ne~i miei so -- spir l'in -- vo -- co~e chia -- mo,
+    Men -- tre nei miei so -- spir l'in -- vo -- co~e chia -- mo,
         l'in -- vo -- co~e chia -- mo,
     Gio -- ir __ scor -- go s'io ar -- do e s'io lan -- gui -- sco,
     E s'io cer -- co tron -- car l'I -- dra~a -- mo -- ro -- sa,
-    E __ s'io cer -- co tron -- car,
+    e __ s'io cer -- co tron -- car,
     M'i -- ve -- sco più 
     \ijLyrics
-    M'i -- ve -- sco più 
+    m'i -- ve -- sco più 
     \normalLyrics
-    M'i -- ve -- sco più 
+    m'i -- ve -- sco più 
         quan -- to fug -- gir,
         quan -- to fug -- gir più bra -- mo,
     Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco,
         che cam -- par ten -- ta dal vi -- sco, __
-    Co -- me~au -- gel 
+    co -- me~au -- gel 
         ten -- ta dal __ vi -- sco.
 }
 
@@ -293,19 +293,19 @@ sestoXIII = \relative c'' {
 }
 
 sestoLyricsXIII = \lyricmode {
-    Men -- tre ne~i miei so -- spir l'in -- vo -- co~e chia -- mo,
+    Men -- tre nei miei so -- spir l'in -- vo -- co~e chia -- mo,
         e s'io lan -- gui -- sco,
     E s'io cer -- co tron -- car l'I -- dra,
-    E s'io cer -- co tron -- car,
+    e s'io cer -- co tron -- car,
     M'i -- ve -- sco più 
     \ijLyrics
-    M'i -- ve -- sco più 
+    m'i -- ve -- sco più 
     \normalLyrics
-    M'i -- ve -- sco più 
+    m'i -- ve -- sco più 
         quan -- to fug -- gir più bra -- mo,
     Co -- me~au -- gel che cam -- par,
-    Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco,
-    Co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco.
+    co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco,
+    co -- me~au -- gel che cam -- par ten -- ta dal vi -- sco.
 }
 
 cantoXIIIincipitVoice = <<

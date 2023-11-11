@@ -3,7 +3,7 @@
 % Dovea da Clori e ne volea morire;
 % Ma la ninfa pietosa,
 % Con la bocca amorosa
-% Quell' umor colse e poi
+% Quel -- l'umor colse e poi
 % Lo ridiede al pastor coi baci suoi.
 % Onde per gli occhi uscita,
 % Rientro per le labbra in lui la vita.
@@ -47,7 +47,7 @@ cantoLyricsVI = \lyricmode {
     Do -- vea da Clo -- ri~e ne vo -- lea mo -- ri -- re;
     Ma la Nin -- fa pie -- to -- sa,
     Con la boc -- ca~a -- mo -- ro -- sa
-    Quell' __ u -- mor col -- se e po -- i
+    Quel -- l'u -- mor col -- se e po -- i
     Lo ri -- die -- de~al Pa -- stor, 
     \ijLyrics
     Lo ri -- die -- de~al Pa -- stor, 
@@ -98,7 +98,7 @@ altoLyricsVI = \lyricmode {
     Do -- vea da Clo -- ri~e ne vo -- lea mo -- ri -- re;
     Ma la Nin -- fa pie -- to -- sa,
     Con la boc -- ca~a -- mo -- ro -- sa
-    Quell' u -- mor col -- se e po -- i
+    Quel -- l'u -- mor col -- se e po -- i
     Lo ri -- die -- de,
         e po -- i,
     Lo ri -- die -- de~al Pa -- stor, 
@@ -239,7 +239,7 @@ quintoLyricsVI = \lyricmode {
     Do -- vea da Clo -- ri e ne vo -- lea mo -- ri -- re;
     Ma la Nin -- fa pie -- to -- sa,
     Con la boc -- ca~a -- mo -- ro -- sa
-    Quell' u -- mor col -- se e po -- i,
+    Quel -- l'u -- mor col -- se e po -- i,
         e __ po -- i
     Lo ri -- die -- de~al Pa -- stor, 
         e po -- i,

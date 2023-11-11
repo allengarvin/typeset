@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "ver_infernel"
     categories = "[madrigal]"
+    motifs = "[hell]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -88,13 +89,13 @@
             \line {     Senza fin ardo, e son di speme privo, } 
             \line {     E dell'amato obietto } 
             \line {     eternalmente l'alm vista ho persa } 
-            \line {     et ostinato in una voglia vivo } 
+            \line {     ed ostinato in una voglia vivo } 
             \line {     Sol di tanto è diversa } 
             \line {     la sorte mia dalla perduta gente: } 
-            \line {     ch'a ragion quella, et io ardo innocente. } 
+            \line {     ch'a ragion quella, ed io ardo innocente. } 
             \line {     Maladice sovente, } 
-            \line {     et odio quella il suo fattore, Iddio. } 
-            \line {     Et io, chi m'arde laudo, amo, et disio. } 
+            \line {     ed odio quella il suo fattore, Iddio. } 
+            \line {     Ed io, chi m'arde laudo, amo, e desio. } 
         }
         \column {
                 \line { True hell is my breast } 

@@ -1,11 +1,13 @@
-Bitter agonies, fierce torments,
-harsh traps, cruel snares, rasping chains,
-whilst I lament my lost love wretchedly,
-through night and day, at all hours and at every moment.
-Sad voices, complaints, howlings and wailings,
-tears frequently-shed and never-ending misery
-nourish me, and the serene tranquillity
-of my life is bitter tasting.
+
+% NO idea what this is: some other piece?? ATG 2023-11-11
+%Bitter agonies, fierce torments,
+%harsh traps, cruel snares, rasping chains,
+%whilst I lament my lost love wretchedly,
+%through night and day, at all hours and at every moment.
+%Sad voices, complaints, howlings and wailings,
+%tears frequently-shed and never-ending misery
+%nourish me, and the serene tranquillity
+%of my life is bitter tasting.
 
 cantoVIincipit = \relative c'' {
     \time 4/4
@@ -37,18 +39,18 @@ cantoVI = \relative c'' {
 cantoLyricsVI = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a,
     Tir -- si mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    Ond’ el -- la che di lui non me -- no~ar -- de -- a,
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    Ond' el -- la che di lui non me -- no~ar -- de -- a,
     Gli dis -- se: 
     Ohi -- mè ben mi -- o, 
     \ijLyrics Ohi -- mè ben mi -- o, \normalLyrics
-        deh non mo -- rir an -- cho -- ra,
-        deh non mo -- rir an -- cho -- ra,
-     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o,
-        an -- ch’i -- o,
-     Che te -- co bra -- mo di __ mo -- rir an -- ch’i -- o, __
-        an -- ch’i -- o,
-        an -- ch’i -- o.
+        deh non mo -- rir an -- co -- ra,
+        deh non mo -- rir an -- co -- ra!
+     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o,
+        an -- ch'i -- o,
+     Che te -- co bra -- mo di __ mo -- rir an -- ch'i -- o, __
+        an -- ch'i -- o,
+        an -- ch'i -- o!
 }
 
 altoVIincipit = \relative c' {
@@ -81,19 +83,19 @@ altoVI = \relative c' {
 altoLyricsVI = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a,
     Tir -- si mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    % Ond’ el -- la che di lui 
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    % Ond' el -- la che di lui 
         non me -- no~ar -- de -- a,
     Gli dis -- se: 
     Ohi -- mè ben mi -- o, 
     Ohi -- mè ben mi -- o,
-        deh non mo -- rir an -- cho -- ra,
-        deh non mo -- rir an -- cho -- ra,
-     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o,
-     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o,
-        an -- ch’i -- o,
-     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o,
-        an -- ch’i -- o.
+        deh non mo -- rir an -- co -- ra,
+        deh non mo -- rir an -- co -- ra!
+     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o,
+     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o,
+        an -- ch'i -- o,
+     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o,
+        an -- ch'i -- o!
 }
 
 tenoreVIincipit = \relative c' {
@@ -125,22 +127,22 @@ tenoreVI = \relative c' {
 tenoreLyricsVI = \lyricmode {
     Tir -- si,
     Tir -- si mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    Ond’ el -- la che di lui 
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    Ond' el -- la che di lui 
     Ohi -- mè ben mi -- o, 
     Ohi -- mè ben mi -- o,
-        deh non mo -- rir an -- cho -- ra,
-        deh non mo -- rir an -- cho -- ra,
-     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o,
-        an -- ch’i -- o,
+        deh non mo -- rir an -- co -- ra,
+        deh non mo -- rir an -- co -- ra!
+     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o,
+        an -- ch'i -- o,
     \ijLyrics
-        an -- ch’i -- o,
+        an -- ch'i -- o,
     \normalLyrics
-        an -- ch’i -- o,
-     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o,
-        an -- ch’i -- o,
-        an -- ch’i -- o,
-        an -- ch’i -- o.
+        an -- ch'i -- o,
+     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o,
+        an -- ch'i -- o,
+        an -- ch'i -- o,
+        an -- ch'i -- o!
 }
 
 bassoVIincipit = \relative c {
@@ -174,16 +176,16 @@ bassoLyricsVI = \lyricmode {
     \ijLyrics
     Tir -- si 
     \normalLyrics mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    Ond’ el -- la che di lui non me -- no~ar -- de -- a,
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    Ond' el -- la che di lui non me -- no~ar -- de -- a,
     Gli dis -- se: 
     Ohi -- mè ben mi -- o, 
-        deh non mo -- rir an -- cho -- ra,
-        deh non mo -- rir an -- cho -- ra,
-     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o,
-        an -- ch’i -- o,
-     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o, 
-        an -- ch’i -- o.
+        deh non mo -- rir an -- co -- ra,
+        deh non mo -- rir an -- co -- ra!
+     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o,
+        an -- ch'i -- o,
+     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o, 
+        an -- ch'i -- o!
 }
 
 quintoVIincipit = \relative c' {
@@ -216,17 +218,17 @@ quintoVI = \relative c' {
 quintoLyricsVI = \lyricmode {
     Tir -- si
     Tir -- si mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei __ ch’a -- do -- ra
+    Gli~oc -- chi mi -- ran -- do di co -- lei __ ch'a -- do -- ra
         non me -- no~ar -- de -- a,
     Gli dis -- se: 
     Ohi -- mè ben mi -- o, 
-        deh non mo -- rir an -- cho -- ra, __
-        deh non mo -- rir an -- cho -- ra,
-        an -- ch’i -- o,
-     Che te -- co bra -- mo di __ mo -- rir an -- ch’i -- o, 
-        an -- ch’i -- o,
-     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o, 
-        an -- ch’i -- o.
+        deh non mo -- rir an -- co -- ra, __
+        deh non mo -- rir an -- co -- ra!
+        an -- ch'i -- o,
+     Che te -- co bra -- mo di __ mo -- rir an -- ch'i -- o, 
+        an -- ch'i -- o,
+     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o, 
+        an -- ch'i -- o!
 }
 
 cantoVIincipitVoice = <<

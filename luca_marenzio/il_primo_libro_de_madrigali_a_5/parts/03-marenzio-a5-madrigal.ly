@@ -1,9 +1,9 @@
 %Spuntavan già per far il mondo adorno
 %Vaghi fioretti erbette verdi e belle
-%Di color mille e’n queste parti e’n quelle
+%Di color mille e'n queste parti e'n quelle
 %Ralegravan la terra e i colli intorno.
-%Gian gli’augelletti all’ apparir del giorno
-%D’amor cantando sin sovra le stelle
+%Gian gli'augelletti all' apparir del giorno
+%D'amor cantando sin sovra le stelle
 %E correvan le fiere ardite e snelle
 %Tra lor scherzando, a le campagne intorno.
 
@@ -52,17 +52,17 @@ cantoLyricsIII = \lyricmode {
         il mon -- do~a -- dor -- no
     Va -- ghi fio -- ret -- ti 
     Va -- ghi fio -- ret -- ti~er -- bet -- te ver -- di~e bel -- le
-    Di co -- lor mil -- le~e’n que -- ste par -- ti~e’n quel -- le
-    Ra -- le -- gra -- van,
+    Di co -- lor mil -- le~e'n que -- ste par -- ti~e'n quel -- le
+    Ral -- le -- gra -- van,
     \ijLyrics
-    Ra -- le -- gra -- van,
+    Ral -- le -- gra -- van,
     \normalLyrics
-    Ra -- le -- gra -- van la ter -- ra~e~i col -- li~in -- tor -- no,
+    Ral -- le -- gra -- van la ter -- ra~e~i col -- li~in -- tor -- no,
         e~i col -- li~in -- tor -- no,
         e~i col -- li~in -- tor -- no.
-    Gian gli’au -- gel -- let -- ti~al -- l’ap -- pa -- rir del gior -- no
-        al -- l’ap -- pa -- rir del gior -- no
-    D’a -- mor can -- tan -- do sin so -- vra le stel -- le
+    Gian gli'au -- gel -- let -- ti~al -- l'ap -- pa -- rir del gior -- no
+        al -- l'ap -- pa -- rir del gior -- no
+    D'a -- mor can -- tan -- do sin so -- vra le stel -- le
     E cor -- re -- van le fie -- re, 
     E cor -- re -- van le fie -- re ar -- di -- te~e snel -- le
     Tra lor scher -- zan -- do, 
@@ -122,14 +122,14 @@ altoLyricsIII = \lyricmode {
     Spun -- ta -- van già per far il mon -- do~a -- dor -- no
     Va -- ghi fio -- ret -- ti 
     Va -- ghi fio -- ret -- ti~er -- bet -- te ver -- di~e bel -- le
-    Di co -- lor mil -- le~e’n que -- ste par -- ti~e’n quel -- le
-    Ra -- le -- gra -- van,
+    Di co -- lor mil -- le~e'n que -- ste par -- ti~e'n quel -- le
+    Ral -- le -- gra -- van,
     \ijLyrics
-    Ra -- le -- gra -- van,
+    Ral -- le -- gra -- van,
     \normalLyrics
-    Ra -- le -- gra -- van la ter -- ra e~i col -- li~in -- tor -- no,
+    Ral -- le -- gra -- van la ter -- ra e~i col -- li~in -- tor -- no,
         e~i col -- li~in -- tor -- no,
-    Gian gli’au -- gel -- let -- ti~al -- l’ap -- pa -- rir del gior -- no
+    Gian gli'au -- gel -- let -- ti~al -- l'ap -- pa -- rir del gior -- no
         so -- vra __ le stel -- le
     E cor -- re -- van le fie -- re, 
     E cor -- re -- van le fie -- re ar -- di -- te~e snel -- le
@@ -182,16 +182,16 @@ tenoreLyricsIII = \lyricmode {
     Spun -- ta -- van già per far il mon -- do~a -- dor -- no
     Va -- ghi fio -- ret -- ti 
     Va -- ghi fio -- ret -- ti~er -- bet -- te ver -- di~e bel -- le
-    Di co -- lor mil -- le~e’n que -- ste par -- ti~e’n quel -- le
-    Ra -- le -- gra -- van,
+    Di co -- lor mil -- le~e'n que -- ste par -- ti~e'n quel -- le
+    Ral -- le -- gra -- van,
     \ijLyrics
-    Ra -- le -- gra -- van,
+    Ral -- le -- gra -- van,
     \normalLyrics
-    Ra -- le -- gra -- van la ter -- ra~e~i col -- li~in -- tor -- no,
+    Ral -- le -- gra -- van la ter -- ra~e~i col -- li~in -- tor -- no,
         e~i col -- li~in -- tor -- no,
         e~i col -- li~in -- tor -- no,
-    Gian gli’au -- gel -- let -- ti~al -- l’ap -- pa -- rir del gior -- no
-    D’a -- mor can -- tan -- do sin so -- vra le stel -- le
+    Gian gli'au -- gel -- let -- ti~al -- l'ap -- pa -- rir del gior -- no
+    D'a -- mor can -- tan -- do sin so -- vra le stel -- le
     E cor -- re -- van le fie -- re, 
     E cor -- re -- van le fie -- re ar -- di -- te~e snel -- le
     Tra lor scher -- zan -- do, 
@@ -233,15 +233,15 @@ bassoLyricsIII = \lyricmode {
     Spun -- ta -- van già per far il mon -- do~a -- dor -- no
     Va -- ghi fio -- ret -- ti 
     Va -- ghi fio -- ret -- ti~er -- bet -- te ver -- di~e bel -- le
-    Di co -- lor mil -- le~e’n que -- ste par -- ti~e’n quel -- le
-    Ra -- le -- gra -- van,
+    Di co -- lor mil -- le~e'n que -- ste par -- ti~e'n quel -- le
+    Ral -- le -- gra -- van,
     \ijLyrics
-    Ra -- le -- gra -- van,
+    Ral -- le -- gra -- van,
     \normalLyrics
         la ter -- ra~e~i col -- li~in -- tor -- no,
         e~i col -- li~in -- tor -- no,
         e~i col -- li~in -- tor -- no.
-    Gian gli’au -- gel -- let -- ti~al -- l’ap -- pa -- rir del gior -- no
+    Gian gli'au -- gel -- let -- ti~al -- l'ap -- pa -- rir del gior -- no
     E cor -- re -- van le fie -- re, 
     E cor -- re -- van le fie -- re 
     Tra lor scher -- zan -- do, 
@@ -296,15 +296,15 @@ quintoLyricsIII = \lyricmode {
     \normalLyrics
     Va -- ghi fio -- ret -- ti 
     Va -- ghi fio -- ret -- ti~er -- bet -- te ver -- di~e bel -- le
-    Di co -- lor mil -- le~e’n que -- ste par -- ti~e’n quel -- le
-    Ra -- le -- gra -- van,
+    Di co -- lor mil -- le~e'n que -- ste par -- ti~e'n quel -- le
+    Ral -- le -- gra -- van,
     \ijLyrics
-    Ra -- le -- gra -- van,
+    Ral -- le -- gra -- van,
     \normalLyrics
-    Ra -- le -- gra -- van la ter -- ra e~i col -- li~in -- tor -- no,
+    Ral -- le -- gra -- van la ter -- ra e~i col -- li~in -- tor -- no,
         e~i col -- li~in -- tor -- no,
-    Gian gli’au -- gel -- let -- ti~al -- l’ap -- pa -- rir del gior -- no
-    D’a -- mor can -- tan -- do sin so -- vra le __ stel -- le
+    Gian gli'au -- gel -- let -- ti~al -- l'ap -- pa -- rir del gior -- no
+    D'a -- mor can -- tan -- do sin so -- vra le __ stel -- le
     E cor -- re -- van le fie -- re, 
     E cor -- re -- van le fie -- re ar -- di -- te~e snel -- le
     \ijLyrics

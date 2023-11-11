@@ -14,7 +14,7 @@
     instrument = "Ninfa che dal superbo Adriano seno (score)"
     needtranslation = #'f
     language = "italian"
-    composer = "Alessandro Striggioo (c.1536-1592)"
+    composer = "Alessandro Striggio (c.1536-1592)"
     folio = "Giovanni Battista Moscaglia (1559-1589)"
 
     % Unchanging:

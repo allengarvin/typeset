@@ -12,10 +12,13 @@
     % Things that change per piece:
     title = "Quando i vostri begli occhi un caro velo"
     instrument = "Quando i vostri begli occhi (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Jacopo Sannazaro (1458-1530)"
+
+    % is this a madrigal or something else??
     poeticform = "madrigal"
+    rhyme = "ABCABCDD"
 
     % Unchanging:
     originallyset = "2014-12-10"
@@ -23,6 +26,7 @@
     flats = 0
     final = "a"
     categories = "[madrigal]"
+    motifs = "[veil,paradox]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,13 +95,25 @@
         \fill-line {
             \column {
                 \line { Quando i vostri begli occhi un caro velo } 
-                \line { Ombrando copre semplicetto e bianco, } 
-                \line { D'una gelata fiamma il cor s'alluma, } 
-                \line { Madonna, e le midolle un caldo gelo } 
-                \line { Trascorre sì, ch'a poco a poco io manco, } 
-                \line { E l'alma per diletto si consuma,  } 
+                \line { ombrando copre semplicetto e bianco, } 
+                \line { d'una gelata fiamma il cor s'alluma, } 
+                \line { madonna, e le midolle un caldo gelo } 
+                \line { trascorre sì, ch'a poco a poco io manco, } 
+                \line { e l'alma per diletto si consuma:  } 
                 \line { Così morendo vivo; e con quell' arme } 
-                \line { Che m'uccidete, voi potete aitarme. } 
+                \line { che m'uccidete, voi potete aitarme. } 
+            }
+            \column {
+                % translation 2023-11-11
+                \line { When your lovely eyes are shaded by an intimate veil, }
+                \line { a covering simple and white, }
+                \line { my heart is kindled by a frozen flame, }
+                \line { my lady, and in my bones a hot chill }
+                \line { passes through, such that little by little, }
+                \line { in delight my soul is consumed: }
+                \line { Thus dying, I live, and with those arms }
+                \line { by which you slew me, you may sustain me. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

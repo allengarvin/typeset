@@ -21,7 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "non_visse_la_mia_vita"
     shortcomp = "striggio"
-    composer = "Alessandro Striggio (c.1515-1592)"
+    composer = "Alessandro Striggio (c.1536-1592)"
     categories = "[madrigal]"
     motifs = "[amore]"
     needtranslation = #'t

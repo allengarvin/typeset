@@ -14,15 +14,16 @@
     instrument = "Liquide perle (score)"
     needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
     poeticform = "madrigal"
 
     % Unchanging:
     originallyset = "2014-12-07"
     lastupdated = "2014-12-07"
+    rhyme = "AbbcdD"
     flats = 0
     final = "g"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
+    motifs = "[morte,amore,tears]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -99,11 +100,13 @@
                 \line { a darmi morte il primo ardente duolo. }
             }
             \column {
+                % translation: 2023-05-??
+                % translation update: 2023-11-11 (very slight: bastava to a past tense)
                 \line { Liquid pearls from Love's eyes scattered }
                 \line { in reward for my ardor, }
-                \line { but, alas! my heart }
+                \line { but, ah, alas! my heart }
                 \line { burns from a fiercer flame; }
-                \line { Ah, it alone suffices, }
+                \line { Ah, it alone sufficed, }
                 \line { that first ardent pain, to bring me death. }
                 \line { \hspace #10 \italic { translation by editor } } 
             }

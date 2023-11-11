@@ -5,13 +5,13 @@
 %    Senza fin ardo, e son di speme privo,
 %    E dell'amato obietto
 %    eternalmente l'alm vista ho persa
-%    et ostinato in una voglia vivo
+%    ed ostinato in una voglia vivo
 %    Sol di tanto è diversa
 %    la sorte mia dalla perduta gente:
-%    ch'a ragion quella, et io ardo innocente.
+%    ch'a ragion quella, ed io ardo innocente.
 %    Maladice sovente,
-%    et odio quella il suo fattore, Iddio.
-%    Et io, chi m'arde laudo, amo, et disio.
+%    ed odio quella il suo fattore, Iddio.
+%    Ed io, chi m'arde laudo, amo, e desio.
 % source: MS Magliobenchiano II, IV, 16 
 
 % Google translate:
@@ -21,13 +21,13 @@
 %     Without even burn, and are devoid of hope,
 %     And I object beloved
 %     I view the alm eternally lost
-%     et a stubborn desire alive
+%     ed a stubborn desire alive
 %     Only so is different
 %     the fate of my people lost:
 %     ch'a that reason, and I am burning innocent.
 %     Maladice often,
-%     et I hate that its factor, God.
-%     And I, who burns me Laudo, love, desire, et.
+%     ed I hate that its factor, God.
+%     And I, who burns me Laudo, love, desire, ed.
 
 
 
@@ -72,21 +72,20 @@ cantusLV = \relative c'' {
 cantusLyricsLV = \lyricmode {
     Ver' in -- fer -- no~è~il mio pet -- to
     Ver' __ in -- fer -- na -- le spi -- ri -- to so -- no~i -- o,
-    E ver' in -- fer -- nal fo -- co
-    è~il fo -- co __ mi -- o.
+    E ver' in -- fer -- nal fo -- co è~il fo -- co __ mi -- o.
     
     Sen -- za fin' ar -- do,
     e son di spe -- me pri -- vo,
-    E dell' a -- ma -- to~o -- bi -- et -- to
+    E dell' a -- ma -- to~o -- bi -- ed -- to
     e -- ter -- na -- men -- te l'al -- ma vi -- sta'ho per -- sa
-    Et o -- sti -- nat -- to in u -- na vo -- glia vi -- vo,
+    Ed o -- sti -- nat -- to in u -- na vo -- glia vi -- vo,
     Sol di tan -- to~e __ di -- ver -- sa
     La sor -- te mi -- a dal -- la per -- du -- ta gen -- te:
-    Ch'a ra -- gion quel -- la et io ar -- do~in -- no -- cent -- te,
+    Ch'a ra -- gion quel -- la ed io ar -- do~in -- no -- cent -- te,
     Ma -- la -- di -- ce so -- ven -- te, 
-    Et o -- dia quel -- la il suo __ fat -- to -- re~id -- di -- o
-    Et io chi m'ar -- de lau -- do~a -- mo~e di -- si -- o,
-    lau -- do a -- mo di -- si -- o.
+    Ed o -- dia quel -- la il suo __ fat -- to -- re~id -- di -- o
+    Ed io chi m'ar -- de lau -- do~a -- mo~e de -- si -- o,
+    lau -- do a -- mo de -- si -- o.
 }
 
 altusLVincipit = \relative c' {
@@ -119,7 +118,7 @@ altusLV = \relative c' {
         e f1 e2 ~ | e4 d 
 
     d1 \ficta cs2 \unficta | d\breve | r2 d d d | c1 c2 c ~ | c a b c ~ |
-        c4 \melisma b a g \melismaEnd a1 | b r2 c | d e1 d2 | c\breve | g\longa*1/2
+        c4 \melisma b a g \melismaEnd a1 | b r2 c | d e1 d2 | c\breve | b\longa*1/2
     
     \bar "|."
 }
@@ -128,24 +127,20 @@ altusLyricsLV = \lyricmode {
     Ver' in -- fern' e'l mio pet -- to,
     Ver' __ in -- fer -- na -- le spi -- ri -- to -- son' i - o,
     E ver' in -- fer -- nal fo -- co 
-    è'il fo -- co mi -- o e'l fo -- co mi -- o
+    è~il fo -- co mi -- o e'l fo -- co mi -- o
     è'il fo -- co mi -- o.
     Sen -- za fin' ar -- do e son di spe -- me pri -- vo,
     e dell' a -- ma -- to~o -- biet -- to
     e -- ter -- nal -- men - te l'al -- ma vi -- sta~ho per -- sa
-    et o -- sti -- na -- to in u -- na vo -- glia vi -- vo
+    ed o -- sti -- na -- to in u -- na vo -- glia vi -- vo
     sol di tan -- to~è di -- ver - sa
     la sor -- te mi - a dal -- la per -- du -- ta gen -- te __
-    ch'a ra -- gion quel -- la et io ar -- do~in -- no - cen - te.
+    ch'a ra -- gion quel -- la ed io ar -- do~in -- no - cen - te.
     Ma -- la -- di -- ce __ so -- ven - te
-    et o -- dia quel -- la il suo fat -- tor __ id -- di -- o.
-    et io chi m'ar -- de lau -- do~a -- mo~e di -- si -- o
-    lau -- do~a -- mo di -- si -- o. 
+    ed o -- dia quel -- la il suo fat -- tor __ id -- di -- o.
+    ed io chi m'ar -- de lau -- do~a -- mo~e de -- si -- o
+    lau -- do~a -- mo de -- si -- o. 
 }
-%    ch'a ragion quella, et io ardo innocente.
-%    Maladice sovente,
-%    et odio quella il suo fattore, Iddio.
-%    Et io, chi m'arde laudo, amo, et disio.
 
 tenorLVincipit = \relative c' {
     \time 2/2
@@ -196,15 +191,15 @@ tenorLyricsLV = \lyricmode {
     Sen -- za fin' ar -- do __ e son __ di spe -- me pri - vo
     e dell' a -- ma -- to~o -- biet -- to
     e -- ter -- na -- men -- te l'al -- ma __ vi -- sta ho per - sa
-    et o -- sti -- na -- to __ in u -- na vo -- glia vi -- vo
+    ed o -- sti -- na -- to __ in u -- na vo -- glia vi -- vo
     sol di tan -- to~è __ di -- ver -- sa 
     la sor -- te mia dal -- la per -- du -- ta _ gen - te 
     ch'a __ ra -- gi -- on quel - la,
-    et io ar -- do~in no -- cen -- te.
+    ed io ar -- do~in no -- cen -- te.
     Ma -- la -- di -- ce so -- ven -- te,
-    et o -- dia quel -- la    
+    ed o -- dia quel -- la    
     il suo fa -- tor -- re~id -- di - o.
-    Et io chi m'ar -- de lau -- do~a -- mo~et di -- si -- o. __
+    Ed io chi m'ar -- de lau -- do~a -- mo~e de -- si -- o. __
 }
 
 bassusLVincipit = \relative c {
@@ -250,13 +245,12 @@ bassusLyricsLV = \lyricmode {
     Sen -- za fin' ar -- do
     e son di spe -- me pri -- vo,
     e -- ter -- na -- men -- te l'al -- ma vi - sta ho per _ - sa
-    et o -- sti -- na -- to in u -- na vo -- glia vi -- vo
+    ed o -- sti -- na -- to in u -- na vo -- glia vi -- vo
     la sor -- te mi -- a dal -- la per -- du - _ ta gen _ - te
-    ch'a ra -- gion quel -- la et io ar -- do~in -- no -- cen -- te.
-    et io chi m'ar -- de lau -- do~a -- mo~e di -- si - o
-    lau -- do~a -- mo e di -- si -- o.
+    ch'a ra -- gion quel -- la ed io ar -- do~in -- no -- cen -- te.
+    ed io chi m'ar -- de lau -- do~a -- mo~e de -- si - o
+    lau -- do~a -- mo e de -- si -- o.
 }
-%    Et io, chi m'arde laudo, amo, et disio.
 
 cantusLVincipitVoice = <<
     \new MensuralVoice <<

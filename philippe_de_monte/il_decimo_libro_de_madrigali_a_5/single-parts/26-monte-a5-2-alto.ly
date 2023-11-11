@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "E perch'io torni a le mie usate pene"
     subtitle = "Stanza terza"
-    folio = "Pietro Arigone (?)"
 
     % Things that change per part:
     partname = "Alto (part 2 of 5)"

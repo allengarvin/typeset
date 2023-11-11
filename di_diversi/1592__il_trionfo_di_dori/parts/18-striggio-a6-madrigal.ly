@@ -9,6 +9,8 @@
 % E ne i versi dicean cogliend’i fiori:
 % Viva, viva la bella Dori! 
 
+% Changes: 2023-11-05 "ne i" changed -> nei
+
 cantoXVIIIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-g"
@@ -60,7 +62,7 @@ cantoLyricsXVIII = \lyricmode {
     \ijLyrics
         e d’a -- ma -- ran -- ti
     \normalLyrics
-    E ne~i ver -- si di -- cean co -- glien -- d’i fio -- ri:
+    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri!
@@ -114,7 +116,7 @@ altoLyricsXVIII = \lyricmode {
     Poi di ro -- se~e d’a -- can -- ti
     Tes -- se -- va -- no ghir -- lan -- de,
     tes -- se -- va -- no ghir -- lan -- de~e d’a -- ma -- ran -- ti
-    E ne~i ver -- si di -- cean co -- glien -- d’i fio -- ri:
+    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri!
@@ -167,7 +169,7 @@ tenoreLyricsXVIII = \lyricmode {
     Poi di ro -- se~e d’a -- can -- ti
     Tes -- se -- va -- no ghir -- lan -- de,
     tes -- se -- va -- no ghir -- lan -- de e d’a -- ma -- ran -- ti
-    E ne~i ver -- si di -- cean co -- glien -- d’i fio -- ri:
+    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri!
@@ -212,7 +214,7 @@ bassoLyricsXVIII = \lyricmode {
     Fa -- cean tal ar -- mo -- ni -- a,
     fa -- cean tal ar -- mo -- ni -- a
     Che si fer -- ma -- va~il sol, l’er -- ba fio -- ri -- a;
-    E ne~i ver -- si di -- cean co -- glien -- d’i fio -- ri,
+    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri,
         co -- glien -- d’i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
@@ -259,7 +261,7 @@ quintoLyricsXVIII = \lyricmode {
     Che si fer -- ma -- va~il sol, l’er -- ba fio -- ri -- a,
         l’er -- ba fio -- ri -- a;
 
-    E ne~i ver -- si di -- cean co -- glien -- d’i fio -- ri,
+    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri,
         co -- glien -- d’i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,

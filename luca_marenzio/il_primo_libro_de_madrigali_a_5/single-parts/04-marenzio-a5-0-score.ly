@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Quando’l mio vivo sol perch’io non pera"
+    title = "Quando'l mio vivo sol perch'io non pera"
     subtitle = "Seconda parte"
-    instrument = "Quando’l mio vivo (score)"
-    needtranslation = #'t
+    instrument = "Quando'l mio vivo (score)"
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
     poeticform = "sonnet"
@@ -24,6 +24,7 @@
     flats = 0
     final = "g"
     categories = "[madrigal]"
+    motifs = "[spring,flowers,amore,kisses]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -90,13 +91,24 @@
     }
     \markup {
         \fill-line {
+            % Italian reviewed 2023-11-11 
             \column {
-                \line { Quando’l mio vivo sol perch’io non pera }
-                \line { Godi or, mi disse con un dolce riso, }
-                \line { Amante fido il premio del tuo ardore. }
+                \line { Quando'l mio vivo sol perch'io non pera }
+                \line { godi or, mi disse con un dolce riso: }
+                \line { amante fido il premio del tuo ardore. }
                 \line { Indi con molti bacci sparse fuore }
-                \line { Quante grazie e dolcezze ha’l Paradiso }
-                \line { E quant'a odor nei fior la Primavera. }
+                \line { quante grazie e dolcezze ha'l Paradiso }
+                \line { e quant'a odor nei fior la Primavera. }
+            }
+            \column {
+                % translation: 2023-11-11
+                \line { When my living sun, so that I not perish, }
+                \line { Enjoy now (she said to me with a sweet smile) }
+                \line { my faithful lover, the reward for your passion. }
+                \line { Then with many kisses she spread forth }
+                \line { all the graces and sweetnesses Paradise has }
+                \line { and all the fragrances of flowers of the Spring. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

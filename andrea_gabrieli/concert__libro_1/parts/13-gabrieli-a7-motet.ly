@@ -30,7 +30,7 @@ cantusXIII = \relative c'' {
         r1 r2 g' ~ | g4 g g2 f d | 
 
     g2 c, e4( d8[ e] fs2) | g d'2. d4 d2 | a a d d | c1 c | 
-        \singleTime\time 3/1\threeFromBreve c1 a f | c' r1 r1 | c c a | 
+        \singleTime\time 3/1\threeWholeFromBreve c1 a f | c' r1 r1 | c c a | 
 
     g1 r r | c c a | g\breve r1 | d d2 e d g ~ | g e1 c c'2 ~ | c g1 a2 c1 |
         c\breve r1 | f, f d | c\breve r1 | c' c a | 
@@ -126,7 +126,7 @@ altusXIII = \relative c' {
     c2. c4 c2 a | g c g' f ~ | f( e) f1 ~ f\breve | R | r1 r2 f ~ | 
         f4 f f2 e c | d1. f2 | e1 c | d2. d4 d1 |
 
-    f2 d d1 | a2 c2.( bf4 g2) | \singleTime\time 3/1\threeFromBreve | c\breve. | f,1 a bf |
+    f2 d d1 | a2 c2.( bf4 g2) | \singleTime\time 3/1\threeWholeFromBreve | c\breve. | f,1 a bf |
         a1.( bf2 c1) | c e f | e\breve r1 | g e c | g'\breve r1 |
 
     c,1 e f( | e2. f4 g2 f1 e2) | f\breve. | R c1 e f | e\breve r1 |
@@ -222,7 +222,7 @@ tenorXIII = \relative c' {
     d2 f ~ | f4( e8[ d] e2) f a2 ~ | a4 a4 a2 g e | g d f4( g a f | g1) a |
         R\breve | d1 d, | a'2 a g1 | 
 
-    \singleTime\time 3/1\threeFromBreve f\breve. ~ | f | R | c'1 a f | c'\breve. | c1 c a |
+    \singleTime\time 3/1\threeWholeFromBreve f\breve. ~ | f | R | c'1 a f | c'\breve. | c1 c a |
         g b2 c d1 | g,2 c1 a f2 | g c1 a2 g1 | f\breve. ~ | f R | 
 
     c'1 a f | c'\breve. | c1 c a | g b2 c d1 | g,2 c1 a f2 |
@@ -305,7 +305,7 @@ bassusXIII = \relative c {
         r2 f2. f4 f2 | c' f, bf bf |
 
     g1 f ~ | f c'2. c4 | g1 d'2 d | c c a1 | g r2 d' ~ | d4 d d2 bf g | a a c1 |
-        \singleTime\time 3/1\threeFromBreve f,\breve r1 |
+        \singleTime\time 3/1\threeWholeFromBreve f,\breve r1 |
 
     f'1 d bf | f' r r | R\breve. | c1 a f | c'\breve r1 | R\breve. | c1 a f |
         c' e2 f c1 | f,\breve r1 | f' d bf |
@@ -391,7 +391,7 @@ quintusXIII = \relative c' {
     r2 g ~ | g f1( e2) | f\breve | R | r1 c2. c4 | c2 a f c' ~ | c c d1 ~ |
         d2 g, r1 | c2. c4 c2 c ~ | c bf a a | c1. a2 |
 
-    bf2. bf4 bf2 d ~ | d a bf bf | c\breve | \singleTime\time 3/1\threeFromBreve
+    bf2. bf4 bf2 d ~ | d a bf bf | c\breve | \singleTime\time 3/1\threeWholeFromBreve
         a\breve. ~ | a1 r1 r1 | c e f | e\breve r1 | c e f | e\breve. R |
         g1 a a |
 
@@ -475,7 +475,7 @@ sextusXIII = \relative c'' {
         R\breve | r1 r2 c ~ | c4 c c2 a f | g a 
 
     bf1 ~ | bf a ~ | a r1 | R\breve | r2 c2. c4 c2 | bf g bf a  ~ |
-        a f2.( e8[ f] g2 ~ | g4 f f1 e2) | \singleTime\time 3/1\threeFromBreve f\breve r1 |
+        a f2.( e8[ f] g2 ~ | g4 f f1 e2) | \singleTime\time 3/1\threeWholeFromBreve f\breve r1 |
         f f d |
 
     c\breve r1 | c' c a | g r r | c c c | b2.( c4) d2 c1\ficta b2\unficta |
@@ -559,7 +559,7 @@ septimaXIII = \relative c' {
     g2 bf | g1 f | r2 a2. a4 a2 | g f1 d2 ~ | d4( c bf2) c1 | f g ~ | g r1 |
         R\breve | g2. g4 g2 f | d1 d2 g | 
 
-    c,1 c | \singleTime\time 3/1\threeFromBreve R\breve.*2 c'1 a f | c'\breve. | 
+    c,1 c | \singleTime\time 3/1\threeWholeFromBreve R\breve.*2 c'1 a f | c'\breve. | 
         g1 a1. f2 | g\breve r1 | r1 r g | e c f | r2 c1 c' g2 |
         a\breve. ~ | a1 r1 r |
 

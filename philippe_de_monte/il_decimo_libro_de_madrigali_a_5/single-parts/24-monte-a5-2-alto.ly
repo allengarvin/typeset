@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Già avea l'eterna mano d'ogni sua stella"
     subtitle = "Stanza prima"
-    folio = "Pietro Arigone (?)"
 
     % Things that change per part:
     partname = "Alto (part 2 of 5)"

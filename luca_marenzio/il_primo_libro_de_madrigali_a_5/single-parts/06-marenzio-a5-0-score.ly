@@ -206,28 +206,56 @@
     }   
     \markup {
         \fill-line {
+            % Italian touched up: 2023-11-11 (accents mostly, one line)
             \column {
                 \line { Tirsi morir volea, }
-                \line { Gli occhi mirando di colei ch’adora }
-                \line { Ond’ ella che di lui non meno ardea, }
-                \line { Gli disse: Ohimè ben mio,  }
-                \line { Deh non morir anchora, }
-                \line { Che teco bramo di morir anch’io.  }
-                \vspace #1
+                \line { gli occhi mirando di colei ch'adora }
+                \line { ond' ella che di lui non meno ardea, }
+                \line { gli disse: Ohimè ben mio,  }
+                \line { Deh non morir ancora! }
+                \line { che teco bramo di morir anch'io!  }
+                \line { \vspace #0.5 }
                 \line { Frenò Tirsi il desio, }
-                \line { C'havea di pur sua vita all' hor finire; }
-                \line { Et sentea morte, et non potea morire. }
-                \line { Et mentre fisso il guardo pur tenea }
-                \line { Ne begli occhi divini }
-                \line { La bella Ninfa sua, che già vicini }
-                \line { Sentea i messi d'Amore, }
-                \line { Disse, con occhi languidi e tremanti: }
-                \line { Mori, cor mio, ch'io moro, }
-                \line { Et io, mia vita, moro. }
-                \vspace #1
-                \line { Cosi moriro i fortunati amanti }
-                \line { Di morte si soave et si gradita, }
-                \line { Che per anco morir tornaro in vita.  }
+                \line { Ch'avea di pur sua vita allor finire; }
+                \line { e sentea morte, e non potea morire. }
+                \line { E mentre fisso il guardo pur tenea }
+                \line { ne begli occhi divini }
+                \line { la bella Ninfa sua, che già vicini }
+                \line { sentea i messi d'Amore, }
+                \line { disse, con occhi languidi e tremanti: }
+                \line { Mori, cor mio, ch'io moro! }
+                \line { Le rispose il Pastore: }
+                \line { Ed io, mia vita, moro! }
+                \line { \vspace #0.5 }
+                \line { Così morirò i fortunati amanti }
+                \line { di morte sì soave e sì gradita, }
+                \line { che per anco morir tornaro in vita.  }
+            }
+            \column {
+                % translation: 2023-11-11
+                \line { Tirsi wished to die, }
+                \line { gazing into the eyes of she whom he adored, }
+                \line { whereupon she, who burned no less for him, }
+                \line { told him: Alas, my beloved, }
+                \line { ah, die not yet! }
+                \line { For with you I too yearn to die! }
+                \line { \vspace #0.5 }
+                \line { Tirsi restrained his desire }
+                \line { that he had to thus end his life right then; }
+                \line { and he felt death, and he could not die. }
+                \line { And while he held his gaze fixed }
+                \line { upon the alluring divine eyes of }
+                \line { his beautiful nymph, who already felt near }
+                \line { the messengers of Love; }
+                \line { she said, with languid and trembling eyes: }
+                \line { Die, my heart, for I am dying, }
+                \line { The shepherd responded to her: }
+                \line { And I, my life, die! }
+                \line { \vspace #0.5 }
+                \line { Thus died the fortunate lovers, }
+                \line { of a death so sweet and so welcome }
+                \line { that they returned to life, to die yet again. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

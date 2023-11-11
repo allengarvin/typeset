@@ -3,7 +3,7 @@
 % Chi m'asconde il mio core, e chi me'l toglie?
 % Dunque ha potuto sol desio d'onore
 % darmi fera cagion di tante doglie?
-% Dunque han potuto in me, più che il mio amore,
+% Dunque ha potuto in me, più che il mio amore,
 % ambitiose e troppo lievi voglie?
 % Ahi sciocco mondo e cieco! Ahi cruda sorte,
 % che ministro mi fai della mia morte! 
@@ -157,7 +157,7 @@ tenoreLyricsII = \lyricmode {
         Am -- bi -- tio -- se e trop -- po lie -- vi vo -- glie? 
         e trop -- po lie -- vi vo -- glie? 
         e trop -- po lie -- vi vo -- glie? 
-    Ahi __ scioc -- co mon -- do~e cie -- co! Ahi __ cru -- da sor -- te,
+    Ahi __ scioc -- co mon -- do~e cie -- co! Ahi cru -- da sor -- te,
     Che mi -- ni -- stro mi fai del -- la mia mor -- te,
     Che mi -- ni -- stro mi fai del -- la mia mor -- te,
     Che mi -- ni -- stro mi fai del -- la __ mia mor -- te!

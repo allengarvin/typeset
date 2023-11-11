@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Credei mentre io dormia ch'egli già satio"
     subtitle = "Stanza quarta"
-    folio = "Pietro Arigone (?)"
 
     % Things that change per part:
     partname = "Canto (part 1 of 5)"

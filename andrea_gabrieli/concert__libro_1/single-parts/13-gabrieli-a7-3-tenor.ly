@@ -57,3 +57,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "13-gabrieli--hodie_christus_natus_est"
+    \bookOutputSuffix "--5-tenor--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \tenorXIII
+        >>
+                \addlyrics { \tenorLyricsXIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

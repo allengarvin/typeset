@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Nasce il gran piecer mio da van gioire"
     subtitle = "Stanza quinta"
-    folio = "Pietro Arigone (?)"
 
     % Things that change per part:
     partname = "Basso (part 5 of 5)"

@@ -15,7 +15,6 @@
     instrument = "Parea dicesse (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Pietro Arigone (?)"
 
     % Unchanging:
     originallyset = "2016-05-04"

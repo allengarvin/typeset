@@ -23,6 +23,7 @@
     final = "e"
     shorttitle = "stillo_l_anima"
     categories = "[madrigal]"
+    motifs = "[pastoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -92,7 +93,7 @@
         \fill-line {
             \column {
                \line { Stillò l'anima in pianto }
-               \line { tirsi, quando partire }
+               \line { Tirsi, quando partire }
                \line { dovea da Clori e ne volea morire; }
                \line { Ma la ninfa pietosa, }
                \line { con la bocca amorosa }
@@ -100,6 +101,20 @@
                \line { lo ridiede al pastor coi baci suoi. }
                \line { Onde per gli occhi uscita, }
                \line { rientro per le labbra in lui la vita. }
+            }
+           \column {
+               % translation orig date: 2023-11-10
+               % translation updated:
+                \line { The soul of Tirsi dripped away in tears, }
+                \line { when he had to depart }
+                \line { from Clori, and for this he wished to die; }
+                \line { But the merciful nymph }
+                \line { with her amorous mouth }
+                \line { gathered that that liquor and then }
+                \line { restored it to the shepherd with her kisses. }
+                \line { Thus, by his eyes having left, }
+                \line { life re-entered him by his lips. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

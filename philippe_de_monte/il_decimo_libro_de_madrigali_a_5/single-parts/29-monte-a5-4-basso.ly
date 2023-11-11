@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Non sia più meco quel ch'io odo vero"
     subtitle = "Stanza sesta"
-    folio = "Pietro Arigone (?)"
 
     % Things that change per part:
     partname = "Basso (part 5 of 5)"

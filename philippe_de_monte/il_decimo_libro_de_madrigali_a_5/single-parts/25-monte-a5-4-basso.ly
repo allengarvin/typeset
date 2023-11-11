@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Parea dicesse con aperte braccia"
     subtitle = "Stanza seconda"
-    folio = "Pietro Arigone (?)"
 
     % Things that change per part:
     partname = "Basso (part 5 of 5)"
