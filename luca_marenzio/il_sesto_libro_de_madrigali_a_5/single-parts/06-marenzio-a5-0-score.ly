@@ -13,7 +13,7 @@
     title = "Stillò l'anima in pianto"
     folio = "Antonio Ongaro (c.1560-c.1599)"
     instrument = "Stillò l'anima (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

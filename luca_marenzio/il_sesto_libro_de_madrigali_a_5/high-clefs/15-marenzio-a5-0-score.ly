@@ -21,7 +21,7 @@
     shortcomp = "marenzio"
     categories = "[]"
     motifs = "[]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

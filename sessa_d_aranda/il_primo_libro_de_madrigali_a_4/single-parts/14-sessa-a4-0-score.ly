@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Ancor che la partita"
     instrument = "Ancor che la partita (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

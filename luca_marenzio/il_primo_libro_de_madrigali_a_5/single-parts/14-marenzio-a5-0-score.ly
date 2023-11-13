@@ -6,15 +6,14 @@
 \include "../include/macros.ly"
 \include "../include/scheme.ly"
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
     title = "Madonna mia gentil, ringrazio Amore"
     instrument = "Madonna mia gentil (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-13"
@@ -22,6 +21,8 @@
     flats = 1
     final = "g"
     categories = "[madrigal]"
+    motifs = "[heart,amore]"
+    rhyme = "AabbCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -90,11 +91,21 @@
         \fill-line {
             \column {
                 \line { Madonna mia gentil, ringrazio Amore }
-                \line { Che tolto m’abbia il core }
-                \line { Dandolo a voi ch’avete }
-                \line { Non sol beltà ma sete }
-                \line { Ornata di virtù tal che m’avviso }
-                \line { Stando in terra godere il Paradiso. }
+                \line { che tolto m'abbia il core }
+                \line { dandolo a voi ch'avete }
+                \line { non sol beltà ma sete }
+                \line { ornata di virtù tal che m'avviso }
+                \line { stando in terra godere il Paradiso. }
+            }
+            \column {
+                % translation: 2023-11-11
+                \line { My gentle lady, I thank Cupid }
+                \line { who stole away my heart, }
+                \line { giving it to you, who has }
+                \line { not only beauty but is }
+                \line { adorned with such virtue that I believe }
+                \line { while remaining on earth, enjoys Paradise. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

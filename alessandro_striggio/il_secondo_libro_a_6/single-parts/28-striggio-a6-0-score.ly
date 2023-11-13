@@ -23,7 +23,7 @@
     shortcomp = "striggio"
     categories = "[]"
     motifs = "[]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Bernardo Tasso (1493-1569)"
 
     % Unchanging:

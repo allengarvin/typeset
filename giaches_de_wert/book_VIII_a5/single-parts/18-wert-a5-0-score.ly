@@ -13,7 +13,7 @@
     title = "Non sospirar, Pastor"
     folio = \markup { Torquato Tasso, \italic{Ecloghe}  3. La festa campestre }
     instrument = "Non sospirar, Pastor (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

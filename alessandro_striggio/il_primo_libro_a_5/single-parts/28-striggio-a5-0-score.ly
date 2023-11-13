@@ -16,8 +16,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "arse_cosi_per_voi"
     shortcomp = "striggio"
-    needtranslation = #'t
-    folio = "Anonymous poet"
+    needtranslation = #'f
+    folio = "Giulio Nuvoloni (died c.1567)"
 
     % Unchanging:
     language = "italian"
@@ -94,13 +94,25 @@
         \fill-line {
             \column {
                 \line { Arse così per voi, donna, il mio core, }
-                \line { Il primo dì che intento vi mirai }
-                \line { Che certo mi pensai }
-                \line { Che non potess'in me crescer più ardore, }
+                \line { il primo dì che intento vi mirai }
+                \line { che certo mi pensai }
+                \line { che non potess'in me crescer più ardore. }
                 \line { Ma in voi beltà crescendo d'ora in ora, }
-                \line { Cresce in me il fuoco ancora, }
-                \line { Il qual non potr'omai crescer sì poco, }
-                \line { Che altro non sarò che più fiamma e fuoco. }
+                \line { cresce in me il fuoco ancora, }
+                \line { il qual non potr'omai crescer sì poco, }
+                \line { che altro non sarò che più fiamma e fuoco. }
+            }
+            \column {
+                % 2023-11-12
+                \line { My heart burned so for you, lady, }
+                \line { the first day intently I gazed upon you }
+                \line { that I certainly thought }
+                \line { no greater passion could grow inside of me. }
+                \line { But in you, beauty increasing hour by hour, }
+                \line { the fire in me grows still, }
+                \line { which never will not increase so little }
+                \line { that I will not be consumed by yet more flame and fire. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -24,7 +24,7 @@
     shortcomp = "bertani"
     categories = "[madrigal]"
     motifs = "[laurel,fire]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

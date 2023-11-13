@@ -12,9 +12,8 @@
     % Things that change per piece:
     title = "Cantava la più vaga pastorella"
     instrument = "Cantava la più vaga pastorella (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-12"
@@ -22,6 +21,8 @@
     flats = 1
     final = "g"
     categories = "[madrigal]"
+    motifs = "[pastoral,flowers,shepherdess,flowers]"
+    rhyme = "AbBAAbCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -89,14 +90,29 @@
     \markup {
         \fill-line {
             \column {
+                % Italian touched up 2023-11-12
+                % should 'intento e fisso' be passato remoto?
+                %   'intentò e fissò'?
                 \line { Cantava la più vaga pastorella  } 
-                \line { Che mai premesse fiori  } 
-                \line { E scopriva nel viso almi colori } 
-                \line { Una ninfa di lei molto più bella. } 
-                \line { Deh, perché l'alma fatta ad ambe ancella  } 
-                \line { Non ebbe allor duo cori,  } 
-                \line { Mentr'era a l'un e a l'altra intento e fiso  } 
-                \line { Per lassarne uno al canto e l'altro al viso? } 
+                \line { che mai premesse fiori  } 
+                \line { e scopriva nel viso almi colori, } 
+                \line { una ninfa di lei molto più bella. } 
+                \line { Deh, perché l'alma, fatta ad ambe ancella  } 
+                \line { non ebbe allor duo cori,  } 
+                \line { mentr'era a l'un e all'altra intento e fisso  } 
+                \line { per lassarne uno al canto e l'altro al viso? } 
+            }
+            \column {
+                % translation: 2023-11-12
+                \line { The fairest shepherdess }
+                \line { who ever tripped across flowers sang, }
+                \line { and a nymph of yet greater beauty }
+                \line { revealed the noble colors of her face. }
+                \line { Ah, why di my soul, made servant to both, }
+                \line { not then have two hearts, }
+                \line { while it was upon one and the other intent and fixed }
+                \line { to leave one for the song and the other for the face? }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

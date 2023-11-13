@@ -13,7 +13,7 @@
     title = "Tirsi morir volea"
     folio = "Giovanni Battista Guarini (1538-1612)"
     instrument = "Tirsi morir volea (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     poeticform = "madrigal"
 

@@ -100,6 +100,7 @@
                 \line { della mia vita, oltre ogni assenzio amara. } 
             }
             \column {
+                % translation: 2023-05-09
                  \line { Sorrowful sufferings, fierce torments, }
                  \line { harsh shackles, cruel snares, savage chains, }
                  \line { where I, by night, by day, by hour and moment }

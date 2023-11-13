@@ -22,7 +22,7 @@
     shorttitle = "piangi_cor_mio"
     shortcomp = "sabino"
     categories = "[madrigal]"
-    needtranslation = #'t
+    needtranslation = #'f
     rhyme = "ABCDEF"
 
     % Unchanging:

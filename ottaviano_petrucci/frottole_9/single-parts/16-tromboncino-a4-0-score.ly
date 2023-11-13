@@ -15,7 +15,7 @@
     composer = "B.T. [Bartolomeo Tromboncino (c.1470-c.1535)]"
     instrument = "Ostinato vo' seguire:  (score)"
     headerspace = \markup { \vspace #2 }
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

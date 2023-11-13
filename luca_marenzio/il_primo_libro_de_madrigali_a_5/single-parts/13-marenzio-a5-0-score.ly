@@ -23,6 +23,7 @@
     flats = 0
     final = "f"
     categories = "[madrigal]"
+    motifs = "[dream,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,10 +92,10 @@
         \fill-line {
             \column {
                 \line { In tanto il sonno si partia pian piano, }
-                \line { Ond'io per ingannarme }
-                \line { Lungo spazio non volsi gli occhi aprire, }
-                \line { Ma da la bianca mano }
-                \line { Che sì stretta tenea senti' lasciarme. }
+                \line { ond'io per ingannarme }
+                \line { lungo spazio non volsi gli occhi aprire, }
+                \line { ma da la bianca mano }
+                \line { che sì stretta tenea sentii lasciarme. }
             }
         }
     }

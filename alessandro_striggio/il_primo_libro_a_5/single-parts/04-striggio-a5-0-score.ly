@@ -14,7 +14,7 @@
     instrument = "Felice l'alma (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
+    folio = \markup { Petrarca, \italic{Canzoniere} LXXI (71) }
 
     % Unchanging:
     originallyset = "2014-12-21"
@@ -90,15 +90,29 @@
     \markup {
         \fill-line {
             \column {
+                % Italian touched up 2023-11-12
                 \line { Felice l'alma che per voi sospira }
-                \line { Lumi del ciel per liqual'io ringratio }
-                \line { La vita che per altro non m'è a grado }
-                \line { Oimè perche si rado }
-                \line { Mi date quel ond'io mai non son satio }
-                \line { Perchè non piu sovente }
-                \line { Mirate qual Amor di me fa stratio }
-                \line { E perchè mi spogliate immantinente }
-                \line { Del ben ch'ad or ad or l'anima sente.  }
+                \line { lumi del ciel per liqual'io ringrazio }
+                \line { la vita che per altro non m'è a grado. }
+                \line { Ohimè perché sì rado }
+                \line { mi date quel ond'io mai non son sazio? }
+                \line { Perché non piu sovente }
+                \line { mirate qual Amor di me fa strazio? }
+                \line { E perché mi spogliate immantinente }
+                \line { del ben ch'ad or ad or l'anima sente.  }
+            }
+            \column {
+                \line { Blessed is the soul that sighs for you }
+                \line { heavenly lights, so that I give thanks for life }
+                \line { that otherwise is worthless! }
+                \line { Alas, why do you so rarely }
+                \line { grant me what does not sate me? }
+                \line { Why do you not more often }
+                \line { consider how Love wastes me? }
+                \line { And why do you immediately rob me }
+                \line { of the good that now and then my spirit feels? }
+               \line { \hspace #12 A.S. Kline (©2004, used with permission) }
+
             }
         }
     }

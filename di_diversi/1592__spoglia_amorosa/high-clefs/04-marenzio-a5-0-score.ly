@@ -9,31 +9,31 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2023-10-24"
-    originallyset = "2023-10-24"
+    lastupdated = "2023-11-12"
+    originallyset = "2023-11-12"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Che puoi tu farmi Amore"
+    title = "Rivi, fontane e fiumi a l'aura al cielo"
+    subtitle = ""
     subsubtitle = "transposed down"
-    instrument = "Che puoi tu farmi Amore: transposed down (score)"
+    instrument = "Rivi, fontane e fiumi a l'aura al cielo:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "che_puoi_tu_farmi_amore"
-    shortcomp = "giovannelli"
-    composer = "Ruggiero Giovannelli (c.1560-1625)"
+    shorttitle = "rivi_fontane_e_fiumi_a_laura_al_cielo"
+    shortcomp = "marenzio"
     categories = "[]"
     motifs = "[]"
     needtranslation = #'f
 
     % Unchanging:
     language = "italian"
-    poeticform = "madrigal"
+    poeticform = "sestina"
     tagline = #'f
 }
 
-\include "../parts/02-giovannelli-a5-madrigal.ly"
+\include "../parts/04-marenzio-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "02-giovannelli--che_puoi_tu_farmi_amore-transposed_down"
+    \bookOutputName "04-marenzio--rivi_fontane_e_fiumi_a_laura_al_cielo-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,75 +42,74 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoIIincipitVoice
+                    \incipit \cantoIVincipitVoice
                     \clef "treble"
                     \global\transpose f c
-                    \cantoII
+                    \cantoIV
                 >>
-             \addlyrics { \cantoLyricsII }
+             \addlyrics { \cantoLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoIIincipitVoice
+                    \incipit \quintoIVincipitVoice
                     \clef "treble"
                     \global\transpose f c
-                    \quintoII
+                    \quintoIV
                 >>
-             \addlyrics { \quintoLyricsII }
+             \addlyrics { \quintoLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoIIincipitVoice
+                    \incipit \altoIVincipitVoice
                     \clef "treble_8"
                     \global\transpose f c
-                    \altoII
+                    \altoIV
                 >>
-             \addlyrics { \altoLyricsII }
+             \addlyrics { \altoLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreIIincipitVoice
+                    \incipit \tenoreIVincipitVoice
                     \clef "treble_8"
                     \global\transpose f c
-                    \tenoreII
+                    \tenoreIV
                 >>
-             \addlyrics { \tenoreLyricsII }
+             \addlyrics { \tenoreLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoIIincipitVoice
+                    \incipit \bassoIVincipitVoice
                     \clef "bass"
                     \global\transpose f c
-                    \bassoII
+                    \bassoIV
                 >>
-             \addlyrics { \bassoLyricsII }
+             \addlyrics { \bassoLyricsIV }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 86 2)
+                tempoWholesPerMinute = #(ly:make-moment 78 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Che puoi tu farmi Amore }
-                \line { s'in me non è più'l core? }
-                \line { Anzi or più temo'l tuo fiero martire, }
-                \line { che non trovando il cor dove ferire }
-                \line { farrai nell'alma la piaga mortale }
-                \line { e finirà il mio male. }
+                \line { Rivi, fontane e fiumi a l'aura al cielo }
+                \line { sì cari e sì graditi alla mia voce, }
+                \line { frenate i vostri corsi; e di fresca ombra, }
+                \line { amato lauro con tue verdi chiome,  }
+                \line { per rimembranza del felice giorno, }
+                \line { più cortese ti mostra alla mia gioia. }
             }
-           \column {
-               % translation orig date: 2023-10-24
-               % translation updated:
-                \line { What can you do to me, Love, }
-                \line { if my heart is no longer in me? }
-                \line { Indeed, now I fear your cruel torment more, }
-                \line { for in not finding my heart to strike, }
-                \line { you will deal a mortal blow to my soul, }
-                \line { and my pain will end. }
+            \column {
+                % translation: 2023-11-12
+                \line { Streams, fountains and rivers, to the breeze, to heaven, }
+                \line { so dear and so pleasing to my voice, }
+                \line { cease your flows; and from fresh shade, }
+                \line { beloved laurel with your verdure foliage, }
+                \line { in remembrance of this happy day, }
+                \line { show yourself more courteous to my joy. }
                 \line { \hspace #10 \italic { translation by editor } }
-           }
+            }
         }
     }
 }

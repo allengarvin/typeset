@@ -25,7 +25,7 @@
     rhyme = "abBacC"
     categories = "[madrigal,morte]"
     motifs = "[sun,morte]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Invidioso Amor del mio bel stato"
     instrument = "Invidioso Amor (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Giulio Nuvoloni (died c.1567)"
 
@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "invidioso_amor"
     categories = "[madrigal]"
+    rhyme = "ABBACCDD"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,14 +92,27 @@
         \fill-line {
             \column {
                \line { Invidioso Amor del mio bel stato }
-               \line { E del riposo mio sdegnoso prese  }
-               \line { L'arme sue in man e tosto l'arco tese }
-               \line { E contra me si fece tutto armato. }
+               \line { e del riposo mio, sdegnoso prese  }
+               \line { l'arme sue in man e tosto l'arco tese }
+               \line { e contra me si fece tutto armato. }
                \line { Io che da lui giamai non fui più offeso, }
-               \line { Incauto ne restai ferito e preso. }
+               \line { incauto ne restai ferito e preso. }
                \line { E col bel mezzo d'un sereno volto }
                \line { il mio voler e non voler m'ha tolto. }
                \line { \hspace #6 Giulio Nuvoloni, \italic { Rime di diversi autori } (1560) }
+            }
+            \column {
+                % translation: 2023-11-12
+                \line { Love, envious of my happy state and }
+                \line { jealous of my repose, disdainfully took up }
+                \line { his arms in hand and swiftly stretched taut his bow, }
+                \line { and, fully armed, attacked me. }
+                \line { I, who never before had been more injured by him, }
+                \line { imprudently by this was wounded and captured. }
+                \line { And by the lovely contrivance of a fair face, }
+                \line { my will has been stolen from me. }
+                \line { \hspace #10 \italic { translation by editor } }
+
             }
         }
     }

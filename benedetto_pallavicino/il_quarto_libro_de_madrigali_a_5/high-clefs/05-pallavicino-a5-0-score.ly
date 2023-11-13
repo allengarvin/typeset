@@ -9,36 +9,36 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2023-11-11"
-    originallyset = "2023-11-11"
+    lastupdated = "2023-09-14"
+    originallyset = "2023-09-14"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Quando i vostri begli occhi"
-    subtitle = ""
+    title = "Tutto eri foco, Amore"
     subsubtitle = "transposed down"
-    instrument = "Quando i vostri begli occhi:  (score)"
+    instrument = "Tutto eri foco, Amore: transposed down (score)"
     headerspace = \markup { \vspace #2 }
-    folio = "Jacopo Sannazaro (1458-1530)"
-    shorttitle = "quando_i_vostri_begli_occhi"
-    shortcomp = "marenzio"
+    shorttitle = "tutto_eri_foco_amore"
+    shortcomp = "pallavicino"
     categories = "[]"
     motifs = "[]"
     needtranslation = #'f
+    folio = "Attr. to Giovanni Battista Guarini"
 
     % Unchanging:
     language = "italian"
+    poeticform = "madrigal"
     tagline = #'f
 }
 
-\include "../parts/05-marenzio-a5-madrigal.ly"
+\include "../parts/05-pallavicino-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "05-marenzio--quando_i_vostri_begli_occhi-"
+    \bookOutputName "05-pallavicino--tutto_eri_foco_amore-transposed_down"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.8
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
@@ -48,6 +48,14 @@
                     \cantoV
                 >>
              \addlyrics { \cantoLyricsV }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quinto"
+                    \incipit \quintoVincipitVoice
+                    \clef "treble"
+                    \global\transpose f c
+                    \quintoV
+                >>
+             \addlyrics { \quintoLyricsV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoVincipitVoice
@@ -59,19 +67,11 @@
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreVincipitVoice
-                    \clef "treble_8"
+                    \clef "bass"
                     \global\transpose f c
                     \tenoreV
                 >>
              \addlyrics { \tenoreLyricsV }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoVincipitVoice
-                    \clef "treble_8"
-                    \global\transpose f c
-                    \quintoV
-                >>
-             \addlyrics { \quintoLyricsV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoVincipitVoice
@@ -93,27 +93,26 @@
     \markup {
         \fill-line {
             \column {
-                \line { Quando i vostri begli occhi un caro velo } 
-                \line { ombrando copre semplicetto e bianco, } 
-                \line { d'una gelata fiamma il cor s'alluma, } 
-                \line { madonna, e le midolle un caldo gelo } 
-                \line { trascorre sì, ch'a poco a poco io manco, } 
-                \line { e l'alma per diletto si consuma:  } 
-                \line { Così morendo vivo; e con quell' arme } 
-                \line { che m'uccidete, voi potete aitarme. } 
+                \line { Tutto eri foco, Amore }
+                \line { quand'arsi prima in quel soave sguardo }
+                \line { ov'era scritto di tua man: i' Ardo. }
+                \line { Ahi! cieco senza fede! }
+                \line { Più cieco è chi ti crede, }
+                \line { che quando giaccio fui, tu fosti ardore; }
+                \line { Or giaccio sei, ch'ho tutto fiamma il core. }
             }
-            \column {
-                % translation 2023-11-11
-                \line { When your lovely eyes are shaded by an intimate veil, }
-                \line { a covering simple and white, }
-                \line { my heart is kindled by a frozen flame, }
-                \line { my lady, and in my bones a hot chill }
-                \line { passes through, such that little by little, }
-                \line { in delight my soul is consumed: }
-                \line { Thus dying, I live, and with those arms }
-                \line { by which you slew me, you may sustain me. }
-                \line { \hspace #10 \italic { translation by editor }  }
-            }
+           \column {
+               % translation orig date: 2023-09-13
+               % translation updated:
+                \line { You were all fire, Love, }
+                \line { when first I burned in that gentle gaze }
+                \line { where was written, by your own hand: I burn. }
+                \line { Ah! Blind without faith! }
+                \line { More blind is he who trusts you, }
+                \line { for when I was ice, you were burning passion; }
+                \line { Now you are as ice, while my heart is all aflame. }
+                \line { \hspace #10 \italic { translation by editor } }
+           }
         }
     }
 }

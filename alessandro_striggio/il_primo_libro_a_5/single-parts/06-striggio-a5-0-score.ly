@@ -90,14 +90,15 @@
     \markup {
         \fill-line {
             \column {
+                % italian touched up: 2023-11-12
                 \line { Caro dolce ben mio chi mi vi toglie? }
                 \line { Come potrà giami questo mio core }
-                \line { Viver senza di voi? }
-                \line { Aimè, che l'aspre doglie }
-                \line { E'l mio acerbo dolore }
-                \line { Mi fan misero e poi }
-                \line { Versar da gli occhi lassi }
-                \line { Lagrime ch'a pietà movono i sassi.  }
+                \line { viver senza di voi? }
+                \line { Ahimè, che l'aspre doglie }
+                \line { e'l mio acerbo dolore }
+                \line { mi fan misero e poi }
+                \line { versar da gli occhi lassi }
+                \line { lagrime ch'a pietà movono i sassi.  }
             }
         }
     }

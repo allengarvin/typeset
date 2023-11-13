@@ -23,6 +23,7 @@
     flats = 0
     final = "c"
     categories = "[madrigal]"
+    motifs = "[dream,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,15 +92,15 @@
         \fill-line {
             \column {
                 \line { Venuta era Madonna al mio languire }
-                \line { Con dolce aspetto umano, }
-                \line { Allegra e bella in sonno a consolarme; }
-                \line { Ed io, prendendo ardire, }
-                \line { Di dirle quanti affanni ho speso in vano, }
-                \line { Vidila con pietade a sé chiamarme, }
-                \line { Dicendo: A che sospire, }
-                \line { A che ti struggi ed ardi di lontano? }
-                \line { Non sai tu che quell'arme }
-                \line { Che fer la piaga ponno il duol finire? }
+                \line { con dolce aspetto umano, }
+                \line { allegra e bella in sonno a consolarme; }
+                \line { ed io, prendendo ardire, }
+                \line { di dirle quanti affanni ho speso in vano, }
+                \line { vidila con pietade a sé chiamarme, }
+                \line { dicendo: A che sospire, }
+                \line { a che ti struggi ed ardi di lontano? }
+                \line { non sai tu che quell'arme }
+                \line { che fer la piaga ponno il duol finire? }
             }
         }
     }

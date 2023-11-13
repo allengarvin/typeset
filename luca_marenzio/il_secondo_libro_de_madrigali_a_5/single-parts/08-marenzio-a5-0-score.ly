@@ -14,7 +14,7 @@
     title = "Quando sorge l’aurora"
     folio = "Anonymous poet"
     instrument = "Quando sorge l’aurora (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

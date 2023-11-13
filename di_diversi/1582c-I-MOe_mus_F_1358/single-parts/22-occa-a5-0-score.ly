@@ -23,7 +23,7 @@
     shorttitle = "udite_amanti"
     shortcomp = "occa"
     categories = "[madrigal,secreta]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Giovanni Battista Guarini (1536-1612)"
     composer = "Alberto dall'Occa (fl.1580s-90s)"
 

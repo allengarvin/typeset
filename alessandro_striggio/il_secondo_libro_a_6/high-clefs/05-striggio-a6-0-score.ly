@@ -6,39 +6,39 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 14.5)
+#(set-global-staff-size 17.0)
 
 \header {
-    lastupdated = "2023-11-11"
-    originallyset = "2023-11-11"
+    lastupdated = "2023-11-13"
+    originallyset = "2023-11-13"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Quando i vostri begli occhi"
-    subtitle = ""
+    title = "Qual tu ti sia, qui vieni"
     subsubtitle = "transposed down"
-    instrument = "Quando i vostri begli occhi:  (score)"
+    subsubtitle = ""
+    instrument = "Qual tu ti sia, qui vieni: transposed down (score)"
     headerspace = \markup { \vspace #2 }
-    folio = "Jacopo Sannazaro (1458-1530)"
-    shorttitle = "quando_i_vostri_begli_occhi"
-    shortcomp = "marenzio"
+    shorttitle = "qual_tu_ti_sia_qui_vieni"
+    shortcomp = "striggio"
     categories = "[]"
     motifs = "[]"
-    needtranslation = #'f
+    needtranslation = #'t
 
     % Unchanging:
     language = "italian"
+    poeticform = "madrigal"
     tagline = #'f
 }
 
-\include "../parts/05-marenzio-a5-madrigal.ly"
+\include "../parts/05-striggio-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "05-marenzio--quando_i_vostri_begli_occhi-"
+    \bookOutputName "05-striggio--qual_tu_ti_sia_qui_vieni-transposed_down"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.8
+                \override StaffGrouper.staff-staff-spacing.padding = #5.0
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
@@ -51,7 +51,7 @@
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoVincipitVoice
-                    \clef "treble_8"
+                    \clef "treble"
                     \global\transpose f c
                     \altoV
                 >>
@@ -64,6 +64,14 @@
                     \tenoreV
                 >>
              \addlyrics { \tenoreLyricsV }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Sesto"
+                    \incipit \sestoVincipitVoice
+                    \clef "treble_8"
+                    \global\transpose f c
+                    \sestoV
+                >>
+             \addlyrics { \sestoLyricsV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoVincipitVoice
@@ -86,34 +94,26 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 78 2)
+                tempoWholesPerMinute = #(ly:make-moment 88 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Quando i vostri begli occhi un caro velo } 
-                \line { ombrando copre semplicetto e bianco, } 
-                \line { d'una gelata fiamma il cor s'alluma, } 
-                \line { madonna, e le midolle un caldo gelo } 
-                \line { trascorre sì, ch'a poco a poco io manco, } 
-                \line { e l'alma per diletto si consuma:  } 
-                \line { Così morendo vivo; e con quell' arme } 
-                \line { che m'uccidete, voi potete aitarme. } 
+                \line { Qual tu ti sia, qui vieni. (ella qui vieni) }
+                \line { forma, ed esso riguarda e alcun non vede. }
+                \line { perché dice mi fuggi e in dietro meni? }
+                \line { Mi fuggi e meni alle sue orecchie riede. }
+                \line { A che sospeso pur mi tieni? (tieni) }
+                \line { Eco risuona; Ferma il piede, (il piede) }
+                \line { vederti bramo ed eco immantinente, }
+                \line { ed eco immantinente or ci accoppiamo. }
             }
-            \column {
-                % translation 2023-11-11
-                \line { When your lovely eyes are shaded by an intimate veil, }
-                \line { a covering simple and white, }
-                \line { my heart is kindled by a frozen flame, }
-                \line { my lady, and in my bones a hot chill }
-                \line { passes through, such that little by little, }
-                \line { in delight my soul is consumed: }
-                \line { Thus dying, I live, and with those arms }
-                \line { by which you slew me, you may sustain me. }
-                \line { \hspace #10 \italic { translation by editor }  }
-            }
+%           \column {
+%               % translation orig date:
+%               % translation updated:
+%           }
         }
     }
 }

@@ -22,7 +22,7 @@
     composer = "Giovanni Piccioni (1549-1619)"
     categories = "[]"
     motifs = "[]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

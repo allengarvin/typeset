@@ -23,6 +23,8 @@
     final = "f"
     shorttitle = "mentre_la_donna"
     categories = "[madrigal]"
+    motifs = "[amore]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -90,14 +92,15 @@
     \markup {
         \fill-line {
             \column {
+                % italian touched up: 2023-11-12
                \line { Mentre la donna, anzi la vita mia, }
-               \line { Misti a le rose i gigli va tessendo: }
+               \line { misti a le rose i gigli va tessendo: }
                \line { Vide fra l'erbe e i fior ch'Amor dormia }
-               \line { E lui lieta legò dolce ridendo. }
+               \line { e lui lieta legò dolce ridendo. }
                \line { Scioglersi di tal nodo Amor volia, }
-               \line { Ma chi l'avea legato poi vedendo, }
-               \line { Va, disse, o madre, cerca un novo Amore, }
-               \line { Perche il mio regno qui sarà maggiore. }
+               \line { ma chi l'avea legato poi vedendo, }
+               \line { va, disse, o madre, cerca un novo Amore, }
+               \line { perché il mio regno qui sarà maggiore. }
                \line { \hspace #6 Girolamo Muzio, \italic { Rime di diversi nobili huomini } (1547) }
             }
         }

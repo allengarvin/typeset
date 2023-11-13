@@ -23,7 +23,7 @@
     shortcomp = "marenzio"
     categories = "[madrigal,morte]"
     motifs = "[morte]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

@@ -24,7 +24,7 @@
     composer = "Adriano Willaert (c.1490-1562)"
     categories = "[morte,madrigal]"
     motifs = "[amore,morte]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Dragonetto Bonifazi"
 
     % Unchanging:

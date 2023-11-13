@@ -23,7 +23,7 @@
     shortcomp = "wert"
     categories = "[madrigal]"
     motifs = "[]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Luigi Tansillo (1510-1568)"
 
     % Unchanging:

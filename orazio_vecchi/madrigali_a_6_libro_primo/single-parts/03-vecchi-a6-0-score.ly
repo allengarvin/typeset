@@ -23,7 +23,7 @@
     shortcomp = "vecchi"
     categories = "[madrigal]"
     motifs = "[]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Torquato Tasso (1544-1595)"
 
     % Unchanging:

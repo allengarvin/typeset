@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Lasso ch'io ardo e'l mio bel sole ardente"
     instrument = "Lasso ch'io ardo (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous Poet"
 
@@ -89,12 +89,23 @@
     \markup {
         \fill-line {
             \column {
+                % Italian reviewed 2023-11-11
                 \line { Lasso ch'io ardo e'l mio bel sole ardente }
-                \line { I suoi bei raggi d'oro }
-                \line { Volge in altr'oriente }
-                \line { Ivi imperla, ivi indora ed io mi moro,  }
+                \line { i suoi bei raggi d'oro }
+                \line { volge in altr'oriente, }
+                \line { ivi imperla, ivi indora ed io mi moro.  }
                 \line { Amor, deh torna a me torna la chiara }
-                \line { Bella mia luce e cara. }
+                \line { bella mia luce e cara. }
+            }
+            \column {
+                % translation: 2023-11-11
+                \line { Alas, for I burn, and my beautiful blazing sun }
+                \line { turns her alluring golden rays }
+                \line { in another direction, }
+                \line { there covered in pearls, there gilded, and I die. }
+                \line { Love, ah, return to me, return that bright }
+                \line { beautiful light of mine, so dear. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -23,7 +23,7 @@
     shortcomp = "marenzio"
     categories = "[madrigal]"
     motifs = "[pastoral,dancing,nymphs]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Giovanni Battista Strozzi il vecchio (1505-1571)"
 
     % Unchanging:
