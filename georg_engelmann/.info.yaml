@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /georg_engelmann
+biography:
+    name: George Engelmann
+    last_name: Engelmann
+    nationality: German
+    born_year: 1570
+    born_circa: true
+    died_year: 1632
+    died_date: 1632-11-11
+    born_location:
+        region: Mansfeld
+        country: Germany
+    died_location:
+        region: Leipzig
+        country: Germany
