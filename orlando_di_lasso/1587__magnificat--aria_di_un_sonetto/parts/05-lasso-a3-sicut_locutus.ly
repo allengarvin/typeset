@@ -108,11 +108,11 @@ bassusV = \relative c' {
     R\breve*4 | R\breve*5 | R\breve*5 | R\breve*4 \bar "|."
 }
 
-quintusV = \relative c' { 
-    \fourTwoCutTime
-    s1*0_\markup "Sicut locutus est ad patres nostros, Abraham et semini eius in sæcula."
-    R\breve*4 | R\breve*5 | R\breve*5 | R\breve*4 \bar "|."
-}
+%quintusV = \relative c' { 
+%    \fourTwoCutTime
+%    s1*0_\markup "Sicut locutus est ad patres nostros, Abraham et semini eius in sæcula."
+%    R\breve*4 | R\breve*5 | R\breve*5 | R\breve*4 \bar "|."
+%}
 
 cantusVincipitVoice = <<
     \new MensuralVoice <<
