@@ -54,17 +54,17 @@ cantoLyricsI = \lyricmode {
     Io non son pe -- rò mor -- to,
     Don -- na co -- me pen -- sa -- te,
     Per -- ché più non m'a -- ma -- te,
-    Don -- na co -- me pen -- sa -- te,
-    Per -- ché più non m'a -- ma -- te,
+    don -- na co -- me pen -- sa -- te,
+    per -- ché più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta __
-    An -- zi ri -- tor -- no~in __ vi -- ta.
+    an -- zi ri -- tor -- no~in __ vi -- ta.
 
     Io non son __ pe -- rò mor -- to,
     Don -- na co -- me pen -- sa -- te,
     An -- zi ri -- tor -- no~in vi -- ta,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    \ijLyrics An -- zi ri -- tor -- no~in vi -- ta, \normalLyrics
-    An -- zi ri -- tor -- no~in vi -- ta.
+    an -- zi ri -- tor -- no~in vi -- ta,
+    \ijLyrics an -- zi ri -- tor -- no~in vi -- ta, \normalLyrics
+    an -- zi ri -- tor -- no~in vi -- ta.
 
 
     Ché l'al -- ma~in voi se -- pol -- ta,
@@ -72,8 +72,8 @@ cantoLyricsI = \lyricmode {
     Si tro -- va~es -- ser' u -- sci -- ta
     D'u -- na pri -- gion mor -- ta -- le,
     E can -- gia~in vi -- ta~e~in ben
-    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
-    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
+    e can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
+    e can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 altoIincipit = \relative c' {
@@ -118,24 +118,26 @@ altoLyricsI = \lyricmode {
     Don -- na __ co -- me pen -- sa -- te,
     Per -- ché più __ non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta
-    An -- zi ri -- tor -- no~in vi -- ta,
+    an -- zi ri -- tor -- no~in vi -- ta,
     Io non son pe -- rò mor -- to,
-    Don -- na co -- me __ pen -- sa -- te,
-    Per -- ché più non m'a -- ma -- te,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    \ijLyrics An -- zi ri -- tor -- no~in vi -- ta, \normalLyrics
+    don -- na co -- me __ pen -- sa -- te,
+    per -- ché più non m'a -- ma -- te,
+    an -- zi ri -- tor -- no~in vi -- ta,
+    an -- zi ri -- tor -- no~in vi -- ta,
+    an -- zi ri -- tor -- no~in vi -- ta,
+    \ijLyrics 
+    an -- zi ri -- tor -- no~in vi -- ta,
+    \normalLyrics
         in vi -- ta
-    An -- zi ri -- tor -- no~in vi -- ta.
+    an -- zi ri -- tor -- no~in vi -- ta.
 
     Ché l'al -- ma~in voi se -- pol -- ta,
     Da voi sen -- do -- si sciol -- ta,
     Si tro -- va~es -- ser' u -- sci -- ta
     D'u -- na pri -- gion mor -- ta -- le,
     E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l __ ma -- le,
-    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
-    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
+    e can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
+    e can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 tenoreIincipit = \relative c' {
@@ -179,21 +181,23 @@ tenoreLyricsI = \lyricmode {
     Don -- na co -- me pen -- sa -- te,
     Per -- ché __ più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta
-    An -- zi ri -- tor -- no~in vi -- ta,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    \ijLyrics An -- zi ri -- tor -- no~in vi -- ta, \normalLyrics
+    an -- zi ri -- tor -- no~in vi -- ta,
+    an -- zi ri -- tor -- no~in vi -- ta,
+    \ijLyrics 
+    an -- zi ri -- tor -- no~in vi -- ta, \normalLyrics
         ri -- tor -- no~in vi -- ta,
-    Io non son pe -- rò mor -- to,
-    Don -- na co -- me pen -- sa -- te,
-    Per -- ché __ più non m'a -- ma -- te,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    \ijLyrics An -- zi ri -- tor -- no~in vi -- ta. \normalLyrics
+    io non son pe -- rò mor -- to,
+    don -- na co -- me pen -- sa -- te,
+    per -- ché __ più non m'a -- ma -- te,
+    an -- zi ri -- tor -- no~in vi -- ta,
+    an -- zi ri -- tor -- no~in vi -- ta,
+    an -- zi ri -- tor -- no~in vi -- ta,
+    \ijLyrics 
+    an -- zi ri -- tor -- no~in vi -- ta. \normalLyrics
 
     Ché l'al -- ma~in voi se -- pol -- ta,
     E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
-    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
+    e can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 bassoIincipit = \relative c {
@@ -230,13 +234,13 @@ bassoLyricsI = \lyricmode {
     Don -- na co -- me pen -- sa -- te,
     Per -- ché più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    An -- zi ri -- tor -- no~in vi -- ta,
-    \ijLyrics An -- zi ri -- tor -- no~in vi -- ta. \normalLyrics
+    an -- zi ri -- tor -- no~in vi -- ta,
+    an -- zi ri -- tor -- no~in vi -- ta,
+    \ijLyrics an -- zi ri -- tor -- no~in vi -- ta. \normalLyrics
 
     Ché l'al -- ma~in voi se -- pol -- ta,
     E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le,
-    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
+    e can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 quintoIincipit = \relative c'' {
@@ -279,22 +283,22 @@ quintoI = \relative c'' {
 
 quintoLyricsI = \lyricmode {
     An -- zi ri -- tor -- no~in vi -- ta
-    An -- zi ri -- tor -- no~in vi -- ta,
+    an -- zi ri -- tor -- no~in vi -- ta,
     Io non son __ pe -- rò mor -- to, __
     Don -- na co -- me pen -- sa -- te, __
     Per -- ché più non m'a -- ma -- te,
     An -- zi ri -- tor -- no~in vi -- ta,
-    Io non son pe -- rò mor -- to,
-    Don -- na co -- me __ pen -- sa -- te,
-    Per -- ché più non m'a -- ma -- te,
-    An -- zi ri -- tor -- no~in vi -- ta.
+    io non son pe -- rò mor -- to,
+    don -- na co -- me __ pen -- sa -- te,
+    per -- ché più non m'a -- ma -- te,
+    an -- zi ri -- tor -- no~in vi -- ta.
 
     Ché l'al -- ma~in voi se -- pol -- ta,
     Da voi sen -- do -- si sciol -- ta,
     Si tro -- va~es -- ser' u -- sci -- ta
     D'u -- na pri -- gion __ mor -- ta -- le,
     E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l __ ma -- le,
-    E can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
+    e can -- gia~in vi -- ta~e~in ben la mor -- te~e'l ma -- le.
 }
 
 cantoIincipitVoice = <<
