@@ -7,9 +7,9 @@
 ambitusV = \with { \consists Ambitus_engraver }
 unficta = \unset suggestAccidentals
 ficta = \set suggestAccidentals = ##t
-incipitLarge = \once \override NoteHead #'font-size = #3
+incipitLarge = \once \override NoteHead.font-size = #3
 stemOff = { \hide Staff.Stem }
-figuresDown = \override Staff.BassFigureAlignmentPositioning #'direction = #DOWN
+figuresDown = \override Staff.BassFigureAlignmentPositioning.direction = #DOWN
 
 
 % should have done this years ago
@@ -20,22 +20,22 @@ mensuralTime = \once \override Score.TimeSignature.style = #'mensural
 % got this from a Potharn Imre score:
 doubleTimeSig = { \set Score.measureLength = #(ly:make-moment 1/32) s32 \bar "" }
 
-noSlur = \override Slur #'transparent = ##t
-slurOff = \override Slur #'transparent = ##t
-slurOn = \override Slur #'transparent = ##f
+noSlur = \override Slur.transparent = ##t
+slurOff = \override Slur.transparent = ##t
+slurOn = \override Slur.transparent = ##f
 
-singleTime = \once \override Staff.TimeSignature  #'style = #'single-digit
-invisibleTime = \once \override Staff.TimeSignature #'break-visibility = #all-invisible 
+singleTime = \once \override Staff.TimeSignature.style = #'single-digit
+invisibleTime = \once \override Staff.TimeSignature.break-visibility = #all-invisible 
 
 fourTwoCutTime = {
-%    \once \override Staff.TimeSignature #'stencil = #ly:text-interface::print
-%    \once \override Staff.TimeSignature #'text = \markup \musicglyph #"timesig.C22"
+%    \once \override Staff.TimeSignature.stencil = #ly:text-interface::print
+%    \once \override Staff.TimeSignature.text = \markup \musicglyph #"timesig.C22"
     \time 4/2
 }
 
 fourTwoCommonTime = {
-%    \once \override Staff.TimeSignature #'stencil = #ly:text-interface::print
-%    \once \override Staff.TimeSignature #'text = \markup \musicglyph #"timesig.C44"
+%    \once \override Staff.TimeSignature.stencil = #ly:text-interface::print
+%    \once \override Staff.TimeSignature.text = \markup \musicglyph #"timesig.C44"
     \time 4/2
 }
 
@@ -242,13 +242,13 @@ raisedTwoFourTime = ^\markup {
 incipit =
 #(define-music-function (parser location incipit-music) (ly:music?)
   #{
-    \once \override Staff.InstrumentName #'self-alignment-X = #RIGHT
-    \once \override Staff.InstrumentName #'self-alignment-Y = #UP
-    \once \override Staff.InstrumentName #'Y-offset =
+    \once \override Staff.InstrumentName.self-alignment-X = #RIGHT
+    \once \override Staff.InstrumentName.self-alignment-Y = #UP
+    \once \override Staff.InstrumentName.Y-offset =
       #(lambda (grob)
          (+ 4 (system-start-text::calc-y-offset grob)))
-    \once \override Staff.InstrumentName #'padding = #0.3
-    \once \override Staff.InstrumentName #'stencil =
+    \once \override Staff.InstrumentName.padding = #0.3
+    \once \override Staff.InstrumentName.stencil =
       #(lambda (grob)
      (let* ((instrument-name (ly:grob-property grob 'long-text)))
        (set! (ly:grob-property grob 'long-text)
@@ -257,8 +257,7 @@ incipit =
                  {
                { \context MensuralStaff \with {
                             instrumentName = #instrument-name
-                    \override VerticalAxisGroup
-                     #'Y-extent = #'(-4 . 4)
+                    \override VerticalAxisGroup.Y-extent = #'(-4 . 4)
                          } $incipit-music
                }
                        \layout { $(ly:grob-layout grob)
@@ -300,11 +299,11 @@ colorBrBegin = \startTextSpan
 colorBrEnd = \stopTextSpan
 
 ijLyrics = {
-  \override Lyrics.LyricText #'font-shape = #'italic
+  \override Lyrics.LyricText.font-shape = #'italic
 }
 
 normalLyrics = {
-  \revert Lyrics.LyricText #'font-shape
+  \revert Lyrics.LyricText.font-shape
 }
 
 #(define-public (bracket-stencils grob)
@@ -315,7 +314,7 @@ normalLyrics = {
 bracketify = #(define-music-function (parser loc arg) (ly:music?)
    (_i "Tag @var{arg} to be parenthesized.")
 #{
-  \once \override ParenthesesItem #'stencils = #bracket-stencils
+  \once \override ParenthesesItem.stencils = #bracket-stencils
   \parenthesize $arg
 #})
 

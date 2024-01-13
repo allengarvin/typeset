@@ -5,14 +5,14 @@
             autoBeaming = ##t
             restNumberThreshold = #0
             \consists Ambitus_engraver
-            \override Slur #'transparent = ##t 
+            \override Slur.transparent = ##t 
     
             % took me forever to track this down
             \remove "New_fingering_engraver"
     }
     \context {
         \Lyrics
-            \override  LyricHyphen #'minimum-distance = #0.8
+            \override  LyricHyphen.minimum-distance = #0.8
     }
     \context {
         \RhythmicStaff

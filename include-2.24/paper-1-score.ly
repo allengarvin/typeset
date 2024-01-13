@@ -13,7 +13,8 @@
                               (/ myStaffSize 40)))
 
     scoreTitleMarkup = \markup { \column {
-        \on-the-fly #print-all-headers { \bookTitleMarkup \hspace #1 }
+       % \on-the-fly #print-all-headers { \bookTitleMarkup \hspace #1 }
+       \if \should-print-all-headers { \bookTitleMarkup \hspace #1 }
         \column {
             \huge \larger
             \fill-line {

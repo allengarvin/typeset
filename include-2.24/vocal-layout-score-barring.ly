@@ -2,7 +2,7 @@
     ragged-bottom = ##f
     \context {
         \Lyrics
-        \override  LyricHyphen #'minimum-distance = #0.8
+        \override  LyricHyphen.minimum-distance = #0.8
     }
     indent = 4\cm
     incipit-width = 2\cm
@@ -12,7 +12,7 @@
         \Staff
         \consists Ambitus_engraver
          autoBeaming = ##t
-        \override Slur #'transparent = ##t 
+        \override Slur.transparent = ##t 
 
             % took me forever to track this down
             \remove "New_fingering_engraver"
