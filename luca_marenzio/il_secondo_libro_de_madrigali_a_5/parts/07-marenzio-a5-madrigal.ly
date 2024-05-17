@@ -30,15 +30,15 @@ cantoLyricsVII = \lyricmode {
     Chi strin -- se mai più bel -- lo ma -- no? e qua -- i
     lab -- bra ba -- sciò ba -- sciò più dol -- ci? Ahi che mo -- ri -- re,
         ahi che mo -- ri -- re, __
-    Mi sen -- to, da -- poi ch'io nol pos -- so di -- re.
-    Tor -- na dun -- que~a ri -- di -- re,
-    Tor -- na dun -- que~a ri -- di -- re,
+    Mi sen -- to, da poi -- ch'io nol pos -- so di -- re.
+    Tor -- na~a -- dun -- que~a ri -- di -- re,
+    Tor -- na~a -- dun -- que~a ri -- di -- re,
     A -- mor, A -- mor,
-        c'huom ma -- i,
-        c'huom ma -- i, 
+        ch'uom ma -- i,
+        ch'uom ma -- i, 
     Più fe -- li -- ce di me, non vi -- de~il So -- le,
         non vi -- de~il So -- le,
-        c'huom ma -- i, 
+        ch'uom ma -- i, 
     Più fe -- li -- ce di me, non vi -- de~il So -- le,
         il So -- le,
     Più fe -- li -- ce di me, non vi -- de~il So -- le.
@@ -80,13 +80,13 @@ altoLyricsVII = \lyricmode {
     lab -- bra ba -- sciò ba -- sciò __ più dol -- ci? 
         Ahi __ che mo -- ri -- re, 
     Mi sen -- to, 
-        da -- poi ch'io nol pos -- so di -- re.
-    Tor -- na dun -- que~a ri -- di -- re,
-        da -- poi ch'io nol pos -- so di -- re.
-    Tor -- na dun -- que~a ri -- di -- re~A -- mor, __
-        c'huom ma -- i,
+        da poi -- ch'io nol pos -- so di -- re.
+    Tor -- na~a -- dun -- que~a ri -- di -- re,
+        da poi -- ch'io nol pos -- so di -- re.
+    Tor -- na~a -- dun -- que~a ri -- di -- re~A -- mor, __
+        ch'uom ma -- i,
     Più fe -- li -- ce di me, non vi -- de~il So -- le,
-        c'huom ma -- i,
+        ch'uom ma -- i,
     Più fe -- li -- ce di me, non vi -- de~il So -- le,
     Più fe -- li -- ce di me, non vi -- de~il So -- le.
 }
@@ -126,14 +126,14 @@ tenoreLyricsVII = \lyricmode {
     lab -- bra ba -- sciò ba -- sciò __ più dol -- ci? 
         Ahi __ che mo -- ri -- re,
     Mi sen -- to, 
-        da -- poi ch'io nol pos -- so di -- re.
-    Tor -- na dun -- que~a ri -- di -- re,
-    Tor -- na dun -- que~a ri -- di -- re,
+        da poi -- ch'io nol pos -- so di -- re.
+    Tor -- na~a -- dun -- que~a ri -- di -- re,
+    Tor -- na~a -- dun -- que~a ri -- di -- re,
         A -- mor, 
-        c'huom ma -- i,
-        c'huom ma -- i, __
+        ch'uom ma -- i,
+        ch'uom ma -- i, __
         non vi -- de~il So -- le,
-        c'huom ma -- i, 
+        ch'uom ma -- i, 
     Più fe -- li -- ce di me,
         non vi -- de~il So -- le,
     Più fe -- li -- ce di me, non vi -- de~il So -- le.
@@ -169,15 +169,15 @@ bassoLyricsVII = \lyricmode {
     Chi strin -- se mai più bel -- lo ma -- no? 
         Ahi che mo -- ri -- re,
     Mi sen -- to, 
-    Tor -- na dun -- que~a ri -- di -- re,
-        Da -- poi ch'io nol pos -- so di -- re.
-    Tor -- na dun -- que~a ri -- di -- re~A -- mor, 
+    Tor -- na~a -- dun -- que~a ri -- di -- re,
+        Da -- poi -- ch'io nol pos -- so di -- re.
+    Tor -- na~a -- dun -- que~a ri -- di -- re~A -- mor, 
         A -- mor,
-        c'huom ma -- i,
-        c'huom ma -- i, 
+        ch'uom ma -- i,
+        ch'uom ma -- i, 
     Più fe -- li -- ce di me, 
         non vi -- de~il So -- le,
-        c'huom ma -- i,
+        ch'uom ma -- i,
         non vi -- de~il So -- le,
         non vi -- de~il So -- le.
 }
@@ -219,17 +219,17 @@ quintoLyricsVII = \lyricmode {
     lab -- bra ba -- sciò ba -- sciò __ più dol -- ci? 
         Ahi Ahi che mo -- ri -- re, __
     Mi sen -- to, 
-    Tor -- na dun -- que~a ri -- di -- re,
-        da -- poi ch'io nol pos -- so di -- re.
-    Tor -- na dun -- que~a ri -- di -- re~A -- mor, 
-        c'huom ma -- i,
-        c'huom ma -- i, 
+    Tor -- na~a -- dun -- que~a ri -- di -- re,
+        da poi -- ch'io nol pos -- so di -- re.
+    Tor -- na~a -- dun -- que~a ri -- di -- re~A -- mor, 
+        ch'uom ma -- i,
+        ch'uom ma -- i, 
     Più fe -- li -- ce di me, __
     \ijLyrics
     Più fe -- li -- ce di me, 
     \normalLyrics
         non vi -- de~il So -- le,
-        c'huom ma -- i,
+        ch'uom ma -- i,
     Più fe -- li -- ce di me, non vi -- de~il So -- le,
         non vi -- de~il So -- le,
     Più fe -- li -- ce di me, 

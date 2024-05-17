@@ -13,7 +13,7 @@
     title = "Perché di pioggia il ciel non si distille"
     folio = "Anonymous poet"
     instrument = "Perché di pioggia il ciel (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -88,18 +88,30 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
+            % translation: 2024-05-13. Not entirely certain about the last two lines
             \column {
                 \line { Perché di pioggia il ciel non si distille }
-                \line { E la riva del Tebro tanto inondi, }
-                \line { Che lascino le Ninfe vezzosette }
-                \line { Di coglier verdi frondi e mille erbette }
-                \line { Con odorati fiori }
-                \line { Per tesser ghirlandette }
-                \line { A gli amati Pastori,  }
-                \line { Fa biondo Apol che’l tuo splendor ritorni }
-                \line { A far seren’i giorni. }
+                \line { e la riva del Tebro tanto inondi, }
+                \line { che lascino le Ninfe vezzosette }
+                \line { di coglier verdi frondi e mille erbette }
+                \line { con odorati fiori }
+                \line { per tesser ghirlandette }
+                \line { a gli amati Pastori,  }
+                \line { fa biondo Apol che’l tuo splendor ritorni }
+                \line { a far seren’i giorni. }
+            }
+            \column {
+                \line { So that the sky does not distill itself into rain }
+                \line { and the bank of the Tiber does not so flood, }
+                \line { so as to let the most charming Nymphs }
+                \line { pick green fronds and a thousands herbs }
+                \line { with frant flowers, }
+                \line { for to weave garlands }
+                \line { for the beloved Shepherds, }
+                \line { O blonde Apollo, let your splendor return }
+                \line { to make the days serene. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

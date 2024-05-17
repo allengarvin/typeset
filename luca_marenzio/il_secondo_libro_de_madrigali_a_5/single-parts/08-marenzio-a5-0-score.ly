@@ -89,8 +89,8 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
+            % translation: unsure, but it's before I started dating them. This is really straightforward though
             \column {
                 \line { Quando sorge l’aurora, }
                 \line { Ridon' l’erbette e i fiori }

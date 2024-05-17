@@ -14,7 +14,7 @@
     subtitle = "Seconda parte"
     folio = "Girolamo Parabosco (c.1524-1557)"
     instrument = "Chi strinse mai più bello mano (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -89,14 +89,22 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
+            % translation: 2024-05-14
             \column {
                 \line { Chi strinse mai più bello mano? e quai }
-                \line { Labbra baciò più dolci? ah che morire  }
-                \line { Mi sento, dapoi ch'io nol posso dire.  }
-                \line { Torna dunque a ridir Amor, c'huom mai  }
-                \line { Più felice di me non vide il Sole.  }
+                \line { labbra baciò più dolci? ah, che morire }
+                \line { mi sento, da poich'io nol posso dire. }
+                \line { Torna adunque a ridire Amor, ch'uom mai }
+                \line { più felice di me non vide il Sole. }
+            }
+            \column {
+                \line { Whosoever clasped a more lovely hand? and }
+                \line { [whoever] kissed those sweetest lips? Ah, I feel myself }
+                \line { dying, since I cannot speak of it. }
+                \line { Therefore return again, Love, for no happier man }
+                \line { than me ever saw the Sun. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -14,7 +14,7 @@
     subtitle = "Prima parte"
     folio = "Girolamo Parabosco (c.1524-1557)"
     instrument = "Amor poi che non vuole (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -89,19 +89,22 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
+            % translation: 2024-05-14. Really unsure I'm parsing this correctly.
             \column {
-                \line { Amor, poi che non vuole }
-                \line { La bella Donna, a cui nol dir giurai, }
-                \line { Ch'io dica il mio gioire; }
-                \line { Almen di tu, c'huom mai }
-                \line { Più felice di me non vide il Sole. }
-                \line { Chi strinse mai più bello mano? e quai }
-                \line { Labbra baciò più dolci? ah che morire }
-                \line { Mi sento, dapoi ch'io nol posso dire. }
-                \line { Torna dunque a ridir Amor, c'huom mai }
-                \line { Più felice di me non vide il Sole. }
+                \line { Amor, poiché non vuole }
+                \line { la bella Donna, a cui nol dir giurai, }
+                \line { ch'io dica il mio gioire, }
+                \line { almen di tu, ch'uom mai }
+                \line { più felice di me non vide il Sole. }
+            }
+            \column {
+                \line { Love, since my lovely Lady, }
+                \line { to whom I vowed to not speak of it, }
+                \line { wishes that I not talk of my joy, }
+                \line { at least with you, that no happier man }
+                \line { ever saw the Sun. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

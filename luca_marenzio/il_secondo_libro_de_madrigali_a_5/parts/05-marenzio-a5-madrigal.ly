@@ -4,7 +4,7 @@
 %  Deh! fa ch’ella sappia anco,
 %     Quel che forse non crede, quanto io sia
 %     Già presso a venir manco,
-%     Se più nascosa è a lei la pena mia.
+%     Se pur nascosa è a lei la pena mia.
 %     Ch’ella lo sappia, fia
 %     Tanto sollevamento a’ dolor miei,
 %     Ch’io ne vivrò, dove or me ne morrei.
@@ -59,13 +59,13 @@ cantoLyricsV = \lyricmode {
     Deh, fa ch’el -- la sap -- pia~an -- co,
     % Quel che for -- se non cre -- de, 
         quan -- to~io si -- a
-    Già pres -- so~a ve -- nir man -- co,
-    Se più __ na -- sco -- sa~è~a lei la pe -- na mi -- a.
+    Già pres -- so~a ve -- nir man -- co:
+    Se pur __ na -- sco -- sa~è~a lei la pe -- na mi -- a.
     Ch’el -- la lo sap -- pia, 
     \ijLyrics
     Ch’el -- la lo sap -- pia,
     \normalLyrics
-    Ch’el -- la lo sap -- pia, fi -- a
+    Ch’el -- la lo sap -- pia fi -- a
     Tan -- to sol -- le -- va -- men -- to 
     \ijLyrics
     Tan -- to sol -- le -- va -- men -- to 
@@ -135,11 +135,11 @@ altoLyricsV = \lyricmode {
     Quel che for -- se non cre -- de,  __
     Già pres -- so~a ve -- nir man -- co,
     \ijLyrics
-    Già pres -- so~a ve -- nir man -- co,
+    Già pres -- so~a ve -- nir man -- co:
     \normalLyrics
-    Se più __ na -- sco -- sa~è~a lei la pe -- na __ mi -- a.
+    Se pur __ na -- sco -- sa~è~a lei la pe -- na __ mi -- a.
     Ch’el -- la lo sap -- pia, 
-    Ch’el -- la lo sap -- pia, fi -- a, fi -- a
+    Ch’el -- la lo sap -- pia fi -- a, fi -- a
     Tan -- to sol -- le -- va -- men -- to 
         a’ __ do -- lor mie -- i,
     Ch’io ne vi -- vrò, 
@@ -198,13 +198,13 @@ tenoreLyricsV = \lyricmode {
 
     Deh! __ fa ch’el -- la sap -- pia~an -- co,
     Quel che for -- se non cre -- de, quan -- to~io si -- a
-    Già __ pres -- so~a ve -- nir __ man -- co,
-    Se più __ na -- sco -- sa~è~a lei la __ pe -- na mi -- a.
+    Già __ pres -- so~a ve -- nir __ man -- co:
+    Se pur __ na -- sco -- sa~è~a lei la __ pe -- na mi -- a.
     Ch’el -- la lo sap -- pia, 
     \ijLyrics
     Ch’el -- la lo sap -- pia,
     \normalLyrics
-    Ch’el -- la lo sap -- pia, fi -- a
+    Ch’el -- la lo sap -- pia fi -- a
     Tan -- to sol -- le -- va -- men -- to 
     Tan -- to sol -- le -- va -- men -- to~a’ do -- lor mie -- i,
     Ch’io ne vi -- vrò, 
@@ -255,13 +255,13 @@ bassoLyricsV = \lyricmode {
     Deh! fa __ ch’el -- la sap -- pia~an -- co,
     Deh, fa ch’el -- la sap -- pia~an -- co,
     Quel che for -- se non cre -- de, quan -- to~io si -- a
-    Già pres -- so~a ve -- nir man -- co,
-    Se più __ na -- sco -- sa~è~a lei la pe -- na mi -- a.
+    Già pres -- so~a ve -- nir man -- co:
+    Se pur __ na -- sco -- sa~è~a lei la pe -- na mi -- a.
     Ch’el -- la lo sap -- pia, 
     \ijLyrics
     Ch’el -- la lo sap -- pia,
     \normalLyrics
-    Ch’el -- la lo sap -- pia, fi -- a, fi -- a
+    Ch’el -- la lo sap -- pia fi -- a, fi -- a
     Tan -- to sol -- le -- va -- men -- to~a’ do -- lor mie -- i,
     Ch’io ne vi -- vrò, do -- ve~or me ne mor -- re -- i,
     Ch’io ne vi -- vrò, do -- ve~or me ne mor -- re -- i.
@@ -319,8 +319,8 @@ quintoLyricsV = \lyricmode {
 
     Deh! fa ch’el -- la sap -- pia~an -- co,
     Quel che for -- se non cre -- de, quan -- to~io si -- a __
-    Già pres -- so~a ve -- nir man -- co,
-    Se più __ na -- sco -- sa~è~a lei la pe -- na mi -- a.
+    Già pres -- so~a ve -- nir man -- co:
+    Se pur __ na -- sco -- sa~è~a lei la pe -- na mi -- a.
     Ch’el -- la lo sap -- pia, 
     Ch’el -- la lo sap -- pia, 
     \ijLyrics

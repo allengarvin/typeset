@@ -53,7 +53,7 @@ cantoLyricsXIV = \lyricmode {
         o per Ne e -- ra,
     \normalLyrics
     Se più pre -- gian -- do quel che die -- de~a Lau -- ra
-    % D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra,
+    % D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra.
     Quan -- do __ a l'al -- ba Ti -- ton le chio -- me~i -- nau -- ra,
         a l'al -- ba Ti -- ton le chio -- me~i -- nau -- ra
     A sa -- lu -- tar,
@@ -117,7 +117,7 @@ altoLyricsXIV = \lyricmode {
         o per Ne e -- ra,
         o per __ Ne e -- ra,
     Se più pre -- gian -- do quel
-    D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra,
+    D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra.
     Quan -- do, __
     \ijLyrics
     Quan -- do,
@@ -173,7 +173,7 @@ tenoreLyricsXIV = \lyricmode {
     Il Pa -- sto -- rel di Fil -- li 
         o per Ne e -- ra,
     Se più pre -- gian -- do quel che die -- de~a Lau -- ra
-    D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra,
+    D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra.
     Quan -- do a l'al -- ba Ti -- ton le chio -- me~i -- nau -- ra,
     Quan -- do,
     \ijLyrics
@@ -230,7 +230,7 @@ bassoLyricsXIV = \lyricmode {
     Stri -- der fa -- ce -- va le zam -- po -- gne~a l'au -- ra,
         fa -- ce -- va le zam -- po -- gne~a l'au -- ra
     Se più pre -- gian -- do quel che die -- de~a Lau -- ra
-    D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra,
+    D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra.
     Quan -- do,
     \ijLyrics
     Quan -- do,
@@ -283,7 +283,7 @@ quintoLyricsXIV = \lyricmode {
         o per __ Ne e -- ra,
 
     Se più pre -- gian -- do quel che die -- de~a Lau -- ra
-    D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra,
+    D'o -- ne -- sto~a -- mor per -- pe -- tua lo -- de~e ve -- ra.
     Quan -- do a l'al -- ba Ti -- ton le chio -- me~i -- nau -- ra,
     Quan -- do~a l'al -- ba Ti -- ton le chio -- me~i -- nau -- ra,
     A sa -- lu -- tar,

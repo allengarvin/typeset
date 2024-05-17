@@ -1,11 +1,11 @@
-% Itene à l’ombra de gli ameni faggi,
-% Pasciute peccorelle omai che’l sole
-% Su’l  mezzo giorno indrizza i caldi raggi
-% Ivi udirete l’alte mie parole
+% Itene à l'ombra de -- gli ameni faggi,
+% Pasciute peccorelle omai che'l sole
+% Su'l  mezzo giorno indrizza i caldi raggi
+% Ivi udirete l'alte mie parole
 % Lodar gli occhi sereni e treccie bionde
 % Le mani e le bellezze al mondo sole
-% Mentre il mio canto e’l mormorar de l’onde
-% S’accorderanno e voi di passo in passo
+% Mentre il mio canto e'l mormorar del -- l'onde
+% S'accorderanno e voi di passo in passo
 % Ite pascendo fiori, erbette e fronde.
 
 cantoXIincipit = \relative c''' {
@@ -39,17 +39,17 @@ cantoXI = \relative c''' {
 }
 
 cantoLyricsXI = \lyricmode {
-    I -- te -- ne à~l’om -- bra,
-    I -- te -- ne à~l’om -- bra de gli~a -- me -- ni fag -- gi,
-    Pa -- sciu -- te pec -- co -- rel -- le~o -- mai che’l so -- le
-    Su’l mez -- zo gior -- no~in -- driz -- za~i cal -- di rag -- gi
+    I -- te -- ne al -- l'om -- bra,
+    I -- te -- ne al -- l'om -- bra de -- gli~a -- me -- ni fag -- gi,
+    Pa -- sciu -- te pe -- co -- rel -- le~o -- mai che'l so -- le
+    Su'l mez -- zo gior -- no~in -- driz -- za~i cal -- di rag -- gi.
     I -- vi,
     I -- vi~u -- di -- re -- te,
-    I -- vi~u -- di -- re -- te l’al -- te mie pa -- ro -- le
+    I -- vi~u -- di -- re -- te l'al -- te mie pa -- ro -- le
     Lo -- dar gli~oc -- chi se -- re -- ni~e trec -- cie bion -- de
-    Le ma -- ni~e le bel -- lez -- ze~al mon -- do so -- le
-    Men -- tre~il mio can -- to e’l mor -- mo -- rar __ de l’on -- de,
-    S’ac -- cor -- de -- ran -- no~e voi,
+    Le ma -- ni~e le bel -- lez -- ze~al mon -- do so -- le;
+    Men -- tre~il mio can -- to e'l mor -- mo -- rar __ del -- l'on -- de,
+    S'ac -- cor -- de -- ran -- no~e voi,
         e voi di pas -- so~in pas -- so
     I -- te pa -- scen -- do fio -- ri,~er -- bet -- te~e fron -- de,
     I -- te pa -- scen -- do fio -- ri,~er -- bet -- te~e fron -- de,
@@ -86,14 +86,14 @@ altoXI = \relative c' {
 }
 
 altoLyricsXI = \lyricmode {
-    I -- te -- ne à~l’om -- bra,
-    I -- te -- ne à~l’om -- bra,
+    I -- te -- ne al -- l'om -- bra,
+    I -- te -- ne al -- l'om -- bra,
     I -- vi,
     I -- vi~u -- di -- re -- te,
     I -- vi~u -- di -- re -- te,
-    Men -- tre~il mio can -- to e’l mor -- mo -- rar __ de l’on -- de,
-        e’l mor -- mo -- rar __ de l’on -- de,
-    S’ac -- cor -- de -- ran -- no~e voi,
+    Men -- tre~il mio can -- to e'l mor -- mo -- rar __ del -- l'on -- de,
+        e'l mor -- mo -- rar __ del -- l'on -- de,
+    S'ac -- cor -- de -- ran -- no~e voi,
         e voi di pas -- so~in pas -- so
     I -- te pa -- scen -- do fio -- ri,~er -- bet -- te~e fron -- de,
     I -- te pa -- scen -- do fio -- ri,~er -- bet -- te~e fron -- de,
@@ -130,18 +130,18 @@ tenoreXI = \relative c' {
 }
 
 tenoreLyricsXI = \lyricmode {
-    I -- te -- ne à~l’om -- bra,
-    I -- te -- ne à~l’om -- bra de gli~a -- me -- ni fag -- gi,
-    Pa -- sciu -- te pec -- co -- rel -- le~o -- mai che’l so -- le
-    Su’l mez -- zo gior -- no~in -- driz -- za~i cal -- di rag -- gi
+    I -- te -- ne al -- l'om -- bra,
+    I -- te -- ne al -- l'om -- bra de -- gli~a -- me -- ni fag -- gi,
+    Pa -- sciu -- te pe -- co -- rel -- le~o -- mai che'l so -- le
+    Su'l mez -- zo gior -- no~in -- driz -- za~i cal -- di rag -- gi.
     I -- vi,
     I -- vi~u -- di -- re -- te,
-    I -- vi~u -- di -- re -- te l’al -- te mie pa -- ro -- le
+    I -- vi~u -- di -- re -- te l'al -- te mie pa -- ro -- le
     Lo -- dar gli~oc -- chi se -- re -- ni~e trec -- cie bion -- de
-    Le ma -- ni~e le bel -- lez -- ze~al mon -- do so -- le
-    Men -- tre~il mio can -- to e’l mor -- mo -- rar __ de l’on -- de,
-        e’l mor -- mo -- rar de l’on -- de,
-    S’ac -- cor -- de -- ran -- no
+    Le ma -- ni~e le bel -- lez -- ze~al mon -- do so -- le;
+    Men -- tre~il mio can -- to e'l mor -- mo -- rar __ del -- l'on -- de,
+        e'l mor -- mo -- rar del -- l'on -- de,
+    S'ac -- cor -- de -- ran -- no
         e voi __ di pas -- so~in pas -- so
     I -- te pa -- scen -- do fio -- ri, er -- bet -- te~e fron -- de,
     I -- te pa -- scen -- do fio -- ri,~er -- bet -- te~e fron -- de.
@@ -170,7 +170,7 @@ bassoXI = \relative c {
 
 bassoLyricsXI = \lyricmode {
     I -- vi, __
-    Men -- tre~il mio can -- to~e’l mor -- mo -- rar de l’on -- de,
+    Men -- tre~il mio can -- to~e'l mor -- mo -- rar del -- l'on -- de,
         E voi,
         E voi di pas -- so~in pas -- so
     I -- te pa -- scen -- do fio -- ri,~er -- bet -- te~e fron -- de,
@@ -209,18 +209,18 @@ quintoXI = \relative c''' {
 }
 
 quintoLyricsXI = \lyricmode {
-    I -- te -- ne à~l’om -- bra,
-    I -- te -- ne à~l’om -- bra de gli~a -- me -- ni fag -- gi,
-    Pa -- sciu -- te pec -- co -- rel -- le~o -- mai che’l so -- le
-    Su’l mez -- zo gior -- no~in -- driz -- za~i cal -- di rag -- gi
+    I -- te -- ne al -- l'om -- bra,
+    I -- te -- ne al -- l'om -- bra de -- gli~a -- me -- ni fag -- gi,
+    Pa -- sciu -- te pe -- co -- rel -- le~o -- mai che'l so -- le
+    Su'l mez -- zo gior -- no~in -- driz -- za~i cal -- di rag -- gi.
     I -- vi,
     I -- vi~u -- di -- re -- te,
-    I -- vi~u -- di -- re -- te l’al -- te mie pa -- ro -- le
+    I -- vi~u -- di -- re -- te l'al -- te mie pa -- ro -- le
     Lo -- dar gli~oc -- chi se -- re -- ni~e trec -- cie bion -- de
-    Le ma -- ni~e le bel -- lez -- ze~al mon -- do so -- le
-    Men -- tre~il mio can -- to e’l mor -- mo -- rar de l’on -- de,
-        e’l mor -- mo -- rar de l’on -- de,
-    S’ac -- cor -- de -- ran -- no~e __ voi,
+    Le ma -- ni~e le bel -- lez -- ze~al mon -- do so -- le;
+    Men -- tre~il mio can -- to e'l mor -- mo -- rar del -- l'on -- de,
+        e'l mor -- mo -- rar del -- l'on -- de,
+    S'ac -- cor -- de -- ran -- no~e __ voi,
         e voi __ di pas -- so~in pas -- so
     I -- te pa -- scen -- do fio -- ri,~er -- bet -- te~e fron -- de,
         pa -- scen -- do fio -- ri,~er -- bet -- te~e fron -- de,

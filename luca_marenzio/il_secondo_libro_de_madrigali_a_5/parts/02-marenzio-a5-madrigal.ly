@@ -1,6 +1,6 @@
 % Io partirò, ma il core
 % Si resterà nel vostro volto divo,
-% Sì che s’io resto vivo
+% Si che s’io resto vivo
 % Sarà certo miracolo d’Amore.
 % Ma tale è’l mio tormento,
 % Ch’io penserò restar di vita spento.
@@ -45,14 +45,14 @@ cantoLyricsII = \lyricmode {
     Io par -- ti -- rò, ma~il co -- re
     \normalLyrics
     % Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Sì che s’io re -- sto vi -- vo,
+    Si che s’io re -- sto vi -- vo,
         s’io re -- sto vi -- vo,
-    Sa -- ra cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
         s’io re -- sto vi -- vo,
     \ijLyrics
         s’io re -- sto vi -- vo
     \normalLyrics
-    Sa -- ra cer -- to mi -- ra -- co -- lo d’A -- mo -- re.
+    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re.
     Ma ta -- le~e’l __ mio tor -- men -- to,
     Ch’io pen -- se -- rò res -- tar,
     Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
@@ -101,12 +101,12 @@ altoLyricsII = \lyricmode {
     ma~il co -- re,
     Io par -- ti -- rò, ma~il co -- re,
     Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Sì che s’io re -- sto vi -- vo,
+    Si che s’io re -- sto vi -- vo,
         s’io re -- sto vi -- vo,
-    Sa -- ra cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
         s’io re -- sto vi -- vo, __
         s’io re -- sto vi -- vo
-    Sa -- ra cer -- to mi -- ra -- co -- lo d’A -- mo -- re.
+    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re.
     Ma ta -- le~e’l mio __ tor -- men -- to,
     Ch’io pen -- se -- rò res -- tar,
     Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
@@ -156,12 +156,12 @@ tenoreLyricsII = \lyricmode {
         Ma~il co -- re,
     Io par -- ti -- rò, ma~il co -- re,
     Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Sì che s’io re -- sto vi -- vo,
+    Si che s’io re -- sto vi -- vo,
         s’io re -- sto vi -- vo,
-    Sa -- ra cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
         s’io re -- sto vi -- vo,
         s’io re -- sto vi -- vo
-    Sa -- ra cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
         mi -- ra -- co -- lo d’A -- mo -- re.
     Ma ta -- le~e’l mio tor -- men -- to,
     Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
@@ -206,13 +206,13 @@ bassoII = \relative c' {
 bassoLyricsII = \lyricmode {
     Io par -- ti -- rò, ma~il co -- re,
     Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Sì che s’io re -- sto vi -- vo,
+    Si che s’io re -- sto vi -- vo,
     \ijLyrics
         s’io re -- sto vi -- vo, __
     \normalLyrics
         s’io re -- sto vi -- vo, 
         s’io re -- sto vi -- vo, 
-    Sa -- ra cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
     Ma ta -- le~e’l mio __ tor -- men -- to,
     Ch’io pen -- se -- rò res -- tar,
     Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
@@ -258,12 +258,12 @@ quintoLyricsII = \lyricmode {
     Io par -- ti -- rò, ma~il co -- re,
     Io par -- ti -- rò, ma~il co -- re,
     Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Sì che s’io re -- sto vi -- vo,
+    Si che s’io re -- sto vi -- vo,
         s’io re -- sto vi -- vo,
-    Sa -- ra cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
         s’io re -- sto vi -- vo,
         s’io re -- sto vi -- vo
-    Sa -- ra cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
         mi -- ra -- co -- lo d’A -- mo -- re.
     Ch’io pen -- se -- rò res -- tar,
     Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,

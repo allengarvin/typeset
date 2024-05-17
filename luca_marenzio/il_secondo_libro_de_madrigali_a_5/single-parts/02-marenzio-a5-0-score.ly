@@ -16,7 +16,7 @@
     subtitle = "Seconda parte"
     folio = "Anonymous poet"
     instrument = "Io partirò (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -91,13 +91,24 @@
     \markup {
         \vspace #4
         \fill-line {
+            % italian touch-up 2024-05-13
+            % Translation: 2024-05-13
             \column {
                 \line { Io partirò, ma il core } 
-                \line { Si resterà nel vostro volto divo, } 
-                \line { Sì che s’io resto vivo } 
-                \line { Sarà certo miracolo d’Amore. } 
-                \line { Ma tale è’l mio tormento, } 
-                \line { Ch’io penserò restar di vita spento. } 
+                \line { si resterà nel vostro volto divo; } 
+                \line { si che s’io resto vivo } 
+                \line { sarà certo miracolo d’Amore. } 
+                \line { Ma tale è’l mio tormento } 
+                \line { ch’io penserò restar di vita spento. } 
+            }
+            \column {
+                \line { I shall depart, but my heart }
+                \line { will stay with your divine visage; }
+                \line { if I remain alive, }
+                \line { it will surely be a miracle of Love. }
+                \line { But such is my torment }
+                \line { that I will think to be left with but a spent life. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

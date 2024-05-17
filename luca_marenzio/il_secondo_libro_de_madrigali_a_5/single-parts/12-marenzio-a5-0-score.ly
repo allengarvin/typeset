@@ -21,6 +21,7 @@
     lastupdated = "2012-11-12"
     flats = 0
     final = "d"
+    poeticform = "ottava rima"
     shorttitle = "la_bella_ninfa_mia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"

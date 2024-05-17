@@ -1,6 +1,6 @@
-% Deggio dunque partire Lasso
-% Dal mio bel sol che mi da vita?
-% Ohimè che mi consola e chi m’aita
+% Deggio dunque partire,
+% Lasso, dal mio bel sol che mi da vita?
+% Ohimè chi mi consola e chi m’aita
 % In cosi gran martire?
 % Ahi, che partir pur deggio 
 % la mia fortuna or che mi può far peggio. 
@@ -39,14 +39,15 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    Deg -- gio dun -- que par -- ti -- re Las -- so,
-    Deg -- gio dun -- que par -- ti -- re Las -- so
-    Dal mio bel sol __ che mi da vi -- ta,
+    Deg -- gio dun -- que par -- ti -- re 
+    Las -- so,
+    Deg -- gio dun -- que par -- ti -- re 
+    Las -- so, dal mio bel sol __ che mi da vi -- ta,
     \ijLyrics
         che mi da vi -- ta,
     \normalLyrics
     Ohi -- mè!  Ohi -- mè! 
-        che mi con -- so -- la~e chi m’a -- i -- ta
+        chi mi con -- so -- la~e chi m’a -- i -- ta
     In __ co -- sì gran __ mar -- ti -- re?
     Ahi, __ Ahi, __
         che par -- tir pur deg -- gio 
@@ -88,10 +89,10 @@ altoI = \relative c' {
 altoLyricsI = \lyricmode {
     Deg -- gio dun -- que par -- ti -- re 
     Las -- so, Las -- so,
-    Dal mio bel sol che mi da vi -- ta,
+    dal mio bel sol che mi da vi -- ta,
         che mi da vi -- ta,
     Ohi -- mè! 
-        che mi con -- so -- la,
+        chi mi con -- so -- la,
     Ohi -- mè! 
     In __ co -- sì gran mar -- ti -- re?
     Ahi, __ Ahi, __
@@ -131,12 +132,12 @@ tenoreI = \relative c' {
 
 tenoreLyricsI = \lyricmode {
     Deg -- gio dun -- que par -- ti -- re Las -- so,
-    Dal mio bel sol che mi da vi -- ta,
+    dal mio bel sol che mi da vi -- ta,
         che mi da vi -- ta,
     Ohi -- mè! 
-        che mi con -- so -- la,
+        chi mi con -- so -- la,
     Ohi -- mè! 
-        che mi con -- so -- la~e chi m’a -- i -- ta
+        chi mi con -- so -- la~e chi m’a -- i -- ta
     In co -- sì gran mar -- ti -- re?
     Ahi, __ Ahi, __
         che par -- tir pur deg -- gio 
@@ -174,8 +175,8 @@ bassoI = \relative c' {
 }
 
 bassoLyricsI = \lyricmode {
-    Ohi -- mè!  che mi con -- so -- la,
-    Ohi -- mè!  che mi con -- so -- la~e chi m’a -- i -- ta
+    Ohi -- mè!  chi mi con -- so -- la,
+    Ohi -- mè!  chi mi con -- so -- la~e chi m’a -- i -- ta
     Ahi, __ Ahi, __
         che par -- tir pur deg -- gio 
     La mia for -- tu -- na~or che mi può far peg -- gio,
@@ -215,11 +216,11 @@ quintoI = \relative c'' {
 
 quintoLyricsI = \lyricmode {
     Deg -- gio dun -- que par -- ti -- re Las -- so,
-    Deg -- gio dun -- que par -- ti -- re Las -- so
-    Dal mio bel sol che mi da vi -- ta,
+    Deg -- gio dun -- que par -- ti -- re Las -- so,
+    dal mio bel sol che mi da vi -- ta,
         che mi da vi -- ta,
-    Ohi -- mè!  che mi con -- so -- la,
-    Ohi -- mè!  che mi con -- so -- la~e chi m’a -- i -- ta
+    Ohi -- mè! chi mi con -- so -- la,
+    Ohi -- mè! chi mi con -- so -- la~e chi m’a -- i -- ta
     In __ co -- sì gran mar -- ti -- re?
     Ahi, 
 %        che par -- tir pur deg -- gio 

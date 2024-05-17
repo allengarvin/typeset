@@ -55,7 +55,7 @@ cantoLyricsIX = \lyricmode {
         che vin -- ta~e stan -- ca
     Di -- ven -- ne can -- na tre -- mu -- la~e sot -- ti -- le
         tre -- mu -- la~e sot -- ti -- le
-    Per gui -- der -- don del -- le gra -- vo -- se so -- me, __
+    Per gui -- der -- don del -- le gra -- vo -- se so -- me; __
     Deh spar -- gi~al ven -- to le do -- ra -- te chio -- me,
     Deh spar -- gi~al ven -- to le do -- ra -- te chio -- me,
         le do -- ra -- te chio -- me,
@@ -100,8 +100,8 @@ altoLyricsIX = \lyricmode {
     Più fu -- ga -- ce che cer -- va,
     Ed __ a me,
     Ed a me più __ pro -- ter -- va
-    Ch’a Pan non fu co -- lei __ che vin -- ta~e stan -- ca,
-    Per gui -- der -- don del -- le __ gra -- vo -- se so -- me,  __
+    Ch’a Pan non fu co -- lei __ che vin -- ta~e stan -- ca
+    Per gui -- der -- don del -- le __ gra -- vo -- se so -- me;  __
     Deh spar -- gi~al ven -- to le do -- ra -- te chio -- me,
     Deh __ spar -- gi~al ven -- to le do -- ra -- te chio -- me,
         le do -- ra -- te chio -- me.
@@ -142,9 +142,9 @@ tenoreLyricsIX = \lyricmode {
     Più fu -- ga -- ce che cer -- va,
     Ed __ a me,
     Ed a me più pro -- ter -- va
-    Ch’a Pan non fu co -- lei che vin -- ta~e stan -- ca,
+    Ch’a Pan non fu co -- lei che vin -- ta~e stan -- ca
     Di -- ven -- ne can -- na tre -- mu -- la~e sot -- ti -- le
-    Per gui -- der -- don del -- le gra -- vo -- se so -- me, 
+    Per gui -- der -- don del -- le gra -- vo -- se so -- me; 
     Deh __ spar -- gi~al ven -- to le do -- ra -- te chio -- me,
     Deh spar -- gi~al ven -- to le do -- ra -- te chio -- me,
     Deh __ spar -- gi~al ven -- to le do -- ra -- te chio -- me.
@@ -177,7 +177,7 @@ bassoLyricsIX = \lyricmode {
     Ed a me,
     Ed __ a me,
     Ed a me più pro -- ter -- va
-    Per gui -- der -- don del -- le gra -- vo -- se so -- me, 
+    Per gui -- der -- don del -- le gra -- vo -- se so -- me; 
         le do -- ra -- te chio -- me,
     Deh __ spar -- gi~al ven -- to le do -- ra -- te chio -- me,
     Deh __ spar -- gi~al ven -- to le do -- ra -- te chio -- me.
@@ -231,7 +231,7 @@ quintoLyricsIX = \lyricmode {
         e stan -- ca
     Di -- ven -- ne can -- na tre -- mu -- la~e sot -- ti -- le
         tre -- mu -- la~e sot -- ti -- le
-    Per gui -- der -- don del -- le __ gra -- vo -- se so -- me, 
+    Per gui -- der -- don del -- le __ gra -- vo -- se so -- me; 
     Deh __ spar -- gi~al ven -- to le do -- ra -- te chio -- me,
     Deh __ spar -- gi~al ven -- to le do -- ra -- te chio -- me,
         le do -- ra -- te chio -- me, __

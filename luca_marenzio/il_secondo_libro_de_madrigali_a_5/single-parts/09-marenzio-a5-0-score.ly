@@ -13,7 +13,7 @@
     title = "Fillida mia, più che i ligustri bianca"
     folio = \markup { Jacopo Sannazaro, \italic { Arcadia, } Ecloga II }
     instrument = "Fillida mia (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -88,18 +88,30 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
+            % translation: 2024-05-14
             \column {
                 \line { Fillida mia, più che i ligustri bianca, }
-                \line { Più vermiglia che’l prato a mezzo aprile, }
-                \line { Più fugace che cerva, }
-                \line { Ed a me più proterva }
-                \line { Ch’a Pan non fu colei che vinta e stanca }
-                \line { Divenne canna tremula e sottile, }
+                \line { più vermiglia che’l prato a mezzo aprile, }
+                \line { più fugace che cerva, }
+                \line { ed a me più proterva }
+                \line { ch’a Pan non fu colei che vinta e stanca }
+                \line { divenne canna tremula e sottile; }
                 \line { Per guiderdon delle gravose some, }
-                \line { Deh spargi al vento le dorate chiome. }
+                \line { deh! spargi al vento le dorate chiome. }
             }
+            \column {
+                \line { My Fillida, more white than privets, }
+                \line { more rosy than the meadow in mid-April, }
+                \line { more fleeting than deer, }
+                \line { and to me more obstinate }
+                \line { than \auto-footnote "she" \italic "'she' here refers to Syrinx, the nymph pursed by Pan, who threw herself into a river and was changed into a hollow reed, which Pan used to make panpipes." was to Pan, when she, defeated and weary, }
+                \line { was transformed into a slight and trembling weed; }
+                \line { In reward for my heavy burdens, }
+                \line { ah! let loose your golden locks in the wind. }
+                \line { \hspace #10 \italic { translation by editor } }
+            }
+
         }
     }
 }

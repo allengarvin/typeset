@@ -26,7 +26,7 @@ cantoVI = \relative c'' {
 }
 
 cantoLyricsVI = \lyricmode {
-    A -- mor, poi che non vuo -- le
+    A -- mor, poi -- ché non vuo -- le
     La bel -- la Don -- na,
     La bel -- la Don -- na, a cui nol dir giu -- ra -- i, 
         a cui nol dir giu -- ra -- i, 
@@ -78,7 +78,7 @@ altoVI = \relative c' {
 }
 
 altoLyricsVI = \lyricmode {
-    A -- mor, poi che non vuo -- le
+    A -- mor, poi -- ché non vuo -- le
     La bel -- la Don -- na,
     La bel -- la Don -- na, a cui nol dir giu -- ra -- i, 
         a cui nol dir giu -- ra -- i, 
@@ -119,7 +119,7 @@ tenoreVI = \relative c' {
 }
 
 tenoreLyricsVI = \lyricmode {
-    A -- mor, poi che non vuo -- le
+    A -- mor, poi -- ché non vuo -- le
     La bel -- la Don -- na, a cui nol dir giu -- ra -- i, 
         a cui nol dir giu -- ra -- i, 
     Ch'io di -- ca,
@@ -158,7 +158,7 @@ bassoVI = \relative c {
 }
 
 bassoLyricsVI = \lyricmode {
-    A -- mor, poi che non vuo -- le
+    A -- mor, poi -- ché non vuo -- le
     La bel -- la Don -- na, a cui nol dir giu -- ra -- i, 
     Al -- men, __
     Al -- men di tu,
@@ -202,9 +202,9 @@ quintoVI = \relative c'' {
 }
 
 quintoLyricsVI = \lyricmode {
-    A -- mor, poi che non vuo -- le
+    A -- mor, poi -- ché non vuo -- le
     La bel -- la Don -- na,
-        poi che non vuo -- le
+        poi -- ché non vuo -- le
     La bel -- la Don -- na, a cui nol dir giu -- ra -- i, 
         a cui nol dir giu -- ra -- i, 
     Ch'io di -- ca,

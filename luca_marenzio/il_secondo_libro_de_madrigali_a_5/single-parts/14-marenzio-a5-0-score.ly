@@ -22,7 +22,7 @@
     flats = 0
     final = "c"
     shorttitle = "strider_faceva_le_zampogne"
-    categories = "[madrigal]"
+    categories = "[madrigal,pastoral,dawn,birds,bagpipe]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -88,17 +88,27 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
             \column {
                 \line { Strider faceva le zampogne a l'aura }
                 \line { il Pastorel di Filli o per Ne era, }
                 \line { se più pregiando quel che diede a Laura }
-                \line { d'onesto amor perpetua lode e vera, }
-                \line { quando a l'alba Titon le chiome inaura }
+                \line { d'onesto amor perpetua lode e vera. }
+                \line { Quando a l'alba Titon le chiome inaura }
                 \line { a salutar la nuova Primavera }
                 \line { fuor di fiorite siepi a d'arborscelli }
                 \line { uscian cantando mille vaghi augelli. }
+            }
+            \column {
+                \line { The Shepherd wailed his bagpipes in the wind, }
+                \line { for Filli or [perhaps] for Ne, }
+                \line { while more honoring he who gave to Laura }
+                \line { virtuous love and perpetual and true praise1 }
+                \line { When at dawn Tithonus gilds his locks }
+                \line { to greet the new Spring, }
+                \line { out of flowering hedges and shrubs, }
+                \line { a thousand lovely birds come singing. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

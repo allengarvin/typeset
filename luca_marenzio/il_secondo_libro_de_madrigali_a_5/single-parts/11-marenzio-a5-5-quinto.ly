@@ -12,7 +12,7 @@
 \header {
     % Things that change per piece:
     title = "Itene à l’ombra de gli ameni faggi"
-    folio = "Anonymous poet"
+    folio = "Giusto de Conti (1390-1449)"
 
     % Things that change per part:
     partname = "Quinto (part 2 of 5)"

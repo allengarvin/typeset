@@ -13,7 +13,7 @@
     title = "Amor, io non potrei"
     instrument = "Amor, io non potrei (score)"
     language = "italian"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Rime} madrigale III }
 
     % Unchanging:
@@ -88,21 +88,34 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
             \column {
                 \line { Amor, io non potrei }
-                \line{ \hspace #2.5  Aver da te se non ricca mercede, }
-                \line{ \hspace #2.5  Poi che quanto amo lei, Madonna il vede. }
+                \line { aver da te se non ricca mercede, }
+                \line { poiché quanto amo lei, Madonna il vede. }
                 \line { Deh! fa ch’ella sappia anco, }
-                \line{ \hspace #2.5  Quel che forse non crede, quanto io sia }
-                \line{ \hspace #2.5  Già presso a venir manco, }
-                \line{ \hspace #2.5  Se più nascosa è a lei la pena mia. }
-                \line{ \hspace #2.5  Ch’ella lo sappia, fia }
-                \line{ \hspace #2.5  Tanto sollevamento a’ dolor miei, }
-                \line{ \hspace #2.5  Ch’io ne vivrò, dove or me ne morrei. }
+                \line { quel che forse non crede, quanto io sia }
+                \line { già presso a venir manco: }
+                \line { se pur nascosa è a lei la pena mia. }
+                \line { Ch’ella lo sappia fia }
+                \line { tanto sollevamento a’ dolor miei, }
+                \line { ch’io ne vivrò, dov'or me ne morrei. }
+            }
+            \column {
+                \line { Love, I could not }
+                \line { have from you aught but rich reward, }
+                \line { since how I love her, my Lady sees. }
+                \line { Ah! Make her yet know }
+                \line { that which she haps does not believe, how I am }
+                \line { already close to fading away: }
+                \line { if my pain is also hidden from her. }
+                \line { That she knows of it, it would be  }
+                \line { such relief to my suffering, }
+                \line { that I will life by it, whereas now I would die of it. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
 }
+
 

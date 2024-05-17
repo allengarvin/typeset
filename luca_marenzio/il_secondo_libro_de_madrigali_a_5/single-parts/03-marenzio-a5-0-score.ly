@@ -14,7 +14,7 @@
     subtitle = "Terza ed Ultima parte"
     folio = "Anonymous poet"
     instrument = "Ma voi, caro ben mio (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -91,13 +91,23 @@
     \markup {
         \vspace #4
         \fill-line {
+            % translation: 2024-05-13 unhappy with last 2 lines.
             \column {
                 \line { Ma voi, caro ben mio, }
-                \line { Caso che’l corpo poca terra chiuda }
-                \line { Sarete mai sì cruda }
-                \line { Di non darmi un sospir cortese e pio. }
+                \line { caso che’l corpo poca terra chiuda, }
+                \line { sarete mai sì cruda }
+                \line { di non darmi un sospir cortese e pio? }
                 \line { Fate che la mercede }
-                \line { Sia quella almen della mia pura fede. }
+                \line { sia quella almen della mia pura fede. }
+            }
+            \column { 
+                \line { But you, my dearest, }
+                \line { if by hap my body by a bit of earth be covered, }
+                \line { Will you ever be so cruel }
+                \line { so as to grant me a sigh, courteaous and pious? }
+                \line { Give me that mercy }
+                \line { that at least matches my pure faith. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

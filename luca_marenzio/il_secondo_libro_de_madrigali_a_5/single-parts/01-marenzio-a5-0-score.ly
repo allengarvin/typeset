@@ -14,7 +14,7 @@
     subtitle = "Prima parte"
     folio = "Anonymous poet"
     instrument = "Deggio dunque (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -89,15 +89,25 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
+            % touchup of italian: 2024-05-13
+            % translation: 2024-05-13
             \column {
-                \line { Deggio dunque partire Lasso }
-                \line { Dal mio bel sol che mi da vita? }
-                \line { Ohimè che mi consola e chi m’aita }
-                \line { In cosi gran martire? }
-                \line { Ahi, che partir pur deggio  }
-                \line { La mia fortuna or che mi può far peggio.  }
+                \line { Deggio dunque partire, }
+                \line { lasso, dal mio bel sol che mi da vita? }
+                \line { Ohimè! chi mi consola e chi m’aita }
+                \line { in così gran martire? }
+                \line { Ahi, che partir pur deggio }
+                \line { la mia fortuna or che mi può far peggio.  }
+            }
+            \column { 
+                \line { Must I hence depart, }
+                \line { alas, from my beautiful sun who gives me life? }
+                \line { Ah! who will console me and who will help me }
+                \line { in such great torment? }
+                \line { Ah, because I must indeed depart }
+                \line { my fortune now may do me worse. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

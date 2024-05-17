@@ -11,7 +11,9 @@
 \header {
     % Things that change per piece:
     title = "Itene à l’ombra de gli ameni faggi"
-    folio = "Anonymous poet"
+    folio = "Giusto de Conti (1390-1449)"
+    poeticform = "terza rima"
+
     instrument = "Itene à l’ombra (score)"
     needtranslation = #'t
     language = "italian"
@@ -22,7 +24,7 @@
     flats = 0
     final = "c"
     shorttitle = "itene_a_lombra"
-    categories = "[madrigal]"
+    categories = "[madrigal,pastoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -88,18 +90,30 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
+            % translation: 2024-05-17
             \column {
-                \line { Itene à l’ombra de gli ameni faggi, }
-                \line { Pasciute peccorelle omai che’l sole }
-                \line { Su’l  mezzo giorno indrizza i caldi raggi }
+                \line { Itene all’ombra degli ameni faggi, }
+                \line { pasciute pecorelle, omai che’l sole }
+                \line { sul mezzo giorno indrizza i caldi raggi.}
                 \line { Ivi udirete l’alte mie parole }
-                \line { Lodar gli occhi sereni e treccie bionde }
-                \line { Le mani e le bellezze al mondo sole }
-                \line { Mentre il mio canto e’l mormorar de l’onde }
-                \line { S’accorderanno e voi di passo in passo }
-                \line { Ite pascendo fiori, erbette e fronde. }
+                \line { lodar gli occhi sereni e treccie bionde }
+                \line { le mani e le bellezze al mondo sole; }
+                \line { Mentre il mio canto e’l mormorar dell’onde }
+                \line { s’accorderanno e voi di passo in passo }
+                \line { ite pascendo fiori, erbette e fronde. }
+            }
+            \column {
+                \line { Go under the shade of the pleasing beeches, }
+                \line { O well-grazed sheet, now that the sun }
+                \line { in mid-day sends its hot rays. }
+                \line { There you will hear my lofty words }
+                \line { laud her serene eyes and blond tresses, }
+                \line { her hands and beauties, unique to the world; }
+                \line { while my song and the murmering of the waves }
+                \line { join in harmony, and you step by step }
+                \line { go grazing on flowers, grasses and leaves. }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }
