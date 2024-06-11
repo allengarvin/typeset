@@ -8,7 +8,7 @@
 \include "../include/scheme.ly"
 \include "../include/vocal-layout-parts-barring.ly"
 
-#(set-global-staff-size 18.6)
+#(set-global-staff-size 18.0)
     
 \include "../parts/01-monteverdi-a5-madrigal.ly"
 \include "../parts/02-monteverdi-a5-madrigal.ly"
@@ -33,32 +33,32 @@
 \include "../parts/21-monteverdi-a5-madrigal.ly"
 
 \header {
-    instrument = "Voice I"
+    instrument = "Voice IV"
     booktitle = \markup { \italic { Il secondo libro de madrigali a cinque voci di Claudio Monteverde Cremonese } (Venezia: Angelo Gardano press, 1590) }
 }
 
 \book {
         \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoI
+                \tenoreI
             >>
-         \addlyrics { \cantoLyricsI }
+         \addlyrics { \tenoreLyricsI }
         \header {
             piece = "Non si levava ancor l'alba novella"
             subpiece = "Prima parte"
             folio = \markup { Torquato Tasso, \italic{Rime} 273 }
         }
     }
-    %\pageBreak
+    \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoII
+                \tenoreII
             >>
-         \addlyrics { \cantoLyricsII }
+         \addlyrics { \tenoreLyricsII }
         \header {
             piece = "E dicea l'una sospirando allora"
             subpiece = "Seconda parte"
@@ -68,11 +68,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoIII
+                \tenoreIII
             >>
-         \addlyrics { \cantoLyricsIII }
+         \addlyrics { \tenoreLyricsIII }
         \header {
             piece = "Bevea Fillide mia"
             folio = "Girolamo Casoni (c.1528-1592)"
@@ -81,11 +81,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoIV
+                \tenoreIV
             >>
-         \addlyrics { \cantoLyricsIV }
+         \addlyrics { \tenoreLyricsIV }
         \header {
             piece = "Dolcissimi legami"
             folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
@@ -94,11 +94,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoV
+                \tenoreV
             >>
-         \addlyrics { \cantoLyricsV }
+         \addlyrics { \tenoreLyricsV }
         \header {
             piece = "Non giacinti o narcisi"
             folio = "Girolamo Casoni (c.1528-1592)"
@@ -107,11 +107,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoVI
+                \tenoreVI
             >>
-         \addlyrics { \cantoLyricsVI }
+         \addlyrics { \tenoreLyricsVI }
         \header {
             piece = "Intorno a due vermiglie e vaghe labra"
         }
@@ -119,11 +119,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoVII
+                \tenoreVII
             >>
-         \addlyrics { \cantoLyricsVII }
+         \addlyrics { \tenoreLyricsVII }
         \header {
             piece = "Non sono in queste rive"
             folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
@@ -132,11 +132,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoVIII
+                \tenoreVIII
             >>
-         \addlyrics { \cantoLyricsVIII }
+         \addlyrics { \tenoreLyricsVIII }
         \header {
             piece = "Tutte le bocche belle"
             folio = "Filippo Alberti (1548-1612)"
@@ -145,11 +145,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoIX
+                \tenoreIX
             >>
-         \addlyrics { \cantoLyricsIX }
+         \addlyrics { \tenoreLyricsIX }
         \header {
             piece = "Donna, nel mio ritorno"
             folio = \markup { Torquato Tasso, \italic{Rime per Laura Peperara}  }
@@ -158,11 +158,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoX
+                \tenoreX
             >>
-         \addlyrics { \cantoLyricsX }
+         \addlyrics { \tenoreLyricsX }
         \header {
             piece = "Quell’ombra esser vorrei"
             folio = "Girolamo Casoni (c.1528-1592)"
@@ -171,11 +171,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef treble
+                \clef "treble_8"
                 \global
-                \cantoXI
+                \tenoreXI
             >>
-            \addlyrics { \cantoLyricsXI }
+            \addlyrics { \tenoreLyricsXI }
         \header {
             piece = "S’andasse amor a caccia"
             folio = "Torquato Tasso (1544-1595)"
@@ -184,11 +184,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXII
+                \tenoreXII
             >>
-         \addlyrics { \cantoLyricsXII }
+         \addlyrics { \tenoreLyricsXII }
         \header {
             piece = "Mentre io mirava fisso"
             folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
@@ -197,11 +197,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXIII
+                \tenoreXIII
             >>
-         \addlyrics { \cantoLyricsXIII }
+         \addlyrics { \tenoreLyricsXIII }
         \header {
             piece = "Se tu mi lassi, perfida"
             folio = \markup { Torquato Tasso, \italic { Rime amorose composte ad istanza d'altri } }
@@ -210,11 +210,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXIV
+                \tenoreXIV
             >>
-         \addlyrics { \cantoLyricsXIV }
+         \addlyrics { \tenoreLyricsXIV }
         \header {
             piece = "Ecco mormorar l'onde"
             folio = \markup { Torquato Tasso, \italic{Rime per Laura Peperara}  }
@@ -223,11 +223,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXV
+                \tenoreXV
             >>
-         \addlyrics { \cantoLyricsXV }
+         \addlyrics { \tenoreLyricsXV }
         \header {
             piece = "La bocca onde l’asprissime parole"
             folio = "Ercole Bentivoglio (1507-1573)"
@@ -236,11 +236,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXVI
+                \tenoreXVI
             >>
-         \addlyrics { \cantoLyricsXVI }
+         \addlyrics { \tenoreLyricsXVI }
         \header {
             piece = "Dolcemente dormiva la mia Clori"
             folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
@@ -249,11 +249,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXVII
+                \tenoreXVII
             >>
-         \addlyrics { \cantoLyricsXVII }
+         \addlyrics { \tenoreLyricsXVII }
         \header {
             piece = "Crudel, perché mi fuggi?"
             folio = "Giovanni Battista Guarini (1538-1612)"
@@ -262,11 +262,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXVIII
+                \tenoreXVIII
             >>
-         \addlyrics { \cantoLyricsXVIII }
+         \addlyrics { \tenoreLyricsXVIII }
         \header {
             piece = "Questo specchio ti dono"
             folio = "Girolamo Casoni (c.1528-1592)"
@@ -275,11 +275,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXIX
+                \tenoreXIX
             >>
-         \addlyrics { \cantoLyricsXIX }
+         \addlyrics { \tenoreLyricsXIX }
         \header {
             piece = "Non mi è grave il morire"
             folio = "Bartolomeo Gottifredi (c.1500-c.1570)"
@@ -288,11 +288,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXX
+                \tenoreXX
             >>
-         \addlyrics { \cantoLyricsXX }
+         \addlyrics { \tenoreLyricsXX }
         \header {
             piece = "Ti spontò l'ali, Amor, la donna mia"
             folio = "Filippo Alberti (1548-1612)"
@@ -301,11 +301,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXXI
+                \tenoreXXI
             >>
-         \addlyrics { \cantoLyricsXXI }
+         \addlyrics { \tenoreLyricsXXI }
         \header {
             piece = "Cantai un tempo e se fu dolce il canto"
             folio = "Pietro Bembo (1470 – 1547)"

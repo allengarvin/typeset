@@ -8,7 +8,7 @@
 \include "../include/scheme.ly"
 \include "../include/vocal-layout-parts-barring.ly"
 
-#(set-global-staff-size 18.6)
+#(set-global-staff-size 18.5)
     
 \include "../parts/01-monteverdi-a5-madrigal.ly"
 \include "../parts/02-monteverdi-a5-madrigal.ly"
@@ -33,7 +33,7 @@
 \include "../parts/21-monteverdi-a5-madrigal.ly"
 
 \header {
-    instrument = "Voice I"
+    instrument = "Voice II"
     booktitle = \markup { \italic { Il secondo libro de madrigali a cinque voci di Claudio Monteverde Cremonese } (Venezia: Angelo Gardano press, 1590) }
 }
 
@@ -42,23 +42,23 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoI
+                \quintoI
             >>
-         \addlyrics { \cantoLyricsI }
+         \addlyrics { \quintoLyricsI }
         \header {
             piece = "Non si levava ancor l'alba novella"
             subpiece = "Prima parte"
             folio = \markup { Torquato Tasso, \italic{Rime} 273 }
         }
     }
-    %\pageBreak
+    \pageBreak
     \score {
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoII
+                \quintoII
             >>
-         \addlyrics { \cantoLyricsII }
+         \addlyrics { \quintoLyricsII }
         \header {
             piece = "E dicea l'una sospirando allora"
             subpiece = "Seconda parte"
@@ -70,9 +70,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoIII
+                \quintoIII
             >>
-         \addlyrics { \cantoLyricsIII }
+         \addlyrics { \quintoLyricsIII }
         \header {
             piece = "Bevea Fillide mia"
             folio = "Girolamo Casoni (c.1528-1592)"
@@ -83,9 +83,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoIV
+                \quintoIV
             >>
-         \addlyrics { \cantoLyricsIV }
+         \addlyrics { \quintoLyricsIV }
         \header {
             piece = "Dolcissimi legami"
             folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
@@ -96,9 +96,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoV
+                \quintoV
             >>
-         \addlyrics { \cantoLyricsV }
+         \addlyrics { \quintoLyricsV }
         \header {
             piece = "Non giacinti o narcisi"
             folio = "Girolamo Casoni (c.1528-1592)"
@@ -109,9 +109,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoVI
+                \quintoVI
             >>
-         \addlyrics { \cantoLyricsVI }
+         \addlyrics { \quintoLyricsVI }
         \header {
             piece = "Intorno a due vermiglie e vaghe labra"
         }
@@ -121,9 +121,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoVII
+                \quintoVII
             >>
-         \addlyrics { \cantoLyricsVII }
+         \addlyrics { \quintoLyricsVII }
         \header {
             piece = "Non sono in queste rive"
             folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
@@ -134,9 +134,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoVIII
+                \quintoVIII
             >>
-         \addlyrics { \cantoLyricsVIII }
+         \addlyrics { \quintoLyricsVIII }
         \header {
             piece = "Tutte le bocche belle"
             folio = "Filippo Alberti (1548-1612)"
@@ -147,9 +147,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoIX
+                \quintoIX
             >>
-         \addlyrics { \cantoLyricsIX }
+         \addlyrics { \quintoLyricsIX }
         \header {
             piece = "Donna, nel mio ritorno"
             folio = \markup { Torquato Tasso, \italic{Rime per Laura Peperara}  }
@@ -160,9 +160,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoX
+                \quintoX
             >>
-         \addlyrics { \cantoLyricsX }
+         \addlyrics { \quintoLyricsX }
         \header {
             piece = "Quell’ombra esser vorrei"
             folio = "Girolamo Casoni (c.1528-1592)"
@@ -171,11 +171,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef treble
+                \clef "treble"
                 \global
-                \cantoXI
+                \quintoXI
             >>
-            \addlyrics { \cantoLyricsXI }
+            \addlyrics { \quintoLyricsXI }
         \header {
             piece = "S’andasse amor a caccia"
             folio = "Torquato Tasso (1544-1595)"
@@ -186,9 +186,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoXII
+                \quintoXII
             >>
-         \addlyrics { \cantoLyricsXII }
+         \addlyrics { \quintoLyricsXII }
         \header {
             piece = "Mentre io mirava fisso"
             folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
@@ -199,9 +199,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoXIII
+                \quintoXIII
             >>
-         \addlyrics { \cantoLyricsXIII }
+         \addlyrics { \quintoLyricsXIII }
         \header {
             piece = "Se tu mi lassi, perfida"
             folio = \markup { Torquato Tasso, \italic { Rime amorose composte ad istanza d'altri } }
@@ -212,9 +212,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoXIV
+                \quintoXIV
             >>
-         \addlyrics { \cantoLyricsXIV }
+         \addlyrics { \quintoLyricsXIV }
         \header {
             piece = "Ecco mormorar l'onde"
             folio = \markup { Torquato Tasso, \italic{Rime per Laura Peperara}  }
@@ -225,9 +225,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoXV
+                \quintoXV
             >>
-         \addlyrics { \cantoLyricsXV }
+         \addlyrics { \quintoLyricsXV }
         \header {
             piece = "La bocca onde l’asprissime parole"
             folio = "Ercole Bentivoglio (1507-1573)"
@@ -238,9 +238,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoXVI
+                \quintoXVI
             >>
-         \addlyrics { \cantoLyricsXVI }
+         \addlyrics { \quintoLyricsXVI }
         \header {
             piece = "Dolcemente dormiva la mia Clori"
             folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
@@ -251,9 +251,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoXVII
+                \quintoXVII
             >>
-         \addlyrics { \cantoLyricsXVII }
+         \addlyrics { \quintoLyricsXVII }
         \header {
             piece = "Crudel, perché mi fuggi?"
             folio = "Giovanni Battista Guarini (1538-1612)"
@@ -262,11 +262,11 @@
     \pageBreak
     \score {
             \new Voice <<
-                \clef "treble"
+                \clef "treble_8"
                 \global
-                \cantoXVIII
+                \quintoXVIII
             >>
-         \addlyrics { \cantoLyricsXVIII }
+         \addlyrics { \quintoLyricsXVIII }
         \header {
             piece = "Questo specchio ti dono"
             folio = "Girolamo Casoni (c.1528-1592)"
@@ -277,9 +277,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoXIX
+                \quintoXIX
             >>
-         \addlyrics { \cantoLyricsXIX }
+         \addlyrics { \quintoLyricsXIX }
         \header {
             piece = "Non mi è grave il morire"
             folio = "Bartolomeo Gottifredi (c.1500-c.1570)"
@@ -290,9 +290,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoXX
+                \quintoXX
             >>
-         \addlyrics { \cantoLyricsXX }
+         \addlyrics { \quintoLyricsXX }
         \header {
             piece = "Ti spontò l'ali, Amor, la donna mia"
             folio = "Filippo Alberti (1548-1612)"
@@ -303,9 +303,9 @@
             \new Voice <<
                 \clef "treble"
                 \global
-                \cantoXXI
+                \altoXXI
             >>
-         \addlyrics { \cantoLyricsXXI }
+         \addlyrics { \altoLyricsXXI }
         \header {
             piece = "Cantai un tempo e se fu dolce il canto"
             folio = "Pietro Bembo (1470 – 1547)"
