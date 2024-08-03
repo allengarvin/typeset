@@ -42,17 +42,17 @@ cantoI = \relative c'' {
 cantoLyricsI = \lyricmode {
     Ve -- sti -- va~i col -- li~e le cam -- pa -- gne~in -- tor -- no
         in -- tor -- no __
-    La pri -- ma -- ve -- ra di no -- vel -- li~ho -- no -- ri
-        ho -- no -- ri
+    La pri -- ma -- ve -- ra di no -- vel -- li~o -- no -- ri
+        o -- no -- ri
     E spi -- ra -- va soa -- vi A -- ra -- bi~o -- do -- ri, __
-    Cin -- ta d'her -- be~e di fron -- de~il crin a -- dor -- no,
+    Cin -- ta d'er -- be~e di fron -- de~il crin a -- dor -- no,
     Quan -- do Li -- co -- ri~a l'ap -- pa -- rir del gior -- no,
         del gior -- no, __
     Co -- glien -- do di sua man pur -- pu -- rei fio -- ri,
         pur -- pu -- rei fio -- ri,
     Mi dis -- se~in gui -- dar -- don di tan -- ti~ar -- do -- ri:
-    A te li col -- go~et ec -- co~io te n'a -- dor -- no,
-    A te li col -- go~et ec -- co~io te n'a -- dor -- no.
+    A te li col -- go~ed ec -- co~io te n'a -- dor -- no,
+    A te li col -- go~ed ec -- co~io te n'a -- dor -- no.
 }
 
 altoIincipit = \relative c' {
@@ -98,17 +98,17 @@ altoI = \relative c' {
 altoLyricsI = \lyricmode {
     Ve -- sti -- va~i col -- li~e le cam -- pa -- gne~in -- tor -- no
         in -- tor -- no __
-    La pri -- ma -- ve -- ra di no -- vel -- li~ho -- no -- ri
-        ho -- no -- ri
+    La pri -- ma -- ve -- ra di no -- vel -- li~o -- no -- ri
+        o -- no -- ri
     E spi -- ra -- va soa -- vi A -- ra -- bi~o -- do -- ri, __
-    Cin -- ta d'her -- be~e di fron -- de~il crin __ a -- dor -- no,
+    Cin -- ta d'er -- be~e di fron -- de~il crin __ a -- dor -- no,
     Quan -- do Li -- co -- ri~a l'ap -- pa -- rir del gior -- no,
         del __ gior -- no, __
     Co -- glien -- do di sua man pur -- pu -- rei fio -- ri,
         fio -- ri,
     Mi dis -- se~in gui -- dar -- don di tan -- ti~ar -- do -- ri: __
-    A te li col -- go~et ec -- co~io te __ n'a -- dor -- no,
-    A te li col -- go~et ec -- co~io te n'a -- dor -- no, __
+    A te li col -- go~ed ec -- co~io te __ n'a -- dor -- no,
+    A te li col -- go~ed ec -- co~io te n'a -- dor -- no, __
         io te n'a -- dor -- no. 
 }
 
@@ -148,15 +148,15 @@ tenoreI = \relative c' {
 tenoreLyricsI = \lyricmode {
     Ve -- sti -- va~i col -- li~e le cam -- pa -- gne~in -- tor -- no
         in -- tor -- no 
-    La pri -- ma -- ve -- ra di no -- vel -- li~ho -- no -- ri
+    La pri -- ma -- ve -- ra di no -- vel -- li~o -- no -- ri
     E spi -- ra -- va soa -- vi A -- ra -- bi~o -- do -- ri,  __
-    Cin -- ta d'her -- be~e di fron -- de~il crin __ a -- dor -- no,
+    Cin -- ta d'er -- be~e di fron -- de~il crin __ a -- dor -- no,
     Quan -- do Li -- co -- ri~a l'ap -- pa -- rir del gior -- no,
     Co -- glien -- do di sua man pur -- pu -- rei fio -- ri,
     Mi dis -- se~in gui -- dar -- don di tan -- ti~ar -- do -- ri: __
-    A te li col -- go~et ec -- co __ io te __ n'a -- dor -- no,
-    A te li col -- go~et ec -- co~io te n'a -- dor -- no,
-        et ec -- co~io te n'a -- dor -- no.
+    A te li col -- go~ed ec -- co __ io te __ n'a -- dor -- no,
+    A te li col -- go~ed ec -- co~io te n'a -- dor -- no,
+        ed ec -- co~io te n'a -- dor -- no.
 }
 
 bassoIincipit = \relative c {
@@ -191,18 +191,18 @@ bassoI = \relative c {
 
 bassoLyricsI = \lyricmode {
     Ve -- sti -- va~i col -- li~e le cam -- pa -- gne~in -- tor -- no
-    La pri -- ma -- ve -- ra di no -- vel -- li~ho -- no -- ri
+    La pri -- ma -- ve -- ra di no -- vel -- li~o -- no -- ri
     E spi -- ra -- va soa -- vi A -- ra -- bi~o -- do -- ri, 
         A -- ra -- bi~o -- do -- ri, 
-    Cin -- ta d'her -- be~e di fron -- de~il crin __ a -- dor -- no,
+    Cin -- ta d'er -- be~e di fron -- de~il crin __ a -- dor -- no,
     Quan -- do Li -- co -- ri~a l'ap -- pa -- rir del gior -- no,
     Co -- glien -- do di sua man pur -- pu -- rei fio -- ri,
     Mi dis -- se~in gui -- dar -- don di tan -- ti~ar -- do -- ri:
         di tan -- ti~ar -- do -- ri:
-    A te li col -- go~et ec -- co,
-        et ec -- co~io te n'a -- dor -- no,
-    A te li col -- go~et ec -- co~io te n'a -- dor -- no,
-        et ec -- co~io te n'a -- dor -- no.
+    A te li col -- go~ed ec -- co,
+        ed ec -- co~io te n'a -- dor -- no,
+    A te li col -- go~ed ec -- co~io te n'a -- dor -- no,
+        ed ec -- co~io te n'a -- dor -- no.
 }
 
 quintoIincipit = \relative c' {
@@ -241,18 +241,18 @@ quintoI = \relative c' {
 quintoLyricsI = \lyricmode {
     Ve -- sti -- va~i col -- li~e le cam -- pa -- gne~in -- tor -- no __
         in -- tor -- no 
-    La pri -- ma -- ve -- ra di no -- vel -- li~ho -- no -- ri
+    La pri -- ma -- ve -- ra di no -- vel -- li~o -- no -- ri
     E __ spi -- ra -- va soa -- vi A -- ra -- bi~o -- do -- ri, 
         A -- ra -- bi~o -- do -- ri, 
-    Cin -- ta d'her -- be~e di fron -- de~il crin a -- dor -- no,
+    Cin -- ta d'er -- be~e di fron -- de~il crin a -- dor -- no,
     Quan -- do Li -- co -- ri~a l'ap -- pa -- rir del gior -- no, __
         del gior -- no, 
     Co -- glien -- do di sua man pur -- pu -- rei fio -- ri,
     Mi dis -- se~in gui -- dar -- don di tan -- ti~ar -- do -- ri:
         di tan -- ti~ar -- do -- ri:
-    A te li col -- go~et ec -- co~io te n'a -- dor -- no,
-    A te li col -- go~et ec -- co, __
-        et ec -- co~io te n'a -- dor -- no.
+    A te li col -- go~ed ec -- co~io te n'a -- dor -- no,
+    A te li col -- go~ed ec -- co, __
+        ed ec -- co~io te n'a -- dor -- no.
 }
 
 cantoIincipitVoice = <<

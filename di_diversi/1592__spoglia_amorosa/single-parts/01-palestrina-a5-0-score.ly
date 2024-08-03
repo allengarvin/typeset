@@ -96,7 +96,7 @@
                 \line { quando Licori, a l'apparir del giorno, }
                 \line { cogliendo di sua man purpurei fiori, }
                 \line { mi disse in guidardon di tanti ardori: }
-                \line { A te li colgo et ecco, io te n'adorno. }
+                \line { A te li colgo ed ecco, io te n'adorno. }
             }
         }
     }

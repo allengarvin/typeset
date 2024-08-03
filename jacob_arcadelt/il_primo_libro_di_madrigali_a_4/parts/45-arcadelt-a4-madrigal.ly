@@ -88,7 +88,8 @@ altusXLV = \relative c' {
 
     d2 r4 d e f g e | f2 \ficta ef\unficta d d | 
         c2.( bf4 a1) | g2 r4 d' e f g e | f2 e d d |
-        c2.( bf4) a2 a | bf2.( c4) d2 e ~ | e( d c1) | bf\longa*1/2
+        c2.( bf4) a2 a | bf2.( c4) d2 e ~ | e( d c1) | \ficta b\longa*1/2
+    \unficta
 
     \bar "|."
 }

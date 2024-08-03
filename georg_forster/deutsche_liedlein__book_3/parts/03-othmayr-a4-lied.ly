@@ -1,8 +1,8 @@
 %Der Winter kalt ist vor dem Haus,
 %Wo soll ich Armer aus?
 %In diesem Strauß tu ich gar nit erschrekken
-%Es kommt ein libe Zeit, darauff ich hart 
-%und peut mit gar fröhlichem Mut
+%Es kommt ein libe Zeit, darauff ich harr 
+%und beut mit gar fröhlichem Mut
 %Es ist ein hübsches Fräulein das mich erfreuen tut!
 
 discantusIIIincipit = \relative c'' {
@@ -40,8 +40,8 @@ discantusLyricsIII = \lyricmode {
     \normalLyrics 
         ich Ar -- mer aus? 
     In die -- sem Strauß tu ich gar __ nit er -- schrek -- ken
-    Es kommt ein li -- be Zeit, da -- rauff ich hart 
-    und peut mit gar fröh -- li -- chem Mut
+    Es kommt ein li -- be Zeit, da -- rauff ich harr 
+    und beut mit gar fröh -- li -- chem Mut
     Es ist ein hüb -- sches Fräu -- lein das mich er -- freu -- en tut,
     es ist ein hüb -- sches Fräu -- lein das __ mich er -- freu -- en tut,
     es ist ein hüb -- sches Fräu -- lein das mich er -- freu -- en tut.
@@ -84,9 +84,9 @@ altusLyricsIII = \lyricmode {
     \normalLyrics
     In die -- sem Strauß tu ich gar nit er -- schrek -- ken,
         er -- schrek -- ken
-    Es kommt ein li -- be Zeit, __ da -- rauff ich hart
-        da -- rauff ich hart
-    und peut mit gar fröh -- li -- chem Mut,
+    Es kommt ein li -- be Zeit, __ da -- rauff ich harr
+        da -- rauff ich harr
+    und beut mit gar fröh -- li -- chem Mut,
         mit gar __ fröh -- li -- chem Mut
     Es ist ein hüb -- sches Fräu -- lein das mich __ er -- freu -- en tut,
         das mich er -- freu -- en tut,
@@ -130,7 +130,7 @@ tenorLyricsIII = \lyricmode {
     Der Win -- ter kalt __ ist vor __ dem Haus,
     Wo soll ich Ar -- mer aus?
     In die -- sem Strauß tu ich __ gar nit er -- schrek -- ken
-    Es kommt ein li -- be Zeit, da -- rauff ich hart und peut 
+    Es kommt ein li -- be Zeit, da -- rauff ich harr und beut 
         mit gar fröh -- li -- chem Mut
     Es ist ein hüb -- sches Fräu -- lein das mich er -- freu -- en tut,
     es ist ein hüb -- sches Fräu -- lein das mich er -- freu -- en tut.
@@ -171,8 +171,8 @@ bassusLyricsIII = \lyricmode {
     wo soll ich Ar -- mer aus?
     \normalLyrics
     In die -- sem Strauß tu ich gar __ nit er -- schrek -- ken
-    Es kommt ein li -- be Zeit, da -- rauff __ ich hart
-    und peut mit gar fröh -- li -- chem Mut
+    Es kommt ein li -- be Zeit, da -- rauff __ ich harr
+    und beut mit gar fröh -- li -- chem Mut
     Es ist ein hüb -- sches Fräu -- lein das mich __ er -- freu -- en tut,
     \ijLyrics
         das mich er -- freu -- en __ tut,

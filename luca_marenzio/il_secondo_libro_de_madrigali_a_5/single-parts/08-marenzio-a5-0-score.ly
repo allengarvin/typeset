@@ -6,8 +6,8 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 22.0)
-%#(set-global-staff-size 15.0)
+%#(set-global-staff-size 22.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:

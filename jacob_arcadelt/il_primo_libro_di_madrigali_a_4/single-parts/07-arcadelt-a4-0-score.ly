@@ -98,7 +98,7 @@
             }
             \column {
                 \line { You look at the sky, blessed and holy eyes }
-                \line { with your clear light and with your songs; }
+                \line { with your clear light and with my songs; }
                 \line { And I, who am frozen, }
                 \line { without a single comfort, }
                 \line { I wish I could fly, }

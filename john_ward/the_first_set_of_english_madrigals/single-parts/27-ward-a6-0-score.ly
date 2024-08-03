@@ -10,11 +10,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Comes, sable night"
+    title = "Come, sable night"
     subtitle = ""
-    instrument = "Comes, sable night:  (score)"
+    instrument = "Come, sable night:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "comes_sable_night"
+    shorttitle = "come_sable_night"
     shortcomp = "ward"
 
     % Unchanging:
@@ -31,7 +31,7 @@
 \include "../parts/27-ward-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "27-ward--comes_sable_night-"
+    \bookOutputName "27-ward--come_sable_night-"
     \bookOutputSuffix "--0-score"
     \score {
          <<

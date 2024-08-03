@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Questa di verdi erbette"
     instrument = "Questa di verdi erbette (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
 
@@ -91,12 +91,23 @@
             \column {
                 \line { Questa di verdi erbette }
                 \line { e di novelli fior tessuta or ora }
-                \line { vaga e gentil ghirlanda }
-                \line { giovin pastor ti manda }
+                \line { vaga e gentil ghirlanda, }
+                \line { giovin pastor, ti manda }
                 \line { l'amata e bella Flora, }
                 \line { che con le sue caprette }
                 \line { sta in riva al Tebro soggiornando e dice, }
                 \line { ch'ivi or t'aspetta e ti vo' far felice. }
+            }
+            \column {
+                \line { Just now woven of green herbs }
+                \line { and of fresh flowers, }
+                \line { this lovely and dainty garland, }
+                \line { is sent to you, O youthful shepherd, }
+                \line { by your beloved and beautiful Flora, }
+                \line { who with her young goats, }
+                \line { tarries on the banks of the Tiber and says }
+                \line { that she now awaits you and wishes to make you happy. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

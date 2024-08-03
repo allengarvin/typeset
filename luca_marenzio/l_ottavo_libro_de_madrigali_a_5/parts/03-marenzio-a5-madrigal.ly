@@ -14,6 +14,7 @@
 % Torquato Tasso
 
 % Verso sciolto
+
 cantoIIIincipit = \relative c' {
     \clef "petrucci-c1"
     \key f \major

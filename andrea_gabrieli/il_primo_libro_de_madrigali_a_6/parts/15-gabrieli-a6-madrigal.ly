@@ -37,9 +37,9 @@ cantoXV = \relative c'' {
 cantoLyricsXV = \lyricmode {
     Las -- so, a -- mor mi tra -- spor -- ta 
         a -- mor mi tra -- spor -- ta 
-        ov' io __ non vo -- glio,
-    Et ben m'ac -- cor -- go 
-    Et ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
+        o -- v'io __ non vo -- glio,
+    E ben m'ac -- cor -- go 
+    E ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
     % onde, a chi nel mio cor siede monarca,
     Son im -- por -- tu -- no~as -- sai più ch'i non so -- glio,
     Son im -- por -- tu -- no~as -- sai più ch'i non so -- glio,
@@ -88,9 +88,9 @@ altoXV = \relative c'' {
 
 altoLyricsXV = \lyricmode {
     Las -- so, a -- mor mi tra -- spor -- ta 
-        ov' io non vo -- glio,
-    Et ben m'ac -- cor -- go 
-    Et ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
+        o -- v'io non vo -- glio,
+    E ben m'ac -- cor -- go 
+    E ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
     On -- de~a chi nel mio cor sie -- de mo -- nar -- ca,
     Son im -- por -- tu -- no~as -- sai
     Son im -- por -- tu -- no~as -- sai
@@ -144,9 +144,9 @@ tenoreXV = \relative c' {
 tenoreLyricsXV = \lyricmode {
     Las -- so, 
     Las -- so, a -- mor mi tra -- spor -- ta 
-        ov' io non vo -- glio,
-    Et ben m'ac -- cor -- go 
-    Et ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
+        o -- v'io non vo -- glio,
+    E ben m'ac -- cor -- go 
+    E ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
     On -- de~a chi nel mio cor sie -- de mo -- nar -- ca,
     Son im -- por -- tu -- no~as -- sai
     Son im -- por -- tu -- no~as -- sai più ch'i non so -- glio,
@@ -188,9 +188,9 @@ bassoXV = \relative c' {
 
 bassoLyricsXV = \lyricmode {
     Las -- so, a -- mor mi tra -- spor -- ta 
-        ov' io non vo -- glio,
-    Et ben m'ac -- cor -- go 
-    Et ben m'ac -- cor -- go ch'il __ de -- ver si var -- ca,
+        o -- v'io non vo -- glio,
+    E ben m'ac -- cor -- go 
+    E ben m'ac -- cor -- go ch'il __ de -- ver si var -- ca,
     On -- de~a chi nel mio cor sie -- de mo -- nar -- ca,
     Son im -- por -- tu -- no~as -- sai
     Son im -- por -- tu -- no~as -- sai
@@ -237,8 +237,8 @@ quintoXV = \relative c'' {
 quintoLyricsXV = \lyricmode {
     Las -- so, a -- mor mi tra -- spor -- ta 
         a -- mor mi tra -- spor -- ta 
-        ov' io non vo -- glio,
-    Et ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
+        o -- v'io non vo -- glio,
+    E ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
     On -- de~a chi nel mio cor sie -- de mo -- nar -- ca,
     Son __ im -- por -- tu -- no~as -- sai
     Son im -- por -- tu -- no~as -- sai
@@ -287,9 +287,9 @@ sestoXV = \relative c' {
 sestoLyricsXV = \lyricmode {
     Las -- so, a -- mor mi tra -- spor -- ta 
         a -- mor mi tra -- spor -- ta __
-        ov' io non vo -- glio,
-    Et ben m'ac -- cor -- go 
-    Et ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
+        o -- v'io non vo -- glio,
+    E ben m'ac -- cor -- go 
+    E ben m'ac -- cor -- go ch'il de -- ver si var -- ca,
     Son im -- por -- tu -- no~as -- sai
     Son im -- por -- tu -- no~as -- sai
         più ch'i non so -- glio,

@@ -13,7 +13,7 @@
     title = "In tanto il sonno si partia pian piano"
     subtitle = "Seconda parte"
     instrument = "In tanto il sonno (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Jacopo Sannazaro (1458-1530)"
 
@@ -91,11 +91,20 @@
     \markup {
         \fill-line {
             \column {
-                \line { In tanto il sonno si partia pian piano, }
+                \line { Intanto il sonno si partia pian piano, }
                 \line { ond'io per ingannarme }
                 \line { lungo spazio non volsi gli occhi aprire, }
-                \line { ma da la bianca mano }
-                \line { che sì stretta tenea sentii lasciarme. }
+                \line { ma dalla bianca mano }
+                \line { che si stretta tenea sentii lasciarme. }
+                % si passivo?
+            }
+            \column {
+                \line { While my sleep departed slowly, }
+                \line { so that to deceive myself }
+                \line { for a long space I did not want to open my eyes, }
+                \line { but by her white hand }
+                \line { that was clasped tightly [to mine], I felt her release me. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

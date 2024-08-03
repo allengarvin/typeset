@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -15,8 +15,8 @@
     instrument = "Amor poi che non vuole (score)"
 
     % Unchanging:
-    \include "include/distribution-header.ly"
     lastupdated = "2013-11-12"
+    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
@@ -146,22 +146,31 @@
         \vspace #4
         \fill-line {
             \column {
-                \line { Amor, poi che non vuole }
-                \line { La bella Donna, a cui nol dir giurai, }
-                \line { Ch'io dica il mio gioire; }
-                \line { Almen di tu, c'huom mai }
-                \line { Più felice di me non vide il Sole. }
-                \line { Chi strinse mai più bello mano? e quai }
-                \line { Labbra baciò più dolci? ah che morire }
-                \line { Mi sento, dapoi ch'io nol posso dire. }
-                \line { Torna dunque a ridir Amor, c'huom mai }
-                \line { Più felice di me non vide il Sole. }
+                \line { Amor, poiché non vuole }
+                \line { la bella Donna, a cui nol dir giurai, }
+                \line { ch'io dica il mio gioire, }
+                \line { almen di tu, ch'uom mai }
+                \line { più felice di me non vide il Sole. }
                 \vspace #1
                 \line { Chi strinse mai più bello mano? e quai }
-                \line { Labbra baciò più dolci? ah che morire  }
-                \line { Mi sento, dapoi ch'io nol posso dire.  }
-                \line { Torna dunque a ridir Amor, c'huom mai  }
-                \line { Più felice di me non vide il Sole.  }
+                \line { labbra baciò più dolci? ah, che morire }
+                \line { mi sento, da poich'io nol posso dire. }
+                \line { Torna adunque a ridire Amor, ch'uom mai }
+                \line { più felice di me non vide il Sole. }
+            }
+            \column { 
+                \line { Love, since my lovely Lady, }
+                \line { to whom I vowed to not speak of it, }
+                \line { wishes that I not talk of my joy, }
+                \line { at least with you, that no happier man }
+                \line { ever saw the Sun. }
+                \vspace #1
+                \line { Whosoever clasped a more lovely hand? and }
+                \line { [whoever] kissed those sweetest lips? Ah, I feel myself }
+                \line { dying, since I cannot speak of it. }
+                \line { Therefore return again, Love, for no happier man }
+                \line { than me ever saw the Sun. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

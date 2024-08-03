@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -106,7 +106,7 @@
                 \line { and the bank of the Tiber does not so flood, }
                 \line { so as to let the most charming Nymphs }
                 \line { pick green fronds and a thousands herbs }
-                \line { with frant flowers, }
+                \line { with fragrant flowers, }
                 \line { for to weave garlands }
                 \line { for the beloved Shepherds, }
                 \line { O blonde Apollo, let your splendor return }

@@ -6,13 +6,13 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
-    title = "La bella Ninfa mia, ch’al Tebro infiora"
+    title = "La bella Ninfa mia, ch'al Tebro infiora"
     instrument = "La bella Ninfa mia (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Francesco Maria Molza (1489-1544)"
 
@@ -89,17 +89,29 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
+            % LOT of touch up on italian
+            % this one was hard
             \column {
-                \line { La bella Ninfa mia, ch’al Tebro infiora }
-                \line { Col piè le sponde, e co’ begli occhi affrena }
-                \line { Rapido corso, allor che discolora }
-                \line { Le piagge il ghiaccio, con sì dolce pena }
-                \line { A seguir le tue arme m’innamora, }
-                \line { Ch’io piango, e rido, e non la scorgo appena, }
-                \line { Ch’io scopro in lei mille vaghezze ascose, }
-                \line { Ed entro a l’alma un bel giardin di rose. }
+                \line { La bella Ninfa mia, ch'al Tebro infiora }
+                \line { col piè le sponde, e co' begli occhi affrena }
+                \line { rapido corso, allor che discolora }
+                \line { le piagge il ghiaccio, con sì dolce pena }
+                \line { a seguir le sue orme m'innamora, }
+                \line { ch'io piango, e rido, e non la scorgo a pena, }
+                \line { ch'io scopro in lei mille vaghezze ascose, }
+                \line { ed entro a l'alma un bel giardin di rose. }
+            }
+            \column {
+                \line { My lovely Nymph, who bedecks the banks of the Tiber with flowers }
+                \line { by her steps, and with her beautiful eyes bridles }
+                \line { its rapid course, when the frost discolors }
+                \line { is shores, with such sweet torment }
+                \line { makes me fall in love, following her footsteps, }
+                \line { that I weep, and laugh, and but scarce glimpse her }
+                \line { that I discover in her a thousand hidden charms }
+                \line { and within my soul, a beautiful garden of roses. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -177,7 +177,7 @@ bassoIV = \relative c {
     R\breve*4 | R\breve | r2 c d f | c1 f2 a4 b | c2 g4 a bf2 f ~ | 
         f r r d4 e | f2 e4 f g2 g |
 
-    c4 d e8([ d c b] a2) g | a4 b c8([ c a g] f2) c | f4 g a8([ g f e] d1) |
+    c4 d e8([ d c b] a2) g | a4 b c8([ b a g] f2) c | f4 g a8([ g f e] d1) |
         g2 g c,4. b8 c4 c | g'4. g8 g4 c,
 
     g'2 g | R\breve*4 | R\breve | f2. f4 f2 g4 a | g1 c, | f d2 d | g1 c | 

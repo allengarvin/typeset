@@ -5,8 +5,8 @@
 % 
 % Già per natura e privileggio raro
 % Luce porgea a l'un'e l'altro corno
-% Di Cintia si che fiammegiando intorno
-% Quasi giostrava co'l tuo lume a paro.
+% Di Cintia sì che fiammegiando intorno
+% Quasi giostrava col tuo lume a paro.
 
 cantoXVIincipit = \relative c'' {
     \time 4/4
@@ -54,18 +54,18 @@ cantoLyricsXVI = \lyricmode {
     \ijLyrics
     Di Cin -- tia, 
     \normalLyrics
-    Di Cin -- tia si che,
-        si che fiam -- me -- gian -- do~in -- tor -- no
+    Di Cin -- tia sì che,
+        sì che fiam -- meg -- gian -- do~in -- tor -- no
     Qua -- si gio -- stra -- va,
     \ijLyrics
     Qua -- si gio -- stra -- va,
     \normalLyrics
-    Qua -- si gio -- stra -- va co'l tuo lu -- me~a pa -- ro,
+    Qua -- si gio -- stra -- va col tuo lu -- me~a pa -- ro,
     Qua -- si gio -- stra -- va,
     \ijLyrics
     Qua -- si gio -- stra -- va,
     \normalLyrics
-    Qua -- si gio -- stra -- va co'l tuo lu -- me~a pa -- ro.
+    Qua -- si gio -- stra -- va col tuo lu -- me~a pa -- ro.
 }
 
 altoXVIincipit = \relative c' {
@@ -110,15 +110,15 @@ altoLyricsXVI = \lyricmode {
         e pri -- vi -- leg -- gio ra -- ro
     Lu -- ce por -- ge -- a a l'u -- n'e l'al -- tro cor -- no,
         a l'u -- n'e l'al -- tro cor -- no,
-    Di Cin -- tia si che fiam -- me -- gian -- do~in -- tor -- no,
-        fiam -- me -- gian -- do~in -- tor -- no
+    Di Cin -- tia sì che fiam -- meg -- gian -- do~in -- tor -- no,
+        fiam -- meg -- gian -- do~in -- tor -- no
     Qua -- si gio -- stra -- va,
     \ijLyrics
     Qua -- si gio -- stra -- va,
     \normalLyrics
-    Qua -- si gio -- stra -- va co'l tuo lu -- me~a pa -- ro,
+    Qua -- si gio -- stra -- va col tuo lu -- me~a pa -- ro,
     Qua -- si gio -- stra -- va,
-    Qua -- si gio -- stra -- va co'l tuo lu -- me~a pa -- ro.
+    Qua -- si gio -- stra -- va col tuo lu -- me~a pa -- ro.
 }
 
 tenoreXVIincipit = \relative c' {
@@ -172,11 +172,11 @@ tenoreLyricsXVI = \lyricmode {
     Di Cin -- tia, 
     \normalLyrics
     Di Cin -- tia, 
-        si che fiam -- me -- gian -- do~in -- tor -- no
+        sì che fiam -- meg -- gian -- do~in -- tor -- no
     Qua -- si gio -- stra -- va,
-    Qua -- si gio -- stra -- va co'l __ tuo lu -- me~a pa -- ro,
+    Qua -- si gio -- stra -- va col __ tuo lu -- me~a pa -- ro,
     Qua -- si gio -- stra -- va,
-    Qua -- si gio -- stra -- va co'l tuo lu -- me~a pa -- ro.
+    Qua -- si gio -- stra -- va col tuo lu -- me~a pa -- ro.
 }
 
 bassoXVIincipit = \relative c {
@@ -216,10 +216,10 @@ bassoLyricsXVI = \lyricmode {
     \ijLyrics
     Di Cin -- tia, 
     \normalLyrics
-    Di Cin -- tia si che fiam -- me -- gian -- do~in -- tor -- no
-        fiam -- me -- gian -- do~in -- tor -- no
-        co'l tuo lu -- me~a pa -- ro,
-        co'l tuo lu -- me~a pa -- ro.
+    Di Cin -- tia sì che fiam -- meg -- gian -- do~in -- tor -- no
+        fiam -- meg -- gian -- do~in -- tor -- no
+        col tuo lu -- me~a pa -- ro,
+        col tuo lu -- me~a pa -- ro.
 }
 
 quintoXVIincipit = \relative c' {
@@ -272,12 +272,12 @@ quintoLyricsXVI = \lyricmode {
     Lu -- ce por -- ge -- a a l'u -- n'e l'al -- tro cor -- no,
         a l'u -- n'e l'al -- tro cor -- no
     Di Cin -- tia,
-    Di Cin -- tia, si che fiam -- me -- gian -- do~in -- tor -- no,
-        fiam -- me -- gian -- do~in -- tor -- no
+    Di Cin -- tia, sì che fiam -- meg -- gian -- do~in -- tor -- no,
+        fiam -- meg -- gian -- do~in -- tor -- no
     Qua -- si gio -- stra -- va,
-    Qua -- si gio -- stra -- va co'l tuo lu -- me~a pa -- ro,
+    Qua -- si gio -- stra -- va col tuo lu -- me~a pa -- ro,
     Qua -- si gio -- stra -- va,
-    Qua -- si gio -- stra -- va co'l tuo lu -- me~a pa -- ro.
+    Qua -- si gio -- stra -- va col tuo lu -- me~a pa -- ro.
 }
 
 cantoXVIincipitVoice = <<

@@ -6,15 +6,14 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
     title = "Mi fa lasso languire"
     instrument = "Mi fa lasso languire (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-21"
@@ -90,13 +89,23 @@
     \markup {
         \vspace #4
         \fill-line {
+            % lasso: does it mean 'weary' or 'alas' here?
             \column {
                 \line { Mi fa lasso languire }
-                \line { Amore ch’el mio mal sempre desia }
-                \line { Ne’l fiero caso o l’impia sorte mia }
-                \line { Potra giamai finire }
-                \line { Fin ch’ella di pieta non scaldi il core }
-                \line { O ch’io misero moia di dolore. }
+                \line { Amore, che'l mio mal sempre desiar. }
+                \line { Nel fiero caso o l'empia sorte mia }
+                \line { potrà giàmai finire }
+                \line { finch'ella di pietà non scaldi il core, }
+                \line { o ch'io misero moia di dolore. }
+            }
+            \column {
+                \line { Love, that always wishes me ill, }
+                \line { causes me to languish wearily. }
+                \line { By wicked chance or my cruel fate }
+                \line { it will never end }
+                \line { until she warms her heart with pity,  }
+                \line { or I, miserable one, die of misery. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

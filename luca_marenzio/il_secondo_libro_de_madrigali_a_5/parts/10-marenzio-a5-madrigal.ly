@@ -1,4 +1,4 @@
-% Al vago del mio sole lucido
+% Al vago del mio sole
 % lucido raggio che'l bel Mincio onora,
 % Anzi l'ingemma e'ndora,
 % gitene a schiera a schiera,
@@ -55,7 +55,7 @@ cantoLyricsX = \lyricmode {
     An -- zi l'in -- gem -- ma~e'n -- do -- ra,
     Gi -- te -- ne~a schie -- ra~a schie -- ra,
     Lie -- ti scher -- zan -- do par -- go -- let -- ti~A -- mo -- ri
-    Là % do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra,
+    Là % do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra.
     E giun -- ti fio -- ri~a fio -- ri
     Di can -- di -- de vi -- o -- le
     Tes -- se -- te ghir -- lan -- det -- te
@@ -114,7 +114,7 @@ altoLyricsX = \lyricmode {
     Gi -- te -- ne~a schie -- ra~a schie -- ra,
     Lie -- ti scher -- zan -- do par -- go -- let -- ti~A -- mo -- ri
     Là 
-    Là do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra,
+    Là do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra.
 % %    E giun -- ti fio -- ri~a fio -- ri
     Di can -- di -- de vi -- o -- le
     Tes -- se -- te ghir -- lan -- det -- te
@@ -169,7 +169,7 @@ tenoreLyricsX = \lyricmode {
     Gi -- te -- ne~a schie -- ra~a schie -- ra,
     Lie -- ti scher -- zan -- do par -- go -- let -- ti~A -- mo -- ri
     Là,
-    Là do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra,
+    Là do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra.
     E giun -- ti fio -- ri~a fio -- ri
     E l'au -- rea chio -- ma or -- nan -- do,
     E l'au -- rea chio -- ma or -- nan -- do,
@@ -221,7 +221,7 @@ bassoLyricsX = \lyricmode {
     \normalLyrics
 %    Lie -- ti scher -- zan -- do par -- go -- let -- ti~A -- mo -- ri
     Là,
-    Là do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra,
+    Là do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra.
     E giun -- ti fio -- ri~a fio -- ri
     E l'au -- rea chio -- ma~or -- nan -- do,
     E l'au -- rea chio -- ma~or -- nan -- do,
@@ -270,7 +270,7 @@ quintoLyricsX = \lyricmode {
     Gi -- te -- ne~a schie -- ra~a schie -- ra,
     Gi -- te -- ne~a schie -- ra~a schie -- ra,
     Là,
-    Là do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra,
+    Là do -- ve~è sem -- pre~e -- ter -- na Pri -- ma -- ve -- ra.
     E giun -- ti fio -- ri~a fio -- ri
     Di can -- di -- de vi -- o -- le
     Tes -- se -- te ghir -- lan -- det -- te

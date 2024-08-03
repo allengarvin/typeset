@@ -96,10 +96,18 @@
                 \line { se senza te non posso esser mai seco }
                 \line { non mi lasciar, dolor sta sempre meco. }
             }
-%           \column {
-%               % translation orig date:
-%               % translation updated:
-%           }
+           \column {
+               % translation orig date: 2024-05-25
+               % translation updated:
+                \line { How shall the painful temperings }
+                \line { of my sorrow end, if that each time }
+                \line { that soul appears before me, and my bitter woes }
+                \line { are renewing at every hour? }
+                \line { Therefore eternal sorrow: }
+                \line { if without you I can never be with her, }
+                \line { leave me not, grief, stay with me forever.  }
+                \line { \hspace #10 \italic { translation by editor } }
+           }
         }
     }
 }

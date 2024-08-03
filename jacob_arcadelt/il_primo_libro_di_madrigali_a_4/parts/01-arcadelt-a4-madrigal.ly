@@ -12,7 +12,7 @@ cantusI = \relative c' {
     \key f \major
 
     f1 f1 ~| f2 f g g | a1 f2 f | g a bf1 | a r2 f | f f g1 | 
-        ef r2 \ficta ef!\unficta | f2 f1 e2 | d d c1 | c r2 f |
+        ef r2 \ficta e!\unficta | f2 f1 e2 | d d c1 | c r2 f |
 
     f f g1 | g r2 g | bf a1 g2 ~ | g4 f f1 e2 | f1 r2 f | f f g g | a a r a |
         a g a bf | a a r a | a g a bf |

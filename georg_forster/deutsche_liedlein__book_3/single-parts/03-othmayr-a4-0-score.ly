@@ -88,8 +88,8 @@
                 \line { Wo soll ich Armer aus? } 
                 \line { In diesem Strauß }
                 \line { tu ich gar nit erschrekken } 
-                \line { Es kommt ein libe Zeit, darauff ich hart  } 
-                \line { und peut mit gar fröhlichem Mut; } 
+                \line { Es kommt ein libe Zeit, darauff ich harr  } 
+                \line { und beut mit gar fröhlichem Mut; } 
                 \line { Es ist ein hübsches Fräulein das mich erfreuen tut! } 
                 \line { \vspace #1 }
                 \line { 2. Ein kurze Zeit ist bald dahin } 

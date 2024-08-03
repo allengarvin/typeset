@@ -1,10 +1,10 @@
-% Ma lagrimosa pioggia et fieri venti
+% Ma lagrimosa pioggia e fieri venti
 % d'infiniti sospiri or l'ànno spinta,
-% ch'è nel mio mare orribil notte et verno,
+% ch'è nel mio mare orribil notte e verno,
 % 
-% ove altrui noie, a sé doglie et tormenti
-% porta, et non altro, già da l'onde vinta,
-% disarmata di vele et di governo.
+% ove altrui noie, a sé doglie e tormenti
+% porta, e non altro, già da l'onde vinta,
+% disarmata di vele e di governo.
 
 cantoXVIincipit = \relative c'' {
     \time 2/2
@@ -45,19 +45,19 @@ cantoXVI = \relative c'' {
 }
 
 cantoLyricsXVI = \lyricmode {
-    Ma la -- gri -- mo -- sa piog -- gia et fie -- ri ven -- ti,
-        et fie -- ri ven -- ti
+    Ma la -- gri -- mo -- sa piog -- gia e fie -- ri ven -- ti,
+        e fie -- ri ven -- ti
     D'in -- fi -- ni -- ti so -- spi -- ri or l'àn -- no spin -- ta,
-    Ch'è nel mio mar' __ or -- ri -- bil not -- te~et ver -- no,
+    Ch'è nel mio mar' __ or -- ri -- bil not -- te~e ver -- no,
 
-    O -- ve~al -- trui no -- ie, a sé do -- glie~et tor -- men -- ti
-    Por -- ta, et non al -- tro, già da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no.
+    O -- ve~al -- trui no -- ie, a sé do -- glie~e tor -- men -- ti
+    Por -- ta, e non al -- tro, già da l'on -- de vin -- ta,
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no.
 
-    O -- ve~al -- trui no -- ie, a sé do -- glie~et tor -- men -- ti
-    Por -- ta, et non al -- tro, già da l'on -- de vin -- ta,
+    O -- ve~al -- trui no -- ie, a sé do -- glie~e tor -- men -- ti
+    Por -- ta, e non al -- tro, già da l'on -- de vin -- ta,
     Di -- sar -- ma -- ta di ve -- le,
-    Di -- sar -- ma -- ta di ve -- le~et di __ go -- ver -- no.
+    Di -- sar -- ma -- ta di ve -- le~e di __ go -- ver -- no.
 }
 
 altoXVIincipit = \relative c'' {
@@ -99,23 +99,23 @@ altoXVI = \relative c'' {
 }
 
 altoLyricsXVI = \lyricmode {
-    Ma la -- gri -- mo -- sa piog -- gia et fie -- ri ven -- ti,
-        et fie -- ri ven -- ti
+    Ma la -- gri -- mo -- sa piog -- gia e fie -- ri ven -- ti,
+        e fie -- ri ven -- ti
     D'in -- fi -- ni -- ti so -- spi -- ri or l'àn -- no spin -- ta,
         or l'àn -- no spin -- ta,
-    Ch'è nel mio mar' or -- ri -- bil not -- te~et ver -- no,
-        not -- te~et ver -- no,
+    Ch'è nel mio mar' or -- ri -- bil not -- te~e ver -- no,
+        not -- te~e ver -- no,
 
     O -- ve~al -- trui no -- ie, a sé,
-        a sé do -- glie~et tor -- men -- ti
+        a sé do -- glie~e tor -- men -- ti
     Por -- ta, già __ da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no.
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no.
 
     O -- ve~al -- trui no -- ie, a sé,
-        a sé do -- glie~et tor -- men -- ti
+        a sé do -- glie~e tor -- men -- ti
     Por -- ta, già __ da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no.
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no,
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no.
 }
 
 tenoreXVIincipit = \relative c' {
@@ -153,18 +153,18 @@ tenoreXVI = \relative c' {
 }
 
 tenoreLyricsXVI = \lyricmode {
-    Ma la -- gri -- mo -- sa piog -- gia et fie -- ri ven -- ti,
+    Ma la -- gri -- mo -- sa piog -- gia e fie -- ri ven -- ti,
     D'in -- fi -- ni -- ti so -- spi -- ri or l'àn -- no spin -- ta,
-    Ch'è nel mio mar' __ or -- ri -- bil not -- te~et ver -- no,
+    Ch'è nel mio mar' __ or -- ri -- bil not -- te~e ver -- no,
 
-        a sé do -- glie~et tor -- men -- ti
-    Por -- ta, et __ non al -- tro, già da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no.
+        a sé do -- glie~e tor -- men -- ti
+    Por -- ta, e __ non al -- tro, già da l'on -- de vin -- ta,
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no.
 
-        a sé do -- glie~et tor -- men -- ti
-    Por -- ta, et __ non al -- tro, già da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no,
-    Di -- sar -- ma -- ta di ve -- le et di go -- ver -- no.
+        a sé do -- glie~e tor -- men -- ti
+    Por -- ta, e __ non al -- tro, già da l'on -- de vin -- ta,
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no,
+    Di -- sar -- ma -- ta di ve -- le e di go -- ver -- no.
 }
 
 bassoXVIincipit = \relative c' {
@@ -202,18 +202,18 @@ bassoXVI = \relative c' {
 }
 
 bassoLyricsXVI = \lyricmode {
-    Ma la -- gri -- mo -- sa piog -- gia et fie -- ri ven -- ti,
+    Ma la -- gri -- mo -- sa piog -- gia e fie -- ri ven -- ti,
     D'in -- fi -- ni -- ti so -- spi -- ri or l'àn -- no spin -- ta,
-    Ch'è nel mio mar' __ or -- ri -- bil not -- te~et ver -- no,
+    Ch'è nel mio mar' __ or -- ri -- bil not -- te~e ver -- no,
 
-        a sé do -- glie~et tor -- men -- ti
+        a sé do -- glie~e tor -- men -- ti
     Por -- ta, già da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no.
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no.
 
-        a sé do -- glie~et tor -- men -- ti
+        a sé do -- glie~e tor -- men -- ti
     Por -- ta, già da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no.
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no,
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no.
 }
 
 quintoXVIincipit = \relative c'' {
@@ -253,20 +253,20 @@ quintoXVI = \relative c'' {
 }
 
 quintoLyricsXVI = \lyricmode {
-    Ma la -- gri -- mo -- sa piog -- gia et fie -- ri ven -- ti, __
-        et __ fie -- ri ven -- ti,
-        et fie -- ri ven -- ti
+    Ma la -- gri -- mo -- sa piog -- gia e fie -- ri ven -- ti, __
+        e __ fie -- ri ven -- ti,
+        e fie -- ri ven -- ti
     D'in -- fi -- ni -- ti so -- spi -- ri or l'àn -- no spin -- ta,
-    Ch'è nel mio mar' or -- ri -- bil not -- te et ver -- no,
+    Ch'è nel mio mar' or -- ri -- bil not -- te e ver -- no,
 
     O -- ve~al -- trui no -- ie, a sé 
-        et non al -- tro, già da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le et di __ go -- ver -- no.
+        e non al -- tro, già da l'on -- de vin -- ta,
+    Di -- sar -- ma -- ta di ve -- le e di __ go -- ver -- no.
 
     O -- ve~al -- trui no -- ie, a sé 
-        et non al -- tro, già da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le et di __ go -- ver -- no,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no.
+        e non al -- tro, già da l'on -- de vin -- ta,
+    Di -- sar -- ma -- ta di ve -- le e di __ go -- ver -- no,
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no.
 }
 
 sestoXVIincipit = \relative c' {
@@ -304,18 +304,18 @@ sestoXVI = \relative c' {
 }
 
 sestoLyricsXVI = \lyricmode {
-    Ma la -- gri -- mo -- sa piog -- gia et fie -- ri ven -- ti,
+    Ma la -- gri -- mo -- sa piog -- gia e fie -- ri ven -- ti,
     D'in -- fi -- ni -- ti so -- spi -- ri or l'àn -- no spin -- ta,
-    Ch'è nel mio mar' or -- ri -- bil not -- te~et ver -- no,
+    Ch'è nel mio mar' or -- ri -- bil not -- te~e ver -- no,
 
-    O -- ve~al -- trui no -- ie, a sé do -- glie~et tor -- men -- ti
-    Por -- ta, et non al -- tro, già da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no.
+    O -- ve~al -- trui no -- ie, a sé do -- glie~e tor -- men -- ti
+    Por -- ta, e non al -- tro, già da l'on -- de vin -- ta,
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no.
 
-    O -- ve~al -- trui no -- ie, a sé do -- glie~et tor -- men -- ti
-    Por -- ta, et non al -- tro, già da l'on -- de vin -- ta,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no,
-    Di -- sar -- ma -- ta di ve -- le~et di go -- ver -- no.
+    O -- ve~al -- trui no -- ie, a sé do -- glie~e tor -- men -- ti
+    Por -- ta, e non al -- tro, già da l'on -- de vin -- ta,
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no,
+    Di -- sar -- ma -- ta di ve -- le~e di go -- ver -- no.
 }
 
 cantoXVIincipitVoice = <<

@@ -47,7 +47,7 @@ superiusXIX = \relative c'' {
     \fourTwoCommonTime
 
     s1*0^\markup { \italic { The first singing part } } 
-    R\breve*3 | r2 g b4 a b cs | d2 a r2 r4 c | b g c2. a8([ g] a2) |
+    R\breve*3 | r2 g b4 a b cs | d2 a r2 r4 c | b g b2. a8([ g] a2) |
 
     g1 r1 | r1 r2 d | e4 d e fs g2 d | r2 r4 f e c c'2 ~ | c4 b8([ a] b2) 
 

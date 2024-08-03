@@ -1,14 +1,25 @@
 % Tigre mia, se ti pesa
-% E ti rechi ad offesa,
-% Che di te la mia lingua si lamenti
-% O la mordi, o la svelli un dì co' denti,
-% Ma per non le levar la pena a un tratto,
-% Non la troncare affatto.
-% Anzi, perchè le pene sue sien molte,
-% A rimorderla torna mille volte;
-% Tu lingua soffri e taci
-% Perchè se n'avrai morsi, io n'avrò baci.
+% e ti rechi ad offesa
+% che di te la mia lingua si lamenti,
+% o la mordi, o la svelli un dì co' denti,
+% ma per non le levar la pena a un tratto,
+% non la troncare affatto.
+% Anzi, perché le pene sue sian molte,
+% a rimorderla torna mille volte!
+% tu lingua soffri e taci
+% perché se n'avrai morsi, io n'avrò baci.
 % --Luigi Groto (1541-1585)
+
+% My tiger, if it burdens you
+% and causes offense
+% that for you my tongue laments,
+% either bite it, or rip it out with your teeth some day,
+% but so as to not relieve the pain in but one stroke,
+% do not sever it completely.
+% Instead, because its pains would be so great,
+% return to bite it again a thousand times!
+% You, tongue, suffer and be silent
+% because if she will have bites, I will have kisses.
 
 cantoXIIIincipit = \relative c' {
     \time 4/4
@@ -56,36 +67,36 @@ cantoXIII = \relative c' {
 cantoLyricsXIII = \lyricmode {
     Ti -- gre mia,
     \ijLyrics
-    ti -- gre mia,
+    Ti -- gre mia,
     \normalLyrics
         se ti pe -- sa
-    ti -- gre mia, se ti pe -- sa
-    E ti re -- ch'ad of -- fe -- sa,
-    Che di te la mia lin -- gua si la -- men -- ti
+    Ti -- gre mia, se ti pe -- sa
+    E ti re -- ch'ad of -- fe -- sa
+    Che di te la mia lin -- gua si la -- men -- ti,
     O la mor -- di,
-    o la mor -- di~o la svel -- li,
+    O la mor -- di~o la svel -- li,
         o la svel -- l'un dì co' den -- ti,
             co' den -- ti,
     Ma per non le le -- var la pe -- n'a __ un trat -- to,
     Non la tron -- car'
-    non la tron -- ca -- re~af -- fat -- to,
-    non la tron -- car'
-    non la tron -- ca -- re~af -- fat -- to.
-    An -- zi, per -- chè le pe -- ne sue sien mol -- te,
+    Non la tron -- ca -- re~af -- fat -- to,
+    Non la tron -- car'
+    Non la tron -- ca -- re~af -- fat -- to.
+    An -- zi, Per -- ché le pe -- ne sue sian mol -- te,
     A ri -- mor -- der -- la tor -- na mil -- le vol -- te,
-    a ri -- mor -- der -- la tor -- na mil -- le vol -- te,
-        mil -- le mil -- le vol -- te;
+    A ri -- mor -- der -- la tor -- na mil -- le vol -- te,
+        mil -- le mil -- le vol -- te!
     Tu lin -- gua,
-    tu lin -- gua sof -- fri~e ta -- ci
-    Per -- chè,
-    per -- chè se n'a -- vrai mor -- si, 
+    Tu lin -- gua sof -- fri~e ta -- ci
+    Per -- ché,
+    Per -- ché se n'a -- vrai mor -- si, 
     \ijLyrics
-    per -- chè se n'a -- vrai mor -- si, 
+    Per -- ché se n'a -- vrai mor -- si, 
     \normalLyrics
         i' n'a -- vrò ba -- ci,
-    per -- chè se n'a -- vrai mor -- si, 
+    Per -- ché se n'a -- vrai mor -- si, 
     \ijLyrics
-    per -- chè se n'a -- vrai mor -- si, 
+    Per -- ché se n'a -- vrai mor -- si, 
     \normalLyrics
         i' n'a -- vrò ba -- ci.
 }
@@ -132,12 +143,12 @@ altoXIII = \relative c' {
 altoLyricsXIII = \lyricmode {
     Ti -- gre mia,
     \ijLyrics
-    ti -- gre mia,
+    Ti -- gre mia,
     \normalLyrics
         se ti pe -- sa
-    ti -- gre mia, se ti pe -- sa __
-%    E ti re -- ch'ad of -- fe -- sa,
-    Che di te la mia lin -- gua si la -- men -- ti
+    Ti -- gre mia, se ti pe -- sa __
+%    E ti re -- ch'ad of -- fe -- sa
+    Che di te la mia lin -- gua si la -- men -- ti,
     O la mor -- di,
     o la mor -- di,
         o la svel -- l'un dì
@@ -145,23 +156,23 @@ altoLyricsXIII = \lyricmode {
             co' den -- ti,
     Ma per non le le -- var la pe -- n'a~un trat -- to,
     Non la tron -- ca -- re~af -- fat -- to.
-    An -- zi, per -- chè le pe -- ne sue sien mol -- te,
+    An -- zi, Per -- ché le pe -- ne sue sian mol -- te,
     A ri -- mor -- der -- la tor -- na,
-    a ri -- mor -- der -- la tor -- na mil -- le vol -- te,
+    A ri -- mor -- der -- la tor -- na mil -- le vol -- te,
         tor -- na mil -- le
             mil -- le vol -- te,
     Tu lin -- gua,
-    Per -- chè,
+    Per -- ché,
     \ijLyrics
-    per -- chè,
-    per -- chè,
+    Per -- ché,
+    Per -- ché,
     \normalLyrics
-    per -- chè se n'a -- vrai mor -- s'i' n'a -- vrò ba -- ci.
-    per -- chè,
+    Per -- ché se n'a -- vrai mor -- s'i' n'a -- vrò ba -- ci.
+    Per -- ché,
     \ijLyrics
-    per -- chè,
+    Per -- ché,
     \normalLyrics
-    per -- chè se n'a -- vrai mor -- s'i' n'a -- vrò ba -- ci.
+    Per -- ché se n'a -- vrai mor -- s'i' n'a -- vrò ba -- ci.
 }
 
 tenoreXIIIincipit = \relative c {
@@ -205,11 +216,11 @@ tenoreXIII = \relative c {
 tenoreLyricsXIII = \lyricmode {
     Ti -- gre mia,
     \ijLyrics
-    ti -- gre mia,
+    Ti -- gre mia,
     \normalLyrics
         se ti pe -- sa,
         se ti pe -- sa
-    Che di te la mia lin -- gua si la -- men -- ti
+    Che di te la mia lin -- gua si la -- men -- ti,
 %    o la mor -- di~o la svel -- li,
         o la svel -- li~un dì,
         o la svel -- li un dì,
@@ -217,24 +228,24 @@ tenoreLyricsXIII = \lyricmode {
         o la svel -- li,
     Ma __ per non le le -- var la __ pe -- n'a~un __ trat -- to,
     Non la tron -- car'
-    non la tron -- ca -- re~af -- fat -- to,
-    non la tron -- car'
-%    non la tron -- ca -- re~af -- fat -- to.
-            le __ pe -- ne sue __ sien mol -- te,
+    Non la tron -- ca -- re~af -- fat -- to,
+    Non la tron -- car'
+%    Non la tron -- ca -- re~af -- fat -- to.
+            le __ pe -- ne sue __ sian mol -- te,
     A ri -- mor -- der -- la tor -- na mil -- le vol -- te,
-    a ri -- mor -- der -- la tor -- na mil -- le
+    A ri -- mor -- der -- la tor -- na mil -- le
         mil -- le vol -- te:
     Tu lin -- gua,
-    tu lin -- gua sof -- fri~e ta -- ci
-%    Per -- chè,
-    Per -- chè se n'a -- vrai mor -- si,
+    Tu lin -- gua sof -- fri~e ta -- ci
+%    Per -- ché,
+    Per -- ché se n'a -- vrai mor -- si,
     \ijLyrics
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
     \normalLyrics
         i' n'a -- vrò ba -- ci,
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
     \ijLyrics
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
     \normalLyrics
         i' n'a -- vrò ba -- ci.
 }
@@ -283,34 +294,34 @@ bassoXIII = \relative c {
 bassoLyricsXIII = \lyricmode {
     Ti -- gre mia,
     \ijLyrics
-    ti -- gre mia,
+    Ti -- gre mia,
     \normalLyrics
-    ti -- gre mia, se ti pe -- sa
-    E ti re -- ch'ad of -- fe -- sa,
-    Che di te la mia lin -- gua si la -- men -- ti
+    Ti -- gre mia, se ti pe -- sa
+    E ti re -- ch'ad of -- fe -- sa
+    Che di te la mia lin -- gua si la -- men -- ti,
 %    O la mor -- di,
     O la mor -- di o la svel -- l'un dì,
         o la svel -- l'un dì co' den -- ti,
             co' den -- ti,
     Ma __ per non le le -- var la pe -- n'a~un trat -- to,
     Non la tron -- car'
-    non la tron -- ca -- re~af -- fat -- to,
-    non la tron -- car'
-    non la tron -- ca -- re~af -- fat -- to.
-    An -- zi, per -- chè le pe -- ne sue __ sien mol -- te,
+    Non la tron -- ca -- re~af -- fat -- to,
+    Non la tron -- car'
+    Non la tron -- ca -- re~af -- fat -- to.
+    An -- zi, Per -- ché le pe -- ne sue __ sian mol -- te,
     A ri -- mor -- der -- la tor -- na mil -- le vol -- te,
-    a ri -- mor -- der -- la tor -- na mil -- le vol -- te,
-        mil -- le mil -- le vol -- te;
+    A ri -- mor -- der -- la tor -- na mil -- le vol -- te,
+        mil -- le mil -- le vol -- te!
     Tu lin -- gua,
-    tu lin -- gua sof -- fri~e ta -- ci
-    Per -- chè se n'a -- vrai mor -- si,
+    Tu lin -- gua sof -- fri~e ta -- ci
+    Per -- ché se n'a -- vrai mor -- si,
     \ijLyrics
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
     \normalLyrics
         i' n'a -- vrò ba -- ci,
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
     \ijLyrics
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
     \normalLyrics
         i' n'a -- vrò ba -- ci.
 }
@@ -358,11 +369,11 @@ quintoXIII = \relative c' {
 quintoLyricsXIII = \lyricmode {
     Ti -- gre mia,
     \ijLyrics
-    ti -- gre mia,
+    Ti -- gre mia,
     \normalLyrics
         se ti pe -- sa
-%    ti -- gre mia, se ti pe -- sa
-    E __ ti re -- ch'ad of -- fe -- sa,
+%    Ti -- gre mia, se ti pe -- sa
+    E __ ti re -- ch'ad of -- fe -- sa
     Che di te
 %    O la mor -- di,
         O la svel -- l'un dì,
@@ -370,20 +381,20 @@ quintoLyricsXIII = \lyricmode {
             co' den -- ti,
     Ma __ per non le le -- var la pe -- n'a~un trat -- to,
     Non la tron -- car'
-    non la tron -- ca -- re~af -- fat -- to.
-    An -- zi, per -- chè le pe -- ne sue,
+    Non la tron -- ca -- re~af -- fat -- to.
+    An -- zi, Per -- ché le pe -- ne sue,
     A ri -- mor -- der -- la tor -- na mil -- le vol -- te,
-    a ri -- mor -- der -- la tor -- na mil -- le
+    A ri -- mor -- der -- la tor -- na mil -- le
         mil -- le vol -- te,
-        mil -- le mil -- le vol -- te;
+        mil -- le mil -- le vol -- te!
     Tu lin -- gua,
-    Per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
     \ijLyrics
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
     \normalLyrics
         i' n'a -- vrò ba -- ci,
-    per -- chè se n'a -- vrai mor -- si,
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
         i' n'a -- vrò ba -- ci.
 }
 
@@ -430,10 +441,10 @@ sestoXIII = \relative c {
 sestoLyricsXIII = \lyricmode {
     Ti -- gre mia,
     \ijLyrics
-    ti -- gre mia,
+    Ti -- gre mia,
     \normalLyrics
         se ti pe -- sa
-    E __ ti re -- ch'ad of -- fe -- sa,
+    E __ ti re -- ch'ad of -- fe -- sa
 %    Che di te la mia lin -- gua si la -- men -- ti
 %    O la mor -- di,
     O la mor -- di o la svel -- l'un dì,
@@ -443,24 +454,24 @@ sestoLyricsXIII = \lyricmode {
             co' den -- ti,
     Ma per non le le -- var la pe -- n'a~un trat -- to,
     Non la tron -- car'
-    non la tron -- ca -- re~af -- fat -- to.
-        le pe -- ne sue sien mol -- te,
+    Non la tron -- ca -- re~af -- fat -- to.
+        le pe -- ne sue sian mol -- te,
     A ri -- mor -- der -- la tor -- na mil -- le vol -- te,
-    a ri -- mor -- der -- la tor -- na mil -- le
-        mil -- le vol -- te;
+    A ri -- mor -- der -- la tor -- na mil -- le
+        mil -- le vol -- te!
     Tu lin -- gua,
-    tu lin -- gua sof -- fri~e ta -- ci
-    Per -- chè,
+    Tu lin -- gua sof -- fri~e ta -- ci
+    Per -- ché,
     \ijLyrics
-    per -- chè,
+    Per -- ché,
     \normalLyrics
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
         i' n'a -- vrò ba -- ci,
-    per -- chè,
+    Per -- ché,
     \ijLyrics
-    per -- chè,
+    Per -- ché,
     \normalLyrics
-    per -- chè se n'a -- vrai mor -- si,
+    Per -- ché se n'a -- vrai mor -- si,
         i' n'a -- vrò ba -- ci.
 }
 

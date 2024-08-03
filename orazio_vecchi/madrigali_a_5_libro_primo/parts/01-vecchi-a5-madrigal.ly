@@ -41,8 +41,7 @@ cantoLyricsI = \lyricmode {
         can -- tan -- do,
         can -- tan -- do,
         can -- tan -- do mo -- re,
-    Ed i -- o pian -- gen -- do
-    giun -- go~al fin del vi -- ver mi -- o. __
+    Ed i -- o pian -- gen -- do giun -- go~al fin del vi -- ver mi -- o. __
 %    Stran' e di -- ver -- sa sor -- te 
         Ch'ei mo -- re scon -- so -- la -- to,
     Ed io mo -- ro be -- a -- to,
@@ -50,14 +49,14 @@ cantoLyricsI = \lyricmode {
         mo -- ro be -- a -- to.
 %    Mor -- te che nel mo -- ri -- re
     M'em -- pie di gio -- ia,
-    m'em -- pie di gio -- ia tut -- to~e di de -- si -- re,
-    m'em -- pie di gio -- ia,
+    M'em -- pie di gio -- ia tut -- to~e di de -- si -- re,
+    M'em -- pie di gio -- ia,
         di gio -- ia tut -- to~e di de -- si -- re.
     Se nel mo -- ri -- re
         % al -- tro do -- lor non sen -- to
     Di mil -- le mor -- te~il dì,
-    di mil -- le mor -- te~il dì,
-    di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to,
+    Di mil -- le mor -- te~il dì,
+    Di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to,
         sa -- rei con  -- ten -- to,
             con  -- ten -- to.
 }
@@ -107,8 +106,7 @@ altoLyricsI = \lyricmode {
         can -- tan -- do,
         can -- tan -- do,
         can -- tan -- do mo -- re,
-    Ed i -- o pian -- gen -- do
-    giun -- go~al fin del vi -- ver mi -- o. __
+    Ed i -- o pian -- gen -- do giun -- go~al fin del vi -- ver mi -- o. __
     Stra -- n'e di -- ver -- sa sor -- te
     Ch'ei mo -- re scon -- so -- la -- to,
     Ed io mo -- ro be -- a -- to,
@@ -116,14 +114,14 @@ altoLyricsI = \lyricmode {
         mo -- ro be -- a -- to.
     Mor -- te che __ nel mo -- ri -- re
     M'em -- pie di gio -- ia,
-    m'em -- pie di gio -- ia,
+    M'em -- pie di gio -- ia,
         di gio -- ia tut -- to~e di de -- si -- re.
     Se nel mo -- rir __ al -- tro do -- lor non sen -- to
     Di mil -- le mor -- te~il dì,
-    di mil -- le mor -- te~il dì,
-    di mil -- le mor -- te~il dì sa -- rei,
-    di mil -- le mor -- te~il dì,
-    di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to.
+    Di mil -- le mor -- te~il dì,
+    Di mil -- le mor -- te~il dì sa -- rei,
+    Di mil -- le mor -- te~il dì,
+    Di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to.
 }
 
 tenoreIincipit = \relative c {
@@ -180,12 +178,12 @@ tenoreLyricsI = \lyricmode {
 %    M'em -- pie di gio -- ia,
     M'em -- pie di gio -- ia tut -- to~e di de -- si -- re,
     m'em -- pie di gio -- ia tut -- to~e di __ de -- si -- re,
-    Se nel mo -- rir al -- tro do -- lor __ non sen -- to
+    se nel mo -- rir al -- tro do -- lor __ non sen -- to
     Di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to,
-    di mil -- le mor -- te~il dì,
-    di mil -- le mor -- te~il dì,
+    Di mil -- le mor -- te~il dì,
+    Di mil -- le mor -- te~il dì,
     \ijLyrics
-    di mil -- le mor -- te~il dì 
+    Di mil -- le mor -- te~il dì 
     \normalLyrics
         sa -- rei con  -- ten -- to.
 }
@@ -242,14 +240,14 @@ bassoLyricsI = \lyricmode {
         mo -- ro be -- a -- to.
     Mor -- te che nel mo -- ri -- re
     M'em -- pie di gio -- ia,
-    m'em -- pie di gio -- ia tut -- to~e di de -- si -- re,
+    M'em -- pie di gio -- ia tut -- to~e di de -- si -- re,
     Se nel mo -- rir __ al -- tro do -- lor non sen -- to
     Di mil -- le mor -- te~il dì,
-    di mil -- le mor -- te~il dì,
+    Di mil -- le mor -- te~il dì,
     \ijLyrics
-    di mil -- le mor -- te~il dì,
+    Di mil -- le mor -- te~il dì,
     \normalLyrics
-    di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to.
+    Di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to.
 }
 
 quintoIincipit = \relative c'' {
@@ -306,16 +304,16 @@ quintoLyricsI = \lyricmode {
         mo -- ro be -- a -- to.
 %    Mor -- te che nel mo -- ri -- re
     M'em -- pie di gio -- ia,
-    m'em -- pie di gio -- ia tut -- to~e di de -- si -- re,
-    m'em -- pie di gio -- ia,
+    M'em -- pie di gio -- ia tut -- to~e di de -- si -- re,
+    M'em -- pie di gio -- ia,
     Se nel mo -- rir __ al -- tro do -- lor non sen -- to
     Di mil -- le mor -- te~il dì,
     \ijLyrics
-    di mil -- le mor -- te~il dì,
+    Di mil -- le mor -- te~il dì,
     \normalLyrics
-    di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to,
-    di mil -- le mor -- te~il dì sa -- rei,
-    di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to.
+    Di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to,
+    Di mil -- le mor -- te~il dì sa -- rei,
+    Di mil -- le mor -- te~il dì sa -- rei con  -- ten -- to.
 }
 
 cantoIincipitVoice = <<

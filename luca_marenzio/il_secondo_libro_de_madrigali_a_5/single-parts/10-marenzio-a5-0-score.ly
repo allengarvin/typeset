@@ -6,14 +6,14 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
     title = "Al vago del mio sole lucido"
     folio = "Anonymous poet"
     instrument = "Al vago del mio sole lucido (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -91,17 +91,32 @@
         \vspace #4
         \fill-line {
             \column {
-                \line { Al vago del mio sole lucido } 
-                \line { Lucido raggio che'l bel Mincio onora, } 
-                \line { Anzi l'ingemma e'ndora, } 
-                \line { Gitene a schiera a schiera, } 
-                \line { Lieti scherzando pargoletti Amori } 
-                \line { Là dove è sempre eterna Primavera, } 
+                \line { Al vago del mio sole } 
+                \line { lucido raggio che'l bel Mincio onora, } 
+                \line { anzi l'ingemma e indora, } 
+                \line { gitene a schiera a schiera, } 
+                \line { lieti scherzando pargoletti Amori } 
+                \line { là dove è sempre eterna Primavera. } 
                 \line { E giunti fiori a fiori } 
-                \line { Di candide viole } 
-                \line { Tessete ghirlandette } 
-                \line { E l'aurea chioma ornando siate attenti } 
-                \line { Ch'udirete dolcissimi concenti.  } 
+                \line { di candide viole } 
+                \line { tessete ghirlandette, } 
+                \line { e l'aurea chioma ornando siate attenti } 
+                \line { ch'udirete dolcissimi concenti.  } 
+            }
+            \column {
+            % wiktionary labels vago as archaic for 'lover'?
+                \line { To the charm of my sun, }
+                \line { the bright ray that honors the lovely Mincio, }
+                \line { indeed bejewels and adorns it, }
+                \line { go troupe by troupe }
+                \line { cheerful little cupids, frolicking }
+                \line { there where it is always eternal spring. }
+                \line { And flower by flower joined, }
+                \line { weave a gardland }
+                \line { of white violets, }
+                \line { and [while] adorning her golden locks, be attentive }
+                \line { for you will hear the sweetest harmonies. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

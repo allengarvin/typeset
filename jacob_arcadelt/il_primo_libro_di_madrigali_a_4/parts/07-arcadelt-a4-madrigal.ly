@@ -81,7 +81,7 @@ altusVII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    a1 g2 g | a f c'4( e d c | d e f1 e2) | f1 r2 f | f f g f ~ |
+    a1 g2 g | a f c'4( d e c | d e f1 e2) | f1 r2 f | f f g f ~ |
         f e4( d) e1 ~ | e r2 c | f f d d |
 
     c1. c2 | a f bf1 | g2 g c c | a a f f | 

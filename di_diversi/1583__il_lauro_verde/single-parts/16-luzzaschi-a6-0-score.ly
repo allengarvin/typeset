@@ -27,6 +27,7 @@
     flats = 1
     final = "g"
     categories = "[madrigal]"
+    motifs = "[weeping,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -113,6 +114,21 @@
                 \line { Coron duo fiumi in me di dolce pianto: }
                 \line { E ride primavera in fra le rose }
                 \line { Delle speranze mie care amorose. }
+            }
+            \column {
+                % translation: 2024-07-18, right before conclave
+                \line { Here is the beautiful green LAUREL }
+                \line { which stays always in my heart, }
+                \line { and the ruler of my thoughts, which Love crowns. }
+                \line { Here my sighs sweetly breathe out the BREEZE, }
+                \line { and from branch to branch flit }
+                \line { my desires like little birds, }
+                \line { one singing 'I burn', the other, 'I desire'; }
+                \line { to which gentle song }
+                \line { two rivers of sweet weeping flow from me: }
+                \line { and springtime laughs amongst the roses }
+                \line { at my sweet, amorous hopes. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

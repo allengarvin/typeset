@@ -23,7 +23,7 @@
     final = "g"
     shorttitle = "ver_infernel"
     categories = "[madrigal]"
-    motifs = "[hell]"
+    motifs = "[hell,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -81,39 +81,40 @@
         }
     }   
     \markup {
-      \fill-line {
-        \column {
-            \line { Vero inferno è il mio petto: } 
-            \line {     ver infernale spirito sono io; } 
-            \line {     e vero infernal foco è il foco mio. } 
-            \line {     Senza fin ardo, e son di speme privo, } 
-            \line {     E dell'amato obietto } 
-            \line {     eternalmente l'alm vista ho persa } 
-            \line {     ed ostinato in una voglia vivo } 
-            \line {     Sol di tanto è diversa } 
-            \line {     la sorte mia dalla perduta gente: } 
-            \line {     ch'a ragion quella, ed io ardo innocente. } 
-            \line {     Maladice sovente, } 
-            \line {     ed odio quella il suo fattore, Iddio. } 
-            \line {     Ed io, chi m'arde laudo, amo, e desio. } 
+        \fill-line {
+        % Italian touched up, corrected, and translation done: 2024-06-05
+            \column {
+                \line { Vero inferno è il mio petto: } 
+                \line { ver infernale spirito sono io, } 
+                \line { e vero infernal foco è il foco mio. } 
+                \line { Senza fin ardo, e son di speme privo, } 
+                \line { e dell'amato obietto. } 
+                \line { Eternalmente l'alma trista ho persa } 
+                \line { ed ostinato in una voglia vivo. } 
+                \line { Sol di tanto è diversa } 
+                \line { la sorte mia dalla perduta gente: } 
+                \line { ch'a ragion quella, ed io ardo innocente. } 
+                \line { Maledice sovente, } 
+                \line { ed odio quella il suo fattore, Iddio. } 
+                \line { Ed io, chi m'arde laudo, amo, e desio. } 
+            }
+            \column {
+                \line { True hell is my breast, }
+                \line { and a true infernal spirit am I, }
+                \line { and a true hellish fire is my fire. }
+                \line { I burn without end, and I am deprived of hope }
+                \line { and of my beloved object. }
+                \line { I have lost my sad soul eternally }
+                \line { and stubbornly live with but one desire. }
+                \line { In this alone my fate differs }
+                \line { from that of lost souls: }
+                \line { that those rightfully burn, and I burn innocently. }
+                \line { Those ones oft curse }
+                \line { and hate their creator, God. }
+                \line { And I praise, love and desire she who makes me burn. }
+                \line { \hspace #10 \italic { translation by editor } }
+            }
         }
-        \column {
-                \line { True hell is my breast } 
-                \line { and a true hellish soul am I, } 
-                \line { and true hellish fire is my fire. } 
-                \line { I burn endlessly and I'm deprived of hope } 
-                \line { and of the object of my love. } 
-                \line { I have forever lost my soul, } 
-                \line { and live obsessed by one desire only. } 
-                \line { Nonetheless, immensely different } 
-                \line { is my destiny from that of those lost souls, } 
-                \line { in that they rightly burn, whereas I do so as an innocent; } 
-                \line { that throng curses often } 
-                \line { and hates God, its maker, } 
-                \line { whereas I praise, love and desire [she] who causes me to burn. } 
-                \line { \hspace #12 \italic { Translation by Campelli } (CPDL license) }
-        }
-      }
     }
 }
 

@@ -64,10 +64,16 @@ contraCV = \relative c' {
 %         f,\longa*1/2
 
 % Or a third down?
-        c2. bf4 c2 a2 ~ | a4 g4 a2 
+% This is the orig from 2013: (Suzanne Ferguson notified me of this 2024-05-04)
+%         c2. bf4 c2 a2 ~ | a4 g4 a2 
+% 
+%     f2. e4 | f2 f2. e4 f2 | f\longa*1/2
+% % THE BEST!
 
-    f2. e4 | f2 f2. e4 f2 | f\longa*1/2
-% THE BEST!
+% 2024: 
+    e2. d4 e2 c ~ | c4 bf c2
+
+    a2. g4 | a2 a2. g4 a2 | f\longa*1/2
     \bar "|."   
 }
 

@@ -1,9 +1,9 @@
 % Mi fa lasso languire
-% Amore ch’el mio mal sempre desia
-% Ne’l fiero caso o l’impia sorte mia
+% Amore che'l mio mal sempre desia
+% Nel fiero caso o l'impia sorte mia
 % Potra giamai finire
-% Fin ch’ella di pieta non scaldi il core
-% O ch’io misero moia di dolore.
+% Fin -- ch'ella di pieta non scaldi il core
+% O ch'io misero moia di dolore.
 
 cantoXVIIIincipit = \relative c' {
     \time 2/2
@@ -35,18 +35,18 @@ cantoXVIII = \relative c' {
 
 cantoLyricsXVIII = \lyricmode {
     Mi fa las -- so lan -- gui -- re, __
-    Mi fa las -- so lan -- gui -- re,
-    A -- mo -- re ch’el mio mal sem -- pre de -- si -- a,
-        sem -- pre de -- si -- a,
-    Ne’l fie -- ro ca -- so~o l’im -- pia __ sor -- te mi -- a,
-        o l’im -- pia sor -- te __ mi -- a,
-        o l’im -- pia sor -- te mi -- a
-    Po -- tra gia -- mai fi -- ni -- re,
-    Fin ch’el -- la di pie -- tà non scal -- di~il co -- re
-    O ch’io mi -- se -- ro __ mo -- ia,
+    Mi fa las -- so lan -- gui -- re
+    A -- mo -- re che'l mio mal sem -- pre de -- si -- a,
+        sem -- pre de -- si -- a.
+    Nel fie -- ro ca -- so~o l'em -- pia __ sor -- te mi -- a,
+        o l'em -- pia sor -- te __ mi -- a,
+        o l'em -- pia sor -- te mi -- a
+    Po -- trà già -- mai fi -- ni -- re,
+    Fin -- ch'el -- la di pie -- tà non scal -- di~il co -- re
+    O ch'io mi -- se -- ro __ mo -- ia,
         mo -- ia di do -- lo -- re,
-    Fin ch’el -- la di pie -- tà non scal -- di~il co -- re
-    O ch’io mi -- se -- ro __ mo -- ia,
+    Fin -- ch'el -- la di pie -- tà non scal -- di~il co -- re
+    O ch'io mi -- se -- ro __ mo -- ia,
         mo -- ia di do -- lo -- re.
 }
 
@@ -81,16 +81,16 @@ altoXVIII = \relative c' {
 
 altoLyricsXVIII = \lyricmode {
     Mi fa las -- so lan -- gui -- re, __
-    Mi fa las -- so lan -- gui -- re,
-    A -- mo -- re ch’el mio mal sem -- pre de -- si -- a,
-        ch’el __ mio mal sem -- pre de -- si -- a,
-    Ne’l fie -- ro ca -- so~o l’im -- pia __ sor -- te mi -- a,
-        o l’im -- pia sor -- te __ mi -- a,
-    Fin ch’el -- la di pie -- tà non scal -- di~il co -- re
-    O ch’io mi -- se -- ro mo -- ia,
+    Mi fa las -- so lan -- gui -- re
+    A -- mo -- re che'l mio mal sem -- pre de -- si -- a,
+        che'l __ mio mal sem -- pre de -- si -- a.
+    Nel fie -- ro ca -- so~o l'em -- pia __ sor -- te mi -- a,
+        o l'em -- pia sor -- te __ mi -- a,
+    Fin -- ch'el -- la di pie -- tà non scal -- di~il co -- re
+    O ch'io mi -- se -- ro mo -- ia,
         mo -- ia di do -- lo -- re,
-    Fin ch’el -- la di pie -- tà non scal -- di~il co -- re
-    O ch’io mi -- se -- ro mo -- ia,
+    Fin -- ch'el -- la di pie -- tà non scal -- di~il co -- re
+    O ch'io mi -- se -- ro mo -- ia,
         mo -- ia di do -- lo -- re.
 }
 
@@ -123,16 +123,16 @@ tenoreXVIII = \relative c' {
 }
 
 tenoreLyricsXVIII = \lyricmode {
-    Mi fa las -- so lan -- gui -- re, __
-    A -- mo -- re ch’el mio mal sem -- pre de -- si -- a,
-        ch’el mio mal sem -- pre de -- si -- a,
-        sem -- pre de -- si -- a,
-    Ne’l fie -- ro ca -- so o l’im -- pia sor -- te mi -- a,
-        o l’im -- pia sor -- te mi -- a,
-    Fin ch’el -- la di pie -- tà non scal -- di~il co -- re
-    O ch’io mi -- se -- ro mo -- ia di do -- lo -- re,
-    Fin ch’el -- la di pie -- tà non scal -- di~il co -- re
-    O ch’io mi -- se -- ro mo -- ia di __ do -- lo -- re.
+    Mi fa las -- so lan -- gui -- re __
+    A -- mo -- re che'l mio mal sem -- pre de -- si -- a,
+        che'l mio mal sem -- pre de -- si -- a,
+        sem -- pre de -- si -- a.
+    Nel fie -- ro ca -- so o l'em -- pia sor -- te mi -- a,
+        o l'em -- pia sor -- te mi -- a,
+    Fin -- ch'el -- la di pie -- tà non scal -- di~il co -- re
+    O ch'io mi -- se -- ro mo -- ia di do -- lo -- re,
+    Fin -- ch'el -- la di pie -- tà non scal -- di~il co -- re
+    O ch'io mi -- se -- ro mo -- ia di __ do -- lo -- re.
 }
 
 bassoXVIIIincipit = \relative c {
@@ -161,15 +161,15 @@ bassoXVIII = \relative c {
 }
 
 bassoLyricsXVIII = \lyricmode {
-    Mi fa las -- so lan -- gui -- re, 
-        ch’el mio mal sem -- pre de -- si -- a,
-        ch’el mio mal sem -- pre de -- si -- a,
-    Ne’l __ fie -- ro ca -- so~o l’im -- pia sor -- te mi -- a,
-    Po -- tra gia -- mai fi -- ni -- re,
-    Fin ch’el -- la di pie -- tà,
-    O ch’io mi -- se -- ro mo -- ia di do -- lo -- re,
-    Fin ch’el -- la di pie -- tà,
-    O ch’io mi -- se -- ro mo -- ia di do -- lo -- re.
+    Mi fa las -- so lan -- gui -- re 
+        che'l mio mal sem -- pre de -- si -- a,
+        che'l mio mal sem -- pre de -- si -- a.
+    Nel __ fie -- ro ca -- so~o l'em -- pia sor -- te mi -- a,
+    Po -- trà già -- mai fi -- ni -- re,
+    Fin -- ch'el -- la di pie -- tà,
+    O ch'io mi -- se -- ro mo -- ia di do -- lo -- re,
+    Fin -- ch'el -- la di pie -- tà,
+    O ch'io mi -- se -- ro mo -- ia di do -- lo -- re.
 }
 
 quintoXVIIIincipit = \relative c' {
@@ -201,20 +201,20 @@ quintoXVIII = \relative c' {
 
 quintoLyricsXVIII = \lyricmode {
     Mi fa las -- so lan -- gui -- re, 
-    Mi fa las -- so lan -- gui -- re,
-    A -- mo -- re ch’el mio mal sem -- pre de -- si -- a,
-        sem -- pre de -- si -- a,
-    Ne’l fie -- ro ca -- so
+    Mi fa las -- so lan -- gui -- re
+    A -- mo -- re che'l mio mal sem -- pre de -- si -- a,
+        sem -- pre de -- si -- a.
+    Nel fie -- ro ca -- so
     \ijLyrics
-    Ne’l fie -- ro ca -- so~o 
+    Nel fie -- ro ca -- so~o 
     \normalLyrics 
-        l’im -- pia sor -- te mi -- a,
-        o l’im -- pia sor -- te mi -- a,
-    Po -- tra gia -- mai fi -- ni -- re,
-    Fin ch’el -- la di pie -- tà non scal -- di~il co -- re
-    O ch’io mi -- se -- ro mo -- ia di __ do -- lo -- re,
-    Fin ch’el -- la di pie -- tà non scal -- di~il co -- re
-    O ch’io mi -- se -- ro mo -- ia di do -- lo -- re.
+        l'em -- pia sor -- te mi -- a,
+        o l'em -- pia sor -- te mi -- a,
+    Po -- trà già -- mai fi -- ni -- re,
+    Fin -- ch'el -- la di pie -- tà non scal -- di~il co -- re
+    O ch'io mi -- se -- ro mo -- ia di __ do -- lo -- re,
+    Fin -- ch'el -- la di pie -- tà non scal -- di~il co -- re
+    O ch'io mi -- se -- ro mo -- ia di do -- lo -- re.
 }
 
 cantoXVIIIincipitVoice = <<

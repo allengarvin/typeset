@@ -25,7 +25,9 @@
     originallyset = "2020-07-23"
     flats = 1
     final = "d"
-    categories = "[madrigal]"
+    categories = "[madrigal,animal]"
+    motifs = "[amore,tiger,pain]"
+    poeticform = "madrigal"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -102,15 +104,29 @@
         \fill-line {
             \column {
                 \line { Tigre mia, se ti pesa }
-                \line { E ti rechi ad offesa, }
-                \line { Che di te la mia lingua si lamenti }
-                \line { O la mordi, o la svelli un dì co' denti, }
-                \line { Ma per non le levar la pena a un tratto, }
-                \line { Non la troncare affatto. }
-                \line { Anzi, perchè le pene sue sien molte, }
-                \line { A rimorderla torna mille volte; }
+                \line { e ti rechi ad offesa }
+                \line { che di te la mia lingua si lamenti, }
+                \line { o la mordi, o la svelli un dì co' denti, }
+                \line { ma per non le levar la pena a un tratto, }
+                \line { non la troncare affatto. }
+                \line { Anzi, perché le pene sue sian molte, }
+                \line { a rimorderla torna mille volte! }
                 \line { Tu lingua soffri e taci }
-                \line { Perchè se n'avrai morsi, io n'avrò baci. }
+                \line { perché se n'avrai morsi, io n'avrò baci. }
+            }
+            \column {
+                % translation: 2024-06-15
+                \line { My tiger, if it burdens you }
+                \line { and causes offense }
+                \line { that for you my tongue laments, }
+                \line { either bite it, or rip it out with your teeth some day, }
+                \line { but so as to not relieve the pain in but one stroke, }
+                \line { do not sever it completely. }
+                \line { Instead, because its pains would be so great, }
+                \line { return to bite it again a thousand times! }
+                \line { You, tongue, suffer and be silent }
+                \line { because if she will have bites, I will have kisses. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

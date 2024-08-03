@@ -1,9 +1,12 @@
 % Or tu gli cedi e so perché lo fai
 % Perché mirando in Paglia ardervi il fuoco
-% Scorgesti che nascea da viva rai
+% Scorgesti che nascea da viva rai.
 % Quindi e che lasci il carro i raggi e'l luoco
 % A Cintia e quanti preggi avesti mai
 % E da longi la segui a puoco a puoco. 
+
+% ardervi in Canto, Alto, arderci in Tenore, Basso, Quinto
+% arderci makes more sense
 
 cantoXVIIincipit = \relative c'' {
     \time 4/4
@@ -42,10 +45,10 @@ cantoLyricsXVII = \lyricmode {
     Or tu __ gli ce -- di,
     Or tu __ gli ce -- di, e so per -- ché lo fa -- i
     Per -- ché,
-    Per -- ché mi -- ran -- do~in Pa -- glia, ar -- der -- vi~il fuo -- co
-    Scor -- ge -- sti __ che na -- scea da vi -- va ra -- i
-    Quin -- di~e che la -- sci~il car -- ro i rag -- gi~e'l luo -- co,
-    Quin -- di~e che la -- sci~il car -- ro~i rag -- gi~e'l luo -- co
+    Per -- ché mi -- ran -- do~in Pa -- glia, ar -- der -- ci~il fuo -- co
+    Scor -- ge -- sti __ che na -- scea da vi -- va ra -- i.
+    Quin -- di~è che la -- sci~il car -- ro i rag -- gi~e'l luo -- co,
+    Quin -- di~è che la -- sci~il car -- ro~i rag -- gi~e'l luo -- co
     A Cin -- tia __ e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
         e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
         e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
@@ -97,11 +100,11 @@ altoLyricsXVII = \lyricmode {
     Or tu gli ce -- di~e so per -- ché lo fa -- i
     Or tu gli ce -- di, e so per -- ché lo fa -- i
     Per -- ché,
-    Per -- ché mi -- ran -- do~in Pa -- glia, ar -- der -- vi~il fuo -- co
+    Per -- ché mi -- ran -- do~in Pa -- glia, ar -- der -- ci~il fuo -- co
         che na -- scea da vi -- va ra -- i,
-        che na -- scea da vi -- va ra -- i
-    Quin -- di~e che la -- sci il car -- ro~i rag -- gi~e'l luo -- co,
-    Quin -- di~e che la -- sci~il car -- ro~i rag -- gi~e'l luo -- co,
+        che na -- scea da vi -- va ra -- i.
+    Quin -- di~è che la -- sci il car -- ro~i rag -- gi~e'l luo -- co,
+    Quin -- di~è che la -- sci~il car -- ro~i rag -- gi~e'l luo -- co,
     A Cin -- tia __ e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
         e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
     A Cin -- tia __ e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
@@ -154,10 +157,10 @@ tenoreLyricsXVII = \lyricmode {
         e so per -- ché lo fa -- i
     \normalLyrics
     Per -- ché,
-    Per -- ché,  ar -- der -- vi~il fuo -- co
-    Scor -- ge -- sti che na -- scea da vi -- va ra -- i
-    Quin -- di~e che la -- sci il car -- ro, 
-    Quin -- di~e che la -- sci il car -- ro~i rag -- gi~e'l luo -- co
+    Per -- ché,  ar -- der -- ci~il fuo -- co
+    Scor -- ge -- sti che na -- scea da vi -- va ra -- i.
+    Quin -- di~è che la -- sci il car -- ro, 
+    Quin -- di~è che la -- sci il car -- ro~i rag -- gi~e'l luo -- co
     A Cin -- tia,
     A Cin -- tia~e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
         e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
@@ -208,10 +211,10 @@ bassoLyricsXVII = \lyricmode {
     Or tu gli ce -- di, e so per -- ché lo fa -- i,
         e so per -- ché lo fa -- i
     Per -- ché,
-    Per -- ché, ar -- der -- vi~il fuo -- co
-    Scor -- ge -- sti che na -- scea da vi -- va ra -- i
-    Quin -- di~e che la -- sci il car -- ro~i rag -- gi~e'l luo -- co,
-    Quin -- di~e che la -- sci,
+    Per -- ché, ar -- der -- ci~il fuo -- co
+    Scor -- ge -- sti che na -- scea da vi -- va ra -- i.
+    Quin -- di~è che la -- sci il car -- ro~i rag -- gi~e'l luo -- co,
+    Quin -- di~è che la -- sci,
     A Cin -- tia e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
     A Cin -- tia~e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
         e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
@@ -255,10 +258,10 @@ quintoLyricsXVII = \lyricmode {
     Or tu gli ce -- di, e so per -- ché lo fa -- i,
     Or tu gli ce -- di, e so per -- ché lo fa -- i
     Per -- ché,
-    Per -- ché mi -- ran -- do~in Pa -- glia, ar -- der -- vi~il fuo -- co
-    Scor -- ge -- sti che na -- scea da vi -- va ra -- i
-    Quin -- di~e che la -- sci~il car -- ro i rag -- gi~e'l luo -- co,
-    Quin -- di~e che la -- sci
+    Per -- ché mi -- ran -- do~in Pa -- glia, ar -- der -- ci~il fuo -- co
+    Scor -- ge -- sti che na -- scea da vi -- va ra -- i.
+    Quin -- di~è che la -- sci~il car -- ro i rag -- gi~e'l luo -- co,
+    Quin -- di~è che la -- sci
     A __ Cin -- tia e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
     A Cin -- tia, e quan -- ti preg -- gi~a -- ve -- sti ma -- i,
     E da lon -- gi la se -- gui,

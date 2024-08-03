@@ -77,12 +77,12 @@ cantusLyricsLV = \lyricmode {
     Sen -- za fin' ar -- do,
     e son di spe -- me pri -- vo,
     E dell' a -- ma -- to~o -- bi -- ed -- to
-    e -- ter -- na -- men -- te l'al -- ma vi -- sta'ho per -- sa
+    e -- ter -- na -- men -- te l'al -- ma tri -- sta~ho per -- sa
     Ed o -- sti -- nat -- to in u -- na vo -- glia vi -- vo,
     Sol di tan -- to~e __ di -- ver -- sa
     La sor -- te mi -- a dal -- la per -- du -- ta gen -- te:
     Ch'a ra -- gion quel -- la ed io ar -- do~in -- no -- cent -- te,
-    Ma -- la -- di -- ce so -- ven -- te, 
+    Ma -- le -- di -- ce so -- ven -- te, 
     Ed o -- dia quel -- la il suo __ fat -- to -- re~id -- di -- o
     Ed io chi m'ar -- de lau -- do~a -- mo~e de -- si -- o,
     lau -- do a -- mo de -- si -- o.
@@ -131,12 +131,12 @@ altusLyricsLV = \lyricmode {
     è'il fo -- co mi -- o.
     Sen -- za fin' ar -- do e son di spe -- me pri -- vo,
     e dell' a -- ma -- to~o -- biet -- to
-    e -- ter -- nal -- men - te l'al -- ma vi -- sta~ho per -- sa
+    e -- ter -- nal -- men - te l'al -- ma tri -- sta~ho per -- sa
     ed o -- sti -- na -- to in u -- na vo -- glia vi -- vo
     sol di tan -- to~è di -- ver - sa
     la sor -- te mi - a dal -- la per -- du -- ta gen -- te __
     ch'a ra -- gion quel -- la ed io ar -- do~in -- no - cen - te.
-    Ma -- la -- di -- ce __ so -- ven - te
+    Ma -- le -- di -- ce __ so -- ven - te
     ed o -- dia quel -- la il suo fat -- tor __ id -- di -- o.
     ed io chi m'ar -- de lau -- do~a -- mo~e de -- si -- o
     lau -- do~a -- mo de -- si -- o. 
@@ -190,13 +190,13 @@ tenorLyricsLV = \lyricmode {
     e'l fo -- co mi -- o e'l fo -- co mi -- - o __
     Sen -- za fin' ar -- do __ e son __ di spe -- me pri - vo
     e dell' a -- ma -- to~o -- biet -- to
-    e -- ter -- na -- men -- te l'al -- ma __ vi -- sta ho per - sa
+    e -- ter -- na -- men -- te l'al -- ma __ tri -- sta ho per - sa
     ed o -- sti -- na -- to __ in u -- na vo -- glia vi -- vo
     sol di tan -- to~è __ di -- ver -- sa 
     la sor -- te mia dal -- la per -- du -- ta _ gen - te 
     ch'a __ ra -- gi -- on quel - la,
     ed io ar -- do~in no -- cen -- te.
-    Ma -- la -- di -- ce so -- ven -- te,
+    Ma -- le -- di -- ce so -- ven -- te,
     ed o -- dia quel -- la    
     il suo fa -- tor -- re~id -- di - o.
     Ed io chi m'ar -- de lau -- do~a -- mo~e de -- si -- o. __

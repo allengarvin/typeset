@@ -47,7 +47,7 @@ cantoLyricsXVII = \lyricmode {
         ohi -- mè mi man -- ca~il co -- re,
     Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
     Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
-    Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
+    Por -- gi -- mi~a -- i -- ta~A -- mo -- re!
     % Co -- me~es -- ser può ch'io vi -- va
         ch'io vi -- va
     Lon -- tan 
@@ -57,7 +57,7 @@ cantoLyricsXVII = \lyricmode {
         da quel bel sguar -- do
     Per cui,
     Per cui sì co -- m'or ar -- do
-    Con __ e -- stre -- mo do -- lo -- re,
+    Con __ e -- stre -- mo do -- lo -- re?
     Al -- lor via più sen -- ti -- va
     Mag -- gior dol -- cez -- za,
     Al -- lor via più sen -- ti -- va
@@ -112,14 +112,14 @@ altoLyricsXVII = \lyricmode {
         ohi -- mè mi man -- ca~il co -- re,
     Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
     Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
-    Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
+    Por -- gi -- mi~a -- i -- ta~A -- mo -- re!
     Co -- me~es -- ser può ch'io vi -- va
     Lon -- tan 
         ch'io vi -- va
     Lon -- tan da quel bel sguar -- do __
         da quel __ bel sguar -- do
     Per cui sì co -- m'or ar -- do __
-    Con __ e -- stre -- mo __ do -- lo -- re,
+    Con __ e -- stre -- mo __ do -- lo -- re?
     Mag -- gior dol -- cez -- za,
     \ijLyrics
     Mag -- gior dol -- cez -- za,
@@ -171,7 +171,7 @@ tenoreLyricsXVII = \lyricmode {
     Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
         A -- mo -- re,
     Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
-    Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
+    Por -- gi -- mi~a -- i -- ta~A -- mo -- re!
     Co -- me~es -- ser può ch'io vi -- va
     Lon -- tan 
         ch'io vi -- va
@@ -183,7 +183,7 @@ tenoreLyricsXVII = \lyricmode {
     Per cui 
     \normalLyrics
         sì co -- m'or ar -- do
-    Con __ e -- stre -- mo do -- lo -- re,
+    Con __ e -- stre -- mo do -- lo -- re?
     Al -- lor via più sen -- ti -- va
     Mag -- gior dol -- cez -- za,
     Al -- lor via più sen -- ti -- va
@@ -232,13 +232,13 @@ bassoXVII = \relative c' {
 
 bassoLyricsXVII = \lyricmode {
     Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
-    Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
+    Por -- gi -- mi~a -- i -- ta~A -- mo -- re!
     Co -- me~es -- ser può ch'io vi -- va
     Lon -- tan 
         da quel __ bel sguar -- do
         da quel bel sguar -- do
     Per cui sì co -- m'or ar -- do
-    Con __ e -- stre -- mo do -- lo -- re,
+    Con __ e -- stre -- mo do -- lo -- re?
     Mag -- gior dol -- cez -- za,
     Al -- lor via più sen -- ti -- va
     Pre -- sta -- mi~a -- iu -- to~A -- mo -- re,
@@ -284,7 +284,7 @@ quintoLyricsXVII = \lyricmode {
         ohi -- mè mi man -- ca~il co -- re,
     Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
     Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
-    Por -- gi -- mi~a -- i -- ta~A -- mo -- re,
+    Por -- gi -- mi~a -- i -- ta~A -- mo -- re!
     Co -- me~es -- ser può ch'io vi -- va
     Lon -- tan 
         da __ quel bel sguar -- do
@@ -297,7 +297,7 @@ quintoLyricsXVII = \lyricmode {
     Per cui 
     \normalLyrics 
         sì co -- m'or ar -- do
-    Con __ e -- stre -- mo do -- lo -- re,
+    Con __ e -- stre -- mo do -- lo -- re?
     Al -- lor via più sen -- ti -- va
     Mag -- gior dol -- cez -- za,
     Al -- lor via più sen -- ti -- va

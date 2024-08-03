@@ -7,6 +7,7 @@
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
+#(set-global-staff-size 19.6)
 \header {
     lastupdated = "2023-10-20"
     originallyset = "2023-10-20"

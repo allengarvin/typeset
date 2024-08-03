@@ -9,16 +9,16 @@
 
 \header {
     % Things that change per piece:
-    title = "Comes, sable night"
+    title = "Come, sable night"
     subtitle = ""
-    instrument = "Comes, sable night:  (bassus)"
+    instrument = "Come, sable night:  (bassus)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "comes_sable_night"
+    shorttitle = "come_sable_night"
     shortcomp = "ward"
 
     % Things that change per part:
     partname = "Bassus (part 6 of 6)"
-    instrument = "Comes, sable night:  (bassus)"
+    instrument = "Come, sable night:  (bassus)"
 
     % Unchanging:
     lastupdated = "2022-03-05"
@@ -30,7 +30,7 @@
 \include "../parts/27-ward-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "27-ward--comes_sable_night-"
+    \bookOutputName "27-ward--come_sable_night-"
     \bookOutputSuffix "--6-bassus--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {

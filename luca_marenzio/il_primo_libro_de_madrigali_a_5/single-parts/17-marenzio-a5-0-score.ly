@@ -88,17 +88,30 @@
     }
     \markup {
         \fill-line {
+            % translation: 2024-05-21
             \column {
                 \line { Partirò dunque, ohimè mi manca il core, }
-                \line { Porgimi aita Amore, }
+                \line { porgimi aita Amore! }
                 \line { Come esser può ch'io viva }
-                \line { Lontan da quel bel sguardo }
-                \line { Per cui sì com'or ardo }
-                \line { Con estremo dolore, }
+                \line { lontan da quel bel sguardo }
+                \line { per cui sì com'or ardo }
+                \line { con estremo dolore? }
                 \line { Allor via più sentiva }
-                \line { Maggior dolcezza quanto più maggiore }
-                \line { Era quel vivo ardore, }
+                \line { maggior dolcezza quanto più maggiore }
+                \line { era quel vivo ardore; }
                 \line { Prestami aiuto, Amore. }
+            }
+            \column {
+                \line { I shall thus leave, alas! my heart fails me, }
+                \line { bring me aid, Love! }
+                \line { How can it be that I live }
+                \line { far from that beautiful gaze }
+                \line { for which I now burn }
+                \line { with extreme torment? }
+                \line { The more sweetness that was felt then, }
+                \line { the greater the living ardor was; }
+                \line { Lend me your aid, Love. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

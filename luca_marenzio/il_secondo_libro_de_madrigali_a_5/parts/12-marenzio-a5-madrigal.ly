@@ -53,12 +53,12 @@ cantoLyricsXII = \lyricmode {
     Ra -- pi -- do cor -- so, 
     Ra -- pi -- do cor -- so, al -- lor che di -- sco -- lo -- ra
     Le piag -- ge~il ghiac -- cio, con __ sì dol -- ce pe -- na
-    A se -- guir le su -- e~ar -- me,
-    A se -- guir le su -- e~ar -- me m’in -- na -- mo -- ra,
+    A se -- guir le su -- e~or -- me,
+    A se -- guir le su -- e~or -- me m’in -- na -- mo -- ra,
     Ch’io pian -- go, e ri -- do, 
-        e ri -- do, % e non la scor -- go~ap -- pe -- na,
+        e ri -- do, % e non la scor -- go~a pe -- na,
     Ch’io sco -- pro~in lei 
-        e non la scor -- go~ap -- pe -- na, __
+        e non la scor -- go~a pe -- na, __
     Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze~a -- sco -- se,
     % Ed en -- tro~a l’al -- ma un bel giar -- din di ro -- se.
@@ -117,10 +117,10 @@ altoLyricsXII = \lyricmode {
         af -- fre -- na
     Ra -- pi -- do cor -- so, al -- lor che di -- sco -- lo -- ra
     Le piag -- ge~il ghiac -- cio, con __ sì dol -- ce pe -- na
-    A se -- guir le su -- e~ar -- me m’in -- na -- mo -- ra,
+    A se -- guir le su -- e~or -- me m’in -- na -- mo -- ra,
         m’in -- na -- mo -- ra,
     Ch’io pian -- go, e ri -- do, 
-        e ri -- do, e non la scor -- go~ap -- pe -- na,
+        e ri -- do, e non la scor -- go~a pe -- na,
     Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze,
         mil -- le va -- ghez -- ze~a -- sco -- se,
@@ -181,7 +181,7 @@ tenoreLyricsXII = \lyricmode {
         m’in -- na -- mo -- ra,
         m’in -- na -- mo -- ra,
     Ch’io pian -- go, e ri -- do, __
-        e non la scor -- go~ap -- pe -- na,
+        e non la scor -- go~a pe -- na,
     Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze~a -- sco -- se,
     Ed __ en -- tro~a l’al -- ma un bel giar -- din di __ ro -- se,
@@ -229,11 +229,11 @@ bassoLyricsXII = \lyricmode {
     Ra -- pi -- do cor -- so, 
     Ra -- pi -- do cor -- so, 
         con __ sì dol -- ce pe -- na
-    A se -- guir le su -- e~ar -- me,
-    A se -- guir le su -- e~ar -- me m’in -- na -- mo -- ra,
+    A se -- guir le su -- e~or -- me,
+    A se -- guir le su -- e~or -- me m’in -- na -- mo -- ra,
          m’in -- na -- mo -- ra,
     Ch’io pian -- go, 
-        e non la scor -- go~ap -- pe -- na,
+        e non la scor -- go~a pe -- na,
     Ch’io sco -- pro~in lei 
     Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze~a -- sco -- se,
@@ -290,14 +290,14 @@ quintoLyricsXII = \lyricmode {
     Ra -- pi -- do cor -- so, 
     Ra -- pi -- do cor -- so, al -- lor che di -- sco -- lo -- ra
     Le piag -- ge~il ghiac -- cio, con __ sì dol -- ce pe -- na
-    A se -- guir le su -- e~ar -- me m’in -- na -- mo -- ra,
+    A se -- guir le su -- e~or -- me m’in -- na -- mo -- ra,
         m’in -- na -- mo -- ra,
     Ch’io pian -- go, 
     \ijLyrics
     Ch’io pian -- go,
     \normalLyrics
-        e non la scor -- go~ap -- pe -- na,
-        e non la scor -- go~ap -- pe -- na,
+        e non la scor -- go~a pe -- na,
+        e non la scor -- go~a pe -- na,
     Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze~a -- sco -- se,
     Ed en -- tro~a l’al -- ma un bel giar -- din di ro -- se,

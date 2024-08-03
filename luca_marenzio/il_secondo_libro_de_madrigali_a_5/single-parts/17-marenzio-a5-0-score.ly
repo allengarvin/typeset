@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -92,14 +92,26 @@
         \vspace #4
         \fill-line {
             \column {
-                \line { Or tu gli cedi e so perché lo fai  }
-                \line { Il mondo e lo facea vago ed adorno, }
-                \line { Al spontar del tuo lume altiero il giorno }
-                \line { Sempre nascea a noi sereno e caro }
-                \line { Già per natura e privileggio raro }
-                \line { Luce porgea a l'un'e l'altro corno }
-                \line { Di Cintia si che fiammegiando intorno }
-                \line { Quasi giostrava co'l tuo lume a paro. }
+                \line { Or tu gli cedi e so perché lo fai: }
+                \line { perché mirando, in Paglia arderci il fuoco, }
+                \line { scorgesti che nascea da viva rai. }
+                \line { Quindi è che lasci il carro, i raggi, e'l luoco }
+                \line { a Cintia e quanti preggi avesti mai }
+                \line { e da longi la segui a puoco a puoco.  }
+            }
+            % gli == to him, or to her? 'to him' fails to make sense'
+            % Paglia: tributary of the Tiber (why capitalized? also, straw)
+% https://it.wikipedia.org/wiki/Paglia_(fiume)
+% https://it.wikipedia.org/wiki/Paglia
+            
+            \column {
+                 \line { Now you yield to her, and I know why:  }
+                 \line { because, as in Straw fire burns there, }
+                 \line { you saw it was born of living rays. }
+                 \line { Thus you release the chariot, the rays, and your seat }
+                 \line { to Cynthia, and also all the honors ever you had, }
+                 \line { and from afar follow her slowly step by step.  }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

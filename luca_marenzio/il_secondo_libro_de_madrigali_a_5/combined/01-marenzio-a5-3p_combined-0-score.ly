@@ -15,8 +15,8 @@
     instrument = "Deggio dunque (score)"
 
     % Unchanging:
-    \include "include/distribution-header.ly"
     lastupdated = "2014-12-21"
+    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
@@ -202,31 +202,51 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
             \column {
-                \line { Deggio dunque partire Lasso }
-                \line { Dal mio bel sol che mi da vita? }
-                \line { Ohimè che mi consola e chi m’aita }
-                \line { In cosi gran martire? }
-                \line { Ahi, che partir pur deggio  }
-                \line { La mia fortuna or che mi può far peggio.  }
-
-                \vspace #1
+                \line { Deggio dunque partire, }
+                \line { lasso, dal mio bel sol che mi da vita? }
+                \line { Ohimè! chi mi consola e chi m’aita }
+                \line { in così gran martire? }
+                \line { Ahi, che partir pur deggio }
+                \line { la mia fortuna or che mi può far peggio.  }
+                \line { \vspace #1 }
                 \line { Io partirò, ma il core } 
-                \line { Si resterà nel vostro volto divo, } 
-                \line { Sì che s’io resto vivo } 
-                \line { Sarà certo miracolo d’Amore. } 
-                \line { Ma tale è’l mio tormento, } 
-                \line { Ch’io penserò restar di vita spento. } 
-                \vspace #1
-
+                \line { si resterà nel vostro volto divo; } 
+                \line { si che s’io resto vivo } 
+                \line { sarà certo miracolo d’Amore. } 
+                \line { Ma tale è’l mio tormento } 
+                \line { ch’io penserò restar di vita spento. } 
+                \line { \vspace #1 }
                 \line { Ma voi, caro ben mio, }
-                \line { Caso che’l corpo poca terra chiuda }
-                \line { Sarete mai sì cruda }
-                \line { Di non darmi un sospir cortese e pio. }
+                \line { caso che’l corpo poca terra chiuda, }
+                \line { sarete mai sì cruda }
+                \line { di non darmi un sospir cortese e pio? }
                 \line { Fate che la mercede }
-                \line { Sia quella almen della mia pura fede. }
+                \line { sia quella almen della mia pura fede. }
+            }
+            \column { 
+                \line { Must I hence depart, }
+                \line { alas, from my beautiful sun who gives me life? }
+                \line { Ah! who will console me and who will help me }
+                \line { in such great torment? }
+                \line { Ah, because I must indeed depart }
+                \line { my fortune now may do me worse. }
+                \line { \vspace #1 }
+                \line { I shall depart, but my heart }
+                \line { will stay with your divine visage; }
+                \line { if I remain alive, }
+                \line { it will surely be a miracle of Love. }
+                \line { But such is my torment }
+                \line { that I will think to be left with but a spent life. }
+                \line { \vspace #1 }
+                \line { But you, my dearest, }
+                \line { if by hap my body by a bit of earth be covered, }
+                \line { Will you ever be so cruel }
+                \line { so as to grant me a sigh, courteaous and pious? }
+                \line { Give me that mercy }
+                \line { that at least matches my pure faith. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

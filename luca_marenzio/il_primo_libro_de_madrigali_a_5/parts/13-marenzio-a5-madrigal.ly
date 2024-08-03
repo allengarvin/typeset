@@ -1,8 +1,8 @@
-% In tanto il sonno si partia pian piano,
+% In -- tanto il sonno si partia pian piano,
 % Ond'io per ingannarme
 % Lungo spazio non volsi gli occhi aprire,
 % Ma da la bianca mano
-% Che sì stretta tenea senti' lasciarme.
+% Che si stretta tenea senti' lasciarme.
 
 cantoXIIIincipit = \relative c'' {
     \time 2/2
@@ -34,19 +34,19 @@ cantoXIII = \relative c'' {
 }
 
 cantoLyricsXIII = \lyricmode {
-    In tan -- to~il son -- no si par -- tia pian pia -- no,
+    In -- tan -- to~il son -- no si par -- tia pian pia -- no,
         si par -- tia pian pia -- no,
     On -- d'io per in -- gan -- nar -- me
     Lun -- go spa -- zio,
     Lun -- go spa -- zio non vol -- si gli~oc -- chi~a -- pri -- re,
     % Ma da la bian -- ca ma -- no
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me,
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me,
         sen -- ti la -- sciar -- me,
         \ijLyrics
         sen -- ti la -- sciar -- me,
         \normalLyrics
     Ma da la bian -- ca ma -- no
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me,
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me,
         sen -- ti la -- sciar -- me,
         \ijLyrics
         sen -- ti la -- sciar -- me,
@@ -87,16 +87,16 @@ altoXIII = \relative c' {
 }
 
 altoLyricsXIII = \lyricmode {
-    In tan -- to~il son -- no si par -- tia pian pia -- no,
+    In -- tan -- to~il son -- no si par -- tia pian pia -- no,
         si par -- tia pian pia -- no,
     On -- d'io per in -- gan -- nar -- me
     Lun -- go spa -- zio non vol -- si gli~oc -- chi~a -- pri -- re,
     Lun -- go spa -- zio non vol -- si gli~oc -- chi~a -- pri -- re,
     Ma da la bian -- ca ma -- no
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me, __
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me, __
         sen -- ti la -- sciar -- me, 
     Ma da la bian -- ca ma -- no
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me, __
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me, __
         sen -- ti la -- sciar -- me,
         sen -- ti la -- sciar -- me.
 }
@@ -132,15 +132,15 @@ tenoreXIII = \relative c' {
 }
 
 tenoreLyricsXIII = \lyricmode {
-    In tan -- to~il son -- no __ si par -- tia pian pia -- no,
+    In -- tan -- to~il son -- no __ si par -- tia pian pia -- no,
         si par -- tia pian pia -- no,
     On -- d'io per in -- gan -- nar -- me
     Lun -- go spa -- zio non vol -- si gli~oc -- chi~a -- pri -- re,
         non vol -- si gli~oc -- chi~a -- pri -- re,
     Ma da la bian -- ca ma -- no
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me,
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me,
         sen -- ti la -- sciar -- me,
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me,
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me,
         sen -- ti la -- sciar -- me,
         sen -- ti la -- sciar -- me.
 }
@@ -173,14 +173,14 @@ bassoXIII = \relative c {
 }
 
 bassoLyricsXIII = \lyricmode {
-    In tan -- to~il son -- no __ si par -- tia pian pia -- no,
+    In -- tan -- to~il son -- no __ si par -- tia pian pia -- no,
     On -- d'io per in -- gan -- nar -- me
         non vol -- si gli~oc -- chi~a -- pri -- re,
     Lun -- go spa -- zio,
     Ma da la bian -- ca ma -- no
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me, __
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me, __
     Ma da la bian -- ca ma -- no
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me, __
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me, __
         sen -- ti la -- sciar -- me.
 }
 
@@ -213,14 +213,14 @@ quintoXIII = \relative c' {
 }
 
 quintoLyricsXIII = \lyricmode {
-    In tan -- to~il son -- no si par -- tia pian pia -- no, __
+    In -- tan -- to~il son -- no si par -- tia pian pia -- no, __
     On -- d'io per in -- gan -- nar -- me
     Lun -- go spa -- zio non vol -- si gli~oc -- chi~a -- pri -- re,
     Lun -- go spa -- zio non vol -- si gli~oc -- chi~a -- pri -- re,
     Ma da la bian -- ca ma -- no
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me,
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me,
     Ma da la bian -- ca ma -- no
-    Che sì stret -- ta te -- nea sen -- ti la -- sciar -- me,
+    Che si stret -- ta te -- nea sen -- ti la -- sciar -- me,
         sen -- ti la -- sciar -- me.
 }
 

@@ -4,7 +4,7 @@
 % Qui spiran dolce L'AURA i miei sospiri,
 % E van di ramo in ramo
 % In guisa d'augelletti i miei desiri
-% Cantando l'un', i'ardo, e l'altro, i' bramo;
+% Cantando l'un' i'ardo, e l'altro, i' bramo;
 % Al cui soave canto
 % Coron duo fiumi in me di dolce pianto:
 % E ride primavera in fra le rose
@@ -23,19 +23,17 @@
 % of my dear amorous hopes.
 % ^^ AR edition
 
-% Here is the fair green laurel (lauro)
-% which is always in my heart, and
-% is crowned by Love as the ruler of
-% my thoughts. Here my sighs gently
-% exhale the breeze (l’aura) and from
-% branch to branch my wishes fly like
-% little birds, one singing “I burn”, the
-% other “I desire”; to which soft singing
-% two rivers of sweet weeping start
-% flowing in me, and springtime laughs
-% amidst the rosebuds of my dear
-% amorous hopes.
-% ^^ liner notes from profeti della quinta
+% Here is the beautiful green LAUREL
+% which stays always in my heart,
+% and the ruler of my thoughts, which Love crowns.
+% Here my sighs sweetly breathe out the BREEZE,
+% and from branch to branch flit
+% my desires like little birds,
+% one singing 'I burn', the other, 'I desire';
+% to which gentle song
+% two rivers of sweet weeping flow from me:
+% and springtime laughs amongst the roses
+% at my sweet, amorous hopes.
 
 cantoXVIincipit = \relative c'' {
     \time 4/4

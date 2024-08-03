@@ -13,7 +13,7 @@
     title = "Venuta era Madonna al mio languire"
     subtitle = "Prima parte"
     instrument = "Venuta era Madonna (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Jacopo Sannazaro (1458-1530)"
 
@@ -90,6 +90,8 @@
     }
     \markup {
         \fill-line {
+            % ponno: archaic alternate of possono
+            % Italian checked: 2024-05-21
             \column {
                 \line { Venuta era Madonna al mio languire }
                 \line { con dolce aspetto umano, }
@@ -99,8 +101,21 @@
                 \line { vidila con pietade a sé chiamarme, }
                 \line { dicendo: A che sospire, }
                 \line { a che ti struggi ed ardi di lontano? }
-                \line { non sai tu che quell'arme }
+                \line { Non sai tu che quell'arme }
                 \line { che fer la piaga ponno il duol finire? }
+            }
+            \column {
+                \line { My Lady has come to me in my languishing }
+                \line { with sweet, humane countenance, }
+                \line { happy and lovely in my sleep to console me; }
+                \line { and I, boldly venturing }
+                \line { to tell her how many afflications I've spent in vain, }
+                \line { witnessed her with pity call me to her }
+                \line { saying: why do you sigh, }
+                \line { why do torment yourself and burn from afar? }
+                \line { Do you not know that these arms [weapons] }
+                \line { that struck the wound can end your suffering? }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
