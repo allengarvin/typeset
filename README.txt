@@ -18,6 +18,15 @@ The layout of this zip file are:
 
 
 HOW-TO:
+0) prior to generating, you need to create symlinks in each collection page for the include files.
+    Thus, like:
+        cd luca_marenzio/il_primo_libro_de_madrigali_a_6
+        ln -s ../../include-2.22 include
+
+    As of 2024, I'm still mostly using Lilypond 2.22. There is an "indclude-2.24" available that will work
+    with MOST scores and parts. If you're using a newer Lilypond, try that. There are a few pieces where I
+    have done something custom that it does not yet work on.
+
 1) Generates scores and parts
    cd single-parts
    lilypond *ly
@@ -61,7 +70,7 @@ HOW-TO:
         a text editor and set the clefs you want
 
     On windows: You'll need to do it in a Text editor, or else the Linux
-        subsystem, if you're on windows 10 (with the above info).
+        subsystem, if you're on windows 10+ (with the above info).
         You can add '\transpose f c' on the line after each '\global'
         in the score section
 
@@ -76,17 +85,14 @@ HOW-TO:
 
 Questions? Mail me at aurvondel@gmail.com
 
-Twitter feed announcing new scores:
-    https://twitter.com/music_early
-
-Non-music Twitter:  https://twitter.com/allengarvin
 Instagram:          https://instagram.com/allen_t_garvin
 Flickr:             https://flickr.com/photos/allengarvin
 Facebook:           https://www.facebook.com/allengarvin
+BlueSky:            https://bsky.app/profile/allengarvin.bsky.social
 CPDL:               https://www.cpdl.org/wiki/index.php/User:Allen_Garvin
 IMSLP:              https://imslp.org/wiki/Category:Garvin,_Allen
-                            or:
-                    https://imslp.org/wiki/User:Agarvin
+    [I am no longer uploading to IMSLP as of March 2023, due a fundamental disagreement about licensing]
+X:                  https://twitter.com/allengarvin
 
 Donations: People occasionally ask, but I feel I'm highly compensated
     enough in my day job that I don't need any extra revenue. My project
