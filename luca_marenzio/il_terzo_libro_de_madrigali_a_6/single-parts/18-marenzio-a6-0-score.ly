@@ -22,8 +22,9 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "piangea_filli"
     shortcomp = "marenzio"
-    categories = "[amore,parting,pastoral]"
-    motifs = "[madrigal]"
+    motifs = "[amore,parting,pastoral]"
+    categories = "[madrigal]"
+    rhyme = "AbBCdCdeE"
     needtranslation = #'f
     folio = "Giovan Battista Strozzi il vecchio (1504-1571)"
 

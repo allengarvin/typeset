@@ -14,6 +14,7 @@
     composer = "Giovanni Pierluigi da Palestrina (c.1525-1594)"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXI ottava 3 }
     instrument = "Se ben non veggon (score)"
+    poeticform = "ottava rima"
     language = "italian"
     needtranslation = #'f
 

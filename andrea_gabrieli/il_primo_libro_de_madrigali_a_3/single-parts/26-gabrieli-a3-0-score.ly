@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "ma_di_che_debbo"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

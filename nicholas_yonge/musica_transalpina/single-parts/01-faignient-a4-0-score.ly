@@ -26,6 +26,7 @@
     final = "g"
     shorttitle = "these_that_bee_certaine_signes"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

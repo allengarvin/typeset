@@ -24,6 +24,8 @@
     final = "f"
     shorttitle = "giunto_e_pur_lidia"
     categories = "[madrigal]"
+    poeticform = "madrigal"
+    rhyme = "abbcdD"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -93,7 +95,7 @@
             \column {
                 \line { Giunto è pur, Lidia, il mio, }
                 \line { non so se deggia dire: }
-                \line { ò partire ò morire, }
+                \line { o partire o morire, }
                 \line { lasso dirò ben io, }
                 \line { che la morte è partita, }
                 \line { poiché lasciando te lascio la vita.  }

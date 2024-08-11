@@ -13,6 +13,7 @@
 
     % Things that change per part:
     instrument = "Vecchie letrose (score)"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2012-12-23"

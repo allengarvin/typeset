@@ -16,6 +16,7 @@
     instrument = "Cingari simo (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2015-07-06"

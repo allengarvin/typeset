@@ -13,7 +13,7 @@
     title = "Or tu gli cedi e so perché lo fai"
     subtitle = "Seconda parte"
     instrument = "Or tu gli cedi (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous sonnet"
 

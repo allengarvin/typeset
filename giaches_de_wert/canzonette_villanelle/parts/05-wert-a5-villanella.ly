@@ -1,7 +1,7 @@
 %Dica chi vuol
 %allegro viver voglio 
 %Sempre cantar, danzar, star' festeggiando
-%In gioc'e'n riso con amor trescando.
+%In gioco~e'n riso con amor trescando.
 cantoVincipit = \relative c' {
     \time 4/4
     \clef "petrucci-c1"
@@ -45,12 +45,12 @@ cantoLyricsV = \lyricmode {
         al -- le -- gro vi -- ver vo -- glio
     sem -- pre can -- tar, __ dan -- zar, __
     star fe -- steg -- gian -- do
-    In gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    In gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
     \ijLyrics
         con a -- mor tre -- scan -- do,
@@ -103,13 +103,13 @@ altoLyricsV = \lyricmode {
         al -- le -- gro vi -- ver vo -- glio,
     sem -- pre can -- tar, __ dan -- zar, __
     star fe -- steg -- gian -- do
-    In gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    In gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
     \ijLyrics
         con a -- mor tre -- scan -- do,
     \normalLyrics
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
     \ijLyrics
         con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
@@ -160,13 +160,13 @@ tenoreLyricsV = \lyricmode {
     di -- ca chi vuol al -- le -- gro vi -- ver vo -- glio,
         al -- le -- gro vi -- ver vo -- glio
         al -- le -- gro vi -- ver vo -- glio;
-    In gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    In gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
     \ijLyrics
         con a -- mor tre -- scan -- do,
     \normalLyrics
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do.
             tre -- scan -- do.
@@ -208,13 +208,13 @@ bassoLyricsV = \lyricmode {
     \normalLyrics
     di -- ca chi vuol al -- le -- gro vi -- ver vo -- glio, __
         al -- le -- gro vi -- ver vo -- glio;
-    In gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    In gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
     \ijLyrics
         con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
     \normalLyrics
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
     \ijLyrics
         con a -- mor tre -- scan -- do,
@@ -267,15 +267,15 @@ quintoLyricsV = \lyricmode {
             vi -- ver vo -- glio
     sem -- pre can -- tar, __ dan -- zar, __
     star fe -- steg -- gian -- do
-    In gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    In gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
     \ijLyrics
         con a -- mor tre -- scan -- do,
     \normalLyrics
         con a -- mor tre -- scan -- do,
-    in gio -- c'e'n ri -- so con a -- mor tre -- scan -- do,
+    in gio -- co~e'n ri -- so con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do,
         con a -- mor tre -- scan -- do.

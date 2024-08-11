@@ -16,6 +16,7 @@
     instrument = "Le vecchie per invidia sono pazze (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     composer = "Francesco Corteccia (1502-1571)"

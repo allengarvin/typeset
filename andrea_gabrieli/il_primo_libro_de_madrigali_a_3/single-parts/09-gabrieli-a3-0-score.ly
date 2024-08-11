@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "ma_poi_chel_mio_destino"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

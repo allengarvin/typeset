@@ -22,8 +22,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_quante_volte_in_van"
     shortcomp = "marenzio"
-    categories = "[amore]"
-    motifs = "[madrigal]"
+    motifs = "[amore]"
+    categories = "[madrigal]"
     needtranslation = #'f
     folio = "Giovanni Battista Guarini (1538-1612)"
 

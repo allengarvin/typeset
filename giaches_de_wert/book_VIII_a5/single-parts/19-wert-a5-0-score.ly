@@ -23,7 +23,7 @@
     shorttitle = "questi_odorati"
     poeticform = "madrigal"
     rhyme = "aBacBDD"
-    categories = "[madrigal]"
+    categories = "[madrigal,favorite]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

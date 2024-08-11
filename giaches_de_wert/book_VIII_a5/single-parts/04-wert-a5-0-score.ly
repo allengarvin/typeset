@@ -24,7 +24,7 @@
     poeticform = "ottava rima"
     rhyme = "ABABABCC"
     shorttitle = "vezzosi_augelli"
-    categories = "[madrigal,animal]"
+    categories = "[madrigal,animal,favorite]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

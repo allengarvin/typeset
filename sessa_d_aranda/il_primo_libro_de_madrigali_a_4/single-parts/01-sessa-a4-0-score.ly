@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "fu_il_vincer"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

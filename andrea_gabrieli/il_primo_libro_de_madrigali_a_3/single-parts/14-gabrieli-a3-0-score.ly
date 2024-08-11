@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "sopra_il_sanguigno"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

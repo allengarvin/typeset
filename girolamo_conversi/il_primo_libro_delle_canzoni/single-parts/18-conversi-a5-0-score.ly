@@ -17,6 +17,7 @@
     shorttitle = "io_cantero_di_quellalmo_splendore"
     shortcomp = "conversi"
     needtranslation = #'t
+    categories = "[villanella]"
 
     % Unchanging:
     language = "italian"

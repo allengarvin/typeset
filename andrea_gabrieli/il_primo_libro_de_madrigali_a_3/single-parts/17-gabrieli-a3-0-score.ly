@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "dove_speranza_mia"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

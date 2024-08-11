@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "tra_le_purpuree_rose"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

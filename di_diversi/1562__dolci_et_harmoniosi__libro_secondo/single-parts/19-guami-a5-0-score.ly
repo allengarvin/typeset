@@ -13,6 +13,8 @@
     title = "Gravi pene in amor si provan molte"
     composer = "Gioseffo Guami (1542-1611)"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XVI ottava 1 }
+
+    poeticform = "ottava rima"
     instrument = "Gravi pene in amor (score)"
     language = "italian"
     needtranslation = #'f

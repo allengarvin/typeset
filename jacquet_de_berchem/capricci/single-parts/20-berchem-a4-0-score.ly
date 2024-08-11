@@ -15,6 +15,7 @@
     instrument = "Di questo Orlando avea gran doglia: Seguita Orlando (score)"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 73 }
+    poeticform = "ottava rima"
 
     % Unchanging:
     language = "italian"

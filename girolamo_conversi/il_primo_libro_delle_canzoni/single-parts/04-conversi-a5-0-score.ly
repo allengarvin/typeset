@@ -19,7 +19,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "nasce_la_doglia_mia"
     shortcomp = "conversi"
-    categories = "[canzone]"
+    categories = "[villanella]"
     final = "g"
     flats = 1
     needtranslation = #'f

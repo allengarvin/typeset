@@ -15,6 +15,7 @@
     instrument = "Quando mi miri con quessi occhi ladri:  (score)"
     needtranslation = #'f
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     lastupdated = "2019-08-31"

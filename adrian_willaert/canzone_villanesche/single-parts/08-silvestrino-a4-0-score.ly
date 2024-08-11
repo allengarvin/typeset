@@ -13,6 +13,7 @@
     title = "O Dio se vede chiaro cha te moro"
     language = "italian"
     instrument = "O Dio se vede chiaro cha te moro (score)"
+    categories = "[villanella]"
 
     % Unchanging:
     composer = "Francesco Silvestrino (1502-1571)"

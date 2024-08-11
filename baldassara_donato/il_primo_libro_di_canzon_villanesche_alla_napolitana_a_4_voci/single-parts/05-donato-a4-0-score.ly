@@ -16,6 +16,7 @@
     instrument = "Se sai ch'io t'amo (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2015-08-31"

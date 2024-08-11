@@ -4,7 +4,7 @@
 %Ama il bel Cigno suo la Dea d'amore;
 %Ama la donna mia
 %Un augellin selvaggio, e mentre ch'ella
-%Com'hor gioiosa e bella
+%Com'or gioiosa e bella
 %Lo terrà nel suo amor dolce e benigno,
 %A lui s'inchineran l'Aquila e'l Cigno.
 %
@@ -55,8 +55,8 @@ cantoLyricsXXIII = \lyricmode {
         la Dea d'a -- mo -- re,
     A -- ma la don -- na mi -- a
     Un au -- gel -- lin sel -- vag -- gio, e men -- tre ch'el -- la
-    Com' hor gio -- io -- sa~e bel -- la,
-    Com' hor gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
     Lo ter -- rà nel suo~a -- mor dol -- ce~e be -- ni -- gno,
     A lui s'in -- chi -- ne -- ran,
     A lui s'in -- chi -- ne -- ran l'A -- qui -- la~e'l Ci -- gno,
@@ -112,8 +112,8 @@ altoLyricsXXIII = \lyricmode {
         la Dea d'a -- mo -- re,
     A -- ma la don -- na mi -- a
     Un au -- gel -- lin sel -- vag -- gio, e men -- tre ch'el -- la
-    Com' hor gio -- io -- sa~e bel -- la,
-    Com' hor gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
     Lo ter -- rà,
     Lo __ ter -- rà nel suo~a -- mor dol -- ce~e be -- ni -- gno,
     A lui s'in -- chi -- ne -- ran,
@@ -168,8 +168,8 @@ tenoreLyricsXXIII = \lyricmode {
     \normalLyrics
     A -- ma la don -- na mi -- a
     Un au -- gel -- lin sel -- vag -- gio, e men -- tre ch'el -- la
-    Com' hor gio -- io -- sa~e bel -- la,
-    Com' hor gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
     Lo ter -- rà nel suo~a -- mor, __
     Lo ter -- rà nel suo~a -- mor dol -- ce~e be -- ni -- gno,
     A lui s'in -- chi -- ne -- ran l'A -- qui -- la~e'l Ci -- gno,
@@ -218,8 +218,8 @@ bassoLyricsXXIII = \lyricmode {
     A -- ma~il bel Ci -- gno suo la Dea d'a -- mo -- re,
     A -- ma la don -- na mi -- a
     Un au -- gel -- lin sel -- vag -- gio, e men -- tre ch'el -- la
-    Com' hor gio -- io -- sa~e bel -- la,
-    Com' hor gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
     Lo ter -- rà,
     Lo ter -- rà nel suo~a -- mor dol -- ce~e be -- ni -- gno,
     A lui s'in -- chi -- ne -- ran l'A -- qui -- la~e'l Ci -- gno,
@@ -271,8 +271,8 @@ quintoLyricsXXIII = \lyricmode {
         la Dea d'a -- mo -- re,
     A -- ma la don -- na mi -- a
     Un au -- gel -- lin sel -- vag -- gio, e men -- tre ch'el -- la
-    Com' hor gio -- io -- sa~e bel -- la,
-    Com' hor gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
+    Co -- m'or gio -- io -- sa~e bel -- la,
     Lo ter -- rà nel __ suo~a -- mor,
     Lo ter -- rà nel suo~a -- mor dol -- ce~e be -- ni -- gno,
     A lui s'in -- chi -- ne -- ran,

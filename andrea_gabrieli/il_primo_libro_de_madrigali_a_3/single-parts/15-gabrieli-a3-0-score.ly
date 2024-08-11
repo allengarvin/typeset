@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "il_dolce_sonno"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

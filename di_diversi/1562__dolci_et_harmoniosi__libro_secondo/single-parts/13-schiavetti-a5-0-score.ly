@@ -13,6 +13,7 @@
     title = "Era il bel viso suo, quale esser suole"
     composer = "Giulio Schiavetti (fl.1562-5)"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XI ottava 65 }
+    poeticform = "ottava rima"
     instrument = "Era il bel viso suo (score)"
     language = "italian"
     needtranslation = #'f

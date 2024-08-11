@@ -21,7 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "candido_cigno"
     shortcomp = "caimo"
-    categories = "[]"
+    categories = "[villanella]"
     needtranslation = #'t
 
     % Unchanging:

@@ -16,6 +16,7 @@
     instrument = "Madonna mia (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     composer = "Anonymous"

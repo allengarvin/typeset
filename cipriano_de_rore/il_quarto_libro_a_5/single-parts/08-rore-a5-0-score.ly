@@ -10,20 +10,22 @@
 
 \header {
     % Things that change per piece:
-    title = "Quando signor lasciate entro a le rive"
+    title = "Quando signor lasciaste entro a le rive"
     subtitle = "Prima parte"
-    instrument = "Quando signor lasciate (score)"
+    instrument = "Quando signor lasciaste (score)"
     language = "italian"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Giovanni Battista Giraldi Cinzio (1504-1573)"
+    poeticform = "ottava rima"
 
     % Unchanging:
     originallyset = "2015-08-08"
     lastupdated = "2015-08-08"
     flats = 0
     final = "d"
-    shorttitle = "quando_signor_lasciate"
+    shorttitle = "quando_signor_lasciaste"
     categories = "[madrigal]"
+    motifs = "[nymphs,po,latona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -31,7 +33,7 @@
 \include "../parts/08-rore-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "08-rore--quando_signor_lasciate"
+    \bookOutputName "08-rore--quando_signor_lasciaste"
     \bookOutputSuffix "--0-score"
     \score {
         <<
@@ -91,15 +93,26 @@
     \markup {
         \fill-line {
             \column {
-            \vspace #4
-                \line { Quando signor lasciate entro a le rive  }
-                \line { Mesto il fiume più bel ch’Italia bagne  }
-                \line { Restar gl’arbori tutti e le campagne }
-                \line { Di fior, di frond’ e di vaghezza prive,  }
-                \line { La figlia di Latona e le campagne  }
-                \line { Dire s’udiro d’ogni gioia schive }
-                \line { Perchè da noi, signor, or ti scompagne?  }
-                \line { Perchè del maggior ben nostro ne prive?  }
+                \line { Quando, signor, lasciaste entro a le rive }
+                \line { mesto il fiume più bel ch'Italia bagne }
+                \line { restar gli arbori tutti e le campagne }
+                \line { di fior, di frond' e di vaghezza prive. }
+                \line { La figlia di Latona e le compagne }
+                \line { dire s'udiro, d'ogni gioia schive: }
+                \line { Perché da noi, signor, or ti scompagne? }
+                \line { Perché del maggior ben nostro ne prive? }
+            }
+            \column {
+                % translation: 2023-12-09
+                \line { When, Lord, sad, you left the banks }
+                \line { of the loveliest river that bathes Italia, }
+                \line { all the trees and the fields remained }
+                \line { deprived of flowers, of fronds and of happiness. }
+                \line { The daughter of Latona and her campanions }
+                \line { were heard to say, bereft of every joy: }
+                \line { Why from us, Lord, do you now part? }
+                \line { Why do you deprive us of our greatest blessing? }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

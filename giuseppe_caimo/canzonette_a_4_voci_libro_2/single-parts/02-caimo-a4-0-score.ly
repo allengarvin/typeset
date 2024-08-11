@@ -15,6 +15,7 @@
     instrument = "Parmi di star la notte (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2015-06-07"
@@ -88,12 +89,12 @@
                 \vspace #2
                 \line { Bascioti mille volte il dolce viso } 
                 \line { E dormo nel tuo petto inzucherato } 
-                \line { Deh dolce sonno tu me fai beato. } 
+                \line { Deh dolce sogno tu me fai beato. } 
             }
             \column {
                 \line { E stommi teco in gioco, in canto e riso, } 
                 \line { Che non hò invidia ad huomo che sia nato, } 
-                \line { Deh dolce sonno tu me fai beato. } 
+                \line { Deh dolce sogno tu me fai beato. } 
                 \vspace #2
                 \line { Di gratia sogno non mi abandonare, } 
                 \line { Fa ch'ogni notte mi venghi a trovare } 

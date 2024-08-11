@@ -16,6 +16,8 @@
     composer = "Hoste da Reggio (c.1520-1569)"
     instrument = "Crudel, di che peccato a doler t'hai (score)"
 
+    categories = "[madrigal,ariosto]"
+    motifs = "[torment]"
     % Unchanging:
     \include "include/distribution-header.ly"
     lastupdated = "2013-08-07"

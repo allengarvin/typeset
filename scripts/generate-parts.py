@@ -209,7 +209,7 @@ def main(args):
 }
 """
     if not os.path.isdir("test"):
-        os.mkdir(test)
+        os.mkdir("test")
     score_fn = args.file.replace(".ly", "-score.ly")
     if os.path.isfile(args.file):
         print("Error: {} already exists. Remove it first. Will not overwrite".format(args.file))

@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "e_con_la_faccia"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

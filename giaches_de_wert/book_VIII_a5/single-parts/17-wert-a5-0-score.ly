@@ -24,7 +24,7 @@
     shorttitle = "forsennata_gridava"
     poeticform = "ottava rima"
     rhyme = "ABABABCC"
-    categories = "[madrigal]"
+    categories = "[madrigal,favorite]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -13,6 +13,7 @@
     title = "Era il bel viso suo"
     subtitle = "Prima parte"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XI ottava 65 }
+    poeticform = "ottava rima"
     composer = "Cipriano de Rore (c.1515-1565)"
     instrument = "Era il bel viso suo (score)"
     language = "italian"

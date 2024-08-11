@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "deh_dove_senza_me"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

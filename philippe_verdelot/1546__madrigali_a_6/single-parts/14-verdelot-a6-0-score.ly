@@ -21,6 +21,7 @@
     shorttitle = "queste_non_son_piu_lacrime_che_fuore"
     shortcomp = "verdelot"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     needtranslation = #'f
     final = "a"
     flats = 0

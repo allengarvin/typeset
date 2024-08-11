@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "O gran bonta de' cavallieri antiqui"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 22 }
+    poeticform = "ottava rima"
     instrument = "O gran bonta de' cavallieri antiqui (score)"
     language = "italian"
     needtranslation = #'f

@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "dunque_fia_ver"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

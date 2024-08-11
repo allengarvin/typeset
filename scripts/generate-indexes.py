@@ -368,7 +368,7 @@ def write_pieces(coll):
 
 
         if folio != None and len(folio) and "Fol." not in folio:
-            p_html += "Text source: {}<p>\n".format(folio)
+            p_html += "Text source/Source info: {}<p>\n".format(folio)
 
         if len(preview) == 1:
             p_html += "    " * 2 + '\n\n<center><img src="{}" alt="preview of first system of score" \/></center><p>\n\n'.format(basename(preview[0]))
@@ -521,14 +521,27 @@ def write_composer_index(args):
         # click to expand list? https://www.w3schools.com/howto/howto_js_collapsible.asp
 
         for cl in c.collections:
+            doc_dir = cl.path + "/doc/"
+            docs = sorted(glob.glob(doc_dir + "*.html"))
+            doc_html = None
+            if len(docs):
+                doc_html = "Documentation: <br>\n  <ul>\n"
+                for dc in docs:
+                    if os.path.isfile(doc_dir + basename_no_suffix(dc) + ".txt"):
+                        doc_desc = open(doc_dir + basename_no_suffix(dc) + ".txt").read().strip()
+                    else:
+                        doc_desc = basename(dc)
+                    doc_html += "<li><a href='doc/{fn}'>{desc}</a></li>\n".format(fn=basename(dc), desc=doc_desc)
+                doc_html += "</ul><p>\n"
+                
+#            dedications = sorted(glob.glob(cl.path + "/doc/dedication*html"))
+#            ded_html = None
+#            if len(dedications):
+#                ded_html = "Dedications transcribed:<br><ul>\n" 
+#                for df in dedications:
+#                    ded_html += "<li><a href='doc/{0}'>{1}</a></li>\n".format(basename(df), basename(df))
+#                ded_html += "</ul><p>\n"
 
-            dedications = sorted(glob.glob(cl.path + "/doc/dedication*html"))
-            ded_html = None
-            if len(dedications):
-                ded_html = "Dedications transcribed:<br><ul>\n" 
-                for df in dedications:
-                    ded_html += "<li><a href='doc/{0}'>{1}</a></li>\n".format(basename(df), basename(df))
-                ded_html += "</ul><p>\n"
             piece_list = write_pieces(cl)
 
             facs = check_facsimile(cl)
@@ -570,11 +583,17 @@ def write_composer_index(args):
     </body>
     <!-- generate_index.py ran at {isotime} -->
 </html>
-""".format(cname=cl.title, dedications=(ded_html if ded_html else ""), comp_name=c.name_alone, publisher=cl.publisher, composer=c.short_name, isotime=datetime.datetime.now().isoformat(), piece_list=piece_list, catalog=("" if catalog == None else catalog), facsimiles=("" if fac_html == None else fac_html))
+""".format(cname=cl.title, dedications=(doc_html if doc_html else ""), comp_name=c.name_alone, publisher=cl.publisher, composer=c.short_name, isotime=datetime.datetime.now().isoformat(), piece_list=piece_list, catalog=("" if catalog == None else catalog), facsimiles=("" if fac_html == None else fac_html))
             fd = open(cl.path + "/index.html", "w")
             fd.write(chtml)
             fd.close()
 
+
+def basename_no_suffix(s):
+    n = s.split("/")[-1]
+    if "." in n:
+        n = ".".join(n.split(".")[:-1])
+    return n
 
 def basename(s):
     return s.split("/")[-1]
@@ -589,7 +608,9 @@ def build_data(args):
 
     for dn, sd_list, filelist in os.walk("/home/agarvin/typeset.new"):
         dir_parts = dn.split("/")
-        if output_re.match(dir_parts[-1]) and len(dir_parts) == 8 and dir_parts[-2] == "single-parts":
+        if "christmas" in dir_parts:
+            continue
+        if output_re.match(dir_parts[-1]) and len(dir_parts) == 8 and (dir_parts[-2] == "high-clefs" or dir_parts[-2] == "single-parts"):
             piece, collect, composer = dn, "/".join(dir_parts[:-2]), "/".join(dir_parts[:-3])
             piece_dirs.append(piece)
             if collect not in collect_dirs:

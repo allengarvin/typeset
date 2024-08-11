@@ -21,6 +21,7 @@
     originallyset = "2019-01-16"
     lastupdated = "2019-01-16"
     flats = 0
+    categories = "[villanella]"
     final = "c"
     \include "include/distribution-header.ly"
     tagline = #'f

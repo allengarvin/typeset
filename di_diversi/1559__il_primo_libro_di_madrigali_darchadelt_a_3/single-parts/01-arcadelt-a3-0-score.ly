@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Gravi pene in amor si provan molte"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XVI ottava 1 }
+    poeticform = "ottava rima"
     composer = "Jacob Arcadelt (c.1507-1568)"
     instrument = "Gravi pene in amor (score)"
     language = "italian"

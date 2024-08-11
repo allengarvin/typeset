@@ -19,7 +19,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "amore_laltro_giorno_se_nandava"
     shortcomp = "dattari"
-    categories = "[]"
+    categories = "[villanella]"
     final = "f"
     flats = 1
     needtranslation = #'f

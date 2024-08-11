@@ -16,6 +16,7 @@
     instrument = "Madonna io non lo (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2015-09-13"

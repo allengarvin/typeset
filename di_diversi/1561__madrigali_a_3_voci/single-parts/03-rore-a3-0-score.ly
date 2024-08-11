@@ -13,6 +13,7 @@
     title = "Io dico e dissi, e dirò fin ch’io viva"
     subtitle = "Seconda parte"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XVI ottava 2 }
+    poeticform = "ottava rima"
     composer = "Cipriano de Rore (c.1515-1565)"
     instrument = "Io dico e dissi (score)"
     language = "italian"

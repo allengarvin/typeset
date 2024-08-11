@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Deh, dove senza me, dolce mia vita"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 76 }
+    poeticform = "ottava rima"
     instrument = "Deh, dove senza me (score)"
     language = "italian"
     needtranslation = #'f

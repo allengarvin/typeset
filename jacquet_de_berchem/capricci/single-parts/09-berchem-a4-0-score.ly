@@ -13,6 +13,7 @@
     title = "Pieno di dolce e d’amoroso affetto"
     subtitle = "Angelica si dimostra Cortese a Sacripante"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 54 }
+    poeticform = "ottava rima"
     instrument = "Pieno di dolce (score)"
     language = "italian"
     needtranslation = #'f

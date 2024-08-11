@@ -21,7 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_dolce_sonno"
     shortcomp = "monte"
-    categories = "[]"
+    categories = "[madrigal]"
     motifs = "[]"
     needtranslation = #'t
     folio = "Pietro Arigone"

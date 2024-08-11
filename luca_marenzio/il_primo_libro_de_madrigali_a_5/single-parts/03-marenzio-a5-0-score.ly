@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     categories = "[madrigal]"
+    rhyme = "ABBAABBA"
     motifs = "[pastoral,flowers,spring]"
     \include "include/distribution-header.ly"
     tagline = #'f

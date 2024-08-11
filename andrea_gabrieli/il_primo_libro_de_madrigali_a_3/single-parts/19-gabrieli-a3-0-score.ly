@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "e_dove_none_potea"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

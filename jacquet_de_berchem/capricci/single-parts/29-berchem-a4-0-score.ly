@@ -20,6 +20,7 @@
     shorttitle = "che_rami_e_ceppi_e_tronchi_e_sassi_e_zolle"
     shortcomp = "berchem"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 131 }
+    poeticform = "ottava rima"
     categories = "[madrigal,furioso]"
     final = "d"
     flats = 1

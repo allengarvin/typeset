@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "cosi_cor_mio"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

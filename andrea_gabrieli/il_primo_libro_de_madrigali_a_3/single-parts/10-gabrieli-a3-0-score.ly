@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "a_questo_la_mestissima"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -13,6 +13,7 @@
     title = "Io vò gridando come spiritato"
     language = "italian"
     instrument = "Io vò gridando come spiritato (score)"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2013-06-09"

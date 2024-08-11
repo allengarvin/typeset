@@ -13,6 +13,7 @@
     title = "E ne la face de begli occhi accende"
     subtitle = "Seconda parte"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XI ottava 66 }
+    poeticform = "ottava rima"
     composer = "Cipriano de Rore (c.1515-1566)"
     instrument = "E ne la face (score)"
     language = "italian"

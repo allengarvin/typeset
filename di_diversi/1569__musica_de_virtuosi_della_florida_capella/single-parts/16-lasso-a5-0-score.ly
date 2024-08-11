@@ -18,6 +18,8 @@
     shortcomp = "lasso"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 41 }
+    poeticform = "ottava rima"
+
     composer = "Orlando di Lasso (c.1532-1594)"
 
     % Unchanging:

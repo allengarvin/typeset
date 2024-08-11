@@ -14,6 +14,7 @@
     instrument = "A quand'a quand' havea una vicina  (score)"
     needtranslation = #'f
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     lastupdated = "2013-04-21"

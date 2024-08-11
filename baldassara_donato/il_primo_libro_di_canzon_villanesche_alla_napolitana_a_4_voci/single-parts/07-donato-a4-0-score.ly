@@ -19,6 +19,7 @@
 
     % Unchanging:
     originallyset = "2015-09-01"
+    categories = "[villanella]"
     lastupdated = "2015-09-01"
     flats = 1
     final = "g"

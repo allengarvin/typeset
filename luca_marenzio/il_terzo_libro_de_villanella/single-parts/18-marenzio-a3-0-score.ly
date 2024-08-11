@@ -17,6 +17,7 @@
     shorttitle = "ad_una_fresca_riva"
     shortcomp = "marenzio"
     needtranslation = #'f
+    categories = "[villanella]"
 
     % Unchanging:
     language = "italian"

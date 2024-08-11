@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "ella_non_sa"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "All’apparir che fece all’improviso"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 29 }
+    poeticform = "ottava rima"
     instrument = "All’apparir che fece all’improviso (score)"
     language = "italian"
     needtranslation = #'f

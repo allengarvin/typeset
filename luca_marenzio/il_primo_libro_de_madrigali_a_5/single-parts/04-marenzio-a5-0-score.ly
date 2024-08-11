@@ -24,6 +24,7 @@
     flats = 0
     final = "g"
     categories = "[madrigal]"
+    rhyme = "ABCCBA"
     motifs = "[spring,flowers,amore,kisses]"
     \include "include/distribution-header.ly"
     tagline = #'f

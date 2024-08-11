@@ -21,6 +21,8 @@
     final = "g"
     flats = 1
     folio = "Giovanni Battista Guarini (1538-1612)"
+    poeticform = "madrigal"
+    rhyme = "aBbcddEE"
 
     % Unchanging:
     language = "italian"

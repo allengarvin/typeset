@@ -14,7 +14,7 @@
     subtitle = "Seconda parte"
     instrument = "Ma poi che vostra altezza (score)"
     language = "italian"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Giovanni Battista Giraldi Cinzio (1504-1573)"
 
     % Unchanging:
@@ -92,11 +92,21 @@
         \fill-line {
             \column {
                 \line { Ma poi che vostra altezza a noi ritorna }
-                \line { Ripiglian l’o -- nor suo gl’arbor, le valli,  }
-                \line { E festa fan tutte le Nimphe insieme.  }
+                \line { ripiglian l'onor suo gli arbor, le valli, }
+                \line { e festa fan tutte le Ninfe insieme. }
                 \line { Alza dal molle suo letto le corna }
-                \line { Il Po e ripieno di leggiadra speme  }
-                \line { Si gode a pien tra i suoi puri cristalli. }
+                \line { il Po, e ripieno di leggiadra speme }
+                \line { si gode a pien tra i suoi puri cristalli. }
+            }
+            \column {
+                % translation: 2023-12-09
+                \line { But then as your highness to us returns, }
+                \line { the trees and the valleys reclaim their honor, }
+                \line { and all the Nymphs celebrate together. }
+                \line { Rising from its soft bed, the Po lifts his horns, }
+                \line { and filled with graceful hope, }
+                \line { rejoices fully amongst his pure crystals. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

@@ -21,6 +21,7 @@
     lastupdated = "2018-10-03"
     flats = 0
     final = "d"
+    categories = "[villanella]"
     shorttitle = "venimo_tre_soldati"
     \include "include/distribution-header.ly"
     tagline = #'f

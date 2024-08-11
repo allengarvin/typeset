@@ -16,6 +16,7 @@
     needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2016-04-29"

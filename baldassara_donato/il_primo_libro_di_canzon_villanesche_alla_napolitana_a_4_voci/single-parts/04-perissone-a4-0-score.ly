@@ -15,6 +15,7 @@
     instrument = "Zucharo porti dentro:  (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     lastupdated = "2019-04-30"

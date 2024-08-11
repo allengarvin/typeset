@@ -19,6 +19,7 @@
     categories = "[madrigal,furioso]"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 128 }
+    poeticform = "ottava rima"
 
     % Unchanging:
     language = "italian"

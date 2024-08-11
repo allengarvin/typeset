@@ -23,6 +23,8 @@
     final = "a"
     shorttitle = "grido_piu_volte_il_po"
     categories = "[madrigal]"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

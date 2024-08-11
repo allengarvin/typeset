@@ -18,6 +18,7 @@
     % Unchanging:
     originallyset = "2015-01-02"
     lastupdated = "2015-01-02"
+    categories = "[villanella]"
     flats = 1
     final = "f"
     shorttitle = "vita_de_la_mia_vita"

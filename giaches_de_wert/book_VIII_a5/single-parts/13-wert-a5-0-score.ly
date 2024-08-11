@@ -25,7 +25,7 @@
     shorttitle = "poi_comincio"
     rhyme = "ABABABCC"
     poeticform = "ottava rima"
-    categories = "[madrigal]"
+    categories = "[madrigal,favorite]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

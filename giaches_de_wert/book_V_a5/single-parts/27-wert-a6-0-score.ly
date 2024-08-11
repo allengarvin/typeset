@@ -15,6 +15,7 @@
     language = "italian"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 126 }
+    poeticform = "ottava rima"
 
     % Unchanging:
     originallyset = "2013-09-18"

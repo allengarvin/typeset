@@ -17,6 +17,7 @@
     instrument = "Occhi leggiadr'e cari:  (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     lastupdated = "2019-01-27"

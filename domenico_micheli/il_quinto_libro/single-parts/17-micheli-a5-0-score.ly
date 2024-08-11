@@ -18,7 +18,7 @@
     shortcomp = "micheli"
     needtranslation = #'f
     folio = \markup { Dante, \italic { Inferno } III, 22-27 }
-
+    poeticform = "terza rima"
 
     % Unchanging:
     language = "italian"

@@ -22,6 +22,8 @@
     lastupdated = "2019-01-26"
     flats = 1
     final = "f"
+    categories = "[villanella,favorite]"
+    motifs = "[joy]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -82,21 +84,23 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 68 2)
+                tempoWholesPerMinute = #(ly:make-moment 80 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
+                % changed "gioc'e" to "gioco e" to be certain it's pronounced with a hard c
                 \line { Dica chi vuol, allegro viver voglio: }
-                \line { sempre cantar, danzar, star' festeggiando, }
-                \line { in gioc'e'n riso con amor trescando. }
+                \line { sempre cantar, danzar, star' festeggiando }
+                \line { in gioco e'n riso con amor trescando. }
             }
             \column { 
                 % translation: 2023-04-08
-                \line { Whoever may say what the wish, I want to live cheerfully: }
-                \line { always singing, dancing, to be celebrating, }
+                % touch up: 2024-08-10
+                \line { Who may say as they will, I wish to live cheerfully: }
+                \line { always singing, dancing, to be celebrating,}
                 \line { in play and laughter, flirting with love. }
                 \line { \hspace #10 \italic { translation by editor } }
             }

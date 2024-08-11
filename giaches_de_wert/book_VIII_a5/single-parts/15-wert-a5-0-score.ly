@@ -25,7 +25,7 @@
     shorttitle = "aggiungi_a_questo_ancor"
     poeticform = "ottava rima"
     rhyme = "ABABABCC"
-    categories = "[madrigal]"
+    categories = "[madrigal,favorite]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

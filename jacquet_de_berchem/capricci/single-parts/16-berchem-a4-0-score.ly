@@ -13,6 +13,7 @@
     title = "Oh troppo cara, oh troppo escelsa preda"
     subtitle = "Angelica pigliata da li Barbari"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 62 }
+    poeticform = "ottava rima"
     instrument = "Oh troppo cara (score)"
     language = "italian"
     needtranslation = #'f

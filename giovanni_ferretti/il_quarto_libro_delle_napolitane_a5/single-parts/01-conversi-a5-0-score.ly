@@ -17,6 +17,7 @@
     % Unchanging:
     originallyset = "2016-04-26"
     lastupdated = "2016-04-26"
+    categories = "[villanella]"
     flats = 0
     final = "d"
     shorttitle = "quella_che_gli_occhi"

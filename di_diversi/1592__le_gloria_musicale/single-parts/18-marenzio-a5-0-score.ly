@@ -22,8 +22,8 @@
     shorttitle = "coppia_di_donne_altera"
     shortcomp = "marenzio"
     composer = "Luca Marenzio (c.1553-1599)"
-    categories = "[amore]"
-    motifs = "[]"
+    categories = "[madrigal]"
+    motifs = "[amore]"
     needtranslation = #'f
 
     % Unchanging:

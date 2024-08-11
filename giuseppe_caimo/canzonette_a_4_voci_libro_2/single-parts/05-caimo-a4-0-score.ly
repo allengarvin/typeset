@@ -15,6 +15,7 @@
     instrument = "Ove, pazzo che sei (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2015-06-07"

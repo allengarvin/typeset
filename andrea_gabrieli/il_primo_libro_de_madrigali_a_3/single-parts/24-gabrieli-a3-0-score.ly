@@ -24,6 +24,7 @@
     final = "e"
     shorttitle = "se_questo_altier"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

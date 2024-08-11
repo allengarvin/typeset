@@ -16,6 +16,7 @@
     instrument = "Occhi lucenti assai (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2015-08-30"

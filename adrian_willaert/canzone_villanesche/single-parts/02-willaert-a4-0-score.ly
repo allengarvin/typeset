@@ -16,6 +16,7 @@
     instrument = "O dolce vita mia (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2012-12-23"

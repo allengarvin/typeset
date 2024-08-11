@@ -51,11 +51,22 @@ def find_text(lines, fn):
             if "vspace" in l:
                 t = ""
             else:
-                t = l[l.index("{")+1:len(l)-l[::-1].index("}")-1].strip()
+                try:
+                    t = l[l.index("{")+1:len(l)-l[::-1].index("}")-1].strip()
+                except:
+                    print("Problem with matching braces in", fn)
+                    print(f"Line: <{l}>")
+                    sys.exit(1)
             if "\\hspace #" in t:
-                a, b = t.split("\\hspace #")
-                n, c = b.split(" ", 1)
-                t = a + "&nbsp;" * int(n) + c
+                try:
+                    a, b = t.split("\\hspace #")
+                    n, c = b.split(" ", 1)
+                    t = a + "&nbsp;" * int(n) + c
+                except:
+                    print(l)
+                    print(b)
+                    print("problem", fn)
+                    sys.exit(1)
             sections[-1].append(t)
         #print(l)
     if len(sections) != 2:
@@ -229,6 +240,8 @@ def filter_my_translations(args, fn):
     for line in fd:
         if not line.startswith("            "):
             continue
+        if "SKIP" in line:
+            return False
         if "\\line" in line and "translation by editor" in line.lower():
             return True
     return False
@@ -295,6 +308,7 @@ translations into period English. With a search engine! I've also got a physical
 </ul>
 <p>
 As of May 2023, I've done about 120 translation, and I've got 570 to go (!!).<br>
+May 2024: more than 250!
 <ol>
 """)
     for i, fn in enumerate(my_scores):

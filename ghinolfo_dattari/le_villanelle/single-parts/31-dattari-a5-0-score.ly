@@ -22,6 +22,7 @@
     language = "italian"
     lastupdated = "2022-05-16"
     originallyset = "2022-05-16"
+    categories = "[villanella]"
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"

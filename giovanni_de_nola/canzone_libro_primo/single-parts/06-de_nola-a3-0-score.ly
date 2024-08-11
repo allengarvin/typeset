@@ -15,6 +15,7 @@
     instrument = "Chi la gagliarda:  (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2018-12-22"

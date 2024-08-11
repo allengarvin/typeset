@@ -15,6 +15,7 @@
     instrument = "Tu ridi sempre mai (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2015-06-14"

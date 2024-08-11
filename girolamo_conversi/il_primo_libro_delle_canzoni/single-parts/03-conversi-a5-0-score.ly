@@ -16,6 +16,7 @@
     instrument = "Ma se tempo gia mai verrà (score)"
     needtranslation = #'f
     folio = "Anonymous poet"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2016-04-29"

@@ -13,6 +13,7 @@
     title = "Dunque basciar si belle e dolce labbia"
     subtitle = "Prima parte"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXVI ottava 32 }
+    poeticform = "ottava rima"
     source = \markup { \italic { Il primo libro de madrigali a 4 voci } (Venice, 1561) }
     composer = "Giaches de Wert (1535-1596)"
     instrument = "Dunque basciar (score)"

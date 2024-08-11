@@ -13,6 +13,7 @@
     title = "Sempre mi ride sta"
     language = "italian"
     instrument = "Sempre mi ride sta (score)"
+    categories = "[villanella,favorite]"
 
     % Unchanging:
     originallyset = "2018-10-01"

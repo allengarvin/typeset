@@ -24,6 +24,7 @@
     final = "c"
     categories = "[madrigal]"
     motifs = "[amore,pride]"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

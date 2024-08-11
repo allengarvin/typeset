@@ -22,8 +22,9 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "quellombra_esser_vorrei"
     shortcomp = "marenzio"
-    categories = "[amore,slave]"
-    motifs = "[madrigal]"
+    motifs = "[amore,slave]"
+    categories = "[madrigal]"
+    rhyme = "aBBcDdEE"
     needtranslation = #'f
     folio = "Girolamo Casoni (c.1528-1592)"
 

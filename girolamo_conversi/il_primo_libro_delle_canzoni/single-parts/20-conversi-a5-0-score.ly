@@ -17,6 +17,7 @@
     shorttitle = "donne_leggiadre"
     shortcomp = "conversi"
     needtranslation = #'f
+    categories = "[villanella]"
 
     % Unchanging:
     language = "italian"

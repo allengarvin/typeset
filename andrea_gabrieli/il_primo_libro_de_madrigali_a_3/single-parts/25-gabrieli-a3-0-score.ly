@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "deh_ferma_amor"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

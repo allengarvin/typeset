@@ -22,6 +22,7 @@
     shorttitle = "questa_ordi_il_laccio"
     shortcomp = "marenzio"
     categories = "[madrigal]"
+    motifs = "[amore,hunting]"
     needtranslation = #'f
     folio = "Giovan Battista Strozzi, il vecchio (1504-1571)"
 

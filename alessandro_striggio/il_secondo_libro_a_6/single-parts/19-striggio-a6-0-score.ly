@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "hor_se_mi_mostra"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

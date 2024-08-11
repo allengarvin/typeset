@@ -22,7 +22,7 @@
     categories = "[madrigal,ground]"
     final = "c"
     flats = 0
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"
@@ -113,6 +113,47 @@
                 \line { \italic { Insieme: } }
                 \line { Cangia donna pensier etc. }
             }
+            \column {
+                % translation: 2024-01-14
+                \line { \italic { Basso solo: } }
+                \line { No, no, I have no faith }
+                \line { in your flatteries and laughter, }
+                \line { your charms and smiles, }
+                \line { in your deceitful speech. }
+                \line { \vspace #0.5 }
+                \line { \italic { Together: } }
+                \line { A woman changes her mind constantly, }
+                \line { like snow before the son, wax in the fire, a leaf in the wind. }
+                \line { \vspace #0.5 }
+                \line { \italic { Canto solo: } }
+                \line { No, no, I no longer believe }
+                \line { in speaking, in oaths, }
+                \line { in sighs, in laments, }
+                \line { for now I see they are feigned. }
+                \line { \vspace #0.5 }
+                \line { \italic { Together: } }
+                \line { A woman changes her mind ... }
+                \line { \vspace #0.5 }
+                \line { \italic { Basso solo: } }
+                \line { Yes, yes, I know you: }
+                \line { Now you are a wolf, now a lamb, }
+                \line { now you are lightning, now a star. }
+                \line { you mix the sweet with the poison. }
+                \line { \vspace #0.5 }
+                \line { \italic { Together: } }
+                \line { A woman changes her mind ... }
+                \line { \vspace #0.5 }
+                \line { \italic { Canto solo: } }
+                \line { Yes, yes, I have tested you, }
+                \line { liar, deceiver, }
+                \line { traitor, wastrel, }
+                \line { faithless, wretch. }
+                \line { \vspace #0.5 }
+                \line { \italic { Together: } }
+                \line { A woman changes her mind ... }
+                \line { \hspace #10 \italic { translation by editor } } 
+            }
+
         }
     }
 }

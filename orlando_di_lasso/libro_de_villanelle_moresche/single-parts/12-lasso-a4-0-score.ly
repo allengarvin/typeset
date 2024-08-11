@@ -17,6 +17,7 @@
     shorttitle = "matona_mia_cara"
     shortcomp = "lasso"
     needtranslation = #'f
+    categories = "[villanella]"
 
     % Unchanging:
     language = "italian"

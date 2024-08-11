@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "crudel_di_che_peccato"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -15,6 +15,7 @@
     instrument = "Mentre il cuculo (score)"
     needtranslation = #'f
     language = "italian"
+    categories = "[villanella,animal]"
 
     % Unchanging:
     originallyset = "2015-06-06"

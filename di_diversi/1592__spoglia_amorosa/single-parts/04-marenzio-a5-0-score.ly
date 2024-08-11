@@ -101,11 +101,12 @@
             }
             \column {
                 % translation: 2023-11-12
-                \line { Streams, fountains and rivers, to the breeze, to heaven, }
-                \line { so dear and so pleasing to my voice, }
+                % touchup: 2024-08-07
+                \line { Streams, fountains and rivers, to the breeze, to the heavens, }
+                \line { so dear and so welcome to my voice, }
                 \line { cease your flows; and from fresh shade, }
                 \line { beloved laurel with your verdure foliage, }
-                \line { in remembrance of this happy day, }
+                \line { in remembrance of this blessed day, }
                 \line { show yourself more courteous to my joy. }
                 \line { \hspace #10 \italic { translation by editor } }
             }

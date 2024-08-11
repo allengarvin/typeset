@@ -13,6 +13,7 @@
     title = "Ben voi a più di mille e mille segni"
     subtitle = "Seconda parte"
     instrument = "Ben voi a più di mille e mille segni: Seconda parte (score)"
+    poeticform = "sonnet"
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:

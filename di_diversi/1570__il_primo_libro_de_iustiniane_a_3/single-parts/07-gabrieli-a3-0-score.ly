@@ -22,6 +22,7 @@
     lastupdated = "2018-10-14"
     flats = 0
     final = "a"
+    categories = "[villanella]"
     shorttitle = "ancor_che_col_partire"
     \include "include/distribution-header.ly"
     tagline = #'f

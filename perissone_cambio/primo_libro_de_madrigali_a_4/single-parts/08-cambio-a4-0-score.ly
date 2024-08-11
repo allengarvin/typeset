@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Chi mette il piè su l’amorosa pania"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 1 }
+    poeticform = "ottava rima"
 
     % Things that change per part:
     instrument = "Chi mette il piè (score)"

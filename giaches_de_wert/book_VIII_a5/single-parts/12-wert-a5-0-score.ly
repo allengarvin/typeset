@@ -25,7 +25,7 @@
     poeticform = "ottava rima"
     shorttitle = "qual_musico"
     rhyme = "ABABABCC"
-    categories = "[madrigal]"
+    categories = "[madrigal,favorite]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

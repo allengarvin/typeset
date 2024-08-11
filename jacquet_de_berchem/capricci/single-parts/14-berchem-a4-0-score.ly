@@ -13,6 +13,7 @@
     title = "Ch’aver può donna al mondo più di buono"
     subtitle = "Seguita Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 42 }
+    poeticform = "ottava rima"
     instrument = "Ch’aver può donna (score)"
     language = "italian"
     needtranslation = #'f

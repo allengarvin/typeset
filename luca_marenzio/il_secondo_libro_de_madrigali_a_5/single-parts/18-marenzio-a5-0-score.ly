@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "mi_fa_lasso_languire"
     categories = "[madrigal]"
+    motifs = "[hexachord]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

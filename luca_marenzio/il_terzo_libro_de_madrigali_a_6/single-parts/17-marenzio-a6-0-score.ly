@@ -22,8 +22,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "donna_piu_daltra_adorna_di_beltate"
     shortcomp = "marenzio"
-    categories = "[gaze,amore]"
-    motifs = "[madrigal]"
+    motifs = "[gaze,amore]"
+    categories = "[madrigal]"
     rhyme = "AbBccadD"
     needtranslation = #'f
 

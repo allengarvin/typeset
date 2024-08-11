@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "liete_piante"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

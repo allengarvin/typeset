@@ -16,6 +16,7 @@
     instrument = "Li nostri preti (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     composer = "Perissone Cambio (c.1520-c.1562)"

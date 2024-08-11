@@ -25,7 +25,7 @@
     composer = "Cipriano de Rore (c.1515-1565)"
     categories = "[madrigal]"
     motifs = "[grief]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

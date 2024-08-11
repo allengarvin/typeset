@@ -16,6 +16,7 @@
     needtranslation = #'f
     language = "italian"
     headerspace = \markup { \vspace #2 }
+    categories = "[canzone]"
 
     % Unchanging:
     lastupdated = "2019-11-17"

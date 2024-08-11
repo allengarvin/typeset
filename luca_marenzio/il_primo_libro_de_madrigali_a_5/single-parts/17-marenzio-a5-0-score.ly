@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Partirò dunque, ohimè mi manca il core"
     instrument = "Partirò dunque (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
 

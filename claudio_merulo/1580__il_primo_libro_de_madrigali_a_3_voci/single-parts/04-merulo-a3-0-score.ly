@@ -17,6 +17,7 @@
     shorttitle = "deh_ferma_amor_costui_che_cosi_sciolto"
     shortcomp = "merulo"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 20 }
+    poeticform = "ottava rima"
     needtranslation = #'f
 
     % Unchanging:

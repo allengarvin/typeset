@@ -13,6 +13,7 @@
     title = "Stupida e fissa nella incerta sabbia"
     subtitle = "Seguita Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 39 }
+    poeticform = "ottava rima"
     instrument = "Stupida e fissa (score)"
     language = "italian"
     needtranslation = #'f

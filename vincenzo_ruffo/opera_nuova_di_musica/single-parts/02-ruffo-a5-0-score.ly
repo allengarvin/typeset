@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "la_verginella"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

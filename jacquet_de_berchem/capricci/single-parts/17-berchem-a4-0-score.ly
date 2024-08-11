@@ -13,6 +13,7 @@
     title = "Chi narrerà l’angoscie, i pianti, i gridi"
     subtitle = "Angelica incathenata al sasso"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 66 }
+    poeticform = "ottava rima"
     instrument = "Chi narrerà l’angoscie (score)"
     language = "italian"
     needtranslation = #'f

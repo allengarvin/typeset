@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Ma di che debbo lamentarmi"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 21 }
+    poeticform = "ottava rima"
     instrument = "Ma di che debbo lamentarmi (score)"
     language = "italian"
     needtranslation = #'f

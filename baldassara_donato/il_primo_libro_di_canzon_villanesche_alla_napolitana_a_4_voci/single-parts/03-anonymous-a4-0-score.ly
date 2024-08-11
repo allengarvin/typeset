@@ -24,7 +24,7 @@
     flats = 1
     final = "f"
     shorttitle = "la_canzon_della_gallino"
-    categories = "[animal]"
+    categories = "[animal,villanella]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

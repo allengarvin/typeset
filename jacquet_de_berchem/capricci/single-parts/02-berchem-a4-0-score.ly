@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Dirò d’Orlando in un medesmo tratto"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 2 }
+    poeticform = "ottava rima"
     instrument = "Dirò d’Orlando (score)"
     language = "italian"
     needtranslation = #'f

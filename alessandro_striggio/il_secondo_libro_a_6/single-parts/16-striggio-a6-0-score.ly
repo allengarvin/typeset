@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "non_rumor_di_tamburi"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

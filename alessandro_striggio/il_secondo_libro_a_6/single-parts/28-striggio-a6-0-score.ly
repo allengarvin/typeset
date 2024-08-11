@@ -21,8 +21,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "ahi_dispietato_amor"
     shortcomp = "striggio"
-    categories = "[]"
-    motifs = "[]"
+    categories = "[madrigal]"
+    motifs = "[hexachord,boat,sea]"
     needtranslation = #'f
     folio = "Bernardo Tasso (1493-1569)"
 

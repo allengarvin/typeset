@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Ingiustissimo Amor, perche si raro"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto II ottava 1 }
+    poeticform = "ottava rima"
     composer = "Jacob Arcadelt (c.1507-1568)"
     instrument = "Ingiustissimo Amor (score)"
     language = "italian"

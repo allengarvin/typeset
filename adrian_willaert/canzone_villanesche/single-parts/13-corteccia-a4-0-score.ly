@@ -16,6 +16,7 @@
     instrument = "Madonna io t'aggi (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     composer = "Francesco Corteccia (1502-1571)"

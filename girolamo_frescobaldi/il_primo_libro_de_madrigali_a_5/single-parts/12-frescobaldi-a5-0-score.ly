@@ -21,6 +21,8 @@
     shorttitle = "ecco_lora_ecco_chio"
     shortcomp = "frescobaldi"
     categories = "[madrigal]"
+    rhyme = "abbaAccdD"
+    poeticform = "madrigal"
     final = "c"
     flats = 1
     needtranslation = #'t

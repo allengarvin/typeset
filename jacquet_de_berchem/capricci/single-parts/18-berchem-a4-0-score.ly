@@ -13,6 +13,7 @@
     title = "La notte Orlando alle noiose piume"
     subtitle = "Lamento d'Orlando per Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 71 }
+    poeticform = "ottava rima"
     instrument = "La notte Orlando (score)"
     language = "italian"
     needtranslation = #'f

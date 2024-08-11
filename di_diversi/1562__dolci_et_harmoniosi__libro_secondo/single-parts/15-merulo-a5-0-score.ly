@@ -13,6 +13,7 @@
     title = "Ingiustissimo Amor, perché sì raro"
     composer = "Claudio Merulo (1533-1604)"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto II ottava 1 }
+    poeticform = "ottava rima"
     instrument = "Ingiustissimo Amor (score)"
     language = "italian"
     needtranslation = #'f

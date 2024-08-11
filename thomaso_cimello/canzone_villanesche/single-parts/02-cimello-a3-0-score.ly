@@ -20,6 +20,7 @@
     lastupdated = "2018-10-03"
     flats = 1
     final = "c"
+    categories = "[villanella]"
     shorttitle = "lamor_e_come_male_destinato"
     \include "include/distribution-header.ly"
     tagline = #'f

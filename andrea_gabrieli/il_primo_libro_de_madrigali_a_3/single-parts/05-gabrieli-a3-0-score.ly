@@ -24,6 +24,7 @@
     final = "e"
     shorttitle = "dunque_baciar"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

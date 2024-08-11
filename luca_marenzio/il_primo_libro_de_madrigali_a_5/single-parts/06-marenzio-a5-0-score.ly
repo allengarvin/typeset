@@ -16,6 +16,7 @@
     needtranslation = #'f
     language = "italian"
     poeticform = "madrigal"
+    rhyme = "aBAcdccDDAeEfgfHII"
 
     % Unchanging:
     originallyset = "2013-09-25"

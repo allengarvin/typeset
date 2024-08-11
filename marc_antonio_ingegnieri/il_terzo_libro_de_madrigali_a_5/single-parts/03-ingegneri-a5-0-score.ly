@@ -27,6 +27,7 @@
     flats = 0
     final = "d"
     categories = "[madrigal,furioso]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -4,11 +4,11 @@
 % 
 % Bascioti mille volte il dolce viso
 % E dormo nel tuo petto inzucherato
-% Deh dolce sonno tu me fai beato.
+% Deh dolce sogno tu me fai beato.
 % 
 % E stommi teco in gioco, in canto e riso,
 % Che non hò invidia ad huomo che sia nato,
-% Deh dolce sonno tu me fai beato.
+% Deh dolce sogno tu me fai beato.
 % 
 % Di gratia sogno non mi abandonare,
 % Fa ch'ogni notte mi venghi a trovare

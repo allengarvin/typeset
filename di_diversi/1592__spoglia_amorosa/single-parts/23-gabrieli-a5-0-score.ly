@@ -13,7 +13,7 @@
     title = "Ama l'Aquila Giove"
     composer = "Andrea Gabrieli (c.1532-1585)"
     instrument = "Ama l'Aquila Giove (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -22,7 +22,9 @@
     flats = 0
     final = "d"
     shorttitle = "ama_l_aquila_giove"
-    categories = "[madrigal]"
+    categories = "[madrigal,animal]"
+    motifs = "[jupiter,ganymede,swan,eagle]
+    
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -89,13 +91,25 @@
         \fill-line {
             \column {
                 \line { Ama l'Aquila Giove }
-                \line { In cui cangiosi a rapir d'Ida il fiore; }
+                \line { in cui cangiosi a rapir d'Ida il fiore; }
                 \line { Ama il bel Cigno suo la Dea d'amore; }
                 \line { Ama la donna mia }
-                \line { Un augellin selvaggio, e mentre ch'ella }
-                \line { Com'hor gioiosa e bella }
-                \line { Lo terrà nel suo amor dolce e benigno, }
-                \line { A lui s'inchineran l'Aquila e'l Cigno. }
+                \line { un augellin selvaggio, e mentre ch'ella, }
+                \line { com'or gioiosa e bella, }
+                \line { lo terrà nel suo amor dolce e benigno, }
+                \line { a lui s'inchineran l'Aquila e'l Cigno. }
+            }
+            \column {
+                % translation: 2024-08-07
+                \line { Jove loves the eagle }
+                \line { into which he changed himself to ravish the flower of Ida; }
+                \line { The Goddess of love loves her fair Swan; }
+                \line { My lady loves }
+                \line { a wild little bird, and while she, }
+                \line { joyous and lovely as she now is, }
+                \line { will hold it with her sweet and kindly love, }
+                \line { before it shall kneel both the Eagle and the Swan. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

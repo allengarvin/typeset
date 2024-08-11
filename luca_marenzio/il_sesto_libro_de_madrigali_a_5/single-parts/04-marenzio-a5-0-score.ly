@@ -21,9 +21,11 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "anima_cruda_si"
     shortcomp = "marenzio"
-    categories = "[marenzio]"
+    categories = "[madrigal,morte]"
+    motifs = "[la-petit-mort]"
+    rhyme = "ABCDee"
     folio = \markup { Giovanni Battista Guarini, \italic{Il Pastor Fido} Atto IV Scena 9 }
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"
@@ -96,16 +98,23 @@
         \fill-line {
             \column {
                 \line { Anima cruda sì, ma però bella, }
-                \line { non mi negar all'ultimo sospiro }
+                \line { non mi negar all'ultimo sospiro, }
                 \line { un tuo solo sospir; beata morte, }
                 \line { se l'addolcisi tu con questa sola }
                 \line { voce cortese e pia: }
                 \line { va' in pace, anima mia! }
             }
-%           \column {
-%               % translation orig date:
-%               % translation updated:
-%           }
+           \column {
+               % translation orig date: 2024-08-11
+               % translation updated:
+                \line { So cruel a spirit, but yet beautiful, }
+                \line { deny me not at my final breath }
+                \line { your single sigh: blessed death, }
+                \line { if you sweeten it only with this }
+                \line { gracious and pious utterance: }
+                \line { go in peace, my soul! }
+                \line { \hspace #10 \italic { translation by editor } }
+           }
         }
     }
 }

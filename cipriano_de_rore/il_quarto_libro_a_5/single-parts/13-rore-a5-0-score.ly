@@ -14,6 +14,7 @@
     subtitle = "Seconda parte"
     instrument = "Così ’l mio stil, qual fé la tua bellezza: Seconda parte (score)"
     language = "italian"
+    poeticform = "sonnet"
     needtranslation = #'t
 
     % Unchanging:

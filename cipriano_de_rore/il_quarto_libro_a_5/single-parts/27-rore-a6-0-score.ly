@@ -13,6 +13,7 @@
     title = "L'una piaga arde, et versa foco et fiamma"
     subtitle = "Seconda parte"
     instrument = "L'una piaga arde, et versa foco et fiamma: Seconda parte (score)"
+    poeticform = "sonnet"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CCXLI (241) }

@@ -16,6 +16,7 @@
     instrument = "Si come bella (score)"
     needtranslation = #'t
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     composer = "Francesco Silvestrino (1502-1571)"

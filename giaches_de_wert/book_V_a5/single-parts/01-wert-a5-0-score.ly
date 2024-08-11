@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Avorio e gemma ed ogni pietra dura"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLIV ottava 66 }
+    poeticform = "ottava rima"
 
     instrument = "Avorio e gemma (score)"
     language = "italian"
