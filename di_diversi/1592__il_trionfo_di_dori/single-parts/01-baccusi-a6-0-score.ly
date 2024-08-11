@@ -25,6 +25,7 @@
     flats = 0
     final = "g"
     categories = "[madrigal]"
+    motif = "[shepherd,pastoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

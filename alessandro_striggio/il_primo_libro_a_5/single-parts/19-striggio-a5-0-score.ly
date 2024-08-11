@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "era_il_bel_viso_suo"
     categories = "[madrigal,furioso]"
+    motifs = "[nightingale,bird]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f

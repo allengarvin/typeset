@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "mesola_il_po_da_lato"
     categories = "[madrigal]"
+    motifs = "[po,sea]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

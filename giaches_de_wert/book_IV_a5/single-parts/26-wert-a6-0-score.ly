@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "vaga_d_udir"
     categories = "[madrigal]"
+    motifs = "[pastoral,shepherd]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -98,13 +99,13 @@
         \fill-line {
             \column {
                 \line { Vaga d'udir, com' ogni donna suole, }
-                \line { E di veder che fin havea la cosa, }
-                \line { In un cespuglio ove a pena entra il sole, }
-                \line { Da gli occhi d'ambe dua ne stetti ascosa. }
+                \line { e di veder che fin havea la cosa, }
+                \line { in un cespuglio ove a pena entra il sole, }
+                \line { da gli occhi d'ambe dua ne stetti ascosa. }
                 \line { Il pastor, nel formar de le parole, }
-                \line { E'l pianto de la Ninfa dolorosa }
-                \line { Parea ch'intorno l'aere e le contrade }
-                \line { Facesser lagrimar per la pietade. }
+                \line { e'l pianto de la Ninfa dolorosa }
+                \line { parea ch'intorno l'aere e le contrade }
+                \line { facesser lagrimar per la pietade. }
             }
         }
     }

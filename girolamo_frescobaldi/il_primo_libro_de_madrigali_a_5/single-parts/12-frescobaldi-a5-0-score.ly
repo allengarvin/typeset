@@ -21,6 +21,7 @@
     shorttitle = "ecco_lora_ecco_chio"
     shortcomp = "frescobaldi"
     categories = "[madrigal]"
+    motifs = "[weeping,parting]"
     rhyme = "abbaAccdD"
     poeticform = "madrigal"
     final = "c"

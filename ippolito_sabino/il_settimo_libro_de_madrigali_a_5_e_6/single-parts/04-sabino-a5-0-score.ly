@@ -23,7 +23,7 @@
     shorttitle = "ferrimi_amor_il_fianco"
     shortcomp = "sabino"
     categories = "[madrigal]"
-    motifs = "[cupid-arrow,amore]"
+    motifs = "[cupid-arrow,amore,cupid]"
     needtranslation = #'f
 
     % Unchanging:

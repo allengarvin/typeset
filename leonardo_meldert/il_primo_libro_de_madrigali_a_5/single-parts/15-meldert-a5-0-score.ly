@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "tirsi_morir_volea"
     categories = "[madrigal,morte,chromatic]"
+    motifs = "[la-petite-mort]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "a_caso_un_giorno"
     categories = "[madrigal]"
+    motifs = "[pastoral,shepherd]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

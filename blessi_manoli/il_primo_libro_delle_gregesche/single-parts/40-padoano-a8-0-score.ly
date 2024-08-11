@@ -25,6 +25,7 @@
     final = "f"
     shorttitle = "o_vui_greghette"
     categories = "[madrigal,dialogo]"
+    motifs = "[nightingale,bird]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

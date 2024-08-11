@@ -22,7 +22,7 @@
     shorttitle = "voi_bramate_chio_moia"
     shortcomp = "marenzio"
     categories = "[madrigal,morte]"
-    motifs = "[morte]"
+    motifs = "[morte,la-petite-mort]"
     needtranslation = #'f
 
     % Unchanging:

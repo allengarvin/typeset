@@ -25,6 +25,7 @@
     flats = 0
     final = "d"
     categories = "[madrigal,furioso]"
+    motifs = "[nightingale,bird]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

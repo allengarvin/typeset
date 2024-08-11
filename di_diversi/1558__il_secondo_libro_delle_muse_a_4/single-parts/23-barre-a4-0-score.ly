@@ -25,7 +25,7 @@
     shortcomp = "barre"
     composer = "Antonio Barré (c.1520s-c.1579)"
     categories = "[madrigal,furioso]"
-    motifs = "[]"
+    motifs = "[nightingale,bird]"
     needtranslation = #'f
 
     % Unchanging:

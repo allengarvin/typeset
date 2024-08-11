@@ -24,7 +24,7 @@
     composer = "Cipriano de Rore (c.1516-1565)"
     rhyme = "abBacC"
     categories = "[madrigal,morte]"
-    motifs = "[sun,morte]"
+    motifs = "[sun,morte,la-petite-mort]"
     needtranslation = #'f
 
     % Unchanging:

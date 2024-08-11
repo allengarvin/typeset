@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "italia_mia"
     categories = "[madrigal]"
+    motifs = "[italy,po]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

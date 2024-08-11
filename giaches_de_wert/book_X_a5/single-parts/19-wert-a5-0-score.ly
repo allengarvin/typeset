@@ -20,6 +20,7 @@
     shorttitle = "ite_ardenti_sospiri"
     shortcomp = "wert"
     categories = "[madrigal]"
+    motifs = "[sighing]"
     final = "c"
     flats = 0
     needtranslation = #'f

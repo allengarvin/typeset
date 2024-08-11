@@ -22,7 +22,7 @@
     shorttitle = "a_guisa_duom"
     shortcomp = "rore"
     categories = "[madrigal,favorite]"
-    motifs = "[]"
+    motifs = "[weeping]"
     needtranslation = #'t
     folio = "Luigi Tansillo (1510-1568)"
 

@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "felice_lalma"
     categories = "[madrigal]"
+    motifs = "[sighing]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

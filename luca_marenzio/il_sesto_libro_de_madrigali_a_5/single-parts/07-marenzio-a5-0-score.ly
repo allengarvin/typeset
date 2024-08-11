@@ -22,6 +22,7 @@
     shorttitle = "ah_dolente_partita"
     shortcomp = "marenzio"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     folio = \markup { Battista Guarini \italic{Il Pastor Fido} Atto III Scena 3 }
 
     motifs = "[morte]"

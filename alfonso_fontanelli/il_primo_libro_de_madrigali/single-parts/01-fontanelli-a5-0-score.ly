@@ -20,6 +20,7 @@
     shorttitle = "amor_che_rider_suole"
     shortcomp = "fontanelli"
     categories = "[madrigal]"
+    motifs = "[weeping]"
     poeticform = "madrigal"
     final = "g"
     flats = 0

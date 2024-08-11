@@ -17,9 +17,11 @@
     subtitle = ""
     instrument = "I' vo piangendo:  (score)"
     headerspace = \markup { \vspace #2 }
+    folio = \markup { Petrarca, \italic{Canzoniere} CCCLXV (365) }
     shorttitle = "i_vo_piangendo"
     shortcomp = "fontanelli"
     categories = "[madrigal]"
+    motifs = "[weeping]"
     final = "a"
     flats = 0
     poeticform = "sonnet"

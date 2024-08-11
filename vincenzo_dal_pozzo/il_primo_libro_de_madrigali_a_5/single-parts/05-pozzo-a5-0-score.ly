@@ -22,7 +22,7 @@
     shorttitle = "baci_soavi_e_cari"
     shortcomp = "pozzo"
     categories = "[madrigal,morte]"
-    motifs = "[morte,kiss]"
+    motifs = "[morte,kiss,la-petite-mort]"
     needtranslation = #'f
     folio = "Giovanni Battista Guarini (1538-1612)"
 

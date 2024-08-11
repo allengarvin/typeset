@@ -17,6 +17,7 @@
     shorttitle = "siamo_cinque_pastorelle"
     shortcomp = "banchieri"
     categories = "[madrigal]"
+    motifs = "[bagpipe,shepherdess]"
     final = "g"
     flats = 1
     needtranslation = #'t
@@ -102,7 +103,7 @@
                 \line { tra quest'aceri e verdi Olivi }
                 \line { al saltar e ballar, }
                 \line { cornamusa, su al sonar.  }
-Lirum li, lirum li.
+                \line { Lirum li, lirum li. }
             }
         }
     }

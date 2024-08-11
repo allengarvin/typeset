@@ -18,6 +18,7 @@
     shortcomp = "luzzaschi"
     rhyme = "abCbdbEfDe"
     categories = "[madrigal]"
+    motifs = "[sighing]"
     needtranslation = #'t
 
     % Unchanging:

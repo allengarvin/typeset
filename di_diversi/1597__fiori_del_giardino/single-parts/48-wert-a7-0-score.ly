@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "lungo_le_rive"
     categories = "[madrigal,polychoral]"
+    motifs = "[pastoral,shepherd]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -113,12 +114,12 @@
             \column {
                 \line { Lungo le rive del famoso Tebro }
                 \line { la bella Ninfa un giorno al suo pastore }
-                \line { Disse chi è più felice Di noi? ed ei rispose, }
-                \line { Credo che sia Damon e Doralice, }
-                \line { Anzi se dir mi lice Diss'ella, }
-                \line { Amor in noi suo seggio pose, }
-                \line { E tosto ella s'a scose }
-                \line { Così lascio repente Tirsi e di lei dolente. }
+                \line { disse chi è più felice Di noi? ed ei rispose, }
+                \line { credo che sia Damon e Doralice, }
+                \line { anzi se dir mi lice Diss'ella, }
+                \line { amor in noi suo seggio pose, }
+                \line { e tosto ella s'a scose }
+                \line { così lascio repente Tirsi e di lei dolente. }
             }
         }
     }

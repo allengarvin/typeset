@@ -23,6 +23,7 @@
     final = "e"
     shorttitle = "o_voi_che_sospirate"
     categories = "[madrigal,chromatic]"
+    motifs = "[sighing,wordplay]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

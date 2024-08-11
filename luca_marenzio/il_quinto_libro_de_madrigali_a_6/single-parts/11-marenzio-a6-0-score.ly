@@ -20,6 +20,7 @@
     shorttitle = "nel_dolce_seno_della_bella_clori"
     shortcomp = "marenzio"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     final = "a"
     flats = 0
     folio = \markup { Torquato Tasso, \italic { Rime d'Amore } 378 } 

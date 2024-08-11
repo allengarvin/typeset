@@ -22,6 +22,7 @@
     shorttitle = "ite_amari_sospiri"
     shortcomp = "marenzio"
     categories = "[madrigal]"
+    motifs = "[sighing]"
     needtranslation = #'f
     folio = "Giovanni Battista Guarini (1538-1612)"
 

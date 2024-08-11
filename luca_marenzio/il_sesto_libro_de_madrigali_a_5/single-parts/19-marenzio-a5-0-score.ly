@@ -22,7 +22,7 @@
     shorttitle = "ecco_maggio_seren"
     shortcomp = "marenzio"
     categories = "[madrigal]"
-    motifs = "[pastoral,dancing,nymphs]"
+    motifs = "[pastoral,dancing,nymph]"
     needtranslation = #'f
     folio = "Giovanni Battista Strozzi il vecchio (1505-1571)"
 

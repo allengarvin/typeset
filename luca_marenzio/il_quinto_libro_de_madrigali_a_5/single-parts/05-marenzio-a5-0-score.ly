@@ -22,6 +22,7 @@
     shorttitle = "non_vide_il_mondo"
     shortcomp = "marenzio"
     categories = "[madrigal]"
+    motifs = "[po]"
     needtranslation = #'t
     folio = "Jacopo Sannazaro (1458-1530)"
 

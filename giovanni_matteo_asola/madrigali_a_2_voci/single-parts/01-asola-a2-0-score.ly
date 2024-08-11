@@ -27,6 +27,7 @@
     final = "f"
     shorttitle = "cantan_fra_rami"
     categories = "[madrigal,furioso]"
+    motifs = "[bird]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -23,7 +23,7 @@
     shorttitle = "ahi_bella_si_ma_cruda_mia_nemica"
     shortcomp = "frescobaldi"
     categories = "[madrigal,morte]"
-    motifs = "[morte,cruel-lady]"
+    motifs = "[morte,cruel-lady,la-petite-mort]"
     rhyme = "AbBccDDEeFF"
     needtranslation = #'f
 

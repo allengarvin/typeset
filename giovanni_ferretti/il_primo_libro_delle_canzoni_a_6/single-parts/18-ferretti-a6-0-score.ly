@@ -19,6 +19,7 @@
     originallyset = "2013-09-13"
     lastupdated = "2013-09-13"
     categories = "[villanella]"
+    motifs = "[sighing]"
     flats = 1
     final = "g"
     shorttitle = "un_tempo_sospirava"

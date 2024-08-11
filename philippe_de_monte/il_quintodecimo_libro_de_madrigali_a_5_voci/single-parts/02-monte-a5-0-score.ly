@@ -17,6 +17,7 @@
     shorttitle = "baciai_per_aver_vita"
     shortcomp = "monte"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     final = "a"
     flats = 0
     needtranslation = #'t

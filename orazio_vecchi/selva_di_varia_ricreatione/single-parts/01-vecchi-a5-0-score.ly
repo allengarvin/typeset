@@ -23,6 +23,7 @@
     flats = 0
     final = "g"
     categories = "[madrigal]"
+    motifs = "[pastoral,shepherd]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -105,7 +106,7 @@
                 \line { from the rays of the summer sun }
                 \line { moves you, wise shepards, }
                 \line { then let's happily leave the meadows, }
-                \line { letting heards eat grass and flowers }
+                \line { letting herds eat grass and flowers }
                 \line { without the danger of wolves, }
                 \line { and have rest coming into this forest. }
                 \line { \hspace #10 Andrea Friggi (CPDL license) }

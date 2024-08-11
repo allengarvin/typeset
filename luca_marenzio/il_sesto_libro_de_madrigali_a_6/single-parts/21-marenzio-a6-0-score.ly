@@ -22,7 +22,7 @@
     shorttitle = "o_verdi_selve_o_dolci_fonti_o_rivi"
     shortcomp = "marenzio"
     categories = "[madrigal]"
-    motifs = "[birds,trees,sorrow]"
+    motifs = "[bird,trees,sorrow]"
     needtranslation = #'f
     folio = "Torquato Tasso (1544-1595)"
 

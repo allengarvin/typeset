@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "era_il_bel_viso_suo"
     categories = "[madrigal,furioso]"
+    motifs = "[nightingale,bird]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

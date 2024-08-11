@@ -22,6 +22,7 @@
 
     shortcomp = "rossi"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     final = "g"
     flats = 1
     needtranslation = #'f

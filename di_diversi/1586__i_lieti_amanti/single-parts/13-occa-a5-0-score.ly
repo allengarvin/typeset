@@ -22,7 +22,7 @@
     shorttitle = "a_dio_mio_dolce_aminta"
     shortcomp = "occa"
     composer = "Alberto dall'Occa (fl.1580s-90s)"
-    categories = "[madrigal]"
+    categories = "[madrigal,shepherd,shepherdess]"
     motifs = "[parting]"
     needtranslation = #'f
 

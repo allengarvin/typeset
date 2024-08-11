@@ -23,7 +23,7 @@
     shortcomp = "marenzio"
     composer = "Luca Marenzio (c.1553-1599)"
     categories = "[madrigal]"
-    motifs = "[pastoral,nymphs]"
+    motifs = "[pastoral,nymph]"
     needtranslation = #'f
 
     % Unchanging:

@@ -26,6 +26,7 @@
     flats = 0
     final = "a"
     categories = "[madrigal,polychoral,morte]"
+    motifs = "[la-petite-mort]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

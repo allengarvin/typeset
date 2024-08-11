@@ -20,6 +20,7 @@
     shorttitle = "dolcissimo_sospiro"
     shortcomp = "bonaffino"
     categories = "[madrigal]"
+    motifs = "[sighing]"
     final = "f"
     flats = 1
     needtranslation = #'t

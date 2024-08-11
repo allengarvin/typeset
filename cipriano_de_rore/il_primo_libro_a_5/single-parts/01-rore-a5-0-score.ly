@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "cantai_mentre_ch’i’_arsi_del_mio_foco"
     categories = "[madrigal]"
+    motifs = "[sighing,weeping]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

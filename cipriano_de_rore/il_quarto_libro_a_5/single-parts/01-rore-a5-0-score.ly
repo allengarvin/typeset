@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "la_bella_greca"
     categories = "[madrigal]"
+    motif = "[shepherd]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

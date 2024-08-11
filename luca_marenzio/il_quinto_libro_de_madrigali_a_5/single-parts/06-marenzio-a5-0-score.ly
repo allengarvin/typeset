@@ -22,6 +22,7 @@
     shorttitle = "ben_credo_cancor_tu_sospiri"
     shortcomp = "marenzio"
     categories = "[madrigal]"
+    motifs = "[sighing]"
     needtranslation = #'t
     folio = "Jacopo Sannazaro (1458-1530)"
 

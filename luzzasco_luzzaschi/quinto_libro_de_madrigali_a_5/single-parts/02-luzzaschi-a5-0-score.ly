@@ -20,6 +20,7 @@
     shorttitle = "itene_a_volo_o_miei_sospiri_ardenti"
     shortcomp = "luzzaschi"
     categories = "[madrigal]"
+    motifs = "[sighing]"
     final = "a"
     flats = 0
     needtranslation = #'t

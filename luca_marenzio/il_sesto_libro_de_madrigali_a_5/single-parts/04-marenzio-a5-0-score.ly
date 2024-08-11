@@ -22,7 +22,7 @@
     shorttitle = "anima_cruda_si"
     shortcomp = "marenzio"
     categories = "[madrigal,morte]"
-    motifs = "[la-petit-mort]"
+    motifs = "[la-petite-mort]"
     rhyme = "ABCDee"
     folio = \markup { Giovanni Battista Guarini, \italic{Il Pastor Fido} Atto IV Scena 9 }
     needtranslation = #'f

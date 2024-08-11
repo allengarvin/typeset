@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "vago_augelletto"
     categories = "[madrigal]"
+    motifs = "[bird]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "il_bianco_e_dolce_cigno"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

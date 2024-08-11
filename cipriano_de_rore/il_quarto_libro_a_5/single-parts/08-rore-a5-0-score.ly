@@ -25,7 +25,7 @@
     final = "d"
     shorttitle = "quando_signor_lasciaste"
     categories = "[madrigal]"
-    motifs = "[nymphs,po,latona]"
+    motifs = "[nymph,po,latona]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

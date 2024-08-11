@@ -23,7 +23,7 @@
     shorttitle = "pietose_rime"
     categories = "[madrigal]"
     poeticform = "madrigal"
-    motifs = "[rome,tiber]"
+    motifs = "[rome,tiber,sighing]"
     needtranslation = #'f
 
     rhyme = "ABbACDdC"

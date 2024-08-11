@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "con_lagrime_e_sospir"
     categories = "[madrigal]"
+    motifs = "[sighing]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

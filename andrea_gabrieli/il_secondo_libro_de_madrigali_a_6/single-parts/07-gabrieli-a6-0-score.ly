@@ -22,7 +22,7 @@
     shorttitle = "se_vuoi_chio_muoia"
     shortcomp = "gabrieli"
     categories = "[madrigal,morte]"
-    motifs = "[morte,basilisk]"
+    motifs = "[morte,basilisk,la-petite-mort]"
     needtranslation = #'f
 
     % Unchanging:

@@ -23,6 +23,7 @@
     shorttitle = "tirsi_morir_volea"
     shortcomp = "pallavicino"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     needtranslation = #'f
 
     % Unchanging:

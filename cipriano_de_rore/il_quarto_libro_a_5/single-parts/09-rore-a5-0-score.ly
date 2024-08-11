@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "ma_poi_che_vostra_altezza"
     categories = "[madrigal]"
+    motifs = "[po,nymph,pastoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

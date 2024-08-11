@@ -25,6 +25,7 @@
     final = "e"
     \include "include/distribution-header.ly"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     tagline = #'f
 }
 

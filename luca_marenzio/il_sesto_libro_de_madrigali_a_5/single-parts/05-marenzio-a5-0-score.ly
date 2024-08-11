@@ -20,6 +20,7 @@
     shorttitle = "udite_lagrimosi_spirti_daverno"
     shortcomp = "marenzio"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     final = "a"
     flats = 1
     folio = \markup { Giovanni Battista Guarini, \italic { Il pastor fido, }, Atto III, scena 6 }

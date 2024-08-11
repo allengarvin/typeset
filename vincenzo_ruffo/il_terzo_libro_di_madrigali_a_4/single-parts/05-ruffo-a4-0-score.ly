@@ -20,6 +20,7 @@
     shorttitle = "vita_della_mia_vita"
     shortcomp = "ruffo"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     final = "d"
     flats = 1
     rhyme = "ABABCC"

@@ -23,7 +23,7 @@
     shortcomp = "alberti"
     composer = "Innocentio Alberti (c.1535-1615)"
     categories = "[madrigal]"
-    motifs = "[parting,amore,pastoral]"
+    motifs = "[parting,amore,pastoral,shepherd]"
     needtranslation = #'t
 
     % Unchanging:

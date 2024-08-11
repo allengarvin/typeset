@@ -18,6 +18,7 @@
     final = "d"
     shorttitle = "chi_vuol_udir"
     categories = "[madrigal]"
+    motifs = "[sighing]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f

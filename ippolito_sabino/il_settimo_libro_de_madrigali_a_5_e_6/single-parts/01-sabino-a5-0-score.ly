@@ -23,7 +23,7 @@
     shorttitle = "o_di_saggio_e_grandavo"
     shortcomp = "sabino"
     categories = "[madrigal]"
-    motifs = "[praise]"
+    motifs = "[praise,eagle]"
     needtranslation = #'t
 
     % Unchanging:

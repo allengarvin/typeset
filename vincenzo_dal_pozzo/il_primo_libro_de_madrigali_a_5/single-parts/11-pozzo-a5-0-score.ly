@@ -22,7 +22,7 @@
     shorttitle = "tirsi_morir_volea"
     shortcomp = "pozzo"
     categories = "[madrigal,morte]"
-    motifs = "[pastoral,morte]"
+    motifs = "[pastoral,morte,la-petite-mort]"
     needtranslation = #'f
     folio = "Giovanni Battista Guarini (1538-1612)"
 

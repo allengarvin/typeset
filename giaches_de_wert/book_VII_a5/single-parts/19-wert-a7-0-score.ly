@@ -22,6 +22,7 @@
     flats = 1
     final = "g"
     categories = "[dialogo,madrigal]"
+    motifs = "[eagle]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

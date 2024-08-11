@@ -6,11 +6,13 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 14.5)
+#(set-global-staff-size 16.0)
 
 \header {
-    lastupdated = "2023-02-01"
-    originallyset = "2023-02-01"
+    lastupdated = "2023-09-16"
+    originallyset = "2023-09-16"
+    flats = 0
+    final = "e"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Udite, lagrimosi Spirti d'Averno"
@@ -18,14 +20,11 @@
     instrument = "Udite, lagrimosi Spirti d'Averno:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "udite_lagrimosi_spirti_daverno"
-    shortcomp = "wert"
-    categories = "[morte,madrigal]"
-    motifs = "[la-petite-mort]"
-    final = "e"
-    flats = 0
+    shortcomp = "monte"
     folio = \markup { Giovanni Battista Guarini, \italic { Il pastor fido, }, Atto III, scena 6 }
-
-    needtranslation = #'f
+    categories = "[madrigal,morte]"
+    motifs = "[pastoral,morte,la-petite-mort]"
+    needtranslation = #'t
 
     % Unchanging:
     language = "italian"
@@ -33,63 +32,79 @@
     tagline = #'f
 }
 
-\include "../parts/10-wert-a5-madrigal.ly"
+\include "../parts/04-monte-a7-madrigal.ly"
 
 \book {
-    \bookOutputName "10-wert--udite_lagrimosi_spirti_daverno-"
+    \bookOutputName "04-monte--udite_lagrimosi_spirti_daverno-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.8
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXincipitVoice
+                    \incipit \cantoIVincipitVoice
                     \clef "treble"
                     \global
-                    \cantoX
+                    \cantoIV
                 >>
-             \addlyrics { \cantoLyricsX }
+             \addlyrics { \cantoLyricsIV }
                 \new Voice <<
-                    \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXincipitVoice
+                    \set Staff.instrumentName = #"Settimo"
+                    \incipit \settimoIVincipitVoice
                     \clef "treble"
                     \global
-                    \quintoX
+                    \settimoIV
                 >>
-             \addlyrics { \quintoLyricsX }
+             \addlyrics { \settimoLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXincipitVoice
+                    \incipit \altoIVincipitVoice
+                    \clef "treble"
+                    \global
+                    \altoIV
+                >>
+             \addlyrics { \altoLyricsIV }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quinto"
+                    \incipit \quintoIVincipitVoice
                     \clef "treble_8"
                     \global
-                    \altoX
+                    \quintoIV
                 >>
-             \addlyrics { \altoLyricsX }
+             \addlyrics { \quintoLyricsIV }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Sesto"
+                    \incipit \sestoIVincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \sestoIV
+                >>
+             \addlyrics { \sestoLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXincipitVoice
+                    \incipit \tenoreIVincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreX
+                    \tenoreIV
                 >>
-             \addlyrics { \tenoreLyricsX }
+             \addlyrics { \tenoreLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXincipitVoice
+                    \incipit \bassoIVincipitVoice
                     \clef "bass"
                     \global
-                    \bassoX
+                    \bassoIV
                 >>
-             \addlyrics { \bassoLyricsX }
+             \addlyrics { \bassoLyricsIV }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 88 2)
+                tempoWholesPerMinute = #(ly:make-moment 82 2)
             }
         }
     }   
@@ -99,14 +114,17 @@
                 \line { Udite, lagrimosi }
                 \line { Spirti d'Averno, udite }
                 \line { nova sorte di pena e di tormento, }
+                \line { e tosto sbigottite }
+                \line { al mio giusto lamento; }
                 \line { mirate crudo affetto }
-                \line { in sembiante pietoso. }
+                \line { in sembiante pietoso, in dolce aspetto. }
+                \line { \vspace #0.5 }
                 \line { La mia Donna crudel più dell'inferno, }
-                \line { perché una sola morte }
+                \line { perché una sola doglia }
                 \line { non può far sazia la sua ingorda voglia, }
-                \line { e la mia vita è quasi }
-                \line { una perpetua morte. }
-                \line { Mi comanda ch'io viva, }
+                \line { e la mia vita è quasi un duol eterno }
+                \line { d'una perpetua morte. }
+                \line { Mi comanda ch'io viva in questa sorte, }
                 \line { perché la vita mia }
                 \line { di mille morti il dì ricetto sia. }
             }
@@ -119,10 +137,11 @@
                \line { loads me with greater sufferings still than yours, }
                \line { because a single death alone }
                \line { is far too scant to glut her fell revenge. }
-               \line { My life is only a perpetual death; }
+               \line { My life is only a perpetual death; } 
                \line { She bids me live, more fierceness to display, }
                \line { and make me die a thousand times a day! }
                \line { \hspace #10 \italic { William Clapperton (1809) } }
+               \line { \italic { Note: Clapperton is translating a version with a few textual differences } }
            }
         }
     }

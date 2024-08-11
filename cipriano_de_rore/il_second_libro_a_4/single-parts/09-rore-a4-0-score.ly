@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "mia_benigna_fortuna"
     categories = "[madrigal]"
+    motifs = "[fate,sighing]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

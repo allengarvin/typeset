@@ -25,6 +25,7 @@
     shorttitle = "non_sospirar_pastor"
     rhyme = "AabCbCdD"
     categories = "[madrigal]"
+    motifs = "[shepherd,sighing]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

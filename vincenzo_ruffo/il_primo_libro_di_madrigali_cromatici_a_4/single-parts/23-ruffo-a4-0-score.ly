@@ -22,6 +22,7 @@
     shorttitle = "de_cocenti_sospir"
     shortcomp = "ruffo"
     categories = "[madrigal,furioso]"
+    motifs = "[sighing]"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXVII ottava 117 }
 

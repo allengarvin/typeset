@@ -17,6 +17,7 @@
     needtranslation = #'t
     language = "italian"
     categories = "[villanella]"
+    motifs = "[sighing]"
 
     % Unchanging:
     originallyset = "2015-09-14"

@@ -23,7 +23,7 @@
     shortcomp = "monteverdi"
     folio = \markup { Torquato Tasso, \italic { Gerusalemme Conquistata, } Canto VIII, ottava 6 }
     categories = "[madrigal]"
-    motifs = "[]"
+    motifs = "[sighing]"
     needtranslation = #'f
 
     % Unchanging:

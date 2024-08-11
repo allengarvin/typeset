@@ -20,6 +20,7 @@
     shorttitle = "tra_giove_in_cielo"
     shortcomp = "agostini"
     categories = "[madrigal]"
+    motifs = "[jupiter,eagle]"
     final = "f"
     flats = 1
     needtranslation = #'t

@@ -25,6 +25,7 @@
     final = "f"
     shorttitle = "e_vu_fiumi_chie"
     categories = "[madrigal,favorite]"
+    motifs = "[death,river]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

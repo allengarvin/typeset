@@ -23,7 +23,7 @@
     shortcomp = "willaert"
     composer = "Adriano Willaert (c.1490-1562)"
     categories = "[morte,madrigal]"
-    motifs = "[amore,morte]"
+    motifs = "[amore,morte,la-petite-mort]"
     needtranslation = #'f
     folio = "Dragonetto Bonifazi"
 

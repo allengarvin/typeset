@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "canzon_del_cucco"
     categories = "[animal,villanella,favorite]"
+    motifs = "[nightingale,cuccoo,parrot]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

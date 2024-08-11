@@ -22,6 +22,7 @@
     shorttitle = "o_fere_stelle"
     shortcomp = "marenzio"
     categories = "[madrigal,chromatic]"
+    motifs = "[fortune,shepher]"
     needtranslation = #'f
     folio = "Jacopo Sannazaro (1458-1530)"
 

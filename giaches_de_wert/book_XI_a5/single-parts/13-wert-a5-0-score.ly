@@ -22,6 +22,7 @@
     shorttitle = "voi_nemico_crudele"
     shortcomp = "wert"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     needtranslation = #'f
 
     % Unchanging:

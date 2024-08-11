@@ -20,6 +20,7 @@
     shorttitle = "udite_lagrimosi_spirti_daverno"
     shortcomp = "piccioni"
     categories = "[madrigal,morte,chromatic]"
+    motifs = "[la-petite-mort]"
     needtranslation = #'f
     final = "a"
     flats = 0

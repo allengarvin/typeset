@@ -20,6 +20,7 @@
     shorttitle = "quanto_sia_lieto_il_giorno"
     shortcomp = "verdelot"
     categories = "[madrigal]"
+    motifs = "[nymph,shepherd]"
     needtranslation = #'f
     final = "g"
     flats = 1

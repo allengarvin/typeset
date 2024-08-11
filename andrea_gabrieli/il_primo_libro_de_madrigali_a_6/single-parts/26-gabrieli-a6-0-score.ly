@@ -9,20 +9,20 @@
 #(set-global-staff-size 17.0)
 
 \header {
-    lastupdated = "2023-08-19"
-    originallyset = "2023-08-19"
+    lastupdated = "2023-09-18"
+    originallyset = "2023-09-18"
     flats = 0
-    final = "a"
+    final = "d"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Ché piangi, alma, e sospiri"
-    subtitle = ""
-    instrument = "Ché piangi, alma, e sospiri:  (score)"
+    title = "Goda or beato il Po"
+    subtitle = "Prima parte"
+    instrument = "Goda or beato il Po: Prima parte (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "che_piangi_alma_e_sospiri"
+    shorttitle = "goda_or_beato_il_po"
     shortcomp = "gabrieli"
     categories = "[madrigal]"
-    motifs = "[sighing,weeping]"
+    motifs = "[wedding,po]"
     needtranslation = #'t
 
     % Unchanging:
@@ -31,86 +31,85 @@
     tagline = #'f
 }
 
-\include "../parts/18-gabrieli-a6-madrigal.ly"
+\include "../parts/26-gabrieli-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "18-gabrieli--che_piangi_alma_e_sospiri-"
+    \bookOutputName "26-gabrieli--goda_or_beato_il_po-prima_parte"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.0
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXVIIIincipitVoice
+                    \incipit \cantoXXVIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoXVIII
+                    \cantoXXVI
                 >>
-             \addlyrics { \cantoLyricsXVIII }
+             \addlyrics { \cantoLyricsXXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXVIIIincipitVoice
+                    \incipit \quintoXXVIincipitVoice
                     \clef "treble"
                     \global
-                    \quintoXVIII
+                    \quintoXXVI
                 >>
-             \addlyrics { \quintoLyricsXVIII }
+             \addlyrics { \quintoLyricsXXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXVIIIincipitVoice
+                    \incipit \altoXXVIincipitVoice
                     \clef "treble"
                     \global
-                    \altoXVIII
+                    \altoXXVI
                 >>
-             \addlyrics { \altoLyricsXVIII }
+             \addlyrics { \altoLyricsXXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXVIIIincipitVoice
+                    \incipit \tenoreXXVIincipitVoice
                     \clef "treble"
                     \global
-                    \tenoreXVIII
+                    \tenoreXXVI
                 >>
-             \addlyrics { \tenoreLyricsXVIII }
+             \addlyrics { \tenoreLyricsXXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Sesto"
-                    \incipit \sestoXVIIIincipitVoice
+                    \incipit \sestoXXVIincipitVoice
                     \clef "treble_8"
                     \global
-                    \sestoXVIII
+                    \sestoXXVI
                 >>
-             \addlyrics { \sestoLyricsXVIII }
+             \addlyrics { \sestoLyricsXXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXVIIIincipitVoice
+                    \incipit \bassoXXVIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoXVIII
+                    \bassoXXVI
                 >>
-             \addlyrics { \bassoLyricsXVIII }
+             \addlyrics { \bassoLyricsXXVI }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 82 2)
+                tempoWholesPerMinute = #(ly:make-moment 92 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Ché piangi, alma, e sospiri }
-                \line { se per mostrar gran duolo }
-                \line { o sollevar la mente }
-                \line { da profondi martiri, }
-                \line { non vagliono i sospiri }
-                \line { né basta il pianto solo? }
-                \line { Moriamo arditamente, }
-                \line { ché chi si lagna e more }
-                \line { scopre e lascia il dolore. }
+                \line { Goda or beato il Po, godo il Metauro, }
+                \line { spargan l'arene d'or, d'argento l'onde, }
+                \line { ridan tra l'erbe i fiori e per le sponde }
+                \line { cresca in premii d'onor la palma e'l lauro. }
+                \line { Ecco l'alma Lucrezia, ecco il thesauro }
+                \line { d'ogni virtù che'l ciel più larg'infonde }
+                \line { che col gran sposo suo luce diffonde, }
+                \line { tal ché per lor già torn'il secol d'auro. }
             }
 %           \column {
 %               % translation orig date:

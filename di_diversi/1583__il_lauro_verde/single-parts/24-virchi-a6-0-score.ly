@@ -23,7 +23,7 @@
     shortcomp = "virchi"
     composer = "Paolo Virchi (c.1551-1610)"
     categories = "[madrigal,favorite]"
-    motifs = "[pastoral,springtime]"
+    motifs = "[pastoral,spring,bird,po]"
     needtranslation = #'f
     folio = "Torquato Tasso (1544-1595)"
 

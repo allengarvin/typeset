@@ -25,6 +25,7 @@
     flats = 1
     final = "g"
     categories = "[furioso]"
+    motifs = "[virgin,shepherd]"
     \include "include/distribution-header.ly"
     composer = "Bartolomeo Spontone (1530-c.1592)"
     tagline = #'f

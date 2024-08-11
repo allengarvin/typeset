@@ -22,7 +22,7 @@
     shorttitle = "donna_cinta_di_ferro"
     shortcomp = "gabrieli"
     categories = "[madrigal,morte]"
-    motifs = "[amore]"
+    motifs = "[amore,la-petite-morte]"
     needtranslation = #'t
     folio = "Orsatto Giustinian (1538-1603)"
 

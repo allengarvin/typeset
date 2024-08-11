@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "piu_trasparente_velo"
     categories = "[madrigal]"
+    motif = "[shepherd,pastoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -101,17 +102,17 @@
         \fill-line {
             \column {
                 \line { Più trasparente velo } 
-                \line { Non stese mai Giunone, } 
-                \line { Ne febo risplendete, } 
-                \line { Sorse dall’Oriente, } 
-                \line { Ne dolci canti in cielo; } 
-                \line { S’udiro à la novell’alma stagione, } 
-                \line { Mentre a Dori corone, } 
-                \line { Tessean ninfe e pastori, } 
-                \line { E danzand’a lor canto } 
-                \line { Satiri e fauni in tanto } 
-                \line { Per colmarla d’onori, } 
-                \line { Viva dicean viva la bella Dori. } 
+                \line { non stese mai Giunone, } 
+                \line { ne febo risplendete, } 
+                \line { sorse dall’Oriente, } 
+                \line { ne dolci canti in cielo; } 
+                \line { s’udiro alla novell’alma stagione, } 
+                \line { mentre a Dori corone, } 
+                \line { tessean ninfe e pastori, } 
+                \line { e danzand’a lor canto } 
+                \line { satiri e fauni in tanto } 
+                \line { per colmarla d’onori, } 
+                \line { viva dicean viva la bella Dori. } 
             }
         }
     }

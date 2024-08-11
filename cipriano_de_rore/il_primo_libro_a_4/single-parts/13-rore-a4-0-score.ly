@@ -23,6 +23,7 @@
     final = "e"
     shorttitle = "anchor_che_col_partire"
     categories = "[madrigal,favorite,morte]"
+    motifs = "[la-petite-mort,parting]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

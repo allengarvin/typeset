@@ -22,6 +22,7 @@
     shorttitle = "ancidetemi_pur_grievi_martiri"
     shortcomp = "arcadelt"
     categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort]"
     needtranslation = #'f
 
     % Unchanging:

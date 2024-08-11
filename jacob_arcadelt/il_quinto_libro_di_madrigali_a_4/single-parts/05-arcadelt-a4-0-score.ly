@@ -22,7 +22,7 @@
     shorttitle = "or_treguavran_i_miei_caldi_sospiri"
     shortcomp = "arcadelt"
     categories = "[madrigal]"
-    motifs = "[]"
+    motifs = "[sighing]"
     needtranslation = #'f
 
     % Unchanging:
