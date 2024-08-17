@@ -25,6 +25,7 @@
     final = "c"
     shorttitle = "come_la_notte"
     categories = "[madrigal,furioso]"
+    motifs = "[night,hope]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

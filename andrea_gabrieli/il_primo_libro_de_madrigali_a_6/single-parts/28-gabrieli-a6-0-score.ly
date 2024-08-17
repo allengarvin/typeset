@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "chi_chi_li_chi"
     categories = "[madrigal]"
+    motifs = "[bagpipe]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

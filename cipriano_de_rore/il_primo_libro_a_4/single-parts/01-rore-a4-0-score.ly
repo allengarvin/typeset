@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "a_la_dolce_ombra"
     categories = "[madrigal]"
+    motifs = "[laura-l'aura-wordplay,shadow]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

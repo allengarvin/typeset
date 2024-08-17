@@ -23,6 +23,7 @@
     shortcomp = "philips"
     categories = "[madrigal]"
     motifs = "[music,hexachord]"
+    folio = "Angelo Grillo (as Livio Celiano) (1557-1629)"
     needtranslation = #'f
 
     % Unchanging:

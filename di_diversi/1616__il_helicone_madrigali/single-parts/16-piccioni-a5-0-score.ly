@@ -21,6 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "ut_re_me_fa_so_la"
     shortcomp = "piccioni"
+    folio = "Angelo Grillo (as Livio Celiano) (1557-1629)"
     composer = "Giovanni Piccioni (1549-1619)"
     categories = "[madrigal]"
     motifs = "[hexachord,music]"

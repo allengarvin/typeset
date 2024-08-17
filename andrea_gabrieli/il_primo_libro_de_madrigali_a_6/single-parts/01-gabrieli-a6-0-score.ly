@@ -22,7 +22,7 @@
     shorttitle = "rendete_al_saracini"
     shortcomp = "gabrieli"
     categories = "[madrigal]"
-    motifs = "[]"
+    motifs = "[muses]"
     needtranslation = #'f
     folio = "Al Mag. S. Giovanni Saracini Bolognese"
 

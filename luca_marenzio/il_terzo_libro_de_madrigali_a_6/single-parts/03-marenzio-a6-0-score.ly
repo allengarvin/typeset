@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "son_presa_disse"
+    folio = "Pompeo Pace (fl.1560s)"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

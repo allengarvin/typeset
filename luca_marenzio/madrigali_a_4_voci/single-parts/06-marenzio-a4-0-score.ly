@@ -20,6 +20,7 @@
     final = "c"
     shorttitle = "non_al_suo_amante"
     categories = "[madrigal]"
+    motifs = "[laura-l'aura-wordplay,diana]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

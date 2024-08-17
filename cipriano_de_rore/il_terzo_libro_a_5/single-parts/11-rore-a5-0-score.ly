@@ -24,6 +24,7 @@
     flats = 0
     final = "d"
     categories = "[madrigal]"
+    motifs = "[virgin,mary,judgment-day]"
     poeticform = "canzone"
     \include "include/distribution-header.ly"
     tagline = #'f

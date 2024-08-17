@@ -19,6 +19,8 @@
     % Unchanging:
     originallyset = "2013-03-12"
     lastupdated = "2013-03-12"
+    folio = "Pompeo Pace (fl.1560s)"
+    poeticform = "ottava rima"
     flats = 0
     final = "a"
     shorttitle = "danzava_con_maniere"

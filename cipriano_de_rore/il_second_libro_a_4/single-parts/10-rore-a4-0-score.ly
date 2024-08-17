@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "crudele_acerba_in_exorabil_morte"
     categories = "[madrigal]"
+    motifs = "[death,sigh]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

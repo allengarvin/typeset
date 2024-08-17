@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "ma_lagrimosa_pioggia"
     categories = "[madrigal]"
+    motifs = "[amore,sea,boat]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

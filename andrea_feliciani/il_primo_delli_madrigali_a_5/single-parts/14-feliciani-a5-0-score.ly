@@ -22,6 +22,7 @@
 
     shortcomp = "feliciani"
     categories = "[madrigal]"
+    motifs = "[laura-l'aura-wordplay]"
     poeticform = "sonnet"
     final = "d"
     flats = 1

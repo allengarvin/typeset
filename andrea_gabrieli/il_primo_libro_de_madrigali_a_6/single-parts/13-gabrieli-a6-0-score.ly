@@ -22,8 +22,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "volto_di_mille_e_mille_grazie_adorno"
     shortcomp = "gabrieli"
-    motifs = "[amore]"
     categories = "[madrigal]"
+    motifs = "[amore,seasons]"
     needtranslation = #'f
     rhyme = "AaBBcdcefe"
 

@@ -24,6 +24,7 @@
     composer = "Jan Nasco (c.1510-1561)"
     folio = \markup { Petrarca, \italic{Canzoniere} XV (15) }
     categories = "[madrigal]"
+    motifs = "[amore,weeping,doubt]"
     needtranslation = #'f
 
     % Unchanging:

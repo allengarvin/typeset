@@ -22,6 +22,7 @@
     shorttitle = "amor_rimanti_in_sempiterno_oblio"
     shortcomp = "gabrieli"
     categories = "[madrigal]"
+    motifs = "[]"
     needtranslation = #'t
     folio = "Luigi Tansillo (1510-1568)"
 

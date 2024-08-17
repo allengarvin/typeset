@@ -24,7 +24,7 @@
     final = "g"
     shorttitle = "la_verginella"
     categories = "[madrigal,furioso]"
-    motif = "[shepherd,virgin]"
+    motifs = "[shepherd,virgin,rose]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

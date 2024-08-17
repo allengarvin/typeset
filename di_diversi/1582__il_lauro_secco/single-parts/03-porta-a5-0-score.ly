@@ -23,7 +23,7 @@
     composer = "Costanzo Porta (c.1528-1601)"
     shortcomp = "porta"
     categories = "[madrigal]"
-    motifs = "[laurel]"
+    motifs = "[laurel,jupiter]"
     needtranslation = #'t
 
     % Unchanging:

@@ -22,6 +22,7 @@
     shorttitle = "laura_chel_verde_lauro"
     shortcomp = "marenzio"
     categories = "[madrigal]"
+    motifs = "[laura-l'aura-wordplay]"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CCXLVI (246) }
 

@@ -81,20 +81,36 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ingiustissimo amore  }
+                % touch-up: 2024-08-16
+                \line { Ingiustissimo amore: }
                 \line { che val l'unico servir con fede  }
                 \line { s'altri meco concorre alla mercede. }
                 \line { \vspace #1 }
                 \line { Per madonna arsi ed ard' or la mia vita }
                 \line { e si vive la fiamma  }
-                \line { di quel che sempre fui d'esser contento }
-                \line { il cieco mio desir ch'ogn'or s'infiamma  }
+                \line { di quel che sempre fui d'esser contento. }
+                \line { Il cieco mio desir ch'ognor s'infiamma  }
                 \line { fa la voglia infinita }
-                \line { tal che dal torto non e'l foco spento  }
+                \line { talché dal torto non e'l foco spento;  }
                 \line { ma mi doglio ch'io sento }
                 \line { in madonna mancar sol per tuo errore }
                 \line { la giustizia per me per lei l'onore. }
             }
+%             \column { 
+%    % note: torto means wrong? or TORCH???
+%     % sento mancare: feel faint
+% Most unjust love:
+% what worth be it to serve along with faith
+% if others vie with me for your reward?
+% \vspace #!
+% For my lady I burned, and burn even now my life,
+% and flame lives on
+% in the one that I was always content to be.
+% My blind desire that constantly inflames itself
+% makes my longing infinite,
+% so that the fire is not extinguished by the injustice;
+% [can't make this one work yet: 2024-08-16
+
         }
     }
 }

@@ -23,7 +23,7 @@
     shortcomp = "lasso"
     folio = \markup { Petrarca, \italic{Canzoniere} CCXXXIX (239) }
     categories = "[madrigal]"
-    motifs = "[]"
+    motifs = "[laura-l'aura-wordplay,asp-(snake)]"
     needtranslation = #'f
 
     % Unchanging:

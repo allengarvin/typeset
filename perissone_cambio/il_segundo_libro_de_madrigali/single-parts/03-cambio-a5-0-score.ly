@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "I pensier’ son saette, e ’l viso un sole"
+    title = "I pensier' son saette, e 'l viso un sole"
     subtitle = "Seconda parte"
-    instrument = "I pensier’ son saette (score)"
+    instrument = "I pensier' son saette (score)"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CXXXIII (133) }
@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "i_pensier_son_saette"
     categories = "[madrigal]"
+    motifs = "[laura-l'aura-wordplay]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -93,12 +94,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { I pensier’ son saette, e ’l viso un sole, }
-                \line { e ’l desir foco; e ’nseme con quest’arme }
-                \line { mi punge Amor, m’abbaglia et mi distrugge; }
-                \line { con l’angelico canto et le parole, }
-                \line { col dolce spirto ond’io non posso aitarme, }
-                \line { son l’aura inanzi a cui mia vita fugge. }
+                \line { I pensier' son saette, e 'l viso un sole, }
+                \line { e 'l desir foco; e 'nseme con quest'arme }
+                \line { mi punge Amor, m'abbaglia et mi distrugge; }
+                \line { con l'angelico canto et le parole, }
+                \line { col dolce spirto ond'io non posso aitarme, }
+                \line { son l'aura inanzi a cui mia vita fugge. }
             }
             \column {
                 \line { Your thoughts are arrows, and your face the sun, }

@@ -20,13 +20,15 @@
     instrument = "Voi ch'ascoltate in rime sparse:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "voi_chascoltate_in_rime_sparse"
+    % Attribution via https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2FOPR00000617
+    folio = "Malipiero Girolamo (1490-1547)"
     shortcomp = "flecha"
     categories = "[madrigals]"
     needtranslation = #'t
 
     % Unchanging:
     language = "italian"
-    poeticform = "sonnet?"
+    poeticform = "sonnet"
     rhyme = "ABBAABBA"
     tagline = #'f
 }

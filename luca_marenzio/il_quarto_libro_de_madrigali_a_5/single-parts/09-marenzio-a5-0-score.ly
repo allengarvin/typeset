@@ -20,7 +20,7 @@
     shorttitle = "corran_di_puro_latte"
     shortcomp = "marenzio"
     categories = "[madrigal]"
-    motifs = "[po]",
+    motifs = "[po,river]"
     final = "f"
     flats = 1
     needtranslation = #'f

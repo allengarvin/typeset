@@ -20,6 +20,7 @@
     shorttitle = "mentre_la_notte_al_suo_bel_manto_il_lembo"
     shortcomp = "luzzaschi"
     categories = "[madrigal]"
+    motifs = "[night,eyes]"
     final = "a"
     flats = 0
     needtranslation = #'f

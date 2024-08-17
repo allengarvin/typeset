@@ -23,6 +23,7 @@
     flats = 1
     final = "g"
     categories = "[madrigal]"
+    motifs = "[laura-l'aura-wordplay]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

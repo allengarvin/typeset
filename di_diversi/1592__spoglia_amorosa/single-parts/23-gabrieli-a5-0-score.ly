@@ -23,8 +23,7 @@
     final = "d"
     shorttitle = "ama_l_aquila_giove"
     categories = "[madrigal,animal]"
-    motif = "[eagle,bird]"
-    motifs = "[jupiter,ganymede,swan,eagle]
+    motifs = "[jupiter,ganymede,swan,eagle]"
     
     \include "include/distribution-header.ly"
     tagline = #'f

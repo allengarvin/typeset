@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "selve_sassi"
     categories = "[madrigal]"
+    motifs = "[nature]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

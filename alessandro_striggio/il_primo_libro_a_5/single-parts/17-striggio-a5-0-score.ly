@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Notte felice, aventurosa e bella"
     instrument = "Notte felice (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
 
@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "notte_felice"
     categories = "[madrigal]"
+    motifs = "[night,dawn,amore,death]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -90,14 +91,26 @@
     \markup {
         \fill-line {
             \column {
-                \line { Notte felice, aventurosa e bella }
-                \line { Che dopo tante pene e dolor tanti, }
-                \line { Dopo singolti e pianti, }
-                \line { Pur mi guidasti in braccio alla mia stella }
-                \line { Ove donasti alla virtù smarrita }
-                \line { Sì dolce e cara vita. }
+                \line { Notte felice, avventurosa e bella }
+                \line { che dopo tante pene e dolor tanti, }
+                \line { dopo singolti e pianti, }
+                \line { pur mi guidasti in braccio alla mia stella }
+                \line { ove donasti alla virtù smarrita }
+                \line { sì dolce e cara vita. }
                 \line { Ma il sol poi troppo caminando forte }
-                \line { Tosto condusse il giorno, ond'io ebbi morte. }
+                \line { tosto condusse il giorno, ond'io ebbi morte. }
+            }
+            \column {
+                % translation: 2024-08-11
+                \line { Happy night, fortunate and lovely, }
+                \line { for after so many pains and such grief, }
+                \line { after sighs and tears, }
+                \line { you guided me yet into the embrace of my star, }
+                \line { wherein you gave me back my lost strength, }
+                \line { such sweet and dear life. }
+                \line { But then the sun, rising too swiftly, }
+                \line { quickly brought the day, and I perished. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

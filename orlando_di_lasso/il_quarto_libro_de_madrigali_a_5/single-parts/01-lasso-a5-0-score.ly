@@ -24,7 +24,7 @@
     folio = \markup { Petrarca, \italic{Canzoniere} CCXXXIX (239) }
 
     categories = "[madrigal]"
-    motifs = "[]"
+    motifs = "[laura-l'aura-wordplay]"
     needtranslation = #'f
 
     % Unchanging:

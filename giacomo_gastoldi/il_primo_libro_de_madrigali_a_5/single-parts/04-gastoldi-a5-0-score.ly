@@ -22,6 +22,7 @@
     shorttitle = "la_bellalba_sorgea"
     shortcomp = "gastoldi"
     categories = "[madrigal]"
+    motifs = "[dawn]"
     needtranslation = #'f
 
     % Unchanging:

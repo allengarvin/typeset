@@ -25,6 +25,7 @@
     final = "d"
     shorttitle = "la_notte_orlando"
     categories = "[madrigal,furioso]"
+    motifs = "[night]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -21,6 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "ut_re_mi_fa_sol_la"
     shortcomp = "rota"
+    folio = "Angelo Grillo (as Livio Celiano) (1557-1629)"
     categories = "[madrigal]"
     motifs = "[hexachord,music]"
     needtranslation = #'f

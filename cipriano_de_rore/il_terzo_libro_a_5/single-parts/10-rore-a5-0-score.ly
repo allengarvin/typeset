@@ -23,6 +23,7 @@
     final = "a"
     flats = 1
     categories = "[madrigal]"
+    motifs = "[virgin,mary]"
     needtranslation = #'f
 
     % Unchanging:

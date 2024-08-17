@@ -24,6 +24,7 @@
     originallyset = "2022-04-10"
     flats = 1
     final = "g"
+    categories = "[favorite]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

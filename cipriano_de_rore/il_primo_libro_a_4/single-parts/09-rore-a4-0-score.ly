@@ -21,6 +21,7 @@
     flats = 0
     final = "d"
     categories = "[madrigal]"
+    motifs = "[amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

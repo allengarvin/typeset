@@ -22,6 +22,7 @@
     shorttitle = "signor_la_vostra_fiamma"
     shortcomp = "gastoldi"
     categories = "[madrigal]"
+    motifs = "[flame,passion,amore]"
     needtranslation = #'f
 
     % Unchanging:

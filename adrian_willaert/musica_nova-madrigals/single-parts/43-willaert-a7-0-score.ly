@@ -22,7 +22,8 @@
     originallyset = "2013-04-23"
     flats = 1
     final = "f"
-    categories = "[madrigal]"
+    categories = "[madrigal,favorite]"
+    motifs = "[amore,paradox,spring]"
     \include "include/distribution-header.ly"
     poeticform = "sonnet"
     tagline = #'f

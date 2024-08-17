@@ -20,6 +20,7 @@
     shorttitle = "erano_i_capei_doro_a_laura_sparsi"
     shortcomp = "nanino"
     categories = "[madrigal]"
+    motifs = "[laura-l'aura-wordplay]"
     final = "d"
     flats = 0
     needtranslation = #'f

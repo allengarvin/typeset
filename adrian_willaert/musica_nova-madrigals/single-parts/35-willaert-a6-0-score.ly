@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "in_qual_parte_del_ciel"
     categories = "[madrigal]"
+    motifs = "[laura-l'aura-wordplay]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

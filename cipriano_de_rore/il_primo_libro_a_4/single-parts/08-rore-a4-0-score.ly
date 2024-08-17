@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "carita_di_signore"
     categories = "[madrigal]"
+    motifs = "[laurel]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

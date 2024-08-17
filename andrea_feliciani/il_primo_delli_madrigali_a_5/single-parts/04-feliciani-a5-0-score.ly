@@ -20,6 +20,7 @@
     shorttitle = "lorgoglio_onda"
     shortcomp = "feliciani"
     categories = "[madrigal]"
+    motifs = "[pride,anger]"
     poeticform = "sonnet"
     needtranslation = #'f
     final = "g"

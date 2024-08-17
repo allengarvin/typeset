@@ -22,6 +22,7 @@
     shorttitle = "ringrazio_e_lodo_il_ciel"
     shortcomp = "gabrieli"
     categories = "[madrigal]"
+    motifs = "[]"
     needtranslation = #'t
     folio = "Luigi Tansillo (1510-1568)"
     rhyme = "ABBAABBA"

@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "pero_piu_fermo"
     categories = "[madrigal]"
+    motifs = "[seasons]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

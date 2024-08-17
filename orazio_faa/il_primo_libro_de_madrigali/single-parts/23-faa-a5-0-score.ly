@@ -22,6 +22,7 @@
     shorttitle = "vergine_bella"
     shortcomp = "faa"
     categories = "[madrigal]"
+    motifs = "[mary,virgin]"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
 

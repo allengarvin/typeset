@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     categories = "[madrigal]"
+    motifs = "[virgin,mary]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

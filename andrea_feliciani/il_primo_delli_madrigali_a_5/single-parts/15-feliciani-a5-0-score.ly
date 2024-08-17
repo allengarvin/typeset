@@ -21,6 +21,7 @@
     folio = \markup { Petrarca, \italic{Canzoniere} XC (90) }
     shortcomp = "feliciani"
     categories = "[madrigal]"
+    motifs = "[spirit]"
     poeticform = "sonnet"
     final = "f"
     flats = 1

@@ -22,6 +22,7 @@
     shorttitle = "io_mi_rivolgo"
     shortcomp = "nasco"
     categories = "[madrigal]"
+    motifs = "[walking,weariness]"
     composer = "Jan Nasco (c.1510-1561)"
     folio = \markup { Petrarca, \italic{Canzoniere} XV (15) }
 

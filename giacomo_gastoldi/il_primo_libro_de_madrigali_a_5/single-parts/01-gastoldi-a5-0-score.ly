@@ -22,6 +22,7 @@
     shorttitle = "donna_lardente_fiamma"
     shortcomp = "gastoldi"
     categories = "[madrigal]"
+    motifs = "[flame,amore]"
     rhyme = "abBcCDD"
     needtranslation = #'f
 

@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "laura_serena"
     categories = "[madrigal]"
+    motifs = "[laura-l'aura-wordplay]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

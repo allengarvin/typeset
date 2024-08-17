@@ -17,6 +17,7 @@
     shorttitle = "pel_bosco_erro_tutta_la_notte_il_conte"
     shortcomp = "berchem"
     categories = "[madrigal,furioso]"
+    motifs = "[notte]"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 130 }
     poeticform = "ottava rima"
