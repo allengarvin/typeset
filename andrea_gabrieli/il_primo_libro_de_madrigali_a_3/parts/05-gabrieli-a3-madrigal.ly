@@ -1,10 +1,10 @@
 %   32 – Dunque baciar sì belle e dolce labbia
-%      deve altra, se baciar non le poss’io?
-%      Ah non sia vero già ch’altra mai t’abbia;
-%      che d’altra esser non dei, se non sei mio.
+%      deve altra, se baciar non le poss'io?
+%      Ah non sia vero già ch'altra mai t'abbia;
+%      che d'altra esser non dei, se non sei mio.
 %      Più tosto che morir sola di rabbia,
 %      che meco di mia man mori, disio;
-%      che se ben qui ti perdo, almen l’inferno
+%      che se ben qui ti perdo, almen l'inferno
 %      poi mi ti renda, e stii meco in eterno.
 
 cantoVincipit = \relative c'' {
@@ -37,9 +37,9 @@ cantoV = \relative c'' {
 
 cantoLyricsV = \lyricmode {
     Dun -- que ba -- ciar sì bel -- le~e dol -- ce lab -- bia
-    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s’i -- o?
-    Ah non sia ve -- ro già ch’al -- tra mai t’ab -- bia;
-    Che d’al -- tra~es -- ser non dei, se non sei mi -- o.
+    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s'i -- o?
+    Ah non sia ve -- ro già ch'al -- tra mai t'ab -- bia;
+    Che d'al -- tra~es -- ser non dei, se non sei mi -- o.
     Più to -- sto che mo -- rir 
     \ijLyrics
     Più to -- sto che mo -- rir 
@@ -47,7 +47,7 @@ cantoLyricsV = \lyricmode {
         so -- la __ di rab -- bia,
     Che me -- co di mia man mo -- ri, 
         mo -- ri, di -- si -- o;
-    Che se ben qui ti per -- do,~al -- men l’in -- fer -- no
+    Che se ben qui ti per -- do,~al -- men l'in -- fer -- no
     Poi mi ti ren -- da, e stii me -- co~in e -- ter -- no.
 }
 
@@ -82,9 +82,9 @@ tenoreV = \relative c'' {
 
 tenoreLyricsV = \lyricmode {
     Dun -- que ba -- ciar sì bel -- le~e dol -- ce lab -- bia
-    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s’i -- o?
-    Ah non sia ve -- ro già ch’al -- tra mai t’ab -- bia;
-    Che d’al -- tra~es -- ser non dei, se non sei mi -- o.
+    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s'i -- o?
+    Ah non sia ve -- ro già ch'al -- tra mai t'ab -- bia;
+    Che d'al -- tra~es -- ser non dei, se non sei mi -- o.
     Più to -- sto che mo -- rir 
     \ijLyrics
     Più to -- sto che mo -- rir __
@@ -92,7 +92,7 @@ tenoreLyricsV = \lyricmode {
         so -- la di rab -- bia,
     Che me -- co di mia man mo -- ri, di -- si -- o,
         mo -- ri, mo -- ri, di -- si -- o;
-    Che se ben qui ti per -- do,~al -- men __ l’in -- fer -- no
+    Che se ben qui ti per -- do,~al -- men __ l'in -- fer -- no
     Poi mi ti ren -- da, 
     \ijLyrics
     Poi mi ti ren -- da,~e
@@ -128,16 +128,16 @@ bassoV = \relative c' {
 
 bassoLyricsV = \lyricmode {
     Dun -- que ba -- ciar sì bel -- le~e dol -- ce lab -- bia
-    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s’i -- o?
-    Ah non sia ve -- ro già ch’al -- tra mai t’ab -- bia;
-    Che d’al -- tra~es -- ser non dei, se non sei mi -- o.
+    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s'i -- o?
+    Ah non sia ve -- ro già ch'al -- tra mai t'ab -- bia;
+    Che d'al -- tra~es -- ser non dei, se non sei mi -- o.
     Più to -- sto che mo -- rir 
     \ijLyrics
     Più to -- sto che mo -- rir 
     \normalLyrics 
         so -- la di rab -- bia,
     Che me -- co di mia man mo -- ri, di -- si -- o,
-    Che se ben qui ti per -- do,~al -- men __ l’in -- fer -- no
+    Che se ben qui ti per -- do,~al -- men __ l'in -- fer -- no
     Poi mi ti ren -- da, 
     Poi mi ti ren -- da,~e stii me -- co~in e -- ter -- no.
 }

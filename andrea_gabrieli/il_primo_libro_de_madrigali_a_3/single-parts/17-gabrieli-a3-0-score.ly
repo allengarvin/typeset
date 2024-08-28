@@ -25,6 +25,7 @@
     shorttitle = "dove_speranza_mia"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -78,11 +79,11 @@
             \column {
                 \line { Dove, speranza mia, dove ora sei? } 
                 \line { Vai tu soletta forse ancor errando? } 
-                \line { O pur t’hanno trovata i lupi rei } 
+                \line { O pur t'hanno trovata i lupi rei } 
                 \line { Senza la guardia del tuo fido Orlando? } 
-                \line { E il fior ch’in ciel potea pormi fra i dei, } 
-                \line { Il fior ch’intatto io mi venia serbando } 
-                \line { Per non turbarti, ohimè! l’animo casto, } 
+                \line { E il fior ch'in ciel potea pormi fra i dei, } 
+                \line { Il fior ch'intatto io mi venia serbando } 
+                \line { Per non turbarti, ohimè! l'animo casto, } 
                 \line { Ohimè! per forza avranno colto e guasto. } 
                 \line { \hspace #12 canto VIII, ottava 77 }
             }

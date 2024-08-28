@@ -1,11 +1,11 @@
-%Mentre ch’ella le piaghe va sciugando,
-%A quel de’ suoi begli occhi il pianto beve,
+%Mentre ch'ella le piaghe va sciugando,
+%A quel de' suoi begli occhi il pianto beve,
 %O caso troppo lagrimoso, quando
 %Il ferito Pastor pur morir deve,
 %Veggio la bella Ninfa andar mancando
 %E cader morta; per finir in breve:
 %Rimasero ambidue morti in quel suolo,
-%Che l’una uccise il ferro, e l’altro il duolo. 
+%Che l'una uccise il ferro, e l'altro il duolo. 
 
 cantoIVincipit = \relative c'' {
     \time 2/2
@@ -40,21 +40,21 @@ cantoIV = \relative c'' {
 }
 
 cantoLyricsIV = \lyricmode {
-    Men -- tre ch’el -- la le pia -- ghe va __ sciu -- gan -- do,
-    A quel de’ suoi be -- gli~oc -- chi~il pian -- to be -- ve,
+    Men -- tre ch'el -- la le pia -- ghe va __ sciu -- gan -- do,
+    A quel de' suoi be -- gli~oc -- chi~il pian -- to be -- ve,
     O __ ca -- so trop -- po la -- gri -- mo -- so, quan -- do
     Il fe -- ri -- to Pa -- stor pur mo -- rir de -- ve,
     Il fe -- ri -- to Pa -- stor pur mo -- rir de -- ve,
     Veg -- gio la bel -- la nin -- fa an -- dar man -- can -- do
     E ca -- der mor -- ta; per fi -- nir in bre -- ve:
     Ri -- ma -- ser am -- bi -- due mor -- ti~in quel suo -- lo,
-    Che l’un uc -- ci -- se~il fer -- ro,~e l’al -- tro~il duo -- lo,
-    Che l’un uc -- ci -- se~il fer -- ro, e l’al -- tro~il duo -- lo,
+    Che l'un uc -- ci -- se~il fer -- ro,~e l'al -- tro~il duo -- lo,
+    Che l'un uc -- ci -- se~il fer -- ro, e l'al -- tro~il duo -- lo,
     Ri -- ma -- ser am -- bi -- due mor -- ti~in __ quel suo -- lo,
-        e l’al -- tro~il duo -- lo,
-    Che l’un uc -- ci -- se~il fer -- ro,~e l’al -- tro~il duo -- lo,
-        e l’al -- tro~il duo -- lo,
-        e l’al -- tro~il duo -- lo.
+        e l'al -- tro~il duo -- lo,
+    Che l'un uc -- ci -- se~il fer -- ro,~e l'al -- tro~il duo -- lo,
+        e l'al -- tro~il duo -- lo,
+        e l'al -- tro~il duo -- lo.
 }
 
 tenoreIVincipit = \relative c'' {
@@ -89,21 +89,21 @@ tenoreIV = \relative c'' {
 }
 
 tenoreLyricsIV = \lyricmode {
-    Men -- tre ch’el -- la le pia -- ghe va __ sciu -- gan -- do,
-    A quel de’ suoi be -- gli~oc -- chi~il pian -- to be -- ve,
+    Men -- tre ch'el -- la le pia -- ghe va __ sciu -- gan -- do,
+    A quel de' suoi be -- gli~oc -- chi~il pian -- to be -- ve,
     O __ ca -- so trop -- po la -- gri -- mo -- so, quan -- do
     Il fe -- ri -- to Pa -- stor pur mo -- rir de -- ve,
     Il fe -- ri -- to Pa -- stor pur mo -- rir de -- ve,
     Veg -- gio la bel -- la nin -- fa~an -- dar man -- can -- do
     E ca -- der mor -- ta; per fi -- nir in bre -- ve:
     Ri -- ma -- ser am -- bi -- due mor -- ti~in __ quel suo -- lo,
-        e l’al -- tro~il duo -- lo,
-    Che l’un uc -- ci -- se~il fer -- ro,~e l’al -- tro~il duo -- lo,
-        e l’al -- tro~il duo -- lo,
+        e l'al -- tro~il duo -- lo,
+    Che l'un uc -- ci -- se~il fer -- ro,~e l'al -- tro~il duo -- lo,
+        e l'al -- tro~il duo -- lo,
     Ri -- ma -- ser am -- bi -- due mor -- ti~in quel suo -- lo,
-    Che l’un uc -- ci -- se~il fer -- ro,~e l’al -- tro~il duo -- lo,
-    Che l’un uc -- ci -- se~il fer -- ro, e l’al -- tro~il duo -- lo,
-        e l’al -- tro~il duo -- lo.
+    Che l'un uc -- ci -- se~il fer -- ro,~e l'al -- tro~il duo -- lo,
+    Che l'un uc -- ci -- se~il fer -- ro, e l'al -- tro~il duo -- lo,
+        e l'al -- tro~il duo -- lo.
 }
 
 bassoIVincipit = \relative c' {
@@ -137,22 +137,22 @@ bassoIV = \relative c' {
 }
 
 bassoLyricsIV = \lyricmode {
-    Men -- tre ch’el -- la le pia -- ghe va __ sciu -- gan -- do,
-    A quel de’ suoi be -- gli~oc -- chi~il pian -- to be -- ve,
+    Men -- tre ch'el -- la le pia -- ghe va __ sciu -- gan -- do,
+    A quel de' suoi be -- gli~oc -- chi~il pian -- to be -- ve,
     O ca -- so trop -- po la -- gri -- mo -- so, quan -- do
     Il fe -- ri -- to Pa -- stor pur mo -- rir de -- ve,
     Il fe -- ri -- to Pa -- stor pur mo -- rir de -- ve,
     Veg -- gio la bel -- la nin -- fa~an -- dar man -- can -- do
     E ca -- der mor -- ta; per fi -- nir in bre -- ve:
         mor -- ti~in __ quel suo -- lo,
-    Che l’un uc -- ci -- se~il fer -- ro,
-    Che l’un uc -- ci -- se~il fer -- ro,~e l’al -- tro~il duo -- lo,
-        e l’al -- tro~il duo -- lo,
+    Che l'un uc -- ci -- se~il fer -- ro,
+    Che l'un uc -- ci -- se~il fer -- ro,~e l'al -- tro~il duo -- lo,
+        e l'al -- tro~il duo -- lo,
         mor -- ti~in __ quel suo -- lo,
-    Che l’un uc -- ci -- se~il fer -- ro,
-    Che l’un uc -- ci -- se~il fer -- ro,~e l’al -- tro~il duo -- lo,
-        e l’al -- tro~il duo -- lo,
-        e l’al -- tro~il duo -- lo.
+    Che l'un uc -- ci -- se~il fer -- ro,
+    Che l'un uc -- ci -- se~il fer -- ro,~e l'al -- tro~il duo -- lo,
+        e l'al -- tro~il duo -- lo,
+        e l'al -- tro~il duo -- lo.
 }
 
 cantoIVincipitVoice = <<

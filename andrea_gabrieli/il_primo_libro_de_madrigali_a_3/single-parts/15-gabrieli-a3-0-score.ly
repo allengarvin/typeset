@@ -24,6 +24,7 @@
     shorttitle = "il_dolce_sonno"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,12 +77,12 @@
         \fill-line {
             \column {
                 \line { Il dolce sonno mi promise pace, }
-                \line { ma l’amaro veggiar mi torna in guerra: }
+                \line { ma l'amaro veggiar mi torna in guerra: }
                 \line { il dolce sonno è ben stato fallace, }
-                \line { ma l’amaro veggiar, ohimè! non erra. }
-                \line { Se ’l vero annoia, e il falso sì mi piace, }
+                \line { ma l'amaro veggiar, ohimè! non erra. }
+                \line { Se 'l vero annoia, e il falso sì mi piace, }
                 \line { non oda o vegga mai più vero in terra: }
-                \line { se ’l dormir mi dà gaudio, e il veggiar guai, }
+                \line { se 'l dormir mi dà gaudio, e il veggiar guai, }
                 \line { possa io dormir senza destarmi mai. }
                 \line { \italic{Orlando Furioso,} XXXIII 63 }
             }

@@ -1,11 +1,11 @@
-% Se tu m’occidi, è ben ragion che deggi
+% Se tu m'occidi, è ben ragion che deggi
 % darmi de la vendetta anco conforto;
 % che voglion tutti gli ordini e le leggi,
 % che chi dà morte altrui debba esser morto.
-% Né par ch’anco il tuo danno il mio pareggi;
+% Né par ch'anco il tuo danno il mio pareggi;
 % che tu mori a ragione, io moro a torto.
-% Farò morir chi brama, ohimè! ch’io muora;
-% ma tu, crudel, chi t’ama e chi t’adora.
+% Farò morir chi brama, ohimè! ch'io muora;
+% ma tu, crudel, chi t'ama e chi t'adora.
 
 cantoVIincipit = \relative c'' {
     \time 2/2
@@ -38,22 +38,22 @@ cantoVI = \relative c'' {
 }
 
 cantoLyricsVI = \lyricmode {
-    Se tu m’oc -- ci -- di,~è ben ra -- gion che deg -- gi
+    Se tu m'oc -- ci -- di,~è ben ra -- gion che deg -- gi
     Dar -- mi de la ven -- det -- ta an -- co~con -- for -- to;
     Che vo -- glion tut -- ti gli~or -- di -- ni~e le leg -- gi,
     Che chi dà mor -- te~al -- trui deb -- ba~es -- ser mor -- to.
-    Né par ch’an -- co~il tuo dan -- no 
+    Né par ch'an -- co~il tuo dan -- no 
     \ijLyrics
-    Né par ch’an -- co~il tuo dan -- no~il
+    Né par ch'an -- co~il tuo dan -- no~il
     \normalLyrics
         mio pa -- reg -- gi;
     Che tu mo -- ri~a ra -- gion, io mo -- ro~a tor -- to. __
-    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch’io muo -- ra,
-    Ma tu, cru -- del, chi t’a -- ma~e chi t’a -- do -- ra,
+    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch'io muo -- ra,
+    Ma tu, cru -- del, chi t'a -- ma~e chi t'a -- do -- ra,
     Fa -- rò mo -- rir,
-    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch’io muo -- ra,
-    Ma tu, cru -- del, chi t’a -- ma~e chi t’a -- do -- ra,
-    Ma tu, cru -- del, chi t’a -- ma~e chi t’a -- do -- ra.
+    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch'io muo -- ra,
+    Ma tu, cru -- del, chi t'a -- ma~e chi t'a -- do -- ra,
+    Ma tu, cru -- del, chi t'a -- ma~e chi t'a -- do -- ra.
 }
 
 tenoreVIincipit = \relative c'' {
@@ -88,22 +88,22 @@ tenoreVI = \relative c'' {
 }
 
 tenoreLyricsVI = \lyricmode {
-    Se tu m’oc -- ci -- di,~è ben ra -- gion che deg -- gi
+    Se tu m'oc -- ci -- di,~è ben ra -- gion che deg -- gi
     Dar -- mi de la ven -- det -- ta an -- co~con -- for -- to;
     Che vo -- glion tut -- ti gli~or -- di -- ni~e le leg -- gi,
     Che chi dà mor -- te~al -- trui deb -- ba~es -- ser mor -- to.
-    Né par ch’an -- co~il tuo dan -- no 
+    Né par ch'an -- co~il tuo dan -- no 
     \ijLyrics
-    Né par ch’an -- co~il tuo dan -- no~il
+    Né par ch'an -- co~il tuo dan -- no~il
     \normalLyrics
         mio pa -- reg -- gi;
     Che tu mo -- ri~a ra -- gion, io mo -- ro~a tor -- to. 
     Fa -- rò mo -- rir,
-    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch’io muo -- ra,
-    Ma tu, cru -- del, chi t’a -- ma~e chi t’a -- do -- ra, __
-    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch’io muo -- ra,
-    Ma tu, cru -- del, chi t’a -- ma~e chi t’a -- do -- ra,
-    Ma tu, cru -- del, chi t’a -- ma~e chi t’a -- do -- ra.
+    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch'io muo -- ra,
+    Ma tu, cru -- del, chi t'a -- ma~e chi t'a -- do -- ra, __
+    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch'io muo -- ra,
+    Ma tu, cru -- del, chi t'a -- ma~e chi t'a -- do -- ra,
+    Ma tu, cru -- del, chi t'a -- ma~e chi t'a -- do -- ra.
 }
 
 bassoVIincipit = \relative c'' {
@@ -138,23 +138,23 @@ bassoVI = \relative c'' {
 }
 
 bassoLyricsVI = \lyricmode {
-    Se tu m’oc -- ci -- di,~è ben ra -- gion che deg -- gi,
+    Se tu m'oc -- ci -- di,~è ben ra -- gion che deg -- gi,
         che deg -- gi
     Dar -- mi de la ven -- det -- ta an -- co~con -- for -- to;
     Che vo -- glion tut -- ti gli~or -- di -- ni~e le leg -- gi,
         e le leg -- gi,
     Che chi dà mor -- te~al -- trui deb -- ba~es -- ser mor -- to.
-    Né par ch’an -- co~il tuo dan -- no 
+    Né par ch'an -- co~il tuo dan -- no 
     \ijLyrics
-    Né par ch’an -- co~il tuo dan -- no~il
+    Né par ch'an -- co~il tuo dan -- no~il
     \normalLyrics
         mio __ pa -- reg -- gi;
         io mo -- ro~a tor -- to. 
-    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch’io muo -- ra,
-    Ma tu, cru -- del, chi t’a -- ma~e chi t’a -- do -- ra,
-    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch’io muo -- ra,
-    Ma tu, cru -- del, chi t’a -- ma~e chi t’a -- do -- ra,
-    Ma tu, cru -- del, chi t’a -- ma~e chi t’a -- do -- ra.
+    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch'io muo -- ra,
+    Ma tu, cru -- del, chi t'a -- ma~e chi t'a -- do -- ra,
+    Fa -- rò mo -- rir chi bra -- ma,~ohi -- mè! ch'io muo -- ra,
+    Ma tu, cru -- del, chi t'a -- ma~e chi t'a -- do -- ra,
+    Ma tu, cru -- del, chi t'a -- ma~e chi t'a -- do -- ra.
 }
 
 cantoVIincipitVoice = <<

@@ -23,6 +23,8 @@
     flats = 1
     final = "c"
     shorttitle = "che_giova_posseder"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -76,13 +78,13 @@
         \fill-line {
             \column {
                 \line { Che giova posseder cittadi e regni, }
-                \line { E palagi abitar d’alto lavoro, }
-                \line { E servi intorno aver d’imperio degni, }
-                \line { E l’arche gravi per molto tesoro; }
-                \line { Esser cantate da sublimi ingegni, }
-                \line { Di porpora vestir, mangiar' in oro, }
-                \line { E di bellezza pareggiar il sole, }
-                \line { Giacendo poi nel letto fredde e sole. }
+                \line { e palagi abitar d'alto lavoro, }
+                \line { e servi intorno aver d'imperio degni, }
+                \line { e l'arche gravi per molto tesoro; }
+                \line { esser cantate da sublimi ingegni, }
+                \line { di porpora vestir, mangiar' in oro, }
+                \line { e di bellezza pareggiar il sole, }
+                \line { giacendo poi nel letto fredde e sole. }
             }
         }
     }

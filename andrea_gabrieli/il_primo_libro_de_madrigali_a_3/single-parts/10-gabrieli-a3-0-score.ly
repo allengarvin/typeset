@@ -25,6 +25,7 @@
     shorttitle = "a_questo_la_mestissima"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -80,10 +81,10 @@
                 \line { declinando la faccia lacrimosa }
                 \line { e congiungendo la sua bocca a quella }
                 \line { di Zerbin, languidetta come rosa, }
-                \line { rosa non colta in sua stagion, sì ch’ella }
+                \line { rosa non colta in sua stagion, sì ch'ella }
                 \line { impallidisca in su la siepe ombrosa, }
                 \line { disse: – Non vi pensate già, mia vita, }
-                \line { far senza me quest’ultima partita. }
+                \line { far senza me quest'ultima partita. }
             }
           \column {
                 \line { At this the sorrowing Isabel, declining }

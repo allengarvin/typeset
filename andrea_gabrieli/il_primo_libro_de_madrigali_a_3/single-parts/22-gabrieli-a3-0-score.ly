@@ -24,6 +24,7 @@
     shorttitle = "la_verginella"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,13 +77,13 @@
         \fill-line {
             \column {
                 \line { La verginella è simile alla rosa, } 
-                \line { Ch’in bel giardin su la nativa spina } 
-                \line { Mentre sola e sicura si riposa, } 
-                \line { Né gregge né pastor se le avicina; } 
-                \line { L’aura soave e l’alba rugiadosa, } 
-                \line { L’acqua, la terra al suo favor s’inchina: } 
+                \line { ch'in bel giardin su la nativa spina } 
+                \line { mentre sola e sicura si riposa, } 
+                \line { né gregge né pastor se le avicina; } 
+                \line { l'aura soave e l'alba rugiadosa, } 
+                \line { l'acqua, la terra al suo favor s'inchina: } 
                 \line { Gioveni vaghi e donne inamorate } 
-                \line { Amano averne e seni e tempie ornate. } 
+                \line { amano averne e seni e tempie ornate. } 
                 \line { \hspace #12 canto I, ottava 42 }
             }
             \column {

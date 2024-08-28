@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Non credo che quest’ultime parole"
+    title = "Non credo che quest'ultime parole"
     subtitle = "Settima stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 85 }
     instrument = "Non credo (score)"
@@ -25,6 +25,7 @@
     shorttitle = "non_credo"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,7 +77,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { Non credo che quest’ultime parole }
+                \line { Non credo che quest'ultime parole }
                 \line { potesse esprimer sì, che fosse inteso; }
                 \line { e finì come il debol lume suole, }
                 \line { cui cera manchi od altro in che sia acceso. }

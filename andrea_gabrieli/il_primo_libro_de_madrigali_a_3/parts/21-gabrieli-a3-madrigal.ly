@@ -3,8 +3,8 @@
 % Iersera desti insieme a dui ricetto;
 % perché insieme al levar non siamo dui?
 % O perfido Bireno, o maladetto
-% giorno ch’al mondo generata fui!
-% Che debbo far? che poss’io far qui sola?
+% giorno ch'al mondo generata fui!
+% Che debbo far? che poss'io far qui sola?
 % chi mi dà aiuto? ohimè, chi mi consola?
 
 cantoXXIincipit = \relative c'' {
@@ -50,19 +50,19 @@ cantoLyricsXXI = \lyricmode {
     O __ per -- fi -- do Bi -- re -- no, 
     \normalLyrics
         O ma -- la -- det -- to
-    Gior -- no ch’al mon -- do ge -- ne -- ra -- ta fu -- i!
+    Gior -- no ch'al mon -- do ge -- ne -- ra -- ta fu -- i!
     Che deb -- bo far? 
     \ijLyrics
     Che deb -- bo far? 
     \normalLyrics
-        che poss’  io far qui so -- la?
+        che poss'  io far qui so -- la?
     Chi mi dà~a -- iu -- to~ohi -- mè,
         ohi -- mè, chi mi __ con -- so -- la?
     Che deb -- bo far? 
     \ijLyrics
     Che deb -- bo far? 
     \normalLyrics
-        che poss’  io far qui so -- la?
+        che poss'  io far qui so -- la?
     Chi mi dà~a -- iu -- to~ohi -- mè,
         ohi -- mè, chi mi con -- so -- la?
 }
@@ -108,14 +108,14 @@ tenoreLyricsXXI = \lyricmode {
     Per -- ché~in -- sie -- me~al le -- var non sia -- mo du -- i?
     O per -- fi -- do __ Bi -- re -- no, 
     O __ per -- fi -- do __ Bi -- re -- no, O ma -- la -- det -- to
-    Gior -- no ch’al mon -- do ge -- ne -- ra -- ta fu -- i!
+    Gior -- no ch'al mon -- do ge -- ne -- ra -- ta fu -- i!
     Che deb -- bo far? 
     \ijLyrics
     Che deb -- bo far? 
     \normalLyrics
-        che poss’  io far qui so -- la?
+        che poss'  io far qui so -- la?
     \ijLyrics
-        che poss’  io far qui so -- la?
+        che poss'  io far qui so -- la?
     \normalLyrics
     Chi mi dà~a -- iu -- to~ohi -- mè,
         ohi -- mè, chi mi __ con -- so -- la?
@@ -123,8 +123,8 @@ tenoreLyricsXXI = \lyricmode {
     \ijLyrics
     Che deb -- bo far? 
     \normalLyrics
-        che poss’  io far qui so -- la?
-        che poss’  io far qui so -- la?
+        che poss'  io far qui so -- la?
+        che poss'  io far qui so -- la?
     Chi mi dà~a -- iu -- to~ohi -- mè,
         ohi -- mè, chi mi __ con -- so -- la?
 }
@@ -169,11 +169,11 @@ bassoLyricsXXI = \lyricmode {
     O __ per -- fi -- do Bi -- re -- no, 
     \normalLyrics
         O ma -- la -- det -- to
-    Gior -- no ch’al mon -- do ge -- ne -- ra -- ta fu -- i!
-    Che deb -- bo far?  che poss’  io far qui so -- la?
+    Gior -- no ch'al mon -- do ge -- ne -- ra -- ta fu -- i!
+    Che deb -- bo far?  che poss'  io far qui so -- la?
     Chi mi dà~a -- iu -- to ohi -- mè,
         ohi -- mè, chi mi con -- so -- la?
-    Che deb -- bo far?  che poss’  io far qui so -- la?
+    Che deb -- bo far?  che poss'  io far qui so -- la?
     Chi mi dà~a -- iu -- to ohi -- mè,
         ohi -- mè, chi mi con -- so -- la?
 }

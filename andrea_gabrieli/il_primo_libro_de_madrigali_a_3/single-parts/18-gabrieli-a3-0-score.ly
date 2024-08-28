@@ -25,6 +25,7 @@
     shorttitle = "oh_infelice_o_misero"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -77,13 +78,13 @@
         \fill-line {
             \column {
                 \line { Oh infelice! oh misero! che voglio }
-                \line { se non morir, se ’l mio bel fior colto hanno? }
+                \line { se non morir, se 'l mio bel fior colto hanno? }
                 \line { O sommo Dio, fammi sentir cordoglio }
-                \line { prima d’ogn’altro, che di questo danno. }
+                \line { prima d'ogn'altro, che di questo danno. }
                 \line { Se questo è ver, con le mie man mi toglio }
-                \line { la vita, e l’alma disperata danno. – }
+                \line { la vita, e l'alma disperata danno. – }
                 \line { Così, piangendo forte e sospirando, }
-                \line { seco dicea l’addolorato Orlando. }
+                \line { seco dicea l'addolorato Orlando. }
                 \line { \hspace #12 canto VIII, ottava 78 }
             }
             \column {

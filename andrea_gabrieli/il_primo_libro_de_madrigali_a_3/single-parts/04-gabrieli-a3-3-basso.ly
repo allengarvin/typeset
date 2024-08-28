@@ -9,13 +9,13 @@
 
 \header {
     % Things that change per piece:
-    title = "Mentre ch’ella le piaghe va sciugando"
+    title = "Mentre ch'ella le piaghe va sciugando"
     subtitle = "Ultima stanza"
     folio = \markup { Luigi Tansillo, \italic{Il canzoniere}}
 
     % Things that change per part:
     partname = "Basso (part 3 of 3)"
-    instrument = "Mentre ch’ella le piaghe (basso)"
+    instrument = "Mentre ch'ella le piaghe (basso)"
 
     % Unchanging:
     originallyset = "2014-11-24"

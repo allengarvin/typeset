@@ -1,9 +1,9 @@
 % E dove non potea la debil voce,
-% Supliva il pianto e ’l batter palma a palma.
+% Supliva il pianto e 'l batter palma a palma.
 % Dove fuggi, crudel, così veloce?
 % Non ha il tuo legno la debita salma.
 % Fa che lievi[87]^3 me ancor: poco gli nuoce
-% Che porti il corpo, poi che porta l’alma.
+% Che porti il corpo, poi che porta l'alma.
 % E con le braccia e con le vesti segno
 % fa tuttavia, perché ritorni il legno.
 
@@ -42,8 +42,8 @@ cantoXIX = \relative c'' {
 
 cantoLyricsXIX = \lyricmode {
     E do -- ve non po -- tea la de -- bil vo -- ce,
-    Su -- pli -- va~il pian -- to e’l bat -- ter pal -- ma~a pal -- ma,
-        e’l bat -- ter pal -- ma~a pal -- ma.    
+    Su -- pli -- va~il pian -- to e'l bat -- ter pal -- ma~a pal -- ma,
+        e'l bat -- ter pal -- ma~a pal -- ma.    
     Do -- ve fug -- gi, cru -- del, co -- sì ve -- lo -- ce?
     Non ha~il tuo le -- gno la de -- bi -- ta sal -- ma,
         la de -- bi -- ta sal -- ma.
@@ -52,7 +52,7 @@ cantoLyricsXIX = \lyricmode {
     Fa che lie -- vi me~an -- cor: 
     \normalLyrics
         po -- co gli nuo -- ce
-    Che por -- ti~il cor -- po, poi che por -- ta l’al -- ma. __
+    Che por -- ti~il cor -- po, poi che por -- ta l'al -- ma. __
     E con le brac -- cia~e con le ve -- sti se -- gno
     Fa tut -- ta -- via, per -- ché ri -- tor -- ni~il le -- gno,
     E con le brac -- cia
@@ -99,10 +99,10 @@ tenoreXIX = \relative c'' {
 
 tenoreLyricsXIX = \lyricmode {
     E do -- ve non po -- tea la de -- bil vo -- ce,
-    Su -- pli -- va~il pian -- to~e’l bat -- ter pal -- ma~a pal -- ma,
-        e’l bat -- ter pal -- ma~a pal -- ma,
+    Su -- pli -- va~il pian -- to~e'l bat -- ter pal -- ma~a pal -- ma,
+        e'l bat -- ter pal -- ma~a pal -- ma,
     \ijLyrics
-        e’l bat -- ter pal -- ma~a pal -- ma.    
+        e'l bat -- ter pal -- ma~a pal -- ma.    
     \normalLyrics
     Do -- ve fug -- gi, cru -- del, co -- sì ve -- lo -- ce?
     Non ha~il tuo le -- gno la de -- bi -- ta sal -- ma,
@@ -115,7 +115,7 @@ tenoreLyricsXIX = \lyricmode {
     Fa __ che lie -- vi me~an -- cor: 
     \normalLyrics
         po -- co gli nuo -- ce
-    Che por -- ti~il cor -- po, poi che por -- ta l’al -- ma.
+    Che por -- ti~il cor -- po, poi che por -- ta l'al -- ma.
     E con le brac -- cia~e con le ve -- sti se -- gno
     Fa tut -- ta -- via, per -- ché ri -- tor -- ni~il le -- gno,
         ri -- tor -- ni,
@@ -156,8 +156,8 @@ bassoXIX = \relative c' {
 
 bassoLyricsXIX = \lyricmode {
     E do -- ve non po -- tea la de -- bil vo -- ce,
-    Su -- pli -- va~il pian -- to~e’l bat -- ter pal -- ma~a pal -- ma,
-        e’l bat -- ter pal -- ma~a pal -- ma.    
+    Su -- pli -- va~il pian -- to~e'l bat -- ter pal -- ma~a pal -- ma,
+        e'l bat -- ter pal -- ma~a pal -- ma.    
     Do -- ve fug -- gi, cru -- del, co -- sì ve -- lo -- ce?
     Non ha~il tuo le -- gno la de -- bi -- ta sal -- ma,
         la de -- bi -- ta sal -- ma.
@@ -166,7 +166,7 @@ bassoLyricsXIX = \lyricmode {
     Fa __ che lie -- vi me~an -- cor: 
     \normalLyrics
         po -- co gli nuo -- ce
-    Che por -- ti~il cor -- po, poi che por -- ta l’al -- ma.
+    Che por -- ti~il cor -- po, poi che por -- ta l'al -- ma.
     E con le brac -- cia~e con le ve -- sti se -- gno
     Fa tut -- ta -- via, per -- ché ri -- tor -- ni~il le -- gno,
     E con le brac -- cia con le ve -- sti se -- gno

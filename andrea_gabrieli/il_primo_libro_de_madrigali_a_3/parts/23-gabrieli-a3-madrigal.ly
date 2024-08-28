@@ -1,11 +1,11 @@
 % Dunque fia ver – dicea – che mi convegna
-% cercare un che mi fugge e mi s’asconde?
+% cercare un che mi fugge e mi s'asconde?
 % Dunque debbo prezzare un che mi sdegna?
 % Debbo pregar chi mai non mi risponde?
-% Patirò che chi m’odia, il cor mi tegna?
+% Patirò che chi m'odia, il cor mi tegna?
 % un che sì stima sue virtù profonde,
 % che bisogno sarà che dal ciel scenda
-% immortal dea che ’l cor d’amor gli accenda?
+% immortal dea che 'l cor d'amor gli accenda?
 
 cantoXXIIIincipit = \relative c'' {
     \time 2/2
@@ -39,15 +39,15 @@ cantoXXIII = \relative c'' {
 
 cantoLyricsXXIII = \lyricmode {
     Dun -- que fia ver "(di" -- "cea)" che mi con -- ve -- gna
-    Cer -- ca -- re~un che mi fug -- ge e mi s’a -- scon -- de?
+    Cer -- ca -- re~un che mi fug -- ge e mi s'a -- scon -- de?
     Dun -- que deb -- bo prez -- za -- re~un che mi sde -- gna?
     Deb -- bo pre -- gar chi mai __ non mi ri -- spon -- de?
-    Pa -- ti -- rò che chi m’o -- dia~il cor mi te -- gna?
+    Pa -- ti -- rò che chi m'o -- dia~il cor mi te -- gna?
     Un che sì sti -- ma sue vir -- tù pro -- fon -- de,
     Che bi -- so -- gno sa -- rà che dal ciel scen -- da
-    Im -- mor -- tal De -- a che’l cor d’a -- mor gli~ac -- cen -- da?
-    Im -- mor -- tal De -- a che’l cor d’a -- mor gli~ac -- cen -- da?
-    Im -- mor -- tal De -- a che’l cor d’a -- mor gli~ac -- cen -- da?
+    Im -- mor -- tal De -- a che'l cor d'a -- mor gli~ac -- cen -- da?
+    Im -- mor -- tal De -- a che'l cor d'a -- mor gli~ac -- cen -- da?
+    Im -- mor -- tal De -- a che'l cor d'a -- mor gli~ac -- cen -- da?
 }
 
 tenoreXXIIIincipit = \relative c' {
@@ -81,15 +81,15 @@ tenoreXXIII = \relative c' {
 
 tenoreLyricsXXIII = \lyricmode {
     Dun -- que fia ver __ "(di" -- "cea)" che mi con -- ve -- gna
-    Cer -- ca -- re~un che mi fug -- ge e mi s’a -- scon -- de?
+    Cer -- ca -- re~un che mi fug -- ge e mi s'a -- scon -- de?
     Dun -- que deb -- bo prez -- za -- re~un che mi sde -- gna?
     Deb -- bo pre -- gar chi mai __ non mi __ ri -- spon -- de?
-    Pa -- ti -- rò che chi m’o -- dia~il cor mi te -- gna?
+    Pa -- ti -- rò che chi m'o -- dia~il cor mi te -- gna?
     Un che sì sti -- ma sue vir -- tù pro -- fon -- de,
     Che __ bi -- so -- gno sa -- rà __ che dal ciel scen -- da
-    Im -- mor -- tal De -- a che’l cor d’a -- mor gli~ac -- cen -- da?
-    Im -- mor -- tal De -- a che’l cor d’a -- mor gli~ac -- cen -- da?
-        che’l cor d’a -- mor gli~ac -- cen -- da?
+    Im -- mor -- tal De -- a che'l cor d'a -- mor gli~ac -- cen -- da?
+    Im -- mor -- tal De -- a che'l cor d'a -- mor gli~ac -- cen -- da?
+        che'l cor d'a -- mor gli~ac -- cen -- da?
 }
 
 bassoXXIIIincipit = \relative c' {
@@ -120,15 +120,15 @@ bassoXXIII = \relative c' {
 
 bassoLyricsXXIII = \lyricmode {
     Dun -- que fia ver "(di" -- "cea)" che mi con -- ve -- gna
-    Cer -- ca -- re~un che mi fug -- ge~e mi s’a -- scon -- de?
+    Cer -- ca -- re~un che mi fug -- ge~e mi s'a -- scon -- de?
     Dun -- que deb -- bo prez -- za -- re~un che mi sde -- gna?
     Deb -- bo pre -- gar chi mai non mi ri -- spon -- de?
-    Pa -- ti -- rò che chi m’o -- dia il cor mi te -- gna?
+    Pa -- ti -- rò che chi m'o -- dia il cor mi te -- gna?
     Un che sì sti -- ma sue vir -- tù pro -- fon -- de,
     Che bi -- so -- gno sa -- rà che dal ciel scen -- da
-    Im -- mor -- tal De -- a che’l cor d’a -- mor gli~ac -- cen -- da?
+    Im -- mor -- tal De -- a che'l cor d'a -- mor gli~ac -- cen -- da?
     Im -- mor -- tal De -- a
-    Im -- mor -- tal De -- a che’l cor d’a -- mor gli~ac -- cen -- da?
+    Im -- mor -- tal De -- a che'l cor d'a -- mor gli~ac -- cen -- da?
 }
 
 cantoXXIIIincipitVoice = <<

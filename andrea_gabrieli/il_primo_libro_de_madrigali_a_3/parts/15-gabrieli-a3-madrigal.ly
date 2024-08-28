@@ -1,12 +1,12 @@
 
 % Canto 33
 %   63  Il dolce sonno mi promise pace,
-%       ma l’amaro veggiar mi torna in guerra:
+%       ma l'amaro veggiar mi torna in guerra:
 %       il dolce sonno è ben stato fallace,
-%       ma l’amaro veggiar, ohimè! non erra.
-%       Se ’l vero annoia, e il falso sì mi piace,
+%       ma l'amaro veggiar, ohimè! non erra.
+%       Se 'l vero annoia, e il falso sì mi piace,
 %       non oda o vegga mai più vero in terra:
-%       se ’l dormir mi dà gaudio, e il veggiar guai,
+%       se 'l dormir mi dà gaudio, e il veggiar guai,
 %       possa io dormir senza destarmi mai.
 
 cantoXVincipit = \relative c'' {
@@ -39,18 +39,18 @@ cantoXV = \relative c'' {
 
 cantoLyricsXV = \lyricmode {
     Il dol -- ce son -- no mi pro -- mi -- se pa -- ce,
-    Ma l’a -- ma -- ro veg -- giar mi tor -- na~in guer -- ra:
+    Ma l'a -- ma -- ro veg -- giar mi tor -- na~in guer -- ra:
     Il dol -- ce son -- no~è ben sta -- to fal -- la -- ce,
-    Ma l’a -- ma -- ro veg -- giar, ohi -- mè! non er -- ra.
-    Se’l vero an -- no -- ia~e~il fal -- so sì mi pia -- ce,
+    Ma l'a -- ma -- ro veg -- giar, ohi -- mè! non er -- ra.
+    Se'l vero an -- no -- ia~e~il fal -- so sì mi pia -- ce,
     Non o -- da~o veg -- ga mai più ve -- ro~in ter -- ra:
-    Se’l __ dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
+    Se'l __ dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
     Pos -- sa~io dor -- mir, 
     \ijLyrics
     Pos -- sa~io dor -- mir 
     \normalLyrics
         sen -- za de -- star -- mi ma -- i,
-    Se’l dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
+    Se'l dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
     Pos -- sa~io dor -- mir,
     Pos -- sa~io dor -- mir sen -- za de -- star -- mi ma -- i.
 }
@@ -87,15 +87,15 @@ tenoreXV = \relative c'' {
 
 tenoreLyricsXV = \lyricmode {
     Il dol -- ce son -- no mi pro -- mi -- se pa -- ce,
-    Ma l’a -- ma -- ro veg -- giar mi tor -- na~in guer -- ra:
+    Ma l'a -- ma -- ro veg -- giar mi tor -- na~in guer -- ra:
     Il dol -- ce son -- no~è ben sta -- to fal -- la -- ce,
-    Ma l’a -- ma -- ro veg -- giar, ohi -- mè! non er -- ra.
-    Se’l vero an -- no -- ia~e~il fal -- so sì mi pia -- ce,
+    Ma l'a -- ma -- ro veg -- giar, ohi -- mè! non er -- ra.
+    Se'l vero an -- no -- ia~e~il fal -- so sì mi pia -- ce,
     Non __ o -- da~o veg -- ga mai più ve -- ro~in ter -- ra:
-    Se’l dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
+    Se'l dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
     Pos -- sa~io dor -- mir, 
     Pos -- sa~io dor -- mir sen -- za de -- star -- mi ma -- i,
-    Se’l __ dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
+    Se'l __ dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
     Pos -- sa~io dor -- mir,
     \ijLyrics
     Pos -- sa~io dor -- mir 
@@ -135,18 +135,18 @@ bassoXV = \relative c'' {
 
 bassoLyricsXV = \lyricmode {
     Il dol -- ce son -- no mi pro -- mi -- se pa -- ce,
-    Ma l’a -- ma -- ro veg -- giar mi tor -- na~in guer -- ra:
+    Ma l'a -- ma -- ro veg -- giar mi tor -- na~in guer -- ra:
     Il dol -- ce son -- no~è ben sta -- to fal -- la -- ce,
-    Ma l’a -- ma -- ro veg -- giar, ohi -- mè! non er -- ra.
-    Se’l vero an -- no -- ia~e~il fal -- so sì mi pia -- ce,
+    Ma l'a -- ma -- ro veg -- giar, ohi -- mè! non er -- ra.
+    Se'l vero an -- no -- ia~e~il fal -- so sì mi pia -- ce,
     Non o -- da~o veg -- ga mai più ve -- ro~in ter -- ra:
-    Se’l dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
+    Se'l dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
     Pos -- sa~io dor -- mir, 
     \ijLyrics
     Pos -- sa~io dor -- mir 
     \normalLyrics
         sen -- za de -- star -- mi ma -- i,
-    Se’l dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
+    Se'l dor -- mir mi __ dà gau -- dio, e~il veg -- giar gua -- i,
     Pos -- sa~io dor -- mir,
     Pos -- sa~io dor -- mir sen -- za de -- star -- mi ma -- i.
 }

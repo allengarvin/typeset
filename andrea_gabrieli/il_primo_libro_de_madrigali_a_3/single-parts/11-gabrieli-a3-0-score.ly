@@ -25,6 +25,7 @@
     shorttitle = "di_cio_cor_mio"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -77,11 +78,11 @@
         \fill-line {
             \column {
                 \line { Di ciò, cor mio, nessun timor vi tocchi; }
-                \line { ch’io vo’ seguirvi o in cielo o ne lo ’nferno. }
-                \line { Convien che l’uno e l’altro spirto scocchi, }
+                \line { ch'io vo' seguirvi o in cielo o ne lo 'nferno. }
+                \line { Convien che l'uno e l'altro spirto scocchi, }
                 \line { insieme vada, insieme stia in eterno. }
                 \line { Non sì tosto vedrò chiudervi gli occhi, }
-                \line { o che m’ucciderà il dolore interno, }
+                \line { o che m'ucciderà il dolore interno, }
                 \line { o se quel non può tanto, io vi prometto }
                 \line { con questa spada oggi passarmi il petto. }
             }

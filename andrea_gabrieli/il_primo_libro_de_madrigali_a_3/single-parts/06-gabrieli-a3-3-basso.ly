@@ -9,13 +9,13 @@
 
 \header {
     % Things that change per piece:
-    title = "Se tu m’occidi, è ben ragion che deggi"
+    title = "Se tu m'occidi, è ben ragion che deggi"
     subtitle = "Seconda stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXVI ottava 33 }
 
     % Things that change per part:
     partname = "Basso (part 3 of 3)"
-    instrument = "Se tu m’occidi (basso)"
+    instrument = "Se tu m'occidi (basso)"
 
     % Unchanging:
     originallyset = "2014-11-24"

@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Mentre ch’ella le piaghe va sciugando"
+    title = "Mentre ch'ella le piaghe va sciugando"
     subtitle = "Ultima stanza"
     folio = \markup { Luigi Tansillo, \italic{Il canzoniere}}
-    instrument = "Mentre ch’ella le piaghe (score)"
+    instrument = "Mentre ch'ella le piaghe (score)"
     needtranslation = #'t
     language = "italian"
 
@@ -23,6 +23,8 @@
     flats = 1
     final = "f"
     shorttitle = "mentre_ch_ella"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -75,14 +77,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Mentre ch’ella le piaghe va sciugando, }
-                \line { A quel de’ suoi begli occhi il pianto beve, }
-                \line { O caso troppo lagrimoso, quando }
-                \line { Il ferito Pastor pur morir deve, }
-                \line { Veggio la bella Ninfa andar mancando }
-                \line { E cader morta; per finir in breve: }
+                \line { Mentre ch'ella le piaghe va sciugando, }
+                \line { a quel de' suoi begli occhi il pianto beve, }
+                \line { o caso troppo lagrimoso, quando }
+                \line { il ferito Pastor pur morir deve, }
+                \line { veggio la bella Ninfa andar mancando }
+                \line { e cader morta; per finir in breve: }
                 \line { Rimasero ambidue morti in quel suolo, }
-                \line { Che l’una uccise il ferro, e l’altro il duolo.  }
+                \line { che l'una uccise il ferro, e l'altro il duolo.  }
             }
         }
     }

@@ -24,6 +24,8 @@
     final = "f"
     shorttitle = "ma_che_non_giova_aver"
     categories = "[madrigal]"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,13 +78,13 @@
         \fill-line {
             \column {
                 \line { Ma che non giova aver fedeli amanti, }
-                \line { E con essi partir ogni pensiero, }
-                \line { I desir, le paure, i risi, i pianti, }
-                \line { E l’ira e la speranza, e’l falso e’l vero; }
-                \line { Ed or con opre care or con sembianti  }
-                \line { Il grave della vita far leggiero; }
-                \line { E sè di rozze in atto e in pensier vili }
-                \line { Sovra l’uso mondan vaghe e gentili. }
+                \line { e con essi partir ogni pensiero, }
+                \line { i desir, le paure, i risi, i pianti, }
+                \line { e l'ira e la speranza, e'l falso e'l vero; }
+                \line { ed or con opre care or con sembianti  }
+                \line { il grave della vita far leggiero; }
+                \line { e sè di rozze in atto e in pensier vili }
+                \line { sovra l'uso mondan vaghe e gentili. }
             }
         }
     }

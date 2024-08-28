@@ -1,10 +1,10 @@
 % Ma i venti che portavano le vele
-% Per l’alto mar di quel giovene infido,
+% Per l'alto mar di quel giovene infido,
 % Portavano anco i prieghi e le querele
-% De l’infelice Olimpia, e ’l pianto e ’l grido;
+% De l'infelice Olimpia, e 'l pianto e 'l grido;
 % La qual tre volte, a se stessa crudele,
 % Per affogarsi si spiccò dal lido:
-% Pur al fin si levò da mirar l’acque,
+% Pur al fin si levò da mirar l'acque,
 % E ritornò dove la notte giacque.
 
 
@@ -42,15 +42,15 @@ cantoXX = \relative c'' {
 
 cantoLyricsXX = \lyricmode {
     Ma~i ven -- ti che por -- ta -- va -- no le ve -- le
-    Per l’al -- to mar di quel gio -- ve -- ne~in -- fi -- do,
+    Per l'al -- to mar di quel gio -- ve -- ne~in -- fi -- do,
     Por -- ta -- va -- no~an -- co~i prie -- ghi~e le que -- re -- le
-    De l’in -- fe -- li -- ce~O -- lim -- pia, e’l pian -- to e’l gri -- do;
+    De l'in -- fe -- li -- ce~O -- lim -- pia, e'l pian -- to e'l gri -- do;
     La qual tre vol -- te~a se __ stes -- sa cru -- de -- le,
     Per af -- fo -- gar -- si si spic -- cò dal __ li -- do:
-    Pur __ al fin si le -- vò da mi -- rar l’ac -- que,
+    Pur __ al fin si le -- vò da mi -- rar l'ac -- que,
     E ri -- tor -- nò
     E ri -- tor -- nò do -- ve la not -- te giac -- que,
-    Pur __ al fin si le -- vò da mi -- rar l’ac -- que,
+    Pur __ al fin si le -- vò da mi -- rar l'ac -- que,
     E ri -- tor -- nò
     E ri -- tor -- nò do -- ve la not -- te giac -- que.
 }
@@ -91,24 +91,24 @@ tenoreXX = \relative c'' {
 
 tenoreLyricsXX = \lyricmode {
     Ma~i ven -- ti che por -- ta -- va -- no le ve -- le
-    Per l’al -- to mar di quel gio -- ve -- ne~in -- fi -- do,
+    Per l'al -- to mar di quel gio -- ve -- ne~in -- fi -- do,
     Por -- ta -- va -- no~an -- co~i prie -- ghi~e le que -- re -- le
-    De l’in -- fe -- li -- ce~O -- lim -- pia, e’l pian -- to e’l gri -- do,
-        e’l gri -- do;
+    De l'in -- fe -- li -- ce~O -- lim -- pia, e'l pian -- to e'l gri -- do,
+        e'l gri -- do;
     La qual tre vol -- te~a se __ stes -- sa cru -- de -- le,
     Per af -- fo -- gar -- si 
     \ijLyrics
     Per af -- fo -- gar -- si 
     \normalLyrics
         si spic -- cò dal li -- do:
-    Pur __ al fin si le -- vò da mi -- rar l’ac -- que,
+    Pur __ al fin si le -- vò da mi -- rar l'ac -- que,
     E ri -- tor -- nò
     E ri -- tor -- nò
     \ijLyrics
     E ri -- tor -- nò 
     \normalLyrics 
         do -- ve la not -- te giac -- que,
-    Pur al fin si le -- vò da mi -- rar l’ac -- que,
+    Pur al fin si le -- vò da mi -- rar l'ac -- que,
     E ri -- tor -- nò
     E ri -- tor -- nò
     \ijLyrics
@@ -148,15 +148,15 @@ bassoXX = \relative c' {
 }
 
 bassoLyricsXX = \lyricmode {
-    Per l’al -- to mar di quel gio -- ve -- ne~in -- fi -- do,
-    De l’in -- fe -- li -- ce~O -- lim -- pia, e’l pian -- to e’l gri -- do,
+    Per l'al -- to mar di quel gio -- ve -- ne~in -- fi -- do,
+    De l'in -- fe -- li -- ce~O -- lim -- pia, e'l pian -- to e'l gri -- do,
     La qual tre vol -- te~a se __ stes -- sa cru -- de -- le,
     Per af -- fo -- gar -- si si spic -- cò,
         si spic -- cò dal li -- do:
-    Pur __ al fin si __ le -- vò da mi -- rar l’ac -- que,
+    Pur __ al fin si __ le -- vò da mi -- rar l'ac -- que,
     E ri -- tor -- nò
     E ri -- tor -- nò do -- ve la not -- te giac -- que,
-    Pur __ al fin si __ le -- vò da mi -- rar l’ac -- que,
+    Pur __ al fin si __ le -- vò da mi -- rar l'ac -- que,
     E ri -- tor -- nò
     E ri -- tor -- nò do -- ve la not -- te giac -- que.
 }

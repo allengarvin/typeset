@@ -1,11 +1,11 @@
-%   79  Ma poi che’l mio destino iniquo e duro
-%       Vol ch’io vi lasci, e non so in man di cui;
+%   79  Ma poi che'l mio destino iniquo e duro
+%       Vol ch'io vi lasci, e non so in man di cui;
 %       Per questa bocca e per questi occhi giuro,
 %       Per queste chiome onde allacciato fui,
 %       Che disperato nel profondo oscuro
-%       Vo de lo ’nferno, ove il pensar di vui
-%       Ch’abbia così lasciata, assai più ria
-%       Sarà d’ogn’altra pena che vi sia. –
+%       Vo de lo 'nferno, ove il pensar di vui
+%       Ch'abbia così lasciata, assai più ria
+%       Sarà d'ogn'altra pena che vi sia. –
 
 
 cantoIXincipit = \relative c' {
@@ -39,8 +39,8 @@ cantoIX = \relative c' {
 }
 
 cantoLyricsIX = \lyricmode {
-    Ma poi che’l mio de -- sti -- no~i -- ni -- quo~e du -- ro __
-    Vol ch’io vi la -- sci, e non so~in man di cu -- i;
+    Ma poi che'l mio de -- sti -- no~i -- ni -- quo~e du -- ro __
+    Vol ch'io vi la -- sci, e non so~in man di cu -- i;
     Per que -- sta boc -- ca e per que -- sti~oc -- chi giu -- ro,
     Per que -- ste chio -- me, 
     \ijLyrics
@@ -48,12 +48,12 @@ cantoLyricsIX = \lyricmode {
     \normalLyrics
         on -- de~al -- lac -- cia -- to fu -- i,
     Che di -- spe -- ra -- to nel pro -- fon -- do~o -- scu -- ro
-    Vo de l’in -- fer -- no, o -- ve~il pen -- sar di vu -- i
-    Ch’ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
-    Sa -- rà d’o -- gn’al -- tra pe -- na che vi si -- a,
+    Vo de l'in -- fer -- no, o -- ve~il pen -- sar di vu -- i
+    Ch'ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
+    Sa -- rà d'o -- gn'al -- tra pe -- na che vi si -- a,
         o -- ve~il pen -- sar di vu -- i
-    Ch’ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
-    Sa -- rà d’o -- gn’al -- tra pe -- na che __ vi si -- a. 
+    Ch'ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
+    Sa -- rà d'o -- gn'al -- tra pe -- na che __ vi si -- a. 
 }
 
 tenoreIXincipit = \relative c'' {
@@ -87,18 +87,18 @@ tenoreIX = \relative c'' {
 }
 
 tenoreLyricsIX = \lyricmode {
-    Ma poi che’l mio de -- sti -- no~i -- ni -- quo~e du -- ro 
-    Vol ch’io vi la -- sci, 
-    Vol ch’io vi la -- sci, e __ non so~in man di cu -- i;
+    Ma poi che'l mio de -- sti -- no~i -- ni -- quo~e du -- ro 
+    Vol ch'io vi la -- sci, 
+    Vol ch'io vi la -- sci, e __ non so~in man di cu -- i;
     Per que -- sta boc -- ca e per que -- sti~oc -- chi giu -- ro, __
     Per que -- ste chio -- me on -- de~al -- lac -- cia -- to fu -- i,
     Che di -- spe -- ra -- to nel pro -- fon -- do~o -- scu -- ro
-    Vo de l’in -- fer -- no, o -- ve~il pen -- sar di vu -- i
-    Ch’ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
-    Sa -- rà d’o -- gn’al -- tra pe -- na che __ vi si -- a,
+    Vo de l'in -- fer -- no, o -- ve~il pen -- sar di vu -- i
+    Ch'ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
+    Sa -- rà d'o -- gn'al -- tra pe -- na che __ vi si -- a,
         o -- ve~il pen -- sar di vu -- i
-    Ch’ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
-    Sa -- rà d’o -- gn’al -- tra pe -- na che vi si -- a. 
+    Ch'ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
+    Sa -- rà d'o -- gn'al -- tra pe -- na che vi si -- a. 
 }
 
 bassoIXincipit = \relative c' {
@@ -130,17 +130,17 @@ bassoIX = \relative c' {
 }
 
 bassoLyricsIX = \lyricmode {
-    Ma poi che’l mio de -- sti -- no~i -- ni -- quo~e du -- ro 
-    Vol ch’io vi la -- sci, e non so~in man di cu -- i;
+    Ma poi che'l mio de -- sti -- no~i -- ni -- quo~e du -- ro 
+    Vol ch'io vi la -- sci, e non so~in man di cu -- i;
     Per que -- sta boc -- ca e per que -- sti~oc -- chi giu -- ro,
     Per que -- ste chio -- me on -- de~al -- lac -- cia -- to fu -- i,
     Che di -- spe -- ra -- to nel pro -- fon -- do~o -- scu -- ro
-    Vo de l’in -- fer -- no, o -- ve~il pen -- sar di vu -- i
-    Ch’ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
-    Sa -- rà d’o -- gn’al -- tra pe -- na che vi si -- a,
+    Vo de l'in -- fer -- no, o -- ve~il pen -- sar di vu -- i
+    Ch'ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
+    Sa -- rà d'o -- gn'al -- tra pe -- na che vi si -- a,
         o -- ve~il pen -- sar di vu -- i
-    Ch’ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
-    Sa -- rà d’o -- gn’al -- tra pe -- na che vi si -- a. 
+    Ch'ab -- bia co -- sì la -- scia -- ta,~as -- sai più ri -- a
+    Sa -- rà d'o -- gn'al -- tra pe -- na che vi si -- a. 
 }
 
 cantoIXincipitVoice = <<

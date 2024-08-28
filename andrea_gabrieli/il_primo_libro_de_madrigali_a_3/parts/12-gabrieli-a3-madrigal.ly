@@ -5,7 +5,7 @@
 %       e se commandar posso, io vel commando,
 %       che fin che piaccia a Dio, restiate viva;
 %       né mai per caso pogniate in oblio
-%       che quanto amar si può v’abbia amato io.
+%       che quanto amar si può v'abbia amato io.
 
 cantoXIIincipit = \relative c'' {
     \time 2/2
@@ -55,10 +55,10 @@ cantoLyricsXII = \lyricmode {
         re -- stia -- te vi -- va,
     Né mai per ca -- so po -- gnia -- te~in o -- bli -- o
         po -- gnia -- te~in o -- bli -- o
-    Che quan -- to~a -- mar si può __ v’ab -- bia~a -- ma -- to~i -- o,
-        v’ab -- bia~a -- ma -- to~i -- o,
-    Che quan -- to~a -- mar si può v’ab -- bia~a -- ma -- to~i -- o,
-        v’ab -- bia~a -- ma -- to~i -- o.
+    Che quan -- to~a -- mar si può __ v'ab -- bia~a -- ma -- to~i -- o,
+        v'ab -- bia~a -- ma -- to~i -- o,
+    Che quan -- to~a -- mar si può v'ab -- bia~a -- ma -- to~i -- o,
+        v'ab -- bia~a -- ma -- to~i -- o.
 }
 
 tenoreXIIincipit = \relative c'' {
@@ -110,10 +110,10 @@ tenoreLyricsXII = \lyricmode {
         re -- stia -- te vi -- va,
     Né mai per ca -- so po -- gnia -- te~in o -- bli -- o
         po -- gnia -- te~in o -- bli -- o
-    Che quan -- to~a -- mar si può __ v’ab -- bia~a -- ma -- to~i -- o,
-    Che quan -- to~a -- mar si può __ v’ab -- bia~a -- ma -- to~i -- o,
-        v’ab -- bia~a -- ma -- to~i -- o,
-        v’ab -- bia~a -- ma -- to~i -- o.
+    Che quan -- to~a -- mar si può __ v'ab -- bia~a -- ma -- to~i -- o,
+    Che quan -- to~a -- mar si può __ v'ab -- bia~a -- ma -- to~i -- o,
+        v'ab -- bia~a -- ma -- to~i -- o,
+        v'ab -- bia~a -- ma -- to~i -- o.
 }
 
 bassoXIIincipit = \relative c' {
@@ -158,10 +158,10 @@ bassoLyricsXII = \lyricmode {
         re -- stia -- te vi -- va, __
         re -- stia -- te vi -- va,
     Né mai per ca -- so po -- gnia -- te~in o -- bli -- o
-    Che quan -- to~a -- mar si può __ v’ab -- bia~a -- ma -- to~i -- o, __
-    Che quan -- to~a -- mar si può v’ab -- bia~a -- ma -- to~i -- o,
+    Che quan -- to~a -- mar si può __ v'ab -- bia~a -- ma -- to~i -- o, __
+    Che quan -- to~a -- mar si può v'ab -- bia~a -- ma -- to~i -- o,
     \ijLyrics
-        v’ab -- bia~a -- ma -- to~i -- o.
+        v'ab -- bia~a -- ma -- to~i -- o.
     \normalLyrics
 }
 

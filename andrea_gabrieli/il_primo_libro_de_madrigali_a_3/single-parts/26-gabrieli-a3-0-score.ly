@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "ma_di_che_debbo"
     categories = "[madrigal,furioso]"
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -78,11 +79,11 @@
             \column {
                 \line { Ma di che debbo lamentarmi, ahi lassa, }
                 \line { fuor che del mio desire irrazionale? }
-                \line { ch’alto mi leva e sì ne l’aria passa, }
-                \line { ch’arriva in parte ove s’abbrucia l’ale; }
+                \line { ch'alto mi leva e sì ne l'aria passa, }
+                \line { ch'arriva in parte ove s'abbrucia l'ale; }
                 \line { poi non potendo sostener, mi lassa }
                 \line { dal ciel cader: né qui finisce il male; }
-                \line { che le rimette, e di nuovo arde: ond’io }
+                \line { che le rimette, e di nuovo arde: ond'io }
                 \line { non ho mai fine al precipizio mio. }
                 \line { \hspace #12 canto XXXII, ottava 21 }
             }

@@ -1,8 +1,8 @@
 %    Quanto esser vi dee caro un uom che brami
 %    Via più la vostra della propia gioia,
-%    Che’altro che’l nome vostro unqua non chiami,
+%    Che'altro che'l nome vostro unqua non chiami,
 %    Che sol pensando in voi tempri ogni noia,
-%    Che più che’l mondo in un vi tema ed ami,
+%    Che più che'l mondo in un vi tema ed ami,
 %    Che spesso in voi si viva in sé si moia,
 %    Che le vostre tranquille e pure luci 
 %    Del suo corso mortal segua per duci.
@@ -35,9 +35,9 @@ cantoXXIX = \relative c'' {
 cantoLyricsXXIX = \lyricmode {
     Quan -- to~es -- ser vi __ dee ca -- ro~un uom che bra -- mi
     Via più la vo -- stra del -- la pro -- pia gio -- ia,
-    Che’al -- tro che’l no -- me vo -- stro~un -- qua non chia -- mi,
+    Che'al -- tro che'l no -- me vo -- stro~un -- qua non chia -- mi,
     Che sol __ pen -- san -- do~in voi tem -- pri~o -- gni no -- ia,
-    Che più che’l mon -- do~in un vi te -- ma~ed a -- mi,
+    Che più che'l mon -- do~in un vi te -- ma~ed a -- mi,
     Che spes -- so~in voi si vi -- va~in sé si mo -- ia,
     Che le vo -- stre tran -- quil -- le~e pu -- re lu -- ci __
     Del suo cor -- so mor -- tal se -- gua per du -- ci,
@@ -82,13 +82,13 @@ tenoreLyricsXXIX = \lyricmode {
     Quan -- to~es -- ser vi __ dee ca -- ro~un uom che bra -- mi
     Via più la vo -- stra del -- la pro -- pia gio -- ia,
         che la pro -- pia gio -- ia,
-    Che’al -- tro che’l no -- me vo -- stro~un -- qua non chia -- mi,
+    Che'al -- tro che'l no -- me vo -- stro~un -- qua non chia -- mi,
     Che sol pen -- san -- do~in voi,
     \ijLyrics
     Che sol pen -- san -- do~in voi 
     \normalLyrics 
         tem -- pri~o -- gni no -- ia, __
-    Che più che’l mon -- do~in un vi te -- ma~ed a -- mi,
+    Che più che'l mon -- do~in un vi te -- ma~ed a -- mi,
     Che spes -- so~in voi si vi -- va~in sé si mo -- ia,
     Che le vo -- stre tran -- quil -- le~e pu -- re lu -- ci 
     Del suo cor -- so mor -- tal 
@@ -132,9 +132,9 @@ bassoLyricsXXIX = \lyricmode {
     Quan -- to~es -- ser vi __ dee ca -- ro~un uom che bra -- mi
     Via più la vo -- stra del -- la pro -- pia gio -- ia,
         del -- la pro -- pia gio -- ia,
-    Che’al -- tro che’l no -- me vo -- stro~un -- qua non chia -- mi,
+    Che'al -- tro che'l no -- me vo -- stro~un -- qua non chia -- mi,
     Che sol pen -- san -- do~in voi __ tem -- pri~o -- gni no -- ia,
-    Che più che’l mon -- do~in un vi te -- ma~ed a -- mi,
+    Che più che'l mon -- do~in un vi te -- ma~ed a -- mi,
     Che spes -- so~in voi si vi -- va~in sé si mo -- ia,
     Che __ le vo -- stre tran -- quil -- le~e pu -- re lu -- ci 
     Del suo cor -- so mor -- tal 

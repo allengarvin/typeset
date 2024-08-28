@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Se tu m’occidi, è ben ragion che deggi"
+    title = "Se tu m'occidi, è ben ragion che deggi"
     subtitle = "Seconda stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXVI ottava 33 }
-    instrument = "Se tu m’occidi (score)"
+    instrument = "Se tu m'occidi (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -25,6 +25,7 @@
     shorttitle = "se_tu_moccidi"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,14 +77,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Se tu m’occidi, è ben ragion che deggi }
+                \line { Se tu m'occidi, è ben ragion che deggi }
                 \line { darmi de la vendetta anco conforto; }
                 \line { che voglion tutti gli ordini e le leggi, }
                 \line { che chi dà morte altrui debba esser morto. }
-                \line { Né par ch’anco il tuo danno il mio pareggi; }
+                \line { Né par ch'anco il tuo danno il mio pareggi; }
                 \line { che tu mori a ragione, io moro a torto. }
-                \line { Farò morir chi brama, ohimè! ch’io muora; }
-                \line { ma tu, crudel, chi t’ama e chi t’adora. }
+                \line { Farò morir chi brama, ohimè! ch'io muora; }
+                \line { ma tu, crudel, chi t'ama e chi t'adora. }
             }
             \column {
                 \line { If thou slay'st me, there is good reason, I } 

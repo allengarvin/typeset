@@ -23,6 +23,8 @@
     flats = 0
     final = "e"
     shorttitle = "dunque_baciar"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
@@ -77,12 +79,12 @@
         \fill-line {
             \column {
                 \line { Dunque baciar sì belle e dolce labbia } 
-                \line { deve altra, se baciar non le poss’io? } 
-                \line { Ah non sia vero già ch’altra mai t’abbia; } 
-                \line { che d’altra esser non dei, se non sei mio. } 
+                \line { deve altra, se baciar non le poss'io? } 
+                \line { Ah non sia vero già ch'altra mai t'abbia; } 
+                \line { che d'altra esser non dei, se non sei mio. } 
                 \line { Più tosto che morir sola di rabbia, } 
                 \line { che meco di mia man mori, disio; } 
-                \line { che se ben qui ti perdo, almen l’inferno } 
+                \line { che se ben qui ti perdo, almen l'inferno } 
                 \line { poi mi ti renda, e stii meco in eterno. } 
             }
             \column {

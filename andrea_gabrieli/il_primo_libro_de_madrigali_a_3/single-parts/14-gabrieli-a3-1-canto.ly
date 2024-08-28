@@ -9,7 +9,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Sopra il sanguigno corpo s’abbandona"
+    title = "Sopra il sanguigno corpo s'abbandona"
     subtitle = "Ultima stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 86 }
 

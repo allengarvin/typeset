@@ -1,11 +1,11 @@
 % Oh infelice! oh misero! che voglio
-% se non morir, se ’l mio bel fior colto hanno?
+% se non morir, se 'l mio bel fior colto hanno?
 % O sommo Dio, fammi sentir cordoglio
-% prima d’ogn’altro, che di questo danno.
+% prima d'ogn'altro, che di questo danno.
 % Se questo è ver, con le mie man mi toglio
-% la vita, e l’alma disperata danno. –
+% la vita, e l'alma disperata danno. –
 % Così, piangendo forte e sospirando,
-% seco dicea l’addolorato Orlando.
+% seco dicea l'addolorato Orlando.
 
 cantoXVIIIincipit = \relative c'' {
     \time 2/2
@@ -44,32 +44,32 @@ cantoLyricsXVIII = \lyricmode {
     \ijLyrics
     Se non mo -- rir, 
     \normalLyrics
-    Se non mo -- rir, se’l mio bel fior col -- to~han -- no?
+    Se non mo -- rir, se'l mio bel fior col -- to~han -- no?
     O __ som -- mo Di -- o, 
     \ijLyrics
     O som -- mo Di -- o, 
     \normalLyrics
         fam -- mi sen -- tir cor -- do -- glio,
         fam -- mi sen -- tir cor -- do -- glio
-    Pri -- ma d’o -- gn’al -- tro, che di que -- sto dan -- no.
+    Pri -- ma d'o -- gn'al -- tro, che di que -- sto dan -- no.
     Se que -- sto~è ver, 
     \ijLyrics
     Se que -- sto~è ver, 
     \normalLyrics
         con le mie man __ mi to -- glio
-    La vi -- ta~e l’al -- ma di -- spe -- ra -- ta dan -- no.
+    La vi -- ta~e l'al -- ma di -- spe -- ra -- ta dan -- no.
     Co -- sì, pian -- gen -- do for -- te~e so -- spi -- ran -- do,
     Se -- co di -- cea 
     \ijLyrics
     Se -- co di -- cea 
     \normalLyrics
-    Se -- co di -- cea l’ad -- do -- lo -- ra -- to~Or -- lan -- do,
+    Se -- co di -- cea l'ad -- do -- lo -- ra -- to~Or -- lan -- do,
 
     Se -- co di -- cea 
     \ijLyrics
     Se -- co di -- cea 
     \normalLyrics
-    Se -- co di -- cea l’ad -- do -- lo -- ra -- to~Or -- lan -- do,
+    Se -- co di -- cea l'ad -- do -- lo -- ra -- to~Or -- lan -- do,
 }
 
 tenoreXVIIIincipit = \relative c' {
@@ -111,9 +111,9 @@ tenoreLyricsXVIII = \lyricmode {
     \ijLyrics
     Se non mo -- rir, 
     \normalLyrics
-        se’l mio bel fior 
+        se'l mio bel fior 
         \ijLyrics
-        se’l mio bel fior 
+        se'l mio bel fior 
         \normalLyrics
             col -- to~han -- no?
     O __ som -- mo Di -- o, 
@@ -124,26 +124,26 @@ tenoreLyricsXVIII = \lyricmode {
             cor -- do -- glio,
         fam -- mi sen -- tir cor -- do -- glio,
             cor -- do -- glio,
-    Pri -- ma d’o -- gn’al -- tro, che di que -- sto dan -- no.
+    Pri -- ma d'o -- gn'al -- tro, che di que -- sto dan -- no.
     Se que -- sto~è ver, 
     \ijLyrics
     Se que -- sto~è ver, 
     \normalLyrics
     Se que -- sto~è ver, 
         con le mie man __ mi to -- glio
-    La vi -- ta~e l’al -- ma di -- spe -- ra -- ta dan -- no.
+    La vi -- ta~e l'al -- ma di -- spe -- ra -- ta dan -- no.
     Co -- sì, __ pian -- gen -- do for -- te~e so -- spi -- ran -- do,
     Se -- co di -- cea 
     \ijLyrics
     Se -- co di -- cea 
     \normalLyrics
-        l’ad -- do -- lo -- ra -- to~Or -- lan -- do,
+        l'ad -- do -- lo -- ra -- to~Or -- lan -- do,
 
     Se -- co di -- cea 
     \ijLyrics
     Se -- co di -- cea 
     \normalLyrics
-        l’ad -- do -- lo -- ra -- to~Or -- lan -- do,
+        l'ad -- do -- lo -- ra -- to~Or -- lan -- do,
 }
 
 bassoXVIIIincipit = \relative c' {
@@ -185,32 +185,32 @@ bassoLyricsXVIII = \lyricmode {
     \ijLyrics
     Se non mo -- rir, 
     \normalLyrics
-    Se non mo -- rir, se’l mio bel fior col -- to~han -- no? __
+    Se non mo -- rir, se'l mio bel fior col -- to~han -- no? __
     O som -- mo Di -- o, 
     \ijLyrics
     O som -- mo Di -- o, 
     \normalLyrics
         fam -- mi sen -- tir cor -- do -- glio, __
         fam -- mi sen -- tir cor -- do -- glio __
-    Pri -- ma d’o -- gn’al -- tro, che di que -- sto dan -- no.
+    Pri -- ma d'o -- gn'al -- tro, che di que -- sto dan -- no.
     Se que -- sto~è ver, 
     \ijLyrics
     Se que -- sto~è ver, 
     \normalLyrics
         con le mie man __ mi to -- glio
-    La vi -- ta~e l’al -- ma di -- spe -- ra -- ta dan -- no.
+    La vi -- ta~e l'al -- ma di -- spe -- ra -- ta dan -- no.
     Co -- sì, __ pian -- gen -- do for -- te~e so -- spi -- ran -- do,
     Se -- co di -- cea 
     \ijLyrics
     Se -- co di -- cea 
     \normalLyrics
-        l’ad -- do -- lo -- ra -- to~Or -- lan -- do,
+        l'ad -- do -- lo -- ra -- to~Or -- lan -- do,
 
     Se -- co di -- cea 
     \ijLyrics
     Se -- co di -- cea 
     \normalLyrics
-        l’ad -- do -- lo -- ra -- to~Or -- lan -- do,
+        l'ad -- do -- lo -- ra -- to~Or -- lan -- do,
 }
 
 cantoXVIIIincipitVoice = <<

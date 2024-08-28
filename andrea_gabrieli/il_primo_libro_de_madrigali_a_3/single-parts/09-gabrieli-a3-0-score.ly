@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Ma poi che’l mio destino iniquo e duro"
+    title = "Ma poi che'l mio destino iniquo e duro"
     subtitle = "Terza stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 79 }
-    instrument = "Ma poi che’l mio destino (score)"
+    instrument = "Ma poi che'l mio destino (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -25,6 +25,7 @@
     shorttitle = "ma_poi_chel_mio_destino"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,14 +77,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ma poi che’l mio destino iniquo e duro }
-                \line { Vol ch’io vi lasci, e non so in man di cui; }
+                \line { Ma poi che'l mio destino iniquo e duro }
+                \line { Vol ch'io vi lasci, e non so in man di cui; }
                 \line { Per questa bocca e per questi occhi giuro, }
                 \line { Per queste chiome onde allacciato fui, }
                 \line { Che disperato nel profondo oscuro }
-                \line { Vo de l’inferno, ove il pensar di vui }
-                \line { Ch’abbia così lasciata, assai più ria }
-                \line { Sarà d’ogn’altra pena che vi sia. }
+                \line { Vo de l'inferno, ove il pensar di vui }
+                \line { Ch'abbia così lasciata, assai più ria }
+                \line { Sarà d'ogn'altra pena che vi sia. }
             }
             \column {
                 \line { But since to abandon thee, to whom a prize }

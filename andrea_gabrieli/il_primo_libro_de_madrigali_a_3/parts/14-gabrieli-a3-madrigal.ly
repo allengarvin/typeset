@@ -1,11 +1,11 @@
-%   86  Sopra il sanguigno corpo s’abbandona,
+%   86  Sopra il sanguigno corpo s'abbandona,
 %       e di copiose lacrime lo bagna;
-%       e stride sì, ch’intorno ne risuona
+%       e stride sì, ch'intorno ne risuona
 %       a molte miglia il bosco e la campagna.
 %       Né alle guancie né al petto si perdona,
-%       che l’uno e l’altro non percuota e fragna;
-%       e straccia a torto l’auree crespe chiome,
-%       chiamando sempre invan l’amato nome.
+%       che l'uno e l'altro non percuota e fragna;
+%       e straccia a torto l'auree crespe chiome,
+%       chiamando sempre invan l'amato nome.
 
 cantoXIVincipit = \relative c'' {
     \time 2/2
@@ -42,37 +42,37 @@ cantoXIV = \relative c'' {
 }
 
 cantoLyricsXIV = \lyricmode {
-    So -- pra~il san -- gui -- gno cor -- po s’ab -- ban -- do -- na,
+    So -- pra~il san -- gui -- gno cor -- po s'ab -- ban -- do -- na,
     E di co -- pio -- se la -- cri -- me lo ba -- gna;
-    E stri -- de sì, ch’in -- tor -- no ne ri -- suo -- na
+    E stri -- de sì, ch'in -- tor -- no ne ri -- suo -- na
     \ijLyrics
-        ch’in -- tor -- no ne ri -- suo -- na
+        ch'in -- tor -- no ne ri -- suo -- na
     \normalLyrics
     A mol -- te mi -- glia~il bo -- sco~e la __ cam -- pa -- gna.
     Né~al -- le guan -- cie né~al pet -- to si per -- do -- na,
         né~al pet -- to si per -- do -- na,
-    Che l’u -- no~e l’al -- tro 
+    Che l'u -- no~e l'al -- tro 
     \ijLyrics
-    Che l’u -- no~e l’al -- tro 
+    Che l'u -- no~e l'al -- tro 
     \normalLyrics
         non per -- cuo -- ta~e fra -- gna,
     \ijLyrics
         non per -- cuo -- ta~e fra -- gna,
     \normalLyrics
-    E strac -- cia~a tor -- to l’au -- ree cre -- spe chio -- me,
+    E strac -- cia~a tor -- to l'au -- ree cre -- spe chio -- me,
     Chia -- man -- do sem -- pre~in -- van 
     \ijLyrics
     Chia -- man -- do sem -- pre~in -- van 
     \normalLyrics
-        l’a -- ma -- to,
-        l’a -- ma -- to no -- me,
-    E strac -- cia~a tor -- to l’au -- ree cre -- spe chio -- me,
+        l'a -- ma -- to,
+        l'a -- ma -- to no -- me,
+    E strac -- cia~a tor -- to l'au -- ree cre -- spe chio -- me,
     Chia -- man -- do sem -- pre~in -- van 
     \ijLyrics
     Chia -- man -- do sem -- pre~in -- van 
     \normalLyrics
-    Chia -- man -- do sem -- pre~in -- van l’a -- ma -- to no -- me,
-        l’a -- ma -- to no -- me.
+    Chia -- man -- do sem -- pre~in -- van l'a -- ma -- to no -- me,
+        l'a -- ma -- to no -- me.
 }
 
 tenoreXIVincipit = \relative c'' {
@@ -111,34 +111,34 @@ tenoreXIV = \relative c'' {
 }
 
 tenoreLyricsXIV = \lyricmode {
-    So -- pra~il san -- gui -- gno cor -- po s’ab -- ban -- do -- na,
+    So -- pra~il san -- gui -- gno cor -- po s'ab -- ban -- do -- na,
     E di co -- pio -- se la -- cri -- me lo ba -- gna,
             lo ba -- gna;
-    E stri -- de sì, ch’in -- tor -- no ne ri -- suo -- na
+    E stri -- de sì, ch'in -- tor -- no ne ri -- suo -- na
     \ijLyrics
-        ch’in -- tor -- no ne ri -- suo -- na
+        ch'in -- tor -- no ne ri -- suo -- na
     \normalLyrics
     A mol -- te mi -- glia~il bo -- sco~e la __ cam -- pa -- gna.
     Né~al -- le guan -- cie né~al pet -- to si per -- do -- na,
         né~al pet -- to si per -- do -- na,
         né~al pet -- to si per -- do -- na,
-    Che l’u -- no~e l’al -- tro 
+    Che l'u -- no~e l'al -- tro 
     \ijLyrics
-    Che l’u -- no~e l’al -- tro 
+    Che l'u -- no~e l'al -- tro 
     \normalLyrics
         non per -- cuo -- ta~e fra -- gna,
-    Che l’u -- no~e l’al -- tro non per -- cuo -- ta~e fra -- gna,
-    E strac -- cia~a tor -- to l’au -- ree cre -- spe chio -- me,
+    Che l'u -- no~e l'al -- tro non per -- cuo -- ta~e fra -- gna,
+    E strac -- cia~a tor -- to l'au -- ree cre -- spe chio -- me,
     Chia -- man -- do sem -- pre~in -- van 
     \ijLyrics
     Chia -- man -- do sem -- pre~in -- van 
     \normalLyrics
-    Chia -- man -- do sem -- pre~in -- van l’a -- ma -- to no -- me,
-    E strac -- cia~a tor -- to l’au -- ree cre -- spe chio -- me,
+    Chia -- man -- do sem -- pre~in -- van l'a -- ma -- to no -- me,
+    E strac -- cia~a tor -- to l'au -- ree cre -- spe chio -- me,
     Chia -- man -- do sem -- pre~in -- van 
-    Chia -- man -- do sem -- pre~in -- van l’a -- ma -- to,
-        l’a -- ma -- to no -- me,
-        l’a -- ma -- to no -- me.
+    Chia -- man -- do sem -- pre~in -- van l'a -- ma -- to,
+        l'a -- ma -- to no -- me,
+        l'a -- ma -- to no -- me.
 }
 
 bassoXIVincipit = \relative c' {
@@ -175,29 +175,29 @@ bassoXIV = \relative c' {
 }
 
 bassoLyricsXIV = \lyricmode {
-    So -- pra~il san -- gui -- gno cor -- po s’ab -- ban -- do -- na,
+    So -- pra~il san -- gui -- gno cor -- po s'ab -- ban -- do -- na,
     E di co -- pio -- se la -- cri -- me lo ba -- gna;
-    E stri -- de sì, ch’in -- tor -- no ne ri -- suo -- na
+    E stri -- de sì, ch'in -- tor -- no ne ri -- suo -- na
     A mol -- te mi -- glia~il bo -- sco~e la __ cam -- pa -- gna.
     Né~al -- le guan -- cie né~al pet -- to si per -- do -- na,
         né~al pet -- to si per -- do -- na,
-    Che l’u -- no~e l’al -- tro non per -- cuo -- ta~e fra -- gna,
+    Che l'u -- no~e l'al -- tro non per -- cuo -- ta~e fra -- gna,
     \ijLyrics
-    Che l’u -- no~e l’al -- tro non __ per -- cuo -- ta~e fra -- gna,
+    Che l'u -- no~e l'al -- tro non __ per -- cuo -- ta~e fra -- gna,
     \normalLyrics
-    E strac -- cia~a tor -- to l’au -- ree cre -- spe chio -- me,
-    Chia -- man -- do sem -- pre~in -- van 
-    \ijLyrics
-    Chia -- man -- do sem -- pre~in -- van 
-    \normalLyrics
-    Chia -- man -- do sem -- pre~in -- van l’a -- ma -- to no -- me,
-    E strac -- cia~a tor -- to l’au -- ree cre -- spe chio -- me,
+    E strac -- cia~a tor -- to l'au -- ree cre -- spe chio -- me,
     Chia -- man -- do sem -- pre~in -- van 
     \ijLyrics
     Chia -- man -- do sem -- pre~in -- van 
     \normalLyrics
-    Chia -- man -- do sem -- pre~in -- van l’a -- ma -- to no -- me,
-        l’a -- ma -- to no -- me.
+    Chia -- man -- do sem -- pre~in -- van l'a -- ma -- to no -- me,
+    E strac -- cia~a tor -- to l'au -- ree cre -- spe chio -- me,
+    Chia -- man -- do sem -- pre~in -- van 
+    \ijLyrics
+    Chia -- man -- do sem -- pre~in -- van 
+    \normalLyrics
+    Chia -- man -- do sem -- pre~in -- van l'a -- ma -- to no -- me,
+        l'a -- ma -- to no -- me.
 }
 
 cantoXIVincipitVoice = <<

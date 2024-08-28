@@ -25,6 +25,7 @@
     shorttitle = "deh_dove_senza_me"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -79,11 +80,11 @@
                 \line { Deh, dove senza me, dolce mia vita, } 
                 \line { Rimasa sei sì giovane e sì bella? } 
                 \line { Come, poi che la luce è dipartita, } 
-                \line { Riman tra’ boschi la smarrita agnella, } 
+                \line { Riman tra' boschi la smarrita agnella, } 
                 \line { Che dal pastor sperando essere udita, } 
                 \line { Si va lagnando in questa parte e in quella; } 
-                \line { Tanto che’l lupo l’ode da lontano, } 
-                \line { E’l misero pastor la piagne invano. } 
+                \line { Tanto che'l lupo l'ode da lontano, } 
+                \line { E'l misero pastor la piagne invano. } 
                 \line { \hspace #12 canto VIII, ottava 76 }
             }
             \column {

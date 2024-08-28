@@ -35,9 +35,9 @@ cantoLyricsI = \lyricmode {
     In un bos -- co di quer -- cie~om -- bro -- so~e spes -- so,
     O -- ve gia -- cea~un pa -- stor fe -- ri -- to~a mor -- te,
         fe -- ri -- to~a mor -- te,
-    Che la sua nin -- fa~in sen se l’ha -- vea mes -- so.
+    Che la sua nin -- fa~in sen se l'ha -- vea mes -- so.
     La gio -- va -- ne gen -- til pian -- gea si for -- te
-    So -- pra~il suo~a -- man -- te, che l’a -- man -- te~i -- stes -- so,
+    So -- pra~il suo~a -- man -- te, che l'a -- man -- te~i -- stes -- so,
     An -- cor,
     An -- cor che la sua pia -- ga~e -- ra mor -- ta -- le,
     Pian -- gea~il pian -- to di lei, più che~il suo ma -- le,
@@ -80,9 +80,9 @@ tenoreLyricsI = \lyricmode {
         mi gui -- do la sor -- te,
     In un bos -- co di quer -- cie~om -- bro -- so~e spes -- so,
     O -- ve gia -- cea~un pa -- stor fe -- ri -- to~a mor -- te,
-    Che la sua nin -- fa~in sen __ se l’ha -- vea mes -- so.
+    Che la sua nin -- fa~in sen __ se l'ha -- vea mes -- so.
     La gio -- va -- ne gen -- til pian -- gea si for -- te
-    So -- pra~il suo~a -- man -- te, che l’a -- man -- te~i -- stes -- so,
+    So -- pra~il suo~a -- man -- te, che l'a -- man -- te~i -- stes -- so,
     An -- cor che la sua pia -- ga~e -- ra mor -- ta -- le,
     Pian -- gea~il pian -- to __ di lei, __ più che~il suo ma -- le,
     An -- cor,
@@ -123,10 +123,10 @@ bassoLyricsI = \lyricmode {
     In un bos -- co di quer -- cie~om -- bro -- so~e spes -- so,
     O -- ve gia -- cea~un pa -- stor fe -- ri -- to~a mor -- te,
         fe -- ri -- to~a mor -- te,
-    Che la sua nin -- fa~in sen se l’ha -- vea mes -- so.
+    Che la sua nin -- fa~in sen se l'ha -- vea mes -- so.
     La gio -- va -- ne gen -- til,
     La gio -- va -- ne gen -- til pian -- gea __ si for -- te
-    So -- pra~il suo~a -- man -- te, che l’a -- man -- te~i -- stes -- so,
+    So -- pra~il suo~a -- man -- te, che l'a -- man -- te~i -- stes -- so,
     An -- cor che la sua pia -- ga~e -- ra mor -- ta -- le,
     Pian -- gea~il pian -- to di lei, più che~il suo ma -- le,
     An -- cor che la sua pia -- ga~e -- ra mor -- ta -- le,

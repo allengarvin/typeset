@@ -25,6 +25,7 @@
     shorttitle = "e_dove_none_potea"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -77,13 +78,13 @@
         \fill-line {
             \column {
                 \line { E dove non potea la debil voce, }
-                \line { Supliva il pianto e ’l batter palma a palma.  }
+                \line { supliva il pianto e 'l batter palma a palma.  }
                 \line { Dove fuggi, crudel, così veloce? }
                 \line { Non ha il tuo legno la debita salma.  }
                 \line { Fa che lievi me ancor: poco gli nuoce }
-                \line { Che porti il corpo, poi che porta l’alma. }
+                \line { che porti il corpo, poi che porta l'alma. }
                 \line { E con le braccia e con le vesti segno }
-                \line { Fa tuttavia, perché ritorni il legno.  }
+                \line { fa tuttavia, perché ritorni il legno.  }
                 \line { \hspace #12 canto X, ottava 25 }
             }
             \column {

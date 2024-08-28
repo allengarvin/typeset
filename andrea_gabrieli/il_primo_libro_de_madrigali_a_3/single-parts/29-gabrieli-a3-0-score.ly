@@ -24,6 +24,8 @@
     final = "c"
     shorttitle = "quanto_esser"
     categories = "[madrigal]"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,13 +78,13 @@
         \fill-line {
             \column {
                 \line { Quanto esser vi dee caro un uom che brami }
-                \line { Via più la vostra della propia gioia, }
-                \line { Che’altro che’l nome vostro unqua non chiami, }
-                \line { Che sol pensando in voi tempri ogni noia, }
-                \line { Che più che’l mondo in un vi tema ed ami, }
-                \line { Che spesso in voi si viva in sé si moia, }
-                \line { Che le vostre tranquille e pure luci  }
-                \line { Del suo corso mortal segua per duci. }
+                \line { via più la vostra della propia gioia, }
+                \line { che'altro che'l nome vostro unqua non chiami, }
+                \line { che sol pensando in voi tempri ogni noia, }
+                \line { che più che'l mondo in un vi tema ed ami, }
+                \line { che spesso in voi si viva in sé si moia, }
+                \line { che le vostre tranquille e pure luci  }
+                \line { del suo corso mortal segua per duci. }
 
             }
         }

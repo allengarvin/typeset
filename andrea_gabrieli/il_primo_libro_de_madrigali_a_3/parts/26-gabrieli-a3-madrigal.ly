@@ -1,10 +1,10 @@
 %  21  Ma di che debbo lamentarmi, ahi lassa,
 %       fuor che del mio desire irrazionale?
-%       ch’alto mi leva e sì ne l’aria passa,
-%       ch’arriva in parte ove s’abbrucia l’ale;
+%       ch'alto mi leva e sì ne l'aria passa,
+%       ch'arriva in parte ove s'abbrucia l'ale;
 %       poi non potendo sostener, mi lassa
 %       dal ciel cader: né qui finisce il male;
-%       che le rimette, e di nuovo arde: ond’io
+%       che le rimette, e di nuovo arde: ond'io
 %       non ho mai fine al precipizio mio.
 
 cantoXXVIincipit = \relative c'' {
@@ -42,9 +42,9 @@ cantoXXVI = \relative c'' {
 cantoLyricsXXVI = \lyricmode {
     Ma di che deb -- bo la -- men -- tar -- mi,~ahi las -- sa,
     Fuor che del mio de -- si -- re~ir -- ra -- zio -- na -- le?
-    Ch’al -- to mi le -- va~e sì ne l’a -- ria pas -- sa,
-    Ch’ar -- ri -- va~in par -- te,
-    Ch’ar -- ri -- va~in par -- te~o -- ve s’ab -- bru -- cia l’a -- le;
+    Ch'al -- to mi le -- va~e sì ne l'a -- ria pas -- sa,
+    Ch'ar -- ri -- va~in par -- te,
+    Ch'ar -- ri -- va~in par -- te~o -- ve s'ab -- bru -- cia l'a -- le;
     Poi non po -- ten -- do so -- ste -- ner, mi las -- sa
     Dal ciel ca -- der,
     \ijLyrics
@@ -52,8 +52,8 @@ cantoLyricsXXVI = \lyricmode {
     \normalLyrics
         né qui fi -- ni -- sce~il ma -- le;
     Che le ri -- met -- te, e __ di nuo -- vo~ar -- de,
-        e di nuo -- vo~ar -- de: on -- d’i -- o
-        on -- d’i -- o
+        e di nuo -- vo~ar -- de: on -- d'i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o,
     Non ho mai fi -- ne
     \ijLyrics
@@ -94,14 +94,14 @@ tenoreXXVI = \relative c' {
 tenoreLyricsXXVI = \lyricmode {
     Ma di che deb -- bo la -- men -- tar -- mi,~ahi las -- sa,
     Fuor che del mio de -- si -- re~ir -- ra -- zio -- na -- le?
-    Ch’al -- to mi le -- va~e sì ne l’a -- ria pas -- sa,
-    Ch’ar -- ri -- va~in par -- te,
-    Ch’ar -- ri -- va~in par -- te~o -- ve s’ab -- bru -- cia l’a -- le;
+    Ch'al -- to mi le -- va~e sì ne l'a -- ria pas -- sa,
+    Ch'ar -- ri -- va~in par -- te,
+    Ch'ar -- ri -- va~in par -- te~o -- ve s'ab -- bru -- cia l'a -- le;
     Poi non po -- ten -- do so -- ste -- ner, mi __ las -- sa
     Dal ciel ca -- der:  né qui fi -- ni -- sce~il ma -- le;
     Che le ri -- met -- te, e di nuo -- vo~ar -- de,
-        e di nuo -- vo~ar -- de: on -- d’i -- o
-        on -- d’i -- o
+        e di nuo -- vo~ar -- de: on -- d'i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o,
     Non ho mai fi -- ne,
     Non ho mai fi -- ne,
@@ -145,9 +145,9 @@ bassoXXVI = \relative c {
 bassoLyricsXXVI = \lyricmode {
     Ma di che deb -- bo la -- men -- tar -- mi,~ahi las -- sa,
     Fuor che del mio de -- si -- re~ir -- ra -- zio -- na -- le?
-    Ch’al -- to mi le -- va~e sì ne l’a -- ria pas -- sa,
-    Ch’ar -- ri -- va~in par -- te,
-    Ch’ar -- ri -- va~in par -- te~o -- ve s’ab -- bru -- cia l’a -- le;
+    Ch'al -- to mi le -- va~e sì ne l'a -- ria pas -- sa,
+    Ch'ar -- ri -- va~in par -- te,
+    Ch'ar -- ri -- va~in par -- te~o -- ve s'ab -- bru -- cia l'a -- le;
     Poi non po -- ten -- do so -- ste -- ner, mi las -- sa
     Dal ciel ca -- der,
     \ijLyrics
@@ -155,8 +155,8 @@ bassoLyricsXXVI = \lyricmode {
     \normalLyrics
         né qui fi -- ni -- sce~il ma -- le;
     Che le ri -- met -- te, e di nuo -- vo~ar -- de,
-        e di nuo -- vo~ar -- de: on -- d’i -- o
-        on -- d’i -- o
+        e di nuo -- vo~ar -- de: on -- d'i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o,
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o,
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o.

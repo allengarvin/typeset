@@ -1,11 +1,11 @@
 %    Ma che non giova aver fedeli amanti,
 %    E con essi partir ogni pensiero,
 %    I desir, le paure, i risi, i pianti,
-%    E l’ira e la speranza, e’l falso e’l vero;
+%    E l'ira e la speranza, e'l falso e'l vero;
 %    Ed or con opre care or con sembianti
 %    Il grave della vita far leggiero;
 %    E sè di rozze in atto e in pensier vili
-%    Sovra l’uso mondan vaghe e gentili.
+%    Sovra l'uso mondan vaghe e gentili.
 cantoXXVIIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c2"
@@ -39,12 +39,12 @@ cantoLyricsXXVIII = \lyricmode {
     E con es -- si par -- tir o -- gni pen -- sie -- ro,
         o -- gni pen -- sie -- ro,
     I __ de -- sir, le pa -- u -- re, i ri -- si, i pian -- ti,
-    E l’i -- ra e la spe -- ran -- za, e’l fal -- so e’l ve -- ro;
+    E l'i -- ra e la spe -- ran -- za, e'l fal -- so e'l ve -- ro;
     Ed or con o -- pre ca -- re~or con sem -- bian -- ti
     Il gra -- ve del -- la vi -- ta far __ leg -- gie -- ro;
     E sè di roz -- ze~in at -- to~e~in pen -- sier vi -- li
-    So -- vra l’u -- so mon -- dan va -- ghe~e gen -- ti -- li,
-    So -- vra l’u -- so mon -- dan va -- ghe~e gen -- ti -- li.
+    So -- vra l'u -- so mon -- dan va -- ghe~e gen -- ti -- li,
+    So -- vra l'u -- so mon -- dan va -- ghe~e gen -- ti -- li.
 }
 
 tenoreXXVIIIincipit = \relative c' {
@@ -86,12 +86,12 @@ tenoreLyricsXXVIII = \lyricmode {
         fe -- de -- li~a -- man -- ti,
     E __ con es -- si par -- tir o -- gni pen -- sie -- ro,
     I de -- sir, le pa -- u -- re, i ri -- si, i pian -- ti,
-    E l’i -- ra e la spe -- ran -- za, e’l fal -- so e’l ve -- ro;
+    E l'i -- ra e la spe -- ran -- za, e'l fal -- so e'l ve -- ro;
     Ed or con o -- pre ca -- re~or con sem -- bian -- ti
     Il gra -- ve del -- la vi -- ta far __ leg -- gie -- ro;
     E sè di roz -- ze~in at -- to~e~in pen -- sier vi -- li
-    So -- vra l’u -- so mon -- dan va -- ghe~e gen -- ti -- li,
-    So -- vra l’u -- so mon -- dan __ va -- ghe~e gen -- ti -- li.
+    So -- vra l'u -- so mon -- dan va -- ghe~e gen -- ti -- li,
+    So -- vra l'u -- so mon -- dan __ va -- ghe~e gen -- ti -- li.
 }
 
 bassoXXVIIIincipit = \relative c {
@@ -126,11 +126,11 @@ bassoLyricsXXVIII = \lyricmode {
         o -- gni pen -- sie -- ro,
         o -- gni pen -- sie -- ro,
     I __ de -- sir, le pa -- u -- re, i ri -- si, i pian -- ti,
-    E l’i -- ra e la spe -- ran -- za, e’l fal -- so e’l ve -- ro; __
+    E l'i -- ra e la spe -- ran -- za, e'l fal -- so e'l ve -- ro; __
     Il gra -- ve del -- la vi -- ta far __ leg -- gie -- ro;
     E sè di roz -- ze~in at -- to~e~in pen -- sier vi -- li
-    So -- vra l’u -- so mon -- dan va -- ghe~e gen -- ti -- li,
-    So -- vra l’u -- so mon -- dan va -- ghe~e gen -- ti -- li.
+    So -- vra l'u -- so mon -- dan va -- ghe~e gen -- ti -- li,
+    So -- vra l'u -- so mon -- dan va -- ghe~e gen -- ti -- li.
 }
 
 cantoXXVIIIincipitVoice = <<

@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Vaga d’udir, come ogni donna suole"
+    title = "Vaga d'udir, come ogni donna suole"
     subtitle = "Seconda stanza"
     folio = \markup { Luigi Tansillo, \italic{Il canzoniere}}
-    instrument = "Vaga d’udir (score)"
+    instrument = "Vaga d'udir (score)"
     needtranslation = #'t
     language = "italian"
 
@@ -23,6 +23,8 @@
     flats = 1
     final = "c"
     shorttitle = "vaga_d_udir"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -75,14 +77,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Vaga d’udir, come ogni donna suole,  }
-                \line { E per veder che fine avea la cosa,  }
-                \line { In un cespuglio, ove appena entra il sole,  }
-                \line { Dagli occhi d’ambedue ne stetti ascosa.  }
+                \line { Vaga d'udir, come ogni donna suole,  }
+                \line { e per veder che fine avea la cosa,  }
+                \line { in un cespuglio, ove appena entra il sole,  }
+                \line { dagli occhi d'ambedue ne stetti ascosa.  }
                 \line { Il Pastor nel formar delle parole,  }
-                \line { E’l pianto de la Ninfa dolorosa }
-                \line { Parea che intorno l’aria e le contrade }
-                \line { Facesser lacrimar per la pietade. }
+                \line { e'l pianto de la Ninfa dolorosa }
+                \line { parea che intorno l'aria e le contrade }
+                \line { facesser lacrimar per la pietade. }
             }
         }
     }

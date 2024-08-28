@@ -25,6 +25,7 @@
     shorttitle = "cosi_cor_mio"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -77,13 +78,13 @@
         \fill-line {
             \column {
                 \line { Così, cor mio, vogliate, le diceva }
-                \line { Dopo ch’io sarò morto, amarmi ancora, }
-                \line { Come solo il lasciarvi è che m’aggreva }
-                \line { Qui senza guida, e non già perch’io mora: }
-                \line { Che se in sicura parte m’accadeva }
-                \line { Finir de la mia vita l’ultima ora, }
+                \line { Dopo ch'io sarò morto, amarmi ancora, }
+                \line { Come solo il lasciarvi è che m'aggreva }
+                \line { Qui senza guida, e non già perch'io mora: }
+                \line { Che se in sicura parte m'accadeva }
+                \line { Finir de la mia vita l'ultima ora, }
                 \line { Lieto e contento e fortunato a pieno }
-                \line { Morto sarei, poi ch’io vi moro in seno. }
+                \line { Morto sarei, poi ch'io vi moro in seno. }
             }
           \column {
                 \line { So be thou pleased, my heart, Zerbino cried, }

@@ -25,6 +25,7 @@
     shorttitle = "ella_non_sa"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -79,11 +80,11 @@
                 \line { Ella non sa, se non invan dolersi, } 
                 \line { chiamar fortuna e il cielo empio e crudele. } 
                 \line { Perché, ahi lassa! dicea non mi sommersi } 
-                \line { quando levai ne l’Ocean le vele? } 
+                \line { quando levai ne l'Ocean le vele? } 
                 \line { Zerbin che i languidi occhi ha in lei conversi, } 
-                \line { sente più doglia, ch’ella si querele, } 
+                \line { sente più doglia, ch'ella si querele, } 
                 \line { che de la passion tenace e forte } 
-                \line { che l’ha condutto omai vicino a morte. } 
+                \line { che l'ha condutto omai vicino a morte. } 
             }
           \column {
                 \line { She, blaming Fortune, and the cruel sky, } 

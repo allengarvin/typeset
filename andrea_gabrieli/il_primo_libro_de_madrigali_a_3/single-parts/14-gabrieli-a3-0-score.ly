@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Sopra il sanguigno corpo s’abbandona"
+    title = "Sopra il sanguigno corpo s'abbandona"
     subtitle = "Ultima stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 86 }
     instrument = "Sopra il sanguigno (score)"
@@ -25,6 +25,7 @@
     shorttitle = "sopra_il_sanguigno"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,14 +77,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Sopra il sanguigno corpo s’abbandona, }
+                \line { Sopra il sanguigno corpo s'abbandona, }
                 \line { e di copiose lacrime lo bagna; }
-                \line { e stride sì, ch’intorno ne risuona }
+                \line { e stride sì, ch'intorno ne risuona }
                 \line { a molte miglia il bosco e la campagna. }
                 \line { Né alle guancie né al petto si perdona, }
-                \line { che l’uno e l’altro non percuota e fragna; }
-                \line { e straccia a torto l’auree crespe chiome, }
-                \line { chiamando sempre invan l’amato nome. }
+                \line { che l'uno e l'altro non percuota e fragna; }
+                \line { e straccia a torto l'auree crespe chiome, }
+                \line { chiamando sempre invan l'amato nome. }
             }
           \column {
                 \line { On the ensanguined corse, in sorrow drowned, }

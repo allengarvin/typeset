@@ -25,6 +25,7 @@
     shorttitle = "dunque_fia_ver"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -77,13 +78,13 @@
         \fill-line {
             \column {
                 \line { Dunque fia ver "(dicea)" che mi convegna }
-                \line { cercare un che mi fugge e mi s’asconde? }
+                \line { cercare un che mi fugge e mi s'asconde? }
                 \line { Dunque debbo prezzare un che mi sdegna? }
                 \line { Debbo pregar chi mai non mi risponde? }
-                \line { Patirò che chi m’odia, il cor mi tegna? }
+                \line { Patirò che chi m'odia, il cor mi tegna? }
                 \line { un che sì stima sue virtù profonde, }
                 \line { che bisogno sarà che dal ciel scenda }
-                \line { immortal dea che ’l cor d’amor gli accenda? }
+                \line { immortal dea che 'l cor d'amor gli accenda? }
                 \line { \hspace #12 canto XXXII, ottava 18 }
             }
             \column {

@@ -31,22 +31,22 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    Va -- ga d’u -- dir, 
+    Va -- ga d'u -- dir, 
     \ijLyrics
-    Va -- ga d’u -- dir, 
+    Va -- ga d'u -- dir, 
     \normalLyrics
         co -- me~o -- gni don -- na suo -- le, 
     E per ve -- der che fi -- ne~a -- vea la co -- sa, 
     In un ce -- spu -- glio, 
     In un ce -- spu -- glio, o -- ve~ap -- pe -- na~en -- tra~il so -- le, 
-    Da -- gli~oc -- chi d’am -- be -- due ne stet -- ti~a -- sco -- sa. 
+    Da -- gli~oc -- chi d'am -- be -- due ne stet -- ti~a -- sco -- sa. 
     Il Pa -- stor nel for -- mar del -- le pa -- ro -- le, 
-    E’l pian -- to de la Nin -- fa do -- lo -- ro -- sa
+    E'l pian -- to de la Nin -- fa do -- lo -- ro -- sa
         do -- lo -- ro -- sa
-    Pa -- rea che~in -- tor -- no l’a -- ria~e le con -- tra -- de
+    Pa -- rea che~in -- tor -- no l'a -- ria~e le con -- tra -- de
     Fa -- ces -- ser la -- cri -- mar,
     Fa -- ces -- ser la -- cri -- mar per la __ pie -- ta -- de,
-    Pa -- rea che~in -- tor -- no l’a -- ria~e le con -- tra -- de
+    Pa -- rea che~in -- tor -- no l'a -- ria~e le con -- tra -- de
         e le con -- tra -- de
     Fa -- ces -- ser la -- cri -- mar,
     \ijLyrics
@@ -88,7 +88,7 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
-    Va -- ga d’u -- dir, co -- me~o -- gni don -- na suo -- le, 
+    Va -- ga d'u -- dir, co -- me~o -- gni don -- na suo -- le, 
     \ijLyrics
         co -- me~o -- gni don -- na suo -- le, 
     \normalLyrics
@@ -98,22 +98,22 @@ tenoreLyricsII = \lyricmode {
     \ijLyrics
         o -- ve~ap -- pe -- na~en -- tra~il so -- le, 
     \normalLyrics
-    Da -- gli~oc -- chi d’am -- be -- due ne stet -- ti~a -- sco -- sa. 
+    Da -- gli~oc -- chi d'am -- be -- due ne stet -- ti~a -- sco -- sa. 
     Il Pa -- stor 
     \ijLyrics
     Il Pa -- stor 
     \normalLyrics
         nel for -- mar del -- le pa -- ro -- le, 
-    E’l pian -- to de la Nin -- fa do -- lo -- ro -- sa
+    E'l pian -- to de la Nin -- fa do -- lo -- ro -- sa
         do -- lo -- ro -- sa
-    Pa -- rea che~in -- tor -- no l’a -- ria~e le con -- tra -- de,
+    Pa -- rea che~in -- tor -- no l'a -- ria~e le con -- tra -- de,
         e le con -- tra -- de
     Fa -- ces -- ser la -- cri -- mar,
     \ijLyrics
     Fa -- ces -- ser la -- cri -- mar 
     \normalLyrics
         per la __ pie -- ta -- de,
-    Pa -- rea che~in -- tor -- no l’a -- ria~e le con -- tra -- de
+    Pa -- rea che~in -- tor -- no l'a -- ria~e le con -- tra -- de
     Fa -- ces -- ser la -- cri -- mar,
     \ijLyrics
     Fa -- ces -- ser la -- cri -- mar
@@ -152,7 +152,7 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
-    Va -- ga d’u -- dir, co -- me~o -- gni don -- na suo -- le, 
+    Va -- ga d'u -- dir, co -- me~o -- gni don -- na suo -- le, 
     \ijLyrics
         co -- me~o -- gni don -- na suo -- le, 
     \normalLyrics
@@ -160,14 +160,14 @@ bassoLyricsII = \lyricmode {
         che fi -- ne~a -- vea la co -- sa, 
     In un ce -- spu -- glio, 
     In un ce -- spu -- glio, o -- ve~ap -- pe -- na~en -- tra~il so -- le, 
-    Da -- gli~oc -- chi d’am -- be -- due ne stet -- ti~a -- sco -- sa. 
+    Da -- gli~oc -- chi d'am -- be -- due ne stet -- ti~a -- sco -- sa. 
     Il __ Pa -- stor nel for -- mar del -- le pa -- ro -- le, 
-    E’l pian -- to de la Nin -- fa do -- lo -- ro -- sa
+    E'l pian -- to de la Nin -- fa do -- lo -- ro -- sa
         do -- lo -- ro -- sa
-    Pa -- rea che~in -- tor -- no l’a -- ria~e le con -- tra -- de
+    Pa -- rea che~in -- tor -- no l'a -- ria~e le con -- tra -- de
     Fa -- ces -- ser la -- cri -- mar,
     Fa -- ces -- ser la -- cri -- mar per la pie -- ta -- de,
-    Pa -- rea che~in -- tor -- no l’a -- ria~e le con -- tra -- de
+    Pa -- rea che~in -- tor -- no l'a -- ria~e le con -- tra -- de
     Fa -- ces -- ser la -- cri -- mar,
     \ijLyrics
     Fa -- ces -- ser la -- cri -- mar

@@ -25,6 +25,7 @@
     shorttitle = "se_questo_altier"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,13 +77,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Sa questo altier ch’io l’amo e ch’io l’adoro, }
+                \line { Sa questo altier ch'io l'amo e ch'io l'adoro, }
                 \line { né mi vuol per amante né per serva. }
                 \line { Il crudel sa che per lui spasmo e moro, }
                 \line { e dopo morte a darmi aiuto serva. }
                 \line { E perché io non gli narri il mio martoro }
                 \line { atto a piegar la sua voglia proterva, }
-                \line { da me s’asconde, come aspide suole, }
+                \line { da me s'asconde, come aspide suole, }
                 \line { che, per star empio, il canto udir non vuole. }
                 \line { \hspace #12 canto XXXII, ottava 19 }
             }

@@ -39,11 +39,11 @@ cantoLyricsIII = \lyricmode {
     Di vi -- ve -- re~al -- cun tem -- po nel __ tuo co -- re:
     Di -- cea il Nin -- fa, co -- me~av -- rà pos -- san -- za,
         co -- me~av -- rà pos -- san -- za,
-    Di vi -- ve -- re~un de’ due, se l’al -- tro mo -- re?
-    S’io vi -- vo nel tuo pet -- to, e tu nel mi -- o,
-    S’io vi -- vo nel tuo pet -- to, e tu nel mi -- o,
+    Di vi -- ve -- re~un de' due, se l'al -- tro mo -- re?
+    S'io vi -- vo nel tuo pet -- to, e tu nel mi -- o,
+    S'io vi -- vo nel tuo pet -- to, e tu nel mi -- o,
         e tu nel mi -- o,
-    Co -- me, mo -- ren -- do tu, vi -- ver pos -- s’i -- o? 
+    Co -- me, mo -- ren -- do tu, vi -- ver pos -- s'i -- o? 
 }
 
 tenoreIIIincipit = \relative c' {
@@ -86,11 +86,11 @@ tenoreLyricsIII = \lyricmode {
     Di vi -- ve -- re~al -- cun tem -- po nel tuo co -- re:
     Di -- cea il Nin -- fa, co -- me~av -- rà pos -- san -- za,
         co -- me~av -- rà pos -- san -- za,
-    Di vi -- ve -- re~un de’ due, se l’al -- tro mo -- re?
-    S’io vi -- vo nel tuo pet -- to,
-    S’io vi -- vo nel tuo pet -- to, e tu nel mi -- o,
+    Di vi -- ve -- re~un de' due, se l'al -- tro mo -- re?
+    S'io vi -- vo nel tuo pet -- to,
+    S'io vi -- vo nel tuo pet -- to, e tu nel mi -- o,
         e tu nel mi -- o,
-    Co -- me, mo -- ren -- do tu, vi -- ver pos -- s’i -- o? 
+    Co -- me, mo -- ren -- do tu, vi -- ver pos -- s'i -- o? 
 }
 
 bassoIIIincipit = \relative c {
@@ -129,10 +129,10 @@ bassoLyricsIII = \lyricmode {
     Pur -- che do -- po la mor -- te~ab -- bi spe -- ran -- za
     Di vi -- ve -- re~al -- cun tem -- po nel tuo co -- re:
     Di -- cea il Nin -- fa, co -- me~av -- rà pos -- san -- za,
-    Di vi -- ve -- re~un de’ due, se l’al -- tro mo -- re?
+    Di vi -- ve -- re~un de' due, se l'al -- tro mo -- re?
         e tu nel mi -- o,
-    S’io vi -- vo nel tuo pet -- to, e tu nel mi -- o,
-    Co -- me, mo -- ren -- do tu, vi -- ver pos -- s’i -- o? 
+    S'io vi -- vo nel tuo pet -- to, e tu nel mi -- o,
+    Co -- me, mo -- ren -- do tu, vi -- ver pos -- s'i -- o? 
 }
 
 cantoIIIincipitVoice = <<

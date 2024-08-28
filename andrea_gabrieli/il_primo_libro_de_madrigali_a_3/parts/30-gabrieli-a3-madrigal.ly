@@ -4,7 +4,7 @@
 %    E lega e strigne come chiodo al mezzo,
 %    Onde ogni parte god' e si rallegra,
 %    Chè suoi diletti non han mezzo,
-%    E s’uom durasse molto in tale stato,
+%    E s'uom durasse molto in tale stato,
 %    Compitamente diverria beato.
 
 cantoXXXincipit = \relative c' {
@@ -46,10 +46,10 @@ cantoLyricsXXX = \lyricmode {
     On -- de~o -- gni par -- te god' e si ral -- le -- gra,
         e si ral -- le -- gra Tan -- to,
     Chè suoi di -- let -- ti non han mez -- zo,
-    E s’uom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'uom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
-    E s’uom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'uom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to.
 
@@ -95,10 +95,10 @@ tenoreLyricsXXX = \lyricmode {
     On -- de~o -- gni par -- te god' e si ral -- le -- gra,
         e si ral -- le -- gra __ Tan -- to,
     Chè suoi di -- let -- ti non han mez -- zo,
-    E s’uom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'uom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
-    E s’uom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'uom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to.
 }
@@ -141,10 +141,10 @@ bassoLyricsXXX = \lyricmode {
     On -- de~o -- gni par -- te god' e si ral -- le -- gra,
         e si ral -- le -- gra Tan -- to,
     Chè suoi di -- let -- ti non han mez -- zo,
-    E s’uom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'uom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
-    E s’uom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'uom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to.
 }

@@ -9,7 +9,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Non credo che quest’ultime parole"
+    title = "Non credo che quest'ultime parole"
     subtitle = "Settima stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXIV ottava 85 }
 

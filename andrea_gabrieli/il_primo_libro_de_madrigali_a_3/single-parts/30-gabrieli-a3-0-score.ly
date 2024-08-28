@@ -24,6 +24,9 @@
     final = "f"
     shorttitle = "pero_che_voi_non_siete"
     categories = "[madrigal]"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
+    repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F042630004010101_000000107500"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,13 +79,13 @@
         \fill-line {
             \column {
                 \line { Però che voi non siete cosa integra, }
-                \line { Nè noi; ma è ciascun del tutto il mezzo, }
-                \line { Amor è quello poi che ne rintegra, }
-                \line { E lega e strigne come chiodo al mezzo, }
-                \line { Onde ogni parte god' e si rallegra, }
-                \line { Chè suoi diletti non han mezzo,  }
-                \line { E s’uom durasse molto in tale stato,  }
-                \line { Compitamente diverria beato. }
+                \line { né noi; ma è ciascun del tutto il mezzo, }
+                \line { amor è quello poi che ne rintegra, }
+                \line { e lega e strigne come chiodo al mezzo, }
+                \line { onde ogni parte god' e si rallegra, }
+                \line { ché suoi diletti non han mezzo,  }
+                \line { e s'uom durasse molto in tale stato,  }
+                \line { compitamente diverria beato. }
 
             }
         }

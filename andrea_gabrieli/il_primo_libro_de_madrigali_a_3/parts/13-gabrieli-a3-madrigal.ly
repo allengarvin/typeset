@@ -1,4 +1,4 @@
-%   85  Non credo che quest’ultime parole
+%   85  Non credo che quest'ultime parole
 %       potesse esprimer sì, che fosse inteso;
 %       e finì come il debol lume suole,
 %       cui cera manchi od altro in che sia acceso.
@@ -36,7 +36,7 @@ cantoXIII = \relative c'' {
 }
 
 cantoLyricsXIII = \lyricmode {
-    Non cre -- do che que -- st’ul -- ti -- me pa -- ro -- le
+    Non cre -- do che que -- st'ul -- ti -- me pa -- ro -- le
     Po -- tes -- se~e -- spri -- mer sì, che fos -- se~in -- te -- so;
     E __ fi -- nì co -- me~il de -- bol lu -- me suo -- le,
     Cui ce -- ra man -- chi od al -- tro~in che sia~ac -- ce -- so.
@@ -84,7 +84,7 @@ tenoreXIII = \relative c'' {
 }
 
 tenoreLyricsXIII = \lyricmode {
-    Non cre -- do che que -- st’ul -- ti -- me pa -- ro -- le
+    Non cre -- do che que -- st'ul -- ti -- me pa -- ro -- le
     Po -- tes -- se~e -- spri -- mer sì, che fos -- se~in -- te -- so;
     E __ fi -- nì co -- me~il de -- bol lu -- me suo -- le,
     Cui ce -- ra man -- chi od al -- tro~in che sia~ac -- ce -- so.
@@ -131,7 +131,7 @@ bassoXIII = \relative c' {
 }
 
 bassoLyricsXIII = \lyricmode {
-    Non cre -- do che que -- st’ul -- ti -- me pa -- ro -- le
+    Non cre -- do che que -- st'ul -- ti -- me pa -- ro -- le
     Po -- tes -- se~e -- spri -- mer sì, che fos -- se~in -- te -- so;
     E __ fi -- nì co -- me~il de -- bol lu -- me suo -- le,
     Cui ce -- ra man -- chi od al -- tro~in che sia~ac -- ce -- so.

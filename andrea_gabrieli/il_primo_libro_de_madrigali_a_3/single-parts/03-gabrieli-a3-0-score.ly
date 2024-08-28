@@ -23,6 +23,8 @@
     flats = 1
     final = "f"
     shorttitle = "con_quel_poco_di_spirto"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -76,13 +78,13 @@
         \fill-line {
             \column {
                 \line { Con quel poco di spirto che gli avanza, }
-                \line { Non mi duol il morir, dicea il Pastore, }
-                \line { Purche dopo la morte abbi speranza }
-                \line { Di vivere alcun tempo nel tuo core: }
-                \line { Dicea il Ninfa, come avrà possanza, }
-                \line { Di vivere un de’ due, se l’altro more? }
-                \line { S’io vivo nel tuo petto, e tu nel mio, }
-                \line { Come, morendo tu, viver poss’io?  }
+                \line { non mi duol il morir, dicea il Pastore, }
+                \line { purche dopo la morte abbi speranza }
+                \line { di vivere alcun tempo nel tuo core: }
+                \line { dicea il Ninfa, come avrà possanza, }
+                \line { di vivere un de' due, se l'altro more? }
+                \line { S'io vivo nel tuo petto, e tu nel mio, }
+                \line { come, morendo tu, viver poss'io?  }
             }
         }
     }

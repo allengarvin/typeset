@@ -25,6 +25,7 @@
     shorttitle = "e_con_la_faccia"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -81,8 +82,8 @@
                 \line { Iersera desti insieme a dui ricetto; }
                 \line { perché insieme al levar non siamo dui? }
                 \line { O perfido Bireno, o maladetto }
-                \line { giorno ch’al mondo generata fui! }
-                \line { Che debbo far? che poss’io far qui sola? }
+                \line { giorno ch'al mondo generata fui! }
+                \line { Che debbo far? che poss'io far qui sola? }
                 \line { chi mi dà aiuto? ohimè, chi mi consola? }
                 \line { \hspace #12 canto X, ottava 27 }
             }

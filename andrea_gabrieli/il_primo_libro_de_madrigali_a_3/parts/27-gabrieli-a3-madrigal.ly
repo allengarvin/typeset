@@ -1,7 +1,7 @@
 %    Che giova posseder cittadi e regni,
-%    E palagi abitar d’alto lavoro,
-%    E servi intorno aver d’imperio degni,
-%    E l’arche gravi per molto tesoro;
+%    E palagi abitar d'alto lavoro,
+%    E servi intorno aver d'imperio degni,
+%    E l'arche gravi per molto tesoro;
 %    Esser cantate da sublimi ingegni,
 %    Di porpora vestir, mangiar' in oro,
 %    E di bellezza pareggiar il sole,
@@ -35,9 +35,9 @@ cantoXXVII = \relative c' {
 
 cantoLyricsXXVII = \lyricmode {
     Che gio -- va pos -- se -- der __ cit -- ta -- di~e re -- gni,
-    E pa -- la -- gi~a -- bi -- tar d’al -- to la -- vo -- ro,
-    E ser -- vi~in -- tor -- no~a -- ver d’im -- pe -- rio de -- gni,
-    E l’ar -- che gra -- vi per mol -- to te -- so -- ro;
+    E pa -- la -- gi~a -- bi -- tar d'al -- to la -- vo -- ro,
+    E ser -- vi~in -- tor -- no~a -- ver d'im -- pe -- rio de -- gni,
+    E l'ar -- che gra -- vi per mol -- to te -- so -- ro;
     Es -- ser can -- ta -- te da su -- bli -- mi~in -- ge -- gni,
     Di por -- po -- ra __ ve -- stir, man -- giar' in o -- ro,
         man -- giar' in o -- ro,
@@ -77,9 +77,9 @@ tenoreXXVII = \relative c {
 tenoreLyricsXXVII = \lyricmode {
     Che gio -- va pos -- se -- der cit -- ta -- di~e re -- gni,
         cit -- ta -- di~e re -- gni,
-    E pa -- la -- gi~a -- bi -- tar d’al -- to la -- vo -- ro,
-    E ser -- vi~in -- tor -- no~a -- ver d’im -- pe -- rio de -- gni,
-    E l’ar -- che gra -- vi per mol -- to te -- so -- ro;
+    E pa -- la -- gi~a -- bi -- tar d'al -- to la -- vo -- ro,
+    E ser -- vi~in -- tor -- no~a -- ver d'im -- pe -- rio de -- gni,
+    E l'ar -- che gra -- vi per mol -- to te -- so -- ro;
     Es -- ser can -- ta -- te da su -- bli -- mi~in -- ge -- gni,
     Di por -- po -- ra __ ve -- stir, man -- giar' in o -- ro,
         man -- giar' in o -- ro,
@@ -114,9 +114,9 @@ bassoXXVII = \relative c {
 
 bassoLyricsXXVII = \lyricmode {
     Che gio -- va pos -- se -- der cit -- ta -- di~e re -- gni,
-    E pa -- la -- gi~a -- bi -- tar d’al -- to la -- vo -- ro,
-    E ser -- vi~in -- tor -- no~a -- ver d’im -- pe -- rio de -- gni,
-    E l’ar -- che gra -- vi per mol -- to te -- so -- ro;
+    E pa -- la -- gi~a -- bi -- tar d'al -- to la -- vo -- ro,
+    E ser -- vi~in -- tor -- no~a -- ver d'im -- pe -- rio de -- gni,
+    E l'ar -- che gra -- vi per mol -- to te -- so -- ro;
     Es -- ser can -- ta -- te da su -- bli -- mi~in -- ge -- gni,
     Di por -- po -- ra __ ve -- stir, man -- giar' in o -- ro,
     E di bel -- lez -- za pa -- reg -- giar il so -- le,

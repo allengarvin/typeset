@@ -4,11 +4,11 @@
 %    Deh, dove senza me, dolce mia vita,
 %      rimasa sei sì giovane e sì bella?
 %      come, poi che la luce è dipartita,
-%      riman tra’ boschi la smarrita agnella,
+%      riman tra' boschi la smarrita agnella,
 %      che dal pastor sperando essere udita,
 %      si va lagnando in questa parte e in quella;
-%      tanto che ’l lupo l’ode da lontano,
-%      e ’l misero pastor ne piagne invano.
+%      tanto che 'l lupo l'ode da lontano,
+%      e 'l misero pastor ne piagne invano.
 
 cantoXVIincipit = \relative c'' {
     \time 2/2
@@ -52,8 +52,8 @@ cantoLyricsXVI = \lyricmode {
         sì gio -- va -- ne~e sì bel -- la?
     Ri -- ma -- sa sei sì gio -- va -- ne~e sì bel -- la?
     Co -- me, poi che la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la,
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la,
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la,
     Che dal pa -- stor spe -- ran -- do~es -- ser u -- di -- ta,
     Si va la -- gnan -- do
     \ijLyrics
@@ -61,9 +61,9 @@ cantoLyricsXVI = \lyricmode {
     \normalLyrics
         in que -- sta par -- te~e~in quel -- la,
         in que -- sta par -- te~e~in quel -- la;
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor la __ pia -- gne~in -- va -- no,
-    E’l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no.
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l mi -- se -- ro pa -- stor la __ pia -- gne~in -- va -- no,
+    E'l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no.
 }
 
 tenoreXVIincipit = \relative c' {
@@ -112,16 +112,16 @@ tenoreLyricsXVI = \lyricmode {
         sì gio -- va -- ne~e sì bel -- la?
     Ri -- ma -- sa sei sì gio -- va -- ne~e sì bel -- la?
     Co -- me, poi che la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la,
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la,
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la,
     Che dal pa -- stor spe -- ran -- do~es -- ser u -- di -- ta,
     Si va la -- gnan -- do
     Si va Si va la -- gnan -- do~in que -- sta par -- te~e~in quel -- la,
         in que -- sta par -- te~e~in quel -- la e~in quel -- la;
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
         da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
-    E’l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no.
+    E'l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
+    E'l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no.
 }
 
 bassoXVIincipit = \relative c' {
@@ -163,8 +163,8 @@ bassoLyricsXVI = \lyricmode {
     Ri -- ma -- sa sei sì gio -- va -- ne~e sì bel -- la?
         sì gio -- va -- ne~e sì bel -- la?
     Co -- me, poi che la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi
-    Ri -- man tra’ bo -- schi la __ smar -- ri -- ta~a -- gnel -- la,
+    Ri -- man tra' bo -- schi
+    Ri -- man tra' bo -- schi la __ smar -- ri -- ta~a -- gnel -- la,
     Che dal pa -- stor spe -- ran -- do~es -- ser u -- di -- ta,
     Si va la -- gnan -- do
     \ijLyrics
@@ -172,9 +172,9 @@ bassoLyricsXVI = \lyricmode {
     \normalLyrics
         in que -- sta par -- te~e~in quel -- la,
         in que -- sta par -- te~e~in quel -- la;
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
-    E’l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no.
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
+    E'l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no.
 }
 
 cantoXVIincipitVoice = <<

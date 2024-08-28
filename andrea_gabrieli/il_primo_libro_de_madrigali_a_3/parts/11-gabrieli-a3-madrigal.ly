@@ -1,9 +1,9 @@
 %   81  Di ciò, cor mio, nessun timor vi tocchi;
-%       ch’io vo’ seguirvi o in cielo o ne lo ’nferno.
-%       Convien che l’uno e l’altro spirto scocchi,
+%       ch'io vo' seguirvi o in cielo o ne lo 'nferno.
+%       Convien che l'uno e l'altro spirto scocchi,
 %       insieme vada, insieme stia in eterno.
 %       Non sì tosto vedrò chiudervi gli occhi,
-%       o che m’ucciderà il dolore interno,
+%       o che m'ucciderà il dolore interno,
 %       o se quel non può tanto, io vi prometto
 %       con questa spada oggi passarmi il petto.
 
@@ -41,13 +41,13 @@ cantoXI = \relative c'' {
 
 cantoLyricsXI = \lyricmode {
     Di ciò, cor mio, nes -- sun ti -- mor vi toc -- chi;
-    Ch’io vo’ se -- guir -- vi~o~in cie -- lo o ne l’in -- fer -- no. __
-    Con -- vien che l’u -- no~e l’al -- tro spir -- to scoc -- chi,
+    Ch'io vo' se -- guir -- vi~o~in cie -- lo o ne l'in -- fer -- no. __
+    Con -- vien che l'u -- no~e l'al -- tro spir -- to scoc -- chi,
     In -- sie -- me va -- da, in -- sie -- me stia~in e -- ter -- no.
     Non sì to -- sto ve -- drò chiu -- der -- vi gli~oc -- chi,
         chiu -- der -- vi gli~oc -- chi,
-    O che m’uc -- ci -- de -- rà,
-    O che m’uc -- ci -- de -- rà~il do -- lo -- re~in -- ter -- no,
+    O che m'uc -- ci -- de -- rà,
+    O che m'uc -- ci -- de -- rà~il do -- lo -- re~in -- ter -- no,
     O se quel non può tan -- to, io vi pro -- met -- to
     Con que -- sta spa -- da 
     \ijLyrics
@@ -99,13 +99,13 @@ tenoreXI = \relative c'' {
 
 tenoreLyricsXI = \lyricmode {
     Di ciò, cor mio, nes -- sun ti -- mor vi toc -- chi;
-    Ch’io vo’ se -- guir -- vi~o~in cie -- lo o ne l’in -- fer -- no. 
-    Con -- vien che l’u -- no~e l’al -- tro spir -- to scoc -- chi,
+    Ch'io vo' se -- guir -- vi~o~in cie -- lo o ne l'in -- fer -- no. 
+    Con -- vien che l'u -- no~e l'al -- tro spir -- to scoc -- chi,
     In -- sie -- me va -- da,
     In -- sie -- me va -- da, in -- sie -- me stia~in e -- ter -- no.
     Non sì to -- sto ve -- drò chiu -- der -- vi gli~oc -- chi, __
         CHiu -- der -- vi gli~oc -- chi, 
-    O che m’uc -- ci -- de -- rà~il do -- lo -- re~in -- ter -- no,
+    O che m'uc -- ci -- de -- rà~il do -- lo -- re~in -- ter -- no,
     O se quel non può tan -- to, io vi pro -- met -- to
         io vi pro -- met -- to
     Con que -- sta spa -- da 
@@ -154,12 +154,12 @@ bassoXI = \relative c' {
 
 bassoLyricsXI = \lyricmode {
     Di ciò, cor mio, nes -- sun ti -- mor vi toc -- chi;
-    Ch’io vo’ se -- guir -- vi~o~in cie -- lo o ne l’in -- fer -- no. 
-    Con -- vien che l’u -- no~e l’al -- tro spir -- to scoc -- chi,
+    Ch'io vo' se -- guir -- vi~o~in cie -- lo o ne l'in -- fer -- no. 
+    Con -- vien che l'u -- no~e l'al -- tro spir -- to scoc -- chi,
     In -- sie -- me va -- da, in -- sie -- me stia~in e -- ter -- no.
     Non sì to -- sto ve -- drò chiu -- der -- vi gli~oc -- chi,
-    O che m’uc -- ci -- de -- rà,
-    O che m’uc -- ci -- de -- rà~il do -- lo -- re~in -- ter -- no,
+    O che m'uc -- ci -- de -- rà,
+    O che m'uc -- ci -- de -- rà~il do -- lo -- re~in -- ter -- no,
     O se quel non può tan -- to, io vi pro -- met -- to
     Con que -- sta spa -- da 
     Con que -- sta spa -- da og -- gi pas -- sar -- mi~il pet -- to,

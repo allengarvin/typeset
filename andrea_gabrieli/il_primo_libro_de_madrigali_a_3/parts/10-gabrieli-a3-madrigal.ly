@@ -2,10 +2,10 @@
 %       declinando la faccia lacrimosa
 %       e congiungendo la sua bocca a quella
 %       di Zerbin, languidetta come rosa,
-%       rosa non colta in sua stagion, sì ch’ella
+%       rosa non colta in sua stagion, sì ch'ella
 %       impallidisca in su la siepe ombrosa,
 %       disse: – Non vi pensate già, mia vita,
-%       far senza me quest’ultima partita.
+%       far senza me quest'ultima partita.
 
 cantoXincipit = \relative c'' {
     \time 2/2
@@ -42,14 +42,14 @@ cantoLyricsX = \lyricmode {
         la fac -- cia la -- cri -- mo -- sa
     E con -- giun -- gen -- do la __ sua boc -- ca~a quel -- la
     Di Zer -- bin, lan -- gui -- det -- ta co -- me ro -- sa,
-    Ro -- sa non col -- ta~in sua sta -- gion, sì ch’el -- la
+    Ro -- sa non col -- ta~in sua sta -- gion, sì ch'el -- la
     Im -- pal -- li -- di -- sca~in su la sie -- pe~om -- bro -- sa,
     Dis -- se,
     Dis -- se: non vi pen -- sa -- te già, mia vi -- ta,
         non vi pen -- sa -- te già, mia vi -- ta,
-    Far sen -- za me que -- st’ul -- ti -- ma par -- ti -- ta,
-        que -- st’ul -- ti -- ma par -- ti -- ta,
-    Far sen -- za me que -- st’ul -- ti -- ma par -- ti -- ta.
+    Far sen -- za me que -- st'ul -- ti -- ma par -- ti -- ta,
+        que -- st'ul -- ti -- ma par -- ti -- ta,
+    Far sen -- za me que -- st'ul -- ti -- ma par -- ti -- ta.
 }
 
 tenoreXincipit = \relative c'' {
@@ -86,13 +86,13 @@ tenoreLyricsX = \lyricmode {
     De -- cli -- nan -- do la fac -- cia la -- cri -- mo -- sa
     E con -- giun -- gen -- do la sua boc -- ca~a quel -- la
     Di Zer -- bin, lan -- gui -- det -- ta co -- me ro -- sa,
-    Ro -- sa non col -- ta~in sua sta -- gion, sì ch’el -- la
+    Ro -- sa non col -- ta~in sua sta -- gion, sì ch'el -- la
     Im -- pal -- li -- di -- sca~in su la sie -- pe~om -- bro -- sa,
     Dis -- se,
     Dis -- se: non vi pen -- sa -- te già, mia vi -- ta,
-    Far sen -- za me que -- st’ul -- ti -- ma par -- ti -- ta,
-    Far sen -- za me que -- st’ul -- ti -- ma par -- ti -- ta,
-    Far sen -- za me que -- st’ul -- ti -- ma par -- ti -- ta.
+    Far sen -- za me que -- st'ul -- ti -- ma par -- ti -- ta,
+    Far sen -- za me que -- st'ul -- ti -- ma par -- ti -- ta,
+    Far sen -- za me que -- st'ul -- ti -- ma par -- ti -- ta.
 }
 
 bassoXincipit = \relative c' {
@@ -131,13 +131,13 @@ bassoLyricsX = \lyricmode {
         la fac -- cia la -- cri -- mo -- sa
     E con -- giun -- gen -- do la sua boc -- ca~a quel -- la
     Di Zer -- bin, lan -- gui -- det -- ta co -- me ro -- sa,
-    Ro -- sa non col -- ta~in sua sta -- gion, sì ch’el -- la
+    Ro -- sa non col -- ta~in sua sta -- gion, sì ch'el -- la
     Im -- pal -- li -- di -- sca~in su la sie -- pe~om -- bro -- sa,
     Dis -- se,
     Dis -- se: non vi pen -- sa -- te già, mia vi -- ta,
     Far sen -- za me,
-    Far sen -- za me que -- st’ul -- ti -- ma par -- ti -- ta,
-    Far sen -- za me que -- st’ul -- ti -- ma par -- ti -- ta,
+    Far sen -- za me que -- st'ul -- ti -- ma par -- ti -- ta,
+    Far sen -- za me que -- st'ul -- ti -- ma par -- ti -- ta,
         par -- ti -- ta.
 }
 

@@ -1,10 +1,10 @@
 % Dove, speranza mia, dove ora sei?
 % Vai tu soletta forse ancor errando?
-% O pur t’hanno trovata i lupi rei
+% O pur t'hanno trovata i lupi rei
 % Senza la guardia del tuo fido Orlando?
-% E il fior ch’in ciel potea pormi fra i dei,
-% Il fior ch’intatto io mi venia serbando
-% Per non turbarti, ohimè! l’animo casto,
+% E il fior ch'in ciel potea pormi fra i dei,
+% Il fior ch'intatto io mi venia serbando
+% Per non turbarti, ohimè! l'animo casto,
 % Ohimè! per forza avranno colto e guasto.
 
 cantoXVIIincipit = \relative c'' {
@@ -44,17 +44,17 @@ cantoLyricsXVII = \lyricmode {
     \ijLyrics
         for -- se~an -- cor er -- ran -- do?
     \normalLyrics
-    O pur __ t’han -- no tro -- va -- ta~i lu -- pi re -- i,
+    O pur __ t'han -- no tro -- va -- ta~i lu -- pi re -- i,
         i lu -- pi re -- i
     Sen -- za la guar -- dia, __
     \ijLyrics
     Sen -- za la guar -- dia  __
     \normalLyrics 
         del tuo fi -- do~Or -- lan -- do?
-    E~il fior ch’in ciel __ po -- tea por -- mi fra~i de -- i,
+    E~il fior ch'in ciel __ po -- tea por -- mi fra~i de -- i,
         po -- tea por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do
-    Per non tur -- bar -- ti, ohi -- mè! ohi -- mè! l’a -- ni -- mo ca -- sto,
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do
+    Per non tur -- bar -- ti, ohi -- mè! ohi -- mè! l'a -- ni -- mo ca -- sto,
     Ohi -- mè! per __ for -- za,
     \ijLyrics
     Ohi -- mè! __ per for -- za 
@@ -107,18 +107,18 @@ tenoreLyricsXVII = \lyricmode {
     Do -- ve, spe -- ran -- za mia, do -- ve~o -- ra se -- i?
     Vai tu so -- let -- ta for -- se~an -- cor er -- ran -- do?
     Vai tu so -- let -- ta for -- se~an -- cor er -- ran -- do?
-    O pur __ t’han -- no tro -- va -- ta~i lu -- pi re -- i,
+    O pur __ t'han -- no tro -- va -- ta~i lu -- pi re -- i,
         i lu -- pi re -- i
     Sen -- za la guar -- dia, del tuo fi -- do~Or -- lan -- do?
         del tuo fi -- do~Or -- lan -- do?
     \ijLyrics
         del __ tuo fi -- do~Or -- lan -- do?
     \normalLyrics
-    E~il fior ch’in ciel po -- tea por -- mi __ fra~i de -- i,
+    E~il fior ch'in ciel po -- tea por -- mi __ fra~i de -- i,
         po -- tea por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do
     Per non tur -- bar -- ti,
-    Per non tur -- bar -- ti, ohi -- mè! ohi -- mè! l’a -- ni -- mo ca -- sto,
+    Per non tur -- bar -- ti, ohi -- mè! ohi -- mè! l'a -- ni -- mo ca -- sto,
     Ohi -- mè! per for -- za,
     \ijLyrics
     Ohi -- mè! __ per for -- za 
@@ -165,16 +165,16 @@ bassoXVII = \relative c' {
 bassoLyricsXVII = \lyricmode {
     Do -- ve, spe -- ran -- za mia, do -- ve~o -- ra se -- i?
     Vai tu so -- let -- ta for -- se~an -- cor er -- ran -- do?
-    O pur t’han -- no tro -- va -- ta~i lu -- pi re -- i,
+    O pur t'han -- no tro -- va -- ta~i lu -- pi re -- i,
         i lu -- pi re -- i
     Sen -- za la guar -- dia, del __ tuo fi -- do~Or -- lan -- do?
         del tuo fi -- do~Or -- lan -- do?
     \ijLyrics
         del tuo fi -- do~Or -- lan -- do?
     \normalLyrics
-    E~il fior ch’in ciel po -- tea por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do
-    Per non tur -- bar -- ti, ohi -- mè! ohi -- mè! l’a -- ni -- mo ca -- sto,
+    E~il fior ch'in ciel po -- tea por -- mi fra~i de -- i,
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do
+    Per non tur -- bar -- ti, ohi -- mè! ohi -- mè! l'a -- ni -- mo ca -- sto,
     Ohi -- mè! per for -- za,
     \ijLyrics
     Ohi -- mè! per for -- za 

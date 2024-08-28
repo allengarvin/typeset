@@ -23,6 +23,8 @@
     flats = 1
     final = "f"
     shorttitle = "a_caso_un_giorno"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -76,13 +78,13 @@
         \fill-line {
             \column {
                 \line { A caso un giorno mi guidò la sorte }
-                \line { In un bosco di quercie ombroso e spesso, }
-                \line { Ove giacea un pastor ferito a morte, }
-                \line { Che la sua Ninfa in sen se l'havea messo. }
+                \line { in un bosco di quercie ombroso e spesso, }
+                \line { ove giacea un pastor ferito a morte, }
+                \line { che la sua Ninfa in sen se l'havea messo. }
                 \line { La giovane gentil piangea sì forte }
-                \line { Sopra'l suo amante, che l'amante istesso, }
-                \line { Ancor che la suo piaga era mortale, }
-                \line { Piangea il pianto di lei, più ch'il suo male. }
+                \line { sopra'l suo amante, che l'amante istesso, }
+                \line { ancor che la suo piaga era mortale, }
+                \line { piangea il pianto di lei, più ch'il suo male. }
             }
         }
     }

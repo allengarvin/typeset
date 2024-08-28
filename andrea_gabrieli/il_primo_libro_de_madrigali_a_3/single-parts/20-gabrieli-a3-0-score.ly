@@ -25,6 +25,7 @@
     shorttitle = "ma_i_venti_che_portavano"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -77,13 +78,13 @@
         \fill-line {
             \column {
                 \line { Ma i venti che portavano le vele } 
-                \line { Per l’alto mar di quel giovene infido, } 
-                \line { Portavano anco i prieghi e le querele } 
-                \line { De l’infelice Olimpia, e ’l pianto e ’l grido; } 
-                \line { La qual tre volte, a se stessa crudele, } 
-                \line { Per affogarsi si spiccò dal lido: } 
-                \line { Pur al fin si levò da mirar l’acque, } 
-                \line { E ritornò dove la notte giacque. } 
+                \line { per l'alto mar di quel giovene infido, } 
+                \line { portavano anco i prieghi e le querele } 
+                \line { de l'infelice Olimpia, e 'l pianto e 'l grido; } 
+                \line { la qual tre volte, a se stessa crudele, } 
+                \line { per affogarsi si spiccò dal lido: } 
+                \line { Pur al fin si levò da mirar l'acque, } 
+                \line { e ritornò dove la notte giacque. } 
                 \line { \hspace #12 canto X, ottava 26 }
             }
             \column {

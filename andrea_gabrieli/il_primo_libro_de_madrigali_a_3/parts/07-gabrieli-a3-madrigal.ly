@@ -1,11 +1,11 @@
 % Ella non sa, se non invan dolersi,
 % chiamar fortuna e il cielo empio e crudele.
 % Perché, ahi lassa! dicea non mi sommersi
-% quando levai ne l’Ocean le vele?
+% quando levai ne l'Ocean le vele?
 % Zerbin che i languidi occhi ha in lei conversi,
-% sente più doglia, ch’ella si querele,
+% sente più doglia, ch'ella si querele,
 % che de la passion tenace e forte
-% che l’ha condutto omai vicino a morte.
+% che l'ha condutto omai vicino a morte.
 
 cantoVIIincipit = \relative c'' {
     \time 2/2
@@ -39,13 +39,13 @@ cantoLyricsVII = \lyricmode {
     El -- la non sa, se non in -- van do -- ler -- si,
     Chia -- mar for -- tu -- na~e~il cie -- lo~em -- pio~e cru -- de -- le.
     Per -- ché~ahi las -- sa! di -- cea non mi som -- mer -- si
-    Quan -- do le -- vai ne l’O -- ce -- an le ve -- le?
+    Quan -- do le -- vai ne l'O -- ce -- an le ve -- le?
     Zer -- bin che~i lan -- gui -- di~oc -- chi~a~in lei con -- ver -- si,
-    Sen -- te più do -- glia, ch’el -- la si que -- re -- le,
+    Sen -- te più do -- glia, ch'el -- la si que -- re -- le,
     Che de la pas -- si -- on te -- na -- ce~e for -- te
-    Che l’ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te,
-    Che l’ha con -- dut -- to~o -- mai,
-    Che l’ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te.
+    Che l'ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te,
+    Che l'ha con -- dut -- to~o -- mai,
+    Che l'ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te.
 }
 
 tenoreVIIincipit = \relative c'' {
@@ -78,15 +78,15 @@ tenoreLyricsVII = \lyricmode {
     El -- la non sa, se non in -- van do -- ler -- si,
     Chia -- mar for -- tu -- na~e~il ciel' em -- pio~e cru -- de -- le.
     Per -- ché~ahi las -- sa! di -- cea non mi som -- mer -- si
-    Quan -- do le -- vai ne l’O -- ce -- an le ve -- le?
+    Quan -- do le -- vai ne l'O -- ce -- an le ve -- le?
     Zer -- bin che~i lan -- gui -- di~oc -- chi~a~in lei con -- ver -- si,
-    Sen -- te più do -- glia, ch’el -- la si que -- re -- le,
+    Sen -- te più do -- glia, ch'el -- la si que -- re -- le,
     \ijLyrics
-        ch’el -- la si que -- re -- le,
+        ch'el -- la si que -- re -- le,
     \normalLyrics
     Che de la pas -- si -- on __ te -- na -- ce~e for -- te
-    Che l’ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te, __
-    Che l’ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te.
+    Che l'ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te, __
+    Che l'ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te.
 }
 
 bassoVIIincipit = \relative c' {
@@ -119,13 +119,13 @@ bassoLyricsVII = \lyricmode {
     El -- la non sa, se non in -- van do -- ler -- si,
     Chia -- mar for -- tu -- na~e~il cie -- lo~em -- pio~e cru -- de -- le.
     Per -- ché~ahi las -- sa! di -- cea non mi som -- mer -- si
-    Quan -- do le -- vai ne l’O -- ce -- an __ le ve -- le?
+    Quan -- do le -- vai ne l'O -- ce -- an __ le ve -- le?
     Zer -- bin che~i lan -- gui -- di~oc -- chi~a~in lei con -- ver -- si,
-    Sen -- te più do -- glia, ch’el -- la si que -- re -- le,
+    Sen -- te più do -- glia, ch'el -- la si que -- re -- le,
     Che de la pas -- si -- on te -- na -- ce~e for -- te
-    Che l’ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te,
-    Che l’ha con -- dut -- to~o -- mai,
-    Che l’ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te.
+    Che l'ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te,
+    Che l'ha con -- dut -- to~o -- mai,
+    Che l'ha con -- dut -- to~o -- mai vi -- ci -- no~a mor -- te.
 }
 
 cantoVIIincipitVoice = <<

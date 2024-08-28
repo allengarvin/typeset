@@ -25,6 +25,7 @@
     shorttitle = "zerbin_la_debol"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -83,7 +84,7 @@
                 \line { e se commandar posso, io vel commando, }
                 \line { che fin che piaccia a Dio, restiate viva; }
                 \line { né mai per caso pogniate in oblio }
-                \line { che quanto amar si può v’abbia amato io. }
+                \line { che quanto amar si può v'abbia amato io. }
             }
           \column {
                 \line { 'Twas here his feeble voice Zerbino manned, }

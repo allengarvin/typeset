@@ -1,11 +1,11 @@
 %   78  – Così, cor mio, vogliate, – le diceva
-%       – dopo ch’io sarò morto, amarmi ancora,
-%       come solo il lasciarvi è che m’aggreva
-%       qui senza guida, e non già perch’io mora:
-%       che se in sicura parte m’accadeva
-%       finir de la mia vita l’ultima ora,
+%       – dopo ch'io sarò morto, amarmi ancora,
+%       come solo il lasciarvi è che m'aggreva
+%       qui senza guida, e non già perch'io mora:
+%       che se in sicura parte m'accadeva
+%       finir de la mia vita l'ultima ora,
 %       lieto e contento e fortunato a pieno
-%       morto sarei, poi ch’io vi moro in seno.
+%       morto sarei, poi ch'io vi moro in seno.
 
 cantoVIIIincipit = \relative c'' {
     \time 2/2
@@ -40,12 +40,12 @@ cantoVIII = \relative c'' {
 
 cantoLyricsVIII = \lyricmode {
     Co -- sì, cor mio, vo -- glia -- te, le __ di -- ce -- va
-    Do -- po ch’io sa -- rò mor -- to~a -- mar -- mi~an -- co -- ra,
-    Co -- me so -- lo~il la -- sciar -- vi~è che __ m’ag -- gre -- va
-    Qui sen -- za gui -- da~e non già per -- ch’io mo -- ra:
-    Che se in~si -- cu -- ra par -- te m’ac -- ca -- de -- va __
-        m’ac -- ca -- de -- va
-    Fi -- nir de la mia vi -- ta l’ul -- ti -- ma~o -- ra,
+    Do -- po ch'io sa -- rò mor -- to~a -- mar -- mi~an -- co -- ra,
+    Co -- me so -- lo~il la -- sciar -- vi~è che __ m'ag -- gre -- va
+    Qui sen -- za gui -- da~e non già per -- ch'io mo -- ra:
+    Che se in~si -- cu -- ra par -- te m'ac -- ca -- de -- va __
+        m'ac -- ca -- de -- va
+    Fi -- nir de la mia vi -- ta l'ul -- ti -- ma~o -- ra,
     Lie -- to~e con -- ten -- to~e for -- tu -- na -- to~a pie -- no
     Mor -- to sa -- rei, 
     Lie -- to~e con -- ten -- to~e for -- tu -- na -- to~a pie -- no
@@ -53,8 +53,8 @@ cantoLyricsVIII = \lyricmode {
     \ijLyrics
     Mor -- to sa -- rei, 
     \normalLyrics
-        poi ch’io vi mo -- ro~in se -- no, __
-        poi ch’io vi mo -- ro~in se -- no.
+        poi ch'io vi mo -- ro~in se -- no, __
+        poi ch'io vi mo -- ro~in se -- no.
 }
 
 tenoreVIIIincipit = \relative c'' {
@@ -90,11 +90,11 @@ tenoreVIII = \relative c'' {
 
 tenoreLyricsVIII = \lyricmode {
     Co -- sì, cor mio, vo -- glia -- te, le __ di -- ce -- va
-    Do -- po ch’io sa -- rò mor -- to~a -- mar -- mi~an -- co -- ra,
-    Co -- me so -- lo~il la -- sciar -- vi~è che __ m’ag -- gre -- va
-    Qui sen -- za gui -- da~e non già per -- ch’io mo -- ra:
-    Che se in~si -- cu -- ra par -- te m’ac -- ca -- de -- va 
-    Fi -- nir de la mia vi -- ta l’ul -- ti -- ma~o -- ra,
+    Do -- po ch'io sa -- rò mor -- to~a -- mar -- mi~an -- co -- ra,
+    Co -- me so -- lo~il la -- sciar -- vi~è che __ m'ag -- gre -- va
+    Qui sen -- za gui -- da~e non già per -- ch'io mo -- ra:
+    Che se in~si -- cu -- ra par -- te m'ac -- ca -- de -- va 
+    Fi -- nir de la mia vi -- ta l'ul -- ti -- ma~o -- ra,
     Lie -- to~e con -- ten -- to~e for -- tu -- na -- to~a pie -- no
     Mor -- to sa -- rei, 
     Lie -- to~e con -- ten -- to~e for -- tu -- na -- to~a pie -- no
@@ -102,8 +102,8 @@ tenoreLyricsVIII = \lyricmode {
     \ijLyrics
     Mor -- to sa -- rei, 
     \normalLyrics
-        poi ch’io vi mo -- ro~in se -- no, 
-        poi ch’io vi mo -- ro~in se -- no.
+        poi ch'io vi mo -- ro~in se -- no, 
+        poi ch'io vi mo -- ro~in se -- no.
 }
 
 bassoVIIIincipit = \relative c'' {
@@ -140,11 +140,11 @@ bassoVIII = \relative c'' {
 
 bassoLyricsVIII = \lyricmode {
     Co -- sì, cor mio, vo -- glia -- te, le __ di -- ce -- va
-    Do -- po ch’io sa -- rò mor -- to~a -- mar -- mi~an -- co -- ra,
-    Co -- me so -- lo~il la -- sciar -- vi~è che __ m’ag -- gre -- va
-    Qui sen -- za gui -- da~e non già per -- ch’io mo -- ra:
-    Che se in~si -- cu -- ra par -- te m’ac -- ca -- de -- va 
-    Fi -- nir de la mia vi -- ta l’ul -- ti -- ma~o -- ra,
+    Do -- po ch'io sa -- rò mor -- to~a -- mar -- mi~an -- co -- ra,
+    Co -- me so -- lo~il la -- sciar -- vi~è che __ m'ag -- gre -- va
+    Qui sen -- za gui -- da~e non già per -- ch'io mo -- ra:
+    Che se in~si -- cu -- ra par -- te m'ac -- ca -- de -- va 
+    Fi -- nir de la mia vi -- ta l'ul -- ti -- ma~o -- ra,
     Lie -- to~e con -- ten -- to~e for -- tu -- na -- to~a pie -- no
     Mor -- to sa -- rei, 
     Lie -- to~e con -- ten -- to~e for -- tu -- na -- to~a pie -- no
@@ -152,8 +152,8 @@ bassoLyricsVIII = \lyricmode {
     \ijLyrics
     Mor -- to sa -- rei, 
     \normalLyrics
-        poi ch’io vi mo -- ro~in se -- no, 
-        poi ch’io vi mo -- ro~in se -- no.
+        poi ch'io vi mo -- ro~in se -- no, 
+        poi ch'io vi mo -- ro~in se -- no.
 }
 
 cantoVIIIincipitVoice = <<
