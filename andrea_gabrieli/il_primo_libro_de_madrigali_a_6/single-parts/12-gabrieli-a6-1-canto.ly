@@ -8,39 +8,40 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2023-09-18"
-    originallyset = "2023-09-18"
+    lastupdated = "2024-08-12"
+    originallyset = "2024-08-12"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Goda or beato il Po"
-    subtitle = "Prima parte"
-    instrument = "Goda or beato il Po: Prima parte (canto)"
+    title = "Non ti sarò signor"
+    subtitle = "Seconda parte"
+    subsubtitle = ""
+    instrument = "Non ti sarò signor: Seconda parte (canto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "goda_or_beato_il_po"
+    shorttitle = "non_ti_saro_signor"
     shortcomp = "gabrieli"
 
     % Things that change per part:
     partname = "Canto (part 1 of 6)"
-    instrument = "Goda or beato il Po: Prima parte (canto)"
+    instrument = "Non ti sarò signor: Seconda parte (canto)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/28-gabrieli-a6-madrigal.ly"
+\include "../parts/12-gabrieli-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "28-gabrieli--goda_or_beato_il_po-prima_parte"
+    \bookOutputName "12-gabrieli--non_ti_saro_signor-seconda_parte"
     \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \cantoXXVIII
+            \cantoXII
         >>
-                \addlyrics { \cantoLyricsXXVIII }
+                \addlyrics { \cantoLyricsXII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

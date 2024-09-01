@@ -13,49 +13,49 @@
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Goda or beato il Po"
-    subtitle = "Prima parte"
-    instrument = "Goda or beato il Po: Prima parte (alto)"
+    title = "Questi come del ciel"
+    subtitle = "Seconda parte"
+    instrument = "Questi come del ciel: Seconda parte (alto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "goda_or_beato_il_po"
+    shorttitle = "questi_come_del_ciel"
     shortcomp = "gabrieli"
 
     % Things that change per part:
     partname = "Alto (part 3 of 6)"
-    instrument = "Goda or beato il Po: Prima parte (alto)"
+    instrument = "Questi come del ciel: Seconda parte (alto)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/28-gabrieli-a6-madrigal.ly"
+\include "../parts/29-gabrieli-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "28-gabrieli--goda_or_beato_il_po-prima_parte"
+    \bookOutputName "29-gabrieli--questi_come_del_ciel-seconda_parte"
     \bookOutputSuffix "--3-alto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \altoXXVIII
+            \altoXXIX
         >>
-                \addlyrics { \altoLyricsXXVIII }
+                \addlyrics { \altoLyricsXXIX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "28-gabrieli--goda_or_beato_il_po-prima_parte"
+    \bookOutputName "29-gabrieli--questi_come_del_ciel-seconda_parte"
     \bookOutputSuffix "--3-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altoXXVIII
+            \altoXXIX
         >>
-                \addlyrics { \altoLyricsXXVIII }
+                \addlyrics { \altoLyricsXXIX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

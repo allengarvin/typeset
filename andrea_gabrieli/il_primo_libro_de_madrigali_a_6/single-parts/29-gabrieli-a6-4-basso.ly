@@ -13,34 +13,34 @@
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Goda or beato il Po"
-    subtitle = "Prima parte"
-    instrument = "Goda or beato il Po: Prima parte (canto)"
+    title = "Questi come del ciel"
+    subtitle = "Seconda parte"
+    instrument = "Questi come del ciel: Seconda parte (basso)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "goda_or_beato_il_po"
+    shorttitle = "questi_come_del_ciel"
     shortcomp = "gabrieli"
 
     % Things that change per part:
-    partname = "Canto (part 1 of 6)"
-    instrument = "Goda or beato il Po: Prima parte (canto)"
+    partname = "Basso (part 6 of 6)"
+    instrument = "Questi come del ciel: Seconda parte (basso)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/28-gabrieli-a6-madrigal.ly"
+\include "../parts/29-gabrieli-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "28-gabrieli--goda_or_beato_il_po-prima_parte"
-    \bookOutputSuffix "--1-canto--tr_clef"
+    \bookOutputName "29-gabrieli--questi_come_del_ciel-seconda_parte"
+    \bookOutputSuffix "--6-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "bass"
             \global 
-            \cantoXXVIII
+            \bassoXXIX
         >>
-                \addlyrics { \cantoLyricsXXVIII }
+                \addlyrics { \bassoLyricsXXIX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

@@ -1,6 +1,7 @@
 \version "2.22.1"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -p madrigal -t "Quando nel cor m'entrasti" -l italian -v -s 17 -m 88 21-gabrieli-a6-0-score.ly canto:t quinto:t alto:ta tenore:8a sesto:8a basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,39 +9,41 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2023-09-18"
-    originallyset = "2023-09-18"
+    lastupdated = "2024-08-14"
+    originallyset = "2024-08-14"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Goda or beato il Po"
-    subtitle = "Prima parte"
-    instrument = "Goda or beato il Po: Prima parte (quinto)"
+    title = "Quando nel cor m'entrasti"
+    subtitle = ""
+    subsubtitle = ""
+    instrument = "Quando nel cor m'entrasti:  (quinto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "goda_or_beato_il_po"
+    shorttitle = "quando_nel_cor_mentrasti"
     shortcomp = "gabrieli"
+    folio = "Girolamo Molin (1500-1569)"
 
     % Things that change per part:
     partname = "Quinto (part 2 of 6)"
-    instrument = "Goda or beato il Po: Prima parte (quinto)"
+    instrument = "Quando nel cor m'entrasti:  (quinto)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/28-gabrieli-a6-madrigal.ly"
+\include "../parts/21-gabrieli-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "28-gabrieli--goda_or_beato_il_po-prima_parte"
+    \bookOutputName "21-gabrieli--quando_nel_cor_mentrasti-"
     \bookOutputSuffix "--2-quinto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \quintoXXVIII
+            \quintoXXI
         >>
-                \addlyrics { \quintoLyricsXXVIII }
+                \addlyrics { \quintoLyricsXXI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -6,134 +6,115 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.5)
+#(set-global-staff-size 17.0)
 
 \header {
+    lastupdated = "2023-09-18"
+    originallyset = "2023-09-18"
+    flats = 0
+    final = "d"
+    \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Chi chi li chi"
-    instrument = "Chi chi li chi (score)"
+    title = "Goda or beato il Po"
+    subtitle = "Prima parte"
+    instrument = "Goda or beato il Po: Prima parte (score)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "goda_or_beato_il_po"
+    shortcomp = "gabrieli"
+    categories = "[madrigal]"
+    motifs = "[wedding,po]"
     needtranslation = #'t
-    language = "italian"
 
     % Unchanging:
-    originallyset = "2013-12-19"
-    lastupdated = "2013-12-19"
-    flats = 1
-    final = "f"
-    shorttitle = "chi_chi_li_chi"
-    categories = "[madrigal]"
-    motifs = "[bagpipe]"
-    \include "include/distribution-header.ly"
+    language = "italian"
+    poeticform = "madrigal"
     tagline = #'f
 }
 
 \include "../parts/28-gabrieli-a6-madrigal.ly"
-    
+
 \book {
-    \bookOutputName "28-gabrieli--chi_chi_li_chi"
+    \bookOutputName "28-gabrieli--goda_or_beato_il_po-prima_parte"
     \bookOutputSuffix "--0-score"
     \score {
-        \new ChoirStaff = choirStaff \with {
-            \override StaffGrouper.staff-staff-spacing.padding = #6
-        } <<
-            \new ChoirStaff = choirStaff <<
-                \new Voice << 
+         <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.0
+            } <<
+                \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXXVIIIincipitVoice
-                    \clef treble 
-                    \global 
-                    \cantoXXVIII
-                >>
-                \addlyrics { \cantoLyricsXXVIII }
-                \new Voice << 
-                    \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXXVIIIincipitVoice
+                    \incipit \cantoXXVIIIIIincipitVoice
                     \clef "treble"
-                    \global 
-                    \quintoXXVIII
+                    \global
+                    \cantoXXVIIIII
                 >>
-                \addlyrics { \quintoLyricsXXVIII }
-                \new Voice << 
+             \addlyrics { \cantoLyricsXXVIIIII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quinto"
+                    \incipit \quintoXXVIIIIIincipitVoice
+                    \clef "treble"
+                    \global
+                    \quintoXXVIIIII
+                >>
+             \addlyrics { \quintoLyricsXXVIIIII }
+                \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXXVIIIincipitVoice
-                    \clef "treble_8"
-                    \global 
-                    \altoXXVIII
+                    \incipit \altoXXVIIIIIincipitVoice
+                    \clef "treble"
+                    \global
+                    \altoXXVIIIII
                 >>
-                \addlyrics { \altoLyricsXXVIII }
-                \new Voice << 
+             \addlyrics { \altoLyricsXXVIIIII }
+                \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXXVIIIincipitVoice
-                    \clef "treble_8"
-                    \global 
-                    \tenoreXXVIII
+                    \incipit \tenoreXXVIIIIIincipitVoice
+                    \clef "treble"
+                    \global
+                    \tenoreXXVIIIII
                 >>
-                \addlyrics { \tenoreLyricsXXVIII }
-                \new Voice << 
+             \addlyrics { \tenoreLyricsXXVIIIII }
+                \new Voice <<
                     \set Staff.instrumentName = #"Sesto"
-                    \incipit \sestoXXVIIIincipitVoice
+                    \incipit \sestoXXVIIIIIincipitVoice
                     \clef "treble_8"
-                    \global 
-                    \sestoXXVIII
+                    \global
+                    \sestoXXVIIIII
                 >>
-                \addlyrics { \sestoLyricsXXVIII }
-                \new Voice << 
+             \addlyrics { \sestoLyricsXXVIIIII }
+                \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXXVIIIincipitVoice
+                    \incipit \bassoXXVIIIIIincipitVoice
                     \clef "bass"
-                    \global 
-                    \bassoXXVIII
+                    \global
+                    \bassoXXVIIIII
                 >>
-                \addlyrics { \bassoLyricsXXVIII }
-            >>
-        >>
+             \addlyrics { \bassoLyricsXXVIIIII }
+             >>
+         >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 58 1)
+                tempoWholesPerMinute = #(ly:make-moment 92 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Chi chi li chi! }
-                \line { Cu cu ru cu! }
-                \line { U scontienta, }
-                \line { U beschina, }
-                \line { U sportunata me Lucia! }
-                \line { Non sienta Martina galla cantara? }
-                \line { Lassa canta, possa clepare! }
-                \line { Porca te piscia, sia cicata! }
-                \line { Ia dormuta, tu scitata. }
-                \line { Ba con dia, non bo più per namolata. }
-                \line { Tutta notte tu dormuta }
-                \line { Mai a me tu basciata }
-                \line { Cu cu ru cu!  }
-                \line { Che papa lasagna }
-                \line { Metter’ uccelli entr’agaiola }
-                \line { Cu cu ru cu!  }
-                \line { Leva da loco, piglia zampogna }
-                \line { Va sonando, per chissa cantuna. }
-                \line { Lirum li! }
-                \line { Lassa ca rumpa canella }
-                \line { Lassa Martina, }
-                \line { lassa Lucia! }
-                \line { U madonna, a ti cilum barbuni }
-                \line { U macera ca tu tuni, }
-                \line { Sona, sona, sona e non gli dare,  }
-                \line { Lirum li! }
-                \line { La mogliere del peccoraro: }
-                \line { Sette peccore a no danaro: }
-                \line { Se ce fusse Caroso mio }
-                \line { Cinco peccore a no carlino: }
-                \line { Auza la gamba, madonna Lucia }
-                \line { Stiendi la mano, piglia zampogna, }
-                \line { Sauta no poco con mastro Martino. }
-                \line { Lirum, lirum, lirum, lirum li! }
+                \line { Goda or beato il Po, godo il Metauro, }
+                \line { spargan l'arene d'or, d'argento l'onde, }
+                \line { ridan tra l'erbe i fiori e per le sponde }
+                \line { cresca in premii d'onor la palma e'l lauro. }
+                \line { Ecco l'alma Lucrezia, ecco il thesauro }
+                \line { d'ogni virtù che'l ciel più larg'infonde }
+                \line { che col gran sposo suo luce diffonde, }
+                \line { tal ché per lor già torn'il secol d'auro. }
             }
+%           \column {
+%               % translation orig date:
+%               % translation updated:
+%           }
         }
     }
 }
-

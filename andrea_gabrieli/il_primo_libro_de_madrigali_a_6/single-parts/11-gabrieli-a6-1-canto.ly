@@ -8,39 +8,41 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2023-09-18"
-    originallyset = "2023-09-18"
+    lastupdated = "2024-08-12"
+    originallyset = "2024-08-12"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Goda or beato il Po"
+    title = "Con che lusinghe Amor"
     subtitle = "Prima parte"
-    instrument = "Goda or beato il Po: Prima parte (canto)"
+    subsubtitle = ""
+    instrument = "Con che lusinghe Amor: Prima parte (canto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "goda_or_beato_il_po"
+    shorttitle = "con_che_lusinghe_amor"
     shortcomp = "gabrieli"
+    folio = "Orsatto Giustinian (1538-1603)"
 
     % Things that change per part:
     partname = "Canto (part 1 of 6)"
-    instrument = "Goda or beato il Po: Prima parte (canto)"
+    instrument = "Con che lusinghe Amor: Prima parte (canto)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/28-gabrieli-a6-madrigal.ly"
+\include "../parts/11-gabrieli-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "28-gabrieli--goda_or_beato_il_po-prima_parte"
+    \bookOutputName "11-gabrieli--con_che_lusinghe_amor-prima_parte"
     \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \cantoXXVIII
+            \cantoXI
         >>
-                \addlyrics { \cantoLyricsXXVIII }
+                \addlyrics { \cantoLyricsXI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
