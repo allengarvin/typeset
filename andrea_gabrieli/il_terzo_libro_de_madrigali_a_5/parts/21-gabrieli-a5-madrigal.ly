@@ -122,9 +122,8 @@ altoLyricsXXI = \lyricmode {
     che fa -- rian gir i mon -- ti e star i fiu -- mi,
         e star i fiu -- mi,
     \ijLyrics
-        e star i fiu -- mi,
-    \normalLyrics
         e star __ i fiu -- mi.
+    \normalLyrics
 }
 
 tenoreXXIincipit = \relative c' {
@@ -204,7 +203,6 @@ bassoXXIincipit = \relative c' {
 
 % basso: checked against source
 bassoXXI = \relative c' {
-    \clef varbaritone
     \key c \major
     \fourTwoCommonTime
 
