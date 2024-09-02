@@ -22,7 +22,7 @@
     shorttitle = "ahime_tal_fu_damore"
     shortcomp = "gabrieli"
     categories = "[madrigal]"
-    motifs = "[amore,longing,separation]"
+    motifs = "[amore,longing,separation,trap,snare]"
     needtranslation = #'f
     folio = "Vincenzo Quirino (1478-1514)"
 
@@ -106,13 +106,14 @@
             }
            \column {
                % translation orig date: 2023-08-18
-               % translation updated:
+               % translation updated: 2024-08-28
+                % birdlime: sticky substance smeared on branches to catch birds
                 \line { Alas! Such was Love's bait and hook, }
                 \line { the flame and the birdlime, the darts, the snare, }
                 \line { that now I nourish on sorrow, and I fear, and I yearn, }
                 \line { in doubt of myself; burning, I freeze; }
-                \line { I long to see the one I always love, }
-                \line { and fear to see her not, thus I am undone, }
+                \line { I long to see she whom I always love, }
+                \line { and fear that to see her not, I am thus undone, }
                 \line { thus I am consumed, and deprived from afar, }
                 \line { because all my hope turns to naught. }
                 \line { \hspace #10 \italic { translation by editor } }

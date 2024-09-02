@@ -25,6 +25,8 @@
     final = "a"
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort]"
+    poeticform = "madrigal"
+    rhyme = "AabBcCdDEe"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

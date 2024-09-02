@@ -100,17 +100,17 @@
         \fill-line {
             \column {
                 \line { La bella pargoletta, }
-                \line { Che ancor non sente Amore }
-                \line { Nè pur noto ha per fama il suo valore, }
-                \line { Co' begli occhi saetta, }
-                \line { E co'l leggiadro riso, }
-                \line { Nè s'accorge, che l'armi ha nel bel viso. }
+                \line { che ancor non sente Amore }
+                \line { né pur noto ha per fama il suo valore, }
+                \line { co' begli occhi saetta, }
+                \line { e co'l leggiadro riso, }
+                \line { né s'accorge, che l'armi ha nel bel viso. }
                 \line { Qual colpa ha del morire }
-                \line { Della traffitta gente, }
-                \line { Se non sa di ferire? }
+                \line { della traffitta gente, }
+                \line { se non sa di ferire? }
                 \line { O bellezza omicida, ed innocente! }
                 \line { Tempo è, c'homai ti mostri }
-                \line { Amor nelle tue piaghe i dolor nostri. }
+                \line { amor nelle tue piaghe i dolor nostri. }
             }
             \column {
                 \line { The girl who in her youth's first flower }

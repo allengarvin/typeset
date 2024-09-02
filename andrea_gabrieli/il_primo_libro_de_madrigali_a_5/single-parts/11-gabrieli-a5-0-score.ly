@@ -6,12 +6,12 @@
 \include "../include/macros.ly"
 \include "../include/scheme.ly"
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
     title = "O beltà rara, O santi modi adorni"
-    instrument = "O beltà rara(score)"
+    instrument = "O beltà rara (score)"
     needtranslation = #'f
     language = "italian"
     folio = "Luigi Alamanni (1495-1556)"
@@ -23,6 +23,8 @@
     final = "e"
     shorttitle = "o_belta_rara"
     categories = "[madrigal]"
+    rhyme = "AbbCDEeF"
+    poeticform = "madrigal"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -25,6 +25,7 @@
     motifs = "[amore,death]"
     needtranslation = #'t
     folio = "Luigi Cassola (1474-1544)"
+    rhyme = "aBA CdEDEFf"
 
     % Unchanging:
     language = "italian"

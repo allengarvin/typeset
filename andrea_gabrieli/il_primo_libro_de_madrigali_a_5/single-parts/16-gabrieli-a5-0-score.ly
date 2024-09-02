@@ -26,6 +26,9 @@
     flats = 1
     final = "f"
     categories = "[madrigal]"
+    motifs = "[aurora,dawn]"
+    rhyme = "ABABABCC"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

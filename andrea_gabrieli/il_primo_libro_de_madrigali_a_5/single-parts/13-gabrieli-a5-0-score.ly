@@ -23,6 +23,7 @@
     flats = 0
     final = "a"
     categories = "[madrigal]"
+    rhyme = "ABCDEFGH"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,13 +92,13 @@
         \fill-line {
             \column {
                 \line { Aminta mio gentil, che sì cortese }
-                \line { Vidi in quel giorno e tal di gratia pieno, }
-                \line { Che'l primo sguardo non sostenne a pena }
-                \line { L'alma che'n voi d'amor tutta arse ed alse; }
-                \line { Deh, quei begli occhi a me volgete alquanto, }
-                \line { Gli occhi sopra'l mortal corso sereni, }
-                \line { Ché scritto nel mio volto e in mezzo il core }
-                \line { Vedrete il nome vostro unico e solo. }
+                \line { vidi in quel giorno e tal di grazia pieno, }
+                \line { che'l primo sguardo non sostenne a pena }
+                \line { l'alma che'n voi d'amor tutta arse ed alse; }
+                \line { deh, quei begli occhi a me volgete alquanto, }
+                \line { gli occhi sopra'l mortal corso sereni, }
+                \line { ché scritto nel mio volto e in mezzo il core }
+                \line { vedrete il nome vostro unico e solo. }
             }
         }
     }

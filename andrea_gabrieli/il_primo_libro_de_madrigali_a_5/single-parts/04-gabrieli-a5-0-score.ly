@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "due_rose_fresche"
     categories = "[madrigal]"
+    poeticform = "sonnet"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -102,7 +102,7 @@
             \column {
                 \line { Sonno diletto e caro }
                 \line { Che alla mia Donna in sen mi guidi e scorgi, }
-                \line { Perchè sì tosto, ohimè, lasso ten vai }
+                \line { Perché sì tosto, ohimè, lasso ten vai }
                 \line { Poi che a questi occhi è sì il veggiar amaro? }
                 \line { Torna, deh torna, o dolce sonno e mai }
                 \line { Non mi lasciar che un tanto ben mi porgi; }

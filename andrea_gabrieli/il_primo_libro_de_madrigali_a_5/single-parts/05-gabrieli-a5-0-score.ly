@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "non_vede_un_simil_par"
     categories = "[madrigal]"
+    poeticform = "sonnet"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

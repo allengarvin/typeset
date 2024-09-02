@@ -19,7 +19,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "come_vuoi_tu_chio_viva"
     shortcomp = "gabrieli"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
+    motifs = "[morte,amore]"
     poeticform = "madrigal"
     flats = 1
     final = "g"
