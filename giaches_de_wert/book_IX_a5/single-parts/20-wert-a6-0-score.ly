@@ -22,6 +22,7 @@
     flats = 1
     final = "g"
     shorttitle = "mesola_il_po_da_lato"
+    poeticform = "madrigal"
     categories = "[madrigal]"
     motifs = "[po,sea]"
     \include "include/distribution-header.ly"

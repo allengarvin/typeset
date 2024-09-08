@@ -1,4 +1,5 @@
 \version "2.22.1"
+    folio = "Angelo Grillo (as Livio Celiano) (1557-1629)"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
@@ -19,6 +20,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "ut_re_me_fa_so_la"
     shortcomp = "piccioni"
+    folio = "Angelo Grillo (as Livio Celiano) (1557-1629)"
     composer = "Giovanni Piccioni (1549-1619)"
 
     % Things that change per part:

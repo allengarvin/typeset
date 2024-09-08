@@ -12,7 +12,7 @@
 \header {
     % Things that change per piece:
     title = "Con voi giocando Amor"
-    folio = "Anonymous poet"
+    folio = "Giovan Battista Nicolucci, detto il Pigna (1529-1575)"
 
     % Things that change per part:
     partname = "Basso (part 5 of 5)"

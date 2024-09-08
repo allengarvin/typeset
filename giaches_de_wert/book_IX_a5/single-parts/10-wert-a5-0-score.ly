@@ -23,6 +23,7 @@
     flats = 1
     final = "c"
     shorttitle = "padre_del_ciel"
+    poeticform = "sonnet"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

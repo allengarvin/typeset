@@ -23,6 +23,7 @@
     flats = 1
     final = "f"
     shorttitle = "e_se_di_vero_amor"
+    poeticform = "sonnet"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

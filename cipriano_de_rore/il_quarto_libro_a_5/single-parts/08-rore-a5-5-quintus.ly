@@ -11,18 +11,18 @@
 
 \header {
     % Things that change per piece:
-    title = "Quando signor lasciate entro a le rive"
+    title = "Quando signor lasciaste entro a le rive"
     subtitle = "Prima parte"
     folio = "Giovanni Battista Giraldi Cinzio (1504-1573)"
 
     % Things that change per part:
     partname = "Quintus (part 4 of 5)"
-    instrument = "Quando signor lasciate (quinto)"
+    instrument = "Quando signor lasciaste (quinto)"
 
     % Unchanging:
     originallyset = "2015-08-08"
     lastupdated = "2015-08-08"
-    shorttitle = "quando_signor_lasciate"
+    shorttitle = "quando_signor_lasciaste"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -30,7 +30,7 @@
 \include "../parts/08-rore-a5-madrigal.ly"
     
 \book {
-    \bookOutputName "08-rore--quando_signor_lasciate"
+    \bookOutputName "08-rore--quando_signor_lasciaste"
     \bookOutputSuffix "--4-quinto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -47,7 +47,7 @@
 #(set-global-staff-size 18.3)
 
 \book {
-    \bookOutputName "08-rore--quando_signor_lasciate"
+    \bookOutputName "08-rore--quando_signor_lasciaste"
     \bookOutputSuffix "--4-quinto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

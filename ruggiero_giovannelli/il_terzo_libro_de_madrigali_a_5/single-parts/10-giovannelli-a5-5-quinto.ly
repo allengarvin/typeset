@@ -19,6 +19,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "ut_re_mi_fa_sol_la"
     shortcomp = "giovannelli"
+    folio = "Angelo Grillo (as Livio Celiano) (1557-1629)"
 
     % Things that change per part:
     partname = "Quinto (part 4 of 5)"

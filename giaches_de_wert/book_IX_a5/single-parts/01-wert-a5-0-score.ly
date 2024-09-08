@@ -22,7 +22,10 @@
     flats = 1
     final = "f"
     shorttitle = "or_si_rallegri_il_cielo"
+    rhyme = "abBcCDdeE"
     categories = "[madrigal]"
+    motifs = "[mantova]"
+    poeticform = "madrigal"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -93,9 +96,9 @@
                 \line { ch'avete voi di lei lo scettro e'l manto, }
                 \line { voi che vincendo andate, }
                 \line { il mal col bene e col saper l'etate. }
-                \line { Cosi la mente Astrea vi regga, }
-                \line { e'l core Vi tenga aperto amore, }
-                \line { e la corona d'oro, }
+                \line { Così la mente Astrea vi regga e'l core, }
+                \line { vi tenga aperto amore, }
+                \line { e la corona d'oro }
                 \line { d'oliva ornata sia sempre e d'alloro.  }
             }
         }

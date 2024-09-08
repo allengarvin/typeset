@@ -21,7 +21,9 @@
     flats = 1
     final = "g"
     poeticform = "madrigal"
+    repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F242110000010101_000000256900C"
     rhyme = "ABbccaA"
+    motifs = "[love,suffering,joy]"
     shorttitle = "rallegrati_mio_cor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
@@ -91,13 +93,14 @@
     \markup {
         \fill-line {
             \column {
+                % italian checked against repim 2024-08-24
                 \line { Rallegrati mio cor, ch'ogni dolore, }
                 \line { che per donna hai patito in gioia è volto }
                 \line { e al fin sei stato accolto }
                 \line { nel sen della tua Diva }
                 \line { ch'or d'ogni dubbio è priva, }
-                \line { ch'avea del nostro amore. }
-                \line { Onde vivrem beati a tutte l'ore. }
+                \line { ch'avea del nostro amore: }
+                \line { onde vivrem beati a tutte l'ore. }
             }
             \column {
                 % translation: 2023-05-06
@@ -106,8 +109,8 @@
                 \line { and at last you have been welcomed }
                 \line { into the bosom of your Goddess }
                 \line { who now is free from every doubt }
-                \line { that she had of our love, }
-                \line { Thus we will live blessed forever. }
+                \line { that she had of our love: }
+                \line { thus we will live blessed forever. }
                 \line { \hspace #10 \italic { translation by editor } }
             }
         }

@@ -21,6 +21,8 @@
     originallyset = "2011-09-12"
     lastupdated = "2011-09-12"
     shorttitle = "non_e_si_denso_velo"
+    folio = "Giovan Battista Nicolucci, detto il Pigna (1529-1575)"
+    repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F173200000010101_000000256900C"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

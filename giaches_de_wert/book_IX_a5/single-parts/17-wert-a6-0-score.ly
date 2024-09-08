@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "quel_rosignol"
     categories = "[madrigal,animal]"
+    poeticform = "sonnet"
     motifs = "[nightingale,bird]"
     \include "include/distribution-header.ly"
     tagline = #'f

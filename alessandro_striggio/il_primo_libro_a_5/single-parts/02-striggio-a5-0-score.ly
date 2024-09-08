@@ -13,7 +13,7 @@
     title = "Degno che dotte istorie e colti carmi"
     subtitle = "Seconda parte"
     instrument = "Degno che dotte istorie (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous poet"
 

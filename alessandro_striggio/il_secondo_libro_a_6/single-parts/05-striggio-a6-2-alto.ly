@@ -1,0 +1,47 @@
+\version "2.22.1"
+\include "english.ly"
+
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    lastupdated = "2023-11-13"
+    originallyset = "2023-11-13"
+    \include "include/distribution-header.ly"
+ 
+    % Things that change per piece:
+    title = "Qual tu ti sia, qui vieni"
+    subtitle = ""
+    subsubtitle = ""
+    instrument = "Qual tu ti sia, qui vieni:  (alto)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "qual_tu_ti_sia_qui_vieni"
+    shortcomp = "striggio"
+
+    % Things that change per part:
+    partname = "Alto (part 2 of 6)"
+    instrument = "Qual tu ti sia, qui vieni:  (alto)"
+
+    % Unchanging:
+    tagline = #'f
+}
+
+\include "../parts/05-striggio-a6-madrigal.ly"
+
+\book {
+    \bookOutputName "05-striggio--qual_tu_ti_sia_qui_vieni-"
+    \bookOutputSuffix "--2-alto--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \altoV
+        >>
+                \addlyrics { \altoLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

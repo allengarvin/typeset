@@ -9,12 +9,12 @@
 
 \header {
     % Things that change per piece:
-    title = "Dissi à l'amata mia"
+    title = "Dissi a l'amata mia"
     folio = "G. B. Moscaglia"
 
     % Things that change per part:
     partname = "Tenore (part 3 of 4)"
-    instrument = "Dissi à l'amata mia (tenore)"
+    instrument = "Dissi a l'amata mia (tenore)"
 
     % Unchanging:
     lastupdated = "2012-12-23"

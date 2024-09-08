@@ -22,6 +22,7 @@
     flats = 0
     final = "a"
     shorttitle = "un_bacio_solo"
+    poeticform = "madrigal"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

@@ -22,8 +22,10 @@
     final = "d"
     shorttitle = "questi_odorati"
     poeticform = "madrigal"
-    rhyme = "aBacBDD"
+    rhyme = "aBacDEE"
+    repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F239690000010101_000000256900C"
     categories = "[madrigal,favorite]"
+    motifs = "[flowers,cupid,veil]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

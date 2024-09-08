@@ -15,7 +15,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "arse_cosi_per_voi"
     shortcomp = "striggio"
-    folio = "Anonymous poet"
+    folio = "Giulio Nuvoloni (died c.1567)"
 
     % Things that change per part:
     partname = "Tenore (part 3 of 5)"

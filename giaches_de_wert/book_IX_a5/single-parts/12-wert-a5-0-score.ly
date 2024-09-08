@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "mia_benigna_fortuna"
+    poeticform = "sestina"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

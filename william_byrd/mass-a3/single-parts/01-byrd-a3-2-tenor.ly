@@ -29,7 +29,7 @@
 \include "../parts/06-byrd-a3-agnus_dei.ly"
     
 \book {
-    \bookOutputName "01-mass_a_3"
+    \bookOutputName "01-byrd--mass_a_3"
     \bookOutputSuffix "--2-tenor--tr8_clef"
     \include "../include/paper-1-part.ly"
      \score {
@@ -52,6 +52,7 @@
         \addlyrics { \tenorLyricsII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \pageBreak
     \score {
         \header { piece = "Credo" }
         \new Voice << 
@@ -72,6 +73,7 @@
         \addlyrics { \tenorLyricsIV }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \pageBreak
     \score {
         \header { piece = "Benedictus" }
         \new Voice << 
@@ -95,7 +97,7 @@
 }
 
 \book {
-    \bookOutputName "01-mass_a_3"
+    \bookOutputName "01-byrd--mass_a_3"
     \bookOutputSuffix "--2-tenor--al_clef"
     \include "../include/paper-1-part.ly"
      \score {
@@ -118,6 +120,7 @@
         \addlyrics { \tenorLyricsII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \pageBreak
     \score {
         \header { piece = "Credo" }
         \new Voice << 
@@ -138,6 +141,7 @@
         \addlyrics { \tenorLyricsIV }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \pageBreak
     \score {
         \header { piece = "Benedictus" }
         \new Voice << 

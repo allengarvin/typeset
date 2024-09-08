@@ -91,12 +91,12 @@
         \fill-line {
             \column {
                 \line { Era la mia virtù quasi smarrita }
-                \line { Quando con la sua man Amor istesso }
-                \line { Fece i miei labri a quei bei labri appresso, }
-                \line { E là subito corse l'anima }
-                \line { E stette in forse, }
-                \line { O di tornar, o pur da me partire, }
-                \line { Poi mi sentì morire.  }
+                \line { quando con la sua man Amor istesso }
+                \line { fece i miei labri a quei bei labri appresso, }
+                \line { e là subito corse l'anima }
+                \line { e stette in forse, }
+                \line { o di tornar, o pur da me partire, }
+                \line { poi mi sentì morire.  }
             }
         }
     }

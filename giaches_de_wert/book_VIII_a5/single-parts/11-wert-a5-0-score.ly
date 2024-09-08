@@ -23,6 +23,8 @@
     poeticform = "madrigal"
     rhyme = "aBabccdDEEFF"
     shorttitle = "non_e_si_denso_velo"
+    folio = "Giovan Battista Nicolucci, detto il Pigna (1529-1575)"
+
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -92,17 +94,17 @@
        \fill-line {
            \column {
                 \line { Non è si denso velo }
-                \line { Se fosser monti sopra mont' imposti }
-                \line { Ne si remoto cielo }
-                \line { Che possa far nascosti }
-                \line { Et lontan quei bei lumi }
-                \line { Che ne mari ne fiumi }
-                \line { Ne paesi longiqui }
-                \line { Faran giamai che non mi sian propinqui. }
-                \line { Ii gli ho si affissi a gli occhi }
-                \line { Ch'a ogni sguardo ch'io scocchi }
-                \line { Parmi che quel splendor mi fenda il viso }
-                \line { Ch'in vita mi mantien poi che m'hà ucciso. }
+                \line { se fosser monti sopra monti imposti, }
+                \line { ne si remoto cielo }
+                \line { che possa far nascosti }
+                \line { e lontan quei bei lumi, }
+                \line { che ne mari ne fiumi }
+                \line { ne paesi longiqui }
+                \line { faran giamai che non mi sian propinqui. }
+                \line { I' gli ho si affissi agli occhi }
+                \line { ch'a ogni sguardo ch'io scocchi }
+                \line { parmi che quel splendor mi fenda il viso, }
+                \line { ch'in vita mi mantien poi che m'ha ucciso. }
             }
 %            \column {
 %                \line { There is not so thick a veil }

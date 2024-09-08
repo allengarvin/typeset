@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "vago_augelletto"
     categories = "[madrigal]"
+    poeticform = "sonnet"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

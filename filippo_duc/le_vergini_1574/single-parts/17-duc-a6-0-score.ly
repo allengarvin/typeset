@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "vergine santa che con chiaro esempio"
+    title = "Vergine santa che con chiaro esempio"
     subtitle = ""
     instrument = "vergine santa che con chiaro esempio:  (score)"
     headerspace = \markup { \vspace #2 }
@@ -101,7 +101,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { vergine santa che con chiaro esempio }
+                \line { Vergine santa che con chiaro esempio }
                 \line { qua giù vivesti e'l gran figliuol di Dio }
                 \line { nudristi con sì dolce e con sì pio  }
                 \line { affetto, e poi quel duro acerbo scempio }

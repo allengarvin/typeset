@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Con voi giocando Amor"
-    folio = "Anonymous poet"
+    folio = "Giovan Battista Nicolucci, detto il Pigna (1529-1575)"
     instrument = "Con voi giocando Amor (score)"
     needtranslation = #'t
     language = "italian"
@@ -96,7 +96,7 @@
                 \line { Egli, perché s’arretra }
                 \line { per poca offesa alle più gravi umile, }
                 \line { scoperto il furto, di ch’al fin s’avvide, }
-                \line { iròssi, e non fu parco }
+                \line { irossi, e non fu parco }
                 \line { a por la mano all’arco }
                 \line { per ferirvi. Ma vide le saette  }
                 \line { dal fianco suo divise, }

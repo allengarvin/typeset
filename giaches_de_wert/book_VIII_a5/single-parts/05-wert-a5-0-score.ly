@@ -11,7 +11,6 @@
 \header {
     % Things that change per piece:
     title = "Fra le dorate chiome"
-    folio = "Anonymous"
     instrument = "Fra le dorate chiome (score)"
     needtranslation = #'f
     language = "italian"
@@ -24,7 +23,9 @@
     shorttitle = "fra_le_dorate_chiome"
     poeticform = "madrigal"
     categories = "[madrigal]"
+    motifs = "[hair,amore]"
     rhyme = "aBBacddcEE"
+    repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F106980000010101_000000256900C"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -93,15 +94,15 @@
         \fill-line {
             \column {
                 \line { Fra le dorate chiome }
-                \line { d’Amarilli gentil Amor tessea }
-                \line { lacci con che legar l’alme volea, }
-                \line { quando, ne dir so come, }
+                \line { d'Amarilli gentil Amor tessea }
+                \line { lacci con che legar l'alme volea, }
+                \line { quando, né dir so come, }
                 \line { stringerci si sentio }
-                \line { da’ crespi e bei capelli: }
+                \line { da' crespi e' bei capelli: }
                 \line { Onde sdegnoso a quelli }
                 \line { disse: O legame rio, }
-                \line { come dei tu legar agl’altri il core, }
-                \line { se leghi me, ch’io lego gl’altri Amore? }
+                \line { come dei tu legar agl'altri il core, }
+                \line { se leghi me, ch'io lego gl'altri Amore? }
             }
             \column {
                 % translation: 2023-05-06

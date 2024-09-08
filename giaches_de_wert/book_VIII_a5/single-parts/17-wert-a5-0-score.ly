@@ -11,7 +11,6 @@
 \header {
     % Things that change per piece:
     title = "Forsennata gridava"
-    folio = "Anonymous poet"
     instrument = "Forsennata gridava (score)"
     needtranslation = #'t
     language = "italian"
@@ -25,6 +24,7 @@
     poeticform = "ottava rima"
     rhyme = "ABABABCC"
     categories = "[madrigal,favorite]"
+    motifs = "[female-pov]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

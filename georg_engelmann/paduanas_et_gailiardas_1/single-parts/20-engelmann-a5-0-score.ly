@@ -21,6 +21,8 @@
     shorttitle = "galliarda_cabra"
     shortcomp = "engelmann"
     categories = "[]"
+    final = "c"
+    flats = 0
     motifs = "[]"
 
     % Unchanging:

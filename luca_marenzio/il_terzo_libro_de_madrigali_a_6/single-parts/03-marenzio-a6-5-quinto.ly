@@ -22,6 +22,7 @@
     originallyset = "2013-03--12"
     lastupdated = "2013-03--12"
     shorttitle = "son_presa_disse"
+    folio = "Pompeo Pace (fl.1560s)"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

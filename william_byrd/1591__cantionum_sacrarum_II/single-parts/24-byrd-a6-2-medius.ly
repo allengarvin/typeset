@@ -32,6 +32,21 @@
 
 \book {
     \bookOutputName "24-byrd--infelix_ego-"
+    \bookOutputSuffix "--2-medius--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \mediusXXIV
+        >>
+                \addlyrics { \mediusLyricsXXIV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "24-byrd--infelix_ego-"
     \bookOutputSuffix "--2-medius--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {

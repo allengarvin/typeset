@@ -8,9 +8,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Dissi à l'amata mia"
+    title = "Dissi a l'amata mia"
     folio = "G. B. Moscaglia"
-    instrument = "Dissi à l'amata mia (score)"
+    instrument = "Dissi a l'amata mia (score)"
     needtranslation = #'f
 
     % Unchanging:
@@ -88,14 +88,14 @@
                 \line { Sì, morirai, ma non per mio desio.” }
             }
             \column {
-                \line { I told my love, shining star }
-                \line { Who is stronger than any other light, }
-                \line { And to my heart draws }
-                \line { Flames, arrows and chains, }
-                \line { That every hour give me pains: }
-                \line { “Ah, I will die, my heart. }
-                \line { Yes, you will die, but not because of my desire.” }
-                \line { \hspace #15 Translation by James Gibb (CPDL license) }
+                \line { I said to my beloved, bright star }
+                \line { who [is] greater than any other light, }
+                \line { and [who] at my heart hurls }
+                \line { flames, darts, and chains, }
+                \line { that perpetually give me pain: }
+                \line { Alas, I will die, my heart. }
+                \line { Yes, you will die, but not by my desire. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

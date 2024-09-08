@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "nasce_la_pena_mia"
     categories = "[madrigal]"
+    motifs = "[pain,suffering,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

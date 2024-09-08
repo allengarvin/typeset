@@ -22,6 +22,7 @@
     flats = 1
     final = "g"
     shorttitle = "o_come_vaneggiate_donna"
+    poeticform = "madrigal"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

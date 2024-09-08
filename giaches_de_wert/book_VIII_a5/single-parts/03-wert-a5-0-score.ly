@@ -11,7 +11,6 @@
 \header {
     % Things that change per piece:
     title = "Sì come ai freschi"
-    folio = "Anonymous poet"
     instrument = "Sì come ai freschi (score)"
     needtranslation = #'t
     language = "italian"
@@ -23,7 +22,11 @@
     final = "g"
     poeticform = "madrigal"
     shorttitle = "si_come_ai_freschi"
+    repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV22640010"
+    folio = "Giovan Battista Nicolucci, detto il Pigna (1529-1575)"
+    rhyme = "ABBACcDdCDeE"
     categories = "[madrigal]"
+    motifs = "[amore,hand,dawn,fire,ash]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,18 +94,19 @@
     \markup {
         \fill-line {
             \column {
+                % checked with RePIM 2024-08-24
                 \line { Sì come ai freschi matutini rai }
-                \line { Rosa vermiglia in bianchi gigli splende }
-                \line { Così la vostra man quando si stende }
-                \line { Ai lumi dolci e gai, }
+                \line { rosa vermiglia in bianchi gigli splende, }
+                \line { così la vostra man quando si stende }
+                \line { ai lumi dolci e gai; }
                 \line { Se non che quella si disfiora e solve }
-                \line { Tosto ch'el sol si volve, }
-                \line { Ma la man vostra ha più vaghezza sempre }
-                \line { De l'amorose tempre, }
+                \line { tosto ch'il sol si volve, }
+                \line { ma la man vostra ha più vaghezza sempre }
+                \line { da l'amorose tempre, }
                 \line { Di que' begl'occhi ond'è il mio cor di polve. }
                 \line { Ben essi fan ch'ei si distrugg'e stempre }
-                \line { In foco tal che venga cenere }
-                \line { Pria ch'il foco in lui si spenga. }
+                \line { in foco tal che venga cenere }
+                \line { pria ch'il foco in lui si spenga. }
             }
         }
     }

@@ -21,6 +21,7 @@
     originallyset = "2011-09-12"
     lastupdated = "2011-09-12"
     shorttitle = "non_e_si_denso_velo"
+    folio = "Giovan Battista Nicolucci, detto il Pigna (1529-1575)"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

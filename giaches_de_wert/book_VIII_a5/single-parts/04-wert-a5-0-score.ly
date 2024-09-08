@@ -25,6 +25,7 @@
     rhyme = "ABABABCC"
     shorttitle = "vezzosi_augelli"
     categories = "[madrigal,animal,favorite]"
+    motifs = "[bird,birdsong,breeze,harmony,song]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

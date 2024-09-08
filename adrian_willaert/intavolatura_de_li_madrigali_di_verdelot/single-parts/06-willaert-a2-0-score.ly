@@ -93,6 +93,7 @@
             }
             \column {
                 % translation modified: 2023-08-25
+                % sommerso: drowning to drowned 2024-03-13
                 \line { Flee, flee, my heart! }
                 \line { Ungrateful and cruel Love! }
                 \line { As it is too great an error }
@@ -101,10 +102,10 @@
                 \line { Understand the wasted time }
                 \line { for a fiction so heaped with deceits! }
                 \line { Leave this servitude, leave these worries! }
-                \line { Stay no more, drowning }
+                \line { Stay no more, drowned }
                 \line { in jealosy, suspicions, resentments, and tears! }
                 \line { Because the fate of blind lovers }
-                \line { is in vain to repent, and to end in grief, }
+                \line { is to repent in vain, and to end in grief, }
                 \line { for it is too much an error }
                 \line { for a blind youth to make himself so great a god. }
                 \line { \hspace #10 \italic { translation by editor } } 

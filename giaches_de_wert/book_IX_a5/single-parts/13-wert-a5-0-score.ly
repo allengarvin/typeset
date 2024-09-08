@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "crudele_acerba_in_exorabil_morte"
+    poeticform = "sestina"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f

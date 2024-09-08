@@ -12,7 +12,6 @@
 \header {
     % Things that change per piece:
     title = "Forsennata gridava"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Quinto (part 3 of 5)"

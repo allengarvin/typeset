@@ -31,7 +31,7 @@
 \include "../parts/06-byrd-a3-agnus_dei.ly"
     
 \book {
-    \bookOutputName "01-mass_a_3"
+    \bookOutputName "01-byrd--mass_a_3"
     \bookOutputSuffix "--0-score"
     \score {
         \header { piece = "Kyrie" }

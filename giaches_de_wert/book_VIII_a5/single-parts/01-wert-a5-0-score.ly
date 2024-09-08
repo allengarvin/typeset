@@ -11,7 +11,10 @@
 \header {
     % Things that change per piece:
     title = "Io non son però morto"
+
+    % RePIM lists this as anonymous.
     folio = "Girolamo Romanino (c.1485-c.1566)"
+
     instrument = "Io non son però morto (score)"
     needtranslation = #'f
     final = "g"
@@ -23,10 +26,14 @@
     lastupdated = "2014-12-31"
     flats = 1
     final = "g"
+
     poeticform = "madrigal"
-    rhyme = "abcddcefe"
+    categories = "[madrigal,morte]"
+    motifs = "[morte,prison,life]"
+    rhyme = "abcddcefF"
+    repim = "https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/128560000010101_000000256900C"
+
     shorttitle = "io_non_son_pero_morto"
-    categories = "[madrigal]"
     \include "include/distribution-header.ly"
     tagline = #'f
     tags = "{5vv,italian,madrigal,mode g-1}"
@@ -95,6 +102,7 @@
     \markup {
         \fill-line {
             \column {
+                % italian checked against RePIM 2024-08-24
                 \line { Io non son però morto, }
                 \line { donna, come pensate, }
                 \line { perché più non m'amate; }
@@ -103,8 +111,7 @@
                 \line { da voi sendosi sciolta }
                 \line { si trova esser uscita }
                 \line { d'una prigion mortale, }
-                \line { E cangia in vita e in ben }
-                \line { la morte e'l male. }
+                \line { E cangia in vita e in ben la morte e'l male. }
             }
             \column {
                \line { Though I'm not dead, }
@@ -115,8 +122,7 @@
                \line { feeling itself released }
                \line { finds it has escaped }
                \line { from a mortal prison, }
-               \line { and transforms death and evil }
-               \line { into life and goodness. }
+               \line { and transforms death and evil into life and goodness. }
                \line { \hspace #10 \italic { translation by editor } } 
             }
         }

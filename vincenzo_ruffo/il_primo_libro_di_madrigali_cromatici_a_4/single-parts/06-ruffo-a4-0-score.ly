@@ -83,11 +83,11 @@
         \fill-line {
             \column {
                 \line { Fiere silvestre che per lati campi }
-                \line { vagando errate, e per acuti fassi, }
+                \line { vagando errate, e per acuti sassi, }
                 \line { udiste mai sì dolorose rime? }
-                \line { dite ‘l perdio, udisti in alcun giorno }
+                \line { ditel per Dio: Udisti in alcun giorno }
                 \line { o pur in questa over in altra valle }
-                \line { con sì caldi sospir sì longo pianto? }
+                \line { con sì caldi sospir sì lungo pianto? }
             }
         }
     }

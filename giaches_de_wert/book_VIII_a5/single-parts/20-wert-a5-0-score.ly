@@ -11,7 +11,6 @@
 \header {
     % Things that change per piece:
     title = "Vener, ch'un giorno avea"
-    folio = "Anonymous poet"
     instrument = "Vener, ch'un giorno avea (score)"
     needtranslation = #'t
     language = "italian"

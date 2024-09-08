@@ -9,7 +9,7 @@
 
 \header {
     % Things that change per piece:
-    title = "In nomine I"
+    title = "In nomine"
     subtitle = ""
     instrument = "In nomine I:  (treble)"
     headerspace = \markup { \vspace #2 }
@@ -24,7 +24,7 @@
     lastupdated = "2022-09-01"
     originallyset = "2022-09-01"
     \include "include/distribution-header.ly"
-    composer = "John Ward (1571-1638)"
+    composer = "John Ward (c.1589-1638)"
     tagline = #'f
 }
 

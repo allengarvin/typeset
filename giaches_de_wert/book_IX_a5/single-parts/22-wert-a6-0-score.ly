@@ -23,6 +23,7 @@
     originallyset = "2015-07-05"
     lastupdated = "2015-07-05"
     categories = "[madrigal]"
+    poeticform = "madrigal"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

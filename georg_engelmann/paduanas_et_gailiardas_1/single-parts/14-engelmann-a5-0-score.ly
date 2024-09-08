@@ -22,6 +22,8 @@
     shortcomp = "engelmann"
     categories = "[]"
     motifs = "[]"
+    final = "g"
+    flats = 1
 
     % Unchanging:
     language = "instrumental"

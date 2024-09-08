@@ -24,6 +24,9 @@
     final = "a"
     shorttitle = "i_dolci_colli"
     categories = "[madrigal]"
+    repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F118840001010101_000000233500"
+    poeticform = "sonnet"
+    motifs = "[hills]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -99,14 +102,15 @@
     \markup {
         \fill-line {
             \column {
+                % italian touched up (modernized) 2024-08-24
                 \line { I dolci colli ove io lasciai me stesso, }
-                \line { Partendo onde partir giàmai non posso, }
-                \line { Mi vanno innanzi et emmi ognor adosso }
-                \line { Quel caro peso ch'Amor m'à commesso. }
-                \line { Meco di me mi meraviglio spesso, }
-                \line { Ch'i' pur vo sempre et non son ancor mosso }
-                \line { Dal bel giogo più volte indarno scosso, }
-                \line { Ma com più me n'allungo, et più m'appresso, }
+                \line { partendo onde partir giàmai non posso, }
+                \line { mi vanno innanzi ed emmi ognor adosso }
+                \line { quel caro peso ch'Amor m'ha commesso. }
+                \line { meco di me mi meraviglio spesso, }
+                \line { Ch'i' pur vo sempre e non son ancor mosso }
+                \line { dal bel giogo più volte indarno scosso, }
+                \line { ma com più me n'allungo, e più m'appresso, }
             }
             \column {
                 \line { The sweet hills where I left myself, }

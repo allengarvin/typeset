@@ -20,7 +20,7 @@
     lastupdated = "2013-04-16"
     flats = 0
     final = "c"
-    categories = "[canzona]"
+    categories = "[canzona,favorite]"
     \include "include/distribution-header.ly"
     language = "instrumental"
     tagline = #'f

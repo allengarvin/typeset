@@ -12,7 +12,6 @@
 \header {
     % Things that change per piece:
     title = "Sì come ai freschi"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Quinto (part 2 of 5)"
@@ -22,6 +21,7 @@
     originallyset = "2014-11-29"
     lastupdated = "2014-11-29"
     shorttitle = "si_come_ai_freschi"
+    folio = "Giovan Battista Nicolucci, detto il Pigna (1529-1575)"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

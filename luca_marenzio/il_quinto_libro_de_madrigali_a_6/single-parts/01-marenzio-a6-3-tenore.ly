@@ -59,3 +59,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "01-marenzio--leggiadrissima_eterna_primavera-"
+    \bookOutputSuffix "--5-tenore--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \tenoreI
+        >>
+                \addlyrics { \tenoreLyricsI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

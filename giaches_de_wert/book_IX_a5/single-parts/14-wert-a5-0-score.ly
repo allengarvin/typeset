@@ -22,6 +22,7 @@
     flats = 0
     final = "d"
     shorttitle = "di_morte_gia_sentia"
+    poeticform = "madrigal"
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort]"
     \include "include/distribution-header.ly"
