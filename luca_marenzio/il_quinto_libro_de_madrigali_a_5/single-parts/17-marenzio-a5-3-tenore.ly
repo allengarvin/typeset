@@ -1,0 +1,64 @@
+\version "2.22.1"
+\include "english.ly"
+
+% Invocation: /usr/local/bin/generate-single.py -f "Jacopo Sannazaro (1458-1530)" -p sonnet -l italian -v -m 90 -s 15 -t "L'alto e nobil pensier" 17-marenzio-a5-0-score.ly canto:t quinto:ta alto:8a tenore:8a basso:b
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    lastupdated = "2024-09-08"
+    originallyset = "2024-09-08"
+    \include "include/distribution-header.ly"
+ 
+    % Things that change per piece:
+    title = "L'alto e nobil pensier"
+    subtitle = ""
+    subsubtitle = ""
+    instrument = "L'alto e nobil pensier:  (tenore)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "lalto_e_nobil_pensier"
+    shortcomp = "marenzio"
+    folio = "Jacopo Sannazaro (1458-1530)"
+
+    % Things that change per part:
+    partname = "Tenore (part 4 of 5)"
+    instrument = "L'alto e nobil pensier:  (tenore)"
+
+    % Unchanging:
+    tagline = #'f
+}
+
+\include "../parts/17-marenzio-a5-madrigal.ly"
+
+\book {
+    \bookOutputName "17-marenzio--lalto_e_nobil_pensier-"
+    \bookOutputSuffix "--4-tenore--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenoreXVII
+        >>
+                \addlyrics { \tenoreLyricsXVII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "17-marenzio--lalto_e_nobil_pensier-"
+    \bookOutputSuffix "--4-tenore--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenoreXVII
+        >>
+                \addlyrics { \tenoreLyricsXVII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
