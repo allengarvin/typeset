@@ -158,7 +158,7 @@ tenorL = \relative c {
 
     a2.( g4 | f e a1) f2 | 
          e \[ c1 \colorBr \melisma f2\colorBrBegin ~ f4 \] d\colorBrEnd d'1 c2
-        \melismaEnd | c\breve | R\breve*2 | r1 r2 c ~ | c b c d | e2. d4 d2 e~|
+        \melismaEnd | c\breve | R\breve*2 | r1 r2 c ~ | c b c d | e2. e4 d2 e~|
         e e, a1 | g\breve | r1 b | c2 a1 a2 | d, g1 f2 | e1
 
     a1 | b2.( c4 d1) | r2 a1 e2 | f1 e | r2 d1 d'2 ~ | d c b \[ e ~ |

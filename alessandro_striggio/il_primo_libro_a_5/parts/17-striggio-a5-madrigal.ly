@@ -47,7 +47,7 @@ cantoXVII = \relative c'' {
 }
 
 cantoLyricsXVII = \lyricmode {
-    Not -- te fe -- li -- ce, a -- ven -- tu -- ro -- sa~e bel -- la
+    Not -- te fe -- li -- ce, av -- ven -- tu -- ro -- sa~e bel -- la
     Che do -- po tan -- te pe -- ne,
     Che __ do -- po tan -- te pe -- ne e do -- lor tan -- ti,
     Do -- po sin -- gol -- ti~e __ pian -- ti,
@@ -110,7 +110,7 @@ altoXVII = \relative c'' {
 }
 
 altoLyricsXVII = \lyricmode {
-    Not -- te fe -- li -- ce, a -- ven -- tu -- ro -- sa~e __ bel -- la
+    Not -- te fe -- li -- ce, av -- ven -- tu -- ro -- sa~e __ bel -- la
     Che do -- po tan -- te pe -- ne,
     Che do -- po tan -- te pe -- ne e do -- lor tan -- ti,
     Do -- po __ sin -- gol -- ti~e pian -- ti,
@@ -167,7 +167,7 @@ tenoreXVII = \relative c' {
 }
 
 tenoreLyricsXVII = \lyricmode {
-    Not -- te fe -- li -- ce, a -- ven -- tu -- ro -- sa~e bel -- la
+    Not -- te fe -- li -- ce, av -- ven -- tu -- ro -- sa~e bel -- la
     Che do -- po tan -- te pe -- ne~e do -- lor tan -- ti,
         e do -- lor tan -- ti,
     Do -- po __ sin -- gol -- ti~e pian -- ti,
@@ -228,7 +228,7 @@ bassoXVII = \relative c {
 }
 
 bassoLyricsXVII = \lyricmode {
-    Not -- te fe -- li -- ce, a -- ven -- tu -- ro -- sa~e bel -- la
+    Not -- te fe -- li -- ce, av -- ven -- tu -- ro -- sa~e bel -- la
     Che do -- po tan -- te pe -- ne e do -- lor tan -- ti,
         e do -- lor tan -- ti,
     Do -- po __ sin -- gol -- ti~e pian -- ti,
@@ -285,7 +285,7 @@ quintoXVII = \relative c' {
 }
 
 quintoLyricsXVII = \lyricmode {
-    Not -- te fe -- li -- ce, a -- ven -- tu -- ro -- sa~e bel -- la
+    Not -- te fe -- li -- ce, av -- ven -- tu -- ro -- sa~e bel -- la
     Che __ do -- po tan -- te pe -- ne e do -- lor tan -- ti,
         e do -- lor tan -- ti,
     Do -- po sin -- gol -- ti~e pian -- ti,

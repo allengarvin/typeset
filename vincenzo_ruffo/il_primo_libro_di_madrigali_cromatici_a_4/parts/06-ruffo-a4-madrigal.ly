@@ -3,7 +3,7 @@
 % udiste mai sì dolorose rime?
 % dite ‘l perdio, udisti in alcun giorno
 % o pur in questa over in altra valle
-% con sì caldi sospir sì longo pianto?
+% con sì caldi sospir sì lungo pianto?
 
 % -- Jacopo Sannazaro, Arcadia, IV, lines 25-30
 
@@ -44,21 +44,21 @@ cantoVI = \relative c' {
 cantoLyricsVI = \lyricmode {
     Fie -- re sil -- ve -- stre che per la -- ti cam -- pi,
         che per la -- ti cam -- pi
-    Va -- gan -- do~er -- ra -- te e per a -- cu -- ti fas -- si
-        e per a -- cu -- ti fas -- si
+    Va -- gan -- do~er -- ra -- te e per a -- cu -- ti sas -- si
+        e per a -- cu -- ti sas -- si
     U -- di -- sti mai sì do -- lo -- ro -- se ri -- me,
         sì do -- lo -- ro -- se ri -- me,
         sì do -- lo -- ro -- se ri -- me,
-    Di -- te'l per -- dio,
+    Di -- tel per Dio,
     \ijLyrics
-    Di -- te'l per -- dio
+    Di -- tel per Dio
     \normalLyrics
         u -- di -- ste~in al -- cun gior -- no
     O pur in que -- sta~o -- ver in al -- tra val -- le
-    Con sì cal -- di so -- spir, so -- spir si __ lon -- go __ pian -- to,
-        sì lon -- go pian -- to,
-    Con sì cal -- di so -- spir, so -- spir sì lon -- go pian -- to,
-        sì lon -- go pian -- to.
+    Con sì cal -- di so -- spir, so -- spir si __ lun -- go __ pian -- to,
+        sì lun -- go pian -- to,
+    Con sì cal -- di so -- spir, so -- spir sì lun -- go pian -- to,
+        sì lun -- go pian -- to.
 }
 
 altoVIincipit = \relative c' {
@@ -96,21 +96,21 @@ altoLyricsVI = \lyricmode {
     Fie -- re sil -- ve -- stre che per la -- ti cam -- pi,
         che per la -- ti,
         che __ per la -- ti cam -- pi
-    Va -- gan -- do~er -- ra -- te e per a -- cu -- ti fas -- si
-        e per a -- cu -- ti fas -- si
+    Va -- gan -- do~er -- ra -- te e per a -- cu -- ti sas -- si
+        e per a -- cu -- ti sas -- si
     U -- di -- sti mai sì do -- lo -- ro -- se ri -- me,
         sì do -- lo -- ro -- se,
         sì do -- lo -- ro -- se ri -- me,
-    Di -- te'l per -- dio,
+    Di -- tel per Dio,
     \ijLyrics
-    Di -- te'l per -- dio
+    Di -- tel per Dio
     \normalLyrics
         u -- di -- ste~in al -- cun gior -- no
     O pur in que -- sta~o -- ver in al -- tra __ val -- le
-    Con sì cal -- di so -- spir, so -- spir sì __ lon -- go pian -- to,
-        sì lon -- go pian -- to,
-    Con sì cal -- di so -- spir, so -- spir sì lon -- go pian -- to,
-        sì lon -- go pian -- to.
+    Con sì cal -- di so -- spir, so -- spir sì __ lun -- go pian -- to,
+        sì lun -- go pian -- to,
+    Con sì cal -- di so -- spir, so -- spir sì lun -- go pian -- to,
+        sì lun -- go pian -- to.
 }
 
 tenoreVIincipit = \relative c {
@@ -147,21 +147,21 @@ tenoreVI = \relative c {
 tenoreLyricsVI = \lyricmode {
     Fie -- re sil -- ve -- stre che per la -- ti cam -- pi,
         che per la -- ti cam -- pi
-    Va -- gan -- do~er -- ra -- te e per a -- cu -- ti fas -- si
+    Va -- gan -- do~er -- ra -- te e per a -- cu -- ti sas -- si
         e per a -- cu -- ti,
-        e per a -- cu -- ti fas -- si
+        e per a -- cu -- ti sas -- si
     U -- di -- sti mai sì do -- lo -- ro -- se ri -- me,
         sì do -- lo -- ro -- se ri -- me,
-    Di -- te'l per -- dio,
+    Di -- tel per Dio,
     \ijLyrics
-    Di -- te'l per -- di -- o
+    Di -- tel per Di -- o
     \normalLyrics
         u -- di -- ste~in al -- cun gior -- no
     O pur in que -- sta~o -- ver in al -- tra val -- le
-    Con sì cal -- di so -- spir, so -- spir sì lon -- go pian -- to,
-        sì __ lon -- go pian -- to,
-    Con sì cal -- di so -- spir, so -- spir sì lon -- go pian -- to,
-        sì lon -- go pian -- to. __
+    Con sì cal -- di so -- spir, so -- spir sì lun -- go pian -- to,
+        sì __ lun -- go pian -- to,
+    Con sì cal -- di so -- spir, so -- spir sì lun -- go pian -- to,
+        sì lun -- go pian -- to. __
 }
 
 bassoVIincipit = \relative c {
@@ -199,24 +199,24 @@ bassoVI = \relative c {
 bassoLyricsVI = \lyricmode {
     Fie -- re sil -- ve -- stre che per la -- ti cam -- pi,
         che __ per la -- ti cam -- pi
-    Va -- gan -- do~er -- ra -- te~e per a -- cu -- ti fas -- si
-        e per a -- cu -- ti fas -- si
+    Va -- gan -- do~er -- ra -- te~e per a -- cu -- ti sas -- si
+        e per a -- cu -- ti sas -- si
     U -- di -- sti mai sì do -- lo -- ro -- se ri -- me,
         sì do -- lo -- ro -- se ri -- me,
-    Di -- te'l per -- dio,
+    Di -- tel per Dio,
     \ijLyrics
-    Di -- te'l per -- dio
+    Di -- tel per Dio
     \normalLyrics
         u -- di -- ste~in al -- cun gior -- no
     O pur in que -- sta~o -- ver in al -- tra val -- le
-    Con sì cal -- di so -- spir, so -- spir sì __ lon -- go pian -- to,
-        sì lon -- go pian -- to,
+    Con sì cal -- di so -- spir, so -- spir sì __ lun -- go pian -- to,
+        sì lun -- go pian -- to,
     \ijLyrics
-        sì lon -- go pian -- to,
+        sì lun -- go pian -- to,
     \normalLyrics
-    Con sì cal -- di so -- spir, so -- spir sì lon -- go pian -- to,
-        sì __ lon -- go pian -- to,
-        sì lon -- go pian -- to.
+    Con sì cal -- di so -- spir, so -- spir sì lun -- go pian -- to,
+        sì __ lun -- go pian -- to,
+        sì lun -- go pian -- to.
 }
 
 cantoVIincipitVoice = <<

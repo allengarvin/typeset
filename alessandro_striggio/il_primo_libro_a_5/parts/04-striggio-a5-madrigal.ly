@@ -43,15 +43,15 @@ cantoIV = \relative c' {
 cantoLyricsIV = \lyricmode {
     Fe -- li -- ce l'al -- ma che per voi so -- spi -- ra,
         so -- spi -- ra,
-    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- tio
+    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- zio
     La vi -- ta che per al -- tro non __ m'è~a gra -- do!
-    Oi -- mè! per -- ché sì ra -- do,
+    Ohi -- mè! per -- ché sì ra -- do,
         per -- ché sì ra -- do
-    Mi da -- te quel ond' io mai __ non son sa -- tio?
+    Mi da -- te quel ond' io mai __ non son sa -- zio?
     Per -- ché non più so -- ven -- te,
     Per -- ché non più so -- ven -- te,
         non più so -- ven -- te
-    Mi -- ra -- te qual A -- mor di me fa stra -- cio?
+    Mi -- ra -- te qual A -- mor di me fa stra -- zio?
     E per -- ché mi spo -- glia -- te~im -- man -- ta -- nen -- te
     Del ben ch'ad o -- ra~ad or l'a -- ni -- ma __ sen -- te?
     E per -- ché mi spo -- glia -- te~im -- man -- ta -- nen -- te
@@ -92,16 +92,16 @@ altoIV = \relative c' {
 altoLyricsIV = \lyricmode {
     Fe -- li -- ce l'al -- ma,
     Fe -- li -- ce l'al -- ma che per voi __ so -- spi -- ra, __
-    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- tio
+    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- zio
     La vi -- ta che __ per al -- tro non m'è~a gra -- do!
-    Oi -- mè! 
-    Oi -- mè! per -- ché sì ra -- do,
+    Ohi -- mè! 
+    Ohi -- mè! per -- ché sì ra -- do,
         per -- ché sì ra -- do
-    Mi da -- te quel __ ond' io mai non son sa -- tio?
+    Mi da -- te quel __ ond' io mai non son sa -- zio?
     Per -- ché non più so -- ven -- te,
     Per -- ché non più so -- ven -- te,
         non più so -- ven -- te
-    Mi -- ra -- te qual A -- mor di me fa stra -- cio?
+    Mi -- ra -- te qual A -- mor di me fa stra -- zio?
     E per -- ché mi spo -- glia -- te~im -- man -- ta -- nen -- te
     Del ben,
     Del ben ch'ad o -- ra~ad or l'a -- ni -- ma sen -- te?
@@ -146,18 +146,18 @@ tenoreIV = \relative c {
 tenoreLyricsIV = \lyricmode {
     Fe -- li -- ce l'al -- ma che __ per voi so -- spi -- ra,
     Fe -- li -- ce l'al -- ma che per voi so -- spi -- ra,
-    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- tio,
-        io rin -- gra -- tio
+    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- zio,
+        io rin -- gra -- zio
     La vi -- ta che per al -- tro non __ m'è~a gra -- do!
-    Oi -- mè!
-    Oi -- mè! per -- ché sì ra -- do,
+    Ohi -- mè!
+    Ohi -- mè! per -- ché sì ra -- do,
         per -- ché sì ra -- do
-    Mi da -- te quel ond' io mai non son sa -- tio?
+    Mi da -- te quel ond' io mai non son sa -- zio?
     Per -- ché non più so -- ven -- te,
         non più so -- ven -- te,
     Per -- ché non più,
         non più so -- ven -- te, __
-    Mi -- ra -- te qual A -- mor di me fa stra -- cio?
+    Mi -- ra -- te qual A -- mor di me fa stra -- zio?
     E per -- ché mi spo -- glia -- te~im -- man -- ta -- nen -- te,
         im -- man -- ta -- nen -- te
     Del ben ch'ad o -- ra~ad or l'a -- ni -- ma sen -- te,
@@ -198,18 +198,18 @@ bassoIV = \relative c, {
 
 bassoLyricsIV = \lyricmode {
     Fe -- li -- ce l'al -- ma che per voi so -- spi -- ra,
-    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- tio,
-        io rin -- gra -- tio
+    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- zio,
+        io rin -- gra -- zio
     La vi -- ta che per al -- tro non m'è~a gra -- do!
-    Oi -- mè! 
-    Oi -- mè! per -- ché sì ra -- do,
+    Ohi -- mè! 
+    Ohi -- mè! per -- ché sì ra -- do,
         per -- ché sì ra -- do
-    Mi da -- te quel ond' io mai non son sa -- tio?
+    Mi da -- te quel ond' io mai non son sa -- zio?
     Per -- ché non più so -- ven -- te,
     Per -- ché non più so -- ven -- te,
     Per -- ché non più,
         non più so -- ven -- te
-    Mi -- ra -- te qual A -- mor di me fa stra -- cio?
+    Mi -- ra -- te qual A -- mor di me fa stra -- zio?
     E per -- ché mi spo -- glia -- te~im -- man -- ta -- nen -- te
     Del ben,
     Del ben ch'ad o -- ra~ad or l'a -- ni -- ma sen -- te?
@@ -254,18 +254,18 @@ quintoIV = \relative c {
 quintoLyricsIV = \lyricmode {
     Fe -- li -- ce l'al -- ma,
     Fe -- li -- ce l'al -- ma che __ per voi so -- spi -- ra,
-    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- tio
+    Lu -- mi del ciel, per li -- qua -- li~io rin -- gra -- zio
     La __ vi -- ta che per al -- tro non m'è~a gra -- do!
-    Oi -- mè! per -- ché sì ra -- do,
+    Ohi -- mè! per -- ché sì ra -- do,
         per -- ché sì ra -- do
-    Mi da -- te quel ond' io mai non son sa -- tio?
+    Mi da -- te quel ond' io mai non son sa -- zio?
     Per -- ché non più so -- ven -- te,
     Per -- ché non più __ so -- ven -- te,
     \ijLyrics
     Per -- ché non più so -- ven -- te,
     \normalLyrics
         non più so -- ven -- te,
-    Mi -- ra -- te qual A -- mor di me fa stra -- cio?
+    Mi -- ra -- te qual A -- mor di me fa stra -- zio?
     E per -- ché mi spo -- glia -- te~im -- man -- ta -- nen -- te
     Del ben,
     Del ben ch'ad o -- ra~ad or l'a -- ni -- ma sen -- te?

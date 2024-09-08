@@ -296,7 +296,7 @@ bassoXVIII = \relative c' {
     g2 g | f f ef ef | d1 c2 r2 | r1 r4 f g8([ a bf c] | d4) d r2 r1 | 
         R\breve | r4 c, d8([ e f g] 
 
-    a4) a a,8[ bf( c d] | f2) g4. g8 d2 g | f bf4. bf8 a2 d4.( c16[ bf] |
+    a4) a8[ a,8] bf([ c d e ] | f2) g4. g8 d2 g | f bf4. bf8 a2 d4.( c16[ bf] |
         a4. g8 f4. g8 a4. bf8 c2) |
 
     f,\breve | R\breve*2 | r1 c' | c2 c c1 ~ | c2 a bf1 | f r2 r4 f8[ g] |

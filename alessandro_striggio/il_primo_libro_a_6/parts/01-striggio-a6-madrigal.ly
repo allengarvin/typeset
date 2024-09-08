@@ -37,18 +37,18 @@ cantoI = \relative c'' {
 cantoLyricsI = \lyricmode {
     I __ dol -- ci col -- li o -- ve~io la -- sciai me stes -- so,
     Par -- ten -- do on -- de par -- tir già -- mai non pos -- so,
-    Mi van -- no~in -- nan -- zi et em -- mi~o -- gnor a -- dos -- so
-    Quel ca -- ro pe -- so ch'A -- mor m'à __ com -- mes -- so.
+    Mi van -- no~in -- nan -- zi ed em -- mi~o -- gnor a -- dos -- so
+    Quel ca -- ro pe -- so ch'A -- mor m'ha __ com -- mes -- so.
 
     Me -- co di me,
     Me -- co di me mi me -- ra -- vi -- glio spes -- so,
         mi me -- ra -- vi -- glio spes -- so,
-    Ch'i' pur vo sem -- pre~et non son an -- cor mos -- so
+    Ch'i' pur vo sem -- pre~e non son an -- cor mos -- so
     Dal bel gio -- go più vol -- te~in -- dar -- no scos -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so.
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so.
 }
 
 altoIincipit = \relative c' {
@@ -88,9 +88,9 @@ altoI = \relative c' {
 altoLyricsI = \lyricmode {
     I dol -- ci col -- li o -- ve~io la -- sciai me __ stes -- so,
     Par -- ten -- do on -- de par -- tir già -- mai non pos -- so,
-    Mi van -- no~in -- nan -- zi et em -- mi~o -- gnor a -- dos -- so
+    Mi van -- no~in -- nan -- zi ed em -- mi~o -- gnor a -- dos -- so
     Quel ca -- ro pe -- so ch'A -- mor,
-        ch'A -- mor m'à com -- mes -- so.
+        ch'A -- mor m'ha com -- mes -- so.
 
     Me -- co di me,
     \ijLyrics
@@ -98,11 +98,11 @@ altoLyricsI = \lyricmode {
     \normalLyrics 
         mi __ me -- ra -- vi -- glio spes -- so,
     Ch'i' pur vo sem -- pre,
-    Ch'i' pur vo sem -- pre~et non son an -- cor mos -- so
+    Ch'i' pur vo sem -- pre~e non son an -- cor mos -- so
     Dal bel gio -- go più vol -- te~in -- dar -- no scos -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
-    Ma com più me n'al -- lun -- go~et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so,
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
+    Ma com più me n'al -- lun -- go~e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so,
             m'ap -- pres -- so.
 }
 
@@ -144,21 +144,21 @@ tenoreLyricsI = \lyricmode {
     Par -- ten -- do 
         o -- ve~io la -- sciai me stes -- so, par -- ten -- do,
         on -- de par -- tir già -- mai non pos -- so,
-    Mi van -- no~in -- nan -- zi et em -- mi~o -- gnor a -- dos -- so
-    Quel ca -- ro pe -- so ch'A -- mor m'à com -- mes -- so.
+    Mi van -- no~in -- nan -- zi ed em -- mi~o -- gnor a -- dos -- so
+    Quel ca -- ro pe -- so ch'A -- mor m'ha com -- mes -- so.
 
     Me -- co di me mi __ me -- ra -- vi -- glio spes -- so,
-    Ch'i' pur vo sem -- pre~et non son an -- cor mos -- so
+    Ch'i' pur vo sem -- pre~e non son an -- cor mos -- so
     Dal bel gio -- go più vol -- te~in -- dar -- no scos -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so,
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so,
     Ma com più me ne n'al -- lun -- go, 
     \ijLyrics
     più ne n'al -- lun -- go, 
     \normalLyrics
-        et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so.
+        e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so.
 }
 
 bassoIincipit = \relative c {
@@ -198,19 +198,19 @@ bassoLyricsI = \lyricmode {
     I dol -- ci col -- li o -- ve~io la -- sciai me stes -- so,
     Par -- ten -- do on -- de par -- tir già -- mai non pos -- so,
         on -- de par -- tir già -- mai non pos -- so,
-    Mi van -- no~in -- nan -- zi et em -- mi~o -- gnor a -- dos -- so
-    Quel ca -- ro pe -- so ch'A -- mor m'à __ com -- mes -- so.
+    Mi van -- no~in -- nan -- zi ed em -- mi~o -- gnor a -- dos -- so
+    Quel ca -- ro pe -- so ch'A -- mor m'ha __ com -- mes -- so.
 
     Me -- co di me,
     Me -- co di me mi me -- ra -- vi -- glio spes -- so,
         mi me -- ra -- vi -- glio spes -- so,
-    Ch'i' pur vo sem -- pre~et non son an -- cor mos -- so
+    Ch'i' pur vo sem -- pre~e non son an -- cor mos -- so
     Dal bel gio -- go più vol -- te~in -- dar -- no scos -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so.
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so,
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so.
 }
 
 quintoIincipit = \relative c' {
@@ -249,20 +249,20 @@ quintoLyricsI = \lyricmode {
     I dol -- ci col -- li o -- ve~io la -- sciai, __
         o -- ve~io la -- sciai me stes -- so,
     Par -- ten -- do on -- de par -- tir già -- mai non pos -- so,
-    Mi van -- no~in -- nan -- zi et em -- mi~o -- gnor a -- dos -- so
+    Mi van -- no~in -- nan -- zi ed em -- mi~o -- gnor a -- dos -- so
     Quel ca -- ro pe -- so ch'A -- mor, 
-        ch'A -- mor m'à com -- mes -- so.
+        ch'A -- mor m'ha com -- mes -- so.
 
     Me -- co di me mi __ me -- ra -- vi -- glio spes -- so,
-    Ch'i' pur vo sem -- pre et non son an -- cor mos -- so
+    Ch'i' pur vo sem -- pre e non son an -- cor mos -- so
     Dal __ bel gio -- go più vol -- te~in -- dar -- no scos -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
     \ijLyrics
-        et più m'ap -- pres -- so,
+        e più m'ap -- pres -- so,
     \normalLyrics
-        et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so.
+        e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so.
 }
 
 sestoIincipit = \relative c' {
@@ -304,16 +304,16 @@ sestoLyricsI = \lyricmode {
         o -- ve~io la -- sciai me stes -- so,
     Par -- ten -- do on -- de par -- tir già -- mai non pos -- so,
         on -- de par -- tir già -- mai non pos -- so,
-    Mi van -- no~in -- nan -- zi et em -- mi~o -- gnor a -- dos -- so
-    Quel ca -- ro pe -- so ch'A -- mor m'à com -- mes -- so.
+    Mi van -- no~in -- nan -- zi ed em -- mi~o -- gnor a -- dos -- so
+    Quel ca -- ro pe -- so ch'A -- mor m'ha com -- mes -- so.
 
     Me -- co di me mi __ me -- ra -- vi -- glio spes -- so,
-    Ch'i' pur vo sem -- pre~et non son an -- cor mos -- so
+    Ch'i' pur vo sem -- pre~e non son an -- cor mos -- so
     Dal __ bel gio -- go più vol -- te~in -- dar -- no scos -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
-    Ma com più me n'al -- lun -- go, et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so,
-        et più m'ap -- pres -- so.
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
+    Ma com più me n'al -- lun -- go, e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so,
+        e più m'ap -- pres -- so.
 }
 
 cantoIincipitVoice = <<

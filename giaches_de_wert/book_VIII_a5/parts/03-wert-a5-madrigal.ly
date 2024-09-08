@@ -3,13 +3,13 @@
 % Così la vostra man quando si stende
 % Ai lumi dolci e gai,
 % Se non che quella si disfiora e solve
-% Tosto ch’el sol si volve,
+% Tosto ch'el sol si volve,
 % Ma la man vostra ha più vaghezza sempre
-% De l’amorose tempre,
-% Di que’ begl’occhi ond’è il mio cor di polve.
-% Ben essi fan ch’ei si distrugg’e stempre
+% De l'amorose tempre,
+% Di que' begl'occhi ond'è il mio cor di polve.
+% Ben essi fan ch'ei si distrugg'e stempre
 % In foco tal che venga cenere
-% Pria ch’il foco in lui si spenga.
+% Pria ch'il foco in lui si spenga.
 % ?? G.B. Nicolucci detto Il Pigna ??
 
 % from here: https://static1.squarespace.com/static/546ec7b4e4b0f50af9844a82/t/5f27fcbd9526e63b9bc1512f/1596456125385/Lyracle.Texts+%26+Translation.pdf
@@ -103,26 +103,26 @@ cantoLyricsIII = \lyricmode {
     Ai lu -- mi dol -- ci~e ga -- i,
         dol -- ci~e ga -- i,
     Se non che quel -- la si dis -- fio -- ra~e sol -- ve
-    To -- sto ch’il sol si vol -- ve,
-    To -- sto ch’il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
     \ijLyrics
-    To -- sto ch’il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
     \normalLyrics
     Ma la man vo -- stra~ha più __ va -- ghez -- za sem -- pre
-    Da l’a -- mo -- ro -- se tem -- pre,
-    Da l’a -- mo -- ro -- se tem -- pre,
-    Di que’ be -- gli~oc -- chi~on -- d’è~il mio cor __ di pol -- ve,
-    Di que’ be -- gli~oc -- chi~on -- d’è~il __ mio cor di pol -- ve.
-    Ben es -- si fan ch’ei si di -- strug -- g’e stem -- pre
+    Da l'a -- mo -- ro -- se tem -- pre,
+    Da l'a -- mo -- ro -- se tem -- pre,
+    Di que' be -- gli~oc -- chi~on -- d'è~il mio cor __ di pol -- ve,
+    Di que' be -- gli~oc -- chi~on -- d'è~il __ mio cor di pol -- ve.
+    Ben es -- si fan ch'ei si di -- strug -- g'e stem -- pre
     In fo -- co tal che ven -- ga ce -- ne -- re
-    Pria __ ch’il fo -- co~in lui si spen -- ga,
-    Ben es -- si fan ch’ei si di -- strug -- g’e stem -- pre
+    Pria __ ch'il fo -- co~in lui si spen -- ga,
+    Ben es -- si fan ch'ei si di -- strug -- g'e stem -- pre
     In __ fo -- co tal 
     \ijLyrics
     In __ fo -- co tal 
     \normalLyrics
         che ven -- ga ce -- ne -- re __
-    Pria ch’il fo -- co~in lui si spen -- ga.
+    Pria ch'il fo -- co~in lui si spen -- ga.
 }
 
 altoIIIincipit = \relative c'' {
@@ -179,24 +179,24 @@ altoLyricsIII = \lyricmode {
     Ai lu -- mi dol -- ci~e ga -- i,
     Se non che quel -- la si dis -- fio -- ra~e sol -- ve
         si dis -- fio -- ra~e sol -- ve
-    To -- sto ch’il sol si vol -- ve,
-    To -- sto ch’il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
     \ijLyrics
-    To -- sto ch’il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
     \normalLyrics
-        ch’il sol si vol -- ve,
+        ch'il sol si vol -- ve,
     Ma la man vo -- stra~ha più va -- ghez -- za sem -- pre
-    Da l’a -- mo -- ro -- se tem -- pre,
+    Da l'a -- mo -- ro -- se tem -- pre,
     \ijLyrics
-    Da l’a -- mo -- ro -- se tem -- pre,
+    Da l'a -- mo -- ro -- se tem -- pre,
     \normalLyrics
-    Di que’ be -- gli~oc -- chi~on -- d’è~il mio cor __ di pol -- ve,
-    Ben es -- si fan ch’ei si di -- strug -- g’e stem -- pre
+    Di que' be -- gli~oc -- chi~on -- d'è~il mio cor __ di pol -- ve,
+    Ben es -- si fan ch'ei si di -- strug -- g'e stem -- pre
     In fo -- co tal che ven -- ga ce -- ne -- re
-    Pria __ ch’il fo -- co~in lui si spen -- ga,
-    Ben es -- si fan ch’ei si di -- strug -- g’e stem -- pre
+    Pria __ ch'il fo -- co~in lui si spen -- ga,
+    Ben es -- si fan ch'ei si di -- strug -- g'e stem -- pre
     In fo -- co tal che ven -- ga ce -- ne -- re 
-    Pria ch’il fo -- co~in lui si spen -- ga.
+    Pria ch'il fo -- co~in lui si spen -- ga.
 }
 
 tenoreIIIincipit = \relative c' {
@@ -248,21 +248,21 @@ tenoreLyricsIII = \lyricmode {
     Co -- sì la vo -- stra man quan -- do si sten -- de
     Ai lu -- mi dol -- ci~e ga -- i,
     Ai lu -- mi dol -- ci~e ga -- i,
-    To -- sto ch’il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
     \ijLyrics
-    To -- sto ch’il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
     \normalLyrics
     Ma la man vo -- stra~ha più va -- ghez -- za sem -- pre,
     Ma la man vo -- stra~ha più va -- ghez -- za sem -- pre __
-    Da l’a -- mo -- ro -- se tem -- pre,
-    Di que’ be -- gli~oc -- chi~on -- d’è~il mio cor di pol -- ve,
-        on -- d’è~il mio cor di pol -- ve.
-    Ben es -- si fan ch’ei si di -- strug -- g’e stem -- pre
+    Da l'a -- mo -- ro -- se tem -- pre,
+    Di que' be -- gli~oc -- chi~on -- d'è~il mio cor di pol -- ve,
+        on -- d'è~il mio cor di pol -- ve.
+    Ben es -- si fan ch'ei si di -- strug -- g'e stem -- pre
     In fo -- co tal che ven -- ga ce -- ne -- re
-    Pria __ ch’il fo -- co~in lui si spen -- ga,
-    Ben es -- si fan ch’ei si di -- strug -- g’e stem -- pre
+    Pria __ ch'il fo -- co~in lui si spen -- ga,
+    Ben es -- si fan ch'ei si di -- strug -- g'e stem -- pre
     In fo -- co tal che ven -- ga ce -- ne -- re 
-    Pria __ ch’il fo -- co~in lui si spen -- ga,
+    Pria __ ch'il fo -- co~in lui si spen -- ga,
         si spen -- ga.
 }
 
@@ -302,16 +302,16 @@ bassoLyricsIII = \lyricmode {
         quan -- do si sten -- de
     \normalLyrics
     Ai lu -- mi dol -- ci~e ga -- i,
-    To -- sto ch’il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
     \ijLyrics
-    To -- sto ch’il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
     \normalLyrics
     Ma la man vo -- stra~ha più __ va -- ghez -- za sem -- pre
-    Da l’a -- mo -- ro -- se tem -- pre,
-    Di que’ be -- gli~oc -- chi~on -- d’è~il mio cor di pol -- ve,
-    Ben es -- si fan ch’ei si di -- strug -- g’e stem -- pre
+    Da l'a -- mo -- ro -- se tem -- pre,
+    Di que' be -- gli~oc -- chi~on -- d'è~il mio cor di pol -- ve,
+    Ben es -- si fan ch'ei si di -- strug -- g'e stem -- pre
     In fo -- co tal che ven -- ga ce -- ne -- re __
-    Pria ch’il fo -- co~in lui si spen -- ga.
+    Pria ch'il fo -- co~in lui si spen -- ga.
 }
 
 quintoIIIincipit = \relative c'' {
@@ -362,23 +362,23 @@ quintoLyricsIII = \lyricmode {
         quan -- do si sten -- de
     Ai lu -- mi dol -- ci~e ga -- i,
     Se non che quel -- la si dis -- fio -- ra~e sol -- ve, sol -- ve
-    To -- sto ch’il sol si vol -- ve,
-    To -- sto ch’il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
+    To -- sto ch'il sol si vol -- ve,
         si vol -- ve,
-    To -- sto ch’il sol __ si vol -- ve,
+    To -- sto ch'il sol __ si vol -- ve,
     Ma la man vo -- stra~ha più __ va -- ghez -- za sem -- pre
     Ma la man vo -- stra~ha più va -- ghez -- za sem -- pre
-    Da l’a -- mo -- ro -- se tem -- pre,
-    Da l’a -- mo -- ro -- se tem -- pre,
-    Di que’ be -- gli~oc -- chi~on -- d’è~il mio cor __ di pol -- ve,
-        on -- d’è~il mio cor di pol -- ve,
-    Ben es -- si fan ch’ei si di -- strug -- g’e stem -- pre
+    Da l'a -- mo -- ro -- se tem -- pre,
+    Da l'a -- mo -- ro -- se tem -- pre,
+    Di que' be -- gli~oc -- chi~on -- d'è~il mio cor __ di pol -- ve,
+        on -- d'è~il mio cor di pol -- ve,
+    Ben es -- si fan ch'ei si di -- strug -- g'e stem -- pre
     In __ fo -- co tal 
     \ijLyrics
     In fo -- co tal 
     \normalLyrics
         che ven -- ga ce -- ne -- re  __
-    Pria ch’il fo -- co~in lui si spen -- ga.
+    Pria ch'il fo -- co~in lui si spen -- ga.
 }
 
 cantoIIIincipitVoice = <<

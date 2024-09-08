@@ -4,7 +4,7 @@
 %Ivi imperla, ivi indora ed io mi moro, 
 %Amor, deh torna a me torna la chiara
 %Bella mia luce e cara.
-
+%
 cantoXIincipit = \relative c'' {
     \time 4/4
     \key c \major

@@ -3,8 +3,8 @@
 % Ch'avete voi di lei lo scettro e'l manto,
 % Voi che vincendo andate,
 % Il mal col bene e col saper l'etate.
-% Cosi la mente Astrea vi regga,
-% e'l core Vi tenga aperto amore,
+% Cosi la mente Astrea vi regga, e'l core
+% Vi tenga aperto amore,
 % E la corona d'oro,
 % D'oliva ornata sia sempre e d'alloro. 
 
@@ -52,9 +52,9 @@ cantoLyricsI = \lyricmode {
     Voi che vin -- cen -- do~an -- da -- te,
     \normalLyrics
     Il mal __ col be -- ne e col sa -- per l'e -- ta -- te.
-    Co -- sì la men -- te~A -- strea vi reg -- ga,
-    e'l co -- re Vi ten -- ga~a -- per -- to A -- mo -- re,
-    e'l co -- re Vi ten -- ga~a -- per -- to A -- mo -- re,
+    Co -- sì la men -- te~A -- strea vi reg -- ga, e'l co -- re
+    Vi ten -- ga~a -- per -- to A -- mo -- re, e'l co -- re
+    Vi ten -- ga~a -- per -- to A -- mo -- re,
         A -- mo -- re,
         A -- mo -- re,
     E la co -- ro -- na d'o -- ro,
@@ -122,7 +122,8 @@ altoLyricsI = \lyricmode {
     \ijLyrics
     Co -- sì la men -- te~A -- strea vi reg -- ga,
     \normalLyrics
-    e'l co -- re Vi ten -- ga~a -- per -- to A -- mo -- re,
+        e'l co -- re
+    Vi ten -- ga~a -- per -- to A -- mo -- re,
     E la co -- ro -- na d'o -- ro,
     D'o -- li -- va~or -- na -- ta __ sia sem -- pre~e d'Al -- lo -- ro,
         la co -- ro -- na d'o -- ro,
@@ -179,8 +180,8 @@ tenoreLyricsI = \lyricmode {
     Ch'a -- ve -- te voi di lei lo scet -- tro~e'l man -- to,
     Voi che vin -- cen -- do~an -- da -- te,
     Il mal __ col be -- ne __ e col sa -- per __ l'e -- ta -- te.
-    Co -- sì la men -- te~A -- strea vi reg -- ga,
-    e'l co -- re Vi ten -- ga~a -- per -- to A -- mo -- re,
+    Co -- sì la men -- te~A -- strea vi reg -- ga, e'l co -- re
+    Vi ten -- ga~a -- per -- to A -- mo -- re,
     E la co -- ro -- na d'o -- ro,
     D'o -- li -- va~or -- na -- ta sia sem -- pre~e d'Al -- lo -- ro,
     E la co -- ro -- na d'o -- ro,
@@ -236,8 +237,8 @@ bassoLyricsI = \lyricmode {
     Ch'a -- ve -- te voi di lei lo scet -- tro~e'l man -- to,
     Voi che vin -- cen -- do~an -- da -- te,
     Il mal __ col be -- ne __ E col sa -- per __ l'e -- ta -- te.
-    Co -- sì la men -- te~A -- strea vi reg -- ga,
-    e'l co -- re Vi ten -- ga~a -- per -- to A -- mo -- re,
+    Co -- sì la men -- te~A -- strea vi reg -- ga, e'l co -- re
+    Vi ten -- ga~a -- per -- to A -- mo -- re,
     E la co -- ro -- na d'o -- ro,
     D'o -- li -- va~or -- na -- ta __ sia sem -- pre~e d'Al -- lo -- ro,
     E la co -- ro -- na d'o -- ro,
@@ -308,7 +309,8 @@ quintoLyricsI = \lyricmode {
     \normalLyrics
         e'l co -- re 
     Vi ten -- ga~a -- per -- to A -- mo -- re,
-    e'l co -- re Vi ten -- ga~a -- per -- to A -- mo -- re,
+        e'l co -- re
+    Vi ten -- ga~a -- per -- to A -- mo -- re,
     E la co -- ro -- na d'o -- ro,
     D'o -- li -- va~or -- na -- ta sia sem -- pre~e d'Al -- lo -- ro,
     E la co -- ro -- na d'o -- ro,

@@ -62,7 +62,7 @@ cantoLyricsXV = \lyricmode {
     Deh __ per -- ché,
     Deh __ per -- ché l'al -- ma fat -- ta~ad am -- be~an -- cel -- la 
     Non eb -- be~al -- lor duo co -- ri, 
-    Men -- tr'e -- ra~a l'un e~a l'alt -- ra~in -- ten -- to~e fi -- so 
+    Men -- tr'e -- ra~a l'un e~a l'alt -- ra~in -- ten -- to~e fis -- so 
     Per las -- sar -- ne~u -- no~al can -- to e l'al -- tro~al vi -- so,
     Per las -- sar -- ne~u -- no~al can -- to~e l'al -- tro~al vi -- so,
         e l'al -- tro~al vi -- so, __
@@ -114,7 +114,7 @@ altoLyricsXV = \lyricmode {
     Deh __ 
     Deh __ per -- ché l'al -- ma fat -- ta~ad am -- be~an -- cel -- la 
     Non eb -- be~al -- lor duo co -- ri, 
-    Men -- tr'e -- ra~a l'un e~a l'alt -- ra in -- ten -- to~e fi -- so 
+    Men -- tr'e -- ra~a l'un e~a l'alt -- ra in -- ten -- to~e fis -- so 
     Per las -- sar -- ne~u -- no~al can -- to~e l'al -- tro~al vi -- so,
     Per las -- sar -- ne~u -- no~al can -- to e l'al -- tro~al vi -- so,
         e l'al -- tro~al vi -- so, 
@@ -162,7 +162,7 @@ tenoreLyricsXV = \lyricmode {
     \ijLyrics
         duo co -- ri, 
     \normalLyrics
-    Men -- tr'e -- ra~a l'un e~a l'alt -- ra in -- ten -- to~e fi -- so 
+    Men -- tr'e -- ra~a l'un e~a l'alt -- ra in -- ten -- to~e fis -- so 
     Per las -- sar -- ne~u -- no~al can -- to~e l'al -- tro~al vi -- so,
     Per las -- sar -- ne~u -- no~al can -- to e l'al -- tro~al vi -- so,
         e l'al -- tro~al vi -- so, 
@@ -204,7 +204,7 @@ bassoLyricsXV = \lyricmode {
     U -- na nin -- fa __ di lei mol -- to più bel -- la,
     Deh __ per -- ché __ l'al -- ma fat -- ta~ad am -- be~an -- cel -- la 
     Non eb -- be~al -- lor duo co -- ri, 
-    Men -- tr'e -- ra~a l'un e~a l'alt -- ra~in -- ten -- to~e fi -- so 
+    Men -- tr'e -- ra~a l'un e~a l'alt -- ra~in -- ten -- to~e fis -- so 
     Per las -- sar -- ne~u -- no~al can -- to e l'al -- tro~al vi -- so,
         e l'al -- tro~al vi -- so?
 }
@@ -250,7 +250,7 @@ quintoLyricsXV = \lyricmode {
         di lei mol -- to più bel -- la, __
     Deh __ per -- ché l'al -- ma fat -- ta~ad am -- be~an -- cel -- la 
     Non eb -- be~al -- lor duo co -- ri, 
-    Men -- tr'e -- ra~a l'un e~a l'alt -- ra~in -- ten -- to~e fi -- so 
+    Men -- tr'e -- ra~a l'un e~a l'alt -- ra~in -- ten -- to~e fis -- so 
         e l'al -- tro~al vi -- so, 
     Per las -- sar -- ne~u -- no~al can -- to~e l'al -- tro~al vi -- so,
         e l'al -- tro~al vi -- so, 

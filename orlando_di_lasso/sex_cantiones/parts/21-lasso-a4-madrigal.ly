@@ -45,22 +45,65 @@ altusXXI = \relative c' {
 altusLyricsXXI = \lyricmode {
 }
 
+tenorXXIincipit = \relative c' {
+    \time 4/4
+    \clef "petrucci-c4"
+    \key c \major
+
+    c2
+}
+
 tenorXXI = \relative c' {
     \fourTwoCommonTime
     \clef tenor
     \key c \major
 
+    r1 c2 b4 a | b2 r4 c2 c4 a2 | g4 a g2 e4 e g2 ~ | g g a b |
+        c a c4 b c2 ~ | c4( b8[ a] b2) c c | b4 a a2
+
+    g2 a | r1 r2 c | c b4 a2( g8[ f] g2) | a e g4 a b2 | d a4 a a2 bf |
+        a1 d2. g,4 | a2 g r1 | a4 b c d c c b2 | a r4 c b2 c | 
+
+    d2 c a2. c4 ~ | c d2 d4 c2 b | r2 g g4 a b2 | c c b c ~ |
+        c4 d c4.( b8 a[ b] c2 b8[ a] | b2) b c2. a4 | g g2 e4 f e g g |
+        a2 a4 a
+
+    c4 b d c | d b d4. c8 b[ a] g4 a c ~ | c b8[ a] b2 c e |
+        c2. a4 g2. e4 | f e g g g2 a4 a | c b d c d b d4. c8 |
+
+    b8[ a] g4 a c2 b8[ a] b2 | a r4 e' f e d2 | cs\longa*1/2
     \bar "|."
 }
 
 tenorLyricsXXI = \lyricmode {
 }
 
-bassusXXI = \relative c {
-    \fourTwoCommonTime
-    \clef varbaritone
+bassusXXIincipit = \relative c {
+    \time 4/4
+    \clef "petrucci-f4"
     \key c \major
 
+    c2
+}
+
+bassusXXI = \relative c {
+    \fourTwoCommonTime
+    \clef bass
+    \key c \major
+
+    r1 c2 e4 f | g2 r4 c2 c4 f2 | c4 a e'2 a, r4 g | c2 e f g | c, d e a | g1
+
+    c,2 r4 e ~ | e d d c2 b4 a2 | r1 r2 f' | c d e e | r4 a2 g f4 e2 |
+        d cs4 d a2 g | d'1 g,2 g' |
+
+    f2 c r2 d4 e | f g f f e2 e | r2 a g f | bf, c d a' | f g e e |
+        r2 r4 g e f d2 | c c g' f |
+
+    f4 d8([ e] f[ g] a4. g8[ f e] f2) | e1 a2 f | c b4 c a2 g | 
+        c4 e d2 c4 g' d a' | g2 d e a, | e'4 f e2 a,1 | a'2 f c b4 c |
+
+    a2 g c4 e d2 | c4 g' d a' g2 d | e a, e'4 f e2 | a, r4 a d cs d2 | 
+        a'\longa*1/2
     \bar "|."
 }
 

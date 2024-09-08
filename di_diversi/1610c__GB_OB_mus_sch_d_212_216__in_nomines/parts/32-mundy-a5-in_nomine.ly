@@ -7,8 +7,7 @@ superiusXXXIIincipit = \relative c'' {
 }
 
 % superius: checked against source
-    % checked against MB which posits a mixup with part 2
-    % Doesn't work out, leaving off for now
+    % worked out alternate ending
 superiusXXXII = \relative c'' {
     \key c \major
     \fourTwoCutTime
@@ -25,9 +24,12 @@ superiusXXXII = \relative c'' {
 
     e2 d4 c | f1 d | g g, | c2 b4 a g1 | r2 d' f e4 d | g1 e | f d | e r2 c |
                                   
-        e d4 c g'1 | e1. c2 | f1 d | r2 e e e |
+        e d4 c g'1 | e1. c2 | f1 d | 
+            r2 e e e |
 
-    g2 fs4 e d2 e | cs1. d2 | e\breve~e~e\longa*1/2
+    g2 fs4 e d2 b | a2 c4 b c d e2 ~ e4 b d2. c4 b2
+        e2 a, a1 a\longa*1/2
+        % cs1. d2 | e\breve~e~e\longa*1/2
     \bar "|."
 }
 
@@ -40,7 +42,6 @@ mediusXXXIIincipit = \relative c'' {
 }
 
 % medius: checked against source
-    % checkeda gainst MB
 mediusXXXII = \relative c'' {
     \key c \major
     \fourTwoCutTime
@@ -59,7 +60,8 @@ mediusXXXII = \relative c'' {
     f2. e4 d1 | r2 b e d4 c | f1 d | e2. d4 c b a g | f1 a | r2 b e d4 c |
         g'1 e | f d | r2 g, b a4 g | d'1 a2 b | c c
 
-    e2 d4 c | g'1 e | c2 g c1 | r2 a a a | c b4 a g2. a4 | b2 a1 gs2 |
+    e2 d4 c | g'1 e | c2 g c1 | r2 a a a | 
+        c2 b4 a g2. a4 | b2 a1 gs2 |
         a e' e e | g fs4 e d2 e | cs1. d2 | e\longa*1/2
     \bar "|."
 }
@@ -73,7 +75,6 @@ contratenorXXXIIincipit = \relative c'' {
 }
 
 % contra: checked against source
-    % checked against MB
 contratenorXXXII = \relative c'' {
     \key c \major
     \fourTwoCutTime
@@ -88,7 +89,8 @@ contratenorXXXII = \relative c'' {
         g2 e2. d4 cs2 | d a d2. c4 | b1. c2 | d2. e4 f1 | e\breve | 
 
     d2. e4 f1 | e r2 c | e d4 c b2 cs | d c4 b a2 f' | e1 b | r2 d f e4 d |
-        g1 e | c r2 e | e e g f4 e | d2. e4 f1 | e2 e g
+        g1 e | c r2 e | e e g f4 e | d2. e4 f1 | 
+        e2 e g
 
     fs4 e | d1 b | c2 a2. b4 c2 | b1. e2 | e e f e4 d | cs\longa*1/2
     \bar "|."
@@ -122,7 +124,8 @@ tenorXXXII = \relative c' {
     d2. c4 b a | g2. a4 b2 g | r2 f a g4 f | c'2 g c1 | a d | b2 g c b4 a |
         g1 r2 g | bf2 a4 g f2 d' | b!1 g | a2 f a g4 f | e1 g | r2 g
 
-    g2 g | c b4 a g2 a | bf a4 g f1 | g\breve | r2 d d d | f e4 d c1 |
+    g2 g | c b4 a g2 a | bf a4 g f1 | 
+        g\breve | r2 d d d | f e4 d c1 |
         d g | e2 a1 f2 | e\longa*1/2
     \bar "|."
 }
@@ -144,7 +147,8 @@ bassusXXXII = \relative c {
 
     e e~e g a g e e f e e e d e d c d e e 
 
-    d e d c c c d c b a g a a\longa*1/2
+    d e d c c c d 
+        c\breve b a g a a\longa*1/2
     \bar "|."
 }
 

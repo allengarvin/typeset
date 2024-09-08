@@ -17,7 +17,7 @@ cantusV = \relative c' {
         R\breve | g1 c ~ | c2 bf a g | f1.( f8[ e d c] | d1) c | r2 f g f | g a
 
     bf2 bf | a g2.( f4 f2 ~ | f e) f1 ~ | f\breve | R\breve*2 | R\breve | r2 c'1 a2 | 
-        a d2.( c4 bf a | g2) c c c | a c2.\melisma\ficta b8[ a] \melismaEnd b!2 | 
+        a d2.( c4 bf a | g2) c c c | a c2.\melisma\ficta bf8[ a] \melismaEnd bf2 | 
         c g g g | a a bf1 | g a | bf g |
 
     a1. a2 | a a bf1 | g c ~ | c( f, | g\breve) | a | r2 g a f | a a g2.( f4 | 
@@ -37,23 +37,23 @@ cantusV = \relative c' {
 }
 
 cantusLyricsV = \lyricmode {
-    I -- ta -- lia mi -- a, ben ch’el par -- lar sia~in -- dar -- no __
+    I -- ta -- lia mi -- a, ben ch'el par -- lar sia~in -- dar -- no __
     A le __ pia -- ghe mor -- ta -- li
-    Che nel’ bel cor -- po tuo spes -- se veg -- gio __
+    Che nel' bel cor -- po tuo spes -- se veg -- gio __
     Pia -- ce -- mi~al -- men __  ch'i miei so -- spir sien __ qua -- li
-    Spe -- ra'l Te -- ver e l’Ar -- no
-    E’l Po do -- ve do -- glio -- so~e gra -- ve~hor seg -- gio.
+    Spe -- ra'l Te -- ver e l'Ar -- no
+    E'l Po do -- ve do -- glio -- so~e gra -- ve~or seg -- gio.
     Rec -- tor del ciel, io cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
-    Ti vol -- gha~al tuo di -- let -- t’al -- mo pae -- se:
+    Ti vol -- ga~al tuo di -- let -- t'al -- mo pae -- se:
     Ve -- di, Si -- gnor cor -- te -- se, 
     Di che lie -- vi ca -- gion che cru -- del __ guer -- ra
-    Ei cor ch'in -- dur' et ser -- ra
-    Mar -- te su -- perb' et fe -- ro
-    A -- pri tu, pa -- dre~e’n -- te -- ne -- ri -- sci~et sno -- da;
-    I -- vi fa ch’el tuo ve -- ro
-    Qual’ io mi sia per la mia lin -- gua __ s’o -- da, 
-    Qual’ io mi sia per la mia lin -- gua __ s’o -- da. __
+    Ei cor ch'in -- du -- r'e ser -- ra
+    Mar -- te su -- per -- b'e fe -- ro
+    A -- pri tu, pa -- dre~e'n -- te -- ne -- ri -- sci~e sno -- da;
+    I -- vi fa ch'el tuo ve -- ro
+    Qual' io mi sia per la mia lin -- gua __ s'o -- da, 
+    Qual' io mi sia per la mia lin -- gua __ s'o -- da. __
 }
 
 altusVincipit = \relative c' {
@@ -95,29 +95,29 @@ altusV = \relative c' {
 }
 
 altusLyricsV = \lyricmode {
-    I -- ta -- lia mi -- a, ben ch’el par -- lar sia~in -- dar -- no __
+    I -- ta -- lia mi -- a, ben ch'el par -- lar sia~in -- dar -- no __
     A le pia -- ghe mor -- ta -- li
-    Che nel’ bel cor -- po tuo si spes -- se veg -- gio __
+    Che nel' bel cor -- po tuo sì spes -- se veg -- gio __
     Pia -- ce -- mi~al -- men __ ch'i miei so -- spir sien qua -- li
     \ijLyrics
     Pia -- ce -- mi~al -- men ch'i miei so -- spir sien qua -- li
     \normalLyrics
-    Spe -- ra'l Te -- ver e l’Ar -- no
-    E’l Po do -- ve __ do -- glio -- so~e gra -- ve hor seg -- gio.
+    Spe -- ra'l Te -- ver e l'Ar -- no
+    E'l Po do -- ve __ do -- glio -- so~e gra -- ve or seg -- gio.
     Rec -- tor del ciel, io cheg -- gio 
         io __ cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
-    Ti vol -- gha~al tuo di -- let -- t’al -- mo pae -- se:
+    Ti vol -- ga~al tuo di -- let -- t'al -- mo pae -- se:
     Ve -- di, Si -- gnor cor -- te -- se, 
         cor -- te -- se, 
     Di che lie -- vi ca -- gion che cru -- del guer -- ra
-    Ei cor ch'in -- dur' et ser -- ra
-    Mar -- te su -- perb' et fe -- ro
-    A -- pri tu, pa -- dre e’n -- te -- ne -- ri -- sci~et sno -- da;
-    I -- vi fa ch’el tuo ve -- ro
-    Qual’ io mi sia per la mia lin -- gua s’o -- da, 
-    Qual’ io mi sia per la mia lin -- gua s’o -- da, 
-        per la mia lin -- gua s’o -- da. 
+    Ei cor ch'in -- du -- r'e ser -- ra
+    Mar -- te su -- per -- b'e fe -- ro
+    A -- pri tu, pa -- dre e'n -- te -- ne -- ri -- sci~e sno -- da;
+    I -- vi fa ch'el tuo ve -- ro
+    Qual' io mi sia per la mia lin -- gua s'o -- da, 
+    Qual' io mi sia per la mia lin -- gua s'o -- da, 
+        per la mia lin -- gua s'o -- da. 
 }
 
 tenorVincipit = \relative c {
@@ -160,32 +160,32 @@ tenorV = \relative c {
 }
 
 tenorLyricsV = \lyricmode {
-    I -- ta -- lia mi -- a, ben ch’el par -- lar sia~in -- dar -- no 
+    I -- ta -- lia mi -- a, ben ch'el par -- lar sia~in -- dar -- no 
     \ijLyrics
-        ben ch’el par -- lar sia~in -- dar -- no  __
+        ben ch'el par -- lar sia~in -- dar -- no  __
     \normalLyrics
     A le __ pia -- ghe mor -- ta -- li
-    Che nel’ bel cor -- po tuo __ si spes -- se veg -- gio __
+    Che nel' bel cor -- po tuo __ sì spes -- se veg -- gio __
     Pia -- ce -- mi~al -- men __ ch'i miei so -- spir sien qua -- li
-    Spe -- ra'l Te -- ver e l’Ar -- no
-    E’l Po do -- ve do -- glio -- so~e gra -- ve hor __ seg -- gio.
+    Spe -- ra'l Te -- ver e l'Ar -- no
+    E'l Po do -- ve do -- glio -- so~e gra -- ve or __ seg -- gio.
     Rec -- tor del ciel, io cheg -- gio 
         io __ cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
         che ti con -- dus -- s'in ter -- ra
-    Ti vol -- gha~al tuo di -- let -- t’al -- mo pae -- se,
+    Ti vol -- ga~al tuo di -- let -- t'al -- mo pae -- se,
         al -- mo pae -- se:
     Ve -- di, Si -- gnor cor -- te -- se, 
         cor -- te -- se, __
     Di che lie -- vi ca -- gion che cru -- del guer -- ra
         che cru -- del __ guer -- ra
-    Ei cor ch'in -- dur' et ser -- ra
-    Mar -- te su -- perb' et fe -- ro
-    A -- pri tu, pa -- dre~e’n -- te -- ne -- ri -- sci~et sno -- da; __
-    I -- vi fa ch’el tuo ve -- ro
-    Qual’ io mi sia per la mia lin -- gua s’o -- da, 
+    Ei cor ch'in -- du -- r'e ser -- ra
+    Mar -- te su -- per -- b'e fe -- ro
+    A -- pri tu, pa -- dre~e'n -- te -- ne -- ri -- sci~e sno -- da; __
+    I -- vi fa ch'el tuo ve -- ro
+    Qual' io mi sia per la mia lin -- gua s'o -- da, 
     \ijLyrics
-    Qual’ io mi sia per la mia lin -- gua __ s’o -- da. __
+    Qual' io mi sia per la mia lin -- gua __ s'o -- da. __
     \normalLyrics
 }
 
@@ -227,27 +227,27 @@ bassusV = \relative c, {
 }
 
 bassusLyricsV = \lyricmode {
-    I -- ta -- lia mi -- a, ben ch’el par -- lar sia~in -- dar -- no __
+    I -- ta -- lia mi -- a, ben ch'el par -- lar sia~in -- dar -- no __
     A le pia -- ghe mor -- ta -- li
-    Che nel’ bel cor -- po tuo si spes -- se veg -- gio __
+    Che nel' bel cor -- po tuo sì spes -- se veg -- gio __
     Pia -- ce -- mi~al -- men __ ch'i miei so -- spir sien __ qua -- li
         ch'i miei so -- spir sien qua -- li
-    Spe -- ra'l Te -- ver e l’Ar -- no
-    E’l Po do -- ve do -- glio -- so e gra -- ve hor seg -- gio.
+    Spe -- ra'l Te -- ver e l'Ar -- no
+    E'l Po do -- ve do -- glio -- so e gra -- ve or seg -- gio.
     Rec -- tor del ciel, io cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
-    Ti vol -- gha~al tuo di -- let -- t’al -- mo pae -- se:
+    Ti vol -- ga~al tuo di -- let -- t'al -- mo pae -- se:
     Ve -- di, Si -- gnor cor -- te -- se, 
     Di che lie -- vi ca -- gion che cru -- del guer -- ra
-    Ei cor ch'in -- dur' et ser -- ra
-    Mar -- te su -- perb' et fe -- ro
-    A -- pri tu, pa -- dre~e’n -- te -- ne -- ri -- sci~et sno -- da;
-    I -- vi fa ch’el tuo ve -- ro
-    Qual’ io mi sia per la mia lin -- gua s’o -- da, 
+    Ei cor ch'in -- du -- r'e ser -- ra
+    Mar -- te su -- per -- b'e fe -- ro
+    A -- pri tu, pa -- dre~e'n -- te -- ne -- ri -- sci~e sno -- da;
+    I -- vi fa ch'el tuo ve -- ro
+    Qual' io mi sia per la mia lin -- gua s'o -- da, 
     \ijLyrics
-    Qual’ io mi sia per la mia lin -- gua s’o -- da,
+    Qual' io mi sia per la mia lin -- gua s'o -- da,
     \normalLyrics
-        per la mia lin -- gua s’o -- da. 
+        per la mia lin -- gua s'o -- da. 
 }
 
 quintusVincipit = \relative c {
@@ -291,29 +291,29 @@ quintusV = \relative c {
 }
 
 quintusLyricsV = \lyricmode {
-    I -- ta -- lia mi -- a, ben ch’el par -- lar __ sia in -- dar -- no 
+    I -- ta -- lia mi -- a, ben ch'el par -- lar __ sia in -- dar -- no 
     A le pia -- ghe mor -- ta -- li __
-    Che nel’ bel cor -- po tuo si spes -- se veg -- gio 
+    Che nel' bel cor -- po tuo sì spes -- se veg -- gio 
     Pia -- ce -- mi~al -- men __ ch'i miei so -- spir sien qua -- li
     \ijLyrics
         ch'i miei so -- spir sien qua -- li
     \normalLyrics
-    Spe -- ra'l Te -- ver e l’Ar -- no
-    E’l __ Po do -- ve do -- glio -- so~e gra -- ve~hor seg -- gio.
+    Spe -- ra'l Te -- ver e l'Ar -- no
+    E'l __ Po do -- ve do -- glio -- so~e gra -- ve~or seg -- gio.
     Rec -- tor del ciel, io cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
-    Ti vol -- gha~al tuo di -- let -- t’al -- mo pae -- se:
+    Ti vol -- ga~al tuo di -- let -- t'al -- mo pae -- se:
     Ve -- di, Si -- gnor cor -- te -- se, 
     Di che lie -- vi ca -- gion che cru -- del guer -- ra
-    Ei cor ch'in -- dur' et ser -- ra
-    Mar -- te su -- perb' et fe -- ro
-    A -- pri tu, pa -- dre~e’n -- te -- ne -- ri -- sci~et sno -- da;
-    I -- vi fa ch’el tuo ve -- ro
-    Qual’ io mi sia per la mia lin -- gua __ s’o -- da, 
-    Qual’ io mi sia per la mia lin -- gua 
+    Ei cor ch'in -- du -- r'e ser -- ra
+    Mar -- te su -- per -- b'e fe -- ro
+    A -- pri tu, pa -- dre~e'n -- te -- ne -- ri -- sci~e sno -- da;
+    I -- vi fa ch'el tuo ve -- ro
+    Qual' io mi sia per la mia lin -- gua __ s'o -- da, 
+    Qual' io mi sia per la mia lin -- gua 
     \ijLyrics
     per la mia lin -- gua 
-    \normalLyrics s’o -- da. 
+    \normalLyrics s'o -- da. 
 }
 
 cantusVincipitVoice = <<

@@ -1,5 +1,24 @@
+
 % Dunque potrà'l più fort'e stretto nodo|Dunque potrà'l più fort'e stretto nodo, che mi legasse, amor
 
+% Dunque potrà'l più fort'e stretto nodo
+% che mai legass'amor sdegno disciorre
+% potrà dunque a gli amanti legge porre
+% ira o ragion
+% deh non fia vero mai più tost'eterni guai
+% i pianti sospiri e morte l'ore del viver mio noios'e corte
+% mi renda ch'io mai possa volger gli occhi in altra parte
+% o ch'altr'amor mi tocchi
+
+cantoVIincipit = \relative c'' {
+    \time 2/2
+    \clef "petrucci-g"
+    \key c \major
+
+    a\breve
+}
+
+% canto: checked against source
 cantoVI = \relative c'' {
     \fourTwoCutTime
     \clef treble
@@ -8,8 +27,8 @@ cantoVI = \relative c'' {
     a\breve | a2 a c c | c1. c2 | b c d1 ~ | d2 cs r e | e f4 e2 d4 e2 |
         e d4 c b2 a4 a | b2 c b a | b4
 
-    d4 g, g c4.( b16[ a] c4 b ~ | b a) b2 r4 c c2 | c4 c2 c4 d2 e4 f ~ |
-        f f e1 e2 | r4 e2 d b4 c2 | r1 r4 d2 c4 ~ | c b c2 r c | c
+    d4 g, g c4.( b16[ a] b4 a ~ | a g) a2 r4 c c2 | c4 c2 c4 d2 e4 f ~ |
+        f f e1 e2 | r4 d2 c b4 c2 | r1 r4 d2 c4 ~ | c b c2 r c | c
 
     c2 b2. a4 | gs2 a r f' | f f e2. d4 | cs2 d4 a b2 c4 d ~ | 
         d c b2 a4 a2 b4 ~ | b c d2 e4 d2( c4) | d1 r2 a ~ | a a r4 a bf2 ~ |
@@ -18,7 +37,7 @@ cantoVI = \relative c'' {
     a2 r4 a g2 ~ | g fs r a | a4 b c a b1 | r2 d e4 f g e | 
         f2 e d c4 c ~ | c4( b8[ a] b2) c g | a1 g2 g | g a2. a4 a2 ~ | a b
 
-    c1 | b2 d c4 d b2 ~ | b4( a a1 g2) | a1 r | a2 a4 b c a d2 ~ |
+    c1 | b2 d c4 c b2 ~ | b4( a a1 g2) | a1 r | a2 a4 b c a d2 ~ |
         d4( c8[ b] c2) d1 | r2 a a4 b c a | b1 r2 d | e4 f g e f2 e |
 
     d4 c c2.( b8[ a] b2) | c g a1 | g2 g g a ~ | a4 a a1 b2 | 
@@ -30,35 +49,48 @@ cantoVI = \relative c'' {
 cantoLyricsVI = \lyricmode {
 }
 
+altoVIincipit = \relative c' {
+    \time 2/2
+    \clef "petrucci-c2"
+    \key c \major
+
+    f\breve
+}
+
 altoVI = \relative c' {
     \fourTwoCutTime
     \clef mezzosoprano
     \key c \major
 
     f\breve | f2 f g g | a a a1 | g2 a2.( g4 g2) | a1 r2 c | b c b4 a b2 |
-        c b4 a gs2 a | r e e f4 e ~ | e d e2 
+        c b4 a gs2 a | r2 e e f4 e ~ | e d e2
 
-    g2 g4 e | e2 e r4 a a2 | a4 a2 a4 a2 c4 c ~ | c d b2 c1 | 
-        a g4 f g a ~ | a g2 f4 g a2 g4 ~ | g f g2 a g4 g | g2 r g g |
-        g g2. f4
+    g2 g4 e | e2 e r4 a a2 | a4 a2 a4 a2 c4 c ~ | c d b2 c1 | a g4 f g a ~ |
+        a g2 f4 g2 a | g4 g g2 r2 g | g g g2. f4 | 
 
-    e2 | e r c' c | c c2. b4 a2 | a4 fs2 g a4 b a | gs2 a4 fs2 g e4 |
-        a4( g8[ f] e4) a a1 | a2 r f1 | f2 r4 f f1 | f2 r4 f 
+    e2 e r2 c' | c c c2. b4 | a2 a4 fs2 g a4 | b a gs2 a4 fs2 g4 ~ | 
+        g e a( g8[ f] e4) a a2 ~ | a a r2 f ~ | f f r4 f f2 ~ | f f r4 f 
 
-    d1 | d2 r f e4 d e f | g2 d d4 e f d | g2 g c c | a1 g ~ | g2 e f1 |
-        e2 e e f ~ | f4 f f2. f4 g2 ~ | g4\melisma\ficta fs8[ e] fs2 
-        \unficta \melismaEnd
+    d2 ~ | d d r2 f | e4 d e f g2 d | d4 e f d g2 g | c c a1 | g1. e2 | 
+        f1 e2 e | e f2. f4 f2 ~ | f4 g2.\melfi fs8[ e] fs!2\melfiEnd | 
 
-    g2. g4 | g2 g e1 ~ | e e | r f2 f4 g | a f bf2 a1 ~ | a r2 f |
-        e4 d e f g2 d | d4 e f d g2 g | c c a1 | g1. e2 | f1
+    g2. g4 g2 g | e\breve | e1 r1 | f f4 g a f bf2 | a\breve | 
+        r2 f e4 d e f | g2 d d4 e f d g2 g | c c a1 | g1. e2 | f1
 
-    e2 e | e f2. f4 f2 ~ | 
-        f4 f g2.\melisma \ficta fs8[ e] fs2\unficta\melismaEnd |
-        g2. g4 g2 g | e\breve | e1 r | f2 f4 g a f bf2 | a\longa*1/2
+    e2 e | e f2. f4 f2 ~ | f4 f g2.\melfi fs8[ e] fs!2\melfiEnd |
+        g2. g4 g2 g | e\breve | e1 r1 | f2 f4 g a bf bf2 | a\longa*1/2
     \bar "|."
 }
 
 altoLyricsVI = \lyricmode {
+}
+
+tenoreVIincipit = \relative c' {
+    \time 2/2
+    \key c \major
+    \clef "petrucci-c3"
+
+    c\breve
 }
 
 tenoreVI = \relative c' {
@@ -91,6 +123,14 @@ tenoreVI = \relative c' {
 }
 
 tenoreLyricsVI = \lyricmode {
+}
+
+bassoVIincipit = \relative c {
+    \time 2/2
+    \key c \major
+    \clef "petrucci-c4"
+
+    f\breve
 }
 
 bassoVI = \relative c {

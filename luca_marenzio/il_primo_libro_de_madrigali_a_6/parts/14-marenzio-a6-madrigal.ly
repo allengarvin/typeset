@@ -3,7 +3,7 @@
 % E scherzate e ridete insieme Amori
 % Con la mia Filli in queste parti e in quello;
 % Cantate e di piacer gioite tutti,
-% C'ho d'amor colto i desiati frutti.
+% Ch'ho d'amor colto i desiati frutti.
 
 cantoXIVincipit = \relative c'' {
     \time 4/4
@@ -60,16 +60,16 @@ cantoLyricsXIV = \lyricmode {
     Can -- ta -- te e di pia -- cer,
         e di pia -- cer gio -- i -- te tut -- ti,
         gio -- i -- te tut -- ti,
-    C'ho d'a -- mor 
+    Ch'ho d'a -- mor 
     \ijLyrics
-    C'ho d'a -- mor 
+    Ch'ho d'a -- mor 
     \normalLyrics
         col -- to 
-    C'ho d'a -- mor col -- to~i de -- si -- a -- ti frut -- ti,
+    Ch'ho d'a -- mor col -- to~i de -- si -- a -- ti frut -- ti,
         i de -- si -- a -- ti frut -- ti,
-    C'ho d'a -- mor 
+    Ch'ho d'a -- mor 
     \ijLyrics
-    C'ho d'a -- mor 
+    Ch'ho d'a -- mor 
     \normalLyrics
         col -- to~i de -- si -- a -- ti frut -- ti,
         i de -- si -- a -- ti frut -- ti,
@@ -135,12 +135,12 @@ altoLyricsXIV = \lyricmode {
     \normalLyrics
         gio -- i -- te tut -- ti,
         gio -- i -- te tut -- ti,
-    C'ho d'a -- mor col -- to i de -- si -- a -- ti frut -- ti,
+    Ch'ho d'a -- mor col -- to i de -- si -- a -- ti frut -- ti,
     \ijLyrics
         i de -- si -- a -- ti frut -- ti,
     \normalLyrics
-    C'ho d'a -- mor,
-    C'ho d'a -- mor col -- to
+    Ch'ho d'a -- mor,
+    Ch'ho d'a -- mor col -- to
         i de -- si -- a -- ti frut -- ti,
         i de -- si -- a -- ti frut -- ti.
 }
@@ -185,14 +185,14 @@ tenoreLyricsXIV = \lyricmode {
     Can -- ta -- te,
     Can -- ta -- te e di pia -- cer gio -- i -- te tut -- ti,
         gio -- i -- te tut -- ti,
-    C'ho d'a -- mor 
+    Ch'ho d'a -- mor 
     \ijLyrics
-    C'ho d'a -- mor 
+    Ch'ho d'a -- mor 
     \normalLyrics
         col -- to 
-    C'ho d'a -- mor col -- to i de -- si -- a -- ti frut -- ti,
-    C'ho d'a -- mor,
-    C'ho d'a -- mor col -- to i de -- si -- a -- ti frut -- ti,
+    Ch'ho d'a -- mor col -- to i de -- si -- a -- ti frut -- ti,
+    Ch'ho d'a -- mor,
+    Ch'ho d'a -- mor col -- to i de -- si -- a -- ti frut -- ti,
         i de -- si -- a -- ti frut -- ti.
 }
 
@@ -234,7 +234,7 @@ bassoLyricsXIV = \lyricmode {
     Can -- ta -- te~e di pia -- cer,
         e di pia -- cer gio -- i -- te tut -- ti,
         gio -- i -- te tut -- ti,
-    C'ho d'a -- mor 
+    Ch'ho d'a -- mor 
         i de -- si -- a -- ti frut -- ti, __
         i de -- si -- a -- ti frut -- ti,
     \ijLyrics
@@ -304,11 +304,11 @@ quintoLyricsXIV = \lyricmode {
     \normalLyrics
         gio -- i -- te tut -- ti,
         gio -- i -- te tut -- ti,
-    C'ho d'a -- mor, 
-    C'ho d'a -- mor col -- to __
+    Ch'ho d'a -- mor, 
+    Ch'ho d'a -- mor col -- to __
         i de -- si -- a -- ti frut -- ti, 
         i de -- si -- a -- ti __ frut -- ti, 
-    C'ho d'a -- mor col -- to
+    Ch'ho d'a -- mor col -- to
         i de -- si -- a -- ti frut -- ti,
     \ijLyrics
         i de -- si -- a -- ti frut -- ti,
@@ -377,8 +377,8 @@ sestoLyricsXIV = \lyricmode {
     \normalLyrics
             gio -- i -- te tut -- ti,
         gio -- i -- te tut -- ti,
-    C'ho d'a -- mor col -- to,
-    C'ho d'a -- mor col -- to i de -- si -- a -- ti frut -- ti, __
+    Ch'ho d'a -- mor col -- to,
+    Ch'ho d'a -- mor col -- to i de -- si -- a -- ti frut -- ti, __
         i de -- si -- a -- ti frut -- ti,
         i de -- si -- a -- ti frut -- ti,
         i de -- si -- a -- ti frut -- ti.

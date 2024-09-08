@@ -17,6 +17,9 @@
 % and, by breathing them in, transported my spirits
 % so that, in the hour of my death, I live in her.
 
+% One day my lady took me by the hand
+% and embraced me so sweetly
+
 cantoXIVincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major

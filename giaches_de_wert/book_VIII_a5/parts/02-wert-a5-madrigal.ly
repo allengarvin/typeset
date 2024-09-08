@@ -66,16 +66,16 @@ cantoLyricsII = \lyricmode {
     E~al fin sei sta -- to~ac -- col -- to
     \ijLyrics E~al fin sei sta -- to~ac -- col -- to \normalLyrics
     Nel sen de la tua Di -- va
-    e~al fin sei sta -- to~ac -- col -- to
+    E~al fin sei sta -- to~ac -- col -- to
     nel sen de la tua Di -- va,
     Ch'or d'o -- gni dub -- bio~è pri -- va,
-    ch'or d'o -- gni dub -- bio~è pri -- va,
+    Ch'or d'o -- gni dub -- bio~è pri -- va,
     Ch'a -- vea del no -- stro~a -- mo -- re
     On -- de vi -- vrem __ be -- a -- ti~a tut -- te l'o -- re
-    ch'or d'o -- gni dub -- bio~è pri -- va
-    ch'a -- vea del no -- stro~a -- mo -- re
-    on -- de vi -- vrem __ be -- a -- ti~a __ tut -- te l'o -- re
-    on -- de vi -- vrem
+    Ch'or d'o -- gni dub -- bio~è pri -- va
+    Ch'a -- vea del no -- stro~a -- mo -- re
+    On -- de vi -- vrem __ be -- a -- ti~a __ tut -- te l'o -- re
+    On -- de vi -- vrem
     \ijLyrics On -- de vi -- vrem \normalLyrics be -- a -- ti 
         a tut -- te l'o -- re.
 }
@@ -118,7 +118,7 @@ altoII = \relative c' {
 
 altoLyricsII = \lyricmode {
     Ral -- le -- gra -- ti mio cor ch'o -- gni __ do -- lo -- re,
-    ral -- le -- gra -- ti mio cor ch'o -- gni do -- lo -- re,
+    Ral -- le -- gra -- ti mio cor ch'o -- gni do -- lo -- re,
         do -- lo -- re,
     Che __ per don -- na~hai pa -- ti -- to in gio -- ia~è vol -- to,
         in gio -- ia~è vol -- to,
@@ -126,17 +126,17 @@ altoLyricsII = \lyricmode {
     E~al fin sei sta -- to~ac -- col -- to
     Nel sen de la tua Di -- va
         sei sta -- to~ac -- col -- to
-    nel sen de la tua Di -- va,
-    nel sen de la tua Di -- va,
+    Nel sen de la tua Di -- va,
+    Nel sen de la tua Di -- va,
     E~al fin sei sta -- to~ac -- col -- to
-    nel sen de la tua Di -- va,
+    Nel sen de la tua Di -- va,
     Ch'or d'o -- gni dub -- bio~è pri -- va,
     ch'or d'o -- gni dub -- bio~è pri -- va,
     Ch'a -- vea del no -- stro~a -- mo -- re
     On -- de vi -- vrem be -- a -- ti~a tut -- te l'o -- re,
-    ch'a -- vea del no -- stro~a -- mo -- re,
-    on -- de vi -- vrem be -- a -- ti~a tut -- te l'o -- re,
-        on -- de vi -- vrem __
+    Ch'a -- vea del no -- stro~a -- mo -- re,
+    On -- de vi -- vrem be -- a -- ti~a tut -- te l'o -- re,
+    On -- de vi -- vrem __
     \ijLyrics On -- de vi -- vrem \normalLyrics
          vi -- vrem be -- a -- ti~a tut -- te l'o -- re.
 }
@@ -182,24 +182,24 @@ tenoreII = \relative c' {
 tenoreLyricsII = \lyricmode {
     Ral -- le -- gra -- ti mio cor ch'o -- gni do -- lo -- re,
         ch'o -- gni __ do -- lo -- re,
-    ral -- le -- gra -- ti mio cor ch'o -- gni __ do -- lo -- re,
+    Ral -- le -- gra -- ti mio cor ch'o -- gni __ do -- lo -- re,
     Che per don -- na~hai pa -- ti -- to~in gio -- ia~è vol -- to,
         in gio -- ia~è vol -- to,
         in gio -- ia~è vol -- to,
     E~al fin sei sta -- to~ac -- col -- to
     Nel sen de la __ tua Di -- va,
-    nel sen de la tua Di -- va,
-    e~al fin sei sta -- to~ac -- col -- to,
+    Nel sen de la tua Di -- va,
+    E~al fin sei sta -- to~ac -- col -- to,
         sei sta -- to~ac -- col -- to
-    nel sen de la tua Di -- va.
+    Nel sen de la tua Di -- va.
 
     Ch'or d'o -- gni dub -- bio~è pri -- va,
     Ch'a -- vea del no -- stro~a -- mo -- re
-    ch'or d'o -- gni dub -- bio~è pri -- va,
-    ch'a -- vea del no -- stro~a -- mo -- re
+    Ch'or d'o -- gni dub -- bio~è pri -- va,
+    Ch'a -- vea del no -- stro~a -- mo -- re
     On -- de vi -- vrem __ be -- a -- ti~a tut -- te l'o -- re
-    on -- de vi -- vrem,
-    on -- de vi -- vrem __ be -- a -- ti~a tut -- te l'o -- re.
+    On -- de vi -- vrem,
+    On -- de vi -- vrem __ be -- a -- ti~a tut -- te l'o -- re.
 }
 
 bassoIIincipit = \relative c {
@@ -238,25 +238,25 @@ bassoII = \relative c {
 bassoLyricsII = \lyricmode {
     Ral -- le -- gra -- ti mio cor 
     \ijLyrics
-    ral -- le -- gra -- ti mio cor 
+    Ral -- le -- gra -- ti mio cor 
     \normalLyrics
         ch'o -- gni do -- lo -- re,
     Che per don -- na~hai pa -- ti -- to in gio -- ia~è vol -- to,
         in gio -- ia~è vol -- to
     E~al fin sei sta -- to~ac -- col -- to
     Nel sen de la tua Di -- va
-    e~al fin sei sta -- to~ac -- col -- to
-    nel sen de la tua Di -- va,
-    nel __ sen de la tua Di -- va.
+    E~al fin sei sta -- to~ac -- col -- to
+    Nel sen de la tua Di -- va,
+    Nel __ sen de la tua Di -- va.
 
     Ch'or d'o -- gni dub -- bio~è pri -- va,
-    ch'or d'o -- gni dub -- bio~è pri -- va,
+    Ch'or d'o -- gni dub -- bio~è pri -- va,
     Ch'a -- vea del no -- stro~a -- mo -- re
     On -- de vi -- vrem __ be -- a -- ti~a tut -- te l'o -- re
     \ijLyrics 
-    on -- de vi -- vrem,
+    On -- de vi -- vrem,
     \normalLyrics
-    on -- de vi -- vrem be -- a -- ti~a tut -- te l'o -- re.
+    On -- de vi -- vrem be -- a -- ti~a tut -- te l'o -- re.
 }
 
 quintoIIincipit = \relative c' {
@@ -303,22 +303,22 @@ quintoLyricsII = \lyricmode {
     Ral -- le -- gra -- ti mio cor __ ch'o -- gni do -- lo -- re,
         ch'o -- gni do -- lo -- re,
         ch'o -- gni do -- lo -- re,
-    ral -- le -- gra -- ti mio cor ch'o -- gni do -- lo -- re,
+    Ral -- le -- gra -- ti mio cor ch'o -- gni do -- lo -- re,
     Che __ per don -- na~hai pa -- ti -- to in gio -- ia~è vol -- to
         in gio -- ia~è vol -- to
     E~al fin sei sta -- to~ac -- col -- to
     \ijLyrics E~al fin sei sta -- to~ac -- col -- to \normalLyrics
     Nel sen de la tua Di -- va
-    e~al fin sei sta -- to~ac -- col -- to
-    nel sen de la tua Di -- va,
+    E~al fin sei sta -- to~ac -- col -- to
+    Nel sen de la tua Di -- va,
     Ch'or d'o -- gni dub -- bio~è pri -- va,
     Ch'a -- vea del no -- stro~a -- mo -- re
     On -- de vi -- vrem __ be -- a -- ti~a __ tut -- te l'o -- re
-    ch'or d'o -- gni dub -- bio~è pri -- va,
-    ch'a -- vea del no -- stro~a -- mo -- re
-    on -- de vi -- vrem
+    Ch'or d'o -- gni dub -- bio~è pri -- va,
+    Ch'a -- vea del no -- stro~a -- mo -- re
+    On -- de vi -- vrem
     \ijLyrics
-    on -- de vi -- vrem __ 
+    On -- de vi -- vrem __ 
     \normalLyrics
         be -- a -- ti~a tut -- te l'o -- re.
 }

@@ -28,7 +28,8 @@
 % Meco venirne, o ch’io teco mi stessi:
 % che se’l mio cor tu sei,
 % meco il mio core, e te mio cor avrei.
-% 
+
+
 
 cantoXIincipit = \relative c'' {
     \time 4/4

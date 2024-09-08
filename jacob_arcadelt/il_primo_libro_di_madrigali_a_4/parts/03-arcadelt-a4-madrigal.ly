@@ -5,9 +5,9 @@
 %    Per madonna arsi ed ard' or la mia vita
 %    E si vive la fiamma 
 %    Di quel che sempre fui d'esser contento
-%    Il cieco mio desir ch'ogn'or s'infiamma 
+%    Il cieco mio desir ch'ognor s'infiamma 
 %    Fa la voglia infinita
-%    Tal che dal torto non e'l foco spento 
+%    Tal -- ché dal torto non e'l foco spento 
 %    Ma mi doglio ch'io sento
 %    In madonna mancar sol per tuo errore
 %    La justitia per me per lei l'onore.
@@ -50,14 +50,14 @@ cantusIII = \relative c' {
 cantusLyricsIII = \lyricmode {
     In -- giu -- stis -- si -- mo~a -- mo -- re 
     Che val l'u -- ni -- co ser -- vir con fe -- de 
-    s'al -- tri me -- co con -- cor -- re~al -- la mer -- ce -- de
+    S'al -- tri me -- co con -- cor -- re~al -- la mer -- ce -- de
         al -- la mer -- ce -- de.
 
     Per ma -- don -- na~ar -- si __ ed ard' or la mia __ vi -- ta
-    E si vi -- ve la fiam -- ma di quel che sem -- pre fui __ d'es -- ser __ con -- ten -- to
-    Il cie -- co mio de -- sir ch'o -- gn'or s'in -- fiam -- ma 
+    E si vi -- ve la fiam -- ma di quel che sem -- pre fui __ d'es -- ser __ con -- ten -- to.
+    Il cie -- co mio de -- sir ch'o -- gnor s'in -- fiam -- ma 
     Fa la vo -- glia~in -- fi -- ni -- ta
-    Tal che dal tor -- to non e'l fo -- co spen -- to 
+    Tal -- ché dal tor -- to non e'l fo -- co spen -- to; 
     Ma mi do -- glio ch'io sen -- to
     In ma -- don -- na man -- car sol per tuo~er -- ro -- re
     La giu -- sti -- zia per me per lei l'o -- no -- re,
@@ -107,15 +107,15 @@ altusLyricsIII = \lyricmode {
 
     Per ma -- don -- na~ar -- si ed ard' or la mia vi -- ta
     E si vi -- ve la fiam -- ma 
-    di quel che sem -- pre fui d'es -- ser con -- ten -- to
-    Il cie -- co mio de -- sir ch'o -- gn'or s'in -- fiam -- ma 
+    Di quel che sem -- pre fui d'es -- ser con -- ten -- to.
+    Il cie -- co mio de -- sir ch'o -- gnor s'in -- fiam -- ma 
     Fa la vo -- glia~in -- fi -- ni -- ta
-    Tal che dal tor -- to non __ e'l fo -- co spen -- to 
+    Tal -- ché dal tor -- to non __ e'l fo -- co spen -- to; 
     Ma mi do -- glio ch'io sen -- to
     In ma -- don -- na man -- car sol per tuo~er -- ro -- re
     La giu -- sti -- zia per me per lei l'o -- no -- re,
         per lei l'o -- no -- re,
-    la giu -- sti -- zia per me per lei l'o -- no -- re,
+    La giu -- sti -- zia per me per lei l'o -- no -- re,
     \ijLyrics
         per lei l'o -- no -- re.
     \normalLyrics
@@ -166,10 +166,10 @@ tenorLyricsIII = \lyricmode {
 
     Per ma -- don -- na~ar -- si ed ard' __ or la mia vi -- ta
     E si vi -- ve la fiam -- ma 
-    di quel che sem -- pre fui d'es -- ser con -- ten -- to
-    Il cie -- co mio de -- sir ch'o -- gn'or s'in -- fiam -- ma 
+    Di quel che sem -- pre fui d'es -- ser con -- ten -- to.
+    Il cie -- co mio de -- sir ch'o -- gnor s'in -- fiam -- ma 
     Fa la vo -- glia~in -- fi -- ni -- ta
-    Tal che dal tor -- to non __ e'l fo -- co spen -- to  __
+    Tal -- ché dal tor -- to non __ e'l fo -- co spen -- to;  __
     Ma __ mi do -- glio ch'io sen -- to __
     In ma -- don -- na man -- car sol per tuo~er -- ro -- re
     La giu -- sti -- zia per me per lei l'o -- no -- re,
@@ -221,11 +221,11 @@ bassusLyricsIII = \lyricmode {
 
     Per ma -- don -- na~ar -- si __ ed ard' or la mia vi -- ta
     E si vi -- ve la fiam -- ma 
-    di quel che sem -- pre fui d'es -- ser con -- ten -- to
+    Di quel che sem -- pre fui d'es -- ser con -- ten -- to.
     Il cie -- co mio de -- sir,
-    Il cie -- co mio de -- sir ch'o -- gn'or s'in -- fiam -- ma 
+    Il cie -- co mio de -- sir ch'o -- gnor s'in -- fiam -- ma 
     Fa la __ vo -- glia~in -- fi -- ni -- ta
-    Tal che dal tor -- to non __ e'l fo -- co spen -- to __
+    Tal -- ché dal tor -- to non __ e'l fo -- co spen -- to; __
     Ma __ mi do -- glio ch'io sen -- to __
     In ma -- don -- na man -- car sol per tuo~er -- ro -- re
     La giu -- sti -- zia per me per lei l'o -- no -- re,

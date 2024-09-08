@@ -51,18 +51,18 @@ cantoLyricsXXXI = \lyricmode {
         e fra -- le,
     Mo -- stre -- reb -- be ch'e -- gua -- le
     E -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
-    e -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
+    E -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
     Pur di -- rò tai pa -- ro -- le,
-    pur di -- rò tai pa -- ro -- le,
+    Pur di -- rò tai pa -- ro -- le,
         tai __ pa -- ro -- le: __
     U -- na~Ip -- po -- li -- ta~è~in ter -- ra, 
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra, 
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra, 
         e~in ciel un so -- le,
-    pur di -- rò tai pa -- ro -- le,
-    pur di -- rò tai pa -- ro -- le,
+    Pur di -- rò tai pa -- ro -- le,
+    Pur di -- rò tai pa -- ro -- le,
         tai __ pa -- ro -- le: __
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra, 
-    u -- na~Ip -- po -- li -- ta~è~in __ ter -- ra, 
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra, 
+    U -- na~Ip -- po -- li -- ta~è~in __ ter -- ra, 
         e~in ciel un so -- le,
         e~in ciel un so -- le.
 }
@@ -104,21 +104,21 @@ altoXXXI = \relative c' {
 altoLyricsXXXI = \lyricmode {
     Non può~in -- ge -- gno mor -- ta -- le
     Ri -- trar co -- sa __ di -- vi -- na,
-    ri -- trar __ co -- sa di -- vi -- na,
+    Ri -- trar __ co -- sa di -- vi -- na,
     Ché se po -- tes -- se il mi -- o
     Stil, ben -- ché roz -- zo~e fra -- le,
     Mo -- stre -- reb -- be __ ch'e -- gua -- le
     E -- sem -- pio non fè mai,
-    e -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
+    E -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
     Pur __ di -- rò tai pa -- ro -- le,
-    pur di -- rò tai pa -- ro -- le:
+    Pur di -- rò tai pa -- ro -- le:
     U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
         e~in ciel un so -- le,
-    pur __ di -- rò tai pa -- ro -- le,
-    pur di -- rò tai pa -- ro -- le:
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    Pur __ di -- rò tai pa -- ro -- le,
+    Pur di -- rò tai pa -- ro -- le:
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
         e~in ciel un so -- le,
         e~in ciel __ un so -- le.
 }
@@ -158,7 +158,7 @@ tenoreXXXI = \relative c {
 tenoreLyricsXXXI = \lyricmode {
     Non può~in -- ge -- gno mor -- ta -- le,
     \ijLyrics
-    non può~in -- ge -- gno mor -- ta -- le
+    Non può~in -- ge -- gno mor -- ta -- le
     \normalLyrics
     Ri -- trar __ co -- sa __ di -- vi -- na,
     Ché se po -- tes -- se il mi -- o
@@ -166,16 +166,16 @@ tenoreLyricsXXXI = \lyricmode {
 %        e fra -- le,
     Mo -- stre -- reb -- be ch'e -- gua -- le
     E -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
-    e -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
+    E -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
     Pur di -- rò tai __ pa -- ro -- le,
     pur di -- rò tai __ pa -- ro -- le:
     U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
         e~in ciel __ un so -- le,
-    pur di -- rò tai __ pa -- ro -- le,
-    pur di -- rò tai __ pa -- ro -- le:
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    Pur di -- rò tai __ pa -- ro -- le,
+    Pur di -- rò tai __ pa -- ro -- le:
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
         e~in ciel __ un so -- le,
         e~in ciel __ un so -- le.
 }
@@ -217,17 +217,17 @@ bassoLyricsXXXI = \lyricmode {
     Stil, 
     Mo -- stre -- reb -- be __ ch'e -- gua -- le
     E -- sem -- pio non fè mai,
-    e -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
+    E -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
     Pur di -- rò tai pa -- ro -- le,
     pur di -- rò tai __ pa -- ro -- le:
     U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
         e~in __ ciel un so -- le,
-    pur di -- rò tai pa -- ro -- le,
-    pur di -- rò tai pa -- ro -- le,
-    pur di -- rò tai __ pa -- ro -- le:
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    Pur di -- rò tai pa -- ro -- le,
+    Pur di -- rò tai pa -- ro -- le,
+    Pur di -- rò tai __ pa -- ro -- le:
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
         e~in __ ciel un so -- le,
         e~in ciel __ un so -- le.
 }
@@ -267,26 +267,26 @@ quintoXXXI = \relative c' {
 quintoLyricsXXXI = \lyricmode {
     Non può~in -- ge -- gno mor -- ta -- le,
     \ijLyrics
-    non può~in -- ge -- gno mor -- ta -- le
+    Non può~in -- ge -- gno mor -- ta -- le
     \normalLyrics
     Ri -- trar co -- sa di -- vi -- na,
     Ché se po -- tes -- se,
     \ijLyrics
-    ché se po -- tes -- se
+    Ché se po -- tes -- se
     \normalLyrics
         il mi -- o
     Stil, ben -- ché roz -- zo~e fra -- le,
     Mo -- stre -- reb -- be __ ch'e -- gua -- le
     E -- sem -- pio non fè mai,
-    e -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
+    E -- sem -- pio non fè mai Na -- tu -- ra~e Di -- o.
     Pur di -- rò tai pa -- ro -- le:
     U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
         e~in ciel un so -- le,
         e~in ciel un so -- le,
-    pur di -- rò tai pa -- ro -- le:
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
-    u -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    Pur di -- rò tai pa -- ro -- le:
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
+    U -- na~Ip -- po -- li -- ta~è~in ter -- ra,
         e~in ciel un so -- le,
         e~in ciel un so -- le,
         e~in ciel __ un so -- le.

@@ -1,9 +1,9 @@
 % Ma poi che vostra altezza a noi ritorna
-% Ripiglian l’o -- nor suo gl’arbor, le valli, 
-% E festa fan tutte le Nimphe insieme. 
+% ripiglian l'onor suo gli arbor, le valli, 
+% e festa fan tutte le Ninfe insieme. 
 % Alza dal molle suo letto le corna
-% Il Po e ripieno di leggiadra speme 
-% Si gode a pien tra i suoi puri cristalli.
+% il Po, e ripieno di leggiadra speme 
+% si gode a pien tra i suoi puri cristalli.
 
 cantoIXincipit = \relative c'' {
     \time 2/2
@@ -45,17 +45,17 @@ cantoIX = \relative c'' {
 
 cantoLyricsIX = \lyricmode {
     Ma __ poi che vo -- stra~al -- tez -- za~a noi ri -- tor -- na,
-    Ma poi __ che vo -- stra~al -- tez -- za~a noi ri -- tor -- na
-    Ri -- pi -- glian l’o -- nor suo gl’ar -- bor, __ le val -- li, __
-    E fe -- sta fan tut -- te le Nim -- phe~in -- sie -- me,
-        tut -- te le Nim -- phe~in -- sie -- me. 
+    ma poi __ che vo -- stra~al -- tez -- za~a noi ri -- tor -- na
+    Ri -- pi -- glian l'o -- nor suo gl'ar -- bor, __ le val -- li, __
+    E fe -- sta fan tut -- te le Nin -- fe~in -- sie -- me,
+        tut -- te le Nin -- fe~in -- sie -- me. 
     Al -- za dal mol -- le suo let -- to le cor -- na~il Po 
         e ri -- pie -- no di leg -- gia -- dra spe -- me 
     Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
-        E ri -- pie -- no di leg -- gia -- dra spe -- me 
-    Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
-    Si go -- de~a pien,
-    Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
+        e ri -- pie -- no di leg -- gia -- dra spe -- me 
+    si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
+    si go -- de~a pien,
+    si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
         tra~i suoi pu -- ri cri -- stal -- li.
 }
 
@@ -99,22 +99,22 @@ altoIX = \relative c' {
 
 altoLyricsIX = \lyricmode {
     Ma poi che vo -- stra~al -- tez -- za~a noi __ ri -- tor -- na,
-    Ma poi __ che vo -- stra~al -- tez -- za~a noi __ ri -- tor -- na
-    Ri -- pi -- glian l’o -- nor suo,
-    Ri -- pi -- glian l’o -- nor suo gl’ar -- bor, le val -- li, 
+    ma poi __ che vo -- stra~al -- tez -- za~a noi __ ri -- tor -- na
+    Ri -- pi -- glian l'o -- nor suo,
+    ri -- pi -- glian l'o -- nor suo gl'ar -- bor, le val -- li, 
     E fe -- sta fan,
     \ijLyrics
-    E fe -- sta fan 
+    e fe -- sta fan 
     \normalLyrics
-        tut -- te le Nim -- phe~in -- sie -- me,
-        tut -- te le Nim -- phe~in -- sie -- me. 
+        tut -- te le Nin -- fe~in -- sie -- me,
+        tut -- te le Nin -- fe~in -- sie -- me. 
     Al -- za dal mol -- le suo let -- to le cor -- na~il Po 
         e ri -- pie -- no di leg -- gia -- dra spe -- me 
     Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
-        E ri -- pie -- no di leg -- gia -- dra spe -- me 
-    Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
-    Si go -- de~a pien,
-    Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li.
+        e ri -- pie -- no di leg -- gia -- dra spe -- me 
+    si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
+    si go -- de~a pien,
+    si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li.
 }
 
 tenoreIXincipit = \relative c' {
@@ -152,21 +152,21 @@ tenoreIX = \relative c' {
 
 tenoreLyricsIX = \lyricmode {
     Ma poi che vo -- stra~al -- tez -- za~a noi ri -- tor -- na,
-    Ma __ poi che vo -- stra~al -- tez -- za~a noi __ ri -- tor -- na
-    Ri -- pi -- glian l’o -- nor suo __ gl’ar -- bor, le __ val -- li, 
+    ma __ poi che vo -- stra~al -- tez -- za~a noi __ ri -- tor -- na
+    Ri -- pi -- glian l'o -- nor suo __ gl'ar -- bor, le __ val -- li, 
     E fe -- sta fan,
     \ijLyrics
-    E fe -- sta fan 
+    e fe -- sta fan 
     \normalLyrics
-        tut -- te le Nim -- phe~in -- sie -- me,
-        tut -- te le Nim -- phe~in -- sie -- me. 
+        tut -- te le Nin -- fe~in -- sie -- me,
+        tut -- te le Nin -- fe~in -- sie -- me. 
     Al -- za dal mol -- le suo let -- to le cor -- na~il Po 
     Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
-        E ri -- pie -- no di leg -- gia -- dra spe -- me 
+        e ri -- pie -- no di leg -- gia -- dra spe -- me 
     Si go -- de~a pien,
-    Si go -- de~a pien,
+    si go -- de~a pien,
     \ijLyrics
-    Si go -- de~a pien
+    si go -- de~a pien
     \normalLyrics
          tra~i suoi pu -- ri cri -- stal -- li,
          tra~i __ suoi pu -- ri cri -- stal -- li.
@@ -208,13 +208,13 @@ bassoIX = \relative c {
 
 bassoLyricsIX = \lyricmode {
     Ma poi che vo -- stra~al -- tez -- za~a noi __ ri -- tor -- na,
-    Ri -- pi -- glian l’o -- nor suo gl’ar -- bor, le val -- li, 
-    E fe -- sta fan tut -- te le Nim -- phe~in -- sie -- me,
-        tut -- te le Nim -- phe~in -- sie -- me. 
+    Ri -- pi -- glian l'o -- nor suo gl'ar -- bor, le val -- li, 
+    E fe -- sta fan tut -- te le Nin -- fe~in -- sie -- me,
+        tut -- te le Nin -- fe~in -- sie -- me. 
     Al -- za dal mol -- le suo let -- to le cor -- na~il Po 
         e ri -- pie -- no di leg -- gia -- dra spe -- me 
     Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
-    Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
+    si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
         tra~i suoi pu -- ri cri -- stal -- li.
 }
 
@@ -257,21 +257,21 @@ quintoIX = \relative c {
 
 quintoLyricsIX = \lyricmode {
     Ma poi che vo -- stra~al -- tez -- za~a noi __ ri -- tor -- na,
-    Ma poi che vo -- stra~al -- tez -- za~a noi ri -- tor -- na
-    Ri -- pi -- glian l’o -- nor suo __ gl’ar -- bor, le val -- li, 
+    ma poi che vo -- stra~al -- tez -- za~a noi ri -- tor -- na
+    Ri -- pi -- glian l'o -- nor suo __ gl'ar -- bor, le val -- li, 
     E fe -- sta fan,
     \ijLyrics
-    E fe -- sta fan 
+    e fe -- sta fan 
     \normalLyrics
-        tut -- te le Nim -- phe~in -- sie -- me,
-        tut -- te le Nim -- phe~in -- sie -- me. 
+        tut -- te le Nin -- fe~in -- sie -- me,
+        tut -- te le Nin -- fe~in -- sie -- me. 
     Al -- za dal mol -- le suo let -- to le cor -- na~il Po 
         e ri -- pie -- no di leg -- gia -- dra spe -- me 
     Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
-        E ri -- pie -- no di leg -- gia -- dra spe -- me 
-    Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
-    Si go -- de~a pien,
-    Si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li.
+        e ri -- pie -- no di leg -- gia -- dra spe -- me 
+    si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li,
+    si go -- de~a pien,
+    si go -- de~a pien tra~i suoi pu -- ri cri -- stal -- li.
 }
 
 cantoIXincipitVoice = <<

@@ -131,10 +131,10 @@ cantoOneLyricsXI = \lyricmode {
         et Spi -- ri -- tu -- i San -- cto,
         et Fi -- li -- o, 
         et Spi -- ri -- tu -- i San -- cto,
-        et Spi -- ri -- tu -- i San -- cto, __
+        et Spi -- ri -- tu -- i San -- cto. __
 %
 %    Si -- cut e -- rat 
-        in prin -- ci -- pi -- o, et nunc et sem -- per,
+        In prin -- ci -- pi -- o, et nunc et sem -- per,
     et in sæ -- cu -- la sæ -- cu -- lo -- rum:
         A -- men.
     \ijLyrics
@@ -153,9 +153,9 @@ cantoTwoXIincipit = \relative c'' {
 }
 
 % page 21, canto II book
+% canto II: checked against source
 cantoTwoXI = \relative c'' {
     \fourTwoCommonTime
-    \clef soprano
     \key f \major
 
     R\breve | r4 c d e f2 r4 d ~| d c2 bf4 bf8([ a a g16 f]
@@ -172,7 +172,7 @@ cantoTwoXI = \relative c'' {
         r1 r4 f,8[ g] a4 bf8[ c] |
     % --- page ---
            % vvv not very visible
-    bf8[ bf] f'2 ef8[ d] c4 c8[bf] a4. a8 | g2 r r1 | R\breve R\breve*4 |
+    bf8[ bf] f'2 ef8[ d] c4 c8[bf] a4. a8 | g2 r r1 | R\breve*5 |
         r8 bf[ g a] bf[ g] d'2 c8[ bf] 
 
     bf4 bf | r8 f f2 e4 f a c f,8[ f] | g[ g a a] bf16([ a bf g] d'[ c bf a] 
@@ -180,8 +180,8 @@ cantoTwoXI = \relative c'' {
     bf4) a g4. g8 | a2 r r1 | 
         r4 f'4. e8[ e e] f4 f8[ c] a16([ bf c a] d[ c bf a] |
 
-    g8)[ c] d16([ c bf a] a[ g a bf] g[ bf a bf] a[ g a bf] g2) fs4 |
-        g2 r r1 | R\breve*4 R\breve | r1 r2 r8 bf bf[ a16 bf] |
+    g8)[ c] d16([ c bf a] g[ a bf g] bf[ a bf g] a[ g a bf] g2) fs4 |
+        g2 r r1 | R\breve*3 R\breve*2 | r1 r2 r8 bf bf[ a16 bf] |
 
     f8[ g16 a] a8[ bf16 c] bf4. bf8 a[ c c bf16 c] a8[ bf16 c] d8[ e16 f] |
         e4. d8 d2 r1 |
@@ -256,17 +256,17 @@ cantoTwoLyricsXI = \lyricmode {
         et Fi -- li -- o,
         et Spi -- ri -- tu -- i San -- cto,
     \ijLyrics
-        et Spi -- ri -- tu -- i San -- cto,
+        et Spi -- ri -- tu -- i San -- cto.
     \normalLyrics
 
     Si -- cut e -- rat
-        in prin -- ci -- pi -- o et nunc __ et sem -- per,
+        in prin -- ci -- pi -- o et nunc et sem -- per,
     et in sæ -- cu -- la sæ -- cu -- lo -- rum:
         A -- men.
     et in sæ -- cu -- la sæ -- cu -- lo -- rum:
         A -- men. 
-%    \normalLyrics
-%    Sæ -- cu -- lo -- rum: A -- men.
+    \normalLyrics
+    Sæ -- cu -- lo -- rum: A -- men.
 }
 
 altoXIincipit = \relative c' {
@@ -277,26 +277,117 @@ altoXIincipit = \relative c' {
     d16
 }
 
+% alto: checked against source
 altoXI = \relative c' {
     \fourTwoCommonTime
-    \clef alto
     \key f \major
 
     R\breve*4 R\breve*2 |
-        r4 d16([ c bf a] bf4) f'8[ f] ef2 d8.([ e16] d8[ e16 f] |
+        r4 d16([ c bf a] bf4) f'8[ f] ef2 d8.[\melfi ef!16] d8[ ef!16 f] |
 
-    d4) f2 e4 f c r4 d ~ | 
+    d4\melfiEnd f2 e4 f c r4 d ~ | 
         d( c bf8.[ c16] bf8[ c16 d] ef8)[ d] d2 \slurOn c4( |
 
     d4) \slurOff f,8[ f] f4 g a8.([ bf16] a8[ bf16 c] d8.[ e16] d8[ e16 f] |
         d8)[ e] f4 ~ f16([ e f d] e4) f2 c4 bf ~ | bf a2
 
-    g4.( bf8 bf16[ a c bf] a2) | g r r1 | R\breve*4 R\breve |
+    g4.( a8 bf16[ a c bf] a2) | g r r1 | R\breve R\breve*4 |
+        r4 d'16([ c bf a)] bf4 f' ef4. f8 d8.([ ef16] c8.[ d16] |
+        bf8.[ d16] c8.[ d16] 
         
+    bf8[ c16 d] c8)[ bf] a4 c16([ bf a g] a4) f | 
+        g16([ a bf g] a[ bf c a] bf[ f g a] bf[ f g a]
+
+    % --- page ---
+    bf16[ a bf c] d4 ~ d16[ c d bf] c4) | d2 r r4 a bf c |
+        d f2 e8[ d] d4 c r d ~ | d c8[ c] 
+
+    c4 bf2 a16([ bf c bf)] a2 | g r r1 | R\breve*4 R\breve | 
+        r4 g8[ a] bf[ c d f] ef2 d4. bf8 | d8[ e f f]
+
+    f4. \slurOn e8( f4)\slurOff c8[ c] c[ a bf d] | \slurOn 
+        c4 d2 ef8([ d) c( bf)] \slurOff ef([ d d c16 bf] c4) |
+
+    d4 a8[ a] a[ f g a] f4 a2 g4 | e f2( e4) f c'8[ c] c[ a bf d] |
+        c4 \slurOn d2 bf8([ a)] r4 c8([ bf)] \slurOff
+
+    a2 | g r r1 | R\breve*2 | R\breve*3 |
+        r8 d'[ bf g] r8 d'[ d f] ef4. ef8 d4 r8 d | d[ f] f2 e4
+
+    f4 c c bf8[ a] | g[ g] d'2 c8[ a] bf8.[ c16] d4 d4. c8 |
+                   
+        d4 a8[ a] f[ d g' g] f[ d ef ef]
+
+    d[ bf d d] | 
+        d16([ c d bf] c[ bf c a] bf[ a g a] bf[ c d e] f8.)[ f16] f4 r8 c[ bf a] |
+
+    g8[ g'] f8.[ e16] d([ c bf a] g8)[ d'] c8.([ d16] bf8.[ c16] a4.) g8 |
+        g2 r r1 | R\breve*5 |
+        r8 d'16([ c] bf[ a bf c] d8.)[ e16] f4 
+    % --- page ---
+    ef2 d | r1 r8 c c8.[ bf16] a4 r8 d16[ a] |
+        c8[ c16 bf] a4 g2 r1 | r8 f' f8.[ e16] 
+
+    d8[ d16 a] c8[ d16 c] a4 a r8 bf16[ f] g8[ a16 g] |
+        f2.\slurOn e4( f2) \slurOff r2 |
+        r2 r8 d'16[ bf] d8[ ef16 d] 
+
+    c4 g r4 d'8[ d] | d[ g, bf a] g[ bf a c] bf[ d] c4 d2 | R\breve | 
+        r4 f8[ e] 
+
+                         % vvvvvvv editorial to match others
+    d[ g, bf c] d[ g,] d'2 \slurOn c4( | 
+        d2)\slurOff r2 r4 g,8[ a] bf[ a16 bf] d8[ c] |
+
+    bf4 f' f( e) f2 r4 f8[ f] | e[ d16 e] c8[ a] d[ d bf g]
+
+    c8[ bf16 c] g8[ g] d'[ a] d4 | b\longa*1/2
+       
     \bar "|."
 }
 
 altoLyricsXI = \lyricmode {
+    Po -- tens in ter -- ra e -- rit se -- men,
+        se -- men e -- jus; __
+        ge -- ne -- ra -- ti -- o __ re -- cto -- rum be -- ne -- di -- ce -- tur.
+    E -- xor -- tum est in te -- ne -- bris lu -- men re -- ctis: 
+        mi -- se -- ri -- cors, et mi -- se -- ra -- tor,
+            et __ mi -- se -- ra -- tor, et __ ju -- stus.
+
+    In me -- mo -- ri -- a æ -- ter -- na,
+        æ -- ter -- na e -- rit ju -- stus;
+        ab au -- di -- ti -- o -- ne ma -- la non __ ti -- me -- bit, 
+        ab au -- di -- ti -- o -- ne ma -- la non ti -- me -- bit,
+        ab au -- di -- ti -- o -- ne ma -- la non __ ti -- me -- bit.
+
+    Di -- sper -- sit, de -- dit pau -- pe -- ri -- bus,
+    \ijLyrics
+          de -- dit pau -- pe -- ri -- bus; 
+    \normalLyrics
+        ju -- sti -- ti -- a e -- jus ma -- net in sæ -- cu -- lum sæ -- cu -- li:
+        cor -- nu e -- jus,
+        cor -- nu e -- jus,
+        cor -- nu e -- jus e -- xal -- ta -- bi -- tur in glo -- ri -- a,
+            in glo -- ri -- a, __
+            in glo -- ri -- a.
+
+    Glo -- ri -- a Pa -- tri et Fi -- li -- o,
+        et Spi -- ri -- tu -- i San -- cto,
+            et Fi -- li -- o
+        et Spi -- ri -- tu -- i San -- cto,
+        et Spi -- ri -- tu -- i San -- cto, __
+    \ijLyrics
+        et Spi -- ri -- tu -- i San -- cto.
+    \normalLyrics
+
+    Si -- cut e -- rat in prin -- ci -- pi -- o et nunc et sem -- per,
+        in prin -- ci -- pi -- o et nunc et sem -- per, __
+    et in sæ -- cu -- la sæ -- cu -- lo -- rum: A -- men.
+    et in sæ -- cu -- la sæ -- cu -- lo -- rum,
+    \ijLyrics
+    et in sæ -- cu -- la sæ -- cu -- lo -- rum:
+    \normalLyrics
+        A -- men.
 }
 
 continuoXIincipit = \relative c {

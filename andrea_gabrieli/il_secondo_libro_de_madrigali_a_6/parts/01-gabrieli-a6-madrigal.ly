@@ -1,6 +1,6 @@
 % Sonno diletto e caro
 % Che alla mia Donna in sen mi guidi e scorgi,
-% Perchè sì tosto, ohimè, lasso ten vai
+% Perché sì tosto, ohimè, lasso ten vai
 % Poi che a questi occhi è sì il veggiar amaro?
 % Torna, deh torna, o dolce sonno e mai
 % Non mi lasciar che un tanto ben mi porgi;
@@ -49,7 +49,7 @@ cantoLyricsI = \lyricmode {
     Ch'al -- la mia Don -- na~in sen mi gui -- di~e scor -- gi,
     Son -- no di -- let -- to~e ca -- ro
     ch'al -- la mia Don -- na~in sen mi gui -- di~e scor -- gi,
-    Per -- chè sì to -- sto~ohi -- mè, __ las -- so ten va -- i,
+    Per -- ché sì to -- sto~ohi -- mè, __ las -- so ten va -- i,
         las -- so ten va -- i
     Poi ch'a que -- sti~oc -- chi~è sì'l __ veg -- giar a -- ma -- ro?
     Tor -- na, 
@@ -126,9 +126,9 @@ altoLyricsI = \lyricmode {
     \ijLyrics
         mi gui -- di~e scor -- gi,
     \normalLyrics
-    Per -- chè sì to -- sto~ohi -- mè, 
+    Per -- ché sì to -- sto~ohi -- mè, 
     \ijLyrics
-    per -- chè sì to -- sto~ohi -- mè, 
+    per -- ché sì to -- sto~ohi -- mè, 
     \normalLyrics
         las -- so ten va -- i,
             ten va -- i
@@ -207,9 +207,9 @@ tenoreLyricsI = \lyricmode {
     Ch'al -- la mia Don -- na~in sen mi gui -- di~e scor -- gi,
     Son -- no di -- let -- to~e ca -- ro
     ch'al -- la mia Don -- na~in sen mi gui -- di~e scor -- gi,
-    Per -- chè sì to -- sto~ohi -- mè, las -- so __ ten va -- i,
-    per -- chè,
-    per -- chè sì to -- sto~ohi -- mè, las -- so __ ten va -- i,
+    Per -- ché sì to -- sto~ohi -- mè, las -- so __ ten va -- i,
+    per -- ché,
+    per -- ché sì to -- sto~ohi -- mè, las -- so __ ten va -- i,
     Tor -- na,
     \ijLyrics
     tor -- na,
@@ -266,7 +266,7 @@ bassoLyricsI = \lyricmode {
     \normalLyrics
     Ch'al -- la mia Don -- na~in sen,
     Ch'al -- la mia Don -- na~in sen mi gui -- di~e scor -- gi,
-    Per -- chè sì to -- sto~ohi -- mè, las -- so ten va -- i,
+    Per -- ché sì to -- sto~ohi -- mè, las -- so ten va -- i,
     Tor -- na,
     \ijLyrics
     tor -- na,
@@ -323,8 +323,8 @@ quintoLyricsI = \lyricmode {
     Ch'al -- la mia Don -- na~in sen mi gui -- di~e scor -- gi,
     son -- no di -- let -- to~e ca -- ro
     ch'al -- la mia Don -- na~in sen mi gui -- di~e scor -- gi,
-    Per -- chè sì to -- sto~ohi -- mè, las -- so ten va -- i,
-    per -- chè sì to -- sto~ohi -- mè,
+    Per -- ché sì to -- sto~ohi -- mè, las -- so ten va -- i,
+    per -- ché sì to -- sto~ohi -- mè,
     Poi ch'a que -- sti~oc -- chi~è sì'l veg -- giar a -- ma -- ro?
     Tor -- na,
     \ijLyrics
@@ -396,7 +396,7 @@ sestoLyricsI = \lyricmode {
     ch'al -- la mia Don -- na~in sen
     \normalLyrics
         mi gui -- di~e scor -- gi,
-    Per -- chè sì to -- sto~ohi -- mè, las -- so ten va -- i,
+    Per -- ché sì to -- sto~ohi -- mè, las -- so ten va -- i,
         las -- so ten va -- i
     Poi ch'a que -- sti~oc -- chi~è sì'l veg -- giar a -- ma -- ro?
     Tor -- na,

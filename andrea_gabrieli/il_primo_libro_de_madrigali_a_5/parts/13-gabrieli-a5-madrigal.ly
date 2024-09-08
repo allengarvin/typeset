@@ -45,7 +45,7 @@ cantoXIII = \relative c'' {
 
 cantoLyricsXIII = \lyricmode {
     A -- min -- ta mio gen -- til, che sì cor -- te -- se
-    Vi -- di~in quel gior -- no~e tal __ di gra -- tia pie -- no,
+    Vi -- di~in quel gior -- no~e tal __ di gra -- zia pie -- no,
     Che'l pri -- mo sguar -- do,
     che'l pri -- mo sguar -- do non so -- sten -- ne~a pe -- na
     L'al -- ma che'n voi d'a -- mor tut -- ta~ar -- se~ed al -- se;
@@ -94,7 +94,7 @@ altoLyricsXIII = \lyricmode {
     A -- min -- ta mio gen -- til,
     A -- min -- ta mio gen -- til, che sì cor -- te -- se
     Vi -- di~in quel gior -- no,
-    vi -- di~in quel gior -- no~e tal di gra -- tia pie -- no,
+    vi -- di~in quel gior -- no~e tal di gra -- zia pie -- no,
     Che'l pri -- mo sguar -- do,
     che'l pri -- mo sguar -- do non so -- sten -- ne~a pe -- na
     L'al -- ma che'n voi d'a -- mor,
@@ -147,7 +147,7 @@ tenoreXIII = \relative c' {
 tenoreLyricsXIII = \lyricmode {
     A -- min -- ta mio gen -- til, che sì cor -- te -- se __
     Vi -- di~in quel gior -- no,
-    vi -- di~in quel gior -- no~e tal di gra -- tia pie -- no,
+    vi -- di~in quel gior -- no~e tal di gra -- zia pie -- no,
     Che'l pri -- mo sguar -- do non so -- sten -- ne~a pe -- na
     L'al -- ma,
     Deh, quei be -- gli~oc -- chi~a me,
@@ -192,7 +192,7 @@ bassoXIII = \relative c' {
 
 bassoLyricsXIII = \lyricmode {
     A -- min -- ta mio gen -- til, che sì cor -- te -- se
-    Vi -- di~in quel gior -- no e tal di gra -- tia pie -- no,
+    Vi -- di~in quel gior -- no e tal di gra -- zia pie -- no,
     Che'l pri -- mo sguar -- do,
     che'l pri -- mo sguar -- do non so -- sten -- ne~a pe -- na
     L'al -- ma,
@@ -241,7 +241,7 @@ quintoXIII = \relative c'' {
 quintoLyricsXIII = \lyricmode {
     A -- min -- ta mio gen -- til,
     A -- min -- ta mio gen -- til, __ che sì cor -- te -- se
-    Vi -- di~in quel gior -- no~e tal di gra -- tia pie -- no,
+    Vi -- di~in quel gior -- no~e tal di gra -- zia pie -- no,
     Che'l pri -- mo sguar -- do,
     \ijLyrics
     che'l pri -- mo sguar -- do,

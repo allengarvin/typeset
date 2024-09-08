@@ -3,7 +3,7 @@
 %Egli, perché s’arretra
 %Per poca offesa alle più gravi umile,
 %Scoperto il furto, di ch’al fin s’avvide,
-%Iròssi, e non fu parco
+%Irossi, e non fu parco
 %A por la mano all’arco
 %Per ferirvi. Ma vide le saette 
 %Dal fianco suo divise,
@@ -67,9 +67,9 @@ cantoLyricsXXI = \lyricmode {
     In -- vo -- la -- ste~al -- l’in -- cau -- to la __ fa -- re -- tra,
     E -- gli, per -- ché s’ar -- re -- tra
     Per po -- ca of -- fe -- sa~al -- le più __ 
-        gra -- vi~u -- mi -- le,~al -- le più gra -- vi~u -- mi -- le,
+        gra -- vi~u -- mi -- le~al -- le più gra -- vi~u -- mi -- le,
     Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
-    I -- ròs -- si, e non fu par -- co
+    I -- ros -- si, e non fu par -- co
     A por la ma -- no~al -- l’ar -- co
     Per fe -- rir -- vi. Ma vi -- de le sa -- et -- te 
     Dal fian -- co suo di -- vi -- se,
@@ -139,7 +139,7 @@ altoLyricsXXI = \lyricmode {
     E -- gli, per -- ché s’ar -- re -- tra
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
     Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
-    I -- ròs -- si,~e non fu par -- co
+    I -- ros -- si~e non fu par -- co
     A por la ma -- no~al -- l’ar -- co
     Per fe -- rir -- vi.
     A por la ma -- no~al -- l’ar -- co
@@ -205,9 +205,9 @@ tenoreLyricsXXI = \lyricmode {
     \normalLyrics
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
     Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
-    I -- ròs -- si, 
+    I -- ros -- si, 
     \ijLyrics
-    I -- ròs -- si, 
+    I -- ros -- si, 
     \normalLyrics
         e non fu par -- co
     A por la ma -- no~al -- l’ar -- co
@@ -224,7 +224,7 @@ tenoreLyricsXXI = \lyricmode {
     \ijLyrics
     E~in -- va -- ghi -- to di voi, 
     \normalLyrics
-    E~in -- va -- ghi -- to di voi, di sé sor -- ri -- se,~E~in -- va -- ghi -- to di voi, 
+    E~in -- va -- ghi -- to di voi, di sé sor -- ri -- se~E~in -- va -- ghi -- to di voi, 
     \ijLyrics
     E~in -- va -- ghi -- to di voi, 
     \normalLyrics
@@ -280,7 +280,7 @@ bassoLyricsXXI = \lyricmode {
     \normalLyrics
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
     Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
-    I -- ròs -- si, e non fu par -- co
+    I -- ros -- si, e non fu par -- co
     A por la ma -- no~al -- l’ar -- co
     Per fe -- rir -- vi. Ma vi -- de le sa -- et -- te 
     Dal fian -- co suo di -- vi -- se,
@@ -348,9 +348,9 @@ quintoLyricsXXI = \lyricmode {
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
     Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
-    I -- ròs -- si, 
+    I -- ros -- si, 
     \ijLyrics
-    I -- ròs -- si,
+    I -- ros -- si,
     \normalLyrics
         e non fu par -- co
     A por la ma -- no~al -- l’ar -- co

@@ -28,10 +28,11 @@ superiusLX = \relative c' {
 
     r2 a' | bf c d bf | a d1 c2 | bf1 a2 r4 d, | e2 f g e | 
         d g g\ficta  fs\unficta |
-        g g bf1 | c d2 f | d1. d2 | d d
+        g g bf1 | \repeat volta 2 { 
+    c d2 f | d1. d2 | d d
 
     % --- page ---
-    c1 | bf r2 bf | \repeat volta 2 { 
+    c1 | bf r2 bf | 
         a g f d | f2.( g4 a2) bf | f bf1 a2 | bf1 d | d2 d c bf |
         a g c1 | a g | r2 d 
 
@@ -41,7 +42,7 @@ superiusLX = \relative c' {
         \invisibleTime\time 4/2
 
     }
-    \alternative { { g1 r2 bf } { g\longa*1/2 } }
+    \alternative { { g2 g2 bf1 } { g\longa*1/2 } }
     \bar "|."
 }
 
@@ -78,7 +79,7 @@ superiusLyricsLX = \lyricmode {
         par pe -- ché le Sei -- gneur,
             le Sei -- gneur;
 
-        mais
+        mais j'ai-
     -gneur.
 
 }

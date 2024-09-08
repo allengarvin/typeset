@@ -1,18 +1,16 @@
-%Che fa oggi il mio sole,
-%Che fa'l mio canto e'l suono,
-%Che non cantan di lei la gloria e'l nome?
-%Or queste mie viole
-%E questi fior gli dono,
-%Che ne facci corona alle sue chiome.
-
-% What is my sun doing today,
-% What are my songs and sounds for,
-% if not for singing to her of her glory and fame?
-% Now, here are violets
-% and more flowers which I present to her,
-% to crown the ringlets of her hair.
-% -- Le compagnia del madrigale liner notes
-
+% Che fa oggi il mio sole?
+% Che fa'l mio canto e'l suono,
+% che non cantan di lei la gloria e'l nome?
+% Or queste mie viole
+% e questi fior gli dono,
+% che ne facci corona alle sue chiome.
+% 
+% What does my sun do today?
+% What do my song and my sound do,
+% if they dot nog sing of her, her glory, and her name?
+% Now these violets of mine
+% and these flowers I give to her,
+% that she make a crown of them upon her hair.
 
 cantoXincipit = \relative c'' {
     \time 4/4

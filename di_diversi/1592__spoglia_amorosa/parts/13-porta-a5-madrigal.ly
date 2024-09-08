@@ -1,9 +1,9 @@
 % Vago augelletto più ch'altri beato
-% Che dolcemente ogn'hor cantand'acqueti
+% Che dolcemente ognor cantand'acqueti
 % I pensier di colei che i miei più lieti far
-% Far potrebbe e tornar à miglior stato
+% Far potrebbe e tornar a miglior stato
 %
-% Perche non come à te dal ciel m'è dato
+% Perche non come a te dal ciel m'è dato
 % Di menar vita in si amorose reti
 % Onde non sia chi mai mi scioglia ò vieti
 % L'esser da lei nodrito e lusingato.
@@ -46,13 +46,13 @@ cantoXIII = \relative c'' {
 cantoLyricsXIII = \lyricmode {
     Va -- go~au -- gel -- let -- to più ch'al -- tri be -- a -- to,
         più ch'al -- tri be -- a -- to,
-    Che dol -- ce -- men -- te~o -- gn'hor can -- tand' ac -- que -- ti,
+    Che dol -- ce -- men -- te~o -- gnor can -- tand' ac -- que -- ti,
     I __ pen -- sier di co -- lei che~i miei più lie -- ti far
         che~i miei più lie -- ti 
-    Far po -- treb -- be e __ tor -- nar à mi -- glior sta -- to.
+    Far po -- treb -- be e __ tor -- nar a mi -- glior sta -- to.
 
-    Per -- che non co -- me~à te dal ciel m'è da -- to
-    Per -- che non co -- me~à te dal ciel m'è da -- to
+    Per -- che non co -- me~a te dal ciel m'è da -- to
+    Per -- che non co -- me~a te dal ciel m'è da -- to
     Di me -- nar vi -- ta~in si~a -- mo -- ro -- se re -- ti
     On -- de non sia chi mai mi scio -- glia~ò vie -- ti
     L'es -- ser da lei __ no -- dri -- to~e lu -- sin -- ga -- to.
@@ -90,13 +90,13 @@ altoXIII = \relative c'' {
 
 altoLyricsXIII = \lyricmode {
     Va -- go~au -- gel -- let -- to più ch'al -- tri be -- a -- to,
-    Che dol -- ce -- men -- te~o -- gn'hor can -- tand' ac -- que -- ti,
+    Che dol -- ce -- men -- te~o -- gnor can -- tand' ac -- que -- ti,
     I pen -- sier di co -- lei che~i miei più lie -- ti far
         che~i miei più lie -- ti 
-    Far po -- treb -- be e tor -- nar __ à mi -- glior sta -- to.
+    Far po -- treb -- be e tor -- nar __ a mi -- glior sta -- to.
 
-    Per -- che non co -- me~à te,
-    Per -- che non co -- me~à te dal ciel m'è da -- to
+    Per -- che non co -- me~a te,
+    Per -- che non co -- me~a te dal ciel m'è da -- to
     On -- de non sia chi mai mi scio -- glia~ò vie -- ti
         chi mai mi scio -- glia~ò vie -- ti
     L'es -- ser da lei no -- dri -- to~e lu -- sin -- ga -- to.
@@ -135,11 +135,11 @@ tenoreXIII = \relative c' {
 tenoreLyricsXIII = \lyricmode {
     Va -- go~au -- gel -- let -- to più ch'al -- tri be -- a -- to,
     Va -- go~au -- gel -- let -- to più ch'al -- tri be -- a -- to,
-    Che dol -- ce -- men -- te~o -- gn'hor can -- tand' ac -- que -- ti,
+    Che dol -- ce -- men -- te~o -- gnor can -- tand' ac -- que -- ti,
     I __ pen -- sier di co -- lei 
-    e __ tor -- nar __ à mi -- glior sta -- to.
+    e __ tor -- nar __ a mi -- glior sta -- to.
 
-    Per -- che non co -- me~à te dal ciel m'è da -- to,
+    Per -- che non co -- me~a te dal ciel m'è da -- to,
         dal ciel m'è da -- to,
     Di me -- nar vi -- ta~in si~a -- mo -- ro -- se re -- ti
     On -- de non sia chi mai mi scio -- glia~ò vie -- ti
@@ -177,11 +177,11 @@ bassoXIII = \relative c' {
 
 bassoLyricsXIII = \lyricmode {
     Va -- go~au -- gel -- let -- to più ch'al -- tri be -- a -- to,
-    Che dol -- ce -- men -- te~o -- gn'hor can -- tand' ac -- que -- ti,
+    Che dol -- ce -- men -- te~o -- gnor can -- tand' ac -- que -- ti,
         che~i miei più lie -- ti 
-    Far po -- treb -- be e __ tor -- nar à mi -- glior sta -- to.
+    Far po -- treb -- be e __ tor -- nar a mi -- glior sta -- to.
 
-    Per -- che non co -- me~à te dal ciel m'è da -- to
+    Per -- che non co -- me~a te dal ciel m'è da -- to
     On -- de non sia chi mai mi scio -- glia~ò vie -- ti
     L'es -- ser da lei __ no -- dri -- to~e lu -- sin -- ga -- to.
 }
@@ -219,12 +219,12 @@ quintoXIII = \relative c' {
 
 quintoLyricsXIII = \lyricmode {
     Va -- go~au -- gel -- let -- to più ch'al -- tri be -- a -- to,
-    Che dol -- ce -- men -- te~o -- gn'hor can -- tand' ac -- que -- ti,
+    Che dol -- ce -- men -- te~o -- gnor can -- tand' ac -- que -- ti,
     I pen -- sier di co -- lei 
-        e tor -- nar à mi -- glior sta -- to.
+        e tor -- nar a mi -- glior sta -- to.
 
-    Per -- che non co -- me~à te 
-    Per -- che non co -- me~à te dal ciel m'è da -- to
+    Per -- che non co -- me~a te 
+    Per -- che non co -- me~a te dal ciel m'è da -- to
     Di me -- nar vi -- ta~in si~a -- mo -- ro -- se re -- ti
     On -- de non sia chi mai mi scio -- glia~ò vie -- ti
     L'es -- ser da lei,

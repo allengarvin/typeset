@@ -34,10 +34,10 @@ cantoVII = \relative c'' {
 }
 
 cantoLyricsVII = \lyricmode {
-    So -- ven -- te~al -- lor, che sù gli~e -- sti -- vi~ar -- do -- ri
+    So -- ven -- te~al -- lor, che su gli~e -- sti -- vi~ar -- do -- ri
     So -- ven -- te~al -- lor,
-    So -- ven -- te~al -- lor, che sù gli~e -- sti -- vi~ar -- do -- ri
-        che sù gli~e -- sti -- vi~ar -- do -- ri
+    So -- ven -- te~al -- lor, che su gli~e -- sti -- vi~ar -- do -- ri
+        che su gli~e -- sti -- vi~ar -- do -- ri
     Gia -- cean le pe -- co -- rel -- le~à l'om -- bra~as -- si -- se,
     Ne la scor -- za de' fag -- gi,~e de gli~Al -- lo -- ri
     Se -- gnò l'a -- ma -- to no -- me~in mil -- le gui -- se,
@@ -87,17 +87,17 @@ altoVII = \relative c'' {
 }
 
 altoLyricsVII = \lyricmode {
-    So -- ven -- te~al -- lor, che sù gli~e -- sti -- vi~ar -- do -- ri
+    So -- ven -- te~al -- lor, che su gli~e -- sti -- vi~ar -- do -- ri
     So -- ven -- te~al -- lor,
     \ijLyrics
     So -- ven -- te~al -- lor, 
     \normalLyrics
-        che sù gli~e -- sti -- vi~ar -- do -- ri
+        che su gli~e -- sti -- vi~ar -- do -- ri
     So -- ven -- te~al -- lor,
     \ijLyrics
     So -- ven -- te~al -- lor, 
     \normalLyrics
-        che sù gli~e -- sti -- vi~ar -- do -- ri
+        che su gli~e -- sti -- vi~ar -- do -- ri
 
     Gia -- cean le pe -- co -- rel -- le,
     Gia -- cean le pe -- co -- rel -- le~à l'om -- bra~as -- si -- se,
@@ -154,7 +154,7 @@ tenoreVII = \relative c' {
 
 tenoreLyricsVII = \lyricmode {
     Gia -- cean le pe -- co -- rel -- le~à l'om -- bra~as -- si -- se,
-    So -- ven -- te~al -- lor, che sù gli~e -- sti -- vi~ar -- do -- ri __
+    So -- ven -- te~al -- lor, che su gli~e -- sti -- vi~ar -- do -- ri __
     Gia -- cean le pe -- co -- rel -- le à l'om -- bra~as -- si -- se,
     Ne la scor -- za de' fag -- gi,~e de gli~Al -- lo -- ri
     Se -- gnò l'a -- ma -- to no -- me~in mil -- le gui -- se,
@@ -202,7 +202,7 @@ bassoVII = \relative c' {
 }
 
 bassoLyricsVII = \lyricmode {
-    So -- ven -- te~al -- lor, che sù gli~e -- sti -- vi~ar -- do -- ri
+    So -- ven -- te~al -- lor, che su gli~e -- sti -- vi~ar -- do -- ri
     Gia -- cean le pe -- co -- rel -- le~à l'om -- bra~as -- si -- se,
     Gia -- cean le pe -- co -- rel -- le~à l'om -- bra~as -- si -- se,
     Ne la scor -- za de' fag -- gi,~e de gli~Al -- lo -- ri
@@ -257,9 +257,9 @@ quintoLyricsVII = \lyricmode {
     \ijLyrics
     So -- ven -- te~al -- lor, 
     \normalLyrics
-        che sù gli~e -- sti -- vi~ar -- do -- ri
+        che su gli~e -- sti -- vi~ar -- do -- ri
     Gia -- cean le pe -- co -- rel -- le~à l'om -- bra~as -- si -- se,
-    So -- ven -- te~al -- lor, che sù gli~e -- sti -- vi~ar -- do -- ri __
+    So -- ven -- te~al -- lor, che su gli~e -- sti -- vi~ar -- do -- ri __
     Gia -- cean le pe -- co -- rel -- le~à l'om -- bra~as -- si -- se,
     Ne la scor -- za de' fag -- gi,~e de gli~Al -- lo -- ri
     Se -- gnò l'a -- ma -- to no -- me~in mil -- le gui -- se,

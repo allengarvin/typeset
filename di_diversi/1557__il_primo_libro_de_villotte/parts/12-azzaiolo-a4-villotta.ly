@@ -114,9 +114,9 @@ tenorLyricsXII = \lyricmode {
     quan -- do mi stai so -- nan -- do la vio - la.
 
     E che di -- ces -- si 
-        fa mi la mi so la fo mi la mi so la fa mi la mi so la,
+        fa mi la mi so la fa mi la mi so la fa mi la mi so la,
     E che di -- ces -- si 
-        fa mi la mi so la fo mi la mi so la fa mi la mi so la.
+        fa mi la mi so la fa mi la mi so la fa mi la mi so la.
 }
 
 tenorLyricsXIItwo = \lyricmode {
@@ -157,9 +157,9 @@ bassusLyricsXII = \lyricmode {
     quan -- do mi stai so -- nan -- do la vio - la.
 
     E che di -- ces -- si 
-        fa mi la mi so la fo mi la mi so la fa mi la mi so la,
+        fa mi la mi so la fa mi la mi so la fa mi la mi so la,
     E che di -- ces -- si 
-        fa mi la mi so la fo mi la mi so la fa mi la mi so la.
+        fa mi la mi so la fa mi la mi so la fa mi la mi so la.
 }
 
 bassusLyricsXIItwo = \lyricmode {

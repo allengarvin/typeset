@@ -45,20 +45,20 @@ cantoIIdecorated = \relative c' {
 }
 
 cantoDecoratedLyricsII = \lyricmode {
-    Dis -- sì a l’a -- ma -- ta mia lu -- ci -- da stel -- la, 
-    Che più d’o -- gn’al -- tra lu -- ce
-    Dis -- sì a l’a -- ma -- ta mia lu -- ci -- da stel -- la, 
-    Che più d’o -- gn’al -- tra lu -- ce,
+    Dis -- sì a l'a -- ma -- ta mia lu -- ci -- da stel -- la, 
+    Che più d'o -- gn'al -- tra lu -- ce
+    Dis -- sì a l'a -- ma -- ta mia lu -- ci -- da stel -- la, 
+    Che più d'o -- gn'al -- tra lu -- ce,
     Ed al __ mio cor __ ad -- du -- ce
     Fiam -- me stra -- li~e ca -- te -- ne 
     Ed al __ mio __ cor ad -- du -- ce
     Fiam -- me Fiam -- me stra -- li~e ca -- te -- ne,
-    ch’o -- gn’hor mi dan -- no pe -- ne
-    ch’o -- gn’hor mi __ dan -- no pe -- ne:
+    ch'o -- gnor mi dan -- no pe -- ne
+    ch'o -- gnor mi __ dan -- no pe -- ne:
     Deh mo -- ri -- rò mo -- ri -- rò cor mi -- o
     sì mo -- ri -- rò mo -- ri -- rò mo -- ri -- rò __ cor mi -- o
-    sì sì mo -- ri -- rai ma non __ per mio de -- sì -- o
-    sì sì mo -- ri -- rai ma non __ per mio de -- sì -- o.
+    sì sì mo -- ri -- rai ma non __ per mio de -- si -- o
+    sì sì mo -- ri -- rai ma non __ per mio de -- si -- o.
 }
 
 cantoIIincipit = \relative c' {
@@ -106,28 +106,28 @@ cantoII = \relative c' {
 }
 
 cantoLyricsII = \lyricmode {
-    Dis -- sì a l’a -- ma -- ta mia lu -- ci -- da stel -- la, 
-    Che più d’o -- gn’al -- tra lu -- ce
-    Dis -- sì a l’a -- ma -- ta mia lu -- ci -- da stel -- la, 
-    Che più d’o -- gn’al -- tra lu -- ce,
+    Dis -- sì a l'a -- ma -- ta mia lu -- ci -- da stel -- la, 
+    Che più d'o -- gn'al -- tra lu -- ce
+    Dis -- sì a l'a -- ma -- ta mia lu -- ci -- da stel -- la, 
+    Che più d'o -- gn'al -- tra lu -- ce,
     Ed al mio cor ad -- du -- ce
     Fiam -- me stra -- li~e ca -- te -- ne __ 
     Ed al mio cor ad -- du -- ce
     Fiam -- me Fiam -- me stra -- li~e ca -- te -- ne,
-    ch’o -- gn’hor mi dan -- no pe -- ne
-    ch’o -- gn’hor mi dan -- no pe -- ne:
+    ch'o -- gnor mi dan -- no pe -- ne
+    ch'o -- gnor mi dan -- no pe -- ne:
     Deh mo -- ri -- rò mo -- ri -- rò cor mi -- o
     sì mo -- ri -- rò mo -- ri -- rò mo -- ri -- rò cor mi -- o
-    sì sì mo -- ri -- rai ma non per mio de -- sì -- o
-    sì sì mo -- ri -- rai ma non per mio de -- sì -- o.
+    sì sì mo -- ri -- rai ma non per mio de -- si -- o
+    sì sì mo -- ri -- rai ma non per mio de -- si -- o.
   
-%Dissi a l'amata mia lucida stella,
-%che più d'ogn'altra luce
-%ed al mio cor adduce
-%fiamme, strali e catene,
-%ch'ogn'hor mi danno pene:
-%Deh morirò, cor mio
-%Sì, morirai, ma non per mio desio.
+% Dissi a l'amata mia lucida stella
+% che più d'ogn'altra luce
+% ed al mio cor adduce
+% fiamme, strali e catene,
+% ch'ognor mi danno pene:
+% «Deh morirò, cor mio.»
+% «Sì, morirai, ma non per mio desio.»
 }
 
 altoIIincipit = \relative c' {
@@ -168,20 +168,20 @@ altoII = \relative c' {
 }
 
 altoLyricsII = \lyricmode {
-    Dis -- sì a l’a -- ma -- ta mia lu -- ci -- da stel -- la, 
-    Che più d’o -- gn’al -- tra lu -- ce
-    à l’a -- ma -- ta mia lu -- ci -- da stel -- la __
-    à l’a -- ma -- ta mia lu -- ci -- da stel -- la
-    Che più d’o -- gn’al -- tra lu -- ce
+    Dis -- sì a l'a -- ma -- ta mia lu -- ci -- da stel -- la, 
+    Che più d'o -- gn'al -- tra lu -- ce
+    à l'a -- ma -- ta mia lu -- ci -- da stel -- la __
+    à l'a -- ma -- ta mia lu -- ci -- da stel -- la
+    Che più d'o -- gn'al -- tra lu -- ce
     Ed al mio cor ad -- du -- ce
     Ed al mio cor ad -- du -- ce
     Fiam -- me stra -- li e ca -- te -- ne
-    ch’o -- gn’hor mi dan -- no pe -- ne
+    ch'o -- gnor mi dan -- no pe -- ne
         mi __ dan -- no pe -- ne:
     Deh mo -- ri -- rò mo -- ri -- rò cor mi -- o
     sì mo -- ri -- rò mo -- ri -- rò mo -- ri -- rò cor mi -- o
-    sì sì mo -- ri -- rai ma non per mio de -- sì -- o
-    sì sì mo -- ri -- rai ma non per mio de -- sì -- o.
+    sì sì mo -- ri -- rai ma non per mio de -- si -- o
+    sì sì mo -- ri -- rai ma non per mio de -- si -- o.
 }
 
 tenoreIIincipit = \relative c {
@@ -222,25 +222,25 @@ tenoreII = \relative c {
 }
 
 tenoreLyricsII = \lyricmode {
-    A l’a -- ma -- ta mia lu -- ci -- da stel -- la, 
-    Dis -- sì a l’a -- ma -- ta mia lu -- ci -- da stel -- la, 
-    à l’a -- ma -- ta mia lu -- ci -- da stel -- la, 
-    Che più d’o -- gn’al -- tra lu -- ce,
+    A l'a -- ma -- ta mia lu -- ci -- da stel -- la, 
+    Dis -- sì a l'a -- ma -- ta mia lu -- ci -- da stel -- la, 
+    à l'a -- ma -- ta mia lu -- ci -- da stel -- la, 
+    Che più d'o -- gn'al -- tra lu -- ce,
     Ed al mio cor ad -- du -- ce
     Fiam -- me stra -- li~e ca -- te -- ne 
     Fiam -- me stra -- li~e ca -- te -- ne, 
-    ch’o -- gn’hor 
-    ch’o -- gn’hor mi dan -- no pe -- ne,
-    ch’o -- gn’hor 
-    ch’o -- gn’hor mi dan -- no __ pe -- ne,
+    ch'o -- gnor 
+    ch'o -- gnor mi dan -- no pe -- ne,
+    ch'o -- gnor 
+    ch'o -- gnor mi dan -- no __ pe -- ne,
     Deh
     sì sì mo -- ri -- rai 
     sì mo -- ri -- rai 
     mo -- ri -- ro
     mo -- ri -- ro
     sì mo -- ri -- rai 
-    sì ma non per mio de -- sì -- o,
-    sì ma non per mio de -- sì -- o.
+    sì ma non per mio de -- si -- o,
+    sì ma non per mio de -- si -- o.
 }
 
 bassoIIincipit = \relative c {
@@ -278,24 +278,24 @@ bassoII = \relative c {
 }
 
 bassoLyricsII = \lyricmode {
-    Dis -- sì a l’a -- ma -- ta mia
-    Dis -- sì a l’a -- ma -- ta mia lu -- ci -- da stel -- la, 
-    Che più d’o -- gn’al -- tra lu -- ce
+    Dis -- sì a l'a -- ma -- ta mia
+    Dis -- sì a l'a -- ma -- ta mia lu -- ci -- da stel -- la, 
+    Che più d'o -- gn'al -- tra lu -- ce
     Ed al mio cor ad -- du -- ce,
     Fiam -- me stra -- li
     Ed al mio cor ad -- du -- ce
     Ed al mio cor ad -- du -- ce,
     Fiam -- me stra -- li~e ca -- te -- ne
-    ch’o -- gn’hor 
-    ch’o -- gn’hor mi dan -- no pe -- ne __
+    ch'o -- gnor 
+    ch'o -- gnor mi dan -- no pe -- ne __
     Deh
     sì sì mo -- ri -- rai 
     sì mo -- ri -- rai 
     mo -- ri -- ro
     sì mo -- ri -- rai sì
-    ma non per mio de -- sì -- o
+    ma non per mio de -- si -- o
     sì
-    ma non per mio de -- sì -- o.
+    ma non per mio de -- si -- o.
 }
 
 %Dissi a l'amata mia lucida stella,

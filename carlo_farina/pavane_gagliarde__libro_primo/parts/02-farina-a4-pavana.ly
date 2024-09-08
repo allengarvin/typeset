@@ -7,6 +7,7 @@ cantoIIincipit = \relative c'' {
 }
 
 % canto: checked against source
+% checked against modern
 cantoII = \relative c'' {
     \fourTwoCutTime
     \key c \major
@@ -46,6 +47,7 @@ altoIIincipit = \relative c' {
 }
 
 % alto: checked against source
+% alto checked against modern
 altoII = \relative c' {
     \fourTwoCutTime
     \key c \major
@@ -61,7 +63,8 @@ altoII = \relative c' {
         d2. b4 | c2 d2. e8[ f] g4 f | e d cs8[ d e cs] d2. c4 | b1 a2 fs' |
         e2. a4 g2 g | 
 
-        d8[ g f e] d2. cs8[ d] e4. e8 | f2 d e d | c2. b8[ c] d4 a d4. c8 |
+        d8[ g f e] d2. cs8[ d] e4. e8 | \ficta fs2 d e d \unficta | 
+        c2. b8[ c] d4 a d4. c8 |
         b2. c4 d1 | 
     }
     \repeat volta 2 {
@@ -90,13 +93,15 @@ tenoreII = \relative c' {
     \key c \major
 
     \repeat volta 2 {
-        gs2. a4 b1 | a g ~ | g2 f4 e d1 | d'2 c b g | a1 g2. fs4 | 
+        gs2. a4 b1 | a g ~ | g2 f4 e d1 | d'2\ficta cs\unficta b g | 
+        a1 g2. fs4 | 
         e2 a b4 c d g,8[ f] | e2 a b1 ~ | b2 b4 a 
 
         gs1
     }
     \repeat volta 2 {
-        g4 e e'2 a,2 a4 b | g2 a fs g | e g f4 a g2 | g1 a | g fs2. a4 |
+        g4 e e'2 a,2 a4 b | g2 a fs g | e g \ficta fs4 a g2\unficta | 
+        g1 a | g fs2. a4 |
         c1 b | g2. a4 
 
         b2. b8[ cs] | d2 a b2. b4 | e,8[ d e f] g4. a8 b2 a | g2. a4 b1 | 
@@ -157,6 +162,24 @@ cantoIIincipitVoice = <<
         \cantoIIincipit
     >>
 >>
+
+continuoII = \figuremode {
+    \override Staff.BassFigureAlignmentPositioning.direction = #DOWN
+
+    s1 <5 6> <7 6> <6 5> <7 6> <_+>2 <_+> s1 <4 3> <6>2 <5> <6> <6> 
+        s\breve. <4 3>1 s\breve
+
+    % next repeat:
+    s1 <_+>2. <5>4 s1*3 <_+>4 <6> <6>2 s <6> <4 3>1 
+    s\breve*2 s2 <6> <_+> <6 3> s\breve s2 <6 5> <4 3>1 s\breve |
+
+    % last repeat
+    s1 s <6> <7 6> <6 5> <7 6> <5 6> s1
+
+    s1 s2. <6>4 s1 <6>4 <6> <6>2 <5> <3> <5> <6>8 s s s s2. <6>4 s <6> s <6>
+
+    s\breve s1. <6 5>1 <6>2 <4 3>1
+}
 
 altoIIincipitVoice = <<
     \new MensuralVoice <<

@@ -39,7 +39,7 @@ cantoXXVI = \relative c'' {
 cantoLyricsXXVI = \lyricmode {
     Mi -- se -- ro più __ d'o -- gni~uom, 
     \ijLyrics
-    mi -- se -- ro più d'o -- gni~uom, 
+    Mi -- se -- ro più d'o -- gni~uom, 
     \normalLyrics
         mi -- se -- ro~e las -- so
     Che deb -- bo più __ spe -- rar se'l mio la -- men -- to
@@ -49,16 +49,16 @@ cantoLyricsXXVI = \lyricmode {
     Al pian -- to mio sì lon -- go~e do -- lo -- ro -- so
     Non di -- ver -- ria pie -- to -- so?
     E voi che don -- na se -- te,
-    e voi che don -- na se -- te e co -- sì bel -- la
+    E voi che don -- na se -- te e co -- sì bel -- la
     Sa -- ra -- te dun -- que di __ pie -- tà ru -- bel -- la?
     Deh di -- mo -- stra -- te~o -- mai che se -- te pi -- a,
         che se -- te pi -- a
     Ch'es -- ser don -- na non può sì bel -- la~e ri -- a,
         sì bel -- la~e ri -- a,
 
-    ch'es -- ser don -- na non può,
+    Ch'es -- ser don -- na non può,
     \ijLyrics
-    ch'es -- ser don -- na non può 
+    Ch'es -- ser don -- na non può 
     \normalLyrics
         sì bel -- la~e ri -- a.
     
@@ -100,7 +100,7 @@ altoXXVI = \relative c' {
 altoLyricsXXVI = \lyricmode {
     Mi -- se -- ro più d'o -- gni~uom, 
     \ijLyrics
-    mi -- se -- ro più d'o -- gni~uom, 
+    Mi -- se -- ro più d'o -- gni~uom, 
     \normalLyrics
         mi -- se -- ro~e las -- so
     Che deb -- bo più spe -- rar,
@@ -110,16 +110,16 @@ altoLyricsXXVI = \lyricmode {
     Al pian -- to mio sì lon -- go~e do -- lo -- ro -- so
     Non __ di -- ver -- ria pie -- to -- so?
     E voi che don -- na se -- te,
-    e voi che don -- na se -- te e __ co -- sì bel -- la
+    E voi che don -- na se -- te e __ co -- sì bel -- la
     Sa -- ra -- te dun -- que,
-    sa -- ra -- te dun -- que di pie -- tà ru -- bel -- la?
+    Sa -- ra -- te dun -- que di pie -- tà ru -- bel -- la?
     Deh di -- mo -- stra -- te~o -- mai che se -- te pi -- a,
         che se -- te pi -- a
     Ch'es -- ser don -- na non può sì bel -- la~e ri -- a,
         sì bel -- la~e ri -- a,
 
-    ch'es -- ser don -- na non può,
-    ch'es -- ser don -- na non può sì bel -- la~e ri -- a.
+    Ch'es -- ser don -- na non può,
+    Ch'es -- ser don -- na non può sì bel -- la~e ri -- a.
 }
 
 tenoreXXVIincipit = \relative c' {
@@ -160,12 +160,12 @@ tenoreXXVI = \relative c' {
 tenoreLyricsXXVI = \lyricmode {
     Mi -- se -- ro più d'o -- gni~uom, 
     \ijLyrics
-    mi -- se -- ro più d'o -- gni~uom, 
+    Mi -- se -- ro più d'o -- gni~uom, 
     \normalLyrics
         mi -- se -- ro~e las -- so
     Che deb -- bo più spe -- rar,
     \ijLyrics
-    che deb -- bo più spe -- rar
+    Che deb -- bo più spe -- rar
     \normalLyrics
         se'l mio la -- men -- to
     Non __ vi mo -- ve~a pie -- tà del mio tor -- men -- to?
@@ -174,13 +174,13 @@ tenoreLyricsXXVI = \lyricmode {
     Non di -- ver -- ria pie -- to -- so?
     E voi che don -- na se -- te e co -- sì bel -- la
     Sa -- ra -- te dun -- que,
-    sa -- ra -- te dun -- que di pie -- tà ru -- bel -- la,
+    Sa -- ra -- te dun -- que di pie -- tà ru -- bel -- la,
         ru -- bel -- la?
     Deh di -- mo -- stra -- te~o -- mai che se -- te pi -- a,
     Ch'es -- ser don -- na non può sì bel -- la~e ri -- a,
         sì bel -- la~e ri -- a,
-    ch'es -- ser don -- na non può,
-    ch'es -- ser don -- na non __ può sì bel -- la~e ri -- a.
+    Ch'es -- ser don -- na non può,
+    Ch'es -- ser don -- na non __ può sì bel -- la~e ri -- a.
 }
 
 bassoXXVIincipit = \relative c' {
@@ -221,13 +221,13 @@ bassoLyricsXXVI = \lyricmode {
     Al pian -- to mio sì lon -- go~e do -- lo -- ro -- so
     Non di -- ver -- ria pie -- to -- so?
     E voi che don -- na se -- te,
-    e voi che don -- na se -- te e __ co -- sì bel -- la
+    E voi che don -- na se -- te e __ co -- sì bel -- la
     Sa -- ra -- te dun -- que,
-    sa -- ra -- te dun -- que di pie -- tà ru -- bel -- la?
+    Sa -- ra -- te dun -- que di pie -- tà ru -- bel -- la?
     Deh di -- mo -- stra -- te~o -- mai che se -- te pi -- a,
         che se -- te pi -- a
     Ch'es -- ser don -- na non può sì bel -- la~e ri -- a,
-    ch'es -- ser don -- na non può __ sì bel -- la~e ri -- a.
+    Ch'es -- ser don -- na non può __ sì bel -- la~e ri -- a.
 }
 
 quintoXXVIincipit = \relative c' {
@@ -270,12 +270,12 @@ quintoLyricsXXVI = \lyricmode {
     Al pian -- to mio sì lon -- go,
     Non di -- ver -- ria pie -- to -- so?
     E voi che don -- na se -- te,
-    e voi che don -- na se -- te e co -- sì bel -- la
+    E voi che don -- na se -- te e co -- sì bel -- la
     Sa -- ra -- te dun -- que di pie -- tà ru -- bel -- la?
     Deh di -- mo -- stra -- te~o -- mai che se -- te pi -- a,
         che se -- te pi -- a
     Ch'es -- ser don -- na non può sì bel -- la~e ri -- a,
-    ch'es -- ser don -- na non può sì bel -- la~e ri -- a,
+    Ch'es -- ser don -- na non può sì bel -- la~e ri -- a,
     Ch'es -- ser don -- na non può sì bel -- la~e ri -- a.
 }
 

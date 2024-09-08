@@ -42,7 +42,7 @@ cantoLyricsXXV = \lyricmode {
     Che più non spe -- ro mai po -- ter sle -- gar -- mi __
     Vis -- si d'a -- mor pre -- gion, 
     \ijLyrics
-    vis -- si d'a -- mor pre -- gion 
+    Vis -- si d'a -- mor pre -- gion 
     \normalLyrics
         ma sì con -- ten -- to,
     Che dol -- ce mi pa -- re -- va~o -- gni tor -- men -- to

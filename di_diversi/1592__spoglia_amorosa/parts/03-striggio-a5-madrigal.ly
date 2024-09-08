@@ -153,7 +153,6 @@ bassoIIIincipit = \relative c' {
 % basso: checked against source
 bassoIII = \relative c' {
     \fourTwoCommonTime
-%    \clef varbaritone
     \key c \major
 
     R\breve*2 | r2 a g4 f e d | a'2 d,4 g2 g4 c,2 |
