@@ -1,5 +1,5 @@
 cantoXVIIincipit = \relative c' {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c1"
     \key c \major
 
@@ -8,7 +8,7 @@ cantoXVIIincipit = \relative c' {
 
 % canto: checked against source
 cantoXVII = \relative c' {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     c4 c c c8 c e'1 ~ | e2 e c,4 c c c8 c | e'1. e2 | r4 e e1 e2 | 
@@ -43,7 +43,7 @@ cantoLyricsXVII = \lyricmode {
 }
 
 altoXVIIincipit = \relative c' {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c2"
     \key c \major
 
@@ -52,7 +52,7 @@ altoXVIIincipit = \relative c' {
 
 % alto: checked against source
 altoXVII = \relative c' {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     r2 a4 a a a8 a c'2 ~ | c c r a,4 a | a a8 a c'1 c2 | r c2 c2. c4 |
@@ -87,7 +87,7 @@ altoLyricsXVII = \lyricmode {
 }
 
 tenoreXVIIincipit = \relative c {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c4"
     \key c \major
 
@@ -96,7 +96,7 @@ tenoreXVIIincipit = \relative c {
 
 % tenore: checked against source
 tenoreXVII = \relative c {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     R\breve | c4 c c c8 c e'1 ~ | e2 e c,4 c c c8 c | e'2 e r4 e a, a |
@@ -128,7 +128,7 @@ tenoreLyricsXVII = \lyricmode {
 }
 
 bassoXVIIincipit = \relative c {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-f4"
     \key c \major
 
@@ -137,7 +137,7 @@ bassoXVIIincipit = \relative c {
 
 % basso: checked against source
 bassoXVII = \relative c {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     r1 a4 a a a8 a | c'1. c2 | a,4 a a a8 a c'1 ~ | c c2 r4 c | 
@@ -166,7 +166,7 @@ bassoLyricsXVII = \lyricmode {
 }
 
 quintoXVIIincipit = \relative c {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c3"
     \key c \major
 
@@ -175,7 +175,7 @@ quintoXVIIincipit = \relative c {
 
 % quinto: checked against source
 quintoXVII = \relative c {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     r1 r2 e4 e | e e8 e g'1 e2 | r2 e,4 e e e8 e g'2 ~ | g g r4 g a2 ~ |
