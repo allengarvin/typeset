@@ -1,0 +1,10 @@
+    composer = "Gasparo Zanetti (fl.1626-45)"
+    source = \markup { \italic { Il scolaro per imparar a suonare di violino } (Carlo Camagno press, Milan, 1645) }
+    style = "Renaissance"
+    
+    % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
+    maintainer = "Allen Garvin"
+    maintainerEmail = "aurvondel@gmail.com"
+    maintainerWeb = "http://dfwviols.com"
+    booktitle = \markup { Set by Allen Garvin (aurvondel@gmail.com) (ver. #(strftime "%Y-%m-%d)" (localtime (current-time))) CC BY-NC 2.5 }
+    tagline = #'f
