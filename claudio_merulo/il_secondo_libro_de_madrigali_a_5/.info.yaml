@@ -1,0 +1,14 @@
+---
+local:
+    facsimile_directory: complete/1604__merulo_claudio__il_secondo_libro_de_madrigali_a_5_voci
+    typeset_directory: claudio_merulo/il_secondo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro de madrigali a 5 voci
+    press: Angelo Gardano
+    year: 1604
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

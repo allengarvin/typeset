@@ -1,0 +1,15 @@
+---
+top:
+    type: composer
+    path: /flaminio_tresti
+biography:
+    name: Flaminio Tresti
+    last_name: Tresti
+    nationality: Italian
+    born_year: 1560
+    born_circa: true
+    died_year: 1613
+    died_circa: true
+    born_location:
+        region: Lodi
+        country: Italy

@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: 1607__franck_melchior__melodiarum_sacrarum
+    typeset_directory: melchior_franck/melodiarum_sacrarum
+source:
+    city: Coburg
+    date_exact: true
+    title: Melodiarum sacrarum
+    press: Hauck press
+    year: 1607

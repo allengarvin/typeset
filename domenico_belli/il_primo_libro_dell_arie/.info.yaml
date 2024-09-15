@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: none
+    typeset_directory: domenico_belli/il_primo_libro_dell_arie
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Ricciardo Amadino press
+    print: true
+    title: Il primo libro dell'arie a 1 e 2 voci
+    year: 1616
+contents:
+    type: arias
+    parts: 2,3
+    language: italian

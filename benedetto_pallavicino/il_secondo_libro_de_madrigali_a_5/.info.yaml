@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: 
+    typeset_directory: benedetto_pallavicino/il_second_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: 
+    print: true
+    title: 'Il secondo libro de madrigali a 5 voci'
+    year: 1584

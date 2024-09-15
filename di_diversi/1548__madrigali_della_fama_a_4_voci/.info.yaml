@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1548__madrigali_de_la_fama_a_4_voci__scotto_press/digitale-sammlungen.de
+    typeset_directory: di_diversi/1548__madrigali_della_fama_a_4_voci
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: Madrigali de la fama a 4 voci di diversi
+    year: 1548

@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1641__ferrari_benedetto__musiche_varie_a_voce_sola__libro_3
+    typeset_directory: benedetto_ferrari/1641__musiche_varie
+source:
+    city: Venice
+    date_exact: true
+    title: Muische e poesie varie a voce sola
+    press: Bartholomeo Magni
+    year: 1641

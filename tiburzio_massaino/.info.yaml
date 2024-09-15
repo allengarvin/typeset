@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /tiburzio_massaino
+biography:
+    name: Tiburzio Massaino
+    last_name: Massaino
+    nationality: Flemish
+    born_year: 1550
+    born_circa: true
+    died_year: 1609
+    died_circa: true
+    born_location:
+        region: Cremona
+        country: Italy
+    died_location:
+        country: Italy

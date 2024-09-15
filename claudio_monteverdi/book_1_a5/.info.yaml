@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory:  complete/1587__monteverdi_claudio__madrigali_a_5_voci_libro_primo__gardano_press
+    typeset_directory: claudio_monteverdi/book_1_a5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Madrigali a 5 voci, libro primo
+    year: 1587

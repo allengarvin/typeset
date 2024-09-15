@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1617__engelmann_georg__paduanas_e_galliardas
+    typeset_directory: georg_engelmann/paduanas_et_gailiardas_2
+source:
+    city: Leipzig
+    date_exact: true
+    manuscript: false
+    press: Schüreri press
+    print: true
+    title: Paduanas et Galliardas, fasciculus 2
+    year: 1617
+contents:
+    type: dances
+    parts: 5

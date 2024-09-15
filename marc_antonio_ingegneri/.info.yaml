@@ -1,7 +1,7 @@
 ---
 top:
     type: composer
-    path: /marc_antonio_ingegnieri
+    path: /marc_antonio_ingegneri
 biography:
     name: Marc'Antonio Ingegneri
     name_variants:

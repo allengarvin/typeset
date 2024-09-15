@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1570__sabino_ippolito__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: ippolito_sabino/il_primo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali a 5 voci
+    press: Figliuoli di Antonio Gardano press
+    year: 1570

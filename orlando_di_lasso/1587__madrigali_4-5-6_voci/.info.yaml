@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1587__lasso_orlando_di__madrigali_a_4_5_et_6_voci
+    typeset_directory: orlando_di_lasso/1587__madrigali_4-5-6_voci
+source:
+    city: Nuremberg
+    date_exact: true
+    manuscript: false
+    press: Gerlach press
+    print: true
+    title: Madrigali a 4, 5 e 6 voci
+    year: 1587
+contents:
+    type: madrigal
+    language: italian

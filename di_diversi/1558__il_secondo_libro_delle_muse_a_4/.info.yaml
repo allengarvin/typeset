@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1558__di_diversi__secondo_libro_delle_muse_a_4_voci__madrigali_ariosi
+    typeset_directory: di_diversi/1558__il_secondo_libro_delle_muse_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: Madrigali ariosi de diversi, Il II libro delle muse
+    year: 1558

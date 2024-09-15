@@ -1,0 +1,13 @@
+---
+local:
+    facsimile_directory: complete/1616__di_diversi__il_helicone_madrigali__phalese_press
+    typeset_directory: di_diversi/1616__il_helicone_madrigali
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: Phalèse press
+    title: Il helicone madrigali de' diversi
+    print: true
+    year: 1616
+    

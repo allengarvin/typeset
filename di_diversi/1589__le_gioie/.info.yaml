@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: 1589__le_gioie_madrigali_a_cinque_voci_di_diversi_eccelmi_musici_della_compagnia_di_roma_novamente_posti_in_luce_libro_primo
+    typeset_directory: di_diversi/1589__le_gioie
+source:
+    city: Venice
+    date_exact: true
+    title: Le gioie madrigali a 5 voci di diversi musici
+    press: Amadino press
+    year: 1589

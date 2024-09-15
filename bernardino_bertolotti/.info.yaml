@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: bernardino_bertolotti
+biography:
+    name: Bernardino Bertolotti
+    last_name: Bertolotti
+    nationality: Italian
+    born_year: 1547
+    died_year: 1609
+    died_circa: true
+    born_location:
+        region: Salò
+        country: Italy
+    died_location:
+        region: Rome?
+        country: Italy

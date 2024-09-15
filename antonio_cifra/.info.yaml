@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /antonio_cifra
+biography:
+    name: Antonio Cifra
+    last_name: Cifra
+    nationality: Flemish
+    born_year: 1584
+    died_year: 1629
+    died_date: 1629-10-02
+    born_location:
+        region: Terracina
+        country: Italy
+    died_location:
+        region: Loreto
+        country: Italy

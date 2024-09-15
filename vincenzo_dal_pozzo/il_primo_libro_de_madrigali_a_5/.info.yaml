@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1584__pozzo_vicenzo_dal__il_primo_libro_de_madrigali_a_5_voci__scotto
+    typeset_directory: vincenzo_dal_pozzo/il_primo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: Il primo libro de madrigali a 5 voci
+    year: 1585
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

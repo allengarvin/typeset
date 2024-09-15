@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1588__d_origstagno_giulio_siciliano__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: giulio_d_oristagno/il_primo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il primo libro de madrigali a 5 voci
+    year: 1588
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

@@ -1,0 +1,13 @@
+---
+top:
+    type: composer
+    path: /domenico_belli
+biography:
+    name: Domenico Belli
+    last_name: Belli
+    nationality: Italian
+    died_year: 1627
+    died_date: 1627-05-05
+    died_location:
+        region: Florence
+        country: Italy

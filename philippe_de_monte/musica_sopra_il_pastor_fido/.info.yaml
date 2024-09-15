@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1600__monte_philippe_de__il_pastor_fido
+    typeset_directory: philippe_de_monte/musica_sopra_il_pastor_fido
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Musica sopra Il pastor fido, libro secondo
+    year: 1600

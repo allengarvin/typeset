@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /giovanni_de_macque
+biography:
+    name: Giovanni de Macque
+    last_name: Macque
+    nationality: Flemish
+    born_year: 1548
+    born_circa: true
+    died_year: 1614
+    born_location:
+        region: Valenciennes
+        country: France
+    died_location:
+        region: Naples
+        country: Italy

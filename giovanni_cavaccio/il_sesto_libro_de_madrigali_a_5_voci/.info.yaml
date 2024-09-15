@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1599__cavaccio_giovanni__il_sesto_libro_de_madrigali_a_5_voci__gardano
+    typeset_directory: giovanni_cavaccio/il_sesto_libro_de_madrigali_a_5_voci
+source:
+    city: Venice
+    date_exact: true
+    title: Il sesto libro de madrigali a 5 voci
+    press: Angelo Gardano press
+    year: 1599

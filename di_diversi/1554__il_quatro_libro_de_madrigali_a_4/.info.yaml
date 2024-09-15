@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1554__de_deversi_autori__il_quarto_libro_de_madrigali_a_4_voci
+    typeset_directory: di_diversi/1554__il_quatro_libro_de_madrigali_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: Il quarto libro de madrigali a 4 voci a note bianche
+    year: 1554

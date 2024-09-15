@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1589__rota_andrea__il_secondo_libro_de_madrigali_a_5_voci__gardano
+    typeset_directory: andrea_rota/il_secondo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: 'Il secondo libro de madrigali a 5 voci'
+    year: 1589

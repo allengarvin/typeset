@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1638__merula_tarquinio__curtio_precipitato
+    typeset_directory: tarquinio_merula/curtio_precipitato
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Bartolomeo Magni press
+    print: true
+    title: Il curtio precipitato
+    year: 1638

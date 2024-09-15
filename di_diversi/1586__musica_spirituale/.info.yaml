@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1586__di_diversi__musica_spirituale
+    typeset_directory: di_diversi/1586__musica_spirituale
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Musica spirituale composta da diversi
+    year: 1586

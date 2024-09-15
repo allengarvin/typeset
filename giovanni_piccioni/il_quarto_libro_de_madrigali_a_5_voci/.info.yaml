@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1596__piccioni_giovanni__il_quarto_libro_de_madrigali_a_cinque_voci
+    typeset_directory: giovanni_piccioni/il_quarto_libro_de_madrigali_a_5_voci
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il quarto libro de madrigali a 5 voci
+    year: 1596
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

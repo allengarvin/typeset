@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1568__portinari_francesco__le_vergine_a_6_voci_madrigali
+    typeset_directory: francesco_portinaro/le_vergini
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Girolamo Scotto press
+    print: true
+    title: Le vergini a 6 voci con alcuni madrigali
+    year: 1568
+contents:
+    type: madrigal
+    parts: 5, 6, 7
+    language: italian

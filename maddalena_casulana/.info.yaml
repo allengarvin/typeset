@@ -1,0 +1,12 @@
+---
+top:
+    type: composer
+    path: /maddalena_casulana
+biography:
+    name: Maddalena Casulana
+    last_name: Casulana
+    nationality: Italian
+    born_year: 1554
+    born_circa: true
+    died_year: 1590
+    died_circa: true

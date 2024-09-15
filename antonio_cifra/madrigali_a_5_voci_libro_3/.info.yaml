@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1615__cifra_antonio__madrigali_a_5_voci__libro_3
+    typeset_directory: antonio_cifra/madrigali_a_5_voci_libro_3
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Giacomo Vincenti press
+    print: true
+    title: Madrigali a 5 voci, libro 3
+    year: 1615
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

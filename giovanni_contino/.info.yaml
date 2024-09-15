@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /giovanni_contino
+biography:
+    name: Giovanni Contino
+    name_variants:
+        - Gioan Contino
+    last_name: Contino
+    nationality: Italian
+    born_year: 1513
+    born_circa: true
+    died_year: 1574
+    born_location:
+        region: Brescia
+        country: Italy
+    died_location:
+        region: Mantua
+        country: Italy

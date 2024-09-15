@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: false
+    facsimile_directory: complete/1608__raverii_alessandro__canzoni_per_sonare_con_ogni_sorte_di_stromente
     typeset_directory: alessandro_raverii/canzoni_per_sonare
 source:
     city: Venice
@@ -8,5 +8,5 @@ source:
     manuscript: false
     press: Raverii press
     print: true
-    title: Canzoni per Sonare
+    title: Canzoni per Sonare con ogni sorte di stroment
     year: 1608

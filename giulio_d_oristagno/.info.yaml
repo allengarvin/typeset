@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /giulio_d_oristagno
+biography:
+    name: Giulio d'Oristagno
+    last_name: d'Oristagno
+    nationality: Italian
+    born_year: 1543
+    born_circa: false
+    died_year: 1623
+    died_circa: false
+    born_location:
+        region: Sicily
+        country: Italy
+    died_location:
+        region: Palermo
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.20469

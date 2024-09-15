@@ -1,0 +1,24 @@
+---
+top:
+    type: composer
+    path: /francesco_portinaro
+biography:
+    name: Francesco Portinaro
+    name_variants:
+        - Francesco Portenaro
+        - Francesco Portenari
+        - Francesco Portinari
+        - Francesco Portinario
+        - Francesco Portinarius
+    last_name: Portinaro
+    nationality: Flemish
+    born_year: 1520
+    born_circa: true
+    died_year: 1577
+    died_circa: true
+    born_location:
+        region: Padua
+        country: Italia
+    died_location:
+        region: Padua?
+        country: Italy

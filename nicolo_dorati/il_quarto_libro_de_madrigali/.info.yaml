@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1567__dorate_nicoli__il_quarto_libro_de_madrigali_a_5_voci
+    typeset_directory: nicolo_dorati/il_quarto_libro_de_madrigali
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: Il quarto libro de madrigali a 5 voci
+    year: 1567
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

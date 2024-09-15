@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1591__di_diversi__la_ruzina__madrigali_de_diversi_famoissimi_autori_a_6_voci__gardano_press
+    typeset_directory: di_diversi/1591__la_ruzina
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: La ruzina
+    year: 1591

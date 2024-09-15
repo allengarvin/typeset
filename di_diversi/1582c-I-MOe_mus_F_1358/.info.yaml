@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1582c__di_diversi__biblioteca_estense_mus_f_1358
+    typeset_directory: di_diversi/1582c-I-MOe_mus_F_1358
+source:
+    city: London
+    date_exact: false
+    manuscript: true
+    title: Biblioteca Estense, I-MOe Mus. F. 1358
+    year: 1582

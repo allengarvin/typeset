@@ -1,0 +1,9 @@
+---
+top:
+    type: composer
+    path: /vincenzo_dal_pozzo
+biography:
+    name: Vincenzo dal Pozzo
+    last_name: Pozzo
+    nationality: Italian
+    flourished: 1585-1612

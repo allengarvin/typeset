@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1554__ruffo_vincenzo__madrigali_a_6_a_7_et_a_8_voce
+    typeset_directory: vincenzo_ruffo/madrigali_a_6_7_et_8_voci
+source:
+    city: Venice
+    date_exact: true
+    title: Madrigali a 6, a 7, et a 8 voce
+    press: Scotto press
+    year: 1554

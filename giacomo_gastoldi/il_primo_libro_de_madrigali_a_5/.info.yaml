@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1588__gastoldi_giacomo__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: giacomo_gastoldi/il_primo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Amadino press
+    print: true
+    title: Il primo libro de madrigali a 5 voci
+    year: 1588
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

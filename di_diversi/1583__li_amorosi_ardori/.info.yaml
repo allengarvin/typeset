@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: omplete/1583__li_amorosi_ardori_di_diversi_eccellentissimi_musici__libro_primo_a_5_voci
+    typeset_directory: di_diversi/1583__li_amorosi_ardori
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Li amorosi ardori di diversi
+    year: 1583

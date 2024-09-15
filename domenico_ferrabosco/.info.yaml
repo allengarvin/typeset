@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /domenico_ferrabosco
+biography:
+    name: Domenico Maria Ferrabosco
+    last_name: Ferrabosco
+    nationality: Italian
+    born_year: 1513
+    died_year: 1574
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Bologna
+        country: Italy

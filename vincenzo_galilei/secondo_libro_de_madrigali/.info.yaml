@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1587__galilei_vincenzo__il_secondo_libro_de_madrigali_a_4_e_a_5_voci
+    typeset_directory: vincenzo_galilei/secondo_libro_de_madrigali
+source:
+    city: Venice
+    date_exact: true
+    title: Il secondo libro de madrigali a 4 et a 5 voci
+    press: Angelo Gardano press
+    year: 1587

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1562__romano_alessandro__le_vergini_a_4_voci__gardano_press
+    typeset_directory: alessandro_romano/le_virgini_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: Le virgini 
+    year: 1562

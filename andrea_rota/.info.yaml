@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /andrea_rota
+biography:
+    name: Andrea Rota
+    last_name: Rota
+    nationality: Italian
+    born_year: 1553
+    born_circa: true
+    died_year: 1597
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Belogna
+        country: Italy
+    urls:
+        - https://doi.org/10.1093/gmo/9781561592630.article.23922

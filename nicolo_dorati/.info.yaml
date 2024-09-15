@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /nicolo_dorati
+biography:
+    name: Nicolo Dorati
+    last_name: Dorati
+    nationality: Italian
+    born_year: 1513
+    born_circa: true
+    died_year: 1593
+    born_location:
+        region: Lucca
+        country: Italy
+    died_location:
+        region: Lucca
+        country: Italy

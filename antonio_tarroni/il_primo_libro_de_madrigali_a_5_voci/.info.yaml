@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1612__taroni_antonio__il_primo_libro_de_madrigali_a_5_voci 
+    typeset_directory: antonio_taroni/il_primo_libro_de_madrigali_a_5_voci
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Amadino press
+    print: true
+    title: Il primo libro de madrigali a 5 voci
+    year: 1612
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

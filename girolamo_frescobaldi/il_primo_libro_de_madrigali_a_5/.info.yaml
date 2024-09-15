@@ -1,12 +1,16 @@
 ---
 local:
     facsimile_directory: complete/1608__frescobaldi_girolamo__il_primo_libro_de_madrigali_a_5_voci
-    typeset_directory: girolamo_frescobaldi/il_primo_libro_de_madrigali_a_5
+    typeset_directory: giaches_de_wert/book_VII_a5
 source:
     city: Antwerp
     date_exact: true
     manuscript: false
-    press: 'Phalèse press'
+    press: Phalèse press
     print: true
-    title: 'Il primo libro de madrigali à 5 voci'
+    title: Il primo libro de madrigali a 5 voci
     year: 1608
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

@@ -1,9 +1,9 @@
 ---
 local:
-    facsimile_directory: complete/1550__arcadelt_jacob__il_quinto_libro_de_madrigali_a_4_voci
+    facsimile_directory: complete/1544__arcadelt_jacob__il_quinto_libro_di_madrigali_a_4_voci
     typeset_directory: jacob_arcadelt/il_quinto_libro_di_madrigali_a_4
 source:
     city: Venice
     date_exact: true
-    title: Il quinto libro di madrigali a 4 voci
-    year: 1550
+    title: Il quinto libro di madrigali d'Arcadelt a 4 voci
+    year: 1544
