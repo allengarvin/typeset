@@ -4,11 +4,30 @@
 import os, sys, re, argparse, datetime, glob
 from collections import OrderedDict
 
+def show_argv(argv):
+    s = ""
+    for a in argv:
+        if " " in a:
+            s += '"{0}" '.format(a)
+        else:
+            s += a + " "
+    return s.strip()
+
 def output_num(a, num):
     if num < 10:
         return a
     else:
         return "%0*d" % (len(str(num)), a)
+
+def valid_poetic_form(p):
+    forms = ["sonnet", "madrigal", "ottava rima", "canzone", "eclogue",
+        "ballata", "terza rima", "villanesca", "greghesca", "sestina",
+        "capitolo", "verso sciolto", "villanella", "canzonetta" ]
+    if p in forms:
+        return True
+    print("Invalid poetic form: {}.".format(p))
+    print("Valid: {}".format("\n".join(forms)))
+    return False
 
 def number(str):
     num_map = {"one" : "I", "two" : "II", "three" : "III", 
@@ -35,6 +54,7 @@ def ascii_filter(s):
         '#':'no_',
         "(" : "", ")" : "",
         ",":"", "'":"", "/":"", ";":"", ":":"-", "?":"", "’" : "", "." : "",
+        "!":"",
     }
     for c in filters.keys():
         if c in s:
@@ -79,15 +99,18 @@ def write_roman(num):
 
 def main(argv):
     p = argparse.ArgumentParser(description="Generate lilypond single parts")
+    p.add_argument("-c", "--composer", help="Composer field")
     p.add_argument("-o", "--overwrite", action="store_true", help="overwrite existing file")
     p.add_argument("-a", "--addlyrics", help="Addition lyrics (a, b, c...final)")
     p.add_argument("-t", "--title", help="title of piece")
     p.add_argument("-l", "--language", help="For language tag")
     p.add_argument("-u", "--subtitle", help="subtitle of piece")
     p.add_argument("-s", "--size", type=int, help="size of score", default=16)
+    p.add_argument("-p", "--poem", type=str, help="poetic form (sonnet, etc)")
     p.add_argument("-v", "--vocal", action="store_true", help="add lyrics sections")
     p.add_argument("-m", "--midi", type=int, help="midi beats per minute", default=88)
     p.add_argument("-f", "--folio", help="folio (lyricist, pagination, etc)")
+    p.add_argument("--subsubtitle", help="subsubtitle")
     p.add_argument("score", help="score file in form 01-composer-a5-0-score.ly")
     p.add_argument("parts", nargs="+", help="part names in form canto:8a (to generate alto and octave clefs")
     args = p.parse_args()
@@ -99,6 +122,10 @@ def main(argv):
     if not score_pat.match(args.score):
         print("Error: title does not match proper format (use -h for help)")
         print "SCORE: ", args.score
+        sys.exit(1)
+
+    if "/di-diversi/" in os.getcwd() and not args.composer:
+        print("Executing within /di-diversi/ but no -c/--composer")
         sys.exit(1)
 
     if args.vocal and not args.language:
@@ -139,6 +166,7 @@ def main(argv):
         
     title = args.title if args.title else "UNTITLED"
     subtitle = args.subtitle if args.subtitle else ""
+    subsubtitle = args.subsubtitle if args.subsubtitle else ""
 
     score_str = [
                 '\\version "2.22.1"',
@@ -158,12 +186,16 @@ def main(argv):
                 '    % Things that change per piece:',
                 '    title = "{0}"'.format(title),
                 '    subtitle = "{0}"'.format(subtitle),
+                '    subsubtitle = "{0}"'.format(subsubtitle),
                 '    instrument = "{0}: {1} (score)"'.format(title, subtitle ),
                 '    headerspace = \\markup { \\vspace #2 }',
                 ]
     score_str.append('    shorttitle = "{0}"'.format(ascii_filter(title.lower().replace(" ", "_"))))
     score_str.append('    shortcomp = "{0}"'.format(ascii_filter(composer.lower().replace(" ", "_"))))
+    if args.composer:
+        score_str.append('    composer = "{0}"'.format(args.composer))
     score_str.append('    categories = "[]"')
+    score_str.append('    motifs = "[]"')
     if args.language and args.language != "english" and args.language != "instrumental":
         score_str.append("    needtranslation = #'t")
 
@@ -184,6 +216,8 @@ def main(argv):
         score_str += [ '    language = "{0}"'.format(args.language) ]
     elif not args.vocal:
         score_str += [ '    language = "{0}"'.format("instrumental") ]
+    if args.poem and valid_poetic_form(args.poem):
+        score_str += [ '    poeticform = "{0}"'.format(args.poem) ]
 
     score_str += [
         "    tagline = #'f",
@@ -214,6 +248,7 @@ def main(argv):
     parts_in_order = map(lambda(x): x[0:x.index(roman + "incipit")], filter(r.match,  music.split("\n")))
 
     if len(parts_in_order) != pnum:
+        print(pnum, parts_in_order)
         print("ERROR: Multiple incipits found!")
         sys.exit(1)
         
@@ -311,9 +346,10 @@ def main(argv):
         ndx = parts.index(parts_in_order[i])
 
         part_str = [
-                '\\version "2.18.2"',
+                '\\version "2.22.1"',
                 '\\include "english.ly"',
                 '',
+                "% Invocation: " + show_argv(argv), 
                 '\\include "../include/paper-1-part.ly" ',
                 '\\include "../include/global-parts.ly" ',
                 '\\include "../include/macros.ly" ',
@@ -328,11 +364,14 @@ def main(argv):
                 '    % Things that change per piece:',
                 '    title = "{0}"'.format(title),
                 '    subtitle = "{0}"'.format(subtitle),
+                '    subsubtitle = "{0}"'.format(subsubtitle),
                 '    instrument = "{0}: {1} ({2})"'.format(title, subtitle, number(parts_in_order[i])),
                 '    headerspace = \\markup { \\vspace #2 }',
         ]
         part_str.append('    shorttitle = "{0}"'.format(ascii_filter(title.lower().replace(" ", "_"))))
         part_str.append('    shortcomp = "{0}"'.format(ascii_filter(composer.lower().replace(" ", "_"))))
+        if args.composer:
+            part_str.append('    composer = "{0}"'.format(args.composer))
         if args.folio:
             if "\\italic" in args.folio:
                 part_str.append('    folio = \\markup { %s }' % args.folio)
@@ -381,7 +420,7 @@ def main(argv):
 
                 if args.addlyrics:
                     for let in ["a", "b", "c", "d", "e", "f", "g", "h", "i"]:
-                        part_str += ['                \\addlyrics { \\%sLyrics%s%s }' % (parts[i], roman, let) ]
+                        part_str += ['                \\addlyrics { \\%sLyrics%s%s }' % (parts_in_order[i], roman, let) ]
                         if let == args.addlyrics:
                             break
             part_str += [
@@ -400,6 +439,4 @@ def main(argv):
 
 if __name__ == "__main__":
     main(sys.argv)
-    
-    
     
