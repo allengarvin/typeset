@@ -24,10 +24,10 @@
     tagline = #'f
 }
 
-\include "../parts/21-ingegnieri-a4-canzon.ly"
+\include "../parts/21-ingegneri-a4-canzon.ly"
 
 \book {
-    \bookOutputName "21-ingegnieri--aria_di_canzon_francese_per_sonar_del_ottavo_tono-"
+    \bookOutputName "21-ingegneri--aria_di_canzon_francese_per_sonar_del_ottavo_tono-"
     \bookOutputSuffix "--3-tenore--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -41,7 +41,7 @@
 }
 
 \book {
-    \bookOutputName "21-ingegnieri--aria_di_canzon_francese_per_sonar_del_ottavo_tono-"
+    \bookOutputName "21-ingegneri--aria_di_canzon_francese_per_sonar_del_ottavo_tono-"
     \bookOutputSuffix "--3-tenore--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

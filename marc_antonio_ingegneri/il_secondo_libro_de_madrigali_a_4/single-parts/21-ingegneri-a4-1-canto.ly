@@ -11,11 +11,11 @@
     % Things that change per piece:
     title = "Aria di canzon Francese per sonar del ottavo tono"
     subtitle = ""
-    instrument = "Aria di canzon Francese per sonar del ottavo tono:  (alto)"
+    instrument = "Aria di canzon Francese per sonar del ottavo tono:  (canto)"
 
     % Things that change per part:
-    partname = "Alto (part 2 of 4)"
-    instrument = "Aria di canzon Francese per sonar del ottavo tono:  (alto)"
+    partname = "Canto (part 1 of 4)"
+    instrument = "Aria di canzon Francese per sonar del ottavo tono:  (canto)"
 
     % Unchanging:
     originallyset = "2019-01-11"
@@ -24,31 +24,17 @@
     tagline = #'f
 }
 
-\include "../parts/21-ingegnieri-a4-canzon.ly"
+\include "../parts/21-ingegneri-a4-canzon.ly"
 
 \book {
-    \bookOutputName "21-ingegnieri--aria_di_canzon_francese_per_sonar_del_ottavo_tono-"
-    \bookOutputSuffix "--2-alto--tr_clef"
+    \bookOutputName "21-ingegneri--aria_di_canzon_francese_per_sonar_del_ottavo_tono-"
+    \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \altoXXI
-        >>
-     %   \include "../include/vocal-layout-parts-barring.ly"
-    }
-}
-
-\book {
-    \bookOutputName "21-ingegnieri--aria_di_canzon_francese_per_sonar_del_ottavo_tono-"
-    \bookOutputSuffix "--2-alto--al_clef"
-    \include "../include/paper-1-part.ly"
-    \score {
-        \new Voice << 
-            \clef "alto"
-            \global 
-            \altoXXI
+            \cantoXXI
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

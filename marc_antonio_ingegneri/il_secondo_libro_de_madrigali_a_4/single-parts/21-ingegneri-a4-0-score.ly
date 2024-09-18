@@ -26,10 +26,10 @@
     tagline = #'f
 }
 
-\include "../parts/21-ingegnieri-a4-canzon.ly"
+\include "../parts/21-ingegneri-a4-canzon.ly"
 
 \book {
-    \bookOutputName "21-ingegnieri--aria_di_canzon_francese_per_sonar_del_ottavo_tono-"
+    \bookOutputName "21-ingegneri--aria_di_canzon_francese_per_sonar_del_ottavo_tono-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
