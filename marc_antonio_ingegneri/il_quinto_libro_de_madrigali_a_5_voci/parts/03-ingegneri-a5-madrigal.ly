@@ -1,3 +1,12 @@
+% Ahi perché a la tua ardent'e ingorda voglia
+% secondi sì? qual sorte tua t'induce
+% a seguir per tua scorta e per tuo duce
+% quel dolc'error ch'al tuo martir t'invoglia.
+% Dunque fra speme incerta e certa doglia
+% vivrai, diverrai cieco a quella luce
+% che t'arde tanto più quanto più luce
+% e quanto più t'alletta più s'indoglia.
+
 cantoIII = \relative c'' {
     \clef soprano
     \key f \major
