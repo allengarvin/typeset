@@ -10,6 +10,11 @@
 % e sanata sarà l'anima mia.
 % Guarini
 
+% My soul, Lord,
+% previously a creature so worthy of your hand,
+% now, its
+%     [te is the object of d'albergar]
+
 cantoXXIincipit = \relative c' {
     \clef "petrucci-c1"
     \key c \major
@@ -53,7 +58,7 @@ cantoLyricsXXI = \lyricmode {
     Chi'l cre -- de -- reb -- be, è d'al -- ber -- gar __ in -- de -- gna.
     Deh, s'il __ fet -- tor del -- la cor -- po -- rea stan -- za
     Co -- me ben drit -- to~ab -- bor -- ri,
-    Co -- me ben drit -- to~ab -- bor -- ri,
+    Co -- me ben __ drit -- to~ab -- bor -- ri,
     Al -- men la tua sem -- bian -- za
     Che lan -- gue,
     Che lan -- gue si __ so -- cor -- ri.
@@ -101,7 +106,7 @@ altoXXI = \relative c' {
 }
 
 altoLyricsXXI = \lyricmode {
-    L'a -- ni -- ma mia, Si -- gno -- re,
+    L'a -- ni -- ma mia, Si -- gno -- re, __
     Già cre -- a -- tu -- ra di tua man sì de -- gna,
     Or te, suo cre -- a -- to -- re,
     Or te, suo cre -- a -- to -- re,
@@ -195,13 +200,13 @@ bassoXXIincipit = \relative c {
     a1.
 }
 
+% basso: checked against source
 bassoXXI = \relative c {
-    \clef bass
     \key c \major
     \fourTwoCutTime
 
     r1 a ~ | a2 a a1 | c g | bf a ~ | a\breve | R | r1 r2 a | a a d1 |
-        c2 c'1 b2 | a1 g | f e | R\breve | a1 c ~ | c2 g a b | c\breve |
+        c2 c'1 b2 | a1 g | f e | R\breve | a,1 c ~ | c2 g a b | c\breve |
         g1 r1 | R\breve*2 |
 
     a1 b2 c | d1 a | R\breve | d1 f2. g4 | a1 d, | R\breve | r1 r2 a |
@@ -213,8 +218,8 @@ bassoXXI = \relative c {
         r2 a gs a |
 
     e1 f | e a,2 a' | gs1 a | e2.( d4 cs2) d | e\breve | a,1 r1 | R\breve*2 |
-        r1 r2 a' ~ | a g f1 | e2 f g c, ~ | c g a1 | e' a, | R\breve*5 |
-        g'1 a | e2 f g a ~ | a g
+        r1 r2 a' ~ | a g f1 | e2 f g c, ~ | c g a1 | e' a, | R\breve*2 |
+        R\breve*3 g'1 a | e2 f g a ~ | a g
 
     f1 | e a | g c,2 d | e1 cs2 d | e e2. d4 c2 | b1 a | R\breve | g1 a |
         b c2 d | e\breve | f1 g | a e ~ | e\breve | a,\longa*1/2
@@ -222,21 +227,22 @@ bassoXXI = \relative c {
 }
 
 bassoLyricsXXI = \lyricmode {
-%    L'a -- ni -- ma mia, Si -- gno -- re,
-%    Già cre -- a -- tu -- ra di tua man sì de -- gna,
-%    Or te, suo cre -- a -- to -- re,
-%        suo cre -- a -- to -- re,
-%    Chi'l cre -- de -- reb -- be, è d'al -- ber -- gar in -- de -- gna.
-%    Deh, s'il fet -- tor del -- la cor -- po -- rea stan -- za
-%    Co -- me ben drit -- to~ab -- bor -- ri,
-%    Co -- me ben drit -- to~ab -- bor -- ri,
-%    Al -- men la tua sem -- bian -- za
-%    Che lan -- gue,
-%    Che lan -- gue si so -- cor -- ri.
-%    Di' tu col ver -- bo tuo: Sa -- na -- ta si -- a,
-%    E sa -- na -- ta sa -- rà l'a -- ni -- ma mi -- a,
-%    Di' tu col ver -- bo tuo: Sa -- na -- ta si -- a,
-%    E sa -- na -- ta sa -- rà l'a -- ni -- ma mi -- a,
+    L'a -- ni -- ma mia, Si -- gno -- re, __
+    Già cre -- a -- tu -- ra di tua man sì de -- gna,
+    Or te, __ suo cre -- a -- to -- re,
+    Chi'l cre -- de -- reb -- be,
+    Chi'l cre -- de -- reb -- be,
+    Chi'l cre -- de -- reb -- be, è d'al -- ber -- gar in -- de -- gna.
+    Deh, __ s'il fet -- tor del -- la cor -- po -- rea stan -- za
+    Co -- me ben drit -- to~ab -- bor -- ri,
+    Co -- me ben drit -- to~ab -- bor -- ri,
+    Al -- men la tua sem -- bian -- za
+    Che lan -- gue si so -- cor -- ri,
+    Che lan -- gue si __ so -- cor -- ri.
+    E __ sa -- na -- ta sa -- rà l'a -- ni -- ma mi -- a,
+    Di' tu col ver -- bo tuo: __ Sa -- na -- ta si -- a,
+    E sa -- na -- ta sa -- rà l'a -- ni -- ma mi -- a,
+    E sa -- na -- ta sa -- rà l'a -- ni -- ma mi -- a.
 %        l'a -- ni -- ma mi -- a.
 }
 
@@ -248,21 +254,21 @@ quintoXXIincipit = \relative c {
     e1.
 }
 
+% quinto: checked against source
 quintoXXI = \relative c {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
     R\breve | e1. e2 | e1 g | d2 d'1( cs4 b) | cs\breve | R\breve*2 |
         a1 a2 a | c1 g | R\breve | c1. b2 | a g f1 | e r2 e ~ | e g c, d |
-        e( f2. e8[ d]
+        e f2.( e8[ d]
 
     e4 f | g1) d2 d | e f g1 ~ | g d | r1 r2 c' | a2. b4 c1 | g r1 | 
         R\breve | c1 a | b2 c d \[ e ~ | e( d1 \] cs2) | d1 r4 c d e |
         f2 e r1 | r2 e,1 g2 ~ | g f e1 | 
 
     f1 e | d\breve | r1 r2 e ~ | e f1 e2 | a1 r2 e | e4 e g1 g2 |
-        f4.( e8 d2) e1 | r1 c' | d2 e c a | gs( a1 gs2) | a1 r1 | r2 d' e a, |
+        f4.( e8 d2) e1 | r1 c' | d2 e c a | gs( a1 gs2) | a1 r1 | r2 d e a, |
         a\breve | a1 a | 
 
     b2 c a b | cs( d1 cs2) | d a c1 ~ | c2 b c1 ~ | c2 d e1 | a, r1 | 
@@ -279,22 +285,26 @@ quintoXXI = \relative c {
 }
 
 quintoLyricsXXI = \lyricmode {
-%    L'a -- ni -- ma mia, Si -- gno -- re,
-%    Già cre -- a -- tu -- ra di tua man sì de -- gna,
-%    Or te, suo cre -- a -- to -- re,
-%        suo cre -- a -- to -- re,
-%    Chi'l cre -- de -- reb -- be, è d'al -- ber -- gar in -- de -- gna.
-%    Deh, s'il fet -- tor del -- la cor -- po -- rea stan -- za
-%    Co -- me ben drit -- to~ab -- bor -- ri,
-%    Co -- me ben drit -- to~ab -- bor -- ri,
-%    Al -- men la tua sem -- bian -- za
+    L'a -- ni -- ma mia, Si -- gno -- re,
+    Già cre -- a -- tu -- ra di tua man sì de -- gna,
+    Or __ te, suo cre -- a -- to -- re,
+        suo cre -- a -- to -- re,
+    Chi'l cre -- de -- reb -- be, è d'al -- ber -- gar in -- de -- gna,
+    Chi'l cre -- de -- reb -- be, è d'al -- ber -- gar in -- de -- gna.
+    Deh, __ s'il fet -- tor del -- la cor -- po -- rea stan -- za
+    Co -- me ben drit -- to~ab -- bor -- ri,
+        ben drit -- to~ab -- bor -- ri,
+    Co -- me ben drit -- to~ab -- bor -- ri,
+    Al -- men __ la tua __ sem -- bian -- za
 %    Che lan -- gue,
-%    Che lan -- gue si so -- cor -- ri.
-%    Di' tu col ver -- bo tuo: Sa -- na -- ta si -- a,
-%    E sa -- na -- ta sa -- rà l'a -- ni -- ma mi -- a,
-%    Di' tu col ver -- bo tuo: Sa -- na -- ta si -- a,
-%    E sa -- na -- ta sa -- rà l'a -- ni -- ma mi -- a,
-%        l'a -- ni -- ma mi -- a.
+    Che lan -- gue si so -- cor -- ri.
+    Di' tu col ver -- bo tuo: Sa -- na -- ta si -- a,
+    E sa -- na -- ta sa -- rà l'a -- ni -- ma mi -- a,
+        l'a -- ni -- ma mi -- a,
+    Di' tu __ col ver -- bo tuo: Sa -- na -- ta si -- a,
+    E sa -- na -- ta sa -- rà,
+    E sa -- na -- ta sa -- rà __ l'a -- ni -- ma mi -- a,
+        l'a -- ni -- ma mi -- a.
 }
 
 cantoXXIincipitVoice = <<
