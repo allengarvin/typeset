@@ -9,22 +9,23 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2024-09-22"
-    originallyset = "2024-09-22"
+    lastupdated = "2024-09-23"
+    originallyset = "2024-09-23"
     flats = 0
-    final = "c"
+    final = "d"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Emulo sei del sole"
+    title = "Cogli la vaga rosa"
     subtitle = ""
     subsubtitle = ""
-    instrument = "Emulo sei del sole:  (score)"
+    instrument = "Cogli la vaga rosa:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "emulo_sei_del_sole"
+    shorttitle = "cogli_la_vaga_rosa"
     shortcomp = "ingegneri"
     categories = "[madrigal]"
-    motifs = "[orient,sun,praise]"
+    motifs = "[rose,virgin,aging,face]"
     needtranslation = #'t
+    folio = "Filippo Alberti (1548-1612)"
 
     % Unchanging:
     language = "italian"
@@ -32,10 +33,10 @@
     tagline = #'f
 }
 
-\include "../parts/08-ingegneri-a5-madrigal.ly"
+\include "../parts/10-ingegneri-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "08-ingegneri--emulo_sei_del_sole-"
+    \bookOutputName "10-ingegneri--cogli_la_vaga_rosa-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -44,44 +45,44 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoVIIIincipitVoice
+                    \incipit \cantoXincipitVoice
                     \clef "treble"
                     \global
-                    \cantoVIII
+                    \cantoX
                 >>
-             \addlyrics { \cantoLyricsVIII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoVIIIincipitVoice
-                    \clef "treble"
-                    \global
-                    \quintoVIII
-                >>
-             \addlyrics { \quintoLyricsVIII }
+             \addlyrics { \cantoLyricsX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoVIIIincipitVoice
+                    \incipit \altoXincipitVoice
                     \clef "treble"
                     \global
-                    \altoVIII
+                    \altoX
                 >>
-             \addlyrics { \altoLyricsVIII }
+             \addlyrics { \altoLyricsX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quinto"
+                    \incipit \quintoXincipitVoice
+                    \clef "treble"
+                    \global
+                    \quintoX
+                >>
+             \addlyrics { \quintoLyricsX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreVIIIincipitVoice
-                    \clef "treble_8"
+                    \incipit \tenoreXincipitVoice
+                    \clef "treble"
                     \global
-                    \tenoreVIII
+                    \tenoreX
                 >>
-             \addlyrics { \tenoreLyricsVIII }
+             \addlyrics { \tenoreLyricsX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoVIIIincipitVoice
+                    \incipit \bassoXincipitVoice
                     \clef "treble_8"
                     \global
-                    \bassoVIII
+                    \bassoX
                 >>
-             \addlyrics { \bassoLyricsVIII }
+             \addlyrics { \bassoLyricsX }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -95,13 +96,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Emulo sei del sole, }
-                \line { fanciul che l'Oriente }
-                \line { degli anni tuoi già fai tutto lucente }
-                \line { né solo è tuo splendore }
-                \line { la beltà che nel viso appar di fuore }
-                \line { ma son l'opre che fai }
-                \line { della bell'alma tua lucidi rai. }
+                \line { Cogli la vaga rosa }
+                \line { leggiadra verginella }
+                \line { mentr'è novello il fior, l'età novella, }
+                \line { e la fronte amorosa }
+                \line { ne ingemma o 'l seno ed abbi a mente poi }
+                \line { così volare i fugaci anni tuoi, }
+                \line { e che 'l tuo viso adorno }
+                \line { può fiorir e sfiorir seco in un giorno. }
             }
 %           \column {
 %               % translation orig date:

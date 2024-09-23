@@ -192,7 +192,7 @@ def query_date(bio):
 
     return "{} - {}".format(byear, dyear)
 
-def find_header(lines, sf):
+def find_header(lines, sf, dist_flag):
     hlines = []
 
     flag = False
@@ -203,8 +203,8 @@ def find_header(lines, sf):
         if "}" in l and l.index("}") == 0:
             return hlines
         if flag:
-#            if "distribution-header" in l:
-#                hlines += [ln.strip() for ln in open("{}/include/distribution-header.ly".format(dirname(sf)))]
+            if dist_flag and "distribution-header" in l:
+                hlines += [ln.strip() for ln in open("{}/include/distribution-header.ly".format(dirname(sf)))]
             hlines.append(l.strip())
     print(sf, "UNABLE TO FIND \\header in SCORE")
     sys.exit(1)
@@ -304,19 +304,21 @@ def write_pieces(coll):
 
         with open(sf, "r") as fd:
             lines = fd.readlines()
-            header = find_header(lines, sf)
+            header = find_header(lines, sf, False)
+            header_with_dist = find_header(lines, sf, True)
 
         title = get_header_field(header, "title")
         subtitle = get_header_field(header, "subtitle")
         folio = get_header_field(header, "folio")
         composer = get_header_field(header, "composer")
+        definite_composer = get_header_field(header_with_dist, "composer") 
         shortcomp = get_header_field(header, "shortcomp")
         shorttitle = get_header_field(header, "shorttitle")
         if shorttitle == None:
             shorttitle = basename(p.path)
 
-        if composer == None:
-            composer = coll.parent.short_name
+#        if composer == None:
+#            composer = coll.parent.short_name
 
         p.h_title = title
         p.h_subtitle = subtitle
@@ -330,7 +332,10 @@ def write_pieces(coll):
             tit = "{}: {}".format(title, subtitle)
         else:
             tit = title
-        html += "    " * 4 + '<li value="{num}"> <a href="single-parts/{outputdir}">{title}</a> {composer}</li>\n'.format(num=p.num.lstrip("0"), outputdir=basename(p.path), title=tit, composer=("[{}]".format(composer) if composer != None else ""))
+        if "high-clefs" in sf:
+            html += "    " * 4 + '<li value="{num}"> <a href="high-clefs/{outputdir}">{title}</a> {composer} (transposed down due to chiavi alte)</li>\n'.format(num=p.num.lstrip("0"), outputdir=basename(p.path), title=tit, composer=("[{}]".format(composer) if composer != None else ""))
+        else:
+            html += "    " * 4 + '<li value="{num}"> <a href="single-parts/{outputdir}">{title}</a> {composer}</li>\n'.format(num=p.num.lstrip("0"), outputdir=basename(p.path), title=tit, composer=("[{}]".format(composer) if composer != None else ""))
 
         p_header = """
         <meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
@@ -356,11 +361,11 @@ def write_pieces(coll):
         <a href="../../../../index.html">TOP</a> / <a href="../../../index.html">{composer_group}</a> / <a href="../../index.html">{coll_name}</a> / {path} <p>
         <center>
         <h2>{title}<h2><br>by<br>
-        <h3>{composer}</h3><p>
+        <h3>{definite_composer}</h3><p>
         </center>
 
 
-""".format(header=p_header, title=tit, composer_group=coll.parent.short_name, composer=composer, path=shorttitle, coll_name=coll.title)
+""".format(header=p_header, title=tit, composer_group=coll.parent.short_name, composer=composer, path=shorttitle, coll_name=coll.title, definite_composer=definite_composer)
 
         p_html_end = """    </body>
     <!-- generate_index.py ran at {isotime} -->
@@ -602,7 +607,7 @@ def dirname(s):
     return "/".join((s.split("/"))[:-1])
 
 def build_data(args):
-    global piece_dirs, collect_dirs, composer_dirs
+    global piece_dirs, collect_dirs, composer_dirs, single_part
 
     output_re = re.compile(r"^[0-9][0-9]+-output$")
 
@@ -635,7 +640,7 @@ def build_composers(args):
             continue
         fd = open(yaml_fn)
         try:
-            composer_conf = yaml.load(fd)
+            composer_conf = yaml.full_load(fd)
         except:
             print("YAML ERROR:")
             print(yaml_fn)
@@ -661,7 +666,7 @@ def build_composers(args):
 
                 fd = open(cyaml_fn)
                 try:
-                    col_conf = yaml.load(fd)
+                    col_conf = yaml.full_load(fd)
                 except:
                     print("YAML ERROR:")
                     print(cyaml_fn)
@@ -687,7 +692,10 @@ def build_composers(args):
                     num = basename(p).split("-")[0]
                     p_obj.num = num
 
-                    lf_path = "{}/single-parts/{}-*.ly".format(p_obj.pparent.path, num)
+                    if "high-clefs" in p:
+                        lf_path = "{}/high-clefs/{}-*.ly".format(p_obj.pparent.path, num)
+                    else:
+                        lf_path = "{}/single-parts/{}-*.ly".format(p_obj.pparent.path, num)
                     p_obj.lilypond_files = glob.glob(lf_path)
                     if len(p_obj.lilypond_files) == 0:
                         print("ERROR: output dir with no source files:")
