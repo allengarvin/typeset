@@ -28,8 +28,8 @@ cantoXIIincipit = \relative c'' {
     d4.
 }
 
+% canto: checked against source
 cantoXII = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCommonTime
 
@@ -46,7 +46,7 @@ cantoXII = \relative c'' {
     f2 d4 f2 e d4( | cs d2 cs4) d2 r2 | d4. c8 d4 c2 bf4 a2 | 
         g4 d' bf4. bf8 c4 d bf2 | a d bf4 c4.( bf8 bf4 ~ | bf a) bf f'8[ e] 
 
-    d4 c8[ bf] a2 | c4 c2 bf4 a2 a | R\breve*2 | r4 f2 bf4 a bf2( a4) |
+    d4 c8[ bf] a2 | c4 c2 bf4 a2 a | R\breve R | r4 f2 bf4 a bf2( a4) |
         bf bf2 c4 d c8[ bf] a4 a | g2 fs4 g2( fs4) g4 d' | f2. ef4 d1 | 
 
     d2 f4. e8 d4 c8[ bf] a2 | c4 c2 bf4 a2 a4 d |
@@ -57,24 +57,23 @@ cantoXII = \relative c'' {
 }
 
 cantoLyricsXII = \lyricmode {
-%    Qua -- si ver -- mi -- glia ro -- sa,
-%    U -- mi -- l'e~in sé na -- sco -- sa,
-%    Se -- dea la bel -- la don -- na~in at -- ti~u -- mi -- li
-%    E in pen -- sier ca -- sti~e di -- vi,
-%    Quan -- d'il ciel ri -- se e fu mi -- ra -- bil co -- sa,
-%        e fu mi -- ra -- bil co -- sa,
-%            mi -- ra -- bil co -- sa:
-%    Ch'io vi -- di nel bel se -- no
-%    Lam -- peg -- giar un se -- re -- no,
-%    Lam -- peg -- giar un se -- re -- no,
-%    Ch'io vi -- di nel bel se -- no
-%    Lam -- peg -- giar un se -- re -- no,
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%    Che Dio di -- re -- sti~è~in es -- so~e ben fu Di -- o
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%        a lei s'u -- ni -- o,
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o.
+    Qua -- si ver -- mi -- glia ro -- sa,
+    U -- mi -- l'e~in sé __ na -- sco -- sa,
+    Se -- dea __ la bel -- la don -- na~in at -- ti~u -- mi -- li
+    E~in pen -- sier ca -- sti~e di -- vi,
+    Quan -- d'il ciel ri -- se e fu __ mi -- ra -- bil co -- sa,
+            mi -- ra -- bil co -- sa:
+    Ch'io vi -- di nel bel se -- no
+    Lam -- peg -- giar un se -- re -- no,
+    Ch'io vi -- di nel bel se -- no
+    Lam -- peg -- giar un se -- re -- no,
+    Che Dio di -- re -- sti~è~in es -- so~e ben fu Di -- o
+    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
+        e ben fu Di -- o
+    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
+        a lei s'u -- ni -- o,
+    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
+        a lei s'u -- ni -- o.
 }
 
 altoXIIincipit = \relative c'' {
@@ -85,17 +84,17 @@ altoXIIincipit = \relative c'' {
     bf4.
 }
 
+% alto: checked against source
 altoXII = \relative c'' {
-    \clef mezzosoprano
     \key f \major
     \fourTwoCommonTime
 
-    bf4. bf8 bf4 a4.( g16[ f] g4) fs g ~ | g( fs8[ e] fs4) fs4. fs8 fs4 g a |
-        d, d f4. f8 f4 e2 d4 | c8[ a] d2 cs4 d f f2 ~ | f4 d
+    bf4. bf8 bf4 a4.( g16[ f] g4) fs g ~ | g( fs8[ e]) fs4 fs4. fs8 fs4 g a |
+        d, d f?4. f8 f4 e2 d4 | c8([ a] d2 cs4) d f f2 ~ | f4 d
 
     g4 ef d bf' a4.( g8 | f1) g | f\breve | f2 g2. g4 g2 | g1 bf |
         a\breve ~ | a1 a4 fs g a | 
-        bf8([ a16 g f8 g] a[ g a bf] c[ d16 c bf8 c] bf4. a16[ g] |
+        bf8([ a16 g f8 g] a[ g a bf] c[ bf16 a g8 a] bf4. a16[ g] |
         a4 bf) a a 
 
     bf2 a4 a ~ | a b c2 f,1 | r4 c' a f g a r2 | r4 a c a g2 f | 
@@ -111,30 +110,37 @@ altoXII = \relative c'' {
     a4 f r2 | r1 d'4. c8 bf4 a8[ g] | f4 a2 g4 fs g2( fs4) | 
         g2 r4 f2 g4 a g8[ f] | e4 a g4. f8 e2 d |
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        a1. g2 fs4 g2( fs4)
+        a'1. g2 fs4 g2( fs4)
         \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 altoLyricsXII = \lyricmode {
-%    Qua -- si ver -- mi -- glia ro -- sa,
-%    U -- mi -- l'e~in sé na -- sco -- sa,
-%    Se -- dea la bel -- la don -- na~in at -- ti~u -- mi -- li
-%    E in pen -- sier ca -- sti~e di -- vi,
-%    Quan -- d'il ciel ri -- se e fu mi -- ra -- bil co -- sa,
+    Qua -- si ver -- mi -- glia ro -- sa,
+    U -- mi -- l'e~in sé na -- sco -- sa,
+    \ijLyrics
+    U -- mi -- l'e~in sé na -- sco -- sa,
+    \normalLyrics
+    Se -- dea __ la bel -- la don -- na~in at -- ti~u -- mi -- li
+    E~in pen -- sier ca -- sti~e di -- vi,
+    Quan -- d'il ciel ri -- se e fu mi -- ra -- bil co -- sa,
 %        e fu mi -- ra -- bil co -- sa,
-%            mi -- ra -- bil co -- sa:
-%    Ch'io vi -- di nel bel se -- no
-%    Lam -- peg -- giar un se -- re -- no,
-%    Lam -- peg -- giar un se -- re -- no,
-%    Ch'io vi -- di nel bel se -- no
-%    Lam -- peg -- giar un se -- re -- no,
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%    Che Dio di -- re -- sti~è~in es -- so~e ben fu Di -- o
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%        a lei s'u -- ni -- o,
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o.
+            mi -- ra -- bil co -- sa,
+            mi -- ra -- bil co -- sa:
+    Ch'io vi -- di nel bel se -- no
+    Lam -- peg -- giar un se -- re -- no,
+    Ch'io vi -- di nel bel se -- no
+    Lam -- peg -- giar un se -- re -- no,
+    Ch'io vi -- di nel bel se -- no
+    Lam -- peg -- giar un se -- re -- no,
+    Che Dio di -- re -- sti~è~in es -- so e ben fu Di -- o
+    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
+    Che Dio di -- re -- sti~è~in es -- so~e ben fu Di -- o,
+        e ben fu Di -- o,
+    Che scen -- den -- do,
+    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
+    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
+        a lei s'u -- ni -- o.
 }
 
 tenoreXIIincipit = \relative c' {
@@ -145,8 +151,8 @@ tenoreXIIincipit = \relative c' {
     d4.
 }
 
+% tenore: checked against source
 tenoreXII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -175,23 +181,25 @@ tenoreXII = \relative c' {
 
 tenoreLyricsXII = \lyricmode {
 %    Qua -- si ver -- mi -- glia ro -- sa,
-%    U -- mi -- l'e~in sé na -- sco -- sa,
-%    Se -- dea la bel -- la don -- na~in at -- ti~u -- mi -- li
-%    E in pen -- sier ca -- sti~e di -- vi,
+    U -- mi -- l'e~in sé na -- sco -- sa,
+    Se -- dea la bel -- la don -- na~in at -- ti,
+        in at -- ti~u -- mi -- li
+    E~in __ pen -- sier ca -- sti~e di -- vi,
 %    Quan -- d'il ciel ri -- se e fu mi -- ra -- bil co -- sa,
-%        e fu mi -- ra -- bil co -- sa,
-%            mi -- ra -- bil co -- sa:
-%    Ch'io vi -- di nel bel se -- no
-%    Lam -- peg -- giar un se -- re -- no,
-%    Lam -- peg -- giar un se -- re -- no,
-%    Ch'io vi -- di nel bel se -- no
+        e fu mi -- ra -- bil co -- sa,
+        e fu mi -- ra -- bil co -- sa,
+            mi -- ra -- bil co -- sa:
+    Ch'io vi -- di nel __ bel se -- no
+    Lam -- peg -- giar un se -- re -- no,
+    Ch'io vi -- di nel __ bel se -- no
 %    Lam -- peg -- giar un se -- re -- no,
 %    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%    Che Dio di -- re -- sti~è~in es -- so~e ben fu Di -- o
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%        a lei s'u -- ni -- o,
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o.
+    Che Dio di -- re -- sti~è~in es -- so~e ben fu Di -- o
+    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o, __
+    Che Dio di -- re -- sti~è~in es -- so e ben fu Di -- o
+    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
+        a lei s'u -- ni -- o,
+    Che scen -- den -- do nel grem -- b'a lei __ s'u -- ni -- o.
 }
 
 bassoXIIincipit = \relative c {
@@ -202,8 +210,8 @@ bassoXIIincipit = \relative c {
     d4.
 }
 
+% basso: checked against source
 bassoXII = \relative c {
-    \clef varbaritone
     \key f \major
     \fourTwoCommonTime
 
@@ -232,22 +240,25 @@ bassoXII = \relative c {
 
 bassoLyricsXII = \lyricmode {
 %    Qua -- si ver -- mi -- glia ro -- sa,
-%    U -- mi -- l'e~in sé na -- sco -- sa,
-%    Se -- dea la bel -- la don -- na~in at -- ti~u -- mi -- li
-%    E in pen -- sier ca -- sti~e di -- vi,
+    U -- mi -- l'e~in sé na -- sco -- sa,
+    Se -- dea __ la bel -- la don -- na~in at -- ti~u -- mi -- li
+    E~in pen -- sier ca -- sti~e di -- vi,
 %    Quan -- d'il ciel ri -- se e fu mi -- ra -- bil co -- sa,
-%        e fu mi -- ra -- bil co -- sa,
-%            mi -- ra -- bil co -- sa:
-%    Ch'io vi -- di nel bel se -- no
-%    Lam -- peg -- giar un se -- re -- no,
-%    Lam -- peg -- giar un se -- re -- no,
-%    Ch'io vi -- di nel bel se -- no
+        e fu mi -- ra -- bil co -- sa,
+        e fu mi -- ra -- bil co -- sa:
+    Ch'io vi -- di nel bel se -- no
+    Lam -- peg -- giar un se -- re -- no,
+    Lam -- peg -- giar un se -- re -- no,
+    Ch'io vi -- di nel bel se -- no
 %    Lam -- peg -- giar un se -- re -- no,
 %    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%    Che Dio di -- re -- sti~è~in es -- so~e ben fu Di -- o
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
-%        a lei s'u -- ni -- o,
-%    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
+    Che Dio di -- re -- sti~è~in es -- so~e ben fu Di -- o,
+    Che Dio di -- re -- sti~è~in es -- so~e ben fu Di -- o,
+        e ben fu Di -- o
+    Che scen -- den -- do nel grem -- b'a lei __ s'u -- ni -- o,
+        a lei s'u -- ni -- o,
+    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o,
+        a lei s'u -- ni -- o.
 %    Che scen -- den -- do nel grem -- b'a lei s'u -- ni -- o.
 }
 
@@ -267,7 +278,7 @@ quintoXII = \relative c'' {
     g4. g8 g4 f2 ef4 d2 ~ | d d r1 | r4 d4. d8 d4 c2. bf4 | a2 a r2 d |
         d r4 c bf g d'2 ~ | d bf1 c2 ~ | c d f4( e8[ d] c2) |
 
-    d2 ef2. ef4 ef2 | d\breve | a2 a'1 f2( | e1) d4 d g f |
+    d2 ef2. ef4 ef2 | d\breve | a2 a'1( f2 | e1) d4 d g f |
         bf,8([ c d e] f4. e16[ d] c8[ d e f] g4. f16[ e] |
         d4 c8[ bf] c4 d) g, g d'2 | c4 f2 e4
 
@@ -293,7 +304,7 @@ quintoLyricsXII = \lyricmode {
     Qua -- si ver -- mi -- glia ro -- sa,
     U -- mi -- l'e~in sé na -- sco -- sa,
     Se -- dea la bel -- la don -- na~in at -- ti~u -- mi -- li
-    E in pen -- sier ca -- sti~e di -- vi,
+    E~in pen -- sier ca -- sti~e di -- vi,
     Quan -- d'il ciel ri -- se e fu mi -- ra -- bil co -- sa,
         e fu mi -- ra -- bil co -- sa,
             mi -- ra -- bil co -- sa:
