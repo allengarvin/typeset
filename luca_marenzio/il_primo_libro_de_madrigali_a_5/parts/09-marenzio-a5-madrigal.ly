@@ -21,7 +21,7 @@
 % 2023-05-06 yay thesaurus!
 
 cantoIXincipit = \relative c' {
-    \time 4/4
+    \time 2/2
     \key c \major
     \clef "petrucci-c1"
 
@@ -30,7 +30,7 @@ cantoIXincipit = \relative c' {
 
 % canto: checked against source
 cantoIX = \relative c' {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     r1 e ~ | e fs | gs2 a1 gs2 | a1 r | r1 r2 e' ~ | e d1 c2 |
@@ -80,7 +80,7 @@ cantoLyricsIX = \lyricmode {
 }
 
 altoIXincipit = \relative c' {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c3"
     \key c \major
 
@@ -89,7 +89,7 @@ altoIXincipit = \relative c' {
 
 % alto: checked against source
 altoIX = \relative c' {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     e\breve | cs1 d | b2 c b e ~ | e d1 c2 | b1 e | r2 a, b e | e1 c | 
@@ -137,7 +137,7 @@ altoLyricsIX = \lyricmode {
 }
 
 tenoreIXincipit = \relative c {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c4"
     \key c \major
 
@@ -146,7 +146,7 @@ tenoreIXincipit = \relative c {
 
 % tenore: checked against source
 tenoreIX = \relative c {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     R\breve*4 | e\breve | fs1 gs2 a ~ | a gs a1 | e' d ~ | d2 c b1 | a\breve |
@@ -187,7 +187,7 @@ tenoreLyricsIX = \lyricmode {
 }
 
 bassoIXincipit = \relative c {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-f4"
     \key c \major
 
@@ -196,7 +196,7 @@ bassoIXincipit = \relative c {
 
 % basso: checked against source
 bassoIX = \relative c {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     R\breve*3 | r1 e ~ | e cs | d b2 c | e1 r2 a ~ | a g1 f2 | e\breve |
@@ -237,7 +237,7 @@ bassoLyricsIX = \lyricmode {
 }
 
 quintoIXincipit = \relative c {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c4"
     \key c \major
 
@@ -246,7 +246,7 @@ quintoIXincipit = \relative c {
 
 % quinto: checked against source
 quintoIX = \relative c {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key c \major
 
     R\breve*2 | e\breve | fs1 gs2 a ~ | a gs a1 ~ | a r | r2 e'2.( d4 c2 ~ |
