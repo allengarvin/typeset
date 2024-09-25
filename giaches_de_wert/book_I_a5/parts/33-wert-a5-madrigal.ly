@@ -50,7 +50,7 @@
 % than of her life—loses the esteem 
 % she once enjoyed in the hearts of all her other wooers.
 
-cantoXXXIincipit = \relative c' {
+cantoXXXIIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-g"
     \key f \major
@@ -59,7 +59,7 @@ cantoXXXIincipit = \relative c' {
 }
 
 % canto: checked against source
-cantoXXXI = \relative c' {
+cantoXXXIII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
@@ -84,7 +84,7 @@ cantoXXXI = \relative c' {
     \bar "|."
 }
 
-cantoLyricsXXXI = \lyricmode {
+cantoLyricsXXXIII = \lyricmode {
     Ma non sì to -- sto dal ma -- ter -- no ste -- lo
     Ri -- mos -- sa vie -- ne~e dal suo cep -- po ver -- de,
     Che quan -- to~a -- vea da gli~uo -- mi -- ni~e dal cie -- lo
@@ -96,7 +96,7 @@ cantoLyricsXXXI = \lyricmode {
     per -- de nel cor di tut -- ti gli~al -- tri~a -- man -- ti.
 }
 
-altoXXXIincipit = \relative c'' {
+altoXXXIIIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c2"
     \key f \major
@@ -105,7 +105,7 @@ altoXXXIincipit = \relative c'' {
 }
 
 % alto: checked against source
-altoXXXI = \relative c'' {
+altoXXXIII = \relative c'' {
     \fourTwoCutTime
     \key f \major
 
@@ -127,7 +127,7 @@ altoXXXI = \relative c'' {
     \bar "|."
 }
 
-altoLyricsXXXI = \lyricmode {
+altoLyricsXXXIII = \lyricmode {
     Ma non sì to -- sto,
     ma non sì to -- sto dal ma -- ter -- no ste -- lo
     Ri -- mos -- sa vie -- ne~e dal __ suo cep -- po ver -- de,
@@ -142,7 +142,7 @@ altoLyricsXXXI = \lyricmode {
     per -- de nel cor di tut -- ti gli~al -- tri~a -- man -- ti. __
 }
 
-tenoreXXXIincipit = \relative c' {
+tenoreXXXIIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c3"
     \key f \major
@@ -151,7 +151,7 @@ tenoreXXXIincipit = \relative c' {
 }
 
 % tenore: checked against source
-tenoreXXXI = \relative c' {
+tenoreXXXIII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
@@ -176,7 +176,7 @@ tenoreXXXI = \relative c' {
     \bar "|."
 }
 
-tenoreLyricsXXXI = \lyricmode {
+tenoreLyricsXXXIII = \lyricmode {
     Ma non sì to -- sto dal ma -- ter -- no ste -- lo
     Ri -- mos -- sa vie -- ne~e dal suo cep -- po ver -- de,
         e dal suo cep -- po ver -- de,
@@ -190,7 +190,7 @@ tenoreLyricsXXXI = \lyricmode {
         di tut -- ti gli~al -- tri~a -- man -- ti.
 }
 
-bassoXXXIincipit = \relative c {
+bassoXXXIIIincipit = \relative c {
     \time 2/2
     \clef "petrucci-f3"
     \key f \major
@@ -199,7 +199,7 @@ bassoXXXIincipit = \relative c {
 }
 
 % basso: checked against source
-bassoXXXI = \relative c {
+bassoXXXIII = \relative c {
     \fourTwoCutTime
     \key f \major
 
@@ -223,7 +223,7 @@ bassoXXXI = \relative c {
     \bar "|."
 }
 
-bassoLyricsXXXI = \lyricmode {
+bassoLyricsXXXIII = \lyricmode {
     Ma non sì to -- sto dal ma -- ter -- no ste -- lo
     Ri -- mos -- sa vie -- ne~e dal suo cep -- po ver -- de,
     Che quan -- to~a -- vea da gli~uo -- mi -- ni~e dal cie -- lo,
@@ -235,31 +235,48 @@ bassoLyricsXXXI = \lyricmode {
     Per -- de nel cor di tut -- ti gli~al -- tri~a -- man -- ti.
 }
 
-cantoXXXIincipitVoice = <<
+quintoXXXIII = \relative c {
+    \clef alto
+    \fourTwoCutTime
+    \key f \major
+
+    \bar "|."
+}
+
+quintoLyricsXXXIII = \lyricmode {
+}
+
+cantoXXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoXXXIincipit
+        \cantoXXXIIIincipit
     >>
 >>
 
-altoXXXIincipitVoice = <<
+altoXXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altoXXXIincipit
+        \altoXXXIIIincipit
     >>
 >>
 
-tenoreXXXIincipitVoice = <<
+tenoreXXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreXXXIincipit
+        \tenoreXXXIIIincipit
     >>
 >>
 
-bassoXXXIincipitVoice = <<
+bassoXXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassoXXXIincipit
+        \bassoXXXIIIincipit
     >>
 >>
 
+quintoXXXIIIincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \quintoXXXIIIincipit
+    >>
+>>
