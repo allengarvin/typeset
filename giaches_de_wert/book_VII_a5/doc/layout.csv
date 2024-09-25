@@ -1,0 +1,14 @@
+Piece|Cleffing|Key signature|Final|Meter|Length(in breves)|Number of poetic lines|Poetic form
+1-2|C1,C2,C3,C4,F4 (low)|&flat;|cut|G|91 (49+42)|14 (8+6)|sonnet
+3|C1,C2,C3,C4,F4 (low)|&flat;|cut|G|49|5|madrigal
+4-5|C1,C2,C3,C4,F4 (low)|&flat;|cut|G|78 (43+35)|14 (8+6)|sonnet
+6|G2,C2,C2,C3,C4 (high)|&mdash;|cut|A|40|6|sonnet
+7|G2,C2,C3,C3,F3 (high)|&mdash;|cut|D|39|8|sonnet
+8|G2,C2,C2,C3,F3 (high)|&mdash;|cut|A|49|8|ottava rima
+9-10|G2,C2,C3,C3,C4 (high)|&mdash;|cut|G|97 (41+56)|14 (8+6)|sonnet
+11-12|G2,C2,C3,C3,F3 (high)|&mdash;|cut|C|88 (60+28)|14 (8+6)|sonnet
+13-14|C1,C3,C4,C4,F4 (low)|&mdash;|cut|E|75 (41+34)|16 (8+8)|ottava rima
+15|C1,C3,C4,C4,F4 (low)|&mdash;|cut|D|55|11|madrigal
+16-17|G2,G2,C2,C3,C3,F3 (high)|&flat;|cut|G|81 (50+31)|14 (8+6)|sonnet
+18|C1,C2,C2,C3,C3,C4,F4 (low)|&flat;|cut|G|51|20|madrigal
+19|G2,G2,C1,C2,C3,C3,F3 (high)|&flat;|common|G|64|15|madrigal
