@@ -5,8 +5,8 @@
 % leggiadre Canzonette e amorose!
 % Donne e donzelle leggiadrette e belle,
 % che in gioia a tutte l'ore
-% con gran piacer in voi s'annid'Amore,
-% deh, tutti uniti insieme:
+% con gran piacer in voi s'annid'Amore.
+% Deh, tutti uniti insieme:
 % Cantiam qualche ballata o Canzonetta!
 % 
 % Che farà il Basso? Io!
@@ -17,7 +17,7 @@
 % Chi mira gli occhi tuoi
 % e non sospira poi
 % credo che non sia vivo,
-% o di giudizio privo.
+% o di giudizio privo!
 % 
 % ---
 % Un'altro volta, senz'altr'intervallo!
@@ -36,6 +36,26 @@
 % Or stia ciascun'attento,
 % or va Canzona mia, non dubitare:
 
+% Now let the hills laugh all around
+% and the violets and lilies and roses bloom,
+% and the little birds in the shady vales
+% sing in an embellished style
+% canzonettas graceful and amorous!
+% Ladies and maidens, graceful and beautiful,
+% that joyfully at every hour
+% Love resides in you with great pleasure.
+% Ah, everyone in unison together:
+% Let's sing some ballatas or canzonettas!
+% 
+% Who will be the Bass? I!
+% Who will be the Canto? Here I am!
+% Who will be the Alto? Me!
+% We have a couple of tenors: Now let's start!
+% 
+% The one who gazes into your eyes
+% and then sighs not:
+% I think he's not alive,
+% or of judgment deprived!
 
 cantoXIXincipit = \relative c'' {
     \clef "petrucci-c1"
@@ -62,8 +82,8 @@ cantoXIX = \relative c'' {
     g2 r4 g a bf c a | b( c2 b4) c1 | r1 r2 r4 c | bf2 a4 g4.( f8 f2 e4) |
         f1 g | bf
 
-    r2 c | c c bf d | d1 d | \time 3/1 g,1 a bf ~ | bf2 bf bf1 a | 
-        a2 g1 d'2 d1 | \fourTwoCutTime d1 r1 | R\breve | r1
+    r2 c | c c bf d | d1 d | \time 3/1\threeWholeFromBreve g,1 a bf ~ | bf2 bf bf1 a | 
+        a2 g1 d'2 d1 | \fourTwoCutTime\breveFromThreeWhole d1 r1 | R\breve | r1
 
     r2 c | d bf a1 | b r2 d | bf a g1 | g r2 e ~ | e4 e f2 f4 e g2 | g4 c a bf
 
@@ -94,7 +114,7 @@ cantoLyricsXIX = \lyricmode {
         leg -- gia -- dret -- t'e bel -- le,
     Ch'in gio -- ia~a tut -- te l'o -- re
     Con gran pia -- cer in voi s'an -- ni -- d'A -- mo -- re,
-        s'an -- ni -- d'A -- mo -- re,
+        s'an -- ni -- d'A -- mo -- re.
     Deh,
     deh,
     deh, tut -- ti~u -- ni -- ti~in -- sie -- me:
@@ -122,7 +142,7 @@ cantoLyricsXIX = \lyricmode {
 
     cre -- do che non sia vi -- vo
     cre -- do che non sia vi -- vo
-    o di giu -- di -- zio pri -- vo.
+    o di giu -- di -- zio pri -- vo!
 }
 
 altoXIXincipit = \relative c' {
@@ -151,8 +171,9 @@ altoXIX = \relative c' {
 
     g2 e4 e d1 | r1 c2 e4 f | g e d2 c1 | r1 r2 r4 c | d e f d c1 | c ef |
 
-    bf1 f' | f2 f f4 d g2 ~ | g4( fs8[ e] fs2) g1 | \time 3/1
-        e1 f f ~ | f2 f f1 f | fs2 g1 g2 fs1 | \fourTwoCutTime
+    bf1 f' | f2 f f4 d g2 ~ | g4( fs8[ e] fs2) g1 | \time 3/1\threeWholeFromBreve
+                             % vv fs in 1590s edition, changing to f
+        e1 f f ~ | f2 f f1 f | f2 g1 g2 fs1 | \fourTwoCutTime\breveFromThreeWhole
        
     g1 r1 | R\breve | r1 r2 f ~ f4 d d g2( fs8[ e] fs2) | g1 r1 | R\breve |
         g1 e | R\breve | r1 r2 r4 d | c bf g2 a1 | r1
@@ -184,7 +205,7 @@ altoLyricsXIX = \lyricmode {
     \normalLyrics
 %    Ch'in gio -- ia~a tut -- te l'o -- re
     Con gran pia -- cer in voi s'an -- ni -- d'A -- mo -- re,
-        in voi s'an -- ni -- d'A -- mo -- re,
+        in voi s'an -- ni -- d'A -- mo -- re.
     Deh,
     deh,
     deh, tut -- ti~u -- ni -- ti~in -- sie -- me:
@@ -211,7 +232,7 @@ altoLyricsXIX = \lyricmode {
 %
 %    cre -- do che non sia vi -- vo
     cre -- do che non sia vi -- vo,
-    o di giu -- di -- zio pri -- vo.
+    o di giu -- di -- zio pri -- vo!
 }
 
 tenoreXIXincipit = \relative c' {
@@ -238,9 +259,9 @@ tenoreXIX = \relative c' {
         r2 f, g4 g bf a | 
 
     f2 f4 bf2 a4 g2 | f1 r1 | r1 c' | a2 a bf2. g4 | a1 g |
-        \time 3/1 c c bf ~ | bf2 bf bf1 a | 
+        \time 3/1\threeWholeFromBreve c c bf ~ | bf2 bf bf1 a | 
 
-    a2 g1 g2 d1 | \fourTwoCutTime d2 g2. f4 a2 | \[ bf1( a) \] | g1 r1 |
+    a2 g1 g2 d1 | \fourTwoCutTime\breveFromThreeWhole d2 g2. f4 a2 | \[ bf1( a) \] | g1 r1 |
         R\breve | r1 r2 g' | f f d1 | e r2 c ~ | c4 c c a 
 
     a4 c2( b4) | c2 r2 r2 r4 a | a d c2 d4 d c f | d2 f r4 c c c | c c d2
@@ -272,7 +293,7 @@ tenoreLyricsXIX = \lyricmode {
         leg -- gia -- dret -- t'e bel -- le,
         leg -- gia -- dret -- t'e bel -- le,
     Ch'in gio -- ia~a tut -- te l'o -- re
-    Con gran pia -- cer in voi s'an -- ni -- d'A -- mo -- re,
+    Con gran pia -- cer in voi s'an -- ni -- d'A -- mo -- re.
     Deh, tut -- ti~u -- ni -- ti~in -- sie -- me:
     Can -- tiam qual -- che bal -- la -- ta~o Can -- zo -- net -- ta!
 
@@ -301,7 +322,7 @@ tenoreLyricsXIX = \lyricmode {
 
     cre -- do che non sia vi -- vo
         che non sia vi -- vo,
-    o di giu -- di -- zio pri -- vo.
+    o di giu -- di -- zio pri -- vo!
 }
 
 bassoOneXIXincipit = \relative c {
@@ -328,8 +349,8 @@ bassoOneXIX = \relative c {
     r4 c d e f d | e1 f2 r2 | r1 r2 f | d d c r4 a | 
         bf c d bf c1 | f, r1 | r1 f' | 
 
-    f,2 f bf g | d'1 g, | \time 3/1 c1 f, bf ~ | bf2 bf bf1 f' | 
-        d2 g1 g,2 d'1 | \fourTwoCutTime g,2 g2. bf4 f2 | g1
+    f,2 f bf g | d'1 g, | \time 3/1\threeWholeFromBreve c1 f, bf ~ | bf2 bf bf1 f' | 
+        d2 g1 g,2 d'1 | \fourTwoCutTime\breveFromThreeWhole g,2 g2. bf4 f2 | g1
 
     f2 r4 f' ~ | f( e8[ d] e2) f1 | R\breve | r1 r2 g | bf f g1 | c, r1 |
         R\breve | r4 c f g ef2 d | r1 r4 d f f | 
@@ -362,7 +383,7 @@ bassoOneLyricsXIX = \lyricmode {
         leg -- gia -- dret -- t'e bel -- le,
 %    Ch'in gio -- ia~a tut -- te l'o -- re
     Con gran pia -- cer in voi s'an -- ni -- d'A -- mo -- re,
-    con gran pia -- cer in voi s'an -- ni -- d'A -- mo -- re,
+    con gran pia -- cer in voi s'an -- ni -- d'A -- mo -- re.
     Deh, tut -- ti~u -- ni -- ti~in -- sie -- me:
     Can -- tiam qual -- che bal -- la -- ta~o Can -- zo -- net -- ta!
 
@@ -389,7 +410,7 @@ bassoOneLyricsXIX = \lyricmode {
 
     cre -- do che non sia vi -- vo
     cre -- do che non sia vi -- vo
-    o di giu -- di -- zio pri -- vo.
+    o di giu -- di -- zio pri -- vo!
 }
 
 quintoXIXincipit = \relative c'' {
@@ -417,8 +438,8 @@ quintoXIX = \relative c'' {
 
     d,4 g g2 e r4 c | d e f d e2 f | r2 r4 d' g, c c2 | c1 bf | d r2 a | 
 
-    a2 a d bf | a1 b | \time 3/1 c c d ~ | d2 d d1 c | d2 bf1 bf2 a1 |
-        \fourTwoCutTime b1 r1 | R\breve*2 | r1
+    a2 a d bf | a1 b | \time 3/1\threeWholeFromBreve c c d ~ | d2 d d1 c | d2 bf1 bf2 a1 |
+        \fourTwoCutTime\breveFromThreeWhole b1 r1 | R\breve*2 | r1
 
     r2 d ~ | d4 d d2 b1 | R\breve*3 | r4 g f d c2 d4 a' | a g g2 fs r2 |
         r1 r4 a a a |
@@ -451,7 +472,7 @@ quintoLyricsXIX = \lyricmode {
     Con gran pia -- cer
             s'an -- ni -- d'A -- mo -- re,
         in voi s'an -- ni -- d'A -- mo -- re,
-            s'an -- ni -- d'A -- mo -- re,
+            s'an -- ni -- d'A -- mo -- re.
     Deh,
     deh,
     deh, tut -- ti~u -- ni -- ti~in -- sie -- me:
@@ -482,7 +503,7 @@ quintoLyricsXIX = \lyricmode {
 
     cre -- do che non sia vi -- vo
         vi -- vo
-    o di giu -- di -- zio pri -- vo.
+    o di giu -- di -- zio pri -- vo!
 }
 
 sestoXIXincipit = \relative c' {
@@ -508,8 +529,8 @@ sestoXIX = \relative c' {
     c4 c c2 c1 | R\breve | r2 g a1 | b2 c r1 | c a2 a | g1 r1 | 
         f2 a4 bf c c d c | R\breve*2 | r1
 
-    a1 | c2 c d d | d1 d | \time 3/1 g,1 f f ~ | f2 f bf1 c | f,2 bf1 bf2 d1 |
-        \fourTwoCutTime d1 r1 | R\breve | r1
+    a1 | c2 c d d | d1 d | \time 3/1\threeWholeFromBreve g,1 f f ~ | f2 f bf1 c | f,2 bf1 bf2 d1 |
+        \fourTwoCutTime\breveFromThreeWhole d1 r1 | R\breve | r1
 
     r2 a | bf g d'1 | g, r1 | R\breve | r1 r2 g ~ | g4 g a c2 c4 d2 | 
         e4 c a g g2 a | R\breve | r1
@@ -541,7 +562,7 @@ sestoLyricsXIX = \lyricmode {
     \ijLyrics
     con gran pia -- cer
     \normalLyrics
-        in voi s'an -- ni -- d'A -- mo -- re,
+        in voi s'an -- ni -- d'A -- mo -- re.
     Deh, tut -- ti~u -- ni -- ti~in -- sie -- me:
     Can -- tiam qual -- che bal -- la -- ta~o Can -- zo -- net -- ta!
 
@@ -567,7 +588,7 @@ sestoLyricsXIX = \lyricmode {
 
     cre -- do che non sia vi -- vo
     cre -- do che non sia vi -- vo
-    o di giu -- di -- zio pri -- vo.
+    o di giu -- di -- zio pri -- vo!
 }
 
 bassoTwoXIXincipit = \relative c {
@@ -595,8 +616,8 @@ bassoTwoXIX = \relative c {
     r4 e f g a f | g2 g r1 | r2 r4 g a bf c a | a2 f r1 | r2 r4 d e f g2 |
         a1 r1 | r1 r2 f |
 
-    f2 f f g | d1 d | \time 3/1 c1 f d ~ | d2 d f1 f | a2 bf1 g2 a1 |
-        \fourTwoCutTime g2 d2. d4 f2 | d2.( e4 f1) |
+    f2 f f g | d1 d | \time 3/1\threeWholeFromBreve c1 f d ~ | d2 d f1 f | a2 bf1 g2 a1 |
+        \fourTwoCutTime\breveFromThreeWhole g2 d2. d4 f2 | d2.( e4 f1) |
 
     c1 r1 | R\breve | r1 r2 d' ~ | d4 d c c2( b8[ a] b2) | c1 r2 c, ~ |
         c4 c f2 f4 a g2 | c, r2 r2 r4 d | f g ef2
@@ -619,12 +640,8 @@ bassoTwoXIX = \relative c {
 
 bassoTwoLyricsXIX = \lyricmode {
     Or che le piag -- gie ri -- don d'o -- gn'in -- tor -- no,
-%    E spun -- tan fuor vi -- o -- le~e gi -- gli~e ro -- se,
     E gli~au -- gel -- let -- ti per le val -- li~om -- bro -- se
     Can -- to -- no~in sti -- le~a -- dor -- no
-%    Leg -- gia -- dre,
-%    leg -- gia -- dre,
-%    leg -- gia -- dre Can -- zo -- net -- t'e a -- mo -- ro -- se!
     Don -- n'e don -- zel -- le leg -- gia -- dret -- t'e bel -- le,
         leg -- gia -- dret -- t'e bel -- le,
         leg -- gia -- dret -- t'e bel -- le,
@@ -633,15 +650,12 @@ bassoTwoLyricsXIX = \lyricmode {
     \ijLyrics
         in voi s'an -- ni -- d'A -- mo -- re,
     \normalLyrics
-            s'an -- ni -- d'A -- mo -- re,
-%    Deh,
-%    deh,
+            s'an -- ni -- d'A -- mo -- re.
     Deh, tut -- ti~u -- ni -- ti~in -- sie -- me:
     Can -- tiam qual -- che bal -- la -- ta~o Can -- zo -- net -- ta!
 
     Che fa -- rà~il Bas -- so?
     Chi __ fa -- rà l'Al -- to?
-%        % Io!
     Del __ Te -- nor ve n'è cop -- pia;
         Or co -- min -- cia -- mo,
         or co -- min -- cia -- mo!
@@ -653,13 +667,11 @@ bassoTwoLyricsXIX = \lyricmode {
     chi mi -- ra gli~oc -- chi tuo -- i
     e non so -- spi -- ra po -- i,
     e non so -- spi -- ra po -- i
-    Cre -- do che non sia vi -- vo,
     cre -- do che non sia vi -- vo
     O di giu -- di -- zio pri -- vo,
 
     cre -- do che non sia vi -- vo
-    cre -- do che non sia vi -- vo
-    o di giu -- di -- zio pri -- vo.
+    o di __ giu -- di -- zio pri -- vo!
 }
 
 cantoXIXincipitVoice = <<
