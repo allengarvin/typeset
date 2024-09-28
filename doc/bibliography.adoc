@@ -1,0 +1,42 @@
+= Useful bibliography
+
+== Bibliographic Indexes
+
+These are not necessarily useful to the average musician, but I find
+them completely invaluable for tracking down editions, which libraries
+hold extant copies, when there have been reprints, etc.
+
+* Sartori, Claudio; Vogel, Emil; Einstein, Alfred: ''Bibliografia della musica italiana vocale profana: pubblicata dal 1500 al 1700'' (Pomezia: Staderini-Minkoff, 1977) (3 volumes)
+
+** For secular Italian vocal works, this edition is absolutely essential. Unfortunately, it's not widely available. Good universities libraries will have it (there are at least 3 copies in libraries in my Dallas-Fort Worth metro area). In over a decade of searching for a personal copy, I've only managed to find the first volume. I have photocopies of other parts.
+
+* Lewis, Mary S.: ''Antonio Gardano: Venetian Music Printer: vol. I 1538-1549'' (New York: Garland, 1988)
+* Lewis, Mary S.: ''Antonio Gardano: Venetian Music Printer: vol. II 1550-1559'' (New York: Routledge, 2005)
+* Lewis, Mary S.: ''Antonio Gardano: Venetian Music Printer: vol. III 1560-1569'' (New York: Routledge, 2005)
+* Agee, Richard J.: ''The Gardano Printing Firms: 1569-1611'' (Rochester, NY: University of Rochester Press, 1998
+
+** The Gardano press was by far the most prolific music printer in the early modern period. They specialized and printed only music, and the quality and accuracy is generally unrivaled. They printed the gamut of musical styles in general, though most of their prints can be divided into either madrigal or motet. From Antonio, 442 surviving publications are documented. His sons took over upon his death, with Angelo eventually running the press into the early 17th century. 
+
+** The book by Mr. Agee picks up after the death of Antonio Gardano and catalogs nearly 500 additional publications, listed by year. Contents are not listed, but libraries are. As I'm most interested in the 1570s-1590s, this is quite useful.
+
+* Bernstein, Jane A.: ''Music Printing in Renaissance Venice: The Scotto Press (1539-1572)
+
+** Close behind the Gardano press was the Scotto Press, which mostly but not quite exclusively printed music. From this period, slightly over 400 publications survive in part are in whole. The Scotto press also printed more of what Einstein called the "lighter forms": villanelle, canzoni, etc: less serious secular Italian vocal music than the madrigal. 
+
+* Boorman, Stanley: ''Ottaviano Petrucci: A Catalogue Raisonné'' (Oxford: OUP, 2006)
+
+** The first moveable type music printer ever, who started in 1501 and continued until the late 1510s. His first three volumes were untexted Franco-Flemish works, followed by numerous books of motets, masses, and frottole. The prefatory material before the index is especially fascinating.
+
+* Cusick, Suzanne G.: ''Valerio Dorico: Music Printer in Sixteenth Century Rome'' (Michigan: UMI research press, 1981)
+
+** Dorico was a prominant printer in the 1520s and early 1530s, who mostly used the multi-impression process similar to Petrucci. The works are mostly motets, masses, and frottole.
+
+* Sartori, Claudio: ''Bibliografia della musica strumentale italiana: 1500-1700'' (Firenze: Olschki, 1952)
+
+** A very useful work, more useful to me than Brown, below, is this volume. It only covers Italian prints (and does not include some Italians working abroad)--and it's a bit out of date with regard to libraries and extant editions, but in general, for instrumental music, it is essential.
+
+* Brown, Howard Mayer: ''Instrumental Music Printed Before 1600'' (Cambridge MA: 1965, 1969)
+
+** The printed instrumental idiom in the 16th century was mostly individualistic: the vast majority of the prints are lute intabulations, followed by keyboard.
+
+
