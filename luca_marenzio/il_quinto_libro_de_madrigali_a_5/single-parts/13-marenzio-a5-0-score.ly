@@ -6,19 +6,19 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 14.5)
+#(set-global-staff-size 15.0)
 
 \header {
     lastupdated = "2024-09-28"
     originallyset = "2024-09-28"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "La rete fu di queste fila d'oro"
-    subtitle = "Prima parte"
+    title = "Per la dolce cagion"
+    subtitle = "Seconda parte"
     subsubtitle = ""
-    instrument = "La rete fu di queste fila d'oro: Prima parte (score)"
+    instrument = "Per la dolce cagion: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "la_rete_fu_di_queste_fila_doro"
+    shorttitle = "per_la_dolce_cagion"
     shortcomp = "marenzio"
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort,arrow,wound,morte,amore]"
@@ -30,10 +30,10 @@
     tagline = #'f
 }
 
-\include "../parts/12-marenzio-a5-madrigal.ly"
+\include "../parts/13-marenzio-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "12-marenzio--la_rete_fu_di_queste_fila_doro-prima_parte"
+    \bookOutputName "13-marenzio--per_la_dolce_cagion-seconda_parte"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,44 +42,44 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXIIincipitVoice
+                    \incipit \cantoXIIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoXII
+                    \cantoXIII
                 >>
-             \addlyrics { \cantoLyricsXII }
+             \addlyrics { \cantoLyricsXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXIIincipitVoice
+                    \incipit \altoXIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \altoXII
+                    \altoXIII
                 >>
-             \addlyrics { \altoLyricsXII }
+             \addlyrics { \altoLyricsXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXIIincipitVoice
+                    \incipit \quintoXIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintoXII
+                    \quintoXIII
                 >>
-             \addlyrics { \quintoLyricsXII }
+             \addlyrics { \quintoLyricsXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXIIincipitVoice
+                    \incipit \tenoreXIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreXII
+                    \tenoreXIII
                 >>
-             \addlyrics { \tenoreLyricsXII }
+             \addlyrics { \tenoreLyricsXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXIIincipitVoice
+                    \incipit \bassoXIIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoXII
+                    \bassoXIII
                 >>
-             \addlyrics { \bassoLyricsXII }
+             \addlyrics { \bassoLyricsXIII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -93,28 +93,26 @@
     \markup {
         \fill-line {
             \column {
-                \line { La rete fu di queste fila d'oro }
-                \line { in che 'l mio pensier vago intricò l'ale, }
-                \line { e questi cigli l'arco, e 'l guardo strale, }
-                \line { e 'l feritor questi begl'occhi forò. }
-                \line { Io son ferito, io son prigion per loro, }
-                \line { la piaga in mezzo il core aspra e mortale, }
-                \line { la prigion forte e pur in tanto male, }
-                \line { e chi ferimmi e chi mi prese adoro. }
+                \line { Per la dolce cagion del languir mio }
+                \line { o del morir, se potrà tanto il duolo, }
+                \line { languendo godo, e di morir disio; }
+                \line { purché ella, non sapendo il piacer ch'io }
+                \line { del languir m'abbia o del morir, d'un solo }
+                \line { sospir mi degni o d'altro affetto pio. }
             }
            \column {
                % translation orig date: 2024-09-28
                % translation updated:
-                \line { The net was made of these golden threads }
-                \line { in which my roving thoughts tangled their wings, }
-                \line { and these eyebrows the bow, and the glance the arrow, }
-                \line { and these lovely eyes the wounder that pierced. }
-                \line { I am wounded: I am a prisoner for them, }
-                \line { the wound deep in my heart, cruel and fatal, }
-                \line { the prison strong, and yet despite such pain, }
-                \line { the one who struck me and captured me: I adore. }
+                \line { For the sweet cause of my languor }
+                \line { and my death, if grief shall be so great, }
+                \line { in languishing I take delight, and I long to die; }
+                \line { as long as she, not knowing the pleasure  }
+                \line { I find in languishing or in death, deigns to }
+                \line { grant me but a single sigh, or other charitable affection. }
                 \line { \hspace #10 \italic { translation by editor } }
            }
         }
     }
 }
+
+

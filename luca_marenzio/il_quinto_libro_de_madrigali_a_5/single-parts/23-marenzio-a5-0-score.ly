@@ -15,27 +15,27 @@
     final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Se voi sete cor mio"
+    title = "Basciami mille volte"
     subtitle = ""
     subsubtitle = ""
-    instrument = "Se voi sete cor mio:  (score)"
+    instrument = "Basciami mille volte:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "se_voi_sete_cor_mio"
+    shorttitle = "basciami_mille_volte"
     shortcomp = "marenzio"
     categories = "[madrigal]"
-    motifs = "[amore,eyes]"
+    motifs = "[kiss,amore,morte]"
     needtranslation = #'t
 
     % Unchanging:
     language = "italian"
-    poeticform = "madrigal"
+    poeticform = "villanella"
     tagline = #'f
 }
 
-\include "../parts/22-marenzio-a5-madrigal.ly"
+\include "../parts/23-marenzio-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "22-marenzio--se_voi_sete_cor_mio-"
+    \bookOutputName "23-marenzio--basciami_mille_volte-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -44,65 +44,66 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXXIIincipitVoice
+                    \incipit \cantoXXIIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoXXII
+                    \cantoXXIII
                 >>
-             \addlyrics { \cantoLyricsXXII }
+             \addlyrics { \cantoLyricsXXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXXIIincipitVoice
+                    \incipit \quintoXXIIIincipitVoice
                     \clef "treble"
                     \global
-                    \quintoXXII
+                    \quintoXXIII
                 >>
-             \addlyrics { \quintoLyricsXXII }
+             \addlyrics { \quintoLyricsXXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXXIIincipitVoice
+                    \incipit \altoXXIIIincipitVoice
                     \clef "treble"
                     \global
-                    \altoXXII
+                    \altoXXIII
                 >>
-             \addlyrics { \altoLyricsXXII }
+             \addlyrics { \altoLyricsXXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXXIIincipitVoice
+                    \incipit \tenoreXXIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreXXII
+                    \tenoreXXIII
                 >>
-             \addlyrics { \tenoreLyricsXXII }
+             \addlyrics { \tenoreLyricsXXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXXIIincipitVoice
+                    \incipit \bassoXXIIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoXXII
+                    \bassoXXIII
                 >>
-             \addlyrics { \bassoLyricsXXII }
+             \addlyrics { \bassoLyricsXXIII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 82 2)
+                tempoWholesPerMinute = #(ly:make-moment 90 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Se voi sete cor mio }
-                \line { quanto ben, quanta gioia aver poss'io }
-                \line { e da vostri occhi viene }
-                \line { quella virtù che vivo mi mantiene, }
-                \line { come potrò giamai alontanarmi }
-                \line { e 'n vita restar poi, }
-                \line { veramente non so come fuggire }
-                \line { di non morir in questo dipartire. }
+                \line { Basciami mille volte }
+                \line { con quelle dolci tue labra rosate }
+                \line { piene di vaghe voglie innamorate. }
+                \line { E se l'alma mia presa }
+                \line { d'insolita dolcezza verrà meno, }
+                \line { stringemi tosto al delicato seno. }
+                \line { Ma s'avvien poi ch'io mora, }
+                \line { dolce la sorte fia, dolce la stella, }
+                \line { che morte mi darà sì dolce e bella. }
             }
 %           \column {
 %               % translation orig date:
