@@ -16,7 +16,7 @@
 %gioveni vaghi e donne inamorate
 %amano averne e seni e tempie ornate.
 
-cantoXXXincipit = \relative c' {
+cantoXXXIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-g"
     \key f \major
@@ -25,7 +25,7 @@ cantoXXXincipit = \relative c' {
 }
 
 % canto: checked against source
-cantoXXX = \relative c' {
+cantoXXXII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
@@ -53,7 +53,7 @@ cantoXXX = \relative c' {
     \bar "|."
 }
 
-cantoLyricsXXX = \lyricmode {
+cantoLyricsXXXII = \lyricmode {
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
         è si -- mi -- le~al -- la ro -- sa,
     Ch'in bel giar -- din __ su la na -- ti -- va spi -- na
@@ -68,7 +68,7 @@ cantoLyricsXXX = \lyricmode {
     a -- ma -- no~a -- ver -- ne~e se -- ni~e tem -- pie~or -- na -- te.
 }
 
-altoXXXincipit = \relative c' {
+altoXXXIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c2"
     \key f \major
@@ -77,7 +77,7 @@ altoXXXincipit = \relative c' {
 }
 
 % checked against 1575 & 1558 editions
-altoXXX = \relative c' {
+altoXXXII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
@@ -101,7 +101,7 @@ altoXXX = \relative c' {
     \bar "|."
 }
 
-altoLyricsXXX = \lyricmode {
+altoLyricsXXXII = \lyricmode {
     La __ ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
         è si -- mi -- le~al -- la ro -- sa,
     Ch'in bel giar -- din su la na -- ti -- va spi -- na
@@ -115,7 +115,7 @@ altoLyricsXXX = \lyricmode {
     A -- ma -- no~a -- ver -- ne~e se -- ni~e tem -- pie~or -- na -- te. __
 }
 
-tenoreXXXincipit = \relative c' {
+tenoreXXXIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c3"
     \key f \major
@@ -124,7 +124,7 @@ tenoreXXXincipit = \relative c' {
 }
 
 % tenore: checked against source (1575)
-tenoreXXX = \relative c' {
+tenoreXXXII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
@@ -147,7 +147,7 @@ tenoreXXX = \relative c' {
     \bar "|."
 }
 
-tenoreLyricsXXX = \lyricmode {
+tenoreLyricsXXXII = \lyricmode {
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
     Ch'in bel giar -- din
     ch'in bel giar -- din su la na -- ti -- va spi -- na
@@ -161,7 +161,7 @@ tenoreLyricsXXX = \lyricmode {
     A -- ma -- no~a -- ver -- ne~e se -- ni~e tem -- pie~or -- na -- te.
 }
 
-bassoXXXincipit = \relative c' {
+bassoXXXIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-f3"
     \key f \major
@@ -170,7 +170,7 @@ bassoXXXincipit = \relative c' {
 }
 
 % basso: checked against source (1575)
-bassoXXX = \relative c' {
+bassoXXXII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
@@ -191,7 +191,7 @@ bassoXXX = \relative c' {
     \bar "|."
 }
 
-bassoLyricsXXX = \lyricmode {
+bassoLyricsXXXII = \lyricmode {
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
     Ch'in bel giar -- din su la na -- ti -- va spi -- na
     Men -- tre so -- la~e si -- cu -- ra si ri -- po -- sa,
@@ -204,7 +204,7 @@ bassoLyricsXXX = \lyricmode {
     A -- ma -- no~a -- ver -- ne~e se -- ni~e tem -- pie~or -- na -- te.
 }
 
-quintoXXXincipit = \relative c' {
+quintoXXXIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c3"
     \key f \major
@@ -213,7 +213,7 @@ quintoXXXincipit = \relative c' {
 }
 
 % checked against source (1575)
-quintoXXX = \relative c' {
+quintoXXXII = \relative c' {
     \fourTwoCutTime
     \key f \major
 
@@ -234,7 +234,7 @@ quintoXXX = \relative c' {
     \bar "|."
 }
 
-quintoLyricsXXX = \lyricmode {
+quintoLyricsXXXII = \lyricmode {
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
     Ch'in bel giar -- din su la na -- ti -- va spi -- na
     Men -- tre so -- la~e si -- cu -- ra si ri -- po -- sa,
@@ -246,38 +246,38 @@ quintoLyricsXXX = \lyricmode {
     A -- ma -- no~a -- ver -- ne~e se -- ni~e tem -- pie~or -- na -- te.
 }
 
-cantoXXXincipitVoice = <<
+cantoXXXIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoXXXincipit
+        \cantoXXXIIincipit
     >>
 >>
 
-altoXXXincipitVoice = <<
+altoXXXIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altoXXXincipit
+        \altoXXXIIincipit
     >>
 >>
 
-tenoreXXXincipitVoice = <<
+tenoreXXXIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreXXXincipit
+        \tenoreXXXIIincipit
     >>
 >>
 
-bassoXXXincipitVoice = <<
+bassoXXXIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassoXXXincipit
+        \bassoXXXIIincipit
     >>
 >>
 
-quintoXXXincipitVoice = <<
+quintoXXXIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \quintoXXXincipit
+        \quintoXXXIIincipit
     >>
 >>
 

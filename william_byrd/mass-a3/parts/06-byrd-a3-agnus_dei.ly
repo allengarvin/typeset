@@ -172,10 +172,11 @@ bassusLyricsVI = \lyricmode {
     A -- gnus De -- i,  
     \normalLyrics
         qui tol -- lis pec -- ca -- ta mun -- di, 
+    \ijLyrics
+        qui tol -- lis pec -- ca -- ta mun -- di, 
+    \normalLyrics
         do -- na no -- bis pa -- cem,
         pa -- cem,
-        pa -- cem,
-        do -- na no -- bis pa -- cem,
         pa -- cem,
         do -- na no -- bis pa -- cem,
         pa -- cem,

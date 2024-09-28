@@ -17,6 +17,7 @@ cantoIIIincipit = \relative c'' {
 
 % canto: checked against source
 cantoIII = \relative c'' {
+        % Cut time in canto partbook only
     \fourTwoCommonTime
     \key c \major
 

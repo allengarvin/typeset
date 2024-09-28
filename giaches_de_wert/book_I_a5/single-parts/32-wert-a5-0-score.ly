@@ -22,7 +22,7 @@
     shorttitle = "la_verginella"
     shortcomp = "wert"
     categories = "[madrigal,furioso]"
-    motifs = "[]"
+    motifs = "[virgin,rose]"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto I ottava 42 }
 
     needtranslation = #'t
@@ -33,10 +33,10 @@
     tagline = #'f
 }
 
-\include "../parts/30-wert-a5-madrigal.ly"
+\include "../parts/32-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "30-wert--la_verginella-"
+    \bookOutputName "32-wert--la_verginella-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -45,44 +45,44 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXXXincipitVoice
+                    \incipit \cantoXXXIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoXXX
+                    \cantoXXXII
                 >>
-             \addlyrics { \cantoLyricsXXX }
+             \addlyrics { \cantoLyricsXXXII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXXXincipitVoice
+                    \incipit \altoXXXIIincipitVoice
                     \clef "treble"
                     \global
-                    \altoXXX
+                    \altoXXXII
                 >>
-             \addlyrics { \altoLyricsXXX }
+             \addlyrics { \altoLyricsXXXII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXXXincipitVoice
+                    \incipit \quintoXXXIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintoXXX
+                    \quintoXXXII
                 >>
-             \addlyrics { \quintoLyricsXXX }
+             \addlyrics { \quintoLyricsXXXII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXXXincipitVoice
+                    \incipit \tenoreXXXIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreXXX
+                    \tenoreXXXII
                 >>
-             \addlyrics { \tenoreLyricsXXX }
+             \addlyrics { \tenoreLyricsXXXII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXXXincipitVoice
+                    \incipit \bassoXXXIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoXXX
+                    \bassoXXXII
                 >>
-             \addlyrics { \bassoLyricsXXX }
+             \addlyrics { \bassoLyricsXXXII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"

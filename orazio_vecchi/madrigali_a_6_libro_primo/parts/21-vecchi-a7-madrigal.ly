@@ -50,14 +50,14 @@
 % «Welcome, May!»
 
 
-Giulio: a small silver coin of the papal states, named after Papa Giulio II (around 3.5g of silver, rough equivalent to a sixpence, for minor purchases).
-
-Quarto: "un quarto di ducato", so a triple Giulio (1 ducato is 12 Giulio).
-
-The game in question may be \italic { Palla a corda } or \italic { Pallone col bracciale }, both somewhat like a cross between tennis and squash. The term for serving or batting in both is "battere"
-
-"giachiamo all'amora": The game of morra is a very ancient counting game, here used to decide who serves/bats first.
-
+%Giulio: a small silver coin of the papal states, named after Papa Giulio II (around 3.5g of silver, rough equivalent to a sixpence, for minor purchases).
+%
+%Quarto: "un quarto di ducato", so a triple Giulio (1 ducato is 12 Giulio).
+%
+%The game in question may be \italic { Palla a corda } or \italic { Pallone col bracciale }, both somewhat like a cross between tennis and squash. The term for serving or batting in both is "battere"
+%
+%"giachiamo all'amora": The game of morra is a very ancient counting game, here used to decide who serves/bats first.
+%
 cantoXXIincipit = \relative c' {
     \clef "petrucci-c1"
     \key f \major

@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[passion,disdain,amore]"
     needtranslation = #'f
+    poeticform = "madrigal"
     folio = "Giovanni Battista Guarini (1536-1612)"
 
     % Unchanging:

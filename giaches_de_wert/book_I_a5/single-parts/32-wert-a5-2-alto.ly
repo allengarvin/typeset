@@ -29,34 +29,34 @@
     tagline = #'f
 }
 
-\include "../parts/30-wert-a5-madrigal.ly"
+\include "../parts/32-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "30-wert--la_verginella-"
+    \bookOutputName "32-wert--la_verginella-"
     \bookOutputSuffix "--2-alto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \altoXXX
+            \altoXXXII
         >>
-                \addlyrics { \altoLyricsXXX }
+                \addlyrics { \altoLyricsXXXII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "30-wert--la_verginella-"
+    \bookOutputName "32-wert--la_verginella-"
     \bookOutputSuffix "--2-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altoXXX
+            \altoXXXII
         >>
-                \addlyrics { \altoLyricsXXX }
+                \addlyrics { \altoLyricsXXXII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

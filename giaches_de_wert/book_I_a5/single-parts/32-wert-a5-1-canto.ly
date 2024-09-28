@@ -29,19 +29,19 @@
     tagline = #'f
 }
 
-\include "../parts/30-wert-a5-madrigal.ly"
+\include "../parts/32-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "30-wert--la_verginella-"
+    \bookOutputName "32-wert--la_verginella-"
     \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \cantoXXX
+            \cantoXXXII
         >>
-                \addlyrics { \cantoLyricsXXX }
+                \addlyrics { \cantoLyricsXXXII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

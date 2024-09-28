@@ -19,7 +19,7 @@
 % % Petrarch 213
 
 cantoXVIincipit = \relative c'' {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-g"
     \key f \major
 
@@ -28,7 +28,7 @@ cantoXVIincipit = \relative c'' {
 
 % canto: checked against source
 cantoXVI = \relative c'' {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key f \major
 
     r1 d2.\melisma c8[ d] | \ficta 
@@ -86,7 +86,7 @@ cantoLyricsXVI = \lyricmode {
 }
 
 altoXVIincipit = \relative c'' {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c2"
     \key f \major
 
@@ -95,7 +95,7 @@ altoXVIincipit = \relative c'' {
 
 % alto: checked against source
 altoXVI = \relative c'' {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key f \major
 
     a2.\melisma g8[ a] bf4 a8[ g] f[ g a f] | 
@@ -152,7 +152,7 @@ altoLyricsXVI = \lyricmode {
 }
 
 tenoreXVIincipit = \relative c' {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c3"
     \key f \major
 
@@ -161,7 +161,7 @@ tenoreXVIincipit = \relative c' {
 
 % tenore: checked against source
 tenoreXVI = \relative c' {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key f \major
 
     R\breve*2 | r1 g2 bf4 f | c'2 r r g | a4 bf a2 g4 g'2 f4 ~ |
@@ -214,7 +214,7 @@ tenoreLyricsXVI = \lyricmode {
 }
 
 bassoXVIincipit = \relative c {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-f3"
     \key f \major
 
@@ -223,7 +223,7 @@ bassoXVIincipit = \relative c {
 
 % basso: checked against source
 bassoXVI = \relative c {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key f \major
 
     R\breve*4 | d2.( c8[ d] ef4 d8[ c] bf[ c d bf] |
@@ -268,7 +268,7 @@ bassoLyricsXVI = \lyricmode {
 }
 
 quintoXVIincipit = \relative c' {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-c3"
     \key f \major
 
@@ -277,7 +277,7 @@ quintoXVIincipit = \relative c' {
 
 % quinto: checked against source
 quintoXVI = \relative c' {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key f \major
 
     R\breve | r2 r4 d f c g' c, | d ef d2 d d4.( c16[ d] |
@@ -339,7 +339,7 @@ quintoLyricsXVI = \lyricmode {
 }
 
 sestaXVIincipit = \relative c'' {
-    \time 4/4
+    \time 2/2
     \clef "petrucci-g"
     \key f \major
 
@@ -348,7 +348,7 @@ sestaXVIincipit = \relative c'' {
 
 % sesta: checked against source
 sestaXVI = \relative c'' {
-    \fourTwoCommonTime
+    \fourTwoCutTime
     \key f \major
 
     R\breve*2 | r2 a4.\melisma g16[ a] bf4 a8[ g] f[ g a f] |

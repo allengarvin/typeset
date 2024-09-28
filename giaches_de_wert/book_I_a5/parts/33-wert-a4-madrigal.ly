@@ -5,50 +5,19 @@
 % Che quanto avea dagli uomini e dal cielo
 % Favor, grazia e bellezza, tutto perde.
 % La vergine che 'l fior, di che più zelo
-% Che de' begli occhi e de la vita aver de',
+% Che de' begli occhi e della vita aver de',
 % Lascia altrui corre, il pregio ch'avea inanti
 % Perde nel cor di tutti gli altri amanti.
 
-% reynolds:
-%   But when from the maternal stalk men sever
-%   The rose in bloom, far from its verdant tree,
-%   All nurture of the heaven and earth for ever
-%   Vanish and benisons no more can be.
-%   Even so the flower of maidenhood, whenever
-%   Yielded, loses its cherished purity.
-%   With zeal a virgin should, more than her eyes,
-%   More than her life itself, defend this prize.
+% But no quicker than from her maternal stalk
+% is she removed, and from her green stem,
+% than all favor, grace and beauty that was
+% granted by men and by heaven is lost.
+% The virgin that lets slip her flower,
+% that must be guarded more zealously
+% than her lovely eyes or even life, loses the former value
+% it had in the heart of hearts of all other suitors.
 
-% slavitt:
-%   "Taken from her stalk and innocence
-%   she loses all her appeal, all beauty and grace.
-%   However charming she may have been, hence-
-%   forward she is worthless. In the place
-%   of that precious blossom she ought to have had the sense
-%   to give up her eyes, or her life. Those compliments
-%   men used to pay her now stop. It is rough:
-%   it may have been only once, but once is enough.
-
-
-% Rose:
-%     "But wanton hands no sooner this displace
-%     From the maternal stem, where it was grown,
-%     Than all is withered; whatsoever grace
-%     It found with man or heaven; bloom, beauty, gone.
-%     The damsel who should hold in higher place
-%     Than light or life the flower which is her own,
-%     Suffering the spoiler's hand to crop the prize,
-%     Forfeits her worth in every other's eyes.
-
-% Waldman:
-% But no sooner is she plucked from her mother-stalk, 
-% severed from her green stem, 
-% than she loses all, all the favour, grace, 
-% and beauty wherewith heaven and men endowed her. 
-% The virgin who suffers one to cull her flower—
-% of which she should be more jealous than of her own fair eyes, 
-% than of her life—loses the esteem 
-% she once enjoyed in the hearts of all her other wooers.
 
 cantoXXXIIIincipit = \relative c' {
     \time 2/2
@@ -68,7 +37,7 @@ cantoXXXIII = \relative c' {
 
     f1 ~ | f2 e d c | d g, d'2.\melisma c4 | d e f2. e4 d2 ~ | 
         d2 \ficta cs2 \unficta \melismaEnd d1 | R\breve | r2 d b c | 
-        d1 d2 d ~ | d e f1 | d2 g1\melisma \ficta fs4 e \unficta |
+        d1 d2 d ~ | d e f1 | d2 g1\melisma fs4 e |
         fs2  \melismaEnd g r2 c, | d1 
 
     r2 d ~ | d c bf f' ~ | f4( e d2) c bf | bf a2.\melisma g4 g2 ~ |
@@ -92,8 +61,8 @@ cantoLyricsXXXIII = \lyricmode {
     La ver -- gi -- ne che'l fior, di che più ze -- lo
     Che de' be -- gli~oc -- chi~e de la vi -- ta~a -- ver __ de',
     La -- scia~al -- trui cor -- re, il pre -- gio ch'a -- vea~in -- an -- ti
-        Per -- de nel cor
-    per -- de nel cor di tut -- ti gli~al -- tri~a -- man -- ti.
+    Per -- de nel cor,
+    Per -- de nel cor di tut -- ti gli~al -- tri~a -- man -- ti.
 }
 
 altoXXXIIIincipit = \relative c'' {
@@ -115,7 +84,8 @@ altoXXXIII = \relative c'' {
     a2 ~ | a g a1 ~ | a a | g2.( a4 bf1 ~ | bf) a | r1 r2 g | e fs g1 | 
         g2 g1 a2 | bf bf a1 | g2 g bf a | g
 
-    bf2 a1 ~ | a2 g1 a2 | bf1 r1 | a1 g2 f | c' f, r2 f ~ | f f d1 | 
+                   % vv a2 to g2
+    bf2 a1 ~ | a2 g1 g2 | bf1 r1 | a1 g2 f | c' f, r2 f ~ | f f d1 | 
         d2 a' bf1 | a2 bf1 g2 | f f bf bf |
 
     a\breve | f1 r1 | f1 d2 g | f1. f2 | d f f f ~ | f( e) f1 | f2 g f e ~ | 
@@ -129,7 +99,7 @@ altoXXXIII = \relative c'' {
 
 altoLyricsXXXIII = \lyricmode {
     Ma non sì to -- sto,
-    ma non sì to -- sto dal ma -- ter -- no ste -- lo
+    Ma non sì to -- sto dal ma -- ter -- no ste -- lo
     Ri -- mos -- sa vie -- ne~e dal __ suo cep -- po ver -- de,
     Che quan -- to~a -- vea da gli~uo -- mi -- ni~e dal cie -- lo,
         da gli~uo -- mi -- ni~e dal cie -- lo
@@ -139,7 +109,7 @@ altoLyricsXXXIII = \lyricmode {
     Che de' be -- gli~oc -- chi~e de la vi -- ta~a -- ver de',
     La -- scia~al -- trui cor -- re, il pre -- gio ch'a -- vea~in -- an -- ti
     Per -- de nel cor,
-    per -- de nel cor di tut -- ti gli~al -- tri~a -- man -- ti. __
+    Per -- de nel cor di tut -- ti gli~al -- tri~a -- man -- ti. __
 }
 
 tenoreXXXIIIincipit = \relative c' {
@@ -235,17 +205,6 @@ bassoLyricsXXXIII = \lyricmode {
     Per -- de nel cor di tut -- ti gli~al -- tri~a -- man -- ti.
 }
 
-quintoXXXIII = \relative c {
-    \clef alto
-    \fourTwoCutTime
-    \key f \major
-
-    \bar "|."
-}
-
-quintoLyricsXXXIII = \lyricmode {
-}
-
 cantoXXXIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
@@ -274,9 +233,3 @@ bassoXXXIIIincipitVoice = <<
     >>
 >>
 
-quintoXXXIIIincipitVoice = <<
-    \new MensuralVoice <<
-        { s1 \noBreak }
-        \quintoXXXIIIincipit
-    >>
->>

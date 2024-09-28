@@ -20,9 +20,10 @@
     shorttitle = "filli_lacerbo_caso"
     shortcomp = "marenzio"
     categories = "[madrigal]"
+    motifs = "[unjust,death,dying-young,pain]"
     final = "d"
     flats = 1
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"
@@ -94,25 +95,51 @@
             \column {
                 \line { Filli, l'acerbo caso, }
                 \line { onde il lucido sol de' giorni tuoi }
-                \line { fu sospinto all'occaso, }
-                \line { su'l primo lampeggiar de' raggi suoi, }
-                \line { la tua patria dolente  }
+                \line { fu sospinto all'occaso }
+                \line { sul primo lampeggiar de' raggi suoi. }
+                \line { La tua patria dolente  }
                 \line { piangerà eternamente, }
                 \line { sospirando sua sorte }
-                \line { più ne le piaghe tue che la tua morte. }
+                \line { più nelle piaghe tue che la tua morte. }
                 \line { \vspace #0.5 }
-                \line { Tu morendo innocente, }
+                \line { Tu morendo innocente }
                 \line { da crudel ferro anciso,  }
-                \line { volasti in paradiso, }
-                \line { ove l'eterno ben godi presente, }
-                \line { ella in tenebre avolta }
+                \line { volasti in paradiso }
+                \line { ove l'eterno ben godi presente. }
+                \line { Ella in tenebre avvolta }
                 \line { d'oscura nebbia d'immortal dolore, }
                 \line { priva del tuo splendore }
-                \line { in perpetuo martir resta sepolta; }
+                \line { in perpetuo martir resta sepolta, }
                 \line { perché l'empia ferita }
                 \line { che ti tolse la vita, }
-                \line { quando del sangue tuo la terra tinse }
-                \line { ne la tua morte ogni sua gloria estinse.  }
+                \line { quando del sangue tuo la terra tinse, }
+                \line { nella tua morte ogni sua gloria estinse.  }
+            }
+            \column {
+                % Master translation: typeset.new/marc_antonio_ingegneri/il_quinto_libro_de_madrigali_a_5_voci/single-parts/19-ingegneri-a5-0-score.ly
+                % SKIP
+                \line { Filli: l'acerbo caso }
+                \line { onde il lucido sol de' giorni tuoi }
+                \line { fu sospinto a l'occaso }
+                \line { sul primo lampeggiar de' raggi suoi. }
+                \line { La tua patria dolente }
+                \line { piangerà eternamente, }
+                \line { sospirando sua sorte, }
+                \line { più nelle piaghe tue che la tua morte. }
+                \line { \vspace #0.5 }
+                \line { You, dying innocently, }
+                \line { by cruel steel slain, }
+                \line { flew to paradise }
+                \line { where you presently enjoy eternal blessing. }
+                \line { She, wrapped in the darkness }
+                \line { of the gloomy fog of immortal grief, }
+                \line { deprived of your splendor, }
+                \line { remains entombed in perpetual suffering, }
+                \line { because the cruel wound }
+                \line { that took your life, }
+                \line { when your blood soaked the earth, }
+                \line { extinguished her every glory with your death. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

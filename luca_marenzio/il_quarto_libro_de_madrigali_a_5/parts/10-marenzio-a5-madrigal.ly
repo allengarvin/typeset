@@ -105,7 +105,7 @@ cantoLyricsX = \lyricmode {
     \ijLyrics
         go -- di pre -- sen -- te,
     \normalLyrics
-    El -- la~in te -- ne -- bre~a -- vol -- ta
+    El -- la~in te -- ne -- bre~av -- vol -- ta
     D'o -- scu -- ra neb -- bia d'im -- mor -- tal do -- lo -- re,
     Pri -- va del tuo splen -- do -- re
     In per -- pe -- tuo mar -- tir,
@@ -205,7 +205,7 @@ altoLyricsX = \lyricmode {
 %    Da cru -- del fer -- ro~an -- ci -- so,
     Vo -- la -- sti in pa -- ra -- di -- so,
     O -- ve l'e -- ter -- no ben go -- di pre -- sen -- te,
-    El -- la~in te -- ne -- bre~a -- vol -- ta
+    El -- la~in te -- ne -- bre~av -- vol -- ta
     D'o -- scu -- ra neb -- bia d'im -- mor -- tal do -- lo -- re,
     Pri -- va del tuo splen -- do -- re
     In per -- pe -- tuo mar -- tir re -- sta se -- pol -- ta;
@@ -292,7 +292,7 @@ tenoreLyricsX = \lyricmode {
     Da cru -- del fer -- ro~an -- ci -- so,
     Vo -- la -- sti~in pa -- ra -- di -- so,
     O -- ve l'e -- ter -- no ben go -- di pre -- sen -- te,
-    El -- la~in te -- ne -- bre~a -- vol -- ta
+    El -- la~in te -- ne -- bre~av -- vol -- ta
     D'o -- scu -- ra neb -- bia d'im -- mor -- tal do -- lo -- re,
     Pri -- va del tuo splen -- do -- re
     In per -- pe -- tuo mar -- tir re -- sta se -- pol -- ta;
@@ -374,7 +374,7 @@ bassoLyricsX = \lyricmode {
 %    Vo -- la -- sti~in pa -- ra -- di -- so,
     O -- ve l'e -- ter -- no ben go -- di pre -- sen -- te,
         go -- di pre -- sen -- te,
-%    El -- la~in te -- ne -- bre~a -- vol -- ta
+%    El -- la~in te -- ne -- bre~av -- vol -- ta
 %    D'o -- scu -- ra neb -- bia d'im -- mor -- tal do -- lo -- re,
     Pri -- va del tuo splen -- do -- re
     In per -- pe -- tuo mar -- tir re -- sta se -- pol -- ta;
@@ -462,7 +462,7 @@ quintoLyricsX = \lyricmode {
     Da cru -- del fer -- ro~an -- ci -- so, 
     % Vo -- la -- sti~in pa -- ra -- di -- so,
     O -- ve l'e -- ter -- no ben go -- di pre -- sen -- te,
-    El -- la~in te -- ne -- bre~a -- vol -- ta
+    El -- la~in te -- ne -- bre~av -- vol -- ta
     D'o -- scu -- ra neb -- bia d'im -- mor -- tal do -- lo -- re,
     Pri -- va del tuo splen -- do -- re
     In per -- pe -- tuo mar -- tir,

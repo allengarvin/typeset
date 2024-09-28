@@ -50,8 +50,8 @@ cantoI = \relative c' {
         c2 c c4 c d2 | d r4 a' bf2. d4 | c bf a2 g
 
     a4 d | d2 d r1 | r4 a d, f e d a'2 | f d r4 g a c | bf4. a8 g2 r2 r4 a |
-        bf2. d4 c2 bf4 a ~ | \invisibleTime\time 6/2 s1*0\raisedSixTwoTime 
-        s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        bf2. d4 c2 bf4 a ~ | 
+        \invisibleTime\time 6/2 s1*0\raisedSixTwoTime 
         a4 g4 a bf a a r d, a' a a2 | \invisibleTime\time 4/2
         fs\longa*1/2
     \bar "|."

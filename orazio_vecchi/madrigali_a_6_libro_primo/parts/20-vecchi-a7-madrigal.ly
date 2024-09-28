@@ -1,35 +1,65 @@
 % Un'altra volta, senza altr'intervallo!
 % Non più, facciamo un ballo!
-% Ballarestu fantina
+% Ballarestu fantina,
 % da la farza turchina?
 % Ballareve ben mi sa savesse con chi.
 % Non più: frenate il riso!
-% 
 % E poiché dolcemente
 % cantano gli augelletti ai nostri accenti!
 % Piacciavi di cantare
-% quella che sì diletta a mio compare!
+% quella che sì diletta a mio compare?
 % Come si chiama, che n'abbiam ben cento?
 % Non mi soviene.
 % Or stia ciascun'attento,
 % or va Canzona mia, non dubitare:
-
 % "Fermatevi! Perché quella ch'io voglio
 % È una Iustiniana!"
 % Sì sì gli è ver, or dite allegramente:
-% "Tutto il dì ti te spampoli
+% Tutto il dì ti te spampoli
 % Che mi son un pettagolo
 % E che paro un coruogolo
-% Con la coa tutta toccoli ..."
+% Con la coa tutta toccoli 
 % "Or io mi sento raddolcito il core,
 % Doh, viva l'amore!"
 
-% Another time, without another pause!
+% Another time, without another break!
 % No more, let's have a dance!
-% dialect...
+% Would you like to dance, lass
+% in the turquoise dress?
+% I would indeed dance, if I knew with whom.
+% No more: restrain your laughter!
+% And since so sweetly
+% the little birds sings to our words!
+% Would you please sing
+% the one that so delights my friend?
+% What's it called? We have a hundred of them.
+% I don't remember.
+% Now pay attention everyone,
+% Here goes my song, don't hesitate:
+% Everyone stop! Because the one I want
+% is a Giustiana!
+% Yes, yes, it's true, now cheerfully say:
+% Tutto il dì ti te spampoli
+% Che mi son un petagolo
+% E che paro un coruogolo
+% Con la coa tutta toccoli.
+% Now I feel my heart soothed:
+% Oh, long live love!
+
 
 % Fantina: (fantinella, fanticella, fantella): girl, lass, wench
 % pettegolo: pettagolo (gossip)
+% 
+% "Tutto il dì ... tutta toccoli": A Giustiana by Vincenzo Bell'Haver in Venetian dialect published in a 1570 collection by the Scotto press
+% 
+% sbampolar: ￼  dibattersi; disperdersi; sedere inquieto; comportarsi nervosamente; allontanarsi (that's in Ladina, not Veneta)
+% 
+% Or, my book on veneta: luccicare, brillare a tratti: stelle che sbampola, segno de piova
+% (to sparkle, to shine at times)
+
+% Sbampolar - agitarsi, muoversi
+% http://www.linguaveneta.net/linguaveneta/wp-content/uploads/2018/05/Dizionario-Veneto-italiano-Piccio.pdf
+
 cantoXXincipit = \relative c'' {
     \clef "petrucci-c1"
     \key f \major
@@ -108,7 +138,7 @@ cantoLyricsXX = \lyricmode {
     Can -- ta -- no gli~au -- gel -- let -- t'ai no -- str'ac -- cen -- ti!
     Piac -- cia -- vi di can -- ta -- re
     Quel -- la che sì di -- let -- ta 
-    Quel -- la che sì di -- let -- t'a mio com -- pa -- re!
+    Quel -- la che sì di -- let -- t'a mio com -- pa -- re?
     Co -- me si chia -- ma, che n'ab -- biam __ ben cen -- to?
     % Non mi so -- vie -- ne.
     Or stia cia -- scu -- n'at -- ten -- to,
@@ -213,7 +243,7 @@ altoLyricsXX = \lyricmode {
     Can -- ta -- no gli~au -- gel -- let -- t'ai no -- str'ac -- cen -- ti!
     Piac -- cia -- vi di can -- ta -- re
     Quel -- la che sì di -- let -- ta
-        di -- let -- t'a mio com -- pa -- re!
+        di -- let -- t'a mio com -- pa -- re?
     Co -- me si chia -- ma, che n'ab -- biam ben cen -- to?
 %    % Non mi so -- vie -- ne.
     Or stia cia -- scu -- n'at -- ten -- to,
@@ -305,7 +335,7 @@ tenoreLyricsXX = \lyricmode {
     \ijLyrics
     Quel -- la che sì di -- let -- ta,
     \normalLyrics
-        di -- let -- ta a mio com -- pa -- re!
+        di -- let -- ta a mio com -- pa -- re?
     Co -- me si chia -- ma, che n'ab -- biam ben cen -- to?
     Non mi so -- vie -- ne.
 %    Or stia cia -- scu -- n'at -- ten -- to,
@@ -389,7 +419,7 @@ bassoOneLyricsXX = \lyricmode {
     Can -- ta -- no gli~au -- gel -- let -- ti,
     Can -- ta -- no gli~au -- gel -- let -- t'ai no -- str'ac -- cen -- ti!
     Piac -- cia -- vi di can -- ta -- re
-    Quel -- la che sì di -- let -- ta a mio com -- pa -- re!
+    Quel -- la che sì di -- let -- ta a mio com -- pa -- re?
     Non mi so -- vie -- ne.
     Or va Can -- zo -- na mia, non du -- bi -- ta -- re,
         non du -- bi -- ta -- re:
@@ -483,7 +513,7 @@ quintoLyricsXX = \lyricmode {
     Can -- ta -- no gli~au -- gel -- let -- t'ai no -- str'ac -- cen -- ti!
 %    Piac -- cia -- vi di can -- ta -- re
     Quel -- la che sì di -- let -- ta
-    Quel -- la che sì di -- let -- ta a mio com -- pa -- re!
+    Quel -- la che sì di -- let -- ta a mio com -- pa -- re?
     Co -- me si chia -- ma, che n'ab -- biam ben cen -- to?
 %    % Non mi so -- vie -- ne.
     Or stia cia -- scu -- n'at -- ten -- to,
@@ -584,7 +614,7 @@ sestoLyricsXX = \lyricmode {
     \ijLyrics
     Quel -- la che sì di -- let -- ta
     \normalLyrics
-        a mio com -- pa -- re!
+        a mio com -- pa -- re?
 %    Co -- me si chia -- ma, che n'ab -- biam ben cen -- to?
      Non mi so -- vie -- ne.
 %    Or stia cia -- scu -- n'at -- ten -- to,
@@ -679,7 +709,7 @@ bassoTwoLyricsXX = \lyricmode {
     Can -- ta -- no gli~au -- gel -- let -- t'ai no -- str'ac -- cen -- ti!
 %    Piac -- cia -- vi di can -- ta -- re
     Quel -- la che sì di -- let -- ta
-    Quel -- la che sì di -- let -- ta a mio com -- pa -- re!
+    Quel -- la che sì di -- let -- ta a mio com -- pa -- re?
 %    Co -- me si chia -- ma, che n'ab -- biam ben cen -- to?
     Non mi so -- vie -- ne.
 %    Or stia cia -- scu -- n'at -- ten -- to,

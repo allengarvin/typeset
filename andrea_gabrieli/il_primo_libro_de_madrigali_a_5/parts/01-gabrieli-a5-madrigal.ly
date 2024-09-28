@@ -1,5 +1,5 @@
-% La virtù, la bontà, l’ardente zelo,
-% Ch’ogn’or di carità v’infiamma il petto,
+% La virtù, la bontà, l'ardente zelo,
+% Ch'ogn'or di carità v'infiamma il petto,
 % Ed il volger Paruta sempre al cielo
 % Ogni vostro pensiero, ogni concetto,
 % Vi fa degno non pur al caldo e al gelo
@@ -39,8 +39,8 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    La __ vir -- tù, la __ bon -- tà, l’ar -- den -- te ze -- lo,
-    Ch’o -- gn’or di ca -- ri -- tà v’in -- fiam -- ma~il pet -- to,
+    La __ vir -- tù, la __ bon -- tà, l'ar -- den -- te ze -- lo,
+    Ch'o -- gnor di ca -- ri -- tà v'in -- fiam -- ma~il pet -- to,
     Ed il vol -- ger Pa -- ru -- ta,
     Ed il vol -- ger Pa -- ru -- ta sem -- pre~al cie -- lo
     O -- gni vo -- stro pen -- sie -- ro~o -- gni con -- cet -- to,
@@ -83,9 +83,9 @@ altoI = \relative c'' {
 }
 
 altoLyricsI = \lyricmode {
-    La vir -- tù, la __ bon -- tà, __ l’ar -- den -- te ze -- lo,
-    Ch’o -- gn’or di ca -- ri -- tà v’in -- fiam -- ma~il pet -- to,
-        v’in -- fiam -- ma~il pet -- to,
+    La vir -- tù, la __ bon -- tà, __ l'ar -- den -- te ze -- lo,
+    Ch'o -- gnor di ca -- ri -- tà v'in -- fiam -- ma~il pet -- to,
+        v'in -- fiam -- ma~il pet -- to,
     Ed il __ vol -- ger Pa -- ru -- ta,
     Ed il vol -- ger Pa -- ru -- ta sem -- pre~al cie -- lo
     O -- gni vo -- stro pen -- sie -- ro,
@@ -128,9 +128,9 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-    La vir -- tù, la bon -- tà, l’ar -- den -- te ze -- lo,
-    Ch’o -- gn’or di ca -- ri -- tà v’in -- fiam -- ma~il pet -- to,
-        v’in -- fiam -- ma~il pet -- to,
+    La vir -- tù, la bon -- tà, l'ar -- den -- te ze -- lo,
+    Ch'o -- gnor di ca -- ri -- tà v'in -- fiam -- ma~il pet -- to,
+        v'in -- fiam -- ma~il pet -- to,
     Ed il vol -- ger Pa -- ru -- ta,
     Ed il vol -- ger Pa -- ru -- ta sem -- pre~al cie -- lo
     O -- gni vo -- stro pen -- sie -- ro,
@@ -172,8 +172,8 @@ bassoI = \relative c' {
 }
 
 bassoLyricsI = \lyricmode {
-    La vir -- tù, la __ bon -- tà, l’ar -- den -- te ze -- lo,
-    Ch’o -- gn’or di ca -- ri -- tà v’in -- fiam -- ma~il pet -- to,
+    La vir -- tù, la __ bon -- tà, l'ar -- den -- te ze -- lo,
+    Ch'o -- gnor di ca -- ri -- tà v'in -- fiam -- ma~il pet -- to,
     Ed il vol -- ger Pa -- ru -- ta,
     Ed il vol -- ger Pa -- ru -- ta sem -- pre~al cie -- lo
     O -- gni vo -- stro pen -- sie -- ro o -- gni con -- cet -- to,
@@ -216,9 +216,9 @@ quintoI = \relative c' {
 }
 
 quintoLyricsI = \lyricmode {
-    La vir -- tù, la __ bon -- tà, l’ar -- den -- te ze -- lo,
-    Ch’o -- gn’or di ca -- ri -- tà v’in -- fiam -- ma~il pet -- to,
-        v’in -- fiam -- ma~il pet -- to,
+    La vir -- tù, la __ bon -- tà, l'ar -- den -- te ze -- lo,
+    Ch'o -- gnor di ca -- ri -- tà v'in -- fiam -- ma~il pet -- to,
+        v'in -- fiam -- ma~il pet -- to,
     Ed il vol -- ger Pa -- ru -- ta,
     Ed il vol -- ger Pa -- ru -- ta sem -- pre~al cie -- lo
     O -- gni vo -- stro pen -- sie -- ro,

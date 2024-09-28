@@ -104,7 +104,6 @@
                 \line { Gli occhi languidi omai per lunghi pianti, }
                 \line { Vide che di quel or mille novelli }
                 \line { Laccioli ordiva ai miserelli amanti. }
-
             }
         }
     }
