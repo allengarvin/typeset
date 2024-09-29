@@ -81,21 +81,58 @@
             >>
         >>
         \include "../include/vocal-layout-score-barring.ly"
+        \midi {
+            \context {
+                \Score
+                tempoWholesPerMinute = #(ly:make-moment 84 2)
+            }
+        }
     }   
     \markup {
         \fill-line {
             \column {
                 \line { E vu fiumi chie dèu tributo al mari, }
-                \line { Piave, Ladese, Po, Sil, Brenta et Ogio, }
-                \line { Vegnì, Vegnì cha tutti canti a lagrimari, }
-                \line { La morte d'Adrian, del chal me dogio, }
-                \line { Chie no'l porà mie versi plio lustrari }
-                \line { Cu'l dulce canto chie rumpre ogni scogio. }
+                \line { piave, Ladese, Po, Sil, Brenta et Ogio, }
+                \line { vegnì, Vegnì cha tutti canti a lagrimari, }
+                \line { la morte d'Adrian, del chal me dogio, }
+                \line { chie no'l porà mie versi plio lustrari }
+                \line { cu'l dulce canto chie rumpre ogni scogio. }
                 \line { O megàlas, cordogio del mundo tutto,  }
-                \line { Chy sarà mo chello? }
-                \line { Chie in armonia del par vaga cun ello. }
+                \line { chy sarà mo chello? }
+                \line { chie in armonia del par vaga cun ello. }
+            }
+            \column {
+                \line { And you, rivers that do tribute to the sea }
+                \line { Piave, Adige, Po, Sil, Brenta and Ogio }
+                \line { come, so that all may lament }
+                \line { the death of Adrian, which fills me with grief, }
+                \line { who will never again set my verses }
+                \line { to sweet song, breaking apart every rock on the shore. }
+                \line { Oh what a great sorrow for the whole world! }
+                \line { Who will there be now }
+                \line { that can rival him for harmony? }
+                \line { \hspace #10 -translation by Mike Swithinbank (CPDL license) }
             }
         }
+    }
+    \markup {
+        \line { \vspace #2 } 
+        \line { "Piave: River starting in the alps and emptying into the Adriatic northeast of Venice." }
+    }
+    \markup {
+        \line { "Adige: Second longest river in Italy, flowing from the alps to empty south of Venice." }
+    }
+    \markup {
+        \line { "Po: Italy's longest river, flowing through Ferrara and emptying south of Venice." }
+    }
+    \markup {
+        \line { "Sil (Sile): Starting from Treviso, to the northern part of the Lagoon of Venice." }
+    }
+    \markup {
+        \line { "Brenta: Runs from Trentino to just south of the Lagoon of Venice." }
+    }
+    \markup {
+        \line { "Ogio (Oglio): a tributary of the Po in Lombardy." }
     }
 }
 
