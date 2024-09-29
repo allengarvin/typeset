@@ -11,6 +11,8 @@
 \header {
     lastupdated = "2024-09-28"
     originallyset = "2024-09-28"
+    flats = 0
+    final = "a"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "La rete fu di queste fila d'oro"
@@ -22,7 +24,8 @@
     shortcomp = "marenzio"
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort,arrow,wound,morte,amore]"
-    needtranslation = #'t
+    folio = "Ludovico Ariosto (1474-1533)"
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

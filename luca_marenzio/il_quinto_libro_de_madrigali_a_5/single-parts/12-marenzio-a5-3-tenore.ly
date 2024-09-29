@@ -21,6 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "la_rete_fu_di_queste_fila_doro"
     shortcomp = "marenzio"
+    folio = "Ludovico Ariosto (1474-1533)"
 
     % Things that change per part:
     partname = "Tenore (part 4 of 5)"

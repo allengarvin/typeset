@@ -6,11 +6,13 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     lastupdated = "2024-09-28"
     originallyset = "2024-09-28"
+    flats = 0
+    final = "e"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Per la dolce cagion"
@@ -20,6 +22,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "per_la_dolce_cagion"
     shortcomp = "marenzio"
+    folio = "Ludovico Ariosto (1474-1533)"
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort,arrow,wound,morte,amore]"
     needtranslation = #'t
