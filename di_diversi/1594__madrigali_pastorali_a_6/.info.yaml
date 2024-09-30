@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory:  complete/1594__di_diversi__madrigali_pastorali__gardano_press
+    typeset_directory: di_diversi/1594__madrigali_pastorali_a_6
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Madrigali pastorali
+    year: 1594
