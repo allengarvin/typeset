@@ -1,7 +1,7 @@
 %    O in primavera eterna
 %    Già nel mio amor piantata,
 %    Bella aurea arbor ingrata,
-%    Chi è, che t'a svelta? il vento?
+%    Chi è che t'ha svelta? il vento?
 %    Non già, ma tuo talento,
 %    Dunque atterrata or verna,
 %    Che nello sdegno, ogni mio amor s'interna,
@@ -50,8 +50,8 @@ cantoLyricsIX = \lyricmode {
     Già nel mio~a -- mor pian -- ta -- ta,
     Bel -- la~au -- rea~ar -- bor in -- gra -- ta,
     Chi \ijLyrics è, \normalLyrics % <- e left out in print
-    Chi è, che t'a svel -- ta? il ven -- to?
-    Chi è, Chi è, che t'a svel -- ta? il ven -- to?
+    Chi è che t'ha svel -- ta? il ven -- to?
+    Chi è, Chi è che t'ha svel -- ta? il ven -- to?
     Non già, ma tuo ta -- len -- to,
     Non già, ma tuo ta -- len -- to.
     Dun -- que~at -- ter -- ra -- ta~or ver -- na,
@@ -108,10 +108,10 @@ altoLyricsIX = \lyricmode {
     Bel -- la~au -- rea~ar -- bor in -- gra -- ta,
     Chi è,
     Chi è, 
-    Chi è, che t'a svel -- ta? il ven -- to?
+    Chi è che t'ha svel -- ta? il ven -- to?
     Chi è,
     Chi è, 
-    Chi è, che t'a svel -- ta? il ven -- to?
+    Chi è che t'ha svel -- ta? il ven -- to?
     Non già, 
     Non già, ma tuo ta -- len -- to,
     Non già, ma tuo ta -- len -- to,
@@ -167,9 +167,9 @@ tenoreLyricsIX = \lyricmode {
     Già nel mio~a -- mor pian -- ta -- ta, 
     Bel -- la~au -- rea~ar -- bor in -- gra -- ta,
     Chi è, 
-    Chi è, che t'a svel -- ta? il ven -- to?
+    Chi è che t'ha svel -- ta? il ven -- to?
     Chi è,
-    Chi è, che t'a svel -- ta? il ven -- to?
+    Chi è che t'ha svel -- ta? il ven -- to?
     Non già, ma tuo ta -- len -- to,
     Non già, ma tuo ta -- len -- to,
         ma tuo ta -- len -- to.
@@ -221,10 +221,10 @@ bassoLyricsIX = \lyricmode {
     Bel -- la~au -- rea~ar -- bor in -- gra -- ta,
     Chi è,
     Chi è, 
-    Chi è, che t'a svel -- ta? il ven -- to?
+    Chi è che t'ha svel -- ta? il ven -- to?
     Chi è,
     Chi è, 
-    Chi è, che t'a svel -- ta? il ven -- to?
+    Chi è che t'ha svel -- ta? il ven -- to?
     Non già, 
     Non già, ma tuo ta -- len -- to,
     Dun -- que~at -- ter -- ra -- ta~or ver -- na,
@@ -278,9 +278,9 @@ quintoLyricsIX = \lyricmode {
     Già nel mio~a -- mor pian -- ta -- ta, 
     Bel -- la~au -- rea~ar -- bor in -- gra -- ta,
     Chi è, 
-    Chi è, che t'a svel -- ta? il ven -- to?
+    Chi è che t'ha svel -- ta? il ven -- to?
     Chi è, 
-    Chi è, che t'a svel -- ta? il ven -- to?
+    Chi è che t'ha svel -- ta? il ven -- to?
     Non già, ma tuo ta -- len -- to,
     Non già, 
     Non già, ma tuo ta -- len -- to,

@@ -12,7 +12,6 @@
     % Things that change per piece:
     title = "O in primavera eterna"
     composer = "Andrea Gabrieli (c.1536-1585)"
-    folio = "Anonymous"
     instrument = "O in primavera eterna (score)"
     needtranslation = #'t
     language = "italian"
@@ -24,6 +23,8 @@
     final = "g"
     shorttitle = "o_in_primavera_eterna"
     categories = "[madrigal]"
+    motifs = "[tree,winter,amore,frost,faded-love]"
+    poeticform = "madrigal"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,15 +92,29 @@
     \markup {
         \fill-line {
             \column {
+                % Italian updated: 2024-10-02 (I had t'a svelta, instead of t'ha!)
                 \line { O in primavera eterna }
-                \line { Già nel mio amor piantata, }
-                \line { Bella aurea arbor ingrata, }
-                \line { Chi è, che t'a svelta? il vento? }
-                \line { Non già, ma tuo talento, }
-                \line { Dunque atterrata or verna, }
-                \line { Che nello sdegno, ogni mio amor s'interna, }
+                \line { già nel mio amor piantata, }
+                \line { bella aurea arbor ingrata, }
+                \line { chi è che t'ha svelta? il vento? }
+                \line { Non già, ma tuo talento: }
+                \line { dunque atterrata or verna, }
+                \line { che nello sdegno, ogni mio amor s'interna. }
+            }
+            \column {
+                % translation: 2024-10-02
+                \line { O you, who once in the eternal spring }
+                \line { of my love were planted, }
+                \line { beautiful golden, ungrateful tree, }
+                \line { who is it that uprooted you? The wind? }
+                \line { Not that, but your inclination: }
+                \line { thus fallen, now weather the frost, }
+                \line { since in your disdain, all my love turns inward. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }
+
+
 }
 

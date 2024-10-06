@@ -13,7 +13,6 @@
     % Things that change per piece:
     title = "Mentre l'aura spirò"
     composer = "Luca Marenzio (c.1553-1599)"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Tenore (part 4 of 5)"

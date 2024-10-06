@@ -12,7 +12,6 @@
     % Things that change per piece:
     title = "Mentre l'aura spirò"
     composer = "Luca Marenzio (c.1553-1599)"
-    folio = "Anonymous poet"
     instrument = "Mentre l'aura spirò (score)"
     needtranslation = #'t
     language = "italian"
