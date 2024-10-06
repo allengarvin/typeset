@@ -105,15 +105,25 @@ def main(argv):
     p.add_argument("-t", "--title", help="title of piece")
     p.add_argument("-l", "--language", help="For language tag")
     p.add_argument("-u", "--subtitle", help="subtitle of piece")
-    p.add_argument("-s", "--size", type=int, help="size of score", default=16)
+    p.add_argument("-s", "--size", help="size of score", default=16)
     p.add_argument("-p", "--poem", type=str, help="poetic form (sonnet, etc)")
     p.add_argument("-v", "--vocal", action="store_true", help="add lyrics sections")
     p.add_argument("-m", "--midi", type=int, help="midi beats per minute", default=88)
     p.add_argument("-f", "--folio", help="folio (lyricist, pagination, etc)")
+    p.add_argument("-w", "--width", type=float, help="score spacing", default=4.5)
     p.add_argument("--subsubtitle", help="subsubtitle")
     p.add_argument("score", help="score file in form 01-composer-a5-0-score.ly")
     p.add_argument("parts", nargs="+", help="part names in form canto:8a (to generate alto and octave clefs")
     args = p.parse_args()
+
+    if "-a5-" in args.score:
+        args.size = 14.5
+        args.width = 5.5
+    elif "-a4-" in args.score:
+        args.size = 16
+    elif "-a6-" in args.score:
+        args.size = 17
+        args.width = 5.5
 
     if args.addlyrics and args.addlyrics not in ["a","b", "c", "d", "e", "f", "g", "h"]:
         print("Error -a/--addlyrics followed by non-alphabet.")
@@ -267,7 +277,7 @@ def main(argv):
         '    \\score {',
         '         <<',
         '            \\new ChoirStaff = choirStaff \\with {',
-        '                \\override StaffGrouper.staff-staff-spacing.padding = #4.5',
+        '                \\override StaffGrouper.staff-staff-spacing.padding = #{0}'.format(args.width),
         '            } <<',
     ]
     for i in range(0, len(parts)):
