@@ -95,12 +95,12 @@
             }
            \column {
                % translation orig date: 2023-09-09
-               % translation updated:
+               % translation updated: fia correction 2024-10-07
                 \line { Now my warm sighs will have respite, }
                 \line { And woods around will have peace as well, }
                 \line { As I stay silent about the source of my torments. }
                 \line { My sad face, which speaks naught from my heart, }
-                \line { would be an example of every happy fate, }
+                \line { will be an example of every happy fate, }
                 \line { with its joyful spaces, with its cheerful turns, }
                 \line { since my lady, with her faithful escorts }
                 \line { and her sweet poison took my love away. }

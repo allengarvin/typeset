@@ -6,26 +6,24 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 14.5)
+#(set-global-staff-size 14.2)
 
 \header {
     lastupdated = "2024-08-15"
     originallyset = "2024-08-15"
-    flats = 0
-    final = "a"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Io son ferito, ahi lasso"
-    subtitle = ""
+    subtitle = "transposed down"
     subsubtitle = ""
-    instrument = "Io son ferito, ahi lasso:  (score)"
+    instrument = "Io son ferito, ahi lasso: transposed down (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "io_son_ferito_ahi_lasso"
     shortcomp = "palestrina"
     composer = "Giovanni Pierluigi da Palestrina (c.1525-1594)"
-    categories = "[madrigal]"
-    motifs = "[amore,wound,battle,enemy]"
-    needtranslation = #'f
+    categories = "[]"
+    motifs = "[]"
+    needtranslation = #'t
 
     % Unchanging:
     language = "italian"
@@ -36,34 +34,34 @@
 \include "../parts/09-palestrina-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "09-palestrina--io_son_ferito_ahi_lasso-"
-    \bookOutputSuffix "--0-score"
+    \bookOutputName "09-palestrina--io_son_ferito_ahi_lasso-transposed_down"
+    \bookOutputSuffix "transposed--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.8
+                \override StaffGrouper.staff-staff-spacing.padding = #4.0
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoIXincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \cantoIX
                 >>
              \addlyrics { \cantoLyricsIX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoIXincipitVoice
-                    \clef "treble"
-                    \global
+                    \clef "treble_8"
+                    \global\transpose f c
                     \altoIX
                 >>
              \addlyrics { \altoLyricsIX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoIXincipitVoice
-                    \clef "treble"
-                    \global
+                    \clef "treble_8"
+                    \global\transpose f c
                     \quintoIX
                 >>
              \addlyrics { \quintoLyricsIX }
@@ -71,7 +69,7 @@
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreIXincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose f c
                     \tenoreIX
                 >>
              \addlyrics { \tenoreLyricsIX }
@@ -79,7 +77,7 @@
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoIXincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose f c
                     \bassoIX
                 >>
              \addlyrics { \bassoLyricsIX }
@@ -107,7 +105,7 @@
             }
            \column {
                % translation orig date: 2024-08-15
-               % translation updated: 2024-10-07 (fia correction)
+               % translation updated:
                  \line { I am wounded, alas! and the one who struck me }
                  \line { I would surely accuse, but I have no proof; }
                  \line { and without evidence, none will believe the harm: }
@@ -121,4 +119,3 @@
         }
     }
 }
-

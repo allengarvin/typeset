@@ -111,9 +111,9 @@
             }
            \column {
                % translation orig date: 2023-06-30
-               % translation updated:
+               % translation updated: 2024-10-07 (fia correction)
                 \line { Clori said to Damon: My sweet dear }
-                \line { would ever such great love wane into oblivion? }
+                \line { shall ever such great love wane into oblivion? }
                 \line { And he: No, for your knot within me is so strong }
                 \line { that it could never be undone, save but by death. }
                 \line { Then so spoken, the one clasped the other more tightly }

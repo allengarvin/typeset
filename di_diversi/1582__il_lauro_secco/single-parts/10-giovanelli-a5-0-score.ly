@@ -11,6 +11,8 @@
 \header {
     lastupdated = "2024-10-06"
     originallyset = "2024-10-06"
+    flats = 0
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Nel foco d'un bel lauro"
@@ -106,14 +108,14 @@
             }
            \column {
                % translation orig date: 2024-10-06
-               % translation updated:
+               % translation updated: 2024-10-07 (fia correction)
                \line { In the flame of a beautiful laurel }
                \line { like the solitary phoenix }
                \line { I burned long, and the ardor was joyful. }
                \line { Now that others are restored }
                \line { from that self-same flame, }
                \line { in me, bit by bit, }
-               \line { the passion fades; and it may be thoroughly spent, }
+               \line { the passion fades; and it shall be thoroughly spent, }
                \line { because Love does not suffer company. }
                 \line { \hspace #10 \italic { translation by editor } } 
            }

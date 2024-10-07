@@ -112,7 +112,7 @@
                \line { Now that others are restored }
                \line { from that self-same flame, }
                \line { in me, bit by bit, }
-               \line { the passion fades; and it may be thoroughly spent, }
+               \line { the passion fades; and it shall be thoroughly spent, }
                \line { because Love does not suffer company. }
                 \line { \hspace #10 \italic { translation by editor } } 
            }

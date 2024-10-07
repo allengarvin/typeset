@@ -11,19 +11,17 @@
 \header {
     lastupdated = "2023-08-24"
     originallyset = "2023-08-24"
-    flats = 0
-    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Già primavera di vari colori"
-    subtitle = ""
-    instrument = "Già primavera di vari colori:  (score)"
+    subsubtitle = "transposed down"
+    instrument = "Già primavera di vari colori: transposed down (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "gia_primavera_di_vari_colori"
     shortcomp = "locatello"
     composer = "Giovanni Battista Locatello (fl.1579-1593)"
-    categories = "[madrigal]"
-    motifs = "[spring]"
+    categories = "[]"
+    motifs = "[]"
     needtranslation = #'f
 
     % Unchanging:
@@ -35,7 +33,7 @@
 \include "../parts/05-locatello-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "05-locatello--gia_primavera_di_vari_colori-"
+    \bookOutputName "05-locatello--gia_primavera_di_vari_colori-transposed_down"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -46,7 +44,7 @@
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoVincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \cantoV
                 >>
              \addlyrics { \cantoLyricsV }
@@ -54,15 +52,15 @@
                     \set Staff.instrumentName = #"Sesto"
                     \incipit \sestoVincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \sestoV
                 >>
              \addlyrics { \sestoLyricsV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoVincipitVoice
-                    \clef "treble"
-                    \global
+                    \clef "treble_8"
+                    \global\transpose f c
                     \altoV
                 >>
              \addlyrics { \altoLyricsV }
@@ -70,7 +68,7 @@
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreVincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose f c
                     \tenoreV
                 >>
              \addlyrics { \tenoreLyricsV }
@@ -78,7 +76,7 @@
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoVincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose f c
                     \quintoV
                 >>
              \addlyrics { \quintoLyricsV }
@@ -86,7 +84,7 @@
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoVincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose f c
                     \bassoV
                 >>
              \addlyrics { \bassoLyricsV }
@@ -117,7 +115,7 @@
             }
            \column {
                % translation orig date: 2023-08-24
-               % translation updated: 2024-10-07 (fia correction)
+               % translation updated: (fia correction)
                 \line { Already spring with various colors }
                 \line { paints the hills and the grassy countryside, }
                 \line { and a garland of lilies and roses }
@@ -134,4 +132,3 @@
         }
     }
 }
-

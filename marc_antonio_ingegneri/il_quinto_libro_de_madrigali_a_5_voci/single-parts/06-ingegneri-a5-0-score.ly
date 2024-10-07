@@ -106,14 +106,14 @@
             }
            \column {
                % translation orig date: 2024-09-22
-               % translation updated:
+               % translation updated: 2024-10-07 (fia correction)
                 \line { Burn and freeze as you wish, }
                 \line { treacherous and shameless \auto-footnote "one," \italic { "perfido, impudico: the one so addressed is male" } }
                 \line { now lover, now enemy: }
                 \line { because of your fickle mind }
                 \line { I value your love little, and your scorn less; }
                 \line { and if you love was in vain, }
-                \line { then vain be the scorn of your deranged heart. }
+                \line { then vain shall be the scorn of your deranged heart. }
                 \line { \hspace #10 \italic { translation by editor } }
            }
         }

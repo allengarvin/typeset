@@ -100,7 +100,7 @@
             }
            \column {
                % translation orig date: 2023-09-09
-               % translation updated:
+               % translation updated: 2024-10-07 (fia correction)
                 \line { If, because of your haughty contempt, }
                 \line { the pain that plagues me,  }
                 \line { my lady, drags me down to the gloomy Styx, }
@@ -109,7 +109,7 @@
                 \line { rather for you, who will come to such a place. }
                 \line { For oft times, I obsess gazing upon you, }
                 \line { by virtue of your lovely visage: }
-                \line { No pain would there be down there that would touch my heart, }
+                \line { No pain will there be down there that would touch my heart, }
                 \line { Only by closing my eyes will I have any torment. }
                 \line { \hspace #10 \italic { translation by editor }  }
            }

@@ -113,9 +113,9 @@
             }
            \column {
                % translation orig date: 2024-08-12
-               % translation updated:
+               % translation updated: 2024-10-07 (fia correction)
                 \line { I will not be, sir, cruel and miserly, }
-                \line { no less for her my net be stretched, }
+                \line { no less for her shall my net be stretched, }
                 \line { my fire ready, and arrows and bow. }
                 \line { Alone now I suffer and my defense is bare, }
                 \line { because you too do not assault her or take her unaware }

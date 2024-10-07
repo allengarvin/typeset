@@ -114,7 +114,7 @@
                  \line { neither does my new wound gush blood. }
                  \line { I convulse and die; the blow is not seen. }
                  \line { My foe [female] is found to be armed. }
-                 \line { What a cruel resolution be it to return to her, }
+                 \line { What a cruel resolution will it be to return to her, }
                  \line { for only she may heal me, she who wounded me. }
                  \line { \hspace #10 \italic { translation by editor } }
             }

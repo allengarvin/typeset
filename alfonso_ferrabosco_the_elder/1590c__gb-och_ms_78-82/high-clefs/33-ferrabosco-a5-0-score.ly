@@ -9,23 +9,20 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2024-08-15"
-    originallyset = "2024-08-15"
-    flats = 0
-    final = "a"
+    lastupdated = "2024-08-16"
+    originallyset = "2024-08-16"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Io son ferito, ahi lasso"
     subtitle = ""
-    subsubtitle = ""
+    subsubtitle = "transposed down"
     instrument = "Io son ferito, ahi lasso:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "io_son_ferito_ahi_lasso"
-    shortcomp = "palestrina"
-    composer = "Giovanni Pierluigi da Palestrina (c.1525-1594)"
-    categories = "[madrigal]"
-    motifs = "[amore,wound,battle,enemy]"
-    needtranslation = #'f
+    shortcomp = "ferrabosco"
+    categories = "[]"
+    motifs = "[]"
+    needtranslation = #'t
 
     % Unchanging:
     language = "italian"
@@ -33,63 +30,63 @@
     tagline = #'f
 }
 
-\include "../parts/09-palestrina-a5-madrigal.ly"
+\include "../parts/33-ferrabosco-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "09-palestrina--io_son_ferito_ahi_lasso-"
-    \bookOutputSuffix "--0-score"
+    \bookOutputName "33-ferrabosco--io_son_ferito_ahi_lasso-"
+    \bookOutputSuffix "transposed--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.8
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoIXincipitVoice
+                    \incipit \cantoXXXIIIincipitVoice
                     \clef "treble"
-                    \global
-                    \cantoIX
+                    \global\transpose f c
+                    \cantoXXXIII
                 >>
-             \addlyrics { \cantoLyricsIX }
+             \addlyrics { \cantoLyricsXXXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoIXincipitVoice
-                    \clef "treble"
-                    \global
-                    \altoIX
+                    \incipit \altoXXXIIIincipitVoice
+                    \clef "treble_8"
+                    \global\transpose f c
+                    \altoXXXIII
                 >>
-             \addlyrics { \altoLyricsIX }
+             \addlyrics { \altoLyricsXXXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoIXincipitVoice
-                    \clef "treble"
-                    \global
-                    \quintoIX
+                    \incipit \quintoXXXIIIincipitVoice
+                    \clef "treble_8"
+                    \global\transpose f c
+                    \quintoXXXIII
                 >>
-             \addlyrics { \quintoLyricsIX }
+             \addlyrics { \quintoLyricsXXXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreIXincipitVoice
+                    \incipit \tenoreXXXIIIincipitVoice
                     \clef "treble_8"
-                    \global
-                    \tenoreIX
+                    \global\transpose f c
+                    \tenoreXXXIII
                 >>
-             \addlyrics { \tenoreLyricsIX }
+             \addlyrics { \tenoreLyricsXXXIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoIXincipitVoice
+                    \incipit \bassoXXXIIIincipitVoice
                     \clef "bass"
-                    \global
-                    \bassoIX
+                    \global\transpose f c
+                    \bassoXXXIII
                 >>
-             \addlyrics { \bassoLyricsIX }
+             \addlyrics { \bassoLyricsXXXIII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 98 2)
+                tempoWholesPerMinute = #(ly:make-moment 106 2)
             }
         }
     }   
@@ -108,6 +105,7 @@
            \column {
                % translation orig date: 2024-08-15
                % translation updated: 2024-10-07 (fia correction)
+               % SKIP master translation on il terzo libro delle muse, #9
                  \line { I am wounded, alas! and the one who struck me }
                  \line { I would surely accuse, but I have no proof; }
                  \line { and without evidence, none will believe the harm: }
@@ -121,4 +119,3 @@
         }
     }
 }
-

@@ -113,14 +113,14 @@
             }
            \column {
                % translation orig date: 2023-10-29
-               % translation updated:
+               % translation updated: 2024-10-07 (fia correction)
                  \line { Burn or freeze as you wish, }
                  \line { perfideous and shameless \auto-footnote "one," \italic { "perfido, impudico: the female speaker is addressing her male ex-lover" } }
                  \line { now lover, now an enemy; }
                  \line { for of your fickle nature, }
                  \line { I little esteem such love, nor less such scorn: }
                  \line { and if your love was in vain, }
-                 \line { vain too is the disdain from your deranged heart. }
+                 \line { vain too shall be the disdain from your deranged heart. }
                  \line { \hspace #10 \italic { translation by editor } }
            }
         }

@@ -97,6 +97,7 @@
                 \line { Finir baciando voi la vita mia. }
             }
             \column {
+                % translation update: 2024-10-07 (fia correction)
                 \line { Lady, if you hate me }
                 \line { then why give me such sweet kisses? }
                 \line { Maybe so that my soul, in extreme joy, }
@@ -104,7 +105,7 @@
                 \line { \vspace #0.5 }
                 \line { If for this you do it: }
                 \line { kiss then kiss again, }
-                \line { for I would be content }
+                \line { for I shall be content }
                 \line { to end my life, kissing you. }
                 \line { \hspace #10 \italic { translation by editor } }
             }
