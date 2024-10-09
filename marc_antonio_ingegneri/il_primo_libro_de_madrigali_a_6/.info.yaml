@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1586__ingegneri_marco__il_primo_libro_de_madrigali_a_6_voci__gardano
+    typeset_directory: marc_antonio_ingegnieri/il_primo_libro_de_madrigali_a_6
+source:
+    city: Venice
+    date_exact: true
+    title: Il primo libro de madrigali a 6 voci
+    press: Angelo Gardano press
+    year: 1586
+contents:
+    type: madrigal
+    parts: 6
+    part_names: canto, alto, tenore, basso, quinto, sesto
+    language: italian
