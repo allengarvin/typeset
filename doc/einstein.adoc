@@ -1,0 +1,173 @@
+Music from Alfred Einstein's The Italian Madrigal
+=================================================
+
+Alfred Einstein's _The Italian Madrigal_ (Princeton: Princeton University Press, 1949)
+remains an essential text for understanding the development of the madrigal.
+Some parts have been rendered obsolete by further study (such as the linking
+of the early madrigal to the northern Italian frottola tradition), and other
+parts have been greatly elaborated on or modified. Yet it still persists
+based on the scope of Einstein's immense knowledge and decades of work
+that went into the set.
+
+The final third volume consists entirely of whole musical examples of 97
+key madrigals from the genesis of the genre through the late 16th century.
+Einstein avoided Lasso and Monteverdi, whose works were easily available,
+and concentrated on then-little known pieces. 
+
+The work is still in print, but careful study can be somewhat hindered by
+the fact Einstein used original cleffing in all the pieces, and most
+people today do not have great proficiency reading these clefs. And, it's
+not a very wieldy source for performing or singing from. On this page
+I will list all the works, and provide information on the sources,
+display the text (and with time, English translations, which is not
+present in the _The Italian Madrigal_), as well as links to the works
+which I have personally transcribed (from original sources, not from
+Einstein's book: it's possibly text underlay may vary occasionally, though
+with most later prints, the underlay is not ambigous).
+
+Note a number of these are frottole, canzone napolitane, and other such
+works that I will try to get to, but my primary focus is on the madrigal.
+
+. Anonymous. _Pace non truovo e non ho da far guerra_
+. Heinrich Isaac. _Questo mostrarsi adirata di fore_
+. Bernardo Pisano. _Questo mostrarsi adirata di fore_
+. Anonymous. _De no de si de no_
+. Anonymous. _L'amor donna ch'io te porto_
+. Anonymous. _L'inferno alhor più se consuma e scalda_
+. Anonymous. _Riseno i monti e'l mar mostra bonaza_
+. Bartolomeo Tromboncino. _Signora anzi mia dea_
+. Joannes Lulinus. _Poi che son di speranza al tutto privo_
+. Francesco d'Ana. _Quest'e quel locho amore se te ricorda_
+// #10
+. Bartolomeo Tromboncino. _Hor che'l ciel et la terra e'l vento tace_
+. Bartolomeo Tromboncino. _S'il dissi mai ch'i venga in odio a quella_
+. Bartolomeo Tromboncino. _Se per colpa del vostro altiero sdegno_
+. A. Antico de Montona. _Io mi parto madonna e'l cor vi lasso_
+. Bartolomeo Tromboncino. _Come haro donque ardire_
+. Philippe Verdelot. _Madonna quel certezza_
+. Philippe Verdelot. _Ogn'hor per voi sospiro_
+. Philippe Verdelot. _Gloriarmi poss'io donne_
+. Philippe Verdelot. _Madonna'l tuo bel viso_
+  - link:../philippe_verdelot/book_I_a4/single-parts/13-output/[Typeset Edition]
+. Costanzao Festa. _Dur'è'l partito dove m'astringete_
+// #20
+. Costanzao Festa. _Così suov'è'l foco et dolce il nodo_
+. Jacques Arcadelt. _Io mi rivolgo indietro a ciascun passo_
+. Jacques Arcadelt. _Se per colpa del vostro fiero sdegno_
+  - link:../jacob_arcadelt/il_primo_libro_di_madrigali_a_4/single-parts/50-output/[Typeset Edition]
+. Jacques Arcadelt. _Amor la tua virtute_
+. Francesco Corteccia. _A che ne stringi o scelerata fame_
+. Francesco Corteccia. _Io dico e disse e dirò fin ch'io viva_
+. Francesco Corteccia. _Quest'io tesseva e quelle_
+. Giacomo Fogliano. _Tua volsi esser sempre mai_
+. Giacomo Fogliano. _Io vorrei dio d'amore_
+. Domenico Ferabosco. _Io mi son giovinett'e volontieri_
+// #30
+. Adrian Willaert. _Amor mi fa morire_
+  - link:../philippe_verdelot/book_II_a4_1537/single-parts/01-output[Typeset Edition]
+. Adrian Willaert. _Liete, e pensose, accompagnate, e sole_
+  - link:../adrian_willaert/musica_nova-madrigals/single-parts/44-output/[Typeset Edition]
+. Anonymous (Messer Fra Pietro da Hostia?). _Un cavalier di spagna_
+. Jacques Arcadelt. _La pastorella mia_
+. Bartolomeo Tromboncino. _Poi che volse la mia stella_
+. Filippo Azzaiuolo. _Poi che volse de la mia stella_
+. Giovan Tommaso di Maio. _O trezze bionde anci capelli d'oro_
+. Giovanni Tommaso di Maio. _Tutte le vecchie son maleciose_
+. Giovan Domenico da Nola. _Chi la gagliarda donna vo imparare_
+  - link:../giovanni_de_nola/canzone_libro_primo/single-parts/06-output/[Typeset Edition]
+. Vincenzo Fontana. _Madonna mia pietà chiam' et aita_
+// #40
+. Giovan Domenico da Nola (?). _Chichilichi-Cucurucu_
+. Giovan Domenico da Nola. _O dolce vita mia che t'haggio fatto_
+. Adrian Willaert. _O dolce vita mia che t'haggio fatto_
+ - link:../adrian_willaert/canzone_villanesche/single-parts/02-output/[Typeset Edition]
+. Thomaso Cimello. _Ogn'hor dirò capelli stralucenti_
+. Cipriano de Rore. _Per mezz'i bosch'inhospiti e selvaggi_
+. Cipriano de Rore. _Padre del ciel doppi i perduti giorni_
+  - link:../cipriano_de_rore/il_second_libro_a_5/single-parts/22-output[Typeset Edition - Prima parte]
+  - link:../cipriano_de_rore/il_second_libro_a_5/single-parts/23-output[Typeset Edition - Seconda parte]
+. Cipriano de Rore. _Anchor che col partire_
+  - link:../cipriano_de_rore/il_primo_libro_a_4/single-parts/13-output/[Typeset Edition]
+. Cipriano de Rore. _Crudele acerba inexorabil morte_
+ - link:../cipriano_de_rore/il_second_libro_a_4/single-parts/10-output[Typeset Edition - Prima parte]
+ - link:../cipriano_de_rore/il_second_libro_a_4/single-parts/11-output[Typeset Edition - Seconda parte]
+. Cipriano de Rore. _O sonno o della queta humida ombrosa_
+. Pietro Taglia. _Com'esser può che si contrari effetti_
+// # 50
+. Giachet Berchem. _Donna se voi volete io voglio anch'io_
+. Jacques Arcadelt. _Chiare fresch'e dolci acque_
+  - link:../di_diversi/1555__il_primo_libro_de_le_muse/single-parts/01-output[Typeset Edition - Prima parte]
+  - link:../di_diversi/1555__il_primo_libro_de_le_muse/single-parts/02-output[Typeset Edition - Seconda parte]
+  - link:../di_diversi/1555__il_primo_libro_de_le_muse/single-parts/03-output[Typeset Edition - Terza parte]
+. Perissone Cambio. _E la morte di marito_
+. Perissone Cambio. _Non t'arricordi e quando me dicevi_
+. Girolamo Parabosco. _Anima bella da quel nodo sciolta_
+. Baldisserra Donato. _Ahi miserelle ahi sventurate noi_
+. Vincenzo Ruffo. _Io son qual sempre fui tal esser voglio_
+. Vincenzo Ruffo. _Vita de la mia vita_
+  - link:../vincenzo_ruffo/il_terzo_libro_di_madrigali_a_4/single-parts/05-output/[Typeset Edition]
+. Vincenzo Ruffo. _Su la fiorita riva_
+. Andrea Gabrieli. _Forestier inamorao_
+// #60
+. Andrea Gabrieli. _O beltà rara o santi_
+  - link:../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/11-output[Typeset Edition]
+. Andrea Gabrieli. _Due rose fresche e colte in paradiso_
+  - link:../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/04-output[Typeset Edition - Prima parte]
+  - link:../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/05-output[Typeset Edition - Seconda parte]
+. Andrea Gabrieli. _Tirsi morir volea_
+  - link:../andrea_gabrieli/concert__libro_2/single-parts/17-output[Typeset Edition]
+. Andrea Gabrieli. _A caso un giorno mi guidò la sorte_
+  - link:../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/01-output[Typeset Edition - Prima parte]
+  - link:../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/02-output[Typeset Edition - Seconda parte]
+. Giaches Wert. _Crudele acerba inesorabil morte_
+ - link:../giaches_de_wert/book_IX_a5/single-parts/13-output/[Typeset Edition]
+. Gioseppe Caimo. _Anchor che col partire_
+. Gioseppe Caimo. _Piangete valli abbandonate e sole_
+. Giaches Wert. _Dunque basciar si belle e dolce labbia_
+  - link:../giaches_de_wert/book_I_a4/single-parts/09-output[Typeset Edition - Prima parte]
+  - link:../giaches_de_wert/book_I_a4/single-parts/10-output[Typeset Edition - Seconda parte]
+. Giaches Wert. _Giunto a la tomba ove al suo spirto vivo_
+  - link:../giaches_de_wert/book_VII_a5/single-parts/13-output[Typeset Edition - Prima parte]
+  - link:../giaches_de_wert/book_VII_a5/single-parts/14-output[Typeset Edition - Seconda parte]
+. Massimo Troiano. _Amor m'impenna l'al'e tant'in alto_
+// #70
+. Giovan Domenico da Nola. _Cors' a la morte il povero narciso_
+. Luca Marenzio. _Io son ferito e chi mi punse il core_
+. Giovanni Ferretti. _Del crud' amor io sempre mi lamento._
+. Gioseppe Caimo. _Mentre il cuculo il suo cucu cantava_
+ - link:../giuseppe_caimo/canzonette_a_4_voci_libro_2/single-parts/01-output/[Typeset Edition]
+. Gioseppe Caimo. _Deh quadrara mia quadrara_
+. Pierre Sandrin. _Puisque vivre en servitude_
+. Gian Giacomo Gastoldi. _Viva sempre e scolpita_
+. Giavan Giacomo Gastoldi. _Lo schernito (Se ben vedi)_
+ - link:../giacomo_gastoldi/balletti_a_5_voci/single-parts/06-output/[Typeset Edition]
+. Andrea Gabrieli. _Vaghi augelletti che per valli e monti_
+  - link:../andrea_gabrieli/il_secondo_libro_de_madrigali_a_5/single-parts/11-output[Typeset Edition]
+. Luca Marenzio. _O fere stelle homai datemi pace_
+  - link:../luca_marenzio/madrigali_a_4_5_e_6_voci/single-parts/19-output[Typeset Edition]
+// #80
+. Luzzasco Luzzaschi. _Dolorosi martir, fieri tormenti_
+. Luzzasco Luzzaschi. _Itene mie querele_
+. Vincenzo Galilei. _Poi che'l mio largo pianto_
+. Marco de Gagliano. _O misera Dorinda ov'hai tu poste_
+. Marco de Gagliano. _O sono ò della queta humida ombrosa_
+. Alessandro Striggio. _Il gioco di primiera (Al vago e incerto)_
+. Orazio Vecchi. _Fa una canzone senza note nere_
+. Orazio Vecchi. _S'udia un Pastor l'altr'hieri_
+. Filippo di Monte. _Sottile e dolce ladra_
+. Giaches Wert. _Io non son però morto_
+  - Source: _L'ottavo libro de madrigali a cinque voci_ (Venice: Angelo Gardano press, 1586)
+  - link:../giaches_de_wert/book_VIII_a5/single-parts/01-output[Typeset Edition]
+// #90
+. Giaches Wert. _Non è si denso velo_
+  - Source: _L'ottavo libro de madrigali a cinque voci_ (Venice: Angelo Gardano press, 1586)
+  - link:../giaches_de_wert/book_VIII_a5/single-parts/11-output[Typeset Edition]
+. Luzzascho Luzzaschi. _O dolcezze amarissime d'Amore_
+. Bartolomeo Tromboncino. _Queste non son più lachryme che fore_
+. Bartolomeo Tromboncino. _Aqua non e l'humor che versan gli occhi_
+. Filippo Verdelot. _Con lagrime, et sospir negando porge_
+ - link:../philippe_verdelot/book_I_a4/single-parts/05-output/[Typeset Edition]
+. Francesco Corteccia. _Vatten'almo riposo ecco ch'io torno_
+. Baldissera Donato. _Dolce mia ben dolce comba mia_
+
+

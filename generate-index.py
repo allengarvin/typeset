@@ -7,6 +7,55 @@ import os, sys, argparse, re, collections, datetime, subprocess, glob
 
 
 composers = {
+'Flaminio Tresti (c.1560-c.1613)' : "tresti",
+'Giovanni Cavaccio (c.1556-1626)' : "cavaccio",
+'Giulio Eremita (c.1550-c.1600)' : "eremita",
+"Giulio d'Oristagno (1543-1623)" : "oristagno",
+"Maddalena Casulana (c.1554-c.1590)" : "casulana",
+'Henry Stonings (fl.1570-1600)' : 'stonings',
+"Henry Stoning (fl.1570-1600)" : "stonings",
+'John Thorne (c.1519-1573)' : 'thorne',
+'Thomas Preston (early 16c-c.1563)' : 'preston',
+'Simon Ives (1600-1662)' : 'ives',
+"George Engelmann (c.1570-1632)" : "engelmann",
+'Antonio Barré (c.1520s-c.1579)' : "barre",
+'Francesco Viola (?-1568)' : "f_viola",
+'Vincenzo dal Pozzo (fl.1585-1612)' : "pozzo",
+'Giovanni Battista Locatello (fl.1579-1593)' : "locatello",
+
+"Paolo Isnardi (1536-1596)" : "isnardi",
+'Alfonso Ganassi (fl.1576-1609)': "a_ganassi",
+'Marcello Tosone (fl.1586-93)' : "tosone",
+'Alessandro de Milleville (1521-1589)' : 'milleville',
+'Innocentio Alberti (c.1535-1615)':'alberti',
+'Andrea Rota (c.1553-1597)':"rota",
+"Giovanni de Macque (c.1548-1614)" : "macque",
+' Bernardino Bertolotti (1547-c.1609)' : "bertolotti",
+'Bernardino Bertolotti (1547-c.1609)' : "bertolotti",
+"Adriano Willaert (c.1490-1562)" :  "willaert",
+"Alberto dall'Occa (fl.1580s-90s)" : "occa",
+"Nollet (fl. 1538-46)" : "nollet",
+'Antonio Cifra (1584-1629)' : "cifra",
+'Nicolo Dorati (c.1513-1593)' : "dorati",
+'Giammateo Asola (c.1532-1609)': "asola",
+'Gioan Paien (fl.1560s)': "paien",
+'Pietro Vinci (c.1525-1584)': "vinci",
+'Luzzasco Luzzaschi (1545-1607)': "luzzaschi",
+
+'Francesco Portinaro (c.1520-c.1577)' : 'portinaro',
+'Giovanni Piccioni (1549-1619)' : 'piccioni',
+'Sigismondo D\'India (c.1582-1629)' : 'sigismondo',
+'Giovanni Matteo Faà di Bruno (fl.1569-1573)' : 'di_bruno',
+'Alfonso Fontanelli (1557-1622)' : 'fontanelli',
+'Annibale Stabile (c.1535-1595)' : 'stabile',
+"Giulio Ferro (?-c.1594)" : "ferro",
+"Tomàs Luis de Victoria (1548-1611)" : "victoria",
+"Antonio Bicci (1552-1614)" : "bicci",
+"Costanzo Festa (c.1490-1545)" : "festa",
+"Giovanni Bernardino Nanino (c.1560-1618)" : "gb_nanino",
+"Giovanni Bernardino Nanino (c.1560-1623)" : "gb_nanino",
+ 'John Withy (c.1600-1685)' : 'withy',
+
 "Thomas Weelkes (1576-1623)" : "weelkes",
 "Francesco Bianciardi (c.1571-1607)" : "bianciardi",
 "Henry Stoning (fl.1570-1600)" : "stoning",
@@ -70,7 +119,7 @@ composers = {
 "Alfonso Ferrabosco I (1543-1588)" : "ferrabosco_elder",
 "Alfonso Ferrabosco II (c.1575-1628)" :  "ferrabosco_younger",
 "Alfonso Ferrabosco, Sr. (1543-1588)" : "ferrabosco_elder",
-"Alfonso Ferrabosco the Elder (1543-1588)" : "ferrabosco_younger",
+"Alfonso Ferrabosco the Elder (1543-1588)" : "ferrabosco_elder",
 "Alvise Willaert (fl.1560s)" :  "alvise_willaert",
 "Andrea Cima (fl.1606-27)" :  "cima",
 'Andrea Falconieri (1585/6-1656)' : 'falconieri',
@@ -192,7 +241,7 @@ composers = {
 "Giaches de Wert (1535-1596)" : "de_wert",
 "Giacomo Filippo Biumi (c.1580-1653)" : "biumi",
 'Giammateo Asola (c.1532-1609)': 'asola',
-"Giandominico La Martoretta (fl.1544-66)" : "la_mortoretta",
+"Giandominico La Martoretta (fl.1544-66)" : "la_martoretta",
 'Gioan Paien (fl.1560s)' : 'paien',
 "Giorgio Mainerio (c.1535-1582)" :  "mainerio",
 "Gioseffo Guami (1542-1611)" :  "guami",
@@ -642,7 +691,7 @@ def gen_composer_file(short, long, style):
       <div id='hdr'>Hawthorne Early Music editions: {1}</div>
 """.format(long, long).replace("STYLE", style.replace("4CAF50", "0099ff")))
 
-    fd.write("      \n    <table class='sortable' id='musicstyle'>\n      <tr><th style='width:20%'>Composer</th><th style='width:25%'>Title</th><th style='width:10%'>Subtitle</th><th style='width:5%'>Language</th><th style='width:14%'>Mode</th><th style='width:15%'>Files</th></tr>\n")
+    fd.write("      \n    <table class='sortable' id='musicstyle'>\n      <tr><th style='width:20%'>Composer</th><th style='width:25%'>Title</th><th style='width:10%'>Subtitle</th><th style='width:5%'>Language</th><th style='width:5%'># parts</th><th style='width:14%'>Mode</th><th style='width:15%'>Files</th></tr>\n")
     return fd
 
 def gen_language_file(lang, style):
@@ -666,7 +715,7 @@ def gen_language_file(lang, style):
       <div id='hdr'>Hawthorne Early Music editions: {1} pieces</div>
 """.format(lang.capitalize(), lang.capitalize()).replace("STYLE", style.replace("4CAF50", "ff66ff")))
 
-    fd.write("      \n    <table class='sortable' id='musicstyle'>\n      <tr><th style='width:20%'>Composer</th><th style='width:25%'>Title</th><th style='width:5%'>Subitle</th><th style='width:5%'>Language</th><th style='width:14%'>Mode</th><th style='width:15%'>Files</th></tr>\n")
+    fd.write("      \n    <table class='sortable' id='musicstyle'>\n      <tr><th style='width:20%'>Composer</th><th style='width:25%'>Title</th><th style='width:5%'>Subitle</th><th style='width:5%'>Language</th><th style='width:5%'># Parts</th><th style='width:14%'>Mode</th><th style='width:15%'>Files</th></tr>\n")
     return fd
 
 
@@ -747,13 +796,14 @@ def generate_files(pieces):
             if "piece_title" not in i:
                 print i
                 sys.exit(1)
-            table_row = ("      <tr><td class='composer'><a href='comp-{0}.html'>{1}</a></td>\n"+
-                     "          <td class='title'>{2}</td>\n"+
-                     "          <td class='subtitle'>{3}</td>\n"+
-                     "          <td class='language'><a href='lang-{4}.html'>{5}</a></td>\n"+
-                     "          <td class='mode'>{6}</td>\n"+
-                     "          <td class='output' align='left'>{7}</td>\n" +
-                     "     </tr>\n").format(short_composer, i["composer"], i["piece_title"], i["piece_subtitle"], i["language"], i["language"], i["final"], strip_home(i["output"]))
+            table_row = ("      <tr><td class='composer'><a href='comp-{scomp}.html'>{comp}</a></td>\n"+
+                     "          <td class='title'>{title}</td>\n"+
+                     "          <td class='subtitle'>{stitle}</td>\n"+
+                     "          <td class='language'><a href='lang-{language}.html'>{language}</a></td>\n"+
+                     "          <td class='parts'>{partnum}</td>\n"+
+                     "          <td class='mode'>{mode}</td>\n"+
+                     "          <td class='output' align='left'>{output}</td>\n" +
+                     "     </tr>\n").format(scomp=short_composer, comp=i["composer"], title=i["piece_title"], stitle=i["piece_subtitle"], language=i["language"], mode=i["final"], output=strip_home(i["output"]), partnum=pn)
             fd.write(table_row)
             comp_fd.write(table_row)
             lang_fd.write(table_row)
@@ -764,7 +814,6 @@ def generate_files(pieces):
 
         fd.write("    </table>\n")
         fd.write("<br /><br /><br /><br />\n")
-        fd.write("    <div id='by_note'>Index files inspired by Peter Payzant</div></div>\n")
         fd.write("  </body>\n</html>\n")
         fd.close()
 
@@ -813,6 +862,9 @@ def generate_files(pieces):
         fd.write('  <li> <a href="lang-{0}.html">{1}</a> ({2} piece{3})</li>\n'.format(lang.replace("/", "-"), cap_proper(lang.capitalize()), language_count[lang], plural))
 
     fd.write("</ul><p>\n")
+    fd.write('<a href="doc/my-translations">My translations from Italian</a><br>')
+    fd.write('<a href="doc/petrarca">Madrigals based on Il canzoniere di Petrarca</a> <br>\n')
+    fd.write("<a href='doc/eintsein.html'>Madrigals featured in Einstein's <i>The Italian Madrigal</i></a> (list, plus links to my transcriptions)<p />\n")
 
     output = subprocess.check_output(["./scripts/categories.py", "-l"])
     fd.write(output.decode("utf-8"))
@@ -862,6 +914,10 @@ def main(args):
         
     for dn, sd_list, files in os.walk("/home/agarvin/typeset.new"):
         dirs = dn.split("/")
+
+        #Junk for 2023:
+        if "christmas" in dirs:
+            continue
         if dirs[-1] != "single-parts" or len(dirs) != 7:
             continue
         dist_head = dn + "/include/distribution-header.ly"

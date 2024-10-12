@@ -272,6 +272,7 @@ def generate_files(pieces):
                 composer_files[short_composer] = comp_fd
 
             if "piece_title" not in i:
+                print("NO TITLE EXITING")
                 print i
                 sys.exit(1)
             table_row = ("      <tr><td class='composer'><a href='comp-{0}.html'>{1}</a></td>\n"+
@@ -406,6 +407,7 @@ def generate_index_files(pieces):
         if not score_file:
             print("Warning: {0}: NO 0-score.pdf file".format(d["output"]))
             return
+        print("exiting here")
         print d
         sys.exit(1)
         #print files

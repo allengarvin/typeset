@@ -1,0 +1,1556 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="AsciiDoc 10.2.0">
+<title>Music from Alfred Einstein&#8217;s The Italian Madrigal</title>
+<style type="text/css">
+/* Shared CSS for AsciiDoc xhtml11 and html5 backends */
+
+/* Default font. */
+body {
+  font-family: Georgia,serif;
+}
+
+/* Title font. */
+h1, h2, h3, h4, h5, h6,
+div.title, caption.title,
+thead, p.table.header,
+#toctitle,
+#author, #revnumber, #revdate, #revremark,
+#footer {
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+body {
+  margin: 1em 5% 1em 5%;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
+a:visited {
+  color: fuchsia;
+}
+
+em {
+  font-style: italic;
+  color: navy;
+}
+
+strong {
+  font-weight: bold;
+  color: #083194;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #527bbd;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+  line-height: 1.3;
+}
+
+h1, h2, h3 {
+  border-bottom: 2px solid silver;
+}
+h2 {
+  padding-top: 0.5em;
+}
+h3 {
+  float: left;
+}
+h3 + * {
+  clear: left;
+}
+h5 {
+  font-size: 1.0em;
+}
+
+div.sectionbody {
+  margin-left: 0;
+}
+
+hr {
+  border: 1px solid silver;
+}
+
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+ul, ol, li > p {
+  margin-top: 0;
+}
+ul > li     { color: #aaa; }
+ul > li > * { color: black; }
+
+pre {
+  padding: 0;
+  margin: 0;
+}
+
+#author {
+  color: #527bbd;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+#email {
+}
+#revnumber, #revdate, #revremark {
+}
+
+#footer {
+  font-size: small;
+  border-top: 2px solid silver;
+  padding-top: 0.5em;
+  margin-top: 4.0em;
+}
+#footer-text {
+  float: left;
+  padding-bottom: 0.5em;
+}
+#footer-badges {
+  float: right;
+  padding-bottom: 0.5em;
+}
+
+#preamble {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+div.imageblock, div.exampleblock, div.verseblock,
+div.quoteblock, div.literalblock, div.listingblock, div.sidebarblock,
+div.admonitionblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+div.admonitionblock {
+  margin-top: 2.0em;
+  margin-bottom: 2.0em;
+  margin-right: 10%;
+  color: #606060;
+}
+
+div.content { /* Block element content. */
+  padding: 0;
+}
+
+/* Block element titles. */
+div.title, caption.title {
+  color: #527bbd;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+}
+div.title + * {
+  margin-top: 0;
+}
+
+td div.title:first-child {
+  margin-top: 0.0em;
+}
+div.content div.title:first-child {
+  margin-top: 0.0em;
+}
+div.content + div.title {
+  margin-top: 0.0em;
+}
+
+div.sidebarblock > div.content {
+  background: #ffffee;
+  border: 1px solid #dddddd;
+  border-left: 4px solid #f0f0f0;
+  padding: 0.5em;
+}
+
+div.listingblock > div.content {
+  border: 1px solid #dddddd;
+  border-left: 5px solid #f0f0f0;
+  background: #f8f8f8;
+  padding: 0.5em;
+}
+
+div.quoteblock, div.verseblock {
+  padding-left: 1.0em;
+  margin-left: 1.0em;
+  margin-right: 10%;
+  border-left: 5px solid #f0f0f0;
+  color: #777777;
+}
+
+div.quoteblock > div.attribution {
+  padding-top: 0.5em;
+  text-align: right;
+}
+
+div.verseblock > pre.content {
+  font-family: inherit;
+  font-size: inherit;
+}
+div.verseblock > div.attribution {
+  padding-top: 0.75em;
+  text-align: left;
+}
+/* DEPRECATED: Pre version 8.2.7 verse style literal block. */
+div.verseblock + div.attribution {
+  text-align: left;
+}
+
+div.admonitionblock .icon {
+  vertical-align: top;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration: underline;
+  color: #527bbd;
+  padding-right: 0.5em;
+}
+div.admonitionblock td.content {
+  padding-left: 0.5em;
+  border-left: 3px solid #dddddd;
+}
+
+div.exampleblock > div.content {
+  border-left: 3px solid #dddddd;
+  padding-left: 0.5em;
+}
+
+div.imageblock div.content { padding-left: 0; }
+span.image img { border-style: none; }
+a.image:visited { color: white; }
+
+dl {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+dt {
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  font-style: normal;
+  color: navy;
+}
+dd > *:first-child {
+  margin-top: 0.1em;
+}
+
+ul, ol {
+    list-style-position: outside;
+}
+ol.arabic {
+  list-style-type: decimal;
+}
+ol.loweralpha {
+  list-style-type: lower-alpha;
+}
+ol.upperalpha {
+  list-style-type: upper-alpha;
+}
+ol.lowerroman {
+  list-style-type: lower-roman;
+}
+ol.upperroman {
+  list-style-type: upper-roman;
+}
+
+div.compact ul, div.compact ol,
+div.compact p, div.compact p,
+div.compact div, div.compact div {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
+tfoot {
+  font-weight: bold;
+}
+td > div.verse {
+  white-space: pre;
+}
+
+div.hdlist {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+div.hdlist tr {
+  padding-bottom: 15px;
+}
+dt.hdlist1.strong, td.hdlist1.strong {
+  font-weight: bold;
+}
+td.hdlist1 {
+  vertical-align: top;
+  font-style: normal;
+  padding-right: 0.8em;
+  color: navy;
+}
+td.hdlist2 {
+  vertical-align: top;
+}
+div.hdlist.compact tr {
+  margin: 0;
+  padding-bottom: 0;
+}
+
+.comment {
+  background: yellow;
+}
+
+.footnote, .footnoteref {
+  font-size: 0.8em;
+}
+
+span.footnote, span.footnoteref {
+  vertical-align: super;
+}
+
+#footnotes {
+  margin: 20px 0 20px 0;
+  padding: 7px 0 0 0;
+}
+
+#footnotes div.footnote {
+  margin: 0 0 5px 0;
+}
+
+#footnotes hr {
+  border: none;
+  border-top: 1px solid silver;
+  height: 1px;
+  text-align: left;
+  margin-left: 0;
+  width: 20%;
+  min-width: 100px;
+}
+
+div.colist td {
+  padding-right: 0.5em;
+  padding-bottom: 0.3em;
+  vertical-align: top;
+}
+div.colist td img {
+  margin-top: 0.3em;
+}
+
+@media print {
+  #footer-badges { display: none; }
+}
+
+#toc {
+  margin-bottom: 2.5em;
+}
+
+#toctitle {
+  color: #527bbd;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.0em;
+  margin-bottom: 0.1em;
+}
+
+div.toclevel1, div.toclevel2, div.toclevel3, div.toclevel4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+div.toclevel2 {
+  margin-left: 2em;
+  font-size: 0.9em;
+}
+div.toclevel3 {
+  margin-left: 4em;
+  font-size: 0.9em;
+}
+div.toclevel4 {
+  margin-left: 6em;
+  font-size: 0.9em;
+}
+
+span.aqua { color: aqua; }
+span.black { color: black; }
+span.blue { color: blue; }
+span.fuchsia { color: fuchsia; }
+span.gray { color: gray; }
+span.green { color: green; }
+span.lime { color: lime; }
+span.maroon { color: maroon; }
+span.navy { color: navy; }
+span.olive { color: olive; }
+span.purple { color: purple; }
+span.red { color: red; }
+span.silver { color: silver; }
+span.teal { color: teal; }
+span.white { color: white; }
+span.yellow { color: yellow; }
+
+span.aqua-background { background: aqua; }
+span.black-background { background: black; }
+span.blue-background { background: blue; }
+span.fuchsia-background { background: fuchsia; }
+span.gray-background { background: gray; }
+span.green-background { background: green; }
+span.lime-background { background: lime; }
+span.maroon-background { background: maroon; }
+span.navy-background { background: navy; }
+span.olive-background { background: olive; }
+span.purple-background { background: purple; }
+span.red-background { background: red; }
+span.silver-background { background: silver; }
+span.teal-background { background: teal; }
+span.white-background { background: white; }
+span.yellow-background { background: yellow; }
+
+span.big { font-size: 2em; }
+span.small { font-size: 0.6em; }
+
+span.underline { text-decoration: underline; }
+span.overline { text-decoration: overline; }
+span.line-through { text-decoration: line-through; }
+
+
+/*
+ * xhtml11 specific
+ *
+ * */
+
+tt {
+  font-family: monospace;
+  font-size: inherit;
+  color: navy;
+}
+
+div.tableblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+div.tableblock > table {
+  border: 3px solid #527bbd;
+}
+thead, p.table.header {
+  font-weight: bold;
+  color: #527bbd;
+}
+p.table {
+  margin-top: 0;
+}
+/* Because the table frame attribute is overridden by CSS in most browsers. */
+div.tableblock > table[frame="void"] {
+  border-style: none;
+}
+div.tableblock > table[frame="hsides"] {
+  border-left-style: none;
+  border-right-style: none;
+}
+div.tableblock > table[frame="vsides"] {
+  border-top-style: none;
+  border-bottom-style: none;
+}
+
+
+/*
+ * html5 specific
+ *
+ * */
+
+.monospaced {
+  font-family: monospace;
+  font-size: inherit;
+  color: navy;
+}
+
+table.tableblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+thead, p.tableblock.header {
+  font-weight: bold;
+  color: #527bbd;
+}
+p.tableblock {
+  margin-top: 0;
+}
+table.tableblock {
+  border-width: 3px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-color: #527bbd;
+  border-collapse: collapse;
+}
+th.tableblock, td.tableblock {
+  border-width: 1px;
+  padding: 4px;
+  border-style: solid;
+  border-color: #527bbd;
+}
+
+table.tableblock.frame-topbot {
+  border-left-style: hidden;
+  border-right-style: hidden;
+}
+table.tableblock.frame-sides {
+  border-top-style: hidden;
+  border-bottom-style: hidden;
+}
+table.tableblock.frame-none {
+  border-style: hidden;
+}
+
+th.tableblock.halign-left, td.tableblock.halign-left {
+  text-align: left;
+}
+th.tableblock.halign-center, td.tableblock.halign-center {
+  text-align: center;
+}
+th.tableblock.halign-right, td.tableblock.halign-right {
+  text-align: right;
+}
+
+th.tableblock.valign-top, td.tableblock.valign-top {
+  vertical-align: top;
+}
+th.tableblock.valign-middle, td.tableblock.valign-middle {
+  vertical-align: middle;
+}
+th.tableblock.valign-bottom, td.tableblock.valign-bottom {
+  vertical-align: bottom;
+}
+
+
+/*
+ * manpage specific
+ *
+ * */
+
+body.manpage h1 {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  border-top: 2px solid silver;
+  border-bottom: 2px solid silver;
+}
+body.manpage h2 {
+  border-style: none;
+}
+body.manpage div.sectionbody {
+  margin-left: 3em;
+}
+
+@media print {
+  body.manpage div#toc { display: none; }
+}
+
+
+/*
+ * Theme specific overrides of the preceding (asciidoc.css) CSS.
+ *
+ */
+body {
+  font-family: Garamond, Georgia, serif;
+  font-size: 17px;
+  color: #3E4349;
+  line-height: 1.3em;
+}
+h1, h2, h3, h4, h5, h6,
+div.title, caption.title,
+thead, p.table.header,
+#toctitle,
+#author, #revnumber, #revdate, #revremark,
+#footer {
+  font-family: Garmond, Georgia, serif;
+  font-weight: normal;
+  border-bottom-width: 0;
+  color: #3E4349;
+}
+div.title, caption.title { color: #596673; font-weight: bold; }
+h1 { font-size: 240%; }
+h2 { font-size: 180%; }
+h3 { font-size: 150%; }
+h4 { font-size: 130%; }
+h5 { font-size: 115%; }
+h6 { font-size: 100%; }
+#header h1 { margin-top: 0; }
+#toc {
+  color: #444444;
+  line-height: 1.5;
+  padding-top: 1.5em;
+}
+#toctitle {
+  font-size: 20px;
+}
+#toc a {
+    border-bottom: 1px dotted #999999;
+    color: #444444 !important;
+    text-decoration: none !important;
+}
+#toc a:hover {
+    border-bottom: 1px solid #6D4100;
+    color: #6D4100 !important;
+    text-decoration: none !important;
+}
+div.toclevel1 { margin-top: 0.2em; font-size: 16px; }
+div.toclevel2 { margin-top: 0.15em; font-size: 14px; }
+em, dt, td.hdlist1 { color: black; }
+strong { color: #3E4349; }
+a { color: #004B6B; text-decoration: none; border-bottom: 1px dotted #004B6B; }
+a:visited { color: #615FA0; border-bottom: 1px dotted #615FA0; }
+a:hover { color: #6D4100; border-bottom: 1px solid #6D4100; }
+div.tableblock > table, table.tableblock { border: 3px solid #E8E8E8; }
+th.tableblock, td.tableblock { border: 1px solid #E8E8E8; }
+ul > li > * { color: #3E4349; }
+pre, tt, .monospaced { font-family: Consolas,Menlo,'Deja Vu Sans Mono','Bitstream Vera Sans Mono',monospace; }
+tt, .monospaced { font-size: 0.9em; color: black;
+}
+div.exampleblock > div.content, div.sidebarblock > div.content, div.listingblock > div.content { border-width: 0 0 0 3px; border-color: #E8E8E8; }
+div.verseblock { border-left-width: 0; margin-left: 3em; }
+div.quoteblock { border-left-width: 3px; margin-left: 0; margin-right: 0;}
+div.admonitionblock td.content { border-left: 3px solid #E8E8E8; }
+
+
+</style>
+<script type="text/javascript">
+/*<![CDATA[*/
+var asciidoc = {  // Namespace.
+
+/////////////////////////////////////////////////////////////////////
+// Table Of Contents generator
+/////////////////////////////////////////////////////////////////////
+
+/* Author: Mihai Bazon, September 2002
+ * http://students.infoiasi.ro/~mishoo
+ *
+ * Table Of Content generator
+ * Version: 0.4
+ *
+ * Feel free to use this script under the terms of the GNU General Public
+ * License, as long as you do not remove or alter this notice.
+ */
+
+ /* modified by Troy D. Hanson, September 2006. License: GPL */
+ /* modified by Stuart Rackham, 2006, 2009. License: GPL */
+
+// toclevels = 1..4.
+toc: function (toclevels) {
+
+  function getText(el) {
+    var text = "";
+    for (var i = el.firstChild; i != null; i = i.nextSibling) {
+      if (i.nodeType == 3 /* Node.TEXT_NODE */) // IE doesn't speak constants.
+        text += i.data;
+      else if (i.firstChild != null)
+        text += getText(i);
+    }
+    return text;
+  }
+
+  function TocEntry(el, text, toclevel) {
+    this.element = el;
+    this.text = text;
+    this.toclevel = toclevel;
+  }
+
+  function tocEntries(el, toclevels) {
+    var result = new Array;
+    var re = new RegExp('[hH]([1-'+(toclevels+1)+'])');
+    // Function that scans the DOM tree for header elements (the DOM2
+    // nodeIterator API would be a better technique but not supported by all
+    // browsers).
+    var iterate = function (el) {
+      for (var i = el.firstChild; i != null; i = i.nextSibling) {
+        if (i.nodeType == 1 /* Node.ELEMENT_NODE */) {
+          var mo = re.exec(i.tagName);
+          if (mo && (i.getAttribute("class") || i.getAttribute("className")) != "float") {
+            result[result.length] = new TocEntry(i, getText(i), mo[1]-1);
+          }
+          iterate(i);
+        }
+      }
+    }
+    iterate(el);
+    return result;
+  }
+
+  var toc = document.getElementById("toc");
+  if (!toc) {
+    return;
+  }
+
+  // Delete existing TOC entries in case we're reloading the TOC.
+  var tocEntriesToRemove = [];
+  var i;
+  for (i = 0; i < toc.childNodes.length; i++) {
+    var entry = toc.childNodes[i];
+    if (entry.nodeName.toLowerCase() == 'div'
+     && entry.getAttribute("class")
+     && entry.getAttribute("class").match(/^toclevel/))
+      tocEntriesToRemove.push(entry);
+  }
+  for (i = 0; i < tocEntriesToRemove.length; i++) {
+    toc.removeChild(tocEntriesToRemove[i]);
+  }
+
+  // Rebuild TOC entries.
+  var entries = tocEntries(document.getElementById("content"), toclevels);
+  for (var i = 0; i < entries.length; ++i) {
+    var entry = entries[i];
+    if (entry.element.id == "")
+      entry.element.id = "_toc_" + i;
+    var a = document.createElement("a");
+    a.href = "#" + entry.element.id;
+    a.appendChild(document.createTextNode(entry.text));
+    var div = document.createElement("div");
+    div.appendChild(a);
+    div.className = "toclevel" + entry.toclevel;
+    toc.appendChild(div);
+  }
+  if (entries.length == 0)
+    toc.parentNode.removeChild(toc);
+},
+
+
+/////////////////////////////////////////////////////////////////////
+// Footnotes generator
+/////////////////////////////////////////////////////////////////////
+
+/* Based on footnote generation code from:
+ * http://www.brandspankingnew.net/archive/2005/07/format_footnote.html
+ */
+
+footnotes: function () {
+  // Delete existing footnote entries in case we're reloading the footnodes.
+  var i;
+  var noteholder = document.getElementById("footnotes");
+  if (!noteholder) {
+    return;
+  }
+  var entriesToRemove = [];
+  for (i = 0; i < noteholder.childNodes.length; i++) {
+    var entry = noteholder.childNodes[i];
+    if (entry.nodeName.toLowerCase() == 'div' && entry.getAttribute("class") == "footnote")
+      entriesToRemove.push(entry);
+  }
+  for (i = 0; i < entriesToRemove.length; i++) {
+    noteholder.removeChild(entriesToRemove[i]);
+  }
+
+  // Rebuild footnote entries.
+  var cont = document.getElementById("content");
+  var spans = cont.getElementsByTagName("span");
+  var refs = {};
+  var n = 0;
+  for (i=0; i<spans.length; i++) {
+    if (spans[i].className == "footnote") {
+      n++;
+      var note = spans[i].getAttribute("data-note");
+      if (!note) {
+        // Use [\s\S] in place of . so multi-line matches work.
+        // Because JavaScript has no s (dotall) regex flag.
+        note = spans[i].innerHTML.match(/\s*\[([\s\S]*)]\s*/)[1];
+        spans[i].innerHTML =
+          "[<a id='_footnoteref_" + n + "' href='#_footnote_" + n +
+          "' title='View footnote' class='footnote'>" + n + "</a>]";
+        spans[i].setAttribute("data-note", note);
+      }
+      noteholder.innerHTML +=
+        "<div class='footnote' id='_footnote_" + n + "'>" +
+        "<a href='#_footnoteref_" + n + "' title='Return to text'>" +
+        n + "</a>. " + note + "</div>";
+      var id =spans[i].getAttribute("id");
+      if (id != null) refs["#"+id] = n;
+    }
+  }
+  if (n == 0)
+    noteholder.parentNode.removeChild(noteholder);
+  else {
+    // Process footnoterefs.
+    for (i=0; i<spans.length; i++) {
+      if (spans[i].className == "footnoteref") {
+        var href = spans[i].getElementsByTagName("a")[0].getAttribute("href");
+        href = href.match(/#.*/)[0];  // Because IE return full URL.
+        n = refs[href];
+        spans[i].innerHTML =
+          "[<a href='#_footnote_" + n +
+          "' title='View footnote' class='footnote'>" + n + "</a>]";
+      }
+    }
+  }
+},
+
+install: function(toclevels) {
+  var timerId;
+
+  function reinstall() {
+    asciidoc.footnotes();
+    if (toclevels) {
+      asciidoc.toc(toclevels);
+    }
+  }
+
+  function reinstallAndRemoveTimer() {
+    clearInterval(timerId);
+    reinstall();
+  }
+
+  timerId = setInterval(reinstall, 500);
+  if (document.addEventListener)
+    document.addEventListener("DOMContentLoaded", reinstallAndRemoveTimer, false);
+  else
+    window.onload = reinstallAndRemoveTimer;
+}
+
+}
+asciidoc.install();
+/*]]>*/
+</script>
+</head>
+<body class="article">
+<div id="header">
+<h1>Music from Alfred Einstein&#8217;s The Italian Madrigal</h1>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph"><p>Alfred Einstein&#8217;s <em>The Italian Madrigal</em> (Princeton: Princeton University Press, 1949)
+remains an essential text for understanding the development of the madrigal.
+Some parts have been rendered obsolete by further study (such as the linking
+of the early madrigal to the northern Italian frottola tradition), and other
+parts have been greatly elaborated on or modified. Yet it still persists
+based on the scope of Einstein&#8217;s immense knowledge and decades of work
+that went into the set.</p></div>
+<div class="paragraph"><p>The final third volume consists entirely of whole musical examples of 97
+key madrigals from the genesis of the genre through the late 16th century.
+Einstein avoided Lasso and Monteverdi, whose works were easily available,
+and concentrated on then-little known pieces.</p></div>
+<div class="paragraph"><p>The work is still in print, but careful study can be somewhat hindered by
+the fact Einstein used original cleffing in all the pieces, and most
+people today do not have great proficiency reading these clefs. And, it&#8217;s
+not a very wieldy source for performing or singing from. On this page
+I will list all the works, and provide information on the sources,
+display the text (and with time, English translations, which is not
+present in the <em>The Italian Madrigal</em>), as well as links to the works
+which I have personally transcribed (from original sources, not from
+Einstein&#8217;s book: it&#8217;s possibly text underlay may vary occasionally, though
+with most later prints, the underlay is not ambigous).</p></div>
+<div class="paragraph"><p>Note a number of these are frottole, canzone napolitane, and other such
+works that I will try to get to, but my primary focus is on the madrigal.</p></div>
+<div class="olist arabic"><ol class="arabic">
+<li>
+<p>
+Anonymous. <em>Pace non truovo e non ho da far guerra</em>
+</p>
+</li>
+<li>
+<p>
+Heinrich Isaac. <em>Questo mostrarsi adirata di fore</em>
+</p>
+</li>
+<li>
+<p>
+Bernardo Pisano. <em>Questo mostrarsi adirata di fore</em>
+</p>
+</li>
+<li>
+<p>
+Anonymous. <em>De no de si de no</em>
+</p>
+</li>
+<li>
+<p>
+Anonymous. <em>L&#8217;amor donna ch&#8217;io te porto</em>
+</p>
+</li>
+<li>
+<p>
+Anonymous. <em>L&#8217;inferno alhor più se consuma e scalda</em>
+</p>
+</li>
+<li>
+<p>
+Anonymous. <em>Riseno i monti e&#8217;l mar mostra bonaza</em>
+</p>
+</li>
+<li>
+<p>
+Bartolomeo Tromboncino. <em>Signora anzi mia dea</em>
+</p>
+</li>
+<li>
+<p>
+Joannes Lulinus. <em>Poi che son di speranza al tutto privo</em>
+</p>
+</li>
+<li>
+<p>
+Francesco d&#8217;Ana. <em>Quest&#8217;e quel locho amore se te ricorda</em>
+</p>
+</li>
+<li>
+<p>
+Bartolomeo Tromboncino. <em>Hor che&#8217;l ciel et la terra e&#8217;l vento tace</em>
+</p>
+</li>
+<li>
+<p>
+Bartolomeo Tromboncino. <em>S&#8217;il dissi mai ch&#8217;i venga in odio a quella</em>
+</p>
+</li>
+<li>
+<p>
+Bartolomeo Tromboncino. <em>Se per colpa del vostro altiero sdegno</em>
+</p>
+</li>
+<li>
+<p>
+A. Antico de Montona. <em>Io mi parto madonna e&#8217;l cor vi lasso</em>
+</p>
+</li>
+<li>
+<p>
+Bartolomeo Tromboncino. <em>Come haro donque ardire</em>
+</p>
+</li>
+<li>
+<p>
+Philippe Verdelot. <em>Madonna quel certezza</em>
+</p>
+</li>
+<li>
+<p>
+Philippe Verdelot. <em>Ogn&#8217;hor per voi sospiro</em>
+</p>
+</li>
+<li>
+<p>
+Philippe Verdelot. <em>Gloriarmi poss&#8217;io donne</em>
+</p>
+</li>
+<li>
+<p>
+Philippe Verdelot. <em>Madonna&#8217;l tuo bel viso</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../philippe_verdelot/book_I_a4/single-parts/13-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Costanzao Festa. <em>Dur&#8217;è'l partito dove m&#8217;astringete</em>
+</p>
+</li>
+<li>
+<p>
+Costanzao Festa. <em>Così suov&#8217;è'l foco et dolce il nodo</em>
+</p>
+</li>
+<li>
+<p>
+Jacques Arcadelt. <em>Io mi rivolgo indietro a ciascun passo</em>
+</p>
+</li>
+<li>
+<p>
+Jacques Arcadelt. <em>Se per colpa del vostro fiero sdegno</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../jacob_arcadelt/il_primo_libro_di_madrigali_a_4/single-parts/50-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Jacques Arcadelt. <em>Amor la tua virtute</em>
+</p>
+</li>
+<li>
+<p>
+Francesco Corteccia. <em>A che ne stringi o scelerata fame</em>
+</p>
+</li>
+<li>
+<p>
+Francesco Corteccia. <em>Io dico e disse e dirò fin ch&#8217;io viva</em>
+</p>
+</li>
+<li>
+<p>
+Francesco Corteccia. <em>Quest&#8217;io tesseva e quelle</em>
+</p>
+</li>
+<li>
+<p>
+Giacomo Fogliano. <em>Tua volsi esser sempre mai</em>
+</p>
+</li>
+<li>
+<p>
+Giacomo Fogliano. <em>Io vorrei dio d&#8217;amore</em>
+</p>
+</li>
+<li>
+<p>
+Domenico Ferabosco. <em>Io mi son giovinett&#8217;e volontieri</em>
+</p>
+</li>
+<li>
+<p>
+Adrian Willaert. <em>Amor mi fa morire</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../philippe_verdelot/book_II_a4_1537/single-parts/01-output">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Adrian Willaert. <em>Liete, e pensose, accompagnate, e sole</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../adrian_willaert/musica_nova-madrigals/single-parts/44-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Anonymous (Messer Fra Pietro da Hostia?). <em>Un cavalier di spagna</em>
+</p>
+</li>
+<li>
+<p>
+Jacques Arcadelt. <em>La pastorella mia</em>
+</p>
+</li>
+<li>
+<p>
+Bartolomeo Tromboncino. <em>Poi che volse la mia stella</em>
+</p>
+</li>
+<li>
+<p>
+Filippo Azzaiuolo. <em>Poi che volse de la mia stella</em>
+</p>
+</li>
+<li>
+<p>
+Giovan Tommaso di Maio. <em>O trezze bionde anci capelli d&#8217;oro</em>
+</p>
+</li>
+<li>
+<p>
+Giovanni Tommaso di Maio. <em>Tutte le vecchie son maleciose</em>
+</p>
+</li>
+<li>
+<p>
+Giovan Domenico da Nola. <em>Chi la gagliarda donna vo imparare</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../giovanni_de_nola/canzone_libro_primo/single-parts/06-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Vincenzo Fontana. <em>Madonna mia pietà chiam' et aita</em>
+</p>
+</li>
+<li>
+<p>
+Giovan Domenico da Nola (?). <em>Chichilichi-Cucurucu</em>
+</p>
+</li>
+<li>
+<p>
+Giovan Domenico da Nola. <em>O dolce vita mia che t&#8217;haggio fatto</em>
+</p>
+</li>
+<li>
+<p>
+Adrian Willaert. <em>O dolce vita mia che t&#8217;haggio fatto</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../adrian_willaert/canzone_villanesche/single-parts/02-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Thomaso Cimello. <em>Ogn&#8217;hor dirò capelli stralucenti</em>
+</p>
+</li>
+<li>
+<p>
+Cipriano de Rore. <em>Per mezz&#8217;i bosch&#8217;inhospiti e selvaggi</em>
+</p>
+</li>
+<li>
+<p>
+Cipriano de Rore. <em>Padre del ciel doppi i perduti giorni</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../cipriano_de_rore/il_second_libro_a_5/single-parts/22-output">Typeset Edition - Prima parte</a>
+</p>
+</li>
+<li>
+<p>
+<a href="../cipriano_de_rore/il_second_libro_a_5/single-parts/23-output">Typeset Edition - Seconda parte</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Cipriano de Rore. <em>Anchor che col partire</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../cipriano_de_rore/il_primo_libro_a_4/single-parts/13-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Cipriano de Rore. <em>Crudele acerba inexorabil morte</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../cipriano_de_rore/il_second_libro_a_4/single-parts/10-output">Typeset Edition - Prima parte</a>
+</p>
+</li>
+<li>
+<p>
+<a href="../cipriano_de_rore/il_second_libro_a_4/single-parts/11-output">Typeset Edition - Seconda parte</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Cipriano de Rore. <em>O sonno o della queta humida ombrosa</em>
+</p>
+</li>
+<li>
+<p>
+Pietro Taglia. <em>Com&#8217;esser può che si contrari effetti</em>
+</p>
+</li>
+<li>
+<p>
+Giachet Berchem. <em>Donna se voi volete io voglio anch&#8217;io</em>
+</p>
+</li>
+<li>
+<p>
+Jacques Arcadelt. <em>Chiare fresch&#8217;e dolci acque</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../di_diversi/1555__il_primo_libro_de_le_muse/single-parts/01-output">Typeset Edition - Prima parte</a>
+</p>
+</li>
+<li>
+<p>
+<a href="../di_diversi/1555__il_primo_libro_de_le_muse/single-parts/02-output">Typeset Edition - Seconda parte</a>
+</p>
+</li>
+<li>
+<p>
+<a href="../di_diversi/1555__il_primo_libro_de_le_muse/single-parts/03-output">Typeset Edition - Terza parte</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Perissone Cambio. <em>E la morte di marito</em>
+</p>
+</li>
+<li>
+<p>
+Perissone Cambio. <em>Non t&#8217;arricordi e quando me dicevi</em>
+</p>
+</li>
+<li>
+<p>
+Girolamo Parabosco. <em>Anima bella da quel nodo sciolta</em>
+</p>
+</li>
+<li>
+<p>
+Baldisserra Donato. <em>Ahi miserelle ahi sventurate noi</em>
+</p>
+</li>
+<li>
+<p>
+Vincenzo Ruffo. <em>Io son qual sempre fui tal esser voglio</em>
+</p>
+</li>
+<li>
+<p>
+Vincenzo Ruffo. <em>Vita de la mia vita</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../vincenzo_ruffo/il_terzo_libro_di_madrigali_a_4/single-parts/05-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Vincenzo Ruffo. <em>Su la fiorita riva</em>
+</p>
+</li>
+<li>
+<p>
+Andrea Gabrieli. <em>Forestier inamorao</em>
+</p>
+</li>
+<li>
+<p>
+Andrea Gabrieli. <em>O beltà rara o santi</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/11-output">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Andrea Gabrieli. <em>Due rose fresche e colte in paradiso</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/04-output">Typeset Edition - Prima parte</a>
+</p>
+</li>
+<li>
+<p>
+<a href="../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/05-output">Typeset Edition - Seconda parte</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Andrea Gabrieli. <em>Tirsi morir volea</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../andrea_gabrieli/concert__libro_2/single-parts/17-output">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Andrea Gabrieli. <em>A caso un giorno mi guidò la sorte</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/01-output">Typeset Edition - Prima parte</a>
+</p>
+</li>
+<li>
+<p>
+<a href="../andrea_gabrieli/il_primo_libro_de_madrigali_a_5/single-parts/02-output">Typeset Edition - Seconda parte</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Giaches Wert. <em>Crudele acerba inesorabil morte</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../giaches_de_wert/book_IX_a5/single-parts/13-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Gioseppe Caimo. <em>Anchor che col partire</em>
+</p>
+</li>
+<li>
+<p>
+Gioseppe Caimo. <em>Piangete valli abbandonate e sole</em>
+</p>
+</li>
+<li>
+<p>
+Giaches Wert. <em>Dunque basciar si belle e dolce labbia</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../giaches_de_wert/book_I_a4/single-parts/09-output">Typeset Edition - Prima parte</a>
+</p>
+</li>
+<li>
+<p>
+<a href="../giaches_de_wert/book_I_a4/single-parts/10-output">Typeset Edition - Seconda parte</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Giaches Wert. <em>Giunto a la tomba ove al suo spirto vivo</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../giaches_de_wert/book_VII_a5/single-parts/13-output">Typeset Edition - Prima parte</a>
+</p>
+</li>
+<li>
+<p>
+<a href="../giaches_de_wert/book_VII_a5/single-parts/14-output">Typeset Edition - Seconda parte</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Massimo Troiano. <em>Amor m&#8217;impenna l&#8217;al&#8217;e tant&#8217;in alto</em>
+</p>
+</li>
+<li>
+<p>
+Giovan Domenico da Nola. <em>Cors' a la morte il povero narciso</em>
+</p>
+</li>
+<li>
+<p>
+Luca Marenzio. <em>Io son ferito e chi mi punse il core</em>
+</p>
+</li>
+<li>
+<p>
+Giovanni Ferretti. <em>Del crud' amor io sempre mi lamento.</em>
+</p>
+</li>
+<li>
+<p>
+Gioseppe Caimo. <em>Mentre il cuculo il suo cucu cantava</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../giuseppe_caimo/canzonette_a_4_voci_libro_2/single-parts/01-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Gioseppe Caimo. <em>Deh quadrara mia quadrara</em>
+</p>
+</li>
+<li>
+<p>
+Pierre Sandrin. <em>Puisque vivre en servitude</em>
+</p>
+</li>
+<li>
+<p>
+Gian Giacomo Gastoldi. <em>Viva sempre e scolpita</em>
+</p>
+</li>
+<li>
+<p>
+Giavan Giacomo Gastoldi. <em>Lo schernito (Se ben vedi)</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../giacomo_gastoldi/balletti_a_5_voci/single-parts/06-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Andrea Gabrieli. <em>Vaghi augelletti che per valli e monti</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../andrea_gabrieli/il_secondo_libro_de_madrigali_a_5/single-parts/11-output">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Luca Marenzio. <em>O fere stelle homai datemi pace</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../luca_marenzio/madrigali_a_4_5_e_6_voci/single-parts/19-output">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Luzzasco Luzzaschi. <em>Dolorosi martir, fieri tormenti</em>
+</p>
+</li>
+<li>
+<p>
+Luzzasco Luzzaschi. <em>Itene mie querele</em>
+</p>
+</li>
+<li>
+<p>
+Vincenzo Galilei. <em>Poi che&#8217;l mio largo pianto</em>
+</p>
+</li>
+<li>
+<p>
+Marco de Gagliano. <em>O misera Dorinda ov&#8217;hai tu poste</em>
+</p>
+</li>
+<li>
+<p>
+Marco de Gagliano. <em>O sono ò della queta humida ombrosa</em>
+</p>
+</li>
+<li>
+<p>
+Alessandro Striggio. <em>Il gioco di primiera (Al vago e incerto)</em>
+</p>
+</li>
+<li>
+<p>
+Orazio Vecchi. <em>Fa una canzone senza note nere</em>
+</p>
+</li>
+<li>
+<p>
+Orazio Vecchi. <em>S&#8217;udia un Pastor l&#8217;altr&#8217;hieri</em>
+</p>
+</li>
+<li>
+<p>
+Filippo di Monte. <em>Sottile e dolce ladra</em>
+</p>
+</li>
+<li>
+<p>
+Giaches Wert. <em>Io non son però morto</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+Source: <em>L&#8217;ottavo libro de madrigali a cinque voci</em> (Venice: Angelo Gardano press, 1586)
+</p>
+</li>
+<li>
+<p>
+<a href="../giaches_de_wert/book_VIII_a5/single-parts/01-output">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Giaches Wert. <em>Non è si denso velo</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+Source: <em>L&#8217;ottavo libro de madrigali a cinque voci</em> (Venice: Angelo Gardano press, 1586)
+</p>
+</li>
+<li>
+<p>
+<a href="../giaches_de_wert/book_VIII_a5/single-parts/11-output">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Luzzascho Luzzaschi. <em>O dolcezze amarissime d&#8217;Amore</em>
+</p>
+</li>
+<li>
+<p>
+Bartolomeo Tromboncino. <em>Queste non son più lachryme che fore</em>
+</p>
+</li>
+<li>
+<p>
+Bartolomeo Tromboncino. <em>Aqua non e l&#8217;humor che versan gli occhi</em>
+</p>
+</li>
+<li>
+<p>
+Filippo Verdelot. <em>Con lagrime, et sospir negando porge</em>
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<a href="../philippe_verdelot/book_I_a4/single-parts/05-output/">Typeset Edition</a>
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Francesco Corteccia. <em>Vatten&#8217;almo riposo ecco ch&#8217;io torno</em>
+</p>
+</li>
+<li>
+<p>
+Baldissera Donato. <em>Dolce mia ben dolce comba mia</em>
+</p>
+</li>
+</ol></div>
+</div>
+</div>
+</div>
+<div id="footnotes"><hr></div>
+<div id="footer">
+<div id="footer-text">
+Last updated
+ 2024-10-11 19:44:02 CDT
+</div>
+</div>
+</body>
+</html>
