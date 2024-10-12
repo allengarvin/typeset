@@ -29,7 +29,7 @@ cantoXX = \relative c'' {
 
 cantoLyricsXX = \lyricmode {
     S'o -- gni mio ben a -- ve -- te
-    Rac -- col -- to, __ in le ro -- sa -- te vo -- stre lab -- bia,
+    Rac -- col -- to __ in le ro -- sa -- te vo -- stre lab -- bia,
         vo -- stre lab -- bia,
     Per -- ché, 
     Per -- ché, 
@@ -76,7 +76,7 @@ altoXX = \relative c'' {
 
 altoLyricsXX = \lyricmode {
     S'o -- gni mio ben a -- ve -- te
-    Rac -- col -- to, in le ro -- sa -- te,
+    Rac -- col -- to in le ro -- sa -- te,
         in le ro -- sa -- te vo -- stre lab -- bia,
         in le ro -- sa -- te vo -- stre lab -- bia,
     Per -- ché, 
@@ -129,7 +129,7 @@ tenoreXX = \relative c' {
 
 tenoreLyricsXX = \lyricmode {
     S'o -- gni mio ben a -- ve -- te
-    Rac -- col -- to, in le ro -- sa -- te vo -- stre lab -- bia,
+    Rac -- col -- to in le ro -- sa -- te vo -- stre lab -- bia,
         in le ro -- sa -- te vo -- stre lab -- bia,
     Per -- ché, 
     Per -- ché, 
@@ -173,8 +173,8 @@ bassoXX = \relative c' {
 
 bassoLyricsXX = \lyricmode {
     S'o -- gni mio ben a -- ve -- te
-    Rac -- col -- to, 
-    Rac -- col -- to, in le ro -- sa -- te vo -- stre lab -- bia,
+    Rac -- col -- to 
+    Rac -- col -- to in le ro -- sa -- te vo -- stre lab -- bia,
         in le ro -- sa -- te vo -- stre lab -- bia,
     Per -- ché, 
     Per -- ché, 
@@ -223,7 +223,7 @@ quintoXX = \relative c' {
 
 quintoLyricsXX = \lyricmode {
     S'o -- gni mio ben a -- ve -- te
-    Rac -- col -- to, in le ro -- sa -- te,
+    Rac -- col -- to in le ro -- sa -- te,
         in le ro -- sa -- te vo -- stre lab -- bia,
         in le ro -- sa -- te vo -- stre lab -- bia,
     Per -- ché, 
@@ -272,9 +272,9 @@ sestoXX = \relative c' {
 
 sestoLyricsXX = \lyricmode {
     S'o -- gni mio ben a -- ve -- te
-    Rac -- col -- to, 
+    Rac -- col -- to 
     S'o -- gni mio ben a -- ve -- te
-    Rac -- col -- to, in le ro -- sa -- te vo -- stre lab -- bia,
+    Rac -- col -- to in le ro -- sa -- te vo -- stre lab -- bia,
         in le ro -- sa -- te vo -- stre lab -- bia,
     Per -- ché, 
     Per -- ché, 

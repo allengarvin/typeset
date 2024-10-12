@@ -1,0 +1,63 @@
+\version "2.22.1"
+\include "english.ly"
+
+% Invocation: /usr/local/bin/generate-single.py -t "Veggio dolce ben mio" -l italian -m 86 -s 17 -v -p madrigal 18-ingegneri-a4-0-score.ly --subsubtitle "transposed down" canto:t alto:ta tenore:8a basso:b
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    lastupdated = "2024-10-09"
+    originallyset = "2024-10-09"
+    \include "include/distribution-header.ly"
+ 
+    % Things that change per piece:
+    title = "Veggio dolce ben mio"
+    subtitle = ""
+    subsubtitle = "transposed down"
+    instrument = "Veggio dolce ben mio:  (tenore)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "veggio_dolce_ben_mio"
+    shortcomp = "ingegneri"
+
+    % Things that change per part:
+    partname = "Tenore (part 3 of 4)"
+    instrument = "Veggio dolce ben mio:  (tenore)"
+
+    % Unchanging:
+    tagline = #'f
+}
+
+\include "../parts/18-ingegneri-a4-madrigal.ly"
+
+\book {
+    \bookOutputName "18-ingegneri--veggio_dolce_ben_mio-"
+    \bookOutputSuffix "transposed--3-tenore--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global\transpose f c 
+            \tenoreXVIII
+        >>
+                \addlyrics { \tenoreLyricsXVIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "18-ingegneri--veggio_dolce_ben_mio-"
+    \bookOutputSuffix "transposed--3-tenore--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global\transpose f c 
+            \tenoreXVIII
+        >>
+                \addlyrics { \tenoreLyricsXVIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

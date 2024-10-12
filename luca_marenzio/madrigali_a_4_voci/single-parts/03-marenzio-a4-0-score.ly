@@ -8,17 +8,17 @@
 
 \header {
     % Things that change per piece:
-    title = "Veggo, dolce mio bene"
-    folio = "Anonymous"
-    instrument = "Veggo, dolce mio bene (score)"
-    needtranslation = #'t
+    title = "Veggo dolce mio bene"
+    instrument = "Veggo dolce mio bene (score)"
+    needtranslation = #'f
 
     % Unchanging:
     lastupdated = "2012-12-23"
     flats = 1
     final = "d"
     shorttitle = "veggo_dolce_mio_bene"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort,amore,eyes]"
     \include "include/distribution-header.ly"
     language = "italian"
     tagline = #'f
@@ -68,19 +68,39 @@
                 \addlyrics { \bassoLyricsIII }
             >>
         >>
+        \midi {
+            \context {
+                \Score
+                tempoWholesPerMinute = #(ly:make-moment 84 2)
+            }
+        }
         \include "../include/vocal-layout-score-barring.ly"
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Veggo dolce mio bene }
-                \line { Nel volger un vivo lume }
-                \line { Che per che mi consume, }
-                \line { Di soverchia dolcezza e chieggio aita }
-                \line { Quasi al fin de mia vita }
-                \line { Ché non mi sia il morire, }
-                \line { Si tosto fin del mio dolce languire. }
+               % see ingegneri II a4
+               \line { Veggo dolce mio bene, }
+               \line { nel volger de' vostri occhi un vivo lume, }
+               \line { che par che mi consume }
+               \line { di soverchia dolcezza e chieggo aita, }
+               \line { quasi al fin di mia vita, }
+               \line { che non mi sia'l morire }
+               \line { sì tosto fin del mio dolce languire. }
             }
+           \column {
+               % translation orig date: 2024-10-09
+               % translation updated:
+               % SKIP master ingegneri II a4
+                \line { I see, my sweet love, }
+                \line { in the turning of your eyes a living light, }
+                \line { that seems to consume me }
+                \line { with unbearable sweetness, and I beg for help, }
+                \line { almost at the end of my life, }
+                \line { that death may not be for me }
+                \line { so quickly the cessation of my sweet languishing. }
+                \line { \hspace #10 \italic { translation by editor } }
+           }
         }
     }
 }

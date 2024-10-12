@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Hor, se mi mostra la mia carta il vero"
+    title = "Or, se mi mostra la mia carta il vero"
     subtitle = "Prima parte"
-    instrument = "Hor se mi mostra (score)"
+    instrument = "Or se mi mostra (score)"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLVI ottava 1 }
@@ -22,7 +22,7 @@
     lastupdated = "2013-05-15"
     flats = 0
     final = "c"
-    shorttitle = "hor_se_mi_mostra"
+    shorttitle = "or_se_mi_mostra"
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
@@ -32,7 +32,7 @@
 \include "../parts/19-striggio-a6-madrigal.ly"
     
 \book {
-    \bookOutputName "19-striggio--hor_se_mi_mostra"
+    \bookOutputName "19-striggio--or_se_mi_mostra"
     \bookOutputSuffix "--0-score"
     \score {
          <<

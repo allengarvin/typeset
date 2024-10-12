@@ -20,6 +20,7 @@
     shorttitle = "quando_dagli_occhi_del_divin_mio_sole"
     shortcomp = "sessa"
     categories = "[madrigal]"
+    poeticform = "sonnet"
     final = "c"
     flats = 0
     needtranslation = #'t

@@ -14,7 +14,6 @@
     instrument = "S'ogni mio ben havete (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous"
 
     % Unchanging:
     originallyset = "2013-11-17"
@@ -23,6 +22,9 @@
     final = "g"
     shorttitle = "sogni_mio_ben_havete"
     categories = "[madrigal]"
+    motifs = "[lips,amore]"
+    poeticform = "madrigal"
+    rhyme = "aBAcc"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -99,11 +101,21 @@
         \fill-line {
             \column {
                 \line { S'ogni mio ben avete }
-                \line { Raccolto, in le rosate vostre labbia, }
-                \line { Perché tal' or a me non le porgete? }
+                \line { raccolto in le rosate vostre labbia, }
+                \line { perché tal' or a me non le porgete? }
                 \line { È pur giusto che anch'io }
-                \line { Almen ricupro il mio. }
+                \line { almen ricupro il mio. }
             }
+           \column {
+               % translation orig date: 2024-10-06
+               % translation updated:
+                \line { If every joy of mine you have }
+                \line { gathered in your rosy lips, }
+                \line { why not grant them to me now? }
+                \line { Surely it is just that I also }
+                \line { at least recover what is mine. }
+                \line { \hspace #10 \italic { translation by editor } }
+           }
         }
     }
 }

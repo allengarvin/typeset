@@ -11,18 +11,18 @@
 
 \header {
     % Things that change per piece:
-    title = "Hor, se mi mostra la mia carta il vero"
+    title = "Or, se mi mostra la mia carta il vero"
     subtitle = "Prima parte"
     folio = \markup { Ludovico Ariosto, \italic { Orlando Furioso } Canto XLVI ottava 1 }
 
     % Things that change per part:
     partname = "Alto (part 2 of 6)"
-    instrument = "Hor se mi mostra (alto)"
+    instrument = "Or se mi mostra (alto)"
 
     % Unchanging:
     originallyset = "2013-05-15"
     lastupdated = "2013-05-15"
-    shorttitle = "hor_se_mi_mostra"
+    shorttitle = "or_se_mi_mostra"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -30,7 +30,7 @@
 \include "../parts/19-striggio-a6-madrigal.ly"
     
 \book {
-    \bookOutputName "19-striggio--hor_se_mi_mostra"
+    \bookOutputName "19-striggio--or_se_mi_mostra"
     \bookOutputSuffix "--2-alto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -45,7 +45,7 @@
 }
 
 \book {
-    \bookOutputName "19-striggio--hor_se_mi_mostra"
+    \bookOutputName "19-striggio--or_se_mi_mostra"
     \bookOutputSuffix "--2-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

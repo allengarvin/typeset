@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Et qual cervo ferito di saetta"
-    language = "latin"
+    language = "italian"
     instrument = "Et qual cervo (score)"
     subtitle = "Seconda parte"
     folio = \markup { Petrarca, \italic{Canzoniere} CCIX (209) }

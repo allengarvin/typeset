@@ -24,7 +24,8 @@
     shortcomp = "tresti"
     folio = \markup { Torquato Tasso, \italic{Rime amorose estravaganti} }
     categories = "[madrigal]"
-    motifs = "[amore,cupid,kiss]"
+    motifs = "[cherubs,cupids,kiss,stolen-kiss,sleeping]"
+    rhyme = "AbAbcDDEfF"
     needtranslation = #'f
 
     % Unchanging:

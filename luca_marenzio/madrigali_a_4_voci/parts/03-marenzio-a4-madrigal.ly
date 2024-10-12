@@ -41,16 +41,16 @@ cantoLyricsIII = \lyricmode {
     un vi -- vo lu -- me
     Che per che mi con -- su -- me,
     Di so -- ver -- chia dol -- cez -- za
-    e chieg -- gio ai -- ta
-    e chieg -- gio ai -- ta
+    e chieg -- gio~a -- i -- ta
+    e chieg -- gio~a -- i -- ta
     Qua -- si~al fin de mia vi -- ta
-    Ché non mi sia~il mo -- ri -- re,
-    Si to -- sto fin del mio dol -- ce lan -- gui -- re,
-    e chieg -- gio ai -- ta
-    e chieg -- gio ai -- ta
+    Che non mi sia~il mo -- ri -- re,
+    Sì to -- sto fin del mio dol -- ce lan -- gui -- re,
+    e chieg -- gio~a -- i -- ta
+    e chieg -- gio~a -- i -- ta
     Qua -- si~al fin de mia vi -- ta
-    Ché non mi sia~il mo -- ri -- re,
-    Si to -- sto fin del mio dol -- ce lan -- gui -- re.
+    Che non mi sia~il mo -- ri -- re,
+    Sì to -- sto fin del mio dol -- ce lan -- gui -- re.
 }
 
 altoIIIincipit = \relative c' {
@@ -94,16 +94,16 @@ altoLyricsIII = \lyricmode {
     un vi -- vo lu -- me
     Che per che mi con -- su -- me
     Di so -- ver -- chia dol -- cez -- za
-    e chieg -- gio ai -- ta
-    e chieg -- gio ai -- ta
+    e chieg -- gio~a -- i -- ta
+    e chieg -- gio~a -- i -- ta
     Qua -- si~al fin de mia vi -- ta
-    Ché non mi sia~il mo -- ri -- re,
-    Si to -- sto fin del mio dol -- ce lan -- gui -- re,
-    e chieg -- gio ai -- ta
-    e chieg -- gio ai -- ta
+    Che non mi sia~il mo -- ri -- re,
+    Sì to -- sto fin del mio dol -- ce lan -- gui -- re,
+    e chieg -- gio~a -- i -- ta
+    e chieg -- gio~a -- i -- ta
     Qua -- si~al fin de mia vi -- ta
-    Ché non mi sia~il mo -- ri -- re,
-    Si to -- sto fin del mio dol -- ce lan -- gui -- re.
+    Che non mi sia~il mo -- ri -- re,
+    Sì to -- sto fin del mio dol -- ce lan -- gui -- re.
 }
 
 tenoreIIIincipit = \relative c' {
@@ -146,18 +146,18 @@ tenoreLyricsIII = \lyricmode {
     Nel vol -- ger de vo -- str'oc -- chi un vi -- vo lu -- me
     Che per che mi con -- su -- me,
     Di so -- ver -- chia dol -- cez -- za
-    e chieg -- gio ai -- ta
-    e chieg -- gio ai -- ta
+    e chieg -- gio~a -- i -- ta
+    e chieg -- gio~a -- i -- ta
     Qua -- si~al fin de mia vi -- ta,
-    Ché non mi sia~il mo -- ri -- re,
-    Si to -- sto fin 
-    Si to -- sto fin del mio dol -- ce lan -- gui -- re,
-    e chieg -- gio ai -- ta
-    e chieg -- gio ai -- ta
+    Che non mi sia~il mo -- ri -- re,
+    Sì to -- sto fin 
+    Sì to -- sto fin del mio dol -- ce lan -- gui -- re,
+    e chieg -- gio~a -- i -- ta
+    e chieg -- gio~a -- i -- ta
     Qua -- si~al fin de mia vi -- ta,
-    Ché non mi sia~il mo -- ri -- re,
-    Si to -- sto fin 
-    Si to -- sto fin del mio dol -- ce lan -- gui -- re.
+    Che non mi sia~il mo -- ri -- re,
+    Sì to -- sto fin 
+    Sì to -- sto fin del mio dol -- ce lan -- gui -- re.
 }
 
 bassoIIIincipit = \relative c {
@@ -201,26 +201,26 @@ bassoLyricsIII = \lyricmode {
     Nel vol -- ger de' vo -- str'oc -- chi un vi -- vo lu -- me,
     Che per che mi con -- su -- me,
     Di so -- ver -- chia dol -- cez -- za
-    e chieg -- gio ai -- ta
-    e chieg -- gio ai -- ta
+    e chieg -- gio~a -- i -- ta
+    e chieg -- gio~a -- i -- ta
     Qua -- si~al fin de mia vi -- ta,
-    Ché non mi sia~il mo -- ri -- re,
-    Si to -- sto fin 
-    Si to -- sto fin del mio dol -- ce lan -- gui -- re,
-    e chieg -- gio ai -- ta,
-    e chieg -- gio ai -- ta,
+    Che non mi sia~il mo -- ri -- re,
+    Sì to -- sto fin 
+    Sì to -- sto fin del mio dol -- ce lan -- gui -- re,
+        e chieg -- gio~a -- i -- ta,
+    e chieg -- gio~a -- i -- ta,
     Qua -- si~al fin de mia vi -- ta,
-    Ché non mi sia~il mo -- ri -- re,
-    Si to -- sto fin 
-    Si to -- sto fin del mio dol -- ce lan -- gui -- re.
+    Che non mi sia~il mo -- ri -- re,
+    Sì to -- sto fin 
+    Sì to -- sto fin del mio dol -- ce lan -- gui -- re.
 }
 
 %Veggo, dolce mio bene,
 %Nel volger de' vostr'occhi un vivo lume
 %Che per che mi consume
-%Di soverchia dolcezza; e chieggio aita
+%Di soverchia dolcezza; e chieggio~a -- ita
 %Quasi al fin de mia vita
-%Ché non mi sia il morire
+%Che non mi sia il morire
 %Si tosto fin del mio dolce languire
 %
 %I see, O my sweet treasure

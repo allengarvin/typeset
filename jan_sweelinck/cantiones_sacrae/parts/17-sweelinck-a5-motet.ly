@@ -1,6 +1,6 @@
 cantusXVIIincipit = \relative c'' {
-    \time 4/4
     \clef "petrucci-g"
+    \time 4/4 \doubleTimeSig\defaultTimeSignature \time 3/2
     \key c \major
 
     c2.
@@ -33,13 +33,13 @@ cantusXVII = \relative c'' {
     fs4) g g fs | \time 6/2 g1 c,2 d2. c4 d2 | e1 fs2 g1. 
         r2 r c, d2. c4 d2 | c1 d2 e1. | r2 r a, b2. a4 b2 |
 
-    c1 d2 e1 e2 | \invisibleTime\time 3/2 f1 g2 | \fourTwoCommonTime
+    c1 d2 e1 e2 | \invisibleTime\defaultTimeSignature \time 3/2 f1 g2 | \fourTwoCommonTime
         a4 a f e d a' f e | d a' f d c g' e d | \invisibleTime\time 2/2
         s1*0\raisedTwoTwoTime
         c4 e d2 | \time 6/2 R\breve. | g2. f4 e2 
 
     % --- page ---
-    c2. d4 e2 | c c b c1 c2 | \invisibleTime\time 3/2 e2 g d | 
+    c2. d4 e2 | c c b c1 c2 | \invisibleTime\defaultTimeSignature \time 3/2 e2 g d | 
         \fourTwoCommonTime e2 e4 e d2 e | r1 g4( f e f | g f e d c2) c |
 
     c1 e2 e | e1 f4 g a g | f2 e r1 | r1 f4 g a g | f( e d2. cs8[ b] cs2) |
@@ -156,8 +156,8 @@ cantusLyricsXVII = \lyricmode {
 }
 
 altusXVIIincipit = \relative c' {
-    \time 4/4
     \clef "petrucci-c2"
+    \time 4/4 \doubleTimeSig\defaultTimeSignature \time 3/2
     \key c \major
 
     e2.
@@ -186,13 +186,13 @@ altusXVII = \relative c' {
         g1 e2 g2. a4 g2 | g1 a2 d,1 g2 |
 
     g2. g4 a2 d,1 g2 | e1 a2 gs2. fs4 gs2 | a1 f2 e1 e2 | a,2. a4 a'2 a1 a2 |
-        \invisibleTime \time 3/2 f1( e4 d | \fourTwoCommonTime e2) r4 a 
+        \invisibleTime \defaultTimeSignature \time 3/2 f1( e4 d | \fourTwoCommonTime e2) r4 a 
 
     a4 a a2 | a a4 g g2 g | \invisibleTime\time 2/2 
         s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
         g4 g g2 |
         \time 6/2 R\breve. | e2. f4 g2 a2. f4 g2 | g g g g1 g2 | 
-        \invisibleTime\time 3/2 g2 g g | \fourTwoCommonTime g2 g 
+        \invisibleTime\defaultTimeSignature \time 3/2 g2 g g | \fourTwoCommonTime g2 g 
     % --- page ---
     r2 r4 e | d2 e g g | g1 e4( d c d | e d e f g2) a | g a2. b4 c cs | 
         d2( c4 b a2) a | a4 b c b 
@@ -316,8 +316,8 @@ altusLyricsXVII = \lyricmode {
 }
 
 tenorXVIIincipit = \relative c' {
-    \time 4/4
     \clef "petrucci-c3"
+    \time 4/4 \doubleTimeSig\defaultTimeSignature \time 3/2
     \key c \major
 
     c2.
@@ -348,14 +348,14 @@ tenorXVII = \relative c' {
     c2 e8([ d e c] d4) e d d | \time 6/2 g,1 r2 r1 r2 | r r c b2. a4 b2 |
         c1 a2 g1 g2 | c2. b4 a2 e'1 e2 | a,1 a'2
 
-    gs2. fs4 gs2 | a1 f2 e1. | \invisibleTime\time 3/2 R1. | 
+    gs2. fs4 gs2 | a1 f2 e1. | \invisibleTime\defaultTimeSignature \time 3/2 R1. | 
         \fourTwoCommonTime
         r4 a, d cs d a d cs | d a d b c g c b |
     % --- page ---
     \invisibleTime\time 2/2 
         s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
         c4 c d2 | \time 6/2 g2. f4 e2 c2. d4 e2 |
-        R\breve. | c2 e g c,1 c2 | \invisibleTime\time 3/2 c2 g g |
+        R\breve. | c2 e g c,1 c2 | \invisibleTime\defaultTimeSignature \time 3/2 c2 g g |
         \fourTwoCommonTime g2 c4 c f2 e | r1 e4( d c d  |
 
     e d e f g2) g | g1 e4( d c d | e d c b a2) a | a1 r1 | f'4 g a g f2 d |
@@ -481,8 +481,8 @@ tenorLyricsXVII = \lyricmode {
 }
 
 bassusXVIIincipit = \relative c' {
-    \time 4/4
     \clef "petrucci-c4"
+    \time 4/4 \doubleTimeSig\defaultTimeSignature \time 3/2
     \key c \major
 
     c2.
@@ -509,13 +509,13 @@ bassusXVII = \relative c' {
     f8([ e f g] a[ g a f] g4) a g g | c,1 r1 | \time 6/2 r2 r c' b2. a4 b2 |
         c1 a2 g1. | r2 r c b2. a4 b2 | a1 f2 e1. | 
 
-    R\breve. | r2 r d' cs2. b4 cs2 | \invisibleTime\time 3/2 d1 bf2 |
+    R\breve. | r2 r d' cs2. b4 cs2 | \invisibleTime\defaultTimeSignature \time 3/2 d1 bf2 |
         \fourTwoCommonTime a2 r4 a d cs d a | d cs d g, c b c g |
 
     \invisibleTime\time 2/2 
         s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
         c4 c, g'2 | \time 6/2 R\breve. | 
-        c2. d4 e2 f2. d4 c2 | R\breve. | \invisibleTime\time 3/2
+        c2. d4 e2 f2. d4 c2 | R\breve. | \invisibleTime\defaultTimeSignature \time 3/2
         c,2 e g | \fourTwoCommonTime c,2 c r c | f e c1 ~ | c2 c c1 ~ |
         c c'4( b a b | 
     % --- page ---
@@ -626,8 +626,8 @@ bassusLyricsXVII = \lyricmode {
 }
 
 quintusXVIIincipit = \relative c'' {
-    \time 4/4
     \clef "petrucci-g"
+    \time 4/4 \doubleTimeSig\defaultTimeSignature \time 3/2
     \key c \major
 
     g2.
@@ -659,12 +659,12 @@ quintusXVII = \relative c'' {
     d'4 cs d d | \time 6/2 b2.( a4 g2) r1 r2 | r r c d2. c4 d2 | 
         e1 fs2 g1. | r2 r a, b2. a4 b2 | c1 d2 e1 e2 |
 
-    e1 f2 a1 r2 | \invisibleTime\time 3/2 a,2 a d | \fourTwoCommonTime
+    e1 f2 a1 r2 | \invisibleTime\defaultTimeSignature \time 3/2 a,2 a d | \fourTwoCommonTime
         cs2 r4 a' f e d a' | f e d g e d c g' | \invisibleTime\time 2/2
         s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
         e4 c b2 | \time 6/2 R\breve. |
     % --- page ---
-    c2. a4 c2 c2. b4 c2 | e g d e1 e2 | \invisibleTime\time 3/2 c2 c b |
+    c2. a4 c2 c2. b4 c2 | e g d e1 e2 | \invisibleTime\defaultTimeSignature \time 3/2 c2 c b |
         \fourTwoCommonTime c2 c r g | a g c c | c1 g'4( f e f | g f e d
 
     c2) c | c c2. b4 a e' | a,2 a f'4 g a g | f2 e r2 f4 g | a g f( d e1) |

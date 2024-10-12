@@ -27,6 +27,8 @@
     flats = 1
     final = "g"
     categories = "[madrigal]"
+    motifs = "[cherubs,cupids,kiss,stolen-kiss,sleeping]"
+    rhyme = "AbAbcDDEfF"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

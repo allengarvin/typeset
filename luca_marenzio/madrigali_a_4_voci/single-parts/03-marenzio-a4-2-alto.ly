@@ -9,12 +9,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Veggo, dolce mio bene"
-    folio = "Anonymous"
+    title = "Veggo dolce mio bene"
 
     % Things that change per part:
     partname = "Alto (part 2 of 4)"
-    instrument = "Veggo, dolce mio bene (alto)"
+    instrument = "Veggo dolce mio bene (alto)"
 
     % Unchanging:
     lastupdated = "2012-12-23"

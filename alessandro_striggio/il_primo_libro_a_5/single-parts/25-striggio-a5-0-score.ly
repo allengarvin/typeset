@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Miser' ahimè chi potrà più allegrarmi"
-    language = "latin"
+    language = "italian"
     instrument = "Miser' ahimè chi potrà (score)"
     folio = "Anonymous poet"
 

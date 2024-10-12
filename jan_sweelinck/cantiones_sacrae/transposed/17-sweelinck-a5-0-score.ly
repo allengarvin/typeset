@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Hodie Christus natus est"
     subtitle = ""
-    subsubtitle = "(transposed down a step)"
+    subsubtitle = "(transposed down a 5th)"
     instrument = "Hodie Christus natus est:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "hodie_christus_natus_est"
@@ -35,17 +35,17 @@
 
 \book {
     \bookOutputName "17-sweelinck--hodie_christus_natus_est-"
-    \bookOutputSuffix "transpose_wholestep--0-score"
+    \bookOutputSuffix "transpose-5th--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.7
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
                     \incipit \cantusXVIIincipitVoice
                     \clef "treble"
-                    \global\transpose d c
+                    \global\transpose g c
                     \cantusXVII
                 >>
                 \addlyrics { \cantusLyricsXVII }
@@ -53,15 +53,15 @@
                     \set Staff.instrumentName = #"Quintus"
                     \incipit \quintusXVIIincipitVoice
                     \clef "treble"
-                    \global\transpose d c
+                    \global\transpose g c
                     \quintusXVII
                 >>
                 \addlyrics { \quintusLyricsXVII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
                     \incipit \altusXVIIincipitVoice
-                    \clef "treble"
-                    \global\transpose d c
+                    \clef "treble_8"
+                    \global\transpose g c
                     \altusXVII
                 >>
                 \addlyrics { \altusLyricsXVII }
@@ -69,7 +69,7 @@
                     \set Staff.instrumentName = #"Tenor"
                     \incipit \tenorXVIIincipitVoice
                     \clef "treble_8"
-                    \global\transpose d c
+                    \global\transpose g c
                     \tenorXVII
                 >>
                 \addlyrics { \tenorLyricsXVII }
@@ -77,7 +77,7 @@
                     \set Staff.instrumentName = #"Bassus"
                     \incipit \bassusXVIIincipitVoice
                     \clef "bass"
-                    \global\transpose d c
+                    \global\transpose g c
                     \bassusXVII
                 >>
                 \addlyrics { \bassusLyricsXVII }

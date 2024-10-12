@@ -10,6 +10,11 @@
 
 % colo: colere
 
+% In praise of:
+% Alessandro Farnese, Duke of Parma, Piacenza e Castro (1545-1592)
+% https://en.wikipedia.org/wiki/Alexander_Farnese,_Duke_of_Parma
+
+
 cantoIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key f \major
@@ -39,7 +44,7 @@ cantoII = \relative c'' {
 
     a2 r4 c, ~ | c d e2 d2. f4 | c'4.( bf8 a4) c bf bf g2 | a1 a2 bf |
         a4 f2 a4 g2 f4 bf ~ | bf a c4. c8 a4 d2 c4 | 
-        bf4.( c8 d4) c bf2 a4 a | d bf a2 bf
+        bf4.( c8 d4) c bf2 a4 a | c bf a2 bf
 
     r4 f ~ | f g a2 g g4 bf | f4 f2 f4 e2 f4 a ~ | a bf c2 d4 bf2 a4 |
         d2 c g bf | a f4 a g1 | a2 r4 g2 bf f4 ~ |
@@ -172,8 +177,8 @@ tenoreIIincipit = \relative c' {
     c2
 }
 
+% tenore: checked against source
 tenoreII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
@@ -201,37 +206,32 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
-%    O ma -- gna -- ni -- mo Du -- ce: ec -- co,
-%        ec -- co,
-%        ec -- co pur ha -- i,
-%        ec -- co pur ha -- i
-%
-%    Quel -- la gio -- ia cui sen -- za
-%    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za,
-%    Quel -- la gio -- ia cui sen -- za
-%    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za.
-%
-%    Se tu gio -- i -- sci, an -- ch'io, che t'a -- mo~e co -- lo,
-%    Sen -- t'il tuo pro -- prio~af -- fet -- to,
-%    \ijLyrics
-%    Sen -- t'il tuo pro -- prio~af -- fet -- to,
-%    \normalLyrics
-%    E di tan -- to~al -- le -- grez -- z'ho col -- mo~il pet -- to,
-%        ho col -- mo~il pet -- to,
-%    % Che non ba -- stan -- do so -- lo
-%    % Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a:
+    O ma -- gna -- ni -- mo Du -- ce: ec -- co,
+        ec -- co pur ha -- i,
+        ec -- co pur ha -- i
+
+    Quel -- la gio -- ia cui sen -- za
+    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za.
+
+    Se tu gio -- i -- sci, an -- ch'io, che t'a -- mo~e co -- lo,
+    \ijLyrics
+        an -- ch'io, che t'a -- mo~e co -- lo,
+    \normalLyrics
+    Sen -- t'il tuo pro -- prio~af -- fet -- to,
+    E di tan -- to~al -- le -- grez -- z'ho __ col -- mo~il pet -- to,
+    Che non ba -- stan -- do so -- lo
+    Ad e -- spri -- mer -- la fuor la vo -- ce,
+        la vo -- ce,
+        la vo -- ce mi -- a:
+    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
+    Che non ba -- stan -- do so -- lo
 %    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
 %    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
 %    Che non ba -- stan -- do so -- lo
-%    Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a,
-%        la vo -- ce mi -- a:
-%    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Di più vo -- ci,
-%    \ijLyrics
-%    Di più vo -- ci
-%    \normalLyrics
-%        ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%        ne fac -- cio~u -- n'ar -- mo -- ni -- a.
+    Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a:
+    Di __ più vo -- ci ne fac -- cio,
+        ne __ fac -- cio~u -- n'ar -- mo -- ni -- a,
+        ne fac -- cio~u -- n'ar -- mo -- ni -- a.
 }
 
 bassoIIincipit = \relative c {
@@ -242,8 +242,8 @@ bassoIIincipit = \relative c {
     c2
 }
 
+% basso: checked against source
 bassoII = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCommonTime
 
@@ -263,46 +263,43 @@ bassoII = \relative c {
 
     bf4 ef ~ | ef d f4. f8 d4 g2 f4 | bf2 f bf,4.( c8 d4. e8 | f2) bf, r1 | 
         R\breve | r1 r2 a ~ | a4 bf c2 g4 a bf2 | a4 f2 a4 g1 | f2 r2 r1 |
-        R\breve*3 | r1 r2 d' ~ | d4 e f2
+        R\breve R\breve*2 | r1 r2 d' ~ | d4 e f2
 
     c4 d ef2 | d4 bf2 d4 c2 f,4 f' ~ | f bf, f'2 bf,4 bf2 f4 | 
-        bf2 f'4 c ef2 bf | d f c1 | c,2 r4 c' ef2 bf | d f c1 |
+        bf2 f'4 c ef2 bf | d f c1 | f,2 r4 c' ef2 bf | d f c1 |
         f,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsII = \lyricmode {
-%    O ma -- gna -- ni -- mo Du -- ce: ec -- co,
-%        ec -- co,
-%        ec -- co pur ha -- i,
-%        ec -- co pur ha -- i
-%
-%    Quel -- la gio -- ia cui sen -- za
-%    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za,
-%    Quel -- la gio -- ia cui sen -- za
-%    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za.
-%
-%    Se tu gio -- i -- sci, an -- ch'io, che t'a -- mo~e co -- lo,
-%    Sen -- t'il tuo pro -- prio~af -- fet -- to,
-%    \ijLyrics
-%    Sen -- t'il tuo pro -- prio~af -- fet -- to,
-%    \normalLyrics
-%    E di tan -- to~al -- le -- grez -- z'ho col -- mo~il pet -- to,
-%        ho col -- mo~il pet -- to,
-%    % Che non ba -- stan -- do so -- lo
-%    % Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a:
-%    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Che non ba -- stan -- do so -- lo
-%    Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a,
-%        la vo -- ce mi -- a:
-%    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Di più vo -- ci,
-%    \ijLyrics
-%    Di più vo -- ci
-%    \normalLyrics
-%        ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%        ne fac -- cio~u -- n'ar -- mo -- ni -- a.
+%    O ma -- gna -- ni -- mo Du -- ce: ec -- co pur ha -- i,
+        
+        Ec -- co,
+    O __ ma -- gna -- ni -- mo Du -- ce: 
+        ec -- co pur ha -- i,
+        ec -- co pur ha -- i
+
+    Quel -- la gio -- ia cui sen -- za
+    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za,
+    Quel -- la gio -- ia cui sen -- za
+    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za.
+
+    Se tu gio -- i -- sci,
+    Se tu gio -- i -- sci, an -- ch'io,
+        an -- ch'io, che t'a -- mo~e co -- lo,
+    Sen -- t'il tuo pro -- prio~af -- fet -- to,
+    E di tan -- to~al -- le -- grez -- z'ho col -- mo~il pet -- to,
+        ho col -- mo~il pet -- to,
+    Che non ba -- stan -- do so -- lo
+    Ad __ e -- spri -- mer -- la fuor la vo -- ce mi -- a:
+    Di __ più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
+    Di __ più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
+    Di __ più vo -- ci,
+    \ijLyrics
+    Di più vo -- ci
+    \normalLyrics
+        ne fac -- cio~u -- n'ar -- mo -- ni -- a,
+        ne fac -- cio~u -- n'ar -- mo -- ni -- a.
 }
 
 quintoIIincipit = \relative c {
@@ -313,17 +310,17 @@ quintoIIincipit = \relative c {
     f2. 
 }
 
+% quinto: checked against source
 quintoII = \relative c {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
     r2 f2. bf4 a4. a8 | g2 f c' r2 | r1 r2 g | c4 bf4. a8 a4 d2 c |
-        r4 c2 f, c'4 b c ~ | c8([ b16 a] b4) c1 r2 | r1 c4 g c4.( bf8 |
+        r4 c2 f, c'4 b( c ~ | c8[ b16 a] b4) c1 r2 | r1 c4 g c4.( bf8 |
         c[ bf a g]
 
     a4) g r4 e f2 | c r2 r1 | R\breve*2 | r2 r4 f2 bf4 a2 | a4 f g2 a g |
-        a4 b c d c4. bf8 a4 c | b c4.( b16[ a] b4) c1 | R\breve | 
+        a4 b c d c4. bf8 a4 c | b( c4. b16[ a] b4) c1 | R\breve | 
         r2 r4 g a b c2 ~ | c4( bf8[ a]
 
     bf2) a r2 | r2 g a4 b c4.( bf16[ a] | bf2) a4 g a2 r2 | r2 f' e f4 d ~ |
@@ -344,37 +341,31 @@ quintoII = \relative c {
 }
 
 quintoLyricsII = \lyricmode {
-%    O ma -- gna -- ni -- mo Du -- ce: ec -- co,
-%        ec -- co,
-%        ec -- co pur ha -- i,
-%        ec -- co pur ha -- i
-%
-%    Quel -- la gio -- ia cui sen -- za
-%    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za,
-%    Quel -- la gio -- ia cui sen -- za
-%    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za.
-%
-%    Se tu gio -- i -- sci, an -- ch'io, che t'a -- mo~e co -- lo,
-%    Sen -- t'il tuo pro -- prio~af -- fet -- to,
+    O ma -- gna -- ni -- mo Du -- ce,
+    O ma -- gna -- ni -- mo Du -- ce: 
+        ec -- co pur ha -- i
+
+    Quel -- la gio -- ia cui sen -- za
+    Quel -- la gio -- ia cui sen -- za
+    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za.
+
+    Se tu gio -- i -- sci,
+    Se tu gio -- i -- sci, an -- ch'io,
+        an -- ch'io, che t'a -- mo~e co -- lo,
+    Sen -- t'il tuo pro -- prio~af -- fet -- to,
 %    \ijLyrics
 %    Sen -- t'il tuo pro -- prio~af -- fet -- to,
 %    \normalLyrics
-%    E di tan -- to~al -- le -- grez -- z'ho col -- mo~il pet -- to,
-%        ho col -- mo~il pet -- to,
-%    % Che non ba -- stan -- do so -- lo
-%    % Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a:
+    E __ di tan -- to~al -- le -- grez -- z'ho col -- mo~il pet -- to,
+    Che non ba -- stan -- do so -- lo
+    Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a:
+    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
 %    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Che non ba -- stan -- do so -- lo
-%    Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a,
-%        la vo -- ce mi -- a:
-%    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Di più vo -- ci,
-%    \ijLyrics
-%    Di più vo -- ci
-%    \normalLyrics
-%        ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%        ne fac -- cio~u -- n'ar -- mo -- ni -- a.
+    Che non ba -- stan -- do so -- lo
+    Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a:
+    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
+    Di __ più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
+        ne __ fac -- cio~u -- n'ar -- mo -- ni -- a.
 }
 
 sestoIIincipit = \relative c' {
@@ -385,8 +376,8 @@ sestoIIincipit = \relative c' {
     c2
 }
 
+% sesto: checked against source
 sestoII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
@@ -397,7 +388,7 @@ sestoII = \relative c' {
         r1 f,2 c | r4 f g bf a4. bf8 c4 c | d1 e | r1 r2 r4 d | a c
 
     g8([ a bf c] d2) g, | R\breve*2 | r1 r4 d' a2 | r4 d a bf c2 f, |   
-        r1 bf2 a4 bf | bf f g2 d r2 | R\breve*3 | r2 a' b4 c4. c8 a4 |
+        r1 bf2 a4 bf | bf f g2 d r2 | R\breve R\breve*2 | r2 a' b4 c4. c8 a4 |
         d2 c f4.( e8 d4) c |
 
     f4.( e8 d4) c r1 | r2 d ef d4 bf ~ | bf d c2 bf d |
@@ -414,36 +405,29 @@ sestoII = \relative c' {
 
 sestoLyricsII = \lyricmode {
 %    O ma -- gna -- ni -- mo Du -- ce: ec -- co,
-%        ec -- co,
-%        ec -- co pur ha -- i,
-%        ec -- co pur ha -- i
-%
-%    Quel -- la gio -- ia cui sen -- za
-%    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za,
-%    Quel -- la gio -- ia cui sen -- za
-%    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za.
-%
-%    Se tu gio -- i -- sci, an -- ch'io, che t'a -- mo~e co -- lo,
-%    Sen -- t'il tuo pro -- prio~af -- fet -- to,
-%    \ijLyrics
-%    Sen -- t'il tuo pro -- prio~af -- fet -- to,
-%    \normalLyrics
-%    E di tan -- to~al -- le -- grez -- z'ho col -- mo~il pet -- to,
-%        ho col -- mo~il pet -- to,
-%    % Che non ba -- stan -- do so -- lo
-%    % Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a:
-%    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Che non ba -- stan -- do so -- lo
-%    Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a,
-%        la vo -- ce mi -- a:
-%    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%    Di più vo -- ci,
-%    \ijLyrics
-%    Di più vo -- ci
-%    \normalLyrics
-%        ne fac -- cio~u -- n'ar -- mo -- ni -- a,
-%        ne fac -- cio~u -- n'ar -- mo -- ni -- a.
+        Ec -- co,
+        ec -- co,
+        ec -- co pur ha -- i,
+    \ijLyrics
+        ec -- co pur ha -- i,
+        ec -- co pur ha -- i
+    \normalLyrics
+
+    Quel -- la gio -- ia cui sen -- za
+    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za,
+    Po -- co t'e -- ra pia -- ce -- vo -- le Pia -- cen -- za.
+
+    Se tu gio -- i -- sci, an -- ch'io, che t'a -- mo~e co -- lo,
+    Sen -- t'il tuo pro -- prio~af -- fet -- to,
+    E di tan -- to~al -- le -- grez -- z'ho col -- mo~il pet -- to,
+    Che non ba -- stan -- do so -- lo
+    Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a:
+    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
+    Che non ba -- stan -- do so -- lo
+    Ad e -- spri -- mer -- la fuor la vo -- ce mi -- a: __
+    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
+    Di più vo -- ci ne fac -- cio~u -- n'ar -- mo -- ni -- a,
+        un __ ar -- mo -- ni -- a.
 }
 
 cantoIIincipitVoice = <<
