@@ -92,12 +92,11 @@
     \markup {
         \fill-line {
             \column {
-                \line { Or volge, Signor mio, l’undecimo anno }
-                \line { ch’i’ fui sommesso al dispietato giogo }
+                \line { Or volge, Signor mio, l'undecimo anno }
+                \line { ch'i’ fui sommesso al dispietato giogo }
                 \line { che sopra i più soggetti è più feroce. }
-                \line { \vspace #1 }
                 \line { Miserere del mio non degno affanno; }
-                \line { reduci i pensier’ vaghi a miglior luogo; }
+                \line { reduci i pensier' vaghi a miglior luogo; }
                 \line { ramenta lor come oggi fusti in croce. }
                 \line { \hspace #12 Petrarca, \italic{Canzoniere} LXII (62) }
             }
@@ -105,7 +104,6 @@
                 \line { Now, my Lord, the eleventh year revolves }
                 \line { since I was bowed under that pitiless yoke, }
                 \line { which to those most subject to it is most fierce. }
-                \line { \vspace #1 }
                 \line { Have pity on my unworthy suffering: }
                 \line { lead back my wandering thoughts to a better place: }
                 \line { remind them how you hung, today, upon the cross. }

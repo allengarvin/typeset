@@ -11,7 +11,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Mesola, il Po da lato, e ’l mar a fronte"
+    title = "Mesola, il Po da lato, e 'l mar a fronte"
     folio = \markup { Torquato Tasso, \italic{Rime} }
 
     % Things that change per part:

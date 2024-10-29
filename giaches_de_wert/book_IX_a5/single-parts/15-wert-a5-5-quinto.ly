@@ -9,13 +9,13 @@
 
 \header {
     % Things that change per piece:
-    title = "L’anima mia ferita"
-    instrument = "L’anima mia ferita (quinto)"
+    title = "L'anima mia ferita"
+    instrument = "L'anima mia ferita (quinto)"
     folio = "D. Ferrante Gonzaga" 
 
     % Things that change per part:
     partname = "Quinto (part 3 of 5)"
-    instrument = "L’anima mia ferita (quinto)"
+    instrument = "L'anima mia ferita (quinto)"
 
     % Unchanging:
     originallyset = "2017-09-13"

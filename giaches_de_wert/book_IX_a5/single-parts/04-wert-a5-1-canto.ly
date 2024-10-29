@@ -11,13 +11,13 @@
 
 \header {
     % Things that change per piece:
-    title = "Valle che de’ lamenti miei se’ piena"
+    title = "Valle che de' lamenti miei se' piena"
     subtitle = "Prima parte"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCI (301) }
 
     % Things that change per part:
     partname = "Canto (part 1 of 5)"
-    instrument = "Valle che de’ lamenti (canto)"
+    instrument = "Valle che de' lamenti (canto)"
 
     % Unchanging:
     originallyset = "2013-11-16"

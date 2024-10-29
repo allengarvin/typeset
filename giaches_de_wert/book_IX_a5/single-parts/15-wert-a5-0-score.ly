@@ -10,8 +10,8 @@
 
 \header {
     % Things that change per piece:
-    title = "L’anima mia ferita"
-    instrument = "L’anima mia ferita (score)"
+    title = "L'anima mia ferita"
+    instrument = "L'anima mia ferita (score)"
     needtranslation = #'t
     language = "italian"
     folio = "D. Ferrante Gonzaga" 
@@ -92,15 +92,15 @@
     \markup {
         \fill-line {
             \column { 
-                \line { L’anima mia ferita }
+                \line { L'anima mia ferita }
                 \line { versa per gli occhi fuore }
                 \line { un fiume di dolore; }
                 \line { a miglior tempo ho pianto }
                 \line { per sdegno, ò per timore: }
-                \line { queste non son più lagrime d’amore, }
-                \line { sangue del l’alma è il pianto, }
+                \line { queste non son più lagrime d'amore, }
+                \line { sangue del l'alma è il pianto, }
                 \line { che vien dalla ferita, }
-                \line { ond’esce col dolor l’alma e la vita. }
+                \line { ond'esce col dolor l’alma e la vita. }
             }
         }
     }

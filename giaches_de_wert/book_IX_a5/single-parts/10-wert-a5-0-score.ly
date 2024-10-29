@@ -94,12 +94,11 @@
             \column {
                 \line { Padre del ciel, dopo i perduti giorni, }
                 \line { dopo le notti vaneggiando spese, }
-                \line { con quel fero desio ch’al cor s’accese, }
+                \line { con quel fero desio ch'al cor s’accese, }
                 \line { mirando gli atti per mio mal sì adorni, }
-                \line { \vspace #1 }
-                \line { 5piacciati omai col Tuo lume ch’io torni }
+                \line { piacciati omai col Tuo lume ch'io torni }
                 \line { ad altra vita et a più belle imprese, }
-                \line { sì ch’avendo le reti indarno tese, }
+                \line { sì ch'avendo le reti indarno tese, }
                 \line { il mio duro adversario se ne scorni. }
                 \line { \hspace #12 Petrarca, \italic{Canzoniere} LXII (62) }
             }
@@ -108,7 +107,6 @@
                 \line { after the nights spent wandering, }
                 \line { with that fierce desire that burned in my heart, }
                 \line { gazing on limbs adorned to do me harm, }
-                \line { \vspace #1 }
                 \line { now may it please you by Your light I turn }
                 \line { to the greater life and the sweeter work, }
                 \line { so that my harsh adversary having cast }

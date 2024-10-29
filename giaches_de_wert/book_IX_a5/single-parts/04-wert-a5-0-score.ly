@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Valle che de’ lamenti miei se’ piena"
+    title = "Valle che de' lamenti miei se' piena"
     subtitle = "Prima parte"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCI (301) }
-    instrument = "Valle che de’ lamenti (score)"
+    instrument = "Valle che de' lamenti (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -86,14 +86,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Valle che de’ lamenti miei se’ piena, } 
+                \line { Valle che de' lamenti miei se' piena, } 
                 \line { fiume che spesso del mio pianger cresci, } 
                 \line { fere selvestre, vaghi augelli et pesci, } 
-                \line { che l’una et l’altra verde riva affrena, } 
-                \line { aria de’ miei sospir’ calda et serena, } 
+                \line { che l'una et l'altra verde riva affrena, } 
+                \line { aria de' miei sospir' calda et serena, } 
                 \line { dolce sentier che sì amaro riesci, } 
                 \line { colle che mi piacesti, or mi rincresci, } 
-                \line { ov’anchor per usanza Amor mi mena. } 
+                \line { ov'anchor per usanza Amor mi mena. } 
             }
             \column {
                 \line { Valley so filled with all my laments, } 
