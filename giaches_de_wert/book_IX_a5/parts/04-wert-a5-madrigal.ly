@@ -47,9 +47,9 @@ cantoIV = \relative c' {
 }
 
 cantoLyricsIV = \lyricmode {
-    Val -- le che de’ la -- men -- ti miei __ se’ pie -- na,
-        che de la -- men -- ti miei se’ pie -- na,
-    Val -- le che de la -- men -- ti miei se’ pie -- na,
+    Val -- le che de' la -- men -- ti miei __ se' pie -- na,
+        che de la -- men -- ti miei se' pie -- na,
+    Val -- le che de la -- men -- ti miei se' pie -- na,
     Fiu -- me,
     Fiu -- me che spes -- so del mio pian -- ger cre -- sci,
         che spes -- so del mio pian -- ger cre -- sci,
@@ -62,9 +62,9 @@ cantoLyricsIV = \lyricmode {
     \ijLyrics
         va -- ghi~au -- gel -- li~e pe -- sci,
     \normalLyrics
-    Che l’u -- na~e l’al -- tra ver -- de ri -- va~af -- fre -- na,
+    Che l'u -- na~e l'al -- tra ver -- de ri -- va~af -- fre -- na,
 
-    A -- ria de’ miei so -- spir cal -- da~e se -- re -- na,
+    A -- ria de' miei so -- spir cal -- da~e se -- re -- na,
     Dol -- ce __ sen -- tier __ che sì~a -- ma -- ro __ ri -- e -- sci,
         che sì~a -- ma -- ro ri -- e -- sci,
     Col -- le che mi pia -- ce -- sti, or mi rin -- cre -- sci,
@@ -123,9 +123,9 @@ altoIV = \relative c' {
 }
 
 altoLyricsIV = \lyricmode {
-    Val -- le che de’ la -- men -- ti miei se’ pie -- na,
-    Val -- le che de’ la -- men -- ti miei se’ pie -- na,
-    Val -- le che de’ la -- men -- ti miei se’ pie -- na,
+    Val -- le che de' la -- men -- ti miei se' pie -- na,
+    Val -- le che de' la -- men -- ti miei se' pie -- na,
+    Val -- le che de' la -- men -- ti miei se' pie -- na,
     Fiu -- me,
     Fiu -- me,
     Fiu -- me, che spes -- so del mio pian -- ger cre -- sci,
@@ -139,10 +139,10 @@ altoLyricsIV = \lyricmode {
         va -- ghi~au -- gel -- li~e pe -- sci,
         va -- ghi~au -- gel -- li~e pe -- sci,
     \normalLyrics
-    Che l’u -- na~e l’al -- tra ver -- de ri -- va~af -- fre -- na,
-    Che l’u -- na~e l’al -- tra ver -- de ri -- va~af -- fre -- na,
+    Che l'u -- na~e l'al -- tra ver -- de ri -- va~af -- fre -- na,
+    Che l'u -- na~e l'al -- tra ver -- de ri -- va~af -- fre -- na,
 
-    A -- ria de’ miei so -- spir cal -- da~e se -- re -- na,
+    A -- ria de' miei so -- spir cal -- da~e se -- re -- na,
     Dol -- ce __ sen -- tier che sì~a -- ma -- ro ri -- e -- sci,
     \ijLyrics
         che sì~a -- ma -- ro ri -- e -- sci,
@@ -201,9 +201,9 @@ tenoreIV = \relative c {
 }
 
 tenoreLyricsIV = \lyricmode {
-    Val -- le che de’ la -- men -- ti miei se’ pie -- na, __
+    Val -- le che de' la -- men -- ti miei se' pie -- na, __
         che de la -- men -- ti miei,
-        che de la -- men -- ti miei se’ pie -- na, 
+        che de la -- men -- ti miei se' pie -- na, 
     Fiu -- me, __ che spes -- so del mio pian -- ger cre -- sci,
     Fe -- re sel -- ve -- stre, va -- ghi~au -- gel -- li~e pe -- sci, __
     \ijLyrics
@@ -215,9 +215,9 @@ tenoreLyricsIV = \lyricmode {
         va -- ghi~au -- gel -- li~e pe -- sci,
     \normalLyrics
     Fe -- re sel -- ve -- stre, va -- ghi~au -- gel -- li~e pe -- sci,
-    Che l’u -- na~e l’al -- tra ver -- de ri -- va~af -- fre -- na,
+    Che l'u -- na~e l'al -- tra ver -- de ri -- va~af -- fre -- na,
 
-    A -- ria de’ miei so -- spir cal -- da~e se -- re -- na,
+    A -- ria de' miei so -- spir cal -- da~e se -- re -- na,
     Dol -- ce sen -- tier che __ sì~a -- ma -- ro __ ri -- e -- sci,
     Col -- le che mi pia -- ce -- sti, or mi rin -- cre -- sci,
     O -- ve~an -- cor per u -- san -- za~A -- mor mi me -- na,
@@ -271,9 +271,9 @@ bassoIV = \relative c {
 }
 
 bassoLyricsIV = \lyricmode {
-    Val -- le che de’ la -- men -- ti miei se’ pie -- na,
+    Val -- le che de' la -- men -- ti miei se' pie -- na,
     \ijLyrics
-    Val -- le che de’ la -- men -- ti miei se’ pie -- na,
+    Val -- le che de' la -- men -- ti miei se' pie -- na,
     \normalLyrics
     Fiu -- me, __ che spes -- so del mio pian -- ger cre -- sci,
     Fe -- re sel -- ve -- stre, va -- ghi~au -- gel -- li~e pe -- sci,
@@ -281,9 +281,9 @@ bassoLyricsIV = \lyricmode {
     \ijLyrics
         va -- ghi~au -- gel -- li~e pe -- sci,
     \normalLyrics
-    Che l’u -- na~e l’al -- tra ver -- de ri -- va~af -- fre -- na,
+    Che l'u -- na~e l'al -- tra ver -- de ri -- va~af -- fre -- na,
 
-    A -- ria de’ miei so -- spir cal -- da~e se -- re -- na,
+    A -- ria de' miei so -- spir cal -- da~e se -- re -- na,
     Dol -- ce __ sen -- tier,
     \ijLyrics
     Dol -- ce sen -- tier 
@@ -340,8 +340,8 @@ quintoIV = \relative c' {
 }
 
 quintoLyricsIV = \lyricmode {
-    Val -- le che de’ la -- men -- ti miei se’ pie -- na,
-    Val -- le che de’ la -- men -- ti miei se’ pie -- na,
+    Val -- le che de' la -- men -- ti miei se' pie -- na,
+    Val -- le che de' la -- men -- ti miei se' pie -- na,
     Fiu -- me,
     Fiu -- me, che spes -- so del mio pian -- ger cre -- sci,
         cre -- sci,
@@ -353,9 +353,9 @@ quintoLyricsIV = \lyricmode {
     \ijLyrics
         va -- ghi~au -- gel -- li~e pe -- sci,
     \normalLyrics
-    Che l’u -- na~e l’al -- tra ver -- de ri -- va~af -- fre -- na,
+    Che l'u -- na~e l'al -- tra ver -- de ri -- va~af -- fre -- na,
 
-    A -- ria de’ miei so -- spir cal -- da~e se -- re -- na,
+    A -- ria de' miei so -- spir cal -- da~e se -- re -- na,
         cal -- da~e se -- re -- na,
     Dol -- ce __ sen -- tier __ che sì~a -- ma -- ro __ ri -- e -- sci,
     Col -- le che mi pia -- ce -- sti, or mi rin -- cre -- sci,

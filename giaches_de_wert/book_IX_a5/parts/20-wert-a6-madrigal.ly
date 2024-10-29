@@ -1,9 +1,9 @@
-%Mesola, il Po da lato, e ’l mar a fronte,
+%Mesola, il Po da lato, e 'l mar a fronte,
 %Ed intorno le mura e dentro i boschi,
 %E i seggi ombrosi e foschi
 %Fanno le tue bellezze altère e conte;
-%E sono opre d’Alfonso, e più non fece
-%Mai l’arte o la natura, e far non lece.
+%E sono opre d'Alfonso, e più non fece
+%Mai l'arte o la natura, e far non lece.
 
 cantoOneXXincipit = \relative c' {
     \time 2/2
@@ -54,8 +54,8 @@ cantoOneXX = \relative c' {
 
 cantoOneLyricsXX = \lyricmode {
     % Me -- so -- la, il Po da la -- to, 
-        E’l mar __ a fron -- te,
-     Me -- so -- la, il Po da la -- to, e’l mar __ a fron -- te,
+        E'l mar __ a fron -- te,
+     Me -- so -- la, il Po da la -- to, e'l mar __ a fron -- te,
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
         e den -- tro~i bo -- schi,
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
@@ -64,15 +64,15 @@ cantoOneLyricsXX = \lyricmode {
     E~i seg -- gi~om -- bro -- si~e fo -- schi
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te,
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te;
-    E so -- no~o -- pre d’Al -- fon -- so, e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    E so -- no~o -- pre d'Al -- fon -- so, e più non fe -- ce
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
         e far non le -- ce,
-    E so -- no~o -- pre d’Al -- fon -- so,
+    E so -- no~o -- pre d'Al -- fon -- so,
     \ijLyrics
-    E so -- no~o -- pre d’Al -- fon -- so, 
+    E so -- no~o -- pre d'Al -- fon -- so, 
     \normalLyrics
         e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
         e far non le -- ce,
             non le -- ce.
 }
@@ -120,9 +120,9 @@ cantoTwoXX = \relative c' {
 
 cantoTwoLyricsXX = \lyricmode {
     % Me -- so -- la, il Po da la -- to, 
-        E’l mar __ a fron -- te, __
+        E'l mar __ a fron -- te, __
     Ed in -- tor -- no le mu -- ra~e __ den -- tro~i bo -- schi,
-    Me -- so -- la, il Po da la -- to, e’l mar __ a fron -- te, __
+    Me -- so -- la, il Po da la -- to, e'l mar __ a fron -- te, __
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
     E~i seg -- gi~om -- bro -- si~e fo -- schi,
     E~i seg -- gi~om -- bro -- si~e fo -- schi,
@@ -132,19 +132,19 @@ cantoTwoLyricsXX = \lyricmode {
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te,
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te,
         al -- tè -- re~e con -- te;
-    E so -- no~o -- pre d’Al -- fon -- so, 
+    E so -- no~o -- pre d'Al -- fon -- so, 
     \ijLyrics
-    E so -- no~o -- pre d’Al -- fon -- so, 
+    E so -- no~o -- pre d'Al -- fon -- so, 
     \normalLyrics
         e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
         e far non le -- ce,
-    E so -- no~o -- pre d’Al -- fon -- so, 
+    E so -- no~o -- pre d'Al -- fon -- so, 
     \ijLyrics
-    E so -- no~o -- pre d’Al -- fon -- so, 
+    E so -- no~o -- pre d'Al -- fon -- so, 
     \normalLyrics
         e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
         e far non le -- ce.
 }
 
@@ -192,9 +192,9 @@ altoXX = \relative c' {
 }
 
 altoLyricsXX = \lyricmode {
-    Me -- so -- la, il Po da la -- to, e’l mar __ a fron -- te,
-     Me -- so -- la, il Po da la -- to, e’l mar __ a fron -- te,
-        e’l mar __ a fron -- te,
+    Me -- so -- la, il Po da la -- to, e'l mar __ a fron -- te,
+     Me -- so -- la, il Po da la -- to, e'l mar __ a fron -- te,
+        e'l mar __ a fron -- te,
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
     E~i seg -- gi~om -- bro -- si~e fo -- schi,
@@ -205,18 +205,18 @@ altoLyricsXX = \lyricmode {
         e fo -- schi
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te,
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te; __
-    E so -- no~o -- pre d’Al -- fon -- so,
-        o -- pre d’Al -- fon -- so, e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    E so -- no~o -- pre d'Al -- fon -- so,
+        o -- pre d'Al -- fon -- so, e più non fe -- ce
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
         e far non le -- ce,
     \ijLyrics
         e far non le -- ce,
     \normalLyrics
-    E so -- no~o -- pre d’Al -- fon -- so,
-        o -- pre d’Al -- fon -- so, e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    E so -- no~o -- pre d'Al -- fon -- so,
+        o -- pre d'Al -- fon -- so, e più non fe -- ce
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
         e far non le -- ce,
     \ijLyrics
         e far non le -- ce,
@@ -265,8 +265,8 @@ tenoreXX = \relative c' {
 }
 
 tenoreLyricsXX = \lyricmode {
-        E’l mar a fron -- te,
-     Me -- so -- la, il Po da la -- to, __ e’l mar __ a fron -- te,
+        E'l mar a fron -- te,
+     Me -- so -- la, il Po da la -- to, __ e'l mar __ a fron -- te,
         e den -- tro~i bo -- schi,
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
     E~i seg -- gi~om -- bro -- si~e fo -- schi,
@@ -274,9 +274,9 @@ tenoreLyricsXX = \lyricmode {
     E~i seg -- gi~om -- bro -- si~e fo -- schi
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te,
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te;
-    E so -- no~o -- pre d’Al -- fon -- so,
-        o -- pre d’Al -- fon -- so, e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    E so -- no~o -- pre d'Al -- fon -- so,
+        o -- pre d'Al -- fon -- so, e più non fe -- ce
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
     \ijLyrics
         e far non le -- ce,
     \normalLyrics
@@ -284,12 +284,12 @@ tenoreLyricsXX = \lyricmode {
     \ijLyrics
         e far non le -- ce,
     \normalLyrics
-    E so -- no~o -- pre d’Al -- fon -- so,
+    E so -- no~o -- pre d'Al -- fon -- so,
     \ijLyrics
-    E so -- no~o -- pre d’Al -- fon -- so, 
+    E so -- no~o -- pre d'Al -- fon -- so, 
     \normalLyrics
-        o -- pre d’Al -- fon -- so, e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+        o -- pre d'Al -- fon -- so, e più non fe -- ce
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
     \ijLyrics
         e più non fe -- ce,
     \normalLyrics
@@ -337,7 +337,7 @@ bassoXX = \relative c' {
 
 bassoLyricsXX = \lyricmode {
     Me -- so -- la, il Po da la -- to, 
-        E’l mar __ a fron -- te, __
+        E'l mar __ a fron -- te, __
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
         e den -- tro~i bo -- schi,
@@ -345,14 +345,14 @@ bassoLyricsXX = \lyricmode {
     E~i seg -- gi~om -- bro -- si~e fo -- schi,
         e fo -- schi,
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te,
-    E so -- no~o -- pre d’Al -- fon -- so, e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    E so -- no~o -- pre d'Al -- fon -- so, e più non fe -- ce
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
     \ijLyrics
         e far non le -- ce,
     \normalLyrics
         e far non le -- ce,
-    E so -- no~o -- pre d’Al -- fon -- so, e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    E so -- no~o -- pre d'Al -- fon -- so, e più non fe -- ce
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
     \ijLyrics
         e far non le -- ce,
     \normalLyrics
@@ -405,31 +405,31 @@ quintoXX = \relative c' {
 
 quintoLyricsXX = \lyricmode {
     Me -- so -- la, il Po da la -- to, 
-        E’l mar __ a fron -- te,
+        E'l mar __ a fron -- te,
     Ed in -- tor -- no __ le mu -- ra~e den -- tro~i bo -- schi,
-        e’l mar __ a fron -- te,
+        e'l mar __ a fron -- te,
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
     Me -- so -- la, il Po da la -- to, 
-        e’l mar __ a fron -- te,
+        e'l mar __ a fron -- te,
     Ed in -- tor -- no le mu -- ra~e den -- tro~i bo -- schi,
     E~i seg -- gi~om -- bro -- si~e fo -- schi,
     E~i seg -- gi~om -- bro -- si~e fo -- schi,
     E~i seg -- gi~om -- bro -- si~e fo -- schi
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te,
     Fan -- no le tue bel -- lez -- ze~al -- tè -- re~e con -- te;
-    E so -- no~o -- pre d’Al -- fon -- so, 
+    E so -- no~o -- pre d'Al -- fon -- so, 
     \ijLyrics
-    E so -- no~o -- pre d’Al -- fon -- so, 
+    E so -- no~o -- pre d'Al -- fon -- so, 
     \normalLyrics
         e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
         e far non le -- ce,
-    E so -- no~o -- pre d’Al -- fon -- so,
+    E so -- no~o -- pre d'Al -- fon -- so,
     \ijLyrics
-    E so -- no~o -- pre d’Al -- fon -- so, 
+    E so -- no~o -- pre d'Al -- fon -- so, 
     \normalLyrics
         e più non fe -- ce
-    Mai l’ar -- te~o la na -- tu -- ra, e far non le -- ce,
+    Mai l'ar -- te~o la na -- tu -- ra, e far non le -- ce,
         e far non le -- ce.
 }
 
