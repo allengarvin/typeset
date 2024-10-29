@@ -210,7 +210,7 @@ bassoLyricsII = \lyricmode {
     E'l tri -- sto suon de le que -- re -- le~an -- ti -- che,
         de le que -- re -- le~an -- ti -- che,
     \ijLyrics
-    de le que -- re -- le~an -- ti -- che. 
+    De le que -- re -- le~an -- ti -- che. 
     \normalLyrics
 
     U -- drai tu mar l'u -- sa -- te mie fa -- ti -- che,

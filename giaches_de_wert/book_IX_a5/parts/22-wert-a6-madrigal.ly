@@ -1,5 +1,5 @@
 %    Però boschi, palagi, e prati e valli,
-%    Secchi et ondosi calli,
+%    Secchi ed ondosi calli,
 %    Le fece il grande Alfonso,
 %    E cinse intorno Navi 
 %    E d'erranti fere ampio soggiorno,
@@ -49,7 +49,7 @@ cantoOneLyricsXXII = \lyricmode {
     \ijLyrics
         e pra -- ti~e val -- li,
     \normalLyrics
-    Sec -- chi~et on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
     Le fe -- ce~il gran -- de~Al -- fon -- so,
     Le fe -- ce~il gran -- de~Al -- fon -- so 
     E cin -- se~in -- tor -- no Na -- vi 
@@ -108,7 +108,7 @@ cantoTwoLyricsXXII = \lyricmode {
     Pe -- rò bo -- schi, pa -- la -- gi, 
     \normalLyrics
         e pra -- ti~e val -- li,
-    Sec -- chi~et on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
     Le fe -- ce~il gran -- de~Al -- fon -- so,
     \ijLyrics
     Le fe -- ce~il gran -- de~Al -- fon -- so, 
@@ -172,10 +172,10 @@ altoXXII = \relative c'' {
 altoLyricsXXII = \lyricmode {
         E pra -- ti~e val -- li,
     Pe -- rò bo -- schi, pa -- la -- gi~e pra -- ti~e val -- li,
-    Sec -- chi~et on -- do -- si cal -- li le fe -- ce,
+    Sec -- chi~ed on -- do -- si cal -- li le fe -- ce,
 
-    Sec -- chi~et on -- do -- si cal -- li,
-    Sec -- chi~et on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
     Le fe -- ce~il gran -- de~Al -- fon -- so,
 
     E cin -- se~in -- tor -- no Na -- vi 
@@ -232,9 +232,9 @@ tenoreXXII = \relative c' {
 tenoreLyricsXXII = \lyricmode {
     Pe -- rò bo -- schi, pa -- la -- gi, 
         e pra -- ti~e val -- li,
-    Sec -- chi~et on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
     Le fe -- ce~il gran -- de~Al -- fon -- so,
-    Sec -- chi~et on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
     Le fe -- ce~il gran -- de~Al -- fon -- so,
     Le fe -- ce~il gran -- de~Al -- fon -- so 
     E d'er -- ran -- ti fe -- re~am -- pio sog -- gior -- no,
@@ -288,9 +288,9 @@ bassoXXII = \relative c {
 bassoLyricsXXII = \lyricmode {
     Pe -- rò bo -- schi, pa -- la -- gi, 
         e __ pra -- ti~e val -- li,
-    Sec -- chi~et on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
     \ijLyrics
-    Sec -- chi~et on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
     \normalLyrics
     Le fe -- ce~il gran -- de~Al -- fon -- so,
     Le fe -- ce~il gran -- de~Al -- fon -- so 
@@ -339,8 +339,8 @@ quintoXXII = \relative c'' {
 quintoLyricsXXII = \lyricmode {
     Pe -- rò bo -- schi, pa -- la -- gi~e pra -- ti~e val -- li,
         bo -- schi, pa -- la -- gi, e pra -- ti~e val -- li,
-    Sec -- chi~et on -- do -- si cal -- li,
-    Sec -- chi~et on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
+    Sec -- chi~ed on -- do -- si cal -- li,
     Le fe -- ce~il gran -- de~Al -- fon -- so,
     E cin -- se~in -- tor -- no Na -- vi 
     E __ d'er -- ran -- ti fe -- re am -- pio sog -- gior -- no,
@@ -353,7 +353,7 @@ quintoLyricsXXII = \lyricmode {
 
     E~i di -- let -- ti sian glo -- rie,
     E tan -- te pre -- de sue tut -- te vit -- to -- rie~e
-    tan -- te pre -- de sue tut -- te vit -- to -- rie,
+    Tan -- te pre -- de sue tut -- te vit -- to -- rie,
         tut -- te vit -- to -- rie.
 }
 

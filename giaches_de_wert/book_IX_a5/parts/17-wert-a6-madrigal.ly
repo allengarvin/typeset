@@ -1,20 +1,20 @@
-% Quel rosignol, che sí soave piagne,
+% Quel rosignol, che sì soave piagne,
 % forse suoi figli, o sua cara consorte,
-% di dolcezza empie il cielo et le campagne
-% con tante note sí pietose et scorte,
+% di dolcezza empie il cielo e le campagne
+% con tante note sì pietose e scorte,
 %
-% et tutta notte par che m'accompagne,
-% et mi ramente la mia dura sorte:
-% ch'altri che me non ò di cui mi lagne,
+% e tutta notte par che m'accompagne,
+% e mi ramente la mia dura sorte:
+% ch'altri che me non ho di cui mi lagne,
 % ché 'n dee non credev'io regnasse Morte.
 %
 % O che lieve è inganar chi s'assecura!
 % Que' duo bei lumi assai piú che 'l sol chiari
-% chi pensò mai veder far terra oscura?
+% chi pensho mai veder far terra oscura?
 %
 % Or cognosco io che mia fera ventura
-% vuol che vivendo et lagrimando impari
-% come nulla qua giú diletta, et dura.
+% vuol che vivendo e lagrimando impari
+% come nulla qua giù diletta, e dura.
 % -- petrarch 311
 
 cantoOneXVIIincipit = \relative c' {
@@ -58,26 +58,26 @@ cantoOneXVII = \relative c' {
 
 cantoOneLyricsXVII = \lyricmode {
     Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne, __
-    For -- se suoi fi -- gli, ò __ sua ca -- ra con -- sor -- te,
-    Di dol -- cez -- za~em -- pie~il cie -- lo et le cam -- pa -- gne
-    Con tan -- te no -- te sì __ pie -- to -- se~et scor -- te,
-        sì pie -- to -- se~et scor -- te,
+    For -- se suoi fi -- gli, ho __ sua ca -- ra con -- sor -- te,
+    Di dol -- cez -- za~em -- pie~il cie -- lo e le cam -- pa -- gne
+    Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te,
+        sì pie -- to -- se~e scor -- te,
 
-    Et tut -- ta not -- te par che m’ac -- com -- pa -- gne,
-    et tut -- ta not -- te par che m’ac -- com -- pa -- gne,
-    Et mi ra -- men -- te la __ mia du -- ra sor -- te,
+    E tut -- ta not -- te par che m'ac -- com -- pa -- gne,
+    E tut -- ta not -- te par che m'ac -- com -- pa -- gne,
+    E mi ra -- men -- te la __ mia du -- ra sor -- te,
         la __ mia du -- ra sor -- te:
-    Ch’al -- tri che me non ò di cui mi la -- gne,
-    ch’al -- tri che me non ò di cui mi la -- gne,
-    Ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e, __
+    Ch'al -- tri che me non ho di cui mi la -- gne,
+    Ch'al -- tri che me non ho di cui mi la -- gne,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e, __
     \ijLyrics
-    ché’n de -- e
+    Ché'n de -- e
     \normalLyrics
-        non cre -- de -- v’io re -- gnas -- se Mor -- te, __
-        non cre -- de -- v’io re -- gnas -- se Mor -- te,
-        non cre -- de -- v’io re -- gnas -- se Mor -- te,
-        non cre -- de -- v’io re -- gnas -- se Mor -- te.
+        non cre -- de -- v'io re -- gnas -- se Mor -- te, __
+        non cre -- de -- v'io re -- gnas -- se Mor -- te,
+        non cre -- de -- v'io re -- gnas -- se Mor -- te,
+        non cre -- de -- v'io re -- gnas -- se Mor -- te.
 }
 
 cantoTwoXVIIincipit = \relative c' {
@@ -120,23 +120,23 @@ cantoTwoXVII = \relative c' {
 
 cantoTwoLyricsXVII = \lyricmode {
     Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne,
-    For -- se suoi fi -- gli, ò __ sua ca -- ra con -- sor -- te,
-    Di dol -- cez -- za~em -- pie~il cie -- lo~et le cam -- pa -- gne
-    Con tan -- te no -- te sì __ pie -- to -- se~et scor -- te, __
+    For -- se suoi fi -- gli, ho __ sua ca -- ra con -- sor -- te,
+    Di dol -- cez -- za~em -- pie~il cie -- lo~e le cam -- pa -- gne
+    Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te, __
 
-    Et tut -- ta not -- te par che m’ac -- com -- pa -- gne, __
-    Et mi ra -- men -- te la mia du -- ra sor -- te,
+    E tut -- ta not -- te par che m'ac -- com -- pa -- gne, __
+    E mi ra -- men -- te la mia du -- ra sor -- te,
         la mia du -- ra sor -- te:
-    Ch’al -- tri che me non ò di cui mi la -- gne,
-    Ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
-        non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e,
+    Ch'al -- tri che me non ho di cui mi la -- gne,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
+        non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e,
     \ijLyrics
-    ché’n de -- e
+    Ché'n de -- e
     \normalLyrics
-        non cre -- de -- v’io re -- gnas -- se Mor -- te.
+        non cre -- de -- v'io re -- gnas -- se Mor -- te.
 }
 
 altoXVIIincipit = \relative c' {
@@ -178,30 +178,30 @@ altoXVII = \relative c' {
 
 altoLyricsXVII = \lyricmode {
     Quel ro -- si -- gnol, __ che sì so -- a -- ve pia -- gne,
-    quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne, __
-    For -- se suoi fi -- gli~ò __ sua ca -- ra con -- sor -- te,
-    Di __ dol -- cez -- za~em -- pie~il cie -- lo~et le __ cam -- pa -- gne
+    Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne, __
+    For -- se suoi fi -- gli~ho __ sua ca -- ra con -- sor -- te,
+    Di __ dol -- cez -- za~em -- pie~il cie -- lo~e le __ cam -- pa -- gne
     Con tan -- te no -- te,
     \ijLyrics
-    con tan -- te no -- te
+    Con tan -- te no -- te
     \normalLyrics
-        sì __ pie -- to -- se~et scor -- te,
-        sì __ pie -- to -- se~et __ scor -- te,
+        sì __ pie -- to -- se~e scor -- te,
+        sì __ pie -- to -- se~e __ scor -- te,
 
-    Et tut -- ta not -- te par che m’ac -- com -- pa -- gne,
-    Et mi ra -- men -- te la mia du -- ra sor -- te,
-    et mi ra -- men -- te la __ mia du -- ra sor -- te,
-    Ch’al -- tri che me non ò di cui mi la -- gne,
-    Ché’n de -- e,
-    ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e,
-    ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e,
+    E tut -- ta not -- te par che m'ac -- com -- pa -- gne,
+    E mi ra -- men -- te la mia du -- ra sor -- te,
+    E mi ra -- men -- te la __ mia du -- ra sor -- te,
+    Ch'al -- tri che me non ho di cui mi la -- gne,
+    Ché'n de -- e,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e,
     \ijLyrics
-    ché’n de -- e,  __
+    Ché'n de -- e,  __
     \normalLyrics
-        non cre -- de -- v’io re -- gnas -- se Mor -- te,
-        non cre -- de -- v’io re -- gnas -- se Mor -- te. __
+        non cre -- de -- v'io re -- gnas -- se Mor -- te,
+        non cre -- de -- v'io re -- gnas -- se Mor -- te. __
 }
 
 tenoreXVIIincipit = \relative c {
@@ -241,26 +241,26 @@ tenoreXVII = \relative c {
 
 tenoreLyricsXVII = \lyricmode {
     Quel ro -- si -- gnol, __ che sì so -- a -- ve pia -- gne,
-    For -- se suoi fi -- gli~ò sua ca -- ra con -- sor -- te,
-    Di __ dol -- cez -- za~em -- pie~il cie -- lo et le __ cam -- pa -- gne
-    Con tan -- te no -- te sì __ pie -- to -- se~et scor -- te,
+    For -- se suoi fi -- gli~ho sua ca -- ra con -- sor -- te,
+    Di __ dol -- cez -- za~em -- pie~il cie -- lo e le __ cam -- pa -- gne
+    Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te,
 
-    Et tut -- ta not -- te par che m’ac -- com -- pa -- gne, __
-    Et mi ra -- men -- te la mia du -- ra sor -- te,
+    E tut -- ta not -- te par che m'ac -- com -- pa -- gne, __
+    E mi ra -- men -- te la mia du -- ra sor -- te,
         la __ mia du -- ra sor -- te:
-    Ch’al -- tri che me non ò di cui mi la -- gne,
-    Ché’n de -- e,
+    Ch'al -- tri che me non ho di cui mi la -- gne,
+    Ché'n de -- e,
     \ijLyrics
-    ché’n de -- e
+    Ché'n de -- e
     \normalLyrics
-        non cre -- de -- v’io re -- gnas -- se Mor -- te,
-        non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e,
+        non cre -- de -- v'io re -- gnas -- se Mor -- te,
+        non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e,
     \ijLyrics
-    ché’n de -- e
+    Ché'n de -- e
     \normalLyrics
-        non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te. __
+        non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te. __
 }
 
 bassoXVIIincipit = \relative c {
@@ -298,22 +298,22 @@ bassoXVII = \relative c {
 
 bassoLyricsXVII = \lyricmode {
     Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne,
-    For -- se suoi fi -- gli~ò sua ca -- ra con -- sor -- te,
-    Di dol -- cez -- za~em -- pie~il cie -- lo~et le __ cam -- pa -- gne
-    Con tan -- te no -- te sì __ pie -- to -- se~et scor -- te,
-        sì __ pie -- to -- se~et scor -- te,
+    For -- se suoi fi -- gli~ho sua ca -- ra con -- sor -- te,
+    Di dol -- cez -- za~em -- pie~il cie -- lo~e le __ cam -- pa -- gne
+    Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te,
+        sì __ pie -- to -- se~e scor -- te,
 
-    Et tut -- ta not -- te par che m’ac -- com -- pa -- gne, __
-    Et mi ra -- men -- te la __ mia du -- ra sor -- te, __
-    Ch’al -- tri che me non ò di cui mi la -- gne,
-    Ché’n de -- e,
-    ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e,
+    E tut -- ta not -- te par che m'ac -- com -- pa -- gne, __
+    E mi ra -- men -- te la __ mia du -- ra sor -- te, __
+    Ch'al -- tri che me non ho di cui mi la -- gne,
+    Ché'n de -- e,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e,
     \ijLyrics
-    ché’n de -- e
+    Ché'n de -- e
     \normalLyrics
-        non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
+        non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
         re -- gnas -- se Mor -- te.
 }
 
@@ -355,26 +355,26 @@ quintoXVII = \relative c' {
 
 quintoLyricsXVII = \lyricmode {
     Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne,
-    quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne,
-    For -- se suoi fi -- gli~ò sua ca -- ra con -- sor -- te,
-    Di dol -- cez -- za~em -- pie~il cie -- lo et le __ cam -- pa -- gne
-    Con tan -- te no -- te sì __ pie -- to -- se~et scor -- te,
-        sì pie -- to -- se~et scor -- te,
+    Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne,
+    For -- se suoi fi -- gli~ho sua ca -- ra con -- sor -- te,
+    Di dol -- cez -- za~em -- pie~il cie -- lo e le __ cam -- pa -- gne
+    Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te,
+        sì pie -- to -- se~e scor -- te,
 
-    Et tut -- ta not -- te par che m’ac -- com -- pa -- gne, __
-    Et mi ra -- men -- te la __ mia du -- ra sor -- te,
-    et mi ra -- men -- te,
+    E tut -- ta not -- te par che m'ac -- com -- pa -- gne, __
+    E mi ra -- men -- te la __ mia du -- ra sor -- te,
+    E mi ra -- men -- te,
         mi ra -- men -- te la mia du -- ra sor -- te:
-    Ch’al -- tri che me non ò di cui mi la -- gne,
-    Ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e,
+    Ch'al -- tri che me non ho di cui mi la -- gne,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e,
     \ijLyrics
-    ché’n de -- e,
+    Ché'n de -- e,
     \normalLyrics
-    ché’n de -- e
-        non cre -- de -- v’io re -- gnas -- se Mor -- te,
-    ché’n de -- e non cre -- de -- v’io re -- gnas -- se Mor -- te,
+    Ché'n de -- e
+        non cre -- de -- v'io re -- gnas -- se Mor -- te,
+    Ché'n de -- e non cre -- de -- v'io re -- gnas -- se Mor -- te,
             re -- gnas -- se Mor -- te.
 }
 

@@ -7,7 +7,7 @@
 % Questo ti fia per pegno
 % Che sarai tosto lieto
 % Or godi e taci
-% Chè son d'amor mute promesse i baci.
+% Ché son d'amor mute promesse i baci.
 
 cantoOneXIXincipit = \relative c'' {
     \time 2/2
@@ -47,28 +47,28 @@ cantoOneXIX = \relative c'' {
 cantoOneLyricsXIX = \lyricmode {
     Un ba -- cio so -- lo a tan -- te pe -- ne~hai cru -- da,
         a tan -- te pe -- ne~hai cru -- da
-    un ba -- cio so -- lo a tan -- te pe -- ne~hai cru -- da,
+    Un ba -- cio so -- lo a tan -- te pe -- ne~hai cru -- da,
     Un ba -- cio~a tan -- ta fe -- de
     La do -- vu -- ta mer -- ce -- de
     Non si pa -- ga bi -- cian -- do;
     Il ba -- cio~è se -- gno di fu -- tu -- ro di -- let -- to,
     E par che dic' an -- ch'e -- gli, 
     \ijLyrics
-    e par che dic' an -- ch'e -- gli~i
+    E par che dic' an -- ch'e -- gli~i
     \normalLyrics
         ti pro -- met -- to,
     Que -- sto ti fia per pe -- gno
     Che __ sa -- rai to -- sto lie -- to,
-    que -- sto ti fia per pe -- gno
-    che sa -- rai to -- sto lie -- to
+    Que -- sto ti fia per pe -- gno
+    Che sa -- rai to -- sto lie -- to
     Or go -- di~e ta -- ci,
-    or go -- di~e ta -- ci,
+    Or go -- di~e ta -- ci,
     \ijLyrics
-    or go -- di~e ta -- ci,
+    Or go -- di~e ta -- ci,
     \normalLyrics
-    Chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
-    or go -- di~e ta -- ci;
-    chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci.
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
+    Or go -- di~e ta -- ci;
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci.
 }
 
 cantoTwoXIXincipit = \relative c'' {
@@ -119,12 +119,12 @@ cantoTwoLyricsXIX = \lyricmode {
     \normalLyrics
     Que -- sto ti fia per pe -- gno
     Che sa -- rai to -- sto lie -- to,
-    che sa -- rai to -- sto lie -- to,
+    Che sa -- rai to -- sto lie -- to,
     Or go -- di~e ta -- ci
-    Chè son d'a -- mor mu -- te pro -- mes -- se~i __ ba -- ci,
-    or go -- di~e ta -- ci;
-    chè son d'a -- mor __ mu -- te pro -- mes -- se~i ba -- ci, 
-    chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci.
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i __ ba -- ci,
+    Or go -- di~e ta -- ci;
+    Ché son d'a -- mor __ mu -- te pro -- mes -- se~i ba -- ci, 
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci.
 }
 
 altoXIXincipit = \relative c' {
@@ -162,7 +162,7 @@ altoXIX = \relative c' {
 
 altoLyricsXIX = \lyricmode {
     Un ba -- cio so -- lo a tan -- te pe -- ne~hai cru -- da,
-    un ba -- cio so -- lo a tan -- te pe -- ne~hai cru -- da,
+    Un ba -- cio so -- lo a tan -- te pe -- ne~hai cru -- da,
     Un ba -- cio~a tan -- ta fe -- de
     La do -- vu -- ta mer -- ce -- de
     Non si pa -- ga bi -- cian -- do;
@@ -175,17 +175,17 @@ altoLyricsXIX = \lyricmode {
     Que -- sto ti fia per pe -- gno
     Che sa -- rai to -- sto lie -- to,
     \ijLyrics
-    che sa -- rai to -- sto lie -- to,
+    Che sa -- rai to -- sto lie -- to,
     \normalLyrics
     Or go -- di~e ta -- ci,
-    Chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
-    chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
-    or go -- di~e ta -- ci,
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
+    Or go -- di~e ta -- ci,
     \ijLyrics
-    or go -- di~e ta -- ci,
+    Or go -- di~e ta -- ci,
     \normalLyrics
-    or go -- di~e ta -- ci;
-    chè son d'a -- mor __ mu -- te pro -- mes -- se~i __ ba -- ci. __
+    Or go -- di~e ta -- ci;
+    Ché son d'a -- mor __ mu -- te pro -- mes -- se~i __ ba -- ci. __
 }
 
 tenoreXIXincipit = \relative c' {
@@ -227,26 +227,26 @@ tenoreLyricsXIX = \lyricmode {
     Un ba -- cio~a tan -- ta fe -- de
     La __ do -- vu -- ta mer -- ce -- de
     Non si pa -- ga,
-    non si pa -- ga bi -- cian -- do;
+    Non si pa -- ga bi -- cian -- do;
     Il ba -- cio~è se -- gno di fu -- tu -- ro di -- let -- to,
     E par che dic' an -- ch'e -- gli: i ti pro -- met -- to,
     Che sa -- rai to -- sto lie -- to,
     Que -- sto ti fia per pe -- gno
-    che sa -- rai to -- sto lie -- to,
-    che sa -- rai to -- sto lie -- to,
+    Che sa -- rai to -- sto lie -- to,
+    Che sa -- rai to -- sto lie -- to,
     Or go -- di~e ta -- ci,
     \ijLyrics
-    or go -- di~e ta -- ci;
+    Or go -- di~e ta -- ci;
     \normalLyrics
-    Chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
     \ijLyrics
-    chè son d'a -- mor __ mu -- te pro -- mes -- se~i ba -- ci,
+    Ché son d'a -- mor __ mu -- te pro -- mes -- se~i ba -- ci,
     \normalLyrics
-    chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
     \ijLyrics
-    chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
     \normalLyrics
-    chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci.
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci.
 }
 
 bassoXIXincipit = \relative c {
@@ -291,17 +291,17 @@ bassoLyricsXIX = \lyricmode {
     Que -- sto ti fia per pe -- gno
     Che sa -- rai to -- sto lie -- to,
         to -- sto lie -- to,
-    che sa -- rai to -- sto lie -- to,
+    Che sa -- rai to -- sto lie -- to,
     Or go -- di~e ta -- ci,
     \ijLyrics
-    or go -- di~e ta -- ci,
+    Or go -- di~e ta -- ci,
     \normalLyrics
-    or go -- di~e ta -- ci,
-    Chè son d'a -- mor __ mu -- te pro -- mes -- se~i ba -- ci,
-    chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
-    or go -- di~e ta -- ci;
-    che __ son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
-    chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci.
+    Or go -- di~e ta -- ci,
+    Ché son d'a -- mor __ mu -- te pro -- mes -- se~i ba -- ci,
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
+    Or go -- di~e ta -- ci;
+    Che __ son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci.
 }
 
 quintoXIXincipit = \relative c' {
@@ -337,7 +337,7 @@ quintoXIX = \relative c' {
 
 quintoLyricsXIX = \lyricmode {
     Un ba -- cio so -- lo~a tan -- te pe -- ne~hai cru -- da,
-    un ba -- cio so -- lo a tan -- te pe -- ne~hai cru -- da,
+    Un ba -- cio so -- lo a tan -- te pe -- ne~hai cru -- da,
     Un ba -- cio~a tan -- ta fe -- de
     La do -- vu -- ta mer -- ce -- de
     Non si pa -- ga bi -- cian -- do;
@@ -351,15 +351,15 @@ quintoLyricsXIX = \lyricmode {
     Que -- sto ti fia per pe -- gno,
         per pe -- gno
     Che sa -- rai to -- sto lie -- to,
-    or go -- di~e ta -- ci,
+    Or go -- di~e ta -- ci,
     \ijLyrics
-    or go -- di~e ta -- ci,
-    or go -- di~e ta -- ci,
+    Or go -- di~e ta -- ci,
+    Or go -- di~e ta -- ci,
     \normalLyrics
-    Chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci,
         mu -- te pro -- mes -- se~i ba -- ci,
-    or go -- di~e ta -- ci;
-    chè son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci. __
+    Or go -- di~e ta -- ci;
+    Ché son d'a -- mor mu -- te pro -- mes -- se~i ba -- ci. __
 }
 
 cantoOneXIXincipitVoice = <<

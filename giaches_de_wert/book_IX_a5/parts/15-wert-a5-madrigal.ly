@@ -1,12 +1,12 @@
-% L’anima mia ferita
+% L'anima mia ferita
 % Versa per gli occhi fuore
 % Un fiume di dolore;
 % A miglior tempo ho pianto
 % Per sdegno, ò per timore:
-% Queste non son più lagrime d’amore,
-% Sangue del l’alma è il pianto,
+% Queste non son più lagrime d'amore,
+% Sangue del l'alma è il pianto,
 % Che vien dalla ferita,
-% Ond’esce col dolor l’alma e la vita.
+% Ond'esce col dolor l'alma e la vita.
 % --D. Ferrando Gonzaga
 
 cantoXVincipit = \relative c' {
@@ -46,27 +46,27 @@ cantoXV = \relative c' {
 }
 
 cantoLyricsXV = \lyricmode {
-    L’a -- ni -- ma mia fe -- ri -- ta
+    L'a -- ni -- ma mia fe -- ri -- ta
     Ver -- sa per gli~oc -- chi fuo -- re
     Un fiu -- me di __ do -- lo -- re,
-    ver -- sa per gli~oc -- chi fuo -- re
-    un fiu -- me di do -- lo -- re,
-    ver -- sa per gli~oc -- chi fuo -- re~un fiu -- me di do -- lo -- re;
+    Ver -- sa per gli~oc -- chi fuo -- re
+    Un fiu -- me di do -- lo -- re,
+    Ver -- sa per gli~oc -- chi fuo -- re~un fiu -- me di do -- lo -- re;
 
     A mi -- glior tem -- po~ho pian -- to,
     \ijLyrics
-    a mi -- glior tem -- po~ho __ pian -- to
+    A mi -- glior tem -- po~ho __ pian -- to
     \normalLyrics
     Per sde -- gno~ò per ti -- mo -- re:
-    Que -- ste non son __ più la -- gri -- me d’a -- mo -- re, __
-    San -- gue del l’al -- ma~è~il pian -- to,
+    Que -- ste non son __ più la -- gri -- me d'a -- mo -- re, __
+    San -- gue del l'al -- ma~è~il pian -- to,
     Che vien __ dal -- la fe -- ri -- ta,
-    On -- d’e -- sce col do -- lor l’a -- lma~e la vi -- ta,
-    on -- d’e -- sce col do -- lor, __
+    On -- d'e -- sce col do -- lor l'a -- lma~e la vi -- ta,
+    On -- d'e -- sce col do -- lor, __
     \ijLyrics
-    on -- d’e -- sce col __ do -- lor  __
+    On -- d'e -- sce col __ do -- lor  __
     \normalLyrics
-        l’a -- lma~e la vi -- ta.
+        l'a -- lma~e la vi -- ta.
 }
 
 altoXVincipit = \relative c' {
@@ -110,33 +110,33 @@ altoXV = \relative c' {
 }
 
 altoLyricsXV = \lyricmode {
-    L’a -- ni -- ma mia fe -- ri -- ta
+    L'a -- ni -- ma mia fe -- ri -- ta
     Ver -- sa per gli~oc -- chi fuo -- re
     Un fiu -- me di do -- lo -- re,
-    ver -- sa per gli~oc -- chi fuo -- re __
-    un fiu -- me di __ do -- lo -- re,
-    ver -- sa per gli~oc -- chi fuo -- re
-    un fiu -- me __ di do -- lo -- re;
+    Ver -- sa per gli~oc -- chi fuo -- re __
+    Un fiu -- me di __ do -- lo -- re,
+    Ver -- sa per gli~oc -- chi fuo -- re
+    Un fiu -- me __ di do -- lo -- re;
 
     A mi -- glior tem -- po~ho pian -- to,
     \ijLyrics
-    a mi -- glior tem -- po~ho pian -- to
+    A mi -- glior tem -- po~ho pian -- to
     \normalLyrics
     Per sde -- gno~ò per ti -- mo -- re:
     Que -- ste non son più la -- gri -- me,
     \ijLyrics
-    que -- ste non son più la -- gri -- me
+    Que -- ste non son più la -- gri -- me
     \normalLyrics
-        d’a -- mo -- re, 
-    San -- gue del l’al -- ma~è~il pian -- to,
+        d'a -- mo -- re, 
+    San -- gue del l'al -- ma~è~il pian -- to,
     Che vien dal -- la fe -- ri -- ta,
-    On -- d’e -- sce col do -- lor l’a -- lma~e la vi -- ta, __
-        l’a -- lma~e la vi -- ta,
-    on -- d’e -- sce col do -- lor, 
+    On -- d'e -- sce col do -- lor l'a -- lma~e la vi -- ta, __
+        l'a -- lma~e la vi -- ta,
+    On -- d'e -- sce col do -- lor, 
     \ijLyrics
-    on -- d’e -- sce col __ do -- lor  
+    On -- d'e -- sce col __ do -- lor  
     \normalLyrics
-        l’a -- lma~e __ la vi -- ta.
+        l'a -- lma~e __ la vi -- ta.
 }
 
 tenoreXVincipit = \relative c' {
@@ -171,27 +171,27 @@ tenoreXV = \relative c' {
 }
 
 tenoreLyricsXV = \lyricmode {
-    L’a -- ni -- ma mia fe -- ri -- ta __
+    L'a -- ni -- ma mia fe -- ri -- ta __
     Ver -- sa per gli~oc -- chi fuo -- re,
-    l’a -- ni -- ma mia fe -- ri -- ta
-    ver -- sa per gli~oc -- chi fuo -- re,
+    L'a -- ni -- ma mia fe -- ri -- ta
+    Ver -- sa per gli~oc -- chi fuo -- re,
     Un fiu -- me __ di do -- lo -- re,
     \ijLyrics
-    un fiu -- me di do -- lo -- re,
+    Un fiu -- me di do -- lo -- re,
     \normalLyrics
 
     A mi -- glior tem -- po~ho pian -- to, __
     Per sde -- gno~ò per ti -- mo -- re:
-    Que -- ste non son più la -- gri -- me d’a -- mo -- re, 
-%    San -- gue del l’al -- ma~è~il pian -- to, 
+    Que -- ste non son più la -- gri -- me d'a -- mo -- re, 
+%    San -- gue del l'al -- ma~è~il pian -- to, 
     Che vien dal -- la fe -- ri -- ta,
-    On -- d’e -- sce col do -- lor, 
+    On -- d'e -- sce col do -- lor, 
     \ijLyrics
-    on -- d’e -- sce col __ do -- lor,  __
+    On -- d'e -- sce col __ do -- lor,  __
     \normalLyrics
-        l’a -- lma~e la vi -- ta,
-        l’a -- lma~e la vi -- ta,
-    On -- d’e -- sce col __ do -- lor l’a -- lma~e la vi -- ta.
+        l'a -- lma~e la vi -- ta,
+        l'a -- lma~e la vi -- ta,
+    On -- d'e -- sce col __ do -- lor l'a -- lma~e la vi -- ta.
 }
 
 bassoXVincipit = \relative c {
@@ -221,19 +221,19 @@ bassoXV = \relative c {
 }
 
 bassoLyricsXV = \lyricmode {
-    L’a -- ni -- ma mia __ fe -- ri -- ta
+    L'a -- ni -- ma mia __ fe -- ri -- ta
     Ver -- sa per gli~oc -- chi fuo -- re __
     Un fiu -- me di do -- lo -- re,
     \ijLyrics
-    un fiu -- me di do -- lo -- re;
+    Un fiu -- me di do -- lo -- re;
     \normalLyrics
 
     A mi -- glior tem -- po~ho pian -- to,
     Per sde -- gno~ò per ti -- mo -- re:
-    Que -- ste non son più la -- gri -- me d’a -- mo -- re, __
+    Que -- ste non son più la -- gri -- me d'a -- mo -- re, __
     Che vien dal -- la fe -- ri -- ta,
-    On -- d’e -- sce col __ do -- lor l’a -- lma~e la vi -- ta,
-    on -- d’e -- sce col do -- lor __ l’a -- lma~e la vi -- ta.
+    On -- d'e -- sce col __ do -- lor l'a -- lma~e la vi -- ta,
+    On -- d'e -- sce col do -- lor __ l'a -- lma~e la vi -- ta.
 }
 
 quintoXVincipit = \relative c' {
@@ -272,30 +272,30 @@ quintoXV = \relative c' {
 
 quintoLyricsXV = \lyricmode {
     Ver -- sa per gli~oc -- chi fuo -- re,
-    L’a -- ni -- ma mia fe -- ri -- ta
-    ver -- sa per gli~oc -- chi fuo -- re,
+    L'a -- ni -- ma mia fe -- ri -- ta
+    Ver -- sa per gli~oc -- chi fuo -- re,
     Un fiu -- me di do -- lo -- re,
-    l’a -- ni -- ma mia fe -- ri -- ta
-    ver -- sa per gli~oc -- chi fuo -- re __
-    un fiu -- me di __ do -- lo -- re;
+    L'a -- ni -- ma mia fe -- ri -- ta
+    Ver -- sa per gli~oc -- chi fuo -- re __
+    Un fiu -- me di __ do -- lo -- re;
 
     A mi -- glior tem -- po~ho pian -- to,
     \ijLyrics
-    a mi -- glior tem -- po~ho pian -- to
+    A mi -- glior tem -- po~ho pian -- to
     \normalLyrics
     Per sde -- gno~ò per ti -- mo -- re,
     \ijLyrics
     Per sde -- gno~ò per __ ti -- mo -- re:
     \normalLyrics
     Que -- ste non son più la -- gri -- me,
-        non son più la -- gri -- me d’a -- mo -- re, 
-    San -- gue del l’al -- ma~è~il pian -- to,
+        non son più la -- gri -- me d'a -- mo -- re, 
+    San -- gue del l'al -- ma~è~il pian -- to,
     Che vien dal -- la fe -- ri -- ta,
-    On -- d’e -- sce col do -- lor l’a -- lma~e la vi -- ta,
-    on -- d’e -- sce col __ do -- lor l’a -- lma~e la vi -- ta,
-        l’a -- lma~e la vi -- ta,
-        l’a -- lma~e la vi -- ta,
-    on -- d’e -- sce col __ do -- lor l’a -- lma~e la vi -- ta.
+    On -- d'e -- sce col do -- lor l'a -- lma~e la vi -- ta,
+    On -- d'e -- sce col __ do -- lor l'a -- lma~e la vi -- ta,
+        l'a -- lma~e la vi -- ta,
+        l'a -- lma~e la vi -- ta,
+    On -- d'e -- sce col __ do -- lor l'a -- lma~e la vi -- ta.
 }
 
 cantoXVincipitVoice = <<

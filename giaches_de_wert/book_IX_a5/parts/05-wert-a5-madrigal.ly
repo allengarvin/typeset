@@ -1,7 +1,7 @@
 % Ben riconosco in voi l'usate forme,
 % Non, lasso, in me, che da sì lieta vita
 % Son fatto albergo d'infinita doglia.
-% Quinci vedea 'l mio bene; et per queste orme
+% Quinci vedea 'l mio bene; e per queste orme
 % Torno a veder ond'al ciel nuda è gita,
 % Lasciando in terra la sua bella spoglia.
 

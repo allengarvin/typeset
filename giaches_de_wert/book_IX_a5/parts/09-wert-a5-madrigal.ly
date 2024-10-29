@@ -1,5 +1,5 @@
 % Allor ch'errand'in quei bei prati intorno 
-% venni La viddi e da sue luci chiuse
+% venni la viddi e da sue luci chiuse
 % Gionse l'ardore ove non gionse il lume
 % 
 % Aura ed onde i cercava e nel ritorno
@@ -55,30 +55,30 @@ cantoIX = \relative c' {
 
 cantoLyricsIX = \lyricmode {
     Al -- lor ch'er -- rand' in quei bei pra -- ti~in -- tor -- no 
-    ven -- ni, La vid -- di e da sue lu -- ci chiu -- se
+    Ven -- ni, la vid -- di e da sue lu -- ci chiu -- se
     Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me
         la vid -- di,
-    al -- lor ch'er -- rand' in quei bei pra -- ti~in -- tor -- no 
+    Al -- lor ch'er -- rand' in quei bei pra -- ti~in -- tor -- no 
         ven -- ni, la vid -- di,
             la vid -- di,
         e da sue lu -- ci chiu -- se,
-    gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
-    gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me,
-    gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me, __
-    gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me; 
+    Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me, __
+    Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me; 
  
     Au -- ra~ed on -- de~i cer -- ca -- va e nel ri -- tor -- no
     Spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
     Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, 
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \normalLyrics
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, 
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, 
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
     \normalLyrics
         on -- de~al fiu -- me,
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, 
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, 
         ed on -- de~al __ fiu -- me,
         ed on -- de~al fiu -- me.
 
@@ -129,35 +129,35 @@ altoIX = \relative c' {
 
 altoLyricsIX = \lyricmode {
     Al -- lor ch'er -- rand' in quei bei pra -- ti~in -- tor -- no
-    ven -- ni, La vid -- di e da sue lu -- ci chiu -- se
+    Ven -- ni, la vid -- di e da sue lu -- ci chiu -- se
     Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me
         la vid -- di,
         e da sue lu -- ci chiu -- se,
-    gion -- se l'ar -- do -- re,
+    Gion -- se l'ar -- do -- re,
     \ijLyrics
-    gion -- se l'ar -- do -- re,
+    Gion -- se l'ar -- do -- re,
     \normalLyrics
-    gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
-    gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
         la vid -- di,
         o -- ve non gion -- se~il lu -- me,
-    gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
-    gion -- se l'ar -- do -- re,
-    gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me; __
+    Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re,
+    Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me; __
 
     Au -- ra~ed on -- de~i cer -- ca -- va e nel ri -- tor -- no,
     \ijLyrics
         e nel ri -- tor -- no
     \normalLyrics
     Spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se,
-    spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
+    Spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
     Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
     \normalLyrics
         on -- de~al fiu -- me,
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, ed on -- de~al fiu -- me,
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed on -- de~al fiu -- me,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra, ed on -- de~al fiu -- me,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed on -- de~al fiu -- me,
         ed on -- de~al fiu -- me,
         ed on -- de~al fiu -- me.
 }
@@ -204,32 +204,32 @@ tenoreIX = \relative c' {
 tenoreLyricsIX = \lyricmode {
     Gion -- se l'ar -- do -- re,
     \ijLyrics
-    gion -- se l'ar -- do -- re,
+    Gion -- se l'ar -- do -- re,
     \normalLyrics
-    gion -- se l'ar -- do -- re,
+    Gion -- se l'ar -- do -- re,
     La vid -- di~al -- lor ch'er -- rand' in quei bei __ 
         pra -- ti~in -- tor -- no
-    ven -- ni, La vid -- di e da sue lu -- ci chiu -- se
-    gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me,
-    gion -- se l'ar -- do -- re,
+    Ven -- ni, la vid -- di e da sue lu -- ci chiu -- se
+    Gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re,
         e da sue lu -- ci chiu -- se,
-    gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me,
-    gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me,
-    gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
         o -- ve non gion -- se~il lu -- me;
 
     Au -- ra~ed on -- de~i cer -- ca -- va e nel ri -- tor -- no
     Spir -- t'ed u -- mor dì do -- glia,
-    spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
+    Spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
     Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
     \normalLyrics
         on -- de~al fiu -- me,
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra
     \normalLyrics
         ed on -- de~al fiu -- me,
         ed on -- de~al fiu -- me, __
@@ -288,13 +288,13 @@ bassoIX = \relative c {
 bassoLyricsIX = \lyricmode {
     Gion -- se l'ar -- do -- re,
     \ijLyrics
-    gion -- se l'ar -- do -- re,
+    Gion -- se l'ar -- do -- re,
     \normalLyrics
-    gion -- se l'ar -- do -- re
-        e da sue lu -- ci chiu -- se, La vid -- di,
+    Gion -- se l'ar -- do -- re
+        e da sue lu -- ci chiu -- se, la vid -- di,
     Al -- lor ch'er -- rand' in quei bei pra -- ti~in -- tor -- no
-    ven -- ni, La vid -- di e da sue lu -- ci chiu -- se
-    gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me;
+    Ven -- ni, la vid -- di e da sue lu -- ci chiu -- se
+    Gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me;
     
     Au -- ra~ed on -- de~i cer -- ca -- va e nel ri -- tor -- no,
     \ijLyrics
@@ -352,7 +352,7 @@ quintoIX = \relative c {
 
 quintoLyricsIX = \lyricmode {
     Al -- lor ch'er -- rand' in quei bei pra -- ti~in -- tor -- no
-    ven -- ni, La vid -- di e da sue lu -- ci chiu -- se
+    Ven -- ni, la vid -- di e da sue lu -- ci chiu -- se
     Gion -- se l'ar -- do -- re o -- ve non gion -- se~il lu -- me
         la vid -- di,
     \ijLyrics
@@ -363,13 +363,13 @@ quintoLyricsIX = \lyricmode {
         la vid -- di
     \normalLyrics
         e da sue lu -- ci chiu -- se
-    gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
-    al -- lor ch'er -- rand' in quei bei pra -- ti~in -- tor -- no
-    ven -- ni, La vid -- di e da sue lu -- ci chiu -- se
-    gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
-    gion -- se l'ar -- do -- re,
+    Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
+    Al -- lor ch'er -- rand' in quei bei pra -- ti~in -- tor -- no
+    Ven -- ni, la vid -- di e da sue lu -- ci chiu -- se
+    Gion -- se l'ar -- do -- re~o -- ve non gion -- se~il lu -- me,
+    Gion -- se l'ar -- do -- re,
     \ijLyrics
-    gion -- se l'ar -- do -- re~o -- ve
+    Gion -- se l'ar -- do -- re~o -- ve
     \normalLyrics
         non gion -- se~il lu -- me;
 
@@ -377,7 +377,7 @@ quintoLyricsIX = \lyricmode {
     Spir -- t'ed u -- mor dì do -- glia~il cor dif -- fu -- se
     Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra,
     \ijLyrics
-    ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
+    Ch'ac -- creb -- be spir -- to~al -- l'Au -- ra~ed
     \normalLyrics
         on -- de~al fiu -- me,
         ed on -- de~al fiu -- me,

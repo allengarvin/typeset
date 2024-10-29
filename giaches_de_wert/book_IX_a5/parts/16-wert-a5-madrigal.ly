@@ -3,10 +3,10 @@
 %Con tormi il vostro amore. 
 %Chi non ha cor è morto,
 %Ed io mi son accorto
-%D’esser tanto più vivo
+%D'esser tanto più vivo
 %Quanto di voi son privo
 %Anzi ero morto; e quando vi lasciai 
-%Rinacqui sì ch’io non morrò più mai.
+%Rinacqui sì ch'io non morrò più mai.
 %--Guarini
 
 cantoXVIincipit = \relative c'' {
@@ -57,27 +57,27 @@ cantoLyricsXVI = \lyricmode {
     Pen -- san -- do~a -- ver -- mi tol -- to~il co -- re
     Con tor -- mi~il vo -- stro~a -- mo -- re,
     \ijLyrics
-    con tor -- mi~il vo -- stro~a -- mo -- re. 
+    Con tor -- mi~il vo -- stro~a -- mo -- re. 
     \normalLyrics
     Chi non ha cor è mor -- to,
-    Ed io mi son’ __ ac -- cor -- to
-    D’es -- ser tan -- to più vi -- vo
+    Ed io mi son' __ ac -- cor -- to
+    D'es -- ser tan -- to più vi -- vo
     Quan -- to di voi son pri -- vo,
-    quan -- to di voi son pri -- vo
+    Quan -- to di voi son pri -- vo
 
-    chi non ha cor è mor -- to,
-    ed io mi son’ __ ac -- cor -- to
-    d’es -- ser tan -- to più vi -- vo,
-    d’es -- ser tan -- to più vi -- vo
-    quan -- to di voi son pri -- vo
+    Chi non ha cor è mor -- to,
+    Ed io mi son' __ ac -- cor -- to
+    D'es -- ser tan -- to più vi -- vo,
+    D'es -- ser tan -- to più vi -- vo
+    Quan -- to di voi son pri -- vo
     An -- zi~e -- ro mor -- to; e quan -- do vi la -- scia -- i,
         e quan -- do vi la -- scia -- i
-    Ri -- nac -- qui sì, ch’io non mor -- rò più ma -- i,
-    ri -- nac -- qui sì, ch’io non mor -- rò più ma -- i,
+    Ri -- nac -- qui sì, ch'io non mor -- rò più ma -- i,
+    Ri -- nac -- qui sì, ch'io non mor -- rò più ma -- i,
     \ijLyrics
-        ch’io non mor -- rò più ma -- i,
+        ch'io non mor -- rò più ma -- i,
     \normalLyrics
-        ch’io non mor -- rò più ma -- i.
+        ch'io non mor -- rò più ma -- i.
 }
 
 altoXVIincipit = \relative c'' {
@@ -120,27 +120,27 @@ altoLyricsXVI = \lyricmode {
     O co -- me va -- neg -- gia -- te Don -- na
     \normalLyrics
     Pen -- san -- do~a -- ver -- mi tol -- to~il co -- re,
-    pen -- san -- do~a -- ver -- mi tol -- to~il co -- re
+    Pen -- san -- do~a -- ver -- mi tol -- to~il co -- re
     Con tor -- mi~il vo -- stro~a -- mo -- re,
     \ijLyrics
-    con tor -- mi~il vo -- stro~a -- mo -- re. 
+    Con tor -- mi~il vo -- stro~a -- mo -- re. 
     \normalLyrics
     Chi non ha cor è mor -- to,
-    Ed io mi son’ __ ac -- cor -- to
-    D’es -- ser tan -- to più vi -- vo
+    Ed io mi son' __ ac -- cor -- to
+    D'es -- ser tan -- to più vi -- vo
     Quan -- to di voi son pri -- vo,
-    d’es -- ser tan -- to più vi -- vo
-    quan -- to di voi son pri -- vo,
-    d’es -- ser tan -- to più vi -- vo
-    quan -- to di voi son pri -- vo,
+    D'es -- ser tan -- to più vi -- vo
+    Quan -- to di voi son pri -- vo,
+    D'es -- ser tan -- to più vi -- vo
+    Quan -- to di voi son pri -- vo,
     An -- zi~e -- ro mor -- to; e quan -- do vi la -- scia -- i,
         e quan -- do vi la -- scia -- i,
     Ri -- nac -- qui sì, 
     \ijLyrics
-    ri -- nac -- qui sì, 
+    Ri -- nac -- qui sì, 
     \normalLyrics
-    ri -- nac -- qui sì, ch’io non mor -- rò più ma -- i,
-    ri -- nac -- qui sì, ch’io non mor -- rò più ma -- i.
+    Ri -- nac -- qui sì, ch'io non mor -- rò più ma -- i,
+    Ri -- nac -- qui sì, ch'io non mor -- rò più ma -- i.
 }
 
 tenoreXVIincipit = \relative c' {
@@ -184,34 +184,34 @@ tenoreLyricsXVI = \lyricmode {
     Con tor -- mi~il vo -- stro~a -- mo -- re,
 
     O co -- me va -- neg -- gia -- te Don -- na,
-    pen -- san -- do~a -- ver -- mi tol -- to~il co -- re
-    con tor -- mi~il vo -- stro~a -- mo -- re,
+    Pen -- san -- do~a -- ver -- mi tol -- to~il co -- re
+    Con tor -- mi~il vo -- stro~a -- mo -- re,
 
     Chi non ha cor è mor -- to,
     \ijLyrics
-    chi non ha cor è mor -- to,
+    Chi non ha cor è mor -- to,
     \normalLyrics
-    Ed io mi son’ __ ac -- cor -- to
-    D’es -- ser tan -- to più vi -- vo
+    Ed io mi son' __ ac -- cor -- to
+    D'es -- ser tan -- to più vi -- vo
     Quan -- to di voi son pri -- vo,
-    quan -- to di voi son pri -- vo
+    Quan -- to di voi son pri -- vo
 
-    d’es -- ser tan -- to più vi -- vo,
+    D'es -- ser tan -- to più vi -- vo,
     \ijLyrics
-    d’es -- ser tan -- to più vi -- vo
+    D'es -- ser tan -- to più vi -- vo
     \normalLyrics
-    quan -- to di voi son pri -- vo,
-    quan -- to di voi son pri -- vo
+    Quan -- to di voi son pri -- vo,
+    Quan -- to di voi son pri -- vo
 
     An -- zi~e -- ro mor -- to; e quan -- do vi la -- scia -- i,
     Ri -- nac -- qui sì, 
     \ijLyrics
-    ri -- nac -- qui sì, 
+    Ri -- nac -- qui sì, 
     \normalLyrics
-    ri -- nac -- qui sì, ch’io non mor -- rò più ma -- i,
-        ch’io non mor -- rò più ma -- i,
+    Ri -- nac -- qui sì, ch'io non mor -- rò più ma -- i,
+        ch'io non mor -- rò più ma -- i,
     \ijLyrics
-        ch’io non mor -- rò più ma -- i.
+        ch'io non mor -- rò più ma -- i.
     \normalLyrics
 }
 
@@ -251,21 +251,21 @@ bassoLyricsXVI = \lyricmode {
     Pen -- san -- do~a -- ver -- mi tol -- to~il co -- re
     Con tor -- mi~il vo -- stro~a -- mo -- re,
     \ijLyrics
-    con tor -- mi~il vo -- stro~a -- mo -- re, 
+    Con tor -- mi~il vo -- stro~a -- mo -- re, 
     \normalLyrics
-    con tor -- mi~il vo -- stro~a -- mo -- re. __
+    Con tor -- mi~il vo -- stro~a -- mo -- re. __
     Chi non ha cor è mor -- to,
-    Ed io mi son’ __ ac -- cor -- to
-    D’es -- ser tan -- to più vi -- vo
+    Ed io mi son' __ ac -- cor -- to
+    D'es -- ser tan -- to più vi -- vo
     Quan -- to di voi son pri -- vo, __
-    quan -- to di voi son pri -- vo 
+    Quan -- to di voi son pri -- vo 
     An -- zi~e -- ro mor -- to; e quan -- do vi la -- scia -- i,
     Ri -- nac -- qui sì, 
     \ijLyrics
-    ri -- nac -- qui sì, 
+    Ri -- nac -- qui sì, 
     \normalLyrics
-    ri -- nac -- qui sì, ch’io non mor -- rò più ma -- i,
-        ch’io non mor -- rò più ma -- i.
+    Ri -- nac -- qui sì, ch'io non mor -- rò più ma -- i,
+        ch'io non mor -- rò più ma -- i.
 }
 
 quintoXVIincipit = \relative c'' {
@@ -314,28 +314,28 @@ quintoLyricsXVI = \lyricmode {
     Con tor -- mi~il vo -- stro~a -- mo -- re,
 
     O __ co -- me va -- neg -- gia -- te Don -- na,
-    pen -- san -- do~a -- ver -- mi tol -- to~il co -- re
-    con tor -- mi~il vo -- stro~a -- mo -- re,
-    con tor -- mi~il __ vo -- stro~a -- mo -- re,
+    Pen -- san -- do~a -- ver -- mi tol -- to~il co -- re
+    Con tor -- mi~il vo -- stro~a -- mo -- re,
+    Con tor -- mi~il __ vo -- stro~a -- mo -- re,
 
     Chi non ha cor è mor -- to,
-    Ed io mi son’ __ ac -- cor -- to
-    D’es -- ser tan -- to più vi -- vo
+    Ed io mi son' __ ac -- cor -- to
+    D'es -- ser tan -- to più vi -- vo
     Quan -- to di voi son pri -- vo,
-    quan -- to di voi son pri -- vo,
+    Quan -- to di voi son pri -- vo,
     \ijLyrics
-    quan -- to di voi son pri -- vo,
+    Quan -- to di voi son pri -- vo,
     \normalLyrics
-    quan -- to di voi __ son pri -- vo
+    Quan -- to di voi __ son pri -- vo
 
-    d’es -- ser tan -- to più vi -- vo,
-    quan -- to di voi son pri -- vo
+    D'es -- ser tan -- to più vi -- vo,
+    Quan -- to di voi son pri -- vo
     An -- zi~e -- ro mor -- to; e quan -- do vi la -- scia -- i,
         e quan -- do vi la -- scia -- i
     Ri -- nac -- qui sì, 
-    ri -- nac -- qui sì, ch’io non mor -- rò più ma -- i,
-        ch’io non mor -- rò più ma -- i,
-    ri -- nac -- qui sì, __ ch’io non mor -- rò più ma -- i.
+    Ri -- nac -- qui sì, ch'io non mor -- rò più ma -- i,
+        ch'io non mor -- rò più ma -- i,
+    Ri -- nac -- qui sì, __ ch'io non mor -- rò più ma -- i.
 }
 
 cantoXVIincipitVoice = <<

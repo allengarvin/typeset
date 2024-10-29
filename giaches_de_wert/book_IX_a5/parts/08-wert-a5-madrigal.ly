@@ -54,24 +54,24 @@ cantoVIII = \relative c'' {
 cantoLyricsVIII = \lyricmode {
     So -- vra~un bel cri -- stal -- li -- no~e pu -- ro ri -- vo,
         e pu -- ro ri -- vo,
-    so -- vra~un bel cri -- stal -- li -- no~e pu -- ro ri -- vo
+    So -- vra~un bel cri -- stal -- li -- no~e pu -- ro ri -- vo
     Che lam -- ben -- do sen gia l'er -- bet -- t'e~i fio -- ri,
         l'er -- bet -- t'e~i fio -- ri
     Tem -- pran -- d'al fre -- sco seg -- gio~il cal -- do~e -- sti -- vo
     Gia -- cea la bel -- la 
     \ijLyrics
-    gia -- cea la bel -- la~e
+    Gia -- cea la bel -- la~e
     \normalLyrics
         vez -- zo -- set -- ta Clo -- ri,
-    gia -- cea la bel -- la~e vez -- zo -- set -- ta Clo -- ri,
-    gia -- cea la bel -- la~e vez -- zo -- set -- ta Clo -- ri.
+    Gia -- cea la bel -- la~e vez -- zo -- set -- ta Clo -- ri,
+    Gia -- cea la bel -- la~e vez -- zo -- set -- ta Clo -- ri.
  
     Scher -- za -- va~in -- tor -- no,
-    scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo,
+    Scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo,
         al bel sem -- bian -- te di -- vo
     L'Au -- ra, 
-    l'Au -- ra, __
-    l'Au -- ra e mo -- vea la chi -- om'in va -- ghi~er -- ro -- ri, __
+    L'Au -- ra, __
+    L'Au -- ra e mo -- vea la chi -- om'in va -- ghi~er -- ro -- ri, __
     E de be -- gli~oc -- chi~il lu -- me~ar -- den -- te vi -- vo,
     Ve -- la -- va~il son -- no e non so -- pia gli~ar -- do -- ri. 
 }
@@ -126,7 +126,7 @@ altoVIII = \relative c' {
 
 altoLyricsVIII = \lyricmode {
     So -- vra~un bel cri -- stal -- li -- no~e pu -- ro ri -- vo,
-    so -- vra~un bel cri -- stal -- li -- no~e pu -- ro ri -- vo,
+    So -- vra~un bel cri -- stal -- li -- no~e pu -- ro ri -- vo,
         e pu -- ro ri -- vo,
         e pu -- ro ri -- vo,
         e pu -- ro ri -- vo
@@ -136,15 +136,15 @@ altoLyricsVIII = \lyricmode {
     Tem -- pran -- d'al fre -- sco seg -- gio~il cal -- do~e -- sti -- vo
     Gia -- cea la bel -- la~e vez -- zo -- set -- ta Clo -- ri,
     Gia -- cea la bel -- la,
-    gia -- cea la bel -- la~e vez -- zo -- set -- ta Clo -- ri.
+    Gia -- cea la bel -- la~e vez -- zo -- set -- ta Clo -- ri.
 
     Scher -- za -- va~in -- tor -- no,
-    scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo,
+    Scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo,
     L'Au -- ra,
-    scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo,
+    Scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo,
     l'Au -- ra e mo -- vea __ la chi -- om'in va -- ghi~er -- ro -- ri,
     E de be -- gli~oc -- chi~il lu -- me,
-    e de be -- gli~oc -- chi~il lu -- me~ar -- den -- te vi -- vo,
+    E de be -- gli~oc -- chi~il lu -- me~ar -- den -- te vi -- vo,
     Ve -- la -- va~il son -- no e non so -- pia gli~ar -- do -- ri,
             gli~ar -- do -- ri.
         e non so -- pia gli~ar -- do -- ri.
@@ -191,7 +191,7 @@ tenoreVIII = \relative c' {
 
 tenoreLyricsVIII = \lyricmode {
     So -- vra~un bel cri -- stal -- li -- no~e pu -- ro ri -- vo,
-    so -- vra~un bel cri -- stal -- li -- no~e pu -- ro ri -- vo,
+    So -- vra~un bel cri -- stal -- li -- no~e pu -- ro ri -- vo,
         e pu -- ro ri -- vo
     Che lam -- ben -- do sen gia,
     \ijLyrics
@@ -203,18 +203,18 @@ tenoreLyricsVIII = \lyricmode {
     \normalLyrics
     Tem -- pran -- d'al fre -- sco seg -- gio~il cal -- do~e -- sti -- vo
     Gia -- cea la bel -- la,
-    gia -- cea la bel -- la,
+    Gia -- cea la bel -- la,
     \ijLyrics
-    gia -- cea la bel -- la~e
+    Gia -- cea la bel -- la~e
     \normalLyrics
         vez -- zo -- set -- ta Clo -- ri.
 
     Scher -- za -- va~in -- tor -- no,
-    scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo
+    Scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo
     L'Au -- ra, 
         al bel sem -- bian -- te di -- vo
-    scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo
-    l'Au -- ra e mo -- vea __ la chi -- om'in va -- ghi~er -- ro -- ri, __
+    Scher -- za -- va~in -- tor -- no~al bel sem -- bian -- te di -- vo
+    L'Au -- ra e mo -- vea __ la chi -- om'in va -- ghi~er -- ro -- ri, __
     E de be -- gli~oc -- chi~il lu -- me~ar -- den -- te vi -- vo,
     Ve -- la -- va~il son -- no e non so -- pia gli~ar -- do -- ri,
         e non so -- pia gli~ar -- do -- ri.

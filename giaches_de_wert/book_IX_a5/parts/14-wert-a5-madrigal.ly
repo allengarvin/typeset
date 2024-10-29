@@ -5,7 +5,7 @@
 %    Sian sempre dunque Amore,
 %    Si gravi le mia pene
 %    E si acerbo il dolore
-%    Ch'à morte mille volte il dì mi mene,
+%    Ch'a morte mille volte il dì mi mene,
 %    Poi ch'ella non soccore al mio martire
 %    Se non presso al morire.
 
@@ -47,22 +47,22 @@ cantoXIV = \relative c'' {
 
 cantoLyricsXIV = \lyricmode {
     Di mor -- te già sen -- ti -- a il fe -- ro~ul -- ti -- mo dar -- do,
-    di mor -- te già sen -- ti -- a il fe -- ro~ul -- ti -- mo dar -- do,
+    Di mor -- te già sen -- ti -- a il fe -- ro~ul -- ti -- mo dar -- do,
     Quan -- do con dol -- ce sguar -- do
     E so -- a -- ve par -- lar vi -- ta mi die -- de  __
     Chi fuor ch'in mor -- te~al mio lan -- guir non cre -- de,
-    chi fuor ch'in mor -- te al mio lan -- guir non cre -- de,
+    Chi fuor ch'in mor -- te al mio lan -- guir non cre -- de,
     Sian sem -- pre dun -- que~A -- mo -- re,
     \ijLyrics
-    sian sem -- pre dun -- que~A -- mo -- re,
+    Sian sem -- pre dun -- que~A -- mo -- re,
     \normalLyrics
     Si gra -- vi le mia pe -- ne
     E si~a -- cer -- bo~il do -- lo -- re
-    Ch'à mor -- te mil -- le vol -- te~il dì mi me -- ne,
+    Ch'a mor -- te mil -- le vol -- te~il dì mi me -- ne,
         mi me -- ne,
     Poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re
     Se non pres -- so~al __ mo -- ri -- re,
-    se __ non pres -- so~al mo -- ri -- re.
+    Se __ non pres -- so~al mo -- ri -- re.
 }
 
 altoXIVincipit = \relative c' {
@@ -104,7 +104,7 @@ altoXIV = \relative c' {
 
 altoLyricsXIV = \lyricmode {
     Di mor -- te già sen -- ti -- a il fe -- ro~ul -- ti -- mo dar -- do,
-    di mor -- te già __ sen -- ti -- a il fe -- ro~ul -- ti -- mo dar -- do,
+    Di mor -- te già __ sen -- ti -- a il fe -- ro~ul -- ti -- mo dar -- do,
     Quan -- do con dol -- ce sguar -- do
     E so -- a -- ve par -- lar vi -- ta mi die -- de  
     Chi fuor ch'in mor -- te~al __ mio lan -- guir __ non cre -- de,
@@ -112,19 +112,19 @@ altoLyricsXIV = \lyricmode {
     Sian sem -- pre dun -- que~A -- mo -- re,
     Si gra -- vi le mia pe -- ne,
     \ijLyrics
-    si gra -- vi le mia pe -- ne,
-    si gra -- vi le mia pe -- ne
+    Si gra -- vi le mia pe -- ne,
+    Si gra -- vi le mia pe -- ne
     \normalLyrics
     E si~a -- cer -- bo~il do -- lo -- re
-    Ch'à mor -- te mil -- le vol -- te~il dì mi me -- ne,
+    Ch'a mor -- te mil -- le vol -- te~il dì mi me -- ne,
     \ijLyrics
-    ch'à mor -- te mil -- le vol -- te~il dì mi me -- ne,
+    Ch'a mor -- te mil -- le vol -- te~il dì mi me -- ne,
     \normalLyrics
     Poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re,
-    poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re
+    Poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re
     Se non pres -- so~al mo -- ri -- re,
     \ijLyrics
-    se non pres -- so~al mo -- ri -- re.
+    Se non pres -- so~al mo -- ri -- re.
     \normalLyrics
 }
 
@@ -177,18 +177,18 @@ tenoreLyricsXIV = \lyricmode {
     Sian sem -- pre dun -- que~A -- mo -- re,
     Si gra -- vi le mia pe -- ne,
     \ijLyrics
-    si gra -- vi le mia pe -- ne
+    Si gra -- vi le mia pe -- ne
     \normalLyrics
     E si~a -- cer -- bo~il do -- lo -- re
-    Ch'à mor -- te mil -- le vol -- te~il dì __ mi me -- ne,
+    Ch'a mor -- te mil -- le vol -- te~il dì __ mi me -- ne,
     \ijLyrics
-    ch'à mor -- te mil -- le vol -- te~il dì mi me -- ne,
+    Ch'a mor -- te mil -- le vol -- te~il dì mi me -- ne,
     \normalLyrics
     Poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re,
-    poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re
+    Poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re
     Se non pres -- so~al mo -- ri -- re,
     \ijLyrics
-    se non pres -- so~al mo -- ri -- re.
+    Se non pres -- so~al mo -- ri -- re.
     \normalLyrics
 }
 
@@ -227,24 +227,24 @@ bassoXIV = \relative c' {
 bassoLyricsXIV = \lyricmode {
     Di mor -- te già sen -- ti -- a,
     \ijLyrics
-    di mor -- te già sen -- ti -- a
+    Di mor -- te già sen -- ti -- a
     \normalLyrics
         il fe -- ro~ul -- ti -- mo dar -- do,
 %    Quan -- do con dol -- ce sguar -- do
     E so -- a -- ve par -- lar vi -- ta mi die -- de  
     Chi fuor ch'in mor -- te~al mio lan -- guir non cre -- de,
     \ijLyrics
-    chi fuor ch'in mor -- te~al mio __ lan -- guir non cre -- de,
+    Chi fuor ch'in mor -- te~al mio __ lan -- guir non cre -- de,
     \normalLyrics
     Sian sem -- pre dun -- que~A -- mo -- re,
     Si gra -- vi le mia pe -- ne,
     \ijLyrics
-    si gra -- vi le mia pe -- ne,
+    Si gra -- vi le mia pe -- ne,
     \normalLyrics
         le mia pe -- ne
-    Ch'à mor -- te mil -- le vol -- te~il dì mi me -- ne,
+    Ch'a mor -- te mil -- le vol -- te~il dì mi me -- ne,
     \ijLyrics
-    ch'à mor -- te mil -- le vol -- te~il dì mi me -- ne,
+    Ch'a mor -- te mil -- le vol -- te~il dì mi me -- ne,
     \normalLyrics
     Poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re
     Se non pres -- so~al mo -- ri -- re.
@@ -291,19 +291,19 @@ quintoLyricsXIV = \lyricmode {
     Chi fuor ch'in mor -- te~al mio lan -- guir non cre -- de,
     Sian sem -- pre dun -- que~A -- mo -- re,
     Si gra -- vi le mia __ pe -- ne,
-    si gra -- vi le mia pe -- ne,
+    Si gra -- vi le mia pe -- ne,
     \ijLyrics
-    si gra -- vi le __ mia pe -- ne
+    Si gra -- vi le __ mia pe -- ne
     \normalLyrics
-    Ch'à mor -- te mil -- le vol -- te~il dì mi me -- ne,
+    Ch'a mor -- te mil -- le vol -- te~il dì mi me -- ne,
         mi me -- ne,
     Poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re,
     \ijLyrics
-    poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re
+    Poi ch'el -- la non soc -- co -- re~al mio mar -- ti -- re
     \normalLyrics
     Se non pres -- so~al mo -- ri -- re,
     \ijLyrics
-    se non pres -- so~al mo -- ri -- re.
+    Se non pres -- so~al mo -- ri -- re.
     \normalLyrics
 }
 

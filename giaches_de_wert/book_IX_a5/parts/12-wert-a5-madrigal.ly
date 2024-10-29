@@ -123,7 +123,7 @@ tenoreLyricsXII = \lyricmode {
     Vòl -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to,
         in do -- glia~e pian -- to, __
     O -- diar,
-    o -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te.
+    O -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te.
 }
 
 bassoXIIincipit = \relative c, {
@@ -162,10 +162,10 @@ bassoLyricsXII = \lyricmode {
     E~i __ so -- a -- vi so -- spir e'l dol -- ce sti -- le
 
     Che so -- lea re -- so -- nar,
-    che so -- lea re -- so -- nar in ver -- si~e'n ri -- me,
+    Che so -- lea re -- so -- nar in ver -- si~e'n ri -- me,
     Vòl -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to,
     O -- diar __ vi -- ta mi fan -- no~e bra -- mar mor -- te,
-    o -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te.
+    O -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te.
 }
 
 quintoXIIincipit = \relative c' {
@@ -207,11 +207,11 @@ quintoLyricsXII = \lyricmode {
     E~i __ so -- a -- vi so -- spir e'l dol -- ce sti -- le
 
     Che __ so -- lea re -- so -- nar,
-    che __ so -- lea re -- so -- nar __ in ver -- si~e'n ri -- me,
+    Che __ so -- lea re -- so -- nar __ in ver -- si~e'n ri -- me,
     Vòl -- ti su -- bi -- ta -- men -- te~in do -- glia~e __ pian -- to,
         in __ do -- glia~e __ pian -- to,
     O -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te,
-    o -- diar vi -- ta mi fan -- no~o -- diar 
+    O -- diar vi -- ta mi fan -- no~o -- diar 
         vi -- ta mi fan -- no~e bra -- mar mor -- te.
 }
 

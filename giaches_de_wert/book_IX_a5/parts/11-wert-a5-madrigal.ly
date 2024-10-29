@@ -1,9 +1,9 @@
 % Petrarch 62
-% Or volge, Signor mio, l’undecimo anno 
-% ch’i’ fui sommesso al dispietato giogo
+% Or volge, Signor mio, l'undecimo anno 
+% ch'i' fui sommesso al dispietato giogo
 % che sopra i più soggetti è più feroce.
 % Miserere del mio non degno affanno;
-% reduci i pensier’ vaghi a miglior luogo;
+% reduci i pensier' vaghi a miglior luogo;
 % ramenta lor come oggi fusti in croce.
 
 cantoXIincipit = \relative c'' {
@@ -39,23 +39,23 @@ cantoXI = \relative c'' {
 }
 
 cantoLyricsXI = \lyricmode {
-    Or vol -- ge, Si -- gnor mio, __ l’un -- de -- ci -- mo~an -- no __
-    Ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go
+    Or vol -- ge, Si -- gnor mio, __ l'un -- de -- ci -- mo~an -- no __
+    Ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go
     Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
     \ijLyrics
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
     \normalLyrics
 
-    Or vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no 
-    ch’i’ fui __ som -- mes -- so~al di -- spie -- ta -- to gio -- go
-    che so -- pra~i più sog -- get -- ti~è più __ fe -- ro -- ce,
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce, __
+    Or vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no 
+    Ch'i' fui __ som -- mes -- so~al di -- spie -- ta -- to gio -- go
+    Che so -- pra~i più sog -- get -- ti~è più __ fe -- ro -- ce,
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce, __
     \ijLyrics
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce. 
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce. 
     \normalLyrics
 
     Mi -- se -- re -- re del mio non de -- gno~af -- fan -- no;
-    Re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
+    Re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
     Ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce.
 }
 
@@ -91,21 +91,21 @@ altoXI = \relative c' {
 }
 
 altoLyricsXI = \lyricmode {
-    Or vol -- ge, Si -- gnor mio, __ l’un -- de -- ci -- mo~an -- no 
-    Ch’i’ fui __ som -- mes -- so al di -- spie -- ta -- to gio -- go __
+    Or vol -- ge, Si -- gnor mio, __ l'un -- de -- ci -- mo~an -- no 
+    Ch'i' fui __ som -- mes -- so al di -- spie -- ta -- to gio -- go __
     Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
-    or vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no 
-    ch’i’ __ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go
-    ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
+    Or vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no 
+    Ch'i' __ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go
+    Ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
     \ijLyrics
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
     \normalLyrics
 
 
     Mi -- se -- re -- re del mio non de -- gno~af -- fan -- no;
-    Re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
+    Re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
     Ra -- men -- ta lor __ co -- me~og -- gi fu -- sti~in cro -- ce.
 }
 
@@ -146,15 +146,15 @@ tenoreXI = \relative c' {
 }
 
 tenoreLyricsXI = \lyricmode {
-    Or vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no 
-    Ch’i’ __ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
+    Or vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no 
+    Ch'i' __ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
         al di -- spie -- ta -- to gio -- go
     Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
         più __ fe -- ro -- ce,
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
 
     Mi -- se -- re -- re del mio non de -- gno~af -- fan -- no;
-    Re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
+    Re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
     Ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce.
 }
 
@@ -188,16 +188,16 @@ bassoXI = \relative c {
 }
 
 bassoLyricsXI = \lyricmode {
-    Or vol -- ge, Si -- gnor mio, __ l’un -- de -- ci -- mo~an -- no 
-    Ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go
+    Or vol -- ge, Si -- gnor mio, __ l'un -- de -- ci -- mo~an -- no 
+    Ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go
     Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
     \ijLyrics
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
     \normalLyrics
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
 
     Mi -- se -- re -- re del mio non de -- gno~af -- fan -- no;
-    Re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
+    Re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
     Ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce.
 }
 
@@ -233,19 +233,19 @@ quintoXI = \relative c' {
 }
 
 quintoLyricsXI = \lyricmode {
-    Ch’i’ fui som -- mes -- so al di -- spie -- ta -- to gio -- go
+    Ch'i' fui som -- mes -- so al di -- spie -- ta -- to gio -- go
     Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
 
-    Or vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no 
-    ch’i’ __ fui som -- mes -- so al di -- spie -- ta -- to gio -- go
-    che __ so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
+    Or vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no 
+    Ch'i' __ fui som -- mes -- so al di -- spie -- ta -- to gio -- go
+    Che __ so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
     \ijLyrics
-    che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce. 
+    Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce. 
     \normalLyrics
 
     Mi -- se -- re -- re del mio __ non de -- gno~af -- fan -- no;
-    Re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
+    Re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
     Ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce.
 }
 

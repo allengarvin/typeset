@@ -49,14 +49,14 @@ cantoLyricsX = \lyricmode {
     Mi -- ran -- do gli~at -- ti per mio mal __ sì~a -- dor -- ni,
 
     Piac -- cia -- ti~o -- mai __ col tuo lu -- me ch’io tor -- ni~Ad
-        al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
-    piac -- cia -- ti~o -- mai __ col tuo lu -- me ch’io tor -- ni~ad
-        al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
+        al -- tra vi -- ta ed a più bel -- le~im -- pre -- se,
+    Piac -- cia -- ti~o -- mai __ col tuo lu -- me ch’io tor -- ni~ad
+        al -- tra vi -- ta ed a più bel -- le~im -- pre -- se,
         ch’io tor -- ni~ad
-        al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
+        al -- tra vi -- ta ed a più bel -- le~im -- pre -- se,
     Sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
-    il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni.
+    Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni.
 }
 
 altoXincipit = \relative c'' {
@@ -114,32 +114,32 @@ altoLyricsX = \lyricmode {
     \normalLyrics
     Con quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
     \ijLyrics
-    con quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
+    Con quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
     \normalLyrics
     Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni, __
     \ijLyrics
-    mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
+    Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
     \normalLyrics
 
     Piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~Ad
-        al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
+        al -- tra vi -- ta ed a più bel -- le~im -- pre -- se,
     \ijLyrics
-            et a più bel -- le~im -- pre -- se,
+            ed a più bel -- le~im -- pre -- se,
     \normalLyrics
-            et a più bel -- le~im -- pre -- se,
+            ed a più bel -- le~im -- pre -- se,
     \ijLyrics
-            et a più bel -- le~im -- pre -- se,
+            ed a più bel -- le~im -- pre -- se,
     \normalLyrics
             col tuo lu -- me ch’io tor -- ni~ad
         al -- tra vi -- ta,
-    piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~ad
-        al -- tra vi -- ta~et a più bel -- le~im -- pre -- se,
+    Piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~ad
+        al -- tra vi -- ta~ed a più bel -- le~im -- pre -- se,
     Sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
     \ijLyrics
-    il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
+    Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
     \normalLyrics
-    il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni.
+    Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni.
 }
 
 tenoreXincipit = \relative c' {
@@ -183,21 +183,21 @@ tenoreLyricsX = \lyricmode {
     Con quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
     Mi -- ran -- do gli~at -- ti per mio mal __ sì~a -- dor -- ni,
     \ijLyrics
-    mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
+    Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
     \normalLyrics
         per mio mal sì~a -- dor -- ni,
 
     Piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~Ad
-        al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
+        al -- tra vi -- ta ed a più bel -- le~im -- pre -- se,
     \ijLyrics
-        et a più bel -- le~im -- pre -- se,
+        ed a più bel -- le~im -- pre -- se,
     \normalLyrics
-        et a più bel -- le~im -- pre -- se, __
-    ad al -- tra vi -- ta~et a più bel -- le~im -- pre -- se,
+        ed a più bel -- le~im -- pre -- se, __
+    Ad al -- tra vi -- ta~ed a più bel -- le~im -- pre -- se,
         più bel -- le~im -- pre -- se,
     Sì __ ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni, __
-    il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni.
+    Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni.
 }
 
 bassoXincipit = \relative c {
@@ -236,19 +236,19 @@ bassoX = \relative c {
 bassoLyricsX = \lyricmode {
     Pa -- dre del ciel, do -- po~i per -- du -- ti gior -- ni,
     Do -- po le not -- ti va -- neg -- gian -- do spe -- se,
-    do -- po le not -- ti va -- neg -- gian -- do spe -- se,
+    Do -- po le not -- ti va -- neg -- gian -- do spe -- se,
     Con quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
     Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
 
     Piac -- cia -- ti~o -- mai,
     \ijLyrics
-    piac -- cia -- ti~o -- mai, __
+    Piac -- cia -- ti~o -- mai, __
     \normalLyrics
-    piac -- cia -- ti~o -- mai,
+    Piac -- cia -- ti~o -- mai,
         col tuo lu -- me ch’io tor -- ni~Ad
-        al -- tra vi -- ta et a __ più bel -- le~im -- pre -- se,
+        al -- tra vi -- ta ed a __ più bel -- le~im -- pre -- se,
     \ijLyrics
-            et a più bel -- le~im -- pre -- se,
+            ed a più bel -- le~im -- pre -- se,
     \normalLyrics
     Sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
@@ -302,27 +302,27 @@ quintoLyricsX = \lyricmode {
     \ijLyrics
         va -- neg -- gian -- do spe -- se,
     \normalLyrics
-    do -- po le not -- ti va -- neg -- gian -- do spe -- se,
+    Do -- po le not -- ti va -- neg -- gian -- do spe -- se,
         va -- neg -- gian -- do spe -- se,
     Con __ quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
     \ijLyrics
-    con quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
+    Con quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
     \normalLyrics
     Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
         per mio mal sì~a -- dor -- ni,
-    mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
+    Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
 
     Piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~Ad
         al -- tra vi -- ta,
-    piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~Ad
-        al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
-    ad al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
+    Piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~Ad
+        al -- tra vi -- ta ed a più bel -- le~im -- pre -- se,
+    Ad al -- tra vi -- ta ed a più bel -- le~im -- pre -- se,
     \ijLyrics
-        et a più bel -- le~im -- pre -- se,
+        ed a più bel -- le~im -- pre -- se,
     \normalLyrics
     Sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
-    il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni.
+    Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni.
 }
 
 cantoXincipitVoice = <<

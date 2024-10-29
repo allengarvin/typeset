@@ -2,8 +2,8 @@
 % che quella cui tu piangi è forse in vita,
 % di ch'a me Morte e 'l ciel son tanto avari;
 % 
-% ma la stagione et l'ora men gradita,
-% col membrar de' dolci anni et de li amari,
+% ma la stagione e l'ora men gradita,
+% col membrar de' dolci anni e de li amari,
 % a parlar teco con pietà m'invita.
 
 cantoVIIincipit = \relative c'' {
@@ -38,17 +38,17 @@ cantoVII = \relative c'' {
 
 cantoLyricsVII = \lyricmode {
     Io non so se le par -- ti sa -- rian pa -- ri,
-    io non so se le par -- ti sa -- rian pa -- ri,
+    Io non so se le par -- ti sa -- rian pa -- ri,
     Che quel -- la cui tu pian -- gi è for -- se~in vi -- ta,
     Di ch'a me mor -- te~e'l ciel,
-    di ch'a me mor -- te~e'l ciel son tan -- to~a -- va -- ri,
+    Di ch'a me mor -- te~e'l ciel son tan -- to~a -- va -- ri,
         son tan -- to~a -- va -- ri;
 
     Ma la sta -- gio -- ne~e l'o -- ra men gra -- di -- ta,
-    Col mem -- brar de' dol -- ci~an -- ni~e de gli~a -- ma -- ri,
-    col mem -- brar de' dol -- ci~an -- ni~e de gli~a -- ma -- ri,
+    Col mem -- brar de' dol -- ci~an -- ni~e de -- gli~a -- ma -- ri,
+    Col mem -- brar de' dol -- ci~an -- ni~e de -- gli~a -- ma -- ri,
     A par -- lar te -- co,
-    a par -- lar te -- co con pie -- tà m'in -- vi -- ta,
+    A par -- lar te -- co con pie -- tà m'in -- vi -- ta,
         con pie -- tà m'in -- vi -- ta.
 }
 
@@ -85,25 +85,25 @@ altoVII = \relative c'' {
 altoLyricsVII = \lyricmode {
     Io non so se le par -- ti sa -- rian pa -- ri,
         sa -- rian pa -- ri,
-    io non so se le par -- ti sa -- rian pa -- ri,
+    Io non so se le par -- ti sa -- rian pa -- ri,
     Che quel -- la cui tu pian -- gi è for -- se~in vi -- ta,
     Di ch'a me mor -- te~e'l ciel,
-    di ch'a me mor -- te~e'l ciel,
+    Di ch'a me mor -- te~e'l ciel,
     \ijLyrics
-    di ch'a me mor -- te~e'l ciel
+    Di ch'a me mor -- te~e'l ciel
     \normalLyrics
         son tan -- to~a -- va -- ri,
         son tan -- to~a -- va -- ri;
 
     Ma la sta -- gio -- ne~e l'o -- ra men gra -- di -- ta,
-    Col mem -- brar de' dol -- ci~an -- ni~e de gli~a -- ma -- ri,
-    col mem -- brar de' dol -- ci~an -- ni~e de gli~a -- ma -- ri,
+    Col mem -- brar de' dol -- ci~an -- ni~e de -- gli~a -- ma -- ri,
+    Col mem -- brar de' dol -- ci~an -- ni~e de -- gli~a -- ma -- ri,
     A par -- lar te -- co,
     \ijLyrics
-    a par -- lar te -- co,
+    A par -- lar te -- co,
     \normalLyrics
-    a par -- lar te -- co con pie -- tà,
-    a par -- lar te -- co con pie -- tà m'in -- vi -- ta.
+    A par -- lar te -- co con pie -- tà,
+    A par -- lar te -- co con pie -- tà m'in -- vi -- ta.
 }
 
 tenoreVIIincipit = \relative c' {
@@ -136,10 +136,10 @@ tenoreLyricsVII = \lyricmode {
     Io non so se le par -- ti sa -- rian pa -- ri,
     Che quel -- la cui __ tu pian -- gi è for -- se~in vi -- ta,
     Di ch'a me mor -- te~e'l ciel,
-    di ch'a me mor -- te~e'l ciel son tan -- to~a -- va -- ri;
+    Di ch'a me mor -- te~e'l ciel son tan -- to~a -- va -- ri;
 
     Ma la sta -- gio -- ne~e l'o -- ra men gra -- di -- ta, __
-    Col mem -- brar de' dol -- ci~an -- ni~e de gli~a -- ma -- ri,
+    Col mem -- brar de' dol -- ci~an -- ni~e de -- gli~a -- ma -- ri,
     A par -- lar te -- co con pie -- tà m'in -- vi -- ta,
     A par -- lar te -- co con pie -- tà m'in -- vi -- ta.
 }
@@ -175,10 +175,10 @@ bassoLyricsVII = \lyricmode {
     Di ch'a me mor -- te~e'l ciel son tan -- to~a -- va -- ri, __
 
     Ma la sta -- gio -- ne~e l'o -- ra men gra -- di -- ta,
-    Col mem -- brar de' dol -- ci~an -- ni~e de gli~a -- ma -- ri,
+    Col mem -- brar de' dol -- ci~an -- ni~e de -- gli~a -- ma -- ri,
     A par -- lar te -- co,
-    a par -- lar te -- co,
-    a par -- lar te -- co con pie -- tà m'in -- vi -- ta,
+    A par -- lar te -- co,
+    A par -- lar te -- co con pie -- tà m'in -- vi -- ta,
         con pie -- tà m'in -- vi -- ta.
 }
 
@@ -212,16 +212,16 @@ quintoVII = \relative c'' {
 
 quintoLyricsVII = \lyricmode {
     Io non so se le par -- ti sa -- rian pa -- ri,
-    io non so se le par -- ti sa -- rian pa -- ri,
+    Io non so se le par -- ti sa -- rian pa -- ri,
         sa -- rian pa -- ri,
     Che quel -- la cui tu pian -- gi è for -- se~in vi -- ta,
     Di ch'a me mor -- te~e'l ciel son tan -- to~a -- va -- ri;
 
     Ma la sta -- gio -- ne~e l'o -- ra men gra -- di -- ta~e
         l'o -- ra men gra -- di -- ta,
-    Col mem -- brar de' dol -- ci~an -- ni~e de gli~a -- ma -- ri,
+    Col mem -- brar de' dol -- ci~an -- ni~e de -- gli~a -- ma -- ri,
     A par -- lar te -- co con __ pie -- tà m'in -- vi -- ta,
-    a par -- lar te -- co con pie -- tà m'in -- vi -- ta.
+    A par -- lar te -- co con pie -- tà m'in -- vi -- ta.
 }
 
 cantoVIIincipitVoice = <<

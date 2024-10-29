@@ -31,21 +31,21 @@ cantoOneXVIII = \relative c'' {
 cantoOneLyricsXVIII = \lyricmode {
     O che lie -- ve~in -- ga -- nar chi s'as -- se -- cu -- ra,
     Que' duo bei lu -- mi,
-    que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
+    Que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
     Chi pen -- sò mai ve -- der far ter -- ra~o -- scu -- ra?
 
     Or co -- gno -- sco~io,
     \ijLyrics
-    or co -- gno -- sco~io
+    Or co -- gno -- sco~io
     \normalLyrics
         che mia fe -- ra ven -- tu -- ra
-    Vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-    or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
-    vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-        et la -- gri -- man -- do~im -- pa -- ri,
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+    Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+        e la -- gri -- man -- do~im -- pa -- ri,
     Co -- me nul -- la quag -- giú di -- let -- ta,
         di -- let -- ta,
-        di -- let -- ta~et du -- ra.
+        di -- let -- ta~e du -- ra.
 
 }
 
@@ -83,20 +83,20 @@ cantoTwoXVIII = \relative c'' {
 cantoTwoLyricsXVIII = \lyricmode {
     O che lie -- ve~in -- ga -- nar chi s'as -- se -- cu -- ra,
     Que' duo bei lu -- mi,
-    que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
+    Que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
     Chi pen -- sò mai ve -- der far ter -- ra~o -- scu -- ra?
 
     Or co -- gno -- sco~io,
     \ijLyrics
-    or co -- gno -- sco~io
+    Or co -- gno -- sco~io
     \normalLyrics
         che mia fe -- ra ven -- tu -- ra
-    Vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-    or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
-    vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+    Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
     Co -- me nul -- la quag -- giú di -- let -- ta,
         di -- let -- ta,
-        di -- let -- ta~et du -- ra.
+        di -- let -- ta~e du -- ra.
 }
 
 altoXVIIIincipit = \relative c' {
@@ -132,22 +132,22 @@ altoXVIII = \relative c' {
 altoLyricsXVIII = \lyricmode {
     O che lie -- ve~in -- ga -- nar chi s'as -- se -- cu -- ra,
     Que' duo bei lu -- mi,
-    que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
+    Que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
     Chi pen -- sò mai ve -- der far ter -- ra~o -- scu -- ra?
 
     Or co -- gno -- sco~io,
     \ijLyrics
-    or co -- gno -- sco~io
+    Or co -- gno -- sco~io
     \normalLyrics
         che mia fe -- ra ven -- tu -- ra
-    Vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-    or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
-    vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-    vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+    Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
     Co -- me nul -- la quag -- giú di -- let -- ta,
         di -- let -- ta,
         di -- let -- ta, __
-        di -- let -- ta~et du -- ra.
+        di -- let -- ta~e du -- ra.
 }
 
 tenoreXVIIIincipit = \relative c' {
@@ -183,13 +183,13 @@ tenoreLyricsXVIII = \lyricmode {
 %
 
     Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
-    Vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta~et du -- ra,
-    or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
-    vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-    co -- me nul -- la quag -- giú di -- let -- ta, __
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+    Co -- me nul -- la quag -- giú di -- let -- ta~e du -- ra,
+    Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+    Co -- me nul -- la quag -- giú di -- let -- ta, __
         di -- let -- ta,
-        di -- let -- ta~et du -- ra.
+        di -- let -- ta~e du -- ra.
 }
 
 bassoXVIIIincipit = \relative c' {
@@ -221,17 +221,17 @@ bassoXVIII = \relative c' {
 
 bassoLyricsXVIII = \lyricmode {
     Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
-    Vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta~et du -- ra,
-    or co -- gno -- sco~io,
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+    Co -- me nul -- la quag -- giú di -- let -- ta~e du -- ra,
+    Or co -- gno -- sco~io,
     \ijLyrics
-    or co -- gno -- sco~io
+    Or co -- gno -- sco~io
     \normalLyrics
         che mia fe -- ra ven -- tu -- ra
-    vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-        et la -- gri -- man -- do~im -- pa -- ri,
-    co -- me nul -- la quag -- giú di -- let -- ta, 
-        di -- let -- ta~et du -- ra.
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+        e la -- gri -- man -- do~im -- pa -- ri,
+    Co -- me nul -- la quag -- giú di -- let -- ta, 
+        di -- let -- ta~e du -- ra.
 }
 
 quintoXVIIIincipit = \relative c' {
@@ -262,14 +262,14 @@ quintoXVIII = \relative c' {
 
 quintoLyricsXVIII = \lyricmode {
     Or co -- gno -- sco~io __ che mia fe -- ra ven -- tu -- ra
-    Vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta~et du -- ra,
-    or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
-    vuol che vi -- ven -- do~et la -- gri -- man -- do~im -- pa -- ri,
-        et la -- gri -- man -- do~im -- pa -- ri,
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+    Co -- me nul -- la quag -- giú di -- let -- ta~e du -- ra,
+    Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
+    Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
+        e la -- gri -- man -- do~im -- pa -- ri,
     Co -- me nul -- la quag -- giú di -- let -- ta,
         di -- let -- ta,
-        di -- let -- ta~et du -- ra.
+        di -- let -- ta~e du -- ra.
 }
 
 cantoOneXVIIIincipitVoice = <<
