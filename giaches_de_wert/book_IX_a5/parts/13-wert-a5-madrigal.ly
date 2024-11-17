@@ -36,7 +36,7 @@ cantoXIII = \relative c' {
 }
 
 cantoLyricsXIII = \lyricmode {
-    Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
+    Cru -- de -- le~a -- cer -- ba~in -- e -- so -- ra -- bil mor -- te,
     Ca -- gion mi dai di mai non es -- ser lie -- to
     Ma di me -- nar,
     Ma di me -- nar tut -- ta mia vi -- ta~in pian -- to,
@@ -98,8 +98,8 @@ altoXIII = \relative c' {
 }
 
 altoLyricsXIII = \lyricmode {
-    Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
-    Cru -- de -- le~a -- cer -- ba~in __ e -- so -- ra -- bil __ mor -- te,
+    Cru -- de -- le~a -- cer -- ba~in -- e -- so -- ra -- bil mor -- te,
+    Cru -- de -- le~a -- cer -- ba~in -- e -- so -- ra -- bil __ mor -- te,
     Ca -- gion mi dai,
     Ca -- gion mi dai di mai non es -- ser lie -- to
     Ma di me -- nar tut -- ta mia vi -- ta~in pian -- to,
@@ -113,7 +113,7 @@ altoLyricsXIII = \lyricmode {
     E~i gior -- ni~o -- scu -- ri e le do -- glio -- se not -- ti,
     E~i gior -- ni~o -- scu -- ri,
     E~i gior -- ni~o -- scu -- ri~e le do -- glio -- se __ not -- ti,
-        e le do -- glio -- se~et le do -- glio -- se not -- ti:
+        e le do -- glio -- se~e le do -- glio -- se not -- ti:
     I miei gra -- vi so -- spir non van -- no~in ri -- me,
         non van -- no~in ri -- me,
         non van -- no~in ri -- me,
@@ -167,7 +167,7 @@ tenoreXIII = \relative c' {
 }
 
 tenoreLyricsXIII = \lyricmode {
-    Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
+    Cru -- de -- le~a -- cer -- ba~in -- e -- so -- ra -- bil mor -- te,
     Ca -- gion mi dai,
     Ca -- gion mi dai di mai non es -- ser lie -- to,
     Ca -- gion mi dai di mai non es -- ser lie -- to
@@ -220,7 +220,7 @@ bassoXIII = \relative c {
 }
 
 bassoLyricsXIII = \lyricmode {
-    Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te, __
+    Cru -- de -- le~a -- cer -- ba~in -- e -- so -- ra -- bil mor -- te, __
     Ca -- gion mi dai di mai non es -- ser lie -- to,
         di mai non es -- ser lie -- to
     Ma di me -- nar tut -- ta mia vi -- ta~in pian -- to,
@@ -273,7 +273,7 @@ quintoXIII = \relative c' {
 }
 
 quintoLyricsXIII = \lyricmode {
-    Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
+    Cru -- de -- le~a -- cer -- ba~in -- e -- so -- ra -- bil mor -- te,
     Ca -- gion mi dai di mai non es -- ser lie -- to
     Ma __ di me -- nar tut -- ta mia vi -- ta~in pian -- to,
     Ma di me -- nar tut -- ta mia vi -- ta~in pian -- to,

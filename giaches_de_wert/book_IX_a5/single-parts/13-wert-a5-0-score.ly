@@ -91,7 +91,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { Crudele, acerba, in esorabil morte, }
+                \line { Crudele, acerba, inesorabil morte, }
                 \line { cagion mi dai di mai non esser lieto }
                 \line { ma di menar tutta mia vita in pianto }
                 \line { e i giorni oscuri et le dogliose notti; }
