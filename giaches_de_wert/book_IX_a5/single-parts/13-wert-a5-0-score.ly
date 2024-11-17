@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Crudele, acerba, in exorabil morte"
+    title = "Crudele, acerba, inexorabil morte"
     subtitle = "Seconda parte"
-    instrument = "Crudele, acerba, in exorabil morte (score)"
+    instrument = "Crudele, acerba, inexorabil morte (score)"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CCCXXXII (332) }
