@@ -42,8 +42,8 @@ cantusX = \relative c' {
 }
 
 cantusLyricsX = \lyricmode {
-    Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
-        in e -- so -- ra -- bil mor -- te,
+    Cru -- de -- le~a -- cer -- ba~i -- ne -- so -- ra -- bil mor -- te,
+        i -- ne -- so -- ra -- bil mor -- te,
     Ca -- gion mi dài __ di mai non es -- ser lie -- to
     Ma di me -- nar tut -- ta mia vi -- ta~in pian -- to
     E~i gior -- ni~o -- scu -- ri et le do -- glio -- se not -- ti;
@@ -91,8 +91,8 @@ altusX = \relative c' {
 }
 
 altusLyricsX = \lyricmode {
-    Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
-        in e -- so -- ra -- bil mor -- te,
+    Cru -- de -- le~a -- cer -- ba~i -- ne -- so -- ra -- bil mor -- te,
+        i -- ne -- so -- ra -- bil mor -- te,
     Ca -- gion mi dài,
     ca -- gion mi dài di mai non es -- ser lie -- to
     Ma di me -- nar tut -- ta mia vi -- ta~in pian -- to
@@ -140,7 +140,7 @@ tenorX = \relative c {
 }
 
 tenorLyricsX = \lyricmode {
-    Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
+    Cru -- de -- le~a -- cer -- ba~i -- ne -- so -- ra -- bil mor -- te,
     Ca -- gion mi dài di mai non es -- ser lie -- to
     Ma di me -- nar,
     ma di me -- nar __ tut -- ta mia vi -- ta~in pian -- to
@@ -189,7 +189,7 @@ bassusX = \relative c {
 }
 
 bassusLyricsX = \lyricmode {
-    Cru -- de -- le~a -- cer -- ba~in e -- so -- ra -- bil mor -- te,
+    Cru -- de -- le~a -- cer -- ba~i -- ne -- so -- ra -- bil mor -- te,
     Ca -- gion mi dài di mai __ non es -- ser lie -- to
     Ma di me -- nar tut -- ta __ mia vi -- ta~in pian -- to
     E~i gior -- ni~o -- scu -- ri et le do -- glio -- se not -- ti;
