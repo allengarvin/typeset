@@ -91,15 +91,15 @@
         \fill-line {
             \column {
                 \line { Laura soave, vita di mia vita, }
-                \line { Che così dolcemente }
-                \line { A l'amoroso suo foco m’invita, }
-                \line { Con sì cara dolcezza }
-                \line { M’infiamma il cor sovente, }
-                \line { Che di quel dolce ardor prendo vaghezza; }
+                \line { che così dolcemente }
+                \line { all'amoroso suo foco m’invita, }
+                \line { con sì cara dolcezza }
+                \line { m’infiamma il cor sovente, }
+                \line { che di quel dolce ardor prendo vaghezza; }
                 \line { E sì dolce è il gioire, }
-                \line { Che di dolcezza sentomi morire: }
-                \line { E ben morrò, se tosto non m’aita }
-                \line { Laura soave, vita di mia vita. }
+                \line { che di dolcezza sentomi morire: }
+                \line { e ben morrò, se tosto non m’aita }
+                \line { laura soave, vita di mia vita. }
             }
         }
     }
