@@ -17,6 +17,8 @@
     shorttitle = "cinto_mhavea_tra_belle_e_nude_braccia"
     shortcomp = "a_gabrieli"
     categories = "[madrigal]"
+    poeticform = "madrigal"
+    motifs = "[amore,embrace]"
     needtranslation = #'f
 
     % Unchanging:

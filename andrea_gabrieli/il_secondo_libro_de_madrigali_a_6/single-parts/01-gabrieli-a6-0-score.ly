@@ -25,6 +25,8 @@
     flats = 1
     final = "g"
     categories = "[madrigal]"
+    poeticform = "ottava rima"
+    motifs = "[sleep,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -101,18 +103,18 @@
         \fill-line {
             \column {
                 \line { Sonno diletto e caro }
-                \line { Che alla mia Donna in sen mi guidi e scorgi, }
-                \line { Perché sì tosto, ohimè, lasso ten vai }
-                \line { Poi che a questi occhi è sì il veggiar amaro? }
+                \line { che alla mia Donna in sen mi guidi e scorgi, }
+                \line { perché sì tosto, ohimè, lasso ten vai }
+                \line { poi che a questi occhi è sì il veggiar amaro? }
                 \line { Torna, deh torna, o dolce sonno e mai }
-                \line { Non mi lasciar che un tanto ben mi porgi; }
-                \line { Tu mi dimostri e sia pur falso o vero }
-                \line { Quel che vegghiando mai veder non spero. }
+                \line { non mi lasciar che un tanto ben mi porgi; }
+                \line { tu mi dimostri e sia pur falso o vero }
+                \line { quel che vegghiando mai veder non spero. }
             }
             \column {
                 \line { Slumber, dear and beloved, }
                 \line { which lead and guide me to my woman's bosom, }
-                \line { why do you wander away so quickly,woe is me, }
+                \line { why do you wander away so quickly, woe is me, }
                 \line { since waking is bitter to my eyes? }
                 \line { Come back, come back, sweet slumber, and never  }
                 \line { leave me, as you bring to me such good; }

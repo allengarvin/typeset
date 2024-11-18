@@ -14,6 +14,7 @@
     subtitle = ""
     instrument = "Vieni Flora gentil:  (score)"
     categories = "[madrigal]"
+    motifs = "[flora,spring]"
     needtranslation = #'f
     language = "italian"
     shortcomp = "a_gabrieli"

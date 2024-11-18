@@ -22,7 +22,7 @@
     shorttitle = "quel_dolce_suono"
     shortcomp = "gabrieli"
     categories = "[madrigal]"
-    motifs = "[morte]"
+    motifs = "[morte,song]"
     needtranslation = #'f
 
     % Unchanging:

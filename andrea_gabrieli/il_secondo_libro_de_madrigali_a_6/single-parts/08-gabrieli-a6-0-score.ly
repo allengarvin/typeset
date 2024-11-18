@@ -14,6 +14,8 @@
     subtitle = ""
     instrument = "Dolcissimo ben mio:  (score)"
     categories = "[madrigal]"
+    poeticform = "madrigal"
+    motifs = "[amore,reward,kiss]"
     needtranslation = #'f
     language = "italian"
     shortcomp = "a_gabrieli"
@@ -100,13 +102,13 @@
         \fill-line {
             \column {
                 \line { Dolcissimo ben mio, }
-                \line { Speme di questo core, }
-                \line { In premio del mio amore }
-                \line { Donami un bacio e satia il mio desio; }
-                \line { Unico mio tesoro, }
-                \line { Porgimi quelle rose }
-                \line { C'hai nelle labra ascose }
-                \line { Ch'a l'alma mia darai dolce ristoro. }
+                \line { speme di questo core, }
+                \line { in premio del mio amore }
+                \line { donami un bacio e satia il mio desio; }
+                \line { unico mio tesoro, }
+                \line { porgimi quelle rose }
+                \line { ch'hai nelle labra ascose }
+                \line { ch'a l'alma mia darai dolce ristoro. }
             }
             \column {
                 \line { My very sweetest one, }

@@ -22,6 +22,8 @@
     shorttitle = "se_tu_mami"
     shortcomp = "gabrieli"
     categories = "[madrigal]"
+    motifs = "[amore]"
+    poeticform = "madrigal"
     needtranslation = #'f
 
     % Unchanging:

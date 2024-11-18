@@ -21,6 +21,8 @@
     % Unchanging:
     lastupdated = "2019-11-14"
     categories = "[madrigal]"
+    poeticform = "madrigal"
+    motifs = "[amore,youth]"
     originally_set = "2019-11-14"
     flats = 1
     final = "g"

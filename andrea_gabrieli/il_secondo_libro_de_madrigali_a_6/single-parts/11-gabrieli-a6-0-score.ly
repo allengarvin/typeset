@@ -100,13 +100,13 @@
         \fill-line {
             \column {
                 \line { O soave al mio cor dolce catena, }
-                \line { Care amorose braccia }
-                \line { Che mi cingete il petto }
-                \line { Da voi mi sento appena }
-                \line { Leggiadramente circondato è stretto }
-                \line { Chè l'anima s'allaccia, }
-                \line { E non havrà se sia legata forte }
-                \line { Più grato nodo o più beata sorte. }
+                \line { care amorose braccia }
+                \line { che mi cingete il petto }
+                \line { da voi mi sento appena }
+                \line { leggiadramente circondato è stretto }
+                \line { ché l'anima s'allaccia, }
+                \line { e non havrà se sia legata forte }
+                \line { più grato nodo o più beata sorte. }
             }
         }
     }

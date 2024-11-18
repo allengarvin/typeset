@@ -23,6 +23,7 @@
     shortcomp = "gabrieli"
     categories = "[madrigal,morte]"
     motifs = "[morte,basilisk,la-petite-mort]"
+    poeticform = "madrigal"
     needtranslation = #'f
 
     % Unchanging:

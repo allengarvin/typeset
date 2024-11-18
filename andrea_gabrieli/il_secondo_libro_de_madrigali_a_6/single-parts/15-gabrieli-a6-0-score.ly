@@ -116,7 +116,7 @@
                % translation orig date: 2023-08-12
                % translation updated:
                 \line { How can it be that you are not worn-out, Love, } 
-                \line { If if fact you are not satisfied } 
+                \line { If in fact you are not satisfied } 
                 \line { with shooting darts into my heart? } 
                 \line { My breast is seemingly torn open in a thousand ways, } 
                 \line { as if there is no room for a new wound in it? } 
