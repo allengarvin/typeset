@@ -10,8 +10,8 @@
 
 \header {
     % Things that change per piece:
-    title = "Crudele, acerba, in exorabil morte"
-    instrument = "Crudele, acerba, in exorabil morte (score)"
+    title = "Crudele, acerba, inexorabil morte"
+    instrument = "Crudele, acerba, inexorabil morte (score)"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CCCXXXII (332) }
@@ -82,7 +82,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { Crudele, acerba, in esorabil morte, }
+                \line { Crudele, acerba, inesorabil morte, }
                 \line { cagion mi dài di mai non esser lieto }
                 \line { ma di menar tutta mia vita in pianto }
                 \line { e i giorni oscuri et le dogliose notti; }

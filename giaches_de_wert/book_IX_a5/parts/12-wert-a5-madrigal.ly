@@ -34,7 +34,7 @@ cantoLyricsXII = \lyricmode {
     E~i __ so -- a -- vi so -- spir e'l __ dol -- ce __ sti -- le
 
     Che __ so -- lea re -- so -- nar in __ ver -- si~e'n __ ri -- me, __
-    Vòl -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to, __
+    Vol -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to, __
     O -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te,
         e bra -- mar mor -- te.
 }
@@ -79,7 +79,7 @@ altoLyricsXII = \lyricmode {
     Che so -- lea re -- so -- nar in ver -- si~e'n ri -- me,
         in ver -- si~e'n ri -- me,
         in ver -- si~e'n ri -- me, __
-    Vòl -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to,
+    Vol -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to,
         in do -- glia~e pian -- to,
     O -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te.
 }
@@ -120,7 +120,7 @@ tenoreLyricsXII = \lyricmode {
 
     Che so -- lea re -- so -- nar in ver -- si~e'n ri -- me,
         in ver -- si~e'n ri -- me,
-    Vòl -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to,
+    Vol -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to,
         in do -- glia~e pian -- to, __
     O -- diar,
     O -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te.
@@ -163,7 +163,7 @@ bassoLyricsXII = \lyricmode {
 
     Che so -- lea re -- so -- nar,
     Che so -- lea re -- so -- nar in ver -- si~e'n ri -- me,
-    Vòl -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to,
+    Vol -- ti su -- bi -- ta -- men -- te~in do -- glia~e pian -- to,
     O -- diar __ vi -- ta mi fan -- no~e bra -- mar mor -- te,
     O -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te.
 }
@@ -208,7 +208,7 @@ quintoLyricsXII = \lyricmode {
 
     Che __ so -- lea re -- so -- nar,
     Che __ so -- lea re -- so -- nar __ in ver -- si~e'n ri -- me,
-    Vòl -- ti su -- bi -- ta -- men -- te~in do -- glia~e __ pian -- to,
+    Vol -- ti su -- bi -- ta -- men -- te~in do -- glia~e __ pian -- to,
         in __ do -- glia~e __ pian -- to,
     O -- diar vi -- ta mi fan -- no~e bra -- mar mor -- te,
     O -- diar vi -- ta mi fan -- no~o -- diar 

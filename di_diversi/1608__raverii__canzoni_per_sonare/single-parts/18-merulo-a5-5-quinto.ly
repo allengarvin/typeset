@@ -43,3 +43,17 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "18-merulo--canzon_decimaottava-a4_e_a5_si_placet"
+    \bookOutputSuffix "--2-quinto--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \quintoXVIII
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

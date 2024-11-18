@@ -104,15 +104,16 @@
                 \line { \hspace #10 Ostinato ... }
             }
             \column {
-                \line { Stubbornly I will follow }
+                % translation modified: 2024-11-14
+                \line { Stubbornly I wish to follow }
                 \line { my noblest venture; }
                 \line { Do to me, Love, what offends you, }
                 \line { if I must die well. }
                 \line { \hspace #10 Stubbornly... }
                 \line { \vspace #2 }
                 \line { Do me, Heavens, do me, O Fortune, }
-                \line { good or ill as you please: }
-                \line { neither pleasure nor injury }
+                \line { good or ill as pleases you: }
+                \line { neither pleasure nor any injury }
                 \line { will dishearten me or make me more foolhardy. }
                 \line { For of the one I am incapable, }
                 \line { [while] the other I cannot escape. }
@@ -120,8 +121,8 @@
                 \line { \vspace #2 }
                 \line { Win or lose, I expect naught }
                 \line { of my venture other than honor: }
-                \line { Above heaven I will blessedly ascend }
-                \line { if of it I become the victor. }
+                \line { To heaven above blessedly ascending }
+                \line { should of it I become the victor. }
                 \line { If I nobly lose her in the end, my heart }
                 \line { will demonstrate its highest desire. }
                 \line { \hspace #10 Stubbornly... }
