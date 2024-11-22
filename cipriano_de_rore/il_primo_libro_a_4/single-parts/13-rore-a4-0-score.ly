@@ -36,7 +36,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #6.0
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
@@ -103,6 +103,15 @@
                 \line { so sweet are my returns. }
                 \line { \hspace #10 \italic { translation by editor } } 
             }
+        }
+    }
+    \markup {
+        \wordwrap {
+            Note: In addition to the well-known euphemism of death or dying
+            for sexual orgasm, \italic { partire } also has a connotation of
+            ejaculation. See \italic { Dizionario storico del lessico erotico
+            italiano } (Milan: Langanesi, 1992, 2012), section 2.12 p. 348,
+            \italic { Eiaculazione. }
         }
     }
 }
