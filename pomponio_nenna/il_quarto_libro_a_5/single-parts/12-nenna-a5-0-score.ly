@@ -20,6 +20,7 @@
     shorttitle = "o_gradite_o_sprezzate"
     shortcomp = "nenna"
     categories = "[madrigal]"
+    motifs = "[amore]"
     final = "f"
     flats = 1
     needtranslation = #'f

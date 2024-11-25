@@ -22,7 +22,7 @@
     shorttitle = "chio_ami_la_mia_vita"
     shortcomp = "monteverdi"
     categories = "[madrigal]"
-    motifs = "[live,death]"
+    motifs = "[life,death]"
     needtranslation = #'t
 
     % Unchanging:

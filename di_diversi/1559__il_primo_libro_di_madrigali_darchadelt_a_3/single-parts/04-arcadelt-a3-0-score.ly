@@ -24,6 +24,8 @@
     final = "d"
     shorttitle = "dormendo_un_giorno"
     categories = "[madrigal]"
+    motifs = "[sleeping,cupid,nymphs,amore,flame]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -76,13 +78,13 @@
         \fill-line {
             \column {
                 \line { Dormendo un giorno a Baia a l'ombra Amore }
-                \line { Dove il mormor de fonti più gli piacque, }
-                \line { Corser le ninfe a vendicar l’ardore }
-                \line { E la face gli ascosen sotto l’acque.  }
-                \line { Ch’il crederebbe, dentro a quel liquore }
-                \line { Subitemente eterno foco nacque,  }
-                \line { Onde a quei bagni, sempre il caldo dura, }
-                \line { Che la fiamma d’amor acqua non cura. }
+                \line { dove il mormor de fonti più gli piacque, }
+                \line { corser le ninfe a vendicar l'ardore }
+                \line { e la face gli ascosen sotto l'acque.  }
+                \line { Ch'il crederebbe, dentro a quel liquore }
+                \line { subitemente eterno foco nacque,  }
+                \line { onde a quei bagni, sempre il caldo dura, }
+                \line { che la fiamma d'amor acqua non cura. }
             }
         }
     }

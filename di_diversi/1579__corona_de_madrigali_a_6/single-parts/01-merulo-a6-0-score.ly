@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Gelo hà madonna il seno e fiamma il volto"
-    instrument = "Gelo hà madonna (score)"
-    needtranslation = #'t
+    title = "Gelo ha madonna il seno e fiamma il volto"
+    instrument = "Gelo ha madonna (score)"
+    needtranslation = #'f
     language = "italian"
     composer = "Claudio Merulo (1533-1604)"
     folio = \markup { Torquato Tasso, \italic{Rime d'Amore} 333 }
@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "gelo_ha_madonna"
     categories = "[madrigal]"
+    motifs = "[unrequited-love,male-pov,flame,ice,paradox]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -93,13 +94,25 @@
     \markup {
         \fill-line {
             \column {
-                \line { Gelo hà madonna il seno e fiamma il volto; } 
-                \line { Io son ghiaccio di fuore } 
-                \line { E ’l foco ho dentro accolto. } 
-                \line { Questo avien perche Amore } 
-                \line { Ne la sua fronte alberga e nel mio petto, } 
-                \line { Né mai cangia ricetto } 
-                \line { Sì ch’io l’abbia ne gli occhi ella nel core. } 
+                % Italian touchup: bunch of problems fixed 2024-11-20
+                \line { Gelo ha madonna il seno e fiamma il volto; } 
+                \line { io son ghiaccio di fuore } 
+                \line { e 'l foco ho dentro accolto. } 
+                \line { Questo avvien perché Amore } 
+                \line { nella sua fronte alberga e nel mio petto, } 
+                \line { né mai cangia ricetto } 
+                \line { sì ch'io l'abbia negli occhi, ella nel core. } 
+            }
+            \column {
+                 % translation: 2024-11-20. This is a good one!
+                 \line { My lady has frost in her chest and flame in her face; }
+                 \line { I am frozen without, }
+                 \line { and hold a welcome flame within. }
+                 \line { This happens because love }
+                 \line { dwells in her brow and in my breast, }
+                 \line { and not ever does it change its refuge }
+                 \line { so that I bear it in my eyes, she in her heart. }
+                 \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

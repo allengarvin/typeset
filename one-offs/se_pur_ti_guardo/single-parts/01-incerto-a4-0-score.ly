@@ -20,6 +20,7 @@
     flats = 1
     final = "f"
     shorttitle = "se_pur_ti_guardo"
+    categories = "[villanella]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

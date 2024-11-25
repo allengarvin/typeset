@@ -17,6 +17,7 @@
 
     % Unchanging:
     language = "italian"
+    categories = "[villanella]"
     lastupdated = "2020-02-29"
     originallyset = "2020-02-29"
     flats = 1

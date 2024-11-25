@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_che_nuovo_miracolo"
     shortcomp = "cavalieri"
+    categories = "[madrigal]"
     composer = "Emilio de' Cavalieri (c.1550-1602)"
     flats = 0
     final = "g"

@@ -24,7 +24,7 @@
     flats = 0
     final = "a"
     categories = "[madrigal,morte]"
-    motifs = "[la-petite-mort]"
+    motifs = "[la-petite-mort,female-pov]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -95,17 +95,20 @@
         \fill-line {
             \column {
                 \line { Caro dolce ben mio, perché fuggire, }
-                \line { Chi v'ama, et per amar languisce e more? }
+                \line { chi v'ama, et per amar languisce e more? }
                 \line { Se vi piace il mio pianto e'l mio martire, }
-                \line { Eccovi il petto, e ne cavate il core; }
-                \line { Ché quando io deggia per dolor morire, }
-                \line { E far del viver mio più brevi l'ore, }
-                \line { L'alma lieta da me farà partita }
-                \line { Se di man vostra lasciarò la vita. }
+                \line { eccovi il petto, e ne cavate il core; }
+                \line { ché quando io deggia per dolor morire, }
+                \line { e far del viver mio più brevi l'ore, }
+                \line { l'alma lieta da me farà partita }
+                \line { se di man vostra lasciarò la vita. }
             }
             \column {
+                % translation modified: 2024-11-18
+                % caro dolce ben mio: I had "he who" but this is clearly
+                % addressing a man
                 \line { My sweet dear love, why flee }
-                \line { he who loves you, and for love languishes and dies? }
+                \line { she who loves you, and for love languishes and dies? }
                 \line { If my weeping and my suffering please you, }
                 \line { here is my chest, and from it you may rip out my heart; }
                 \line { Because when I must, from grief, die, }

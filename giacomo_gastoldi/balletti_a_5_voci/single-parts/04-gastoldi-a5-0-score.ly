@@ -20,6 +20,7 @@
     flats = 0
     final = "c"
     shorttitle = "speme_amorosa"
+    categories = "[villanella]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

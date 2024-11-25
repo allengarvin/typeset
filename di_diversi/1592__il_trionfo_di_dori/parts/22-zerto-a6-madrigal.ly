@@ -1,10 +1,10 @@
-% L’inargentato lido,
+% L'inargentato lido,
 % Che la fronte a Nettun pomposo cinge,
-% E d’Adria’l sen dipinge,
+% E d'Adria'l sen dipinge,
 % Col più amoroso grido,
-% Dori t’adora e inchina,
+% Dori t'adora e inchina,
 % Di lui sola regina,
-% O rari eccelsi honori,
+% O rari eccelsi onori,
 % Cantan le gratie e i tenerini Amori,
 % Viva la bella Dori.
 
@@ -45,35 +45,35 @@ cantoXXII = \relative c'' {
 }
 
 cantoLyricsXXII = \lyricmode {
-    L’i -- nar -- gen -- ta -- to li -- do,
-    l’i -- nar -- gen -- ta -- to li -- do,
+    L'i -- nar -- gen -- ta -- to li -- do
+    L'i -- nar -- gen -- ta -- to li -- do
     Che la fron -- te~a Net -- tun 
     \ijLyrics
-    che la fron -- te~a Net -- tun 
+    Che la fron -- te~a Net -- tun 
     \normalLyrics
         pom -- po -- so cin -- ge,
-    E d’A -- dria’l sen di -- pin -- ge,
+    E d'A -- dria'l sen di -- pin -- ge,
     Col più~a -- mo -- ro -- so gri -- do, __
-    Do -- ri t’a -- do -- ra,
-        t’a -- do -- ra~e~in -- chi -- na,
+    Do -- ri t'a -- do -- ra,
+        t'a -- do -- ra~e~in -- chi -- na,
     Di lui so -- la Re -- gi -- na,
-    di lui so -- la Re -- gi -- na,
+    Di lui so -- la Re -- gi -- na,
     \ijLyrics
-    di lui so -- la Re -- gi -- na,
+    Di lui so -- la Re -- gi -- na,
     \normalLyrics
-        so -- la Re -- gi -- na,
-    O __ ra -- ri~ec -- cel -- si~o -- no -- ri,
-    Can -- tan le gra -- tie e~i __ te -- ne -- ri -- ni~A -- mo -- ri,
-    Can -- tan le gra -- tie e~i te -- ne -- ri -- ni~A -- mo -- ri,
+        so -- la Re -- gi -- na.
+    O __ ra -- ri~ec -- cel -- si~o -- no -- ri
+    Can -- tan le Gra -- zie e~i __ te -- ne -- ri -- ni~A -- mo -- ri,
+    Can -- tan le Gra -- zie e~i te -- ne -- ri -- ni~A -- mo -- ri,
     \ijLyrics
         e~i te -- ne -- ri -- ni~A -- mo -- ri,
     \normalLyrics
-    Vi -- va la bel -- la Do -- ri,
-    Vi -- va la bel -- la Do -- ri,
+    Vi -- va la bel -- la Do -- ri!
+    Vi -- va la bel -- la Do -- ri!
     \ijLyrics
-    Vi -- va la bel -- la Do -- ri,
+    Vi -- va la bel -- la Do -- ri!
     \normalLyrics
-        la bel -- la Do -- ri.
+        la bel -- la Do -- ri!
 }
 
 altoXXIIincipit = \relative c' {
@@ -113,28 +113,28 @@ altoXXII = \relative c' {
 }
 
 altoLyricsXXII = \lyricmode {
-    L’i -- nar -- gen -- ta -- to li -- do,
+    L'i -- nar -- gen -- ta -- to li -- do
     Che la fron -- te~a Net -- tun 
-    che la fron -- te~a Net -- tun 
+    Che la fron -- te~a Net -- tun 
         pom -- po -- so cin -- ge,
-    E d’A -- dria’l sen di -- pin -- ge,
-    e d’A -- dria’l sen __ di -- pin -- ge,
+    E d'A -- dria'l sen di -- pin -- ge,
+    E d'A -- dria'l sen __ di -- pin -- ge,
     Col più~a -- mo -- ro -- so gri -- do, 
-    Do -- ri t’a -- do -- ra~e~in -- chi -- na,
+    Do -- ri t'a -- do -- ra~e~in -- chi -- na,
         e~in -- chi -- na,
     Di lui so -- la Re -- gi -- na,
-    di lui so -- la Re -- gi -- na,
-       so -- la Re -- gi -- na,
-    O ra -- ri~ec -- cel -- si~o -- no -- ri,
-    Can -- tan le gra -- tie,
+    Di lui so -- la Re -- gi -- na,
+       so -- la Re -- gi -- na.
+    O ra -- ri~ec -- cel -- si~o -- no -- ri
+    Can -- tan le Gra -- zie,
     \ijLyrics
-    can -- tan le gra -- tie~e~i 
+    Can -- tan le Gra -- zie~e~i 
     \normalLyrics
         te -- ne -- ri -- ni~A -- mo -- ri,
-    Can -- tan le gra -- tie~e~i te -- ne -- ri -- ni~A -- mo -- ri,
-    Vi -- va la bel -- la Do -- ri,
+    Can -- tan le Gra -- zie~e~i te -- ne -- ri -- ni~A -- mo -- ri,
+    Vi -- va la bel -- la Do -- ri!
         la bel -- la Do -- ri,
-    Vi -- va la bel -- la Do -- ri.
+    Vi -- va la bel -- la Do -- ri!
 }
 
 tenoreXXIIincipit = \relative c' {
@@ -173,22 +173,22 @@ tenoreXXII = \relative c' {
 }
 
 tenoreLyricsXXII = \lyricmode {
-    L’i -- nar -- gen -- ta -- to li -- do,
+    L'i -- nar -- gen -- ta -- to li -- do
     Che la fron -- te~a Net -- tun, 
-    che la fron -- te~a Net -- tun pom -- po -- so cin -- ge,
+    Che la fron -- te~a Net -- tun pom -- po -- so cin -- ge,
         pom -- po -- so cin -- ge,
-    E d’A -- dria’l sen di -- pin -- ge,
+    E d'A -- dria'l sen di -- pin -- ge,
     Col più~a -- mo -- ro -- so gri -- do, 
-    Do -- ri t’a -- do -- ra~e~in -- chi -- na,
+    Do -- ri t'a -- do -- ra~e~in -- chi -- na,
     Di lui so -- la Re -- gi -- na,
-    di lui so -- la Re -- gi -- na,
+    Di lui so -- la Re -- gi -- na.
     O ra -- ri,
-    O ra -- ri~ec -- cel -- si~o -- no -- ri,
-    Can -- tan le gra -- tie~e~i te -- ne -- ri -- ni~A -- mo -- ri,
-    Can -- tan le gra -- tie e~i te -- ne -- ri -- ni~A -- mo -- ri,
-    Vi -- va la bel -- la Do -- ri,
-    Vi -- va la bel -- la Do -- ri,
-    Vi -- va la bel -- la Do -- ri.
+    O ra -- ri~ec -- cel -- si~o -- no -- ri
+    Can -- tan le Gra -- zie~e~i te -- ne -- ri -- ni~A -- mo -- ri,
+    Can -- tan le Gra -- zie e~i te -- ne -- ri -- ni~A -- mo -- ri,
+    Vi -- va la bel -- la Do -- ri!
+    Vi -- va la bel -- la Do -- ri!
+    Vi -- va la bel -- la Do -- ri!
 }
 
 bassoXXIIincipit = \relative c {
@@ -224,20 +224,20 @@ bassoXXII = \relative c {
 }
 
 bassoLyricsXXII = \lyricmode {
-    L’i -- nar -- gen -- ta -- to li -- do,
+    L'i -- nar -- gen -- ta -- to li -- do,
     Che la fron -- te~a Net -- tun pom -- po -- so cin -- ge,
-    E d’A -- dria’l sen __ di -- pin -- ge,
+    E d'A -- dria'l sen __ di -- pin -- ge,
     Col più~a -- mo -- ro -- so __ gri -- do, 
     Di lui so -- la Re -- gi -- na,
-    di lui so -- la Re -- gi -- na,
-    O ra -- ri~ec -- cel -- si~o -- no -- ri,
-    Can -- tan le gra -- tie,
+    Di lui so -- la Re -- gi -- na.
+    O ra -- ri~ec -- cel -- si~o -- no -- ri
+    Can -- tan le Gra -- zie,
     \ijLyrics
-    Can -- tan le gra -- tie~e~i 
+    Can -- tan le Gra -- zie~e~i 
     \normalLyrics
         te -- ne -- ri -- ni~A -- mo -- ri,
-    Vi -- va la bel -- la Do -- ri,
-    Vi -- va la bel -- la Do -- ri.
+    Vi -- va la bel -- la Do -- ri!
+    Vi -- va la bel -- la Do -- ri!
 }
 
 quintoXXIIincipit = \relative c' {
@@ -278,27 +278,27 @@ quintoXXII = \relative c' {
 }
 
 quintoLyricsXXII = \lyricmode {
-    L’i -- nar -- gen -- ta -- to li -- do,
-    l’i -- nar -- gen -- ta -- to li -- do,
+    L'i -- nar -- gen -- ta -- to li -- do,
+    L'i -- nar -- gen -- ta -- to li -- do
     Che __ la fron -- te,
-    che la fron -- te~a Net -- tun pom -- po -- so cin -- ge,
-    E d’A -- dria’l sen __ di -- pin -- ge,
+    Che la fron -- te~a Net -- tun pom -- po -- so cin -- ge,
+    E d'A -- dria'l sen __ di -- pin -- ge,
     Col più~a -- mo -- ro -- so gri -- do, 
-    col più~a -- mo -- ro -- so gri -- do, 
-    Do -- ri t’a -- do -- ra~e~in -- chi -- na,
+    Col più~a -- mo -- ro -- so gri -- do, 
+    Do -- ri t'a -- do -- ra~e~in -- chi -- na,
     Di lui so -- la Re -- gi -- na,
-    di lui so -- la Re -- gi -- na,
+    Di lui so -- la Re -- gi -- na,
     \ijLyrics
-    di __ lui so -- la Re -- gi -- na,
+    Di __ lui so -- la Re -- gi -- na,
     \normalLyrics
-        so -- la Re -- gi -- na,
-    O ra -- ri~ec -- cel -- si~o -- no -- ri,
-    Can -- tan le gra -- tie,
-    Can -- tan le gra -- tie~e~i te -- ne -- ri -- ni~A -- mo -- ri,
+        so -- la Re -- gi -- na.
+    O ra -- ri~ec -- cel -- si~o -- no -- ri
+    Can -- tan le Gra -- zie,
+    Can -- tan le Gra -- zie~e~i te -- ne -- ri -- ni~A -- mo -- ri,
         e~i te -- ne -- ri -- ni~A -- mo -- ri,
-    Vi -- va la bel -- la Do -- ri,
+    Vi -- va la bel -- la Do -- ri!
         la bel -- la Do -- ri,
-    Vi -- va la bel -- la Do -- ri.
+    Vi -- va la bel -- la Do -- ri!
 }
 
 sestoXXIIincipit = \relative c'' {
@@ -338,30 +338,30 @@ sestoXXII = \relative c'' {
 }
 
 sestoLyricsXXII = \lyricmode {
-    L’i -- nar -- gen -- ta -- to li -- do,
-    l’i -- nar -- gen -- ta -- to li -- do,
+    L'i -- nar -- gen -- ta -- to li -- do,
+    L'i -- nar -- gen -- ta -- to li -- do
     Che la fron -- te~a Net -- tun pom -- po -- so cin -- ge,
         pom -- po -- so cin -- ge,
-    E d’A -- dria’l sen di -- pin -- ge,
+    E d'A -- dria'l sen di -- pin -- ge,
     Col più~a -- mo -- ro -- so gri -- do, 
     \ijLyrics
-    col più~a -- mo -- ro -- so gri -- do, 
+    Col più~a -- mo -- ro -- so gri -- do, 
     \normalLyrics
-    Do -- ri t’a -- do -- ra~e~in -- chi -- na,
+    Do -- ri t'a -- do -- ra~e~in -- chi -- na,
     Di lui so -- la Re -- gi -- na,
-    di lui so -- la Re -- gi -- na,
-        Re -- gi -- na,
-    O ra -- ri~ec -- cel -- si~o -- no -- ri,
-    Can -- tan le gra -- tie,
+    Di lui so -- la Re -- gi -- na,
+        Re -- gi -- na.
+    O ra -- ri~ec -- cel -- si~o -- no -- ri
+    Can -- tan le Gra -- zie,
     \ijLyrics
-    Can -- tan le gra -- tie
+    Can -- tan le Gra -- zie
     \normalLyrics
+        e~i te -- ne -- ri -- ni~A -- mo -- ri
+    Can -- tan le Gra -- zie~e~i te -- ne -- ri -- ni~A -- mo -- ri,
         e~i te -- ne -- ri -- ni~A -- mo -- ri,
-    Can -- tan le gra -- tie~e~i te -- ne -- ri -- ni~A -- mo -- ri,
-        e~i te -- ne -- ri -- ni~A -- mo -- ri,
-    Vi -- va la bel -- la Do -- ri,
-    Vi -- va la bel -- la Do -- ri,
-    Vi -- va la bel -- la Do -- ri.
+    Vi -- va la bel -- la Do -- ri!
+    Vi -- va la bel -- la Do -- ri!
+    Vi -- va la bel -- la Do -- ri!
 }
 
 cantoXXIIincipitVoice = <<

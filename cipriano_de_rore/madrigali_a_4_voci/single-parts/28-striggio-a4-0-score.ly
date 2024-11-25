@@ -25,6 +25,7 @@
     final = "d"
     shorttitle = "gravi_pene_in_amor"
     categories = "[madrigal,furioso]"
+    motifs = "[amore,speech]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

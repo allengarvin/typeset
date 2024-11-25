@@ -25,6 +25,7 @@
     final = "c"
     shorttitle = "chiare_fresche"
     categories = "[madrigal]"
+    motifs = "[water,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -27,6 +27,7 @@
     final = "c"
     shorttitle = "e_quella_a_fiori"
     categories = "[madrigal,furioso]"
+    motifs = "[palace]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -92,12 +92,12 @@
         \fill-line {
             \column {
                 \line { Onde quai fior deggiam'e qual odori }
-                \line { Spargere al vostro nome }
-                \line { S'a noi grati'e favori }
-                \line { Spargete ogn'ora e dome }
-                \line { Rendete inique voglie'odii e rancori }
-                \line { Or sempre ferme e belle }
-                \line { Si conservino in ciel per noi le stelle. }
+                \line { spargere al vostro nome }
+                \line { s'a noi grati'e favori }
+                \line { spargete ogn'ora e dome }
+                \line { rendete inique voglie'odii e rancori }
+                \line { or sempre ferme e belle }
+                \line { si conservino in ciel per noi le stelle. }
             }
         }
     }

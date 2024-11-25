@@ -116,23 +116,23 @@
             \column {
                 \vspace #3
                 \line { Stavasi Aminta con la vaga e bella leggiadra sua Nigella, }
-                \line { Mirand'il suo bel volto }
-                \line { Come che'l bel del ciel quivi sia accolto; }
+                \line { mirand'il suo bel volto }
+                \line { come che'l bel del ciel quivi sia accolto; }
                 \vspace #0.5
                 \line { \hspace #5 Quand'ella disse di vergogna tinta }
-                \line { \hspace #5 Deh, deh dimmi o bell' aminta, }
-                \line { \hspace #5 Qual' è d'amor il bacio? se ti è caro, }
-                \line { \hspace #5 La greggia tua s'amor non t'è discaro; }
+                \line { \hspace #5 deh, deh dimmi o bell' Aminta, }
+                \line { \hspace #5 qual' è d'amor il bacio? se ti è caro, }
+                \line { \hspace #5 la greggia tua s'amor non t'è discaro; }
                 \vspace #0.5
                 \line { Non so, non so, diss'il Pastore }
-                \line { Ch'alla scola non fui giamai d'amore; }
+                \line { ch'alla scola non fui giamai d'amore; }
                 \vspace #0.5
                 \line { \hspace #5 Ella soggiunse e'l bacia, eh semplicetto, }
-                \line { \hspace #5 Qui, qui sta'l vero diletto, }
+                \line { \hspace #5 qui sta'l vero diletto, }
                 \vspace #0.5
                 \line { \hspace #2 \italic { tutti: } } 
                 \line { In questa bocc'intatta }
-                \line { E tosto dal Pastor s'asconde, e appiatta. }
+                \line { e tosto dal Pastor s'asconde, e appiatta. }
             }
         }
     }

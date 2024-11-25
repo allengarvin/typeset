@@ -23,6 +23,7 @@
     flats = 1
     final = "g"
     shorttitle = "or_chio_son_giunto_quivi"
+    categories = "[villanella]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

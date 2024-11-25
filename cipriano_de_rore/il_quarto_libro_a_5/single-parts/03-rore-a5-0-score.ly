@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "alcun_non_puo_saper"
     categories = "[madrigal,furioso]"
+    motifs = "[fortune,friendship,faithfulness]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

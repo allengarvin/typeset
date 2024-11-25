@@ -22,6 +22,7 @@
     lastupdated = "2016-04-06"
     flats = 1
     final = "g"
+    categories = "[villanella]"
     shorttitle = "amor_tien_il_suo_regno"
     \include "include/distribution-header.ly"
     tagline = #'f

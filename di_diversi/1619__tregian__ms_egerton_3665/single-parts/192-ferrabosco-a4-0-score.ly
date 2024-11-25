@@ -23,6 +23,7 @@
     flats = 1
     final = "g"
     shorttitle = "o_liete_piante_erbette"
+    categories = "[villanella]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

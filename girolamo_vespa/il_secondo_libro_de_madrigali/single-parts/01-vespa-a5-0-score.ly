@@ -92,14 +92,14 @@
         \fill-line {
             \column {
                 \line { Poi che lasciand'i sette colli e l'acque  }
-                \line { Del Tebro e co'l tuo lume }
-                \line { Queste piaggie illustrare }
-                \line { E premer si le rive al nostro fiume }
-                \line { Fido pastor vi piacque  }
-                \line { Venesti a discacciare }
-                \line { Ogni basso pensiero e spento giacque }
-                \line { E dolce fuoco e bel desio celeste }
-                \line { Nacque nel di ch'a noi gli occhi volgeste. }
+                \line { del Tebro e co'l tuo lume }
+                \line { queste piaggie illustrare }
+                \line { e premer si le rive al nostro fiume }
+                \line { fido pastor vi piacque  }
+                \line { venesti a discacciare }
+                \line { ogni basso pensiero e spento giacque }
+                \line { e dolce fuoco e bel desio celeste }
+                \line { nacque nel di ch'a noi gli occhi volgeste. }
             }
         }
     }

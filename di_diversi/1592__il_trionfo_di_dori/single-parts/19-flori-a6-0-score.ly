@@ -104,14 +104,14 @@
                 \line { Più trasparente velo } 
                 \line { non stese mai Giunone, } 
                 \line { ne febo risplendete, } 
-                \line { sorse dall’Oriente, } 
+                \line { sorse dall'Oriente, } 
                 \line { ne dolci canti in cielo; } 
-                \line { s’udiro alla novell’alma stagione, } 
+                \line { s'udiro alla novell'alma stagione, } 
                 \line { mentre a Dori corone, } 
                 \line { tessean ninfe e pastori, } 
-                \line { e danzand’a lor canto } 
+                \line { e danzand'a lor canto } 
                 \line { satiri e fauni in tanto } 
-                \line { per colmarla d’onori, } 
+                \line { per colmarla d'onori, } 
                 \line { viva dicean viva la bella Dori. } 
             }
         }

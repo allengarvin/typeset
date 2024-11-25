@@ -23,7 +23,7 @@
     shorttitle = "lora_sappressa"
     shortcomp = "ingegneri"
     categories = "[madrigal]"
-    motifs = "[grief,morte,impending-death]"
+    motifs = "[grief,morte,impending-death,female-pov]"
     needtranslation = #'f
     folio = "Tarquinia Molza (1542-1617)"
 

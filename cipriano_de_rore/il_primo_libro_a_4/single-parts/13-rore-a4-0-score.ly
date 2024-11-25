@@ -107,9 +107,11 @@
     }
     \markup {
         \wordwrap {
-            Note: In addition to the well-known euphemism of death or dying
+            Note: While this may be taken on its face as a sweet text of
+            parting and return, the conoscenti would have recognized its strong
+            erotic undertones. In addition to the well-known euphemism of death or dying
             for sexual orgasm, \italic { partire } also has a connotation of
-            ejaculation. See \italic { Dizionario storico del lessico erotico
+            orgasm. See \italic { Dizionario storico del lessico erotico
             italiano } (Milan: Langanesi, 1992, 2012), section 2.12 p. 348,
             \italic { Eiaculazione. }
         }

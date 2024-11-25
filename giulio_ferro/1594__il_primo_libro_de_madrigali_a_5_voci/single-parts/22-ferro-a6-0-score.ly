@@ -20,6 +20,7 @@
     shorttitle = "la_bella_pargoletta"
     shortcomp = "ferro"
     categories = "[madrigal]"
+    motifs = "[maiden,amore,innocence]"
     needtranslation = #'f
     final = "g"
     flats = 1

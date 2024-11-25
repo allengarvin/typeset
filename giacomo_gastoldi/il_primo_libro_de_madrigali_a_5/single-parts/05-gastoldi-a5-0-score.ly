@@ -22,6 +22,7 @@
     shorttitle = "quivi_mentre_io_tenea_le_luci_fisse"
     shortcomp = "gastoldi"
     categories = "[madrigal]"
+    motifs = "[flowers,cupid,amore]"
     needtranslation = #'f
 
     % Unchanging:

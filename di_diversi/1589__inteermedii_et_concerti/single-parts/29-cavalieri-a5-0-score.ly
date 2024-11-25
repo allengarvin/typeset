@@ -25,6 +25,7 @@
 
     % Unchanging:
     language = "italian"
+    categories = "[madrigal]"
     lastupdated = "2020-07-25"
     originallyset = "2020-07-25"
     \include "include/distribution-header.ly"

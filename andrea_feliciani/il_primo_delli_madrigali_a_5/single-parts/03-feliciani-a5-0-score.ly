@@ -20,6 +20,7 @@
     shorttitle = "amor_mha_posto"
     shortcomp = "feliciani"
     categories = "[madrigal]"
+    motifs = "[amore,hair,breath]"
     poeticform = "sonnet"
     final = "d"
     flats = 0

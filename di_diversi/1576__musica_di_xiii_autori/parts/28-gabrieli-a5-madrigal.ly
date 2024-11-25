@@ -41,7 +41,7 @@ cantoXXVIII = \relative c'' {
 
 cantoLyricsXXVIII = \lyricmode {
     Ca -- ro dol -- ce ben mi -- o, per -- ché fug -- gi -- re,
-    ca -- ro dol -- ce ben mi -- o, per -- ché fug -- gi -- re
+    Ca -- ro dol -- ce ben mi -- o, per -- ché fug -- gi -- re
     Chi v'a -- ma, 
     \ijLyrics chi v'a -- ma \normalLyrics
         et per a -- mar 
@@ -121,7 +121,7 @@ altoLyricsXXVIII = \lyricmode {
     Per -- ché fug -- gi -- re
     Ca -- ro dol -- ce ben mi -- o, per -- ché fug -- gi -- re
     Chi v'a -- ma 
-    chi v'a -- ma~e per a -- mar 
+    Chi v'a -- ma~e per a -- mar 
         e per a -- mar lan -- gui -- sce~e mo -- re,
         lan -- gui -- sce~e mo -- re,
     Se vi piac' il mio pian -- to~e'l mio mar -- ti -- re,
@@ -191,7 +191,7 @@ tenoreXXVIII = \relative c' {
 
 tenoreLyricsXXVIII = \lyricmode {
     Ca -- ro dol -- ce ben mi -- o, 
-    ca -- ro dol -- ce ben mi -- o, per -- ché fug -- gi -- re
+    Ca -- ro dol -- ce ben mi -- o, per -- ché fug -- gi -- re
     Chi v'a -- ma 
     \ijLyrics Chi v'a -- ma \normalLyrics
         et per a -- mar lan -- gui -- sce~e mo -- re,
@@ -259,7 +259,7 @@ bassoXXVIII = \relative c' {
 
 bassoLyricsXXVIII = \lyricmode {
     Ca -- ro dol -- ce ben mi -- o, per -- ché fug -- gi -- re
-    ca -- ro dol -- ce ben mi -- o, per -- ché fug -- gi -- re
+    Ca -- ro dol -- ce ben mi -- o, per -- ché fug -- gi -- re
     Chi v'a -- ma 
     \ijLyrics Chi v'a -- ma \normalLyrics
     Chi v'a -- ma et per a -- mar lan -- gui -- sce~e mo -- re,

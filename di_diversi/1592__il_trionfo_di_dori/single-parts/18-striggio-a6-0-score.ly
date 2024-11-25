@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "eran_ninfe_e_pastori"
     categories = "[madrigal]"
+    motifs = "[pastoral,nymphs,shepherds]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -104,10 +105,10 @@
                 \line { uniti con le grazie e con gli Amori, }
                 \line { e di suoni e di canti  }
                 \line { facean tal armonia }
-                \line { che si fermava il sol, l’erba fioria; }
-                \line { poi di rose e d’acanti }
-                \line { tessevano ghirlande e d’amaranti }
-                \line { e ne i versi dicean cogliend’i fiori: }
+                \line { che si fermava il sol, lierba fioria; }
+                \line { poi di rose e diacanti }
+                \line { tessevano ghirlande e diamaranti }
+                \line { e nei versi dicean cogliendii fiori: }
                 \line { viva, viva la bella Dori!  }
             }
             \column {

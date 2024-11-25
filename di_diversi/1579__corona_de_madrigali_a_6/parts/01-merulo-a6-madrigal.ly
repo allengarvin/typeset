@@ -1,21 +1,12 @@
-% Gelo hà madonna il seno e fiamma il volto;
+% Gelo ha madonna il seno e fiamma il volto;
 %      Io son ghiaccio di fuore
-%      E ’l foco ho dentro accolto.
+%      E 'l foco ho dentro accolto.
 %      Questo avien perche Amore
-%      Ne la sua fronte alberga e nel mio petto,
+%      Nel -- la sua fronte alberga e nel mio petto,
 %      Né mai cangia ricetto
-%      Sì ch’io l’abbia ne gli occhi ella nel core.
+%      Sì ch'io l'abbia negli occhi ella nel core.
 % 
 % -- Torquato Tasso, Rime d'amore 333
-
-% My lady has ice in her breast and a flame in her face,
-% I am frozen without
-% and have a fire burning within.
-% This is because love
-% lives in her brow and in my heart,
-% and never changes its lodging
-% to take refuge in my eyes, or in her heart.
-%  -- Susanna Howe translation, Naxos
 
 cantoIincipit = \relative c'' {
     \time 4/4
@@ -49,15 +40,15 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    Ge -- lo~hà ma -- don -- na~il se -- no e fiam -- ma~il vol -- to;
+    Ge -- lo~ha ma -- don -- na~il se -- no e fiam -- ma~il vol -- to;
     Io son ghiac -- cio di fuo -- re
     E fo -- co~hò den -- tro~ac -- col -- to.
-    Que -- sto~a -- vien per -- che~A -- mo -- re
-    Ne la sua fron -- te~al -- ber -- ga e nel mio pet -- to,
+    Que -- sto~av -- vien per -- ché~A -- mo -- re
+    Nel -- la sua fron -- te~al -- ber -- ga e nel mio pet -- to,
         e nel mio pet -- to,
     Né mai can -- gia ri -- cet -- to,
         can -- gia ri -- cet -- to
-    Sì __ ch’io l’ab -- bia ne gli~oc -- chi el -- la nel co -- re,
+    Sì __ ch'io l'ab -- bia ne -- gli~oc -- chi el -- la nel co -- re,
         el -- la nel co -- re.
 }
 
@@ -93,17 +84,17 @@ altoI = \relative c'' {
 }
 
 altoLyricsI = \lyricmode {
-    Ge -- lo~hà ma -- don -- na~il se -- no e fiam -- ma~il vol -- to,
+    Ge -- lo~ha ma -- don -- na~il se -- no e fiam -- ma~il vol -- to,
         e fiam -- ma~il vol -- to;
     Io son ghiac -- cio di fuo -- re
     E fo -- co~hò den -- tro~ac -- col -- to.
     E fo -- co~hò den -- tro~ac -- col -- to.
-    Que -- sto~a -- vien per -- che~A -- mo -- re
-    Ne la sua fron -- te~al -- ber -- ga~e nel mio pet -- to,
+    Que -- sto~av -- vien per -- ché~A -- mo -- re
+    Nel -- la sua fron -- te~al -- ber -- ga~e nel mio pet -- to,
         e nel mio pet -- to,
     Né mai can -- gia ri -- cet -- to,
-    Sì ch’io l’ab -- bia ne gli~oc -- chi,
-    Sì ch’io l’ab -- bia ne gli~oc -- chi el -- la nel co -- re,
+    Sì ch'io l'ab -- bia ne -- gli~oc -- chi,
+    Sì ch'io l'ab -- bia ne -- gli~oc -- chi el -- la nel co -- re,
         el -- la nel co -- re.
 }
 
@@ -138,19 +129,19 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-    Ge -- lo~hà ma -- don -- na~il se -- no e fiam -- ma~il vol -- to,
+    Ge -- lo~ha ma -- don -- na~il se -- no e fiam -- ma~il vol -- to,
         e fiam -- ma~il vol -- to,
     \ijLyrics
         e fiam -- ma~il vol -- to;
     \normalLyrics
     Io son __ ghiac -- cio di fuo -- re,
     E fo -- co~hò den -- tro~ac -- col -- to.
-    Que -- sto~a -- vien per -- che~A -- mo -- re
-    Ne la sua fron -- te~al -- ber -- ga,
-    Ne la sua fron -- te~al -- ber -- ga e nel mio pet -- to,
+    Que -- sto~av -- vien per -- ché~A -- mo -- re
+    Nel -- la sua fron -- te~al -- ber -- ga,
+    Nel -- la sua fron -- te~al -- ber -- ga e nel mio pet -- to,
     Né mai,
     Né mai can -- gia ri -- cet -- to,
-    Sì ch’io l’ab -- bia ne gli~oc -- chi el -- la nel co -- re,
+    Sì ch'io l'ab -- bia ne -- gli~oc -- chi el -- la nel co -- re,
         el -- la nel co -- re,
         el -- la nel __ co -- re.
 }
@@ -185,14 +176,14 @@ bassoI = \relative c' {
 }
 
 bassoLyricsI = \lyricmode {
-    Ge -- lo~hà ma -- don -- na~il se -- no e fiam -- ma~il vol -- to,
+    Ge -- lo~ha ma -- don -- na~il se -- no e fiam -- ma~il vol -- to,
         e fiam -- ma~il vol -- to;
     Io son ghiac -- cio di fuo -- re
     E fo -- co~hò den -- tro~ac -- col -- to.
-    Que -- sto~a -- vien per -- che~A -- mo -- re
-    Ne la sua fron -- te~al -- ber -- ga~e nel mio pet -- to,
+    Que -- sto~av -- vien per -- ché~A -- mo -- re
+    Nel -- la sua fron -- te~al -- ber -- ga~e nel mio pet -- to,
     Né mai can -- gia ri -- cet -- to,
-    Sì ch’io l’ab -- bia ne gli~oc -- chi el -- la nel co -- re,
+    Sì ch'io l'ab -- bia ne -- gli~oc -- chi el -- la nel co -- re,
         el -- la nel co -- re,
     \ijLyrics
         el -- la nel co -- re.
@@ -235,17 +226,17 @@ quintoI = \relative c' {
 }
 
 quintoLyricsI = \lyricmode {
-    Ge -- lo~hà ma -- don -- na~il se -- no e fiam -- ma~il vol -- to;
+    Ge -- lo~ha ma -- don -- na~il se -- no e fiam -- ma~il vol -- to;
     Io son ghiac -- cio di fuo -- re
     E fo -- co~hò den -- tro~ac -- col -- to.
     E fo -- co~hò den -- tro~ac -- col -- to.
-    Que -- sto~a -- vien per -- che~A -- mo -- re
-    Ne la sua fron -- te,
-    Ne la sua fron -- te~al -- ber -- ga~e nel mio pet -- to,
+    Que -- sto~av -- vien per -- ché~A -- mo -- re
+    Nel -- la sua fron -- te,
+    Nel -- la sua fron -- te~al -- ber -- ga~e nel mio pet -- to,
         e nel mio pet -- to,
     Né mai can -- gia ri -- cet -- to,
-    Sì ch’io l’ab -- bia ne gli~oc -- chi,
-    Sì __ ch’io l’ab -- bia ne gli~oc -- chi el -- la nel co -- re,
+    Sì ch'io l'ab -- bia ne -- gli~oc -- chi,
+    Sì __ ch'io l'ab -- bia ne -- gli~oc -- chi el -- la nel co -- re,
     \ijLyrics
         el -- la nel co -- re,
     \normalLyrics
@@ -287,15 +278,15 @@ sestoI = \relative c'' {
 }
 
 sestoLyricsI = \lyricmode {
-    Ge -- lo~hà ma -- don -- na~il se -- no e fiam -- ma~il vol -- to,
+    Ge -- lo~ha ma -- don -- na~il se -- no e fiam -- ma~il vol -- to,
         e fiam -- ma~il vol -- to;
     Io son ghiac -- cio di fuo -- re
     E fo -- co~hò den -- tro~ac -- col -- to.
-    Que -- sto~a -- vien per -- che~A -- mo -- re
-    Ne la sua fron -- te~al -- ber -- ga __ e nel mio pet -- to,
+    Que -- sto~av -- vien per -- ché~A -- mo -- re
+    Nel -- la sua fron -- te~al -- ber -- ga __ e nel mio pet -- to,
         e nel mio pet -- to,
     Né mai can -- gia ri -- cet -- to,
-    Sì __ ch’io l’ab -- bia ne gli~oc -- chi el -- la nel co -- re,
+    Sì __ ch'io l'ab -- bia ne -- gli~oc -- chi el -- la nel co -- re,
         el -- la nel co -- re.
 }
 

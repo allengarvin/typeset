@@ -17,6 +17,7 @@
     flats = 1
 
     instrument = "O gramo Pantalon (score)"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2013-09-28"

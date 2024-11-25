@@ -20,9 +20,10 @@
     shorttitle = "tra_i_gigli_e_le_viole"
     shortcomp = "fontanelli"
     categories = "[madrigal]"
+    motifs = "[flowers,amore,wonder]"
     final = "g"
     flats = 0
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"
@@ -97,13 +98,20 @@
                 \line { giaceasi un giorno all'ombra il mio bel sole }
                 \line { e mentre gli occhi e i fiori }
                 \line { cangiavano le luci ed i colori: }
-                \line { Meraviglia, gridai, or ecco nati }
-                \line { mira fiori nel ciel, stelle ne' prati. }
+                \line { «Meraviglia», gridai, «or ecco nati }
+                \line { mira fiori nel ciel, stelle ne' prati!» }
             }
-%           \column {
-%               % translation orig date:
-%               % translation updated:
-%           }
+           \column {
+               % translation orig date: 2024-11-19
+               % translation updated:
+                \line { Amidst the lilies and violets }
+                \line { my fair sun lay one day in the shade }
+                \line { and while her eyes and the flowers }
+                \line { exchanged their lights and colors: }
+                \line { 'Marvelous!' I cried, 'Behold, for now are born }
+                \line { flowers in the heavens, stars in the fields!' }
+                \line { \hspace #10 \italic { translation by editor } }
+           }
         }
     }
 }

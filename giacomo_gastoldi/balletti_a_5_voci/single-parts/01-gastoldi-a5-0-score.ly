@@ -20,6 +20,7 @@
     flats = 0
     final = "g"
     shorttitle = "introduttione"
+    categories = "[villanella]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

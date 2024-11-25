@@ -225,7 +225,7 @@ bassoXV = \relative c' {
 
 bassoLyricsXV = \lyricmode {
     Quan -- d'el -- la dis -- se di ver -- go -- gna tin -- ta
-    Deh, deh dim -- mi~o bel -- l'~a -- min -- ta
+    Deh, deh dim -- mi~o bel -- l'~A -- min -- ta
     Qual' è d'a -- mor il ba -- cio?
         d'a -- mor il ba -- cio?
     \ijLyrics
@@ -289,7 +289,7 @@ quintoXV = \relative c'' {
 
 quintoLyricsXV = \lyricmode {
     Quan -- d'el -- la dis -- se di ver -- go -- gna tin -- ta
-    Deh, deh dim -- mi~o bel -- l'~a -- min -- ta
+    Deh, deh dim -- mi~o bel -- l'~A -- min -- ta
     Qual' è d'a -- mor il ba -- cio?
     Qual' è,
         d'a -- mor il ba -- cio?
@@ -353,7 +353,7 @@ sestoXV = \relative c' {
 
 sestoLyricsXV = \lyricmode {
     Quan -- d'el -- la dis -- se di ver -- go -- gna tin -- ta
-    Deh dim -- mi~o bel -- l'~a -- min -- ta
+    Deh dim -- mi~o bel -- l'~A -- min -- ta
     Qual' è d'a -- mor il ba -- cio?
     qual' è d'a -- mor il ba -- cio?
         d'a -- mor il ba -- cio?
@@ -420,7 +420,7 @@ settimaXV = \relative c'' {
 
 settimaLyricsXV = \lyricmode {
     Quan -- d'el -- la dis -- se di ver -- go -- gna tin -- ta
-    Deh, deh dim -- mi~o bel -- l'~a -- min -- ta
+    Deh, deh dim -- mi~o bel -- l'~A -- min -- ta
     Qual' è,
     qual' è d'a -- mor il ba -- cio?
         d'a -- mor il ba -- cio?

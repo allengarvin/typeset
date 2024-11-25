@@ -21,6 +21,7 @@
     flats = 1
     final = "g"
     shorttitle = "occhi_ridenti"
+    categories = "[villanella]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

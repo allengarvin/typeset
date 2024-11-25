@@ -23,6 +23,7 @@
     flats = 1
     final = "c"
     categories = "[madrigal]"
+    motifs = "[cupid,arrow]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -99,14 +100,13 @@
         \fill-line {
             \column {
                 \line { L'alto signor dinanzi a cui non vale } 
-                \line { Nasconder nè fuggir, nè far difesa, } 
-                \line { Di bel piacer m'avea la mente accesa } 
-                \line { Con un ardente et amoroso strale; } 
-                \line { \vspace #0.5 } 
-                \line { Et benchè'l primo colpo aspro et mortale } 
-                \line { Fossi da sè, per avanzar sua impresa, } 
-                \line { Una saetta di pietate à presa; } 
-                \line { Et quinci et quindi il cor punge et assale, } 
+                \line { nasconder nè fuggir, nè far difesa, } 
+                \line { di bel piacer m'avea la mente accesa } 
+                \line { con un ardente et amoroso strale; } 
+                \line { e benché'l primo colpo aspro et mortale } 
+                \line { fossi da sè, per avanzar sua impresa, } 
+                \line { una saetta di pietate à presa; } 
+                \line { et quinci et quindi il cor punge et assale, } 
                 \line { \hspace #8 Petrarca, \italic { Canzoniere, } CCXLI (241) }
             }
             \column {
@@ -114,7 +114,6 @@
                 \line { in hiding or in fleeing, or making a defence, } 
                 \line { has kindled lovely pleasure in my mind } 
                 \line { with one burning and loving arrow: } 
-                \line { \vspace #0.5 } 
                 \line { and even though his first bitter blow } 
                 \line { was mortal, to further his attack, } 
                 \line { he took a shaft formed from pity, } 

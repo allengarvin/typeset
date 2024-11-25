@@ -14,8 +14,9 @@
 
     % Things that change per part:
     instrument = "Vorrei che tu cantassi (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
+    categories = "[villanella]"
 
     % Unchanging:
     originallyset = "2016-05-14"
@@ -94,6 +95,15 @@
                 \line { Vorrei lo basso far co'l violone, }
                 \line { Tutto di contrapunto alla spagnuola. }
             }
+            \column {
+                % translation on the fly: 2024-11-22
+                \line { I wish you'd sing a song }
+                \line { while you're playing the viol for me. }
+                \line { And that you'd say: fa mi la mi so la fa mi la mi so la fa mi la mi so la. }
+                \line { \vspace #2 }
+                \line { I'd like to play the bass with my violone, }
+                \line { all with Spanish-style counterpoint }
+                \line { \hspace #10 \italic { translation by editor } }
         }
     }
 }

@@ -14,6 +14,7 @@
     language = "italian"
     subtitle = "Prima parte"
 
+    categories = "[villanella]"
     instrument = "Mascheratta de Gratiani (score)"
 
     % Unchanging:

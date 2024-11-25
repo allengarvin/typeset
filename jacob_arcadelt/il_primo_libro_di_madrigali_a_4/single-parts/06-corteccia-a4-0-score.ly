@@ -23,7 +23,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
-    category = "[madrigal]"
+    categories = "[madrigal]"
     composer = "Francesco Corteccia (1502-1571)"
     tagline = #'f
 }
