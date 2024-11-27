@@ -1,0 +1,19 @@
+---
+top:
+    type: composer
+    path: /giovanni_priuli
+biography:
+    name: Giovanni Priuli
+    name_variants:
+        - Giovanni Prioli
+    last_name: Priuli
+    nationality: Italian
+    born_year: 1575
+    born_circa: true
+    died_year: 1626
+    born_location:
+        region: Venice
+        country: Italy
+    died_location:
+        region: Neunkirchen
+        country: Austria

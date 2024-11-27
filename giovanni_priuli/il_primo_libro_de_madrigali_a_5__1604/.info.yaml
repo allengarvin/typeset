@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1604__priuli_giovanni__il_primo_libro_de_madrigali_a_5_voci__gardano
+    typeset_directory: giovanni_priuli/il_primo_libro_de_madrigali_a_5__1604
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il primo libro de' madrigali a 5 voci
+    year: 1604
+contents:
+    type: madrigal
+    parts: 5
+    language: italian
