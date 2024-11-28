@@ -11,19 +11,17 @@
 \header {
     lastupdated = "2024-09-29"
     originallyset = "2024-09-29"
-    flats = 1
-    final = "c"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Filli tu sei più bella"
     subtitle = "Aria"
-    subsubtitle = ""
+    subsubtitle = "transposed down"
     instrument = "Filli tu sei più bella: Aria (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "filli_tu_sei_piu_bella"
     shortcomp = "marenzio"
-    categories = "[madrigal]"
-    motifs = "[amore,constancy,inconstancy]"
+    categories = "[]"
+    motifs = "[]"
     needtranslation = #'t
     folio = "Cesare Pavesi (fl.1550s-1570s)"
 
@@ -37,7 +35,7 @@
 
 \book {
     \bookOutputName "18-marenzio--filli_tu_sei_piu_bella-aria"
-    \bookOutputSuffix "--0-score"
+    \bookOutputSuffix "transposed--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
@@ -47,7 +45,7 @@
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoXVIIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \cantoXVIII
                 >>
              \addlyrics { \cantoLyricsXVIII }
@@ -55,15 +53,15 @@
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoXVIIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose f c
                     \altoXVIII
                 >>
              \addlyrics { \altoLyricsXVIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoXVIIIincipitVoice
-                    \clef "treble"
-                    \global
+                    \clef "treble_8"
+                    \global\transpose f c
                     \quintoXVIII
                 >>
              \addlyrics { \quintoLyricsXVIII }
@@ -71,7 +69,7 @@
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreXVIIIincipitVoice
                     \clef "treble_8"
-                    \global
+                    \global\transpose f c
                     \tenoreXVIII
                 >>
              \addlyrics { \tenoreLyricsXVIII }
@@ -79,7 +77,7 @@
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoXVIIIincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose f c
                     \bassoXVIII
                 >>
              \addlyrics { \bassoLyricsXVIII }
@@ -142,19 +140,6 @@
             distinguish solo performances in operas a few years later, 
             but rather the now old-fashined homophonic, blocklike
             declamation of the \italic { madrigale arioso } of the 1550s.
-        }
-    }
-    \markup {
-        \vspace #2
-        \column {
-            \override #'(padding . 15)
-            \line { "Errata" } % Title for the errata section
-            \line { \vspace #1 }
-            \override #'(word-space . 1) 
-            \table #'(-1 1 1 -1) {
-                \bold { "Partbook" "  Measure" "  Note" "   Explanation" }
-                "Basso" "39" "3" "   Incorrect pitch, A changed to G."
-            }
         }
     }
 }
