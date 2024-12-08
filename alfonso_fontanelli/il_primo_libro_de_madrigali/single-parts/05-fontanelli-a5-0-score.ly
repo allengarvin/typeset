@@ -25,6 +25,7 @@
     final = "a"
     flats = 0
     poeticform = "sonnet"
+    rhyme = "ABBAABBACDEEDC"
     needtranslation = #'f
 
     % Unchanging:

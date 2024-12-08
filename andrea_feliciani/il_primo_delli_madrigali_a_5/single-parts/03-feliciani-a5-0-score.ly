@@ -24,6 +24,7 @@
     poeticform = "sonnet"
     final = "d"
     flats = 0
+    rhyme = "ABBAABBA"
     needtranslation = #'f
     folio = "Francesco Beccuti, detto il Coppetta (1509-1553)"
 

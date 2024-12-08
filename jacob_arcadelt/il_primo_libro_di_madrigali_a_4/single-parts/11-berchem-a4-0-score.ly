@@ -26,7 +26,7 @@
     categories = "[madrigal]"
     rhyme = "AcAbcC"
     motifs = "[blindness,amore,cupid]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

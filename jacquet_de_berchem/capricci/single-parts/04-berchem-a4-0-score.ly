@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Ricordati, pagan, quando uccidesti"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 27 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Ricordati, pagan (score)"
     language = "italian"

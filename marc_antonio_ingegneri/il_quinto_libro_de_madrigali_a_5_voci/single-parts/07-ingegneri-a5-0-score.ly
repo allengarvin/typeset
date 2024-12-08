@@ -22,10 +22,11 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "la_verginella_e_simile_alla_rosa"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 42 }
+    rhyme = "ABABABCC"
     shortcomp = "ingegneri"
     categories = "[madrigal,favorite,furioso]"
     motifs = "[virgin,rose,garden]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

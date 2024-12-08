@@ -17,6 +17,7 @@
     instrument = "Ingiustissimo Amor (score)"
     language = "italian"
     needtranslation = #'f
+    rhyme = "ABABABCC"
 
     % Unchanging:
     originallyset = "2013-11-09"

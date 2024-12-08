@@ -21,6 +21,7 @@
     shortcomp = "fontanelli"
     categories = "[madrigal]"
     motifs = "[flowers,amore,wonder]"
+    rhyme = "aAbBCC"
     final = "g"
     flats = 0
     needtranslation = #'f

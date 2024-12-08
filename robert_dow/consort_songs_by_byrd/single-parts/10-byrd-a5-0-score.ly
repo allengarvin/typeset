@@ -15,6 +15,7 @@
     instrument = "La Verginella (score)"
 
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 42 }
+    rhyme = "ABABABCC"
     % Unchanging:
     originallyset = "2013-04-17"
     lastupdated = "2013-04-17"

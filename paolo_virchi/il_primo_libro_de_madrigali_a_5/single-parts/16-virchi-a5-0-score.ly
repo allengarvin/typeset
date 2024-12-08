@@ -28,6 +28,7 @@
     % Unchanging:
     language = "italian"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     tagline = #'f
 }
 

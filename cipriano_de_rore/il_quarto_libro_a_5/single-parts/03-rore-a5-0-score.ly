@@ -22,6 +22,7 @@
     lastupdated = "2015-08-09"
     flats = 1
     final = "c"
+    rhyme = "ABABABCC"
     shorttitle = "alcun_non_puo_saper"
     categories = "[madrigal,furioso]"
     motifs = "[fortune,friendship,faithfulness]"

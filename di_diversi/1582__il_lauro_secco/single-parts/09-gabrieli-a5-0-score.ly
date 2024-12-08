@@ -13,7 +13,7 @@
     title = "O in primavera eterna"
     composer = "Andrea Gabrieli (c.1536-1585)"
     instrument = "O in primavera eterna (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

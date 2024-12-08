@@ -24,6 +24,7 @@
     shortcomp = "manenti"
     categories = "[madrigal]"
     motifs = "[laura]"
+    rhyme = "ABCDEF"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CCCXXXII (332) }
 

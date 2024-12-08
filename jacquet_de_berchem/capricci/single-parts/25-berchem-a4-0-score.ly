@@ -18,6 +18,7 @@
     shortcomp = "berchem"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 126 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
 
     % Unchanging:

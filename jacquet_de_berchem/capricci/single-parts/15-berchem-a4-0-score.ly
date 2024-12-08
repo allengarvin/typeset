@@ -13,6 +13,7 @@
     title = "Se l’affogarmi in mar morte non era"
     subtitle = "Seguita Angelica con gran pianto"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 44 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Se l’affogarmi in mar morte (score)"
     language = "italian"

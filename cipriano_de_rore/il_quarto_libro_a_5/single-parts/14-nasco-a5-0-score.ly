@@ -25,7 +25,7 @@
     composer = "Jan Nasco (c.1510-1561)"
     categories = "[madrigal]"
     motifs = "[pastoral,nymph,vanity,beauty]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Giovanni Battista Strozzi il vecchio (1505-1571)"
 
     % Unchanging:

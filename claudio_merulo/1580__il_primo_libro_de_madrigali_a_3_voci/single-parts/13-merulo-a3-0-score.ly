@@ -22,6 +22,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "deh_avesse_amor_cosi"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLV ottava 33 }
+    rhyme = "ABABABCC"
     shortcomp = "merulo"
     categories = "[furioso,madrigal]"
     motifs = "[jealousy,amore]"

@@ -21,6 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "bianca_neve_e_il_bel_collo"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VII ottava 14 }
+    rhyme = "ABABABCC"
     shortcomp = "lasso"
     categories = "[madrigal,furioso]"
     motifs = "[]"

@@ -13,6 +13,7 @@
     title = "Mentre costui così s’affligge e duole"
     subtitle = "Seguita Sacripante lagrimando"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 48 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Mentre costui così s’affligge (score)"
     language = "italian"

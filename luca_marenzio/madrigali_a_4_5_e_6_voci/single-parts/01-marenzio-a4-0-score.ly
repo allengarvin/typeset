@@ -23,6 +23,7 @@
     shortcomp = "marenzio"
     categories = "[madrigal]"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCXXXII (332) }
+    rhyme = "ABCDEF"
 
     needtranslation = #'f
 

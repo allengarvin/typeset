@@ -14,6 +14,7 @@
     subtitle = ""
     instrument = "Ingiustissimo Amor:  (score)"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto II ottava 1 }
+    rhyme = "ABABABCC"
     headerspace = \markup { \vspace #2 }
     shorttitle = "ingiustissimo_amor"
     shortcomp = "paien"

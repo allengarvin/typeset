@@ -22,10 +22,11 @@
     shorttitle = "la_verginella_e_simile_alla_rosa"
     shortcomp = "viola"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto I ottava 42 }
+    rhyme = "ABABABCC"
     composer = "Francesco Viola (?-1568)"
     categories = "[madrigal,furioso]"
     motifs = "[virgin]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Come la notte ogni fiammella è viva"
+    rhyme = "ABABABCC"
     subtitle = ""
     instrument = "Come la notte ogni fiammella è viva:  (score)"
     headerspace = \markup { \vspace #2 }

@@ -26,6 +26,8 @@
     flats = 1
     final = "f"
     categories = "[madrigal]"
+    poeticform = "sonnet"
+    rhyme = "ABBAABBACDECDE"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "L'inargentato lido"
     instrument = "L'inargentato lido (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     composer = "Gasparo Zerto (c.1550-c.1605)"
     folio = "Cesare Accelli"

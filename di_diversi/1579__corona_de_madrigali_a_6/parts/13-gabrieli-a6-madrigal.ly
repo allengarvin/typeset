@@ -1,4 +1,4 @@
-% Fortana d'eloquenza, onor di tanti
+% Fontana d'eloquenza, onor di tanti
 % omini illustri ch'han cangiato il pelo
 % nei studi di virtù, squarciando il velo
 % del vicio che vedean farsi davanti.
@@ -70,7 +70,7 @@ cantoXIII = \relative c'' {
 }
 
 cantoLyricsXIII = \lyricmode {
-    % For -- ta -- na d'e -- lo -- quen -- za, o -- nor di tan -- ti
+    % Fon -- ta -- na d'e -- lo -- quen -- za, o -- nor di tan -- ti
         O -- nor di tan -- ti
     O -- mi -- ni~il -- lu -- stri ch'han can -- gia -- to~il pe -- lo
     Nei stu -- di di vir -- tù,
@@ -133,7 +133,7 @@ altoXIII = \relative c' {
 }
 
 altoLyricsXIII = \lyricmode {
-    For -- ta -- na d'e -- lo -- quen -- za, o -- nor di tan -- ti
+    Fon -- ta -- na d'e -- lo -- quen -- za, o -- nor di tan -- ti
     O -- mi -- ni~il -- lu -- stri __ ch'han can -- gia -- to~il pe -- lo __
     Nei stu -- di di vir -- tù,
     Nei stu -- di di vir -- tù, squar -- cian -- do~il ve -- lo
@@ -192,7 +192,7 @@ tenoreXIII = \relative c' {
 }
 
 tenoreLyricsXIII = \lyricmode {
-    For -- ta -- na d'e -- lo -- quen -- za, 
+    Fon -- ta -- na d'e -- lo -- quen -- za, 
     O -- mi -- ni~il -- lu -- stri ch'han can -- gia -- to~il pe -- lo
     Nei stu -- di di vir -- tù,
     \ijLyrics
@@ -256,7 +256,7 @@ bassoXIII = \relative c {
 }
 
 bassoLyricsXIII = \lyricmode {
-    For -- ta -- na d'e -- lo -- quen -- za, 
+    Fon -- ta -- na d'e -- lo -- quen -- za, 
     O -- mi -- ni~il -- lu -- stri ch'han can -- gia -- to~il pe -- lo __
     Nei stu -- di di vir -- tù,
     \ijLyrics
@@ -311,7 +311,7 @@ quintoXIII = \relative c' {
 }
 
 quintoLyricsXIII = \lyricmode {
-    For -- ta -- na d'e -- lo -- quen -- za, o -- nor di tan -- ti
+    Fon -- ta -- na d'e -- lo -- quen -- za, o -- nor di tan -- ti
     O -- mi -- ni~il -- lu -- stri ch'han can -- gia -- to~il pe -- lo
     Nei stu -- di di vir -- tù,
     \ijLyrics
@@ -364,7 +364,7 @@ sestoXIII = \relative c'' {
 }
 
 sestoLyricsXIII = \lyricmode {
-%    For -- ta -- na d'e -- lo -- quen -- za, o -- nor di tan -- ti
+%    Fon -- ta -- na d'e -- lo -- quen -- za, o -- nor di tan -- ti
         O -- nor di tan -- ti
     O -- mi -- ni~il -- lu -- stri ch'han can -- gia -- to~il pe -- lo,
         ch'han can -- gia -- to~il pe -- lo

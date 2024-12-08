@@ -17,6 +17,7 @@
     subtitle = ""
     instrument = "Queste non son più lacrime che fuore:  (score)"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 126 }
+    rhyme = "ABABABCC"
     headerspace = \markup { \vspace #2 }
     shorttitle = "queste_non_son_piu_lacrime_che_fuore"
     shortcomp = "verdelot"

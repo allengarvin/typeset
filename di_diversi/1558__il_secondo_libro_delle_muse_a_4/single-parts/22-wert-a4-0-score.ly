@@ -21,6 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "chi_salira_per_me"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXV ottava 1 }
+    rhyme = "ABABABCC"
 
     shortcomp = "wert"
     composer = "Giaches de Wert (1535-1596)"

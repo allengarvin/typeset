@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[parting,amore,pastoral,shepherd]"
     needtranslation = #'t
+    rhyme = "aBbcdDEeffGGHh"
 
     % Unchanging:
     language = "italian"
@@ -95,20 +96,20 @@
     \markup {
         \fill-line {
             \column {
-               \line { Addio, bella Siringa, }
-               \line { bella Siringa, addio; Clorindo, addio, }
-               \line { addio, Clorinda mio, }
-               \line { dicean press'una fonte }
-               \line { con fronte assai turbata }
-               \line { pastor amante, pastorella amata, }
-               \line { pastor amato, amante pastorella. }
-               \line { Ei sospirando ed ella; }
-               \line { ella piangendo ed egli, }
-               \line { dagli occhi umidi e begli }
-               \line { con le lagrime uscieno i cori ardendo. }
-               \line { Egli da lei, ella da lui partendo, }
-               \line { partì da lui, partì da lei quel core }
-               \line { che sol nutriva Amore. }
+              \line { Addio, bella Siringa, }
+              \line { bella Siringa, addio; Clorindo, addio, }
+              \line { addio, Clorinda mio, }
+              \line { dicean press'una fonte }
+              \line { con fronte assai turbata }
+              \line { pastor amante, pastorella amata, }
+              \line { pastor amato, amante pastorella. }
+              \line { Ei sospirando ed ella; }
+              \line { ella piangendo ed egli, }
+              \line { dagli occhi umidi e begli }
+              \line { con le lagrime uscieno i cori ardendo. }
+              \line { Egli da lei, ella da lui partendo, }
+              \line { partì da lui, partì da lei quel core }
+              \line { che sol nutriva Amore. }
             }
 %           \column {
 %               % translation orig date:

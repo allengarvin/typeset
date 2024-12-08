@@ -24,6 +24,7 @@
     composer = "Paolo Isnardi (1536-1596)"
     categories = "[madrigal]"
     motifs = "[parting]"
+    rhyme = AbbcCDDeefF"
     needtranslation = #'t
 
     % Unchanging:

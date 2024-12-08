@@ -13,6 +13,7 @@
     title = "Dicea: Fortuna, che più a far ti resta"
     subtitle = "Seguita Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 40 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Dicea: Fortuna (score)"
     language = "italian"

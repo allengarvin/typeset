@@ -7,6 +7,13 @@ import os, sys, argparse, re, collections, datetime, subprocess, glob
 
 
 composers = {
+'Antonio Morari (1540s-1597)' : "morari",
+'Cristóbal de Morales (c.1500-1553) [see note on score]' : "morales",
+'Marco da Gagliano (1582-1643)' : "gagliano",
+"Giovanni Priuli (c.1575-1626)" : "priuli",
+'Cristofano Malvezzi (1547-1599)' : "malvezzi",
+'Fra Mauro di Fiorenza (c.1545-1621)' : "mauro",
+'Giovanni Piero Manenti (c.1535-1597)' : "manenti",
 'Flaminio Tresti (c.1560-c.1613)' : "tresti",
 'Giovanni Cavaccio (c.1556-1626)' : "cavaccio",
 'Giulio Eremita (c.1550-c.1600)' : "eremita",
@@ -864,7 +871,7 @@ def generate_files(pieces):
     fd.write("</ul><p>\n")
     fd.write('<a href="doc/my-translations">My translations from Italian</a><br>')
     fd.write('<a href="doc/petrarca">Madrigals based on Il canzoniere di Petrarca</a> <br>\n')
-    fd.write("<a href='doc/eintsein.html'>Madrigals featured in Einstein's <i>The Italian Madrigal</i></a> (list, plus links to my transcriptions)<p />\n")
+    fd.write("<a href='doc/einstein.html'>Madrigals featured in Einstein's <i>The Italian Madrigal</i></a> (list, plus links to my transcriptions)<p />\n")
 
     output = subprocess.check_output(["./scripts/categories.py", "-l"])
     fd.write(output.decode("utf-8"))

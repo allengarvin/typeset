@@ -18,6 +18,7 @@
     shortcomp = "da_reggio"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 1 }
+    rhyme = "ABABABCC"
 
 
     % Unchanging:

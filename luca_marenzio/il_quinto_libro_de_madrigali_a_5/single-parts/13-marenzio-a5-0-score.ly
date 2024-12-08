@@ -25,7 +25,7 @@
     folio = "Ludovico Ariosto (1474-1533)"
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort,arrow,wound,morte,amore]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

@@ -11,6 +11,8 @@
 \header {
     lastupdated = "2024-09-29"
     originallyset = "2024-09-29"
+    flats = 0
+    final = "e"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Io credea che'l morire"
@@ -22,7 +24,7 @@
     shortcomp = "rore"
     categories = "[madrigal]"
     motifs = "[death,disdain,amore,scorn]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

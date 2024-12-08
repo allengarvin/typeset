@@ -117,6 +117,7 @@ def get_score(fn, title, subtitle, folio, composer):
     for l in lines:
         if l.strip() == "\\score {":
             if score:
+                print(fn)
                 print("More than one \\score { detected. BAILING")
                 sys.exit(1)
 

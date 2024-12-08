@@ -20,7 +20,8 @@
     flats = 1
     final = "f"
     shorttitle = "candido_leggiadretto"
-    categories = "[madrigal]"
+    categories = "[sonnet]"
+    rhyme = "ABCABC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

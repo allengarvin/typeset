@@ -16,6 +16,8 @@
     needtranslation = #'t
     language = "italian"
     folio = "Nelle nozze del sereniss. Prencipe di Mantoua"
+    poeticform = "sonnet"
+    rhyme = "ABBAABBA"
 
     % Unchanging:
     originallyset = "2018-09-16"
@@ -95,7 +97,6 @@
                 \line { Santa Madre d'Amor, rimena il giorno; }
                 \line { Esca il sol più che mai di raggi adorno  }
                 \line { E si dilegui d'ogni nube il velo. }
-                \line { \vspace #1 }
                 \line { Mirinsi accese d'amoroso zelo  }
                 \line { Le più felici stelle, e l'altre intorno  }
                 \line { Celinsi: e'n terra e'n mar d'onta e di scorno  }

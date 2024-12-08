@@ -23,7 +23,9 @@
     flats = 0
     final = "a"
     shorttitle = "quando_sorge_laurora"
+    motifs = "[dawn,nymphs]"
     categories = "[madrigal]"
+    rhyme = "abbccdD"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

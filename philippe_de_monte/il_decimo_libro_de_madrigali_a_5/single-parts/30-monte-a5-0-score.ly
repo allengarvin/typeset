@@ -22,12 +22,13 @@
     shorttitle = "o_dolce_sonno"
     shortcomp = "monte"
     categories = "[madrigal]"
-    motifs = "[]"
+    motifs = "[sleep]"
     needtranslation = #'t
 
     % Unchanging:
     language = "italian"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     tagline = #'f
 }
 

@@ -29,6 +29,7 @@
 
     % Unchanging:
     language = "italian"
+    rhyme = "abBCdCdeE"
     tagline = #'f
 }
 

@@ -23,6 +23,7 @@
     shorttitle = "ardi_e_gela_a_tua_voglia"
     shortcomp = "ingegneri"
     categories = "[madrigal]"
+    rhyme = "abbcCdD"
     motifs = "[paradox,fire,ice,female-pov,scorn]"
     needtranslation = #'f
     folio = "Torquato Tasso (1544-1595)"

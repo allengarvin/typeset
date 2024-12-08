@@ -17,6 +17,7 @@
     shorttitle = "dove_speranza_mia_dove_ora_sei"
     shortcomp = "berchem"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 76 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
 
     needtranslation = #'f

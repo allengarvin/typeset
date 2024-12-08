@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Questi ch’indizio fan del mio tormento"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 127 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Questi ch’indizio (score)"
     language = "italian"

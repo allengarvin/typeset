@@ -21,6 +21,7 @@
     originallyset = "2015-08-08"
     originallyset = "2015-08-08"
     lastupdated = "2015-08-08"
+    rhyme = "ABABABCC"
     flats = 1
     final = "c"
     shorttitle = "come_la_notte"

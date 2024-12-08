@@ -21,6 +21,7 @@
     shortcomp = "verdelot"
     categories = "[madrigal]"
     motifs = "[nymph,shepherd]"
+    rhyme = "abCabCdEefF"
     needtranslation = #'f
     final = "g"
     flats = 1

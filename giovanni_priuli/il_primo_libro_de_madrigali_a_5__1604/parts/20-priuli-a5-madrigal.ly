@@ -1,20 +1,20 @@
-% O Musa, tu che di caduchi allori
-% non circondi la fronte in Elicona,
-% ma su nel cielo infra i beati cori
-% hai di stell'immortal aurea corona,
-% tu spir'al petto mio celesti ardori,
-% tu rischiara il mio canto, e tu perdona
-% s'intesso fregi al ver, s'adorno in parte
-% d'altri diletti, che de' tuoi le carte.
-% 
-% Sai che là corre il mondo ove più versi
-% di sue dolcezze il lusinghier Parnaso,
-% e che 'l vero, condito in molli versi,
-% i più schivi allettando ha persuaso.
-% Così a l'egro fanciul porgiamo aspersi
-% di soavi licor gli orli del vaso:
-% succhi amari ingannato intanto ei beve,
-% e da l'inganno suo vita riceve.
+O Musa, tu che di caduchi allori
+non circondi la fronte in Elicona,
+ma su nel cielo infra i beati cori
+hai di stell'immortal aurea corona,
+tu spir'al petto mio celesti ardori,
+tu rischiara il mio canto, e tu perdona
+s'intesso fregi al ver, s'adorno in parte
+d'altri diletti, che de' tuoi le carte.
+
+Sai che là corre il mondo ove più versi
+di sue dolcezze il lusinghier Parnaso,
+e che 'l vero, condito in molli versi,
+i più schivi allettando ha persuaso.
+Così a l'egro fanciul porgiamo aspersi
+di soavi licor gli orli del vaso:
+succhi amari ingannato intanto ei beve,
+e da l'inganno suo vita riceve.
 
 cantoXXincipit = \relative c' {
     \clef "petrucci-c1"

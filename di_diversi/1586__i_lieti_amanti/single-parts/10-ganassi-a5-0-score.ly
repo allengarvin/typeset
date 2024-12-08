@@ -24,6 +24,7 @@
     composer = "Alfonso Ganassi (fl.1576-1609)"
     folio = "Maurizio Moro"
     categories = "[madrigal]"
+    rhyme = "aBBCdDEcEFF"
     motifs = "[]"
     needtranslation = #'t
 

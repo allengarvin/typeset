@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Cantan fra i rami gli augelletti vaghi"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXV ottava 50 }
+    rhyme = "ABABABCC"
 
     instrument = "Cantan fra i rami (score)"
     language = "italian"

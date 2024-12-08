@@ -11,6 +11,8 @@
 \header {
     lastupdated = "2024-11-27"
     originallyset = "2024-11-27"
+    flats = 1
+    final = "f"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Sai che là corre il mondo"
@@ -24,6 +26,7 @@
     motifs = "[child,illness]"
     needtranslation = #'f
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto I ottava 3 }
+    rhyme = "ABABABCC"
 
     % Unchanging:
     language = "italian"

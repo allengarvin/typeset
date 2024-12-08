@@ -18,6 +18,7 @@
     instrument = "Gravi pene in amor (score)"
     language = "italian"
     needtranslation = #'f
+    rhyme = "ABABABCC"
 
     % Unchanging:
     originallyset = "2015-06-20"

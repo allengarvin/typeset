@@ -22,6 +22,7 @@
     categories = "[madrigal]"
     motifs = "[pride,anger]"
     poeticform = "sonnet"
+    rhyme = "ABCABC"
     needtranslation = #'f
     final = "g"
     flats = 0

@@ -23,7 +23,7 @@
     shortcomp = "marenzio"
     categories = "[madrigal]"
     motifs = "[death,departure]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Torquato Tasso (1544-1595)"
     rhyme = "ABCDEFGHIJKLM"
 

@@ -13,6 +13,7 @@
     title = "Ma che mi possi nuocere non veggio"
     subtitle = "Seguita Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 41 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Ma che mi possi (score)"
     language = "italian"

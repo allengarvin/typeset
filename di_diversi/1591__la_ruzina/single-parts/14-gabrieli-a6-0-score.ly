@@ -24,6 +24,7 @@
     composer = "Giovanni Gabrieli (c.1554-1612)"
     categories = "[madrigal,favorite]"
     motifs = "[amore]"
+    rhyme = "ABABABCC"
     needtranslation = #'f
 
     % Unchanging:

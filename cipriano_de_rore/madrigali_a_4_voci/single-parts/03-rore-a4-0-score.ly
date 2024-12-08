@@ -18,6 +18,7 @@
     instrument = "E ne la face (score)"
     language = "italian"
     needtranslation = #'f
+    rhyme = "ABABABCC"
 
     % Unchanging:
     originallyset = "2013-04-13"

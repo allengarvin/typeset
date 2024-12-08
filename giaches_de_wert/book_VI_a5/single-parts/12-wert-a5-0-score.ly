@@ -25,6 +25,7 @@
     motifs = "[]"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VII ottava 10 \italic {(modified substantially) } } 
+    rhyme = "ABABABCC"
 
 
     % Unchanging:

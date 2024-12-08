@@ -20,6 +20,7 @@
     instrument = "O dolce sonno più di vera vita:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_dolce_sonno_piu_di_vera_vita"
+    rhyme = "ABABABCC"
     shortcomp = "monte"
     categories = "[madrigal]"
     motifs = "[]"

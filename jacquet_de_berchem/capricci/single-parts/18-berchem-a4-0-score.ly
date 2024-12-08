@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "La notte Orlando alle noiose piume"
+    rhyme = "ABABABCC"
     subtitle = "Lamento d'Orlando per Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 71 }
     poeticform = "ottava rima"

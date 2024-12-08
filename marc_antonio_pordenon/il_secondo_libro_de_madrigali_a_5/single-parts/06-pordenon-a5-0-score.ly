@@ -22,6 +22,7 @@
     lastupdated = "2014-12-28"
     flats = 1
     final = "g"
+    rhyme = "ABABABCC"
     shorttitle = "la_verginella"
     categories = "[madrigal,furioso]"
     motifs = "[shepherd,virgin,rose]"

@@ -24,8 +24,9 @@
     categories = "[madrigal,furioso]"
     motifs = "[virgin,rose]"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto I ottava 42 }
+    rhyme = "ABABABCC"
 
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

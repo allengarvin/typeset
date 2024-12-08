@@ -13,6 +13,7 @@
     title = "Ingiustissimo Amor, perché sì raro"
     composer = "Alfonso dalla Viola (c.1508-c.1573)"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto II ottava 1 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Ingiustissimo Amor (score)"
     language = "italian"

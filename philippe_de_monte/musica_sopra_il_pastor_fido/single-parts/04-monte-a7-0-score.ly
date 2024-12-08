@@ -24,7 +24,7 @@
     folio = \markup { Giovanni Battista Guarini, \italic { Il pastor fido, }, Atto III, scena 6 }
     categories = "[madrigal,morte]"
     motifs = "[pastoral,morte,la-petite-mort]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

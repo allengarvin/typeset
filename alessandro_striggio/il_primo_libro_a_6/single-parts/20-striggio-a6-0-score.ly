@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "S'ogni mio ben havete"
     instrument = "S'ogni mio ben havete (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

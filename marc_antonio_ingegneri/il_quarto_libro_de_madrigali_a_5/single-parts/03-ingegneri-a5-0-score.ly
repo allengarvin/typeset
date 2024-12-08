@@ -24,6 +24,7 @@
     shortcomp = "ingegneri"
     categories = "[madrigal]"
     motifs = "[river,mincio]"
+    rhyme = "ABBAABBA"
     needtranslation = #'t
 
     % Unchanging:

@@ -19,6 +19,7 @@
     instrument = "Cantan fra rami gli augelletti vaghi (score)"
     language = "italian"
     needtranslation = #'f
+    rhyme = "ABABABCC"
 
     % Unchanging:
     originallyset = "2013-09-17"

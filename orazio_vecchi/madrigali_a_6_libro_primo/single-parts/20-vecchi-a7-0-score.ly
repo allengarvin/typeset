@@ -24,7 +24,7 @@
     shortcomp = "vecchi"
     categories = "[madrigal]"
     motifs = "[dialect,dance,singing,music]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"
@@ -155,10 +155,10 @@
                 \line { «Everyone stop! Because the one I want }
                 \line { is a Giustiana!» }
                 \line { «Yes, yes, it's true, now cheerfully say: }
-                \line { \italic { Tutto il dì ti te spampoli } }
-                \line { \italic { Che mi son un petagolo } }
-                \line { \italic { E che paro un coruogolo } }
-                \line { \italic { Con la coa tutta toccoli.} }
+                \line { \italic { All day you've got the heebie-jeebies, } }
+                \line { \italic { 'Cause I'm a chatterbox } }
+                \line { \italic { And I look like a freakin' crow } }
+                \line { \italic { With my tail whackin' everything. } }
                 \line { «Now I feel my heart soothed: }
                 \line { Oh, long live love!» }
                 \line { \hspace #10 \italic { translation by editor } }
@@ -170,17 +170,15 @@
             \vspace #2
             \italic { Tutto il dì ... con tutta toccoli } is the text
             from a piece in the 1570 collection \italic { Il primo libro
-            delle iustiniane a tre voce } (Venice: Scotto). The meaning
-            seems obscure. "spampoli" seems to be a conjugation of
-            sbampolar (to wander, to move spasmodically) at least, 
-            but I have not found or figured out what "coruogolo" is. 
+            delle iustiniane a tre voce } (Venice: Scotto). 
         }
     }
     \markup {
         \wordwrap {
             \vspace #1
             Grazie a Josella Pirajno, la mia insegnante di italiano,
-            per l'auito nella traduzione del dialetto.
+            per l'auito nella traduzione del dialetto. Anche a
+            Martin Morell per 'Tutto il dì' in dialetto veneziano.
         }
     }
 }

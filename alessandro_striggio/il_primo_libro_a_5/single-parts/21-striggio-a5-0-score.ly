@@ -15,7 +15,8 @@
     instrument = "Se ne la mente mia (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
+    poeticform = "madrigal"
+    rhyme = "aABABB"
 
     % Unchanging:
     originallyset = "2015-06-24"

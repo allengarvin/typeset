@@ -23,6 +23,7 @@
     categories = "[madrigal]"
     motifs = "[spirit]"
     poeticform = "sonnet"
+    rhyme = "ABCBAC"
     final = "f"
     flats = 1
     needtranslation = #'f

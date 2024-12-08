@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Vaghi boschetti di soavi allori"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VI ottava 21 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Vaghi boschetti di soavi allori (score)"
     language = "italian"

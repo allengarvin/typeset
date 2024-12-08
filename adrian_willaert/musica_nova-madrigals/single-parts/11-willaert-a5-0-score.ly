@@ -24,6 +24,8 @@
     final = "d"
     shorttitle = "piu_volte_gia"
     categories = "[madrigal]"
+    poeticform = "sonnet"
+    rhyme = "ABBAABBA"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

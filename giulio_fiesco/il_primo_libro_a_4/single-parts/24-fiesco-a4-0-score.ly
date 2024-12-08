@@ -13,6 +13,7 @@
     title = "Crudel, di che peccato a doler t'hai"
     language = "italian"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 40 }
+    rhyme = "ABABABCC"
     instrument = "Crudel, di che peccato (score)"
 
     % Unchanging:

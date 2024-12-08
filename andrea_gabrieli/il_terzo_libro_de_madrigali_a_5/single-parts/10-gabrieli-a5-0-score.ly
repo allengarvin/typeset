@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Mirami, vita mia, miram' un poco"
     instrument = "Mirami, vita mia (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = "Anonymous madrigal"
 
@@ -91,14 +91,26 @@
         \fill-line {
             \column {
                 \line { Mirami, vita mia, miram' un poco }
-                \line { Co' divin occhi tuoi, }
-                \line { E tu di me fa poi, }
-                \line { Cor mio, quel ch'a te piace. }
+                \line { co' divin occhi tuoi, }
+                \line { e tu di me fa poi, }
+                \line { cor mio, quel ch'a te piace. }
                 \line { Lasso, che mi disface! }
                 \line { Non mirar più, ben mio, deh non mirare, }
-                \line { Ch'io mi sento mancare! }
+                \line { ch'io mi sento mancare! }
                 \line { Se non mi miri, ohimè, come vedranno }
-                \line { Gl'occhi miei ch'altra luce in sé non hanno? }
+                \line { gli occhi miei ch'altra luce in sé non hanno? }
+            }
+            \column {
+                \line { Gaze at me, my life, gaze at me a bit }
+                \line { with your divine eyes, }
+                \line { and then do with me, }
+                \line { my heart, that which pleases you. }
+                \line { Alas, for you undo me! }
+                \line { Gaze no more, my love, do not look }
+                \line { for I feel overwhelmed! }
+                \line { If you do not look at me, alas, how }
+                \line { shall my eyes sea, as they have nother light in them. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

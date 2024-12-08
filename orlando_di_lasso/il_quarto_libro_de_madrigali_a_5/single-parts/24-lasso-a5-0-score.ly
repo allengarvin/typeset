@@ -23,8 +23,8 @@
     shorttitle = "qual_nemica_fortuna"
     shortcomp = "lasso"
     categories = "[madrigal]"
-    motifs = "[]"
-    needtranslation = #'t
+    motifs = "[fortune,anatolia]"
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

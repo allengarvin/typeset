@@ -18,6 +18,7 @@
     instrument = "Era il bel viso suo (score)"
     language = "italian"
     needtranslation = #'f
+    rhyme = "ABABABCC"
 
     % Unchanging:
     originallyset = "2013-04-13"

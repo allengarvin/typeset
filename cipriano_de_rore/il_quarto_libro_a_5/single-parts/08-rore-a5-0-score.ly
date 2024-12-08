@@ -16,7 +16,7 @@
     language = "italian"
     needtranslation = #'f
     folio = "Giovanni Battista Giraldi Cinzio (1504-1573)"
-    poeticform = "ottava rima"
+    poeticform = "sonnet"
 
     % Unchanging:
     originallyset = "2015-08-08"

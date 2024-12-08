@@ -29,6 +29,7 @@
 
     % Unchanging:
     language = "italian"
+    rhyme = "ABCDEF"
     poeticform = "sestina"
     tagline = #'f
 }

@@ -22,6 +22,7 @@
     categories = "[madrigal]"
     final = "g"
     flats = 1
+    rhyme = "abBacCdedEfF"
     poeticform = "madrigal"
     needtranslation = #'f
     folio = "Torquato Tasso (1544-1595)"

@@ -13,6 +13,7 @@
     title = "Deh, dove senza me, dolce mia vita"
     subtitle = "Prima stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 76 }
+    rhyme = "ABABABCC"
     instrument = "Deh, dove senza me (score)"
     language = "italian"
     needtranslation = #'f

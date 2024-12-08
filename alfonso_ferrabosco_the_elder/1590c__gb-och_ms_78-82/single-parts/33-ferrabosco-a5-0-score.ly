@@ -24,6 +24,7 @@
     shortcomp = "ferrabosco"
     categories = "[madrigal]"
     motifs = "[amore,wound,battle,enemy]"
+    rhyme = "ABABABCC"
     needtranslation = #'f
 
     % Unchanging:

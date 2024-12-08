@@ -27,6 +27,7 @@
     flats = 0
     final = "e"
     categories = "[madrigal]"
+    rhyme = "ABABCB"
     motifs = "[sighing]"
     \include "include/distribution-header.ly"
     tagline = #'f

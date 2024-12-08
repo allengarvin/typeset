@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[laura-l'aura-wordplay]"
     poeticform = "sonnet"
+    rhyme = "ABBAABBA"
     final = "d"
     flats = 1
     needtranslation = #'f

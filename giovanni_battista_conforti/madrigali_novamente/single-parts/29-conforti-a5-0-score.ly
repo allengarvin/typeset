@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Non rumor di tamburi o suon di trombe"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXV ottava 68 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Non rumor di tamburi (score)"
     language = "italian"

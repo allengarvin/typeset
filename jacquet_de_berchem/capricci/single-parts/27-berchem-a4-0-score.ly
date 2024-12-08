@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Pel bosco errò tutta la notte il conte"
+    rhyme = "ABABABCC"
     subtitle = "Principio della Pazzia d'Orlando"
     instrument = "Pel bosco errò tutta la notte il conte: Principio della Pazzia d'Orlando (score)"
     headerspace = \markup { \vspace #2 }

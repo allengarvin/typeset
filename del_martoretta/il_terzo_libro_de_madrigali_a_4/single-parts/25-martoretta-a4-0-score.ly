@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Di furto ancor oltre ogni vizio rio"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 42 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Di furto ancor (score)"
     language = "italian"

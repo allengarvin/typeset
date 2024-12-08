@@ -24,6 +24,7 @@
     shortcomp = "casulana"
     categories = "[madrigal]"
     motifs = "[eyes,sleep,amore]"
+    rhyme = "aBbCDdEE"
     needtranslation = #'t
 
     % Unchanging:

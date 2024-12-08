@@ -17,6 +17,7 @@
     shorttitle = "deh_torna_a_me_mio_sol"
     shortcomp = "ruffo"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLV ottava 39 }
+    rhyme = "ABABABCC"
     needtranslation = #'f
 
     % Unchanging:

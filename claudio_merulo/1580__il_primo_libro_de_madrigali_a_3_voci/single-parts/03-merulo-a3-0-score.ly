@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "sa_questo_altier_chio_lamo_e_chio_ladoro"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 19 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     shortcomp = "merulo"
     categories = "[madrigal,furioso]"

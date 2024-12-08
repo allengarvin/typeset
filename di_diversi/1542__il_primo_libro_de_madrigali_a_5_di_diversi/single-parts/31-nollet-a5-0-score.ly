@@ -22,8 +22,9 @@
     shorttitle = "le_donne_antique_hanno_mirabil_cose"
     shortcomp = "nollet"
     categories = "[ariosto,madrigal]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XX ottava 1 }
+    rhyme = "ABABABCC"
     composer = "Nollet (fl. 1538-46)"
 
 

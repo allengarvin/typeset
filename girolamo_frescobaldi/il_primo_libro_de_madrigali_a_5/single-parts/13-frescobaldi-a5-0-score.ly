@@ -21,6 +21,8 @@
     shortcomp = "frescobaldi"
     folio = \markup { Giambattista Marino (1569-1625), \italic { Le Rime } }
     categories = "[madrigal]"
+    poeticform = "madrigal"
+    rhyme = "aabbccdDeE"
     final = "f"
     flats = 1
     needtranslation = #'t
@@ -98,10 +100,10 @@
                 \line { Ma se nel cor scolpita }
                 \line { se' tu dolce mia vita }
                 \line { come senza il cor mio }
-                \line { viver dunque poss’io? }
+                \line { viver dunque poss'io? }
                 \line { O Dio, che tu potessi }
-                \line { meco venirne, o ch’io teco mi stessi: }
-                \line { che se’l mio cor tu sei, }
+                \line { meco venirne, o ch'io teco mi stessi: }
+                \line { che se'l mio cor tu sei, }
                 \line { meco il mio core, e te mio cor avrei. }
             }
         }

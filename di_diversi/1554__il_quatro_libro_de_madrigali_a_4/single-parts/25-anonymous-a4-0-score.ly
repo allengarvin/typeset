@@ -22,6 +22,7 @@
     shorttitle = "dunque_fia_ver_ahime_che_mi_convegna"
     shortcomp = "anonymous"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XXXII ottava 18 }
+    rhyme = "ABABABCC"
 
     composer = "Anonymous"
     categories = "[madrigal,furioso]"

@@ -17,6 +17,7 @@
     poeticform = "ottava rima"
     language = "italian"
     needtranslation = #'f
+    rhyme = "ABABABCC"
 
     % Unchanging:
     originallyset = "2015-07-13"

@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Era il bel viso suo"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XX ottava 65 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Era il bel viso suo (score)"
     language = "italian"

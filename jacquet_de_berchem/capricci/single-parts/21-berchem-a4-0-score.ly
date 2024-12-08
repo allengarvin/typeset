@@ -14,6 +14,7 @@
     subtitle = "Seguita Orlando con una bella similitudine"
     instrument = "Deh, dove senza me, dolce mia vita: Seguita Orlando con una bella similitudine (score)"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 76 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     needtranslation = #'f
 

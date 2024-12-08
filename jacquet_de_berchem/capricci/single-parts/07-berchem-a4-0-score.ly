@@ -13,6 +13,7 @@
     title = "Sia vile agli altri, e da quel solo amata"
     subtitle = "Seguita Sacripante"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 44 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Sia vile agli altri (score)"
     language = "italian"

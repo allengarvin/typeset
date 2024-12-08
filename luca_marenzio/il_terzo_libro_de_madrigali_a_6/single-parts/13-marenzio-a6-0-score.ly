@@ -26,7 +26,7 @@
     flats = 1
     final = "d"
     categories = "[madrigal,animal]"
-    motifs = "[amore,tiger,pain]"
+    motifs = "[amore,tiger,pain,bacio-mordace]"
     poeticform = "madrigal"
     \include "include/distribution-header.ly"
     tagline = #'f

@@ -13,6 +13,7 @@
     title = "Quando si vide sola in quel deserto"
     subtitle = "Lamento d'Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 38 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Quando si vide (score)"
     language = "italian"

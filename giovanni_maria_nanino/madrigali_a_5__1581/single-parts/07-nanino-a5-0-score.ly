@@ -20,6 +20,8 @@
     shorttitle = "gioconde_crudo_fato"
     shortcomp = "nanino"
     categories = "[madrigal]"
+    motifs = "[fate,prison,paradox,ardor]"
+    rhyme = "aBBacc"
     final = "g"
     flats = 1
     needtranslation = #'t
@@ -100,10 +102,10 @@
                 \line { amaro e dolce ardore }
                 \line { statemi sempre al core. }
             }
-%           \column {
-%               % translation orig date:
-%               % translation updated:
-%           }
+           \column {
+               % translation orig date: 
+               % translation updated:
+           }
         }
     }
 }

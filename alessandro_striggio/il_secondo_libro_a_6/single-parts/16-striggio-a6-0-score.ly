@@ -15,6 +15,7 @@
     language = "italian"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXV ottava 68 }
+    rhyme = "ABABABCC"
 
     % Unchanging:
     lastupdated = "2015-12-05"

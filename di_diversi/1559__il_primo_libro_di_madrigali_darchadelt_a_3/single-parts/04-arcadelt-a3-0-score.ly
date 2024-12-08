@@ -16,6 +16,7 @@
     instrument = "Dormendo un giorno (score)"
     needtranslation = #'t
     language = "italian"
+    rhyme = "ABABABCC"
 
     % Unchanging:
     originallyset = "2013-11-09"

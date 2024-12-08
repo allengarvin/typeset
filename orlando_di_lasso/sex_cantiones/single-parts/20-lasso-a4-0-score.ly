@@ -16,6 +16,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Sotto due negri e sottilissimi archi"
+    rhyme = "ABABABCC"
     subtitle = ""
     instrument = "Sotto due negri e sottilissimi archi:  (score)"
     headerspace = \markup { \vspace #2 }

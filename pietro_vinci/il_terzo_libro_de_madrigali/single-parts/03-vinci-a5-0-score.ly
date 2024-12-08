@@ -23,7 +23,7 @@
     shorttitle = "se_fosse_dolce_il_canto"
     shortcomp = "vinci"
     categories = "[madrigal]"
-    motifs = "[]"
+    motifs = "[song,praise]"
     needtranslation = #'f
     folio = "P. [?Pietro Vinci?]"
     rhyme = "aBABbCC"

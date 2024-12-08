@@ -26,6 +26,7 @@
     final = "g"
     categories = "[madrigal]"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     motifs = "[sleep,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f

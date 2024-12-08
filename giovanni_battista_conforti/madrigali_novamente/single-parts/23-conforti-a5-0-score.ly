@@ -20,6 +20,7 @@
     shorttitle = "dunque_baciar"
     shortcomp = "conforti"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXVI ottava 32 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     final = "c"
     flats = 0

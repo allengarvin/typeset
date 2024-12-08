@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Alcun non può saper da chi sia amato"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XIX ottava 1 }
+    rhyme = "ABABABCC"
 
     instrument = "Alcun non può saper (score)"
     language = "italian"

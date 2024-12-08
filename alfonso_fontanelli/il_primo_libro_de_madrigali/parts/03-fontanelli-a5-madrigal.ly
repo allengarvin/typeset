@@ -1,5 +1,5 @@
 cantoIII = \relative c'' {
-    \clef soprano
+    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -10,7 +10,7 @@ cantoLyricsIII = \lyricmode {
 }
 
 altoIII = \relative c' {
-    \clef alto
+    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -21,7 +21,7 @@ altoLyricsIII = \lyricmode {
 }
 
 tenoreIII = \relative c' {
-    \clef tenor
+    \clef alto
     \key c \major
     \fourTwoCommonTime
 

@@ -21,6 +21,7 @@
     lastupdated = "2013-03-12"
     folio = "Pompeo Pace (fl.1560s)"
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     flats = 0
     final = "a"
     shorttitle = "danzava_con_maniere"

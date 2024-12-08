@@ -13,6 +13,7 @@
     title = "E il fior ch’in ciel potea pormi fra i dei"
     subtitle = "Terza stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 77 }
+    rhyme = "ABABABCC"
     instrument = "E il fior ch’in ciel (score)"
     language = "italian"
     needtranslation = #'f

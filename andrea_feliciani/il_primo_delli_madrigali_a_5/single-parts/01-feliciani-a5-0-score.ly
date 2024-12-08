@@ -24,6 +24,7 @@
     shorttitle = "che_nuova_cinthia"
     categories = "[madrigal]"
     motifs = "[amore,arrow,snare]"
+    rhyme = "aBcAcB"
     \include "include/distribution-header.ly"
     poeticform = "madrigal"
     tagline = #'f

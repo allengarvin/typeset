@@ -19,6 +19,7 @@
     instrument = "E quella a fiori a pomi a la verdura (score)"
     language = "italian"
     needtranslation = #'f
+    rhyme = "ABABABCC"
 
     % Unchanging:
     originallyset = "2013-09-17"

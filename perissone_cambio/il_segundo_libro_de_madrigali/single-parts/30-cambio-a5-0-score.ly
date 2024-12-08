@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Scarpello si vedra di piombo"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} Canto XLIV ottava 61 }
+    rhyme = "ABABABCC"
     instrument = "Scarpello si vedra di piombo (score)"
     categories = "[madrigal,furioso]"
     motifs = "[nightingale,bird]"

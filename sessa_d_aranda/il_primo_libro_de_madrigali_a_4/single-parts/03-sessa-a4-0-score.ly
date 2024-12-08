@@ -13,6 +13,7 @@
     title = "Dove, speranza mia, dove ora sei"
     subtitle = "Seconda stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 77 }
+    rhyme = "ABABABCC"
     instrument = "Dove, speranza mia (score)"
     language = "italian"
     needtranslation = #'f

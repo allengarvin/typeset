@@ -29,6 +29,7 @@
     % Unchanging:
     language = "italian"
     poeticform = "madrigal"
+    rhyme = "AbAbcCDd"
     tagline = #'f
 }
 

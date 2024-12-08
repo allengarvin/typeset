@@ -20,6 +20,7 @@
     shorttitle = "amor_che_de_mortali_ogni_cor_vede"
     shortcomp = "gabrieli"
     categories = "[madrigal]"
+    rhyme = "ABbCDeDFfGG"
     final = "c"
     flats = 0
     needtranslation = #'t

@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Fu il vincer sempre mai laudabil cosa"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XV ottava 1 }
+    rhyme = "ABABABCC"
     instrument = "Fu il vincer (score)"
     language = "italian"
     needtranslation = #'f

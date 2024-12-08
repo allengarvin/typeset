@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Gravi pene in amor si provan molte"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XVI ottava 1 }
+    rhyme = "ABABABCC"
     composer = "Cipriano de Rore (c.1515-1565)"
     instrument = "Gravi pene in amor (score)"
     language = "italian"

@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "ma_maggior_meraviglia"
     categories = "[madrigal]"
+    rhyme = "aBccdD"
     \include "include/distribution-header.ly"
     poeticform = "madrigal"
     tagline = #'f

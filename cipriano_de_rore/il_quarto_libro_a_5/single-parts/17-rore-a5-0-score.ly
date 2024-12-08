@@ -17,6 +17,7 @@
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLIII ottava 62 } 
     poeticform = "ottava rima"
+    rhyme = "ABABABCC"
 
     % Unchanging:
     lastupdated = "2019-07-02"

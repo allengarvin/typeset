@@ -13,6 +13,7 @@
     title = "Oh infelice! oh misero! che voglio"
     subtitle = "Quarta stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 78 }
+    rhyme = "ABABABCC"
     instrument = "Oh infelice! oh misero! (score)"
     language = "italian"
     needtranslation = #'f

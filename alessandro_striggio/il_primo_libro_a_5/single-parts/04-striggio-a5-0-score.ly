@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Felice l'alma che per voi sospira"
     instrument = "Felice l'alma (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     folio = \markup { Petrarca, \italic{Canzoniere} LXXI (71) }
 

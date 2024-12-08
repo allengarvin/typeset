@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_voi_chavete_di_pietade_il_viso"
     shortcomp = "de_monte"
-    folio = "Anonymous ottava rima stanza"
+    rhyme = "ABABABCC"
     needtranslation = #'t
 
     % Unchanging:

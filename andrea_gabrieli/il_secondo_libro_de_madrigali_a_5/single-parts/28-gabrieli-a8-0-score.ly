@@ -24,7 +24,7 @@
     shortcomp = "gabrieli"
     categories = "[]"
     motifs = "[]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Dedicato al serenissimo Principe Carlo, Arciduca d'Austria"
 
     % Unchanging:

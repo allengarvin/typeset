@@ -23,6 +23,7 @@
     final = "d"
     flats = 1
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXII ottava 21 }
+    rhyme = "ABABABCC"
     needtranslation = #'f
 
     % Unchanging:

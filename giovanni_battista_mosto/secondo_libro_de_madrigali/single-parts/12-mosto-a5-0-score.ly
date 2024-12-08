@@ -15,6 +15,7 @@
     instrument = "La verginella è simile alla rosa:  (score)"
     headerspace = \markup { \vspace #2 }
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 42 }
+    rhyme = "ABABABCC"
     shorttitle = "la_verginella_e_simile_alla_rosa"
     shortcomp = "mosto"
     needtranslation = #'f

@@ -17,6 +17,7 @@
     shorttitle = "che_dolce_piu_che_piu_giocondo_stato"
     shortcomp = "paien"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXXI ottava 1 }
+    rhyme = "ABABABCC"
     needtranslation = #'f
 
     % Unchanging:

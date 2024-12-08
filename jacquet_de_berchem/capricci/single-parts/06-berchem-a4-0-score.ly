@@ -13,6 +13,7 @@
     title = "Che debbo far, poi ch’io son giunto tardi"
     subtitle = "Lamento di Sacripante per la fugga d'Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 41 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Che debbo far (score)"
     language = "italian"

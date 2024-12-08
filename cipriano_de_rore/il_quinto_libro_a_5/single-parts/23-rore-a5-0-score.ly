@@ -90,15 +90,15 @@
         \fill-line {
             \column {
                 \line { Da l'estremo orizzonte, }
-                \line { La v'è l'Orsa di Giove, }
-                \line { Gran pregi mostra e'l suo felice errore }
-                \line { Un' aura ch'ogni or move: }
+                \line { la v'è l'Orsa di Giove, }
+                \line { gran pregi mostra e'l suo felice errore }
+                \line { un' aura ch'ogni or move: }
                 \line { Lamoral d'Agamonte }
-                \line { Fa d'ogni intorno risonar la terra. }
+                \line { fa d'ogni intorno risonar la terra. }
                 \line { Mortal folgor di guerra, }
-                \line { Gradito in ciel, ha'l vero almo valore }
-                \line { Ch'or tutto in voi si serra: }
-                \line { Qui nome eterno, ivi ha immortal onore. }
+                \line { gradito in ciel, ha'l vero almo valore }
+                \line { ch'or tutto in voi si serra: }
+                \line { qui nome eterno, ivi ha immortal onore. }
             }
         }
     }

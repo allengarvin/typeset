@@ -25,6 +25,8 @@
     final = "f"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    poeticform = "ottava rima"
+    rhyme = "ABABABCC"
     tagline = #'f
 }
 

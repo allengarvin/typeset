@@ -4,6 +4,13 @@
 import sys
 
 composers = {
+'Antonio Morari (1540s-1597)' : "morari",
+'Cristóbal de Morales (c.1500-1553) [see note on score]' : "morales",
+'Marco da Gagliano (1582-1643)' : "gagliano",
+"Giovanni Priuli (c.1575-1626)" : "priuli",
+'Cristofano Malvezzi (1547-1599)' : "malvezzi",
+'Fra Mauro di Fiorenza (c.1545-1621)' : "mauro",
+'Giovanni Piero Manenti (c.1535-1597)' : "manenti",
 'Flaminio Tresti (c.1560-c.1613)' : "tresti",
 'Giovanni Cavaccio (c.1556-1626)' : "cavaccio",
 'Giulio Eremita (c.1550-c.1600)' : "eremita",

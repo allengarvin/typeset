@@ -12,6 +12,7 @@
     % Things that change per piece:
     title = "Le donne, i cavallier, l'arme, gli amori"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 1 }
+    rhyme = "ABABABCC"
     poeticform = "ottava rima"
     instrument = "Le donne, i cavallier, l'arme, gli amori (score)"
     language = "italian"

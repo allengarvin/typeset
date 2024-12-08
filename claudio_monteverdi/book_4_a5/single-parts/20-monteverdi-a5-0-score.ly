@@ -22,6 +22,7 @@
     shorttitle = "piagne_e_sospira"
     shortcomp = "monteverdi"
     folio = \markup { Torquato Tasso, \italic { Gerusalemme Conquistata, } Canto VIII, ottava 6 }
+    rhyme = "ABABABCC"
     categories = "[madrigal]"
     motifs = "[sighing]"
     needtranslation = #'f
