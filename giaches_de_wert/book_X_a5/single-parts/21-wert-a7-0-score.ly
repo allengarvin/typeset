@@ -15,6 +15,7 @@
     instrument = "Vicino un chiaro e cristallino fonte: Dialogo a sette (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "vicino_un_chiaro_e_cristallino_fonte"
+    folio = "Marino Palma" 
     shortcomp = "wert"
     needtranslation = #'t
 

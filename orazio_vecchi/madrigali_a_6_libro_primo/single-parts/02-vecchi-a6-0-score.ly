@@ -113,12 +113,12 @@
             }
            \column {
                % translation orig date: 2023-10-29
-               % translation updated:
-                 \line { I burn so, yet I love you not, }
+               % translation updated: 2024-09-20
+                 \line { I burn, yes, yet I love you not, }
                  \line { perfidious and pitiless \auto-footnote "one," \italic { "perfida, dispietata: the one so addressed is female" } }
                  \line { undeservedly loved }
-                 \line { by so faithful a lover. }
-                 \line { Nor more of my pain will you still boast,  }
+                 \line { by such a faithful lover. }
+                 \line { No more of my pain shall you still boast,  }
                  \line { for I have already healed my heart, }
                  \line { and if I burn, I burn with disdain and not with love. }
                 \line { \hspace #10 \italic { translation by editor } }

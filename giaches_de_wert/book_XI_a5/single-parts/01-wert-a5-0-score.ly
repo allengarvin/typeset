@@ -13,7 +13,7 @@
     title = "Ah dolente partita"
     instrument = "Ah dolente partita (score)"
     needtranslation = #'f
-    folio = \markup { Battista Guarini \italic{Il Pastor Fido} Atto III Scena 3 }
+    folio = \markup { Giovanni Battista Guarini \italic{Il Pastor Fido} Atto III Scena 3 }
 
     % Unchanging:
     lastupdated = "2018-08-26"

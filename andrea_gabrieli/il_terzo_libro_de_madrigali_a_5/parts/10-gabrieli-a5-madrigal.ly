@@ -1,24 +1,22 @@
 % Mirami, vita mia, mirami un poco
-% Co' divin occhi tuoi,
-% E tu di me fa' poi,
-% Cor mio, quel ch'a te piace.
+% co' divin occhi tuoi,
+% e tu di me fa' poi,
+% cor mio, quel ch'a te piace.
 % Lasso, che mi disface!
 % Non mirar più, ben mio, deh, non mirare,
-% Ch'io mi sento mancare!
+% ch'io mi sento mancare!
 % Se non mi miri, ohimè, come vedranno
-% Gli occhi miei, ch'altra luce in sé non hanno?
-
-% Gaze at me, my life, gaze at me a little
+% gli occhi miei, ch'altra luce in sé non hanno?
+% 
+% Gaze at me, my life, gaze at me a bit
 % with your divine eyes,
-% and then you can do with me,
-% my heart, whatever you please.
-% Alas, I am undone!
-% Do not look any more, my love, do not look,
-% for I am feeling faint!
-% If you do not look at me, alas, how will my eyes see,
-% since they have no other light in them?
-% --liner notes of I Fagiolini album
-
+% and then do with me,
+% my heart, that which pleases you.
+% Alas, for you undo me!
+% Gaze no more, my love, do not look
+% for I feel overwhelmed!
+% If you do not look at me, alas, how
+% shall my eyes sea, as they have nother light in them.
 
 cantoXincipit = \relative c'' {
     \time 4/4

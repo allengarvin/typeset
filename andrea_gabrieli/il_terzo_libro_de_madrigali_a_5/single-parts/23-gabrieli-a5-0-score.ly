@@ -105,15 +105,25 @@
             }
            \column {
                % translation orig date: 2024-09-02
-               % translation updated:
-                \line { From those beautiful eyes that lit the fire }
-                \line { that burns me little by little, }
-                \line { I saw the tears flow, wherein I thought }
-                \line { that this new humor would quench the flame, }
+               % translation updated: 2024-09-28
+                \line { From those fair eyes where was lit the fire }
+                \line { that burns me bit by bit, }
+                \line { I saw tears flow, wherein I thought }
+                \line { that this new draught might quench the flame, }
                 \line { and I felt in my heart }
-                \line { that this flame I could never extinguish. }
+                \line { a flame I shall never be able to extinguish. }
                 \line { \hspace #10 \italic { translation by editor } }
            }
+        }
+    }
+    \markup {
+        \wordwrap {
+            Note: "il novo umore" could be literally rendered
+             as "a new moisture", but the Italian "umore" also was used
+            for the ancient medical concept of humoralism. Thus the implication
+            could also be not simply the implication of simple moisture,
+            but also a new vital essence that governs emotion and
+            temperament.
         }
     }
 }
