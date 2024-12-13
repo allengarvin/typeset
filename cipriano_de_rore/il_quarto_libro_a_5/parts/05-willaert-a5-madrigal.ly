@@ -49,8 +49,8 @@ cantusV = \relative c' {
 }
 
 cantusLyricsV = \lyricmode {
-    In -- gra -- ta~hai las -- so l'a -- mo,
-    in -- gra -- ta~hai las -- so l'a -- mo, E tan -- t'ha~il co -- re,
+    In -- gra -- t'ahi las -- so l'a -- mo,
+    in -- gra -- t'ahi las -- so l'a -- mo, E tan -- t'ha~il co -- re,
         e tan -- t'ha~il co -- re
     tre -- gua coi miei so -- spir, Quan -- to più~in -- gra -- ta
     La mo -- stra~a miei de -- sir so -- ven -- te~A -- mo -- re,
@@ -114,8 +114,8 @@ altusV = \relative c' {
 }
 
 altusLyricsV = \lyricmode {
-    In -- gra -- ta~hai las -- so l'a -- mo,
-    in -- gra -- ta~hai las -- so l'a -- mo, E tan -- t'ha~il co -- re,
+    In -- gra -- t'ahi las -- so l'a -- mo,
+    in -- gra -- t'ahi las -- so l'a -- mo, E tan -- t'ha~il co -- re,
         e tan -- t'ha~il co -- re
     tre -- gua coi miei so -- spir, Quan -- to più~in -- gra -- ta
     La mo -- stra~a miei de -- sir so -- ven -- te~A -- mo -- re,
@@ -179,8 +179,8 @@ tenorV = \relative c {
 }
 
 tenorLyricsV = \lyricmode {
-    In -- gra -- ta~hai __ las -- so l'a -- mo,
-    in -- gra -- ta~hai las -- so l'a -- mo, __ E tan -- t'ha~il co -- re,
+    In -- gra -- t'ahi __ las -- so l'a -- mo,
+    in -- gra -- t'ahi las -- so l'a -- mo, __ E tan -- t'ha~il co -- re,
     tre -- gua coi miei so -- spir, 
         e tan -- t'ha~il co -- re,
     tre -- gua coi miei so -- spir, Quan -- to più~in -- gra -- ta
@@ -241,8 +241,8 @@ bassusV = \relative c {
 }
 
 bassusLyricsV = \lyricmode {
-    In -- gra -- ta~hai las -- so,
-    in -- gra -- ta~hai las -- so l'a -- mo, E tan -- t'ha~il co -- re,
+    In -- gra -- t'ahi las -- so,
+    in -- gra -- t'ahi las -- so l'a -- mo, E tan -- t'ha~il co -- re,
     tre -- gua coi miei so -- spir, __
         e tan -- t'ha~il co -- re,
     tre -- gua coi miei so -- spir, so -- spir, 
@@ -306,7 +306,7 @@ quintusV = \relative c' {
 }
 
 quintusLyricsV = \lyricmode {
-    In -- gra -- ta~hai las -- so l'a -- mo, E tan -- t'ha~il co -- re,
+    In -- gra -- t'ahi las -- so l'a -- mo, E tan -- t'ha~il co -- re,
     tre -- gua coi miei so -- spir,
         e tan -- t'ha~il co -- re,
     tre -- gua coi miei so -- spir, Quan -- to più~in -- gra -- ta

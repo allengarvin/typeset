@@ -13,7 +13,7 @@
     title = "La bella greca"
     instrument = "La bella greca (score)"
     language = "italian"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     originallyset = "2017-09-10"
@@ -22,7 +22,7 @@
     final = "d"
     shorttitle = "la_bella_greca"
     categories = "[madrigal]"
-    motif = "[shepherd]"
+    motif = "[shepherd,troy,myth]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -90,16 +90,41 @@
     \markup {
         \fill-line {
             \column {
-                \line { La bella greca ond'el pastor Ideo }
-                \line { In glorioso fiamm'il suo tempo arse }
-                \line { S'al vostro lume di mia morte reo }
-                \line { Potess'oggi aguagliarsi }
-                \line { Perderebbe sua prova }
-                \line { O chiaro splendor d'Adria }
-                \line { Helena nova }
-                \line { Che da begli occhi ond'amor vuol ch'io moia }
-                \line { E vinto'l ciel, non pure Sparta troia. }
+                % Italian touched up: 2024-12-11
+                \line { La bella greca onde 'l pastor Ideo }
+                \line { in gloriosa fiamm'il suo tempo arse: }
+                \line { s'al vostro lume di mia morte reo }
+                \line { potess'oggi agguagliarsi, }
+                \line { perderebbe sua prova. }
+                \line { O chiaro splendor d'Adria Elena nova }
+                \line { che da' begli occhi ond'Amor vuol ch'io moia }
+                \line { è vinto 'l ciel non pure Sparta Troia. }
             }
+            \column {
+                \line { The beautiful greek for whom the shepherd Ideo }
+                \line { once burned with a glorious flame: }
+                \line { if your radiance, responsible for my death, }
+                \line { could today match [hers], }
+                \line { she would lose her renown. }
+                \line { Oh bright splendor of Adria, O new Helen, }
+                \line { for by your lovely eyes, for which Love desires I die, }
+                \line { is heaven, too, conquered—not just Sparta and Troy. }
+                \line { \hspace #10 \italic { translation by editor } }
+            }
+        }
+    }
+    \markup {
+        \wordwrap {
+           \vspace #2
+            Note: \italic { Il pastor Ideo, }, 'the Idean shepherd',
+            refers to Paris of Troy, who was raised by a shepherd on
+            Mount Ida. Paris kidnapped Helen from the Greeks and
+            brought her to Troy.
+            Compare this with a sonnet by Giovanni della Casa (1503-56)
+            with the same first line. That sonnet was written in honor
+            Elisabetta Quirini, the wife Lorenzo Quirini, a friend of
+            dalla Casa. The author of the text of this madrigal is
+            unknown.
         }
     }
 }

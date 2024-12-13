@@ -1,11 +1,11 @@
-% O morte, eterno fin chi tutt’i mali,
+% O morte, eterno fin di tutt'i mali,
 % riposo delle membra e della mente,
-% utile e necessaria a gl’animali
+% utile e necessaria a gl'animali
 % più che la vita assai chi pon ben mente;
-% porto de’ ciechi e miseri mortali
-% ch’errando van da l’orto a l’occidente;
+% porto de' ciechi e miseri mortali
+% ch'errando van da l'orto a l'occidente;
 % tu prigion spezzi e rompi aspre catene,
-% e metti fine a l’amorose pene.
+% e metti fine a l'amorose pene.
 
 cantoIIincipit = \relative c'' {
     \time 2/2
@@ -45,18 +45,18 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    O mor -- te, e -- ter -- no fin chi tut -- t’i ma -- li, __
+    O mor -- te, e -- ter -- no fin di tut -- t'i ma -- li, __
     Ri -- po -- so del -- le mem -- bra e del -- la men -- te,
         e del -- la men -- te,
     U -- ti -- le~e ne -- ces -- sa -- ria~a gli~a -- ni -- ma -- li
     Più che la vi -- ta~as -- sai chi pon ben men -- te;
-    Por -- to de’ cie -- chi~e mi -- se -- ri mor -- ta -- li
-    Por -- to de’ cie -- chi e mi -- se -- ri mor -- ta -- li
-    Ch’er -- ran -- do van,
-    Ch’er -- ran -- do van __ da l’or -- to~a l’oc -- ci -- den -- te;
+    Por -- to de' cie -- chi~e mi -- se -- ri mor -- ta -- li
+    Por -- to de' cie -- chi e mi -- se -- ri mor -- ta -- li
+    Ch'er -- ran -- do van,
+    Ch'er -- ran -- do van __ da l'or -- to~a l'oc -- ci -- den -- te;
     Tu pri -- gion spez -- zi, e __ rom -- pi~a -- spre ca -- te -- ne, __
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne. __
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne. __
 }
 
 altoIIincipit = \relative c' {
@@ -97,7 +97,7 @@ altoII = \relative c' {
 
 altoLyricsII = \lyricmode {
     O mor -- te,
-    O mor -- te, e -- ter -- no fin chi tut -- t’i ma -- li, 
+    O mor -- te, e -- ter -- no fin di tut -- t'i ma -- li, 
     Ri -- po -- so del -- le mem -- bra e del -- la men -- te,
         e del -- la men -- te,
     U -- ti -- le~e ne -- ces -- sa -- ria~a gli~a -- ni -- ma -- li
@@ -109,20 +109,20 @@ altoLyricsII = \lyricmode {
     \ijLyrics
         chi pon ben men -- te;
     \normalLyrics
-    Por -- to de’ cie -- chi,
-    Por -- to de’ cie -- chi~e mi -- se -- ri mor -- ta -- li
-    Ch’er -- ran -- do van, __
-    Ch’er -- ran -- do van da l’or -- to~a l’oc -- ci -- den -- te;
+    Por -- to de' cie -- chi,
+    Por -- to de' cie -- chi~e mi -- se -- ri mor -- ta -- li
+    Ch'er -- ran -- do van, __
+    Ch'er -- ran -- do van da l'or -- to~a l'oc -- ci -- den -- te;
     Tu pri -- gion spez -- zi, 
     \ijLyrics
     Tu pri -- gion spez -- zi~e
     \normalLyrics
         rom -- pi~a -- spre __ ca -- te -- ne, 
     E met -- ti fi -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne. __
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne. __
 }
 
 tenoreIIincipit = \relative c' {
@@ -163,22 +163,22 @@ tenoreII = \relative c' {
 
 tenoreLyricsII = \lyricmode {
     O mor -- te,
-    O mor -- te, e -- ter -- no fin __ chi tut -- t’i ma -- li, 
+    O mor -- te, e -- ter -- no fin __ di tut -- t'i ma -- li, 
     Ri -- po -- so del -- le mem -- bra e del -- la men -- te,
     U -- ti -- le~e ne -- ces -- sa -- ria~a gli~a -- ni -- ma -- li
     Più che la vi -- ta~as -- sai chi pon ben men -- te,
         chi pon __ ben men -- te; __
-    Por -- to de’ cie -- chi e mi -- se -- ri mor -- ta -- li
-    Ch’er -- ran -- do van da l’or -- to~a l’oc -- ci -- den -- te;
+    Por -- to de' cie -- chi e mi -- se -- ri mor -- ta -- li
+    Ch'er -- ran -- do van da l'or -- to~a l'oc -- ci -- den -- te;
     Tu pri -- gion spez -- zi, 
     \ijLyrics
     Tu pri -- gion spez -- zi, 
     \normalLyrics
         e __ rom -- pi~a -- spre ca -- te -- ne, 
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne.
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne.
 }
 
 bassoIIincipit = \relative c' {
@@ -215,18 +215,18 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
-    O mor -- te, e -- ter -- no fin chi tut -- t’i ma -- li,  __
+    O mor -- te, e -- ter -- no fin di tut -- t'i ma -- li,  __
     Ri -- po -- so del -- le mem -- bra e del -- la men -- te,
     U -- ti -- le~e ne -- ces -- sa -- ria~a gli~a -- ni -- ma -- li
     Più che la vi -- ta~as -- sai chi pon ben men -- te;
-    Por -- to de’ cie -- chi~e mi -- se -- ri mor -- ta -- li __
-    Ch’er -- ran -- do van da l’or -- to~a l’oc -- ci -- den -- te;
+    Por -- to de' cie -- chi~e mi -- se -- ri mor -- ta -- li __
+    Ch'er -- ran -- do van da l'or -- to~a l'oc -- ci -- den -- te;
     Tu pri -- gion spez -- zi, 
     Tu pri -- gion spez -- zi, e rom -- pi~a -- spre ca -- te -- ne, 
     E met -- ti fi -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
     E met -- ti fi -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne. __
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne. __
 }
 
 quintoIIincipit = \relative c' {
@@ -263,17 +263,17 @@ quintoII = \relative c' {
 
 quintoLyricsII = \lyricmode {
     O __ mor -- te, 
-    O mor -- te, e -- ter -- no fin chi tut -- t’i ma -- li, 
+    O mor -- te, e -- ter -- no fin di tut -- t'i ma -- li, 
     Ri -- po -- so del -- le mem -- bra e del -- la men -- te,
     U -- ti -- le~e ne -- ces -- sa -- ria~a gli~a -- ni -- ma -- li
     Più che la vi -- ta~as -- sai chi pon ben men -- te;
-    Por -- to de’ cie -- chi e __ mi -- se -- ri mor -- ta -- li __
-    Ch’er -- ran -- do van da l’or -- to~a l’oc -- ci -- den -- te;
+    Por -- to de' cie -- chi e __ mi -- se -- ri mor -- ta -- li __
+    Ch'er -- ran -- do van da l'or -- to~a l'oc -- ci -- den -- te;
     Tu pri -- gion spez -- zi, e rom -- pi~a -- spre ca -- te -- ne, __
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne,
-    E met -- ti fi -- ne~a l’a -- mo -- ro -- se pe -- ne. __
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne,
+    E met -- ti fi -- ne~a l'a -- mo -- ro -- se pe -- ne. __
 }
 
 cantoIIincipitVoice = <<

@@ -1,6 +1,6 @@
 %19 1   Alcun non può saper da chi sia amato,
 %       quando felice in su la ruota siede;
-%       però c’ha i veri e i finti amici a lato,
+%       però ch'ha i veri e i finti amici a lato,
 %       che mostran tutti una medesma fede.
 %       Se poi si cangia in tristo il lieto stato,
 %       volta la turba adulatrice il piede;
@@ -48,17 +48,17 @@ cantoLyricsIII = \lyricmode {
     Al -- cun non può sa -- per da chi __ sia~a -- ma -- to,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
-    Pe -- rò c’ha~i ve -- ri~a -- mi -- ci~ei sen -- t’a la -- to
+    Pe -- rò ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
     Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de,
     Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de.
 
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
     Vol -- ta la tur -- ba~a -- du -- la -- tri -- ce~il pie -- de;
     E quel che di cor a -- ma ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
     E quel che di cor a -- ma ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
         fin' a la mor -- te. __
 
 }
@@ -101,18 +101,18 @@ altoLyricsIII = \lyricmode {
     Al -- cun non può sa -- per da chi sia~a -- ma -- to,
     Al -- cun non può sa -- per da chi sia~a -- ma -- to,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
-    Pe -- rò c’ha~i ve -- ri~a -- mi -- ci~ei sen -- t’a la -- to
+    Pe -- rò ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
     Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de. __
 
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
     Vol -- ta la tur -- ba~a -- du -- la -- tri -- ce~il pie -- de;
     E quel che di cor a -- ma ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
         fin' a la mor -- te,
     E quel che di cor a -- ma ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
         fin' a __ la mor -- te. __
 }
 
@@ -149,16 +149,16 @@ tenoreIII = \relative c' {
 tenoreLyricsIII = \lyricmode {
     Al -- cun non può sa -- per da chi sia~a -- ma -- to,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
-    Pe -- rò __ c’ha~i ve -- ri~a -- mi -- ci~ei sen -- t’a la -- to
+    Pe -- rò __ ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
     Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de.
 
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
     Vol -- ta la tur -- ba~a -- du -- la -- tri -- ce~il pie -- de;
     E quel che di cor a -- ma ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
     E quel che di cor a -- ma ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
         fin' a la mor -- te,
     \ijLyrics
         fin' a la mor -- te.
@@ -198,16 +198,16 @@ bassoIII = \relative c {
 bassoLyricsIII = \lyricmode {
     Al -- cun non può sa -- per da chi sia~a -- ma -- to,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
-    Pe -- rò __ c’ha~i ve -- ri~a -- mi -- ci~ei sen -- t’a la -- to
+    Pe -- rò __ ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
     Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de.
 
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
     Vol -- ta la tur -- ba~a -- du -- la -- tri -- ce~il pie -- de;
     E quel che di cor a -- ma ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
     E quel che di cor a -- ma ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
         fin' a la mor -- te. __
 }
 
@@ -249,7 +249,7 @@ quintoLyricsIII = \lyricmode {
     Al -- cun non può sa -- per __ da chi __ sia~a -- ma -- to,
     Al -- cun non può sa -- per da chi sia~a -- ma -- to,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
-    Pe -- rò c’ha~i ve -- ri~a -- mi -- ci~ei sen -- t’a __ la -- to
+    Pe -- rò ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a __ la -- to
     Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de. __
 
     Se poi __ si can -- gia~in tri -- sto~il lie -- to sta -- to,
@@ -257,11 +257,11 @@ quintoLyricsIII = \lyricmode {
     Vol -- ta la tur -- ba~a -- du -- la -- tri -- ce~il pie -- de;
     E __ quel che di cor a -- ma ri -- man for -- te, __
         ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
     E __ quel che di cor a -- ma ri -- man for -- te, __
         ri -- man for -- te,
-    Et a -- ma~il suo si -- gnor fin' a la mor -- te,
-    Et a -- ma~il suo __ si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo si -- gnor fin' a la mor -- te,
+    Ed a -- ma~il suo __ si -- gnor fin' a la mor -- te,
         fin' a la mor -- te. __
 }
 

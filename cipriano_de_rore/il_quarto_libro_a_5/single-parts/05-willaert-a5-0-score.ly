@@ -14,8 +14,8 @@
     subtitle = "Seconda parte"
     instrument = "Ingrata hai lasso l'amo: Seconda parte (score)"
     language = "italian"
-    needtranslation = #'t
-    folio = "Anonymous sonnet"
+    needtranslation = #'f
+    folio = "Marco Bandarini (fl.1540s)"
     composer = "Adrian Willaert (c.1490-1562)"
 
     % Unchanging:
@@ -93,13 +93,23 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ingrata hai lasso l'amo, e tant'ha il core }
-                \line { Tregua coi miei sospir, quanto più ingrata }
-                \line { La mostra a miei desir sovente Amore. }
+                \line { Ingrata, ahi lasso! l'amo, e tant'ha il core }
+                \line { tregua coi miei sospir, quanto più ingrata }
+                \line { la mostra a miei desir sovente Amore. }
                 \line { \vspace #0.5 }
                 \line { Gioisco nel mio mal perché ella è ingrata }
-                \line { Così ingrata da pace al mio dolore: }
+                \line { così ingrata da pace al mio dolore: }
                 \line { O che dolce languir per donna ingrata. }
+            }
+            \column {
+                % translation 2024-12-11
+                \line { Ungrateful, ah, alas! I love her, and her heart }
+                \line { grants no more peace to my sighs than Love, ungrateful, }
+                \line { oft reveals to her my desires. }
+                \line { I rejoice in my pain because she is ungrateful, }
+                \line { so ungrateful it gives peace to my suffering; }
+                \line { O, what sweet languor for an ungrateful woman. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

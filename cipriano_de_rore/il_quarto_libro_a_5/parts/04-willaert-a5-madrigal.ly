@@ -56,7 +56,7 @@ cantusLyricsIV = \lyricmode {
     Mi pia -- ce sì,
         e co -- sì~in -- gra -- ta
     mi pia -- ce sì che non può dar -- mi~il cie -- lo
-    Gra -- tia mag -- gior % ch'in bel can -- di -- do ve -- lo
+    Gra -- zia mag -- gior % ch'in bel can -- di -- do ve -- lo
     Far -- mi ve -- der,
     far -- mi ve -- der que -- sta mia don -- na~in -- gra -- ta. __
 
@@ -112,7 +112,7 @@ altusLyricsIV = \lyricmode {
     in -- gra -- ta~è la mia don -- na,
     in -- gra -- ta~è la mia don -- na, e co -- sì~in -- gra -- ta
     Mi pia -- ce sì che non può dar -- mi~il cie -- lo
-    Gra -- tia mag -- gior ch'in bel can -- di -- do ve -- lo
+    Gra -- zia mag -- gior ch'in bel can -- di -- do ve -- lo
     Far -- mi ve -- der que -- sta mia don -- na~in -- gra -- ta,
         que -- sta mia don -- na~in -- gra -- ta.
 
@@ -170,7 +170,7 @@ tenorLyricsIV = \lyricmode {
         e co -- sì~in -- gra -- ta
     mi pia -- ce sì che non può dar -- mi~il cie -- lo,
         che non può dar -- mi~il cie -- lo
-    Gra -- tia mag -- gior ch'in bel can -- di -- do ve -- lo
+    Gra -- zia mag -- gior ch'in bel can -- di -- do ve -- lo
     far -- mi ve -- der que -- sta mia don -- na~in -- gra -- ta,
         que -- sta mia don -- na~in -- gra -- ta,
         que -- sta mia don -- na~in -- gra -- ta.
@@ -226,7 +226,7 @@ bassusLyricsIV = \lyricmode {
     Mi pia -- ce sì,
         e co -- sì~in -- gra -- ta
     mi pia -- ce sì che non può dar -- mi~il cie -- lo
-    Gra -- tia mag -- gior ch'in bel can -- di -- do ve -- lo
+    Gra -- zia mag -- gior ch'in bel can -- di -- do ve -- lo
     Far -- mi ve -- der que -- sta mia don -- na~in -- gra -- ta,
         que -- sta mia don -- na~in -- gra -- ta.
 
@@ -282,7 +282,7 @@ quintusLyricsIV = \lyricmode {
     Mi pia -- ce sì,
         e co -- sì~in -- gra -- ta
     mi pia -- ce sì che non può dar -- mi~il cie -- lo
-    Gra -- tia mag -- gior ch'in bel can -- di -- do ve -- lo
+    Gra -- zia mag -- gior ch'in bel can -- di -- do ve -- lo
     Far -- mi ve -- der que -- sta mia don -- na~in -- gra -- ta.
 
     E per -- ché~io pe -- ni, __

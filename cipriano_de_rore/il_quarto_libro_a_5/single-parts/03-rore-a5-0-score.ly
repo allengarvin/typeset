@@ -14,7 +14,7 @@
     instrument = "Alcun non può saper (score)"
     language = "italian"
     needtranslation = #'f
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XIX ottava 1}
+    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XIX ottava 1 }
     poeticform = "ottava rima"
 
     % Unchanging:
@@ -93,18 +93,17 @@
     \markup {
         \fill-line {
             \column {
-                \vspace #4
+                % Italian fix up (slight)
                 \line { Alcun non può saper da chi sia amato, }
                 \line { quando felice in su la ruota siede; }
-                \line { però c’ha i veri e i finti amici a lato, }
+                \line { però ch'ha i veri e i finti amici a lato, }
                 \line { che mostran tutti una medesma fede. }
                 \line { Se poi si cangia in tristo il lieto stato, }
                 \line { volta la turba adulatrice il piede; }
                 \line { e quel che di cor ama riman forte, }
-                \line { et ama il suo signor dopo la morte. }
+                \line { ed ama il suo signor dopo la morte. }
             }
             \column {
-                \vspace #4
                 \line { By whom he is beloved can no one know, }
                 \line { Who on the top of Fortune's wheel is seated; }
                 \line { Since he, by true and faithless friends, with show }

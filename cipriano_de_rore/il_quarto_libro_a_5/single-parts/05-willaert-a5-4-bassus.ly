@@ -12,7 +12,7 @@
     title = "Ingrata hai lasso l'amo"
     subtitle = "Seconda parte"
     instrument = "Ingrata hai lasso l'amo: Seconda parte (bassus)"
-    folio = "Anonymous sonnet"
+    folio = "Marco Bandarini (fl.1540s)"
     composer = "Adrian Willaert (c.1490-1562)"
 
     % Things that change per part:

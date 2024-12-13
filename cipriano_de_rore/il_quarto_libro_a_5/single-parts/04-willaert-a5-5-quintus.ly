@@ -12,7 +12,7 @@
     title = "Ingrata è la mia donna"
     subtitle = "Prima parte"
     instrument = "Ingrata è la mia donna: Prima parte (quintus)"
-    folio = "Anonymous sonnet"
+    folio = "Marco Bandarini (fl.1540s)"
     composer = "Adrian Willaert (c.1490-1562)"
 
     % Things that change per part:

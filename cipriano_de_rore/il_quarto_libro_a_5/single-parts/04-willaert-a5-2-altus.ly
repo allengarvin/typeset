@@ -12,7 +12,7 @@
     title = "Ingrata è la mia donna"
     subtitle = "Prima parte"
     instrument = "Ingrata è la mia donna: Prima parte (altus)"
-    folio = "Anonymous sonnet"
+    folio = "Marco Bandarini (fl.1540s)"
 
     % Things that change per part:
     partname = "Altus (part 3 of 5)"

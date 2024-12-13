@@ -10,11 +10,12 @@
 
 \header {
     % Things that change per piece:
-    title = "O morte, eterno fin chi tutt’i mali"
+    title = "O morte, eterno fin di tutt'i mali"
     instrument = "O morte (score)"
     language = "italian"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Giovanni Battista Giraldi Cinzio (1504-1573)"
+    % REPIM says Giovanni Brevio (1470-1549) in 1545 'Rime et prose volgari'
 
     % Unchanging:
     originallyset = "2014-12-27"
@@ -23,6 +24,8 @@
     final = "g"
     shorttitle = "o_morte_eterno"
     categories = "[madrigal]"
+    poeticform = "ottava rima"
+    motifs = "[morte,habor,prison,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -90,14 +93,27 @@
     \markup {
         \fill-line {
             \column {
-                \line { O morte, eterno fin chi tutti i mali, }
+                % Italian touch-up: 2024-12-11 (minimal changes)
+                \line { O morte, eterno fin di tutti i mali, }
                 \line { riposo delle membra e della mente, }
                 \line { utile e necessaria a gli animali }
                 \line { più che la vita assai chi pon ben mente; }
-                \line { porto de’ ciechi e miseri mortali }
-                \line { ch’errando van da l’orto a l’occidente; }
+                \line { porto de' ciechi e miseri mortali }
+                \line { ch'errando van da l'orto a l'occidente; }
                 \line { tu prigion spezzi e rompi aspre catene, }
-                \line { e metti fine all’amorose pene. }
+                \line { e metti fine all'amorose pene. }
+            }
+            \column {
+                % translation: 2024-12-11 (I like preserving the ottava rima rhyme)
+                \line { O death, eternal end of all troubles, }
+                \line { rest for the limbs and the mind, }
+                \line { useful and necessary to creatures }
+                \line { more so than life itself, if one considers well; }
+                \line { harbor for blind and miserable mortals }
+                \line { who roam in vain from east to west; }
+                \line { you break prisons and sunder harsh chains, }
+                \line { and put an end to amorous pains. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
