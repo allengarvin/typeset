@@ -23,7 +23,7 @@
     final = "e"
     shorttitle = "stillo_l_anima"
     categories = "[madrigal]"
-    motifs = "[pastoral]"
+    motifs = "[pastoral,morte,tears,amore,kiss]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -104,18 +104,26 @@
             }
            \column {
                % translation orig date: 2023-11-10
-               % translation updated:
-                \line { The soul of Tirsi dripped away in tears, }
+               % translation updated: 2024-12-16
+                \line { Tirsi poured out his soul in tears, }
                 \line { when he had to depart }
                 \line { from Clori, and for this he wished to die; }
                 \line { But the merciful nymph }
                 \line { with her amorous mouth }
-                \line { gathered that that liquor and then }
+                \line { gathered that draught and then }
                 \line { restored it to the shepherd with her kisses. }
-                \line { Thus, by his eyes having left, }
+                \line { Thus, having escaped from his eyes, }
                 \line { life re-entered him by his lips. }
                 \line { \hspace #10 \italic { translation by editor } }
             }
+        }
+    }
+    \markup {
+        \wordwrap {
+            \vspace #2
+            Note: \italic { Umor } has both the meaning of liquid
+            and of bodily humors. And here, the act of kissing
+            becomes a metaphor of sexual intercourse.
         }
     }
 }
