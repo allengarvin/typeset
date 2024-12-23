@@ -11,20 +11,18 @@
 \header {
     lastupdated = "2023-08-27"
     originallyset = "2023-08-27"
-    flats = 0
-    final = "c"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Coppia di donne altera"
-    subtitle = ""
-    instrument = "Coppia di donne altera:  (score)"
+    subsubtitle = "transposed down"
+    instrument = "Coppia di donne altera: transposed down (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "coppia_di_donne_altera"
     shortcomp = "marenzio"
     composer = "Luca Marenzio (c.1553-1599)"
-    categories = "[madrigal]"
-    motifs = "[amore]"
-    needtranslation = #'f
+    categories = "[]"
+    motifs = "[]"
+    needtranslation = #'t
 
     % Unchanging:
     language = "italian"
@@ -35,18 +33,18 @@
 \include "../parts/18-marenzio-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "18-marenzio--coppia_di_donne_altera-"
+    \bookOutputName "18-marenzio--coppia_di_donne_altera-transposed_down"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.7
+                \override StaffGrouper.staff-staff-spacing.padding = #4.8
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoXVIIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose g c
                     \cantoXVIII
                 >>
              \addlyrics { \cantoLyricsXVIII }
@@ -54,23 +52,23 @@
                     \set Staff.instrumentName = #"Quinto"
                     \incipit \quintoXVIIIincipitVoice
                     \clef "treble"
-                    \global
+                    \global\transpose g c
                     \quintoXVIII
                 >>
              \addlyrics { \quintoLyricsXVIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoXVIIIincipitVoice
-                    \clef "treble"
-                    \global
+                    \clef "treble_8"
+                    \global\transpose g c
                     \altoXVIII
                 >>
              \addlyrics { \altoLyricsXVIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
                     \incipit \tenoreXVIIIincipitVoice
-                    \clef "treble"
-                    \global
+                    \clef "treble_8"
+                    \global\transpose g c
                     \tenoreXVIII
                 >>
              \addlyrics { \tenoreLyricsXVIII }
@@ -78,7 +76,7 @@
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoXVIIIincipitVoice
                     \clef "bass"
-                    \global
+                    \global\transpose g c
                     \bassoXVIII
                 >>
              \addlyrics { \bassoLyricsXVIII }
@@ -128,4 +126,3 @@
         }
     }
 }
-

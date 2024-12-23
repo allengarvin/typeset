@@ -22,7 +22,7 @@
     shorttitle = "bianchi_cigni_e_canori"
     shortcomp = "marenzio"
     composer = "Luca Marenzio (c.1553-1599)"
-    categories = "[madrigal,favorite]"
+    categories = "[madrigal,favorite,animal]"
     motifs = "[pastoral,dancing,swan,nymph,shepherd,bird]"
     needtranslation = #'t
 

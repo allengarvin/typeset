@@ -110,7 +110,7 @@
                 \line { Pray tell me, have you heard such on any day }
                 \line { in this or any other valley, }
                 \line { with such heated sighs and long weeping? }
-                \line { \hspace #10 \italics { translated by editor } }
+                \line { \hspace #10 \italics { translation by editor } }
            }
         }
     }

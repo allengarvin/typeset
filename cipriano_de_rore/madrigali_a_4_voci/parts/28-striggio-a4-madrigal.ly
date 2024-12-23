@@ -1,10 +1,10 @@
 %Gravi pene in amor si provan molte,
-%di che patito io n’ho la maggior parte,
+%di che patito io n'ho la maggior parte,
 %e quelle in danno mio sì ben raccolte,
-%ch’io ne posso parlar come per arte.
-%Però s’io dico e s’ho detto altre volte,
+%ch'io ne posso parlar come per arte.
+%Però s'io dico e s'ho detto altre volte,
 %e quando in voce e quando in vive carte,
-%ch’un mal sia lieve, un altro acerbo e fiero,
+%ch'un mal sia lieve, un altro acerbo e fiero,
 %date credenza al mio giudicio vero.
 
 %William Rose:
@@ -19,7 +19,7 @@
 
 
 cantoXXVIIIincipit = \relative c' {
-    \time 2/2
+    \time 4/4
     \clef "petrucci-c1"
     \key c \major
 
@@ -48,7 +48,7 @@ cantoXXVIII = \relative c' {
         a2 f4 f2 g4 e2 | f f c d | e d r4 c2 e4 ~ | e d
 
     c4 b a2 b | b4 c2 g'4 f e a2 | a a a f4 e ~ | e e f2 f e ~ |
-        e4 d d1\melisma\ficta cs2 \unficta\melismaEnd | d r r4 f2 e4 ~ | 
+        e4 d d1\melfi cs2 \melfiEnd | d r r4 f2 e4 ~ | 
         e e c2 d c | 
         c4.( b8 a4) c2 f4 e2 | a\longa*1/2
     \bar "|."
@@ -61,7 +61,7 @@ cantoLyricsXXVIII = \lyricmode {
     E quel -- le~in dan -- no mio sì ben rac -- col -- te,
         si ben rac -- col -- te,
     Ch'io ne pos -- so par -- lar co -- me per ar -- te.
-    Pe -- rò s'io di -- co e s'ho dett' __ al -- tre vol -- te, 
+    Pe -- rò s'io di -- co e s'ho det -- t'al -- tre vol -- te, 
     Pe -- rò s'io di -- co e __ s'ho det -- to~al -- tre vol -- te, __
     E quan -- do~in vo -- ce~e quan -- do~in vi -- ve car -- te,
     Ch'un mal sia lie -- ve, 
@@ -115,7 +115,7 @@ altoLyricsXXVIII = \lyricmode {
     E quel -- le~in dan -- no mio sì ben rac -- col -- te,
         si ben rac -- col -- te,
     Ch'io ne pos -- so par -- lar co -- me per ar -- te.
-    Pe -- rò __ s'io di -- co e s'ho dett' al -- tre vol -- te, 
+    Pe -- rò __ s'io di -- co e s'ho det -- t'al -- tre vol -- te, 
     Pe -- rò s'io di -- co
     Pe -- rò s'io di -- co e s'ho det -- to~al -- tre vol -- te,
     E quan -- do~in vo -- ce~e quan -- do~in vi -- ve car -- te,
@@ -125,7 +125,7 @@ altoLyricsXXVIII = \lyricmode {
 }
 
 tenoreXXVIIIincipit = \relative c' {
-    \time 2/2
+    \time 4/4
     \key c \major
     \clef "petrucci-c1"
 
@@ -168,7 +168,7 @@ tenoreLyricsXXVIII = \lyricmode {
     Di che pa -- ti -- to~io n'ho __ la mag -- gior par -- te,
     E quel -- le~in dan -- no mio sì ben rac -- col -- te,
     Ch'io ne pos -- so par -- lar co -- me per ar -- te.
-    Pe -- rò s'io di -- co e s'ho dett' al -- tre vol -- te, 
+    Pe -- rò s'io di -- co e s'ho det -- t'al -- tre vol -- te, 
     Pe -- rò s'io di -- co~e s'ho det -- to~al -- tre vol -- te,
     E quan -- do~in vo -- ce~e quan -- do~in vi -- ve car -- te,
     Ch'un mal sia lie -- ve,
@@ -224,7 +224,7 @@ bassoLyricsXXVIII = \lyricmode {
         si ben rac -- col -- te,
     Ch'io ne pos -- so par -- lar co -- me per ar -- te.
     Pe -- rò s'io di -- co
-    Pe -- rò s'io di -- co e s'ho dett' al -- tre vol -- te, 
+    Pe -- rò s'io di -- co e s'ho det -- t'al -- tre vol -- te, 
     E quan -- do~in vo -- ce~e quan -- do~in vi -- ve car -- te,
     Ch'un mal sia lie -- ve
     Ch'un mal sia lie -- ve, un al -- tro~a -- cer -- bo~e fie -- ro,

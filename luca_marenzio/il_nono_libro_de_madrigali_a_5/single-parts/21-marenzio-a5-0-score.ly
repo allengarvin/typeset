@@ -114,7 +114,7 @@
                 \line { that if this is the hand }
                 \line { that grips my heart tight, the pain is just, }
                 \line { because in clutching her, I squeeze my own heart. }
-                \line { \hspace #10 \italic { translated by editor } }
+                \line { \hspace #10 \italic { translation by editor } }
            }
         }
     }
