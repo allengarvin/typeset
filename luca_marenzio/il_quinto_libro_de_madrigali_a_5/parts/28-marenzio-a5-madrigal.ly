@@ -1,22 +1,34 @@
-% S'io vissi cieco, e grave fall'indegno
-% fin qui commisi, ch'io mi specchio e sento
-% che tant'ho di ragion varcat'il segno
+% S'io vissi cieco, e grave fallo indegno
+% fin qui commisi or, ch'io mi specchio e sento
+% che tanto ho di ragion varcato il segno
 % in procurando pur danno e tormento,
-% piangone tristo; e gl'occhi fermo segno
-% rivolgo et apr'il seno a miglior vento:
-% di me mi doglio e 'ncontr'Amor mi sdegno,
-% per cui 'l mio lume in tutto è quasi spento.
+% piangone tristo; e gli occhi fermo segno
+% rivolgo ed apr'il seno a miglior vento:
+% di me mi doglio e incontro Amor mi sdegno,
+% per cui'l mio lume in tutto è quasi spento.
 % 
 % O fera voglia, che ne rodi e pasci
-% e segu'il cor, quas'affamato verme,
-% ch'amara cresc'e pur dolce consumi;
+% e segu'il cor, quasi affamato verme,
+% ch'amara cresce e pur dolce cominci;
 % di che falso piacer circond'e fasci
 % le tue menzogne, e 'l nostro vero inerme
 % come sovente, lasso, ingann'e vinci.
 % 
 % Giovanni Della Casa <1503-1556>
+% rhyme is odd: what is "consumi" in there for?? I found one ref that it's
+% supposed to be "cominci". Ah, alto part has "cominci". Canto is wrong.
 
-cantoXXVIIIincipit = \relative c'' {
+% Hmm, it rhymes segno with segno
+
+% why is piangone not piangono?
+% ne rodi: from rodere, to gnaw
+% inerme: defenseless, unarmed
+
+
+% translation at: https://books.google.com/books?id=CbuPQpIB8x0C&pg=PA132&dq=occhi+fermo+segno&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj92__Zw7-KAxUxJNAFHa-1K_cQ6AF6BAgEEAI#v=onepage&q=occhi%20fermo%20segno&f=false
+
+
+cantoXXVIIIincipit = \relative c' {
     \clef "petrucci-c1"
     \key bf \major
     \time 2/2
@@ -24,8 +36,8 @@ cantoXXVIIIincipit = \relative c'' {
     d1
 }
 
-cantoXXVIII = \relative c'' {
-    \clef soprano
+% canto: checked against source
+cantoXXVIII = \relative c' {
     \key bf \major
     \fourTwoCutTime
 
@@ -33,27 +45,27 @@ cantoXXVIII = \relative c'' {
         bf a
 
     bf2.( a4 | g1) f | r2 g1 bf2 ~ | bf a bf2.( a4 | g1) f | r1 r2 f | 
-        ef ef d1 | r2 d4 ef f2 f | r2 f4 g
+        ef ef ef1 | d1 r2 d4 ef | f2 f r2 f4 g |
 
-    a2 a | g1 f2 a | bf4 c d d g,2 f | ef d c bf | r2 f' bf4 c d d |
+    a2 a g1 | f2 a bf4 c d d | g,2 f ef d | c bf r2 f' | bf4 c d d 
 
-    g4 c bf2 a g | f1 r2 f | e4 f2 e4 f1 | r2 c d d | ef1 f | g r1 |
-        r2 c1 bf2 ~ | bf a1 g2 ~ | g
+    g,4 c bf2 | a g f1 | r2 f e4 f2 e4 | f1 r2 c | d d ef1 | f g | r1 r2 c ~ |
+        c bf1 a2 ~ | a g1(
 
-    f4 ef d1 ~ | d d ~ | d r2 a' ~ | a a a1 ~ | a bf | a1 r1 | r1 r2 c |
-        c bf a4 g fs2 | g\breve | r1 r2 c | c bf a4 g fs2 | g
+    f4 ef | d\breve) | d | r2 a'1 a2 | a\breve | bf1 a1 | R\breve | r2 c c bf |
+        a4 g fs2 g1 ~ | g r1 | r2 c c bf | a4 g fs2 g
 
-    r4 g af( g8[ f] g2) | g r4 f f( e8[ d] e2) | f1 r2 c' | c bf ef,4 f g g |
-        f2.( g4 a1) | g r2 f | f ef 
+    r4 g | af( g8[ f] g2) g r4 f | f( e8[ d] e2) f1 | r2 c' c bf | ef,4 f g g 
+        f2.( g4 | a1) g | r2 f f ef |
 
-    d2 a' | r2 g g f | bf1. a2 | bf4. a8 g4 f g2 g4 a | bf4. a8 g4 f
+    d2 a' r2 g | g f bf1 ~ | bf2 a2 bf4. a8 g4 f | g2 g4 a bf4. a8 g4 f |
 
-    g8([ f g a] bf2 ~ | bf) a r2 d, | d ef f bf ~ | bf a f bf ~ | bf a g1 ~ |
-        g2 e r2 d' ~ | d c
+    g8([ f g a] bf1) a2 | r2 d, d ef | f bf1 a2 | f bf1 a2 | g1. e2 | 
+        r2 d'1 c2 |
 
     % --- page ---
-    a1 | f2 g a1 | d, r2 a' ~ | a a b c ~ | c d bf g | 
-        f2 a1 g2.( fs8[ e] fs!2\melfiEnd
+    a1 f2 g | a1 d, | r2 a'1 a2 | b c1 d2 | bf g f2 a ~ |
+        a g2.\melfi fs8[ e] fs!2\melfiEnd
         g\longa*1/2
         
     
@@ -61,6 +73,33 @@ cantoXXVIII = \relative c'' {
 }
 
 cantoLyricsXXVIII = \lyricmode {
+    S'io vis -- si cie -- co, e gra -- ve fal -- l'in -- de -- gno __
+    Fin qui __ com -- mi -- si,
+    \ijLyrics
+    Fin qui __ com -- mi -- si,
+    Fin qui com -- mi -- si,
+    \normalLyrics
+        ch'io mi spec -- chio,
+        ch'io mi spec -- chi'e sen -- to
+    Che tan -- t'ho di ra -- gion var -- ca -- t'il se -- gno,
+    Che tan -- t'ho di ra -- gion var -- ca -- t'il se -- gno,
+        var -- ca -- t'il se -- gno
+    In pro -- cu -- ran -- do pur dan -- no~e tor -- men -- to,
+    Pian -- go -- ne tri -- sto; e gli~oc -- chi fer -- mo se -- gno, __
+    \ijLyrics
+        e gli~oc -- chi fer -- mo se -- gno
+    \normalLyrics
+    Ri -- vol -- go,
+    \ijLyrics
+    Ri -- vol -- go
+    \normalLyrics
+        ed a -- pr'il se -- no~a mi -- glior ven -- to:
+    Di me mi do -- glio,
+    Di me mi do -- gli'e'n -- con -- tr'A -- mor mi sde -- gno,
+        e'n -- con -- tr'A -- mor mi sde -- gno,
+    Per cui'l mio lu -- m'in tut -- to~è qua -- si spen -- to,
+        in tut -- to~è qua -- si spen -- to,
+    Per cui'l mio lu -- m'in tut -- to~è qua -- si __ spen -- to.
 }
 
 altoXXVIIIincipit = \relative c' {
@@ -71,8 +110,8 @@ altoXXVIIIincipit = \relative c' {
     d2
 }
 
+% alto: checked against source
 altoXXVIII = \relative c' {
-    \clef alto
     \key bf \major
     \fourTwoCutTime
 
@@ -108,6 +147,38 @@ altoXXVIII = \relative c' {
 }
 
 altoLyricsXXVIII = \lyricmode {
+    S'io vis -- si cie -- co, __
+    S'io vis -- si cie -- co, e gra -- ve fal -- l'in -- de -- gno
+    Fin qui com -- mi -- si,
+    \ijLyrics
+    Fin qui com -- mi -- si,
+    \normalLyrics
+    Fin qui com -- mi -- si,
+        ch'io mi spec -- chi'e sen -- to
+    Che tan -- t'ho di ra -- gion var -- ca -- t'il se -- gno,
+        var -- ca -- t'il se -- gno,
+    Che tan -- t'ho di ra -- gion var -- ca -- t'il se -- gno
+    In pro -- cu -- ran -- do pur dan -- no~e __ tor -- men -- to,
+        dan -- no~e tor -- men -- to,
+    Pian -- go -- ne tri -- sto,
+    \ijLyrics
+    Pian -- go -- ne tri -- sto;
+    \normalLyrics
+        e gli~oc -- chi fer -- mo se -- gno,
+    \ijLyrics
+        e gli~oc -- chi fer -- mo se -- gno
+    \normalLyrics
+%    Ri -- vol -- go,
+%    \ijLyrics
+    Ri -- vol -- go ed a -- pr'il se -- no~a mi -- glior ven -- to:
+    Di me mi do -- glio,
+    Di me mi do -- gli'e'n -- con -- tr'A -- mor mi sde -- gno,
+        e'n -- con -- tr'A -- mor mi sde -- gno,
+    Per cui'l mio lu -- me __ in tut -- to~è qua -- si __ spen -- to,
+    \ijLyrics
+        in __ tut -- to~è qua -- si spen -- to,
+    \normalLyrics
+        in __ tut -- to~è qua -- si spen -- to.
 }
 
 tenoreXXVIIIincipit = \relative c {
@@ -118,23 +189,24 @@ tenoreXXVIIIincipit = \relative c {
     d1
 }
 
+% tenore: checked against source
 tenoreXXVIII = \relative c {
-    \clef tenor
     \key bf \major
     \fourTwoCutTime
 
     R\breve*2 | d1 f2 g | ef1 d | d' d2 bf | c1 d | r1 g, | bf2 c af1 |
         g r2 g ~ | g ef
 
-    f2 g ~ | g g a bf | c1 r2 d | c bf c1 | f, r2 bf4 c | d2 d bf1 | 
-        r2 a4 bf2 c2 g 
+    f2 g ~ | g g a( bf) | c1 r2 d | c bf c1 | f, r2 bf4 c | d2 d bf1 | 
+        r2 a4 bf c2 g |
 
     bf2 c r1 | r2 r4 f, g a bf bf | ef,1 r4 g a a | bf2 f4 f g a bf g |
 
     f2 r4 g a bf c c | c, c'2 bf a4 g2 | bf2.( a4 g1) | r2 f ef ef | d1 c |
         bf1
 
-    r2 f' ~ | f bf1 c2 | d1 d2 d, | fs g a1 | b r2 bf ~ | bf a a d ~ |
+    r2 g' ~ | g bf1 c2 | d1 d2 d, | fs g a1 | b r2 bf ~ | bf a a d ~ |
+                                     % vv e-natural to ef (against af) ??
         d( cs4 b cs1) | d1 d, ~ | d2 d e
 
     f2 ~ | f e r1 | r2 c' c4( b8[ a] b2) | c1 r1 | r2 c ef d | c4 bf a2 g1 |
@@ -152,6 +224,37 @@ tenoreXXVIII = \relative c {
 }
 
 tenoreLyricsXXVIII = \lyricmode {
+    S'io vis -- si cie -- co,
+    \ijLyrics
+    S'io vis -- si cie -- co,
+    S'io vis -- si cie -- co,
+    \normalLyrics
+        e __ gra -- ve fal -- l'in -- de -- gno
+    Fin qui com -- mi -- si,
+        ch'io mi spec -- chio or,
+        ch'io mi spec -- chi'e sen -- to
+    Che tan -- t'ho di ra -- gion var -- ca -- t'il se -- gno,
+    Che tan -- t'ho di ra -- gion,
+    Che tan -- t'ho di ra -- gion var -- ca -- t'il se -- gno __
+    In pro -- cu -- ran -- do pur dan -- no~e tor -- men -- to,
+    \ijLyrics
+        dan -- no~e tor -- men -- to,
+    \normalLyrics
+    Pian -- go -- ne tri -- sto,
+    \ijLyrics
+    Pian -- go -- ne tri -- sto;
+    \normalLyrics
+    Ri -- vol -- go,
+        e gli~oc -- chi fer -- mo se -- gno
+    Ri -- vol -- go~ed a -- pr'il se -- no,
+        ed a -- pr'il se -- no~a mi -- glior ven -- to:
+%    Di me mi do -- glio,
+    Di me mi do -- glio e'n -- con -- tr'A -- mor mi sde -- gno,
+    \ijLyrics
+        e'n -- con -- tr'A -- mor mi sde -- gno, __
+    \normalLyrics
+    Per cui'l mio lu -- me in tut -- to~è qua -- si spen -- to,
+        in __ tut -- to~è qua -- si spen -- to.
 }
 
 bassoXXVIIIincipit = \relative c {
@@ -162,8 +265,8 @@ bassoXXVIIIincipit = \relative c {
     bf2
 }
 
+% basso: checked against source
 bassoXXVIII = \relative c {
-    \clef bass
     \key bf \major
     \fourTwoCutTime
 
@@ -182,7 +285,7 @@ bassoXXVIII = \relative c {
     a2 g1 | R\breve | r2 c ef4( d8[ c] d2) | c1 a2 bf | f4 g a bf c2 g |
         R\breve | r1 c | a2
 
-    bf2 c1 | d r2 g | bf a g1 | f r1 | R\breve*2 | bf,1 bf2 c | d g1 f2 |
+    bf2 c1 | d r2 g | bf a g1 | f r1 | R\breve R | bf,1 bf2 c | d g1 f2 |
         d ef1 f2 | 
 
     g1. c,2 | R\breve | r2 d d ef | f1 bf, | r1 r2 d ~ | d c a bf ~ |
@@ -191,6 +294,38 @@ bassoXXVIII = \relative c {
 }
 
 bassoLyricsXXVIII = \lyricmode {
+    S'io vis -- si cie -- co, 
+    \ijLyrics
+    S'io vis -- si cie -- co,
+    \normalLyrics
+    S'io vis -- si cie -- co,
+        e gra -- ve fal -- l'in -- de -- gno
+    Fin qui com -- mi -- si,
+%    \ijLyrics
+%    Fin qui com -- mi -- si,
+%    Fin qui com -- mi -- si,
+%    \normalLyrics
+        or
+        ch'io mi spec -- chi'e sen -- to
+    Che tan -- t'ho di ra -- gion,
+    \ijLyrics
+    Che tan -- t'ho di ra -- gion
+    \normalLyrics
+        var -- ca -- t'il se -- gno,
+    Che tan -- t'ho di ra -- gion var -- ca -- t'il se -- gno
+    In pro -- cu -- ran -- do pur dan -- no~e tor -- men -- to,
+    Pian -- go -- ne tri -- sto; __ e gli~oc -- chi fer -- mo se -- gno
+%    Ri -- vol -- go,
+%    \ijLyrics
+    Ri -- vol -- go~ed a -- pr'il se -- no~a mi -- glior ven -- to:
+    Di me mi do -- glio,
+    \ijLyrics
+    Di me mi do -- glio,
+    \normalLyrics
+%    Di me mi do -- gli'e'n -- con -- tr'A -- mor mi sde -- gno,
+%        e'n -- con -- tr'A -- mor mi sde -- gno,
+    Per cui'l mio lu -- m'in tut -- to~è qua -- si spen -- to,
+    Per cui'l mio lu -- me in __ tut -- to~è qua -- si spen -- to.
 }
 
 quintoXXVIIIincipit = \relative c' {
@@ -201,8 +336,8 @@ quintoXXVIIIincipit = \relative c' {
     d2
 }
 
+% quinto: checked against source
 quintoXXVIII = \relative c' {
-    \clef tenor
     \key bf \major
     \fourTwoCutTime
 
@@ -216,7 +351,7 @@ quintoXXVIII = \relative c' {
 
     g4 a bf bf c c d ef | f f c2 c4 bf2 a4 | g2 f r1 | r2 f ef ef | d1
 
-    c1 | bf r2 f' | bf bf1 ef2 ~ | ef d r2 c ~ | c bf1 a2 ~ | a g1 fs2 |
+    c1 | bf r2 g' | bf bf1 ef2 ~ | ef d r2 c ~ | c bf1 a2 ~ | a g1 fs2 |
         r2 g1 g2 | fs\breve | a1 a2 a ~ | a g fs1 | 
 
     \[ g1( af) \] | g1 r1 | r2 r4 c ef( d8[ c] d2) | ef1 r1 | R\breve |
@@ -235,6 +370,52 @@ quintoXXVIII = \relative c' {
 }
 
 quintoLyricsXXVIII = \lyricmode {
+    S'io vis -- si cie -- co,
+    \ijLyrics
+    S'io vis -- si cie -- co, __
+    \normalLyrics
+    S'io vis -- si cie -- co~e gra -- ve fal -- l'in -- de -- gno
+%    Fin qui com -- mi -- si,
+%    \ijLyrics
+%    Fin qui com -- mi -- si,
+    Fin qui com -- mi -- si, or,
+        ch'io mi spec -- chio,
+        ch'io mi spec -- chi'e sen -- to
+%    Che tan -- t'ho di ra -- gion 
+        var -- ca -- t'il se -- gno,
+    Che tan -- t'ho di ra -- gion,
+    Che tan -- t'ho di ra -- gion,
+    \ijLyrics
+    Che tan -- t'ho di ra -- gion
+    \normalLyrics
+        var -- ca -- t'il se -- gno
+    In pro -- cu -- ran -- do pur dan -- no~e tor -- men -- to,
+    \ijLyrics
+        dan -- no~e tor -- men -- to,
+    \normalLyrics
+    Pian -- go -- ne tri -- sto,
+    \ijLyrics
+    Pian -- go -- ne tri -- sto;
+    \normalLyrics
+    % Pian -- go -- ne tri -- sto; e gli~oc -- chi fer -- mo se -- gno,
+%    \ijLyrics
+%        e gli~oc -- chi fer -- mo se -- gno
+%    \normalLyrics
+    Ri -- vol -- go,
+    \ijLyrics
+    Ri -- vol -- go,
+    \normalLyrics
+    Ri -- vol -- go __ ed a -- pr'il se -- no~a mi -- glior ven -- to:
+%    Di me mi do -- glio,
+    Di me mi do -- glio e'n -- con -- tr'A -- mor mi sde -- gno,
+    \ijLyrics
+        e'n -- con -- tr'A -- mor mi sde -- gno,
+        e'n -- con -- tr'A -- mor mi sde -- gno,
+    \normalLyrics
+    Per cui'l mio lu -- me,
+    Per cui'l mio lu -- m'in tut -- to~è qua -- si spen -- to,
+        in __ tut -- to~è qua -- si spen -- to,
+            qua -- si spen -- to.
 }
 
 cantoXXVIIIincipitVoice = <<
