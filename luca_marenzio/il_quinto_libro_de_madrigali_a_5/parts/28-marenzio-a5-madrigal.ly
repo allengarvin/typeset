@@ -8,8 +8,8 @@
 % per cui'l mio lume in tutto è quasi spento.
 % 
 % O fera voglia, che ne rodi e pasci
-% e segu'il cor, quasi affamato verme,
-% ch'amara cresce e pur dolce cominci;
+% e sugg'il cor, quasi affamato verme,
+% ch'amara cresci e pur dolce cominci;
 % di che falso piacer circond'e fasci
 % le tue menzogne, e 'l nostro vero inerme
 % come sovente, lasso, ingann'e vinci.
@@ -20,6 +20,8 @@
 
 % Hmm, it rhymes segno with segno
 
+% canto part (both 1585 scotto & 1594 gardano) have "segue il cor" but all
+%   other parts have have sugge il cor (suck)
 % why is piangone not piangono?
 % ne rodi: from rodere, to gnaw
 % inerme: defenseless, unarmed
