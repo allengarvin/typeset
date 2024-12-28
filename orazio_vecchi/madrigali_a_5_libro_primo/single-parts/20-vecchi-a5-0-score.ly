@@ -26,7 +26,7 @@
     rhyme = "ABBAABBA"
     motifs = "[waves,verse,treasure]"
     needtranslation = #'f
-    folio = \markup { Petrarca, \italic{Canzoniere} CCCXXXIII (33) }
+    folio = \markup { Petrarca, \italic{Canzoniere} CCCXXXIII (333) }
 
     % Unchanging:
     language = "italian"
