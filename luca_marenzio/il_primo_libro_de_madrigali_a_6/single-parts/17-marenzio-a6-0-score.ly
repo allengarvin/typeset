@@ -14,7 +14,6 @@
     instrument = "Mentre sul far (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-07-19"
@@ -98,14 +97,15 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup: 2024-12-30
                 \line { Mentre sul far del giorno, }
-                \line { Coglieva erbette e fior la donna mia, }
-                \line { Amor per quel contorno, }
-                \line { Tessendo ghirlandette errando gia }
-                \line { E tosto che la vide di lontano }
-                \line { Cangiossi in bianco fiore, }
-                \line { Tanto gli piacque Amore, }
-                \line { Per esser colto da la bianca mano. }
+                \line { coglieva erbette e fior la donna mia, }
+                \line { amor per quel contorno, }
+                \line { tessendo ghirlandette errando gia }
+                \line { e tosto che la vide di lontano }
+                \line { cangiossi in bianco fiore, }
+                \line { tanto gli piacque Amore, }
+                \line { per esser colto dalla bianca mano. }
             }
         }
     }

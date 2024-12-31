@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,6 @@
     instrument = "Strinse Amarilli (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2016-07-19"
@@ -98,13 +97,14 @@
     \markup {
         \fill-line {
             \column {
+                % italian touched up: 2024-12-30
                 \line { Strinse Amarilli il vago suo Fileno }
-                \line { Ed ambi le sue labbia a le sue affisse, }
-                \line { Poi sospirando disse, }
+                \line { ed ambi le sue labbia a le sue affisse, }
+                \line { poi sospirando disse: }
                 \line { Ahimè, ch'io agghiaccio al mio bel foco in seno }
                 \line { Così venendo meno, }
-                \line { Bassò la fronte e le vermiglie rose }
-                \line { Che avea nel volto non so dove ascose. }
+                \line { bassò la fronte e le vermiglie rose }
+                \line { che avea nel volto non so dove ascose. }
             }
         }
     }

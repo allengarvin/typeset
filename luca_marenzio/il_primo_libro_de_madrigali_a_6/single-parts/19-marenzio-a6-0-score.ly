@@ -99,6 +99,7 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup: 2024-12-30 (no changes)
                 \line { Le quali ella spargea sì dolcemente, }
                 \line { e raccogliea con sì leggiadri modi, }
                 \line { che ripensando ancor trema la mente; }

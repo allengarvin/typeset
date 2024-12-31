@@ -207,14 +207,6 @@ quintoVincipit = \relative c'' {
     \clef "petrucci-c1"
     \key f \major
 
-    g\breve 
-}
-
-quintoVincipit = \relative c'' {
-    \time 2/2
-    \clef "petrucci-c1"
-    \key f \major
-
     g\breve
 }
 

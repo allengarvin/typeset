@@ -1,4 +1,4 @@
-\version "2.16.0"
+\version "2.21.1"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
@@ -9,13 +9,12 @@
 
 \header {
     % Things that change per piece:
-    title = "Così questa, di cui canto gl’ honori"
+    title = "Così questa, di cui canto gl'onori"
     subtitle = "Seconda parte"
 
     % Things that change per part:
     partname = "Tenore (part 5 of 6)"
     instrument = "Così questa (tenore)"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-07-18"

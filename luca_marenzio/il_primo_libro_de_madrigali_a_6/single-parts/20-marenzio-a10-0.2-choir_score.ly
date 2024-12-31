@@ -12,7 +12,6 @@
     % Things that change per piece:
     title = "Vieni Clori gentil, boschetti e prati"
     instrument = "Vieni Clori gentil (Choir II score)"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-08-30"

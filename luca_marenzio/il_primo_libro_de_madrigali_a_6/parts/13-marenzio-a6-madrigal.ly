@@ -38,10 +38,10 @@ cantoXIII = \relative c'' {
 cantoLyricsXIII = \lyricmode {
     Deh __ rin -- for -- za -- te~il vo -- stro lar -- go pian -- to __
     Oc -- chi,
-    Oc -- chi non oc -- chi gia ma doi tor -- ren -- ti
+    Oc -- chi non oc -- chi già ma doi tor -- ren -- ti
     S'el -- la gio -- i -- sce tan -- to,
     s'el -- la gio -- i -- sce tan -- to,
-    Del vo -- stro la -- gri -- mar del mio do -- lo -- re
+    Del vo -- stro la -- gri -- mar del mio do -- lo -- re.
     E tu~in -- fiam -- ma -- to co -- re
     \ijLyrics
     E tu~in -- fiam -- ma -- to co -- re
@@ -98,10 +98,10 @@ altoXIII = \relative c'' {
 
 altoLyricsXIII = \lyricmode {
     Deh rin -- for -- za -- te~il vo -- stro lar -- go pian -- to 
-    Oc -- chi non oc -- chi gia,
-        non oc -- chi gia ma doi tor -- ren -- ti
+    Oc -- chi non oc -- chi già,
+        non oc -- chi già ma doi tor -- ren -- ti
     S'el -- la gio -- i -- sce tan -- to,
-    Del vo -- stro la -- gri -- mar del mio do -- lo -- re
+    Del vo -- stro la -- gri -- mar del mio do -- lo -- re.
     E tu~in -- fiam -- ma -- to co -- re
     \ijLyrics
     E tu~in -- fiam -- ma -- to co -- re
@@ -149,9 +149,9 @@ tenoreXIII = \relative c' {
 tenoreLyricsXIII = \lyricmode {
     Deh __ rin -- for -- za -- te~il vo -- stro lar -- go pian -- to 
     Oc -- chi,
-    Oc -- chi non oc -- chi gia 
+    Oc -- chi non oc -- chi già 
     S'el -- la gio -- i -- sce tan -- to,
-    Del vo -- stro la -- gri -- mar del mio do -- lo -- re
+    Del vo -- stro la -- gri -- mar del mio do -- lo -- re.
     E tu~in -- fiam -- ma -- to co -- re
     Che'l fo -- co d'a -- mor,
     Che'l fo -- co d'a -- mor,
@@ -197,9 +197,9 @@ bassoXIII = \relative c' {
 
 bassoLyricsXIII = \lyricmode {
     Deh __ rin -- for -- za -- te~il vo -- stro lar -- go pian -- to 
-    Oc -- chi non oc -- chi gia
+    Oc -- chi non oc -- chi già
     s'el -- la gio -- i -- sce tan -- to,
-    Del vo -- stro la -- gri -- mar del mio do -- lo -- re
+    Del vo -- stro la -- gri -- mar del mio do -- lo -- re.
     E tu~in -- fiam -- ma -- to co -- re
     Che'l fo -- co d'a -- mor,
     \ijLyrics
@@ -247,10 +247,10 @@ quintoXIII = \relative c' {
 
 quintoLyricsXIII = \lyricmode {
     Deh rin -- for -- za -- te~il vo -- stro lar -- go pian -- to 
-    Oc -- chi non oc -- chi gia,
-        non oc -- chi gia,
+    Oc -- chi non oc -- chi già,
+        non oc -- chi già,
     s'el -- la gio -- i -- sce tan -- to,
-    Del vo -- stro la -- gri -- mar del mio do -- lo -- re
+    Del vo -- stro la -- gri -- mar del mio do -- lo -- re.
     E tu~in -- fiam -- ma -- to co -- re
     \ijLyrics
     E tu~in -- fiam -- ma -- to co -- re
@@ -298,10 +298,10 @@ sestoXIII = \relative c' {
 sestoLyricsXIII = \lyricmode {
     Deh rin -- for -- za -- te~il vo -- stro lar -- go pian -- to,
         il vo -- stro lar -- go pian -- to,
-    Oc -- chi non oc -- chi gia,
+    Oc -- chi non oc -- chi già,
     Oc -- chi,
     s'el -- la gio -- i -- sce tan -- to,
-    Del vo -- stro la -- gri -- mar del mio do -- lo -- re
+    Del vo -- stro la -- gri -- mar del mio do -- lo -- re.
     E tu~in -- fiam -- ma -- to co -- re
     Che'l fo -- co d'a -- mor,
     \ijLyrics

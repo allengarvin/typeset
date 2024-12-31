@@ -6,7 +6,7 @@
 % e 'l bel viso veder, ch'altri m'asconde,
 % che sdegno o gelosia celato tiemme;
 % et le chiome or avolte in perle e 'n gemme,
-% allora sciolte, et sovra òr terso bionde:
+% allora sciolte, et sovra or terso bionde:
 % 
 % le quali ella spargea sì dolcemente,
 % e raccogliea con sì leggiadri modi,
@@ -77,9 +77,9 @@ cantoLyricsXVIII = \lyricmode {
     \normalLyrics
         ce -- la -- to tiem -- me;
     E le chio -- me or a -- vol -- te in per -- le~e'n gem -- me,
-    Al -- lo -- ra sciol -- te, e so -- vra~òr ter -- so bion -- de,
-        e so -- vra~òr ter -- so bion -- de,
-        e so -- vra~òr ter -- so bion -- de.
+    Al -- lo -- ra sciol -- te, e so -- vra~or ter -- so bion -- de,
+        e so -- vra~or ter -- so bion -- de,
+        e so -- vra~or ter -- so bion -- de.
 }
 
 altoXVIIIincipit = \relative c' {
@@ -146,8 +146,8 @@ altoLyricsXVIII = \lyricmode {
         o ge -- lo -- sia 
         ce -- la -- to tiem -- me;
     E le chio -- me or a -- vol -- te~in per -- le~e'n gem -- me,
-    Al -- lo -- ra sciol -- te, e so -- vra~òr ter -- so bion -- de,
-    Al -- lo -- ra sciol -- te~e so -- vra~òr ter -- so bion -- de.
+    Al -- lo -- ra sciol -- te, e so -- vra~or ter -- so bion -- de,
+    Al -- lo -- ra sciol -- te~e so -- vra~or ter -- so bion -- de.
 }
 
 tenoreXVIIIincipit = \relative c' {
@@ -204,7 +204,7 @@ tenoreLyricsXVIII = \lyricmode {
         o ge -- lo -- sia ce -- la -- to tiem -- me;
     E le chio -- me~or a -- vol -- te~in per -- le~e'n gem -- me,
     Al -- lo -- ra sciol -- te, __
-    Al -- lo -- ra sciol -- te,~e so -- vra~òr ter -- so bion -- de.
+    Al -- lo -- ra sciol -- te,~e so -- vra~or ter -- so bion -- de.
 }
 
 bassoXVIIIincipit = \relative c' {
@@ -250,8 +250,8 @@ bassoLyricsXVIII = \lyricmode {
     Che sde -- gno~o ge -- lo -- sia 
         o ge -- lo -- sia ce -- la -- to tiem -- me;
     E le chio -- me~or a -- vol -- te, __
-    Al -- lo -- ra sciol -- te~e so -- vra~òr ter -- so bion -- de,
-        e so -- vra~òr ter -- so bion -- de.
+    Al -- lo -- ra sciol -- te~e so -- vra~or ter -- so bion -- de,
+        e so -- vra~or ter -- so bion -- de.
 }
 
 quintoXVIIIincipit = \relative c'' {
@@ -312,9 +312,9 @@ quintoLyricsXVIII = \lyricmode {
         o ge -- lo -- sia 
         o ge -- lo -- sia ce -- la -- to tiem -- me;
     E le chio -- me~or a -- vol -- te in per -- le~e'n gem -- me,
-    Al -- lo -- ra sciol -- te~e so -- vra~òr ter -- so bion -- de,
-        e so -- vra~òr ter -- so bion -- de,
-        e so -- vra~òr ter -- so bion -- de.
+    Al -- lo -- ra sciol -- te~e so -- vra~or ter -- so bion -- de,
+        e so -- vra~or ter -- so bion -- de,
+        e so -- vra~or ter -- so bion -- de.
 }
 
 sestoXVIIIincipit = \relative c' {
@@ -373,7 +373,7 @@ sestoLyricsXVIII = \lyricmode {
         o ge -- lo -- sia 
     E le chio -- me,
     E le chio -- me~or a -- vol -- te~in per -- le~e'n gem -- me,
-    Al -- lo -- ra sciol -- te, e so -- vra~òr ter -- so bion -- de.
+    Al -- lo -- ra sciol -- te, e so -- vra~or ter -- so bion -- de.
 }
 
 cantoXVIIIincipitVoice = <<

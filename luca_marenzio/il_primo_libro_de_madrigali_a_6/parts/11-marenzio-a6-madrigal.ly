@@ -8,6 +8,8 @@
 % Perché ogni mio sperar diventa vano.
 % --Vincenzo Quirino
 
+% stempro: I think a syllable was dropped for meter purposes, and this is
+%    stemperare (to dissolve, to blunt, dull, weaken)
 cantoXIincipit = \relative c'' {
     \time 4/4
     \key c \major

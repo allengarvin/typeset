@@ -1,5 +1,5 @@
 % Al suon delle dolcissime parole
-% Ed a gli ultimi accenti
+% Ed a -- gli ultimi accenti
 % Ster queti e fermi i venti,
 % E più chiaro e più si bel fece il sole,
 % Ond'ella come suole
@@ -42,7 +42,7 @@ cantoVIII = \relative c'' {
 
 cantoLyricsVIII = \lyricmode {
     Al suon del -- le dol -- cis -- si -- me pa -- ro -- le
-    Ed a gli~ul -- ti -- mi~ac -- cen -- ti
+    Ed a -- gli~ul -- ti -- mi~ac -- cen -- ti
     Ster que -- ti~e fer -- mi i ven -- ti,
     \ijLyrics
         i ven -- ti,
@@ -96,9 +96,9 @@ altoVIII = \relative c'' {
 
 altoLyricsVIII = \lyricmode {
     Al __ suon del -- le dol -- cis -- si -- me pa -- ro -- le
-    Ed a gli~ul -- ti -- mi~ac -- cen -- ti
+    Ed a -- gli~ul -- ti -- mi~ac -- cen -- ti
     \ijLyrics
-    Ed a gli~ul -- ti -- mi~ac -- cen -- ti
+    Ed a -- gli~ul -- ti -- mi~ac -- cen -- ti
     \normalLyrics
     Ster que -- ti~e fer -- mi i ven -- ti,
         i ven -- ti,
@@ -148,7 +148,7 @@ tenoreVIII = \relative c' {
 
 tenoreLyricsVIII = \lyricmode {
     Al __ suon del -- le dol -- cis -- si -- me pa -- ro -- le
-    Ed a gli~ul -- ti -- mi~ac -- cen -- ti
+    Ed a -- gli~ul -- ti -- mi~ac -- cen -- ti
     Ster que -- ti~e fer -- mi __ i ven -- ti,
         i ven -- ti,
     E più chia -- ro,
@@ -194,7 +194,7 @@ bassoVIII = \relative c {
 
 bassoLyricsVIII = \lyricmode {
     Al __ suon del -- le dol -- cis -- si -- me pa -- ro -- le
-    Ed a gli~ul -- ti -- mi~ac -- cen -- ti
+    Ed a -- gli~ul -- ti -- mi~ac -- cen -- ti
     Ster que -- ti~e fer -- mi~i ven -- ti,
     E più chia -- ro,
     E più chia -- ro~e più bel si fe -- ce~il so -- le,
@@ -244,7 +244,7 @@ quintoVIII = \relative c'' {
 
 quintoLyricsVIII = \lyricmode {
     Al __ suon del -- le dol -- cis -- si -- me pa -- ro -- le
-    Ed a gli~ul -- ti -- mi~ac -- cen -- ti
+    Ed a -- gli~ul -- ti -- mi~ac -- cen -- ti
     Ster que -- ti~e fer -- mi~i ven -- ti,
         i ven -- ti,
         i ven -- ti, __
@@ -297,9 +297,9 @@ sestoVIII = \relative c' {
 
 sestoLyricsVIII = \lyricmode {
     Al __ suon 
-    Ed a gli~ul -- ti -- mi~ac -- cen -- ti
+    Ed a -- gli~ul -- ti -- mi~ac -- cen -- ti
     \ijLyrics
-    Ed a gli~ul -- ti -- mi~ac -- cen -- ti
+    Ed a -- gli~ul -- ti -- mi~ac -- cen -- ti
     \normalLyrics
     Ster que -- ti~e fer -- mi __ i ven -- ti,
     E più chia -- ro,

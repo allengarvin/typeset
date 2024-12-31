@@ -31,7 +31,7 @@ cantoXIV = \relative c'' {
     e4 e d2 c1 | r r4 c e8([ d e f] | g2) c,4 c e8([ d e f] g2) |
         c, r4 g' f e d2 | r r4 g 
 
-    f4 e d2 | \singleTime \time 3/2\threeFromOne e2 f d | e1 e2 c c b | c1 c2 | 
+    f4 e d2 | \singleTime \time 6/2\threeFromOne e2 f d e1 e2 c c b c1 c2 | 
         \fourTwoCommonTime\oneFromThree b4 c d2 b4 c d2 | c b e4 f
 
     g2 | f e e4. d8 c4 c | b2 c4 g' g4. f8 e4 e | d2 d e4 f g2 | e4 f g2 
@@ -103,7 +103,7 @@ altoXIV = \relative c' {
         r r4 g 
 
     a8([ g a b] c2) | c g g g | r4 g b b c2 r | r4 g b b c2 r |
-        \singleTime \time 3/2\threeFromOne g2 a g | g1 e2 | g a g 
+        \singleTime \time 6/2\threeFromOne g2 a g g1 e2 | g a g 
 
     g1 e2 | \fourTwoCommonTime\oneFromThree
         d2 d d1 | a'2 d, r1 | r2 r4 c c4. d8 e4 c |
@@ -164,8 +164,8 @@ tenoreXIV = \relative c' {
 
     r4 e e e | e f e2 c1 | r4 c e8([ d e f] g2) e4 c | e8([ d e f] g2) c, r4 g|
 
-    a4 c g2 r1 | \singleTime \time 3/2\threeFromOne c2 c g | g1 g2 | c c g | 
-        g1 g2 | \fourTwoCommonTime \oneFromThree g4 a b2 g4 a b2 | a g 
+    a4 c g2 r1 | \singleTime \time 6/2\threeFromOne c2 c g g1 g2 | 
+        c c g g1 g2 | \fourTwoCommonTime \oneFromThree g4 a b2 g4 a b2 | a g 
 
     c4 d e2 | d c r1 | r2 r4 c c g g g | g2 g c4 d e2 | c4 d e2 d c | r1 
 
@@ -215,7 +215,7 @@ bassoXIV = \relative c' {
 
     a4 f c'2 f, c | c c4 c c'2 c,4 c | c'2 g a4 c g2 | r r4 g a c g2 |
 
-    \singleTime \time 3/2\threeFromOne c,2 f g | c,1 c2 | c f g | c,1 c2 |
+    \singleTime \time 6/2\threeFromOne c,2 f g c,1 c2 | c f g c,1 c2 |
         \fourTwoCommonTime\oneFromThree g'2 g g1 | R\breve*2 | 
         r2 r4 c, c4. d8 e4 c | g'1
 
@@ -266,9 +266,9 @@ quintoXIV = \relative c'' {
         r4 g g g e c g'2 | c,1. r4  c |
 
     e8([ d e f] g2) c,4 c e8([ d e f] | g2) g r r4 g | f e d d c g b2 |
-        \singleTime \time 3/2\threeFromOne c2 c b | c1 c2 |
+        \singleTime \time 6/2\threeFromOne c2 c b c1 c2 |
 
-    e2 f d | e1 e2 | \fourTwoCommonTime\oneFromThree r2 b4 c d2 r | 
+    e2 f d e1 e2 | \fourTwoCommonTime\oneFromThree r2 b4 c d2 r | 
         e4 f g2 c, b4.( c8 | d2) r4 g g4. f8 e4 e |
 
     d2 e4 e e4. d8 c4 c ~ | c b8([ a] b2) e, e'4 f | g2 c, d r4 g | 
@@ -342,7 +342,7 @@ sestoXIV = \relative c' {
     g4 g | a a g2 f4 f g8([ f e d] | c2) c r4 c c2 ~ | c d r4 g b b |
         c2 r4 g c, e g2 |
 
-    \singleTime \time 3/2\threeFromOne e2 a, d | c1 g'2 | e a, d | c1 g'2 | 
+    \singleTime \time 6/2\threeFromOne e2 a, d c1 g'2 | e a, d c1 g'2 | 
         \fourTwoCommonTime\oneFromThree r2 g4 a b1 | r2 g1 g2 | a4 b c2 g1 | 
         g,2 r4 g'
 

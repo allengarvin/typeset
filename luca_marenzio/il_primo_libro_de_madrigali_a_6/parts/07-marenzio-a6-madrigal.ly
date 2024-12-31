@@ -5,7 +5,7 @@
 % Mentre al solito andra spedita e lieve 
 % L'aurora a far col suo Titon soggiorno
 % Vo, che mi punga e stringa, e strugg' il core
-% Questo stral questo laccio e quest'ardore.
+% Questo stral, questo laccio e quest'ardore.
 
 
 cantoVIIincipit = \relative c'' {
@@ -53,14 +53,14 @@ cantoLyricsVII = \lyricmode {
         sec -- ca l'a -- re -- na~in -- tor -- no,
         sec -- ca l'a -- re -- na~in -- tor -- no
     Men -- tre di ver -- no nu -- bi -- lo -- so~e bre -- ve
-    E d'i -- stra -- te fia lun -- go~e chiar' il gior -- no,
-        fia lun -- go~e chiar' il gior -- no
-    Men -- tre~al so -- li -- to~an -- dra spe -- di -- ta~e lie -- ve
+    E d'i -- stra -- te fia lun -- go~e chia -- ro~il gior -- no,
+        fia lun -- go~e chia -- ro~il gior -- no
+    Men -- tre~al so -- li -- to~an -- drà spe -- di -- ta~e lie -- ve
     L'au -- ro -- ra a far,
         a far col suo Ti -- ton sog -- gior -- no
     Vo, __ che mi pun -- ga,
         che mi pun -- ga~e strin -- ga, __ e strug -- g'il co -- re
-    Que -- sto stral __ que -- sto lac -- cio,  __
+    Que -- sto stral, __ que -- sto lac -- cio,  __
     \ijLyrics
     que -- sto lac -- cio, __
     \normalLyrics
@@ -109,14 +109,14 @@ altoLyricsVII = \lyricmode {
     U -- mi -- do~il mar sec -- ca l'a -- re -- na~in -- tor -- no,
         sec -- ca l'a -- re -- na~in -- tor -- no,
     Men -- tre di ver -- no nu -- bi -- lo -- so~e bre -- ve
-    E d'i -- stra -- te fia lun -- go~e chiar' il gior -- no,
-    Men -- tre~al so -- li -- to~an -- dra
+    E d'i -- stra -- te fia lun -- go~e chia -- ro~il gior -- no,
+    Men -- tre~al so -- li -- to~an -- drà
         a far,
         a far col suo Ti -- ton sog -- gior -- no
     Vo, che mi pun -- ga,
         che mi pun -- ga e strin -- ga~il co -- re,
             il co -- re,
-    Que -- sto stral __ que -- sto lac -- cio,  
+    Que -- sto stral, __ que -- sto lac -- cio,  
         que -- sto lac -- cio, e que -- sto~ar -- do -- re, __
             e que -- sto~ar -- do -- re.
 }
@@ -159,7 +159,7 @@ tenoreLyricsVII = \lyricmode {
     U -- mi -- do~il mar __ sec -- ca l'a -- re -- na~in -- tor -- no,
         sec -- ca l'a -- re -- na~in -- tor -- no,
     Men -- tre di ver -- no nu -- bi -- lo -- so~e bre -- ve
-    E d'i -- stra -- te fia lun -- go~e chiar' il gior -- no,
+    E d'i -- stra -- te fia lun -- go~e chia -- ro~il gior -- no,
     Vo, che mi pun -- ga~e strin -- ga, e strug -- g'il co -- re __ il co -- re
     Que -- sto stral,
     Que -- sto stral,
@@ -206,11 +206,11 @@ bassoLyricsVII = \lyricmode {
         sec -- ca l'a -- re -- na~in -- tor -- no,
         sec -- ca l'a -- re -- na~in -- tor -- no
     Men -- tre di ver -- no nu -- bi -- lo -- so~e bre -- ve
-    E d'i -- stra -- te fia lun -- go~e chiar' il gior -- no,
+    E d'i -- stra -- te fia lun -- go~e chia -- ro~il gior -- no,
     Vo, che mi pun -- ga,
         che mi pun -- ga~e strin -- ga~e strug -- g'il co -- re
-    Que -- sto stral __ 
-    Que -- sto stral __ 
+    Que -- sto stral, __ 
+    Que -- sto stral, __ 
         que -- sto lac -- cio, e __ que -- sto~ar -- do -- re.
 }
 
@@ -257,15 +257,15 @@ quintoLyricsVII = \lyricmode {
     U -- mi -- do~il __ mar sec -- ca l'a -- re -- na~in -- tor -- no,
         sec -- ca l'a -- re -- na~in -- tor -- no __
     Men -- tre di ver -- no nu -- bi -- lo -- so~e bre -- ve
-    E d'i -- stra -- te fia lun -- go~e chiar' il gior -- no,
-    Men -- tre~al so -- li -- to~an -- dra spe -- di -- ta~e lie -- ve
+    E d'i -- stra -- te fia lun -- go~e chia -- ro~il gior -- no,
+    Men -- tre~al so -- li -- to~an -- drà spe -- di -- ta~e lie -- ve
     L'au -- ro -- ra a far,
         a far col suo Ti -- ton sog -- gior -- no
     Vo, __ che mi pun -- ga,
     Vo,
         e strin -- ga, e strug -- g'il co -- re, il co -- re,
     Que -- sto stral,
-    Que -- sto stral que -- sto lac -- cio, __ e que -- sto~ar -- do -- re,
+    Que -- sto stral, que -- sto lac -- cio, __ e que -- sto~ar -- do -- re,
         e que -- sto~ar -- do -- re.
 }
 
@@ -312,15 +312,15 @@ sestoLyricsVII = \lyricmode {
     U -- mi -- do~il mar sec -- ca l'a -- re -- na~in -- tor -- no,
         sec -- ca l'a -- re -- na~in -- tor -- no
     Men -- tre di ver -- no nu -- bi -- lo -- so~e bre -- ve
-    E d'i -- stra -- te fia lun -- go~e chiar' il gior -- no,
-        fia lun -- go~e chiar' il gior -- no __
-    Men -- tre~al so -- li -- to~an -- dra,
+    E d'i -- stra -- te fia lun -- go~e chia -- ro~il gior -- no,
+        fia lun -- go~e chia -- ro~il gior -- no __
+    Men -- tre~al so -- li -- to~an -- drà,
         a far,
         a far col suo Ti -- ton sog -- gior -- no
     Vo, che mi pun -- ga,
     Vo, che mi pun -- ga~e strin -- ga, e strug -- g'il co -- re
-    Que -- sto stral __
-    Que -- sto stral __ que -- sto lac -- cio,  
+    Que -- sto stral, __
+    Que -- sto stral, __ que -- sto lac -- cio,  
     \ijLyrics
         que -- sto lac -- cio, 
     \normalLyrics

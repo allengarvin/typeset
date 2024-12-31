@@ -57,9 +57,9 @@ cantoLyricsVI = \lyricmode {
     Ma __ or do -- len -- te __ per __ o -- gni pen -- di -- ce
     Vo la -- gri -- man -- do % sen -- za~al -- cu -- na ai -- ta,
     E son tra gli~al -- tri~a -- man -- ti~il più~in -- fe -- li -- ce,
-    Pe -- ro ch'a -- mor a la -- men -- tar m'in -- vi -- ta, __
+    Pe -- rò ch'a -- mor a la -- men -- tar m'in -- vi -- ta, __
         m'in -- vi -- ta,
-    a __ la -- men -- tar e so -- spi -- rar
+        a __ la -- men -- tar e so -- spi -- rar
     % A la -- gri -- mar e so -- spi -- rar 
         e so -- spi -- rar mai sem -- pre __
     Con no -- ve fog -- gie~e di -- su -- sa -- te tem -- pre,
@@ -162,7 +162,7 @@ tenoreLyricsVI = \lyricmode {
     Ma or do -- len -- te per o -- gni pen -- di -- ce
         per o -- gni pen -- di -- ce
     Vo __ la -- gri -- man -- do sen -- za~al -- cu -- na ai -- ta,
-    Pe -- ro ch'a -- mor a la -- men -- tar m'in -- vi -- ta,  __
+    Pe -- rò ch'a -- mor a la -- men -- tar m'in -- vi -- ta,  __
         a la -- men -- tar m'in -- vi -- ta,  
     A __ la -- gri -- mar e so -- spi -- rar 
         e so -- spi -- rar __ mai sem -- pre 
@@ -209,7 +209,7 @@ bassoLyricsVI = \lyricmode {
     Ma or do -- len -- te per o -- gni pen -- di -- ce
         per o -- gni pen -- di -- ce
     Vo la -- gri -- man -- do sen -- za~al -- cu -- na ai -- ta,
-    Pe -- ro ch'a -- mor a la -- men -- tar m'in -- vi -- ta, 
+    Pe -- rò ch'a -- mor a la -- men -- tar m'in -- vi -- ta, 
         a la -- men -- tar m'in -- vi -- ta, 
     A la -- gri -- mar e so -- spi -- rar 
         e so -- spi -- rar mai sem -- pre 
@@ -259,7 +259,7 @@ quintoLyricsVI = \lyricmode {
     Ma __ or do -- len -- te per o -- gni pen -- di -- ce,
         per o -- gni pen -- di -- ce
     Vo la -- gri -- man -- do sen -- za~al -- cu -- na ai -- ta,
-    Pe -- ro ch'a -- mor a la -- men -- tar m'in -- vi -- ta, 
+    Pe -- rò ch'a -- mor a la -- men -- tar m'in -- vi -- ta, 
     A la -- gri -- mar e so -- spi -- rar 
         e so -- spi -- rar mai sem -- pre 
     Con no -- ve fog -- gie,
@@ -313,7 +313,7 @@ sestoLyricsVI = \lyricmode {
         per o -- gni pen -- di -- ce
     Vo la -- gri -- man -- do % sen -- za~al -- cu -- na ai -- ta,
     E son __ tra gli~al -- tri~a -- man -- ti~il più~in -- fe -- li -- ce,
-    Pe -- ro ch'a -- mor a la -- men -- tar m'in -- vi -- ta, 
+    Pe -- rò ch'a -- mor a la -- men -- tar m'in -- vi -- ta, 
     A la -- gri -- mar e so -- spi -- rar 
         e so -- spi -- rar mai sem -- pre 
     Con no -- ve fog -- gie,

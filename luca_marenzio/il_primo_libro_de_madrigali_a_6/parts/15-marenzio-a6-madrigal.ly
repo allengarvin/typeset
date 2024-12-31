@@ -3,8 +3,8 @@
 % Avvento nel mio cor fiammelle e strali?
 % Ecco, ch'or pur si trova
 % Tra le mie man ristretta,
-% Nè forza od arte per fuggir le giova:
-% Nè tien face o saetta,
+% Né forza od arte per fuggir le giova:
+% Né tien face o saetta,
 % Che da me la difenda.
 % Giusto è ben, ch'io ne prenda,
 % Amor qualche vendetta,
@@ -63,12 +63,12 @@ cantoLyricsXV = \lyricmode {
     \normalLyrics
         ch'or pur si tro -- va
     Tra le mie man ri -- stret -- ta,
-    Nè for -- za~od ar -- te 
+    Né for -- za~od ar -- te 
     \ijLyrics
-    Nè for -- za~od ar -- te 
+    Né for -- za~od ar -- te 
     \normalLyrics
         per fug -- gir le gio -- va: __
-    Nè tien fa -- ce~o sa -- et -- ta,
+    Né tien fa -- ce~o sa -- et -- ta,
     Che da me la di -- fen -- da,
         la di -- fen -- da.
     Giu -- sto~è ben, ch'io ne pren -- da,
@@ -140,10 +140,10 @@ altoLyricsXV = \lyricmode {
         ch'or pur si tro -- va
     \normalLyrics
     Tra le mie man ri -- stret -- ta,
-    Nè for -- za~od ar -- te per fug -- gir le gio -- va,
+    Né for -- za~od ar -- te per fug -- gir le gio -- va,
         per fug -- gir __ le gio -- va: 
-    Nè tien __ fa -- ce~o sa -- et -- ta,
-    Nè tien fa -- ce~o sa -- et -- ta,
+    Né tien __ fa -- ce~o sa -- et -- ta,
+    Né tien fa -- ce~o sa -- et -- ta,
     Che da me la di -- fen -- da,
     Giu -- sto~è ben, ch'io ne pren -- da,
     A -- mor qual -- che ven -- det -- ta,
@@ -209,7 +209,7 @@ tenoreLyricsXV = \lyricmode {
     Ec -- co,
         ch'or pur si tro -- va
     Tra le mie man ri -- stret -- ta,
-    Nè for -- za~od ar -- te per fug -- gir le gio -- va, __
+    Né for -- za~od ar -- te per fug -- gir le gio -- va, __
         per fug -- gir le gio -- va: 
         o sa -- et -- ta,
     Che da me,
@@ -284,9 +284,9 @@ bassoLyricsXV = \lyricmode {
         ch'or pur si tro -- va
     Tra le mie man ri -- stret -- ta, __
     Tra le mie man ri -- stret -- ta,
-    Nè for -- za~od ar -- te 
-    Nè for -- za~od ar -- te per fug -- gir le gio -- va: 
-    Nè tien fa -- ce~o sa -- et -- ta,
+    Né for -- za~od ar -- te 
+    Né for -- za~od ar -- te per fug -- gir le gio -- va: 
+    Né tien fa -- ce~o sa -- et -- ta,
     Che da me la di -- fen -- da,
     Che da me la di -- fen -- da,
     Giu -- sto~è ben, ch'io ne pren -- da,
@@ -359,13 +359,13 @@ quintoLyricsXV = \lyricmode {
     \ijLyrics
     Tra le mie man ri -- stret -- ta,
     \normalLyrics
-    Nè for -- za~od ar -- te 
+    Né for -- za~od ar -- te 
     \ijLyrics
-    Nè for -- za~od ar -- te 
+    Né for -- za~od ar -- te 
     \normalLyrics
         per fug -- gir le gio -- va: 
-    Nè tien fa -- ce,
-    Nè tien __ fa -- ce~o sa -- et -- ta,
+    Né tien fa -- ce,
+    Né tien __ fa -- ce~o sa -- et -- ta,
     Che da me la di -- fen -- da,
     Giu -- sto~è ben, ch'io ne __ pren -- da,
     A -- mor,
@@ -436,12 +436,12 @@ sestoLyricsXV = \lyricmode {
     \normalLyrics
         ch'or pur si tro -- va
     Tra le mie man ri -- stret -- ta,
-    Nè for -- za~od ar -- te 
+    Né for -- za~od ar -- te 
     \ijLyrics
-    Nè for -- za~od ar -- te 
+    Né for -- za~od ar -- te 
     \normalLyrics
         per fug -- gir le gio -- va: 
-    Nè tien fa -- ce~o sa -- et -- ta,
+    Né tien fa -- ce~o sa -- et -- ta,
     Che da me __ la di -- fen -- da,
     Che da me la di -- fen -- da,
     \ijLyrics

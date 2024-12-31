@@ -11,6 +11,8 @@
 \header {
     lastupdated = "2024-12-28"
     originallyset = "2024-12-28"
+    flats = 0
+    final = "e"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "È questo il legno"

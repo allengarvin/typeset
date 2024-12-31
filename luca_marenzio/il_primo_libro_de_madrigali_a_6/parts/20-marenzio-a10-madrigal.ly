@@ -75,9 +75,9 @@ cantoChoirOneLyricsXX = \lyricmode {
     Vie -- ni Clo -- ri gen -- til,
         Clo -- ri gen -- til, 
         Clo -- ri gen -- til, bo -- schet -- ti~e pra -- ti
-    O -- gni~un al tuo ve -- nir to -- sto s'in -- fio -- ra,
-    O -- gni~un al tuo ve -- nir to -- sto s'in -- fio -- ra,
-    O -- gni~un al tuo ve -- nir to -- sto s'in -- fio -- ra,
+    O -- gnun al tuo ve -- nir to -- sto s'in -- fio -- ra,
+    O -- gnun al tuo ve -- nir to -- sto s'in -- fio -- ra,
+    O -- gnun al tuo ve -- nir to -- sto s'in -- fio -- ra,
     Ec -- co mi bur -- li,
         mi bur -- li non __ te Clo -- ri~io chia -- mo
 
@@ -154,8 +154,8 @@ altoChoirOneLyricsXX = \lyricmode {
     Vie -- ni Clo -- ri gen -- til,
         Clo -- ri gen -- til, 
         Clo -- ri gen -- til, bo -- schet -- ti~e pra -- ti
-    O -- gni~un al tuo ve -- nir to -- sto s'in -- fio -- ra,
-    O -- gni~un al tuo ve -- nir to -- sto s'in -- fio -- ra,
+    O -- gnun al tuo ve -- nir to -- sto s'in -- fio -- ra,
+    O -- gnun al tuo ve -- nir to -- sto s'in -- fio -- ra,
         to -- sto s'in -- fio -- ra,
     Ec -- co mi bur -- li,
         mi bur -- li non __ te Clo -- ri~io chia -- mo
@@ -236,9 +236,9 @@ tenoreOneChoirOneXX = \relative c' {
 tenoreOneChoirOneLyricsXX = \lyricmode {
     Vie -- ni Clo -- ri gen -- til,
         Clo -- ri gen -- til, bo -- schet -- ti~e pra -- ti
-    O -- gni~un al tuo ve -- nir to -- sto s'in -- fio -- ra,
+    O -- gnun al tuo ve -- nir to -- sto s'in -- fio -- ra,
         to -- sto s'in -- fio -- ra,
-    O -- gni~un al tuo ve -- nir to -- sto s'in -- fio -- ra,
+    O -- gnun al tuo ve -- nir to -- sto s'in -- fio -- ra,
     Ec -- co __ mi bur -- li,
         mi bur -- li non te Clo -- ri~io chia -- mo
 
@@ -321,7 +321,7 @@ tenoreTwoChoirOneXX = \relative c' {
 }
 
 tenoreTwoChoirOneLyricsXX = \lyricmode {
-    O -- gni~un al tuo ve -- nir to -- sto s'in -- fio -- ra,
+    O -- gnun al tuo ve -- nir to -- sto s'in -- fio -- ra,
     \ijLyrics
         to -- sto s'in -- fio -- ra,
     \normalLyrics
@@ -398,7 +398,7 @@ bassoChoirOneXX = \relative c {
 }
 
 bassoChoirOneLyricsXX = \lyricmode {
-    O -- gni~un al tuo ve -- nir to -- sto s'in -- fio -- ra,
+    O -- gnun al tuo ve -- nir to -- sto s'in -- fio -- ra,
         to -- sto s'in -- fio -- ra,
     Ec -- co __ mi bur -- li,
     Ec -- co mi bur -- li,

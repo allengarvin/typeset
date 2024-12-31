@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,7 @@
     instrument = "Ben mi credetti (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Vincenzo Quirino"
+    folio = "Vincenzo Querini (1478-1514)"
 
     % Unchanging:
     originallyset = "2014-12-16"
@@ -34,7 +34,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoVIincipitVoice
@@ -96,14 +98,15 @@
     \markup {
         \fill-line {
             \column {
+                % Italian touchup (minor: one accent) 2024-12-29
                 \line { Ben mi credetti già d'esser felice }
-                \line { Da prima entrando a l'amorosa vita, }
-                \line { Ma or dolente per ogni pendice }
-                \line { Vo lagrimando senza alcuna aita, }
-                \line { E son tra gli altri amanti il più infelice, }
-                \line { Pero ch'amor a lamentar m'invita, }
-                \line { A lagrimar e sospirar mai sempre }
-                \line { Con nove foggie e disusate tempre. }
+                \line { da prima entrando a l'amorosa vita, }
+                \line { ma or dolente per ogni pendice }
+                \line { vo lagrimando senza alcuna aita, }
+                \line { e son tra gli altri amanti il più infelice, }
+                \line { però ch'amor a lamentar m'invita, }
+                \line { a lagrimar e sospirar mai sempre }
+                \line { con nove foggie e disusate tempre. }
             }
         }
     }

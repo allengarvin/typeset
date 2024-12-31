@@ -15,7 +15,6 @@
     % Things that change per part:
     partname = "Alto (Choir I, part 2 of 5)"
     instrument = "Vieni Clori gentil (choir I alto)"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-08-30"

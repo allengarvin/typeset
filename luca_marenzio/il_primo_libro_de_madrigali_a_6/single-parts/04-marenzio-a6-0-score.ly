@@ -6,15 +6,14 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
     title = "Per duo coralli"
     instrument = "Per duo coralli (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-11-14"
@@ -22,7 +21,9 @@
     flats = 1
     final = "g"
     shorttitle = "per_duo_coralli"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
+    motifs = "[ardor,morte,breath,kiss]"
+    rhyme = "abBaCC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -34,7 +35,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoIVincipitVoice
@@ -96,12 +99,23 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup: 2024-12-29
                 \line { Per duo coralli ardenti }
-                \line { Or moro, or torno in vita. }
-                \line { E l'aura, ch'indi spira e sì gradita }
-                \line { Che di mille tormenti }
-                \line { Bramo sentir l'assalto in mezzo al petto }
-                \line { Per morir e rinascer in diletto. }
+                \line { or moro, or torno in vita. }
+                \line { e l'aura ch'indi spira è sì gradita }
+                \line { che di mille tormenti }
+                \line { bramo sentir l'assalto in mezzo al petto, }
+                \line { per morir e rinascer in diletto. }
+            }
+            \column {
+                % translation: 2024-12-29
+                \line { For two burning \auto-footnote corals "lips" }
+                \line { now I die, now I return to life, }
+                \line { and the breeze that then exhales is so welcome }
+                \line { that I yearn to feel the assault }
+                \line { of a thousand torments within my breast, }
+                \line { to die and to be born again in delight. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

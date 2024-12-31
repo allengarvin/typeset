@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,6 @@
     instrument = "Occhi sereni e chiari (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-07-18"
@@ -23,6 +22,9 @@
     final = "g"
     shorttitle = "occhi_sereni"
     categories = "[madrigal]"
+    poeticform = "madrigal"
+    rhyme = "abBaccDD"
+    motifs = "[eyes,tears,weeping,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -34,7 +36,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoXIIincipitVoice
@@ -96,14 +100,15 @@
     \markup {
         \fill-line {
             \column {
+                % italian update: 2024-12-30
                 \line { Occhi sereni e chiari }
-                \line { Al cui divin splendore }
-                \line { La facelle sue spente accende Amore, }
-                \line { Occhi miei, dolci e cari }
-                \line { Ond'è ch'i risi e i canti }
-                \line { Or sian conversi in pianti }
-                \line { Deh asciugate le lacrime e l'umore, }
-                \line { Servate per estinguer il mio ardore. }
+                \line { al cui divin splendore }
+                \line { la facelle sue spente accende Amore, }
+                \line { occhi miei, dolci e cari }
+                \line { ond'è ch'i risi e i canti, }
+                \line { or sian conversi in pianti. }
+                \line { Deh, asciugate le lacrime e l'umore; }
+                \line { servate per estinguer il mio ardore. }
             }
         }
     }

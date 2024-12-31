@@ -39,7 +39,7 @@ cantoX = \relative c' {
 }
 
 cantoLyricsX = \lyricmode {
-    O do -- lo -- ro -- so sor -- te,
+    O do -- lo -- ro -- so sor -- te!
     La la -- gri -- me~e~i mar -- tir __ non mi dan mor -- te,
         non mi dan mor -- te,
     \ijLyrics
@@ -91,7 +91,7 @@ altoX = \relative c' {
 }
 
 altoLyricsX = \lyricmode {
-    O __ do -- lo -- ro -- so sor -- te,
+    O __ do -- lo -- ro -- so sor -- te!
     La __ la -- gri -- me~e~i __ mar -- tir __ non mi dan mor -- te,
         non mi dan mor -- te,
     La la -- gri -- me~e~i mar -- tir non mi dan mor -- te,
@@ -138,7 +138,7 @@ tenoreX = \relative c' {
 }
 
 tenoreLyricsX = \lyricmode {
-    O __ do -- lo -- ro -- so sor -- te,
+    O __ do -- lo -- ro -- so sor -- te!
     La __ la -- gri -- me~e~i mar -- tir non mi dan mor -- te,
         non mi dan __ mor -- te,
     Ed A -- mor __ vuol ch'io mo -- ra,
@@ -184,7 +184,7 @@ bassoX = \relative c {
 
 bassoLyricsX = \lyricmode {
     O __ do -- lo -- ro -- so sor -- te,
-    O __ do -- lo -- ro -- so sor -- te,
+    O __ do -- lo -- ro -- so sor -- te!
     La la -- gri -- me~e~i __ mar -- tir non mi dan mor -- te,
     Ed A -- mor,
     Ed A -- mor vuol ch'io mo -- ra,
@@ -232,7 +232,7 @@ quintoX = \relative c'' {
 
 quintoLyricsX = \lyricmode {
     La __ la -- gri -- me~e~i mar -- tir non mi dan mor -- te,
-    O do -- lo -- ro -- so sor -- te,
+    O do -- lo -- ro -- so sor -- te!
     La __ la -- gri -- me~e~i mar -- tir non mi dan mor -- te,
         non mi dan mor -- te,
     Ed A -- mor,
@@ -285,7 +285,7 @@ sestoX = \relative c {
 sestoLyricsX = \lyricmode {
     O do -- lo -- ro -- so sor -- te,
     \ijLyrics
-    O do -- lo -- ro -- so sor -- te,
+    O do -- lo -- ro -- so sor -- te!
     \normalLyrics
     La __ la -- gri -- me~e~i mar -- tir non mi dan mor -- te,
         non mi dan mor -- te,

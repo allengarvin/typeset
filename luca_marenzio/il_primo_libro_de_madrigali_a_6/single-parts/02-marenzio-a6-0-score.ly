@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.21.1"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -6,16 +6,15 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.0)
 
 \header {
     % Things that change per piece:
-    title = "Così questa, di cui canto gl’ honori"
+    title = "Così questa, di cui canto gl'onori"
     subtitle = "Seconda parte"
     instrument = "Così questa (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-07-18"
@@ -24,6 +23,7 @@
     final = "f"
     shorttitle = "cosi_questa"
     categories = "[madrigal]"
+    motifs = "[venus,cupids,flowers,rose,lily,spring]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -35,7 +35,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoIIincipitVoice
@@ -97,14 +99,26 @@
     \markup {
         \fill-line {
             \column {
-                \line { Così questa, di cui canto gl’ honori }
-                \line { Esce, ed uscendo il cielo, }
-                \line { Scintillar fa de’ puri almi splendori   }
-                \line { A Vener’ e gl’Amori }
-                \line { Rinforza forza e amoroso zelo. }
+                \line { Così questa, di cui canto gli onori, }
+                \line { esce, ed uscendo il cielo }
+                \line { scintillar fa de' puri almi splendori,  }
+                \line { a Venere e gli Amori }
+                \line { rinforza forza e amoroso zelo. }
                 \line { Indi ogni oscuro velo }
-                \line { Ne sgombr’ intorno a l’alm’e al suo apparire, }
-                \line { Giacinti, gigli e rose fa fiorire. }
+                \line { ne sgombri intorno a l'alm'e al suo apparire }
+                \line { giacinti, gigli e rose fa fiorire. }
+            }
+            \column {
+                % translation: 2024-12-29
+                \line { Thus she, of whose honors I sing }
+                \line { comes, and coming forth makes the heavens }
+                \line { sparkle with pure and noble splendors; }
+                \line { to Venus and the cupids }
+                \line { she restores strength and amorous affection. }
+                \line { Then every dark veil }
+                \line { is lifted from about the soul, and at her appearance }
+                \line { hyacinths, lilies and roses bloom anew. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

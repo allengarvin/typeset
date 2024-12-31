@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,7 @@
     instrument = "Ahimè, tal fu d'Amore (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Vincenzo Quirino"
+    folio = "Vincenzo Querini (1478-1514)"
 
     % Unchanging:
     originallyset = "2014-07-18"
@@ -34,7 +34,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoXIincipitVoice
@@ -96,14 +98,15 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup: 2024-12-30
                 \line { Ahimè, tal fu d'Amore e l'esca e l'amo }
-                \line { La fiamma e'l visco, le quadrella e'l laccio }
-                \line { Ch'or di doglia mi pasco, e temo e bramo }
-                \line { E'n dubbio di me stesso ardendo aghiaccio; }
-                \line { Bramo di veder quella che sempre amo }
-                \line { E temo non vederla, onde mi sfaccio }
-                \line { Onde mi struggo e stempro di lontano }
-                \line { Perché ogni mio sperar diventa vano. }
+                \line { la fiamma e'l visco, le quadrella e'l laccio }
+                \line { ch'or di doglia mi pasco, e temo e bramo }
+                \line { e'n dubbio di me stesso ardendo aghiaccio; }
+                \line { bramo di veder quella che sempre amo }
+                \line { e temo non vederla, onde mi sfaccio }
+                \line { onde mi struggo e stempro di lontano }
+                \line { perché ogni mio sperar diventa vano. }
             }
         }
     }

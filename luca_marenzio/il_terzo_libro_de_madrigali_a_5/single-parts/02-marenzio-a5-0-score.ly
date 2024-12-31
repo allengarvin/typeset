@@ -11,7 +11,6 @@
 \header {
     % Things that change per piece:
     title = "Caro dolce mio ben chi mi vi toglie?"
-    folio = "Anonymous poet"
     instrument = "Caro dolce mio ben(score)"
     needtranslation = #'t
     language = "italian"
@@ -91,14 +90,15 @@
         \vspace #4
         \fill-line {
             \column {
+                % italian touchup: 2024-12-30
                 \line { Caro dolce mio ben chi mi vi toglie? }
-                \line { Come potrà giamai questo mio core }
-                \line { Viver senza di voi? }
-                \line { Aimè, che l'aspre doglie }
-                \line { E'l mio acerbo dolore }
-                \line { Mi fa miser e poi }
-                \line { Versar da gli occhi lassi }
-                \line { Lagrime ch'a pietà movono i sassi.  }
+                \line { come potrà giamai questo mio core }
+                \line { viver senza di voi? }
+                \line { Ahimè, che l'aspre doglie }
+                \line { e'l mio acerbo dolore }
+                \line { mi fa miser e poi }
+                \line { versar dagli occhi lassi }
+                \line { lagrime ch'a pietà movono i sassi.  }
             }
         }
     }

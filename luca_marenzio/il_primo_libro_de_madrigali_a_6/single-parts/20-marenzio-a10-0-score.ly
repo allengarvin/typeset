@@ -16,7 +16,6 @@
     instrument = "Vieni Clori gentil (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-08-30"

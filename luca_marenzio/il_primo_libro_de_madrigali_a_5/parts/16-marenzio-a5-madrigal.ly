@@ -58,7 +58,6 @@ cantoLyricsXVI = \lyricmode {
         e ti vo' far fe -- li -- ce.
 }
 
-
 altoXVIincipit = \relative c' {
     \time 4/4
     \clef "petrucci-c3"
@@ -201,14 +200,6 @@ bassoLyricsXVI = \lyricmode {
     Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
     Ch'i -- vi~or t'a -- spet -- ta~e ti vo' far fe -- li -- ce,
         e ti vo' far fe -- li -- ce.
-}
-
-quintoXVIincipit = \relative c'' {
-    \time 4/4
-    \clef "petrucci-c1"
-    \key f \major
-
-    g\breve
 }
 
 quintoXVIincipit = \relative c'' {

@@ -11,9 +11,8 @@
 \header {
     % Things that change per piece:
     title = "Rose bianche e vermiglie"
-    folio = "Anonymous poet"
     instrument = "Rose bianche e vermiglie (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -23,6 +22,7 @@
     final = "c"
     shorttitle = "rose_bianche_e_vermiglie"
     categories = "[madrigal]"
+    motifs = "[male-pov,amore,beauty,grace,roses,face,pearls,gold]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -88,22 +88,34 @@
         }
     }   
     \markup {
-        \vspace #4
         \fill-line {
             \column {
+                % Italian touchup: 2024-12-31 (duplicated word!)
                 \line { Rose bianche e vermiglie }
-                \line { Chi vuol veder coralli, perle, perle ed oro }
-                \line { E dal superno choro, }
-                \line { Due stelle scese, e mille meraviglie, }
-                \line { Fra lor formar un viso }
-                \line { Cha la terra perar fa 'l paradiso, }
-                \line { Tant' ivi e leggiadria }
-                \line { Miri sol, Lidia mia. }
+                \line { chi vuol veder coralli, perle ed oro }
+                \line { e dal superno choro, }
+                \line { due stelle scese, e mille meraviglie, }
+                \line { fra lor formar un viso }
+                \line { cha la terra perar fa 'l paradiso, }
+                \line { tant' ivi è leggiadria }
+                \line { miri sol Lidia mia. }
+            }
+            \column {
+                % translation: 2024-12-31
+                \line { White and vermillion roses, }
+                \line { whoever wishes to see corals, pearls and gold, }
+                \line { and two stars descended }
+                \line { from the supernal choir, and a thousand marvels }
+                \line { that between them form a face }
+                \line { that makes the earth seem like paradise, }
+                \line { so much grace resides there, }
+                \line { let him but only gaze upon my Lydia. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
     \markup {
-        \vspace #4
+        \vspace #2
         \wordwrap {
             Note: Einstein incorrectly assigned this to Cardinal Pietro 
              Bembo, who wrote a completely different poem with the same 

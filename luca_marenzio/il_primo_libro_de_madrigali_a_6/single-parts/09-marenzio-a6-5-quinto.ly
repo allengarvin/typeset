@@ -14,7 +14,6 @@
     % Things that change per part:
     partname = "Quinto (part 2 of 6)"
     instrument = "Nel più fiorito Aprile (quinto)"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-07-18"

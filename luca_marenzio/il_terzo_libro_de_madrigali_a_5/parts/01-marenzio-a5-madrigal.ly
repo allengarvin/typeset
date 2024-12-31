@@ -1,4 +1,4 @@
-% Madonna poi ch'uccider mi volete
+% Madonna poi -- ch'uccider mi volete
 % Non nego di morire
 % Ma se con dolci sguardi voi potete
 % La mia vita finire
@@ -32,7 +32,7 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    Ma -- don -- na poi ch'uc -- ci -- der mi vo -- le -- te
+    Ma -- don -- na poi -- ch'uc -- ci -- der mi vo -- le -- te
     Non ne -- go di mo -- ri -- re,
     Non ne -- go di mo -- ri -- re,
     Non ne -- go di mo -- ri -- re
@@ -77,7 +77,7 @@ altoI = \relative c'' {
 }
 
 altoLyricsI = \lyricmode {
-    Ma -- don -- na poi ch'uc -- ci -- der mi vo -- le -- te
+    Ma -- don -- na poi -- ch'uc -- ci -- der mi vo -- le -- te
     Non ne -- go di __ mo -- ri -- re,
     Non ne -- go di mo -- ri -- re,
     Ma se con dol -- ci sguar -- di,
@@ -120,7 +120,7 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-    Ma -- don -- na poi ch'uc -- ci -- der mi vo -- le -- te
+    Ma -- don -- na poi -- ch'uc -- ci -- der mi vo -- le -- te
     Non ne -- go di mo -- ri -- re,
     Non ne -- go di mo -- ri -- re,
     Non ne -- go di mo -- ri -- re
@@ -206,7 +206,7 @@ quintoI = \relative c'' {
 }
 
 quintoLyricsI = \lyricmode {
-    Ma -- don -- na poi ch'uc -- ci -- der mi vo -- le -- te
+    Ma -- don -- na poi -- ch'uc -- ci -- der mi vo -- le -- te
     Non ne -- go di mo -- ri -- re,
     Non ne -- go di mo -- ri -- re,
     Ma se con dol -- ci sguar -- di,

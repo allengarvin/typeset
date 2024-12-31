@@ -100,14 +100,15 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup: 2024-12-30
                 \line { L'aura serena che fra verdi fronde }
                 \line { mormorando a ferir nel volto viemme, }
                 \line { fammi risovenir quand'Amor diemme }
                 \line { le prime piaghe, sì dolci profonde; }
-                \line { e 'l bel viso veder, ch'altri m'asconde, }
+                \line { e'l bel viso veder, ch'altri m'asconde, }
                 \line { che sdegno o gelosia celato tiemme; }
-                \line { et le chiome or avolte in perle e 'n gemme, }
-                \line { allora sciolte, et sovra òr terso bionde. }
+                \line { e le chiome or avolte in perle e'n gemme, }
+                \line { allora sciolte, e sovra or terso bionde. }
             }
             \column {
                 \line { The calm breeze that comes murmuring }

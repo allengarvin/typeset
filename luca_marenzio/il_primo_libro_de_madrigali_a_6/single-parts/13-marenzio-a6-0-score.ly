@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,6 @@
     instrument = "Deh rinforzate (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2013-10-08"
@@ -23,6 +22,7 @@
     final = "a"
     shorttitle = "deh_rinforzate"
     categories = "[madrigal]"
+    motifs = "[eyes,weeping,heart,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -34,7 +34,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoXIIIincipitVoice
@@ -96,14 +98,15 @@
     \markup {
         \fill-line {
             \column {
-                \line { Deh rinforzate  }
-                \line { Occhi non occhi gia ma doi torrenti }
-                \line { S'ella gioisce tanto, }
-                \line { Del vostro lagrimar del mio dolore }
+                % Italian touchup: 2024-12-30
+                \line { Deh rinforzate il vostro largo pianto, }
+                \line { occhi: non occhi già ma doi torrenti }
+                \line { s'ella gioisce tanto, }
+                \line { del vostro lagrimar del mio dolore. }
                 \line { E tu infiammato core }
-                \line { Che'l foco d'amor senti  }
-                \line { Scopri l'ardente fiamma  }
-                \line { Che ti consuma ed arde a dramma a dramma.  }
+                \line { che'l foco d'amor senti,  }
+                \line { scopri l'ardente fiamma  }
+                \line { che ti consuma ed arde a dramma a dramma.  }
             }
         }
     }

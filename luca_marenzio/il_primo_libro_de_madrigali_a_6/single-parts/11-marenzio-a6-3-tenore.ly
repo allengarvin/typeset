@@ -14,7 +14,7 @@
     % Things that change per part:
     partname = "Tenore (part 5 of 6)"
     instrument = "Ahimè, tal fu d'Amore (tenore)"
-    folio = "Vincenzo Quirino"
+    folio = "Vincenzo Querini (1478-1514)"
 
     % Unchanging:
     originallyset = "2014-07-18"

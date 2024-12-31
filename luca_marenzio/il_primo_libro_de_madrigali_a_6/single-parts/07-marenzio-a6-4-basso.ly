@@ -14,12 +14,12 @@
     % Things that change per part:
     partname = "Basso (part 6 of 6)"
     instrument = "Mentre fia caldo il sol (basso)"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-07-11"
     lastupdated = "2015-07-11"
     shorttitle = "mentre_fia_caldo_il_sol"
+    folio = "Fabio Carofigli"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

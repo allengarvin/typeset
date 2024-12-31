@@ -6,7 +6,7 @@
 % E a me la luce cara
 % Di questa vita sia per sempre amara,
 % Finche d'un giorno più serena luce
-% Non meni a gli occhi miei la vera luce.
+% Non meni agli occhi miei la vera luce.
 
 cantoIIIincipit = \relative c'' {
     \time 2/2
@@ -68,12 +68,12 @@ cantoLyricsIII = \lyricmode {
     Di que -- sta vi -- ta, 
     \normalLyrics
     Di que -- sta vi -- ta sia __ per sem -- pre~a -- ma -- ra,
-        la ve -- ra lu -- ce,
-    % Fin -- che d'un gior -- no più se -- re -- na lu -- ce
-    Non me -- ni~a gli~oc -- chi miei la ve -- ra lu -- ce,
-        la ve -- ra lu -- ce,
-    Non me -- ni~a gli~oc -- chi miei la ve -- ra lu -- ce,
-        la ve -- ra lu -- ce.
+        la ve -- ra Lu -- ce,
+    % Fin -- ché d'un gior -- no più se -- re -- na lu -- ce
+    Non me -- ni~a -- gli~oc -- chi miei la ve -- ra Lu -- ce,
+        la ve -- ra Lu -- ce,
+    Non me -- ni~a -- gli~oc -- chi miei la ve -- ra Lu -- ce,
+        la ve -- ra Lu -- ce.
 }
 
 altoIIIincipit = \relative c' {
@@ -133,15 +133,15 @@ altoLyricsIII = \lyricmode {
     Di que -- sta vi -- ta, 
     E a me la lu -- ce ca -- ra
     Di que -- sta vi -- ta sia per sem -- pre a -- ma -- ra,
-    Fin -- che d'un gior -- no più se -- re -- na lu -- ce
-        la ve -- ra lu -- ce,
-    Non me -- ni~a gli~oc -- chi miei la ve -- ra lu -- ce,
+    Fin -- ché d'un gior -- no più se -- re -- na lu -- ce
+        la ve -- ra Lu -- ce,
+    Non me -- ni~a -- gli~oc -- chi miei la ve -- ra Lu -- ce,
     \ijLyrics
-        la ve -- ra lu -- ce,
+        la ve -- ra Lu -- ce,
     \normalLyrics
-        la ve -- ra lu -- ce,
+        la ve -- ra Lu -- ce,
     \ijLyrics
-        la ve -- ra lu -- ce,
+        la ve -- ra Lu -- ce,
     \normalLyrics
         la ve -- ra __ lu -- ce.
 }
@@ -198,14 +198,14 @@ tenoreLyricsIII = \lyricmode {
     E a me la lu -- ce ca -- ra
     Di que -- sta vi -- ta, 
     Di que -- sta vi -- ta, 
-        la ve -- ra lu -- ce,
+        la ve -- ra Lu -- ce,
         sia per sem -- pre,
         sia __ per sem -- pre~a -- ma -- ra,
-    Fin -- che d'un gior -- no più se -- re -- na lu -- ce
-    Non me -- ni~a gli~oc -- chi miei la ve -- ra lu -- ce,
-    Non me -- ni~a gli~oc -- chi miei,
-    Non me -- ni~a gli~oc -- chi miei,
-        la ve -- ra lu -- ce. __
+    Fin -- ché d'un gior -- no più se -- re -- na lu -- ce
+    Non me -- ni~a -- gli~oc -- chi miei la ve -- ra Lu -- ce,
+    Non me -- ni~a -- gli~oc -- chi miei,
+    Non me -- ni~a -- gli~oc -- chi miei,
+        la ve -- ra Lu -- ce. __
 }
 
 bassoIIIincipit = \relative c {
@@ -249,9 +249,9 @@ bassoLyricsIII = \lyricmode {
     O -- scu -- re nub -- bi~il gior -- no
     E a me la lu -- ce ca -- ra
     Di que -- sta vi -- ta sia per sem -- pre~a -- ma -- ra,
-    Fin -- che d'un gior -- no più se -- re -- na lu -- ce
-    Non me -- ni~a gli~oc -- chi miei la ve -- ra lu -- ce,
-    Non me -- ni~a gli~oc -- chi miei la ve -- ra lu -- ce.
+    Fin -- ché d'un gior -- no più se -- re -- na lu -- ce
+    Non me -- ni~a -- gli~oc -- chi miei la ve -- ra Lu -- ce,
+    Non me -- ni~a -- gli~oc -- chi miei la ve -- ra Lu -- ce.
 }
 
 quintoIIIincipit = \relative c' {
@@ -313,10 +313,10 @@ quintoLyricsIII = \lyricmode {
     Di que -- sta vi -- ta, 
     Di que -- sta vi -- ta sia __ per sem -- pre~a -- ma -- ra,
         sia per sem -- pre~a -- ma -- ra,
-        la ve -- ra lu -- ce,
-    Non me -- ni~a gli~oc -- chi miei la ve -- ra lu -- ce,
-    Non me -- ni~a gli~oc -- chi miei la ve -- ra lu -- ce,
-        la ve -- ra lu -- ce. __
+        la ve -- ra Lu -- ce,
+    Non me -- ni~a -- gli~oc -- chi miei la ve -- ra Lu -- ce,
+    Non me -- ni~a -- gli~oc -- chi miei la ve -- ra Lu -- ce,
+        la ve -- ra Lu -- ce. __
 }
 
 sestoIIIincipit = \relative c' {
@@ -364,10 +364,10 @@ sestoLyricsIII = \lyricmode {
     O -- scu -- re nub -- bi~il gior -- no
     E a me la lu -- ce ca -- ra
     Di que -- sta vi -- ta sia __ per sem -- pre~a -- ma -- ra,
-    Fin -- che d'un gior -- no più se -- re -- na lu -- ce
-    Non me -- ni~a gli~oc -- chi miei la ve -- ra lu -- ce,
-        la ve -- ra lu -- ce,
-        la ve -- ra lu -- ce.
+    Fin -- ché d'un gior -- no più se -- re -- na lu -- ce
+    Non me -- ni~a -- gli~oc -- chi miei la ve -- ra Lu -- ce,
+        la ve -- ra Lu -- ce,
+        la ve -- ra Lu -- ce.
 }
 
 cantoIIIincipitVoice = <<

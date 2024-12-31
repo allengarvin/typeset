@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,6 @@
     instrument = "Cantate, Ninfe (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-07-18"
@@ -23,6 +22,9 @@
     final = "c"
     shorttitle = "cantate_ninfe"
     categories = "[madrigal]"
+    poeticform = "madrigal"
+    rhyme = "AbBCDD"
+    motifs = "[nymphs,cupids,amore,fruit,pastoral]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -35,7 +37,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
@@ -98,13 +100,24 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup: 2024-12-30
                 \line { Cantate, Ninfe leggiadrette e belle, }
-                \line { I miei novelli ardori }
-                \line { E scherzate e ridete insieme Amori }
-                \line { Con la mia Filli in queste parti e in quello; }
-                \line { Cantate e di piacer gioite tutti, }
-                \line { C'ho d'amor colto i desiati frutti. }
+                \line { i miei novelli ardori }
+                \line { e scherzate e ridete insieme Amori }
+                \line { con la mia Filli in queste parti e in quello; }
+                \line { cantate e di piacer gioite tutti, }
+                \line { ch'ho d'Amor colto i desiati frutti. }
             }
+            \column {
+                % translation: 2024-12-30
+                \line { Sing, O graceful and lovely nymphs, }
+                \line { of my newfound joys, }
+                \line { and, O Cupids, frolic and laugh together }
+                \line { from here to there with my Phyllis; }
+                \line { Sing and rejoice in pleasure, everyone, }
+                \line { for I have plucked Love's longed-for fruits. }
+                \line { \hspace #10 \italic { translation by editor } }
+            } 
         }
     }
 }

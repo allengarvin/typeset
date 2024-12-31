@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,6 @@
     instrument = "O doloroso sorte (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-17"
@@ -22,7 +21,9 @@
     flats = 0
     final = "e"
     shorttitle = "o_doloroso_sorte"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
+    poeticform = "madrigal"
+    motifs = "[morte,la-petite-morte,amore,hell,flame,male-pov]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -34,7 +35,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoXincipitVoice
@@ -96,15 +99,26 @@
     \markup {
         \fill-line {
             \column {
-                \line { O doloroso sorte }
-                \line { Rimasto son e se altrove riluce }
-                \line { Del mio bel sol la sua lucente luce? }
-                \line { Ahi, non fia ver, ma copri d'ogni interno }
-                \line { Oscure nubbi il giorno }
-                \line { E a me la luce cara }
-                \line { Di questa vita sia per sempre amara, }
-                \line { Finche d'un giorno più serena luce }
-                \line { Non meni a gli occhi miei la vera luce. }
+                % Italian touchup (I HAD THE WRONG TEXT!)
+                % 2024-12-30
+                \line { O dolorosa sorte! }
+                \line { Le lagrime e i martir non mi dan morte }
+                \line { ed amor vuol ch'io mora, }
+                \line { che Madonna a pietà chiuse ha le porte, }
+                \line { e pur son vivo e il pensier sol m'accora. }
+                \line { Ahi! novo e crudo inferno, }
+                \line { ove si nutre il mio gran foco eterno. }
+            }
+            \column {
+                % translation: 2024-12-30
+                \line { O sorrowful fate! }
+                \line { The tears and the torments do not give me death }
+                \line { and Love desires that I die, }
+                \line { for my lady has shut the doors to pity }
+                \line { and yet I live and my thoughts only torment me. }
+                \line { Ah! new and cruel hell, }
+                \line { where my great eternal fire is fed. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

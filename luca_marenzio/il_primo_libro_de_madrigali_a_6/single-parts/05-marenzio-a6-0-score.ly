@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,6 @@
     instrument = "Qual vive Salamandra (score)"
     needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-15"
@@ -22,7 +21,10 @@
     flats = 1
     final = "g"
     shorttitle = "qual_vive_salamandra"
-    categories = "[madrigal]"
+    categories = "[madrigal,animal]"
+    rhyme = "AbbAAcC"
+    poeticform = "madrigal"
+    motifs = "[burning,salamander,amore,flame]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -34,7 +36,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoVincipitVoice
@@ -96,13 +100,14 @@
     \markup {
         \fill-line {
             \column {
+                % Italian touchup: 2024-12-29
                 \line { Qual vive Salamandra in fiamma ardente }
-                \line { E ne gioisce poi, }
-                \line { Così il mio core in voi }
-                \line { Che la suo fiamma sete assai lucente, }
-                \line { Ardendo ha vita e duol alcun non sente. }
+                \line { e ne gioisce poi, }
+                \line { così il mio core in voi }
+                \line { che la suo fiamma sete assai lucente, }
+                \line { ardendo ha vita e duol alcun non sente. }
                 \line { O che felice sorte, }
-                \line { Viver in fiamma e non aver la morte. }
+                \line { viver in fiamma e non aver la morte. }
             }
             \column {
                 % translation date: 2023-01-14
@@ -113,7 +118,7 @@
                 \line { burning [that] has light and yet feels no pain. }
                 \line { Oh what a happy fate }
                 \line { to live in flame and not experience death. }
-                \line { \hspace #10 \italic { translation by editor } } }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

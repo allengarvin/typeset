@@ -12,7 +12,6 @@
     % Things that change per piece:
     title = "Vieni Clori gentil, boschetti e prati"
     instrument = "Vieni Clori gentil (Choir I score)"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-08-30"
@@ -85,9 +84,8 @@
     \markup {
         \fill-line {
             \column {
-                \vspace #3
                 \line { Vieni Clori gentil, boschetti e prati } 
-                \line { Ogni un al tuo venir tosto s'infiora, } 
+                \line { ognun al tuo venir tosto s'infiora, } 
                 \line { \hspace #10 \italic { (choir II) } Ora } 
                 \line { Ecco mi burli non te Clori io chiamo } 
                 \line { \hspace #10 \italic { (choir II) }  Amo } 
@@ -105,7 +103,6 @@
                 \line { \hspace #10 \italic { (choir II) }  Vado }
                 \line { Ed io, la bella e vaga Clori a l'ombra } 
                 \line { Attendo mentre il sol la terra ingombra. } 
-                \vspace #3
             }
         }
     }

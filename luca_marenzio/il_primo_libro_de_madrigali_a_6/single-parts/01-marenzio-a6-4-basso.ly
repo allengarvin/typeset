@@ -1,4 +1,4 @@
-\version "2.16.0"
+\version "2.21.1"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
@@ -15,7 +15,6 @@
     % Things that change per part:
     partname = "Basso (part 6 of 6)"
     instrument = "Come inanti (basso)"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-14"

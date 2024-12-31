@@ -11,7 +11,6 @@
 \header {
     % Things that change per piece:
     title = "Madonna poi ch'uccider mi volete"
-    folio = "Anonymous madrigal"
     instrument = "Madonna poi ch'uccider mi volete (score)"
     headerspace = \markup { \vspace #2 }
     needtranslation = #'f
@@ -22,7 +21,9 @@
     lastupdated = "2015-07-11"
     flats = 0
     final = "c"
-    categories = "[madrigal]"
+    categories = "[madrigal,morte]"
+    motifs = "[morte,male-pov,amore]"
+    rhyme = "AbAbcC"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,7 +92,8 @@
         \vspace #4
         \fill-line {
             \column {
-                \line { Madonna poi che uccider mi volete }
+                % italian touchup (none needed: 2024-12-30)
+                \line { Madonna poiché uccider mi volete }
                 \line { non nego di morire, }
                 \line { ma se con dolci sguardi voi potete }
                 \line { la mia vita finire, }
@@ -99,6 +101,7 @@
                 \line { ch'io muoia di dolcezza che di doglia? }
             }
             \column {
+                % translation: 2023? Seems good
                 \line { Lady, since you want to kill me }
                 \line { I cannot deny dying; }
                 \line { But if with sweet glances you can }

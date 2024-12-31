@@ -27,6 +27,21 @@
     
 \book {
     \bookOutputName "08-marenzio--al_suon"
+    \bookOutputSuffix "--3-alto--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \altoVIII
+        >>
+        \addlyrics { \altoLyricsVIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "08-marenzio--al_suon"
     \bookOutputSuffix "--3-alto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {

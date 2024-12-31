@@ -1,6 +1,6 @@
 % Per duo coralli ardenti
 % Or moro, or torno in vita.
-% E l'aura, ch'indi spira e sì gradita
+% E l'aura, ch'indi spira è sì gradita
 % Che di mille tormenti
 % Bramo sentir l'assalto in mezzo al petto
 % Per morir e rinascer in diletto
@@ -47,7 +47,7 @@ cantoLyricsIV = \lyricmode {
     \normalLyrics
         or tor -- no~in vi -- ta.
     E l'au -- ra, 
-    E l'au -- ra, ch'in -- di spi -- ra~e sì gra -- di -- ta
+    E l'au -- ra, ch'in -- di spi -- ra~è sì gra -- di -- ta
     Che di mil -- le tor -- men -- ti,
     Che di mil -- le tor -- men -- ti,
     Che di mil -- le tor -- men -- ti,
@@ -188,7 +188,7 @@ bassoIV = \relative c {
 bassoLyricsIV = \lyricmode {
     Or mo -- ro, or tor -- no~in vi -- ta.
     E l'au -- ra, 
-    E l'au -- ra, ch'in -- di spi -- ra~e sì gra -- di -- ta
+    E l'au -- ra, ch'in -- di spi -- ra~è sì gra -- di -- ta
     Che di mil -- le tor -- men -- ti,
     Che di mil -- le tor -- men -- ti,
     Che di mil -- le tor -- men -- ti,
@@ -239,7 +239,7 @@ quintoLyricsIV = \lyricmode {
     \ijLyrics
     E l'au -- ra, 
     \normalLyrics
-        ch'in -- di spi -- ra~e sì gra -- di -- ta
+        ch'in -- di spi -- ra~è sì gra -- di -- ta
     Che di mil -- le tor -- men -- ti,
     Che di mil -- le tor -- men -- ti,
     \ijLyrics
@@ -289,7 +289,7 @@ sestoLyricsIV = \lyricmode {
     \ijLyrics
         or tor -- no~in vi -- ta.
     \normalLyrics
-    E l'au -- ra, ch'in -- di spi -- ra~e sì gra -- di -- ta
+    E l'au -- ra, ch'in -- di spi -- ra~è sì gra -- di -- ta
     Che di mil -- le tor -- men -- ti,
     Che di mil -- le tor -- men -- ti,
     Bra -- mo sen -- tir l'as -- sal -- to~in mez -- zo~al pet -- to

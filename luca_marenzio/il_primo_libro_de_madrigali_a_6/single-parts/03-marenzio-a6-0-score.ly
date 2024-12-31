@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,6 @@
     instrument = "Potrò viver io più (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-16"
@@ -34,7 +33,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoIIIincipitVoice
@@ -96,15 +97,16 @@
     \markup {
         \fill-line {
             \column {
+                % italian touched up: 2024-12-29
                 \line { Potrò viver io più se senza luce }
-                \line { Rimasto son e se altrove riluce }
-                \line { Del mio bel sol la sua lucente luce? }
+                \line { rimasto son e se altrove riluce }
+                \line { del mio bel sol la sua lucente luce? }
                 \line { Ahi, non fia ver, ma copri d'ogni interno }
-                \line { Oscure nubbi il giorno }
-                \line { E a me la luce cara }
-                \line { Di questa vita sia per sempre amara, }
-                \line { Finche d'un giorno più serena luce }
-                \line { Non meni a gli occhi miei la vera luce. }
+                \line { oscure nubbi il giorno }
+                \line { e a me la luce cara }
+                \line { di questa vita sia per sempre amara, }
+                \line { finché d'un giorno più serena luce }
+                \line { non meni agli occhi miei la vera Luce. }
             }
         }
     }

@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.21.1"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.0)
 
 \header {
     % Things that change per piece:
@@ -15,7 +15,6 @@
     instrument = "Come inanti (score)"
     needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-14"
@@ -34,7 +33,10 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
+
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoIincipitVoice
@@ -96,19 +98,21 @@
     \markup {
         \fill-line {
             \column {
+                % Italian touch-up: 2024-12-29
                 \line { Come inanti de l'alba ruggiadosa }
-                \line { La bella luce sua n'apporta Clori }
-                \line { E de più bei colori }
-                \line { Raccende il ciel con ogni parte ascosa, }
-                \line { Indi scoprendo il suo leggiadro viso, }
-                \line { Apre quanto de bel ha'l Paradiso.  }
+                \line { la bella luce sua n'apporta Clori }
+                \line { e de più bei colori }
+                \line { raccende il ciel con ogni parte ascosa, }
+                \line { indi scoprendo il suo leggiadro viso, }
+                \line { apre quanto de bel ha'l Paradiso.  }
             }
             \column {
+                % Italian touchup: 2024-12-29 (previous was poor)
                 \line { As at the breaking of the dewy dawn }
-                \line { Chloris brings her radiant light }
-                \line { and the most lovely colors }
-                \line { set alight the heavens, and every hidden part of it, }
-                \line { then, discovering her graceful face, }
+                \line { Clori brings forth her beautiful light }
+                \line { and with the most lovely colors }
+                \line { sets alight the heavens, and every hidden part of it, }
+                \line { then, uncovering her graceful visage, }
                 \line { reveals all the beauty of Paradise. }
                 \line { \hspace #10 \italic { translation by editor } } 
             }

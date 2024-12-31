@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
@@ -35,7 +35,7 @@
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
@@ -98,17 +98,18 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup: 2024-12-30
                 \line { Non è questa la mano }
-                \line { Che tante e sì mortali }
-                \line { Avvento nel mio cor fiammelle e strali? }
+                \line { che tante e sì mortali }
+                \line { avvento nel mio cor fiammelle e strali? }
                 \line { Ecco, ch'or pur si trova }
-                \line { Tra le mie man ristretta, }
-                \line { Nè forza od arte per fuggir le giova: }
-                \line { Nè tien face o saetta, }
-                \line { Che da me la difenda. }
+                \line { tra le mie man ristretta, }
+                \line { né forza od arte per fuggir le giova: }
+                \line { né tien face o saetta, }
+                \line { che da me la difenda. }
                 \line { Giusto è ben, ch'io ne prenda, }
-                \line { Amor qualche vendetta, }
-                \line { E se piaghe mi diè, baci le renda. }
+                \line { amor qualche vendetta, }
+                \line { e se piaghe mi diè, baci le renda. }
             }
         }
     }

@@ -1,10 +1,10 @@
-% Così questa, di cui canto gl’ honori
+% Così questa, di cui canto gl' honori
 % Esce, ed uscendo il cielo,
-% Scintillar fa de’ puri almi splendori  
-% A Vener’ e gl’Amori
+% Scintillar fa de' puri almi splendori  
+% A Vener' e gl'Amori
 % Rinforza forza e amoroso zelo.
 % Indi ogni oscuro velo
-% Ne sgombr’ intorno a l’alm’e al suo apparire,
+% Ne sgombr' intorno a l'alm'e al suo apparire,
 % Giacinti, gigli e rose fa fiorire.
 
 % Sometimes puri is primi above! Watch out
@@ -54,24 +54,24 @@ cantoLyricsII = \lyricmode {
     Co -- sì que -- sta, di cui can -- to gli~o -- no -- ri
         di cui can -- to gli~o -- no -- ri __
     E -- sce, ed u -- scen -- do~il cie -- lo,
-        ed u -- scen -- do~il cie -- lo,
+        ed u -- scen -- do~il cie -- lo
     Scin -- til -- lar fa __ 
-    A Ve -- ner’ e gli~A -- mo -- ri
+    A Ve -- ne -- r'e gli~A -- mo -- ri
     Scin -- til -- lar fa,
     \ijLyrics
     Scin -- til -- lar fa,
     \normalLyrics
     Scin -- til -- lar fa,
-    A Ve -- ner’ e gli~A -- mo -- ri
+    A Ve -- ne -- r'e gli~A -- mo -- ri
     Rin -- for -- za for -- za,
     Rin -- for -- za for -- za 
     In -- di~o -- gni~o -- scu -- ro ve -- lo
-    Ne sgom -- br’in -- tor -- no~a l’al -- ma 
-    Ne sgom -- br’in -- tor -- no~a l’al -- ma~e~al suo~ap -- pa -- ri -- re,
+    Ne sgom -- br'in -- tor -- no~a l'al -- ma 
+    Ne sgom -- br'in -- tor -- no~a l'al -- ma~e~al suo~ap -- pa -- ri -- re
     Gia -- cin -- ti, gi -- gli~e ro -- se % fa fio -- ri -- re,
     Gia -- cin -- ti, gi -- gli~e ro -- se fa fio -- ri -- re,
-        e~al suo~ap -- pa -- ri -- re, __
-        e ro -- se fa fio -- ri -- re.
+        e~al suo~ap -- pa -- ri -- re __
+        e ro -- se fa fio -- ri -- re,
             fa fio -- ri -- re.
 }
 
@@ -118,23 +118,23 @@ altoII = \relative c' {
 altoLyricsII = \lyricmode {
     Co -- sì que -- sta, di cui can -- to gli~o -- no -- ri
         di cui can -- to gli~o -- no -- ri 
-    E -- sce, ed u -- scen -- do~il cie -- lo,
+    E -- sce, ed u -- scen -- do~il cie -- lo
     Scin -- til -- lar fa,
     Scin -- til -- lar fa,
     \ijLyrics
     Scin -- til -- lar fa,
     \normalLyrics
-    A Ve -- ner’ e gli~A -- mo -- ri
+    A Ve -- ne -- r'e gli~A -- mo -- ri
         ed u -- scen -- do~il cie -- lo,
-        ed u -- scen -- do~il cie -- lo,
+        ed u -- scen -- do~il cie -- lo
     Scin -- til -- lar fa,
-    A Ve -- ner’ e gli~A -- mo -- ri
+    A Ve -- ne -- r'e gli~A -- mo -- ri
     Rin -- for -- za for -- za,
     Rin -- for -- za for -- za ed a -- mo -- ro -- so ze -- lo.
     In -- di~o -- gni~o -- scu -- ro ve -- lo
-        a l’al -- ma e~al suo ap-- pa -- rire,
+        a l'al -- ma e~al suo~ap -- pa -- ri -- re
     Gia -- cin -- ti, gi -- gli~e ro -- se fa fio -- ri -- re,
-        e~al suo~ap -- pa -- ri -- re,
+        e~al suo~ap -- pa -- ri -- re
     Gia -- cin -- ti, gi -- gli~e ro -- se fa fio -- ri -- re,
         fa fio -- ri -- re.
 }
@@ -185,18 +185,18 @@ tenoreLyricsII = \lyricmode {
     E -- sce,
         di cui can -- to gli~o -- no -- ri 
     E -- sce, ed u -- scen -- do~il cie -- lo,
-        ed u -- scen -- do~il cie -- lo,
-    Scin -- til -- lar fa de’ pri -- mi~al -- mi splen -- do -- ri
+        ed u -- scen -- do~il cie -- lo
+    Scin -- til -- lar fa de' pri -- mi~al -- mi splen -- do -- ri
     Scin -- til -- lar fa,
         ed u -- scen -- do~il cie -- lo,
-        ed u -- scen -- do~il cie -- lo,
-    Scin -- til -- lar fa de’ pu -- ri~al -- mi splen -- do -- ri
+        ed u -- scen -- do~il cie -- lo
+    Scin -- til -- lar fa de' pu -- ri~al -- mi splen -- do -- ri
     Rin -- for -- za for -- za ed a -- mo -- ro -- so ze -- lo.
     In -- di~o -- gni~o -- scu -- ro ve -- lo
-        a l’al -- ma,
-        a l’al -- ma~e~al suo~ap -- pa -- ri -- re,
+        a l'al -- ma,
+        a l'al -- ma~e~al suo~ap -- pa -- ri -- re
     Gia -- cin -- ti, gi -- gli~e ro -- se fa fio -- ri -- re,
-         e~al suo~ap -- pa -- ri -- re,
+         e~al suo~ap -- pa -- ri -- re
     Gia -- cin -- ti,  fa fio -- ri -- re,
             fa fio -- ri -- re.
 }
@@ -239,22 +239,22 @@ bassoII = \relative c {
 bassoLyricsII = \lyricmode {
     E -- sce, E -- sce,
         ed u -- scen -- do~il cie -- lo,
-        ed u -- scen -- do~il cie -- lo,
+        ed u -- scen -- do~il cie -- lo
     Scin -- til -- lar fa,
     \ijLyrics
     Scin -- til -- lar fa 
     \normalLyrics
-        de’ pri -- mi~al -- mi splen -- do -- ri
+        de' pri -- mi~al -- mi splen -- do -- ri
     Scin -- til -- lar fa,
     \ijLyrics
     Scin -- til -- lar fa,
     \normalLyrics
     Scin -- til -- lar fa 
-        de’ pu -- ri~al -- mi splen -- do -- ri
+        de' pu -- ri~al -- mi splen -- do -- ri
     Rin -- for -- za for -- za,
     Rin -- for -- za for -- za ed a -- mo -- ro -- so ze -- lo.
     In -- di~o -- gni~o -- scu -- ro ve -- lo
-    Ne sgom -- br’in -- tor -- no~a l’al -- ma e~al suo~ap -- pa -- ri -- re,
+    Ne sgom -- br'in -- tor -- no~a l'al -- ma e~al suo~ap -- pa -- ri -- re
     Gia -- cin -- ti, gi -- gli~e ro -- se fa fio -- ri -- re.
 }
 
@@ -303,20 +303,20 @@ quintoLyricsII = \lyricmode {
     E -- sce,
         di cui can -- to gli~o -- no -- ri 
     E -- sce, ed u -- scen -- do~il cie -- lo,
-        ed u -- scen -- do~il cie -- lo,
+        ed u -- scen -- do~il cie -- lo
     Scin -- til -- lar fa,
-    A Ve -- ner’ e gli~A -- mo -- ri
+    A Ve -- ne -- r'e gli~A -- mo -- ri
     Scin -- til -- lar fa,
     Scin -- til -- lar fa,
     \ijLyrics
     Scin -- til -- lar fa,
     \normalLyrics
-    A Ve -- ner’ e gli~A -- mo -- ri
+    A Ve -- ne -- r'e gli~A -- mo -- ri
     Rin -- for -- za for -- za,
     Rin -- for -- za for -- za ed a -- mo -- ro -- so ze -- lo.
     In -- di~o -- gni~o -- scu -- ro ve -- lo
-    Ne sgom -- br’in -- tor -- no~a l’al -- ma,
-    Ne sgom -- br’in -- tor -- no~a l’al -- ma~e~al suo~ap -- pa -- ri -- re,
+    Ne sgom -- br'in -- tor -- no~a l'al -- ma,
+    Ne sgom -- br'in -- tor -- no~a l'al -- ma~e~al suo~ap -- pa -- ri -- re
     Gia -- cin -- ti, gi -- gli~e ro -- se fa fio -- ri -- re,
     Gia -- cin -- ti, gi -- gli~e ro -- se fa fio -- ri -- re,
             fa fio -- ri -- re,
@@ -366,21 +366,21 @@ sestoLyricsII = \lyricmode {
     \ijLyrics
         ed u -- scen -- do~il cie -- lo,
     \normalLyrics
-        ed u -- scen -- do~il cie -- lo,
+        ed u -- scen -- do~il cie -- lo
     Scin -- til -- lar fa,
     Scin -- til -- lar fa,
-    Scin -- til -- lar fa de’ pu -- ri~al -- mi splen -- do -- ri
+    Scin -- til -- lar fa de' pu -- ri~al -- mi splen -- do -- ri
     Scin -- til -- lar fa,
     Scin -- til -- lar fa,
     \ijLyrics
     Scin -- til -- lar fa,
     Scin -- til -- lar fa,
     \normalLyrics
-        de’ pri -- mi~al -- mi splen -- do -- ri
+        de' pri -- mi~al -- mi splen -- do -- ri
     Rin -- for -- za for -- za,
     Rin -- for -- za for -- za,
     In -- di~o -- gni~o -- scu -- ro ve -- lo
-    Ne sgom -- br’in -- tor -- no~a l’al -- ma,
+    Ne sgom -- br'in -- tor -- no~a l'al -- ma,
     Gia -- cin -- ti, gi -- gli~e ro -- se,
     Gia -- cin -- ti, gi -- gli~e ro -- se fa fio -- ri -- re,
             fa fio -- ri -- re,

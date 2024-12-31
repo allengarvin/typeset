@@ -4,7 +4,7 @@
 % Aimè, che l'aspre doglie
 % E'l mio acerbo dolore
 % Mi fa misero e poi
-% Versar da gli occhi lassi
+% Versar da -- gli occhi lassi
 % Lagrime ch'a pietà movono i sassi. 
 
 cantoIIincipit = \relative c'' {
@@ -39,11 +39,11 @@ cantoLyricsII = \lyricmode {
     Ca -- ro dol -- ce mio ben chi mi vi to -- glie?
     Co -- me po -- trà gia -- mai que -- sto mio co -- re
     Vi -- ver sen -- za di vo -- i?
-    Ai -- mè, che l'a -- spre do -- glie,
+    Ahi -- mè, che l'a -- spre do -- glie,
         che l'a -- spre do -- glie
     E'l __ mio~a -- cer -- bo do -- lo -- re
     Mi fa mi -- ser e po -- i
-    Ver -- sar __  da gli~oc -- chi __ las -- si
+    Ver -- sar __  da -- gli~oc -- chi __ las -- si
     La -- gri -- me __ ch'a __ pie -- tà mo -- vo -- no~i sas -- si,
         ch'a pie -- tà,
         ch'a pie -- tà mo -- vo -- no,
@@ -84,10 +84,10 @@ altoLyricsII = \lyricmode {
     Ca -- ro dol -- ce mio ben __ chi mi vi to -- glie?
     Co -- me po -- trà gia -- mai que -- sto mio co -- re
     Vi -- ver sen -- za di vo -- i?
-    Ai -- mè, che l'a -- spre do -- glie,
+    Ahi -- mè, che l'a -- spre do -- glie,
     E'l __ mio~a -- cer -- bo do -- lo -- re
     Mi fa mi -- ser __ e po -- i
-    Ver -- sar __ da gli~oc -- chi las -- si
+    Ver -- sar __ da -- gli~oc -- chi las -- si
     La -- gri -- me ch'a pie -- tà mo -- vo -- no~i sas -- si,
         mo -- vo -- no~i sas -- si,
         ch'a pie -- tà mo -- vo -- no~i sas -- si,
@@ -127,7 +127,7 @@ tenoreLyricsII = \lyricmode {
     Ca -- ro dol -- ce mio ben chi mi vi to -- glie?
     Co -- me po -- trà gia -- mai que -- sto mio co -- re
     Vi -- ver sen -- za di vo -- i?
-    Ai -- mè, che l'a -- spre do -- glie,
+    Ahi -- mè, che l'a -- spre do -- glie,
     E'l __ mio~a -- cer -- bo do -- lo -- re
     Mi fa mi -- ser e po -- i
     Ver -- sar __ da __ gli~oc -- chi las -- si
@@ -168,11 +168,11 @@ bassoLyricsII = \lyricmode {
     Ca -- ro dol -- ce mio ben,
     Co -- me po -- trà gia -- mai que -- sto mio co -- re
     Vi -- ver sen -- za di vo -- i?
-    Ai -- mè,
-    Ai -- mè, che l'a -- spre do -- glie,
+    Ahi -- mè,
+    Ahi -- mè, che l'a -- spre do -- glie,
     E'l mio~a -- cer -- bo do -- lo -- re
     Mi fa mi -- ser e po -- i
-    Ver -- sar __ da gli~oc -- chi las -- si
+    Ver -- sar __ da -- gli~oc -- chi las -- si
     La -- gri -- me ch'a pie -- tà,
         ch'a __ pie -- tà mo -- vo -- no~i sas -- si,
         ch'a __ pie -- tà mo -- vo -- no~i sas -- si,
@@ -211,11 +211,11 @@ quintoII = \relative c' {
 quintoLyricsII = \lyricmode {
         Chi mi vi to -- glie?
     Co -- me po -- trà gia -- mai que -- sto mio co -- re
-    Ai -- mè, che l'a -- spre do -- glie,
+    Ahi -- mè, che l'a -- spre do -- glie,
         che l'a -- spre do -- glie
     E'l __ mio~a -- cer -- bo do -- lo -- re
     Mi fa mi -- ser e po -- i
-    Ver -- sar __ da gli~oc -- chi las -- si
+    Ver -- sar __ da -- gli~oc -- chi las -- si
     La -- gri -- me ch'a __ pie -- tà,
         ch'a pie -- tà mo -- vo -- no~i sas -- si,
             mo -- vo -- no~i sas -- si,

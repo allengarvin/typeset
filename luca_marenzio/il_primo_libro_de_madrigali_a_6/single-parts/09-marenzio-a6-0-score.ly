@@ -6,15 +6,14 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 18.2)
+#(set-global-staff-size 17.5)
 
 \header {
     % Things that change per piece:
     title = "Nel più fiorito Aprile"
     instrument = "Nel più fiorito Aprile (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-07-18"
@@ -23,6 +22,9 @@
     final = "c"
     shorttitle = "nel_piu_fiorito_aprile"
     categories = "[madrigal]"
+    poeticform = "madrigal"
+    rhyme = "abbACC"
+    motifs = "[pastoral,spring,april,birds,song,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -34,7 +36,9 @@
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoIXincipitVoice
@@ -96,12 +100,23 @@
     \markup {
         \fill-line {
             \column {
+                % Italian touch: 2024-12-30 (little needed)
                 \line { Nel più fiorito Aprile }
-                \line { Allor che i vaghi augelli, }
-                \line { Di sopra gli arboscelli }
-                \line { Cantano in vario suon dolce e gentile, }
-                \line { A gara anco con lor cantava Clori, }
-                \line { Di lei e del suo Elpin i dolci amori. }
+                \line { allor che i vaghi augelli, }
+                \line { di sopra gli arboscelli }
+                \line { cantano in vario suon dolce e gentile, }
+                \line { a gara anco con lor cantava Clori, }
+                \line { di lei e del suo Elpin i dolci amori. }
+            }
+            \column {
+                % translation: 2024-12-30
+                \line { Midst April's fullest flowering, }
+                \line { when the charming birds }
+                \line { among the treetops }
+                \line { sing in various tones, dulcet and gentle, }
+                \line { Clori too sang, vying in harmony with them, }
+                \line { of the sweet love of her and her Elpin. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }
