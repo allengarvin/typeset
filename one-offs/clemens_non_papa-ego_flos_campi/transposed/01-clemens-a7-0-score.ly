@@ -6,35 +6,39 @@
 \include "../include/macros.ly"
 \include "../include/scheme.ly"
 
-#(set-global-staff-size 16.0)
+#(set-global-staff-size 16.5)
 
 \header {
     % Things that change per piece:
     title = "Ego flos campi"
+    language = "latin"
     instrument = "Ego flos campi (score)"
-    folio = "Transposed"
 
     % Unchanging:
-    lastupdated = "2013-06-20"
+    originallyset = "2015-01-09"
+    lastupdated = "2015-01-09"
+    flats = 1
+    final = "c"
+    shorttitle = "ego_flos_campi"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/01-ego_flos_campi.ly"
+\include "../parts/01-clemens-a7-motet.ly"
 
 \book {
-    \bookOutputName "01-ego_flos_campi-transposed"
-    \bookOutputSuffix "--0-score"
+    \bookOutputName "01-clemens--ego_flos_campi"
+    \bookOutputSuffix "-transposed--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.0
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Superius"
                     \incipit \superiusIincipitVoice
                     \clef treble
-                    \global\transpose f af
+                    \global\transpose c d
                     \superiusI
                 >>
                 \addlyrics { \superiusLyricsI }
@@ -42,7 +46,7 @@
                     \set Staff.instrumentName = #"Quinta Pars"
                     \incipit \quintaParsIincipitVoice
                     \clef "treble"
-                    \global\transpose f af
+                    \global\transpose c d
                     \quintaParsI
                 >>
                 \addlyrics { \quintaParsLyricsI }
@@ -50,7 +54,7 @@
                     \set Staff.instrumentName = #"Altus"
                     \incipit \altusIincipitVoice
                     \clef "treble"
-                    \global\transpose f af
+                    \global\transpose c d
                     \altusI
                 >>
                 \addlyrics { \altusLyricsI }
@@ -58,7 +62,7 @@
                     \set Staff.instrumentName = #"Tenor"
                     \incipit \tenorIincipitVoice
                     \clef "treble_8"
-                    \global\transpose f af
+                    \global\transpose c d
                     \tenorI
                 >>
                 \addlyrics { \tenorLyricsI }
@@ -66,26 +70,26 @@
                     \set Staff.instrumentName = #"Sexta Pars"
                     \incipit \sextaParsIincipitVoice
                     \clef "treble_8"
-                    \global\transpose f af
+                    \global\transpose c d
                     \sextaParsI
                 >>
                 \addlyrics { \sextaParsLyricsI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus I"
-                    \incipit \bassusTwoIincipitVoice
-                    \clef bass
-                    \global\transpose f af
-                    \bassusTwoI
-                >>
-                \addlyrics { \bassusTwoLyricsI }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Bassus II"
                     \incipit \bassusOneIincipitVoice
                     \clef "bass"
-                    \global\transpose f af
+                    \global\transpose c d
                     \bassusOneI
                 >>
                 \addlyrics { \bassusOneLyricsI }
+                \new Voice <<
+                    \set Staff.instrumentName = #"bassus II"
+                    \incipit \bassusTwoIincipitVoice
+                    \clef bass
+                    \global\transpose c d
+                    \bassusTwoI
+                >>
+                \addlyrics { \bassusTwoLyricsI }
             >>
         >>
         \include "../include/vocal-layout-score.ly"

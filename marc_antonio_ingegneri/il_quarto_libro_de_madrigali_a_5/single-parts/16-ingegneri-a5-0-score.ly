@@ -24,7 +24,7 @@
     shortcomp = "ingegneri"
     categories = "[madrigal]"
     motifs = "[virgin-mary,divine-aid,army,arms,weapons]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Remigio Nannini (c.1518-1581)"
 
     % Unchanging:

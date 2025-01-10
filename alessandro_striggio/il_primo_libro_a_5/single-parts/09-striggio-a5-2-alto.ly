@@ -9,7 +9,7 @@
 
 \header {
     % Things that change per piece:
-    title = "O sopra l'altre aventurosa etate"
+    title = "O sopra l'altre avventurosa etate"
     subtitle = "Terza parte"
     folio = "Girolamo Parabosco (1524-1557)"
 

@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "O doloroso sorte"
     instrument = "O doloroso sorte (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

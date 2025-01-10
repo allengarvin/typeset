@@ -24,7 +24,7 @@
     composer = "Luca Marenzio (c.1553-1599)"
     categories = "[madrigal,favorite,animal]"
     motifs = "[pastoral,dancing,swan,nymph,shepherd,bird]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

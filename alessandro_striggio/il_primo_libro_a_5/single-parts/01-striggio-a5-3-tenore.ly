@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "O de la bella Etruria invitto Duce"
     subtitle = "Prima parte"
-    folio = "Anonymous poet"
 
 
     % Things that change per part:

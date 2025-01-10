@@ -6,7 +6,7 @@
 \include "../include/macros.ly"
 \include "../include/scheme.ly"
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,6 @@
     instrument = "Da le belle contrade d'oriente (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous sonnet"
 
     % Unchanging:
     originallyset = "2013-12-05"
@@ -23,6 +22,7 @@
     final = "f"
     shorttitle = "da_le_belle_contrade_d_oriente"
     categories = "[madrigal]"
+    motifs = "[amore,parting,sorrow,east,ivy,acanthus,embrace]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -90,20 +90,39 @@
     \markup {
         \fill-line {
             \column {
-                \line { Da le belle contrade d'oriente } 
-                \line { Chiare e lieta s'ergea Ciprigna, ed io } 
-                \line { Fruiva in braccio al divin idol mio } 
-                \line { Quel piacer che non cape humana mente, } 
-                \line { Quando sentii dopo un sospir ardente: } 
-                \line { Speranza del mio cor, dolce desio, } 
-                \line { T'en vai, haime, sola mi lasci addio. } 
+                % italian touched up (lot of changes): 2025-01-06
+                \line { Dalle belle contrade d'oriente } 
+                \line { chiare e lieta s'ergea Ciprigna, ed io } 
+                \line { fruiva in braccio al divin idol mio } 
+                \line { quel piacer che non cape umana mente, } 
+                \line { quando sentii dopo un sospir ardente: } 
+                \line { «Speranza del mio cor, dolce desio, } 
+                \line { te'n' vai, ahimè, sola mi lasci, addio! } 
                 \line { Che sarà qui di me scura e dolente? } 
-                \line { Ahi crudo Amor, ben son dubiose e corte } 
-                \line { Le tue dolcezze, poi ch'ancor ti godi } 
-                \line { Che l'estremo piacer finisca in pianto. } 
-                \line { Nè potendo dir più, cinseme forte, } 
-                \line { Iterando gl'amplessi in tanti nodi, } 
-                \line { Che giammai ne fer più l'Edra o l'Acanto. } 
+                \line { Ahi, crudo Amor, ben son dubbiose e corte } 
+                \line { le tue dolcezze, poiché ancor ti godi } 
+                \line { che l'estremo piacer finisca in pianto.» } 
+                \line { Né potendo dir più, cinseme forte, } 
+                \line { iterando gli amplessi in tanti nodi } 
+                \line { che giammai ne fer più l'Edra o l'Acanto. } 
+            }
+            \column {
+                % translation: 2025-01-06
+                \line { From the beautiful domains of the east, }
+                \line { bright and joyful rose Venus, and I }
+                \line { enjoyed, in the arms of my divine idol, }
+                \line { that pleasure which no human mind may comprehend, }
+                \line { when I heard after a passionate sigh: }
+                \line { 'Hope of my heart, O sweet desire, }
+                \line { you depart, alas, leaving me alone, adieu! }
+                \line { What shall become of me, gloomy and doleful? }
+                \line { Ah! cruel Love, how fleeting and hesitant are }
+                \line { your sweet endearments, since you even take joy }
+                \line { that this great pleasure ends in tears.' }
+                \line { Unable to speak further, she held me tightly, }
+                \line { renewing her embraces in so many entwinings }
+                \line { than ever were woven by Ivy nor Acanthus.  }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

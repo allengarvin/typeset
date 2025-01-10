@@ -42,12 +42,12 @@ superiusLyricsX = \lyricmode {
 }
 
 superiusLyricsModernX = \lyricmode {
-    La ver -- gin -- el -- la è si -- mi -- le al -- la ro -- sa
-    Ch'in bel giar -- din su la na -- ti -- va Spi -- na.
+    La ver -- gin -- el -- la è __ si -- mi -- le al -- la ro -- sa
+    Ch'in bel giar -- din su la na -- ti -- va Spi -- na. __
     Men -- tre so -- la e si -- cu -- ra si ri -- po -- sa.
     Ne greg -- ge ne pa -- stor se le a -- vi -- ci -- na 
     L'au -- ra so -- a -- ve e l'al -- ba ru -- gi -- a -- do -- sa
-    L'a -- qua la ter -- ra al su -- o fa -- vor S'in -- chi -- na
+    L'a -- qua la ter -- ra al su -- o fa -- vor s'in -- chi -- na
     Gio -- ve -- ni va -- ghi e don -- ne in -- a -- mo -- ra -- te. 
     A -- ma -- no ha -- ver -- ne e se -- ni e tem -- pi -- e or -- na -- te
     Gio -- ve -- ni va -- ghi e don -- ne im -- a -- mor -- a -- te. 

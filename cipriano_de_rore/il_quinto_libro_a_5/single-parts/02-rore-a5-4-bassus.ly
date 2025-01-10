@@ -12,7 +12,6 @@
 \header {
     % Things that change per piece:
     title = "Da le belle contrade d'oriente"
-    folio = "Anonymous sonnet"
 
     % Things that change per part:
     partname = "Basso (part 5 of 5)"

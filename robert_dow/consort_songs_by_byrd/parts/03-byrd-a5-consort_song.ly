@@ -1,5 +1,5 @@
 superiusIIIincipit = \relative c'' {
-    \time 3/8
+    \time 3/4
     \clef "petrucci-g"
     \key c \major
 
@@ -26,7 +26,7 @@ superiusIII = \relative c'' {
 superiusLyricsIII = \lyricmode {
     Though A -- ma -- ryl -- lis dance in grene 
         like fai -- ry quene,
-        and sing full clere
+        and sing full __ clere
     Co -- rin -- na can with smi -- ling chere:
     yet sith their eies make hart so __ sour
     Hey ho chill love no more,
@@ -43,7 +43,7 @@ superiusLyricsIII = \lyricmode {
 superiusLyricsModernIII = \lyricmode {
     Though A -- ma -- ryl -- lis dance in green,
         like fai -- ry queen,
-        and sing full clear,
+        and sing full __ clear,
     Co -- rin -- na can with smi -- ling cheer:
     yet since their eyes make heart so __ sore
     Hey ho chill love no more,
@@ -58,7 +58,7 @@ superiusLyricsModernIII = \lyricmode {
 }
 
 mediusIIIincipit = \relative c'' { 
-    \time 3/8
+    \time 3/4
     \clef "petrucci-c2"
     \key c \major
 
@@ -82,7 +82,7 @@ mediusIII = \relative c'' {
 }
 
 contraIIIincipit = \relative c' {
-    \time 3/8
+    \time 3/4
     \key c \major
     \clef "petrucci-c2"
 
@@ -107,7 +107,7 @@ contraIII = \relative c' {
 }
 
 tenorIIIincipit = \relative c' {
-    \time 3/8
+    \time 3/4
     \key c \major
     \clef "petrucci-c3"
 
@@ -126,12 +126,12 @@ tenorIII = \relative c' {
         r2 r d' | b4 g c2 a | g r d' | b4 g c2 a |
     g a d, | g r r4 g' ~ | g e4 d4. c8 b[ a] b4 | c2 a4 c2 b4 | c1 g2 | 
         r2 c d4 c ~ | c b8[ c] d[ b] e4 d2 | c1 f,2 | a4 c2 b8[ a] b2 | 
-        c g1\fermata
+        c2 g\longa*1/4\fermata
     \bar "|."
 }
 
 bassusIIIincipit = \relative c {
-    \time 3/8
+    \time 3/4
     \key c \major
     \clef "petrucci-c5"
 

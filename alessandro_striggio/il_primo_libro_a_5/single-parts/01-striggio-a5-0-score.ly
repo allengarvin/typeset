@@ -15,7 +15,6 @@
     instrument = "O de la bella Etruria (score)"
     needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-06-13"

@@ -1,0 +1,63 @@
+\version "2.22.1"
+\include "english.ly"
+
+% Invocation: /usr/local/bin/generate-single.py -t "Un'altra volta la Germania strida" -m 112 -l italian -v -p sonnet 01-rore-a4-0-score.ly canto:t alto:t8a tenore:8a basso:b
+\include "../include/paper-1-part.ly" 
+\include "../include/global-parts.ly" 
+\include "../include/macros.ly" 
+\include "../include/scheme.ly" 
+\include "../include/vocal-layout-parts-barring.ly"
+
+\header {
+    lastupdated = "2025-01-06"
+    originallyset = "2025-01-06"
+    \include "include/distribution-header.ly"
+ 
+    % Things that change per piece:
+    title = "Un'altra volta la Germania strida"
+    subtitle = ""
+    subsubtitle = ""
+    instrument = "Un'altra volta la Germania strida:  (tenore)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "unaltra_volta_la_germania_strida"
+    shortcomp = "rore"
+
+    % Things that change per part:
+    partname = "Tenore (part 3 of 4)"
+    instrument = "Un'altra volta la Germania strida:  (tenore)"
+
+    % Unchanging:
+    tagline = #'f
+}
+
+\include "../parts/01-rore-a4-madrigal.ly"
+
+\book {
+    \bookOutputName "01-rore--unaltra_volta_la_germania_strida-"
+    \bookOutputSuffix "--3-tenore--tr8_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenoreI
+        >>
+                \addlyrics { \tenoreLyricsI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "01-rore--unaltra_volta_la_germania_strida-"
+    \bookOutputSuffix "--3-tenore--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenoreI
+        >>
+                \addlyrics { \tenoreLyricsI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

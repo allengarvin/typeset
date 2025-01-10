@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Una celeste Nube fu'l mio sole"
     subtitle = "Seconda parte"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Basso (part 5 of 5)"

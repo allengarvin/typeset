@@ -15,7 +15,6 @@
     instrument = "Ecco, ch'ei giunge a noi (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-06-27"

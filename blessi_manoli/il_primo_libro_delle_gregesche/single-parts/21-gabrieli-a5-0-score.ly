@@ -15,7 +15,7 @@
     folio = "Antonio Molino"
     composer = "Andrea Gabrieli (1533-1585)"
     instrument = "E vu fiumi chie (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

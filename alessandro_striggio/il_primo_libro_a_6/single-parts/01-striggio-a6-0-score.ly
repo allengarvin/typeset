@@ -26,7 +26,7 @@
     categories = "[madrigal]"
     repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F118840001010101_000000233500"
     poeticform = "sonnet"
-    motifs = "[hills]"
+    motifs = "[hills,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

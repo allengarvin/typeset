@@ -15,7 +15,6 @@
     instrument = "Ché questi (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-06-27"

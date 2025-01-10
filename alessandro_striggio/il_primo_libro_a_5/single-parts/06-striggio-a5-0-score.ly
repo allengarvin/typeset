@@ -14,7 +14,6 @@
     instrument = "Caro dolce ben mio (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-06-13"

@@ -57,25 +57,25 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    Da le bel -- le con -- tra -- de d'o -- ri -- en -- te
+    Dal -- le bel -- le con -- tra -- de d'o -- ri -- en -- te
     Chia -- re~e lie -- ta s'er -- gea Ci -- pri -- gna, ed i -- o
     Fru -- i -- va~in brac -- cio~al di -- vin i -- dol mi -- o
-    Quel __ pia -- cer che non ca -- pe~hu -- ma -- na men -- te,
+    Quel __ pia -- cer che non ca -- pe~u -- ma -- na men -- te,
 
     % Quando sentii dopo un sospir ardente:
     Spe -- ran -- za del mio cor, dol -- ce de -- si -- o,
-    T'en vai, hai -- me, so -- la mi la -- sci ad -- di -- o.
+    Te'n' vai, ahi -- mè, so -- la mi la -- sci ad -- di -- o!
     Che sa -- rà qui di me scu -- ra~e do -- len -- te?
 
     Ahi __ cru -- do~A -- mor, 
-    Ahi __ cru -- do~A -- mor, ben son du -- bio -- se~e cor -- te
-    Le tue dol -- cez -- ze, poi ch'an -- cor __ ti go -- di
+    Ahi __ cru -- do~A -- mor, ben son dub -- bio -- se~e cor -- te
+    Le tue dol -- cez -- ze, poi -- ch'an -- cor __ ti go -- di
     Che __ l'e -- stre -- mo pia -- cer fi -- ni -- sca~in pian -- to.
     
-    Nè po -- ten -- do dir più, cin -- se -- me for -- te,
+    Né po -- ten -- do dir più, cin -- se -- me for -- te,
         cin -- se -- me for -- te,
-    I -- te -- ran -- do gl'am -- ples -- si,
-    I -- te -- ran -- do gl'am -- ples -- si~in tan -- ti no -- di,
+    I -- te -- ran -- do gli~am -- ples -- si,
+    I -- te -- ran -- do gli~am -- ples -- si~in tan -- ti no -- di,
     Che giam -- mai ne fer più,
     Che giam -- mai ne fer più l'E -- dra~o l'A -- can -- to,
     Che giam -- mai ne fer più l'E -- dra~o l'A -- can -- to.
@@ -122,30 +122,30 @@ altoII = \relative c' {
 }
 
 altoLyricsII = \lyricmode {
-    Da le bel -- le con -- tra -- de d'o -- ri -- en -- te
+    Dal -- le bel -- le con -- tra -- de d'o -- ri -- en -- te
     Chia -- re~e lie -- ta s'er -- gea __ Ci -- pri -- gna, ed i -- o
     Fru -- i -- va~in brac -- cio al di -- vin i -- dol mi -- o
-    Quel pia -- cer che non ca -- pe~hu -- ma -- na men -- te,
+    Quel pia -- cer che non ca -- pe~u -- ma -- na men -- te,
 
     Quan -- do sen -- ti do -- po~un so -- spir ar -- den -- tie:
     Spe -- ran -- za del mio cor, dol -- ce de -- si -- o,
-    T'en vai, hai -- me, 
-    T'en vai, hai -- me, ad -- di -- o.
+    Te'n' vai, ahi -- mè, 
+    Te'n' vai, ahi -- mè, ad -- di -- o!
     Che sa -- rà qui di me scu -- ra~e do -- len -- te?
 
     Ahi __ cru -- do~A -- mor, 
     \ijLyrics
     Ahi cru -- do~A -- mor, 
     \normalLyrics
-        ben son du -- bio -- se~e cor -- te
-    Le tue dol -- cez -- ze, poi ch'an -- cor __ ti go -- di
+        ben son dub -- bio -- se~e cor -- te
+    Le tue dol -- cez -- ze, poi -- ch'an -- cor __ ti go -- di
     Che l'e -- stre -- mo pia -- cer fi -- ni -- sca~in pian -- to.
     
-    Nè po -- ten -- do dir più, 
-    Nè po -- ten -- do dir più, cin -- se -- me for -- te,
+    Né po -- ten -- do dir più, 
+    Né po -- ten -- do dir più, cin -- se -- me for -- te,
         cin -- se -- me for -- te,
-    I -- te -- ran -- do gl'am -- ples -- si,
-    I -- te -- ran -- do gl'am -- ples -- si~in tan -- ti no -- di,
+    I -- te -- ran -- do gli~am -- ples -- si,
+    I -- te -- ran -- do gli~am -- ples -- si~in tan -- ti no -- di,
     Che giam -- mai ne fer più,
     \ijLyrics
     Che giam -- mai ne fer più 
@@ -198,25 +198,25 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
-    Da le bel -- le con -- tra -- de d'o -- ri -- en -- te
+    Dal -- le bel -- le con -- tra -- de d'o -- ri -- en -- te
     Chia -- re~e lie -- ta s'er -- gea __ Ci -- pri -- gna, ed i -- o
     Fru -- i -- va~in brac -- cio,
     Fru -- i -- va~in brac -- cio~al di -- vin i -- dol mi -- o
-    Quel __ pia -- cer che non ca -- pe~hu -- ma -- na men -- te,
+    Quel __ pia -- cer che non ca -- pe~u -- ma -- na men -- te,
 
     Quan -- do sen -- ti do -- po~un so -- spir ar -- den -- tie:
     Spe -- ran -- za del mio cor, dol -- ce de -- si -- o,
-    T'en vai, hai -- me,  ad -- di -- o.
+    Te'n' vai, ahi -- mè,  ad -- di -- o!
     Che sa -- rà qui di me scu -- ra~e do -- len -- te?
 
     Ahi __ cru -- do~A -- mor, 
-    Ahi cru -- do~A -- mor, ben son du -- bio -- se~e cor -- te
-    Le tue dol -- cez -- ze, poi ch'an -- cor ti go -- di
+    Ahi cru -- do~A -- mor, ben son dub -- bio -- se~e cor -- te
+    Le tue dol -- cez -- ze, poi -- ch'an -- cor ti go -- di
     Che l'e -- stre -- mo pia -- cer fi -- ni -- sca~in pian -- to.
     
-    Nè po -- ten -- do dir più, cin -- se -- me for -- te,
+    Né po -- ten -- do dir più, cin -- se -- me for -- te,
         cin -- se -- me for -- te,
-    I -- te -- ran -- do gl'am -- ples -- si~in tan -- ti no -- di,
+    I -- te -- ran -- do gli~am -- ples -- si~in tan -- ti no -- di,
         in tan -- ti no -- di,
     Che __ giam -- mai ne __ fer più l'E -- dra~o l'A -- can -- to, __
     Che giam -- mai ne fer più l'E -- dra~o l'A -- can -- to.
@@ -262,26 +262,26 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
-    Da le bel -- le con -- tra -- de d'o -- ri -- en -- te
+    Dal -- le bel -- le con -- tra -- de d'o -- ri -- en -- te
     Chia -- re~e lie -- ta s'er -- gea __ Ci -- pri -- gna, ed i -- o
     Fru -- i -- va~in brac -- cio,
     Fru -- i -- va~in brac -- cio~al di -- vin i -- dol mi -- o
-    Quel pia -- cer che __ non ca -- pe~hu -- ma -- na men -- te,
+    Quel pia -- cer che __ non ca -- pe~u -- ma -- na men -- te,
 
     Quan -- do sen -- ti do -- po~un so -- spir ar -- den -- tie:
     Spe -- ran -- za del mio cor, dol -- ce de -- si -- o,
-    T'en vai, hai -- me, 
-        hai -- me, ad -- di -- o.
+    Te'n' vai, ahi -- mè, 
+        ahi -- mè, ad -- di -- o!
 
-    Ahi __ cru -- do~A -- mor, ben son du -- bio -- se~e cor -- te
-    Le tue dol -- cez -- ze, poi ch'an -- cor __ ti go -- di
+    Ahi __ cru -- do~A -- mor, ben son dub -- bio -- se~e cor -- te
+    Le tue dol -- cez -- ze, poi -- ch'an -- cor __ ti go -- di
     Che l'e -- stre -- mo pia -- cer fi -- ni -- sca~in pian -- to.
     
-    Nè __ po -- ten -- do dir più, 
-    Nè po -- ten -- do dir più, cin -- se -- me for -- te,
+    Né __ po -- ten -- do dir più, 
+    Né po -- ten -- do dir più, cin -- se -- me for -- te,
         cin -- se -- me for -- te,
-    I -- te -- ran -- do gl'am -- ples -- si,
-    I -- te -- ran -- do gl'am -- ples -- si~in tan -- ti no -- di,
+    I -- te -- ran -- do gli~am -- ples -- si,
+    I -- te -- ran -- do gli~am -- ples -- si~in tan -- ti no -- di,
     Che giam -- mai ne fer più l'E -- dra~o __ l'A -- can -- to,
         l'E -- dra~o l'A -- can -- to,
     Che giam -- mai ne fer più l'E -- dra~o __ l'A -- can -- to.
@@ -327,21 +327,21 @@ quintoLyricsII = \lyricmode {
     Chia -- re~e lie -- ta s'er -- gea Ci -- pri -- gna, ed i -- o
     Fru -- i -- va~in brac -- cio,
     Fru -- i -- va~in brac -- cio~al di -- vin i -- dol mi -- o
-    Quel pia -- cer che non ca -- pe~hu -- ma -- na men -- te,
+    Quel pia -- cer che non ca -- pe~u -- ma -- na men -- te,
 
     Quan -- do sen -- ti do -- po~un so -- spir ar -- den -- tie:
     Spe -- ran -- za del mio cor, 
-    T'en vai, hai -- me, ad -- di -- o.
+    Te'n' vai, ahi -- mè, ad -- di -- o!
     Che sa -- rà qui di me scu -- ra~e do -- len -- te?
 
     Ahi __ cru -- do~A -- mor, 
     Che l'e -- stre -- mo pia -- cer fi -- ni -- sca~in pian -- to.
     
-    Nè po -- ten -- do dir più, cin -- se -- me for -- te,
+    Né po -- ten -- do dir più, cin -- se -- me for -- te,
         cin -- se -- me for -- te,
-    I -- te -- ran -- do gl'am -- ples -- si~in tan -- ti no -- di,
+    I -- te -- ran -- do gli~am -- ples -- si~in tan -- ti no -- di,
         in tan -- ti no -- di,
-    I -- te -- ran -- do gl'am -- ples -- si~in tan -- ti no -- di,
+    I -- te -- ran -- do gli~am -- ples -- si~in tan -- ti no -- di,
     Che __ giam -- mai ne fer più,
     Che giam -- mai ne fer più l'E -- dra~o l'A -- can -- to,
     Che __ giam -- mai ne __ fer più l'E -- dra~o l'A -- can -- to.

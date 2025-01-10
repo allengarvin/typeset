@@ -15,7 +15,6 @@
     instrument = "Torbido il Mincio core (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-09-13"

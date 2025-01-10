@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Donna felice e bella"
     subtitle = "Prima parte"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Quinto (part 4 of 5)"

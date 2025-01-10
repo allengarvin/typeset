@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Torbido il Mincio corre e piange il mondo"
     subtitle = "Prima parte"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Canto (part 1 of 5)"

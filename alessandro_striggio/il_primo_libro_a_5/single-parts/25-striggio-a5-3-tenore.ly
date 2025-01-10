@@ -10,7 +10,6 @@
 \header {
     % Things that change per piece:
     title = "Miser' ahimè chi potrà più allegrarmi"
-    folio = "Anonymous poet"
 
 
     % Things that change per part:

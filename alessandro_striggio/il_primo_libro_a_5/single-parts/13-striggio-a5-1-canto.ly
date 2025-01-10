@@ -12,7 +12,6 @@
     % Things that change per piece:
     title = "Or mentre il bel pianeta"
     subtitle = "Quarta parte"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Canto (part 1 of 5)"

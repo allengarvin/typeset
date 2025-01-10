@@ -12,7 +12,6 @@
     title = "Che deggio far"
     subtitle = ""
     instrument = "Che deggio far:  (alto)"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Alto (part 2 of 5)"

@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "O sopra l'altre aventurosa etate"
+    title = "O sopra l'altre avventurosa etate"
     subtitle = "Terza parte"
     instrument = "O sopra l'altre (score)"
     needtranslation = #'t
@@ -91,7 +91,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { O sopra l'altre aventurosa etate, }
+                \line { O sopra l'altre avventurosa etate, }
                 \line { O d'eterne richezz' adorn'e bella, }
                 \line { Castissima Isabella }
                 \line { Da cui sola depende }

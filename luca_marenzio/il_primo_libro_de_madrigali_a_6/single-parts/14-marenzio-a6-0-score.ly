@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Cantate, Ninfe leggiadrette e belle"
     instrument = "Cantate, Ninfe (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

@@ -15,7 +15,6 @@
     instrument = "Una celeste Nube (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-09-13"

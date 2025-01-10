@@ -10,11 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Notte felice, aventurosa e bella"
+    title = "Notte felice, avventurosa e bella"
     instrument = "Notte felice (score)"
     needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-06-22"

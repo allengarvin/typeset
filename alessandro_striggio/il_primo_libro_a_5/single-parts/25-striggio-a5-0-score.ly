@@ -13,7 +13,6 @@
     title = "Miser' ahimè chi potrà più allegrarmi"
     language = "italian"
     instrument = "Miser' ahimè chi potrà (score)"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2016-04-17"

@@ -15,7 +15,6 @@
     instrument = "Che deggio far:  (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     lastupdated = "2019-03-02"

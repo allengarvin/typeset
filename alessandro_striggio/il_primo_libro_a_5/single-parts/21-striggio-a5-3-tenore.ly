@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Se ne la mente mia"
     subtitle = "Seconda parte"
-    folio = "Anonymous poet"
 
 
     % Things that change per part:

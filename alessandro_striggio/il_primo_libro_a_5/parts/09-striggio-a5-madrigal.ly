@@ -41,9 +41,9 @@ cantoIX = \relative c'' {
 }
 
 cantoLyricsIX = \lyricmode {
-    O so -- pra l'al -- tre a -- ven -- tu -- ro -- so~e -- ta -- te,
-        a -- ven -- tu -- ro -- so~e -- ta -- te,
-        a -- ven -- tu -- ro -- so~e -- ta -- te,
+    O so -- pra l'al -- tre av -- ven -- tu -- ro -- so~e -- ta -- te,
+        av -- ven -- tu -- ro -- so~e -- ta -- te,
+        av -- ven -- tu -- ro -- so~e -- ta -- te,
     O d'e -- ter -- ne ri -- chez -- z'a -- dor -- n'e bel -- la,
     Ca -- stis -- si -- ma,
     Ca -- stis -- si -- ma~I -- sa -- bel -- la,
@@ -108,8 +108,8 @@ altoIX = \relative c' {
 }
 
 altoLyricsIX = \lyricmode {
-    O so -- pra l'al -- tre a -- ven -- tu -- ro -- so~e -- ta -- te,
-        a -- ven -- tu -- ro -- so~e -- ta -- te,
+    O so -- pra l'al -- tre av -- ven -- tu -- ro -- so~e -- ta -- te,
+        av -- ven -- tu -- ro -- so~e -- ta -- te,
     O __ d'e -- ter -- ne ri -- chez -- z'a -- dor -- n'e bel -- la,
     Ca -- stis -- si -- ma~I -- sa -- bel -- la,
     Ca -- stis -- si -- ma,
@@ -172,9 +172,9 @@ tenoreIX = \relative c' {
 }
 
 tenoreLyricsIX = \lyricmode {
-    O so -- pra l'al -- tre a -- ven -- tu -- ro -- so~e -- ta -- te,
-        a -- ven -- tu -- ro -- so~e -- ta -- te,
-        a -- ven -- tu -- ro -- so~e -- ta -- te,
+    O so -- pra l'al -- tre av -- ven -- tu -- ro -- so~e -- ta -- te,
+        av -- ven -- tu -- ro -- so~e -- ta -- te,
+        av -- ven -- tu -- ro -- so~e -- ta -- te,
     O d'e -- ter -- ne ri -- chez -- z'a -- dor -- n'e bel -- la,
     Ca -- stis -- si -- ma,
     Ca -- stis -- si -- ma~I -- sa -- bel -- la,
@@ -238,9 +238,9 @@ bassoIX = \relative c, {
 }
 
 bassoLyricsIX = \lyricmode {
-    O so -- pra l'al -- tre a -- ven -- tu -- ro -- so~e -- ta -- te,
-        a -- ven -- tu -- ro -- so~e -- ta -- te,
-        a -- ven -- tu -- ro -- so~e -- ta -- te,
+    O so -- pra l'al -- tre av -- ven -- tu -- ro -- so~e -- ta -- te,
+        av -- ven -- tu -- ro -- so~e -- ta -- te,
+        av -- ven -- tu -- ro -- so~e -- ta -- te,
     O d'e -- ter -- ne ri -- chez -- z'a -- dor -- n'e bel -- la,
     Ca -- stis -- si -- ma,
     Ca -- stis -- si -- ma~I -- sa -- bel -- la,
@@ -298,10 +298,10 @@ quintoIX = \relative c {
 }
 
 quintoLyricsIX = \lyricmode {
-    O so -- pra l'al -- tre a -- ven -- tu -- ro -- so~e -- ta -- te,
-        a -- ven -- tu -- ro -- so~e -- ta -- te,
+    O so -- pra l'al -- tre av -- ven -- tu -- ro -- so~e -- ta -- te,
+        av -- ven -- tu -- ro -- so~e -- ta -- te,
     \ijLyrics   
-        a -- ven -- tu -- ro -- so~e -- ta -- te,
+        av -- ven -- tu -- ro -- so~e -- ta -- te,
     \normalLyrics
     O __ d'e -- ter -- ne ri -- chez -- z'a -- dor -- n'e bel -- la,
     Ca -- stis -- si -- ma,

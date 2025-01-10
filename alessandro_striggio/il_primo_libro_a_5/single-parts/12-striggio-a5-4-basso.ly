@@ -12,7 +12,6 @@
     % Things that change per piece:
     title = "Ecco, ch'ei giunge a noi"
     subtitle = "Terza parte"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Basso (part 5 of 5)"
