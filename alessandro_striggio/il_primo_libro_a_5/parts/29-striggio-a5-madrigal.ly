@@ -61,7 +61,7 @@ cantoLyricsXXIX = \lyricmode {
     che sol tut -- to son fiam -- ma e tut -- t'ar -- do -- re,
         e tut -- t'ar -- do -- re:
     Di -- te,
-    di -- te qual stra -- no~e rio des -- tin può tan -- to
+    di -- te qual stra -- no~e rio de -- stin può tan -- to
     Ch'io mi ri -- sol -- va~in pian -- to,
     \ijLyrics
     ch'io mi ri -- sol -- va~in pian -- to.
@@ -122,7 +122,7 @@ altoLyricsXXIX = \lyricmode {
     che sol tut -- to son fiam -- m'e tut -- t'ar -- do -- re,
         e tut -- t'ar -- do -- re:
     Di -- te,
-    di -- te qual stra -- no~e rio des -- tin può tan -- to,
+    di -- te qual stra -- no~e rio de -- stin può tan -- to,
         può tan -- to
     Ch'io mi ri -- sol -- va~in pian -- to,
     ch'io mi ri -- sol -- va~in pian -- to.
@@ -183,7 +183,7 @@ tenoreLyricsXXIX = \lyricmode {
         e tut -- t'ar -- do -- re,
         e tut -- t'ar -- do -- re:
     Di -- te,
-    di -- te qual stra -- no~e rio des -- tin può tan -- to,
+    di -- te qual stra -- no~e rio de -- stin può tan -- to,
         può tan -- to
     Ch'io mi ri -- sol -- va~in pian -- to.
 }
@@ -229,7 +229,7 @@ bassoLyricsXXIX = \lyricmode {
     che sol tut -- to son fiam -- m'e tut -- t'ar -- do -- re,
         e tut -- t'ar -- do -- re:
     Di -- te,
-    di -- te qual stra -- no~e rio des -- tin può tan -- to,
+    di -- te qual stra -- no~e rio de -- stin può tan -- to,
         può tan -- to,
         può tan -- to
     Ch'io mi ri -- sol -- va~in pian -- to.
@@ -286,7 +286,7 @@ quintoLyricsXXIX = \lyricmode {
     che sol tut -- to son fiam -- ma,
     che sol __ tut -- to son fiam -- m'e tut -- t'ar -- do -- re: __
     Di -- te,
-    di -- te qual stra -- no~e __ rio des -- tin __ può tan -- to,
+    di -- te qual stra -- no~e __ rio de -- stin __ può tan -- to,
         può tan -- to
     Ch'io mi ri -- sol -- va~in pian -- to,
     ch'io mi ri -- sol -- va~in pian -- to.

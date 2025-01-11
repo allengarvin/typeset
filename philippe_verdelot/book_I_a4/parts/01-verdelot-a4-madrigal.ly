@@ -63,7 +63,7 @@ cantusI = \relative c'' {
 cantusLyricsI = \lyricmode {
     Quan -- to sia lie -- t'il gior -- no
     Nel qual le co -- se~a -- mi -- che
-    Son or da voi di -- mos -- tr'e ce -- le -- bra -- te:
+    Son or da voi di -- mo -- str'e ce -- le -- bra -- te:
     Si ve -- de per -- ché~in -- tor -- no,
     Tut -- te le gen -- ti~a -- mi -- che
     Si son in que -- sta par -- te ra -- du -- na -- te:
@@ -115,7 +115,7 @@ altusI = \relative c'' {
 altusLyricsI = \lyricmode {
     Quan -- to sia lie -- t'il gior -- no
     Nel qual le co -- se~a -- mi -- che
-    Son or da voi di -- mos -- tr'e ce -- le -- bra -- te:
+    Son or da voi di -- mo -- str'e ce -- le -- bra -- te:
     Si ve -- de per -- ché~in -- tor -- no, __
     Tut -- te le gen -- ti~a -- mi -- che
     Si son in que -- sta par -- te ra -- du -- na -- te:
@@ -164,7 +164,7 @@ tenorI = \relative c' {
 tenorLyricsI = \lyricmode {
     Quan -- to sia lie -- t'il gior -- no
     Nel qual le co -- se~a -- mi -- che
-    Son or da voi di -- mos -- tr'e __ ce -- le -- bra -- te:
+    Son or da voi di -- mo -- str'e __ ce -- le -- bra -- te:
     Si ve -- de per -- ché~in -- tor -- no,
     Tut -- te le gen -- ti~a -- mi -- che
     Si son in que -- sta par -- te __ ra -- du -- na -- te:
@@ -214,7 +214,7 @@ bassusI = \relative c' {
 bassusLyricsI = \lyricmode {
     Quan -- to sia lie -- t'il gior -- no
     Nel qual le co -- se~a -- mi -- che
-    Son or da voi di -- mos -- tr'e ce -- le -- bra -- te: __
+    Son or da voi di -- mo -- str'e ce -- le -- bra -- te: __
     Si ve -- de per -- ché~in -- tor -- no,
     Tut -- te le gen -- ti~a -- mi -- che
     Si son in que -- sta par -- te ra -- du -- na -- te:

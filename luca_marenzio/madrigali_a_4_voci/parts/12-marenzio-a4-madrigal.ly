@@ -42,7 +42,7 @@ cantoLyricsXII = \lyricmode {
     E quan -- ti pas -- si tra la not -- te~e'l gior -- no,
     e quan -- ti pas -- si tra la not -- te~e'l gior -- no
     Spar -- gen -- do~in -- dar -- no vo per tan -- ti cam -- pi,
-    Leg -- ga Leg -- ga per ques -- te quer -- ce~e per li sas -- si,
+    Leg -- ga Leg -- ga per que -- ste quer -- ce~e per li sas -- si,
     e __ per li sas -- si,
     Ché n'è gia pien' ho -- mai,
     ché n'è gia pien' ho -- mai cia -- scu -- na val -- le,
@@ -98,7 +98,7 @@ altoLyricsXII = \lyricmode {
     spar -- gen -- do~in -- dar -- no vo per tan -- ti cam -- pi,
     spar -- gen -- do~in -- dar -- no vo per tan -- ti cam -- pi,
         per tan -- ti cam -- pi
-    Leg -- ga Leg -- ga per ques -- te quer -- ce~e per li sas -- si,
+    Leg -- ga Leg -- ga per que -- ste quer -- ce~e per li sas -- si,
         e per li sas -- si,
     Ché n'è gia __ pien' ho -- mai,
     ché __ n'è gia pien' ho -- mai cia -- scu -- na val -- le,
@@ -150,7 +150,7 @@ tenoreLyricsXII = \lyricmode {
     Spar -- gen -- do~in -- dar -- no
     spar -- gen -- do~in -- dar -- no vo per tan -- ti cam -- pi,
     Leg -- ga Leg -- ga
-    leg -- ga per ques -- te quer -- ce~e per li sas -- si,
+    leg -- ga per que -- ste quer -- ce~e per li sas -- si,
     Ché n'è gia pien' ho -- mai cia -- scu -- na val -- le,
     ché n'è gia pien' ho -- mai
     ché __ n'è gia pien' ho -- mai cia -- scu -- na val -- le,
@@ -198,7 +198,7 @@ bassoLyricsXII = \lyricmode {
     E quan -- ti pas -- si tra la not -- te~e'l gior -- no
     Spar -- gen -- do~in -- dar -- no vo per tan -- ti cam -- pi,
         Leg -- ga Leg -- ga 
-    Leg -- ga per ques -- te quer -- ce~e per li sas -- si,
+    Leg -- ga per que -- ste quer -- ce~e per li sas -- si,
     Ché n'è gia pien' ho -- mai
     ché n'è gia pien' ho -- mai
     ché n'è __ gia pien' ho -- mai cia -- scu -- na val -- le,

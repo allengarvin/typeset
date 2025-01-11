@@ -114,6 +114,7 @@
     \markup {
         \fill-line {
             \column {
+                % light ital touchup (error in syllable) 2025-01-10
                 \line { Amor, se così dolce e il mio dolore }
                 \line { ond' avvien ch'io ne pianga e mi lamenti? }
                 \line { E quando son i miei desir contenti, }

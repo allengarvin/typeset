@@ -54,11 +54,11 @@ cantoLyricsII = \lyricmode {
     \normalLyrics
     Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re.
     Ma ta -- le~e’l __ mio tor -- men -- to,
-    Ch’io pen -- se -- rò res -- tar,
-    Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
+    Ch’io pen -- se -- rò re -- star,
+    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to,
-    Ch’io pen -- se -- rò res -- tar
-    Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
+    Ch’io pen -- se -- rò re -- star
+    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to,
     \ijLyrics
         di vi -- ta spen -- to,
@@ -108,14 +108,14 @@ altoLyricsII = \lyricmode {
         s’io re -- sto vi -- vo
     Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re.
     Ma ta -- le~e’l mio __ tor -- men -- to,
-    Ch’io pen -- se -- rò res -- tar,
-    Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
+    Ch’io pen -- se -- rò re -- star,
+    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
     \ijLyrics
         di vi -- ta spen -- to,
     \normalLyrics
-    Ch’io pen -- se -- rò res -- tar
+    Ch’io pen -- se -- rò re -- star
     \ijLyrics
-    Ch’io pen -- se -- rò res -- tar
+    Ch’io pen -- se -- rò re -- star
     \normalLyrics
         di vi -- ta spen -- to,
         di vi -- ta spen -- to,
@@ -164,12 +164,12 @@ tenoreLyricsII = \lyricmode {
     Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
         mi -- ra -- co -- lo d’A -- mo -- re.
     Ma ta -- le~e’l mio tor -- men -- to,
-    Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
+    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
     \ijLyrics
        di vi -- ta spen -- to,
     \normalLyrics
-    Ch’io pen -- se -- rò res -- tar
-    Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
+    Ch’io pen -- se -- rò re -- star
+    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to,
         di vi -- ta spen -- to.
 }
@@ -214,13 +214,13 @@ bassoLyricsII = \lyricmode {
         s’io re -- sto vi -- vo, 
     Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
     Ma ta -- le~e’l mio __ tor -- men -- to,
-    Ch’io pen -- se -- rò res -- tar,
-    Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
+    Ch’io pen -- se -- rò re -- star,
+    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
     \ijLyrics
         di vi -- ta spen -- to,
     \normalLyrics
-    Ch’io pen -- se -- rò res -- tar
-    Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
+    Ch’io pen -- se -- rò re -- star
+    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to.
 }
 
@@ -265,15 +265,15 @@ quintoLyricsII = \lyricmode {
         s’io re -- sto vi -- vo
     Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
         mi -- ra -- co -- lo d’A -- mo -- re.
-    Ch’io pen -- se -- rò res -- tar,
-    Ch’io pen -- se -- rò res -- tar di vi -- ta spen -- to,
+    Ch’io pen -- se -- rò re -- star,
+    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to,
     \ijLyrics
         di vi -- ta spen -- to,
     \normalLyrics
-    Ch’io pen -- se -- rò res -- tar
+    Ch’io pen -- se -- rò re -- star
     \ijLyrics
-    Ch’io pen -- se -- rò res -- tar
+    Ch’io pen -- se -- rò re -- star
     \normalLyrics
         di vi -- ta spen -- to,
         di vi -- ta spen -- to,

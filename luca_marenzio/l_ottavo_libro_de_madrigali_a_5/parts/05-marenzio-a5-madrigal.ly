@@ -47,7 +47,7 @@ cantoV = \relative c'' {
 cantoLyricsV = \lyricmode {
     Vi -- ta so -- a -- ve e di dol -- cez -- za pie -- na,
     Men -- tre~al -- l'em -- pia mia sor -- te~ed al Ciel piac -- que,
-    Che fai or me -- co scon -- so -- la -- ta~e tris -- ta?
+    Che fai or me -- co scon -- so -- la -- ta~e tri -- sta?
     Tem -- po~è ben di mo -- rir, se l'al -- ma mi -- a,
     È già fat -- ta d'al -- trui: fe -- li -- ce mor -- te,
     Se~al -- lor mo -- ria quan -- do vi -- vea sua fe -- de!
@@ -92,7 +92,7 @@ altoV = \relative c' {
 altoLyricsV = \lyricmode {
     Vi -- ta so -- a -- ve e di dol -- cez -- za pie -- na,
     Men -- tre~al -- l'em -- pia mia sor -- te~ed al Ciel piac -- que,
-    Che fai or me -- co scon -- so -- la -- ta~e tris -- ta?
+    Che fai or me -- co scon -- so -- la -- ta~e tri -- sta?
     Tem -- po~è ben di mo -- rir, se l'al -- ma mi -- a,
     È già fat -- ta d'al -- trui: fe -- li -- ce mor -- te,
     Se~al -- lor mo -- ria quan -- do vi -- vea sua fe -- de!
@@ -137,7 +137,7 @@ tenoreV = \relative c' {
 tenoreLyricsV = \lyricmode {
     Vi -- ta so -- a -- ve e di dol -- cez -- za pie -- na,
     Men -- tre~al -- l'em -- pia mia sor -- te~ed al Ciel piac -- que,
-    Che fai or me -- co scon -- so -- la -- ta~e tris -- ta?
+    Che fai or me -- co scon -- so -- la -- ta~e tri -- sta?
 %    Tem -- po~è ben di mo -- rir, se l'al -- ma mi -- a,
     È già fat -- ta d'al -- trui: fe -- li -- ce mor -- te,
     Se~al -- lor mo -- ria quan -- do vi -- vea sua fe -- de!
@@ -184,7 +184,7 @@ bassoV = \relative c {
 bassoLyricsV = \lyricmode {
     Vi -- ta so -- a -- ve e di dol -- cez -- za pie -- na,
     Men -- tre~al -- l'em -- pia mia sor -- te~ed al Ciel piac -- que,
-    Che fai or me -- co scon -- so -- la -- ta~e tris -- ta?
+    Che fai or me -- co scon -- so -- la -- ta~e tri -- sta?
     Tem -- po~è ben di mo -- rir, se l'al -- ma mi -- a,
     È già fat -- ta d'al -- trui: fe -- li -- ce mor -- te,
     Se~al -- lor mo -- ria quan -- do vi -- vea sua fe -- de!
@@ -229,7 +229,7 @@ quintoV = \relative c {
 quintoLyricsV = \lyricmode {
     Vi -- ta so -- a -- ve e di dol -- cez -- za pie -- na,
     Men -- tre~al -- l'em -- pia mia sor -- te~ed al Ciel piac -- que,
-    Che fai or me -- co scon -- so -- la -- ta~e tris -- ta?
+    Che fai or me -- co scon -- so -- la -- ta~e tri -- sta?
     Tem -- po~è ben di mo -- rir, se l'al -- ma mi -- a,
     È già fat -- ta d'al -- trui: fe -- li -- ce mor -- te,
     % Se~al -- lor mo -- ria quan -- do vi -- vea sua fe -- de!

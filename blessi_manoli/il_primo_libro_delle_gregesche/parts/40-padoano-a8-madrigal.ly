@@ -48,7 +48,7 @@ cantoOneXL = \relative c'' {
 cantoOneLyricsXL = \lyricmode {
     Cu -- si __ nui far vo -- le -- mo,
     Da puo chie'l zen -- dil -- lez -- za~el cur -- te -- si -- a __
-    vos -- tre, 
+    vo -- stre, 
     Ne~in -- vi -- da~a star in cum -- ba -- gni -- a.
     A -- mur, 
     A -- mur, sia be -- nen -- det -- to,
@@ -95,7 +95,7 @@ cantoTwoXL = \relative c'' {
 cantoTwoLyricsXL = \lyricmode {
     Cu -- si nui far vo -- le -- mo,
     Da puo chie'l zen -- dil -- lez -- za~el cur -- te -- si -- a
-        vos -- tre, 
+        vo -- stre, 
     Ne~in -- vi -- da~a star,
     Ne~in -- vi -- da~a star in cum -- ba -- gni -- a.
     A -- mur, 
@@ -140,7 +140,7 @@ altoOneXL = \relative c' {
 altoOneLyricsXL = \lyricmode {
     Cu -- si __ nui far vo -- le -- mo,
     Da __ puo chie'l zen -- dil -- lez -- za~el 
-        cur -- te -- si -- a vos -- tre, 
+        cur -- te -- si -- a vo -- stre, 
     Ne~in -- vi -- da~a star __ in cum -- ba -- gni -- a.
     A -- mur, 
     A -- mur, sia be -- nen -- det -- to,
@@ -183,7 +183,7 @@ altoTwoXL = \relative c {
 altoTwoLyricsXL = \lyricmode {
     Cu -- si __ nui far vo -- le -- mo,
     Da __ puo chie'l zen -- dil -- lez -- za~el 
-        cur -- te -- si -- a vos -- tre, 
+        cur -- te -- si -- a vo -- stre, 
     Ne~in -- vi -- da~a star __ in cum -- ba -- gni -- a.
     A -- mur, 
     A -- mur, sia be -- nen -- det -- to,

@@ -68,10 +68,10 @@ cantoLyricsI = \lyricmode {
     Un gior -- no~a Pa -- le sa -- cro
     In un bel pra -- to~a -- me -- no,
     in un bel pra -- to~a -- me -- no,
-    Con -- cor -- se -- ro~i pas -- tor,
+    Con -- cor -- se -- ro~i pa -- stor,
     \ijLyrics
-    con -- cor -- se -- ro~i pas -- tor,
-    con -- cor -- se -- ro~i pas -- tor 
+    con -- cor -- se -- ro~i pa -- stor,
+    con -- cor -- se -- ro~i pa -- stor 
     \normalLyrics
         l’Ar -- ca -- de nin -- fe,
     Dei bo -- schi~e mon -- ti,
@@ -165,8 +165,8 @@ altoI = \relative c'' {
 altoLyricsI = \lyricmode {
     Un gior -- no~a Pa -- le sa -- cro
     In un bel pra -- to~a -- me -- no,
-    Con -- cor -- se -- ro~i pas -- tor l’Ar -- ca -- de nin -- fe,
-    con -- cor -- se -- ro~i pas -- tor,
+    Con -- cor -- se -- ro~i pa -- stor l’Ar -- ca -- de nin -- fe,
+    con -- cor -- se -- ro~i pa -- stor,
     Dei bo -- schi~e mon -- ti, e del -- le chia -- re lin -- fe
     Fau -- ni, Sil -- van, Si -- le -- no,
     Chi can -- ta -- va,
@@ -255,9 +255,9 @@ tenoreI = \relative c'' {
 tenoreLyricsI = \lyricmode {
     Un gior -- no~a Pa -- le sa -- cro
     In un bel pra -- to~a -- me -- no,
-    Con -- cor -- se -- ro~i pas -- tor,
+    Con -- cor -- se -- ro~i pa -- stor,
     \ijLyrics
-    con -- cor -- se -- ro~i pas -- tor,
+    con -- cor -- se -- ro~i pa -- stor,
     \normalLyrics
         l’Ar -- ca -- de nin -- fe,
     Dei bo -- schi~e mon -- ti,
@@ -343,9 +343,9 @@ bassoI = \relative c' {
 bassoLyricsI = \lyricmode {
     Un gior -- no~a Pa -- le sa -- cro
     In un bel pra -- to~a -- me -- no,
-    Con -- cor -- se -- ro~i pas -- tor,
+    Con -- cor -- se -- ro~i pa -- stor,
     \ijLyrics
-    con -- cor -- se -- ro~i pas -- tor
+    con -- cor -- se -- ro~i pa -- stor
     \normalLyrics
         l’Ar -- ca -- de nin -- fe,
     Dei bo -- schi~e mon -- ti,
@@ -431,8 +431,8 @@ quintoLyricsI = \lyricmode {
     Un gior -- no~a Pa -- le sa -- cro
 %    In un bel pra -- to~a -- me -- no,
 %    in un bel pra -- to~a -- me -- no,
-    Con -- cor -- se -- ro~i pas -- tor l’Ar -- ca -- de nin -- fe,
-    con -- cor -- se -- ro~i pas -- tor,
+    Con -- cor -- se -- ro~i pa -- stor l’Ar -- ca -- de nin -- fe,
+    con -- cor -- se -- ro~i pa -- stor,
     Dei bo -- schi~e mon -- ti,
     dei bo -- schi~e mon -- ti
     Fau -- ni, Sil -- van, 
@@ -519,8 +519,8 @@ sestoLyricsI = \lyricmode {
     Un gior -- no~a Pa -- le sa -- cro
     In un bel pra -- to~a -- me -- no,
     in un bel pra -- to~a -- me -- no,
-    Con -- cor -- se -- ro~i pas -- tor l’Ar -- ca -- de nin -- fe,
-    con -- cor -- se -- ro~i pas -- tor l’Ar -- ca -- de nin -- fe,
+    Con -- cor -- se -- ro~i pa -- stor l’Ar -- ca -- de nin -- fe,
+    con -- cor -- se -- ro~i pa -- stor l’Ar -- ca -- de nin -- fe,
     Dei bo -- schi~e mon -- ti, e del -- le chia -- re lin -- fe
     Fau -- ni, Sil -- van, __ Si -- le -- no,
         Si -- le -- no,

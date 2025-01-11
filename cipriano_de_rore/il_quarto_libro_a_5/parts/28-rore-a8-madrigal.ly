@@ -86,9 +86,9 @@ cantusOneLyricsXXVIII = \lyricmode {
         spe -- ra -- te~a -- man -- ti,
     \normalLyrics
     Che se ben tar -- do pur gra -- di -- sco~al fi -- ne
-    Le vo -- stre lun -- ghe no -- ie e~i vos -- tri pian -- ti,
+    Le vo -- stre lun -- ghe no -- ie e~i vo -- stri pian -- ti,
     \ijLyrics
-        e~i vos -- tri pian -- ti.
+        e~i vo -- stri pian -- ti.
     \normalLyrics
 
     A -- vrà ma sem -- pre~ai ri -- si e ai dol -- ci can -- ti
@@ -154,7 +154,7 @@ cantusTwoLyricsXXVIII = \lyricmode {
 
         Spe -- ra -- te~a -- man -- ti,
     Che se ben tar -- do pur __ gra -- di -- sco~al fi -- ne
-    Le vo -- stre lun -- ghe no -- ie e~i vos -- tri pian -- ti.
+    Le vo -- stre lun -- ghe no -- ie e~i vo -- stri pian -- ti.
 
     A -- vrà ma sem -- pre~ai ri -- si e ai dol -- ci can -- ti
     Le~o -- re del la -- gri -- mar so -- no vi -- ci -- ni,
@@ -221,9 +221,9 @@ altusOneLyricsXXVIII = \lyricmode {
 
         Spe -- ra -- te~a -- man -- ti,
     Che se ben tar -- do pur gra -- di -- sco~al fi -- ne
-    Le vo -- stre lun -- ghe no -- ie e~i vos -- tri pian -- ti,
+    Le vo -- stre lun -- ghe no -- ie e~i vo -- stri pian -- ti,
     \ijLyrics
-        e~i vos -- tri pian -- ti.
+        e~i vo -- stri pian -- ti.
     \normalLyrics
 
     A -- vrà ma sem -- pre~ai ri -- si e ai dol -- ci can -- ti
@@ -291,8 +291,8 @@ altusTwoLyricsXXVIII = \lyricmode {
 
         Spe -- ra -- te~a -- man -- ti,
     Che se ben tar -- do pur __ gra -- di -- sco~al fi -- ne
-    Le vo -- stre lun -- ghe no -- ie e~i vos -- tri pian -- ti,
-        e~i vos -- tri pian -- ti.
+    Le vo -- stre lun -- ghe no -- ie e~i vo -- stri pian -- ti,
+        e~i vo -- stri pian -- ti.
 
     A -- vrà ma sem -- pre~ai ri -- si e ai dol -- ci can -- ti
     Le~o -- re del la -- gri -- mar so -- no vi -- ci -- ni,
@@ -437,9 +437,9 @@ tenorTwoLyricsXXVIII = \lyricmode {
 %        spe -- ra -- te~a -- man -- ti,
 %    \normalLyrics
 %    Che se ben tar -- do pur gra -- di -- sco~al fi -- ne
-%    Le vo -- stre lun -- ghe no -- ie e~i vos -- tri pian -- ti,
+%    Le vo -- stre lun -- ghe no -- ie e~i vo -- stri pian -- ti,
 %    \ijLyrics
-%        e~i vos -- tri pian -- ti.
+%        e~i vo -- stri pian -- ti.
 %    \normalLyrics
 %
 %    A -- vrà ma sem -- pre~ai ri -- si e ai dol -- ci can -- ti
@@ -523,9 +523,9 @@ bassusOneLyricsXXVIII = \lyricmode {
 %        spe -- ra -- te~a -- man -- ti,
 %    \normalLyrics
 %    Che se ben tar -- do pur gra -- di -- sco~al fi -- ne
-%    Le vo -- stre lun -- ghe no -- ie e~i vos -- tri pian -- ti,
+%    Le vo -- stre lun -- ghe no -- ie e~i vo -- stri pian -- ti,
 %    \ijLyrics
-%        e~i vos -- tri pian -- ti.
+%        e~i vo -- stri pian -- ti.
 %    \normalLyrics
 %
 %    A -- vrà ma sem -- pre~ai ri -- si e ai dol -- ci can -- ti
@@ -611,9 +611,9 @@ bassusTwoLyricsXXVIII = \lyricmode {
 %        spe -- ra -- te~a -- man -- ti,
 %    \normalLyrics
 %    Che se ben tar -- do pur gra -- di -- sco~al fi -- ne
-%    Le vo -- stre lun -- ghe no -- ie e~i vos -- tri pian -- ti,
+%    Le vo -- stre lun -- ghe no -- ie e~i vo -- stri pian -- ti,
 %    \ijLyrics
-%        e~i vos -- tri pian -- ti.
+%        e~i vo -- stri pian -- ti.
 %    \normalLyrics
 %
 %    A -- vrà ma sem -- pre~ai ri -- si e ai dol -- ci can -- ti

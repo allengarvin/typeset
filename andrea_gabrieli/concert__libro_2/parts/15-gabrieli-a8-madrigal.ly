@@ -88,7 +88,7 @@ cantoOneLyricsXV = \lyricmode {
     E cer -- t'an -- co di ciò già non mi do -- glio,
     Se non che, fe -- ra, 
     Sem -- pre ve ne ri -- de -- t'e di mia sor -- te.
-    E pur do -- vres -- te, fat -- ta del cor -- do -- glio,
+    E pur do -- vre -- ste, fat -- ta del cor -- do -- glio,
     Ch'in me tan -- to ve -- de -- te~ac -- cor -- ta di -- re,
         ac -- cor -- ta di -- re:
     Non sa -- rò sem -- pre pron -- t'a dar -- ti mor -- te,
@@ -174,9 +174,9 @@ cantoTwoLyricsXV = \lyricmode {
     E cer -- t'an -- co di ciò già non mi do -- glio,
     Se non che, fe -- ra, voi de mio lan -- gui -- re
     Sem -- pre ve ne ri -- de -- te, e di mia sor -- te.
-    E pur do -- vres -- te,
+    E pur do -- vre -- ste,
     \ijLyrics
-    e pur do -- vres -- te,
+    e pur do -- vre -- ste,
     \normalLyrics
         fat -- ta del cor -- do -- glio,
     Ch'in me tan -- to ve -- de -- te~ac -- cor -- ta di -- re:
@@ -260,7 +260,7 @@ altoOneLyricsXV = \lyricmode {
     E cer -- t'an -- co di ciò già non mi do -- glio,
     Se non che, fe -- ra, 
     Sem -- pre ve ne ri -- de -- t'e __ di mia sor -- te.
-    E pur do -- vres -- te, fat -- ta del cor -- do -- glio,
+    E pur do -- vre -- ste, fat -- ta del cor -- do -- glio,
     Ch'in me tan -- to ve -- de -- te~ac -- cor -- ta di -- re:
         ac -- cor -- ta di -- re:
     Non sa -- rò sem -- pre pron -- t'a dar -- ti mor -- te,
@@ -341,8 +341,8 @@ altoTwoLyricsXV = \lyricmode {
     E cer -- t'an -- co di ciò già non mi do -- glio,
     Se non che, fe -- ra, voi de mio lan -- gui -- re
     Sem -- pre ve ne ri -- de -- te, e di mia sor -- te.
-    E pur do -- vres -- te, 
-    e pur do -- vres -- te, fat -- ta del cor -- do -- glio,
+    E pur do -- vre -- ste, 
+    e pur do -- vre -- ste, fat -- ta del cor -- do -- glio,
     Ch'in me tan -- to ve -- de -- te~ac -- cor -- ta di -- re:
     Non sa -- rò sem -- pre pron -- t'a dar -- ti mor -- te,
     non sa -- rò sem -- pre pron -- t'a dar -- ti mor -- te,
@@ -421,8 +421,8 @@ tenoreOneLyricsXV = \lyricmode {
     E cer -- t'an -- co di ciò già non mi do -- glio,
     Se non che, fe -- ra, voi de mio lan -- gui -- re
     Sem -- pre ve ne ri -- de -- te, e di mia sor -- te.
-    E pur do -- vres -- te,
-    e pur do -- vres -- te, fat -- ta del cor -- do -- glio,
+    E pur do -- vre -- ste,
+    e pur do -- vre -- ste, fat -- ta del cor -- do -- glio,
     Ch'in me tan -- to ve -- de -- te ac -- cor -- ta di -- re,
         ac -- cor -- ta di -- re:
     Non sa -- rò sem -- pre pron -- t'a dar -- ti mor -- te,
@@ -506,8 +506,8 @@ tenoreTwoLyricsXV = \lyricmode {
     E cer -- t'an -- co di ciò già non mi do -- glio,
     Se non che, fe -- ra, % voi de mio lan -- gui -- re
     Sem -- pre ve ne ri -- de -- te, e di mia sor -- te.
-    E pur do -- vres -- te,
-    e pur do -- vres -- te, fat -- ta del cor -- do -- glio,
+    E pur do -- vre -- ste,
+    e pur do -- vre -- ste, fat -- ta del cor -- do -- glio,
         fat -- ta del cor -- do -- glio,
     Ch'in me tan -- to ve -- de -- te~ac -- cor -- ta di -- re:
     Non sa -- rò sem -- pre pron -- ta a dar -- ti mor -- te,
@@ -582,9 +582,9 @@ bassoOneLyricsXV = \lyricmode {
     E cer -- t'an -- co di ciò già non mi do -- glio,
     Se non che, fe -- ra, 
     Sem -- pre ve ne ri -- de -- t'e di mia sor -- te.
-    E pur do -- vres -- te, 
+    E pur do -- vre -- ste, 
     \ijLyrics
-    e pur do -- vres -- te,
+    e pur do -- vre -- ste,
     \normalLyrics
         fat -- ta del cor -- do -- glio,
     Ch'in me tan -- to ve -- de -- te~ac -- cor -- ta di -- re:
@@ -659,7 +659,7 @@ bassoTwoLyricsXV = \lyricmode {
     E cer -- t'an -- co di ciò già non mi do -- glio,
     Se non che, fe -- ra, voi de mio lan -- gui -- re
     Sem -- pre ve ne ri -- de -- te, e di mia sor -- te.
-    E pur do -- vres -- te, fat -- ta del cor -- do -- glio,
+    E pur do -- vre -- ste, fat -- ta del cor -- do -- glio,
     Ch'in me tan -- to ve -- de -- te~ac -- cor -- ta di -- re:
     Non sa -- rò sem -- pre,
     non sa -- rò sem -- pre pron -- t'a dar -- ti mor -- te,

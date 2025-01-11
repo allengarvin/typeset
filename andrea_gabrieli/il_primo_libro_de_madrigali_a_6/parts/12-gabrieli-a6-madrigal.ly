@@ -47,12 +47,12 @@ cantoLyricsXII = \lyricmode {
     So -- l'or mi strug -- go % e nul -- l'è~in mia di -- fe -- sa,
     Ché tu pur non l'as -- sal -- ti o pren -- di,
         o pren -- di~al var -- co
-    Ma te -- mi res -- tar vin -- to __
+    Ma te -- mi re -- star vin -- to __
         e nul -- l'è~in mia di -- fe -- sa,
     Ché tu pur non l'as -- sal -- ti o pren -- di~al var -- co,
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa.
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa.
 }
 
 altoXIIincipit = \relative c' {
@@ -103,13 +103,13 @@ altoLyricsXII = \lyricmode {
         o pren -- di~al var -- co
         a tan -- t'im -- pre -- sa,
         e nul -- l'è~in mia di -- fe -- sa,
-%    Ma te -- mi res -- tar vin -- to
+%    Ma te -- mi re -- star vin -- to
 %        e nul -- l'è~in mia di -- fe -- sa,
     Ché tu pur non l'as -- sal -- ti o pren -- di~al var -- co,
         o pren -- di~al var -- co
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
         a tan -- t'im -- pre -- sa,
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa.
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa.
 }
 
 tenoreXIIincipit = \relative c' {
@@ -160,13 +160,13 @@ tenoreLyricsXII = \lyricmode {
 %    So -- l'or mi strug -- go % e nul -- l'è~in mia di -- fe -- sa,
     Ché tu pur non l'as -- sal -- ti o pren -- di,
         o __ pren -- di~al var -- co
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
         a tan -- t'im -- pre -- sa,
         e nul -- l'è~in mia di -- fe -- sa,
     Ché tu pur non l'as -- sal -- ti o pren -- di,
         o pren -- di~al var -- co
-    Ma te -- mi res -- tar vin -- to,
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to,
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
         a tan -- t'im -- pre -- sa,
         a tan -- t'im -- pre -- sa.
 }
@@ -211,13 +211,13 @@ bassoLyricsXII = \lyricmode {
         e l'ar -- co.
 %    So -- l'or mi strug -- go % e nul -- l'è~in mia di -- fe -- sa,
     Ché tu pur non l'as -- sal -- ti o __ pren -- di~al var -- co
-    Ma te -- mi res -- tar vin -- to a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to a tan -- t'im -- pre -- sa,
     Ché tu pur non l'as -- sal -- ti o pren -- di~al var -- co
         a tan -- t'im -- pre -- sa,
 %    Ché tu pur non l'as -- sal -- ti o pren -- di~al var -- co,
-%    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
-    Ma te -- mi res -- tar vin -- to,
-    Ma te -- mi res -- tar vin -- to a tan -- t'im -- pre -- sa.
+%    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to,
+    Ma te -- mi re -- star vin -- to a tan -- t'im -- pre -- sa.
 }
 
 quintoXIIincipit = \relative c'' {
@@ -263,13 +263,13 @@ quintoLyricsXII = \lyricmode {
 %    So -- l'or mi strug -- go % e nul -- l'è~in mia di -- fe -- sa,
     Ché tu pur non l'as -- sal -- ti o pren -- di~al var -- co
     So -- l'or mi strug -- go % e nul -- l'è~in mia di -- fe -- sa,
-%    Ma te -- mi res -- tar vin -- to
+%    Ma te -- mi re -- star vin -- to
 %        e nul -- l'è~in mia di -- fe -- sa,
     Ché tu pur non l'as -- sal -- ti o pren -- di,
         o pren -- di~al var -- co,
         a tan -- t'im -- pre -- sa,
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa.
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa.
 }
 
 sestoXIIincipit = \relative c' {
@@ -317,21 +317,21 @@ sestoLyricsXII = \lyricmode {
     Ché tu pur,
     Ché tu pur non l'as -- sal -- ti o pren -- di,
         o pren -- di~al var -- co
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
         a tan -- t'im -- pre -- sa,
     Ché tu pur,
     Ché tu pur non l'as -- sal -- ti o pren -- di,
         o pren -- di~al var -- co
-%    Ma te -- mi res -- tar vin -- to
+%    Ma te -- mi re -- star vin -- to
 %        e nul -- l'è~in mia di -- fe -- sa,
 %    Ché tu pur non l'as -- sal -- ti o pren -- di~al var -- co,
-%    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
-    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa,
+%    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
+    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa,
         a tan -- t'im -- pre -- sa, __
     \ijLyrics
         a tan -- t'im -- pre -- sa. __
     \normalLyrics
-%    Ma te -- mi res -- tar vin -- to~a tan -- t'im -- pre -- sa.
+%    Ma te -- mi re -- star vin -- to~a tan -- t'im -- pre -- sa.
 }
 
 cantoXIIincipitVoice = <<

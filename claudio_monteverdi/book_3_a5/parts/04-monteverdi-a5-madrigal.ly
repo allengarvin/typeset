@@ -66,10 +66,10 @@ cantoLyricsIV = \lyricmode {
     Non mi -- rar me cor mio 
 
     mi -- ra te stes -- sa
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa,
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa,
-    In que -- sto vol -- to~in ques -- to cor 
-    In que -- sto vol -- to~in ques -- to cor __ im -- pres -- sa.
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor 
+    In que -- sto vol -- to~in que -- sto cor __ im -- pres -- sa.
 }
 
 altoIVincipit = \relative c' {
@@ -134,10 +134,10 @@ altoLyricsIV = \lyricmode {
     Non mi -- rar me cor mio,
     mi -- ra te stes -- sa
 
-    In que -- sto vol -- to~in ques -- to cor
-    in que -- sto vol -- to~in ques -- to cor im -- pres -- sa
+    In que -- sto vol -- to~in que -- sto cor
+    in que -- sto vol -- to~in que -- sto cor im -- pres -- sa
     mi -- ra te stes -- sa
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa.
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa.
 }
 
 tenoreIVincipit = \relative c'' {
@@ -209,11 +209,11 @@ tenoreLyricsIV = \lyricmode {
     Non __ mi -- rar me cor mio 
     mi -- ra te stes -- sa,
 
-    In que -- sto vol -- to~in ques -- to cor __ im -- pres -- sa,
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor __ im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa,
     mi -- ra te stes -- sa,
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa,
-    In que -- sto vol -- to~in ques -- to cor __ im -- pres -- sa.
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor __ im -- pres -- sa.
 }
 
 bassoIVincipit = \relative c' {
@@ -272,12 +272,12 @@ bassoLyricsIV = \lyricmode {
     Non mi -- rar me __ cor mio 
     mi -- ra te stes -- sa,
 
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa,
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa,
     \ijLyrics
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa,
     \normalLyrics
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa.
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa.
 }
 
 quintoIVincipit = \relative c'' {
@@ -354,10 +354,10 @@ quintoLyricsIV = \lyricmode {
     Non mi -- rar me cor mio 
 
     mi -- ra te stes -- sa
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa,
         mi -- ra te stes -- sa
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa,
-    In que -- sto vol -- to~in ques -- to cor im -- pres -- sa.
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa,
+    In que -- sto vol -- to~in que -- sto cor im -- pres -- sa.
 }
 
 cantoIVincipitVoice = <<

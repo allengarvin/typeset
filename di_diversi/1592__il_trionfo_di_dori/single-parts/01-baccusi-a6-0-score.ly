@@ -101,6 +101,7 @@
     \markup {
         \fill-line {
             \column {
+                % light ital touchup, needs more: 2025-01-10
                 \line { Un giorno a Pale sacro }
                 \line { In un bel prato ameno, }
                 \line { Concorsero i pastori l’Arcade ninfe, }
