@@ -26,7 +26,7 @@
 \include "../parts/08-dowland-a5-pavan.ly"
 
 \book {
-    \bookOutputName "08-semper_dowland_semper_dolens"
+    \bookOutputName "08-dowland--semper_dowland_semper_dolens"
     \bookOutputSuffix "--3-tenor--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -40,7 +40,7 @@
 }
 
 \book {
-    \bookOutputName "08-semper_dowland_semper_dolens"
+    \bookOutputName "08-dowland--semper_dowland_semper_dolens"
     \bookOutputSuffix "--3-tenor--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

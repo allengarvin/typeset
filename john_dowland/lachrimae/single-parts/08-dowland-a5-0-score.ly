@@ -26,7 +26,7 @@
 \include "../parts/08-dowland-a5-pavan.ly"
 
 \book {
-    \bookOutputName "08-semper_dowland_semper_dolens"
+    \bookOutputName "08-dowland--semper_dowland_semper_dolens"
     \bookOutputSuffix "--0-score"
     \score {
          <<
