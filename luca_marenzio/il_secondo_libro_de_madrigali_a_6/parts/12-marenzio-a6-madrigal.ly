@@ -72,7 +72,7 @@ cantoLyricsXII = \lyricmode {
     Or las -- so pian -- go~e son pre -- so e le -- ga -- to,
     I -- gnu -- do, i -- ner -- me, in gli~a -- mo -- ro -- si~im -- pac -- ci,
     Nè per -- chè,
-    Nè per -- chè __ mi di -- stem -- pre~o mi __ dis -- fac -- ci,
+    Nè per -- chè __ mi di -- stem -- pre~o mi __ di -- sfac -- ci,
     Mer -- cè,
     Mer -- cè,
     Mer -- cè chie -- den -- do 
@@ -130,7 +130,7 @@ altoLyricsXII = \lyricmode {
     \ijLyrics
     Nè per -- chè,
     \normalLyrics
-    Nè __ per -- chè mi di -- stem -- pre~o mi dis -- fac -- ci,
+    Nè __ per -- chè mi di -- stem -- pre~o mi di -- sfac -- ci,
     Mer -- cè chie -- den -- do 
     Mer -- cè chie -- den -- do 
             e men gra -- vo -- so il fa -- to. 
@@ -306,7 +306,7 @@ quintoLyricsXII = \lyricmode {
     Nè per -- chè,
     \normalLyrics
     Nè per -- chè
-        mi di -- stem -- pre~o mi dis -- fac -- ci,
+        mi di -- stem -- pre~o mi di -- sfac -- ci,
     Mer -- cè,
     \ijLyrics
     Mer -- cè,
@@ -365,7 +365,7 @@ sestoLyricsXII = \lyricmode {
     Or las -- so pian -- go e son pre -- so~e le -- ga -- to,
     I -- gnu -- do, in gli~a -- mo -- ro -- si~im -- pac -- ci,
     Nè per -- chè,
-    Nè per -- chè mi di -- stem -- pre~o mi dis -- fac -- ci,
+    Nè per -- chè mi di -- stem -- pre~o mi di -- sfac -- ci,
     Mer -- cè chie -- den -- do 
     Mer -- cè,
     \ijLyrics

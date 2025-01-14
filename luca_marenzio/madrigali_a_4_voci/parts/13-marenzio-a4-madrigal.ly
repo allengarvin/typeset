@@ -46,8 +46,8 @@ cantoLyricsXIII = \lyricmode {
     gio -- io -- sa~e bel -- la~as -- sai m'ap -- par -- ve~in son -- no __
     E ral -- le -- grò~il mio cor,
     e ral -- le -- grò~il mio cor si com' il sò -- le
-    Suol do -- po piog -- gia dis -- gom -- brar 
-        dis -- gom -- brar la ter -- ra,
+    Suol do -- po piog -- gia di -- sgom -- brar 
+        di -- sgom -- brar la ter -- ra,
     Di -- cen -- do~a me vien __ vien __ vien __ co -- gli~a le mie piag -- ge
     Qual -- che fio -- ret -- to,
     qual -- che fio -- ret -- to,
@@ -103,8 +103,8 @@ altoLyricsXIII = \lyricmode {
     gio -- io -- sa~e bel -- la~as -- sai m'ap -- par -- ve~in son -- no,
     E ral -- le -- grò~il mio cor,
     e ral -- le -- grò~il mio cor si com' il sò -- le
-    Suol do -- po piog -- gia dis -- gom -- brar __
-        dis -- gom -- brar la ter -- ra,
+    Suol do -- po piog -- gia di -- sgom -- brar __
+        di -- sgom -- brar la ter -- ra,
     Di -- cen -- do~a me vien __ vien __ vien __ co -- gli~a le mie piag -- ge
     Qual -- che fio -- ret -- to~e la -- scia gl'an -- tri fo -- schi;
     di -- cen -- do~a me vien __ vien __ vien __ co -- gli~a le mie piag -- ge,
@@ -159,8 +159,8 @@ tenoreLyricsXIII = \lyricmode {
     gio -- io -- sa~e bel -- la~as -- sai m'ap -- par -- ve~in son -- no,
     E ral -- le -- grò~il mio cor
     e ral -- le -- grò~il mio cor si com' il sò -- le
-    Suol do -- po piog -- gia dis -- gom -- brar
-        dis -- gom -- brar la ter -- ra,
+    Suol do -- po piog -- gia di -- sgom -- brar
+        di -- sgom -- brar la ter -- ra,
     Di -- cen -- do~a me vien __ vien __ vien __ co -- gli~a le mie piag -- ge
     Qual -- che fio -- ret -- to,
     qual -- che fio -- ret -- to,
@@ -216,8 +216,8 @@ bassoLyricsXIII = \lyricmode {
     E ral -- le -- grò~il mio cor
     e ral -- le -- grò~il mio cor si com' il sò -- le
 
-    Suol do -- po piog -- gia dis -- gom -- brar
-        dis -- gom -- brar la ter -- ra,
+    Suol do -- po piog -- gia di -- sgom -- brar
+        di -- sgom -- brar la ter -- ra,
     Di -- cen -- do~a me vien __ vien __ vien __ co -- gli~a le mie piag -- ge
     di -- cen -- do~a me vien __ vien __ vien __ co -- gli~a le mie piag -- ge,
     Qual -- che fio -- ret -- to,

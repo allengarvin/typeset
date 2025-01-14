@@ -11,11 +11,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Introduttione a i Balletti"
+    title = "Introduttione ai Balletti"
 
     % Things that change per part:
-    partname = "Quinto (part 2 of 5)"
-    instrument = "Introduttione a i Balletti (quinto)"
+    partname = "Canto (part 1 of 5)"
+    instrument = "Introduttione ai Balletti (canto)"
 
     % Unchanging:
     originallyset = "2013-06-04"
@@ -29,15 +29,15 @@
     
 \book {
     \bookOutputName "01-gastoldi--introduttione"
-    \bookOutputSuffix "--5-quinto--tr_clef"
+    \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef treble
             \global 
-            \quintoI
+            \cantoI
         >>
-        \addlyrics { \quintoLyricsI }
+        \addlyrics { \cantoLyricsI }
      %   \include "../include/layout-parts.ly"
     }
 }

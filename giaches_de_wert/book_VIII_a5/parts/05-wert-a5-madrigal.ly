@@ -89,7 +89,7 @@ cantoLyricsV = \lyricmode {
         l'al -- me vol -- le -- a
     Quan -- do ne dir so co -- me
     Strin -- ger ei si sen -- ti -- o 
-    Da cres -- pi~e bei ca -- pel -- li
+    Da cre -- spi~e bei ca -- pel -- li
     On -- de sde -- gnos' a quel -- li Dis -- se 
     O le -- ga -- me ri -- o Co -- me
     Dei tu le -- gar a gli~al -- tri~il co -- re
@@ -158,7 +158,7 @@ altoLyricsV = \lyricmode {
     Lac -- ci con che le -- gar __ l'al -- me vo -- le -- a
     Quan -- do ne dir so co -- me,
     Strin -- ger ei si sen -- ti -- o 
-    Da cres -- pi~e bei ca -- pel -- li
+    Da cre -- spi~e bei ca -- pel -- li
     On -- de sde -- gnos' a quel -- li Dis -- se 
     O le -- ga -- me ri -- o
     \ijLyrics O le -- ga -- me ri -- o \normalLyrics
@@ -326,7 +326,7 @@ quintoLyricsV = \lyricmode {
         l'al -- me vo -- le -- a,
     Quan -- do ne dir so co -- me,
     Strin -- ger ei si sen -- ti -- o __
-    Da cres -- pi~e bei ca -- pel -- li,
+    Da cre -- spi~e bei ca -- pel -- li,
     On -- de sde -- gnos' a quel -- li Dis -- se Dis -- se
     O le -- ga -- me ri -- o
     \ijLyrics O le -- ga -- me ri -- o \normalLyrics

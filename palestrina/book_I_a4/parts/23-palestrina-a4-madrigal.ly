@@ -34,8 +34,8 @@ cantoXXIII = \relative c'' {
 }
 
 cantoLyricsXXIII = \lyricmode {
-    Men -- tre ch'al mar des -- cen -- de -- ran -- no~i fiu -- mi,
-    Men -- tre ch'al mar __ des -- cen -- de -- ran -- no~i fiu -- mi,
+    Men -- tre ch'al mar de -- scen -- de -- ran -- no~i fiu -- mi,
+    Men -- tre ch'al mar __ de -- scen -- de -- ran -- no~i fiu -- mi,
     Et le fie -- re~a -- me -- ran -- no
     Et le fie -- re~a -- me -- ran -- no om -- bro -- se val -- li,
     Fia di -- nan -- zi~a be -- gli~oc -- chi
@@ -91,8 +91,8 @@ altoXXIII = \relative c'' {
 }
 
 altoLyricsXXIII = \lyricmode {
-    Men -- tre ch'al mar des -- cen -- de -- ran -- no~i fiu -- mi,
-    Men -- tre ch'al mar des -- cen -- de -- ran -- no~i __ fiu -- mi,
+    Men -- tre ch'al mar de -- scen -- de -- ran -- no~i fiu -- mi,
+    Men -- tre ch'al mar de -- scen -- de -- ran -- no~i __ fiu -- mi,
     Et le fie -- re~a -- me -- ran -- no~om -- bro -- se val -- li,
     Et le fie -- re~a -- me -- ran -- no~om -- bro -- se val -- li,
     Fia di -- nan -- zi~a be -- gli~oc -- chi
@@ -149,8 +149,8 @@ tenoreXXIII = \relative c' {
 }
 
 tenoreLyricsXXIII = \lyricmode {
-    Men -- tre ch'al mar __ des -- cen -- de -- ran -- no~i fiu -- mi,
-    Men -- tre ch'al mar des -- cen -- de -- ran -- no~i fiu -- mi,
+    Men -- tre ch'al mar __ de -- scen -- de -- ran -- no~i fiu -- mi,
+    Men -- tre ch'al mar de -- scen -- de -- ran -- no~i fiu -- mi,
     Et le fie -- re~a -- me -- ran -- no~om -- bro -- se val -- li,
     Et le fie -- re~a -- me -- ran -- no~om -- bro -- se val -- li,
     Fia di -- nan -- zi~a be -- gli~oc -- chi
@@ -199,8 +199,8 @@ bassoXXIII = \relative c' {
 }
 
 bassoLyricsXXIII = \lyricmode {
-    Men -- tre ch'al mar __ des -- cen -- de -- ran -- no~i fiu -- mi,
-        des -- cen -- de -- ran -- no~i fiu -- mi,
+    Men -- tre ch'al mar __ de -- scen -- de -- ran -- no~i fiu -- mi,
+        de -- scen -- de -- ran -- no~i fiu -- mi,
     Et le fie -- re~a -- me -- ran -- no~om -- bro -- se val -- li,
     Fia di -- nan -- zi~a be -- gli~oc -- chi
     Fia di -- nan -- zi~a be -- gli~oc -- chi quel -- la neb -- bia,

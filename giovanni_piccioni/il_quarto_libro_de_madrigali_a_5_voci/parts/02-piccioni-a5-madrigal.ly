@@ -79,7 +79,7 @@ cantoLyricsII = \lyricmode {
         che ver -- s'a -- mo -- re.
     Se bra -- mi~a -- ver del -- la vit -- to -- ria~o -- no -- re,
     Spie -- g'ar -- den -- t'ed ar -- di -- to~al ciel l'in -- seo -- gna;
-    For -- tu -- n'a -- ma gli~au -- da -- ci, o -- dia~e dis -- de -- gna
+    For -- tu -- n'a -- ma gli~au -- da -- ci, o -- dia~e di -- sde -- gna
     Nel -- le sue~im -- pre -- s'o -- gni ge -- la -- to co -- re.
 
     Pur da~un __ bel vi -- so e pur da~un ca -- sto pet -- to,
@@ -165,7 +165,7 @@ altoLyricsII = \lyricmode {
     Se bra -- mi~a -- ver del -- la vit -- to -- ria~o -- no -- re,
         del -- la vit -- to -- ria~o -- no -- re,
     Spie -- g'ar -- den -- t'ed ar -- di -- to~al ciel l'in -- seo -- gna;
-    For -- tu -- n'a -- ma gli~au -- da -- ci, o -- dia~e dis -- de -- gna
+    For -- tu -- n'a -- ma gli~au -- da -- ci, o -- dia~e di -- sde -- gna
     Nel -- le sue~im -- pre -- s'o -- gni ge -- la -- to co -- re.
 
     Pur da~un bel vi -- so, e pur da~un ca -- sto pet -- to,
@@ -249,9 +249,9 @@ tenoreLyricsII = \lyricmode {
     Le dol -- cez -- ze ne -- gar che ver -- s'a -- mo -- re.
     Se bra -- mi~a -- ver del -- la vit -- to -- ria~o -- no -- re,
     Spie -- g'ar -- den -- t'ed ar -- di -- to~al ciel l'in -- seo -- gna;
-    For -- tu -- n'a -- ma gli~au -- da -- ci, o -- dia~e dis -- de -- gna
+    For -- tu -- n'a -- ma gli~au -- da -- ci, o -- dia~e di -- sde -- gna
     \ijLyrics
-        o -- dia~e dis -- de -- gna
+        o -- dia~e di -- sde -- gna
     \normalLyrics
     Nel -- le sue~im -- pre -- s'o -- gni ge -- la -- to co -- re.
 
@@ -334,7 +334,7 @@ bassoLyricsII = \lyricmode {
     Se bra -- mi~a -- ver del -- la vit -- to -- ria~o -- no -- re,
     Spie -- g'ar -- den -- t'ed ar -- di -- to~al ciel l'in -- seo -- gna;
     For -- tu -- n'a -- ma gli~au -- da -- ci,
-        o -- dia~e dis -- de -- gna
+        o -- dia~e di -- sde -- gna
     Nel -- le sue~im -- pre -- s'o -- gni ge -- la -- to co -- re.
 
 %    Pur da~un bel vi -- so, e pur da un ca -- sto pet -- to,
@@ -418,7 +418,7 @@ quintoLyricsII = \lyricmode {
     Se bra -- mi~a -- ver del -- la vit -- to -- ria~o -- no -- re,
     Spie -- g'ar -- den -- t'ed ar -- di -- to~al ciel l'in -- seo -- gna;
     For -- tu -- n'a -- ma gli~au -- da -- ci, 
-        a -- ma gli~au -- da -- ci, o -- dia~e dis -- de -- gna
+        a -- ma gli~au -- da -- ci, o -- dia~e di -- sde -- gna
     Nel -- le sue~im -- pre -- s'o -- gni ge -- la -- to co -- re.
 
     % Pur da~un bel vi -- so, e pur da un ca -- sto pet -- to,

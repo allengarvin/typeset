@@ -41,7 +41,7 @@ cantoXXVIII = \relative c'' {
 
 cantoLyricsXXVIII = \lyricmode {
     Cor -- bo mal -- vag -- gio 
-    ur -- sa -- chio~as -- pro~e sal -- va -- ti -- co
+    ur -- sa -- chio~a -- spro~e sal -- va -- ti -- co
     Co -- te -- sta lin -- gua
     Co -- te -- sta lin -- gua ve -- le -- no -- sa mor -- di -- la
     Che tran -- spor -- tar si fa dal cor fa -- na -- ti -- co.
@@ -101,7 +101,7 @@ altoXXVIII = \relative c' {
 }
 
 altoLyricsXXVIII = \lyricmode {
-    Cor -- bo mal -- vag -- gio~ur -- sa -- chio~as -- pro~e 
+    Cor -- bo mal -- vag -- gio~ur -- sa -- chio~a -- spro~e 
         sal -- va -- ti -- co
     Co -- te -- sta lin -- gua
     Co -- te -- sta lin -- gua ve -- le -- no -- sa mor -- di -- la
@@ -164,7 +164,7 @@ tenoreXXVIII = \relative c' {
 
 tenoreLyricsXXVIII = \lyricmode {
     Cor -- bo mal -- vag -- gio 
-    ur -- sa -- chio~as -- pro~e sal -- va -- ti -- co
+    ur -- sa -- chio~a -- spro~e sal -- va -- ti -- co
     Co -- te -- sta lin -- gua
     Co -- te -- sta lin -- gua ve -- le -- no -- sa mor -- di -- la
     Che tran -- spor -- tar si fa __ dal cor fa -- na -- ti -- co.
@@ -230,7 +230,7 @@ bassoXXVIII = \relative c {
 }
 
 bassoLyricsXXVIII = \lyricmode {
-    Cor -- bo mal -- vag -- gio~ur -- sa -- chio~as -- pro~e 
+    Cor -- bo mal -- vag -- gio~ur -- sa -- chio~a -- spro~e 
         sal -- va -- ti -- co,
     Co -- te -- sta lin -- gua
     Co -- te -- sta lin -- gua ve -- le -- no -- sa mor -- di -- la

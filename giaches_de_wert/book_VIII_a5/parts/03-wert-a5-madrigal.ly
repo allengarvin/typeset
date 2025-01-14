@@ -102,7 +102,7 @@ cantoLyricsIII = \lyricmode {
     Co -- sì la vo -- stra man __ quan -- do __ si sten -- de
     Ai lu -- mi dol -- ci~e ga -- i,
         dol -- ci~e ga -- i,
-    Se non che quel -- la si dis -- fio -- ra~e sol -- ve
+    Se non che quel -- la si di -- sfio -- ra~e sol -- ve
     To -- sto ch'il sol si vol -- ve,
     To -- sto ch'il sol si vol -- ve,
     \ijLyrics
@@ -177,8 +177,8 @@ altoLyricsIII = \lyricmode {
     \normalLyrics
         quan -- do si sten -- de
     Ai lu -- mi dol -- ci~e ga -- i,
-    Se non che quel -- la si dis -- fio -- ra~e sol -- ve
-        si dis -- fio -- ra~e sol -- ve
+    Se non che quel -- la si di -- sfio -- ra~e sol -- ve
+        si di -- sfio -- ra~e sol -- ve
     To -- sto ch'il sol si vol -- ve,
     To -- sto ch'il sol si vol -- ve,
     \ijLyrics
@@ -361,7 +361,7 @@ quintoLyricsIII = \lyricmode {
     Co -- sì la vo -- stra man quan -- do __ si sten -- de,
         quan -- do si sten -- de
     Ai lu -- mi dol -- ci~e ga -- i,
-    Se non che quel -- la si dis -- fio -- ra~e sol -- ve, sol -- ve
+    Se non che quel -- la si di -- sfio -- ra~e sol -- ve, sol -- ve
     To -- sto ch'il sol si vol -- ve,
     To -- sto ch'il sol si vol -- ve,
         si vol -- ve,

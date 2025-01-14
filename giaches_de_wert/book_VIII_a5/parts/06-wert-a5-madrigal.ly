@@ -42,7 +42,7 @@ cantoVI = \relative c''' {
 }
 
 cantoLyricsVI = \lyricmode {
-    Us -- ci -- va~o -- mai del mol -- le~e fre -- sco grem -- bo
+    U -- sci -- va~o -- mai del mol -- le~e fre -- sco grem -- bo
     Del -- la gran ma -- dre sua la not -- te~o -- scu -- ra,
     Au -- re lie -- vi por -- tan -- do 
     \ijLyrics Au -- re lie -- vi por -- tan -- do~e \normalLyrics lar -- go nem -- bo
@@ -93,7 +93,7 @@ altoVI = \relative c'' {
 }
 
 altoLyricsVI = \lyricmode {
-    Us -- ci -- va~o -- mai del mol -- le~e fre -- sco grem -- bo
+    U -- sci -- va~o -- mai del mol -- le~e fre -- sco grem -- bo
     Del -- la gran ma -- dre sua la not -- te~o -- scu -- ra,
     Au -- re lie -- vi por -- tan -- do~e lar -- go nem -- bo nem -- bo
     Au -- re lie -- vi por -- tan -- do~e lar -- go nem -- bo
@@ -239,7 +239,7 @@ quintoVI = \relative c'' {
 }
 
 quintoLyricsVI = \lyricmode {
-    Us -- ci -- va~o -- mai del mol -- le~e fre -- sco grem -- bo
+    U -- sci -- va~o -- mai del mol -- le~e fre -- sco grem -- bo
     Del -- la gran ma -- dre sua la not -- te~o -- scu -- ra,
     Au -- re lie -- vi por -- tan -- do 
     Au -- re lie -- vi por -- tan -- do 

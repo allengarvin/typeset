@@ -43,7 +43,7 @@ cantoVI = \relative c'' {
 }
 
 cantoLyricsVI = \lyricmode {
-    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vos -- tri,
+    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vo -- stri,
     Sor -- ge~A -- pol -- lo e le Mu -- se e fra~i più de -- gni
     Vi sa -- cran nel bel mon -- t'e -- ter -- ni~al -- lo -- ri.
     Io'l cuor de -- vo -- to e que -- sti roz -- z'in -- chio -- stri,
@@ -98,8 +98,8 @@ altoVI = \relative c'' {
 }
 
 altoLyricsVI = \lyricmode {
-    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vos -- tri,
-        d'i dol -- ci~ac -- cen -- ti vos -- tri,
+    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vo -- stri,
+        d'i dol -- ci~ac -- cen -- ti vo -- stri,
     Sor -- ge~A -- pol -- lo e le Mu -- se e fra~i più de -- gni
     Vi sa -- cran nel bel mon -- t'e -- ter -- ni,
         e -- ter -- ni~al -- lo -- ri.
@@ -152,8 +152,8 @@ tenoreVI = \relative c'' {
 }
 
 tenoreLyricsVI = \lyricmode {
-    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vos -- tri,
-    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vos -- tri,
+    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vo -- stri,
+    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vo -- stri,
     Sor -- ge~A -- pol -- lo e le Mu -- se % e fra~i più de -- gni
 %    Vi sa -- cran nel bel mon -- t'
         e -- ter -- ni~al -- lo -- ri.
@@ -210,7 +210,7 @@ bassoVI = \relative c' {
 }
 
 bassoLyricsVI = \lyricmode {
-    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vos -- tri,
+    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vo -- stri,
     Sor -- ge~A -- pol -- lo 
         e fra~i più de -- gni
     Vi sa -- cran nel bel mon -- t'e -- ter -- ni~al -- lo -- ri.
@@ -262,7 +262,7 @@ quintoVI = \relative c'' {
 }
 
 quintoLyricsVI = \lyricmode {
-    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vos -- tri,
+    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vo -- stri,
     Sor -- ge~A -- pol -- lo e le Mu -- se e fra~i più de -- gni
     Vi sa -- cran nel bel mon -- te e -- ter -- ni~al -- lo -- ri.
     Io'l cuor de -- vo -- to e que -- sti roz -- z'in -- chio -- stri,
@@ -314,7 +314,7 @@ sestoVI = \relative c'' {
 }
 
 sestoLyricsVI = \lyricmode {
-    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vos -- tri,
+    Al chia -- ro suon d'i dol -- ci~ac -- cen -- ti vo -- stri,
     Al chia -- ro suon __
     Sor -- ge~A -- pol -- lo e __ le Mu -- se
     \ijLyrics

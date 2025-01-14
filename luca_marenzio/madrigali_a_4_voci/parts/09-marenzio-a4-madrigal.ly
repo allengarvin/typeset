@@ -34,9 +34,9 @@ cantoLyricsIX = \lyricmode {
     E per vir -- tù 
     E per vir -- tù de l'a -- mo -- ro -- sa spe -- me
     Che ti so -- sten -- ne nel -- la vi -- ta~a -- cer -- ba,
-    Di que -- ste~im -- pres -- si -- on l'ae -- re dis -- gom -- bra.
+    Di que -- ste~im -- pres -- si -- on l'ae -- re di -- sgom -- bra.
     Sì ve -- drem poi
-    Sì ve -- drem poi per me- ra- vi- glia~in -- sie -- me
+    Sì ve -- drem poi per me -- ra -- vi -- glia~in -- sie -- me
     Se -- der la don -- na no -- stra so -- pra l'her - ba
     E __ far de le sue brac -- cia~a se stess' om -- bra,
     E __ far de le sue brac -- cia~a se stess' om -- bra.
@@ -78,9 +78,9 @@ altoLyricsIX = \lyricmode {
     E per vir -- tù de l'a -- mo -- ro -- sa spe -- me __
     Che ti so -- sten -- ne
     Che ti so -- sten -- ne nel -- la vi -- ta~a -- cer -- ba,
-    Di que -- ste~im -- pres -- si -- on l'ae -- re dis -- gom -- bra.
+    Di que -- ste~im -- pres -- si -- on l'ae -- re di -- sgom -- bra.
     Sì ve -- drem poi
-    Sì ve -- drem poi per me- ra- vi- glia~in -- sie -- me
+    Sì ve -- drem poi per me -- ra -- vi -- glia~in -- sie -- me
     Se -- der la don -- na no -- stra so -- pra l'her -- ba
     E __ far de le sue brac -- cia~a se stess' om -- bra,
     E __ far de le sue brac -- cia~a se stess' om -- bra.
@@ -127,9 +127,9 @@ tenoreLyricsIX = \lyricmode {
     E per vir -- tù de l'a -- mo -- ro -- sa spe -- me,
     Che ti so -- sten -- ne
     Che ti so -- sten -- ne nel -- la vi -- ta~a -- cer -- ba,
-    Di que -- ste~im -- pres -- si -- on l'ae -- re dis -- gom -- bra.
-    Sì ve -- drem poi per me- ra- vi- glia~in -- sie -- me
-        per me- ra- vi- glia~in -- sie -- me
+    Di que -- ste~im -- pres -- si -- on l'ae -- re di -- sgom -- bra.
+    Sì ve -- drem poi per me -- ra -- vi -- glia~in -- sie -- me
+        per me -- ra -- vi -- glia~in -- sie -- me
     Se -- der la don -- na no -- stra so -- pra l'her -- ba
     E far de le sue brac -- cia~a se stess' om -- bra,
     E far de le sue brac -- cia~a se stess' om -- bra.
@@ -170,9 +170,9 @@ bassoLyricsIX = \lyricmode {
     E per vir -- tù de l'a -- mo -- ro -- sa spe -- me,
     Che ti so -- sten -- ne
     Che ti so -- sten -- ne nel -- la vi -- ta~a -- cer -- ba
-    l'ae -- re dis -- gom -- bra.
-    Sì ve -- drem poi per me- ra- vi- glia~in -- sie -- me
-    per me- ra- vi- glia~in -- sie -- me
+    l'ae -- re di -- sgom -- bra.
+    Sì ve -- drem poi per me -- ra -- vi -- glia~in -- sie -- me
+    per me -- ra -- vi -- glia~in -- sie -- me
     Se -- der la don -- na no -- stra so -- pra l'her -- ba
     E far de le sue brac -- cia~a se stess' om -- bra,
     E far de le sue brac -- cia~a se stess' om -- bra.

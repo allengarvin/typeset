@@ -68,9 +68,9 @@ cantoVIII = \relative c'' {
 
 cantoLyricsVIII = \lyricmode {
     Vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
-    Che las -- ci~a me,
+    Che la -- sci~a me,
     vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
-    che las -- ci~a me; vat -- te -- ne,
+    che la -- sci~a me; vat -- te -- ne,
         vat -- te -- ne~i -- ni -- quo~o -- ma -- i.
     Me to -- sto~i -- gnu -- do spir -- to~om -- bra se -- gua -- ce
     In -- di -- vi -- si -- bil -- men -- te~a ter -- go~a -- vra -- i.
@@ -125,7 +125,7 @@ altoVIII = \relative c' {
 altoLyricsVIII = \lyricmode {
     Vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
         con quel -- la pa -- ce
-    Che las -- ci~a me; vat -- te -- ne,
+    Che la -- sci~a me; vat -- te -- ne,
         vat -- te -- ne~i -- ni -- quo~o -- ma -- i.
     Me to -- sto~i -- gnu -- do spir -- to~om -- bra se -- gua -- ce
     In -- di -- vi -- si -- bil -- men -- te~a ter -- go~a -- vra -- i.
@@ -176,9 +176,9 @@ tenoreVIII = \relative c'' {
 
 tenoreLyricsVIII = \lyricmode {
 %    Vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
-%    Che las -- ci~a me,
+%    Che la -- sci~a me,
 %    vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
-%    che las -- ci~a me; vat -- te -- ne,
+%    che la -- sci~a me; vat -- te -- ne,
 %        vat -- te -- ne~i -- ni -- quo~o -- ma -- i.
     Me to -- sto~i -- gnu -- do spir -- to~om -- bra se -- gua -- ce
     In -- di -- vi -- si -- bil -- men -- te~a ter -- go~a -- vra -- i.
@@ -227,9 +227,9 @@ bassoVIII = \relative c {
 
 bassoLyricsVIII = \lyricmode {
 %    Vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
-%    Che las -- ci~a me,
+%    Che la -- sci~a me,
 %    vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
-%    che las -- ci~a me; vat -- te -- ne,
+%    che la -- sci~a me; vat -- te -- ne,
 %        vat -- te -- ne~i -- ni -- quo~o -- ma -- i.
     Me to -- sto~i -- gnu -- do spir -- to~om -- bra se -- gua -- ce
     In -- di -- vi -- si -- bil -- men -- te~a ter -- go~a -- vra -- i.
@@ -284,7 +284,7 @@ quintoVIII = \relative c'' {
 
 quintoLyricsVIII = \lyricmode {
     Vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
-    che las -- ci~a me; vat -- te -- ne,
+    che la -- sci~a me; vat -- te -- ne,
         vat -- te -- ne~i -- ni -- quo~o -- ma -- i.
     Me to -- sto~i -- gnu -- do spir -- to~om -- bra se -- gua -- ce
     In -- di -- vi -- si -- bil -- men -- te~a ter -- go~a -- vra -- i.

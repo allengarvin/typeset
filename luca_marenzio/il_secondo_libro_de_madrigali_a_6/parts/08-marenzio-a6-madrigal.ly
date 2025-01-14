@@ -64,9 +64,9 @@ cantoLyricsVIII = \lyricmode {
     Men -- tre ce -- la -- to~in voi vi -- v'il mio co -- re,
     men -- tre ce -- la -- to~in voi vi -- v'il mio co -- re,
     Non mi sa -- rà,
-    non mi sa -- rà dis -- det -- ta,
+    non mi sa -- rà di -- sdet -- ta,
     \ijLyrics
-    non mi sa -- rà dis -- det -- ta
+    non mi sa -- rà di -- sdet -- ta
     \normalLyrics
     In -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta,
     in -- con -- tr'a voi ta -- l'or,
@@ -74,7 +74,7 @@ cantoLyricsVIII = \lyricmode {
     in -- con -- tr'a voi ta -- l'or,
     \normalLyrics
 
-    non mi sa -- rà dis -- det -- ta,
+    non mi sa -- rà di -- sdet -- ta,
     in -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta.
 }
 
@@ -136,10 +136,10 @@ altoLyricsVIII = \lyricmode {
     Men -- tre ce -- la -- to~in voi vi -- v'il mio co -- re,
         vi -- v'il mio co -- re, __
         vi -- v'il mio co -- re,
-    Non mi sa -- rà dis -- det -- ta,
+    Non mi sa -- rà di -- sdet -- ta,
     non mi sa -- rà,
-    non mi sa -- rà dis -- det -- ta,
-    non mi sa -- rà dis -- det -- ta,
+    non mi sa -- rà di -- sdet -- ta,
+    non mi sa -- rà di -- sdet -- ta,
     In -- con -- tr'a voi ta -- l'or,
     \ijLyrics
     in -- con -- tr'a voi ta -- l'or
@@ -203,10 +203,10 @@ tenoreLyricsVIII = \lyricmode {
     \normalLyrics
         vi -- v'il mio co -- re,
 %    men -- tre ce -- la -- to~in voi vi -- v'il mio co -- re,
-    Non __ mi sa -- rà dis -- det -- ta
+    Non __ mi sa -- rà di -- sdet -- ta
     In -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta,
 
-    non mi sa -- rà dis -- det -- ta,
+    non mi sa -- rà di -- sdet -- ta,
     in -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta,
     in -- con -- tr'a voi ta -- l'or,
     in -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta.
@@ -259,11 +259,11 @@ bassoLyricsVIII = \lyricmode {
     Men -- tre ce -- la -- to~in voi vi -- v'il mio co -- re,
         vi -- v'il mio co -- re,
 %    men -- tre ce -- la -- to~in voi vi -- v'il mio co -- re,
-    Non mi sa -- rà dis -- det -- ta,
-    non mi sa -- rà dis -- det -- ta,
+    Non mi sa -- rà di -- sdet -- ta,
+    non mi sa -- rà di -- sdet -- ta,
     In -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta,
     non mi sa -- rà,
-    non mi sa -- rà dis -- det -- ta,
+    non mi sa -- rà di -- sdet -- ta,
     in -- con -- tr'a voi ta -- l'or,
     in -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta.
 }
@@ -325,7 +325,7 @@ quintoLyricsVIII = \lyricmode {
         vi -- v'il mio co -- re,
     Men -- tre ce -- la -- to~in voi vi -- v'il mio co -- re,
     Non mi sa -- rà,
-    non mi sa -- rà dis -- det -- ta,
+    non mi sa -- rà di -- sdet -- ta,
     In -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta,
     in -- con -- tr'a voi ta -- l'or,
     \ijLyrics
@@ -383,7 +383,7 @@ sestoLyricsVIII = \lyricmode {
     men -- tre ce -- la -- to~in voi 
     \normalLyrics
         vi -- v'il mio co -- re,
-    Non mi sa -- rà dis -- det -- ta,
+    Non mi sa -- rà di -- sdet -- ta,
     In -- con -- tr'a voi ta -- l'or,
     in -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta,
     in -- con -- tr'a voi ta -- l'or dol -- ce ven -- det -- ta,

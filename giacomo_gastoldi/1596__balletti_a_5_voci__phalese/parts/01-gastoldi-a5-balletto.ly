@@ -37,20 +37,20 @@ cantoLyricsI = \lyricmode {
     O __ com -- pa -- gni al -- le -- grez -- za
     \ijLyrics al -- le -- grez -- za \normalLyrics
     Noi siam gion -- ti~in Cu -- ca -- gna
-    O -- ve chi più la -- vo -- ra men gua -- da -- gna
-    Que -- sto~è quel in -- co~a -- me -- no
+    O -- ve chi più la -- vo -- ra men gua -- da -- gna.
+    Que -- sto~è quel lo -- c'~a -- me -- no
     Fon -- te d'o -- gni pia -- cer, mar d'o -- gni gio -- ia,
-    D’o -- gni de -- li -- tia pie -- no,
-    Qui sen -- za~al -- cu -- na no -- ia,
+    D'o -- gni de -- li -- zia pie -- no:
+    Qui sen -- za~al -- cu -- na no -- ia
     Di ge -- lo -- sia ne di ri -- val so -- spet -- to.
     L'a -- ma -- te~e gli~a -- ma -- do -- ri,
-  % Go -- don de l’or a -- mo -- ri.
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+  % Go -- don de lor a -- mo -- ri.
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
     E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- ti. 
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
     E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- to. 
 }
@@ -97,20 +97,20 @@ altoLyricsI = \lyricmode {
     O __ com -- pa -- gni al -- le -- grez -- za
         al -- le -- grez -- za
     Noi siam gion -- ti~in Cu -- ca -- gna
-    O -- ve chi più la -- vo -- ra men gua -- da -- gna
-  % Que -- sto~è quel in -- co~a -- me -- no
+    O -- ve chi più la -- vo -- ra men gua -- da -- gna.
+  % Que -- sto~è quel lo -- c'~a -- me -- no
     Fon -- te d'o -- gni pia -- cer, mar d'o -- gni gio -- ia,
-    D’o -- gni de -- li -- tia pie -- no,
-    Qui sen -- za~al -- cu -- na no -- ia,
+    D'o -- gni de -- li -- zia pie -- no:
+    Qui sen -- za~al -- cu -- na no -- ia
     Di ge -- lo -- sia ne di ri -- val so -- spet -- to.
     L'a -- ma -- te~e gli~a -- ma -- do -- ri,
-   Go -- don de l’or a -- mo -- ri.
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+   Go -- don de lor a -- mo -- ri.
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
   % E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- ti. 
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
   % E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- to. 
 }
@@ -159,20 +159,20 @@ tenoreLyricsI = \lyricmode {
         al -- le -- grez -- za
       \normalLyrics
     Noi siam gion -- ti~in Cu -- ca -- gna
-    O -- ve chi più la -- vo -- ra men gua -- da -- gna
-    Que -- sto~è quel in -- co~a -- me -- no
+    O -- ve chi più la -- vo -- ra men gua -- da -- gna.
+    Que -- sto~è quel lo -- c'~a -- me -- no
     Fon -- te d'o -- gni pia -- cer, mar d'o -- gni gio -- ia,
-    D’o -- gni de -- li -- tia pie -- no,
-    Qui sen -- za~al -- cu -- na no -- ia,
+    D'o -- gni de -- li -- zia pie -- no:
+    Qui sen -- za~al -- cu -- na no -- ia
     Di ge -- lo -- sia ne di ri -- val so -- spet -- to.
     L'a -- ma -- te~e gli~a -- ma -- do -- ri,
-    Go -- don de l’or a -- mo -- ri.
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+    Go -- don de lor a -- mo -- ri.
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
     E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- ti. 
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
     E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- to. 
 }
@@ -216,20 +216,20 @@ bassoLyricsI = \lyricmode {
     O __ com -- pa -- gni al -- le -- grez -- za
         al -- le -- grez -- za
     Noi siam gion -- ti~in Cu -- ca -- gna
-    O -- ve chi più la -- vo -- ra men gua -- da -- gna
-  % Que -- sto~è quel in -- co~a -- me -- no
+    O -- ve chi più la -- vo -- ra men gua -- da -- gna.
+  % Que -- sto~è quel lo -- c'~a -- me -- no
   % Fon -- te d'o -- gni pia -- cer, mar d'o -- gni gio -- ia,
-  % D’o -- gni de -- li -- tia pie -- no,
-    Qui sen -- za~al -- cu -- na no -- ia,
+  % D'o -- gni de -- li -- zia pie -- no:
+    Qui sen -- za~al -- cu -- na no -- ia
     Di ge -- lo -- sia ne di ri -- val so -- spet -- to.
   % L'a -- ma -- te~e gli~a -- ma -- do -- ri,
-    Go -- don de l’or a -- mo -- ri.
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+    Go -- don de lor a -- mo -- ri.
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
   % E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- ti. 
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
   % E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- to. 
 }
@@ -274,20 +274,20 @@ quintoLyricsI = \lyricmode {
     O __ com -- pa -- gni al -- le -- grez -- za
         al -- le -- grez -- za
     Noi siam gion -- ti~in Cu -- ca -- gna
-    O -- ve chi più la -- vo -- ra men gua -- da -- gna
-    Que -- sto~è quel in -- co~a -- me -- no
+    O -- ve chi più la -- vo -- ra men gua -- da -- gna.
+    Que -- sto~è quel lo -- c'~a -- me -- no
     Fon -- te d'o -- gni pia -- cer, mar d'o -- gni gio -- ia,
-    D’o -- gni de -- li -- tia pie -- no,
-    Qui sen -- za~al -- cu -- na no -- ia,
+    D'o -- gni de -- li -- zia pie -- no:
+    Qui sen -- za~al -- cu -- na no -- ia
     Di ge -- lo -- sia ne di ri -- val so -- spet -- to.
     L'a -- ma -- te~e gli~a -- ma -- do -- ri,
-    Go -- don de l’or a -- mo -- ri.
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+    Go -- don de lor a -- mo -- ri.
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
     E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- ti. 
-    Hor pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
-    Sú cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
+    Or pron -- te~e lie -- to~o -- gnun di noi si mo -- stri,
+    Su cac -- ciam ma -- no~a gli stro -- men -- ti no -- stri,
     E per dar lor di -- let -- to
     E so -- niam e can -- tiam qual -- che bal -- let -- to. 
 }

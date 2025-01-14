@@ -36,7 +36,7 @@ cantoXXIII = \relative c'' {
 
 cantoLyricsXXIII = \lyricmode {
     Ma __ per me, las -- so, tor -- na -- no~i piú gra -- vi
-    Sos -- pi -- ri, che del cor pro -- fon -- do trag -- ge,
+    So -- spi -- ri, che del cor pro -- fon -- do trag -- ge,
     Quel -- la ch'al ciel se ne por -- tò le chia -- vi.
  
     E can -- tar au -- gel -- let -- ti
@@ -87,7 +87,7 @@ altoXXIII = \relative c'' {
 
 altoLyricsXXIII = \lyricmode {
     Ma __ per me, las -- so, tor -- na -- no~i piú gra -- vi,
-    Sos -- pi -- ri, che del cor pro -- fon -- do __ trag -- ge,
+    So -- spi -- ri, che del cor pro -- fon -- do __ trag -- ge,
     Quel -- la ch'al ciel __ se ne por -- tò le chia -- vi.
  
     E can -- tar au -- gel -- let -- ti
@@ -141,7 +141,7 @@ tenoreXXIII = \relative c' {
 
 tenoreLyricsXXIII = \lyricmode {
     Ma per me, las -- so, tor -- na -- no~i piú gra -- vi,
-    Sos -- pi -- ri, che del cor pro -- fon -- do trag -- ge,
+    So -- spi -- ri, che del cor pro -- fon -- do trag -- ge,
     Quel -- la ch'al ciel se ne por -- tò le chia -- vi,
         le chia -- vi. __
  
@@ -196,7 +196,7 @@ bassoXXIII = \relative c' {
 
 bassoLyricsXXIII = \lyricmode {
     Ma per me, las -- so, tor -- na -- no~i piú gra -- vi
-    Sos -- pi -- ri __ che del cor 
+    So -- spi -- ri __ che del cor 
         che del cor pro -- fon -- do trag -- ge,
     Quel -- la ch'al ciel se ne por -- tò le chia -- vi. __
  

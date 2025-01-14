@@ -23,7 +23,7 @@
     shorttitle = "o_doloroso_sorte"
     categories = "[madrigal,morte]"
     poeticform = "madrigal"
-    motifs = "[morte,la-petite-morte,amore,hell,flame,male-pov]"
+    motifs = "[morte,la-petite-mort,amore,hell,flame,male-pov,fate]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

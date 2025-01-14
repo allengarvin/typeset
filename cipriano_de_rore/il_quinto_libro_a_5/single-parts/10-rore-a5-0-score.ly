@@ -23,7 +23,7 @@
     lastupdated = "2019-06-15"
     originally_set = "2019-06-15"
     categories = "[madrigal,morte]"
-    motifs = "[la-petite-morte]"
+    motifs = "[la-petite-mort,amore,torment]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

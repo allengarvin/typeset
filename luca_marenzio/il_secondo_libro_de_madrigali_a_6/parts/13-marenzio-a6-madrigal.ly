@@ -36,8 +36,8 @@ cantoXIII = \relative c'' {
 }
 
 cantoLyricsXIII = \lyricmode {
-    Ché la mia don -- na~al -- tie -- ra e dis -- de -- gno -- sa,
-        e dis -- de -- gno -- sa,
+    Ché la mia don -- na~al -- tie -- ra e si -- sde -- gno -- sa,
+        e si -- sde -- gno -- sa,
     Men -- tre nei miei so -- spir l'in -- vo -- co~e chia -- mo,
     Gio -- ir __ scor -- go s'io ar -- do e s'io lan -- gui -- sco,
     E s'io cer -- co tron -- car
@@ -93,8 +93,8 @@ altoXIII = \relative c' {
 }
 
 altoLyricsXIII = \lyricmode {
-    Che __ la __ mia don -- na~al -- tie -- ra~e dis -- de -- gno -- sa,
-        e dis -- de -- gno -- sa,
+    Che __ la __ mia don -- na~al -- tie -- ra~e si -- sde -- gno -- sa,
+        e si -- sde -- gno -- sa,
     Men -- tre nei miei so -- spir l'in -- vo -- co~e chia -- mo,
     Gio -- ir scor -- go s'io ar -- do e s'io lan -- gui -- sco,
     E s'io cer -- co tron -- car l'I -- dra
@@ -240,8 +240,8 @@ quintoXIII = \relative c'' {
 }
 
 quintoLyricsXIII = \lyricmode {
-    Che __ la mia don -- na~al -- tie -- ra~e dis -- de -- gno -- sa,
-        e dis -- de -- gno -- sa,
+    Che __ la mia don -- na~al -- tie -- ra~e si -- sde -- gno -- sa,
+        e si -- sde -- gno -- sa,
     Men -- tre nei miei so -- spir l'in -- vo -- co~e chia -- mo,
         l'in -- vo -- co~e chia -- mo,
     Gio -- ir __ scor -- go s'io ar -- do e s'io lan -- gui -- sco,

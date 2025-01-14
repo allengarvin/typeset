@@ -39,8 +39,8 @@ cantoLyricsI = \lyricmode {
     Deh hor foss' io __ col va -- go de la lu -- na,
     A -- dor -- men -- ta -- to~in qua __ che ver -- di __ bo -- schi,
     A -- dor -- men -- ta -- to~in qual che ver -- di bo -- schi, __
-    Et que -- sta et que -- sta ch'an -- zi ves -- pro
-        ch'an -- zi ves -- pro~a me fa se -- ra,
+    Et que -- sta et que -- sta ch'an -- zi ve -- spro
+        ch'an -- zi ve -- spro~a me fa se -- ra,
     Con es -- sa~et con A -- mor in quel -- la piag -- gia,
     So -- la ve -- nis -- se~a star -- si 
         So -- la ve -- nis -- se~a star -- si~i -- vi~u -- na not -- te,
@@ -93,8 +93,8 @@ altoLyricsI = \lyricmode {
         col va -- go de la lu -- na,
     A -- dor -- men -- ta -- to~in qual che ver -- di bo -- schi,
     A -- dor -- men -- ta -- to~in qual che ver -- di bo -- schi,
-    Et que -- sta ch'an -- zi ves -- pro~a me fa se -- ra,
-        ch'an -- zi ves -- pro~a me fa se -- ra,
+    Et que -- sta ch'an -- zi ve -- spro~a me fa se -- ra,
+        ch'an -- zi ve -- spro~a me fa se -- ra,
     Con es -- sa~et con A -- mor __ in quel -- la piag -- gia,
     So -- la ve -- nis -- se~a star -- si~i -- vi~u -- na not -- te
         u -- na not -- te,
@@ -143,8 +143,8 @@ tenoreLyricsI = \lyricmode {
     Deh hor __ foss' io __ col va -- go de la lu -- na,
         col va -- go de la lu -- na,
     A -- dor -- men -- ta -- to~in qual che ver -- di bo -- schi,
-    Et que -- sta ch'an -- zi ves -- pro~a me fa se -- ra,
-        ch'an -- zi ves -- pro~a me __ fa se -- ra,
+    Et que -- sta ch'an -- zi ve -- spro~a me fa se -- ra,
+        ch'an -- zi ve -- spro~a me __ fa se -- ra,
         a me fa se -- ra,
     Con es -- sa~et con A -- mor in quel -- la piag -- gia,
     So -- la ve -- nis -- se~a star -- si
@@ -193,8 +193,8 @@ bassoLyricsI = \lyricmode {
     Deh __ hor foss' io col va -- go de la lu -- na,
     A -- dor -- men -- ta -- to~in qual che ver -- di bo -- schi,
         in qual che ver -- di bo -- schi, __
-    Et que -- sta ch'an -- zi ves -- pro~a me fa se -- ra,
-        ch'an -- zi ves -- pro~a me fa se -- ra,
+    Et que -- sta ch'an -- zi ve -- spro~a me fa se -- ra,
+        ch'an -- zi ve -- spro~a me fa se -- ra,
     Con es -- sa~et con A -- mor in quel -- la piag -- gia,
     So -- la ve -- nis -- se~a
     So -- la ve -- nis -- se~a star -- si~i -- vi~u -- na not -- te,

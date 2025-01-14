@@ -1,5 +1,5 @@
 cantusIIincipit = \relative c' {
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c1"
     \key f \major
 
@@ -38,8 +38,8 @@ cantusLyricsII = \lyricmode {
     Dov' a -- mor sue stan -- ze fa -- ce,
     che fan de gli~oc -- chi miei
     pe'l gran de -- sir,
-    che m'ar -- d'e mi dis -- fa -- ce
-    che m'ar -- d'e mi dis -- fa -- ce
+    che m'ar -- d'e mi di -- sfa -- ce
+    che m'ar -- d'e mi di -- sfa -- ce
     Por -- ge -- te~al cor' af -- flit -- to quel che chie -- de
     O mor -- te prend' al -- men
     O mor -- te prend' al -- men di me mer -- ce -- de, 
@@ -48,7 +48,7 @@ cantusLyricsII = \lyricmode {
 }
 
 altusIIincipit = \relative c' {
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c3"
     \key f \major
 
@@ -91,8 +91,8 @@ altusLyricsII = \lyricmode {
      Dov' a -- mor sue stan -- ze sue stan -- ze fa -- ce,
      che fan de gli~oc -- chi mi -- ei~u -- scir duo fiu -- mi
      pe'l gran de -- sir,
-     che m'ar -- d'e mi dis -- fa -- ce,
-     che m'ar -- d'e mi dis -- fa -- ce~e mi dis -- fa -- ce
+     che m'ar -- d'e mi di -- sfa -- ce,
+     che m'ar -- d'e mi di -- sfa -- ce~e mi dis -- fa -- ce
      Por -- ge -- te~al cor' af -- flit -- to
      O mor -- te prend' al -- men
      O mor -- te prend' al -- men di me mer -- ce -- de, 
@@ -101,7 +101,7 @@ altusLyricsII = \lyricmode {
 }
 
 tenorIIincipit = \relative c' {
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c4"
     \key f \major
 
@@ -142,15 +142,15 @@ tenorLyricsII = \lyricmode {
     Dov' a -- mor sue stan -- ze sue stan -- ze fa -- ce
     che fan de gli~oc -- chi mi -- ei~u -- scir duo fiu -- mi
     pe'l gran de -- sir,
-    che m'ar -- d'e mi dis -- fa -- ce,
-    che m'ar -- d'e mi dis -- fa -- ce e mi dis -- fa -- ce
+    che m'ar -- d'e mi di -- sfa -- ce,
+    che m'ar -- d'e mi di -- sfa -- ce e mi dis -- fa -- ce
     Por -- ge -- te~al cor' af -- flit -- to quel __ che chie -- de
     O mor -- te prend' al -- men di me mer -- ce -- de, 
     O mor -- te prend' al -- men di me mer -- ce -- de. 
 }
 
 bassusIIincipit = \relative c {
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-f4"
     \key f \major
 
@@ -188,7 +188,7 @@ bassusLyricsII = \lyricmode {
     Dov' a -- mor sue stan -- ze fa -- ce
     che fan de gli~oc -- chi mi -- ei~u -- scir duo fiu -- mi
     pe'l gran de -- sir 
-    che m'ar -- d'e mi dis -- fa -- ce e mi dis -- fa -- ce
+    che m'ar -- d'e mi di -- sfa -- ce e mi dis -- fa -- ce
     Por -- ge -- te~al cor' af -- flit -- to quel che chie -- de
     O mor -- te prend' al -- men di me mer -- ce -- de, 
     O mor -- te prend' al -- men di me mer -- ce -- de. 

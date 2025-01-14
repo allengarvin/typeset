@@ -11,11 +11,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Introduttione a i Balletti"
+    title = "Introduttione ai Balletti"
 
     % Things that change per part:
-    partname = "Tenore (part 4 of 5)"
-    instrument = "Introduttione a i Balletti (tenore)"
+    partname = "Basso (part 5 of 5)"
+    instrument = "Introduttione ai Balletti (basso)"
 
     % Unchanging:
     originallyset = "2013-06-04"
@@ -26,34 +26,18 @@
 }
 
 \include "../parts/01-gastoldi-a5-balletto.ly"
-    
-\book {
-    \bookOutputName "01-gastoldi--introduttione"
-    \bookOutputSuffix "--3-tenore--tr8_clef"
-    \include "../include/paper-1-part.ly"
-    \score {
-        \new Voice << 
-            \clef "treble_8"
-            \global 
-            \tenoreI
-        >>
-        \addlyrics { \tenoreLyricsI }
-     %   \include "../include/layout-parts.ly"
-    }
-}
 
 \book {
     \bookOutputName "01-gastoldi--introduttione"
-    \bookOutputSuffix "--3-tenore--al_clef"
+    \bookOutputSuffix "--4-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef alto
+            \clef bass
             \global 
-            \tenoreI 
+            \bassoI 
         >>
-        \addlyrics { \tenoreLyricsI }
+        \addlyrics { \bassoLyricsI }
      %   \include "../include/layout-parts.ly"
     }
 }
-

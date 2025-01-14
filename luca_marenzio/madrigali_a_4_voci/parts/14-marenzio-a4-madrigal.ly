@@ -55,9 +55,9 @@ cantoLyricsXIV = \lyricmode {
         e l'on -- de
     Gar -- rir __  
     Gar -- rir __ che va -- ria -- men -- te~el -- la per -- co -- te
-    Quan -- do tac -- cion gli~au -- gel -- li al -- to ris -- pon -- de
-        ris -- pon -- de
-        ris -- pon -- de
+    Quan -- do tac -- cion gli~au -- gel -- li al -- to ri -- spon -- de
+        ri -- spon -- de
+        ri -- spon -- de
     Quan -- do quan -- do can -- tan 
         can -- tan gli~au -- gei più lie -- ve sco -- te,
     Sia ca -- so~od ar -- te 
@@ -130,8 +130,8 @@ altoLyricsXIV = \lyricmode {
     Mor -- mo -- ra l’au -- ra e fa e fa le fo -- glie e l’on -- de
     Gar -- rir __  
     Gar -- rir __ che va -- ria -- men -- te~el -- la per -- co -- te
-    Quan -- do tac -- cion gli~au -- gel -- li __ al -- to ris -- pon -- de
-        al -- to ris -- pon -- de
+    Quan -- do tac -- cion gli~au -- gel -- li __ al -- to ri -- spon -- de
+        al -- to ri -- spon -- de
     Quan -- do quan -- do can -- tan 
         can -- tan gli~au -- gei più lie -- ve sco -- te,
     Sia ca -- so~od ar -- te 
@@ -199,9 +199,9 @@ tenoreLyricsXIV = \lyricmode {
     Mor -- mo -- ra l’au -- ra~e fa e fa le fo -- glie~e l’on -- de
     Gar -- rir __  
     Gar -- rir __ che va -- ria -- men -- te~el -- la per -- co -- te
-    Quan -- do tac -- cion gli~au -- gel -- li al -- to ris -- pon -- de
-        al -- to ris -- pon -- de
-        al -- to ris -- pon -- de
+    Quan -- do tac -- cion gli~au -- gel -- li al -- to ri -- spon -- de
+        al -- to ri -- spon -- de
+        al -- to ri -- spon -- de
     Quan -- do quan -- do can -- tan 
         can -- tan gli~au -- gei più lie -- ve sco -- te,
     hor ac -- com -- pa -- gna~ed ho -- ra,
@@ -266,9 +266,9 @@ bassoLyricsXIV = \lyricmode {
     Mor -- mo -- ra l’au -- ra e fa e fa le fo -- glie~e l’on -- de,
     Gar -- rir __  
     Gar -- rir __ che va -- ria -- men -- te~el -- la per -- co -- te,
-    Quan -- do tac -- cion gli~au -- gel -- li al -- to ris -- pon -- de
-        ris -- pon -- de
-        ris -- pon -- de
+    Quan -- do tac -- cion gli~au -- gel -- li al -- to ri -- spon -- de
+        ri -- spon -- de
+        ri -- spon -- de
     Quan -- do quan -- do can -- tan 
         can -- tan gli~au -- gei più lie -- ve sco -- te,
     hor ac -- com -- pa -- gna~ed ho -- ra
