@@ -14,7 +14,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Padre del cielo"
-    subtitle = ""
+    subtitle = "Prime e seconda parte"
     instrument = "Padre del cielo:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "padre_del_cielo"

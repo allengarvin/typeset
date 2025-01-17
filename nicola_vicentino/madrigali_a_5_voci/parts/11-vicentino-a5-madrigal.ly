@@ -63,7 +63,7 @@ cantoLyricsXI = \lyricmode {
 
     Sì ch’io non veg -- gia~il gran pu -- bli -- co dan -- no,
     E~il mon -- do ri -- ma -- ner sen -- za~il suo so -- le,
-    Ne gli~oc -- chi miei, che lu -- ce~a -- ltra non àn -- no;
+    Ne gli~oc -- chi miei, che lu -- ce~al -- tra non àn -- no;
 
     Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
     Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
@@ -137,9 +137,9 @@ altoLyricsXI = \lyricmode {
         il gran pu -- bli -- co dan -- no,
     E~il mon -- do ri -- ma -- ner sen -- za~il suo so -- le,
         sen -- za~il suo so -- le,
-    Ne gli~oc -- chi miei, che lu -- ce~a -- ltra non àn -- no,
+    Ne gli~oc -- chi miei, che lu -- ce~al -- tra non àn -- no,
     \ijLyrics
-    Ne gli~oc -- chi miei, che lu -- ce~a -- ltra non àn -- no;
+    Ne gli~oc -- chi miei, che lu -- ce~al -- tra non àn -- no;
     \normalLyrics
 
     Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
@@ -208,7 +208,7 @@ tenoreLyricsXI = \lyricmode {
 
     Sì ch’io non veg -- gia il gran pu -- bli -- co dan -- no,
     E~il mon -- do ri -- ma -- ner sen -- za~il suo so -- le,
-    Ne gli~oc -- chi miei, che lu -- ce~a -- ltra non àn -- no;
+    Ne gli~oc -- chi miei, che lu -- ce~al -- tra non àn -- no;
 
     Ne l’al -- ma, che pen -- sar, __
     \ijLyrics
@@ -276,7 +276,7 @@ bassoLyricsXI = \lyricmode {
 
     Sì ch’io non veg -- gia il gran pu -- bli -- co dan -- no,
     E~il mon -- do ri -- ma -- ner sen -- za~il suo so -- le,
-    Ne gli~oc -- chi miei, che lu -- ce~a -- ltra non __ àn -- no;
+    Ne gli~oc -- chi miei, che lu -- ce~al -- tra non __ àn -- no;
 
     Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
     Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
@@ -353,7 +353,7 @@ quintoLyricsXI = \lyricmode {
     e~il mon -- do 
     \normalLyrics 
         ri -- ma -- ner sen -- za~il suo so -- le,
-    Ne gli~oc -- chi miei, che lu -- ce~a -- ltra non àn -- no;
+    Ne gli~oc -- chi miei, che lu -- ce~al -- tra non àn -- no;
 
     Ne l’al -- ma, che pen -- sar,
     \ijLyrics

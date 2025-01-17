@@ -108,9 +108,9 @@ cantoLyricsXV = \lyricmode {
     Né fiu -- m'ai -- ta -- to da con -- ti -- nua piog -- gia,
     \normalLyrics
     Né nu -- be, __
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
-        i -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
+        in -- nan -- zi~al ven -- to,
     Né vo -- la sì leg -- gier,
     \ijLyrics
     Né vo -- la sì leg -- gier,
@@ -176,8 +176,8 @@ altoLyricsXV = \lyricmode {
     Né le -- o -- par -- do~o ti -- gre in al -- cun bo -- sco,
     Né fiu -- m'ai -- ta -- to da __ con -- ti -- nua piog -- gia,
         da __ con -- ti -- nua piog -- gia,
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
     Né nu -- be,
     Né vo -- la sì leg -- gier,
     \ijLyrics
@@ -245,10 +245,10 @@ tenoreLyricsXV = \lyricmode {
     Né le -- o -- par -- d'o ti -- gre in al -- cun bo -- sco,
     Né fiu -- me,
     Né fiu -- m'ai -- ta -- to da con -- ti -- nua piog -- gia,
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
     Né nu -- be,
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
-        i -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
+        in -- nan -- zi~al ven -- to,
     Né vo -- la sì leg -- gier,
     \ijLyrics
     Né vo -- la sì leg -- gier
@@ -306,8 +306,8 @@ bassoLyricsXV = \lyricmode {
 %    \normalLyrics
     Né le -- o -- par -- d'o ti -- gre~in al -- cun bo -- sco,
     Né fiu -- m'ai -- ta -- to da con -- ti -- nua piog -- gia,
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
     Né __ vo -- la __ sì leg -- gier dar -- do né stra -- le,
     Né vo -- la sì leg -- gier,
     \ijLyrics
@@ -371,11 +371,11 @@ quintoLyricsXV = \lyricmode {
     \ijLyrics
     Né fiu -- m'ai -- ta -- to da __ con -- ti -- nua piog -- gia,
     \normalLyrics
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
-    Né nu -- be che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
+    Né nu -- be che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
     \ijLyrics
     % Né nu -- be
-        che s'af -- fret -- t'i -- nan -- zi~al ven -- to,
+        che s'af -- fret -- t'in -- nan -- zi~al ven -- to,
     \normalLyrics
     Né vo -- la sì leg -- gier dar -- do né stra -- le,
     Né vo -- la sì leg -- gier dar -- do né stra -- le,
