@@ -1,9 +1,9 @@
-% Ma, lasso, io sento che 'l pungente strale,
-% che per gli occhi miei versa amara pioggia,
-% a forza mi fa gir di bosco in bosco,
-% pregando lui, che mi ritiene in vita,
-% che innanzi tempo m'interrompa il corso
-% e mi soccorra in sì contrario vento.
+% Talor dal cor si move un caldo vento,
+% per rimembranza de l'antico strale;
+% e ripensando al periglioso corso,
+% dico fra me: — Che sai se nebbia o pioggia
+% ti rinchiude il camin de l'altra vita,
+% e morir ti convien in questo bosco? —
 % 
 cantoXVIII = \relative c'' {
     \clef treble

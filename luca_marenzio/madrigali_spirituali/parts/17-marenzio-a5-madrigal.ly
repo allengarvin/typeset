@@ -1,3 +1,10 @@
+% Ma, lasso, io sento che 'l pungente strale,
+% che per gli occhi miei versa amara pioggia,
+% a forza mi fa gir di bosco in bosco,
+% pregando lui, che mi ritiene in vita,
+% che innanzi tempo m'interrompa il corso
+% e mi soccorra in sì contrario vento.
+
 % Se s'acquetasse l'amorosa pioggia
 % ed avesse un sol dì di quieta vita,
 % io spererei ancor con miglior vento
