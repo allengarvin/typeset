@@ -49,8 +49,8 @@ cantoLyricsIII = \lyricmode {
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
     Pe -- rò ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
-    Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de,
-    Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de.
+    Che mo -- stran tut -- ti~u -- na me -- de -- sma fe -- de,
+    Che mo -- stran tut -- ti~u -- na me -- de -- sma fe -- de.
 
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
     Vol -- ta la tur -- ba~a -- du -- la -- tri -- ce~il pie -- de;
@@ -102,7 +102,7 @@ altoLyricsIII = \lyricmode {
     Al -- cun non può sa -- per da chi sia~a -- ma -- to,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
     Pe -- rò ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
-    Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de. __
+    Che mo -- stran tut -- ti~u -- na me -- de -- sma fe -- de. __
 
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
@@ -150,7 +150,7 @@ tenoreLyricsIII = \lyricmode {
     Al -- cun non può sa -- per da chi sia~a -- ma -- to,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
     Pe -- rò __ ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
-    Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de.
+    Che mo -- stran tut -- ti~u -- na me -- de -- sma fe -- de.
 
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
     Vol -- ta la tur -- ba~a -- du -- la -- tri -- ce~il pie -- de;
@@ -199,7 +199,7 @@ bassoLyricsIII = \lyricmode {
     Al -- cun non può sa -- per da chi sia~a -- ma -- to,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
     Pe -- rò __ ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
-    Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de.
+    Che mo -- stran tut -- ti~u -- na me -- de -- sma fe -- de.
 
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
     Vol -- ta la tur -- ba~a -- du -- la -- tri -- ce~il pie -- de;
@@ -250,7 +250,7 @@ quintoLyricsIII = \lyricmode {
     Al -- cun non può sa -- per da chi sia~a -- ma -- to,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
     Pe -- rò ch'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a __ la -- to
-    Che mo -- stran tut -- ti~u -- na me -- des -- ma fe -- de. __
+    Che mo -- stran tut -- ti~u -- na me -- de -- sma fe -- de. __
 
     Se poi __ si can -- gia~in tri -- sto~il lie -- to sta -- to,
         il lie -- to sta -- to,

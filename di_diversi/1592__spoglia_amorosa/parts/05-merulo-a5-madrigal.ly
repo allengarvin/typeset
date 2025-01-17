@@ -54,8 +54,8 @@ cantoLyricsV = \lyricmode {
     Co' di -- vin oc -- chi tuo -- i,
     E tu di me fa po -- i,
     Cor mio, quel ch'a te pia -- ce.
-    Las -- so, Las -- so, che mi dis -- fa -- ce!
-    Las -- so, che mi dis -- fa -- ce!
+    Las -- so, Las -- so, che mi di -- sfa -- ce!
+    Las -- so, che mi di -- sfa -- ce!
     Non mi -- rar più, ben mio, 
     Non mi -- rar più, ben mio, deh non mi -- ra -- re, __
     Ch'io mi sen -- to man -- ca -- re! __
@@ -112,9 +112,9 @@ altoLyricsV = \lyricmode {
     Co' di -- vin oc -- chi tuo -- i,
     E tu di me fa po -- i,
     Cor mio, quel ch'a te pia -- ce.
-    Las -- so, che mi dis -- fa -- ce!
-        che mi dis -- fa -- ce!
-        che mi dis -- fa -- ce!
+    Las -- so, che mi di -- sfa -- ce!
+        che mi di -- sfa -- ce!
+        che mi di -- sfa -- ce!
     Non mi -- rar più, ben mio, deh non mi -- ra -- re, 
         deh non mi -- ra -- re, 
     \ijLyrics
@@ -179,13 +179,13 @@ tenoreLyricsV = \lyricmode {
     E tu di me fa po -- i,
     Cor mio, 
     Cor mio, quel ch'a te pia -- ce.
-    Las -- so, che mi dis -- fa -- ce!
+    Las -- so, che mi di -- sfa -- ce!
     \ijLyrics
-        che mi dis -- fa -- ce!
+        che mi di -- sfa -- ce!
     \normalLyrics
-        che mi dis -- fa -- ce!
+        che mi di -- sfa -- ce!
     \ijLyrics
-        che mi dis -- fa -- ce!
+        che mi di -- sfa -- ce!
     \normalLyrics
     Non mi -- rar più, 
     \ijLyrics
@@ -252,8 +252,8 @@ bassoV = \relative c {
 bassoLyricsV = \lyricmode {
     E tu __ di me fa po -- i,
     Cor mio, quel ch'a te pia -- ce.
-        che mi dis -- fa -- ce!
-    Las -- so, che mi dis -- fa -- ce!
+        che mi di -- sfa -- ce!
+    Las -- so, che mi di -- sfa -- ce!
     Non mi -- rar più, ben mio, 
     \ijLyrics
     non mi -- rar più, ben mio, 
@@ -317,9 +317,9 @@ quintoLyricsV = \lyricmode {
     Co' di -- vin oc -- chi tuo -- i,
     E tu di me fa po -- i,
     Cor mio, quel ch'a te pia -- ce.
-    Las -- so, che mi dis -- fa -- ce!
-        che mi dis -- fa -- ce!
-        che mi che mi dis -- fa -- ce!
+    Las -- so, che mi di -- sfa -- ce!
+        che mi di -- sfa -- ce!
+        che mi che mi di -- sfa -- ce!
     Non mi -- rar più, ben mio, 
     \ijLyrics
     Non mi -- rar più, ben mio, 

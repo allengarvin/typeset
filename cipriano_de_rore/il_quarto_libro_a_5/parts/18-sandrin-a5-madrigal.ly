@@ -62,7 +62,7 @@ cantusLyricsXVIII = \lyricmode {
     Più __ non te -- mo di te le -- ga -- mi~o pia -- ga,
         le -- ga -- mi~o pia -- ga,
         le -- ga -- mi~o pia -- ga
-    Né che m'in -- ves -- chi più né più m'ac -- cen -- di,
+    Né che m'in -- ve -- schi più né più m'ac -- cen -- di,
     L'al -- ma che fu di ser -- vi -- tù si vaga.
 
     E se for -- se di no -- v'an -- cor m'at -- ten -- di, __
@@ -119,7 +119,7 @@ altusLyricsXVIII = \lyricmode {
     Più non te -- mo di te le -- ga -- mi~o __ pia -- ga,
         le -- ga -- mi~o pia -- ga,
         le -- ga -- mi~o pia -- ga
-    Né che m'in -- ves -- chi più né più m'ac -- cen -- di, __
+    Né che m'in -- ve -- schi più né più m'ac -- cen -- di, __
         né più m'ac -- cen -- di,
     L'al -- ma che fu di ser -- vi -- tù,
         di ser -- vi -- tù si vaga.
@@ -177,7 +177,7 @@ tenorLyricsXVIII = \lyricmode {
         in -- dar -- no ten -- di.
     Più non te -- mo di te,
     Più __ non te -- mo di te le -- ga -- mi~o pia -- ga
-    Né che m'in -- ves -- chi più __ né più m'ac -- cen -- di,
+    Né che m'in -- ve -- schi più __ né più m'ac -- cen -- di,
             m'ac -- cen -- di,
         né più m'ac -- cen -- di,
         né più m'ac -- cen -- di,
@@ -235,8 +235,8 @@ bassusLyricsXVIII = \lyricmode {
 %    Più non te -- mo,
     Più __ non te -- mo di te __ le -- ga -- mi~o pia -- ga,
         le -- ga -- mi~o pia -- ga
-    Né che m'in -- ves -- chi più né più m'ac -- cen -- di,
-    Né che m'in -- ves -- chi più né più m'ac -- cen -- di,
+    Né che m'in -- ve -- schi più né più m'ac -- cen -- di,
+    Né che m'in -- ve -- schi più né più m'ac -- cen -- di,
     L'al -- ma che fu di ser -- vi -- tù si vaga.
 
     E se for -- se di no -- vo an -- cor m'at -- ten -- di,
@@ -295,7 +295,7 @@ quintusLyricsXVIII = \lyricmode {
     Più non te -- mo,
     Più __ non te -- mo di te le -- ga -- mi~o pia -- ga, __
         le -- ga -- mi~o pia -- ga
-    Né che m'in -- ves -- chi più né più m'ac -- cen -- di,
+    Né che m'in -- ve -- schi più né più m'ac -- cen -- di,
         né più m'ac -- cen -- di,
     L'al -- ma che fu di ser -- vi -- tù si vaga.
 

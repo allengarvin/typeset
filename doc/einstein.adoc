@@ -147,6 +147,7 @@ works that I will try to get to, but my primary focus is on the madrigal.
   - link:../luca_marenzio/madrigali_a_4_5_e_6_voci/single-parts/19-output[Typeset Edition]
 // #80
 . Luzzasco Luzzaschi. _Dolorosi martir, fieri tormenti_
+  - link:../luzzasco_luzzaschi/quarto_libro_de_madrigali_a_5/single-parts/15-output/[Typeset Edition]
 . Luzzasco Luzzaschi. _Itene mie querele_
 . Vincenzo Galilei. _Poi che'l mio largo pianto_
 . Marco de Gagliano. _O misera Dorinda ov'hai tu poste_

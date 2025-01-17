@@ -1,7 +1,14 @@
+% Ma, lasso, io sento che 'l pungente strale,
+% che per gli occhi miei versa amara pioggia,
+% a forza mi fa gir di bosco in bosco,
+% pregando lui, che mi ritiene in vita,
+% che innanzi tempo m'interrompa il corso
+% e mi soccorra in sì contrario vento.
+% 
 cantoXVIII = \relative c'' {
     \clef treble
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }
@@ -12,7 +19,7 @@ cantoLyricsXVIII = \lyricmode {
 altoXVIII = \relative c' {
     \clef mezzosoprano
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }
@@ -23,7 +30,7 @@ altoLyricsXVIII = \lyricmode {
 tenoreXVIII = \relative c' {
     \clef alto
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }
@@ -32,9 +39,9 @@ tenoreLyricsXVIII = \lyricmode {
 }
 
 bassoXVIII = \relative c {
-    \clef tenore
+    \clef tenor
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }
@@ -45,7 +52,7 @@ bassoLyricsXVIII = \lyricmode {
 quintoXVIII = \relative c' {
     \clef alto
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }

@@ -195,7 +195,7 @@ tenoreLyricsXXVII = \lyricmode {
 
 %    Co -- me do -- glio -- sa~e ri -- a
     Per -- che~el -- la non da fe -- de
-    A l'ar -- den -- te de -- sio che mi dis -- fa -- ce,
+    A l'ar -- den -- te de -- sio che mi di -- sfa -- ce,
 %    La me -- de -- sma bel -- tà tua vi -- ta fa -- ce,
 %
 %    Se gra -- ta non si ve -- de
@@ -272,7 +272,7 @@ bassoLyricsXXVII = \lyricmode {
 %
 %%    Co -- me do -- glio -- sa~e ri -- a
     Per -- che~el -- la non da fe -- de
-    A l'ar -- den -- te de -- sio che mi dis -- fa -- ce,
+    A l'ar -- den -- te de -- sio che mi di -- sfa -- ce,
 %%    La me -- de -- sma bel -- tà tua vi -- ta fa -- ce,
 %%
 %%    Se gra -- ta non si ve -- de
@@ -423,7 +423,7 @@ sestoLyricsXXVII = \lyricmode {
 %
 %%    Co -- me do -- glio -- sa~e ri -- a
     Per -- che~el -- la non da fe -- de
-    A l'ar -- den -- te de -- sio che mi dis -- fa -- ce,
+    A l'ar -- den -- te de -- sio che mi di -- sfa -- ce,
 %%    La me -- de -- sma bel -- tà tua vi -- ta fa -- ce,
 %%
 %%    Se gra -- ta non si ve -- de
@@ -493,7 +493,7 @@ settimaLyricsXXVII = \lyricmode {
     Per -- che la don -- na mi -- a
     Ac -- que -- ta co' be -- gli~oc -- chi o -- gni mia no -- ia,
     Per -- che~el -- la non da fe -- de
-    A l'ar -- den -- te de -- sio che mi dis -- fa -- ce,
+    A l'ar -- den -- te de -- sio che mi di -- sfa -- ce,
     Di lei __ tal è'l tor -- men -- to
     Che~il mag -- gior mal mi fa spe -- rar più be -- ne, __
         più be -- ne,

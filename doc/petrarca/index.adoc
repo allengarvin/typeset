@@ -70,6 +70,7 @@ edited by Andrea Chegai and Cecilia Luzzi, pp. 247-291. Biblioteca Musicale LIM,
 
 
 
+* link:canzoniere-1.html[Canzoniere 1 (I)] _Voi ch'ascoltate in rime sparse il suono_ (sonnet)
 * link:canzoniere-2.html[Canzoniere 2 (II)] _Per fare una leggiadra sua vendetta_ (sonnet)
 * link:canzoniere-12.html[Canzoniere 12 (XII)] _Se la mia vita da l'aspro tormento_ (sonnet)
 * link:canzoniere-13.html[Canzoniere 13 (XIII)] _Quando fra l'altre donne ad ora ad ora_ (sonnet)
@@ -79,11 +80,14 @@ edited by Andrea Chegai and Cecilia Luzzi, pp. 247-291. Biblioteca Musicale LIM,
 * link:canzoniere-31.html[Canzoniere 31 (XXXI)] _Questa anima gentil che si diparte_ (sonnet)
 * link:canzoniere-34.html[Canzoniere 34 (XXXIV)] _Apollo, s'anchor vive il bel desio_ (sonnet)
 * link:canzoniere-35.html[Canzoniere 35 (XXXV)] _Solo et pensoso i più deserti campi_ (sonnet)
+* link:canzoniere-37.html[Canzoniere 37 (XXXVII)] _Sì è debile il filo a cui s'attene_ (canzone)
+* link:canzoniere-41.html[Canzoniere 41 (XLI)] _Quando dal proprio sito si rimove_ (sonnet)
 * link:canzoniere-52.html[Canzoniere 52 (LII)] _Non al suo amante più Diana piacque_ (madrigale)
 * link:canzoniere-62.html[Canzoniere 62 (LXII)] _Padre del ciel, dopo i perduti giorni_ (sonnet)
 * link:canzoniere-66.html[Canzoniere 66 (LXVI)] _L'aere gravato, et l'importuna nebbia_ (sestina)
 * link:canzoniere-68.html[Canzoniere 68 (LXVIII)] _L'aspetto sacro de la terra vostra_ (sonnet)
 * link:canzoniere-70.html[Canzoniere 70 (LXX)] _Lasso me, ch'i' non so in qual parte pieghi_ (canzone)
+* link:canzoniere-71.html[Canzoniere 71 (LXXI)] _Perché la vita è breve_ (canzone)
 * link:canzoniere-75.html[Canzoniere 75 (LXXV)] _I begli occhi ond'i' fui percosso in guisa_ (sonnet)
 * link:canzoniere-84.html[Canzoniere 84 (LXXXIV)] _- Occhi piangete: accompagnate il core_ (sonnet)
 * link:canzoniere-85.html[Canzoniere 85 (LXXXV)] _Io amai sempre, et amo forte anchora_ (sonnet)
@@ -125,6 +129,7 @@ edited by Andrea Chegai and Cecilia Luzzi, pp. 247-291. Biblioteca Musicale LIM,
 * link:canzoniere-229.html[Canzoniere 229 (CCXXIX)] _Cantai, or piango, et non men di dolcezza_ (sonnet)
 * link:canzoniere-230.html[Canzoniere 230 (CCXXX)] _I' piansi, or canto, ché 'l celeste lume_ (sonnet)
 * link:canzoniere-235.html[Canzoniere 235 (CCXXXV)] _Lasso, Amor mi trasporta ov'io non voglio_ (sonnet)
+* link:canzoniere-236.html[Canzoniere 236 (CCXXXVI)] _Amor, io fallo, e veggio il mio fallire_ (sonnet)
 * link:canzoniere-237.html[Canzoniere 237 (CCXXXVII)] _Non a tanti animali il mar fra l'onde_ (sestina)
 * link:canzoniere-239.html[Canzoniere 239 (CCXXXIX)] _Là ver' l'aurora, che sì dolce l'aura_ (sestina)
 * link:canzoniere-241.html[Canzoniere 241 (CCXLI)] _L'alto signor dinanzi a cui non vale_ (sonnet)
@@ -142,6 +147,7 @@ edited by Andrea Chegai and Cecilia Luzzi, pp. 247-291. Biblioteca Musicale LIM,
 * link:canzoniere-320.html[Canzoniere 320 (CCCXX)] _Sento l'aura mia anticha, e i dolci colli_ (sonnet)
 * link:canzoniere-324.html[Canzoniere 324 (CCCXXIV)] _Amor, quando fioria_ (ballata mezzana)
 * link:canzoniere-332.html[Canzoniere 332 (CCCXXXII)] _Mia benigna fortuna e 'l viver lieto_ (sestina)
+* link:canzoniere-333.html[Canzoniere 333 (CCCXXXIII)] _Ite, rime dolenti, al duro sasso_ (sonnet)
 * link:canzoniere-338.html[Canzoniere 338 (CCCXXXVIII)] _Lasciato ài, Morte, senza sole il mondo_ (sonnet)
 * link:canzoniere-342.html[Canzoniere 342 (CCCXLII)] _Del cibo onde 'l signor mio sempre abonda_ (sonnet)
 * link:canzoniere-353.html[Canzoniere 353 (CCCLIII)] _Vago augelletto che cantando vai_ (sonnet)

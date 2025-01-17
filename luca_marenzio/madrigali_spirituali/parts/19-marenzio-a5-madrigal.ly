@@ -1,7 +1,14 @@
+% Talor dal cor si move un caldo vento,
+% per rimembranza de l'antico strale;
+% e ripensando al periglioso corso,
+% dico fra me: — Che sai se nebbia o pioggia
+% ti rinchiude il camin de l'altra vita,
+% e morir ti convien in questo bosco? —
+% 
 cantoXIX = \relative c'' {
     \clef treble
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }
@@ -12,7 +19,7 @@ cantoLyricsXIX = \lyricmode {
 altoXIX = \relative c' {
     \clef mezzosoprano
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }
@@ -23,7 +30,7 @@ altoLyricsXIX = \lyricmode {
 tenoreXIX = \relative c' {
     \clef alto
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }
@@ -32,9 +39,9 @@ tenoreLyricsXIX = \lyricmode {
 }
 
 bassoXIX = \relative c {
-    \clef tenore
+    \clef tenor
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }
@@ -45,7 +52,7 @@ bassoLyricsXIX = \lyricmode {
 quintoXIX = \relative c' {
     \clef alto
     \key f \major
-    \fourTwoCutTime
+    \fourTwoCommonTime
 
     \bar "|."
 }

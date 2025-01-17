@@ -43,7 +43,7 @@ cantoLyricsXXIII = \lyricmode {
         e ve -- de'l sol __ ap -- pres -- so,
     E mi xe~in ter -- ra,
 %    E mi xe~in ter -- ra d'o -- gni lu -- se fo -- ra,
-    Ah' __ per -- chie no xe~an -- dà~an -- ga mi cun es -- eo?
+    Ah' __ per -- chie no xe~an -- dà~an -- ga mi cun e -- seo?
     Can -- do sa -- rà cun -- ces -- so,
     Ve -- de -- ri~in che -- sta vi -- sta un' al -- dro -- lu,
     Chie no la xe sta ma -- i,
@@ -103,7 +103,7 @@ altoLyricsXXIII = \lyricmode {
 %        e ve -- de'l sol ap -- pres -- so,
     E mi xe~in ter -- ra, __
     e mi xe~in ter -- ra d'o -- gni lu -- se fo -- ra,
-    Ah' __ per -- chie no xe~an -- dà~an -- ga mi cun es -- eo?
+    Ah' __ per -- chie no xe~an -- dà~an -- ga mi cun e -- seo?
     Can -- do sa -- rà cun -- ces -- so,
     Ve -- de -- ri~in che -- sta vi -- sta~un' al -- dro -- lu,
     Chie no la xe sta ma -- i,
@@ -163,7 +163,7 @@ tenoreLyricsXXIII = \lyricmode {
         e ve -- de'l sol ap -- pres -- so,
     E mi xe~in ter -- ra,
     e mi xe~in ter -- ra d'o -- gni lu -- se fo -- ra,
-    Ah' __ per -- chie no __ xe~an -- dà~an -- ga mi cun es -- eo?
+    Ah' __ per -- chie no __ xe~an -- dà~an -- ga mi cun e -- seo?
     Can -- do sa -- rà cun -- ces -- so,
     Ve -- de -- ri~in che -- sta vi -- sta~un' al -- dro -- lu,
     Chie no la xe sta ma -- i,
@@ -214,7 +214,7 @@ bassoLyricsXXIII = \lyricmode {
     Es -- so xe~in ce -- lo, __ e ve -- de'l sol ap -- pres -- so,
     E mi __ xe~in ter -- ra,
     E mi xe~in ter -- ra d'o -- gni lu -- se fo -- ra,
-    Ah' per -- chie no xe~an -- dà~an -- ga mi cun es -- eo?
+    Ah' per -- chie no xe~an -- dà~an -- ga mi cun e -- seo?
     Can -- do sa -- rà cun -- ces -- so,
     Ve -- de -- ri~in che -- sta vi -- sta~un' al -- dro -- lu,
     Chie no la xe sta ma -- i,
@@ -271,7 +271,7 @@ quintoLyricsXXIII = \lyricmode {
         e ve -- de'l sol ap -- pres -- so,
     E mi xe~in ter -- ra,
     E mi xe~in ter -- ra d'o -- gni lu -- se fo -- ra,
-    Ah' __ per -- chie no xe~an -- dà~an -- ga mi cun es -- eo?
+    Ah' __ per -- chie no xe~an -- dà~an -- ga mi cun e -- seo?
     Can -- do sa -- rà cun -- ces -- so,
     Ve -- de -- ri~in che -- sta vi -- sta un' al -- dro -- lu,
     Chie no la xe sta ma -- i,

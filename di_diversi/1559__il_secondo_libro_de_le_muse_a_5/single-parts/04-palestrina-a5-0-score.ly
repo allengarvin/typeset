@@ -92,7 +92,6 @@
     \markup {
         \fill-line {
             \column {
-                \vspace #5
                 \line { Ogni loco mi porge doglia e pianto, }
                 \line { Ov'io non veggio quei fulgenti lumi }
                 \line { Che'l cor m'han arso, e gli occhi volt'in fiumi }

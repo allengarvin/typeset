@@ -1,0 +1,184 @@
+|===
+|Piece |Cleffing |Key sig |Final| Meter |Length (brevi) |# of poetic lines |Poetic form
+
+|1-2
+|C1,C1,C3,C4,C4,F4 (low)
+|&flat;
+|C, F
+|[big]*&#119092;*
+|72 (34+38)
+|
+|madrigal
+
+
+|3
+|C1,C2,C3,C4,C4,F4 (low)
+|&flat;
+|Bf
+|[big]*&#119093;*
+|48
+|9
+|madrigal
+
+
+|4
+|C1,C1,C3,C4,C4,F4 (low)
+|&flat;
+|G
+|[big]*&#119093;*
+|31
+|6
+|madrigal
+
+
+|5
+|C1,C1,C3,C4,C4,F4 (low)
+|&flat;
+|G
+|[big]*&#119093;*
+|36
+|7
+|madrigal
+
+
+|6
+|C1,C3,C4,C4,C4,F4 (low)
+|&flat;
+|A
+|[big]*&#119093;*
+|52
+|8
+|ottava rima
+
+
+|7
+|C2,C4,C4,F3,F3,F4 (low)
+|&flat;
+|C
+|[big]*&#119093;*
+|41
+|8
+|ottava rima
+
+
+|8
+|C1,C1,C3,C4,C4,F4 (low)
+|&emdash;
+|G
+|[big]*&#119093;*
+|30
+|7
+|madrigal
+
+
+|9
+|C1,C3,C3,C4,C4,F4 (low)
+|&emdash;
+|C
+|[big]*&#119092;*
+|34
+|6
+|madrigal
+
+
+|10
+|C1,C3,C3,C4,C4,F4 (low)
+|&emdash;
+|E
+|[big]*&#119093;*
+|51
+|9
+|madrigal
+
+
+|11
+|C1,C3,C3,C4,C4,F4 (low)
+|&emdash;
+|A
+|[big]*&#119092;*
+|45
+|8
+|ottava rima
+
+
+|12
+|G2,G2,C2,C3,C3,F3 (high)
+|&emdash;
+|G
+|[big]*&#119092;*
+|38
+|8
+|madrigal
+
+
+|13
+|G2,C2,C3,C3,F3,F3 (high)
+|&emdash;
+|A
+|[big]*&#119093;*
+|40
+|8
+|madrigal
+
+
+|14
+|G2,G2,C2,C2,C3,F3 (high)
+|&emdash;
+|C
+|[big]*&#119092;*
+|31
+|6
+|madrigal
+
+
+|15
+|G2,C2,C2,C3,C3,F3 (high)
+|&emdash;
+|F
+|[big]*&#119092;*
+|47
+|11
+|madrigal
+
+
+|16
+|G2,C2,C2,C3,C3,F3 (high)
+|&flat;
+|D
+|[big]*&#119092;*
+|41
+|7
+|madrigal
+
+
+|17
+|G2,C2,C2,C3,C3,F3 (high)
+|&flat;
+|F
+|[big]*&#119092;*
+|37
+|8
+|madrigal
+
+
+|18-19
+|G2,G2,C2,C3,C3,F3 (high)
+|&flat;
+|D, G
+|[big]*&#119092;*
+|74 (34+40)
+|14 (8+6)
+|sonnet
+
+
+|20
+|C1,C1,C3,C3,C4,C4,C4,C4,C4,F4 (low)
+|&emdash;
+|G
+|[big]*&#119092;*
+|67
+|11
+|madrigal
+
+
+|===

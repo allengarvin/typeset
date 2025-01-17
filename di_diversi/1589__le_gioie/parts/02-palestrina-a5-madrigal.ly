@@ -66,7 +66,7 @@ cantoLyricsII = \lyricmode {
     Men -- tr'io cre -- dea che tu mio fo -- sti~o -- ma -- i,
         che tu mio fo -- sti~o -- ma -- i.
 
-    Ah! __ giu -- sto mio dis -- de -- gno,
+    Ah! __ giu -- sto mio di -- sde -- gno,
 %    Scac -- cia,
     Scac -- cia da que -- sto co -- re, __
     Scac -- cia da que -- sto co -- re
@@ -135,7 +135,7 @@ altoLyricsII = \lyricmode {
         che tu mio fo -- sti~o -- ma -- i.
     \normalLyrics
 
-    Ah! giu -- sto mio dis -- de -- gn'Ah, giu -- sto mio dis -- de -- gno,
+    Ah! giu -- sto mio di -- sde -- gn'Ah, giu -- sto mio dis -- de -- gno,
 %    Scac -- cia,
     Scac -- cia da que -- sto co -- re,
     Scac -- cia da que -- sto co -- re
@@ -202,7 +202,7 @@ tenoreLyricsII = \lyricmode {
         che tu mio fo -- sti~o -- ma -- i.
     \normalLyrics
 
-    Ah! giu -- sto mio dis -- de -- gn'Ah, giu -- sto mio dis -- de -- gno,
+    Ah! giu -- sto mio di -- sde -- gn'Ah, giu -- sto mio dis -- de -- gno,
     Scac -- cia da que -- sto co -- re, __
     Scac -- cia da que -- sto co -- re
     Il tuo ne -- mi -- co~A -- mor, 
@@ -268,7 +268,7 @@ bassoLyricsII = \lyricmode {
     Men -- tr'io cre -- dea che tu mio fo -- sti~o -- ma -- i,
         che tu mio fo -- sti~o -- ma -- i.
 
-    Ah! giu -- sto mio dis -- de -- gno,
+    Ah! giu -- sto mio di -- sde -- gno,
     Scac -- cia da que -- sto co -- re,
     \ijLyrics
     Scac -- cia da que -- sto co -- re
@@ -330,7 +330,7 @@ quintoLyricsII = \lyricmode {
     Men -- tr'io cre -- dea che tu __ mio fo -- sti~o -- ma -- i,
         che tu mio fo -- sti~o -- ma -- i.
 
-    Ah! giu -- sto mio dis -- de -- gno,
+    Ah! giu -- sto mio di -- sde -- gno,
     Scac -- cia,
     Scac -- cia da que -- sto co -- re
     Il tuo ne -- mi -- co~A -- mo -- re;

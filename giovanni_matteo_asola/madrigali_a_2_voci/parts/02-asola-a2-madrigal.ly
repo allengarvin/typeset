@@ -48,22 +48,22 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    E quel --  la a fio --  ri~a po --  mi~a la ver -- du --  ra
-    Gli~o --  dor di --  ver --  si de --  pre --  dan --  do gi --  va,
-    E di tut --  ti fa --  ce --  va~u --  na mi --  stu --  ra
-    Che di soa --  vi --  ta l'al --  ma no --  tri --  va,
-        l'al --  ma no --  tri --  va,
-    Sur --  gea un pa --  laz --  zo~in mez --  zo~a la pia --  nu -- ra,
-    Ch'ac --  ce -- so~es --  ser pa --  rea di fiam -- ma vi --  va:
-    Tan --  to splen --  dor in --  tor --  no~e tan --  to lu --  me
-        e tan --  to lu --  me
-    Tan --  to splen --  dor in --  tor --  no~e tan --  to __ lu --  me
-    Rag --  gia --  va, fuor d'o --  gni mor --  tal co --  stu --  me,
+    E quel -- la a fio -- ri~a po -- mi~a la ver -- du -- ra
+    Gli~o -- dor di -- ver -- si de -- pre -- dan -- do gi -- va,
+    E di tut -- ti fa -- ce -- va~u -- na mi -- stu -- ra
+    Che di soa -- vi -- ta l'al -- ma no -- tri -- va,
+        l'al -- ma no -- tri -- va,
+    Sur -- gea un pa -- laz -- zo~in mez -- zo~a la pia -- nu -- ra,
+    Ch'ac -- ce -- so~es -- ser pa -- rea di fiam -- ma vi -- va:
+    Tan -- to splen -- dor in -- tor -- no~e tan -- to lu -- me
+        e tan -- to lu -- me
+    Tan -- to splen -- dor in -- tor -- no~e tan -- to __ lu -- me
+    Rag -- gia -- va, fuor d'o -- gni mor -- tal co -- stu -- me,
     \ijLyrics 
-        Rag --  gia --  va, fuor d'o --  gni mor --  tal co --  stu --  me,
+        Rag -- gia -- va, fuor d'o -- gni mor -- tal co -- stu -- me,
     \normalLyrics
-    Rag --  gia --  va, fuor d'o --  gni __ mor --  tal co --  stu --  me,
-        mor --  tal co --  stu --  me. __
+    Rag -- gia -- va, fuor d'o -- gni __ mor -- tal co -- stu -- me,
+        mor -- tal co -- stu -- me. __
 }
 
 bassoII = \relative c' {
@@ -95,22 +95,22 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
-    E quel --  la a fio --  ri~a po --  mi~a la ver -- du --  ra
-    Gli~o --  dor di --  ver --  si de --  pre --  dan --  do gi --  va,
-    E di tut --  ti fa --  ce --  va~u --  na mi --  stu --  ra
-    Che di soa --  vi --  ta l'al --  ma no --  tri --  va,
-        l'al --  ma no --  tri --  va,
-    Sur --  gea un pa --  laz --  zo~in mez --  zo~a la pia --  nu -- ra,
-    Ch'ac --  ce -- so~es --  ser pa --  rea di fiam -- ma vi --  va:
-    Tan --  to splen --  dor in --  tor --  no~e tan --  to lu --  me
-        e tan --  to lu --  me
-    Tan --  to splen --  dor in --  tor --  no~e tan --  to __ lu --  me
-    Rag --  gia --  va, fuor d'o --  gni mor --  tal co --  stu --  me,
+    E quel -- la a fio -- ri~a po -- mi~a la ver -- du -- ra
+    Gli~o -- dor di -- ver -- si de -- pre -- dan -- do gi -- va,
+    E di tut -- ti fa -- ce -- va~u -- na mi -- stu -- ra
+    Che di soa -- vi -- ta l'al -- ma no -- tri -- va,
+        l'al -- ma no -- tri -- va,
+    Sur -- gea un pa -- laz -- zo~in mez -- zo~a la pia -- nu -- ra,
+    Ch'ac -- ce -- so~es -- ser pa -- rea di fiam -- ma vi -- va:
+    Tan -- to splen -- dor in -- tor -- no~e tan -- to lu -- me
+        e tan -- to lu -- me
+    Tan -- to splen -- dor in -- tor -- no~e tan -- to __ lu -- me
+    Rag -- gia -- va, fuor d'o -- gni mor -- tal co -- stu -- me,
     \ijLyrics 
-        Rag --  gia --  va, fuor d'o --  gni mor --  tal co --  stu --  me,
+        Rag -- gia -- va, fuor d'o -- gni mor -- tal co -- stu -- me,
     \normalLyrics
-    Rag --  gia --  va, fuor d'o --  gni __ mor --  tal co --  stu --  me,
-        mor --  tal co --  stu --  me.
+    Rag -- gia -- va, fuor d'o -- gni __ mor -- tal co -- stu -- me,
+        mor -- tal co -- stu -- me.
 
 }
 

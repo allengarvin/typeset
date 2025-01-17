@@ -38,9 +38,9 @@ cantoLyricsI = \lyricmode {
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me 
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me __
     Che’n fin qua giù __ m’ar -- dea dal ter -- zo cie -- lo,  __
-    E dis -- gom -- bra -- va già 
+    E di -- sgom -- bra -- va già 
     \ijLyrics
-    E dis -- gom -- bra -- va già 
+    E di -- sgom -- bra -- va già 
     \normalLyrics
             di ne -- ve~i pog -- gi 
     L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, 
@@ -97,7 +97,7 @@ altoLyricsI = \lyricmode {
     \normalLyrics
     Che’n fin qua giù m’ar -- dea dal ter -- zo cie -- lo,  
         dal ter -- zo cie -- lo,  
-    E dis -- gom -- bra -- va già di ne -- ve~i pog -- gi 
+    E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi 
     L’au -- ra~a -- mo -- ro -- sa che __ ri -- no -- va~il tem -- po, 
         che __ ri -- no -- va~il tem -- po, __
     E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
@@ -146,7 +146,7 @@ tenoreLyricsI = \lyricmode {
     \normalLyrics
     Che’n fin qua giù __ m’ar -- dea,
     Che’n fin qua giù __ m’ar -- dea dal ter -- zo cie -- lo, __
-    E dis -- gom -- bra -- va già di ne -- ve~i pog -- gi 
+    E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi 
     L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, 
     \ijLyrics
         che ri -- no -- va~il tem -- po, __
@@ -197,7 +197,7 @@ bassoLyricsI = \lyricmode {
     Che’n fin qua giù __
     \normalLyrics
         m’ar -- dea dal ter -- zo cie -- lo,  
-    E dis -- gom -- bra -- va già di ne -- ve~i pog -- gi 
+    E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi 
     L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, 
         
     E fio -- rian per le piag -- ge 
@@ -250,7 +250,7 @@ quintoLyricsI = \lyricmode {
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me 
     \normalLyrics
     Che’n fin qua giù __ m’ar -- dea dal ter -- zo cie -- lo,  
-    E dis -- gom -- bra -- va già di ne -- ve~i pog -- gi 
+    E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi 
     L’au -- ra~a -- mo -- ro -- sa __ che ri -- no -- va~il tem -- po, 
     \ijLyrics
         che ri -- no -- va~il tem -- po, 

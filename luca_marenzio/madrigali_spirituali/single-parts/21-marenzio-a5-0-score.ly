@@ -78,7 +78,7 @@
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
                     \incipit \bassoXXIincipitVoice
-                    \clef "treble_8"
+                    \clef "bass"
                     \global
                     \bassoXXI
                 >>
