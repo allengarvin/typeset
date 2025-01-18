@@ -12,9 +12,8 @@
     % Things that change per piece:
     title = "Alma Susanna, ben felice è'l core"
     instrument = "Alma Susanna (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2015-05-27"
@@ -23,6 +22,7 @@
     final = "a"
     shorttitle = "alma_susanna"
     categories = "[madrigal]"
+    motifs = "[beauty,eyes,paradise-on-earth,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -90,20 +90,39 @@
     \markup {
         \fill-line {
             \column {
+                % italian touch up (one grammatical error, 2 spelling corrections): 2025-01-18
                 \line { Alma Susanna, ben felice è'l core }
-                \line { Ch'arde del vostro amore. }
-                \line { Si dolce è'l guardo de begli occhi ardenti, }
-                \line { Sì sagge le parole, }
-                \line { E sì soave è'l gratioso riso, }
-                \line { Che può quettar i venti, }
-                \line { Fermar i fiumi e'l sole }
-                \line { Et in terra mostrarne il paradiso.  }
+                \line { ch'arde del vostro amore. }
+                \line { Sì dolce è'l guardo de' begli occhi ardenti, }
+                \line { sì sagge le parole, }
+                \line { e sì soave è'l gratioso riso, }
+                \line { che può quetar i venti, }
+                \line { fermar i fiumi e'l sole }
+                \line { ed in terra mostrarne il paradiso.  }
                 \line { Poi tra tanta beltà tanta virtute }
-                \line { Sovra l'uman usanza }
-                \line { La bella anima vostro alberga e chiude, }
-                \line { Ch'ogni pensier avanza. }
+                \line { sovra l'uman usanza }
+                \line { la bella anima vostra alberga e chiude, }
+                \line { che ogni pensier avanza. }
                 \line { Dunque Susanna, ben felice è'l core }
-                \line { Ch'arde del vostro amore.  }
+                \line { ch'arde del vostro amore.  }
+            }
+            \column {   
+                % translation: 2025-01-18
+                \line { Dear Susanna, how happy is the heart }
+                \line { that burns with your love. }
+                \line { So sweet is the gaze of your shining eyes, }
+                \line { so wise your words, }
+                \line { and so sweet is your gracious smile, }
+                \line { that it can quiet the winds, }
+                \line { stop the rivers and halt the sun, }
+                \line { and reveal paradise on earth. }
+                \line { There, amidst such beauty, such virtue }
+                \line { above human custom, }
+                \line { your beautiful soul is enclosed and dweels, }
+                \line { that it surpasses every thought. }
+                \line { therefore Susanna, how happy is the heart }
+                \line { that burns with your love. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

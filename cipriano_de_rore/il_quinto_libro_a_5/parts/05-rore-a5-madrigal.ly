@@ -5,7 +5,7 @@
 % E sì soave è'l gratioso riso,
 % Che può quettar i venti,
 % Fermar i fiumi e'l sole
-% Et in terra mostrarne il paradiso. 
+% Ed in terra mostrarne il paradiso. 
 % Poi tra tanta beltà tanta virtute
 % Sovra l'uman usanza
 % La bella anima vostro alberga e chiude,
@@ -55,13 +55,13 @@ cantoLyricsV = \lyricmode {
     Si __ dol -- ce~è'l guar -- do de be -- gli~oc -- chi~ar -- den -- ti,
     Sì sag -- ge le pa -- ro -- le,
     % E sì soa -- ve~è'l gra -- tio -- so ri -- so,
-    % Che può quet -- tar i ven -- ti,
+    % Che può que -- tar i ven -- ti,
     Fer -- mar i fiu -- mi~e'l so -- le
-    Et in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
+    Ed in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
     Poi tra tan -- ta bel -- tà,
     Poi tra tan -- ta bel -- tà tan -- ta vir -- tu -- te
     So -- vra l'u -- ma -- ne~u -- san -- za
-    La bel -- la~a -- ni -- ma vo -- stro~al -- ber -- ga~e chiu -- de,
+    La bel -- la~a -- ni -- ma vo -- stra~al -- ber -- ga~e chiu -- de,
     Ch'o -- gni pen -- sier a -- van -- za,
     Ch'o -- gni pen -- sier a -- van -- za.
     Dun -- que Su -- san -- na, 
@@ -120,12 +120,12 @@ altoLyricsV = \lyricmode {
     Si dol -- ce~è'l guar -- do de be -- gli~oc -- chi~ar -- den -- ti,
     Sì sag -- ge le pa -- ro -- le,
     E sì so -- a -- ve~è'l gra -- ti -- o -- so ri -- so,
-    Che può quet -- tar i ven -- ti,
+    Che può que -- tar i ven -- ti,
     Fer -- mar i fiu -- mi~e'l so -- le
-    Et in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
+    Ed in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
     Poi tra tan -- ta bel -- tà tan -- ta vir -- tu -- te __
 %    So -- vra l'u -- ma -- ne~u -- san -- za
-    La bel -- la~a -- ni -- ma vo -- stro~al -- ber -- ga~e chiu -- de,
+    La bel -- la~a -- ni -- ma vo -- stra~al -- ber -- ga~e chiu -- de,
     Ch'o -- gni pen -- sier a -- van -- za,
     Dun -- que Su -- san -- na, 
     Dun -- que Su -- san -- na, ben fe -- li -- ce~è'l co -- re
@@ -183,13 +183,13 @@ tenoreLyricsV = \lyricmode {
     Ch'ar -- de del vo -- stro~a -- mo -- re. __
     Si dol -- ce~è'l guar -- do de be -- gli~oc -- chi~ar -- den -- ti,
     E sì so -- a -- ve~è'l gra -- ti -- o -- so ri -- so,
-    Che può quet -- tar i ven -- ti,
+    Che può que -- tar i ven -- ti,
     Fer -- mar __ i fiu -- mi~e'l so -- le
-    Et in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
+    Ed in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
     Poi tra tan -- ta bel -- tà,
     Poi tra __ tan -- ta bel -- tà tan -- ta vir -- tu -- te
     So -- vra l'u -- ma -- ne~u -- san -- za 
-    La bel -- la~a -- ni -- ma vo -- stro~al -- ber -- ga~e chiu -- de,
+    La bel -- la~a -- ni -- ma vo -- stra~al -- ber -- ga~e chiu -- de,
     Ch'o -- gni pen -- sier a -- van -- za, __
     Dun -- que Su -- san -- na, 
     Dun -- que Su -- san -- na, ben fe -- li -- ce~è'l co -- re
@@ -243,12 +243,12 @@ bassoLyricsV = \lyricmode {
     Ch'ar -- de del vo -- stro~a -- mo -- re.
     Sì sag -- ge le pa -- ro -- le,
     E sì so -- a -- ve~è'l gra -- ti -- o -- so ri -- so,
-    Che può quet -- tar i ven -- ti,
+    Che può que -- tar i ven -- ti,
     Fer -- mar i fiu -- mi~e'l so -- le
-    Et in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
+    Ed in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
     Poi tra tan -- ta bel -- tà tan -- ta __ vir -- tu -- te
     So -- vra l'u -- ma -- ne~u -- san -- za
-    La bel -- la~a -- ni -- ma vo -- stro~al -- ber -- ga~e chiu -- de,
+    La bel -- la~a -- ni -- ma vo -- stra~al -- ber -- ga~e chiu -- de,
     Ch'o -- gni pen -- sier a -- van -- za,
     Ch'o -- gni pen -- sier a -- van -- za.
     Dun -- que Su -- san -- na, 
@@ -303,12 +303,12 @@ quintoLyricsV = \lyricmode {
     Si dol -- ce~è'l guar -- do de be -- gli~oc -- chi~ar -- den -- ti,
     Sì sag -- ge le pa -- ro -- le,
     E sì so -- a -- ve~è'l gra -- ti -- o -- so ri -- so,
-    Che può quet -- tar i ven -- ti,
+    Che può que -- tar i ven -- ti,
     Fer -- mar i fiu -- mi~e'l so -- le
-    Et __ in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
+    Ed __ in ter -- ra mo -- strar -- ne~il pa -- ra -- di -- so. 
     Poi tra tan -- ta bel -- tà,
     Poi tra tan -- ta bel -- tà tan -- ta vir -- tu -- te
-    La bel -- la~a -- ni -- ma vo -- stro~al -- ber -- ga~e chiu -- de,
+    La bel -- la~a -- ni -- ma vo -- stra~al -- ber -- ga~e chiu -- de,
     Ch'o -- gni pen -- sier a -- van -- za,
     Dun -- que Su -- san -- na, 
     Dun -- que Su -- san -- na, ben fe -- li -- ce~è'l co -- re
