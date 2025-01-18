@@ -14,7 +14,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Cedan l'antiche tue chiare vittorie"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Cedan l'antiche tue chiare vittorie:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "cedan_lantiche_tue_chiare_vittorie"

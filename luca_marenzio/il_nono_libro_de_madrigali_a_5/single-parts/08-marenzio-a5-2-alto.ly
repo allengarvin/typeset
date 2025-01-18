@@ -14,7 +14,7 @@
  
     % Things that change per piece:
     title = "L'aura che'l verde lauro"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "L'aura che'l verde lauro:  (alto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "laura_chel_verde_lauro"

@@ -14,7 +14,7 @@
  
     % Things that change per piece:
     title = "Il vago e bello Armillo"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Il vago e bello Armillo:  (quinto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "il_vago_e_bello_armillo"

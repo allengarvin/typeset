@@ -16,7 +16,7 @@
     % Things that change per piece:
     title = "Filli tu sei più bella"
     subtitle = "Aria"
-    subsubtitle = ""
+    subsubtitle = "Prima e seconda parte"
     instrument = "Filli tu sei più bella: Aria (canto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "filli_tu_sei_piu_bella"

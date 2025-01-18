@@ -14,7 +14,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Del cibo onde'l signor"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Del cibo onde'l signor:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "del_cibo_ondel_signor"

@@ -16,7 +16,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Fiume ch'a l'onde tue"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Fiume ch'a l'onde tue:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "fiume_cha_londe_tue"

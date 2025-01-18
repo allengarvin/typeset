@@ -14,7 +14,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Leggiadrissima eterna Primavera"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Leggiadrissima eterna Primavera:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "leggiadrissima_eterna_primavera"

@@ -14,7 +14,7 @@
  
     % Things that change per piece:
     title = "Del cibo onde'l signor"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Del cibo onde'l signor:  (quinto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "del_cibo_ondel_signor"

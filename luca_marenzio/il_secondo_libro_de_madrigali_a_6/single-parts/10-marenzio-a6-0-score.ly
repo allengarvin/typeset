@@ -14,7 +14,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "In un bel bosco"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "In un bel bosco:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_un_bel_bosco"

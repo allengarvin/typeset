@@ -16,7 +16,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Deh Tirsi, Tirsi, anima mia"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Deh Tirsi, Tirsi, anima mia:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "deh_tirsi_tirsi_anima_mia"

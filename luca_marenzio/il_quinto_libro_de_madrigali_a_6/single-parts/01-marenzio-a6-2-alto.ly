@@ -14,7 +14,7 @@
  
     % Things that change per piece:
     title = "Leggiadrissima eterna Primavera"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Leggiadrissima eterna Primavera:  (alto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "leggiadrissima_eterna_primavera"

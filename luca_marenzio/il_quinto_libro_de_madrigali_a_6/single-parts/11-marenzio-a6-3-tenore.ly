@@ -14,7 +14,7 @@
  
     % Things that change per piece:
     title = "Nel dolce seno della bella Clori"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Nel dolce seno della bella Clori:  (tenore)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "nel_dolce_seno_della_bella_clori"

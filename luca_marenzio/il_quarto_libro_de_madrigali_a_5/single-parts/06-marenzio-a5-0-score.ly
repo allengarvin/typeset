@@ -14,7 +14,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Disdegno e gelosia"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Disdegno e gelosia:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "disdegno_e_gelosia"

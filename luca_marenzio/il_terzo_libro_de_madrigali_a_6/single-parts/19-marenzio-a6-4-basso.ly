@@ -14,8 +14,8 @@
  
     % Things that change per piece:
     title = "Con dolce sguardo"
-    subtitle = ""
-    subsubtitle = ""
+    subtitle = "Prima e seconda parte"
+    subsubtitle = "Prima e seconda parte"
     instrument = "Con dolce sguardo:  (basso)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "con_dolce_sguardo"

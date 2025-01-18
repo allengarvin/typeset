@@ -14,7 +14,7 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Real natura, angelico intelletto"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Real natura, angelico intelletto:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "real_natura_angelico_intelletto"

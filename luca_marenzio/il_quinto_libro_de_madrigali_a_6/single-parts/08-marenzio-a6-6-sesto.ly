@@ -14,7 +14,7 @@
  
     % Things that change per piece:
     title = "Spiri dolce Favonio Arabi odori"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Spiri dolce Favonio Arabi odori:  (sesto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "spiri_dolce_favonio_arabi_odori"

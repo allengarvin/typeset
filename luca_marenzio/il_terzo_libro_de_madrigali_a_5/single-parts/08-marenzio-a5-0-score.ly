@@ -11,7 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Lunge da voi mia vita"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Lunge da voi mia vita:  (score)"
     headerspace = \markup { \vspace #2 }
     needtranslation = #'f

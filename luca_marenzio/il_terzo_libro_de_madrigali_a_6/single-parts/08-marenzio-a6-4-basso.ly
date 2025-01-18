@@ -14,7 +14,7 @@
  
     % Things that change per piece:
     title = "Qual per ombrose e verdeggianti valli"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Qual per ombrose e verdeggianti valli:  (basso)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "qual_per_ombrose_e_verdeggianti_valli"

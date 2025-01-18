@@ -14,7 +14,7 @@
  
     % Things that change per piece:
     title = "Stringeami Galatea"
-    subtitle = ""
+    subtitle = "Prima e seconda parte"
     instrument = "Stringeami Galatea:  (sesto)"
     shorttitle = "stringeami_galatea"
     shortcomp = "marenzio"
