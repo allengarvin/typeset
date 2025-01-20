@@ -93,21 +93,71 @@ tenoreXXI = \relative c' {
 tenoreLyricsXXI = \lyricmode {
 }
 
+bassoXXIincipit = \relative c {
+    \clef "petrucci-c4"
+    \key c \major
+    \time 4/4
+
+    a4
+}
+
 bassoXXI = \relative c {
-    \clef varbaritone
+    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
+    R\breve*2 | a4 c bf2 a4 a g4. g8 | f2 r2 r1 | f4 a g2 f4 f e4. e8 |
+        d2 r4 e g fs
+
+    a4 a | d,2 a' g4 b a2 | g r2 c4 e d2 | c4 c b4. b8 a2 r2 | R\breve |
+        r2 r4 g e f d d | a'1 d, | bf'4 bf2 a4
+
+    g2 g | R\breve*3 | r1 r4 g c,8([ d e f] | g[ a b g] c[ c, e c] g'2) c, |
+        c'1 c | bf( b) | a1 r4 d, g2 | e4 f4. d8 g4. e8 a2 f4 |
+        e4.( f8 d2) c1 |
+
+    R\breve*4 | e1 e2 fs | gs1 a | a,2 b c d | e\breve | d1 r1 | r1 r2 g |
+        bf bf a1 ~ | a g | r2 a4 b c1 ~ | c2 b4 a g1 | r1 r2 e | g g f1 | 
+        e r1 |
+
+    r1 d | f f | e\breve | a\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXXI = \lyricmode {
 }
 
+quintoXXIincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    c4
+}
+
 quintoXXI = \relative c' {
     \clef alto
     \key c \major
     \fourTwoCommonTime
+
+    R\breve*2 |  c4 e d2 c4 c d e | a,2 r4 g d' c e e | a2 d, r2 e4 g | 
+        f2 e4 e d2
+
+    e2 | f r2 r4 d f e | g g c,2 g' r2 | g4. g8 g2 c,4 e d2 | c r2 r4 a c b |
+        d d g,2 c r2 |
+
+    R\breve | d4 d2 e4 b2 b | c g a1 | b d ~ | d\breve | g,1 r1 |
+        r4 ' g4.( f16[ e] d2) e | R\breve*2 | r1 a,4 d2 b4 | 
+        c4. a8 d4. b8 e2 c4 d ~ | d8([ c] c2 b4) 
+
+    c1 | R\breve*3  e1 e2 fs | gs1. a2 | e d c b | a d4 d e2 fs | 
+        gs a b8([ a g f] g2 ~ | g) fs r1 | r1 r2 b,4 c | d1. c4 b | a1
+
+    r2 d | f f e1 ~ | e2 d r1 | r1 e4 f g2 ~ | g4 f8[ e] d2 r1 |
+        g4 f e1 d4 c | g'2 d4 f2 e4 d | c1 r2 a | c c b1 | a\longa*1/2
+        
+
+
 
     \bar "|."
 }

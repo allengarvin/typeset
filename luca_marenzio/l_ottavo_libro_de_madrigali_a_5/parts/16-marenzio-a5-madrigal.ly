@@ -115,11 +115,37 @@ bassoXVI = \relative c {
 bassoLyricsXVI = \lyricmode {
 }
 
-quintoXVI = \relative c' {
+quintoXVIincipit = \relative c'' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    g1
+}
+
+quintoXVI = \relative c'' {
     \clef alto
     \key c \major
     \fourTwoCommonTime
 
+    r2 g1 fs2| g1 c,4 f f2 ~ | f4 e4. e8 b4 d2 d | g4 f2 e4 f d e c ~ |
+        c g8[ a] e'1 e2 | fs4 g2 a4
+
+    g4 f e2 | d1 e2 e ~ | e cs cs cs | d1 a4. b8 c2 | e a, g4. a8 b2 |
+        d1 g, | g'4 g g1 g2 | 
+
+    R\breve | r1 r2 b, ~ | b4 b8[ b] b4 b a1 | r2 a2. a8[ a] a4 a |
+        g1 c4 c2 g'4 | g1 g | r2 a1 a4 g | g1 r4 g e2 ~ | e b r4 fs' g2 ~ |
+        g4 c, c2 
+
+    c4 d c4. c | c4 d2( cs4) d1 | r2 b1 c2 | d1 d2 cs ~ | cs d4 d4. d8 d4 b2 ~|
+        b b cs4 d d2 | d r2 r1 | r1 b | e2 e d1 | d
+
+    c4 g' e4. f8 | d4 e2 e4 a, a8[ a] a4 g | c2 c f4 f2 bf,4 |
+        bf2 c g4 g' e c | g1 c | r2 a1 a4. a8 | d4 d
+
+    d1 c2| c1 bf | c4 d2 g,4 b g' f e | g1 g | f f | | ef2 ef1 ef2 |
+        d1 e | b2 d1 a2 | g\longa*1/2
     \bar "|."
 }
 

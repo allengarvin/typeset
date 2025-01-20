@@ -61,26 +61,66 @@ altoXV = \relative c'' {
 altoLyricsXV = \lyricmode {
 }
 
+tenoreXVincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key f \major
+    \time 3/2
+
+    bf1
+}
+
 tenoreXV = \relative c' {
     \clef alto
     \key f \major
     \time 3/2
 
+    bf1 a2 | d2. g,4 c2 | bf1 bf2 | d2. d4 d2 | a1 a2 | a1 a2 | bf d d |
+        bf1 bf2 | c2. c4 f,2 | c' d1 |
+
+    c2 c2. f,4 | g2 g1 | g2 a1 | g1. | c1 e2 | d2. d4 d2 | c c2. c4 | d1 cs2 |
+        d1. | d1 d2 | c2. c4 c2 | bf1 bf2 | 
+
+    d bf bf | c1 bf2 | a2. a4 c2 | g a1 | g d'2 | c2. c4 c2 | bf a1 |
+        g\longa*3/8
     \bar "|."
 }
 
 tenoreLyricsXV = \lyricmode {
 }
 
-bassoXV = \relative c {
+bassoXVincipit = \relative c' {
+    \clef "petrucci-f3"
+    \key f \major
+    \time 3/2
+
+    g1
+}
+
+bassoXV = \relative c' {
     \clef varbaritone
     \key f \major
     \time 3/2
 
+    g1 f2 | bf2. \ficta ef,4\unficta f2 | bf,1 bf2 | bf'2. bf4 g2 |
+        a1 a2 | d,1 d2 | bf bf bf | ef1 bf2 | f'2. e4 d2 | c g'1 | c,2
+
+    f2. d4 | ef4 c2 | g'2 d1 | g1. | c,1 c2 | g'2. g4 g2 | c,2 f2. f4 |
+        d2 a'1 | d,1. | g1 g2 | c,2. c4 f2 | bf,1 bf2 |
+
+    bf2 ef bf | f'1 bf2 | f2. f4 f2 | g d1 | g1 bf2 | f2. f4 f2 |
+        g d1 | g\longa*3/8
     \bar "|."
 }
 
 bassoLyricsXV = \lyricmode {
+}
+
+quintoXVincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key f \major
+    \time 3/2
+
+    d1
 }
 
 quintoXV = \relative c' {
@@ -88,6 +128,14 @@ quintoXV = \relative c' {
     \key f \major
     \time 3/2
 
+    d1 f2 | f2. g4 f2 | f1 f2 | f2. bf,4 d2 | cs1 cs2 | d1 d2 | d f f |
+        g1 f2 | f2. g4 f2 | g g1 | 
+
+    g2 f2. f4 | ef2 ef1 | d2 d1 | d1. | e1 g2 | g2. g4 g2 | g f2. f4 |
+        a2 e1 | fs1. | g1 d2 | e2. e4 f2 | 
+
+    f1 f2 | f g f | f1 f2 | f2. f4 f2 | d d1 | d bf2 | a2. a4 a2 | d d1 |
+        d\longa*3/8
     \bar "|."
 }
 

@@ -118,10 +118,36 @@ bassoXVIII = \relative c {
 bassoLyricsXVIII = \lyricmode {
 }
 
+quintoXVIIIincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    e2
+}
+
 quintoXVIII = \relative c' {
     \clef alto
     \key c \major
     \fourTwoCommonTime
+
+    R\breve | r4 e2 e8[ e] g1 | g2 a4. d,8 d2 e | f4 f f1 g4 g |
+        a2. a4 r4 d, d e | g2 g r1 | 
+
+    r2 r4 fs fs2. fs4 | fs fs gs1 a2 | fs4 g2 e4 f4.( e16[ d] c4) e |
+        g1 g | r4 c e2. c4 b2 ~ | b e4 a,4. a8 a4 
+
+    cs2 | d4 d2 a4 r1 | g2 a b1 | b b | a r1 | R\breve | r1 g'4 g2 d4 |
+        d d d4.( e8 f2) e | r4 d a a g2 b | r4 e f2 e r2 | r4 e2 d8[ c] b4
+
+    g'2 f8[ e] | d4 g, b c d e d2 | c1 a4 a8[ a] a4 a | d2 d d b ~ |
+        b4 g g g e2. e4 | a2 a d,1 | e r1 | R\breve | c'4 c c2
+
+    c4 d b2 ~ | b cs d b | a1 g | c4 c8[ c] c4 b d2 b | b4 b2 e4 e2 e4 e |
+        g1 f2 f | e1 d2 r4 d | d2 e4 b e2 c |
+
+    r4 a2 a4 b1 | R\breve | r1 e4 e8[ e] e4 d d1
+        d\longa*1/2
 
     \bar "|."
 }

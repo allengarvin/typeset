@@ -61,10 +61,28 @@ altoXIV = \relative c'' {
 altoLyricsXIV = \lyricmode {
 }
 
+tenoreXIVincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key f \major
+    \time 4/4
+
+    e1
+}
+
 tenoreXIV = \relative c' {
     \clef alto
     \key f \major
     \fourTwoCommonTime
+
+    e1 a,2 a ~ | a4 bf bf2 bf1 | bf2 d1 d2 | cs d1( cs2) | d1 bf ~ |
+        bf bf2 ef ~ | ef d c1 | bf d4 d d2 ~ | d f4 d cs2
+
+    cs4 d | b2 b e1 | r1 a,2 d ~ | d e d1 | c f4 f f2 ~ | f c4 d ef1 ~ |
+        ef2 d d1 ~ | d2 a c c | r4 a f'2 r1 |
+
+    r1 fs4 fs g2 ~ | g gs4 gs a1 | f4 e2 a4 g1 | f r2 fs ~ | fs r2 r1 |
+        r1 r4 d d d | bf1 bf2 d ~ | d bf a b |
+        b1.( b4 a b1) | a\longa*1/2
 
     \bar "|."
 }

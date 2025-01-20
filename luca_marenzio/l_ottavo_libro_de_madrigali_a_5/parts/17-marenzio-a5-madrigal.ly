@@ -165,6 +165,23 @@ quintoXVII = \relative c' {
     \key c \major
     \fourTwoCommonTime
 
+    e1 f | e e2 f | e1 g4 a2 e4 | g2 g g4 g g2 ~ | g4 e2 d4 d2 d | 
+        ds4 ds e1 e4 e | g2 g g4 f2 f4 | 
+
+    c2 e d1 | g f4 f f2 ~ | f g4 a e2 e | a,4 a g g8[ g] c4 e b g | d'1 g, |
+        r2 c1 b4 a ~ | a8[ e'] d4 d1
+
+    e4 c ~ | c b cs2 a1 | R\breve*2 | r1 r4 fs' g4. c,8 | d4 d c2 r4 c f, g |
+        a2 a r4 d d4. e8 | a,4 d c c r4 c4. c8 b4 | a2 a r4 d d4. e8 |
+
+    a,4 d c c r4 a c cs | d2 d r2 b ~ | b b4 b cs2 d | d1 r4 f f g |
+        g2 g g4 c, d2 ~ | d4 d2 c4 d2 d | r2 c2. d4 d2 |
+
+    d2 d r2 c ~ | c a4a4. a8 a4 g2 | r2 c1 a4 a | b1 b2 a | a1 g |
+        g4 g c2. b4 g e' | a1 g | r1 d4 d d c8[ b] |
+
+    a2 r2 r1 | r2 a1 b4 b | b2 b b1 | e f4 f f2 ~ | f4 f f1 | f c8[ d] e4 d2 |
+        c r2 r1 | r1 a' | g2 g2.( f8[ e] d2 | 
     \bar "|."
 }
 

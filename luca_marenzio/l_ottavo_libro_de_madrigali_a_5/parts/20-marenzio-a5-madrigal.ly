@@ -90,26 +90,78 @@ altoXX = \relative c' {
 altoLyricsXX = \lyricmode {
 }
 
+tenoreXXincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    c2
+}
+
 tenoreXX = \relative c' {
     \clef alto
     \key c \major
     \fourTwoCommonTime
 
+    R\breve | r4 c2 b8[ a] d1 | a2 r2 f'2. e8[ d] | a'1 d, |
+        r1 r4 e f4. e8 | d4 f e f4. e8 d4 cs2 | d r2
+
+    r2 f,4 f8[ f] | c'4 c f2 g4 g a4. g8 | f[ e] d4 e2 r1 |
+        a,4 a8[ a] e'4 e f2 e4 g | a8[ g f e]
+
+    g1 e2 | r2 a,4 a8[ a] e'4 e c2 | b4 b e8[ d c c] b1 | a r2 d ~ |
+        d ef ef1 | d1. bf2 | c1 bf2 d ~ | d c bf1 ~ | bf r2 a' ~ | a e a1 | 
+        a r1 | R\breve | 
+
+    r4 d2 b c d4 ~ | d8[ d] e2 a, r4 r4 d | e e f2 g r2 | r1 r2 r4 g |
+        f f e2 d r2 | r2 r4 a cs d e2 | fs r2 r1 | r1 r4 e
+
+    a8[ e e f] | g2 c, b a | e'1 a, | r4 g d'8[ a a b] c2 f | e d a'1 |
+        fs\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXX = \lyricmode {
 }
 
-bassoXX = \relative c {
-    \clef varbaritone
+bassoXXincipit = \relative c' {
+    \clef "petrucci-c4"
+    \key c \major
+    \time 4/4
+
+    a1
+}
+
+bassoXX = \relative c' {
+    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
+    R\breve | a1 d, | r4 a'2 g8[ f] bf1 | a r1 | R\breve |
+        d,4 d8[ d] a'4 a bf2 a4 a | d8[ c b b] a2 g r2 | R\breve | d4 d8[ d]
+
+    a'4 a f2 e4 e | a8[ g f f] e2 d r2 | r2 c4 c8[ c] g'4 g a2 |
+        g4 e a8[ g f f] e1 ~ | e\breve | a1 r2 bf~ | bf ef,
+
+    ef1 | g d | f bf,2 bf' ~ | bf a g1 | e a | a\breve | a1 r1 | R\breve |
+        r2 g e f | g4. g8 a2 d, r2 | r1 r2 r4 a' | g g f2 e1 | 
+        r4 d a'8[ e e f]
+
+    g2 f | e d a'1 | d,2 d' b c | d4. d8 e2 a,1 | R\breve | r1 r2 f | e d a'1 ~|
+        a\breve | d,\longa*1/2
+        
     \bar "|."
 }
 
 bassoLyricsXX = \lyricmode {
+}
+
+quintoXXincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    e1
 }
 
 quintoXX = \relative c' {
@@ -117,6 +169,22 @@ quintoXX = \relative c' {
     \key c \major
     \fourTwoCommonTime
 
+    e1 a, | r4 e'2 d8[ c] f1 | e2 r4 f2 e8[ d] g2 | e1 r1 | a1 e2 r2 |
+        a1 e2 r2 | r2 r4 a2 g8[ f] a2 ~ | a4 d r4 c d4. e8
+
+    f4 f | e a4. g8 f4 e2 d ~ | d r2 a4 a8[ a] e'4 e | 
+        cs( d2 cs4) r4 d g8[ f e e] |D 2 c r1 | b4 e8[ d]
+
+    c8[ b] a4 b2 r2 | r4 e g8[ f e e ] e1 | e r1 | bf1 bf2 c ~ | 
+        c b a f' ~ | f4( e8[ d] c2) f1 ~ | f r2 e ~ | e d cs d ~ |
+        d c f1 | e r1 | R\breve*2 | r1 r4 d b2 | cs 
+
+    d4. d8 e2 a, | r2 r4 a b b cs2 | d2 r2 r2 a | e8[ b b c] d2 r1 |
+        r4 a'2 fs g a4 ~ | a8[ a] b2 e, r4 r c | b b e2 d4 d
+
+    f8[ e e fs] | gs[ gs] a4. gs8 gs4 a1 | r4 e f8[ a f d] e4 a, a'2 ~ |
+        a f e1| d\longa*1/2
+    
     \bar "|."
 }
 
