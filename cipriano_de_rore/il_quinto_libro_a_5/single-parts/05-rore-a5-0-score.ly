@@ -48,7 +48,7 @@
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoVincipitVoice
-                    \clef "treble_8"
+                    \clef "treble"
                     \global
                     \altoV
                 >>

@@ -1,25 +1,25 @@
-O occhi del mio core e d'Amor lumi,
- ch'or rende morte, ohimè! torbidi e chiusi,
- o volto già di fiamme, ora di neve,
- o bocca già di rose, or di viole,
- io vi miro e non moro? Alcippo amato,
- tu'l mio foco accendesti, or sei di ghiaccio,
- né spegne il gelo tuo l'incendio mio?
- Ohimé! qual io ti veggio! o luci triste,
- anzi fonti di tenebre e di pianto,
- troppo vedeste: or vi chiudete omai.
- Deh! non lagrime più, non più parole,
- non più sospiri; sola morte sola
- esser può testimon del mio martire.
-
- Anima bella, se qui intorno sei,
- alle tue belle membra, e vedi ed odi,
- il mio dolor e le mie voci estreme,
- deh! per pietà, s'anco è per me pietate,
- teco m'accogli, ch'io ti seguo: in questo
- rivenne Alcippo, e gli occhi stanchi aprendo,
- il suo perduto ben si vide in braccio.
-    Tasso, Il convito di pastori
+% O occhi del mio core e d'Amor lumi,
+%  ch'or rende morte, ohimè! torbidi e chiusi,
+%  o volto già di fiamme, ora di neve,
+%  o bocca già di rose, or di viole,
+%  io vi miro e non moro? Alcippo amato,
+%  tu'l mio foco accendesti, or sei di ghiaccio,
+%  né spegne il gelo tuo l'incendio mio?
+%  Ohimé! qual io ti veggio! o luci triste,
+%  anzi fonti di tenebre e di pianto,
+%  troppo vedeste: or vi chiudete omai.
+%  Deh! non lagrime più, non più parole,
+%  non più sospiri; sola morte sola
+%  esser può testimon del mio martire.
+% 
+%  Anima bella, se qui intorno sei,
+%  alle tue belle membra, e vedi ed odi,
+%  il mio dolor e le mie voci estreme,
+%  deh! per pietà, s'anco è per me pietate,
+%  teco m'accogli, ch'io ti seguo: in questo
+%  rivenne Alcippo, e gli occhi stanchi aprendo,
+%  il suo perduto ben si vide in braccio.
+%     Tasso, Il convito di pastori
 
 % % blue heron translation (copyright)
 % —O eyes of my heart and lights of Love,
