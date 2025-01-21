@@ -54,6 +54,14 @@ cantoXIX = \relative c'' {
 cantoLyricsXIX = \lyricmode {
 }
 
+altoXIXincipit = \relative c'' {
+    \clef "petrucci-c2"
+    \key c \major
+    \time 4/4
+
+    b4
+}
+
 altoXIX = \relative c'' {
     \clef mezzosoprano
     \key c \major
@@ -70,7 +78,7 @@ altoXIX = \relative c'' {
     c4 g b4. c8 | b4 a2 gs4 a1 | a4 a a2 a4 a b2 | b c4 b2 a4 gs2 |
         a4 a2 g4 a c b2 | c1 a4 a8[ a] g4 g | f a
 
-    a4 g a2 e4 f | e d e2 fs1 | Fs4 fs fs2 fs4 fs g2 ~ | g g g1 |
+    a4 g a2 e4 f | e d e2 fs1 | fs4 fs fs2 fs4 fs g2 ~ | g g g1 |
         a2 bf1( a2) | bf1 bf4 bf2 a4 | a2 g4 g2 f4 f2  e d e1 | r1
 
     c'4 b8[ a] b2 | a4 g8[ f] g4 c2 b4.( a8 a4 ~ | a8[ g] g2 fs4) |
@@ -83,15 +91,45 @@ altoXIX = \relative c'' {
 altoLyricsXIX = \lyricmode {
 }
 
-tenoreXIX = \relative c' {
+tenoreXIXincipit = \relative c'' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    g4
+}
+
+tenoreXIX = \relative c'' {
     \clef alto
     \key c \major
     \fourTwoCommonTime
 
+    g4 g2 e4 g a g2 | g r4 c, c c f2 | c4 c2 d4 b c g2 | g c4 c2 a4 a a |
+
+    d4 c2 b8[ a] g1 | c r2 f ~ | f e4 e4. e8 e4 f2 | d1 r1 | r1 g4 g d4.( e8 |
+        f2) a4 g g4. g8 g4 e |
+    
+    e2 e r4 a, a4. d8 | d4 g g2 g1 | R\breve*6 | cs4 cs cs2 cs4 d b2 | 
+        b g'4 g2 e4 e2 | e4 f2 g4 f e g2 | g1 r1 | r4 f e d 
+
+    c2 c4 a' ~ | a8[ g] f4 e2 d1 | R\breve | r1 r2 c ~ | c f f1 | 
+        f d4 d2 c4 | c2 b4 c2 a4 a'2 | g g g1 | R\breve | 
+        r2 e4 d8[ c] d2 c4 b8[ a] |
+
+    b4 b a2 g1 | R\breve | r4 a2 d b e4 ~ | e8[ e] a,2 d4 b2 r4 g' |
+        e2 r4 g g1 ~ | g2 e d1 | c\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXIX = \lyricmode {
+}
+
+bassoXIXincipit = \relative c {
+    \clef "petrucci-f3"
+    \key c \major
+    \time 4/4
+
+    f1
 }
 
 bassoXIX = \relative c {
@@ -99,6 +137,19 @@ bassoXIX = \relative c {
     \key c \major
     \fourTwoCommonTime
 
+    R\breve*4 R\breve | r1 r2 f ~ | f a4 a4. a8 a4 d,2 | d g4 g e2 e4 a |
+        g2 g c4 c bf2 ~ | bf a4 c g4. g8
+
+    g4 a | e2 e4 a a4. a8 fs4. fs8 | g1 c, | R\breve*6 | a'4 a a2 a4 d, g2 |
+        g c,4 g'2 a4 e2 | a4 f2 e4
+
+    f4 a g2 | c,1 f4 f8 f] e4 g | d' d' c b a1 ~ | a d, | d4 d d2 d4 d g2 ~|
+        g e e1 | f f | bf,1 bf'4 g2 a4 | f2
+
+    g4 e2 f4 d2 | e g c,1 | c'4 b8[ a] b2 a4 g8[ f] g4 g | f2 e r1 | R\breve |
+        c4 c2 d4 f g d2 | d1 g2 e4 e |
+
+    a4. a8 fs2 r4 g g2 | r4 c c1 e,2 | g\breve | c,\longa*1/2
     \bar "|."
 }
 

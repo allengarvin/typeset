@@ -4,15 +4,15 @@
 % ma questo afflitto cor trarmi dal petto.
 % Non farai già, mentre avrò spirto e core,
 % idolo mio crudel, ch'io non t'adore.
-% Deh, torn'a me, deh torna - e qui mancommi
+% Deh, torn'a me, deh torna: e qui mancommi
 % lo spirito e la voce; e del mio aspetto
-% gl'atti languidi e mesti indi le fero
-% a temprare il mio duol pietoso invito.
+% gli atti languidi e mesti indi le fero
+% a temprar il mio duol pietoso invito.
 % Allora ella si volse
 % e serenossi in vista
 % e i bei pietosi lumi in me converse.
 % Ben vidi in quel momento
-% il bel d'ogn'altro bello in me rivolto:
+% il bel d'ogni altro bello in me rivolto:
 % sì bella è la pietà nel suo bel volto.
 % 
 % Tasso (eclogue)
@@ -25,8 +25,8 @@ cantoXVIincipit = \relative c'' {
     g1
 }
 
+% canto: checked against source
 cantoXVI = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -52,6 +52,24 @@ cantoXVI = \relative c'' {
 }
 
 cantoLyricsXVI = \lyricmode {
+    Non sol, dis -- si, tu puoi~a -- ni -- ma fe -- ra,
+    Le -- va -- re~a que -- sti miei lan -- gui -- di lu -- mi
+    Il lor più ca -- ro o -- biet -- to,
+    Ma que -- sto~af -- flit -- to cor trar -- mi dal pet -- to,
+        trar -- mi dal pet -- to.
+    Non fa -- rai già, men -- tre~a -- vrò spir -- to~e co -- re,
+    I -- do -- lo mio cru -- del,
+    I -- do -- lo mio cru -- del, ch'io non t'a -- do -- re.
+    Deh, tor -- n'a me, deh tor -- na: e qui __ man -- com -- mi
+    Lo spir -- to~e la vo -- ce; del mio~a -- spet -- to
+    Gli~at -- ti lan -- gui -- di~e me -- sti~in -- di le fe -- ro
+    A tem -- prar il mio duol pie -- to -- so~in -- vi -- to.
+    Al -- lo -- ra~el -- la si vol -- se
+    E se -- re -- nos -- si~in vi -- sta
+    E~i bei pie -- to -- si lu -- mi~in me __ con -- ver -- se.
+    Ben vi -- di~in quel mo -- men -- to
+    Il bel d'o -- gn'al -- tro bel -- lo~in me ri -- vol -- to:
+    Sì bel -- la~è la pie -- tà nel suo bel vol -- to.
 }
 
 altoXVIincipit = \relative c'' {
@@ -62,8 +80,8 @@ altoXVIincipit = \relative c'' {
     b1
 }
 
+% alto: checked against source
 altoXVI = \relative c'' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -71,13 +89,13 @@ altoXVI = \relative c'' {
         c b8[ a] gs1 gs2 | a4 b2 c4 b a 
 
     g2 | fs1 gs2 gs ~ | gs a e e | f1 r4 c'4. b8 a4 | gs2 a r4 b4. a8 g4 ~ |
-        g4( fs8[ e] fs2) g1 | b4 b b1 c2 | a4 g
+        g4 fs8([ e] fs2) g1 | b4 b b1 c2 | a4 g
 
     f2. bf2 g4 | a2 a r2 gs ~ | gs4 gs8[ gs] gs4 gs a1 |
-        r2 fs2. fs8[ fs] fs4 fs | g1 g4 a2 c ~ | c4( b8[ a] b2) c1 |
+        r2 fs2. fs8[ fs] fs4 fs | g1 g4 a2 c4 ~ | c4 b8([ a] b2) c1 |
         r2 cs1 d4 b | b1 r4 c gs2 ~ | gs gs
 
-    r4 a bf2 ~ | bf4 c f,2 f4 f f4. f8 | f4 d e2 a,1 | R\breve*4 |
+    r4 a bf2 ~ | bf4 c f,2 f4 f f4. f8 | f4 d e2 a,1 | R\breve R\breve*3 |
         r2 g'4 g a1 | a4 a b1 gs2 | gs a fs4( g2 fs4) 
         g1 c4 b c4. a8 | b4 gs2 gs4
 
@@ -91,28 +109,127 @@ altoXVI = \relative c'' {
 }
 
 altoLyricsXVI = \lyricmode {
+    Non sol, dis -- si, tu puoi~a -- ni -- ma fe -- ra,
+    Le -- va -- re~a que -- sti miei lan -- gui -- di lu -- mi
+    Il lor più ca -- ro o -- biet -- to,
+    Ma que -- sto~af -- flit -- to cor trar -- mi dal pet -- to,
+    \ijLyrics
+        trar -- mi dal __ pet -- to.
+    \normalLyrics
+    Non fa -- rai già, men -- tre~a -- vrò spir -- to~e co -- re,
+    I -- do -- lo mio cru -- del,
+    I -- do -- lo mio cru -- del, ch'io non t'a -- do -- re.
+    Deh, tor -- n'a me, deh tor -- na: e qui __ man -- com -- mi
+    Lo spi -- ri -- to~e la vo -- ce; % del mio~a -- spet -- to
+    % Gli~at -- ti lan -- gui -- di~e me -- sti~in -- di le fe -- ro
+    A tem -- prar il mio duol pie -- to -- so~in -- vi -- to.
+    Al -- lo -- ra~el -- la si vol -- se
+    E se -- re -- nos -- si~in vi -- sta
+    E~i bei pie -- to -- si lu -- mi~in me con -- ver -- se.
+    Ben vi -- di~in quel mo -- men -- to
+    Il bel d'o -- gn'al -- tro bel -- lo~in me ri -- vol -- to:
+    Sì bel -- la~è la pie -- tà nel suo bel vol -- to.
 }
 
+tenoreXVIincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    d4
+}
+
+% tenore: checked against source
 tenoreXVI = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
+    R\breve*4 | R\breve*5 | R\breve*2 | d4 d d1 c2 | c4. b8 d2 d d |
+        e2 e r2 e ~ | e4 e8[ e] e4 e e1 |
+
+    r2 d2. d8[ d] d4 d | d1 e4 a,2 e'4 | d1 c | r2 e1 d4 d |
+        d1 r4 c b2 ~ | b e r4 a, g2 | R\breve*2 | r2 d'1 f2 |
+
+    f1 g2 e ~ | e f4 f4. f8 f4 e2 ~ | e e e4 a g2 | g e4 e e1 |
+        d4 d b1 e2 | b a a1| g r1 | r1 e'4 e8[ e] e4 g |
+
+    g2 g a4 a2 f4 | f2 e d4 g, c e | g1 g | r2 f1 fs4. fs8 | fs4 fs g1 g2 |
+        f1 f | f4 f2 g4 g4. c,8 c4. a8 |
+
+    d1 c | c bf | bf1 r1 | r1 a | d2 g, d'1 | d\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXVI = \lyricmode {
+%    Non sol, dis -- si, tu puoi~a -- ni -- ma fe -- ra,
+%    Le -- va -- re~a que -- sti miei lan -- gui -- di lu -- mi
+%    Il lor più ca -- ro o -- biet -- to,
+%    Ma que -- sto~af -- flit -- to cor trar -- mi dal pet -- to,
+%        trar -- mi dal pet -- to.
+    Non fa -- rai già, men -- tre~a -- vrò spir -- to~e co -- re,
+    I -- do -- lo mio cru -- del,
+    I -- do -- lo mio cru -- del, ch'io non t'a -- do -- re.
+    Deh, tor -- n'a me, deh tor -- na: e qui 
+%    Lo spir -- to~e la vo -- ce; 
+        del mio~a -- spet -- to
+    Gli~at -- ti lan -- gui -- di~e me -- sti~in -- di le fe -- ro
+    A tem -- prar il mio duol pie -- to -- so~in -- vi -- to.
+%    Al -- lo -- ra~el -- la si vol -- se
+    E se -- re -- nos -- si~in vi -- sta
+    E~i bei pie -- to -- si lu -- mi~in me con -- ver -- se.
+    Ben vi -- di~in quel mo -- men -- to
+    Il bel d'o -- gn'al -- tro bel -- lo~in me ri -- vol -- to:
+    Sì bel -- la~è % la pie -- tà
+        nel suo bel vol -- to.
 }
 
-bassoXVI = \relative c {
-    \clef varbaritone
+bassoXVIincipit = \relative c' {
+    \clef "petrucci-f3"
+    \key c \major
+    \time 4/4
+
+    g4
+}
+
+% basso: checked against source
+bassoXVI = \relative c' {
     \key c \major
     \fourTwoCommonTime
 
+    R\breve*4 R\breve*5 | R\breve*2 | g4 g g1 c,2 | f4 e d2. g2 bf4 |
+        a2 a e2. e8[ e] | e2 e a1 |
+
+    d,2. d8[ d] d2 d | g1 e4 f2 e4 | g1 c, | r2 a'1 d,4 g | g1 r4 c, e2 ~ |
+        e e r4 d g2 ~ | g4 f f2 f4 d
+
+    f4. f8 | f4 f e2 d1 | r2 g1 f2 | bf1 g2 a ~ | a d,4 d4. d8 d4 e2 ~ |
+        e e a4 fs g2 | g c4 c a1 | fs4 fs g1 e2 | e cs d1 |
+
+    g1 r1 | R\breve*3 R\breve | r2 f1 d4. d8 | d4 d g1 c,2 | f1 bf, |
+        f'4 d2 c4 g'4. e8 f4 a | g1 c, | f bf, | ef2 ef1 c2 | d1 a |
+        b2. c4 d1 | g,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXVI = \lyricmode {
+%    Non sol, dis -- si, tu puoi~a -- ni -- ma fe -- ra,
+%    Le -- va -- re~a que -- sti miei lan -- gui -- di lu -- mi
+%    Il lor più ca -- ro o -- biet -- to,
+%    Ma que -- sto~af -- flit -- to cor trar -- mi dal pet -- to,
+%        trar -- mi dal pet -- to.
+    Non fa -- rai già, men -- tre~a -- vrò spir -- to~e co -- re,
+    I -- do -- lo mio cru -- del,
+    I -- do -- lo mio cru -- del, ch'io non t'a -- do -- re.
+    Deh, tor -- n'a me, deh tor -- na: e qui __ man -- com -- mi
+    Lo spi -- ri -- to~e la vo -- ce; del mio~a -- spet -- to
+    Gli~at -- ti lan -- gui -- di~e me -- sti~in -- di le fe -- ro
+    A tem -- prar il mio duol pie -- to -- so~in -- vi -- to.
+%    Al -- lo -- ra~el -- la si vol -- se
+%    E se -- re -- nos -- si~in vi -- sta
+%    E~i bei pie -- to -- si lu -- mi~in me con -- ver -- se.
+    Ben vi -- di~in quel mo -- men -- to
+    Il bel d'o -- gn'al -- tro bel -- lo~in me ri -- vol -- to:
+    Sì bel -- la~è la pie -- tà nel suo bel vol -- to.
 }
 
 quintoXVIincipit = \relative c'' {
@@ -123,8 +240,8 @@ quintoXVIincipit = \relative c'' {
     g1
 }
 
+% quinto: checked against source
 quintoXVI = \relative c'' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -138,8 +255,8 @@ quintoXVI = \relative c'' {
         g1 c4 c2 g'4 | g1 g | r2 a1 a4 g | g1 r4 g e2 ~ | e b r4 fs' g2 ~ |
         g4 c, c2 
 
-    c4 d c4. c | c4 d2( cs4) d1 | r2 b1 c2 | d1 d2 cs ~ | cs d4 d4. d8 d4 b2 ~|
-        b b cs4 d d2 | d r2 r1 | r1 b | e2 e d1 | d
+    c4 d c4. c8 | c4 d2( cs4) d1 | r2 b1 c2 | d1 d2 cs ~ | 
+        cs d4 d4. d8 d4 b2 ~ | b b cs4 d d2 | d r2 r1 | r1 b | e2 e d1 | d
 
     c4 g' e4. f8 | d4 e2 e4 a, a8[ a] a4 g | c2 c f4 f2 bf,4 |
         bf2 c g4 g' e c | g1 c | r2 a1 a4. a8 | d4 d
@@ -150,6 +267,25 @@ quintoXVI = \relative c'' {
 }
 
 quintoLyricsXVI = \lyricmode {
+    Non sol, dis -- si, tu puoi~a -- ni -- ma fe -- ra,
+    Le -- va -- re~a que -- sti miei lan -- gui -- di lu -- mi
+    Il lor più ca -- ro o -- biet -- to,
+    Ma que -- sto~af -- flit -- to cor trar -- mi dal pet -- to,
+        trar -- mi dal pet -- to.
+    Non fa -- rai già, % men -- tre~a -- vrò spir -- to~e co -- re,
+    I -- do -- lo mio cru -- del,
+    I -- do -- lo mio cru -- del, ch'io non t'a -- do -- re.
+    Deh, tor -- n'a me, deh tor -- na: e qui __ man -- com -- mi
+   Lo spir -- to~e la vo -- ce; del mio~a -- spet -- to
+    Gli~at -- ti lan -- gui -- di~e me -- sti~in -- di le fe -- ro
+%    A tem -- prar il mio duol 
+        pie -- to -- so~in -- vi -- to.
+    Al -- lo -- ra~el -- la si vol -- se
+    E se -- re -- nos -- si~in vi -- sta
+    E~i bei pie -- to -- si lu -- mi~in me con -- ver -- se.
+    Ben vi -- di~in quel mo -- men -- to
+    Il bel d'o -- gn'al -- tro bel -- lo~in me ri -- vol -- to:
+    Sì bel -- la~è la pie -- tà nel suo bel vol -- to.
 }
 
 cantoXVIincipitVoice = <<

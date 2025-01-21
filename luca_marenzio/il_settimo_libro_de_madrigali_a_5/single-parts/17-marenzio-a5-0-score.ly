@@ -142,7 +142,7 @@
         \wordwrap {
             \vspace #2
             Note: In \italic { Il Pastor Fido } this speech is addressed from
-            the nymph Corsica to Mirtello. Marenzio apparently added the
+            the nymph Corisca to Mirtillo. Marenzio apparently added the
             address \italic { o vago Tirsi } on the first line to make it
             more of a generic pastoral verse.
         }

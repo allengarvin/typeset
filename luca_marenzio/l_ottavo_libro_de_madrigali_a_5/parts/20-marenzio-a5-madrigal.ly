@@ -25,12 +25,12 @@ cantoXXincipit = \relative c'' {
     e1
 }
 
+% canto: checked against source
 cantoXX = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
-    r1 e | a, r4 f'2 e8[ d] | a1 d, | r2 e f4. e8 d4 f |
+    r1 e | a, r4 f'2 e8[ d] | a'1 d, | r2 e f4. e8 d4 f |
         e4 c4. b8 a4 gs2 a | a'1 d,2 r2 | r4 g2 f8[ e] 
 
     g2 c, | r1 r4 e f4. e8 | d4 f e c4. b8 a4 gs2 | a r2 a4 a8[ a] e'4 e |
@@ -50,6 +50,21 @@ cantoXX = \relative c'' {
 }
 
 cantoLyricsXX = \lyricmode {
+    Lau -- ra se pur sei l'au -- ra
+    Ch'o -- gn'ar -- so cor d'A -- mor dol -- ce ri -- stau -- ra,
+    Lau -- ra se pur sei l'au -- ra
+    Ch'o -- gn'ar -- so cor d'A -- mor dol -- ce ri -- stau -- ra
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re,
+    D'i -- nu -- si -- ta -- to~ar -- do -- re?
+    Ahi __ che can -- gi co -- stu -- me
+    Sol __ per -- ch'io mi __ con -- su -- me.
+    E ne -- ghi d'es -- ser l'au -- ra __ e Lau -- ra se -- i,
+    E ne -- ghi d'es -- ser l'au -- ra e Lau -- ra se -- i,
+        e Lau -- ra se -- i
+    Per non re -- fri -- ge -- rar % gli spir -- ti mie -- i,
+    E ne -- ghi d'es -- ser l'au -- ra~e Lau -- ra se -- i
+    Per non re -- fri -- ge -- rar gli spir -- ti mie -- i.
 }
 
 altoXXincipit = \relative c' {
@@ -60,8 +75,8 @@ altoXXincipit = \relative c' {
     e2
 }
 
+% alto: checked against source
 altoXX = \relative c' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -72,22 +87,46 @@ altoXX = \relative c' {
         r4 a' c4. b8 a4 a b c ~ | c8[ b] a4
 
     gs2 a r4 c, | f8[ g a b] c4 g r2 c,4 c8[ c] | 
-        g4 g a2 g4 g c8[ b a a] | gs4.( a8 b4 a2 gs8[ fs] gs2) |
+        g'4 g a2 g4 g c8[ b a a] | gs4.( a8 b4 a2 gs8[ fs] gs2) |
         a1 r2 f ~ | f bf1 g2 ~ | g g 
 
-    a2 bf2 ~ | bf4( a8[ g] a2) bf1 ~ | bf r1 | g1. f2 | a1 cs,2 d | e a, r2 g' |
-        e f g4. g8 a2 d, r2 | r1 r4 g e2 | fs g4. g8 a2. d,4 |
-        r2 r4 c' b b 
+    a2 bf2 ~ | bf4( a8[ g] a2) bf1 ~ | bf r1 | g1. f2 | a1 cs,2 d | 
+        e a, r2 g' | e f g4. g8 a2 | d, r2 r1 | r4 g e2 fs g4. g8 |
+        a2. d,4 r2 r4 c' | b b 
 
-    a2 | g1 r2 r4 c, | g'8[ d d e] f2 r4 e a a | a1 a | r4 d, e e fs2 g |
-        r4 a e,8[ a c a] d4. d8 c4 a ~ | a gs a2 r1 |
+    a2 g1 | r2 r4 c, g'8[ d d e] f2 | r4 e a a a1 | a r4 d, e e | 
+        fs2 g r4 a e8[ a c a] | d4. d8 c4 a2 gs4 a2 | r1 
    
-    r4 e f8[ c c d] e2 r4 a | a1 a,2 a'2.( g8[ f] e2)
-        a\longa*1/2
+    r4 e f8[ c c d] | e2 r4 a a1 | a,2 a'2.( g8[ f] e2) | a\longa*1/2
     \bar "|."
 }
 
 altoLyricsXX = \lyricmode {
+%    Lau -- ra 
+        Se pur sei l'au -- ra,
+    \ijLyrics
+        se pur sei l'au -- ra,
+    \normalLyrics
+%    Lau -- ra se pur sei l'au -- ra
+    Ch'o -- gn'ar -- so cor d'A -- mor dol -- ce ri -- stau -- ra
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re,
+    Ch'o -- gn'ar -- so cor d'A -- mor dol -- ce ri -- stau -- ra
+    D'i -- nu -- si -- ta -- to~ar -- do -- re,
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re?
+    Ahi __ che can -- gi co -- stu -- me __
+    Sol per -- ch'io mi con -- su -- me.
+    E ne -- ghi d'es -- ser l'au -- ra,
+    \ijLyrics
+    E ne -- ghi d'es -- ser l'au -- ra
+    \normalLyrics
+        e Lau -- ra se -- i
+    Per non re -- fri -- ge -- rar gli spir -- ti mie -- i,
+        e Lau -- ra se -- i
+%    E ne -- ghi d'es -- ser l'au -- ra e Lau -- ra se -- i
+    Per non re -- fri -- ge -- rar gli spir -- ti mie -- i,
+    Per non re -- fri -- ge -- rar gli spir -- ti mie -- i.
 }
 
 tenoreXXincipit = \relative c' {
@@ -98,8 +137,8 @@ tenoreXXincipit = \relative c' {
     c2
 }
 
+% tenore: checked against source
 tenoreXX = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -113,7 +152,7 @@ tenoreXX = \relative c' {
         d ef ef1 | d1. bf2 | c1 bf2 d ~ | d c bf1 ~ | bf r2 a' ~ | a e a1 | 
         a r1 | R\breve | 
 
-    r4 d2 b c d4 ~ | d8[ d] e2 a, r4 r4 d | e e f2 g r2 | r1 r2 r4 g |
+    r4 d,2 b c d4 ~ | d8[ d] e2 a, r4 r4 d | e e fs2 g r2 | r1 r2 r4 g |
         f f e2 d r2 | r2 r4 a cs d e2 | fs r2 r1 | r1 r4 e
 
     a8[ e e f] | g2 c, b a | e'1 a, | r4 g d'8[ a a b] c2 f | e d a'1 |
@@ -122,6 +161,26 @@ tenoreXX = \relative c' {
 }
 
 tenoreLyricsXX = \lyricmode {
+%    Lau -- ra 
+        Se pur sei l'au -- ra,
+    \ijLyrics
+        se pur sei l'au -- ra,
+    \normalLyrics
+%    Lau -- ra se pur sei l'au -- ra
+    Ch'o -- gn'ar -- so cor d'A -- mor dol -- ce ri -- stau -- ra
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re,
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re,
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re?
+    Ahi __ che can -- gi co -- stu -- me
+    Sol __ per -- ch'io __ mi __ con -- su -- me.
+    E ne -- ghi d'es -- ser l'au -- ra e Lau -- ra se -- i,
+        e Lau -- ra se -- i
+        gli spir -- ti mie -- i,
+    Per non re -- fri -- ge -- rar gli spir -- ti mie -- i,
+    Per non re -- fri -- ge -- rar gli spir -- ti mie -- i.
 }
 
 bassoXXincipit = \relative c' {
@@ -132,8 +191,8 @@ bassoXXincipit = \relative c' {
     a1
 }
 
+% basso: checked against source
 bassoXX = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -154,6 +213,22 @@ bassoXX = \relative c' {
 }
 
 bassoLyricsXX = \lyricmode {
+    Lau -- ra se pur sei l'au -- ra
+%    Ch'o -- gn'ar -- so cor d'A -- mor dol -- ce ri -- stau -- ra
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re,
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re,
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re?
+    Ahi __ che can -- gi co -- stu -- me
+    Sol __ per -- ch'io mi con -- su -- me.
+    E ne -- ghi d'es -- ser l'au -- ra e Lau -- ra se -- i
+    Per non re -- fri -- ge -- rar % gli spir -- ti mie -- i,
+    E ne -- ghi d'es -- ser l'au -- ra gli spir -- ti mie -- i,
+%    Per non re -- fri -- ge -- rar gli spir -- ti mie -- i,
+%    Per non re -- fri -- ge -- rar 
+        gli spir -- ti mie -- i.
 }
 
 quintoXXincipit = \relative c' {
@@ -164,22 +239,22 @@ quintoXXincipit = \relative c' {
     e1
 }
 
+% quinto: checked against source
 quintoXX = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
     e1 a, | r4 e'2 d8[ c] f1 | e2 r4 f2 e8[ d] g2 | e1 r1 | a1 e2 r2 |
-        a1 e2 r2 | r2 r4 a2 g8[ f] a2 ~ | a4 d r4 c d4. e8
+        r2 r4 a2 g8[ f] a2 ~ | a4 d, r4 c d4. e8
 
     f4 f | e a4. g8 f4 e2 d ~ | d r2 a4 a8[ a] e'4 e | 
-        cs( d2 cs4) r4 d g8[ f e e] |D 2 c r1 | b4 e8[ d]
+        c( d2) cs4 r4 d g8[ f e e] | d2 c r1 | b4 e8[ d]
 
     c8[ b] a4 b2 r2 | r4 e g8[ f e e ] e1 | e r1 | bf1 bf2 c ~ | 
         c b a f' ~ | f4( e8[ d] c2) f1 ~ | f r2 e ~ | e d cs d ~ |
         d c f1 | e r1 | R\breve*2 | r1 r4 d b2 | cs 
 
-    d4. d8 e2 a, | r2 r4 a b b cs2 | d2 r2 r2 a | e8[ b b c] d2 r1 |
+    d4. d8 e2 a, | r2 r4 a b b cs2 | d2 r2 r2 a | e'8[ b b c] d2 r1 |
         r4 a'2 fs g a4 ~ | a8[ a] b2 e, r4 r c | b b e2 d4 d
 
     f8[ e e fs] | gs[ gs] a4. gs8 gs4 a1 | r4 e f8[ a f d] e4 a, a'2 ~ |
@@ -189,6 +264,23 @@ quintoXX = \relative c' {
 }
 
 quintoLyricsXX = \lyricmode {
+    Lau -- ra se pur sei l'au -- ra,
+    \ijLyrics
+        se pur sei l'au -- ra,
+    \normalLyrics
+    Lau -- ra se pur sei l'au -- ra
+    Ch'o -- gn'ar -- so cor d'A -- mor dol -- ce ri -- stau -- ra __
+    Co -- me sì m'ar -- de~il co -- re
+    D'i -- nu -- si -- ta -- to~ar -- do -- re,
+    D'i -- nu -- si -- ta -- to~ar -- do -- re,
+    D'i -- nu -- si -- ta -- to~ar -- do -- re?
+    Ahi che can -- gi co -- stu -- me __
+    Sol __ per -- ch'io mi __ con -- su -- me.
+    E ne -- ghi d'es -- ser l'au -- ra e Lau -- ra se -- i
+    Per non re -- fri -- ge -- rar % gli spir -- ti mie -- i,
+    E ne -- ghi d'es -- ser l'au -- ra e Lau -- ra se -- i
+    Per non re -- fri -- ge -- rar gli spir -- ti mie -- i,
+    Per non re -- fri -- ge -- rar gli spir -- ti mie -- i.
 }
 
 cantoXXincipitVoice = <<

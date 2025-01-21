@@ -1,8 +1,8 @@
 % Ahi chi ti insidia al boscareccio nido
 % o mia fera gentile? ahi chi ti tende
-% audace il laccio? Ahi miser chi t'attende
-% al varco? Empio pastor bifolco infido.
-% Deh fuggi i paschi avelenati e 'l fido
+% audace il laccio? ahi miser chi t'attende
+% al varco? Empio pastor Bifolco infido.
+% Deh fuggi i paschi avvelenati e 'l fido
 % tuo Lidio mira che dolente stende
 % l'amiche braccia per raccorti e prende
 % a sdegno il veltro e di chi caccia il grido.
@@ -23,8 +23,8 @@ cantoVIIincipit = \relative c'' {
     d1
 }
 
+% canto: checked against source
 cantoVII = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCommonTime
 
@@ -42,6 +42,14 @@ cantoVII = \relative c'' {
 }
 
 cantoLyricsVII = \lyricmode {
+    Ahi chi ti~in -- si -- dia~al bo -- sca -- rec -- cio ni -- do
+    O mia fe -- ra gen -- ti -- le? ahi __ chi ti ten -- de
+    Au -- da -- ce~il lac -- cio? ahi __ mi -- ser chi t'at -- ten -- de
+    Al var -- co?  em -- pio pa -- stor Bi -- fol -- co~in -- fi -- do.
+    Deh fug -- g'i pa -- schi~av -- ve -- le -- na -- ti e'l fi -- do
+    Tuo Li -- dio mi -- ra che do -- len -- te sten -- de
+    L'a -- mi -- che brac -- cia per rac -- cor -- ti e pren -- de
+    A sde -- gno~il vel -- tro~e di chi cac -- cia~il gri -- do.
 }
 
 altoVIIincipit = \relative c'' {
@@ -52,8 +60,8 @@ altoVIIincipit = \relative c'' {
     g1
 }
 
+% alto: checked against source
 altoVII = \relative c'' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -61,7 +69,7 @@ altoVII = \relative c'' {
         g e8[ e] fs2 fs4 g g fs |
 
     g2. d4 r2 e ~ | e e4. e8 e4 e fs2 | fs4 g a2. a4 r4 f ~ |
-        f e8[e] f2 d4 e2 e4 | fs( g2 fs4) g1 | r8[ g g e]
+        f e8[e] f2 d4 e2 e4 | fs( g2 fs4) g1 | r8 g[ g e]
 
     e2 fs4 g2 fs4 | e2 e r4 cs d d8[ d] | e4 fs g2 fs g4 g |
         a2 e f4 f8[ f] e4 fs | g2 g4 e2 e4 e2 | e1 r4 f
@@ -71,6 +79,14 @@ altoVII = \relative c'' {
 }
 
 altoLyricsVII = \lyricmode {
+    Ahi chi ti~in -- si -- dia~al bo -- sca -- rec -- cio ni -- do
+    O mia fe -- ra gen -- ti -- le? ahi __ chi ti ten -- de
+    Au -- da -- ce~il lac -- cio? ahi __ mi -- ser chi t'at -- ten -- de
+    Al var -- co?  em -- pio pa -- stor Bi -- fol -- co~in -- fi -- do.
+    Deh fug -- g'i pa -- schi~av -- ve -- le -- na -- ti e'l fi -- do
+    Tuo Li -- dio mi -- ra che do -- len -- te sten -- de
+    L'a -- mi -- che brac -- cia per rac -- cor -- ti e pren -- de
+    A sde -- gno~il vel -- tro~e di chi cac -- cia~il gri -- do.
 }
 
 tenoreVIIincipit = \relative c' {
@@ -81,8 +97,8 @@ tenoreVIIincipit = \relative c' {
     d1
 }
 
+% tenore: checked against source
 tenoreVII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -98,6 +114,17 @@ tenoreVII = \relative c' {
 }
 
 tenoreLyricsVII = \lyricmode {
+    Ahi % chi ti~in -- si -- dia~
+        al bo -- sca -- rec -- cio ni -- do
+    O mia fe -- ra gen -- ti -- le? ahi __ chi ti ten -- de
+    Au -- da -- ce~il lac -- cio? ahi __ mi -- ser chi t'at -- ten -- de
+    Al var -- co? % em -- pio pa -- stor    
+        Bi -- fol -- co~in -- fi -- do.
+    Deh fug -- g'i pa -- schi~av -- ve -- le -- na -- ti i% e'l fi -- do
+%    Tuo Li -- dio mi -- ra 
+        che do -- len -- te sten -- de
+    L'a -- mi -- che brac -- cia per rac -- cor -- ti e pren -- de
+    A sde -- gno~il vel -- tro~e di chi cac -- cia~il gri -- do.
 }
 
 bassoVIIincipit = \relative c' {
@@ -108,8 +135,8 @@ bassoVIIincipit = \relative c' {
     g1
 }
 
+% basso: checked against source
 bassoVII = \relative c' {
-    \clef bass
     \key c \major
     \fourTwoCommonTime
 
@@ -127,6 +154,14 @@ bassoVII = \relative c' {
 }
 
 bassoLyricsVII = \lyricmode {
+    Ahi chi ti~in -- si -- dia~al bo -- sca -- rec -- cio ni -- do
+    O mia fe -- ra gen -- ti -- le? ahi __ chi ti ten -- de
+    Au -- da -- ce~il lac -- cio? ahi __ mi -- ser chi t'at -- ten -- de
+    Al var -- co?  em -- pio pa -- stor Bi -- fol -- co~in -- fi -- do.
+    Deh fug -- g'i pa -- schi~av -- ve -- le -- na -- ti e'l fi -- do
+    Tuo Li -- dio mi -- ra che do -- len -- te sten -- de
+    L'a -- mi -- che brac -- cia per rac -- cor -- ti e pren -- de
+    A sde -- gno~il vel -- tro~e di chi cac -- cia~il gri -- do.
 }
 
 quintoVIIincipit = \relative c' {
@@ -137,8 +172,8 @@ quintoVIIincipit = \relative c' {
     b1
 }
 
+% quinto: checked against source
 quintoVII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -156,6 +191,16 @@ quintoVII = \relative c' {
 }
 
 quintoLyricsVII = \lyricmode {
+    Ahi chi ti~in -- si -- dia~al bo -- sca -- rec -- cio ni -- do
+    O mia fe -- ra gen -- ti -- le? ahi __ chi ti ten -- de
+    Au -- da -- ce~il lac -- cio? ahi __ % mi -- ser chi t'at -- ten -- de
+    % Al var -- co? 
+        em -- pio pa -- stor Bi -- fol -- co~in -- fi -- do.
+    Deh fug -- g'i pa -- schi~av -- ve -- le -- na -- ti e'l fi -- do
+    Tuo Li -- dio mi -- ra che do -- len -- te sten -- de
+    L'a -- mi -- che brac -- cia per rac -- cor -- ti e pren -- de
+    % A sde -- gno~il vel -- tro
+        e di chi cac -- cia~il gri -- do.
 }
 
 cantoVIIincipitVoice = <<

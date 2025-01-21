@@ -15,8 +15,8 @@ cantoVIIIincipit = \relative c'' {
     g2
 }
 
+% canto: checked against source
 cantoVIII = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCommonTime
 
@@ -32,6 +32,14 @@ cantoVIII = \relative c'' {
 }
 
 cantoLyricsVIII = \lyricmode {
+    Vie -- ni, deh vie -- ni~a me ti -- mi -- da~e bel -- la
+    E non sde -- gnar chi t'al -- let -- tò so -- ven -- te
+    Con l'e -- sca dol -- ce di ve -- ra -- ce~a -- mo -- re.
+    Vie -- ni,
+    Vie -- ni,
+    Vie -- ni spe -- ran -- za mia; se te -- ne -- rel -- la
+    Non t'in -- creb -- be star me -- co; e da -- gli~or -- ro -- ri
+    De' bo -- schi fug -- gi e dar ra -- pa -- ce gen -- ti.
 }
 
 altoVIIIincipit = \relative c' {
@@ -42,8 +50,8 @@ altoVIIIincipit = \relative c' {
     e2
 }
 
+% alto: Checked against source
 altoVIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -59,6 +67,14 @@ altoVIII = \relative c' {
 }
 
 altoLyricsVIII = \lyricmode {
+    Vie -- ni, deh vie -- ni~a me ti -- mi -- da~e bel -- la
+    E non sde -- gnar chi t'al -- let -- tò so -- ven -- te
+    Con l'e -- sca dol -- ce di ve -- ra -- ce~a -- mo -- re.
+    Vie -- ni,
+    Vie -- ni,
+    Vie -- ni spe -- ran -- za mia; se te -- ne -- rel -- la
+    Non t'in -- creb -- be star me -- co; e da -- gli~or -- ro -- ri
+    De' bo -- schi fug -- gi e dar ra -- pa -- ce gen -- ti.
 }
 
 tenoreVIIIincipit = \relative c' {
@@ -69,8 +85,8 @@ tenoreVIIIincipit = \relative c' {
     c2
 }
 
+% tenore: checked against source
 tenoreVIII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -85,6 +101,15 @@ tenoreVIII = \relative c' {
 }
 
 tenoreLyricsVIII = \lyricmode {
+    Vie -- ni, % deh vie -- ni~a me 
+        ti -- mi -- da~e bel -- la
+    E non sde -- gnar chi t'al -- let -- tò so -- ven -- te
+    Con l'e -- sca dol -- ce di ve -- ra -- ce~a -- mo -- re.
+    Vie -- ni,
+    Vie -- ni,
+        se te -- ne -- rel -- la
+    Non t'in -- creb -- be star me -- co; e da -- gli~or -- ro -- ri
+    De' bo -- schi fug -- gi e dar ra -- pa -- ce gen -- ti.
 }
 
 bassoVIIIincipit = \relative c {
@@ -95,6 +120,7 @@ bassoVIIIincipit = \relative c {
     c2
 }
 
+% basso: checked against source
 bassoVIII = \relative c {
     \clef bass
     \key c \major
@@ -112,6 +138,14 @@ bassoVIII = \relative c {
 }
 
 bassoLyricsVIII = \lyricmode {
+    Vie -- ni, deh vie -- ni~a me ti -- mi -- da~e bel -- la
+    E non sde -- gnar chi t'al -- let -- tò so -- ven -- te
+    Con l'e -- sca dol -- ce di ve -- ra -- ce~a -- mo -- re.
+    Vie -- ni,
+    Vie -- ni,
+    Vie -- ni spe -- ran -- za mia; se te -- ne -- rel -- la
+    Non t'in -- creb -- be star me -- co; e da -- gli~or -- ro -- ri
+    De' bo -- schi fug -- gi e dar ra -- pa -- ce gen -- ti.
 }
 
 quintoVIIIincipit = \relative c' {
@@ -122,8 +156,8 @@ quintoVIIIincipit = \relative c' {
     g2
 }
 
+% quinto: checked against source
 quintoVIII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -138,6 +172,16 @@ quintoVIII = \relative c' {
 }
 
 quintoLyricsVIII = \lyricmode {
+    Vie -- ni, deh vie -- ni~a me ti -- mi -- da~e bel -- la
+    E non sde -- gnar chi t'al -- let -- tò so -- ven -- te
+%    Con l'e -- sca dol -- ce 
+        di ve -- ra -- ce~a -- mo -- re.
+    Vie -- ni,
+    Vie -- ni,
+    Vie -- ni spe -- ran -- za mia; % se te -- ne -- rel -- la
+%    Non t'in -- creb -- be star me -- co; 
+        e da -- gli~or -- ro -- ri
+    De' bo -- schi fug -- gi e dar ra -- pa -- ce gen -- ti.
 }
 
 cantoVIIIincipitVoice = <<

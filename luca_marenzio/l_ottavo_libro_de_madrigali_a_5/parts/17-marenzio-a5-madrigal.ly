@@ -112,7 +112,7 @@ altoXVII = \relative c'' {
     \key c \major
     \fourTwoCommonTime
 
-    g1 a | a a2 a | Gs1 c4 c2 c4 | b2 b c4 c c2 ~ | c4 a2 g4 fs2 fs |
+    g1 a | a a2 a | gs1 c4 c2 c4 | b2 b c4 c c2 ~ | c4 a2 g4 fs2 fs |
         fs4 fs gs1 a4 a | b2 b c4 a2 a4 |
 
     a2 g g1 | e a4 a a2 ~ | a4 bf2 a4 gs2 gs | 
@@ -138,26 +138,86 @@ altoXVII = \relative c'' {
 altoLyricsXVII = \lyricmode {
 }
 
+tenoreXVIIincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    c1
+}
+
 tenoreXVII = \relative c' {
     \clef alto
     \key c \major
     \fourTwoCommonTime
 
+    c1 c | R\breve | r2 e2. c2 a4 | b2 d c4 c c2 ~ | c4 c2 g4 a2 a |
+        r2 b4 b b2 a4 a | d2 d c4 c2 d4 |
+
+    e4 c c2.( b8[ a] b2) | c1 r1 | R\breve | e4 e g g8[ g] g2 r2 |
+        R\breve | r2 e1 e4 e ~ | e8[ a,] a4 g1 c4 a ~ | a g g2 
+
+    d'1 | d4 d8[ d] f4 e g2 g | g4 a2 g4 g f d2 | e1 r4 d d4. e8 |
+        a,4 g g2 r4 a c cs | d2 d r4 fs g4. g8 | a4 g
+
+    g4 g r1 | r1 r4 fs g4. g8 | a g g g r4 c, f g | a2 a r1 | R\breve |
+        r1 r4 c c c | d2 d r1 | R\breve | r2 g,2. b4 b2 | a a r2 a ~ | a
+
+    e'4 d4. d8 d4 d2 | r2 e1 f4 e | e1 e2 e | d1 d | g4 g g2. e4 g b, |
+        d1 d ~ | d r1 | r4 d cs d e2 e | R\breve*2 | r1 d4 d d2 ~ | d d4 bf
+
+    bf1 | c r1 | c8[ d] e4 d2 cs1 | r2 e1 d2 | 
+        b2 c d4.( b8 e8[ f] g2 f8[ e] d2)
+        e\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXVII = \lyricmode {
 }
 
-bassoXVII = \relative c {
+bassoXVIIincipit = \relative c' {
+    \clef "petrucci-f3"
+    \key c \major
+    \time 4/4
+
+    c1
+}
+
+bassoXVII = \relative c' {
     \clef varbaritone
     \key c \major
     \fourTwoCommonTime
 
+    c1 f, | a a2 d, | e1 c4 f2 a4 | g2 g c,4 c c2 | e g d d | b4 b e1 a,4 a' |
+        g2 g
+
+    c,4 f2 d4 | a'2 e g1 | c, r1 | R\breve*3 | r2 c1 e4 a ~ | 
+        a8[ a] d,4 g1 c,4 f ~ | f g e2 d1 | g4 g8[ g] f4 a
+
+    g2 g | c,4 f2 e4 g d bf'2 | a1 r4 d, g4. e8 | f4 g c,2 r4 f f e |
+        d2 d r4 d g4. e8 | f4 g c, c r4 f4. e8 g4 | d2 d
+
+    r4 d g4. e8 | f4 g c, c r4 f4. f8 e4 | d2 d r2 g ~ | g e4 e a2 d, |
+        g1 r4 f f e | g2 g c4 c bf2 ~ | bf4 bf2 a4 g2 g |
+
+    r2 c,2. b4 b2 | d d r2 f ~ | f a4 d,4. d8 d4 g2 | r2 c,1 f4 a | 
+        e1 e2 a | fs1 g | c,4 c c2. e4 e e | d1 g ~ | g bf4 bf bf a8[ g] |
+
+    f4 d a' bf a2 a | r2 d,1 b4 b | b2 b e1 | a, d4 d d2 ~ | d bf4 bf bf1 |
+        f' r1 | a8[ b] c4 bf2 a1 | e1. b2 | g'1. e2 g1
+        c,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXVII = \lyricmode {
+}
+
+quintoXVIIincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    e1
 }
 
 quintoXVII = \relative c' {
