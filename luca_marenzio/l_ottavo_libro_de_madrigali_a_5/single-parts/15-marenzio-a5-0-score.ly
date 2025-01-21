@@ -106,10 +106,10 @@
             }
            \column {
                % translation orig date: 2025-01-20
-               % translation updated:
+               % translation updated: 2025-01-21 (snow-white to lily-white)
                 \line { My Clori is brown, }
                 \line { but she delights me so }
-                \line { that I do not envy snow-white beauty }
+                \line { that I do not envy lily-white beauty }
                 \line { to whoever loves or cherishes it. }
                 \line { For I am quite content with her dusky allure, }
                 \line { how much more that mixed color }

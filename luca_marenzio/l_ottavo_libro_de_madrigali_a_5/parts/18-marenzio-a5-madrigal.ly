@@ -1,8 +1,8 @@
-% Dorinda, ah! dirò “mia” se mia non sei
+% Dorinda, ah! dirò «mia» se mia non sei
 % se non quando ti perdo e quando morte
 % da me ricevi, e mia non fusti allora
 % ch'i' ti potei dar vita?
-% Pur “mia” dirò, ché mia
+% Pur «mia» dirò, ché mia
 % sarai mal grado di mia dura sorte;
 % e, se mia non sarai con la tua vita,
 % sarai con la mia morte.
@@ -27,8 +27,8 @@ cantoXVIIIincipit = \relative c'' {
     r4 e
 }
 
+% canto: checked against source
 cantoXVIII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -42,24 +42,45 @@ cantoXVIII = \relative c'' {
         e d e2  b4 b2 c4 | d2 d e4 e2 d4 | d d d1 cs2 | r4 d d a b2 b |
 
     r4 c c2 c r2 | r4 g'2 f8[ e] d4 g, b c | d2 e d4( c2 b4) |
-        c1 cs4 cs8[ cs] cs4 cs | d2 s r2 g ~ | g e2. c4 c c | 
+        c1 cs4 cs8[ cs] cs4 cs | d2 d r2 g ~ | g e2. c4 c c | 
         a a f e d1 | cs f4 f
 
     f2 | f4 f g1 g2 | a4 a a2 a4 a gs2 ~ | gs r4 a2 d g,4 | a1 b |
         g'4 g8[ g] f4 e d2 d | e4 e2 b4 b2 b4 c |
-        d g,8.([ b16] b8.[ c16] d8.[ e16]
+        d g,8.([ b16] b8.[ c16 d8. e16]
 
     f8.[ g16] a2) g16([ f e d]) | cs4( d2 cs4) d a d2 | b4 d g1 e2 |
         cs4. cs8 d1 b4 b | c1 cs | 
+        \invisibleTime\time 6/2 s1*0 \raisedSixTwoTime
         d1 e4 e8[ e] g4 d d4.( c16[ b] a2)
-        b\longa*1/2
+        \invisibleTime\time 4/2 b\longa*1/2
     \bar "|."
 }
 
 cantoLyricsXVIII = \lyricmode {
+    Do -- rin -- da, ah! di -- rò mia se mia non se -- i
+    Se non quan -- do ti per -- do e quan -- do mor -- te
+    Da me ri -- ce -- vi, e mia non fu -- sti~al -- lo -- ra
+    Ch'i' ti po -- tei dar vi -- ta?
+    Pur mia di -- rò, __ ché mi -- a
+    Sa -- rai mal gra -- do di mia du -- ra sor -- te;
+    E se mia non __ sa -- rai con la tua vi -- ta,
+    Sa -- rai con la mia mor -- te.
+
+    Ti fui cru -- de -- le, ed i -- o
+    Al -- tro da te che cru -- del -- tà non bra -- mo.
+    Ti di -- sprez -- zai su -- per -- bo:
+    Ec -- co, pie -- gan -- do le gi -- noc -- chi'a ter -- ra,
+    Ri -- ve -- ren -- te t'a -- do -- ro
+    E ti cheg -- gio per -- don, __ ma non già vi -- ta.
+    Ec -- co gli stra -- li~e l'ar -- co;
+    Ma non fe -- rir già tu gli~oc -- chi~o __ le __ ma -- ni,
+    Fe -- ri -- sci,
+    Fe -- ri -- sci que -- sto cor che ti fu cru -- do:
+    Ec -- co -- ti'l pet -- to~i -- gnu -- do.
 }
 
-altoXVIIIincipit = \relative c' {
+altoXVIIIincipit = \relative c'' {
     \clef "petrucci-c2"
     \key c \major
     \time 4/4
@@ -67,8 +88,8 @@ altoXVIIIincipit = \relative c' {
     g4
 }
 
-altoXVIII = \relative c' {
-    \clef mezzosoprano
+% alto: checked against source
+altoXVIII = \relative c'' {
     \key c \major
     \fourTwoCommonTime
 
@@ -88,12 +109,34 @@ altoXVIII = \relative c' {
         g fs g1 | g4 g8[ g] a4 c b2 b | gs4 gs2 gs4 gs2 gs4 a |
 
     b1 a2 a | a1 a2 r4 a | b2 b4 b c2 g | a2. a4 g1 | g4 g a2 g1 ~ |
-        g2 fs g4 g8[ g] g4 g2( fs8[ e] fs2)
-        g\longa*1/2
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g2 fs g4 g8[ g] g4 g2 fs8([ e] fs2)
+        \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 altoLyricsXVIII = \lyricmode {
+    Do -- rin -- da, ah! di -- rò mia se mia non se -- i
+    Se non quan -- do ti per -- do e quan -- do mor -- te
+    Da me ri -- ce -- vi, e mia non fu -- sti~al -- lo -- ra
+    Ch'i' ti po -- tei dar vi -- ta?
+    Pur mia di -- rò, __ ché mi -- a
+    Sa -- rai mal gra -- do di __ mia du -- ra sor -- te;
+    E se mia non __ sa -- rai con la tua vi -- ta,
+    Sa -- rai con la mia mor -- te.
+
+    Ti fui cru -- de -- le, ed i -- o
+%    Al -- tro da te 
+        che cru -- del -- tà non bra -- mo.
+    Ti di -- sprez -- zai su -- per -- bo:
+    Ec -- co, pie -- gan -- do le __ gi -- noc -- chi'a ter -- ra,
+    Ri -- ve -- ren -- te t'a -- do -- ro
+    E ti cheg -- gio per -- don, __ ma non già __ vi -- ta.
+    Ec -- co gli stra -- li~e l'ar -- co;
+    Ma non fe -- rir già tu gli~oc -- chi~o le ma -- ni,
+    Fe -- ri -- sci,
+    Fe -- ri -- sci que -- sto cor che ti fu cru -- do:
+    Ec -- co -- ti'l pet -- to~i -- gnu -- do.
 }
 
 tenoreXVIIIincipit = \relative c' {
@@ -104,8 +147,8 @@ tenoreXVIIIincipit = \relative c' {
     c2
 }
 
+% tenore: checked against source
 tenoreXVIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -124,12 +167,37 @@ tenoreXVIII = \relative c' {
     g4 g a2 | e r2 r1 | r1 d'4 a a2 | a4 a c1 c2 | R\breve | r2 r4 e a,2 d |
         d1 d | e4 e8[ e] f4 g g2 d | R\breve | r2 d1 d2 | e1 fs2 r4 fs |
 
-    g2 g4 d c2 e ~ | e d4. d8 d1 | e4 e c2 g1 | a c4 c8[ c] c4 b a1
-        g\longa*1/2
+    g2 g4 d c2 e ~ | e d4. d8 d1 | e4 e c2 g1 | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        a1 c4 c8[ c] c4 b a1
+        \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXVIII = \lyricmode {
+    Do -- rin -- da, ah! di -- rò mia se mia non se -- i
+    Se non quan -- do ti per -- do e quan -- do mor -- te
+    Da me ri -- ce -- vi, e mia non fu -- sti~al -- lo -- ra
+    Ch'i' ti po -- tei dar vi -- ta?
+    Pur mia di -- rò, __ ché mi -- a
+    Sa -- rai mal gra -- do di mia du -- ra sor -- te;
+    E se mia non __ sa -- rai con la tua vi -- ta,
+    Sa -- rai con la mia mor -- te.
+
+    Ti fui cru -- de -- le, ed i -- o
+    Al -- tro da te che cru -- del -- tà,
+        che cru -- del -- tà non bra -- mo.
+    Ti di -- sprez -- zai su -- per -- bo:
+    Ec -- co, pie -- gan -- do le gi -- noc -- chia,
+    Ri -- ve -- ren -- te t'a -- do -- ro
+%    E ti cheg -- gio per -- don, 
+        ma non già vi -- ta.
+    Ec -- co gli stra -- li~e l'ar -- co;
+%    Ma non fe -- rir già tu gli~oc -- chi~
+        o le ma -- ni,
+    Fe -- ri -- sci,
+    Fe -- ri -- sci __ que -- sto cor che ti fu cru -- do:
+    Ec -- co -- ti'l pet -- to~i -- gnu -- do.
 }
 
 bassoXVIIIincipit = \relative c {
@@ -140,8 +208,8 @@ bassoXVIIIincipit = \relative c {
     c2
 }
 
+% basso: checked against source
 bassoXVIII = \relative c {
-    \clef varbaritone
     \key c \major
     \fourTwoCommonTime
 
@@ -155,12 +223,34 @@ bassoXVIII = \relative c {
         e a fs g | d1 g | c,4 c8[ c] f4 c g'2
 
     g2 | e4 e2 e4 e2 e4 a | g1 d2 d | a'1 d,2 r4 d | g2 e4 g c1 |
-        a2 fs4. fs8 g1 | e4 e f2 e1 | d1 c4 c8[ c] e4 g d1
-        g\longa*1/2
+        a2 fs4. fs8 g1 | e4 e f2 e1 | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        d1 c4 c8[ c] e4 g d1
+        \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXVIII = \lyricmode {
+%    Do -- rin -- da, ah! di -- rò mia se mia non se -- i
+%    Se non quan -- do ti per -- do e quan -- do mor -- te
+%    Da me ri -- ce -- vi, e mia non fu -- sti~al -- lo -- ra
+%    Ch'i' ti po -- tei dar vi -- ta?
+    Pur mia di -- rò, ché mi -- a
+    Sa -- rai mal gra -- do di __ mia du -- ra sor -- te;
+%    E se mia non sa -- rai con la tua vi -- ta,
+%    Sa -- rai con la mia mor -- te.
+%
+    Ti fui cru -- de -- le, ed i -- o
+    Al -- tro da te che cru -- del -- tà non bra -- mo.
+    % Ti di -- sprez -- zai su -- per -- bo:
+    Ec -- co, pie -- gan -- do le __ gi -- noc -- chi'a ter -- ra,
+    Ri -- ve -- ren -- te t'a -- do -- ro
+    E ti cheg -- gio per -- don, __ ma non già vi -- ta.
+    Ec -- co gli stra -- li~e l'ar -- co;
+    Ma non fe -- rir già tu gli~oc -- chi~o le ma -- ni,
+    Fe -- ri -- sci,
+    Fe -- ri -- sci que -- sto cor che ti fu cru -- do:
+    Ec -- co -- ti'l pet -- to~i -- gnu -- do.
 }
 
 quintoXVIIIincipit = \relative c' {
@@ -171,8 +261,8 @@ quintoXVIIIincipit = \relative c' {
     e2
 }
 
+% quinto: checked against source
 quintoXVIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -180,7 +270,7 @@ quintoXVIII = \relative c' {
         a2. a4 r4 d, d e | g2 g r1 | 
 
     r2 r4 fs fs2. fs4 | fs fs gs1 a2 | fs4 g2 e4 f4.( e16[ d] c4) e |
-        g1 g | r4 c e2. c4 b2 ~ | b e4 a,4. a8 a4 
+        g1 g | r4 c, e2. c4 b2 ~ | b e4 a,4. a8 a4 
 
     cs2 | d4 d2 a4 r1 | g2 a b1 | b b | a r1 | R\breve | r1 g'4 g2 d4 |
         d d d4.( e8 f2) e | r4 d a a g2 b | r4 e f2 e r2 | r4 e2 d8[ c] b4
@@ -188,16 +278,42 @@ quintoXVIII = \relative c' {
     g'2 f8[ e] | d4 g, b c d e d2 | c1 a4 a8[ a] a4 a | d2 d d b ~ |
         b4 g g g e2. e4 | a2 a d,1 | e r1 | R\breve | c'4 c c2
 
-    c4 d b2 ~ | b cs d b | a1 g | c4 c8[ c] c4 b d2 b | b4 b2 e4 e2 e4 e |
+                                             % vv b4 to c4
+    c4 d b2 ~ | b cs d b | a1 g | c4 c8[ c] c4 c d2 b | b4 b2 e4 e2 e4 e |
         g1 f2 f | e1 d2 r4 d | d2 e4 b e2 c |
 
-    r4 a2 a4 b1 | R\breve | r1 e4 e8[ e] e4 d d1
-        d\longa*1/2
+    r4 a2 a4 b1 | R\breve | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        r1 e4 e8[ e] e4 d d1
+        \invisibleTime\time 4/2 d\longa*1/2
 
     \bar "|."
 }
 
 quintoLyricsXVIII = \lyricmode {
+%    Do -- rin -- da, 
+        Ah! di -- rò mia se mia non se -- i
+    Se non quan -- do ti per -- do e quan -- do mor -- te
+%    Da me ri -- ce -- vi, 
+        e mia non fu -- sti~al -- lo -- ra
+    Ch'i' ti po -- tei __ dar vi -- ta?
+    Pur mia di -- rò, __ ché mi -- a
+    Sa -- rai mal gra -- do di mia du -- ra sor -- te;
+%    E se mia non sa -- rai con la tua vi -- ta,
+    Sa -- rai con la mia mor -- te.
+
+    Ti fui cru -- de -- le, ed i -- o
+    Al -- tro da te,
+    Al -- tro da te che cru -- del -- tà non bra -- mo.
+    Ti di -- sprez -- zai su -- per -- bo:
+    Ec -- co, pie -- gan -- do le gi -- noc -- chi'a ter -- ra,
+%    Ri -- ve -- ren -- te t'a -- do -- ro
+    E ti cheg -- gio per -- don, __ ma non già vi -- ta.
+    Ec -- co gli stra -- li~e l'ar -- co;
+    Ma non fe -- rir già tu gli~oc -- chi~o le ma -- ni,
+    Fe -- ri -- sci,
+    Fe -- ri -- sci que -- sto cor,
+    Ec -- co -- ti'l pet -- to~i -- gnu -- do.
 }
 
 cantoXVIIIincipitVoice = <<
