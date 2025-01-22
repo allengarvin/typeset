@@ -11,6 +11,8 @@
 \header {
     lastupdated = "2025-01-21"
     originallyset = "2025-01-21"
+    flats = 0
+    final = "c"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Se tu dolce mio ben mi saettasti"

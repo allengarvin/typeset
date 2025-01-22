@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Solo et pensoso"
+    title = "Solo e pensoso"
     subtitle = "Prima parte"
     folio = \markup { Petrarca, \italic{Canzoniere} XXXV (35) }
-    instrument = "Solo et pensoso (score)"
+    instrument = "Solo e pensoso (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -84,12 +84,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { Solo et pensoso i piú deserti campi }
-                \line { vo mesurando a passi tardi et lenti, }
-                \line { et gli occhi porto per fuggire intenti }
+                \line { Solo e pensoso i più deserti campi }
+                \line { vo mesurando a passi tardi e lenti, }
+                \line { e gli occhi porto per fuggire intenti }
                 \line { ove vestigio human l'arena stampi. }
                 \line { Altro schermo non trovo che mi scampi }
-                \line { dal manifesto accorger de le genti, }
+                \line { dal manifesto accorger delle genti, }
                 \line { perché negli atti d'alegrezza spenti }
                 \line { di fuor si legge com'io dentro avampi. }
             }

@@ -10,11 +10,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Pensier, dicea, che’l cor m’aggiacci et ardi"
+    title = "Pensier, dicea, che'l cor m'aggiacci ed ardi"
     subtitle = ""
-    instrument = "Pensier, dicea, che’l cor m’aggiacci et ardi:  (score)"
+    instrument = "Pensier, dicea, che'l cor m'aggiacci ed ardi:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "pensier_dicea_che’l_cor_m’aggiacci_et_ardi"
+    shorttitle = "pensier_dicea_che'l_cor_m'aggiacci_et_ardi"
     shortcomp = "lasso"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 41 }
@@ -27,6 +27,7 @@
     flats = 0
     final = "e"
     categories = "[madrigal,furioso]"
+    motifs = "[hopelessness,thoughts]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     tagline = #'f
@@ -35,7 +36,7 @@
 \include "../parts/25-lasso-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "25-lasso--pensier_dicea_che’l_cor_m’aggiacci_et_ardi-"
+    \bookOutputName "25-lasso--pensier_dicea_che'l_cor_m'aggiacci_et_ardi-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -95,22 +96,23 @@
     \markup {
         \fill-line {
             \column {
-                \line { Pensier, dicea, che’l cor m’aggiacci et ardi, }
+                % italian touchup: 2025-01-21
+                \line { Pensier, dicea, che'l cor m'aggiacci ed ardi, }
                 \line { e causi il duol che sempre il rode e lima, }
-                \line { che debbo far, poi ch’io son giunto tardi, }
-                \line { e ch’altri a corre il frutto è andato prima? }
-                \line { a pena avuto io n’ho parole e sguardi, }
-                \line { et altri n’ha tutta la spoglia opima. }
+                \line { che debbo far, poich'io son giunto tardi, }
+                \line { e ch'altri a corre il frutto è andato prima? }
+                \line { a pena avuto io n'ho parole e sguardi, }
+                \line { ed altri n'ha tutta la spoglia opima. }
                 \line { Se non ne tocca a me frutto né fiore, }
-                \line { perché affligger per lei mi vuo’ più il core? }
+                \line { perché affligger per lei mi vuo' più il core? }
             }
             \column {
                 \line { Thought which now makes me burn, now freeze with hate, }
                 \line { Which gnaws my heart and rankles at its root! }
-                \line { What’s left to me,” he said, “arrived too late, }
+                \line { What's left to me,” he said, “arrived too late, }
                 \line { While one more favoured bears away the fruit? }
                 \line { Bare words and looks scarce cheered my hopeless state, }
-                \line { And the prime spoils reward another’s suit. }
+                \line { And the prime spoils reward another's suit. }
                 \line { Then since for me nor fruit nor blossom hangs, }
                 \line { Why should I longer pine in hopeless pangs? }
                 \line { \hspace #12 William Rose (1775-1843) }

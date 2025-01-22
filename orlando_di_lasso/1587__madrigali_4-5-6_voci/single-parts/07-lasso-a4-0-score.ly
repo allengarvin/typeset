@@ -93,20 +93,20 @@
                 \line { come sol'il lasciarvi è che m'aggreva }
                 \line { qui senza guida, e non già perch'io mora: }
                 \line { che se in secura parte m'accadeva }
-                \line { finir deela mia vita l'ultima ora, }
+                \line { finir della mia vita l'ultima ora, }
                 \line { lieto e contento e fortunato a pieno }
                 \line { morto sarei, poich'io vi moro in seno.» }
             }
            \column {
-                \line { 'Promise me, truly, my dear heart' he cried, }
-                \line { 'That you will love me still when I am gone. }
-                \line { To leave you now alone, without a guide, }
-                \line { Renders me distraught and I grieve thereon. }
-                \line { Were I a safer refuge not, thus, denied, }
-                \line { Where I might end my life, my journey done, }
-                \line { I’d be content to die, and thus to rest }
-                \line { Most fortunate, indeed, upon your breast.' }
-                \line { \line { \hspace #12 A.S. Kline (©2004, used with permission) } }
+                \line { 'Thus, my dear heart, pray', he told her, }
+                \line { '(after I am gone) love me still, }
+                \line { for it is leaving you alone, here without a guide, }
+                \line { that grieves me, and not because I die: }
+                \line { for had I happened in my last hour }
+                \line { to end my life in a secure place, }
+                \line { I would die happy and content }
+                \line { and richly blessed, since I die in your embrace.' }
+                \line { \hspace #10 \italic { translation by editor } }
            }
         }
     }

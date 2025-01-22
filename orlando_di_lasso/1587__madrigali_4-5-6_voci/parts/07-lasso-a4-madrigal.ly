@@ -3,7 +3,7 @@
 % come sol'il lasciarvi è che m'aggreva
 % qui senza guida, e non già perch'io mora:
 % che se in secura parte m'accadeva
-% finir deela mia vita l'ultima ora,
+% finir della mia vita l'ultima ora,
 % lieto e contento e fortunato a pieno
 % morto sarei, poich'io vi moro in seno.
 
