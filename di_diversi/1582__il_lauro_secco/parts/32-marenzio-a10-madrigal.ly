@@ -101,8 +101,9 @@ cantoOneXXXII = \relative c'' {
         f8([ e f g] a2) r2 d |
 
     d2 c bf f4 bf |
+        bf2 c d1 ~ |
         \invisibleTime\time 6/2 s1*0 \raisedSixTwoTime
-        bf2 c d\breve
+        d1 c\breve ~ 
         \invisibleTime \time 4/2 c\longa*1/2
     \bar "|."
 }
@@ -141,7 +142,7 @@ cantoOneLyricsXXXII = \lyricmode {
     Che l'es -- ser sen -- za te,
     Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
     Che l'es -- ser sen -- za te __ m'è~il Pa -- ra -- di -- so,
-         m'è~il Pa -- ra -- di -- so.
+         m'è~il Pa -- ra -- di -- so. __
 }
 
 altoOneXXXIIincipit = \relative c' {
@@ -152,8 +153,8 @@ altoOneXXXIIincipit = \relative c' {
     c1
 }
 
+% alto: checked against source
 altoOneXXXII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -166,14 +167,15 @@ altoOneXXXII = \relative c' {
     r4 c | c c f4. e8 d4. c8 bf4. g8 | c1 d | r2 r4 g, g g g'4. f8 |
         ef4. c8 d4. e8
 
-    f4( d g2 ~ | g4 f f2. e8[ d] e2) | f\breve | R\breve*10 |
+    f4( d g2 ~ | g4 f f2. e8[ d] e2) | f\breve | 
+        R\breve R\breve*5 R\breve*4 |
         r1 e2 g4 f | e1 e2 f | c f4 d cs2 cs4 a' | a
 
     g4 f f e2 e | g4. f8 d4 g2( fs8[ e] fs2) | g d2. d4 g e | f1 e2 r4  g|
         e c g'2
 
     r2 e | d4 d e2 d g ~ | g e4 e f2. e4 | d1 c | f ef ~ | ef d | 
-        R\breve*11 | r1 f2 f ~ | f f e
+        R\breve*3 R\breve*5 R\breve*3 | r1 f2 f ~ | f f e
 
     d2 ~ | d g f e | d\breve | d1 r4 f f f | e2 f r4 g g g | fs2 g4 g2 f e4 ~ |
         e d2 c b4 c2 | r2
@@ -192,46 +194,47 @@ altoOneXXXII = \relative c' {
     f2. f4 f2 f | f1 r1 | r2 c e2. e4 | e2 f c1 | r2 c c g' | f1 e |
         r1 r2 e | f2. f4 f2 f ~ | f 
 
-    f, r2 f' | f2 f f1
+    f, r2 f' | f2 f f1 |
+        f\breve ~ 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        f\breve.~ 
         \invisibleTime \time 4/2 f\longa*1/2
     \bar "|."
 }
 
 altoOneLyricsXXXII = \lyricmode {
-%    Quel lau -- ro, che fu~in me già,
-%        che fu~in me già co -- sì ver -- de,
-%    Mai più fia, che rin -- ver -- de;
-%    Ma ec -- co~al sde -- gno, ch'io con -- sa -- cro~in vo -- to
-%    Le sec -- che fo -- glie,
-%    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
-%    Le sec -- che fo -- gli'e il suo tron -- co rot -- to.
-%
-%    An -- zi tu fo -- sti, che trop -- po~in -- co -- stan -- te
-%    Il cor a no -- vo~A -- man -- te
-%    Rat -- to vol -- ge -- sti: ma nel vo -- stro stuo -- lo
-%    U -- na non è che stia con -- ten -- ta,
-%    U -- na non è,
-%    U -- na non è che stia con -- ten -- ta a~un so -- lo.
-%
-%    Or po -- scia che'l tuo~er -- ro -- re
-%    Con -- fes -- si, io son con -- ten -- to,
-%        io son con -- ten -- to,
-%    Che nel tuo no -- vo~a -- mo -- re
-%    Ver -- deg -- gi,
-%    Che nel tuo no -- vo~a -- mo -- re
-%    Ver -- deg -- gi,
-%    Ver -- deg -- gi, pur -- ché nel mio re -- sti spen -- to.
-%
-%    Gra -- zie ti ren -- do,
-%    Gra -- zie ti ren -- do~e~a te can -- tia -- mo~A -- mo -- re,
-%         can -- tia -- mo~A -- mo -- re,
-%    Che sciol -- to n'ab -- bi'l co -- re
-%    E me da te,
-%    E me da te,
-%    Che l'es -- ser sen -- za te,
-%    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
-%    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
-%         m'è~il Pa -- ra -- di -- so.
+    Quel lau -- ro, che fu~in me già co -- sì ver -- de,
+        co -- sì ver -- de,
+    Mai più fia, che rin -- ver -- de;
+    Ma ec -- co~al sde -- gno, ch'io con -- sa -- cro~in vo -- to
+    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
+    Le sec -- che fo -- gli'e il suo tron -- co rot -- to.
+
+    An -- zi tu fo -- sti, che trop -- po~in -- co -- stan -- te
+    Il cor a no -- vo~A -- man -- te
+    Rat -- to vol -- ge -- sti: ma nel vo -- stro stuo -- lo
+    U -- na non è che stia con -- ten -- ta,
+        che __ stia con -- ten -- t'a~un so -- lo,
+            a~un so -- lo.
+
+    Or po -- scia che'l tuo~er -- ro -- re
+    Con -- fes -- si, io son con -- ten -- to,
+        io son con -- ten -- to,
+    Che nel tuo __ no -- vo~a -- mo -- re
+    Ver -- deg -- gi,
+    Ver -- deg -- gi,
+    Che nel tuo no -- vo~a -- mo -- re
+    Ver -- deg -- gi, pur -- ché nel __ mio re -- sti spen -- to.
+
+    Gra -- zie ti ren -- do,
+    Gra -- zie ti ren -- do~e~a te can -- tia -- mo~A -- mo -- re,
+         can -- tia -- mo~A -- mo -- re,
+    Che sciol -- to n'ab -- bi'l co -- re
+    E me da te,
+    E me da te,
+    Che l'es -- ser sen -- za te,
+    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
+    Che l'es -- ser sen -- za __ te m'è~il Pa -- ra -- di -- so. __
 }
 
 tenoreOneXXXIIincipit = \relative c {
@@ -242,12 +245,12 @@ tenoreOneXXXIIincipit = \relative c {
     f1
 }
 
+% tenore: checked against source
 tenoreOneXXXII = \relative c {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
-    r2 f1 a2 ~ | a d, r1 | r2 a' bf c | d a bf c | d r2 bf4 d c2 | bf r2 f4 g
+    r2 f1 a2 ~ | a d, r1 | r2 a' bf c | d a bf c | d r2 bf4 d c2 | bf r2 f4 a
 
     g2 | c,2 g'1 g2 | r4 d a'4. bf8 c2 g | c d1 c2 | bf a r2 d | ef ef1 c2 |
         c1 c4 g g g |
@@ -255,14 +258,14 @@ tenoreOneXXXII = \relative c {
     a4. g8 f4 a d,8[ e] f2 e4 | r4 f f f bf4. c8 d4. e8 | f4 d2 bf g c4 |
         c c f4. e8 d4. c8
 
-    bf2 ~ | bf a g1 | f\breve | R\breve*10 | r1 c'2 c4 d | c1 c2 f, |
-        c f4 g a2 a4 f | f4 g a4. bf8 c2 c | 
+    bf2 ~ | bf a g1 | f\breve | R\breve R\breve*5 R\breve*4 | r1 c'2 c4 d | 
+        c1 c2 f, | f f4 g a2 a4 f | f4 g a4. bf8 c2 c | 
 
     g4. a8 bf2 d1 | g,2 g2. g4 g g | f1 g ~ | g r4 g e c | g'1 r4 g c, g' |
-        g1 a2 c ~ | c4( b8[ a]
+        g1 a2 c ~ | c4 b8([ a]
 
-    b2) c r2 | r2 d bf4( a g f | ef1) f | R\breve*11 | r1 a2 a ~ | a a e a ~ |
-        a g a1 | fs2 g1(
+    b2) c r2 | r2 d bf4( a g f | ef1) f | R\breve*3 R\breve*5 R\breve*3 |
+        r1 a2 a ~ | a a e a ~ | a g a1 | fs2 g1(
 
     fs2) | g1 r4 a d bf | c2 f, r4 d' ef c | d2 bf r2 r4 g | 
         c a bf g a f r4 g | a2 g
@@ -283,47 +286,53 @@ tenoreOneXXXII = \relative c {
         a1 g | r1 r2 e | a2. a4
 
     f2 f | f1 r1 | f bf,2 d |
+        f\breve ~ |
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        f\breve.
+        f1 f\breve ~ 
         \invisibleTime \time 4/2 f\longa*1/2
     \bar "|."
 }
 
 tenoreOneLyricsXXXII = \lyricmode {
-%    Quel lau -- ro, che fu~in me già,
-%        che fu~in me già co -- sì ver -- de,
-%    Mai più fia, che rin -- ver -- de;
-%    Ma ec -- co~al sde -- gno, ch'io con -- sa -- cro~in vo -- to
-%    Le sec -- che fo -- glie,
-%    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
-%    Le sec -- che fo -- gli'e il suo tron -- co rot -- to.
-%
-%    An -- zi tu fo -- sti, che trop -- po~in -- co -- stan -- te
-%    Il cor a no -- vo~A -- man -- te
-%    Rat -- to vol -- ge -- sti: ma nel vo -- stro stuo -- lo
+    Quel lau -- ro, che fu~in me già,
+        che fu~in me già co -- sì ver -- de,
+            co -- sì ver -- de,
+    Mai più fia, che rin -- ver -- de;
+    Ma ec -- co~al sde -- gno, ch'io con -- sa -- cro~in vo -- to
+    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
+    \ijLyrics
+    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
+    \normalLyrics
+    Le sec -- che fo -- gli'e il suo tron -- co rot -- to.
+
+    An -- zi tu fo -- sti, che trop -- po~in -- co -- stan -- te
+    Il cor a no -- vo~A -- man -- te
+    Rat -- to vol -- ge -- sti: ma nel vo -- stro stuo -- lo __
 %    U -- na non è che stia con -- ten -- ta,
 %    U -- na non è,
-%    U -- na non è che stia con -- ten -- ta a~un so -- lo.
-%
-%    Or po -- scia che'l tuo~er -- ro -- re
-%    Con -- fes -- si, io son con -- ten -- to,
-%        io son con -- ten -- to,
-%    Che nel tuo no -- vo~a -- mo -- re
-%    Ver -- deg -- gi,
-%    Che nel tuo no -- vo~a -- mo -- re
-%    Ver -- deg -- gi,
-%    Ver -- deg -- gi, pur -- ché nel mio re -- sti spen -- to.
-%
-%    Gra -- zie ti ren -- do,
-%    Gra -- zie ti ren -- do~e~a te can -- tia -- mo~A -- mo -- re,
-%         can -- tia -- mo~A -- mo -- re,
-%    Che sciol -- to n'ab -- bi'l co -- re
-%    E me da te,
-%    E me da te,
-%    Che l'es -- ser sen -- za te,
-%    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
-%    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
-%         m'è~il Pa -- ra -- di -- so.
+    U -- na non è che stia con -- ten -- ta a~un __ so -- lo,
+        a~un so -- lo.
+
+    Or po -- scia che'l tuo~er -- ro -- re
+    Con -- fes -- si, io son con -- ten -- to,
+        io son con -- ten -- to,
+    Che nel tuo no -- vo~a -- mo -- re,
+    \ijLyrics
+    Che nel tuo no -- vo~a -- mo -- re
+    \normalLyrics
+    Ver -- deg -- gi,
+    Ver -- deg -- gi,
+        pur -- ché nel mio re -- sti spen -- to.
+
+    Gra -- zie ti ren -- do,
+    Gra -- zie ti ren -- do~e~a te can -- tia -- mo~A -- mo -- re,
+         can -- tia -- mo~A -- mo -- re,
+    Che sciol -- to n'ab -- bi'l co -- re
+    E me da te,
+    E me da te,
+    Che l'es -- ser sen -- za te,
+    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
+    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so. __
 }
 
 % tenore II choir I
@@ -335,8 +344,8 @@ quintoOneXXXIIincipit = \relative c {
     f1
 }
 
+% quinto: checked against source
 quintoOneXXXII = \relative c {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
@@ -348,11 +357,11 @@ quintoOneXXXII = \relative c {
     r4 f f f bf1 | a2 r4 f' f f f4. e8 | d4. c8 bf4. a8 g1 |
         g2 r4 d d d d'4. c8 |
 
-    bf4 f f4. a8 c1 | c\breve | R\breve*15 | r2 d,2. d4 d' c | c1 c |
-        r4 g e c g'1 | r2 r4 c b b 
+    bf4 f f4. a8 c1 | c\breve | R\breve R\breve*5 R\breve*5 R\breve*4 |
+        r2 d,2. d4 d' c | c1 c | r4 g e c g'1 | r2 r4 c b b 
 
     c2 | d c1 a2 | r1 r2 a | bf4 bf a2 g bf ~ | bf4( a8[ g] a2) bf1 | 
-        R\breve*11 | r1 c2 c ~ | c f, a f |
+        R\breve*3 R\breve*5 R\breve*3 | r1 c2 c ~ | c f, a f |
 
     f2 d r2 a' ~ | a d2.( c8[ bf] a2) | bf4 d bf bf c2 bf | r4 g a c d2 c |
         r2 r4 g c a bf g |
@@ -372,46 +381,51 @@ quintoOneXXXII = \relative c {
         c2. c4 d2 f | f1
 
     r2 d | f c d bf4 f |
-        d2 f d2.( e4 f1)
+        d2 f d2.( e4 | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        f1) f\breve ~
+        
         \invisibleTime \time 4/2 f\longa*1/2
     \bar "|."
 }
 
 quintoOneLyricsXXXII = \lyricmode {
-%    Quel lau -- ro, che fu~in me già,
-%        che fu~in me già co -- sì ver -- de,
-%    Mai più fia, che rin -- ver -- de;
-%    Ma ec -- co~al sde -- gno, ch'io con -- sa -- cro~in vo -- to
-%    Le sec -- che fo -- glie,
-%    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
-%    Le sec -- che fo -- gli'e il suo tron -- co rot -- to.
+    Quel lau -- ro, che fu~in me già,
+        che fu~in me già co -- sì ver -- de,
+    Mai più fia, che rin -- ver -- de;
+    Ma ec -- co~al sde -- gno, ch'io con -- sa -- cro~in vo -- to
+    Le sec -- che fo -- glie,
+    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
+    Le sec -- che fo -- gli'e il suo tron -- co rot -- to.
 %
 %    An -- zi tu fo -- sti, che trop -- po~in -- co -- stan -- te
 %    Il cor a no -- vo~A -- man -- te
-%    Rat -- to vol -- ge -- sti: ma nel vo -- stro stuo -- lo
-%    U -- na non è che stia con -- ten -- ta,
-%    U -- na non è,
-%    U -- na non è che stia con -- ten -- ta a~un so -- lo.
-%
-%    Or po -- scia che'l tuo~er -- ro -- re
-%    Con -- fes -- si, io son con -- ten -- to,
-%        io son con -- ten -- to,
-%    Che nel tuo no -- vo~a -- mo -- re
-%    Ver -- deg -- gi,
-%    Che nel tuo no -- vo~a -- mo -- re
-%    Ver -- deg -- gi,
-%    Ver -- deg -- gi, pur -- ché nel mio re -- sti spen -- to.
-%
-%    Gra -- zie ti ren -- do,
-%    Gra -- zie ti ren -- do~e~a te can -- tia -- mo~A -- mo -- re,
-%         can -- tia -- mo~A -- mo -- re,
-%    Che sciol -- to n'ab -- bi'l co -- re
-%    E me da te,
-%    E me da te,
-%    Che l'es -- ser sen -- za te,
-%    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
-%    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
-%         m'è~il Pa -- ra -- di -- so.
+%    Rat -- to vol -- ge -- sti: 
+        ma nel vo -- stro stuo -- lo
+    U -- na non è, che stia con -- ten -- t'a~un so -- lo.
+        che stia con -- ten -- t'a~un so -- lo.
+
+    Or po -- scia che'l tuo~er -- ro -- re
+    Con -- fes -- si, io son con -- ten -- to,
+        io son con -- ten -- to,
+    Che nel tuo no -- vo~a -- mo -- re,
+    \ijLyrics
+    Che nel tuo no -- vo~a -- mo -- re
+    \normalLyrics
+    Ver -- deg -- gi,
+    Che nel tuo no -- vo~a -- mo -- re
+    Ver -- deg -- gi, pur -- ché nel __ mio re -- sti spen -- to.
+
+    Gra -- zie ti ren -- do,
+    Gra -- zie ti ren -- do~e~a te can -- tia -- mo~A -- mo -- re,
+         can -- tia -- mo A -- mo -- re,
+    Che sciol -- to n'ab -- bi'l co -- re
+    E me da te,
+    E me da te,
+    Che l'es -- ser sen -- za te,
+    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
+    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
+         m'è~il Pa -- ra -- di -- so. __
 }
 
 bassoOneXXXIIincipit = \relative c {
@@ -422,23 +436,23 @@ bassoOneXXXIIincipit = \relative c {
     f\breve
 }
 
+% basso: checked against source
 bassoOneXXXII = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCommonTime
 
     r1 f ~ | f a | d,2 d g f | bf, f'4 a g2 f | bf,4 d c2 bf f'4 g |
 
-    g2 c, r1 | r2 c1 g4 g | d'4. e8 f2 c1 | R\breve*3 | r1 r4 c c c |
+    g2 c, r1 | r2 c1 g4 g | d'4. e8 f2 c1 | R\breve R\breve*2 | r1 r4 c c c |
         f4. e8 d4. c8 bf4. a8 g2 | f1
 
     r4 bf bf bf | bf'4. a8 g4. f8 ef4. d8 c2 ~ | c bf1 g2 | bf4. c8 d4 f c1 |
-        f,\breve | R\breve*15 |
+        f,\breve | R\breve R\breve*5 R\breve*5 R\breve*4 |
 
     r2 g2. g4 g c | f,1 c' ~ | c\breve | r4 g' e c g'2 r4 c, | 
-        b4 b c2 f1 | g a | r2 d ef2.( d4 | c1) bf |
+        b4 b c2 f1 | g a | r2 d, ef2.( d4 | c1) bf |
 
-    R\breve*11 | r1 f'2 f ~ | f d cs d | bf1 a2 c | d\breve | 
+    R\breve*3 R\breve*5 R\breve*3 r1 f'2 f ~ | f d cs d | bf1 a2 c | d\breve | 
         g,4 g' g g f2 bf, | r4 c f a g2 c, | 
 
     r2 g' a g | f ef d c | r2 c d c | bf a g f4 f' | g ef f d ef c
@@ -455,46 +469,57 @@ bassoOneXXXII = \relative c {
     f2. f4 d2 bf | f'1 r1 | r2 f, c'2. c4 | a2 f c'1 | r2 f f e | f1 c |
         r1 r2 c | f2. f4 d2 bf | 
 
-    f'1 r2 bf | bf a bf1
+    f'1 r2 bf | 
+        bf a bf1 | 
+            f\breve ~ 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+            f\breve. ~
         \invisibleTime \time 4/2 f\longa*1/2
     \bar "|."
 }
 
 bassoOneLyricsXXXII = \lyricmode {
-%    Quel lau -- ro, che fu~in me già,
-%        che fu~in me già co -- sì ver -- de,
-%    Mai più fia, che rin -- ver -- de;
+    Quel __ lau -- ro, che fu~in me già co -- sì ver -- de,
+        co -- sì ver -- de,
+        co -- sì ver -- de,
+    Mai più fia, che rin -- ver -- de;
 %    Ma ec -- co~al sde -- gno, ch'io con -- sa -- cro~in vo -- to
 %    Le sec -- che fo -- glie,
-%    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
-%    Le sec -- che fo -- gli'e il suo tron -- co rot -- to.
+    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
+    \ijLyrics
+    Le sec -- che fo -- gli'e il suo tron -- co rot -- to,
+    \normalLyrics
+        e il suo tron -- co rot -- to.
 %
 %    An -- zi tu fo -- sti, che trop -- po~in -- co -- stan -- te
 %    Il cor a no -- vo~A -- man -- te
-%    Rat -- to vol -- ge -- sti: ma nel vo -- stro stuo -- lo
+%    Rat -- to vol -- ge -- sti: 
+        ma nel vo -- stro stuo -- lo __
 %    U -- na non è che stia con -- ten -- ta,
 %    U -- na non è,
-%    U -- na non è che stia con -- ten -- ta a~un so -- lo.
+    U -- na non è che stia con -- ten -- t'a~un so -- lo.
+        a~un so -- lo.
 %
-%    Or po -- scia che'l tuo~er -- ro -- re
-%    Con -- fes -- si, io son con -- ten -- to,
-%        io son con -- ten -- to,
-%    Che nel tuo no -- vo~a -- mo -- re
+    Or po -- scia che'l tuo~er -- ro -- re
+    Con -- fes -- si, io son con -- ten -- to,
+        io son con -- ten -- to,
+    Che nel tuo no -- vo~a -- mo -- re,
+    \ijLyrics
+    Che nel tuo no -- vo~a -- mo -- re,
+    \normalLyrics
+    Che nel tuo no -- vo~a -- mo -- re
 %    Ver -- deg -- gi,
-%    Che nel tuo no -- vo~a -- mo -- re
-%    Ver -- deg -- gi,
-%    Ver -- deg -- gi, pur -- ché nel mio re -- sti spen -- to.
-%
-%    Gra -- zie ti ren -- do,
-%    Gra -- zie ti ren -- do~e~a te can -- tia -- mo~A -- mo -- re,
-%         can -- tia -- mo~A -- mo -- re,
-%    Che sciol -- to n'ab -- bi'l co -- re
-%    E me da te,
-%    E me da te,
-%    Che l'es -- ser sen -- za te,
-%    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
-%    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
-%         m'è~il Pa -- ra -- di -- so.
+    Ver -- deg -- gi, pur -- ché nel __ mio re -- sti spen -- to.
+
+    Gra -- zie ti ren -- do,
+    Gra -- zie ti ren -- do~e~a te can -- tia -- mo~A -- mo -- re,
+         can -- tia -- mo~A -- mo -- re,
+    Che sciol -- to n'ab -- bi'l co -- re
+    E me da te,
+    E me da te,
+    Che l'es -- ser sen -- za te,
+    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
+    Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so. __
 }
 
 cantoTwoXXXIIincipit = \relative c'' {
@@ -620,7 +645,7 @@ altoTwoXXXII = \relative c' {
 
     f2 f r1 | r2 f g2. e4 | e2 f e1 | r1 r2 f | f f f1 | f r2 f | f f f1 ~ |
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        f1( f1. e4 d)
+        f1 f1.( e4 d)
         \invisibleTime \time 4/2 c\longa*1/2
 
     \bar "|."
@@ -667,7 +692,7 @@ altoTwoLyricsXXXII = \lyricmode {
         m'è~il Pa -- ra -- di -- so,
         m'è~il Pa -- ra -- di -- so,
     Che l'es -- ser sen -- za te m'è~il Pa -- ra -- di -- so,
-        m'è~il Pa -- ra -- di -- so.
+        m'è~il Pa -- ra -- di -- so. __
 }
 
 tenoreTwoXXXIIincipit = \relative c' {
