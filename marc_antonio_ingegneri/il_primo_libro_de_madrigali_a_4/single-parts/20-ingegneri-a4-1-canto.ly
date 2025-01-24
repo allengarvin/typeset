@@ -1,7 +1,7 @@
 \version "2.22.1"
 \include "english.ly"
 
-% Invocation: /usr/local/bin/generate-single.py -t "Qual grazia o qual beltate" -p madrigal -l italian -v -m 86 08-ingegneri-a4-0-score.ly canto:t alto:8a tenore:8a basso:b
+% Invocation: /usr/local/bin/generate-single.py -t "Se 'l sol si scosta" -f ARIOSTO -p "ottava rima" -l italian -v -m 84 20-ingegneri-a4-0-score.ly canto:t alto:ta8 tenore:8a basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -14,35 +14,36 @@
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Qual grazia o qual beltate"
+    title = "Se 'l sol si scosta"
     subtitle = ""
     subsubtitle = ""
-    instrument = "Qual grazia o qual beltate:  (basso)"
+    instrument = "Se 'l sol si scosta:  (canto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "qual_grazia_o_qual_beltate"
+    shorttitle = "se_l_sol_si_scosta"
     shortcomp = "ingegneri"
+    folio = \markup { Ludovico Ariosto, \italic {Orlando Furioso,} canto XLV ottava 38 }
 
     % Things that change per part:
-    partname = "Basso (part 4 of 4)"
-    instrument = "Qual grazia o qual beltate:  (basso)"
+    partname = "Canto (part 1 of 4)"
+    instrument = "Se 'l sol si scosta:  (canto)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/08-ingegneri-a4-madrigal.ly"
+\include "../parts/20-ingegneri-a4-madrigal.ly"
 
 \book {
-    \bookOutputName "08-ingegneri--qual_grazia_o_qual_beltate-"
-    \bookOutputSuffix "--4-basso--bs_clef"
+    \bookOutputName "20-ingegneri--se_l_sol_si_scosta-"
+    \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "bass"
+            \clef "treble"
             \global 
-            \bassoVIII
+            \cantoXX
         >>
-                \addlyrics { \bassoLyricsVIII }
+                \addlyrics { \cantoLyricsXX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

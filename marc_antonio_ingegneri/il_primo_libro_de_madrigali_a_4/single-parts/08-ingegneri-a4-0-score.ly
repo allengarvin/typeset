@@ -6,26 +6,27 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 17.0)
+#(set-global-staff-size 17)
 
 \header {
+    lastupdated = "2025-01-24"
+    originallyset = "2025-01-24"
+    \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Qual grazia, o qual beltate"
+    title = "Qual grazia o qual beltate"
     subtitle = ""
-    instrument = "Qual grazia, o qual beltate:  (score)"
+    subsubtitle = ""
+    instrument = "Qual grazia o qual beltate:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "qual_grazia_o_qual_beltate"
     shortcomp = "ingegneri"
-    needtranslation = #'t
+    categories = "[madrigal]"
+    motifs = "[beauty,goodness,praise,soul]"
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"
-    lastupdated = "2022-04-22"
-    originallyset = "2022-04-22"
-    flats = 1
-    final = "f"
-    categories = "[madrigal]"
-    \include "include/distribution-header.ly"
+    poeticform = "madrigal"
     tagline = #'f
 }
 
@@ -77,22 +78,36 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 94 2)
+                tempoWholesPerMinute = #(ly:make-moment 86 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Qual grazia, o qual beltate }
+                \line { Qual grazia o qual beltate }
                 \line { infuse mai dal ciel benigna stella }
-                \line { nelle cose create, }
-                \line { qual interna bontate }
-                \line { un'alma rese mai si adorna e bella }
-                \line { in quest'o in altra etade, }
-                \line { ch'agguagli il bello che entr'e fuor dimostra: }
-                \line { questa vaga e gentil signora nostra. }
+                \line { nelle cose create? }
+                \line { Qual interna bontate }
+                \line { un'alma rese mai sì adorna e bella }
+                \line { in questa o in altra etade, }
+                \line { ch'agguagli il bello che, entr'e fuor, dimostra }
+                \line { questa vaga e gentil signora nostra? }
             }
+           \column {
+               % translation orig date: 2025-01-24
+               % translation updated:
+                \line { What grace and what beauty }
+                \line { did a benign star of the heavens ever pour }
+                \line { into created works? }
+                \line { What inner goodness }
+                \line { ever made a soul so adorned and beautiful }
+                \line { In this or any other age, }
+                \line { that may equal the beauty that, within or without, }
+                \line { this fair and noble lady of ours shows? }
+                \line { \hspace #10 \italic { translation by editor } }
+           }
         }
     }
 }
+
