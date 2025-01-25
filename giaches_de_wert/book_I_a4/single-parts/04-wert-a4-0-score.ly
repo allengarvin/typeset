@@ -79,12 +79,12 @@
 %        \fill-line {
 %            \column {
 %                \line { Però che voi non siete cosa integra, }
-%                \line { Né noi, ma è ciascun del tutto ’l mezzo; }
+%                \line { Né noi, ma è ciascun del tutto 'l mezzo; }
 %                \line { Amor è quello poi che ne rintegra, }
-%                \line { E lega e stringe come chiod’ al mezzo, }
-%                \line { Ond’ ogni parte god’ e si rallegra }
+%                \line { E lega e stringe come chiod' al mezzo, }
+%                \line { Ond' ogni parte god' e si rallegra }
 %                \line { Tanto che suoi diletti non han mezzo, }
-%                \line { E s’uom durasse molto in tale stato, }
+%                \line { E s'uom durasse molto in tale stato, }
 %                \line { Compitamente diverria beato. }
 %            }
 %            \column {

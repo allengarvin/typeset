@@ -94,7 +94,7 @@
             \column {
                 \line { Padre del ciel, dopo i perduti giorni, }
                 \line { dopo le notti vaneggiando spese, }
-                \line { con quel fero desio ch'al cor s’accese, }
+                \line { con quel fero desio ch'al cor s'accese, }
                 \line { mirando gli atti per mio mal sì adorni, }
                 \line { piacciati omai col Tuo lume ch'io torni }
                 \line { ad altra vita et a più belle imprese, }

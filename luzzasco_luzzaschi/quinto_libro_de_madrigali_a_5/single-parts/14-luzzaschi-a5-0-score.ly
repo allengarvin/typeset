@@ -99,7 +99,7 @@
                 \line { Ma che mi giova, ahi lassa, il bel desire }
                 \line { se non vieta il martire, }
                 \line { né conforta i miei guai, }
-                \line { né l’aspro duol ch’io soffro a tutte l’ore }
+                \line { né l'aspro duol ch'io soffro a tutte l'ore }
                 \line { lungi da voi, dolcissimo mio core? }
             }
         }

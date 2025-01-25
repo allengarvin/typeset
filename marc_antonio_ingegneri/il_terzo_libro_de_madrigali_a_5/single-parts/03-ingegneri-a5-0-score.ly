@@ -98,11 +98,11 @@
         \fill-line {
             \column {
                 \line { Vaghi boschetti di soavi allori, }
-                \line { di palme e d’amenissime mortelle, }
-                \line { cedri et aranci ch’avean frutti e fiori }
+                \line { di palme e d'amenissime mortelle, }
+                \line { cedri et aranci ch'avean frutti e fiori }
                 \line { contesti in varie forme e tutte belle, }
                 \line { facean riparo ai fervidi calori }
-                \line { de’ giorni estivi con lor spesse ombrelle; }
+                \line { de' giorni estivi con lor spesse ombrelle; }
                 \line { e tra quei rami con sicuri voli }
                 \line { cantando se ne giano i rosignuoli. }
             }

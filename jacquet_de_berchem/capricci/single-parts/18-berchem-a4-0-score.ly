@@ -90,9 +90,9 @@
                 \line { La notte Orlando alle noiose piume }
                 \line { del veloce pensier fa parte assai. }
                 \line { Or quinci or quindi il volta, or lo rassume }
-                \line { tutto in un loco, e non l’afferma mai: }
-                \line { qual d’acqua chiara il tremolante lume, }
-                \line { dal sol percossa o da’ notturni rai, }
+                \line { tutto in un loco, e non l'afferma mai: }
+                \line { qual d'acqua chiara il tremolante lume, }
+                \line { dal sol percossa o da' notturni rai, }
                 \line { per gli ampli tetti va con lungo salto }
                 \line { a destra et a sinistra, e basso et alto. }
             }

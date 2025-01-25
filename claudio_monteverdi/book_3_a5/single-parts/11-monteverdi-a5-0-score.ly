@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "O primavera, gioventù dell’anno"
+    title = "O primavera, gioventù dell'anno"
     subtitle = ""
-    instrument = "O primavera, gioventù dell’anno:  (score)"
+    instrument = "O primavera, gioventù dell'anno:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_primavera_gioventu_dellanno"
     shortcomp = "monteverdi"
@@ -94,14 +94,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { O primavera, gioventù dell’anno, }
-                \line { bella madre de’ fiori, }
-                \line { d’erbe novelle, e di novelli amori; }
+                \line { O primavera, gioventù dell'anno, }
+                \line { bella madre de' fiori, }
+                \line { d'erbe novelle, e di novelli amori; }
                 \line { tu ben lasso ritorni, }
                 \line { ma senza i cari giorni }
                 \line { delle speranze mie; }
                 \line { tu ben sei quella }
-                \line { ch’eri pur dianzi si vezzosa e bella. }
+                \line { ch'eri pur dianzi si vezzosa e bella. }
                 \line { Ma non son io quel che già un tempo fui, }
                 \line { sì caro agli occhi altrui. }
             }

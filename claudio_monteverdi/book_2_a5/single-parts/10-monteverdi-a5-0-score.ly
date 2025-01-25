@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Quell’ombra esser vorrei"
+    title = "Quell'ombra esser vorrei"
     subtitle = ""
-    instrument = "Quell’ombra esser vorrei:  (score)"
+    instrument = "Quell'ombra esser vorrei:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "quellombra_esser_vorrei"
     shortcomp = "monteverdi"
@@ -93,13 +93,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Quell’ombra esser vorrei }
-                \line { che’l dì vi segue leggiadretta e bella, }
-                \line { che s’or son servo, i’ sarei vostra ancella. }
+                \line { Quell'ombra esser vorrei }
+                \line { che'l dì vi segue leggiadretta e bella, }
+                \line { che s'or son servo, i' sarei vostra ancella. }
                 \line { E quando parte il sole, }
-                \line { m’asconderei sotto quei bianchi panni: }
+                \line { m'asconderei sotto quei bianchi panni: }
                 \line { lasso, ben ne gli affanni, }
-                \line { ombra ignuda d’uom vivo, Amor, mi fai, }
+                \line { ombra ignuda d'uom vivo, Amor, mi fai, }
                 \line { ma non mi giungi alla mia donna mai. }
             }
             \column {

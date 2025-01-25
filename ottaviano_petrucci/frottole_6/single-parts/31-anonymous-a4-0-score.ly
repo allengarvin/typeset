@@ -98,7 +98,7 @@
                 \line { Fa star tutti innamorate, }
                 \line { Fresche e belle come un ziglio, }
                 \line { Vi farà color vermiglio, }
-                \line { Se’l gustati cusì caldo. }
+                \line { Se'l gustati cusì caldo. }
                 \line { \vspace #1 }
                 \line { Io so ben evi prometto, }
                 \line { Se'l mio pan voi gustareti, }

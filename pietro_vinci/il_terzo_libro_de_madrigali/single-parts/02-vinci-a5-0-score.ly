@@ -99,8 +99,8 @@
                 \line { di verno al ghiaccio i fiori }
                 \line { sorger lieti, e fiorir rose e viole, }
                 \line { pria che da voi mio sole }
-                \line { scioglia quest’alma o che per l’altro oggetto, }
-                \line { nuovo foco d’amor mi scaldi il petto. }
+                \line { scioglia quest'alma o che per l'altro oggetto, }
+                \line { nuovo foco d'amor mi scaldi il petto. }
             }
             \column {
                 % translation: 2023-09-06 THIS WAS HARD

@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "L’ineffabil bontà del Redentore"
+    title = "L'ineffabil bontà del Redentore"
     subtitle = ""
-    instrument = "L’ineffabil bontà del Redentore:  (score)"
+    instrument = "L'ineffabil bontà del Redentore:  (score)"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLIII ottava 62 } 
@@ -92,12 +92,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { L’ineffabil bontà del Redentore, }
-                \line { de’ tuoi principi il senno e la gustizia, }
+                \line { L'ineffabil bontà del Redentore, }
+                \line { de' tuoi principi il senno e la gustizia, }
                 \line { sempre con pace, sempre con amore }
                 \line { ti tenga in abondanzia et in letizia; }
                 \line { e ti difenda contra ogni furore }
-                \line { de’ tuoi nimici, e scuopra lor malizia: }
+                \line { de' tuoi nimici, e scuopra lor malizia: }
                 \line { del tuo contento ogni vicino arrabbia, }
                 \line { più tosto che tu invidia ad alcuno abbia. }
             }

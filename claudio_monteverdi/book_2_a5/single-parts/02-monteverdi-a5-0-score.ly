@@ -94,17 +94,17 @@
     \markup {
         \fill-line {
             \column {
-                \line { E dicea l’una sospirando allora: }
+                \line { E dicea l'una sospirando allora: }
                 \line { anima, a Dio, con languide parole. }
-                \line { E l’altra: vita, a Dio, le rispondea, }
+                \line { E l'altra: vita, a Dio, le rispondea, }
                 \line { a Dio, rimanti; e non partiansi ancora }
                 \line { innanzi al novo sole, }
-                \line { e innanzi all’alba che nel ciel sorgea, }
+                \line { e innanzi all'alba che nel ciel sorgea, }
                 \line { e questa, è quella impallidir vedea }
                 \line { le bellissime rose }
                 \line { nelle labra amorose, }
                 \line { e gli occhi scintillar come facella. }
-                \line { E come d’alma, che si parta, e svella, }
+                \line { E come d'alma, che si parta, e svella, }
                 \line { fu la partenza loro: }
                 \line { addio che parto, e moro, }
                 \line { dolce languir, dolce partita, e fella. }

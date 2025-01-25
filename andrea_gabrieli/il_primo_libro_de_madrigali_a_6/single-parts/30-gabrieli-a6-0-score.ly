@@ -112,7 +112,7 @@
                 \line { Mai a me tu basciata }
                 \line { Cu cu ru cu!  }
                 \line { Che papa lasagna }
-                \line { Metter’ uccelli entr’agaiola }
+                \line { Metter' uccelli entr'agaiola }
                 \line { Cu cu ru cu!  }
                 \line { Leva da loco, piglia zampogna }
                 \line { Va sonando, per chissa cantuna. }

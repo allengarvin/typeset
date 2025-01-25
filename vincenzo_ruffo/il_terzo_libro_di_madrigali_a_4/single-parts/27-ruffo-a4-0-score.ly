@@ -92,9 +92,9 @@
                 \line { Sgombra i ghiacci e le nevi, e rasserena }
                 \line { la mente mia sì nubilosa e nera. }
                 \line { Qual Progne si lamenta o Filomena }
-                \line { ch’a cercar esca ai figliolini ita era, }
+                \line { ch'a cercar esca ai figliolini ita era, }
                 \line { e trova il nido voto; o qual si lagna }
-                \line { turture ch’ha perduto la compagna. }
+                \line { turture ch'ha perduto la compagna. }
             }
             \column {
                 \line { Return, my sun, return! and springtide sweet, }

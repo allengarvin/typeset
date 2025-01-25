@@ -97,7 +97,7 @@
               \line { \vspace #0.5 } 
               \line { Lieti, vaghi, superbi, humili, altieri }
               \line { vi mostrate in un punto onde di speme }
-              \line { e di timor m’empiete, }
+              \line { e di timor m'empiete, }
               \line { \vspace #0.5 } 
               \line { e tanti affetti dolci, acerbi e fieri }
               \line { nel cor arso per voi vengono insieme }

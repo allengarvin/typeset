@@ -108,10 +108,10 @@
             }
            \column {
                 \line { Know, my Lord: ‘Lydia am I, }
-                \line { the King of Lydia’s noble daughter, }
+                \line { the King of Lydia's noble daughter, }
                 \line { that, by the judgement of the Lord on high, }
                 \line { am condemned to this darkness, forever, }
-                \line { because a lover’s faith, his every sigh, }
+                \line { because a lover's faith, his every sigh, }
                 \line { I met with ingratitude, and scorned him ever; }
                 \line { While countless others fill the cave below, }
                 \line { condemned by that same sin, to the same woe. }

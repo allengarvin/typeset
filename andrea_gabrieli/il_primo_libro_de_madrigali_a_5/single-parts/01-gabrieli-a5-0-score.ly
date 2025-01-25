@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "La virtù, la bontà, l’ardente zelo"
+    title = "La virtù, la bontà, l'ardente zelo"
     instrument = "La virtù, la bontà (score)"
     needtranslation = #'t
     language = "italian"
@@ -90,8 +90,8 @@
     \markup {
         \fill-line {
             \column {
-                \line { La virtù, la bontà, l’ardente zelo, }
-                \line { Ch’ogn’or di carità v’infiamma il petto, }
+                \line { La virtù, la bontà, l'ardente zelo, }
+                \line { Ch'ogn'or di carità v'infiamma il petto, }
                 \line { Ed il volger \auto-footnote "Paruta" \italic "Domenico Paruta, abbot of the Venetian monastery of San Gregorio" sempre al cielo }
                 \line { Ogni vostro pensiero, ogni concetto, }
                 \line { Vi fa degno non pur al caldo e al gelo }

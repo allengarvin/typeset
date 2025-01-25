@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "La bocca onde l’asprissime parole"
+    title = "La bocca onde l'asprissime parole"
     subtitle = ""
-    instrument = "La bocca onde l’asprissime parole:  (score)"
+    instrument = "La bocca onde l'asprissime parole:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "la_bocca_onde_lasprissime_parole"
     shortcomp = "monteverdi"
@@ -93,13 +93,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { La bocca onde l’asprissime parole }
-                \line { solean uscir ch’ir mi facean dolente }
+                \line { La bocca onde l'asprissime parole }
+                \line { solean uscir ch'ir mi facean dolente }
                 \line { vie più di quante mai fur sotto il Sole, }
-                \line { or nutre l’alma mia soavemente }
-                \line { d’odor di fresche rose e di viole, }
-                \line { cui cede ogni altro che l’Arabia sente }
-                \line { e d’ambrosia e di nettare si pasce, }
+                \line { or nutre l'alma mia soavemente }
+                \line { d'odor di fresche rose e di viole, }
+                \line { cui cede ogni altro che l'Arabia sente }
+                \line { e d'ambrosia e di nettare si pasce, }
                 \line { ché tra le perle e i bei rubini nasce. }
             }
             \column {

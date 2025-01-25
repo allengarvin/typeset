@@ -95,7 +95,7 @@
             \column {
                 \line { Vezzosi augelli infra le verdi fronde }
                 \line { Temprano a prova lascivette note }
-                \line { Mormora l’aura, e fa le foglie e l’onde }
+                \line { Mormora l'aura, e fa le foglie e l'onde }
                 \line { Garrir, che variamente ella percote }
                 \line { Quando taccion gli augelli, alto risponde; }
                 \line { Quando cantan gli augei, più lieve scote. }

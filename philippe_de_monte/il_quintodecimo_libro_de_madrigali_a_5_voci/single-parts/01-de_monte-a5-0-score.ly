@@ -10,8 +10,8 @@
 
 \header {
     % Things that change per piece:
-    title = "La donna che ’l mio cor nel viso porta"
-    instrument = "La donna che ’l mio cor nel viso porta (score)"
+    title = "La donna che 'l mio cor nel viso porta"
+    instrument = "La donna che 'l mio cor nel viso porta (score)"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CXI (111) }
@@ -91,23 +91,23 @@
         \fill-line {
             \column {
                 \vspace #6
-                \line { La donna che ’l mio cor nel viso porta, }
-                \line { là dove sol fra bei pensier’ d’amore }
-                \line { sedea, m’apparve; et io per farle honore }
+                \line { La donna che 'l mio cor nel viso porta, }
+                \line { là dove sol fra bei pensier' d'amore }
+                \line { sedea, m'apparve; et io per farle honore }
                 \line { mossi con fronte reverente et smorta. }
                 \vspace #1
                 \line { Tosto che del mio stato fussi accorta, }
                 \line { a me si volse in sì novo colore }
-                \line { ch’avrebbe a Giove nel maggior furore }
-                \line { tolto l’arme di mano, et l’ira morta. }
+                \line { ch'avrebbe a Giove nel maggior furore }
+                \line { tolto l'arme di mano, et l'ira morta. }
                 \vspace #1
-                \line { I’ mi riscossi; et ella oltra, parlando, }
-                \line { passò, che la parola i’ non soffersi, }
-                \line { né ’l dolce sfavillar degli occhi suoi. }
+                \line { I' mi riscossi; et ella oltra, parlando, }
+                \line { passò, che la parola i' non soffersi, }
+                \line { né 'l dolce sfavillar degli occhi suoi. }
                 \vspace #1
                 \line { Or mi ritrovo pien di sì diversi }
                 \line { piaceri, in quel saluto ripensando, }
-                \line { che duol non sento, né sentì’ ma’ poi. }
+                \line { che duol non sento, né sentì' ma' poi. }
                 \line { \hspace #12 Petrarca, \italic{Canzoniere} CXI (111) }
             }
             \column {

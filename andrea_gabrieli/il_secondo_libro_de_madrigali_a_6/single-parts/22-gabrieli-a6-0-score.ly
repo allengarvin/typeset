@@ -106,7 +106,7 @@
                 \line { per far pianger via più questi occhi miei. } 
                 \line { Ma perché non volete } 
                 \line { quanto so che potete? } 
-                \line { Deh, perché non volete quel ch’io voglio, } 
+                \line { Deh, perché non volete quel ch'io voglio, } 
                 \line { se mai dal voler vostro non mi scoglio? } 
             }
         }

@@ -90,7 +90,7 @@
                 \line { mi son portato! ohimè, quanto mi aggrava }
                 \line { che potendoti aver notte e dì meco, }
                 \line { quando la tua bontà non mel negava, }
-                \line { t’abbia lasciato in man di Namo porre, }
+                \line { t'abbia lasciato in man di Namo porre, }
                 \line { per non sapermi a tanta ingiuria opporre! }
             }
             \column {

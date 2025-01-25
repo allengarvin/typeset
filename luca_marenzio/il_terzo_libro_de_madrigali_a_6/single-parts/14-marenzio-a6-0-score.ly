@@ -121,7 +121,7 @@
                 \line { Then the shepherd said }
                 \line { with a lovelorn sigh, }
                 \line { ‘Why am I not worthy }
-                \line { to have the rose that is doing the giving?’ }
+                \line { to have the rose that is doing the giving?' }
                 \line { \hspace #10 \italic { translation by Mike Swithinbank } (CPDL license) }
            }
         }

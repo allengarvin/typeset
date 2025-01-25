@@ -86,19 +86,19 @@
         \fill-line {
             \column {
                 \line { Un baciar furioso, un dispogliarsi, }
-                \line { un esser nuda e dire: a fatt’in fretta! }
+                \line { un esser nuda e dire: a fatt'in fretta! }
                 \line { un cavalcar di sopra alla gianetta, }
-                \line { un pigliarl’a duo man ed infilzarsi; }
-                \line { un volger d’occhi in storta e rimenarsi }
-                \line { con una man’aperta e l’altra stretta, }
+                \line { un pigliarl'a duo man ed infilzarsi; }
+                \line { un volger d'occhi in storta e rimenarsi }
+                \line { con una man'aperta e l'altra stretta, }
                 \line { un macinar a tempo e dire: aspetta! }
-                \line { un correr par’e nel finir scontrarsi; }
+                \line { un correr par'e nel finir scontrarsi; }
                 \line { un chiamarmi per nome: traditoraccio! }
                 \line { un gridar anelando, e tutta calda, }
                 \line { vibrar la lingua come i serpenti fanno; }
-                \line { Un tutta stanca dir: Or fa, ch’io faccio, }
+                \line { Un tutta stanca dir: Or fa, ch'io faccio, }
                 \line { e farmi far duo chiodi a una calda: }
-                \line { son le catene che legato m’hanno. }
+                \line { son le catene che legato m'hanno. }
             }
         }
     }

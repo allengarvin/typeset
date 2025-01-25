@@ -95,7 +95,7 @@
             \column {
                 \line { Poscia dicea piangendo: In voi serbate }
                 \line { Questa dolente istoria amiche piante }
-                \line { Perché se fia ch’alle vostre ombre grate }
+                \line { Perché se fia ch'alle vostre ombre grate }
                 \line { Giammai soggiorni alcun fedele amante }
                 \line { Senta svegliarsi al cor dolce pietate }
                 \line { Delle sventure mie sì varie e tante: }

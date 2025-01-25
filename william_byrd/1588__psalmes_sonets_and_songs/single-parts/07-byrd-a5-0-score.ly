@@ -140,7 +140,7 @@
                 \line { I will rise up now saith the Lord, }
                 \line { and ease their grief and care: }
                 \line { Of those which he full craftily, }
-                \line { hath draw’n into his snare. }
+                \line { hath draw'n into his snare. }
                 \line { \vspace #1.5 }
                 \line { Like silver fine that tried is }
                 \line { seven times by heat of fire: }

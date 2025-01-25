@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Là tra ’l sangue e le morti egro giacente"
+    title = "Là tra 'l sangue e le morti egro giacente"
     subtitle = "Seconda parte"
-    instrument = "Là tra ’l sangue e le morti egro giacente: Seconda parte (score)"
+    instrument = "Là tra 'l sangue e le morti egro giacente: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "la_tra_l_sangue"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata,} Canto XVI ottava 60 }
@@ -93,12 +93,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { Là tra ’l sangue e le morti egro giacente }
+                \line { Là tra 'l sangue e le morti egro giacente }
                 \line { mi pagherai le pene, empio guerriero. }
                 \line { Per nome Armida chiamerai sovente }
                 \line { ne gli ultimi singulti: udir ciò spero. }
                 \line { Or qui mancò lo spirto a la dolente, }
-                \line { né quest’ultimo suono espresse intero; }
+                \line { né quest'ultimo suono espresse intero; }
                 \line { e cadde tramortita e si diffuse }
                 \line { di gelato sudore, e i lumi chiuse. }
             }

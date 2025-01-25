@@ -77,11 +77,11 @@
             \column {
                 \line { Ancor che col partire } 
                 \line { me sento sgagiolire; } 
-                \line { scamper vorave ogn’ora, ogni momento } 
-                \line { Tant’è ‘l furor che sento, } 
+                \line { scamper vorave ogn'ora, ogni momento } 
+                \line { Tant'è ‘l furor che sento, } 
                 \line { che córo intorno intorno. } 
                 \line { E cusì mille schite schito al zorno, } 
-                \line { E qualche volta ogn’ora, } 
+                \line { E qualche volta ogn'ora, } 
                 \line { buto per vu, crudel cara signora. } 
             }
         }

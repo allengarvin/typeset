@@ -104,7 +104,7 @@
                 \smaller\line { \vspace #1 }
                 \smaller\line { 4. For God he is, our Lord and stay, }
                 \smaller\line { his people we, in pasture near, }
-                \smaller\line { his flock of hand, who lead’th our way; }
+                \smaller\line { his flock of hand, who lead'th our way; }
                 \smaller\line { his voice to day, if well ye hear, }
                 \smaller\line { Beware, say I, ye hard no hearts }
                 \smaller\line { against his grace, to you so meant, }

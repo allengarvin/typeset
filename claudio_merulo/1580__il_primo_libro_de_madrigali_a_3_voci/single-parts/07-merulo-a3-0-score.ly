@@ -81,10 +81,10 @@
         \fill-line {
             \column {
                 \line { Deh, perché voglio anco di me dolermi? }
-                \line { Ch’error, se non d’amarti, unqua commessi? }
+                \line { Ch'error, se non d'amarti, unqua commessi? }
                 \line { Che meraviglia, se fragili e infermi }
                 \line { feminil sensi fur subito oppressi? }
-                \line { Perché dovev’io usar ripari e schermi }
+                \line { Perché dovev'io usar ripari e schermi }
                 \line { che la somma beltà non mi piacessi, }
                 \line { gli alti sembianti e le saggie parole? }
                 \line { Misero è ben chi veder schiva il sole! }

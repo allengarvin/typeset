@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Or ch’a noi torna la stagion novella"
+    title = "Or ch'a noi torna la stagion novella"
     subtitle = ""
-    instrument = "Or ch’a noi torna la stagion novella:  (score)"
+    instrument = "Or ch'a noi torna la stagion novella:  (score)"
     categories = "[madrigal]"
     motifs = "[pastoral,cupid]"
     needtranslation = #'f
@@ -99,12 +99,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { Or ch’a noi torna la stagion novella }
+                \line { Or ch'a noi torna la stagion novella }
                 \line { gli augei, le fiere e tutti gli animali }
-                \line { senton d’amor i dolci acuti strali, }
-                \line { te sola Amor non punge, ò d’ogni fiera }
+                \line { senton d'amor i dolci acuti strali, }
+                \line { te sola Amor non punge, ò d'ogni fiera }
                 \line { più cruda in ciascun tempo e più superba; }
-                \line { Così dicea Damon tra fiori e l’erba }
+                \line { Così dicea Damon tra fiori e l'erba }
                 \line { dolcemente cantando a primavera. }
             }
             \column {

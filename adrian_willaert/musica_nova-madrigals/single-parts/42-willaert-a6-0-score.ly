@@ -10,12 +10,12 @@
 
 \header {
     % Things that change per piece:
-    title = "Ben, s’io non erro di pietate un raggio"
+    title = "Ben, s'io non erro di pietate un raggio"
     subtitle = ""
     subsubtitle = "Transposed down a 4th"
-    instrument = "Ben, s’io non erro di pietate un raggio:  (score)"
+    instrument = "Ben, s'io non erro di pietate un raggio:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "ben_s’io_non_erro_di_pietate_un_raggio"
+    shorttitle = "ben_s'io_non_erro_di_pietate_un_raggio"
     shortcomp = "willaert"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CLXIX (169) }
@@ -34,7 +34,7 @@
 \include "../parts/42-willaert-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "42-willaert--ben_s’io_non_erro_di_pietate_un_raggio-"
+    \bookOutputName "42-willaert--ben_s'io_non_erro_di_pietate_un_raggio-"
     \bookOutputSuffix "--0-score"
     \score {
         \header { piece = "Seconda parte" }
@@ -103,13 +103,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ben, s’io non erro di pietate un raggio }
-                \line { scorgo fra ’l nubiloso, altero ciglio, }
-                \line { che ’n parte rasserena il cor doglioso: }
+                \line { Ben, s'io non erro di pietate un raggio }
+                \line { scorgo fra 'l nubiloso, altero ciglio, }
+                \line { che 'n parte rasserena il cor doglioso: }
                 \line { \vspace #1 }
-                \line { allor raccolgo l’alma, et poi ch’i’ aggio }
+                \line { allor raccolgo l'alma, et poi ch'i' aggio }
                 \line { di scovrirle il mio mal preso consiglio, }
-                \line { tanto gli ò a dir, che’ncominciar non oso. }
+                \line { tanto gli ò a dir, che'ncominciar non oso. }
                 \line { \hspace #12 Petrarca, \italic { Canzoniere } 169 }
             }
             \column {

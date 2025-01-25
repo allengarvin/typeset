@@ -68,7 +68,7 @@
         \fill-line {
             \column {
                 \line { Amanti, io vi so dire }
-                \line { ch’è meglio assai fuggire }
+                \line { ch'è meglio assai fuggire }
                 \line { bella Donna vezzosa }
                 \line { ò sia cruda ò pietosa }
                 \line { ad ogni modo e via }
@@ -82,27 +82,27 @@
                 \line { rose non dona mai senza le spine. }
                 \line {  \vspace #0.5 }
                 \line { La speme del gioire }
-                \line { fondata è sù’l martire, }
+                \line { fondata è sù'l martire, }
                 \line { bellezza e cortesia }
                 \line { non stanno in compagnia, }
                 \line { sò ben dir con mio danno }
-                \line { che la morte ed’amor insieme vanno. }
+                \line { che la morte ed'amor insieme vanno. }
                 \line {  \vspace #0.5 }
                 \line { Vi vuol pianti a diluvi }
                 \line { per spegner i vesuvi }
-                \line { d’un cor innamorato, }
-                \line { d’un spirito infiammato; }
+                \line { d'un cor innamorato, }
+                \line { d'un spirito infiammato; }
                 \line { pria che si giunga in porto, }
                 \line { quante volte si dice: }
                 \line { ohimè son morto. }
                 \line {  \vspace #0.5 }
-                \line { Credete’l à costui che per prova può dir }
-                \line { io vidi io fui. Se creder no’l volete }
+                \line { Credete'l à costui che per prova può dir }
+                \line { io vidi io fui. Se creder no'l volete }
                 \line { lasciate star che poco importa à me. }
-                \line { Seguitate ad’amar ad’ogni modo, }
+                \line { Seguitate ad'amar ad'ogni modo, }
                 \line { chi dè rompersi il collo. }
                 \line { Non accade che schivi. }
-                \line { Od’erta ò fondo }
+                \line { Od'erta ò fondo }
                 \line { che per proverbio senti sempre dire }
                 \line { dal destinato non si può fuggire. }
                 \line {  \vspace #0.5 }
@@ -110,7 +110,7 @@
                 \line { amor so i fatti miei. }
                 \line { Non tresco più con voi, }
                 \line { alla larga ambi doi. }
-                \line { S’ogn’un fosse com’io }
+                \line { S'ogn'un fosse com'io }
                 \line { saria un balordo Amor e non un Dio. }
             }
         }

@@ -82,8 +82,8 @@
             \column {
                 \line { Quanta beltà quanta gratia e splendore }
                 \line { Si vidde in donna mai, }
-                \line { Vaga Angioletta tutt’ il ciel vi diede }
-                \line { Quant’ alta cortessia quanto valore }
+                \line { Vaga Angioletta tutt' il ciel vi diede }
+                \line { Quant' alta cortessia quanto valore }
                 \line { Regnò in donna gia mai, giamai }
                 \line { Tutt'in voi regna con pietate e sede }
                 \line { tal che chiunque vi vede }
@@ -91,7 +91,7 @@
                 \line { E costumi santi }
                 \line { I divini occhi, }
                 \line { Il bel volto e le chiome }
-                \line { D’Angela sono insieme col bel nome.  }
+                \line { D'Angela sono insieme col bel nome.  }
                 \line { \hspace #12 Anonymous}
             }
         }

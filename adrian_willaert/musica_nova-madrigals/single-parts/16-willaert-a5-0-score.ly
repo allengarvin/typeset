@@ -92,8 +92,8 @@
                  \line { Ella si tace, et di pietà depinta, }
                  \line { fiso mira pur me; parte sospira, }
                  \line { et di lagrime honeste il viso adorna: }
-                 \line { onde l’anima mia dal dolor vinta, }
-                 \line { mentre piangendo allor seco s’adira, }
+                 \line { onde l'anima mia dal dolor vinta, }
+                 \line { mentre piangendo allor seco s'adira, }
                  \line { sciolta dal sonno a se stessa ritorna. }
                 \line { \hspace #12 Petrarca, \italic { Canzoniere } 356 }
             }

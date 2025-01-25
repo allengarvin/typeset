@@ -92,10 +92,10 @@
             % translation: 2024-05-14
             \column {
                 \line { Fillida mia, più che i ligustri bianca, }
-                \line { più vermiglia che’l prato a mezzo aprile, }
+                \line { più vermiglia che'l prato a mezzo aprile, }
                 \line { più fugace che cerva, }
                 \line { ed a me più proterva }
-                \line { ch’a Pan non fu colei che vinta e stanca }
+                \line { ch'a Pan non fu colei che vinta e stanca }
                 \line { divenne canna tremula e sottile; }
                 \line { Per guiderdon delle gravose some, }
                 \line { deh! spargi al vento le dorate chiome. }

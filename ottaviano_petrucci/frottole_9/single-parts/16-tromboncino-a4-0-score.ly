@@ -84,7 +84,7 @@
                 \line { Ostinato vo' seguire }
                 \line { la magnanima mia impresa; }
                 \line { Fame, Amor, qual voi offesa, }
-                \line { s’io dovesse ben morire. }
+                \line { s'io dovesse ben morire. }
                 \line { \hspace #10 Ostinato ... }
                 \line { \vspace #2 } 
                 \line { Fame, Ciel, fame, Fortuna, }

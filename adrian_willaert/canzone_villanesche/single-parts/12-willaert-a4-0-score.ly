@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "O bene mio fa famm’uno favore"
+    title = "O bene mio fa famm'uno favore"
 
     % Things that change per part:
     instrument = "O bene mio (score)"
@@ -83,20 +83,20 @@
     \markup {
         \fill-line {
             \column {
-                \line { O bene mio fa famm’uno favore }
+                \line { O bene mio fa famm'uno favore }
                 \line { Che questa sera ti possa parlare. }
-                \line { \hspace #4 E s’alcuno ti ci trova }
-                \line { \hspace #4 e tu grida, chi vend’ova. }
+                \line { \hspace #4 E s'alcuno ti ci trova }
+                \line { \hspace #4 e tu grida, chi vend'ova. }
                 \vspace #2
  
                 \line { Vieni senza paura e non bussare }
                 \line { Butta la porta che porai entrare. }
-                \line { \hspace #4 E s’alcuno ... }
+                \line { \hspace #4 E s'alcuno ... }
                 \vspace #2
 
                 \line { Alla finestra insino alle due ore }
                 \line { Farò la spia che porai entrare. }
-                \line { \hspace #4 E s’alcuno ... }
+                \line { \hspace #4 E s'alcuno ... }
             }
         }
     }

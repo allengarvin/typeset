@@ -127,7 +127,7 @@
             \column {
                 \line { In dulci jubilo    [In quiet joy] }
                 \line { Let us our homage show }
-                \line { Our heart’s joy reclineth }
+                \line { Our heart's joy reclineth }
                 \line { In praesepio     [in a manger] }
                 \line { And like a bright star shineth }
                 \line { Matris in gremio    [in the mother's lap] }

@@ -92,13 +92,13 @@
         \fill-line {
             \column {
                 \line { Di virtù, di costumi, di valore, }
-                \line { D’onestà singular e leggiadria, }
-                \line { Mostrar l’orecchie al cor la donna mia, }
-                \line { U’ dentro la scolpì subito Amore. }
-                \line { Vide la non sol tal per gli occh’il core, }
-                \line { Ma bell’ancor più ch’altra donna sia, }
+                \line { D'onestà singular e leggiadria, }
+                \line { Mostrar l'orecchie al cor la donna mia, }
+                \line { U' dentro la scolpì subito Amore. }
+                \line { Vide la non sol tal per gli occh'il core, }
+                \line { Ma bell'ancor più ch'altra donna sia, }
                 \line { Saggia oltra modo e a me tanto pia }
-                \line { Ch’io vivo sol del suo divin splendore. }
+                \line { Ch'io vivo sol del suo divin splendore. }
             }
         }
     }

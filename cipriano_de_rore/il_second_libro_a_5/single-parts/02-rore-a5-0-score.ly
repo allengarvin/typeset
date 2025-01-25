@@ -95,8 +95,8 @@
                 \line { Ovunque si dipinge e copre il manto }
                 \line { Di la felice et aurea età presaga: }
                 \line { Verà che sol il mondo acqueti e honori }
-                \line { Da l’alto seme glorioso e santo }
-                \line { D’il fiero Marte e l’unica Gonzaga. }
+                \line { Da l'alto seme glorioso e santo }
+                \line { D'il fiero Marte e l'unica Gonzaga. }
             }
         }
     }

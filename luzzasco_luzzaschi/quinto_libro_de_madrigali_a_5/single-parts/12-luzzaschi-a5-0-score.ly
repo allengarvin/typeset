@@ -93,13 +93,13 @@
         \fill-line {
             \column {
                 \line { Allor fia lieto il core, }
-                \line { che ne l’aprir queste mie luci oscure, }
+                \line { che ne l'aprir queste mie luci oscure, }
                 \line { dal caro oggetto avran chiaro splendore. }
-                \line { Ne’ pria che lui ritorni }
-                \line { cesserà il pianto de’ miei tristi giorni. }
+                \line { Ne' pria che lui ritorni }
+                \line { cesserà il pianto de' miei tristi giorni. }
                 \line { Ahi, ben son aspre e dure }
                 \line { di questo cor le pene, }
-                \line { poiché di pianto Amor vivo se’l tiene. }
+                \line { poiché di pianto Amor vivo se'l tiene. }
             }
         }
     }

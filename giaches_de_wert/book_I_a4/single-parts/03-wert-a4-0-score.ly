@@ -78,13 +78,13 @@
 %    \markup {
 %        \fill-line {
 %            \column {
-%                \line { Quant’ esser vi dee car’ un uom, che brami }
+%                \line { Quant' esser vi dee car' un uom, che brami }
 %                \line { Vieppiù la vostra che la propria gioia, }
-%                \line { Ch’altro che ’l nome vostr’ unqua non chiami, }
-%                \line { Che sol pensand’ in voi tempr’ ogni noia, }
-%                \line { Che più che ’l mond’ in un vi tem’ ed ami, }
-%                \line { Che spess’ in voi si viva, in sé si moia, }
-%                \line { Che le vostre tranquill’ e pure luci }
+%                \line { Ch'altro che 'l nome vostr' unqua non chiami, }
+%                \line { Che sol pensand' in voi tempr' ogni noia, }
+%                \line { Che più che 'l mond' in un vi tem' ed ami, }
+%                \line { Che spess' in voi si viva, in sé si moia, }
+%                \line { Che le vostre tranquill' e pure luci }
 %                \line { Del suo corso mortal segua per duci. }
 %            }
 %            \column {

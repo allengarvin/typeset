@@ -75,11 +75,11 @@
         \fill-line {
             \column {
                 \line { Voi mi poneste in foco, }
-                \line { Per farmi anzi ’l mio dì, Donna, perire; }
+                \line { Per farmi anzi 'l mio dì, Donna, perire; }
                 \line { E perché questo mal vi parea poco, }
                 \line { Col pianto raddoppiaste il mio languire. }
-                \line { Or io vi vo’ ben dire: }
-                \line { Levate l’un martire, }
+                \line { Or io vi vo' ben dire: }
+                \line { Levate l'un martire, }
                 \line { Che di due morti, io non posso morire. }
             }
             \column {

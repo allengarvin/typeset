@@ -118,7 +118,7 @@
         \fill-line {
             \column {
                 \line { O tu che fra le selve occulti vivi, }
-                \line { Ch’è della vita mia, ch'è del mio Amore? }
+                \line { Ch'è della vita mia, ch'è del mio Amore? }
                 \line { \italic { More }   }
                 \line { Dunque, Ninfa gentil, se lei si more, }
                 \line { Non vedrò le sue luci a fé giammai? }
@@ -130,16 +130,16 @@
                 \line { Che consolarmi voi in questo speco? }
                 \line { \italic { Eco }  }
                 \line { Eco gentil che ne gli ultimi accenti }
-                \line { Mi risponde, non son d’amanti esempio? }
+                \line { Mi risponde, non son d'amanti esempio? }
                 \line { \italic { Empio }  }
-                \line { E perché mi risponde ch’io son empio? }
+                \line { E perché mi risponde ch'io son empio? }
                 \line { Non ho avuto pietà di suoi lamenti? }
                 \line { \italic { Menti }  }
-                \line { Mentir non posso che’l ciel e le stelle }
-                \line { Ponno far fede s’io gl'ho dato guai! }
+                \line { Mentir non posso che'l ciel e le stelle }
+                \line { Ponno far fede s'io gl'ho dato guai! }
                 \line { \italic { Hai }  }
                 \line { Or sia come si voglia, a Dio, ti lasso, }
-                \line { Spirto c’hai voce e fra gli boschi vivi, }
+                \line { Spirto c'hai voce e fra gli boschi vivi, }
                 \line { Or quanto ho detto fra gli tronchi scrivi. }
             }
         }

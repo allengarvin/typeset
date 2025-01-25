@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Così ’l mio stil, qual fé la tua bellezza"
+    title = "Così 'l mio stil, qual fé la tua bellezza"
     subtitle = "Seconda parte"
-    instrument = "Così ’l mio stil, qual fé la tua bellezza: Seconda parte (score)"
+    instrument = "Così 'l mio stil, qual fé la tua bellezza: Seconda parte (score)"
     language = "italian"
     poeticform = "sonnet"
     needtranslation = #'t
@@ -91,11 +91,11 @@
     \markup {
         \fill-line {
             \column {
-                \line { Così ’l mio stil, qual fé la tua bellezza, }
-                \line { Sue virtudi agguagliasse, ond’ assimiglia }
+                \line { Così 'l mio stil, qual fé la tua bellezza, }
+                \line { Sue virtudi agguagliasse, ond' assimiglia }
                 \line { Suprema Dea, non già donna mortale, }
                 \line { \vspace #1 }
-                \line { Ch’eterne le mie rime andrien di tal onor, }
+                \line { Ch'eterne le mie rime andrien di tal onor, }
                 \line { Di tal mia gioia e tal sua altezza, }
                 \line { Che eccederebbon ogni maraviglia. }
             }

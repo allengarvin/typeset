@@ -103,7 +103,7 @@
                  \line { Er hilft uns frei aus aller Not, }
                  \line { Die uns jetzt hat betroffen. }
                  \line { Der alt böse Feind, }
-                 \line { Mit Ernst er’s jetzt meint. }
+                 \line { Mit Ernst er's jetzt meint. }
                  \line { Groß Macht und viel List }
                  \line { Sein grausam Rüstung ist. }
                  \line { Auf Erd ist nicht seinsgleichen. }
@@ -111,7 +111,7 @@
             \column {
                  \line { Mit unsrer Macht ist nichts getan, }
                  \line { Wir sind gar bald verloren. }
-                 \line { Es streit’t für uns der rechte Mann, }
+                 \line { Es streit't für uns der rechte Mann, }
                  \line { Den Gott hat selbst erkoren. }
                  \line { Fragst du, wer der ist? }
                  \line { Er heißt Jesus Christ, }

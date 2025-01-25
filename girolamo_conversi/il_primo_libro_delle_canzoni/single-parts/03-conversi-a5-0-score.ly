@@ -93,7 +93,7 @@
             \column {
                 \line { Ma se tempo gia mai verrà che sciolta vivi,  }
                 \line { Non sia piu mai che te diletta }
-                \line { Se non gridar vendett’amor, vendetta! }
+                \line { Se non gridar vendett'amor, vendetta! }
             }
             \column {
                 \line { Yet if ever a time were to come when my heart was no longer in thrall to her, }

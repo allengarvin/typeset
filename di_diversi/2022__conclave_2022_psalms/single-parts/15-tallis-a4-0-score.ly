@@ -101,7 +101,7 @@
                 \smaller\line { his mercies all on us to fall. }
                 \smaller\line { That we thy way may know all day, }
                 \smaller\line { while we do sail this World so frail; }
-                \smaller\line { thy health’s reward is nigh declared, }
+                \smaller\line { thy health's reward is nigh declared, }
                 \smaller\line { as plain at eye all Gentiles spy. }
                 \smaller\line { \vspace #1 }
                 \smaller\line { 4. So God our guide shall bless us wide, }
@@ -116,7 +116,7 @@
                 \smaller\line { from whom all thing they see to spring. }
                 \smaller\line { All folk rejoice, lift up your voice, }
                 \smaller\line { for thou in sight shalt judge them right; }
-                \smaller\line { thou shalt direct the Gentiles’ sect }
+                \smaller\line { thou shalt direct the Gentiles' sect }
                 \smaller\line { in Earth that be, to turn to thee. }
             }
             \column {

@@ -108,7 +108,7 @@
             }
             \column {
                 \line { Give me help out of tribulation,  }
-                \line { because man’s salvation is vain: }
+                \line { because man's salvation is vain: }
                 \line { or some time at least to recover,  }
                 \line { that I may bewail my youth. }
             }

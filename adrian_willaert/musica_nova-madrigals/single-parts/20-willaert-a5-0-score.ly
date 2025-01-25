@@ -100,7 +100,7 @@
             \column {
                 \line { From what angels, and with what hopes, }
                 \line { came that celestial singing that disarmed me, }
-                \line { so that I’ve never been anything but disarmed? }
+                \line { so that I've never been anything but disarmed? }
                 \line { From what sun was that high kindly light born }
                 \line { of lovely eyes, from which came war and peace, }
                 \line { that seared my heart with ice and fire? }

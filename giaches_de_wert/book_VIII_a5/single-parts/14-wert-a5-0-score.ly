@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Se m’odii, e in ciò diletto alcun tu senti"
+    title = "Se m'odii, e in ciò diletto alcun tu senti"
     subtitle = "Terza parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XVI ottava 45 }
     needtranslation = #'f
@@ -93,14 +93,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Se m’odii, e in ciò diletto alcun tu senti, }
-                \line { non te’n vengo a privar: godi pur d’esso. }
-                \line { Giusto a te pare e siasi. Anch’io le genti }
-                \line { cristiane odiai, no’l nego, odiai te stesso. }
+                \line { Se m'odii, e in ciò diletto alcun tu senti, }
+                \line { non te'n vengo a privar: godi pur d'esso. }
+                \line { Giusto a te pare e siasi. Anch'io le genti }
+                \line { cristiane odiai, no'l nego, odiai te stesso. }
                 \line { Nacqui pagana, usai vari argomenti }
                 \line { che per me fosse il vostro imperio opresso; }
                 \line { te perseguii, te presi, e te lontano }
-                \line { da l’arme trassi in loco ignoto e strano }
+                \line { da l'arme trassi in loco ignoto e strano }
             }
             \column {
                 \line { If me thou hate, and in that hate delight, }

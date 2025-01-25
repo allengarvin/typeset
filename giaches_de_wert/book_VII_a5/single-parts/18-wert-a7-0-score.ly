@@ -111,20 +111,20 @@
         \fill-line {
             \column {
                 \line { Tirsi morir volea }
-                \line { gli occhi mirando di colei ch’adora }
-                \line { quand’ ella che di lui non meno ardea }
+                \line { gli occhi mirando di colei ch'adora }
+                \line { quand' ella che di lui non meno ardea }
                 \line { li disse: “Ahimè ben mio, deh non morir ancora }
-                \line { che teco bramo di morir anch’io.” }
+                \line { che teco bramo di morir anch'io.” }
                 \line { Frenò Tirsi il desio }
-                \line { ch’ebbe di pur sua vita allor finire, }
+                \line { ch'ebbe di pur sua vita allor finire, }
                 \line { e sentea morte e non potea morire, }
                 \line { e mentre il guardo suo fisso tenea }
-                \line { ne’ begli occhi divini, }
-                \line { e’l nettar amoroso indi bevea, }
+                \line { ne' begli occhi divini, }
+                \line { e'l nettar amoroso indi bevea, }
                 \line { la bella ninfa sua, che già vicini }
-                \line { sentea i messi d’amore }
-                \line { disse con occhi languid’ e tremanti: }
-                \line { “Mori cor mio, ch’io moro.” }
+                \line { sentea i messi d'amore }
+                \line { disse con occhi languid' e tremanti: }
+                \line { “Mori cor mio, ch'io moro.” }
                 \line { Cui rispose il pastore: }
                 \line { “Ed io, mia vita, moro.” }
                 \line { Così moriro i fortunati Amanti }

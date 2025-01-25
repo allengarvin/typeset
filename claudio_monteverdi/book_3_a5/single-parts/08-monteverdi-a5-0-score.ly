@@ -97,10 +97,10 @@
                 \line { che lasci a me; vattene, iniquo, omai. }
                 \line { Me tosto ignudo spirto, ombra seguace }
                 \line { indivisibilmente a tergo avrai. }
-                \line { Nova furia, co’ serpi e con la face }
-                \line { tanto t’agiterò quanto t’amai. }
-                \line { E s’è destin ch’esca del mar, che schivi }
-                \line { gli scogli e l’onde e che a la pugna arrivi. }
+                \line { Nova furia, co' serpi e con la face }
+                \line { tanto t'agiterò quanto t'amai. }
+                \line { E s'è destin ch'esca del mar, che schivi }
+                \line { gli scogli e l'onde e che a la pugna arrivi. }
             }
             \column {
                 \line { Go cruel, go, go with such peace, such rest, }

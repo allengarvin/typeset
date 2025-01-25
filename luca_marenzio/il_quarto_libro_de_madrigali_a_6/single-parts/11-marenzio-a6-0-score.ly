@@ -93,9 +93,9 @@
         \fill-line {
             \column {
                 \line { Talché, dovunque vò, tutte repente }
-                \line { Partorissero Amor l’onde ch’io frango, }
+                \line { Partorissero Amor l'onde ch'io frango, }
                 \line { E fosser le lor cune i pensier miei, }
-                \line { Non arderia più ch’arde questa mente, }
+                \line { Non arderia più ch'arde questa mente, }
                 \line { Con tutto ciò talor mi doglio e piango, }
                 \line { Che non vi posso amar quanto verrei. }
             }

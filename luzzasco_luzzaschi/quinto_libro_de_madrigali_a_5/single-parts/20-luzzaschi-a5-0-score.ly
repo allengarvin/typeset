@@ -93,13 +93,13 @@
         \fill-line {
             \column {
                 \line { Non guardar, che se guardi }
-                \line { l’idolo del mio core }
-                \line { ti struggerai d’Amore; }
+                \line { l'idolo del mio core }
+                \line { ti struggerai d'Amore; }
                 \line { Non mirar, che se miri }
                 \line { quanta dolcezza in me da gli occhi e i spiri }
-                \line { ti struggerai d’invidia. Ah, perché tardi? }
+                \line { ti struggerai d'invidia. Ah, perché tardi? }
                 \line { Fuggi mentre ti lice: }
-                \line { troppo egli è bello, i’ son troppo felice. }
+                \line { troppo egli è bello, i' son troppo felice. }
             }
         }
     }

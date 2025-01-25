@@ -79,11 +79,11 @@
     \markup {
         \fill-line {
             \column {
-                \line { Dissi a l’amata mia, lucida stella }
-                \line { Che più d’ogn’ altra luce, }
+                \line { Dissi a l'amata mia, lucida stella }
+                \line { Che più d'ogn' altra luce, }
                 \line { Ed al mio cor adduce }
                 \line { Fiamme, strali e catene, }
-                \line { Ch’ogn’hor mi danno pene: }
+                \line { Ch'ogn'hor mi danno pene: }
                 \line { “Deh! morirò, cor mio. }
                 \line { Sì, morirai, ma non per mio desio.” }
             }

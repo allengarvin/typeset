@@ -277,8 +277,8 @@
                 \line { \hspace #10 { \italic { Seconda parte } }  }
                 \line { Hear me, O Love, she begged the heavens, }
                 \line { – stock still now, rooted to the spot – }
-                \line { What happened to that traitor’s vow, }
-                \line { ‘Togetherness and trust’? }
+                \line { What happened to that traitor's vow, }
+                \line { ‘Togetherness and trust'? }
                 \line { \vspace #1 }
                 \line { I just want him back, }
                 \line { But as he was before. }
@@ -295,12 +295,12 @@
                 \line { If I were to flee from him, }
                 \line { Perhaps then he might come begging? }
                 \line { \vspace #1 }
-                \line { That woman’s eyebrows }
+                \line { That woman's eyebrows }
                 \line { May be arched more perfectly than mine, }
                 \line { But sealed within my breast, O Love, }
                 \line { Lives a faithfulness still fairer. }
                 \line { \vspace #1 }
-                \line { And that woman’s mouth will never open }
+                \line { And that woman's mouth will never open }
                 \line { To give such kisses as I can give! }
                 \line { (Hush! Say nothing – you know only too well!) }
                 \line { \vspace #1 }
@@ -308,7 +308,7 @@
                 \line { With these cries she cast }
                 \line { Her anguish to the heavens. }
                 \line { And so it is that in the heart of every lover }
-                \line { Burns, side-by-side, love’s flame and ice. }
+                \line { Burns, side-by-side, love's flame and ice. }
                 \line { \hspace #15 CPDL translation }
             }
         }

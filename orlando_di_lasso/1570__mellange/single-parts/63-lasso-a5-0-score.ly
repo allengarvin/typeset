@@ -96,7 +96,7 @@
                 \line { Et en revant jusques au resveiller }
                 \line { Incessament vous quiers parmi la couche, }
                 \line { Et bien souvent au lieu de vostre bouche }
-                \line { En soupirant je baise l’oreiller. }
+                \line { En soupirant je baise l'oreiller. }
             }
             \column {
                 \line { Each night that I an empty bed must greet }
@@ -104,7 +104,7 @@
                 \line { And into dreams I fall ‘til dawn draws nigh }
                 \line { Forever seeking you beneath the sheet, }
                 \line { Too oft instead of where our lips should meet }
-                \line { I kiss the feath’ry pillow and I sigh. }
+                \line { I kiss the feath'ry pillow and I sigh. }
                 \line { \hspace #12 translation by Thomas Daughton (CPDL license) }
             }
         }

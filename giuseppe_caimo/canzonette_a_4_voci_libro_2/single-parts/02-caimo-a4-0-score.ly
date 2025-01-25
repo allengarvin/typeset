@@ -85,7 +85,7 @@
         \fill-line {
             \column {
                 \line { Parmi di star la notte in paradiso } 
-                \line { mentre ch’in sogno mi tien abbracciato. } 
+                \line { mentre ch'in sogno mi tien abbracciato. } 
                 \line { Deh, dolce sogno tu me fai beato. } 
                 \vspace #2
                 \line { Bascioti mille volte il dolce viso } 

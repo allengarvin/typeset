@@ -93,13 +93,13 @@
                 \line { Susann' un jour d'amour sollicitée }
                 \line { Par deux viellards, convoitans sa beauté, }
                 \line { Fut en son coeur triste et désconfortée, }
-                \line { Voyant l’effort fait à sa chasteté. }
+                \line { Voyant l'effort fait à sa chasteté. }
                 \line { Elle leur dit, Si par désloyauté }
                 \line { De ce corps mien vous avez jouissance, }
-                \line { C’est fait de moi. Si je fais résistance, }
+                \line { C'est fait de moi. Si je fais résistance, }
                 \line { Vous me ferez mourir en déshonneur. }
-                \line { Mais j’aime mieux périr en innocence, }
-                \line { Que d’offenser par péché le Seigneur. }
+                \line { Mais j'aime mieux périr en innocence, }
+                \line { Que d'offenser par péché le Seigneur. }
             }
             \column {
                 \line { One day, Susanne's love was solicited by }

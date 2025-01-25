@@ -10,11 +10,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Amor n’è causa, che nel cor m’ha impresso"
+    title = "Amor n'è causa, che nel cor m'ha impresso"
     subtitle = ""
-    instrument = "Amor n’è causa, che nel cor m’ha impresso:  (score)"
+    instrument = "Amor n'è causa, che nel cor m'ha impresso:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "amor_n’e_causa_che_nel_cor_m’ha_impresso"
+    shorttitle = "amor_n'e_causa_che_nel_cor_m'ha_impresso"
     shortcomp = "merulo"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XLV ottava 32 }
     rhyme = "ABABABCC"
@@ -79,12 +79,12 @@
     \markup {
         \fill-line {
             \column {
-                 \line { Amor n’è causa, che nel cor m’ha impresso }
+                 \line { Amor n'è causa, che nel cor m'ha impresso }
                  \line { la forma tua così leggiadra e bella; }
-                 \line { e posto ci ha l’ardir, l’ingegno appresso, }
+                 \line { e posto ci ha l'ardir, l'ingegno appresso, }
                  \line { e la virtù di che ciascun favella; }
-                 \line { ch’impossibil mi par, ch’ove concesso }
-                 \line { ne sia il veder, ch’ogni donna e donzella }
+                 \line { ch'impossibil mi par, ch'ove concesso }
+                 \line { ne sia il veder, ch'ogni donna e donzella }
                  \line { non ne sia accesa, e che non usi ogni arte }
                  \line { di sciorti dal mio amore e al suo legarte. }
             }

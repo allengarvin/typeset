@@ -10,12 +10,12 @@
 
 \header {
     % Things that change per piece:
-    title = "Se l’affogarmi in mar morte non era"
+    title = "Se l'affogarmi in mar morte non era"
     subtitle = "Seguita Angelica con gran pianto"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 44 }
     rhyme = "ABABABCC"
     poeticform = "ottava rima"
-    instrument = "Se l’affogarmi in mar morte (score)"
+    instrument = "Se l'affogarmi in mar morte (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -86,14 +86,14 @@
         \fill-line {
             \column {
                 \vspace #2
-                \line { Se l’affogarmi in mar morte non era }
-                \line { a tuo senno crudel, pur ch’io ti sazii, }
+                \line { Se l'affogarmi in mar morte non era }
+                \line { a tuo senno crudel, pur ch'io ti sazii, }
                 \line { non recuso che mandi alcuna fera }
                 \line { che mi divori, e non mi tenga in strazii. }
-                \line { D’ogni martir che sia, pur ch’io ne pera, }
-                \line { esser non può ch’assai non ti ringrazii. }
+                \line { D'ogni martir che sia, pur ch'io ne pera, }
+                \line { esser non può ch'assai non ti ringrazii. }
                 \line { Così dicea la donna con gran pianto, }
-                \line { quando le apparve l’eremita accanto. }
+                \line { quando le apparve l'eremita accanto. }
             }
             \column {
                 \vspace #2

@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Chi mette il piè su l’amorosa pania"
+    title = "Chi mette il piè su l'amorosa pania"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIV ottava 1 }
     rhyme = "ABABABCC"
     poeticform = "ottava rima"
@@ -86,10 +86,10 @@
     \markup {
         \fill-line {
             \column {
-                \line { Chi mette il piè su l’amorosa pania, } 
-                \line { cerchi ritrarlo, e non v’inveschi l’ale; } 
+                \line { Chi mette il piè su l'amorosa pania, } 
+                \line { cerchi ritrarlo, e non v'inveschi l'ale; } 
                 \line { che non è in somma amor, se non insania, } 
-                \line { a giudizio de’ savi universale: } 
+                \line { a giudizio de' savi universale: } 
                 \line { e se ben egualmente ognun non smania,\auto-footnote "" \italic "O.F. original: e se ben come Orlando ognun non smania,"  } 
                 \line { suo furor mostra a qualche altro segnale } 
                 \line { E quale è di pazzia segno più espresso } 

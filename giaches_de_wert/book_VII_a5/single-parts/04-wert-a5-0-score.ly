@@ -91,14 +91,14 @@
         \fill-line {
             \column {
                 \line { Donna, se ben le chiome ho già ripiene  }
-                \line { D’algente neve, il cor però non verna:  }
-                \line { Sàsselo Amor che tacito ’l governa  }
+                \line { D'algente neve, il cor però non verna:  }
+                \line { Sàsselo Amor che tacito 'l governa  }
                 \line { E in lui conserve del suo ardor mantiene. }
                 \line { \vspace #1 }
                 \line { Etna cosí sul dorso alto sostiene  }
-                \line { Le brine e ’l giaccio e dentro ha fiamma eterna;  }
-                \line { Selce cosí gelata è ne l’esterna  }
-                \line { Parte, e’l foco nativo ha ne le vene.  }
+                \line { Le brine e 'l giaccio e dentro ha fiamma eterna;  }
+                \line { Selce cosí gelata è ne l'esterna  }
+                \line { Parte, e'l foco nativo ha ne le vene.  }
             }
         }
     }

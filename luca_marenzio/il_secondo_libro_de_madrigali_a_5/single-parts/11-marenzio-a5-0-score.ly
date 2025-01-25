@@ -10,11 +10,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Itene à l’ombra de gli ameni faggi"
+    title = "Itene à l'ombra de gli ameni faggi"
     folio = "Giusto de Conti (1390-1449)"
     poeticform = "terza rima"
 
-    instrument = "Itene à l’ombra (score)"
+    instrument = "Itene à l'ombra (score)"
     needtranslation = #'f
     language = "italian"
 
@@ -93,14 +93,14 @@
         \fill-line {
             % translation: 2024-05-17
             \column {
-                \line { Itene all’ombra degli ameni faggi, }
-                \line { pasciute pecorelle, omai che’l sole }
+                \line { Itene all'ombra degli ameni faggi, }
+                \line { pasciute pecorelle, omai che'l sole }
                 \line { sul mezzo giorno indrizza i caldi raggi.}
-                \line { Ivi udirete l’alte mie parole }
+                \line { Ivi udirete l'alte mie parole }
                 \line { lodar gli occhi sereni e treccie bionde }
                 \line { le mani e le bellezze al mondo sole; }
-                \line { Mentre il mio canto e’l mormorar dell’onde }
-                \line { s’accorderanno e voi di passo in passo }
+                \line { Mentre il mio canto e'l mormorar dell'onde }
+                \line { s'accorderanno e voi di passo in passo }
                 \line { ite pascendo fiori, erbette e fronde. }
             }
             \column {

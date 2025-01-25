@@ -93,13 +93,13 @@
                 \line { Amor, io non potrei }
                 \line { aver da te se non ricca mercede, }
                 \line { poiché quanto amo lei, Madonna il vede. }
-                \line { Deh! fa ch’ella sappia anco, }
+                \line { Deh! fa ch'ella sappia anco, }
                 \line { quel che forse non crede, quanto io sia }
                 \line { già presso a venir manco: }
                 \line { se pur nascosa è a lei la pena mia. }
-                \line { Ch’ella lo sappia fia }
-                \line { tanto sollevamento a’ dolor miei, }
-                \line { ch’io ne vivrò, dov'or me ne morrei. }
+                \line { Ch'ella lo sappia fia }
+                \line { tanto sollevamento a' dolor miei, }
+                \line { ch'io ne vivrò, dov'or me ne morrei. }
             }
             \column {
                 \line { Love, I could not }

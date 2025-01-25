@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Pieno di dolce e d’amoroso affetto"
+    title = "Pieno di dolce e d'amoroso affetto"
     subtitle = "Angelica si dimostra Cortese a Sacripante"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 54 }
     rhyme = "ABABABCC"
@@ -85,13 +85,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Pieno di dolce e d’amoroso affetto, }
+                \line { Pieno di dolce e d'amoroso affetto, }
                 \line { alla sua donna, alla sua diva corse, }
                 \line { che con le braccia al collo il tenne stretto, }
-                \line { quel ch’ al Catai non avria fatto forse. }
+                \line { quel ch' al Catai non avria fatto forse. }
                 \line { Al patrio regno, al suo natio ricetto, }
-                \line { seco avendo costui, l’animo torse: }
-                \line { subito in lei s’avviva la speranza }
+                \line { seco avendo costui, l'animo torse: }
+                \line { subito in lei s'avviva la speranza }
                 \line { di tosto riveder sua ricca stanza. }
             }
             \column {

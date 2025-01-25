@@ -103,10 +103,10 @@
                 \line { Before her new-made tomb at last arrived, }
                 \line { The woeful prison of his living spright, }
                 \line { Pale, cold, sad, comfortless, of sense deprived, }
-                \line { Upon the marble grey he fix’d his sight; }
+                \line { Upon the marble grey he fix'd his sight; }
                 \line { Two streams of tears were from his eyes derived: }
                 \line { Thus, with a sad alas, began the knight: }
-                \line { Oh, marble dear! on my dear mistress plac’d, }
+                \line { Oh, marble dear! on my dear mistress plac'd, }
                 \line { My flames within, without my tears thou hast. }
                 \line { \hspace #12 Edward Fairfax (1600) }
             }

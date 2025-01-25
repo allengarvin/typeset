@@ -10,8 +10,8 @@
 
 \header {
     % Things that change per piece:
-    title = "Cantai mentre ch’i’ arsi del mio foco"
-    instrument = "Cantai mentre ch’i’ arsi del mio foco (score)"
+    title = "Cantai mentre ch'i' arsi del mio foco"
+    instrument = "Cantai mentre ch'i' arsi del mio foco (score)"
     needtranslation = #'t
     language = "italian"
     folio = "Giovanni Brevio (d.c.1549)"
@@ -20,7 +20,7 @@
     lastupdated = "2018-08-03"
     flats = 1
     final = "g"
-    shorttitle = "cantai_mentre_ch’i’_arsi_del_mio_foco"
+    shorttitle = "cantai_mentre_ch'i'_arsi_del_mio_foco"
     categories = "[madrigal]"
     motifs = "[sighing,weeping]"
     \include "include/distribution-header.ly"
@@ -91,21 +91,21 @@
         \fill-line {
             \column {
                 \vspace #5
-                \line { Cantai mentre ch’i’ arsi del mio foco }
-                \line { La viva fiamma, ov’io morendo vissi, }
-                \line { Ben che quant’io cantai e quant’io scrissi }
-                \line { Di madonna e d’amor fu nulla o poco. }
+                \line { Cantai mentre ch'i' arsi del mio foco }
+                \line { La viva fiamma, ov'io morendo vissi, }
+                \line { Ben che quant'io cantai e quant'io scrissi }
+                \line { Di madonna e d'amor fu nulla o poco. }
                 \line {  }
-                \line { Ma se i begli occhi onde’il mio cor s’accese }
+                \line { Ma se i begli occhi onde'il mio cor s'accese }
                 \line { Del lor chiaro divino almo splendore }
-                \line { Non m’avessero à torto fatto indegno, }
-                \line { Col canto avrei l’interno e grave ardore }
+                \line { Non m'avessero à torto fatto indegno, }
+                \line { Col canto avrei l'interno e grave ardore }
                 \line { A gli orecchi di tal fatto palese }
-                \line { Che pietà fora ov’alberga ira e sdegno. }
+                \line { Che pietà fora ov'alberga ira e sdegno. }
                 \line { A gli amorosi strali fermo segno }
                 \line { Sarei, pieno di dolce aspro martiro }
-                \line { Ov’ora in libertà piango e sospiro. }
-                \line { Ahi, pace in cor d’amanti non ha loco. }
+                \line { Ov'ora in libertà piango e sospiro. }
+                \line { Ahi, pace in cor d'amanti non ha loco. }
                 \line { \hspace #12 Giovanni Brevio, \italic { Rime e prose volgari } (Venice, 1545) }
             }
         }

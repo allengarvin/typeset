@@ -91,7 +91,7 @@
                 \line { e quella eternamente è gloriosa, } 
                 \line { e dei divini onori arriva al segno, } 
                 \line { quando, servando i suoi senza alcun danno, } 
-                \line { si fa che gl’inimici in rotta vanno. } 
+                \line { si fa che gl'inimici in rotta vanno. } 
             }
             \column {
                 \line { Though Conquest fruit of skill or fortune be, } 

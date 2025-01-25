@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Che debbo far, poi ch’io son giunto tardi"
+    title = "Che debbo far, poi ch'io son giunto tardi"
     subtitle = "Lamento di Sacripante per la fugga d'Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 41 }
     rhyme = "ABABABCC"
@@ -85,12 +85,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { Che debbo far, poi ch’io son giunto tardi, }
+                \line { Che debbo far, poi ch'io son giunto tardi, }
                 \line { et altri a corre il frutto è andato prima? }
-                \line { a pena avuto io n’ho parole e sguardi, }
-                \line { et altri n’ha tutta la spoglia opima. }
+                \line { a pena avuto io n'ho parole e sguardi, }
+                \line { et altri n'ha tutta la spoglia opima. }
                 \line { Se non ne tocca a me frutto né fiore, }
-                \line { perché affligger per lei mi vuo’ più il core? }
+                \line { perché affligger per lei mi vuo' più il core? }
             }
             \column {
                 \line { What's left to me, he said, arrived too late, }

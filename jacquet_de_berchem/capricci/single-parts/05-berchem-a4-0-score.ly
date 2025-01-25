@@ -10,11 +10,11 @@
 
 \header {
     % Things that change per piece:
-    title = "All’apparir che fece all’improviso"
+    title = "All'apparir che fece all'improviso"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 29 }
     rhyme = "ABABABCC"
     poeticform = "ottava rima"
-    instrument = "All’apparir che fece all’improviso (score)"
+    instrument = "All'apparir che fece all'improviso (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -84,14 +84,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { All’apparir che fece all’improviso }
-                \line { de l’acqua l’ombra, ogni pelo arricciossi, }
+                \line { All'apparir che fece all'improviso }
+                \line { de l'acqua l'ombra, ogni pelo arricciossi, }
                 \line { e scolorossi al Saracino il viso; }
-                \line { la voce, ch’era per uscir, fermossi. }
-                \line { Udendo poi da l’Argalia, ch’ucciso }
-                \line { quivi avea già (che l’Argalia nomossi), }
+                \line { la voce, ch'era per uscir, fermossi. }
+                \line { Udendo poi da l'Argalia, ch'ucciso }
+                \line { quivi avea già (che l'Argalia nomossi), }
                 \line { la rotta fede così improverarse, }
-                \line { di scorno e d’ira dentro e di fuor arse. }
+                \line { di scorno e d'ira dentro e di fuor arse. }
             }
             \column {
                 \line { Bristled the paynim's every hair at view }

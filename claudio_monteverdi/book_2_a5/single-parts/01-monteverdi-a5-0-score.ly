@@ -93,12 +93,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { Non si levava ancor l’alba novella }
+                \line { Non si levava ancor l'alba novella }
                 \line { né spiegavan le piume }
                 \line { gli augelli al novo lume, }
-                \line { ma fiammeggiava l’amorosa stella, }
+                \line { ma fiammeggiava l'amorosa stella, }
                 \line { quando i duo vaghi e leggiadretti amanti, }
-                \line { ch’una felice notte aggiunse insieme }
+                \line { ch'una felice notte aggiunse insieme }
                 \line { come Acanto si volge in vari giri, }
                 \line { divise il novo raggio; e i dolci pianti, }
                 \line { nell'accoglienze estreme, }
@@ -106,7 +106,7 @@
                 \line { mille ardenti pensier, mille desiri. }
                 \line { Mille voglie non paghe, }
                 \line { in quelle luci vaghe, }
-                \line { scopria quest’alma innamorata, e quella. }
+                \line { scopria quest'alma innamorata, e quella. }
             }
             \column {
                 \line { Dawn had not yet risen, }

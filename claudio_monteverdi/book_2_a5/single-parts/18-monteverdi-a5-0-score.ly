@@ -94,8 +94,8 @@
         \fill-line {
             \column {
                 \line { Questo specchio ti dono, }
-                \line { rosa tu dammi or che l’età consente, }
-                \line { ch’io colga il tuo bel fior primo ridente. }
+                \line { rosa tu dammi or che l'età consente, }
+                \line { ch'io colga il tuo bel fior primo ridente. }
                 \line { Se ciò non voi, te mira, }
                 \line { cara fanciulla ivi due volte e poi, }
                 \line { o caduchi onor tuoi, }

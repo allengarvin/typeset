@@ -96,7 +96,7 @@
                 \line { O come è gran martíre }
                 \line { a celar suo desire }
                 \line { quando con pura fede }
-                \line { s'ama chi non se’l crede. }
+                \line { s'ama chi non se'l crede. }
                 \line { O soave mio ardore, }
                 \line { o giusto mio desio, }
                 \line { s'ogn'un ama il suo core }
@@ -111,8 +111,8 @@
                 \line { you love someone who does not believe you. }
                 \line { You, exquisite ardour of mine! }
                 \line { You, rightful desire of mine! }
-                \line { If each doth love his heart’s passion }
-                \line { and you are my heart’s indeed, }
+                \line { If each doth love his heart's passion }
+                \line { and you are my heart's indeed, }
                 \line { then may I only stop loving you }
                 \line { when I no longer long to live. }
                 \line { \hspace #6 translation by Campelli (CPDL license) }

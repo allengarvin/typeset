@@ -90,11 +90,11 @@
                 \line { Queste non son più lacrime, che fuore }
                 \line { stillo dagli occhi con sì larga vena. }
                 \line { Non suppliron le lacrime al dolore: }
-                \line { finir, ch’a mezzo era il dolore a pena. }
+                \line { finir, ch'a mezzo era il dolore a pena. }
                 \line { Dal fuoco spinto ora il vitale umore }
-                \line { fugge per quella via ch’agli occhi mena; }
+                \line { fugge per quella via ch'agli occhi mena; }
                 \line { et è quel che si versa, e trarrà insieme }
-                \line { e ’l dolore e la vita all’ore estreme. }
+                \line { e 'l dolore e la vita all'ore estreme. }
             }
             \column {
                 \line { These are no longer real tears which rise, }

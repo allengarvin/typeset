@@ -95,7 +95,7 @@
             \column {
                 \line { Ecco, o dolce, o gradita, }
                 \line { vita della mia vita: }
-                \line { Ecco, mosso a pietà de’ tuoi martiri }
+                \line { Ecco, mosso a pietà de' tuoi martiri }
                 \line { sospiro e piango, e non han pace o tregua }
                 \line { il mio pianto e i sospiri. }
                 \line { È forza al fin che la mia morte segua. }

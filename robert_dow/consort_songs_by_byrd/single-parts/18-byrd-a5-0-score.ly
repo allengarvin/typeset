@@ -94,7 +94,7 @@
                 \line { \vspace #0.5 }
                 \line { For I am weak, therefore, O Lord, }
                 \line { of mercy me forbear: }
-                \line { And heal me Lord, for why? thou know’st, }
+                \line { And heal me Lord, for why? thou know'st, }
                 \line { my bones do quake for fear, }
             }
         }

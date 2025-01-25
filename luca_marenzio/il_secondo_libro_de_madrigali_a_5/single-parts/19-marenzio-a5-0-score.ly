@@ -119,10 +119,10 @@
 
 % where did this text come from? oh, from #12!
 %                \line { Già torna a rallegrar l'aria e la terra }
-%                \line { col piè le sponde, e co’ begli occhi affrena }
+%                \line { col piè le sponde, e co' begli occhi affrena }
 %                \line { rapido corso, allor che discolora }
 %                \line { le piagge il ghiaccio, con sì dolce pena }
-%                \line { a seguir le tue arme m’innamora, }
-%                \line { ch’io piango, e rido, e non la scorgo appena, }
-%                \line { ch’io scopro in lei mille vaghezze ascose, }
-%                \line { ed entro a l’alma un bel giardin di rose. }
+%                \line { a seguir le tue arme m'innamora, }
+%                \line { ch'io piango, e rido, e non la scorgo appena, }
+%                \line { ch'io scopro in lei mille vaghezze ascose, }
+%                \line { ed entro a l'alma un bel giardin di rose. }

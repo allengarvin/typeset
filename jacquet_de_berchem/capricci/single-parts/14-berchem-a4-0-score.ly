@@ -10,12 +10,12 @@
 
 \header {
     % Things that change per piece:
-    title = "Ch’aver può donna al mondo più di buono"
+    title = "Ch'aver può donna al mondo più di buono"
     subtitle = "Seguita Angelica"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 42 }
     rhyme = "ABABABCC"
     poeticform = "ottava rima"
-    instrument = "Ch’aver può donna (score)"
+    instrument = "Ch'aver può donna (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -86,14 +86,14 @@
         \fill-line {
             \column {
                 \vspace #2
-                \line { Ch’aver può donna al mondo più di buono, }
+                \line { Ch'aver può donna al mondo più di buono, }
                 \line { a cui la castità levata sia? }
-                \line { Mi nuoce, ahimè! ch’io son giovane, e sono }
+                \line { Mi nuoce, ahimè! ch'io son giovane, e sono }
                 \line { tenuta bella, o sia vero o bugia. }
                 \line { Già non ringrazio il ciel di questo dono; }
                 \line { che di qui nasce ogni ruina mia: }
                 \line { morto per questo fu Argalia mio frate; }
-                \line { che poco gli giovar l’arme incantate. }
+                \line { che poco gli giovar l'arme incantate. }
             }
             \column {
                 \vspace #2

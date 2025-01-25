@@ -92,14 +92,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { O miracol d’Amore! }
+                \line { O miracol d'Amore! }
                 \line { Io bramo mirar voi, dolce mia vita, }
-                \line { e’l mirar cresce al cor nuova ferita: }
-                \line { per cui convien ch’io moia. }
+                \line { e'l mirar cresce al cor nuova ferita: }
+                \line { per cui convien ch'io moia. }
                 \line { \vspace #0.5 }
                 \line { Ma diviene il morir mercede e gioia, }
                 \line { perché vive e non more }
-                \line { quest’alma, che partendo dal suo core, }
+                \line { quest'alma, che partendo dal suo core, }
                 \line { in voi mio caro core }
                 \line { trasformata, gode vita beata. }
                 \line { O mia felice, sorte, }

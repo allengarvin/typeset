@@ -90,11 +90,11 @@
             \column {
                 \line { Dove, speranza mia, dove ora sei? }
                 \line { vai tu soletta forse ancor errando? }
-                \line { o pur t’hanno trovata i lupi rei }
+                \line { o pur t'hanno trovata i lupi rei }
                 \line { senza la guardia del tuo fido Orlando? }
-                \line { e il fior ch’in ciel potea pormi fra i dei, }
-                \line { il fior ch’intatto io mi venia serbando }
-                \line { per non turbarti, ohimè! l’animo casto, }
+                \line { e il fior ch'in ciel potea pormi fra i dei, }
+                \line { il fior ch'intatto io mi venia serbando }
+                \line { per non turbarti, ohimè! l'animo casto, }
                 \line { ohimè! per forza avranno colto e guasto. }
             }
             \column {

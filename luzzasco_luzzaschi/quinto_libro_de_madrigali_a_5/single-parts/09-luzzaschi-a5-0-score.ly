@@ -13,9 +13,9 @@
     originallyset = "2022-11-06"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Tu godi o bell’amante"
+    title = "Tu godi o bell'amante"
     subtitle = ""
-    instrument = "Tu godi o bell’amante:  (score)"
+    instrument = "Tu godi o bell'amante:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "tu_godi_o_bellamante"
     shortcomp = "luzzaschi"
@@ -92,9 +92,9 @@
     \markup {
         \fill-line {
             \column {
-                \line { Tu godi o bell’amante }
-                \line { s’il mio volto rimiri, }
-                \line { meta de’ tuoi desiri, }
+                \line { Tu godi o bell'amante }
+                \line { s'il mio volto rimiri, }
+                \line { meta de' tuoi desiri, }
                 \line { perché tu solo entro questa alma siedi }
                 \line { e ne le luci mie te stesso vedi. }
                 \line { Nel mio vagheggi il tuo divin sembiante: }

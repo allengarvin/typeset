@@ -10,11 +10,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Pensier, dicea, che’l cor m’aggiacci et ardi"
+    title = "Pensier, dicea, che'l cor m'aggiacci et ardi"
     subtitle = ""
-    instrument = "Pensier, dicea, che’l cor m’aggiacci et ardi:  (score)"
+    instrument = "Pensier, dicea, che'l cor m'aggiacci et ardi:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "pensier_dicea_che’l_cor_m’aggiacci_et_ardi"
+    shorttitle = "pensier_dicea_che'l_cor_m'aggiacci_et_ardi"
     shortcomp = "lasso"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 41 }

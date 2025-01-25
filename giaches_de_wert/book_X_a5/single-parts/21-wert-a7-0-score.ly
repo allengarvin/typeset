@@ -126,7 +126,7 @@
                 \line { Disse ella: e alle sue labbra un bacio diede, }
                 \line { Poi volse in fuga il piede. }
                 \line { Così lascia schernito }
-                \line { Tirsi e d’amor ferito. }
+                \line { Tirsi e d'amor ferito. }
             }
         }
     }

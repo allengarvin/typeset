@@ -105,7 +105,7 @@
                 \line { He like shall be the planted tree, }
                 \line { \hspace #1 nor set the river's course; }
                 \line { which forth in tide, whose leaves abide, }
-                \line { \hspace #1 all prosp’reth what he does. }
+                \line { \hspace #1 all prosp'reth what he does. }
                 \line { Not so, not so the wicked do, }
                 \line { \hspace #1 like dust or chaff they be; }
                 \line { uphoist by wind, as light by kind }

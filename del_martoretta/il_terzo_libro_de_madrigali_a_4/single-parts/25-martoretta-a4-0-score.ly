@@ -87,11 +87,11 @@
                 \line { Di furto ancor oltre ogni vizio rio, }
                 \line { di te, crudele, ho da dolermi molto. }
                 \line { Che tu mi tenga il cor, non ti dico io; }
-                \line { di questo io vo’ che tu ne vada \auto-footnote "sciolto:"  \italic " ’assolto’ in standard edition. They mean approximately the same in this context. "  }
-                \line { dico di te, che t’eri fatto mio, }
+                \line { di questo io vo' che tu ne vada \auto-footnote "sciolto:"  \italic " 'assolto' in standard edition. They mean approximately the same in this context. "  }
+                \line { dico di te, che t'eri fatto mio, }
                 \line { e poi contra ragion mi ti sei tolto. }
                 \line { Renditi, iniquo, a me; che tu sai bene }
-                \line { che non si può salvar chi l’altrui tiene. }
+                \line { che non si può salvar chi l'altrui tiene. }
             }
             \column {
                 \line { If she in any manner could have thought, }

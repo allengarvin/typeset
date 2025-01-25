@@ -93,14 +93,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ti spontò l’ali, Amor, la donna mia, }
+                \line { Ti spontò l'ali, Amor, la donna mia, }
                 \line { acciò tu gissi solo }
                 \line { nei suoi begli occhi a volo. }
                 \line { Mira se queste sono }
-                \line { piume de l’ali tue, ch’io n’ebbi in dono: }
+                \line { piume de l'ali tue, ch'io n'ebbi in dono: }
                 \line { o perché piangi, stolto? }
                 \line { Prendi le piume tue, ma taci pria  }
-                \line { E gli occhi asciuga e ’l volto. }
+                \line { E gli occhi asciuga e 'l volto. }
                 \line { Ah, tel credevi, Amore! }
                 \line { Se voi le piume tue, rendemi il core. }
             }

@@ -91,18 +91,18 @@
         \fill-line {
             \column {
                 \line { Mentre, lumi maggior de secol nostro }
-                \line { Sotto’l Belgico ciel porge la luce }
-                \line { Al carro ch’a l’oprar e al sonno induce, }
+                \line { Sotto'l Belgico ciel porge la luce }
+                \line { Al carro ch'a l'oprar e al sonno induce, }
                 \line { Nova Delia et Apol, lo splendor vostro; }
-                \line { E mentr’il santo amor fra l’oro e l’ostro }
+                \line { E mentr'il santo amor fra l'oro e l'ostro }
                 \line { Da le perle e i robini al cor traluce }
-                \line { Et a l’alto gioir vi riconduce, }
-                \line { Cui non cape pensier nè adombr’inchiostro. }
-                \line { Le caste nimphe su l’erbose sponde }
+                \line { Et a l'alto gioir vi riconduce, }
+                \line { Cui non cape pensier nè adombr'inchiostro. }
+                \line { Le caste nimphe su l'erbose sponde }
                 \line { De la Trebia e del Taro in negro manto }
-                \line { Doglionsi d’ogni lor gloria sparita,  }
+                \line { Doglionsi d'ogni lor gloria sparita,  }
                 \line { E colme di desir vaghe di pianto }
-                \line { Tra mestissimi accenti e gli antri e l’onde }
+                \line { Tra mestissimi accenti e gli antri e l'onde }
                 \line { Fan risonar Ottavio e Margherita. }
             }
         }

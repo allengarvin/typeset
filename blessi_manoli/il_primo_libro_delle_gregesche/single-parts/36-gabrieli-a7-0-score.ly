@@ -115,22 +115,22 @@
                 \line { Cha su la strada?  Unde xe ‘l vostro mende } 
                 \line { Xe fursi persa?  O ‘l cel pur strolonghèu? } 
                 \line { \vspace #0.5 } 
-                \line { Chello tiflos pedi chiè l’ale avèu } 
+                \line { Chello tiflos pedi chiè l'ale avèu } 
                 \line { Sul cor n'ha messo un frizza si punzende } 
                 \line { Chie sia cavarla no vien ca presende } 
                 \line { Chy xel casun nu morti ‘l vederèu. } 
                 \line { \vspace #0.5 } 
                 \line { Da sto fraschetto anga nu punti semo } 
-                \line { Vegnì ch’andem‘ a piar un mendesina } 
+                \line { Vegnì ch'andem‘ a piar un mendesina } 
                 \line { Chie fa gariri tutti el namurai. } 
                 \line { \vspace #0.5 } 
                 \line { Maccari a spime gligora e truvemo } 
                 \line { Remedio al cor chie stà com' in fusina } 
                 \line { De la Vulcan li sbiriti dannai. } 
                 \line { \vspace #0.5 } 
-                \line { Andemo ch’oramai } 
+                \line { Andemo ch'oramai } 
                 \line { Xe tembo da garir al so despetto } 
-                \line { De chest’amor ribaldo e maledetto. } 
+                \line { De chest'amor ribaldo e maledetto. } 
             }
         }
     }

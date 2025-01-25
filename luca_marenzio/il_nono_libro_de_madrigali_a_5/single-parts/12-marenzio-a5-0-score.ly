@@ -96,11 +96,11 @@
                 \line { Solo e pensoso i più deserti campi }
                 \line { vo misurando a passi tardi e lenti; }
                 \line { E gli occhi porto, per fuggir intenti, }
-                \line { dove vestigio uman l’arena stampi. }
+                \line { dove vestigio uman l'arena stampi. }
                 \line { Altro schermo non trovo, che mi scampi }
                 \line { dal manifesto accorger delle genti: }
-                \line { Perché negli atti d’allegrezza spenti }
-                \line { di fuor si legge, com’io dentro avvampi: }
+                \line { Perché negli atti d'allegrezza spenti }
+                \line { di fuor si legge, com'io dentro avvampi: }
             }
             \column { 
                 \line { Alone and thoughtful, through the most desolate fields, }

@@ -94,11 +94,11 @@
             \column {
                 \line { Come viva il mio core, }
                 \line { come questa alma spiri, }
-                \line { deh, dillo tu che’l sai, deh dillo Amore! }
-                \line { Ahi, che so troppo anch’io, che senza aita }
+                \line { deh, dillo tu che'l sai, deh dillo Amore! }
+                \line { Ahi, che so troppo anch'io, che senza aita }
                 \line { del suo cibo vital li tiene in vita. }
-                \line { E sol d’aspri martiri }
-                \line { mi nutre il cor e pasci l’alma trista }
+                \line { E sol d'aspri martiri }
+                \line { mi nutre il cor e pasci l'alma trista }
                 \line { esangue omai per la perduta vista. }
             }
         }

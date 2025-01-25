@@ -87,12 +87,12 @@
         \fill-line {
             \column {
                 \line { Gravi pene in amor si provan molte, }
-                \line { di che patito io n’ho la maggior parte, }
+                \line { di che patito io n'ho la maggior parte, }
                 \line { e quelle in danno mio sì ben raccolte, }
-                \line { ch’io ne posso parlar come per arte. }
-                \line { Però s’io dico e s’ho detto altre volte, }
+                \line { ch'io ne posso parlar come per arte. }
+                \line { Però s'io dico e s'ho detto altre volte, }
                 \line { e quando in voce e quando in vive carte, }
-                \line { ch’un mal sia lieve, un altro acerbo e fiero, }
+                \line { ch'un mal sia lieve, un altro acerbo e fiero, }
                 \line { date credenza al mio giudicio vero. }
             }
             \column {

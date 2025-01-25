@@ -95,11 +95,11 @@
                 \line { Né fero sdegno mai, Donna, mi mosse } 
                 \line { Ancor da voi, né lontananza alcuna } 
                 \line { Ne movrà mai! Mandami pur, Fortuna, } 
-                \line { Per l’onde azzurre errando e per le rosse; } 
-                \line { Se quante spume fan l’acque percosse } 
+                \line { Per l'onde azzurre errando e per le rosse; } 
+                \line { Se quante spume fan l'acque percosse } 
                 \line { Dai remi nostri al sol e a la luna, } 
                 \line { Tante nascesser Veneri, e ciascuna } 
-                \line { di lor d’un novo Amor gravida fosse! } 
+                \line { di lor d'un novo Amor gravida fosse! } 
             }
         }
     }

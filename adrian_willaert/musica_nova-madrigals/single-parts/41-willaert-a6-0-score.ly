@@ -10,12 +10,12 @@
 
 \header {
     % Things that change per piece:
-    title = "Pien d’un vago penser che me desvia"
+    title = "Pien d'un vago penser che me desvia"
     subtitle = ""
     subsubtitle = "Transposed down a 4th"
-    instrument = "Pien d’un vago penser che me desvia:  (score)"
+    instrument = "Pien d'un vago penser che me desvia:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "pien_d’un_vago_penser_che_me_desvia"
+    shorttitle = "pien_d'un_vago_penser_che_me_desvia"
     shortcomp = "willaert"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CLXIX (169) }
@@ -35,7 +35,7 @@
 \include "../parts/42-willaert-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "41-willaert--pien_d’un_vago_penser_che_me_desvia-"
+    \bookOutputName "41-willaert--pien_d'un_vago_penser_che_me_desvia-"
     \bookOutputSuffix "--0-score"
     \score {
         \header { piece = "Prima parte" }
@@ -168,23 +168,23 @@
     \markup {
         \fill-line {
             \column {
-                \line { Pien d’un vago penser che me desvia }
+                \line { Pien d'un vago penser che me desvia }
                 \line { da tutti gli altri, et fammi al mondo ir solo, }
-                \line { ad or ad ora a me stesso m’involo }
+                \line { ad or ad ora a me stesso m'involo }
                 \line { pur lei cercando che fuggir devria; }
                 \line { \vspace #1 }
                 \line { et veggiola passar sì dolce et ria }
-                \line { che l’alma trema per levarsi a volo, }
-                \line { tal d’armati sospir’ conduce stuolo }
-                \line { questa bella d’Amor nemica, et mia. }
+                \line { che l'alma trema per levarsi a volo, }
+                \line { tal d'armati sospir' conduce stuolo }
+                \line { questa bella d'Amor nemica, et mia. }
                 \line { \vspace #1 }
-                \line { Ben, s’io non erro di pietate un raggio }
-                \line { scorgo fra ’l nubiloso, altero ciglio, }
-                \line { che ’n parte rasserena il cor doglioso: }
+                \line { Ben, s'io non erro di pietate un raggio }
+                \line { scorgo fra 'l nubiloso, altero ciglio, }
+                \line { che 'n parte rasserena il cor doglioso: }
                 \line { \vspace #1 }
-                \line { allor raccolgo l’alma, et poi ch’i’ aggio }
+                \line { allor raccolgo l'alma, et poi ch'i' aggio }
                 \line { di scovrirle il mio mal preso consiglio, }
-                \line { tanto gli ò a dir, che’ncominciar non oso. }
+                \line { tanto gli ò a dir, che'ncominciar non oso. }
                 \line { \hspace #12 Petrarca, \italic { Canzoniere } 169 }
             }
             \column {

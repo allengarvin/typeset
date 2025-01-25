@@ -101,7 +101,7 @@
                 \line { Miravo io da me tolto, }
                 \line { con gran diletto lei, }
                 \line { quando dirmi sentei: Stolto, che fai? }
-                \line { Tempo perduto non s’acquista mai. }
+                \line { Tempo perduto non s'acquista mai. }
                 \line { Allor io mi chinai così pian piano }
                 \line { e baciandole il viso, }
                 \line { provai quanta dolcezza ha il paradiso. }

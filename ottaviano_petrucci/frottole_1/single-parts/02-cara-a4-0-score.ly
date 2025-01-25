@@ -97,15 +97,15 @@
                 \line { Oimè el focho aspro e vivace }
                 \line { Mi consuma el tristo core, }
                 \line { Oimè dio che ‘l fatto errore }
-                \line { L’alma afflitta mi molesta. }
+                \line { L'alma afflitta mi molesta. }
                 \line { Oimè il cor... }
                 \line { \vspace #1 }
-                \line { Oimè ché ben m’acorgea }
+                \line { Oimè ché ben m'acorgea }
                 \line { Da un cor falso esser tradito, }
-                \line { Oimè allhor ch’io non sapea }
+                \line { Oimè allhor ch'io non sapea }
                 \line { Al mio error pigliar partito, }
                 \line { Oimè el cieco mio appetite }
-                \line { M’ha condutto a questa sorte, }
+                \line { M'ha condutto a questa sorte, }
                 \line { Oimè grido e ‘l mal mio forte }
                 \line { Ognhor cresce e più me infesta. }
                 \line { Oimè il cor... }
@@ -114,7 +114,7 @@
                 \line { Una immensa e gran beltade }
                 \line { Fan che di dolor mi scoppio }
                 \line { Per la persa libertate. }
-                \line { Se per questa l’alma pate }
+                \line { Se per questa l'alma pate }
                 \line { Ne fu causa el desir cieco }
                 \line { El qual fa che sempre meco }
                 \line { Sta assai guerra e poca festa. }

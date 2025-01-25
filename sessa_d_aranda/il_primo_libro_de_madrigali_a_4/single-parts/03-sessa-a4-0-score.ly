@@ -81,7 +81,7 @@
             \column {
                 \line { Dove, speranza mia, dove ora sei? }
                 \line { vai tu soletta forse ancor errando? }
-                \line { o pur t’hanno trovata i lupi rei }
+                \line { o pur t'hanno trovata i lupi rei }
                 \line { senza la guardia del tuo fido Orlando? }
             }
             \column {

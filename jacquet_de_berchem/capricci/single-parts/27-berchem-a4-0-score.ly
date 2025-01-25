@@ -91,9 +91,9 @@
                 \line { Pel bosco errò tutta la notte il conte; }
                 \line { e allo spuntar de la diurna fiamma }
                 \line { lo tornò il suo destin sopra la fonte }
-                \line { dove Medoro insculse l’epigramma. }
-                \line { Veder l’ingiuria sua scritta nel monte }
-                \line { l’accese sì, ch’in lui non restò dramma }
+                \line { dove Medoro insculse l'epigramma. }
+                \line { Veder l'ingiuria sua scritta nel monte }
+                \line { l'accese sì, ch'in lui non restò dramma }
                 \line { che non fosse odio, rabbia, ira e furore; }
                 \line { né più indugiò, che trasse il brando fuore. }
             }

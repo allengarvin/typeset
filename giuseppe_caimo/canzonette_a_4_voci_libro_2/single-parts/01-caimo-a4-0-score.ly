@@ -90,7 +90,7 @@
                 \line { e corri in braccio! } 
                 \line { Corri, cor mio! } 
                 \line { Cucu non odi? } 
-                \line { Egli t’invita ed io.  } 
+                \line { Egli t'invita ed io.  } 
             }
             \column {
                 \line { While the cuckoo }

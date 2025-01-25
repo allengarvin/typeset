@@ -93,11 +93,11 @@
         \fill-line {
             \column {
                  \line { Parte il corpo da voi, ma con voi resta }
-                 \line { l’alma dolente e mesta. }
+                 \line { l'alma dolente e mesta. }
                  \line { E vivo? Ahi, non è vivo }
-                 \line { chi va de l’alma privo! }
+                 \line { chi va de l'alma privo! }
                  \line { Morto, morto son io, }
-                 \line { ché partendo m’ha ucciso il dolor mio. }
+                 \line { ché partendo m'ha ucciso il dolor mio. }
                  \line { E se pur vivo, questa vostra beltà }
                  \line { ch'io dentro al cor scolpita: }
                  \line { Dell'alma invece mi mantiene in vita. }

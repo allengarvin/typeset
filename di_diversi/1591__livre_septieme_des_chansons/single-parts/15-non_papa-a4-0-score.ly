@@ -87,7 +87,7 @@
                 \line { Et de tes biens souffre le paistre, }
                 \line { Sans désordonné appétit, }
                 \line { Nourrissant petit à petit }
-                \line { Aujourd’hui ta créature, }
+                \line { Aujourd'hui ta créature, }
                 \line { Par celui qui pour nous vêtit }
                 \line { Un corps sujet à nourriture. }
             }

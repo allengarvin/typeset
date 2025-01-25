@@ -98,7 +98,7 @@
                 \line { alla fine ingannato è ben ragione. }
                 \line { O ciechi, il tanto affaticar che giova? }
                 \line { Tutti tornate alla gran madre antica, }
-                \line { e’l nome vostro a pena si ritrova. }
+                \line { e'l nome vostro a pena si ritrova. }
             }
         }
     }

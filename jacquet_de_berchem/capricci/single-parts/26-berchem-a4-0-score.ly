@@ -88,12 +88,12 @@
         \fill-line {
             \column {
                 \line { Non son, non sono io quel che paio in viso: }
-                \line { quel ch’era Orlando è morto et è sotterra; }
-                \line { la sua donna ingratissima l’ha ucciso: }
+                \line { quel ch'era Orlando è morto et è sotterra; }
+                \line { la sua donna ingratissima l'ha ucciso: }
                 \line { sì, mancando di fé, gli ha fatto guerra. }
                 \line { Io son lo spirto suo da lui diviso, }
-                \line { ch’in questo inferno tormentandosi erra, }
-                \line { acciò con l’ombra sia, che sola avanza, }
+                \line { ch'in questo inferno tormentandosi erra, }
+                \line { acciò con l'ombra sia, che sola avanza, }
                 \line { esempio a chi in Amor pone speranza. }
             }
             \column {

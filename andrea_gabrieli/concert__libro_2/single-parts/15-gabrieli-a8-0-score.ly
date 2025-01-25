@@ -145,7 +145,7 @@
                 \line { dear liberty of mine, foolish in my desire. }
                 \line { \vspace #0.5 }
                 \line { And certainly I do not yet complain about it, }
-                \line { if it wasn’t that you, cruel one, always make fun }
+                \line { if it wasn't that you, cruel one, always make fun }
                 \line { of my languishing, and of my fate. }
                 \line { Instead, you should, accounting for the distress }
                 \line { that you so much see in me, be so wise to say: }

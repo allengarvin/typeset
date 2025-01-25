@@ -85,7 +85,7 @@
             \column {
                 \line { Du fond de ma pensee, }
                 \line { Au fond de tous ennuyctz }
-                \line { Dieu, je t’ai adressee }
+                \line { Dieu, je t'ai adressee }
                 \line { Ma clameur iour et nuyct }
                 \line { Endends ma voix plaintifve }
                 \line { Seigneur, il est saison }

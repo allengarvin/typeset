@@ -87,7 +87,7 @@
                 \line { Qui à nos maulx a sceut si bien pourvoir }
                 \line { Or maintenant a perdu son pouvoir, }
                 \line { Rompant le but de ma seure espérance }
-                \line { Servant d’exemple à tous piteux à veoir }
+                \line { Servant d'exemple à tous piteux à veoir }
                 \line { Fini le bien, le mal soudain commence. }
             }
         }

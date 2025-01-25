@@ -117,7 +117,7 @@
             }
             \column {
                 \line { For Lawyers and their pleading, }
-                \line { they’steem it not a straw, }
+                \line { they'steem it not a straw, }
                 \line { they think that honest meaning }
                 \line { is of itself a law, }
                 \line { where conscience judgeth plainly, }

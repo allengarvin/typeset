@@ -23,7 +23,7 @@
     shortcomp = "pallavicino"
     categories = "[madrigal]"
     needtranslation = #'t
-    folio = "Fabio Marretti, 'Bisticcio d’argomento amoroso' (1571)"
+    folio = "Fabio Marretti, 'Bisticcio d'argomento amoroso' (1571)"
 
     % Unchanging:
     language = "italian"

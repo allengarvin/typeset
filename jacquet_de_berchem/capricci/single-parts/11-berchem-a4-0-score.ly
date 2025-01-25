@@ -87,11 +87,11 @@
             \column {
                 \line { Stupida e fissa nella incerta sabbia, }
                 \line { coi capelli disciolti e rabuffati, }
-                \line { con le man giunte e con l’immote labbia, }
+                \line { con le man giunte e con l'immote labbia, }
                 \line { i languidi occhi al ciel tenea levati, }
-                \line { come accusando il gran Motor che l’abbia }
+                \line { come accusando il gran Motor che l'abbia }
                 \line { tutti inclinati nel suo danno i fati. }
-                \line { Immota e come attonita ste’ alquanto; }
+                \line { Immota e come attonita ste' alquanto; }
                 \line { poi sciolse al duol la lingua, e gli occhi al pianto. }
             }
             \column {

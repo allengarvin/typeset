@@ -96,16 +96,16 @@
                 \line { Non sono in queste rive }
                 \line { fiori così vermigli }
                 \line { come le labbra della Donna mia. }
-                \line { Né il suon dell’aure estive }
+                \line { Né il suon dell'aure estive }
                 \line { tra fonti e rose e gigli }
                 \line { fan del suo canto più dolce armonia. }
-                \line { Canto che m’ardi e piaci, }
-                \line { t’interrompano solo i nostri baci. }
+                \line { Canto che m'ardi e piaci, }
+                \line { t'interrompano solo i nostri baci. }
             }
             \column {
                 \line { There are upon these shores }
                 \line { no flowers as red }
-                \line { as my mistress’ lips, }
+                \line { as my mistress' lips, }
                 \line { nor does the sound of summer winds }
                 \line { amidst fountains, roses, and lilies }
                 \line { produce sweeter harmonies than her singing. }

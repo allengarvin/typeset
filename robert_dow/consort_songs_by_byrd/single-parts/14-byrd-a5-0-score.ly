@@ -87,10 +87,10 @@
                \line { Rejoice with him, I say rejoice, that friendly doth thee call. }
                \line { \vspace #0.5 }
                \line { What unacquainted cheerful voice is this that I do hear, }
-               \line { Which bids me triumph and rejoice that erst was drench’d in fear? }
+               \line { Which bids me triumph and rejoice that erst was drench'd in fear? }
                \line { It is the voice of Christ thy friend that dièd for thy sake, }
                \line { Who for to work thy woes an end thy shape did on him take: }
-               \line { And whereby Adam’s grievous guilt thou wast condemn’d to die, }
+               \line { And whereby Adam's grievous guilt thou wast condemn'd to die, }
                \line { The precious blood that I have spilt saves thee eternally. }
                \line { Wherefore rejoice, I say rejoice. }
                \line { \vspace #0.5 }

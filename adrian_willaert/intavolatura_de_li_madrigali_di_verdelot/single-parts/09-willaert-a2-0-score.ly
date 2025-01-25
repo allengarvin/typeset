@@ -79,11 +79,11 @@
             \column {
                 \line { Con lagrime e sospir negando porge }
                 \line { Madonna i desiati basci al core }
-                \line { E perche tropp’ardore }
-                \line { Dentr’al mio petto scorge }
+                \line { E perche tropp'ardore }
+                \line { Dentr'al mio petto scorge }
                 \line { Si dona ben che mesta al nostro amore }
-                \line { O grat’ e dolce dono, }
-                \line { Ov’io si lieto in fervitu mi godo. }
+                \line { O grat' e dolce dono, }
+                \line { Ov'io si lieto in fervitu mi godo. }
             }
         }
     }

@@ -86,7 +86,7 @@
                 \line { Quel mi trasporta ognior di male in peggio, }
                 \line { né lo posso frenar, che non ha freno: }
                 \line { e mi fa certa che mi mena a morte, }
-                \line { perch’aspettando il mal noccia più forte. }
+                \line { perch'aspettando il mal noccia più forte. }
             }
            \column {
                 \line { Yea; rather of myself should I complain, }

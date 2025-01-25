@@ -89,10 +89,10 @@
                 \line { acciò di me ti sazii e ti disfami? }
                 \line { che dar ti posso omai più, se non questa }
                 \line { misera vita? ma tu non la brami; }
-                \line { ch’ora a trarla del mar sei stata presta, }
+                \line { ch'ora a trarla del mar sei stata presta, }
                 \line { quando potea finir suoi giorni grami: }
                 \line { perché ti parve di voler più ancora }
-                \line { vedermi tormentar prima ch’io muora. }
+                \line { vedermi tormentar prima ch'io muora. }
             }
             \column {
                 \line { Fortune what more remains, that thou on me }

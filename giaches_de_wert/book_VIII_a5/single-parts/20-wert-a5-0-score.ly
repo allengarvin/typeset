@@ -91,7 +91,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { Vener, ch’un giorno avea }
+                \line { Vener, ch'un giorno avea }
                 \line { Perduto il caro suo fanciul Amore, }
                 \line { Con materno dolore }
                 \line { Ricorse agli occhi ove abitar solea }
@@ -99,8 +99,8 @@
                 \line { Nol ritrovando, con dogliosi stridi }
                 \line { Disse: Se in questi nidi }
                 \line { Non sei tu, figlio mio, }
-                \line { Dove trovarti più sperar debb’io? }
-                \line { Intanto ella volgend’ ai bei capelli }
+                \line { Dove trovarti più sperar debb'io? }
+                \line { Intanto ella volgend' ai bei capelli }
                 \line { Gli occhi languidi omai per lunghi pianti, }
                 \line { Vide che di quel or mille novelli }
                 \line { Laccioli ordiva ai miserelli amanti. }

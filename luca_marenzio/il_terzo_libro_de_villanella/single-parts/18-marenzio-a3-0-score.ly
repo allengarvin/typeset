@@ -87,7 +87,7 @@
             \column {
                 \line { Ad una fresca riva }
                 \line { Guidommi Amor dove era la mia Diva, }
-                \line { Che con gli occhi, co'l crin e’l viso adorno }
+                \line { Che con gli occhi, co'l crin e'l viso adorno }
                 \line { Fea nascer fior e vaghe erbette intorno. }
                 \line { \vspace #1 }
                 \line { Se a me gli occhi volgea }

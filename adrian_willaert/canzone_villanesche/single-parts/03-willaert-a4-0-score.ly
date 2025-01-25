@@ -90,11 +90,11 @@
                  \line { \hspace #4    dolor sta sempre meco. }
                 \vspace #1
                  \line { O dio famme ne scir da tanti guai }
-                 \line { ca non gin camparaggio un’altra fiata. }
+                 \line { ca non gin camparaggio un'altra fiata. }
                  \line { \hspace #4 Perché ... }
                 \vspace #1
-                 \line { O mora o camp’ hormai non me ne curo }
-                 \line { sto mondo latr’ e fatto a chi ha ventura. }
+                 \line { O mora o camp' hormai non me ne curo }
+                 \line { sto mondo latr' e fatto a chi ha ventura. }
                  \line { \hspace #4 Perché ... }
             }
         }

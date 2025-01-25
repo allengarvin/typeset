@@ -108,20 +108,20 @@
         \fill-line {
             \column { 
                 \line { Io mi sento morire }
-                \line { E chi m’occide, mi ritorni in vita: }
+                \line { E chi m'occide, mi ritorni in vita: }
                 \line { O mia doglia infinita. }
                 \vspace #0.5
                 \line { \hspace #3 Vorrei di vita uscire, }
                 \line { \hspace #3 Ma viva mi ritien chi, mi dà morte: }
                 \line { \hspace #3 O mia infelice sorte. }
                 \vspace #0.5
-                \line { Core mio, chi t’ha ucciso? }
-                \line { \hspace #3 Di voi lo sguardo e’l riso. }
-                \line { \hspace #3 E chi t’ancide, dolce anima mia? }
+                \line { Core mio, chi t'ha ucciso? }
+                \line { \hspace #3 Di voi lo sguardo e'l riso. }
+                \line { \hspace #3 E chi t'ancide, dolce anima mia? }
                 \line { Vostra rara bellezza e leggiadria. }
                 \vspace #0.5
-                \line { Miracolo d’amore, }
-                \line { Adon senz’alma e Clori senza core, }
+                \line { Miracolo d'amore, }
+                \line { Adon senz'alma e Clori senza core, }
                 \line { E viver è morire. }
                 \vspace #0.5
                 \line { Io più morir non voglio. }

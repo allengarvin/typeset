@@ -95,18 +95,18 @@
                 \line { \vspace #0.5 }
                 \line { Das Röslein, das ich meine, davon Jesaia sagt, }
                 \line { hat uns gebracht alleine Marie, die reine Magd. }
-                \line { Aus Gottes ew’gem Rat }
+                \line { Aus Gottes ew'gem Rat }
                 \line { hat sie ein Kind geboren wohl zu der halben Nacht. }
             }
             \column {
-                \line { Lo, how a Rose e’er blooming from tender stem hath sprung! }
-                \line { Of Jesse’s lineage coming, as men of old have sung. }
+                \line { Lo, how a Rose e'er blooming from tender stem hath sprung! }
+                \line { Of Jesse's lineage coming, as men of old have sung. }
                 \line { It came, a floweret bright, }
                 \line { Amid the cold of winter, when half spent was the night. }
                 \line { \vspace #0.5 }
-                \line { Isaiah ’twas foretold it, the Rose I have in mind; }
+                \line { Isaiah 'twas foretold it, the Rose I have in mind; }
                 \line { With Mary we behold it, the virgin mother kind. }
-                \line { To show God’s love aright, }
+                \line { To show God's love aright, }
                 \line { She bore to men a Saviour, when half spent was the night. }
             }
         }

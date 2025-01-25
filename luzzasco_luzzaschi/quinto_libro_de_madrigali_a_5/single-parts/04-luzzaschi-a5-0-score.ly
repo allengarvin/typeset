@@ -94,11 +94,11 @@
             \column {
                 \line { Se la mia vita sete, }
                 \line { come viver posso io }
-                \line { d’altro ben, d’altro amor, d’altro desio? }
-                \line { E se l’anima vede }
+                \line { d'altro ben, d'altro amor, d'altro desio? }
+                \line { E se l'anima vede }
                 \line { Gli affetti del suo cor, voi del mio core, }
                 \line { non vedete la fede? }
-                \line { Non vedete l’amore? }
+                \line { Non vedete l'amore? }
                 \line { Ma ciò convien, donna crudel, che sia, }
                 \line { perché io son vostro, e voi non sete mia. }
             }

@@ -95,13 +95,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { S’un medesimo ardor, s’un desir pare }
-                \line { inchina e sforza l’uno e l’altro sesso }
-                \line { a quel suave fin d’amor, che pare }
-                \line { all’ignorante vulgo un grave eccesso; }
-                \line { perché si de’ punir donna o biasmare, }
-                \line { che con uno o più d’uno abbia commesso }
-                \line { quel che l’uom fa con quante n’ha appetito, }
+                \line { S'un medesimo ardor, s'un desir pare }
+                \line { inchina e sforza l'uno e l'altro sesso }
+                \line { a quel suave fin d'amor, che pare }
+                \line { all'ignorante vulgo un grave eccesso; }
+                \line { perché si de' punir donna o biasmare, }
+                \line { che con uno o più d'uno abbia commesso }
+                \line { quel che l'uom fa con quante n'ha appetito, }
                 \line { e lodato ne va, non che impunito? }
 
             }

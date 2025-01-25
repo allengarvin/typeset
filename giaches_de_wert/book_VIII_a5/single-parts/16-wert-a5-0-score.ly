@@ -98,7 +98,7 @@
                 \line { che tu quinci ti parta e non ti caglia }
                 \line { di questo albergo tuo già sì diletto. }
                 \line { Vattene, passa il mar, pugna, travaglia, }
-                \line { struggi la fede nostra: anch’io t’affretto. }
+                \line { struggi la fede nostra: anch'io t'affretto. }
                 \line { che dico nostra? ah non più mia! fedele }
                 \line { sono a te solo, idolo mio crudele. }
             }

@@ -89,8 +89,8 @@
                 \line { gli raccende nel core e fa più ardente }
                 \line { la fiamma che nel dì parea sopita. }
                 \line { Costei venuta seco era in Ponente }
-                \line { fin dal Cataio; e qui l’avea smarrita, }
-                \line { né ritrovato poi vestigio d’ella }
+                \line { fin dal Cataio; e qui l'avea smarrita, }
+                \line { né ritrovato poi vestigio d'ella }
                 \line { che Carlo rotto fu presso a Bordella. }
             }
             \column {

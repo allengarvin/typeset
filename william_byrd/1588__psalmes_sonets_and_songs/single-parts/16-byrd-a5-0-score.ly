@@ -122,16 +122,16 @@
                 \line { a perfect harmony. }
                 \line { \vspace #0.5 }
                 \line { Music more lofty swells, }
-                \line { in phrases finely plac’d: }
+                \line { in phrases finely plac'd: }
                 \line { Beauty as far excells, }
-                \line { in action aptly grac’d: }
+                \line { in action aptly grac'd: }
                 \line { a friend each party draws, }
                 \line { to countenance his cause. }
                 \line { \vspace #0.5 }
                 \line { Love more affected seems, }
                 \line { to beauty's lovely light, }
                 \line { and wonder more esteems, }
-                \line { of Music wond’rous might, }
+                \line { of Music wond'rous might, }
                 \line { but both to both so bent, }
                 \line { as both in both are spent. }
             }

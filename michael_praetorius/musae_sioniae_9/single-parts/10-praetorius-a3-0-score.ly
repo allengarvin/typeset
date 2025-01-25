@@ -95,9 +95,9 @@
                 \line { Ring it from the steeple! }
                 \line { Of maiden pure is He the Son; }
                 \line { For ever shall thy praise be sung, }
-                \line { Christ’s fair mother Mary! }
+                \line { Christ's fair mother Mary! }
                 \line { Ever was there news so great? }
-                \line { God’s own Son from heaven’s high state }
+                \line { God's own Son from heaven's high state }
                 \line { Is born the Son of Mary! }
                 \line { \hspace #12 Charles Sanford Terry (1921) }
             }

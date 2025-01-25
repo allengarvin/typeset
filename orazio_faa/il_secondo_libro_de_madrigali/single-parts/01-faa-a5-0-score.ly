@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Gridò più volte il Po, quest’onde, o Donna"
+    title = "Gridò più volte il Po, quest'onde, o Donna"
     instrument = "Gridò più volte il Po (score)"
     language = "italian"
     needtranslation = #'t
@@ -93,14 +93,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Gridò più volte il Po, quest’onde, o Donna, }
+                \line { Gridò più volte il Po, quest'onde, o Donna, }
                 \line { A te rivolgo, e il tuo bel nido impingo, }
-                \line { E le sponde, cui presso in trecce, e ’n gonna }
+                \line { E le sponde, cui presso in trecce, e 'n gonna }
                 \line { Errar solevi, a te sola dipingo: }
-                \line { Or Liri per mio mal di te s’indonna, }
+                \line { Or Liri per mio mal di te s'indonna, }
                 \line { Ed io piangendo il tuo ritorno fingo; }
-                \line { Lascia il Tevere, e ’l Liri, e a noi ritorna, }
-                \line { E l’Olio,e il Mincio, e il re de’ fiumi adorna, }
+                \line { Lascia il Tevere, e 'l Liri, e a noi ritorna, }
+                \line { E l'Olio,e il Mincio, e il re de' fiumi adorna, }
             }
         }
     }

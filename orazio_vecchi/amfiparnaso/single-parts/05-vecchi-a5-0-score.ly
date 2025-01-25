@@ -94,12 +94,12 @@
         \fill-line {
             \column {
                 \line { Misero che farò, Lucio infelice, }
-                \line { s’ogni mio ben m’è tolto? }
+                \line { s'ogni mio ben m'è tolto? }
                 \line { Ah finto Amore e stolto? }
                 \line { Ah crudel Isabella, }
                 \line { che per novello amore mi sei rubella? }
                 \line { ma nel più alpestre monte i' vado or ora, }
-                \line { perché ne l’ultima ora, }
+                \line { perché ne l'ultima ora, }
                 \line { fia sazio il tuo desio }
                 \line { donna crudel, col precipizio mio. }
             }

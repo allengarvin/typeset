@@ -103,7 +103,7 @@
                 \line { Ond'ogn'alma par ch'arda }
                 \line { Oggi sola ne scorg'al sacro monte; }
                 \line { Chi sete ha del bel fonte }
-                \line { Sù, sù dov’ella ne chiama, }
+                \line { Sù, sù dov'ella ne chiama, }
                 \line { Chi virtù cerca e brama }
                 \line { Corra sopra il Tamigi }
                 \line { E segua i sempre suoi degni vestigi. }

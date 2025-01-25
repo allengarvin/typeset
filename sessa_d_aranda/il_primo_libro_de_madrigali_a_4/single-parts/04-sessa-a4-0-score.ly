@@ -10,11 +10,11 @@
 
 \header {
     % Things that change per piece:
-    title = "E il fior ch’in ciel potea pormi fra i dei"
+    title = "E il fior ch'in ciel potea pormi fra i dei"
     subtitle = "Terza stanza"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 77 }
     rhyme = "ABABABCC"
-    instrument = "E il fior ch’in ciel (score)"
+    instrument = "E il fior ch'in ciel (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -79,9 +79,9 @@
     \markup {
         \fill-line {
             \column {
-                \line { E il fior ch’in ciel potea pormi fra i dei, }
-                \line { Il fior ch’intatto io mi venia serbando }
-                \line { Per non turbarti, ohimè! l’animo casto, }
+                \line { E il fior ch'in ciel potea pormi fra i dei, }
+                \line { Il fior ch'intatto io mi venia serbando }
+                \line { Per non turbarti, ohimè! l'animo casto, }
                 \line { Ohimè! per forza avranno colto e guasto. }
             }
             \column {

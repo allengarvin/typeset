@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "O voi che sospirate a miglior’ note"
+    title = "O voi che sospirate a miglior' note"
     instrument = "O voi che sospirate (score)"
     language = "italian"
     needtranslation = #'f
@@ -92,12 +92,12 @@
         \vspace #4
         \fill-line {
             \column {
-                \line { O voi che sospirate a miglior’ \auto-footnote "note" \italic "notti (nights) in Petrarch's original; note (notes) is a pun." }
-                \line { ch’ascoltate d’Amore o dite in rime, }
+                \line { O voi che sospirate a miglior' \auto-footnote "note" \italic "notti (nights) in Petrarch's original; note (notes) is a pun." }
+                \line { ch'ascoltate d'Amore o dite in rime, }
                 \line { pregate non mi sia più sorda Morte, }
                 \line { porto de le miserie et fin del pianto; }
                 \line { muti una volta quel suo antico stile, }
-                \line { ch’ogni uom attrista, e me può far sì lieto. }
+                \line { ch'ogni uom attrista, e me può far sì lieto. }
                 \line { \hspace #12 Petrarca, \italic { Canzoniere } 332 }
             }
             \column {

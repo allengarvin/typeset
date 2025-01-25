@@ -85,9 +85,9 @@
         \fill-line {
             \column {
                 \line { Ricordati, pagan, quando uccidesti }
-                \line { d’Angelica il fratel (che son quell’io), }
-                \line { dietro all’altr’arme tu mi promettesti }
-                \line { fra pochi dì gittar l’elmo nel rio. }
+                \line { d'Angelica il fratel (che son quell'io), }
+                \line { dietro all'altr'arme tu mi promettesti }
+                \line { fra pochi dì gittar l'elmo nel rio. }
                 \line { Or se Fortuna (quel che non volesti }
                 \line { far tu) pone ad effetto il voler mio, }
                 \line { non ti turbare; e se turbar ti dei, }

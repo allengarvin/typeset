@@ -97,12 +97,12 @@
                 \line { Dolci sospiri ardenti, }
                 \line { che dal bel petto fuore }
                 \line { fermate uscendo i furiosi venti, }
-                \line { ditemi se’l suo core }
+                \line { ditemi se'l suo core }
                 \line { punge amoroso strale, }
-                \line { ch’io giuro per amore }
+                \line { ch'io giuro per amore }
                 \line { di cantar lieto senza sdegno et ira: }
-                \line { Ben è felice l’alma }
-                \line { per chi l’alta cagion del mio gran male }
+                \line { Ben è felice l'alma }
+                \line { per chi l'alta cagion del mio gran male }
                 \line { dolcemente sospira. }
             }
         }

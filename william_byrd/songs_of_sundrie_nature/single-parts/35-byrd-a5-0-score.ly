@@ -91,23 +91,23 @@
     \markup {
         \fill-line {
             \column {
-                \line { From Virgin’s womb this day, this day did spring }
+                \line { From Virgin's womb this day, this day did spring }
                 \line { The precious Seed that only saved man }
                 \line { This day let man rejoice and sweetly sing, }
                 \line { Since on this day our Saviour first began. }
-                \line { This day did Christ man’s soul from death remove }
+                \line { This day did Christ man's soul from death remove }
                 \line { With glorious saints to dwell in Heaven above. }
                 \line { \vspace #0.5 }
                 \line { This day to man came pledge of perfect peace, }
                 \line { This day to man came love and unity, }
-                \line { This day man’s grief began for to surcease, }
+                \line { This day man's grief began for to surcease, }
                 \line { This day did man receive a remedy }
                 \line { For each offence and every deadly sin }
                 \line { With guilty heart that erst he wandered in. }
                 \line { \vspace #0.5 }
-                \line { In Christ His flock let love be surely plac’d, }
+                \line { In Christ His flock let love be surely plac'd, }
                 \line { From Christ His flock let concord hate expel, }
-                \line { Of Christ His flock let love be so embrac’d }
+                \line { Of Christ His flock let love be so embrac'd }
                 \line { As we in Christ and Christ in us may dwell. }
                 \line { Christ is the author of sweet unity }
                 \line { From whence proceedeth all felicity. }

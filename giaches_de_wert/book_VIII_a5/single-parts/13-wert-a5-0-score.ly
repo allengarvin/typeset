@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Poi cominciò: Non aspettar ch’io preghi"
+    title = "Poi cominciò: Non aspettar ch'io preghi"
     subtitle = "Seconda parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XVI ottava 44 }
     instrument = "Poi cominciò (score)"
@@ -93,13 +93,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Poi cominciò: “Non aspettar ch’io preghi, }
+                \line { Poi cominciò: “Non aspettar ch'io preghi, }
                 \line { crudel, te, come amante amante deve. }
-                \line { Tai fumm’ un tempo; or se tal esser neghi, }
-                \line { e di ciò la memoria anco t’è greve, }
+                \line { Tai fumm' un tempo; or se tal esser neghi, }
+                \line { e di ciò la memoria anco t'è greve, }
                 \line { come nemico almen ascolta: i preghi }
-                \line { d’un nemico talor l’altro riceve. }
-                \line { Ben quel ch’io chieggio è tal che darlo puoi }
+                \line { d'un nemico talor l'altro riceve. }
+                \line { Ben quel ch'io chieggio è tal che darlo puoi }
                 \line { e integri conservar gli sdegni tuoi. }
             }
             \column {

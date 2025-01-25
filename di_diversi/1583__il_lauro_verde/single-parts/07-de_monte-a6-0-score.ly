@@ -108,9 +108,9 @@
                 \line { I vari rami sono i miei desiri, }
                 \line { dove i pensier fan nido; e strane cure }
                 \line { son le foglie e paure, }
-                \line { che l’aura tremolar fan dei sospiri; }
-                \line { l’ombra di questo ALLORO }
-                \line { è la mia vita, e’l mio dolce ristoro.  }
+                \line { che l'aura tremolar fan dei sospiri; }
+                \line { l'ombra di questo ALLORO }
+                \line { è la mia vita, e'l mio dolce ristoro.  }
             }
             \column {
                 \line { The green laurel is my heart, }

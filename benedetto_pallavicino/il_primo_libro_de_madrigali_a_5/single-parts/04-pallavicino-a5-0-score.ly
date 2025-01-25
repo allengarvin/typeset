@@ -96,8 +96,8 @@
                 \line { che tiepida aura freschi ognora serba, }
                 \line { sicuri si vedean lepri e conigli, }
                 \line { e cervi con la fronte alta e superba, }
-                \line { senza temer ch’alcun gli uccida o pigli, }
-                \line { pascano o stiansi rominando l’erba; }
+                \line { senza temer ch'alcun gli uccida o pigli, }
+                \line { pascano o stiansi rominando l'erba; }
                 \line { saltano i daini e i capri isnelli e destri, }
                 \line { che sono in copia in quei luoghi campestri. }
             }

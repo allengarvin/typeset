@@ -92,15 +92,15 @@
             \column {
                 \line { Pleine de dueil et de melancolie, }
                 \line { Voyant mon mal qui toujours multiplie, }
-                \line { Et qu’en la fin plus ne le puis porter, }
+                \line { Et qu'en la fin plus ne le puis porter, }
                 \line { Constrainte suis pour me reconforter }
                 \line { Me rendre a toy le surplus de ma vie. }
             }
             \column {
                 \line { Full of pain and sadness, }
                 \line { seeing that my suffering increases all the time, }
-                \line { and that in the end I can’t bear it anymore, }
-                \line { I’m constrained, in order to comfort myself, }
+                \line { and that in the end I can't bear it anymore, }
+                \line { I'm constrained, in order to comfort myself, }
                 \line { to render the rest of my life to you. }
                 \line { \hspace #6 -- CPDL translation }
             }

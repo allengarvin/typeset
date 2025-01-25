@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Tagliò lo scritto e’l sasso, e sin al cielo"
+    title = "Tagliò lo scritto e'l sasso, e sin al cielo"
     subtitle = "Mostra Orlando la sua possanza"
-    instrument = "Tagliò lo scritto e’l sasso, e sin al cielo: Mostra Orlando la sua possanza (score)"
+    instrument = "Tagliò lo scritto e'l sasso, e sin al cielo: Mostra Orlando la sua possanza (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "taglio_lo_scritto_el_sasso_e_sin_al_cielo"
     shortcomp = "berchem"
@@ -87,11 +87,11 @@
     \markup {
         \fill-line {
             \column {
-                \line { Tagliò lo scritto e ’l sasso, e sin al cielo }
-                \line { a volo alzar fe’ le minute schegge. }
-                \line { Infelice quell’antro, et ogni stelo }
+                \line { Tagliò lo scritto e 'l sasso, e sin al cielo }
+                \line { a volo alzar fe' le minute schegge. }
+                \line { Infelice quell'antro, et ogni stelo }
                 \line { in cui Medoro e Angelica si legge! }
-                \line { Così restar quel dì, ch’ombra né gielo }
+                \line { Così restar quel dì, ch'ombra né gielo }
                 \line { a pastor mai non daran più, né a gregge: }
                 \line { e quella fonte, già sì chiara e pura, }
                 \line { da cotanta ira fu poco sicura. }

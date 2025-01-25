@@ -113,18 +113,18 @@
                 \line { In qual parte sì ratto i vanni muove }
                 \line { il vincitor augel del sommo Giove? }
                 \line { \hspace #2 A farsi un nido altiero, }
-                \line { \hspace #2 ove la prole sua nasca e s’impiumi. }
+                \line { \hspace #2 ove la prole sua nasca e s'impiumi. }
                 \line { Di che saranno al nido i nodi avinti? }
-                \line { \hspace #2 d’odorosi giacinti. }
+                \line { \hspace #2 d'odorosi giacinti. }
                 \line { Ma questo, quando e dove? }
-                \line { \hspace #2 Or ora e nella destra al Re de’ fiumi. }
+                \line { \hspace #2 Or ora e nella destra al Re de' fiumi. }
                 \line { E per librarlo, si che non sia offeso }
                 \line { da vento iniquo e fiero, }
                 \line { di che gli porrà il peso? }
                 \line { \hspace #2 Di bianca perla e schietta. }
                 \line { O Aquila, o Giacinti! O perla eletta! }
                 \line { O Gonzaghi, o Farnesi, o Margherita! }
-                \line { Qual s’aspetta da voi prole gradita. }
+                \line { Qual s'aspetta da voi prole gradita. }
             }
         }
     }

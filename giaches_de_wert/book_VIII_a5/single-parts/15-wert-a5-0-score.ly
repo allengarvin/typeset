@@ -93,13 +93,13 @@
     \markup {
         \fill-line {
             \column {
-                 \line { Aggiungi a quest’ ancor quel ch’a maggiore }
+                 \line { Aggiungi a quest' ancor quel ch'a maggiore }
                  \line { onta tu rechi ed a maggior tuo danno: }
-                 \line { t’ingannai, t’allettai nel nostro amore; }
-                 \line { empia lusinga certo, iniqu’ inganno, }
+                 \line { t'ingannai, t'allettai nel nostro amore; }
+                 \line { empia lusinga certo, iniqu' inganno, }
                  \line { lasciarsi corre il virginal suo fiore, }
                  \line { far de le sue bellezze altrui tiranno, }
-                 \line { quelle ch’a mille antichi in premio sono }
+                 \line { quelle ch'a mille antichi in premio sono }
                  \line { negate, offrire a novo amante in dono! }
             }
             \column {

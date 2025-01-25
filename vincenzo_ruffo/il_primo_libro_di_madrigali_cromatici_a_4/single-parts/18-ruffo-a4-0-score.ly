@@ -86,7 +86,7 @@
             \column {
                 \line { Cantan fra i rami gli augelletti vaghi, }
                 \line { quando felice in su la ruota siede; }
-                \line { però c’ha i veri amici e i sent'a lato }
+                \line { però c'ha i veri amici e i sent'a lato }
                 \line { che mostran tutti una medesma fede. }
                 \line { Se poi si cangia in tristo il lieto stato, }
                 \line { volta la turba adulatrice il piede; }

@@ -95,11 +95,11 @@
                 \line { Godete anima bella }
                 \line { poiché Fede ed Amor concordi insieme }
                 \line { fan seggio nel mio petto. }
-                \line { Godete, che’l mio cor vi sia ricetto }
-                \line { ch’è tutto Amore e fede }
+                \line { Godete, che'l mio cor vi sia ricetto }
+                \line { ch'è tutto Amore e fede }
                 \line { Godete lieta, poiché omai si vede }
-                \line { ch’altro ei non cura e ch’altro a lui non preme }
-                \line { che d’aggradire a voi, }
+                \line { ch'altro ei non cura e ch'altro a lui non preme }
+                \line { che d'aggradire a voi, }
                 \line { a voi che siete legge ai pensier suoi. }
             }
         }

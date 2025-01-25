@@ -103,11 +103,11 @@
         \fill-line {
             \column {
                 \line { Tirsi morir volea, } 
-                \line { gli occhi mirando di colei ch’adora, } 
-                \line { ond’ella che di lui non meno ardea, } 
+                \line { gli occhi mirando di colei ch'adora, } 
+                \line { ond'ella che di lui non meno ardea, } 
                 \line { gli disse: Ahimè ben mio,  } 
                 \line { deh non morir ancora, } 
-                \line { che teco bramo di morir anch’io. } 
+                \line { che teco bramo di morir anch'io. } 
             }
             \column {
                 \line { Thyrsis desired death, }

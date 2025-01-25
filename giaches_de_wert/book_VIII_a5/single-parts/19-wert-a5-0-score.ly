@@ -95,9 +95,9 @@
             \column {
                 \line { Questi odorati fiori, }
                 \line { Gialli, persi, vermigli, azzurri e bianchi, }
-                \line { Ch’in sugl’estivi ardori }
+                \line { Ch'in sugl'estivi ardori }
                 \line { E freschi e dolci nidi, }
-                \line { Erano agl’Amoretti afflitti e stanchi; }
+                \line { Erano agl'Amoretti afflitti e stanchi; }
                 \line { Braman, Donna Real, aver ricetto }
                 \line { Sotto il bel vel che vi nasconde il petto. }
             }

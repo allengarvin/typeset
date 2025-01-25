@@ -72,10 +72,10 @@
         \fill-line {
             \column {
                 \line { Che dolce più, che più giocondo stato }
-                \line { saria di quel d’un amoroso core? }
+                \line { saria di quel d'un amoroso core? }
                 \line { che viver più felice e più beato, }
-                \line { che ritrovarsi in servitù d’Amore? }
-                \line { se non fosse l’uom sempre stimulato }
+                \line { che ritrovarsi in servitù d'Amore? }
+                \line { se non fosse l'uom sempre stimulato }
                 \line { da quel sospetto rio, da quel timore, }
                 \line { da quel martir, da quella frenesia, }
                 \line { da quella rabbia detta gelosia. }

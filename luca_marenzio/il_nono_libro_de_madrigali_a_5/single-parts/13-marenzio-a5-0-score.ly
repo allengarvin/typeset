@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Sì ch’io mi credo omai"
+    title = "Sì ch'io mi credo omai"
     subtitle = "Seconda parte"
-    instrument = "Sì ch’io mi credo omai: Seconda parte (score)"
+    instrument = "Sì ch'io mi credo omai: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "si_chio_mi_credo_omai"
     shortcomp = "marenzio"
@@ -93,11 +93,11 @@
     \markup {
         \fill-line {
             \column {
-                \line { Sì ch’ io mi credo omai, che monti e piagge, }
+                \line { Sì ch' io mi credo omai, che monti e piagge, }
                 \line { e fiumi, e selve sappian di che tempre }
-                \line { sia la mia vita, ch’ è celata altrui. }
+                \line { sia la mia vita, ch' è celata altrui. }
                 \line { Ma pur sì aspre vie, né sì selvagge }
-                \line { cercar non so, ch’ Amor non venga sempre }
+                \line { cercar non so, ch' Amor non venga sempre }
                 \line { ragionando con meco, ed io con lui. }
             }
             \column {

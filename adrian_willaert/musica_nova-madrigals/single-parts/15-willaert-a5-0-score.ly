@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "L’aura mia sacra al mio stanco riposo"
+    title = "L'aura mia sacra al mio stanco riposo"
     subtitle = "Prima parte"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLVI (356) }
-    instrument = "L’aura mia sacra (score)"
+    instrument = "L'aura mia sacra (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -90,14 +90,14 @@
     \markup {
         \fill-line {
             \column {
-                 \line { L’aura mia sacra al mio stanco riposo }
-                 \line { spira sì spesso, ch’i’ prendo ardimento }
-                 \line { di dirle il mal ch’i’ò sentito et sento, }
-                 \line { che, vivendo ella, non sarei stat’oso. }
-                 \line { I’ incomoncio da quel guardo amoroso, }
+                 \line { L'aura mia sacra al mio stanco riposo }
+                 \line { spira sì spesso, ch'i' prendo ardimento }
+                 \line { di dirle il mal ch'i'ò sentito et sento, }
+                 \line { che, vivendo ella, non sarei stat'oso. }
+                 \line { I' incomoncio da quel guardo amoroso, }
                  \line { che fu principio a sí lungo tormento, }
                  \line { poi seguo come misero et contento, }
-                 \line { di dì in dì, d’ora in hora, Amor m’à roso. }
+                 \line { di dì in dì, d'ora in hora, Amor m'à roso. }
                 \line { \hspace #12 Petrarca, \italic { Canzoniere } 356 }
             }
             \column {

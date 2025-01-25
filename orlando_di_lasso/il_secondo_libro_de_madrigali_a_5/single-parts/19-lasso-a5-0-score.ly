@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Questi ch’indizio fan del mio tormento"
+    title = "Questi ch'indizio fan del mio tormento"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XXIII ottava 127 }
     rhyme = "ABABABCC"
-    instrument = "Questi ch’indizio (score)"
+    instrument = "Questi ch'indizio (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -94,14 +94,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Questi ch’indizio fan del mio tormento, }
+                \line { Questi ch'indizio fan del mio tormento, }
                 \line { sospir non sono, né i sospir son tali. }
                 \line { Quelli han triegua talora; io mai non sento }
-                \line { che ’l petto mio men la sua pena esali. }
-                \line { Amor che m’arde il cor, fa questo vento, }
-                \line { mentre dibatte intorno al fuoco l’ali. }
+                \line { che 'l petto mio men la sua pena esali. }
+                \line { Amor che m'arde il cor, fa questo vento, }
+                \line { mentre dibatte intorno al fuoco l'ali. }
                 \line { Amor, con che miracolo lo fai, }
-                \line { che ’n fuoco il tenghi, e nol consumi mai? }
+                \line { che 'n fuoco il tenghi, e nol consumi mai? }
             }
             \column {
                 \line { No; these, which are the index of my woes, }

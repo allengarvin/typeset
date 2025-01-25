@@ -93,13 +93,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Scaldava il sol di mezzo giorno l’arco }
+                \line { Scaldava il sol di mezzo giorno l'arco }
                 \line { Nel dorso del Leon suo albergo caro, }
-                \line { Sotto ’l boschetto più di frondi carco }
-                \line { Dormia ’l pastor con le sue greggi a paro; }
-                \line { Giaceva il villanel de l’opra scarco. }
+                \line { Sotto 'l boschetto più di frondi carco }
+                \line { Dormia 'l pastor con le sue greggi a paro; }
+                \line { Giaceva il villanel de l'opra scarco. }
                 \line { Vie più di posa che di spighe avaro; }
-                \line { Gli augei, le fere, ogni uom s’asconde e tace, }
+                \line { Gli augei, le fere, ogni uom s'asconde e tace, }
                 \line { Sol la Cicala non si sente in pace. }
             }
             \column {

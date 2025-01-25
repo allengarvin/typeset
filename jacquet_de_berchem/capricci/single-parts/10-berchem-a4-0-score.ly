@@ -87,11 +87,11 @@
             \column {
                 \line { Quando si vide sola in quel deserto, }
                 \line { che a riguardarlo sol, mettea paura, }
-                \line { ne l’ora che nel mar Febo coperto }
-                \line { l’aria e la terra avea lasciata oscura, }
-                \line { fermossi in atto ch’avria fatto incerto }
+                \line { ne l'ora che nel mar Febo coperto }
+                \line { l'aria e la terra avea lasciata oscura, }
+                \line { fermossi in atto ch'avria fatto incerto }
                 \line { chiunque avesse vista sua figura, }
-                \line { s’ella era donna sensitiva e vera, }
+                \line { s'ella era donna sensitiva e vera, }
                 \line { o sasso colorito in tal maniera. }
             }
             \column {

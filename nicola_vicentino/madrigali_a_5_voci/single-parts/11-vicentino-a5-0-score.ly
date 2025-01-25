@@ -93,15 +93,15 @@
                 \line { Candida rosa nata in dure spine, }
                 \line { Quando fia chi sua pari al mondo trove, }
                 \line { Gloria di nostra etate?  O vivo Giove, }
-                \line { Manda, prego, il mio in prima che’l suo fine: }
+                \line { Manda, prego, il mio in prima che'l suo fine: }
                 \vspace #0.2
-                \line { Sì ch’io non veggia il gran publico danno, }
+                \line { Sì ch'io non veggia il gran publico danno, }
                 \line { E il mondo rimaner senza il suo sole, }
                 \line { Ne gli occhi miei, che luce altra non ànno; }
                 \vspace #0.2
-                \line { Ne l’alma, che pensar d’altro non vole, }
-                \line { Ne gli orecchie, ch’udir altro non sanno, }
-                \line { Senza l’oneste sue dolci parole.  }
+                \line { Ne l'alma, che pensar d'altro non vole, }
+                \line { Ne gli orecchie, ch'udir altro non sanno, }
+                \line { Senza l'oneste sue dolci parole.  }
             }
             \column {
                 \line { This white rose born among sharp thorns, }

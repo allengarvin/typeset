@@ -99,9 +99,9 @@
                 \line { Restanvi i baci impressi }
                 \line { quasi amorose stelle }
                 \line { nel vago oscuro velo }
-                \line { onde s’amanta il cielo. }
+                \line { onde s'amanta il cielo. }
                 \line { O perché non posso io cangiarmi in lui? }
-                \line { Ch’intorno agli occhi miei }
+                \line { Ch'intorno agli occhi miei }
                 \line { per mille baci mille stelle avrei. }
             }
             \column {

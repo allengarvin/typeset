@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Amor m’à posto come segno a strale"
+    title = "Amor m'à posto come segno a strale"
     subtitle = "Prima parte"
-    instrument = "Amor m’à posto (score)"
+    instrument = "Amor m'à posto (score)"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CXXXIII (133) }
@@ -93,14 +93,14 @@
     \markup {
         \fill-line {
             \column {
-                \line {  Amor m’à posto come segno a strale, }
+                \line {  Amor m'à posto come segno a strale, }
                 \line {  come al sol neve, come cera al foco, }
                 \line {  et come nebbia al vento; et son già roco, }
                 \line {  donna, mercé chiamando, et voi non cale. }
-                \line {  Da gli occhi vostri uscío ’l colpo mortale, }
+                \line {  Da gli occhi vostri uscío 'l colpo mortale, }
                 \line {  contra cui non mi val tempo né loco; }
                 \line {  da voi sola procede, et parvi un gioco, }
-                \line {  il sole e ’l foco e ’l vento ond’io son tale. }
+                \line {  il sole e 'l foco e 'l vento ond'io son tale. }
             }
             \column {
                 \line { Love placed me as a target for his arrow, }

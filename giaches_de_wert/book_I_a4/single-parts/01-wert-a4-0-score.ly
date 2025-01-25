@@ -78,14 +78,14 @@
 %    \markup {
 %        \fill-line {
 %            \column {
-%                \line { Che giova posseder cittad’ e regni, }
-%                \line { E palagi abitar d’alto lavoro, }
-%                \line { E serv’ intorno aver d’imperio degni, }
-%                \line { E l’arche gravi per molto tesoro, }
-%                \line { Esser cantate da sublim’ ingegni, }
+%                \line { Che giova posseder cittad' e regni, }
+%                \line { E palagi abitar d'alto lavoro, }
+%                \line { E serv' intorno aver d'imperio degni, }
+%                \line { E l'arche gravi per molto tesoro, }
+%                \line { Esser cantate da sublim' ingegni, }
 %                \line { Di porpora vestir, mangiar in oro, }
 %                \line { E di bellezza pareggiar il sole, }
-%                \line { Giacendo poi nel letto fredd’ e sole? }
+%                \line { Giacendo poi nel letto fredd' e sole? }
 %            }
 %            \column {
 %                \line { What avails it to possess cities and kingdoms, }

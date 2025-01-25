@@ -94,34 +94,34 @@
         \fill-line {
             \column {
                 \line { \italic { ELENCO } }
-                \line { Quella che ’n mille selve e ’n mille fratte }
+                \line { Quella che 'n mille selve e 'n mille fratte }
                 \line { seguir mi face Amor, so che si dole, }
-                \line { benché mi fugga ognor, benché s’appiatte. }
+                \line { benché mi fugga ognor, benché s'appiatte. }
                 \line { \vspace #0.5 }
                 \line { \italic { OFELIA } }
                 \line { Et Amaranta mia mi stringe, e vòle }
-                \line { ch’io pur li canti a l’uscio, e mi risponde }
+                \line { ch'io pur li canti a l'uscio, e mi risponde }
                 \line { con le sue dolci angeliche parole. }
                 \line { \vspace #0.5 }
                 \line { \italic { ELENCO } }
-                \line { Fillida ognor mi chiama e poi s’asconde, }
-                \line { e getta un pomo e ride, e vuol già ch’io }
+                \line { Fillida ognor mi chiama e poi s'asconde, }
+                \line { e getta un pomo e ride, e vuol già ch'io }
                 \line { la veggia biancheggiar tra verdi fronde. }
                 \line { \vspace #0.5 }
                 \line { \italic { OFELIA } }
-                \line { Anzi Fillida mia m’aspetta al rio, }
-                \line { e poi m’accoglie sì soavemente, }
-                \line { ch’io pongo il gregge e me stesso in oblio. }
+                \line { Anzi Fillida mia m'aspetta al rio, }
+                \line { e poi m'accoglie sì soavemente, }
+                \line { ch'io pongo il gregge e me stesso in oblio. }
                 \line { \vspace #0.5 }
                 \line { \italic { ELENCO } }
-                \line { Il bosco ombreggia; e se ’l mio sol presente }
+                \line { Il bosco ombreggia; e se 'l mio sol presente }
                 \line { non vi fusse or, vedresti in nova foggia }
                 \line { secchi i fioretti e le fontane spente. }
                 \line { \vspace #0.5 }
                 \line { \italic { OFELIA } }
                 \line { Ignudo è il monte, e più non vi si poggia; }
-                \line { ma se ’l mio sol vi appare, ancor vedrollo }
-                \line { d’erbette rivestirsi in lieta pioggia. }
+                \line { ma se 'l mio sol vi appare, ancor vedrollo }
+                \line { d'erbette rivestirsi in lieta pioggia. }
             }
         }
     }

@@ -90,11 +90,11 @@
     \markup {
         \fill-line {
             \column {
-                \line { Ben, se ’l petto talor mi ripercote  }
-                \line { Colpo de’ tuoi begli occhi, a piú d’un segno  }
+                \line { Ben, se 'l petto talor mi ripercote  }
+                \line { Colpo de' tuoi begli occhi, a piú d'un segno  }
                 \line { Vengon le fiamme mie, nel mio sembiante }
                 \line { \vspace #1 }
-                \line { Ma tu risparmi i colpi e vuoi ch’ignote  }
+                \line { Ma tu risparmi i colpi e vuoi ch'ignote  }
                 \line { Siano: forse è pietà, forse è disdegno  }
                 \line { Che alzi tanto osi sperar canuto amante. }
             }

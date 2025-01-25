@@ -98,12 +98,12 @@
             \column {
                 \line { Ecco l'aurora con l'aurata fronte, }
                 \line { che a passo passo ci rimena il giorno; }
-                \line { Ecco che spunta sopra l’orizonte }
+                \line { Ecco che spunta sopra l'orizonte }
                 \line { col volto suo di bianca neve adorno; }
                 \line { Ecco la notte ne l'adverso monte, }
                 \line { che va fuggendo al suo antico soggiorno: }
                 \line { Ed io pur piango all' apparir de l'alba, }
-                \line { ch'omai d’intorno l'aere tutto inalba. }
+                \line { ch'omai d'intorno l'aere tutto inalba. }
             }
             \column {
                 \line { Behold Aurora with her gilded brow, }

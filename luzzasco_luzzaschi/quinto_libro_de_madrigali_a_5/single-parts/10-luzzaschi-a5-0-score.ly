@@ -94,7 +94,7 @@
             \column {
                 \line { Io vissi anima mia per darti vita. }
                 \line { Ed or sol per tua gioia }
-                \line { Amor vuol ch’io non moia. }
+                \line { Amor vuol ch'io non moia. }
                 \line { Tu non moristi allor, perché morire }
                 \line { non puote il tuo desire. }
                 \line { Amianci dunque, o mio gradito ardore, }

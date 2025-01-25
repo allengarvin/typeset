@@ -88,12 +88,12 @@
         \fill-line {
             \column {
                 \line { Che rami e ceppi e tronchi e sassi e zolle }
-                \line { non cessò di gittar ne le bell’onde, }
+                \line { non cessò di gittar ne le bell'onde, }
                 \line { fin che da sommo ad imo sì turbolle, }
                 \line { che non furo mai più chiare né monde. }
                 \line { E stanco al fin, e al fin di sudor molle, }
                 \line { poi che la lena vinta non risponde }
-                \line { allo sdegno, al grave odio, all’ardente ira, }
+                \line { allo sdegno, al grave odio, all'ardente ira, }
                 \line { cade sul prato, e verso il ciel sospira. }
             }
             \column {

@@ -95,13 +95,13 @@
         \fill-line {
             \column {
                 \line { Avorio e gemma et ogni pietra dura }
-                \line { che meglio da l’intaglio si difende , }
-                \line { romper si può; ma non ch’altra figura }
-                \line { prenda, che quella ch’una volta prende. }
+                \line { che meglio da l'intaglio si difende , }
+                \line { romper si può; ma non ch'altra figura }
+                \line { prenda, che quella ch'una volta prende. }
                 \line { Non è il mio cor diverso alla natura }
-                \line { del marmo o d’altro ch’al ferro contende. }
+                \line { del marmo o d'altro ch'al ferro contende. }
                 \line { Prima esser può che tutto Amor lo spezze, }
-                \line { che lo possa sculpir d’altre bellezze. }
+                \line { che lo possa sculpir d'altre bellezze. }
             }
             \column {
                 \line { Ivory, gem, and every hard-grained stone }

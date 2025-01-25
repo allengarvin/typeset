@@ -98,8 +98,8 @@
                 \line { con odorati fiori }
                 \line { per tesser ghirlandette }
                 \line { a gli amati Pastori,  }
-                \line { fa biondo Apol che’l tuo splendor ritorni }
-                \line { a far seren’i giorni. }
+                \line { fa biondo Apol che'l tuo splendor ritorni }
+                \line { a far seren'i giorni. }
             }
             \column {
                 \line { So that the sky does not distill itself into rain }

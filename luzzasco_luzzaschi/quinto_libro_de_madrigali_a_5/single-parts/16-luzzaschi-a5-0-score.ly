@@ -93,10 +93,10 @@
         \fill-line {
             \column {
                 \line { Moro ardendo, e m'è grato }
-                \line { l’ardor, grata la morte: }
-                \line { sì nobil foco Amor m’ha dato in sorte. }
+                \line { l'ardor, grata la morte: }
+                \line { sì nobil foco Amor m'ha dato in sorte. }
                 \line { Così cigno beato, }
-                \line { vicino a l’ultime ore }
+                \line { vicino a l'ultime ore }
                 \line { cantava: O dolce morte, o dolce ardore. }
             }
         }

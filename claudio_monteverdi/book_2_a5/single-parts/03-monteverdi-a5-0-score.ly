@@ -101,7 +101,7 @@
                 \line { lieta mi diede poi }
                 \line { misto con baci suoi: }
                 \line { io 'l bevo, e non so come bevo amore }
-                \line { che dolcemente anch’ei mi bacia il core. }
+                \line { che dolcemente anch'ei mi bacia il core. }
             }
             \column {
                 \line { My Phyllis drank }

@@ -82,11 +82,11 @@
         \fill-line {
             \column {
                 \line { Non è ch'il duol mi scemi o il fuoc' allenti }
-                \line { Si m’ard’ il fuoc' ogn’ or e il duol mi preme, }
-                \line { Nè che m’aiti chiam’ altro che morte; }
-                \line { Ma mentr’ io lasso e di più viver sazio, }
-                \line { Scorgo due si begli occhi ch’a un momento }
-                \line { Sent’ il fuoco cangiars’ in duro ghiaccio }
+                \line { Si m'ard' il fuoc' ogn' or e il duol mi preme, }
+                \line { Nè che m'aiti chiam' altro che morte; }
+                \line { Ma mentr' io lasso e di più viver sazio, }
+                \line { Scorgo due si begli occhi ch'a un momento }
+                \line { Sent' il fuoco cangiars' in duro ghiaccio }
                 \line { E di dolcezza il duol farsi diletto }
                 \line { Io provo con effetto }
                 \line { Che sol un vostro sguardo un cor già spento }

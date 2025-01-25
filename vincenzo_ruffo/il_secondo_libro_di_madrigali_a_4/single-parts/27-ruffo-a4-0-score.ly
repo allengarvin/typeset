@@ -87,11 +87,11 @@
                 \line { Et oltre al mio destino, io ci fui spinta }
                 \line { da le parole altrui degne di fede: }
                 \line { somma felicità mi fu dipinta, }
-                \line { ch’esser dovea di questo amor mercede. }
+                \line { ch'esser dovea di questo amor mercede. }
                 \line { Se la persuasione, ohimè! fu finta, }
                 \line { se fu inganno il consiglio che mi diede }
                 \line { Merlin, posso di lui ben lamentarmi, }
-                \line { ma non d’amar Ruggier posso ritrarmi. }
+                \line { ma non d'amar Ruggier posso ritrarmi. }
             }
             \column {
                 \line { Besides that me my destiny entrained, } 

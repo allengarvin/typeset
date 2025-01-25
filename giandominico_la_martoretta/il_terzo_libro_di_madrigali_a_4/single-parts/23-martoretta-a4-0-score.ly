@@ -89,11 +89,11 @@
                 \line { Deh, dove senza me, dolce mia vita, }
                 \line { rimasa sei sì giovane e sì bella? }
                 \line { come, poi che la luce è dipartita, }
-                \line { riman tra’ boschi la smarrita agnella, }
+                \line { riman tra' boschi la smarrita agnella, }
                 \line { che dal pastor sperando essere udita, }
                 \line { si va lagnando in questa parte e in quella; }
-                \line { tanto che ’l lupo l’ode da lontano, }
-                \line { e ’l misero pastor ne piagne invano. }
+                \line { tanto che 'l lupo l'ode da lontano, }
+                \line { e 'l misero pastor ne piagne invano. }
             }
             \column {
                 \line { Without me, my sweet life, beshrew me, where }

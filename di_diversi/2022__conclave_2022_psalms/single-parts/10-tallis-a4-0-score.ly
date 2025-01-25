@@ -133,7 +133,7 @@
                 \line { and trust to lead the people forth, }
                 \line { to go where thou hast dwelt, }
                 \line { \vspace #1 }
-                \line { 5. As deep to deep reboundt’h, }
+                \line { 5. As deep to deep reboundt'h, }
                 \line { at noise of thy great showers, }
                 \line { thy streams by course so overflows, }
                 \line { my soul the pain devours. }
@@ -147,9 +147,9 @@
                 \line { with lauds and thanks alway }
                 \line { among thy folk, when that they keep }
                 \line { so high their Holy Day. }
-                \line { Why cast’st thyself then down, }
+                \line { Why cast'st thyself then down, }
                 \line { my soul, I said no less, }
-                \line { Why lay’st in me so painfully, }
+                \line { Why lay'st in me so painfully, }
                 \line { in woe and carefulness? }
                 \line { \vspace #1 }
                 \line { 6. Thou art my strength O God, }

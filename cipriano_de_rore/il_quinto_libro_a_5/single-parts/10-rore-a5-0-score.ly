@@ -97,7 +97,7 @@
                 \line { Che fa lieve ogni male. }
                 \line { Ma quel, che mi tormenta, }
                 \line { È che del mio morir siete contenta, }
-                \line { E ch’al primo veder d’altro amatore }
+                \line { E ch'al primo veder d'altro amatore }
                 \line { Cangiaste il vostro core. }
                 \line { Non è dunque martire }
                 \line { Il convenir per voi, donna, morire? }

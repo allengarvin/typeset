@@ -125,7 +125,7 @@
                 \line { \italic { that the Lord would be seen by all in Galilee. } }
                 \line { \vspace #0.5 }
                 \line { And as they hurried to tell this to the Apostles, }
-                \line { seeing him alive, they kissed the Lord’s feet. }
+                \line { seeing him alive, they kissed the Lord's feet. }
                 \line { \vspace #0.5 }
                 \line { \italic { When they learned this, the disciples hurried to Galilee } }
                 \line { \italic { to see the face of the Lord they so desired. } }
@@ -133,7 +133,7 @@
                 \line { With bright Easter joy the sun beams forth now }
                 \line { that the Apostles discern Christ with mortal eye. }
                 \line { \vspace #0.5 }
-                \line { \italic { Being shown the wounds shining forth in Christ’s flesh, } }
+                \line { \italic { Being shown the wounds shining forth in Christ's flesh, } }
                 \line { \italic { they made known to all people that the Lord had risen. } }
                 \line { \vspace #0.5 }
                 \line { O Christ, most merciful King, possess our hearts }

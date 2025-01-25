@@ -93,14 +93,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Credete a me che’l provo e l’ho provato: }
+                \line { Credete a me che'l provo e l'ho provato: }
                 \line { non è contento un core }
-                \line { se no’l contenta Amore. }
+                \line { se no'l contenta Amore. }
                 \line { Amore, ogni mio bene }
                 \line { dal dolce foco tuo, da te mi viene. }
-                \line { Ond’io ne vo cantando a tutte l’ore: }
-                \line { Un cor ch’ama è beato: }
-                \line { beatissimo poi s’amando è amato. }
+                \line { Ond'io ne vo cantando a tutte l'ore: }
+                \line { Un cor ch'ama è beato: }
+                \line { beatissimo poi s'amando è amato. }
             }
         }
     }

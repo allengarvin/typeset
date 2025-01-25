@@ -103,9 +103,9 @@
                 \smaller \line {   As smoke is driven, and comes to naught, }
                 \smaller \line {   repulse their tyranny; }
                 \smaller \line {   At face of fire as war doth melt, }
-                \smaller \line {   God’s face the bad might flee. }
+                \smaller \line {   God's face the bad might flee. }
                 \smaller \line {  \vspace #1 }
-                \smaller \line {  4. O God, when thou went’st forth as guide, }
+                \smaller \line {  4. O God, when thou went'st forth as guide, }
                 \smaller \line {  before the people, out, }
                 \smaller \line {  when thou didst walk in wilderness, }
                 \smaller \line {  which thing thou didst, no doubt, }
@@ -121,7 +121,7 @@
                 \smaller \line {  When God great kings threw out of land, }
                 \smaller \line {  though erst his flock was black, }
                 \smaller \line {  then gan they look as white as snow, }
-                \smaller \line {  as lieth on salmon’s back. }
+                \smaller \line {  as lieth on salmon's back. }
                 \smaller \line {  \vspace #1 }
                 \smaller \line {  10. O blest be God, who day by day }
                 \smaller \line {  doth heap his gifts on us; }
@@ -135,10 +135,10 @@
                 \smaller \line {  13. When thanks were sung, first singers went, }
                 \smaller \line {  then minstrels moved their feet; }
                 \smaller \line {  in midst were set the damsel maids, }
-                \smaller \line {  who play’d with timbrels sweet. }
+                \smaller \line {  who play'd with timbrels sweet. }
                 \smaller \line {  When they in one were jointly met, }
                 \smaller \line {  thus God they praisèd well; }
-                \smaller \line {  from heart, the ground, they bless’d the Lord, }
+                \smaller \line {  from heart, the ground, they bless'd the Lord, }
                 \smaller \line {  who sprang of Israël. }
                 \smaller \line {  \vspace #1 }
                 \smaller \line {  16. Then shall the peers of Egypt Land  }
@@ -160,7 +160,7 @@
                 \smaller \line {  he rideth on heavens, his name is God, }
                 \smaller \line {  in him rejoice ye high. }
                 \smaller \line {  \vspace #1 }
-                \smaller \line {  5. Thou pour’dst, O God, thy fruitful showers }
+                \smaller \line {  5. Thou pour'dst, O God, thy fruitful showers }
                 \smaller \line {  on thine inheritance, }
                 \smaller \line {  when faint they were with ease again, }
                 \smaller \line {  their strength ye didst advance. }
@@ -178,7 +178,7 @@
                 \smaller \line {  this is God's mount, where God hath dwelt: }
                 \smaller \line {  he there shall dwell for aye. }
                 \smaller \line {  \vspace #1 }
-                \smaller \line {  11. This God shall wound his enemies’ heads, }
+                \smaller \line {  11. This God shall wound his enemies' heads, }
                 \smaller \line {  he shall their worthies quell, }
                 \smaller \line {  their hairy scalps to pare full nigh, }
                 \smaller \line {  that still in sin will dwell. }
@@ -198,7 +198,7 @@
                 \smaller \line {  \vspace #1 }
                 \smaller \line {  17. To him that rideth on heaven of heavens, }
                 \smaller \line {  as he hath done of old; }
-                \smaller \line {  lo, he his voice hath utter’d forth, }
+                \smaller \line {  lo, he his voice hath utter'd forth, }
                 \smaller \line {  a voice most strong and bold, }
                 \smaller \line {  Ascribe to God all strength and might, }
                 \smaller \line {  to Israël so showed, }
@@ -213,12 +213,12 @@
                 \smaller \line {  This God, he maketh the desolate }
                 \smaller \line {  in households great to grow; }
                 \smaller \line {  he loseth the thrall quite out of bands,  }
-                \smaller \line {  and bring’th the wicked low. }
+                \smaller \line {  and bring'th the wicked low. }
                 \smaller \line {  \vspace #1 }
                 \smaller \line {  6. Such good effect God gave his word, }
                 \smaller \line {  to them it shew'd his might; }
                 \smaller \line {  they did out preach, his armies strong, }
-                \smaller \line {  how they excell’d in sight. }
+                \smaller \line {  how they excell'd in sight. }
                 \smaller \line {  How kings with hosts most fiercely set, }
                 \smaller \line {  yet fled discomfited, }
                 \smaller \line {  and households whole that kept at home, }
@@ -228,14 +228,14 @@
                 \smaller \line {  of angels millions; }
                 \smaller \line {  with them is God with his good grace, }
                 \smaller \line {  as God loved Synai, once. }
-                \smaller \line {  Thou fliedst on high, ye thraldom caught’st, }
+                \smaller \line {  Thou fliedst on high, ye thraldom caught'st, }
                 \smaller \line {  receiving gifts in men; }
-                \smaller \line {  yea faithless eke thou took’st to grace, }
+                \smaller \line {  yea faithless eke thou took'st to grace, }
                 \smaller \line {  that God might dwell in them. }
                 \smaller \line {  \vspace #1 }
-                \smaller \line {  12. That dipp’d thy feet in all their blood, }
+                \smaller \line {  12. That dipp'd thy feet in all their blood, }
                 \smaller \line {  may read, appear, at eye, }
-                \smaller \line {  that dogs might lick their enemies’ blood, }
+                \smaller \line {  that dogs might lick their enemies' blood, }
                 \smaller \line {  so read to be thereby. }
                 \smaller \line {  Who list did see, O puissant God,  }
                 \smaller \line {  thy great proceedings high; }
@@ -246,15 +246,15 @@
                 \smaller \line {  make this, thy strength, proceed; }
                 \smaller \line {  then kings shall bring their offerings }
                 \smaller \line {  to thee, to praise thy deed. }
-                \smaller \line {  The lance-men's routs once scatter’d wide }
+                \smaller \line {  The lance-men's routs once scatter'd wide }
                 \smaller \line {  the people's calves, once tamed; }
                 \smaller \line {  when they shall stoop, and presents bring, }
                 \smaller \line {  and warring folk, once shamed. }
                 \smaller \line {  \vspace #1 }
                 \smaller \line {  18. O God, thou art full terrible, }
                 \smaller \line {  from out thy Sanctuary; }
-                \smaller \line {  this, Jacob's God, his people aid’th: }
-                \smaller \line {  O bless’d be God thereby. }
+                \smaller \line {  this, Jacob's God, his people aid'th: }
+                \smaller \line {  O bless'd be God thereby. }
             }
         }
     }

@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Onde tolse Amor l’oro, et di qual vena"
+    title = "Onde tolse Amor l'oro, et di qual vena"
     subtitle = "Prima parte"
     folio = \markup { Petrarca, \italic{Canzoniere} CCXX (220) }
-    instrument = "Onde tolse Amor l’oro (score)"
+    instrument = "Onde tolse Amor l'oro (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -89,14 +89,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Onde tolse Amor l’oro, et di qual vena, }
-                \line { per far due trecce bionde? e ’n quali spine }
-                \line { colse le rose, e ’n qual piaggia le brine }
-                \line { tenere et fresche, et die’ lor polso et lena? }
-                \line { onde le perle, in ch’ei frange et affrena }
+                \line { Onde tolse Amor l'oro, et di qual vena, }
+                \line { per far due trecce bionde? e 'n quali spine }
+                \line { colse le rose, e 'n qual piaggia le brine }
+                \line { tenere et fresche, et die' lor polso et lena? }
+                \line { onde le perle, in ch'ei frange et affrena }
                 \line { dolci parole, honeste et pellegrine? }
                 \line { onde tante bellezze, et sì divine, }
-                \line { di quella fronte, più che’l ciel serena? }
+                \line { di quella fronte, più che'l ciel serena? }
                 \line { \hspace #12 Petrarca, \italic { Canzoniere } 220 }
             }
             \column {

@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Voi volete ch’io muoia"
+    title = "Voi volete ch'io muoia"
     folio = "Giovanni Battista Guarini (1538-1612)"
-    instrument = "Voi volete ch’io muoia (score)"
+    instrument = "Voi volete ch'io muoia (score)"
     needtranslation = #'t
     language = "italian"
 
@@ -90,7 +90,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { Voi volete ch’io muoia, }
+                \line { Voi volete ch'io muoia, }
                 \line { E mi date dolor sì crudo e forte }
                 \line { Che mi conduce a morte. }
                 \line { Ma per vederne voi così contenta, }
@@ -98,7 +98,7 @@
                 \line { Onde vedendo, ohimè! dolente voi }
                 \line { In questa vita poi }
                 \line { Mi vien tanto martire }
-                \line { Ch’ogn’ hor giungo al morire }
+                \line { Ch'ogn' hor giungo al morire }
                 \line { E così mille e mille volte il giorno }
                 \line { Per voi moro, e morendo in vita torno. }
             }

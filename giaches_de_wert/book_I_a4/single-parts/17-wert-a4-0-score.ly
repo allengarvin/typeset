@@ -85,19 +85,19 @@
                 \line { Dolci spoglie, felice e care tanto, }
                 \line { mentre al ciel piacque e fui da lui gradita, }
                 \line { prendete or questa miserabile vita }
-                \line { e qui fin abbia il duol, le pen’e’l pianto. }
-                \line { Viss’ho’l mio corso }
+                \line { e qui fin abbia il duol, le pen'e'l pianto. }
+                \line { Viss'ho'l mio corso }
                 \line { ed ho finito quanto mi die natura; }
-                \line { or vo’ nell’altra vita. }
+                \line { or vo' nell'altra vita. }
                 \line { Vendicate ho Sicheo, }
-                \line { vist’ho fornita la terra }
-                \line { di ch’ancor mi glori’e vanto. }
-                \line { Felice, ahimè, troppo felice er’io }
+                \line { vist'ho fornita la terra }
+                \line { di ch'ancor mi glori'e vanto. }
+                \line { Felice, ahimè, troppo felice er'io }
                 \line { se le navi troiane il nostro lido }
                 \line { con quel crudel mai non avesser visto. }
-                \line { Così disse, premend’al petto Dido la spada, }
+                \line { Così disse, premend'al petto Dido la spada, }
                 \line { che mostrò di sangue un rio }
-                \line { d’ira, d’odio, d’amor, di pianto misto. }
+                \line { d'ira, d'odio, d'amor, di pianto misto. }
             }
             \column {
 %                \line { Sweet relics, so happy and dear }

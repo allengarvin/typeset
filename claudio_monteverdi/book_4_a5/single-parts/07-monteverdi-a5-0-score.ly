@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Che se tu se’ il cor mio"
+    title = "Che se tu se' il cor mio"
     subtitle = "Seconda parte"
-    instrument = "Che se tu se’ il cor mio: Seconda parte (score)"
+    instrument = "Che se tu se' il cor mio: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "che_se_tu_se_il_cor_mio"
     folio = \markup { Battista Guarini, \italic { Il pastor fido, } atto III, scena 4 }
@@ -93,13 +93,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Che se tu se’ il cor mio, }
-                \line { come se’ pur malgrado }
+                \line { Che se tu se' il cor mio, }
+                \line { come se' pur malgrado }
                 \line { del ciel e della terra, }
                 \line { qualor piangi e sospiri, }
                 \line { quelle lagrime tue son il mio sangue, }
                 \line { quei sospir il mio spirto }
-                \line { e quelle pen’e quel dolor che senti }
+                \line { e quelle pen'e quel dolor che senti }
                 \line { son miei, non tuoi tormenti. }
             }
         }

@@ -94,11 +94,11 @@
         \fill-line {
             \column {
                 \line { Io piango ed ella il volto  }
-                \line { Con le sue man m’asciuga, }
+                \line { Con le sue man m'asciuga, }
                 \line { E poi, sospira,  }
                 \line { Dolcemente e s'adira  }
-                \line { Con parole ch’i sassi romper ponno, }
-                \line { E dopo questo si parte ella e’l sonno, }
+                \line { Con parole ch'i sassi romper ponno, }
+                \line { E dopo questo si parte ella e'l sonno, }
             }
             \column {
                 \line { I cry, and my face she  }

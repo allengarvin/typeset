@@ -98,7 +98,7 @@
                 \line { E chiuder gli occhi per aprirli ogni ora }
                 \line { In quel sì chiaro e lucido soggiorno. }
                 \line { Dolce il cangiar di queste varie tempre }
-                \line { Nel fermo stato, O quando fia l’aurora }
+                \line { Nel fermo stato, O quando fia l'aurora }
                 \line { Di così chiaro avventuroso giorno? }
             }
         }

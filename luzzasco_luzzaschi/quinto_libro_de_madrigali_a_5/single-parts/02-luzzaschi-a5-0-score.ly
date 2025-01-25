@@ -97,9 +97,9 @@
                 \line { Itene a volo, o miei sospiri ardenti: }
                 \line { portate il dolor mio }
                 \line { al tanto sospirato mio desio. }
-                \line { Dite ch’a pena in tante pene i’ spiro, }
+                \line { Dite ch'a pena in tante pene i' spiro, }
                 \line { che sol per lui respiro; }
-                \line { dite ch’in così dura lontananza }
+                \line { dite ch'in così dura lontananza }
                 \line { di memoria sol vivo, e di speranza. }
             }
         }

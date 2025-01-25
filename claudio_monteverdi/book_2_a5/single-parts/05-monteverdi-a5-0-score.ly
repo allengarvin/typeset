@@ -96,7 +96,7 @@
                 \line { Non giacinti o narcisi }
                 \line { ma piccioletti fior siamo, che Amore }
                 \line { manda a voi, di beltà candido fiore. }
-                \line { O se il sol de’ vostri occhi }
+                \line { O se il sol de' vostri occhi }
                 \line { pur un poco ne tocchi, }
                 \line { saran vil alghe poi }
                 \line { e narcisi e giacinti a fronte a noi! }

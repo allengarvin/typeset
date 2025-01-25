@@ -94,9 +94,9 @@
             \column {
                 \line { Apprestateci fede, }
                 \line { voi che rivolti in core, }
-                \line { pastori avete in servitù d’Amore. }
+                \line { pastori avete in servitù d'Amore. }
                 \line { Ah non si trova più dolce gioire }
-                \line { ch’amar, e amando del suo amor fruire.  }
+                \line { ch'amar, e amando del suo amor fruire.  }
             }
         }
     }

@@ -114,7 +114,7 @@
                 \line { ch'io t'ho ferito sol per darti pace. }
             }
            \column {
-                \line { If I have wounded you, I nevertheless haven’t put you to death. }
+                \line { If I have wounded you, I nevertheless haven't put you to death. }
                 \line { Why do you accuse me to be your wicked enemy? }
                 \line { I confess the hit, but you complain wrongly }
                 \line { about the heavy dart from the friendly hand. }

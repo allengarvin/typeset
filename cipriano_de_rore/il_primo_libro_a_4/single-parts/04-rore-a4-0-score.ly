@@ -82,8 +82,8 @@
         \fill-line {
             \column {
                 \line { Però più fermo ogni or di tempo in tempo, }
-                \line { Seguendo ove chiamar m’udia dal cielo }
-                \line { E scorto d’un soave e chiaro lume, }
+                \line { Seguendo ove chiamar m'udia dal cielo }
+                \line { E scorto d'un soave e chiaro lume, }
                 \line { Tornai sempre devoto ai primi rami }
                 \line { E quando a terra son sparte le frondi }
                 \line { E quando il sol fa verdeggiar i poggi. }

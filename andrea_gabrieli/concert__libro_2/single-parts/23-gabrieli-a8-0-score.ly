@@ -117,8 +117,8 @@
             \column { 
                 \line { Alla battaglia, o forti cavalieri, }
                 \line { Venite tutti meco ardidamente  }
-                \line { E de’ nemici nostri audaci e fieri  }
-                \line { Domiam col ferro l’orgoliosa mente. }
+                \line { E de' nemici nostri audaci e fieri  }
+                \line { Domiam col ferro l'orgoliosa mente. }
                 \line { Sù, trombette, suonate!.  }
                 \line { Fan fari rari raron fan. }
                 \line { E voi guerrieri ferite ed amazzate la vil gente;  }

@@ -133,14 +133,14 @@
                 \line { Lord, have mercy. } 
                 \line { \vspace #0.5 } 
                 \line { Thou sweetest Love, Thy favor to us grant, } 
-                \line { Give to us Thy love’s bright burning brand, } 
+                \line { Give to us Thy love's bright burning brand, } 
                 \line { That with hearts united we love each other, } 
                 \line { Of one mind, at peace with each brother. } 
                 \line { Lord, have mercy. } 
                 \line { \vspace #0.5 } 
-                \line { Thou highest Comforter in ev’ry need, } 
+                \line { Thou highest Comforter in ev'ry need, } 
                 \line { Help us of our death be unafraid, } 
-                \line { That e’en then our courage may never fail us, } 
+                \line { That e'en then our courage may never fail us, } 
                 \line { When the Foe at last shall assail us. } 
                 \line { Lord, have mercy. } 
                 \line { \hspace #12 Lutheran church translation (freely licensed) } 

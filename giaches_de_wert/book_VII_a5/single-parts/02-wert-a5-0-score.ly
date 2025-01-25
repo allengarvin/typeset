@@ -92,7 +92,7 @@
             \column {
                 \line { \vspace #1 }
                 \line { Scendi Imeneo! Copia di te sì degna  }
-                \line { Non strinse unqua il tuo nodo. Ecco ch’unita }
+                \line { Non strinse unqua il tuo nodo. Ecco ch'unita }
                 \line { Già di fede e d'Amor te solo aspetta. }
                 \line { \vspace #1  }
                 \line { Or ciò che Manto lor predice e insegna  }

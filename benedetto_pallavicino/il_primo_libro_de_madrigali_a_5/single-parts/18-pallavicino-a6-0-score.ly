@@ -102,15 +102,15 @@
         \fill-line {
             \column {
                 \line { Frenò Tirsi il desio } 
-                \line { ch’avea di pur sua vita allor finire, } 
+                \line { ch'avea di pur sua vita allor finire, } 
                 \line { e sentia morte e non potea morire, } 
                 \line { e mentre fisso il guardo pur tenea } 
-                \line { ne’ begli occhi divini, } 
+                \line { ne' begli occhi divini, } 
                 \line { e nettar amoroso indi bevea, } 
                 \line { la bella ninfa sua che già vicini } 
-                \line { sentia i messi d’amore, } 
-                \line { disse con occhi languid’ e tremanti: } 
-                \line { Mori cor mio, ch’io moro, } 
+                \line { sentia i messi d'amore, } 
+                \line { disse con occhi languid' e tremanti: } 
+                \line { Mori cor mio, ch'io moro, } 
                 \line { le rispose il pastore: } 
                 \line { Ed io, mia vita, moro. } 
             }

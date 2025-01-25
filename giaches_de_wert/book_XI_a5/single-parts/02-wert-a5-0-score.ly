@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "O primavera, gioventù dell’anno"
+    title = "O primavera, gioventù dell'anno"
     subtitle = "Prima parte"
-    instrument = "O primavera, gioventù dell’anno: Prima parte (score)"
+    instrument = "O primavera, gioventù dell'anno: Prima parte (score)"
     needtranslation = #'f
     folio = \markup { Giovanni Battista Guarini, \italic{Il Pastor Fido} Atto II Scena 4 }
     headerspace = \markup { \vspace #2 }
@@ -31,7 +31,7 @@
 \include "../parts/02-wert-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "02-wert--o_primavera_gioventu_dell’anno-prima_parte"
+    \bookOutputName "02-wert--o_primavera_gioventu_dell'anno-prima_parte"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -91,9 +91,9 @@
     \markup {
         \fill-line {
             \column {
-                \line { O primavera, gioventù dell’anno, }
-                \line { bella madre de’ fiori, }
-                \line { d’erbe novelle, e di novelli amori; }
+                \line { O primavera, gioventù dell'anno, }
+                \line { bella madre de' fiori, }
+                \line { d'erbe novelle, e di novelli amori; }
                 \line { tu torni ben, ma teco }
                 \line { Non tornano i sereni }
                 \line { e fortunati dì delle mie gioie: }
@@ -102,7 +102,7 @@
                 \line { ché del perduto mio caro tesoro }
                 \line { la rimembranza misera e dolente; }
                 \line { Tu quella sei, tu quella }
-                \line { ch’eri pur dianzi si vezzosa e bella. }
+                \line { ch'eri pur dianzi si vezzosa e bella. }
                 \line { Ma non son io già quel ch'un tempo fui, }
                 \line { sì caro a gli occhi altrui. }
             }

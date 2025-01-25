@@ -80,11 +80,11 @@
         \fill-line {
             \column {
                 \line { Deh, ferma, Amor, costui che così sciolto }
-                \line { dinanzi al lento mio correr s’affretta; }
-                \line { o tornami nel grado onde m’hai tolto }
+                \line { dinanzi al lento mio correr s'affretta; }
+                \line { o tornami nel grado onde m'hai tolto }
                 \line { quando né a te né ad altri era suggetta! }
                 \line { Deh, come è il mio sperar fallace e stolto, }
-                \line { ch’in te con prieghi mai pietà si metta; }
+                \line { ch'in te con prieghi mai pietà si metta; }
                 \line { che ti diletti, anzi ti pasci e vivi }
                 \line { di trar dagli occhi lacrimosi rivi! }
             }

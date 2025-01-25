@@ -95,10 +95,10 @@
             \column {
                 \line { Non mi è grave il morire, }
                 \line { donna, per acquetar vostro desire, }
-                \line { anzi il viver m’annoia, }
-                \line { sapendo esser voler vostro ch’io moia. }
+                \line { anzi il viver m'annoia, }
+                \line { sapendo esser voler vostro ch'io moia. }
                 \line { Ben morrei più contento, }
-                \line { s’io fossi innanzi a voi di vita spento, }
+                \line { s'io fossi innanzi a voi di vita spento, }
                 \line { e vi vedessi a sorte }
                 \line { lagrimar per pietà del -- la mia morte. }
             }

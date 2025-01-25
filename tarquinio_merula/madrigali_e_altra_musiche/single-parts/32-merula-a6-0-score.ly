@@ -112,7 +112,7 @@
                 \line { alletta gli occhi e incenerisce i cori. } 
                 \line { \vspace #0.5 } 
                 \line { E chi trescar vuol seco } 
-                \line { s’è pargoletto e cieco; } 
+                \line { s'è pargoletto e cieco; } 
                 \line { sempre pronto al ferire } 
                 \line { senza occhi o senno e non sa poi guarire. } 
                 \line { \vspace #0.5 } 

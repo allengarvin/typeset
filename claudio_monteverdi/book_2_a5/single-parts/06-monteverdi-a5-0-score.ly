@@ -98,7 +98,7 @@
                 \line { volan soavi baci a schiera a schiera. }
                 \line { E son più che alle stelle }
                 \line { in ciel puro e sereno, }
-                \line { più ch’alle gemme della terra in seno. }
+                \line { più ch'alle gemme della terra in seno. }
                 \line { \vspace #0.5 }
                 \line { Motti sonori o d'amorosi o casti, }
                 \line { tra tanti un mi negasti, }
@@ -107,9 +107,9 @@
                 \line { Amor, insidiando a baci, }
                 \line { sì come augei rapaci }
                 \line { che, sol immaginando han già rapita }
-                \line { quest’alma e questa vita. }
-                \line { Tendi l’insidie, tendi, }
-                \line { ed un’almen tra mille ardito prendi. }
+                \line { quest'alma e questa vita. }
+                \line { Tendi l'insidie, tendi, }
+                \line { ed un'almen tra mille ardito prendi. }
             }
             \column {
                 \line { Around two vermillion pretty lips, }

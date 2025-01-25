@@ -104,7 +104,7 @@
                 % light ital touchup, needs more: 2025-01-10
                 \line { Un giorno a Pale sacro }
                 \line { In un bel prato ameno, }
-                \line { Concorsero i pastori l’Arcade ninfe, }
+                \line { Concorsero i pastori l'Arcade ninfe, }
                 \line { Dei boschi e monti e delle chiare linfe }
                 \line { Fauni, Silvan, Sileno, }
                 \line { Chi cantava chi al suono, }
@@ -112,7 +112,7 @@
                 \line { Chi di bella ghirlanda facea dono }
                 \line { Al suo ben al suo sole, }
                 \line { Quando con dolci accenti, }
-                \line { Il boscareccio stuol’e i pastori, }
+                \line { Il boscareccio stuol'e i pastori, }
                 \line { Cantaro ed iterar le note i venti, }
                 \line { Viva la bella Dori. }
             }

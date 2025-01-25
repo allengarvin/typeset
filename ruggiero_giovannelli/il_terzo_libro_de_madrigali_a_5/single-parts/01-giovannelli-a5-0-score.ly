@@ -94,11 +94,11 @@
         \fill-line {
             \column {
                 \line { Cor mio, deh, non piangete }
-                \line { Ch’altro mal io non provo altro martire }
+                \line { Ch'altro mal io non provo altro martire }
                 \line { Di veder voi, voi languir del mio languire. }
-                \line { Dunque non m’offendete }
+                \line { Dunque non m'offendete }
                 \line { Se sanar mi volete }
-                \line { Che quell’affetto che pietà chiamate }
+                \line { Che quell'affetto che pietà chiamate }
                 \line { Se è dispietato a voi non è pietate. }
             }
         }

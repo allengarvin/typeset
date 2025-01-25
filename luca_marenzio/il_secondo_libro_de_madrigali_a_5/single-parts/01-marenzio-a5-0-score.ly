@@ -95,7 +95,7 @@
             \column {
                 \line { Deggio dunque partire, }
                 \line { lasso, dal mio bel sol che mi da vita? }
-                \line { Ohimè! chi mi consola e chi m’aita }
+                \line { Ohimè! chi mi consola e chi m'aita }
                 \line { in così gran martire? }
                 \line { Ahi, che partir pur deggio }
                 \line { la mia fortuna or che mi può far peggio.  }

@@ -94,14 +94,14 @@
         \fill-line {
             \column {
                  \line { Cantai un tempo e se fu dolce il canto, }
-                 \line { questo mi tacerò, ch’altri il sentiva. }
+                 \line { questo mi tacerò, ch'altri il sentiva. }
                  \line { Or è ben gionto ogni mia festa a riva }
                  \line { ed ogni mio piacer rivolto in pianto. }
                  \line { \vspace #0.5 }
                  \line { O fortunato chi raffrena in tanto }
                  \line { il suo desio: che riposato viva! }
                  \line { Di riposo e di pace il mio mi priva: }
-                 \line { così va ch’in altrui pon fede tanto. }
+                 \line { così va ch'in altrui pon fede tanto. }
             }
             \column {
                  \line { Once I sang, and though my song was sweet, }

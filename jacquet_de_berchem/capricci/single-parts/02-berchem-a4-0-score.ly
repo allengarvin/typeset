@@ -10,11 +10,11 @@
 
 \header {
     % Things that change per piece:
-    title = "Dirò d’Orlando in un medesmo tratto"
+    title = "Dirò d'Orlando in un medesmo tratto"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 2 }
     rhyme = "ABABABCC"
     poeticform = "ottava rima"
-    instrument = "Dirò d’Orlando (score)"
+    instrument = "Dirò d'Orlando (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -84,12 +84,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { Dirò d’Orlando in un medesmo tratto }
+                \line { Dirò d'Orlando in un medesmo tratto }
                 \line { cosa non detta in prosa mai né in rima: }
                 \line { che per amor venne in furore e matto, }
-                \line { d’uom che sì saggio era stimato prima; }
-                \line { se da colei che tal quasi m’ha fatto, }
-                \line { che ’l poco ingegno ad or ad or mi lima, }
+                \line { d'uom che sì saggio era stimato prima; }
+                \line { se da colei che tal quasi m'ha fatto, }
+                \line { che 'l poco ingegno ad or ad or mi lima, }
                 \line { me ne sarà però tanto concesso, }
                 \line { che mi basti a finir quanto ho promesso. }
             }

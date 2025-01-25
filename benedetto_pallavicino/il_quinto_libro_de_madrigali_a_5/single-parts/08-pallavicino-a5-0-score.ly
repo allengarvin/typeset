@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "T’amo, mia vita, la mia cara vita"
+    title = "T'amo, mia vita, la mia cara vita"
     subtitle = ""
-    instrument = "T’amo, mia vita, la mia cara vita:  (score)"
+    instrument = "T'amo, mia vita, la mia cara vita:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "tamo_mia_vita_la_mia_cara_vita"
     shortcomp = "pallavicino"
@@ -93,7 +93,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { T’amo, mia vita, la mia cara vita }
+                \line { T'amo, mia vita, la mia cara vita }
                 \line { mi dice, e in questa sola }
                 \line { sì soave parola }
                 \line { Per che trasformi lietamente il core, }
@@ -101,8 +101,8 @@
                 \line { O voce di dolcezza, e di diletto, }
                 \line { prendila tosto Amore; }
                 \line { stampala nel mio petto; }
-                \line { spiri solo per lei l’anima mia: }
-                \line { T’amo, mia vita, la mia vita sia. }
+                \line { spiri solo per lei l'anima mia: }
+                \line { T'amo, mia vita, la mia vita sia. }
             }
             \column {
                 \line { «I love you, my life!», says to me  }

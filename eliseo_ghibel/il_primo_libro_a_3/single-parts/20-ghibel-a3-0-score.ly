@@ -78,11 +78,11 @@
         \fill-line {
             \column {
                 \line { Miser chi mal oprando si confida }
-                \line { ch’ognor star debbia il maleficio occulto; }
-                \line { che quando ogn’altro taccia, intorno grida }
-                \line { l’aria e la terra istessa in ch’è sepulto: }
-                \line { e Dio fa spesso che ’l peccato guida }
-                \line { il peccator, poi ch’alcun dì gli ha indulto, }
+                \line { ch'ognor star debbia il maleficio occulto; }
+                \line { che quando ogn'altro taccia, intorno grida }
+                \line { l'aria e la terra istessa in ch'è sepulto: }
+                \line { e Dio fa spesso che 'l peccato guida }
+                \line { il peccator, poi ch'alcun dì gli ha indulto, }
                 \line { che se medesmo, senza altrui richiesta, }
                 \line { innavedutamente manifesta. }
             }

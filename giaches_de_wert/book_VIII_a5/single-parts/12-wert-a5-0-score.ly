@@ -95,12 +95,12 @@
             \column {
                 \line { Qual musico gentil prima che chiara }
                 \line { altamente la voce al canto snodi, }
-                \line { al’armonia gli animi altrui prepara }
+                \line { al'armonia gli animi altrui prepara }
                 \line { con dolci ricercate in bassi modi, }
                 \line { così costei, che nella doglia amara }
-                \line { già tutti non oblia l’arte e le frodi, }
+                \line { già tutti non oblia l'arte e le frodi, }
                 \line { fa di sospir breve concento in prima }
-                \line { per dispor l’alma in cui le voci imprima. }
+                \line { per dispor l'alma in cui le voci imprima. }
             }
             \column {
                 \line { As cunning singers, ere they strain on high }

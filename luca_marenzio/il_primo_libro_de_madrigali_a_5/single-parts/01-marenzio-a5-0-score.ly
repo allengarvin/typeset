@@ -94,7 +94,7 @@
                 % Italian reviewed, translated 2020-02-01
                 \line { Liquide perle, Amor dagli occhi sparse, }
                 \line { in premio del mio ardore, }
-                \line { ma, lasso, ohime! che’l core }
+                \line { ma, lasso, ohime! che'l core }
                 \line { di maggior foco m'arse; }
                 \line { Ahi, che bastava solo }
                 \line { a darmi morte il primo ardente duolo. }

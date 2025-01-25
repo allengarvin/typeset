@@ -95,12 +95,12 @@
             \column {
                 \line { Cinto di neve omai  }
                 \line { dolcemente ardo, ma nasconde il core }
-                \line { la dolcezza e l’ardore. }
-                \line { Solo il mio sol s’el vede }
+                \line { la dolcezza e l'ardore. }
+                \line { Solo il mio sol s'el vede }
                 \line { e miracolo il chiama, e a pena il crede. }
-                \line { Deh, mira te medesmo, e a l’hor dirai: }
-                \line { O mio bel sol, ch’è poco, }
-                \line { s’ardi un cor fra la neve al tuo bel foco. }
+                \line { Deh, mira te medesmo, e a l'hor dirai: }
+                \line { O mio bel sol, ch'è poco, }
+                \line { s'ardi un cor fra la neve al tuo bel foco. }
             }
         }
     }

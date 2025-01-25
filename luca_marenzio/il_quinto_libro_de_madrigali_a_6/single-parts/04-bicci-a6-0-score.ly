@@ -105,7 +105,7 @@
                 \line { che nettare spargete, }
                 \line { deh perché non volete }
                 \line { questi sospiri ardenti? }
-                \line { Ahi che tra loro è pur l’anima mia }
+                \line { Ahi che tra loro è pur l'anima mia }
                 \line { che baciar vi desia. }
             }
             \column {

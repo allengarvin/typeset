@@ -103,7 +103,7 @@
             \column {
                 \line { Leggiadre ninfe e pastorelli amanti }
                 \line { che con lieti sembianti }
-                \line { in questa ombrosa valle all’onde chiare }
+                \line { in questa ombrosa valle all'onde chiare }
                 \line { di vivo fonte oggi vi trasse Amore }
                 \line { a sceglier fior da fiore }
                 \line { per tesser ghirlandette e coronare }

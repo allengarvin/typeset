@@ -96,9 +96,9 @@
                 \line { Non sospirar, pastor, non lagrimare: }
                 \line { Queste lagrime amare }
                 \line { che spargi da' tuoi lumi }
-                \line { non spegneran scintilla dell’ardore, }
+                \line { non spegneran scintilla dell'ardore, }
                 \line { ove ognor ti consumi: }
-                \line { Ché s’amor dalle fiamme del tuo core }
+                \line { Ché s'amor dalle fiamme del tuo core }
                 \line { può trarre umor e venti, }
                 \line { trarrà dal pianto ancor faville ardenti. }
             }

@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Quest’arder mio"
+    title = "Quest'arder mio"
     subtitle = "Seconda parte"
     folio = \markup { Petrarca, \italic{Canzoniere} CCIII (203) }
-    instrument = "Quest’arder mio (score)"
+    instrument = "Quest'arder mio (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -81,12 +81,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { Quest’arder mio, di che vi cal sì poco, }
+                \line { Quest'arder mio, di che vi cal sì poco, }
                 \line { e i vostri honori, in mie rime diffusi, }
-                \line { ne porian infiammar fors’anchor mille: }
-                \line { ch’i’ veggio nel penser, dolce mio foco, }
+                \line { ne porian infiammar fors'anchor mille: }
+                \line { ch'i' veggio nel penser, dolce mio foco, }
                 \line { fredda una lingua et duo belli occhi chiusi }
-                \line { rimaner, dopo noi, pien’ di faville. }
+                \line { rimaner, dopo noi, pien' di faville. }
                 \line { \hspace #12 Petrarca \italic { Canzoniere } 203 }
             }
             \column {

@@ -113,7 +113,7 @@
                 \line { while it pleased my cruel fate and Heaven, }
                 \line { why do you now leave me hopeless and sad? }
                 \line { It is time to die, if my love }
-                \line { has already been made another’s. Happy death, }
+                \line { has already been made another's. Happy death, }
                 \line { if I had died while her faith still lived! }
                 \line { Her faith is dead, not changed, so that she }
                 \line { may not belong to another, if she be not mine }

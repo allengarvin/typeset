@@ -10,10 +10,10 @@
 
 \header {
     % Things that change per piece:
-    title = "Lasso, ch’i’ ardo"
+    title = "Lasso, ch'i' ardo"
     subtitle = "Prima parte"
     folio = \markup { Petrarca, \italic{Canzoniere} CCIII (203) }
-    instrument = "Lasso, ch’i’ ardo (score)"
+    instrument = "Lasso, ch'i' ardo (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -81,13 +81,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Lasso, ch’i’ ardo, et altri non me ’l crede; }
+                \line { Lasso, ch'i' ardo, et altri non me 'l crede; }
                 \line { sì crede ogni uom, se non sola colei }
-                \line { chè sovr’ogni altra, et ch’i’ sola, vorrei: }
-                \line { ella non par che ’l creda, et sì sel vede. }
+                \line { chè sovr'ogni altra, et ch'i' sola, vorrei: }
+                \line { ella non par che 'l creda, et sì sel vede. }
                 \line { Infinita bellezza et poca fede, }
-                \line { non vedete voi ’l cor ne gli occhi mei? }
-                \line { Se non fusse mia stella, i’ pur devrei }
+                \line { non vedete voi 'l cor ne gli occhi mei? }
+                \line { Se non fusse mia stella, i' pur devrei }
                 \line { al fonte di pietà trovar mercede. }
                 \line { \hspace #12 Petrarca \italic { Canzoniere } 203 }
             }

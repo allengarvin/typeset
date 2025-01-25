@@ -88,10 +88,10 @@
                 \vspace #2
                 \line { Oh troppo cara, oh troppo escelsa preda }
                 \line { per sì barbare genti e sì villane! }
-                \line { O Fortuna crudel, chi fia ch’il creda, }
+                \line { O Fortuna crudel, chi fia ch'il creda, }
                 \line { che tanta forza hai ne le cose umane, }
-                \line { che per cibo d’un mostro tu conceda }
-                \line { la gran beltà, ch’in India il Re Agricane }
+                \line { che per cibo d'un mostro tu conceda }
+                \line { la gran beltà, ch'in India il Re Agricane }
                 \line { fece venir da le caucasee porte }
                 \line { con mezza Scizia a guadagnar la morte? }
             }

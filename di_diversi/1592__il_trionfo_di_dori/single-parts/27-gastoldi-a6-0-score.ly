@@ -103,10 +103,10 @@
                 \line { Che lenti si movean tra verdi valli }
                 \line { Vaghe Ninfe e Pastori }
                 \line { Dicean con canti allegri alti e sonori }
-                \line { Che facean ribombar l’area d’intorno: }
+                \line { Che facean ribombar l'area d'intorno: }
                 \line { Felice e lieto giorno }
-                \line { Che posse Feb’ al mondo }
-                \line { a si bel’ alm’ il pondo }
+                \line { Che posse Feb' al mondo }
+                \line { a si bel' alm' il pondo }
                 \line { scesa qua giù da li celesti cori: }
                 \line { Viva la bella Dori! }
             }

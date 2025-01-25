@@ -92,13 +92,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { Del vago Mincio sull’adorne sponde }
-                \line { al mormorar dell’onde, }
+                \line { Del vago Mincio sull'adorne sponde }
+                \line { al mormorar dell'onde, }
                 \line { di fiori al verdeggiar, fido pastore }
-                \line { sospirava d’amore. }
+                \line { sospirava d'amore. }
                 \line { Pallido il volto mesto, il cor lontano }
                 \line { dal suo bel sol sovrano, }
-                \line { l’immote umide luci al ciel poi fisse, }
+                \line { l'immote umide luci al ciel poi fisse, }
                 \line { e in flebil voce disse. }
             }
         }

@@ -11,9 +11,9 @@
 \header {
     language = "italian"
     % Things that change per piece:
-    title = "L’aura che ’l verde lauro et l’aureo crine"
+    title = "L'aura che 'l verde lauro et l'aureo crine"
     subtitle = "Prima parte"
-    instrument = "L’aura che ’l verde lauro (score)"
+    instrument = "L'aura che 'l verde lauro (score)"
     folio = \markup { Petrarca, \italic{Canzoniere} CCXLVI (246) }
 
     % Unchanging:

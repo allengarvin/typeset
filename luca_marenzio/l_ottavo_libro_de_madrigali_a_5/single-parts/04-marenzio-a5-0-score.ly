@@ -111,7 +111,7 @@
                 \line { and said: «Amyntas, I love you, and may this hand }
                 \line { be a pledge of my love, of my faithfulness }
                 \line { with which I bind myself to you; and by it I swear }
-                \line { that I shall be no other’s if I am not yours». }
+                \line { that I shall be no other's if I am not yours». }
                 \line { She was silent, and her beautiful eyes, burdened with pearls, }
                 \line { became stained around with purple; }
                 \line { and the fortunate Amyntas returned to her }

@@ -89,7 +89,7 @@
                 \line { behold me Lord, with pity, }
                 \line { stop not thine ears against my cry, }
                 \line { my sad and mourning ditty, }
-                \line { Breath’d from an inward soul, }
+                \line { Breath'd from an inward soul, }
                 \line { from heart heartly contrite, }
                 \line { an offering sweet, a sacrifice, }
                 \line { in thy high heavenly sight. }

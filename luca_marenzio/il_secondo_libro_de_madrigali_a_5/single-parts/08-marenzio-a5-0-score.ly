@@ -11,9 +11,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Quando sorge l’aurora"
+    title = "Quando sorge l'aurora"
     folio = "Anonymous poet"
-    instrument = "Quando sorge l’aurora (score)"
+    instrument = "Quando sorge l'aurora (score)"
     needtranslation = #'f
     language = "italian"
 
@@ -94,13 +94,13 @@
         \fill-line {
             % translation: unsure, but it's before I started dating them. This is really straightforward though
             \column {
-                \line { Quando sorge l’aurora, }
-                \line { Ridon' l’erbette e i fiori }
+                \line { Quando sorge l'aurora, }
+                \line { Ridon' l'erbette e i fiori }
                 \line { E i pargoletti amori }
                 \line { Van con le Ninfe intorno }
                 \line { Al mio bel sole adorno, }
                 \line { Scherzando ad ora ad ora, }
-                \line { Onde la terra e’l ciel se n’innamora. }
+                \line { Onde la terra e'l ciel se n'innamora. }
             }
             \column { 
                 \line { When the dawn rises, }

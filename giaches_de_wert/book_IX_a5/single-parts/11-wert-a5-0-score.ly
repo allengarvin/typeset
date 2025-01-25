@@ -93,7 +93,7 @@
         \fill-line {
             \column {
                 \line { Or volge, Signor mio, l'undecimo anno }
-                \line { ch'i’ fui sommesso al dispietato giogo }
+                \line { ch'i' fui sommesso al dispietato giogo }
                 \line { che sopra i più soggetti è più feroce. }
                 \line { Miserere del mio non degno affanno; }
                 \line { reduci i pensier' vaghi a miglior luogo; }

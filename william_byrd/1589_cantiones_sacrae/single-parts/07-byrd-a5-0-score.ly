@@ -97,7 +97,7 @@
             }
             \column {
                 \line { But thou, O Lord, who dost not forsake those whose hope is in thee, }
-                \line { comfort and help me for thy holy name’s sake,  }
+                \line { comfort and help me for thy holy name's sake,  }
                 \line { and have mercy on me. }
                 \line { \hspace #12 CPDL translation }
             }

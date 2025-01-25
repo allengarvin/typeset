@@ -102,8 +102,8 @@
                 \line { diranno i miei lamenti; }
                 \line { \vspace #1 }
                 \line { Parlerà nel mio volto }
-                \line { la pietate e’l dolore; }
-                \line { e se fia muta ogn’altra cosa al fine }
+                \line { la pietate e'l dolore; }
+                \line { e se fia muta ogn'altra cosa al fine }
                 \line { parlerà il mio morire, }
                 \line { e ti dirà la morte il mio martire. }
             }

@@ -93,11 +93,11 @@
         \fill-line {
             \column {
                 \line { La verginella è simile alla rosa, }
-                \line { ch’in bel giardin su la nativa spina }
+                \line { ch'in bel giardin su la nativa spina }
                 \line { mentre sola e sicura si riposa, }
                 \line { né gregge né pastor se le avicina; }
-                \line { l’aura soave e l’alba rugiadosa, }
-                \line { l’acqua, la terra al suo favor s’inchina: }
+                \line { l'aura soave e l'alba rugiadosa, }
+                \line { l'acqua, la terra al suo favor s'inchina: }
                 \line { gioveni vaghi e donne inamorate }
                 \line { amano averne e seni e tempie ornate. }
             }

@@ -77,7 +77,7 @@
         \fill-line {
             \column {
                 \line { \italic { Basso solo: } }
-                \line { No, no, ch’io non mi fido }
+                \line { No, no, ch'io non mi fido }
                 \line { di tue lusinghe e risi, }
                 \line { di tuoi vezzi e sorrisi, }
                 \line { del tuo parlar infido. }
@@ -90,13 +90,13 @@
                 \line { No, no, che più non credo }
                 \line { ai detti, ai giuramenti, }
                 \line { ai sospiri, ai lamenti, }
-                \line { che finti ogn’or li vedo.  }
+                \line { che finti ogn'or li vedo.  }
                 \line { \vspace #0.5 }
                 \line { \italic { Insieme: } }
                 \line { Cangia donna pensier etc.  }
                 \line { \vspace #0.5 }
                 \line { \italic { Basso solo: } }
-                \line { Sì, sì, ch’io ti conosco; }
+                \line { Sì, sì, ch'io ti conosco; }
                 \line { Or sei lupa, or agnella, }
                 \line { or sei lampo, or sei stella, }
                 \line { col dolce mischi il tosco.  }
@@ -105,7 +105,7 @@
                 \line { Cangia donna pensier etc. }
                 \line { \vspace #0.5 }
                 \line { \italic { Canto solo: } }
-                \line { Sì, sì, ch’io t’ho provata, }
+                \line { Sì, sì, ch'io t'ho provata, }
                 \line { mentitrice, bugiarda, }
                 \line { traditrice, \auto-footnote "infingarda" \italic { "lusingarda in edizione di 1635." } }
                 \line { senza fè, sciagurata. }

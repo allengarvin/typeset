@@ -102,8 +102,8 @@
                 \line { e ricovrar quel che di me perdei. }
                 \line { Misera e tu, che per novello amore }
                 \line { perdi quel fido core, }
-                \line { ch’era più tuo che tu di te non sei. }
-                \line { Ma’l tuo già non perdo io, }
+                \line { ch'era più tuo che tu di te non sei. }
+                \line { Ma'l tuo già non perdo io, }
                 \line { perché non fu mai mio. }
             }
             \column {

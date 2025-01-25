@@ -91,12 +91,12 @@
     \markup {
         \fill-line {
             \column {
-                \line { Or volge, Signor mio, l’undecimo anno }
-                \line { ch’i’ fui sommesso al dispietato giogo }
+                \line { Or volge, Signor mio, l'undecimo anno }
+                \line { ch'i' fui sommesso al dispietato giogo }
                 \line { che sopra i più soggetti è più feroce. }
                 \line { \vspace #1 }
-                \line { ’’Miserere’’ del mio non degno affanno; }
-                \line { reduci i pensier’ vaghi a miglior luogo; }
+                \line { ''Miserere'' del mio non degno affanno; }
+                \line { reduci i pensier' vaghi a miglior luogo; }
                 \line { ramenta lor come oggi fusti in croce. }
                 \line { \hspace #12 Petrarca, \italic{Canzoniere} LXII (62) }
             }

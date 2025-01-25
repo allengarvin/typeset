@@ -113,7 +113,7 @@
                 \line { Hush, flee the empoisoned pastures, and behold your faithful }
                 \line { Lidio, who, grieving, opens his friendly arms }
                 \line { to receive you, and despises }
-                \line { the hound and the hunter’s cry. }
+                \line { the hound and the hunter's cry. }
                 \line { \hspace #10 \italic { translation by Campelli (CPDL license } } 
            }
         }

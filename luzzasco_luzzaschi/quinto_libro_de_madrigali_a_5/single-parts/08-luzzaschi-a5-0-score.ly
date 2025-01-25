@@ -93,11 +93,11 @@
     \markup {
         \fill-line {
             \column {
-                \line { Se parti i’ moro; e pur partir conviene. }
+                \line { Se parti i' moro; e pur partir conviene. }
                 \line { Morrò dunque il mio bene? }
                 \line { E questa empia partita }
                 \line { che mi ti toglie, mi torrà la vita? }
-                \line { Dolorosa partita che m’uccidi, }
+                \line { Dolorosa partita che m'uccidi, }
                 \line { quei che congiunse Amor, perché dividi? }
             }
         }

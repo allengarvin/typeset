@@ -100,7 +100,7 @@
                 \line { queste non son più lagrime d'amore, }
                 \line { sangue del l'alma è il pianto, }
                 \line { che vien dalla ferita, }
-                \line { ond'esce col dolor l’alma e la vita. }
+                \line { ond'esce col dolor l'alma e la vita. }
             }
         }
     }

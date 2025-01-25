@@ -88,11 +88,11 @@
         \fill-line {
             \column {
                 \line { Di pianger mai, mai di gridar non resta; }
-                \line { né la notte né ’l dì si dà mai pace. }
+                \line { né la notte né 'l dì si dà mai pace. }
                 \line { Fugge cittadi e borghi, e alla foresta }
                 \line { sul terren duro al discoperto giace. }
-                \line { Di sé si maraviglia ch’abbia in testa }
-                \line { una fontana d’acqua sì vivace, }
+                \line { Di sé si maraviglia ch'abbia in testa }
+                \line { una fontana d'acqua sì vivace, }
                 \line { e come sospirar possa mai tanto; }
                 \line { e spesso dice a sé così nel pianto. }
             }

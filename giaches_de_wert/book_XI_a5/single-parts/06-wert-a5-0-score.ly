@@ -96,7 +96,7 @@
                 \line { avventuroso dì, se dopo tanti }
                 \line { foschi giorni di pianti, }
                 \line { tu mi concedi Amor di veder oggi }
-                \line { ne’ begli occhi di lei }
+                \line { ne' begli occhi di lei }
                 \line { Girar sereno il sol degli occhi miei! }
             }
         }

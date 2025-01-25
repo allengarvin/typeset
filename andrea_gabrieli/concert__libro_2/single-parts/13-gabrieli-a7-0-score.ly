@@ -118,17 +118,17 @@
                 \line { e con raggion frena il desio. } 
                 \line { \vspace #0.5 } 
                 \line { Dunque raggion' ha loco } 
-                \line { in cor ch’avvampi d’amoroso foco? } 
-                \line { Sì, ch’amante che spera tace e crede } 
+                \line { in cor ch'avvampi d'amoroso foco? } 
+                \line { Sì, ch'amante che spera tace e crede } 
                 \line { è degno di pietade e di mercede. } 
                 \line { \vspace #0.5 } 
-                \line { Chi darà in questo mentre vita ha’l core? } 
+                \line { Chi darà in questo mentre vita ha'l core? } 
                 \line { \vspace #0.5 } 
                 \line { Questi occhi, questa bocca, e insieme Amore. } 
                 \line { \vspace #0.5 } 
                 \line { O fortunati amanti, } 
                 \line { siate in amar costanti: } 
-                \line { ch’un gioir senza fine è’l fin dei pianti. } 
+                \line { ch'un gioir senza fine è'l fin dei pianti. } 
             }
         }
     }

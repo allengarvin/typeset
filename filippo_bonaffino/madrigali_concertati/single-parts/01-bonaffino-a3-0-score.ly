@@ -79,10 +79,10 @@
             \column {
                 \line { Dolcissimo sospiro }
                 \line { che esci da quella bocca }
-                \line { ove d’Amor ogni dolcezza fiocca. }
+                \line { ove d'Amor ogni dolcezza fiocca. }
                 \line { Deh, vieni a raddolcire }
-                \line { l’amaro mio dolore. }
-                \line { Ecco ch’io t’apro il core. }
+                \line { l'amaro mio dolore. }
+                \line { Ecco ch'io t'apro il core. }
                 \line { Ma, solle, a chi ridico il mio martire? }
                 \line { Ad un sospir errante }
                 \line { che forse vola in seno ad altro amante. }

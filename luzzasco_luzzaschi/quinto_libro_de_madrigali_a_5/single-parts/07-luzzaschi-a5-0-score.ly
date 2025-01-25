@@ -95,10 +95,10 @@
             \column {
                 \line { Ahi cruda sorte mia, stelle spietate: }
                 \line { Seguo chi fugge, chiamo }
-                \line { chi non risponde, chi m’ha in odio bramo. }
-                \line { Così piangendo moro, e chi m’ancide, }
+                \line { chi non risponde, chi m'ha in odio bramo. }
+                \line { Così piangendo moro, e chi m'ancide, }
                 \line { del pianto mio, della mia morte, ride. }
-                \line { Dite o voi ch’ascoltate: }
+                \line { Dite o voi ch'ascoltate: }
                 \line { ha tormento maggiore }
                 \line { fra i suoi tormenti, il mio tiranno Amore? }
             }

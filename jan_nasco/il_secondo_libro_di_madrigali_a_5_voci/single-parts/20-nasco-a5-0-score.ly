@@ -97,7 +97,7 @@
                  \line { e cavallieri e damigelle, e ognuna }
                  \line { persona, o paesana o viandante, }
                  \line { che qui sua volontà meni o Fortuna; }
-                 \line { ch’all’erbe, all’ombre, all’antro, al rio, alle piante }
+                 \line { ch'all'erbe, all'ombre, all'antro, al rio, alle piante }
                  \line { dica: benigno abbiate e sole e luna, }
                  \line { e de le ninfe il coro, che proveggia }
                  \line { che non conduca a voi pastor mai greggia. }

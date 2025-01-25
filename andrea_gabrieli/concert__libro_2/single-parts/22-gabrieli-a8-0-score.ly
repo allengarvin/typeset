@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Sento, sento un rumor ch’al ciel si estolle"
+    title = "Sento, sento un rumor ch'al ciel si estolle"
     subtitle = "Prima parte della Battaglia à 8"
     folio = "Anonymous poet"
     instrument = "Sento, sento un rumor (score)"
@@ -115,14 +115,14 @@
     \markup {
         \fill-line {
             \column { 
-                \line { Sento, sento un rumor ch’al ciel si estolle }
-                \line { E turba l’aria e fa tremar la terra. }
-                \line { Quest’è’l nemico nostro, invido e folle, }
-                \line { Ch’ad or ne chiama a sanguinosa guerra, }
-                \line { E scorrendo veloce il piano e’l colle, }
+                \line { Sento, sento un rumor ch'al ciel si estolle }
+                \line { E turba l'aria e fa tremar la terra. }
+                \line { Quest'è'l nemico nostro, invido e folle, }
+                \line { Ch'ad or ne chiama a sanguinosa guerra, }
+                \line { E scorrendo veloce il piano e'l colle, }
                 \line { Preda i beni ardi i campi e i muri attera. }
-                \line { All’arme, all’arme ogn’uno, all’arme gridi, }
-                \line { E il tambur chiocchi e l’aversario sfidi. }
+                \line { All'arme, all'arme ogn'uno, all'arme gridi, }
+                \line { E il tambur chiocchi e l'aversario sfidi. }
             }
         }
     }

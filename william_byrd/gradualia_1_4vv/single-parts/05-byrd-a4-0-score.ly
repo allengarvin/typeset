@@ -99,7 +99,7 @@
                 \line { Whose pierced side  }
                 \line { flowed with water and blood. }
                 \line { Let us taste of Thee in the trial of death. }
-                \line { O sweet, O gentle, O Jesus, Mary’s Son, }
+                \line { O sweet, O gentle, O Jesus, Mary's Son, }
                 \line { Have mercy on me.  }
                 \line { Amen. }
                 \line { \hspace #10 CPDL translation }

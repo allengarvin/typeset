@@ -120,14 +120,14 @@
         \fill-line {
             \column { 
                 \line { Lieto godea sedendo }
-                \line { L’aura che tremolando }
-                \line { Dolce spira l’aprile; }
-                \line { Ogn’or sospira d’Amor ogn’animale }
+                \line { L'aura che tremolando }
+                \line { Dolce spira l'aprile; }
+                \line { Ogn'or sospira d'Amor ogn'animale }
                 \line { Con mortal dardo }
-                \line { Amor volando venn’ e’l cor mi punse }
+                \line { Amor volando venn' e'l cor mi punse }
                 \line { E lasso ahimè fugge meschino me. }
-                \line { Onde n’avrò la morte }
-                \line { S’in lieta non si cangia la mia sorte. }
+                \line { Onde n'avrò la morte }
+                \line { S'in lieta non si cangia la mia sorte. }
             }
         }
     }

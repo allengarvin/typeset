@@ -78,7 +78,7 @@
                 \line { Lord hear my voice, make it ascend }
                 \line { Unto thy throne so high. }
                 \line { Unto the voice of my request, }
-                \line { Pour’d out before thy sight, }
+                \line { Pour'd out before thy sight, }
                 \line { Lord let thine ears attentive be, }
                 \line { To hear me day and night. }
             }

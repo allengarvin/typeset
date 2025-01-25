@@ -89,7 +89,7 @@
             }
             \column {
                 \line { The gates of heaven were opened out }
-                \line { to Christ’s blessed martyr Stephen,  }
+                \line { to Christ's blessed martyr Stephen,  }
                 \line { who among the company of martyrs }
                 \line { was the first  }
                 \line { and therefore trumphant }

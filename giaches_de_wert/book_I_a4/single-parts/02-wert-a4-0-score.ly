@@ -81,11 +81,11 @@
 %                \line { Ma che non giova aver fedeli amanti, }
 %                \line { E con essi partir ogni pensiero, }
 %                \line { I desir, le paure, i risi, i pianti, }
-%                \line { E l’ira e la speranza, e ’l falso e ’l vero, }
+%                \line { E l'ira e la speranza, e 'l falso e 'l vero, }
 %                \line { Ed or con opre care, or con sembianti }
 %                \line { Il grave della vita far leggero, }
-%                \line { E se di rozz’ in att’ e ’n pensier vili, }
-%                \line { Sovra l’uso mondan vagh’ e gentili. }
+%                \line { E se di rozz' in att' e 'n pensier vili, }
+%                \line { Sovra l'uso mondan vagh' e gentili. }
 %            }
 %            \column {
 %                \line { But how could it not avail to have faithful companions, }

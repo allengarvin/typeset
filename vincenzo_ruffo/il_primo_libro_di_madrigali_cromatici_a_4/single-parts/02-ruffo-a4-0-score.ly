@@ -86,12 +86,12 @@
             \column {
                 \line { Ingiustissimo Amor, perché sì raro }
                 \line { corrispondenti fai nostri desiri? }
-                \line { onde, perfido, avvien che t’è sì caro }
-                \line { il discorde voler ch’in duo cor miri? }
+                \line { onde, perfido, avvien che t'è sì caro }
+                \line { il discorde voler ch'in duo cor miri? }
                 \line { Gir non mi lasci al facil guado e chiaro, }
                 \line { e nel più cieco e maggior fondo tiri: }
                 \line { da chi disia il mio amor tu mi richiami, }
-                \line { e chi m’ha in odio vuoi ch’adori et ami. }
+                \line { e chi m'ha in odio vuoi ch'adori et ami. }
             }
             \column {
                 \line { Injurious love, why still to mar accord }

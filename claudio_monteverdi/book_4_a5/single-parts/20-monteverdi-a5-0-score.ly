@@ -108,10 +108,10 @@
 %                \line { \vspace #3 }
 %                \line { Compare \italic { Gerusalemme liberata }, canto VII, ottava 19: }
 %                \line { Sovente, allor che su gli estivi ardori }
-%                \line { giacean le pecorelle a l’ombra assise, }
-%                \line { ne la scorza de’ faggi e de gli allori }
-%                \line { segnò l’amato nome in mille guise, }
-%                \line { e de’ suoi strani ed infelici amori }
+%                \line { giacean le pecorelle a l'ombra assise, }
+%                \line { ne la scorza de' faggi e de gli allori }
+%                \line { segnò l'amato nome in mille guise, }
+%                \line { e de' suoi strani ed infelici amori }
 %                \line { gli aspri successi in mille piante incise; }
 %                \line { e in rileggendo poi le proprie note }
 %                \line { rigò di belle lagrime le gote.  }

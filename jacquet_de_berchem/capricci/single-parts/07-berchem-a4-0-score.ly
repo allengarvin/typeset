@@ -88,11 +88,11 @@
                 \line { Sia vile agli altri, e da quel solo amata }
                 \line { a cui di sé fece sì larga copia. }
                 \line { Ah, Fortuna crudel, Fortuna ingrata! }
-                \line { trionfan gli altri, e ne moro io d’inopia. }
+                \line { trionfan gli altri, e ne moro io d'inopia. }
                 \line { Dunque esser può che non mi sia più grata? }
                 \line { dunque io posso lasciar mia vita propia? }
                 \line { Ah, più tosto oggi manchino i dì miei, }
-                \line { ch’io viva più, s’amar non debbo lei! }
+                \line { ch'io viva più, s'amar non debbo lei! }
             }
             \column {
                 \line { And be she cheap with all except the wight }

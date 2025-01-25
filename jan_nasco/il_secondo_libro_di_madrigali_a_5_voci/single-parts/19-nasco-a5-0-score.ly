@@ -99,9 +99,9 @@
                  \line { Dove la bella Angelica che nacque }
                  \line { Di Galafron, da molti invano amata, }
                  \line { Spesso ne le mie braccia nuda giacque; }
-                 \line { De la commodità che qui m’è data, }
+                 \line { De la commodità che qui m'è data, }
                  \line { Io povero Medor ricompensarvi }
-                 \line { D’altro non posso, che d’ognior lodarvi. }
+                 \line { D'altro non posso, che d'ognior lodarvi. }
             }
             \column {
                  \line { Ye pleasant plants, greene herbs, and waters faire, }

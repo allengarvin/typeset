@@ -10,12 +10,12 @@
 
 \header {
     % Things that change per piece:
-    title = "Chi narrerà l’angoscie, i pianti, i gridi"
+    title = "Chi narrerà l'angoscie, i pianti, i gridi"
     subtitle = "Angelica incathenata al sasso"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VIII ottava 66 }
     rhyme = "ABABABCC"
     poeticform = "ottava rima"
-    instrument = "Chi narrerà l’angoscie (score)"
+    instrument = "Chi narrerà l'angoscie (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -86,9 +86,9 @@
         \fill-line {
             \column {
                 \vspace #2
-                 \line { Chi narrerà l’angoscie, i pianti, i gridi, }
-                 \line { l’alta querela che nel ciel penetra? }
-                 \line { Maraviglia ho che non s’apriro i lidi, }
+                 \line { Chi narrerà l'angoscie, i pianti, i gridi, }
+                 \line { l'alta querela che nel ciel penetra? }
+                 \line { Maraviglia ho che non s'apriro i lidi, }
                  \line { quando fu posta in su la fredda pietra, }
                  \line { dove in catena, priva di sussidi, }
                  \line { morte aspettava abominosa e tetra. }

@@ -92,12 +92,12 @@
         \fill-line {
             \column {
                 \line { Cantiamo lieti il fortunato giorno }
-                \line { che strins’a un nodo sacr’almo e tenace }
+                \line { che strins'a un nodo sacr'almo e tenace }
                 \line { coppia si degna e con ardente face }
                 \line { il fe divino amor leggiadro adorno. }
-                \line { Cantiamo lieti, che già d’ogn’intorno }
-                \line { s’allegr’il cielo, l’aria e ’l vento tace, }
-                \line { e ’l bel sereno appare, e già si sface }
+                \line { Cantiamo lieti, che già d'ogn'intorno }
+                \line { s'allegr'il cielo, l'aria e 'l vento tace, }
+                \line { e 'l bel sereno appare, e già si sface }
                 \line { a tutti gli animanti un bel soggiorno. }
             }
         }

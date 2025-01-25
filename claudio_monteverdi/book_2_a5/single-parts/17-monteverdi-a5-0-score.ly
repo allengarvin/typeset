@@ -94,12 +94,12 @@
         \fill-line {
             \column {
                 \line { Crudel, perché mi fuggi? }
-                \line { S’hai della morte mia tanto desio? }
+                \line { S'hai della morte mia tanto desio? }
                 \line { Tu sei pur il cor mio? }
                 \line { Creditu per fuggire, }
                 \line { crudel farmi morire? }
                 \line { Ah! Non si può morir senza dolore }
-                \line { e doler non si po’ chi non ha core. }
+                \line { e doler non si po' chi non ha core. }
             }
             \column {
                 \line { Heartless woman, why do you avoid me }

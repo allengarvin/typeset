@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Io dico e dissi, e dirò fin ch’io viva"
+    title = "Io dico e dissi, e dirò fin ch'io viva"
     subtitle = "Seconda parte"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto XVI ottava 2 }
     poeticform = "ottava rima"
@@ -76,14 +76,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Io dico e dissi, e dirò fin ch’io viva, }
+                \line { Io dico e dissi, e dirò fin ch'io viva, }
                 \line { che chi si truova in degno laccio preso, }
                 \line { se ben di sé vede sua donna schiva, }
                 \line { se in tutto aversa al suo desire acceso; }
-                \line { se bene Amor d’ogni mercede il priva, }
-                \line { poscia che ’l tempo e la fatica ha speso; }
-                \line { pur ch’altamente abbia locato il core, }
-                \line { pianger non de’, se ben languisce e muore. }
+                \line { se bene Amor d'ogni mercede il priva, }
+                \line { poscia che 'l tempo e la fatica ha speso; }
+                \line { pur ch'altamente abbia locato il core, }
+                \line { pianger non de', se ben languisce e muore. }
             }
             \column {
                 \line { I say, I said, and, while I live, will say, }

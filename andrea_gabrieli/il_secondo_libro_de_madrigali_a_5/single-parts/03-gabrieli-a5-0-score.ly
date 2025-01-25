@@ -92,13 +92,13 @@
             \column {
                 \line { Laura soave, vita di mia vita, }
                 \line { che così dolcemente }
-                \line { all'amoroso suo foco m’invita, }
+                \line { all'amoroso suo foco m'invita, }
                 \line { con sì cara dolcezza }
-                \line { m’infiamma il cor sovente, }
+                \line { m'infiamma il cor sovente, }
                 \line { che di quel dolce ardor prendo vaghezza; }
                 \line { E sì dolce è il gioire, }
                 \line { che di dolcezza sentomi morire: }
-                \line { e ben morrò, se tosto non m’aita }
+                \line { e ben morrò, se tosto non m'aita }
                 \line { laura soave, vita di mia vita. }
             }
         }

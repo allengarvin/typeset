@@ -94,7 +94,7 @@
             % translation: 2024-05-13 unhappy with last 2 lines.
             \column {
                 \line { Ma voi, caro ben mio, }
-                \line { caso che’l corpo poca terra chiuda, }
+                \line { caso che'l corpo poca terra chiuda, }
                 \line { sarete mai sì cruda }
                 \line { di non darmi un sospir cortese e pio? }
                 \line { Fate che la mercede }

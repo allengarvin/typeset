@@ -91,13 +91,13 @@
         \fill-line {
             \column {
                 \line { Non di morte sei tu, ma di vivaci, }
-                \line { Ceneri albergo, ov’ è nascosto Amore; }
-                \line { Sento dal freddo tuo l’usate faci, }
+                \line { Ceneri albergo, ov' è nascosto Amore; }
+                \line { Sento dal freddo tuo l'usate faci, }
                 \line { Men dolci sì, ma non men calde al cuore. }
                 \line { Deh, prendi questi pianti e questi baci }
-                \line { Prendi, ch’io bagno di doglioso humore, }
-                \line { Et dagli tu, poi ch’io non posso, almeno, }
-                \line { A l'amate reliquie c’hai nel seno. }
+                \line { Prendi, ch'io bagno di doglioso humore, }
+                \line { Et dagli tu, poi ch'io non posso, almeno, }
+                \line { A l'amate reliquie c'hai nel seno. }
             }
             \column {
                 \line { Not of dead bones art thou the mournful grave, }
@@ -105,9 +105,9 @@
                 \line { Still in my heart thy wonted brand I have, }
                 \line { More bitter far, alas! but not more cold. }
                 \line { Receive these sighs, these kisses sweet receive, }
-                \line { In liquid drops of melting tears enroll’d, }
+                \line { In liquid drops of melting tears enroll'd, }
                 \line { And give them to that body pure and chaste }
-                \line { Which in thy bosom cold entomb’d thou hast. }
+                \line { Which in thy bosom cold entomb'd thou hast. }
                 \line { \hspace #12 Edward Fairfax (1600) }
             }
         }

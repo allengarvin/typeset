@@ -10,8 +10,8 @@
 
 \header {
     % Things that change per piece:
-    title = "S’andasse amor a caccia"
-    instrument = "S’andasse amor a caccia (score)"
+    title = "S'andasse amor a caccia"
+    instrument = "S'andasse amor a caccia (score)"
     needtranslation = #'f
     language = "italian"
     folio = "Torquato Tasso (1544-1595)"
@@ -90,7 +90,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { S’andasse Amor a caccia, }
+                \line { S'andasse Amor a caccia, }
                 \line { Grechin a lassa avria per suo diletto }
                 \line { e de le dame seguiria la traccia, }
                 \line { ché vago e pargoletto }
@@ -98,7 +98,7 @@
                 \line { e leggiadretto e bello. }
                 \line { Vezzosetto Grechino, }
                 \line { se pur vuol tuo destino }
-                \line { ch’egli sia cacciatore, }
+                \line { ch'egli sia cacciatore, }
                 \line { prendi costei mentre ella fugge Amore. }
             }
             \column {

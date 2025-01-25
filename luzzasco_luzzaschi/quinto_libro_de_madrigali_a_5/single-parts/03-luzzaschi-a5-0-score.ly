@@ -95,11 +95,11 @@
                 \line { Lungi da te cor mio } 
                 \line { struggomi di dolore e di desio; } 
                 \line { e a te vicino struggomi o mio core } 
-                \line { di dolcezza e d’Amore. } 
-                \line { Ma torna omai, deh torna, e se’l destino } 
-                \line { vuol ch’io mi strugga a te, lungi e vicino, } 
+                \line { di dolcezza e d'Amore. } 
+                \line { Ma torna omai, deh torna, e se'l destino } 
+                \line { vuol ch'io mi strugga a te, lungi e vicino, } 
                 \line { sfavilli e splenda la tua luce amata, } 
-                \line { ch’io n’arda e mora, e morirò beata. } 
+                \line { ch'io n'arda e mora, e morirò beata. } 
             }
         }
     }

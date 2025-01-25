@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Or ch’è tempo di dormire"
+    title = "Or ch'è tempo di dormire"
     subtitle = "Canzonetta spirituale sopra alla nanna"
-    instrument = "Or ch’è tempo di dormire: Canzonetta spirituale sopra alla nanna (score)"
+    instrument = "Or ch'è tempo di dormire: Canzonetta spirituale sopra alla nanna (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "or_che_e_tempo_di_dormire"
     shortcomp = "merula"

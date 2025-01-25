@@ -92,10 +92,10 @@
     \markup {
         \fill-line {
             \column {
-                \line { Può ben fortuna far ch’io m’allontani }
-                \line { ma non già ch’io non v’ami }
-                \line { e che voi sola i’ non sospiri e brami. }
-                \line { Vostro convien ch’io viva e vostro i’ mora }
+                \line { Può ben fortuna far ch'io m'allontani }
+                \line { ma non già ch'io non v'ami }
+                \line { e che voi sola i' non sospiri e brami. }
+                \line { Vostro convien ch'io viva e vostro i' mora }
                 \line { e dopo morte ancora }
                 \line { arderà di dolcissimo desio }
                 \line { a un sol vostro sospiro il cener mio. }

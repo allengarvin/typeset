@@ -98,16 +98,16 @@
                 \line { Donna, quel dì a vederle }
                 \line { Qual in vermiglio vel candide perle; }
                 \line { Ed io gridava agli occhi che farete, }
-                \line { Se con l’umor m’ardete? }
-                \line { Quando fra’l pianto lampeggiando un riso }
+                \line { Se con l'umor m'ardete? }
+                \line { Quando fra'l pianto lampeggiando un riso }
                 \line { Noi, dissero, in un luoco }
-                \line { Abbiamo l’acqua e’l fuoco; }
+                \line { Abbiamo l'acqua e'l fuoco; }
                 \line { Ma col fuoco immerghiamo }
-                \line { E con l’acqua abbruciamo; }
-                \line { Perchè abbagli l’amante, e si confonda }
-                \line { Fra le fiamme e fra l’onda; }
+                \line { E con l'acqua abbruciamo; }
+                \line { Perchè abbagli l'amante, e si confonda }
+                \line { Fra le fiamme e fra l'onda; }
                 \line { Nè fia forza mortal che si difendo, }
-                \line { Ove il fuoco sommerga, e l’acqua incenda. }
+                \line { Ove il fuoco sommerga, e l'acqua incenda. }
             }
         }
     }

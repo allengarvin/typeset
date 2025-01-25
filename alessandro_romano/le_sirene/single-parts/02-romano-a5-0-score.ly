@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Allor ch’io senti’l cor dentro, e d’intorno"
+    title = "Allor ch'io senti'l cor dentro, e d'intorno"
     subtitle = "Seconda parte"
-    instrument = "Allor ch’io senti’l cor dentro (score)"
+    instrument = "Allor ch'io senti'l cor dentro (score)"
     needtranslation = #'t
     language = "italian"
     folio = "Pietro Barignano (d.1550)"
@@ -92,12 +92,12 @@
         \fill-line {
             \column {
                 \vspace #5
-                \line { Allor ch’io senti’l cor dentro, e d’intorno }
+                \line { Allor ch'io senti'l cor dentro, e d'intorno }
                 \line { Di fiamma viva, e di catene salde }
                 \line { Acceso, e cinto, perché pur sempre ami. }
                 \vspace #1
                 \line { Una man bianca, ed un bel viso adorno }
-                \line { Vuol che m’allacci Amor, vuol che mi scalde: }
+                \line { Vuol che m'allacci Amor, vuol che mi scalde: }
                 \line { Dolce mio foco, e miei cari legami! }
             }
         }

@@ -94,7 +94,7 @@
             \column {
                 \line { Forsennata gridava: O tu che porte }
                 \line { parte teco di me, parte ne lassi, }
-                \line { o prendi l’una o rendi l’altra, o morte }
+                \line { o prendi l'una o rendi l'altra, o morte }
                 \line { dà insieme ad ambe: arresta i passi, }
                 \line { sol che ti sian le voci ultime porte; }
                 \line { non dico i baci, altra più degna avrassi }

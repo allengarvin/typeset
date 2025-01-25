@@ -98,7 +98,7 @@
                 \line { Today he, keeper of the keys of the kingdom,  }
                 \line { departed hence with joy to Christ. }
                 \line { Today did the Apostle Paul, the light of the whole world,  }
-                \line { bow his head, and for Christ’s Name’s sake }
+                \line { bow his head, and for Christ's Name's sake }
                 \line { receive the crown of his martyrdom.  }
                 \line { Alleluia. }
                 \line { \hspace #12 CPDL translation }

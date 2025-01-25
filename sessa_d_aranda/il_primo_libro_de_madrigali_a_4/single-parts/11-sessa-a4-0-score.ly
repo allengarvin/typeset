@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Pensoso più d’un’ora a capo basso"
+    title = "Pensoso più d'un'ora a capo basso"
     subtitle = ""
-    instrument = "Pensoso più d’un’ora a capo basso:  (score)"
+    instrument = "Pensoso più d'un'ora a capo basso:  (score)"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 40 }
@@ -33,7 +33,7 @@
 \include "../parts/11-sessa-a4-madrigal.ly"
 
 \book {
-    \bookOutputName "11-sessa--pensoso_piu_d’un’ora_a_capo_basso-"
+    \bookOutputName "11-sessa--pensoso_piu_d'un'ora_a_capo_basso-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -85,14 +85,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Pensoso più d’un’ora a capo basso }
+                \line { Pensoso più d'un'ora a capo basso }
                 \line { stette, Signore, il cavallier dolente; }
                 \line { poi cominciò con suono afflitto e lasso }
                 \line { a lamentarsi sì soavemente, }
-                \line { ch’avrebbe di pietà spezzato un sasso, }
+                \line { ch'avrebbe di pietà spezzato un sasso, }
                 \line { una tigre crudel fatta clemente. }
-                \line { Sospirando piangea, tal ch’un ruscello }
-                \line { parean le guancie, e ’l petto un Mongibello. }
+                \line { Sospirando piangea, tal ch'un ruscello }
+                \line { parean le guancie, e 'l petto un Mongibello. }
             }
             \column {
                 \line { Pensive, above an hour, with drooping head, }

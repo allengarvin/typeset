@@ -96,10 +96,10 @@
             \column {
                 \line { Io partirò, ma il core } 
                 \line { si resterà nel vostro volto divo; } 
-                \line { si che s’io resto vivo } 
-                \line { sarà certo miracolo d’Amore. } 
-                \line { Ma tale è’l mio tormento } 
-                \line { ch’io penserò restar di vita spento. } 
+                \line { si che s'io resto vivo } 
+                \line { sarà certo miracolo d'Amore. } 
+                \line { Ma tale è'l mio tormento } 
+                \line { ch'io penserò restar di vita spento. } 
             }
             \column {
                 \line { I shall depart, but my heart }

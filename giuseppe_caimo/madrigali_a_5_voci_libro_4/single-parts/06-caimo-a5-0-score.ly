@@ -86,11 +86,11 @@
         \fill-line {
             \column {
                 \line { Thirsi morir volea }
-                \line { Gli occhi mirando di colei ch’adoro }
-                \line { Ond’ ella che di lui non meno ardea }
+                \line { Gli occhi mirando di colei ch'adoro }
+                \line { Ond' ella che di lui non meno ardea }
                 \line { Gli disse: Ohimè ben mio, }
                 \line { Deh non morir anchora }
-                \line { Che teco bramo di morir anch’io. }
+                \line { Che teco bramo di morir anch'io. }
                 \line { Frenò Thirsi il desio  }
                 \line { C'havea di più sua vita allor finire, }
                 \line { E senti morte e non potea morire. }

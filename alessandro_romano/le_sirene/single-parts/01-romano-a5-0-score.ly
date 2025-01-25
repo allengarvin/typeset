@@ -94,11 +94,11 @@
                 \vspace #5
                 \line { Io gia cantando la mia libertate }
                 \line { I lacci rotti, e le faville spente, }
-                \line { Di che m’arse, e legò sì fieramente }
+                \line { Di che m'arse, e legò sì fieramente }
                 \line { Donna gentil, ma nuda di pietate. }
                 \vspace #1
                 \line { E dicea meco: Or qual nova beltate }
-                \line { Stringerà me d’un nodo si possente, }
+                \line { Stringerà me d'un nodo si possente, }
                 \line { Che non mi scioglia? e di che face ardente }
                 \line { Strugger potrà le mie voglie gelate? }
             }

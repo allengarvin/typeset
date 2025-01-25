@@ -86,7 +86,7 @@
             \column {
                 \line { Occhi lucenti assai più che le stelle }
                 \line { Riguarda omai il tuo servo fidele. }
-                \line { Deh, non esser crudele e non voler ch’io mora: }
+                \line { Deh, non esser crudele e non voler ch'io mora: }
                 \line { Basciami, vita mia, bacciami ancora. }
             }
         }

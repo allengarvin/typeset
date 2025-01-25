@@ -97,9 +97,9 @@
                 \line { di parole amorose }
                 \line { che mi legò da scherzo e non mi scioglie. }
                 \line { Così egli dunque scherza e così coglie? }
-                \line { Così l’alme legate }
+                \line { Così l'alme legate }
                 \line { sono ne le catene insidiose? }
-                \line { Almen chi si m’allaccia, }
+                \line { Almen chi si m'allaccia, }
                 \line { mi leghi ancor fra quelle dolci braccia. }
             }
             \column {

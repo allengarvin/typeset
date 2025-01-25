@@ -88,11 +88,11 @@
         \fill-line {
             \column {
                 \line { Come la notte ogni fiammella è viva, }
-                \line { e riman spenta subito ch’aggiorna; }
+                \line { e riman spenta subito ch'aggiorna; }
                 \line { così, quando il mio sol di sé mi priva, }
                 \line { mi leva incontra il rio timor le corna: }
-                \line { ma non sì tosto all’orizzonte arriva, }
-                \line { che ’l timor fugge, e la speranza torna. }
+                \line { ma non sì tosto all'orizzonte arriva, }
+                \line { che 'l timor fugge, e la speranza torna. }
                 \line { Deh torna a me, deh torna, o caro lume, }
                 \line { e scaccia il rio timor che mi consume! }
             }

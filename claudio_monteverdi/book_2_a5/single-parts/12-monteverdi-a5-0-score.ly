@@ -96,10 +96,10 @@
                 \line { Mentre io mirava fisso }
                 \line { de la mia Donna gli occhi ardenti e belli, }
                 \line { due vaghi spiritelli }
-                \line { fiammeggiando n’usciro all’improvviso, }
+                \line { fiammeggiando n'usciro all'improvviso, }
                 \line { e leggiadretti e snelli, }
                 \line { facendo mille scherzi e mille giri, }
-                \line { mille fughe d’intorno }
+                \line { mille fughe d'intorno }
                 \line { e mille agguati dentro al seno adorno, }
                 \line { mi trassero dal cor mille sospiri, }
                 \line { onde con dolci ed amorosi lai, }

@@ -10,12 +10,12 @@
 
 \header {
     % Things that change per piece:
-    title = "Mentre costui così s’affligge e duole"
+    title = "Mentre costui così s'affligge e duole"
     subtitle = "Seguita Sacripante lagrimando"
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 48 }
     rhyme = "ABABABCC"
     poeticform = "ottava rima"
-    instrument = "Mentre costui così s’affligge (score)"
+    instrument = "Mentre costui così s'affligge (score)"
     language = "italian"
     needtranslation = #'f
 
@@ -85,14 +85,14 @@
     \markup {
         \fill-line {
             \column {
-                \line { Mentre costui così s’affligge e duole, }
+                \line { Mentre costui così s'affligge e duole, }
                 \line { e fa degli occhi suoi tepida fonte, }
                 \line { e dice queste e molte altre parole, }
                 \line { che non mi par bisogno esser racconte; }
-                \line { l’aventurosa sua fortuna vuole }
-                \line { ch’alle orecchie d’Angelica sian conte: }
-                \line { e così quel ne viene a un’ora, a un punto, }
-                \line { ch’in mille anni o mai più non è raggiunto. }
+                \line { l'aventurosa sua fortuna vuole }
+                \line { ch'alle orecchie d'Angelica sian conte: }
+                \line { e così quel ne viene a un'ora, a un punto, }
+                \line { ch'in mille anni o mai più non è raggiunto. }
             }
             \column {
                 \line { While Sacripant laments him in this plight, }

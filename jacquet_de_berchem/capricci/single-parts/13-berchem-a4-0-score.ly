@@ -86,13 +86,13 @@
         \fill-line {
             \column {
                 \line { Ma che mi possi nuocere non veggio, }
-                \line { più di quel che sin qui nociuto m’hai. }
+                \line { più di quel che sin qui nociuto m'hai. }
                 \line { Per te cacciata son del real seggio, }
                 \line { dove più ritornar non spero mai: }
-                \line { ho perduto l’onor, ch’è stato peggio; }
+                \line { ho perduto l'onor, ch'è stato peggio; }
                 \line { che, se ben con effetto io non peccai, }
-                \line { io do però materia ch’ognun dica }
-                \line { ch’essendo vagabonda io sia impudica. }
+                \line { io do però materia ch'ognun dica }
+                \line { ch'essendo vagabonda io sia impudica. }
             }
             \column {
                 \line { But what worse torment yet remains in store }

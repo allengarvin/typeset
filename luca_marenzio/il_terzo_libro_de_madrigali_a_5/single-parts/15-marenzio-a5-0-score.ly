@@ -94,10 +94,10 @@
             \column {
                 \line { Piagge, erbe, fiori, augelli, aure feconde }
                 \line { novo ardor, novo tempo amata Aurora, }
-                \line { non fia mai ch’io per voi cangi desire. }
+                \line { non fia mai ch'io per voi cangi desire. }
                 \line { Volto a le stelle poi, siate seconde, }
                 \line { umile, disse, a questo; e accennò allora }
-                \line { un lauro per cui sol par ch’ei respiri. }
+                \line { un lauro per cui sol par ch'ei respiri. }
             }
         }
     }

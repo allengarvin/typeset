@@ -94,11 +94,11 @@
             \column {
                 \line { Ridean già per le piagge erbette e fiori, }
                 \line { e garir cominciava ogni augelletto, }
-                \line { co’i baci e co’i sospir Favonio e Clori }
-                \line { ebre l’alme rendean d’alto diletto; }
+                \line { co'i baci e co'i sospir Favonio e Clori }
+                \line { ebre l'alme rendean d'alto diletto; }
                 \line { sentia destarsi a disusati ardori: }
                 \line { al tempo novo ogni più nobil petto, }
-                \line { allor ch’a lo spuntar dei freschi albori }
+                \line { allor ch'a lo spuntar dei freschi albori }
                 \line { così parlò Damon con puro affetto. }
             }
         }

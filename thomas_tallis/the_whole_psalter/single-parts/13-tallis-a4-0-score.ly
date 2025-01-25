@@ -92,7 +92,7 @@
     \markup {
         \fill-line {
             \column {
-                \smaller\line { 1. Why bragg’st in malice high? }
+                \smaller\line { 1. Why bragg'st in malice high? }
                 \smaller\line { O thou in mischief stout; }
                 \smaller\line { God's goodness yet is nigh, }
                 \smaller\line { all day to me, no doubt. }

@@ -95,9 +95,9 @@
                 \line { Invido fiume a miei desir rubello, }
                 \line { deh! perché il vago e bello }
                 \line { specchio del volto della Ninfa mia }
-                \line { m’ascondi? Ahi! sorte ria! }
+                \line { m'ascondi? Ahi! sorte ria! }
                 \line { E languendo il pastor pietosi accenti, }
-                \line { risonar l’ond’e i venti: }
+                \line { risonar l'ond'e i venti: }
                 \line { deh, vieni Silvia, vieni a darmi aita }
                 \line { con tua beltà infinita. }
             }
