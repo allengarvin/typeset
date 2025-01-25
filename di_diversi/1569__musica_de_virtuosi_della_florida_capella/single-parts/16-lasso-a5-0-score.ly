@@ -30,6 +30,7 @@
     flats = 1
     final = "g"
     categories = "[madrigal,furioso]"
+    motifs = "[envy,amore,angelica,tardiness]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -97,25 +98,28 @@
     \markup {
         \fill-line {
             \column {
-                \line { Pensier, dicea, che’l cor m’aggiacci et ardi, }
-                \line { e causi il duol che sempre il rode e lima, }
-                \line { che debbo far, poi ch’io son giunto tardi, }
-                \line { e ch’altri a corre il frutto è andato prima? }
-                \line { a pena avuto io n’ho parole e sguardi, }
-                \line { et altri n’ha tutta la spoglia opima. }
+                \line { «Pensier», dicea, «che'l cor m'aggiacci ed ardi, }
+                \line { e causi il duol che sempre il rode e lima: }
+                \line { che debbo far, poich'io son giunto tardi, }
+                \line { e ch'altri a corre il frutto è andato prima? }
+                \line { A pena avuto io n'ho parole e sguardi, }
+                \line { ed altri n'ha tutta la spoglia opima. }
                 \line { Se non ne tocca a me frutto né fiore, }
-                \line { perché affligger per lei mi vuo’ più il core? }
+                \line { perché affligger per lei mi vuo' più il core?» }
             }
-            \column {
-                \line { Thought which now makes me burn, now freeze with hate, }
-                \line { Which gnaws my heart and rankles at its root! }
-                \line { What’s left to me,” he said, “arrived too late, }
-                \line { While one more favoured bears away the fruit? }
-                \line { Bare words and looks scarce cheered my hopeless state, }
-                \line { And the prime spoils reward another’s suit. }
-                \line { Then since for me nor fruit nor blossom hangs, }
-                \line { Why should I longer pine in hopeless pangs? }
-                \line { \hspace #12 William Rose (1775-1843) }
+           \column {
+               % translation orig date:
+               % translation updated:
+               % SKIP. master copy on Orlando di Lasso 1587 madrigali
+                \line { 'Thoughts,' he said, 'which make my heart freeze and burn, }
+                \line { and cause the pain that always gnaws and wears it away, }
+                \line { what must I do, since I arrived late, }
+                \line { and since others chase first for the fruit? }
+                \line { For my pain, I have but scant words or glances, }
+                \line { and others have all the rich spoils. }
+                \line { If neither fruit nor flower belong to me, }
+                \line { why do I wish to afflict my heart yet for her?' }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
