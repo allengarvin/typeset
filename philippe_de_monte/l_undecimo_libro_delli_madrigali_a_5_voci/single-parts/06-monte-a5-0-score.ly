@@ -11,6 +11,8 @@
 \header {
     lastupdated = "2025-01-24"
     originallyset = "2025-01-24"
+    flats = 0
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Donna, se ben le chiome ho già ripiene"
@@ -21,7 +23,7 @@
     shorttitle = "donna_se_ben_le_chiome_ho_gia_ripiene"
     shortcomp = "monte"
     categories = "[madrigal]"
-    motifs = "[hair,etna,beauty,amore]"
+    motifs = "[hair,etna,beauty,amore,paradox]"
     needtranslation = #'t
     folio = "Torquato Tasso (1544-1595)"
 
