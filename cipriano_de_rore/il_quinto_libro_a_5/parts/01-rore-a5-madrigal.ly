@@ -16,20 +16,20 @@
 % Fan risonar Ottavio e Margherita
 
 %Mentre, lumi maggior de secol nostro
-%Sotto’l Belgico ciel porge la luce
-%Al carro ch’a l’oprar e al sonno induce,
+%Sotto'l Belgico ciel porge la luce
+%Al carro ch'a l'oprar e al sonno induce,
 %Nova Delia et Apol, lo splendor vostro;
 %
-%E mentr’il santo amor fra l’oro e l’ostro
+%E mentr'il santo amor fra l'oro e l'ostro
 %Da le perle e i robini al cor traluce
-%Et a l’alto gioir vi riconduce,
-%Cui non cape pensier nè adombr’inchiostro.
+%Et a l'alto gioir vi riconduce,
+%Cui non cape pensier nè adombr'inchiostro.
 %
-%Le caste nimphe su l’erbose sponde
+%Le caste nimphe su l'erbose sponde
 %De la Trebia e del Taro in negro manto
-%Doglionsi d’ogni lor gloria sparita, 
+%Doglionsi d'ogni lor gloria sparita, 
 %E colme di desir vaghe di pianto
-%Tra mestissimi accenti e gli antri e l’onde
+%Tra mestissimi accenti e gli antri e l'onde
 %Fan risonar Ottavio e Margherita.
 
 

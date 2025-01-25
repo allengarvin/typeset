@@ -51,7 +51,7 @@ cantoLyricsXIV = \lyricmode {
     Vez -- zo -- si~au -- gel -- li in -- fra __ le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra e fa e fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra e fa e fa le fo -- glie~e l'on -- de
         e l'on -- de
     Gar -- rir __  
     Gar -- rir __ che va -- ria -- men -- te~el -- la per -- co -- te
@@ -127,7 +127,7 @@ altoLyricsXIV = \lyricmode {
         in -- fra le ver -- di fron -- de __
     Tem -- pra -- no~a pro -- va
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra e fa e fa le fo -- glie e l’on -- de
+    Mor -- mo -- ra l'au -- ra e fa e fa le fo -- glie e l'on -- de
     Gar -- rir __  
     Gar -- rir __ che va -- ria -- men -- te~el -- la per -- co -- te
     Quan -- do tac -- cion gli~au -- gel -- li __ al -- to ri -- spon -- de
@@ -196,7 +196,7 @@ tenoreLyricsXIV = \lyricmode {
          in -- fra le ver -- di fron -- de
          in -- fra le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra~e fa e fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra~e fa e fa le fo -- glie~e l'on -- de
     Gar -- rir __  
     Gar -- rir __ che va -- ria -- men -- te~el -- la per -- co -- te
     Quan -- do tac -- cion gli~au -- gel -- li al -- to ri -- spon -- de
@@ -263,7 +263,7 @@ bassoXIV = \relative c' {
 bassoLyricsXIV = \lyricmode {
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
         la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra e fa e fa le fo -- glie~e l’on -- de,
+    Mor -- mo -- ra l'au -- ra e fa e fa le fo -- glie~e l'on -- de,
     Gar -- rir __  
     Gar -- rir __ che va -- ria -- men -- te~el -- la per -- co -- te,
     Quan -- do tac -- cion gli~au -- gel -- li al -- to ri -- spon -- de
@@ -283,7 +283,7 @@ bassoLyricsXIV = \lyricmode {
 
 % Vezzosi augelli infra le verdi fronde
 % Temprano a prova lascivette note
-% Mormora l’aura e fa le foglie e l’onde
+% Mormora l'aura e fa le foglie e l'onde
 % Garrir, che variamente ella percote
 % Quando taccion gli augelli, alto risponde;
 % Quando cantan gli augei, più lieve scote.

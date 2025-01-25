@@ -1,11 +1,11 @@
 % Ecco l'aurora con l'aurata fronte,
 % che a passo a passo ci rimena il giorno;
-% Ecco che spunta sopra l’orizonte
+% Ecco che spunta sopra l'orizonte
 % col volto suo di bianca neve adorno;
 % Ecco la notte ne l'adverso monte,
 % che va fuggendo al suo antico soggiorno:
 % Ed io pur piango all' apparir de l'alba,
-% ch'omai d’intorno l'aere tutto inalba.
+% ch'omai d'intorno l'aere tutto inalba.
 % Quirino
 
 cantoXVincipit = \relative c'' {
@@ -49,7 +49,7 @@ cantoLyricsXV = \lyricmode {
     ec -- co l'au -- ro -- ra con __ l'au -- ra -- ta fron -- te,
     Ch'a pas -- so~a pas -- so,
     ch'a pas -- so~a pas -- so ci ri -- me -- n'il gior -- no;
-    Ec -- co che spun -- ta so -- pra l’o -- ri -- zon -- te
+    Ec -- co che spun -- ta so -- pra l'o -- ri -- zon -- te
     Col vol -- to suo di bian -- ca ne -- ve~a -- dor -- no,
     col vol -- to suo di bian -- ca ne -- ve~a -- dor -- no;
 
@@ -58,9 +58,9 @@ cantoLyricsXV = \lyricmode {
     Che va fug -- gen -- do,
     che va fug -- gen -- d'al suo~an -- ti -- co sog -- gior -- no:
     Ed __ io pur pian -- go~al -- l'ap -- pa -- rir de l'al -- ba,
-    Ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
-    ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
-    ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba.
+    Ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
+    ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
+    ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba.
 
 }
 
@@ -104,7 +104,7 @@ altoLyricsXV = \lyricmode {
     ec -- co l'au -- ro -- ra con l'au -- ra -- ta fron -- te,
     Ch'a pas -- so~a pas -- so ci ri -- me -- n'il gior -- no,
         ci ri -- me -- n'il gior -- no;
-    Ec -- co che spun -- ta so -- pra l’o -- ri -- zon -- te
+    Ec -- co che spun -- ta so -- pra l'o -- ri -- zon -- te
     Col vol -- to suo di bian -- ca ne -- ve~a -- dor -- no,
     col vol -- to suo di bian -- ca ne -- ve~a -- dor -- no;
 
@@ -113,9 +113,9 @@ altoLyricsXV = \lyricmode {
     Che va fug -- gen -- d'al suo~an -- ti -- co sog -- gior -- no,
         al suo~an -- ti -- co sog -- gior -- no:
     Ed io pur pian -- go~al -- l'ap -- pa -- rir de l'al -- ba,
-    Ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
-    ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
-    ch'o -- mai d’in -- tor -- no __ l'ae -- re tut -- to~i -- nal -- ba.
+    Ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
+    ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
+    ch'o -- mai d'in -- tor -- no __ l'ae -- re tut -- to~i -- nal -- ba.
 }
 
 tenoreXVincipit = \relative c' {
@@ -155,7 +155,7 @@ tenoreLyricsXV = \lyricmode {
         con __ l'au -- ra -- ta fron -- te,
     Ch'a pas -- so~a pas -- so ci ri -- me -- n'il gior -- no;
     ch'a pas -- so~a pas -- so,
-    Ec -- co che spun -- ta so -- pra l’o -- ri -- zon -- te
+    Ec -- co che spun -- ta so -- pra l'o -- ri -- zon -- te
     Col vol -- to suo di bian -- ca ne -- ve~a -- dor -- no; __
 
     Ec -- co la not -- te ne __ l'ad -- ver -- so mon -- te,
@@ -163,8 +163,8 @@ tenoreLyricsXV = \lyricmode {
     Che va fug -- gen -- d'al suo~an -- ti -- co sog -- gior -- no:
     che va fug -- gen -- do
     Ed __ io pur pian -- go~al -- l'ap -- pa -- rir de l'al -- ba,
-    Ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
-    ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba.
+    Ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
+    ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba.
 }
 
 bassoXVincipit = \relative c {
@@ -200,14 +200,14 @@ bassoXV = \relative c {
 bassoLyricsXV = \lyricmode {
     Ec -- co l'au -- ro -- ra con l'au -- ra -- ta fron -- te,
     Ch'a pas -- so~a pas -- so ci ri -- me -- n'il gior -- no;
-    Ec -- co che spun -- ta so -- pra l’o -- ri -- zon -- te
+    Ec -- co che spun -- ta so -- pra l'o -- ri -- zon -- te
     Col vol -- to suo di bian -- ca ne -- ve~a -- dor -- no;
 
     Ec -- co la not -- te ne __ l'ad -- ver -- so mon -- te,
     che va fug -- gen -- d'al suo~an -- ti -- co sog -- gior -- no:
     Ed __ io pur pian -- go~al -- l'ap -- pa -- rir de l'al -- ba,
-    Ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
-    ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba.
+    Ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
+    ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba.
 }
 
 quintoXVincipit = \relative c' {
@@ -248,7 +248,7 @@ quintoLyricsXV = \lyricmode {
     Ec -- co l'au -- ro -- ra con l'au -- ra -- ta fron -- te, __
     Ch'a pas -- so~a pas -- so ci ri -- me -- n'il gior -- no,
     ch'a pas -- so~a pas -- so ci ri -- me -- n'il gior -- no;
-    Ec -- co che spun -- ta so -- pra l’o -- ri -- zon -- te
+    Ec -- co che spun -- ta so -- pra l'o -- ri -- zon -- te
     Col vol -- to suo di bian -- ca ne -- ve~a -- dor -- no,
     col vol -- to suo di bian -- ca ne -- ve a -- dor -- no;
 
@@ -256,9 +256,9 @@ quintoLyricsXV = \lyricmode {
     Che va fug -- gen -- do al suo~an -- ti -- co sog -- gior -- no,
     che va fug -- gen -- do~al suo~an -- ti -- co sog -- gior -- no:
     Ed io pur pian -- go~al -- l'ap -- pa -- rir de l'al -- ba,
-    Ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
-    ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to i -- nal -- ba, __
-    ch'o -- mai d’in -- tor -- no l'ae -- re tut -- to i -- nal -- ba.
+    Ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to~i -- nal -- ba,
+    ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to i -- nal -- ba, __
+    ch'o -- mai d'in -- tor -- no l'ae -- re tut -- to i -- nal -- ba.
 }
 
 cantoXVincipitVoice = <<

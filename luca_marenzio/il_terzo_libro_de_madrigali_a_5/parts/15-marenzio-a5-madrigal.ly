@@ -1,9 +1,9 @@
 % Piagge, erbe, fiori, augelli, aure feconde
 % novo ardor, novo tempo amata Aurora,
-% non fia mai ch’io per voi cangi desire.
+% non fia mai ch'io per voi cangi desire.
 % Volto a le stelle poi, siate seconde,
 % umile, disse, a questo; e accennò allora
-% un lauro per cui sol par ch’ei respiri.
+% un lauro per cui sol par ch'ei respiri.
 
 cantoXVincipit = \relative c'' {
     \time 4/4
@@ -43,15 +43,15 @@ cantoLyricsXV = \lyricmode {
     piag -- ge, er -- be, fio -- ri, au -- gel -- li~au -- re, __
         au -- re __ fe -- con -- de
     No -- vo~ar -- dor,
-    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t’Au -- ro -- ra, __
-    Non fia mai ch’io per voi can -- gi de -- si -- re,
+    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t'Au -- ro -- ra, __
+    Non fia mai ch'io per voi can -- gi de -- si -- re,
         can -- gi de -- si -- re.
     Vol -- to~a le stel -- le poi, sia -- te se -- con -- de,
     U -- mi -- le dis -- se, a que -- sto; e~ac -- cen -- nò~al -- lo -- ra,
         e~ac -- cen -- nò~al -- lo -- ra
-    Un lau -- ro per cui sol par ch’ei re -- spi -- ri,
-        ch’ei re -- spi -- ri,
-        ch’ei re -- spi -- ri.
+    Un lau -- ro per cui sol par ch'ei re -- spi -- ri,
+        ch'ei re -- spi -- ri,
+        ch'ei re -- spi -- ri.
 }
 
 altoXVincipit = \relative c'' {
@@ -90,12 +90,12 @@ altoLyricsXV = \lyricmode {
     Piag -- ge, er -- be, fio -- ri,
     piag -- ge, er -- be, fio -- ri, au -- gel -- li~au -- re __ fe -- con -- de
     No -- vo~ar -- dor,
-    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t’Au -- ro -- ra,
+    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t'Au -- ro -- ra,
     Non fia mai,
     \ijLyrics
     non fia mai,
     \normalLyrics
-    non fia mai ch’io per voi can -- gi de -- si -- re.
+    non fia mai ch'io per voi can -- gi de -- si -- re.
     Vol -- to~a le stel -- le poi,
     vol -- to~a le stel -- le poi, 
     U -- mi -- le dis -- se, 
@@ -104,8 +104,8 @@ altoLyricsXV = \lyricmode {
         a que -- sto; __ e~ac -- cen -- nò~al -- lo -- ra,
     un lau -- ro per cui sol par,
             per cui sol par,
-        ch’ei re -- spi -- ri,
-        ch’ei re -- spi -- ri.
+        ch'ei re -- spi -- ri,
+        ch'ei re -- spi -- ri.
 }
 
 tenoreXVincipit = \relative c' {
@@ -145,9 +145,9 @@ tenoreLyricsXV = \lyricmode {
     Piag -- ge, er -- be, fio -- ri, au -- gel -- li,
         au -- gel -- li~au -- re fe -- con -- de,
     No -- vo~ar -- dor,
-    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t’Au -- ro -- ra,
-    Non fia mai ch’io per voi can -- gi de -- si -- re,
-    non fia mai ch’io per voi can -- gi de -- si -- re.
+    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t'Au -- ro -- ra,
+    Non fia mai ch'io per voi can -- gi de -- si -- re,
+    non fia mai ch'io per voi can -- gi de -- si -- re.
     Vol -- to~a le stel -- le poi,
     \ijLyrics
     vol -- to~a le stel -- le poi,
@@ -158,9 +158,9 @@ tenoreLyricsXV = \lyricmode {
     \normalLyrics
         e~ac -- cen -- nò~al -- lo -- ra,
     Un lau -- ro per cui sol par,
-        per cui sol par ch’ei re -- spi -- ri,
-        ch’ei re -- spi -- ri,
-        ch’ei re -- spi -- ri.
+        per cui sol par ch'ei re -- spi -- ri,
+        ch'ei re -- spi -- ri,
+        ch'ei re -- spi -- ri.
 }
 
 bassoXVincipit = \relative c' {
@@ -198,16 +198,16 @@ bassoLyricsXV = \lyricmode {
     Piag -- ge, er -- be, fio -- ri, au -- gel -- li,
         au -- gel -- li~au -- re fe -- con -- de
     No -- vo~ar -- dor,
-    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t’Au -- ro -- ra,
-    Non fia mai ch’io per voi can -- gi de -- si -- re,
-    non fia mai ch’io per voi can -- gi de -- si -- re.
+    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t'Au -- ro -- ra,
+    Non fia mai ch'io per voi can -- gi de -- si -- re,
+    non fia mai ch'io per voi can -- gi de -- si -- re.
     Vol -- to~a le stel -- le poi,
     vol -- to~a le stel -- le poi,
         a que -- sto,
         a que -- sto; e~ac -- cen -- nò~al -- lo -- ra
     Un lau -- ro per cui sol par,
-        per cui sol par ch’ei re -- spi -- ri,
-        ch’ei re -- spi -- ri.
+        per cui sol par ch'ei re -- spi -- ri,
+        ch'ei re -- spi -- ri.
 }
 
 quintoXVincipit = \relative c'' {
@@ -246,15 +246,15 @@ quintoLyricsXV = \lyricmode {
     Piag -- ge, er -- be, fio -- ri~au -- gel -- li,
         au -- gel -- li au -- re __ fe -- con -- de
     No -- vo~ar -- dor,
-    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t’Au -- ro -- ra,
-    Non fia mai ch’io per voi can -- gi de -- si -- re,
+    no -- vo~ar -- dor, __ no -- vo tem -- po~a -- ma -- t'Au -- ro -- ra,
+    Non fia mai ch'io per voi can -- gi de -- si -- re,
     non fia mai,
-    non fia mai ch’io per voi can -- gi de -- si -- re.
+    non fia mai ch'io per voi can -- gi de -- si -- re.
     Vol -- to~a le stel -- le poi, sia -- te se -- con -- de,
     U -- mi -- le dis -- se, __ a que -- sto; e~ac -- cen -- nò~al -- lo -- ra
     Un lau -- ro per cui sol par,
-        per cui sol par ch’ei re -- spi -- ri,
-        ch’ei re -- spi -- ri.
+        per cui sol par ch'ei re -- spi -- ri,
+        ch'ei re -- spi -- ri.
 }
 
 cantoXVincipitVoice = <<

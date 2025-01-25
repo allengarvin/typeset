@@ -17,12 +17,12 @@
 % Liner notes India:
 % Oh bitter sweetnesses of love,
 % Much worse it is to lose you
-% Then never to have you enjoy’d at all.
+% Then never to have you enjoy'd at all.
 % How glad would loving be
-% If that already lov’d would not be lost.
+% If that already lov'd would not be lost.
 % The memory of any good that wastes
 % Consumes itself
-% As th’other is consum’d.
+% As th'other is consum'd.
 
 cantoIIIincipit = \relative c'' {
     \time 2/2

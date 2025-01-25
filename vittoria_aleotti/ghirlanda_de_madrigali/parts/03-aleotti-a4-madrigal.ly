@@ -1,10 +1,10 @@
 % O quante volte in van, cor mio, ti chiamo,
 % vaga di riveder gli amati lumi,
-% cagion ch’io mi consumi
+% cagion ch'io mi consumi
 % sì dolcemente che morir ne bramo.
 % O dolce esca, o dolce amo,
 % o dolce stral d'Amore
-% ch’in ogni parte mi piagasti il core.
+% ch'in ogni parte mi piagasti il core.
 
 % O how many times in vain, my heart, I call you,
 % eager to see again your beloved eyes,
@@ -45,16 +45,16 @@ cantoIII = \relative c'' {
 cantoLyricsIII = \lyricmode {
     O quan -- te vol -- te~in van, cor mio, ti chia -- mo,
     Va -- ga di ri -- ve -- der gli~a -- ma -- ti lu -- mi,
-    Ca -- gion ch’io mi con -- su -- mi,
+    Ca -- gion ch'io mi con -- su -- mi,
     \ijLyrics
-    ca -- gion ch’io mi con -- su -- mi,
-    ca -- gion ch’io mi con -- su -- mi,
-    ca -- gion ch’io mi con -- su -- mi
+    ca -- gion ch'io mi con -- su -- mi,
+    ca -- gion ch'io mi con -- su -- mi,
+    ca -- gion ch'io mi con -- su -- mi
     \normalLyrics
     Sì dol -- ce -- men -- te che mo -- rir ne bra -- mo.
 %     O dol -- c'e -- sca, o dol -- ce~a -- mo,
     O dol -- ce stral d'A -- mo -- re
-    Ch’in o -- gni par -- te mi pia -- ga -- st'il co -- re,
+    Ch'in o -- gni par -- te mi pia -- ga -- st'il co -- re,
         mi pia -- ga -- st'il co -- re.
 }
 
@@ -91,16 +91,16 @@ altoLyricsIII = \lyricmode {
     O quan -- te vol -- te~in van, cor mio, ti chia -- mo,
     Va -- ga di ri -- ve -- der gli~a -- ma -- ti lu -- mi,
     va -- ga di ri -- ve -- der gli~a -- ma -- ti lu -- mi,
-    Ca -- gion ch’io mi con -- su -- mi,
+    Ca -- gion ch'io mi con -- su -- mi,
     \ijLyrics
-    ca -- gion ch’io mi con -- su -- mi
+    ca -- gion ch'io mi con -- su -- mi
     \normalLyrics
     Sì dol -- ce -- men -- te che mo -- rir ne bra -- mo.
     O dol -- c'e -- sca,~o dol -- ce~a -- mo,
     O dol -- ce stral d'A -- mo -- re
         mi pia -- ga -- st'il co -- re,
-    Ch’in o -- gni par -- te,
-    ch’in o -- gni par -- te mi pia -- ga -- st'il co -- re.
+    Ch'in o -- gni par -- te,
+    ch'in o -- gni par -- te mi pia -- ga -- st'il co -- re.
 %        mi pia -- ga -- st'il co -- re.
 }
 
@@ -135,14 +135,14 @@ tenoreIII = \relative c' {
 tenoreLyricsIII = \lyricmode {
     O quan -- te vol -- te~in van, cor mio, ti chia -- mo,
     Va -- ga di ri -- ve -- der gli~a -- ma -- ti lu -- mi,
-    Ca -- gion ch’io mi con -- su -- mi,
+    Ca -- gion ch'io mi con -- su -- mi,
     \ijLyrics
-    ca -- gion ch’io mi con -- su -- mi
+    ca -- gion ch'io mi con -- su -- mi
     \normalLyrics
     Sì dol -- ce -- men -- te che mo -- rir ne bra -- mo.
     O __ dol -- c'e -- sca~o dol -- ce~a -- mo,
     O dol -- ce stral d'A -- mo -- re
-    Ch’in o -- gni par -- te mi pia -- ga -- st'il co -- re,
+    Ch'in o -- gni par -- te mi pia -- ga -- st'il co -- re,
     \ijLyrics
         mi pia -- ga -- st'il co -- re,
         mi pia -- ga -- st'il co -- re.
@@ -181,16 +181,16 @@ bassoLyricsIII = \lyricmode {
     O quan -- te vol -- te~in van, cor mio, ti chia -- mo,
     Va -- ga di ri -- ve -- der gli~a -- ma -- ti lu -- mi,
         gli~a -- ma -- ti lu -- mi,
-    Ca -- gion ch’io mi con -- su -- mi,
+    Ca -- gion ch'io mi con -- su -- mi,
     \ijLyrics
-    ca -- gion ch’io mi con -- su -- mi
+    ca -- gion ch'io mi con -- su -- mi
     \normalLyrics
     Sì dol -- ce -- men -- te che mo -- rir ne bra -- mo.
     O __ dol -- c'e -- sca~o dol -- ce~a -- mo,
     O dol -- ce stral d'A -- mo -- re
         mi pia -- ga -- st'il co -- re,
-    Ch’in o -- gni par -- te,
-    ch’in o -- gni par -- te mi pia -- ga -- st'il co -- re,
+    Ch'in o -- gni par -- te,
+    ch'in o -- gni par -- te mi pia -- ga -- st'il co -- re,
 %        mi pia -- ga -- st'il co -- re.
 }
 

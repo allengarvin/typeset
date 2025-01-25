@@ -1,9 +1,9 @@
 % VI   21 Vaghi boschetti di soavi allori,
-%         di palme e d’amenissime mortelle,
-%         cedri et aranci ch’avean frutti e fiori
+%         di palme e d'amenissime mortelle,
+%         cedri et aranci ch'avean frutti e fiori
 %         contesti in varie forme e tutte belle,
 %         facean riparo ai fervidi calori
-%         de’ giorni estivi con lor spesse ombrelle;
+%         de' giorni estivi con lor spesse ombrelle;
 %         e tra quei rami con sicuri voli
 %         cantando se ne giano i rosignuoli.
 
@@ -45,24 +45,24 @@ cantoLyricsIII = \lyricmode {
     Va -- ghi bo -- schet -- ti di so -- a -- vi~al -- lo -- ri,
     Di pal -- me,
     Di pal -- me,
-    Di pal -- me~e d’a -- me -- nis -- si -- me mor -- tel -- le,
-    Ce -- dri~et a -- ran -- ci ch’a -- vean frut -- ti~e fio -- ri
+    Di pal -- me~e d'a -- me -- nis -- si -- me mor -- tel -- le,
+    Ce -- dri~et a -- ran -- ci ch'a -- vean frut -- ti~e fio -- ri
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri
-    De’ gior -- ni~e -- sti -- vi con __ lor spes -- se~om -- brel -- le,
+    De' gior -- ni~e -- sti -- vi con __ lor spes -- se~om -- brel -- le,
         con __ lor spes -- se~om -- brel -- le;
     % E tra quei ra -- mi con si -- cu -- ri vo -- li
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \ijLyrics
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \normalLyrics
         i ro -- si -- gnuo -- li,
         i ro -- si -- gnuo -- li,
     \ijLyrics
         i ro -- si -- gnuo -- li,
     \normalLyrics
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     Can -- tan -- do se ne gia -- no~i ro -- si -- gnuo -- li,
         i ro -- si -- gnuo -- li,
     \ijLyrics
@@ -108,17 +108,17 @@ altoLyricsIII = \lyricmode {
     Va -- ghi bo -- schet -- ti di so -- a -- vi~al -- lo -- ri,
         di so -- a -- vi~al -- lo -- ri,
     Di pal -- me,
-    Di pal -- me~e d’a -- me -- nis -- si -- me mor -- tel -- le,
-    Ce -- dri~et a -- ran -- ci ch’a -- vean frut -- ti~e fio -- ri
+    Di pal -- me~e d'a -- me -- nis -- si -- me mor -- tel -- le,
+    Ce -- dri~et a -- ran -- ci ch'a -- vean frut -- ti~e fio -- ri
     Con -- te -- sti~in va -- rie for -- me e tut -- te bel -- le,
     Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri,
         ai fer -- vi -- di ca -- lo -- ri
-    De’ gior -- ni~e -- sti -- vi con __ lor spes -- se~om -- brel -- le,
+    De' gior -- ni~e -- sti -- vi con __ lor spes -- se~om -- brel -- le,
     E tra quei ra -- mi con si -- cu -- ri vo -- li __
-    Can -- tan -- do se ne gian’ i __ ro -- si -- gnuo -- li,
+    Can -- tan -- do se ne gian' i __ ro -- si -- gnuo -- li,
         i ro -- si -- gnuo -- li,
-    Can -- tan -- do se ne gian’
-    Can -- tan -- do se ne gian’ i __ ro -- si -- gnuo -- li,
+    Can -- tan -- do se ne gian'
+    Can -- tan -- do se ne gian' i __ ro -- si -- gnuo -- li,
         i ro -- si -- gnuo -- li.
 }
 
@@ -157,26 +157,26 @@ tenoreLyricsIII = \lyricmode {
     Va -- ghi bo -- schet -- ti di so -- a -- vi~al -- lo -- ri,
     Va -- ghi bo -- schet -- ti di so -- a -- vi~al -- lo -- ri,
     Di pal -- me,
-    Di pal -- me~e d’a -- me -- nis -- si -- me mor -- tel -- le,
-    Ce -- dri~et a -- ran -- ci ch’a -- vean frut -- ti~e fio -- ri
+    Di pal -- me~e d'a -- me -- nis -- si -- me mor -- tel -- le,
+    Ce -- dri~et a -- ran -- ci ch'a -- vean frut -- ti~e fio -- ri
     Con -- te -- sti~in va -- rie for -- me,
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri
-    De’ gior -- ni~e -- sti -- vi,
+    De' gior -- ni~e -- sti -- vi,
     \ijLyrics
-    De’ __ gior -- ni~e -- sti -- vi 
+    De' __ gior -- ni~e -- sti -- vi 
     \normalLyrics
         con lor spes -- se~om -- brel -- le,
         con __ lor spes -- se~om -- brel -- le;
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \ijLyrics
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \normalLyrics
     Can -- tan -- do se ne gia -- no~i ro -- si -- gnuo -- li,
         i ro -- si -- gnuo -- li,~i ro -- si -- gnuo -- li,
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \ijLyrics
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \normalLyrics
         i ro -- si -- gnuo -- li,
     \ijLyrics
@@ -222,21 +222,21 @@ bassoLyricsIII = \lyricmode {
     Va -- ghi bo -- schet -- ti di so -- a -- vi~al -- lo -- ri,
         di so -- a -- vi~al -- lo -- ri,
     Di pal -- me,
-    Di pal -- me~e d’a -- me -- nis -- si -- me mor -- tel -- le,
-    Ce -- dri~et a -- ran -- ci ch’a -- vean frut -- ti~e fio -- ri
+    Di pal -- me~e d'a -- me -- nis -- si -- me mor -- tel -- le,
+    Ce -- dri~et a -- ran -- ci ch'a -- vean frut -- ti~e fio -- ri
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
         e tut -- te bel -- le,
     Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri
-    De’ gior -- ni~e -- sti -- vi con __ lor spes -- se~om -- brel -- le,
+    De' gior -- ni~e -- sti -- vi con __ lor spes -- se~om -- brel -- le,
     E tra quei ra -- mi con si -- cu -- ri vo -- li
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \ijLyrics
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \normalLyrics
         i ro -- si -- gnuo -- li,
         i ro -- si -- gnuo -- li,
-    Can -- tan -- do se ne gian’
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
+    Can -- tan -- do se ne gian'
         i ro -- si -- gnuo -- li,
     \ijLyrics
         i ro -- si -- gnuo -- li.
@@ -283,24 +283,24 @@ quintoLyricsIII = \lyricmode {
         di so -- a -- vi~al -- lo -- ri,
         di so -- a -- vi~al -- lo -- ri,
     Di pal -- me,
-    Di pal -- me~e d’a -- me -- nis -- si -- me mor -- tel -- le,
-    Ce -- dri~et a -- ran -- ci ch’a -- vean frut -- ti~e fio -- ri
-    Ce -- dri~et a -- ran -- ci ch’a -- vean frut -- ti~e fio -- ri
+    Di pal -- me~e d'a -- me -- nis -- si -- me mor -- tel -- le,
+    Ce -- dri~et a -- ran -- ci ch'a -- vean frut -- ti~e fio -- ri
+    Ce -- dri~et a -- ran -- ci ch'a -- vean frut -- ti~e fio -- ri
     Con -- te -- sti~in va -- rie for -- me~e tut -- te bel -- le,
     Fa -- cean ri -- pa -- ro~ai fer -- vi -- di ca -- lo -- ri,
         ai fer -- vi -- di ca -- lo -- ri
-    De’ gior -- ni~e -- sti -- vi con __ lor spes -- se~om -- brel -- le,
+    De' gior -- ni~e -- sti -- vi con __ lor spes -- se~om -- brel -- le,
     E tra quei ra -- mi,
     E tra quei ra -- mi con si -- cu -- ri vo -- li
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \ijLyrics
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \normalLyrics
         i ro -- si -- gnuo -- li,
         i ro -- si -- gnuo -- li,
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \ijLyrics
-    Can -- tan -- do se ne gian’
+    Can -- tan -- do se ne gian'
     \normalLyrics
     Can -- tan -- do se ne gia -- no~i ro -- si -- gnuo -- li,
         i ro -- si -- gnuo -- li~i ro -- si -- gnuo -- li.

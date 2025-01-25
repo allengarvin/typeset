@@ -1,11 +1,11 @@
-% O primavera, gioventù dell’anno,
-% bella madre de’ fiori,
-% d’erbe novelle, e di novelli amori;
+% O primavera, gioventù dell'anno,
+% bella madre de' fiori,
+% d'erbe novelle, e di novelli amori;
 % tu ben lasso ritorni,
 % ma senza i cari giorni
 % delle speranze mie;
 % tu ben sei quella
-% ch’eri pur dianzi si vezzosa e bella.
+% ch'eri pur dianzi si vezzosa e bella.
 % Ma non son io quel che già un tempo fui,
 % sì caro agli occhi altrui.
 
@@ -54,17 +54,17 @@ cantoXI = \relative c' {
 }
 
 cantoLyricsXI = \lyricmode {
-%    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-    Bel -- la ma -- dre de’ fio -- ri,
-    D’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri,
-    d’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
-    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
+%    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+    Bel -- la ma -- dre de' fio -- ri,
+    D'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri,
+    d'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
     bel -- la ma -- dre,
-    bel -- la ma -- dre de’ fio -- ri,
-    d’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
-    d’er -- be no -- vel -- le,
+    bel -- la ma -- dre de' fio -- ri,
+    d'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+    d'er -- be no -- vel -- le,
     \ijLyrics
-    d’er -- be no -- vel -- le~e
+    d'er -- be no -- vel -- le~e
     \normalLyrics
         di no -- vel -- li~a -- mo -- ri;
     Tu __ ben las -- so ri -- tor -- ni,
@@ -75,12 +75,12 @@ cantoLyricsXI = \lyricmode {
 % Ché del perduto mio caro tesoro
 % La rimembranza misera e dolente
     Tu ben sei quel -- la
-    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     tu ben sei quel -- la,
     \ijLyrics
     tu ben sei quel -- la
     \normalLyrics
-    ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     Ma non son io quel che già~un tem -- po fu -- i,
     ma non son io quel che già~un tem -- po fu -- i,
         quel che già~un tem -- po fu -- i,
@@ -125,13 +125,13 @@ altoXI = \relative c'' {
 }
 
 altoLyricsXI = \lyricmode {
-    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-    Bel -- la ma -- dre de’ fio -- ri,
-    D’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
-    o pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-    bel -- la ma -- dre de’ fio -- ri,
-    bel -- la ma -- dre de’ fio -- ri,
-    d’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+    Bel -- la ma -- dre de' fio -- ri,
+    D'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+    o pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+    bel -- la ma -- dre de' fio -- ri,
+    bel -- la ma -- dre de' fio -- ri,
+    d'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
     Tu ben las -- so ri -- tor -- ni,
     tu __ ben las -- so,
     tu ben las -- so ri -- tor -- ni,
@@ -142,12 +142,12 @@ altoLyricsXI = \lyricmode {
 %% Ché del perduto mio caro tesoro
 %% La rimembranza misera e dolente
     Tu ben sei quel -- la
-    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     tu ben sei quel -- la,
     \ijLyrics
     tu ben sei quel -- la
     \normalLyrics
-    ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     Ma non son io,
     ma non son io quel che già~un tem -- po fu -- i,
     ma non son io quel che già~un tem -- po fu -- i,
@@ -202,16 +202,16 @@ tenoreXI = \relative c' {
 }
 
 tenoreLyricsXI = \lyricmode {
-    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-    Bel -- la ma -- dre de’ fio -- ri,
-    D’er -- be no -- vel -- le,
-    d’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
-%    o pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
+    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+    Bel -- la ma -- dre de' fio -- ri,
+    D'er -- be no -- vel -- le,
+    d'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+%    o pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
 %    bel -- la ma -- dre,
-    bel -- la ma -- dre de’ fio -- ri,
-    d’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri,
-    d’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri,
-    d’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+    bel -- la ma -- dre de' fio -- ri,
+    d'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri,
+    d'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri,
+    d'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
     Tu __ ben las -- so ri -- tor -- ni,
     Ma sen -- za~i ca -- ri gior -- ni
     Del -- le spe -- ran -- ze mie;
@@ -226,12 +226,12 @@ tenoreLyricsXI = \lyricmode {
 %% Ché del perduto mio caro tesoro
 %% La rimembranza misera e dolente
     Tu ben sei quel -- la
-    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     tu ben sei quel -- la,
     \ijLyrics
     tu ben sei quel -- la
     \normalLyrics
-    ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     Ma non son io,
     \ijLyrics
     ma non son io
@@ -273,11 +273,11 @@ bassoXI = \relative c {
 }
 
 bassoLyricsXI = \lyricmode {
-%    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-    Bel -- la ma -- dre de’ fio -- ri,
-    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-    bel -- la ma -- dre de’ fio -- ri,
-    D’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+%    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+    Bel -- la ma -- dre de' fio -- ri,
+    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+    bel -- la ma -- dre de' fio -- ri,
+    D'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
     Tu __ ben las -- so ri -- tor -- ni,
     Ma sen -- za~i ca -- ri gior -- ni
     Del -- le spe -- ran -- ze mie;
@@ -289,12 +289,12 @@ bassoLyricsXI = \lyricmode {
 %% Ché del perduto mio caro tesoro
 %% La rimembranza misera e dolente
 %    Tu ben sei quel -- la
-%    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+%    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
 %    tu ben sei quel -- la,
 %    \ijLyrics
 %    tu ben sei quel -- la
 %    \normalLyrics
-%    ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+%    ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     Ma non son io quel che già~un tem -- po fu -- i,
     ma non son io quel che già~un tem -- po fu -- i,
     Sì ca -- ro~a -- gli~oc -- chi~al -- tru -- i.
@@ -340,12 +340,12 @@ quintoXI = \relative c'' {
 }
 
 quintoLyricsXI = \lyricmode {
-    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-    o pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-    Bel -- la ma -- dre de’ fio -- ri,
-    o pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-    bel -- la ma -- dre de’ fio -- ri, __
-    D’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+    o pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+    Bel -- la ma -- dre de' fio -- ri,
+    o pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+    bel -- la ma -- dre de' fio -- ri, __
+    D'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
     Tu __ ben las -- so
     \ijLyrics
     tu ben las -- so
@@ -354,12 +354,12 @@ quintoLyricsXI = \lyricmode {
     Ma sen -- za~i ca -- ri gior -- ni
     Del -- le spe -- ran -- ze mie;
     Tu ben sei quel -- la
-    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     tu ben sei quel -- la,
     \ijLyrics
     tu ben sei quel -- la
     \normalLyrics
-    ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
         quel che già~un tem -- po fu -- i,
     Ma non son io,
     \ijLyrics

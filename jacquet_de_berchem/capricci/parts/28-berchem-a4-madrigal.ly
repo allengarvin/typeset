@@ -1,8 +1,8 @@
-%    130  Tagliò lo scritto e ’l sasso, e sin al cielo
-%         a volo alzar fe’ le minute schegge.
-%         Infelice quell’antro, et ogni stelo
+%    130  Tagliò lo scritto e 'l sasso, e sin al cielo
+%         a volo alzar fe' le minute schegge.
+%         Infelice quell'antro, et ogni stelo
 %         in cui Medoro e Angelica si legge!
-%         Così restar quel dì, ch’ombra né gielo
+%         Così restar quel dì, ch'ombra né gielo
 %         a pastor mai non daran più, né a gregge:
 %         e quella fonte, già sì chiara e pura,
 %         da cotanta ira fu poco sicura;
@@ -38,13 +38,13 @@ cantoXXVIII = \relative c'' {
 }
 
 cantoLyricsXXVIII = \lyricmode {
-    Ta -- gliò lo scrit -- to~e’l sas -- so~e sin al cie -- lo
-    A vo -- lo~al -- zar fe’ le mi -- nu -- te scheg -- ge, __
-        al -- zar fe’ le mi -- nu -- te scheg -- ge,
-            fe’ le mi -- nu -- te scheg -- ge.
-    In -- fe -- li -- ce quel -- l’an -- tro~ed o -- gni ste -- lo
+    Ta -- gliò lo scrit -- to~e'l sas -- so~e sin al cie -- lo
+    A vo -- lo~al -- zar fe' le mi -- nu -- te scheg -- ge, __
+        al -- zar fe' le mi -- nu -- te scheg -- ge,
+            fe' le mi -- nu -- te scheg -- ge.
+    In -- fe -- li -- ce quel -- l'an -- tro~ed o -- gni ste -- lo
     In cui Me -- do -- ro~e~An -- ge -- li -- ca si leg -- ge!
-    Co -- sì re -- star quel dì, ch’om -- bra né gie -- lo __
+    Co -- sì re -- star quel dì, ch'om -- bra né gie -- lo __
     A pa -- stor mai non da -- ran più, __ né~a greg -- ge: __
     E quel -- la fon -- te, già sì chia -- ra~e pu -- ra,
     e quel -- la fon -- te, già sì chia -- ra~e pu -- ra,
@@ -86,14 +86,14 @@ altoXXVIII = \relative c' {
 }
 
 altoLyricsXXVIII = \lyricmode {
-    Ta -- gliò lo scrit -- to e’l sas -- so~e sin al cie -- lo
-    A vo -- lo~al -- zar fe’ le mi -- nu -- te scheg -- ge,
-    a vo -- lo~al -- zar fe’ le mi -- nu -- te scheg -- ge,
-        al -- zar fe’ le mi -- nu -- te scheg -- ge,
-    In -- fe -- li -- ce quel -- l’an -- tro~ed o -- gni ste -- lo
+    Ta -- gliò lo scrit -- to e'l sas -- so~e sin al cie -- lo
+    A vo -- lo~al -- zar fe' le mi -- nu -- te scheg -- ge,
+    a vo -- lo~al -- zar fe' le mi -- nu -- te scheg -- ge,
+        al -- zar fe' le mi -- nu -- te scheg -- ge,
+    In -- fe -- li -- ce quel -- l'an -- tro~ed o -- gni ste -- lo
     In cui Me -- do -- ro~e~An -- ge -- li -- ca si leg -- ge!
     Co -- sì re -- star,
-    co -- sì re -- star quel dì, ch’om -- bra né gie -- lo
+    co -- sì re -- star quel dì, ch'om -- bra né gie -- lo
     A pa -- stor mai non __ da -- ran più, né~a greg -- ge,
         non da -- ran più, né~a __ greg -- ge:
     E __ quel -- la fon -- te, già sì chia -- ra,
@@ -136,13 +136,13 @@ tenoreXXVIII = \relative c' {
 }
 
 tenoreLyricsXXVIII = \lyricmode {
-    Ta -- gliò lo scrit -- to e’l sas -- so~e __ sin al cie -- lo
-    A vo -- lo~al -- zar fe’ le __ mi -- nu -- te scheg -- ge,
-            fe’ le mi -- nu -- te scheg -- ge,
-            fe’ le mi -- nu -- te scheg -- ge.
-    In -- fe -- li -- ce quel -- l’an -- tro~ed o -- gni ste -- lo
+    Ta -- gliò lo scrit -- to e'l sas -- so~e __ sin al cie -- lo
+    A vo -- lo~al -- zar fe' le __ mi -- nu -- te scheg -- ge,
+            fe' le mi -- nu -- te scheg -- ge,
+            fe' le mi -- nu -- te scheg -- ge.
+    In -- fe -- li -- ce quel -- l'an -- tro~ed o -- gni ste -- lo
     In cui Me -- do -- ro~e~An -- ge -- li -- ca si leg -- ge!
-    Co -- sì re -- star quel dì, % ch’om -- bra né gie -- lo
+    Co -- sì re -- star quel dì, % ch'om -- bra né gie -- lo
     A pa -- stor mai non da -- ran __ più, né~a greg -- ge,
         né~a greg -- ge:
     E quel -- la fon -- te, già sì chia -- ra~e pu -- ra,
@@ -181,13 +181,13 @@ bassoXXVIII = \relative c {
 }
 
 bassoLyricsXXVIII = \lyricmode {
-    Ta -- gliò lo scrit -- to~e’l sas -- so~e sin al cie -- lo
-    A vo -- lo~al -- zar fe’ le mi -- nu -- te scheg -- ge,
-%        al -- zar fe’ le mi -- nu -- te scheg -- ge,
-            fe’ le mi -- nu -- te scheg -- ge.
-    In -- fe -- li -- ce quel -- l’an -- tro~ed o -- gni ste -- lo
+    Ta -- gliò lo scrit -- to~e'l sas -- so~e sin al cie -- lo
+    A vo -- lo~al -- zar fe' le mi -- nu -- te scheg -- ge,
+%        al -- zar fe' le mi -- nu -- te scheg -- ge,
+            fe' le mi -- nu -- te scheg -- ge.
+    In -- fe -- li -- ce quel -- l'an -- tro~ed o -- gni ste -- lo
     In cui Me -- do -- ro~e~An -- ge -- li -- ca si leg -- ge!
-    Co -- sì re -- star quel dì, ch’om -- bra né gie -- lo
+    Co -- sì re -- star quel dì, ch'om -- bra né gie -- lo
     A pa -- stor mai non da -- ran più, né~a greg -- ge,
         non da -- ran più, né~a greg -- ge:
     E quel -- la fon -- te già,

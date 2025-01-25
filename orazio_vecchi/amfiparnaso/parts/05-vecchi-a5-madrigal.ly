@@ -1,10 +1,10 @@
 % Misero che farò, Lucio infelice,
-% s’ogni mio ben m’è tolto?
+% s'ogni mio ben m'è tolto?
 % Ah finto Amore e stolto?
 % Ah crudel Isabella,
 % che per novello amore mi sei rubella?
 % ma nel più alpestre monte i' vado or ora,
-% perché ne l’ultima ora,
+% perché ne l'ultima ora,
 % fia sazio il tuo desio
 % donna crudel, col precipizio mio.
 
@@ -42,14 +42,14 @@ cantoV = \relative c'' {
 
 cantoLyricsV = \lyricmode {
     Mi -- se -- ro che fa -- rò, Lu -- cio~in -- fe -- li -- ce,
-    S’o -- gni mio ben m’è tol -- to?
+    S'o -- gni mio ben m'è tol -- to?
     Ah fin -- to~A -- mo -- r'e stol -- to?
     Ah cru -- del I -- sa -- bel -- la,
     Che per no -- vel -- lo~a -- mo -- re, 
     che per no -- vel -- lo~a -- mo -- re, 
     che per no -- vel -- lo~a -- mor mi sei ru -- bel -- la?
     Ma nel più~al -- pe -- stre mon -- te i' va -- d'or o -- ra,
-    % Per -- ché ne l’ul -- ti -- ma~o -- ra,
+    % Per -- ché ne l'ul -- ti -- ma~o -- ra,
     % Fia sa -- zio~il tuo de -- si -- o
     Don -- na cru -- del,
     \ijLyrics
@@ -95,7 +95,7 @@ altoV = \relative c'' {
 
 altoLyricsV = \lyricmode {
     Mi -- se -- ro che fa -- rò, Lu -- cio~in -- fe -- li -- ce,
-    S’o -- gni mio ben m’è tol -- to?
+    S'o -- gni mio ben m'è tol -- to?
     Ah fin -- to~A -- mo -- r'e stol -- to?
     Ah cru -- del,
     ah cru -- del I -- sa -- bel -- la,
@@ -106,7 +106,7 @@ altoLyricsV = \lyricmode {
         mi sei ru -- bel -- la,
     che per no -- vel -- lo~a -- mor mi sei ru -- bel -- la?
     Ma nel più~al -- pe -- stre mon -- te~i' va -- d'or o -- ra,
-    Per -- ché ne l’ul -- ti -- m'o -- ra,
+    Per -- ché ne l'ul -- ti -- m'o -- ra,
     Fia sa -- zio~il tuo de -- si -- o
     Don -- na cru -- del, col pre -- ci -- pi -- zio mi -- o,
     don -- na cru -- del, col pre -- ci -- pi -- zio mi -- o,
@@ -146,7 +146,7 @@ tenoreV = \relative c' {
 
 tenoreLyricsV = \lyricmode {
     Mi -- se -- ro che __ fa -- rò, Lu -- cio~in -- fe -- li -- ce,
-    S’o -- gni mio ben m’è tol -- to?
+    S'o -- gni mio ben m'è tol -- to?
 %    Ah fin -- to~A -- mo -- r'e stol -- to?
     Ah cru -- del __ I -- sa -- bel -- la,
     Che per no -- vel -- lo~a -- mor
@@ -156,7 +156,7 @@ tenoreLyricsV = \lyricmode {
     \normalLyrics
         mi sei ru -- bel -- la?
     Ma nel più~al -- pe -- stre mon -- te~i' va -- d'or __ o -- ra,
-    Per -- ché ne l’ul -- ti -- m'o -- ra,
+    Per -- ché ne l'ul -- ti -- m'o -- ra,
     Fia sa -- zio~il tuo de -- si -- o
     Don -- na cru -- del, col pre -- ci -- pi -- zio mi -- o,
         col pre -- ci -- pi -- zio,
@@ -197,7 +197,7 @@ bassoV = \relative c {
 
 bassoLyricsV = \lyricmode {
     Mi -- se -- ro che fa -- rò, Lu -- cio~in -- fe -- li -- ce,
-    S’o -- gni mio ben m’è tol -- to?
+    S'o -- gni mio ben m'è tol -- to?
     Ah fin -- to~A -- mo -- r'e stol -- to?
     Ah cru -- del __ I -- sa -- bel -- la,
     Che per no -- vel -- lo~a -- mor
@@ -206,7 +206,7 @@ bassoLyricsV = \lyricmode {
     \normalLyrics
     che per no -- vel -- lo~a -- mor mi sei __ ru -- bel -- la?
     Ma nel più~al -- pe -- stre mon -- te~i' va -- d'or o -- ra,
-    Per -- ché ne l’ul -- ti -- m'o -- ra,
+    Per -- ché ne l'ul -- ti -- m'o -- ra,
     Fia sa -- zio~il tuo de -- si -- o
         col pre -- ci -- pi -- zio mi -- o,
     Don -- na cru -- del, __
@@ -249,7 +249,7 @@ quintoV = \relative c' {
 
 quintoLyricsV = \lyricmode {
     Mi -- se -- ro che fa -- rò, Lu -- cio~in -- fe -- li -- ce,
-    S’o -- gni mio ben m’è tol -- to?
+    S'o -- gni mio ben m'è tol -- to?
     Ah fin -- to~A -- mo -- r'e stol -- to?
     Ah cru -- del,
     Che per no -- vel -- lo~a -- mo -- re,
@@ -260,7 +260,7 @@ quintoLyricsV = \lyricmode {
         mi sei __ ru -- bel -- la?
     Ma nel più~al -- pe -- stre mon -- te,
     ma nel più~al -- pe -- stre mon -- te~i' va -- d'or o -- ra,
-    Per -- ché ne l’ul -- ti -- ma~o -- ra,
+    Per -- ché ne l'ul -- ti -- ma~o -- ra,
     Fia sa -- zio~il tuo de -- si -- o
     Don -- na cru -- del, __
     don -- na cru -- del col pre -- ci -- pi -- zio mi -- o,

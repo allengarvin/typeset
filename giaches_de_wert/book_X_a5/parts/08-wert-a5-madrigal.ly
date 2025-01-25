@@ -1,23 +1,23 @@
-% Del vago Mincio sull’adorne sponde
-% al mormorar dell’onde,
+% Del vago Mincio sull'adorne sponde
+% al mormorar dell'onde,
 % di fiori al verdeggiar, fido pastore
-% sospirava d’amore.
+% sospirava d'amore.
 % Pallido il volto mesto, il cor, lontano
 % dal suo bel sol sovrano,
-% l’immote umide luci al ciel poi fisse,
+% l'immote umide luci al ciel poi fisse,
 % e in flebil voce disse.
 % 
 % Invido fiume ai miei desir rubello,
-% deh, perch’il vago e bello
+% deh, perch'il vago e bello
 % specchio del volto della ninfa mia
-% m’ascondi? Ahi! sorte ria!
+% m'ascondi? Ahi! sorte ria!
 % E languendo il pastor pietosi accenti,
-% risonar l’ond’e i venti:
+% risonar l'ond'e i venti:
 % deh, vieni Silvia, vieni a darmi aita
 % con tua beltà infinita.
 
 % voces soaves translation:
-%On fair Mincio’s grassy banks
+%On fair Mincio's grassy banks
 %to the quiet murmur of the water,
 %mid verdant flowers, a shepherd
 %sighed with love.
@@ -30,11 +30,11 @@
 %Envious stream, enemy of my desires,
 %pray, why are you hiding from me
 %the beautiful reflection
-%of my sweetheart? Ah, cruel fate!’
-%And the shepherd’s piteous laments
+%of my sweetheart? Ah, cruel fate!'
+%And the shepherd's piteous laments
 %were echoed by the water and the winds:
-%’Prithee, come, Silvia, come to help me
-%with your infinite beauty.’
+%'Prithee, come, Silvia, come to help me
+%with your infinite beauty.'
 
 cantoVIIIincipit = \relative c'' {
     \time 4/4
@@ -68,16 +68,16 @@ cantoVIII = \relative c'' {
 }
 
 cantoLyricsVIII = \lyricmode {
-    Del va -- go Min -- cio sul -- l’a -- dor -- ne spon -- de
-    Al mor -- mo -- rar del -- l’on -- de,
-    al mor -- mo -- rar del -- l’on -- de,
+    Del va -- go Min -- cio sul -- l'a -- dor -- ne spon -- de
+    Al mor -- mo -- rar del -- l'on -- de,
+    al mor -- mo -- rar del -- l'on -- de,
     % Di fio -- ri~al ver -- deg -- giar, fi -- do pa -- sto -- re
     So-
-    so -- spi -- ra -- va d’a -- mo -- re.
+    so -- spi -- ra -- va d'a -- mo -- re.
 
     Pal -- li -- do~il vol -- to me -- sto, il cor lon -- ta -- no
     Dal suo bel sol so -- vra -- no,
-    L’im -- mo -- te~u -- mi -- de lu -- ci~al ciel poi fis -- se,
+    L'im -- mo -- te~u -- mi -- de lu -- ci~al ciel poi fis -- se,
     E~in fle -- bil vo -- ce dis -- se,
     e~in fle -- bil vo -- ce dis -- se.
 }
@@ -113,18 +113,18 @@ altoVIII = \relative c' {
 }
 
 altoLyricsVIII = \lyricmode {
-    Del va -- go Min -- cio sul -- l’a -- dor -- ne spon -- de
-    Al mor -- mo -- rar del -- l’on -- de,
+    Del va -- go Min -- cio sul -- l'a -- dor -- ne spon -- de
+    Al mor -- mo -- rar del -- l'on -- de,
     al mor -- mo -- rar,
-    al mor -- mo -- rar del -- l’on -- de,
+    al mor -- mo -- rar del -- l'on -- de,
     Di fio -- ri~al ver -- deg -- giar, fi -- do pa -- sto -- re
     So-
-    so -- spi -- ra -- va d’a -- mo -- re,
-    so -- spi -- ra -- va d’a -- mo -- re.
+    so -- spi -- ra -- va d'a -- mo -- re,
+    so -- spi -- ra -- va d'a -- mo -- re.
 
     Pal -- li -- do~il vol -- to me -- sto, il cor lon -- ta -- no
     Dal suo bel sol so -- vra -- no,
-    L’im -- mo -- te~u -- mi -- de lu -- ci~al ciel poi fis -- se,
+    L'im -- mo -- te~u -- mi -- de lu -- ci~al ciel poi fis -- se,
     E~in fle -- bil vo -- ce dis -- se,
     e~in fle -- bil vo -- ce dis -- se.
 }
@@ -157,17 +157,17 @@ tenoreVIII = \relative c' {
 }
 
 tenoreLyricsVIII = \lyricmode {
-    Del va -- go Min -- cio sul -- l’a -- dor -- ne spon -- de
+    Del va -- go Min -- cio sul -- l'a -- dor -- ne spon -- de
     Al mor -- mo -- rar,
-    al mor -- mo -- rar del -- l’on -- de,
+    al mor -- mo -- rar del -- l'on -- de,
     Di fio -- ri~al ver -- deg -- giar, fi -- do pa -- sto -- re
     So-
-    so -- spi -- ra -- va d’a -- mo -- re,
-    so -- spi -- ra -- va d’a -- mo -- re.
+    so -- spi -- ra -- va d'a -- mo -- re,
+    so -- spi -- ra -- va d'a -- mo -- re.
 
     Pal -- li -- do~il vol -- to me -- sto, il cor lon -- ta -- no
 %    Dal suo bel sol so -- vra -- no,
-    L’im -- mo -- te~u -- mi -- de lu -- ci al ciel poi fis -- se,
+    L'im -- mo -- te~u -- mi -- de lu -- ci al ciel poi fis -- se,
     E~in fle -- bil vo -- ce dis -- se.
 }
 
@@ -197,15 +197,15 @@ bassoVIII = \relative c {
 }
 
 bassoLyricsVIII = \lyricmode {
-    Del va -- go Min -- cio sul -- l’a -- dor -- ne spon -- de
-    Al mor -- mo -- rar del -- l’on -- de,
+    Del va -- go Min -- cio sul -- l'a -- dor -- ne spon -- de
+    Al mor -- mo -- rar del -- l'on -- de,
 %    Di fio -- ri~al ver -- deg -- giar, fi -- do pa -- sto -- re
     So -- spi -- ra -- va,
-    so -- spi -- ra -- va d’a -- mo -- re.
+    so -- spi -- ra -- va d'a -- mo -- re.
 
     Pal -- li -- do~il vol -- to me -- sto, il cor lon -- ta -- no
     Dal suo bel sol so -- vra -- no,
-    L’im -- mo -- te~u -- mi -- de lu -- ci~al ciel poi fis -- se,
+    L'im -- mo -- te~u -- mi -- de lu -- ci~al ciel poi fis -- se,
     E~in fle -- bil vo -- ce dis -- se.
 }
 
@@ -240,18 +240,18 @@ quintoVIII = \relative c' {
 }
 
 quintoLyricsVIII = \lyricmode {
-    Del va -- go Min -- cio sul -- l’a -- dor -- ne spon -- de
-    Al mor -- mo -- rar del -- l’on -- de,
-    al mor -- mo -- rar del -- l’on -- de,
+    Del va -- go Min -- cio sul -- l'a -- dor -- ne spon -- de
+    Al mor -- mo -- rar del -- l'on -- de,
+    al mor -- mo -- rar del -- l'on -- de,
     Di fio -- ri~al ver -- deg -- giar, fi -- do pa -- sto -- re
     So-
-    so -- spi -- ra -- va d’a -- mo -- re,
+    so -- spi -- ra -- va d'a -- mo -- re,
     so-
-    so -- spi -- ra -- va d’a -- mo -- re.
+    so -- spi -- ra -- va d'a -- mo -- re.
 
     Pal -- li -- do~il vol -- to me -- sto, il cor lon -- ta -- no
     Dal suo bel sol so -- vra -- no,
-    L’im -- mo -- te~u -- mi -- de lu -- ci~al ciel poi fis -- se,
+    L'im -- mo -- te~u -- mi -- de lu -- ci~al ciel poi fis -- se,
     E~in fle -- bil vo -- ce dis -- se,
     e~in fle -- bil vo -- ce dis -- se.
 }

@@ -33,7 +33,7 @@ cantoLyricsXVII = \lyricmode {
     \normalLyrics
         ò tu che por -- te
     Par -- te te -- co di me, par -- te ne las -- si,
-    O pren -- di l’un -- a~o ren -- di l’al -- tra~o mor -- te
+    O pren -- di l'un -- a~o ren -- di l'al -- tra~o mor -- te
     Dà~in -- sie -- me~ad am -- be: ar -- re -- sta~ar -- re -- sta~i pas -- si,
     Sol che ti sian le vo -- ci~ul -- ti -- me por -- te;
     Non di -- co~i ba -- ci, al -- tra più de -- gna~a -- vras -- si
@@ -77,7 +77,7 @@ altoLyricsXVII = \lyricmode {
     \normalLyrics
         ò tu che por -- te
     Par -- te te -- co di me, par -- te ne las -- si,
-    O pren -- di l’un -- a~o ren -- di l’al -- tra~o mor -- te
+    O pren -- di l'un -- a~o ren -- di l'al -- tra~o mor -- te
     Dà~in -- sie -- me~ad am -- be: ar -- re -- sta~ar -- re -- sta~i pas -- si,
     Sol che __ ti sian le vo -- ci~ul -- ti -- me por -- te;
     Non di -- co~i ba -- ci, al -- tra più de -- gna~a -- vras -- si
@@ -119,7 +119,7 @@ tenoreLyricsXVII = \lyricmode {
     \normalLyrics
         ò tu che por -- te
     Par -- te te -- co di me, par -- te ne las -- si,
-    O pren -- di l’un -- a~o ren -- di l’al -- tra~o mor -- te
+    O pren -- di l'un -- a~o ren -- di l'al -- tra~o mor -- te
     Dà~in -- sie -- me~ad am -- be: ar -- re -- sta~ar -- re -- sta~i pas -- si,
     Sol che ti sian le vo -- ci~ul -- ti -- me por -- te,
         ul -- ti -- me por -- te;
@@ -158,7 +158,7 @@ bassoLyricsXVII = \lyricmode {
     \normalLyrics
         ò tu che por -- te
     Par -- te te -- co di me, par -- te ne las -- si,
-    O ren -- di l’al -- tra~o mor -- te
+    O ren -- di l'al -- tra~o mor -- te
     Dà~in -- sie -- me~ad am -- be: ar -- re -- sta~ar -- re -- sta~i pas -- si,
     Sol che ti sian le vo -- ci~ul -- ti -- me por -- te;
     Po -- trai ne -- gar, poi che fug -- gir po -- te -- sti,
@@ -199,7 +199,7 @@ quintoLyricsXVII = \lyricmode {
     \normalLyrics
         ò tu __ che por -- te
     Par -- te te -- co di me, par -- te ne las -- si,
-    O pren -- di l’un -- a~o ren -- di l’al -- tra~o mor -- te
+    O pren -- di l'un -- a~o ren -- di l'al -- tra~o mor -- te
     Dà~in -- sie -- me~ad am -- be: ar -- re -- sta~ar -- re -- sta~i pas -- si,
     Sol che __ ti sian le vo -- ci~ul -- ti -- me por -- te;
     Non di -- co~i ba -- ci, al -- tra più de -- gna~a -- vras -- si

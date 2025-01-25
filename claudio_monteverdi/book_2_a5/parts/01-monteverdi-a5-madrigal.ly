@@ -1,9 +1,9 @@
-% Non si levava ancor l’alba novella
+% Non si levava ancor l'alba novella
 % né spiegavan le piume
 % gli augelli al novo lume,
-% ma fiammeggiava l’amorosa stella,
+% ma fiammeggiava l'amorosa stella,
 % quando i duo vaghi e leggiadretti amanti,
-% ch’una felice notte aggiunse insieme
+% ch'una felice notte aggiunse insieme
 % come Acanto si volge in vari giri,
 % divise il novo raggio; e i dolci pianti,
 % nell'accoglienze estreme,
@@ -11,7 +11,7 @@
 % mille ardenti pensier, mille desiri.
 % Mille voglie non paghe,
 % in quelle luci vaghe,
-% scopria quest’alma innamorata, e quella.
+% scopria quest'alma innamorata, e quella.
 
 cantoIincipit = \relative c' {
     \time 4/4
@@ -66,16 +66,16 @@ cantoI = \relative c' {
 }
 
 cantoLyricsI = \lyricmode {
-    Non si le -- va -- va~an -- cor l’al -- ba no -- vel -- la,
+    Non si le -- va -- va~an -- cor l'al -- ba no -- vel -- la,
     \ijLyrics
-    non si le -- va -- va~an -- cor l’al -- ba no -- vel -- la
+    non si le -- va -- va~an -- cor l'al -- ba no -- vel -- la
     \normalLyrics
     Né spie -- ga -- van __ le piu -- me
     Gli~au -- gel -- li~al no -- vo lu -- me,
-    Ma fiam -- meg -- gia -- va l’a -- mo -- ro -- sa stel -- la,
+    Ma fiam -- meg -- gia -- va l'a -- mo -- ro -- sa stel -- la,
     Quan -- do~i duo va -- ghi~e leg -- gia -- dret -- ti~a -- man -- ti,
-    Ch’u -- na fe -- li -- ce not -- te,
-    ch’u -- na fe -- li -- ce not -- te~ag -- giun -- se~in -- sie -- me
+    Ch'u -- na fe -- li -- ce not -- te,
+    ch'u -- na fe -- li -- ce not -- te~ag -- giun -- se~in -- sie -- me
     Co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
         si vol -- ge~in va -- ri gi -- ri,
     co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
@@ -90,8 +90,8 @@ cantoLyricsI = \lyricmode {
     In quel -- le lu -- ci va -- ghe,
     in quel -- le lu -- ci va -- ghe,
     in quel -- le lu -- ci va -- ghe,
-    Sco -- pria que -- st’al -- ma,
-    sco -- pria __ que -- st’al -- ma in -- na -- mo -- ra -- ta~e quel -- la,
+    Sco -- pria que -- st'al -- ma,
+    sco -- pria __ que -- st'al -- ma in -- na -- mo -- ra -- ta~e quel -- la,
         e quel -- la.
 }
 
@@ -148,15 +148,15 @@ altoI = \relative c' {
 }
 
 altoLyricsI = \lyricmode {
-    Non si le -- va -- va~an -- cor l’al -- ba no -- vel -- la
+    Non si le -- va -- va~an -- cor l'al -- ba no -- vel -- la
     Né spie -- ga -- van __ le piu -- me
     Gli~au -- gel -- li~al no -- vo lu -- me,
     gli~au -- gel -- li~al no -- vo lu -- me,
-    Ma fiam -- meg -- gia -- va l’a -- mo -- ro -- sa stel -- la,
-        l’a -- mo -- ro -- sa stel -- la,
+    Ma fiam -- meg -- gia -- va l'a -- mo -- ro -- sa stel -- la,
+        l'a -- mo -- ro -- sa stel -- la,
     Quan -- do~i duo va -- ghi~e leg -- gia -- dret -- ti~a -- man -- ti,
-    Ch’u -- na fe -- li -- ce not -- te,
-    ch’u -- na fe -- li -- ce not -- te~ag -- giun -- se~in -- sie -- me
+    Ch'u -- na fe -- li -- ce not -- te,
+    ch'u -- na fe -- li -- ce not -- te~ag -- giun -- se~in -- sie -- me
     Co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
     \ijLyrics
     co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
@@ -177,9 +177,9 @@ altoLyricsI = \lyricmode {
     mil -- le vo -- glie non pa -- ghe,
     \normalLyrics
     In quel -- le lu -- ci va -- ghe,
-    Sco -- pria que -- st’al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
-    sco -- pria que -- st’al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
-    sco -- pria que -- st’al -- ma~in -- na -- mo -- ra -- ta~e quel -- la.
+    Sco -- pria que -- st'al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
+    sco -- pria que -- st'al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
+    sco -- pria que -- st'al -- ma~in -- na -- mo -- ra -- ta~e quel -- la.
 }
 
 tenoreIincipit = \relative c {
@@ -236,16 +236,16 @@ tenoreI = \relative c {
 }
 
 tenoreLyricsI = \lyricmode {
-    Non si le -- va -- va~an -- cor l’al -- ba no -- vel -- la,
-        l’al -- ba no -- vel -- la,
+    Non si le -- va -- va~an -- cor l'al -- ba no -- vel -- la,
+        l'al -- ba no -- vel -- la,
     Né spie -- ga -- van __ le piu -- me
     Gli~au -- gel -- li~al no -- vo lu -- me,
-    Ma fiam -- meg -- gia -- va l’a -- mo -- ro -- sa stel -- la,
+    Ma fiam -- meg -- gia -- va l'a -- mo -- ro -- sa stel -- la,
     \ijLyrics
-    ma fiam -- meg -- gia -- va l’a -- mo -- ro -- sa stel -- la,
+    ma fiam -- meg -- gia -- va l'a -- mo -- ro -- sa stel -- la,
     \normalLyrics
         e leg -- gia -- dret -- ti~a -- man -- ti,
-    Ch’u -- na fe -- li -- ce not -- te~ag -- giun -- se~in -- sie -- me
+    Ch'u -- na fe -- li -- ce not -- te~ag -- giun -- se~in -- sie -- me
     Co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
     \ijLyrics
     co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
@@ -268,10 +268,10 @@ tenoreLyricsI = \lyricmode {
     In quel -- le lu -- ci va -- ghe,
     Mil -- le vo -- glie non pa -- ghe,
     in quel -- le lu -- ci va -- ghe,
-    Sco -- pria que -- st’al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
-    sco -- pria que -- st’al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
-    sco -- pria __ que -- st’al -- ma,
-    sco -- pria __ que -- st’al -- ma~in -- na -- mo -- ra -- ta~e quel -- la.
+    Sco -- pria que -- st'al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
+    sco -- pria que -- st'al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
+    sco -- pria __ que -- st'al -- ma,
+    sco -- pria __ que -- st'al -- ma~in -- na -- mo -- ra -- ta~e quel -- la.
 }
 
 bassoIincipit = \relative c' {
@@ -324,9 +324,9 @@ bassoLyricsI = \lyricmode {
     Non si le -- va -- va~an -- cor
     Né spie -- ga -- van __ le piu -- me
     Gli~au -- gel -- li~al no -- vo lu -- me,
-    Ma fiam -- meg -- gia -- va l’a -- mo -- ro -- sa stel -- la,
+    Ma fiam -- meg -- gia -- va l'a -- mo -- ro -- sa stel -- la,
 %    Quan -- do~i duo va -- ghi~e leg -- gia -- dret -- ti~a -- man -- ti,
-    Ch’u -- na fe -- li -- ce not -- te ag -- giun -- se~in -- sie -- me
+    Ch'u -- na fe -- li -- ce not -- te ag -- giun -- se~in -- sie -- me
     Co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
     \ijLyrics
     co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
@@ -343,8 +343,8 @@ bassoLyricsI = \lyricmode {
     \normalLyrics
     Mil -- le vo -- glie non pa -- ghe,
     In quel -- le lu -- ci va -- ghe,
-    Sco -- pria que -- st’al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
-    sco -- pria que -- st’al -- ma~in -- na -- mo -- ra -- ta~e quel -- la.
+    Sco -- pria que -- st'al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
+    sco -- pria que -- st'al -- ma~in -- na -- mo -- ra -- ta~e quel -- la.
 }
 
 quintoIincipit = \relative c' {
@@ -405,16 +405,16 @@ quintoLyricsI = \lyricmode {
     \ijLyrics
     non si le -- va -- va~an -- cor
     \normalLyrics
-        l’al -- ba no -- vel -- la,
+        l'al -- ba no -- vel -- la,
     non si le -- va -- va~an -- cor
     Né spie -- ga -- van le piu -- me
     Gli~au -- gel -- li~al no -- vo lu -- me,
-    Ma fiam -- meg -- gia -- va l’a -- mo -- ro -- sa stel -- la,
+    Ma fiam -- meg -- gia -- va l'a -- mo -- ro -- sa stel -- la,
     Quan -- do~i duo va -- ghi~e leg -- gia -- dret -- ti~a -- man -- ti,
     \ijLyrics
     quan -- do~i duo va -- ghi~e leg -- gia -- dret -- ti~a -- man -- ti,
     \normalLyrics
-    Ch’u -- na fe -- li -- ce not -- te ag -- giun -- se~in -- sie -- me
+    Ch'u -- na fe -- li -- ce not -- te ag -- giun -- se~in -- sie -- me
     Co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
     \ijLyrics
     co -- me~A -- can -- to si vol -- ge~in va -- ri gi -- ri,
@@ -435,8 +435,8 @@ quintoLyricsI = \lyricmode {
     In quel -- le lu -- ci va -- ghe,
     Mil -- le vo -- glie non pa -- ghe,
     in quel -- le lu -- ci va -- ghe, __
-    Sco -- pria que -- st’al -- ma,
-    sco -- pria que -- st’al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
+    Sco -- pria que -- st'al -- ma,
+    sco -- pria que -- st'al -- ma~in -- na -- mo -- ra -- ta~e quel -- la,
         in -- na -- mo -- ra -- ta~e quel -- la.
 }
 

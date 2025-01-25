@@ -31,25 +31,25 @@ cantoXVII = \relative c'' {
 
 cantoLyricsXVII = \lyricmode {
 % Tirsi morir volea
-% Gli occhi mirando di colei ch’adora
-% Quand’ ella che di lui non meno ardea
+% Gli occhi mirando di colei ch'adora
+% Quand' ella che di lui non meno ardea
     % Li disse: 
     Ahi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
-    Che te -- co bra -- mo __ di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo __ di mo -- rir an -- ch'i -- o.
 % Frenò Tirsi il desio
-% Ch’ebbe di pur sua vita allor finire,
+% Ch'ebbe di pur sua vita allor finire,
 % E sentea morte e non potea morire,
 % E mentre il guardo suo fisso tenea
-% Ne’ begli occhi divini,
-% E’l nettar amoroso indi bevea,
+% Ne' begli occhi divini,
+% E'l nettar amoroso indi bevea,
 % La bella ninfa sua, che già vicini
-% Sentea i messi d’amore
-% Disse con occhi languid’ e tremanti:
-    Mo -- ri cor mio, ch’io mo -- ro,
+% Sentea i messi d'amore
+% Disse con occhi languid' e tremanti:
+    Mo -- ri cor mio, ch'io mo -- ro,
     \ijLyrics
-    Mo -- ri cor mio, ch’io mo -- ro,
+    Mo -- ri cor mio, ch'io mo -- ro,
     \normalLyrics
-    Mo -- ri cor mio, ch’io mo -- ro.
+    Mo -- ri cor mio, ch'io mo -- ro.
 % Cui rispose il pastore:
 % “Ed io, mia vita, moro.”
     Co -- sì mo -- rir -- no~i for -- tu -- na -- ti~A -- man -- ti
@@ -100,23 +100,23 @@ sestaXVII = \relative c'' {
 
 sestaLyricsXVII = \lyricmode {
 % Tirsi morir volea
-% Gli occhi mirando di colei ch’adora
-% Quand’ ella che di lui non meno ardea
+% Gli occhi mirando di colei ch'adora
+% Quand' ella che di lui non meno ardea
     % Li disse: 
     Ahi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
-    Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
 % Frenò Tirsi il desio
-% Ch’ebbe di pur sua vita allor finire,
+% Ch'ebbe di pur sua vita allor finire,
 % E sentea morte e non potea morire,
 % E mentre il guardo suo fisso tenea
-% Ne’ begli occhi divini,
-% E’l nettar amoroso indi bevea,
+% Ne' begli occhi divini,
+% E'l nettar amoroso indi bevea,
 % La bella ninfa sua, che già vicini
-% Sentea i messi d’amore
-% Disse con occhi languid’ e tremanti:
-    Mo -- ri cor mio, ch’io mo -- ro,
-    Mo -- ri cor mio, ch’io mo -- ro,
-    Mo -- ri cor mio, ch’io mo -- ro.
+% Sentea i messi d'amore
+% Disse con occhi languid' e tremanti:
+    Mo -- ri cor mio, ch'io mo -- ro,
+    Mo -- ri cor mio, ch'io mo -- ro,
+    Mo -- ri cor mio, ch'io mo -- ro.
 % Cui rispose il pastore:
 % “Ed io, mia vita, moro.”
     Co -- sì mo -- rir -- no~i for -- tu -- na -- ti~A -- man -- ti
@@ -173,22 +173,22 @@ altoXVII = \relative c'' {
 
 altoLyricsXVII = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    Quand’ el -- la che di lui non me -- no~ar -- de -- a
-    Quand’ el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    Quand' el -- la che di lui non me -- no~ar -- de -- a
+    Quand' el -- la che di lui non me -- no~ar -- de -- a
     Li dis -- se: 
 %     Ahi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
-%     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+%     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò Tir -- si~il de -- si -- o
-    Ch’eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tea mor -- te~e non po -- tea mo -- ri -- re,
     E men -- tre~il guar -- do suo fis -- so te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
-    E’l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
+    E'l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
     La bel -- la nin -- fa sua che già vi -- ci -- ni
-    Sen -- tea~i mes -- si d’a -- mo -- re
-    Dis -- se con oc -- chi lan -- guid’ e tre -- man -- ti:
-%     Mo -- ri cor mio, ch’io mo -- ro.
+    Sen -- tea~i mes -- si d'a -- mo -- re
+    Dis -- se con oc -- chi lan -- guid' e tre -- man -- ti:
+%     Mo -- ri cor mio, ch'io mo -- ro.
     Cui __ ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     Ed io, mia vi -- ta, mo -- ro,
@@ -246,22 +246,22 @@ tenoreXVII = \relative c' {
 
 tenoreLyricsXVII = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    Quand’ el -- la che di lui __ non me -- no~ar -- de -- a
-    Quand’ el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    Quand' el -- la che di lui __ non me -- no~ar -- de -- a
+    Quand' el -- la che di lui non me -- no~ar -- de -- a
     Li dis -- se: 
 %     Ahi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
-%     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+%     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò Tir -- si~il de -- si -- o
-    Ch’eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tea mor -- te~e non po -- tea mo -- ri -- re,
     E men -- tre~il guar -- do suo fis -- so te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
-    E’l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
+    E'l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
     La bel -- la nin -- fa sua che già vi -- ci -- ni
-    Sen -- tea~i mes -- si d’a -- mo -- re
-    Dis -- se con oc -- chi lan -- guid’ e tre -- man -- ti:
-%     Mo -- ri cor mio, ch’io mo -- ro.
+    Sen -- tea~i mes -- si d'a -- mo -- re
+    Dis -- se con oc -- chi lan -- guid' e tre -- man -- ti:
+%     Mo -- ri cor mio, ch'io mo -- ro.
     Cui __ ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     Ed io, mia vi -- ta, mo -- ro,
@@ -316,21 +316,21 @@ bassoXVII = \relative c' {
 
 bassoLyricsXVII = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    Quand’ el -- la che di lui __ non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    Quand' el -- la che di lui __ non me -- no~ar -- de -- a
     Li dis -- se: 
 %     Ahi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
-%     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+%     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò Tir -- si~il de -- si -- o
-    Ch’eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tea mor -- te~e non po -- tea mo -- ri -- re,
     E men -- tre~il guar -- do suo fis -- so te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
-    E’l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
+    E'l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
     La bel -- la nin -- fa sua che già vi -- ci -- ni
-    Sen -- tea~i mes -- si d’a -- mo -- re
-    Dis -- se con oc -- chi lan -- guid’ e tre -- man -- ti:
-%     Mo -- ri cor mio, ch’io mo -- ro.
+    Sen -- tea~i mes -- si d'a -- mo -- re
+    Dis -- se con oc -- chi lan -- guid' e tre -- man -- ti:
+%     Mo -- ri cor mio, ch'io mo -- ro.
     Cui __ ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     Ed io, mia vi -- ta, mo -- ro,
@@ -376,11 +376,11 @@ settimaXVII = \relative c'' {
 
 settimaLyricsXVII = \lyricmode {
     Ahi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
-    Che te -- co bra -- mo __ di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo __ di mo -- rir an -- ch'i -- o.
 
-    Mo -- ri cor mio, ch’io mo -- ro,
-    Mo -- ri cor mio, ch’io mo -- ro,
-    Mo -- ri cor mio, ch’io mo -- ro.
+    Mo -- ri cor mio, ch'io mo -- ro,
+    Mo -- ri cor mio, ch'io mo -- ro,
+    Mo -- ri cor mio, ch'io mo -- ro.
 
     Co -- sì mo -- rir -- no~i for -- tu -- na -- ti~A -- man -- ti
     Di mor -- te sì so -- a -- ve~e sì gra -- di -- ta,
@@ -430,24 +430,24 @@ quintoXVII = \relative c' {
 
 quintoLyricsXVII = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    Quand’ el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    Quand' el -- la che di lui non me -- no~ar -- de -- a
     \ijLyrics
-    Quand’ el -- la che di lui non me -- no~ar -- de -- a
+    Quand' el -- la che di lui non me -- no~ar -- de -- a
     \normalLyrics
     Li dis -- se: 
 %     Ahi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
-%     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+%     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò Tir -- si~il de -- si -- o
-    Ch’eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tea mor -- te~e non po -- tea mo -- ri -- re,
     E men -- tre~il guar -- do suo fis -- so te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
-    E’l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
+    E'l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
     La bel -- la nin -- fa sua che già vi -- ci -- ni
-    Sen -- tea~i mes -- si d’a -- mo -- re
-    Dis -- se con oc -- chi lan -- guid’ e tre -- man -- ti:
-%     Mo -- ri cor mio, ch’io mo -- ro.
+    Sen -- tea~i mes -- si d'a -- mo -- re
+    Dis -- se con oc -- chi lan -- guid' e tre -- man -- ti:
+%     Mo -- ri cor mio, ch'io mo -- ro.
     Cui __ ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     Ed io, mia vi -- ta, mo -- ro,

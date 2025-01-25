@@ -33,7 +33,7 @@ superiusLyricsXV = \lyricmode {
     Sans dé -- sor -- don -- né __ ap -- pé -- tit,
     Nour -- ris -- sant pe -- tit à pe -- tit,
         pe -- tit à pe -- tit __
-    A ce __ jour  d’hui ta cré -- a -- tu -- re,
+    A ce __ jour  d'hui ta cré -- a -- tu -- re,
     Par ce -- lui qui pour nous __ ve -- stit
     Un corps su -- jet __ à nour -- ri -- tu -- re, __
     un corps su -- jet __ à nour -- ri -- tu -- re. __
@@ -79,7 +79,7 @@ contratenorLyricsXV = \lyricmode {
     nour -- ris -- sant 
     \normalLyrics
         pe -- tit __ à pe -- tit,
-    A ce __ jour  d’hui ta cré -- a -- tu -- re,
+    A ce __ jour  d'hui ta cré -- a -- tu -- re,
         cré -- a -- tu -- re,
     Par ce -- lui __ qui pour nous __ ve -- stit
     Un corps su -- jet,
@@ -133,7 +133,7 @@ tenorLyricsXV = \lyricmode {
     Sans dé -- sor -- don -- né ap -- pé -- tit,
     Nour -- ris -- sant pe -- tit __ à pe -- tit,
         à pe -- tit
-    A ce jour  d’hui ta cré -- a -- tu -- re,
+    A ce jour  d'hui ta cré -- a -- tu -- re,
         cré -- a -- tu -- re,
     Par ce -- lui qui pour __ nous ve -- stit,
     \ijLyrics
@@ -185,7 +185,7 @@ bassusLyricsXV = \lyricmode {
     nour -- ris -- sant 
     \normalLyrics
         pe -- tit à pe -- tit __
-    A ce jour  d’hui ta cré -- a -- tu -- re, __
+    A ce jour  d'hui ta cré -- a -- tu -- re, __
     Par ce -- lui qui pour nous __ ve -- stit
     Un corps su -- jet __ à nour -- ri -- tu -- re,
         à nour -- ri -- tu -- re,

@@ -1,11 +1,11 @@
 %   1  Ingiustissimo Amor, perché sì raro
 %      corrispondenti fai nostri desiri?
-%      onde, perfido, avvien che t’è sì caro
-%      il discorde voler ch’in duo cor miri?
+%      onde, perfido, avvien che t'è sì caro
+%      il discorde voler ch'in duo cor miri?
 %      Gir non mi lasci al facil guado e chiaro,
 %      e nel più cieco e maggior fondo tiri:
 %      da chi disia il mio amor tu mi richiami,
-%      e chi m’ha in odio vuoi ch’adori et ami.
+%      e chi m'ha in odio vuoi ch'adori et ami.
 
 cantoIIincipit = \relative c'' {
     \time 4/4
@@ -39,15 +39,15 @@ cantoLyricsII = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
         per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è sì ca -- ro, 
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    On -- de, per -- fi -- do~av -- vien che t'è sì ca -- ro, 
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Gir non mi la -- sci al fa -- cil gua -- do~e chia -- ro,
     E nel più cie -- co, e __ mag -- gior fon -- do ti -- ri,
         e mag -- gior fon -- do ti -- ri: 
     Da chi di -- sia~il mio~a -- mor tu mi ri -- chia -- mi,
         tu mi ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi. 
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi. 
 
 }
 
@@ -86,10 +86,10 @@ altoLyricsII = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
         per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è sì ca -- ro, 
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    On -- de, per -- fi -- do~av -- vien che t'è sì ca -- ro, 
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     \ijLyrics
-        ch’in duo cor mi -- ri?
+        ch'in duo cor mi -- ri?
     \normalLyrics
     Gir non mi la -- sci al fa -- cil gua -- do~e chia -- ro,
     E nel più cie -- co, e mag -- gior fon -- do ti -- ri,
@@ -99,8 +99,8 @@ altoLyricsII = \lyricmode {
     \ijLyrics
         tu mi ri -- chia -- mi,
     \normalLyrics
-    E chi m’ha~in o -- dio vuoi __ ch’a -- do -- ri~et a -- mi,
-    E chi m’ha~in o -- dio vuoi __ ch’a -- do -- ri~et a -- mi. 
+    E chi m'ha~in o -- dio vuoi __ ch'a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio vuoi __ ch'a -- do -- ri~et a -- mi. 
 }
 
 tenoreIIincipit = \relative c' {
@@ -137,8 +137,8 @@ tenoreLyricsII = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mo -- re, per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
         no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è sì ca -- ro, 
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    On -- de, per -- fi -- do~av -- vien che t'è sì ca -- ro, 
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Gir non mi la -- sci,
     \ijLyrics
     Gir non mi la -- sci 
@@ -150,8 +150,8 @@ tenoreLyricsII = \lyricmode {
     \ijLyrics
         tu __ mi ri -- chia -- mi,
     \normalLyrics
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi. 
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi. 
 }
 
 bassoIIincipit = \relative c {
@@ -188,17 +188,17 @@ bassoLyricsII = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
         per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è sì ca -- ro, 
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    On -- de, per -- fi -- do~av -- vien che t'è sì ca -- ro, 
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Gir non mi la -- sci al fa -- cil gua -- do~e chia -- ro,
     E nel più cie -- co, e mag -- gior fon -- do ti -- ri,
         e mag -- gior fon -- do ti -- ri: 
     Da chi di -- sia~il mio~a -- mor tu mi ri -- chia -- mi,
         tu mi ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-        ch’a -- do -- ri~et a -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-        ch’a -- do -- ri~et a -- mi.
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+        ch'a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+        ch'a -- do -- ri~et a -- mi.
 }
 
 cantoIIincipitVoice = <<

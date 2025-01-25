@@ -6,7 +6,7 @@
 % Deh gradisci il mio cor, questo cor fido
 % ch'arso dalle tue fiamme io ti consacro.
 % 
-% Rime di diversi celebri poeti dell’età nostra, ed. G.B. Licino, Bergamo: Comino Ventura e Compagni, 1587
+% Rime di diversi celebri poeti dell'età nostra, ed. G.B. Licino, Bergamo: Comino Ventura e Compagni, 1587
 
 
 % Lady of my soul, of my life,

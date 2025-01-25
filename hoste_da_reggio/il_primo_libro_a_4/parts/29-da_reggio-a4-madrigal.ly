@@ -34,17 +34,17 @@ cantusXXIX = \relative c'' {
 cantusLyricsXXIX = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri __ de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è sì ca -- ro,
-        che t’è sì ca -- ro,
+    On -- de, per -- fi -- do~av -- vien che t'è sì ca -- ro,
+        che t'è sì ca -- ro,
     Il di -- scor -- de vo -- ler,
-    il __ di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    il __ di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Ir non mi la -- sci~ir 
         non __ mi la -- sci~al fa -- cil gua -- do~e chia -- ro,
     E __ nel più cie -- co __ e mag -- gior fon -- do ti -- ri,
     Da chi di -- sia~il mio~a -- mor tu mi __ ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi,
-    e chi m’ha~in o -- dio vuoi,
-    e chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi. __
+    E chi m'ha~in o -- dio vuoi,
+    e chi m'ha~in o -- dio vuoi,
+    e chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi. __
 }
 
 altusXXIXincipit = \relative c' {
@@ -82,20 +82,20 @@ altusXXIX = \relative c' {
 altusLyricsXXIX = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri __ de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è sì ca -- ro,
-        che t’è sì ca -- ro,
+    On -- de, per -- fi -- do~av -- vien che t'è sì ca -- ro,
+        che t'è sì ca -- ro,
     Il di -- scor -- de vo -- ler,
-    il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Ir non mi la -- sci
     ir non mi la -- sci al fa -- cil gua -- do~e chia -- ro,
     E nel più cie -- co~e mag -- gior fon -- do ti -- ri,
     Da chi di -- sia~il mio~a -- mor tu mi __ ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi,
+    E chi m'ha~in o -- dio vuoi,
     \ijLyrics
-    e chi m’ha~in o -- dio vuoi,
+    e chi m'ha~in o -- dio vuoi,
     \normalLyrics
-    e chi m’ha in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-        ch’a -- do -- ri~et a -- mi.
+    e chi m'ha in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+        ch'a -- do -- ri~et a -- mi.
 }
 
 tenorXXIXincipit = \relative c' {
@@ -133,20 +133,20 @@ tenorXXIX = \relative c' {
 tenorLyricsXXIX = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri __ de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è sì __ ca -- ro,
-        che t’è __ sì ca -- ro,
+    On -- de, per -- fi -- do~av -- vien che t'è sì __ ca -- ro,
+        che t'è __ sì ca -- ro,
     Il di -- scor -- de __ vo -- ler,
-    il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Ir non mi la -- sci
     ir non mi la -- sci al fa -- cil gua -- do~e chia -- ro,
     E nel più cie -- co~e mag -- gior fon -- do ti -- ri,
     Da chi di -- sia~il mio~a -- mor tu mi __ ri -- chia -- mi,
-    E __ chi m’ha~in o -- dio vuoi,
+    E __ chi m'ha~in o -- dio vuoi,
     \ijLyrics
-    e chi m’ha~in o -- dio vuoi,
+    e chi m'ha~in o -- dio vuoi,
     \normalLyrics
-    e chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-        ch’a -- do -- ri~et a -- mi.
+    e chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+        ch'a -- do -- ri~et a -- mi.
 }
 
 bassusXXIXincipit = \relative c {
@@ -182,18 +182,18 @@ bassusXXIX = \relative c {
 bassusLyricsXXIX = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è sì ca -- ro,
-        che t’è __ sì ca -- ro,
+    On -- de, per -- fi -- do~av -- vien che t'è sì ca -- ro,
+        che t'è __ sì ca -- ro,
     Il di -- scor -- de vo -- ler,
-    il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Ir non mi la -- sci
     ir non mi la -- sci al fa -- cil gua -- do~e chia -- ro,
     E nel più cie -- co~e mag -- gior fon -- do ti -- ri,
     Da chi di -- sia~il mio~a -- mor tu mi __ ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi,
-    e chi m’ha~in o -- dio vuoi,
-    e chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-        ch’a -- do -- ri~et a -- mi.
+    E chi m'ha~in o -- dio vuoi,
+    e chi m'ha~in o -- dio vuoi,
+    e chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+        ch'a -- do -- ri~et a -- mi.
 }
 
 cantusXXIXincipitVoice = <<

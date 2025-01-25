@@ -30,10 +30,10 @@ tenoreVII = \relative c {
 }
 
 tenoreLyricsVII = \lyricmode {
-    Io son a -- man -- te d’un crin au -- ra -- to
-    Ch’al -- l’au -- ra~er -- ran -- te m’ha‘l cor le -- ga -- to,
-        m’ha‘l cor le -- ga -- to,
-    ch’al -- l’au -- ra~er -- ran -- te m’ha‘l cor __ le -- ga -- to.
+    Io son a -- man -- te d'un crin au -- ra -- to
+    Ch'al -- l'au -- ra~er -- ran -- te m'ha‘l cor le -- ga -- to,
+        m'ha‘l cor le -- ga -- to,
+    ch'al -- l'au -- ra~er -- ran -- te m'ha‘l cor __ le -- ga -- to.
     Più ca -- ri~im -- pac -- ci tro -- var non li -- ce __
     Son frà qué lac -- ci pri -- gion fe -- li -- ce, __
     son frà qué lac -- ci pri -- gion,

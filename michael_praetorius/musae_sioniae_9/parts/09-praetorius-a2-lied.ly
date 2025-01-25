@@ -15,9 +15,9 @@
 % Ring it from the steeple!
 % Of maiden pure is He the Son;
 % For ever shall thy praise be sung,
-% Christ’s fair mother Mary!
+% Christ's fair mother Mary!
 % Ever was there news so great?
-% God’s own Son from heaven’s high state
+% God's own Son from heaven's high state
 % Is born the Son of Mary!
 % Charles Sanford Terry (1921)
 

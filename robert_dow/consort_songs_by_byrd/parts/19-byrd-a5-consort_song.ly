@@ -4,7 +4,7 @@
 % behold me Lord, with pity,
 % stop not thine ears against my cry,
 % my sad and mourning ditty,
-% Breath’d from an inward soul,
+% Breath'd from an inward soul,
 % from heart heartly contrite,
 % an offering sweet, a sacrifice,
 % in thy high heavenly sight.
@@ -46,7 +46,7 @@ superiusLyricsXIX = \lyricmode {
     be -- hold me Lord, with __ pi -- ty.
     Stop not thine ears a -- gainst my __ cry,
     my sad and mour -- ning dit -- ty,
-    Breath’d from an in -- ward soul,
+    Breath'd from an in -- ward soul,
     from heart heart -- ly con -- trite;
     an of -- fering sweet, a sa -- cri -- fice
     in thy high hea -- ven -- ly sight,

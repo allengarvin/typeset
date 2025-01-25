@@ -1,7 +1,7 @@
 % O che nuovo miracolo!
-% Ecco ch’in terra scendono
+% Ecco ch'in terra scendono
 % celeste alto spettacolo
-% gli dei ch’il mondo accendono.
+% gli dei ch'il mondo accendono.
 % Ecco Imeneo e Venere,
 % col piè la terra or premere.
 
@@ -31,9 +31,9 @@ cantoXXX = \relative c'' {
 
 cantoLyricsXXX = \lyricmode {
     O che nuo -- vo mi -- ra -- co -- lo!
-    Ec -- co ch’in ter -- ra scen -- do -- no
+    Ec -- co ch'in ter -- ra scen -- do -- no
     Ce -- le -- ste~al -- to spet -- ta -- co -- lo
-    Gli __ dei ch’il mon -- do~ac -- cen -- do -- no.
+    Gli __ dei ch'il mon -- do~ac -- cen -- do -- no.
     Ec -- co~I -- me -- neo e __ Ve -- ne -- re,
     Col __ piè la ter -- ra~or pre -- me -- re.
 }
@@ -63,9 +63,9 @@ altoXXX = \relative c'' {
 
 altoLyricsXXX = \lyricmode {
     O che nuo -- vo __ mi -- ra -- co -- lo!
-    Ec -- co ch’in ter -- ra scen -- do -- no
+    Ec -- co ch'in ter -- ra scen -- do -- no
     Ce -- le -- ste~al -- to spet -- ta -- co -- lo
-    Gli dei ch’il mon -- do~ac -- cen -- do -- no.
+    Gli dei ch'il mon -- do~ac -- cen -- do -- no.
     Ec -- co~I -- me -- neo e Ve -- ne -- re,
     Col piè la ter -- ra~or pre -- me -- re.
 }
@@ -98,9 +98,9 @@ tenoreXXX = \relative c' {
 
 tenoreLyricsXXX = \lyricmode {
     O che nuo -- vo mi -- ra -- co -- lo!
-    Ec -- co ch’in ter -- ra scen -- do -- no
+    Ec -- co ch'in ter -- ra scen -- do -- no
     Ce -- le -- ste~al -- to spet -- ta -- co -- lo
-    Gli __ dei ch’il mon -- do~ac -- cen -- do -- no.
+    Gli __ dei ch'il mon -- do~ac -- cen -- do -- no.
     Ec -- co~I -- me -- neo e Ve -- ne -- re,
     Col piè la ter -- ra~or pre -- me -- re.
 }
@@ -131,9 +131,9 @@ bassoXXX = \relative c' {
 
 bassoLyricsXXX = \lyricmode {
     O che nuo -- vo mi -- ra -- co -- lo!
-    Ec -- co ch’in ter -- ra scen -- do -- no
+    Ec -- co ch'in ter -- ra scen -- do -- no
     Ce -- le -- ste~al -- to spet -- ta -- co -- lo
-    Gli dei ch’il mon -- do~ac -- cen -- do -- no.
+    Gli dei ch'il mon -- do~ac -- cen -- do -- no.
     Ec -- co~I -- me -- neo e Ve -- ne -- re,
     Col piè la ter -- ra~or pre -- me -- re.
 }
@@ -164,9 +164,9 @@ settimoXXX = \relative c'' {
 
 settimoLyricsXXX = \lyricmode {
     O che nuo -- vo mi -- ra -- co -- lo!
-    Ec -- co ch’in ter -- ra scen -- do -- no
+    Ec -- co ch'in ter -- ra scen -- do -- no
     Ce -- le -- ste~al -- to spet -- ta -- co -- lo
-    Gli dei ch’il mon -- do~ac -- cen -- do -- no.
+    Gli dei ch'il mon -- do~ac -- cen -- do -- no.
     Ec -- co~I -- me -- neo e Ve -- ne -- re,
     Col __ piè la ter -- ra~or pre -- me -- re.
 }

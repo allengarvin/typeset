@@ -4,9 +4,9 @@
 %       Sgombra i ghiacci e le nevi, e rasserena
 %       la mente mia sì nubilosa e nera.
 %       Qual Progne si lamenta o Filomena
-%       ch’a cercar esca ai figliolini ita era,
+%       ch'a cercar esca ai figliolini ita era,
 %       e trova il nido voto; o qual si lagna
-%       turture ch’ha perduto la compagna.
+%       turture ch'ha perduto la compagna.
 cantusVincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c1"
@@ -59,17 +59,17 @@ cantusLyricsV = \lyricmode {
         o Fi -- lo -- me -- na,
     \normalLyrics
         o Fi -- lo -- me -- na
-    Ch’a cer -- car,
+    Ch'a cer -- car,
     \ijLyrics
-    ch’a __ cer -- car
+    ch'a __ cer -- car
     \normalLyrics
         e -- sca ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     E tro -- va~il ni -- do vo -- to,
         il ni -- do vo -- to; o qual si la -- gna,
             o qual __ si la -- gna
-    Tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
-    tur -- tu -- re ch’ha __ per -- du -- to la __ com -- pa -- gna.
+    Tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
+    tur -- tu -- re ch'ha __ per -- du -- to la __ com -- pa -- gna.
 }
 
 altusVincipit = \relative c' {
@@ -135,9 +135,9 @@ altusLyricsV = \lyricmode {
         sì nu -- bi -- lo -- sa~e ne -- ra.
     Qual Pro -- gne si la -- men -- ta o Fi -- lo -- me -- na,
         o Fi -- lo -- me -- na
-    Ch’a cer -- car e -- sca,
+    Ch'a cer -- car e -- sca,
     \ijLyrics
-    ch’a cer -- car e -- sca
+    ch'a cer -- car e -- sca
     \normalLyrics
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     \ijLyrics
@@ -146,9 +146,9 @@ altusLyricsV = \lyricmode {
     E __ tro -- va~il ni -- do vo -- to,
         vo -- to; o qual si la -- gna,
             o qual si la -- gna
-    Tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna.
+    Tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna.
 }
 
 tenorVincipit = \relative c' {
@@ -211,13 +211,13 @@ tenorLyricsV = \lyricmode {
         o Fi -- lo -- me -- na,
     \normalLyrics
         o Fi -- lo -- me -- na
-    Ch’a __ cer -- car e -- sca ai fi -- glio -- li -- ni~i -- ta~e -- ra,
+    Ch'a __ cer -- car e -- sca ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     E tro -- va~il ni -- do vo -- to,
     e tro -- va~il ni -- do vo -- to, o qual __ si la -- gna,
             o __ qual si la -- gna
-    Tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la __ com -- pa -- gna.
+    Tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
+    tur -- tu -- re ch'ha per -- du -- to la __ com -- pa -- gna.
 }
 
 bassusVincipit = \relative c {
@@ -273,9 +273,9 @@ bassusLyricsV = \lyricmode {
         sì nu -- bi -- lo -- sa~e ne -- ra.
     Qual Pro -- gne si la -- men -- ta o Fi -- lo -- me -- na,
         o Fi -- lo -- me -- na
-    Ch’a cer -- car e -- sca,
+    Ch'a cer -- car e -- sca,
     \ijLyrics
-    ch’a cer -- car e -- sca
+    ch'a cer -- car e -- sca
     \normalLyrics
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     E tro -- va~il ni -- do vo -- to,
@@ -284,9 +284,9 @@ bassusLyricsV = \lyricmode {
     \normalLyrics
         o qual si la -- gna,
         o qual __ si la -- gna
-    Tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la __ com -- pa -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna.
+    Tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
+    tur -- tu -- re ch'ha per -- du -- to la __ com -- pa -- gna,
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna.
 }
 
 quintusVincipit = \relative c' {
@@ -345,9 +345,9 @@ quintusLyricsV = \lyricmode {
         sì nu -- bi -- lo -- sa~e ne -- ra.
     Qual Pro -- gne si la -- men -- ta o Fi -- lo -- me -- na,
         o Fi -- lo -- me -- na
-    Ch’a cer -- car e -- sca,
+    Ch'a cer -- car e -- sca,
     \ijLyrics
-    ch’a cer -- car e -- sca
+    ch'a cer -- car e -- sca
     \normalLyrics
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     E tro -- va~il ni -- do vo -- to,
@@ -356,9 +356,9 @@ quintusLyricsV = \lyricmode {
     \normalLyrics
         o qual si la -- gna,
         o qual si la -- gna
-    Tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la __ com -- pa -- gna.
+    Tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
+    tur -- tu -- re ch'ha per -- du -- to la __ com -- pa -- gna.
 }
 
 cantusVincipitVoice = <<

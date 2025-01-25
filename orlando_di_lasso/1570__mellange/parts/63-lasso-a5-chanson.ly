@@ -3,7 +3,7 @@
 % Et en revant jusques au resveiller
 % Incessament vous quiers parmi la couche,
 % Et bien souvent au lieu de vostre bouche
-% En soupirant je baise l’oreiller.
+% En soupirant je baise l'oreiller.
 
 superiusLXIIIincipit = \relative c'' {
     \time 2/2
@@ -59,7 +59,7 @@ superiusLyricsLXIII = \lyricmode {
     \ijLyrics
     en sou -- pi -- rant
     \normalLyrics
-        je bai -- se l’o -- reil -- ler.
+        je bai -- se l'o -- reil -- ler.
     Tou -- tes les __ nuits.
 }
 
@@ -115,7 +115,7 @@ contratenorLyricsLXIII = \lyricmode {
     \ijLyrics
     en sou -- pi -- rant
     \normalLyrics
-        je bai -- se l’o -- reil -- ler.
+        je bai -- se l'o -- reil -- ler.
     Tou -- tes les nuits.
 }
 
@@ -172,7 +172,7 @@ tenorLyricsLXIII = \lyricmode {
         au lieu de vo -- tre bou -- che
     En sou -- pi -- rant,
     en sou -- pi -- rant
-        je bai -- se l’o -- reil -- ler. __
+        je bai -- se l'o -- reil -- ler. __
     Tou -- tes les nuits,
     tou -- tes les nuits.
 }
@@ -224,7 +224,7 @@ bassusLyricsLXIII = \lyricmode {
         au lieu de vo -- tre bou -- che
     En sou -- pi -- rant,
     en sou -- pi -- rant
-        je bai -- se l’o -- reil -- ler.
+        je bai -- se l'o -- reil -- ler.
     Tou -- tes les nuits.
 }
 
@@ -290,7 +290,7 @@ quintaParsLyricsLXIII = \lyricmode {
     \ijLyrics
     en sou -- pi -- rant
     \normalLyrics
-        je bai -- se l’o -- reil -- ler.
+        je bai -- se l'o -- reil -- ler.
     Tou -- tes les __ nuits,
     \ijLyrics
     tou -- tes __ les nuits.

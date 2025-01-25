@@ -42,21 +42,21 @@ cantusXV = \relative c' {
 cantusLyricsXV = \lyricmode {
     Se lie -- ta~e gra -- ta mor -- te
     Da gli~oc -- chi di ma -- don -- na~al cor mi vie -- ne
-    Che dol -- ce m'è’l mo -- rir,
+    Che dol -- ce m'è'l mo -- rir,
     \ijLyrics
-    che dol -- ce m'è’l mo -- rir 
+    che dol -- ce m'è'l mo -- rir 
     \normalLyrics
         dol -- ce le pe -- ne. __
     Per -- ché qual hor la mi -- ro
-    Vol -- ger -- s’in sì be -- ni -- gno~e lie -- to gi -- ro,
+    Vol -- ger -- s'in sì be -- ni -- gno~e lie -- to gi -- ro,
     Su -- bi -- to per dol -- cez -- za~il cor si mo -- re, __
         %La lingua muta tace,
     O -- gni spi -- ri -- to gia -- ce
     At -- ten -- to per sen -- ti -- re
     Un __ si dol -- ce mo -- ri -- re
-    Ma tan -- to del mo -- rir gio -- i -- sce’l co -- re __
+    Ma tan -- to del mo -- rir gio -- i -- sce'l co -- re __
     Che poi non sen -- to noi -- a
-    An -- zi la mor -- te si con -- ver -- t’in __ gio -- ia
+    An -- zi la mor -- te si con -- ver -- t'in __ gio -- ia
     Don -- que se la mia don -- na~è di tal for -- te
     Che sen -- tir fam -- mi mor -- te sì gra -- di -- ta, __
     Che sa -- ria poi si~el -- la mi __ des -- se vi -- ta? __
@@ -110,12 +110,12 @@ altusXV = \relative c' {
 altusLyricsXV = \lyricmode {
     Se lie -- ta~e gra -- ta mor -- te
     Da gli~oc -- chi di ma -- don -- na~al cor mi vie -- ne __
-    Che dol -- ce m'è’l mo -- rir dol -- ce __ le __ pen -- ne,
+    Che dol -- ce m'è'l mo -- rir dol -- ce __ le __ pen -- ne,
     \ijLyrics
-    che dol -- ce m'è’l mo -- rir dol -- ce le pen -- ne.
+    che dol -- ce m'è'l mo -- rir dol -- ce le pen -- ne.
     \normalLyrics
     Per -- ché qual hor la mi -- ro __
-    Vol -- ger -- s’in sì be -- ni -- gno~e lie -- to gi -- ro,
+    Vol -- ger -- s'in sì be -- ni -- gno~e lie -- to gi -- ro,
     Su -- bi -- to per dol -- cez -- za~il cor si __ mo -- re,
     \ijLyrics
     su -- bi -- to per dol -- cez -- za~il cor si __ mo -- re,
@@ -124,9 +124,9 @@ altusLyricsXV = \lyricmode {
 %    O -- gni spi -- ri -- to gia -- ce
     At -- ten -- to per sen -- ti -- re
     Un si dol -- ce mo -- ri -- re
-    Ma tan -- to del mo -- rir gio -- i -- sce’l co -- re
+    Ma tan -- to del mo -- rir gio -- i -- sce'l co -- re
     Che poi non sen -- to noi -- a
-    An -- zi la mor -- te si con -- ver -- t’in __ gio -- ia
+    An -- zi la mor -- te si con -- ver -- t'in __ gio -- ia
     Don -- que se la mia don -- na~è di tal for -- te
     Che sen -- tir fam -- mi mor -- te sì gra -- di -- ta,
     Che sa -- ria poi si~el -- la mi des -- se vi -- ta,
@@ -181,13 +181,13 @@ tenorXV = \relative c {
 tenorLyricsXV = \lyricmode {
     Se lie -- ta~e gra -- ta mor -- te
     Da gli~oc -- chi di ma -- don -- na~al cor mi vie -- ne
-    Che dol -- ce m'è’l mo -- rir dol -- ce le pe -- ne,
+    Che dol -- ce m'è'l mo -- rir dol -- ce le pe -- ne,
     \ijLyrics
-    che dol -- ce m'è’l mo -- rir dol -- ce le pe -- ne,
+    che dol -- ce m'è'l mo -- rir dol -- ce le pe -- ne,
     \normalLyrics
         dol -- ce le pe -- ne.
     Per -- ché qual hor la mi -- ro
-    Vol -- ger -- s’in sì be -- ni -- gno~e lie -- to gi -- ro,
+    Vol -- ger -- s'in sì be -- ni -- gno~e lie -- to gi -- ro,
     Su -- bi -- to per dol -- cez -- za~il cor si mo -- re,
     \ijLyrics
     su -- bi -- to per dol -- cez -- za~il cor si mo -- re,
@@ -196,9 +196,9 @@ tenorLyricsXV = \lyricmode {
     O -- gni spi -- ri -- to gia -- ce
     At -- ten -- to per sen -- ti -- re
     Un __ si dol -- ce mo -- ri -- re
-    Ma tan -- to del mo -- rir gio -- i -- sce’l co -- re __
+    Ma tan -- to del mo -- rir gio -- i -- sce'l co -- re __
     Che poi non __ sen -- to noi -- a
-    An -- zi la mor -- te si con -- ver -- t’in gio -- ia
+    An -- zi la mor -- te si con -- ver -- t'in gio -- ia
     Don -- que se la mia don -- na~è di tal for -- te
     Che __ sen -- tir fam -- mi mor -- te sì gra -- di -- ta,
     Che sa -- ria poi si~el -- la mi des -- se vi -- ta,
@@ -253,21 +253,21 @@ bassusXV = \relative c {
 bassusLyricsXV = \lyricmode {
     Se lie -- ta~e gra -- ta mor -- te
     Da gli~oc -- chi di ma -- don -- na~al cor mi vie -- ne __
-    Che dol -- ce m'è’l mo -- rir dol -- ce le pe -- ne, 
+    Che dol -- ce m'è'l mo -- rir dol -- ce le pe -- ne, 
     \ijLyrics
         dol -- ce le pe -- ne.
     \normalLyrics
     Per -- ché qual hor la mi -- ro __
-    Vol -- ger -- s’in sì be -- ni -- gno~e lie -- to gi -- ro,
+    Vol -- ger -- s'in sì be -- ni -- gno~e lie -- to gi -- ro,
     Su -- bi -- to per dol -- cez -- za~il cor si mo -- re,
         il cor si mo -- re,
     La lin -- gua mu -- ta ta -- ce,
     O -- gni spi -- ri -- to gia -- ce
     At -- ten -- to per sen -- ti -- re
     Un si dol -- ce mo -- ri -- re
-    Ma tan -- to del mo -- rir gio -- i -- sce’l co -- re
+    Ma tan -- to del mo -- rir gio -- i -- sce'l co -- re
     Che poi non sen -- to noi -- a
-    An -- zi la mor -- te si con -- ver -- t’in gio -- ia
+    An -- zi la mor -- te si con -- ver -- t'in gio -- ia
     Don -- que se la mia don -- na~è di tal for -- te
     Che sen -- tir fam -- mi mor -- te sì gra -- di -- ta,
     Che sa -- ria poi si~el -- la mi des -- se vi -- ta,

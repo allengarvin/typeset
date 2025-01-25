@@ -1,10 +1,10 @@
-% Quest’arder mio, di che vi cal sí poco,
+% Quest'arder mio, di che vi cal sí poco,
 % e i vostri honori, in mie rime diffusi,
-% ne porian infiammar fors’anchor mille:
+% ne porian infiammar fors'anchor mille:
 % 
-% ch’i’ veggio nel penser, dolce mio foco,
+% ch'i' veggio nel penser, dolce mio foco,
 % fredda una lingua et duo belli occhi chiusi
-% rimaner, dopo noi, pien’ di faville.
+% rimaner, dopo noi, pien' di faville.
 cantusVIIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c4"
@@ -45,19 +45,19 @@ cantusVIII = \relative c' {
 }
 
 cantusLyricsVIII = \lyricmode {
-    Que -- st’ar -- der mi -- o, di che vi cal sì __ po -- co,
+    Que -- st'ar -- der mi -- o, di che vi cal sì __ po -- co,
     E~i vo -- stri~o -- no -- ri~in __ mie ri -- me __ dif -- fu -- si, __
     E~i vo -- stri~o -- no -- ri~in __ mie ri -- me __ dif -- fu -- si,
-    Ne po -- rian in -- fiam -- mar for -- s’an -- cor mil -- le: 
-    Ne po -- rian in -- fiam -- mar for -- s’an -- cor mil -- le: 
-    Ne po -- rian in -- fiam -- mar for -- s’an -- cor mil -- le: __
+    Ne po -- rian in -- fiam -- mar for -- s'an -- cor mil -- le: 
+    Ne po -- rian in -- fiam -- mar for -- s'an -- cor mil -- le: 
+    Ne po -- rian in -- fiam -- mar for -- s'an -- cor mil -- le: __
  
-    Ch’i’ veg -- gio nel pen -- ser, dol -- ce mio fo -- co,
+    Ch'i' veg -- gio nel pen -- ser, dol -- ce mio fo -- co,
         dol -- ce mio fo -- co,
     Fred -- da~u -- na lin -- gua et duo be -- gli~oc -- chi chiu -- si
         et duo be -- gli~oc -- chi chiu -- si
-    Ri -- ma -- ner, __ do -- po noi, __ pien’ di fa -- vil -- le,
-    Ri -- ma -- ner, do -- po noi, __ pien’ di fa -- vil -- le.
+    Ri -- ma -- ner, __ do -- po noi, __ pien' di fa -- vil -- le,
+    Ri -- ma -- ner, do -- po noi, __ pien' di fa -- vil -- le.
 }
 
 altusVIIIincipit = \relative c' {
@@ -97,21 +97,21 @@ altusVIII = \relative c' {
 }
 
 altusLyricsVIII = \lyricmode {
-    Que -- st’ar -- der mio, di che __ vi cal __ sì po -- co,
+    Que -- st'ar -- der mio, di che __ vi cal __ sì po -- co,
         di che vi cal sì po -- co,
     E~i vo -- stri~o -- no -- ri~in mie ri -- me dif -- fu -- si,
         in mie ri -- me dif -- fu -- si,
     E~i vo -- stri~o -- no -- ri~in mie ri -- me __ dif -- fu -- si,
-    Ne po -- rian in -- fiam -- mar for -- s’an -- cor mil -- le:
+    Ne po -- rian in -- fiam -- mar for -- s'an -- cor mil -- le:
     Ne po -- rian in -- fiam -- mar,
-    Ne po -- rian in -- fiam -- mar for -- s’an -- cor mil -- le:
+    Ne po -- rian in -- fiam -- mar for -- s'an -- cor mil -- le:
  
-    Ch’i’ veg -- gio nel pen -- ser, __
-    Ch’i’ veg -- gio nel pen -- ser, dol -- ce mio fo -- co,
+    Ch'i' veg -- gio nel pen -- ser, __
+    Ch'i' veg -- gio nel pen -- ser, dol -- ce mio fo -- co,
         dol -- ce mio fo -- co,
     Fred -- da~u -- na lin -- gua et duo be -- gli~oc -- chi chiu -- si
-    Ri -- ma -- ner, do -- po noi, pien’ di fa -- vil -- le,
-    Ri -- ma -- ner, do -- po noi, pien’ di fa -- vil -- le.
+    Ri -- ma -- ner, do -- po noi, pien' di fa -- vil -- le,
+    Ri -- ma -- ner, do -- po noi, pien' di fa -- vil -- le.
 }
 
 tenorVIIIincipit = \relative c' {
@@ -153,22 +153,22 @@ tenorVIII = \relative c' {
 }
 
 tenorLyricsVIII = \lyricmode {
-    Que -- st’ar -- der mio, di che __ vi cal sì __ po -- co,
+    Que -- st'ar -- der mio, di che __ vi cal sì __ po -- co,
         di che vi cal sì po -- co,
     E~i vo -- stri~o -- no -- ri~in __ mie ri -- me dif -- fu -- si,
         ri -- me dif -- fu -- si,
     E~i vo -- stri~o -- no -- ri~in mie ri -- me __ dif -- fu -- si,
-    Ne po -- rian in -- fiam -- mar for -- s’an -- cor mil -- le: __
-    Ne po -- rian in -- fiam -- mar for -- s’an -- cor mil -- le:
-        for -- s’an -- cor mil -- le:
-    Ne po -- rian in -- fiam -- mar for -- s’an -- cor mil -- le:
+    Ne po -- rian in -- fiam -- mar for -- s'an -- cor mil -- le: __
+    Ne po -- rian in -- fiam -- mar for -- s'an -- cor mil -- le:
+        for -- s'an -- cor mil -- le:
+    Ne po -- rian in -- fiam -- mar for -- s'an -- cor mil -- le:
  
-    Ch’i’ veg -- gio nel __ pen -- ser, dol -- ce mio fo -- co,
+    Ch'i' veg -- gio nel __ pen -- ser, dol -- ce mio fo -- co,
         dol -- ce mio fo -- co,
     Fred -- da~u -- na lin -- gua et duo be -- gli~oc -- chi chiu -- si
         et duo be -- gli~oc -- chi chiu -- si
-    Ri -- ma -- ner, do -- po noi, __ pien’ di fa -- vil -- le,
-    Ri -- ma -- ner, __ do -- po noi, pien’ di fa -- vil -- le.
+    Ri -- ma -- ner, do -- po noi, __ pien' di fa -- vil -- le,
+    Ri -- ma -- ner, __ do -- po noi, pien' di fa -- vil -- le.
 }
 
 bassusVIIIincipit = \relative c {
@@ -207,20 +207,20 @@ bassusVIII = \relative c {
 }
 
 bassusLyricsVIII = \lyricmode {
-    Que -- st’ar -- der mio, di che __ vi cal sì po -- co,
+    Que -- st'ar -- der mio, di che __ vi cal sì po -- co,
     E~i vo -- stri~o -- no -- ri~in mie ri -- me dif -- fu -- si,
         in mie ri -- me __ dif -- fu -- si,
     E~i vo -- stri~o -- no -- ri~in mie ri -- me __ dif -- fu -- si,
     Ne po -- rian in -- fiam -- mar,
-    Ne po -- rian in -- fiam -- mar for -- s’an -- cor mil -- le:
-    Ne po -- rian in -- fiam -- mar __ for -- s’an -- cor mil -- le:
+    Ne po -- rian in -- fiam -- mar for -- s'an -- cor mil -- le:
+    Ne po -- rian in -- fiam -- mar __ for -- s'an -- cor mil -- le:
  
-    Ch’i’ veg -- gio nel __ pen -- ser, dol -- ce mio fo -- co,
+    Ch'i' veg -- gio nel __ pen -- ser, dol -- ce mio fo -- co,
         dol -- ce mio fo -- co,
     Fred -- da~u -- na lin -- gua et duo be -- gli~oc -- chi chiu -- si
         et duo be -- gli~oc -- chi chiu -- si
-    Ri -- ma -- ner, do -- po noi, pien’ di fa -- vil -- le,
-    Ri -- ma -- ner, do -- po noi, pien’ di fa -- vil -- le.
+    Ri -- ma -- ner, do -- po noi, pien' di fa -- vil -- le,
+    Ri -- ma -- ner, do -- po noi, pien' di fa -- vil -- le.
 }
 
 cantusVIIIincipitVoice = <<

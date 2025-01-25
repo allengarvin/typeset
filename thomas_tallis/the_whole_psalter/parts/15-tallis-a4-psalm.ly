@@ -4,7 +4,7 @@
 % his mercies all on us to fall.
 % That we thy way may know all day,
 % while we do sail this World so frail;
-% thy health’s reward is nigh declared,
+% thy health's reward is nigh declared,
 % as plain at eye all Gentiles spy.
 
 % Let thee always the people praise,
@@ -13,7 +13,7 @@
 % from whom all thing they see to spring.
 % All folk rejoice, lift up your voice,
 % for thou in sight shalt judge them right;
-% thou shalt direct the Gentiles’ sect
+% thou shalt direct the Gentiles' sect
 % in Earth that be, to turn to thee.
 
 % Let thee always the people praise,
@@ -68,7 +68,7 @@ meaneLyricsXV = \lyricmode {
 
     That we thy way may know all day,
     while we do sail this world so frail;
-    thy health’s re -- ward is nigh de -- clared,
+    thy health's re -- ward is nigh de -- clared,
     as plain at eye all Gen -- tiles spy.
         Let
 }
@@ -81,7 +81,7 @@ meaneLyricsXVa = \lyricmode {
 
     All folk re -- joice, lift up your voice,
     for thou in sight shalt judge them right;
-    thou shalt di -- rect the Gen -- tiles’ sect
+    thou shalt di -- rect the Gen -- tiles' sect
     in Earth that be, to turn to thee.
         The
 }
@@ -136,7 +136,7 @@ contratenorLyricsXV = \lyricmode {
 
     That we thy way may know all day,
     while we do sail this world so frail;
-    thy health’s re -- ward is nigh de -- clared,
+    thy health's re -- ward is nigh de -- clared,
     as plain at eye all Gen -- tiles spy.
         Let
 }
@@ -149,7 +149,7 @@ contratenorLyricsXVa = \lyricmode {
 
     All folk re -- joice, lift up your voice,
     for thou in sight shalt judge them right;
-    thou shalt di -- rect the Gen -- tiles’ sect
+    thou shalt di -- rect the Gen -- tiles' sect
     in Earth that be, to turn to thee.
         The
 }
@@ -206,7 +206,7 @@ tenorLyricsXV = \lyricmode {
 
     That we thy way may know all day,
     while we do sail this world so frail;
-    thy health’s re -- ward is nigh de -- clared,
+    thy health's re -- ward is nigh de -- clared,
     as plain at eye all Gen -- tiles spy.
         Let
 }
@@ -219,7 +219,7 @@ tenorLyricsXVa = \lyricmode {
 
     All folk re -- joice, lift up your voice,
     for thou in sight shalt judge them right;
-    thou shalt di -- rect the Gen -- tiles’ sect
+    thou shalt di -- rect the Gen -- tiles' sect
     in Earth that be, to turn to thee.
         The
 }
@@ -275,7 +275,7 @@ baseLyricsXV = \lyricmode {
 
     That we thy way may know all day,
     while we do sail this world so frail;
-    thy health’s re -- ward is nigh de -- clared,
+    thy health's re -- ward is nigh de -- clared,
     as plain at eye all Gen -- tiles spy.
         Let
 }
@@ -288,7 +288,7 @@ baseLyricsXVa = \lyricmode {
 
     All folk re -- joice, lift up your voice,
     for thou in sight shalt judge them right;
-    thou shalt di -- rect the Gen -- tiles’ sect
+    thou shalt di -- rect the Gen -- tiles' sect
     in Earth that be, to turn to thee.
         The
 }

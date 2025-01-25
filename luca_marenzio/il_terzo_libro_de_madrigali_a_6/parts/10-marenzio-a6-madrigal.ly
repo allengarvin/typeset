@@ -18,7 +18,7 @@
 % from: https://josquin.stanford.edu/cgi-bin/tasso?a=musicxml&f=Trm0003
 % Upon her high brow, curly shining gold
 % Spilled in waves, and the gaze of her beautiful eyes
-% Brought May’s flowering upon the earth
+% Brought May's flowering upon the earth
 % And burning July to hearts beyond measure.
 % 
 % In her white breast Love, charmingly,

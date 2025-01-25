@@ -1,14 +1,14 @@
 % Petrarch 220
 
-% Onde tolse Amor l’oro, et di qual vena,
-% per far due trecce bionde? e ’n quali spine
-% colse le rose, e ’n qual piaggia le brine
-% tenere et fresche, et die’ lor polso et lena?
+% Onde tolse Amor l'oro, et di qual vena,
+% per far due trecce bionde? e 'n quali spine
+% colse le rose, e 'n qual piaggia le brine
+% tenere et fresche, et die' lor polso et lena?
 % 
-% onde le perle, in ch’ei frange et affrena
+% onde le perle, in ch'ei frange et affrena
 % dolci parole, honeste et pellegrine?
 % onde tante bellezze, et sì divine,
-% di quella fronte, più che’l ciel serena?
+% di quella fronte, più che'l ciel serena?
 
 % Da quali angeli mosse et di qual spera
 % quel celeste cantar che mi disface
@@ -56,18 +56,18 @@ cantusXIX = \relative c' {
 }
 
 cantusLyricsXIX = \lyricmode {
-    On -- de tol -- se~A -- mor l’o -- ro, 
-    On -- de tol -- se~A -- mor l’o -- ro, et __ di qual ve -- na,
-    Per far due trec -- ce bion -- de?  e’n qua -- li spi -- ne
-    Col -- se __ le ro -- se, e’n qual piag -- gia le bri -- ne
-    Te -- ne -- re~et fre -- sche, et die’ lor pol -- so~et __ le -- na?
+    On -- de tol -- se~A -- mor l'o -- ro, 
+    On -- de tol -- se~A -- mor l'o -- ro, et __ di qual ve -- na,
+    Per far due trec -- ce bion -- de?  e'n qua -- li spi -- ne
+    Col -- se __ le ro -- se, e'n qual piag -- gia le bri -- ne
+    Te -- ne -- re~et fre -- sche, et die' lor pol -- so~et __ le -- na?
 
-    On -- de le per -- le, in ch’ei fran -- ge~et af -- fre -- na
+    On -- de le per -- le, in ch'ei fran -- ge~et af -- fre -- na
     Dol -- ci pa -- ro -- le, o -- ne -- ste~et pel -- le -- gri -- ne?
     On -- de tan -- te __ bel -- lez -- ze, et sì di -- vi -- ne,
-    Di __ quel -- la fron -- te, più che’l ciel se -- re -- na? 
-    Di quel -- la fron -- te, più __ che’l ciel se -- re -- na? 
-    Di quel -- la fron -- te, più che’l ciel __ se -- re -- na? __
+    Di __ quel -- la fron -- te, più che'l ciel se -- re -- na? 
+    Di quel -- la fron -- te, più __ che'l ciel se -- re -- na? 
+    Di quel -- la fron -- te, più che'l ciel __ se -- re -- na? __
 }
 
 altusXIXincipit = \relative c' {
@@ -109,21 +109,21 @@ altusXIX = \relative c' {
 }
 
 altusLyricsXIX = \lyricmode {
-    On -- de tol -- se~A -- mor l’o -- ro, 
-    On -- de tol -- se~A -- mor l’o -- ro, et di __ qual ve -- na,
-    Per far __ due trec -- ce bion -- de?  e’n qua -- li spi -- ne
-    Col -- se le ro -- se, e’n qual piag -- gia le bri -- ne
-    Te -- ne -- re~et fre -- sche, et die’ lor pol -- so~et le -- na?
-        et die’ lor pol -- so~et le -- na? __
+    On -- de tol -- se~A -- mor l'o -- ro, 
+    On -- de tol -- se~A -- mor l'o -- ro, et di __ qual ve -- na,
+    Per far __ due trec -- ce bion -- de?  e'n qua -- li spi -- ne
+    Col -- se le ro -- se, e'n qual piag -- gia le bri -- ne
+    Te -- ne -- re~et fre -- sche, et die' lor pol -- so~et le -- na?
+        et die' lor pol -- so~et le -- na? __
 
     On -- de le per -- le, 
-    On -- de le per -- le, __ in ch’ei fran -- ge~et af -- fre -- na
+    On -- de le per -- le, __ in ch'ei fran -- ge~et af -- fre -- na
     Dol -- ci pa -- ro -- le, o -- ne -- ste~et pel -- le -- gri -- ne?
         o -- ne -- ste~et pel -- le -- gri -- ne?
     On -- de tan -- te bel -- lez -- ze, et sì di -- vi -- ne,
-    Di quel -- la fron -- te, più che’l ciel __ se -- re -- na? 
-    Di quel -- la fron -- te, più che’l ciel __ se -- re -- na? 
-    Di quel -- la fron -- te, più che’l ciel se -- re -- na?
+    Di quel -- la fron -- te, più che'l ciel __ se -- re -- na? 
+    Di quel -- la fron -- te, più che'l ciel __ se -- re -- na? 
+    Di quel -- la fron -- te, più che'l ciel se -- re -- na?
 }
 
 tenorXIXincipit = \relative c' {
@@ -168,21 +168,21 @@ tenorXIX = \relative c' {
 }
 
 tenorLyricsXIX = \lyricmode {
-    On -- de tol -- se~A -- mor l’o -- ro, et di qual ve -- na,
+    On -- de tol -- se~A -- mor l'o -- ro, et di qual ve -- na,
     Per __ far due trec -- ce bion -- de? 
-    Per far due trec -- ce bion -- de?  e’n qua -- li spi -- ne
-    Col -- se le ro -- se, e’n qual piag -- gia le bri -- ne
-    Te -- ne -- re~et fre -- sche, et die’ lor pol -- so~et le -- na?
-        et die’ lor pol -- so~et le -- na? __
+    Per far due trec -- ce bion -- de?  e'n qua -- li spi -- ne
+    Col -- se le ro -- se, e'n qual piag -- gia le bri -- ne
+    Te -- ne -- re~et fre -- sche, et die' lor pol -- so~et le -- na?
+        et die' lor pol -- so~et le -- na? __
 
     On -- de le per -- le,
-    On -- de le per -- le, in __ ch’ei fran -- ge~et af -- fre -- na
+    On -- de le per -- le, in __ ch'ei fran -- ge~et af -- fre -- na
     Dol -- ci pa -- ro -- le, o -- ne -- ste~et pel -- le -- gri -- ne?
         o -- ne -- ste~et pel -- le -- gri -- ne?
     On -- de tan -- te bel -- lez -- ze, et sì di -- vi -- ne,
-    Di quel -- la fron -- te, più che’l ciel __ se -- re -- na? 
-    Di quel -- la fron -- te, più che’l ciel __ se -- re -- na? 
-    Di __ quel -- la fron -- te, più che’l ciel se -- re -- na?
+    Di quel -- la fron -- te, più che'l ciel __ se -- re -- na? 
+    Di quel -- la fron -- te, più che'l ciel __ se -- re -- na? 
+    Di __ quel -- la fron -- te, più che'l ciel se -- re -- na?
 }
 
 bassusXIXincipit = \relative c' {
@@ -223,18 +223,18 @@ bassusXIX = \relative c' {
 }
 
 bassusLyricsXIX = \lyricmode {
-    On -- de tol -- se~A -- mor l’o -- ro, et di qual ve -- na, __
-    Per far due trec -- ce bion -- de?  e’n qua -- li spi -- ne
-    Col -- se le ro -- se, e’n qual piag -- gia le bri -- ne
-    Te -- ne -- re~et fre -- sche, et die’ lor pol -- so~et le -- na?
-        et die’ lor pol -- so~et le -- na?
+    On -- de tol -- se~A -- mor l'o -- ro, et di qual ve -- na, __
+    Per far due trec -- ce bion -- de?  e'n qua -- li spi -- ne
+    Col -- se le ro -- se, e'n qual piag -- gia le bri -- ne
+    Te -- ne -- re~et fre -- sche, et die' lor pol -- so~et le -- na?
+        et die' lor pol -- so~et le -- na?
 
-    On -- de le per -- le, in ch’ei fran -- ge~et af -- fre -- na
+    On -- de le per -- le, in ch'ei fran -- ge~et af -- fre -- na
     Dol -- ci __ pa -- ro -- le, o -- ne -- ste~et pel -- le -- gri -- ne?
     On -- de tan -- te bel -- lez -- ze, et sì di -- vi -- ne,
-    Di quel -- la fron -- te, più __ che’l ciel se -- re -- na?
-    Di quel -- la fron -- te, più che’l ciel se -- re -- na?
-    Di quel -- la fron -- te, più che’l ciel se -- re -- na?
+    Di quel -- la fron -- te, più __ che'l ciel se -- re -- na?
+    Di quel -- la fron -- te, più che'l ciel se -- re -- na?
+    Di quel -- la fron -- te, più che'l ciel se -- re -- na?
 }
 
 quintusXIXincipit = \relative c' {
@@ -274,19 +274,19 @@ quintusXIX = \relative c' {
 }
 
 quintusLyricsXIX = \lyricmode {
-    On -- de tol -- se~A -- mor l’o -- ro, et di __ qual ve -- na,
+    On -- de tol -- se~A -- mor l'o -- ro, et di __ qual ve -- na,
     Per far due trec -- ce bion -- de? 
-    Per far due trec -- ce bion -- de?  e’n qua -- li spi -- ne
-    Col -- se __ le ro -- se, e’n __ qual piag -- gia le bri -- ne
-    Te -- ne -- re~et fre -- sche, et die’ lor pol -- so~et __ le -- na?
-        et die’ lor pol -- so~et le -- na?
+    Per far due trec -- ce bion -- de?  e'n qua -- li spi -- ne
+    Col -- se __ le ro -- se, e'n __ qual piag -- gia le bri -- ne
+    Te -- ne -- re~et fre -- sche, et die' lor pol -- so~et __ le -- na?
+        et die' lor pol -- so~et le -- na?
 
-    On -- de le per -- le, in ch’ei fran -- ge~et af -- fre -- na
+    On -- de le per -- le, in ch'ei fran -- ge~et af -- fre -- na
     Dol -- ci pa -- ro -- le, o -- ne -- ste~et pel -- le -- gri -- ne?
         o -- ne -- ste~et pel -- le -- gri -- ne?
     On -- de tan -- te bel -- lez -- ze, et sì di -- vi -- ne,
-    Di quel -- la fron -- te, più __ che’l ciel se -- re -- na? __
-    Di quel -- la fron -- te, più che’l ciel se -- re -- na? __
+    Di quel -- la fron -- te, più __ che'l ciel se -- re -- na? __
+    Di quel -- la fron -- te, più che'l ciel se -- re -- na? __
 }
 
 

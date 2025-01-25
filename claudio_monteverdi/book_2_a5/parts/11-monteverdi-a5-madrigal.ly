@@ -38,12 +38,12 @@ cantoXI = \relative c' {
 }
 
 cantoLyricsXI = \lyricmode {
-    S’an -- das -- se~A -- mor a cac -- cia,
+    S'an -- das -- se~A -- mor a cac -- cia,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     \ijLyrics
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     \normalLyrics
-    S’an -- das -- se~A -- mor a cac -- cia,
+    S'an -- das -- se~A -- mor a cac -- cia,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
 
@@ -55,10 +55,10 @@ cantoLyricsXI = \lyricmode {
     Vez -- zo -- set -- to Gre -- chi -- no,
     Se pur vuol tuo de -- sti -- no,
     Se pur vuol tuo de -- sti -- no
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     Vez -- zo -- set -- to Gre -- chi -- no,
     Se pur vuol tuo de -- sti -- no
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
 
     Pren -- di __ co -- stei,
     \ijLyrics
@@ -109,7 +109,7 @@ altoXI = \relative c' {
 }
 
 altoLyricsXI = \lyricmode {
-%    S’an -- das -- se~A -- mor a cac -- cia,
+%    S'an -- das -- se~A -- mor a cac -- cia,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     \ijLyrics
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
@@ -130,12 +130,12 @@ altoLyricsXI = \lyricmode {
 
     Vez -- zo -- set -- to Gre -- chi -- no,
     Se pur vuol tuo de -- sti -- no 
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     Se pur vuol tuo de -- sti -- no 
     \ijLyrics
     Se pur vuol tuo de -- sti -- no 
     \normalLyrics
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     Se pur vuol tuo de -- sti -- no 
 
     Pren -- di __ co -- stei men -- tre~el -- la fug -- ge~A -- mo -- re, __
@@ -181,10 +181,10 @@ tenoreXI = \relative c {
 }
 
 tenoreLyricsXI = \lyricmode {
-    S’an -- das -- se~A -- mor a cac -- cia,
+    S'an -- das -- se~A -- mor a cac -- cia,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     E de le da -- me se -- gui -- ria la trac -- cia,
-    S’an -- das -- se~A -- mor a cac -- cia,
+    S'an -- das -- se~A -- mor a cac -- cia,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     E de le da -- me se -- gui -- ria la trac -- cia,
     E de le da -- me se -- gui -- ria la trac -- cia:
@@ -195,13 +195,13 @@ tenoreLyricsXI = \lyricmode {
     \ijLyrics
     Se pur vuol tuo de -- sti -- no
     \normalLyrics
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     Pren -- di,
     Pren -- di __ co -- stei, __
 
     Vez -- zo -- set -- to Gre -- chi -- no,
     Se pur vuol tuo de -- sti -- no,
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     Pren -- di __ co -- stei,
         men -- tre~el -- la fug -- ge,
     \ijLyrics
@@ -246,7 +246,7 @@ bassoXI = \relative c, {
 }
 
 bassoLyricsXI = \lyricmode {
-    S’an -- das -- se~A -- mor a cac -- cia,
+    S'an -- das -- se~A -- mor a cac -- cia,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     E de le da -- me se -- gui -- ria la trac -- cia,
     E de le da -- me se -- gui -- ria la trac -- cia:
@@ -257,12 +257,12 @@ bassoLyricsXI = \lyricmode {
     Vez -- zo -- set -- to Gre -- chi -- no,
     \normalLyrics
     Se pur vuol tuo de -- sti -- no
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     Pren -- di co -- stei men -- tre~el -- la fug -- ge~A -- mo -- re,
     Se pur vuol tuo de -- sti -- no
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     \ijLyrics
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     \normalLyrics
     Pren -- di co -- stei men -- tre~el -- la fug -- ge~A -- mo -- re.
 }
@@ -307,10 +307,10 @@ quintoXI = \relative c' {
 }
 
 quintoLyricsXI = \lyricmode {
-    S’an -- das -- se~A -- mor a cac -- cia,
+    S'an -- das -- se~A -- mor a cac -- cia,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     E de le da -- me se -- gui -- ria la trac -- cia,
-    S’an -- das -- se~A -- mor a cac -- cia,
+    S'an -- das -- se~A -- mor a cac -- cia,
     Gre -- chin a las -- sa~a -- vria per suo di -- let -- to,
     E de le da -- me se -- gui -- ria la trac -- cia,
     \ijLyrics
@@ -324,14 +324,14 @@ quintoLyricsXI = \lyricmode {
     Vez -- zo -- set -- to Gre -- chi -- no,
     Vez -- zo -- set -- to Gre -- chi -- no,
     Se pur vuol tuo de -- sti -- no,
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     Pren -- di co -- stei, men -- tre~el -- la fug -- ge~A -- mo -- re,
     Vez -- zo -- set -- to Gre -- chi -- no,
     \ijLyrics
     Vez -- zo -- set -- to Gre -- chi -- no,
     \normalLyrics
     Se pur vuol tuo de -- sti -- no
-    Ch’e -- gli sia cac -- cia -- to -- re,
+    Ch'e -- gli sia cac -- cia -- to -- re,
     Pren -- di __ co -- stei, 
     \ijLyrics
     Pren -- di co -- stei 

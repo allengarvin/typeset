@@ -1,18 +1,18 @@
 % Io mi sento morire
-% E chi m’occide mi ritorni in vita.
+% E chi m'occide mi ritorni in vita.
 % O mia doglia infinita.
 % 
 % Vorrei di vita uscire,
 % Ma viva mi ritien chi mi dà morte.
 % O mia infelice sorte.
 % 
-% Core mio, chi t’ha ucciso?
-% Di voi lo sguardo e’l riso?
-% E chi t’ancide, dolce anima mia?
+% Core mio, chi t'ha ucciso?
+% Di voi lo sguardo e'l riso?
+% E chi t'ancide, dolce anima mia?
 % Vostra rara bellezza e leggiadria.
 % 
-% Miracolo d’amore,
-% Adon senz’alma e Clori senza core,
+% Miracolo d'amore,
+% Adon senz'alma e Clori senza core,
 % E viver è morire.
 % 
 % Io più morir non voglio.
@@ -64,7 +64,7 @@ cantoIX = \relative c'' {
 
 cantoLyricsIX = \lyricmode {
     % Io mi sen -- to mo -- ri -- re
-    % E chi m’oc -- ci -- de mi ri -- tor -- ni~in vi -- ta.
+    % E chi m'oc -- ci -- de mi ri -- tor -- ni~in vi -- ta.
     % O mia do -- glia~in -- fi -- ni -- ta.
  
     Vor -- rei di vi -- ta~u -- sci -- re,
@@ -74,17 +74,17 @@ cantoLyricsIX = \lyricmode {
         chi mi dà mor -- te.
     O mia~in -- fe -- li -- ce sor -- te. __
  
-    % Co -- re mio, chi t’ha~uc -- ci -- so?
-    Di voi lo sguar -- do e’l ri -- so?
-    E chi t’an -- ci -- de, dol -- ce~a -- ni -- ma mi -- a?
+    % Co -- re mio, chi t'ha~uc -- ci -- so?
+    Di voi lo sguar -- do e'l ri -- so?
+    E chi t'an -- ci -- de, dol -- ce~a -- ni -- ma mi -- a?
         dol -- ce~a -- ni -- ma mi -- a?
     % Vo -- stra ra -- ra bel -- lez -- za~e leg -- gia -- dria.
  
-    Mi -- ra -- co -- lo d’a -- mo -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
     \ijLyrics
-    Mi -- ra -- co -- lo d’a -- mo -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
     \normalLyrics
-    A -- don sen -- z’al -- ma e Clo -- ri sen -- za co -- re,
+    A -- don sen -- z'al -- ma e Clo -- ri sen -- za co -- re,
     E vi -- ver è mo -- ri -- re.
 
     % Io più mo -- rir non vo -- glio.
@@ -139,7 +139,7 @@ altoIX = \relative c' {
 
 altoLyricsIX = \lyricmode {
     % Io mi sen -- to mo -- ri -- re
-    % E chi m’oc -- ci -- de mi ri -- tor -- ni~in vi -- ta.
+    % E chi m'oc -- ci -- de mi ri -- tor -- ni~in vi -- ta.
     % O mia do -- glia~in -- fi -- ni -- ta.
  
     Vor -- rei di vi -- ta~u -- sci -- re, __
@@ -147,9 +147,9 @@ altoLyricsIX = \lyricmode {
     Ma vi -- va mi ri -- tien chi mi dà mor -- te,
     O mia~in -- fe -- li -- ce sor -- te. 
  
-    % Co -- re mio, chi t’ha~uc -- ci -- so?
-    Di voi lo sguar -- do e’l ri -- so?
-    E chi t’an -- ci -- de, dol -- ce~a -- ni -- ma mi -- a?
+    % Co -- re mio, chi t'ha~uc -- ci -- so?
+    Di voi lo sguar -- do e'l ri -- so?
+    E chi t'an -- ci -- de, dol -- ce~a -- ni -- ma mi -- a?
         dol -- ce~a -- ni -- ma mi -- a?
         e leg -- gia -- dri -- a, __
     \ijLyrics
@@ -157,11 +157,11 @@ altoLyricsIX = \lyricmode {
     \normalLyrics
     % Vo -- stra ra -- ra bel -- lez -- za~e leg -- gia -- dria.
  
-    Mi -- ra -- co -- lo d’a -- mo -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
     \ijLyrics
-    Mi -- ra -- co -- lo d’a -- mo -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
     \normalLyrics
-    A -- don sen -- z’al -- ma e Clo -- ri sen -- za co -- re,
+    A -- don sen -- z'al -- ma e Clo -- ri sen -- za co -- re,
     E vi -- ver è __ mo -- ri -- re.
 
     % Io più mo -- rir non vo -- glio.
@@ -214,7 +214,7 @@ tenoreIX = \relative c' {
 
 tenoreLyricsIX = \lyricmode {
     Io __ mi sen -- to __ mo -- ri -- re
-    E chi m’oc -- ci -- de mi ri -- tor -- ni~in vi -- ta,
+    E chi m'oc -- ci -- de mi ri -- tor -- ni~in vi -- ta,
     \ijLyrics
         mi ri -- tor -- ni~in vi -- ta,
     \normalLyrics
@@ -227,15 +227,15 @@ tenoreLyricsIX = \lyricmode {
     \normalLyrics
     O mia~in -- fe -- li -- ce sor -- te. 
  
-    Co -- re mi -- o, co -- re mi -- o chi __ t’ha~uc -- ci -- so?
+    Co -- re mi -- o, co -- re mi -- o chi __ t'ha~uc -- ci -- so?
     Vo -- stra ra -- ra bel -- lez -- za e leg -- gia -- dri -- a,
     \ijLyrics
         e leg -- gia -- dri -- a.
     \normalLyrics
  
-    Mi -- ra -- co -- lo d’a -- mo -- re,
-        d’a -- mo -- re,
-    A -- don sen -- z’al -- ma e Clo -- ri sen -- za co -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
+        d'a -- mo -- re,
+    A -- don sen -- z'al -- ma e Clo -- ri sen -- za co -- re,
     E vi -- ver è mo -- ri -- re. __
 
     Io più mo -- rir non vo -- glio.
@@ -296,14 +296,14 @@ bassoIX = \relative c' {
 bassoLyricsIX = \lyricmode {
     Io mi sen -- to __ mo -- ri -- re
         mi ri -- tor -- ni~in vi -- ta,
-    E chi m’oc -- ci -- de mi ri -- tor -- ni~in vi -- ta.
+    E chi m'oc -- ci -- de mi ri -- tor -- ni~in vi -- ta.
     O mia do -- glia~in -- fi -- ni -- ta.
  
-    Co -- re mi -- o, co -- re mi -- o chi __ t’ha~uc -- ci -- so?
+    Co -- re mi -- o, co -- re mi -- o chi __ t'ha~uc -- ci -- so?
     Vo -- stra ra -- ra bel -- lez -- za e leg -- gia -- dri -- a.
  
-    Mi -- ra -- co -- lo d’a -- mo -- re,
-    A -- don sen -- z’al -- ma e Clo -- ri sen -- za co -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
+    A -- don sen -- z'al -- ma e Clo -- ri sen -- za co -- re,
     E vi -- ver è mo -- ri -- re.
 
     Io più mo -- rir non vo -- glio.
@@ -360,21 +360,21 @@ quintoIX = \relative c'' {
 
 quintoLyricsIX = \lyricmode {
     Io __ mi sen -- to mo -- ri -- re
-    E chi m’oc -- ci -- de 
+    E chi m'oc -- ci -- de 
     \ijLyrics
-    E chi m’oc -- ci -- de 
+    E chi m'oc -- ci -- de 
     \normalLyrics
         mi ri -- tor -- ni~in vi -- ta,
         mi ri -- tor -- ni~in vi -- ta.
     O mia do -- glia~in -- fi -- ni -- ta.
  
-    Co -- re mi -- o, co -- re mi -- o, chi __ t’ha~uc -- ci -- so?
+    Co -- re mi -- o, co -- re mi -- o, chi __ t'ha~uc -- ci -- so?
     Vo -- stra ra -- ra bel -- lez -- za e leg -- gia -- dri -- a,
         e leg -- gia -- dri -- a.
  
-    Mi -- ra -- co -- lo d’a -- mo -- re,
-    Mi -- ra -- co -- lo d’a -- mo -- re, __
-    A -- don sen -- z’al -- ma e Clo -- ri sen -- za __ co -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re, __
+    A -- don sen -- z'al -- ma e Clo -- ri sen -- za __ co -- re,
     E vi -- ver è mo -- ri -- re.
 
     Io più mo -- rir non vo -- glio.
@@ -430,23 +430,23 @@ sestoIX = \relative c' {
 
 sestoLyricsIX = \lyricmode {
     Io mi sen -- to __ mo -- ri -- re
-    E chi m’oc -- ci -- de,
-    E chi m’oc -- ci -- de mi ri -- tor -- ni~in vi -- ta,
+    E chi m'oc -- ci -- de,
+    E chi m'oc -- ci -- de mi ri -- tor -- ni~in vi -- ta,
         mi ri -- tor -- ni~in vi -- ta,
     \ijLyrics
         mi ri -- tor -- ni~in vi -- ta.
     \normalLyrics
     O mia do -- glia~in -- fi -- ni -- ta.
  
-    Co -- re mi -- o, co -- re mi -- o chi __ t’ha~uc -- ci -- so?
-    E chi t’an -- ci -- de, dol -- ce~a -- ni -- ma mi -- a?
+    Co -- re mi -- o, co -- re mi -- o chi __ t'ha~uc -- ci -- so?
+    E chi t'an -- ci -- de, dol -- ce~a -- ni -- ma mi -- a?
         dol -- ce~a -- ni -- ma mi -- a?
     Vo -- stra ra -- ra __ bel -- lez -- za e leg -- gia -- dri -- a,
         e leg -- gia -- dri -- a.
  
-    Mi -- ra -- co -- lo d’a -- mo -- re,
-    Mi -- ra -- co -- lo d’a -- mo -- re,
-    A -- don sen -- z’al -- ma __ e Clo -- ri sen -- za co -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
+    A -- don sen -- z'al -- ma __ e Clo -- ri sen -- za co -- re,
     E vi -- ver è mo -- ri -- re,
         è mo -- ri -- re.
 
@@ -507,15 +507,15 @@ settimaLyricsIX = \lyricmode {
         chi mi dà mor -- te.
     O mia~in -- fe -- li -- ce sor -- te. 
  
-    Di voi lo sguar -- do e’l ri -- so?
-    E chi t’an -- ci -- de, dol -- ce~a -- ni -- ma mi -- a?
+    Di voi lo sguar -- do e'l ri -- so?
+    E chi t'an -- ci -- de, dol -- ce~a -- ni -- ma mi -- a?
         dol -- ce~a -- ni -- ma mi -- a?
  
-    Mi -- ra -- co -- lo d’a -- mo -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
     \ijLyrics
-    Mi -- ra -- co -- lo d’a -- mo -- re,
+    Mi -- ra -- co -- lo d'a -- mo -- re,
     \normalLyrics
-    A -- don sen -- z’al -- ma e Clo -- ri sen -- za co -- re,
+    A -- don sen -- z'al -- ma e Clo -- ri sen -- za co -- re,
     E vi -- ver è mo -- ri -- re.
 
     Ed io~a mor -- te mi to -- glio.

@@ -1,19 +1,19 @@
-% L’aura mia sacra al mio stanco riposo
-% spira sì spesso, ch’i’ prendo ardimento
-% di dirle il mal ch’i’ò sentito et sento,
-% che, vivendo ella, non sarei stat’oso.
+% L'aura mia sacra al mio stanco riposo
+% spira sì spesso, ch'i' prendo ardimento
+% di dirle il mal ch'i'ò sentito et sento,
+% che, vivendo ella, non sarei stat'oso.
 % 
-% I’ incomoncio da quel guardo amoroso,
+% I' incomoncio da quel guardo amoroso,
 % che fu principio a sí lungo tormento,
 % poi seguo come misero et contento,
-% di dì in dì, d’ora in hora, Amor m’à roso.
+% di dì in dì, d'ora in hora, Amor m'à roso.
 % 
 % Ella si tace, et di pietà depinta,
 % fiso mira pur me; parte sospira,
 % et di lagrime honeste il viso adorna:
 % 
-% onde l’anima mia dal dolor vinta,
-% mentre piangendo allor seco s’adira,
+% onde l'anima mia dal dolor vinta,
+% mentre piangendo allor seco s'adira,
 % sciolta dal sonno a se stessa ritorna.
 
 cantusXVincipit = \relative c' {
@@ -54,21 +54,21 @@ cantusXV = \relative c' {
 }
 
 cantusLyricsXV = \lyricmode {
-    L’au -- ra mia sa -- cra, 
-    L’au -- ra __ mia sa -- cra al mio stan -- co ri -- po -- so
-    Spi -- ra sì spes -- so, __ ch’i pren -- do~ar -- di -- men -- to
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
-        ch’i pren -- do~ar -- di -- men -- to
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
+    L'au -- ra mia sa -- cra, 
+    L'au -- ra __ mia sa -- cra al mio stan -- co ri -- po -- so
+    Spi -- ra sì spes -- so, __ ch'i pren -- do~ar -- di -- men -- to
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
+        ch'i pren -- do~ar -- di -- men -- to
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
     Che, vi -- ven -- do~el -- la, non __ sa -- rei sta -- to~o -- so.
 
     Io~in -- co -- mon -- cio da quel guar -- do~a -- mo -- ro -- so,
     Che fu prin -- ci -- pio~a sì lun -- go tor -- men -- to,
     Che fu prin -- ci -- pio~a sì lun -- go tor -- men -- to,
     Poi se -- guo co -- me mi -- se -- ro~et con -- ten -- to,
-    Di dì in dì, d’o -- ra~in o -- ra~A -- mor m’à ro -- so,
+    Di dì in dì, d'o -- ra~in o -- ra~A -- mor m'à ro -- so,
     Di dì in dì, 
-    Di dì in dì, d’o -- ra~in o -- ra~A -- mor m’à ro -- so. __
+    Di dì in dì, d'o -- ra~in o -- ra~A -- mor m'à ro -- so. __
 }
 
 altusXVincipit = \relative c' {
@@ -113,12 +113,12 @@ altusXV = \relative c' {
 }
 
 altusLyricsXV = \lyricmode {
-    L’au -- ra mia sa -- cra, __
-    L’au -- ra __ mia sa -- cra al mio stan -- co ri -- po -- so
-    Spi -- ra sì spes -- so, ch’i pren -- do~ar -- di -- men -- to
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
-        ch’i pren -- do~ar -- di -- men -- to
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
+    L'au -- ra mia sa -- cra, __
+    L'au -- ra __ mia sa -- cra al mio stan -- co ri -- po -- so
+    Spi -- ra sì spes -- so, ch'i pren -- do~ar -- di -- men -- to
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
+        ch'i pren -- do~ar -- di -- men -- to
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
     Che, vi -- ven -- do~el -- la, non sa -- rei sta -- to~o -- so,
     Che, vi -- ven -- do~el -- la, non sa -- rei sta -- to~o -- so.
 
@@ -126,9 +126,9 @@ altusLyricsXV = \lyricmode {
     Che fu prin -- ci -- pio~a sì lun -- go tor -- men -- to,
     Che fu prin -- ci -- pio~a sì lun -- go tor -- men -- to,
     Poi se -- guo co -- me mi -- se -- ro~et con -- ten -- to,
-    Di dì in dì, d’o -- ra~in o -- ra~A -- mor m’à ro -- so,
-    Di dì in dì, d’o -- ra~in o -- ra~A -- mor m’à ro -- so,
-        A -- mor m’à ro -- so. __
+    Di dì in dì, d'o -- ra~in o -- ra~A -- mor m'à ro -- so,
+    Di dì in dì, d'o -- ra~in o -- ra~A -- mor m'à ro -- so,
+        A -- mor m'à ro -- so. __
 }
 
 tenorXVincipit = \relative c {
@@ -170,21 +170,21 @@ tenorXV = \relative c {
 }
 
 tenorLyricsXV = \lyricmode {
-    L’au -- ra __ mia sa -- cra al mio stan -- co ri -- po -- so
-    Spi -- ra sì spes -- so, ch’i pren -- do~ar -- di -- men -- to
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
-        ch’i pren -- do~ar -- di -- men -- to
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
-        ch’i __ ò sen -- ti -- to~et sen -- to,
+    L'au -- ra __ mia sa -- cra al mio stan -- co ri -- po -- so
+    Spi -- ra sì spes -- so, ch'i pren -- do~ar -- di -- men -- to
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
+        ch'i pren -- do~ar -- di -- men -- to
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
+        ch'i __ ò sen -- ti -- to~et sen -- to,
     Che, vi -- ven -- do~el -- la, non sa -- rei sta -- to~o -- so,
     Che, vi -- ven -- do~el -- la, non sa -- rei sta -- to~o -- so.
 
     Io~in -- co -- mon -- cio da quel guar -- do~a -- mo -- ro -- so,
     Che fu prin -- ci -- pio~a sì lun -- go tor -- men -- to,
     Poi se -- guo co -- me mi -- se -- ro~et con -- ten -- to,
-    Di dì in dì, d’o -- ra~in o -- ra~A -- mor m’à ro -- so,
-    Di dì in dì, d’o -- ra~in o -- ra~A -- mor m’à ro -- so,
-    Di dì in dì, d’o -- ra~in o -- ra~A -- mor m’à ro -- so. __
+    Di dì in dì, d'o -- ra~in o -- ra~A -- mor m'à ro -- so,
+    Di dì in dì, d'o -- ra~in o -- ra~A -- mor m'à ro -- so,
+    Di dì in dì, d'o -- ra~in o -- ra~A -- mor m'à ro -- so. __
 }
 
 bassusXVincipit = \relative c {
@@ -225,19 +225,19 @@ bassusXV = \relative c {
 }
 
 bassusLyricsXV = \lyricmode {
-    L’au -- ra __ mia sa -- cra al mio stan -- co ri -- po -- so
-    Spi -- ra sì spes -- so, ch’i pren -- do~ar -- di -- men -- to
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
-        ch’i’ò sen -- ti -- to~et sen -- to,
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
+    L'au -- ra __ mia sa -- cra al mio stan -- co ri -- po -- so
+    Spi -- ra sì spes -- so, ch'i pren -- do~ar -- di -- men -- to
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
+        ch'i'ò sen -- ti -- to~et sen -- to,
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
     Che, vi -- ven -- do~el -- la, non sa -- rei sta -- to~o -- so.
 
     Io~in -- co -- mon -- cio da quel guar -- do~a -- mo -- ro -- so,
     Che fu prin -- ci -- pio~a sì lun -- go tor -- men -- to, __
     Poi se -- guo co -- me mi -- se -- ro~et con -- ten -- to,
-    Di dì in dì, __ d’o -- ra~in o -- ra~A -- mor m’à ro -- so,
+    Di dì in dì, __ d'o -- ra~in o -- ra~A -- mor m'à ro -- so,
     Di dì in dì, __
-    Di dì in dì, d’o -- ra~in o -- ra~A -- mor m’à ro -- so. __
+    Di dì in dì, d'o -- ra~in o -- ra~A -- mor m'à ro -- so. __
 }
 
 quintusXVincipit = \relative c {
@@ -283,11 +283,11 @@ quintusXV = \relative c {
 }
 
 quintusLyricsXV = \lyricmode {
-    L’au -- ra mia sa -- cra al mio stan -- co ri -- po -- so
-    Spi -- ra sì spes -- so, ch’i pren -- do~ar -- di -- men -- to
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
-        ch’i’ò sen -- ti -- to~et sen -- to,
-    Di dir -- le~il mal ch’i ò sen -- ti -- to~et sen -- to,
+    L'au -- ra mia sa -- cra al mio stan -- co ri -- po -- so
+    Spi -- ra sì spes -- so, ch'i pren -- do~ar -- di -- men -- to
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
+        ch'i'ò sen -- ti -- to~et sen -- to,
+    Di dir -- le~il mal ch'i ò sen -- ti -- to~et sen -- to,
     Che, vi -- ven -- do~el -- la, non sa -- rei sta -- to~o -- so,
         non __ sa -- rei sta -- to~o -- so.
 
@@ -295,10 +295,10 @@ quintusLyricsXV = \lyricmode {
     Che fu prin -- ci -- pio~a sì lun -- go tor -- men -- to,
     Che fu prin -- ci -- pio~a sì lun -- go tor -- men -- to,
     Poi se -- guo co -- me mi -- se -- ro~et con -- ten -- to,
-    Di dì in dì, __ d’o -- ra~in o -- ra~A -- mor m’à ro -- so,
-        d’o -- ra~in o -- ra~A -- mor m’à ro -- so,
-    Di dì in dì, d’o -- ra~in o -- ra~A -- mor m’à ro -- so,
-        d’o -- ra~in o -- ra~A -- mor m’à ro -- so.
+    Di dì in dì, __ d'o -- ra~in o -- ra~A -- mor m'à ro -- so,
+        d'o -- ra~in o -- ra~A -- mor m'à ro -- so,
+    Di dì in dì, d'o -- ra~in o -- ra~A -- mor m'à ro -- so,
+        d'o -- ra~in o -- ra~A -- mor m'à ro -- so.
 }
 
 

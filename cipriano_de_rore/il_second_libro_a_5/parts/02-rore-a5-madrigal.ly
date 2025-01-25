@@ -2,8 +2,8 @@
 % Ovunque si dipinge e copre il manto
 % Di la felice et aurea età presaga:
 % Verà che sol il mondo acqueti e honori
-% Da l’alto seme glorioso~e santo
-% D’il fiero Marte e l’unica Gonzaga.
+% Da l'alto seme glorioso~e santo
+% D'il fiero Marte e l'unica Gonzaga.
 
 cantoIIincipit = \relative c' {
     \time 2/2
@@ -43,11 +43,11 @@ cantoLyricsII = \lyricmode {
 
     Ve -- rà,
     Ve -- rà che sol il mon -- do~ac -- que -- ti~e~o -- no -- ri
-    Da l’al -- to se -- me glo -- rio -- so e san -- to
-    D’il __ fie -- ro Mar -- te, 
-    D’il fie -- ro Mar -- te e __ l’u -- ni -- ca Gon -- za -- ga,
-        e l’u -- ni -- ca __ Gon -- za -- ga,
-    D’il fie -- ro Mar -- te e __ l’u -- ni -- ca Gon -- za -- ga.
+    Da l'al -- to se -- me glo -- rio -- so e san -- to
+    D'il __ fie -- ro Mar -- te, 
+    D'il fie -- ro Mar -- te e __ l'u -- ni -- ca Gon -- za -- ga,
+        e l'u -- ni -- ca __ Gon -- za -- ga,
+    D'il fie -- ro Mar -- te e __ l'u -- ni -- ca Gon -- za -- ga.
 }
 
 altoIIincipit = \relative c' {
@@ -93,11 +93,11 @@ altoLyricsII = \lyricmode {
 
     Ve -- rà che sol __ il mon -- do~ac -- que -- ti~e~o -- no -- ri
     Ve -- rà che sol il mon -- do~ac -- que -- ti~e~o -- no -- ri
-    Da l’al -- to se -- me glo -- rio -- so e san -- to,
-    Da l’al -- to se -- me glo -- rio -- so e san -- to
-    D’il fie -- ro Mar -- te, 
-    D’il fie -- ro Mar -- te e __ l’u -- ni -- ca Gon -- za -- ga,
-    D’il fie -- ro Mar -- te e l’u -- ni -- ca Gon -- za -- ga.
+    Da l'al -- to se -- me glo -- rio -- so e san -- to,
+    Da l'al -- to se -- me glo -- rio -- so e san -- to
+    D'il fie -- ro Mar -- te, 
+    D'il fie -- ro Mar -- te e __ l'u -- ni -- ca Gon -- za -- ga,
+    D'il fie -- ro Mar -- te e l'u -- ni -- ca Gon -- za -- ga.
 }
 
 tenoreIIincipit = \relative c {
@@ -143,11 +143,11 @@ tenoreLyricsII = \lyricmode {
 
     Ve -- rà __ che sol il mon -- do~ac -- que -- ti~e~o -- no -- ri,
     Ve -- rà che sol il mon -- do~ac -- que -- ti~e~o -- no -- ri
-    Da l’al -- to se -- me,
-    Da l’al -- to se -- me glo -- rio -- so e san -- to
-    D’il __ fie -- ro Mar -- te e l’u -- ni -- ca Gon -- za -- ga,
-    D’il fie -- ro Mar -- te __ e __ l’u -- ni -- ca Gon -- za -- ga,
-        e l’u -- ni -- ca Gon -- za -- ga. __
+    Da l'al -- to se -- me,
+    Da l'al -- to se -- me glo -- rio -- so e san -- to
+    D'il __ fie -- ro Mar -- te e l'u -- ni -- ca Gon -- za -- ga,
+    D'il fie -- ro Mar -- te __ e __ l'u -- ni -- ca Gon -- za -- ga,
+        e l'u -- ni -- ca Gon -- za -- ga. __
 }
 
 bassoIIincipit = \relative c, {
@@ -192,11 +192,11 @@ bassoLyricsII = \lyricmode {
     Ve -- rà,
     Ve -- rà che sol __ il mon -- do~ac -- que -- ti~e~o -- no -- ri,
     Ve -- rà che sol il mon -- do~ac -- que -- ti~e~o -- no -- ri
-    Da l’al -- to se -- me glo -- rio -- so e san -- to,
-    Da l’al -- to se -- me glo -- rio -- so e san -- to __
-    D’il fie -- ro Mar -- te, 
-    D’il fie -- ro Mar -- te e l’u -- ni -- ca Gon -- za -- ga,
-        e l’u -- ni -- ca Gon -- za -- ga.
+    Da l'al -- to se -- me glo -- rio -- so e san -- to,
+    Da l'al -- to se -- me glo -- rio -- so e san -- to __
+    D'il fie -- ro Mar -- te, 
+    D'il fie -- ro Mar -- te e l'u -- ni -- ca Gon -- za -- ga,
+        e l'u -- ni -- ca Gon -- za -- ga.
 }
 
 quintoIIincipit = \relative c' {
@@ -241,10 +241,10 @@ quintoLyricsII = \lyricmode {
 
     Ve -- rà che sol il mon -- do~ac -- que -- ti~e~o -- no -- ri,
     Ve -- rà che sol __ il mon -- do~ac -- que -- ti~e~o -- no -- ri
-    Da l’al -- to se -- me glo -- rio -- so e san -- to
-    D’il __ fie -- ro Mar -- te e __ l’u -- ni -- ca Gon -- za -- ga,
-    D’il fie -- ro Mar -- te e l’u -- ni -- ca Gon -- za -- ga,
-        e l’u -- ni -- ca Gon -- za -- ga. __
+    Da l'al -- to se -- me glo -- rio -- so e san -- to
+    D'il __ fie -- ro Mar -- te e __ l'u -- ni -- ca Gon -- za -- ga,
+    D'il fie -- ro Mar -- te e l'u -- ni -- ca Gon -- za -- ga,
+        e l'u -- ni -- ca Gon -- za -- ga. __
 }
 
 cantoIIincipitVoice = <<

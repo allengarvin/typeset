@@ -1,9 +1,9 @@
 %   71 La notte Orlando alle noiose piume
 %      del veloce pensier fa parte assai.
 %      Or quinci or quindi il volta, or lo rassume
-%      tutto in un loco, e non l’afferma mai:
-%      qual d’acqua chiara il tremolante lume,
-%      dal sol percossa o da’ notturni rai,
+%      tutto in un loco, e non l'afferma mai:
+%      qual d'acqua chiara il tremolante lume,
+%      dal sol percossa o da' notturni rai,
 %      per gli ampli tetti va con lungo salto
 %      a destra et a sinistra, e basso et alto.
 
@@ -48,10 +48,10 @@ cantoLyricsXVIII = \lyricmode {
     Or quin -- ci~or quin -- di~il vol -- ta~or lo ras -- su -- me,
         il vol -- ta~or lo __ ras -- su -- me
     Tut -- to~in un lo -- co,
-    Tut -- to~in un lo -- co~e non l’af -- fer -- ma ma -- i:
-    Qual d’ac -- qua chia -- ra~il tre -- mo -- lan -- te lu -- me,
-    Dal sol per -- cos -- sa~o da’ not -- tur -- ni ra -- i,
-    Dal __ sol per -- cos -- sa~o da’ not -- tur -- ni ra -- i,
+    Tut -- to~in un lo -- co~e non l'af -- fer -- ma ma -- i:
+    Qual d'ac -- qua chia -- ra~il tre -- mo -- lan -- te lu -- me,
+    Dal sol per -- cos -- sa~o da' not -- tur -- ni ra -- i,
+    Dal __ sol per -- cos -- sa~o da' not -- tur -- ni ra -- i,
     Per gli~am -- pli tet -- ti va con lun -- go sal -- to,
         con lun -- go sal -- to
     A de -- stra~et a si -- ni -- stra, e bas -- so~et al -- to,
@@ -96,10 +96,10 @@ altoLyricsXVIII = \lyricmode {
         fa par -- te~as  -- sa -- i.
     Or __ quin -- ci~or quin -- di~il vol -- ta~or lo ras -- su -- me,
     Tut -- to~in un lo -- co,
-    Tut -- to~in un lo -- co~e non l’af -- fer -- ma ma -- i:
-    Qual d’ac -- qua chia -- ra~il tre -- mo -- lan -- te __ lu -- me,
+    Tut -- to~in un lo -- co~e non l'af -- fer -- ma ma -- i:
+    Qual d'ac -- qua chia -- ra~il tre -- mo -- lan -- te __ lu -- me,
     Dal sol per -- cos -- sa,
-    Dal sol per -- cos -- sa~o da’ not -- tur -- ni __ ra -- i,
+    Dal sol per -- cos -- sa~o da' not -- tur -- ni __ ra -- i,
     Per gli~am -- pli tet -- ti va con lun -- go sal -- to,
         con lun -- go sal -- to,
         con lun -- go sal -- to
@@ -143,11 +143,11 @@ tenoreLyricsXVIII = \lyricmode {
     La not -- te~Or -- lan -- do~al -- le no -- io -- se piu -- me
     Del ve -- lo -- ce pen -- sier fa par -- te~as  -- sa -- i.
     Or quin -- ci~or quin -- di~il vol -- ta~or lo ras -- su -- me,
-    Tut -- to~in un lo -- co~e non l’af -- fer -- ma ma -- i:
-    Qual d’ac -- qua chia -- ra~il tre -- mo -- lan -- te,
+    Tut -- to~in un lo -- co~e non l'af -- fer -- ma ma -- i:
+    Qual d'ac -- qua chia -- ra~il tre -- mo -- lan -- te,
         il tre -- mo -- lan -- te lu -- me,
-    Dal sol per -- cos -- sa~o da’ not -- tur -- ni ra -- i,
-    Dal sol per -- cos -- sa o da’ not -- tur -- ni ra -- i,
+    Dal sol per -- cos -- sa~o da' not -- tur -- ni ra -- i,
+    Dal sol per -- cos -- sa o da' not -- tur -- ni ra -- i,
     Per gli~am -- pli tet -- ti va con lun -- go sal -- to,
         con lun -- go sal -- to,
         con lun -- go sal -- to
@@ -189,11 +189,11 @@ bassoLyricsXVIII = \lyricmode {
     Del ve -- lo -- ce pen -- sier __ fa par -- te~as  -- sa -- i.
     Or quin -- ci~or quin -- di~il vol -- ta~or lo __ ras -- su -- me,
     Tut -- to~in un lo -- co,
-    Tut -- to~in un lo -- co~e non l’af -- fer -- ma ma -- i,
+    Tut -- to~in un lo -- co~e non l'af -- fer -- ma ma -- i,
         ma -- i:
-    Qual d’ac -- qua chia -- ra~il tre -- mo -- lan -- te lu -- me,
+    Qual d'ac -- qua chia -- ra~il tre -- mo -- lan -- te lu -- me,
     Dal sol per -- cos -- sa,
-    Dal sol per -- cos -- sa~o da’ not -- tur -- ni ra -- i,
+    Dal sol per -- cos -- sa~o da' not -- tur -- ni ra -- i,
     Per gli~am -- pli tet -- ti va con lun -- go sal -- to,
         con lun -- go sal -- to
     A de -- stra~et a si -- ni -- stra~e bas -- so~et al -- to,

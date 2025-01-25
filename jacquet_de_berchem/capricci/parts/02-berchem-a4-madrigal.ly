@@ -1,9 +1,9 @@
-%    2  Dirò d’Orlando in un medesmo tratto
+%    2  Dirò d'Orlando in un medesmo tratto
 %       cosa non detta in prosa mai né in rima:
 %       che per amor venne in furore e matto,
-%       d’uom che sì saggio era stimato prima;
-%       se da colei che tal quasi m’ha fatto,
-%       che ’l poco ingegno ad or ad or mi lima,
+%       d'uom che sì saggio era stimato prima;
+%       se da colei che tal quasi m'ha fatto,
+%       che 'l poco ingegno ad or ad or mi lima,
 %       me ne sarà però tanto concesso,
 %       che mi basti a finir quanto ho promesso.
 
@@ -38,15 +38,15 @@ cantoII = \relative c' {
 }
 
 cantoLyricsII = \lyricmode {
-    Di -- rò d’Or -- lan -- do~in un me -- de -- smo trat -- to
+    Di -- rò d'Or -- lan -- do~in un me -- de -- smo trat -- to
     Co -- sa non det -- ta~in pro -- sa mai,
         in __ pro -- sa mai né~in ri -- ma:
     Che per a -- mor ven -- ne~in fu -- ro -- re~e mat -- to,
         ven -- ne~in fu -- ro -- re~e mat -- to,
         ven -- ne~in fu -- ro -- re~e mat -- to,
-    D’uom che sì sag -- gio~e -- ra sti -- ma -- to pri -- ma;
-    Se da co -- lei che tal qua -- si m’ha fat -- to,
-    Che’l po -- co~in -- ge -- gno~ad or ad or mi li -- ma,
+    D'uom che sì sag -- gio~e -- ra sti -- ma -- to pri -- ma;
+    Se da co -- lei che tal qua -- si m'ha fat -- to,
+    Che'l po -- co~in -- ge -- gno~ad or ad or mi li -- ma,
     Me ne sa -- rà pe -- rò tan -- to con -- ces -- so, __
     Me ne sa -- rà pe -- rò tan -- to con -- ces -- so, __
     Che mi ba -- sti~a fi -- nir quan -- to~ho pro -- mes -- so,
@@ -83,17 +83,17 @@ altoII = \relative c' {
 }
 
 altoLyricsII = \lyricmode {
-    Di -- rò d’Or -- lan -- do~in un me -- de -- smo trat -- to,
-    Di -- rò d’Or -- lan -- do~in un me -- de -- smo trat -- to
+    Di -- rò d'Or -- lan -- do~in un me -- de -- smo trat -- to,
+    Di -- rò d'Or -- lan -- do~in un me -- de -- smo trat -- to
     Co -- sa __ non det -- ta~in __ pro -- sa mai né~in ri -- ma: __
     Che per a -- mor ven -- ne~in fu -- ro -- re~e mat -- to,
         ven -- ne~in fu -- ro -- re~e mat -- to,
         ven -- ne~in fu -- ro -- re~e mat -- to,
         ven -- ne~in fu -- ro -- re~e mat -- to,
             fu -- ro -- re~e mat -- to,
-    D’uom che sì sag -- gio~e -- ra sti -- ma -- to pri -- ma;
-    Se da co -- lei __ che tal qua -- si m’ha fat -- to, __
-    Che’l po -- co~in -- ge -- gno~ad or ad or mi li -- ma,
+    D'uom che sì sag -- gio~e -- ra sti -- ma -- to pri -- ma;
+    Se da co -- lei __ che tal qua -- si m'ha fat -- to, __
+    Che'l po -- co~in -- ge -- gno~ad or ad or mi li -- ma,
     Me ne sa -- rà pe -- rò tan -- to con -- ces -- so, 
     Che mi ba -- sti~a fi -- nir quan -- to~ho pro -- mes -- so,
     Che mi ba -- sti~a fi -- nir quan -- to~ho pro -- mes -- so.
@@ -130,16 +130,16 @@ tenoreII = \relative c {
 }
 
 tenoreLyricsII = \lyricmode {
-    Di -- rò d’Or -- lan -- do~in un me -- de -- smo trat -- to,
-    Di -- rò d’Or -- lan -- do~in un me -- de -- smo trat -- to
+    Di -- rò d'Or -- lan -- do~in un me -- de -- smo trat -- to,
+    Di -- rò d'Or -- lan -- do~in un me -- de -- smo trat -- to
     Co -- sa __ non __ det -- ta~in pro -- sa mai né~in ri -- ma:
     Che per a -- mor ven -- ne~in fu -- ro -- re~e mat -- to,
         ven -- ne~in fu -- ro -- re~e mat -- to,
         ven -- ne~in fu -- ro -- re~e mat -- to,
         ven -- ne~in fu -- ro -- re~e mat -- to,
-    D’uom che sì sag -- gio~e -- ra sti -- ma -- to pri -- ma;
-    Se da co -- lei che tal qua -- si m’ha fat -- to,
-    Che’l po -- co~in -- ge -- gno~ad or ad or __ mi li -- ma,
+    D'uom che sì sag -- gio~e -- ra sti -- ma -- to pri -- ma;
+    Se da co -- lei che tal qua -- si m'ha fat -- to,
+    Che'l po -- co~in -- ge -- gno~ad or ad or __ mi li -- ma,
     Me ne sa -- rà pe -- rò tan -- to con -- ces -- so, 
         con -- ces -- so, 
     Me ne sa -- rà pe -- rò tan -- to con -- ces -- so, 
@@ -177,14 +177,14 @@ bassoII = \relative c {
 }
 
 bassoLyricsII = \lyricmode {
-    Di -- rò d’Or -- lan -- do~in un me -- de -- smo trat -- to
+    Di -- rò d'Or -- lan -- do~in un me -- de -- smo trat -- to
     Co -- sa __ non det -- ta~in __ pro -- sa mai né~in ri -- ma:
     Che per a -- mor ven -- ne~in fu -- ror'
         ven -- ne~in fu -- ro -- re~e mat -- to,
         ven -- ne~in fu -- ro -- re~e mat -- to,
-    D’uom che sì sag -- gio~e -- ra sti -- ma -- to pri -- ma;
-    Se da co -- lei che tal qua -- si m’ha fat -- to,
-    Che’l po -- co~in -- ge -- gno~ad or ad or mi li -- ma,
+    D'uom che sì sag -- gio~e -- ra sti -- ma -- to pri -- ma;
+    Se da co -- lei che tal qua -- si m'ha fat -- to,
+    Che'l po -- co~in -- ge -- gno~ad or ad or mi li -- ma,
     Me ne sa -- rà pe -- rò tan -- to con -- ces -- so, 
     Me ne sa -- rà pe -- rò tan -- to con -- ces -- so, 
         con -- ces -- so, 

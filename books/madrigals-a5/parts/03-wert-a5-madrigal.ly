@@ -44,9 +44,9 @@ cantoLyricsIII = \lyricmode {
     E di ciò la me -- mo -- ria~an -- co t'è gra -- ve, 
     Co -- me ne -- mi -- co~al -- me -- no~a -- scol -- ta: 
     Co -- me ne -- mi -- co~al -- me -- no~a -- scol -- ta: i pre -- ghi
-    D’un ne -- mi -- co tal' hor l’al -- tro ri -- ce -- ve.
-    Ben quel ch’io chieg -- gio~è tal che dar -- lo puo -- i
-    Ben quel ch’io chieg -- gio~è tal che dar -- lo puo -- i
+    D'un ne -- mi -- co tal' hor l'al -- tro ri -- ce -- ve.
+    Ben quel ch'io chieg -- gio~è tal che dar -- lo puo -- i
+    Ben quel ch'io chieg -- gio~è tal che dar -- lo puo -- i
     E~in -- te -- gri con -- ser -- var __ gli sde -- gni tuo -- i.
 }
 
@@ -85,8 +85,8 @@ altoLyricsIII = \lyricmode {
     E di ciò la me -- mo -- ria~an -- co __ t'è gra -- ve, 
     Co -- me ne -- mi -- co~al -- me -- no~a -- scol -- ta: 
     Co -- me ne -- mi -- co~al -- me -- no~a -- scol -- ta: i pre -- ghi
-    D’un ne -- mi -- co tal' hor l’al -- tro ri -- ce -- ve.
-    Ben quel ch’io chieg -- gio~è tal che dar -- lo puo -- i
+    D'un ne -- mi -- co tal' hor l'al -- tro ri -- ce -- ve.
+    Ben quel ch'io chieg -- gio~è tal che dar -- lo puo -- i
     E~in -- te -- gri con -- ser -- var __ gli sde -- gni tuo -- i.
 }
 
@@ -125,9 +125,9 @@ tenoreLyricsIII = \lyricmode {
     Tai fum -- mo~un tem -- po, hor se tal es -- ser nie -- ghi,
     E di ciò __ la me -- mo -- ria~an -- co t'è gra -- ve, __
     Co -- me ne -- mi -- co~al -- me -- no~a -- scol -- ta: i pre -- ghi
-    D’un ne -- mi -- co tal' hor l’al -- tro ri -- ce -- ve.
-    Ben quel ch’io chieg -- gio~è tal __ che dar -- lo puo -- i
-    Ben quel ch’io chieg -- gio~è tal che dar -- lo puo -- i
+    D'un ne -- mi -- co tal' hor l'al -- tro ri -- ce -- ve.
+    Ben quel ch'io chieg -- gio~è tal __ che dar -- lo puo -- i
+    Ben quel ch'io chieg -- gio~è tal che dar -- lo puo -- i
     E~in -- te -- gri con -- ser -- var
     \ijLyrics 
     E~in -- te -- gri con -- ser -- var __
@@ -166,8 +166,8 @@ bassoLyricsIII = \lyricmode {
     Cru -- del, te, co -- me~a -- man -- te~a -- man -- te de -- ve; 
     Tai fum -- mo~un tem -- po, hor se tal es -- ser nie -- ghi,
     Co -- me ne -- mi -- co~al -- me -- no~a -- scol -- ta: i pre -- ghi __
-    D’un ne -- mi -- co tal' hor l’al -- tro ri -- ce -- ve.
-    Ben quel ch’io chieg -- gio~è tal che dar -- lo puo -- i
+    D'un ne -- mi -- co tal' hor l'al -- tro ri -- ce -- ve.
+    Ben quel ch'io chieg -- gio~è tal che dar -- lo puo -- i
     E~in -- te -- gri con -- ser -- var __ gli sde -- gni tuo -- i.
 }
 
@@ -207,8 +207,8 @@ quintoLyricsIII = \lyricmode {
     Tai fum -- mo~un tem -- po, hor se tal es -- ser nie -- ghi,
     Co -- me ne -- mi -- co~al -- me -- no~a -- scol -- ta: 
     Co -- me ne -- mi -- co~al -- me -- no~a -- scol -- ta: i pre -- ghi
-    D’un ne -- mi -- co tal' hor l’al -- tro ri -- ce -- ve.
-    Ben quel ch’io chieg -- gio~è tal che dar -- lo puo -- i
+    D'un ne -- mi -- co tal' hor l'al -- tro ri -- ce -- ve.
+    Ben quel ch'io chieg -- gio~è tal che dar -- lo puo -- i
         che dar -- lo puo -- i
     E~in -- te -- gri con -- ser -- var 
     \ijLyrics

@@ -7,7 +7,7 @@
 %Disse ella: e alle sue labbra un bacio diede,
 %Poi volse in fuga il piede.
 %Così lascia schernito
-%Tirsi e d’amor ferito.
+%Tirsi e d'amor ferito.
 
 cantoXXIincipit = \relative c'' {
     \time 2/2
@@ -57,25 +57,25 @@ cantoLyricsXXI = \lyricmode {
     poi vol -- se~in fu -- ga~il pie -- de,
     \normalLyrics
     poi vol -- se~in fu -- ga~il pie -- de.
-        e d’a -- mor fe -- ri -- to,
+        e d'a -- mor fe -- ri -- to,
     Co -- sì la -- scia scher -- ni -- to
-    Tir -- si~e d’a -- mor,
-        e d’a -- mor,
-        e d’a -- mor,
-        e d’a -- mor fe -- ri -- to,
+    Tir -- si~e d'a -- mor,
+        e d'a -- mor,
+        e d'a -- mor,
+        e d'a -- mor fe -- ri -- to,
     co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor,
+    Tir -- si e d'a -- mor,
     \ijLyrics
-        e d’a -- mor,
-        e d’a -- mor
+        e d'a -- mor,
+        e d'a -- mor
     \normalLyrics
             fe -- ri -- to,
-        e d’a -- mor,
+        e d'a -- mor,
     \ijLyrics
-        e d’a -- mor,
-        e d’a -- mor
+        e d'a -- mor,
+        e d'a -- mor
     \normalLyrics
-        e d’a -- mor fe -- ri -- to.
+        e d'a -- mor fe -- ri -- to.
 }
 
 altoXXIincipit = \relative c'' {
@@ -124,17 +124,17 @@ altoLyricsXXI = \lyricmode {
     poi vol -- se~in fu -- ga~il pie -- de,
     poi vol -- se~in fu -- ga~il pie -- de.
     Co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor,
-        e d’a -- mor,
+    Tir -- si e d'a -- mor,
+        e d'a -- mor,
     \ijLyrics
-        e d’a -- mor
+        e d'a -- mor
     \normalLyrics
         fe -- ri -- to,
     co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor fe -- ri -- to,
+    Tir -- si e d'a -- mor fe -- ri -- to,
     co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor,
-        e d’a -- mor fe -- ri -- to.
+    Tir -- si e d'a -- mor,
+        e d'a -- mor fe -- ri -- to.
 }
 
 tenoreOneXXIincipit = \relative c' {
@@ -183,13 +183,13 @@ tenoreOneLyricsXXI = \lyricmode {
     poi vol -- se~in fu -- ga~il pie -- de.
     \normalLyrics
     Co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor fe -- ri -- to,
-        e d’a -- mor,
-        e d’a -- mor,
-        e d’a -- mor fe -- ri -- to,
+    Tir -- si e d'a -- mor fe -- ri -- to,
+        e d'a -- mor,
+        e d'a -- mor,
+        e d'a -- mor fe -- ri -- to,
     co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor,
-        e d’a -- mor fe -- ri -- to.
+    Tir -- si e d'a -- mor,
+        e d'a -- mor fe -- ri -- to.
 }
 
 tenoreTwoXXIincipit = \relative c' {
@@ -231,17 +231,17 @@ tenoreTwoLyricsXXI = \lyricmode {
     o -- ve la bel -- la Dea __ suo seg -- gio po -- se,
     \normalLyrics
     Co -- sì la -- scia scher -- ni -- to
-    Tir -- si~e d’a -- mor,
-        e d’a -- mor,
+    Tir -- si~e d'a -- mor,
+        e d'a -- mor,
     \ijLyrics
-        e d’a -- mor,
-        e d’a -- mor
+        e d'a -- mor,
+        e d'a -- mor
     \normalLyrics
         fe -- ri -- to,
     co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor fe -- ri -- to,
+    Tir -- si e d'a -- mor fe -- ri -- to,
     co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor fe -- ri -- to.
+    Tir -- si e d'a -- mor fe -- ri -- to.
 }
 
 bassoXXIincipit = \relative c {
@@ -279,25 +279,25 @@ bassoLyricsXXI = \lyricmode {
         ed ei ri -- spo -- se:
     o -- ve la bel -- la Dea __ suo seg -- gio po -- se,
     Co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor fe -- ri -- to,
-        e d’a -- mor,
+    Tir -- si e d'a -- mor fe -- ri -- to,
+        e d'a -- mor,
     \ijLyrics
-        e d’a -- mor
+        e d'a -- mor
     \normalLyrics
             fe -- ri -- to,
     co -- sì la -- scia scher -- ni -- to
-    Tir -- si~e d’a -- mor fe -- ri -- to,
+    Tir -- si~e d'a -- mor fe -- ri -- to,
 %    \ijLyrics
-%        e d’a -- mor,
-%        e d’a -- mor
+%        e d'a -- mor,
+%        e d'a -- mor
 %    \normalLyrics
 %            fe -- ri -- to,
-%        e d’a -- mor,
+%        e d'a -- mor,
 %    \ijLyrics
-%        e d’a -- mor,
-%        e d’a -- mor
+%        e d'a -- mor,
+%        e d'a -- mor
 %    \normalLyrics
-%        e d’a -- mor fe -- ri -- to.
+%        e d'a -- mor fe -- ri -- to.
 }
 
 quintoXXIincipit = \relative c' {
@@ -335,21 +335,21 @@ quintoLyricsXXI = \lyricmode {
         Ed ei ri -- spo -- se:
     o -- ve la bel -- la Dea __ suo seg -- gio po -- se,
     Co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor fe -- ri -- to,
-        e d’a -- mor,
+    Tir -- si e d'a -- mor fe -- ri -- to,
+        e d'a -- mor,
     \ijLyrics
-        e d’a -- mor,
-        e d’a -- mor
+        e d'a -- mor,
+        e d'a -- mor
     \normalLyrics
             fe -- ri -- to,
-        e d’a -- mor,
+        e d'a -- mor,
     \ijLyrics
-        e d’a -- mor,
-        e d’a -- mor
+        e d'a -- mor,
+        e d'a -- mor
     \normalLyrics
             fe -- ri -- to,
-        e d’a -- mor fe -- ri -- to,
-        e d’a -- mor fe -- ri -- to.
+        e d'a -- mor fe -- ri -- to,
+        e d'a -- mor fe -- ri -- to.
 }
 
 % sesto: in quinto partbook
@@ -387,26 +387,26 @@ sestoLyricsXXI = \lyricmode {
         ed ei ri -- spo -- se: __
     o -- ve la bel -- la Dea __ suo seg -- gio po -- se,
     Co -- sì la -- scia scher -- ni -- to
-    Tir -- si e d’a -- mor,
+    Tir -- si e d'a -- mor,
         \ijLyrics
-        e d’a -- mor,
-        e d’a -- mor
+        e d'a -- mor,
+        e d'a -- mor
         \normalLyrics
             fe -- ri -- to,
     co -- sì la -- scia scher -- ni -- to
-    Tir -- si~e d’a -- mor,
-        e d’a -- mor fe -- ri -- to,
-        e d’a -- mor fe -- ri -- to,
-        e d’a -- mor,
+    Tir -- si~e d'a -- mor,
+        e d'a -- mor fe -- ri -- to,
+        e d'a -- mor fe -- ri -- to,
+        e d'a -- mor,
     \ijLyrics
-        e d’a -- mor
+        e d'a -- mor
     \normalLyrics
             fe -- ri -- to,
-        e d’a -- mor,
+        e d'a -- mor,
         \ijLyrics
-        e d’a -- mor,
-        e d’a -- mor
-        e d’a -- mor
+        e d'a -- mor,
+        e d'a -- mor
+        e d'a -- mor
         \normalLyrics
             fe -- ri -- to.
 }

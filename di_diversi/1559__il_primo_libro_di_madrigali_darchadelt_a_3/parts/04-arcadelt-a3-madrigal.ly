@@ -48,9 +48,9 @@ cantoIV = \relative c'' {
 cantoLyricsIV = \lyricmode {
     Dor -- men -- do~un gior -- no~a Ba -- ia~a l'om -- bra~A -- mo -- re
     Do -- ve~il mor -- mor de fon -- ti più __ gli __ piac -- que,
-    Cor -- ser le nin -- fe~a ven -- di -- car l’ar -- do -- re
-    E la fa -- ce gli~a -- sco -- sen sot -- to __ l’ac -- que. __
-    Ch’il cre -- de -- reb -- be, den -- tro~a quel li -- quo -- re
+    Cor -- ser le nin -- fe~a ven -- di -- car l'ar -- do -- re
+    E la fa -- ce gli~a -- sco -- sen sot -- to __ l'ac -- que. __
+    Ch'il cre -- de -- reb -- be, den -- tro~a quel li -- quo -- re
     Su -- bi -- te -- men -- te~e -- ter -- no fo -- co nac -- que, 
         fo -- co __  nac -- que, 
     On -- de~a quei ba -- gni,
@@ -59,8 +59,8 @@ cantoLyricsIV = \lyricmode {
     \normalLyrics
         sem -- pre~il cal -- do du -- ra,
         sem -- pre~il cal -- do du -- ra,
-    Che la fiam -- ma d’a -- mor ac -- qua non cu -- ra,
-    Che la fiam -- ma d’a -- mor ac -- qua non cu -- ra.
+    Che la fiam -- ma d'a -- mor ac -- qua non cu -- ra,
+    Che la fiam -- ma d'a -- mor ac -- qua non cu -- ra.
 }
 
 tenoreIVincipit = \relative c' {
@@ -97,17 +97,17 @@ tenoreIV = \relative c' {
 tenoreLyricsIV = \lyricmode {
     Dor -- men -- do~un gior -- no~a Ba -- ia~a l'om -- bra~A -- mo -- re
     Do -- ve~il mor -- mor de fon -- ti più __ gli piac -- que,
-    Cor -- ser le nin -- fe~a ven -- di -- car l’ar -- do -- re
-    E la fa -- ce gli~a -- sco -- sen sot -- to l’ac -- que. 
-    Ch’il cre -- de -- reb -- be, 
-    Ch’il cre -- de -- reb -- be, den -- tro~a quel li -- quo -- re
+    Cor -- ser le nin -- fe~a ven -- di -- car l'ar -- do -- re
+    E la fa -- ce gli~a -- sco -- sen sot -- to l'ac -- que. 
+    Ch'il cre -- de -- reb -- be, 
+    Ch'il cre -- de -- reb -- be, den -- tro~a quel li -- quo -- re
     Su -- bi -- te -- men -- te~e -- ter -- no fo -- co nac -- que, 
     Su -- bi -- te -- men -- te~e -- ter -- no fo -- co nac -- que, __
     On -- de~a quei ba -- gni,
         sem -- pre~il cal -- do du -- ra,
         sem -- pre~il cal -- do du -- ra,
-    Che la fiam -- ma __ d’a -- mor ac -- qua non cu -- ra,
-    Che la fiam -- ma d’a -- mor ac -- qua non cu -- ra.
+    Che la fiam -- ma __ d'a -- mor ac -- qua non cu -- ra,
+    Che la fiam -- ma d'a -- mor ac -- qua non cu -- ra.
 }
 
 bassoIVincipit = \relative c' {
@@ -144,19 +144,19 @@ bassoIV = \relative c' {
 bassoLyricsIV = \lyricmode {
     Dor -- men -- do~un gior -- no~a Ba -- ia~a l'om -- bra~A -- mo -- re
     Do -- ve~il mor -- mor de fon -- ti più gli __ piac -- que,
-    Cor -- ser le nin -- fe~a ven -- di -- car __ l’ar -- do -- re
-    E la fa -- ce gli~a -- sco -- sen sot -- to __  l’ac -- que.
-    Ch’il cre -- de -- reb -- be, 
+    Cor -- ser le nin -- fe~a ven -- di -- car __ l'ar -- do -- re
+    E la fa -- ce gli~a -- sco -- sen sot -- to __  l'ac -- que.
+    Ch'il cre -- de -- reb -- be, 
     \ijLyrics
-    Ch’il cre -- de -- reb -- be, 
+    Ch'il cre -- de -- reb -- be, 
     \normalLyrics
         den -- tro~a quel li -- quo -- re
     Su -- bi -- te -- men -- te~e -- ter -- no fo -- co nac -- que, __
         fo -- co nac -- que, __
     On -- de~a quei ba -- gni sem -- pre~il cal -- do du -- ra,
         sem -- pre~il cal -- do du -- ra,
-    Che la fiam -- ma d’a -- mor ac -- qua __ non cu -- ra,
-    Che la fiam -- ma d’a -- mor ac -- qua __ non cu -- ra.
+    Che la fiam -- ma d'a -- mor ac -- qua __ non cu -- ra,
+    Che la fiam -- ma d'a -- mor ac -- qua __ non cu -- ra.
 }
 
 cantoIVincipitVoice = <<

@@ -30,14 +30,14 @@ cantoXV = \relative c'' {
 }
 
 cantoLyricsXV = \lyricmode {
-    Ag -- giun -- gi~a que -- sto~an -- cor quel ch’a mag -- gio -- re
+    Ag -- giun -- gi~a que -- sto~an -- cor quel ch'a mag -- gio -- re
     On -- ta tu re -- chi~ed a mag -- gior tuo dan -- no:
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re;
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re;
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re;
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re;
     Em -- pia lu -- sin -- ga cer -- to~i -- ni -- quo~in -- gan -- no,
     La -- sciar -- si cor -- re~il vir -- gi -- nal suo fio -- re,
     Far de le sue bel -- lez -- ze~al -- trui ti -- ran -- no,
-    Quel -- le ch’a mil -- le~an -- ti -- chi~in pre -- mio so -- no
+    Quel -- le ch'a mil -- le~an -- ti -- chi~in pre -- mio so -- no
     Ne -- ga -- te, of -- fri -- re~a no -- vo~a -- man -- te,
     of -- fri -- re~a no -- vo~a -- man -- te~in __ do -- no!
 }
@@ -78,18 +78,18 @@ altoXV = \relative c' {
 }
 
 altoLyricsXV = \lyricmode {
-    Ag -- giun -- gi~a que -- sto~an -- cor quel ch’a mag -- gio -- re
-        quel ch’a mag -- gio -- re
+    Ag -- giun -- gi~a que -- sto~an -- cor quel ch'a mag -- gio -- re
+        quel ch'a mag -- gio -- re
     On -- ta tu re -- chi~ed a mag -- gior tuo dan -- no:
-    T’in -- gan -- nai, 
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re;
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re;
+    T'in -- gan -- nai, 
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re;
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re;
     Em -- pia lu -- sin -- ga cer -- to~i -- ni -- quo~in -- gan -- no,
     La -- sciar -- si cor -- re~il vir -- gi -- nal suo fio -- re,
     La -- sciar -- si cor -- re~il vir -- gi -- nal suo fio -- re,
     Far de le sue bel -- lez -- ze~al -- trui ti -- ran -- no,
         al -- trui ti -- ran -- no,
-    Quel -- le ch’a mil -- le~an -- ti -- chi~in pre -- mio so -- no
+    Quel -- le ch'a mil -- le~an -- ti -- chi~in pre -- mio so -- no
     Ne -- ga -- te, of -- fri -- re~a no -- vo~a -- man -- te~in do -- no,
     of -- fri -- re~a no -- vo~a -- man -- te,
     of -- fri -- re~a no -- vo~a -- man -- te~in do -- no!
@@ -126,10 +126,10 @@ tenoreXV = \relative c' {
 }
 
 tenoreLyricsXV = \lyricmode {
-    Ag -- giun -- gi~a que -- sto~an -- cor quel ch’a mag -- gio -- re
+    Ag -- giun -- gi~a que -- sto~an -- cor quel ch'a mag -- gio -- re
     On -- ta tu re -- chi ed a __ mag -- gior tuo dan -- no:
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re;
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re;
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re;
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re;
     La -- sciar -- si cor -- re~il vir -- gi -- nal suo fio -- re,
     Far de le sue bel -- lez -- ze~al -- trui ti -- ran -- no,
         al -- trui ti -- ran -- no,
@@ -168,14 +168,14 @@ bassoXV = \relative c {
 }
 
 bassoLyricsXV = \lyricmode {
-    Ag -- giun -- gi~a que -- sto~an -- cor quel ch’a mag -- gio -- re
+    Ag -- giun -- gi~a que -- sto~an -- cor quel ch'a mag -- gio -- re
     On -- ta tu re -- chi~ed a mag -- gior tuo dan -- no: __
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re,
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re,
         nel no -- stro~a -- mo -- re;
     La -- sciar -- si cor -- re~il vir -- gi -- nal suo fio -- re,
     Far de le sue bel -- lez -- ze~al -- trui ti -- ran -- no,
         al -- trui ti -- ran -- no,
-    Quel -- le ch’a mil -- le~an -- ti -- chi~in pre -- mio so -- no
+    Quel -- le ch'a mil -- le~an -- ti -- chi~in pre -- mio so -- no
     Ne -- ga -- te, of -- fri -- re~a no -- vo~a -- man -- te~in do -- no,
     of -- fri -- re~a no -- vo~a -- man -- te~in do -- no!
 }
@@ -212,16 +212,16 @@ quintoXV = \relative c' {
 }
 
 quintoLyricsXV = \lyricmode {
-    Ag -- giun -- gi~a que -- sto~an -- cor quel ch’a mag -- gio -- re
+    Ag -- giun -- gi~a que -- sto~an -- cor quel ch'a mag -- gio -- re
     On -- ta tu re -- chi~ed a mag -- gior tuo dan -- no:
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re,
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re,
-    T’in -- gan -- nai, t’al -- let -- tai nel no -- stro~a -- mo -- re;
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re,
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re,
+    T'in -- gan -- nai, t'al -- let -- tai nel no -- stro~a -- mo -- re;
     Em -- pia lu -- sin -- ga cer -- to~i -- ni -- quo~in -- gan -- no,
     La -- sciar -- si cor -- re~il vir -- gi -- nal suo fio -- re,
     Far de le sue bel -- lez -- ze~al -- trui,
     Far de le sue bel -- lez -- ze~al -- trui ti -- ran -- no,
-    Quel -- le ch’a mil -- le~an -- ti -- chi~in pre -- mio so -- no
+    Quel -- le ch'a mil -- le~an -- ti -- chi~in pre -- mio so -- no
     Ne -- ga -- te, of -- fri -- re~a no -- vo~a -- man -- te~in do -- no
     of -- fri -- re~a no -- vo~a -- man -- te~in do -- no! __
 }

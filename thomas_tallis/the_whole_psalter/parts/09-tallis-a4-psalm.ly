@@ -20,9 +20,9 @@
 % with lauds and thanks alway
 % among thy folk, when that they keep
 % so high their Holy Day.
-% Why cast’st thyself then down,
+% Why cast'st thyself then down,
 % my soul, I said no less,
-% Why lay’st in me so painfully,
+% Why lay'st in me so painfully,
 % in woe and carefulness?
 % 
 % Put thou thy trust in God,
@@ -34,7 +34,7 @@
 % I mind thy works in Jordan yet,
 % so done next Hermon Hill.
 % 
-% As deep to deep reboundt’h,
+% As deep to deep reboundt'h,
 % at noise of thy great showers,
 % thy streams by course so overflows,
 % my soul the pain devours.
@@ -108,9 +108,9 @@ meaneLyricsIXa = \lyricmode {
     a -- mong thy folk, when that they keep
     so high their Ho -- ly Day.
 
-    Why cast’st thy -- self then down,
+    Why cast'st thy -- self then down,
     my soul, I said no __ less,
-    Why lay’st in me so pain -- ful -- ly,
+    Why lay'st in me so pain -- ful -- ly,
     in woe and care -- ful -- ness?
 }
 
@@ -172,9 +172,9 @@ contratenorLyricsIXa = \lyricmode {
     a -- mong thy folk, when that they keep
     so high their Ho -- ly Day.
 
-    Why cast’st thy -- self then down,
+    Why cast'st thy -- self then down,
     my soul, I said no less,
-    Why lay’st in me so pain -- ful -- ly,
+    Why lay'st in me so pain -- ful -- ly,
     in woe and care -- ful -- ness?
 }
 
@@ -236,9 +236,9 @@ tenorLyricsIXa = \lyricmode {
     a -- mong thy folk, when that they keep
     so high their Ho -- ly Day.
 
-    Why cast’st thy -- self then down,
+    Why cast'st thy -- self then down,
     my soul, I said no less,
-    Why lay’st in me so pain -- ful -- ly,
+    Why lay'st in me so pain -- ful -- ly,
     in woe and care -- ful -- ness?
 }
 
@@ -299,9 +299,9 @@ baseLyricsIXa = \lyricmode {
     a -- mong thy folk, when that they keep
     so high their Ho -- ly Day.
 
-    Why cast’st thy -- self then __ down,
+    Why cast'st thy -- self then __ down,
     my soul, I said no less,
-    Why lay’st in me so pain -- ful -- ly,
+    Why lay'st in me so pain -- ful -- ly,
     in woe and care -- ful -- ness?
 }
 

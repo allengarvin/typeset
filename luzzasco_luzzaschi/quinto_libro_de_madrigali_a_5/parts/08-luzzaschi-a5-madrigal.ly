@@ -1,8 +1,8 @@
-% Se parti i’ moro; e pur partir conviene.
+% Se parti i' moro; e pur partir conviene.
 % Morrò dunque il mio bene?
 % E questa empia partita
 % che mi ti toglie, mi torrà la vita?
-% Dolorosa partita che m’uccidi,
+% Dolorosa partita che m'uccidi,
 % quei che congiunse Amor, perché dividi?
 % Ridolfo Arlotti
 % 
@@ -52,7 +52,7 @@ cantoVIII = \relative c'' {
 }
 
 cantoLyricsVIII = \lyricmode {
-    Se par -- ti~i’ mo -- ro; e pur par -- tir con -- vie -- ne.
+    Se par -- ti~i' mo -- ro; e pur par -- tir con -- vie -- ne.
         par -- tir,
         par -- tir con -- vie -- ne.
     Mor -- rò dun -- que~il mio be -- ne?
@@ -60,8 +60,8 @@ cantoLyricsVIII = \lyricmode {
     E que -- sta~em -- pia par -- ti -- ta
     Che mi ti to -- glie, mi tor -- rà la vi -- ta?
         mi tor -- rà la vi -- ta?
-    Do -- lo -- ro -- sa par -- ti -- ta che m’uc -- ci -- di,
-        che m’uc -- ci -- di,
+    Do -- lo -- ro -- sa par -- ti -- ta che m'uc -- ci -- di,
+        che m'uc -- ci -- di,
     Quei che con -- giun -- se~A -- mor, 
     \ijLyrics
     quei che con -- giun -- se~A -- mor,
@@ -102,7 +102,7 @@ altoVIII = \relative c'' {
 }
 
 altoLyricsVIII = \lyricmode {
-    Se par -- ti~i’ mo -- ro; e pur par -- tir con -- vie -- ne.
+    Se par -- ti~i' mo -- ro; e pur par -- tir con -- vie -- ne.
         par -- tir,
         par -- tir con -- vie -- ne.
     Mor -- rò dun -- que~il mio be -- ne?
@@ -112,9 +112,9 @@ altoLyricsVIII = \lyricmode {
     E que -- sta~em -- pia par -- ti -- ta
     Che mi ti to -- glie, mi tor -- rà la vi -- ta?
         mi tor -- rà la vi -- ta?
-    Do -- lo -- ro -- sa par -- ti -- ta che m’uc -- ci -- di,
+    Do -- lo -- ro -- sa par -- ti -- ta che m'uc -- ci -- di,
     \ijLyrics
-        che m’uc -- ci -- di,
+        che m'uc -- ci -- di,
     \normalLyrics
     Quei che con -- giun -- se~A -- mor,
     \ijLyrics
@@ -159,7 +159,7 @@ tenoreVIII = \relative c' {
 }
 
 tenoreLyricsVIII = \lyricmode {
-    Se par -- ti~i’ mo -- ro; e pur par -- tir con -- vie -- ne.
+    Se par -- ti~i' mo -- ro; e pur par -- tir con -- vie -- ne.
         par -- tir,
         par -- tir con -- vie -- ne.
     Mor -- rò dun -- que~il mio be -- ne?
@@ -169,9 +169,9 @@ tenoreLyricsVIII = \lyricmode {
     E que -- sta~em -- pia par -- ti -- ta
     Che mi ti to -- glie, mi tor -- rà la vi -- ta?
         mi tor -- rà la vi -- ta?
-    Do -- lo -- ro -- sa par -- ti -- ta che m’uc -- ci -- di,
+    Do -- lo -- ro -- sa par -- ti -- ta che m'uc -- ci -- di,
     \ijLyrics
-        che m’uc -- ci -- di,
+        che m'uc -- ci -- di,
     \normalLyrics
     Quei che con -- giun -- se~A -- mor,
     \ijLyrics
@@ -213,7 +213,7 @@ bassoVIII = \relative c {
 }
 
 bassoLyricsVIII = \lyricmode {
-    Se par -- ti~i’ mo -- ro; e pur par -- tir con -- vie -- ne.
+    Se par -- ti~i' mo -- ro; e pur par -- tir con -- vie -- ne.
 %        par -- tir,
         par -- tir con -- vie -- ne.
     Mor -- rò dun -- que~il mio be -- ne?
@@ -223,8 +223,8 @@ bassoLyricsVIII = \lyricmode {
     E que -- sta~em -- pia par -- ti -- ta
     Che mi ti to -- glie, mi tor -- rà la vi -- ta?
         mi tor -- rà la vi -- ta?
-    Do -- lo -- ro -- sa par -- ti -- ta che m’uc -- ci -- di,
-%        che m’uc -- ci -- di,
+    Do -- lo -- ro -- sa par -- ti -- ta che m'uc -- ci -- di,
+%        che m'uc -- ci -- di,
     Quei che con -- giun -- se~A -- mor,
     \ijLyrics
     quei che con -- giun -- se~A -- mor,
@@ -266,7 +266,7 @@ quintoVIII = \relative c' {
 }
 
 quintoLyricsVIII = \lyricmode {
-    Se par -- ti~i’ mo -- ro; e pur __ par -- tir con -- vie -- ne.
+    Se par -- ti~i' mo -- ro; e pur __ par -- tir con -- vie -- ne.
 %        par -- tir,
         par -- tir con -- vie -- ne.
     Mor -- rò dun -- que~il mio be -- ne?
@@ -276,11 +276,11 @@ quintoLyricsVIII = \lyricmode {
     E que -- sta~em -- pia par -- ti -- ta
     Che mi ti to -- glie, mi tor -- rà la vi -- ta?
         mi tor -- rà la vi -- ta?
-    Do -- lo -- ro -- sa par -- ti -- ta che m’uc -- ci -- di,
+    Do -- lo -- ro -- sa par -- ti -- ta che m'uc -- ci -- di,
     \ijLyrics
-        che m’uc -- ci -- di,
+        che m'uc -- ci -- di,
     \normalLyrics
-        che m’uc -- ci -- di,
+        che m'uc -- ci -- di,
     Quei che con -- giun -- se~A -- mor,
     \ijLyrics
     quei che con -- giun -- se~A -- mor,

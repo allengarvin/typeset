@@ -42,7 +42,7 @@ cantoIII = \relative c'' {
 cantoLyricsIII = \lyricmode {
     Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di __ fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra e fa le fo -- glie~e __ l’on -- de
+    Mor -- mo -- ra l'au -- ra e fa le fo -- glie~e __ l'on -- de
     Gar -- rir, che va -- ria -- men -- t'el -- la per -- co -- te
     Quan -- do tac -- cion gli~au -- gel -- li, al -- to ri -- spon -- de,
         al -- to ri -- spon -- de,
@@ -108,7 +108,7 @@ tenoreLyricsIII = \lyricmode {
     Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di fron -- de
         in -- fra le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra e fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra e fa le fo -- glie~e l'on -- de
     Gar -- rir, che va -- ria -- men -- t'el -- la per -- co -- te
     Quan -- do tac -- cion gli~au -- gel -- li, al -- to ri -- spon -- de,
         al -- to ri -- spon -- de,
@@ -185,7 +185,7 @@ bassoLyricsIII = \lyricmode {
     Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di fron -- de,
         in -- fra le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra e fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra e fa le fo -- glie~e l'on -- de
     Gar -- rir, che va -- ria -- men -- t'el -- la per -- co -- te
     Quan -- do tac -- cion gli~au -- gel -- li~al -- to ri -- spon -- de,
         al -- to ri -- spon -- de,

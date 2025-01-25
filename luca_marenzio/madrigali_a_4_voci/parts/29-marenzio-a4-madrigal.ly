@@ -49,7 +49,7 @@ cantoLyricsXXIX = \lyricmode {
     La mia sua -- ve e dol -- ce pa -- sto -- rel -- la.
 
     Un bel co -- lom -- bo in u -- na quer -- cia~an -- ti -- ca
-    Vi -- di~an -- ni -- dar poc’ an -- zi~il qual ri -- ser -- bo
+    Vi -- di~an -- ni -- dar poc' an -- zi~il qual ri -- ser -- bo
     Per la cru -- de -- le~et a -- spra mia ne -- mi -- ca.
 
     Fre -- sche ghir -- lan -- de di no -- vel -- li fio -- ri
@@ -110,7 +110,7 @@ altoLyricsXXIX = \lyricmode {
     La mia sua -- ve e dol -- ce pa -- sto -- rel -- la.
 
     Un bel co -- lom -- bo in u -- na quer -- cia~an -- ti -- ca
-    Vi -- di~an -- ni -- dar poc’ an -- zi~il qual ri -- ser -- bo
+    Vi -- di~an -- ni -- dar poc' an -- zi~il qual ri -- ser -- bo
     Per la cru -- de -- le~et a -- spra mia ne -- mi -- ca.
 
     Fre -- sche ghir -- lan -- de di no -- vel -- li fio -- ri
@@ -166,7 +166,7 @@ tenoreLyricsXXIX = \lyricmode {
     A la sam -- po -- gna mia so -- no -- ra~e bel -- la,
     E cor -- re~e sal -- ta~e fug -- ge~e poi ri -- tor -- na.
     
-    Thir -- re -- na mia col so -- spi -- rar m’uc -- ci -- de,
+    Thir -- re -- na mia col so -- spi -- rar m'uc -- ci -- de,
     Quan -- do par che vèr me con gli~oc -- chi di -- ca:
     Chi dal mio fi -- do~a -- man -- te~hor mi di -- vi -- de?
 
@@ -227,7 +227,7 @@ bassoLyricsXXIX = \lyricmode {
     A la sam -- po -- gna mia so -- no -- ra~e bel -- la,
     E cor -- re~e sal -- ta~e fug -- ge~e poi ri -- tor -- na.
     
-    Thir -- re -- na mia col so -- spi -- rar m’uc -- ci -- de,
+    Thir -- re -- na mia col so -- spi -- rar m'uc -- ci -- de,
     Quan -- do par che vèr me con gli~oc -- chi di -- ca:
     Chi dal mio fi -- do~a -- man -- te~hor mi di -- vi -- de?
 
@@ -244,17 +244,17 @@ bassoLyricsXXIX = \lyricmode {
 % EL. La santa Pale intenta ode il mio canto,
 % e di bei rami le mie chiome adorna,
 % che nessun altro se ne può dar vanto.
-% OF. E ’l semicapro Pan alza le corna
+% OF. E 'l semicapro Pan alza le corna
 % a la sampogna mia sonora e bella,
 % e corre e salta e fugge e poi ritorna.
 % EL. Quando talora alla stagion novella
 % mungo le capre mie, mi scherne e ride
 % la mia suave e dolce pastorella.
-% OF. Tirrena mia col sospirar m’uccide,
+% OF. Tirrena mia col sospirar m'uccide,
 % quando par che vèr me con gli occhi dica:
 % - Chi dal mio fido amante or mi divide? -
 % EL. Un bel colombo in una quercia antica
-% vidi annidar poc’anzi; il qual riserbo
+% vidi annidar poc'anzi; il qual riserbo
 % per la crudele et aspra mia nemica.
 % OF. Et io nel bosco un bel giovenco aderbo
 % per la mia donna; il qual fra tutti i tori

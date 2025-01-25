@@ -1,10 +1,10 @@
-% Ben, s’io non erro di pietate un raggio
-% scorgo fra ’l nubiloso, altero ciglio,
-% che ’n parte rasserena il cor doglioso:
+% Ben, s'io non erro di pietate un raggio
+% scorgo fra 'l nubiloso, altero ciglio,
+% che 'n parte rasserena il cor doglioso:
 %
-% allor raccolgo l’alma, et poi ch’i’ aggio
+% allor raccolgo l'alma, et poi ch'i' aggio
 % di scovrirle il mio mal preso consiglio,
-% tanto gli ò a dir, che’ncominciar non oso.
+% tanto gli ò a dir, che'ncominciar non oso.
 
 cantusXLIIincipit = \relative c'' {
     \time 2/2
@@ -42,16 +42,16 @@ cantusXLII = \relative c'' {
 }
 
 cantusLyricsXLII = \lyricmode {
-    Ben, s’io __ non er -- ro,
-    ben, s’io __ non er -- ro di __ pie -- ta -- te~un rag -- gio
-    Scor -- go fra’l nu -- bi -- lo -- so~al -- te -- ro __ ci -- glio,
+    Ben, s'io __ non er -- ro,
+    ben, s'io __ non er -- ro di __ pie -- ta -- te~un rag -- gio
+    Scor -- go fra'l nu -- bi -- lo -- so~al -- te -- ro __ ci -- glio,
         al -- te -- ro ci -- glio,
-    Che’n par -- te ras -- se -- re -- na~il cor do -- glio -- so,
+    Che'n par -- te ras -- se -- re -- na~il cor do -- glio -- so,
         il cor do -- glio -- so:
 
-    Al -- lor __ rac -- col -- go l’al -- ma, __ et poi ch’i ag -- gio
+    Al -- lor __ rac -- col -- go l'al -- ma, __ et poi ch'i ag -- gio
     Di sco -- vrir -- le~il mio mal pre -- so con -- si -- glio,
-        et poi ch’i ag -- gio
+        et poi ch'i ag -- gio
     di sco -- vrir -- le~il mio mal __ pre -- so con -- si -- glio,
     Tan -- to gli~ò~a dir,
     tan -- to gli~ò~a dir, che~in -- co -- min -- ciar non o -- so,
@@ -92,15 +92,15 @@ altusXLII = \relative c'' {
 }
 
 altusLyricsXLII = \lyricmode {
-    Ben, s’io __ non er -- ro,
-    ben, s’io __ non er -- ro di __ pie -- ta -- te~un rag -- gio
-    Scor -- go fra’l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
-    Che’n par -- te ras -- se -- re -- na~il cor do -- glio -- so,
-    che’n __ par -- te ras -- se -- re -- na~il cor do -- glio -- so:
+    Ben, s'io __ non er -- ro,
+    ben, s'io __ non er -- ro di __ pie -- ta -- te~un rag -- gio
+    Scor -- go fra'l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
+    Che'n par -- te ras -- se -- re -- na~il cor do -- glio -- so,
+    che'n __ par -- te ras -- se -- re -- na~il cor do -- glio -- so:
 
-    Al -- lor rac -- col -- go l’al -- ma, et poi ch’i ag -- gio
+    Al -- lor rac -- col -- go l'al -- ma, et poi ch'i ag -- gio
     Di sco -- vrir -- le~il mio mal __ pre -- so con -- si -- glio,
-        et poi ch’i ag -- gio
+        et poi ch'i ag -- gio
     di sco -- vrir -- le~il mio mal __ pre -- so con -- si -- glio,
     Tan -- to gli~ò~a dir,
     \ijLyrics
@@ -144,14 +144,14 @@ tenorXLII = \relative c' {
 }
 
 tenorLyricsXLII = \lyricmode {
-    Ben, s’io __ non er -- ro,
-    ben, s’io non er -- ro di pie -- ta -- te~un rag -- gio
-    Scor -- go fra’l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
-    ben, s’io non er -- ro di pie -- ta -- te~un rag -- gio
-    scor -- go fra’l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
-    Che’n par -- te ras -- se -- re -- na~il cor do -- glio -- so:
+    Ben, s'io __ non er -- ro,
+    ben, s'io non er -- ro di pie -- ta -- te~un rag -- gio
+    Scor -- go fra'l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
+    ben, s'io non er -- ro di pie -- ta -- te~un rag -- gio
+    scor -- go fra'l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
+    Che'n par -- te ras -- se -- re -- na~il cor do -- glio -- so:
 
-    Al -- lor __ rac -- col -- go l’al -- ma, __ et poi ch’i ag -- gio
+    Al -- lor __ rac -- col -- go l'al -- ma, __ et poi ch'i ag -- gio
     Di sco -- vrir -- le~il mio mal pre -- so con -- si -- glio, __
     Tan -- to gli~ò~a dir,
     \ijLyrics
@@ -198,14 +198,14 @@ bassusXLII = \relative c {
 }
 
 bassusLyricsXLII = \lyricmode {
-    Ben, s’io __ non er -- ro di __ pie -- ta -- te~un rag -- gio
-    Scor -- go fra’l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
-    ben, s’io non er -- ro di __ pie -- ta -- te~un rag -- gio
-    scor -- go fra’l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
-    Che’n par -- te ras -- se -- re -- na~il cor do -- glio -- so,
-    che’n par -- te ras -- se -- re -- na~il cor do -- glio -- so:
+    Ben, s'io __ non er -- ro di __ pie -- ta -- te~un rag -- gio
+    Scor -- go fra'l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
+    ben, s'io non er -- ro di __ pie -- ta -- te~un rag -- gio
+    scor -- go fra'l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
+    Che'n par -- te ras -- se -- re -- na~il cor do -- glio -- so,
+    che'n par -- te ras -- se -- re -- na~il cor do -- glio -- so:
 
-    Al -- lor rac -- col -- go l’al -- ma, et poi ch’i ag -- gio
+    Al -- lor rac -- col -- go l'al -- ma, et poi ch'i ag -- gio
     Di __ sco -- vrir -- le~il mio mal pre -- so con -- si -- glio,
     Tan -- to gli~ò~a dir,
     tan -- to gli~ò~a dir, che~in -- co -- min -- ciar non o -- so,
@@ -247,15 +247,15 @@ quintusXLII = \relative c {
 }
 
 quintusLyricsXLII = \lyricmode {
-    Ben, s’io non er -- ro,
-    ben, s’io __ non er -- ro di __ pie -- ta -- te~un rag -- gio
-    Scor -- go fra’l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
-    Che’n par -- te ras -- se -- re -- na~il cor do -- glio -- so,
-    che’n par -- te ras -- se -- re -- na~il cor do -- glio -- so:
+    Ben, s'io non er -- ro,
+    ben, s'io __ non er -- ro di __ pie -- ta -- te~un rag -- gio
+    Scor -- go fra'l nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
+    Che'n par -- te ras -- se -- re -- na~il cor do -- glio -- so,
+    che'n par -- te ras -- se -- re -- na~il cor do -- glio -- so:
 
-    Al -- lor rac -- col -- go l’al -- ma, et poi ch’i ag -- gio
+    Al -- lor rac -- col -- go l'al -- ma, et poi ch'i ag -- gio
     Di sco -- vrir -- le~il __ mio mal pre -- so con -- si -- glio,
-        et poi ch’i ag -- gio
+        et poi ch'i ag -- gio
     di sco -- vrir -- le~il mio mal __ pre -- so con -- si -- glio,
     Tan -- to gli~ò~a dir,
     \ijLyrics
@@ -299,15 +299,15 @@ sestaXLII = \relative c'' {
 }
 
 sestaLyricsXLII = \lyricmode {
-    Ben, s’io non er -- ro, __
-    ben, s’io non er -- ro di pie -- ta -- te~un rag -- gio
-    Scor -- go fra’l __ nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
-    Che’n __ par -- te ras -- se -- re -- na~il cor do -- glio -- so,
-    che’n par -- te ras -- se -- re -- na~il cor do -- glio -- so:
+    Ben, s'io non er -- ro, __
+    ben, s'io non er -- ro di pie -- ta -- te~un rag -- gio
+    Scor -- go fra'l __ nu -- bi -- lo -- so~al -- te -- ro ci -- glio,
+    Che'n __ par -- te ras -- se -- re -- na~il cor do -- glio -- so,
+    che'n par -- te ras -- se -- re -- na~il cor do -- glio -- so:
 
-    Al -- lor __ rac -- col -- go l’al -- ma, et poi ch’i ag -- gio
+    Al -- lor __ rac -- col -- go l'al -- ma, et poi ch'i ag -- gio
     Di sco -- vrir -- le~il mio mal pre -- so con -- si -- glio,
-        et poi ch’i ag -- gio
+        et poi ch'i ag -- gio
     di sco -- vrir -- le~il mio mal pre -- so con -- si -- glio,
     Tan -- to gli~ò~a dir,
     \ijLyrics

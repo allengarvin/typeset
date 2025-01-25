@@ -1,11 +1,11 @@
 % Non sono in queste rive
 % fiori così vermigli
 % come le labbra della Donna mia.
-% Né il suon dell’aure estive
+% Né il suon dell'aure estive
 % tra fonti e rose e gigli
 % fan del suo canto più dolce armonia.
-% Canto che m’ardi e piaci,
-% t’interrompano solo i nostri baci.
+% Canto che m'ardi e piaci,
+% t'interrompano solo i nostri baci.
 % 
 % (Tasso)
 
@@ -54,7 +54,7 @@ cantoLyricsVII = \lyricmode {
     fio -- ri co -- sì ver -- mi -- gli
     Co -- me le lab -- bra del -- la Don -- na mi -- a.
 
-    Né~il suon del -- l’au -- re~e -- sti -- ve
+    Né~il suon del -- l'au -- re~e -- sti -- ve
     Tra fon -- ti~e ro -- se~e gi -- gli,
     \ijLyrics
     tra fon -- ti~e ro -- se~e gi -- gli,
@@ -67,14 +67,14 @@ cantoLyricsVII = \lyricmode {
     fan del suo can -- to
         più dol -- ce~ar -- mo -- ni -- a. __
 
-    Can -- to che m’ar -- di~e pia -- ci,
-        che m’ar -- di~e pia -- ci, __
-    can -- to che m’ar -- di~e pia -- ci,
-    T’in -- ter -- rom -- pa -- no so -- lo,
+    Can -- to che m'ar -- di~e pia -- ci,
+        che m'ar -- di~e pia -- ci, __
+    can -- to che m'ar -- di~e pia -- ci,
+    T'in -- ter -- rom -- pa -- no so -- lo,
     \ijLyrics
-    t’in -- ter -- rom -- pa -- no so -- lo,
+    t'in -- ter -- rom -- pa -- no so -- lo,
     \ijLyrics
-    t’in -- ter -- rom -- pa -- no so -- lo~i no -- stri ba -- ci.
+    t'in -- ter -- rom -- pa -- no so -- lo~i no -- stri ba -- ci.
 }
 
 altoVIIincipit = \relative c' {
@@ -122,7 +122,7 @@ altoLyricsVII = \lyricmode {
     \normalLyrics
     Co -- me le lab -- bra del -- la Don -- na mi -- a.
 
-    Né~il suon del -- l’au -- re~e -- sti -- ve
+    Né~il suon del -- l'au -- re~e -- sti -- ve
     Tra fon -- ti~e ro -- se~e gi -- gli,
     \ijLyrics
     tra fon -- ti~e ro -- se~e gi -- gli
@@ -133,14 +133,14 @@ altoLyricsVII = \lyricmode {
     \normalLyrics
     fan del suo can -- to più dol -- ce~ar -- mo -- ni -- a.
 
-    Can -- to che m’ar -- di~e pia -- ci,
-    can -- to che m’ar -- di~e pia -- ci,
+    Can -- to che m'ar -- di~e pia -- ci,
+    can -- to che m'ar -- di~e pia -- ci,
     \ijLyrics
-    can -- to che m’ar -- di~e pia -- ci,
+    can -- to che m'ar -- di~e pia -- ci,
     \normalLyrics
-    T’in -- ter -- rom -- pa -- no so -- lo,
-    t’in -- ter -- rom -- pa -- no so -- lo,
-    t’in -- ter -- rom -- pa -- no so -- lo i no -- stri ba -- ci.
+    T'in -- ter -- rom -- pa -- no so -- lo,
+    t'in -- ter -- rom -- pa -- no so -- lo,
+    t'in -- ter -- rom -- pa -- no so -- lo i no -- stri ba -- ci.
 }
 
 tenoreVIIincipit = \relative c' {
@@ -190,7 +190,7 @@ tenoreLyricsVII = \lyricmode {
     \normalLyrics
     Co -- me le lab -- bra del -- la Don -- na mi -- a.
 
-    Né~il suon del -- l’au -- re~e -- sti -- ve
+    Né~il suon del -- l'au -- re~e -- sti -- ve
     Tra fon -- ti~e ro -- se~e gi -- gli,
     tra fon -- ti~e ro -- se~e gi -- gli
     Fan del suo can -- to,
@@ -199,15 +199,15 @@ tenoreLyricsVII = \lyricmode {
     \normalLyrics
     fan del suo can -- to più dol -- ce~ar -- mo -- ni -- a.
 
-    Can -- to che m’ar -- di~e pia -- ci, __
-    can -- to che m’ar -- di~e pia -- ci,
-        che m’ar -- di~e pia -- ci,
-    T’in -- ter -- rom -- pa -- no so -- lo,
-    t’in -- ter -- rom -- pa -- no so -- lo,
+    Can -- to che m'ar -- di~e pia -- ci, __
+    can -- to che m'ar -- di~e pia -- ci,
+        che m'ar -- di~e pia -- ci,
+    T'in -- ter -- rom -- pa -- no so -- lo,
+    t'in -- ter -- rom -- pa -- no so -- lo,
     \ijLyrics
-    t’in -- ter -- rom -- pa -- no so -- lo,
+    t'in -- ter -- rom -- pa -- no so -- lo,
     \ijLyrics
-    t’in -- ter -- rom -- pa -- no so -- lo~i no -- stri ba -- ci.
+    t'in -- ter -- rom -- pa -- no so -- lo~i no -- stri ba -- ci.
 }
 
 bassoVIIincipit = \relative c {
@@ -239,16 +239,16 @@ bassoVII = \relative c {
 }
 
 bassoLyricsVII = \lyricmode {
-    Né~il suon del -- l’au -- re~e -- sti -- ve
+    Né~il suon del -- l'au -- re~e -- sti -- ve
     Tra fon -- ti~e ro -- se~e gi -- gli,
     tra fon -- ti~e ro -- se~e gi -- gli
     Fan del suo can -- to più dol -- ce~ar -- mo -- ni -- a.
 
-    Can -- to che m’ar -- di~e pia -- ci,
-    can -- to che m’ar -- di~e pia -- ci,
-        che m’ar -- di~e pia -- ci,
-    T’in -- ter -- rom -- pa -- no so -- lo,
-    t’in -- ter -- rom -- pa -- no so -- lo~i no -- stri ba -- ci.
+    Can -- to che m'ar -- di~e pia -- ci,
+    can -- to che m'ar -- di~e pia -- ci,
+        che m'ar -- di~e pia -- ci,
+    T'in -- ter -- rom -- pa -- no so -- lo,
+    t'in -- ter -- rom -- pa -- no so -- lo~i no -- stri ba -- ci.
 }
 
 quintoVIIincipit = \relative c'' {
@@ -294,7 +294,7 @@ quintoLyricsVII = \lyricmode {
     \normalLyrics
     Co -- me le lab -- bra del -- la Don -- na mi -- a.
 
-    Né~il suon del -- l’au -- re~e -- sti -- ve
+    Né~il suon del -- l'au -- re~e -- sti -- ve
     Tra fon -- ti~e ro -- se~e gi -- gli,
     \ijLyrics
     tra fon -- ti~e ro -- se~e gi -- gli,
@@ -307,14 +307,14 @@ quintoLyricsVII = \lyricmode {
     \normalLyrics
         più dol -- ce~ar -- mo -- ni -- a.
 
-    Can -- to che m’ar -- di~e pia -- ci,
-    can -- to che m’ar -- di~e pia -- ci,
-    can -- to che m’ar -- di,
-        che m’ar -- di~e pia -- ci,
-    T’in -- ter -- rom -- pa -- no so -- lo,
+    Can -- to che m'ar -- di~e pia -- ci,
+    can -- to che m'ar -- di~e pia -- ci,
+    can -- to che m'ar -- di,
+        che m'ar -- di~e pia -- ci,
+    T'in -- ter -- rom -- pa -- no so -- lo,
     \ijLyrics
-    t’in -- ter -- rom -- pa -- no so -- lo,
-    t’in -- ter -- rom -- pa -- no so -- lo
+    t'in -- ter -- rom -- pa -- no so -- lo,
+    t'in -- ter -- rom -- pa -- no so -- lo
     \ijLyrics
         i no -- stri ba -- ci.
 }

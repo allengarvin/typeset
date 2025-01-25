@@ -38,16 +38,16 @@ superiusLyricsXVI = \lyricmode {
     Su -- san -- n'un jour d'a -- mour sol -- li -- ci -- té -- e
     Par deux viel -- larts con -- voi -- tans sa beau -- té,
     Fut en son coeur tri -- ste~et dés -- con -- for -- té -- e,
-    Vo -- yant l’ef -- fort fait à sa cha -- ste -- té,
+    Vo -- yant l'ef -- fort fait à sa cha -- ste -- té,
     El -- le leur dit, Si par __ dés -- loy -- au -- té
     De ce corps mien vous a -- vez jouis -- san -- ce,
-    C’est fait de moi,
+    C'est fait de moi,
     Si je fais ré -- si -- stan -- ce,
     Vous me fe -- rez mou -- rir en dés -- hon -- neur,
-    Mais j’ai -- me mieux pé -- rir en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser par pé -- ché le Sei -- gneur,
-    mais j’ai -- me mieux pé -- rir en in -- no -- cen -- ce,
-    que d’of -- fen -- ser par pé -- ché le Sei -- gneur. __
+    Mais j'ai -- me mieux pé -- rir en in -- no -- cen -- ce,
+    Que d'of -- fen -- ser par pé -- ché le Sei -- gneur,
+    mais j'ai -- me mieux pé -- rir en in -- no -- cen -- ce,
+    que d'of -- fen -- ser par pé -- ché le Sei -- gneur. __
 }
 
 contratenorXVIincipit = \relative c' {
@@ -124,9 +124,9 @@ contratenorLyricsXVI = \lyricmode {
         tri -- st'et dés -- con -- for -- té -- e,
     \normalLyrics
         dés -- con -- for -- té -- e,
-    Vo -- yant l’ef -- fort fait à sa cha -- ste -- té,
+    Vo -- yant l'ef -- fort fait à sa cha -- ste -- té,
     \ijLyrics
-    vo -- yant l’ef -- fort fait à sa cha -- ste -- té,
+    vo -- yant l'ef -- fort fait à sa cha -- ste -- té,
     \normalLyrics
         à sa cha -- ste -- té,
     El -- le leur dit, Si __ par __ dés -- loy -- au -- té
@@ -134,10 +134,10 @@ contratenorLyricsXVI = \lyricmode {
             dés -- loy -- au -- té
     De ce corps mien vous a -- vez jou -- is -- san -- ce,
         vous a -- vez jou -- is -- san -- ce,
-    C’est fait de moi,
+    C'est fait de moi,
     \ijLyrics
-    c’est fait de moi,
-    c’est fait de moi,
+    c'est fait de moi,
+    c'est fait de moi,
     \normalLyrics
     Si je fais ré -- si -- stan -- ce,
     \ijLyrics
@@ -149,36 +149,36 @@ contratenorLyricsXVI = \lyricmode {
     \ijLyrics
         me fe -- rez mou -- rir en dés -- hon -- neur,
     \normalLyrics
-    Mais j’ai -- me mieux,
+    Mais j'ai -- me mieux,
     \ijLyrics
-    mais j’ai -- me mieux
+    mais j'ai -- me mieux
     \normalLyrics
         pé -- rir __ en in -- no -- cen -- ce,
             en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser,
+    Que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \normalLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser
+    que d'of -- fen -- ser
     \normalLyrics
         par pé -- ché le Sei -- gneur,
 
-    mais j’ai -- me mieux pé -- rir,
+    mais j'ai -- me mieux pé -- rir,
         pé -- rir en in -- no -- cen -- ce,
-    mais j’ai -- me mieux pé -- rir, __
+    mais j'ai -- me mieux pé -- rir, __
         pé -- rir en in -- no -- cen -- ce,
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \normalLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser
+    que d'of -- fen -- ser
     \normalLyrics
         par pé -- ché le Sei -- gneur,
-    que d’of -- fen -- ser par pé -- ché le Sei -- gneur.
+    que d'of -- fen -- ser par pé -- ché le Sei -- gneur.
 }
 
 tenorXVIincipit = \relative c' {
@@ -250,9 +250,9 @@ tenorLyricsXVI = \lyricmode {
     \ijLyrics
         tri -- st'et dés -- con -- for -- té -- e,
     \normalLyrics
-    Vo -- yant l’ef -- fort,
+    Vo -- yant l'ef -- fort,
     \ijLyrics
-    vo -- yant l’ef -- fort __
+    vo -- yant l'ef -- fort __
     \normalLyrics
         fait à sa cha -- ste -- té,
             sa cha -- ste -- té,
@@ -263,9 +263,9 @@ tenorLyricsXVI = \lyricmode {
     De ce corps mien
     \normalLyrics
         vous a -- vez jou -- is -- san -- ce,
-    C’est fait de moi,
+    C'est fait de moi,
     \ijLyrics
-    c’est fait de moi,
+    c'est fait de moi,
     \normalLyrics
     Si je fais ré -- si -- stan -- ce,
     \ijLyrics
@@ -276,25 +276,25 @@ tenorLyricsXVI = \lyricmode {
     Vous me fe -- rez mou -- rir __ en dés -- hon -- neur,
             en dés -- hon -- neur,
     vous me fe -- rez mou -- rir en dés -- hon -- neur,
-    Mais j’ai -- me mieux pé -- rir,
+    Mais j'ai -- me mieux pé -- rir,
     \ijLyrics
-    mais j’ai -- me mieux pé -- rir,
+    mais j'ai -- me mieux pé -- rir,
     \normalLyrics
         pé -- rir en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser,
+    Que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \normalLyrics
-    que d’of -- fen -- ser par pé -- ché le Sei -- gneur,
+    que d'of -- fen -- ser par pé -- ché le Sei -- gneur,
 
-    mais j’ai -- me mieux pé -- rir en in -- no -- cen -- ce,
-    mais j’ai -- me mieux pé -- rir,
-    mais j’ai -- me mieux pé -- rir en in -- no -- cen -- ce,
-    que d’of -- fen -- ser,
+    mais j'ai -- me mieux pé -- rir en in -- no -- cen -- ce,
+    mais j'ai -- me mieux pé -- rir,
+    mais j'ai -- me mieux pé -- rir en in -- no -- cen -- ce,
+    que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \normalLyrics
-    que d’of -- fen -- ser par pé -- ché le Sei -- gneur. __
+    que d'of -- fen -- ser par pé -- ché le Sei -- gneur. __
 }
 
 bassusXVIincipit = \relative c' {
@@ -362,7 +362,7 @@ bassusLyricsXVI = \lyricmode {
     \normalLyrics
         tri -- st'et dés -- con -- for -- té -- e,
             dés -- con -- for -- té -- e,
-    Vo -- yant l’ef -- fort fait à sa cha -- ste -- té,
+    Vo -- yant l'ef -- fort fait à sa cha -- ste -- té,
         à sa cha -- ste -- té,
     El -- le leur dit, Si par __ dés -- loy -- au -- té
     De ce corps mien,
@@ -370,12 +370,12 @@ bassusLyricsXVI = \lyricmode {
     de ce corps mien
     \normalLyrics
         vous a -- vez jou -- is -- san -- ce,
-    C’est fait de moi,
+    C'est fait de moi,
     \ijLyrics
-    c’est fait de moi,
+    c'est fait de moi,
     \normalLyrics
-    c’est fait,
-    c’est fait de moi,
+    c'est fait,
+    c'est fait de moi,
     Si je fais ré -- si -- stan -- ce,
     si je fais ré -- si -- stan -- ce,
     Vous me fe -- rez,
@@ -384,22 +384,22 @@ bassusLyricsXVI = \lyricmode {
     \normalLyrics
         mou -- rir en dés -- hon -- neur,
             en dés -- hon -- neur,
-    Mais j’ai -- me mieux pé -- rir,
-    mais j’ai -- me mieux pé -- rir en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser,
+    Mais j'ai -- me mieux pé -- rir,
+    mais j'ai -- me mieux pé -- rir en in -- no -- cen -- ce,
+    Que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \normalLyrics
-    que d’of -- fen -- ser par pé -- ché le Sei -- gneur,
+    que d'of -- fen -- ser par pé -- ché le Sei -- gneur,
 
-    mais j’ai -- me mieux pé -- rir __ en in -- no -- cen -- ce,
-    mais j’ai -- me mieux pé -- riren in -- no -- cen -- ce,
-    que d’of -- fen -- ser,
+    mais j'ai -- me mieux pé -- rir __ en in -- no -- cen -- ce,
+    mais j'ai -- me mieux pé -- riren in -- no -- cen -- ce,
+    que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser
+    que d'of -- fen -- ser
     \normalLyrics
         par pé -- ché le Sei -- gneur,
-    que d’of -- fen -- ser par pé -- ché le Sei -- gneur.
+    que d'of -- fen -- ser par pé -- ché le Sei -- gneur.
 }
 
 quintaParsXVIincipit = \relative c' {
@@ -468,54 +468,54 @@ quintaParsLyricsXVI = \lyricmode {
     fut en son coeur
         tri -- st'et dés -- con -- for -- té -- e,
         dés -- con -- for -- té -- e,
-    Vo -- yant l’ef -- fort,
+    Vo -- yant l'ef -- fort,
     \ijLyrics
-    vo -- yant l’ef -- fort,
+    vo -- yant l'ef -- fort,
     \normalLyrics
-    vo -- yant l’ef -- fort fait __ à sa cha -- ste -- té,
+    vo -- yant l'ef -- fort fait __ à sa cha -- ste -- té,
     El -- le leur dit, Si par __ dés -- loy -- au -- té
         si par __ dés -- loy -- au -- té __
     De ce corps mien __ vous a -- vez jou -- is -- san -- ce,
-    C’est fait __ de moi,
+    C'est fait __ de moi,
     \ijLyrics
-    c’est fait de moi,
+    c'est fait de moi,
     \normalLyrics
     Si je fais ré -- si -- stan -- ce,
     si je fais __ ré -- si -- stan -- ce,
     Vous me fe -- rez mou -- rir __ en dés -- hon -- neur,
         mou -- rir en dés -- hon -- neur,
             en dés -- hon -- neur,
-    Mais __ j’ai -- me mieux,
+    Mais __ j'ai -- me mieux,
     \ijLyrics
-    mais j’ai -- me mieux,
-    mais j’ai -- me mieux __
+    mais j'ai -- me mieux,
+    mais j'ai -- me mieux __
     \normalLyrics
         pé -- rir,
         pé -- rir en in -- no -- cen -- ce,
             en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser,
+    Que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \normalLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser
+    que d'of -- fen -- ser
     \normalLyrics
         par pé -- ché le Sei -- gneur,
 
-    mais j’ai -- me mieux,
-    mais j’ai -- me mieux pé -- rir en in -- no -- cen -- ce,
+    mais j'ai -- me mieux,
+    mais j'ai -- me mieux pé -- rir en in -- no -- cen -- ce,
     \ijLyrics
         pé -- rir en in -- no -- cen -- ce,
     \normalLyrics
         pé -- rir en in -- no -- cen -- ce,
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \normalLyrics
-    que d’of -- fen -- ser,
+    que d'of -- fen -- ser,
     \ijLyrics
-    que d’of -- fen -- ser
+    que d'of -- fen -- ser
     \normalLyrics
         par pé -- ché le Sei -- gneur,
     \ijLyrics

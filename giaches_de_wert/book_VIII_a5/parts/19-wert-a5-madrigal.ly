@@ -49,10 +49,10 @@ cantoLyricsXIX = \lyricmode {
     Gial -- li, per -- si, ver -- mi -- gli,~az -- zur -- ri~e 
     \normalLyrics
         bian -- chi,
-    Ch’in su -- gl’e -- sti -- vi~ar -- do -- ri
+    Ch'in su -- gl'e -- sti -- vi~ar -- do -- ri
     E __ fre -- schi~e dol -- ci ni -- di,
-    Ch’in su -- gl’e -- sti -- vi~ar -- do -- ri
-    Ch’in su -- gl’e -- sti -- vi~ar -- do -- ri
+    Ch'in su -- gl'e -- sti -- vi~ar -- do -- ri
+    Ch'in su -- gl'e -- sti -- vi~ar -- do -- ri
     E fre -- schi~e dol -- ci ni -- di,
     E -- ra -- no~a gli~A -- mo -- ret -- ti~af -- flit -- ti~e stan -- chi,
     E -- ra -- no~a gli~A -- mo -- ret -- ti~af -- flit -- ti~e stan -- chi;
@@ -110,7 +110,7 @@ altoLyricsXIX = \lyricmode {
     Gial -- li, per -- si, ver -- mi -- gli,~az -- zur -- ri~e bian -- chi,
     Que -- sti~o -- do -- ra -- ti fio -- ri,
     Gial -- li, per -- si, ver -- mi -- gli,~az -- zur -- ri~e bian -- chi,
-    Ch’in su -- gl’e -- sti -- vi~ar -- do -- ri
+    Ch'in su -- gl'e -- sti -- vi~ar -- do -- ri
     E fre -- schi~e dol -- ci ni -- di,
     E fre -- schi~e dol -- ci ni -- di,
     E fre -- schi~e dol -- ci ni -- di, __
@@ -169,7 +169,7 @@ tenoreLyricsXIX = \lyricmode {
     Que -- sti~o -- do -- ra -- ti fio -- ri,
     Gial -- li, per -- si, ver -- mi -- gli,~az -- zur -- ri~e bian -- chi,
 
-    Ch’in su -- gl’e -- sti -- vi~ar -- do -- ri
+    Ch'in su -- gl'e -- sti -- vi~ar -- do -- ri
     E fre -- schi~e dol -- ci ni -- di,
     E fre -- schi~e dol -- ci ni -- di,
     \ijLyrics
@@ -228,7 +228,7 @@ bassoLyricsXIX = \lyricmode {
     Gial -- li, per -- si, ver -- mi -- gli,
     Gial -- li, per -- si, ver -- mi -- gli,~az -- zur -- ri~e bian -- chi,
         az -- zur -- ri~e bian -- chi,
-    Ch’in su -- gl’e -- sti -- vi~ar -- do -- ri
+    Ch'in su -- gl'e -- sti -- vi~ar -- do -- ri
     E fre -- schi~e dol -- ci ni -- di,
     E -- ra -- no~a gli~A -- mo -- ret -- ti~af -- flit -- ti~e stan -- chi,
     Bra -- man, Don -- na Re -- al,
@@ -297,9 +297,9 @@ quintoLyricsXIX = \lyricmode {
         bian -- chi,
     Gial -- li, per -- si, ver -- mi -- gli,~az -- zur -- ri~e __ bian -- chi,
 
-    Ch’in su -- gl’e -- sti -- vi~ar -- do -- ri
+    Ch'in su -- gl'e -- sti -- vi~ar -- do -- ri
     \ijLyrics
-    Ch’in su -- gl’e -- sti -- vi~ar -- do -- ri
+    Ch'in su -- gl'e -- sti -- vi~ar -- do -- ri
     \normalLyrics
     E fre -- schi~e dol -- ci ni -- di,
     E -- ra -- no~a gli~A -- mo -- ret -- ti~af -- flit -- ti~e stan -- chi,

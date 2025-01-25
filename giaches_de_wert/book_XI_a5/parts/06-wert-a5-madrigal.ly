@@ -2,12 +2,12 @@
 % avventuroso dì, se dopo tanti
 % foschi giorni di pianti,
 % tu mi concedi Amor di veder oggi
-% ne’ begli occhi di lei
+% ne' begli occhi di lei
 % Girar sereno il sol degli occhi miei!
 % 
 % India liner notes:
 % O happy day, for long time
-% Sigh’d in vain,
+% Sigh'd in vain,
 % If after such clouded times, with complaints
 % Love you do grant me
 % To see her fair eyes
@@ -49,11 +49,11 @@ cantoLyricsVI = \lyricmode {
     Av -- ven -- tu -- ro -- so dì, Se do -- po tan -- ti
     fo -- schi gior -- ni di pian -- ti,
     Tu mi con -- ce -- di~A -- mor di ve -- der og -- gi
-    Ne’ __ be -- gli~oc -- chi di le -- i
+    Ne' __ be -- gli~oc -- chi di le -- i
     Gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
-    ne’ be -- gli~oc -- chi di le -- i
+    ne' be -- gli~oc -- chi di le -- i
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i.
 }
 
@@ -93,9 +93,9 @@ altoLyricsVI = \lyricmode {
     Av -- ven -- tu -- ro -- so dì, Se do -- po tan -- ti
     fo -- schi gior -- ni di pian -- ti,
     Tu mi con -- ce -- di~A -- mor di ve -- der og -- gi
-    Ne’ be -- gli~oc -- chi di le -- i
+    Ne' be -- gli~oc -- chi di le -- i
     Gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
-    ne’ be -- gli~oc -- chi di le -- i
+    ne' be -- gli~oc -- chi di le -- i
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i.
 }
@@ -136,7 +136,7 @@ tenoreLyricsVI = \lyricmode {
         Se do -- po tan -- ti
     fo -- schi gior -- ni di pian -- ti,
     Tu mi con -- ce -- di~A -- mor di ve -- der og -- gi
-    Ne’ be -- gli~oc -- chi di le -- i
+    Ne' be -- gli~oc -- chi di le -- i
     Gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i.
@@ -178,8 +178,8 @@ bassoLyricsVI = \lyricmode {
         Se do -- po tan -- ti
     fo -- schi gior -- ni di pian -- ti,
     Tu mi con -- ce -- di~A -- mor di ve -- der og -- gi
-    Ne’ be -- gli~oc -- chi di le -- i,
-    ne’ be -- gli~oc -- chi di le -- i
+    Ne' be -- gli~oc -- chi di le -- i,
+    ne' be -- gli~oc -- chi di le -- i
     Gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i.
 }
@@ -223,11 +223,11 @@ quintoLyricsVI = \lyricmode {
     Av -- ven -- tu -- ro -- so dì, Se do -- po tan -- ti
     fo -- schi gior -- ni di pian -- ti,
     Tu mi con -- ce -- di~A -- mor di ve -- der og -- gi
-    Ne’ be -- gli~oc -- chi di le -- i
+    Ne' be -- gli~oc -- chi di le -- i
     Gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
-    ne’ __ be -- gli~oc -- chi di le -- i
+    ne' __ be -- gli~oc -- chi di le -- i
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i,
-    ne’ be -- gli~oc -- chi di le -- i
+    ne' be -- gli~oc -- chi di le -- i
     gi -- rar, __ 
     gi -- rar __ se -- re -- no~il sol de -- gli~oc -- chi mie -- i.
 }

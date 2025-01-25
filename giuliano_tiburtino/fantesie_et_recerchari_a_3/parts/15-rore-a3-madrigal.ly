@@ -1,10 +1,10 @@
 % 28 1  Gravi pene in amor si provan molte,
-%       di che patito io n’ho la maggior parte,
+%       di che patito io n'ho la maggior parte,
 %       e quelle in danno mio sì ben raccolte,
-%       ch’io ne posso parlar come per arte.[4]^1
-%       Però s’io dico e s’ho detto altre volte,
+%       ch'io ne posso parlar come per arte.[4]^1
+%       Però s'io dico e s'ho detto altre volte,
 %       e quando in voce e quando in vive carte,[5]^2
-%       ch’un mal sia lieve, un altro acerbo e fiero,
+%       ch'un mal sia lieve, un altro acerbo e fiero,
 %       date credenza al mio giudicio vero.
 
 cantusXVincipit = \relative c'' {
@@ -49,17 +49,17 @@ cantusXV = \relative c'' {
 
 cantusLyricsXV = \lyricmode {
     Gra -- vi pe -- ne~in a -- mor __ si __ pro -- van mol -- te,
-    Di che pa -- ti -- to~io n’ho la mag -- gior par -- te,
+    Di che pa -- ti -- to~io n'ho la mag -- gior par -- te,
     E quel -- le~in dan -- no mio __ sì ben rac -- col -- te,
     \ijLyrics
     E quel -- le~in dan -- no mio __ sì ben __ rac -- col -- te,
     \normalLyrics
-    Ch’io ne pos -- so par -- lar __ co -- me per ar -- te.
-    Pe -- rò __ s’io di -- co e __ s’ho det -- to~al -- tre vol -- te, __
+    Ch'io ne pos -- so par -- lar __ co -- me per ar -- te.
+    Pe -- rò __ s'io di -- co e __ s'ho det -- to~al -- tre vol -- te, __
     E __ quan -- do~in vo -- ce~e quan -- do~in vi -- ve car -- te,
         quan -- do~in vi -- ve __ car -- te,
-    Ch’un mal sia lie -- ve, 
-    Ch’un mal sia lie -- ve, un al -- tro~a -- cer -- bo~e fie -- ro,
+    Ch'un mal sia lie -- ve, 
+    Ch'un mal sia lie -- ve, un al -- tro~a -- cer -- bo~e fie -- ro,
     \ijLyrics
         un al -- tro~a -- cer -- bo~e fie -- ro,
     \normalLyrics
@@ -106,14 +106,14 @@ tenorXV = \relative c' {
 
 tenorLyricsXV = \lyricmode {
     Gra -- vi pe -- ne~in __ a -- mor si pro -- van mol -- te,
-    Di che pa -- ti -- to~io n’ho __ la mag -- gior par -- te,
+    Di che pa -- ti -- to~io n'ho __ la mag -- gior par -- te,
     E quel -- le~in dan -- no mio __ sì ben rac -- col -- te,
-    Ch’io ne pos -- so par -- lar __ co -- me per ar -- te.
-    Pe -- rò __ s’io di -- co,
-    Pe -- rò s’io di -- co __ e s’ho det -- to~al -- tre vol -- te, 
-        e s’ho __ det -- to~al -- tre vol -- te, 
+    Ch'io ne pos -- so par -- lar __ co -- me per ar -- te.
+    Pe -- rò __ s'io di -- co,
+    Pe -- rò s'io di -- co __ e s'ho det -- to~al -- tre vol -- te, 
+        e s'ho __ det -- to~al -- tre vol -- te, 
     E quan -- do~in vo -- ce~e quan -- do~in vi -- ve car -- te,
-    Ch’un mal sia lie -- ve, un al -- tro~a -- cer -- bo~e fie -- ro,
+    Ch'un mal sia lie -- ve, un al -- tro~a -- cer -- bo~e fie -- ro,
     Da -- te cre -- den -- za~al mio giu -- di -- cio ve -- ro,
     Da -- te cre -- den -- za~al mio giu -- di -- cio ve -- ro,
     Da -- te cre -- den -- za~al mio giu -- di -- cio ve -- ro.
@@ -155,17 +155,17 @@ bassusXV = \relative c {
 
 bassusLyricsXV = \lyricmode {
     Gra -- vi pe -- ne~in a -- mor __ si pro -- van mol -- te,
-    Di che pa -- ti -- to~io n’ho __ la mag -- gior par -- te,
+    Di che pa -- ti -- to~io n'ho __ la mag -- gior par -- te,
     E quel -- le~in dan -- no mio __ sì ben rac -- col -- te,
     \ijLyrics
     E quel -- le~in dan -- no mio sì ben rac -- col -- te,
     \normalLyrics
-    Ch’io ne pos -- so par -- lar __ co -- me per ar -- te. __
-    Pe -- rò s’io di -- co,
-    Pe -- rò __ s’io di -- co __ e __ s’ho det -- to~al -- tre vol -- te, 
+    Ch'io ne pos -- so par -- lar __ co -- me per ar -- te. __
+    Pe -- rò s'io di -- co,
+    Pe -- rò __ s'io di -- co __ e __ s'ho det -- to~al -- tre vol -- te, 
     E __ quan -- do~in vo -- ce, e __ quan -- do~in vi -- ve car -- te,
-    Ch’un mal sia __ lie -- ve, 
-    Ch’un mal sia lie -- ve, un al -- tro~a -- cer -- bo~e fie -- ro,
+    Ch'un mal sia __ lie -- ve, 
+    Ch'un mal sia lie -- ve, un al -- tro~a -- cer -- bo~e fie -- ro,
         un al -- tro~a -- cer -- bo~e fie -- ro,
     Da -- te cre -- den -- za~al mio giu -- di -- cio ve -- ro,
     Da -- te cre -- den -- za~al mio giu -- di -- cio ve -- ro,

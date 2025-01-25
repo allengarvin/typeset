@@ -1,9 +1,9 @@
 % Occhi lucenti e belli
-% com’ esser può che in un medesmo istante
+% com' esser può che in un medesmo istante
 % nascan da voi sì nove forme e tante?
 % Lieti, vaghi, superbi, humili, altieri
 % vi mostrate in un punto onde di speme
-% e di timor m’empiete,
+% e di timor m'empiete,
 % e tanti affetti dolci, acerbi e fieri
 % nel cor arso per voi vengono insieme
 % ad ognor, che volete.
@@ -48,7 +48,7 @@ cantoLyricsXVI = \lyricmode {
 
     Lie -- ti, va -- ghi, su -- per -- bi~u -- mi -- li~al -- tie -- ri
     % Vi mo -- stra -- te~in un pun -- to~on -- de di spe -- me
-    % E di ti -- mor m’em -- pie -- te,
+    % E di ti -- mor m'em -- pie -- te,
     E tan -- ti~af -- fet -- ti dol -- ci~a -- cer -- bi~e fie -- ri
     Nel cor ar -- so 
         % per voi ven -- go -- no~in -- sie -- me
@@ -114,7 +114,7 @@ altoLyricsXVI = \lyricmode {
 
     Lie -- ti, va -- ghi, su -- per -- bi~u -- mi -- li~al -- tie -- ri
     Vi mo -- stra -- te~in un pun -- to on -- de di spe -- me
-    E di ti -- mor m’em -- pie -- te,
+    E di ti -- mor m'em -- pie -- te,
     E tan -- ti~af -- fet -- ti dol -- ci~a -- cer -- bi~e fie -- ri
     Nel __ cor ar -- so,
     \ijLyrics
@@ -185,7 +185,7 @@ tenoreLyricsXVI = \lyricmode {
     Lie -- ti, va -- ghi,
     lie -- ti, va -- ghi, su -- per -- bi~u -- mi -- li~al -- tie -- ri
     Vi mo -- stra -- te~in un pun -- to on -- de di spe -- me
-    E di ti -- mor m’em -- pie -- te,
+    E di ti -- mor m'em -- pie -- te,
     E tan -- ti~af -- fet -- ti dol -- ci~a -- cer -- bi~e fie -- ri
     Nel __ cor ar -- so,
     \ijLyrics
@@ -255,7 +255,7 @@ bassoLyricsXVI = \lyricmode {
     Lie -- ti, va -- ghi,
     lie -- ti, va -- ghi, su -- per -- bi~u -- mi -- li~al -- tie -- ri
     Vi mo -- stra -- te~in un pun -- to on -- de di spe -- me
-    E di ti -- mor m’em -- pie -- te,
+    E di ti -- mor m'em -- pie -- te,
     E tan -- ti~af -- fet -- ti dol -- ci~a -- cer -- bi~e fie -- ri
 %    Nel cor ar -- so,
 %    \ijLyrics
@@ -327,7 +327,7 @@ quintoLyricsXVI = \lyricmode {
     Lie -- ti, va -- ghi,
     lie -- ti, va -- ghi, su -- per -- bi~u -- mi -- li~al -- tie -- ri
     Vi mo -- stra -- te~in un pun -- to on -- de di spe -- me
-    E di ti -- mor __ m’em -- pie -- te,
+    E di ti -- mor __ m'em -- pie -- te,
     E tan -- ti~af -- fet -- ti dol -- ci~a -- cer -- bi~e __ fie -- ri
     Nel cor ar -- so,
     \ijLyrics

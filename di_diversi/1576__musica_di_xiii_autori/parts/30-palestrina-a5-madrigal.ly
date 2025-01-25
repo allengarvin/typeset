@@ -2,7 +2,7 @@
 % E chiuder gli occhi per aprirli ogni ora
 % In quel sì chiaro e lucido soggiorno.
 % Dolce il cangiar di queste varie tempre
-% Nel fermo stato, O quando fia l’aurora
+% Nel fermo stato, O quando fia l'aurora
 % Di così chiaro avventuroso giorno?
 % 
 % How sweet it is to die to live forever;
@@ -60,7 +60,7 @@ cantoLyricsXXX = \lyricmode {
     Dol -- ce~il can -- giar di que -- ste va -- rie tem -- pre,
     dol -- ce~il can -- giar __ di que -- ste va -- rie tem -- pre
     Nel fer -- mo sta -- to, O quan -- do,
-        O quan -- do fia l’au -- ro -- ra
+        O quan -- do fia l'au -- ro -- ra
     Di co -- sì chia -- ro~av -- ven -- tu -- ro -- so gior -- no? __
 }
 
@@ -119,7 +119,7 @@ altoLyricsXXX = \lyricmode {
     dol -- ce,
     dol -- ce~il can -- giar di que -- ste va -- rie tem -- pre
     Nel fer -- mo sta -- to, O quan -- do,
-        O quan -- do fia l’au -- ro -- ra
+        O quan -- do fia l'au -- ro -- ra
     Di co -- sì chia -- ro~av -- ven -- tu -- ro -- so gior -- no,
     di co -- sì chia -- ro~av -- ven -- tu -- ro -- so gior -- no?
 }
@@ -174,7 +174,7 @@ tenoreLyricsXXX = \lyricmode {
     dol -- ce~il can -- giar,
     dol -- ce~il can -- giar di que -- ste va -- rie tem -- pre,
     Nel fer -- mo sta -- to, O quan -- do,
-        O quan -- do fia l’au -- ro -- ra
+        O quan -- do fia l'au -- ro -- ra
     Di co -- sì chia -- ro~av -- ven -- tu -- ro -- so gior -- no,
     di co -- sì chia -- ro~av -- ven -- tu -- ro -- so gior -- no? __
 }
@@ -231,7 +231,7 @@ bassoLyricsXXX = \lyricmode {
     \normalLyrics
         di que -- ste va -- rie tem -- pre
     Nel fer -- mo sta -- to, O quan -- do,
-%        O quan -- do fia l’au -- ro -- ra
+%        O quan -- do fia l'au -- ro -- ra
     Di co -- sì chia -- ro~av -- ven -- tu -- ro -- so gior -- no,
     di co -- sì chia -- ro~av -- ven -- tu -- ro -- so gior -- no?
 }
@@ -287,7 +287,7 @@ quintoLyricsXXX = \lyricmode {
     \normalLyrics
         di que -- ste va -- rie tem -- pre
     Nel fer -- mo sta -- to, O __ quan -- do, __
-        O quan -- do fia l’au -- ro -- ra
+        O quan -- do fia l'au -- ro -- ra
     Di co -- sì chia -- ro~av -- ven -- tu -- ro -- so gior -- no,
         av -- ven -- tu -- ro -- so gior -- no?
 }

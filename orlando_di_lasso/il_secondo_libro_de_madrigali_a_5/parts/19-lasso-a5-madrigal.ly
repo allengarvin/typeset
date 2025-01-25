@@ -1,11 +1,11 @@
-%23 127 Questi ch’indizio fan del mio tormento,
+%23 127 Questi ch'indizio fan del mio tormento,
 %       sospir non sono, né i sospir son tali.
 %       Quelli han triegua talora; io mai non sento
-%       che ’l petto mio men la sua pena esali.
-%       Amor che m’arde il cor, fa questo vento,
-%       mentre dibatte intorno al fuoco l’ali.
+%       che 'l petto mio men la sua pena esali.
+%       Amor che m'arde il cor, fa questo vento,
+%       mentre dibatte intorno al fuoco l'ali.
 %       Amor, con che miracolo lo fai,
-%       che ’n fuoco il tenghi, e nol consumi mai?
+%       che 'n fuoco il tenghi, e nol consumi mai?
 
 cantoXIXincipit = \relative c'' {
     \time 2/2
@@ -37,18 +37,18 @@ cantoXIX = \relative c'' {
 }
 
 cantoLyricsXIX = \lyricmode {
-    Que -- sti ch’in -- di -- zio fan del __ mio tor -- men -- to,
+    Que -- sti ch'in -- di -- zio fan del __ mio tor -- men -- to,
     So -- spir non so -- no, né~i so -- spir son ta -- li,
         so -- spir son ta -- li,
         né~i __ so -- spir son ta -- li.
     Quel -- li~han trie -- gua ta -- lor'; io mai non sen -- to
-    Che’l pet -- to mio men la sua pe -- na~e -- sa -- li.
-    A -- mor che m’ar -- de~il cor, fa que -- sto ven -- to,
+    Che'l pet -- to mio men la sua pe -- na~e -- sa -- li.
+    A -- mor che m'ar -- de~il cor, fa que -- sto ven -- to,
     Men -- tre di -- bat -- te~in -- tor -- no,
-    Men -- tre di -- bat -- te~in -- tor -- no~al fuo -- co l’a -- li.
+    Men -- tre di -- bat -- te~in -- tor -- no~al fuo -- co l'a -- li.
     A -- mor, con che mi -- ra -- co -- lo lo fa -- i,
-    Che’n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
-    Che’n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i? __
+    Che'n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
+    Che'n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i? __
 }
 
 altoXIXincipit = \relative c' {
@@ -82,22 +82,22 @@ altoXIX = \relative c' {
 }
 
 altoLyricsXIX = \lyricmode {
-    Que -- sti ch’in -- di -- zio fan __ del mio __ tor -- men -- to,
+    Que -- sti ch'in -- di -- zio fan __ del mio __ tor -- men -- to,
     So -- spir non so -- no, né~i so -- spir son ta -- li,
         so -- spir son ta -- li,
         so -- spir son ta -- li,
         né~i so -- spir son ta -- li.
     Quel -- li~han trie -- gua ta -- lor'; io mai non sen -- to,
         io mai non sen -- to
-    Che’l pet -- to mio men la sua pe -- na~e -- sa -- li.
-    A -- mor che m’ar -- de~il cor, __ fa que -- sto ven -- to,
+    Che'l pet -- to mio men la sua pe -- na~e -- sa -- li.
+    A -- mor che m'ar -- de~il cor, __ fa que -- sto ven -- to,
     Men -- tre di -- bat -- te~in -- tor -- no,
-    Men -- tre di -- bat -- te~in -- tor -- no~al fuo -- co l’a -- li.
+    Men -- tre di -- bat -- te~in -- tor -- no~al fuo -- co l'a -- li.
     A -- mor, con che mi -- ra -- co -- lo,
     A -- mor, con che mi -- ra -- co -- lo lo fa -- i,
-    Che’n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
-    Che’n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
-    Che’n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
+    Che'n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
+    Che'n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
+    Che'n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
 }
 
 tenoreXIXincipit = \relative c' {
@@ -132,19 +132,19 @@ tenoreXIX = \relative c' {
 }
 
 tenoreLyricsXIX = \lyricmode {
-    Que -- sti ch’in -- di -- zio fan del mio tor -- men -- to, __
+    Que -- sti ch'in -- di -- zio fan del mio tor -- men -- to, __
     So -- spir non so -- no, né~i so -- spir,
     So -- spir non so -- no, né~i so -- spir son ta -- li,
         né~i so -- spir son ta -- li.
     Quel -- li~han trie -- gua ta -- lo -- ra~io mai non sen -- to
         io mai non __ sen -- to,
-    Che’l pet -- to mio men la __ sua pe -- na~e -- sa -- li.
-    A -- mor che m’ar -- de~il cor, fa que -- sto ven -- to,
+    Che'l pet -- to mio men la __ sua pe -- na~e -- sa -- li.
+    A -- mor che m'ar -- de~il cor, fa que -- sto ven -- to,
     Men -- tre di -- bat -- te~in -- tor -- no,
-    Men -- tre di -- bat -- te~in -- tor -- no~al __ fuo -- co l’a -- li.
+    Men -- tre di -- bat -- te~in -- tor -- no~al __ fuo -- co l'a -- li.
     A -- mor, con che mi -- ra -- co -- lo lo fa -- i,
-    Che’n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
-    Che’n fuo -- co~il ten -- ghi,~e __ nol con -- su -- mi ma -- i? __
+    Che'n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
+    Che'n fuo -- co~il ten -- ghi,~e __ nol con -- su -- mi ma -- i? __
 }
 
 bassoXIXincipit = \relative c {
@@ -176,16 +176,16 @@ bassoXIX = \relative c {
 }
 
 bassoLyricsXIX = \lyricmode {
-    Que -- sti ch’in -- di -- zio fan,
-    Que -- sti ch’in -- di -- zio fan del mio tor -- men -- to,
+    Que -- sti ch'in -- di -- zio fan,
+    Que -- sti ch'in -- di -- zio fan del mio tor -- men -- to,
     So -- spir non so -- no, né~i so -- spir son ta -- li,
         né~i so -- spir son ta -- li.
     Quel -- li~han trie -- gua ta -- lor'; io mai non sen -- to
-    Che’l pet -- to mio men la sua pe -- na~e -- sa -- li.
+    Che'l pet -- to mio men la sua pe -- na~e -- sa -- li.
     Men -- tre di -- bat -- te~in -- tor -- no,
-    Men -- tre di -- bat -- te~in -- tor -- no~al fuo -- co l’a -- li.
+    Men -- tre di -- bat -- te~in -- tor -- no~al fuo -- co l'a -- li.
     A -- mor, con che mi -- ra -- co -- lo lo fa -- i,
-    Che’n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
+    Che'n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
         e nol con -- su -- mi ma -- i? __
 }
 
@@ -219,7 +219,7 @@ quintoXIX = \relative c' {
 }
 
 quintoLyricsXIX = \lyricmode {
-    Que -- sti ch’in -- di -- zio fan del mio tor -- men -- to,
+    Que -- sti ch'in -- di -- zio fan del mio tor -- men -- to,
     So -- spir non so -- no, né~i so -- spir son ta -- li,
     So -- spir non so -- no, né~i so -- spir son ta -- li,
     Quel -- li~han trie -- gua ta -- lor'; 
@@ -227,13 +227,13 @@ quintoLyricsXIX = \lyricmode {
     Quel -- li~han trie -- gua ta -- lor'; 
     \normalLyrics
         io mai non sen -- to
-    Che’l pet -- to mio men la sua pe -- na~e -- sa -- li.
-    A -- mor che m’ar -- de~il cor, fa que -- sto ven -- to,
+    Che'l pet -- to mio men la sua pe -- na~e -- sa -- li.
+    A -- mor che m'ar -- de~il cor, fa que -- sto ven -- to,
     Men -- tre di -- bat -- te~in -- tor -- no,
-    Men -- tre di -- bat -- te~in -- tor -- no~al fuo -- co l’a -- li.
+    Men -- tre di -- bat -- te~in -- tor -- no~al fuo -- co l'a -- li.
     A -- mor, con che mi -- ra -- co -- lo lo fa -- i,
         e nol con -- su -- mi ma -- i?
-    Che’n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
+    Che'n fuo -- co~il ten -- ghi,~e nol con -- su -- mi ma -- i?
         e __ nol con -- su -- mi ma -- i? __
 }
 

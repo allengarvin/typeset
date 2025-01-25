@@ -39,12 +39,12 @@ cantoXVII = \relative c'' {
 cantoLyricsXVII = \lyricmode {
     Co -- me la not -- te~o -- gni fiam -- mel -- la~è vi -- va, 
     E ri -- man spen -- ta su -- bi -- to,
-        su -- bi -- to ch’ag -- gior -- na,
-        su -- bi -- to ch’ag -- gior -- na;
+        su -- bi -- to ch'ag -- gior -- na,
+        su -- bi -- to ch'ag -- gior -- na;
     Co -- sì, quan -- do~il mio sol di sé mi pri -- va, 
     Mi le -- va~in -- con -- tra~il rio ti -- mor le cor -- na:
-    Ma non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    % Che’l ti -- mor fug -- ge 
+    Ma non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    % Che'l ti -- mor fug -- ge 
         e la spe -- ran -- za tor -- na,
         e la spe -- ran -- za tor -- na.
     Deh tor -- na~a me, deh tor -- na, o ca -- ro lu -- me,  
@@ -100,13 +100,13 @@ altoXVII = \relative c' {
 
 altoLyricsXVII = \lyricmode {
     Co -- me la not -- te~o -- gni fiam -- mel -- la~è vi -- va,
-    E ri -- man spen -- ta su -- bi -- to ch’ag -- gior -- na,
-        su -- bi -- to ch’ag -- gior -- na;
+    E ri -- man spen -- ta su -- bi -- to ch'ag -- gior -- na,
+        su -- bi -- to ch'ag -- gior -- na;
     Co -- sì, quan -- do~il mio sol di sé mi pri -- va,
     Mi le -- va~in -- con -- tra~il rio __ ti -- mor le cor -- na,
         il rio ti -- mor le cor -- na:
-    Ma non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-%    Che’l ti -- mor fug -- ge
+    Ma non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+%    Che'l ti -- mor fug -- ge
         e la spe -- ran -- za tor -- na,
         e la spe -- ran -- za tor -- na. __
     Deh tor -- na~a me, deh tor -- na, o ca -- ro lu -- me,
@@ -158,13 +158,13 @@ tenoreXVII = \relative c' {
 
 tenoreLyricsXVII = \lyricmode {
 %    Co -- me la not -- te~o -- gni fiam -- mel -- la~è vi -- va,
-    E ri -- man __ spen -- ta su -- bi -- to ch’ag -- gior -- na,
-    e ri -- man spen -- ta su -- bi -- to ch’ag -- gior -- na;
+    E ri -- man __ spen -- ta su -- bi -- to ch'ag -- gior -- na,
+    e ri -- man spen -- ta su -- bi -- to ch'ag -- gior -- na;
     Co -- sì, quan -- do~il mio sol di sé mi pri -- va,
     Mi le -- va~in -- con -- tra~il rio ti -- mor le cor -- na,
         il rio ti -- mor le cor -- na:
-%    Ma non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Che’l ti -- mor __ fug -- ge e la spe -- ran -- za tor -- na,
+%    Ma non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Che'l ti -- mor __ fug -- ge e la spe -- ran -- za tor -- na,
         e la spe -- ran -- za tor -- na.
     Deh tor -- na~a me, deh tor -- na, o ca -- ro lu -- me,
     E scac -- cia~il rio ti -- mor,
@@ -213,14 +213,14 @@ bassoXVII = \relative c {
 
 bassoLyricsXVII = \lyricmode {
 %    Co -- me la not -- te~o -- gni fiam -- mel -- la~è vi -- va,
-    E ri -- man spen -- ta su -- bi -- to ch’ag -- gior -- na,
-    e ri -- man spen -- ta su -- bi -- to ch’ag -- gior -- na,
-        su -- bi -- to ch’ag -- gior -- na;
+    E ri -- man spen -- ta su -- bi -- to ch'ag -- gior -- na,
+    e ri -- man spen -- ta su -- bi -- to ch'ag -- gior -- na,
+        su -- bi -- to ch'ag -- gior -- na;
     Co -- sì, quan -- do~il mio sol di sé mi pri -- va,
     Mi le -- va~in -- con -- tra~il rio ti -- mor le cor -- na,
         il rio ti -- mor le cor -- na:
-%    Ma non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Che’l ti -- mor fug -- ge e la spe -- ran -- za tor -- na,
+%    Ma non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Che'l ti -- mor fug -- ge e la spe -- ran -- za tor -- na,
         e la spe -- ran -- za tor -- na.
     Deh tor -- na~a me, deh tor -- na, o ca -- ro lu -- me,
     E scac -- cia~il rio ti -- mor,

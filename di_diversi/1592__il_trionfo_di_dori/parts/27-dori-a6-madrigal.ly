@@ -53,14 +53,14 @@ cantoLyricsXXVII = \lyricmode {
     Che len -- ti si __ mo -- vean __ tra ver -- di val -- li,
     Va -- ghe Nin -- fe~e Pa -- sto -- ri
     Va -- ghe Nin -- fe~e Pa -- sto -- ri
-    Di -- cean con cant’ al -- le -- gri~al -- ti~e so -- no -- ri 
+    Di -- cean con cant' al -- le -- gri~al -- ti~e so -- no -- ri 
         al -- ti~e so -- no -- ri 
     Che fa -- cean ri -- bom -- bar
     \ijLyrics Che fa -- cean ri -- bom -- bar \normalLyrics
-        l’a -- rea d’in -- tor -- no,
+        l'a -- rea d'in -- tor -- no,
     Fe -- li -- ce~e lie -- to gior -- no,
     Che pos -- se Fe -- bo~al mon -- do,
-    A si bell’ alm’ il pon -- do __
+    A si bell' alm' il pon -- do __
     Sce -- sa qua giù da li ce -- le -- sti cho -- ri,
     Vi -- va la bel -- la Do -- ri,
     \ijLyrics Vi -- va la bel -- la Do -- ri, \normalLyrics
@@ -117,13 +117,13 @@ altoLyricsXXVII = \lyricmode{
     Che len -- ti si mo -- vean __ tra ver -- di val -- li,
     Va -- ghe Nin -- fe~e Pa -- sto -- ri
     Va -- ghe Nin -- fe~e Pa -- sto -- ri
-    Di -- cean con cant’ al -- le -- gri al -- ti~e so -- no -- ri 
+    Di -- cean con cant' al -- le -- gri al -- ti~e so -- no -- ri 
     Che fa -- cean ri -- bom -- bar
     \ijLyrics Che fa -- cean ri -- bom -- bar \normalLyrics
-        l’a -- rea d’in -- tor -- no,
+        l'a -- rea d'in -- tor -- no,
     Fe -- li -- ce~e lie -- to gior -- no,
     Che pos -- se Fe -- bo~al mon -- do,
-    A si bell’ alm’ il pon -- do
+    A si bell' alm' il pon -- do
     Sce -- sa qua giù da li ce -- le -- sti cho -- ri,
     Vi -- va la bel -- la Do -- ri,
     \ijLyrics Vi -- va la bel -- la Do -- ri, \normalLyrics
@@ -178,10 +178,10 @@ tenoreLyricsXXVII = \lyricmode {
         de li -- qui -- di cri -- stal -- li,
     Che len -- ti si mo -- vean tra ver -- di val -- li,
     Va -- ghe Nin -- fe~e Pa -- sto -- ri
-    Di -- cean con cant’ al -- le -- gri al -- ti~e so -- no -- ri 
+    Di -- cean con cant' al -- le -- gri al -- ti~e so -- no -- ri 
     Che fa -- cean ri -- bom -- bar
     \ijLyrics Che fa -- cean ri -- bom -- bar \normalLyrics
-        l’a -- rea d’in -- tor -- no,
+        l'a -- rea d'in -- tor -- no,
     Sce -- sa qua giù __ da li ce -- le -- sti cho -- ri,
     Vi -- va la bel -- la Do -- ri,
     \ijLyrics Vi -- va la bel -- la Do -- ri, \normalLyrics
@@ -227,9 +227,9 @@ bassoLyricsXXVII = \lyricmode {
         de li -- qui -- di cri -- stal -- li,
     Che len -- ti si mo -- vean tra ver -- di val -- li,
     Va -- ghe Nin -- fe~e Pa -- sto -- ri
-    Di -- cean con cant’ al -- le -- gri al -- ti~e so -- no -- ri 
+    Di -- cean con cant' al -- le -- gri al -- ti~e so -- no -- ri 
     Che fa -- cean ri -- bom -- bar
-        l’a -- rea d’in -- tor -- no,
+        l'a -- rea d'in -- tor -- no,
     Sce -- sa qua giù da li ce -- le -- sti cho -- ri, __
     Vi -- va la bel -- la Do -- ri, __
     \ijLyrics Vi -- va la bel -- la Do -- ri, \normalLyrics
@@ -281,14 +281,14 @@ quintoLyricsXXVII = \lyricmode {
         de li -- qui -- di cri -- stal -- li,
     Che __ len -- ti __ si mo -- vean tra __ ver -- di val -- li,
     Va -- ghe Nin -- fe~e Pa -- sto -- ri
-    Di -- cean con cant’ al -- le -- gri al -- ti~e so -- no -- ri 
+    Di -- cean con cant' al -- le -- gri al -- ti~e so -- no -- ri 
         \ijLyrics al -- ti~e so -- no -- ri \normalLyrics
     Che fa -- cean ri -- bom -- bar
     \ijLyrics Che fa -- cean ri -- bom -- bar \normalLyrics
-        l’a -- rea d’in -- tor -- no,
+        l'a -- rea d'in -- tor -- no,
     Fe -- li -- ce~e lie -- to gior -- no,
     Che pos -- se Fe -- bo~al mon -- do,
-    A si bell’ alm’ il pon -- do
+    A si bell' alm' il pon -- do
     Sce -- sa qua giù da li ce -- le -- sti cho -- ri,
     Vi -- va la bel -- la Do -- ri,
     \ijLyrics Vi -- va la bel -- la Do -- ri, \normalLyrics
@@ -346,9 +346,9 @@ sestoLyricsXXVII = \lyricmode {
     Che len -- ti si mo -- vean tra ver -- di val -- li,
     Va -- ghe Nin -- fe~e Pa -- sto -- ri
     Va -- ghe Nin -- fe~e Pa -- sto -- ri
-    Di -- cean con cant’ al -- le -- gri~al -- ti~e so -- no -- ri 
+    Di -- cean con cant' al -- le -- gri~al -- ti~e so -- no -- ri 
         al -- ti~e so -- no -- ri 
-    Che fa -- cean ri -- bom -- bar l’a -- rea d’in -- tor -- no,
+    Che fa -- cean ri -- bom -- bar l'a -- rea d'in -- tor -- no,
     Sce -- sa qua giù da li ce -- le -- sti cho -- ri,
     Vi -- va la bel -- la Do -- ri,
     Vi -- va la bel -- la Do -- ri,
@@ -402,11 +402,11 @@ sestoXXVIIincipitVoice = <<
 
 % Al mormorar de liquidi cristalli
 % Che lenti si movean tra verdi valli
-% Vaghe Ninf’ e Pastori
-% Dicean con cant’ allegri alt’ e sonori
-% Che facean ribombar l’area d’intorno:
-% Felic’ e lieto giorno
-% Che posse Feb’ al mondo
-% a si bel’ alm’ il pondo
+% Vaghe Ninf' e Pastori
+% Dicean con cant' allegri alt' e sonori
+% Che facean ribombar l'area d'intorno:
+% Felic' e lieto giorno
+% Che posse Feb' al mondo
+% a si bel' alm' il pondo
 % scesa qua giù da li celesti cori:
 % Viva la bella Dori! 

@@ -35,8 +35,8 @@ cantoLyricsXXIX = \lyricmode {
     \ijLyrics
         o suon di trom -- be
     \normalLyrics
-    Fu -- ron prin -- ci -- pio~al -- l’a -- mo -- ro -- so~as -- sal -- to,
-    Ma ba -- ci ch’i -- mi -- ta -- van le co -- lom -- be,
+    Fu -- ron prin -- ci -- pio~al -- l'a -- mo -- ro -- so~as -- sal -- to,
+    Ma ba -- ci ch'i -- mi -- ta -- van le co -- lom -- be,
     Da -- van se -- gno~or di gi -- re~or di far al -- to.
     U -- sam -- mo~al -- tre~ar -- me che sa -- et -- te~o from -- be.
     Io sen -- za sca -- le in su la roc -- ca sal -- to
@@ -79,8 +79,8 @@ altoXXIX = \relative c' {
 altoLyricsXXIX = \lyricmode {
     Non ru -- mor di tam -- bu -- ri~o suon di trom -- be,
         o suon di trom -- be
-    Fu -- ron prin -- ci -- pio~al -- l’a -- mo -- ro -- so~as -- sal -- to,
-    Ma ba -- ci ch’i -- mi -- ta -- van le co -- lom -- be,
+    Fu -- ron prin -- ci -- pio~al -- l'a -- mo -- ro -- so~as -- sal -- to,
+    Ma ba -- ci ch'i -- mi -- ta -- van le co -- lom -- be,
     Da -- van se -- gno~or di gi -- re~or di far al -- to.
     U -- sam -- mo~al -- tre~ar -- me che sa -- et -- te~o from -- be.
     Io sen -- za sca -- le~in su la roc -- ca sal -- to
@@ -125,8 +125,8 @@ tenoreXXIX = \relative c {
 tenoreLyricsXXIX = \lyricmode {
     Non ru -- mor di tam -- bu -- ri~o suon di trom -- be,
         o suon di trom -- be
-    Fu -- ron prin -- ci -- pio~al -- l’a -- mo -- ro -- so~as -- sal -- to,
-    Ma ba -- ci ch’i -- mi -- ta -- van le co -- lom -- be,
+    Fu -- ron prin -- ci -- pio~al -- l'a -- mo -- ro -- so~as -- sal -- to,
+    Ma ba -- ci ch'i -- mi -- ta -- van le co -- lom -- be,
     Da -- van se -- gno~or di gi -- re~or di far al -- to.
     U -- sam -- mo~al -- tre~ar -- me che sa -- et -- te~o from -- be.
     Io sen -- za sca -- le,
@@ -170,8 +170,8 @@ bassoXXIX = \relative c, {
 
 bassoLyricsXXIX = \lyricmode {
     Non ru -- mor di tam -- bu -- ri~o suon di trom -- be,
-    Fu -- ron prin -- ci -- pio~al -- l’a -- mo -- ro -- so~as -- sal -- to,
-    Ma ba -- ci ch’i -- mi -- ta -- van le co -- lom -- be,
+    Fu -- ron prin -- ci -- pio~al -- l'a -- mo -- ro -- so~as -- sal -- to,
+    Ma ba -- ci ch'i -- mi -- ta -- van le co -- lom -- be,
     Da -- van se -- gno~or di gir' or di far al -- to.
     U -- sam -- mo~al -- tre~ar -- me che sa -- et -- te~o from -- be.
     Io sen -- za sca -- le in su la roc -- ca sal -- to
@@ -216,8 +216,8 @@ quintoXXIX = \relative c {
 quintoLyricsXXIX = \lyricmode {
     Non __ ru -- mor di tam -- bu -- ri~o suon di trom -- be,
         o suon di trom -- be,
-    Fu -- ron prin -- ci -- pio~al -- l’a -- mo -- ro -- so~as -- sal -- to,
-    Ma ba -- ci ch’i -- mi -- ta -- van le __ co -- lom -- be,
+    Fu -- ron prin -- ci -- pio~al -- l'a -- mo -- ro -- so~as -- sal -- to,
+    Ma ba -- ci ch'i -- mi -- ta -- van le __ co -- lom -- be,
     Da -- van se -- gno~or di gi -- re~or di far al -- to.
     U -- sam -- mo~al -- tre~ar -- me che sa -- et -- te~o from -- be.
     Io sen -- za sca -- le in su la roc -- ca sal -- to

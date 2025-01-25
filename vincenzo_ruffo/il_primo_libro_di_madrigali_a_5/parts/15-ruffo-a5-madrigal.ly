@@ -23,7 +23,7 @@
 %   “O lovely trees, O grass so lush and green,
 %   O limpid stream that babbles of delight,
 %   how sweet you are to grace this blessèd scene
-%   where Galafron’s daughter Angelica (many a knight
+%   where Galafron's daughter Angelica (many a knight
 %   has yearned for her in vain) became my queen
 %   and, naked in my arms, held me with tight
 %   embraces and sweet kisses for which I

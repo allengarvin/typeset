@@ -1,6 +1,6 @@
-%   66 Chi narrerà l’angoscie, i pianti, i gridi,
-%      l’alta querela che nel ciel penetra?
-%      Maraviglia ho che non s’apriro i lidi,
+%   66 Chi narrerà l'angoscie, i pianti, i gridi,
+%      l'alta querela che nel ciel penetra?
+%      Maraviglia ho che non s'apriro i lidi,
 %      quando fu posta in su la fredda pietra,
 %      dove in catena, priva di sussidi,
 %      morte aspettava abominosa e tetra.
@@ -40,11 +40,11 @@ cantoXVII = \relative c'' {
 }
 
 cantoLyricsXVII = \lyricmode {
-    Chi nar -- re -- rà l’an -- go -- scie, i pian -- ti, 
+    Chi nar -- re -- rà l'an -- go -- scie, i pian -- ti, 
         i pian -- ti~i gri -- di,
         i pian -- ti~i gri -- di,
-    L’al -- ta que -- re -- la che __ nel ciel pe -- ne -- tra?
-    Ma -- ra -- vi -- glia~ho che non s’a -- pri -- ro~i li -- di,
+    L'al -- ta que -- re -- la che __ nel ciel pe -- ne -- tra?
+    Ma -- ra -- vi -- glia~ho che non s'a -- pri -- ro~i li -- di,
     Quan -- do fu po -- sta,
     Quan -- do fu po -- sta~in su __ la fred -- da pie -- tra,
     Do -- ve~in ca -- te -- na, pri -- va di sus -- si -- di,
@@ -84,11 +84,11 @@ altoXVII = \relative c' {
 }
 
 altoLyricsXVII = \lyricmode {
-    Chi nar -- re -- rà l’an -- go -- scie, i pian -- ti, 
+    Chi nar -- re -- rà l'an -- go -- scie, i pian -- ti, 
         i pian -- ti i gri -- di,
         i pian -- ti~i gri -- di,
-    L’al -- ta que -- re -- la che __ nel ciel pe -- ne -- tra?
-    Ma -- ra -- vi -- gli -- a ho che non s’a -- pri -- ro~i li -- di,
+    L'al -- ta que -- re -- la che __ nel ciel pe -- ne -- tra?
+    Ma -- ra -- vi -- gli -- a ho che non s'a -- pri -- ro~i li -- di,
     Quan -- do __ fu po -- sta~in su la fred -- da pie -- tra,
         la fred -- da pie -- tra,
     Do -- ve~in ca -- te -- na, pri -- va di sus -- si -- di,
@@ -134,11 +134,11 @@ tenoreXVII = \relative c' {
 }
 
 tenoreLyricsXVII = \lyricmode {
-    Chi nar -- re -- rà __ l’an -- go -- scie, i pian -- ti, 
+    Chi nar -- re -- rà __ l'an -- go -- scie, i pian -- ti, 
         i pian -- ti~i gri -- di,
         i pian -- ti~i gri -- di,
-    L’al -- ta que -- re -- la che nel ciel pe -- ne -- tra?
-    Ma -- ra -- vi -- glia~ho che __ non s’a -- pri -- ro~i li -- di,
+    L'al -- ta que -- re -- la che nel ciel pe -- ne -- tra?
+    Ma -- ra -- vi -- glia~ho che __ non s'a -- pri -- ro~i li -- di,
     Quan -- do __ fu po -- sta~in su la fred -- da pie -- tra,~in 
         su __ la fred -- da pie -- tra,
     Do -- ve~in ca -- te -- na, pri -- va di sus -- si -- di,
@@ -180,11 +180,11 @@ bassoXVII = \relative c' {
 }
 
 bassoLyricsXVII = \lyricmode {
-    Chi nar -- re -- rà l’an -- go -- scie, i pian -- ti, 
+    Chi nar -- re -- rà l'an -- go -- scie, i pian -- ti, 
         i pian -- ti~i gri -- di,
-    L’al -- ta que -- re -- la che __ nel ciel pe -- ne -- tra?
+    L'al -- ta que -- re -- la che __ nel ciel pe -- ne -- tra?
     Ma -- ra -- vi -- glia~ho 
-        % che non s’a -- pri -- ro~i li -- di,
+        % che non s'a -- pri -- ro~i li -- di,
     Quan -- do fu po -- sta~in su la fred -- da pie -- tra,
     % Do -- ve~in ca -- te -- na, pri -- va di sus -- si -- di,
     Mor -- te~a -- spet -- ta -- va~a -- bo -- mi -- no -- sa~e te -- tra.

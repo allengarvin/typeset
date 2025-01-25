@@ -1,10 +1,10 @@
 %   128  Non son, non sono io quel che paio in viso:
-%        quel ch’era Orlando è morto et è sotterra;
-%        la sua donna ingratissima l’ha ucciso:
+%        quel ch'era Orlando è morto et è sotterra;
+%        la sua donna ingratissima l'ha ucciso:
 %        sì, mancando di fé, gli ha fatto guerra.
 %        Io son lo spirto suo da lui diviso,
-%        ch’in questo inferno tormentandosi erra,
-%        acciò con l’ombra sia, che sola avanza,
+%        ch'in questo inferno tormentandosi erra,
+%        acciò con l'ombra sia, che sola avanza,
 %        esempio a chi in Amor pone speranza. –
 cantoXXVIincipit = \relative c'' {
     \time 4/4
@@ -38,12 +38,12 @@ cantoXXVI = \relative c'' {
 
 cantoLyricsXXVI = \lyricmode {
     Non son, non so -- n'io quel che pai -- o~in vi -- so:
-    Quel __ ch’e -- ra~Or -- lan -- do~è mor -- to~ed è sot -- ter -- ra;
-    La __ sua don -- na~in -- gra -- tis -- si -- ma l’ha~uc -- ci -- so:
+    Quel __ ch'e -- ra~Or -- lan -- do~è mor -- to~ed è sot -- ter -- ra;
+    La __ sua don -- na~in -- gra -- tis -- si -- ma l'ha~uc -- ci -- so:
     Sì, man -- can -- do di fé, gli~ha __ fat -- to guer -- ra.
     Io son lo spir -- to suo da lui di -- vi -- so,
-    Ch’in que -- sto~in -- fer -- no tor -- men -- tan -- do -- si~er -- ra,
-    Ac -- ciò con l’om -- bra sia, che so -- l'a -- van -- za,
+    Ch'in que -- sto~in -- fer -- no tor -- men -- tan -- do -- si~er -- ra,
+    Ac -- ciò con l'om -- bra sia, che so -- l'a -- van -- za,
         che so -- l'a -- van -- za,
     E -- sem -- pio~a ch'in A -- mor po -- ne spe -- ran -- za,
         po -- ne spe -- ran -- za,
@@ -83,12 +83,12 @@ altoXXVI = \relative c' {
 
 altoLyricsXXVI = \lyricmode {
     Non son, non so -- n'io quel che pai -- o~in vi -- so:
-    Quel ch’e -- ra~Or -- lan -- do~è mor -- to~ed è __ sot -- ter -- ra;
-    La __ sua __ don -- na~in -- gra -- tis -- si -- ma l’ha~uc -- ci -- so:
+    Quel ch'e -- ra~Or -- lan -- do~è mor -- to~ed è __ sot -- ter -- ra;
+    La __ sua __ don -- na~in -- gra -- tis -- si -- ma l'ha~uc -- ci -- so:
     Sì, man -- can -- do di fé, __ gli~ha fat -- to __ guer -- ra.
     Io son lo spir -- to suo da lui di -- vi -- so,
-    Ch’in que -- sto~in -- fer -- no tor -- men -- tan -- do -- si~er -- ra,
-    Ac -- ciò con __ l’om -- bra sia, che __ so -- l'a -- van -- za,
+    Ch'in que -- sto~in -- fer -- no tor -- men -- tan -- do -- si~er -- ra,
+    Ac -- ciò con __ l'om -- bra sia, che __ so -- l'a -- van -- za,
         che so -- l'a -- van -- za,
         che so -- l'a -- van -- za,
     E -- sem -- pio~a ch'in A -- mor po -- ne spe -- ran -- za,
@@ -129,12 +129,12 @@ tenoreXXVI = \relative c' {
 
 tenoreLyricsXXVI = \lyricmode {
     Non son, non so -- n'io quel che pai -- o~in vi -- so:
-    Quel ch’e -- ra~Or -- lan -- do~è mor -- to~ed è __ sot -- ter -- ra;
-    La sua don -- na in -- gra -- tis -- si -- ma l’ha~uc -- ci -- so:
+    Quel ch'e -- ra~Or -- lan -- do~è mor -- to~ed è __ sot -- ter -- ra;
+    La sua don -- na in -- gra -- tis -- si -- ma l'ha~uc -- ci -- so:
     Sì, man -- can -- do di fé, gli~ha fat -- to guer -- ra.
     Io son lo spir -- to suo __ da lui di -- vi -- so,
-    Ch’in que -- sto~in -- fer -- no tor -- men -- tan -- do -- si~er -- ra,
-    Ac -- ciò con l’om -- bra sia, che so -- l'a -- van -- za, __
+    Ch'in que -- sto~in -- fer -- no tor -- men -- tan -- do -- si~er -- ra,
+    Ac -- ciò con l'om -- bra sia, che so -- l'a -- van -- za, __
         che so -- l'a -- van -- za,
         che so -- l'a -- van -- za,
     E -- sem -- pio~a ch'in A -- mor po -- ne spe -- ran -- za,
@@ -172,12 +172,12 @@ bassoXXVI = \relative c' {
 
 bassoLyricsXXVI = \lyricmode {
     Non son, non so -- n'io quel che pai -- o~in vi -- so:
-    Quel ch’e -- ra~Or -- lan -- do~è mor -- to~ed è __ sot -- ter -- ra;
-    La sua don -- na~in -- gra -- tis -- si -- ma l’ha~uc -- ci -- so:
+    Quel ch'e -- ra~Or -- lan -- do~è mor -- to~ed è __ sot -- ter -- ra;
+    La sua don -- na~in -- gra -- tis -- si -- ma l'ha~uc -- ci -- so:
     Sì, man -- can -- do di fé, gli~ha fat -- to guer -- ra.
     Io son lo spir -- to suo da lui di -- vi -- so,
-    Ch’in que -- sto~in -- fer -- no tor -- men -- tan -- do -- si~er -- ra,
-    Ac -- ciò con l’om -- bra sia, che so -- l'a -- van -- za,
+    Ch'in que -- sto~in -- fer -- no tor -- men -- tan -- do -- si~er -- ra,
+    Ac -- ciò con l'om -- bra sia, che so -- l'a -- van -- za,
     E -- sem -- pio~a ch'in A -- mor,
     e -- sem -- pio~a ch'in A -- mor po -- ne spe -- ran -- za,
         po -- ne spe -- ran -- za.

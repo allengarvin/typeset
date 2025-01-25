@@ -1,13 +1,13 @@
 % Frenò Tirsi il desio
-% ch’avea di pur sua vita allor finire,
+% ch'avea di pur sua vita allor finire,
 % e sentia morte e non potea morire,
 % e mentre fisso il guardo pur tenea
-% ne’ begli occhi divini,
+% ne' begli occhi divini,
 % e nettar amoroso indi bevea,
 % la bella ninfa sua che già vicini
-% sentia i messi d’amore,
-% disse con occhi languid’ e tremanti:
-% Mori cor mio, ch’io moro,
+% sentia i messi d'amore,
+% disse con occhi languid' e tremanti:
+% Mori cor mio, ch'io moro,
 % le rispose il pastore:
 % Ed io, mia vita, moro.
 cantoXVIIIincipit = \relative c'' {
@@ -46,26 +46,26 @@ cantoXVIII = \relative c'' {
 
 cantoLyricsXVIII = \lyricmode {
     Fre -- nò Tir -- si~il __ de -- si -- o
-    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tia mor -- te~e non po -- tea mo -- ri -- re,
             mo -- ri -- re,
         e non po -- tea mo -- ri -- re,
     E men -- tre fis -- so~il guar -- do pur te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     \ijLyrics
-    ne’ be -- gli~oc -- chi di -- vi -- ni,
+    ne' be -- gli~oc -- chi di -- vi -- ni,
     \normalLyrics
     E net -- tar a -- mo -- ro -- so,
     e net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
     La bel -- la nin -- fa sua che già vi -- ci -- ni
-    Sen -- tia~i mes -- si d’a -- mo -- re,
+    Sen -- tia~i mes -- si d'a -- mo -- re,
     \ijLyrics
-    sen -- tia~i mes -- si d’a -- mo -- re
+    sen -- tia~i mes -- si d'a -- mo -- re
     \normalLyrics
-%    Dis -- se con oc -- chi lan -- guid’ e tre -- man -- ti:
-     Mo -- ri cor mio, ch’io mo -- ro,
-        ch’io mo -- ro,
-        ch’io mo -- ro.
+%    Dis -- se con oc -- chi lan -- guid' e tre -- man -- ti:
+     Mo -- ri cor mio, ch'io mo -- ro,
+        ch'io mo -- ro,
+        ch'io mo -- ro.
     Le ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     ed io, mia vi -- ta, mo -- ro,
@@ -108,12 +108,12 @@ altoXVIII = \relative c'' {
 
 altoLyricsXVIII = \lyricmode {
     Fre -- nò Tir -- si~il __ de -- si -- o
-    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tia mor -- te e non po -- tea,
         e non po -- tea mo -- ri -- re,
             po -- tea mo -- ri -- re,
     E men -- tre fis -- so~il guar -- do pur te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     E net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
     e net -- tar a -- mo -- ro -- so,
         a -- mo -- ro -- so~in -- di be -- ve -- a,
@@ -122,18 +122,18 @@ altoLyricsXVIII = \lyricmode {
     La bel -- la nin -- fa sua
     \normalLyrics
         che già vi -- ci -- ni
-    Sen -- tia~i mes -- si d’a -- mo -- re,
+    Sen -- tia~i mes -- si d'a -- mo -- re,
     \ijLyrics
-    sen -- tia~i mes -- si d’a -- mo -- re
+    sen -- tia~i mes -- si d'a -- mo -- re
     \normalLyrics
-    Dis -- se con oc -- chi lan -- gui -- d’e __ tre -- man -- ti:
+    Dis -- se con oc -- chi lan -- gui -- d'e __ tre -- man -- ti:
     Mo -- ri cor mio,
     \ijLyrics
     mo -- ri cor mio,
     \normalLyrics
-        ch’io mo -- ro,
-        ch’io mo -- ro,
-        ch’io mo -- ro.
+        ch'io mo -- ro,
+        ch'io mo -- ro,
+        ch'io mo -- ro.
     Le __ ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     ed io, mia vi -- ta, mo -- ro,
@@ -173,24 +173,24 @@ tenoreXVIII = \relative c' {
 
 tenoreLyricsXVIII = \lyricmode {
     Fre -- nò Tir -- si~il __ de -- si -- o
-    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tia mor -- te e non po -- tea,
         e non po -- tea mo -- ri -- re,
     E men -- tre fis -- so~il guar -- do pur te -- ne -- a
     E net -- tar a -- mo -- ro -- so,
     e net -- tar a -- mo -- ro -- so in -- di be -- ve -- a,
     La bel -- la nin -- fa sua che già vi -- ci -- ni
-    Sen -- tia~i mes -- si d’a -- mo -- re,
+    Sen -- tia~i mes -- si d'a -- mo -- re,
     \ijLyrics
-    sen -- tia~i mes -- si d’a -- mo -- re
+    sen -- tia~i mes -- si d'a -- mo -- re
     \normalLyrics
 %%    Dis -- se con oc -- chi lan -- gui -- di~e tre -- man -- ti:
-     Mo -- ri cor mio, ch’io mo -- ro,
-        ch’io mo -- ro,
+     Mo -- ri cor mio, ch'io mo -- ro,
+        ch'io mo -- ro,
     \ijLyrics
-        ch’io mo -- ro,
+        ch'io mo -- ro,
     \normalLyrics
-        ch’io mo -- ro.
+        ch'io mo -- ro.
     Le __ ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     ed io, mia vi -- ta,
@@ -229,21 +229,21 @@ bassoXVIII = \relative c {
 
 bassoLyricsXVIII = \lyricmode {
 %    Fre -- nò Tir -- si~il de -- si -- o
-%    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+%    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tia mor -- te e non po -- tea mo -- ri -- re,
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     E net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
     La bel -- la nin -- fa sua,
     la bel -- la nin -- fa sua che già vi -- ci -- ni
-    Sen -- tia~i mes -- si d’a -- mo -- re,
+    Sen -- tia~i mes -- si d'a -- mo -- re,
     Dis -- se con oc -- chi lan -- gui -- di~e __ tre -- man -- ti:
     Mo -- ri cor mio,
     \ijLyrics
     mo -- ri cor mio,
     \normalLyrics
-        ch’io mo -- ro,
-        ch’io mo -- ro,
-        ch’io mo -- ro.
+        ch'io mo -- ro,
+        ch'io mo -- ro,
+        ch'io mo -- ro.
     Le __ ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     ed io, mia vi -- ta, mo -- ro,
@@ -284,26 +284,26 @@ quintoXVIII = \relative c' {
 
 quintoLyricsXVIII = \lyricmode {
 %    Fre -- nò Tir -- si~il de -- si -- o
-    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tia mor -- te e non po -- tea mo -- ri -- re,
             po -- tea mo -- ri -- re,
         e non po -- tea mo -- ri -- re,
     E men -- tre fis -- so~il guar -- do pur te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
-    ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
+    ne' be -- gli~oc -- chi di -- vi -- ni,
     E net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
         in -- di be -- ve -- a,
     La bel -- la nin -- fa sua,
     la bel -- la nin -- fa sua che già vi -- ci -- ni
-    Sen -- tia~i mes -- si d’a -- mo -- re,
+    Sen -- tia~i mes -- si d'a -- mo -- re,
     Dis -- se con oc -- chi lan -- gui -- di~e __ tre -- man -- ti:
     Mo -- ri cor mio,
     \ijLyrics
     mo -- ri cor mio, __
     \normalLyrics
-        ch’io mo -- ro,
-        ch’io mo -- ro,
-        ch’io mo -- ro.
+        ch'io mo -- ro,
+        ch'io mo -- ro,
+        ch'io mo -- ro.
 %    Le ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     ed io, mia vi -- ta, mo -- ro,
@@ -344,28 +344,28 @@ sestoXVIII = \relative c'' {
 
 sestoLyricsXVIII = \lyricmode {
 %    Fre -- nò Tir -- si~il de -- si -- o
-%    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+%    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tia mor -- te,
     e sen -- tia mor -- te~e non po -- tea mo -- ri -- re,
         e non po -- tea mo -- ri -- re,
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     \ijLyrics
-    ne’ be -- gli~oc -- chi di -- vi -- ni,
+    ne' be -- gli~oc -- chi di -- vi -- ni,
     \normalLyrics
     E net -- tar a -- mo -- ro -- so,
     e net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
     La bel -- la nin -- fa sua che già,
         che già vi -- ci -- ni
-    Sen -- tia~i mes -- si d’a -- mo -- re,
+    Sen -- tia~i mes -- si d'a -- mo -- re,
     Dis -- se con oc -- chi lan -- gui-- di~e __ tre -- man -- ti:
     Mo -- ri cor mio,
     \ijLyrics
     mo -- ri cor mio,
     \normalLyrics
-        ch’io mo -- ro,
-        ch’io mo -- ro,
+        ch'io mo -- ro,
+        ch'io mo -- ro,
     \ijLyrics
-        ch’io mo -- ro.
+        ch'io mo -- ro.
     \normalLyrics
     Le __ ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,

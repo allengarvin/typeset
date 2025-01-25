@@ -5,9 +5,9 @@
 % I vari rami sono i miei desiri,
 % dove i pensier fan nido; e strane cure
 % son le foglie, e paure,
-% che l’aura tremolar fan dei sospiri;
-% l’ombra di questo ALLORO
-% è la mia vita, e’l mio dolce ristoro. 
+% che l'aura tremolar fan dei sospiri;
+% l'ombra di questo ALLORO
+% è la mia vita, e'l mio dolce ristoro. 
 
 cantoVIIincipit = \relative c'' {
     \time 4/4
@@ -59,11 +59,11 @@ cantoLyricsVII = \lyricmode {
     i va -- ri ra -- mi so -- no~i miei de -- si -- ri,
     Do -- ve~i __ pen -- sier __ fan ni -- do; e stra -- ne cu -- re
     % son le fo -- glie, e pau -- re,
-    Che l’au -- ra tre -- mo -- lar fan dei __ so -- spi -- ri;
-    L’om -- bra di que -- sto~Al -- lo -- ro,
-    l’om -- bra di que -- sto~Al -- lo -- ro
+    Che l'au -- ra tre -- mo -- lar fan dei __ so -- spi -- ri;
+    L'om -- bra di que -- sto~Al -- lo -- ro,
+    l'om -- bra di que -- sto~Al -- lo -- ro
     È la mia vi -- ta,
-    è la mia vi -- ta~e’l mio dol -- ce ri -- sto -- ro. 
+    è la mia vi -- ta~e'l mio dol -- ce ri -- sto -- ro. 
 }
 
 altoVIIincipit = \relative c'' {
@@ -116,11 +116,11 @@ altoLyricsVII = \lyricmode {
     i va -- ri ra -- mi so -- no~i miei de -- si -- ri,
     Do -- ve~i pen -- sier fan ni -- do; e __ stra -- ne cu -- re
     Son le fo -- glie~e pa -- u -- re,
-    Che l’au -- ra tre -- mo -- lar __ fan dei so -- spi -- ri;
-    L’om -- bra di que -- sto~Al -- lo -- ro,
-    l’om -- bra di que -- sto~Al -- lo -- ro
-    È la mia vi -- ta __ e’l mio dol -- ce ri -- sto -- ro,
-        e’l mio dol -- ce ri -- sto -- ro.
+    Che l'au -- ra tre -- mo -- lar __ fan dei so -- spi -- ri;
+    L'om -- bra di que -- sto~Al -- lo -- ro,
+    l'om -- bra di que -- sto~Al -- lo -- ro
+    È la mia vi -- ta __ e'l mio dol -- ce ri -- sto -- ro,
+        e'l mio dol -- ce ri -- sto -- ro.
 }
 
 tenoreVIIincipit = \relative c'' {
@@ -172,11 +172,11 @@ tenoreLyricsVII = \lyricmode {
     i va -- ri ra -- mi so -- no~i miei __ de -- si -- ri,
     Do -- ve~i pen -- sier fan ni -- do; e stra -- ne cu -- re
     Son le fo -- glie~e pa -- u -- re,
-%    Che l’au -- ra tre -- mo -- lar fan dei so -- spi -- ri;
-    L’om -- bra di que -- sto~Al -- lo -- ro,
-    l’om -- bra di que -- sto~Al -- lo -- ro
+%    Che l'au -- ra tre -- mo -- lar fan dei so -- spi -- ri;
+    L'om -- bra di que -- sto~Al -- lo -- ro,
+    l'om -- bra di que -- sto~Al -- lo -- ro
     È la mia vi -- ta,
-    è la mia vi -- ta~e’l mio dol -- ce ri -- sto -- ro. __
+    è la mia vi -- ta~e'l mio dol -- ce ri -- sto -- ro. __
 }
 
 bassoVIIincipit = \relative c' {
@@ -218,10 +218,10 @@ bassoLyricsVII = \lyricmode {
     I va -- ri ra -- mi so -- no~i va -- ri ra -- mi so -- no~i miei de -- si -- ri,
     Do -- ve~i pen -- sier fan ni -- do; e stra -- ne cu -- re
     Son le fo -- glie~e pa -- u -- re,
-%    Che l’au -- ra tre -- mo -- lar fan dei so -- spi -- ri;
-    L’om -- bra di que -- sto~Al -- lo -- ro,
-    l’om -- bra di que -- sto~Al -- lo -- ro
-    È la mia vi -- ta~e’l mio dol -- ce ri -- sto -- ro.
+%    Che l'au -- ra tre -- mo -- lar fan dei so -- spi -- ri;
+    L'om -- bra di que -- sto~Al -- lo -- ro,
+    l'om -- bra di que -- sto~Al -- lo -- ro
+    È la mia vi -- ta~e'l mio dol -- ce ri -- sto -- ro.
 }
 
 quintoVIIincipit = \relative c'' {
@@ -273,13 +273,13 @@ quintoLyricsVII = \lyricmode {
 %    Do -- ve~i pen -- sier fan ni -- do; 
         e stra -- ne cu -- re
     Son le fo -- glie~e pa -- u -- re,
-    Che l’au -- ra tre -- mo -- lar,
-    che l’au -- ra tre -- mo -- lar fan dei so -- spi -- ri;
-    L’om -- bra di que -- sto~Al -- lo -- ro,
-    l’om -- bra di que -- sto~Al -- lo -- ro
+    Che l'au -- ra tre -- mo -- lar,
+    che l'au -- ra tre -- mo -- lar fan dei so -- spi -- ri;
+    L'om -- bra di que -- sto~Al -- lo -- ro,
+    l'om -- bra di que -- sto~Al -- lo -- ro
     È la mia vi -- ta,
-    è la mia vi -- ta~e’l mio dol -- ce ri -- sto -- ro,
-        e’l mio dol -- ce ri -- sto -- ro.
+    è la mia vi -- ta~e'l mio dol -- ce ri -- sto -- ro,
+        e'l mio dol -- ce ri -- sto -- ro.
 }
 
 sestoVIIincipit = \relative c'' {
@@ -335,12 +335,12 @@ sestoLyricsVII = \lyricmode {
         e stra -- ne cu -- re
     \normalLyrics
 %    Son le fo -- glie, e pau -- re,
-    Che l’au -- ra tre -- mo -- lar fan dei so -- spi -- ri;
-    L’om -- bra di que -- sto~Al -- lo -- ro,
-    l’om -- bra di que -- sto~Al -- lo -- ro,
+    Che l'au -- ra tre -- mo -- lar fan dei so -- spi -- ri;
+    L'om -- bra di que -- sto~Al -- lo -- ro,
+    l'om -- bra di que -- sto~Al -- lo -- ro,
         di que -- sto~Al -- lo -- ro
     È la mia vi -- ta,
-    è la mia vi -- ta e’l mio dol -- ce ri -- sto -- ro.
+    è la mia vi -- ta e'l mio dol -- ce ri -- sto -- ro.
 }
 
 cantoVIIincipitVoice = <<

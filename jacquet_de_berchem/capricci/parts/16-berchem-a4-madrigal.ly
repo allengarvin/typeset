@@ -1,9 +1,9 @@
 %   62 Oh troppo cara, oh troppo escelsa preda
 %      per sì barbare genti e sì villane!
-%      O Fortuna crudel, chi fia ch’il creda,
+%      O Fortuna crudel, chi fia ch'il creda,
 %      che tanta forza hai ne le cose umane,
-%      che per cibo d’un mostro tu conceda
-%      la gran beltà, ch’in India il Re Agricane
+%      che per cibo d'un mostro tu conceda
+%      la gran beltà, ch'in India il Re Agricane
 %      fece venir da le caucasee porte
 %      con mezza Scizia a guadagnar la morte?
 
@@ -46,12 +46,12 @@ cantoLyricsXVI = \lyricmode {
     Per sì bar -- ba -- re gen -- ti~e sì __ vil -- la -- ne!
     O For -- tu -- na,
     O For -- tu -- na, __
-    O For -- tu -- na cru -- del, chi fia ch’il cre -- da,
+    O For -- tu -- na cru -- del, chi fia ch'il cre -- da,
     Che tan -- ta for -- za~hai,
     Che tan -- ta for -- za~hai ne __ le co -- se~u -- ma -- ne,
-    Che __ per ci -- bo d’un mo -- stro tu con -- ce -- da
+    Che __ per ci -- bo d'un mo -- stro tu con -- ce -- da
     La gran bel -- tà, 
-    La gran bel -- tà, ch’in In -- dia~il Re~A -- gri -- ca -- ne
+    La gran bel -- tà, ch'in In -- dia~il Re~A -- gri -- ca -- ne
     Fe -- ce ve -- nir da le __ cau -- ca -- see por -- te
     Con mez -- za Sci -- zia~a gua -- da -- gnar la mor -- te,
         la mor -- te?
@@ -97,17 +97,17 @@ altoLyricsXVI = \lyricmode {
         sì vil -- la -- ne!
     O For -- tu -- na cru -- del, 
     O For -- tu -- na cru -- del, __
-    O For -- tu -- na cru -- del, chi fia ch’il cre -- da,
-        chi fia ch’il cre -- da,
+    O For -- tu -- na cru -- del, chi fia ch'il cre -- da,
+        chi fia ch'il cre -- da,
     Che tan -- ta for -- za~hai,
     Che tan -- ta for -- za~hai ne le co -- se~u -- ma -- ne,
-    Che per ci -- bo d’un mo -- stro tu con -- ce -- da,
-        d’un mo -- stro tu con -- ce -- da
+    Che per ci -- bo d'un mo -- stro tu con -- ce -- da,
+        d'un mo -- stro tu con -- ce -- da
     La gran bel -- tà, 
     \ijLyrics
     La gran bel -- tà, 
     \normalLyrics
-        ch’in In -- dia~il Re~A -- gri -- ca -- ne
+        ch'in In -- dia~il Re~A -- gri -- ca -- ne
     Fe -- ce ve -- nir __ da le cau -- ca -- see por -- te
     Con mez -- za Sci -- zia~a gua -- da -- gnar la mor -- te,
         la mor -- te?
@@ -153,17 +153,17 @@ tenoreLyricsXVI = \lyricmode {
     O __ For -- tu -- na cru -- del,
     O For -- tu -- na cru -- del, 
     O For -- tu -- na, 
-    O For -- tu -- na cru -- del, chi fia ch’il cre -- da,
+    O For -- tu -- na cru -- del, chi fia ch'il cre -- da,
     Che tan -- ta for -- za~hai,
     Che tan -- ta for -- za~hai, __
     Che tan -- ta for -- za~hai ne le co -- se~u -- ma -- ne,
-    Che per ci -- bo d’un mo -- stro tu con -- ce -- da,
-        d’un mo -- stro tu con -- ce -- da
+    Che per ci -- bo d'un mo -- stro tu con -- ce -- da,
+        d'un mo -- stro tu con -- ce -- da
     La gran bel -- tà, 
     \ijLyrics
     La gran bel -- tà,
     \normalLyrics
-        ch’in In -- dia~il Re~A -- gri -- ca -- ne
+        ch'in In -- dia~il Re~A -- gri -- ca -- ne
         da le cau -- ca -- see por -- te
     Con mez -- za Sci -- zia~a gua -- da -- gnar la mor -- te,
         la __ mor -- te?
@@ -204,12 +204,12 @@ bassoLyricsXVI = \lyricmode {
         oh trop -- po~e -- scel -- sa pre -- da,
     Per sì bar -- ba -- re gen -- ti,
     Per sì bar -- ba -- re gen -- ti, e sì vil -- la -- ne!
-    O For -- tu -- na cru -- del, __ chi fia ch’il cre -- da,
+    O For -- tu -- na cru -- del, __ chi fia ch'il cre -- da,
     Che tan -- ta for -- za,
     Che tan -- ta for -- za~hai ne le co -- se~u -- ma -- ne,
-    Che per ci -- bo d’un mo -- stro tu con -- ce -- da,
-        d’un mo -- stro tu con -- ce -- da __
-    La gran bel -- tà, ch’in In -- dia~il Re~A -- gri -- ca -- ne
+    Che per ci -- bo d'un mo -- stro tu con -- ce -- da,
+        d'un mo -- stro tu con -- ce -- da __
+    La gran bel -- tà, ch'in In -- dia~il Re~A -- gri -- ca -- ne
     Fe -- ce ve -- nir da le cau -- ca -- see por -- te
     Con mez -- za Sci -- zia~a gua -- da -- gnar la mor -- te,
         la mor -- te?

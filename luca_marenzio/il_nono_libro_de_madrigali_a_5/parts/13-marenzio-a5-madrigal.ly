@@ -1,9 +1,9 @@
-% Sì ch’ io mi credo omai, che monti e piagge,
+% Sì ch' io mi credo omai, che monti e piagge,
 % E fiumi, e selve sappian di che tempre
-% Sia la mia vita, ch’ è celata altrui.
+% Sia la mia vita, ch' è celata altrui.
 % 
 % Ma pur sì aspre vie, né sì selvagge
-% Cercar non so, ch’ Amor non venga sempre
+% Cercar non so, ch' Amor non venga sempre
 % Ragionando con meco, ed io con lui.
 cantoXIIIincipit = \relative c'' {
     \time 4/4

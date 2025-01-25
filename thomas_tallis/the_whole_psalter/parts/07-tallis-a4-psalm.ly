@@ -27,7 +27,7 @@
 
 %  7.  For God he is, our Lord and stay,
 %  his people we, in pasture near,
-%  his flock of hand, who lead’th our way;
+%  his flock of hand, who lead'th our way;
 %  his voice to day, if well ye hear,
 %  8.  Beware, say I, ye hard no hearts
 %  against his grace, to you so meant,

@@ -46,26 +46,26 @@ cantoXV = \relative c' {
 cantoLyricsXV = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a,
         mo -- rir vo -- le -- a
-%    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-%    Ond’ el -- la che di lui non me -- no~ar -- de -- a
-%    Ond’ el -- la che di lui non me -- no~ar -- de -- a
+%    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+%    Ond' el -- la che di lui non me -- no~ar -- de -- a
+%    Ond' el -- la che di lui non me -- no~ar -- de -- a
 %    Gli dis -- se:
      Ahi -- mè ben mi -- o, 
         ben mi -- o, 
     Deh non mo -- rir an -- co -- ra
-%     Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+%     Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò Tir -- si~il de -- si -- o
-    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tea mor -- te~e non po -- tea mo -- ri -- re.
 
     % seconda parte:
 %    E men -- tre~il guar -- do fis -- so pur te -- ne -- a
-%    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+%    Ne' be -- gli~oc -- chi di -- vi -- ni,
 %    E net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
     La bel -- la nin -- fa sua __ che già vi -- ci -- ni
-    Sen -- tea~i __ mes -- si d’a -- mo -- re
+    Sen -- tea~i __ mes -- si d'a -- mo -- re
     Dis -- se con oc -- chi lan -- gui -- di~e tre -- man -- ti:
-    Mo -- ri cor mio, ch’io mo -- ro.
+    Mo -- ri cor mio, ch'io mo -- ro.
 %    E ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     Co -- sì mo -- rir -- no~i for -- tu -- na -- ti~A -- man -- ti
@@ -124,22 +124,22 @@ altoXV = \relative c' {
 
 altoLyricsXV = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    On -- d’el -- la
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    On -- d'el -- la
     Ahi -- mè ben mi -- o, 
-    Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò Tir -- si~il de -- si -- o
-    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tea mor -- te~e non po -- tea mo -- ri -- re.
 
     % seconda parte:
     E men -- tre~il guar -- do fis -- so pur te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     E net -- tar a -- mo -- ro -- so in -- di be -- ve -- a,
     La bel -- la nin -- fa sua __ che già vi -- ci -- ni
-    Sen -- tea~i mes -- si d’a -- mo -- re
+    Sen -- tea~i mes -- si d'a -- mo -- re
     Dis -- se con oc -- chi lan -- gui -- di~e tre -- man -- ti:
-    Mo -- ri cor mio, ch’io mo -- ro.
+    Mo -- ri cor mio, ch'io mo -- ro.
     Ed io, mia vi -- ta, mo -- ro,
     Ed io, mia vi -- ta, mo -- ro,
     Co -- sì mo -- rir -- no~i for -- tu -- na -- ti~A -- man -- ti
@@ -202,24 +202,24 @@ tenoreXV = \relative c' {
 }
 
 tenoreLyricsXV = \lyricmode {
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    On -- d’el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    On -- d'el -- la che di lui non me -- no~ar -- de -- a
     Gli dis -- se: Ahi -- mè ben mi -- o, 
     Deh __
-    Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
-    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
+    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tea mor -- te~e non po -- tea mo -- ri -- re.
 
     % seconda parte:
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     \ijLyrics
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     \normalLyrics
     E net -- tar a -- mo -- ro -- so in -- di be -- ve -- a,
     La bel -- la nin -- fa sua che già vi -- ci -- ni
-    Sen -- tea~i mes -- si d’a -- mo -- re
+    Sen -- tea~i mes -- si d'a -- mo -- re
     Dis -- se con oc -- chi lan -- gui -- di~e tre -- man -- ti:
-    Mo -- ri cor mio, ch’io mo -- ro.
+    Mo -- ri cor mio, ch'io mo -- ro.
     E ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     \ijLyrics
@@ -284,19 +284,19 @@ bassoXV = \relative c {
 }
 
 bassoLyricsXV = \lyricmode {
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    On -- d’el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    On -- d'el -- la che di lui non me -- no~ar -- de -- a
     Gli dis -- se:  ben mi -- o, 
     Deh 
-    Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     E sen -- tea mor -- te~e non po -- tea mo -- ri -- re.
 
     % seconda parte:
     E men -- tre~il guar -- do fis -- so pur __ te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     E net -- tar a -- mo -- ro -- so in -- di be -- ve -- a,
     Dis -- se con oc -- chi lan -- gui -- di,
-    Mo -- ri cor mio, ch’io mo -- ro.
+    Mo -- ri cor mio, ch'io mo -- ro.
     E ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,
     Co -- sì mo -- rir -- no~i for -- tu -- na -- ti~A -- man -- ti
@@ -357,24 +357,24 @@ quintoXV = \relative c' {
 
 quintoLyricsXV = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra
-    On -- d’el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra
+    On -- d'el -- la che di lui non me -- no~ar -- de -- a
     Gli dis -- se: Ahi -- mè ben mi -- o, 
     Deh non mo -- rir an -- co -- ra
     Fre -- nò Tir -- si~il de -- si -- o
-    Ch’a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
+    Ch'a -- vea di pur sua vi -- ta~al -- lor fi -- ni -- re,
     E sen -- tea mor -- te~e non po -- tea mo -- ri -- re.
 
     % seconda parte:
     E men -- tre~il guar -- do fis -- so pur te -- ne -- a
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     \ijLyrics
-    Ne’ be -- gli~oc -- chi di -- vi -- ni,
+    Ne' be -- gli~oc -- chi di -- vi -- ni,
     \normalLyrics
     E net -- tar a -- mo -- ro -- so in -- di be -- ve -- a,
         in -- di be -- ve -- a,
     La bel -- la nin -- fa sua che già __ vi -- ci -- ni
-    Sen -- tea~i mes -- si d’a -- mo -- re
+    Sen -- tea~i mes -- si d'a -- mo -- re
     Dis -- se 
     E ri -- spo -- se~il pa -- sto -- re:
     Ed io, mia vi -- ta, mo -- ro,

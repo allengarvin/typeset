@@ -1,11 +1,11 @@
 % Godete anima bella
 % poiché Fede ed Amor concordi insieme
 % fan seggio nel mio petto.
-% Godete, che’l mio cor vi sia ricetto
-% ch’è tutto Amore e fede
+% Godete, che'l mio cor vi sia ricetto
+% ch'è tutto Amore e fede
 % Godete lieta, poiché omai si vede
-% ch’altro ei non cura e ch’altro a lui non preme
-% che d’aggradire a voi,
+% ch'altro ei non cura e ch'altro a lui non preme
+% che d'aggradire a voi,
 % a voi che siete legge ai pensier suoi.
 % 
 % Be blissful beautiful soul
@@ -55,15 +55,15 @@ cantoLyricsXVIII = \lyricmode {
     Poi -- ché Fe -- de~ed A -- mor con -- cor -- di~in -- sie -- me
         con -- cor -- di~in -- sie -- me
     Fan seg -- gio nel mio pet -- to.
-    Go -- de -- te, che’l mio cor vi sia ri -- cet -- to
-    Ch’è __ tut -- to~A -- mo -- re~e fe -- de
+    Go -- de -- te, che'l mio cor vi sia ri -- cet -- to
+    Ch'è __ tut -- to~A -- mo -- re~e fe -- de
     Go -- de -- te lie -- ta, poi -- ché~o -- mai si ve -- de,
 %        poi -- ché~o -- mai si ve -- de
-%    Ch’al -- tro~ei non cu -- ra,
-    ch’al -- tro~ei non cu -- ra e ch’al -- tro,
-        e ch’al -- tro~a lui non pre -- me
-    Che d’ag -- gra -- di -- re~a vo -- i,
-    che d’ag -- gra -- di -- re~a vo -- i,
+%    Ch'al -- tro~ei non cu -- ra,
+    ch'al -- tro~ei non cu -- ra e ch'al -- tro,
+        e ch'al -- tro~a lui non pre -- me
+    Che d'ag -- gra -- di -- re~a vo -- i,
+    che d'ag -- gra -- di -- re~a vo -- i,
     A voi che sie -- te leg -- ge ai pen -- sier suo -- i,
         ai pen -- sier suo -- i. __
 }
@@ -106,13 +106,13 @@ altoLyricsXVIII = \lyricmode {
         con -- cor -- di~in -- sie -- me
     Fan seg -- gio nel mio pet -- to,
     fan seg -- gio nel __ mio pet -- to.
-    Go -- de -- te, che’l mio cor vi sia ri -- cet -- to
-    Ch’è tut -- to~A -- mo -- re~e fe -- de
+    Go -- de -- te, che'l mio cor vi sia ri -- cet -- to
+    Ch'è tut -- to~A -- mo -- re~e fe -- de
     Go -- de -- te lie -- ta, poi -- ché~o -- mai si ve -- de
-    ch’al -- tro~ei non cu -- ra e ch’al -- tro,
-        e ch’al -- tro~a lui non pre -- me
-    Che d’ag -- gra -- di -- re~a vo -- i,
-    che d’ag -- gra -- di -- re~a vo -- i,
+    ch'al -- tro~ei non cu -- ra e ch'al -- tro,
+        e ch'al -- tro~a lui non pre -- me
+    Che d'ag -- gra -- di -- re~a vo -- i,
+    che d'ag -- gra -- di -- re~a vo -- i,
     A voi che sie -- te leg -- ge~ai pen -- sier suo -- i,
         ai pen -- sier suo -- i,
         ai pen -- sier suo -- i.
@@ -154,15 +154,15 @@ tenoreLyricsXVIII = \lyricmode {
     go -- de -- te~a -- ni -- ma bel -- la
     Poi -- ché Fe -- de~ed A -- mor con -- cor -- di~in -- sie -- me
     Fan seg -- gio nel __ mio pet -- to.
-    Go -- de -- te, che’l mio cor vi sia ri -- cet -- to
-    Ch’è __ tut -- to~A -- mo -- re~e fe -- de
+    Go -- de -- te, che'l mio cor vi sia ri -- cet -- to
+    Ch'è __ tut -- to~A -- mo -- re~e fe -- de
     Go -- de -- te lie -- ta, poi -- ché~o -- mai si ve -- de,
     \ijLyrics
         poi -- ché~o -- mai si ve -- de
     \normalLyrics
-    Ch’al -- tro~ei non cu -- ra e ch’al -- tro~a lui non pre -- me
-    Che d’ag -- gra -- di -- re~a vo -- i,
-    che d’ag -- gra -- di -- re~a vo -- i,
+    Ch'al -- tro~ei non cu -- ra e ch'al -- tro~a lui non pre -- me
+    Che d'ag -- gra -- di -- re~a vo -- i,
+    che d'ag -- gra -- di -- re~a vo -- i,
     A voi che sie -- te leg -- ge ai pen -- sier suo -- i,
         ai pen -- sier suo -- i,
         ai pen -- sier suo -- i.
@@ -204,13 +204,13 @@ bassoLyricsXVIII = \lyricmode {
     Poi -- ché Fe -- de~ed A -- mor con -- cor -- di~in -- sie -- me
     Fan seg -- gio nel mio pet -- to,
     fan seg -- gio nel mio pet -- to.
-    Go -- de -- te, che’l mio cor vi sia ri -- cet -- to
-    Ch’è tut -- to~A -- mo -- re~e fe -- de
+    Go -- de -- te, che'l mio cor vi sia ri -- cet -- to
+    Ch'è tut -- to~A -- mo -- re~e fe -- de
     Go -- de -- te lie -- ta, poi -- ché~o -- mai si ve -- de
-    Ch’al -- tro~ei non cu -- ra e ch’al -- tro,
-        e ch’al -- tro~a lui non pre -- me
-    Che d’ag -- gra -- di -- re~a vo -- i,
-    che d’ag -- gra -- di -- re~a vo -- i,
+    Ch'al -- tro~ei non cu -- ra e ch'al -- tro,
+        e ch'al -- tro~a lui non pre -- me
+    Che d'ag -- gra -- di -- re~a vo -- i,
+    che d'ag -- gra -- di -- re~a vo -- i,
     A voi che sie -- te leg -- ge ai pen -- sier suo -- i,
         ai pen -- sier suo -- i.
 }
@@ -252,14 +252,14 @@ quintoLyricsXVIII = \lyricmode {
     Poi -- ché Fe -- de~ed A -- mor con -- cor -- di~in -- sie -- me
     Fan seg -- gio nel mio pet -- to,
     fan seg -- gio nel __ mio pet -- to.
-    Go -- de -- te, che’l mio cor vi sia ri -- cet -- to
-    Ch’è tut -- to~A -- mo -- re~e fe -- de
+    Go -- de -- te, che'l mio cor vi sia ri -- cet -- to
+    Ch'è tut -- to~A -- mo -- re~e fe -- de
     Go -- de -- te lie -- ta, poi -- ché~o -- mai si ve -- de,
         poi -- ché~o -- mai si ve -- de
-    Ch’al -- tro~ei non cu -- ra,
-    ch’al -- tro~ei non cu -- ra e ch’al -- tro~a lui non pre -- me
-    Che d’ag -- gra -- di -- re~a vo -- i,
-    che d’ag -- gra -- di -- re~a vo -- i,
+    Ch'al -- tro~ei non cu -- ra,
+    ch'al -- tro~ei non cu -- ra e ch'al -- tro~a lui non pre -- me
+    Che d'ag -- gra -- di -- re~a vo -- i,
+    che d'ag -- gra -- di -- re~a vo -- i,
     A voi che sie -- te leg -- ge ai pen -- sier suo -- i,
         ai pen -- sier suo -- i,
         ai pen -- sier suo -- i.

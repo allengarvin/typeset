@@ -1,4 +1,4 @@
-% Why bragg’st in malice high?
+% Why bragg'st in malice high?
 % O thou in mischief stout;
 % God's goodness yet is nigh,
 % all day to me, no doubt.
@@ -68,7 +68,7 @@ meaneXIII = \relative c'' {
 }
 
 meaneLyricsXIII = \lyricmode {
-    Why bragg’st in ma -- lice high?
+    Why bragg'st in ma -- lice high?
     O thou __ in __ mis -- chief stout;
     God's good -- ness yet is nigh,
     all day __ to __ me no doubt.
@@ -137,7 +137,7 @@ contratenorXIII = \relative c' {
 }
 
 contratenorLyricsXIII = \lyricmode {
-    Why bragg’st in ma -- lice high?
+    Why bragg'st in ma -- lice high?
     O thou __ in mis -- chief stout;
     God's good -- ness yet is nigh,
     all day __ to me no doubt.
@@ -205,7 +205,7 @@ tenorXIII = \relative c' {
 }
 
 tenorLyricsXIII = \lyricmode {
-    Why bragg’st in ma -- lice high?
+    Why bragg'st in ma -- lice high?
     O thou __ in mis -- chief stout;
     God's good -- ness yet is nigh,
     all day __ to me no doubt.
@@ -274,7 +274,7 @@ baseXIII = \relative c' {
 }
 
 baseLyricsXIII = \lyricmode {
-    Why bragg’st in ma -- lice high?
+    Why bragg'st in ma -- lice high?
     O thou __ in mis -- chief stout;
     God's good -- ness yet is nigh,
     all day __ to me no doubt.

@@ -1,11 +1,11 @@
 % Cinto di neve omai 
 % dolcemente ardo, ma nasconde il core
-% la dolcezza e l’ardore.
-% Solo il mio sol s’el vede
+% la dolcezza e l'ardore.
+% Solo il mio sol s'el vede
 % e miracolo il chiama, e a pena il crede.
-% Deh, mira te medesmo, e a l’hor dirai:
-% O mio bel sol, ch’è poco,
-% s’ardi un cor fra la neve al tuo bel foco.
+% Deh, mira te medesmo, e a l'hor dirai:
+% O mio bel sol, ch'è poco,
+% s'ardi un cor fra la neve al tuo bel foco.
 % 
 % La venexiana:
 % Covered by snow now I sweetly burn.
@@ -52,13 +52,13 @@ cantoLyricsXI = \lyricmode {
     Dol -- ce -- men -- te~ar -- do,
     cin -- to di ne -- ve~o -- ma -- i
     dol -- ce -- men -- te~ar -- do, ma __ na -- scon -- de~il co -- re
-    La dol -- cez -- za~e l’ar -- do -- re,
-    la dol -- cez -- za~e l’ar -- do -- re.
-    So -- lo~il mio sol s’el ve -- de
+    La dol -- cez -- za~e l'ar -- do -- re,
+    la dol -- cez -- za~e l'ar -- do -- re.
+    So -- lo~il mio sol s'el ve -- de
     E mi -- ra -- co -- lo~il chia -- ma, e~a pe -- na~il cre -- de.
-    Deh, __ mi -- ra te me -- de -- smo, e~a l’or di -- ra -- i:
-    O mio bel sol, ch’è po -- co,
-    S’ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
+    Deh, __ mi -- ra te me -- de -- smo, e~a l'or di -- ra -- i:
+    O mio bel sol, ch'è po -- co,
+    S'ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
         al tuo bel fo -- co,
         al tuo bel fo -- co.
 }
@@ -97,18 +97,18 @@ altoLyricsXI = \lyricmode {
     Cin -- to di ne -- ve~o -- ma -- i
     Dol -- ce -- men -- te~ar -- do, ma na -- scon -- de~il co -- re,
         ma na -- scon -- de~il co -- re
-    La dol -- cez -- za~e l’ar -- do -- re,
-    la dol -- cez -- za~e l’ar -- do -- re.
-    So -- lo~il mio sol s’el ve -- de
+    La dol -- cez -- za~e l'ar -- do -- re,
+    la dol -- cez -- za~e l'ar -- do -- re.
+    So -- lo~il mio sol s'el ve -- de
     E mi -- ra -- co -- lo~il chia -- ma, e~a pe -- na~il cre -- de,
         e~a pe -- na~il cre -- de,
     \ijLyrics
         e~a pe -- na~il cre -- de.
     \normalLyrics
-    Deh, mi -- ra te me -- de -- smo, e~a l’or di -- ra -- i:
-    O mio bel sol, ch’è po -- co,
-    o mio bel sol, __ ch’è po -- co,
-    S’ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
+    Deh, mi -- ra te me -- de -- smo, e~a l'or di -- ra -- i:
+    O mio bel sol, ch'è po -- co,
+    o mio bel sol, __ ch'è po -- co,
+    S'ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
         al tuo bel fo -- co. __
 }
 
@@ -146,18 +146,18 @@ tenoreLyricsXI = \lyricmode {
     Cin -- to di ne -- ve~o -- ma -- i
     Dol -- ce -- men -- te~ar -- do,
     dol -- ce -- men -- te~ar -- do, ma na -- scon -- de~il co -- re
-    La dol -- cez -- za~e l’ar -- do -- re,
-        e l’ar -- do -- re.
-    So -- lo~il mio sol s’el ve -- de
+    La dol -- cez -- za~e l'ar -- do -- re,
+        e l'ar -- do -- re.
+    So -- lo~il mio sol s'el ve -- de
     E mi -- ra -- co -- lo~il chia -- ma, e~a pe -- na~il cre -- de,
         e~a pe -- na~il cre -- de,
     \ijLyrics
         e~a pe -- na~il cre -- de.
     \normalLyrics
-    Deh, mi -- ra te me -- de -- sm'e~a l’or di -- ra -- i:
-    O mio bel sol, ch’è po -- co,
-    o mio bel sol, ch’è po -- co,
-    S’ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
+    Deh, mi -- ra te me -- de -- sm'e~a l'or di -- ra -- i:
+    O mio bel sol, ch'è po -- co,
+    o mio bel sol, ch'è po -- co,
+    S'ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
         al tuo bel fo -- co.
 }
 
@@ -193,17 +193,17 @@ bassoXI = \relative c {
 bassoLyricsXI = \lyricmode {
     Cin -- to di ne -- ve~o -- ma -- i
     Dol -- ce -- men -- te~ar -- do, ma na -- scon -- de~il co -- re
-    La dol -- cez -- za~e l’ar -- do -- re,
-    la dol -- cez -- za~e l’ar -- do -- re.
-%    So -- lo~il mio sol s’el ve -- de
+    La dol -- cez -- za~e l'ar -- do -- re,
+    la dol -- cez -- za~e l'ar -- do -- re.
+%    So -- lo~il mio sol s'el ve -- de
     E mi -- ra -- co -- lo~il chia -- ma, 
     e mi -- ra -- co -- lo~il chia -- ma, e~a pe -- na~il cre -- de,
     \ijLyrics
         e~a pe -- na~il cre -- de.
     \normalLyrics
-    Deh, __ mi -- ra te me -- de -- smo, e~a l’or di -- ra -- i:
-    O mio bel sol, ch’è po -- co,
-    S’ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
+    Deh, __ mi -- ra te me -- de -- smo, e~a l'or di -- ra -- i:
+    O mio bel sol, ch'è po -- co,
+    S'ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
         al tuo bel fo -- co.
 }
 
@@ -242,20 +242,20 @@ quintoLyricsXI = \lyricmode {
     Dol -- ce -- men -- te~ar -- do,
     cin -- to di ne -- ve~o -- ma -- i
     dol -- ce -- men -- te~ar -- do, ma na -- scon -- de~il co -- re
-    La dol -- cez -- za~e l’ar -- do -- re,
-    la dol -- cez -- za~e l’ar -- do -- re.
-% So -- lo~il mio sol s’el ve -- de
+    La dol -- cez -- za~e l'ar -- do -- re,
+    la dol -- cez -- za~e l'ar -- do -- re.
+% So -- lo~il mio sol s'el ve -- de
     E mi -- ra -- co -- lo~il chia -- ma, e~a pe -- na~il cre -- de,
         e~a pe -- na~il cre -- de,
     \ijLyrics
         e~a pe -- na~il cre -- de.
     \normalLyrics
-    Deh, mi -- ra te me -- de -- smo, e~a l’or di -- ra -- i:
-    O mio bel sol, ch’è po -- co,
+    Deh, mi -- ra te me -- de -- smo, e~a l'or di -- ra -- i:
+    O mio bel sol, ch'è po -- co,
     \ijLyrics
-    o mio bel sol, ch’è po -- co,
+    o mio bel sol, ch'è po -- co,
     \normalLyrics
-    S’ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
+    S'ar -- di~un cor fra la ne -- ve~al tuo bel fo -- co,
         al tuo bel fo -- co.
 }
 

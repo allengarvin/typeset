@@ -1,32 +1,32 @@
 % ELENCO
-% Quella che ’n mille selve e ’n mille fratte
+% Quella che 'n mille selve e 'n mille fratte
 % seguir mi face Amor, so che si dole,
-% benché mi fugga ognor, benché s’appiatte.
+% benché mi fugga ognor, benché s'appiatte.
 % 
 % OFELIA
 % Et Amaranta mia mi stringe, e vòle
-% ch’io pur li canti a l’uscio, e mi risponde
+% ch'io pur li canti a l'uscio, e mi risponde
 % con le sue dolci angeliche parole.
 %
 % ELENCO
-% Fillida ognor mi chiama e poi s’asconde,
-% e getta un pomo e ride, e vuol già ch’io
+% Fillida ognor mi chiama e poi s'asconde,
+% e getta un pomo e ride, e vuol già ch'io
 % la veggia biancheggiar tra verdi fronde.
 % 
 % OFELIA
-% Anzi Fillida mia m’aspetta al rio,
-% e poi m’accoglie sì soavemente,
-% ch’io pongo il gregge e me stesso in oblio.
+% Anzi Fillida mia m'aspetta al rio,
+% e poi m'accoglie sì soavemente,
+% ch'io pongo il gregge e me stesso in oblio.
 %
 % ELENCO
-% Il bosco ombreggia; e se ’l mio sol presente
+% Il bosco ombreggia; e se 'l mio sol presente
 % non vi fusse or, vedresti in nova foggia
 % secchi i fioretti e le fontane spente.
 %
 % OFELIA
 % Ignudo è il monte, e più non vi si poggia;
-% ma se ’l mio sol vi appare, ancor vedrollo
-% d’erbette rivestirsi in lieta pioggia.
+% ma se 'l mio sol vi appare, ancor vedrollo
+% d'erbette rivestirsi in lieta pioggia.
 
 
 cantoXXIincipit = \relative c'' {

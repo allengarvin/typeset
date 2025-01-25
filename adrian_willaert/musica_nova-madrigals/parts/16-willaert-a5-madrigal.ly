@@ -2,8 +2,8 @@
 % fiso mira pur me; parte sospira,
 % et di lagrime honeste il viso adorna:
 % 
-% onde l’anima mia dal dolor vinta,
-% mentre piangendo allor seco s’adira,
+% onde l'anima mia dal dolor vinta,
+% mentre piangendo allor seco s'adira,
 % sciolta dal sonno a se stessa ritorna.
 cantusXVIincipit = \relative c' {
     \time 2/2
@@ -43,9 +43,9 @@ cantusLyricsXVI = \lyricmode {
         par -- te so -- spi -- ra,
     Et di la -- gri -- me~o -- ne -- ste~il vi -- so~a -- dor -- na: __
 
-    On -- de l’a -- ni -- ma mia dal __ do -- lor vin -- ta,
-    Men -- tre pian -- gen -- do~al -- lor se -- co s’a -- di -- ra,
-    Men -- tre pian -- gen -- do~al -- lor se -- co s’a -- di -- ra,
+    On -- de l'a -- ni -- ma mia dal __ do -- lor vin -- ta,
+    Men -- tre pian -- gen -- do~al -- lor se -- co s'a -- di -- ra,
+    Men -- tre pian -- gen -- do~al -- lor se -- co s'a -- di -- ra,
     Sciol -- ta dal son -- no~a se stes -- sa __ ri -- tor -- na,
     Sciol -- ta dal son -- no~a se __ stes -- sa __ ri -- tor -- na. __
 }
@@ -92,10 +92,10 @@ altusLyricsXVI = \lyricmode {
         par -- te so -- spi -- ra,
     Et di la -- gri -- me~o -- ne -- ste~il vi -- so~a -- dor -- na: 
 
-    On -- de l’a -- ni -- ma mia dal __ do -- lor vin -- ta,
-    On -- de l’a -- ni -- ma mia dal do -- lor vin -- ta,
-    Men -- tre pian -- gen -- do~al -- lor se -- co s’a -- di -- ra,
-    Men -- tre pian -- gen -- do~al -- lor se -- co s’a -- di -- ra,
+    On -- de l'a -- ni -- ma mia dal __ do -- lor vin -- ta,
+    On -- de l'a -- ni -- ma mia dal do -- lor vin -- ta,
+    Men -- tre pian -- gen -- do~al -- lor se -- co s'a -- di -- ra,
+    Men -- tre pian -- gen -- do~al -- lor se -- co s'a -- di -- ra,
     Sciol -- ta dal son -- no,
     Sciol -- ta dal son -- no~a se stes -- sa ri -- tor -- na,
     Sciol -- ta dal son -- no~a se stes -- sa ri -- tor -- na.
@@ -140,10 +140,10 @@ tenorLyricsXVI = \lyricmode {
     Et di la -- gri -- me~o -- ne -- ste~il vi -- so~a -- dor -- na,
     Et di la -- gri -- me~o -- ne -- ste~il vi -- so~a -- dor -- na: 
 
-    On -- de l’a -- ni -- ma mia dal do -- lor vin -- ta,
-    On -- de l’a -- ni -- ma mia dal __ do -- lor vin -- ta,
-    Men -- tre pian -- gen -- do~al -- lor se -- co s’a -- di -- ra,
-    Men -- tre pian -- gen -- do~al -- lor se -- co s’a -- di -- ra,
+    On -- de l'a -- ni -- ma mia dal do -- lor vin -- ta,
+    On -- de l'a -- ni -- ma mia dal __ do -- lor vin -- ta,
+    Men -- tre pian -- gen -- do~al -- lor se -- co s'a -- di -- ra,
+    Men -- tre pian -- gen -- do~al -- lor se -- co s'a -- di -- ra,
     Sciol -- ta dal son -- no~a se stes -- sa ri -- tor -- na,
     Sciol -- ta dal son -- no~a se stes -- sa ri -- tor -- na. __
 }
@@ -189,9 +189,9 @@ bassusLyricsXVI = \lyricmode {
     Et di la -- gri -- me~o -- ne -- ste~il vi -- so~a -- dor -- na,
     Et di la -- gri -- me~o -- ne -- ste~il vi -- so~a -- dor -- na: 
 
-    On -- de l’a -- ni -- ma mia dal __ do -- lor vin -- ta,
+    On -- de l'a -- ni -- ma mia dal __ do -- lor vin -- ta,
         dal __ do -- lor vin -- ta,
-    Men -- tre pian -- gen -- do~al -- lor se -- co s’a -- di -- ra,
+    Men -- tre pian -- gen -- do~al -- lor se -- co s'a -- di -- ra,
     Sciol -- ta dal son -- no~a se stes -- sa ri -- tor -- na,
     Sciol -- ta dal son -- no,
     Sciol -- ta dal son -- no~a se stes -- sa ri -- tor -- na.
@@ -237,9 +237,9 @@ quintusLyricsXVI = \lyricmode {
     Et di la -- gri -- me~o -- ne -- ste~il vi -- so~a -- dor -- na,
     Et di la -- gri -- me~o -- ne -- ste~il vi -- so~a -- dor -- na: 
 
-    On -- de l’a -- ni -- ma mia __ dal do -- lor vin -- ta,
-    On -- de l’a -- ni -- ma mia __ dal do -- lor vin -- ta,
-    Men -- tre pian -- gen -- do~al -- lor se -- co s’a -- di -- ra,
+    On -- de l'a -- ni -- ma mia __ dal do -- lor vin -- ta,
+    On -- de l'a -- ni -- ma mia __ dal do -- lor vin -- ta,
+    Men -- tre pian -- gen -- do~al -- lor se -- co s'a -- di -- ra,
     Sciol -- ta dal son -- no~a se stes -- sa ri -- tor -- na,
         a se stes -- sa ri -- tor -- na,
     Sciol -- ta dal son -- no~a se stes -- sa ri -- tor -- na.

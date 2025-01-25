@@ -4,7 +4,7 @@
 % alletta gli occhi e incenerisce i cori.
 % 
 % E chi trescar vuol seco
-% s’è pargoletto e cieco;
+% s'è pargoletto e cieco;
 % sempre pronto al ferire
 % senza occhi o senno e non sa poi guarire.
 % 

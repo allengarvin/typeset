@@ -3,22 +3,22 @@
 % Cha su la strada?  Unde xe ‘l vostro mende
 % Xe fursi persa?  O ‘l cel pur strolonghèu?
 % 
-% Chello tiflos pedi chiè l’ale avèu
+% Chello tiflos pedi chiè l'ale avèu
 % Sul cor n'ha messo un frizza si punzende
 % Chie sia cavarla no vien ca presende
 % Chy xel casun nu morti ‘l vederèu.
 % 
 % Da sto fraschetto anga nu punti semo
-% Vegnì ch’andem‘ a piar un mendesina
+% Vegnì ch'andem‘ a piar un mendesina
 % Chie fa gariri tutti el namurai.
 % 
 % Maccari a spime gligora e truvemo
 % Remedio al cor chie stà com' in fusina
 % De la Vulcan li sbiriti dannai.
 % 
-% Andemo ch’oramai
+% Andemo ch'oramai
 % Xe tembo da garir al so despetto
-% De chest’amor ribaldo e maledetto.
+% De chest'amor ribaldo e maledetto.
 
 cantoOneXXXVIincipit = \relative c'' {
     \time 2/2
@@ -62,7 +62,7 @@ cantoOneLyricsXXXVI = \lyricmode {
 % Cha su la strada?  Unde xe ‘l vostro mende
 % Xe fursi persa?  O ‘l cel pur strolonghèu?
 % 
-    Chel -- lo ti -- flos pe -- di chiè __ l’a -- le~a -- vè -- u
+    Chel -- lo ti -- flos pe -- di chiè __ l'a -- le~a -- vè -- u
     Sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de,
     sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de
     Chie sia ca -- var -- la no vien ca pre -- sen -- de
@@ -70,7 +70,7 @@ cantoOneLyricsXXXVI = \lyricmode {
     chy xel ca -- sun nu mor -- ti‘l ve -- de -- rè -- u.
 % 
 % Da sto fraschetto anga nu punti semo
-% Vegnì ch’andem a piar un mendesina
+% Vegnì ch'andem a piar un mendesina
 % Chie fa gariri tutti el namurai.
 % 
     Mac -- ca -- ri a spi -- me gli -- go -- ra e __ tru -- ve -- mo
@@ -79,12 +79,12 @@ cantoOneLyricsXXXVI = \lyricmode {
     De la Vul -- can li sbi -- ri -- ti dan -- na -- i,
     de la Vul -- can li sbi -- ri -- ti dan -- na -- i.
  
-    An -- de -- mo ch’o -- ra -- ma -- i,
-    an -- de -- mo ch’o -- ra -- ma -- i
+    An -- de -- mo ch'o -- ra -- ma -- i,
+    an -- de -- mo ch'o -- ra -- ma -- i
     Xe tem -- bo da ga -- rir al so de -- spet -- to __
-    De che -- st’a -- mor __ ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to.
+    De che -- st'a -- mor __ ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to.
 }
 
 cantoTwoXXXVIincipit = \relative c'' {
@@ -131,7 +131,7 @@ cantoTwoLyricsXXXVI = \lyricmode {
     Xe fur -- si per -- sa?  O‘l cel pur stro -- lon -- ghè -- u?
         O‘l cel pur stro -- lon -- ghè -- u?
 % 
-%    Chel -- lo ti -- flos pe -- di chiè __ l’a -- le~a -- vè -- u
+%    Chel -- lo ti -- flos pe -- di chiè __ l'a -- le~a -- vè -- u
 %    Sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de,
 %    sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de
 %    Chie sia ca -- var -- la no vien ca pre -- sen -- de
@@ -139,8 +139,8 @@ cantoTwoLyricsXXXVI = \lyricmode {
 %    chy xel ca -- sun nu mor -- ti‘l ve -- de -- rè -- u.
 % 
     Da sto fra -- schet -- to an -- ga nu pun -- ti se -- mo
-    Ve -- gnì ch’an -- de -- m'a piar,
-    ve -- gnì ch’an -- de -- m'a piar un men -- de -- si -- na
+    Ve -- gnì ch'an -- de -- m'a piar,
+    ve -- gnì ch'an -- de -- m'a piar un men -- de -- si -- na
     Chie fa ga -- ri -- ri tut -- ti~el na -- mu -- ra -- i.
 % 
 %    Mac -- ca -- ri a spi -- me gli -- go -- ra e __ tru -- ve -- mo
@@ -149,12 +149,12 @@ cantoTwoLyricsXXXVI = \lyricmode {
 %    De la Vul -- can li sbi -- ri -- ti dan -- na -- i,
 %    de la Vul -- can li sbi -- ri -- ti dan -- na -- i.
  
-    An -- de -- mo ch’o -- ra -- ma -- i,
-    an -- de -- mo ch’o -- ra -- ma -- i
+    An -- de -- mo ch'o -- ra -- ma -- i,
+    an -- de -- mo ch'o -- ra -- ma -- i
     Xe tem -- bo da ga -- rir al so de -- spet -- to __
-    De che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to.
+    De che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to.
 }
 
 altoXXXVIincipit = \relative c'' {
@@ -200,7 +200,7 @@ altoLyricsXXXVI = \lyricmode {
 %    Xe fur -- si per -- sa?  O‘l cel pur stro -- lon -- ghè -- u?
 %        O‘l cel pur stro -- lon -- ghè -- u?
 %
-    Chel -- lo ti -- flos pe -- di chiè l’a -- le~a -- vè -- u
+    Chel -- lo ti -- flos pe -- di chiè l'a -- le~a -- vè -- u
     Sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de,
     sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de
     Chie sia ca -- var -- la no vien ca pre -- sen -- de
@@ -208,8 +208,8 @@ altoLyricsXXXVI = \lyricmode {
     chy xel ca -- sun nu mor -- ti‘l ve -- de -- rè -- u.
 
 %    Da sto fra -- schet -- to an -- ga nu pun -- ti se -- mo
-%    Ve -- gnì ch’an -- de -- m'a piar,
-%    ve -- gnì ch’an -- de -- m'a piar un men -- de -- si -- na
+%    Ve -- gnì ch'an -- de -- m'a piar,
+%    ve -- gnì ch'an -- de -- m'a piar un men -- de -- si -- na
 %    Chie fa ga -- ri -- ri tut -- ti~el na -- mu -- ra -- i.
 %
     Mac -- ca -- ri a spi -- me gli -- go -- ra e tru -- ve -- mo
@@ -218,13 +218,13 @@ altoLyricsXXXVI = \lyricmode {
     De la Vul -- can li sbi -- ri -- ti dan -- na -- i,
     de la Vul -- can li sbi -- ri -- ti dan -- na -- i.
 
-    An -- de -- mo ch’o -- ra -- ma -- i,
-    an -- de -- mo ch’o -- ra -- ma -- i
+    An -- de -- mo ch'o -- ra -- ma -- i,
+    an -- de -- mo ch'o -- ra -- ma -- i
     Xe tem -- bo da ga -- rir al so de -- spet -- to
-    De che -- st’a -- mor ri -- bal -- do,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
+    De che -- st'a -- mor ri -- bal -- do,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
         e ma -- le -- det -- to.
 }
 
@@ -279,7 +279,7 @@ sestaLyricsXXXVI = \lyricmode {
         O‘l cel pur stro -- lon -- ghè -- u?
         O‘l cel pur stro -- lon -- ghè -- u?
 %
-%    Chel -- lo ti -- flos pe -- di chiè l’a -- le~a -- vè -- u
+%    Chel -- lo ti -- flos pe -- di chiè l'a -- le~a -- vè -- u
 %    Sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de,
 %    sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de
 %    Chie sia ca -- var -- la no vien ca pre -- sen -- de
@@ -287,9 +287,9 @@ sestaLyricsXXXVI = \lyricmode {
 %    chy xel ca -- sun nu mor -- ti‘l ve -- de -- rè -- u.
 
     Da sto fra -- schet -- to an -- ga nu pun -- ti se -- mo
-    Ve -- gnì ch’an -- de -- m'a piar,
+    Ve -- gnì ch'an -- de -- m'a piar,
     \ijLyrics
-    ve -- gnì ch’an -- de -- m'a piar
+    ve -- gnì ch'an -- de -- m'a piar
     \normalLyrics
         un men -- de -- si -- na
     Chie fa ga -- ri -- ri tut -- ti~el na -- mu -- ra -- i.
@@ -300,18 +300,18 @@ sestaLyricsXXXVI = \lyricmode {
     De la Vul -- can li sbi -- ri -- ti dan -- na -- i,
     de la Vul -- can li sbi -- ri -- ti dan -- na -- i.
 
-    An -- de -- mo ch’o -- ra -- ma -- i,
+    An -- de -- mo ch'o -- ra -- ma -- i,
     \ijLyrics
-    an -- de -- mo ch’o -- ra -- ma -- i
+    an -- de -- mo ch'o -- ra -- ma -- i
     \normalLyrics
     Xe tem -- bo da ga -- rir __ al so de -- spet -- to
-    De che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
+    De che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
     \ijLyrics
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
     \normalLyrics
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
     \ijLyrics
-    de che -- st’a -- mor __ ri -- bal -- d’e ma -- le -- det -- to.
+    de che -- st'a -- mor __ ri -- bal -- d'e ma -- le -- det -- to.
     \normalLyrics
 }
 
@@ -367,7 +367,7 @@ tenoreLyricsXXXVI = \lyricmode {
     Xe fur -- si per -- sa?  O‘l cel pur stro -- lon -- ghè -- u?
         O‘l cel pur stro -- lon -- ghè -- u?
 
-    Chel -- lo ti -- flos pe -- di chiè l’a -- le~a -- vè -- u
+    Chel -- lo ti -- flos pe -- di chiè l'a -- le~a -- vè -- u
     Sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de,
         un friz -- za si pun -- zen -- de,
     Chie sia ca -- var -- la no vien ca pre -- sen -- de
@@ -375,8 +375,8 @@ tenoreLyricsXXXVI = \lyricmode {
     chy xel ca -- sun nu mor -- ti‘l ve -- de -- rè -- u.
 
 %    Da sto fra -- schet -- to an -- ga nu pun -- ti se -- mo
-%    Ve -- gnì ch’an -- de -- m'a piar,
-%    ve -- gnì ch’an -- de -- m'a piar un men -- de -- si -- na
+%    Ve -- gnì ch'an -- de -- m'a piar,
+%    ve -- gnì ch'an -- de -- m'a piar un men -- de -- si -- na
 %    Chie fa ga -- ri -- ri tut -- ti~el na -- mu -- ra -- i.
 %
     Mac -- ca -- ri a spi -- me gli -- go -- ra e __ tru -- ve -- mo
@@ -384,16 +384,16 @@ tenoreLyricsXXXVI = \lyricmode {
         chie stà co -- m'in fu -- si -- na
     De la Vul -- can li sbi -- ri -- ti dan -- na -- i.
 
-    An -- de -- mo ch’o -- ra -- ma -- i,
-    an -- de -- mo ch’o -- ra -- ma -- i
+    An -- de -- mo ch'o -- ra -- ma -- i,
+    an -- de -- mo ch'o -- ra -- ma -- i
     Xe tem -- bo da ga -- rir al so de -- spet -- to
         al so de -- spet -- to
-    De che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to.
+    De che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to.
 }
 
 bassoXXXVIincipit = \relative c' {
@@ -438,7 +438,7 @@ bassoLyricsXXXVI = \lyricmode {
     Xe fur -- si per -- sa?  O‘l cel pur stro -- lon -- ghè -- u?
         O‘l cel pur stro -- lon -- ghè -- u?
 %
-%    Chel -- lo ti -- flos pe -- di chiè l’a -- le~a -- vè -- u
+%    Chel -- lo ti -- flos pe -- di chiè l'a -- le~a -- vè -- u
 %    Sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de,
 %    sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de
 %    Chie sia ca -- var -- la no vien ca pre -- sen -- de
@@ -446,8 +446,8 @@ bassoLyricsXXXVI = \lyricmode {
 %    chy xel ca -- sun nu mor -- ti‘l ve -- de -- rè -- u.
 %
     Da sto fra -- schet -- to an -- ga nu pun -- ti se -- mo
-    Ve -- gnì ch’an -- de -- m'a piar,
-    ve -- gnì ch’an -- de -- m'a piar un men -- de -- si -- na
+    Ve -- gnì ch'an -- de -- m'a piar,
+    ve -- gnì ch'an -- de -- m'a piar un men -- de -- si -- na
     Chie fa ga -- ri -- ri tut -- ti~el na -- mu -- ra -- i.
 
 %    Mac -- ca -- ri a spi -- me gli -- go -- ra e tru -- ve -- mo
@@ -456,15 +456,15 @@ bassoLyricsXXXVI = \lyricmode {
 %    De la Vul -- can li sbi -- ri -- ti dan -- na -- i,
 %    de la Vul -- can li sbi -- ri -- ti dan -- na -- i.
 %
-    An -- de -- mo ch’o -- ra -- ma -- i,
-    an -- de -- mo ch’o -- ra -- ma -- i
+    An -- de -- mo ch'o -- ra -- ma -- i,
+    an -- de -- mo ch'o -- ra -- ma -- i
     Xe tem -- bo da ga -- rir al so de -- spet -- to
-    De che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor ri -- bal -- do,
-    de che -- st’a -- mor,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to.
+    De che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor ri -- bal -- do,
+    de che -- st'a -- mor,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to.
 }
 
 settimaXXXVIincipit = \relative c' {
@@ -510,7 +510,7 @@ settimaLyricsXXXVI = \lyricmode {
 %    Xe fur -- si per -- sa?  O‘l cel pur stro -- lon -- ghè -- u?
 %        O‘l cel pur stro -- lon -- ghè -- u?
 %
-    Chel -- lo ti -- flos pe -- di chiè l’a -- le~a -- vè -- u
+    Chel -- lo ti -- flos pe -- di chiè l'a -- le~a -- vè -- u
     Sul cor n'ha mes -- so,
     sul cor n'ha mes -- so~un friz -- za si pun -- zen -- de,
     Chie sia ca -- var -- la no vien ca pre -- sen -- de
@@ -518,8 +518,8 @@ settimaLyricsXXXVI = \lyricmode {
     chy xel ca -- sun nu mor -- ti‘l ve -- de -- rè -- u.
 
     Da sto fra -- schet -- to an -- ga nu pun -- ti se -- mo
-    Ve -- gnì ch’an -- de -- m'a piar,
-    ve -- gnì ch’an -- de -- m'a piar un men -- de -- si -- na
+    Ve -- gnì ch'an -- de -- m'a piar,
+    ve -- gnì ch'an -- de -- m'a piar un men -- de -- si -- na
     Chie fa ga -- ri -- ri tut -- ti~el na -- mu -- ra -- i.
 
 %    Mac -- ca -- ri a spi -- me gli -- go -- ra e tru -- ve -- mo
@@ -528,14 +528,14 @@ settimaLyricsXXXVI = \lyricmode {
 %    De la Vul -- can li sbi -- ri -- ti dan -- na -- i,
 %    de la Vul -- can li sbi -- ri -- ti dan -- na -- i.
 %
-    An -- de -- mo ch’o -- ra -- ma -- i,
-    an -- de -- mo ch’o -- ra -- ma -- i
+    An -- de -- mo ch'o -- ra -- ma -- i,
+    an -- de -- mo ch'o -- ra -- ma -- i
     Xe tem -- bo da ga -- rir al so de -- spet -- to,
         al so de -- spet -- to __
-    De che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor,
-    de che -- st’a -- mor ri -- bal -- d’e ma -- le -- det -- to,
-    de che -- st’a -- mor __ ri -- bal -- d’e __ ma -- le -- det -- to.
+    De che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor,
+    de che -- st'a -- mor ri -- bal -- d'e ma -- le -- det -- to,
+    de che -- st'a -- mor __ ri -- bal -- d'e __ ma -- le -- det -- to.
 }
 
 cantoOneXXXVIincipitVoice = <<

@@ -1,21 +1,21 @@
 % Petrarch 203
-% Lasso, ch’i’ ardo, et altri non me ’l crede;
+% Lasso, ch'i' ardo, et altri non me 'l crede;
 % sì crede ogni uom, se non sola colei
-% chè sovr’ogni altra, et ch’i’ sola, vorrei:
-% ella non par che ’l creda, et sì sel vede.
+% chè sovr'ogni altra, et ch'i' sola, vorrei:
+% ella non par che 'l creda, et sì sel vede.
 % 
 % Infinita bellezza et poca fede,
-% non vedete voi ’l cor ne gli occhi mei?
-% Se non fusse mia stella, i’ pur devrei
+% non vedete voi 'l cor ne gli occhi mei?
+% Se non fusse mia stella, i' pur devrei
 % al fonte di pietà trovar mercede.
 % 
-% Quest’arder mio, di che vi cal sí poco,
+% Quest'arder mio, di che vi cal sí poco,
 % e i vostri honori, in mie rime diffusi,
-% ne porian infiammar fors’anchor mille:
+% ne porian infiammar fors'anchor mille:
 % 
-% ch’i’ veggio nel penser, dolce mio foco,
+% ch'i' veggio nel penser, dolce mio foco,
 % fredda una lingua et duo belli occhi chiusi
-% rimaner, dopo noi, pien’ di faville.
+% rimaner, dopo noi, pien' di faville.
 
 cantusVIIincipit = \relative c' {
     \time 2/2
@@ -58,22 +58,22 @@ cantusVII = \relative c' {
 }
 
 cantusLyricsVII = \lyricmode {
-    Las -- so, ch’i ar -- do, et al -- tri non me’l cre -- de,
+    Las -- so, ch'i ar -- do, et al -- tri non me'l cre -- de,
     Sì cre -- de~o -- gni~uom, se __ non so -- la co -- le -- i
-    Che so -- vr’o -- gni~al -- tra, 
-    Che so -- vr’o -- gni~al -- tra, et ch’i’ so -- la, vor -- re -- i:
-        et ch’i’ so -- la, vor -- re -- i:
-        et ch’i’ so -- la, vor -- re -- i:
-    El -- la non par che’l cre -- da, et sì sel ve -- de,
-    El -- la non par che’l cre -- da, et sì sel ve -- de.
+    Che so -- vr'o -- gni~al -- tra, 
+    Che so -- vr'o -- gni~al -- tra, et ch'i' so -- la, vor -- re -- i:
+        et ch'i' so -- la, vor -- re -- i:
+        et ch'i' so -- la, vor -- re -- i:
+    El -- la non par che'l cre -- da, et sì sel ve -- de,
+    El -- la non par che'l cre -- da, et sì sel ve -- de.
 
     In -- fi -- ni -- ta bel -- lez -- za et po -- ca fe -- de,
-    Non ve -- de -- te voi’l cor ne gli~oc -- chi mie -- i?
-    Non ve -- de -- te voi’l cor ne gli~oc -- chi mie -- i?
-    Se non fus -- se mia stel -- la, __ i’ pur de -- vrei
+    Non ve -- de -- te voi'l cor ne gli~oc -- chi mie -- i?
+    Non ve -- de -- te voi'l cor ne gli~oc -- chi mie -- i?
+    Se non fus -- se mia stel -- la, __ i' pur de -- vrei
     Al fon -- te di pie -- tà tro -- var mer -- ce -- de,
         tro -- var mer -- ce -- de,
-        i’ pur de -- vrei
+        i' pur de -- vrei
     Al fon -- te di pie -- tà tro -- var mer -- ce -- de.
 }
 
@@ -122,22 +122,22 @@ altusVII = \relative c' {
 }
 
 altusLyricsVII = \lyricmode {
-    Las -- so, __ ch’i ar -- do, et al -- tri non me’l cre -- de,
+    Las -- so, __ ch'i ar -- do, et al -- tri non me'l cre -- de,
     Sì cre -- de~o -- gni~uom, se non so -- la __ co -- le -- i
-    Che so -- vr’o -- gni~al -- tra, 
-    Che so -- vr’o -- gni~al -- tra, __ et __ ch’i’ so -- la, vor -- re -- i:
-        et ch’i’ so -- la, vor -- re -- i:
-        et ch’i’ so -- la, vor -- re -- i:
-    El -- la non par che’l cre -- da, et sì sel ve -- de,
-    El -- la non par che’l cre -- da, et sì sel ve -- de~et sì sel ve -- de.
+    Che so -- vr'o -- gni~al -- tra, 
+    Che so -- vr'o -- gni~al -- tra, __ et __ ch'i' so -- la, vor -- re -- i:
+        et ch'i' so -- la, vor -- re -- i:
+        et ch'i' so -- la, vor -- re -- i:
+    El -- la non par che'l cre -- da, et sì sel ve -- de,
+    El -- la non par che'l cre -- da, et sì sel ve -- de~et sì sel ve -- de.
 
     In -- fi -- ni -- ta bel -- lez -- za et po -- ca fe -- de,
-    Non ve -- de -- te voi’l cor ne gli~oc -- chi mie -- i?
-    Non ve -- de -- te voi’l cor ne gli~oc -- chi mie -- i?
+    Non ve -- de -- te voi'l cor ne gli~oc -- chi mie -- i?
+    Non ve -- de -- te voi'l cor ne gli~oc -- chi mie -- i?
         ne gli~oc -- chi mie -- i?
-    Se non fus -- se mia stel -- la, i’ pur de -- vrei __
+    Se non fus -- se mia stel -- la, i' pur de -- vrei __
     Al fon -- te di pie -- tà tro -- var mer -- ce -- de,
-        i’ pur de -- vrei __
+        i' pur de -- vrei __
     Al fon -- te di pie -- tà tro -- var mer -- ce -- de.
 }
 
@@ -185,21 +185,21 @@ tenorVII = \relative c {
 }
 
 tenorLyricsVII = \lyricmode {
-    Las -- so, ch’i ar -- do, et al -- tri non me’l cre -- de,
+    Las -- so, ch'i ar -- do, et al -- tri non me'l cre -- de,
     Sì cre -- de~o -- gni~uom, se non so -- la co -- le -- i
-    Che so -- vr’o -- gni~al -- tra, et ch’i’ so -- la, __ vor -- re -- i:
-        et ch’i’ so -- la, __ vor -- re -- i:
-        et ch’i’ so -- la, vor -- re -- i:
+    Che so -- vr'o -- gni~al -- tra, et ch'i' so -- la, __ vor -- re -- i:
+        et ch'i' so -- la, __ vor -- re -- i:
+        et ch'i' so -- la, vor -- re -- i:
             so -- la, vor -- re -- i:
-    El -- la non par che’l cre -- da, et sì sel ve -- de,
-    El -- la non par __ che’l cre -- da, et sì sel ve -- de.
+    El -- la non par che'l cre -- da, et sì sel ve -- de,
+    El -- la non par __ che'l cre -- da, et sì sel ve -- de.
 
     In -- fi -- ni -- ta bel -- lez -- za et po -- ca fe -- de,
-    Non __ ve -- de -- te voi’l cor ne gli~oc -- chi mie -- i?
-    Non __ ve -- de -- te voi’l cor ne gli~oc -- chi mie -- i?
-    Se non fus -- se mia stel -- la, i’ pur de -- vrei __
+    Non __ ve -- de -- te voi'l cor ne gli~oc -- chi mie -- i?
+    Non __ ve -- de -- te voi'l cor ne gli~oc -- chi mie -- i?
+    Se non fus -- se mia stel -- la, i' pur de -- vrei __
     Al fon -- te di pie -- tà tro -- var mer -- ce -- de,
-        i’ pur de -- vrei __
+        i' pur de -- vrei __
     Al fon -- te di pie -- tà tro -- var mer -- ce -- de.
 }
 
@@ -245,22 +245,22 @@ bassusVII = \relative c {
 }
 
 bassusLyricsVII = \lyricmode {
-    Las -- so, __ ch’i ar -- do, et al -- tri non me’l cre -- de,
+    Las -- so, __ ch'i ar -- do, et al -- tri non me'l cre -- de,
     Sì cre -- de~o -- gni~uom,
     Sì cre -- de~o -- gni~uom, se non so -- la co -- le -- i
-    Che so -- vr’o -- gni~al -- tra, 
-    Che so -- vr’o -- gni~al -- tra, et ch’i’ so -- la, vor -- re -- i:
-        et __ ch’i’ so -- la, vor -- re -- i:
-        et ch’i’ so -- la, vor -- re -- i:
-    El -- la non par che’l cre -- da, et sì sel ve -- de,
-    El -- la non par che’l cre -- da, et sì sel ve -- de~et sì sel ve -- de.
+    Che so -- vr'o -- gni~al -- tra, 
+    Che so -- vr'o -- gni~al -- tra, et ch'i' so -- la, vor -- re -- i:
+        et __ ch'i' so -- la, vor -- re -- i:
+        et ch'i' so -- la, vor -- re -- i:
+    El -- la non par che'l cre -- da, et sì sel ve -- de,
+    El -- la non par che'l cre -- da, et sì sel ve -- de~et sì sel ve -- de.
 
     In -- fi -- ni -- ta bel -- lez -- za et po -- ca fe -- de, __
-    Non ve -- de -- te voi’l cor ne gli~oc -- chi mie -- i?
-    Non ve -- de -- te voi’l cor ne gli~oc -- chi mie -- i?
-    Se non fus -- se __ mia stel -- la, __ i’ pur de -- vrei __
+    Non ve -- de -- te voi'l cor ne gli~oc -- chi mie -- i?
+    Non ve -- de -- te voi'l cor ne gli~oc -- chi mie -- i?
+    Se non fus -- se __ mia stel -- la, __ i' pur de -- vrei __
     Al fon -- te di __ pie -- tà tro -- var mer -- ce -- de,
-        i’ pur de -- vrei
+        i' pur de -- vrei
     Al fon -- te di pie -- tà tro -- var mer -- ce -- de.
 }
 

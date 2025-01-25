@@ -1,8 +1,8 @@
 %    23     Deh, perché voglio anco di me dolermi?
-%           Ch’error, se non d’amarti, unqua commessi?
+%           Ch'error, se non d'amarti, unqua commessi?
 %           Che meraviglia, se fragili e infermi
 %           feminil sensi fur subito oppressi?
-%           Perché dovev’io usar ripari e schermi
+%           Perché dovev'io usar ripari e schermi
 %           che la somma beltà non mi piacessi,
 %           gli alti sembianti e le saggie parole?
 %           Misero è ben chi veder schiva il sole!
@@ -39,12 +39,12 @@ cantoVII = \relative c'' {
 cantoLyricsVII = \lyricmode {
     Deh, 
     deh, per -- ché vo -- glio~an -- co di me do -- ler -- mi?
-    Ch’er -- ror, se non d’a -- mar -- ti~un -- qua com -- mes -- si?
+    Ch'er -- ror, se non d'a -- mar -- ti~un -- qua com -- mes -- si?
     Che me -- ra -- vi -- glia, se fra -- gi -- li e~in -- fer -- mi
     Fe -- mi -- nil sen -- si fur su -- bi -- to,
         fur su -- bi -- to,    
         fur su -- bi -- t'op -- pres -- si?
-    Per -- ché __ do -- ve -- v’io~u -- sar ri -- pa -- ri~e scher -- mi,
+    Per -- ché __ do -- ve -- v'io~u -- sar ri -- pa -- ri~e scher -- mi,
         ri -- pa -- ri~e scher -- mi
     Che la som -- ma bel -- tà non mi pia -- ces -- si,
     Gli~al -- ti sem -- bian -- ti,
@@ -94,13 +94,13 @@ tenoreVII = \relative c' {
 tenoreLyricsVII = \lyricmode {
     Deh,
     deh, __ per -- ché vo -- glio~an -- co di me do -- ler -- mi?
-    Ch’er -- ror, se non d’a -- mar -- ti~un -- qua com -- mes -- si?
-    ch’er -- ror, se non d’a -- mar -- ti~un -- qua com -- mes -- si?
+    Ch'er -- ror, se non d'a -- mar -- ti~un -- qua com -- mes -- si?
+    ch'er -- ror, se non d'a -- mar -- ti~un -- qua com -- mes -- si?
     Che me -- ra -- vi -- glia, se fra -- gi -- li e~in -- fer -- mi
     Fe -- mi -- nil sen -- si fur su -- bi -- to,
         fur su -- bi -- to,
         fur su -- bi -- t'op -- pres -- si?
-    Per -- ché do -- ve -- v’io~u -- sar ri -- pa -- ri~e scher -- mi,
+    Per -- ché do -- ve -- v'io~u -- sar ri -- pa -- ri~e scher -- mi,
         ri -- pa -- ri~e scher -- mi,
         ri -- pa -- ri~e scher -- mi,
         ri -- pa -- ri~e scher -- mi
@@ -147,12 +147,12 @@ bassoVII = \relative c' {
 bassoLyricsVII = \lyricmode {
     Deh,
     deh, per -- ché vo -- glio~an -- co di me do -- ler -- mi?
-    Ch’er -- ror, se non d’a -- mar -- ti~un -- qua com -- mes -- si?
+    Ch'er -- ror, se non d'a -- mar -- ti~un -- qua com -- mes -- si?
     Che me -- ra -- vi -- glia, se fra -- gi -- li e~in -- fer -- mi
     Fe -- mi -- nil sen -- si fur su -- bi -- to,
         fur su -- bi -- to,
         fur su -- bi -- t'op -- pres -- si?
-    Per -- ché do -- ve -- v’io~u -- sar ri -- pa -- ri~e scher -- mi,
+    Per -- ché do -- ve -- v'io~u -- sar ri -- pa -- ri~e scher -- mi,
         ri -- pa -- ri~e scher -- mi,
         ri -- pa -- ri~e scher -- mi
     Che la som -- ma bel -- tà non mi pia -- ces -- si,

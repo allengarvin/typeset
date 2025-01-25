@@ -1,6 +1,6 @@
 % Occhi lucenti assai più che le stelle
 % Riguarda omai il tuo servo fidele.
-% Deh, non esser crudele e non voler ch’io mora:
+% Deh, non esser crudele e non voler ch'io mora:
 % Basciami, vita mia, bacciami ancora.
 
 cantusIincipit = \relative c'' {
@@ -40,13 +40,13 @@ cantusLyricsI = \lyricmode {
     Oc -- chi lu -- cen -- ti~as -- sai più che __ le stel -- le
 
     Ri -- guar -- da~o -- mai il tuo ser -- vo fi -- de -- le.
-    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch’io mo -- ra:
+    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch'io mo -- ra:
     Ba -- scia -- mi, vi -- ta mi -- a, 
         ba -- scia -- mi,
         ba -- scia -- mi~an -- co -- ra;
 
     Ri -- guar -- da~o -- mai il tuo ser -- vo fi -- de -- le.
-    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch’io mo -- ra:
+    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch'io mo -- ra:
     Ba -- scia -- mi, vi -- ta mi -- a, 
         ba -- scia -- mi,
         ba -- scia -- mi~an -- co -- ra.
@@ -87,13 +87,13 @@ altusLyricsI = \lyricmode {
     Oc -- chi lu -- cen -- ti~as -- sai più che __ le stel -- le
 
     Ri -- guar -- da~o -- mai il tuo ser -- vo fi -- de -- le.
-    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch’io mo -- ra:
+    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch'io mo -- ra:
     Ba -- scia -- mi, vi -- ta mi -- a, 
         ba -- scia -- mi,
         ba -- scia -- mi~an -- co -- ra;
 
     Ri -- guar -- da~o -- mai il tuo ser -- vo fi -- de -- le.
-    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch’io mo -- ra:
+    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch'io mo -- ra:
     Ba -- scia -- mi, vi -- ta mi -- a, 
         ba -- scia -- mi,
         ba -- scia -- mi~an -- co -- ra.
@@ -135,13 +135,13 @@ tenorLyricsI = \lyricmode {
     Oc -- chi lu -- cen -- ti~as -- sai più che __ le stel -- le
 
     Ri -- guar -- da~o -- mai il tuo ser -- vo fi -- de -- le.
-    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch’io mo -- ra:
+    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch'io mo -- ra:
     Ba -- scia -- mi, vi -- ta mi -- a, 
         ba -- scia -- mi,
         ba -- scia -- mi~an -- co -- ra;
 
     Ri -- guar -- da~o -- mai il tuo ser -- vo fi -- de -- le.
-    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch’io mo -- ra:
+    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch'io mo -- ra:
     Ba -- scia -- mi, vi -- ta mi -- a, 
         ba -- scia -- mi,
         ba -- scia -- mi~an -- co -- ra.
@@ -183,13 +183,13 @@ bassusLyricsI = \lyricmode {
     Oc -- chi lu -- cen -- ti~as -- sai più che __ le stel -- le
 
     Ri -- guar -- da~o -- mai il tuo ser -- vo fi -- de -- le.
-    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch’io mo -- ra:
+    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch'io mo -- ra:
     Ba -- scia -- mi, vi -- ta mi -- a, 
         ba -- scia -- mi,
         ba -- scia -- mi~an -- co -- ra;
 
     Ri -- guar -- da~o -- mai il tuo ser -- vo fi -- de -- le.
-    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch’io mo -- ra:
+    Deh, non es -- ser __ cru -- de -- le e non vo -- ler ch'io mo -- ra:
     Ba -- scia -- mi, vi -- ta mi -- a, 
         ba -- scia -- mi,
         ba -- scia -- mi~an -- co -- ra.

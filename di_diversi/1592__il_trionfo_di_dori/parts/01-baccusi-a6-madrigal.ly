@@ -1,6 +1,6 @@
 %Un giorno a Pale sacro
 %In un bel prato ameno,
-%Concorsero i pastori l’Arcade ninfe,
+%Concorsero i pastori l'Arcade ninfe,
 %Dei boschi e monti e delle chiare linfe
 %Fauni, Silvan, Sileno,
 %Chi cantava chi al suono,
@@ -8,7 +8,7 @@
 %Chi di bella ghirlanda facea dono
 %Al suo ben al suo sole,
 %Quando con dolci accenti,
-%Il boscareccio stuol’e i pastori,
+%Il boscareccio stuol'e i pastori,
 %Cantaro ed iterar le note i venti,
 %Viva la bella Dori.
 
@@ -73,7 +73,7 @@ cantoLyricsI = \lyricmode {
     con -- cor -- se -- ro~i pa -- stor,
     con -- cor -- se -- ro~i pa -- stor 
     \normalLyrics
-        l’Ar -- ca -- de nin -- fe,
+        l'Ar -- ca -- de nin -- fe,
     Dei bo -- schi~e mon -- ti,
     \ijLyrics
     dei bo -- schi~e mon -- ti,
@@ -165,7 +165,7 @@ altoI = \relative c'' {
 altoLyricsI = \lyricmode {
     Un gior -- no~a Pa -- le sa -- cro
     In un bel pra -- to~a -- me -- no,
-    Con -- cor -- se -- ro~i pa -- stor l’Ar -- ca -- de nin -- fe,
+    Con -- cor -- se -- ro~i pa -- stor l'Ar -- ca -- de nin -- fe,
     con -- cor -- se -- ro~i pa -- stor,
     Dei bo -- schi~e mon -- ti, e del -- le chia -- re lin -- fe
     Fau -- ni, Sil -- van, Si -- le -- no,
@@ -259,7 +259,7 @@ tenoreLyricsI = \lyricmode {
     \ijLyrics
     con -- cor -- se -- ro~i pa -- stor,
     \normalLyrics
-        l’Ar -- ca -- de nin -- fe,
+        l'Ar -- ca -- de nin -- fe,
     Dei bo -- schi~e mon -- ti,
         e del -- le chia -- re lin -- fe
     Fau -- ni, Sil -- van, Si -- le -- no,
@@ -347,7 +347,7 @@ bassoLyricsI = \lyricmode {
     \ijLyrics
     con -- cor -- se -- ro~i pa -- stor
     \normalLyrics
-        l’Ar -- ca -- de nin -- fe,
+        l'Ar -- ca -- de nin -- fe,
     Dei bo -- schi~e mon -- ti,
     \ijLyrics
     dei bo -- schi~e mon -- ti,
@@ -431,7 +431,7 @@ quintoLyricsI = \lyricmode {
     Un gior -- no~a Pa -- le sa -- cro
 %    In un bel pra -- to~a -- me -- no,
 %    in un bel pra -- to~a -- me -- no,
-    Con -- cor -- se -- ro~i pa -- stor l’Ar -- ca -- de nin -- fe,
+    Con -- cor -- se -- ro~i pa -- stor l'Ar -- ca -- de nin -- fe,
     con -- cor -- se -- ro~i pa -- stor,
     Dei bo -- schi~e mon -- ti,
     dei bo -- schi~e mon -- ti
@@ -519,8 +519,8 @@ sestoLyricsI = \lyricmode {
     Un gior -- no~a Pa -- le sa -- cro
     In un bel pra -- to~a -- me -- no,
     in un bel pra -- to~a -- me -- no,
-    Con -- cor -- se -- ro~i pa -- stor l’Ar -- ca -- de nin -- fe,
-    con -- cor -- se -- ro~i pa -- stor l’Ar -- ca -- de nin -- fe,
+    Con -- cor -- se -- ro~i pa -- stor l'Ar -- ca -- de nin -- fe,
+    con -- cor -- se -- ro~i pa -- stor l'Ar -- ca -- de nin -- fe,
     Dei bo -- schi~e mon -- ti, e del -- le chia -- re lin -- fe
     Fau -- ni, Sil -- van, __ Si -- le -- no,
         Si -- le -- no,

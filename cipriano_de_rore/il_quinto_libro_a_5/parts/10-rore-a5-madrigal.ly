@@ -4,7 +4,7 @@
 % Che fa lieve ogni male.
 % Ma quel, che mi tormenta,
 % È che del mio morir siete contenta,
-% E ch’al primo veder d’altro amatore
+% E ch'al primo veder d'altro amatore
 % Cangiaste il vostro core.
 % Non è dunque martire
 % Il convenir per voi, donna, morire?
@@ -55,7 +55,7 @@ cantoLyricsX = \lyricmode {
     ma quel che mi tor -- men -- ta,
     È che del mio mo -- rir __ sie -- te con -- ten -- ta,
     è che del mio mo -- rir sie -- te con -- ten -- ta,
-    E ch’al pri -- mo ve -- der d’al -- tro~a -- ma -- to -- re
+    E ch'al pri -- mo ve -- der d'al -- tro~a -- ma -- to -- re
     Can -- gia -- ste~il vo -- stro co -- re.
 
     Non è dun -- que __ mar -- ti -- re
@@ -112,7 +112,7 @@ altoLyricsX = \lyricmode {
     ma quel che mi tor -- men -- ta,
     È che del mio mo -- rir sie -- te con -- ten -- ta,
     è che del mio mo -- rir sie -- te con -- ten -- ta,
-    E ch’al pri -- mo ve -- der d’al -- tro~a -- ma -- to -- re
+    E ch'al pri -- mo ve -- der d'al -- tro~a -- ma -- to -- re
     Can -- gia -- ste~il vo -- stro co -- re.
 
     Non è dun -- que __ mar -- ti -- re
@@ -173,7 +173,7 @@ tenoreLyricsX = \lyricmode {
     ma quel che mi tor -- men -- ta,
     È che del mio mo -- rir sie -- te con -- ten -- ta,
     è che del mio mo -- rir sie -- te con -- ten -- ta.
-%    E ch’al pri -- mo ve -- der d’al -- tro~a -- ma -- to -- re
+%    E ch'al pri -- mo ve -- der d'al -- tro~a -- ma -- to -- re
 %    Can -- gia -- ste~il vo -- stro co -- re.
 
     Non è dun -- que mar -- ti -- re
@@ -232,7 +232,7 @@ bassoLyricsX = \lyricmode {
     ma quel che mi tor -- men -- ta,
     È che del mio mo -- rir sie -- te con -- ten -- ta,
     è che del mio mo -- rir sie -- te con -- ten -- ta.
-%    E ch’al pri -- mo ve -- der d’al -- tro~a -- ma -- to -- re
+%    E ch'al pri -- mo ve -- der d'al -- tro~a -- ma -- to -- re
 %    Can -- gia -- ste~il vo -- stro co -- re.
 
     Non è dun -- que mar -- ti -- re
@@ -291,7 +291,7 @@ quintoLyricsX = \lyricmode {
     ma quel che mi tor -- men -- ta, __
     È che del mio mo -- rir sie -- te con -- ten -- ta,
     è che del mio mo -- rir sie -- te con -- ten -- ta,
-    E ch’al pri -- mo ve -- der d’al -- tro~a -- ma -- to -- re
+    E ch'al pri -- mo ve -- der d'al -- tro~a -- ma -- to -- re
     Can -- gia -- ste~il vo -- stro co -- re.
 
     Non è dun -- que __ mar -- ti -- re

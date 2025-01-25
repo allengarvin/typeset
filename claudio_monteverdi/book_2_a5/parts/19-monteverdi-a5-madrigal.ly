@@ -1,9 +1,9 @@
 % Non mi è grave il morire,
 % donna, per acquetar vostro desire,
-% anzi il viver m’annoia,
-% sapendo esser voler vostro ch’io moia.
+% anzi il viver m'annoia,
+% sapendo esser voler vostro ch'io moia.
 % Ben morrei più contento,
-% s’io fossi innanzi a voi di vita spento,
+% s'io fossi innanzi a voi di vita spento,
 % e vi vedessi a sorte
 % lagrimar per pietà del -- la mia morte.
 
@@ -48,26 +48,26 @@ cantoXIX = \relative c'' {
 cantoLyricsXIX = \lyricmode {
 %    Non mi~è gra -- ve~il mo -- ri -- re,
 %    Don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
-    An -- zi~il vi -- ver m’an -- no -- ia,
+    An -- zi~il vi -- ver m'an -- no -- ia,
     Non mi~è gra -- ve~il mo -- ri -- re,
     \ijLyrics
     non __ mi~è gra -- ve~il mo -- ri -- re,
     \normalLyrics
     Don -- na, per ac -- que -- tar,
     don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
-    an -- zi~il vi -- ver m’an -- no -- ia,
+    an -- zi~il vi -- ver m'an -- no -- ia,
     \ijLyrics
-    an -- zi~il vi -- ver m’an -- no -- ia,
+    an -- zi~il vi -- ver m'an -- no -- ia,
     \normalLyrics
-    an -- zi~il vi -- ver m’an -- no -- ia,
-    Sa -- pen -- do~es -- ser __ vo -- ler vo -- stro __ ch’io mo -- ia,
-    an -- zi~il vi -- ver m’an -- no -- ia,
-    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch’io mo -- ia.
+    an -- zi~il vi -- ver m'an -- no -- ia,
+    Sa -- pen -- do~es -- ser __ vo -- ler vo -- stro __ ch'io mo -- ia,
+    an -- zi~il vi -- ver m'an -- no -- ia,
+    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch'io mo -- ia.
 
     Ben __ mor -- rei più con -- ten -- to,
-    S’io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
+    S'io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
     ben mor -- rei più con -- ten -- to,
-    s’io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
+    s'io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
     E vi ve -- des -- si~a sor -- te
     La -- gri -- mar,
     \ijLyrics
@@ -121,26 +121,26 @@ altoLyricsXIX = \lyricmode {
     Don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
     non __ mi~è gra -- ve~il mo -- ri -- re,
     don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
-    An -- zi~il vi -- ver m’an -- no -- ia,
+    An -- zi~il vi -- ver m'an -- no -- ia,
     \ijLyrics
-    an -- zi~il vi -- ver m’an -- no -- ia,
+    an -- zi~il vi -- ver m'an -- no -- ia,
     \normalLyrics
     don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
-    an -- zi~il vi -- ver m’an -- no -- ia,
-    Sa -- pen -- do~es -- ser vo -- ler vo -- stro ch’io mo -- ia,
-    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch’io mo -- ia,
-        vo -- stro ch’io mo -- ia,
-            ch’io mo -- ia.
+    an -- zi~il vi -- ver m'an -- no -- ia,
+    Sa -- pen -- do~es -- ser vo -- ler vo -- stro ch'io mo -- ia,
+    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch'io mo -- ia,
+        vo -- stro ch'io mo -- ia,
+            ch'io mo -- ia.
 
     Ben __ mor -- rei più con -- ten -- to,
-    S’io fos -- si~in -- nan -- zi~a voi,
+    S'io fos -- si~in -- nan -- zi~a voi,
     \ijLyrics
-    s’io fos -- si~in -- nan -- zi~a voi
+    s'io fos -- si~in -- nan -- zi~a voi
     \normalLyrics
         di vi -- ta spen -- to,
     ben mor -- rei più con -- ten -- to,
-    s’io fos -- si~in -- nan -- zi~a voi,
-    s’io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
+    s'io fos -- si~in -- nan -- zi~a voi,
+    s'io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
     E vi ve -- des -- si~a sor -- te
     La -- gri -- mar per pie -- tà,
     La -- gri -- mar,
@@ -192,19 +192,19 @@ tenoreLyricsXIX = \lyricmode {
 %    Non mi~è gra -- ve~il mo -- ri -- re,
     Don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
     don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
-    An -- zi~il vi -- ver m’an -- no -- ia,
-    an -- zi~il vi -- ver m’an -- no -- ia,
+    An -- zi~il vi -- ver m'an -- no -- ia,
+    an -- zi~il vi -- ver m'an -- no -- ia,
     Non mi~è gra -- ve~il mo -- ri -- re,
     don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
-    an -- zi~il vi -- ver m’an -- no -- ia,
-    Sa -- pen -- do~es -- ser __ vo -- ler vo -- stro ch’io mo -- ia,
-    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch’io mo -- ia,
-    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch’io mo -- ia.
+    an -- zi~il vi -- ver m'an -- no -- ia,
+    Sa -- pen -- do~es -- ser __ vo -- ler vo -- stro ch'io mo -- ia,
+    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch'io mo -- ia,
+    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch'io mo -- ia.
 
     Ben mor -- rei più con -- ten -- to,
-    S’io fos -- si~in -- nan -- zi~a voi,
+    S'io fos -- si~in -- nan -- zi~a voi,
     ben mor -- rei più con -- ten -- to,
-    s’io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
+    s'io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
     E vi ve -- des -- si~a sor -- te
     La -- gri -- mar __ per pie -- tà,
     la -- gri -- mar per pie -- tà __ del -- la __ mia mor -- te.
@@ -245,22 +245,22 @@ bassoXIX = \relative c {
 bassoLyricsXIX = \lyricmode {
 %    Non mi~è gra -- ve~il mo -- ri -- re,
 %    Don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
-    An -- zi~il vi -- ver m’an -- no -- ia,
+    An -- zi~il vi -- ver m'an -- no -- ia,
     \ijLyrics
-    an -- zi~il vi -- ver m’an -- no -- ia,
+    an -- zi~il vi -- ver m'an -- no -- ia,
     \normalLyrics
     Non mi~è gra -- ve~il mo -- ri -- re,
     Don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
-    an -- zi~il vi -- ver m’an -- no -- ia,
+    an -- zi~il vi -- ver m'an -- no -- ia,
     \ijLyrics
-    an -- zi~il vi -- ver m’an -- no -- ia,
+    an -- zi~il vi -- ver m'an -- no -- ia,
     \normalLyrics
-    Sa -- pen -- do~es -- ser vo -- ler vo -- stro ch’io mo -- ia.
+    Sa -- pen -- do~es -- ser vo -- ler vo -- stro ch'io mo -- ia.
 
     Ben __ mor -- rei più con -- ten -- to,
-    S’io fos -- si~in -- nan -- zi~a voi,
+    S'io fos -- si~in -- nan -- zi~a voi,
     ben mor -- rei più con -- ten -- to,
-    s’io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
+    s'io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
     E vi ve -- des -- si~a sor -- te
     La -- gri -- mar per pie -- tà,
     la -- gri -- mar per pie -- tà __ del -- la mia mor -- te.
@@ -314,15 +314,15 @@ quintoLyricsXIX = \lyricmode {
     \normalLyrics
         vo -- stro de -- si -- re,
     don -- na, per ac -- que -- tar vo -- stro de -- si -- re,
-    An -- zi~il vi -- ver m’an -- no -- ia,
+    An -- zi~il vi -- ver m'an -- no -- ia,
     Sa -- pen -- do~es -- ser vo -- ler __ vo -- stro,
-    an -- zi~il vi -- ver m’an -- no -- ia,
-    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch’io mo -- ia.
+    an -- zi~il vi -- ver m'an -- no -- ia,
+    sa -- pen -- do~es -- ser vo -- ler vo -- stro ch'io mo -- ia.
 
     Ben __ mor -- rei più con -- ten -- to,
-    S’io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
+    S'io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
     ben mor -- rei più con -- ten -- to,
-    s’io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
+    s'io fos -- si~in -- nan -- zi~a voi di vi -- ta spen -- to,
     E vi ve -- des -- si~a sor -- te
     La -- gri -- mar per pie -- tà, __
     \ijLyrics

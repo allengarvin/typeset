@@ -1,9 +1,9 @@
 % Parte il corpo da voi, ma con voi resta
-% l’alma dolente e mesta.
+% l'alma dolente e mesta.
 % E vivo? Ahi, non è vivo
-% chi va de l’alma privo!
+% chi va de l'alma privo!
 % Morto, morto son io,
-% ché partendo m’ha ucciso il dolor mio.
+% ché partendo m'ha ucciso il dolor mio.
 
 % this part is missing from the liner notes:
 % E se pur vivo, questa vostra beltà
@@ -56,15 +56,15 @@ cantoXV = \relative c'' {
 cantoLyricsXV = \lyricmode {
     Par -- te~il cor -- po da voi,
     par -- te~il cor -- po da voi, ma con voi re -- sta
-    L’al -- ma do -- len -- te~e me -- sta.
+    L'al -- ma do -- len -- te~e me -- sta.
     E vi -- vo?  Ahi, non è vi -- vo
     \ijLyrics
         ahi, __ non è vi -- vo
     \normalLyrics
-    Chi va de l’al -- ma pri -- vo!
+    Chi va de l'al -- ma pri -- vo!
 %    Mor -- to, mor -- to son' i -- o,
         Mor -- to son' i -- o,
-    Ché par -- ten -- do m’ha~uc -- ci -- so~il do -- lor mi -- o,
+    Ché par -- ten -- do m'ha~uc -- ci -- so~il do -- lor mi -- o,
     E se pur vi -- vo, que -- sta vo -- stra bel -- tà
     Ch'io den -- tro~al cor scol -- pi -- ta:
     Del -- l'al -- ma~in -- ve -- ce mi man -- tie -- ne~in vi -- ta,
@@ -113,14 +113,14 @@ altoXV = \relative c' {
 altoLyricsXV = \lyricmode {
     Par -- te~il cor -- po da voi,
     par -- te~il cor -- po da voi, ma con voi re -- sta
-    L’al -- ma do -- len -- te~e me -- sta,
+    L'al -- ma do -- len -- te~e me -- sta,
         ma con voi re -- sta
-    l’al -- ma do -- len -- te~e me -- sta.
+    l'al -- ma do -- len -- te~e me -- sta.
     E vi -- vo?  Ahi, non è vi -- vo
-    Chi va de l’al -- ma pri -- vo!
+    Chi va de l'al -- ma pri -- vo!
     Mor -- to, mor -- to son' i -- o,
         mor -- to son' i -- o,
-    Ché par -- ten -- do m’ha~uc -- ci -- so~il do -- lor mi -- o,
+    Ché par -- ten -- do m'ha~uc -- ci -- so~il do -- lor mi -- o,
     E se pur vi -- vo, que -- sta vo -- stra bel -- tà
     Ch'io den -- tro~al cor scol -- pi -- ta:
     Del -- l'al -- ma~in -- ve -- ce mi man -- tie -- ne~in vi -- ta,
@@ -166,14 +166,14 @@ tenoreXV = \relative c' {
 
 tenoreLyricsXV = \lyricmode {
     Par -- te~il cor -- po da voi, ma con voi re -- sta
-    L’al -- ma do -- len -- te~e me -- sta,
+    L'al -- ma do -- len -- te~e me -- sta,
         ma con voi re -- sta
-    l’al -- ma do -- len -- te~e me -- sta.
+    l'al -- ma do -- len -- te~e me -- sta.
     E vi -- vo?  Ahi, non è vi -- vo
-    Chi va de l’al -- ma pri -- vo!
+    Chi va de l'al -- ma pri -- vo!
     Mor -- to, mor -- to son' i -- o,
         mor -- to son' i -- o,
-    Ché par -- ten -- do m’ha~uc -- ci -- so il do -- lor mi -- o,
+    Ché par -- ten -- do m'ha~uc -- ci -- so il do -- lor mi -- o,
     E se pur vi -- vo, que -- sta vo -- stra bel -- tà
     Ch'io den -- tro~al cor scol -- pi -- ta:
     Del -- l'al -- ma~in -- ve -- ce mi man -- tie -- ne~in vi -- ta, 
@@ -220,14 +220,14 @@ bassoXV = \relative c' {
 bassoLyricsXV = \lyricmode {
     Par -- te~il cor -- po da voi,
     par -- te~il cor -- po da voi, ma con voi re -- sta
-    L’al -- ma do -- len -- te~e me -- sta,
+    L'al -- ma do -- len -- te~e me -- sta,
         ma con voi re -- sta
-    l’al -- ma do -- len -- te~e me -- sta.
+    l'al -- ma do -- len -- te~e me -- sta.
 %    E vi -- vo?  
         Ahi, __ non è vi -- vo
-    Chi va de l’al -- ma pri -- vo!
+    Chi va de l'al -- ma pri -- vo!
     Mor -- to, mor -- to son' i -- o,
-    Ché par -- ten -- do m’ha~uc -- ci -- so~il do -- lor mi -- o,
+    Ché par -- ten -- do m'ha~uc -- ci -- so~il do -- lor mi -- o,
     E se pur vi -- vo, que -- sta vo -- stra bel -- tà
     Ch'io den -- tro~al cor scol -- pi -- ta:
     Del -- l'al -- ma~in -- ve -- ce mi man -- tie -- ne~in vi -- ta,
@@ -273,13 +273,13 @@ quintoXV = \relative c' {
 quintoLyricsXV = \lyricmode {
     Par -- te~il cor -- po da voi,
     par -- te~il cor -- po da voi, ma con voi re -- sta
-    L’al -- ma do -- len -- te~e me -- sta.
+    L'al -- ma do -- len -- te~e me -- sta.
     % E vi -- vo? 
         Ahi, non è vi -- vo
-    Chi va de l’al -- ma pri -- vo!
+    Chi va de l'al -- ma pri -- vo!
     Mor -- to, mor -- to son' i -- o,
         mor -- to son' i -- o,
-    Ché par -- ten -- do m’ha~uc -- ci -- so il do -- lor mi -- o,
+    Ché par -- ten -- do m'ha~uc -- ci -- so il do -- lor mi -- o,
     E se pur vi -- vo, que -- sta vo -- stra bel -- tà
     Ch'io den -- tro~al cor scol -- pi -- ta:
     Del -- l'al -- ma~in -- ve -- ce mi man -- tie -- ne~in vi -- ta,

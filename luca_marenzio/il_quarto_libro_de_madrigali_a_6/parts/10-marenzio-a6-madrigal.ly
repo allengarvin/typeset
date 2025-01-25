@@ -5,11 +5,11 @@
 % Né fero sdegno mai, Donna, mi mosse
 % Ancor da voi, né lontananza alcuna
 % Ne movrà mai! Mandami pur, Fortuna,
-% Per l’onde azzurre errando e per le rosse;
-% Se quante spume fan l’acque percosse
+% Per l'onde azzurre errando e per le rosse;
+% Se quante spume fan l'acque percosse
 % Dai remi nostri al sol e a la luna,
 % Tante nascesser Veneri, e ciascuna
-% di lor d’un novo Amor gravida fosse!
+% di lor d'un novo Amor gravida fosse!
 
 cantoXincipit = \relative c'' {
     \time 4/4
@@ -48,18 +48,18 @@ cantoLyricsX = \lyricmode {
     Né fe -- ro sde -- gno mai, Don -- na, mi mos -- se
     An -- cor da voi, né lon -- ta -- nan -- za~al -- cu -- na
     Ne mo -- vrà mai! Man -- da -- mi pur, For -- tu -- na,
-    Per l’on -- de~az -- zur -- re,
-    Per l’on -- de~az -- zur -- re er -- ran -- do~e per le ros -- se. __
-    % Se quan -- te spume fan l’acque percosse
+    Per l'on -- de~az -- zur -- re,
+    Per l'on -- de~az -- zur -- re er -- ran -- do~e per le ros -- se. __
+    % Se quan -- te spume fan l'acque percosse
     Dai re -- mi no -- stri~al sol ed a __ la lu -- na,
     Tan -- te na -- sces -- ser Ve -- ne -- ri, % e cia -- scu -- na
     % di lor 
-        d’un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
             e cia -- scu -- na
-    di lor d’un no -- vo~A -- mor, 
-        d’un no -- vo~A -- mor,
-        d’un no -- vo~A -- mor,
-        d’un no -- vo~A -- mor,
+    di lor d'un no -- vo~A -- mor, 
+        d'un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
     gra -- vi -- da fos -- se,
     gra -- vi -- da fos -- se!
 }
@@ -104,18 +104,18 @@ altoLyricsX = \lyricmode {
     An -- cor da voi, né lon -- ta -- nan -- za~al -- cu -- na
     Ne mo -- vrà mai,
     Ne __ mo -- vrà mai! Man -- da -- mi pur, For -- tu -- na,
-    Per l’on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
-    Se quan -- te spu -- me fan l’ac -- que per -- cos -- se
+    Per l'on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
+    Se quan -- te spu -- me fan l'ac -- que per -- cos -- se
     Dai re -- mi no -- stri~al sol ed a la lu -- na,
     Tan -- te na -- sces -- ser Ve -- ne -- ri, % e cia -- scu -- na
         e cia -- scu -- na
     di lor 
-        d’un no -- vo~A -- mor, __
-        d’un no -- vo~A -- mor,
-        d’un no -- vo~A -- mor,
-        d’un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor, __
+        d'un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
     gra -- vi -- da fos -- se,
-        d’un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
     gra -- vi -- da fos -- se,
     gra -- vi -- da fos -- se!
 }
@@ -160,18 +160,18 @@ tenoreLyricsX = \lyricmode {
     An -- cor da voi, né lon -- ta -- nan -- za al -- cu -- na
     Ne mo -- vrà mai,
     Ne mo -- vrà mai! Man -- da -- mi pur, For -- tu -- na,
-    Per l’on -- de~az -- zur -- re,
-    Per l’on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
-    % Se quan -- te spu -- me fan l’ac -- que per -- cos -- se
+    Per l'on -- de~az -- zur -- re,
+    Per l'on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
+    % Se quan -- te spu -- me fan l'ac -- que per -- cos -- se
     Dai re -- mi no -- stri al sol ed a la lu -- na,
     Tan -- te na -- sces -- ser Ve -- ne -- ri, e cia -- scu -- na
     di lor __
-        d’un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
     gra -- vi -- da fos -- se, __
-        d’un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
         e cia -- scu -- na
         di lor
-        d’un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
     gra -- vi -- da fos -- se!
 }
 
@@ -205,12 +205,12 @@ bassoX = \relative c' {
 bassoLyricsX = \lyricmode {
     Ne mo -- vrà mai,
     Ne mo -- vrà mai! Man -- da -- mi pur, For -- tu -- na,
-    Per l’on -- de~az -- zur -- re,
-    Per l’on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
-    Se quan -- te spu -- me fan l’ac -- que per -- cos -- se
+    Per l'on -- de~az -- zur -- re,
+    Per l'on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
+    Se quan -- te spu -- me fan l'ac -- que per -- cos -- se
     Dai re -- mi no -- stri~al sol ed a la lu -- na,
     Tan -- te na -- sces -- ser Ve -- ne -- ri, e cia -- scu -- na
-    Di lor d’un no -- vo~A -- mor, gra -- vi -- da fos -- se!
+    Di lor d'un no -- vo~A -- mor, gra -- vi -- da fos -- se!
 }
 
 quintoXincipit = \relative c'' {
@@ -253,17 +253,17 @@ quintoLyricsX = \lyricmode {
         Don -- na, mi mos -- se
     An -- cor da voi, né lon -- ta -- nan -- za~al -- cu -- na
     Ne __ mo -- vrà mai! Man -- da -- mi pur, For -- tu -- na,
-    Per l’on -- de~az -- zur -- re,
-    Per l’on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
-    Se quan -- te spu -- me fan l’ac -- que per -- cos -- se
+    Per l'on -- de~az -- zur -- re,
+    Per l'on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
+    Se quan -- te spu -- me fan l'ac -- que per -- cos -- se
     Dai re -- mi no -- stri~al sol ed a la lu -- na,
     Tan -- te na -- sces -- ser Ve -- ne -- ri, e cia -- scu -- na
     di lor 
-        d’un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
     gra -- vi -- da fos -- se,
-        d’un no -- vo~A -- mor,
-        d’un no -- vo~A -- mor,
-        d’un no -- vo~A -- mor, __
+        d'un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor, __
     gra -- vi -- da fos -- se,
     gra -- vi -- da fos -- se,
     gra -- vi -- da fos -- se!
@@ -311,16 +311,16 @@ sestoLyricsX = \lyricmode {
     An -- cor da voi, né lon -- ta -- nan -- za~al -- cu -- na
     Ne mo -- vrà mai,
     Ne mo -- vrà mai! Man -- da -- mi pur, For -- tu -- na,
-    Per l’on -- de~az -- zur -- re,
-    Per l’on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
-    Se __ quan -- te spu -- me fan __ l’ac -- que per -- cos -- se
+    Per l'on -- de~az -- zur -- re,
+    Per l'on -- de~az -- zur -- re~er -- ran -- do~e per le ros -- se. 
+    Se __ quan -- te spu -- me fan __ l'ac -- que per -- cos -- se
     Dai re -- mi no -- stri~al sol ed a la lu -- na,
     Tan -- te na -- sces -- ser Ve -- ne -- ri, e cia -- scu -- na
     di lor 
-        d’un no -- vo~A -- mor,
+        d'un no -- vo~A -- mor,
     gra -- vi -- da fos -- se,
             e cia -- scu -- na 
-    Di lor __ d’un no -- vo~A -- mor, 
+    Di lor __ d'un no -- vo~A -- mor, 
     gra -- vi -- da fos -- se!
 }
 

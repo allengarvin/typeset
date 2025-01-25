@@ -1,10 +1,10 @@
-% La bocca onde l’asprissime parole
-% solean uscir ch’ir mi facean dolente
+% La bocca onde l'asprissime parole
+% solean uscir ch'ir mi facean dolente
 % vie più di quante mai fur sotto il Sole,
-% or nutre l’alma mia soavemente
-% d’odor di fresche rose e di viole,
-% cui cede ogn’altro che l’Arabia sente
-% e d’ambrosia e di nettare si pasce,
+% or nutre l'alma mia soavemente
+% d'odor di fresche rose e di viole,
+% cui cede ogn'altro che l'Arabia sente
+% e d'ambrosia e di nettare si pasce,
 % ché tra le perle e i bei rubini nasce.
 
 cantoXVincipit = \relative c' {
@@ -42,18 +42,18 @@ cantoXV = \relative c' {
 }
 
 cantoLyricsXV = \lyricmode {
-    La boc -- ca~on -- de l’a -- spris -- si -- me pa -- ro -- le
-    So -- lean __ u -- scir ch’ir mi fa -- cean do -- len -- te,
-        ch’ir mi fa -- cean do -- len -- te
+    La boc -- ca~on -- de l'a -- spris -- si -- me pa -- ro -- le
+    So -- lean __ u -- scir ch'ir mi fa -- cean do -- len -- te,
+        ch'ir mi fa -- cean do -- len -- te
     Vie più di quan -- te mai fur sot -- to~il So -- le,
-    Or nu -- tre l’al -- ma mia,
-    or nu -- tre l’al -- ma mia % so -- a -- ve -- men -- te
-    D’o -- dor di fre -- sche ro -- se~e di vi -- o -- le,
-    Cui ce -- de~o -- gni~al -- tro che l’A -- ra -- bia sen -- te
-    E d’am -- bro -- sia,
-    e d’am -- bro -- sia~e di net -- ta -- re si pa -- sce,
+    Or nu -- tre l'al -- ma mia,
+    or nu -- tre l'al -- ma mia % so -- a -- ve -- men -- te
+    D'o -- dor di fre -- sche ro -- se~e di vi -- o -- le,
+    Cui ce -- de~o -- gni~al -- tro che l'A -- ra -- bia sen -- te
+    E d'am -- bro -- sia,
+    e d'am -- bro -- sia~e di net -- ta -- re si pa -- sce,
     \ijLyrics
-    e d’am -- bro -- sia~e di net -- ta -- re si pa -- sce,
+    e d'am -- bro -- sia~e di net -- ta -- re si pa -- sce,
     \normalLyrics
         si pa -- sce,
     Ché tra le per -- l'e~i bei ru -- bi -- ni na -- sce,
@@ -98,24 +98,24 @@ altoXV = \relative c' {
 }
 
 altoLyricsXV = \lyricmode {
-    La boc -- ca~on -- de l’a -- spris -- si -- me pa -- ro -- le
-    So -- lean __ u -- scir ch’ir mi fa -- cean do -- len -- te,
-        ch’ir mi fa -- cean do -- len -- te
+    La boc -- ca~on -- de l'a -- spris -- si -- me pa -- ro -- le
+    So -- lean __ u -- scir ch'ir mi fa -- cean do -- len -- te,
+        ch'ir mi fa -- cean do -- len -- te
     Vie più di quan -- te mai,
     \ijLyrics
     vie più di quan -- te mai
     \normalLyrics
         fur sot -- to~il So -- le,
-    Or nu -- tre l’al -- ma mia,
+    Or nu -- tre l'al -- ma mia,
     \ijLyrics
-    or nu -- tre l’al -- ma mia 
+    or nu -- tre l'al -- ma mia 
     \normalLyrics
         so -- a -- ve -- men -- te
-    D’o -- dor di fre -- sche ro -- se~e __ di vi -- o -- le,
-    Cui ce -- de~o -- gni~al -- tro che __ l’A -- ra -- bia sen -- te
-    E d’am -- bro -- sia,
-    e d’am -- bro -- sia~e di net -- ta -- re si pa -- sce,
-    e d’am -- bro -- sia~e di net -- ta -- re si pa -- sce,
+    D'o -- dor di fre -- sche ro -- se~e __ di vi -- o -- le,
+    Cui ce -- de~o -- gni~al -- tro che __ l'A -- ra -- bia sen -- te
+    E d'am -- bro -- sia,
+    e d'am -- bro -- sia~e di net -- ta -- re si pa -- sce,
+    e d'am -- bro -- sia~e di net -- ta -- re si pa -- sce,
     Ché tra le per -- l'e~i bei ru -- bi -- ni na -- sce,
     ché tra le per -- le,
     \ijLyrics
@@ -157,15 +157,15 @@ tenoreXV = \relative c {
 }
 
 tenoreLyricsXV = \lyricmode {
-    La boc -- ca~on -- de l’a -- spris -- si -- me pa -- ro -- le
-    So -- lean __ u -- scir ch’ir mi fa -- cean do -- len -- te,
-        ch’ir mi fa -- cean do -- len -- te
+    La boc -- ca~on -- de l'a -- spris -- si -- me pa -- ro -- le
+    So -- lean __ u -- scir ch'ir mi fa -- cean do -- len -- te,
+        ch'ir mi fa -- cean do -- len -- te
     Vie più di quan -- te mai fur sot -- to~il So -- le,
-    Or nu -- tre l’al -- ma mia so -- a -- va -- men -- te
-%    D’o -- dor di fre -- sche ro -- se~e di vi -- o -- le,
-%    Cui ce -- de~o -- gni~al -- tro che l’A -- ra -- bia sen -- te
-    E d’am -- bro -- sia,
-    e d’am -- bro -- sia~e di net -- ta -- re si pa -- sce,
+    Or nu -- tre l'al -- ma mia so -- a -- va -- men -- te
+%    D'o -- dor di fre -- sche ro -- se~e di vi -- o -- le,
+%    Cui ce -- de~o -- gni~al -- tro che l'A -- ra -- bia sen -- te
+    E d'am -- bro -- sia,
+    e d'am -- bro -- sia~e di net -- ta -- re si pa -- sce,
         si pa -- sce,
     Ché tra le per -- l'e~i bei ru -- bi -- ni na -- sce,
     ché tra le per -- l'e~i bei ru -- bi -- ni na -- sce,
@@ -206,18 +206,18 @@ bassoXV = \relative c {
 }
 
 bassoLyricsXV = \lyricmode {
-%    La boc -- ca~on -- de l’a -- spris -- si -- me pa -- ro -- le
-%    So -- lean u -- scir ch’ir mi fa -- cean do -- len -- te,
-        Ch’ir mi fa -- cean do -- len -- te
+%    La boc -- ca~on -- de l'a -- spris -- si -- me pa -- ro -- le
+%    So -- lean u -- scir ch'ir mi fa -- cean do -- len -- te,
+        Ch'ir mi fa -- cean do -- len -- te
     Vie più di quan -- te mai,
     vie più di quan -- te mai fur sot -- to~il So -- le,
-    Or nu -- tre l’al -- ma mia,
-    or nu -- tre l’al -- ma mia so -- a -- ve -- men -- te
-%    D’o -- dor di fre -- sche ro -- se~e di vi -- o -- le,
-%    Cui ce -- de~o -- gni~al -- tro che l’A -- ra -- bia sen -- te
-    E d’am -- bro -- sia,
-    e d’am -- bro -- sia~e di net -- ta -- re si pa -- sce,
-    e d’am -- bro -- sia~e di net -- ta -- re si pa -- sce,
+    Or nu -- tre l'al -- ma mia,
+    or nu -- tre l'al -- ma mia so -- a -- ve -- men -- te
+%    D'o -- dor di fre -- sche ro -- se~e di vi -- o -- le,
+%    Cui ce -- de~o -- gni~al -- tro che l'A -- ra -- bia sen -- te
+    E d'am -- bro -- sia,
+    e d'am -- bro -- sia~e di net -- ta -- re si pa -- sce,
+    e d'am -- bro -- sia~e di net -- ta -- re si pa -- sce,
     Ché tra le per -- l'e~i bei ru -- bi -- ni na -- sce,
     ché tra le per -- le,
     ché tra le per -- l'e~i bei ru -- bi -- ni na -- sce.
@@ -260,20 +260,20 @@ quintoXV = \relative c'' {
 }
 
 quintoLyricsXV = \lyricmode {
-    La boc -- ca~on -- de l’a -- spris -- si -- me pa -- ro -- le
-    So -- lean __ u -- scir ch’ir mi fa -- cean do -- len -- te,
-        ch’ir mi fa -- cean do -- len -- te
+    La boc -- ca~on -- de l'a -- spris -- si -- me pa -- ro -- le
+    So -- lean __ u -- scir ch'ir mi fa -- cean do -- len -- te,
+        ch'ir mi fa -- cean do -- len -- te
     Vie più di quan -- te mai,
     \ijLyrics
     vie più di quan -- te mai
     \normalLyrics
         fur sot -- to~il So -- le,
-    Or nu -- tre l’al -- ma mia so -- a -- ve -- men -- te
-    D’o -- dor di fre -- sche ro -- se~e di vi -- o -- le,
-    Cui ce -- de~o -- gni~al -- tro che l’A -- ra -- bia sen -- te
-    E d’am -- bro -- sia~e di net -- ta -- re si pa -- sce,
+    Or nu -- tre l'al -- ma mia so -- a -- ve -- men -- te
+    D'o -- dor di fre -- sche ro -- se~e di vi -- o -- le,
+    Cui ce -- de~o -- gni~al -- tro che l'A -- ra -- bia sen -- te
+    E d'am -- bro -- sia~e di net -- ta -- re si pa -- sce,
         si pa -- sce,
-    e d’am -- bro -- sia~e di net -- ta -- re si pa -- sce,
+    e d'am -- bro -- sia~e di net -- ta -- re si pa -- sce,
     Ché tra le per -- l'e~i bei ru -- bi -- ni na -- sce,
     ché tra le per -- l'e~i bei ru -- bi -- ni na -- sce,
         e~i bei ru -- bi -- ni __ na -- sce.

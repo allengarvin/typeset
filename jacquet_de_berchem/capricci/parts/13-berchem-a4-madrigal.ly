@@ -1,11 +1,11 @@
 %   41 Ma che mi possi nuocere non veggio,
-%      più di quel che sin qui nociuto m’hai.
+%      più di quel che sin qui nociuto m'hai.
 %      Per te cacciata son del real seggio,
 %      dove più ritornar non spero mai:
-%      ho perduto l’onor, ch’è stato peggio;
+%      ho perduto l'onor, ch'è stato peggio;
 %      che, se ben con effetto io non peccai,
-%      io do però materia ch’ognun dica
-%      ch’essendo vagabonda io sia impudica.
+%      io do però materia ch'ognun dica
+%      ch'essendo vagabonda io sia impudica.
 
 cantoXIIIincipit = \relative c'' {
     \time 4/4
@@ -39,14 +39,14 @@ cantoXIII = \relative c'' {
 
 cantoLyricsXIII = \lyricmode {
     Ma che mi pos -- si nuo -- ce -- re non veg -- gio,
-    Più di quel che sin qui no -- ciu -- to m’ha -- i.
+    Più di quel che sin qui no -- ciu -- to m'ha -- i.
     Per te cac -- cia -- ta son del re -- al seg -- gio, __
     Do -- ve più ri -- tor -- nar non spe -- ro ma -- i:
-    Ho per -- du -- to __ l’o -- nor, ch’è sta -- to __ peg -- gio;
+    Ho per -- du -- to __ l'o -- nor, ch'è sta -- to __ peg -- gio;
     Che, se ben con ef -- fet -- to~io non pec -- ca -- i,
-    Io do pe -- rò ma -- te -- ria ch’o -- gnun di -- ca
-    Ch’es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
-    Ch’es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca. __
+    Io do pe -- rò ma -- te -- ria ch'o -- gnun di -- ca
+    Ch'es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
+    Ch'es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca. __
 }
 
 altoXIIIincipit = \relative c' {
@@ -85,16 +85,16 @@ altoXIII = \relative c' {
 altoLyricsXIII = \lyricmode {
     Ma che mi pos -- si nuo -- ce -- re non veg -- gio,
     Più di quel che sin qui __ 
-    Più di quel che sin qui no -- ciu -- to m’ha -- i.
+    Più di quel che sin qui no -- ciu -- to m'ha -- i.
     Per te cac -- cia -- ta son del re -- al seg -- gio, 
     Do -- ve più ri -- tor -- nar,
     Do -- ve più ri -- tor -- nar non spe -- ro ma -- i,
     Do -- ve più ri -- tor -- nar non spe -- ro ma -- i:
-    Ho per -- du -- to __ l’o -- nor, ch’è sta -- to peg -- gio;
+    Ho per -- du -- to __ l'o -- nor, ch'è sta -- to peg -- gio;
     Che, se ben con ef -- fet -- to~io non pec -- ca -- i,
-    Io do pe -- rò ma -- te -- ria ch’o -- gnun di -- ca
-    Ch’es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
-    Ch’es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
+    Io do pe -- rò ma -- te -- ria ch'o -- gnun di -- ca
+    Ch'es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
+    Ch'es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
         io __ sia~im -- pu -- di -- ca.
 }
 
@@ -132,17 +132,17 @@ tenoreXIII = \relative c' {
 tenoreLyricsXIII = \lyricmode {
     Ma che mi pos -- si nuo -- ce -- re non veg -- gio,
     Più di quel __ che sin qui,
-    Più __ di quel che sin qui no -- ciu -- to m’ha -- i.
+    Più __ di quel che sin qui no -- ciu -- to m'ha -- i.
     Per te cac -- cia -- ta son del re -- al seg -- gio, 
     Do -- ve più ri -- tor -- nar non spe -- ro,
         non spe -- ro ma -- i,
         non spe -- ro __ ma -- i:
-    Ho per -- du -- to __ l’o -- nor, ch’è sta -- to peg -- gio;
+    Ho per -- du -- to __ l'o -- nor, ch'è sta -- to peg -- gio;
     Che, se ben con ef -- fet -- to~io non __ pec -- ca -- i,
-    Io do pe -- rò ma -- te -- ria ch’o -- gnun di -- ca
-    Ch’es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
+    Io do pe -- rò ma -- te -- ria ch'o -- gnun di -- ca
+    Ch'es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
     \ijLyrics
-    Ch’es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
+    Ch'es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
     \normalLyrics
         io sia~im -- pu -- di -- ca.
 }
@@ -178,16 +178,16 @@ bassoXIII = \relative c' {
 
 bassoLyricsXIII = \lyricmode {
     Ma che mi pos -- si nuo -- ce -- re non veg -- gio,
-    Più di quel che __ sin qui no -- ciu -- to m’ha -- i.
+    Più di quel che __ sin qui no -- ciu -- to m'ha -- i.
     Per te cac -- cia -- ta son del re -- al seg -- gio, 
         del re -- al seg -- gio, 
     Do -- ve più ri -- tor -- nar __ non spe -- ro ma -- i,
     Do -- ve più ri -- tor -- nar non spe -- ro ma -- i:
-    Ho per -- du -- to __ l’o -- nor, ch’è sta -- to peg -- gio;
+    Ho per -- du -- to __ l'o -- nor, ch'è sta -- to peg -- gio;
 %    Che, se ben con ef -- fet -- to~io non pec -- ca -- i,
-    Io do pe -- rò ma -- te -- ria ch’o -- gnun di -- ca
-    Ch’es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
-    Ch’es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
+    Io do pe -- rò ma -- te -- ria ch'o -- gnun di -- ca
+    Ch'es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
+    Ch'es -- sen -- do va -- ga -- bon -- da~io sia~im -- pu -- di -- ca,
         io sia~im -- pu -- di -- ca.
 }
 

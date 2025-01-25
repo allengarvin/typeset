@@ -1,5 +1,5 @@
 % Parmi di star la notte in paradiso
-% mentre ch’in sogno mi tien abbracciato.
+% mentre ch'in sogno mi tien abbracciato.
 % Deh, dolce sogno tu me fai beato.
 % 
 % Bascioti mille volte il dolce viso
@@ -53,14 +53,14 @@ cantoLyricsII = \lyricmode {
     \ijLyrics
     Par -- mi di star la not -- te~in pa -- ra -- di -- so 
     \normalLyrics
-    Men -- tre ch’in so -- gno mi tien ab -- brac -- cia -- to,
-    Men -- tre ch’in so -- gno mi tien ab -- brac -- cia -- to,
+    Men -- tre ch'in so -- gno mi tien ab -- brac -- cia -- to,
+    Men -- tre ch'in so -- gno mi tien ab -- brac -- cia -- to,
        mi tien ab -- brac -- cia -- to.
     Deh, __ dol -- ce so -- gno tu me fai be -- a -- to,
     Deh, dol -- ce so -- gno tu me fai be -- a -- to.
 
-    Men -- tre ch’in so -- gno mi tien ab -- brac -- cia -- to,
-    Men -- tre ch’in so -- gno mi tien ab -- brac -- cia -- to,
+    Men -- tre ch'in so -- gno mi tien ab -- brac -- cia -- to,
+    Men -- tre ch'in so -- gno mi tien ab -- brac -- cia -- to,
        mi tien ab -- brac -- cia -- to.
     Deh, dol -- ce so -- gno tu me fai be -- a -- to,
     Deh, __ dol -- ce so -- gno tu me fai be -- a -- to.
@@ -122,18 +122,18 @@ altoLyricsII = \lyricmode {
     Par -- mi di star
     \normalLyrics
         la not -- te~in pa -- ra -- di -- so
-    Men -- tre ch’in so -- gno mi 
+    Men -- tre ch'in so -- gno mi 
     \ijLyrics
-    Men -- tre ch’in so -- gno mi 
+    Men -- tre ch'in so -- gno mi 
     \normalLyrics
         tien ab -- brac -- ci -- a -- to,
         mi tien ab -- brac -- cia -- to.
     Deh, dol -- ce so -- gno tu me fai be -- a -- to,
     Deh, dol -- ce so -- gno tu me fai be -- a -- to.
 
-    Men -- tre ch’in so -- gno mi 
+    Men -- tre ch'in so -- gno mi 
     \ijLyrics
-    Men -- tre ch’in so -- gno mi 
+    Men -- tre ch'in so -- gno mi 
     \normalLyrics
         tien ab -- brac -- ci -- a -- to,
         mi tien ab -- brac -- cia -- to.
@@ -183,15 +183,15 @@ tenoreLyricsII = \lyricmode {
     \ijLyrics
     Par -- mi di star la not -- te~in pa -- ra -- di -- so
     \normalLyrics
-    Men -- tre ch’in so -- gno mi,
-    Men -- tre ch’in so -- gno mi tien,
+    Men -- tre ch'in so -- gno mi,
+    Men -- tre ch'in so -- gno mi tien,
         tien ab -- brac -- cia -- to.
             ab -- brac -- cia -- to.
     Deh, dol -- ce so -- gno tu me fai be -- a -- to,
     Deh, dol -- ce so -- gno tu me fai be -- a -- to.
 
-    Men -- tre ch’in so -- gno mi,
-    Men -- tre ch’in so -- gno mi tien,
+    Men -- tre ch'in so -- gno mi,
+    Men -- tre ch'in so -- gno mi tien,
         tien ab -- brac -- cia -- to.
             ab -- brac -- cia -- to.
     Deh, dol -- ce so -- gno tu me fai be -- a -- to,
@@ -229,13 +229,13 @@ bassoII = \relative c' {
 bassoLyricsII = \lyricmode {
     Par -- mi di star la not -- te~in pa -- ra -- di -- so
     Par -- mi di star la not -- te~in pa -- ra -- di -- so
-    Men -- tre ch’in so -- gno mi tien 
-    Men -- tre ch’in so -- gno mi tien ab -- brac -- cia -- to.
+    Men -- tre ch'in so -- gno mi tien 
+    Men -- tre ch'in so -- gno mi tien ab -- brac -- cia -- to.
     Deh, dol -- ce so -- gno tu me fai __ be -- a -- to,
 
-    Men -- tre ch’in so -- gno mi tien,
+    Men -- tre ch'in so -- gno mi tien,
     \ijLyrics
-    Men -- tre ch’in so -- gno mi tien 
+    Men -- tre ch'in so -- gno mi tien 
     \normalLyrics
         ab -- brac -- cia -- to.
     Deh, dol -- ce so -- gno tu me fai __ be -- a -- to,

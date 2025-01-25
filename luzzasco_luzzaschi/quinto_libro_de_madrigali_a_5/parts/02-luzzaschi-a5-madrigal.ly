@@ -1,9 +1,9 @@
 % Itene a volo, o miei sospiri ardenti:
 % portate il dolor mio
 % al tanto sospirato mio desio.
-% Dite ch’a pena in tante pene i’ spiro,
+% Dite ch'a pena in tante pene i' spiro,
 % che sol per lui respiro;
-% dite ch’in così dura lontananza
+% dite ch'in così dura lontananza
 % di memoria sol vivo, e di speranza.
 % 
 % Newcomb:
@@ -59,10 +59,10 @@ cantoLyricsII = \lyricmode {
         o miei so -- spi -- ri~ar -- den -- ti:
     Por -- ta -- te~il do -- lor mi -- o
     Al tan -- to so -- spi -- ra -- to mio de -- si -- o.
-    % Dite ch’a pena 
-        in tan -- te pe -- ne~i’ spi -- ro,
+    % Dite ch'a pena 
+        in tan -- te pe -- ne~i' spi -- ro,
     Che sol per lui re -- spi -- ro;
-    Di -- te ch’in co -- sì du -- ra lon -- ta -- nan -- za
+    Di -- te ch'in co -- sì du -- ra lon -- ta -- nan -- za
     Di me -- mo -- ria sol vi -- vo, e di spe -- ran -- za.
 }
 
@@ -102,11 +102,11 @@ altoLyricsII = \lyricmode {
             so -- spi -- ri~ar -- den -- ti:
     Por -- ta -- te~il do -- lor __ mi -- o
     Al tan -- to so -- spi -- ra -- to mio de -- si -- o.
-    Di -- te ch’a pe -- na~in tan -- te pe -- ne~i’ spi -- ro,
-        in tan -- te pe -- ne~i’ spi -- ro,
+    Di -- te ch'a pe -- na~in tan -- te pe -- ne~i' spi -- ro,
+        in tan -- te pe -- ne~i' spi -- ro,
     Che sol per lui re -- spi -- ro;
     Di -- te,
-    di -- te ch’in co -- sì du -- ra lon -- ta -- nan -- za
+    di -- te ch'in co -- sì du -- ra lon -- ta -- nan -- za
     Di me -- mo -- ria sol vi -- vo,
     di me -- mo -- ria sol vi -- vo, e di spe -- ran -- za. __
 }
@@ -148,12 +148,12 @@ tenoreLyricsII = \lyricmode {
     Por -- ta -- te~il do -- lor mi -- o
     Al tan -- to so -- spi -- ra -- to mio,
         mio de -- si -- o.
-    Di -- te ch’a pe -- na~in tan -- te pe -- ne~i’ spi -- ro,
-        in tan -- te pe -- ne~i’ spi -- ro,
+    Di -- te ch'a pe -- na~in tan -- te pe -- ne~i' spi -- ro,
+        in tan -- te pe -- ne~i' spi -- ro,
     Che sol per lui re -- spi -- ro,
         re -- spi -- ro;
     Di -- te,
-    di -- te ch’in co -- sì du -- ra lon -- ta -- nan -- za
+    di -- te ch'in co -- sì du -- ra lon -- ta -- nan -- za
     Di me -- mo -- ria sol vi -- vo,
     di me -- mo -- ria sol vi -- vo, e di spe -- ran -- za,
         e di spe -- ran -- za,
@@ -195,11 +195,11 @@ bassoLyricsII = \lyricmode {
         so -- spi -- ri~ar -- den -- ti:
     Por -- ta -- te~il do -- lor mi -- o
     Al tan -- to so -- spi -- ra -- to mio de -- si -- o.
-    Di -- te ch’a pe -- na~in tan -- te pe -- ne~i’ spi -- ro,
+    Di -- te ch'a pe -- na~in tan -- te pe -- ne~i' spi -- ro,
     Che sol per lui re -- spi -- ro,
         re -- spi -- ro;
     Di -- te,
-    di -- te ch’in co -- sì du -- ra lon -- ta -- nan -- za
+    di -- te ch'in co -- sì du -- ra lon -- ta -- nan -- za
     Di me -- mo -- ria sol vi -- vo, e di spe -- ran -- za,
         e di spe -- ran -- za,
         e di spe -- ran -- za.
@@ -239,11 +239,11 @@ quintoLyricsII = \lyricmode {
     Por -- ta -- te~il do -- lor,
         il do -- lor mi -- o
     Al tan -- to so -- spi -- ra -- to mio de -- si -- o.
-    Di -- te ch’a pe -- na~in tan -- te pe -- ne~i’ spi -- ro,
-        in tan -- te pe -- ne~i’ spi -- ro,
+    Di -- te ch'a pe -- na~in tan -- te pe -- ne~i' spi -- ro,
+        in tan -- te pe -- ne~i' spi -- ro,
     Che sol per lui re -- spi -- ro;
     Di -- te,
-    di -- te ch’in co -- sì du -- ra lon -- ta -- nan -- za
+    di -- te ch'in co -- sì du -- ra lon -- ta -- nan -- za
     Di me -- mo -- ria sol vi -- vo,
     Di me -- mo -- ria sol vi -- vo, e di spe -- ran -- za,
         e di spe -- ran -- za.

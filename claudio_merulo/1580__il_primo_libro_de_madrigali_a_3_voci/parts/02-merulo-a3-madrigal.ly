@@ -33,23 +33,23 @@ cantoII = \relative c'' {
 
 cantoLyricsII = \lyricmode {
     Dun -- que fia ver "(di" -- "cea)" che mi con -- ve -- gna
-    Cer -- car un che mi fug -- ge e mi s’a -- scon -- de?
-        e mi s’a -- scon -- de?
-        e mi s’a -- scon -- de?
+    Cer -- car un che mi fug -- ge e mi s'a -- scon -- de?
+        e mi s'a -- scon -- de?
+        e mi s'a -- scon -- de?
     Dun -- que deb -- bo prez -- za -- re un che mi sde -- gna?
     Deb -- bo pre -- gar chi mai non mi ri -- spon -- de?
-    Pa -- ti -- rò che chi m’o -- dia,
-    pa -- ti -- rò che chi m’o -- dia il cor mi te -- gna?
+    Pa -- ti -- rò che chi m'o -- dia,
+    pa -- ti -- rò che chi m'o -- dia il cor mi te -- gna?
         il cor mi te -- gna?
     Un che sì sti -- ma sue vir -- tù pro -- fon -- de,
     Che bi -- so -- gno sa -- rà,
     che bi -- so -- gno sa -- rà che dal ciel scen -- da
     Im -- mor -- tal De -- a,
-    im -- mor -- tal De -- a che’l cor d’a -- mor gli~ac -- cen -- da?
-        che’l cor d’a -- mor gli~ac -- cen -- da?
-        che’l cor d’a -- mor gli~ac -- cen -- da?
-        che’l cor,
-        che’l cor d’a -- mor gli~ac -- cen -- da?
+    im -- mor -- tal De -- a che'l cor d'a -- mor gli~ac -- cen -- da?
+        che'l cor d'a -- mor gli~ac -- cen -- da?
+        che'l cor d'a -- mor gli~ac -- cen -- da?
+        che'l cor,
+        che'l cor d'a -- mor gli~ac -- cen -- da?
 }
 
 tenoreIIincipit = \relative c'' {
@@ -87,22 +87,22 @@ tenoreII = \relative c'' {
 
 tenoreLyricsII = \lyricmode {
     Dun -- que fia ver "(di" -- "cea)" che mi con -- ve -- gna
-    Cer -- car un che mi fug -- ge e mi s’a -- scon -- de?
-        e mi s’a -- scon -- de?
-        e mi s’a -- scon -- de?
+    Cer -- car un che mi fug -- ge e mi s'a -- scon -- de?
+        e mi s'a -- scon -- de?
+        e mi s'a -- scon -- de?
     Dun -- que deb -- bo prez -- za -- re un che mi sde -- gna?
         un che mi sde -- gna?
     Deb -- bo pre -- gar chi mai non mi ri -- spon -- de?
-    Pa -- ti -- rò che chi m’o -- dia,
-    pa -- ti -- rò che chi m’o -- dia il cor mi te -- gna?
+    Pa -- ti -- rò che chi m'o -- dia,
+    pa -- ti -- rò che chi m'o -- dia il cor mi te -- gna?
         il cor mi te -- gna?
     Un che sì sti -- ma sue vir -- tù pro -- fon -- de,
     Che bi -- so -- gno sa -- rà,
     che bi -- so -- gno sa -- rà che dal ciel scen -- da
-    Im -- mor -- tal De -- a che’l cor d’a -- mor __ gli~ac -- cen -- da?
-        che’l cor d’a -- mor __ gli~ac -- cen -- da?
-        che’l cor d’a -- mor gli~ac -- cen -- da?
-        che’l cor __ d’a -- mor gli~ac -- cen -- da?
+    Im -- mor -- tal De -- a che'l cor d'a -- mor __ gli~ac -- cen -- da?
+        che'l cor d'a -- mor __ gli~ac -- cen -- da?
+        che'l cor d'a -- mor gli~ac -- cen -- da?
+        che'l cor __ d'a -- mor gli~ac -- cen -- da?
 }
 
 bassoIIincipit = \relative c' {
@@ -142,22 +142,22 @@ bassoII = \relative c' {
 bassoLyricsII = \lyricmode {
     Dun -- que fia ver "(di" -- "cea)" che mi con -- ve -- gna,
         che mi con -- ve -- gna
-    Cer -- car un che mi fug -- ge e mi s’a -- scon -- de?
-        e mi s’a -- scon -- de?
-        e mi s’a -- scon -- de?
+    Cer -- car un che mi fug -- ge e mi s'a -- scon -- de?
+        e mi s'a -- scon -- de?
+        e mi s'a -- scon -- de?
     Dun -- que deb -- bo prez -- za -- re un che mi sde -- gna?
         un che mi sde -- gna?
     Deb -- bo pre -- gar,
-    Pa -- ti -- rò che chi m’o -- dia,
-    pa -- ti -- rò che chi m’o -- dia il cor mi te -- gna?
+    Pa -- ti -- rò che chi m'o -- dia,
+    pa -- ti -- rò che chi m'o -- dia il cor mi te -- gna?
         il cor mi te -- gna?
     Un che sì sti -- ma sue vir -- tù pro -- fon -- de,
     Che bi -- so -- gno sa -- rà,
     che bi -- so -- gno sa -- rà che dal ciel scen -- da
-    im -- mor -- tal De -- a che’l cor d’a -- mor gli~ac -- cen -- da?
-        che’l cor d’a -- mor gli~ac -- cen -- da?
-        che’l cor d’a -- mor gli~ac -- cen -- da?
-        che’l cor __ d’a -- mor __ gli~ac -- cen -- da?
+    im -- mor -- tal De -- a che'l cor d'a -- mor gli~ac -- cen -- da?
+        che'l cor d'a -- mor gli~ac -- cen -- da?
+        che'l cor d'a -- mor gli~ac -- cen -- da?
+        che'l cor __ d'a -- mor __ gli~ac -- cen -- da?
 }
 
 cantoIIincipitVoice = <<

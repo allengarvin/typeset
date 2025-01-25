@@ -1,9 +1,9 @@
 %   42 La verginella è simile alla rosa,
-%      ch’in bel giardin su la nativa spina
+%      ch'in bel giardin su la nativa spina
 %      mentre sola e sicura si riposa,
 %      né gregge né pastor se le avicina;
-%      l’aura soave e l’alba rugiadosa,
-%      l’acqua, la terra al suo favor s’inchina:
+%      l'aura soave e l'alba rugiadosa,
+%      l'acqua, la terra al suo favor s'inchina:
 %      gioveni vaghi e donne inamorate
 %      amano averne e seni e tempie ornate.
 cantoIIincipit = \relative c'' {
@@ -45,17 +45,17 @@ cantoII = \relative c'' {
 cantoLyricsII = \lyricmode {
     La ver -- gi -- nel -- la,
     La ver -- gi -- nel -- la è si -- mi -- le~al -- la ro -- sa,
-    Ch’in bel giar -- din su la na -- ti -- va spi -- na
+    Ch'in bel giar -- din su la na -- ti -- va spi -- na
     Men -- tre so -- la~e __ si -- cu -- ra si __ ri -- po -- sa,
     Né __ greg -- ge né pa -- stor se le~a -- vi -- ci -- na,
         se le~a -- vi -- ci -- na; __
-    L’au -- ra so -- a -- ve e l’al -- ba ru -- gia -- do -- sa,
-    L’ac -- qua, la ter -- ra 
+    L'au -- ra so -- a -- ve e l'al -- ba ru -- gia -- do -- sa,
+    L'ac -- qua, la ter -- ra 
     \ijLyrics
-    L’ac -- qua, la ter -- ra 
+    L'ac -- qua, la ter -- ra 
     \normalLyrics
-        al suo fa -- vor s’in -- chi -- na,
-        al suo fa -- vor s’in -- chi -- na:
+        al suo fa -- vor s'in -- chi -- na,
+        al suo fa -- vor s'in -- chi -- na:
     Gio -- ve -- ni va -- ghi e don -- ne~i -- na -- mo -- ra -- te,
         e don -- ne~i -- na -- mo -- ra -- te
     A -- ma -- no~a -- ver -- ne~e se -- ni __ e tem -- pie~or -- na -- te,
@@ -105,7 +105,7 @@ altoLyricsII = \lyricmode {
     La ver -- gi -- nel -- la,
     \normalLyrics
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
-    Ch’in bel giar -- din su la na -- ti -- va spi -- na,
+    Ch'in bel giar -- din su la na -- ti -- va spi -- na,
         su la na -- ti -- va spi -- na
     Men -- tre so -- la~e si -- cu -- ra si ri -- po -- sa,
         si ri -- po -- sa,
@@ -115,11 +115,11 @@ altoLyricsII = \lyricmode {
     \ijLyrics
         se le~a -- vi -- ci -- na; 
     \normalLyrics
-    L’au -- ra so -- a -- ve e l’al -- ba ru -- gia -- do -- sa,
-    l’ac -- qua, la ter -- ra 
-    l’ac -- qua, la ter -- ra 
-        al suo fa -- vor s’in -- chi -- na,
-        al suo fa -- vor s’in -- chi -- na:
+    L'au -- ra so -- a -- ve e l'al -- ba ru -- gia -- do -- sa,
+    l'ac -- qua, la ter -- ra 
+    l'ac -- qua, la ter -- ra 
+        al suo fa -- vor s'in -- chi -- na,
+        al suo fa -- vor s'in -- chi -- na:
     Gio -- ve -- ni va -- ghi e don -- ne~i -- na -- mo -- ra -- te,
     \ijLyrics
         e don -- ne~i -- na -- mo -- ra -- te,
@@ -170,19 +170,19 @@ tenoreII = \relative c' {
 tenoreLyricsII = \lyricmode {
     La ver -- gi -- nel -- la,
     La ver -- gi -- nel -- la è si -- mi -- le~al -- la ro -- sa,
-    Ch’in bel giar -- din su la na -- ti -- va spi -- na,
+    Ch'in bel giar -- din su la na -- ti -- va spi -- na,
         su la na -- ti -- va __ spi -- na
     Men -- tre so -- la~e si -- cu -- ra si ri -- po -- sa,
         si ri -- po -- sa,
     Né greg -- ge né pa -- stor se le~a -- vi -- ci -- na,
         se le~a -- vi -- ci -- na; 
-    L’au -- ra  so -- a -- ve e l’al -- ba ru -- gia -- do -- sa,
-    L’ac -- qua, la ter -- ra 
+    L'au -- ra  so -- a -- ve e l'al -- ba ru -- gia -- do -- sa,
+    L'ac -- qua, la ter -- ra 
     \ijLyrics
-    l’ac -- qua, la ter -- ra,
+    l'ac -- qua, la ter -- ra,
     \normalLyrics
-    l’ac -- qua, la ter -- ra 
-        al suo fa -- vor s’in -- chi -- na:
+    l'ac -- qua, la ter -- ra 
+        al suo fa -- vor s'in -- chi -- na:
     Gio -- ve -- ni va -- ghi e don -- ne~i -- na -- mo -- ra -- te,
         e don -- ne~i -- na -- mo -- ra -- te
     A -- ma -- no~a -- ver -- ne~e se -- ni e tem -- pie~or -- na -- te,
@@ -232,7 +232,7 @@ bassoLyricsII = \lyricmode {
     La ver -- gi -- nel -- la,
     \normalLyrics
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
-    Ch’in bel giar -- din su la na -- ti -- va spi -- na
+    Ch'in bel giar -- din su la na -- ti -- va spi -- na
     Men -- tre so -- la~e si -- cu -- ra si ri -- po -- sa,
         si ri -- po -- sa,
         si ri -- po -- sa,
@@ -240,13 +240,13 @@ bassoLyricsII = \lyricmode {
     \ijLyrics
     Né greg -- ge né pa -- stor se le~a -- vi -- ci -- na,
     \normalLyrics
-    L’au -- ra so -- a -- ve e l’al -- ba ru -- gia -- do -- sa,
+    L'au -- ra so -- a -- ve e l'al -- ba ru -- gia -- do -- sa,
     \ijLyrics
-        e l’al -- ba ru -- gia -- do -- sa,
+        e l'al -- ba ru -- gia -- do -- sa,
     \normalLyrics
-    L’ac -- qua, la ter -- ra 
-        al suo fa -- vor s’in -- chi -- na,
-        al suo fa -- vor s’in -- chi -- na:
+    L'ac -- qua, la ter -- ra 
+        al suo fa -- vor s'in -- chi -- na,
+        al suo fa -- vor s'in -- chi -- na:
     Gio -- ve -- ni va -- ghi e don -- ne~i -- na -- mo -- ra -- te,
     \ijLyrics
         e don -- ne~i -- na -- mo -- ra -- te,
@@ -296,21 +296,21 @@ quintoII = \relative c' {
 quintoLyricsII = \lyricmode {
     La ver -- gi -- nel -- la,
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
-    Ch’in bel giar -- din su la na -- ti -- va spi -- na,
+    Ch'in bel giar -- din su la na -- ti -- va spi -- na,
         su la na -- ti -- va spi -- na
     Men -- tre so -- la~e si -- cu -- ra si __ ri -- po -- sa,
         si ri -- po -- sa,
         si __ ri -- po -- sa,
     Né greg -- ge né pa -- stor se le~a -- vi -- ci -- na,
         se le~a -- vi -- ci -- na; 
-    L’au -- ra __ so -- a -- ve e l’al -- ba ru -- gia -- do -- sa,
+    L'au -- ra __ so -- a -- ve e l'al -- ba ru -- gia -- do -- sa,
     \ijLyrics
-        e l’al -- ba ru -- gia -- do -- sa,
+        e l'al -- ba ru -- gia -- do -- sa,
     \normalLyrics
-    L’ac -- qua, la ter -- ra 
-    l’ac -- qua, la ter -- ra 
-        al suo fa -- vor s’in -- chi -- na,
-        al suo fa -- vor s’in -- chi -- na:
+    L'ac -- qua, la ter -- ra 
+    l'ac -- qua, la ter -- ra 
+        al suo fa -- vor s'in -- chi -- na,
+        al suo fa -- vor s'in -- chi -- na:
     Gio -- ve -- ni va -- ghi e don -- ne~i -- na -- mo -- ra -- te,
     \ijLyrics
         e don -- ne~i -- na -- mo -- ra -- te,

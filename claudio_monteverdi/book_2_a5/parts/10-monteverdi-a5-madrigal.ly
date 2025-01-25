@@ -1,10 +1,10 @@
-% Quell’ombra esser vorrei
-% che’l dì vi segue leggiadretta e bella,
-% che s’or son servo, i’ sarei vostra ancella.
+% Quell'ombra esser vorrei
+% che'l dì vi segue leggiadretta e bella,
+% che s'or son servo, i' sarei vostra ancella.
 % E quando parte il sole,
-% m’asconderei sotto quei bianchi panni:
+% m'asconderei sotto quei bianchi panni:
 % lasso, ben ne gli affanni,
-% ombra ignuda d’uom vivo, Amor, mi fai,
+% ombra ignuda d'uom vivo, Amor, mi fai,
 % ma non mi giungi alla mia donna mai.
 
 % Casoni
@@ -41,23 +41,23 @@ cantoX = \relative c'' {
 }
 
 cantoLyricsX = \lyricmode {
-    Quel -- l’om -- bra~es -- ser vor -- re -- i
-    Che’l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
-    che’l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
-    Che s’or son ser -- vo,
+    Quel -- l'om -- bra~es -- ser vor -- re -- i
+    Che'l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
+    che'l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
+    Che s'or son ser -- vo,
     \ijLyrics
-    che s’or son ser -- vo,
+    che s'or son ser -- vo,
     \normalLyrics
-        i’ sa -- rei vo -- stra~an -- cel -- la.
+        i' sa -- rei vo -- stra~an -- cel -- la.
 
     E quan -- do par -- te~il so -- le,
     \ijLyrics
     e quan -- do par -- te~il so -- le,
     \normalLyrics
-    M’a -- scon -- de -- rei sot -- to quei bian -- chi pan -- ni:
+    M'a -- scon -- de -- rei sot -- to quei bian -- chi pan -- ni:
     Las -- so, __
     las -- so, ben ne __ gli~af -- fan -- ni,
-    Om -- bra~i -- gnu -- da d’uom vi -- vo, A -- mor, 
+    Om -- bra~i -- gnu -- da d'uom vi -- vo, A -- mor, 
         A -- mor, mi fa -- i,
     Ma non mi giun -- gi~al -- la mia don -- na ma -- i,
     ma non mi giun -- gi~al -- la mia don -- na ma -- i,
@@ -99,21 +99,21 @@ altoX = \relative c' {
 }
 
 altoLyricsX = \lyricmode {
-%    Quel -- l’om -- bra~es -- ser vor -- re -- i
-    Che’l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
-    Quel -- l’om -- bra~es -- ser vor -- re -- i
-    che’l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
-    che’l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
-    Che s’or son ser -- vo, i’ sa -- rei vo -- stra~an -- cel -- la.
+%    Quel -- l'om -- bra~es -- ser vor -- re -- i
+    Che'l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
+    Quel -- l'om -- bra~es -- ser vor -- re -- i
+    che'l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
+    che'l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
+    Che s'or son ser -- vo, i' sa -- rei vo -- stra~an -- cel -- la.
 
     E quan -- do par -- te~il so -- le,
     \ijLyrics
     e quan -- do par -- te~il so -- le,
     \normalLyrics
-    M’a -- scon -- de -- rei sot -- to __ quei bian -- chi pan -- ni:
+    M'a -- scon -- de -- rei sot -- to __ quei bian -- chi pan -- ni:
     Las -- so,
     las -- so, ben ne gli~af -- fan -- ni,
-    Om -- bra~i -- gnu -- da d’uom vi -- vo, A -- mor, mi fa -- i,
+    Om -- bra~i -- gnu -- da d'uom vi -- vo, A -- mor, mi fa -- i,
     Ma non mi giun -- gi~al -- la mia don -- na ma -- i,
     ma non mi giun -- gi~al -- la mia don -- na ma -- i,
         al -- la mia don -- na ma -- i.
@@ -154,28 +154,28 @@ tenoreX = \relative c' {
 }
 
 tenoreLyricsX = \lyricmode {
-%    Quel -- l’om -- bra~es -- ser vor -- re -- i
+%    Quel -- l'om -- bra~es -- ser vor -- re -- i
         Leg -- gia -- dret -- ta~e bel -- la,
-    Che’l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
+    Che'l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
     \ijLyrics
         leg -- gia -- dret -- ta~e bel -- la,
     \normalLyrics
-    Che s’or son ser -- vo,
+    Che s'or son ser -- vo,
     \ijLyrics
-    che s’or son ser -- vo,
+    che s'or son ser -- vo,
     \normalLyrics
-        i’ sa -- rei vo -- stra~an -- cel -- la.
+        i' sa -- rei vo -- stra~an -- cel -- la.
 
     E quan -- do par -- te~il so -- le,
     \ijLyrics
     e quan -- do par -- te~il so -- le,
     \normalLyrics
-    M’a -- scon -- de -- rei sot -- to quei bian -- chi pan -- ni:
+    M'a -- scon -- de -- rei sot -- to quei bian -- chi pan -- ni:
     Las -- so,
     las -- so, ben ne gli~af -- fan -- ni,
         ben ne gli~af -- fan -- ni,
-    Om -- bra~i -- gnu -- da d’uom vi -- vo,
-    om -- bra~i -- gnu -- da d’uom vi -- vo~A -- mor, mi fa -- i,
+    Om -- bra~i -- gnu -- da d'uom vi -- vo,
+    om -- bra~i -- gnu -- da d'uom vi -- vo~A -- mor, mi fa -- i,
     Ma non mi giun -- gi~al -- la mia don -- na ma -- i,
     ma non mi giun -- gi~al -- la mia don -- na ma -- i,
         al -- la mia don -- na ma -- i.
@@ -216,21 +216,21 @@ bassoX = \relative c {
 }
 
 bassoLyricsX = \lyricmode {
-    Quel -- l’om -- bra~es -- ser vor -- re -- i
-    Che’l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
-    Che s’or son ser -- vo,
-    che s’or son ser -- vo,
-        i’ sa -- rei vo -- stra~an -- cel -- la.
+    Quel -- l'om -- bra~es -- ser vor -- re -- i
+    Che'l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
+    Che s'or son ser -- vo,
+    che s'or son ser -- vo,
+        i' sa -- rei vo -- stra~an -- cel -- la.
 
     E quan -- do par -- te~il so -- le,
     \ijLyrics
     e quan -- do par -- te~il so -- le, __
     \normalLyrics
-    M’a -- scon -- de -- rei sot -- to quei bian -- chi pan -- ni:
+    M'a -- scon -- de -- rei sot -- to quei bian -- chi pan -- ni:
     Las -- so, ben ne gli~af -- fan -- ni,
         ben ne gli~af -- fan -- ni,
-    Om -- bra~i -- gnu -- da d’uom vi -- vo,
-    om -- bra~i -- gnu -- da d’uom vi -- vo~A -- mor, __ mi fa -- i,
+    Om -- bra~i -- gnu -- da d'uom vi -- vo,
+    om -- bra~i -- gnu -- da d'uom vi -- vo~A -- mor, __ mi fa -- i,
     Ma non mi giun -- gi~al -- la mia don -- na ma -- i,
     ma non mi giun -- gi~al -- la mia don -- na ma -- i,
     ma non mi giun -- gi~al -- la mia don -- na ma -- i.
@@ -271,27 +271,27 @@ quintoX = \relative c' {
 }
 
 quintoLyricsX = \lyricmode {
-    Quel -- l’om -- bra~es -- ser vor -- re -- i,
+    Quel -- l'om -- bra~es -- ser vor -- re -- i,
     \ijLyrics
-    quel -- l’om -- bra~es -- ser vor -- re -- i
+    quel -- l'om -- bra~es -- ser vor -- re -- i
     \normalLyrics
-    Che’l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
+    Che'l dì vi se -- gue leg -- gia -- dret -- ta~e bel -- la,
         leg -- gia -- dret -- ta~e bel -- la,
-    Che s’or son ser -- vo,
-        i’ sa -- rei vo -- stra~an -- cel -- la.
+    Che s'or son ser -- vo,
+        i' sa -- rei vo -- stra~an -- cel -- la.
 
     E quan -- do par -- te~il so -- le,
     \ijLyrics
     e quan -- do par -- te~il so -- le,
     \normalLyrics
-    M’a -- scon -- de -- rei sot -- to quei bian -- chi pan -- ni:
+    M'a -- scon -- de -- rei sot -- to quei bian -- chi pan -- ni:
     Las -- so,
     las -- so, ben ne __ gli~af -- fan -- ni,
     Om -- bra~i -- gnu -- da,
     \ijLyrics
     om -- bra~i -- gnu -- da
     \normalLyrics
-        d’uom vi -- vo, A -- mor,
+        d'uom vi -- vo, A -- mor,
             A -- mor,
             A -- mor, mi fa -- i,
     Ma non mi giun -- gi~al -- la mia don -- na ma -- i,

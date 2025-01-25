@@ -1,20 +1,20 @@
-% From Virgin’s womb this day, this day did spring
+% From Virgin's womb this day, this day did spring
 % The precious Seed that only saved man
 % This day let man rejoice and sweetly sing,
 % Since on this day our Saviour first began.
-% This day did Christ man’s soul from death remove
+% This day did Christ man's soul from death remove
 % With glorious saints to dwell in Heaven above.
 % 
 % This day to man came pledge of perfect peace,
 % This day to man came love and unity,
-% This day man’s grief began for to surcease,
+% This day man's grief began for to surcease,
 % This day did man receive a remedy
 % For each offence and every deadly sin
 % With guilty heart that erst he wandered in.
 % 
-% In Christ His flock let love be surely plac’d,
+% In Christ His flock let love be surely plac'd,
 % From Christ His flock let concord hate expel,
-% Of Christ His flock let love be so embrac’d
+% Of Christ His flock let love be so embrac'd
 % As we in Christ and Christ in us may dwell.
 % Christ is the author of sweet unity
 % From whence proceedeth all felicity.
@@ -90,14 +90,14 @@ mediusXXXV = \relative c'' {
 }
 
 mediusLyricsXXXV = \lyricmode {
-    From Vir -- gin’s womb this day,
+    From Vir -- gin's womb this day,
         this day did spring
     The pre -- cious __ seed that on -- ly sa -- ved man,
     This day let man re -- joice and sweet -- ly sing
 
     Since on this day our Sa -- vi -- our first be -- gan.
     This day,
-    this day did Christ man’s soul __ from death re -- move
+    this day did Christ man's soul __ from death re -- move
     With glo -- ri -- ous Saints to dwell in Heav'n  a -- bove,
     with glo -- ri -- ous Saints __ to dwell in Heav'n  a -- bove,
         a -- bove.
@@ -106,7 +106,7 @@ mediusLyricsXXXV = \lyricmode {
 mediusLyricsXXXVa = \lyricmode {
     This day to man came pledge of per -- fect peace,
     This day to __ man came love and u -- ni -- ty,
-    This day man’s grief be -- gan for to __ sur -- cease,
+    This day man's grief be -- gan for to __ sur -- cease,
     This day did man re -- ceive a __ _ re -- me -- dy
     For each,
     for each of -- fence and e -- v'ry dead -- ly sin

@@ -1,12 +1,12 @@
 % Bigi:
-%   127 Questi ch’indizio fan del mio tormento,
+%   127 Questi ch'indizio fan del mio tormento,
 %       sospir non sono, né i sospir son tali.
 %       Quelli han triegua talora; io mai non sento
-%       che ’l petto mio men la sua pena esali.
-%       Amor che m’arde il cor, fa questo vento,
-%       mentre dibatte intorno al fuoco l’ali.
+%       che 'l petto mio men la sua pena esali.
+%       Amor che m'arde il cor, fa questo vento,
+%       mentre dibatte intorno al fuoco l'ali.
 %       Amor, con che miracolo lo fai,
-%       che ’n fuoco il tenghi, e nol consumi mai?
+%       che 'n fuoco il tenghi, e nol consumi mai?
 
 % Questi ch'indicio fan
 % Canto 23
@@ -35,7 +35,7 @@
 % in a temporary truce, but they express
 % a metaphysical torment. I have tried
 % reason, but to no avail. My distress
-% is the punishment of Love, for whom I’d have died
+% is the punishment of Love, for whom I'd have died
 % but he keeps me alive to torture, nevertheless,
 % in a monstrous demonstration of ill will
 % and an appetite for pain no one can fill.

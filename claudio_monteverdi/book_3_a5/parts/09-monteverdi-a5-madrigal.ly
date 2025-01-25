@@ -1,9 +1,9 @@
-% Là tra ’l sangue e le morti egro giacente
+% Là tra 'l sangue e le morti egro giacente
 % mi pagherai le pene, empio guerriero.
 % Per nome Armida chiamerai sovente
 % ne gli ultimi singulti: udir ciò spero.
 % Or qui mancò lo spirto a la dolente,
-% né quest’ultimo suono espresse intero;
+% né quest'ultimo suono espresse intero;
 % e cadde tramortita e si diffuse
 % di gelato sudore, e i lumi chiuse.
 
@@ -38,7 +38,7 @@ cantoIX = \relative c'' {
 }
 
 cantoLyricsIX = \lyricmode {
-    Là tra’l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
+    Là tra'l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
     Mi pa -- ghe -- rai le pe -- ne~em -- pio guer -- rie -- ro.
     Per no -- me~Ar -- mi -- da,
         Ar -- mi -- da chia -- me -- rai,
@@ -46,7 +46,7 @@ cantoLyricsIX = \lyricmode {
     Ne -- gli~ul -- ti -- mi sin -- gul -- ti~u -- dir ciò spe -- ro.
     Or qui man -- cò lo spir -- to,
     or qui man -- cò lo spir -- to~a la __ do -- len -- te,
-    Né __ que -- st’ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
+    Né __ que -- st'ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
     E cad -- de tra -- mor -- ti -- ta e si dif -- fu -- se
     Di ge -- la -- to su -- do -- r'e~i lu -- mi chiu -- se.
 }
@@ -85,7 +85,7 @@ altoIX = \relative c' {
 }
 
 altoLyricsIX = \lyricmode {
-    Là tra’l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
+    Là tra'l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
     Mi pa -- ghe -- rai le pe -- ne~em -- pio guer -- rie -- ro.
     Per no -- me~Ar -- mi -- da chia -- me -- rai,
         chia -- me -- rai,
@@ -95,7 +95,7 @@ altoLyricsIX = \lyricmode {
             so -- ven -- te
     Ne -- gli~ul -- ti -- mi sin -- gul -- ti~u -- dir ciò spe -- ro.
     Or qui man -- cò lo spir -- to~a la __ do -- len -- te,
-    Né que -- st’ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
+    Né que -- st'ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
     E cad -- de tra -- mor -- ti -- ta e si dif -- fu -- se
     Di ge -- la -- to su -- do -- r'e~i lu -- mi chiu -- se.
 }
@@ -133,7 +133,7 @@ tenoreIX = \relative c' {
 }
 
 tenoreLyricsIX = \lyricmode {
-    Là tra’l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
+    Là tra'l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
     Per no -- me~Ar -- mi -- da chia -- me -- rai,
         chia -- me -- rai,
     \ijLyrics
@@ -143,7 +143,7 @@ tenoreLyricsIX = \lyricmode {
     Ne -- gli~ul -- ti -- mi sin -- gul -- ti~u -- dir ciò spe -- ro.
     Or qui man -- cò lo spir -- to~a __ la do -- len -- te
         a la __ do -- len -- te,
-    Né que -- st’ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
+    Né que -- st'ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
     E cad -- de tra -- mor -- ti -- ta e si dif -- fu -- se
     Di ge -- la -- to su -- do -- r'e~i lu -- mi chiu -- se.
 }
@@ -183,14 +183,14 @@ bassoIX = \relative c' {
 }
 
 bassoLyricsIX = \lyricmode {
-    Là tra’l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
+    Là tra'l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
     Per no -- me~Ar -- mi -- da,
         Ar -- mi -- da chia -- me -- rai,
         Ar -- mi -- da chia -- me -- rai so -- ven -- te
     Ne -- gli~ul -- ti -- mi sin -- gul -- ti~u -- dir ciò spe -- ro.
     Or qui man -- cò lo spir -- to~a la do -- len -- te,
     or qui man -- cò lo spir -- to~a __ la do -- len -- te,
-    Né que -- st’ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
+    Né que -- st'ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
     E cad -- de tra -- mor -- ti -- ta e si dif -- fu -- se
     Di ge -- la -- to su -- do -- r'e~i lu -- mi chiu -- se.
 }
@@ -226,7 +226,7 @@ quintoIX = \relative c'' {
 }
 
 quintoLyricsIX = \lyricmode {
-    Là tra’l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
+    Là tra'l san -- gu'e le mor -- ti~e -- gro gia -- cen -- te
     Mi pa -- ghe -- rai le pe -- ne~em -- pio guer -- rie -- ro.
     Per no -- me~Ar -- mi -- da chia -- me -- rai,
         chia -- me -- rai, __
@@ -235,7 +235,7 @@ quintoLyricsIX = \lyricmode {
     Or qui man -- cò lo spir -- to~a la do -- len -- te~a
         la do -- len -- te~a
         la __ do -- len -- te,
-    Né que -- st’ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
+    Né que -- st'ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
     E cad -- de tra -- mor -- ti -- ta e si dif -- fu -- se
     Di ge -- la -- to su -- do -- r'e~i lu -- mi chiu -- se.
 }

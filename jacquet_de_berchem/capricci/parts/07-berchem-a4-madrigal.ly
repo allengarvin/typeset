@@ -1,11 +1,11 @@
 %   44 Sia vile agli altri, e da quel solo amata
 %      a cui di sé fece sì larga copia.
 %      Ah, Fortuna crudel, Fortuna ingrata!
-%      trionfan gli altri, e ne moro io d’inopia.
+%      trionfan gli altri, e ne moro io d'inopia.
 %      Dunque esser può che non mi sia più grata?
 %      dunque io posso lasciar mia vita propia?
 %      Ah, più tosto oggi manchino i dì miei,
-%      ch’io viva più, s’amar non debbo lei!
+%      ch'io viva più, s'amar non debbo lei!
 
 cantoVIIincipit = \relative c' {
     \time 4/4
@@ -44,19 +44,19 @@ cantoLyricsVII = \lyricmode {
     A cui di sé,
         di sé fe -- ce __ sì lar -- ga co -- pia.
     Ah, For -- tu -- na __ cru -- del, For -- tu -- na~in -- gra -- ta!
-    Tri -- on -- fan gli~al -- tri,~e ne mo -- ro~io d’i -- no -- pia,
-        e ne mo -- ro~io d’i -- no -- pia,
-            d’i -- no -- pia.
+    Tri -- on -- fan gli~al -- tri,~e ne mo -- ro~io d'i -- no -- pia,
+        e ne mo -- ro~io d'i -- no -- pia,
+            d'i -- no -- pia.
     Dun -- que~es -- ser può che non mi sia più gra -- ta?
     Dun -- que~io pos -- so __ la -- sciar mia vi -- ta pro -- pia,
         mia vi -- ta pro -- pia,
         mia vi -- ta pro -- pia?
     Ah, più to -- sto~og -- gi man -- chi -- no~i dì mie -- i,
     Ah, più to -- sto~og -- gi man -- chi -- no~i dì mie -- i,
-    Ch’io vi -- va più,  __
-    Ch’io vi -- va più, s’a -- mar non deb -- bo le -- i,
-    Ch’io vi -- va più, 
-    Ch’io vi -- va più, s’a -- mar non deb -- bo le -- i!
+    Ch'io vi -- va più,  __
+    Ch'io vi -- va più, s'a -- mar non deb -- bo le -- i,
+    Ch'io vi -- va più, 
+    Ch'io vi -- va più, s'a -- mar non deb -- bo le -- i!
 }
 
 altoVIIincipit = \relative c' {
@@ -97,19 +97,19 @@ altoLyricsVII = \lyricmode {
     A cui di sé fe -- ce sì __ lar -- ga co -- pia.
     Ah, For -- tu -- na cru -- del, For -- tu -- na~in -- gra -- ta,
         For -- tu -- na~in -- gra -- ta! __
-    Tri -- on -- fan gli~al -- tri,~e ne mo -- ro~io d’i -- no -- pia,
-        e ne mo -- ro~io d’i -- no -- pia,
-            d’i -- no -- pia.
+    Tri -- on -- fan gli~al -- tri,~e ne mo -- ro~io d'i -- no -- pia,
+        e ne mo -- ro~io d'i -- no -- pia,
+            d'i -- no -- pia.
     Dun -- que~es -- ser può che non mi sia più gra -- ta?
     Dun -- que~io pos -- so __ la -- sciar mia vi -- ta pro -- pia,
         mia vi -- ta pro -- pia,
         mia vi -- ta pro -- pia?
     Ah, più to -- sto~og -- gi man -- chi -- no~i dì mie -- i,
     Ah, più to -- sto~og -- gi man -- chi -- no~i dì mie -- i,
-    Ch’io vi -- va più,  
-    Ch’io vi -- va più,  
-    Ch’io vi -- va più, s’a -- mar non deb -- bo le -- i,
-    Ch’io vi -- va più, s’a -- mar non deb -- bo le -- i! 
+    Ch'io vi -- va più,  
+    Ch'io vi -- va più,  
+    Ch'io vi -- va più, s'a -- mar non deb -- bo le -- i,
+    Ch'io vi -- va più, s'a -- mar non deb -- bo le -- i! 
 }
 
 tenoreVIIincipit = \relative c' {
@@ -149,21 +149,21 @@ tenoreLyricsVII = \lyricmode {
     A cui di sé fe -- ce sì lar -- ga,
         sì lar -- ga co -- pia.
     Ah, For -- tu -- na cru -- del, For -- tu -- na~in -- gra -- ta!
-    Tri -- on -- fan gli~al -- tri, e ne mo -- ro~io d’i -- no -- pia,
-        e ne mo -- ro~io d’i -- no -- pia,
-            d’i -- no -- pia.
+    Tri -- on -- fan gli~al -- tri, e ne mo -- ro~io d'i -- no -- pia,
+        e ne mo -- ro~io d'i -- no -- pia,
+            d'i -- no -- pia.
     Dun -- que~es -- ser può che non mi sia più gra -- ta?
     Dun -- que~io pos -- so __ la -- sciar mia vi -- ta pro -- pia,
         mia vi -- ta pro -- pia,
         mia vi -- ta pro -- pia?
     Ah, più to -- sto~og -- gi man -- chi -- no~i __ dì mie -- i,
         man -- chi -- no~i dì __ mie -- i,
-    Ch’io vi -- va più, __
-    Ch’io vi -- va più, 
+    Ch'io vi -- va più, __
+    Ch'io vi -- va più, 
     \ijLyrics
-    Ch’io vi -- va più, 
-    \normalLyrics s’a -- mar non deb -- bo le -- i,
-    Ch’io vi -- va più, __ s’a -- mar non deb -- bo le -- i! 
+    Ch'io vi -- va più, 
+    \normalLyrics s'a -- mar non deb -- bo le -- i,
+    Ch'io vi -- va più, __ s'a -- mar non deb -- bo le -- i! 
 }
 
 bassoVIIincipit = \relative c {
@@ -204,18 +204,18 @@ bassoLyricsVII = \lyricmode {
     Sia vi -- le~a -- gli~al -- tri,~e da quel so -- lo~a -- ma -- ta 
     A cui di sé fe -- ce sì lar -- ga co -- pia.
     Ah, For -- tu -- na cru -- del, For -- tu -- na~in -- gra -- ta!
-    Tri -- on -- fan gli~al -- tri,~e ne mo -- ro~io d’i -- no -- pia,
-        e ne mo -- ro~io __ d’i -- no -- pia,
-            d’i -- no -- pia.
+    Tri -- on -- fan gli~al -- tri,~e ne mo -- ro~io d'i -- no -- pia,
+        e ne mo -- ro~io __ d'i -- no -- pia,
+            d'i -- no -- pia.
 %    Dun -- que~es -- ser può che non mi sia più gra -- ta?
     Dun -- que~io pos -- so __ la -- sciar mia vi -- ta pro -- pia,
         mia vi -- ta pro -- pia,
     Ah, più to -- sto~og -- gi man -- chi -- no~i dì __ mie -- i,
     Ah, più to -- sto~og -- gi man -- chi -- no~i __ dì mie -- i,
-    Ch’io vi -- va più,  
-    Ch’io vi -- va più, s’a -- mar non deb -- bo le -- i,
-    Ch’io vi -- va più, 
-    Ch’io vi -- va più, s’a -- mar non deb -- bo le -- i! 
+    Ch'io vi -- va più,  
+    Ch'io vi -- va più, s'a -- mar non deb -- bo le -- i,
+    Ch'io vi -- va più, 
+    Ch'io vi -- va più, s'a -- mar non deb -- bo le -- i! 
 }
 
 cantoVIIincipitVoice = <<

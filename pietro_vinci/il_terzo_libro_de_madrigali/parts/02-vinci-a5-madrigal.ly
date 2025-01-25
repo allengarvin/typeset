@@ -3,8 +3,8 @@
 % Di verno al ghiaccio~i fiori;
 % Sorger lieti e fiorir rose e viole,
 % Pria che da voi mio sole
-% Scioglia quest’alma o che per l’altre oggetto,
-% Novo foco d’amor mi scaldi il petto.
+% Scioglia quest'alma o che per l'altre oggetto,
+% Novo foco d'amor mi scaldi il petto.
 
 % (I previously had this as Né la dolce..., but I think that may be wrong)
 % Scioglia: variation of sciolga, 1st person congiuntivo??
@@ -55,15 +55,15 @@ cantoLyricsII = \lyricmode {
     Sor -- ger lie -- ti e fio -- rir __ ro -- s'e vi -- o -- le,
     Pria che da voi mio so -- le,
         da voi __ mio so -- le
-    Scio -- glia que -- st’al -- ma o che per l’al -- tr'og -- get -- to,
-    Nuo -- vo fo -- co d’a -- mor mi scal -- di,
-        mi scal -- d’il pet -- to;
+    Scio -- glia que -- st'al -- ma o che per l'al -- tr'og -- get -- to,
+    Nuo -- vo fo -- co d'a -- mor mi scal -- di,
+        mi scal -- d'il pet -- to;
 
     pria che da voi mio so -- le,
         da voi __ mio so -- le
-    scio -- glia que -- st’al -- ma o che per l’al -- tr'og -- get -- to,
-    nuo -- vo fo -- co d’a -- mor mi scal -- di
-        mi scal -- d’il pet -- to.
+    scio -- glia que -- st'al -- ma o che per l'al -- tr'og -- get -- to,
+    nuo -- vo fo -- co d'a -- mor mi scal -- di
+        mi scal -- d'il pet -- to.
 }
 
 altoIIincipit = \relative c' {
@@ -119,13 +119,13 @@ altoLyricsII = \lyricmode {
         e fio -- rir __ ro -- s'e vi -- o -- le, __
     Pria che da voi,
     pria che da voi mio so -- le
-    Scio -- glia __ que -- st’al -- ma o che per l’al -- tr'og -- get -- to,
-    Nuo -- vo fo -- co d’a -- mor mi scal -- d’il __ pet -- to;
+    Scio -- glia __ que -- st'al -- ma o che per l'al -- tr'og -- get -- to,
+    Nuo -- vo fo -- co d'a -- mor mi scal -- d'il __ pet -- to;
 
     pria che da voi,
     pria che da voi mio so -- le
-    scio -- glia que -- st’al -- ma o che per l’al -- tr'og -- get -- to,
-    nuo -- vo fo -- co d’a -- mor mi scal -- d’il __ pet -- to.
+    scio -- glia que -- st'al -- ma o che per l'al -- tr'og -- get -- to,
+    nuo -- vo fo -- co d'a -- mor mi scal -- d'il __ pet -- to.
 }
 
 tenoreIIincipit = \relative c' {
@@ -180,16 +180,16 @@ tenoreLyricsII = \lyricmode {
         ro -- s'e vi -- o -- le,
     Pria che da voi,
     pria che da voi mio so -- le
-    Scio -- glia que -- st’al -- ma
-    Nuo -- vo fo -- co d’a -- mor mi scal -- d’il pet -- to,
-    nuo -- vo fo -- co d’a -- mor mi scal -- d’il pet -- to;
+    Scio -- glia que -- st'al -- ma
+    Nuo -- vo fo -- co d'a -- mor mi scal -- d'il pet -- to,
+    nuo -- vo fo -- co d'a -- mor mi scal -- d'il pet -- to;
 
     pria che da voi,
     pria che da voi,
         da voi __ mio so -- le
-    Scio -- glia que -- st’al -- ma o che per l’al -- tr'og -- get -- to,
-    nuo -- vo fo -- co d’a -- mo -- re,
-        d’a -- mor mi scal -- d’il pet -- to.
+    Scio -- glia que -- st'al -- ma o che per l'al -- tr'og -- get -- to,
+    nuo -- vo fo -- co d'a -- mo -- re,
+        d'a -- mor mi scal -- d'il pet -- to.
 }
 
 bassoIIincipit = \relative c {
@@ -235,14 +235,14 @@ bassoLyricsII = \lyricmode {
     Sor -- ger lie -- ti e fio -- rir ro -- s'e vi -- o -- le,
         ro -- s'e vi -- o -- le,
     Pria che da voi __ mio so -- le
-%    Scio -- glia que -- st’al -- ma 
-        o che per l’al -- tr'og -- get -- to,
-    Nuo -- vo fo -- co d’a -- mor mi scal -- d’il __ pet -- to;
+%    Scio -- glia que -- st'al -- ma 
+        o che per l'al -- tr'og -- get -- to,
+    Nuo -- vo fo -- co d'a -- mor mi scal -- d'il __ pet -- to;
 
     pria che da voi __ mio so -- le
-%    scio -- glia que -- st’al -- ma,
-        o che per l’al -- tr'og -- get -- to,
-    nuo -- vo fo -- co d’a -- mor mi scal -- d’il __ pet -- to.
+%    scio -- glia que -- st'al -- ma,
+        o che per l'al -- tr'og -- get -- to,
+    nuo -- vo fo -- co d'a -- mor mi scal -- d'il __ pet -- to.
 }
 
 quintoIIincipit = \relative c' {
@@ -299,15 +299,15 @@ quintoLyricsII = \lyricmode {
     Pria che da voi,
     pria che da voi,
         da voi __ mio so -- le
-    Scio -- glia que -- st’al -- ma o che per l’al -- tr'og -- get -- to,
-    Nuo -- vo fo -- co d’a -- mo -- re,
-        d’a -- mor mi scal -- d’il pet -- to;
+    Scio -- glia que -- st'al -- ma o che per l'al -- tr'og -- get -- to,
+    Nuo -- vo fo -- co d'a -- mo -- re,
+        d'a -- mor mi scal -- d'il pet -- to;
 
     pria che da voi,
     pria che da voi __ mio so -- le
-    scio -- glia que -- st’al -- ma,
-    nuo -- vo fo -- co d’a -- mor mi scal -- d’il pet -- to,
-    nuo -- vo fo -- co d’a -- mor mi scal -- d’il pet -- to.
+    scio -- glia que -- st'al -- ma,
+    nuo -- vo fo -- co d'a -- mor mi scal -- d'il pet -- to,
+    nuo -- vo fo -- co d'a -- mor mi scal -- d'il pet -- to.
 }
 
 cantoIIincipitVoice = <<

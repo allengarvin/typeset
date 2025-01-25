@@ -45,8 +45,8 @@ cantusLyricsXXXVI = \lyricmode {
     l'ar -- mo -- ni -- eu -- se ly -- re.
         
         
-% Ne cherchez plus l’armoniance,
-% Lyre d’Orpheus pour voz resiouysance.
+% Ne cherchez plus l'armoniance,
+% Lyre d'Orpheus pour voz resiouysance.
 % Mais plongez vous en desolation.
 % 
 }

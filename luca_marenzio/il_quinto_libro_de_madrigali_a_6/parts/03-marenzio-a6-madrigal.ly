@@ -1,6 +1,6 @@
 % Leggiadre ninfe e pastorelli amanti
 % che con lieti sembianti
-% in questa ombrosa valle all’onde chiare
+% in questa ombrosa valle all'onde chiare
 % di vivo fonte oggi vi trasse Amore
 % a sceglier fior da fiore
 % per tesser ghirlandette e coronare
@@ -96,7 +96,7 @@ cantoIII = \relative c'' {
 cantoLyricsIII = \lyricmode {
     Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
     Che con lie -- ti sem -- bian -- ti
-    In que -- st'om -- bro -- sa val -- le % al -- l’on -- de chia -- re
+    In que -- st'om -- bro -- sa val -- le % al -- l'on -- de chia -- re
     % Di vi -- vo fon -- te~og -- gi vi tras -- se~A -- mo -- re
         og -- gi vi tras -- se~A -- mo -- re
     % A sce -- glier fior da fio -- re
@@ -170,7 +170,7 @@ altoLyricsIII = \lyricmode {
     Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
     leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
     Che con lie -- ti sem -- bian -- ti
-    In que -- st'om -- bro -- sa val -- le al -- l’on -- de chia -- re
+    In que -- st'om -- bro -- sa val -- le al -- l'on -- de chia -- re
     Di vi -- vo fon -- te~og -- gi vi tras -- se~A -- mo -- re
 %        og -- gi vi tras -- se~A -- mo -- re
 %    % A sce -- glier fior da fio -- re
@@ -243,7 +243,7 @@ tenoreIII = \relative c' {
 tenoreLyricsIII = \lyricmode {
     Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
     Che con lie -- ti sem -- bian -- ti
-    In que -- st'om -- bro -- sa val -- le % al -- l’on -- de chia -- re
+    In que -- st'om -- bro -- sa val -- le % al -- l'on -- de chia -- re
 %    % Di vi -- vo fon -- te~
         og -- gi vi tras -- se~A -- mo -- re
 %    % A sce -- glier fior da fio -- re
@@ -314,7 +314,7 @@ bassoIII = \relative c {
 bassoLyricsIII = \lyricmode {
     Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
     Che con lie -- ti sem -- bian -- ti
-    In que -- st'om -- bro -- sa val -- le al -- l’on -- de chia -- re
+    In que -- st'om -- bro -- sa val -- le al -- l'on -- de chia -- re
     Di vi -- vo fon -- te~og -- gi vi tras -- se~A -- mo -- re
 %        og -- gi vi tras -- se~A -- mo -- re
     A sce -- glier fior __ da fio -- re
@@ -388,7 +388,7 @@ quintoIII = \relative c'' {
 quintoLyricsIII = \lyricmode {
     Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
     Che con lie -- ti sem -- bian -- ti
-    In que -- st'om -- bro -- sa val -- le al -- l’on -- de chia -- re
+    In que -- st'om -- bro -- sa val -- le al -- l'on -- de chia -- re
     Di vi -- vo fon -- te % ~og -- gi vi tras -- se~A -- mo -- re
 %        og -- gi vi tras -- se~A -- mo -- re
     A sce -- glier fior __ da fio -- re
@@ -458,7 +458,7 @@ sestoIII = \relative c' {
 sestoLyricsIII = \lyricmode {
     Leg -- gia -- dre nin -- fe~e pa -- sto -- rel -- li~a -- man -- ti
     Che con lie -- ti sem -- bian -- ti
-    In que -- st'om -- bro -- sa val -- le al -- l’on -- de chia -- re
+    In que -- st'om -- bro -- sa val -- le al -- l'on -- de chia -- re
     Di vi -- vo fon -- te % ~og -- gi vi tras -- se~A -- mo -- re
 %        og -- gi vi tras -- se~A -- mo -- re
     A sce -- glier fior da fio -- re __

@@ -1,12 +1,12 @@
 %   42  Di furto ancor oltre ogni vizio rio,
 %       di te, crudele, ho da dolermi molto.
 %       Che tu mi tenga il cor, non ti dico io;
-%       di questo io vo’ che tu ne vada assolto: 
+%       di questo io vo' che tu ne vada assolto: 
                                       % sciolto
-%       dico di te, che t’eri fatto mio,
+%       dico di te, che t'eri fatto mio,
 %       e poi contra ragion mi ti sei tolto.
 %       Renditi, iniquo, a me; che tu sai bene
-%       che non si può salvar chi l’altrui tiene.
+%       che non si può salvar chi l'altrui tiene.
 
 cantoXXVincipit = \relative c' {
     \time 4/4
@@ -46,16 +46,16 @@ cantoLyricsXXV = \lyricmode {
     Di te, cru -- de -- le~ho da do -- ler -- mi mol -- to. __
     Che tu mi ten -- ga~il cor, 
     Che tu mi ten -- ga~il cor, non ti di -- co~i -- o;
-    Di que -- sto~io vo’ che tu ne va -- da sciol -- to,
+    Di que -- sto~io vo' che tu ne va -- da sciol -- to,
     Di -- co di te, 
-    Di -- co di te, che t’e -- ri fat -- to mi -- o,
+    Di -- co di te, che t'e -- ri fat -- to mi -- o,
     E poi con -- tra ra -- gion mi ti sei tol -- to,
     \ijLyrics
         mi ti sei tol -- to.
     \normalLyrics
     Ren -- di -- ti~i -- ni -- quo~a me; che tu sai be -- ne __
-    Che non si __ può sal -- var chi __ l’al -- trui tie -- ne,
-    Che __ non si può sal -- var chi l’al -- trui __ tie -- ne.
+    Che non si __ può sal -- var chi __ l'al -- trui tie -- ne,
+    Che __ non si può sal -- var chi l'al -- trui __ tie -- ne.
 }
 
 altoXXVincipit = \relative c' {
@@ -99,21 +99,21 @@ altoLyricsXXV = \lyricmode {
     Che tu mi ten -- ga~il cor, non __ ti di -- co~i -- o,
         non ti di -- co~i -- o;
     Di que -- sto,
-    Di que -- sto~io vo’ __ che tu ne va -- da sciol -- to,
+    Di que -- sto~io vo' __ che tu ne va -- da sciol -- to,
     Di -- co di te, 
     Di -- co di te, 
     \ijLyrics
     Di -- co di te, 
     \normalLyrics
-        che t’e -- ri fat -- to mi -- o,
+        che t'e -- ri fat -- to mi -- o,
     E poi con -- tra ra -- gion mi ti sei tol -- to,
     Ren -- di -- ti~i -- ni -- quo~a me; che tu sai be -- ne,
     Ren -- di -- ti~i -- ni -- quo~a me; che tu sai be -- ne 
-    Che non __ si può sal -- var chi l’al -- trui tie -- ne,
-        chi l’al -- trui tie -- ne,
-    Che non si può sal -- var __ chi l’al -- trui tie -- ne,
-        chi l’al -- trui tie -- ne,
-    Che non si può sal -- var chi l’al -- trui tie -- ne.
+    Che non __ si può sal -- var chi l'al -- trui tie -- ne,
+        chi l'al -- trui tie -- ne,
+    Che non si può sal -- var __ chi l'al -- trui tie -- ne,
+        chi l'al -- trui tie -- ne,
+    Che non si può sal -- var chi l'al -- trui tie -- ne.
 }
 
 tenoreXXVincipit = \relative c {
@@ -155,21 +155,21 @@ tenoreLyricsXXV = \lyricmode {
     Di te, cru -- de -- le~ho da do -- ler -- mi mol -- to. 
     Che tu mi ten -- ga~il cor, non ti di -- co~i -- o,
     Che tu mi ten -- ga~il cor, non ti di -- co~i -- o;
-    Di que -- sto~io vo’ che __ tu ne va -- da sciol -- to,
+    Di que -- sto~io vo' che __ tu ne va -- da sciol -- to,
         che tu ne va -- da sciol -- to,
     Di -- co di te, 
-    Di -- co di te, che t’e -- ri fat -- to mi -- o,
+    Di -- co di te, che t'e -- ri fat -- to mi -- o,
     E poi con -- tra ra -- gion mi ti sei tol -- to,
     \ijLyrics
         mi ti sei tol -- to.
     \normalLyrics
     Ren -- di -- ti~i -- ni -- quo~a me; che tu sai be -- ne,
         che tu __ sai be -- ne 
-    Che non si può sal -- var chi l’al -- trui tie -- ne,
-        chi l’al -- trui tie -- ne,
-    Che non si può sal -- var chi l’al -- trui tie -- ne,
-        chi l’al -- trui tie -- ne,
-    Che non si può sal -- var chi l’al -- trui tie -- ne.
+    Che non si può sal -- var chi l'al -- trui tie -- ne,
+        chi l'al -- trui tie -- ne,
+    Che non si può sal -- var chi l'al -- trui tie -- ne,
+        chi l'al -- trui tie -- ne,
+    Che non si può sal -- var chi l'al -- trui tie -- ne.
 }
 
 bassoXXVincipit = \relative c {
@@ -211,21 +211,21 @@ bassoLyricsXXV = \lyricmode {
     Che tu mi ten -- ga~il cor, 
     \normalLyrics
         non ti di -- co~i -- o;
-    Di que -- sto~io vo’ che __ tu ne va -- da sciol -- to,
+    Di que -- sto~io vo' che __ tu ne va -- da sciol -- to,
         che tu ne va -- da sciol -- to,
-    Di -- co di te, che t’e -- ri fat -- to mi -- o,
+    Di -- co di te, che t'e -- ri fat -- to mi -- o,
     E poi con -- tra ra -- gion mi ti sei tol -- to,
     \ijLyrics
         mi ti sei tol -- to.
     \normalLyrics
     Ren -- di -- ti~i -- ni -- quo~a me; che tu sai be -- ne 
         che tu sai be -- ne 
-    Che non si può sal -- var chi l’al -- trui tie -- ne,
-        chi l’al -- trui tie -- ne,
-    Che non si può sal -- var chi l’al -- trui tie -- ne,
-        chi l’al -- trui tie -- ne,
+    Che non si può sal -- var chi l'al -- trui tie -- ne,
+        chi l'al -- trui tie -- ne,
+    Che non si può sal -- var chi l'al -- trui tie -- ne,
+        chi l'al -- trui tie -- ne,
     \ijLyrics
-    Che non si può sal -- var chi l’al -- trui tie -- ne.
+    Che non si può sal -- var chi l'al -- trui tie -- ne.
     \normalLyrics
 }
 

@@ -6,7 +6,7 @@
 % con gran diletto lei,
 % quando dirmi sentei: Stolto, che fai?
 % 
-% Tempo perduto non s’acquista mai.
+% Tempo perduto non s'acquista mai.
 % Allor io mi chinai così pian piano
 % e baciandole il viso,
 % provai quanta dolcezza ha il paradiso.
@@ -71,11 +71,11 @@ cantoLyricsXVI = \lyricmode {
     Quan -- do dir -- mi sen -- te -- i: Stol -- to, che fa -- i?
     quan -- do dir -- mi sen -- te -- i: Stol -- to, che fa -- i?
  
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
     \ijLyrics
-    tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
+    tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
     \normalLyrics
-    tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+    tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
 %    Al -- lor io mi chi -- nai co -- sì pian pia -- no
     E __ ba -- cian -- do -- le~il vi -- so,
     e ba -- cian -- do -- le~il vi -- so,
@@ -144,11 +144,11 @@ altoLyricsXVI = \lyricmode {
     quan -- do dir -- mi sen -- te -- i:
     \normalLyrics
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
     \ijLyrics
-    tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
+    tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
     \normalLyrics
-    tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+    tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi chi -- nai co -- sì __ pian pia -- no
     E __ ba -- cian -- do -- le~il vi -- so,
     Pro -- vai quan -- ta dol -- cez -- za~ha~il pa -- ra -- di -- so~e
@@ -213,10 +213,10 @@ tenoreLyricsXVI = \lyricmode {
     Quan -- do dir -- mi sen -- te -- i: Stol -- to, che fa -- i?
     quan -- do dir -- mi sen -- te -- i: Stol -- to, che fa -- i?
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
-    tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
+    tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
     \ijLyrics
-    tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+    tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
     \normalLyrics
     Al -- lor io mi __ chi -- nai co -- sì pian pia -- no
     E ba -- cian -- do -- le~il vi -- so,
@@ -275,7 +275,7 @@ bassoLyricsXVI = \lyricmode {
     Quan -- do dir -- mi sen -- te -- i,
     quan -- do dir -- mi sen -- te -- i: 
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi __ chi -- nai co -- sì __ pian pia -- no
     E __ ba -- cian -- do -- le~il vi -- so,
     Pro -- vai quan -- ta dol -- cez -- za~ha~il pa -- ra -- di -- so,
@@ -334,11 +334,11 @@ quintoLyricsXVI = \lyricmode {
     Quan -- do dir -- mi sen -- te -- i: Stol -- to, che fa -- i?
     quan -- do dir -- mi sen -- te -- i: Stol -- to, che fa -- i?
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
     \ijLyrics
-    tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
+    tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
     \normalLyrics
-    tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+    tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
 %    Al -- lor io mi chi -- nai co -- sì pian pia -- no
     E __ ba -- cian -- do -- le~il vi -- so,
     Pro -- vai quan -- ta dol -- cez -- za~ha~il pa -- ra -- di -- so, __

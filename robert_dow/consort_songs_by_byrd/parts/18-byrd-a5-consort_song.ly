@@ -5,7 +5,7 @@
 % 
 % For I am weak, therefore, O Lord,
 % of mercie me forbeare:
-% And heale me lord, for why? thou know’st,
+% And heale me lord, for why? thou know'st,
 % my bons do quake for feare.
 
 superiusXVIIIincipit = \relative c'' {
@@ -72,7 +72,7 @@ mediusLyricsXVIII = \lyricmode {
  
     For I am weak, there -- fore, O Lord,
     of mer -- cy me __ for -- bear:
-    And heal me Lord, for why? thou know’st,
+    And heal me Lord, for why? thou know'st,
     my bones do quake for fear,
     my bones do quake for __ fear.
 }

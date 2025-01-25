@@ -1,11 +1,11 @@
-%   44 Se l’affogarmi in mar morte non era
-%      a tuo senno crudel, pur ch’io ti sazii,
+%   44 Se l'affogarmi in mar morte non era
+%      a tuo senno crudel, pur ch'io ti sazii,
 %      non recuso che mandi alcuna fera
 %      che mi divori, e non mi tenga in strazii.
-%      D’ogni martir che sia, pur ch’io ne pera,
-%      esser non può ch’assai non ti ringrazii. –
+%      D'ogni martir che sia, pur ch'io ne pera,
+%      esser non può ch'assai non ti ringrazii. –
 %      Così dicea la donna con gran pianto,
-%      quando le apparve l’eremita accanto.
+%      quando le apparve l'eremita accanto.
 
 cantoXVincipit = \relative c'' {
     \time 4/4
@@ -41,21 +41,21 @@ cantoXV = \relative c'' {
 }
 
 cantoLyricsXV = \lyricmode {
-    Se l’af -- fo -- gar -- mi~in mar mor -- te __ non e -- ra,
+    Se l'af -- fo -- gar -- mi~in mar mor -- te __ non e -- ra,
         mor -- te non e -- ra __
     A tuo sen -- no cru -- del, 
-    A tuo sen -- no cru -- del, pur ch’io ti sa -- zii,
+    A tuo sen -- no cru -- del, pur ch'io ti sa -- zii,
     Non re -- cu -- so che man -- di~al -- cu -- na fe -- ra
     Che mi di -- vo -- ri, 
     Che mi __ di -- vo -- ri, e non mi ten -- ga~in stra -- zii,
         e non mi ten -- ga~in stra -- zii.
-    D’o -- gni mar -- tir __ che sia, pur ch’io ne pe -- ra,
-    D’o -- gni mar -- tir che sia, pur ch’io ne pe -- ra,
-    Es -- ser non può ch’as -- sai,
-        ch’as -- sai non ti rin -- gra -- zii,
+    D'o -- gni mar -- tir __ che sia, pur ch'io ne pe -- ra,
+    D'o -- gni mar -- tir che sia, pur ch'io ne pe -- ra,
+    Es -- ser non può ch'as -- sai,
+        ch'as -- sai non ti rin -- gra -- zii,
     Co -- sì di -- cea la don -- na con __ gran pian -- to,
-    Quan -- do le~ap -- par -- ve l’e -- re -- mi -- ta ac -- can -- to,
-    Quan -- do le~ap -- par -- ve l’e -- re -- mi -- ta~ac -- can -- to.
+    Quan -- do le~ap -- par -- ve l'e -- re -- mi -- ta ac -- can -- to,
+    Quan -- do le~ap -- par -- ve l'e -- re -- mi -- ta~ac -- can -- to.
 }
 
 altoXVincipit = \relative c' {
@@ -91,22 +91,22 @@ altoXV = \relative c' {
 }
 
 altoLyricsXV = \lyricmode {
-    Se l’af -- fo -- gar -- mi~in mar mor -- te non e -- ra,
+    Se l'af -- fo -- gar -- mi~in mar mor -- te non e -- ra,
         mor -- te non e -- ra
     A tuo sen -- no cru -- del, 
-    A tuo sen -- no cru -- del, pur ch’io ti sa -- zii,
+    A tuo sen -- no cru -- del, pur ch'io ti sa -- zii,
     Non re -- cu -- so __ che man -- di~al -- cu -- na __ fe -- ra,
     Non re -- cu -- so che man -- di~al -- cu -- na fe -- ra
     Che mi di -- vo -- ri, 
     Che mi di -- vo -- ri, e non mi ten -- ga~in stra -- zii,
         in stra -- zii.
-    D’o -- gni mar -- tir che sia, pur ch’io __ ne __ pe -- ra,
-        che sia pur ch’io __ ne pe -- ra,
-    Es -- ser non può ch’as -- sai non ti rin -- gra -- zii,
-        ch’as -- sai non ti rin -- gra -- zii. 
+    D'o -- gni mar -- tir che sia, pur ch'io __ ne __ pe -- ra,
+        che sia pur ch'io __ ne pe -- ra,
+    Es -- ser non può ch'as -- sai non ti rin -- gra -- zii,
+        ch'as -- sai non ti rin -- gra -- zii. 
     Co -- sì di -- cea la don -- na con gran __ pian -- to,
-    Quan -- do le~ap -- par -- ve l’e -- re -- mi -- ta~ac -- can -- to,
-    Quan -- do le~ap -- par -- ve l’e -- re -- mi -- ta~ac -- can -- to.
+    Quan -- do le~ap -- par -- ve l'e -- re -- mi -- ta~ac -- can -- to,
+    Quan -- do le~ap -- par -- ve l'e -- re -- mi -- ta~ac -- can -- to.
 }
 
 tenoreXVincipit = \relative c' {
@@ -143,23 +143,23 @@ tenoreXV = \relative c' {
 }
 
 tenoreLyricsXV = \lyricmode {
-    Se l’af -- fo -- gar -- mi~in mar mor -- te non e -- ra
-    A tuo sen -- no cru -- del, pur ch’io ti sa -- zii,
-        pur ch’io ti sa -- zii,
-        pur ch’io ti sa -- zii,
+    Se l'af -- fo -- gar -- mi~in mar mor -- te non e -- ra
+    A tuo sen -- no cru -- del, pur ch'io ti sa -- zii,
+        pur ch'io ti sa -- zii,
+        pur ch'io ti sa -- zii,
     Non re -- cu -- so che man -- di~al -- cu -- na fe -- ra
         che man -- di~al -- cu -- na fe -- ra
     Che mi di -- vo -- ri, 
     Che mi di -- vo -- ri, 
     Che mi di -- vo -- ri, e non mi ten -- ga~in stra -- zii,
         e non mi ten -- ga~in stra -- zii.
-    D’o -- gni mar -- tir che sia, pur ch’io ne pe -- ra,
-    D’o -- gni mar -- tir che sia, pur ch’io ne pe -- ra,
-    Es -- ser non può ch’as -- sai non ti __ rin -- gra -- zii,
-        ch’as -- sai non ti rin -- gra -- zii. 
+    D'o -- gni mar -- tir che sia, pur ch'io ne pe -- ra,
+    D'o -- gni mar -- tir che sia, pur ch'io ne pe -- ra,
+    Es -- ser non può ch'as -- sai non ti __ rin -- gra -- zii,
+        ch'as -- sai non ti rin -- gra -- zii. 
     Co -- sì di -- cea la don -- na con __ gran pian -- to, __
-    Quan -- do le~ap -- par -- ve l’e -- re -- mi -- ta~ac -- can -- to,
-    Quan -- do le~ap -- par -- ve l’e -- re -- mi -- ta~ac -- can -- to.
+    Quan -- do le~ap -- par -- ve l'e -- re -- mi -- ta~ac -- can -- to,
+    Quan -- do le~ap -- par -- ve l'e -- re -- mi -- ta~ac -- can -- to.
 }
 
 bassoXVincipit = \relative c {
@@ -192,19 +192,19 @@ bassoXV = \relative c {
 }
 
 bassoLyricsXV = \lyricmode {
-    Se l’af -- fo -- gar -- mi~in mar mor -- te non e -- ra
-    A tuo sen -- no cru -- del, pur ch’io ti sa -- zii,
+    Se l'af -- fo -- gar -- mi~in mar mor -- te non e -- ra
+    A tuo sen -- no cru -- del, pur ch'io ti sa -- zii,
     Non re -- cu -- so che man -- di~al -- cu -- na fe -- ra
         che man -- di~al -- cu -- na fe -- ra
     Che __ mi di -- vo -- ri, e non mi ten -- ga~in stra -- zii,
         e non mi ten -- ga~in stra -- zii.
-    D’o -- gni mar -- tir che sia, pur ch’io ne pe -- ra,
-    D’o -- gni mar -- tir che sia, pur ch’io ne pe -- ra,
-    Es -- ser non può ch’as -- sai non ti __ rin -- gra -- zii,
-        ch’as -- sai non ti rin -- gra -- zii. 
+    D'o -- gni mar -- tir che sia, pur ch'io ne pe -- ra,
+    D'o -- gni mar -- tir che sia, pur ch'io ne pe -- ra,
+    Es -- ser non può ch'as -- sai non ti __ rin -- gra -- zii,
+        ch'as -- sai non ti rin -- gra -- zii. 
     Co -- sì di -- cea la don -- na con __ gran pian -- to,
-    Quan -- do le~ap -- par -- ve l’e -- re -- mi -- ta~ac -- can -- to,
-    Quan -- do le~ap -- par -- ve l’e -- re -- mi -- ta~ac -- can -- to.
+    Quan -- do le~ap -- par -- ve l'e -- re -- mi -- ta~ac -- can -- to,
+    Quan -- do le~ap -- par -- ve l'e -- re -- mi -- ta~ac -- can -- to.
 }
 
 cantoXVincipitVoice = <<

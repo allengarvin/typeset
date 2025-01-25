@@ -36,16 +36,16 @@ cantoLyricsXVII = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a,
         mo -- rir,
         mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di __ co -- lei ch’a -- do -- ra,
-    On -- d’el -- la che di lui non me -- no~ar -- de -- a,
-    on -- d’el -- la che di lui non me -- no~ar -- de -- a,
+    Gli~oc -- chi mi -- ran -- do di __ co -- lei ch'a -- do -- ra,
+    On -- d'el -- la che di lui non me -- no~ar -- de -- a,
+    on -- d'el -- la che di lui non me -- no~ar -- de -- a,
         non __ me -- no~ar -- de -- a,
     Gli dis -- se: Ahi -- mè ben mi -- o, 
     Deh non mo -- rir an -- co -- ra,
-    Che te -- co bra -- mo di mo -- rir __ an -- ch’i -- o,
+    Che te -- co bra -- mo di mo -- rir __ an -- ch'i -- o,
     che te -- co bra -- mo,
     che te -- co bra -- mo di mo -- rir, __
-    che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+    che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
 }
 
 altoXVIIincipit = \relative c'' {
@@ -92,11 +92,11 @@ altoLyricsXVII = \lyricmode {
         mo -- rir vo -- le -- a,
         mo -- rir,
         mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra,
-        di co -- lei ch’a -- do -- ra,
-    On -- d’el -- la che di lui,
-    on -- d’el -- la che di lui,
-    on -- d’el -- la che di lui non me -- no~ar -- de -- a,
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra,
+        di co -- lei ch'a -- do -- ra,
+    On -- d'el -- la che di lui,
+    on -- d'el -- la che di lui,
+    on -- d'el -- la che di lui non me -- no~ar -- de -- a,
     Gli dis -- se,
     \ijLyrics
     gli dis -- se,
@@ -110,9 +110,9 @@ altoLyricsXVII = \lyricmode {
     deh non mo -- rir an -- co -- ra,
     Che te -- co bra -- mo, __
     che te -- co bra -- mo di mo -- rir, __
-        mo -- rir an -- ch’i -- o,
-    che te -- co bra -- mo di mo -- rir __ an -- ch’i -- o,
-    che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+        mo -- rir an -- ch'i -- o,
+    che te -- co bra -- mo di mo -- rir __ an -- ch'i -- o,
+    che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
 }
 
 tenoreXVIIincipit = \relative c' {
@@ -158,11 +158,11 @@ tenoreLyricsXVII = \lyricmode {
         mo -- rir,
         mo -- rir,
         mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra,
-        di co -- lei ch’a -- do -- ra,
-    On -- d’el -- la che di lui non me -- no~ar -- de -- a, __
-    on -- d’el -- la che di lui,
-    on -- d’el -- la che di lui non me -- no~ar -- de -- a,
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra,
+        di co -- lei ch'a -- do -- ra,
+    On -- d'el -- la che di lui non me -- no~ar -- de -- a, __
+    on -- d'el -- la che di lui,
+    on -- d'el -- la che di lui non me -- no~ar -- de -- a,
         ar -- de -- a,
 
     Gli dis -- se: Ahi -- mè ben mi -- o, 
@@ -171,10 +171,10 @@ tenoreLyricsXVII = \lyricmode {
     \normalLyrics
         deh non mo -- rir an -- co -- ra,
             mo -- rir an -- co -- ra,
-    Che te -- co bra -- mo di mo -- rir __ an -- ch’i -- o,
+    Che te -- co bra -- mo di mo -- rir __ an -- ch'i -- o,
     che te -- co bra -- mo,
     Che te -- co bra -- mo di mo -- rir,
-        mo -- rir an -- ch’i -- o.
+        mo -- rir an -- ch'i -- o.
 }
 
 bassoXVIIincipit = \relative c {
@@ -214,9 +214,9 @@ bassoLyricsXVII = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a,
         mo -- rir,
         mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di __ co -- lei ch’a -- do -- ra,
-        ch’a -- do -- ra,
-    On -- d’el -- la che di lui non me -- no~ar -- de -- a,
+    Gli~oc -- chi mi -- ran -- do di __ co -- lei ch'a -- do -- ra,
+        ch'a -- do -- ra,
+    On -- d'el -- la che di lui non me -- no~ar -- de -- a,
         non me -- no~ar -- de -- a,
     Gli dis -- se:
     \ijLyrics
@@ -226,7 +226,7 @@ bassoLyricsXVII = \lyricmode {
     Deh non mo -- rir an -- co -- ra,
     deh non mo -- rir an -- co -- ra,
     Che te -- co bra -- mo di mo -- rir,
-    Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
 }
 
 quintoXVIIincipit = \relative c'' {
@@ -271,12 +271,12 @@ quintoLyricsXVII = \lyricmode {
     Tir -- si mo -- rir vo -- le -- a,
         mo -- rir vo -- le -- a,
         mo -- rir vo -- le -- a,
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra,
-        di co -- lei ch’a -- do -- ra,
-    On -- d’el -- la che di lui non men', __
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra,
+        di co -- lei ch'a -- do -- ra,
+    On -- d'el -- la che di lui non men', __
         non me -- no~ar -- de -- a,
-    on -- d’el -- la che di lui non me -- no~ar -- de -- a,
-    on -- d’el -- la che di lui non me -- no~ar -- de -- a,
+    on -- d'el -- la che di lui non me -- no~ar -- de -- a,
+    on -- d'el -- la che di lui non me -- no~ar -- de -- a,
     Gli dis -- se: Ahi -- mè ben mi -- o, 
     Deh non mo -- rir an -- co -- ra,
     \ijLyrics
@@ -327,33 +327,33 @@ sestoLyricsXVII = \lyricmode {
         mo -- rir vo -- le -- a,
     \normalLyrics
     Gli~oc -- chi mi -- ran -- do,
-    gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ra,
-    On -- d’el -- la che di lui non me -- no~ar -- de -- a,
-    on -- d’el -- la che di lui non me -- no~ar -- de -- a,
+    gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ra,
+    On -- d'el -- la che di lui non me -- no~ar -- de -- a,
+    on -- d'el -- la che di lui non me -- no~ar -- de -- a,
     Gli dis -- se: Ahi -- mè ben mi -- o, 
     Deh non mo -- rir an -- co -- ra,
     \ijLyrics
         deh non mo -- rir an -- co -- ra,
     \normalLyrics
     Che te -- co bra -- mo di mo -- rir,
-        di mo -- rir an -- ch’i -- o,
+        di mo -- rir an -- ch'i -- o,
     che te -- co bra -- mo,
     che te -- co bra -- mo di mo -- rir,
     \ijLyrics
     che te -- co bra -- mo di mo -- rir
     \normalLyrics
-        an -- ch’i -- o.
+        an -- ch'i -- o.
 
 %    Fre -- nò Tir -- si~il de -- si -- o
-%    Ch’eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
+%    Ch'eb -- be di pur sua vi -- ta~al -- lor fi -- ni -- re,
 %    E sen -- tea mor -- te~e non po -- tea mo -- ri -- re,
 %    E men -- tre~il guar -- do suo fis -- so te -- ne -- a
-%    Ne’ be -- gli~oc -- chi di -- vi -- ni,
-%    E’l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
+%    Ne' be -- gli~oc -- chi di -- vi -- ni,
+%    E'l net -- tar a -- mo -- ro -- so~in -- di be -- ve -- a,
 %    La bel -- la nin -- fa sua che già vi -- ci -- ni
-%    Sen -- tea~i mes -- si d’a -- mo -- re
-%    Dis -- se con oc -- chi lan -- guid’ e tre -- man -- ti:
-%%     Mo -- ri cor mio, ch’io mo -- ro.
+%    Sen -- tea~i mes -- si d'a -- mo -- re
+%    Dis -- se con oc -- chi lan -- guid' e tre -- man -- ti:
+%%     Mo -- ri cor mio, ch'io mo -- ro.
 %    Cui __ ri -- spo -- se~il pa -- sto -- re:
 %    Ed io, mia vi -- ta, mo -- ro,
 %    Ed io, mia vi -- ta, mo -- ro,

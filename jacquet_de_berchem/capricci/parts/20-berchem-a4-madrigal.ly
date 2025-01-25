@@ -4,7 +4,7 @@
 %      mi son portato! ohimè, quanto mi aggrava
 %      che potendoti aver notte e dì meco,
 %      quando la tua bontà non mel negava,
-%      t’abbia lasciato in man di Namo porre,
+%      t'abbia lasciato in man di Namo porre,
 %      per non sapermi a tanta ingiuria opporre!
 
 
@@ -46,7 +46,7 @@ cantoLyricsXX = \lyricmode {
     Quan -- do la tua bon -- tà,
     quan -- do la tua bon -- tà non mel ne -- ga -- va, __
         non mel ne -- ga -- va, 
-    T’ab -- bia la -- scia -- to~in man __ di Na -- mo por -- re,
+    T'ab -- bia la -- scia -- to~in man __ di Na -- mo por -- re,
     Per non sa -- per -- mi~a tan -- ta~in -- giu -- ria~op -- por -- re,
     per non sa -- per -- mi~a tan -- ta~in -- giu -- ria~op -- por -- re!
 }
@@ -90,7 +90,7 @@ altoLyricsXX = \lyricmode {
     quan -- do la tua bon -- tà __ non mel ne -- ga -- va,
         non mel ne -- ga -- va,
         non mel ne -- ga -- va,
-    T’ab -- bia la -- scia -- to~in man __ di Na -- mo por -- re,
+    T'ab -- bia la -- scia -- to~in man __ di Na -- mo por -- re,
     Per non sa -- per -- mi~a tan -- ta~in -- giu -- ria~op -- por -- re,
     per non sa -- per -- mi~a tan -- ta~in -- giu -- ria~op -- por -- re!
 }
@@ -132,7 +132,7 @@ tenoreLyricsXX = \lyricmode {
     Quan -- do la tua bon -- tà,
     quan -- do la tua bon -- tà non mel ne -- ga -- va, __
         non mel ne -- ga -- va,
-    T’ab -- bia la -- scia -- to~in man di Na -- mo por -- re,
+    T'ab -- bia la -- scia -- to~in man di Na -- mo por -- re,
     Per non sa -- per -- mi~a tan -- ta~in -- giu -- ria~op -- por -- re,
     per non sa -- per -- mi~a tan -- ta~in -- giu -- ria~op -- por -- re!
 }
@@ -173,7 +173,7 @@ bassoLyricsXX = \lyricmode {
     Quan -- do la tua bon -- tà,
     quan -- do la tua bon -- tà non mel __ ne -- ga -- va,
         non mel __ ne -- ga -- va,
-    T’ab -- bia la -- scia -- to~in man __ di Na -- mo por -- re,
+    T'ab -- bia la -- scia -- to~in man __ di Na -- mo por -- re,
     Per non sa -- per -- mi~a tan -- ta~in -- giu -- ria~op -- por -- re,
     per non sa -- per -- mi~a tan -- ta~in -- giu -- ria~op -- por -- re!
 }

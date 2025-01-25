@@ -1,18 +1,18 @@
 % Cara Germania mia, quanto ti deggio.
 %   Quanto di deggio, cara Italia mia.
 % Da Barbara gentil render mi veggio
-% L’antica età dell’or ch’in me fioria.
+% L'antica età dell'or ch'in me fioria.
 %   Dal forte Alfonso il mio cesareo seggio
 %   Richiamar sento a sommi honori di pria.
 % O restate, alti dei, fra noi restate,
-% Che la terra del ciel’ a par beate.
+% Che la terra del ciel' a par beate.
 
 
 %Quanto ti deggio cara Italia mia
 %Dal forte Alfonso il mio cesareo seggio
 %  Richiamar sento a sommi onori di pria.
 %O restate, alti dei, fra noi restate,
-%Che la terra del ciel’ a par beate. 
+%Che la terra del ciel' a par beate. 
 
 cantoOneXXVIIIincipit = \relative c'' {
     \time 2/2
@@ -311,7 +311,7 @@ bassoTwoLyricsXXVIII = \lyricmode {
 %Dal forte Alfonso il mio cesareo seggio
 %  Richiamar sento a sommi onori di pria.
 %O restate, alti dei, fra noi restate,
-%Che la terra del ciel’ a par beate. 
+%Che la terra del ciel' a par beate. 
 }
 
 cantoOneXXVIIIincipitVoice = <<

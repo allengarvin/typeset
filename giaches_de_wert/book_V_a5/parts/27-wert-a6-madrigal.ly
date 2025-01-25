@@ -73,9 +73,9 @@ cantoLyricsXXVII = \lyricmode {
         o -- ra~il vi -- tal u -- mo -- re
     Fug -- ge per quel -- la via ch'a gli~oc -- chi me -- na;
     Et __ è quel che si ver -- sa, e trar -- rà~in -- sie -- me
-    Il do -- lor __ e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-    Il __ do -- lo -- re~e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-    Il do -- lor __ e la vi -- ta~al -- l’o -- re~e -- stre -- me.
+    Il do -- lor __ e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+    Il __ do -- lo -- re~e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+    Il do -- lor __ e la vi -- ta~al -- l'o -- re~e -- stre -- me.
 }
 
 altoXXVIIincipit = \relative c' {
@@ -131,9 +131,9 @@ altoLyricsXXVII = \lyricmode {
     Fug -- ge per quel -- la via ch'a gli~oc -- chi me -- na;
     Et __ è quel che si ver -- sa, 
     Et è quel che si ver -- sa, e trar -- rà~in -- sie -- me
-    Il __ do -- lor __ e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-        al -- l’o -- re~e -- stre -- me,
-    Il do -- lo -- re~e la vi -- ta~al -- l’o -- re~e -- stre -- me.
+    Il __ do -- lor __ e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+        al -- l'o -- re~e -- stre -- me,
+    Il do -- lo -- re~e la vi -- ta~al -- l'o -- re~e -- stre -- me.
 }
 
 tenoreXXVIIincipit = \relative c' {
@@ -186,8 +186,8 @@ tenoreLyricsXXVII = \lyricmode {
     Fug -- ge per quel -- la via,
     Fug -- ge per quel -- la via __ ch'a gli~oc -- chi me -- na;
     Et è quel che si ver -- sa, e __ trar -- rà~in -- sie -- me
-    Il __ do -- lo -- re~e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-    Il do -- lo -- re~e la vi -- ta al -- l’o -- re~e -- stre -- me.
+    Il __ do -- lo -- re~e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+    Il do -- lo -- re~e la vi -- ta al -- l'o -- re~e -- stre -- me.
 }
 
 bassoXXVIIincipit = \relative c {
@@ -232,8 +232,8 @@ bassoLyricsXXVII = \lyricmode {
     Dal fuo -- co spin -- to o -- ra~il vi -- tal u -- mo -- re
     Fug -- ge per quel -- la via __ ch'a gli~oc -- chi me -- na;
     Et è quel che __ si ver -- sa, e trar -- rà~in -- sie -- me
-    Il do -- lo -- re~e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-        al -- l’o -- re~e -- stre -- me.
+    Il do -- lo -- re~e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+        al -- l'o -- re~e -- stre -- me.
 }
 
 quintoXXVIIincipit = \relative c' {
@@ -289,9 +289,9 @@ quintoLyricsXXVII = \lyricmode {
         via ch'a gli~oc -- chi me -- na;
     Et __ è quel che si ver -- sa, 
     Et è quel che si ver -- sa, e __ trar -- rà~in -- sie -- me
-    Il do -- lor __ e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-    Il do -- lo -- re~e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-    Il do -- lor __ e la vi -- ta~al -- l’o -- re~e -- stre -- me.
+    Il do -- lor __ e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+    Il do -- lo -- re~e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+    Il do -- lor __ e la vi -- ta~al -- l'o -- re~e -- stre -- me.
 }
 
 sestaXXVIIincipit = \relative c' {
@@ -339,8 +339,8 @@ sestaLyricsXXVII = \lyricmode {
     Fug -- ge per quel -- la via,
     Fug -- ge per quel -- la via ch'a gli~oc -- chi me -- na;
     Et __ è quel che si ver -- sa, e trar -- rà~in -- sie -- me
-    Il __ do -- lo -- re~e la vi -- ta al -- l’o -- re~e -- stre -- me,
-    Il do -- lo -- re~e la vi -- ta~al -- l’o -- re~e -- stre -- me.
+    Il __ do -- lo -- re~e la vi -- ta al -- l'o -- re~e -- stre -- me,
+    Il do -- lo -- re~e la vi -- ta~al -- l'o -- re~e -- stre -- me.
 }
 
 cantoXXVIIincipitVoice = <<

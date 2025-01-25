@@ -243,14 +243,14 @@ bassoLyricsVII = \lyricmode {
 
 %Or vedi, Amor, che giovinetta donna
 %tuo regno sprezza, e del mio mal non cura,
-%et tra duo ta’ nemici è sí secura.
+%et tra duo ta' nemici è sí secura.
 %
-%Tu se’ armato, et ella in treccie e ’n gonna
-%Si siede, et scalza, in mezzo i fiori et l’erba,
-%Ver’ me spietata, e ’n contra te superba.
+%Tu se' armato, et ella in treccie e 'n gonna
+%Si siede, et scalza, in mezzo i fiori et l'erba,
+%Ver' me spietata, e 'n contra te superba.
 %
-%I’ son pregion; ma se pietà anchor serba
-%L’arco tuo saldo, et qualchuna saetta,
+%I' son pregion; ma se pietà anchor serba
+%L'arco tuo saldo, et qualchuna saetta,
 %Fa di te et di me, signor, vendetta.
 
 %Or vedi Amor che giovinetta donna

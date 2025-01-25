@@ -1,14 +1,14 @@
-% E dicea l’una sospirando allora:
+% E dicea l'una sospirando allora:
 % anima, a Dio, con languide parole.
-% E l’altra: vita, a Dio, le rispondea,
+% E l'altra: vita, a Dio, le rispondea,
 % a Dio, rimanti; e non partiansi ancora
 % innanzi al novo sole,
-% e innanzi all’alba che nel ciel sorgea,
+% e innanzi all'alba che nel ciel sorgea,
 % e questa, è quella impallidir vedea
 % le bellissime rose
 % nelle labra amorose,
 % e gli occhi scintillar come facella.
-% E come d’alma, che si parta, e svella,
+% E come d'alma, che si parta, e svella,
 % fu la partenza loro:
 % addio che parto, e moro,
 % dolce languir, dolce partita, e fella.
@@ -60,25 +60,25 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    E di -- cea l’u -- na so -- spi -- ran -- do~al -- lo -- ra:
+    E di -- cea l'u -- na so -- spi -- ran -- do~al -- lo -- ra:
     A -- ni -- ma, a Dio,
         a Dio,
         a Dio, con lan -- gui -- de pa -- ro -- le.
-    E l’al -- tra: vi -- ta~a Dio,
+    E l'al -- tra: vi -- ta~a Dio,
         a Dio, le ri -- spon -- de -- a,
     A Dio,
     a Dio, ri -- man -- ti; e non par -- tian -- si~an -- co -- ra
     In -- nan -- zi~al no -- vo so -- le,
-    E~in -- nan -- zi~al -- l’al -- ba che nel ciel sor -- ge -- a,
-    e~in -- nan -- zi~al -- l’al -- ba che nel ciel sor -- ge -- a,
+    E~in -- nan -- zi~al -- l'al -- ba che nel ciel sor -- ge -- a,
+    e~in -- nan -- zi~al -- l'al -- ba che nel ciel sor -- ge -- a,
     E que -- sta~è quel -- la im -- pal -- li -- dir ve -- de -- a
     Le __ bel -- lis -- si -- me ro -- se
     Nel -- le la -- bra~a -- mo -- ro -- se,
     E gli~oc -- chi scin -- til -- lar co -- me fa -- cel -- la.
-    E __ co -- me d’al -- ma, che si par -- ta~e svel -- la,
-    e co -- me d’al -- ma, che si par -- ta~e svel -- la,
+    E __ co -- me d'al -- ma, che si par -- ta~e svel -- la,
+    e co -- me d'al -- ma, che si par -- ta~e svel -- la,
     \ijLyrics
-    e __ co -- me d’al -- ma, che si par -- ta~e svel -- la,
+    e __ co -- me d'al -- ma, che si par -- ta~e svel -- la,
     \normalLyrics
     Fu la par -- ten -- za lo -- ro:
     Ad -- dio che par -- to~e mo -- ro,
@@ -125,26 +125,26 @@ altoII = \relative c' {
 }
 
 altoLyricsII = \lyricmode {
-    E di -- cea l’u -- na so -- spi -- ran -- do~al -- lo -- ra:
+    E di -- cea l'u -- na so -- spi -- ran -- do~al -- lo -- ra:
     A -- ni -- ma,
     A -- ni -- ma, a Dio, con lan -- gui -- de pa -- ro -- le,
         con lan -- gui -- de pa -- ro -- le.
-    E l’al -- tra: vi -- ta~a Dio,
+    E l'al -- tra: vi -- ta~a Dio,
         a Dio,
         a Dio, le ri -- spon -- de -- a,
     A Dio,
     a Dio, ri -- man -- ti; e non par -- tian -- si~an -- co -- ra
     In -- nan -- zi~al no -- vo so -- le,
-    E~in -- nan -- zi~al -- l’al -- ba che nel ciel sor -- ge -- a,
-    e~in -- nan -- zi~al -- l’al -- ba che nel ciel sor -- ge -- a, __
+    E~in -- nan -- zi~al -- l'al -- ba che nel ciel sor -- ge -- a,
+    e~in -- nan -- zi~al -- l'al -- ba che nel ciel sor -- ge -- a, __
     E que -- sta~è quel -- la im -- pal -- li -- dir ve -- de -- a
     Le __ bel -- lis -- si -- me ro -- se
     Nel -- le la -- bra~a -- mo -- ro -- se,
     E gli~oc -- chi scin -- til -- lar co -- me fa -- cel -- la.
-%    E co -- me d’al -- ma, che si par -- ta~e svel -- la,
-%    e co -- me d’al -- ma, che si par -- ta~e svel -- la,
+%    E co -- me d'al -- ma, che si par -- ta~e svel -- la,
+%    e co -- me d'al -- ma, che si par -- ta~e svel -- la,
 %    \ijLyrics
-%    e co -- me d’al -- ma, che si par -- ta~e svel -- la,
+%    e co -- me d'al -- ma, che si par -- ta~e svel -- la,
 %    \normalLyrics
     Fu la par -- ten -- za lo -- ro,
     \ijLyrics
@@ -197,24 +197,24 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
-    E di -- cea l’u -- na so -- spi -- ran -- do~al -- lo -- ra:
+    E di -- cea l'u -- na so -- spi -- ran -- do~al -- lo -- ra:
         a Dio,
     A -- ni -- ma, a Dio, con lan -- gui -- de pa -- ro -- le,
     \ijLyrics
         con lan -- gui -- de pa -- ro -- le,
     \normalLyrics
         con lan -- gui -- de pa -- ro -- le.
-    E l’al -- tra: vi -- ta~a Dio,
+    E l'al -- tra: vi -- ta~a Dio,
         a Dio, le ri -- spon -- de -- a,
     A Dio,
     a Dio, ri -- man -- ti;
 %    In -- nan -- zi~al no -- vo so -- le,
-    E~in -- nan -- zi~al -- l’al -- ba,
+    E~in -- nan -- zi~al -- l'al -- ba,
     \ijLyrics
-    e~in -- nan -- zi~al -- l’al -- ba
+    e~in -- nan -- zi~al -- l'al -- ba
     \normalLyrics
         che nel ciel sor -- ge -- a,
-    e~in -- nan -- zi~al -- l’al -- ba che nel ciel sor -- ge -- a,
+    e~in -- nan -- zi~al -- l'al -- ba che nel ciel sor -- ge -- a,
     E que -- sta~è quel -- la im -- pal -- li -- dir ve -- de -- a,
         im -- pal -- li -- dir ve -- de -- a
     Le __ bel -- lis -- si -- me ro -- se
@@ -222,7 +222,7 @@ tenoreLyricsII = \lyricmode {
     E gli~oc -- chi scin -- til -- lar,
         scin -- til -- lar,
     Fu la par -- ten -- za lo -- ro:
-    E __ co -- me d’al -- ma, che si par -- ta~e svel -- la,
+    E __ co -- me d'al -- ma, che si par -- ta~e svel -- la,
     Ad -- dio che par -- to~e mo -- ro,
     ad -- dio che par -- to~e mo -- ro,
     Dol -- ce lan -- guir, __ dol -- ce par -- ti -- ta~e fel -- la.
@@ -267,7 +267,7 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
-%    E di -- cea l’u -- na so -- spi -- ran -- do~al -- lo -- ra:
+%    E di -- cea l'u -- na so -- spi -- ran -- do~al -- lo -- ra:
     A -- ni -- ma,
     \ijLyrics
     a -- ni -- ma,
@@ -275,7 +275,7 @@ bassoLyricsII = \lyricmode {
         a Dio,
         a Dio, con lan -- gui -- de pa -- ro -- le,
             con lan -- gui -- de pa -- ro -- le.
-%    E l’al -- tra: vi -- ta~a Dio,
+%    E l'al -- tra: vi -- ta~a Dio,
 %        a Dio, le ri -- spon -- de -- a,
     A Dio,
     \ijLyrics
@@ -283,13 +283,13 @@ bassoLyricsII = \lyricmode {
     \normalLyrics
     a Dio, __ ri -- man -- ti;
 %    In -- nan -- zi~al no -- vo so -- le,
-    E~in -- nan -- zi~al -- l’al -- ba che nel ciel sor -- ge -- a,
+    E~in -- nan -- zi~al -- l'al -- ba che nel ciel sor -- ge -- a,
     E que -- sta~è quel -- la im -- pal -- li -- dir ve -- de -- a
 %    Le bel -- lis -- si -- me ro -- se
     Nel -- le la -- bra~a -- mo -- ro -- se,
     E gli~oc -- chi scin -- til -- lar,
         scin -- til -- lar co -- me fa -- cel -- la.
-    E co -- me d’al -- ma, che si par -- ta~e svel -- la,
+    E co -- me d'al -- ma, che si par -- ta~e svel -- la,
     Fu la par -- ten -- za lo -- ro:
     Ad -- dio che par -- to~e mo -- ro,
     Dol -- ce lan -- guir, dol -- ce par -- ti -- ta~e fel -- la.
@@ -341,20 +341,20 @@ quintoII = \relative c'' {
 }
 
 quintoLyricsII = \lyricmode {
-    E di -- cea l’u -- na so -- spi -- ran -- do~al -- lo -- ra:
+    E di -- cea l'u -- na so -- spi -- ran -- do~al -- lo -- ra:
     A -- ni -- ma, a Dio,
     a -- ni -- ma, a Dio,
         a Dio, con lan -- gui -- de pa -- ro -- le,
             con lan -- gui -- de pa -- ro -- le.
-    E l’al -- tra: vi -- ta~a Dio,
+    E l'al -- tra: vi -- ta~a Dio,
         a Dio,
         a Dio, le ri -- spon -- de -- a,
     A Dio,
     a Dio, __ ri -- man -- ti; e non par -- tian -- si~an -- co -- ra
     In -- nan -- zi~al no -- vo so -- le,
-    E~in -- nan -- zi~al -- l’al -- ba,
+    E~in -- nan -- zi~al -- l'al -- ba,
     \ijLyrics
-    e~in -- nan -- zi~al -- l’al -- ba
+    e~in -- nan -- zi~al -- l'al -- ba
     \normalLyrics
         che nel ciel sor -- ge -- a,
     E que -- sta~è quel -- la im -- pal -- li -- dir ve -- de -- a
@@ -363,9 +363,9 @@ quintoLyricsII = \lyricmode {
     E gli~oc -- chi,
     e gli~oc -- chi scin -- til -- lar,
         scin -- til -- lar co -- me fa -- cel -- la.
-    E __ co -- me d’al -- ma, che si par -- ta~e svel -- la,
+    E __ co -- me d'al -- ma, che si par -- ta~e svel -- la,
     Fu la par -- ten -- za lo -- ro:
-    e __ co -- me d’al -- ma, che si par -- ta~e svel -- la,
+    e __ co -- me d'al -- ma, che si par -- ta~e svel -- la,
     fu la par -- ten -- za lo -- ro:
     Ad -- dio che par -- to~e mo -- ro,
         e mo -- ro,

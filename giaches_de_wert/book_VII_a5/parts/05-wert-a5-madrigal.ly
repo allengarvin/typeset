@@ -36,21 +36,21 @@ cantoV = \relative c' {
 }
 
 cantoLyricsV = \lyricmode {
-%    Ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    Col -- po de’ tuoi be -- gli~oc -- chi a piú d’un se -- gno
+%    Ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    Col -- po de' tuoi be -- gli~oc -- chi a piú d'un se -- gno
     Ven -- gon le fiam -- me mie,
 
-    ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno,
-    ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno
+    ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno,
+    ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno
     ven -- gon le fiam -- me mie,
     \ijLyrics
     ven -- gon le fiam -- me mie,
     \normalLyrics
     ven -- gon le fiam -- me mie nel mio sem -- bian -- te:
 
-    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch’i -- gno -- te
+    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch'i -- gno -- te
     Sia -- no: for -- se~è pie -- tà, for -- se~è di -- sde -- gno
         for -- se~è di -- sde -- gno
     Che~al -- zi tan -- to~il de -- sio,
@@ -94,16 +94,16 @@ altoV = \relative c'' {
 }
 
 altoLyricsV = \lyricmode {
-    Ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    Col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno
+    Ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    Col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno
     Ven -- gon le fiam -- me mie,
     ven -- gon le fiam -- me mie nel mio sem -- bian -- te:
 
-    ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    ben, __ se’l pet -- to ta -- lor __ mi ri -- per -- co -- te
-    col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno,
-    ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno
+    ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    ben, __ se'l pet -- to ta -- lor __ mi ri -- per -- co -- te
+    col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno,
+    ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno
     ven -- gon le fiam -- me mie,
     \ijLyrics
     ven -- gon le fiam -- me mie,
@@ -111,7 +111,7 @@ altoLyricsV = \lyricmode {
     \normalLyrics
     ven -- gon le fiam -- me mie nel mio __ sem -- bian -- te:
 
-    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch’i -- gno -- te
+    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch'i -- gno -- te
     Sia -- no: for -- se~è pie -- tà, 
         for -- se~è pie -- tà, for -- se~è di -- sde -- gno
     Che~al -- zi tan -- to~il de -- sio __ ca -- nu -- to~a -- man -- te,
@@ -158,16 +158,16 @@ tenoreV = \relative c' {
 }
 
 tenoreLyricsV = \lyricmode {
-    Ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    Col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno
+    Ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    Col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno
     Ven -- gon le fiam -- me mie nel mio sem -- bian -- te,
     ven -- gon le fiam -- me mie,
     \ijLyrics
     ven -- gon le fiam -- me mie
     \normalLyrics
         nel mio sem -- bian -- te:
-    ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno
+    ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno
     ven -- gon le fiam -- me mie,
     ven -- gon le fiam -- me mie,
     \ijLyrics
@@ -175,7 +175,7 @@ tenoreLyricsV = \lyricmode {
     \normalLyrics
     ven -- gon le fiam -- me mie nel mio sem -- bian -- te:
 
-    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch’i -- gno -- te
+    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch'i -- gno -- te
     Sia -- no: for -- se~è pie -- tà, for -- se~è di -- sde -- gno
     Che~al -- zi tan -- to~il de -- sio,
     che~al -- zi tan -- to~il de -- sio,
@@ -216,19 +216,19 @@ bassoV = \relative c' {
 }
 
 bassoLyricsV = \lyricmode {
-    Ben, __ se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    Col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno
+    Ben, __ se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    Col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno
     Ven -- gon le fiam -- me mie nel mio sem -- bian -- te:
 
-    ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te
-    col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno
+    ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno
     ven -- gon le fiam -- me mie,
     \ijLyrics
     ven -- gon le fiam -- me mie,
     \normalLyrics
     ven -- gon le fiam -- me mie nel mio __ sem -- bian -- te:
 
-%    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch’i -- gno -- te
+%    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch'i -- gno -- te
 %    Sia -- no: 
         for -- se~è pie -- tà, for -- se~è di -- sde -- gno
     Che~al -- zi tan -- to~il de -- sio,
@@ -277,12 +277,12 @@ quintoV = \relative c' {
 }
 
 quintoLyricsV = \lyricmode {
-    Ben, se’l pet -- to ta -- lor mi ri -- per -- co -- te 
-    Col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno 
+    Ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te 
+    Col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno 
     Ven -- gon le fiam -- me mie,
 
-    ben, __ se’l pet -- to ta -- lor __ mi ri -- per -- co -- te 
-    col -- po de’ tuoi be -- gli~oc -- chi~a piú d’un se -- gno 
+    ben, __ se'l pet -- to ta -- lor __ mi ri -- per -- co -- te 
+    col -- po de' tuoi be -- gli~oc -- chi~a piú d'un se -- gno 
     ven -- gon le fiam -- me mie,
     ven -- gon le fiam -- me mie,
     \ijLyrics
@@ -299,7 +299,7 @@ quintoLyricsV = \lyricmode {
     \normalLyrics
         nel mio sem -- bian -- te:
  
-    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch’i -- gno -- te 
+    Ma tu ri -- spar -- mi~i col -- pi~e vuoi ch'i -- gno -- te 
     Sia -- no: for -- se~è pie -- tà, for -- se~è di -- sde -- gno __
         for -- se~è di -- sde -- gno 
     Che~al -- zi tan -- to~il de -- sio, 

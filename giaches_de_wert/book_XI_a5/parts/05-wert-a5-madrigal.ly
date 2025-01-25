@@ -17,7 +17,7 @@
 % Fast receive sweet food
 % From her divinest look.
 % Here I will see the wicked one
-% Turn her sov’raigne lights on me
+% Turn her sov'raigne lights on me
 % If not gentle, yet savage will they be.
 % If not the means to breed my joy,
 % So cruel at least, that I will die.

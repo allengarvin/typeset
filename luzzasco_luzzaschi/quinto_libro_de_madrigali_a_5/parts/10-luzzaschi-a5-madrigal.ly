@@ -1,6 +1,6 @@
 % Io vissi anima mia per darti vita.
 % Ed or sol per tua gioia
-% Amor vuol ch’io non moia.
+% Amor vuol ch'io non moia.
 % Tu non moristi allor, perché morire
 % non puote il tuo desire.
 % Amianci dunque, o mio gradito ardore,
@@ -52,9 +52,9 @@ cantoLyricsX = \lyricmode {
         per dar -- ti vi -- ta.
     \normalLyrics
     Ed or sol per tua gio -- ia
-    A -- mor vuol ch’io non mo -- ia,
+    A -- mor vuol ch'io non mo -- ia,
     \ijLyrics
-    A -- mor vuol ch’io non mo -- ia.
+    A -- mor vuol ch'io non mo -- ia.
     \normalLyrics
 %    Tu non mo -- ri -- sti~al -- lor per -- ché mo -- ri -- re,
         per -- ché mo -- ri -- re,
@@ -103,9 +103,9 @@ altoLyricsX = \lyricmode {
     Io vis -- si~a -- ni -- ma mia per dar -- ti vi -- ta,
         per dar -- ti vi -- ta.
     Ed or sol per tua gio -- ia
-    A -- mor vuol ch’io non mo -- ia,
+    A -- mor vuol ch'io non mo -- ia,
     \ijLyrics
-    A -- mor vuol ch’io non mo -- ia,
+    A -- mor vuol ch'io non mo -- ia,
     \normalLyrics
         non mo -- ia,
     Tu __ non mo -- ri -- sti~al -- lor per -- ché mo -- ri -- re,
@@ -162,7 +162,7 @@ tenoreLyricsX = \lyricmode {
 %    \normalLyrics
     Ed or,
     ed or sol per tua gio -- ia
-    A -- mor vuol ch’io non mo -- ia,
+    A -- mor vuol ch'io non mo -- ia,
         non mo -- ia.
     Tu __ non mo -- ri -- sti~al -- lor per -- ché mo -- ri -- re,
         per -- ché mo -- ri -- re
@@ -219,8 +219,8 @@ bassoLyricsX = \lyricmode {
     Ed or sol per tua gio -- ia
     A -- mor vuol,
     A -- mor vuol,
-    A -- mor vuol __ ch’io non mo -- ia.
-%    A -- mor vuol ch’io non mo -- ia.
+    A -- mor vuol __ ch'io non mo -- ia.
+%    A -- mor vuol ch'io non mo -- ia.
     Tu __ non mo -- ri -- sti~al -- lor per -- ché mo -- ri -- re,
     tu non mo -- ri -- sti~al -- lor per -- ché mo -- ri -- re
     Non puo -- te~il tuo de -- si -- re.
@@ -275,8 +275,8 @@ quintoLyricsX = \lyricmode {
     \normalLyrics
     Ed or sol per tua gio -- ia
     A -- mor vuol,
-    A -- mor vuol ch’io non mo -- ia,
-    A -- mor vuol ch’io non mo -- ia.
+    A -- mor vuol ch'io non mo -- ia,
+    A -- mor vuol ch'io non mo -- ia.
     Tu __ non mo -- ri -- sti~al -- lor per -- ché mo -- ri -- re,
         per -- ché mo -- ri -- re,
     tu non mo -- ri -- sti~al -- lor per -- ché mo -- ri -- re

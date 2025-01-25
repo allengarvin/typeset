@@ -37,16 +37,16 @@ cantoLyricsI = \lyricmode {
     A la dol -- ce~om -- bra de le bel -- le fron -- di
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me 
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me __
-    Che’n fin qua giù __ m’ar -- dea dal ter -- zo cie -- lo,  __
+    Che'n fin qua giù __ m'ar -- dea dal ter -- zo cie -- lo,  __
     E di -- sgom -- bra -- va già 
     \ijLyrics
     E di -- sgom -- bra -- va già 
     \normalLyrics
             di ne -- ve~i pog -- gi 
-    L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, 
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
-        l’er -- be~e~i ra -- mi. 
+    L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, 
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
+        l'er -- be~e~i ra -- mi. 
 
 }
 
@@ -95,15 +95,15 @@ altoLyricsI = \lyricmode {
     \ijLyrics
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me 
     \normalLyrics
-    Che’n fin qua giù m’ar -- dea dal ter -- zo cie -- lo,  
+    Che'n fin qua giù m'ar -- dea dal ter -- zo cie -- lo,  
         dal ter -- zo cie -- lo,  
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi 
-    L’au -- ra~a -- mo -- ro -- sa che __ ri -- no -- va~il tem -- po, 
+    L'au -- ra~a -- mo -- ro -- sa che __ ri -- no -- va~il tem -- po, 
         che __ ri -- no -- va~il tem -- po, __
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
-        l’er -- be~e~i ra -- mi,
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi, __
-        l’er -- be~e~i ra -- mi. 
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
+        l'er -- be~e~i ra -- mi,
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi, __
+        l'er -- be~e~i ra -- mi. 
 }
 
 tenoreIincipit = \relative c' {
@@ -144,17 +144,17 @@ tenoreLyricsI = \lyricmode {
     \ijLyrics
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me 
     \normalLyrics
-    Che’n fin qua giù __ m’ar -- dea,
-    Che’n fin qua giù __ m’ar -- dea dal ter -- zo cie -- lo, __
+    Che'n fin qua giù __ m'ar -- dea,
+    Che'n fin qua giù __ m'ar -- dea dal ter -- zo cie -- lo, __
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi 
-    L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, 
+    L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, 
     \ijLyrics
         che ri -- no -- va~il tem -- po, __
     \normalLyrics
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
     \ijLyrics
-        l’er -- be~e~i ra -- mi. 
+        l'er -- be~e~i ra -- mi. 
     \normalLyrics
 }
 
@@ -192,20 +192,20 @@ bassoI = \relative c {
 bassoLyricsI = \lyricmode {
     A la dol -- ce~om -- bra de le bel -- le fron -- di
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me 
-    Che’n fin qua giù __
+    Che'n fin qua giù __
     \ijLyrics
-    Che’n fin qua giù __
+    Che'n fin qua giù __
     \normalLyrics
-        m’ar -- dea dal ter -- zo cie -- lo,  
+        m'ar -- dea dal ter -- zo cie -- lo,  
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi 
-    L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, 
+    L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, 
         
     E fio -- rian per le piag -- ge 
     \ijLyrics
     E fio -- rian per le piag -- ge 
     \normalLyrics
-        l’er -- be~e~i ra -- mi, __
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi.
+        l'er -- be~e~i ra -- mi, __
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi.
 }
 
 quintoIincipit = \relative c {
@@ -249,16 +249,16 @@ quintoLyricsI = \lyricmode {
     \ijLyrics
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me 
     \normalLyrics
-    Che’n fin qua giù __ m’ar -- dea dal ter -- zo cie -- lo,  
+    Che'n fin qua giù __ m'ar -- dea dal ter -- zo cie -- lo,  
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi 
-    L’au -- ra~a -- mo -- ro -- sa __ che ri -- no -- va~il tem -- po, 
+    L'au -- ra~a -- mo -- ro -- sa __ che ri -- no -- va~il tem -- po, 
     \ijLyrics
         che ri -- no -- va~il tem -- po, 
     \normalLyrics
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
-        l’er -- be~e~i ra -- mi, __
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
+        l'er -- be~e~i ra -- mi, __
     E fio -- rian per le piag -- ge,
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi.
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi.
 }
 
 cantoIincipitVoice = <<

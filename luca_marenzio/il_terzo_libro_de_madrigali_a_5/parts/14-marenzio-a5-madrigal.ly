@@ -1,18 +1,18 @@
 % Ridean già per le piagge erbette e fiori,
 % e garir cominciava ogni augelletto,
-% co’i baci e co’i sospir Favonio e Clori
-% ebre l’alme rendean d’alto diletto;
+% co'i baci e co'i sospir Favonio e Clori
+% ebre l'alme rendean d'alto diletto;
 % sentia destarsi a disusati ardori:
 % al tempo novo ogni più nobil petto,
-% allor ch’a lo spuntar dei freschi albori
+% allor ch'a lo spuntar dei freschi albori
 % così parlò Damon con puro affetto.
 % 
 % Piagge, erbe, fiori, augelli, aure feconde
-% novo ardor, novo tempo amat’Aurora,
-% non fia mai ch’io per voi cangi desire.
+% novo ardor, novo tempo amat'Aurora,
+% non fia mai ch'io per voi cangi desire.
 % Volto a le stelle poi, siate seconde, 12
 % pregovi, disse, a questo; e accennò allora
-% un lauro per cui sol par ch’ei respiri.
+% un lauro per cui sol par ch'ei respiri.
 
 %  The grasses and flowers were already
 %  smiling along the banks, and every
@@ -85,15 +85,15 @@ cantoLyricsXIV = \lyricmode {
     \ijLyrics
         o -- gni~au -- gel -- let -- to,
     \normalLyrics
-    Co’i ba -- ci~e co’i so -- spir Fa -- vo -- nio e Clo -- ri,
+    Co'i ba -- ci~e co'i so -- spir Fa -- vo -- nio e Clo -- ri,
         e Clo -- ri
-    E -- bre l’al -- me ren -- dean d’al -- to di -- let -- to,
-        ren -- dean d’al -- to di -- let -- to,
-        ren -- dean d’al -- to di -- let -- to;
+    E -- bre l'al -- me ren -- dean d'al -- to di -- let -- to,
+        ren -- dean d'al -- to di -- let -- to,
+        ren -- dean d'al -- to di -- let -- to;
     Sen -- tia de -- star -- si~a di -- su -- sa -- ti~ar -- do -- ri:
     Al tem -- po no -- vo,
     al tem -- po no -- v'o -- gni più no -- bil pet -- to,
-    Al -- lor ch’a lo spun -- tar dei fre -- schi~al -- bo -- ri
+    Al -- lor ch'a lo spun -- tar dei fre -- schi~al -- bo -- ri
     Co -- sì par -- lò Da -- mon,
         par -- lò Da -- mon,
     \ijLyrics
@@ -145,15 +145,15 @@ altoLyricsXIV = \lyricmode {
     \ijLyrics
         o -- gni~au -- gel -- let -- to,
     \normalLyrics
-    Co’i ba -- ci~e co’i so -- spir
-    E -- bre l’al -- me,
-    e -- bre l’al -- me ren -- dean d’al -- to di -- let -- to,
-        d’al -- to di -- let -- to,
-        d’al -- to di -- let -- to;
+    Co'i ba -- ci~e co'i so -- spir
+    E -- bre l'al -- me,
+    e -- bre l'al -- me ren -- dean d'al -- to di -- let -- to,
+        d'al -- to di -- let -- to,
+        d'al -- to di -- let -- to;
     Sen -- tia de -- star -- si~a di -- su -- sa -- ti~ar -- do -- ri:
     Al tem -- po no -- vo,
     al tem -- po no -- v'o -- gni più no -- bil pet -- to,
-    Al -- lor ch’a lo spun -- tar dei fre -- schi~al -- bo -- ri
+    Al -- lor ch'a lo spun -- tar dei fre -- schi~al -- bo -- ri
     Co -- sì par -- lò Da -- mon,
         par -- lò Da -- mon con pu -- ro~af -- fet -- to,
     co -- sì par -- lò Da -- mon con pu -- ro~af -- fet -- to,
@@ -196,12 +196,12 @@ tenoreLyricsXIV = \lyricmode {
     E ga -- rir, __
     e ga -- rir __ co -- min -- cia -- va o -- gni~au -- gel -- let -- to,
         o -- gni~au -- gel -- let -- to,
-    Co’i ba -- ci~e co’i so -- spir Fa -- vo -- nio,
-    E -- bre l’al -- me ren -- dean d’al -- to di -- let -- to,
-    e -- bre l’al -- me ren -- dean d’al -- to di -- let -- to;
+    Co'i ba -- ci~e co'i so -- spir Fa -- vo -- nio,
+    E -- bre l'al -- me ren -- dean d'al -- to di -- let -- to,
+    e -- bre l'al -- me ren -- dean d'al -- to di -- let -- to;
     Sen -- tia de -- star -- si~a di -- su -- sa -- ti~ar -- do -- ri:
     Al tem -- po no -- vo o -- gni più no -- bil pet -- to,
-    Al -- lor ch’a lo spun -- tar dei fre -- schi~al -- bo -- ri
+    Al -- lor ch'a lo spun -- tar dei fre -- schi~al -- bo -- ri
     Co -- sì,
     co -- sì par -- lò Da -- mon con pu -- ro~af -- fet -- to,
         par -- lò Da -- mon con pu -- ro~af -- fet -- to,
@@ -245,9 +245,9 @@ bassoLyricsXIV = \lyricmode {
     E ga -- rir, __
     e ga -- rir __ co -- min -- cia -- va o -- gni~au -- gel -- let -- to,
         o -- gni~au -- gel -- let -- to,
-    Co’i ba -- ci~e co’i so -- spir,
-    E -- bre l’al -- me ren -- dean d’al -- to di -- let -- to,
-    e -- bre l’al -- me ren -- dean d’al -- to di -- let -- to,
+    Co'i ba -- ci~e co'i so -- spir,
+    E -- bre l'al -- me ren -- dean d'al -- to di -- let -- to,
+    e -- bre l'al -- me ren -- dean d'al -- to di -- let -- to,
     Al tem -- po no -- v'o -- gni più no -- bil pet -- to,
     Al -- lor,
         par -- lò Da -- mon,
@@ -300,17 +300,17 @@ quintoLyricsXIV = \lyricmode {
     \ijLyrics
         o -- gni~au -- gel -- let -- to,
     \normalLyrics
-%    Co’i ba -- ci~e co’i so -- spir Fa -- vo -- nio e Clo -- ri,
-        e co’i so -- spir Fa -- vo -- nio e Clo -- ri,
+%    Co'i ba -- ci~e co'i so -- spir Fa -- vo -- nio e Clo -- ri,
+        e co'i so -- spir Fa -- vo -- nio e Clo -- ri,
             e Clo -- ri,
             e Clo -- ri,
-    E -- bre l’al -- me ren -- dean d’al -- to di -- let -- to,
-        ren -- dean d’al -- to di -- let -- to,
-            d’al -- to di -- let -- to;
+    E -- bre l'al -- me ren -- dean d'al -- to di -- let -- to,
+        ren -- dean d'al -- to di -- let -- to,
+            d'al -- to di -- let -- to;
     Sen -- tia de -- star -- si~a di -- su -- sa -- ti~ar -- do -- ri:
     Al tem -- po no -- vo,
     al tem -- po no -- v'o -- gni più no -- bil pet -- to,
-    Al -- lor ch’a lo spun -- tar dei fre -- schi~al -- bo -- ri
+    Al -- lor ch'a lo spun -- tar dei fre -- schi~al -- bo -- ri
     Co -- sì par -- lò Da -- mon,
     co -- sì par -- lò Da -- mon con pu -- ro~af -- fet -- to,
     co -- sì par -- lò Da -- mon,

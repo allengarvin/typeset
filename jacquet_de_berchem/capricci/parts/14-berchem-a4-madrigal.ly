@@ -1,11 +1,11 @@
-%   42 Ch’aver può donna al mondo più di buono,
+%   42 Ch'aver può donna al mondo più di buono,
 %      a cui la castità levata sia?
-%      Mi nuoce, ahimè! ch’io son giovane, e sono
+%      Mi nuoce, ahimè! ch'io son giovane, e sono
 %      tenuta bella, o sia vero o bugia.
 %      Già non ringrazio il ciel di questo dono;
 %      che di qui nasce ogni ruina mia:
 %      morto per questo fu Argalia mio frate;
-%      che poco gli giovar l’arme incantate:
+%      che poco gli giovar l'arme incantate:
 
 cantoXIVincipit = \relative c'' {
     \time 4/4
@@ -41,10 +41,10 @@ cantoXIV = \relative c'' {
 }
 
 cantoLyricsXIV = \lyricmode {
-    Ch’a -- ver può don -- na~al mon -- do più di buo -- no,
+    Ch'a -- ver può don -- na~al mon -- do più di buo -- no,
     A cui la ca -- sti -- tà le -- va -- ta si -- a,
         le -- va -- ta si -- a?
-    Mi nuo -- ce~ahi -- mè! ch’io son gio -- va -- ne~e so -- no
+    Mi nuo -- ce~ahi -- mè! ch'io son gio -- va -- ne~e so -- no
     Te -- nu -- ta bel -- la~o sia ve -- ro~o bu -- gi -- a.
     Già non rin -- gra -- zio~il ciel di que -- sto do -- no,
         di que -- sto do -- no;
@@ -52,9 +52,9 @@ cantoLyricsXIV = \lyricmode {
 
     Mor -- to per que -- sto fu~Ar -- ga -- lia mio fra -- te;
     Che po -- co gli gio -- var,
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te:
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te:
     Che po -- co gli gio -- var,
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te. __
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te. __
 }
 
 altoXIVincipit = \relative c' {
@@ -88,11 +88,11 @@ altoXIV = \relative c' {
 }
 
 altoLyricsXIV = \lyricmode {
-    Ch’a -- ver può don -- na~al mon -- do più __ di buo -- no,
+    Ch'a -- ver può don -- na~al mon -- do più __ di buo -- no,
         più di buo -- no,
     A cui la ca -- sti -- tà le -- va -- ta si -- a,
     Mi nuo -- ce~ahi -- mè! 
-    Mi nuo -- ce~ahi -- mè! ch’io son gio -- va -- ne~e so -- no
+    Mi nuo -- ce~ahi -- mè! ch'io son gio -- va -- ne~e so -- no
     Te -- nu -- ta bel -- la~o sia ve -- ro~o __ bu -- gi -- a.
     Già non rin -- gra -- zio~il ciel di que -- sto do -- no,
     Che di qui na -- sce~o -- gni rui -- na __ mi -- a,
@@ -101,9 +101,9 @@ altoLyricsXIV = \lyricmode {
     Mor -- to per que -- sto fu~Ar -- ga -- lia mio fra -- te;
     Che po -- co gli gio -- var, __
     Che po -- co gli gio -- var,
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te: __
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te,
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te.
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te: __
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te,
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te.
 }
 
 tenoreXIVincipit = \relative c' {
@@ -138,11 +138,11 @@ tenoreXIV = \relative c' {
 }
 
 tenoreLyricsXIV = \lyricmode {
-    Ch’a -- ver può don -- na~al mon -- do più di buo -- no,
+    Ch'a -- ver può don -- na~al mon -- do più di buo -- no,
     A cui,
     A cui la ca -- sti -- tà le -- va -- ta si -- a,
     Mi nuo -- ce~ahi -- mè!
-    Mi nuo -- ce~ahi -- mè! ch’io son gio -- va -- ne~e __ so -- no
+    Mi nuo -- ce~ahi -- mè! ch'io son gio -- va -- ne~e __ so -- no
     Te -- nu -- ta bel -- la~o sia ve -- ro~o bu -- gi -- a.
     Già non rin -- gra -- zio~il ciel di que -- sto __ do -- no,
     Che di qui na -- sce~o -- gni rui -- na __ mi -- a,
@@ -150,10 +150,10 @@ tenoreLyricsXIV = \lyricmode {
 
     Mor -- to per que -- sto fu~Ar -- ga -- lia mio fra -- te;
     Che po -- co gli gio -- var,
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te,
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te:
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te,
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te.
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te,
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te:
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te,
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te.
 }
 
 bassoXIVincipit = \relative c {
@@ -187,7 +187,7 @@ bassoXIV = \relative c {
 }
 
 bassoLyricsXIV = \lyricmode {
-    Ch’a -- ver può don -- na~al mon -- do più __ di buo -- no,
+    Ch'a -- ver può don -- na~al mon -- do più __ di buo -- no,
     A cui la ca -- sti -- tà le -- va -- ta si -- a,
     Mi nuo -- ce~ahi -- mè! 
         ahi -- mè! 
@@ -196,9 +196,9 @@ bassoLyricsXIV = \lyricmode {
     Che di qui na -- sce~o -- gni rui -- na __ mi -- a:
 
     Mor -- to per que -- sto fu~Ar -- ga -- lia mi -- o fra -- te;
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te,
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te,
-    Che po -- co gli gio -- var l’ar -- me~in -- can -- ta -- te.
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te,
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te,
+    Che po -- co gli gio -- var l'ar -- me~in -- can -- ta -- te.
 }
 
 cantoXIVincipitVoice = <<

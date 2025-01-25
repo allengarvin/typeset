@@ -1,11 +1,11 @@
-% O miracol d’Amore!
+% O miracol d'Amore!
 % Io bramo mirar voi, dolce mia vita,
-% e’l mirar cresce al cor nuova ferita:
-% per cui convien ch’io moia.
+% e'l mirar cresce al cor nuova ferita:
+% per cui convien ch'io moia.
 % 
 % Ma diviene il morir mercede e gioia,
 % perché vive e non more
-% quest’alma, che partendo dal suo core,
+% quest'alma, che partendo dal suo core,
 % in voi mio caro core
 % trasformata, gode vita beata.
 % O mia felice, sorte,
@@ -79,24 +79,24 @@ cantoV = \relative c'' {
 }
 
 cantoLyricsV = \lyricmode {
-    O mi -- ra -- col d’A -- mo -- re!
+    O mi -- ra -- col d'A -- mo -- re!
     Io bra -- mo mi -- rar voi, dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta,
-    E’l mi -- rar cre -- sce~al cor nuo -- va fe -- ri -- ta:
+    E'l mi -- rar cre -- sce~al cor nuo -- va fe -- ri -- ta:
     Per cui con -- vien,
     \ijLyrics
     per cui con -- vien
     \normalLyrics
-        ch’io mo -- ia,
+        ch'io mo -- ia,
     \ijLyrics
-        ch’io mo -- ia,
+        ch'io mo -- ia,
     \normalLyrics
-        ch’io mo -- ia.
+        ch'io mo -- ia.
 
     Ma di -- vie -- ne~il mo -- rir mer -- ce -- de~e gio -- ia,
     Per -- ché vi -- ve e non mo -- re
-    Que -- st’al -- ma, che par -- ten -- do dal suo co -- re,
+    Que -- st'al -- ma, che par -- ten -- do dal suo co -- re,
     In voi mio ca -- ro co -- re
     Tra -- sfor -- ma -- ta, go -- de vi -- ta be -- a -- ta,
         go -- de vi -- ta be -- a -- ta.
@@ -150,32 +150,32 @@ altoV = \relative c' {
 }
 
 altoLyricsV = \lyricmode {
-    O mi -- ra -- col d’A -- mo -- re!
+    O mi -- ra -- col d'A -- mo -- re!
     \ijLyrics
-    O mi -- ra -- col d’A -- mo -- re,
+    O mi -- ra -- col d'A -- mo -- re,
     \normalLyrics
-        d’A -- mo -- re!
+        d'A -- mo -- re!
     Io bra -- mo mi -- rar voi, dol -- ce,
         dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta,
-    E’l __ mi -- rar cre -- sce~al cor,
+    E'l __ mi -- rar cre -- sce~al cor,
     \ijLyrics
-    e’l mi -- rar cre -- sce~al cor
+    e'l mi -- rar cre -- sce~al cor
     \normalLyrics
         nuo -- va fe -- ri -- ta,
         nuo -- va fe -- ri -- ta:
     Per cui,
-    per cui con -- vien ch’io mo -- ia,
-    per cui con -- vien ch’io mo -- ia,
+    per cui con -- vien ch'io mo -- ia,
+    per cui con -- vien ch'io mo -- ia,
     \ijLyrics
-        ch’io mo -- ia.
+        ch'io mo -- ia.
     \normalLyrics
     Ma di -- vie -- ne~il mo -- rir mer -- ce -- de~e gio -- ia,
         mer -- ce -- de~e gio -- ia,
     Per -- ché vi -- ve e non mo -- re
-    Que -- st’al -- ma,
+    Que -- st'al -- ma,
     per -- ché vi -- ve e non mo -- re
-    que -- st’al -- ma, che par -- ten -- do dal suo co -- re,
+    que -- st'al -- ma, che par -- ten -- do dal suo co -- re,
     In voi mio ca -- ro co -- re
     Tra -- sfor -- ma -- ta, go -- de vi -- ta be -- a -- ta,
         go -- de vi -- ta be -- a -- ta.
@@ -230,33 +230,33 @@ tenoreV = \relative c' {
 }
 
 tenoreLyricsV = \lyricmode {
-    O mi -- ra -- col d’A -- mo -- re!
+    O mi -- ra -- col d'A -- mo -- re!
     \ijLyrics
-    O mi -- ra -- col d’A -- mo -- re!
+    O mi -- ra -- col d'A -- mo -- re!
     \normalLyrics
-    O __ mi -- ra -- col d’A -- mo -- re!
+    O __ mi -- ra -- col d'A -- mo -- re!
     Io bra -- mo mi -- rar voi, dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta,
-    E’l __ mi -- rar cre -- sce~al cor,
+    E'l __ mi -- rar cre -- sce~al cor,
     \ijLyrics
-    e’l mi -- rar cre -- sce~al cor
+    e'l mi -- rar cre -- sce~al cor
     \normalLyrics
         nuo -- va fe -- ri -- ta,
     \ijLyrics
         nuo -- va fe -- ri -- ta:
     \normalLyrics
     Per cui,
-    per cui con -- vien ch’io mo -- ia,
-    per cui con -- vien ch’io mo -- ia,
+    per cui con -- vien ch'io mo -- ia,
+    per cui con -- vien ch'io mo -- ia,
     \ijLyrics
-        ch’io mo -- ia. __
+        ch'io mo -- ia. __
     \normalLyrics
 
     Ma di -- vie -- ne~il mo -- rir mer -- ce -- de~e gio -- ia,
     Per -- ché vi -- ve e non mo -- re
-    Que -- st’al -- ma,
+    Que -- st'al -- ma,
     per -- ché vi -- ve e non mo -- re
-    que -- st’al -- ma, che par -- ten -- do dal suo co -- re,
+    que -- st'al -- ma, che par -- ten -- do dal suo co -- re,
     In voi mio ca -- ro co -- re
     Tra -- sfor -- ma -- ta, go -- de vi -- ta be -- a -- ta,
         go -- de vi -- ta be -- a -- ta.
@@ -309,28 +309,28 @@ bassoV = \relative c {
 }
 
 bassoLyricsV = \lyricmode {
-    O mi -- ra -- col d’A -- mo -- re!
+    O mi -- ra -- col d'A -- mo -- re!
     \ijLyrics
-    O mi -- ra -- col d’A -- mo -- re!
+    O mi -- ra -- col d'A -- mo -- re!
     \normalLyrics
 %    Io bra -- mo mi -- rar voi, dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta,
-    E’l __ mi -- rar cre -- sce~al cor,
+    E'l __ mi -- rar cre -- sce~al cor,
     \ijLyrics
-    e’l mi -- rar cre -- sce~al cor
+    e'l mi -- rar cre -- sce~al cor
     \normalLyrics
         nuo -- va fe -- ri -- ta:
     Per cui,
-    per cui con -- vien ch’io mo -- ia,
-    per cui con -- vien ch’io mo -- ia,
+    per cui con -- vien ch'io mo -- ia,
+    per cui con -- vien ch'io mo -- ia,
     \ijLyrics
-        ch’io mo -- ia.
+        ch'io mo -- ia.
     \normalLyrics
     Ma di -- vie -- ne~il mo -- rir mer -- ce -- de~e gio -- ia,
     Per -- ché vi -- ve e non mo -- re
-    Que -- st’al -- ma,
+    Que -- st'al -- ma,
     per -- ché vi -- ve e non mo -- re
-    que -- st’al -- ma, che par -- ten -- do dal suo co -- re,
+    que -- st'al -- ma, che par -- ten -- do dal suo co -- re,
     In voi mio ca -- ro co -- re
     Tra -- sfor -- ma -- ta, go -- de vi -- ta be -- a -- ta.
     O mia fe -- li -- ce,
@@ -384,28 +384,28 @@ quintoV = \relative c'' {
 }
 
 quintoLyricsV = \lyricmode {
-    O mi -- ra -- col d’A -- mo -- re!
-    O mi -- ra -- col d’A -- mo -- re!
+    O mi -- ra -- col d'A -- mo -- re!
+    O mi -- ra -- col d'A -- mo -- re!
     Io bra -- mo mi -- rar voi, dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta,
-    E’l __ mi -- rar cre -- sce~al cor,
+    E'l __ mi -- rar cre -- sce~al cor,
     \ijLyrics
-    e’l mi -- rar cre -- sce~al cor
+    e'l mi -- rar cre -- sce~al cor
     \normalLyrics
         nuo -- va fe -- ri -- ta:
     Per cui,
-    per cui con -- vien ch’io mo -- ia,
-    per cui con -- vien ch’io mo -- ia,
+    per cui con -- vien ch'io mo -- ia,
+    per cui con -- vien ch'io mo -- ia,
     \ijLyrics
-        ch’io mo -- ia,
+        ch'io mo -- ia,
     \normalLyrics
-        ch’io mo -- ia.
+        ch'io mo -- ia.
  
     Ma di -- vie -- ne~il mo -- rir mer -- ce -- de~e gio -- ia,
     Per -- ché vi -- ve e non mo -- re
-    Que -- st’al -- ma,
+    Que -- st'al -- ma,
     per -- ché vi -- ve e non mo -- re
-    que -- st’al -- ma, che par -- ten -- do dal suo co -- re,
+    que -- st'al -- ma, che par -- ten -- do dal suo co -- re,
     In voi mio ca -- ro co -- re
     Tra -- sfor -- ma -- ta, go -- de vi -- ta be -- a -- ta,
         go -- de vi -- ta be -- a -- ta.

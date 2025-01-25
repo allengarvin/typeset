@@ -33,7 +33,7 @@ cantusLyricsLIII = \lyricmode {
 cantusLyricsLIIIa = \lyricmode {
     Das Rös -- lein, das ich mei -- ne, da -- von Je -- sai -- as sagt,
     hat uns ge -- bracht al -- lei -- ne Ma -- rie, die rei -- ne Magd.
-    Aus Got -- tes ew’ gem Rat
+    Aus Got -- tes ew' gem Rat
     hat sie ein Kind ge -- bo -- ren 
     wohl zu der hal -- ben Nacht.
 }
@@ -76,7 +76,7 @@ altusLyricsLIIIa = \lyricmode {
     \ijLyrics
     Das Rös -- lein, das ich mei -- ne, da -- von Je -- sai -- as sagt,
     hat uns ge -- bracht al -- lei -- ne Ma -- rie, die rei -- ne Magd.
-    Aus Got -- tes ew’ gem Rat __
+    Aus Got -- tes ew' gem Rat __
     hat sie ein Kind ge -- bo -- ren 
     wohl zu __ der hal -- ben Nacht.
 }
@@ -119,7 +119,7 @@ tenorLyricsLIIIa = \lyricmode {
     \ijLyrics
     Das Rös -- lein, das ich mei -- ne, da -- von Je -- sai -- as sagt,
     hat uns ge -- bracht al -- lei -- ne Ma -- rie, die rei -- ne Magd.
-    Aus Got -- tes ew’ gem Rat
+    Aus Got -- tes ew' gem Rat
     hat sie ein Kind ge -- bo -- ren 
     wohl zu der hal -- ben Nacht.
 }
@@ -161,7 +161,7 @@ bassusLyricsLIIIa = \lyricmode {
     \ijLyrics
     Das Rös -- lein, das ich mei -- ne, da -- von Je -- sai -- as sagt,
     hat uns ge -- bracht al -- lei -- ne Ma -- rie, die rei -- ne Magd.
-    Aus Got -- tes ew’ gem Rat
+    Aus Got -- tes ew' gem Rat
     hat sie ein Kind ge -- bo -- ren 
     wohl zu der hal -- ben Nacht.
 }

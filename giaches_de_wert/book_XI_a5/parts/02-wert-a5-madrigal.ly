@@ -1,6 +1,6 @@
-% O primavera, gioventù dell’anno,
-% bella madre de’ fiori,
-% d’erbe novelle, e di novelli amori;
+% O primavera, gioventù dell'anno,
+% bella madre de' fiori,
+% d'erbe novelle, e di novelli amori;
 % tu torni ben, ma teco
 % Non tornano i sereni
 % e fortunati dì delle mie gioie:
@@ -9,7 +9,7 @@
 % ché del perduto mio caro tesoro
 % la rimembranza misera e dolente;
 % Tu quella sei, tu quella
-% ch’eri pur dianzi si vezzosa e bella.
+% ch'eri pur dianzi si vezzosa e bella.
 % Ma non son io già quel ch'un tempo fui,
 % sì caro a gli occhi altrui.
 
@@ -76,9 +76,9 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    O pri -- ma -- ve -- ra, gio -- ven -- tù __ del -- l’an -- no,
-    Bel -- la ma -- dre de’ fio -- ri,
-    D’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+    O pri -- ma -- ve -- ra, gio -- ven -- tù __ del -- l'an -- no,
+    Bel -- la ma -- dre de' fio -- ri,
+    D'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
     Tu tor -- ni ben, ma te -- co
     Non tor -- na -- no~i se -- re -- ni
     E for -- tu -- na -- ti dì del -- le mie gio -- ie:
@@ -89,8 +89,8 @@ cantoLyricsII = \lyricmode {
     la ri -- mem -- bran -- za mi -- se -- ra~e do -- len -- te,
     la ri -- mem -- bran -- za mi -- se -- ra~e do -- len -- te
     Tu quel -- la sei, tu quel -- la
-    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
-    ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     Ma non son io già quel ch'un tem -- po fu -- i,
     Sì ca -- ro~a gli~oc -- chi~al -- tru -- i,
     sì ca -- ro~a gli~oc -- chi~al -- tru -- i.
@@ -132,9 +132,9 @@ altoII = \relative c' {
 }
 
 altoLyricsII = \lyricmode {
-    O pri -- ma -- ve -- ra, gio -- ven -- tù __ del -- l’an -- no,
-    Bel -- la ma -- dre de’ fio -- ri,
-    D’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+    O pri -- ma -- ve -- ra, gio -- ven -- tù __ del -- l'an -- no,
+    Bel -- la ma -- dre de' fio -- ri,
+    D'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
     Tu tor -- ni ben, ma te -- co
     Non tor -- na -- no~i se -- re -- ni
     E for -- tu -- na -- ti dì del -- le mie gio -- ie:
@@ -146,8 +146,8 @@ altoLyricsII = \lyricmode {
         mi -- se -- ra~e do -- len -- te,
             do -- len -- te
     Tu quel -- la sei, tu quel -- la
-    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
-    ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     Sì ca -- ro~a gli~oc -- chi~al -- tru -- i,
     sì ca -- ro~a gli~oc -- chi~al -- tru -- i.
 }
@@ -183,9 +183,9 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
-%    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-%    Bel -- la ma -- dre de’ fio -- ri,
-%    D’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+%    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+%    Bel -- la ma -- dre de' fio -- ri,
+%    D'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
 %    Tu tor -- ni ben, ma te -- co
 %    Non tor -- na -- no~i se -- re -- ni
 %    E for -- tu -- na -- ti dì del -- le mie gio -- ie:
@@ -196,7 +196,7 @@ tenoreLyricsII = \lyricmode {
     la ri -- mem -- bran -- za mi -- se -- ra~e do -- len -- te,
     la ri -- mem -- bran -- za mi -- se -- ra~e do -- len -- te
     Tu quel -- la sei, tu quel -- la
-    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     Ma non son io già quel ch'un tem -- po fu -- i, __
     Sì ca -- ro~a gli~oc -- chi~al -- tru -- i,
     sì ca -- ro~a gli~oc -- chi~al -- tru -- i.
@@ -230,9 +230,9 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
-%    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l’an -- no,
-%    Bel -- la ma -- dre de’ fio -- ri,
-%    D’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+%    O pri -- ma -- ve -- ra, gio -- ven -- tù del -- l'an -- no,
+%    Bel -- la ma -- dre de' fio -- ri,
+%    D'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
 %    Tu tor -- ni ben, ma te -- co
 %    Non tor -- na -- no~i se -- re -- ni
 %    E for -- tu -- na -- ti dì del -- le mie gio -- ie:
@@ -242,7 +242,7 @@ bassoLyricsII = \lyricmode {
     La ri -- mem -- bran -- za mi -- se -- ra~e do -- len -- te,
     la ri -- mem -- bran -- za mi -- se -- ra~e do -- len -- te
     Tu quel -- la sei, tu quel -- la
-    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     Ma non son io già quel ch'un tem -- po fu -- i,
     Sì ca -- ro~a gli~oc -- chi~al -- tru -- i.
 }
@@ -283,9 +283,9 @@ quintoII = \relative c'' {
 }
 
 quintoLyricsII = \lyricmode {
-    O pri -- ma -- ve -- ra, gio -- ven -- tù __ del -- l’an -- no,
-    Bel -- la ma -- dre de’ fio -- ri,
-    D’er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
+    O pri -- ma -- ve -- ra, gio -- ven -- tù __ del -- l'an -- no,
+    Bel -- la ma -- dre de' fio -- ri,
+    D'er -- be no -- vel -- le~e di no -- vel -- li~a -- mo -- ri;
     Tu tor -- ni ben, ma te -- co
     Non tor -- na -- no~i se -- re -- ni
     E for -- tu -- na -- ti dì del -- le mie gio -- ie,
@@ -296,7 +296,7 @@ quintoLyricsII = \lyricmode {
     La ri -- mem -- bran -- za mi -- se -- ra~e do -- len -- te,
     la ri -- mem -- bran -- za mi -- se -- ra~e do -- len -- te
     Tu quel -- la sei, tu quel -- la
-    Ch’e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
+    Ch'e -- ri pur dian -- zi si vez -- zo -- sa~e bel -- la.
     Ma non son io già quel ch'un tem -- po fu -- i,
     Sì ca -- ro~a gli~oc -- chi~al -- tru -- i,
     sì ca -- ro~a gli~oc -- chi~al -- tru -- i,

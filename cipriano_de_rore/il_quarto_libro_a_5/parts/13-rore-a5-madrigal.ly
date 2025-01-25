@@ -1,8 +1,8 @@
-%Così ’l mio stil, qual fé la tua bellezza,
-%Sue virtudi agguagliasse, ond’ assimiglia
+%Così 'l mio stil, qual fé la tua bellezza,
+%Sue virtudi agguagliasse, ond' assimiglia
 %Suprema Dea, non già donna mortale,
 %
-%Ch’eterne le mie rime andrien di tal onor,
+%Ch'eterne le mie rime andrien di tal onor,
 %Di tal mia gioia e tal sua altezza,
 %Che eccederebbon ogni maraviglia.
 
@@ -40,21 +40,21 @@ cantoXIII = \relative c'' {
 }
 
 cantoLyricsXIII = \lyricmode {
-    Co -- sì’l __ mio stil, __
-    co -- sì’l __ mio stil, __
+    Co -- sì'l __ mio stil, __
+    co -- sì'l __ mio stil, __
     \ijLyrics
-    co -- sì’l mio stil,
+    co -- sì'l mio stil,
     \normalLyrics
         qual fé __ la tua bel -- lez -- za, __
     Sue __ vir -- tu -- di~ag -- gua -- glias -- se, 
-        ond’ as -- si -- mi -- glia,
+        ond' as -- si -- mi -- glia,
     \ijLyrics
-        ond’ as -- si -- mi -- glia
+        ond' as -- si -- mi -- glia
     \normalLyrics
     Su -- pre -- ma De -- a, non già don -- na mor -- ta -- le,
 
-    Ch’e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
-    ch’e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
+    Ch'e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
+    ch'e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
     Di tal mia gio -- ia e tal sua~al -- tez -- za,
     Che~ec -- ce -- de -- reb -- bon o -- gni ma -- ra -- vi -- glia,
     che~ec -- ce -- de -- reb -- bon o -- gni ma -- ra -- vi -- glia. __
@@ -93,13 +93,13 @@ altoXIII = \relative c' {
 }
 
 altoLyricsXIII = \lyricmode {
-    Co -- sì’l mio stil, __ qual fé la tua bel -- lez -- za,
-    co -- sì’l mio stil, __ qual fé la tua bel -- lez -- za, __
-    Sue vir -- tu -- di~ag -- gua -- glias -- se~ond’ as -- si -- mi -- glia,
+    Co -- sì'l mio stil, __ qual fé la tua bel -- lez -- za,
+    co -- sì'l mio stil, __ qual fé la tua bel -- lez -- za, __
+    Sue vir -- tu -- di~ag -- gua -- glias -- se~ond' as -- si -- mi -- glia,
     Su -- pre -- ma De -- a, __ non già don -- na mor -- ta -- le,
 
-    Ch’e -- ter -- ne le mie ri -- me~an -- drien,
-    ch’e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
+    Ch'e -- ter -- ne le mie ri -- me~an -- drien,
+    ch'e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
     Di tal mia gio -- ia,
     di tal mia gio -- ia e tal sua~al -- tez -- za,
     Che~ec -- ce -- de -- reb -- bon o -- gni ma -- ra -- vi -- glia,
@@ -138,14 +138,14 @@ tenoreXIII = \relative c' {
 }
 
 tenoreLyricsXIII = \lyricmode {
-    Co -- sì’l mio stil, qual fé la tua bel -- lez -- za,
-    co -- sì’l mio stil, __ qual fé la tua bel -- lez -- za,
+    Co -- sì'l mio stil, qual fé la tua bel -- lez -- za,
+    co -- sì'l mio stil, __ qual fé la tua bel -- lez -- za,
     Sue __ vir -- tu -- di~ag -- gua -- glias -- se,
-        ond’ as -- si -- mi -- glia,
-        ond’ as -- si -- mi -- glia,
+        ond' as -- si -- mi -- glia,
+        ond' as -- si -- mi -- glia,
     Su -- pre -- ma De -- a, non __ già don -- na mor -- ta -- le, __
 
-    Ch’e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
+    Ch'e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
         di tal o -- nor,
     Di tal mia gio -- ia e tal __ sua~al -- tez -- za,
     Che~ec -- ce -- de -- reb -- bon o -- gni ma -- ra -- vi -- glia,
@@ -183,17 +183,17 @@ bassoXIII = \relative c {
 }
 
 bassoLyricsXIII = \lyricmode {
-    Co -- sì’l mio stil, __ qual fé la tua bel -- lez -- za,
-    co -- sì’l mio stil, __ qual fé la tua bel -- lez -- za,
+    Co -- sì'l mio stil, __ qual fé la tua bel -- lez -- za,
+    co -- sì'l mio stil, __ qual fé la tua bel -- lez -- za,
     Sue vir -- tu -- di~ag -- gua -- glias -- se,
-        ond’ as -- si -- mi -- glia,
+        ond' as -- si -- mi -- glia,
     \ijLyrics
-        ond’ as -- si -- mi -- glia
+        ond' as -- si -- mi -- glia
     \normalLyrics
     Su -- pre -- ma De -- a, non già don -- na mor -- ta -- le,
 
-    Ch’e -- ter -- ne le mie ri -- me~an -- drien,
-    ch’e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
+    Ch'e -- ter -- ne le mie ri -- me~an -- drien,
+    ch'e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
         di tal o -- nor,
     \ijLyrics
         di tal o -- nor,
@@ -234,14 +234,14 @@ quintoXIII = \relative c' {
 }
 
 quintoLyricsXIII = \lyricmode {
-    Co -- sì’l mio stil, qual fé la tua bel -- lez -- za,
-    co -- sì’l mio stil, qual fé la tua bel -- lez -- za,
+    Co -- sì'l mio stil, qual fé la tua bel -- lez -- za,
+    co -- sì'l mio stil, qual fé la tua bel -- lez -- za,
     Sue vir -- tu -- di~ag -- gua -- glias -- se,
-        ond’ as -- si -- mi -- glia,
+        ond' as -- si -- mi -- glia,
     Su -- pre -- ma De -- a, __ non già __ don -- na mor -- ta -- le,
 
-    Ch’e -- ter -- ne le mie ri -- me~an -- drien,
-    ch’e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
+    Ch'e -- ter -- ne le mie ri -- me~an -- drien,
+    ch'e -- ter -- ne le mie ri -- me~an -- drien di tal o -- nor,
     Di tal mia gio -- ia,
     di tal mia gio -- ia e tal sua~al -- tez -- za,
     Che~ec -- ce -- de -- reb -- bon o -- gni ma -- ra -- vi -- glia,

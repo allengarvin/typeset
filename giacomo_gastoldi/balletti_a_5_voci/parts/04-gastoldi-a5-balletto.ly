@@ -661,7 +661,7 @@ quintoIVincipitVoice = <<
 %
 
 %Vezzosette Ninfe e belle
-%Ch’in beltà tutte vincete
+%Ch'in beltà tutte vincete
 %Le più vaghe Pastorelle,
 %Fa la la
 %A voi ch'amiamo

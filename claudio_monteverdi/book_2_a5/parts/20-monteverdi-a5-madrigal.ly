@@ -1,11 +1,11 @@
-% Ti spontò l’ali, Amor, la donna mia,
+% Ti spontò l'ali, Amor, la donna mia,
 % acciò tu gissi solo
 % nei suoi begli occhi a volo.
 % Mira se queste sono
-% piume de l’ali tue, ch’io n’ebbi in dono:
+% piume de l'ali tue, ch'io n'ebbi in dono:
 % o perché piangi, stolto?
 % Prendi le piume tue, ma taci pria 
-% E gli occhi asciuga e ’l volto.
+% E gli occhi asciuga e 'l volto.
 % Ah, tel credevi, Amore!
 % Se voi le piume tue, rendemi il core.
 
@@ -49,7 +49,7 @@ cantoXX = \relative c'' {
 }
 
 cantoLyricsXX = \lyricmode {
-    Ti spon -- tò l’a -- li~A -- mor, la don -- na mi -- a,
+    Ti spon -- tò l'a -- li~A -- mor, la don -- na mi -- a,
         la don -- na mi -- a,
     Ac -- ciò tu gis -- si so -- lo
     Nei suoi be -- gli~oc -- chi~a vo -- lo,
@@ -58,7 +58,7 @@ cantoLyricsXX = \lyricmode {
 
     Mi -- ra se que -- ste so -- no,
         se que -- ste so -- no
-    Piu -- me de l’a -- li tue, __ ch’io n’eb -- bi~in do -- no: __
+    Piu -- me de l'a -- li tue, __ ch'io n'eb -- bi~in do -- no: __
     O per -- ché pian -- gi, stol -- to?
 
     Pren -- di,
@@ -67,7 +67,7 @@ cantoLyricsXX = \lyricmode {
     pren -- di,
     pren -- di le piu -- me tue, __
     % Ma ta -- ci pria 
-        E gli~oc -- chi~a -- sciu -- ga~e’l vol -- to.
+        E gli~oc -- chi~a -- sciu -- ga~e'l vol -- to.
 
     Ah, tel cre -- de -- vi~A -- mo -- re,
     Se voi le piu -- me tue ren -- de -- mi~il co -- re,
@@ -127,7 +127,7 @@ altoXX = \relative c'' {
 }
 
 altoLyricsXX = \lyricmode {
-    Ti spon -- tò l’a -- li~A -- mor, __ la don -- na mi -- a,
+    Ti spon -- tò l'a -- li~A -- mor, __ la don -- na mi -- a,
 %        la don -- na mi -- a,
     Ac -- ciò tu gis -- si so -- lo,
     \ijLyrics
@@ -137,11 +137,11 @@ altoLyricsXX = \lyricmode {
 
     Mi -- ra se que -- ste so -- no,
         se que -- ste so -- no
-    Piu -- me de l’a -- li tue, 
+    Piu -- me de l'a -- li tue, 
     \ijLyrics
-        de l’a -- li tue, 
+        de l'a -- li tue, 
     \normalLyrics
-            ch’io __ n’eb -- bi~in do -- no:
+            ch'io __ n'eb -- bi~in do -- no:
     O per -- ché pian -- gi, stol -- to?
 
     Pren -- di,
@@ -150,7 +150,7 @@ altoLyricsXX = \lyricmode {
 %    pren -- di,
 %    pren -- di le piu -- me tue,
     ma __ ta -- ci pri -- a __
-        E gli~oc -- chi~a -- sciu -- ga~e’l vol -- to.
+        E gli~oc -- chi~a -- sciu -- ga~e'l vol -- to.
 
     Ah, __ tel cre -- de -- vi~A -- mo -- re,
     Se voi le piu -- me tue,
@@ -208,8 +208,8 @@ tenoreXX = \relative c'' {
 }
 
 tenoreLyricsXX = \lyricmode {
-    Ti spon -- tò l’a -- li~A -- mor, __
-    ti spon -- tò l’a -- li~A -- mor, __ la don -- na mi -- a,
+    Ti spon -- tò l'a -- li~A -- mor, __
+    ti spon -- tò l'a -- li~A -- mor, __ la don -- na mi -- a,
 %    Ac -- ciò tu gis -- si so -- lo
     Nei suoi be -- gli~oc -- chi~a vo -- lo,
     Ac -- ciò tu gis -- si so -- lo
@@ -218,8 +218,8 @@ tenoreLyricsXX = \lyricmode {
     Mi -- ra se que -- ste so -- no,
         se que -- ste so -- no,
         se que -- ste so -- no
-    Piu -- me de l’a -- li tue,
-        de l’a -- li tue, ch’io n’eb -- bi~in do -- no:
+    Piu -- me de l'a -- li tue,
+        de l'a -- li tue, ch'io n'eb -- bi~in do -- no:
     O per -- ché pian -- gi, stol -- to?
 
     Pren -- di,
@@ -228,8 +228,8 @@ tenoreLyricsXX = \lyricmode {
     pren -- di,
     pren -- di le piu -- me tue,
     ma __ ta -- ci pri -- a __
-        E gli~oc -- chi~a -- sciu -- ga~e’l vol -- to,
-            a -- sciu -- ga~e’l vol -- to.
+        E gli~oc -- chi~a -- sciu -- ga~e'l vol -- to,
+            a -- sciu -- ga~e'l vol -- to.
 
     Ah, __ tel cre -- de -- vi~A -- mo -- re,
     Se voi le piu -- me tue,
@@ -276,7 +276,7 @@ bassoXX = \relative c {
 }
 
 bassoLyricsXX = \lyricmode {
-%    Ti spon -- tò l’a -- li~A -- mor, la don -- na mi -- a,
+%    Ti spon -- tò l'a -- li~A -- mor, la don -- na mi -- a,
         La don -- na mi -- a,
     Ac -- ciò tu gis -- si so -- lo
     Nei suoi be -- gli~oc -- chi~a vo -- lo.
@@ -284,7 +284,7 @@ bassoLyricsXX = \lyricmode {
     Mi -- ra,
     mi -- ra se que -- ste so -- no,
 %        se que -- ste so -- no
-    Piu -- me de l’a -- li tue, ch’io n’eb -- bi~in do -- no:
+    Piu -- me de l'a -- li tue, ch'io n'eb -- bi~in do -- no:
 %    O per -- ché pian -- gi, stol -- to?
 %
     Pren -- di,
@@ -293,7 +293,7 @@ bassoLyricsXX = \lyricmode {
     pren -- di,
     pren -- di le piu -- me tue,
     ma __ ta -- ci pri -- a
-        E gli~oc -- chi~a -- sciu -- ga~e’l vol -- to.
+        E gli~oc -- chi~a -- sciu -- ga~e'l vol -- to.
 %
 %    Ah, tel cre -- de -- vi~A -- mo -- re,
     Se voi le piu -- me tue ren -- de -- mi~il co -- re,
@@ -349,7 +349,7 @@ quintoXX = \relative c'' {
 }
 
 quintoLyricsXX = \lyricmode {
-    Ti spon -- tò l’a -- li~A -- mor, la don -- na mi -- a,
+    Ti spon -- tò l'a -- li~A -- mor, la don -- na mi -- a,
         la don -- na mi -- a,
     Ac -- ciò tu gis -- si so -- lo
     Nei suoi be -- gli~oc -- chi~a vo -- lo,
@@ -359,7 +359,7 @@ quintoLyricsXX = \lyricmode {
     Mi -- ra se que -- ste so -- no,
         se que -- ste so -- no
     Piu -- me,
-    piu -- me de l’a -- li tue, ch’io __ n’eb -- bi~in do -- no:
+    piu -- me de l'a -- li tue, ch'io __ n'eb -- bi~in do -- no:
     O per -- ché pian -- gi, stol -- to?
 
     Pren -- di,
@@ -368,7 +368,7 @@ quintoLyricsXX = \lyricmode {
     pren -- di,
     pren -- di le piu -- me tue,
     ma ta -- ci pri -- a
-        E gli~oc -- chi~a -- sciu -- ga~e’l vol -- to.
+        E gli~oc -- chi~a -- sciu -- ga~e'l vol -- to.
 
     Ah, tel cre -- de -- vi~A -- mo -- re,
 %    Se voi le piu -- me tue ren -- de -- mi~il co -- re,

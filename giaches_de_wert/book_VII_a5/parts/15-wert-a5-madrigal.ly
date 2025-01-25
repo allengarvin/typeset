@@ -1,4 +1,4 @@
-%Voi volete ch’io muoia,
+%Voi volete ch'io muoia,
 %E mi date dolor sì crudo e forte
 %Che mi conduce a morte;
 %Ma per vederne voi così contenta,
@@ -6,7 +6,7 @@
 %Onde vedendo, ohimè! dolente voi
 %In questa vita poi
 %Mi vien tanto martire
-%Ch’ogn’ hor giungo al morire
+%Ch'ogn' hor giungo al morire
 %E così mille e mille volte il giorno
 %Per voi moro, e morendo in vita torno.
 
@@ -52,7 +52,7 @@ cantoXV = \relative c'' {
 }
 
 cantoLyricsXV = \lyricmode {
-    Voi vo -- le -- te ch’io muo -- ia,
+    Voi vo -- le -- te ch'io muo -- ia,
     E __ mi da -- te do -- lor,
     E __ mi da -- te do -- lor sì cru -- do~e for -- te
     Che mi con -- du -- ce~a mor -- te,
@@ -74,7 +74,7 @@ cantoLyricsXV = \lyricmode {
     \ijLyrics
     Mi vien tan -- to mar -- ti -- re
     \normalLyrics
-    Ch’o -- gn’or __ giun -- go~al mo -- ri -- re
+    Ch'o -- gn'or __ giun -- go~al mo -- ri -- re
     E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no
     E __ co -- sì mil -- le~e mil -- le vol -- te~E 
         co -- sì mil -- le~e mil -- le vol -- te~il gior -- no
@@ -127,8 +127,8 @@ altoXV = \relative c' {
 }
 
 altoLyricsXV = \lyricmode {
-    Voi vo -- le -- te ch’io muo -- ia,
-    Voi vo -- le -- te ch’io muo -- ia,
+    Voi vo -- le -- te ch'io muo -- ia,
+    Voi vo -- le -- te ch'io muo -- ia,
     E __ mi da -- te do -- lor sì cru -- do~e for -- te
     E mi da -- te do -- lor, 
     \ijLyrics
@@ -163,7 +163,7 @@ altoLyricsXV = \lyricmode {
     \ijLyrics
     Mi vien tan -- to mar -- ti -- re
     \normalLyrics
-    Ch’o -- gn’or giun -- go~al mo -- ri -- re
+    Ch'o -- gn'or giun -- go~al mo -- ri -- re
     E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no
     \ijLyrics
     E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no
@@ -213,8 +213,8 @@ tenoreXV = \relative c' {
 }
 
 tenoreLyricsXV = \lyricmode {
-    Voi vo -- le -- te ch’io muo -- ia,
-    Voi vo -- le -- te ch’io muo -- ia,
+    Voi vo -- le -- te ch'io muo -- ia,
+    Voi vo -- le -- te ch'io muo -- ia,
     E mi da -- te do -- lor __ sì cru -- do~e for -- te 
     E mi da -- te do -- lor __ sì cru -- do~e for -- te __
     Che mi con -- du -- ce~a mor -- te,
@@ -234,7 +234,7 @@ tenoreLyricsXV = \lyricmode {
     \ijLyrics
     Mi vien tan -- to mar -- ti -- re
     \normalLyrics
-    Ch’o -- gn’or __ giun -- go~al mo -- ri -- re
+    Ch'o -- gn'or __ giun -- go~al mo -- ri -- re
     E co -- sì mil -- le~e mil -- le vol -- te,
         mil -- le~e mil -- le vol -- te~il gior -- no
     E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no
@@ -286,7 +286,7 @@ bassoXV = \relative c {
 }
 
 bassoLyricsXV = \lyricmode {
-    Voi vo -- le -- te ch’io muo -- ia,
+    Voi vo -- le -- te ch'io muo -- ia,
     E mi da -- te do -- lor __ sì cru -- do~e for -- te, __
     E __ mi da -- te do -- lor __ sì cru -- do~e for -- te
     Che mi con -- du -- ce~a mor -- te,
@@ -301,7 +301,7 @@ bassoLyricsXV = \lyricmode {
         ohi -- mè!  do -- len -- te vo -- i
     In que -- sta vi -- ta po -- i
     Mi vien tan -- to mar -- ti -- re,
-    Ch’o -- gn’or giun -- go~al mo -- ri -- re
+    Ch'o -- gn'or giun -- go~al mo -- ri -- re
     E __ co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
     E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no
     Per voi mo -- ro, __ e __ mo -- ren -- do~in vi -- ta tor -- no,
@@ -349,9 +349,9 @@ quintoXV = \relative c' {
 }
 
 quintoLyricsXV = \lyricmode {
-    Voi vo -- le -- te ch’io muo -- ia,
+    Voi vo -- le -- te ch'io muo -- ia,
     \ijLyrics
-    Voi vo -- le -- te ch’io muo -- ia,
+    Voi vo -- le -- te ch'io muo -- ia,
     \normalLyrics
     E mi da -- te do -- lor, __
         mi da -- te do -- lor sì cru -- do~e for -- te
@@ -371,7 +371,7 @@ quintoLyricsXV = \lyricmode {
     \ijLyrics
     Mi vien tan -- to mar -- ti -- re
     \normalLyrics
-    Ch’o -- gn’or giun -- go~al mo -- ri -- re
+    Ch'o -- gn'or giun -- go~al mo -- ri -- re
     E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
     E __ co -- sì mil -- le~e mil -- le vol -- te~il gior -- no,
     E co -- sì mil -- le~e mil -- le vol -- te~il gior -- no

@@ -37,12 +37,12 @@ cantoLyricsII = \lyricmode {
     e con es -- si par -- tir o -- gni pen -- sie -- ro,
     e con es -- si par -- tir o -- gni pen -- sie -- ro,
     I de -- sir, le pa -- u -- re, i ri -- si, i pian -- ti,
-    e l’i -- ra e la spe -- ran -- za, e’l fal -- so e’l ve -- ro;
+    e l'i -- ra e la spe -- ran -- za, e'l fal -- so e'l ve -- ro;
     et hor con o -- pre ca -- re, hor con sem -- bian -- ti
     il gra -- ve del -- la vi -- ta far leg -- gie -- ro;
     e sè di roz -- ze~in at -- to~e~in pen -- sier vi -- li
-    so -- vra l’u -- so mon -- dan 
-        so -- vra l’u -- so mon -- dan va -- ghe~e gen -- ti -- li.
+    so -- vra l'u -- so mon -- dan 
+        so -- vra l'u -- so mon -- dan va -- ghe~e gen -- ti -- li.
 }
 
 altoIIincipit = \relative c' {
@@ -81,12 +81,12 @@ altoLyricsII = \lyricmode {
     e con es -- si par -- tir o -- gni pen -- sie -- ro,
     e con es -- si par -- tir o -- gni pen -- sie -- ro,
     I de -- sir, le pa -- u -- re, i ri -- si, i pian -- ti,
-    e l’i -- ra e la spe -- ran -- za, e’l fal -- so e’l ve -- ro;
+    e l'i -- ra e la spe -- ran -- za, e'l fal -- so e'l ve -- ro;
     et hor con o -- pre ca -- re, hor con sem -- bian -- ti
     il gra -- ve del -- la vi -- ta far leg -- gie -- ro;
     e sè di roz -- ze~in at -- to~e~in pen -- sier vi -- li
-    so -- vra l’u -- so mon -- dan 
-        so -- vra l’u -- so mon -- dan va -- ghe~e gen -- ti -- li.
+    so -- vra l'u -- so mon -- dan 
+        so -- vra l'u -- so mon -- dan va -- ghe~e gen -- ti -- li.
 }
 
 tenoreIIincipit = \relative c' {
@@ -125,11 +125,11 @@ tenoreLyricsII = \lyricmode {
     e con es -- si par -- tir o -- gni pen -- sie -- ro,
     e con es -- si par -- tir o -- gni pen -- sie -- ro,
     I de -- sir, le pa -- u -- re, i ri -- si, i pian -- ti,
-    e l’i -- ra e la spe -- ran -- za, e’l fal -- so e’l ve -- ro;
+    e l'i -- ra e la spe -- ran -- za, e'l fal -- so e'l ve -- ro;
     et hor con o -- pre ca -- re, hor con sem -- bian -- ti
     il gra -- ve del -- la vi -- ta far leg -- gie -- ro;
     e sè di roz -- ze~in at -- to~e~in pen -- sier vi -- li
-    so -- vra l’u -- so mon -- dan va -- ghe~e gen -- ti -- li.
+    so -- vra l'u -- so mon -- dan va -- ghe~e gen -- ti -- li.
 }
 
 bassoIIincipit = \relative c' {
@@ -166,11 +166,11 @@ bassoLyricsII = \lyricmode {
     Ma che non gio -- va~ha -- ver fe -- de -- li~a -- man -- ti,
     e con es -- si par -- tir o -- gni pen -- sie -- ro,
     I de -- sir, le pa -- u -- re, i ri -- si, i pian -- ti,
-    e l’i -- ra e la spe -- ran -- za, e’l fal -- so e’l ve -- ro;
+    e l'i -- ra e la spe -- ran -- za, e'l fal -- so e'l ve -- ro;
     et hor con o -- pre ca -- re, hor con sem -- bian -- ti
     il gra -- ve del -- la vi -- ta far leg -- gie -- ro;
     e sè di roz -- ze~in at -- to~e~in pen -- sier vi -- li
-    so -- vra l’u -- so mon -- dan __ va -- ghe~e gen -- ti -- li.
+    so -- vra l'u -- so mon -- dan __ va -- ghe~e gen -- ti -- li.
 }
 
 cantoIIincipitVoice = <<
@@ -205,9 +205,9 @@ bassoIIincipitVoice = <<
 % Ma che non giova aver fedeli amanti,
 % E con loro partir ogni pensiero,
 % I desir, le paure, i risi, i pianti,
-% E l’ ira e la speranza, e’l falso e’l vero;
+% E l' ira e la speranza, e'l falso e'l vero;
 % Et or con opre care, or con sembianti
 % Il grave della vita far leggero;
 % E sè di rozze in atto e in pensier vili
-% Sovra l’ uso mondan vaghe e gentili?
+% Sovra l' uso mondan vaghe e gentili?
 % 

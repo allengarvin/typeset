@@ -1,8 +1,8 @@
 % Madonna mia gentil, ringrazio Amore
-% Che tolto m’abbia il core
-% Dandolo a voi ch’avete
+% Che tolto m'abbia il core
+% Dandolo a voi ch'avete
 % Non sol beltà ma sete
-% Ornata di virtù tal che m’avviso
+% Ornata di virtù tal che m'avviso
 % Stando in terra godere il Paradiso.
 
 cantoXIVincipit = \relative c'' {
@@ -36,19 +36,19 @@ cantoXIV = \relative c'' {
 
 cantoLyricsXIV = \lyricmode {
     Ma -- don -- na mia gen -- til, rin -- gra -- zio~A -- mo -- re
-    Che tol -- to m’ab -- bia~il co -- re
-    Dan -- do -- lo~a voi ch’a -- ve -- te
+    Che tol -- to m'ab -- bia~il co -- re
+    Dan -- do -- lo~a voi ch'a -- ve -- te
     Non sol bel -- tà,
     Non sol bel -- tà ma se -- te
     Or -- na -- ta di vir -- tù,
-    Or -- na -- ta di vir -- tù tal che m’av -- vi -- so,
+    Or -- na -- ta di vir -- tù tal che m'av -- vi -- so,
     \ijLyrics
-        tal che m’av -- vi -- so
+        tal che m'av -- vi -- so
     \normalLyrics
     Stan -- do~in ter -- ra go -- de -- re~il Pa -- ra -- di -- so,
         go -- de -- re~il Pa -- ra -- di -- so,
-        tal che m’av -- vi -- so,
-        tal che m’av -- vi -- so
+        tal che m'av -- vi -- so,
+        tal che m'av -- vi -- so
     Stan -- do~in ter -- ra go -- de -- re~il Pa -- ra -- di -- so,
         go -- de -- re~il Pa -- ra -- di -- so.
 }
@@ -82,16 +82,16 @@ altoXIV = \relative c' {
 
 altoLyricsXIV = \lyricmode {
     Ma -- don -- na mia gen -- til, rin -- gra -- zio~A -- mo -- re
-    Che tol -- to m’ab -- bia~il co -- re
-    Dan -- do -- lo~a voi ch’a -- ve -- te
+    Che tol -- to m'ab -- bia~il co -- re
+    Dan -- do -- lo~a voi ch'a -- ve -- te
     Non sol bel -- tà,
     Or -- na -- ta di vir -- tù, ma se -- te,
-    Or -- na -- ta di vir -- tù tal che m’av -- vi -- so,
-        tal che m’av -- vi -- so
+    Or -- na -- ta di vir -- tù tal che m'av -- vi -- so,
+        tal che m'av -- vi -- so
     Stan -- do~in ter -- ra go -- de -- re~il Pa -- ra -- di -- so,
         il Pa -- ra -- di -- so,
-        tal che m’av -- vi -- so,
-        tal che m’av -- vi -- so
+        tal che m'av -- vi -- so,
+        tal che m'av -- vi -- so
     Stan -- do~in ter -- ra go -- de -- re~il Pa -- ra -- di -- so, __
         go -- de -- re~il Pa -- ra -- di -- so, 
             il Pa -- ra -- di -- so.
@@ -125,20 +125,20 @@ tenoreXIV = \relative c' {
 }
 
 tenoreLyricsXIV = \lyricmode {
-    Che tol -- to m’ab -- bia~il co -- re
-    Dan -- do -- lo~a voi ch’a -- ve -- te
+    Che tol -- to m'ab -- bia~il co -- re
+    Dan -- do -- lo~a voi ch'a -- ve -- te
     Non sol bel -- tà,
     Non sol bel -- tà ma se -- te
     Or -- na -- ta di vir -- tù, ma se -- te,
-        tal che m’av -- vi -- so
+        tal che m'av -- vi -- so
     \ijLyrics
-        tal che m’av -- vi -- so
+        tal che m'av -- vi -- so
     \normalLyrics
     Stan -- do~in ter -- ra go -- de -- re~il Pa -- ra -- di -- so,
-        tal che m’av -- vi -- so,
-        tal che m’av -- vi -- so,
+        tal che m'av -- vi -- so,
+        tal che m'av -- vi -- so,
     \ijLyrics
-        tal che m’av -- vi -- so __
+        tal che m'av -- vi -- so __
     \normalLyrics
     Stan -- do~in ter -- ra go -- de -- re~il Pa -- ra -- di -- so,
         il Pa -- ra -- di -- so,
@@ -173,10 +173,10 @@ bassoLyricsXIV = \lyricmode {
     Ma -- don -- na mia gen -- til, rin -- gra -- zio~A -- mo -- re
     Non sol bel -- tà ma se -- te
     Or -- na -- ta di vir -- tù, ma se -- te,
-        tal che m’av -- vi -- so
+        tal che m'av -- vi -- so
     Stan -- do~in ter -- ra,
-        tal che m’av -- vi -- so,
-        tal che m’av -- vi -- so
+        tal che m'av -- vi -- so,
+        tal che m'av -- vi -- so
     Stan -- do~in ter -- ra go -- de -- re~il Pa -- ra -- di -- so,
         go -- de -- re~il Pa -- ra -- di -- so.
 }
@@ -210,18 +210,18 @@ quintoXIV = \relative c' {
 
 quintoLyricsXIV = \lyricmode {
     Ma -- don -- na mia gen -- til, rin -- gra -- zio~A -- mo -- re
-    Che tol -- to m’ab -- bia~il co -- re
-    Dan -- do -- lo~a voi ch’a -- ve -- te
+    Che tol -- to m'ab -- bia~il co -- re
+    Dan -- do -- lo~a voi ch'a -- ve -- te
     Non sol bel -- tà,
     Non sol bel -- tà ma se -- te
-    Or -- na -- ta di vir -- tù tal che m’av -- vi -- so,
-        tal che m’av -- vi -- so
+    Or -- na -- ta di vir -- tù tal che m'av -- vi -- so,
+        tal che m'av -- vi -- so
     Stan -- do~in ter -- ra go -- de -- re~il Pa -- ra -- di -- so,
         il Pa -- ra -- di -- so,
-        tal che m’av -- vi -- so,
-        tal che m’av -- vi -- so,
+        tal che m'av -- vi -- so,
+        tal che m'av -- vi -- so,
     \ijLyrics
-        tal che m’av -- vi -- so
+        tal che m'av -- vi -- so
     \normalLyrics
     Stan -- do~in ter -- ra go -- de -- re~il Pa -- ra -- di -- so,
         il Pa -- ra -- di -- so,

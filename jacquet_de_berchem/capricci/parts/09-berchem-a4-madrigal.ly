@@ -1,10 +1,10 @@
-%   54 Pieno di dolce e d’amoroso affetto,
+%   54 Pieno di dolce e d'amoroso affetto,
 %      alla sua donna, alla sua diva corse,
 %      che con le braccia al collo il tenne stretto,
-%      quel ch’ al Catai non avria fatto forse.
+%      quel ch' al Catai non avria fatto forse.
 %      Al patrio regno, al suo natio ricetto,
-%      seco avendo costui, l’animo torse:
-%      subito in lei s’avviva la speranza
+%      seco avendo costui, l'animo torse:
+%      subito in lei s'avviva la speranza
 %      di tosto riveder sua ricca stanza.
 
 cantoIXincipit = \relative c'' {
@@ -37,15 +37,15 @@ cantoIX = \relative c'' {
 }
 
 cantoLyricsIX = \lyricmode {
-    Pie -- no di dol -- ce~e d’a -- mo -- ro -- so~af -- fet -- to,
+    Pie -- no di dol -- ce~e d'a -- mo -- ro -- so~af -- fet -- to,
     Al -- la sua don -- na,~al -- la sua di -- va cor -- se,
     Che con le brac -- cia~al col -- lo~il ten -- ne stret -- to,
-    Quel ch’al Ca -- tai non a -- vria fat -- to for -- se.
+    Quel ch'al Ca -- tai non a -- vria fat -- to for -- se.
     Al pa -- trio re -- gno,~al suo na -- tio ri -- cet -- to,
-    Se -- co~a -- ven -- do co -- stui, l’a -- ni -- mo tor -- se:
+    Se -- co~a -- ven -- do co -- stui, l'a -- ni -- mo tor -- se:
     Su -- bi -- to~in lei,
-    Su -- bi -- to~in lei s’av -- vi -- va la spe -- ran -- za,
-        s’av -- vi -- va la spe -- ran -- za,
+    Su -- bi -- to~in lei s'av -- vi -- va la spe -- ran -- za,
+        s'av -- vi -- va la spe -- ran -- za,
             la __ spe -- ran -- za
     Di to -- sto __ ri -- ve -- der sua __ ric -- ca stan -- za,
     Di to -- sto __ ri -- ve -- der sua ric -- ca stan -- za.
@@ -85,17 +85,17 @@ altoIX = \relative c' {
 }
 
 altoLyricsIX = \lyricmode {
-    Pie -- no di dol -- ce~e d’a -- mo -- ro -- so~af -- fet -- to,
+    Pie -- no di dol -- ce~e d'a -- mo -- ro -- so~af -- fet -- to,
     Al -- la sua don -- na,~al -- la sua di -- va cor -- se,
     Al -- la sua don -- na,~al -- la sua di -- va cor -- se,
     Che con le brac -- cia~al col -- lo~il ten -- ne stret -- to,
-    Quel ch’al Ca -- tai __ non a -- vria fat -- to for -- se.
+    Quel ch'al Ca -- tai __ non a -- vria fat -- to for -- se.
     Al pa -- trio re -- gno,~al suo na -- tio ri -- cet -- to,
     Al pa -- trio re -- gno,~al suo na -- tio ri -- cet -- to,
-    Se -- co~a -- ven -- do co -- stui, l’a -- ni -- mo tor -- se:
-    Su -- bi -- to~in lei s’av -- vi -- va la spe -- ran -- za,
-    Su -- bi -- to~in lei s’av -- vi -- va la spe -- ran -- za,
-        s’av -- vi -- va la spe -- ran -- za
+    Se -- co~a -- ven -- do co -- stui, l'a -- ni -- mo tor -- se:
+    Su -- bi -- to~in lei s'av -- vi -- va la spe -- ran -- za,
+    Su -- bi -- to~in lei s'av -- vi -- va la spe -- ran -- za,
+        s'av -- vi -- va la spe -- ran -- za
     Di to -- sto ri -- ve -- der sua __ ric -- ca stan -- za,
     Di to -- sto ri -- ve -- der sua ric -- ca stan -- za.
 }
@@ -132,18 +132,18 @@ tenoreIX = \relative c' {
 }
 
 tenoreLyricsIX = \lyricmode {
-    Pie -- no di dol -- ce~e d’a -- mo -- ro -- so~af -- fet -- to,
+    Pie -- no di dol -- ce~e d'a -- mo -- ro -- so~af -- fet -- to,
     Al -- la sua don -- na,~al -- la sua di -- va cor -- se,
         al -- la __ sua di -- va cor -- se,
     Che con le brac -- cia~al col -- lo~il ten -- ne stret -- to,
-    Quel ch’al Ca -- tai non a -- vria fat -- to for -- se,
+    Quel ch'al Ca -- tai non a -- vria fat -- to for -- se,
         non a -- vria fat -- to for -- se.
     Al pa -- trio re -- gno, al suo na -- tio __ ri -- cet -- to,
-    Se -- co~a -- ven -- do co -- stui, l’a -- ni -- mo tor -- se:
-    Su -- bi -- to~in lei s’av -- vi -- va,
-    Su -- bi -- to~in lei s’av -- vi -- va la spe -- ran -- za,
-    Su -- bi -- to~in lei s’av -- vi -- va la spe -- ran -- za,
-        s’av -- vi -- va la spe -- ran -- za 
+    Se -- co~a -- ven -- do co -- stui, l'a -- ni -- mo tor -- se:
+    Su -- bi -- to~in lei s'av -- vi -- va,
+    Su -- bi -- to~in lei s'av -- vi -- va la spe -- ran -- za,
+    Su -- bi -- to~in lei s'av -- vi -- va la spe -- ran -- za,
+        s'av -- vi -- va la spe -- ran -- za 
     Di to -- sto ri -- ve -- der __ sua ric -- ca stan -- za,
     Di __ to -- sto ri -- ve -- der sua ric -- ca stan -- za.
 }
@@ -181,17 +181,17 @@ bassoIX = \relative c' {
 }
 
 bassoLyricsIX = \lyricmode {
-    Pie -- no di dol -- ce~e d’a -- mo -- ro -- so~af -- fet -- to,
+    Pie -- no di dol -- ce~e d'a -- mo -- ro -- so~af -- fet -- to,
     Al -- la sua don -- na,~al -- la sua di -- va cor -- se,
     Al -- la sua don -- na,~al -- la sua di -- va cor -- se,
         il ten -- ne stret -- to,
-    Quel ch’al Ca -- tai non __ a -- vria fat -- to for -- se.
+    Quel ch'al Ca -- tai non __ a -- vria fat -- to for -- se.
     Al pa -- trio re -- gno,
     Al pa -- trio re -- gno,~al suo na -- tio ri -- cet -- to,
-    Se -- co~a -- ven -- do co -- stui, l’a -- ni -- mo tor -- se:
-    Su -- bi -- to~in lei s’av -- vi -- va la spe -- ran -- za, 
-    Su -- bi -- to~in lei s’av -- vi -- va la spe -- ran -- za, __
-        s’av -- vi -- va la spe -- ran -- za
+    Se -- co~a -- ven -- do co -- stui, l'a -- ni -- mo tor -- se:
+    Su -- bi -- to~in lei s'av -- vi -- va la spe -- ran -- za, 
+    Su -- bi -- to~in lei s'av -- vi -- va la spe -- ran -- za, __
+        s'av -- vi -- va la spe -- ran -- za
     Di to -- sto ri -- ve -- der sua __ ric -- ca stan -- za,
     Di __ to -- sto ri -- ve -- der sua ric -- ca stan -- za.
 }

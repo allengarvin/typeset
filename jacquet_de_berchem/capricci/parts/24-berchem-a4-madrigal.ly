@@ -1,9 +1,9 @@
 %   125  Di pianger mai, mai di gridar non resta;
-%        né la notte né ’l dì si dà mai pace.
+%        né la notte né 'l dì si dà mai pace.
 %        Fugge cittadi e borghi, e alla foresta
 %        sul terren duro al discoperto giace.
-%        Di sé si maraviglia ch’abbia in testa
-%        una fontana d’acqua sì vivace,
+%        Di sé si maraviglia ch'abbia in testa
+%        una fontana d'acqua sì vivace,
 %        e come sospirar possa mai tanto;
 %        e spesso dice a sé così nel pianto.
 
@@ -41,15 +41,15 @@ cantoXXIV = \relative c'' {
 
 cantoLyricsXXIV = \lyricmode {
     Di pian -- ger mai, mai di gri -- dar non re -- sta;
-    Né __ la not -- te né’l dì si dà __ mai pa -- ce,
+    Né __ la not -- te né'l dì si dà __ mai pa -- ce,
         si dà mai pa -- ce.
     Fug -- ge cit -- ta -- di~e bor -- ghi~e~al -- la fo -- re -- sta
     Sul ter -- ren du -- ro~al di -- sco -- per -- to gia -- ce,
         al di -- sco -- per -- to gia -- ce,
         al __ di -- sco -- per -- to gia -- ce.
-    Di sé si ma -- ra -- vi -- glia ch’ab -- bia~in te -- sta
-        ch’ab -- bia~in __ te -- sta
-    U -- na fon -- ta -- na d’ac -- qua sì vi -- va -- ce,
+    Di sé si ma -- ra -- vi -- glia ch'ab -- bia~in te -- sta
+        ch'ab -- bia~in __ te -- sta
+    U -- na fon -- ta -- na d'ac -- qua sì vi -- va -- ce,
         sì __ vi -- va -- ce,
     E co -- me so -- spi -- rar pos -- sa mai tan -- to,
     e co -- me so -- spi -- rar __ pos -- sa mai tan -- to;
@@ -90,16 +90,16 @@ altoXXIV = \relative c'' {
 
 altoLyricsXXIV = \lyricmode {
     Di pian -- ger mai, mai di gri -- dar non re -- sta;
-    Né la not -- te né’l dì si __ dà mai pa -- ce.
+    Né la not -- te né'l dì si __ dà mai pa -- ce.
     Fug -- ge cit -- ta -- di~e bor -- ghi e~al -- la fo -- re -- sta
     Sul ter -- ren du -- ro,
     sul ter -- ren du -- ro~al di -- sco -- per -- to gia -- ce,
         al di -- sco -- per -- to~al di -- sco -- per -- to gia -- ce,
         al di -- sco -- per -- to gia -- ce.
-    Di sé si ma -- ra -- vi -- glia __ ch’ab -- bia~in te -- sta,
-    di sé si ma -- ra -- vi -- glia __ ch’ab -- bia~in te -- sta
+    Di sé si ma -- ra -- vi -- glia __ ch'ab -- bia~in te -- sta,
+    di sé si ma -- ra -- vi -- glia __ ch'ab -- bia~in te -- sta
     U -- na __ fon -- ta -- na,
-    % u -- na fon -- ta -- na d’ac -- qua sì vi -- va -- ce,
+    % u -- na fon -- ta -- na d'ac -- qua sì vi -- va -- ce,
     u -- na fon -- ta -- na sì vi -- va -- ce,
     E __ co -- me so -- spi -- rar __ pos -- sa __ mai tan -- to,
     e co -- me so -- spi -- rar pos -- sa mai tan -- to;
@@ -142,16 +142,16 @@ tenoreXXIV = \relative c'' {
 
 tenoreLyricsXXIV = \lyricmode {
     Di pian -- ger mai, mai di gri -- dar non re -- sta;
-    Né la not -- te __ né’l dì si dà __ mai pa -- ce. __
+    Né la not -- te __ né'l dì si dà __ mai pa -- ce. __
     Fug -- ge cit -- ta -- di~e bor -- ghi~e~al -- la __ fo -- re -- sta
     Sul ter -- ren du -- ro~al di -- sco -- per -- to,
         al di -- sco -- per -- to gia -- ce,
         al di -- sco -- per -- to gia -- ce,
     sul ter -- ren du -- ro~al di -- sco -- per -- to gia -- ce,
-    Di sé si ma -- ra -- vi -- glia ch’ab -- bia~in te -- sta
-        ch’ab -- bia~in te -- sta
-    U -- na fon -- ta -- na d’ac -- qua,
-    u -- na fon -- ta -- na d’ac -- qua sì vi -- va -- ce,
+    Di sé si ma -- ra -- vi -- glia ch'ab -- bia~in te -- sta
+        ch'ab -- bia~in te -- sta
+    U -- na fon -- ta -- na d'ac -- qua,
+    u -- na fon -- ta -- na d'ac -- qua sì vi -- va -- ce,
     E __ co -- me so -- spi -- rar pos -- sa mai,
     e co -- me so -- spi -- rar pos -- sa mai tan -- to,
         so -- spi -- rar pos -- sa mai tan -- to;
@@ -193,13 +193,13 @@ bassoXXIV = \relative c' {
 
 bassoLyricsXXIV = \lyricmode {
     Di pian -- ger mai, mai di gri -- dar non re -- sta;
-    Né la not -- te né’l dì si dà __ mai pa -- ce. __
+    Né la not -- te né'l dì si dà __ mai pa -- ce. __
     Fug -- ge cit -- ta -- di~e bor -- ghi~e~al -- la __ fo -- re -- sta
     Sul ter -- ren du -- ro~al di -- sco -- per -- to gia -- ce,
         al di -- sco -- per -- to gia -- ce,
     sul ter -- ren du -- ro~al di -- sco -- per -- to gia -- ce.
-    Di sé si ma -- ra -- vi -- glia ch’ab -- bia~in te -- sta
-    U -- na fon -- ta -- na d’ac -- qua sì vi -- va -- ce,
+    Di sé si ma -- ra -- vi -- glia ch'ab -- bia~in te -- sta
+    U -- na fon -- ta -- na d'ac -- qua sì vi -- va -- ce,
     E co -- me so -- spi -- rar pos -- sa mai tan -- to,
     e co -- me so -- spi -- rar pos -- sa mai tan -- to,
         pos -- sa __ mai tan -- to;

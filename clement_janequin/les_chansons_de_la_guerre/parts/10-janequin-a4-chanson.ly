@@ -61,7 +61,7 @@ superiusX = \relative c'' {
 
 superiusLyricsX = \lyricmode {
     Res -- veil -- lez vous cueurs en -- dor -- mis,
-    Le Dieu d’a -- mours vous son -- ne,
+    Le Dieu d'a -- mours vous son -- ne,
     res -- veil -- lez vous,
     Vous se -- rez tous en joie mis
     Car la sai -- son est bon -- ne.
@@ -76,9 +76,9 @@ superiusLyricsX = \lyricmode {
 % Le petit sansonnet de Paris,
 % Saige, courtoys et bien appris
 % le petit mignon
-% Qu’est là bas? Passe villain.
+% Qu'est là bas? Passe villain.
 % Saincte teste Dieu
-% Il est temps d’aller boire.
+% Il est temps d'aller boire.
 % 
 % Sus, madame, à la messe,
 % Au sermon ma maıstresse
@@ -87,7 +87,7 @@ superiusLyricsX = \lyricmode {
 % Le doulx musequin.
 % 
 % Teo ticun, frian, frian frian,
-% Tu tu tu, qui l’ara.
+% Tu tu tu, qui l'ara.
 % Coqui coqui, oi ti oi ti,
 % Huyt huyt, ter ter teo,
 % Queo queo, tar tar, fouquet, quibi,
@@ -97,9 +97,9 @@ superiusLyricsX = \lyricmode {
 % Fuyez, maıstre cocu,
 % sortez de nos chapitre
 % vous ne serez poinct retenu
-% car vous nestes qu’un traıstre
+% car vous nestes qu'un traıstre
 % Par trahison en chescun nid
-% ponnez sans qu’on vous sonne
+% ponnez sans qu'on vous sonne
 }
 
 contraXincipit = \relative c'' {

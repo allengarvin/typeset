@@ -4,9 +4,9 @@
 % Restanvi i baci impressi
 % quasi amorose stelle
 % nel vago oscuro velo
-% onde s’amanta il cielo.
+% onde s'amanta il cielo.
 % O perché non posso io cangiarmi in lui?
-% Ch’intorno agli occhi miei
+% Ch'intorno agli occhi miei
 % per mille baci mille stelle avrei.
 
 cantoVIIIincipit = \relative c'' {
@@ -59,14 +59,14 @@ cantoLyricsVIII = \lyricmode {
     Qua -- si~a -- mo -- ro -- se stel -- le
     Nel va -- go~o -- scu -- ro ve -- lo,
     nel va -- go~o -- scu -- ro ve -- lo
-    On -- de s’a -- man -- ta~il cie -- lo,
+    On -- de s'a -- man -- ta~il cie -- lo,
         il cie -- lo,
-    On -- de s’a -- man -- ta~il cie -- lo.
+    On -- de s'a -- man -- ta~il cie -- lo.
 
-    O per -- ché non pos -- s’i -- o can -- giar -- mi~in lu -- i,
-    o per -- ché non pos -- s’i -- o can -- giar -- mi~in lu -- i?
+    O per -- ché non pos -- s'i -- o can -- giar -- mi~in lu -- i,
+    o per -- ché non pos -- s'i -- o can -- giar -- mi~in lu -- i?
 
-    Ch’in -- tor -- no~a -- gli~oc -- chi mie -- i
+    Ch'in -- tor -- no~a -- gli~oc -- chi mie -- i
     Per mil -- le ba -- ci mil -- le stel -- le~a -- vre -- i,
     per mil -- le ba -- ci,
     per mil -- le ba -- ci mil -- le stel -- le~a -- vre -- i.
@@ -130,16 +130,16 @@ altoLyricsVIII = \lyricmode {
     re -- stan -- vi~i ba -- ci~im -- pres -- si
     qua -- si~a -- mo -- ro -- se stel -- le
     nel va -- go~o -- scu -- ro ve -- lo
-    On -- de s’a -- man -- ta~il cie -- lo,
+    On -- de s'a -- man -- ta~il cie -- lo,
     \ijLyrics
-    on -- de s’a -- man -- ta~il cie -- lo.
+    on -- de s'a -- man -- ta~il cie -- lo.
     \normalLyrics
 
-    O per -- ché non pos -- s’i -- o can -- giar -- mi~in lu -- i,
-    o per -- ché non pos -- s’i -- o can -- giar -- mi~in lu -- i?
+    O per -- ché non pos -- s'i -- o can -- giar -- mi~in lu -- i,
+    o per -- ché non pos -- s'i -- o can -- giar -- mi~in lu -- i?
 
-    Ch’in -- tor -- no~a -- gli~oc -- chi mie -- i,
-    ch’in -- tor -- no~a -- gli~oc -- chi mie -- i
+    Ch'in -- tor -- no~a -- gli~oc -- chi mie -- i,
+    ch'in -- tor -- no~a -- gli~oc -- chi mie -- i
     Per mil -- le ba -- ci mil -- le stel -- le~a -- vre -- i,
         mil -- le stel -- le,
         mil -- le stel -- le~a -- vre -- i,
@@ -201,14 +201,14 @@ tenoreLyricsVIII = \lyricmode {
     qua -- si~a -- mo -- ro -- se stel -- le
     Nel va -- go~o -- scu -- ro ve -- lo,
     nel va -- go~o -- scu -- ro ve -- lo
-    On -- de s’a -- man -- ta,
-        s’a -- man -- ta~il cie -- lo,
+    On -- de s'a -- man -- ta,
+        s'a -- man -- ta~il cie -- lo,
             il cie -- lo.
 
-    O per -- ché non pos -- s’i -- o can -- giar -- mi~in lu -- i,
-    o per -- ché non pos -- s’i -- o can -- giar -- mi~in lu -- i?
+    O per -- ché non pos -- s'i -- o can -- giar -- mi~in lu -- i,
+    o per -- ché non pos -- s'i -- o can -- giar -- mi~in lu -- i?
 
-    Ch’in -- tor -- no~a -- gli~oc -- chi mie -- i
+    Ch'in -- tor -- no~a -- gli~oc -- chi mie -- i
     Per mil -- le ba -- ci mil -- le stel -- le~a -- vre -- i,
         mil -- le stel -- le~a -- vre -- i,
     \ijLyrics
@@ -264,14 +264,14 @@ bassoLyricsVIII = \lyricmode {
     \normalLyrics
 %    Nel va -- go~o -- scu -- ro ve -- lo,
 %    nel va -- go~o -- scu -- ro ve -- lo
-    On -- de s’a -- man -- ta~on -- de s’a -- man -- ta~il cie -- lo,
+    On -- de s'a -- man -- ta~on -- de s'a -- man -- ta~il cie -- lo,
         il cie -- lo,
         il cie -- lo.
 
-    O per -- ché non pos -- s’i -- o can -- giar -- mi~in lu -- i?
+    O per -- ché non pos -- s'i -- o can -- giar -- mi~in lu -- i?
 
-    Ch’in -- tor -- no~a -- gli~oc -- chi mie -- i,
-    ch’in -- tor -- no~a -- gli~oc -- chi mie -- i
+    Ch'in -- tor -- no~a -- gli~oc -- chi mie -- i,
+    ch'in -- tor -- no~a -- gli~oc -- chi mie -- i
         mil -- le stel -- le~a -- vre -- i,
     Per mil -- le ba -- ci mil -- le stel -- le~a -- vre -- i,
     per mil -- le ba -- ci mil -- le stel -- le~a -- vre -- i,
@@ -335,15 +335,15 @@ quintoLyricsVIII = \lyricmode {
     \ijLyrics
     nel va -- go~o -- scu -- ro ve -- lo
     \normalLyrics
-    On -- de s’a -- man -- ta~il cie -- lo,
+    On -- de s'a -- man -- ta~il cie -- lo,
     \ijLyrics
-    On -- de s’a -- man -- ta~il cie -- lo.
+    On -- de s'a -- man -- ta~il cie -- lo.
     \normalLyrics
 
-    O per -- ché non pos -- s’i -- o can -- giar -- mi~in lu -- i?
+    O per -- ché non pos -- s'i -- o can -- giar -- mi~in lu -- i?
 
-    Ch’in -- tor -- no~a -- gli~oc -- chi mie -- i,
-    ch’in -- tor -- no~a -- gli~oc -- chi mie -- i
+    Ch'in -- tor -- no~a -- gli~oc -- chi mie -- i,
+    ch'in -- tor -- no~a -- gli~oc -- chi mie -- i
     Per mil -- le ba -- ci mil -- le stel -- le~a -- vre -- i,
     per mil -- le ba -- ci mil -- le stel -- le~a -- vre -- i,
     \ijLyrics

@@ -34,12 +34,12 @@ cantoLyricsIII = \lyricmode {
     Quan -- to~es -- ser vi dee ca -- ro~un huom che bra -- mi
     Via piu la vo -- stra che la pro -- pia goi -- ja,
         che la pro -- pia goi -- ja,
-        Ch’al -- tro che’l no -- me vo -- stro
-    che’l no -- me vo -- stro~un -- qua non chia -- mi,
+        Ch'al -- tro che'l no -- me vo -- stro
+    che'l no -- me vo -- stro~un -- qua non chia -- mi,
     Che sol pen -- san -- do~in voi 
     Che sol pen -- san -- do~in voi 
     Che sol pen -- san -- do~in voi __ tem -- pri~o -- gni no -- ja,
-    Che più che’l mon -- do~in un vi te -- ma~et a -- mi,
+    Che più che'l mon -- do~in un vi te -- ma~et a -- mi,
     Che spes -- so~in voi si vi -- va, in sé si mo -- ja,
     Che __ le vo -- stre tran -- quil -- le~e pu -- re lu -- ci
     Che __ le vo -- stre tran -- quil -- le~e pu -- re lu -- ci
@@ -77,12 +77,12 @@ altoLyricsIII = \lyricmode {
     Quan -- to~es -- ser vi dee ca -- ro~un huom che bra -- mi
     Via piu la vo -- stra che la pro -- pia goi -- ja,
     via piu la vo -- stra che la pro -- pia goi -- ja,
-        Ch’al -- tro che’l no -- me vo -- stro
-    Ch'al -- tro che’l no -- me vo -- stro~un -- qua non chia -- mi,
+        Ch'al -- tro che'l no -- me vo -- stro
+    Ch'al -- tro che'l no -- me vo -- stro~un -- qua non chia -- mi,
     Che sol pen -- san -- do~in voi 
     Che sol pen -- san -- do~in voi 
     Che sol pen -- san -- do~in voi __ tem -- pri~o -- gni no -- ja,
-    Che più che’l mon -- do~in un vi te -- ma~et a -- mi,
+    Che più che'l mon -- do~in un vi te -- ma~et a -- mi,
     Che spes -- so~in voi si vi -- va~in sé __ si mo -- ja,
     Che le vo -- stre tran -- quil -- le~e pu -- re lu -- ci
         e pu -- re lu -- ci
@@ -120,11 +120,11 @@ tenoreLyricsIII = \lyricmode {
     Quan -- to~es -- ser vi dee ca -- ro~un huom che bra -- mi
     Via piu la vo -- stra che la pro -- pia goi -- ja,
     via piu la vo -- stra che la pro -- pia goi -- ja,
-        Ch’al -- tro che’l no -- me vo -- stro
-    Ch'al -- tro __ che’l no -- me vo -- stro~un -- qua non chia -- mi,
+        Ch'al -- tro che'l no -- me vo -- stro
+    Ch'al -- tro __ che'l no -- me vo -- stro~un -- qua non chia -- mi,
     Che sol pen -- san -- do~in voi tem -- pri~o -- gni no -- ja,
     Che sol __ pen -- san -- do~in voi tem -- pri~o -- gni no -- ja,
-    Che più che’l mon -- do~in un vi te -- ma~et a -- mi,
+    Che più che'l mon -- do~in un vi te -- ma~et a -- mi,
     Che spes -- so~in voi si vi -- va~in sé __ si mo -- ja, __
     Che le vo -- stre tran -- quil -- le~e pu -- re lu -- ci
     Del suo cor -- so mor -- tal se -- gua per du -- ci.
@@ -160,10 +160,10 @@ bassoIII = \relative c' {
 bassoLyricsIII = \lyricmode {
     Quan -- to~es -- ser vi dee ca -- ro~un huom che bra -- mi
     Via piu la vo -- stra che la pro -- pia goi -- ja,
-    Ch'al -- tro __ che’l no -- me vo -- stro~un -- qua non chia -- mi,
+    Ch'al -- tro __ che'l no -- me vo -- stro~un -- qua non chia -- mi,
     Che sol pen -- san -- do~in voi tem -- pri~o -- gni no -- ja,
     Che sol pen -- san -- do~in voi tem -- pri~o -- gni no -- ja,
-    Che più che’l mon -- do~in un vi te -- ma~et a -- mi,
+    Che più che'l mon -- do~in un vi te -- ma~et a -- mi,
     Che spes -- so~in voi si vi -- va~in sé __ si mo -- ja,
     Che le vo -- stre tran -- quil -- le~e pu -- re lu -- ci
     Del suo cor -- so mor -- tal se -- gua per du -- ci.
@@ -200,9 +200,9 @@ bassoIIIincipitVoice = <<
 
 % Quanto esser vi dee caro un uom che brami
 % Via piu la vostra che la propia goija?
-% Ch’altro che’l nome vostro unqua non chiami?
+% Ch'altro che'l nome vostro unqua non chiami?
 % Che sol pensando in voi tempri ogni noja?
-% Che più che ’l mondo in un vi tema et ami?
+% Che più che 'l mondo in un vi tema et ami?
 % Che spesso in voi si viva, in sé si moja?
 % Che le vostre tranquille e pure luci
 % Del suo corso mortal segua per duci?

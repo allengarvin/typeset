@@ -1,9 +1,9 @@
 %     Voi mi poneste in foco,
-%     Per farmi anzi ’l mio dì, Donna, perire;
+%     Per farmi anzi 'l mio dì, Donna, perire;
 %     E perché questo mal vi parea poco,
 %     Col pianto raddoppiaste il mio languire.
-%     Or io vi vo’ ben dire:
-%     Levate l’un martire,
+%     Or io vi vo' ben dire:
+%     Levate l'un martire,
 %     Che di due morti, io non posso morire.
 %         - Pietro Bembo, Gli Asolani
 
@@ -38,11 +38,11 @@ cantusV = \relative c' {
 
 cantusLyricsV = \lyricmode {
     Voi __ mi po -- ne -- ste~in fo -- co,
-    Per far -- mi~an -- zi’l mio dì, Don -- na, pe -- ri -- re;
+    Per far -- mi~an -- zi'l mio dì, Don -- na, pe -- ri -- re;
     E per -- ché que -- sto mal vi pa -- rea __ po -- co,
     Col pian -- to rad -- dop -- pia -- ste~il mio lan -- gui -- re.
-    Or io vi vo’ ben di -- re:
-    Le -- va -- te l’un mar -- ti -- re,
+    Or io vi vo' ben di -- re:
+    Le -- va -- te l'un mar -- ti -- re,
     Che di due mor -- ti,
     che di due mor -- ti~io non pos -- so mo -- ri -- re,
     che di due mor -- ti~io non pos -- so mo -- ri -- re. __
@@ -79,11 +79,11 @@ tenorV = \relative c' {
 tenorLyricsV = \lyricmode {
     Voi mi __ po -- ne -- ste~in __ fo -- co,
         in fo -- co,
-    Per far -- mi~an -- zi’l mio dì, Don -- na, __ pe -- ri -- re;
+    Per far -- mi~an -- zi'l mio dì, Don -- na, __ pe -- ri -- re;
     E per -- ché que -- sto mal vi pa -- rea po -- co,
     Col pian -- to rad -- dop -- pia -- ste~il mio lan -- gui -- re.
-    Or io vi vo’ ben __ di -- re:
-    Le -- va -- te l’un mar -- ti -- re,
+    Or io vi vo' ben __ di -- re:
+    Le -- va -- te l'un mar -- ti -- re,
     Che di due mor -- ti~io non pos -- so mo -- ri -- re,
     che di due mor -- ti,
     che di due mor -- ti~io non pos -- so mo -- ri -- re,
@@ -119,11 +119,11 @@ bassusV = \relative c {
 bassusLyricsV = \lyricmode {
     Voi mi __ po -- ne -- ste~in fo -- co,
         in __ fo -- co,
-    Per far -- mi~an -- zi’l mio dì, Don -- na, pe -- ri -- re;
+    Per far -- mi~an -- zi'l mio dì, Don -- na, pe -- ri -- re;
     E per -- ché que -- sto mal vi pa -- rea po -- co, __
     Col pian -- to rad -- dop -- pia -- ste~il mio lan -- gui -- re. __
-    Or io vi vo’ ben di -- re: __
-    Le -- va -- te l’un mar -- ti -- re,
+    Or io vi vo' ben di -- re: __
+    Le -- va -- te l'un mar -- ti -- re,
     Che di due mor -- ti~io non pos -- so mo -- ri -- re,
     che di due mor -- ti,
     che di due mor -- ti~io non pos -- so mo -- ri -- re,

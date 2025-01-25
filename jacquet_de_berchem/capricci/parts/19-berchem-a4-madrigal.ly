@@ -3,8 +3,8 @@
 %      gli raccende nel core e fa più ardente
 %      la fiamma che nel dì parea sopita.
 %      Costei venuta seco era in Ponente
-%      fin dal Cataio; e qui l’avea smarrita,
-%      né ritrovato poi vestigio d’ella
+%      fin dal Cataio; e qui l'avea smarrita,
+%      né ritrovato poi vestigio d'ella
 %      che Carlo rotto fu presso a Bordella.
 
 cantoXIXincipit = \relative c'' {
@@ -48,10 +48,10 @@ cantoLyricsXIX = \lyricmode {
         pa -- rea so -- pi -- ta.
 
     Co -- stei ve -- nu -- ta se -- co~e -- ra~in Po -- nen -- te
-    Fin dal Ca -- tai -- o~e __ qui l’a -- vea smar -- ri -- ta,
-    Né ri -- tro -- va -- to poi ve -- sti -- gio d’el -- la,
-        ve -- sti -- gio d’el -- la,
-        ve -- sti -- gio d’el -- la
+    Fin dal Ca -- tai -- o~e __ qui l'a -- vea smar -- ri -- ta,
+    Né ri -- tro -- va -- to poi ve -- sti -- gio d'el -- la,
+        ve -- sti -- gio d'el -- la,
+        ve -- sti -- gio d'el -- la
     Che Car -- lo rot -- to fu __ pres -- so~a Bor -- del -- la, __
     che Car -- lo rot -- to fu pres -- so~a Bor -- del -- la.
 }
@@ -92,9 +92,9 @@ altoLyricsXIX = \lyricmode {
         nel dì pa -- rea so -- pi -- ta.
 
     Co -- stei ve -- nu -- ta se -- co~e -- ra~in Po -- nen -- te
-    Fin dal Ca -- tai -- o~e qui __ l’a -- vea smar -- ri -- ta,
-    Né ri -- tro -- va -- to poi ve -- sti -- gio d’el -- la,
-        ve -- sti -- gio d’el -- la
+    Fin dal Ca -- tai -- o~e qui __ l'a -- vea smar -- ri -- ta,
+    Né ri -- tro -- va -- to poi ve -- sti -- gio d'el -- la,
+        ve -- sti -- gio d'el -- la
     Che Car -- lo rot -- to fu __ pres -- so~a Bor -- del -- la, __
     che Car -- lo rot -- to fu pres -- so~a Bor -- del -- la.
 }
@@ -139,9 +139,9 @@ tenoreLyricsXIX = \lyricmode {
         pa -- rea so -- pi -- ta.
 
     Co -- stei ve -- nu -- ta se -- co~e -- ra~in Po -- nen -- te
-    Fin dal Ca -- tai -- o~e qui __ l’a -- vea smar -- ri -- ta,
-    Né ri -- tro -- va -- to poi ve -- sti -- gio d’el -- la,
-        ve -- sti -- gio d’el -- la
+    Fin dal Ca -- tai -- o~e qui __ l'a -- vea smar -- ri -- ta,
+    Né ri -- tro -- va -- to poi ve -- sti -- gio d'el -- la,
+        ve -- sti -- gio d'el -- la
     Che Car -- lo rot -- to fu pres -- so~a Bor -- del -- la, __
     che Car -- lo rot -- to fu pres -- so~a Bor -- del -- la.
 }
@@ -180,8 +180,8 @@ bassoLyricsXIX = \lyricmode {
     La __ fiam -- ma che nel dì pa -- rea so -- pi -- ta,
         pa -- rea __ so -- pi -- ta. __
 
-    Né ri -- tro -- va -- to poi ve -- sti -- gio d’el -- la,
-        ve -- sti -- gio d’el -- la
+    Né ri -- tro -- va -- to poi ve -- sti -- gio d'el -- la,
+        ve -- sti -- gio d'el -- la
     Che Car -- lo rot -- to fu __ pres -- so~a Bor -- del -- la, __
     che Car -- lo rot -- to fu pres -- so~a Bor -- del -- la.
 }

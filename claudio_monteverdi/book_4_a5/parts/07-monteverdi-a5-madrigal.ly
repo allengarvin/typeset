@@ -1,10 +1,10 @@
-% Che se tu se’ il cor mio,
-% come se’ pur malgrado
+% Che se tu se' il cor mio,
+% come se' pur malgrado
 % del ciel e della terra,
 % qualor piangi e sospiri,
 % quelle lagrime tue son il mio sangue,
 % quei sospir il mio spirto
-% e quelle pen’e quel dolor che senti
+% e quelle pen'e quel dolor che senti
 % son miei, non tuoi tormenti.
 
 cantoVIIincipit = \relative c'' {
@@ -49,24 +49,24 @@ cantoVII = \relative c'' {
 cantoLyricsVII = \lyricmode {
     Che se tu se~il cor mi -- o,
         se tu se~il cor mi -- o,
-    Co -- me se’ pur,
-    co -- me se’ pur mal -- gra -- do
+    Co -- me se' pur,
+    co -- me se' pur mal -- gra -- do
     Del ciel e del -- la ter -- ra;
 
     che se tu se~il cor mi -- o,
         se tu se~il cor mi -- o,
-    co -- me se’ pur,
-    co -- me se’ pur mal -- gra -- do
+    co -- me se' pur,
+    co -- me se' pur mal -- gra -- do
     del ciel e del -- la ter -- ra,
 
     Qua -- lor pian -- gi~e so -- spi -- ri,
     Quel -- le la -- gri -- me tue son il mio san -- gue,
     Quei so -- spir,
     quei so -- spi -- r'il mio spir -- to
-    E __ quel -- le pe -- n’e __ quel do -- lor che sen -- ti
+    E __ quel -- le pe -- n'e __ quel do -- lor che sen -- ti
     Son miei, non tuoi __ tor -- men -- ti,
 
-    e quel -- le pe -- n’e __ quel do -- lor che sen -- ti
+    e quel -- le pe -- n'e __ quel do -- lor che sen -- ti
     son miei, non tuoi tor -- men -- ti,
         non tuoi tor -- men -- ti,
         non tuoi tor -- men -- ti, __
@@ -115,27 +115,27 @@ altoVII = \relative c' {
 altoLyricsVII = \lyricmode {
     Che se tu se~il cor mi -- o,
         se tu se~il cor mi -- o,
-    Co -- me se’ pur,
-    co -- me se’ pur mal -- gra -- do
+    Co -- me se' pur,
+    co -- me se' pur mal -- gra -- do
     Del ciel e del -- la ter -- ra;
 
     che se tu se~il cor mi -- o,
         se tu se~il cor mi -- o,
-    co -- me se’ pur,
-    co -- me se’ pur mal -- gra -- do
+    co -- me se' pur,
+    co -- me se' pur mal -- gra -- do
     del ciel e del -- la ter -- ra,
 
     Qua -- lor pian -- gi~e so -- spi -- ri,
     Quel -- le la -- gri -- me tue son il mio san -- gue,
     Quei so -- spir,
     quei so -- spi -- r'il mio spir -- to
-    E quel -- le pe -- n’e quel do -- lor che sen -- ti
+    E quel -- le pe -- n'e quel do -- lor che sen -- ti
     Son miei, non tuoi tor -- men -- ti,
 
-    e quel -- le pe -- n’e quel do -- lor che sen -- ti
+    e quel -- le pe -- n'e quel do -- lor che sen -- ti
     son miei, non tuoi tor -- men -- ti,
         non tuoi tor -- men -- ti,
-    e quel -- le pe -- n’e quel do -- lor che sen -- ti
+    e quel -- le pe -- n'e quel do -- lor che sen -- ti
     son miei, non tuoi tor -- men -- ti,
         non tuoi tor -- men -- ti.
 }
@@ -180,20 +180,20 @@ tenoreVII = \relative c' {
 tenoreLyricsVII = \lyricmode {
     Che se tu se~il cor mi -- o,
         se tu se~il cor mi -- o,
-    Co -- me se’ pur,
-    co -- me se’ pur mal -- gra -- do
+    Co -- me se' pur,
+    co -- me se' pur mal -- gra -- do
     Del ciel e del -- la ter -- ra.
 
     Qua -- lor pian -- gi~e so -- spi -- ri,
     Quel -- le la -- gri -- me tue son il mio san -- gue,
     Quei so -- spir,
     quei so -- spi -- r'il mio spir -- to
-    E quel -- le pe -- n’e __ quel do -- lor che sen -- ti
+    E quel -- le pe -- n'e __ quel do -- lor che sen -- ti
     Son miei, non tuoi tor -- men -- ti,
-    e quel -- le pe -- n’e __ quel do -- lor che sen -- ti
+    e quel -- le pe -- n'e __ quel do -- lor che sen -- ti
     son miei, non tuoi tor -- men -- ti;
 
-    e __ quel -- le pe -- n’e quel do -- lor che sen -- ti
+    e __ quel -- le pe -- n'e quel do -- lor che sen -- ti
     son miei, non tuoi tor -- men -- ti,
         non tuoi tor -- men -- ti.
 }
@@ -231,15 +231,15 @@ bassoVII = \relative c' {
 bassoLyricsVII = \lyricmode {
     Che se tu se~il cor mi -- o,
         se tu se~il cor mi -- o,
-    Co -- me se’ pur,
-    co -- me se’ pur mal -- gra -- do
+    Co -- me se' pur,
+    co -- me se' pur mal -- gra -- do
     Del ciel e del -- la ter -- ra.
 
     Qua -- lor pian -- gi~e so -- spi -- ri,
     Quel -- le la -- gri -- me tue son il mio san -- gue,
     Quei so -- spir,
     quei so -- spi -- r'il mio spir -- to
-    E quel -- le pe -- n’e __ quel do -- lor che sen -- ti
+    E quel -- le pe -- n'e __ quel do -- lor che sen -- ti
     Son miei, non tuoi tor -- men -- ti,
         non tuoi tor -- men -- ti,
         non tuoi tor -- men -- ti.
@@ -286,22 +286,22 @@ quintoVII = \relative c' {
 quintoLyricsVII = \lyricmode {
     Che se tu se~il cor mi -- o,
         se tu se~il cor mi -- o,
-    Co -- me se’ pur,
-    co -- me se’ pur mal -- gra -- do
+    Co -- me se' pur,
+    co -- me se' pur mal -- gra -- do
     Del ciel e del -- la ter -- ra;
 
     che se tu se~il cor mi -- o,
         se tu se~il cor mi -- o,
-    co -- me se’ pur,
-    co -- me se’ pur mal -- gra -- do
+    co -- me se' pur,
+    co -- me se' pur mal -- gra -- do
     del ciel e del -- la ter -- ra,
 
     Qua -- lor pian -- gi~e so -- spi -- ri,
     Quel -- le la -- gri -- me tue son il mio san -- gue,
     Quei so -- spir,
     quei so -- spi -- r'il mio spir -- to
-    E __ quel -- le pe -- n’e quel do -- lor che sen -- ti,
-    e quel -- le pe -- n’e quel do -- lor che sen -- ti
+    E __ quel -- le pe -- n'e quel do -- lor che sen -- ti,
+    e quel -- le pe -- n'e quel do -- lor che sen -- ti
     Son miei, __ non tuoi tor -- men -- ti,
         non tuoi tor -- men -- ti,
         non tuoi tor -- men -- ti,

@@ -1,12 +1,12 @@
 % Lieto godea sedendo
-% L’aura che tremolando
-% Dolce spira l’aprile;
-% Ogn’or sospira d’Amor ogn’animale
+% L'aura che tremolando
+% Dolce spira l'aprile;
+% Ogn'or sospira d'Amor ogn'animale
 % Con mortal dardo
-% Amor volando venn’ e’l cor mi punse
+% Amor volando venn' e'l cor mi punse
 % E lasso ahimè fugge meschino me.
-% Onde n’avrò la morte
-% S’in lieta non si cangia la mia sorte.
+% Onde n'avrò la morte
+% S'in lieta non si cangia la mia sorte.
  
 
 % Giovanni!
@@ -63,36 +63,36 @@ cantoLyricsXXV = \lyricmode {
     \ijLyrics
         go -- dea se -- den -- do
     \normalLyrics
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
     Lie -- to go -- dea,
     \ijLyrics
     Lie -- to go -- dea,
     \normalLyrics
         go -- dea se -- den -- do
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
 
 
-    O -- gn’or so -- spi -- ra,
-        so -- spi -- ra d’A -- mor __ o -- gn’a -- ni -- ma -- le
+    O -- gn'or so -- spi -- ra,
+        so -- spi -- ra d'A -- mor __ o -- gn'a -- ni -- ma -- le
     Con mor -- tal dar -- do
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     E las -- so~ahi -- mè, fug -- ge 
         fug -- ge % me -- schi -- no me
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     \ijLyrics
     E las -- so~ahi -- mè, 
     \normalLyrics
         fug -- ge, fug -- ge, fug -- ge me -- schi -- no me.
-    On -- de n’a -- vrò 
+    On -- de n'a -- vrò 
     \ijLyrics
-    On -- de n’a -- vrò 
+    On -- de n'a -- vrò 
     \normalLyrics
-        n’a -- vrò la mor -- te,
-    S’in lie -- ta non si can -- gia la mia sor -- te.
+        n'a -- vrò la mor -- te,
+    S'in lie -- ta non si can -- gia la mia sor -- te.
 }
 
 altoXXVincipit = \relative c'' {
@@ -140,35 +140,35 @@ altoLyricsXXV = \lyricmode {
     \ijLyrics
         go -- dea se -- den -- do
     \normalLyrics
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
     Lie -- to go -- dea,
     \ijLyrics
     Lie -- to go -- dea,
     \normalLyrics
         go -- dea se -- den -- do
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
 
 
-    O -- gn’or so -- spi -- ra d’A -- mor o -- gn’a -- ni -- ma -- le
+    O -- gn'or so -- spi -- ra d'A -- mor o -- gn'a -- ni -- ma -- le
     Con mor -- tal dar -- do
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     E las -- so~ahi -- mè, 
         fug -- ge me -- schi -- no me,
             me -- schi -- no me,
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     E las -- so~ahi -- mè, 
         fug -- ge me -- schi -- no me,
             me -- schi -- no me.
-    On -- de n’a -- vrò 
+    On -- de n'a -- vrò 
     \ijLyrics
-    On -- de n’a -- vrò 
+    On -- de n'a -- vrò 
     \normalLyrics
-        n’a -- vrò la mor -- te,
-    S’in lie -- ta non si can -- gia la mia sor -- te.
+        n'a -- vrò la mor -- te,
+    S'in lie -- ta non si can -- gia la mia sor -- te.
 }
 
 tenoreXXVincipit = \relative c' {
@@ -220,38 +220,38 @@ tenoreLyricsXXV = \lyricmode {
     \ijLyrics
         go -- dea se -- den -- do
     \normalLyrics
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
     Lie -- to go -- dea,
     \ijLyrics
     Lie -- to go -- dea,
     \normalLyrics
         go -- dea se -- den -- do
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
 
 
-    O -- gn’or so -- spi -- ra d’A -- mor o -- gn’a -- ni -- ma -- le
+    O -- gn'or so -- spi -- ra d'A -- mor o -- gn'a -- ni -- ma -- le
     Con mor -- tal dar -- do
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     \ijLyrics
     E las -- so~ahi -- mè, 
     \normalLyrics
         fug -- ge me -- schi -- no me,
         fug -- ge me -- schi -- no me,
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     \ijLyrics
     E las -- so~ahi -- mè, 
     \normalLyrics
     E las -- so~ahi -- mè, fug -- ge me -- schi -- no me.
-    On -- de n’a -- vrò 
+    On -- de n'a -- vrò 
     \ijLyrics
-    On -- de n’a -- vrò 
+    On -- de n'a -- vrò 
     \normalLyrics
-        n’a -- vrò la mor -- te,
-    S’in lie -- ta non si can -- gia la mia sor -- te,
+        n'a -- vrò la mor -- te,
+    S'in lie -- ta non si can -- gia la mia sor -- te,
         la mia sor -- te.
 }
 
@@ -300,37 +300,37 @@ bassoLyricsXXV = \lyricmode {
     Lie -- to go -- dea,
     \normalLyrics
         go -- dea se -- den -- do
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
     Lie -- to go -- dea,
         go -- dea se -- den -- do
     \ijLyrics
         go -- dea se -- den -- do
     \normalLyrics
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
 
 
-    O -- gn’or so -- spi -- ra,
-        so -- spi -- ra d’A -- mor o -- gn’a -- ni -- mal
+    O -- gn'or so -- spi -- ra,
+        so -- spi -- ra d'A -- mor o -- gn'a -- ni -- mal
     Con mor -- tal dar -- do
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     \ijLyrics
     E las -- so~ahi -- mè, 
     \normalLyrics
         fug -- ge me -- schi -- no me,
         fug -- ge, fug -- ge me -- schi -- no me,
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     E las -- so~ahi -- mè, 
         fug -- ge me -- schi -- no me,
         fug -- ge me -- schi -- no me.
-    On -- de n’a -- vrò n’a -- vrò la mor -- te,
+    On -- de n'a -- vrò n'a -- vrò la mor -- te,
     \ijLyrics
-        n’a -- vrò la mor -- te,
+        n'a -- vrò la mor -- te,
     \normalLyrics
-    S’in lie -- ta non si can -- gia la mia sor -- te.
+    S'in lie -- ta non si can -- gia la mia sor -- te.
 }
 
 quintoXXVincipit = \relative c'' {
@@ -383,20 +383,20 @@ quintoLyricsXXV = \lyricmode {
     Lie -- to go -- dea,
     \normalLyrics
         go -- dea se -- den -- do
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
     Lie -- to go -- dea, go -- dea se -- den -- do
     \ijLyrics
         go -- dea se -- den -- do
     \normalLyrics
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
 
 
-    O -- gn’or so -- spi -- ra,
-        d’A -- mor __ o -- gn’a -- ni -- ma -- le
+    O -- gn'or so -- spi -- ra,
+        d'A -- mor __ o -- gn'a -- ni -- ma -- le
     Con mor -- tal dar -- do
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     \ijLyrics
     E las -- so~ahi -- mè, 
@@ -404,14 +404,14 @@ quintoLyricsXXV = \lyricmode {
         fug -- ge,
         fug -- ge,
         fug -- ge me -- schi -- no me
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     E las -- so~ahi -- mè, 
         fug -- ge, fug -- ge.
-    On -- de n’a -- vrò 
-        n’a -- vrò la mor -- te,
-        n’a -- vrò la mor -- te,
-    S’in lie -- ta non si can -- gia la __ mia sor -- te.
+    On -- de n'a -- vrò 
+        n'a -- vrò la mor -- te,
+        n'a -- vrò la mor -- te,
+    S'in lie -- ta non si can -- gia la __ mia sor -- te.
 }
 
 sestoXXVincipit = \relative c' {
@@ -460,28 +460,28 @@ sestoLyricsXXV = \lyricmode {
     \ijLyrics
         go -- dea se -- den -- do
     \normalLyrics
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
     Lie -- to go -- dea,
     \ijLyrics
     Lie -- to go -- dea,
     \normalLyrics
         go -- dea se -- den -- do
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
 
 
-    O -- gn’or so -- spi -- ra,
-        so -- spi -- ra d’A -- mor o -- gn’a -- ni -- ma -- le
+    O -- gn'or so -- spi -- ra,
+        so -- spi -- ra d'A -- mor o -- gn'a -- ni -- ma -- le
     Con mor -- tal dar -- do
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     \ijLyrics
     E las -- so~ahi -- mè, 
     \normalLyrics
         fug -- ge me -- schi -- no me,
         fug -- ge me -- schi -- no me,
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     \ijLyrics
     E las -- so~ahi -- mè, 
@@ -490,12 +490,12 @@ sestoLyricsXXV = \lyricmode {
     \ijLyrics
         fug -- ge me -- schi -- no me.
     \normalLyrics
-    On -- de n’a -- vrò 
+    On -- de n'a -- vrò 
     \ijLyrics
-    On -- de n’a -- vrò 
+    On -- de n'a -- vrò 
     \normalLyrics
-        n’a -- vrò la mor -- te,
-    S’in lie -- ta non si can -- gia la mia sor -- te.
+        n'a -- vrò la mor -- te,
+    S'in lie -- ta non si can -- gia la mia sor -- te.
 }
 
 settimaXXVincipit = \relative c'' {
@@ -542,35 +542,35 @@ settimaLyricsXXV = \lyricmode {
     Lie -- to go -- dea,
     \normalLyrics
         go -- dea se -- den -- do
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
     Lie -- to go -- dea,
         go -- dea se -- den -- do
     \ijLyrics
         go -- dea se -- den -- do
     \normalLyrics
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
 
 
-    O -- gn’or so -- spi -- ra, d’A -- mor o -- gn’a -- ni -- ma -- le
+    O -- gn'or so -- spi -- ra, d'A -- mor o -- gn'a -- ni -- ma -- le
     Con mor -- tal dar -- do
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     \ijLyrics
     E las -- so~ahi -- mè, 
     \normalLyrics
     E las -- so~ahi -- mè, fug -- ge me -- schi -- no me
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     E las -- so~ahi -- mè, 
     E las -- so~ahi -- mè, fug -- ge me -- schi -- no me.
-    On -- de n’a -- vrò 
-        n’a -- vrò la mor -- te,
+    On -- de n'a -- vrò 
+        n'a -- vrò la mor -- te,
     \ijLyrics
-        n’a -- vrò la mor -- te,
+        n'a -- vrò la mor -- te,
     \normalLyrics
-    S’in lie -- ta non si can -- gia la mia sor -- te.
+    S'in lie -- ta non si can -- gia la mia sor -- te.
 }
 
 ottavaXXVincipit = \relative c' {
@@ -620,32 +620,32 @@ ottavaLyricsXXV = \lyricmode {
     Lie -- to go -- dea,
     \normalLyrics
         go -- dea se -- den -- do
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
     Lie -- to go -- dea,
         go -- dea se -- den -- do
         go -- dea se -- den -- do
-    L’au -- ra che tre -- mo -- lan -- do
-    Dol -- ce spi -- ra l’a -- pri -- le;
+    L'au -- ra che tre -- mo -- lan -- do
+    Dol -- ce spi -- ra l'a -- pri -- le;
 
 
-    O -- gn’or so -- spi -- ra, d’A -- mor o -- gn’a -- ni -- ma -- le
+    O -- gn'or so -- spi -- ra, d'A -- mor o -- gn'a -- ni -- ma -- le
     Con mor -- tal dar -- do
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     \ijLyrics
     E las -- so~ahi -- mè, 
     \normalLyrics
     E las -- so~ahi -- mè, fug -- ge me -- schi -- no me,
-    A -- mor vo -- lan -- do ven -- n’e’l cor mi pun -- se
+    A -- mor vo -- lan -- do ven -- n'e'l cor mi pun -- se
     E las -- so~ahi -- mè, 
     E las -- so~ahi -- mè, 
         fug -- ge me -- schi -- no me,
         fug -- ge me -- schi -- no me.
-    On -- de n’a -- vrò 
-        n’a -- vrò la mor -- te,
-        n’a -- vrò la mor -- te,
-    S’in lie -- ta non si can -- gia la mia sor -- te.
+    On -- de n'a -- vrò 
+        n'a -- vrò la mor -- te,
+        n'a -- vrò la mor -- te,
+    S'in lie -- ta non si can -- gia la mia sor -- te.
 }
 
 cantoXXVincipitVoice = <<

@@ -1,10 +1,10 @@
 %   77 Dove, speranza mia, dove ora sei?
 %      vai tu soletta forse ancor errando?
-%      o pur t’hanno trovata i lupi rei
+%      o pur t'hanno trovata i lupi rei
 %      senza la guardia del tuo fido Orlando?
-%      e il fior ch’in ciel potea pormi fra i dei,
-%      il fior ch’intatto io mi venia serbando
-%      per non turbarti, ohimè! l’animo casto,
+%      e il fior ch'in ciel potea pormi fra i dei,
+%      il fior ch'intatto io mi venia serbando
+%      per non turbarti, ohimè! l'animo casto,
 %      ohimè! per forza avranno colto e guasto.
 
 
@@ -40,8 +40,8 @@ cantoLyricsIII = \lyricmode {
     Vai tu so -- let -- ta,
     Vai tu so -- let -- ta for -- se~an -- cor err -- an -- do?
         an -- cor __ err -- an -- do?
-    O pur t’han -- no tro -- va -- ta~i lu -- pi re -- i,
-    O pur t’han -- no tro -- va -- ta~i lu -- pi re -- i
+    O pur t'han -- no tro -- va -- ta~i lu -- pi re -- i,
+    O pur t'han -- no tro -- va -- ta~i lu -- pi re -- i
     Sen -- za la guar -- dia,
     Sen -- za la guar -- dia del __ tuo fi -- do~Or -- lan -- do?
         del tuo fi -- do~Or -- lan -- do?
@@ -83,7 +83,7 @@ altoLyricsIII = \lyricmode {
     Do -- ve, spe -- ran -- za mia, do -- ve~o -- ra se -- i?
     Vai tu so -- let -- ta,
     Vai tu so -- let -- ta for -- se~an -- cor err -- an -- do?
-    O pur t’han -- no tro -- va -- ta~i lu -- pi re -- i, __
+    O pur t'han -- no tro -- va -- ta~i lu -- pi re -- i, __
     Sen -- za la guar -- dia,
     Sen -- za la guar -- dia del tuo fi -- do~Or -- lan -- do?
         del tuo fi -- do~Or -- lan -- do?
@@ -125,7 +125,7 @@ tenoreLyricsIII = \lyricmode {
     Do -- ve, spe -- ran -- za mia, do -- ve~o -- ra se -- i?
     Vai tu so -- let -- ta,
     Vai tu so -- let -- ta for -- se~an -- cor err -- an -- do?
-    O pur t’han -- no tro -- va -- ta~i lu -- pi re -- i,
+    O pur t'han -- no tro -- va -- ta~i lu -- pi re -- i,
         i lu -- pi re -- i,
     Sen -- za la guar -- dia,
     Sen -- za la guar -- dia,
@@ -170,8 +170,8 @@ bassoLyricsIII = \lyricmode {
     Vai tu so -- let -- ta,
     Vai tu so -- let -- ta for -- se~an -- cor err -- an -- do?
         an -- cor err -- an -- do?
-    O pur t’han -- no tro -- va -- ta~i lu -- pi re -- i, __
-    O pur t’han -- no tro -- va -- ta~i lu -- pi re -- i
+    O pur t'han -- no tro -- va -- ta~i lu -- pi re -- i, __
+    O pur t'han -- no tro -- va -- ta~i lu -- pi re -- i
     Sen -- za la guar -- dia,
     Sen -- za la guar -- dia,
     Sen -- za la guar -- dia del tuo fi -- do~Or -- lan -- do?

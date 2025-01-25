@@ -1,12 +1,12 @@
 % *** DAMN ALREADY DID THIS ***
 
 % 28 1  Gravi pene in amor si provan molte,
-%       di che patito io n’ho la maggior parte,
+%       di che patito io n'ho la maggior parte,
 %       e quelle in danno mio sì ben raccolte,
-%       ch’io ne posso parlar come per arte.[4]^1
-%       Però s’io dico e s’ho detto altre volte,
+%       ch'io ne posso parlar come per arte.[4]^1
+%       Però s'io dico e s'ho detto altre volte,
 %       e quando in voce e quando in vive carte,[5]^2
-%       ch’un mal sia lieve, un altro acerbo e fiero,
+%       ch'un mal sia lieve, un altro acerbo e fiero,
 %       date credenza al mio giudicio vero.
 
 cantoIIincipit = \relative c'' {
@@ -53,17 +53,17 @@ cantoII = \relative c'' {
 
 cantoLyricsII = \lyricmode {
     Gra -- vi pe -- ne~in a -- mor __ si pro -- van mol -- te,
-    Di che pa -- ti -- to~io n’ho la mag -- gior par -- te,
+    Di che pa -- ti -- to~io n'ho la mag -- gior par -- te,
     E quel -- le~in dan -- no mio sì ben rac -- col -- te,
     E quel -- le~in dan -- no mio __ sì ben rac -- col -- te,
-    Ch’io ne pos -- so par -- lar __ co -- me per ar -- te.
+    Ch'io ne pos -- so par -- lar __ co -- me per ar -- te.
 
-    Pe -- rò s’io di -- co e s’ho det -- to~al -- tre vol -- te, __
+    Pe -- rò s'io di -- co e s'ho det -- to~al -- tre vol -- te, __
     E quan -- do~in vo -- ce~e quan -- do~in vi -- ve car -- te,
     E quan -- do~in vo -- ce~e quan -- do~in vi -- ve car -- te,
 
-    Ch’un mal sia lie -- ve, 
-    Ch’un mal sia lie -- ve, un al -- tro~a -- cer -- bo~e fie -- ro,
+    Ch'un mal sia lie -- ve, 
+    Ch'un mal sia lie -- ve, un al -- tro~a -- cer -- bo~e fie -- ro,
         un al -- tro~a -- cer -- bo~e fie -- ro,
     Da -- te cre -- den -- za~al mio giu -- di -- cio ve -- ro,
     Da -- te cre -- den -- za~al mio giu -- di -- cio ve -- ro.

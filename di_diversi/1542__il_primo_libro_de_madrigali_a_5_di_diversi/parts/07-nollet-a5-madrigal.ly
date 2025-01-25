@@ -1,10 +1,10 @@
 % 33 63  Il dolce sonno mi promise pace,
-%        ma l’amaro veggiar mi torna in guerra:
+%        ma l'amaro veggiar mi torna in guerra:
 %        il dolce sonno è ben stato fallace,
-%        ma l’amaro veggiar, ohimè! non erra.
-%        Se ’l vero annoia, e il falso sì mi piace,
+%        ma l'amaro veggiar, ohimè! non erra.
+%        Se 'l vero annoia, e il falso sì mi piace,
 %        non oda o vegga mai più vero in terra:
-%        se ’l dormir mi dà gaudio, e il veggiar guai,
+%        se 'l dormir mi dà gaudio, e il veggiar guai,
 %        possa io dormir senza destarmi mai.
 
 cantoVII = \relative c' {

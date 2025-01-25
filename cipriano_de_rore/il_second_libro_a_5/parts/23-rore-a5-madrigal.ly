@@ -32,16 +32,16 @@ cantusXXIII = \relative c'' {
 
 cantusLyricsXXIII = \lyricmode {
     Or vol -- ge, Si -- gnor __ mi -- o, 
-    or vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no
-    Ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
+    or vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no
+    Ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
         al di -- spie -- ta -- to gio -- go
     Che so -- pra~i più sog -- get -- ti~è più __ fe -- ro -- ce,
     che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
 
     Mi -- se -- re -- re del mio non de -- gno~af -- fan -- no,
     mi -- se -- re -- re del mio non de -- gno~af -- fan -- no;
-    Re -- du -- ci~i pen -- sier’ va -- ghi,
-    re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
+    Re -- du -- ci~i pen -- sier' va -- ghi,
+    re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
     Ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce, __
     ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce.
 }
@@ -79,17 +79,17 @@ altusXXIII = \relative c'' {
 }
 
 altusLyricsXXIII = \lyricmode {
-    Or __ vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no,
-    or vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no
-    Ch’i’ fui __ som -- mes -- so~al di -- spie -- ta -- to gio -- go,
-    ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
+    Or __ vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no,
+    or vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no
+    Ch'i' fui __ som -- mes -- so~al di -- spie -- ta -- to gio -- go,
+    ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
     Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
     che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
 
     Mi -- se -- re -- re del mio __ non de -- gno~af -- fan -- no,
     mi -- se -- re -- re del mio non de -- gno~af -- fan -- no;
-    Re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go,
-    re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
+    Re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go,
+    re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
     Ra -- men -- ta lor,
     ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce,
     ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce.
@@ -124,15 +124,15 @@ tenorXXIII = \relative c' {
 }
 
 tenorLyricsXXIII = \lyricmode {
-    Or vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no
-    Ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
+    Or vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no
+    Ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
         al di -- spie -- ta -- to gio -- go
     Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
     che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
         è più fe -- ro -- ce. __
 
     Mi -- se -- re -- re del mio non de -- gno~af -- fan -- no,
-    Re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
+    Re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
     Ra -- men -- ta lor, __
     ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce,
     ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce.
@@ -170,17 +170,17 @@ bassusXXIII = \relative c' {
 }
 
 bassusLyricsXXIII = \lyricmode {
-    Or vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no
-    or vol -- ge, __ Si -- gnor mio, __ l’un -- de -- ci -- mo~an -- no
-    Ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
-    ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
+    Or vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no
+    or vol -- ge, __ Si -- gnor mio, __ l'un -- de -- ci -- mo~an -- no
+    Ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
+    ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
     Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
         è più fe -- ro -- ce.
 
     Mi -- se -- re -- re del mio non de -- gno~af -- fan -- no,
-    Re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior __ luo -- go,
+    Re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior __ luo -- go,
         a mi -- glior __ luo -- go;
-    re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
+    re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
     Ra -- men -- ta lor,
     \ijLyrics
     ra -- men -- ta lor,
@@ -222,16 +222,16 @@ quintusXXIII = \relative c' {
 
 quintusLyricsXXIII = \lyricmode {
     Or vol -- ge, Si -- gnor mio,
-    or vol -- ge, Si -- gnor mio, l’un -- de -- ci -- mo~an -- no
-    Ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
-    ch’i’ fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
+    or vol -- ge, Si -- gnor mio, l'un -- de -- ci -- mo~an -- no
+    Ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
+    ch'i' fui som -- mes -- so~al di -- spie -- ta -- to gio -- go,
     Che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce,
     che so -- pra~i più sog -- get -- ti~è più fe -- ro -- ce.
 
     Mi -- se -- re -- re del mio non de -- gno~af -- fan -- no,
     mi -- se -- re -- re del mio non de -- gno~af -- fan -- no;
-    Re -- du -- ci~i pen -- sier’ va -- ghi~a mi -- glior luo -- go;
-    re -- du -- ci~i pen -- sier’ va -- ghi a mi -- glior luo -- go;
+    Re -- du -- ci~i pen -- sier' va -- ghi~a mi -- glior luo -- go;
+    re -- du -- ci~i pen -- sier' va -- ghi a mi -- glior luo -- go;
     Ra -- men -- ta lor,
     Ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce,
     ra -- men -- ta lor co -- me~og -- gi fu -- sti~in cro -- ce.

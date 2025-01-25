@@ -5,7 +5,7 @@
 %          Quel mi trasporta ognior di male in peggio,
 %          né lo posso frenar, che non ha freno:
 %          e mi fa certa che mi mena a morte,
-%          perch’aspettando il mal noccia più forte.
+%          perch'aspettando il mal noccia più forte.
 
 cantoVIincipit = \relative c'' {
     \time 4/4

@@ -1,8 +1,8 @@
-% Può ben fortuna far ch’io m’allontani
-% ma non già ch’io non v’ami
-% e che voi sola i’ non sospiri e brami.
+% Può ben fortuna far ch'io m'allontani
+% ma non già ch'io non v'ami
+% e che voi sola i' non sospiri e brami.
                      % vvvv liner notes have "sia"
-% Vostro convien ch’io viva e vostro i’ mora
+% Vostro convien ch'io viva e vostro i' mora
 % e dopo morte ancora
 % arderà di dolcissimo desio
 % a un sol vostro sospiro il cener mio.
@@ -54,15 +54,15 @@ cantoXIX = \relative c'' {
 }
 
 cantoLyricsXIX = \lyricmode {
-    Può ben for -- tu -- na far ch’io m’al -- lon -- ta -- ni,
-        ch’io m’al -- lon -- ta -- ni
-    Ma non già ch’io non v’a -- mi,
-    Ma non già ch’io non v’a -- mi
-    E __ che voi so -- la, i’ non so -- spi -- ri~e bra -- mi,
+    Può ben for -- tu -- na far ch'io m'al -- lon -- ta -- ni,
+        ch'io m'al -- lon -- ta -- ni
+    Ma non già ch'io non v'a -- mi,
+    Ma non già ch'io non v'a -- mi
+    E __ che voi so -- la, i' non so -- spi -- ri~e bra -- mi,
         e bra -- mi,
-        i’ non so -- spi -- ri~e bra -- mi.
-    Vo -- stro con -- vien ch’io vi -- va, e __ vo -- stro~e vo -- stro~i’ mo -- ra,
-        e vo -- stro~i’ mo -- ra,
+        i' non so -- spi -- ri~e bra -- mi.
+    Vo -- stro con -- vien ch'io vi -- va, e __ vo -- stro~e vo -- stro~i' mo -- ra,
+        e vo -- stro~i' mo -- ra,
     E __ do -- po mor -- te~an -- co -- ra
     Ar -- de -- rà di dol -- cis -- si -- mo de -- si -- o
     A~un sol vo -- stro so -- spi -- ro il ce -- ner mi -- o,
@@ -110,17 +110,17 @@ altoXIX = \relative c'' {
 }
 
 altoLyricsXIX = \lyricmode {
-    Può ben for -- tu -- na far ch’io m’al -- lon -- ta -- ni,
-        ch’io m’al -- lon -- ta -- ni,
-        ch’io m’al -- lon -- ta -- ni
-    Ma non già ch’io non v’a -- mi,
-    ma non già ch’io non v’a -- mi
+    Può ben for -- tu -- na far ch'io m'al -- lon -- ta -- ni,
+        ch'io m'al -- lon -- ta -- ni,
+        ch'io m'al -- lon -- ta -- ni
+    Ma non già ch'io non v'a -- mi,
+    ma non già ch'io non v'a -- mi
     E __ che voi so -- la,
-    e __ che voi so -- la, i’ non so -- spi -- ri~e bra -- mi,
-        i’ non so -- spi -- ri,
+    e __ che voi so -- la, i' non so -- spi -- ri~e bra -- mi,
+        i' non so -- spi -- ri,
             so -- spi -- ri~e bra -- mi.
-    Vo -- stro con -- vien ch’io vi -- va,
-    vo -- stro con -- vien ch’io vi -- va, e vo -- stro~e vo -- stro~i’ mo -- ra
+    Vo -- stro con -- vien ch'io vi -- va,
+    vo -- stro con -- vien ch'io vi -- va, e vo -- stro~e vo -- stro~i' mo -- ra
     E do -- po mor -- te~an -- co -- ra
     Ar -- de -- rà di dol -- cis -- si -- mo de -- si -- o
     A~un sol vo -- stro so -- spi -- ro,
@@ -169,18 +169,18 @@ tenoreXIX = \relative c' {
 }
 
 tenoreLyricsXIX = \lyricmode {
-    Può ben for -- tu -- na far ch’io m’al -- lon -- ta -- ni,
-    può ben for -- tu -- na far ch’io m’al -- lon -- ta -- ni,
-        ch’io m’al -- lon -- ta -- ni
-    Ma non già ch’io non v’a -- mi,
-        ch’io non v’a -- mi,
-    ma non già ch’io non v’a -- mi
+    Può ben for -- tu -- na far ch'io m'al -- lon -- ta -- ni,
+    può ben for -- tu -- na far ch'io m'al -- lon -- ta -- ni,
+        ch'io m'al -- lon -- ta -- ni
+    Ma non già ch'io non v'a -- mi,
+        ch'io non v'a -- mi,
+    ma non già ch'io non v'a -- mi
     E __ che voi so -- la,
     e che voi so -- la, e bra -- mi,
-        i’ non so -- spi -- ri~e bra -- mi.
-    Vo -- stro con -- vien ch’io vi -- va, e vo -- stro~e vo -- stro~i’ __ mo -- ra
-    vo -- stro con -- vien ch’io vi -- va, e vo -- stro~e vo -- stro~i’ mo -- ra,
-        e vo -- stro, e __ vo -- stro~i’ mo -- ra,
+        i' non so -- spi -- ri~e bra -- mi.
+    Vo -- stro con -- vien ch'io vi -- va, e vo -- stro~e vo -- stro~i' __ mo -- ra
+    vo -- stro con -- vien ch'io vi -- va, e vo -- stro~e vo -- stro~i' mo -- ra,
+        e vo -- stro, e __ vo -- stro~i' mo -- ra,
     E do -- po mor -- te~an -- co -- ra,
         an -- co -- ra
     Ar -- de -- rà di dol -- cis -- si -- mo de -- si -- o
@@ -229,20 +229,20 @@ bassoXIX = \relative c {
 
 bassoLyricsXIX = \lyricmode {
 %    Può ben for -- tu -- na far 
-        ch’io m’al -- lon -- ta -- ni,
-    Può ben for -- tu -- na far ch’io m’al -- lon -- ta -- ni,
-        ch’io m’al -- lon -- ta -- ni,
-    Ma non già ch’io non v’a -- mi,
-        ch’io non v’a -- mi,
-    ma non già ch’io non v’a -- mi
+        ch'io m'al -- lon -- ta -- ni,
+    Può ben for -- tu -- na far ch'io m'al -- lon -- ta -- ni,
+        ch'io m'al -- lon -- ta -- ni,
+    Ma non già ch'io non v'a -- mi,
+        ch'io non v'a -- mi,
+    ma non già ch'io non v'a -- mi
     E __ che voi so -- la,
     \ijLyrics
     e __ che voi so -- la,
     \normalLyrics
-        i’ non so -- spi -- ri~e bra -- mi,
-        i’ non so -- spi -- ri~e bra -- mi.
-        e vo -- stro~e vo -- stro~i’ mo -- ra
-    Vo -- stro con -- vien ch’io vi -- va, e vo -- stro~e vo -- stro~i’ mo -- ra
+        i' non so -- spi -- ri~e bra -- mi,
+        i' non so -- spi -- ri~e bra -- mi.
+        e vo -- stro~e vo -- stro~i' mo -- ra
+    Vo -- stro con -- vien ch'io vi -- va, e vo -- stro~e vo -- stro~i' mo -- ra
     E do -- po mor -- te~an -- co -- ra
     Ar -- de -- rà di dol -- cis -- si -- mo de -- si -- o
     A~un sol vo -- stro so -- spi -- ro il ce -- ner mi -- o,
@@ -291,21 +291,21 @@ quintoXIX = \relative c' {
 }
 
 quintoLyricsXIX = \lyricmode {
-    Può ben for -- tu -- na far ch’io m’al -- lon -- ta -- ni,
+    Può ben for -- tu -- na far ch'io m'al -- lon -- ta -- ni,
     può ben for -- tu -- na far,
-    può ben for -- tu -- na far __ ch’io m’al -- lon -- ta -- ni
+    può ben for -- tu -- na far __ ch'io m'al -- lon -- ta -- ni
     Ma non già,
-    ma non già ch’io non v’a -- mi,
+    ma non già ch'io non v'a -- mi,
     \ijLyrics
-    ma non già ch’io non v’a -- mi
+    ma non già ch'io non v'a -- mi
     \normalLyrics
     E __ che voi so -- la,
-    e che voi so -- la, i’ non so -- spi -- ri~e bra -- mi,
-        i’ non so -- spi -- ri~e bra -- mi.
-        i’ non so -- spi -- ri~e bra -- mi.
-    Vo -- stro con -- vien ch’io vi -- va, e vo -- stro~e vo -- stro~i’ mo -- ra
-    vo -- stro con -- vien ch’io vi -- va, e vo -- stro~e vo -- stro~i’ mo -- ra,
-        e vo -- stro~e vo -- stro~i’ mo -- ra,
+    e che voi so -- la, i' non so -- spi -- ri~e bra -- mi,
+        i' non so -- spi -- ri~e bra -- mi.
+        i' non so -- spi -- ri~e bra -- mi.
+    Vo -- stro con -- vien ch'io vi -- va, e vo -- stro~e vo -- stro~i' mo -- ra
+    vo -- stro con -- vien ch'io vi -- va, e vo -- stro~e vo -- stro~i' mo -- ra,
+        e vo -- stro~e vo -- stro~i' mo -- ra,
     E do -- po mor -- te~an -- co -- ra
     Ar -- de -- rà di dol -- cis -- si -- mo de -- si -- o
     A~un sol vo -- stro so -- spi -- ro il ce -- ner mi -- o,

@@ -2,11 +2,11 @@
 % Uniti con le grazie e con gli Amori
 % E di suoni e di canti 
 % Facean tal armonia
-% Che si fermava il sol, l’erba fioria;
+% Che si fermava il sol, l'erba fioria;
 % 
-% Poi di rose e d’acanti
-% Tessevano ghirlande e d’amaranti
-% E ne i versi dicean cogliend’i fiori:
+% Poi di rose e d'acanti
+% Tessevano ghirlande e d'amaranti
+% E ne i versi dicean cogliend'i fiori:
 % Viva, viva la bella Dori! 
 
 % Changes: 2023-11-05 "ne i" changed -> nei
@@ -51,18 +51,18 @@ cantoLyricsXVIII = \lyricmode {
     U -- ni -- ti con le gra -- zie~e con __ gli~A -- mo -- ri
     E __ di suo -- ni~e di can -- ti 
     Fa -- cean tal ar -- mo -- ni -- a
-    Che si fer -- ma -- va~il sol, l’er -- ba fio -- ri -- a;
+    Che si fer -- ma -- va~il sol, l'er -- ba fio -- ri -- a;
 
-    Poi di ro -- se~e d’a -- can -- ti
+    Poi di ro -- se~e d'a -- can -- ti
     Tes -- se -- va -- no ghir -- lan -- de,
     \ijLyrics
     tes -- se -- va -- no ghir -- lan -- de~e
     \normalLyrics
-        d’a -- ma -- ran -- ti
+        d'a -- ma -- ran -- ti
     \ijLyrics
-        e d’a -- ma -- ran -- ti
+        e d'a -- ma -- ran -- ti
     \normalLyrics
-    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri:
+    E nei ver -- si di -- cean co -- glien -- d'i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri!
@@ -110,13 +110,13 @@ altoLyricsXVIII = \lyricmode {
     e __ di suo -- ni~e di can -- ti 
     Fa -- cean tal ar -- mo -- ni -- a,
         tal ar -- mo -- ni -- a
-    Che si fer -- ma -- va~il sol, l’er -- ba fio -- ri -- a,
-        l’er -- ba fio -- ri -- a;
+    Che si fer -- ma -- va~il sol, l'er -- ba fio -- ri -- a,
+        l'er -- ba fio -- ri -- a;
 
-    Poi di ro -- se~e d’a -- can -- ti
+    Poi di ro -- se~e d'a -- can -- ti
     Tes -- se -- va -- no ghir -- lan -- de,
-    tes -- se -- va -- no ghir -- lan -- de~e d’a -- ma -- ran -- ti
-    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri:
+    tes -- se -- va -- no ghir -- lan -- de~e d'a -- ma -- ran -- ti
+    E nei ver -- si di -- cean co -- glien -- d'i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri!
@@ -164,12 +164,12 @@ tenoreLyricsXVIII = \lyricmode {
     E di suo -- ni~e di can -- ti, 
     e __ di suo -- ni~e di can -- ti 
     Fa -- cean tal ar -- mo -- ni -- a
-    Che si __ fer -- ma -- va~il sol, l’er -- ba fio -- ri -- a;
+    Che si __ fer -- ma -- va~il sol, l'er -- ba fio -- ri -- a;
 
-    Poi di ro -- se~e d’a -- can -- ti
+    Poi di ro -- se~e d'a -- can -- ti
     Tes -- se -- va -- no ghir -- lan -- de,
-    tes -- se -- va -- no ghir -- lan -- de e d’a -- ma -- ran -- ti
-    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri:
+    tes -- se -- va -- no ghir -- lan -- de e d'a -- ma -- ran -- ti
+    E nei ver -- si di -- cean co -- glien -- d'i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri!
@@ -213,9 +213,9 @@ bassoLyricsXVIII = \lyricmode {
     E __ di suo -- ni~e di can -- ti 
     Fa -- cean tal ar -- mo -- ni -- a,
     fa -- cean tal ar -- mo -- ni -- a
-    Che si fer -- ma -- va~il sol, l’er -- ba fio -- ri -- a;
-    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri,
-        co -- glien -- d’i fio -- ri:
+    Che si fer -- ma -- va~il sol, l'er -- ba fio -- ri -- a;
+    E nei ver -- si di -- cean co -- glien -- d'i fio -- ri,
+        co -- glien -- d'i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri!
@@ -258,11 +258,11 @@ quintoLyricsXVIII = \lyricmode {
     U -- ni -- ti con le gra -- zie~e con __ gli~A -- mo -- ri
     E di suo -- ni~e di can -- ti 
     Fa -- cean tal ar -- mo -- ni -- a
-    Che si fer -- ma -- va~il sol, l’er -- ba fio -- ri -- a,
-        l’er -- ba fio -- ri -- a;
+    Che si fer -- ma -- va~il sol, l'er -- ba fio -- ri -- a,
+        l'er -- ba fio -- ri -- a;
 
-    E nei ver -- si di -- cean co -- glien -- d’i fio -- ri,
-        co -- glien -- d’i fio -- ri:
+    E nei ver -- si di -- cean co -- glien -- d'i fio -- ri,
+        co -- glien -- d'i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri!
@@ -312,13 +312,13 @@ sestoLyricsXVIII = \lyricmode {
     \ijLyrics
     fa -- cean tal ar -- mo -- ni -- a
     \normalLyrics
-    Che si fer -- ma -- va~il sol, l’er -- ba fio -- ri -- a;
+    Che si fer -- ma -- va~il sol, l'er -- ba fio -- ri -- a;
 
-    Poi di ro -- se~e d’a -- can -- ti
-    Tes -- se -- va -- no ghir -- lan -- de e d’a -- ma -- ran -- ti
-        e d’a -- ma -- ran -- ti
-    E ne~i ver -- si __ di -- cean co -- glien -- d’i fio -- ri,
-        co -- glien -- d’i fio -- ri:
+    Poi di ro -- se~e d'a -- can -- ti
+    Tes -- se -- va -- no ghir -- lan -- de e d'a -- ma -- ran -- ti
+        e d'a -- ma -- ran -- ti
+    E ne~i ver -- si __ di -- cean co -- glien -- d'i fio -- ri,
+        co -- glien -- d'i fio -- ri:
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va la bel -- la Do -- ri,
     Vi -- va, vi -- va, vi -- va la bel -- la Do -- ri!

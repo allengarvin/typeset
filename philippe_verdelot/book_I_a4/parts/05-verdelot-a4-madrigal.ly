@@ -36,7 +36,7 @@ cantusLyricsV = \lyricmode {
     Den -- tro~al mio peti -- to scor -- ge,
     Si do -- na ben che me -- sta~al no -- stro~a -- mo -- re
     O gra -- to~e dol -- ce do -- no,
-    Ov’ io si lie -- to~in ser -- vi -- tu mi __ go -- do. __
+    Ov' io si lie -- to~in ser -- vi -- tu mi __ go -- do. __
 }
 
 altusVincipit = \relative c' {
@@ -100,8 +100,8 @@ altusLyricsV = \lyricmode {
     Den -- tro~al mio peti -- to scor -- ge,
     Si do -- na ben che me -- sta~al no -- stro~a -- mo -- re
     O  gra -- to~e dol -- ce do -- no,
-    Ov’ io __ si lie -- to in ser -- vi -- tu mi go -- do, 
-    Ov’ io si lie -- to~in ser -- vi -- tu mi go -- do.
+    Ov' io __ si lie -- to in ser -- vi -- tu mi go -- do, 
+    Ov' io si lie -- to~in ser -- vi -- tu mi go -- do.
 }
 
 tenorVincipit = \relative c'' {
@@ -136,9 +136,9 @@ tenorLyricsV = \lyricmode {
     Den -- tro~al mio pet -- to scor -- ge,
     Si do -- na ben che me -- sta~al no -- stro~a -- mo -- re
     O  gra -- to~e dol -- ce do -- no,
-    Ov’ io si lie -- to~in ser -- vi -- tu mi go -- do, 
+    Ov' io si lie -- to~in ser -- vi -- tu mi go -- do, 
     \ijLyrics
-    Ov’ io si lie -- to~in ser -- vi -- tu mi go -- do.
+    Ov' io si lie -- to~in ser -- vi -- tu mi go -- do.
     \normalLyrics
 }
 
@@ -174,9 +174,9 @@ bassusLyricsV = \lyricmode {
     Den -- tro~al mio pet -- to scor -- ge,
     Si do -- na ben che me -- sta~al no -- stro~a -- mo -- re
     O  gra -- to~e dol -- ce do -- no,
-    Ov’ io si lie -- to~in ser -- vi -- tu mi go -- do, 
+    Ov' io si lie -- to~in ser -- vi -- tu mi go -- do, 
     \ijLyrics
-    Ov’ io si lie -- to~in ser -- vi -- tu mi go -- do.
+    Ov' io si lie -- to~in ser -- vi -- tu mi go -- do.
     \normalLyrics
 }
 
@@ -211,8 +211,8 @@ bassusVincipitVoice = <<
 
 %Con lagrime e sospir negando porge
 %Madonna i desiati basci al core
-%E perche tropp’ardore
-%Dentr’al mio petto scorge
+%E perche tropp'ardore
+%Dentr'al mio petto scorge
 %Si dona ben che mesta al nostro amore
 %O gra -- to~e dolce dono,
-%Ov’io si lieto in servitu mi godo. 
+%Ov'io si lieto in servitu mi godo. 

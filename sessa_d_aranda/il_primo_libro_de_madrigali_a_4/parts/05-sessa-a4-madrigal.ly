@@ -1,11 +1,11 @@
 %   78 Oh infelice! oh misero! che voglio
-%      se non morir, se ’l mio bel fior colto hanno?
+%      se non morir, se 'l mio bel fior colto hanno?
 %      O sommo Dio, fammi sentir cordoglio
-%      prima d’ogn’altro, che di questo danno.
+%      prima d'ogn'altro, che di questo danno.
 %      Se questo è ver, con le mie man mi toglio
-%      la vita, e l’alma disperata danno. –
+%      la vita, e l'alma disperata danno. –
 %      Così, piangendo forte e sospirando,
-%      seco dicea l’addolorato Orlando.
+%      seco dicea l'addolorato Orlando.
 
 cantoVincipit = \relative c'' {
     \time 4/4
@@ -39,18 +39,18 @@ cantoV = \relative c'' {
 cantoLyricsV = \lyricmode {
     Oh in -- fe -- li -- ce! oh mi -- se -- ro! che vo -- glio
     Se non mo -- rir, 
-    Se __ non mo -- rir, se’l mio bel fior col -- to~han -- no?
-    Se non mo -- rir, se’l mio bel fior col -- to~han -- no? __
+    Se __ non mo -- rir, se'l mio bel fior col -- to~han -- no?
+    Se non mo -- rir, se'l mio bel fior col -- to~han -- no? __
     O __ som -- mo Dio, fam -- mi sen -- tir
         fam -- mi sen -- tir __ cor -- do -- glio
     Pri -- ma __
-    Pri -- ma d’o -- gn’al -- tro, che di que -- sto dan -- no.
+    Pri -- ma d'o -- gn'al -- tro, che di que -- sto dan -- no.
     Se que -- sto~è ver, 
     Se que -- sto~è ver, con le mie man mi to -- glio
-    La vi -- ta~e l’al -- ma di -- spe -- ra -- ta dan -- no. 
+    La vi -- ta~e l'al -- ma di -- spe -- ra -- ta dan -- no. 
     Co -- sì, pian -- gen -- do for -- te e so -- spi -- ran -- do,
-    Se -- co di -- cea l’ad -- do -- lo -- ra -- to~Or -- lan -- do,
-        l’ad -- do -- lo -- ra -- to~Or -- lan -- do.
+    Se -- co di -- cea l'ad -- do -- lo -- ra -- to~Or -- lan -- do,
+        l'ad -- do -- lo -- ra -- to~Or -- lan -- do.
 }
 
 altoVincipit = \relative c' {
@@ -87,21 +87,21 @@ altoLyricsV = \lyricmode {
     Oh in -- fe -- li -- ce!
     Oh __ in -- fe -- li -- ce! oh mi -- se -- ro! che vo -- glio
     Se non mo -- rir, __
-    Se non mo -- rir, se’l mio bel fior col -- to~han -- no?
-    Se non mo -- rir, se’l mio bel fior col -- to~han -- no?
+    Se non mo -- rir, se'l mio bel fior col -- to~han -- no?
+    Se non mo -- rir, se'l mio bel fior col -- to~han -- no?
     O som -- mo Dio,
     O som -- mo Dio, fam -- mi sen -- tir
         fam -- mi sen -- tir cor -- do -- glio,
         cor -- do -- glio
     Pri -- ma 
-    Pri -- ma d’o -- gn’al -- tro, che di que -- sto dan -- no.
+    Pri -- ma d'o -- gn'al -- tro, che di que -- sto dan -- no.
     Se que -- sto~è ver, __
     Se que -- sto~è ver,
     Se que -- sto~è ver, con le mie man __ mi to -- glio
-    La vi -- ta~e l’al -- ma di -- spe -- ra -- ta dan -- no. 
+    La vi -- ta~e l'al -- ma di -- spe -- ra -- ta dan -- no. 
     Co -- sì, pian -- gen -- do for -- te e so -- spi -- ran -- do,
-    Se -- co di -- cea l’ad -- do -- lo -- ra -- to~Or -- lan -- do,
-        l’ad -- do -- lo -- ra -- to~Or -- lan -- do.
+    Se -- co di -- cea l'ad -- do -- lo -- ra -- to~Or -- lan -- do,
+        l'ad -- do -- lo -- ra -- to~Or -- lan -- do.
 }
 
 tenoreVincipit = \relative c' {
@@ -136,20 +136,20 @@ tenoreV = \relative c' {
 tenoreLyricsV = \lyricmode {
     Oh in -- fe -- li -- ce! oh mi -- se -- ro! che __ vo -- glio
     Se non mo -- rir, 
-    Se non mo -- rir, se’l mio bel fior col -- to~han -- no?
-    Se non mo -- rir, se’l mio bel fior col -- to~han -- no? 
+    Se non mo -- rir, se'l mio bel fior col -- to~han -- no?
+    Se non mo -- rir, se'l mio bel fior col -- to~han -- no? 
     O som -- mo Dio, 
     O som -- mo Dio, fam -- mi sen -- tir cor -- do -- glio,
         fam -- mi sen -- tir cor -- do -- glio
     Pri -- ma 
-    Pri -- ma d’o -- gn’al -- tro, che di que -- sto dan -- no.
+    Pri -- ma d'o -- gn'al -- tro, che di que -- sto dan -- no.
     Se que -- sto~è ver, 
     Se que -- sto~è ver, 
     Se que -- sto~è ver, con le mie man mi to -- glio
-    La vi -- ta~e l’al -- ma di -- spe -- ra -- ta dan -- no. 
+    La vi -- ta~e l'al -- ma di -- spe -- ra -- ta dan -- no. 
     Co -- sì, pian -- gen -- do for -- te e so -- spi -- ran -- do,
-    Se -- co di -- cea l’ad -- do -- lo -- ra -- to~Or -- lan -- do,
-        l’ad -- do -- lo -- ra -- to~Or -- lan -- do.
+    Se -- co di -- cea l'ad -- do -- lo -- ra -- to~Or -- lan -- do,
+        l'ad -- do -- lo -- ra -- to~Or -- lan -- do.
 }
 
 bassoVincipit = \relative c' {
@@ -182,18 +182,18 @@ bassoV = \relative c' {
 bassoLyricsV = \lyricmode {
     Oh in -- fe -- li -- ce! oh mi -- se -- ro! che vo -- glio
     Se non mo -- rir, 
-    Se non mo -- rir, se’l mio bel fior col -- to~han -- no?
-    Se non mo -- rir, se’l mio bel fior col -- to~han -- no? 
+    Se non mo -- rir, se'l mio bel fior col -- to~han -- no?
+    Se non mo -- rir, se'l mio bel fior col -- to~han -- no? 
     O __ som -- mo Dio, 
     O som -- mo Dio, fam -- mi sen -- tir cor -- do -- glio,
         fam -- mi sen -- tir cor -- do -- glio
     Pri -- ma 
-    Pri -- ma d’o -- gn’al -- tro, che di que -- sto dan -- no.
+    Pri -- ma d'o -- gn'al -- tro, che di que -- sto dan -- no.
     Se que -- sto~è ver, 
     Se que -- sto~è ver, con le mie man mi to -- glio
-    La vi -- ta~e l’al -- ma di -- spe -- ra -- ta dan -- no. 
+    La vi -- ta~e l'al -- ma di -- spe -- ra -- ta dan -- no. 
     Co -- sì, pian -- gen -- do for -- te~e so -- spi -- ran -- do,
-        l’ad -- do -- lo -- ra -- to~Or -- lan -- do.
+        l'ad -- do -- lo -- ra -- to~Or -- lan -- do.
 }
 
 cantoVincipitVoice = <<

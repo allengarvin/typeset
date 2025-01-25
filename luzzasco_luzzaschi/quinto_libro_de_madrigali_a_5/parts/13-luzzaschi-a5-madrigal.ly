@@ -1,11 +1,11 @@
-% Credete a me che’l provo e l’ho provato:
+% Credete a me che'l provo e l'ho provato:
 % non è contento un core
-% se no’l contenta Amore.
+% se no'l contenta Amore.
 % Amore, ogni mio bene
 % dal dolce foco tuo, da te mi viene.
-% Ond’io ne vo cantando a tutte l’ore:
-% Un cor ch’ama è beato:
-% beatissimo poi s’amando è amato.
+% Ond'io ne vo cantando a tutte l'ore:
+% Un cor ch'ama è beato:
+% beatissimo poi s'amando è amato.
 % 
 % Believe me that I am sorry and have suffered:
 % a heart cannot be happy
@@ -49,20 +49,20 @@ cantoXIII = \relative c'' {
 }
 
 cantoLyricsXIII = \lyricmode {
-    Cre -- de -- te~a me che’l pro -- vo~e l’ho pro -- va -- to:
+    Cre -- de -- te~a me che'l pro -- vo~e l'ho pro -- va -- to:
 % Non è con -- ten -- to un co -- re
-    Se no’l con -- ten -- ta~A -- mo -- re.
+    Se no'l con -- ten -- ta~A -- mo -- re.
     A -- mo -- re~o -- gni mio be -- ne
     Dal dol -- ce fo -- co tuo, da te mi vie -- ne,
     dal dol -- ce fo -- co tuo, da te mi vie -- ne.
-    On -- d’io ne vo can -- tan -- do~a tut -- te l’o -- re:
-    Un cor ch’a -- ma~è be -- a -- to,
+    On -- d'io ne vo can -- tan -- do~a tut -- te l'o -- re:
+    Un cor ch'a -- ma~è be -- a -- to,
     \ijLyrics
-    un cor ch’a -- ma~è be -- a -- to:
+    un cor ch'a -- ma~è be -- a -- to:
     \normalLyrics
     Be -- a -- tis -- si -- mo poi,
-    be -- a -- tis -- si -- mo poi s’a -- man -- do~è~a -- ma -- to,
-        s’a -- man -- do~è~a -- ma -- to.
+    be -- a -- tis -- si -- mo poi s'a -- man -- do~è~a -- ma -- to,
+        s'a -- man -- do~è~a -- ma -- to.
 }
 
 altoXIIIincipit = \relative c' {
@@ -102,24 +102,24 @@ altoLyricsXIII = \lyricmode {
     \ijLyrics
     cre -- de -- te~a me
     \normalLyrics
-        che’l pro -- vo~e l’ho pro -- va -- to:
+        che'l pro -- vo~e l'ho pro -- va -- to:
     Non è con -- ten -- to~un co -- re
-    Se no’l con -- ten -- ta~A -- mo -- re,
-    se no’l con -- ten -- ta~A -- mo -- re.
+    Se no'l con -- ten -- ta~A -- mo -- re,
+    se no'l con -- ten -- ta~A -- mo -- re.
         
     A -- mo -- re~o -- gni mio be -- ne,
     \ijLyrics
     a -- mo -- re~o -- gni mio be -- ne
     \normalLyrics
     Dal dol -- ce fo -- co tuo, da te mi vie -- ne.
-    On -- d’io ne vo can -- tan -- do~a tut -- te l’o -- re,
-        a tut -- te l’o -- re:
-    Un cor ch’a -- ma~è be -- a -- to:
-    Be -- a -- tis -- si -- mo poi s’a -- man -- do~è~a -- ma -- to,
+    On -- d'io ne vo can -- tan -- do~a tut -- te l'o -- re,
+        a tut -- te l'o -- re:
+    Un cor ch'a -- ma~è be -- a -- to:
+    Be -- a -- tis -- si -- mo poi s'a -- man -- do~è~a -- ma -- to,
     \ijLyrics
-        s’a -- man -- do~è~a -- ma -- to,
+        s'a -- man -- do~è~a -- ma -- to,
     \normalLyrics
-        s’a -- man -- do~è~a -- ma -- to.
+        s'a -- man -- do~è~a -- ma -- to.
 }
 
 tenoreXIIIincipit = \relative c' {
@@ -159,24 +159,24 @@ tenoreLyricsXIII = \lyricmode {
     \ijLyrics
     cre -- de -- te~a me
     \normalLyrics
-        che’l pro -- vo~e l’ho pro -- va -- to:
+        che'l pro -- vo~e l'ho pro -- va -- to:
     Non è con -- ten -- to~un co -- re,
         con -- ten -- to~un co -- re
-    Se no’l con -- ten -- ta~A -- mo -- re.
+    Se no'l con -- ten -- ta~A -- mo -- re.
     A -- mo -- re~o -- gni mio be -- ne,
     \ijLyrics
     a -- mo -- re~o -- gni mio be -- ne
     \normalLyrics
     Dal dol -- ce fo -- co tuo, da te mi vie -- ne.
-    On -- d’io ne vo can -- tan -- do~a tut -- te l’o -- re:
-    Un cor ch’a -- ma~è be -- a -- to,
-        ch’a -- ma~è be -- a -- to:
+    On -- d'io ne vo can -- tan -- do~a tut -- te l'o -- re:
+    Un cor ch'a -- ma~è be -- a -- to,
+        ch'a -- ma~è be -- a -- to:
     Be -- a -- tis -- si -- mo poi,
     \ijLyrics
     be -- a -- tis -- si -- mo poi
     \normalLyrics
-        s’a -- man -- do~è~a -- ma -- to,
-        s’a -- man -- do~è~a -- ma -- to.
+        s'a -- man -- do~è~a -- ma -- to,
+        s'a -- man -- do~è~a -- ma -- to.
 }
 
 bassoXIIIincipit = \relative c {
@@ -213,16 +213,16 @@ bassoLyricsXIII = \lyricmode {
     \ijLyrics
     cre -- de -- te~a me
     \normalLyrics
-        che’l pro -- vo~e l’ho pro -- va -- to:
+        che'l pro -- vo~e l'ho pro -- va -- to:
     Non è con -- ten -- to~un co -- re
-    Se no’l con -- ten -- ta~A -- mo -- re.
+    Se no'l con -- ten -- ta~A -- mo -- re.
     A -- mo -- re~o -- gni mio be -- ne
     Dal dol -- ce fo -- co tuo, da te mi vie -- ne.
-    On -- d’io ne vo can -- tan -- do~a tut -- te l’o -- re:
-    Un cor ch’a -- ma~è be -- a -- to,
-    un cor ch’a -- ma~è be -- a -- to:
+    On -- d'io ne vo can -- tan -- do~a tut -- te l'o -- re:
+    Un cor ch'a -- ma~è be -- a -- to,
+    un cor ch'a -- ma~è be -- a -- to:
     Be -- a -- tis -- si -- mo poi,
-    be -- a -- tis -- si -- mo poi s’a -- man -- do~è~a -- ma -- to.
+    be -- a -- tis -- si -- mo poi s'a -- man -- do~è~a -- ma -- to.
 }
 
 quintoXIIIincipit = \relative c' {
@@ -264,26 +264,26 @@ quintoLyricsXIII = \lyricmode {
     \ijLyrics
     cre -- de -- te~a me
     \normalLyrics
-        che’l pro -- vo~e l’ho pro -- va -- to,
-        che’l pro -- vo~e l’ho pro -- va -- to:
+        che'l pro -- vo~e l'ho pro -- va -- to,
+        che'l pro -- vo~e l'ho pro -- va -- to:
     Non è con -- ten -- to~un co -- re
-    Se no’l con -- ten -- ta~A -- mo -- re.
+    Se no'l con -- ten -- ta~A -- mo -- re.
     A -- mo -- re~o -- gni mio be -- ne,
     \ijLyrics
     a -- mo -- re~o -- gni mio be -- ne
     \normalLyrics
     Dal dol -- ce fo -- co tuo, da te mi vie -- ne,
     dal dol -- ce fo -- co tuo, __ da te mi vie -- ne.
-    On -- d’io ne vo can -- tan -- do~a tut -- te l’o -- re,
-        a tut -- te l’o -- re:
-    Un cor ch’a -- ma~è be -- a -- to,
-    un cor ch’a -- ma~è be -- a -- to:
+    On -- d'io ne vo can -- tan -- do~a tut -- te l'o -- re,
+        a tut -- te l'o -- re:
+    Un cor ch'a -- ma~è be -- a -- to,
+    un cor ch'a -- ma~è be -- a -- to:
     Be -- a -- tis -- si -- mo poi,
     \ijLyrics
     be -- a -- tis -- si -- mo poi
     \normalLyrics
-        s’a -- man -- do~è~a -- ma -- to,
-        s’a -- man -- do~è~a -- ma -- to.
+        s'a -- man -- do~è~a -- ma -- to,
+        s'a -- man -- do~è~a -- ma -- to.
 }
 
 cantoXIIIincipitVoice = <<

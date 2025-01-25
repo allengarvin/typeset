@@ -1,18 +1,18 @@
-% Cantai mentre ch’i’ arsi del mio foco
-% La viva fiamma, ov’io morendo vissi,
-% Ben che quant’io cantai e quant’io scrissi
-% Di madonna e d’amor fu nulla o poco.
+% Cantai mentre ch'i' arsi del mio foco
+% La viva fiamma, ov'io morendo vissi,
+% Ben che quant'io cantai e quant'io scrissi
+% Di madonna e d'amor fu nulla o poco.
 
-% Ma se i begli occhi onde’il mio cor s’accese
+% Ma se i begli occhi onde'il mio cor s'accese
 % Del lor chiaro divino almo splendore
-% Non m’avessero à torto fatto indegno,
-% Col canto avrei l’interno e grave ardore
+% Non m'avessero à torto fatto indegno,
+% Col canto avrei l'interno e grave ardore
 % A gli orecchi di tal fatto palese
-% Che pietà fora ov’alberga ira e sdegno.
+% Che pietà fora ov'alberga ira e sdegno.
 % A gli amorosi strali fermo segno
 % Sarei, pieno di dolce aspro martiro
-% Ov’ora in libertà piango e sospiro.
-% Ahi, pace in cor d’amanti non ha loco!
+% Ov'ora in libertà piango e sospiro.
+% Ahi, pace in cor d'amanti non ha loco!
 % 
 % Giovanni Brevio, Rime e prose volgari (Venice, 1545)
 % Here: https://books.google.com/books?id=ukXSBsl8Jq4C&pg=PT29&dq=%22nulla+o+poco%22+%22brevio%22&hl=en&sa=X&ved=0ahUKEwizk8GB98_cAhWq5YMKHSpPDqQQ6AEIMzAC#v=onepage&q=%22nulla%20o%20poco%22%20&f=false
@@ -81,26 +81,26 @@ cantusI = \relative c'' {
 }
 
 cantusLyricsI = \lyricmode {
-    Can -- tai men -- tre ch’i’ ar -- si del mio fo -- co
-    La vi -- va fiam -- ma, o -- v’io mo -- ren -- do vis -- si,
-    Ben che quan -- t’io can -- tai e quan -- t’io scris -- si
-    Di ma -- don -- na~e d’a -- mor fu nul -- la~o po -- co,
+    Can -- tai men -- tre ch'i' ar -- si del mio fo -- co
+    La vi -- va fiam -- ma, o -- v'io mo -- ren -- do vis -- si,
+    Ben che quan -- t'io can -- tai e quan -- t'io scris -- si
+    Di ma -- don -- na~e d'a -- mor fu nul -- la~o po -- co,
         fu nul -- la~o po -- co.
 
-    % Ma se~i be -- gli~oc -- chi~on -- de’il mio cor s’ac -- ce -- se
+    % Ma se~i be -- gli~oc -- chi~on -- de'il mio cor s'ac -- ce -- se
     Del lor chia -- ro di -- vi -- no~al -- mo splen -- do -- re
-    Non m’a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
+    Non m'a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
 
-    Col can -- to a -- vrei l’in -- ter -- no~e gra -- ve~ar -- do -- re
+    Col can -- to a -- vrei l'in -- ter -- no~e gra -- ve~ar -- do -- re
     A gli~o -- rec -- chi di tal fat -- to pa -- le -- se
-    Che pie -- tà __ fo -- ra o -- v’al -- ber -- ga~i -- ra~e sde -- gno,
-        o -- v’al -- ber -- ga~i -- ra~e sde -- gno.
+    Che pie -- tà __ fo -- ra o -- v'al -- ber -- ga~i -- ra~e sde -- gno,
+        o -- v'al -- ber -- ga~i -- ra~e sde -- gno.
 
     A gli~a -- mo -- ro -- si stra -- li fer -- mo se -- gno
     Sa -- rei, pie -- no di dol -- ce~a -- spro mar -- ti -- ro
-    O -- v’o -- ra~in li -- ber -- tà __ pian -- go~e so -- spi -- ro.
-    Ahi, pa -- ce~in cor d’a -- man -- ti non ha lo -- co,
-    ahi, pa -- ce~in cor d’a -- man -- ti non ha lo -- co,
+    O -- v'o -- ra~in li -- ber -- tà __ pian -- go~e so -- spi -- ro.
+    Ahi, pa -- ce~in cor d'a -- man -- ti non ha lo -- co,
+    ahi, pa -- ce~in cor d'a -- man -- ti non ha lo -- co,
         non ha lo -- co.
 }
 
@@ -147,24 +147,24 @@ altusI = \relative c' {
 }
 
 altusLyricsI = \lyricmode {
-    Can -- tai men -- tre ch’i’ ar -- si,
+    Can -- tai men -- tre ch'i' ar -- si,
     \ijLyrics
-    can -- tai men -- tre ch’i’ ar -- si 
+    can -- tai men -- tre ch'i' ar -- si 
     \normalLyrics
         del mio fo -- co
-    La vi -- va fiam -- ma, o -- v’io mo -- ren -- do vis -- si, __
-    Ben che quan -- t’io can -- tai e quan -- t’io scris -- si
-    Di __ ma -- don -- na~e d’a -- mor fu nul -- la~o po -- co,
+    La vi -- va fiam -- ma, o -- v'io mo -- ren -- do vis -- si, __
+    Ben che quan -- t'io can -- tai e quan -- t'io scris -- si
+    Di __ ma -- don -- na~e d'a -- mor fu nul -- la~o po -- co,
         fu nul -- la~o po -- co.
 
-    Ma se~i be -- gli~oc -- chi~on -- de’il mio cor s’ac -- ce -- se
+    Ma se~i be -- gli~oc -- chi~on -- de'il mio cor s'ac -- ce -- se
     Del lor chia -- ro di -- vi -- no~al -- mo splen -- do -- re
-    Non m’a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
+    Non m'a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
 
     Col can -- to,
-    col can -- to a -- vrei l’in -- ter -- no~e gra -- ve~ar -- do -- re
+    col can -- to a -- vrei l'in -- ter -- no~e gra -- ve~ar -- do -- re
     A gli~o -- rec -- chi di tal fat -- to pa -- le -- se
-    Che pie -- tà fo -- ra o -- v’al -- ber -- ga~i -- ra~e sde -- gno.
+    Che pie -- tà fo -- ra o -- v'al -- ber -- ga~i -- ra~e sde -- gno.
 
     A gli~a -- mo -- ro -- si stra -- li fer -- mo se -- gno
     Sa -- rei, 
@@ -172,10 +172,10 @@ altusLyricsI = \lyricmode {
     sa -- rei, 
         pie -- no di dol -- ce~a -- spro mar -- ti -- ro,
         pie -- no di dol -- ce~a -- spro mar -- ti -- ro
-    O -- v’o -- ra~in li -- ber -- tà pian -- go~e so -- spi -- ro.
-    Ahi, pa -- ce~in cor d’a -- man -- ti non ha lo -- co,
-    ahi, ahi, pa -- ce~in cor d’a -- man -- ti non ha lo -- co,
-        pa -- ce~in cor d’a -- man -- ti non ha lo -- co.
+    O -- v'o -- ra~in li -- ber -- tà pian -- go~e so -- spi -- ro.
+    Ahi, pa -- ce~in cor d'a -- man -- ti non ha lo -- co,
+    ahi, ahi, pa -- ce~in cor d'a -- man -- ti non ha lo -- co,
+        pa -- ce~in cor d'a -- man -- ti non ha lo -- co.
 }
 
 tenorIincipit = \relative c' {
@@ -222,32 +222,32 @@ tenorI = \relative c' {
 }
 
 tenorLyricsI = \lyricmode {
-    Can -- tai men -- tre ch’i’ ar -- si del __ mio fo -- co
+    Can -- tai men -- tre ch'i' ar -- si del __ mio fo -- co
     La vi -- va fiam -- ma, 
         del mio fo -- co
-    la vi -- va fiam -- ma, o -- v’io mo -- ren -- do vis -- si,
-        o -- v’io mo -- ren -- do vis -- si,
-    Ben che __ quan -- t’io can -- tai e quan -- t’io scris -- si
-    Di ma -- don -- na~e d’a -- mor fu nul -- la~o po -- co,
+    la vi -- va fiam -- ma, o -- v'io mo -- ren -- do vis -- si,
+        o -- v'io mo -- ren -- do vis -- si,
+    Ben che __ quan -- t'io can -- tai e quan -- t'io scris -- si
+    Di ma -- don -- na~e d'a -- mor fu nul -- la~o po -- co,
         fu nul -- la~o po -- co.
 
-    Ma se~i be -- gli~oc -- chi~on -- de’il mio cor s’ac -- ce -- se
+    Ma se~i be -- gli~oc -- chi~on -- de'il mio cor s'ac -- ce -- se
     Del lor chia -- ro di -- vi -- no~al -- mo splen -- do -- re
-    Non m’a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
+    Non m'a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
 
     Col can -- to,
-    col can -- to a -- vrei l’in -- ter -- no~e gra -- ve~ar -- do -- re
+    col can -- to a -- vrei l'in -- ter -- no~e gra -- ve~ar -- do -- re
     A gli~o -- rec -- chi di tal fat -- to pa -- le -- se
-    Che pie -- tà fo -- ra o -- v’al -- ber -- ga~i -- ra~e sde -- gno.
+    Che pie -- tà fo -- ra o -- v'al -- ber -- ga~i -- ra~e sde -- gno.
 
     A gli~a -- mo -- ro -- si stra -- li,
     a gli~a -- mo -- ro -- si stra -- li fer -- mo se -- gno
     Sa -- rei, pie -- no di dol -- ce~a -- spro mar -- ti -- ro
-    O -- v’o -- ra~in li -- ber -- tà __ pian -- go~e __ so -- spi -- ro.
+    O -- v'o -- ra~in li -- ber -- tà __ pian -- go~e __ so -- spi -- ro.
         pian -- go~e so -- spi -- ro.
-    Ahi, pa -- ce~in cor d’a -- man -- ti non ha lo -- co,
-    ahi, pa -- ce~in cor d’a -- man -- ti non ha lo -- co,
-        pa -- ce~in cor d’a -- man -- ti non ha lo -- co.
+    Ahi, pa -- ce~in cor d'a -- man -- ti non ha lo -- co,
+    ahi, pa -- ce~in cor d'a -- man -- ti non ha lo -- co,
+        pa -- ce~in cor d'a -- man -- ti non ha lo -- co.
 }
 
 bassusIincipit = \relative c {
@@ -290,28 +290,28 @@ bassusI = \relative c {
 }
 
 bassusLyricsI = \lyricmode {
-    Can -- tai men -- tre ch’i’ ar -- si del mio fo -- co
-    La vi -- va fiam -- ma, o -- v’io mo -- ren -- do vis -- si,
-    Ben che quan -- t’io can -- tai e quan -- t’io scris -- si
-    Di ma -- don -- na~e d’a -- mor fu nul -- la~o po -- co,
-    di ma -- don -- na~e d’a -- mor fu nul -- la~o po -- co.
+    Can -- tai men -- tre ch'i' ar -- si del mio fo -- co
+    La vi -- va fiam -- ma, o -- v'io mo -- ren -- do vis -- si,
+    Ben che quan -- t'io can -- tai e quan -- t'io scris -- si
+    Di ma -- don -- na~e d'a -- mor fu nul -- la~o po -- co,
+    di ma -- don -- na~e d'a -- mor fu nul -- la~o po -- co.
 
-    Ma se~i be -- gli~oc -- chi~on -- de’il mio cor s’ac -- ce -- se
+    Ma se~i be -- gli~oc -- chi~on -- de'il mio cor s'ac -- ce -- se
 %    Del lor chia -- ro di -- vi -- no~al -- mo splen -- do -- re
-%    Non m’a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
+%    Non m'a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
 %
-    Col can -- to a -- vrei l’in -- ter -- no~e gra -- ve~ar -- do -- re
+    Col can -- to a -- vrei l'in -- ter -- no~e gra -- ve~ar -- do -- re
     A gli~o -- rec -- chi di tal fat -- to pa -- le -- se
-    Che pie -- tà fo -- ra o -- v’al -- ber -- ga~i -- ra~e sde -- gno,
-        o -- v’al -- ber -- ga~i -- ra~e sde -- gno.
+    Che pie -- tà fo -- ra o -- v'al -- ber -- ga~i -- ra~e sde -- gno,
+        o -- v'al -- ber -- ga~i -- ra~e sde -- gno.
 
     A gli~a -- mo -- ro -- si stra -- li fer -- mo se -- gno, Sa -- rei,
     a gli~a -- mo -- ro -- si stra -- li fer -- mo se -- gno
     Sa -- rei, pie -- no di dol -- ce~a -- spro mar -- ti -- ro
-    O -- v’o -- ra~in li -- ber -- tà pian -- go~e so -- spi -- ro.
-    Ahi, __ pa -- ce~in cor d’a -- man -- ti non ha lo -- co,
-    ahi, __ pa -- ce~in cor d’a -- man -- ti non ha lo -- co,
-        pa -- ce~in cor d’a -- man -- ti non ha lo -- co.
+    O -- v'o -- ra~in li -- ber -- tà pian -- go~e so -- spi -- ro.
+    Ahi, __ pa -- ce~in cor d'a -- man -- ti non ha lo -- co,
+    ahi, __ pa -- ce~in cor d'a -- man -- ti non ha lo -- co,
+        pa -- ce~in cor d'a -- man -- ti non ha lo -- co.
 }
 
 quintusIincipit = \relative c' {
@@ -355,22 +355,22 @@ quintusI = \relative c' {
 }
 
 quintusLyricsI = \lyricmode {
-    Can -- tai men -- tre ch’i’ ar -- si del mio fo -- co
+    Can -- tai men -- tre ch'i' ar -- si del mio fo -- co
     La vi -- va fiam -- ma, 
         del mio fo -- co __
-    la vi -- va fiam -- ma, o -- v’io mo -- ren -- do vis -- si,
-    Ben che quan -- t’io can -- tai __ e quan -- t’io scris -- si
-        e quan -- t’io scris -- si
-    Di ma -- don -- na~e d’a -- mor fu nul -- la~o po -- co.
+    la vi -- va fiam -- ma, o -- v'io mo -- ren -- do vis -- si,
+    Ben che quan -- t'io can -- tai __ e quan -- t'io scris -- si
+        e quan -- t'io scris -- si
+    Di ma -- don -- na~e d'a -- mor fu nul -- la~o po -- co.
 
-    Ma se~i be -- gli~oc -- chi~on -- de’il mio cor s’ac -- ce -- se
+    Ma se~i be -- gli~oc -- chi~on -- de'il mio cor s'ac -- ce -- se
     Del lor chia -- ro di -- vi -- no~al -- mo splen -- do -- re
-    Non m’a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
+    Non m'a -- ves -- se -- ro~a tor -- to fat -- to~in -- de -- gno,
 
-    Col can -- to a -- vrei l’in -- ter -- no~e gra -- ve~ar -- do -- re,
-        a -- vrei __ l’in -- ter -- no~e gra -- ve~ar -- do -- re
+    Col can -- to a -- vrei l'in -- ter -- no~e gra -- ve~ar -- do -- re,
+        a -- vrei __ l'in -- ter -- no~e gra -- ve~ar -- do -- re
     A gli~o -- rec -- chi di tal fat -- to pa -- le -- se
-    Che pie -- tà fo -- ra o -- v’al -- ber -- ga~i -- ra~e sde -- gno. __
+    Che pie -- tà fo -- ra o -- v'al -- ber -- ga~i -- ra~e sde -- gno. __
 
     A gli~a -- mo -- ro -- si stra -- li fer -- mo se -- gno
     Sa -- rei, 
@@ -378,10 +378,10 @@ quintusLyricsI = \lyricmode {
     sa -- rei, __
         pie -- no di dol -- ce~a -- spro mar -- ti -- ro, __
         pie -- no di __ dol -- ce~a -- spro mar -- ti -- ro
-    O -- v’o -- ra~in li -- ber -- tà pian -- go~e so -- spi -- ro.
-    Ahi, pa -- ce~in cor d’a -- man -- ti non ha lo -- co,
-    ahi, pa -- ce~in cor __ d’a -- man -- ti non ha lo -- co,
-        pa -- ce~in cor d’a -- man -- ti non ha lo -- co.
+    O -- v'o -- ra~in li -- ber -- tà pian -- go~e so -- spi -- ro.
+    Ahi, pa -- ce~in cor d'a -- man -- ti non ha lo -- co,
+    ahi, pa -- ce~in cor __ d'a -- man -- ti non ha lo -- co,
+        pa -- ce~in cor d'a -- man -- ti non ha lo -- co.
 }
 
 cantusIincipitVoice = <<

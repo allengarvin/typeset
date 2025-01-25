@@ -3,15 +3,15 @@
 % o partire o morire,
 % lasso dirò ben io,
 % che la morte è la partita,
-% poi che’n lasciando te
+% poi che'n lasciando te
 % lascio la vita.
 % 
-% Ecco l’hora, ecco ch’io
+% Ecco l'hora, ecco ch'io
 % A pen il posso dire
 % Son costretto a partire,
 % dammi Lidia, cor mio
-% L’ultimo bacio omai
-% L’ultimo adio
+% L'ultimo bacio omai
+% L'ultimo adio
 % Così dico in partendo
 % Ella tace piangendo
 % Ed io piango
@@ -23,10 +23,10 @@
 % Ma se nel cor scolpita
 % se' tu dolce mia vita
 % come senza il cor mio
-% viver dunque poss’io?
+% viver dunque poss'io?
 % O Dio, che tu potessi
-% Meco venirne, o ch’io teco mi stessi:
-% che se’l mio cor tu sei,
+% Meco venirne, o ch'io teco mi stessi:
+% che se'l mio cor tu sei,
 % meco il mio core, e te mio cor avrei.
 
 
@@ -78,11 +78,11 @@ cantoLyricsXI = \lyricmode {
     \ijLyrics
     Che mor -- te~è la par -- ti -- ta,
     \normalLyrics
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     la -- scio la vi -- ta,
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     \ijLyrics
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     \normalLyrics
     la -- scio la vi -- ta.
 }
@@ -141,9 +141,9 @@ altoLyricsXI = \lyricmode {
     \ijLyrics
     Che mor -- te~è la par -- ti -- ta,
     \normalLyrics
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     la -- scio la vi -- ta,
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     la -- scio la vi -- ta,
     la -- scio la vi -- ta.
 }
@@ -196,11 +196,11 @@ tenoreLyricsXI = \lyricmode {
     \ijLyrics
     Che mor -- te~è la par -- ti -- ta,
     \normalLyrics
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     la -- scio la vi -- ta,
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     la -- scio la vi -- ta,
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     la -- scio la vi -- ta.
 }
 
@@ -246,9 +246,9 @@ bassoLyricsXI = \lyricmode {
     \ijLyrics
     Che mor -- te~è la par -- ti -- ta,
     \normalLyrics
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     \ijLyrics
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     \normalLyrics
     la -- scio la vi -- ta,
     \ijLyrics
@@ -307,9 +307,9 @@ quintoLyricsXI = \lyricmode {
         di -- rò ben i -- o,
     Che mor -- te~è la par -- ti -- ta,
     Che mor -- te~è la par -- ti -- ta,
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     la -- scio la vi -- ta,
-    Poi che’n la -- scian -- do te 
+    Poi che'n la -- scian -- do te 
     la -- scio la vi -- ta,
     \ijLyrics
     la -- scio la vi -- ta.

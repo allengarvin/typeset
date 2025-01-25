@@ -1,8 +1,8 @@
 %   Che dolce più, che più giocondo stato
-%   saria di quel d’un amoroso core?
+%   saria di quel d'un amoroso core?
 %   che viver più felice e più beato,
-%   che ritrovarsi in servitù d’Amore?
-%   se non fosse l’uom sempre stimulato
+%   che ritrovarsi in servitù d'Amore?
+%   se non fosse l'uom sempre stimulato
 %   da quel sospetto rio, da quel timore,
 %   da quel martir, da quella frenesia,
 %   da quella rabbia detta gelosia.
@@ -49,10 +49,10 @@ cantoXL = \relative c'' {
 
 cantoLyricsXL = \lyricmode {
     Che dol -- ce più, che più gio -- con -- do sta -- to __
-    Sa -- ria di quel d’un a -- mo -- ro -- so co -- re?
+    Sa -- ria di quel d'un a -- mo -- ro -- so co -- re?
     Che vi -- ver più fe -- li -- c'e più __ be -- a -- to,
-    Che ri -- tro -- var -- s'in ser -- vi -- tù d’A -- mo -- re? __
-    Se non fos -- se l’uom sem -- pre sti -- mu -- la -- to
+    Che ri -- tro -- var -- s'in ser -- vi -- tù d'A -- mo -- re? __
+    Se non fos -- se l'uom sem -- pre sti -- mu -- la -- to
     Da quel so -- spet -- to rio, da quel __ ti -- mo -- re,
     Da quel mar -- tir, da quel -- la fre -- ne -- si -- a,
     Da quel -- la rab -- bia det -- ta ge -- lo -- si -- a,
@@ -99,13 +99,13 @@ tenoreXL = \relative c' {
 
 tenoreLyricsXL = \lyricmode {
     Che dol -- ce più, che più gio -- con -- do sta -- to
-    Sa -- ria di quel d’un a -- mo -- ro -- so co -- re,
-        d’un a -- mo -- ro -- so co -- re?
+    Sa -- ria di quel d'un a -- mo -- ro -- so co -- re,
+        d'un a -- mo -- ro -- so co -- re?
     Che vi -- ver più fe -- li -- c'e più __ be -- a -- to,
-    Che ri -- tro -- var -- s'in ser -- vi -- tù d’A -- mo -- re?
-    Se non fos -- se l’uom,
+    Che ri -- tro -- var -- s'in ser -- vi -- tù d'A -- mo -- re?
+    Se non fos -- se l'uom,
     \ijLyrics
-    se __ non fos -- se l’uom
+    se __ non fos -- se l'uom
     \normalLyrics
         sem -- pre sti -- mu -- la -- to
     Da quel so -- spet -- to rio, da quel ti -- mo -- re,

@@ -1,6 +1,6 @@
 %Oimè il cor, oimè la testa,
 %Chi non ama non intende
-%E chi falla e non s’amende
+%E chi falla e non s'amende
 %Dopo il fallo il pentir resta.
 %Oimè il cor...
 %
@@ -11,14 +11,14 @@
 %Oimè el focho aspro e vivace
 %Mi consuma el tristo core,
 %Oimè dio che ‘l fatto errore
-%L’alma afflitta mi molesta.
+%L'alma afflitta mi molesta.
 %
-%Oimè ché ben m’acorgea
+%Oimè ché ben m'acorgea
 %Da un cor falso esser tradito,
-%Oimè allhor ch’io non sapea
+%Oimè allhor ch'io non sapea
 %Al mio error pigliar partito,
 %Oimè el cieco mio appetite
-%M’ha condutto a questa sorte,
+%M'ha condutto a questa sorte,
 %Oimè grido e ‘l mal mio forte
 %Ognhor cresce e più me infesta.
 %Doi dolci occhi un parlar doppio
@@ -26,7 +26,7 @@
 %Fan che di dolor mi scoppio
 %
 %Per la persa libertate.
-%Se per questa l’alma pate
+%Se per questa l'alma pate
 %Ne fu causa el desir cieco
 %El qual fa che sempre meco
 %Sta assai guerra e poca festa.

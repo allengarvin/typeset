@@ -4,7 +4,7 @@
 %      di limpidezza vincono i cristalli.
 %      Una dolce aura che ti par che vaghi
 %      a un modo sempre e dal suo stil non falli,
-%      facea sì l’aria tremolar d’intorno,
+%      facea sì l'aria tremolar d'intorno,
 %      che non potea noiar calor del giorno.
 
 cantoXVIIIincipit = \relative c'' {

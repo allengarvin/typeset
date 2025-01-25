@@ -1,11 +1,11 @@
-% I pensier’ son saette, e ’l viso un sole,
-% e ’l desir foco; e ’nseme con quest’arme
-% mi punge Amor, m’abbaglia et mi distrugge;
+% I pensier' son saette, e 'l viso un sole,
+% e 'l desir foco; e 'nseme con quest'arme
+% mi punge Amor, m'abbaglia et mi distrugge;
 % 
-% ORIG: et l’angelico canto et le parole,
-% con l’angelico canto et le parole,
-% col dolce spirto ond’io non posso aitarme,
-% son l’aura inanzi a cui mia vita fugge.
+% ORIG: et l'angelico canto et le parole,
+% con l'angelico canto et le parole,
+% col dolce spirto ond'io non posso aitarme,
+% son l'aura inanzi a cui mia vita fugge.
 cantusIIIincipit = \relative c' {
     \time 2/2
     \clef "petrucci-c1"
@@ -38,22 +38,22 @@ cantusIII = \relative c' {
 }
 
 cantusLyricsIII = \lyricmode {
-    I pen -- sier’ son sa -- et -- te, e’l vi -- so~un so -- le,
-    E’l de -- sir fo -- co; 
+    I pen -- sier' son sa -- et -- te, e'l vi -- so~un so -- le,
+    E'l de -- sir fo -- co; 
     \ijLyrics
-    E’l de -- sir fo -- co; 
+    E'l de -- sir fo -- co; 
     \normalLyrics
-        e’n -- sie -- me con que -- st’ar -- me
-    Mi pun -- ge~A -- mor, __ m’ab -- ba -- glia~et mi di -- strug -- ge;
+        e'n -- sie -- me con que -- st'ar -- me
+    Mi pun -- ge~A -- mor, __ m'ab -- ba -- glia~et mi di -- strug -- ge;
 
-    Con l’an -- ge -- li -- co can -- to et le pa -- ro -- le,
-    Col dol -- ce spir -- to on -- d’io non pos -- so~ai -- tar -- me,
+    Con l'an -- ge -- li -- co can -- to et le pa -- ro -- le,
+    Col dol -- ce spir -- to on -- d'io non pos -- so~ai -- tar -- me,
     \ijLyrics
-        on -- d’io non pos -- so~ai -- tar -- me,
+        on -- d'io non pos -- so~ai -- tar -- me,
     \normalLyrics
-    Son __ l’au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
-    Son l’au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
-    Son l’au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
+    Son __ l'au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
+    Son l'au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
+    Son l'au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
         mia vi -- ta fug -- ge.
 }
 
@@ -87,20 +87,20 @@ altusIII = \relative c' {
 }
 
 altusLyricsIII = \lyricmode {
-    I pen -- sier’ son sa -- et -- te, 
-        son sa -- et -- te, e’l vi -- so~un so -- le,
-    E’l de -- sir fo -- co; e’n -- sie -- me con que -- st’ar -- me
-    Mi pun -- ge~A -- mor, m’ab -- ba -- glia~et mi di -- strug -- ge;
+    I pen -- sier' son sa -- et -- te, 
+        son sa -- et -- te, e'l vi -- so~un so -- le,
+    E'l de -- sir fo -- co; e'n -- sie -- me con que -- st'ar -- me
+    Mi pun -- ge~A -- mor, m'ab -- ba -- glia~et mi di -- strug -- ge;
 
-    Con l’an -- ge -- li -- co can -- to et le pa -- ro -- le,
+    Con l'an -- ge -- li -- co can -- to et le pa -- ro -- le,
         et le pa -- ro -- le,
-    Col dol -- ce spir -- to on -- d’io non pos -- so~ai -- tar -- me,
+    Col dol -- ce spir -- to on -- d'io non pos -- so~ai -- tar -- me,
     \ijLyrics
-        on -- d’io non pos -- so~ai -- tar -- me,
+        on -- d'io non pos -- so~ai -- tar -- me,
     \normalLyrics
-    Son l’au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
-    Son l’au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
-    Son __ l’au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge. __
+    Son l'au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
+    Son l'au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
+    Son __ l'au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge. __
 %        mia vi -- ta fug -- ge.
 }
 
@@ -135,20 +135,20 @@ tenorIII = \relative c' {
 }
 
 tenorLyricsIII = \lyricmode {
-    I pen -- sier’ son sa -- et -- te,
-        son __ sa -- et -- te, e’l vi -- so~un so -- le,
-    E’l de -- sir fo -- co; e’n -- sie -- me con que -- st’ar -- me
-    Mi pun -- ge~A -- mor, m’ab -- ba -- glia~et mi di -- strug -- ge,
+    I pen -- sier' son sa -- et -- te,
+        son __ sa -- et -- te, e'l vi -- so~un so -- le,
+    E'l de -- sir fo -- co; e'n -- sie -- me con que -- st'ar -- me
+    Mi pun -- ge~A -- mor, m'ab -- ba -- glia~et mi di -- strug -- ge,
         et mi di -- strug -- ge;
 
-    Con l’an -- ge -- li -- co can -- to et le pa -- ro -- le, 
+    Con l'an -- ge -- li -- co can -- to et le pa -- ro -- le, 
         et le pa -- ro -- le, __
-    Col dol -- ce spir -- to on -- d’io non pos -- so~ai -- tar -- me,
+    Col dol -- ce spir -- to on -- d'io non pos -- so~ai -- tar -- me,
     \ijLyrics
-        on -- d’io non pos -- so~ai -- tar -- me,
+        on -- d'io non pos -- so~ai -- tar -- me,
     \normalLyrics
-    Son l’au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
-    Son l’au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
+    Son l'au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
+    Son l'au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
         i -- nan -- zi~a cui mia vi -- ta fug -- ge.
 }
 
@@ -183,25 +183,25 @@ bassusIII = \relative c {
 }
 
 bassusLyricsIII = \lyricmode {
-    I pen -- sier’ son sa -- et -- te, e’l vi -- so~un so -- le,
+    I pen -- sier' son sa -- et -- te, e'l vi -- so~un so -- le,
     \ijLyrics
-        e’l vi -- so~un so -- le,
+        e'l vi -- so~un so -- le,
     \normalLyrics
-    E’l de -- sir fo -- co; e’n -- sie -- me con que -- st’ar -- me
-    Mi pun -- ge~A -- mor, m’ab -- ba -- glia~et mi di -- strug -- ge;
+    E'l de -- sir fo -- co; e'n -- sie -- me con que -- st'ar -- me
+    Mi pun -- ge~A -- mor, m'ab -- ba -- glia~et mi di -- strug -- ge;
 
-    Con l’an -- ge -- li -- co can -- to et le pa -- ro -- le,
+    Con l'an -- ge -- li -- co can -- to et le pa -- ro -- le,
         et le pa -- ro -- le,
     Col dol -- ce spir -- to,
     \ijLyrics
     Col dol -- ce spir -- to 
     \normalLyrics
-        on -- d’io non pos -- so~ai -- tar -- me,
-    Son l’au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
-    Son __ l’au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
+        on -- d'io non pos -- so~ai -- tar -- me,
+    Son l'au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
+    Son __ l'au -- ra~i -- nan -- zi~a cui __ mia vi -- ta fug -- ge,
         i -- nan -- zi~a cui mia vi -- ta fug -- ge,
             mia vi -- ta fug -- ge.
-%    Son l’au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
+%    Son l'au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
 %        mia vi -- ta fug -- ge.
 }
 
@@ -237,15 +237,15 @@ quintusIII = \relative c' {
 }
 
 quintusLyricsIII = \lyricmode {
-    I __ pen -- sier’ son __ sa -- et -- te,  __
-    E’l de -- sir fo -- co; e’n -- sie -- me con que -- st’ar -- me
-    Mi pun -- ge~A -- mor, __ m’ab -- ba -- glia~et mi di -- strug -- ge;
+    I __ pen -- sier' son __ sa -- et -- te,  __
+    E'l de -- sir fo -- co; e'n -- sie -- me con que -- st'ar -- me
+    Mi pun -- ge~A -- mor, __ m'ab -- ba -- glia~et mi di -- strug -- ge;
 
-    Con l’an -- ge -- li -- co can -- to,
-    Con l’an -- ge -- li -- co can -- to et le pa -- ro -- le,
-    Col dol -- ce spir -- to __ on -- d’io non pos -- so~ai -- tar -- me,
-    Son __ l’au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
-    Son l’au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
+    Con l'an -- ge -- li -- co can -- to,
+    Con l'an -- ge -- li -- co can -- to et le pa -- ro -- le,
+    Col dol -- ce spir -- to __ on -- d'io non pos -- so~ai -- tar -- me,
+    Son __ l'au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
+    Son l'au -- ra~i -- nan -- zi~a cui mia vi -- ta fug -- ge,
         i -- nan -- zi~a cui mia vi -- ta fug -- ge,
             mia vi -- ta fug -- ge.
 }

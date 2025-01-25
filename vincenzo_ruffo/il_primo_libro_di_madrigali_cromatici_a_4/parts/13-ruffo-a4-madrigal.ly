@@ -1,7 +1,7 @@
 %19 1   Alcun non può saper da chi sia amato,
 %       quando felice in su la ruota siede;
-%       però c’ha i veri e i finti amici a lato,
-%  as written: però c’ha i veri amici e i sent'a lato
+%       però c'ha i veri e i finti amici a lato,
+%  as written: però c'ha i veri amici e i sent'a lato
 %       che mostran tutti una medesma fede.
 %       Se poi si cangia in tristo il lieto stato,
 %       volta la turba adulatrice il piede;
@@ -48,7 +48,7 @@ cantoLyricsXIII = \lyricmode {
     Quan -- do fe -- li -- ce,
     \normalLyrics
     Quan -- do __ fe -- li -- ce~in su la ruo -- ta sie -- de;
-    Pe -- rò c’ha~i ve -- ri~a -- mi -- ci~ei sen -- t’a la -- to
+    Pe -- rò c'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
     Che __ mo -- stran tut -- ti~u -- na me -- de -- sma __ fe -- de.
 
     Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,
@@ -101,7 +101,7 @@ altoLyricsXIII = \lyricmode {
     \normalLyrics
     Quan -- do fe -- li -- ce,
     Quan -- do fe -- li -- ce in su la ruo -- ta sie -- de;
-    Pe -- rò c’ha~i ve -- ri~a -- mi -- ci ei sen -- t’a la -- to
+    Pe -- rò c'ha~i ve -- ri~a -- mi -- ci ei sen -- t'a la -- to
     Che mo -- stran tut -- ti~u -- na me -- de -- sma __ fe -- de.
 
     Se poi si can -- gia~in tri -- sto~il lie -- to __ sta -- to,
@@ -153,7 +153,7 @@ tenoreLyricsXIII = \lyricmode {
     \normalLyrics
     Quan -- do fe -- li -- ce,
     Quan -- do fe -- li -- ce~in su la ruo -- ta sie -- de;
-    Pe -- rò c’ha~i ve -- ri~a -- mi -- ci~ei sen -- t’a la -- to
+    Pe -- rò c'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
     Che mo -- stran tut -- ti~u -- na me -- de -- sma fe -- de.
 
     Se poi si can -- gia~in tri -- sto il lie -- to sta -- to,
@@ -202,7 +202,7 @@ bassoLyricsXIII = \lyricmode {
     Al -- cun non può sa -- per da __ chi sia~a -- ma -- to,
     Quan -- do fe -- li -- ce,
     Quan -- do __ fe -- li -- ce~in su la ruo -- ta sie -- de;
-    Pe -- rò c’ha~i ve -- ri~a -- mi -- ci~ei sen -- t’a la -- to
+    Pe -- rò c'ha~i ve -- ri~a -- mi -- ci~ei sen -- t'a la -- to
     Che mo -- stran tut -- ti~u -- na me -- de -- sma fe -- de.
 
     % Se poi si can -- gia~in tri -- sto~il lie -- to sta -- to,

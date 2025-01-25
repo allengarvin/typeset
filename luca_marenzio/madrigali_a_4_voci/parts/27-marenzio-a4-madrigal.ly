@@ -42,20 +42,20 @@ cantoXXVII = \relative c'' {
 cantoLyricsXXVII = \lyricmode {
     Vien -- ne Mon -- tan
     Vien -- ne Mon -- tan men -- tre le no -- stre tor -- mo -- ra
-    Ru -- mi -- nan l’her -- be~e~i cac -- cia -- tor 
-        e~i cac -- cia -- tor s’im -- bo -- sca -- no
-    Mo -- stran -- do~ai ca -- ni le la -- te -- bre~e l’or -- mo -- ra.
+    Ru -- mi -- nan l'her -- be~e~i cac -- cia -- tor 
+        e~i cac -- cia -- tor s'im -- bo -- sca -- no
+    Mo -- stran -- do~ai ca -- ni le la -- te -- bre~e l'or -- mo -- ra.
 
     Can -- ta -- te
     Can -- ta -- te
     Can -- ta -- te~ac -- ciò che~i mon -- ti~o -- mai co -- no -- sca -- no,
-    Quan -- to’l se -- col per -- du -- to~in voi ri -- no -- va -- si:
+    Quan -- to'l se -- col per -- du -- to~in voi ri -- no -- va -- si:
     Can -- ta -- te
     Can -- ta -- te fin che~i cam -- pi si __ rin -- fo -- sca -- no.
 
     Mon -- tan co -- stui che me -- co~a can -- tar pro -- va -- si __
-    Guar -- da le ca -- pre d’un pa -- stor er -- ra -- ti -- co.
-    Mi -- se -- ra man -- dra, ch’in tal gui -- da tro -- va -- si.
+    Guar -- da le ca -- pre d'un pa -- stor er -- ra -- ti -- co.
+    Mi -- se -- ra man -- dra, ch'in tal gui -- da tro -- va -- si.
 }
 
 altoXXVIIincipit = \relative c' {
@@ -102,20 +102,20 @@ altoXXVII = \relative c' {
 altoLyricsXXVII = \lyricmode {
     Vien -- ne Mon -- tan
     Vien -- ne Mon -- tan men -- tre le no -- stre tor -- mo -- ra
-    Ru -- mi -- nan l’her -- be e~i cac -- cia -- tor 
-        s’im -- bo -- sca -- no s’im -- bo -- sca -- no
-    Mo -- stran -- do~ai ca -- ni le la -- te -- bre~e l’or -- mo -- ra.
+    Ru -- mi -- nan l'her -- be e~i cac -- cia -- tor 
+        s'im -- bo -- sca -- no s'im -- bo -- sca -- no
+    Mo -- stran -- do~ai ca -- ni le la -- te -- bre~e l'or -- mo -- ra.
 
     Can -- ta -- te
     Can -- ta -- te
     Can -- ta -- te~ac -- ciò che~i mon -- ti~o -- mai co -- no -- sca -- no,
-    Quan -- to’l se -- col per -- du -- to~in voi ri -- no -- va -- si:
+    Quan -- to'l se -- col per -- du -- to~in voi ri -- no -- va -- si:
     Can -- ta -- te
     Can -- ta -- te fin che~i cam -- pi si __ rin -- fo -- sca -- no.
 
     Mon -- tan co -- stui che me -- co~a can -- tar pro -- va -- si
-    Guar -- da le ca -- pre d’un pa -- stor er -- ra -- ti -- co.
-    Mi -- se -- ra man -- dra, ch’in tal gui -- da tro -- va -- si.
+    Guar -- da le ca -- pre d'un pa -- stor er -- ra -- ti -- co.
+    Mi -- se -- ra man -- dra, ch'in tal gui -- da tro -- va -- si.
 }
 
 tenoreXXVIIincipit = \relative c' {
@@ -160,20 +160,20 @@ tenoreXXVII = \relative c' {
 tenoreLyricsXXVII = \lyricmode {
     Vien -- ne Mon -- tan
     Vien -- ne Mon -- tan men -- tre le no -- stre tor -- mo -- ra
-    Ru -- mi -- nan l’her -- be
-        s’im -- bo -- sca -- no s’im -- bo -- sca -- no
-    Mo -- stran -- do~ai ca -- ni le la -- te -- bre~e l’or -- mo -- ra.
+    Ru -- mi -- nan l'her -- be
+        s'im -- bo -- sca -- no s'im -- bo -- sca -- no
+    Mo -- stran -- do~ai ca -- ni le la -- te -- bre~e l'or -- mo -- ra.
 
     Can -- ta -- te
     Can -- ta -- te
     Can -- ta -- te~ac -- ciò che~i mon -- ti~o -- mai co -- no -- sca -- no,
-    Quan -- to’l se -- col per -- du -- to~in voi ri -- no -- va -- si:
+    Quan -- to'l se -- col per -- du -- to~in voi ri -- no -- va -- si:
     Can -- ta -- te
     Can -- ta -- te fin che~i cam -- pi si rin -- fo -- sca -- no.
 
-    Guar -- da le ca -- pre d’un pa -- stor er -- ra -- ti -- co __
-        d’un pa -- stor er -- ra -- ti -- co.
-    Mi -- se -- ra man -- dra, ch’in tal gui -- da tro -- va -- si.
+    Guar -- da le ca -- pre d'un pa -- stor er -- ra -- ti -- co __
+        d'un pa -- stor er -- ra -- ti -- co.
+    Mi -- se -- ra man -- dra, ch'in tal gui -- da tro -- va -- si.
 }
 
 bassoXXVIIincipit = \relative c {
@@ -214,30 +214,30 @@ bassoXXVII = \relative c {
 bassoLyricsXXVII = \lyricmode {
     Vien -- ne Mon -- tan
     Vien -- ne Mon -- tan men -- tre le no -- stre tor -- mo -- ra
-    Ru -- mi -- nan l’her -- be
-        s’im -- bo -- sca -- no s’im -- bo -- sca -- no
-    Mo -- stran -- do~ai ca -- ni le la -- te -- bre~e l’or -- mo -- ra.
+    Ru -- mi -- nan l'her -- be
+        s'im -- bo -- sca -- no s'im -- bo -- sca -- no
+    Mo -- stran -- do~ai ca -- ni le la -- te -- bre~e l'or -- mo -- ra.
 
     Can -- ta -- te
     Can -- ta -- te
     Can -- ta -- te~ac -- ciò che~i mon -- ti~o -- mai co -- no -- sca -- no,
-    Quan -- to’l se -- col per -- du -- to~in voi ri -- no -- va -- si:
+    Quan -- to'l se -- col per -- du -- to~in voi ri -- no -- va -- si:
     Can -- ta -- te
     Can -- ta -- te fin che~i cam -- pi si rin -- fo -- sca -- no.
 
-    Guar -- da le ca -- pre d’un pa -- stor er -- ra -- ti -- co __
-    Mi -- se -- ra man -- dra, ch’in tal gui -- da tro -- va -- si.
+    Guar -- da le ca -- pre d'un pa -- stor er -- ra -- ti -- co __
+    Mi -- se -- ra man -- dra, ch'in tal gui -- da tro -- va -- si.
 }
 
 % OF. Vienne, Montan, mentre le nostre tormora
-% ruminan l’erbe, e i cacciator s’imboscano,
-% mostrando ai cani le latebre e l’ormora.
+% ruminan l'erbe, e i cacciator s'imboscano,
+% mostrando ai cani le latebre e l'ormora.
 % MONT. Cantate, acciò che i monti omai conoscano,
-% quanto ’l secol perduto in voi rinovasi:
+% quanto 'l secol perduto in voi rinovasi:
 % cantate fin che i campi si rinfoscano.
 % OF. Montan, costui che meco a cantar provasi,
-% guarda le capre d’un pastor erratico.
-% Misera mandra, che ’n tal guida trovasi!
+% guarda le capre d'un pastor erratico.
+% Misera mandra, che 'n tal guida trovasi!
 % El. Corbo malvagio, ursacchio aspro e selvatico,
 % cotesta lingua velenosa mordila,
 % che transportar si fa dal cor fanatico.
@@ -250,17 +250,17 @@ bassoLyricsXXVII = \lyricmode {
 % EL. La santa Pale intenta ode il mio canto,
 % e di bei rami le mie chiome adorna,
 % che nessun altro se ne può dar vanto.
-% OF. E ’l semicapro Pan alza le corna
+% OF. E 'l semicapro Pan alza le corna
 % a la sampogna mia sonora e bella,
 % e corre e salta e fugge e poi ritorna.
 % EL. Quando talora alla stagion novella
 % mungo le capre mie, mi scherne e ride
 % la mia suave e dolce pastorella.
-% OF. Tirrena mia col sospirar m’uccide,
+% OF. Tirrena mia col sospirar m'uccide,
 % quando par che vèr me con gli occhi dica:
 % - Chi dal mio fido amante or mi divide? -
 % EL. Un bel colombo in una quercia antica
-% vidi annidar poc’anzi; il qual riserbo
+% vidi annidar poc'anzi; il qual riserbo
 % per la crudele et aspra mia nemica.
 % OF. Et io nel bosco un bel giovenco aderbo
 % per la mia donna; il qual fra tutti i tori

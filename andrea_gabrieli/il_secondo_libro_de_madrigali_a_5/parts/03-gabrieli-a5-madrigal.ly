@@ -1,12 +1,12 @@
 % Laura soave, vita di mia vita,
 % Che così dolcemente
-% A l'amoroso suo foco m’invita,
+% A l'amoroso suo foco m'invita,
 % Con sì cara dolcezza
-% M’infiamma il cor sovente,
+% M'infiamma il cor sovente,
 % Che di quel dolce ardor prendo vaghezza;
 % E sì dolce è il gioire,
 % Che di dolcezza sentomi morire:
-% E ben morrò, se tosto non m’aita
+% E ben morrò, se tosto non m'aita
 % Laura soave, vita di mia vita.
 % --Luigi Cassola
 % found on page 13 of:
@@ -73,17 +73,17 @@ cantoIII = \relative c'' {
 cantoLyricsIII = \lyricmode {
     Lau -- ra __ so -- a -- ve, vi -- ta di mia vi -- ta,
     Che co -- sì dol -- ce -- men -- te
-    A l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
-    A l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
+    A l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
+    A l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
     Con __ sì ca -- ra dol -- cez -- za
-    M’in -- fiam -- ma~il cor so -- ven -- te,
-    M’in -- fiam -- ma~il cor so -- ven -- te,
+    M'in -- fiam -- ma~il cor so -- ven -- te,
+    M'in -- fiam -- ma~il cor so -- ven -- te,
     Che di quel dol -- ce~ar -- dor pren -- do va -- ghez -- za;
     E sì dol -- ce~è~il gio -- i -- re,
     Che di dol -- cez -- za sen -- to -- mi mo -- ri -- re,
         sen -- to -- mi mo -- ri -- re:
     Che di dol -- cez -- za sen -- to -- mi mo -- ri -- re,
-    E ben mor -- rò, se to -- sto non m’a -- i -- ta
+    E ben mor -- rò, se to -- sto non m'a -- i -- ta
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta,
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta.
 }
@@ -121,18 +121,18 @@ altoIII = \relative c'' {
 altoLyricsIII = \lyricmode {
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta,
     Che co -- sì dol -- ce -- men -- te
-    A __ l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
-    A __ l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
+    A __ l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
+    A __ l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
     Con __ sì ca -- ra dol -- cez -- za
-    M’in -- fiam -- ma~il cor so -- ven -- te,
+    M'in -- fiam -- ma~il cor so -- ven -- te,
     Con sì ca -- ra dol -- cez -- za
-    M’in -- fiam -- ma~il cor so -- ven -- te,
+    M'in -- fiam -- ma~il cor so -- ven -- te,
     Che di quel dol -- ce~ar -- dor pren -- do va -- ghez -- za;
     E sì dol -- ce~è~il gio -- i -- re,
     Che di dol -- cez -- za sen -- to -- mi mo -- ri -- re,
         sen -- to -- mi mo -- ri -- re:
     Che di dol -- cez -- za sen -- to -- mi mo -- ri -- re,
-    E ben mor -- rò, se to -- sto non m’a -- i -- ta
+    E ben mor -- rò, se to -- sto non m'a -- i -- ta
     Lau -- ra so -- a -- ve, 
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta,
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta.
@@ -177,12 +177,12 @@ tenoreLyricsIII = \lyricmode {
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta,
     Che co -- sì dol -- ce -- men -- te
     Che co -- sì dol -- ce -- men -- te
-    A l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
-    A l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
+    A l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
+    A l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
     Con __ sì ca -- ra dol -- cez -- za
-    M’in -- fiam -- ma~il cor so -- ven -- te,
+    M'in -- fiam -- ma~il cor so -- ven -- te,
     Con sì ca -- ra dol -- cez -- za
-    M’in -- fiam -- ma~il cor so -- ven -- te,
+    M'in -- fiam -- ma~il cor so -- ven -- te,
         so -- ven -- te,
     Che di quel dol -- ce~ar -- dor pren -- do va -- ghez -- za;
     E sì dol -- ce~è~il gio -- i -- re,
@@ -191,7 +191,7 @@ tenoreLyricsIII = \lyricmode {
         sen -- to -- mi mo -- ri -- re:
     Che di dol -- cez -- za sen -- to -- mi mo -- ri -- re,
     E ben mor -- rò, 
-    E ben mor -- rò, se to -- sto non m’a -- i -- ta
+    E ben mor -- rò, se to -- sto non m'a -- i -- ta
     Lau -- ra so -- a -- ve, 
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta,
         vi -- ta di mia vi -- ta,
@@ -232,9 +232,9 @@ bassoIII = \relative c' {
 bassoLyricsIII = \lyricmode {
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta,
     Che co -- sì dol -- ce -- men -- te
-    A l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
-    A l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
-    M’in -- fiam -- ma~il cor so -- ven -- te,
+    A l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
+    A l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
+    M'in -- fiam -- ma~il cor so -- ven -- te,
     Con __ sì ca -- ra dol -- cez -- za
     Che di quel dol -- ce~ar -- dor pren -- do va -- ghez -- za;
     E __ sì dol -- ce~è~il gio -- i -- re,
@@ -242,7 +242,7 @@ bassoLyricsIII = \lyricmode {
         sen -- to -- mi mo -- ri -- re:
     Che di dol -- cez -- za
     E ben mor -- rò, 
-    E ben mor -- rò, se to -- sto non m’a -- i -- ta
+    E ben mor -- rò, se to -- sto non m'a -- i -- ta
     Lau -- ra so -- a -- ve, 
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta,
         vi -- ta di mia vi -- ta,
@@ -287,13 +287,13 @@ quintoIII = \relative c' {
 quintoLyricsIII = \lyricmode {
     Lau -- ra __ so -- a -- ve, vi -- ta di mia vi -- ta,
     Che co -- sì dol -- ce -- men -- te
-    A l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
-    A l'a -- mo -- ro -- so suo fo -- co m’in -- vi -- ta,
+    A l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
+    A l'a -- mo -- ro -- so suo fo -- co m'in -- vi -- ta,
     Con __ sì ca -- ra dol -- cez -- za
-    M’in -- fiam -- ma~il cor,
-    M’in -- fiam -- ma~il cor so -- ven -- te,
+    M'in -- fiam -- ma~il cor,
+    M'in -- fiam -- ma~il cor so -- ven -- te,
     Con __ sì ca -- ra dol -- cez -- za
-    M’in -- fiam -- ma~il cor so -- ven -- te,
+    M'in -- fiam -- ma~il cor so -- ven -- te,
     Che di quel dol -- ce~ar -- dor pren -- do va -- ghez -- za;
     E sì dol -- ce~è~il gio -- i -- re,
     E sì dol -- ce~è~il gio -- i -- re,
@@ -301,8 +301,8 @@ quintoLyricsIII = \lyricmode {
         sen -- to -- mi mo -- ri -- re:
     Che di dol -- cez -- za sen -- to -- mi mo -- ri -- re,
     E ben mor -- rò, 
-    E ben mor -- rò, se to -- sto non m’a -- i -- ta
-        se to -- sto non m’a -- i -- ta
+    E ben mor -- rò, se to -- sto non m'a -- i -- ta
+        se to -- sto non m'a -- i -- ta
     Lau -- ra so -- a -- ve, 
     Lau -- ra so -- a -- ve, vi -- ta di mia vi -- ta,
         vi -- ta di mia vi -- ta,

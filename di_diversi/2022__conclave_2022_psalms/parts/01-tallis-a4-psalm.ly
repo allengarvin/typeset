@@ -9,7 +9,7 @@
 % 3. He like shall be the planted tree,
 %  nor set the river's course;
 %  which forth in tide, whose leaves abide,
-%  all prosp’reth what he does.
+%  all prosp'reth what he does.
 % 4. Not so, not so the wicked do,
 %  like dust or chaff they be;
 %  uphoist by wind, as light by kind
@@ -66,7 +66,7 @@ meaneLyricsIa = \lyricmode {
     He like shall be the plan -- ted tree,
     nor set the ri -- ver's course;
     which forth in tide, whose leaves a -- bide,
-    all prosp -- ’reth what he does.
+    all prosp -- 'reth what he does.
     Not so, not so the wick -- ed do,
     like dust or chaff they __ be;
     up -- hoist by wind, as light __ by kind
@@ -127,7 +127,7 @@ contratenorLyricsIa = \lyricmode {
     He like shall be the plan -- ted tree,
     nor set the __ ri -- ver's course;
     which forth in tide, whose leaves a -- bide,
-    all prosp -- ’reth what he does.
+    all prosp -- 'reth what he does.
 
     Not so, not so the wick -- ed do,
     like dust __ or chaff they be;
@@ -190,7 +190,7 @@ tenorLyricsIa = \lyricmode {
     He like shall be the plan -- ted tree,
     nor set the ri -- ver's course;
     which forth in tide, whose leaves a -- bide,
-    all prosp -- ’reth what he does.
+    all prosp -- 'reth what he does.
     Not so, not so the wick -- ed do,
     like dust or chaff they be;
     up -- hoist by wind, as light by kind
@@ -252,7 +252,7 @@ baseLyricsIa = \lyricmode {
     He like shall be the plan -- ted tree,
     nor set the ri -- ver's course;
     which forth in tide, whose leaves a -- bide,
-    all prosp -- ’reth what he does.
+    all prosp -- 'reth what he does.
     Not so, not so the wick -- ed do,
     like dust or chaff they be;
     up -- hoist by wind, as light by kind

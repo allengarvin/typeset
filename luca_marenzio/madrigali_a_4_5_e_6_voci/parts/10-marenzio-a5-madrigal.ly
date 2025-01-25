@@ -23,10 +23,10 @@
 % and the bitter nights in warmest sighs.
 % And although in sleep appeases my desires
 % she, in whose power Love has placed them,
-% I would be dead if my heart didn’t
+% I would be dead if my heart didn't
 % strive to shadow her wherever I go or gaze.
 % 
-% Other than weep one’s eyes cannot,
+% Other than weep one's eyes cannot,
 % nor of anything but grief nourishes his soul
 % he who knows to be the cause of my sorrow.
 % O well-born are those who wrapped in swaddling clothes

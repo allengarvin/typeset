@@ -1,10 +1,10 @@
-% 33-   19     Sa questo altier ch’io l’amo e ch’io l’adoro,
+% 33-   19     Sa questo altier ch'io l'amo e ch'io l'adoro,
 %           né mi vuol per amante né per serva.
 %           Il crudel sa che per lui spasmo e moro,
 %           e dopo morte a darmi aiuto serva.
 %           E perché io non gli narri il mio martoro
 %           atto a piegar la sua voglia proterva,
-%           da me s’asconde, come aspide suole,
+%           da me s'asconde, come aspide suole,
 %           che, per star empio, il canto udir non vuole.
 
 cantoIIIincipit = \relative c'' {
@@ -42,15 +42,15 @@ cantoIII = \relative c'' {
 }
 
 cantoLyricsIII = \lyricmode {
-    Sa que -- sto~al -- tier ch’io l’a -- mo~e ch’io l’a -- do -- ro,
-    sa que -- sto~al -- tier ch’io l’a -- mo~e ch’io l’a -- do -- ro,
+    Sa que -- sto~al -- tier ch'io l'a -- mo~e ch'io l'a -- do -- ro,
+    sa que -- sto~al -- tier ch'io l'a -- mo~e ch'io l'a -- do -- ro,
     Né mi vuol per a -- man -- te né per ser -- va.
     Il cru -- del sa che per lui spa -- smo~e mo -- ro,
     E do -- po mor -- te~a dar -- mi~a -- iu -- to ser -- va.
     E per -- ché~io non gli nar -- ri~il mio mar -- to -- ro,
     e per -- ché~io non gli nar -- ri~il mio mar -- to -- ro
     At -- to~a pie -- gar la sua vo -- glia pro -- ter -- va,
-    Da me s’a -- scon -- de, co -- me~a -- spi -- de suo -- le,
+    Da me s'a -- scon -- de, co -- me~a -- spi -- de suo -- le,
         co -- me~a -- spi -- de suo -- le,
     Che per star em -- pio, il can -- to~u -- dir non vuo -- le,
         il can -- to~u -- dir non vuo -- le,
@@ -93,17 +93,17 @@ tenoreIII = \relative c'' {
 }
 
 tenoreLyricsIII = \lyricmode {
-    Sa que -- sto~al -- tier ch’io l’a -- mo~e ch’io l’a -- do -- ro,
-    sa que -- sto~al -- tier ch’io l’a -- mo~e ch’io l’a -- do -- ro,
-    sa que -- sto~al -- tier ch’io l’a -- mo~e ch’io l’a -- do -- ro,
-    sa que -- sto~al -- tier ch’io l’a -- mo~e ch’io l’a -- do -- ro,
+    Sa que -- sto~al -- tier ch'io l'a -- mo~e ch'io l'a -- do -- ro,
+    sa que -- sto~al -- tier ch'io l'a -- mo~e ch'io l'a -- do -- ro,
+    sa que -- sto~al -- tier ch'io l'a -- mo~e ch'io l'a -- do -- ro,
+    sa que -- sto~al -- tier ch'io l'a -- mo~e ch'io l'a -- do -- ro,
     Né mi vuol per a -- man -- te né per ser -- va.
     Il cru -- del sa che per lui spa -- smo~e mo -- ro,
     E do -- po mor -- te~a dar -- mi~a -- iu -- to ser -- va.
     E per -- ché~io non gli nar -- ri~il mio __ mar -- to -- ro, __
     e per -- ché~io non gli nar -- ri~il mio __ mar -- to -- ro,
     At -- to~a pie -- gar la __ sua vo -- glia pro -- ter -- va,
-    Da me s’a -- scon -- de, co -- me~a -- spi -- de suo -- le,
+    Da me s'a -- scon -- de, co -- me~a -- spi -- de suo -- le,
         co -- me~a -- spi -- de suo -- le,
     Che per star em -- pio, il can -- to~u -- dir non vuo -- le,
         il can -- to~u -- dir non vuo -- le,
@@ -147,16 +147,16 @@ bassoIII = \relative c' {
 }
 
 bassoLyricsIII = \lyricmode {
-    Sa que -- sto~al -- tier ch’io l’a -- mo~e ch’io l’a -- do -- ro,
-    sa que -- sto~al -- tier ch’io l’a -- mo~e ch’io l’a -- do -- ro,
-    sa que -- sto~al -- tier ch’io l’a -- mo~e ch’io l’a -- do -- ro,
+    Sa que -- sto~al -- tier ch'io l'a -- mo~e ch'io l'a -- do -- ro,
+    sa que -- sto~al -- tier ch'io l'a -- mo~e ch'io l'a -- do -- ro,
+    sa que -- sto~al -- tier ch'io l'a -- mo~e ch'io l'a -- do -- ro,
     Né mi vuol per a -- man -- te né per ser -- va.
     Il cru -- del sa che per lui spa -- smo~e mo -- ro,
     E do -- po mor -- te~a dar -- mi~a -- iu -- to ser -- va.
     E per -- ché~io non gli nar -- ri~il mio mar -- to -- ro,
     e per -- ché~io non gli nar -- ri~il mio mar -- to -- ro
     At -- to~a pie -- gar la sua vo -- glia pro -- ter -- va, __
-    Da me s’a -- scon -- de, co -- me~a -- spi -- de suo -- le,
+    Da me s'a -- scon -- de, co -- me~a -- spi -- de suo -- le,
         co -- me~a -- spi -- de suo -- le,
     Che per star em -- pio, il can -- to~u -- dir non vuo -- le,
         il can -- to~u -- dir non vuo -- le,

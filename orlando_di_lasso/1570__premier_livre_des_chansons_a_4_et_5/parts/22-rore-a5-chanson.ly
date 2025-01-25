@@ -42,27 +42,27 @@ superiusLyricsXXII = \lyricmode {
     Par deux viel -- lards, con -- voi -- tans sa beau -- té,
         con -- voi -- tans sa beau -- té,
     Fut en __ son coeur tri -- ste~et dés -- con -- for -- té -- e,
-    Vo -- yant l’ef -- fort fait à sa cha -- ste -- té.
+    Vo -- yant l'ef -- fort fait à sa cha -- ste -- té.
     El -- le leur dit, Si __ par dés -- loy -- au -- té
     De ce corps mien __ vous a -- vez jou -- is -- san -- ce,
-    C’est __ fait de moi, 
+    C'est __ fait de moi, 
     \ijLyrics
-    c’est __ fait de moi.
+    c'est __ fait de moi.
     \normalLyrics
         Si je fais ré -- si -- stan -- ce,
     \ijLyrics
         si je fais ré -- si -- stan -- ce,
     \normalLyrics
     Vous __ me fe -- rez mou -- rir en dés -- hon -- neur.
-    Mais j’ai -- me mieux,
+    Mais j'ai -- me mieux,
     \ijLyrics
-    mais j’ai -- me mieux  __
+    mais j'ai -- me mieux  __
     \normalLyrics
         pé -- rir, 
-    mais j’ai -- me mieux pé -- rir en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser __ par pé -- ché le Sei -- gneur,
-    que d’of -- fen -- ser par pé -- ché le __ Sei -- gneur,
-    que d’of -- fen -- ser __ par pé -- ché le __ Sei -- gneur.
+    mais j'ai -- me mieux pé -- rir en in -- no -- cen -- ce,
+    Que d'of -- fen -- ser __ par pé -- ché le Sei -- gneur,
+    que d'of -- fen -- ser par pé -- ché le __ Sei -- gneur,
+    que d'of -- fen -- ser __ par pé -- ché le __ Sei -- gneur.
 }
 
 contraXXIIincipit = \relative c' {
@@ -118,25 +118,25 @@ contraLyricsXXII = \lyricmode {
     \ijLyrics
         tri -- ste~et dés -- con -- for -- té -- e,
     \normalLyrics
-    Vo -- yant l’ef -- fort fait à sa cha -- ste -- té.
+    Vo -- yant l'ef -- fort fait à sa cha -- ste -- té.
     El -- le leur dit, Si par dés -- loy -- au -- té
     De ce corps mien vous a -- vez jou -- is -- san -- ce,
-    C’est fait de moi,
+    C'est fait de moi,
     \ijLyrics
-    c’est fait de moi.
+    c'est fait de moi.
     \normalLyrics
         Si je fais ré -- si -- stan -- ce, __
     Vous me fe -- rez mou -- rir,
         mou -- rir en dés -- hon -- neur.
-    Mais j’ai -- me mieux, 
+    Mais j'ai -- me mieux, 
     \ijLyrics
-    mais j’ai -- me mieux
+    mais j'ai -- me mieux
     \normalLyrics
         pé -- rir,
-    mais j’ai -- me mieux __ pé -- rir en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser par pé -- ché le __ Sei -- gneur,
-    que d’of -- fen -- ser par __ pé -- ché le __ Sei -- gneur,
-    que d’of -- fen -- ser par pé -- ché le __ Sei -- gneur.
+    mais j'ai -- me mieux __ pé -- rir en in -- no -- cen -- ce,
+    Que d'of -- fen -- ser par pé -- ché le __ Sei -- gneur,
+    que d'of -- fen -- ser par __ pé -- ché le __ Sei -- gneur,
+    que d'of -- fen -- ser par pé -- ché le __ Sei -- gneur.
 }
 
 tenorXXIIincipit = \relative c'' {
@@ -181,20 +181,20 @@ tenorLyricsXXII = \lyricmode {
     Par deux viel -- lards, con -- voi -- tans sa __ beau -- té,
     Fut en son coeur tri -- ste,
     fut en son coeur tri -- ste~et dés -- con -- for -- té -- e,
-    Vo -- yant l’ef -- fort fait à sa cha -- ste -- té.
+    Vo -- yant l'ef -- fort fait à sa cha -- ste -- té.
     El -- le leur dit, Si __ par dés -- loy -- au -- té
     De ce corps mien vous a -- vez jou -- is -- san -- ce,
-    C’est fait de moi,
+    C'est fait de moi,
     \ijLyrics
-    c’est fait de moi.
+    c'est fait de moi.
     \normalLyrics
         Si je fais ré -- si -- stan -- ce,
         si je fais ré -- si -- stan -- ce,
     Vous me fe -- rez mou -- rir en dés -- hon -- neur.
-    Mais j’ai -- me mieux pé -- rir,
+    Mais j'ai -- me mieux pé -- rir,
         pé -- rir en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser __ par __ pé -- ché __ le Sei -- gneur,
-    que d’of -- fen -- ser par pé -- ché le Sei -- gneur.
+    Que d'of -- fen -- ser __ par __ pé -- ché __ le Sei -- gneur,
+    que d'of -- fen -- ser par pé -- ché le Sei -- gneur.
 }
 
 bassusXXIIincipit = \relative c' {
@@ -243,21 +243,21 @@ bassusLyricsXXII = \lyricmode {
     Fut en son coeur,
     fut en son coeur tri -- ste~et dés -- con -- for -- té -- e,
         tri -- ste~et __ dés -- con -- for -- té -- e,
-    Vo -- yant l’ef -- fort __ fait à sa cha -- ste -- té.
+    Vo -- yant l'ef -- fort __ fait à sa cha -- ste -- té.
     El -- le leur dit, Si par dés -- loy -- au -- té
     De ce __ corps mien vous a -- vez jou -- is -- san -- ce,
-    C’est fait de moi,
+    C'est fait de moi,
     \ijLyrics
-    c’est fait de moi.
+    c'est fait de moi.
     \normalLyrics
         Si je fais ré -- si -- stan -- ce,
     Vous me fe -- rez mou -- rir en dés -- hon -- neur,
     \ijLyrics
         en dés -- hon -- neur.
     \normalLyrics
-    Mais j’ai -- me mieux pé -- rir en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser __ par pé -- ché le Sei -- gneur,
-    que d’of -- fen -- ser __ par pé -- ché le Sei -- gneur.
+    Mais j'ai -- me mieux pé -- rir en in -- no -- cen -- ce,
+    Que d'of -- fen -- ser __ par pé -- ché le Sei -- gneur,
+    que d'of -- fen -- ser __ par pé -- ché le Sei -- gneur.
 }
 
 quintaParsXXIIincipit = \relative c' {
@@ -301,27 +301,27 @@ quintaParsLyricsXXII = \lyricmode {
         d'a -- mour sol -- li -- ci -- té -- e __
     Par deux viel -- lards, __ con -- voi -- tans sa beau -- té, __
     Fut en son coeur tri -- ste~et __ dés -- con -- for -- té -- e,
-    Vo -- yant l’ef -- fort __ fait à sa cha -- ste -- té. __
+    Vo -- yant l'ef -- fort __ fait à sa cha -- ste -- té. __
     El -- le leur dit, Si par dés -- loy -- au -- té
     De ce corps mien vous a -- vez jou -- is -- san -- ce,
-    C’est fait de moi,
+    C'est fait de moi,
     \ijLyrics
-    c’est fait de moi.
+    c'est fait de moi.
     \normalLyrics
         Si je fais ré -- si -- stan -- ce,
     Vous me fe -- rez mou -- rir,
         mou -- rir en dés -- hon -- neur.
-    Mais j’ai -- me mieux,
+    Mais j'ai -- me mieux,
     \ijLyrics
-    mais j’ai -- me mieux
+    mais j'ai -- me mieux
     \normalLyrics
         pé -- rir,
-    mais j’ai -- me mieux pé -- rir en in -- no -- cen -- ce,
-    Que d’of -- fen -- ser par pé -- ché le Sei -- gneur,
+    mais j'ai -- me mieux pé -- rir en in -- no -- cen -- ce,
+    Que d'of -- fen -- ser par pé -- ché le Sei -- gneur,
     \ijLyrics
-    que d’of -- fen -- ser __ par pé -- ché le Sei -- gneur,
+    que d'of -- fen -- ser __ par pé -- ché le Sei -- gneur,
     \normalLyrics
-    que d’of -- fen -- ser __ par pé -- ché __ le Sei -- gneur.
+    que d'of -- fen -- ser __ par pé -- ché __ le Sei -- gneur.
 }
 
 superiusXXIIincipitVoice = <<

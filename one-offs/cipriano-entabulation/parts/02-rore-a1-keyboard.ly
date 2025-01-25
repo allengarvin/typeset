@@ -132,12 +132,12 @@ bassoII = \relative c' {
 bassoLyricsII = \lyricmode {
     A la dol -- ce~om -- bra de le bel -- le fron -- di
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me
-    Che’n fin qua giù,
-    Che’n fin qua giù m’ar -- dea dal ter -- zo cie -- lo;
+    Che'n fin qua giù,
+    Che'n fin qua giù m'ar -- dea dal ter -- zo cie -- lo;
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi
-    L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
+    L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
     E fio -- rian per le piag -- ge, __
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi, __
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi.
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi, __
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi.
 }
 

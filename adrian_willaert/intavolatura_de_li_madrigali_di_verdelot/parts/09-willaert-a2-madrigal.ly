@@ -34,7 +34,7 @@ cantoLyricsIX = \lyricmode {
     Den -- tro~al mio pet -- to scor -- ge,
     Si do -- na ben che me -- sta~al no -- stro~a -- mo -- re
     O gra -- to~e dol -- ce no -- do,
-    Ov’ io si lie -- to~in fer -- vi -- tu mi __ go -- do. __
+    Ov' io si lie -- to~in fer -- vi -- tu mi __ go -- do. __
 }
 
 % NOTE: master copy is the below. Copy, and s/\\[0-9]// to eliminate string

@@ -1,11 +1,11 @@
 %8  76 Deh, dove senza me, dolce mia vita,
 %      rimasa sei sì giovane e sì bella?
 %      come, poi che la luce è dipartita,
-%      riman tra’ boschi la smarrita agnella,
+%      riman tra' boschi la smarrita agnella,
 %      che dal pastor sperando essere udita,
 %      si va lagnando in questa parte e in quella;
-%      tanto che ’l lupo l’ode da lontano,
-%      e ’l misero pastor ne piagne invano.
+%      tanto che 'l lupo l'ode da lontano,
+%      e 'l misero pastor ne piagne invano.
 
 cantoIIincipit = \relative c'' {
     \time 4/4
@@ -44,7 +44,7 @@ cantoLyricsII = \lyricmode {
         sì gio -- va -- ne~e sì bel -- la?
         sì gio -- va -- ne~e sì bel -- la?
     Co -- me, __ poi che la lu -- ce~è __ di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la,
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la,
         la smar -- ri -- ta~a -- gnel -- la,
     Che dal pa -- stor,
     Che dal pa -- stor,
@@ -52,10 +52,10 @@ cantoLyricsII = \lyricmode {
     Si va la -- gnan -- do,
     Si va la -- gnan -- do~in que -- sta par -- te~e~in quel -- la,
         in que -- sta par -- te~e~in quel -- la;
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
-    E’l __ mi -- se -- ro pa -- stor,
-    E’l mi -- se -- ro pa -- stor la __ pia -- gne, __
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
+    E'l __ mi -- se -- ro pa -- stor,
+    E'l mi -- se -- ro pa -- stor la __ pia -- gne, __
         la pia -- gne~in -- va -- no.
 }
 
@@ -98,18 +98,18 @@ altoLyricsII = \lyricmode {
         sì gio -- va -- ne~e sì bel -- la?
         sì gio -- va -- ne~e sì bel -- la?
     Co -- me, __ poi che la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la,
+    Ri -- man tra' bo -- schi,
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la,
     Che dal pa -- stor,
     Che dal pa -- stor spe -- ran -- do~es -- se -- re~u -- di -- ta,
         spe -- ran -- do~es -- se -- re~u -- di -- ta,
     Si va la -- gnan -- do,
     Si va la -- gnan -- do,
     Si va la -- gnan -- do~in que -- sta par -- te~e~in quel -- la, __
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l __ mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
-    E’l __ mi -- se -- ro pa -- stor,
-    E’l __ mi -- se -- ro pa -- stor la pia -- gne, 
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l __ mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
+    E'l __ mi -- se -- ro pa -- stor,
+    E'l __ mi -- se -- ro pa -- stor la pia -- gne, 
         la pia -- gne~in -- va -- no.
 }
 
@@ -150,15 +150,15 @@ tenoreLyricsII = \lyricmode {
         sì gio -- va -- ne~e sì bel -- la?
     Co -- me, __ poi che la lu -- ce,
     Co -- me, poi che la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la,
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la,
     Che dal pa -- stor spe -- ran -- do~es -- se -- re~u -- di -- ta,
         spe -- ran -- do~es -- se -- re~u -- di -- ta,
     Si va la -- gnan -- do,
     Si va la -- gnan -- do~in que -- sta par -- te~e~in quel -- la,
         in que -- sta par -- te~e~in quel -- la;
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
-    E’l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
+    E'l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
             la pia -- gne,  __
         la pia -- gne~in -- va -- no.
 }
@@ -200,7 +200,7 @@ bassoLyricsII = \lyricmode {
         sì gio -- va -- ne~e sì bel -- la?
         sì gio -- va -- ne~e sì bel -- la?
     Co -- me, poi che __ la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la,
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la,
         la smar -- ri -- ta~a -- gnel -- la,
     Che dal pa -- stor,
     Che dal pa -- stor spe -- ran -- do~es -- se -- re~u -- di -- ta,
@@ -208,9 +208,9 @@ bassoLyricsII = \lyricmode {
     Si va la -- gnan -- do,
     Si va la -- gnan -- do~in que -- sta par -- te~e~in quel -- la,
         in que -- sta par -- te~e~in quel -- la;
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor,
-    E’l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l mi -- se -- ro pa -- stor,
+    E'l mi -- se -- ro pa -- stor la pia -- gne~in -- va -- no,
         la pia -- gne~in -- va -- no.
 }
 

@@ -1,10 +1,10 @@
 % Se la mia vita sete,
 % come viver posso io
-% d’altro ben, d’altro amor, d’altro desio?
-% E se l’anima vede
+% d'altro ben, d'altro amor, d'altro desio?
+% E se l'anima vede
 % Gli affetti del suo cor, voi del mio core,
 % non vedete la fede?
-% Non vedete l’amore?
+% Non vedete l'amore?
 % Ma ciò convien, donna crudel, che sia,
 % perché io son vostro, e voi non sete mia.
 % 
@@ -61,12 +61,12 @@ cantoIV = \relative c'' {
 
 cantoLyricsIV = \lyricmode {
     Se la mia vi -- ta se -- te,
-    Co -- me vi -- ver pos -- s’i -- o
-    D’al -- tro ben, d’al -- tro~a -- mor, d’al -- tro de -- si -- o?
-    E se l’a -- ni -- ma ve -- de
+    Co -- me vi -- ver pos -- s'i -- o
+    D'al -- tro ben, d'al -- tro~a -- mor, d'al -- tro de -- si -- o?
+    E se l'a -- ni -- ma ve -- de
     Gli~af -- fet -- ti del suo cor, voi del mio co -- re,
     Non ve -- de -- te la fe -- de?
-    Non ve -- de -- te l’a -- mo -- re?
+    Non ve -- de -- te l'a -- mo -- re?
     Ma __ ciò con -- vien, Don -- na cru -- del che si -- a,
         cru -- del che si -- a,
     Per -- ch'io son vo -- stro, e voi non se -- te mi -- a,
@@ -104,14 +104,14 @@ altoIV = \relative c'' {
 
 altoLyricsIV = \lyricmode {
     Se la mia vi -- ta se -- te,
-    Co -- me vi -- ver pos -- s’i -- o
-    D’al -- tro ben, d’al -- tro~a -- mor, d’al -- tro de -- si -- o?
-    E se l’a -- ni -- ma ve -- de
+    Co -- me vi -- ver pos -- s'i -- o
+    D'al -- tro ben, d'al -- tro~a -- mor, d'al -- tro de -- si -- o?
+    E se l'a -- ni -- ma ve -- de
     Gli~af -- fet -- ti del suo cor,
-    e se l’a -- ni -- ma ve -- de
+    e se l'a -- ni -- ma ve -- de
     gli~af -- fet -- ti del suo cor, voi del mio co -- re,
     Non ve -- de -- te la fe -- de?
-    Non ve -- de -- te l’a -- mo -- re?
+    Non ve -- de -- te l'a -- mo -- re?
     Ma ciò con -- vien, Don -- na cru -- del che si -- a,
         cru -- del che si -- a,
     Per -- ch'io son vo -- stro,
@@ -159,18 +159,18 @@ tenoreIV = \relative c' {
 
 tenoreLyricsIV = \lyricmode {
     Se la mia vi -- ta se -- te,
-    Co -- me vi -- ver pos -- s’i -- o
-    D’al -- tro ben, d’al -- tro~a -- mor, d’al -- tro de -- si -- o?
-    E se l’a -- ni -- ma ve -- de,
-    co -- me vi -- ver pos -- s’i -- o
-    d’al -- tro ben, d’al -- tro~a -- mor, d’al -- tro de -- si -- o,
+    Co -- me vi -- ver pos -- s'i -- o
+    D'al -- tro ben, d'al -- tro~a -- mor, d'al -- tro de -- si -- o?
+    E se l'a -- ni -- ma ve -- de,
+    co -- me vi -- ver pos -- s'i -- o
+    d'al -- tro ben, d'al -- tro~a -- mor, d'al -- tro de -- si -- o,
         de -- si -- o?
-    e se l’a -- ni -- ma ve -- de
+    e se l'a -- ni -- ma ve -- de
     Gli~af -- fet -- ti del suo cor,
-    e se l’a -- ni -- ma ve -- de
+    e se l'a -- ni -- ma ve -- de
     gli~af -- fet -- ti del suo cor, voi del mio co -- re,
     Non ve -- de -- te la fe -- de?
-    Non ve -- de -- te l’a -- mo -- re?
+    Non ve -- de -- te l'a -- mo -- re?
     Ma ciò con -- vien, Don -- na cru -- del che si -- a,
         cru -- del che si -- a,
     Per -- ch'io son vo -- stro, e voi non se -- te mi -- a,
@@ -211,15 +211,15 @@ bassoIV = \relative c' {
 
 bassoLyricsIV = \lyricmode {
     Se la mia vi -- ta se -- te,
-    Co -- me vi -- ver pos -- s’i -- o
-    D’al -- tro ben, d’al -- tro~a -- mor, d’al -- tro de -- si -- o?
+    Co -- me vi -- ver pos -- s'i -- o
+    D'al -- tro ben, d'al -- tro~a -- mor, d'al -- tro de -- si -- o?
     se la mia vi -- ta se -- te,
-    co -- me vi -- ver pos -- s’i -- o
-    d’al -- tro ben, d’al -- tro~a -- mor, d’al -- tro de -- si -- o?
-    E se l’a -- ni -- ma ve -- de
+    co -- me vi -- ver pos -- s'i -- o
+    d'al -- tro ben, d'al -- tro~a -- mor, d'al -- tro de -- si -- o?
+    E se l'a -- ni -- ma ve -- de
     Gli~af -- fet -- ti del suo cor, voi del mio co -- re,
     Non ve -- de -- te la fe -- de?
-    Non ve -- de -- te __ l’a -- mo -- re?
+    Non ve -- de -- te __ l'a -- mo -- re?
     Ma ciò con -- vien, Don -- na cru -- del che si -- a,
 %        cru -- del che si -- a,
         e voi non se -- te mi -- a,
@@ -264,17 +264,17 @@ quintoIV = \relative c' {
 
 quintoLyricsIV = \lyricmode {
 %    Se la mia vi -- ta se -- te,
-    Co -- me vi -- ver pos -- s’i -- o
-    D’al -- tro ben, d’al -- tro~a -- mor, d’al -- tro de -- si -- o?
+    Co -- me vi -- ver pos -- s'i -- o
+    D'al -- tro ben, d'al -- tro~a -- mor, d'al -- tro de -- si -- o?
     Se __ la mia vi -- ta se -- te,
-    co -- me vi -- ver pos -- s’i -- o
-    d’al -- tro ben, d’al -- tro~a -- mor, d’al -- tro de -- si -- o?
-    E se l’a -- ni -- ma ve -- de
+    co -- me vi -- ver pos -- s'i -- o
+    d'al -- tro ben, d'al -- tro~a -- mor, d'al -- tro de -- si -- o?
+    E se l'a -- ni -- ma ve -- de
     Gli~af -- fet -- ti del suo cor,
-    e se l’a -- ni -- ma ve -- de
+    e se l'a -- ni -- ma ve -- de
     gli~af -- fet -- ti del suo cor, voi del mio co -- re,
     Non __ ve -- de -- te la fe -- de?
-    Non ve -- de -- te l’a -- mo -- re?
+    Non ve -- de -- te l'a -- mo -- re?
     Ma ciò con -- vien, Don -- na cru -- del che si -- a,
     Per -- ch'io son vo -- stro, e voi non se -- te mi -- a,
     per -- ch'io __ son vo -- stro~e voi non se -- te mi -- a.

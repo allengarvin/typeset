@@ -3,7 +3,7 @@
 %Ond'ogn'alma par ch'arda
 %Oggi sola ne scorg'al sacro monte;
 %Chi sete ha del bel fonte
-%sù, sù dov’ella ne chiama,
+%sù, sù dov'ella ne chiama,
 %chi virtù cerca e brama
 %corra sopra il Tamigi
 %e segua i sempre suoi degni vestigi.
@@ -46,7 +46,7 @@ cantoLyricsII = \lyricmode {
     On -- de~o -- gni~al -- ma par ch'ar -- da
     Og -- gi so -- la ne scor -- g'al sa -- cro mon -- te;
     Chi se -- te~ha del bel fon -- te
-    Sù sù sù sù sù sù do -- v’el -- la ne chia -- ma,
+    Sù sù sù sù sù sù do -- v'el -- la ne chia -- ma,
     Chi vir -- tù cer -- ca~e bra -- ma
     Cor -- ra so -- pra~il Ta -- mi -- gi,
     Cor -- ra so -- pra~il Ta -- mi -- gi
@@ -96,7 +96,7 @@ altoLyricsII = \lyricmode {
     Og -- gi so -- la ne scor -- g'al sa -- cro mon -- te;
     Chi se -- te,
     Chi se -- te~ha del bel fon -- te
-    Sù sù sù sù sù do -- v’el -- la ne chia -- ma,
+    Sù sù sù sù sù do -- v'el -- la ne chia -- ma,
     Chi vir -- tù cer -- ca~e bra -- ma
     Cor -- ra so -- pra~il Ta -- mi -- gi,
     Cor -- ra so -- pra~il Ta -- mi -- gi
@@ -149,7 +149,7 @@ tenoreLyricsII = \lyricmode {
         al sa -- cro mon -- te;
     Chi se -- te~ha del bel fon -- te,
     Chi se -- te~ha del bel fon -- te
-    Sù sù sù sù sù do -- v’el -- la ne chia -- ma,
+    Sù sù sù sù sù do -- v'el -- la ne chia -- ma,
     Cor -- ra so -- pra~il Ta -- mi -- gi,
     Cor -- ra so -- pra~il Ta -- mi -- gi,
     Cor -- ra so -- pra~il Ta -- mi -- gi
@@ -198,7 +198,7 @@ bassoLyricsII = \lyricmode {
     Og -- gi so -- la ne scor -- g'al sa -- cro mon -- te;
     Chi se -- te~ha del bel fon -- te,
     Chi se -- te~ha del bel fon -- te
-    Sù sù sù sù sù do -- v’el -- la ne chia -- ma,
+    Sù sù sù sù sù do -- v'el -- la ne chia -- ma,
     Cor -- ra so -- pra~il Ta -- mi -- gi,
     Cor -- ra so -- pra~il Ta -- mi -- gi
     E se -- gua~i sem -- pre suoi,
@@ -250,7 +250,7 @@ quintoLyricsII = \lyricmode {
     Chi se -- te,
     Chi se -- te~ha del bel fon -- te,
     Chi se -- te~ha del __ bel fon -- te
-    Sù sù sù sù __ sù sù do -- v’el -- la ne chia -- ma,
+    Sù sù sù sù __ sù sù do -- v'el -- la ne chia -- ma,
     Chi vir -- tù cer -- ca~e bra -- ma
     Cor -- ra so -- pra~il Ta -- mi -- gi,
     Cor -- ra so -- pra~il Ta -- mi -- gi
@@ -302,7 +302,7 @@ sestoLyricsII = \lyricmode {
     Chi se -- te~ha del bel fon -- te,
     Chi se -- te,
     Chi se -- te~ha del bel fon -- te
-    Sù sù sù sù sù do -- v’el -- la ne chia -- ma,
+    Sù sù sù sù sù do -- v'el -- la ne chia -- ma,
     Chi vir -- tù cer -- ca~e bra -- ma
     Cor -- ra so -- pra~il Ta -- mi -- gi,
     Cor -- ra so -- pra~il Ta -- mi -- gi

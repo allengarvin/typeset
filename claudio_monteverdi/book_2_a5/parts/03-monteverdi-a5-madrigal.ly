@@ -6,7 +6,7 @@
 % lieta mi diede poi
 % misto con baci suoi:
 % io 'l bevo, e non so come bevo amore
-% che dolcemente anch’ei mi bacia il core.
+% che dolcemente anch'ei mi bacia il core.
 
 cantoIIIincipit = \relative c' {
     \time 3/1
@@ -62,8 +62,8 @@ cantoLyricsIII = \lyricmode {
     io'l be -- vo, e non so co -- me,
         e non so co -- me,
         e non so co -- me be -- vo~a -- mo -- re
-    Che dol -- ce -- men -- te~an -- ch’ei mi ba -- cia~il co -- re,
-    che dol -- ce -- men -- te~an -- ch’ei mi ba -- cia~il co -- re,
+    Che dol -- ce -- men -- te~an -- ch'ei mi ba -- cia~il co -- re,
+    che dol -- ce -- men -- te~an -- ch'ei mi ba -- cia~il co -- re,
         mi ba -- cia~il co -- re.
 }
 
@@ -128,8 +128,8 @@ altoLyricsIII = \lyricmode {
     Io'l be -- vo,
     io'l be -- vo, e non so co -- me,
         e non so co -- me be -- vo~a -- mo -- re
-    Che dol -- ce -- men -- te~an -- ch’ei mi ba -- cia~il co -- re,
-    che dol -- ce -- men -- te~an -- ch’ei __ mi ba -- cia~il co -- re.
+    Che dol -- ce -- men -- te~an -- ch'ei mi ba -- cia~il co -- re,
+    che dol -- ce -- men -- te~an -- ch'ei __ mi ba -- cia~il co -- re.
 }
 
 tenoreIIIincipit = \relative c' {
@@ -193,9 +193,9 @@ tenoreLyricsIII = \lyricmode {
         e non so co -- me,
     \normalLyrics
         e non so co -- me be -- vo~a -- mo -- re
-    Che dol -- ce -- men -- te~an -- ch’ei mi ba -- cia~il co -- re,
+    Che dol -- ce -- men -- te~an -- ch'ei mi ba -- cia~il co -- re,
         mi ba -- cia~il co -- re,
-    che dol -- ce -- men -- te~an -- ch’ei mi ba -- cia~il co -- re.
+    che dol -- ce -- men -- te~an -- ch'ei mi ba -- cia~il co -- re.
 }
 
 bassoIIIincipit = \relative c {
@@ -257,9 +257,9 @@ bassoLyricsIII = \lyricmode {
         e non so co -- me
     \normalLyrics
             be -- vo~a -- mo -- re
-    Che dol -- ce -- men -- te~an -- ch’ei mi ba -- cia~il co -- re,
+    Che dol -- ce -- men -- te~an -- ch'ei mi ba -- cia~il co -- re,
         mi ba -- cia~il co -- re.
-%    che dol -- ce -- men -- te~an -- ch’ei mi ba -- cia~il co -- re,
+%    che dol -- ce -- men -- te~an -- ch'ei mi ba -- cia~il co -- re,
 %        mi ba -- cia~il co -- re.
 }
 
@@ -318,9 +318,9 @@ quintoLyricsIII = \lyricmode {
     io'l be -- vo, e non so co -- me,
 %        e non so co -- me,
         e non so co -- me be -- vo~a -- mo -- re
-    Che dol -- ce -- men -- te~an -- ch’ei mi ba -- cia~il co -- re,
+    Che dol -- ce -- men -- te~an -- ch'ei mi ba -- cia~il co -- re,
         mi ba -- cia~il co -- re,
-    che dol -- ce -- men -- te~an -- ch’ei mi ba -- cia~il co -- re,
+    che dol -- ce -- men -- te~an -- ch'ei mi ba -- cia~il co -- re,
         mi ba -- cia~il co -- re.
 }
 

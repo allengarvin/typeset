@@ -4,7 +4,7 @@
 % Unto thy throne so high.
 % 
 % Unto the voice of my request,
-% Pour’d out before thy sight,
+% Pour'd out before thy sight,
 % Lord let thine ears attentive be,
 % To hear me day and night.
 
@@ -50,9 +50,9 @@ superiusLyricsVI = \lyricmode {
     un -- to thy throne so high.
 
     Un -- to the voice of my re -- quest,
-    pour’d __ out be -- fore __ thy sight,
+    pour'd __ out be -- fore __ thy sight,
         thy sight,
-    pour’d __ out be -- fore __ thy sight,
+    pour'd __ out be -- fore __ thy sight,
         be -- fore thy sight,
     Lord let thine ears at -- ten -- tive __ be,
     to hear me day and night,
@@ -116,9 +116,9 @@ tenorLyricsVI = \lyricmode {
     un -- to __ thy throne so high.
 
     Un -- to the voice of my re -- quest,
-    pour’d out __ be -- fore thy sight, __
+    pour'd out __ be -- fore thy sight, __
     \ijLyrics
-    pour’d  __ out be -- fore __ thy sight, __ 
+    pour'd  __ out be -- fore __ thy sight, __ 
     \normalLyrics
     Lord let thine ears at -- ten -- tive be,
     to hear me day and night,
@@ -178,7 +178,7 @@ bassusLyricsVI = \lyricmode {
     un -- to thy throne so high.
 
     Un -- to the voice of my re -- quest,
-    pour’d out __ be -- fore thy sight,
+    pour'd out __ be -- fore thy sight,
         be -- fore thy __ sight,
         be -- fore thy __ sight,
     Lord let thine ears at -- ten -- tive be,

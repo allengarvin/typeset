@@ -5,7 +5,7 @@
 % E corri in braccio,
 % Corri cor mio
 % Cucù non odi?
-% Egli t’invita ed io.
+% Egli t'invita ed io.
 
 cantoIincipit = \relative c'' {
     \time 4/4
@@ -62,20 +62,20 @@ cantoLyricsI = \lyricmode {
     Cor -- ri cor -- ri cor mi -- o!
         cor mi -- o!
     Cu -- cu, cu -- cu cu, cu -- cu, cu -- cu cu non o -- di?
-    E -- gli t’in -- vi -- ta~ed i -- o,
-    E -- gli t’in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
     \ijLyrics
-    E -- gli t’in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
     \normalLyrics
     E cor -- ri~in brac -- cio!,
     Cor -- ri cor -- ri cor mi -- o!
     Cor -- ri cor -- ri cor mi -- o!
         cor mi -- o!
     Cu -- cu, cu -- cu cu, cu -- cu, cu -- cu cu non o -- di?
-    E -- gli t’in -- vi -- ta~ed i -- o,
-    E -- gli t’in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
     \ijLyrics
-    E -- gli t’in -- vi -- ta~ed i -- o.
+    E -- gli t'in -- vi -- ta~ed i -- o.
     \normalLyrics
 }
 
@@ -135,20 +135,20 @@ altoLyricsI = \lyricmode {
     Cor -- ri cor -- ri cor mi -- o!
         cor mi -- o!
     Cu -- cu, cu -- cu cu, cu -- cu, cu -- cu cu non o -- di?
-    E -- gli t’in -- vi -- ta~ed i -- o,
-    E -- gli t’in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
     \ijLyrics
-    E -- gli t’in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
     \normalLyrics
     E cor -- ri~in brac -- cio!,
     Cor -- ri cor -- ri cor mi -- o!
     Cor -- ri cor -- ri cor mi -- o!
         cor mi -- o!
     Cu -- cu, cu -- cu cu, cu -- cu, cu -- cu cu non o -- di?
-    E -- gli t’in -- vi -- ta~ed i -- o,
-    E -- gli t’in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
     \ijLyrics
-    E -- gli t’in -- vi -- ta~ed i -- o.
+    E -- gli t'in -- vi -- ta~ed i -- o.
     \normalLyrics
 }
 
@@ -204,16 +204,16 @@ tenoreLyricsI = \lyricmode {
     Cor -- ri cor -- ri cor mi -- o!
     Cu -- cu, cu -- cu cu, cu -- cu, cu -- cu cu cu -- cu non o -- di,
         non o -- di?
-    E -- gli t’in -- vi -- ta~ed i -- o,
-    E -- gli t’in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
     E cor -- ri~in brac -- cio!,
 
     Cor -- ri cor -- ri cor mi -- o!
     Cor -- ri cor -- ri cor mi -- o!
     Cu -- cu, cu -- cu, cu -- cu cu, cu -- cu, cu -- cu cu non o -- di,
         non o -- di?
-    E -- gli t’in -- vi -- ta~ed i -- o,
-    E -- gli t’in -- vi -- ta~ed i -- o.
+    E -- gli t'in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o.
 }
 
 bassoIincipit = \relative c' {
@@ -261,13 +261,13 @@ bassoLyricsI = \lyricmode {
     E cor -- ri~in brac -- cio!,
     Cor -- ri cor -- ri cor mi -- o!
     Cu -- cu, __ cu -- cu non o -- di?
-    E -- gli t’in -- vi -- ta~ed i -- o,
-    E -- gli t’in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o,
     E cor -- ri~in brac -- cio!,
     Cor -- ri cor -- ri cor mi -- o!
     Cu -- cu, __ cu -- cu non o -- di?
-    E -- gli t’in -- vi -- ta~ed i -- o,
-    E -- gli t’in -- vi -- ta~ed i -- o.
+    E -- gli t'in -- vi -- ta~ed i -- o,
+    E -- gli t'in -- vi -- ta~ed i -- o.
 }
 
 cantoIincipitVoice = <<

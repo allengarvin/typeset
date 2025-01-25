@@ -12,7 +12,7 @@
 % ch'infiamma i nostri cori.
 % Viva la bella Clori!
 %  
-% Adapted from Battista Guarini’s Dimmi, gentil pastore
+% Adapted from Battista Guarini's Dimmi, gentil pastore
 
 
 cantoOneXXincipit = \relative c' {

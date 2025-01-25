@@ -1,8 +1,8 @@
 %Ben trovati, o compagnia.
 %Su, scacciam maninconia,
 %pastorelle vezzoselle,
-%leggiadrette, vagh’e belle.
-%Voi pastori pien d’ardori
+%leggiadrette, vagh'e belle.
+%Voi pastori pien d'ardori
 %fomentate i vostri amori.
 %Spensierato son mandato
 %per silenzio in questo prato,

@@ -30,9 +30,9 @@ cantoXIV = \relative c'' {
 }
 
 cantoLyricsXIV = \lyricmode {
-    Se m’o -- dii~e'n ciò di -- lett -- o~al -- cun tu sen -- ti,
-    Non te’n ven -- go~a pri -- var: go -- di pur d’es -- so.
-    Giu -- sto~a te pa -- re~e sia -- si. An -- ch’io le gen -- ti
+    Se m'o -- dii~e'n ciò di -- lett -- o~al -- cun tu sen -- ti,
+    Non te'n ven -- go~a pri -- var: go -- di pur d'es -- so.
+    Giu -- sto~a te pa -- re~e sia -- si. An -- ch'io le gen -- ti
     Cri -- stia -- ne~o -- diai, nol ne -- go, o -- diai te stes -- so.
     Nac -- qui pa -- ga -- na, u -- sai va -- ri~ar -- go -- men -- ti,
         u -- sai va -- ri~ar -- go -- men -- ti,
@@ -42,7 +42,7 @@ cantoLyricsXIV = \lyricmode {
     Te per -- se -- guii, te pre -- si, 
     \normalLyrics
         e te lon -- ta -- no
-    da l’ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 altoXIVincipit = \relative c'' {
@@ -75,9 +75,9 @@ altoXIV = \relative c'' {
 }
 
 altoLyricsXIV = \lyricmode {
-    Se m’o -- dii~e'n ciò di -- lett -- o~al -- cun tu sen -- ti,
-    Non te’n ven -- go~a pri -- var: go -- di pur d’es -- so.
-    Giu -- sto~a te pa -- re~e sia -- si. An -- ch’io le gen -- ti
+    Se m'o -- dii~e'n ciò di -- lett -- o~al -- cun tu sen -- ti,
+    Non te'n ven -- go~a pri -- var: go -- di pur d'es -- so.
+    Giu -- sto~a te pa -- re~e sia -- si. An -- ch'io le gen -- ti
     Cri -- stia -- ne~o -- diai, nol ne -- go, o -- diai te stes -- so.
     Nac -- qui pa -- ga -- na, u -- sai va -- ri~ar -- go -- men -- ti,
         \ijLyrics
@@ -89,7 +89,7 @@ altoLyricsXIV = \lyricmode {
     Te per -- se -- guii, te pre -- si~e 
     \normalLyrics
         te lon -- ta -- no
-    da l’ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 tenoreXIVincipit = \relative c' {
@@ -121,8 +121,8 @@ tenoreXIV = \relative c' {
 }
 
 tenoreLyricsXIV = \lyricmode {
-    Non te’n ven -- go~a pri -- var: __ go -- di pur d’es -- so.
-    Giu -- sto~a te pa -- re e sia -- si. An -- ch’io le gen -- ti
+    Non te'n ven -- go~a pri -- var: __ go -- di pur d'es -- so.
+    Giu -- sto~a te pa -- re e sia -- si. An -- ch'io le gen -- ti
     Cri -- stia -- ne~o -- diai, nol ne -- go, o -- diai te stes -- so,
     \ijLyrics
         o -- diai te stes -- so. __
@@ -131,7 +131,7 @@ tenoreLyricsXIV = \lyricmode {
     Che per me fos -- se~il vo -- stro~im -- pe -- rio~o -- pres -- so;
     Te per -- se -- guii, te pre -- si, 
         e __ te lon -- ta -- no
-    da l’ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 bassoXIVincipit = \relative c' {
@@ -163,15 +163,15 @@ bassoXIV = \relative c' {
 }
 
 bassoLyricsXIV = \lyricmode {
-    Non te’n ven -- go~a pri -- var: go -- di pur d’es -- so.
-    Giu -- sto~a te pa -- re~e sia -- si. An -- ch’io le gen -- ti
+    Non te'n ven -- go~a pri -- var: go -- di pur d'es -- so.
+    Giu -- sto~a te pa -- re~e sia -- si. An -- ch'io le gen -- ti
     Cri -- stia -- ne~o -- diai, nol ne -- go, o -- diai te stes -- so,
     Nac -- qui pa -- ga -- na, u -- sai va -- ri~ar -- go -- men -- ti,
         va -- ri~ar -- go -- men -- ti,
     Che per me fos -- se~il vo -- stro~im -- pe -- rio~o -- pres -- so;
     Te per -- se -- guii, te pre -- si, 
         e te lon -- ta -- no
-    da l’ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 quintoXIVincipit = \relative c' {
@@ -203,9 +203,9 @@ quintoXIV = \relative c' {
 }
 
 quintoLyricsXIV = \lyricmode {
-    Se m’o -- dii~e'n ciò di -- lett -- o~al -- cun tu sen -- ti,
-    Non te’n ven -- go~a pri -- var: go -- di pur d’es -- so.
-    Giu -- sto~a te pa -- re~e sia -- si. An -- ch’io le gen -- ti
+    Se m'o -- dii~e'n ciò di -- lett -- o~al -- cun tu sen -- ti,
+    Non te'n ven -- go~a pri -- var: go -- di pur d'es -- so.
+    Giu -- sto~a te pa -- re~e sia -- si. An -- ch'io le gen -- ti
     Cri -- stia -- ne~o -- diai, nol ne -- go, o -- diai te stes -- so.
     Nac -- qui pa -- ga -- na, u -- sai va -- ri~ar -- go -- men -- ti,
         va -- ri~ar -- go -- men -- ti,
@@ -216,7 +216,7 @@ quintoLyricsXIV = \lyricmode {
     Te per -- se -- guii, te pre -- si~e
     \normalLyrics
         te lon -- ta -- no
-    da l’ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 cantoXIVincipitVoice = <<

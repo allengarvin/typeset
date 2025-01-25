@@ -20,7 +20,7 @@
 % but getting very dainty.
 % 
 % For Lawyers and their pleading,
-% they’steem it not a straw,
+% they'steem it not a straw,
 % they think that honest meaning
 % is of itself a law,
 % where conscience judgeth plainly,
@@ -96,7 +96,7 @@ superiusLyricsXIXb = \lyricmode {
 
 superiusLyricsXIXc = \lyricmode {
     For Law -- yers and their plead -- ing,
-    they ’steem it not a __ straw,
+    they 'steem it not a __ straw,
     they think that hon -- est mean -- ing
     is of it -- self __ a __ law,
     where con -- science judg -- eth plain -- ly,

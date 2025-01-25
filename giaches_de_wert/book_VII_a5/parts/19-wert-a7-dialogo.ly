@@ -1,18 +1,18 @@
 % In qual parte sì ratto i vanni muove
 % il vincitor augel del sommo Giove?
 % A farsi un nido altiero,
-% ove la prole sua nasca e s’impiumi.
+% ove la prole sua nasca e s'impiumi.
 % Di che saranno al nido i nodi avinti?
-% d’odorosi giacinti.
+% d'odorosi giacinti.
 % Ma questo, quando e dove?
-% Or ora e nella destra al Re de’ fiumi.
+% Or ora e nella destra al Re de' fiumi.
 % E per librarlo, si che non sia offeso
 % da vento iniquo e fiero,
 % di che gli porrà il peso?
 % Di bianca perla e schietta.
 % O Aquila, o Giacinti! O perla eletta!
 % O Gonzaghi, o Farnesi, o Margherita!
-% Qual s’aspetta da voi prole gradita.
+% Qual s'aspetta da voi prole gradita.
 
 cantoXIXincipit = \relative c'' {
     \time 4/4
@@ -70,15 +70,15 @@ cantoLyricsXIX = \lyricmode {
     Il vin -- ci -- tor au -- gel del som -- mo Gio -- ve?
 
     % A far -- si~un ni -- do~al -- tie -- ro,
-    % O -- ve la pro -- le sua na -- sca~e s’im -- piu -- mi.
+    % O -- ve la pro -- le sua na -- sca~e s'im -- piu -- mi.
 
     Di che sa -- ran -- no~al ni -- do~i no -- di~a -- vin -- ti?
 
-    % d’o -- do -- ro -- si gia -- cin -- ti.
+    % d'o -- do -- ro -- si gia -- cin -- ti.
 
     Ma que -- sto, quan -- do e do -- ve?
 
-    % Or o -- ra~e nel -- la de -- stra~al Re de’ fiu -- mi.
+    % Or o -- ra~e nel -- la de -- stra~al Re de' fiu -- mi.
     E per li -- brar -- lo, si che non sia~of -- fe -- so
     Da ven -- to,
     da ven -- to~i -- ni -- quo~e fie -- ro,
@@ -98,9 +98,9 @@ cantoLyricsXIX = \lyricmode {
     o A -- qui -- la~o Gia -- cin -- ti, 
     o A -- qui -- la~o Gia -- cin -- ti, 
     O Gon -- za -- ghi~o Far -- ne -- si o Mar -- ghe -- ri -- ta!
-    Qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta,
+    Qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta,
         o per -- la~e -- let -- ta,
-    qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta.
+    qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta.
 }
 
 altoXIXincipit = \relative c' {
@@ -156,15 +156,15 @@ altoLyricsXIX = \lyricmode {
     il vin -- ci -- tor au -- gel del som -- mo Gio -- ve?
 %
 %    % A far -- si~un ni -- do~al -- tie -- ro,
-%    % O -- ve la pro -- le sua na -- sca~e s’im -- piu -- mi.
+%    % O -- ve la pro -- le sua na -- sca~e s'im -- piu -- mi.
 %
     Di che sa -- ran -- no~al ni -- do~i no -- di~a -- vin -- ti?
 %
-%    % d’o -- do -- ro -- si gia -- cin -- ti.
+%    % d'o -- do -- ro -- si gia -- cin -- ti.
 %
     Ma que -- sto, quan -- do~e do -- ve?
 %
-%    % Or o -- ra~e nel -- la de -- stra~al Re de’ fiu -- mi.
+%    % Or o -- ra~e nel -- la de -- stra~al Re de' fiu -- mi.
     E per li -- brar -- lo, si che non sia~of -- fe -- so
     Da ven -- to~i -- ni -- quo~e fie -- ro,
     da ven -- to~i -- ni -- quo~e fie -- ro,
@@ -178,7 +178,7 @@ altoLyricsXIX = \lyricmode {
     o A -- qui -- la~o Gia -- cin -- ti,
     O __ Gon -- za -- ghi~o Far -- ne -- si~o Mar -- ghe -- ri -- ta!
     o A -- qui -- la~o Gia -- cin -- ti~o per -- la~e -- let -- ta,
-    Qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta,
+    Qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta,
     o A -- qui -- la,
     o A -- qui -- la~o Gia -- cin -- ti,
     o A -- qui -- la~o Gia -- cin -- ti,
@@ -187,7 +187,7 @@ altoLyricsXIX = \lyricmode {
         Mar -- ghe -- ri -- ta!
     o A -- qui -- la,
     o A -- qui -- la~o Gia -- cin -- ti~o per -- la~e -- let -- ta,
-    qual __ s’a -- spet -- ta da voi pro -- le gra -- di -- ta.
+    qual __ s'a -- spet -- ta da voi pro -- le gra -- di -- ta.
 }
 
 tenoreXIXincipit = \relative c' {
@@ -236,16 +236,16 @@ tenoreLyricsXIX = \lyricmode {
 %
     A far -- si~un ni -- do~al -- tie -- ro,
     O -- ve la pro -- le sua,
-    o -- ve la pro -- le sua na -- sca~e s’im -- piu -- mi,
-        na -- sca~e s’im -- piu -- mi.
+    o -- ve la pro -- le sua na -- sca~e s'im -- piu -- mi,
+        na -- sca~e s'im -- piu -- mi.
 %
 %    Di che sa -- ran -- no~al ni -- do~i no -- di~a -- vin -- ti?
 %
-    D’o -- do -- ro -- si gia -- cin -- ti.
+    D'o -- do -- ro -- si gia -- cin -- ti.
 %
 %    Ma que -- sto, quan -- do e do -- ve?
 %
-    Or o -- ra e nel -- la de -- stra~al Re de’ fiu -- mi.
+    Or o -- ra e nel -- la de -- stra~al Re de' fiu -- mi.
 %    E per li -- brar -- lo, si che non sia~of -- fe -- so
 %    Da ven -- to,
 %    da ven -- to~i -- ni -- quo~e fie -- ro,
@@ -257,7 +257,7 @@ tenoreLyricsXIX = \lyricmode {
     o A -- qui -- la~o Gia -- cin -- ti,
     o A -- qui -- la~o Gia -- cin -- ti o per -- la~e -- let -- ta,
     O __ Gon -- za -- ghi~o Far -- ne -- si~o Mar -- ghe -- ri -- ta!
-    Qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta,
+    Qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta,
 
     o A -- qui -- la~o Gia -- cin -- ti~o per -- la~e -- let -- ta,
         o per -- la~e -- let -- ta,
@@ -265,11 +265,11 @@ tenoreLyricsXIX = \lyricmode {
     o A -- qui -- la,
     o A -- qui -- la~o Gia -- cin -- ti,
     o __ Gon -- za -- ghi~o Far -- ne -- si~o Mar -- ghe -- ri -- ta!
-    qual s’a -- spet -- ta da voi pro -- le __ gra -- di -- ta,
+    qual s'a -- spet -- ta da voi pro -- le __ gra -- di -- ta,
     o A -- qui -- la~o Gia -- cin -- ti~o per -- la~e -- let -- ta,
         o per -- la~e -- let -- ta,
 
-    qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta.
+    qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta.
 }
 
 bassoXIXincipit = \relative c {
@@ -318,15 +318,15 @@ bassoLyricsXIX = \lyricmode {
     il vin -- ci -- tor au -- gel del som -- mo Gio -- ve?
 %
 %    % A far -- si~un ni -- do~al -- tie -- ro,
-%    % O -- ve la pro -- le sua na -- sca~e s’im -- piu -- mi.
+%    % O -- ve la pro -- le sua na -- sca~e s'im -- piu -- mi.
 %
     Di che sa -- ran -- no~al ni -- do~i no -- di~a -- vin -- ti?
 %
-%    % d’o -- do -- ro -- si gia -- cin -- ti.
+%    % d'o -- do -- ro -- si gia -- cin -- ti.
 %
     Ma que -- sto, quan -- do~e do -- ve?
 %
-%    % Or o -- ra~e nel -- la de -- stra~al Re de’ fiu -- mi.
+%    % Or o -- ra~e nel -- la de -- stra~al Re de' fiu -- mi.
     E per li -- brar -- lo, si che non sia~of -- fe -- so
     Da ven -- to~i -- ni -- quo~e fie -- ro,
     da ven -- to~i -- ni -- quo~e fie -- ro,
@@ -340,14 +340,14 @@ bassoLyricsXIX = \lyricmode {
     o A -- qui -- la~o __ Gia -- cin -- ti,
         o per -- la~e -- let -- ta,
     O __ Gon -- za -- ghi~o Far -- ne -- si~o Mar -- ghe -- ri -- ta!
-    Qual __ s’a -- spet -- ta da voi __ pro -- le gra -- di -- ta,
+    Qual __ s'a -- spet -- ta da voi __ pro -- le gra -- di -- ta,
 
     o A -- qui -- la~o Gia -- cin -- ti,
     o A -- qui -- la~o __ Gia -- cin -- ti,
         o per -- la~e -- let -- ta,
     o __ Gon -- za -- ghi~o Far -- ne -- si~o Mar -- ghe -- ri -- ta!
-    qual __ s’a -- spet -- ta da voi __ pro -- le gra -- di -- ta,
-    qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta.
+    qual __ s'a -- spet -- ta da voi __ pro -- le gra -- di -- ta,
+    qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta.
 
 }
 
@@ -403,15 +403,15 @@ quintoLyricsXIX = \lyricmode {
     il vin -- ci -- tor au -- gel del som -- mo Gio -- ve?
 
 %    % A far -- si~un ni -- do~al -- tie -- ro,
-%    % O -- ve la pro -- le sua na -- sca~e s’im -- piu -- mi.
+%    % O -- ve la pro -- le sua na -- sca~e s'im -- piu -- mi.
 %
     Di che sa -- ran -- no~al ni -- do~i no -- di~a -- vin -- ti?
 %
-%    % d’o -- do -- ro -- si gia -- cin -- ti.
+%    % d'o -- do -- ro -- si gia -- cin -- ti.
 %
     Ma que -- sto, quan -- do~e do -- ve?
 %
-%    % Or o -- ra~e nel -- la de -- stra~al Re de’ fiu -- mi.
+%    % Or o -- ra~e nel -- la de -- stra~al Re de' fiu -- mi.
     E per li -- brar -- lo, si che non sia~of -- fe -- so
     Da ven -- to~i -- ni -- quo~e fie -- ro,
     da ven -- to~i -- ni -- quo~e fie -- ro,
@@ -425,9 +425,9 @@ quintoLyricsXIX = \lyricmode {
     o A -- qui -- la,
     o A -- qui -- la~o Gia -- cin -- ti,
     O __ Gon -- za -- ghi~o Far -- ne -- si~o Mar -- ghe -- ri -- ta!
-    Qual s’a -- spet -- ta da voi pro -- le __ gra -- di -- ta,
+    Qual s'a -- spet -- ta da voi pro -- le __ gra -- di -- ta,
     \ijLyrics
-    qual __ s’a -- spet -- ta da voi __ pro -- le gra -- di -- ta,
+    qual __ s'a -- spet -- ta da voi __ pro -- le gra -- di -- ta,
     \normalLyrics
     o A -- qui -- la,
     o A -- qui -- la~o Gia -- cin -- ti,
@@ -436,11 +436,11 @@ quintoLyricsXIX = \lyricmode {
     \normalLyrics
         o per -- la~e -- let -- ta,
     o __ Gon -- za -- ghi~o Far -- ne -- si~o Mar -- ghe -- ri -- ta!
-    qual s’a -- spet -- ta da voi pro -- le __ gra -- di -- ta,
+    qual s'a -- spet -- ta da voi pro -- le __ gra -- di -- ta,
     \ijLyrics
-    qual __ s’a -- spet -- ta da voi __ pro -- le gra -- di -- ta,
+    qual __ s'a -- spet -- ta da voi __ pro -- le gra -- di -- ta,
     \normalLyrics
-    qual s’a -- spet -- ta da voi pro -- le __ gra -- di -- ta.
+    qual s'a -- spet -- ta da voi pro -- le __ gra -- di -- ta.
 
 }
 
@@ -493,17 +493,17 @@ sestaLyricsXIX = \lyricmode {
 %    Il vin -- ci -- tor au -- gel del som -- mo Gio -- ve?
 %
     A far -- si~un ni -- do~al -- tie -- ro,
-    O -- ve la pro -- le sua na -- sca~e s’im -- piu -- mi,
-        na -- sca~e s’im -- piu -- mi,
-        na -- sca~e s’im -- piu -- mi.
+    O -- ve la pro -- le sua na -- sca~e s'im -- piu -- mi,
+        na -- sca~e s'im -- piu -- mi,
+        na -- sca~e s'im -- piu -- mi.
 %
 %    Di che sa -- ran -- no~al ni -- do~i no -- di~a -- vin -- ti?
 %
-    D’o -- do -- ro -- si gia -- cin -- ti.
+    D'o -- do -- ro -- si gia -- cin -- ti.
 %
 %    Ma que -- sto, quan -- do e do -- ve?
 %
-    Or o -- ra e nel -- la de -- stra~al Re de’ fiu -- mi.
+    Or o -- ra e nel -- la de -- stra~al Re de' fiu -- mi.
 %    E per li -- brar -- lo, si che non sia~of -- fe -- so
 %    Da ven -- to,
 %    da ven -- to~i -- ni -- quo~e fie -- ro,
@@ -527,8 +527,8 @@ sestaLyricsXIX = \lyricmode {
         Gia -- cin -- ti,
     o __ Gon -- za -- ghi~o Far -- ne -- si~o Mar -- ghe -- ri -- ta!
     o A -- qui -- la~o Gia -- cin -- ti~o per -- la~e -- let -- ta,
-    Qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta,
-    qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta.
+    Qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta,
+    qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta.
 }
 
 settimaXIXincipit = \relative c'' {
@@ -577,16 +577,16 @@ settimaLyricsXIX = \lyricmode {
 %    Il vin -- ci -- tor au -- gel del som -- mo Gio -- ve?
 %
     A far -- si~un ni -- do~al -- tie -- ro,
-    O -- ve la pro -- le sua na -- sca~e s’im -- piu -- mi,
-        na -- sca~e s’im -- piu -- mi.
+    O -- ve la pro -- le sua na -- sca~e s'im -- piu -- mi,
+        na -- sca~e s'im -- piu -- mi.
 %
 %    Di che sa -- ran -- no~al ni -- do~i no -- di~a -- vin -- ti?
 %
-    D’o -- do -- ro -- si gia -- cin -- ti.
+    D'o -- do -- ro -- si gia -- cin -- ti.
 %
 %    Ma que -- sto, quan -- do e do -- ve?
 %
-    Or o -- ra e nel -- la de -- stra~al Re de’ fiu -- mi.
+    Or o -- ra e nel -- la de -- stra~al Re de' fiu -- mi.
 %    E per li -- brar -- lo, si che non sia~of -- fe -- so
 %    Da ven -- to,
 %    da ven -- to~i -- ni -- quo~e fie -- ro,
@@ -597,7 +597,7 @@ settimaLyricsXIX = \lyricmode {
     o A -- qui -- la~o Gia -- cin -- ti,
     o A -- qui -- la~o Gia -- cin -- ti,
     O Gon -- za -- ghi~o Far -- ne -- si o Mar -- ghe -- ri -- ta!
-    Qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta,
+    Qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta,
     o A -- qui -- la~o Gia -- cin -- ti,
     o A -- qui -- la~o Gia -- cin -- ti,
     o A -- qui -- la~o Gia -- cin -- ti,
@@ -606,7 +606,7 @@ settimaLyricsXIX = \lyricmode {
     o A -- qui -- la~o Gia -- cin -- ti~o per -- la~e -- let -- ta,
     o A -- qui -- la~o Gia -- cin -- ti,
         o per -- la~e -- let -- ta,
-    qual s’a -- spet -- ta da voi pro -- le gra -- di -- ta.
+    qual s'a -- spet -- ta da voi pro -- le gra -- di -- ta.
 }
 
 cantoXIXincipitVoice = <<

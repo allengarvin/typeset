@@ -1,9 +1,9 @@
 % Invido fiume a miei desir rubello,
 % deh! perché il vago e bello
 % specchio del volto della Ninfa mia
-% m’ascondi? Ahi! sorte ria!
+% m'ascondi? Ahi! sorte ria!
 % E languendo il pastor pietosi accenti,
-% risonar l’ond’e i venti:
+% risonar l'ond'e i venti:
 % deh, vieni Silvia, vieni a darmi aita
 % con tua beltà infinita.
 
@@ -39,12 +39,12 @@ cantoIX = \relative c'' {
 
 cantoLyricsIX = \lyricmode {
     In -- vi -- do fiu -- me a miei de -- sir ru -- bel -- lo,
-    Deh! __ per -- ch’il va -- go~e bel -- lo
+    Deh! __ per -- ch'il va -- go~e bel -- lo
     Spec -- chio del vol -- to del -- la Nin -- fa mi -- a
-    M’a -- scon -- di? Ahi! __ sor -- te ri -- a,
+    M'a -- scon -- di? Ahi! __ sor -- te ri -- a,
         ahi! __ sor -- te ri -- a!
     E lan -- guen -- do~il pa -- stor pie -- to -- si~ac -- cen -- ti,
-    Ri -- so -- nar l’on -- d’e~i ven -- ti:
+    Ri -- so -- nar l'on -- d'e~i ven -- ti:
     Deh, vie -- ni Sil -- via, vie -- ni,
     deh, vie -- ni Sil -- via, vie -- ni~a dar -- mi~a -- i -- ta
     Con tua bel -- tà~in -- fi -- ni -- ta,
@@ -80,12 +80,12 @@ altoIX = \relative c' {
 
 altoLyricsIX = \lyricmode {
     In -- vi -- do fiu -- me a miei de -- sir ru -- bel -- lo,
-    Deh! __ per -- ch’il va -- go~e bel -- lo
-%    M’a -- scon -- di? 
+    Deh! __ per -- ch'il va -- go~e bel -- lo
+%    M'a -- scon -- di? 
         Ahi! sor -- te ri -- a,
         ahi! sor -- te ri -- a!
     E lan -- guen -- do~il pa -- stor __ pie -- to -- si~ac -- cen -- ti,
-    Ri -- so -- nar l’on -- d’e~i ven -- ti:
+    Ri -- so -- nar l'on -- d'e~i ven -- ti:
     Deh, vie -- ni Sil -- via, vie -- ni,
     deh, vie -- ni Sil -- via, vie -- ni~a dar -- mi~a -- i -- ta
     Con tua bel -- tà~in -- fi -- ni -- ta,
@@ -122,13 +122,13 @@ tenoreIX = \relative c' {
 
 tenoreLyricsIX = \lyricmode {
     In -- vi -- do fiu -- me a miei de -- sir ru -- bel -- lo,
-%    Deh! per -- ch’il va -- go~e bel -- lo
+%    Deh! per -- ch'il va -- go~e bel -- lo
     Spec -- chio del vol -- to del -- la Nin -- fa mi -- a
-    M’a -- scon -- di? Ahi! sor -- te ri -- a!
+    M'a -- scon -- di? Ahi! sor -- te ri -- a!
 %        ahi! sor -- te ri -- a!
     E lan -- guen -- do~il pa -- stor pie -- to -- si~ac -- cen -- ti,
-    Ri -- so -- nar l’on -- d’e~i ven -- ti,
-        l’on -- d’e~i ven -- ti:
+    Ri -- so -- nar l'on -- d'e~i ven -- ti,
+        l'on -- d'e~i ven -- ti:
     Deh, vie -- ni Sil -- via, vie -- ni,
         vie -- ni~a dar -- mi~a -- i -- ta
     Con tua bel -- tà~in -- fi -- ni -- ta,
@@ -164,13 +164,13 @@ bassoIX = \relative c, {
 
 bassoLyricsIX = \lyricmode {
     In -- vi -- do fiu -- me a miei de -- sir ru -- bel -- lo,
-    Deh! __ per -- ch’il va -- go~e bel -- lo
+    Deh! __ per -- ch'il va -- go~e bel -- lo
 %    Spec -- chio del vol -- to del -- la Nin -- fa mia
-%    M’a -- scon -- di? 
+%    M'a -- scon -- di? 
         Ahi! __ sor -- te ri -- a!
 %        ahi! sor -- te ri -- a!
     E lan -- guen -- do~il pa -- stor pie -- to -- si~ac -- cen -- ti,
-    Ri -- so -- nar l’on -- d’e~i ven -- ti:
+    Ri -- so -- nar l'on -- d'e~i ven -- ti:
     Deh, vie -- ni Sil -- via, vie -- ni~a dar -- mi~a -- i -- ta
     Con tua bel -- tà~in -- fi -- ni -- ta.
 }
@@ -208,12 +208,12 @@ quintoIX = \relative c' {
 
 quintoLyricsIX = \lyricmode {
     In -- vi -- do fiu -- me a miei de -- sir ru -- bel -- lo,
-    Deh! __ per -- ch’il va -- go~e bel -- lo
+    Deh! __ per -- ch'il va -- go~e bel -- lo
     Spec -- chio del vol -- to del -- la Nin -- fa mi -- a
-    M’a -- scon -- di,
-    m’a -- scon -- di? Ahi! __ sor -- te __ ri -- a!
+    M'a -- scon -- di,
+    m'a -- scon -- di? Ahi! __ sor -- te __ ri -- a!
     E lan -- guen -- do~il pa -- stor pie -- to -- si~ac -- cen -- ti,
-    Ri -- so -- nar l’on -- d’e~i ven -- ti:
+    Ri -- so -- nar l'on -- d'e~i ven -- ti:
     Deh, vie -- ni Sil -- via, vie -- ni,
     deh, vie -- ni Sil -- via, vie -- ni~a dar -- mi~a -- i -- ta
     Con tua bel -- tà~in -- fi -- ni -- ta,

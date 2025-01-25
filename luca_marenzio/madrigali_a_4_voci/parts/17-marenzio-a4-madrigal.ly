@@ -46,11 +46,11 @@ cantoLyricsXVII = \lyricmode {
     Co -- sì fia sem -- pre~e lo -- da~ha -- ron -- ne~e van -- to,
     Che scri -- ve -- ras -- si
     Che scri -- ve -- ras -- si
-    Que -- sti ser -- vo d’A -- mor vis -- se~e mo -- rì -- o,
+    Que -- sti ser -- vo d'A -- mor vis -- se~e mo -- rì -- o,
     Che scri -- ve -- ras -- si
     Che scri -- ve -- ras -- si  al mio se -- pol -- chro for -- se,
-    Que -- sti ser -- vo d’A -- mor __ vis -- se~e mo -- rì -- o,
-    Que -- sti ser -- vo d’A -- mor __ vis -- se~e mo -- rì -- o.
+    Que -- sti ser -- vo d'A -- mor __ vis -- se~e mo -- rì -- o,
+    Que -- sti ser -- vo d'A -- mor __ vis -- se~e mo -- rì -- o.
 }
 
 altoXVIIincipit = \relative c' {
@@ -102,11 +102,11 @@ altoLyricsXVII = \lyricmode {
         e lo -- da~ha -- ron -- ne~e van -- to,
     Co -- sì fia sem -- pre e lo -- da~ha -- ron -- ne~e van -- to __
     Che scri -- ve -- ras -- si
-    Que -- sti ser -- vo d’A -- mor vis -- se~e __ mo -- rì -- o,
+    Que -- sti ser -- vo d'A -- mor vis -- se~e __ mo -- rì -- o,
     Che scri -- ve -- ras -- si al mio se -- pol -- chro for -- se,
-    Que -- sti ser -- vo d’A -- mor
-    Que -- sti ser -- vo d’A -- mor vis -- se~e mo -- rì -- o,
-    Que -- sti ser -- vo d’A -- mor __ vis -- se~e mo -- rì -- o.
+    Que -- sti ser -- vo d'A -- mor
+    Que -- sti ser -- vo d'A -- mor vis -- se~e mo -- rì -- o,
+    Que -- sti ser -- vo d'A -- mor __ vis -- se~e mo -- rì -- o.
 }
 
 tenoreXVIIincipit = \relative c' {
@@ -160,10 +160,10 @@ tenoreLyricsXVII = \lyricmode {
         e lo -- da~ha -- ron -- ne~e van -- to,
         e lo -- da~ha -- ron -- ne~e van -- to,
     Che scri -- ve -- ras -- si
-    Que -- sti ser -- vo d’A -- mor __ vis -- se~e mo -- rì -- o,
+    Que -- sti ser -- vo d'A -- mor __ vis -- se~e mo -- rì -- o,
     Che scri -- ve -- ras -- si al mio se -- pol -- chro for -- se,
-    Que -- sti ser -- vo d’A -- mor
-    Que -- sti ser -- vo d’A -- mor vis -- se~e mo -- rì -- o,
+    Que -- sti ser -- vo d'A -- mor
+    Que -- sti ser -- vo d'A -- mor vis -- se~e mo -- rì -- o,
          vis -- se~e mo -- rì -- o.
 }
 
@@ -215,9 +215,9 @@ bassoLyricsXVII = \lyricmode {
     Co -- sì fia sem -- pre e lo -- da~ha -- ron -- ne~e van -- to,
         e lo -- da~ha -- ron -- ne~e van -- to,
     Che scri -- ve -- ras -- si~al mio se -- pol -- chro for -- se,
-    Que -- sti ser -- vo d’A -- mor vis -- se~e mo -- rì -- o,
+    Que -- sti ser -- vo d'A -- mor vis -- se~e mo -- rì -- o,
     Che scri -- ve -- ras -- si~al mio se -- pol -- chro for -- se,
-    Que -- sti ser -- vo d’A -- mor __ vis -- se~e mo -- rì -- o __
+    Que -- sti ser -- vo d'A -- mor __ vis -- se~e mo -- rì -- o __
         vis -- se~e mo -- rì -- o.
 }
 
@@ -265,4 +265,4 @@ bassoXVIIincipitVoice = <<
 % 
 % così fia sempre: e loda aronne e vanto,
 % che scriverassi al mio sepolcro forse:
-% Questi servo d’Amor visse e morìo.
+% Questi servo d'Amor visse e morìo.

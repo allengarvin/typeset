@@ -3,9 +3,9 @@
 % Or, se mi mostra la mia carta il vero,
 % Non è lontano a discoprirsi il porto;
 % Sì che nel lito i voti scioglier spero
-% A chi nel mar per tanta via m’ha scorto;
+% A chi nel mar per tanta via m'ha scorto;
 % Ove, o di non tornar col legno intero
-% O d’errar sempre, ebbi già il viso smorto.
+% O d'errar sempre, ebbi già il viso smorto.
 % Ma mi par di veder, ma veggo certo,
 % Veggo la terra, e veggo il lito aperto.
 

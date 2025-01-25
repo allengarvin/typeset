@@ -30,11 +30,11 @@ cantoVI = \relative c'' {
 
 cantoLyricsVI = \lyricmode {
     Tan -- to mi piac -- que pri -- ma~il dol -- ce lu -- me __
-    Ch’io pas -- sai con di -- let -- to~as -- sai gran pog -- gi
+    Ch'io pas -- sai con di -- let -- to~as -- sai gran pog -- gi
     Per po -- ter ap -- pres -- sar
     Per po -- ter ap -- pres -- sar gli~a -- ma -- ti ra -- mi: __
     O -- ra la vi -- ta bre -- ve 
-    O -- ra la vi -- ta bre -- ve e’l lo -- co~e’l tem -- po
+    O -- ra la vi -- ta bre -- ve e'l lo -- co~e'l tem -- po
     Mo -- stran -- mi~al -- tro sen -- tier di gi -- re~al cie -- lo __
     E di far frut -- to, non __ pur fio -- ri~et fron -- di,
     E di far frut -- to, non __ pur fio -- ri~et fron -- di,
@@ -71,10 +71,10 @@ altoVI = \relative c'' {
 
 altoLyricsVI = \lyricmode {
     Tan -- to mi piac -- que pri -- ma~il dol -- ce lu -- me 
-    Ch’io pas -- sai con di -- let -- to~as -- sai gran pog -- gi
+    Ch'io pas -- sai con di -- let -- to~as -- sai gran pog -- gi
     Per po -- ter ap -- pres -- sar
     Per __ po -- ter ap -- pres -- sar gli~a -- ma -- ti ra -- mi: 
-    O -- ra la vi -- ta bre -- ve e’l lo -- co~e’l tem -- po
+    O -- ra la vi -- ta bre -- ve e'l lo -- co~e'l tem -- po
     Mo -- stran -- mi~al -- tro sen -- tier,
     Mo -- stran -- mi~al -- tro sen -- tier di gi -- re~al cie -- lo 
     E di far frut -- to, 
@@ -113,11 +113,11 @@ tenoreVI = \relative c' {
 
 tenoreLyricsVI = \lyricmode {
     Tan -- to mi piac -- que pri -- ma~il dol -- ce lu -- me 
-    Ch’io pas -- sai con di -- let -- to
+    Ch'io pas -- sai con di -- let -- to
         pas -- sai con di -- let -- to as -- sai gran pog -- gi
     Per po -- ter ap -- pres -- sar __ gli~a -- ma -- ti ra -- mi: 
     O -- ra la vi -- ta bre -- ve,
-    O -- ra la vi -- ta bre -- ve e’l lo -- co~e’l tem -- po
+    O -- ra la vi -- ta bre -- ve e'l lo -- co~e'l tem -- po
     Mo -- stran -- mi~al -- tro sen -- tier di gi -- re~al cie -- lo 
     E di far frut -- to, non pur fio -- ri~et fron -- di,
         non pur fio -- ri~et fron -- di,
@@ -153,7 +153,7 @@ bassoVI = \relative c' {
 
 bassoLyricsVI = \lyricmode {
     Tan -- to mi piac -- que pri -- ma~il dol -- ce lu -- me 
-    Ch’io pas -- sai con di -- let -- to~as -- sai gran pog -- gi
+    Ch'io pas -- sai con di -- let -- to~as -- sai gran pog -- gi
     Per po -- ter ap -- pres -- sar
     \ijLyrics
     Per __ po -- ter ap -- pres -- sar
@@ -164,9 +164,9 @@ bassoLyricsVI = \lyricmode {
     O -- ra la vi -- ta bre -- ve 
     \normalLyrics
         la vi -- ta bre -- ve 
-        e’l lo -- co~e’l tem -- po
+        e'l lo -- co~e'l tem -- po
     \ijLyrics
-        e’l lo -- co~e’l tem -- po
+        e'l lo -- co~e'l tem -- po
     \normalLyrics
     Mo -- stran -- mi~al -- tro sen -- tier di gi -- re~al cie -- lo 
     E di far frut -- to, 

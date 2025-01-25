@@ -38,14 +38,14 @@ cantoLyricsXIII = \lyricmode {
     Se' tu dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta
     Co -- me sen -- za~il cor mi -- o
-    Vi -- ver dun -- que pos -- s’i -- o?
+    Vi -- ver dun -- que pos -- s'i -- o?
     O Dio, che tu po -- tes -- si,
     \ijLyrics
         che tu po -- tes -- si
     \normalLyrics
     o Dio, che tu po -- tes -- si,
-    Me -- co ve -- nir -- ne~o ch’io te -- co mi stes -- si:
-    Che se’l mio cor tu se -- i,
+    Me -- co ve -- nir -- ne~o ch'io te -- co mi stes -- si:
+    Che se'l mio cor tu se -- i,
     Me -- co~il mio co -- r'e te mio co -- r'a -- vre -- i,
     me -- co~il mio cor,
         e te mio co -- r'a -- vre -- i,
@@ -98,9 +98,9 @@ altoLyricsXIII = \lyricmode {
     Se' tu dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta
     Co -- me sen -- za~il cor mi -- o
-    Vi -- ver dun -- que pos -- s’i -- o,
+    Vi -- ver dun -- que pos -- s'i -- o,
     \ijLyrics
-    vi -- ver dun -- que pos -- s’i -- o?
+    vi -- ver dun -- que pos -- s'i -- o?
     \normalLyrics
     O __ Dio,
     \ijLyrics
@@ -110,8 +110,8 @@ altoLyricsXIII = \lyricmode {
     \ijLyrics
         che tu po -- tes -- si
     \normalLyrics
-    Me -- co ve -- nir -- ne~o ch’io te -- co mi stes -- si:
-    Che se’l mio cor tu se -- i,
+    Me -- co ve -- nir -- ne~o ch'io te -- co mi stes -- si:
+    Che se'l mio cor tu se -- i,
     Me -- co~il mio co -- r'e te mio co -- r'a -- vre -- i,
         e te mio co -- r'a -- vre -- i,
     Me -- co~il mio co -- r'e te mio co -- r'a -- vre -- i.
@@ -166,8 +166,8 @@ tenoreLyricsXIII = \lyricmode {
     Se' tu dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta
     Co -- me sen -- za~il cor mi -- o
-    Vi -- ver dun -- que pos -- s’i -- o?
-        dun -- que pos -- s’i -- o?
+    Vi -- ver dun -- que pos -- s'i -- o?
+        dun -- que pos -- s'i -- o?
     O Dio,
     \ijLyrics
     o __ Dio,
@@ -176,9 +176,9 @@ tenoreLyricsXIII = \lyricmode {
     \ijLyrics
         che tu po -- tes -- si
     \normalLyrics
-    Me -- co ve -- nir -- ne~o ch’io te -- co mi stes -- si:
-    Che se’l mio cor __ tu se -- i,
-        se’l mio cor tu se -- i,
+    Me -- co ve -- nir -- ne~o ch'io te -- co mi stes -- si:
+    Che se'l mio cor __ tu se -- i,
+        se'l mio cor tu se -- i,
     Me -- co~il mio co -- r'e te mio co -- r'a -- vre -- i,
         e te mio co -- r'a -- vre -- i,
     Me -- co~il mio co -- r'e te mio co -- r'a -- vre -- i.
@@ -226,14 +226,14 @@ bassoLyricsXIII = \lyricmode {
     Se' tu dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta
 %    Co -- me sen -- za~il cor mi -- o
-    Vi -- ver dun -- que pos -- s’i -- o?
+    Vi -- ver dun -- que pos -- s'i -- o?
     O Dio,
     \ijLyrics
     o __ Dio,
     \normalLyrics
         che tu po -- tes -- si
-    Me -- co ve -- nir -- ne~o ch’io te -- co mi stes -- si:
-    Che se’l mio cor tu se -- i,
+    Me -- co ve -- nir -- ne~o ch'io te -- co mi stes -- si:
+    Che se'l mio cor tu se -- i,
     Me -- co~il mio co -- r'e te mio co -- r'a -- vre -- i,
         e te mio co -- r'e te mio co -- r'a -- vre -- i.
 }
@@ -287,9 +287,9 @@ quintoLyricsXIII = \lyricmode {
     Se' tu dol -- ce mia vi -- ta,
         dol -- ce mia vi -- ta
     Co -- me sen -- za~il cor mi -- o
-    Vi -- ver dun -- que pos -- s’i -- o?
+    Vi -- ver dun -- que pos -- s'i -- o?
     \ijLyrics
-    vi -- ver dun -- que pos -- s’i -- o?
+    vi -- ver dun -- que pos -- s'i -- o?
     \normalLyrics
     O Dio,
     \ijLyrics
@@ -299,8 +299,8 @@ quintoLyricsXIII = \lyricmode {
     \ijLyrics
         che tu po -- tes -- si
     \normalLyrics
-    Me -- co ve -- nir -- ne~o ch’io te -- co mi stes -- si:
-    Che __ se’l mio cor tu se -- i,
+    Me -- co ve -- nir -- ne~o ch'io te -- co mi stes -- si:
+    Che __ se'l mio cor tu se -- i,
     Me -- co~il mio co,
     me -- co~il mio co -- r'e te mio co -- r'a -- vre -- i,
         e te mio cor,

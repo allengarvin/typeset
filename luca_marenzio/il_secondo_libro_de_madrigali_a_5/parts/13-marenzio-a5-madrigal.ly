@@ -1,9 +1,9 @@
-% O voi che sospirate a miglior’ note
-% che ascoltate d’Amore o dite in rime,
+% O voi che sospirate a miglior' note
+% che ascoltate d'Amore o dite in rime,
 % pregate non mi sia più sorda Morte,
 % porto de le miserie et fin del pianto;
 % muti una volta quel suo antico stile,
-% ch’ogni uom attrista, e me può far sì lieto.
+% ch'ogni uom attrista, e me può far sì lieto.
 
 cantoXIIIincipit = \relative c' {
     \time 2/2
@@ -38,9 +38,9 @@ cantoXIII = \relative c' {
 }
 
 cantoLyricsXIII = \lyricmode {
-    O voi che so -- spi -- ra -- te~a mi -- glior’ no -- te
-        a mi -- glior’ no -- te __
-    Ch’a -- scol -- ta -- te d’A -- mo -- re~o di -- te~in ri -- me,
+    O voi che so -- spi -- ra -- te~a mi -- glior' no -- te
+        a mi -- glior' no -- te __
+    Ch'a -- scol -- ta -- te d'A -- mo -- re~o di -- te~in ri -- me,
     Pre -- ga -- te non mi sia più sor -- da Mor -- te,
         più sor -- da Mor -- te,
     Por -- to de le mi -- se -- rie,
@@ -49,12 +49,12 @@ cantoLyricsXIII = \lyricmode {
     \normalLyrics
         e __ fin del pian -- to;
     Mu -- ti~u -- na vol -- ta quel __ suo~an -- ti -- co sti -- le, __
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
     \ijLyrics
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
     \normalLyrics
         e me __ può far sì lie -- to,
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
         e me __ può far sì lie -- to,
         e me può far sì lie -- to,
         e me può far sì lie -- to.
@@ -92,9 +92,9 @@ altoXIII = \relative c' {
 }
 
 altoLyricsXIII = \lyricmode {
-    O __ voi che so -- spi -- ra -- te~a mi -- glior’ no -- te
-        a __ mi -- glior’ no -- te 
-    Ch’a -- scol -- ta -- te d’A -- mo -- re~o di -- te~in ri -- me,
+    O __ voi che so -- spi -- ra -- te~a mi -- glior' no -- te
+        a __ mi -- glior' no -- te 
+    Ch'a -- scol -- ta -- te d'A -- mo -- re~o di -- te~in ri -- me,
     Pre -- ga -- te non mi sia più sor -- da Mor -- te,
         non mi sia più sor -- da Mor -- te,
     Por -- to de le mi -- se -- rie,
@@ -102,11 +102,11 @@ altoLyricsXIII = \lyricmode {
         de le mi -- se -- rie, 
         et fin del pian -- to;
     Mu -- ti~u -- na vol -- ta quel suo~an -- ti -- co sti -- le, 
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
     \ijLyrics
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
     \normalLyrics
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
         e me può far sì lie -- to,
         e me può __ far sì lie -- to,
         e me può far sì lie -- to.
@@ -145,20 +145,20 @@ tenoreXIII = \relative c' {
 }
 
 tenoreLyricsXIII = \lyricmode {
-    O __ voi che so -- spi -- ra -- te a mi -- glior’ no -- te __
-    Ch’a -- scol -- ta -- te d’A -- mo -- re o di -- te~in ri -- me,
+    O __ voi che so -- spi -- ra -- te a mi -- glior' no -- te __
+    Ch'a -- scol -- ta -- te d'A -- mo -- re o di -- te~in ri -- me,
     Pre -- ga -- te non mi sia più sor -- da Mor -- te,
         non mi sia più sor -- da Mor -- te,
     Por -- to de le mi -- se -- rie,
         Por -- to de le mi -- se -- rie, 
         et fin del pian -- to;
     Mu -- ti~u -- na vol -- ta __ quel suo~an -- ti -- co __ sti -- le, 
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
     \ijLyrics
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
     \normalLyrics
-    Ch’o -- gni~uom at -- tri -- sta~e me può far,
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta~e me può far,
+    Ch'o -- gni~uom at -- tri -- sta, 
         e __ me può far sì lie -- to,
         e me può far sì lie -- to,
         e me può far sì lie -- to.
@@ -195,16 +195,16 @@ bassoXIII = \relative c {
 
 bassoLyricsXIII = \lyricmode {
     O voi che so -- spi -- ra -- te,
-        so -- spi -- ra -- te~a mi -- glior’ no -- te
-    Ch’a -- scol -- ta -- te d’A -- mo -- re~o di -- te~in ri -- me,
+        so -- spi -- ra -- te~a mi -- glior' no -- te
+    Ch'a -- scol -- ta -- te d'A -- mo -- re~o di -- te~in ri -- me,
     Pre -- ga -- te non mi sia più sor -- da Mor -- te,
     Por -- to de le mi -- se -- rie, __
         de le mi -- se -- rie,  __
         e __ fin del pian -- to;
     Mu -- ti~u -- na vol -- ta quel suo~an -- ti -- co sti -- le,  __
-    Ch’o -- gni~uom at -- tri -- sta,  __
+    Ch'o -- gni~uom at -- tri -- sta,  __
     \ijLyrics
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
     \normalLyrics
         e me può far sì lie -- to,
         e me può far sì lie -- to,
@@ -243,17 +243,17 @@ quintoXIII = \relative c {
 }
 
 quintoLyricsXIII = \lyricmode {
-    O voi che so -- spi -- ra -- te a __ mi -- glior’ no -- te
-    Ch’a -- scol -- ta -- te d’A -- mo -- re o di -- te~in ri -- me,
+    O voi che so -- spi -- ra -- te a __ mi -- glior' no -- te
+    Ch'a -- scol -- ta -- te d'A -- mo -- re o di -- te~in ri -- me,
     Pre -- ga -- te non mi sia più sor -- da Mor -- te, __
     Por -- to de le mi -- se -- rie,
         de le mi -- se -- rie, 
         e __ fin del pian -- to;
     Mu -- ti~u -- na vol -- ta quel suo~an -- ti -- co sti -- le, 
-    Ch’o -- gni~uom at -- tri -- sta, 
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
         e me può far sì lie -- to,
-    Ch’o -- gni~uom at -- tri -- sta, 
+    Ch'o -- gni~uom at -- tri -- sta, 
         e me __ può far,
         e me può far sì lie -- to,
     \ijLyrics

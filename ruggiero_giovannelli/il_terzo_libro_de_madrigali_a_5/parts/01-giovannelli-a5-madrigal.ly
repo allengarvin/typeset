@@ -1,9 +1,9 @@
 % Cor mio, deh, non piangete
-% Ch’altro mal io non provo altro martire
+% Ch'altro mal io non provo altro martire
 % Di veder voi, voi languir del mio languire.
-% Dunque non m’offendete
+% Dunque non m'offendete
 % Se sanar mi volete
-% Che quell’affetto che pietà chiamate
+% Che quell'affetto che pietà chiamate
 % Se è dispietato a voi non è pietate.
 % 
 % (Guarini) See https://www.cpdl.org/wiki/index.php/Cor_mio,_deh,_non_piangete_(Carlo_Gesualdo) (slight variation)
@@ -50,7 +50,7 @@ cantoI = \relative c'' {
 
 cantoLyricsI = \lyricmode {
     Cor mio, deh, non pian -- ge -- te
-    Ch’alt -- ro mal io __ non sen -- to~al -- tro __ mar -- ti -- re
+    Ch'alt -- ro mal io __ non sen -- to~al -- tro __ mar -- ti -- re
     Di ve -- der voi, del mio lan -- guir lan -- gui -- re,
         del mio lan -- guir __ lan -- gui -- re.
 
@@ -99,7 +99,7 @@ altoI = \relative c'' {
 
 altoLyricsI = \lyricmode {
     Cor mio, deh, non pian -- ge -- te
-    Ch’alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re,
+    Ch'alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re,
     Cor mio, deh, non pian -- ge -- te
         del mio lan -- guir lan -- gui -- re.
 
@@ -148,9 +148,9 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-    Ch’alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re,
+    Ch'alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re,
     Cor mio, deh, non pian -- ge -- te
-    ch’alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re
+    ch'alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re
         del mio lan -- guir lan -- gui -- re.
 
     Dun -- que non vi do -- le -- te
@@ -195,7 +195,7 @@ bassoI = \relative c {
 
 bassoLyricsI = \lyricmode {
 %    Cor mio, deh, non pian -- ge -- te
-    Ch’alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re
+    Ch'alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re
     Di ve -- der voi, del mio lan -- guir lan -- gui -- re.
 
     Dun -- que non vi do -- le -- te
@@ -247,7 +247,7 @@ quintoI = \relative c' {
 
 quintoLyricsI = \lyricmode {
     Cor mio, deh, non pian -- ge -- te
-    Ch’alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re
+    Ch'alt -- ro mal io non sen -- to~al -- tro mar -- ti -- re
     Di ve -- der voi, del mio lan -- guir lan -- gui -- re.
 
 %    Dun -- que non vi do -- le -- te

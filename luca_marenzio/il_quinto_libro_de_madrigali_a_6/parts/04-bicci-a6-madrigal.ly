@@ -2,7 +2,7 @@
 % che nettare spargete,
 % deh perché non volete
 % questi sospiri ardenti?
-% Ahi che tra loro è pur l’anima mia
+% Ahi che tra loro è pur l'anima mia
 % che baciar vi desia.
 % 
 % LCdM translation:
@@ -59,7 +59,7 @@ cantoLyricsIV = \lyricmode {
     deh per -- ché non vo -- le -- te
     Que -- sti so -- spi -- ri~ar -- den -- ti?
 %    Ahi!
-    Ahi! __ che tra lo -- ro~è pur l’a -- ni -- ma mi -- a __
+    Ahi! __ che tra lo -- ro~è pur l'a -- ni -- ma mi -- a __
     Che ba -- ciar,
     che ba -- ciar,
     \ijLyrics
@@ -129,7 +129,7 @@ altoLyricsIV = \lyricmode {
     deh per -- ché non vo -- le -- te
     Que -- sti so -- spi -- ri~ar -- den -- ti?
 %    Ahi!
-    Ahi! __ che tra lo -- ro~è pur l’a -- ni -- ma mi -- a
+    Ahi! __ che tra lo -- ro~è pur l'a -- ni -- ma mi -- a
 %    Che ba -- ciar,
 %    che ba -- ciar,
     Che ba -- ciar vi de -- si -- a,
@@ -184,7 +184,7 @@ tenoreLyricsIV = \lyricmode {
     deh per -- ché non vo -- le -- te
 %    Que -- sti so -- spi -- ri~ar -- den -- ti?
     Ahi! __
-    ahi! __ che tra lo -- ro~è pur l’a -- ni -- ma mi -- a
+    ahi! __ che tra lo -- ro~è pur l'a -- ni -- ma mi -- a
     Che ba -- ciar,
     che ba -- ciar,
     \ijLyrics
@@ -243,8 +243,8 @@ bassoLyricsIV = \lyricmode {
     Deh,
     deh per -- ché non vo -- le -- te
     Que -- sti so -- spi -- ri~ar -- den -- ti?
-    Ahi! __ che tra lo -- ro~è pur l’a -- ni -- ma mi -- a
-    ahi! __ che tra lo -- ro~è pur l’a -- ni -- ma mi -- a
+    Ahi! __ che tra lo -- ro~è pur l'a -- ni -- ma mi -- a
+    ahi! __ che tra lo -- ro~è pur l'a -- ni -- ma mi -- a
 %    Che ba -- ciar,
 %    che ba -- ciar,
     Che ba -- ciar vi de -- si -- a,
@@ -294,13 +294,13 @@ quintoLyricsIV = \lyricmode {
     deh,
 %    Que -- sti so -- spi -- ri~ar -- den -- ti?
 %    Ahi!
-    Ahi! __ che tra lo -- ro~è pur l’a -- ni -- ma mi -- a
+    Ahi! __ che tra lo -- ro~è pur l'a -- ni -- ma mi -- a
     Che ba -- ciar,
     \ijLyrics
     che ba -- ciar,
     \normalLyrics
     che ba -- ciar vi de -- si -- a,
-    ahi! __ che tra lo -- ro~è pur l’a -- ni -- ma mi -- a
+    ahi! __ che tra lo -- ro~è pur l'a -- ni -- ma mi -- a
     che ba -- ciar,
     che ba -- ciar,
     che ba -- ciar vi de -- si -- a,
@@ -350,7 +350,7 @@ sestoLyricsIV = \lyricmode {
     deh per -- ché non vo -- le -- te
     Que -- sti so -- spi -- ri~ar -- den -- ti?
     Ahi! __
-    ahi! __ che tra lo -- ro~è pur l’a -- ni -- ma mi -- a __
+    ahi! __ che tra lo -- ro~è pur l'a -- ni -- ma mi -- a __
     Che ba -- ciar,
     che ba -- ciar,
     che ba -- ciar vi de -- si -- a,

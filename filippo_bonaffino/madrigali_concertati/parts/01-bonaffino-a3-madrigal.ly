@@ -1,9 +1,9 @@
 % Dolcissimo sospiro
 % che esci da quella bocca
-% ove d’Amor ogni dolcezza fiocca.
+% ove d'Amor ogni dolcezza fiocca.
 % Deh, vieni a raddolcire
-% l’amaro mio dolore.
-% Ecco ch’io t’apro il core.
+% l'amaro mio dolore.
+% Ecco ch'io t'apro il core.
 % Ma, solle, a chi ridico il mio martire?
 % Ad un sospir errante
 % che forse vola in seno ad altro amante.
@@ -48,15 +48,15 @@ cantoOneLyricsI = \lyricmode {
     Dol -- cis -- si -- mo so -- spi -- ro,
     dol -- cis -- si -- mo so -- spi -- ro
     Ch'e -- sci da quel -- la boc -- ca
-    O -- ve d’A -- mor o -- gni dol -- cez -- za fioc -- ca,
+    O -- ve d'A -- mor o -- gni dol -- cez -- za fioc -- ca,
         o -- gni dol -- cez -- za fioc -- ca.
     Deh, vie -- ni~a rad -- dol -- ci -- re,
     deh, vie -- ni,
         vie -- ni,
         vie -- ni~a rad -- dol -- ci -- re
-    L’a -- ma -- ro mio do -- lo -- re.
-    Ec -- co ch’io t’a -- pro~il co -- re,
-    ec -- co ch’io t’a -- pro~il co -- re.
+    L'a -- ma -- ro mio do -- lo -- re.
+    Ec -- co ch'io t'a -- pro~il co -- re,
+    ec -- co ch'io t'a -- pro~il co -- re.
     Ma sol -- le~a chi ri -- di -- co~il mio mar -- ti -- re?
     Ad un so -- spir er -- ran -- te
     Che for -- se vo -- la~in se -- n'ad al -- tro~a -- man -- te,
@@ -103,15 +103,15 @@ cantoTwoLyricsI = \lyricmode {
     Dol -- cis -- si -- mo so -- spi -- ro,
     dol -- cis -- si -- mo so -- spi -- ro
     Ch'e -- sci da quel -- la boc -- ca
-    O -- ve d’A -- mor o -- gni dol -- cez -- za fioc -- ca,
-    o -- ve d’A -- mor o -- gni dol -- cez -- za fioc -- ca.
+    O -- ve d'A -- mor o -- gni dol -- cez -- za fioc -- ca,
+    o -- ve d'A -- mor o -- gni dol -- cez -- za fioc -- ca.
     Deh, vie -- ni~a rad -- dol -- ci -- re,
     deh, vie -- ni,
         vie -- ni~a rad -- dol -- ci -- re
-    L’a -- ma -- ro mio do -- lo -- re.
-    Ec -- co ch’io t’a -- pro~il co -- re,
+    L'a -- ma -- ro mio do -- lo -- re.
+    Ec -- co ch'io t'a -- pro~il co -- re,
     \ijLyrics
-    ec -- co ch’io t’a -- pro~il co -- re.
+    ec -- co ch'io t'a -- pro~il co -- re.
     \normalLyrics
     Ma sol -- le~a chi ri -- di -- co~il mio mar -- ti -- re?
     Ad un so -- spir er -- ran -- te

@@ -1,9 +1,9 @@
 %Non sospirar, pastor, non lagrimare:
 %Queste lagrime amare
-%Che spargi da’ tuoi lumi,
-%Non spegneran scintilla dell’ardore,
+%Che spargi da' tuoi lumi,
+%Non spegneran scintilla dell'ardore,
 %Ove ognor ti consumi:
-%Ché s’amor dalle fiamme del tuo core
+%Ché s'amor dalle fiamme del tuo core
 %Può trarre umor e venti,
 %Trarrà dal pianto ancor faville ardenti.
 
@@ -55,14 +55,14 @@ cantoXVIII = \relative c'' {
 cantoLyricsXVIII = \lyricmode {
     Non so -- spi -- rar, Pa -- stor, non la -- gri -- ma -- re:
     Que -- ste la -- gri -- me~a -- ma -- re
-    Che spar -- gi da’ tuoi lu -- mi,
-    Non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
-    non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
+    Che spar -- gi da' tuoi lu -- mi,
+    Non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
+    non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
     O -- ve~og -- nor ti con -- su -- mi:
-    non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
+    non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
     o -- ve~og -- nor ti con -- su -- mi,
         ti con -- su -- mi:
-    Ché s’A -- mor dal -- le fiam -- me del tuo co -- re,
+    Ché s'A -- mor dal -- le fiam -- me del tuo co -- re,
         del tuo co -- re,
     Può trar -- re~u -- mo -- re~e ven -- ti,
     può trar -- re~u -- mo -- re~e ven -- ti,
@@ -124,14 +124,14 @@ altoLyricsXVIII = \lyricmode {
     \ijLyrics
     que -- ste la -- gri -- me~a -- ma -- re
     \normalLyrics
-    Che spar -- gi da’ tuoi lu -- mi,
-    Non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
-    non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
+    Che spar -- gi da' tuoi lu -- mi,
+    Non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
+    non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
     O -- ve~og -- nor ti con -- su -- mi,
-    non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
-        scin -- til -- la de l’ar -- do -- re,
+    non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
+        scin -- til -- la de l'ar -- do -- re,
     O -- ve~og -- nor ti con -- su -- mi:
-    Ché __ s’A -- mor dal -- le fiam -- me del tuo co -- re,
+    Ché __ s'A -- mor dal -- le fiam -- me del tuo co -- re,
     Può trar -- re~u -- mo -- re~e ven -- ti,
     può trar -- re~u -- mo -- re~e ven -- ti,
     \ijLyrics
@@ -195,17 +195,17 @@ tenoreXVIII = \relative c' {
 tenoreLyricsXVIII = \lyricmode {
     Non so -- spi -- rar, Pa -- stor, non la -- gri -- ma -- re:
     Que -- ste la -- gri -- me~a -- ma -- re
-    Che spar -- gi da’ tuoi lu -- mi,
-    che spar -- gi da’ tuoi lu -- mi,
-    Non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
+    Che spar -- gi da' tuoi lu -- mi,
+    che spar -- gi da' tuoi lu -- mi,
+    Non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
     O -- ve~og -- nor ti con -- su -- mi,
     \ijLyrics
     \normalLyrics
     o -- ve~og -- nor ti con -- su -- mi:
-    Non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
-    non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
+    Non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
+    non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
     O -- ve~og -- nor ti con -- su -- mi,
-    Ché __ s’A -- mor dal -- le fiam -- me del __ tuo co -- re,
+    Ché __ s'A -- mor dal -- le fiam -- me del __ tuo co -- re,
     Può trar -- re~u -- mo -- re~e ven -- ti,
     può trar -- re~u -- mo -- re~e ven -- ti,
     può trar -- re~u -- mo -- re~e ven -- ti,
@@ -263,13 +263,13 @@ bassoXVIII = \relative c {
 
 bassoLyricsXVIII = \lyricmode {
     Que -- ste la -- gri -- me~a -- ma -- re
-    Che spar -- gi da’ tuoi lu -- mi,
-    Non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
+    Che spar -- gi da' tuoi lu -- mi,
+    Non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
     O -- ve~og -- nor ti con -- su -- mi:
     \ijLyrics
     O -- ve~og -- nor ti con -- su -- mi:
     \normalLyrics
-    Ché __ s’A -- mor dal -- le fiam -- me del tuo co -- re,
+    Ché __ s'A -- mor dal -- le fiam -- me del tuo co -- re,
         del tuo co -- re,
     Può trar -- re~u -- mo -- re~e ven -- ti,
     può trar -- re~u -- mo -- re~e ven -- ti,
@@ -323,13 +323,13 @@ quintoXVIII = \relative c'' {
 quintoLyricsXVIII = \lyricmode {
     Non so -- spi -- rar, Pa -- stor, non la -- gri -- ma -- re: __
     Que -- ste la -- gri -- me~a -- ma -- re
-    Che spar -- gi da’ tuoi lu -- mi,
-    Non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
-    non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
-    non spe -- gne -- ran scin -- til -- la de l’ar -- do -- re,
-        scin -- til -- la de l’ar -- do -- re,
+    Che spar -- gi da' tuoi lu -- mi,
+    Non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
+    non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
+    non spe -- gne -- ran scin -- til -- la de l'ar -- do -- re,
+        scin -- til -- la de l'ar -- do -- re,
     O -- ve~og -- nor ti con -- su -- mi:
-    Ché __ s’A -- mor dal -- le fiam -- me del tuo co -- re,
+    Ché __ s'A -- mor dal -- le fiam -- me del tuo co -- re,
     Può trar -- re~u -- mo -- re~e ven -- ti,
         u -- mo -- re~e ven -- ti,
     può trar -- re~u -- mo -- re~e ven -- ti,

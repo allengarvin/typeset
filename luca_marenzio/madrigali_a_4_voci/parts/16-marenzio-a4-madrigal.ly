@@ -34,16 +34,16 @@ cantoXVI = \relative c' {
 }
 
 cantoLyricsXVI = \lyricmode {
-    Dol -- ci son le qua -- drel -- la~ond’ A -- mor pun -- ge,
+    Dol -- ci son le qua -- drel -- la~ond' A -- mor pun -- ge,
     Dol -- ce brac -- cio l'a -- ven -- ta __
         e dol -- ce~e pie -- no Di pia -- cer, 
             e pie -- no Di pia -- cer, 
             e pie -- no Di pia -- cer,
     di sa -- lu -- te __ è‘l suo ve -- ne -- no,
-    Et dol -- ce~il gio -- go~ond’ ei le -- ga 
-        ond’ ei __ le -- ga~e con -- giun -- ge.
+    Et dol -- ce~il gio -- go~ond' ei le -- ga 
+        ond' ei __ le -- ga~e con -- giun -- ge.
  
-    Quant’ io, don -- na, da lui vis -- si non lun -- ge,
+    Quant' io, don -- na, da lui vis -- si non lun -- ge,
     Quan -- to por -- tai __ suo dol -- ce fo -- co~in se -- no,
     Tan -- to fu‘l vi -- ver mio lie -- to~e __ se -- re -- no,
     Et fia, Et fia fin -- ché la vi -- ta~al suo fin giun -- ge,
@@ -88,17 +88,17 @@ altoXVI = \relative c' {
 }
 
 altoLyricsXVI = \lyricmode {
-    Dol -- ci son le qua -- drel -- la~ond’ A -- mor pun -- ge,
+    Dol -- ci son le qua -- drel -- la~ond' A -- mor pun -- ge,
     Dol -- ce brac -- cio l'a -- ven -- ta
         e dol -- ce~e pie -- no Di pia -- cer __
             e pie -- no Di pia -- cer, 
             e pie -- no Di pia -- cer,
     di sa -- lu -- te è‘l suo ve -- ne -- no,
         è‘l suo ve -- ne -- no,
-    Et dol -- ce~il gio -- go~ond’ ei le -- ga 
-        ond’ ei le -- ga~e con -- giun -- ge.
+    Et dol -- ce~il gio -- go~ond' ei le -- ga 
+        ond' ei le -- ga~e con -- giun -- ge.
  
-    Quant’ io, don -- na, da lui vis -- si non lun -- ge,
+    Quant' io, don -- na, da lui vis -- si non lun -- ge,
     Quan -- to por -- tai __ suo dol -- ce fo -- co~in se -- no,
     Tan -- to fu‘l vi -- ver mio lie -- to~e __ se -- re -- no,
     Et fia __ fin -- ché la vi -- ta~al suo fin giun -- ge,
@@ -142,15 +142,15 @@ tenoreXVI = \relative c' {
 }
 
 tenoreLyricsXVI = \lyricmode {
-    Dol -- ci son le qua -- drel -- la ond’__ A -- mor pun -- ge,
+    Dol -- ci son le qua -- drel -- la ond'__ A -- mor pun -- ge,
     Dol -- ce brac -- cio l'a -- ven -- ta
         e dol -- ce~e pie -- no Di pia -- cer di sa -- lu -- te,
             e pie -- no Di pia -- cer, 
     di sa -- lu -- te  è‘l suo ve -- ne -- no __
-    Et dol -- ce~il gio -- go~ond’ ei le -- ga 
-        ond’ ei le -- ga~e con -- giun -- ge. __
+    Et dol -- ce~il gio -- go~ond' ei le -- ga 
+        ond' ei le -- ga~e con -- giun -- ge. __
  
-    Quant’ io, don -- na, da lui vis -- si non lun -- ge,
+    Quant' io, don -- na, da lui vis -- si non lun -- ge,
     Quan -- to por -- tai __ suo dol -- ce fo -- co~in se -- no,
     Tan -- to fu‘l vi -- ver mio lie -- to~e se -- re -- no,
     Et fia __ fin -- ché la vi -- ta~al suo fin giun -- ge,
@@ -193,26 +193,26 @@ bassoXVI = \relative c {
 }
 
 bassoLyricsXVI = \lyricmode {
-    Dol -- ci son le qua -- drel -- la~ond’ A -- mor pun -- ge,
+    Dol -- ci son le qua -- drel -- la~ond' A -- mor pun -- ge,
     Dol -- ce brac -- cio l'a -- ven -- ta __
         e dol -- ce~e pie -- no Di pia -- cer di sa -- lu -- te,
             e pie -- no Di pia -- cer, 
     di sa -- lu -- te è‘l suo ve -- ne -- no,
-    Et dol -- ce~il gio -- go~ond’ ei le -- ga
+    Et dol -- ce~il gio -- go~ond' ei le -- ga
         ond' ei le -- ga~e con -- giun -- ge.
  
-    Quant’ io, don -- na, da lui vis -- si non lun -- ge,
+    Quant' io, don -- na, da lui vis -- si non lun -- ge,
     Quan -- to por -- tai suo dol -- ce fo -- co~in se -- no,
     Et fia, Et fia fin -- ché la vi -- ta~al suo fin giun -- ge,
     Et fia, Et fia fin -- ché la vi -- ta~al suo fin giun -- ge.
 }
 
-% Dolci son le quadrella ond’Amor punge,
+% Dolci son le quadrella ond'Amor punge,
 % Dolce braccio le aventa, e dolce e pieno 
 % Di piacer, di salute è ‘l suo veneno,
-% E dolce il giogo ond’ei lega e congiunge.
+% E dolce il giogo ond'ei lega e congiunge.
 % 
-% Quant’io, donna, da lui vissi non lunge,
+% Quant'io, donna, da lui vissi non lunge,
 % quanto portai suo dolce foco in seno,
 % tanto fu ‘l viver mio lieto e sereno;
 % e fia, finché la vita al suo fin giunge.
@@ -224,7 +224,7 @@ bassoLyricsXVI = \lyricmode {
 % 
 % così fia sempre: e loda aronne e vanto,
 % che scriverassi al mio sepolcro forse:
-% Questi servo d’Amor visse e morìo.
+% Questi servo d'Amor visse e morìo.
 
 
 cantoXVIincipitVoice = <<

@@ -1,12 +1,12 @@
 % Solo e pensoso i più deserti campi
 % vo misurando a passi tardi e lenti;
 % E gli occhi porto, per fuggir intenti,
-% dove vestigio uman l’arena stampi.
+% dove vestigio uman l'arena stampi.
 % 
 % Altro schermo non trovo, che mi scampi
 % dal manifesto accorger delle genti:
-% Perché negli atti d’allegrezza spenti
-% di fuor si legge, com’io dentro avvampi:
+% Perché negli atti d'allegrezza spenti
+% di fuor si legge, com'io dentro avvampi:
 
 cantoXIIincipit = \relative c'' {
     \time 4/4

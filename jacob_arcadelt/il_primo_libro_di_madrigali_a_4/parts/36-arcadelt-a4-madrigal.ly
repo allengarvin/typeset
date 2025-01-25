@@ -1,12 +1,12 @@
 
-% Deh dimmi, Amor, se l’alma di costei
-% fusse pietosa com’ha bell’ il volto,
-% s’alcun saria sì stolto
-% ch’a sé non si togliessi e dessi a lei?
+% Deh dimmi, Amor, se l'alma di costei
+% fusse pietosa com'ha bell' il volto,
+% s'alcun saria sì stolto
+% ch'a sé non si togliessi e dessi a lei?
 % E io, che più potrei
-% servirla, amarla, se mi fuss’amica,
+% servirla, amarla, se mi fuss'amica,
 % che, sendomi nemica,
-% l’amo più c’allor far non doverrei?
+% l'amo più c'allor far non doverrei?
 %       MICHELANGELO BUONARROTI (1475–1564)
 
 % If pity filled her soul, Cupid, say, 
@@ -162,9 +162,9 @@ tenorLyricsXXXVI = \lyricmode {
     l'a -- mo più c'al -- lor far non __ do -- ver -- re -- i. __
 }
 
-% servirla, amarla, se mi fuss’amica,
+% servirla, amarla, se mi fuss'amica,
 % che, sendomi nemica,
-% l’amo più c’allor far non doverrei?
+% l'amo più c'allor far non doverrei?
 bassusXXXVIincipit =  \relative c {
     \time 4/4
     \key f \major

@@ -1,4 +1,4 @@
-% T’amo, mia vita, la mia cara vita
+% T'amo, mia vita, la mia cara vita
 % mi dice, e in questa sola
 % sì soave parola
 % Per che trasformi lietamente il core,
@@ -6,8 +6,8 @@
 % O voce di dolcezza, e di diletto,
 % prendila tosto Amore;
 % stampala nel mio petto;
-% spiri solo per lei l’anima mia:
-% T’amo, mia vita, la mia vita sia.
+% spiri solo per lei l'anima mia:
+% T'amo, mia vita, la mia vita sia.
 
 cantoVIIIincipit = \relative c'' {
     \time 4/4
@@ -45,9 +45,9 @@ cantoVIII = \relative c'' {
 }
 
 cantoLyricsVIII = \lyricmode {
-    T’a -- mo, mia vi -- ta,
+    T'a -- mo, mia vi -- ta,
     \ijLyrics
-    t’a -- mo, mia vi -- ta,
+    t'a -- mo, mia vi -- ta,
     \normalLyrics
         la mia ca -- ra vi -- ta,
         la mia __ ca -- ra vi -- ta
@@ -67,10 +67,10 @@ cantoLyricsVIII = \lyricmode {
     stam -- pa -- la nel mio pet -- to;
     \normalLyrics
     Spi -- ri so -- lo per lei,
-    spi -- ri so -- lo per lei l’a -- ni -- ma mi -- a,
-        l’a -- ni -- ma mi -- a:
-    T’a -- mo, mia vi -- ta,
-    t’a -- mo, mia vi -- ta, 
+    spi -- ri so -- lo per lei l'a -- ni -- ma mi -- a,
+        l'a -- ni -- ma mi -- a:
+    T'a -- mo, mia vi -- ta,
+    t'a -- mo, mia vi -- ta, 
         la mia vi -- ta si -- a,
             mia vi -- ta si -- a.
 }
@@ -110,10 +110,10 @@ altoVIII = \relative c' {
 }
 
 altoLyricsVIII = \lyricmode {
-    T’a -- mo, mia vi -- ta,
+    T'a -- mo, mia vi -- ta,
     \ijLyrics
-    t’a -- mo, mia vi -- ta,
-    t’a -- mo, mia vi -- ta,
+    t'a -- mo, mia vi -- ta,
+    t'a -- mo, mia vi -- ta,
     \normalLyrics
         la mia ca -- ra vi -- ta,
 %    % Dolcemente
@@ -132,9 +132,9 @@ altoLyricsVIII = \lyricmode {
     \ijLyrics
     stam -- pa -- la nel mio pet -- to;
     \normalLyrics
-    Spi -- ri so -- lo per lei l’a -- ni -- ma mi -- a,
-        l’a -- ni -- ma mi -- a:
-    T’a -- mo, mia vi -- ta,
+    Spi -- ri so -- lo per lei l'a -- ni -- ma mi -- a,
+        l'a -- ni -- ma mi -- a:
+    T'a -- mo, mia vi -- ta,
         la mia vi -- ta si -- a,
         la mia vi -- ta sia,
     \ijLyrics
@@ -179,9 +179,9 @@ tenoreVIII = \relative c {
 }
 
 tenoreLyricsVIII = \lyricmode {
-    T’a -- mo, mia vi -- ta,
+    T'a -- mo, mia vi -- ta,
     \ijLyrics
-    t’a -- mo, mia vi -- ta,
+    t'a -- mo, mia vi -- ta,
     \normalLyrics
         la mia ca -- ra vi -- ta,
         la mia ca -- ra vi -- ta
@@ -197,11 +197,11 @@ tenoreLyricsVIII = \lyricmode {
     pren -- di -- la to -- sto~a -- mo -- re;
     Stam -- pa -- la nel mio pet -- to;
     Spi -- ri so -- lo per lei,
-    spi -- ri so -- lo per lei l’a -- ni -- ma mi -- a,
+    spi -- ri so -- lo per lei l'a -- ni -- ma mi -- a,
     \ijLyrics
-        l’a -- ni -- ma mi -- a:
+        l'a -- ni -- ma mi -- a:
     \normalLyrics
-    T’a -- mo, mia vi -- ta,
+    T'a -- mo, mia vi -- ta,
         la mia vi -- ta si -- a,
         la mia vi -- ta si -- a.
 }
@@ -238,7 +238,7 @@ bassoVIII = \relative c {
 }
 
 bassoLyricsVIII = \lyricmode {
-    T’a -- mo, mia vi -- ta,
+    T'a -- mo, mia vi -- ta,
         la mia ca -- ra vi -- ta,
         la mia ca -- ra vi -- ta
 %    % Dolcemente
@@ -259,10 +259,10 @@ bassoLyricsVIII = \lyricmode {
     \ijLyrics
     spi -- ri so -- lo per lei
     \normalLyrics
-        l’a -- ni -- ma mi -- a:
-    T’a -- mo, mia vi -- ta,
+        l'a -- ni -- ma mi -- a:
+    T'a -- mo, mia vi -- ta,
     \ijLyrics
-    t’a -- mo, mia vi -- ta,
+    t'a -- mo, mia vi -- ta,
     \normalLyrics
         la mia vi -- ta si -- a.
 }
@@ -307,9 +307,9 @@ quintoVIII = \relative c'' {
 }
 
 quintoLyricsVIII = \lyricmode {
-    T’a -- mo, mia vi -- ta,
+    T'a -- mo, mia vi -- ta,
     \ijLyrics
-    t’a -- mo, mia vi -- ta,
+    t'a -- mo, mia vi -- ta,
     \normalLyrics
         la mia ca -- ra vi -- ta,
             ca -- ra vi -- ta
@@ -328,9 +328,9 @@ quintoLyricsVIII = \lyricmode {
     stam -- pa -- la nel mio pet -- to;
     \normalLyrics
     Spi -- ri so -- lo per lei,
-    spi -- ri so -- lo per lei l’a -- ni -- ma mi -- a:
-    T’a -- mo, mia vi -- ta,
-    t’a -- mo, mia vi -- ta,
+    spi -- ri so -- lo per lei l'a -- ni -- ma mi -- a:
+    T'a -- mo, mia vi -- ta,
+    t'a -- mo, mia vi -- ta,
         la mia vi -- ta si -- a,
         la mia __ vi -- ta si -- a.
 }

@@ -1,9 +1,9 @@
 % Non è ch'il duol mi scemi o il fuoc' allenti
-% Si m’ard’ il fuoc' ogn’ or e il duol mi preme,
-% Nè che m’aiti chiam’ altro che morte;
-% Ma mentr’ io lasso e di più viver sazio,
-% Scorgo due si begli occhi ch’a un momento
-% Sent’ il fuoco cangiars’ in duro ghiaccio
+% Si m'ard' il fuoc' ogn' or e il duol mi preme,
+% Nè che m'aiti chiam' altro che morte;
+% Ma mentr' io lasso e di più viver sazio,
+% Scorgo due si begli occhi ch'a un momento
+% Sent' il fuoco cangiars' in duro ghiaccio
 % E di dolcezza il duol farsi diletto
 % Io provo con effetto
 % Che sol un vostro sguardo un cor già spento
@@ -52,14 +52,14 @@ cantusX = \relative c' {
 
 cantusLyricsX = \lyricmode {
     Non è __ ch'il duol __ mi sce -- mi~o~il fuo -- c'al -- len -- ti
-    Si m’ard’ il fuo -- c'o -- gn’or e~il duol __ mi __ pre -- me,
-    Nè che m’a -- i -- ti,
-    nè che m’a -- i -- ti chiam’ al -- tro che mor -- te;
+    Si m'ard' il fuo -- c'o -- gn'or e~il duol __ mi __ pre -- me,
+    Nè che m'a -- i -- ti,
+    nè che m'a -- i -- ti chiam' al -- tro che mor -- te;
 
-    Ma men -- tr’io las -- so~e di più vi -- ver sa -- zio,
-    Scor -- go due si be -- gli~oc -- chi __ ch’a __ un mo -- men -- to,
-    scor -- go due si be -- gli~oc -- chi ch’a un mo -- men -- to
-    Sen -- t’il fuo -- co can -- giar -- s’in du -- ro ghiac -- cio
+    Ma men -- tr'io las -- so~e di più vi -- ver sa -- zio,
+    Scor -- go due si be -- gli~oc -- chi __ ch'a __ un mo -- men -- to,
+    scor -- go due si be -- gli~oc -- chi ch'a un mo -- men -- to
+    Sen -- t'il fuo -- co can -- giar -- s'in du -- ro ghiac -- cio
     E di dol -- cez -- za,
     e di dol -- cez -- za il duol far -- si di -- let -- to
     Io pro -- vo con ef -- fet -- to
@@ -108,13 +108,13 @@ altusX = \relative c' {
 
 altusLyricsX = \lyricmode {
     Non è ch'il duol __ mi sce -- mi~o~il fuo -- c'al -- len -- ti
-    Si m’ard’ il fuo -- c'o -- gn’or __ e~il duol __ mi pre -- me,
-    Nè che m’a -- i -- ti chiam’ al -- tro che mor -- te;
+    Si m'ard' il fuo -- c'o -- gn'or __ e~il duol __ mi pre -- me,
+    Nè che m'a -- i -- ti chiam' al -- tro che mor -- te;
 
-    Ma men -- tr’io las -- so e di più vi -- ver sa -- zio,
-    Scor -- go due si be -- gli~oc -- chi ch’a un mo -- men -- to,
-        ch’a un mo -- men -- to,
-    Sen -- t’il fuo -- co can -- giar -- s’in du -- ro ghiac -- cio
+    Ma men -- tr'io las -- so e di più vi -- ver sa -- zio,
+    Scor -- go due si be -- gli~oc -- chi ch'a un mo -- men -- to,
+        ch'a un mo -- men -- to,
+    Sen -- t'il fuo -- co can -- giar -- s'in du -- ro ghiac -- cio
     E di dol -- cez -- za il __ duol far -- si di -- let -- to,
         far -- si di -- let -- to
     Io pro -- vo con ef -- fet -- to
@@ -163,15 +163,15 @@ tenorX = \relative c {
 
 tenorLyricsX = \lyricmode {
     Non è ch'il duol __ mi sce -- mi~o~il fuo -- c'al -- len -- ti
-    Si m’ard’ il fuo -- c'o -- gn’or e~il duol __ mi pre -- me,
-    Nè che m’a -- i -- ti,
-    nè che m’a -- i -- ti chiam’ al -- tro che mor -- te;
+    Si m'ard' il fuo -- c'o -- gn'or e~il duol __ mi pre -- me,
+    Nè che m'a -- i -- ti,
+    nè che m'a -- i -- ti chiam' al -- tro che mor -- te;
 
-    Ma men -- tr’io las -- so,
+    Ma men -- tr'io las -- so,
     Scor -- go due si be -- gli~oc -- chi, __
-    scor -- go due si be -- gli~oc -- chi ch’a un mo -- men -- to,
-        ch’a un mo -- men -- to
-    Sen -- t’il fuo -- co can -- giar -- s’in du -- ro ghiac -- cio
+    scor -- go due si be -- gli~oc -- chi ch'a un mo -- men -- to,
+        ch'a un mo -- men -- to
+    Sen -- t'il fuo -- co can -- giar -- s'in du -- ro ghiac -- cio
     E di dol -- cez -- za il duol far -- si di -- let -- to
     Io pro -- vo con ef -- fet -- to
     Che sol un vo -- stro sguar -- do~un cor già spen -- to
@@ -216,15 +216,15 @@ bassusX = \relative c {
 
 bassusLyricsX = \lyricmode {
     Non è ch'il duol mi sce -- mi~o~il fuo -- c'al -- len -- ti
-    Si m’ard’ il fuo -- c'o -- gn’or e~il duol mi pre -- me,
-    Nè che m’a -- i -- ti,
-    nè che m’a -- i -- ti chiam’ al -- tro che mor -- te;
+    Si m'ard' il fuo -- c'o -- gn'or e~il duol mi pre -- me,
+    Nè che m'a -- i -- ti,
+    nè che m'a -- i -- ti chiam' al -- tro che mor -- te;
 
-    Ma men -- tr’io las -- so
+    Ma men -- tr'io las -- so
     Scor -- go due si be -- gli~oc -- chi,
-    scor -- go due si be -- gli~oc -- chi ch’a un mo -- men -- to,
-        ch’a un mo -- men -- to
-    Sen -- t’il fuo -- co can -- giar -- s’in du -- ro ghiac -- cio
+    scor -- go due si be -- gli~oc -- chi ch'a un mo -- men -- to,
+        ch'a un mo -- men -- to
+    Sen -- t'il fuo -- co can -- giar -- s'in du -- ro ghiac -- cio
     E di dol -- cez -- za~il duol far -- si di -- let -- to,
         il duol far -- si di -- let -- to
     Io pro -- vo con ef -- fet -- to

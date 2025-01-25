@@ -16,7 +16,7 @@
 % al fumo eternamente condannata,
 % per esser stata al fido amante mio,
 % mentre io vissi, spiacevole ed ingrata.
-% D’altre infinite è questa grotta piena,
+% D'altre infinite è questa grotta piena,
 % poste per simil fallo in simil pena.
 
 % high birth

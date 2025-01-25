@@ -1,10 +1,10 @@
 % Come viva il mio core,
 % come questa alma spiri,
-% deh, dillo tu che’l sai, deh dillo Amore!
-% Ahi, che so troppo anch’io, che senza aita
+% deh, dillo tu che'l sai, deh dillo Amore!
+% Ahi, che so troppo anch'io, che senza aita
 % del suo cibo vital li tiene in vita.
-% E sol d’aspri martiri
-% mi nutre il cor e pasci l’alma trista
+% E sol d'aspri martiri
+% mi nutre il cor e pasci l'alma trista
 % esangue omai per la perduta vista.
 % 
 % How this heart lives,
@@ -54,15 +54,15 @@ cantoXVII = \relative c'' {
 cantoLyricsXVII = \lyricmode {
     Co -- me vi -- va~il mio co -- re,
     Co -- me que -- st'al -- ma spi -- ri,
-    Deh, dil -- lo tu che’l sai,
-    deh, dil -- lo tu che’l sai, deh dil -- lo~A -- mo -- re,
+    Deh, dil -- lo tu che'l sai,
+    deh, dil -- lo tu che'l sai, deh dil -- lo~A -- mo -- re,
         deh dil -- lo~A -- mo -- re!
-    Ahi, che so trop -- po~an -- ch’io, che sen -- za~a -- i -- ta
+    Ahi, che so trop -- po~an -- ch'io, che sen -- za~a -- i -- ta
     Del suo ci -- bo vi -- tal li tie -- ne~in vi -- ta,
     del suo ci -- bo vi -- tal li tie -- ne~in vi -- ta.
-    E sol d’a -- spri mar -- ti -- ri
-    Mi nu -- tre~il cor e pa -- sci l’al -- ma tri -- sta
-        e pa -- sce l’al -- ma tri -- sta
+    E sol d'a -- spri mar -- ti -- ri
+    Mi nu -- tre~il cor e pa -- sci l'al -- ma tri -- sta
+        e pa -- sce l'al -- ma tri -- sta
     E -- san -- gue~o -- mai per la per -- du -- ta vi -- sta. __
 }
 
@@ -104,22 +104,22 @@ altoXVII = \relative c' {
 altoLyricsXVII = \lyricmode {
     Co -- me vi -- va~il mio co -- re,
     Co -- me que -- st'al -- ma spi -- ri,
-    Deh, dil -- lo tu che’l sai;
+    Deh, dil -- lo tu che'l sai;
     Co -- me vi -- va~il mio co -- re,
     co -- me que -- st'al -- ma spi -- ri,
-    deh, dil -- lo tu che’l sai;
+    deh, dil -- lo tu che'l sai;
     \ijLyrics
-    deh, dil -- lo tu che’l sai,
+    deh, dil -- lo tu che'l sai,
     \normalLyrics
         deh dil -- lo~A -- mo -- re,
     \ijLyrics
         deh dil -- lo~A -- mo -- re!
     \normalLyrics
-    Ahi, che so trop -- po~an -- ch’io, che sen -- za~a -- i -- ta
+    Ahi, che so trop -- po~an -- ch'io, che sen -- za~a -- i -- ta
     Del suo ci -- bo vi -- tal li tie -- ne~in vi -- ta,
         li tie -- ne~in vi -- ta.
-    E sol d’a -- spri mar -- ti -- ri
-    Mi nu -- tre~il cor e pa -- sci l’al -- ma tri -- sta
+    E sol d'a -- spri mar -- ti -- ri
+    Mi nu -- tre~il cor e pa -- sci l'al -- ma tri -- sta
     E -- san -- gue~o -- mai,
     \ijLyrics
     e -- san -- gue~o -- mai
@@ -166,24 +166,24 @@ tenoreXVII = \relative c' {
 tenoreLyricsXVII = \lyricmode {
     Co -- me vi -- va~il mio co -- re,
     Co -- me que -- st'al -- ma spi -- ri,
-    Deh, dil -- lo tu che’l sai;
+    Deh, dil -- lo tu che'l sai;
     co -- me vi -- va~il mio co -- re,
     co -- me que -- st'al -- ma spi -- ri,
-    deh, dil -- lo tu che’l sai,
+    deh, dil -- lo tu che'l sai,
     \ijLyrics
-    deh, dil -- lo tu che’l sai,
+    deh, dil -- lo tu che'l sai,
     \normalLyrics
         deh dil -- lo~A -- mo -- re,
     \ijLyrics
         deh dil -- lo~A -- mo -- re!
     \normalLyrics
-    Ahi, __ che so trop -- po~an -- ch’io, che sen -- za~a -- i -- ta
+    Ahi, __ che so trop -- po~an -- ch'io, che sen -- za~a -- i -- ta
     Del suo ci -- bo vi -- tal li tie -- ne~in vi -- ta,
     del suo ci -- bo vi -- tal li tie -- ne~in vi -- ta.
-    E sol d’a -- spri mar -- ti -- ri
-    Mi nu -- tre~il cor e pa -- sci l’al -- ma tri -- sta
+    E sol d'a -- spri mar -- ti -- ri
+    Mi nu -- tre~il cor e pa -- sci l'al -- ma tri -- sta
     \ijLyrics
-        e pa -- sce l’al -- ma tri -- sta
+        e pa -- sce l'al -- ma tri -- sta
     \normalLyrics
     E -- san -- gue~o -- mai per la per -- du -- ta vi -- sta,
         per la per -- du -- ta vi -- sta.
@@ -227,19 +227,19 @@ bassoXVII = \relative c {
 bassoLyricsXVII = \lyricmode {
     Co -- me vi -- va~il mio co -- re,
     Co -- me que -- st'al -- ma spi -- ri,
-    Deh, dil -- lo tu che’l sai;
+    Deh, dil -- lo tu che'l sai;
     co -- me vi -- va~il mio co -- re,
     co -- me que -- st'al -- ma spi -- ri,
-    deh, dil -- lo tu che’l sai,
+    deh, dil -- lo tu che'l sai,
     \ijLyrics
-    deh, dil -- lo tu che’l sai,
+    deh, dil -- lo tu che'l sai,
     \normalLyrics
         deh dil -- lo~A -- mo -- re!
-    Ahi, che so trop -- po~an -- ch’io, che sen -- za~a -- i -- ta
+    Ahi, che so trop -- po~an -- ch'io, che sen -- za~a -- i -- ta
     Del suo ci -- bo vi -- tal li tie -- ne~in vi -- ta.
-    E sol d’a -- spri mar -- ti -- ri
-    Mi nu -- tre~il cor e pa -- sci l’al -- ma tri -- sta
-        e pa -- sce l’al -- ma tri -- sta
+    E sol d'a -- spri mar -- ti -- ri
+    Mi nu -- tre~il cor e pa -- sci l'al -- ma tri -- sta
+        e pa -- sce l'al -- ma tri -- sta
     E -- san -- gue~o -- mai,
     e -- san -- gue~o -- mai per la per -- du -- ta vi -- sta.
 }
@@ -282,24 +282,24 @@ quintoXVII = \relative c' {
 quintoLyricsXVII = \lyricmode {
     Co -- me vi -- va~il mio co -- re,
     Co -- me que -- st'al -- ma spi -- ri,
-    Deh, dil -- lo tu che’l sai;
+    Deh, dil -- lo tu che'l sai;
     co -- me vi -- va~il mio co -- re,
     co -- me que -- st'al -- ma spi -- ri,
-    deh, dil -- lo tu che’l sai,
+    deh, dil -- lo tu che'l sai,
     \ijLyrics
-    deh, dil -- lo tu che’l sai,
+    deh, dil -- lo tu che'l sai,
     \normalLyrics
         deh dil -- lo~A -- mo -- re,
     \ijLyrics
         deh dil -- lo~A -- mo -- re!
     \normalLyrics
-    Ahi, che so trop -- po~an -- ch’io, che sen -- za~a -- i -- ta,
+    Ahi, che so trop -- po~an -- ch'io, che sen -- za~a -- i -- ta,
     \ijLyrics
         che sen -- za~a -- i -- ta
     \normalLyrics
     Del suo ci -- bo vi -- tal li tie -- ne~in vi -- ta.
-    E sol d’a -- spri mar -- ti -- ri
-    Mi nu -- tre~il cor e pa -- sci l’al -- ma tri -- sta
+    E sol d'a -- spri mar -- ti -- ri
+    Mi nu -- tre~il cor e pa -- sci l'al -- ma tri -- sta
     E -- san -- gue~o -- mai,
     \ijLyrics
     e -- san -- gue~o -- mai

@@ -51,7 +51,7 @@ cantoLyricsII = \lyricmode {
     non strin -- se~un -- qua~il tuo no -- do. 
     \normalLyrics
 
-    Ec -- co ch’u -- ni -- ta 
+    Ec -- co ch'u -- ni -- ta 
         già di fe -- de~e d'A -- mor te so -- lo~a -- spet -- ta.
 
     Or ciò che Man -- to lor pre -- di -- ce~e~in -- se -- gna 
@@ -118,7 +118,7 @@ altoLyricsII = \lyricmode {
     non strin -- se~un -- qua~il tuo no -- do,
     non strin -- se~un -- qua~il tuo no -- do.
     \normalLyrics
-    Ec -- co ch’u -- ni -- ta
+    Ec -- co ch'u -- ni -- ta
         già di fe -- de~e d'A -- mor te so -- lo~a -- spet -- ta.
 
     Or ciò che Man -- to lor pre -- di -- ce~e~in -- se -- gna
@@ -195,7 +195,7 @@ tenoreLyricsII = \lyricmode {
     non strin -- se~un -- qua~il tuo no -- do.
     \normalLyrics
 
-    Ec -- co ch’u -- ni -- ta
+    Ec -- co ch'u -- ni -- ta
         già di fe -- de~e d'A -- mor te so -- lo~a -- spet -- ta.
 
     Or ciò che Man -- to lor pre -- di -- ce~e~in -- se -- gna,
@@ -257,7 +257,7 @@ bassoLyricsII = \lyricmode {
     Non strin -- se~un -- qua~il tuo no -- do,
     non strin -- se~un -- qua~il tuo no -- do,
     non strin -- se~un -- qua~il tuo no -- do.
-    Ec -- co ch’u -- ni -- ta
+    Ec -- co ch'u -- ni -- ta
         già di fe -- de~e d'A -- mor te so -- lo~a -- spet -- ta.
 
     Or ciò che Man -- to lor pre -- di -- ce~e~in -- se -- gna
@@ -324,7 +324,7 @@ quintoLyricsII = \lyricmode {
     scen -- di~I -- me -- ne -- o; co -- pia di te sì de -- gna
     non strin -- se~un -- qua~il tuo no -- do.
 
-    Ec -- co ch’u -- ni -- ta
+    Ec -- co ch'u -- ni -- ta
         già di fe -- de~e d'A -- mor te so -- lo~a -- spet -- ta.
 
     Or ciò che Man -- to lor pre -- di -- ce~e~in -- se -- gna

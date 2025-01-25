@@ -34,20 +34,20 @@ cantoXIV = \relative c' {
 
 cantoLyricsXIV = \lyricmode {
     Non di mor -- te sei tu, ma di vi -- va -- ci,
-    Ce -- ne -- ri~al -- ber -- go, ov’ è na -- sco -- sto~A -- mo -- re;
-        ov’ è na -- sco -- sto~A -- mo -- re;
-    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
+    Ce -- ne -- ri~al -- ber -- go, ov' è na -- sco -- sto~A -- mo -- re;
+        ov' è na -- sco -- sto~A -- mo -- re;
+    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
     Men dol -- ci sì, ma non men cal -- de~al cuo -- re,
     Men dol -- ci sì, ma non men cal -- de~al cuo -- re.
     Deh, __ pren -- di que -- sti pian -- ti~e que -- sti ba -- ci
     Deh, pren -- di que -- sti pian -- ti~e que -- sti ba -- ci
-    Pren -- di, ch’io ba -- gno __ di do -- glio -- so~hu -- mo -- re,
-    Et da -- gli tu, poi ch’io non pos -- so, al -- me -- no,
+    Pren -- di, ch'io ba -- gno __ di do -- glio -- so~hu -- mo -- re,
+    Et da -- gli tu, poi ch'io non pos -- so, al -- me -- no,
         al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no,
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no,
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no,
         al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 altoXIVincipit = \relative c' {
@@ -85,20 +85,20 @@ altoXIV = \relative c' {
 
 altoLyricsXIV = \lyricmode {
     Non di mor -- te sei tu, ma di vi -- va -- ci,
-    Ce -- ne -- ri~al -- ber -- go, ov’ è na -- sco -- sto~A -- mo -- re;
-        ov’ è na -- sco -- sto~A -- mo -- re;
-    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
+    Ce -- ne -- ri~al -- ber -- go, ov' è na -- sco -- sto~A -- mo -- re;
+        ov' è na -- sco -- sto~A -- mo -- re;
+    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
     Men dol -- ci sì, ma non men cal -- de~al cuo -- re,
     Men dol -- ci sì, ma non men cal -- de~al cuo -- re.
     Deh, __ pren -- di que -- sti pian -- ti~e que -- sti ba -- ci
     Deh, pren -- di que -- sti pian -- ti~e que -- sti ba -- ci
-    Pren -- di, ch’io ba -- gno __ di do -- glio -- so~hu -- mo -- re,
-    Et da -- gli tu, poi ch’io non pos -- so, al -- me -- no,
-    Et da -- gli tu, poi ch’io non pos -- so, al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no,
+    Pren -- di, ch'io ba -- gno __ di do -- glio -- so~hu -- mo -- re,
+    Et da -- gli tu, poi ch'io non pos -- so, al -- me -- no,
+    Et da -- gli tu, poi ch'io non pos -- so, al -- me -- no,
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no,
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no,
         al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 tenoreXIVincipit = \relative c' {
@@ -135,19 +135,19 @@ tenoreXIV = \relative c' {
 tenoreLyricsXIV = \lyricmode {
     Non di mor -- te sei tu, ma di vi -- va -- ci,
     Ce -- ne -- ri~al -- ber -- go, 
-    Ce -- ne -- ri~al -- ber -- go, ov’ è na -- sco -- sto~A -- mo -- re;
+    Ce -- ne -- ri~al -- ber -- go, ov' è na -- sco -- sto~A -- mo -- re;
         A -- mo -- re;
-    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
+    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
     Men dol -- ci sì, ma non men cal -- de~al cuo -- re,
     Deh, pren -- di que -- sti pian -- ti~e que -- sti ba -- ci
-    Pren -- di, ch’io ba -- gno di do -- glio -- so~hu -- mo -- re,
-    Et da -- gli tu, poi ch’io non pos -- so, al -- me -- no,
-    Et da -- gli tu, poi ch’io non pos -- so, al -- me -- no,
+    Pren -- di, ch'io ba -- gno di do -- glio -- so~hu -- mo -- re,
+    Et da -- gli tu, poi ch'io non pos -- so, al -- me -- no,
+    Et da -- gli tu, poi ch'io non pos -- so, al -- me -- no,
         al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no,
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no,
         al -- me -- no,
         al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 bassoXIVincipit = \relative c {
@@ -180,16 +180,16 @@ bassoXIV = \relative c {
 
 bassoLyricsXIV = \lyricmode {
     Non di mor -- te sei tu, ma di vi -- va -- ci,
-    Ce -- ne -- ri~al -- ber -- go, ov’ è na -- sco -- sto~A -- mo -- re;
-    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
+    Ce -- ne -- ri~al -- ber -- go, ov' è na -- sco -- sto~A -- mo -- re;
+    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
     Men dol -- ci sì, ma non men cal -- de~al cuo -- re,
     Deh, pren -- di que -- sti pian -- ti~e que -- sti ba -- ci
-    Pren -- di, ch’io ba -- gno di do -- glio -- so~hu -- mo -- re,
-    Et da -- gli tu, poi ch’io non pos -- so, al -- me -- no,
+    Pren -- di, ch'io ba -- gno di do -- glio -- so~hu -- mo -- re,
+    Et da -- gli tu, poi ch'io non pos -- so, al -- me -- no,
         al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no,
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no,
         al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 quintoXIVincipit = \relative c' {
@@ -225,19 +225,19 @@ quintoXIV = \relative c' {
 
 quintoLyricsXIV = \lyricmode {
     Non di mor -- te sei tu, ma di vi -- va -- ci,
-    Ce -- ne -- ri~al -- ber -- go, ov’ è na -- sco -- sto~A -- mo -- re;
-    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
+    Ce -- ne -- ri~al -- ber -- go, ov' è na -- sco -- sto~A -- mo -- re;
+    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
     Men dol -- ci sì, ma non men cal -- de~al cuo -- re,
     Men dol -- ci sì, ma non men cal -- de~al cuo -- re.
     Deh, pren -- di que -- sti pian -- ti~e que -- sti ba -- ci
-    Pren -- di, ch’io ba -- gno di do -- glio -- so~hu -- mo -- re,
-    Et da -- gli tu, poi ch’io non pos -- so, al -- me -- no,
-    Et da -- gli tu, poi ch’io non pos -- so, al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no,
+    Pren -- di, ch'io ba -- gno di do -- glio -- so~hu -- mo -- re,
+    Et da -- gli tu, poi ch'io non pos -- so, al -- me -- no,
+    Et da -- gli tu, poi ch'io non pos -- so, al -- me -- no,
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no,
         al -- me -- no,
         al -- me -- no,
         al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 cantoXIVincipitVoice = <<

@@ -5,7 +5,7 @@
 %       e quella eternamente è gloriosa,
 %       e dei divini onori arriva al segno,
 %       quando, servando i suoi senza alcun danno,
-%       si fa che gl’inimici in rotta vanno.
+%       si fa che gl'inimici in rotta vanno.
 
 cantoIincipit = \relative c'' {
     \time 4/4
@@ -52,8 +52,8 @@ cantoLyricsI = \lyricmode {
     E dei di -- vi -- ni~o -- no -- ri~ar -- ri -- va~al se -- gno,
         ar -- ri -- va~al __ se -- gno,
     Quan -- do, ser -- van -- do~i suoi sen -- za~al -- cun dan -- no,
-    Si fa che gl’i -- ni -- mi -- ci~in rot -- ta van -- no,
-    si fa che gl’i -- ni -- mi -- ci~in rot -- ta van -- no.
+    Si fa che gl'i -- ni -- mi -- ci~in rot -- ta van -- no,
+    si fa che gl'i -- ni -- mi -- ci~in rot -- ta van -- no.
 }
 
 altoIincipit = \relative c' {
@@ -107,8 +107,8 @@ altoLyricsI = \lyricmode {
         ar -- ri -- va~al se -- gno,
             al se -- gno,
     Quan -- do, __ ser -- van -- do~i suoi sen -- za~al -- cun dan -- no,
-    Si fa che gl’i -- ni -- mi -- ci~in rot -- ta van -- no,
-    si fa che gl’i -- ni -- mi -- ci~in rot -- ta van -- no,
+    Si fa che gl'i -- ni -- mi -- ci~in rot -- ta van -- no,
+    si fa che gl'i -- ni -- mi -- ci~in rot -- ta van -- no,
         in rot -- ta van -- no.
 }
 
@@ -164,8 +164,8 @@ tenoreLyricsI = \lyricmode {
         ar -- ri -- va~al se -- gno,
         ar -- ri -- va~al se -- gno,
     Quan -- do, ser -- van -- do~i suoi sen -- za~al -- cun dan -- no,
-    Si fa che gl’i -- ni -- mi -- ci~in rot -- ta van -- no,
-    si fa che gl’i -- ni -- mi -- ci~in rot -- ta __ van -- no,
+    Si fa che gl'i -- ni -- mi -- ci~in rot -- ta van -- no,
+    si fa che gl'i -- ni -- mi -- ci~in rot -- ta __ van -- no,
         in rot -- ta van -- no.
 }
 
@@ -215,9 +215,9 @@ bassoLyricsI = \lyricmode {
         ar -- ri -- va~al se -- gno,
         ar -- ri -- va~al se -- gno,
     Quan -- do, ser -- van -- do~i suoi sen -- za~al -- cun dan -- no,
-    Si fa che gl’i -- ni -- mi -- ci,
-    si fa che gl’i -- ni -- mi -- ci,
-    si fa che gl’i -- ni -- mi -- ci~in rot -- ta van -- no.
+    Si fa che gl'i -- ni -- mi -- ci,
+    si fa che gl'i -- ni -- mi -- ci,
+    si fa che gl'i -- ni -- mi -- ci~in rot -- ta van -- no.
 }
 
 cantoIincipitVoice = <<

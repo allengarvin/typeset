@@ -1,7 +1,7 @@
 % Non vide il mondo sì leggiadri rami,
 % né mosse il vento mai sì verdi frondi
 % come a me si mostrâr quel primo tempo:
-% tal che, temendo de l’ardente lume,
+% tal che, temendo de l'ardente lume,
 % non volsi al mio refugio ombra di poggi,
 % ma de la pianta più gradita in cielo.
 cantoIIincipit = \relative c'' {
@@ -40,7 +40,7 @@ cantoLyricsII = \lyricmode {
     Non vi -- de~il mon -- do sì leg -- gia -- dri ra -- mi,
     Né mos -- se~il ven -- to mai sì ver -- di fron -- di
     Co -- me~a me si mo -- strar quel pri -- mo tem -- po:
-    Tal che, te -- men -- do de l’ar -- den -- te lu -- me,
+    Tal che, te -- men -- do de l'ar -- den -- te lu -- me,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
     Ma de la pian -- ta più __ gra -- di -- ta~in cie -- lo,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
@@ -81,7 +81,7 @@ altoLyricsII = \lyricmode {
     Né mos -- se~il ven -- to mai,
     Né mos -- se~il ven -- to mai sì ver -- di fron -- di
     Co -- me~a me si mo -- strar quel __ pri -- mo tem -- po:
-    Tal che, te -- men -- do de l’ar -- den -- te lu -- me,
+    Tal che, te -- men -- do de l'ar -- den -- te lu -- me,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
     Ma de la pian -- ta più __ gra -- di -- ta~in cie -- lo,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
@@ -124,7 +124,7 @@ tenoreLyricsII = \lyricmode {
     Non vi -- de~il mon -- do sì leg -- gia -- dri ra -- mi,
     Né mos -- se~il ven -- to mai sì ver -- di fron -- di
     Co -- me~a me si mo -- strar quel __ pri -- mo tem -- po:
-    Tal che, te -- men -- do de l’ar -- den -- te lu -- me,
+    Tal che, te -- men -- do de l'ar -- den -- te lu -- me,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
     Ma de la pian -- ta più gra -- di -- ta~in cie -- lo,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
@@ -163,7 +163,7 @@ bassoLyricsII = \lyricmode {
     Non vi -- de~il mon -- do sì leg -- gia -- dri ra -- mi,
     Né mos -- se~il ven -- to mai sì ver -- di fron -- di
     Co -- me~a me si mo -- strar quel pri -- mo tem -- po:
-    Tal che, te -- men -- do de l’ar -- den -- te lu -- me,
+    Tal che, te -- men -- do de l'ar -- den -- te lu -- me,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
     Ma de la pian -- ta più gra -- di -- ta~in cie -- lo,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,

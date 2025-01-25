@@ -1,7 +1,7 @@
 %   27 Ricordati, pagan, quando uccidesti
-%      d’Angelica il fratel (che son quell’io),
-%      dietro all’altr’arme tu mi promettesti
-%      fra pochi dì gittar l’elmo nel rio.
+%      d'Angelica il fratel (che son quell'io),
+%      dietro all'altr'arme tu mi promettesti
+%      fra pochi dì gittar l'elmo nel rio.
 %      Or se Fortuna (quel che non volesti
 %      far tu) pone ad effetto il voler mio,
 %      non ti turbare; e se turbar ti dei,
@@ -45,9 +45,9 @@ cantoIV = \relative c'' {
 
 cantoLyricsIV = \lyricmode {
     Ri --  cor -- da -- ti, Pa -- gan, quan -- do~uc -- ci -- de -- sti __
-    D’An -- ge -- li -- ca~il fra -- tel che son __ quel -- l’i -- o,
-    Die -- tro~al -- l’al -- tr’ar -- me tu mi pro -- met -- te -- sti
-    Fra po -- chi dì git -- tar l’el -- mo nel ri -- o.
+    D'An -- ge -- li -- ca~il fra -- tel che son __ quel -- l'i -- o,
+    Die -- tro~al -- l'al -- tr'ar -- me tu mi pro -- met -- te -- sti
+    Fra po -- chi dì git -- tar l'el -- mo nel ri -- o.
     Or se For -- tu -- na, quel che non vo -- le -- sti,
     Or se For -- tu -- na, quel che non vo -- le -- sti
     Far __ tu, po -- ne~ad __ ef -- fet -- to~il vo -- ler mi -- o,
@@ -89,11 +89,11 @@ altoIV = \relative c'' {
 
 altoLyricsIV = \lyricmode {
     Ri --  cor -- da -- ti, __ Pa -- gan, quan -- do~uc -- ci -- de -- sti __
-    D’An -- ge -- li -- ca~il fra -- tel che son quel -- l’i -- o,
-    Die -- tro~al -- l’al -- tr’ar -- me tu mi pro -- met -- te -- sti,
+    D'An -- ge -- li -- ca~il fra -- tel che son quel -- l'i -- o,
+    Die -- tro~al -- l'al -- tr'ar -- me tu mi pro -- met -- te -- sti,
         tu mi pro -- met -- te -- sti
-    Fra po -- chi dì git -- tar __ l’el -- mo nel ri -- o.
-        git -- tar l’el -- mo nel ri -- o.
+    Fra po -- chi dì git -- tar __ l'el -- mo nel ri -- o.
+        git -- tar l'el -- mo nel ri -- o.
     Or se For -- tu -- na, quel che non vo -- le -- sti,
     Far tu, po -- ne~ad __ ef -- fet -- to~il vo -- ler mi -- o,
     Non ti tur -- bar, e se tur -- bar ti de -- i,
@@ -138,11 +138,11 @@ tenoreIV = \relative c' {
 tenoreLyricsIV = \lyricmode {
     Ri --  cor -- da -- ti, Pa -- gan, 
     Ri --  cor -- da -- ti, Pa -- gan, quan -- do~uc -- ci -- de -- sti 
-    D’An -- ge -- li -- ca~il fra -- tel che son quel -- l’i -- o,
-        che son quel -- l’i -- o,
-    Die -- tro~al -- l’al -- tr’ar -- me tu mi pro -- met -- te -- sti
-    Fra po -- chi dì git -- tar __ l’el -- mo nel ri -- o,
-    Fra po -- chi dì git -- tar __ l’el -- mo nel ri -- o.
+    D'An -- ge -- li -- ca~il fra -- tel che son quel -- l'i -- o,
+        che son quel -- l'i -- o,
+    Die -- tro~al -- l'al -- tr'ar -- me tu mi pro -- met -- te -- sti
+    Fra po -- chi dì git -- tar __ l'el -- mo nel ri -- o,
+    Fra po -- chi dì git -- tar __ l'el -- mo nel ri -- o.
     Or se For -- tu -- na, quel che __ non vo -- le -- sti,
     Far __ tu, po -- ne~ad ef -- fet -- to~il vo -- ler mi -- o,
     Non ti tur -- bar, e se tur -- bar,
@@ -186,10 +186,10 @@ bassoIV = \relative c {
 
 bassoLyricsIV = \lyricmode {
     Ri --  cor -- da -- ti, __ Pa -- gan, quan -- do~uc -- ci -- de -- sti 
-    D’An -- ge -- li -- ca~il __ fra -- tel -- lo che son __ quel -- l’i -- o,
-    Die -- tro~al -- l’al -- tr’ar -- me __ tu mi pro -- met -- te -- sti
-    Fra po -- chi dì git -- tar l’el -- mo nel ri -- o.
-        dì git -- tar l’el -- mo nel __ ri -- o.
+    D'An -- ge -- li -- ca~il __ fra -- tel -- lo che son __ quel -- l'i -- o,
+    Die -- tro~al -- l'al -- tr'ar -- me __ tu mi pro -- met -- te -- sti
+    Fra po -- chi dì git -- tar l'el -- mo nel ri -- o.
+        dì git -- tar l'el -- mo nel __ ri -- o.
     Or se For -- tu -- na, quel che non vo -- le -- sti,
     Far tu, po -- ne~ad ef -- fet -- to~il vo -- ler mi -- o,
     Non ti tur -- bar, 

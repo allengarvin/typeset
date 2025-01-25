@@ -45,7 +45,7 @@ cantoLyricsIV = \lyricmode {
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
     Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra~e fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra~e fa le fo -- glie~e l'on -- de
     Gar -- rir, Gar -- rir, \ijLyrics Gar -- rir, Gar -- rir, \normalLyrics
     Gar -- rir, che va -- ria -- men -- te~el -- la per -- co -- te
     che va -- ria -- men -- te~el -- la per -- co -- te
@@ -103,9 +103,9 @@ altoLyricsIV = \lyricmode {
     Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te 
         la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra
-    Mor -- mo -- ra l’au -- ra
-    \ijLyrics Mor -- mo -- ra l’au -- ra~e \normalLyrics fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra
+    Mor -- mo -- ra l'au -- ra
+    \ijLyrics Mor -- mo -- ra l'au -- ra~e \normalLyrics fa le fo -- glie~e l'on -- de
     Gar -- rir, \ijLyrics Gar -- rir, Gar -- rir, Gar -- rir, \normalLyrics
     Gar -- rir Gar -- rir, che va -- ria -- men -- te~el -- la per -- co -- te,
         che va -- ria -- men -- te~el -- la per -- co -- te per -- co -- te,
@@ -164,11 +164,11 @@ tenoreIV = \relative c {
 }
 
 tenoreLyricsIV = \lyricmode {
-    Mor -- mo -- ra l’au -- ra
-    \ijLyrics Mor -- mo -- ra l’au -- ra \normalLyrics
+    Mor -- mo -- ra l'au -- ra
+    \ijLyrics Mor -- mo -- ra l'au -- ra \normalLyrics
     Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te
-    Mor -- mo -- ra l’au -- ra~e fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra~e fa le fo -- glie~e l'on -- de
     Gar -- rir, Gar -- rir, \ijLyrics Gar -- rir \normalLyrics
     Gar -- rir, che va -- ria -- men -- te~el -- la per -- co -- te,
         che va -- ria -- men -- te~el -- la per -- co -- te,
@@ -227,14 +227,14 @@ bassoIV = \relative c {
 }
 
 bassoLyricsIV = \lyricmode {
-    Mor -- mo -- ra l’au -- ra
-    \ijLyrics Mor -- mo -- ra l’au -- ra \normalLyrics
+    Mor -- mo -- ra l'au -- ra
+    \ijLyrics Mor -- mo -- ra l'au -- ra \normalLyrics
     Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te 
         la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra
-    Mor -- mo -- ra l’au -- ra e fa le fo -- glie~e l’on -- de
-    Gar -- rir Gar -- rir, e fa le fo -- glie~e l’on -- de Gar -- rir,
+    Mor -- mo -- ra l'au -- ra
+    Mor -- mo -- ra l'au -- ra e fa le fo -- glie~e l'on -- de
+    Gar -- rir Gar -- rir, e fa le fo -- glie~e l'on -- de Gar -- rir,
 
     che va -- ria -- men -- te~el -- la per -- co -- te,
     al -- to ri -- spon -- de,
@@ -300,11 +300,11 @@ quintoIV = \relative c'' {
 quintoLyricsIV = \lyricmode {
     Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra
-    Mor -- mo -- ra l’au -- ra
-    Mor -- mo -- ra l’au -- ra
-    \ijLyrics Mor -- mo -- ra l’au -- ra~e \normalLyrics 
-        fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra
+    Mor -- mo -- ra l'au -- ra
+    Mor -- mo -- ra l'au -- ra
+    \ijLyrics Mor -- mo -- ra l'au -- ra~e \normalLyrics 
+        fa le fo -- glie~e l'on -- de
     Gar -- rir, \ijLyrics Gar -- rir, \normalLyrics 
     Gar -- rir, \ijLyrics Gar -- rir, \normalLyrics
     Gar -- rir, che va -- ria -- men -- te~el -- la per -- co -- te,

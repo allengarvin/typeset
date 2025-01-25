@@ -1,9 +1,9 @@
-% Allor ch’io senti’l cor dentro, e d’intorno
+% Allor ch'io senti'l cor dentro, e d'intorno
 % Di fiamma viva, e di catene salde
 % Acceso, e cinto, perché pur sempre ami.
 % 
 % Una man bianca, ed un bel viso adorno
-% Vuol che m’allacci Amor, vuol che mi scalde:
+% Vuol che m'allacci Amor, vuol che mi scalde:
 % Dolce mio foco, e miei cari legami!
 cantoIIincipit = \relative c'' {
     \time 2/2
@@ -35,7 +35,7 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    Al -- lor ch’io sen -- ti’l cor den -- tro~e d’in -- tor -- no
+    Al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no
     Di fiam -- ma vi -- va~e di ca -- te -- ne sal -- de
     Ac -- ce -- so~e cin -- to, per -- ché pur sem -- pre~a -- mi.
 
@@ -44,7 +44,7 @@ cantoLyricsII = \lyricmode {
     U -- na man bian -- ca, 
     \normalLyrics
     U -- na man bian -- ca~ed un bel vi -- so~a -- dor -- no
-    Vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de:
+    Vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de:
     Dol -- ce mio fo -- co,
     Dol -- ce mio fo -- co~e miei ca -- ri le -- ga -- mi,
     Dol -- ce mio fo -- co~e miei ca -- ri le -- ga -- mi!
@@ -81,14 +81,14 @@ altoII = \relative c'' {
 }
 
 altoLyricsII = \lyricmode {
-    Al -- lor ch’io sen -- ti’l cor den -- tro~e d’in -- tor -- no
+    Al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no
     Di fiam -- ma vi -- va~e di __ ca -- te -- ne sal -- de,
         e di ca -- te -- ne sal -- de
     Ac -- ce -- so~e cin -- to, per -- ché pur sem -- pre~a -- mi.
 
     U -- na man bian -- ca~ed un bel vi -- so~a -- dor -- no,
     U -- na man bian -- ca~ed un bel vi -- so~a -- dor -- no
-    Vuol che m’al -- lac -- ci~A -- mor, vuol __ che mi scal -- de:
+    Vuol che m'al -- lac -- ci~A -- mor, vuol __ che mi scal -- de:
     Dol -- ce mio fo -- co~e miei ca -- ri le -- ga -- mi,
     \ijLyrics
     Dol -- ce mio fo -- co~e miei ca -- ri le -- ga -- mi,
@@ -126,7 +126,7 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
-    Al -- lor ch’io __ sen -- ti’l cor den -- tro~e d’in -- tor -- no
+    Al -- lor ch'io __ sen -- ti'l cor den -- tro~e d'in -- tor -- no
     Di fiam -- ma vi -- va~e di ca -- te -- ne sal -- de,
     \ijLyrics
     Di fiam -- ma vi -- va~e di ca -- te -- ne sal -- de
@@ -136,7 +136,7 @@ tenoreLyricsII = \lyricmode {
     U -- na man bian -- ca, 
     U -- na man bian -- ca~ed un bel vi -- so~a -- dor -- no,
         ed un bel vi -- so~a -- dor -- no
-    Vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de:
+    Vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de:
     Dol -- ce mio fo -- co,
     Dol -- ce mio fo -- co,
     \ijLyrics
@@ -179,14 +179,14 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
-    Al -- lor ch’io sen -- ti’l cor den -- tro~e d’in -- tor -- no
+    Al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no
     Di fiam -- ma vi -- va~e di ca -- te -- ne sal -- de
     Di fiam -- ma vi -- va~e di ca -- te -- ne sal -- de
     Ac -- ce -- so~e cin -- to, per -- ché pur sem -- pre~a -- mi.
 
     U -- na man bian -- ca~ed un bel vi -- so~a -- dor -- no,
         ed un bel vi -- so~a -- dor -- no
-    Vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de:
+    Vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de:
     Dol -- ce mio fo -- co~e miei ca -- ri le -- ga -- mi,
     Dol -- ce mio fo -- co,
     \ijLyrics
@@ -227,7 +227,7 @@ quintoII = \relative c' {
 }
 
 quintoLyricsII = \lyricmode {
-    Al -- lor ch’io sen -- ti’l cor den -- tro~e d’in -- tor -- no
+    Al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no
     Di fiam -- ma vi -- va,
     \ijLyrics
     Di fiam -- ma vi -- va~e 
@@ -239,9 +239,9 @@ quintoLyricsII = \lyricmode {
 
     U -- na man bian -- ca~ed un __ bel vi -- so~a -- dor -- no,
         ed un bel vi -- so~a -- dor -- no
-    Vuol che m’al -- lac -- ci~A -- mor, 
+    Vuol che m'al -- lac -- ci~A -- mor, 
     \ijLyrics
-    Vuol che m’al -- lac -- ci~A -- mor, 
+    Vuol che m'al -- lac -- ci~A -- mor, 
     \normalLyrics
         vuol che mi scal -- de:
     Dol -- ce mio fo -- co~e miei ca -- ri le -- ga -- mi,

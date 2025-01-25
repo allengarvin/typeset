@@ -1,18 +1,18 @@
 % Cantiamo lieti il fortunato giorno
-% Che strins’a un nodo sacr’almo e tenace
+% Che strins'a un nodo sacr'almo e tenace
 % Coppia si degna e con ardente face
 % Il fe divino amor leggiadro adorno.
-% Cantiamo lieti, che già d’ogn’intorno
-% S’allegr’il cielo, l’aria e ’l vento tace,
-% E ’l bel sereno appare, e già si sface
+% Cantiamo lieti, che già d'ogn'intorno
+% S'allegr'il cielo, l'aria e 'l vento tace,
+% E 'l bel sereno appare, e già si sface
 % A tutti gli animanti un bel soggiorno.
 % 
 % La terra di novelli e vaghi fiori
 % Ovunque si dipinge e copre il manto
 % Di la felice et aurea età presaga:
 % Verà che sol il mondo acqueti e honori
-% Da l’alto seme glorioso santo
-% D’il fiero Marte e l’unica Gonzaga.
+% Da l'alto seme glorioso santo
+% D'il fiero Marte e l'unica Gonzaga.
 
 % started out typesetting this against 1551 edition but ended up
 % checking against 1564. There are some differences in the Quinto!
@@ -55,15 +55,15 @@ cantoI = \relative c' {
 cantoLyricsI = \lyricmode {
     Can -- tia -- mo lie -- ti,
     Can -- tia -- mo lie -- ti il for -- tu -- na -- to gior -- no
-    Che strin -- se~a~un no -- do __ sa -- cr’al -- mo~e __ te -- na -- ce
+    Che strin -- se~a~un no -- do __ sa -- cr'al -- mo~e __ te -- na -- ce
     Cop -- pia si de -- gna e con ar -- den -- te fa -- ce~Il fe __ 
         di -- vi -- no~a -- mor leg -- gia -- dro~a -- dor -- no,
         e con ar -- den -- te fa -- ce~Il fe di -- vi -- no~a -- mor 
             leg -- gia -- dro~a -- dor -- no.
 
-    Can -- tia -- mo lie -- ti, che già d’o -- gni~in -- tor -- no
-    S’al -- le -- gr’il cie -- lo, l’a -- ria~e’l ven -- to ta -- ce,
-    E’l bel se -- re -- no~ap -- pa -- re, e già si sfa -- ce~A tut -- ti 
+    Can -- tia -- mo lie -- ti, che già d'o -- gni~in -- tor -- no
+    S'al -- le -- gr'il cie -- lo, l'a -- ria~e'l ven -- to ta -- ce,
+    E'l bel se -- re -- no~ap -- pa -- re, e già si sfa -- ce~A tut -- ti 
         gli~a -- ni -- man -- ti~un bel sog -- gior -- no, __
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel __ sog -- gior -- no, 
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel sog -- gior -- no.
@@ -105,17 +105,17 @@ altoI = \relative c' {
 
 altoLyricsI = \lyricmode {
     Can -- tia -- mo lie -- ti __ il for -- tu -- na -- to gior -- no
-    Che strin -- se~a~un no -- do sa -- cr’al -- mo~e te -- na -- ce
+    Che strin -- se~a~un no -- do sa -- cr'al -- mo~e te -- na -- ce
     Cop -- pia si de -- gna e con ar -- den -- te fa -- ce~Il fe 
         di -- vi -- no~a -- mor leg -- gia -- dro~a -- dor -- no,
         e con ar -- den -- te fa -- ce~Il fe __ di -- vi -- no~a -- mor 
             leg -- gia -- dro~a -- dor -- no,
             leg -- gia -- dro~a -- dor -- no. __
 
-    Can -- tia -- mo lie -- ti, che già d’o -- gni~in -- tor -- no
-    S’al -- le -- gr’il cie -- lo,
-    S’al -- le -- gr’il cie -- lo, l’a -- ria~e’l ven -- to ta -- ce,
-    E’l bel se -- re -- no~ap -- pa -- re, e già si sfa -- ce~A tut -- ti 
+    Can -- tia -- mo lie -- ti, che già d'o -- gni~in -- tor -- no
+    S'al -- le -- gr'il cie -- lo,
+    S'al -- le -- gr'il cie -- lo, l'a -- ria~e'l ven -- to ta -- ce,
+    E'l bel se -- re -- no~ap -- pa -- re, e già si sfa -- ce~A tut -- ti 
         gli~a -- ni -- man -- ti~un bel sog -- gior -- no, 
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel sog -- gior -- no, 
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel sog -- gior -- no,
@@ -162,16 +162,16 @@ tenoreLyricsI = \lyricmode {
     Can -- tia -- mo lie -- ti,
     \normalLyrics
     Can -- tia -- mo lie -- ti il for -- tu -- na -- to gior -- no
-    Che strin -- se~a~un no -- do sa -- cr’al -- mo~e te -- na -- ce
+    Che strin -- se~a~un no -- do sa -- cr'al -- mo~e te -- na -- ce
     Cop -- pia si de -- gna e con ar -- den -- te fa -- ce~Il fe __
         di -- vi -- no~a -- mor leg -- gia -- dro~a -- dor -- no,
         leg -- gia -- dro~a -- dor -- no,
 
-    Can -- tia -- mo lie -- ti, che già d’o -- gni~in -- tor -- no
-    S’al -- le -- gr’il cie -- lo, 
-        che già d’o -- gni~in -- tor -- no
-    j’al -- le -- gr’il cie -- lo, l’a -- ria~e’l ven -- to ta -- ce,
-    E’l bel se -- re -- no~ap -- pa -- re, e già si sfa -- ce~A tut -- ti 
+    Can -- tia -- mo lie -- ti, che già d'o -- gni~in -- tor -- no
+    S'al -- le -- gr'il cie -- lo, 
+        che già d'o -- gni~in -- tor -- no
+    j'al -- le -- gr'il cie -- lo, l'a -- ria~e'l ven -- to ta -- ce,
+    E'l bel se -- re -- no~ap -- pa -- re, e già si sfa -- ce~A tut -- ti 
         gli~a -- ni -- man -- ti~un bel sog -- gior -- no, 
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel __ sog -- gior -- no, 
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel __ sog -- gior -- no.
@@ -214,17 +214,17 @@ bassoI = \relative c, {
 
 bassoLyricsI = \lyricmode {
     Can -- tia -- mo lie -- ti il for -- tu -- na -- to gior -- no
-    Che strin -- se~a~un no -- do sa -- cr’al -- mo~e te -- na -- ce
+    Che strin -- se~a~un no -- do sa -- cr'al -- mo~e te -- na -- ce
     Cop -- pia si de -- gna e con ar -- den -- te fa -- ce~Il fe __
         di -- vi -- no~a -- mor __ leg -- gia -- dro~a -- dor -- no,
         e con ar -- den -- te fa -- ce~Il fe di -- vi -- no~a -- mor 
             leg -- gia -- dro~a -- dor -- no.
 
     Can -- tia -- mo lie -- ti, __ 
-    Can -- tia -- mo lie -- ti, che già d’o -- gni~in -- tor -- no
-    S’al -- le -- gr’il cie -- lo, 
-        che __ già d’o -- gni~in -- tor -- no S’al -- le -- gr’il cie -- lo, 
-        l’a -- ria~e’l ven -- to ta -- ce,
+    Can -- tia -- mo lie -- ti, che già d'o -- gni~in -- tor -- no
+    S'al -- le -- gr'il cie -- lo, 
+        che __ già d'o -- gni~in -- tor -- no S'al -- le -- gr'il cie -- lo, 
+        l'a -- ria~e'l ven -- to ta -- ce,
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel __ sog -- gior -- no, 
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel __ sog -- gior -- no, 
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel __ sog -- gior -- no,
@@ -267,18 +267,18 @@ quintoI = \relative c' {
 quintoLyricsI = \lyricmode {
     Can -- tia -- mo lie -- ti,
     Can -- tia -- mo lie -- ti il for -- tu -- na -- to gior -- no
-    Che __ strin -- se~a~un no -- do sa -- cr’al -- mo~e __ te -- na -- ce
+    Che __ strin -- se~a~un no -- do sa -- cr'al -- mo~e __ te -- na -- ce
     Cop -- pia si de -- gna e con ar -- den -- te fa -- ce~Il fe __
         di -- vi -- no~a -- mor leg -- gia -- dro~a -- dor -- no,
         e con ar -- den -- te fa -- ce~Il fe __ di -- vi -- no~a -- mor  __
             leg -- gia -- dro~a -- dor -- no.
 
     Can -- tia -- mo lie -- ti,
-    Can -- tia -- mo lie -- ti, __ che già d’o -- gni~in -- tor -- no
-    S’al -- le -- gr’il cie -- lo, 
-        che già d’o -- gni~in -- tor -- no
-    S’al -- le -- gr’il cie -- lo, l’a -- ria~e’l ven -- to ta -- ce,
-    E’l bel se -- re -- no~ap -- pa -- re, e già si sfa -- ce~A tut -- ti 
+    Can -- tia -- mo lie -- ti, __ che già d'o -- gni~in -- tor -- no
+    S'al -- le -- gr'il cie -- lo, 
+        che già d'o -- gni~in -- tor -- no
+    S'al -- le -- gr'il cie -- lo, l'a -- ria~e'l ven -- to ta -- ce,
+    E'l bel se -- re -- no~ap -- pa -- re, e già si sfa -- ce~A tut -- ti 
         gli~a -- ni -- man -- ti~un bel sog -- gior -- no, 
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel sog -- gior -- no, 
         e già si sfa -- ce~A tut -- ti gli~a -- ni -- man -- ti~un bel sog -- gior -- no, 

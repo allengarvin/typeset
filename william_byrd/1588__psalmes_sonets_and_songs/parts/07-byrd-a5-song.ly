@@ -28,7 +28,7 @@
 % I will rise up now saith the Lord,
 % and ease their grief and care:
 % Of those which he full craftily,
-% hath draw’n into his snare.
+% hath draw'n into his snare.
 % 
 % 
 % Like silver fine that tried is
@@ -135,10 +135,10 @@ superiusLyricsVIIb = \lyricmode {
     I will rise up now saith __ the Lord,
         grief and care:
     Of those which he __ full craf -- ti -- ly,
-    hath draw’n in -- to his __ snare,
+    hath draw'n in -- to his __ snare,
     of those which he __ full craf -- ti -- ly,
-    hath draw’n in -- to his __ snare,
-    hath draw’n in -- to his snare,
+    hath draw'n in -- to his __ snare,
+    hath draw'n in -- to his snare,
         'to his __ snare.
 }
 
@@ -255,10 +255,10 @@ mediusLyricsVIIb = \lyricmode {
     I will rise up now saith the Lord,
     and ease their grief and __ care:
     Of those which he full craf -- ti -- ly,
-    hath draw’n in -- to his snare,
+    hath draw'n in -- to his snare,
     of those which he full craf -- ti -- ly,
-    hath draw’n in -- to his snare,
-    hath draw’n in -- to his snare,
+    hath draw'n in -- to his snare,
+    hath draw'n in -- to his snare,
         'to his snare,
 }
 
@@ -390,14 +390,14 @@ contratenorLyricsVIIb = \lyricmode {
     and ease their __ grief and care,
     and ease their grief and care:
     Of those which he full craf -- ti -- ly,
-    hath draw’n in -- to __ his snare,
+    hath draw'n in -- to __ his snare,
         to his __ snare,
 
     of those which he full craf -- ti -- ly,
         full craf -- ti -- ly,
-    hath draw’n in -- to his snare,
-    hath draw’n in -- to his __ snare,
-    hath draw’n in -- to his __ snare.
+    hath draw'n in -- to his snare,
+    hath draw'n in -- to his __ snare,
+    hath draw'n in -- to his __ snare.
 }
 
 contratenorLyricsVIIc = \lyricmode {
@@ -537,11 +537,11 @@ tenorLyricsVIIb = \lyricmode {
     and ease their grief and __ care,
         and care:
     Of those which he full craf -- ti -- ly,
-    hath draw’n in -- to his snare,
+    hath draw'n in -- to his snare,
     Of those which he,
     Of those which he full craf -- ti -- ly,
-    hath draw’n in -- to his snare,
-    hath draw’n in -- to his snare,
+    hath draw'n in -- to his snare,
+    hath draw'n in -- to his snare,
         'to his snare.
 }
 
@@ -682,12 +682,12 @@ bassusLyricsVIIb = \lyricmode {
     and ease their grief and care:
     Of those which he,
     Of those which he full craf -- ti -- ly,
-    hath draw’n in -- to his snare,
+    hath draw'n in -- to his snare,
         'to his __ snare, __
     of those which he full craf -- ti -- ly,
-    hath draw’n in -- to his snare,
+    hath draw'n in -- to his snare,
         'to his __ snare,
-    hath draw’n in -- to his __ snare,
+    hath draw'n in -- to his __ snare,
         'to his __ snare.
 }
 

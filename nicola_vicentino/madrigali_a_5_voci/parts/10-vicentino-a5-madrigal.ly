@@ -1,7 +1,7 @@
-% L’aura che ’l verde lauro et l’aureo crine
+% L'aura che 'l verde lauro et l'aureo crine
 % soavemente sospirando move,
 % fa con sue viste leggiadrette et nove
-% l’anime da’ lor corpi pellegrine.
+% l'anime da' lor corpi pellegrine.
 
 cantoXincipit = \relative c'' {
     \time 2/2
@@ -31,16 +31,16 @@ cantoX = \relative c'' {
 }
 
 cantoLyricsX = \lyricmode {
-    L’au -- ra che’l ver -- de lau -- ro, 
-    L’au -- ra che’l ver -- de lau -- ro~e l’au -- reo cri -- ne
+    L'au -- ra che'l ver -- de lau -- ro, 
+    L'au -- ra che'l ver -- de lau -- ro~e l'au -- reo cri -- ne
     So -- a -- ve -- men -- te so -- spi -- ran -- do mo -- ve,
         so -- spi -- ran -- do mo -- ve,
     So -- a -- ve -- men -- te so -- spi -- ran -- do mo -- ve,
     Fa con sue vi -- ste leg -- gia -- dret -- te~e no -- ve
     Fa con sue vi -- ste leg -- gia -- dret -- te~e no -- ve
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
     \ijLyrics
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
     \normalLyrics
 }
 
@@ -73,11 +73,11 @@ altoX = \relative c' {
 }
 
 altoLyricsX = \lyricmode {
-    L’au -- ra che’l ver -- de lau -- ro e l’au -- reo cri -- ne,
+    L'au -- ra che'l ver -- de lau -- ro e l'au -- reo cri -- ne,
     \ijLyrics
-        e l’au -- reo cri -- ne,
+        e l'au -- reo cri -- ne,
     \normalLyrics
-        e l’au -- reo cri -- ne
+        e l'au -- reo cri -- ne
     So -- a -- ve -- men -- te so -- spi -- ran -- do mo -- ve,
         so -- spi -- ran -- do mo -- ve,
     So -- a -- ve -- men -- te so -- spi -- ran -- do mo -- ve,
@@ -85,9 +85,9 @@ altoLyricsX = \lyricmode {
     \ijLyrics
     Fa con sue vi -- ste leg -- gia -- dret -- te~e no -- ve
     \normalLyrics
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
     \ijLyrics
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
     \normalLyrics
 }
 
@@ -119,11 +119,11 @@ tenoreX = \relative c' {
 }
 
 tenoreLyricsX = \lyricmode {
-    L’au -- ra che’l ver -- de lau -- ro~e l’au -- reo cri -- ne
+    L'au -- ra che'l ver -- de lau -- ro~e l'au -- reo cri -- ne
     \ijLyrics
-    L’au -- ra che’l ver -- de lau -- ro~e l’au -- reo cri -- ne
+    L'au -- ra che'l ver -- de lau -- ro~e l'au -- reo cri -- ne
     \normalLyrics
-        e l’au -- reo cri -- ne
+        e l'au -- reo cri -- ne
     So -- a -- ve -- men -- te so -- spi -- ran -- do mo -- ve,
     So -- a -- ve -- men -- te,
     \ijLyrics
@@ -134,9 +134,9 @@ tenoreLyricsX = \lyricmode {
     \ijLyrics
     Fa con sue vi -- ste leg -- gia -- dret -- te~e no -- ve
     \normalLyrics
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
     \ijLyrics
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
     \normalLyrics
 }
 
@@ -168,19 +168,19 @@ bassoX = \relative c' {
 }
 
 bassoLyricsX = \lyricmode {
-    L’au -- ra che’l ver -- de lau -- ro~e l’au -- reo cri -- ne
+    L'au -- ra che'l ver -- de lau -- ro~e l'au -- reo cri -- ne
     \ijLyrics
-    L’au -- ra che’l ver -- de lau -- ro~e l’au -- reo cri -- ne
+    L'au -- ra che'l ver -- de lau -- ro~e l'au -- reo cri -- ne
     \normalLyrics
-        e l’au -- reo cri -- ne
+        e l'au -- reo cri -- ne
     So -- a -- ve -- men -- te so -- spi -- ran -- do mo -- ve,
     Fa con sue vi -- ste leg -- gia -- dret -- te~e no -- ve
     \ijLyrics
     Fa con sue vi -- ste leg -- gia -- dret -- te~e no -- ve
     \normalLyrics
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
     \ijLyrics
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
     \normalLyrics
 }
 
@@ -211,16 +211,16 @@ quintoX = \relative c' {
 }
 
 quintoLyricsX = \lyricmode {
-    L’au -- ra che’l ver -- de lau -- ro~e l’au -- reo cri -- ne
-        e l’au -- reo cri -- ne,
-            l’au -- reo cri -- ne
+    L'au -- ra che'l ver -- de lau -- ro~e l'au -- reo cri -- ne
+        e l'au -- reo cri -- ne,
+            l'au -- reo cri -- ne
     So -- a -- ve -- men -- te so -- spi -- ran -- do mo -- ve,
         so -- spi -- ran -- do mo -- ve,
     So -- a -- ve -- men -- te so -- spi -- ran -- do mo -- ve,
     Fa con sue vi -- ste leg -- gia -- dret -- te~e no -- ve
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne,
     \ijLyrics
-    L’a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
+    L'a -- ni -- me da lor cor -- pi pel -- le -- gri -- ne.
     \normalLyrics
 }
 

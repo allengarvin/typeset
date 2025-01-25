@@ -1,6 +1,6 @@
 %Liquide perle, Amor, dagli occhi sparse,
 %In premio del mio ardore,
-%Ma, lasso, ohime! che’l core
+%Ma, lasso, ohime! che'l core
 %Di maggior foco m'arse;
 %Ahi, che bastava solo,
 %A darmi morte il primo ardente duolo.
@@ -41,7 +41,7 @@ cantoLyricsI = \lyricmode {
     Ma, las -- so,~ohi -- me!  __
     Ma, las -- so,~ohi -- me! 
         ohi -- me! \ijLyrics ohi -- me! __ \normalLyrics
-            che’l co -- re
+            che'l co -- re
     Di mag -- gior fo -- co m'ar -- se;
     Ahi,
     Ahi, che ba -- sta -- va so -- lo,
@@ -88,7 +88,7 @@ altoLyricsI = \lyricmode {
     Ma, las -- so,~ohi -- me!  
     Ma, las -- so,~ohi -- me! 
         ohi -- me! ohi -- me! \ijLyrics ohi -- me! \normalLyrics
-            che’l co -- re
+            che'l co -- re
     Di mag -- gior fo -- co m'ar -- se;
     Ahi, __
     Ahi, __ che ba -- sta -- va so -- lo,
@@ -133,7 +133,7 @@ tenoreLyricsI = \lyricmode {
     Ma, las -- so,~ohi -- me!  
     Ma, las -- so,~ohi -- me! 
         ohi -- me! ohi -- me!
-            che’l co -- re
+            che'l co -- re
     Di mag -- gior fo -- co m'ar -- se;
     Ahi,
     Ahi, __ che ba -- sta -- va so -- lo,
@@ -218,7 +218,7 @@ quintoLyricsI = \lyricmode {
     In pre -- mio del mio~ar -- do -- re, __
     Ma, las -- so,~ohi -- me!   __
         ohi -- me! \ijLyrics ohi -- me! \normalLyrics ohi -- me! 
-            che’l co -- re
+            che'l co -- re
     Di mag -- gior fo -- co m'ar -- se;
     Ahi,
     Ahi, __ che ba -- sta -- va so -- lo,

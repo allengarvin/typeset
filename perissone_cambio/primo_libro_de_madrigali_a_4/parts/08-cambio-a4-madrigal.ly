@@ -1,7 +1,7 @@
-%XXIV 1 Chi mette il piè su l’amorosa pania,
-%       cerchi ritrarlo, e non v’inveschi l’ale;
+%XXIV 1 Chi mette il piè su l'amorosa pania,
+%       cerchi ritrarlo, e non v'inveschi l'ale;
 %       che non è in somma amor, se non insania,
-%       a giudizio de’ savi universale:
+%       a giudizio de' savi universale:
 %       e se ben come Orlando ognun non smania, suo furor
 %       E quale è di pazzia segno più espresso
 %       che, per altri voler, perder se stesso?
@@ -45,11 +45,11 @@ cantusVIII = \relative c'' {
 }
 
 cantusLyricsVIII = \lyricmode {
-    Chi met -- te~il piè su l’a -- mo -- ro -- sa pa -- nia,
+    Chi met -- te~il piè su l'a -- mo -- ro -- sa pa -- nia,
     Cer -- chi ri -- trar -- lo,
-    cer -- chi ri -- trar -- lo~e non v’in -- ve -- schi l’a -- le,
+    cer -- chi ri -- trar -- lo~e non v'in -- ve -- schi l'a -- le,
     Che non è~in som -- ma~a -- mor, __ se non in -- sa -- nia,
-    A giu -- di -- zio de’ sa -- vi~u -- ni -- ver -- sa -- le,
+    A giu -- di -- zio de' sa -- vi~u -- ni -- ver -- sa -- le,
         u -- ni -- ver -- sa -- le:
     E se ben e -- gual -- men -- te~o -- gnun non sma -- nia, 
         suo fu -- ror mo -- stra,
@@ -97,11 +97,11 @@ altusVIII = \relative c' {
 }
 
 altusLyricsVIII = \lyricmode {
-    Chi met -- te~il piè su l’a -- mo -- ro -- sa pa -- nia,
+    Chi met -- te~il piè su l'a -- mo -- ro -- sa pa -- nia,
     Cer -- chi ri -- trar -- lo,
-    cer -- chi ri -- trar -- lo~e non v’in -- ve -- schi l’a -- le;
+    cer -- chi ri -- trar -- lo~e non v'in -- ve -- schi l'a -- le;
     Che non è~in som -- ma~a -- mor, se non __ in -- sa -- nia,
-    A giu -- di -- zio de’ sa -- vi~u -- ni -- ver -- sa -- le,
+    A giu -- di -- zio de' sa -- vi~u -- ni -- ver -- sa -- le,
         u -- ni -- ver -- sa -- le:
     E se ben e -- gual -- men -- te~o -- gnun non sma -- nia, 
         suo fu -- ror mo -- stra,
@@ -152,14 +152,14 @@ tenorVIII = \relative c' {
 }
 
 tenorLyricsVIII = \lyricmode {
-    Chi met -- te~il piè su l’a -- mo -- ro -- sa pa -- nia,
+    Chi met -- te~il piè su l'a -- mo -- ro -- sa pa -- nia,
     Cer -- chi ri -- trar -- lo,
-    cer -- chi ri -- trar -- lo, e non v’in -- ve -- schi l’a -- le,
-        e non v’in -- ve -- schi l’a -- le;
+    cer -- chi ri -- trar -- lo, e non v'in -- ve -- schi l'a -- le,
+        e non v'in -- ve -- schi l'a -- le;
     Che non è~in som -- ma~a -- mor, se non in -- sa -- nia,
-    A giu -- di -- zio de’ sa -- vi~u -- ni -- ver -- sa -- le,
+    A giu -- di -- zio de' sa -- vi~u -- ni -- ver -- sa -- le,
     \ijLyrics
-    a __ giu -- di -- zio de’ sa -- vi~u -- ni -- ver -- sa -- le:
+    a __ giu -- di -- zio de' sa -- vi~u -- ni -- ver -- sa -- le:
     \normalLyrics
     E se ben e -- gual -- men -- te o -- gnun non sma -- nia, 
         suo __ fu -- ror mo -- stra~a qual -- che~al -- tro se -- gna -- le
@@ -207,12 +207,12 @@ bassusVIII = \relative c' {
 }
 
 bassusLyricsVIII = \lyricmode {
-    Chi met -- te~il piè su l’a -- mo -- ro -- sa pa -- nia,
+    Chi met -- te~il piè su l'a -- mo -- ro -- sa pa -- nia,
     Cer -- chi ri -- trar -- lo,
-    cer -- chi ri -- trar -- lo~e non v’in -- ve -- schi l’a -- le,
-        e non v’in -- ve -- schi l’a -- le;
+    cer -- chi ri -- trar -- lo~e non v'in -- ve -- schi l'a -- le,
+        e non v'in -- ve -- schi l'a -- le;
     Che non è~in som -- ma~a -- mor, se non in -- sa -- nia,
-    A giu -- di -- zio de’ sa -- vi~u -- ni -- ver -- sa -- le,
+    A giu -- di -- zio de' sa -- vi~u -- ni -- ver -- sa -- le,
         u -- ni -- ver -- sa -- le:
     E se ben e -- gual -- men -- te~o -- gnun non sma -- nia, 
         suo fu -- ror mo -- stra~a qual -- che~al -- tro __ se -- gna -- le

@@ -32,12 +32,12 @@ cantoLyricsXXVII = \lyricmode {
     La men -- te mia sì nu -- bi -- lo -- sa~e ne -- ra. __
 
     Qual Pro -- gne si la -- men -- ta o Fi -- lo -- me -- na,
-    Ch’a cer -- car e -- sc'ai fi -- glio -- li -- ni~i -- ta~e -- ra,
+    Ch'a cer -- car e -- sc'ai fi -- glio -- li -- ni~i -- ta~e -- ra,
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     E tro -- va~il ni -- do vo -- to; O qual __ si la -- gna,
-    Tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
+    Tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
         O qual __ si la -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna.
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna.
 }
 
 altoXXVIIincipit = \relative c'' {
@@ -78,15 +78,15 @@ altoLyricsXXVII = \lyricmode {
     La men -- te mia sì nu -- bi -- lo -- sa~e ne -- ra.
 
     Qual Pro -- gne si la -- men -- ta o Fi -- lo -- me -- na,
-    Ch’a cer -- car e -- sc'ai fi -- glio -- li -- ni~i -- ta~e -- ra,
+    Ch'a cer -- car e -- sc'ai fi -- glio -- li -- ni~i -- ta~e -- ra,
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     \ijLyrics
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     \normalLyrics
     E tro -- va~il ni -- do vo -- to; O qual __ si la -- gna,
-    Tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
+    Tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
         O qual __ si la -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna.
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna.
 }
 
 tenoreXXVIIincipit = \relative c' {
@@ -128,13 +128,13 @@ tenoreLyricsXXVII = \lyricmode {
 
     Qual Pro -- gne si la -- men -- ta o Fi -- lo -- me -- na,
         o Fi -- lo -- me -- na,
-    Ch’a cer -- car e -- sc'ai fi -- glio -- li -- ni~i -- ta~e -- ra,
+    Ch'a cer -- car e -- sc'ai fi -- glio -- li -- ni~i -- ta~e -- ra,
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     E tro -- va~il ni -- do vo -- to; O qual __ si la -- gna,
-    Tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
+    Tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
         O qual __ si la -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna.
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna.
 }
 
 bassoXXVIIincipit = \relative c' {
@@ -174,15 +174,15 @@ bassoLyricsXXVII = \lyricmode {
 
     Qual Pro -- gne si la -- men -- ta o Fi -- lo -- me -- na,
         o Fi -- lo -- me -- na,
-    Ch’a cer -- car e -- sc'ai fi -- glio -- li -- ni~i -- ta~e -- ra,
+    Ch'a cer -- car e -- sc'ai fi -- glio -- li -- ni~i -- ta~e -- ra,
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     \ijLyrics
         ai fi -- glio -- li -- ni~i -- ta~e -- ra,
     \normalLyrics
     E tro -- va~il ni -- do vo -- to; O qual __ si la -- gna,
-    Tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna,
+    Tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna,
         O qual __ si la -- gna,
-    tur -- tu -- re ch’ha per -- du -- to la com -- pa -- gna.
+    tur -- tu -- re ch'ha per -- du -- to la com -- pa -- gna.
 }
 
 cantoXXVIIincipitVoice = <<

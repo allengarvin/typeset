@@ -39,17 +39,17 @@ cantoII = \relative c'' {
 cantoLyricsII = \lyricmode {
     Non di mor -- te sei tu,
     non __ di mor -- te sei tu, __ ma di vi -- va -- ci,
-    Ce -- ne -- ri~al -- ber -- g'o -- v’è na -- sco -- sto~A -- mo -- re;
-    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
+    Ce -- ne -- ri~al -- ber -- g'o -- v'è na -- sco -- sto~A -- mo -- re;
+    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
     Men dol -- ci sì, ma non men cal -- de~al co -- re.
     Deh __ pren -- d'i miei so -- spi -- ri, e que -- sti ba -- ci,
     Pren -- di,
     pren -- di,
-    pren -- di, ch’io ba -- gno di do -- glio -- so~u -- mo -- re,
+    pren -- di, ch'io ba -- gno di do -- glio -- so~u -- mo -- re,
     E da -- gli tu,
-    e da -- gli tu, poi ch’io non pos -- so,
-    e da -- gli tu, poi ch’io non pos -- so~al -- me -- no,
-    A l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    e da -- gli tu, poi ch'io non pos -- so,
+    e da -- gli tu, poi ch'io non pos -- so~al -- me -- no,
+    A l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 altoIIincipit = \relative c'' {
@@ -85,17 +85,17 @@ altoLyricsII = \lyricmode {
     Non __ di mor -- te sei tu, ma di vi -- va -- ci,
     Ce -- ne -- ri~al -- ber -- go,
     non di mor -- te sei tu, ma di vi -- va -- ci,
-    ce -- ne -- ri~al -- ber -- g'o -- v’è na -- sco -- sto~A -- mo -- re;
-    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
+    ce -- ne -- ri~al -- ber -- g'o -- v'è na -- sco -- sto~A -- mo -- re;
+    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
     Men dol -- ci sì, ma non men cal -- de~al co -- re.
     Deh __ pren -- d'i miei so -- spi -- ri,
     Pren -- di,
     pren -- di,
-    pren -- di, ch’io ba -- gno di do -- glio -- so~u -- mo -- re,
-    E da -- gli tu, poi ch’io non pos -- so,
+    pren -- di, ch'io ba -- gno di do -- glio -- so~u -- mo -- re,
+    E da -- gli tu, poi ch'io non pos -- so,
     e da -- gli tu,
-    e da -- gli tu, poi ch’io non pos -- so~al -- me -- no,
-    A __ l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    e da -- gli tu, poi ch'io non pos -- so~al -- me -- no,
+    A __ l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 tenoreIIincipit = \relative c' {
@@ -132,19 +132,19 @@ tenoreLyricsII = \lyricmode {
     Non __ di mor -- te sei tu,
     non __ di mor -- te sei tu, ma di vi -- va -- ci,
     Ce -- ne -- ri~al -- ber -- go,
-    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
-        l’u -- sa -- te fa -- ci,
+    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
+        l'u -- sa -- te fa -- ci,
     Men dol -- ci sì, ma non men cal -- de~al co -- re.
     Deh __ pren -- d'i miei so -- spi -- ri~e que -- sti ba -- ci,
     Pren -- di,
     pren -- di,
-    pren -- di, ch’io ba -- gno __ di do -- glio -- so~u -- mo -- re,
-    E da -- gli tu, poi ch’io non pos -- so,
+    pren -- di, ch'io ba -- gno __ di do -- glio -- so~u -- mo -- re,
+    E da -- gli tu, poi ch'io non pos -- so,
     E da -- gli tu,
-    e da -- gli tu, poi ch’io non pos -- so,
-    e da -- gli tu, poi ch’io non pos -- so~al -- me -- no,
+    e da -- gli tu, poi ch'io non pos -- so,
+    e da -- gli tu, poi ch'io non pos -- so~al -- me -- no,
     A l'a -- ma -- te re -- li -- quie,
-    a __ l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    a __ l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 bassoIIincipit = \relative c' {
@@ -177,18 +177,18 @@ bassoLyricsII = \lyricmode {
     Non __ di mor -- te sei tu, __ ma di vi -- va -- ci,
     Ce -- ne -- ri~al -- ber -- go,
     non __ di mor -- te sei tu, ma di vi -- va -- ci,
-    Ce -- ne -- ri~al -- ber -- g'o -- v’è na -- sco -- sto~A -- mo -- re; __
-%    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
+    Ce -- ne -- ri~al -- ber -- g'o -- v'è na -- sco -- sto~A -- mo -- re; __
+%    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
 %    Men dol -- ci sì, ma non men cal -- de~al co -- re.
     Deh __ pren -- d'i miei so -- spi -- ri~e que -- sti ba -- ci,
     Pren -- di,
     pren -- di,
-    pren -- di, __ ch’io ba -- gno di __ do -- glio -- so~u -- mo -- re,
-    E da -- gli tu, poi ch’io non pos -- so,
+    pren -- di, __ ch'io ba -- gno di __ do -- glio -- so~u -- mo -- re,
+    E da -- gli tu, poi ch'io non pos -- so,
     e da -- gli tu,
-    e da -- gli tu, poi ch’io non pos -- so~al -- me -- no,
+    e da -- gli tu, poi ch'io non pos -- so~al -- me -- no,
     A l'a -- ma -- te re -- li -- quie,
-    a l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    a l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 quintoIIincipit = \relative c' {
@@ -225,17 +225,17 @@ quintoLyricsII = \lyricmode {
     Non di mor -- te sei tu, ma di vi -- va -- ci,
     Ce -- ne -- ri~al -- ber -- go,
     Non di mor -- te sei tu, ma di vi -- va -- ci,
-    Ce -- ne -- ri~al -- ber -- go o -- v’è na -- sco -- sto~A -- mo -- re;
-    Sen -- to dal fred -- do tuo l’u -- sa -- te fa -- ci,
+    Ce -- ne -- ri~al -- ber -- go o -- v'è na -- sco -- sto~A -- mo -- re;
+    Sen -- to dal fred -- do tuo l'u -- sa -- te fa -- ci,
     Men dol -- ci sì, ma non men cal -- de~al co -- re.
     Deh __ pren -- d'i miei so -- spi -- ri, e que -- sti ba -- ci,
     Pren -- di,
     pren -- di,
-    pren -- di, __ ch’io ba -- gno di do -- glio -- so~u -- mo -- re,
+    pren -- di, __ ch'io ba -- gno di do -- glio -- so~u -- mo -- re,
     E da -- gli tu,
-    e da -- gli tu, poi ch’io non pos -- so,
+    e da -- gli tu, poi ch'io non pos -- so,
     A l'a -- ma -- te re -- li -- quie,
-    a l'a -- ma -- te re -- li -- quie c’hai nel se -- no.
+    a l'a -- ma -- te re -- li -- quie c'hai nel se -- no.
 }
 
 cantoIIincipitVoice = <<

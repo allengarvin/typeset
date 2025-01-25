@@ -1,29 +1,29 @@
 % Ecco Vinegia bella
-% Che chi domò tant’Hidre 
-% E tant’estinse Mostri 
-% e fe’ tante, e sì notabil prove
+% Che chi domò tant'Hidre 
+% E tant'estinse Mostri 
+% e fe' tante, e sì notabil prove
 % Sol per piacer al suo gran padre Giove 
-% Ch’ancor fanciul lo spinse 
-% Ad alt’imprese ov’egli sempre vinse
-% In gremb’a te che sua fida sorella
-% Con pur’affett’appella
-% S’acqueta e’l mal de la passata via
-% Ne le sue braccia accolto homai s’oblia
-% Tu, scopr’in tanto le tue gioie e mostra
-% Quanto gradir t’aggrada
+% Ch'ancor fanciul lo spinse 
+% Ad alt'imprese ov'egli sempre vinse
+% In gremb'a te che sua fida sorella
+% Con pur'affett'appella
+% S'acqueta e'l mal de la passata via
+% Ne le sue braccia accolto homai s'oblia
+% Tu, scopr'in tanto le tue gioie e mostra
+% Quanto gradir t'aggrada
 % A lui che vene a te per lunga strada.
 % E come vibra il ciel via più che mai
 % Da la stellata chiostra
 % I suoi lucenti rai
 % Quasi che si gran Re tant'a Dio caro
 % Voglia honorar col suo bel lume chiaro
-% Così tu spiega le tue pomp’ e’n mille 
-% Modi e col dolce suon, co’l dolce canto
+% Così tu spiega le tue pomp' e'n mille 
+% Modi e col dolce suon, co'l dolce canto
 % Col ribombar di squille
-% E co’l tuonar de’ cavi bronzi, segno
-% Porgi pront’ed amico
-% Ch’al suo paterno Regno
-% Godi ch’ascenda il glorioso Henrico.
+% E co'l tuonar de' cavi bronzi, segno
+% Porgi pront'ed amico
+% Ch'al suo paterno Regno
+% Godi ch'ascenda il glorioso Henrico.
 cantoXXIXincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-g"
@@ -67,21 +67,21 @@ cantoXXIX = \relative c'' {
 
 cantoLyricsXXIX = \lyricmode {
 %    Ec -- co Vi -- ne -- gia bel -- la
-%    Che chi do -- mò tan -- t’Hi -- dre 
-%    E tan -- t’e -- stin -- se Mo -- stri 
-%    e fe’ tan -- te~e sì no -- ta -- bil pro -- ve
+%    Che chi do -- mò tan -- t'Hi -- dre 
+%    E tan -- t'e -- stin -- se Mo -- stri 
+%    e fe' tan -- te~e sì no -- ta -- bil pro -- ve
 %    Sol per pia -- cer al suo gran pa -- dre Gio -- ve 
-%    Ch’an -- cor fan -- ciul lo spin -- se 
-%    Ad al -- t’im -- pre -- se o -- v’e -- gli sem -- pre vin -- se.
+%    Ch'an -- cor fan -- ciul lo spin -- se 
+%    Ad al -- t'im -- pre -- se o -- v'e -- gli sem -- pre vin -- se.
 
-    In grem -- b’a te, 
-    In grem -- b’a te, che sua fi -- da so -- rel -- la
-    Con pur’ af -- fet -- t’ap -- pel -- la
-    S’ac -- que -- ta e’l mal de la pas -- sa -- ta vi -- a
-    Ne le sue brac -- cia~ac -- col -- to o -- mai s’o -- bli -- a.
+    In grem -- b'a te, 
+    In grem -- b'a te, che sua fi -- da so -- rel -- la
+    Con pur' af -- fet -- t'ap -- pel -- la
+    S'ac -- que -- ta e'l mal de la pas -- sa -- ta vi -- a
+    Ne le sue brac -- cia~ac -- col -- to o -- mai s'o -- bli -- a.
 
-    % Tu, sco -- pr’in tan -- to le tue gio -- ie~e mo -- stra
-    % Quan -- to gra -- dir t’ag -- gra -- da
+    % Tu, sco -- pr'in tan -- to le tue gio -- ie~e mo -- stra
+    % Quan -- to gra -- dir t'ag -- gra -- da
     % A lui che ve -- ne~a te per lun -- ga stra -- da.
 
     E co -- me vi -- bra~il ciel via più che ma -- i
@@ -91,21 +91,21 @@ cantoLyricsXXIX = \lyricmode {
     \ijLyrics
     qua -- si che si gran Re
     \normalLyrics
-        tan -- t’a Dio ca -- ro
+        tan -- t'a Dio ca -- ro
     Vo -- glia~o -- no -- rar col suo bel lu -- me chia -- ro
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e __ col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e __ col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
+    E co'l tuo -- nar,
     \ijLyrics
-    E co’l tuo -- nar 
+    E co'l tuo -- nar 
     \normalLyrics
-        de’ ca -- vi bron -- zi, se -- gno
-    Por -- gi pron -- t’ed a -- mi -- co
+        de' ca -- vi bron -- zi, se -- gno
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di __ ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di __ ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 altoXXIXincipit = \relative c'' {
@@ -152,18 +152,18 @@ altoXXIX = \relative c'' {
 }
 
 altoLyricsXXIX = \lyricmode {
-    In grem -- b’a te, 
+    In grem -- b'a te, 
     \ijLyrics
-    In grem -- b’a te, 
+    In grem -- b'a te, 
     \normalLyrics
         che sua fi -- da __ so -- rel -- la
-    Con pur’ af -- fet -- t’ap -- pel -- la
-    S’ac -- que -- ta e’l mal de la pas -- sa -- ta vi -- a
+    Con pur' af -- fet -- t'ap -- pel -- la
+    S'ac -- que -- ta e'l mal de la pas -- sa -- ta vi -- a
     Ne le sue brac -- cia~ac -- col -- to,
-    ne le sue brac -- cia~ac -- col -- to~o -- mai s’o -- bli -- a.
+    ne le sue brac -- cia~ac -- col -- to~o -- mai s'o -- bli -- a.
 
-    % Tu, sco -- pr’in tan -- to le tue gio -- ie~e mo -- stra
-    % Quan -- to gra -- dir t’ag -- gra -- da
+    % Tu, sco -- pr'in tan -- to le tue gio -- ie~e mo -- stra
+    % Quan -- to gra -- dir t'ag -- gra -- da
     % A lui che ve -- ne~a te per lun -- ga stra -- da.
 
     E co -- me vi -- bra~il ciel via più che ma -- i
@@ -175,15 +175,15 @@ altoLyricsXXIX = \lyricmode {
     \normalLyrics
         tan -- t'a Dio ca -- ro
     Vo -- glia~o -- no -- rar col suo bel lu -- me chia -- ro
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e __ col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e __ col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
-    Por -- gi pron -- t’ed a -- mi -- co
+    E co'l tuo -- nar,
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 tenoreXXIXincipit = \relative c' {
@@ -228,31 +228,31 @@ tenoreXXIX = \relative c' {
 
 tenoreLyricsXXIX = \lyricmode {
 %    Ec -- co Vi -- ne -- gia bel -- la
-    Che chi do -- mò tan -- t’Hi -- dre 
-    E tan -- t’e -- stin -- se Mo -- stri 
-    e __ fe’ tan -- te~e sì no -- ta -- bil pro -- ve
+    Che chi do -- mò tan -- t'Hi -- dre 
+    E tan -- t'e -- stin -- se Mo -- stri 
+    e __ fe' tan -- te~e sì no -- ta -- bil pro -- ve
     Sol per pia -- cer al suo gran pa -- dre Gio -- ve 
-    Ch’an -- cor fan -- ciul lo spin -- se 
-    Ad al -- t’im -- pre -- se o -- v’e -- gli sem -- pre vin -- se,
-        o -- v’e -- gli sem -- pre vin -- se.
+    Ch'an -- cor fan -- ciul lo spin -- se 
+    Ad al -- t'im -- pre -- se o -- v'e -- gli sem -- pre vin -- se,
+        o -- v'e -- gli sem -- pre vin -- se.
 
-    Tu, sco -- pr’in tan -- to le tue gio -- ie e mo -- stra
-    Quan -- to gra -- dir t’ag -- gra -- da __
+    Tu, sco -- pr'in tan -- to le tue gio -- ie e mo -- stra
+    Quan -- to gra -- dir t'ag -- gra -- da __
     A lui che ve -- ne~a te,
         che ve -- ne~a te per lun -- ga stra -- da.
 
-    Co -- sì tu __ spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu __ spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
+    E co'l tuo -- nar,
     \ijLyrics
-    E co’l tuo -- nar 
+    E co'l tuo -- nar 
     \normalLyrics
-    Por -- gi pron -- t’ed a -- mi -- co
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so Hen -- ri -- co.
 }
 
 bassoXXIXincipit = \relative c {
@@ -294,26 +294,26 @@ bassoXXIX = \relative c {
 }
 
 bassoLyricsXXIX = \lyricmode {
-    Che chi do -- mò tan -- t’Hi -- dre 
-    E tan -- t’e -- stin -- se Mo -- stri 
-    e __ fe’ tan -- te~e sì no -- ta -- bil pro -- ve
+    Che chi do -- mò tan -- t'Hi -- dre 
+    E tan -- t'e -- stin -- se Mo -- stri 
+    e __ fe' tan -- te~e sì no -- ta -- bil pro -- ve
     Sol per pia -- cer al suo gran pa -- dre Gio -- ve 
-    Ad al -- t’im -- pre -- se o -- v’e -- gli sem -- pre vin -- se.
+    Ad al -- t'im -- pre -- se o -- v'e -- gli sem -- pre vin -- se.
 
-    Tu, sco -- pr’in tan -- to le tue gio -- ie e mo -- stra
-    Quan -- to gra -- dir t’ag -- gra -- da
+    Tu, sco -- pr'in tan -- to le tue gio -- ie e mo -- stra
+    Quan -- to gra -- dir t'ag -- gra -- da
     A lui che ve -- ne~a te per lun -- ga stra -- da.
 
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e __ col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e __ col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
-    E co’l tuo -- nar de’ ca -- vi bron -- zi, se -- gno
-    Por -- gi pron -- t’ed a -- mi -- co
+    E co'l tuo -- nar,
+    E co'l tuo -- nar de' ca -- vi bron -- zi, se -- gno
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 % canto 2
@@ -359,31 +359,31 @@ quintoXXIX = \relative c'' {
 
 quintoLyricsXXIX = \lyricmode {
     Ec -- co Vi -- ne -- gia bel -- la
-    Che chi do -- mò tan -- t’Hi -- dre 
-    E tan -- t’e -- stin -- se Mo -- stri 
-    e __ fe’ tan -- te~e sì no -- ta -- bil pro -- ve
+    Che chi do -- mò tan -- t'Hi -- dre 
+    E tan -- t'e -- stin -- se Mo -- stri 
+    e __ fe' tan -- te~e sì no -- ta -- bil pro -- ve
     Sol per pia -- cer al suo gran pa -- dre Gio -- ve 
-    Ch’an -- cor fan -- ciul lo spin -- se 
-    Ad al -- t’im -- pre -- se o -- v’e -- gli sem -- pre vin -- se,
-        o -- v’e -- gli sem -- pre vin -- se.
+    Ch'an -- cor fan -- ciul lo spin -- se 
+    Ad al -- t'im -- pre -- se o -- v'e -- gli sem -- pre vin -- se,
+        o -- v'e -- gli sem -- pre vin -- se.
 
-    Tu, sco -- pr’in tan -- to le tue gio -- ie e mo -- stra
-    Quan -- to gra -- dir t’ag -- gra -- da
+    Tu, sco -- pr'in tan -- to le tue gio -- ie e mo -- stra
+    Quan -- to gra -- dir t'ag -- gra -- da
     A lui che ve -- ne~a te per lun -- ga stra -- da.
 
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e __ col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e __ col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
+    E co'l tuo -- nar,
     \ijLyrics
-    E co’l tuo -- nar 
+    E co'l tuo -- nar 
     \normalLyrics
-        de’ ca -- vi bron -- zi, se -- gno
-    Por -- gi pron -- t’ed a -- mi -- co
+        de' ca -- vi bron -- zi, se -- gno
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 sestoXXIXincipit = \relative c' {
@@ -424,35 +424,35 @@ sestoXXIX = \relative c' {
 
 sestoLyricsXXIX = \lyricmode {
 %    Ec -- co Vi -- ne -- gia bel -- la
-%    Che chi do -- mò tan -- t’Hi -- dre 
-%    E tan -- t’e -- stin -- se Mo -- stri 
-%    e fe’ tan -- te~e sì no -- ta -- bil pro -- ve
+%    Che chi do -- mò tan -- t'Hi -- dre 
+%    E tan -- t'e -- stin -- se Mo -- stri 
+%    e fe' tan -- te~e sì no -- ta -- bil pro -- ve
 %    Sol per pia -- cer al suo gran pa -- dre Gio -- ve 
-%    Ch’an -- cor fan -- ciul lo spin -- se 
-%    Ad al -- t’im -- pre -- se o -- v’e -- gli sem -- pre vin -- se.
+%    Ch'an -- cor fan -- ciul lo spin -- se 
+%    Ad al -- t'im -- pre -- se o -- v'e -- gli sem -- pre vin -- se.
 
-    In grem -- b’a te, che sua fi -- da so -- rel -- la
-    Con pur’ af -- fet -- t’ap -- pel -- la
-    S’ac -- que -- ta e’l mal de la pas -- sa -- ta vi -- a
-    Ne le sue brac -- cia~ac -- col -- to~o -- mai s’o -- bli -- a.
+    In grem -- b'a te, che sua fi -- da so -- rel -- la
+    Con pur' af -- fet -- t'ap -- pel -- la
+    S'ac -- que -- ta e'l mal de la pas -- sa -- ta vi -- a
+    Ne le sue brac -- cia~ac -- col -- to~o -- mai s'o -- bli -- a.
 
     E co -- me vi -- bra~il ciel
     I suoi lu -- cen -- ti ra -- i
-    Qua -- si che si gran Re, tan -- t’a Dio ca -- ro
+    Qua -- si che si gran Re, tan -- t'a Dio ca -- ro
     Vo -- glia~o -- no -- rar col suo bel lu -- me chia -- ro
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
+    E co'l tuo -- nar,
     \ijLyrics
-    E co’l tuo -- nar 
+    E co'l tuo -- nar 
     \normalLyrics
-        de’ ca -- vi bron -- zi, se -- gno
-    Por -- gi pron -- t’ed a -- mi -- co
+        de' ca -- vi bron -- zi, se -- gno
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 settimaXXIXincipit = \relative c'' {
@@ -495,14 +495,14 @@ settimaXXIX = \relative c'' {
 }
 
 settimaLyricsXXIX = \lyricmode {
-    In grem -- b’a te, 
+    In grem -- b'a te, 
     \ijLyrics
-    In grem -- b’a te, 
+    In grem -- b'a te, 
     \normalLyrics
         che sua fi -- da so -- rel -- la
-    Con pur’ af -- fet -- t’ap -- pel -- la
-    S’ac -- que -- ta e’l mal de la pas -- sa -- ta vi -- a
-    Ne le sue brac -- cia~ac -- col -- to o -- mai s’o -- bli -- a.
+    Con pur' af -- fet -- t'ap -- pel -- la
+    S'ac -- que -- ta e'l mal de la pas -- sa -- ta vi -- a
+    Ne le sue brac -- cia~ac -- col -- to o -- mai s'o -- bli -- a.
 
     E co -- me vi -- bra~il ciel via più che ma -- i
     Da la stel -- la -- ta chio -- stra,
@@ -510,20 +510,20 @@ settimaLyricsXXIX = \lyricmode {
     Qua -- si che si gran Re,
     qua -- si che si gran Re tan -- t'a Dio ca -- ro
     Vo -- glia~o -- no -- rar col suo bel lu -- me chia -- ro
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e __ col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e __ col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
-    E co’l tuo -- nar,
+    E co'l tuo -- nar,
+    E co'l tuo -- nar,
     \ijLyrics
-    E co’l tuo -- nar 
+    E co'l tuo -- nar 
     \normalLyrics
-        de’ ca -- vi bron -- zi, se -- gno
-    Por -- gi pron -- t’ed a -- mi -- co
+        de' ca -- vi bron -- zi, se -- gno
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 ottavaXXIXincipit = \relative c' {
@@ -570,30 +570,30 @@ ottavaXXIX = \relative c' {
 
 ottavaLyricsXXIX = \lyricmode {
     Ec -- co Vi -- ne -- gia bel -- la
-    Che chi do -- mò tan -- t’Hi -- dre 
-    e fe’ tan -- te~e sì no -- ta -- bil pro -- ve
+    Che chi do -- mò tan -- t'Hi -- dre 
+    e fe' tan -- te~e sì no -- ta -- bil pro -- ve
     Sol per pia -- cer al suo gran pa -- dre Gio -- ve 
-    Ch’an -- cor fan -- ciul lo spin -- se 
-    Ad __ al -- t’im -- pre -- se o -- v’e -- gli sem -- pre vin -- se.
+    Ch'an -- cor fan -- ciul lo spin -- se 
+    Ad __ al -- t'im -- pre -- se o -- v'e -- gli sem -- pre vin -- se.
 
-    Tu, sco -- pr’in tan -- to le tue gio -- ie e mo -- stra
-    Quan -- to gra -- dir t’ag -- gra -- da 
+    Tu, sco -- pr'in tan -- to le tue gio -- ie e mo -- stra
+    Quan -- to gra -- dir t'ag -- gra -- da 
     A lui che ve -- ne~a te,
           che ve -- ne~a te __ per lun -- ga stra -- da.
 
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
+    E co'l tuo -- nar,
     \ijLyrics
-    E co’l tuo -- nar 
+    E co'l tuo -- nar 
     \normalLyrics
-        de’ ca -- vi bron -- zi, se -- gno
-    Por -- gi __ pron -- t’ed a -- mi -- co
+        de' ca -- vi bron -- zi, se -- gno
+    Por -- gi __ pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 nonaXXIXincipit = \relative c'' {
@@ -637,26 +637,26 @@ nonaXXIX = \relative c'' {
 
 nonaLyricsXXIX = \lyricmode {
     Ec -- co Vi -- ne -- gia bel -- la
-    E tan -- t’e -- stin -- se Mo -- stri 
-    e __ fe’ tan -- te~e sì no -- ta -- bil pro -- ve
+    E tan -- t'e -- stin -- se Mo -- stri 
+    e __ fe' tan -- te~e sì no -- ta -- bil pro -- ve
     Sol per pia -- cer al suo gran pa -- dre Gio -- ve 
-    Ad al -- t’im -- pre -- se o -- v’e -- gli sem -- pre vin -- se,
-        o -- v’e -- gli sem -- pre vin -- se.
+    Ad al -- t'im -- pre -- se o -- v'e -- gli sem -- pre vin -- se,
+        o -- v'e -- gli sem -- pre vin -- se.
 
-    Tu, sco -- pr’in tan -- to le tue gio -- ie e mo -- stra
-    Quan -- to gra -- dir t’ag -- gra -- da 
+    Tu, sco -- pr'in tan -- to le tue gio -- ie e mo -- stra
+    Quan -- to gra -- dir t'ag -- gra -- da 
     A lui che ve -- ne~a te, per lun -- ga stra -- da.
 
-    Co -- sì tu spie -- ga le __ tue pom -- p’e’n mil -- le 
-    Mo -- di e __ col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le __ tue pom -- p'e'n mil -- le 
+    Mo -- di e __ col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
-    E co’l tuo -- nar 
-    Por -- gi pron -- t’ed a -- mi -- co
+    E co'l tuo -- nar,
+    E co'l tuo -- nar 
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di __ ch’a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di __ ch'a -- scen -- da il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 decimaXXIXincipit = \relative c' {
@@ -701,32 +701,32 @@ decimaXXIX = \relative c' {
 
 decimaLyricsXXIX = \lyricmode {
     Ec -- co Vi -- ne -- gia bel -- la
-    Che chi do -- mò tan -- t’Hi -- dre 
-    E tan -- t’e -- stin -- se Mo -- stri 
-    e __ fe’ tan -- te~e sì no -- ta -- bil pro -- ve
+    Che chi do -- mò tan -- t'Hi -- dre 
+    E tan -- t'e -- stin -- se Mo -- stri 
+    e __ fe' tan -- te~e sì no -- ta -- bil pro -- ve
     Sol per pia -- cer,
     Sol per pia -- cer al suo gran pa -- dre Gio -- ve 
-    Ch’an -- cor fan -- ciul lo spin -- se 
-    Ad al -- t’im -- pre -- se o -- v’e -- gli sem -- pre vin -- se,
-        o -- v’e -- gli sem -- pre vin -- se.
+    Ch'an -- cor fan -- ciul lo spin -- se 
+    Ad al -- t'im -- pre -- se o -- v'e -- gli sem -- pre vin -- se,
+        o -- v'e -- gli sem -- pre vin -- se.
 
-    Tu, sco -- pr’in tan -- to le tue gio -- ie e mo -- stra
-    Quan -- to gra -- dir t’ag -- gra -- da
+    Tu, sco -- pr'in tan -- to le tue gio -- ie e mo -- stra
+    Quan -- to gra -- dir t'ag -- gra -- da
     A lui che ve -- ne~a te, per lun -- ga stra -- da.
 
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e __ col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e __ col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
+    E co'l tuo -- nar,
     \ijLyrics
-    E co’l tuo -- nar 
+    E co'l tuo -- nar 
     \normalLyrics
-        de’ ca -- vi bron -- zi, se -- gno
-    Por -- gi pron -- t’ed a -- mi -- co
+        de' ca -- vi bron -- zi, se -- gno
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 undecimaXXIXincipit = \relative c' {
@@ -771,31 +771,31 @@ undecimaXXIX = \relative c' {
 }
 
 undecimaLyricsXXIX = \lyricmode {
-    In grem -- b’a te, che sua fi -- da so -- rel -- la
-    Con pur’ af -- fet -- t’ap -- pel -- la
-    S’ac -- que -- ta e’l mal de la pas -- sa -- ta vi -- a
+    In grem -- b'a te, che sua fi -- da so -- rel -- la
+    Con pur' af -- fet -- t'ap -- pel -- la
+    S'ac -- que -- ta e'l mal de la pas -- sa -- ta vi -- a
     Ne le sue brac -- cia~ac -- col -- to,
     \ijLyrics
     Ne le sue brac -- cia~ac -- col -- to
     \normalLyrics
-        o -- mai s’o -- bli -- a.
+        o -- mai s'o -- bli -- a.
 
     E co -- me vi -- bra~il ciel
     Da la stel -- la -- ta chio -- stra,
-    Qua -- si che si gran Re, tan -- t’a Dio ca -- ro
+    Qua -- si che si gran Re, tan -- t'a Dio ca -- ro
     Vo -- glia~o -- no -- rar col suo bel lu -- me chia -- ro
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di e __ col dol -- ce suon, co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di e __ col dol -- ce suon, co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
+    E co'l tuo -- nar,
     \ijLyrics
-    E co’l tuo -- nar 
+    E co'l tuo -- nar 
     \normalLyrics
-    Por -- gi pron -- t’ed a -- mi -- co
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 duodecimaXXIXincipit = \relative c' {
@@ -838,32 +838,32 @@ duodecimaXXIX = \relative c' {
 }
 
 duodecimaLyricsXXIX = \lyricmode {
-    In grem -- b’a te, 
+    In grem -- b'a te, 
     \ijLyrics
-    In grem -- b’a te, 
+    In grem -- b'a te, 
     \normalLyrics
         che sua fi -- da so -- rel -- la
-    Con pur’ af -- fet -- t’ap -- pel -- la
-    S’ac -- que -- ta e’l mal de la pas -- sa -- ta vi -- a __
-    Ne le sue brac -- cia~ac -- col -- to~o -- mai s’o -- bli -- a.
+    Con pur' af -- fet -- t'ap -- pel -- la
+    S'ac -- que -- ta e'l mal de la pas -- sa -- ta vi -- a __
+    Ne le sue brac -- cia~ac -- col -- to~o -- mai s'o -- bli -- a.
 
     E co -- me vi -- bra~il ciel via più che ma -- i
     I suoi lu -- cen -- ti ra -- i
-    Qua -- si che si gran Re, tan -- t’a Dio ca -- ro
+    Qua -- si che si gran Re, tan -- t'a Dio ca -- ro
     Vo -- glia~o -- no -- rar col suo bel lu -- me chia -- ro
-    Co -- sì tu spie -- ga le tue pom -- p’e’n mil -- le 
-    Mo -- di co’l dol -- ce can -- to
+    Co -- sì tu spie -- ga le tue pom -- p'e'n mil -- le 
+    Mo -- di co'l dol -- ce can -- to
     Col ri -- bom -- bar di squil -- le
-    E co’l tuo -- nar,
+    E co'l tuo -- nar,
     \ijLyrics
-    E co’l tuo -- nar 
+    E co'l tuo -- nar 
     \normalLyrics
-        de’ ca -- vi bron -- zi, se -- gno
-    Por -- gi pron -- t’ed a -- mi -- co
+        de' ca -- vi bron -- zi, se -- gno
+    Por -- gi pron -- t'ed a -- mi -- co
     Che~al suo pa -- ter -- no Re -- gno __
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co,
     Che~al suo pa -- ter -- no Re -- gno
-    Go -- di ch’a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
+    Go -- di ch'a -- scen -- da~il glo -- ri -- o -- so~Hen -- ri -- co.
 }
 
 cantoXXIXincipitVoice = <<

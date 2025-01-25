@@ -11,7 +11,7 @@
 % Mai a me tu basciata
 % Cucurucucu!
 % Che papa lasagna
-% Metter’ uccelli entr’ agaiola
+% Metter' uccelli entr' agaiola
 % Cucurucucu!
 % Leva da loco, piglia zampogna
 % Va sonando, per chissa cantuna.
@@ -24,7 +24,7 @@
 % Lassa Lucia!
 % U madonna, a ti cilum barbuni
 % U macera ca tu tuni,
-% Sona, son’e non glidare,
+% Sona, son'e non glidare,
 % Lirum li, lirum li.
 % (La mogliere del peccoraro:
 % Sette peccore a ‘no danaro:
@@ -113,7 +113,7 @@ cantoLyricsXXX = \lyricmode {
     Cu cu ru cu!
     Cu cu ru cu! 
     Che pa -- pa la -- sa -- gna
-    Met -- ter’ uc -- cel -- li~en -- tr’a -- ga -- io -- la
+    Met -- ter' uc -- cel -- li~en -- tr'a -- ga -- io -- la
     Cu cu ru cu! 
     Le -- va da lo -- co, pi -- glia zam -- po -- gna
     % Va sonando, per chissa cantuna.
@@ -239,7 +239,7 @@ altoLyricsXXX = \lyricmode {
     \normalLyrics
 
 %    Che pa -- pa la -- sa -- gna
-%    Met -- ter’ uc -- cel -- li~en -- tr’a -- ga -- io -- la
+%    Met -- ter' uc -- cel -- li~en -- tr'a -- ga -- io -- la
 %    Cu cu ru cu! 
     Le -- va da lo -- co, pi -- glia zam -- po -- gna
     Va so -- nan -- do, per chis -- sa can -- tu -- na.
@@ -359,7 +359,7 @@ tenoreLyricsXXX = \lyricmode {
     Cu cu ru cu!
     Cu cu ru cu! 
     Che pa -- pa la -- sa -- gna
-    Met -- ter’ uc -- cel -- li~en -- tr’a -- ga -- io -- la
+    Met -- ter' uc -- cel -- li~en -- tr'a -- ga -- io -- la
     Cu cu ru cu! 
     Cu cu ru cu! 
     Le -- va da lo -- co, pi -- glia zam -- po -- gna
@@ -586,7 +586,7 @@ quintoLyricsXXX = \lyricmode {
     Cu cu ru cu!
     Cu cu ru cu! 
     Che pa -- pa la -- sa -- gna
-    Met -- ter’ uc -- cel -- li~en -- tr’a -- ga -- io -- la
+    Met -- ter' uc -- cel -- li~en -- tr'a -- ga -- io -- la
     Cu cu ru cu! 
     Cu cu ru cu! 
     Le -- va da lo -- co, pi -- glia zam -- po -- gna

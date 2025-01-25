@@ -1,14 +1,14 @@
-%Vener, ch’un giorno avea
+%Vener, ch'un giorno avea
 %Perduto il caro suo fanciul Amore,
 %Con materno dolore
-%Ricorse agl’occh’ ov’ abitar solea
+%Ricorse agl'occh' ov' abitar solea
 %(Di Margherita, e in quelli)
 %Nol ritrovando, con dogliosi stridi
 %Disse: “Se in questi nidi
 %Non sei tu, figlio mio,
-%Dove trovarti più sperar debb’io?”
-%Intanto ella volgend’ ai bei capelli
-%Gl’occhi languidi omai per lunghi pianti,
+%Dove trovarti più sperar debb'io?”
+%Intanto ella volgend' ai bei capelli
+%Gl'occhi languidi omai per lunghi pianti,
 %Vide che di quel or mille novelli
 %Laccioli ordiva ai miserelli amanti.
 
@@ -59,7 +59,7 @@ cantoXX = \relative c' {
 }
 
 cantoLyricsXX = \lyricmode {
-    Ve -- ner, ch’un gior -- no~a -- ve -- a
+    Ve -- ner, ch'un gior -- no~a -- ve -- a
     Per -- du -- to~il ca -- ro suo fan -- ciul A -- mo -- re,
     Con __ ma -- ter -- no do -- lo -- re, __
     Con ma -- ter -- no do -- lo -- re,
@@ -75,11 +75,11 @@ cantoLyricsXX = \lyricmode {
     Nol ri -- tro -- van -- do, con do -- glio -- si stri -- di
     Dis -- se: se~in que -- sti ni -- di
     Non sei tu, fi -- glio mi -- o,
-    Do -- ve tro -- var -- ti più spe -- rar deb -- b’i -- o?
+    Do -- ve tro -- var -- ti più spe -- rar deb -- b'i -- o?
         se~in que -- sti ni -- di
     Non sei tu, fi -- glio mi -- o,
     Do -- ve tro -- var -- ti più,
-    Do -- ve tro -- var -- ti più spe -- rar deb -- b’i -- o?
+    Do -- ve tro -- var -- ti più spe -- rar deb -- b'i -- o?
     In -- tan -- to el -- la vol -- gen -- do~ai bei ca -- pel -- li
     Gli~oc -- chi lan -- gui -- di~o -- mai per lun -- ghi pian -- ti,
     Gli~oc -- chi lan -- gui -- di~o -- mai per lun -- ghi pian -- ti,
@@ -138,7 +138,7 @@ altoXX = \relative c'' {
 }
 
 altoLyricsXX = \lyricmode {
-    Ve -- ner, ch’un gior -- no~a -- ve -- a
+    Ve -- ner, ch'un gior -- no~a -- ve -- a
     Per -- du -- to~il ca -- ro suo fan -- ciul A -- mo -- re, __
     Con ma -- ter -- no do -- lo -- re, 
     Ri -- cor -- se~a -- gli~oc -- chi~o -- ve~a -- bi -- tar so -- le -- a,
@@ -152,12 +152,12 @@ altoLyricsXX = \lyricmode {
     Nol ri -- tro -- van -- do, con do -- glio -- si stri -- di
     Dis -- se: se~in que -- sti ni -- di
     Non sei tu, fi -- glio mi -- o,
-    Do -- ve tro -- var -- ti più spe -- rar deb -- b’i -- o?
+    Do -- ve tro -- var -- ti più spe -- rar deb -- b'i -- o?
     Do -- ve tro -- var -- ti più 
     \ijLyrics
     Do -- ve tro -- var -- ti più 
     \normalLyrics
-        spe -- rar deb -- b’i -- o?
+        spe -- rar deb -- b'i -- o?
     In -- tan -- to el -- la vol -- gen -- do~ai bei ca -- pel -- li
     Gli~oc -- chi lan -- gui -- di~o -- mai per lun -- ghi pian -- ti,
         per lun -- ghi pian -- ti,
@@ -214,7 +214,7 @@ tenoreXX = \relative c' {
 }
 
 tenoreLyricsXX = \lyricmode {
-    Ve -- ner, ch’un gior -- no~a -- ve -- a
+    Ve -- ner, ch'un gior -- no~a -- ve -- a
     Per -- du -- to~il ca -- ro suo fan -- ciul A -- mo -- re, __
     Con ma -- ter -- no do -- lo -- re,  __
     Con ma -- ter -- no do -- lo -- re,
@@ -224,10 +224,10 @@ tenoreLyricsXX = \lyricmode {
     Nol ri -- tro -- van -- do, con do -- glio -- si stri -- di
     Dis -- se: se~in que -- sti ni -- di
     Non sei tu, fi -- glio mi -- o,
-    Do -- ve tro -- var -- ti più __ spe -- rar deb -- b’i -- o?
+    Do -- ve tro -- var -- ti più __ spe -- rar deb -- b'i -- o?
         se~in que -- sti ni -- di
     Non sei tu, fi -- glio mi -- o,
-    Do -- ve tro -- var -- ti più spe -- rar __ deb -- b’i -- o?
+    Do -- ve tro -- var -- ti più spe -- rar __ deb -- b'i -- o?
     In -- tan -- to el -- la vol -- gen -- do~ai bei ca -- pel -- li
     Gli~oc -- chi lan -- gui -- di~o -- mai per lun -- ghi pian -- ti,
     Gli~oc -- chi lan -- gui -- di~o -- mai per lun -- ghi pian -- ti,
@@ -293,7 +293,7 @@ bassoLyricsXX = \lyricmode {
     Nol ri -- tro -- van -- do, con do -- glio -- si stri -- di
     Dis -- se: se~in que -- sti ni -- di
     Non sei tu, fi -- glio mi -- o,
-    Do -- ve tro -- var -- ti più spe -- rar deb -- b’i -- o?
+    Do -- ve tro -- var -- ti più spe -- rar deb -- b'i -- o?
     In -- tan -- to el -- la vol -- gen -- do~ai bei ca -- pel -- li
     Gli~oc -- chi lan -- gui -- di~o -- mai per lun -- ghi pian -- ti,
     Gli~oc -- chi lan -- gui -- di~o -- mai per lun -- ghi pian -- ti,
@@ -350,7 +350,7 @@ quintoXX = \relative c' {
 }
 
 quintoLyricsXX = \lyricmode {
-    Ve -- ner, ch’un gior -- no~a -- ve -- a
+    Ve -- ner, ch'un gior -- no~a -- ve -- a
     Per -- du -- to~il ca -- ro suo fan -- ciul A -- mo -- re,
     Con __ ma -- ter -- no do -- lo -- re, 
         do -- lo -- re
@@ -369,7 +369,7 @@ quintoLyricsXX = \lyricmode {
     \ijLyrics
     Do -- ve tro -- var -- ti più,
     \normalLyrics
-        spe -- rar deb -- b’i -- o?
+        spe -- rar deb -- b'i -- o?
     In -- tan -- to el -- la vol -- gen -- do~ai bei ca -- pel -- li
     Gli~oc -- chi lan -- gui -- di~o -- mai per lun -- ghi pian -- ti,
     Gli~oc -- chi lan -- gui -- di~o -- mai per lun -- ghi pian -- ti, __

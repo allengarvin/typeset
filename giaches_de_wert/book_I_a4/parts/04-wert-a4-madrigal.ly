@@ -39,7 +39,7 @@ cantoLyricsIV = \lyricmode {
     E le -- ga~e stri -- gne co -- me chio -- do~al mez -- zo __
     On -- de~o -- gni par -- te god' e si ral -- le -- gra tan -- to,
     Che suoi di -- let -- ti non han mez -- zo,
-    E s’huom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'huom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to, 
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to. 
 }
@@ -79,7 +79,7 @@ altoLyricsIV = \lyricmode {
     On -- de~o -- gni par -- te god' e si ral -- le -- gra
         si ral -- le -- gra tan -- to,
     Che suoi di -- let -- ti non han mez -- zo,
-    E s’huom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'huom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
         di -- ver -- ria be -- a -- to. 
 }
@@ -120,7 +120,7 @@ tenoreLyricsIV = \lyricmode {
     On -- de~o -- gni par -- te god' e si __ ral -- le -- gra
     On -- de~o -- gni par -- te god' e si ral -- le -- gra tan -- to
     Che suoi di -- let -- ti non han mez -- zo,
-    E s’huom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'huom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to.
 }
@@ -161,7 +161,7 @@ bassoLyricsIV = \lyricmode {
     On -- de~o -- gni par -- te god' e si __ ral -- le -- gra
         e si ral -- le -- gra tan -- to,
     Che suoi di -- let -- ti non han mez -- zo,
-    E s’huom du -- ras -- se mol -- to~in ta -- le sta -- to,
+    E s'huom du -- ras -- se mol -- to~in ta -- le sta -- to,
     Com -- pi -- ta -- men -- te di -- ver -- ria be -- a -- to,
         di -- ver -- ria be -- a -- to. 
 }
@@ -200,5 +200,5 @@ bassoIVincipitVoice = <<
 % E lega e strigne come‘ chiodo al mezzo;
 % Onde ogni parte god' e si rallegra tanto,
 % Che suoi diletti non han mezzo:
-% E s’uom durasse molto in tale stato,
+% E s'uom durasse molto in tale stato,
 % Compitamente diverria beato. 

@@ -328,38 +328,38 @@ quintoIIincipitVoice = <<
 
 %Qual musico gentil prima che chiara
 %altamente la voce al canto snodi,
-%al’armonia gli animi altrui prepara
+%al'armonia gli animi altrui prepara
 %con dolci ricercate in bassi modi,
 %così costei, che nella doglia amara
-%già tutti non oblia l’arte e le frodi,
+%già tutti non oblia l'arte e le frodi,
 %fa di sospir breve concento in prima
-%per dispor l’alma in cui le voci imprima.
+%per dispor l'alma in cui le voci imprima.
 %
-%Poi cominciò: “Non aspettar ch’io preghi,
+%Poi cominciò: “Non aspettar ch'io preghi,
 %crudel, te, come amante amante deve.
-%Tai fumm’ un tempo; or se tal esser neghi,
-%e di ciò la memoria anco t’è greve,
+%Tai fumm' un tempo; or se tal esser neghi,
+%e di ciò la memoria anco t'è greve,
 %come nemico almen ascolta: i preghi
-%d’un nemico talor l’altro riceve.
-%Ben quel ch’io chieggio è tal che darlo puoi
+%d'un nemico talor l'altro riceve.
+%Ben quel ch'io chieggio è tal che darlo puoi
 %e integri conservar gli sdegni tuoi.
 %
-%Se m’odii, e in ciò diletto alcun tu senti,
-%non te’n vengo a privar: godi pur d’esso.
-%Giusto a te pare e siasi. Anch’io le genti
-%cristiane odiai, no’l nego, odiai te stesso.
+%Se m'odii, e in ciò diletto alcun tu senti,
+%non te'n vengo a privar: godi pur d'esso.
+%Giusto a te pare e siasi. Anch'io le genti
+%cristiane odiai, no'l nego, odiai te stesso.
 %Nacqui pagana, usai vari argomenti
 %che per me fosse il vostro imperio opresso;
 %te perseguii, te presi, e te lontano
-%da l’arme trassi in loco ignoto e strano
+%da l'arme trassi in loco ignoto e strano
 %
-%Aggiungi a quest’ ancor quel ch’a maggiore
+%Aggiungi a quest' ancor quel ch'a maggiore
 %onta tu rechi ed a maggior tuo danno:
-%t’ingannai, t’allettai nel nostro amore;
-%empia lusinga certo, iniqu’ inganno,
+%t'ingannai, t'allettai nel nostro amore;
+%empia lusinga certo, iniqu' inganno,
 %lasciarsi corre il virginal suo fiore,
 %far de le sue bellezze altrui tiranno,
-%quelle ch’a mille antichi in premio sono
+%quelle ch'a mille antichi in premio sono
 %negate, offrire a novo amante in dono!
 %
 %Sia questa pur tra le mie frodi, e vaglia
@@ -367,7 +367,7 @@ quintoIIincipitVoice = <<
 %che tu quinci ti parta e non ti caglia
 %di questo albergo tuo già sì diletto.
 %Vattene, passa il mar, pugna, travaglia,
-%struggi la fede nostra: anch’io t’affretto.
+%struggi la fede nostra: anch'io t'affretto.
 %che dico nostra? ah non più mia! fedele
 %sono a te solo, idolo mio crudele.
 %
@@ -413,6 +413,6 @@ quintoIIincipitVoice = <<
 %from a place once so delightful to you.
 %Go then, cross the sea, fight and labour,
 %struggle for our faith: I also urge you.
-%What do I say, ‘our’? Ah no longer mine! Faithful
+%What do I say, ‘our'? Ah no longer mine! Faithful
 %I am to you alone, my cruel idol.
  

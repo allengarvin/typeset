@@ -1,7 +1,7 @@
 % Non giacinti o narcisi
 % ma piccioletti fior siamo, che Amore
 % manda a voi, di beltà candido fiore.
-% O se il sol de’ vostri occhi
+% O se il sol de' vostri occhi
 % pur un poco ne tocchi,
 % saran vil alghe poi
 % e narcisi e giacinti a fronte a noi!
@@ -74,9 +74,9 @@ cantoLyricsV = \lyricmode {
         can -- di -- do fio -- re, __
         can -- di -- do fio -- re.
 
-    O se'l sol de’ vo -- stri~oc -- chi,
+    O se'l sol de' vo -- stri~oc -- chi,
     \ijLyrics
-    o se'l sol de’ vo -- stri~oc -- chi
+    o se'l sol de' vo -- stri~oc -- chi
     \normalLyrics
     Pur un po -- co ne toc -- chi,
     Sa -- ran vil al -- ghe po -- i,
@@ -158,9 +158,9 @@ altoLyricsV = \lyricmode {
         can -- di -- do fio -- re.
     \normalLyrics
 
-    O se'l sol de’ vo -- stri~oc -- chi
+    O se'l sol de' vo -- stri~oc -- chi
     Pur un po -- co ne toc -- chi,
-    o se'l sol de’ vo -- stri~oc -- chi
+    o se'l sol de' vo -- stri~oc -- chi
     pur un po -- co ne toc -- chi,
     pur un po -- co ne toc -- chi,
     Sa -- ran vil al -- ghe po -- i,
@@ -226,9 +226,9 @@ tenoreLyricsV = \lyricmode {
     \normalLyrics
         can -- di -- do fio -- re.
 
-    O se'l sol de’ vo -- stri~oc -- chi
+    O se'l sol de' vo -- stri~oc -- chi
     Pur un po -- co ne toc -- chi,
-    o se'l sol de’ vo -- stri~oc -- chi
+    o se'l sol de' vo -- stri~oc -- chi
     pur un po -- co ne toc -- chi,
     Sa -- ran vil al -- ghe po -- i,
     E nar -- ci -- si~e gia -- cin -- ti~a fron -- te~a no -- i,
@@ -294,9 +294,9 @@ bassoLyricsV = \lyricmode {
         can -- di -- do fio -- re,
         can -- di -- do fio -- re.
 
-    O se'l sol de’ vo -- stri~oc -- chi,
+    O se'l sol de' vo -- stri~oc -- chi,
     \ijLyrics
-    o se'l sol de’ vo -- stri~oc -- chi
+    o se'l sol de' vo -- stri~oc -- chi
     \normalLyrics
     Pur un po -- co ne toc -- chi,
     Sa -- ran vil al -- ghe po -- i,
@@ -378,9 +378,9 @@ quintoLyricsV = \lyricmode {
         can -- di -- do fio -- re,
         can -- di -- do fio -- re.
 
-    O se'l sol de’ vo -- stri~oc -- chi,
+    O se'l sol de' vo -- stri~oc -- chi,
     \ijLyrics
-    o se'l sol de’ vo -- stri~oc -- chi
+    o se'l sol de' vo -- stri~oc -- chi
     \normalLyrics
     Pur un po -- co ne toc -- chi,
     Sa -- ran vil al -- ghe po -- i,

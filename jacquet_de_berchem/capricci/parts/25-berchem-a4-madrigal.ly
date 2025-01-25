@@ -1,11 +1,11 @@
 %    126  – Queste non son più lacrime, che fuore
 %         stillo dagli occhi con sì larga vena.
 %         Non suppliron le lacrime al dolore:
-%         finir, ch’a mezzo era il dolore a pena.
+%         finir, ch'a mezzo era il dolore a pena.
 %         Dal fuoco spinto ora il vitale umore
-%         fugge per quella via ch’agli occhi mena;
+%         fugge per quella via ch'agli occhi mena;
 %         et è quel che si versa, e trarrà insieme
-%         e ’l dolore e la vita all’ore estreme.
+%         e 'l dolore e la vita all'ore estreme.
 
 cantoXXVincipit = \relative c'' {
     \time 4/4
@@ -48,16 +48,16 @@ cantoLyricsXXV = \lyricmode {
     Non sup -- pli -- ron le la -- cri -- me~al do -- lo -- re,
     non sup -- pli -- ron le __ la -- cri -- me~al do -- lo -- re:
         le la -- cri -- me~al do -- lo -- re:
-    Fi -- nir, ch’a mez -- zo~e -- ra~il do -- lo -- r'a pe -- na,
+    Fi -- nir, ch'a mez -- zo~e -- ra~il do -- lo -- r'a pe -- na,
         il do -- lo -- r'a pe -- na.
     Dal fuo -- co spin -- to~o -- ra~il vi -- ta -- l'u -- mo -- re
-    Fug -- ge per quel -- la via ch’a -- gli~oc -- chi me -- na;
+    Fug -- ge per quel -- la via ch'a -- gli~oc -- chi me -- na;
     Et è quel che si ver -- sa~e trar -- rà~in -- sie -- me
-    E’l do -- lo -- r'e __ la vi -- ta~al -- l’o -- re~e -- stre -- me,
-        al -- l’o -- re~e -- stre -- me,
-    e’l do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-    e’l do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-        la vi -- ta~al -- l’o -- re~e -- stre -- me.
+    E'l do -- lo -- r'e __ la vi -- ta~al -- l'o -- re~e -- stre -- me,
+        al -- l'o -- re~e -- stre -- me,
+    e'l do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+    e'l do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+        la vi -- ta~al -- l'o -- re~e -- stre -- me.
 }
 
 altoXXVincipit = \relative c' {
@@ -102,18 +102,18 @@ altoLyricsXXV = \lyricmode {
     non sup -- pli -- ron le la -- cri -- me,
     non sup -- pli -- ron le __ la -- cri -- me~al do -- lo -- re:
         le la -- cri -- me~al do -- lo -- re:
-    Fi -- nir, ch’a mez -- zo~e -- ra~il do -- lo -- re,
+    Fi -- nir, ch'a mez -- zo~e -- ra~il do -- lo -- re,
         il do -- lo -- r'a pe -- na.
     Dal fuo -- co spin -- to~o -- ra~il vi -- ta -- l'u -- mo -- re
-    Fug -- ge per quel -- la via ch’a -- gli~oc -- chi me -- na; __
+    Fug -- ge per quel -- la via ch'a -- gli~oc -- chi me -- na; __
     Et è quel che si ver -- sa~e trar -- rà~in -- sie -- me
-    E’l do -- lo -- r'e la vi -- ta,
-    e’l __ do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me, __
+    E'l do -- lo -- r'e la vi -- ta,
+    e'l __ do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me, __
         e -- stre -- me,
-    e’l do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-            al -- l’o -- re~e -- stre -- me,
-        e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-        e la vi -- ta~al -- l’o -- re~e -- stre -- me.
+    e'l do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+            al -- l'o -- re~e -- stre -- me,
+        e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+        e la vi -- ta~al -- l'o -- re~e -- stre -- me.
 }
 
 tenoreXXVincipit = \relative c' {
@@ -159,16 +159,16 @@ tenoreLyricsXXV = \lyricmode {
         le la -- cri -- me
         le la -- cri -- me~al do -- lo -- re,
             al do -- lo -- re;
-    Fi -- nir, ch’a mez -- zo~e -- ra,
-        ch’a mez -- zo~e -- ra~il do -- lo -- r'a __ pe -- na.
+    Fi -- nir, ch'a mez -- zo~e -- ra,
+        ch'a mez -- zo~e -- ra~il do -- lo -- r'a __ pe -- na.
     Dal fuo -- co spin -- to~o -- ra~il vi -- ta -- l'u -- mo -- re
-    Fug -- ge per quel -- la via ch’a -- gli~oc -- chi me -- na;
+    Fug -- ge per quel -- la via ch'a -- gli~oc -- chi me -- na;
     Et è quel che si ver -- sa~e trar -- rà~in -- sie -- me
-    E’l do -- lo -- r'e la vi -- ta,
-    e’l do -- lo -- r'e __ la vi -- ta~al -- l’o -- re~e -- stre -- me,
-        al -- l’o -- re~e -- stre -- me,
-    e’l do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me~al -- l’o -- re~e -- stre -- me,
-        al -- l’o -- re~e -- stre -- me. __
+    E'l do -- lo -- r'e la vi -- ta,
+    e'l do -- lo -- r'e __ la vi -- ta~al -- l'o -- re~e -- stre -- me,
+        al -- l'o -- re~e -- stre -- me,
+    e'l do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me~al -- l'o -- re~e -- stre -- me,
+        al -- l'o -- re~e -- stre -- me. __
 }
 
 bassoXXVincipit = \relative c' {
@@ -212,14 +212,14 @@ bassoLyricsXXV = \lyricmode {
         le la -- cri -- me~al do -- lo -- re,
     Fi -- nir,
         le la -- cri -- me~al do -- lo -- re:
-        ch’a mez -- zo~e -- ra~il do -- lo -- r'a pe -- na.
+        ch'a mez -- zo~e -- ra~il do -- lo -- r'a pe -- na.
     Dal fuo -- co spin -- to~o -- ra~il vi -- ta -- l'u -- mo -- re
-%    Fug -- ge per quel -- la via ch’a -- gli~oc -- chi me -- na;
+%    Fug -- ge per quel -- la via ch'a -- gli~oc -- chi me -- na;
     Et è quel che si ver -- sa~e trar -- rà~in -- sie -- me
-    E’l do -- lo -- r'e la vi -- ta,
-    e’l __ do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-    e’l do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-    e’l do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me.
+    E'l do -- lo -- r'e la vi -- ta,
+    e'l __ do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+    e'l do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+    e'l do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me.
 }
 
 cantoXXVincipitVoice = <<

@@ -1,20 +1,20 @@
 % Donna, se ben le chiome ho già ripiene 
-%      D’algente neve, il cor però non verna: 
-%      Sàssel Amor che tacito ’l governa 
+%      D'algente neve, il cor però non verna: 
+%      Sàssel Amor che tacito 'l governa 
 %               XXXX      vive le faville in lui mantiene. 
 % madrigal:    E'n lui conserve del suo~ardor mantiene.
 % 
 % Etna cosí sul dorso alto sostiene 
-%      Le brine e ’l giaccio e dentro ha fiamma eterna; 
-%      Selce cosí gelata è ne l’esterna 
-%      Parte, e ’l foco nativo ha ne le vene. 
+%      Le brine e 'l giaccio e dentro ha fiamma eterna; 
+%      Selce cosí gelata è ne l'esterna 
+%      Parte, e 'l foco nativo ha ne le vene. 
 % 
-% Ben, se ’l petto talor mi ripercote 
-%      Colpo de’ tuoi begli occhi, a piú d’un segno 
-% XX     Mostra l’interne fiamme il mio sembiante:
+% Ben, se 'l petto talor mi ripercote 
+%      Colpo de' tuoi begli occhi, a piú d'un segno 
+% XX     Mostra l'interne fiamme il mio sembiante:
 %    Vengon le fiamme il mie, nel mio sembiante
 % 
-% Ma tu risparmi i colpi e vuoi ch’ignote 
+% Ma tu risparmi i colpi e vuoi ch'ignote 
 %      Siano: forse è pietà, forse è disdegno 
 %      Che alzi tanto osi sperar canuto amante.
 % Tasso, Rime d'amore, 389
@@ -56,21 +56,21 @@ cantoIV = \relative c'' {
 
 cantoLyricsIV = \lyricmode {
     Don -- na, se ben le chio -- me~ho già ri -- pie -- ne
-    D’al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na:
-    Sàs -- sel A -- mor che ta -- ci -- to’l go -- ver -- na
+    D'al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na:
+    Sàs -- sel A -- mor che ta -- ci -- to'l go -- ver -- na
     E'n lui con -- ser -- ve del suo~ar -- dor man -- tie -- ne,
         del suo~ar -- dor man -- tie -- ne.
 
     Et -- na co -- sí sul dor -- so~al -- to so -- stie -- ne,
-    Le bri -- ne~e’l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
+    Le bri -- ne~e'l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
     \ijLyrics
         e den -- tro~ha fiam -- ma~e -- ter -- na,
     \normalLyrics
         e den -- tro~ha fiam -- ma~e -- ter -- na;
     Sel -- ce co -- sí ge -- la -- ta,
 %    par -- te, 
-        E’l fo -- co na -- ti -- vo~ha ne le ve -- ne,
-    e’l fo -- co na -- ti -- vo~ha ne le ve -- ne,
+        E'l fo -- co na -- ti -- vo~ha ne le ve -- ne,
+    e'l fo -- co na -- ti -- vo~ha ne le ve -- ne,
         ha ne le ve -- ne,~ha ne le ve -- ne. 
 }
 
@@ -111,9 +111,9 @@ altoIV = \relative c' {
 
 altoLyricsIV = \lyricmode {
     Don -- na, se ben le chio -- me~ho già ri -- pie -- ne
-    D’al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na:
+    D'al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na:
         il cor pe -- rò non ver -- na:
-    Sàs -- sel A -- mor che ta -- ci -- to’l go -- ver -- na
+    Sàs -- sel A -- mor che ta -- ci -- to'l go -- ver -- na
     E'n lui con -- ser -- ve del suo~ar -- dor man -- tie -- ne,
         del suo~ar -- dor,
         \ijLyrics
@@ -122,17 +122,17 @@ altoLyricsIV = \lyricmode {
         del suo~ar -- dor man -- tie -- ne.
 
     Et -- na co -- sí sul dor -- so~al -- to so -- stie -- ne,
-    Le bri -- ne~e’l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
+    Le bri -- ne~e'l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
         e den -- tro~ha fiam -- ma~e -- ter -- na,
     \ijLyrics
         e den -- tro~ha fiam -- ma~e -- ter -- na;
     \normalLyrics
     Sel -- ce co -- sí ge -- la -- ta,
-        co -- sí ge -- la -- ta è ne l’e -- ster -- na
-    par -- te, E’l fo -- co na -- ti -- vo~ha ne le ve -- ne,
-        e’l fo -- co na -- ti -- vo~ha ne le ve -- ne,
+        co -- sí ge -- la -- ta è ne l'e -- ster -- na
+    par -- te, E'l fo -- co na -- ti -- vo~ha ne le ve -- ne,
+        e'l fo -- co na -- ti -- vo~ha ne le ve -- ne,
         ha ne le ve -- ne,
-    e’l fo -- co na -- ti -- vo~ha ne le ve -- ne.
+    e'l fo -- co na -- ti -- vo~ha ne le ve -- ne.
 }
 
 tenoreIVincipit = \relative c' {
@@ -170,26 +170,26 @@ tenoreIV = \relative c' {
 
 tenoreLyricsIV = \lyricmode {
     Don -- na, se ben le chio -- me~ho già ri -- pie -- ne
-    D’al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na,
+    D'al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na,
             non ver -- na,
         il cor pe -- rò non ver -- na:
-    Sàs -- sel A -- mor che ta -- ci -- to’l go -- ver -- na
+    Sàs -- sel A -- mor che ta -- ci -- to'l go -- ver -- na
     E'n lui con -- ser -- ve del suo~ar -- dor __ man -- tie -- ne,
         del suo~ar -- dor __ man -- tie -- ne.
 
     Et -- na co -- sí sul dor -- so~al -- to so -- stie -- ne,
         al -- to so -- stie -- ne,
-    Le bri -- ne~e’l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
+    Le bri -- ne~e'l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
         e den -- tro~ha fiam -- ma~e -- ter -- na,
     \ijLyrics
         e den -- tro~ha fiam -- ma~e -- ter -- na;
     \normalLyrics
     Sel -- ce co -- sí ge -- la -- ta,
-        co -- sí ge -- la -- ta è ne l’e -- ster -- na
-    par -- te, E’l fo -- co na -- ti -- vo,
-        e’l fo -- co na -- ti -- vo~ha ne le ve -- ne,
+        co -- sí ge -- la -- ta è ne l'e -- ster -- na
+    par -- te, E'l fo -- co na -- ti -- vo,
+        e'l fo -- co na -- ti -- vo~ha ne le ve -- ne,
         ha ne le ve -- ne,
-    e’l fo -- co na -- ti -- vo~ha ne le ve -- ne,
+    e'l fo -- co na -- ti -- vo~ha ne le ve -- ne,
         ha ne le ve -- ne. __
 }
 
@@ -227,22 +227,22 @@ bassoIV = \relative c' {
 
 bassoLyricsIV = \lyricmode {
     Don -- na, se ben le chio -- me~ho già ri -- pie -- ne
-    D’al -- gen -- te ne -- ve, __ il cor pe -- rò non ver -- na,
+    D'al -- gen -- te ne -- ve, __ il cor pe -- rò non ver -- na,
         il cor pe -- rò non ver -- na:
-    Sàs -- sel A -- mor che ta -- ci -- to’l go -- ver -- na
+    Sàs -- sel A -- mor che ta -- ci -- to'l go -- ver -- na
     E'n lui con -- ser -- ve del suo~ar -- dor __ man -- tie -- ne,
         del suo~ar -- dor,
         del suo~ar -- dor man -- tie -- ne. __
 
     Et -- na co -- sí sul dor -- so~al -- to so -- stie -- ne,
-    Le bri -- ne~e’l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
+    Le bri -- ne~e'l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
         e den -- tro~ha fiam -- ma~e -- ter -- na,
     \ijLyrics
         e den -- tro~ha fiam -- ma~e -- ter -- na; __
     \normalLyrics
-    Sel -- ce co -- sí ge -- la -- ta è ne l’e -- ster -- na
-    par -- te, E’l fo -- co na -- ti -- vo~ha ne le ve -- ne,
-    e’l fo -- co na -- ti -- vo~ha ne le ve -- ne,~ha ne le ve -- ne.
+    Sel -- ce co -- sí ge -- la -- ta è ne l'e -- ster -- na
+    par -- te, E'l fo -- co na -- ti -- vo~ha ne le ve -- ne,
+    e'l fo -- co na -- ti -- vo~ha ne le ve -- ne,~ha ne le ve -- ne.
 }
 
 quintoIVincipit = \relative c' {
@@ -285,8 +285,8 @@ quintoIV = \relative c' {
 
 quintoLyricsIV = \lyricmode {
     Don -- na, se ben le chio -- me~ho già ri -- pie -- ne 
-    D’al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na: 
-    Sàs -- sel A -- mor che ta -- ci -- to’l go -- ver -- na 
+    D'al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na: 
+    Sàs -- sel A -- mor che ta -- ci -- to'l go -- ver -- na 
     E'n lui con -- ser -- ve del suo~ar -- dor __ man -- tie -- ne,
         del suo~ar -- dor,
         \ijLyrics
@@ -296,15 +296,15 @@ quintoLyricsIV = \lyricmode {
 
     Et -- na co -- sí sul dor -- so~al -- to so -- stie -- ne,
         co -- sí sul dor -- so~al -- to so -- stie -- ne 
-    Le bri -- ne~e’l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
+    Le bri -- ne~e'l giac -- cio e den -- tro~ha fiam -- ma~e -- ter -- na,
         e den -- tro~ha fiam -- ma~e -- ter -- na, 
     \ijLyrics
         e den -- tro~ha fiam -- ma~e -- ter -- na; 
     \normalLyrics
-    Sel -- ce co -- sí ge -- la -- ta è ne l’e -- ster -- na 
-    par -- te, E’l fo -- co na -- ti -- vo~ha ne le ve -- ne,
+    Sel -- ce co -- sí ge -- la -- ta è ne l'e -- ster -- na 
+    par -- te, E'l fo -- co na -- ti -- vo~ha ne le ve -- ne,
         ha ne le ve -- ne,
-    e’l fo -- co na -- ti -- vo~ha ne le ve -- ne. __
+    e'l fo -- co na -- ti -- vo~ha ne le ve -- ne. __
 }
 
 cantoIVincipitVoice = <<

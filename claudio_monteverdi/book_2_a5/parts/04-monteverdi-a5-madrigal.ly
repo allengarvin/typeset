@@ -2,9 +2,9 @@
 % di parole amorose
 % che mi legò da scherzo e non mi scioglie.
 % Così egli dunque scherza e così coglie?
-% Così l’alme legate
+% Così l'alme legate
 % sono ne le catene insidiose?
-% Almen chi si m’allaccia,
+% Almen chi si m'allaccia,
 % mi leghi ancor fra quelle dolci braccia.
 
 cantoIVincipit = \relative c'' {
@@ -61,14 +61,14 @@ cantoLyricsIV = \lyricmode {
 
     Co -- sì~e -- gli dun -- que scher -- za~e co -- sì co -- glie,
     co -- sì~e -- gli dun -- que scher -- za~e co -- sì co -- glie?
-    Co -- sì l’al -- me le -- ga -- te, __
+    Co -- sì l'al -- me le -- ga -- te, __
     \ijLyrics
-    co -- sì l’al -- me le -- ga -- te
+    co -- sì l'al -- me le -- ga -- te
     \normalLyrics
     So -- no ne le ca -- te -- ne in -- si -- di -- o -- se?
 
-    Al -- men chi si m’al -- lac -- cia,
-    al -- men chi si m’al -- lac -- cia,
+    Al -- men chi si m'al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     Mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor, __
     \ijLyrics
@@ -76,9 +76,9 @@ cantoLyricsIV = \lyricmode {
     \normalLyrics
     mi le -- ghi~an -- cor fra quel -- le dol -- ci brac -- cia,
 
-    al -- men chi si m’al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     \ijLyrics
-    al -- men chi si m’al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     \normalLyrics
     mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor, __
@@ -147,22 +147,22 @@ altoLyricsIV = \lyricmode {
     \ijLyrics
     co -- sì~e -- gli dun -- que scher -- za~e co -- sì co -- glie?
     \normalLyrics
-    Co -- sì l’al -- me le -- ga -- te,
+    Co -- sì l'al -- me le -- ga -- te,
     \ijLyrics
-    co -- sì l’al -- me le -- ga -- te
+    co -- sì l'al -- me le -- ga -- te
     \normalLyrics
     So -- no ne le ca -- te -- ne,
     so -- no ne le __ ca -- te -- ne~in -- si -- dio -- se?
 
-    Al -- men chi si m’al -- lac -- cia,
-    al -- men chi si m’al -- lac -- cia,
+    Al -- men chi si m'al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     Mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor fra quel -- le dol -- ci brac -- cia,
 
-    al -- men chi si m’al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     \ijLyrics
-    al -- men chi si m’al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     \normalLyrics
     mi __ le -- ghi~an -- cor,
     mi le -- ghi~an -- cor,
@@ -219,22 +219,22 @@ tenoreLyricsIV = \lyricmode {
         e non mi scio -- glie.
 
     Co -- sì~e -- gli dun -- que scher -- za~e co -- sì co -- glie?
-    Co -- sì l’al -- me le -- ga -- te,
+    Co -- sì l'al -- me le -- ga -- te,
     \ijLyrics
-    co -- sì l’al -- me le -- ga -- te
+    co -- sì l'al -- me le -- ga -- te
     \normalLyrics
     So -- no ne le ca -- te -- ne,
     so -- no ne le ca -- te -- ne~in -- si -- di -- o -- se?
 
-    Al -- men chi si m’al -- lac -- cia,
+    Al -- men chi si m'al -- lac -- cia,
     \ijLyrics
-    al -- men chi si m’al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     \normalLyrics
     Mi __ le -- ghi~an -- cor,
     mi le -- ghi~an -- cor fra quel -- le dol -- ci brac -- cia,
 
-    al -- men chi si m’al -- lac -- cia,
-    al -- men chi si m’al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     mi le -- ghi~an -- cor,
     \ijLyrics
     mi le -- ghi~an -- cor,
@@ -288,15 +288,15 @@ bassoLyricsIV = \lyricmode {
     che mi le -- gò da scher -- zo~e non mi scio -- glie.
 
     Co -- sì~e -- gli dun -- que scher -- za~e co -- sì co -- glie?
-    Co -- sì l’al -- me le -- ga -- te
+    Co -- sì l'al -- me le -- ga -- te
     So -- no ne le ca -- te -- ne~in -- si -- di -- o -- se?
 
-    Al -- men chi si m’al -- lac -- cia,
+    Al -- men chi si m'al -- lac -- cia,
     Mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor __ fra quel -- le dol -- ci brac -- cia,
 
-    al -- men chi si m’al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     mi __ le -- ghi~an -- cor,
     mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor __ fra quel -- le dol -- ci brac -- cia.
@@ -349,23 +349,23 @@ quintoLyricsIV = \lyricmode {
     che mi le -- gò da scher -- zo~e non __ mi scio -- glie.
 
     Co -- sì~e -- gli dun -- que scher -- za~e co -- sì co -- glie?
-    Co -- sì l’al -- me le -- ga -- te,
+    Co -- sì l'al -- me le -- ga -- te,
     \ijLyrics
-    co -- sì l’al -- me le -- ga -- te,
+    co -- sì l'al -- me le -- ga -- te,
     \normalLyrics
-    co -- sì l’al -- me le -- ga -- te
+    co -- sì l'al -- me le -- ga -- te
     So -- no ne le ca -- te -- ne,
     so -- no ne le ca -- te -- ne~in -- si -- di -- o -- se?
 
-    Al -- men chi si m’al -- lac -- cia,
-    al -- men chi si m’al -- lac -- cia,
+    Al -- men chi si m'al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     Mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor __ fra quel -- le dol -- ci brac -- cia,
 
-    al -- men chi si m’al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     \ijLyrics
-    al -- men chi si m’al -- lac -- cia,
+    al -- men chi si m'al -- lac -- cia,
     \normalLyrics
     mi le -- ghi~an -- cor,
     mi le -- ghi~an -- cor,

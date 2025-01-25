@@ -1,11 +1,11 @@
 %   1  Ingiustissimo Amor, perché sì raro
 %      corrispondenti fai nostri desiri?
-%      onde, perfido, avvien che t’è sì caro
-%      il discorde voler ch’in duo cor miri?
+%      onde, perfido, avvien che t'è sì caro
+%      il discorde voler ch'in duo cor miri?
 %      Gir non mi lasci al facil guado e chiaro,
 %      e nel più cieco e maggior fondo tiri:
 %      da chi disia il mio amor tu mi richiami,
-%      e chi m’ha in odio vuoi ch’adori et ami.
+%      e chi m'ha in odio vuoi ch'adori et ami.
 
 cantoXVincipit = \relative c' {
     \time 2/2
@@ -53,16 +53,16 @@ cantoLyricsXV = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
     \normalLyrics
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che __ t’è sì ca -- ro, __
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
-    Il di -- scor -- de vo -- ler ch’in duo cor __ mi -- ri?
+    On -- de, per -- fi -- do~av -- vien che __ t'è sì ca -- ro, __
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
+    Il di -- scor -- de vo -- ler ch'in duo cor __ mi -- ri?
     Gir non mi la -- sci~al fa -- cil gua -- do, e chia -- ro,
         e __ chia -- ro,
     E nel più __ cie -- co, e mag -- gior fon -- do ti -- ri,
         e __ mag -- gior fon -- do ti -- ri: __
     Da chi di -- sia~il mio~a -- mor tu mi ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi. __
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi. __
 }
 
 altoXVincipit = \relative c' {
@@ -116,11 +116,11 @@ altoLyricsXV = \lyricmode {
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri? __
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri? 
     On -- de, per -- fi -- do~av -- vien,
-    On -- de, per -- fi -- do~av -- vien che t’è sì __ ca -- ro, 
+    On -- de, per -- fi -- do~av -- vien che t'è sì __ ca -- ro, 
     Il di -- scor -- de vo -- ler,
-    Il di -- scor -- de vo -- ler ch’in duo __ cor mi -- ri? 
+    Il di -- scor -- de vo -- ler ch'in duo __ cor mi -- ri? 
     \ijLyrics
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri? 
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri? 
     \normalLyrics
     Gir non mi la -- sci~al fa -- cil gua -- do, e chia -- ro,
         e chia -- ro,
@@ -129,8 +129,8 @@ altoLyricsXV = \lyricmode {
     Da chi di -- sia~il mio~a -- mor tu mi ri -- chia -- mi,
         tu mi ri -- chia -- mi,
     Da chi di -- sia~il mio~a -- mor tu __ mi ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi __ ch’a -- do -- ri~et a -- mi,
-    E chi m’ha~in o -- dio vuoi __ ch’a -- do -- ri~et a -- mi.
+    E chi m'ha~in o -- dio vuoi __ ch'a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio vuoi __ ch'a -- do -- ri~et a -- mi.
 }
 
 tenoreXVincipit = \relative c {
@@ -177,11 +177,11 @@ tenoreLyricsXV = \lyricmode {
     \normalLyrics
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che __ t’è sì ca -- ro, 
+    On -- de, per -- fi -- do~av -- vien che __ t'è sì ca -- ro, 
     \ijLyrics
-    On -- de, per -- fi -- do~av -- vien __ che t’è sì ca -- ro, 
+    On -- de, per -- fi -- do~av -- vien __ che t'è sì ca -- ro, 
     \normalLyrics
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Gir non mi la -- sci~al fa -- cil gua -- do,~e chia -- ro,
         e chia -- ro,
         e chia -- ro,
@@ -191,8 +191,8 @@ tenoreLyricsXV = \lyricmode {
         e mag -- gior fon -- do ti -- ri: 
     Da chi di -- sia~il mio~a -- mor tu mi __ ri -- chia -- mi,
     Da chi di -- sia~il mio~a -- mor __ tu mi ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi. __
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi. __
 }
 
 bassoXVincipit = \relative c {
@@ -239,9 +239,9 @@ bassoLyricsXV = \lyricmode {
     \normalLyrics
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è __ sì __ ca -- ro, 
+    On -- de, per -- fi -- do~av -- vien che t'è __ sì __ ca -- ro, 
     Il di -- scor -- de vo -- ler,
-    Il di -- scor -- de vo -- ler ch’in duo __ cor mi -- ri? 
+    Il di -- scor -- de vo -- ler ch'in duo __ cor mi -- ri? 
     Gir non mi la -- sci~al fa -- cil gua -- do, e chia -- ro,
     E nel più cie -- co~e mag -- gior fon -- do ti -- ri,
         e mag -- gior fon -- do ti -- ri, 
@@ -250,10 +250,10 @@ bassoLyricsXV = \lyricmode {
     \normalLyrics
         e mag -- gior __ fon -- do ti -- ri: 
     Da chi di -- sia~il mio~a -- mor tu mi ri -- chia -- mi, __
-    E chi m’ha~in o -- dio vuoi __ ch’a -- do -- ri~et a -- mi,
-    E chi m’ha~in o -- dio,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-        vuoi ch’a -- do -- ri~et a -- mi.
+    E chi m'ha~in o -- dio vuoi __ ch'a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio,
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+        vuoi ch'a -- do -- ri~et a -- mi.
 }
 
 quintoXVincipit = \relative c {
@@ -300,13 +300,13 @@ quintoLyricsXV = \lyricmode {
     \normalLyrics
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è sì ca -- ro, 
+    On -- de, per -- fi -- do~av -- vien che t'è sì ca -- ro, 
     \ijLyrics
-    On -- de, per -- fi -- do~av -- vien che t’è sì ca -- ro, 
+    On -- de, per -- fi -- do~av -- vien che t'è sì ca -- ro, 
     \normalLyrics
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Il di -- scor -- de vo -- ler,
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri? 
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri? 
     Gir non mi la -- sci~al fa -- cil gua -- do, e __ chia -- ro,
         e chia -- ro,
     E nel __ più cie -- co,
@@ -317,11 +317,11 @@ quintoLyricsXV = \lyricmode {
     \normalLyrics
     Da chi di -- sia~il mio~a -- mor tu mi ri -- chia -- mi,
         tu mi ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi __ ch’a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio vuoi __ ch'a -- do -- ri~et a -- mi,
     \ijLyrics
-    E chi m’ha~in o -- dio vuoi __ ch’a -- do -- ri~et a -- mi,
+    E chi m'ha~in o -- dio vuoi __ ch'a -- do -- ri~et a -- mi,
     \normalLyrics
-        ch’a -- do -- ri~et a -- mi.
+        ch'a -- do -- ri~et a -- mi.
 }
 
 cantoXVincipitVoice = <<

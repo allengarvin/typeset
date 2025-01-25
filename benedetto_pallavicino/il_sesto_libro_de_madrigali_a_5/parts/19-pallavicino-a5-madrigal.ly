@@ -49,13 +49,13 @@ cantoLyricsXIX = \lyricmode {
     \normalLyrics
 
     Par -- le -- rà nel mio vol -- to
-    La __ pie -- ta -- de~e’l do -- lor,
-        e’l do -- lo -- re; 
-    E se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    La __ pie -- ta -- de~e'l do -- lor,
+        e'l do -- lo -- re; 
+    E se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     Par -- le -- rà~il __ mio mo -- ri -- re,
     E ti di -- rà la mor -- te~il __ mio mar -- ti -- re,
 
-    e se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    e se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     par -- le -- rà,
     par -- le -- rà~il mio mo -- ri -- re,
     e ti di -- rà la mor -- te~il mio mar -- ti -- re.
@@ -110,13 +110,13 @@ altoLyricsXIX = \lyricmode {
     Di -- ran -- no~i miei __ la -- men -- ti;
 
     Par -- le -- rà nel mio vol -- to
-    La __ pie -- ta -- de~e’l do -- lor,
-        e’l do -- lo -- re;
-    E se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    La __ pie -- ta -- de~e'l do -- lor,
+        e'l do -- lo -- re;
+    E se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     Par -- le -- rà~il mio mo -- ri -- re,
     E ti di -- rà la mor -- te~il mio __ mar -- ti -- re,
 
-    e se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    e se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     par -- le -- rà~il mio mo -- ri -- re,
     e ti di -- rà la mor -- te~il mio __ mar -- ti -- re.
 }
@@ -170,13 +170,13 @@ tenoreLyricsXIX = \lyricmode {
     Di -- ran -- no~i miei __ la -- men -- ti;
 
 %    Par -- le -- rà nel mio vol -- to
-    La __ pie -- ta -- de~e’l do -- lor,
-        e’l __ do -- lo -- re;
-    E se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    La __ pie -- ta -- de~e'l do -- lor,
+        e'l __ do -- lo -- re;
+    E se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
 %    Par -- le -- rà~il mio mo -- ri -- re,
     E ti di -- rà la mor -- te~il mio mar -- ti -- re,
 
-    e se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    e se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     Par -- le -- rà~il mio mo -- ri -- re,
     e __ ti di -- rà la mor -- te~il mio mar -- ti -- re,
         il mio mar -- ti -- re.
@@ -222,8 +222,8 @@ bassoLyricsXIX = \lyricmode {
     Di -- ran -- no~i miei la -- men -- ti; __
 
     Par -- le -- rà nel mio vol -- to
-    La pie -- ta -- de~e’l __ do -- lo -- re:
-    E se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    La pie -- ta -- de~e'l __ do -- lo -- re:
+    E se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     Par -- le -- rà~il __ mio mo -- ri -- re,
     E ti di -- rà la mor -- te~il mio mar -- ti -- re.
 
@@ -277,13 +277,13 @@ quintoLyricsXIX = \lyricmode {
     Di -- ran -- no~i __ miei la -- men -- ti;
 
     Par -- le -- rà nel mio vol -- to
-    La pie -- ta -- de~e’l __ do -- lo -- re,
-        e’l do -- lo -- re;
-%    E se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    La pie -- ta -- de~e'l __ do -- lo -- re,
+        e'l do -- lo -- re;
+%    E se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     Par -- le -- rà~il mio mo -- ri -- re,
     E ti di -- rà la mor -- te~il mio mar -- ti -- re,
 
-%    e se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+%    e se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
 %    par -- le -- rà,
     par -- le -- rà~il mio mo -- ri -- re,
     par -- le -- rà~il __ mio mo -- ri -- re,

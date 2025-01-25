@@ -29,24 +29,24 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    La don -- na che’l mio cor nel vi -- so por -- ta,
-    % Là dove sol fra bei pen -- sier’ d’a -- mo -- re
-    % Se -- dea, m’ap -- par -- ve; 
+    La don -- na che'l mio cor nel vi -- so por -- ta,
+    % Là dove sol fra bei pen -- sier' d'a -- mo -- re
+    % Se -- dea, m'ap -- par -- ve; 
         et __ io per far -- le~ho -- no -- re
     Mos -- si con fron -- te re -- ve -- ren -- te~et smor -- ta.
 
     To -- sto che del mio sta -- to fus -- si~ac -- cor -- ta,
     % A me si volse in sí novo colore
-    Ch’a -- vreb -- be~a Gio -- ve nel mag -- gior __ fu -- ro -- re
-    Tol -- to l’ar -- me di ma -- no~et l’i -- ra mor -- ta.
+    Ch'a -- vreb -- be~a Gio -- ve nel mag -- gior __ fu -- ro -- re
+    Tol -- to l'ar -- me di ma -- no~et l'i -- ra mor -- ta.
     
-    I’ mi ri -- scos -- si; et el -- la~ol -- tra, par -- lan -- do,
-    Pas -- sò, che la pa -- ro -- la~i’ non sof -- fer -- si,
-    % Né’l dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
+    I' mi ri -- scos -- si; et el -- la~ol -- tra, par -- lan -- do,
+    Pas -- sò, che la pa -- ro -- la~i' non sof -- fer -- si,
+    % Né'l dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
 
     Or mi ri -- tro -- vo pien di sì di -- ver -- si
     Pia -- ce -- ri, in quel sa -- lu -- to ri -- pen -- san -- do,
-    Che duol __ non sen -- to, né sen -- tì’ ma’ po -- i.
+    Che duol __ non sen -- to, né sen -- tì' ma' po -- i.
 }
 
 altoIincipit = \relative c' {
@@ -88,23 +88,23 @@ altoI = \relative c' {
 }
 
 altoLyricsI = \lyricmode {
-    La don -- na che’l mio cor nel vi -- so por -- ta,
-    Là do -- ve sol fra bei pen -- sier’ d’a -- mo -- re
-    Se -- dea, m’ap -- par -- ve; et __ io per far -- le~ho -- no -- re
+    La don -- na che'l mio cor nel vi -- so por -- ta,
+    Là do -- ve sol fra bei pen -- sier' d'a -- mo -- re
+    Se -- dea, m'ap -- par -- ve; et __ io per far -- le~ho -- no -- re
     Mos -- si con fron -- te re -- ve -- ren -- te~et smor -- ta.
 
     To -- sto che del mio sta -- to fus -- si~ac -- cor -- ta,
     A me si vol -- se~in sì __ no -- vo __ co -- lo -- re
-    Ch’a -- vreb -- be~a Gio -- ve nel mag -- gior __ fu -- ro -- re
-    Tol -- to l’ar -- me di ma -- no~et l’i -- ra mor -- ta.
+    Ch'a -- vreb -- be~a Gio -- ve nel mag -- gior __ fu -- ro -- re
+    Tol -- to l'ar -- me di ma -- no~et l'i -- ra mor -- ta.
     
-    I’ mi ri -- scos -- si; et el -- la~ol -- tra, par -- lan -- do,
-%    Pas -- sò, che la pa -- ro -- la~i’ non sof -- fer -- si,
-    Né’l __ dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
+    I' mi ri -- scos -- si; et el -- la~ol -- tra, par -- lan -- do,
+%    Pas -- sò, che la pa -- ro -- la~i' non sof -- fer -- si,
+    Né'l __ dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
 
 %    Or mi ri -- tro -- vo pien di sì di -- ver -- si
 %    Pia -- ce -- ri, in quel sa -- lu -- to ri -- pen -- san -- do,
-    Che duol non sen -- to, né __ sen -- tì’ __ ma’ po -- i.
+    Che duol non sen -- to, né __ sen -- tì' __ ma' po -- i.
 }
 
 tenoreIincipit = \relative c' {
@@ -138,24 +138,24 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-    La don -- na che’l mio cor nel vi -- so por -- ta,
-%    % Là dove sol fra bei pen -- sier’ d’a -- mo -- re
-%    % Se -- dea, m’ap -- par -- ve; 
+    La don -- na che'l mio cor nel vi -- so por -- ta,
+%    % Là dove sol fra bei pen -- sier' d'a -- mo -- re
+%    % Se -- dea, m'ap -- par -- ve; 
         et io per far -- le~ho -- no -- re
 %    Mos -- si con fron -- te re -- ve -- ren -- te~et smor -- ta.
 %
     To -- sto che del mio sta -- to fus -- si~ac -- cor -- ta,
 %    % A me si volse in sí novo colore
-    Ch’a -- vreb -- be~a Gio -- ve nel mag -- gior fu -- ro -- re
-    Tol -- to l’ar -- me di ma -- no~et l’i -- ra mor -- ta.
+    Ch'a -- vreb -- be~a Gio -- ve nel mag -- gior fu -- ro -- re
+    Tol -- to l'ar -- me di ma -- no~et l'i -- ra mor -- ta.
     
-    I’ mi ri -- scos -- si; et el -- la~ol -- tra, par -- lan -- do,
-    Pas -- sò, che la pa -- ro -- la~i’ non sof -- fer -- si,
-    Né’l dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
+    I' mi ri -- scos -- si; et el -- la~ol -- tra, par -- lan -- do,
+    Pas -- sò, che la pa -- ro -- la~i' non sof -- fer -- si,
+    Né'l dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
 
     Or mi ri -- tro -- vo pien di sì di -- ver -- si
     Pia -- ce -- ri, in quel sa -- lu -- to ri -- pen -- san -- do,
-    Che duol non sen -- to, né __ sen -- tì’ __ ma’ po -- i.
+    Che duol non sen -- to, né __ sen -- tì' __ ma' po -- i.
 }
 
 bassoIincipit = \relative c' {
@@ -187,24 +187,24 @@ bassoI = \relative c' {
 }
 
 bassoLyricsI = \lyricmode {
-%    La don -- na che’l mio cor nel vi -- so por -- ta,
-    Là do -- ve sol fra bei pen -- sier’ d’a -- mo -- re
-    Se -- dea, m’ap -- par -- ve; 
+%    La don -- na che'l mio cor nel vi -- so por -- ta,
+    Là do -- ve sol fra bei pen -- sier' d'a -- mo -- re
+    Se -- dea, m'ap -- par -- ve; 
 %        et io per far -- le~ho -- no -- re
     Mos -- si con fron -- te re -- ve -- ren -- te~et smor -- ta.
 %
 %    To -- sto che del mio sta -- to fus -- si~ac -- cor -- ta,
     A me si vol -- se~in sì no -- vo co -- lo -- re
-    Ch’a -- vreb -- be~a Gio -- ve nel mag -- gior __ fu -- ro -- re
-    Tol -- to l’ar -- me di ma -- no~et l’i -- ra mor -- ta.
+    Ch'a -- vreb -- be~a Gio -- ve nel mag -- gior __ fu -- ro -- re
+    Tol -- to l'ar -- me di ma -- no~et l'i -- ra mor -- ta.
     
-%    I’ mi ri -- scos -- si; et el -- la~ol -- tra, par -- lan -- do,
-    Pas -- sò, che la pa -- ro -- la~i’ non sof -- fer -- si,
-%    % Né’l dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
+%    I' mi ri -- scos -- si; et el -- la~ol -- tra, par -- lan -- do,
+    Pas -- sò, che la pa -- ro -- la~i' non sof -- fer -- si,
+%    % Né'l dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
 %
     Or mi ri -- tro -- vo pien di sì di -- ver -- si
 %    Pia -- ce -- ri, in quel sa -- lu -- to ri -- pen -- san -- do,
-    Che duol __ non sen -- to, né __ sen -- tì’ ma’ po -- i.
+    Che duol __ non sen -- to, né __ sen -- tì' ma' po -- i.
 }
 
 quintoIincipit = \relative c' {
@@ -243,23 +243,23 @@ quintoI = \relative c' {
 }
 
 quintoLyricsI = \lyricmode {
-%    La don -- na che’l mio cor nel vi -- so por -- ta,
-    Là do -- ve sol fra bei pen -- sier’ d’a -- mo -- re
-    Se -- dea, m’ap -- par -- ve; et io per far -- le~ho -- no -- re
+%    La don -- na che'l mio cor nel vi -- so por -- ta,
+    Là do -- ve sol fra bei pen -- sier' d'a -- mo -- re
+    Se -- dea, m'ap -- par -- ve; et io per far -- le~ho -- no -- re
     Mos -- si con fron -- te re -- ve -- ren -- te~et smor -- ta.
 
     To -- sto che del mio sta -- to fus -- si~ac -- cor -- ta,
     A me si vol -- se~in sì no -- vo co -- lo -- re
-    Ch’a -- vreb -- be~a Gio -- ve nel mag -- gior __ fu -- ro -- re
-    Tol -- to l’ar -- me di ma -- no~et l’i -- ra mor -- ta.
+    Ch'a -- vreb -- be~a Gio -- ve nel mag -- gior __ fu -- ro -- re
+    Tol -- to l'ar -- me di ma -- no~et l'i -- ra mor -- ta.
     
-    I’ mi ri -- scos -- si~et el -- la~ol -- tra, par -- lan -- do,
-    Pas -- sò, che la pa -- ro -- la~i’ non __ sof -- fer -- si,
-    Né’l dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
+    I' mi ri -- scos -- si~et el -- la~ol -- tra, par -- lan -- do,
+    Pas -- sò, che la pa -- ro -- la~i' non __ sof -- fer -- si,
+    Né'l dol -- ce sfa -- vil -- lar de gli~oc -- chi suo -- i.
 
     Or mi ri -- tro -- vo pien di sì di -- ver -- si
     Pia -- ce -- ri, in quel sa -- lu -- to ri -- pen -- san -- do,
-    Che duol non sen -- to, né __ sen -- tì’ __ ma’ po -- i.
+    Che duol non sen -- to, né __ sen -- tì' __ ma' po -- i.
 }
 
 cantoIincipitVoice = <<

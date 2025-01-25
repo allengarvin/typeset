@@ -1,10 +1,10 @@
-% Quando sorge l’aurora,
-% Ridon l’erbette e i fiori
+% Quando sorge l'aurora,
+% Ridon l'erbette e i fiori
 % E i pargoletti amori
 % Van con le Ninfe intorno
 % Al mio bel sole adorno,
 % Scherzando ad ora ad ora
-% Onde la terra e’l ciel se n’innamora.
+% Onde la terra e'l ciel se n'innamora.
 
 cantoVIIIincipit = \relative c'' {
     \time 4/4
@@ -34,10 +34,10 @@ cantoVIII = \relative c'' {
 }
 
 cantoLyricsVIII = \lyricmode {
-    Quan -- do sor -- ge l’au -- ro -- ra,
-        sor -- ge l’au -- ro -- ra,
+    Quan -- do sor -- ge l'au -- ro -- ra,
+        sor -- ge l'au -- ro -- ra,
     Ri -- don,
-    Ri -- don l’er -- bet -- te~e~i fio -- ri
+    Ri -- don l'er -- bet -- te~e~i fio -- ri
     E~i par -- go -- let -- ti~a -- mo -- ri
     Van con le Nin -- fe~in -- tor -- no
     Al mio bel so -- le~a -- dor -- no,
@@ -46,11 +46,11 @@ cantoLyricsVIII = \lyricmode {
     Scher -- zan -- do~ad o -- ra~ad o -- ra,
     \normalLyrics
     Scher -- zan -- do~ad o -- ra~ad o -- ra,
-    On -- de la ter -- ra~e’l ciel se n’in -- na -- mo -- ra,
-        e’l ciel se n’in -- na -- mo -- ra,
-    On -- de la ter -- ra~e’l ciel se n’in -- na -- mo -- ra,
-        e’l ciel se n’in -- na -- mo -- ra,
-            se n’in -- na -- mo -- ra.
+    On -- de la ter -- ra~e'l ciel se n'in -- na -- mo -- ra,
+        e'l ciel se n'in -- na -- mo -- ra,
+    On -- de la ter -- ra~e'l ciel se n'in -- na -- mo -- ra,
+        e'l ciel se n'in -- na -- mo -- ra,
+            se n'in -- na -- mo -- ra.
 }
 
 altoVIIIincipit = \relative c' {
@@ -81,10 +81,10 @@ altoVIII = \relative c' {
 }
 
 altoLyricsVIII = \lyricmode {
-        Sor -- ge l’au -- ro -- ra,
-        sor -- ge l’au -- ro -- ra,
+        Sor -- ge l'au -- ro -- ra,
+        sor -- ge l'au -- ro -- ra,
     Ri -- don,
-    Ri -- don l’er -- bet -- te~e~i fio -- ri
+    Ri -- don l'er -- bet -- te~e~i fio -- ri
     E~i par -- go -- let -- ti~a -- mo -- ri
     Van con le Nin -- fe~in -- tor -- no
     Al mio bel so -- le~a -- dor -- no,
@@ -96,11 +96,11 @@ altoLyricsVIII = \lyricmode {
     \ijLyrics
     Scher -- zan -- do~ad o -- ra~ad o -- ra,
     \normalLyrics
-    On -- de la ter -- ra e’l ciel se n’in -- na -- mo -- ra,
-        e’l ciel se n’in -- na -- mo -- ra,
-    On -- de la ter -- ra e’l ciel se n’in -- na -- mo -- ra,
-        e’l ciel se n’in -- na -- mo -- ra,
-            se n’in -- na -- mo -- ra.
+    On -- de la ter -- ra e'l ciel se n'in -- na -- mo -- ra,
+        e'l ciel se n'in -- na -- mo -- ra,
+    On -- de la ter -- ra e'l ciel se n'in -- na -- mo -- ra,
+        e'l ciel se n'in -- na -- mo -- ra,
+            se n'in -- na -- mo -- ra.
 }
 
 tenoreVIIIincipit = \relative c' {
@@ -131,9 +131,9 @@ tenoreVIII = \relative c' {
 }
 
 tenoreLyricsVIII = \lyricmode {
-    Quan -- do sor -- ge l’au -- ro -- ra,
+    Quan -- do sor -- ge l'au -- ro -- ra,
     Ri -- don,
-    Ri -- don l’er -- bet -- te~e~i fio -- ri __
+    Ri -- don l'er -- bet -- te~e~i fio -- ri __
     E~i par -- go -- let -- ti~a -- mo -- ri
     Van con le Nin -- fe~in -- tor -- no
     Al mio bel so -- le~a -- dor -- no,
@@ -142,11 +142,11 @@ tenoreLyricsVIII = \lyricmode {
     \ijLyrics
     Scher -- zan -- do~ad o -- ra~ad o -- ra,
     \normalLyrics
-    On -- de la ter -- ra~e’l ciel,
-        e’l ciel se n’in -- na -- mo -- ra,
-    On -- de la ter -- ra~e’l ciel,
-        e’l ciel se n’in -- na -- mo -- ra,
-            se n’in -- na -- mo -- ra.
+    On -- de la ter -- ra~e'l ciel,
+        e'l ciel se n'in -- na -- mo -- ra,
+    On -- de la ter -- ra~e'l ciel,
+        e'l ciel se n'in -- na -- mo -- ra,
+            se n'in -- na -- mo -- ra.
 }
 
 bassoVIIIincipit = \relative c' {
@@ -185,9 +185,9 @@ bassoLyricsVIII = \lyricmode {
     Scher -- zan -- do,
     Scher -- zan -- do~ad o -- ra~ad o -- ra,
     Scher -- zan -- do~ad o -- ra~ad o -- ra,
-    On -- de la ter -- ra~e’l ciel se n’in -- na -- mo -- ra,
-    On -- de la ter -- ra~e’l ciel se n’in -- na -- mo -- ra,
-        e’l ciel se n’in -- na -- mo -- ra.
+    On -- de la ter -- ra~e'l ciel se n'in -- na -- mo -- ra,
+    On -- de la ter -- ra~e'l ciel se n'in -- na -- mo -- ra,
+        e'l ciel se n'in -- na -- mo -- ra.
 }
 
 quintoVIIIincipit = \relative c'' {
@@ -219,9 +219,9 @@ quintoVIII = \relative c'' {
 }
 
 quintoLyricsVIII = \lyricmode {
-    Quan -- do sor -- ge l’au -- ro -- ra,
+    Quan -- do sor -- ge l'au -- ro -- ra,
     Ri -- don,
-    Ri -- don l’er -- bet -- te~e~i fio -- ri, e~i fio -- ri
+    Ri -- don l'er -- bet -- te~e~i fio -- ri, e~i fio -- ri
     E~i par -- go -- let -- ti~a -- mo -- ri
     Van con le Nin -- fe~in -- tor -- no
     Al mio bel so -- le~a -- dor -- no,
@@ -233,11 +233,11 @@ quintoLyricsVIII = \lyricmode {
     \ijLyrics
     Scher -- zan -- do~ad o -- ra~ad o -- ra,
     \normalLyrics
-    On -- de la ter -- ra~e’l ciel se n’in -- na -- mo -- ra,
-        e’l ciel se n’in -- na -- mo -- ra,
-    On -- de la ter -- ra~e’l ciel se n’in -- na -- mo -- ra,
-        e’l ciel se n’in -- na -- mo -- ra,
-            se n’in -- na -- mo -- ra.
+    On -- de la ter -- ra~e'l ciel se n'in -- na -- mo -- ra,
+        e'l ciel se n'in -- na -- mo -- ra,
+    On -- de la ter -- ra~e'l ciel se n'in -- na -- mo -- ra,
+        e'l ciel se n'in -- na -- mo -- ra,
+            se n'in -- na -- mo -- ra.
 }
 
 cantoVIIIincipitVoice = <<

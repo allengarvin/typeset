@@ -1,9 +1,9 @@
-%45.32  Amor n’è causa, che nel cor m’ha impresso
+%45.32  Amor n'è causa, che nel cor m'ha impresso
 %       la forma tua così leggiadra e bella;
-%       e posto ci ha l’ardir, l’ingegno appresso,
+%       e posto ci ha l'ardir, l'ingegno appresso,
 %       e la virtù di che ciascun favella;
-%       ch’impossibil mi par, ch’ove concesso
-%       ne sia il veder, ch’ogni donna e donzella
+%       ch'impossibil mi par, ch'ove concesso
+%       ne sia il veder, ch'ogni donna e donzella
 %       non ne sia accesa, e che non usi ogni arte
 %       di sciorti dal mio amore e al suo legarte.
 
@@ -39,17 +39,17 @@ cantoXII = \relative c' {
 }
 
 cantoLyricsXII = \lyricmode {
-    A -- mor n’è cau -- sa, che nel cor m’ha~im -- pres -- so
+    A -- mor n'è cau -- sa, che nel cor m'ha~im -- pres -- so
     La for -- ma tua co -- sì leg -- gia -- dra~e bel -- la,
         co -- sì leg -- gia -- dra~e bel -- la,
             e bel -- la;
-    E po -- sto ci~ha l’ar -- dir, l’in -- ge -- gno~ap -- pres -- so,
+    E po -- sto ci~ha l'ar -- dir, l'in -- ge -- gno~ap -- pres -- so,
     E la vir -- tù,
     e la vir -- tù di che cia -- scun fa -- vel -- la,
         di che cia -- scun fa -- vel -- la;
-    Ch’im -- pos -- si -- bil mi par,
-    ch’im -- pos -- si -- bil mi par, ch’o -- ve con -- ces -- so
-    Ne sia~il ve -- der, ch’o -- gni don -- na~e don -- zel -- la
+    Ch'im -- pos -- si -- bil mi par,
+    ch'im -- pos -- si -- bil mi par, ch'o -- ve con -- ces -- so
+    Ne sia~il ve -- der, ch'o -- gni don -- na~e don -- zel -- la
     Non ne sia~ac -- ce -- sa, __
     \ijLyrics
     non ne sia~ac -- ce -- sa, 
@@ -95,21 +95,21 @@ tenoreXII = \relative c' {
 }
 
 tenoreLyricsXII = \lyricmode {
-    A -- mor n’è cau -- sa, che __ nel cor m’ha~im -- pres -- so
+    A -- mor n'è cau -- sa, che __ nel cor m'ha~im -- pres -- so
     La for -- ma tua co -- sì leg -- gia -- dra~e bel -- la,
         co -- sì leg -- gia -- dra~e bel -- la;
-    E po -- sto ci~ha l’ar -- dir, __ l’in -- ge -- gno~ap -- pres -- so,
+    E po -- sto ci~ha l'ar -- dir, __ l'in -- ge -- gno~ap -- pres -- so,
     E la vir -- tù,
     e la vir -- tù di che cia -- scun fa -- vel -- la,
         di che cia -- scun,
         di che cia -- scun fa -- vel -- la;
-    Ch’im -- pos -- si -- bil mi par,
-    ch’im -- pos -- si -- bil mi par,
+    Ch'im -- pos -- si -- bil mi par,
+    ch'im -- pos -- si -- bil mi par,
     \ijLyrics
-    ch’im -- pos -- si -- bil mi par,
+    ch'im -- pos -- si -- bil mi par,
     \normalLyrics
-        ch’o -- ve con -- ces -- so
-    Ne sia~il ve -- der, ch’o -- gni don -- na~e don -- zel -- la
+        ch'o -- ve con -- ces -- so
+    Ne sia~il ve -- der, ch'o -- gni don -- na~e don -- zel -- la
     Non ne sia~ac -- ce -- sa,
     non ne sia~ac -- ce -- sa, e che non u -- si~o -- gni~ar -- te,
         e che non u -- si~o -- gni~ar -- te
@@ -154,16 +154,16 @@ bassoXII = \relative c' {
 }
 
 bassoLyricsXII = \lyricmode {
-    A -- mor n’è cau -- sa, che nel cor m’ha~im -- pres -- so
+    A -- mor n'è cau -- sa, che nel cor m'ha~im -- pres -- so
     La for -- ma tua co -- sì leg -- gia -- dra~e bel -- la,
         co -- sì leg -- gia -- dra~e bel -- la; __
-    E po -- sto ci~ha l’ar -- dir, l’in -- ge -- gno~ap -- pres -- so,
+    E po -- sto ci~ha l'ar -- dir, l'in -- ge -- gno~ap -- pres -- so,
     E la vir -- tù di che cia -- scun fa -- vel -- la,
         di che cia -- scun fa -- vel -- la;
-    Ch’im -- pos -- si -- bil mi par,
-    ch’im -- pos -- si -- bil mi par,
-    ch’im -- pos -- si -- bil mi par, ch’o -- ve con -- ces -- so
-    Ne sia~il ve -- der, ch’o -- gni don -- na~e don -- zel -- la
+    Ch'im -- pos -- si -- bil mi par,
+    ch'im -- pos -- si -- bil mi par,
+    ch'im -- pos -- si -- bil mi par, ch'o -- ve con -- ces -- so
+    Ne sia~il ve -- der, ch'o -- gni don -- na~e don -- zel -- la
     Non ne sia~ac -- ce -- sa,
     non ne sia~ac -- ce -- sa, e che non u -- si~o -- gni~ar -- te
     \ijLyrics

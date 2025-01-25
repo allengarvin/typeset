@@ -1,11 +1,11 @@
-%Pien d’un vago penser che me desvia
+%Pien d'un vago penser che me desvia
 %da tutti gli altri, et fammi al mondo ir solo,
-%ad or ad ora a me stesso m’involo
+%ad or ad ora a me stesso m'involo
 %pur lei cercando che fuggir devria;
 %et veggiola passar sì dolce et ria
-%che l’alma trema per levarsi a volo,
-%tal d’armati sospir’ conduce stuolo
-%questa bella d’Amor nemica, et mia.
+%che l'alma trema per levarsi a volo,
+%tal d'armati sospir' conduce stuolo
+%questa bella d'Amor nemica, et mia.
 
 cantusXLIincipit = \relative c'' {
     \time 2/2
@@ -48,22 +48,22 @@ cantusXLI = \relative c'' {
 }
 
 cantusLyricsXLI = \lyricmode {
-    Pien d’un va -- go pen -- ser che me des -- vi -- a,
+    Pien d'un va -- go pen -- ser che me des -- vi -- a,
         che me des -- vi -- a
     Da tut -- ti gli~al -- tri, __ et fam -- mi~al mon -- do~ir so -- lo,
         et fam -- mi~al mon -- do~ir so -- lo,
-    Ad or ad or' a me stes -- so m’in -- vo -- lo
+    Ad or ad or' a me stes -- so m'in -- vo -- lo
     Pur lei cer -- can -- do che fug -- gir de -- vri -- a,
         che fug -- gir de -- vri -- a;
 
     Et veg -- gio -- la pas -- sar sì __ dol -- ce~et ri -- a,
         sì dol -- ce~et ri -- a
-    Che l’al -- ma tre -- ma per le -- var -- si~a vo -- lo,
-    Tal d’ar -- ma -- ti so -- spir’ con -- du -- ce stuo -- lo
+    Che l'al -- ma tre -- ma per le -- var -- si~a vo -- lo,
+    Tal d'ar -- ma -- ti so -- spir' con -- du -- ce stuo -- lo
     Que -- sta bel -- la,
-    que -- sta bel -- la __ d’A -- mor ne -- mi -- ca, et __  mi -- a,
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, et mi -- a,
-        d’A -- mor ne -- mi -- ca, et  mi -- a.
+    que -- sta bel -- la __ d'A -- mor ne -- mi -- ca, et __  mi -- a,
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, et mi -- a,
+        d'A -- mor ne -- mi -- ca, et  mi -- a.
 }
 
 altusXLIincipit = \relative c' {
@@ -108,24 +108,24 @@ altusXLI = \relative c' {
 }
 
 altusLyricsXLI = \lyricmode {
-    Pien d’un va -- go pen -- ser che me des -- vi -- a,
+    Pien d'un va -- go pen -- ser che me des -- vi -- a,
         che me des -- vi -- a
     Da tut -- ti gli~al -- tri, 
     da tut -- ti gli~al -- tri, et fam -- mi~al mon -- do~ir so -- lo,
         et fam -- mi~al mon -- do~ir so -- lo,
     Ad or ad or',
-    ad or ad or' a me stes -- so m’in -- vo -- lo
+    ad or ad or' a me stes -- so m'in -- vo -- lo
     Pur lei __ cer -- can -- do che __ fug -- gir de -- vri -- a,
     pur lei cer -- can -- do che fug -- gir de -- vri -- a:
 
     Et veg -- gio -- la pas -- sar,
     et veg -- gio -- la pas -- sar sì __ dol -- ce~et ri -- a,
-    Che l’al -- ma tre -- ma per le -- var -- si~a vo -- lo,
-    Tal d’ar -- ma -- ti so -- spir’,
-    tal __ d’ar -- ma -- ti so -- spir’ con -- du -- ce stuo -- lo
-    Que -- sta bel -- la d’A -- mor ne -- mi -- ca, 
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, et __ mi -- a,
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, et mi -- a.
+    Che l'al -- ma tre -- ma per le -- var -- si~a vo -- lo,
+    Tal d'ar -- ma -- ti so -- spir',
+    tal __ d'ar -- ma -- ti so -- spir' con -- du -- ce stuo -- lo
+    Que -- sta bel -- la d'A -- mor ne -- mi -- ca, 
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, et __ mi -- a,
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, et mi -- a.
 }
 
 tenorXLIincipit = \relative c {
@@ -173,26 +173,26 @@ tenorXLI = \relative c {
 }
 
 tenorLyricsXLI = \lyricmode {
-    Pien d’un va -- go pen -- ser che me des -- vi -- a,
+    Pien d'un va -- go pen -- ser che me des -- vi -- a,
         che me des -- vi -- a
     Da tut -- ti gli~al -- tri, 
         che me des -- vi -- a
     da tut -- ti gli~al -- tri, et fam -- mi~al mon -- do~ir so -- lo, __
         et fam -- mi~al mon -- do~ir so -- lo, 
-    Ad or ad or' a me stes -- so m’in -- vo -- lo
+    Ad or ad or' a me stes -- so m'in -- vo -- lo
     Pur lei cer -- can -- do che fug -- gir de -- vri -- a, __
         che fug -- gir __ de -- vri -- a;
 
     Et veg -- gio -- la pas -- sar sì dol -- ce~et ri -- a,
     et veg -- gio -- la pas -- sar sì dol -- ce~et ri -- a,
-    Che l’al -- ma tre -- ma per le -- var -- si~a vo -- lo, __
-    Tal d’ar -- ma -- ti so -- spir’ con -- du -- ce stuo -- lo
-    Que -- sta bel -- la d’A -- mor ne -- mi -- ca, 
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca,
-        d’A -- mor ne -- mi -- ca~et mi -- a,
-        d’A -- mor ne -- mi -- ca~et mi -- a,
+    Che l'al -- ma tre -- ma per le -- var -- si~a vo -- lo, __
+    Tal d'ar -- ma -- ti so -- spir' con -- du -- ce stuo -- lo
+    Que -- sta bel -- la d'A -- mor ne -- mi -- ca, 
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca,
+        d'A -- mor ne -- mi -- ca~et mi -- a,
+        d'A -- mor ne -- mi -- ca~et mi -- a,
             et mi -- a,
-    que -- sta bel -- la __ d’A -- mor ne -- mi -- ca, et mi -- a.
+    que -- sta bel -- la __ d'A -- mor ne -- mi -- ca, et mi -- a.
 }
 
 bassusXLIincipit = \relative c {
@@ -235,22 +235,22 @@ bassusXLI = \relative c {
 }
 
 bassusLyricsXLI = \lyricmode {
-    Pien __ d’un va -- go pen -- ser che me des -- vi -- a,
+    Pien __ d'un va -- go pen -- ser che me des -- vi -- a,
         che me des -- vi -- a
     Da tut -- ti gli~al -- tri, et fam -- mi~al mon -- do~ir so -- lo,
         et fam -- mi~al mon -- do~ir so -- lo,
     Ad or ad or',
-    ad or ad or' a me stes -- so m’in -- vo -- lo
+    ad or ad or' a me stes -- so m'in -- vo -- lo
     Pur lei cer -- can -- do che fug -- gir __ de -- vri -- a;
 
     Et veg -- gio -- la pas -- sar,
     et veg -- gio -- la pas -- sar sì dol -- ce~et ri -- a,
-    Che l’al -- ma tre -- ma per le -- var -- si~a vo -- lo,
-    Tal d’ar -- ma -- ti so -- spir’ con -- du -- ce stuo -- lo
+    Che l'al -- ma tre -- ma per le -- var -- si~a vo -- lo,
+    Tal d'ar -- ma -- ti so -- spir' con -- du -- ce stuo -- lo
     Que -- sta bel -- la,
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, et mi -- a,
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, 
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, et mi -- a. __
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, et mi -- a,
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, 
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, et mi -- a. __
 }
 
 quintusXLIincipit = \relative c' {
@@ -297,23 +297,23 @@ quintusXLI = \relative c' {
 }
 
 quintusLyricsXLI = \lyricmode {
-    Pien d’un va -- go pen -- ser che me des -- vi -- a,
+    Pien d'un va -- go pen -- ser che me des -- vi -- a,
         che me des -- vi -- a
     Da tut -- ti gli~al -- tri, __ et fam -- mi~al mon -- do~ir so -- lo,
         et fam -- mi~al mon -- do~ir so -- lo,
-    Ad or ad or' a me stes -- so m’in -- vo -- lo,
-    ad or ad or' a me stes -- so m’in -- vo -- lo
+    Ad or ad or' a me stes -- so m'in -- vo -- lo,
+    ad or ad or' a me stes -- so m'in -- vo -- lo
     Pur lei cer -- can -- do che fug -- gir de -- vri -- a;
 
     Et veg -- gio -- la pas -- sar sì dol -- ce~et ri -- a,
     et veg -- gio -- la pas -- sar sì dol -- ce~et ri -- a,
-    Che l’al -- ma tre -- ma per le -- var -- si~a vo -- lo,
-    che l’al -- ma tre -- ma per le -- var -- si~a vo -- lo,
-    Tal d’ar -- ma -- ti so -- spir’ con -- du -- ce stuo -- lo
-    Que -- sta bel -- la d’A -- mor ne -- mi -- ca, et mi -- a,
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, et mi -- a,
-    Que -- sta bel -- la d’A -- mor ne -- mi -- ca, 
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, et mi -- a.
+    Che l'al -- ma tre -- ma per le -- var -- si~a vo -- lo,
+    che l'al -- ma tre -- ma per le -- var -- si~a vo -- lo,
+    Tal d'ar -- ma -- ti so -- spir' con -- du -- ce stuo -- lo
+    Que -- sta bel -- la d'A -- mor ne -- mi -- ca, et mi -- a,
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, et mi -- a,
+    Que -- sta bel -- la d'A -- mor ne -- mi -- ca, 
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, et mi -- a.
 }
 
 sestaXLIincipit = \relative c'' {
@@ -357,22 +357,22 @@ sestaXLI = \relative c'' {
 }
 
 sestaLyricsXLI = \lyricmode {
-    Pien d’un va -- go pen -- ser che me des -- vi -- a,
+    Pien d'un va -- go pen -- ser che me des -- vi -- a,
     Da tut -- ti gli~al -- tri, 
     DA tut -- ti gli~al -- tri, et fam -- mi~al mon -- do~ir so -- lo,
         et fam -- mi~al mon -- do~ir so -- lo, __
     Ad or ad or', __
-    ad or ad or' a me stes -- so m’in -- vo -- lo
+    ad or ad or' a me stes -- so m'in -- vo -- lo
     Pur lei cer -- can -- do che fug -- gir de -- vri -- a,
         che fug -- gir de -- vri -- a;
 
     Et veg -- gio -- la pas -- sar sì dol -- ce~et ri -- a,
-    Che l’al -- ma tre -- ma per le -- var -- si~a vo -- lo,
-    che l’al -- ma tre -- ma per le -- var -- si~a vo -- lo,
-    Tal __ d’ar -- ma -- ti so -- spir’ con -- du -- ce stuo -- lo
-    Que -- sta bel -- la d’A -- mor ne -- mi -- ca, et mi -- a,
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, et mi -- a,
-    que -- sta bel -- la d’A -- mor ne -- mi -- ca, et __ mi -- a. __
+    Che l'al -- ma tre -- ma per le -- var -- si~a vo -- lo,
+    che l'al -- ma tre -- ma per le -- var -- si~a vo -- lo,
+    Tal __ d'ar -- ma -- ti so -- spir' con -- du -- ce stuo -- lo
+    Que -- sta bel -- la d'A -- mor ne -- mi -- ca, et mi -- a,
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, et mi -- a,
+    que -- sta bel -- la d'A -- mor ne -- mi -- ca, et __ mi -- a. __
 }
 
 cantusXLIincipitVoice = <<

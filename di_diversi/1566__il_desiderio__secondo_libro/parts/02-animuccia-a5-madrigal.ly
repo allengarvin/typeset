@@ -45,7 +45,7 @@ cantoLyricsII = \lyricmode {
         il ven -- to mai sì ver -- di fron -- di
     Co -- me~a me si mo -- strar quel pri -- mo tem -- po: __
     Tal che, te -- men -- do,
-    Tal che, te -- men -- do de l’ar -- den -- te lu -- me,
+    Tal che, te -- men -- do de l'ar -- den -- te lu -- me,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
     Ma de la pian -- ta più __ gra -- di -- ta~in cie -- lo,
     Non vol -- si~al mio re -- fu -- gio om -- bra di pog -- gi,
@@ -98,7 +98,7 @@ altoLyricsII = \lyricmode {
     Né mos -- se~il ven -- to mai,  sì ver -- di fron -- di
     Co -- me~a me si mo -- strar,
     Co -- me~a me si mo -- strar quel pri -- mo tem -- po: 
-    Tal che, te -- men -- do de l’ar -- den -- te lu -- me, __
+    Tal che, te -- men -- do de l'ar -- den -- te lu -- me, __
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
     Ma de la pian -- ta più gra -- di -- ta~in cie -- lo,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
@@ -206,8 +206,8 @@ bassoLyricsII = \lyricmode {
     Né mos -- se~il ven -- to mai sì ver -- di fron -- di
     Co -- me~a me si mo -- strar,
         a me si mo -- strar quel pri -- mo tem -- po: 
-    Tal che, te -- men -- do de l’ar -- den -- te lu -- me,
-        de l’ar -- den -- te lu -- me,
+    Tal che, te -- men -- do de l'ar -- den -- te lu -- me,
+        de l'ar -- den -- te lu -- me,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
     Ma de la pian -- ta più gra -- di -- ta~in cie -- lo,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
@@ -262,7 +262,7 @@ quintoLyricsII = \lyricmode {
     \normalLyrics 
         quel pri -- mo tem -- po: 
         quel pri -- mo tem -- po: 
-    Tal che, te -- men -- do de l’ar -- den -- te lu -- me,
+    Tal che, te -- men -- do de l'ar -- den -- te lu -- me,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,
     Ma de la pian -- ta più gra -- di -- ta~in cie -- lo,
     Non vol -- si~al mio re -- fu -- gio~om -- bra di pog -- gi,

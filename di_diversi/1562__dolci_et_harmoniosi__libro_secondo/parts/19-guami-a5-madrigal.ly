@@ -1,10 +1,10 @@
 %Gravi pene in amor si provan molte,
-%di che patito io n’ho la maggior parte,
+%di che patito io n'ho la maggior parte,
 %e quelle in danno mio sì ben raccolte,
-%ch’io ne posso parlar come per arte.
-%Però s’io dico e s’ho detto altre volte,
+%ch'io ne posso parlar come per arte.
+%Però s'io dico e s'ho detto altre volte,
 %e quando in voce e quando in vive carte,
-%ch’un mal sia lieve, un altro acerbo e fiero,
+%ch'un mal sia lieve, un altro acerbo e fiero,
 %date credenza al mio giudicio vero.
 
 cantoXIXincipit = \relative c' {

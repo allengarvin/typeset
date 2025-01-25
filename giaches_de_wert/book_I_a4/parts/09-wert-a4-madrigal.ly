@@ -54,8 +54,8 @@ cantoIX = \relative c'' {
 
 cantoLyricsIX = \lyricmode {
     Dun -- que ba -- ciar sì bel -- le~e dol -- ce lab -- bia
-    De -- ve~al -- tra, se ba -- ciar non le pos -- s’i -- o?
-    Ah non sia ve -- ro già ch'al -- tra mai t’ab -- bia;
+    De -- ve~al -- tra, se ba -- ciar non le pos -- s'i -- o?
+    Ah non sia ve -- ro già ch'al -- tra mai t'ab -- bia;
     Che d'al -- tra~es -- ser __ non dei, se non sei mi -- o.
     Più to -- sto che mo -- rir so -- la di rab -- bia,
     Che me -- co di mia man mo -- ri, di -- si -- o;
@@ -92,8 +92,8 @@ altoIX = \relative c' {
 
 altoLyricsIX = \lyricmode {
     Dun -- que ba -- ciar sì bel -- le~e dol -- ce lab -- bia
-    De -- ve~al -- tra, se ba -- ciar non le pos -- s’i -- o?
-    Ah non sia ve -- ro già ch'al -- tra mai t’ab -- bia;
+    De -- ve~al -- tra, se ba -- ciar non le pos -- s'i -- o?
+    Ah non sia ve -- ro già ch'al -- tra mai t'ab -- bia;
     Che d'al -- tra~es -- ser __ non dei, se non sei mi -- o.
     Più to -- sto che mo -- rir so -- la di rab -- bia,
     Che me -- co di mia man __ mo -- rir, di -- si -- o;
@@ -131,8 +131,8 @@ tenoreIX = \relative c' {
 
 tenoreLyricsIX = \lyricmode {
     Dun -- que ba -- ciar sì bel -- le~e dol -- ce lab -- bia
-    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s’i -- o?
-    Ah non sia ve -- ro già ch'al -- tra mai t’ab -- bia;
+    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s'i -- o?
+    Ah non sia ve -- ro già ch'al -- tra mai t'ab -- bia;
     Che d'al -- tra~es -- ser __ non dei, se non sei mi -- o.
     Più to -- sto che mo -- rir so -- la di rab -- bia,
     Che me -- co di mia man mo -- ri, di -- si -- o;
@@ -177,8 +177,8 @@ bassoIX = \relative c' {
 
 bassoLyricsIX = \lyricmode {
     Dun -- que ba -- ciar sì bel -- le~e dol -- ce lab -- bia
-    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s’i -- o?
-    Ah non sia ve -- ro già ch'al -- tra mai t’ab -- bia;
+    De -- ve~al -- tra, se __ ba -- ciar non le pos -- s'i -- o?
+    Ah non sia ve -- ro già ch'al -- tra mai t'ab -- bia;
     Che d'al -- tra~es -- ser __ non dei, se non sei mi -- o.
     Più to -- sto che mo -- rir so -- la di rab -- bia,
     Che me -- co di mia man mo -- ri, di -- si -- o;

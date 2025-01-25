@@ -1,10 +1,10 @@
 %   38 Quando si vide sola in quel deserto,
 %      che a riguardarlo sol, mettea paura,
-%      ne l’ora che nel mar Febo coperto
-%      l’aria e la terra avea lasciata oscura,
-%      fermossi in atto ch’avria fatto incerto
+%      ne l'ora che nel mar Febo coperto
+%      l'aria e la terra avea lasciata oscura,
+%      fermossi in atto ch'avria fatto incerto
 %      chiunque avesse vista sua figura,
-%      s’ella era donna sensitiva e vera,
+%      s'ella era donna sensitiva e vera,
 %      o sasso colorito in tal maniera.
 
 cantoXincipit = \relative c'' {
@@ -39,11 +39,11 @@ cantoX = \relative c'' {
 cantoLyricsX = \lyricmode {
     Quan -- do si vi -- de so -- la~in quel __ de -- ser -- to,
     Che~a ri -- guar -- dar -- lo sol, __ met -- tea pa -- u -- ra,
-    Ne l’o -- ra che nel mar Fe -- bo co -- per -- to
-    L’a -- ria~e la ter -- ra~a -- vea la -- scia -- ta~o -- scu -- ra,
-    Fer -- mos -- si~in at -- to ch’a -- vria fat -- to~in -- cer -- to
+    Ne l'o -- ra che nel mar Fe -- bo co -- per -- to
+    L'a -- ria~e la ter -- ra~a -- vea la -- scia -- ta~o -- scu -- ra,
+    Fer -- mos -- si~in at -- to ch'a -- vria fat -- to~in -- cer -- to
     Chi -- un -- que~a -- ves -- se vi -- sta sua __ fi -- gu -- ra,
-    S’el -- la~e -- ra don -- na sen -- si -- ti -- va~e ve -- ra,
+    S'el -- la~e -- ra don -- na sen -- si -- ti -- va~e ve -- ra,
     O sas -- so co -- lo -- ri -- to~in tal ma -- nie -- ra,
     O sas -- so co -- lo -- ri -- to~in tal ma -- nie -- ra.
 }
@@ -82,13 +82,13 @@ altoX = \relative c' {
 altoLyricsX = \lyricmode {
     Quan -- do si vi -- de so -- la~in quel __ de -- ser -- to,
     Che~a ri -- guar -- dar -- lo sol, __ met -- tea pau -- ra,
-    Ne l’o -- ra che nel mar Fe -- bo co -- per -- to
-    L’a -- ria~e la ter -- ra~a -- vea la -- scia -- ta~o -- scu -- ra,
+    Ne l'o -- ra che nel mar Fe -- bo co -- per -- to
+    L'a -- ria~e la ter -- ra~a -- vea la -- scia -- ta~o -- scu -- ra,
         la -- scia -- ta~o -- scu -- ra,
-    Fer -- mos -- si~in at -- to ch’a -- vria fat -- to~in -- cer -- to
+    Fer -- mos -- si~in at -- to ch'a -- vria fat -- to~in -- cer -- to
     Chi -- un -- que~a -- ves -- se vi -- sta,
         a -- ves -- se vi -- sta sua fi -- gu -- ra,
-    S’el -- la~e -- ra don -- na sen -- si -- ti -- va~e ve -- ra,
+    S'el -- la~e -- ra don -- na sen -- si -- ti -- va~e ve -- ra,
         e ve -- ra,
     O sas -- so co -- lo -- ri -- to~in tal ma -- nie -- ra,
     O sas -- so co -- lo -- ri -- to~in tal ma -- nie -- ra.
@@ -125,11 +125,11 @@ tenoreX = \relative c' {
 tenoreLyricsX = \lyricmode {
     Quan -- do si vi -- de so -- la~in quel de -- ser -- to,
     Che~a ri -- guar -- dar -- lo sol, met -- tea __ pa -- u -- ra,
-    Ne l’o -- ra che nel mar Fe -- bo co -- per -- to
-    L’a -- ria~e la ter -- ra~a -- vea __ la -- scia -- ta~o -- scu -- ra,
-    Fer -- mos -- si~in at -- to ch’a -- vria fat -- to~in -- cer -- to
+    Ne l'o -- ra che nel mar Fe -- bo co -- per -- to
+    L'a -- ria~e la ter -- ra~a -- vea __ la -- scia -- ta~o -- scu -- ra,
+    Fer -- mos -- si~in at -- to ch'a -- vria fat -- to~in -- cer -- to
     Chi -- un -- que~a -- ves -- se vi -- sta sua fi -- gu -- ra,
-    S’el -- la~e -- ra don -- na sen -- si -- ti -- va~e ve -- ra,
+    S'el -- la~e -- ra don -- na sen -- si -- ti -- va~e ve -- ra,
     O sas -- so co -- lo -- ri -- to~in tal __ ma -- nie -- ra,
     O sas -- so co -- lo -- ri -- to~in tal ma -- nie -- ra.
 }
@@ -166,11 +166,11 @@ bassoX = \relative c' {
 bassoLyricsX = \lyricmode {
     Quan -- do si vi -- de so -- la~in quel de -- ser -- to,
     Che~a ri -- guar -- dar -- lo sol, __ met -- tea pa -- u -- ra,
-    Ne l’o -- ra che nel mar Fe -- bo co -- per -- to
-    L’a -- ria~e la ter -- ra~a -- vea la -- scia -- ta~o -- scu -- ra,
-    Fer -- mos -- si~in at -- to ch’a -- vria fat -- to~in -- cer -- to
+    Ne l'o -- ra che nel mar Fe -- bo co -- per -- to
+    L'a -- ria~e la ter -- ra~a -- vea la -- scia -- ta~o -- scu -- ra,
+    Fer -- mos -- si~in at -- to ch'a -- vria fat -- to~in -- cer -- to
     Chi -- un -- que~a -- ves -- se vi -- sta sua fi -- gu -- ra, __
-    S’el -- la~e -- ra don -- na sen -- si -- ti -- va~e ve -- ra,
+    S'el -- la~e -- ra don -- na sen -- si -- ti -- va~e ve -- ra,
     O sas -- so co -- lo -- ri -- to~in tal ma -- nie -- ra,
     O sas -- so co -- lo -- ri -- to~in tal ma -- nie -- ra.
 }

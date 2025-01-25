@@ -39,7 +39,7 @@ cantoIV = \relative c'' {
 
 cantoLyricsIV = \lyricmode {
     Ri -- vi, fon -- ta -- ne
-        fon -- ta -- ne __ e fiu -- mi~a l’au -- ra~al cie -- lo
+        fon -- ta -- ne __ e fiu -- mi~a l'au -- ra~al cie -- lo
     Sì ca -- ri~e sì gra -- di -- ti~al -- la __ mia vo -- ce,
     Fre -- na -- te~i vo -- stri cor -- si, e di fre -- sca~om -- bra,
     A -- ma -- to lau -- ro con tue ver -- di chio -- me, __
@@ -101,7 +101,7 @@ altoIV = \relative c'' {
 }
 
 altoLyricsIV = \lyricmode {
-    Ri -- vi, fon -- ta -- ne~e fiu -- mi a l’au -- ra~al cie -- lo
+    Ri -- vi, fon -- ta -- ne~e fiu -- mi a l'au -- ra~al cie -- lo
     Sì ca -- ri~e sì gra -- di -- ti~al -- la mia __ vo -- ce,
     Fre -- na -- te~i vo -- stri __ cor -- si, e di fre -- sca~om -- bra,
     A -- ma -- to lau -- ro con tue ver -- di chio -- me,
@@ -157,7 +157,7 @@ tenoreIV = \relative c' {
 }
 
 tenoreLyricsIV = \lyricmode {
-    Ri -- vi, fon -- ta -- ne~e fiu -- mi~a l’au -- ra~al cie -- lo
+    Ri -- vi, fon -- ta -- ne~e fiu -- mi~a l'au -- ra~al cie -- lo
     Sì ca -- ri~e sì gra -- di -- ti~al -- la mia vo -- ce,
     Fre -- na -- te~i vo -- stri __ cor -- si, e di fre -- sca~om -- bra,
     A -- ma -- to lau -- ro,
@@ -259,7 +259,7 @@ quintoIV = \relative c'' {
 
 quintoLyricsIV = \lyricmode {
     Ri -- vi, fon -- ta -- ne
-        fon -- ta -- ne e fiu -- mi~a l’au -- ra~al cie -- lo
+        fon -- ta -- ne e fiu -- mi~a l'au -- ra~al cie -- lo
     Sì ca -- ri~e sì gra -- di -- ti~al -- la __ mia vo -- ce,
     Fre -- na -- te~i vo -- stri cor -- si, e di fre -- sca~om -- bra,
     A -- ma -- to lau -- ro con tue ver -- di chio -- me, 

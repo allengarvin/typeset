@@ -212,12 +212,12 @@ bassusLyricsIII = \lyricmode {
 %    dolor sta sempre meco.
 %
 %O dio famme ne scir da tanti guai
-%ca non gin camparaggio un’altra fiata.
+%ca non gin camparaggio un'altra fiata.
 %
 %Perché...
 %
-%O mora o camp’ hormai non me ne curo
-%sto mondo latr’ e fatto a chi ha ventura.
+%O mora o camp' hormai non me ne curo
+%sto mondo latr' e fatto a chi ha ventura.
 %
 %Perché...
 

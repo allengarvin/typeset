@@ -7,8 +7,8 @@
 % e ricovrar quel che di me perdei.
 % Misera e tu, che per novello amore
 % perdi quel fido core,
-% ch’era più tuo che tu di te non sei.
-% Ma’l tuo già non perdo io,
+% ch'era più tuo che tu di te non sei.
+% Ma'l tuo già non perdo io,
 % perché non fu mai mio.
 
 % Tasso. Rime amorose composte ad istanza d'altri
@@ -58,14 +58,14 @@ cantoLyricsXIII = \lyricmode {
     Mi -- se -- ra~e tu,
     mi -- se -- ra~e tu, che per no -- vel -- l'a -- mo -- re
     Per -- di quel fi -- do co -- re,
-    Ch’e -- ra più tuo che tu di te non se -- i.
+    Ch'e -- ra più tuo che tu di te non se -- i.
 
-    Ma’l tuo già non per -- d’i -- o,
+    Ma'l tuo già non per -- d'i -- o,
     \ijLyrics
-    ma’l tuo già non per -- d’i -- o,
+    ma'l tuo già non per -- d'i -- o,
     \normalLyrics
     Per -- ché non fu mai mi -- o,
-    ma’l tuo già non per -- d’i -- o,
+    ma'l tuo già non per -- d'i -- o,
     per -- ché non fu mai mi -- o.
 }
 
@@ -119,16 +119,16 @@ altoLyricsXIII = \lyricmode {
     mi -- se -- ra~e tu, che per no -- vel -- l'a -- mo -- re
     \normalLyrics
     Per -- di quel fi -- do co -- re,
-    Ch’e -- ra più tuo __ che tu di te non se -- i.
+    Ch'e -- ra più tuo __ che tu di te non se -- i.
 
-    Ma’l tuo già non per -- d’i -- o,
+    Ma'l tuo già non per -- d'i -- o,
     \ijLyrics
-    ma’l tuo già non per -- d’i -- o,
+    ma'l tuo già non per -- d'i -- o,
     \normalLyrics
     Per -- ché non fu mai mi -- o,
-    ma’l tuo già non per -- d’i -- o,
+    ma'l tuo già non per -- d'i -- o,
     \ijLyrics
-    ma’l tuo già non per -- d’i -- o,
+    ma'l tuo già non per -- d'i -- o,
     \normalLyrics
     Per -- ché non fu mai mi -- o.
 }
@@ -177,11 +177,11 @@ tenoreLyricsXIII = \lyricmode {
     mi -- se -- ra~e tu, che per no -- vel -- l'a -- mo -- re
     \normalLyrics
     Per -- di quel fi -- do co -- re,
-    Ch’e -- ra più tuo __ che tu di te non se -- i.
+    Ch'e -- ra più tuo __ che tu di te non se -- i.
 
-    Ma’l tuo già non per -- d’i -- o,
+    Ma'l tuo già non per -- d'i -- o,
     Per -- ché non fu mai mi -- o,
-    ma’l tuo già non per -- d’i -- o,
+    ma'l tuo già non per -- d'i -- o,
     per -- ché non fu mai mi -- o.
 }
 
@@ -226,9 +226,9 @@ bassoLyricsXIII = \lyricmode {
     mi -- se -- ra~e tu, che per no -- vel -- l'a -- mo -- re
     \normalLyrics
     Per -- di quel fi -- do co -- re,
-    Ch’e -- ra più tuo __ che tu di te non se -- i.
+    Ch'e -- ra più tuo __ che tu di te non se -- i.
 %
-    Ma’l tuo già non per -- d’i -- o,
+    Ma'l tuo già non per -- d'i -- o,
     Per -- ché non fu mai mi -- o.
 }
 
@@ -279,14 +279,14 @@ quintoLyricsXIII = \lyricmode {
     mi -- se -- ra~e tu, che per no -- vel -- l'a -- mo -- re
     \normalLyrics
     Per -- di quel fi -- do co -- re,
-    Ch’e -- ra più tuo __ che tu di te non se -- i.
+    Ch'e -- ra più tuo __ che tu di te non se -- i.
 
-    Ma’l tuo già non per -- d’i -- o,
+    Ma'l tuo già non per -- d'i -- o,
     \ijLyrics
-    ma’l tuo già non per -- d’i -- o,
+    ma'l tuo già non per -- d'i -- o,
     \normalLyrics
     Per -- ché non fu mai mi -- o,
-    ma’l tuo già non per -- d’i -- o,
+    ma'l tuo già non per -- d'i -- o,
     per -- ché non fu mai mi -- o.
 }
 

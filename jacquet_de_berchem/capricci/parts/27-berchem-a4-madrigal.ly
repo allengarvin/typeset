@@ -2,9 +2,9 @@
 %   129  Pel bosco errò tutta la notte il conte;
 %        e allo spuntar de la diurna fiamma
 %        lo tornò il suo destin sopra la fonte
-%        dove Medoro insculse l’epigramma.
-%        Veder l’ingiuria sua scritta nel monte
-%        l’accese sì, ch’in lui non restò dramma
+%        dove Medoro insculse l'epigramma.
+%        Veder l'ingiuria sua scritta nel monte
+%        l'accese sì, ch'in lui non restò dramma
 %        che non fosse odio, rabbia, ira e furore;
 %        né più indugiò, che trasse il brando fuore.
 cantoXXVIIincipit = \relative c'' {
@@ -41,10 +41,10 @@ cantoLyricsXXVII = \lyricmode {
     Pel bo -- sco~er -- rò tut -- ta la not -- te~il con -- te;
     E~al -- lo spun -- tar del -- la di -- ur -- na fiam -- ma
     Lo tor -- nò~il suo de -- stin so -- pra la fon -- te
-    Do -- ve Me -- do -- ro~in -- scul -- se l’e -- pi -- gram -- ma.
-    Ve -- der l’in -- giu -- ria sua scrit -- ta nel mon -- te,
+    Do -- ve Me -- do -- ro~in -- scul -- se l'e -- pi -- gram -- ma.
+    Ve -- der l'in -- giu -- ria sua scrit -- ta nel mon -- te,
         scrit -- ta nel mon -- te
-    L’ac -- ce -- se sì, ch’in lui non re -- stò dram -- ma
+    L'ac -- ce -- se sì, ch'in lui non re -- stò dram -- ma
     Che non fos -- se~o -- dio, rab -- bia~i -- ra~e fu -- ro -- re,
         i -- ra~e fu -- ro -- re;
     Né più~in -- du -- giò, che tras -- se~il bran -- do fuo -- re,
@@ -84,10 +84,10 @@ altoLyricsXXVII = \lyricmode {
         tut -- ta la not -- te~il con -- te;
     E~al -- lo spun -- tar del -- la di -- ur -- na fiam -- ma
     Lo tor -- nò~il suo de -- stin so -- pra la fon -- te
-    Do -- ve Me -- do -- ro~in -- scul -- se l’e -- pi -- gram -- ma.
-    Ve -- der l’in -- giu -- ria sua scrit -- ta nel mon -- te
-    L’ac -- ce -- se sì, ch’in lui non re -- stò dram -- ma,
-        ch’in lui non re -- stò dram -- ma
+    Do -- ve Me -- do -- ro~in -- scul -- se l'e -- pi -- gram -- ma.
+    Ve -- der l'in -- giu -- ria sua scrit -- ta nel mon -- te
+    L'ac -- ce -- se sì, ch'in lui non re -- stò dram -- ma,
+        ch'in lui non re -- stò dram -- ma
     Che non fos -- se~o -- dio, rab -- bia~i -- ra~e fu -- ro -- re,
         rab -- bia~i -- ra~e fu -- ro -- re,
     Né più~in -- du -- giò, che tras -- se~il bran -- do fuo -- re,
@@ -128,10 +128,10 @@ tenoreLyricsXXVII = \lyricmode {
         tut -- ta la not -- te~il con -- te;
     E~al -- lo spun -- tar __ del -- la di -- ur -- na __ fiam -- ma
     Lo tor -- nò~il suo de -- stin so -- pra la fon -- te
-    Do -- ve Me -- do -- ro~in -- scul -- se l’e -- pi -- gram -- ma.
-    Ve -- der l’in -- giu -- ria sua scrit -- ta nel mon -- te
-    L’ac -- ce -- se sì, ch’in lui,
-        ch’in lui non re -- stò dram -- ma
+    Do -- ve Me -- do -- ro~in -- scul -- se l'e -- pi -- gram -- ma.
+    Ve -- der l'in -- giu -- ria sua scrit -- ta nel mon -- te
+    L'ac -- ce -- se sì, ch'in lui,
+        ch'in lui non re -- stò dram -- ma
     Che non fos -- se~o -- dio, rab -- bia~i -- ra~e fu -- ro -- re,
         i -- ra~e fu -- ro -- re;
     Né più~in -- du -- giò, che tras -- se~il bran -- do fuo -- re,
@@ -173,9 +173,9 @@ bassoLyricsXXVII = \lyricmode {
     E~al -- lo spun -- tar,
     e~al -- lo spun -- tar del -- la di -- ur -- na fiam -- ma
     Lo tor -- nò~il suo de -- stin so -- pra la fon -- te
-    Do -- ve Me -- do -- ro~in -- scul -- se l’e -- pi -- gram -- ma.
-    Ve -- der l’in -- giu -- ria sua scrit -- ta nel mon -- te
-    L’ac -- ce -- se sì, ch’in lui non re -- stò dram -- ma
+    Do -- ve Me -- do -- ro~in -- scul -- se l'e -- pi -- gram -- ma.
+    Ve -- der l'in -- giu -- ria sua scrit -- ta nel mon -- te
+    L'ac -- ce -- se sì, ch'in lui non re -- stò dram -- ma
     Che non fos -- se~o -- dio, rab -- bia~i -- ra~e fu -- ro -- re,
         rab -- bia~i -- ra~e fu -- ro -- re;
     Né più~in -- du -- giò, che tras -- se~il bran -- do fuo -- re,

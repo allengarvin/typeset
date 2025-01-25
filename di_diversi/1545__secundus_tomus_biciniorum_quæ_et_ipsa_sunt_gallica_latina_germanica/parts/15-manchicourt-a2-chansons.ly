@@ -70,7 +70,7 @@ superiorLyricsXV = \lyricmode {
     Qui à nos maulx a sceut si bien pour -- voir
     Or main -- te -- nant a per -- du __ son pou -- voir,
     Rom -- pant __ le but __ de __ ma seul -- le~e -- spé -- ran -- ce
-    Ser -- vant __ d’e -- xem -- ple~à tous pi -- teux à __ voir,
+    Ser -- vant __ d'e -- xem -- ple~à tous pi -- teux à __ voir,
     Fi -- ni __ le __ bien, le mal __ sou -- dain __ com -- men -- ce,
     fi -- ni __ le __ bien, le mal __ sou -- dain __ com -- men -- ce.
 }
@@ -138,8 +138,8 @@ inferiorLyricsXV = \lyricmode {
     Qui à nos maulx a sceut __ si __ bien pour -- voir
     Or main -- te -- nant __ a per -- du son pou -- voir,
     Rom -- pant __ le but de __ ma __ seul -- le~e -- spé -- ran -- ce
-    Ser -- vant d’e -- xem -- ple à tous pi -- teux à voir,
-    ser -- vant d’e -- xem -- ple à tous pi -- teux à voir
+    Ser -- vant d'e -- xem -- ple à tous pi -- teux à voir,
+    ser -- vant d'e -- xem -- ple à tous pi -- teux à voir
     Fi -- ni __ le bien, le mal sou -- dain __ com -- men -- ce, 
     fi -- ni le __ bien, le mal sou -- dain __ com -- men -- ce. 
 }

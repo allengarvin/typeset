@@ -48,10 +48,10 @@ cantoXIX = \relative c' {
 
 
 cantoLyricsXIX = \lyricmode {
-    Già tor -- na a ral -- le -- grar __ l’a -- ria~e la ter -- ra
-    Già tor -- na a ral -- le -- grar l’a -- ria~e la ter -- ra
+    Già tor -- na a ral -- le -- grar __ l'a -- ria~e la ter -- ra
+    Già tor -- na a ral -- le -- grar l'a -- ria~e la ter -- ra
     \ijLyrics
-        l’a -- ria~e la ter -- ra
+        l'a -- ria~e la ter -- ra
     \normalLyrics
     Il gio -- ve -- net -- to~A -- pril,
     Il gio -- ve -- net -- to~A -- pril,
@@ -64,7 +64,7 @@ cantoLyricsXIX = \lyricmode {
     Il gio -- ve -- net -- to~A -- pril,
     \normalLyrics
         car -- co di fio -- ri,
-    Il Mar __ s’ac -- que -- ta, il giel fug -- ge sot -- te -- ra,
+    Il Mar __ s'ac -- que -- ta, il giel fug -- ge sot -- te -- ra,
         fug -- ge sot -- te -- ra,
     \ijLyrics
         fug -- ge sot -- te -- ra,
@@ -75,16 +75,16 @@ cantoLyricsXIX = \lyricmode {
     \ijLyrics
     Tor -- nan gli~au -- gel -- li
     \normalLyrics
-        a l’a -- mo -- ro -- sa guer -- ra
+        a l'a -- mo -- ro -- sa guer -- ra
     Lie -- ti~a can -- tar __ nei ma -- tu -- ti -- ni~al -- bo -- ri. __
     Ed __ io pian -- go la not -- te~e son do -- len -- te,
         e son do -- len -- te,
-    To -- sto che’l sol
+    To -- sto che'l sol
     \ijLyrics
-    To -- sto che’l sol
+    To -- sto che'l sol
     \normalLyrics
         si sco -- pre~in o -- ri -- en -- te,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
         si sco -- pre~in o -- ri -- en -- te.
 }
 
@@ -132,9 +132,9 @@ altoLyricsXIX = \lyricmode {
     Già tor -- na~a
     \normalLyrics
         ral -- le -- grar __
-        l’a -- ria~e la ter -- ra
+        l'a -- ria~e la ter -- ra
     \ijLyrics
-        l’a -- ria~e la ter -- ra
+        l'a -- ria~e la ter -- ra
     \normalLyrics
     Il gio -- ve -- net -- to~A -- pril,
     \ijLyrics
@@ -142,7 +142,7 @@ altoLyricsXIX = \lyricmode {
     \normalLyrics
         car -- co di fio -- ri,
     Il gio -- ve -- net -- to~A -- pril,
-    Il Mar __ s’ac -- que -- ta, il giel,
+    Il Mar __ s'ac -- que -- ta, il giel,
         il giel fug -- ge sot -- te -- ra,
         fug -- ge sot -- te -- ra,
     Scher -- zan le va -- ghe Nin -- fe,
@@ -151,13 +151,13 @@ altoLyricsXIX = \lyricmode {
     \normalLyrics
         lor Pa -- sto -- ri.
     Tor -- nan gli~au -- gel -- li __
-        a l’a -- mo -- ro -- sa guer -- ra
+        a l'a -- mo -- ro -- sa guer -- ra
     Lie -- ti~a can -- tar __ nei ma -- tu -- ti -- ni~al -- bo -- ri.
     Ed io pian -- go la not -- te e son do -- len -- te,
         e son __ do -- len -- te,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
         si sco -- pre~in o -- ri -- en -- te.
 }
 
@@ -198,16 +198,16 @@ tenoreXIX = \relative c {
 }
 
 tenoreLyricsXIX = \lyricmode {
-        A ral -- le -- grar __ l’a -- ria~e la ter -- ra
-        a ral -- le -- grar __ l’a -- ria~e la ter -- ra
+        A ral -- le -- grar __ l'a -- ria~e la ter -- ra
+        a ral -- le -- grar __ l'a -- ria~e la ter -- ra
     \ijLyrics
-        l’a -- ria~e la ter -- ra
+        l'a -- ria~e la ter -- ra
     \normalLyrics
     Il gio -- ve -- net -- to~A -- pril,
     Il gio -- ve -- net -- to~A -- pril,
         car -- co di fio -- ri,
     Il gio -- ve -- net -- to~A -- pril,
-    Il Mar __ s’ac -- que -- ta, il giel fug -- ge sot -- te -- ra,
+    Il Mar __ s'ac -- que -- ta, il giel fug -- ge sot -- te -- ra,
     \ijLyrics
         fug -- ge sot -- te -- ra,
     \normalLyrics
@@ -220,8 +220,8 @@ tenoreLyricsXIX = \lyricmode {
     Ed __ io pian -- go la not -- te~e son do -- len -- te,
         e son __ do -- len -- te,
         in o -- ri -- en -- te,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
         si sco -- pre~in o -- ri -- en -- te.
 }
 
@@ -261,16 +261,16 @@ bassoLyricsXIX = \lyricmode {
     Il gio -- ve -- net -- to~A -- pril,
     Il gio -- ve -- net -- to~A -- pril, car -- co di fio -- ri,
     Il gio -- ve -- net -- to~A -- pril, car -- co di fio -- ri,
-    Il Mar __ s’ac -- que -- ta, il giel,
+    Il Mar __ s'ac -- que -- ta, il giel,
         il giel fug -- ge sot -- te -- ra,
     Tor -- nan gli~au -- gel -- li __
-    Tor -- nan gli~au -- gel -- li~a l’a -- mo -- ro -- sa guer -- ra
+    Tor -- nan gli~au -- gel -- li~a l'a -- mo -- ro -- sa guer -- ra
     Ed __ io pian -- go la not -- te~e son do -- len -- te,
         e son do -- len -- te, __
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
-    To -- sto che’l sol,
-    To -- sto che’l sol,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol,
+    To -- sto che'l sol,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
         si sco -- pre~in o -- ri -- en -- te.
 }
 
@@ -319,10 +319,10 @@ quintoLyricsXIX = \lyricmode {
     \ijLyrics
     Già tor -- na~a
     \normalLyrics
-        ral -- le -- grar __ l’a -- ria~e la ter -- ra,
-        l’a -- ria~e la ter -- ra,
+        ral -- le -- grar __ l'a -- ria~e la ter -- ra,
+        l'a -- ria~e la ter -- ra,
     \ijLyrics
-        l’a -- ria~e la ter -- ra
+        l'a -- ria~e la ter -- ra
     \normalLyrics
     Il gio -- ve -- net -- to~A -- pril,
     \ijLyrics
@@ -334,7 +334,7 @@ quintoLyricsXIX = \lyricmode {
     Il gio -- ve -- net -- to~A -- pril,
     \normalLyrics
         car -- co di fio -- ri,
-    Il Mar __ s’ac -- que -- ta, il giel fug -- ge sot -- te -- ra,
+    Il Mar __ s'ac -- que -- ta, il giel fug -- ge sot -- te -- ra,
         fug -- ge sot -- te -- ra,
     \ijLyrics
         fug -- ge sot -- te -- ra,
@@ -348,12 +348,12 @@ quintoLyricsXIX = \lyricmode {
     \ijLyrics
     Tor -- nan gli~au -- gel -- li~a
     \normalLyrics
-        l’a -- mo -- ro -- sa guer -- ra
+        l'a -- mo -- ro -- sa guer -- ra
     Lie -- ti~a can -- tar __ nei ma -- tu -- ti -- ni~al -- bo -- ri.
     Ed io pian -- go __ la not -- te e son do -- len -- te,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
-    To -- sto che’l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
+    To -- sto che'l sol si sco -- pre~in o -- ri -- en -- te,
         si sco -- pre~in o -- ri -- en -- te.
 }
 

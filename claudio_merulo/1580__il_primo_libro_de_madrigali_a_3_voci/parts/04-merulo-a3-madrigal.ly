@@ -1,9 +1,9 @@
 %32 20  Deh, ferma, Amor, costui che così sciolto
-%       dinanzi al lento mio correr s’affretta;
-%       o tornami nel grado onde m’hai tolto
+%       dinanzi al lento mio correr s'affretta;
+%       o tornami nel grado onde m'hai tolto
 %       quando né a te né ad altri era suggetta!
 %       Deh, come è il mio sperar fallace e stolto,
-%       ch’in te con prieghi mai pietà si metta;
+%       ch'in te con prieghi mai pietà si metta;
 %       che ti diletti, anzi ti pasci e vivi
 %       di trar dagli occhi lacrimosi rivi!
 
@@ -43,12 +43,12 @@ cantoIV = \relative c'' {
 
 cantoLyricsIV = \lyricmode {
     Deh fer -- m'A -- mor, co -- stui che co -- sì sciol -- to
-    Di -- nan -- zi~al len -- to mio cor -- rer s’af -- fret -- ta;
-    O tor -- na -- mi nel gra -- d'on -- de m’hai tol -- to
+    Di -- nan -- zi~al len -- to mio cor -- rer s'af -- fret -- ta;
+    O tor -- na -- mi nel gra -- d'on -- de m'hai tol -- to
     Quan -- do né~a te né~ad al -- tri~e -- ra sug -- get -- ta!
     Deh,
     deh, co -- m'è~il mio spe -- rar fal -- la -- c'e stol -- to,
-    Ch’in te con prie -- ghi mai pie -- tà si met -- ta;
+    Ch'in te con prie -- ghi mai pie -- tà si met -- ta;
     Che ti di -- let -- ti,
     che ti di -- let -- ti, an -- zi ti pa -- sci~e vi -- vi,
         an -- zi ti pa -- sci~e vi -- vi
@@ -92,13 +92,13 @@ tenoreIV = \relative c'' {
 tenoreLyricsIV = \lyricmode {
     Deh fer -- m'A -- mor, co -- stui che __ co -- sì sciol -- to,
         che co -- sì sciol -- to
-    Di -- nan -- zi~al len -- to mio cor -- rer s’af -- fret -- ta;
-    O tor -- na -- mi nel gra -- d'on -- de m’hai tol -- to,
-        on -- de m’hai tol -- to
+    Di -- nan -- zi~al len -- to mio cor -- rer s'af -- fret -- ta;
+    O tor -- na -- mi nel gra -- d'on -- de m'hai tol -- to,
+        on -- de m'hai tol -- to
     Quan -- do né~a te né~ad al -- tri~e -- ra sug -- get -- ta!
     Deh,
     deh, co -- m'è~il mio spe -- rar fal -- la -- c'e stol -- to,
-    Ch’in te con prie -- ghi mai pie -- tà si met -- ta;
+    Ch'in te con prie -- ghi mai pie -- tà si met -- ta;
     Che ti di -- let -- ti, an -- zi ti pa -- sci~e vi -- vi,
         an -- zi ti pa -- sci~e vi -- vi
     Di trar __ da -- gli~oc -- chi la -- cri -- mo -- si ri -- vi,
@@ -142,13 +142,13 @@ bassoIV = \relative c' {
 
 bassoLyricsIV = \lyricmode {
     Deh fer -- m'A -- mor, co -- stui che co -- sì sciol -- to
-    Di -- nan -- zi~al len -- to mio cor -- rer s’af -- fret -- ta;
+    Di -- nan -- zi~al len -- to mio cor -- rer s'af -- fret -- ta;
     O tor -- na -- mi nel gra -- do,
-    o tor -- na -- mi nel gra -- d'on -- de m’hai tol -- to
+    o tor -- na -- mi nel gra -- d'on -- de m'hai tol -- to
     Quan -- do né~a te né~ad al -- tri~e -- ra sug -- get -- ta!
     Deh,
     deh, co -- m'è~il mio spe -- rar fal -- la -- c'e stol -- to,
-    Ch’in te con prie -- ghi mai pie -- tà si met -- ta;
+    Ch'in te con prie -- ghi mai pie -- tà si met -- ta;
     Che ti di -- let -- ti,
     che ti di -- let -- ti, an -- zi ti pa -- sci~e vi -- vi
     Di trar __ da -- gli~oc -- chi la -- cri -- mo -- si ri -- vi,

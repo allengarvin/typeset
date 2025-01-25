@@ -38,23 +38,23 @@ cantoXVII = \relative c'' {
 
 }
 
-% Se m’amate, io v’adoro
+% Se m'amate, io v'adoro
 % Se pur mi disprezzate, io vi disprezzo 
 % Se morite per me, io per voi moro. 
-% Se m’odiate voi, 
+% Se m'odiate voi, 
 % Io son avezzo 
-% A secondar d’Amor gli effetti,  
+% A secondar d'Amor gli effetti,  
 % Sempre farò quel che farete voi. 
 
 cantoLyricsXVII = \lyricmode {
-    Se m’a -- ma -- te, io v’a -- do -- ro
+    Se m'a -- ma -- te, io v'a -- do -- ro
      Se pur, se pur mi di -- sprez -- za -- te, io vi di -- sprez -- zo 
     Se mo -- ri -- te per me, io per voi mo -- ro. 
-    % Se m’odiate voi, 
+    % Se m'odiate voi, 
     Io son' a -- vez -- zo 
-    Se m’o -- dia -- te voi, 
+    Se m'o -- dia -- te voi, 
     Io son' a -- vez -- zo 
-    A se -- con -- dar d’A -- mor gli~ef -- fet -- ti, 
+    A se -- con -- dar d'A -- mor gli~ef -- fet -- ti, 
     Sem -- pre fa -- rò quel che fa -- re -- te vo -- i,
         quel che fa -- re -- te vo -- i,
     Sem -- pre fa -- rò quel che fa -- re -- te,

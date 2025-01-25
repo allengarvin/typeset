@@ -64,8 +64,8 @@ cantoLyricsII = \lyricmode {
     Quan -- do dir -- mi sen -- te -- i:
         stol -- to, che fa -- i?
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta,
-        non s’ac -- qui -- sta ma -- i,
+    Tem -- po per -- du -- to non s'ac -- qui -- sta,
+        non s'ac -- qui -- sta ma -- i,
             ma -- i.
     Al -- lor,
     E ba -- cian -- do -- le~il vi -- so,
@@ -135,15 +135,15 @@ altoLyricsII = \lyricmode {
     \normalLyrics
         stol -- to, che fa -- i?
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta,
-        non s’ac -- qui -- sta ma -- i.
+    Tem -- po per -- du -- to non s'ac -- qui -- sta,
+        non s'ac -- qui -- sta ma -- i.
     Al -- lor,
     E ba -- cian -- do -- le~il vi -- so,
     Pro -- vai quan -- ta dol -- cez -- za~ha~il pa -- ra -- di -- so,
 
 %    Quan -- do dir -- mi sen -- te -- i: stol -- to, che fa -- i?
-%    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
-%        non s’ac -- qui -- sta ma -- i.
+%    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
+%        non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi chi -- nai co -- sì pian pia -- no
     E ba -- cian -- do -- le~il vi -- so,
     Pro -- vai quan -- ta dol -- cez -- za~ha~il pa -- ra -- di -- so,
@@ -200,7 +200,7 @@ tenoreLyricsII = \lyricmode {
     Quan -- do dir -- mi sen -- te -- i:
         stol -- to, che fa -- i?
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
         ma -- i.
     Quan -- do dir -- mi sen -- te -- i: 
 
@@ -261,7 +261,7 @@ bassoLyricsII = \lyricmode {
     Quan -- do dir -- mi sen -- te -- i:
         stol -- to, che fa -- i?
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi chi -- nai,
         io mi chi -- nai,
         io mi chi -- nai co -- sì pian pia -- no
@@ -331,10 +331,10 @@ quintoLyricsII = \lyricmode {
 %    Quan -- do dir -- mi sen -- te -- i:
         stol -- to, che fa -- i?
             
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i,
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i,
     Quan -- do dir -- mi sen -- te -- i: stol -- to, che fa -- i?
-    Tem -- po per -- du -- to non s’ac -- qui -- sta,
-        non s’ac -- qui -- sta ma -- i.
+    Tem -- po per -- du -- to non s'ac -- qui -- sta,
+        non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi chi -- nai co -- sì pian pia -- no,
     Al -- lor io mi chi -- nai,
     \ijLyrics

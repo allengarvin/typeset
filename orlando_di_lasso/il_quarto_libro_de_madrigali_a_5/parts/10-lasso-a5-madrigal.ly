@@ -3,7 +3,7 @@
 % alla fine ingannato è ben ragione.
 % O ciechi, il tanto affaticar che giova?
 % Tutti tornate alla gran madre antica,
-% e’l nome vostro a pena si ritrova.
+% e'l nome vostro a pena si ritrova.
 
 cantoXincipit = \relative c' {
     \time 2/2
@@ -47,7 +47,7 @@ cantoLyricsX = \lyricmode {
             che gio -- va?
     Tut -- ti tor -- na -- te,
     tut -- ti tor -- na -- te~al -- la __ gran ma -- dre~an -- ti -- ca,
-    E’l no -- me vo -- stro~a __ pe -- na si ri -- tro -- va.
+    E'l no -- me vo -- stro~a __ pe -- na si ri -- tro -- va.
 }
 
 altoXincipit = \relative c' {
@@ -93,7 +93,7 @@ altoLyricsX = \lyricmode {
             che gio -- va?
     Tut -- ti tor -- na -- te,
     tut -- ti tor -- na -- te~al -- la gran ma -- dre~an -- ti -- ca,
-    E’l no -- me vo -- stro __ a pe -- na si ri -- tro -- va.
+    E'l no -- me vo -- stro __ a pe -- na si ri -- tro -- va.
 }
 
 tenoreXincipit = \relative c {
@@ -142,7 +142,7 @@ tenoreLyricsX = \lyricmode {
             che gio -- va?
     Tut -- ti tor -- na -- te,
     tut -- ti tor -- na -- te~al -- la gran ma -- dre~an -- ti -- ca, __
-    E’l no -- me vo -- stro~a pe -- na si ri -- tro -- va,
+    E'l no -- me vo -- stro~a pe -- na si ri -- tro -- va,
         ri -- tro -- va.
 }
 
@@ -184,7 +184,7 @@ bassoLyricsX = \lyricmode {
             che gio -- va?
     Tut -- ti tor -- na -- te,
     tut -- ti tor -- na -- te~al -- la gran ma -- dre~an -- ti -- ca, __
-    E’l no -- me vo -- stro a pe -- na si ri -- tro -- va.
+    E'l no -- me vo -- stro a pe -- na si ri -- tro -- va.
 }
 
 quintoXincipit = \relative c {
@@ -229,8 +229,8 @@ quintoLyricsX = \lyricmode {
     Tut -- ti tor -- na -- te,
     tut -- ti tor -- na -- te~al -- la gran __ ma -- dre~an -- ti -- ca,
         an -- ti -- ca,
-    E’l no -- me vo -- stro,
-    e’l no -- me vo -- stro~a pe -- na si __ ri -- tro -- va.
+    E'l no -- me vo -- stro,
+    e'l no -- me vo -- stro~a pe -- na si __ ri -- tro -- va.
 }
 
 cantoXincipitVoice = <<

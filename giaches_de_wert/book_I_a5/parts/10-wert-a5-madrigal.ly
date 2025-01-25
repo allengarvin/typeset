@@ -1,12 +1,12 @@
 % Bigi:
-%   127 Questi ch’indizio fan del mio tormento,
+%   127 Questi ch'indizio fan del mio tormento,
 %       sospir non sono, né i sospir son tali.
 %       Quelli han triegua talora; io mai non sento
-%       che ’l petto mio men la sua pena esali.
-%       Amor che m’arde il cor, fa questo vento,
-%       mentre dibatte intorno al fuoco l’ali.
+%       che 'l petto mio men la sua pena esali.
+%       Amor che m'arde il cor, fa questo vento,
+%       mentre dibatte intorno al fuoco l'ali.
 %       Amor, con che miracolo lo fai,
-%       che ’n fuoco il tenghi, e nol consumi mai?
+%       che 'n fuoco il tenghi, e nol consumi mai?
 
 % Questi ch'indicio fan
 % Canto 23

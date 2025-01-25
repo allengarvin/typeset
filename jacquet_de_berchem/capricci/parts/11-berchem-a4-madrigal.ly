@@ -1,10 +1,10 @@
 %   39 Stupida e fissa nella incerta sabbia,
 %      coi capelli disciolti e rabuffati,
-%      con le man giunte e con l’immote labbia,
+%      con le man giunte e con l'immote labbia,
 %      i languidi occhi al ciel tenea levati,
-%      come accusando il gran Motor che l’abbia
+%      come accusando il gran Motor che l'abbia
 %      tutti inclinati nel suo danno i fati.
-%      Immota e come attonita ste’ alquanto;
+%      Immota e come attonita ste' alquanto;
 %      poi sciolse al duol la lingua, e gli occhi al pianto.
 
 cantoXIincipit = \relative c'' {
@@ -40,10 +40,10 @@ cantoLyricsXI = \lyricmode {
     Stu -- pi -- da~e fis -- sa nel -- la~in -- cer -- ta sab -- bia,
     Coi ca -- pel -- li di -- sciol -- ti~e ra -- buf -- fa -- ti,
     Con le man giun -- te,
-    Con le man giun -- te~e con l’im -- mo -- te lab -- bia,
+    Con le man giun -- te~e con l'im -- mo -- te lab -- bia,
     I lan -- gui -- di~oc -- chi~al ciel te -- nea le -- va -- ti,
         al ciel te -- nea le -- va -- ti, __
-    Co -- me~ac -- cu -- san -- do~il gran Mo -- tor che __ l’ab -- bia
+    Co -- me~ac -- cu -- san -- do~il gran Mo -- tor che __ l'ab -- bia
     Tut -- ti~in -- cli -- na -- ti nel suo dan -- no~i fa -- ti~im -- mo -- ta
         nel suo dan -- no~i __ fa -- ti~im -- mo -- ta
     E co -- me~at -- to -- ni -- ta ste~al -- quan -- to;
@@ -85,10 +85,10 @@ altoLyricsXI = \lyricmode {
     Stu -- pi -- da~e fis -- sa nel -- la~in -- cer -- ta sab -- bia,
     Coi ca -- pel -- li di -- sciol -- ti~e ra -- buf -- fa -- ti,
     Con le man giun -- te,
-    Con le man giun -- te~e con l’im -- mo -- te lab -- bia,
+    Con le man giun -- te~e con l'im -- mo -- te lab -- bia,
     I lan -- gui -- di~oc -- chi,
     I lan -- gui -- di~oc -- chi~al ciel te -- nea le -- va -- ti,
-    Co -- me~ac -- cu -- san -- do~il gran Mo -- tor che l’ab -- bia
+    Co -- me~ac -- cu -- san -- do~il gran Mo -- tor che l'ab -- bia
     Tut -- ti~in -- cli -- na -- ti nel suo dan -- no~i fa -- ti~im -- mo -- ta
         nel suo dan -- no~i fa -- ti~im -- mo -- ta __
     E co -- me~at -- to -- ni -- ta,
@@ -130,11 +130,11 @@ tenoreLyricsXI = \lyricmode {
     Stu -- pi -- da~e fis -- sa nel -- la~in -- cer -- ta __ sab -- bia,
     oi ca -- pel -- li di -- sciol -- ti~e ra -- buf -- fa -- ti,
     Con le man giun -- te,
-    Con le man giun -- te~e con l’im -- mo -- te lab -- bia,
+    Con le man giun -- te~e con l'im -- mo -- te lab -- bia,
     I lan -- gui -- di~oc -- chi~al ciel,
     I lan -- gui -- di~oc -- chi~al ciel te -- nea le -- va -- ti,
-    Co -- me~ac -- cu -- san -- do~il gran Mo -- tor che l’ab -- bia, __
-        che l’ab -- bia
+    Co -- me~ac -- cu -- san -- do~il gran Mo -- tor che l'ab -- bia, __
+        che l'ab -- bia
     Tut -- ti~in -- cli -- na -- ti nel suo dan -- no~i fa -- ti~im -- mo -- ta
         nel suo dan -- no~i fa -- ti~im -- mo -- ta
     E __ co -- me~at -- to -- ni -- ta ste~al -- quan -- to;
@@ -180,9 +180,9 @@ bassoLyricsXI = \lyricmode {
     Stu -- pi -- da~e fis -- sa nel -- la~in -- cer -- ta sab -- bia,
     Coi ca -- pel -- li di -- sciol -- ti~e ra -- buf -- fa -- ti,
     Con le man giun -- te,
-    Con le man giun -- te~e con l’im -- mo -- te lab -- bia,
+    Con le man giun -- te~e con l'im -- mo -- te lab -- bia,
     I lan -- gui -- di~oc -- chi~al ciel te -- nea __ le -- va -- ti,
-    Co -- me~ac -- cu -- san -- do~il gran Mo -- tor che l’ab -- bia
+    Co -- me~ac -- cu -- san -- do~il gran Mo -- tor che l'ab -- bia
     Tut -- ti~in -- cli -- na -- ti nel suo dan -- no~i fa -- ti~im -- mo -- ta
         nel suo dan -- no~i fa -- ti~im -- mo -- ta
     E co -- me~at -- to -- ni -- ta,

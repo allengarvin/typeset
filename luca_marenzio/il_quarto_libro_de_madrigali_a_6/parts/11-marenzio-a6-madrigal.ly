@@ -1,7 +1,7 @@
 %Talché, dovunque vò, tutte repente
-%Partorissero Amor l’onde ch’io frango,
+%Partorissero Amor l'onde ch'io frango,
 %E fosser le lor cune i pensier miei,
-%Non arderia più ch’arde questa mente,
+%Non arderia più ch'arde questa mente,
 %Con tutto ciò talor mi doglio e piango,
 %Che non vi posso amar quanto verrei.
 
@@ -44,9 +44,9 @@ cantoXI = \relative c'' {
 
 cantoLyricsXI = \lyricmode {
     Tal -- ché, do -- vun -- que vò, tut -- te re -- pen -- te
-    Par -- to -- ris -- se -- ro~A -- mor __ l’on -- de ch’io fran -- go,
+    Par -- to -- ris -- se -- ro~A -- mor __ l'on -- de ch'io fran -- go,
     E fos -- ser le lor cu -- ne~i pen -- sier mie -- i,
-    Non ar -- de -- ria più ch’ar -- de que -- sta men -- te, __
+    Non ar -- de -- ria più ch'ar -- de que -- sta men -- te, __
     Con __ tut -- to ciò % ta -- lor mi do -- glio~e pian -- go,
     Che non vi pos -- so~a -- mar quan -- to vor -- re -- i,
         quan -- to vor -- re -- i,
@@ -100,11 +100,11 @@ altoXI = \relative c' {
 
 altoLyricsXI = \lyricmode {
     Tal -- ché, __ do -- vun -- que vò, tut -- te re -- pen -- te
-    Par -- to -- ris -- se -- ro~A -- mor l’on -- de
-        l’on -- de ch’io fran -- go,
+    Par -- to -- ris -- se -- ro~A -- mor l'on -- de
+        l'on -- de ch'io fran -- go,
     E fos -- ser le lor cu -- ne~i pen -- sier mie -- i,
-    Non ar -- de -- ria più ch’ar -- de que -- sta men -- te, 
-    Non ar -- de -- ria più ch’ar -- de que -- sta men -- te, 
+    Non ar -- de -- ria più ch'ar -- de que -- sta men -- te, 
+    Non ar -- de -- ria più ch'ar -- de que -- sta men -- te, 
     Con tut -- to ciò ta -- lor mi do -- glio~e pian -- go,
     Che non vi pos -- so~a -- mar,
     Che non vi pos -- so~a -- mar, quan -- to vor -- re -- i,
@@ -155,10 +155,10 @@ tenoreXI = \relative c' {
 
 tenoreLyricsXI = \lyricmode {
         Tut -- te re -- pen -- te
-    Par -- to -- ris -- se -- ro~A -- mor l’on -- de ch’io fran -- go,
-        ch’io fran -- go,
+    Par -- to -- ris -- se -- ro~A -- mor l'on -- de ch'io fran -- go,
+        ch'io fran -- go,
     E fos -- ser le lor cu -- ne~i pen -- sier mie -- i,
-    Non ar -- de -- ria più ch’ar -- de que -- sta men -- te, 
+    Non ar -- de -- ria più ch'ar -- de que -- sta men -- te, 
         ta -- lor mi do -- glio~e pian -- go, __
     Che non vi pos -- so~a -- mar quan -- to vor -- re -- i,
     Che non vi pos -- so~a -- mar quan -- to vor -- re -- i,
@@ -206,10 +206,10 @@ bassoXI = \relative c' {
 
 bassoLyricsXI = \lyricmode {
         Tut -- te re -- pen -- te
-    Par -- to -- ris -- se -- ro~A -- mor l’on -- de ch’io fran -- go,
-        ch’io fran -- go,
-    Non ar -- de -- ria più ch’ar -- de que -- sta men -- te, 
-    Non ar -- de -- ria più ch’ar -- de que -- sta men -- te, 
+    Par -- to -- ris -- se -- ro~A -- mor l'on -- de ch'io fran -- go,
+        ch'io fran -- go,
+    Non ar -- de -- ria più ch'ar -- de que -- sta men -- te, 
+    Non ar -- de -- ria più ch'ar -- de que -- sta men -- te, 
     Con tut -- to ciò ta -- lor mi do -- glio~e pian -- go,
     Che non vi pos -- so~a -- mar 
     Che non vi pos -- so~a -- mar quan -- to vor -- re -- i,
@@ -259,10 +259,10 @@ quintoXI = \relative c'' {
 
 quintoLyricsXI = \lyricmode {
         Tut -- te re -- pen -- te
-    Par -- to -- ris -- se -- ro~A -- mor l’on -- de ch’io fran -- go,
+    Par -- to -- ris -- se -- ro~A -- mor l'on -- de ch'io fran -- go,
     E fos -- ser le lor cu -- ne~i pen -- sier mie -- i,
-    Non ar -- de -- ria più ch’ar -- de que -- sta men -- te, 
-    Non ar -- de -- ria più ch’ar -- de que -- sta men -- te, 
+    Non ar -- de -- ria più ch'ar -- de que -- sta men -- te, 
+    Non ar -- de -- ria più ch'ar -- de que -- sta men -- te, 
     Con tut -- to ciò  mi do -- glio~e pian -- go,
     Che non vi pos -- so~a -- mar quan -- to vor -- re -- i, __
         quan -- to vor -- re -- i,
@@ -309,10 +309,10 @@ sestoXI = \relative c' {
 
 sestoLyricsXI = \lyricmode {
         Tut -- te re -- pen -- te
-    Par -- to -- ris -- se -- ro~A -- mor l’on -- de ch’io fran -- go,
-        ch’io fran -- go,
-    Non ar -- de -- ria più ch’ar -- de que -- sta men -- te, 
-    Non ar -- de -- ria __ più ch’ar -- de que -- sta men -- te, 
+    Par -- to -- ris -- se -- ro~A -- mor l'on -- de ch'io fran -- go,
+        ch'io fran -- go,
+    Non ar -- de -- ria più ch'ar -- de que -- sta men -- te, 
+    Non ar -- de -- ria __ più ch'ar -- de que -- sta men -- te, 
     Con __ tut -- to ciò ta -- lor mi do -- glio~e pian -- go,
     Che non vi pos -- so~a -- mar quan -- to vor -- re -- i, __
         quan -- to vor -- re -- i,

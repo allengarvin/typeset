@@ -1,9 +1,9 @@
 % Ahi cruda sorte mia, stelle spietate:
 % Seguo chi fugge, chiamo
-% chi non risponde, chi m’ha in odio bramo.
-% Così piangendo moro, e chi m’ancide,
+% chi non risponde, chi m'ha in odio bramo.
+% Così piangendo moro, e chi m'ancide,
 % del pianto mio, della mia morte, ride.
-% Dite o voi ch’ascoltate:
+% Dite o voi ch'ascoltate:
 % ha tormento maggiore
 % fra i suoi tormenti, il mio tiranno Amore?
 % Ridolfo Arlotti
@@ -66,11 +66,11 @@ cantoVII = \relative c'' {
 cantoLyricsVII = \lyricmode {
     Ahi __ cru -- da sor -- te mia, stel -- le spie -- ta -- te:
     Se -- guo chi fug -- ge, chia -- mo
-    Chi non ri -- spon -- de, chi m’ha~in o -- dio,
-        chi m’ha~in o -- dio bra -- mo.
-    Co -- sì pian -- gen -- do mo -- ro, e chi m’an -- ci -- de;
+    Chi non ri -- spon -- de, chi m'ha~in o -- dio,
+        chi m'ha~in o -- dio bra -- mo.
+    Co -- sì pian -- gen -- do mo -- ro, e chi m'an -- ci -- de;
     Del pian -- to mio, del -- la mia mor -- te, ri -- de.
-    Di -- te~o voi ch’a -- scol -- ta -- te:
+    Di -- te~o voi ch'a -- scol -- ta -- te:
     Ha tor -- men -- to mag -- gio -- re
     Fra~i suoi __ tor -- men -- ti, il mio ti -- ran -- no~A -- mo -- re?
     fra~i suoi tor -- men -- ti, il mio ti -- ran -- no~A -- mo -- re?
@@ -119,14 +119,14 @@ altoVII = \relative c'' {
 altoLyricsVII = \lyricmode {
     Ahi cru -- da sor -- te mia, stel -- le spie -- ta -- te:
     Se -- guo chi fug -- ge, chia -- mo
-    Chi non ri -- spon -- de, chi m’ha~in o -- dio bra -- mo,
-        chi m’ha~in o -- dio,
-        chi m’ha~in o -- dio bra -- mo.
+    Chi non ri -- spon -- de, chi m'ha~in o -- dio bra -- mo,
+        chi m'ha~in o -- dio,
+        chi m'ha~in o -- dio bra -- mo.
     Co -- sì pian -- gen -- do mo -- ro,
-        pian -- gen -- do mo -- ro, e chi m’an -- ci -- de;
+        pian -- gen -- do mo -- ro, e chi m'an -- ci -- de;
     Del pian -- to mio,
     del pian -- to mio, del -- la mia mor -- te, ri -- de.
-    Di -- te~o voi __ ch’a -- scol -- ta -- te:
+    Di -- te~o voi __ ch'a -- scol -- ta -- te:
     Ha tor -- men -- to mag -- gio -- re
     Fra~i suoi __ tor -- men -- ti, il mio ti -- ran -- no~A -- mo -- re?
         il mio ti -- ran -- no~A -- mo -- re?
@@ -181,16 +181,16 @@ tenoreVII = \relative c' {
 tenoreLyricsVII = \lyricmode {
     Ahi __ cru -- da sor -- te mia, stel -- le spie -- ta -- te:
     Se -- guo chi fug -- ge, chia -- mo
-    Chi non ri -- spon -- de, chi m’ha~in o -- dio bra -- mo,
-        chi m’ha~in o -- dio bra -- mo.
+    Chi non ri -- spon -- de, chi m'ha~in o -- dio bra -- mo,
+        chi m'ha~in o -- dio bra -- mo.
     Co -- sì pian -- gen -- do mo -- ro,
-        pian -- gen -- do mo -- ro, e chi m’an -- ci -- de;
+        pian -- gen -- do mo -- ro, e chi m'an -- ci -- de;
     Del pian -- to mio,
     \ijLyrics
     del pian -- to mio,
     \normalLyrics
         del -- la mia mor -- te, ri -- de.
-    Di -- te~o voi ch’a -- scol -- ta -- te:
+    Di -- te~o voi ch'a -- scol -- ta -- te:
     Ha tor -- men -- to mag -- gio -- re
     Fra~i suoi tor -- men -- ti, il mio ti -- ran -- no,
         ti -- ran -- no~A -- mo -- re?
@@ -237,15 +237,15 @@ bassoLyricsVII = \lyricmode {
     Se -- guo chi fug -- ge, chia -- mo
 %    Chi non ri -- spon -- de, 
 %        chia -- mo
-    chi non ri -- spon -- de, chi m’ha~in o -- dio bra -- mo,
+    chi non ri -- spon -- de, chi m'ha~in o -- dio bra -- mo,
     \ijLyrics
-        chi m’ha~in o -- dio bra -- mo.
+        chi m'ha~in o -- dio bra -- mo.
     \normalLyrics
 %    Co -- sì 
-        pian -- gen -- do mo -- ro, e chi m’an -- ci -- de;
+        pian -- gen -- do mo -- ro, e chi m'an -- ci -- de;
     Del pian -- to mio,
     del pian -- to mio, del -- la mia mor -- te, ri -- de.
-    Di -- te~o voi ch’a -- scol -- ta -- te:
+    Di -- te~o voi ch'a -- scol -- ta -- te:
     Fra~i suoi tor -- men -- ti, il mio ti -- ran -- no~A -- mo -- re?
     Ha tor -- men -- to mag -- gio -- re
     fra~i suoi tor -- men -- ti, il mio ti -- ran -- no~A -- mo -- re?
@@ -299,13 +299,13 @@ quintoLyricsVII = \lyricmode {
         chia -- mo
     Chi non ri -- spon -- de, 
         chia -- mo
-    chi non ri -- spon -- de, chi m’ha~in o -- dio bra -- mo,
-        chi m’ha~in o -- dio bra -- mo.
+    chi non ri -- spon -- de, chi m'ha~in o -- dio bra -- mo,
+        chi m'ha~in o -- dio bra -- mo.
     Co -- sì pian -- gen -- do mo -- ro,
-        pian -- gen -- do mo -- ro, e chi m’an -- ci -- de,
-            e chi m’an -- ci -- de;
+        pian -- gen -- do mo -- ro, e chi m'an -- ci -- de,
+            e chi m'an -- ci -- de;
     Del pian -- to mio, del -- la __ mia mor -- te, ri -- de.
-    Di -- te~o voi ch’a -- scol -- ta -- te:
+    Di -- te~o voi ch'a -- scol -- ta -- te:
     Ha tor -- men -- to mag -- gio -- re
     Fra~i suoi tor -- men -- ti, 
     ha tor -- men -- to mag -- gio -- re

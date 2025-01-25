@@ -1,8 +1,8 @@
 % Moro ardendo, e m'è grato
-% l’ardor, grata la morte:
-% sì nobil foco Amor m’ha dato in sorte.
+% l'ardor, grata la morte:
+% sì nobil foco Amor m'ha dato in sorte.
 % Così cigno beato,
-% vicino a l’ultime ore
+% vicino a l'ultime ore
 % cantava: “O dolce morte, o dolce ardore”.
 % 
 % I die burning and I am glad
@@ -46,12 +46,12 @@ cantoXVI = \relative c'' {
 
 cantoLyricsXVI = \lyricmode {
     Mo -- ro~ar -- den -- do~e m'è gra -- to
-    L’ar -- dor, gra -- ta la mor -- te,
+    L'ar -- dor, gra -- ta la mor -- te,
         gra -- ta la mor -- te:
-    Sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te,
-    sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te.
+    Sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te,
+    sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te.
     Co -- sì ci -- gno be -- a -- to,
-    Vi -- ci -- no~a l’ul -- ti -- m’o -- re
+    Vi -- ci -- no~a l'ul -- ti -- m'o -- re
     Can -- ta -- va: O __ dol -- ce mor -- te, 
        O dol -- ce~ar -- do -- re,
     \ijLyrics
@@ -93,13 +93,13 @@ altoXVI = \relative c'' {
 
 altoLyricsXVI = \lyricmode {
     Mo -- ro~ar -- den -- do~e m'è gra -- to
-    L’ar -- dor, gra -- ta la mor -- te,
+    L'ar -- dor, gra -- ta la mor -- te,
         gra -- ta la mor -- te:
-    Sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te,
-    sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te.
+    Sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te,
+    sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te.
     Co -- sì ci -- gno be -- a -- to,
-    Vi -- ci -- no~a l’ul -- ti -- m’o -- re,
-    vi -- ci -- no~a l’ul -- ti -- m’o -- re
+    Vi -- ci -- no~a l'ul -- ti -- m'o -- re,
+    vi -- ci -- no~a l'ul -- ti -- m'o -- re
     Can -- ta -- va: O dol -- ce mor -- te, O, 
         O __ dol -- ce mor -- te,
         O dol -- ce~ar -- do -- re,
@@ -142,13 +142,13 @@ tenoreXVI = \relative c' {
 
 tenoreLyricsXVI = \lyricmode {
     Mo -- ro~ar -- den -- do~e m'è gra -- to
-    L’ar -- dor, gra -- ta la mor -- te,
+    L'ar -- dor, gra -- ta la mor -- te,
         gra -- ta la mor -- te:
-    Sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te,
-    sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te.
+    Sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te,
+    sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te.
     Co -- sì ci -- gno be -- a -- to,
-    Vi -- ci -- no~a l’ul -- ti -- m’o -- re,
-    vi -- ci -- no~a l’ul -- ti -- m’o -- re
+    Vi -- ci -- no~a l'ul -- ti -- m'o -- re,
+    vi -- ci -- no~a l'ul -- ti -- m'o -- re
     Can -- ta -- va: O, O dol -- ce mor -- te, 
         O dol -- ce~ar -- do -- re,
     \ijLyrics
@@ -190,12 +190,12 @@ bassoXVI = \relative c' {
 
 bassoLyricsXVI = \lyricmode {
     Mo -- ro~ar -- den -- do~e m'è gra -- to
-    L’ar -- dor, gra -- ta la mor -- te:
-    Sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te,
-    sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te.
+    L'ar -- dor, gra -- ta la mor -- te:
+    Sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te,
+    sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te.
     Co -- sì ci -- gno be -- a -- to,
-    Vi -- ci -- no~a l’ul -- ti -- m’o -- re,
-    vi -- ci -- no~a l’ul -- ti -- m’o -- re
+    Vi -- ci -- no~a l'ul -- ti -- m'o -- re,
+    vi -- ci -- no~a l'ul -- ti -- m'o -- re
     Can -- ta -- va: O __ dol -- ce mor -- te, 
         O dol -- ce~ar -- do -- re,
     \ijLyrics
@@ -241,13 +241,13 @@ quintoXVI = \relative c' {
 
 quintoLyricsXVI = \lyricmode {
     Mo -- ro~ar -- den -- do~e m'è gra -- to
-    L’ar -- dor, gra -- ta la mor -- te:
+    L'ar -- dor, gra -- ta la mor -- te:
 %        gra -- ta la mor -- te:
-    Sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te,
-    sì no -- bil fo -- co~A -- mor m’ha da -- to~in sor -- te.
+    Sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te,
+    sì no -- bil fo -- co~A -- mor m'ha da -- to~in sor -- te.
     Co -- sì ci -- gno be -- a -- to,
-    Vi -- ci -- no~a l’ul -- ti -- m’o -- re,
-    vi -- ci -- no~a l’ul -- ti -- m’o -- re
+    Vi -- ci -- no~a l'ul -- ti -- m'o -- re,
+    vi -- ci -- no~a l'ul -- ti -- m'o -- re
     Can -- ta -- va,
     can -- ta -- va: O dol -- ce mor -- te, 
     \ijLyrics

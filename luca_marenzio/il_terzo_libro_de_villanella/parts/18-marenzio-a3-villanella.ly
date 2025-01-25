@@ -1,6 +1,6 @@
 % Ad una fresca riva
 % Guidommi Amor dove era la mia Diva,
-% Che con gli occhi, co'l crin e’l viso adorno
+% Che con gli occhi, co'l crin e'l viso adorno
 % Fea nascer fior e vaghe erbette intorno.
 % 
 % Se a me gli occhi volgea
@@ -60,7 +60,7 @@ cantoLyricsXVIII = \lyricmode {
     Ad
     _ __ mia Di -- va;
 
-    Che __ con gli~oc -- chi, co'l crin e’l vi -- s'a -- dor -- no
+    Che __ con gli~oc -- chi, co'l crin e'l vi -- s'a -- dor -- no
     Fea na -- scer fior e va -- gh'er -- bet -- te~in -- tor -- no,
         Che 
     _ - _ no.
@@ -144,7 +144,7 @@ tenoreLyricsXVIII = \lyricmode {
      Ad
      Di -- va;
  
-     Che __ con gli~oc -- chi, co'l crin e’l vi -- s'a -- dor -- no
+     Che __ con gli~oc -- chi, co'l crin e'l vi -- s'a -- dor -- no
      Fea na -- scer fior e va -- gh'er -- bet -- te~in -- tor -- no,
          Che 
      _ - _ no.
@@ -228,7 +228,7 @@ bassoLyricsXVIII = \lyricmode {
      Ad
      Di -- va;
  
-     Che __ con gli~oc -- chi, co'l crin e’l vi -- s'a -- dor -- no
+     Che __ con gli~oc -- chi, co'l crin e'l vi -- s'a -- dor -- no
      Fea na -- scer fior e va -- gh'er -- bet -- te~in -- tor -- no,
          Che 
      - no.

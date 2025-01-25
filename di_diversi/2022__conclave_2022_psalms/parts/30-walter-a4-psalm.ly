@@ -3,14 +3,14 @@
 % Er hilft uns frei aus aller Not,
 % Die uns jetzt hat betroffen.
 % Der alt böse Feind,
-% Mit Ernst er’s jetzt meint.
+% Mit Ernst er's jetzt meint.
 % Groß Macht und viel List
 % Sein grausam Rüstung ist.
 % Auf Erd ist nicht seins gleichen.
 % 
 %  Mit unsrer Macht ist nichts getan,
 % Wir sind gar bald verloren.
-% Es streit’t für uns der rechte Mann,
+% Es streit't für uns der rechte Mann,
 % Den Gott hat selbst erkoren.
 % Fragst du, wer der ist?
 % Er heißt Jesus Christ,
@@ -63,7 +63,7 @@ discantusLyricsXXXa = \lyricmode {
     Die uns jetzt hat __ be -- trof - _ _ fen.
 
     Der alt bö -- se Feind,
-    Mit Ernst er’s __ jetzt __ meint.
+    Mit Ernst er's __ jetzt __ meint.
     Groß Macht __ und __ viel __ List
     Sein grau -- sam Rüs -- tung ist.
     Auf Erd ist nicht seins __ glei -- chen.
@@ -76,7 +76,7 @@ discantusLyricsXXXb = \lyricmode {
 }
 
 discantusLyricsXXXc = \lyricmode {
-    _ streit’t für __ uns der rech -- te __ Mann,
+    _ streit't für __ uns der rech -- te __ Mann,
     Den Gott hat selbst __ er -- ko - _ _ ren.
     Fragst du, wer __ der ist?
     Er heißt Je -- sus __ Christ,
@@ -125,7 +125,7 @@ altusLyricsXXXa = \lyricmode {
     Die uns jetzt __ _ hat be -- trof- _ _ fen.
 
     Der alt bö -- se Feind,
-    Mit Ernst __ er’s jetzt meint. __
+    Mit Ernst __ er's jetzt meint. __
     Groß Macht __ und viel __ List
     Sein grau -- sam Rüs -- tung ist.
     Auf Erd __ ist __ nicht seins glei -- chen.
@@ -138,7 +138,7 @@ altusLyricsXXXb = \lyricmode {
 }
 
 altusLyricsXXXc = \lyricmode {
-    _ streit’t für uns __ der rech -- te Mann, __
+    _ streit't für uns __ der rech -- te Mann, __
     Den Gott hat selbst er -- ko - _ _ ren.
     Fragst du, wer __ der ist?
     Er heißt Je -- sus Christ, __
@@ -183,7 +183,7 @@ tenorLyricsXXXa = \lyricmode {
     Die uns jetzt hat be -- trof -- _ _ fen.
 
     Der alt __ bö -- se Feind,
-    Mit Ernst er’s jetzt meint. __
+    Mit Ernst er's jetzt meint. __
     Groß Macht und viel List
     Sein grau -- sam Rüs -- tung ist.
     Auf Erd ist nicht seins glei -- chen.
@@ -196,7 +196,7 @@ tenorLyricsXXXb = \lyricmode {
 }
 
 tenorLyricsXXXc = \lyricmode {
-    _ streit’t für uns der rech -- te Mann,
+    _ streit't für uns der rech -- te Mann,
     Den Gott hat selbst er -- ko -- _ _ ren.
     Fragst du, __ wer der ist?
     Er heißt Je -- sus Christ, __
@@ -250,7 +250,7 @@ bassusLyricsXXXa = \lyricmode {
     Die uns jetzt hat __ be -- trof -- _ _ fen.
 
     Der alt __ bö -- se Feind,
-    Mit __ Ernst er’s jetzt meint. __
+    Mit __ Ernst er's jetzt meint. __
     Groß Macht und viel List
     Sein grau -- sam Rüs -- tung ist. __
     Auf Erd ist nicht __ seins __ glei -- chen.
@@ -263,7 +263,7 @@ bassusLyricsXXXb = \lyricmode {
 }
 
 bassusLyricsXXXc = \lyricmode {
-    _ streit’t für uns der rech -- te Mann,
+    _ streit't für uns der rech -- te Mann,
     Den Gott hat selbst __ er -- ko -- _ _ ren.
     Fragst du, __ wer __ der ist?
     Er __ heißt Je -- sus Christ, __

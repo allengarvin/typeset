@@ -7,17 +7,17 @@
 % e con raggion frena il desio.
 % 
 % Dunque raggion' ha loco
-% in cor ch’avvampi d’amoroso foco?
-% Sì, ch’amante che spera tace e crede
+% in cor ch'avvampi d'amoroso foco?
+% Sì, ch'amante che spera tace e crede
 % è degno di pietade e di mercede.
 % 
-% Chi darà in questo mentre vita ha’l core?
+% Chi darà in questo mentre vita ha'l core?
 % 
 % Questi occhi, questa bocca, e insieme Amore.
 % 
 % O fortunati amanti,
 % siate~in amar costanti:
-% ch’un gioir senza fine è’l fin dei pianti.
+% ch'un gioir senza fine è'l fin dei pianti.
 
 
 cantoXIIIincipit = \relative c'' {
@@ -304,9 +304,9 @@ bassoLyricsXIII = \lyricmode {
     \ijLyrics
     dun -- que rag -- gio -- n'ha lo -- co
     \normalLyrics
-    In cor ch’av -- vam -- pi d’a -- mo -- ro -- so fo -- co?
+    In cor ch'av -- vam -- pi d'a -- mo -- ro -- so fo -- co?
 
-    Chi da -- rà~in que -- sto men -- tre vi -- ta~ha’l co -- re?
+    Chi da -- rà~in que -- sto men -- tre vi -- ta~ha'l co -- re?
 
     O for -- tu -- na -- ti~a -- man -- ti,
     \ijLyrics
@@ -378,12 +378,12 @@ quintoLyricsXIII = \lyricmode {
 
 
     Dun -- que rag -- gio -- n'ha lo -- co
-    In cor ch’av -- vam -- pi d’a -- mo -- ro -- so fo -- co?
+    In cor ch'av -- vam -- pi d'a -- mo -- ro -- so fo -- co?
     dun -- que rag -- gio -- n'ha lo -- co
-    in cor ch’av -- vam -- pi d’a -- mo -- ro -- so fo -- co?
+    in cor ch'av -- vam -- pi d'a -- mo -- ro -- so fo -- co?
 
     È de -- gno di pie -- ta -- de~e di __ mer -- ce -- de.
-    Chi da -- rà~in que -- sto men -- tre vi -- ta~ha’l co -- re?
+    Chi da -- rà~in que -- sto men -- tre vi -- ta~ha'l co -- re?
             que -- sta boc -- ca, e~in -- sie -- m'A -- mo -- re.
 
     O for -- tu -- na -- ti~a -- man -- ti,
@@ -456,12 +456,12 @@ sestoLyricsXIII = \lyricmode {
 
 
     Dun -- que rag -- gio -- n'ha lo -- co
-    In cor ch’av -- vam -- pi d’a -- mo -- ro -- so fo -- co?
-    in cor ch’av -- vam -- pi d’a -- mo -- ro -- so fo -- co?
+    In cor ch'av -- vam -- pi d'a -- mo -- ro -- so fo -- co?
+    in cor ch'av -- vam -- pi d'a -- mo -- ro -- so fo -- co?
 
 %    È de -- gno di pie -- ta -- de~e di mer -- ce -- de.
-    Chi __ da -- rà~in que -- sto men -- tre vi -- ta~ha’l co -- re,
-        vi -- ta~ha’l co -- re?
+    Chi __ da -- rà~in que -- sto men -- tre vi -- ta~ha'l co -- re,
+        vi -- ta~ha'l co -- re?
 %            que -- sta boc -- ca, e~in -- sie -- m'A -- mo -- re.
 %    Spe -- ra ca -- ro ben mi -- o, che to -- sto si -- a,
 %    Al tuo vo -- ler il mi -- o con -- for -- me
@@ -551,8 +551,8 @@ settimaLyricsXIII = \lyricmode {
     \ijLyrics
     dun -- que rag -- gio -- n'ha lo -- co
     \normalLyrics
-    In cor ch’av -- vam -- pi d’a -- mo -- ro -- so fo -- co?
-    Chi da -- rà~in que -- sto men -- tre vi -- ta~ha’l co -- re?
+    In cor ch'av -- vam -- pi d'a -- mo -- ro -- so fo -- co?
+    Chi da -- rà~in que -- sto men -- tre vi -- ta~ha'l co -- re?
 
     O for -- tu -- na -- ti~a -- man -- ti,
     \ijLyrics

@@ -1,11 +1,11 @@
-%   41 Pensier, dicea, che’l cor m’aggiacci et ardi,
+%   41 Pensier, dicea, che'l cor m'aggiacci et ardi,
 %      e causi il duol che sempre il rode e lima,
-%      che debbo far, poi ch’io son giunto tardi,
+%      che debbo far, poi ch'io son giunto tardi,
 %      et altri a corre il frutto è andato prima?
-%      a pena avuto io n’ho parole e sguardi,
-%      et altri n’ha tutta la spoglia opima.
+%      a pena avuto io n'ho parole e sguardi,
+%      et altri n'ha tutta la spoglia opima.
 %      Se non ne tocca a me frutto né fiore,
-%      perché affligger per lei mi vuo’ più il core?
+%      perché affligger per lei mi vuo' più il core?
 
 cantoVIincipit = \relative c' {
     \time 4/4
@@ -40,17 +40,17 @@ cantoLyricsVI = \lyricmode {
     \ijLyrics
     Che deb -- bo far, 
     \normalLyrics
-        poi ch’io son giun -- to tar -- di,
+        poi ch'io son giun -- to tar -- di,
     Et al -- tri~a cor -- re~il frut -- to~è~an -- da -- to pri -- ma?
-    A pe -- na~a -- vu -- to~io n’ho pa -- ro -- le~e sguar -- di,
-    Et al -- tri n’ha tut -- ta la spo -- glia~o -- pi -- ma. __
+    A pe -- na~a -- vu -- to~io n'ho pa -- ro -- le~e sguar -- di,
+    Et al -- tri n'ha tut -- ta la spo -- glia~o -- pi -- ma. __
     Se non ne toc -- ca~a me frut -- to né fio -- re,
     Se non ne toc -- ca~a me,
     Se non ne toc -- ca~a me frut -- to __ né __ fio -- re,
     Per -- ché~af -- flig -- ger per lei,
-    Per -- ché~af -- flig -- ger __ per lei mi vuo’ più~il co -- re,
+    Per -- ché~af -- flig -- ger __ per lei mi vuo' più~il co -- re,
     Per -- ché~af -- flig -- ger __ per lei,
-        per lei mi vuo’ più~il co -- re? __
+        per lei mi vuo' più~il co -- re? __
 }
 
 altoVIincipit = \relative c' {
@@ -88,20 +88,20 @@ altoLyricsVI = \lyricmode {
     \ijLyrics
     Che deb -- bo far, 
     \normalLyrics
-        poi ch’io son giun -- to tar -- di,
+        poi ch'io son giun -- to tar -- di,
     Et al -- tri~a cor -- re~il frut -- to~è~an -- da -- to pri -- ma?
-    A pe -- na~a -- vu -- to~io n’ho pa -- ro -- le~e sguar -- di,
-    Et al -- tri n’ha tut -- ta la spo -- glia~o -- pi -- ma,
+    A pe -- na~a -- vu -- to~io n'ho pa -- ro -- le~e sguar -- di,
+    Et al -- tri n'ha tut -- ta la spo -- glia~o -- pi -- ma,
         la __ spo -- glia~o -- pi -- ma. 
     Se non ne toc -- ca~a me frut -- to __ né fio -- re,
         a me frut -- to né fio -- re,
     Se non ne toc -- ca~a me frut -- to né fio -- re,
         frut -- to né fio -- re,
     Per -- ché~af -- flig -- ger __ per lei,
-    Per -- ché~af -- flig -- ger __ per lei mi vuo’ più~il __ co -- re, __
-    Per -- ché~af -- flig -- ger __ per lei mi vuo’ più~il co -- re,
-        mi vuo’ più~il co -- re,
-        per lei mi vuo’ più~il co -- re?
+    Per -- ché~af -- flig -- ger __ per lei mi vuo' più~il __ co -- re, __
+    Per -- ché~af -- flig -- ger __ per lei mi vuo' più~il co -- re,
+        mi vuo' più~il co -- re,
+        per lei mi vuo' più~il co -- re?
 }
 
 tenoreVIincipit = \relative c {
@@ -141,10 +141,10 @@ tenoreLyricsVI = \lyricmode {
     \ijLyrics
     Che deb -- bo far, 
     \normalLyrics
-        poi ch’io __ son giun -- to tar -- di,
+        poi ch'io __ son giun -- to tar -- di,
     Et al -- tri~a cor -- re~il frut -- to~è~an -- da -- to pri -- ma?
-    A pe -- na~a -- vu -- to~io n’ho pa -- ro -- le~e sguar -- di,
-    Et al -- tri __ n’ha __ tut -- ta la spo -- glia~o -- pi -- ma,
+    A pe -- na~a -- vu -- to~io n'ho pa -- ro -- le~e sguar -- di,
+    Et al -- tri __ n'ha __ tut -- ta la spo -- glia~o -- pi -- ma,
         tut -- ta la spo -- glia~o -- pi -- ma. 
     Se non ne toc -- ca~a me frut -- to né fio -- re,
         frut -- to né __ fio -- re,
@@ -152,9 +152,9 @@ tenoreLyricsVI = \lyricmode {
     Se non ne toc -- ca~a me frut -- to né fio -- re,
         frut -- to né fio -- re,
     Per -- ché~af -- flig -- ger per lei,
-    Per -- ché~af -- flig -- ger __ per lei __ mi vuo’ più~il co -- re,
-    Per -- ché~af -- flig -- ger __ per lei mi vuo’ più~il __ co -- re,
-    Per -- ché~af -- flig -- ger per __ lei mi __ vuo’ più~il co -- re?
+    Per -- ché~af -- flig -- ger __ per lei __ mi vuo' più~il co -- re,
+    Per -- ché~af -- flig -- ger __ per lei mi vuo' più~il __ co -- re,
+    Per -- ché~af -- flig -- ger per __ lei mi __ vuo' più~il co -- re?
 }
 
 bassoVIincipit = \relative c {
@@ -186,18 +186,18 @@ bassoVI = \relative c {
 }
 
 bassoLyricsVI = \lyricmode {
-    Che deb -- bo far, poi ch’io son giun -- to tar -- di,
+    Che deb -- bo far, poi ch'io son giun -- to tar -- di,
     Et al -- tri~a cor -- re~il frut -- to~è~an -- da -- to pri -- ma?
-    Et al -- tri n’ha __ tut -- ta la spo -- glia~o -- pi -- ma,
+    Et al -- tri n'ha __ tut -- ta la spo -- glia~o -- pi -- ma,
         tut -- ta la spo -- glia~o -- pi -- ma. 
     Se non ne toc -- ca~a me frut -- to né fio -- re,
     Se non ne toc -- ca~a me frut -- to né fio -- re, __
     Se non ne toc -- ca~a me __ frut -- to né fio -- re,
     Per -- ché~af -- flig -- ger per lei,
     Per -- ché~af -- flig -- ger __ per lei,
-        per lei mi __ vuo’ più il co -- re,
-    Per -- ché~af -- flig -- ger __ per lei mi vuo’ più~il co -- re,
-    Per -- ché~af -- flig -- ger per lei mi vuo’ __ più~il co -- re?
+        per lei mi __ vuo' più il co -- re,
+    Per -- ché~af -- flig -- ger __ per lei mi vuo' più~il co -- re,
+    Per -- ché~af -- flig -- ger per lei mi vuo' __ più~il co -- re?
 }
 
 cantoVIincipitVoice = <<

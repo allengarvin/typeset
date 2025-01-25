@@ -1,8 +1,8 @@
 % Fillida mia, più che i ligustri bianca,
-% Più vermiglia che’l prato a mezzo aprile,
+% Più vermiglia che'l prato a mezzo aprile,
 % Più fugace che cerva,
 % Ed a me più proterva
-% Ch’a Pan non fu colei che vinta e stanca
+% Ch'a Pan non fu colei che vinta e stanca
 % Divenne canna tremula e sottile,
 % Per guiderdon delle gravose some,
 % Deh spargi al vento le dorate chiome.
@@ -44,14 +44,14 @@ cantoLyricsIX = \lyricmode {
     Fil -- li -- da mia, 
     \normalLyrics
     Fil -- li -- da mia, più che~i li -- gu -- stri bian -- ca,
-    Più ver -- mi -- glia che’l pra -- to~a mez -- zo~a -- pri -- le,
+    Più ver -- mi -- glia che'l pra -- to~a mez -- zo~a -- pri -- le,
         a mez -- zo~a -- pri -- le,
     Più fu -- ga -- ce che cer -- va,
     Più fu -- ga -- ce che cer -- va,
     Ed a me,
     Ed a me,
     Ed __ a me più pro -- ter -- va
-    Ch’a Pan non fu co -- lei che vin -- ta~e stan -- ca,
+    Ch'a Pan non fu co -- lei che vin -- ta~e stan -- ca,
         che vin -- ta~e stan -- ca
     Di -- ven -- ne can -- na tre -- mu -- la~e sot -- ti -- le
         tre -- mu -- la~e sot -- ti -- le
@@ -96,11 +96,11 @@ altoIX = \relative c'' {
 altoLyricsIX = \lyricmode {
     Fil -- li -- da mia, __
     Fil -- li -- da mia, più che~i li -- gu -- stri bian -- ca, __
-    Più ver -- mi -- glia che’l pra -- to~a mez -- zo~a -- pri -- le, __
+    Più ver -- mi -- glia che'l pra -- to~a mez -- zo~a -- pri -- le, __
     Più fu -- ga -- ce che cer -- va,
     Ed __ a me,
     Ed a me più __ pro -- ter -- va
-    Ch’a Pan non fu co -- lei __ che vin -- ta~e stan -- ca
+    Ch'a Pan non fu co -- lei __ che vin -- ta~e stan -- ca
     Per gui -- der -- don del -- le __ gra -- vo -- se so -- me;  __
     Deh spar -- gi~al ven -- to le do -- ra -- te chio -- me,
     Deh __ spar -- gi~al ven -- to le do -- ra -- te chio -- me,
@@ -137,12 +137,12 @@ tenoreIX = \relative c' {
 tenoreLyricsIX = \lyricmode {
     Fil -- li -- da mia, 
     Fil -- li -- da mia, più che~i li -- gu -- stri bian -- ca, __
-    Più ver -- mi -- glia che’l pra -- to~a mez -- zo~a -- pri -- le,
+    Più ver -- mi -- glia che'l pra -- to~a mez -- zo~a -- pri -- le,
     Più fu -- ga -- ce che cer -- va,
     Più fu -- ga -- ce che cer -- va,
     Ed __ a me,
     Ed a me più pro -- ter -- va
-    Ch’a Pan non fu co -- lei che vin -- ta~e stan -- ca
+    Ch'a Pan non fu co -- lei che vin -- ta~e stan -- ca
     Di -- ven -- ne can -- na tre -- mu -- la~e sot -- ti -- le
     Per gui -- der -- don del -- le gra -- vo -- se so -- me; 
     Deh __ spar -- gi~al ven -- to le do -- ra -- te chio -- me,
@@ -221,13 +221,13 @@ quintoLyricsIX = \lyricmode {
     Fil -- li -- da mia, 
     \normalLyrics
         più che~i li -- gu -- stri bian -- ca,
-    Più ver -- mi -- glia che’l pra -- to~a mez -- zo~a -- pri -- le,
+    Più ver -- mi -- glia che'l pra -- to~a mez -- zo~a -- pri -- le,
         a mez -- zo~a -- pri -- le,
     Più fu -- ga -- ce che cer -- va,
     Più fu -- ga -- ce che cer -- va, __
     Ed __ a me,
     Ed a me più __ pro -- ter -- va
-    Ch’a Pan non fu co -- lei che vin -- ta~e stan -- ca,
+    Ch'a Pan non fu co -- lei che vin -- ta~e stan -- ca,
         e stan -- ca
     Di -- ven -- ne can -- na tre -- mu -- la~e sot -- ti -- le
         tre -- mu -- la~e sot -- ti -- le

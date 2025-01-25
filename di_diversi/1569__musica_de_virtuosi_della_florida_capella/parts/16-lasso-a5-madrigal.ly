@@ -1,11 +1,11 @@
-%    41 Pensier, dicea, che’l cor m’aggiacci et ardi,
+%    41 Pensier, dicea, che'l cor m'aggiacci et ardi,
 %       e causi il duol che sempre il rode e lima,
-%       che debbo far, poi ch’io son giunto tardi,
-%       e ch’altri a corre il frutto è andato prima?
-%       a pena avuto io n’ho parole e sguardi,
-%       et altri n’ha tutta la spoglia opima.
+%       che debbo far, poi ch'io son giunto tardi,
+%       e ch'altri a corre il frutto è andato prima?
+%       a pena avuto io n'ho parole e sguardi,
+%       et altri n'ha tutta la spoglia opima.
 %       Se non ne tocca a me frutto né fiore,
-%       perché affligger per lei mi vuo’ più il core?
+%       perché affligger per lei mi vuo' più il core?
 
 cantoXVIincipit = \relative c'' {
     \time 2/2
@@ -52,17 +52,17 @@ cantoLyricsXVI = \lyricmode {
     \ijLyrics
     pen -- sier, di -- cea,
     \normalLyrics
-        che’l cor m’ag -- giac -- ci~et ar -- di,
+        che'l cor m'ag -- giac -- ci~et ar -- di,
     E __ cau -- si'l duol che sem -- pre'l ro -- d'e li -- ma,
     e cau -- si'l duol che sem -- pre'l ro -- d'e li -- ma,
     Che deb -- bo far,
     \ijLyrics
     che deb -- bo far,
     \normalLyrics
-        poi ch’io son giun -- to tar -- di,
-    E ch’al -- tri~a cor -- re'l frut -- t'è~an -- da -- to pri -- ma?
-    A pe -- n'a -- vu -- t'io n’ho pa -- ro -- l'e sguar -- di,
-    Et al -- tri n’ha tut -- ta la spo -- glia~o -- pi -- ma.
+        poi ch'io son giun -- to tar -- di,
+    E ch'al -- tri~a cor -- re'l frut -- t'è~an -- da -- to pri -- ma?
+    A pe -- n'a -- vu -- t'io n'ho pa -- ro -- l'e sguar -- di,
+    Et al -- tri n'ha tut -- ta la spo -- glia~o -- pi -- ma.
     Se non ne toc -- c'a me,
     \ijLyrics
     se non ne toc -- c'a me
@@ -71,8 +71,8 @@ cantoLyricsXVI = \lyricmode {
     \ijLyrics
         frut -- to né fio -- re,
     \normalLyrics
-    Per -- ché~af -- flig -- ger per __ lei mi vuo’ più~il co -- re,
-        mi vuo’ più~il co -- re?
+    Per -- ché~af -- flig -- ger per __ lei mi vuo' più~il co -- re,
+        mi vuo' più~il co -- re?
 }
 
 altoXVIincipit = \relative c' {
@@ -122,9 +122,9 @@ altoLyricsXVI = \lyricmode {
     \ijLyrics
     pen -- sier, __ di -- cea,
     \normalLyrics
-        che’l __ cor m’ag -- giac -- ci~et ar -- di,
+        che'l __ cor m'ag -- giac -- ci~et ar -- di,
     \ijLyrics
-        che’l cor m’ag -- giac -- ci~et ar -- di, __
+        che'l cor m'ag -- giac -- ci~et ar -- di, __
     \normalLyrics
     E cau -- si'l duol, __
     \ijLyrics
@@ -135,10 +135,10 @@ altoLyricsXVI = \lyricmode {
     \ijLyrics
     che deb -- bo far,
     \normalLyrics
-        poi ch’io son giun -- to tar -- di,
-    E __ ch’al -- tri~a cor -- re'l frut -- t'è~an -- da -- to pri -- ma?
-    A pe -- n'a -- vu -- t'io n’ho pa -- ro -- l'e sguar -- di,
-    Et al -- tri n’ha tut -- ta la spo -- glia~o -- pi -- ma.
+        poi ch'io son giun -- to tar -- di,
+    E __ ch'al -- tri~a cor -- re'l frut -- t'è~an -- da -- to pri -- ma?
+    A pe -- n'a -- vu -- t'io n'ho pa -- ro -- l'e sguar -- di,
+    Et al -- tri n'ha tut -- ta la spo -- glia~o -- pi -- ma.
     Se non ne toc -- c'a me,
     \ijLyrics
     se non ne toc -- c'a me
@@ -151,8 +151,8 @@ altoLyricsXVI = \lyricmode {
     \ijLyrics
     per -- ché~af -- flig -- ger per lei
     \normalLyrics
-        mi vuo’ più~il co -- re,
-        mi vuo’ più~il co -- re?
+        mi vuo' più~il co -- re,
+        mi vuo' più~il co -- re?
 }
 
 % tenor from IMSLP. Not sure what library it's from.
@@ -196,11 +196,11 @@ tenoreXVI = \relative c' {
 }
 
 tenoreLyricsXVI = \lyricmode {
-    Pen -- sier, di -- cea, che’l cor m’ag -- giac -- ci~et ar -- di,
+    Pen -- sier, di -- cea, che'l cor m'ag -- giac -- ci~et ar -- di,
     \ijLyrics
-        che’l cor m’ag -- giac -- ci~et ar -- di,
+        che'l cor m'ag -- giac -- ci~et ar -- di,
     \normalLyrics
-        che’l cor m’ag -- giac -- ci~et ar -- di,
+        che'l cor m'ag -- giac -- ci~et ar -- di,
     E cau -- si'l duol che sem -- pre'l ro -- d'e li -- ma,
     \ijLyrics
     e cau -- si'l __ duol che sem -- pre'l ro -- d'e li -- ma,
@@ -209,10 +209,10 @@ tenoreLyricsXVI = \lyricmode {
     \ijLyrics
     che deb -- bo far,
     \normalLyrics
-        poi ch’io son giun -- to tar -- di,
-    E ch’al -- tri~a cor -- re'l frut -- t'è~an -- da -- to pri -- ma?
-    A pe -- n'a -- vu -- t'io n’ho __ pa -- ro -- l'e sguar -- di,
-    Et al -- tri n’ha tut -- ta la spo -- glia~o -- pi -- ma.
+        poi ch'io son giun -- to tar -- di,
+    E ch'al -- tri~a cor -- re'l frut -- t'è~an -- da -- to pri -- ma?
+    A pe -- n'a -- vu -- t'io n'ho __ pa -- ro -- l'e sguar -- di,
+    Et al -- tri n'ha tut -- ta la spo -- glia~o -- pi -- ma.
     Se non ne toc -- c'a me,
     \ijLyrics
     se non ne toc -- c'a me
@@ -225,11 +225,11 @@ tenoreLyricsXVI = \lyricmode {
     \ijLyrics
     per -- ché~af -- flig -- ger per lei 
     \normalLyrics
-        mi vuo’ più~il co -- re,
+        mi vuo' più~il co -- re,
     \ijLyrics
-        mi vuo’ più~il co -- re,
+        mi vuo' più~il co -- re,
     \normalLyrics
-        mi vuo’ più~il co -- re?
+        mi vuo' più~il co -- re?
 }
 
 % basso from Bavaria
@@ -268,26 +268,26 @@ bassoXVI = \relative c' {
 }
 
 bassoLyricsXVI = \lyricmode {
-    Pen -- sier, di -- cea, che’l cor m’ag -- giac -- ci~et ar -- di,
+    Pen -- sier, di -- cea, che'l cor m'ag -- giac -- ci~et ar -- di,
     \ijLyrics
-        che’l cor m’ag -- giac -- ci~et ar -- di, __
+        che'l cor m'ag -- giac -- ci~et ar -- di, __
     \normalLyrics
     E cau -- si'l duol,
     \ijLyrics
     e cau -- si'l duol,
     \normalLyrics
     e cau -- si'l duol che sem -- pre'l ro -- d'e li -- ma,
-    Che deb -- bo far, poi ch’io son giun -- to tar -- di,
-    E ch’al -- tri~a cor -- re'l frut -- t'è~an -- da -- to pri -- ma? __
-%    A pe -- n'a -- vu -- t'io n’ho pa -- ro -- l'e sguar -- di,
-    Et al -- tri n’ha tut -- ta la spo -- glia~o -- pi -- ma. __
+    Che deb -- bo far, poi ch'io son giun -- to tar -- di,
+    E ch'al -- tri~a cor -- re'l frut -- t'è~an -- da -- to pri -- ma? __
+%    A pe -- n'a -- vu -- t'io n'ho pa -- ro -- l'e sguar -- di,
+    Et al -- tri n'ha tut -- ta la spo -- glia~o -- pi -- ma. __
     Se non ne toc -- c'a me frut -- to né fio -- re,
     \ijLyrics
         frut -- to né fio -- re,
     \normalLyrics
-    Per -- ché~af -- flig -- ger per lei __ mi vuo’ più~il co -- re,
+    Per -- ché~af -- flig -- ger per lei __ mi vuo' più~il co -- re,
     \ijLyrics
-        mi vuo’ più~il co -- re?
+        mi vuo' più~il co -- re?
     \normalLyrics
 }
 
@@ -329,9 +329,9 @@ bf2  c c a2. a4 | a2 e f1 ~ | f g ~ | g2 f bf a ~ | a4( g g2) a1 | a bf ~ |
 }
 
 quintoLyricsXVI = \lyricmode {
-    Pen -- sier, di -- cea, che’l cor m’ag -- giac -- ci~et __ ar -- di,
+    Pen -- sier, di -- cea, che'l cor m'ag -- giac -- ci~et __ ar -- di,
     \ijLyrics
-        che’l cor m’ag -- giac -- ci~et ar -- di,
+        che'l cor m'ag -- giac -- ci~et ar -- di,
     \normalLyrics
     E cau -- si'l duol,
     \ijLyrics
@@ -342,12 +342,12 @@ quintoLyricsXVI = \lyricmode {
     \ijLyrics
     che deb -- bo far,
     \normalLyrics
-        poi ch’io son giun -- to tar -- di,
-    E ch’al -- tri~a __ cor -- re'l frut -- t'è~an -- da -- to pri -- ma? __
-%    A pe -- n'a -- vu -- t'io n’ho pa -- ro -- l'e sguar -- di,
-    Et al -- tri n’ha,
+        poi ch'io son giun -- to tar -- di,
+    E ch'al -- tri~a __ cor -- re'l frut -- t'è~an -- da -- to pri -- ma? __
+%    A pe -- n'a -- vu -- t'io n'ho pa -- ro -- l'e sguar -- di,
+    Et al -- tri n'ha,
     \ijLyrics
-    et al -- tri n’ha
+    et al -- tri n'ha
     \normalLyrics
         tut -- ta la spo -- glia~o -- pi -- ma. __
     Se non ne toc -- c'a me,
@@ -362,9 +362,9 @@ quintoLyricsXVI = \lyricmode {
     \ijLyrics
     per -- ché~af -- flig -- ger per lei
     \normalLyrics
-        mi vuo’ più~il co -- re,
+        mi vuo' più~il co -- re,
     \ijLyrics
-        mi vuo’ più~il co -- re? __
+        mi vuo' più~il co -- re? __
     \normalLyrics
 }
 

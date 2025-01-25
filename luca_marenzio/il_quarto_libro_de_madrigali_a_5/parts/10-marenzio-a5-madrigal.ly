@@ -25,7 +25,7 @@
 % Filippo de Monte, Decimo Libro dei madrigali a 5 voci, Venezia, 1581
 % Rinaldo del Mel, Quarto Libro dei Madrigali a 5 voci
 % Giovanni Battista Moscaglia, Terzo Libro dei Madrigali a 5 voci, Venezia, 1585
-% Marc’Antonio Ingegneri, Quinto Libro dei Madrigali a 5 voci, Venezia, 1587
+% Marc'Antonio Ingegneri, Quinto Libro dei Madrigali a 5 voci, Venezia, 1587
 % Luca Marenzio, Madrigali a 5 voci, Venezia 1584
 
 cantoXincipit = \relative c'' {

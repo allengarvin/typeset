@@ -1,11 +1,11 @@
 % Lungi da te cor mio
 % struggomi di dolore e di desio;
 % e a te vicino struggomi o mio core
-% di dolcezza e d’Amore.
-% Ma torna omai, deh torna, e se’l destino
-% vuol ch’io mi strugga a te, lungi e vicino,
+% di dolcezza e d'Amore.
+% Ma torna omai, deh torna, e se'l destino
+% vuol ch'io mi strugga a te, lungi e vicino,
 % sfavilli e splenda la tua luce amata,
-% ch’io n’arda e mora, e morirò beata.
+% ch'io n'arda e mora, e morirò beata.
 % 
 % Newcomb:
 % Away from you, my heart,
@@ -22,7 +22,7 @@
 % the suffering and desire consume me.
 % And with you near, oh my heart, I am
 % consumed by sweetness and by Love.
-% But come back now, come, and if it is fate’s
+% But come back now, come, and if it is fate's
 % desire that I should be tormented for you, far
 % or near, shine your beloved light and
 % brilliantly, so that I should burn and die, and die contented.
@@ -65,11 +65,11 @@ cantoLyricsIII = \lyricmode {
     lun -- gi da te cor mi -- o
     strug -- go -- mi di do -- lo -- re~e di de -- si -- o;
     E~a te vi -- ci -- no strug -- go -- mi~o mio co -- re
-    Di dol -- cez -- za~e d’A -- mo -- re.
-    Ma tor -- na~o -- mai, deh tor -- na, % e se’l de -- sti -- no
-    Vuol ch’io mi strug -- ga~a te, lun -- gi~e vi -- ci -- no,
+    Di dol -- cez -- za~e d'A -- mo -- re.
+    Ma tor -- na~o -- mai, deh tor -- na, % e se'l de -- sti -- no
+    Vuol ch'io mi strug -- ga~a te, lun -- gi~e vi -- ci -- no,
     Sfa -- vil -- li~e splen -- da la tua lu -- ce~a -- ma -- ta,
-    Ch’io n’ar -- da~e mo -- ra, e mo -- ri -- rò be -- a -- ta,
+    Ch'io n'ar -- da~e mo -- ra, e mo -- ri -- rò be -- a -- ta,
         e mo -- ri -- rò be -- a -- ta,
         e __ mo -- ri -- rò be -- a -- ta.
 }
@@ -111,19 +111,19 @@ altoLyricsIII = \lyricmode {
     lun -- gi da te cor mi -- o
     strug -- go -- mi di do -- lo -- re~e di de -- si -- o;
 %    E~a te vi -- ci -- no strug -- go -- mi~o mio co -- re
-    Di dol -- cez -- za~e d’A -- mo -- re.
+    Di dol -- cez -- za~e d'A -- mo -- re.
     Ma tor -- na~o -- mai,
     \ijLyrics
     ma tor -- na~o -- mai,
     \normalLyrics
-        deh tor -- na, e __ se’l de -- sti -- no
-    Vuol ch’io mi __ strug -- ga~a te, lun -- gi~e vi -- ci -- no,
+        deh tor -- na, e __ se'l de -- sti -- no
+    Vuol ch'io mi __ strug -- ga~a te, lun -- gi~e vi -- ci -- no,
     Sfa -- vil -- li~e splen -- da la tua lu -- ce~a -- ma -- ta,
-    Ch’io n’ar -- da~e mo -- ra,
+    Ch'io n'ar -- da~e mo -- ra,
     \ijLyrics
-    ch’io n’ar -- da~e mo -- ra,
+    ch'io n'ar -- da~e mo -- ra,
     \normalLyrics
-    ch’io n’ar -- da~e mo -- ra, e mo -- ri -- rò be -- a -- ta,
+    ch'io n'ar -- da~e mo -- ra, e mo -- ri -- rò be -- a -- ta,
         e mo -- ri -- rò be -- a -- ta,
     \ijLyrics
         e mo -- ri -- rò be -- a -- ta.
@@ -168,18 +168,18 @@ tenoreLyricsIII = \lyricmode {
     lun -- gi da te __ cor mi -- o
     Strug -- go -- mi di __ do -- lo -- re~e di de -- si -- o,
         e di de -- si -- o,
-    Di dol -- cez -- za~e d’A -- mo -- re.
+    Di dol -- cez -- za~e d'A -- mo -- re.
     \ijLyrics
-    di dol -- cez -- za~e d’A -- mo -- re.
+    di dol -- cez -- za~e d'A -- mo -- re.
     \normalLyrics
     Ma tor -- na~o -- mai,
-    ma tor -- na~o -- mai, deh tor -- na, e se’l de -- sti -- no
-    Vuol ch’io mi strug -- ga~a te, lun -- gi~e vi -- ci -- no,
+    ma tor -- na~o -- mai, deh tor -- na, e se'l de -- sti -- no
+    Vuol ch'io mi strug -- ga~a te, lun -- gi~e vi -- ci -- no,
         a te lun -- gi~e vi -- ci -- no,
     Sfa -- vil -- li~e splen -- da la tua lu -- ce~a -- ma -- ta,
-    Ch’io n’ar -- da~e mo -- ra,
+    Ch'io n'ar -- da~e mo -- ra,
     \ijLyrics
-    ch’io n’ar -- da~e mo -- ra,
+    ch'io n'ar -- da~e mo -- ra,
     \normalLyrics
         e mo -- ri -- rò be -- a -- ta,
     \ijLyrics
@@ -224,17 +224,17 @@ bassoLyricsIII = \lyricmode {
     lun -- gi da te cor mi -- o
     strug -- go -- mi di do -- lo -- re~e di de -- si -- o;
 %    E~a te vi -- ci -- no strug -- go -- mi~o mio co -- re
-    Di dol -- cez -- za~e d’A -- mo -- re,
-        e d’A -- mo -- re.
+    Di dol -- cez -- za~e d'A -- mo -- re,
+        e d'A -- mo -- re.
     Ma tor -- na~o -- mai,
     \ijLyrics
     ma tor -- na~o -- mai,
     \normalLyrics
-        deh tor -- na, e se’l de -- sti -- no
-    Vuol ch’io mi strug -- ga~a te,
-    vuol ch’io mi strug -- ga~a te, lun -- gi~e vi -- ci -- no,
+        deh tor -- na, e se'l de -- sti -- no
+    Vuol ch'io mi strug -- ga~a te,
+    vuol ch'io mi strug -- ga~a te, lun -- gi~e vi -- ci -- no,
     Sfa -- vil -- li~e splen -- da la tua lu -- ce~a -- ma -- ta,
-    Ch’io n’ar -- da~e mo -- ra, e mo -- ri -- rò be -- a -- ta,
+    Ch'io n'ar -- da~e mo -- ra, e mo -- ri -- rò be -- a -- ta,
     \ijLyrics
         e mo -- ri -- rò be -- a -- ta.
     \normalLyrics
@@ -279,17 +279,17 @@ quintoLyricsIII = \lyricmode {
     lun -- gi da te cor mi -- o
     strug -- go -- mi di do -- lo -- re~e di de -- si -- o;
     E~a te vi -- ci -- no strug -- go -- mi~o mio co -- re
-    Di dol -- cez -- za~e d’A -- mo -- re.
+    Di dol -- cez -- za~e d'A -- mo -- re.
     Ma tor -- na~o -- mai,
     \ijLyrics
     ma tor -- na~o -- mai,
     \normalLyrics
         deh __ tor -- na, 
-    Vuol ch’io mi __ strug -- ga~a te, lun -- gi~e vi -- ci -- no,
+    Vuol ch'io mi __ strug -- ga~a te, lun -- gi~e vi -- ci -- no,
     Sfa -- vil -- li~e splen -- da la tua lu -- ce~a -- ma -- ta,
-    Ch’io n’ar -- da~e mo -- ra,
+    Ch'io n'ar -- da~e mo -- ra,
     \ijLyrics
-    ch’io n’ar -- da~e mo -- ra,
+    ch'io n'ar -- da~e mo -- ra,
     \normalLyrics
         e mo -- ri -- rò be -- a -- ta,
     \ijLyrics

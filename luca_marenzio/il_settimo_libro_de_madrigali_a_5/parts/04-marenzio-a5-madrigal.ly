@@ -40,8 +40,8 @@ cantoLyricsIV = \lyricmode {
     Di -- ran -- no~i miei __ la -- men -- ti;
 
     Par -- le -- rà __ nel mio vol -- to
-    La pie -- ta -- de~e’l do -- lo -- re; __
-    E se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    La pie -- ta -- de~e'l do -- lo -- re; __
+    E se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     Par -- le -- rà~il __ mio mo -- ri -- re,
     E ti di -- rà la mor -- te~il __ mio mar -- ti -- re,
     e ti di -- rà la mor -- te il __ mio mar -- ti -- re,
@@ -91,8 +91,8 @@ altoLyricsIV = \lyricmode {
     Di -- ran -- no~i miei la -- men -- ti;
 
 %    Par -- le -- rà nel mio vol -- to
-    La pie -- ta -- de~e’l __ do -- lo -- re;
-    E se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    La pie -- ta -- de~e'l __ do -- lo -- re;
+    E se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     Par -- le -- rà~il __ mio mo -- ri -- re,
     E ti di -- rà la mor -- te~il mio mar -- ti -- re,
     e ti di -- rà la mor -- te, __
@@ -142,8 +142,8 @@ tenoreLyricsIV = \lyricmode {
     Di -- ran -- no~i miei la -- men -- ti;
 
     Par -- le -- rà __ nel mio vol -- to __
-%    La pie -- ta -- de~e’l do -- lo -- re;
-    E se fia mu -- ta~o -- gn’al -- tra co -- sa al fi -- ne,
+%    La pie -- ta -- de~e'l do -- lo -- re;
+    E se fia mu -- ta~o -- gn'al -- tra co -- sa al fi -- ne,
     Par -- le -- rà~il __ mio mo -- ri -- re,
     E ti di -- rà la mor -- te~il __ mio mar -- ti -- re,
     e ti di -- rà la mor -- te~il mio mar -- ti -- re,
@@ -192,8 +192,8 @@ bassoLyricsIV = \lyricmode {
     Di -- ran -- no~i miei la -- men -- ti;
 
     Par -- le -- rà __ nel mio vol -- to
-    La __ pie -- ta -- de~e’l do -- lo -- re;
-    E se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    La __ pie -- ta -- de~e'l do -- lo -- re;
+    E se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     Par -- le -- rà~il __ mio mo -- ri -- re,
     E ti di -- rà la mor -- te~il mio mar -- ti -- re,
     e ti di -- rà la mor -- te il mio mar -- ti -- re,
@@ -242,8 +242,8 @@ quintoLyricsIV = \lyricmode {
     Di -- ran -- no~i miei la -- men -- ti;
 
     Par -- le -- rà __ nel mio vol -- to
-    La __ pie -- ta -- de~e’l do -- lo -- re;
-    E se fia mu -- ta~o -- gn’al -- tra co -- sa~al fi -- ne,
+    La __ pie -- ta -- de~e'l do -- lo -- re;
+    E se fia mu -- ta~o -- gn'al -- tra co -- sa~al fi -- ne,
     Par -- le -- rà,
     E ti di -- rà la mor -- te il mio mar -- ti -- re,
     e ti di -- rà la mor -- te il mio mar -- ti -- re,

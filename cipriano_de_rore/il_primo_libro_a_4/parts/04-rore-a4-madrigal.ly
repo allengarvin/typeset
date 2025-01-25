@@ -32,8 +32,8 @@ cantoIV = \relative c'' {
 
 cantoLyricsIV = \lyricmode {
     Pe -- rò __ più fer -- mo~o -- gni~or __ di tem -- po~in tem -- po,
-    Se -- guen -- do~o -- ve chia -- mar __ m’u -- dia __ dal __ cie -- lo
-    E scor -- to d’un so -- a -- ve~e chia -- ro lu -- me,
+    Se -- guen -- do~o -- ve chia -- mar __ m'u -- dia __ dal __ cie -- lo
+    E scor -- to d'un so -- a -- ve~e chia -- ro lu -- me,
     Tor -- nai sem -- pre de -- vo -- to~ai pri -- mi ra -- mi
     E quan -- do~a ter -- ra son __ spar -- te __ le fron -- di,
     E quan -- do~a ter -- ra son __ spar -- te __ le fron -- di
@@ -69,8 +69,8 @@ altoIV = \relative c'' {
 
 altoLyricsIV = \lyricmode {
     Pe -- rò più fer -- mo~o -- gni~or __ di tem -- po~in tem -- po,
-    Se -- guen -- do~o -- ve chia -- mar __ m’u -- dia dal cie -- lo
-    E scor -- to d’un so -- a -- ve~e chia -- ro lu -- me, __
+    Se -- guen -- do~o -- ve chia -- mar __ m'u -- dia dal cie -- lo
+    E scor -- to d'un so -- a -- ve~e chia -- ro lu -- me, __
     Tor -- nai,
     Tor -- nai sem -- pre de -- vo -- to~ai pri -- mi ra -- mi
     E quan -- do~a ter -- ra son spar -- te le fron -- di 
@@ -116,8 +116,8 @@ tenoreLyricsIV = \lyricmode {
         di tem -- po~in tem -- po,
     \normalLyrics
     Se -- guen -- do,
-    Se -- guen -- do~o -- ve chia -- mar m’u -- dia dal cie -- lo
-    E scor -- to d’un so -- a -- ve~e chia -- ro lu -- me,
+    Se -- guen -- do~o -- ve chia -- mar m'u -- dia dal cie -- lo
+    E scor -- to d'un so -- a -- ve~e chia -- ro lu -- me,
     Tor -- nai sem -- pre de -- vo -- to~ai pri -- mi ra -- mi,
     Tor -- nai sem -- pre de -- vo -- to~ai pri -- mi ra -- mi
     E quan -- do~a ter -- ra son spar -- te le fron -- di,
@@ -157,8 +157,8 @@ bassoIV = \relative c' {
 
 bassoLyricsIV = \lyricmode {
     Pe -- rò più fer -- mo~o -- gni~or di tem -- po~in tem -- po,
-    Se -- guen -- do~o -- ve chia -- mar m’u -- dia __ dal cie -- lo
-    E scor -- to d’un so -- a -- ve~e __ chia -- ro lu -- me,
+    Se -- guen -- do~o -- ve chia -- mar m'u -- dia __ dal cie -- lo
+    E scor -- to d'un so -- a -- ve~e __ chia -- ro lu -- me,
     Tor -- nai sem -- pre de -- vo -- to~ai pri -- mi ra -- mi __
     E quan -- do~a ter -- ra son spar -- te le fron -- di,
     E quan -- do~il sol __ fa ver -- deg -- giar i pog -- gi,

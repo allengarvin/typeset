@@ -1,11 +1,11 @@
 % Non guardar, che se guardi
-% l’idolo del mio core
-% ti struggerai d’Amore;
+% l'idolo del mio core
+% ti struggerai d'Amore;
 % Non mirar, che se miri
 % quanta dolcezza in me da gli occhi e i spiri
-% ti struggerai d’invidia. Ah, perché tardi?
+% ti struggerai d'invidia. Ah, perché tardi?
 % Fuggi mentre ti lice:
-% troppo egli è bello, i’ son troppo felice.
+% troppo egli è bello, i' son troppo felice.
 % 
 % Do not look, for if you look
 % at the idol of my heart
@@ -54,23 +54,23 @@ cantoXX = \relative c'' {
 
 cantoLyricsXX = \lyricmode {
     Non guar -- dar, che se guar -- di
-    L’i -- do -- lo del mio co -- re,
-    l’i -- do -- lo del mio co -- re,
-    Ti strug -- ge -- rai d’A -- mo -- re,
-    ti strug -- ge -- rai d’A -- mo -- re;
+    L'i -- do -- lo del mio co -- re,
+    l'i -- do -- lo del mio co -- re,
+    Ti strug -- ge -- rai d'A -- mo -- re,
+    ti strug -- ge -- rai d'A -- mo -- re;
     Non mi -- rar, che se mi -- ri
     Quan -- ta dol -- cez -- za~in me da gli~oc -- chi~e~i spi -- ri
     Ti strug -- ge -- rai,
-    ti strug -- ge -- rai d’in -- vi -- dia. Ah, per -- ché tar -- di?
+    ti strug -- ge -- rai d'in -- vi -- dia. Ah, per -- ché tar -- di?
         ah, per -- ché tar -- di?
     Fug -- gi men -- tre ti li -- ce:
     Trop -- po~e -- gli~è bel -- lo,
-        i’ son trop -- po fe -- li -- ce,
-        i’ son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
             trop -- po fe -- li -- ce,
     Trop -- po~e -- gli~è bel -- lo,
-        i’ son trop -- po fe -- li -- ce,
-        i’ son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
             trop -- po fe -- li -- ce.
 }
 
@@ -108,22 +108,22 @@ altoXX = \relative c' {
 
 altoLyricsXX = \lyricmode {
     Non guar -- dar, che se guar -- di
-    L’i -- do -- lo del mio co -- re,
-    l’i -- do -- lo del mio co -- re,
-    Ti strug -- ge -- rai d’A -- mo -- re;
+    L'i -- do -- lo del mio co -- re,
+    l'i -- do -- lo del mio co -- re,
+    Ti strug -- ge -- rai d'A -- mo -- re;
     Non mi -- rar, che se mi -- ri
     Quan -- ta dol -- cez -- za~in me,
     quan -- ta dol -- cez -- za~in me da gli~oc -- chi~e~i spi -- ri
     Ti strug -- ge -- rai,
-    ti strug -- ge -- rai d’in -- vi -- dia. Ah, per -- ché tar -- di?
+    ti strug -- ge -- rai d'in -- vi -- dia. Ah, per -- ché tar -- di?
 %        ah, per -- ché tar -- di?
     Fug -- gi men -- tre ti li -- ce:
     Trop -- po~e -- gli~è bel -- lo,
-        i’ son trop -- po fe -- li -- ce,
-        i’ son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
     trop -- po~e -- gli~è bel -- lo,
-        i’ son trop -- po fe -- li -- ce,
-        i’ son trop -- po fe -- li -- ce.
+        i' son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce.
 }
 
 tenoreXXincipit = \relative c' {
@@ -162,24 +162,24 @@ tenoreXX = \relative c' {
 
 tenoreLyricsXX = \lyricmode {
     Non guar -- dar, che se guar -- di
-    L’i -- do -- lo del mio co -- re,
-    Ti strug -- ge -- rai d’A -- mo -- re,
-    ti strug -- ge -- rai d’A -- mo -- re;
+    L'i -- do -- lo del mio co -- re,
+    Ti strug -- ge -- rai d'A -- mo -- re,
+    ti strug -- ge -- rai d'A -- mo -- re;
     Quan -- ta dol -- cez -- za~in me,
     quan -- ta dol -- cez -- za~in me
 %        % da gli~oc -- chi~e~i spi -- ri
 %    Ti strug -- ge -- rai,
-    Ti strug -- ge -- rai d’in -- vi -- dia. Ah, per -- ché tar -- di?
+    Ti strug -- ge -- rai d'in -- vi -- dia. Ah, per -- ché tar -- di?
         ah, per -- ché tar -- di?
     Fug -- gi men -- tre ti li -- ce:
     Trop -- po~e -- gli~è bel -- lo,
-        i’ son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
             trop -- po fe -- li -- ce,
-        i’ son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
             trop -- po fe -- li -- ce,
-        i’ son trop -- po fe -- li -- ce.
+        i' son trop -- po fe -- li -- ce.
 %    Trop -- po~e -- gli~è bel -- lo,
-%        i’ son trop -- po fe -- li -- ce,
+%        i' son trop -- po fe -- li -- ce,
 %            trop -- po fe -- li -- ce.
 }
 
@@ -216,19 +216,19 @@ bassoXX = \relative c {
 
 bassoLyricsXX = \lyricmode {
     Non guar -- dar, che se guar -- di
-    L’i -- do -- lo del mio co -- re,
-    Ti strug -- ge -- rai d’A -- mo -- re;
+    L'i -- do -- lo del mio co -- re,
+    Ti strug -- ge -- rai d'A -- mo -- re;
     Non mi -- rar, che se mi -- ri
     Quan -- ta dol -- cez -- za~in me,
 %    Quan -- ta dol -- cez -- za~in me
 %        % da gli~oc -- chi~e~i spi -- ri
-    Ti strug -- ge -- rai d’in -- vi -- dia. Ah, per -- ché tar -- di?
+    Ti strug -- ge -- rai d'in -- vi -- dia. Ah, per -- ché tar -- di?
         ah, per -- ché tar -- di?
     Fug -- gi men -- tre ti li -- ce:
     Trop -- po~e -- gli~è bel -- lo,
-        i’ son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
     trop -- po~e -- gli~è bel -- lo,
-        i’ son trop -- po fe -- li -- ce.
+        i' son trop -- po fe -- li -- ce.
 }
 
 quintoXXincipit = \relative c' {
@@ -266,24 +266,24 @@ quintoXX = \relative c' {
 
 quintoLyricsXX = \lyricmode {
     Non guar -- dar, che se guar -- di
-    L’i -- do -- lo del mio co -- re,
+    L'i -- do -- lo del mio co -- re,
     non guar -- dar, che se guar -- di
-    l’i -- do -- lo del mio co -- re,
-    Ti strug -- ge -- rai d’A -- mo -- re;
+    l'i -- do -- lo del mio co -- re,
+    Ti strug -- ge -- rai d'A -- mo -- re;
     Non mi -- rar, che se mi -- ri
     Quan -- ta dol -- cez -- za~in me,
     quan -- ta dol -- cez -- za~in me
         % da gli~oc -- chi~e~i spi -- ri
     Ti strug -- ge -- rai,
-    ti strug -- ge -- rai d’in -- vi -- dia. Ah, per -- ché tar -- di?
+    ti strug -- ge -- rai d'in -- vi -- dia. Ah, per -- ché tar -- di?
         ah, per -- ché tar -- di?
     Fug -- gi men -- tre ti li -- ce:
     % Trop -- po~e -- gli~è bel -- lo, 
-        i’ son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
             trop -- po fe -- li -- ce,
-        i’ son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
     Trop -- po~e -- gli~è bel -- lo, 
-        i’ son trop -- po fe -- li -- ce,
+        i' son trop -- po fe -- li -- ce,
             trop -- po fe -- li -- ce.
 }
 

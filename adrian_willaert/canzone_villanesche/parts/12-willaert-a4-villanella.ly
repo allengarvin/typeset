@@ -1,15 +1,15 @@
-% O bene mio fa famm’uno favore
+% O bene mio fa famm'uno favore
 % Che questa sera ti possa parlare.
-% E s’alcuno ti ci trova
-% e tu grida, chi vend’ova.
+% E s'alcuno ti ci trova
+% e tu grida, chi vend'ova.
 % 
 % Vieni senza paura e non bussare
 % Butta la porta che porai entrare.
-% E s’alcuno ...
+% E s'alcuno ...
 % 
 % Alla finestra insino alle due ore
 % Farò la spia che porai entrare.
-% E s’alcuno ...
+% E s'alcuno ...
 
 
 cantusXIIincipit = \relative c' {
@@ -38,21 +38,21 @@ cantusXII = \relative c' {
 }
 
 cantusLyricsXII = \lyricmode {
-    O be -- ne mi -- o fa fam -- m’u -- no __ fa -- vo -- re
-    O be -- ne mi -- o fa fam -- m’u -- no __ fa -- vo -- re
+    O be -- ne mi -- o fa fam -- m'u -- no __ fa -- vo -- re
+    O be -- ne mi -- o fa fam -- m'u -- no __ fa -- vo -- re
     Che que -- sta se -- ra ti pos -- sa par -- la -- re,
         ti pos -- sa par -- la -- re.
         
-    E s’al -- cu -- no ti ci tro -- va
+    E s'al -- cu -- no ti ci tro -- va
     e tu gri -- da, 
-    e tu gri -- da, chi ven -- d’o -- va,
-        chi ven -- d’o -- va,
-        chi ven -- d’o -- va.
-    E s’al -- cu -- no ti ci tro -- va
+    e tu gri -- da, chi ven -- d'o -- va,
+        chi ven -- d'o -- va,
+        chi ven -- d'o -- va.
+    E s'al -- cu -- no ti ci tro -- va
     e tu gri -- da, 
-    e tu gri -- da, chi __ ven -- d’o -- va,
-        chi ven -- d’o -- va,
-        chi ven -- d’o -- va.
+    e tu gri -- da, chi __ ven -- d'o -- va,
+        chi ven -- d'o -- va,
+        chi ven -- d'o -- va.
 }
 
 altusXIIincipit = \relative c' {
@@ -84,21 +84,21 @@ altusXII = \relative c' {
 }
 
 altusLyricsXII = \lyricmode {
-    O be -- ne mi -- o fa fam -- m’u -- no __ fa -- vo -- re
-    O be -- ne mi -- o fa fam -- m’u -- no __ fa -- vo -- re
+    O be -- ne mi -- o fa fam -- m'u -- no __ fa -- vo -- re
+    O be -- ne mi -- o fa fam -- m'u -- no __ fa -- vo -- re
     Che que -- sta se -- ra ti pos -- sa par -- la -- re,
         ti __ pos -- sa par -- la -- re.
         
-    E s’al -- cu -- no ti ci tro -- va
+    E s'al -- cu -- no ti ci tro -- va
     e tu gri -- da, 
-    e tu gri -- da, chi ven -- d’o -- va,
-        chi ven -- d’o -- va,
-        chi ven -- d’o -- va.
-    E s’al -- cu -- no ti ci tro -- va
+    e tu gri -- da, chi ven -- d'o -- va,
+        chi ven -- d'o -- va,
+        chi ven -- d'o -- va.
+    E s'al -- cu -- no ti ci tro -- va
     e tu gri -- da, 
-    e tu gri -- da, chi ven -- d’o -- va,
-        chi ven -- d’o -- va,
-        chi ven -- d’o -- va.
+    e tu gri -- da, chi ven -- d'o -- va,
+        chi ven -- d'o -- va,
+        chi ven -- d'o -- va.
 }
 
 tenorXIIincipit = \relative c' {
@@ -126,21 +126,21 @@ tenorXII = \relative c' {
 }
 
 tenorLyricsXII = \lyricmode {
-    O be -- ne mi -- o fa fam -- m’u -- no fa -- vo -- re
-    O be -- ne mi -- o fa fam -- m’u -- no fa -- vo -- re
+    O be -- ne mi -- o fa fam -- m'u -- no fa -- vo -- re
+    O be -- ne mi -- o fa fam -- m'u -- no fa -- vo -- re
     Che que -- sta se -- ra ti pos -- sa par -- la -- re,
         ti __ pos -- sa par -- la -- re.
         
-    E s’al -- cu -- no ti ci tro -- va
+    E s'al -- cu -- no ti ci tro -- va
     e tu gri -- da, 
-    e tu gri -- da, chi ven -- d’o -- va,
-        chi ven -- d’o -- va,
-        chi ven -- d’o -- va.
-    E s’al -- cu -- no ti ci tro -- va
+    e tu gri -- da, chi ven -- d'o -- va,
+        chi ven -- d'o -- va,
+        chi ven -- d'o -- va.
+    E s'al -- cu -- no ti ci tro -- va
     e tu gri -- da, 
-    e tu gri -- da, chi __ ven -- d’o -- va,
-        chi ven -- d’o -- va,
-        chi ven -- d’o -- va.
+    e tu gri -- da, chi __ ven -- d'o -- va,
+        chi ven -- d'o -- va,
+        chi ven -- d'o -- va.
 }
 
 bassusXIIincipit = \relative c {
@@ -168,21 +168,21 @@ bassusXII = \relative c {
 }
 
 bassusLyricsXII = \lyricmode {
-    O be -- ne mi -- o fa fam -- m’u -- no fa -- vo -- re
-    O be -- ne mi -- o fa fam -- m’u -- no fa -- vo -- re
+    O be -- ne mi -- o fa fam -- m'u -- no fa -- vo -- re
+    O be -- ne mi -- o fa fam -- m'u -- no fa -- vo -- re
     Che que -- sta se -- ra ti pos -- sa par -- la -- re,
         ti __ pos -- sa par -- la -- re.
         
-    E s’al -- cu -- no ti ci tro -- va
+    E s'al -- cu -- no ti ci tro -- va
     e tu gri -- da, 
-    e tu gri -- da, chi ven -- d’o -- va,
-        chi ven -- d’o -- va,
-        chi ven -- d’o -- va.
-    E s’al -- cu -- no ti ci tro -- va
+    e tu gri -- da, chi ven -- d'o -- va,
+        chi ven -- d'o -- va,
+        chi ven -- d'o -- va.
+    E s'al -- cu -- no ti ci tro -- va
     e tu gri -- da, 
-    e tu gri -- da, chi __ ven -- d’o -- va,
-        chi ven -- d’o -- va,
-        chi ven -- d’o -- va.
+    e tu gri -- da, chi __ ven -- d'o -- va,
+        chi ven -- d'o -- va,
+        chi ven -- d'o -- va.
 }
 
 cantusXIIincipitVoice = <<

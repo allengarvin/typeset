@@ -1,6 +1,6 @@
 % Ma se tempo gia mai verrà 
 % che sciolta vivi, non sia più mai che te diletta
-% se non gridar vendett’amor, vendetta!
+% se non gridar vendett'amor, vendetta!
 
 cantoIIIincipit = \relative c'' {
     \time 2/2

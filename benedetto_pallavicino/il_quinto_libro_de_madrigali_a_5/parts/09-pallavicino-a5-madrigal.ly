@@ -6,7 +6,7 @@
 % con gran diletto lei,
 % quando dirmi senti: Stolto, che fai?
 %
-% Tempo perduto non s’acquista mai.
+% Tempo perduto non s'acquista mai.
 % Allor io mi chinai così pian piano
 % e baciandole il viso,
 % provai quanta dolcezza ha il paradiso.
@@ -78,7 +78,7 @@ cantoLyricsIX = \lyricmode {
         stol -- to che fa -- i:
     \normalLyrics
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi __ chi -- nai co -- sì pian pia -- no
     E ba -- cian -- do -- le~il vi -- so,
     \ijLyrics
@@ -163,7 +163,7 @@ altoLyricsIX = \lyricmode {
         stol -- to che fa -- i:
     \normalLyrics
 
-%    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+%    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi chi -- nai __ co -- sì pian pia -- no
     E ba -- cian -- do -- le~il vi -- so,
     \ijLyrics
@@ -243,7 +243,7 @@ tenoreLyricsIX = \lyricmode {
         stol -- to che fa -- i:
     \normalLyrics
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi __ chi -- nai co -- sì pian pia -- no,
         co -- sì pian pia -- no
     E ba -- cian -- do -- le~il vi -- so,
@@ -310,7 +310,7 @@ bassoLyricsIX = \lyricmode {
         stol -- to che fa -- i:
     \normalLyrics
 
-%    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+%    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi __ chi -- nai co -- sì pian pia -- no
     E ba -- cian -- do -- le~il vi -- so,
     e ba -- cian -- do -- le~il vi -- so,
@@ -376,7 +376,7 @@ quintoLyricsIX = \lyricmode {
         stol -- to che fa -- i:
     \normalLyrics
 
-    Tem -- po per -- du -- to non s’ac -- qui -- sta ma -- i.
+    Tem -- po per -- du -- to non s'ac -- qui -- sta ma -- i.
     Al -- lor io mi chi -- nai co -- sì pian pia -- no,
         co -- sì __ pian pia -- no
     E ba -- cian -- do -- le~il vi -- so,

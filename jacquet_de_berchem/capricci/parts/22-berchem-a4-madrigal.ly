@@ -1,10 +1,10 @@
 %   77 Dove, speranza mia, dove ora sei?
 %      vai tu soletta forse ancor errando?
-%      o pur t’hanno trovata i lupi rei
+%      o pur t'hanno trovata i lupi rei
 %      senza la guardia del tuo fido Orlando?
-%      e il fior ch’in ciel potea pormi fra i dei,
-%      il fior ch’intatto io mi venia serbando
-%      per non turbarti, ohimè! l’animo casto,
+%      e il fior ch'in ciel potea pormi fra i dei,
+%      il fior ch'intatto io mi venia serbando
+%      per non turbarti, ohimè! l'animo casto,
 %      ohimè! per forza avranno colto e guasto.
 
 cantoXXIIincipit = \relative c'' {
@@ -39,15 +39,15 @@ cantoXXII = \relative c'' {
 cantoLyricsXXII = \lyricmode {
     Do -- ve, spe -- ran -- za mia, do -- ve~o -- ra se -- i?
     Vai tu so -- let -- ta for -- se~an -- cor __ er -- ran -- do? __
-    O pur t’han -- no tro -- va  -- ta~i lu -- pi re -- i
+    O pur t'han -- no tro -- va  -- ta~i lu -- pi re -- i
     Sen -- za la guar -- dia del tuo fi -- do~Or -- lan -- do,
         del tuo fi -- do~Or -- lan -- do?
-    E'l fior ch’in ciel po -- tea por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do,
+    E'l fior ch'in ciel po -- tea por -- mi fra~i de -- i,
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do,
         io mi ve -- nia,
         io mi ve -- nia ser -- ban -- do
     Per non tur -- bar -- ti,~ohi -- mè!
-        ohi -- mè! l’a -- ni -- mo ca -- sto,
+        ohi -- mè! l'a -- ni -- mo ca -- sto,
     Ohi -- mè! per for -- za~a -- vran -- no,
     Ohi -- mè! per for -- za~a -- vran -- no col -- to,
     Ohi -- mè! per for -- za~a -- vran -- no col -- to~e gua -- sto.
@@ -87,16 +87,16 @@ altoXXII = \relative c'' {
 altoLyricsXXII = \lyricmode {
     Do -- ve, spe -- ran -- za mia, do -- ve~o -- ra __ se -- i?
     Vai tu so -- let -- ta for -- se~an -- cor __ er -- ran -- do? __
-    O pur t’han -- no tro -- va  -- ta~i lu -- pi re -- i
+    O pur t'han -- no tro -- va  -- ta~i lu -- pi re -- i
     Sen -- za la guar -- dia del tuo fi -- do~Or -- lan -- do,
         del tuo fi -- do~Or -- lan -- do?
-    E'l fior ch’in ciel po -- te -- a por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do,
+    E'l fior ch'in ciel po -- te -- a por -- mi fra~i de -- i,
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do,
         io mi ve -- nia ser -- ban -- do,
         io mi ve -- nia __ ser -- ban -- do,
     Per non tur -- bar -- ti,~ohi -- mè,
-        ohi -- mè! l’a -- ni -- mo,
-            l’a -- ni -- mo ca -- sto,
+        ohi -- mè! l'a -- ni -- mo,
+            l'a -- ni -- mo ca -- sto,
     Ohi -- mè! per for -- za~a -- vran -- no col -- to~e gua -- sto,
     Ohi -- mè! per for -- za~a -- vran -- no,
     Ohi -- mè! per for -- za~a -- vran -- no col -- to~e gua -- sto.
@@ -137,14 +137,14 @@ tenoreXXII = \relative c'' {
 tenoreLyricsXXII = \lyricmode {
     Do -- ve, spe -- ran -- za mi -- a, do -- ve~o -- ra se -- i?
     Vai tu so -- let -- ta for -- se~an -- cor __ er -- ran -- do? __
-    O pur t’han -- no tro -- va  -- ta i lu -- pi re -- i
+    O pur t'han -- no tro -- va  -- ta i lu -- pi re -- i
     Sen -- za la guar -- dia del tuo fi -- do~Or -- lan -- do,
         del tuo fi -- do~Or -- lan -- do?
-    E'l fior ch’in ciel po -- tea por -- mi fra~i __ de -- i,
-    Il fior __ ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do,
+    E'l fior ch'in ciel po -- tea por -- mi fra~i __ de -- i,
+    Il fior __ ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do,
         io mi ve -- nia ser -- ban -- do
     Per non tur -- bar -- ti,~ohi -- mè!
-        ohi -- mè! l’a -- ni -- mo ca -- sto,
+        ohi -- mè! l'a -- ni -- mo ca -- sto,
     Ohi -- mè! per for -- za~a -- vran -- no,
     Ohi -- mè! per for -- za~a -- vran -- no col -- to~e gua -- sto,
     Ohi -- mè! per for -- za~a -- vran -- no col -- to~e gua -- sto.
@@ -183,14 +183,14 @@ bassoXXII = \relative c' {
 bassoLyricsXXII = \lyricmode {
     Do -- ve, spe -- ran -- za mi -- a, 
     Vai tu so -- let -- ta for -- se~an -- cor __ er -- ran -- do? __
-    O pur t’han -- no tro -- va  -- ta
+    O pur t'han -- no tro -- va  -- ta
     Sen -- za la guar -- dia del tuo fi -- do~Or -- lan -- do,
         del tuo fi -- do~Or -- lan -- do?
-    E'l fior ch’in ciel po -- tea __ por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do,
+    E'l fior ch'in ciel po -- tea __ por -- mi fra~i de -- i,
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do,
         io mi __ ve -- nia ser -- ban -- do
     Per non tur -- bar -- ti,~ohi -- mè!
-        ohi -- mè! l’a -- ni -- mo ca -- sto,
+        ohi -- mè! l'a -- ni -- mo ca -- sto,
     Ohi -- mè! per for -- za~a -- vran -- no,
     Ohi -- mè! per for -- za~a -- vran -- no col -- to,
     Ohi -- mè! per for -- za~a -- vran -- no col -- to~e gua -- sto.

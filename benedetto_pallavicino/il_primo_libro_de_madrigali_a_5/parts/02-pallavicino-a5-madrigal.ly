@@ -1,9 +1,9 @@
-% Allor ch’io senti’l cor dentro, e d’intorno
+% Allor ch'io senti'l cor dentro, e d'intorno
 % Di fiamma viva, e di catene salde
 % Acceso, e cinto, perché pur sempre ami.
 % 
 % Una man bianca, ed un bel viso adorno
-% Vuol che m’allacci Amor, vuol che mi scalde:
+% Vuol che m'allacci Amor, vuol che mi scalde:
 % Dolce mio foco, e miei cari legami!
 cantoIIincipit = \relative c'' {
     \clef "petrucci-c1"
@@ -38,12 +38,12 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    Al -- lor ch’io sen -- ti’l cor den -- tro~e d'in -- tor -- no,
-    al -- lor ch’io sen -- ti’l cor,
+    Al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no,
+    al -- lor ch'io sen -- ti'l cor,
     \ijLyrics
-    al -- lor ch’io sen -- ti’l cor
+    al -- lor ch'io sen -- ti'l cor
     \normalLyrics
-        den -- tro~e d’in -- tor -- no
+        den -- tro~e d'in -- tor -- no
     Di fiam -- ma vi -- va,
     di fiam -- ma vi -- va, e di ca -- te -- ne,
         e di ca -- te -- ne sal -- de
@@ -59,7 +59,7 @@ cantoLyricsII = \lyricmode {
     u -- na man bian -- ca,
         ed un bel vi -- so~a -- dor -- no,
         ed un bel vi -- so~a -- dor -- no
-    Vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de:
+    Vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de:
     Dol -- ce mio fo -- co,
     \ijLyrics
     dol -- ce mio fo -- co,
@@ -104,8 +104,8 @@ altoII = \relative c'' {
 }
 
 altoLyricsII = \lyricmode {
-    Al -- lor ch’io sen -- ti’l cor den -- tro~e d'in -- tor -- no,
-    al -- lor ch’io sen -- ti’l cor den -- tro~e d'in -- tor -- no,
+    Al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no,
+    al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no,
     Di fiam -- ma vi -- va,
     di fiam -- ma vi -- va, e di ca -- te -- ne,
         e di ca -- te -- ne sal -- de
@@ -122,9 +122,9 @@ altoLyricsII = \lyricmode {
         ed un bel vi -- so~a -- dor -- no,
     u -- na man bian -- ca,
         ed un bel vi -- so~a -- dor -- no
-    Vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de:
+    Vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de:
     \ijLyrics
-    vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de:
+    vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de:
     \normalLyrics
     Dol -- ce mio fo -- co,
     dol -- ce mio fo -- co,
@@ -169,8 +169,8 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
-    Al -- lor ch’io sen -- ti’l cor den -- tro~e d'in -- tor -- no,
-    al -- lor ch’io sen -- ti’l cor den -- tro~e d'in -- tor -- no,
+    Al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no,
+    al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no,
         den -- tro~e d'in -- tor -- no,
     Di fiam -- ma vi -- va,
     di fiam -- ma vi -- va, e di ca -- te -- ne,
@@ -185,9 +185,9 @@ tenoreLyricsII = \lyricmode {
     u -- na man bian -- ca,
         ed un bel vi -- so~a -- dor -- no,
         ed un bel vi -- so~a -- dor -- no
-    Vuol che __ m’al -- lac -- ci~A -- mor, vuol che mi scal -- de,
+    Vuol che __ m'al -- lac -- ci~A -- mor, vuol che mi scal -- de,
     \ijLyrics
-    vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de:
+    vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de:
     \normalLyrics
     Dol -- ce mio fo -- co,
     dol -- ce mio fo -- co,
@@ -228,7 +228,7 @@ bassoII = \relative c {
 }
 
 bassoLyricsII = \lyricmode {
-    Al -- lor ch’io sen -- ti’l cor den -- tro~e d'in -- tor -- no,
+    Al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no,
     Di fiam -- ma vi -- va,
     di fiam -- ma vi -- va,
     \ijLyrics
@@ -242,7 +242,7 @@ bassoLyricsII = \lyricmode {
 
     U -- na man bian -- ca, ed un bel vi -- so~a -- dor -- no,
     u -- na man bian -- ca, ed un bel vi -- so~a -- dor -- no,
-    Vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de:
+    Vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de:
     Dol -- ce mio fo -- co,
     \ijLyrics
     dol -- ce mio fo -- co,
@@ -285,8 +285,8 @@ quintoII = \relative c' {
 }
 
 quintoLyricsII = \lyricmode {
-    Al -- lor ch’io sen -- ti’l cor den -- tro~e d'in -- tor -- no,
-    al -- lor ch’io sen -- ti’l cor den -- tro~e d'in -- tor -- no,
+    Al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no,
+    al -- lor ch'io sen -- ti'l cor den -- tro~e d'in -- tor -- no,
     Di fiam -- ma vi -- va,
     \ijLyrics
     di fiam -- ma vi -- va,
@@ -302,9 +302,9 @@ quintoLyricsII = \lyricmode {
     u -- na man bian -- ca,
         ed un bel vi -- so~a -- dor -- no,
         ed un bel vi -- so~a -- dor -- no
-    Vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de,
+    Vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de,
     \ijLyrics
-    vuol che m’al -- lac -- ci~A -- mor, vuol che mi scal -- de:
+    vuol che m'al -- lac -- ci~A -- mor, vuol che mi scal -- de:
     \normalLyrics
     Dol -- ce mio fo -- co,
     dol -- ce mio fo -- co,

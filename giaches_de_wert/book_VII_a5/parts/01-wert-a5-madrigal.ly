@@ -9,7 +9,7 @@
 % Securo ogni animal viva, ogni stelo.
 % 
 % Scendi Imeneo! Copia di te sì degna 
-% Non strinse unqua il tuo nodo. Ecco ch’unita
+% Non strinse unqua il tuo nodo. Ecco ch'unita
 % Già di fede e d'Amor te solo aspetta.
 % 
 % Or ciò che Manto lor predice e insegna 

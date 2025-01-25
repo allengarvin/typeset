@@ -33,15 +33,15 @@ cantoXX = \relative c'' {
 cantoLyricsXX = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è __ sì ca -- ro,
+    On -- de, per -- fi -- do~av -- vien che t'è __ sì ca -- ro,
     Il di -- scor -- de vo -- ler,
-    il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Gir non mi las -- si al fa -- cil gua -- do~e chia -- ro,
     E nel più cie -- co,
     e nel più cie -- co, e mag -- gior fon -- do ti -- ri,
     Da chi di -- sia~il mio~a -- mor tu mi ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-    e chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi.
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+    e chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi.
 }
 
 tenoreXXincipit = \relative c' {
@@ -78,14 +78,14 @@ tenoreXX = \relative c' {
 tenoreLyricsXX = \lyricmode {
     In -- giu -- stis -- si -- mo~A -- mor, per -- ché sì ra -- ro,
     Cor -- ri -- spon -- den -- ti fai no -- stri de -- si -- ri?
-    On -- de, per -- fi -- do~av -- vien che t’è __ sì ca -- ro,
-    Il di -- scor -- de vo -- ler ch’in duo cor mi -- ri?
+    On -- de, per -- fi -- do~av -- vien che t'è __ sì ca -- ro,
+    Il di -- scor -- de vo -- ler ch'in duo cor mi -- ri?
     Gir non mi las -- si al fa -- cil gua -- do~e chia -- ro,
     E nel più cie -- co, e mag -- gior fon -- do ti -- ri,
     Da chi di -- sia~il mio~a -- mor,
     da chi di -- sia~il mio~a -- mor tu __ mi ri -- chia -- mi,
-    E chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi,
-    e chi m’ha~in o -- dio vuoi ch’a -- do -- ri~et a -- mi.
+    E chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi,
+    e chi m'ha~in o -- dio vuoi ch'a -- do -- ri~et a -- mi.
 }
 
 cantoXXincipitVoice = <<

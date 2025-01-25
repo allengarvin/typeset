@@ -1,11 +1,11 @@
-% La bella Ninfa mia, ch’al Tebro infiora
-% Col piè le sponde, e co’ begli occhi affrena
+% La bella Ninfa mia, ch'al Tebro infiora
+% Col piè le sponde, e co' begli occhi affrena
 % Rapido corso, allor che discolora
 % Le piagge il ghiaccio, con sì dolce pena
-% A seguir le tue arme m’innamora,
-% Ch’io piango, e rido, e non la scorgo appena,
-% Ch’io scopro in lei mille vaghezze ascose,
-% Ed entro a l’alma un bel giardin di rose.
+% A seguir le tue arme m'innamora,
+% Ch'io piango, e rido, e non la scorgo appena,
+% Ch'io scopro in lei mille vaghezze ascose,
+% Ed entro a l'alma un bel giardin di rose.
 % -- Francesco Maria Molza
 
 cantoXIIincipit = \relative c'' {
@@ -48,20 +48,20 @@ cantoLyricsXII = \lyricmode {
     \ijLyrics
     La bel -- la Nin -- fa mia, 
     \normalLyrics
-        ch’al Te -- bro~in -- fio -- ra
-    % Col piè le spon -- de~e co’ be -- gli~oc -- chi~af -- fre -- na
+        ch'al Te -- bro~in -- fio -- ra
+    % Col piè le spon -- de~e co' be -- gli~oc -- chi~af -- fre -- na
     Ra -- pi -- do cor -- so, 
     Ra -- pi -- do cor -- so, al -- lor che di -- sco -- lo -- ra
     Le piag -- ge~il ghiac -- cio, con __ sì dol -- ce pe -- na
     A se -- guir le su -- e~or -- me,
-    A se -- guir le su -- e~or -- me m’in -- na -- mo -- ra,
-    Ch’io pian -- go, e ri -- do, 
+    A se -- guir le su -- e~or -- me m'in -- na -- mo -- ra,
+    Ch'io pian -- go, e ri -- do, 
         e ri -- do, % e non la scor -- go~a pe -- na,
-    Ch’io sco -- pro~in lei 
+    Ch'io sco -- pro~in lei 
         e non la scor -- go~a pe -- na, __
-    Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
+    Ch'io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze~a -- sco -- se,
-    % Ed en -- tro~a l’al -- ma un bel giar -- din di ro -- se.
+    % Ed en -- tro~a l'al -- ma un bel giar -- din di ro -- se.
         un bel giar -- din di __ ro -- se,
     \ijLyrics
         un bel giar -- din di ro -- se,
@@ -112,22 +112,22 @@ altoLyricsXII = \lyricmode {
     \ijLyrics
     La bel -- la Nin -- fa mia, 
     \normalLyrics
-        ch’al Te -- bro~in -- fio -- ra
-    Col __ piè le spon -- de~e co’ be -- gli~oc -- chi~af -- fre -- na, __
+        ch'al Te -- bro~in -- fio -- ra
+    Col __ piè le spon -- de~e co' be -- gli~oc -- chi~af -- fre -- na, __
         af -- fre -- na
     Ra -- pi -- do cor -- so, al -- lor che di -- sco -- lo -- ra
     Le piag -- ge~il ghiac -- cio, con __ sì dol -- ce pe -- na
-    A se -- guir le su -- e~or -- me m’in -- na -- mo -- ra,
-        m’in -- na -- mo -- ra,
-    Ch’io pian -- go, e ri -- do, 
+    A se -- guir le su -- e~or -- me m'in -- na -- mo -- ra,
+        m'in -- na -- mo -- ra,
+    Ch'io pian -- go, e ri -- do, 
         e ri -- do, e non la scor -- go~a pe -- na,
-    Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
+    Ch'io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze,
         mil -- le va -- ghez -- ze~a -- sco -- se,
     \ijLyrics
         mil -- le va -- ghez -- ze~a -- sco -- se,
     \normalLyrics
-    Ed en -- tro~a l’al -- ma un bel giar -- din di ro -- se, __
+    Ed en -- tro~a l'al -- ma un bel giar -- din di ro -- se, __
         un bel giar -- din di ro -- se,
         un bel giar -- din di __ ro -- se.
 }
@@ -173,18 +173,18 @@ tenoreLyricsXII = \lyricmode {
     \ijLyrics
     La bel -- la Nin -- fa mia, 
     \normalLyrics
-        ch’al Te -- bro~in -- fio -- ra
-    Col piè le spon -- de~e co’ be -- gli~oc -- chi~af -- fre -- na
+        ch'al Te -- bro~in -- fio -- ra
+    Col piè le spon -- de~e co' be -- gli~oc -- chi~af -- fre -- na
     Ra -- pi -- do cor -- so, 
     Ra -- pi -- do cor -- so, al -- lor che di -- sco -- lo -- ra
     Le piag -- ge~il ghiac -- cio, con __ sì dol -- ce pe -- na __
-        m’in -- na -- mo -- ra,
-        m’in -- na -- mo -- ra,
-    Ch’io pian -- go, e ri -- do, __
+        m'in -- na -- mo -- ra,
+        m'in -- na -- mo -- ra,
+    Ch'io pian -- go, e ri -- do, __
         e non la scor -- go~a pe -- na,
-    Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
+    Ch'io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze~a -- sco -- se,
-    Ed __ en -- tro~a l’al -- ma un bel giar -- din di __ ro -- se,
+    Ed __ en -- tro~a l'al -- ma un bel giar -- din di __ ro -- se,
         un bel giar -- din, __
         un bel giar -- din di ro -- se.
 }
@@ -224,21 +224,21 @@ bassoXII = \relative c' {
 }
 
 bassoLyricsXII = \lyricmode {
-    La bel -- la Nin -- fa mia, ch’al Te -- bro~in -- fio -- ra
-    Col piè le spon -- de~e co’ be -- gli~oc -- chi~af -- fre -- na
+    La bel -- la Nin -- fa mia, ch'al Te -- bro~in -- fio -- ra
+    Col piè le spon -- de~e co' be -- gli~oc -- chi~af -- fre -- na
     Ra -- pi -- do cor -- so, 
     Ra -- pi -- do cor -- so, 
         con __ sì dol -- ce pe -- na
     A se -- guir le su -- e~or -- me,
-    A se -- guir le su -- e~or -- me m’in -- na -- mo -- ra,
-         m’in -- na -- mo -- ra,
-    Ch’io pian -- go, 
+    A se -- guir le su -- e~or -- me m'in -- na -- mo -- ra,
+         m'in -- na -- mo -- ra,
+    Ch'io pian -- go, 
         e non la scor -- go~a pe -- na,
-    Ch’io sco -- pro~in lei 
-    Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
+    Ch'io sco -- pro~in lei 
+    Ch'io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze~a -- sco -- se,
-    Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
-    Ed en -- tro~a l’al -- ma __ un bel giar -- din di ro -- se,
+    Ch'io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
+    Ed en -- tro~a l'al -- ma __ un bel giar -- din di ro -- se,
         un bel giar -- din di ro -- se.
 }
 
@@ -285,22 +285,22 @@ quintoLyricsXII = \lyricmode {
     \ijLyrics
     La bel -- la Nin -- fa mia, 
     \normalLyrics
-        ch’al Te -- bro~in -- fio -- ra
-    Col piè le spon -- de~e co’ be -- gli~oc -- chi~af -- fre -- na
+        ch'al Te -- bro~in -- fio -- ra
+    Col piè le spon -- de~e co' be -- gli~oc -- chi~af -- fre -- na
     Ra -- pi -- do cor -- so, 
     Ra -- pi -- do cor -- so, al -- lor che di -- sco -- lo -- ra
     Le piag -- ge~il ghiac -- cio, con __ sì dol -- ce pe -- na
-    A se -- guir le su -- e~or -- me m’in -- na -- mo -- ra,
-        m’in -- na -- mo -- ra,
-    Ch’io pian -- go, 
+    A se -- guir le su -- e~or -- me m'in -- na -- mo -- ra,
+        m'in -- na -- mo -- ra,
+    Ch'io pian -- go, 
     \ijLyrics
-    Ch’io pian -- go,
+    Ch'io pian -- go,
     \normalLyrics
         e non la scor -- go~a pe -- na,
         e non la scor -- go~a pe -- na,
-    Ch’io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
+    Ch'io sco -- pro~in lei mil -- le va -- ghez -- ze~a -- sco -- se,
         mil -- le va -- ghez -- ze~a -- sco -- se,
-    Ed en -- tro~a l’al -- ma un bel giar -- din di ro -- se,
+    Ed en -- tro~a l'al -- ma un bel giar -- din di ro -- se,
         un bel giar -- din,
         un bel giar -- din di ro -- se.
 }

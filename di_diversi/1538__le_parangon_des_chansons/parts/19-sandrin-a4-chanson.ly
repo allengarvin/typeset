@@ -54,7 +54,7 @@ superiusLyricsXIX = \lyricmode {
     Qui à nos maulx a sceut si bien pour -- voir
     Or main -- te -- nant a per -- du son pou -- voir,
     Rom -- pant le but de ma seul -- le~e -- spé -- ran -- ce
-    Ser -- vant d’e -- xem -- ple à tous pi -- teux à voir
+    Ser -- vant d'e -- xem -- ple à tous pi -- teux à voir
     Fi -- ni __ le bien, le mal sou -- dain com -- men -- ce, __
     Fi -- ni __ le bien, le mal sou -- dain com -- men -- ce. __
 }
@@ -112,7 +112,7 @@ altusLyricsXIX = \lyricmode {
     Qui à nos maulx __ a sceut si bien pour -- voir
     Or main -- te -- nant __ a per -- du son pou -- voir,
     Rom -- pant le but de ma seul -- le~e -- spé -- ran -- ce
-    Ser -- vant d’e -- xem -- ple __ à tous pi -- teux à voir
+    Ser -- vant d'e -- xem -- ple __ à tous pi -- teux à voir
     Fi -- ni le bien, le mal sou -- dain __ com -- men -- ce,
     Fi -- ni le bien, __ le mal sou -- dain __
     \ijLyrics
@@ -171,7 +171,7 @@ tenorLyricsXIX = \lyricmode {
 
     Or main -- te -- nant a per -- du son pou -- voir,
     Rom -- pant le but de ma seul -- le~e -- spé -- ran -- ce
-    Ser -- vant d’e -- xem -- ple à tous pi -- teux à voir
+    Ser -- vant d'e -- xem -- ple à tous pi -- teux à voir
     Fi -- ni le bien, le mal sou -- dain com -- men -- ce,
         \ijLyrics
             com -- men -- ce,
@@ -233,7 +233,7 @@ bassusLyricsXIX = \lyricmode {
 
     Or main -- te -- nant a per -- du son pou -- voir,
     Rom -- pant le but de ma seul -- le~e -- spé -- ran -- ce
-    Ser -- vant d’e -- xem -- ple à tous pi -- teux à voir __
+    Ser -- vant d'e -- xem -- ple à tous pi -- teux à voir __
     Fi -- ni le bien, le mal sou -- dain com -- men -- ce,
     \ijLyrics
         le mal sou -- dain com -- men -- ce, __

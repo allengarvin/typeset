@@ -44,9 +44,9 @@ cantusLyricsXIV = \lyricmode {
     \normalLyrics
     Fug -- ge per quel -- la vi -- a ch'a gli~oc -- chi me -- na;
     Et è quel che si ver -- sa, en -- trar -- rà~in -- sie -- me
-    Il do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me,
+    Il do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me,
     et è quel che si ver -- sa, en -- trar -- rà~in -- sie -- me
-    Il do -- lo -- r'e la vi -- ta al -- l’o -- re~e -- stre -- me. __
+    Il do -- lo -- r'e la vi -- ta al -- l'o -- re~e -- stre -- me. __
 }
 
 altusXIVincipit = \relative c' {
@@ -94,11 +94,11 @@ altusLyricsXIV = \lyricmode {
     Dal fuo -- co spin -- to o -- r'e~il vi -- tal u -- mo -- re,
     Fug -- ge per quel -- la vi -- a ch'a gli~oc -- chi me -- na;
     Et è quel che si ver -- sa, en -- trar -- rà~in -- sie -- me
-    Il do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me,
-        al -- l’o -- re~e -- stre -- me,
+    Il do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me,
+        al -- l'o -- re~e -- stre -- me,
     et è quel che si ver -- sa, en -- trar -- rà~in -- sie -- me
-    Il do -- lo -- r'e la vi -- t'al -- l’o -- re~e -- stre -- me,
-    il do -- lo -- r'e la vi -- ta al -- l’o -- re~e -- stre -- me. __
+    Il do -- lo -- r'e la vi -- t'al -- l'o -- re~e -- stre -- me,
+    il do -- lo -- r'e la vi -- ta al -- l'o -- re~e -- stre -- me. __
 }
 
 tenorXIVincipit = \relative c' {
@@ -154,12 +154,12 @@ tenorLyricsXIV = \lyricmode {
     Dal fuo -- co spin -- t'o -- r'e~il vi -- tal u -- mo -- re,
     Fug -- ge per quel -- la vi -- a ch'a gli~oc -- chi me -- na;
     Et è quel che si ver -- sa,
-    Il do -- lo -- r'e la vi -- t'al -- l’o -- re~e -- stre -- me,
-        al -- l’o -- re~e -- stre -- me, __
+    Il do -- lo -- r'e la vi -- t'al -- l'o -- re~e -- stre -- me,
+        al -- l'o -- re~e -- stre -- me, __
     et è quel che si ver -- sa, 
-    il do -- lo -- r'e la vi -- t'al -- l’o -- re~e -- stre -- me,
-    il do -- lo -- r'e la vi -- t'al -- l’o -- re~e -- stre -- me,
-        al -- l’o -- re~e -- stre -- me. __
+    il do -- lo -- r'e la vi -- t'al -- l'o -- re~e -- stre -- me,
+    il do -- lo -- r'e la vi -- t'al -- l'o -- re~e -- stre -- me,
+        al -- l'o -- re~e -- stre -- me. __
 }
 
 bassusXIVincipit = \relative c {
@@ -205,13 +205,13 @@ bassusLyricsXIV = \lyricmode {
     Fug -- ge per quel -- la vi -- a ch'a gli~oc -- chi me -- na;
     Et è quel che si ver -- sa,
         si ver -- sa~en -- trar -- rà~in -- sie -- me
-    Il do -- lo -- r'e la vi -- ta~al -- l’o -- re~e -- stre -- me, __
-        al -- l’o -- re~e -- stre -- me, __
+    Il do -- lo -- r'e la vi -- ta~al -- l'o -- re~e -- stre -- me, __
+        al -- l'o -- re~e -- stre -- me, __
     et è quel che si ver -- sa,
         si ver -- sa~en -- trar -- rà~in -- sie -- me
-    il do -- lo -- r'e la vi -- t'al -- l’o -- re~e -- stre -- me,
-    il do -- lo -- r'e la vi -- t'al -- l’o -- re~e -- stre -- me,
-        al -- l’o -- re~e -- stre -- me. __
+    il do -- lo -- r'e la vi -- t'al -- l'o -- re~e -- stre -- me,
+    il do -- lo -- r'e la vi -- t'al -- l'o -- re~e -- stre -- me,
+        al -- l'o -- re~e -- stre -- me. __
 }
 
 quintusXIVincipit = \relative c' {
@@ -260,11 +260,11 @@ quintusLyricsXIV = \lyricmode {
     Dal fuo -- co spin -- to o -- r'e~il vi -- tal u -- mo -- re,
     Fug -- ge per quel -- la vi -- a ch'a gli~oc -- chi me -- na;
     Et è quel che si ver -- sa, __ 
-    Il do -- lo -- r'e la vi -- ta al -- l’o -- re~e -- stre -- me, __
-        al -- l’o -- re~e -- stre -- me, __
+    Il do -- lo -- r'e la vi -- ta al -- l'o -- re~e -- stre -- me, __
+        al -- l'o -- re~e -- stre -- me, __
     et è quel che si ver -- sa, 
-    Il do -- lo -- r'e la vi -- ta al -- l’o -- re~e -- stre -- me,
-    Il do -- lo -- r'e la vi -- ta al -- l’o -- re~e -- stre -- me.
+    Il do -- lo -- r'e la vi -- ta al -- l'o -- re~e -- stre -- me,
+    Il do -- lo -- r'e la vi -- ta al -- l'o -- re~e -- stre -- me.
 }
 
 sextusXIVincipit = \relative c {
@@ -317,11 +317,11 @@ sextusLyricsXIV = \lyricmode {
     Dal fuo -- co spin -- to o -- r'e~il vi -- tal u -- mo -- re,
     Fug -- ge per quel -- la vi -- a ch'a gli~oc -- chi me -- na;
     Et è quel che si ver -- sa, en -- trar -- rà~in -- sie -- me
-    Il do -- lo -- r'e la vi -- t'al -- l’o -- re~e -- stre -- me,
+    Il do -- lo -- r'e la vi -- t'al -- l'o -- re~e -- stre -- me,
         e -- stre -- me,
     et è quel che si ver -- sa, en -- trar -- rà~in -- sie -- me
-    il do -- lo -- r'e la vi -- t'al -- l’o -- re~e -- stre -- me,
-    il do -- lo -- r'e la vi -- t'al -- l’o -- re~e -- stre -- me. __
+    il do -- lo -- r'e la vi -- t'al -- l'o -- re~e -- stre -- me,
+    il do -- lo -- r'e la vi -- t'al -- l'o -- re~e -- stre -- me. __
 }
 
 cantusXIVincipitVoice = <<

@@ -1,12 +1,12 @@
 %Di virtù, di costumi, di valore,
-%D’onestà singular e leggiadria,
-%Mostrar l’orecchie al cor la donna mia,
-%U’ dentro la scolpì subito Amore.
+%D'onestà singular e leggiadria,
+%Mostrar l'orecchie al cor la donna mia,
+%U' dentro la scolpì subito Amore.
 %
-%Vide la non sol tal per gli occh’il core,
-%Ma bell’ancor più ch’altra donna sia,
+%Vide la non sol tal per gli occh'il core,
+%Ma bell'ancor più ch'altra donna sia,
 %Saggia oltra modo e a me tanto pia
-%Ch’io vivo sol del suo divin splendore.
+%Ch'io vivo sol del suo divin splendore.
 cantoXIIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c1"
@@ -46,18 +46,18 @@ cantoXII = \relative c'' {
 
 cantoLyricsXII = \lyricmode {
     Di vir -- tù, __ di co -- stu -- mi, di va -- lo -- re,
-    D’o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
-    Mo -- strar l’o -- rec -- chie~al cor la don -- na mi -- a,
-    U’ den -- tro la scol -- pì,
-    u’ den -- tro la scol -- pì su -- bi -- to~A -- mo -- re. __
+    D'o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
+    Mo -- strar l'o -- rec -- chie~al cor la don -- na mi -- a,
+    U' den -- tro la scol -- pì,
+    u' den -- tro la scol -- pì su -- bi -- to~A -- mo -- re. __
 
-    Vi -- de la non sol tal __ per gli~oc -- ch’il co -- re,
-    vi -- de la non sol tal per gli~oc -- ch’il co -- re,
-    Ma bel -- l’an -- cor più ch’al -- tra don -- na si -- a,
+    Vi -- de la non sol tal __ per gli~oc -- ch'il co -- re,
+    vi -- de la non sol tal per gli~oc -- ch'il co -- re,
+    Ma bel -- l'an -- cor più ch'al -- tra don -- na si -- a,
     Sag -- gia~ol -- tra mo -- do ed a me tan -- to pi -- a,
         ed __ a me tan -- to pi -- a
-    Ch’io vi -- vo sol __ del suo di -- vin splen -- do -- re.
-    ch’io __ vi -- vo sol del suo di -- vin splen -- do -- re.
+    Ch'io vi -- vo sol __ del suo di -- vin splen -- do -- re.
+    ch'io __ vi -- vo sol del suo di -- vin splen -- do -- re.
 }
 
 altoXIIincipit = \relative c' {
@@ -99,28 +99,28 @@ altoXII = \relative c' {
 
 altoLyricsXII = \lyricmode {
     Di vir -- tù, di __ co -- stu -- mi~e di __ va -- lo -- re,
-    D’o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
-    Mo -- strar l’o -- rec -- chie~al cor la don -- na mi -- a,
-    U’ den -- tro la scol -- pì su -- bi -- to~A -- mo -- re,
+    D'o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
+    Mo -- strar l'o -- rec -- chie~al cor la don -- na mi -- a,
+    U' den -- tro la scol -- pì su -- bi -- to~A -- mo -- re,
         den -- tro la scol -- pì su -- bi -- to~A -- mo -- re. __
 
     Vi -- de la non sol tal,
-    vi -- de la non sol tal per gli~oc -- ch’il co -- re,
-    Ma bel -- l’an -- cor più ch’al -- tra don -- na si -- a,
+    vi -- de la non sol tal per gli~oc -- ch'il co -- re,
+    Ma bel -- l'an -- cor più ch'al -- tra don -- na si -- a,
     Sag -- gia~ol -- tra mo -- do,
     \ijLyrics
     sag -- gia~ol -- tra mo -- do
     \normalLyrics
         ed __ a me tan -- to pi -- a,
         ed __ a me tan -- to pi -- a
-    Ch’io vi -- vo sol,
+    Ch'io vi -- vo sol,
     \ijLyrics
-    ch’io __ vi -- vo sol 
+    ch'io __ vi -- vo sol 
     \normalLyrics
         del suo di -- vin splen -- do -- re.
-    ch’io vi -- vo sol,
+    ch'io vi -- vo sol,
     \ijLyrics
-    ch’io vi -- vo sol 
+    ch'io vi -- vo sol 
     \normalLyrics
         del suo di -- vin __ splen -- do -- re.
 }
@@ -163,21 +163,21 @@ tenoreXII = \relative c' {
 
 tenoreLyricsXII = \lyricmode {
     Di vir -- tù, di __ co -- stu -- mi~e di va -- lo -- re,
-    D’o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
-    Mo -- strar l’o -- rec -- chie~al cor la don -- na mi -- a,
-    U’ den -- tro la scol -- pì,
+    D'o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
+    Mo -- strar l'o -- rec -- chie~al cor la don -- na mi -- a,
+    U' den -- tro la scol -- pì,
         den -- tro la scol -- pì su -- bi -- to~A -- mo -- re.
 
-    Vi -- de la non sol tal __ per gli~oc -- ch’il co -- re,
-    Ma bel -- l’an -- cor più ch’al -- tra don -- na si -- a,
+    Vi -- de la non sol tal __ per gli~oc -- ch'il co -- re,
+    Ma bel -- l'an -- cor più ch'al -- tra don -- na si -- a,
     Sag -- gia~ol -- tra mo -- do ed a me tan -- to pi -- a,
         ed __ a me tan -- to pi -- a
-    Ch’io vi -- vo sol,
+    Ch'io vi -- vo sol,
     \ijLyrics
-    ch’io vi -- vo sol 
+    ch'io vi -- vo sol 
     \normalLyrics
         del suo di -- vin splen -- do -- re.
-    ch’io vi -- vo sol del suo di -- vin splen -- do -- re.
+    ch'io vi -- vo sol del suo di -- vin splen -- do -- re.
 }
 
 bassoXIIincipit = \relative c {
@@ -215,19 +215,19 @@ bassoXII = \relative c {
 
 bassoLyricsXII = \lyricmode {
     Di vir -- tù, di co -- stu -- mi~e di __ va -- lo -- re,
-%    D’o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
-    Mo -- strar l’o -- rec -- chie~al cor la don -- na mi -- a,
-    U’ den -- tro la scol -- pì su -- bi -- to~A -- mo -- re.
+%    D'o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
+    Mo -- strar l'o -- rec -- chie~al cor la don -- na mi -- a,
+    U' den -- tro la scol -- pì su -- bi -- to~A -- mo -- re.
 
-    Vi -- de la non sol tal per gli~oc -- ch’il co -- re,
-    vi -- de la non sol tal per gli~oc -- ch’il co -- re,
-    Ma bel -- l’an -- cor più ch’al -- tra don -- na si -- a,
+    Vi -- de la non sol tal per gli~oc -- ch'il co -- re,
+    vi -- de la non sol tal per gli~oc -- ch'il co -- re,
+    Ma bel -- l'an -- cor più ch'al -- tra don -- na si -- a,
     Sag -- gia~ol -- tra mo -- do,
     \ijLyrics
     sag -- gia~ol -- tra mo -- do 
     \normalLyrics
         ed __ a me tan -- to pi -- a,
-    Ch’io vi -- vo sol del suo di -- vin splen -- do -- re.
+    Ch'io vi -- vo sol del suo di -- vin splen -- do -- re.
 }
 
 quintoXIIincipit = \relative c' {
@@ -268,21 +268,21 @@ quintoXII = \relative c' {
 
 quintoLyricsXII = \lyricmode {
     Di __ vir -- tù, di co -- stu -- mi~e di __ va -- lo -- re,
-    D’o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
-    Mo -- strar l’o -- rec -- chie~al cor la don -- na mi -- a,
-    U’ den -- tro la scol -- pì su -- bi -- to~A -- mo -- re~u
+    D'o -- ne -- stà sin -- gu -- lar e leg -- gia -- dri -- a,
+    Mo -- strar l'o -- rec -- chie~al cor la don -- na mi -- a,
+    U' den -- tro la scol -- pì su -- bi -- to~A -- mo -- re~u
         den -- tro la scol -- pì su -- bi -- to~A -- mo -- re.
 
-    Vi -- de la non sol tal per gli~oc -- ch’il co -- re,
-    vi -- de la non sol tal __ per gli~oc -- ch’il co -- re,
-    Ma bel -- l’an -- cor più ch’al -- tra don -- na si -- a,
+    Vi -- de la non sol tal per gli~oc -- ch'il co -- re,
+    vi -- de la non sol tal __ per gli~oc -- ch'il co -- re,
+    Ma bel -- l'an -- cor più ch'al -- tra don -- na si -- a,
     Sag -- gia~ol -- tra mo -- do,
     \ijLyrics
     sag -- gia~ol -- tra mo -- do 
     \normalLyrics
         ed a me tan -- to pi -- a
-    Ch’io vi -- vo sol __ del suo di -- vin splen -- do -- re.
-    ch’io vi -- vo sol __ del suo di -- vin splen -- do -- re.
+    Ch'io vi -- vo sol __ del suo di -- vin splen -- do -- re.
+    ch'io vi -- vo sol __ del suo di -- vin splen -- do -- re.
 }
 
 cantoXIIincipitVoice = <<

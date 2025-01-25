@@ -1,5 +1,5 @@
 %Amanti, io vi so dire
-%ch’è meglio assai fuggire
+%ch'è meglio assai fuggire
 %bella Donna vezzosa
 %ò sia cruda ò pietosa
 %ad ogni modo e via
@@ -13,27 +13,27 @@
 %rose non dona mai senza le spine.
 %
 %La speme del gioire
-%fondata è sù’l martire,
+%fondata è sù'l martire,
 %bellezza e cortesia
 %non stanno in compagnia,
 %sò ben dir con mio danno
-%che la morte ed’amor insieme vanno.
+%che la morte ed'amor insieme vanno.
 %
 %Vi vuol pianti a diluvi
 %per spegner i vesuvi
-%d’un cor innamorato,
-%d’un spirito infiammato;
+%d'un cor innamorato,
+%d'un spirito infiammato;
 %pria che si giunga in porto,
 %quante volte si dice:
 %ohimè son morto.
 %
-%Credete’l à costui che per prova può dir
-%io vidi io fui. Se creder no’l volete
+%Credete'l à costui che per prova può dir
+%io vidi io fui. Se creder no'l volete
 %lasciate star che poco importa à me.
-%Seguitate ad’amar ad’ogni modo,
+%Seguitate ad'amar ad'ogni modo,
 %chi dè rompersi il collo.
 %Non accade che schivi.
-%Od’erta ò fondo
+%Od'erta ò fondo
 %che per proverbio senti sempre dire
 %dal destinato non si può fuggire.
 %
@@ -41,7 +41,7 @@
 %amor so i fatti miei.
 %Non tresco più con voi,
 %alla larga ambi doi.
-%S’ogn’un fosse com’io
+%S'ogn'un fosse com'io
 %saria un balordo Amor e non un Dio.
 
 cantoXIincipit = \relative c'' {
@@ -241,12 +241,12 @@ cantoLyricsXI = \lyricmode {
     % terza parte
 
     La spe -- me del gio -- i -- re
-    fon -- da -- ta~è sù’l mar -- ti -- re, __
+    fon -- da -- ta~è sù'l mar -- ti -- re, __
     bel -- lez -- za~e cor -- te -- si -- a
     non stan -- n'in com -- pag -- ni -- a, __
     sò ben dir,
     sò ben dir con mio dan -- no
-    che la mor -- te ed’a -- mor in -- sie -- me van -- no.
+    che la mor -- te ed'a -- mor in -- sie -- me van -- no.
 
     % quarta parte:
     Vi vuol, __
@@ -256,8 +256,8 @@ cantoLyricsXI = \lyricmode {
         pian -- ti~a di -- lu -- vi
     \normalLyrics
     per spe -- gner i ve -- su -- vi
-    d’un cor in -- na -- mo -- ra -- to,
-    d’un spi -- ri -- to~in -- fiam -- ma -- to;
+    d'un cor in -- na -- mo -- ra -- to,
+    d'un spi -- ri -- to~in -- fiam -- ma -- to;
     pria che si giun -- ga in por -- to,
     quan -- te __ vol -- te __ si __ di -- ce:
     ohi -- mè, __
@@ -267,13 +267,13 @@ cantoLyricsXI = \lyricmode {
          son mor -- to.
 
     % quinta parte:
-    Cre -- de -- te’l à co -- stui che per pro -- va può dir
-    io vi -- di io fui. Se cre -- der no’l vo -- le -- te
+    Cre -- de -- te'l à co -- stui che per pro -- va può dir
+    io vi -- di io fui. Se cre -- der no'l vo -- le -- te
     la -- scia -- te star che po -- co~im -- por -- t'à me.
-    Se -- gui -- ta -- te~ad’ a -- mar ad’ o -- gni mo -- do,
+    Se -- gui -- ta -- te~ad' a -- mar ad' o -- gni mo -- do,
     chi dè rom -- per -- si~il col -- lo.
     Non ac -- ca -- de che schi -- vi.
-    O -- d’er -- ta ò __ fon -- do
+    O -- d'er -- ta ò __ fon -- do
     che per pro -- ver -- bio sen -- ti sem -- pre di -- re
     dal de -- sti -- na -- to non si può __ fug -- gi -- re. __ 
 
@@ -291,8 +291,8 @@ cantoLyricsXI = \lyricmode {
         con vo -- i,
     al -- la lar -- ga~al -- la lar -- ga~am -- bi do -- i, __
     al -- la lar -- ga am -- bi do -- i.
-    S’o -- gni~un fos -- se co -- m’i -- o,
-        fos -- se co -- m’i -- o
+    S'o -- gni~un fos -- se co -- m'i -- o,
+        fos -- se co -- m'i -- o
     sa -- ria un ba -- lor -- do~A -- mor, A -- mor, e __ non __ un __ 
         %Dio.
     sa -- ria~un ba -- lor -- do~A -- mor, 

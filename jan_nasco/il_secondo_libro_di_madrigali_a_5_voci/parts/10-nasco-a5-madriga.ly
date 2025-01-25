@@ -1,10 +1,10 @@
-%VI 66 S’un medesimo ardor, s’un desir pare
-%      inchina e sforza l’uno e l’altro sesso
-%      a quel soave fin d’amor, che pare
-%      all’ignorante vulgo un grave eccesso;
-%      perché si de’ punir donna o biasmare,
-%      che con uno o più d’uno abbia commesso
-%      quel che l’uom fa con quante n’ha appetito,
+%VI 66 S'un medesimo ardor, s'un desir pare
+%      inchina e sforza l'uno e l'altro sesso
+%      a quel soave fin d'amor, che pare
+%      all'ignorante vulgo un grave eccesso;
+%      perché si de' punir donna o biasmare,
+%      che con uno o più d'uno abbia commesso
+%      quel che l'uom fa con quante n'ha appetito,
 %      e lodato ne va, non che impunito?
 
 cantoXincipit = \relative c'' {
@@ -39,15 +39,15 @@ cantoX = \relative c'' {
 }
 
 cantoLyricsX = \lyricmode {
-    S’un me -- de -- si -- mo~ar -- dor, __ s’un de -- sir pa -- re
-    In -- chi -- na~e sfor -- za l’u -- no~e l’al -- tro ses -- so
-    A quel so -- a -- ve fin d’a -- mor,
-    a quel so -- a -- ve fin d’a -- mor, che pa -- re~Al -- 
-        l’i -- gno -- ran -- te vul -- go un gra -- v'ec -- ces -- so;
-    Per -- ché __ si de’ __ pu -- nir don -- na~o bia -- sma -- re,
-    Che con u -- n'o più d’u -- no~ab -- bia com -- mes -- so
-    Quel che l’uom fa,
-    quel che l’uom fa con quan -- te n’ha~ap -- pe -- ti -- to,
+    S'un me -- de -- si -- mo~ar -- dor, __ s'un de -- sir pa -- re
+    In -- chi -- na~e sfor -- za l'u -- no~e l'al -- tro ses -- so
+    A quel so -- a -- ve fin d'a -- mor,
+    a quel so -- a -- ve fin d'a -- mor, che pa -- re~Al -- 
+        l'i -- gno -- ran -- te vul -- go un gra -- v'ec -- ces -- so;
+    Per -- ché __ si de' __ pu -- nir don -- na~o bia -- sma -- re,
+    Che con u -- n'o più d'u -- no~ab -- bia com -- mes -- so
+    Quel che l'uom fa,
+    quel che l'uom fa con quan -- te n'ha~ap -- pe -- ti -- to,
     E lo -- da -- to ne va, non __ ch'im -- pu -- ni -- to, __
     e lo -- da -- to ne va,
     e lo -- da -- to ne va, non ch'im -- pu -- ni -- to? __
@@ -89,16 +89,16 @@ altoX = \relative c' {
 }
 
 altoLyricsX = \lyricmode {
-    S’un me -- de -- si -- mo~ar -- dor, __ s’un de -- sir pa -- re,
-        s’un de -- sir pa -- re
-    In -- chi -- na~e sfor -- za l’u -- no~e l’al -- tro ses -- so,
-        l’u -- no~e l’al -- tro ses -- so
-    A quel so -- a -- ve fin d’a -- mor,
-    a quel so -- a -- ve fin __ d’a -- mor, che pa -- re~Al --
-        l’i -- gno -- ran -- te vul -- go un gra -- v'ec -- ces -- so;
-    Per -- ché si de’ pu -- nir __ don -- na~o bia -- sma -- re,
-    Che __ con u -- n'o più d’u -- no~ab -- bia com -- mes -- so
-    Quel che l’uom fa con quan -- te n’ha~ap -- pe -- ti -- to,
+    S'un me -- de -- si -- mo~ar -- dor, __ s'un de -- sir pa -- re,
+        s'un de -- sir pa -- re
+    In -- chi -- na~e sfor -- za l'u -- no~e l'al -- tro ses -- so,
+        l'u -- no~e l'al -- tro ses -- so
+    A quel so -- a -- ve fin d'a -- mor,
+    a quel so -- a -- ve fin __ d'a -- mor, che pa -- re~Al --
+        l'i -- gno -- ran -- te vul -- go un gra -- v'ec -- ces -- so;
+    Per -- ché si de' pu -- nir __ don -- na~o bia -- sma -- re,
+    Che __ con u -- n'o più d'u -- no~ab -- bia com -- mes -- so
+    Quel che l'uom fa con quan -- te n'ha~ap -- pe -- ti -- to,
     E lo -- da -- to ne va, non ch'im -- pu -- ni -- to,
     e lo -- da -- to ne va, non ch'im -- pu -- ni -- to,
     e lo -- da -- to ne va, __
@@ -137,15 +137,15 @@ tenoreX = \relative c' {
 }
 
 tenoreLyricsX = \lyricmode {
-    S’un me -- de -- si -- mo~ar -- dor, s’un de -- sir pa -- re
-    In -- chi -- na~e sfor -- za l’u -- no~e l’al -- tro ses -- so __
-    A quel so -- a -- ve fin d’a -- mor, che pa -- re~Al --
-        l’i -- gno -- ran -- te vul -- go un __ gra -- v'ec -- ces -- so;
-%    Per -- ché si de’ pu -- nir don -- na~o bia -- sma -- re,
-%    Che con u -- n'o più d’u -- no~ab -- bia com -- mes -- so
-    Quel che l’uom fa,
-    quel che l’uom fa con quan -- te n’ha~ap -- pe -- ti -- to,
-        con quan -- te n’ha~ap -- pe -- ti -- to,
+    S'un me -- de -- si -- mo~ar -- dor, s'un de -- sir pa -- re
+    In -- chi -- na~e sfor -- za l'u -- no~e l'al -- tro ses -- so __
+    A quel so -- a -- ve fin d'a -- mor, che pa -- re~Al --
+        l'i -- gno -- ran -- te vul -- go un __ gra -- v'ec -- ces -- so;
+%    Per -- ché si de' pu -- nir don -- na~o bia -- sma -- re,
+%    Che con u -- n'o più d'u -- no~ab -- bia com -- mes -- so
+    Quel che l'uom fa,
+    quel che l'uom fa con quan -- te n'ha~ap -- pe -- ti -- to,
+        con quan -- te n'ha~ap -- pe -- ti -- to,
     E lo -- da -- to ne va, non ch'im -- pu -- ni -- to,
     e lo -- da -- to ne va,
     e lo -- da -- to ne va, non ch'im -- pu -- ni -- to,
@@ -180,13 +180,13 @@ bassoX = \relative c {
 }
 
 bassoLyricsX = \lyricmode {
-    S’un me -- de -- si -- mo~ar -- dor, s’un de -- sir pa -- re
-    In -- chi -- na~e sfor -- za l’u -- no~e l’al -- tro ses -- so
-    A quel so -- a -- ve fin __ d’a -- mor, che pa -- re~Al --
-        l’i -- gno -- ran -- te vul -- go un gra -- v'ec -- ces -- so;
-%    Per -- ché si de’ pu -- nir don -- na~o bia -- sma -- re,
-%    Che con u -- n'o più d’u -- no~ab -- bia com -- mes -- so
-    Quel che l’uom fa con quan -- te n’ha~ap -- pe -- ti -- to,
+    S'un me -- de -- si -- mo~ar -- dor, s'un de -- sir pa -- re
+    In -- chi -- na~e sfor -- za l'u -- no~e l'al -- tro ses -- so
+    A quel so -- a -- ve fin __ d'a -- mor, che pa -- re~Al --
+        l'i -- gno -- ran -- te vul -- go un gra -- v'ec -- ces -- so;
+%    Per -- ché si de' pu -- nir don -- na~o bia -- sma -- re,
+%    Che con u -- n'o più d'u -- no~ab -- bia com -- mes -- so
+    Quel che l'uom fa con quan -- te n'ha~ap -- pe -- ti -- to,
     E lo -- da -- to ne va, non ch'im -- pu -- ni -- to,
     e lo -- da -- to ne va,
     e lo -- da -- to ne va, non ch'im -- pu -- ni -- to,
@@ -230,15 +230,15 @@ quintoX = \relative c' {
 }
 
 quintoLyricsX = \lyricmode {
-    S’un me -- de -- si -- mo~ar -- dor, s’un de -- sir pa -- re
-    In -- chi -- na~e sfor -- za l’u -- no~e l’al -- tro ses -- so
-    A quel so -- a -- ve fin d’a -- mor, che pa -- re~Al --
-        l’i -- gno -- ran -- te vul -- go % un gra -- v'ec -- ces -- so;
+    S'un me -- de -- si -- mo~ar -- dor, s'un de -- sir pa -- re
+    In -- chi -- na~e sfor -- za l'u -- no~e l'al -- tro ses -- so
+    A quel so -- a -- ve fin d'a -- mor, che pa -- re~Al --
+        l'i -- gno -- ran -- te vul -- go % un gra -- v'ec -- ces -- so;
         che pa -- re~Al --
-        l’i -- gno -- ran -- te vul -- go un gra -- v'ec -- ces -- so;
-    Per -- ché si de’ pu -- nir don -- na~o bia -- sma -- re,
-    Che con u -- n'o più d’u -- no~ab -- bia com -- mes -- so
-    Quel che l’uom fa con quan -- te n’ha~ap -- pe -- ti -- to,
+        l'i -- gno -- ran -- te vul -- go un gra -- v'ec -- ces -- so;
+    Per -- ché si de' pu -- nir don -- na~o bia -- sma -- re,
+    Che con u -- n'o più d'u -- no~ab -- bia com -- mes -- so
+    Quel che l'uom fa con quan -- te n'ha~ap -- pe -- ti -- to,
     E lo -- da -- to ne va, non ch'im -- pu -- ni -- to,
     e lo -- da -- to ne va,
     e lo -- da -- to ne va, non ch'im -- pu -- ni -- to,

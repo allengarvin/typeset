@@ -1,10 +1,10 @@
 %   131  che rami e ceppi e tronchi e sassi e zolle
-%        non cessò di gittar ne le bell’onde,
+%        non cessò di gittar ne le bell'onde,
 %        fin che da sommo ad imo sì turbolle,
 %        che non furo mai più chiare né monde.
 %        E stanco al fin, e al fin di sudor molle,
 %        poi che la lena vinta non risponde
-%        allo sdegno, al grave odio, all’ardente ira,
+%        allo sdegno, al grave odio, all'ardente ira,
 %        cade sul prato, e verso il ciel sospira.
 
 cantoXXIXincipit = \relative c'' {
@@ -42,7 +42,7 @@ cantoXXIX = \relative c'' {
 cantoLyricsXXIX = \lyricmode {
     Che ra -- mi~e cep -- pi e tron -- chi~e sas -- si~e zol -- le,
         e __ zol -- le
-    Non ces -- sò di git -- tar ne le __ bel -- l’on -- de,
+    Non ces -- sò di git -- tar ne le __ bel -- l'on -- de,
     Fin che da som -- mo~ad i -- mo sì tur -- bol -- le,
         sì tur -- bol -- le,
     Che non fu -- ron mai più,
@@ -53,7 +53,7 @@ cantoLyricsXXIX = \lyricmode {
         mai __ più chia -- re __ né __ mon -- de.
     E stan -- co~al fin, e~al fin di su -- dor mol -- le,
     Poi che la le -- na vin -- ta non ri -- spon -- de
-    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l’ar -- den -- te~i -- ra,
+    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l'ar -- den -- te~i -- ra,
     Ca -- de sul pra -- to~e ver -- so~il ciel so -- spi'
         so -- spi -- ra~e ver -- so~il ciel sos'
         so -- spi -- ra e ver -- so~il ciel so -- spi -- ra,
@@ -93,7 +93,7 @@ altoXXIX = \relative c' {
 altoLyricsXXIX = \lyricmode {
     Che ra -- mi~e cep -- pi~e tron -- chi~e sas -- si~e zol -- le,
     che ra -- mi~e cep -- pi~e tron -- chi~e sas -- si~e zol -- le,
-    Non ces -- sò di git -- tar ne le __ bel -- l’on -- de,
+    Non ces -- sò di git -- tar ne le __ bel -- l'on -- de,
     Fin che da som -- mo~ad i -- mo sì tur -- bol -- le,
         sì tur -- bol -- le,
     Che non fu -- ron mai più chia -- re né mon -- de,
@@ -103,7 +103,7 @@ altoLyricsXXIX = \lyricmode {
     E stan -- co~al fin, e~al fin di su -- dor mol -- le,
         di su -- dor mol -- le,
     Poi che la le -- na vin -- ta non ri -- spon -- de
-    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l’ar -- den -- te~i -- ra,
+    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l'ar -- den -- te~i -- ra,
     Ca -- de sul pra -- to~e ver -- so~il ciel so -- spi -- ra,
         e ver -- so~il ciel so -- spi -- ra,
         e ver -- so~il ciel,
@@ -144,7 +144,7 @@ tenoreLyricsXXIX = \lyricmode {
     Che ra -- mi~e cep -- pi~e tron -- chi~e sas -- si~e zol -- le,
         e sas -- si~e zol -- le,
         e sas -- si~e zol -- le,
-    Non ces -- sò di git -- tar ne le __ bel -- l’on -- de,
+    Non ces -- sò di git -- tar ne le __ bel -- l'on -- de,
     Fin che da som -- mo~ad i -- mo sì tur -- bol -- le,
     Che non fu -- ron mai più,
     che non fu -- ron mai più chia -- re né mon -- de,
@@ -152,7 +152,7 @@ tenoreLyricsXXIX = \lyricmode {
         chia -- re né mon -- de.
     E stan -- co~al fin, e~al fin di su -- dor mol -- le,
     Poi che la le -- na vin -- ta non ri -- spon -- de
-    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l’ar -- den -- te~i -- ra,
+    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l'ar -- den -- te~i -- ra,
     Ca -- de sul pra -- to~e ver -- so~il ciel so -- spi -- ra~e ver -- so~il ciel so -- spi -- ra,
         e ver -- so~il ciel so -- spi -- ra. __
 }
@@ -189,7 +189,7 @@ bassoXXIX = \relative c' {
 bassoLyricsXXIX = \lyricmode {
     Che ra -- mi~e cep -- pi~e tron -- chi~e sas -- si~e zol -- le,
         e tron -- chi~e sas -- si~e zol -- le,
-    Non ces -- sò di git -- tar ne le __ bel -- l’on -- de,
+    Non ces -- sò di git -- tar ne le __ bel -- l'on -- de,
     Fin che da som -- mo~ad i -- mo sì tur -- bol -- le,
     Che non fu -- ron mai più,
     \ijLyrics
@@ -201,7 +201,7 @@ bassoLyricsXXIX = \lyricmode {
     E stan -- co~al fin,
         al fin di su -- dor mol -- le,
     Poi che la le -- na vin -- ta non ri -- spon -- de
-    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l’ar -- den -- te~i -- ra,
+    Al -- lo sde -- gno~al gra -- ve~o -- dio~al -- l'ar -- den -- te~i -- ra,
     Ca -- de sul pra -- to~e ver -- so~il ciel so -- spi -- ra,
         e ver -- so~il ciel so -- spi -- ra.
 }

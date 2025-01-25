@@ -39,7 +39,7 @@ cantoLyricsXVI = \lyricmode {
     Che tu quin -- ci ti par -- ta~e non ti ca -- glia
     Di que -- sto~al -- ber -- go tuo già sì di -- let -- to.
     Vat -- te -- ne, pas -- sa~il mar, pu -- gna, tra -- va -- glia,
-    Strug -- gi la fe -- de no -- stra~an -- ch’io t’af -- fret -- to.
+    Strug -- gi la fe -- de no -- stra~an -- ch'io t'af -- fret -- to.
     Che di -- co no -- stra? ah non __ più mi -- a! 
     \ijLyrics
         ah non __ più mi -- a! 
@@ -96,7 +96,7 @@ altoLyricsXVI = \lyricmode {
     Di que -- sto~al -- ber -- go tuo già sì di -- let -- to,
         già sì di -- let -- to.
     Vat -- te -- ne, pas -- sa~il mar, pu -- gna, tra -- va -- glia,
-    Strug -- gi la fe -- de no -- stra~an -- ch’io t’af -- fret -- to.
+    Strug -- gi la fe -- de no -- stra~an -- ch'io t'af -- fret -- to.
     Che di -- co no -- stra? ah non __ più mi -- a! 
     \ijLyrics
         ah non più mi -- a! 
@@ -160,7 +160,7 @@ tenoreLyricsXVI = \lyricmode {
         già sì di -- let -- to,
         già sì di -- let -- to.
     Vat -- te -- ne, pas -- sa~il mar, pu -- gna, tra -- va -- glia,
-    Strug -- gi la fe -- de no -- stra~an -- ch’io t’af -- fret -- to.
+    Strug -- gi la fe -- de no -- stra~an -- ch'io t'af -- fret -- to.
     Che di -- co no -- stra? ah non __ più mi -- a! 
         fe -- de -- le so -- no~a te so -- lo,
         so -- no~a te so -- lo~I -- do -- lo mio cru -- de -- le,
@@ -215,7 +215,7 @@ bassoLyricsXVI = \lyricmode {
     Di que -- sto~al -- ber -- go tuo già sì di -- let -- to,
         già sì di -- let -- to.
     Vat -- te -- ne, pas -- sa~il mar, pu -- gna, tra -- va -- glia,
-    Strug -- gi la fe -- de no -- stra~an -- ch’io t’af -- fret -- to.
+    Strug -- gi la fe -- de no -- stra~an -- ch'io t'af -- fret -- to.
     Che di -- co no -- stra? ah non __ più mi -- a! 
         fe -- de -- le, \ijLyrics fe -- de -- le, \normalLyrics
         fe -- de -- le, so -- no~a te so -- lo, 
@@ -271,7 +271,7 @@ quintoLyricsXVI = \lyricmode {
     Di que -- sto~al -- ber -- go tuo già sì di -- let -- to,
         già sì di -- let -- to.
     Vat -- te -- ne, pas -- sa~il mar, pu -- gna, tra -- va -- glia,
-    Strug -- gi la fe -- de no -- stra~an -- ch’io t’af -- fret -- to.
+    Strug -- gi la fe -- de no -- stra~an -- ch'io t'af -- fret -- to.
     Che di -- co no -- stra? ah non __ più mi -- a! 
         fe -- de -- le so -- no~a te so -- lo, 
         fe -- de -- le so -- no~a te so -- lo, fe -- de -- le,

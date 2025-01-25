@@ -2,7 +2,7 @@
 % Et de melancolie,
 % Voyant mon mal
 % Qui toujours multiplie,
-% et qu’en la fin
+% et qu'en la fin
 % Plus ne le puis porter,
 % Constrainte suis
 % Pour me reconforter
@@ -11,7 +11,7 @@
 % Je te requiers et humblement supplie,
 % Pour les douleurs de quoy je suis ramplie,
 % Ne me vouloir jamais abandonner.
-% Puisqu’a vous suis la reste de ma vie.
+% Puisqu'a vous suis la reste de ma vie.
 
 superiusIIIincipit = \relative c' {
     \time 2/2
@@ -43,7 +43,7 @@ superiusLyricsIII = \lyricmode {
     et de me -- lan -- co -- li -- e,
     voy -- ant mon mal
     qui tous -- jours mul -- ti -- pli -- e,
-    et qu’en la fin
+    et qu'en la fin
     plus ne le puis por -- ter,
     con -- train -- cte suis
     pour moy re -- con -- for -- ter
@@ -93,7 +93,7 @@ contraLyricsIII = \lyricmode {
     \ijLyrics
     qui tous -- jours mul -- ti -- pli -- e,
     \normalLyrics
-    et qu’en la fin
+    et qu'en la fin
     plus ne le puis por -- ter,
     plus ne le puis por -- ter,
     con -- train -- cte suis
@@ -149,7 +149,7 @@ tenorLyricsIII = \lyricmode {
     voy -- ant mon mal
     qui tous -- jours mul -- ti -- pli -- e,
     qui tous -- jours mul -- ti -- pli -- e,
-    et __ qu’en la fin
+    et __ qu'en la fin
     plus ne le puis por -- ter,
     \ijLyrics
     plus ne le puis __ por -- ter,
@@ -203,8 +203,8 @@ bassusLyricsIII = \lyricmode {
     voy -- ant mon mal
     qui tous -- jours mul -- ti -- pli -- e,
     qui tous -- jours mul -- ti -- pli -- e,
-    et qu’en la fin,
-    et qu’en la fin
+    et qu'en la fin,
+    et qu'en la fin
     plus ne le puis por -- ter,
     \ijLyrics
     plus ne le puis por -- ter,
@@ -256,7 +256,7 @@ quintaLyricsIII = \lyricmode {
     et de me -- lan -- co -- li -- e,
     voy -- ant mon mal
     qui tous -- jours mul -- ti -- pli -- e,
-    et qu’en la fin
+    et qu'en la fin
     plus ne le puis por -- ter,
     con -- train -- cte suis
     pour moy re -- con -- for -- ter

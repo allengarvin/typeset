@@ -2,16 +2,16 @@
 % Donna, quel dì a vederle
 % Qual in vermiglio vel candide perle;
 % Ed io gridava agli occhi che farete,
-% Se con l’umor m’ardete?
-% Quando fra’l pianto lampeggiando un riso
+% Se con l'umor m'ardete?
+% Quando fra'l pianto lampeggiando un riso
 % Noi, dissero, in un luoco
-% Abbiamo l’acqua e’l fuoco;
+% Abbiamo l'acqua e'l fuoco;
 % Ma col fuoco immerghiamo
-% E con l’acqua abbruciamo;
-% Perchè abbagli l’amante, e si confonda
-% Fra le fiamme e fra l’onda;
+% E con l'acqua abbruciamo;
+% Perchè abbagli l'amante, e si confonda
+% Fra le fiamme e fra l'onda;
 % Nè fia forza mortal che si difendo,
-% Ove il fuoco sommerga, e l’acqua incenda.
+% Ove il fuoco sommerga, e l'acqua incenda.
 
 cantoIVincipit = \relative c'' {
     \time 4/4
@@ -64,22 +64,22 @@ cantoLyricsIV = \lyricmode {
         che fa -- re -- te,
         a -- gli~oc -- chi
         che __ fa -- re -- te,
-    % Con l’ardor che farete,
-    Se con l’u -- mor m’ar -- de -- te,
-    se con l’u -- mor m’ar -- de -- te?
-    Quan -- do fra’l pian -- to lam -- peg -- gian -- do~un ri -- so
+    % Con l'ardor che farete,
+    Se con l'u -- mor m'ar -- de -- te,
+    se con l'u -- mor m'ar -- de -- te?
+    Quan -- do fra'l pian -- to lam -- peg -- gian -- do~un ri -- so
     Noi,
     noi, dis -- se -- r'in un luo -- co
-    Ab -- bia -- mo l’ac -- qu'e’l fuo -- co,
-        e’l fuo -- co;
-    E con l’ac -- qu'ab -- bru -- cia -- mo;
-    Per -- chè~ab -- ba -- gli l’a -- man -- t'e si con -- fon -- da
-    Fra le fiam -- m'e fra l’on -- da;
+    Ab -- bia -- mo l'ac -- qu'e'l fuo -- co,
+        e'l fuo -- co;
+    E con l'ac -- qu'ab -- bru -- cia -- mo;
+    Per -- chè~ab -- ba -- gli l'a -- man -- t'e si con -- fon -- da
+    Fra le fiam -- m'e fra l'on -- da;
     Nè fia for -- za mor -- tal che si __ di -- fen -- do,
-    O -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
-    o -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
-    o -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
-        e l’ac -- qu'in -- cen -- da.
+    O -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
+    o -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
+    o -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
+        e l'ac -- qu'in -- cen -- da.
 }
 
 altoIVincipit = \relative c' {
@@ -129,27 +129,27 @@ altoLyricsIV = \lyricmode {
         che fa -- re -- te,
 %        a -- gli~oc -- chi
 %        che fa -- re -- te,
-%    % Con l’ardor che farete,
-    Se con l’u -- mor __ m’ar -- de -- te,
-    se con l’u -- mor m’ar -- de -- te,
+%    % Con l'ardor che farete,
+    Se con l'u -- mor __ m'ar -- de -- te,
+    se con l'u -- mor m'ar -- de -- te,
     \ijLyrics
-    se con l’u -- mor m’ar -- de -- te?
+    se con l'u -- mor m'ar -- de -- te?
     \normalLyrics
-    Quan -- do fra’l pian -- to % lam -- peg -- gian -- do~un ri -- so
+    Quan -- do fra'l pian -- to % lam -- peg -- gian -- do~un ri -- so
     Noi,
     noi, dis -- se -- r'in un luo -- co __
-    Ab -- bia -- mo l’ac -- qu'e’l fuo -- co; __
+    Ab -- bia -- mo l'ac -- qu'e'l fuo -- co; __
     Ma col fuo -- co~im -- mer -- ghia -- mo
-%    E con l’ac -- qu'ab -- bru -- cia -- mo;
-    Per -- chè~ab -- ba -- gli l’a -- man -- t'e si con -- fon -- da
-    Fra le fiam -- m'e fra l’on -- da;
+%    E con l'ac -- qu'ab -- bru -- cia -- mo;
+    Per -- chè~ab -- ba -- gli l'a -- man -- t'e si con -- fon -- da
+    Fra le fiam -- m'e fra l'on -- da;
     Nè fia for -- za mor -- tal che si __ di -- fen -- do,
-    O -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
+    O -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
         in -- cen -- da,
-    o -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
+    o -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
     nè fia for -- za mor -- tal che si __ di -- fen -- do,
-    o -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
-    o -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da.
+    o -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
+    o -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da.
 }
 
 tenoreIVincipit = \relative c' {
@@ -196,23 +196,23 @@ tenoreLyricsIV = \lyricmode {
     ed io gri -- da -- v'a -- gli~oc -- chi
         che fa -- re -- te,
         a -- gli~oc -- chi che fa -- re -- te,
-%    % Con l’ardor che farete,
-    Se con l’u -- mor m’ar -- de -- te,
-    se con l’u -- mor m’ar -- de -- te? __
-    Quan -- do fra’l pian -- to lam -- peg -- gian -- do~un ri -- so
+%    % Con l'ardor che farete,
+    Se con l'u -- mor m'ar -- de -- te,
+    se con l'u -- mor m'ar -- de -- te? __
+    Quan -- do fra'l pian -- to lam -- peg -- gian -- do~un ri -- so
     Noi,
     noi, dis -- se -- r'in un luo -- co,
         in un luo -- co
-    Ab -- bia -- mo l’ac -- qu'e’l fuo -- co,
-        l’ac -- qu'e’l fuo -- co;
+    Ab -- bia -- mo l'ac -- qu'e'l fuo -- co,
+        l'ac -- qu'e'l fuo -- co;
     Ma col fuo -- co~im -- mer -- ghia -- mo
-    E con l’ac -- qu'ab -- bru -- cia -- mo;
-    Per -- chè~ab -- ba -- gli l’a -- man -- te
-    Fra le fiam -- m'e fra l’on -- da;
+    E con l'ac -- qu'ab -- bru -- cia -- mo;
+    Per -- chè~ab -- ba -- gli l'a -- man -- te
+    Fra le fiam -- m'e fra l'on -- da;
     Nè fia for -- za mor -- tal che si __ di -- fen -- do,
-    O -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
+    O -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
     nè fia for -- za mor -- tal che si __ di -- fen -- do,
-    o -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da.
+    o -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da.
 }
 
 bassoIVincipit = \relative c' {
@@ -258,20 +258,20 @@ bassoLyricsIV = \lyricmode {
     Ed io gri -- da -- v'a -- gli~oc -- chi
         a -- gli~oc -- chi
         che fa -- re -- te,
-%    % Con l’ardor che farete,
-    Se con l’u -- mor m’ar -- de -- te,
-    se con l’u -- mor m’ar -- de -- te?
-    Quan -- do fra’l pian -- to
+%    % Con l'ardor che farete,
+    Se con l'u -- mor m'ar -- de -- te,
+    se con l'u -- mor m'ar -- de -- te?
+    Quan -- do fra'l pian -- to
     Noi,
     noi, dis -- se -- r'in un luo -- co
-    Ab -- bia -- mo l’ac -- qu'e’l fuo -- co,
+    Ab -- bia -- mo l'ac -- qu'e'l fuo -- co,
     Ma col fuo -- co~im -- mer -- ghia -- mo
-    Per -- chè~ab -- ba -- gli l’a -- man -- te
-    Fra le fiam -- m'e fra l’on -- da;
+    Per -- chè~ab -- ba -- gli l'a -- man -- te
+    Fra le fiam -- m'e fra l'on -- da;
     Nè fia for -- za mor -- tal che si __ di -- fen -- do,
-    O -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
+    O -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
     nè fia for -- za mor -- tal che si __ di -- fen -- do,
-    o -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da.
+    o -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da.
 }
 
 quintoIVincipit = \relative c'' {
@@ -321,22 +321,22 @@ quintoLyricsIV = \lyricmode {
     Ed io gri -- da -- v'a -- gli~oc -- chi~a -- gli~oc -- chi,
         a -- gli~oc -- chi
         che fa -- re -- te,
-%    % Con l’ardor che farete,
-    Se con l’u -- mor m’ar -- de -- te,
-        m’ar -- de -- te,
-    Quan -- do fra’l pian -- to lam -- peg -- gian -- do~un ri -- so
+%    % Con l'ardor che farete,
+    Se con l'u -- mor m'ar -- de -- te,
+        m'ar -- de -- te,
+    Quan -- do fra'l pian -- to lam -- peg -- gian -- do~un ri -- so
     Noi,
     noi, dis -- se -- r'in un luo -- co~in un luo -- co
-    Ab -- bia -- mo l’ac -- qu'e’l fuo -- co;
-    E con l’ac -- qu'ab -- bru -- cia -- mo;
-    Per -- chè~ab -- ba -- gli l’a -- man -- t'e si con -- fon -- da
-    Fra le fiam -- m'e fra l’on -- da;
+    Ab -- bia -- mo l'ac -- qu'e'l fuo -- co;
+    E con l'ac -- qu'ab -- bru -- cia -- mo;
+    Per -- chè~ab -- ba -- gli l'a -- man -- t'e si con -- fon -- da
+    Fra le fiam -- m'e fra l'on -- da;
     % Nè fia for -- za mor -- tal che si di -- fen -- do,
-    O -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
-        e l’ac -- qu'in -- cen -- da,
+    O -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
+        e l'ac -- qu'in -- cen -- da,
     Nè fia for -- za mor -- tal che si di -- fen -- do,
-    o -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da,
-    o -- v'il fuo -- co som -- mer -- ga~e l’ac -- qu'in -- cen -- da.
+    o -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da,
+    o -- v'il fuo -- co som -- mer -- ga~e l'ac -- qu'in -- cen -- da.
 }
 
 cantoIVincipitVoice = <<

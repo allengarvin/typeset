@@ -3,7 +3,7 @@
 % per far pianger via più questi occhi miei.
 % Ma perché non volete
 % quanto so che potete?
-% Deh, perché non volete quel ch’io voglio,
+% Deh, perché non volete quel ch'io voglio,
 % se mai dal voler vostro non mi scoglio?
 % Francesco Veggio
 % 
@@ -65,14 +65,14 @@ cantoLyricsXXII = \lyricmode {
     Deh,
     deh,
     deh, per -- ché non vo -- le -- te,
-    deh, per -- ché non vo -- le -- te quel __ ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel __ ch'io vo -- glio,
     Se mai dal vo -- ler vo -- stro non mi sco -- glio?
     Deh,
     \ijLyrics
     deh,
     \normalLyrics
     deh, per -- ché non vo -- le -- te,
-    deh, per -- ché non vo -- le -- te quel __ ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel __ ch'io vo -- glio,
     se mai dal vo -- ler vo -- stro non mi sco -- glio?
     se mai dal vo -- ler vo -- stro non mi sco -- glio?
 }
@@ -123,14 +123,14 @@ altoLyricsXXII = \lyricmode {
     Deh,
     deh,
     deh, per -- ché non vo -- le -- te,
-    deh, per -- ché non vo -- le -- te quel ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel ch'io vo -- glio,
     Se mai dal vo -- ler vo -- stro non mi sco -- glio?
     Deh,
     \ijLyrics
     deh,
     \normalLyrics
     deh, per -- ché non vo -- le -- te,
-    deh, per -- ché non vo -- le -- te quel ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel ch'io vo -- glio,
     se mai dal vo -- ler vo -- stro non mi sco -- glio?
     se mai dal vo -- ler vo -- stro,
     \ijLyrics
@@ -185,11 +185,11 @@ tenoreLyricsXXII = \lyricmode {
     Quan -- to so che __ po -- te -- te?
     Deh,
     deh,
-    deh, per -- ché non vo -- le -- te quel __ ch’io vo -- glio, __
+    deh, per -- ché non vo -- le -- te quel __ ch'io vo -- glio, __
 %    Se mai dal vo -- ler vo -- stro non mi sco -- glio?
     Deh,
     deh,
-    deh, per -- ché non vo -- le -- te quel __ ch’io vo -- glio, __
+    deh, per -- ché non vo -- le -- te quel __ ch'io vo -- glio, __
     se mai dal vo -- ler vo -- stro non mi sco -- glio?
         non __ mi sco -- glio?
 %    se mai dal vo -- ler vo -- stro non mi sco -- glio?
@@ -233,11 +233,11 @@ bassoLyricsXXII = \lyricmode {
     Deh,
     deh,
     deh, per -- ché non vo -- le -- te,
-    deh, per -- ché non vo -- le -- te quel ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel ch'io vo -- glio,
     Deh,
     deh,
     deh, per -- ché non vo -- le -- te,
-    deh, per -- ché non vo -- le -- te quel ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel ch'io vo -- glio,
     Se mai dal vo -- ler vo -- stro non mi sco -- glio?
 }
 
@@ -287,7 +287,7 @@ quintoLyricsXXII = \lyricmode {
     deh,
     deh, per -- ché,
     deh, per -- ché non vo -- le -- te,
-    deh, per -- ché non vo -- le -- te quel ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel ch'io vo -- glio,
 %    Se mai dal vo -- ler vo -- stro non mi sco -- glio?
     Deh,
     \ijLyrics
@@ -295,7 +295,7 @@ quintoLyricsXXII = \lyricmode {
     \normalLyrics
     deh, per -- ché,
     deh, per -- ché non vo -- le -- te,
-    deh, per -- ché non vo -- le -- te quel ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel ch'io vo -- glio,
     se mai dal vo -- ler vo -- stro non mi sco -- glio?
     se mai dal vo -- ler vo -- stro non mi sco -- glio?
 }
@@ -344,13 +344,13 @@ sestoLyricsXXII = \lyricmode {
     Quan -- to so che __ po -- te -- te?
     Deh,
     deh,
-    deh, per -- ché non vo -- le -- te quel ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel ch'io vo -- glio,
     Se mai dal vo -- ler vo -- stro non mi sco -- glio?
     Deh,
     \ijLyrics
     deh,
     \normalLyrics
-    deh, per -- ché non vo -- le -- te quel ch’io vo -- glio,
+    deh, per -- ché non vo -- le -- te quel ch'io vo -- glio,
     se mai dal vo -- ler vo -- stro non mi sco -- glio?
     se mai dal vo -- ler vo -- stro non __ mi sco -- glio?
 }

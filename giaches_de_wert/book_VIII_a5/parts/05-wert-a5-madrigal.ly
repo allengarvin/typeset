@@ -1,25 +1,25 @@
 
 % Fra le dorate chiome
-% d’Amarilli gentil Amor tessea
-% lacci con che legar l’alme volea,
+% d'Amarilli gentil Amor tessea
+% lacci con che legar l'alme volea,
 % quando, ne dir so come,
 % stringerci si sentio
-% da’ crespi e bei capelli:
+% da' crespi e bei capelli:
 % Onde sdegnoso a quelli
 % disse: O legame rio,
-% come dei tu legar agl’altri il core,
-% se leghi me, ch’io lego gl’altri Amore?
+% come dei tu legar agl'altri il core,
+% se leghi me, ch'io lego gl'altri Amore?
 % copyright-encumbered translation:
 
 % liner notes:
-% Out of kind Amarilli’s golden hair
+% Out of kind Amarilli's golden hair
 % Cupid wove a snare
 % with which he wanted to bind souls.
-% When, I’m not sure how,
+% When, I'm not sure how,
 % while embracing, amongst her beautiful curls,
 % scornful waves that they are,
 % Cupid said:“Oh wicked bindings
-% who ensnare people’s hearts,
+% who ensnare people's hearts,
 % will you bind mine, I who ensnare other lovers?”
 
 % Mine:

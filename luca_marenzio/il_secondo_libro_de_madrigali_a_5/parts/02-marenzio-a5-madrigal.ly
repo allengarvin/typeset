@@ -1,9 +1,9 @@
 % Io partirò, ma il core
 % Si resterà nel vostro volto divo,
-% Si che s’io resto vivo
-% Sarà certo miracolo d’Amore.
-% Ma tale è’l mio tormento,
-% Ch’io penserò restar di vita spento.
+% Si che s'io resto vivo
+% Sarà certo miracolo d'Amore.
+% Ma tale è'l mio tormento,
+% Ch'io penserò restar di vita spento.
 
 % I shall leave, but my heart will stay with your divine face, and if I stay
 % alive, that will surely be a miracle of love. But my pain is so great that
@@ -45,20 +45,20 @@ cantoLyricsII = \lyricmode {
     Io par -- ti -- rò, ma~il co -- re
     \normalLyrics
     % Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Si che s’io re -- sto vi -- vo,
-        s’io re -- sto vi -- vo,
-    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
-        s’io re -- sto vi -- vo,
+    Si che s'io re -- sto vi -- vo,
+        s'io re -- sto vi -- vo,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d'A -- mo -- re,
+        s'io re -- sto vi -- vo,
     \ijLyrics
-        s’io re -- sto vi -- vo
+        s'io re -- sto vi -- vo
     \normalLyrics
-    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re.
-    Ma ta -- le~e’l __ mio tor -- men -- to,
-    Ch’io pen -- se -- rò re -- star,
-    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d'A -- mo -- re.
+    Ma ta -- le~e'l __ mio tor -- men -- to,
+    Ch'io pen -- se -- rò re -- star,
+    Ch'io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to,
-    Ch’io pen -- se -- rò re -- star
-    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
+    Ch'io pen -- se -- rò re -- star
+    Ch'io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to,
     \ijLyrics
         di vi -- ta spen -- to,
@@ -101,21 +101,21 @@ altoLyricsII = \lyricmode {
     ma~il co -- re,
     Io par -- ti -- rò, ma~il co -- re,
     Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Si che s’io re -- sto vi -- vo,
-        s’io re -- sto vi -- vo,
-    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
-        s’io re -- sto vi -- vo, __
-        s’io re -- sto vi -- vo
-    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re.
-    Ma ta -- le~e’l mio __ tor -- men -- to,
-    Ch’io pen -- se -- rò re -- star,
-    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
+    Si che s'io re -- sto vi -- vo,
+        s'io re -- sto vi -- vo,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d'A -- mo -- re,
+        s'io re -- sto vi -- vo, __
+        s'io re -- sto vi -- vo
+    Sa -- rà cer -- to mi -- ra -- co -- lo d'A -- mo -- re.
+    Ma ta -- le~e'l mio __ tor -- men -- to,
+    Ch'io pen -- se -- rò re -- star,
+    Ch'io pen -- se -- rò re -- star di vi -- ta spen -- to,
     \ijLyrics
         di vi -- ta spen -- to,
     \normalLyrics
-    Ch’io pen -- se -- rò re -- star
+    Ch'io pen -- se -- rò re -- star
     \ijLyrics
-    Ch’io pen -- se -- rò re -- star
+    Ch'io pen -- se -- rò re -- star
     \normalLyrics
         di vi -- ta spen -- to,
         di vi -- ta spen -- to,
@@ -156,20 +156,20 @@ tenoreLyricsII = \lyricmode {
         Ma~il co -- re,
     Io par -- ti -- rò, ma~il co -- re,
     Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Si che s’io re -- sto vi -- vo,
-        s’io re -- sto vi -- vo,
-    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
-        s’io re -- sto vi -- vo,
-        s’io re -- sto vi -- vo
-    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
-        mi -- ra -- co -- lo d’A -- mo -- re.
-    Ma ta -- le~e’l mio tor -- men -- to,
-    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
+    Si che s'io re -- sto vi -- vo,
+        s'io re -- sto vi -- vo,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d'A -- mo -- re,
+        s'io re -- sto vi -- vo,
+        s'io re -- sto vi -- vo
+    Sa -- rà cer -- to mi -- ra -- co -- lo d'A -- mo -- re,
+        mi -- ra -- co -- lo d'A -- mo -- re.
+    Ma ta -- le~e'l mio tor -- men -- to,
+    Ch'io pen -- se -- rò re -- star di vi -- ta spen -- to,
     \ijLyrics
        di vi -- ta spen -- to,
     \normalLyrics
-    Ch’io pen -- se -- rò re -- star
-    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
+    Ch'io pen -- se -- rò re -- star
+    Ch'io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to,
         di vi -- ta spen -- to.
 }
@@ -206,21 +206,21 @@ bassoII = \relative c' {
 bassoLyricsII = \lyricmode {
     Io par -- ti -- rò, ma~il co -- re,
     Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Si che s’io re -- sto vi -- vo,
+    Si che s'io re -- sto vi -- vo,
     \ijLyrics
-        s’io re -- sto vi -- vo, __
+        s'io re -- sto vi -- vo, __
     \normalLyrics
-        s’io re -- sto vi -- vo, 
-        s’io re -- sto vi -- vo, 
-    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
-    Ma ta -- le~e’l mio __ tor -- men -- to,
-    Ch’io pen -- se -- rò re -- star,
-    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
+        s'io re -- sto vi -- vo, 
+        s'io re -- sto vi -- vo, 
+    Sa -- rà cer -- to mi -- ra -- co -- lo d'A -- mo -- re,
+    Ma ta -- le~e'l mio __ tor -- men -- to,
+    Ch'io pen -- se -- rò re -- star,
+    Ch'io pen -- se -- rò re -- star di vi -- ta spen -- to,
     \ijLyrics
         di vi -- ta spen -- to,
     \normalLyrics
-    Ch’io pen -- se -- rò re -- star
-    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
+    Ch'io pen -- se -- rò re -- star
+    Ch'io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to.
 }
 
@@ -258,22 +258,22 @@ quintoLyricsII = \lyricmode {
     Io par -- ti -- rò, ma~il co -- re,
     Io par -- ti -- rò, ma~il co -- re,
     Si re -- ste -- rà nel vo -- stro vol -- to di -- vo,
-    Si che s’io re -- sto vi -- vo,
-        s’io re -- sto vi -- vo,
-    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
-        s’io re -- sto vi -- vo,
-        s’io re -- sto vi -- vo
-    Sa -- rà cer -- to mi -- ra -- co -- lo d’A -- mo -- re,
-        mi -- ra -- co -- lo d’A -- mo -- re.
-    Ch’io pen -- se -- rò re -- star,
-    Ch’io pen -- se -- rò re -- star di vi -- ta spen -- to,
+    Si che s'io re -- sto vi -- vo,
+        s'io re -- sto vi -- vo,
+    Sa -- rà cer -- to mi -- ra -- co -- lo d'A -- mo -- re,
+        s'io re -- sto vi -- vo,
+        s'io re -- sto vi -- vo
+    Sa -- rà cer -- to mi -- ra -- co -- lo d'A -- mo -- re,
+        mi -- ra -- co -- lo d'A -- mo -- re.
+    Ch'io pen -- se -- rò re -- star,
+    Ch'io pen -- se -- rò re -- star di vi -- ta spen -- to,
         di vi -- ta spen -- to,
     \ijLyrics
         di vi -- ta spen -- to,
     \normalLyrics
-    Ch’io pen -- se -- rò re -- star
+    Ch'io pen -- se -- rò re -- star
     \ijLyrics
-    Ch’io pen -- se -- rò re -- star
+    Ch'io pen -- se -- rò re -- star
     \normalLyrics
         di vi -- ta spen -- to,
         di vi -- ta spen -- to,

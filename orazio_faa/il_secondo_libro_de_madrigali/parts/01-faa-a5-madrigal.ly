@@ -1,11 +1,11 @@
-% Gridò più volte il Po, quest’onde, o Donna,
+% Gridò più volte il Po, quest'onde, o Donna,
 % A te rivolgo, e il tuo bel nido impingo,
-% E le sponde, cui presso in trecce, e ’n gonna
+% E le sponde, cui presso in trecce, e 'n gonna
 % Errar solevi, a te sola dipingo:
-% Or Liri per mio mal di te s’indonna,
+% Or Liri per mio mal di te s'indonna,
 % Ed io piangendo il tuo ritorno fingo;
-% Lascia il Tevere, e ’l Liri, e a noi ritorna,
-% E l’Olio,e il Mincio, e il re de’ fiumi adorna,
+% Lascia il Tevere, e 'l Liri, e a noi ritorna,
+% E l'Olio,e il Mincio, e il re de' fiumi adorna,
 
 % Giulia Gonzaga, Stanza del Molza 27.
 cantoIincipit = \relative c'' {
@@ -42,18 +42,18 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    Gri -- dò più vol -- te~il Po, que -- st’on -- de~o Don -- na,
+    Gri -- dò più vol -- te~il Po, que -- st'on -- de~o Don -- na,
     A te ri -- vol -- go~e~il tuo bel ni -- do~im -- pin -- go,
     A te ri -- vol -- go~e~il tuo bel ni -- do~im -- pin -- go,
-    E le spon -- de, cui pres -- so~in trec -- ce~e’n gon -- na
+    E le spon -- de, cui pres -- so~in trec -- ce~e'n gon -- na
     Er -- rar so -- le -- vi,
     Er -- rar __ so -- le -- vi, a __ te so -- la di -- pin -- go:
-    Or Li -- ri per mio mal di te s’in -- don -- na,
-    Or Li -- ri per __ mio mal di te s’in -- don -- na,
+    Or Li -- ri per mio mal di te s'in -- don -- na,
+    Or Li -- ri per __ mio mal di te s'in -- don -- na,
     Ed io pian -- gen -- do il tuo ri -- tor -- no fin -- go;
-    La -- scia~il Te -- ve -- re~e’l Li -- ri~e~a noi ri -- tor -- na, __
-    E __ l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi~a -- dor -- na,
-    E l’O -- lio~e~il Min -- cio~e~il Re __ de’ fiu -- mi~a -- dor -- na,
+    La -- scia~il Te -- ve -- re~e'l Li -- ri~e~a noi ri -- tor -- na, __
+    E __ l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi~a -- dor -- na,
+    E l'O -- lio~e~il Min -- cio~e~il Re __ de' fiu -- mi~a -- dor -- na,
         de fiu -- mi~a -- dor -- na.
 }
 
@@ -91,21 +91,21 @@ altoI = \relative c'' {
 }
 
 altoLyricsI = \lyricmode {
-    Gri -- dò più vol -- te~il Po, que -- st’on -- de~o Don -- na,
+    Gri -- dò più vol -- te~il Po, que -- st'on -- de~o Don -- na,
     A te ri -- vol -- go~e~il tuo __ bel ni -- do~im -- pin -- go,
     A te ri -- vol -- go~e~il tuo bel ni -- do~im -- pin -- go,
-    E le spon -- de, cui pres -- so~in trec -- ce~e’n gon -- na
+    E le spon -- de, cui pres -- so~in trec -- ce~e'n gon -- na
     Er -- rar so -- le -- vi,
     Er -- rar __ so -- le -- vi, __ a te so -- la di -- pin -- go:
-    Or Li -- ri per mio mal di te s’in -- don -- na,
-    Or Li -- ri per mio mal di te s’in -- don -- na,
-        di te s’in -- don -- na,
+    Or Li -- ri per mio mal di te s'in -- don -- na,
+    Or Li -- ri per mio mal di te s'in -- don -- na,
+        di te s'in -- don -- na,
     Ed io pian -- gen -- do~il tuo ri -- tor -- no fin -- go,
     Ed io pian -- gen -- do~il tuo __ ri -- tor -- no fin -- go;
-    La -- scia~il Te -- ve -- re~e’l Li -- ri e~a noi ri -- tor -- na,
+    La -- scia~il Te -- ve -- re~e'l Li -- ri e~a noi ri -- tor -- na,
         e~a noi __ ri -- tor -- na,
-    E l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi~a -- dor -- na,
-    E l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi~a -- dor -- na. __
+    E l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi~a -- dor -- na,
+    E l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi~a -- dor -- na. __
 }
 
 tenoreIincipit = \relative c' {
@@ -143,23 +143,23 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
-    Gri -- dò più vol -- te~il Po, que -- st’on -- de~o Don -- na,
+    Gri -- dò più vol -- te~il Po, que -- st'on -- de~o Don -- na,
     A te ri -- vol -- go~e~il tuo bel ni -- do~im -- pin -- go,
     A te ri -- vol -- go,
     A te ri -- vol -- go~e~il tuo bel ni -- do~im -- pin -- go,
     E le spon -- de, cui pres -- so,
-    E le spon -- de, cui pres -- so~in trec -- ce~e’n gon -- na
+    E le spon -- de, cui pres -- so~in trec -- ce~e'n gon -- na
     Er -- rar so -- le -- vi,
     Er -- rar so -- le -- vi, a __ te so -- la di -- pin -- go:
-    Or Li -- ri per __ mio mal di te s’in -- don -- na,
-    Or Li -- ri per __ mio mal di te s’in -- don -- na,
-        di te __ s’in -- don -- na,
+    Or Li -- ri per __ mio mal di te s'in -- don -- na,
+    Or Li -- ri per __ mio mal di te s'in -- don -- na,
+        di te __ s'in -- don -- na,
     Ed io pian -- gen -- do~il tuo ri -- tor -- no fin -- go,
         il tuo ri -- tor -- no fin -- go;
-    La -- scia~il Te -- ve -- re~e’l Li -- ri~e~a noi ri -- tor -- na,
-    E l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi~a -- dor -- na,
-        de’ fiu -- mi~a -- dor -- na,
-    E l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi a -- dor -- na.
+    La -- scia~il Te -- ve -- re~e'l Li -- ri~e~a noi ri -- tor -- na,
+    E l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi~a -- dor -- na,
+        de' fiu -- mi~a -- dor -- na,
+    E l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi a -- dor -- na.
 }
 
 bassoIincipit = \relative c {
@@ -195,21 +195,21 @@ bassoI = \relative c {
 }
 
 bassoLyricsI = \lyricmode {
-    Gri -- dò più vol -- te~il Po, que -- st’on -- de~o Don -- na,
+    Gri -- dò più vol -- te~il Po, que -- st'on -- de~o Don -- na,
     A te ri -- vol -- go~e~il tuo bel ni -- do~im -- pin -- go,
     A te ri -- vol -- go,
-    E le spon -- de, cui pres -- so~in trec -- ce~e’n gon -- na
+    E le spon -- de, cui pres -- so~in trec -- ce~e'n gon -- na
     Er -- rar so -- le -- vi,
     Er -- rar so -- le -- vi, a te so -- la di -- pin -- go,
         a te so -- la di -- pin -- go:
-    Or Li -- ri per __ mio mal di te s’in -- don -- na,
-    Or Li -- ri per __ mio mal di te s’in -- don -- na,
+    Or Li -- ri per __ mio mal di te s'in -- don -- na,
+    Or Li -- ri per __ mio mal di te s'in -- don -- na,
     Ed io pian -- gen -- do~il tuo ri -- tor -- no fin -- go,
         ri -- tor -- no fin -- go;
-    La -- scia~il Te -- ve -- re~e’l Li -- ri~e~a noi __ ri -- tor -- na,
-    E l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi~a -- dor -- na,
-        de’ fiu -- mi~a -- dor -- na,
-    E l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi~a -- dor -- na,
+    La -- scia~il Te -- ve -- re~e'l Li -- ri~e~a noi __ ri -- tor -- na,
+    E l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi~a -- dor -- na,
+        de' fiu -- mi~a -- dor -- na,
+    E l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi~a -- dor -- na,
         de fiu -- mi~a -- dor -- na,
         de fiu -- mi~a -- dor -- na.
 }
@@ -247,25 +247,25 @@ quintoI = \relative c' {
 }
 
 quintoLyricsI = \lyricmode {
-    Gri -- dò più vol -- te~il Po, que -- st’on -- de~o Don -- na,
+    Gri -- dò più vol -- te~il Po, que -- st'on -- de~o Don -- na,
     A te ri -- vol -- go~e~il tuo bel ni -- do~im -- pin -- go,
     A te ri -- vol -- go,
     A te ri -- vol -- go~e~il tuo bel ni -- do~im -- pin -- go,
-    E le spon -- de, cui pres -- so in trec -- ce~e’n gon -- na
+    E le spon -- de, cui pres -- so in trec -- ce~e'n gon -- na
     Er -- rar so -- le -- vi,
     Er -- rar __ so -- le -- vi, a te so -- la di -- pin -- go:
-    Or __ Li -- ri per mio mal di te s’in -- don -- na,
-        di te s’in -- don -- na,
-    Or Li -- ri per __ mio mal di te s’in -- don -- na,
-        di te s’in -- don -- na,
+    Or __ Li -- ri per mio mal di te s'in -- don -- na,
+        di te s'in -- don -- na,
+    Or Li -- ri per __ mio mal di te s'in -- don -- na,
+        di te s'in -- don -- na,
     Ed io pian -- gen -- do,
     Ed io pian -- gen -- do~il tuo __ ri -- tor -- no fin -- go;
-    La -- scia~il Te -- ve -- re~e’l Li -- ri~e~a noi ri -- tor -- na,
+    La -- scia~il Te -- ve -- re~e'l Li -- ri~e~a noi ri -- tor -- na,
         e~a noi ri -- tor -- na,
-    E l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi~a -- dor -- na,
-        de’ fiu -- mi~a -- dor -- na,
-    E l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi,
-    E l’O -- lio~e~il Min -- cio~e~il Re de’ fiu -- mi~a -- dor -- na.
+    E l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi~a -- dor -- na,
+        de' fiu -- mi~a -- dor -- na,
+    E l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi,
+    E l'O -- lio~e~il Min -- cio~e~il Re de' fiu -- mi~a -- dor -- na.
 }
 
 cantoIincipitVoice = <<

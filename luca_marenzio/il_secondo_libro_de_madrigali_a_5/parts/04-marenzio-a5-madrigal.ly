@@ -5,8 +5,8 @@
 % Con odorati fiori
 % Per tesser ghirlandette
 % A gli amati Pastori, 
-% Fa biondo Apol che’l tuo splendor ritorni
-% A far seren’i giorni.
+% Fa biondo Apol che'l tuo splendor ritorni
+% A far seren'i giorni.
 
 cantoIVincipit = \relative c'' {
     \time 4/4
@@ -54,11 +54,11 @@ cantoLyricsIV = \lyricmode {
     Per tes -- ser ghir -- lan -- det -- te
     A __ gli~a -- ma -- ti Pa -- sto -- ri, 
     Fa bion -- do~A -- pol,
-    Fa __ bion -- do~A -- pol % che’l tuo splen -- dor ri -- tor -- ni
-    A  far se -- re -- n’i gior -- ni,
-    A far se -- re -- n’i gior -- ni,
+    Fa __ bion -- do~A -- pol % che'l tuo splen -- dor ri -- tor -- ni
+    A  far se -- re -- n'i gior -- ni,
+    A far se -- re -- n'i gior -- ni,
     \ijLyrics
-    A far se -- re -- n’i gior -- ni.
+    A far se -- re -- n'i gior -- ni.
     \normalLyrics
 }
 
@@ -106,12 +106,12 @@ altoLyricsIV = \lyricmode {
     Per tes -- ser ghir -- lan -- det -- te
     A __ gli~a -- ma -- ti Pa -- sto -- ri, 
     Fa bion -- do~A -- pol,
-    Fa bion -- do~A -- pol che’l tuo splen -- dor ri -- tor -- ni
-    A  far se -- re -- n’i gior -- ni,
+    Fa bion -- do~A -- pol che'l tuo splen -- dor ri -- tor -- ni
+    A  far se -- re -- n'i gior -- ni,
     \ijLyrics
-    A far se -- re -- n’i gior -- ni,
+    A far se -- re -- n'i gior -- ni,
     \normalLyrics
-    A far se -- re -- n’i gior -- ni.
+    A far se -- re -- n'i gior -- ni.
 }
 
 tenoreIVincipit = \relative c' {
@@ -156,9 +156,9 @@ tenoreLyricsIV = \lyricmode {
     Per tes -- ser ghir -- lan -- det -- te
     A gli~a -- ma -- ti Pa -- sto -- ri, 
     Fa __ bion -- do~A -- pol,
-    Fa bion -- do~A -- pol che’l tuo splen -- dor ri -- tor -- ni
-    A far se -- re -- n’i gior -- ni,
-    A far se -- re -- n’i gior -- ni.
+    Fa bion -- do~A -- pol che'l tuo splen -- dor ri -- tor -- ni
+    A far se -- re -- n'i gior -- ni,
+    A far se -- re -- n'i gior -- ni.
 }
 
 bassoIVincipit = \relative c {
@@ -196,10 +196,10 @@ bassoLyricsIV = \lyricmode {
     Che la -- sci -- no le Nin -- fe vez -- zo -- set -- te
     A gli~a -- ma -- ti Pa -- sto -- ri, 
     Fa bion -- do~A -- pol,
-    Fa bion -- do~A -- pol che’l tuo splen -- dor ri -- tor -- ni
-    A  far se -- re -- n’i gior -- ni,
-    A far se -- re -- n’i gior -- ni.
-%    A far se -- re -- n’i gior -- ni.
+    Fa bion -- do~A -- pol che'l tuo splen -- dor ri -- tor -- ni
+    A  far se -- re -- n'i gior -- ni,
+    A far se -- re -- n'i gior -- ni.
+%    A far se -- re -- n'i gior -- ni.
 %    \normalLyrics
 }
 
@@ -248,9 +248,9 @@ quintoLyricsIV = \lyricmode {
     Per tes -- ser ghir -- lan -- det -- te,
     Per tes -- ser ghir -- lan -- det -- te
     Fa bion -- do~A -- pol,
-    Fa bion -- do~A -- pol che’l tuo splen -- dor ri -- tor -- ni
-    A  far se -- re -- n’i gior -- ni,
-    A far se -- re -- n’i gior -- ni.
+    Fa bion -- do~A -- pol che'l tuo splen -- dor ri -- tor -- ni
+    A  far se -- re -- n'i gior -- ni,
+    A far se -- re -- n'i gior -- ni.
 }
 
 cantoIVincipitVoice = <<

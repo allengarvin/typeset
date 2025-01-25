@@ -5,7 +5,7 @@
 % Ma che mi giova, ahi lassa, il bel desire
 % se non vieta il martire,
 % né conforta i miei guai,
-% né l’aspro duol ch’io soffro a tutte l’ore
+% né l'aspro duol ch'io soffro a tutte l'ore
 % lungi da voi, dolcissimo mio core?
 
 % I live far from you,
@@ -64,7 +64,7 @@ cantoLyricsXIV = \lyricmode {
     Ma che mi gio -- va~ahi las -- sa, il bel de -- si -- re
     Se non vie -- ta~il mar -- ti -- re,
     Né con -- for -- ta~i miei gua -- i,
-    Né l’a -- spro duol ch’io sof -- fro~a tut -- te l’o -- re
+    Né l'a -- spro duol ch'io sof -- fro~a tut -- te l'o -- re
     Lun -- gi da voi, __ dol -- cis -- si -- mo,
         dol -- cis -- si -- mo mio co -- re?
         dol -- cis -- si -- mo mio co -- re?
@@ -120,7 +120,7 @@ altoLyricsXIV = \lyricmode {
     Se non vie -- ta~il mar -- ti -- re,
     se non vie -- ta~il mar -- ti -- re,
     Né con -- for -- ta~i miei gua -- i,
-    Né l’a -- spro duol ch’io sof -- fro~a tut -- te l’o -- re
+    Né l'a -- spro duol ch'io sof -- fro~a tut -- te l'o -- re
     Lun -- gi da voi, dol -- cis -- si -- mo,
         dol -- cis -- si -- mo mio co -- re?
         dol -- cis -- si -- mo mio co -- re?
@@ -182,7 +182,7 @@ tenoreLyricsXIV = \lyricmode {
     se non vie -- ta~il mar -- ti -- re,
     \normalLyrics
     Né con -- for -- ta~i miei gua -- i,
-    Né l’a -- spro duol ch’io sof -- fro~a tut -- te l’o -- re~a tut -- te l’o -- re
+    Né l'a -- spro duol ch'io sof -- fro~a tut -- te l'o -- re~a tut -- te l'o -- re
     Lun -- gi da voi, 
         dol -- cis -- si -- mo mio co -- re?
         dol -- cis -- si -- mo mio co -- re?
@@ -232,7 +232,7 @@ bassoLyricsXIV = \lyricmode {
     Se non vie -- ta~il mar -- ti -- re,
     se non vie -- ta~il mar -- ti -- re,
     Né con -- for -- ta~i miei gua -- i,
-    Né l’a -- spro duol ch’io sof -- fro~a tut -- te l’o -- re
+    Né l'a -- spro duol ch'io sof -- fro~a tut -- te l'o -- re
     Lun -- gi da voi, dol -- cis -- si -- mo,
         dol -- cis -- si -- mo mio co -- re?
         dol -- cis -- si -- mo mio co -- re?
@@ -287,8 +287,8 @@ quintoLyricsXIV = \lyricmode {
     Se non vie -- ta~il mar -- ti -- re,
     se non vie -- ta~il mar -- ti -- re,
     Né con -- for -- ta~i miei gua -- i,
-    Né l’a -- spro duol ch’io sof -- fro~a tut -- te l’o -- re,
-        ch’io sof -- fro~a tut -- te l’o -- re
+    Né l'a -- spro duol ch'io sof -- fro~a tut -- te l'o -- re,
+        ch'io sof -- fro~a tut -- te l'o -- re
     Lun -- gi da voi, dol -- cis -- si -- mo,
         dol -- cis -- si -- mo mio co -- re?
         dol -- cis -- si -- mo mio co -- re?

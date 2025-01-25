@@ -1,9 +1,9 @@
 % Io piango ed ella il volto 
-% Con le sue man m’asciuga,
+% Con le sue man m'asciuga,
 % E poi, sospira, 
 % Dolcemente e s'adira 
-% Con parole ch’i sassi romper ponno,
-% E dopo questo si parte ella e’l sonno,
+% Con parole ch'i sassi romper ponno,
+% E dopo questo si parte ella e'l sonno,
 
 cantoVIIIincipit = \relative c'' {
     \time 2/2
@@ -37,18 +37,18 @@ cantoVIII = \relative c'' {
 cantoLyricsVIII = \lyricmode {
     Io pian -- go,
     io pian -- go ed el -- la~il vol -- to 
-    Con le sue man m’a -- sciu -- ga,
+    Con le sue man m'a -- sciu -- ga,
     E poi,
     \ijLyrics
     e poi 
     \normalLyrics
         so -- spi, so -- spi -- ra, 
     Dol -- ce -- men -- te e s'a -- di -- ra 
-    Con pa -- ro -- le ch’i sas -- si rom -- per pon -- no,
+    Con pa -- ro -- le ch'i sas -- si rom -- per pon -- no,
     E do -- po que -- sto,
-    e __ do -- po que -- sto si par -- te~el -- la~e’l son -- no,
+    e __ do -- po que -- sto si par -- te~el -- la~e'l son -- no,
     e do -- po que -- sto,
-    e __ do -- po que -- sto si par -- te~el -- la~e’l son -- no.
+    e __ do -- po que -- sto si par -- te~el -- la~e'l son -- no.
 }
 
 altoVIIIincipit = \relative c' {
@@ -83,22 +83,22 @@ altoVIII = \relative c' {
 altoLyricsVIII = \lyricmode {
     Io pian -- go,
     io pian -- go ed el -- la~il vol -- to 
-    Con le sue man m’a -- sciu -- ga,
+    Con le sue man m'a -- sciu -- ga,
     E poi, so -- spi -- ra,
         so -- spi, so -- spi -- ra, 
     Dol -- ce -- men -- te,
     dol -- ce -- men -- te e s'a -- di -- ra 
-    Con pa -- ro -- le ch’i sas -- si rom -- per pon -- no,
-        ch’i sas -- si rom -- per pon -- no,
+    Con pa -- ro -- le ch'i sas -- si rom -- per pon -- no,
+        ch'i sas -- si rom -- per pon -- no,
     E do -- po que -- sto,
     e do -- po que -- sto,
-    e do -- po que -- sto si par -- te~el -- la~e’l son -- no,
-        si par -- te~el -- la~e’l son -- no,
+    e do -- po que -- sto si par -- te~el -- la~e'l son -- no,
+        si par -- te~el -- la~e'l son -- no,
     e do -- po que -- sto,
     e do -- po que -- sto,
-    e do -- po que -- sto si par -- te~el -- la~e’l son -- no,
-        si par -- te~el -- la~e’l son -- no,
-            el -- la~e’l son -- no.
+    e do -- po que -- sto si par -- te~el -- la~e'l son -- no,
+        si par -- te~el -- la~e'l son -- no,
+            el -- la~e'l son -- no.
 }
 
 tenoreVIIIincipit = \relative c' {
@@ -130,21 +130,21 @@ tenoreVIII = \relative c' {
 
 tenoreLyricsVIII = \lyricmode {
     Io pian -- go ed el -- la~il vol -- to 
-    Con le sue man m’a -- sciu -- ga,
+    Con le sue man m'a -- sciu -- ga,
     E poi so -- spi -- ra,
         so -- spi, so -- spi -- ra, 
     Dol -- ce -- men -- te,
     dol -- ce -- men -- te e s'a -- di -- ra 
     % Con pa -- ro -- le 
-        ch’i sas -- si rom -- per pon -- no,
+        ch'i sas -- si rom -- per pon -- no,
     E do -- po que -- sto,
-    e do -- po que -- sto si par -- te~el -- la~e’l son -- no,
+    e do -- po que -- sto si par -- te~el -- la~e'l son -- no,
         si par -- te, 
-        si par -- te~el -- la~e’l son -- no,
+        si par -- te~el -- la~e'l son -- no,
     e do -- po que -- sto,
-    e do -- po que -- sto si par -- te~el -- la~e’l son -- no,
+    e do -- po que -- sto si par -- te~el -- la~e'l son -- no,
         si par -- te, 
-        si par -- te~el -- la~e’l son -- no.
+        si par -- te~el -- la~e'l son -- no.
 }
 
 bassoVIIIincipit = \relative c {
@@ -180,15 +180,15 @@ bassoLyricsVIII = \lyricmode {
     Dol -- ce -- men -- te,
     dol -- ce -- men -- te e s'a -- di -- ra 
 %    Con pa -- ro -- le 
-        ch’i sas -- si rom -- per pon -- no,
+        ch'i sas -- si rom -- per pon -- no,
     E do -- po que -- sto,
-    e do -- po que -- sto si par -- te~el -- la~e’l son -- no,
+    e do -- po que -- sto si par -- te~el -- la~e'l son -- no,
         si par -- te,
-        si par -- te~el -- la~e’l son -- no,
+        si par -- te~el -- la~e'l son -- no,
     e do -- po que -- sto,
-    e do -- po que -- sto si par -- te~el -- la~e’l son -- no,
+    e do -- po que -- sto si par -- te~el -- la~e'l son -- no,
         si par -- te,
-        si par -- te~el -- la~e’l son -- no.
+        si par -- te~el -- la~e'l son -- no.
 }
 
 quintoVIIIincipit = \relative c' {
@@ -223,24 +223,24 @@ quintoVIII = \relative c' {
 quintoLyricsVIII = \lyricmode {
     Io pian -- go,
     io pian -- go ed el -- la~il vol -- to 
-    Con le sue man m’a -- sciu -- ga,
+    Con le sue man m'a -- sciu -- ga,
     E poi, so -- spi,
         so -- spi -- ra,
         so -- spi, so -- spi -- ra, 
     Dol -- ce -- men -- te,
     dol -- ce -- men -- te e s'a -- di -- ra,
         e s'a -- di -- ra 
-    Con pa -- ro -- le ch’i sas -- si rom -- per pon -- no,
-        ch’i sas -- si rom -- per pon -- no,
+    Con pa -- ro -- le ch'i sas -- si rom -- per pon -- no,
+        ch'i sas -- si rom -- per pon -- no,
     E do -- po que -- sto,
     e do -- po que -- sto,
-    e do -- po que -- sto si par -- te~el -- la~e’l son -- no,
-        si par -- te~el -- la~e’l son -- no,
-            el -- la~e’l son -- no,
+    e do -- po que -- sto si par -- te~el -- la~e'l son -- no,
+        si par -- te~el -- la~e'l son -- no,
+            el -- la~e'l son -- no,
     e do -- po que -- sto,
     e do -- po que -- sto,
-    e do -- po que -- sto si par -- te~el -- la~e’l son -- no,
-        si par -- te~el -- la~e’l son -- no,
+    e do -- po que -- sto si par -- te~el -- la~e'l son -- no,
+        si par -- te~el -- la~e'l son -- no,
             e'l son -- no.
 }
 

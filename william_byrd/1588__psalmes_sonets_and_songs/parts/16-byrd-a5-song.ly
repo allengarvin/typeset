@@ -27,16 +27,16 @@
 % a perfect harmony.
 % 
 % Music more lofty swells,
-% in phrases finely plac’d:
+% in phrases finely plac'd:
 % Beauty as far excells,
-% in action aptly grac’d:
+% in action aptly grac'd:
 % a friend each party draws,
 % to countenance his cause.
 % 
 % Love more affected seems,
 % to beauty's lovely light,
 % and wonder more esteems,
-% of Music wond’rous might,
+% of Music wond'rous might,
 % but both to both so bent,
 % as both in both are spent.
 % 
@@ -139,9 +139,9 @@ superiusLyricsXVIb = \lyricmode {
     a per -- fect har -- mo -- ny.
 
     Mu -- sic more lof -- ty swells,
-    in phra -- ses fine -- ly plac’d:
+    in phra -- ses fine -- ly plac'd:
     Beau -- ty as far ex -- cells,
-    in ac -- tion apt -- ly grac’d:
+    in ac -- tion apt -- ly grac'd:
     a friend each par -- ty __ draws,
     to coun -- te -- nance his __ cause.
 

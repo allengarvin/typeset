@@ -1,7 +1,7 @@
 % O come è gran martíre
 % a celar suo desire
 % quando con pura fede
-% s'ama chi non se’l crede.
+% s'ama chi non se'l crede.
 % O soave mio ardore,
 % o giusto mio desio,
 % s'ogn'un ama il suo core
@@ -53,9 +53,9 @@ cantoLyricsII = \lyricmode {
     o co -- m'è gran mar -- tí -- re
     A ce -- lar suo de -- si -- re
     Quan -- do con pu -- ra fe -- de
-    S'a -- ma chi non __ se’l cre -- de,
+    S'a -- ma chi non __ se'l cre -- de,
     quan -- do con pu -- ra fe -- de
-    s'a -- ma chi non se’l cre -- de.
+    s'a -- ma chi non se'l cre -- de.
 
     O so -- a -- ve mio~ar -- do -- re,
     O giu -- sto mio de -- si -- o,
@@ -110,9 +110,9 @@ altoLyricsII = \lyricmode {
     O co -- m'è gran mar -- tí -- re,
     A ce -- lar suo de -- si -- re
     Quan -- do con pu -- ra fe -- de
-    S'a -- ma chi non se’l cre -- de,
+    S'a -- ma chi non se'l cre -- de,
     quan -- do con pu -- ra fe -- de
-    s'a -- ma chi non se’l cre -- de.
+    s'a -- ma chi non se'l cre -- de.
 
     O so -- a -- ve mio~ar -- do -- re, __
     o so -- a -- ve mio~ar -- do -- re,
@@ -167,9 +167,9 @@ tenoreLyricsII = \lyricmode {
 %    o co -- m'è gran mar -- tí -- re
 %    A ce -- lar suo de -- si -- re
 %    Quan -- do con pu -- ra fe -- de
-%    S'a -- ma chi non se’l cre -- de,
+%    S'a -- ma chi non se'l cre -- de,
 %    quan -- do con pu -- ra fe -- de
-%    s'a -- ma chi non se’l cre -- de.
+%    s'a -- ma chi non se'l cre -- de.
 %
     O so -- a -- ve mio~ar -- do -- re,
     O giu -- sto mio de -- si -- o,
@@ -224,9 +224,9 @@ bassoLyricsII = \lyricmode {
 %    o co -- m'è gran mar -- tí -- re
 %    A ce -- lar suo de -- si -- re
 %    Quan -- do con pu -- ra fe -- de
-%    S'a -- ma chi non se’l cre -- de,
+%    S'a -- ma chi non se'l cre -- de,
 %    quan -- do con pu -- ra fe -- de
-%    s'a -- ma chi non se’l cre -- de.
+%    s'a -- ma chi non se'l cre -- de.
 %
     O so -- a -- ve mio~ar -- do -- re,
     o so -- a -- ve mio~ar -- do -- re,
@@ -286,9 +286,9 @@ quintoLyricsII = \lyricmode {
     A ce -- lar suo de -- si -- re,
     a ce -- lar suo de -- si -- re
     Quan -- do con pu -- ra fe -- de
-    S'a -- ma chi non se’l cre -- de,
+    S'a -- ma chi non se'l cre -- de,
     quan -- do con pu -- ra fe -- de
-    s'a -- ma chi non se’l cre -- de.
+    s'a -- ma chi non se'l cre -- de.
 
     O so -- a -- ve mio~ar -- do -- re,
     O giu -- sto mio de -- si -- o,

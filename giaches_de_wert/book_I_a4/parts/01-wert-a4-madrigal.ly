@@ -76,10 +76,10 @@ cantoI = \relative c'' {
 
 cantoLyricsI = \lyricmode {
     Che gio -- va pos -- se -- der cit -- ta -- di~e re -- gni,
-    e pa -- la -- gi~ha -- bi -- tar d’al -- to la -- vo -- ro,
-        d’al -- to la -- vo -- ro,
-    e ser -- vi~in -- tor -- no~a -- ver d’im -- pe -- rio de -- gni,
-    e l’ar -- che gra -- vi per mol -- to the -- so -- ro;
+    e pa -- la -- gi~ha -- bi -- tar d'al -- to la -- vo -- ro,
+        d'al -- to la -- vo -- ro,
+    e ser -- vi~in -- tor -- no~a -- ver d'im -- pe -- rio de -- gni,
+    e l'ar -- che gra -- vi per mol -- to the -- so -- ro;
     es -- ser can -- ta -- te da su -- bli -- mi~in -- ge -- gni,
     di por -- po -- ra ve -- stir, man -- giar' in o -- ro,
     e di bel -- lez -- za pa -- reg -- giar il so -- le,
@@ -118,9 +118,9 @@ altoI = \relative c' {
 altoLyricsI = \lyricmode {
     Che gio -- va pos -- se -- der cit -- ta -- di~e re -- gni,
     Che gio -- va pos -- se -- der cit -- ta -- di~e re -- gni,
-    e pa -- la -- gi~ha -- bi -- tar d’al -- to la -- vo -- ro,
-    e ser -- vi~in -- tor -- no~a -- ver d’im -- pe -- rio de -- gni,
-    e l’ar -- che gra -- vi per mol -- to the -- so -- ro;
+    e pa -- la -- gi~ha -- bi -- tar d'al -- to la -- vo -- ro,
+    e ser -- vi~in -- tor -- no~a -- ver d'im -- pe -- rio de -- gni,
+    e l'ar -- che gra -- vi per mol -- to the -- so -- ro;
     es -- ser can -- ta -- te da su -- bli -- mi~in -- ge -- gni,
     es -- ser can -- ta -- te da su -- bli -- mi~in -- ge -- gni,
     di por -- po -- ra ve -- stir __ man -- giar' in o -- ro,
@@ -158,9 +158,9 @@ tenoreI = \relative c' {
 tenoreLyricsI = \lyricmode {
     Che __ gio -- va pos -- se -- der cit -- ta -- di~e re -- gni,
         cit -- ta -- di~e re -- gni,
-    e pa -- la -- gi~ha -- bi -- tar d’al -- to la -- vo -- ro,
-    e ser -- vi~in -- tor -- no~a -- ver d’im -- pe -- rio de -- gni,
-    e l’ar -- che gra -- vi per mol -- to the -- so -- ro;
+    e pa -- la -- gi~ha -- bi -- tar d'al -- to la -- vo -- ro,
+    e ser -- vi~in -- tor -- no~a -- ver d'im -- pe -- rio de -- gni,
+    e l'ar -- che gra -- vi per mol -- to the -- so -- ro;
     es -- ser can -- ta -- te da su -- bli -- mi~in -- ge -- gni,
         da su -- bli -- mi~in -- ge -- gni,
     di por -- po -- ra ve -- stir __ man -- giar' in o -- ro,
@@ -196,9 +196,9 @@ bassoI = \relative c {
 
 bassoLyricsI = \lyricmode {
     Che gio -- va pos -- se -- der cit -- ta -- di~e re -- gni,
-    e pa -- la -- gi~ha -- bi -- tar d’al -- to la -- vo -- ro,
-    e ser -- vi~in -- tor -- no~a -- ver d’im -- pe -- rio de -- gni,
-    e l’ar -- che gra -- vi per mol -- to the -- so -- ro;
+    e pa -- la -- gi~ha -- bi -- tar d'al -- to la -- vo -- ro,
+    e ser -- vi~in -- tor -- no~a -- ver d'im -- pe -- rio de -- gni,
+    e l'ar -- che gra -- vi per mol -- to the -- so -- ro;
     es -- ser can -- ta -- te da su -- bli -- mi~in -- ge -- gni,
     di por -- po -- ra ve -- stir __ man -- giar' in o -- ro,
     e di bel -- lez -- za pa -- reg -- giar il so -- le,
@@ -235,9 +235,9 @@ bassoIincipitVoice = <<
 
 % XLII
 % Che giova posseder cittadi e regni,
-% E palagi abitar d’ alto lavoro,
-% E servi intorno aver d’ imperio degni,
-% E l’arche gravi per molto tesoro;
+% E palagi abitar d' alto lavoro,
+% E servi intorno aver d' imperio degni,
+% E l'arche gravi per molto tesoro;
 % Esser cantate da sublimi ingegni,
 % Di porpora vestir, mangiar in oro,
 % E di bellezza pareggiar il Sole,
@@ -246,25 +246,25 @@ bassoIincipitVoice = <<
 % Ma che non giova aver fedeli amanti,
 % E con loro partir ogni pensiero,
 % I desir, le paure, i risi, i pianti,
-% E l’ ira e la speranza, e’l falso e’l vero;
+% E l' ira e la speranza, e'l falso e'l vero;
 % Ed or con opre care, or con sembianti
 % Il grave della vita far leggero;
 % E sè di rozze in atto e in pensier vili
-% Sovra l’ uso mondan vaghe e gentili?
+% Sovra l' uso mondan vaghe e gentili?
 % 
 % Quanto esser vi dee caro un uom che brami
 % La vostra molto più che la sua gioja?
-% Ch’altro che’l nome vostro unqua non chiami?
+% Ch'altro che'l nome vostro unqua non chiami?
 % Che sol pensando in voi tempri ogni noja?
-% Che più che ’l mondo in un vi tema ed ami?
+% Che più che 'l mondo in un vi tema ed ami?
 % Che spesso in voi si viva, in sé si moja?
 % 
 % Che le vostre tranquille e pure luci
 % Del suo corso mortal segua per duci?
 % [ocr errors]
 % 
-% O quanto è dolce, perch’Amor la stringa,
-% Talor sentirsi un’ alma venir meno!
+% O quanto è dolce, perch'Amor la stringa,
+% Talor sentirsi un' alma venir meno!
 % Saper come due volti un sol dipinga
 % Color, come due voglie regga un freno!
 % Come un bel ghiaccio ad arder si constringa ,
@@ -273,12 +273,12 @@ bassoIincipitVoice = <<
 % Perchè sempre di gioja il cor trabocchi!
 % 
 % Puossi morta chiamar quella, di cui
-% Face d’Amor nessun pensiero accende,
+% Face d'Amor nessun pensiero accende,
 % Nè dice: Che son io, lassa? che fui?
 % Nè giova al mondo, e sè medesma offende,
 % Nè si tien cara, nè vuol darsi a lui,
-% Che già molt’ anni sol un giorno attende:
-% Nè sa con l’alma nella fronte espressa
+% Che già molt' anni sol un giorno attende:
+% Nè sa con l'alma nella fronte espressa
 % Altrui cercar, e ritrovar sè stessa.
 % 
 % Però che voi non siete cosa integra,
@@ -287,5 +287,5 @@ bassoIincipitVoice = <<
 % E lega e strigne come‘ chiodo al mezzo;
 % Onde ogni parte intanto si rallegra,
 % Che suoi diletti e gioje non han mezzo:
-% E s’uom durasse molto in tale stato,
+% E s'uom durasse molto in tale stato,
 % Compitamente diverria beato. 

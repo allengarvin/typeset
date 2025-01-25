@@ -1,6 +1,6 @@
-% E il fior ch’in ciel potea pormi fra i dei,
-% Il fior ch’intatto io mi venia serbando
-% Per non turbarti, ohimè! l’animo casto,
+% E il fior ch'in ciel potea pormi fra i dei,
+% Il fior ch'intatto io mi venia serbando
+% Per non turbarti, ohimè! l'animo casto,
 % Ohimè! per forza avranno colto e guasto.
 
 cantoIVincipit = \relative c'' {
@@ -30,17 +30,17 @@ cantoIV = \relative c'' {
 }
 
 cantoLyricsIV = \lyricmode {
-    E~il fior ch’in ciel __ po -- tea por -- mi fra~i de -- i,
-    E~il fior ch’in ciel __ po -- tea por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do
+    E~il fior ch'in ciel __ po -- tea por -- mi fra~i de -- i,
+    E~il fior ch'in ciel __ po -- tea por -- mi fra~i de -- i,
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do
     Per non tur -- bar -- ti, 
-    Per non tur -- bar -- ti,~ohi -- mè! l’a -- ni -- mo ca -- sto,
+    Per non tur -- bar -- ti,~ohi -- mè! l'a -- ni -- mo ca -- sto,
     Per non tur -- bar -- ti, 
-    Per non tur -- bar -- ti,~ohi -- mè! l’a -- ni -- mo ca -- sto,
+    Per non tur -- bar -- ti,~ohi -- mè! l'a -- ni -- mo ca -- sto,
     Ohi -- mè! __ per for -- za,
-    Ohi -- mè! __ per for -- za l’a -- vran -- no tol -- to~e gua -- sto,
+    Ohi -- mè! __ per for -- za l'a -- vran -- no tol -- to~e gua -- sto,
     Ohi -- mè! __ per for -- za,
-    Ohi -- mè! __ per for -- za l’a -- vran -- no tol -- to~e gua -- sto.
+    Ohi -- mè! __ per for -- za l'a -- vran -- no tol -- to~e gua -- sto.
 }
 
 altoIVincipit = \relative c'' {
@@ -71,17 +71,17 @@ altoIV = \relative c'' {
 }
 
 altoLyricsIV = \lyricmode {
-    E~il fior ch’in ciel po -- tea por -- mi fra~i de -- i,
-    E~il fior ch’in ciel po -- tea por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do
-    Per non tur -- bar -- ti, ohi -- mè! l’a -- ni -- mo ca -- sto,
-    Per non tur -- bar -- ti, ohi -- mè! __ l’a -- ni -- mo ca -- sto,
+    E~il fior ch'in ciel po -- tea por -- mi fra~i de -- i,
+    E~il fior ch'in ciel po -- tea por -- mi fra~i de -- i,
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do
+    Per non tur -- bar -- ti, ohi -- mè! l'a -- ni -- mo ca -- sto,
+    Per non tur -- bar -- ti, ohi -- mè! __ l'a -- ni -- mo ca -- sto,
     Ohi -- mè! __ per for -- za,
     Ohi -- mè! __ per for -- za,
-    Ohi -- mè! __ per for -- za l’a -- vran -- no tol -- to~e gua -- sto,
+    Ohi -- mè! __ per for -- za l'a -- vran -- no tol -- to~e gua -- sto,
     Ohi -- mè! __ per for -- za,
     Ohi -- mè! __ per for -- za,
-    Ohi -- mè! __ per for -- za l’a -- vran -- no tol -- to~e gua -- sto.
+    Ohi -- mè! __ per for -- za l'a -- vran -- no tol -- to~e gua -- sto.
 }
 
 tenoreIVincipit = \relative c' {
@@ -112,20 +112,20 @@ tenoreIV = \relative c' {
 }
 
 tenoreLyricsIV = \lyricmode {
-    E~il fior ch’in ciel po -- tea por -- mi fra~i de -- i,
-    E~il fior ch’in ciel po -- tea por -- mi fra~i de -- i,
+    E~il fior ch'in ciel po -- tea por -- mi fra~i de -- i,
+    E~il fior ch'in ciel po -- tea por -- mi fra~i de -- i,
         po -- tea por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do __
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do __
     Per non tur -- bar -- ti, 
-    Per non tur -- bar -- ti, ohi -- mè! l’a -- ni -- mo ca -- sto,
+    Per non tur -- bar -- ti, ohi -- mè! l'a -- ni -- mo ca -- sto,
     Per non tur -- bar -- ti, 
-    Per non tur -- bar -- ti, ohi -- mè! l’a -- ni -- mo ca -- sto,
+    Per non tur -- bar -- ti, ohi -- mè! l'a -- ni -- mo ca -- sto,
     Ohi -- mè! __ per for -- za,
     Ohi -- mè! __ per for -- za,
-    Ohi -- mè! per for -- za l’a -- vran -- no tol -- to~e gua -- sto,
+    Ohi -- mè! per for -- za l'a -- vran -- no tol -- to~e gua -- sto,
     Ohi -- mè! __ per for -- za,
     Ohi -- mè! __ per for -- za,
-    Ohi -- mè! per for -- za l’a -- vran -- no tol -- to~e __ gua -- sto.
+    Ohi -- mè! per for -- za l'a -- vran -- no tol -- to~e __ gua -- sto.
 }
 
 bassoIVincipit = \relative c' {
@@ -155,16 +155,16 @@ bassoIV = \relative c' {
 }
 
 bassoLyricsIV = \lyricmode {
-    E~il fior ch’in ciel __ po -- tea por -- mi fra~i de -- i,
-    Il fior ch’in -- tat -- to~io mi ve -- nia ser -- ban -- do
-    Per non tur -- bar -- ti, ohi -- mè! l’a -- ni -- mo ca -- sto,
-    Per non tur -- bar -- ti, ohi -- mè! l’a -- ni -- mo ca -- sto,
+    E~il fior ch'in ciel __ po -- tea por -- mi fra~i de -- i,
+    Il fior ch'in -- tat -- to~io mi ve -- nia ser -- ban -- do
+    Per non tur -- bar -- ti, ohi -- mè! l'a -- ni -- mo ca -- sto,
+    Per non tur -- bar -- ti, ohi -- mè! l'a -- ni -- mo ca -- sto,
     Ohi -- mè! __ per for -- za,
     Ohi -- mè! __ per for -- za,
-    Ohi -- mè! per for -- za l’a -- vran -- no tol -- to~e gua -- sto,
+    Ohi -- mè! per for -- za l'a -- vran -- no tol -- to~e gua -- sto,
     Ohi -- mè! __ per for -- za,
     Ohi -- mè! __ per for -- za,
-    Ohi -- mè! per for -- za l’a -- vran -- no tol -- to~e gua -- sto.
+    Ohi -- mè! per for -- za l'a -- vran -- no tol -- to~e gua -- sto.
 }
 
 cantoIVincipitVoice = <<

@@ -1,12 +1,12 @@
 % Dolci sospiri ardenti,
 % che dal bel petto fuore
 % fermate uscendo i furiosi venti,
-% ditemi se’l suo core
+% ditemi se'l suo core
 % punge amoroso strale,
-% ch’io giuro per amore
+% ch'io giuro per amore
 % di cantar lieto senza sdegno et ira:
-% Ben è felice l’alma
-% per chi l’alta cagion del mio gran male
+% Ben è felice l'alma
+% per chi l'alta cagion del mio gran male
 % dolcemente sospira.
 
 % Sweet amorous sighs
@@ -64,17 +64,17 @@ cantoLyricsIII = \lyricmode {
     Che dal bel pet -- to fuo -- re
     Fer -- ma -- te~u -- scen -- do~i fu -- ri -- o -- si ven -- ti,
     che dal bel pet -- to fuo -- re
-    Di -- te -- mi se’l suo co -- re,
+    Di -- te -- mi se'l suo co -- re,
     \ijLyrics
-    di -- te -- mi se’l suo co -- re
+    di -- te -- mi se'l suo co -- re
     \normalLyrics
     Pun -- ge~a -- mo -- ro -- so stra -- le,
-    Ch’io giu -- ro per a -- mo -- re
+    Ch'io giu -- ro per a -- mo -- re
     Di can -- tar lie -- to sen -- za sde -- gno~ed i -- ra:
-    Ben è fe -- li -- ce l’al -- ma
-    Per chi l’al -- ta ca -- gion __ del mio gran ma -- le
-    per chi l’al -- ta ca -- gion,
-    per chi l’al -- ta ca -- gion __ del mio gran ma -- le
+    Ben è fe -- li -- ce l'al -- ma
+    Per chi l'al -- ta ca -- gion __ del mio gran ma -- le
+    per chi l'al -- ta ca -- gion,
+    per chi l'al -- ta ca -- gion __ del mio gran ma -- le
     Dol -- ce -- men -- te so -- spi -- ra,
     dol -- ce -- men -- te so -- spi -- ra,
         so -- spi -- ra,
@@ -128,25 +128,25 @@ altoLyricsIII = \lyricmode {
     Che dal bel pet -- to fuo -- re
     Fer -- ma -- te~u -- scen -- do~i fu -- ri -- o -- si ven -- ti,
     Fer -- ma -- te~u -- scen -- do~i fu -- ri -- o -- si ven -- ti,
-    Di -- te -- mi se’l suo co -- re,
+    Di -- te -- mi se'l suo co -- re,
     \ijLyrics
-    di -- te -- mi se’l suo co -- re
+    di -- te -- mi se'l suo co -- re
     \normalLyrics
     Pun -- ge~a -- mo -- ro -- so stra -- le,
-    Ch’io giu -- ro per a -- mo -- re,
+    Ch'io giu -- ro per a -- mo -- re,
     \ijLyrics
-    ch’io giu -- ro per a -- mo -- re
+    ch'io giu -- ro per a -- mo -- re
     \normalLyrics
     Di can -- tar lie -- to sen -- za sde -- gno~ed i -- ra,
         sen -- za sde -- gno~ed i -- ra:
-    Ben è fe -- li -- ce l’al -- ma,
+    Ben è fe -- li -- ce l'al -- ma,
     \ijLyrics
-    ben è fe -- li -- ce l’al -- ma
+    ben è fe -- li -- ce l'al -- ma
     \normalLyrics
-    Per chi l’al -- ta ca -- gion del mio gran ma -- le,
+    Per chi l'al -- ta ca -- gion del mio gran ma -- le,
         del mio gran ma -- le
     Dol -- ce -- men -- te so -- spi -- ra,
-    per chi l’al -- ta ca -- gion del mio gran ma -- le,
+    per chi l'al -- ta ca -- gion del mio gran ma -- le,
     dol -- ce -- men -- te so -- spi -- ra,
         so -- spi -- ra,
     dol -- ce -- men -- te so -- spi -- ra,
@@ -197,19 +197,19 @@ tenoreLyricsIII = \lyricmode {
     Dol -- ci so -- spi -- ri~ar -- den -- ti,
     Che dal bel pet -- to fuo -- re
     Fer -- ma -- te~u -- scen -- do~i fu -- ri -- o -- si ven -- ti,
-    Di -- te -- mi se’l suo co -- re,
+    Di -- te -- mi se'l suo co -- re,
     \ijLyrics
-    di -- te -- mi se’l suo co -- re
+    di -- te -- mi se'l suo co -- re
     \normalLyrics
 %    Pun -- ge~a -- mo -- ro -- so stra -- le,
-    Ch’io giu -- ro per a -- mo -- re
+    Ch'io giu -- ro per a -- mo -- re
     Di can -- tar lie -- to sen -- za sde -- gno,
         sen -- za sde -- gno~ed i -- ra:
-    Ben è fe -- li -- ce l’al -- ma
-    Per chi l’al -- ta ca -- gion del mio gran ma -- le
+    Ben è fe -- li -- ce l'al -- ma
+    Per chi l'al -- ta ca -- gion del mio gran ma -- le
     Dol -- ce -- men -- te so -- spi -- ra,
     dol -- ce -- men -- te so -- spi -- ra,
-    per chi l’al -- ta ca -- gion del mio gran ma -- le
+    per chi l'al -- ta ca -- gion del mio gran ma -- le
     Dol -- ce -- men -- te so -- spi -- ra,
     dol -- ce -- men -- te so -- spi -- ra.
 }
@@ -262,18 +262,18 @@ bassoLyricsIII = \lyricmode {
     Che dal bel pet -- to fuo -- re
     Fer -- ma -- te~u -- scen -- do~i fu -- ri -- o -- si ven -- ti,
 %    che dal bel pet -- to fuo -- re
-    Di -- te -- mi se’l suo co -- re,
+    Di -- te -- mi se'l suo co -- re,
     \ijLyrics
-    di -- te -- mi se’l suo co -- re
+    di -- te -- mi se'l suo co -- re
     \normalLyrics
 %    Pun -- ge~a -- mo -- ro -- so stra -- le,
-    Ch’io giu -- ro per a -- mo -- re,
-    ch’io giu -- ro per a -- mo -- re
+    Ch'io giu -- ro per a -- mo -- re,
+    ch'io giu -- ro per a -- mo -- re
     Di can -- tar lie -- to sen -- za sde -- gno~ed i -- ra:
-    Ben è fe -- li -- ce l’al -- ma
-    Per chi l’al -- ta ca -- gion __ del mio gran ma -- le
+    Ben è fe -- li -- ce l'al -- ma
+    Per chi l'al -- ta ca -- gion __ del mio gran ma -- le
     Dol -- ce -- men -- te so -- spi -- ra,
-    per chi l’al -- ta ca -- gion del mio gran ma -- le,
+    per chi l'al -- ta ca -- gion del mio gran ma -- le,
         del mio __ gran ma -- le
     dol -- ce -- men -- te so -- spi -- ra,
     dol -- ce -- men -- te so -- spi -- ra,
@@ -325,19 +325,19 @@ quintoLyricsIII = \lyricmode {
     Che dal bel pet -- to fuo -- re
     Fer -- ma -- te~u -- scen -- do~i fu -- ri -- o -- si ven -- ti,
     che dal bel pet -- to fuo -- re
-    Di -- te -- mi se’l suo co -- re,
-    di -- te -- mi se’l suo co -- re
+    Di -- te -- mi se'l suo co -- re,
+    di -- te -- mi se'l suo co -- re
     Pun -- ge~a -- mo -- ro -- so stra -- le,
-    Ch’io giu -- ro per a -- mo -- re,
-    ch’io giu -- ro per a -- mo -- re __
+    Ch'io giu -- ro per a -- mo -- re,
+    ch'io giu -- ro per a -- mo -- re __
     Di can -- tar lie -- to sen -- za sde -- gno~ed i -- ra:
-    Ben __ è fe -- li -- ce l’al -- ma
-%    Per chi l’al -- ta ca -- gion del mio gran ma -- le
-%    per chi l’al -- ta ca -- gion,
-%    per chi l’al -- ta ca -- gion del mio gran ma -- le
+    Ben __ è fe -- li -- ce l'al -- ma
+%    Per chi l'al -- ta ca -- gion del mio gran ma -- le
+%    per chi l'al -- ta ca -- gion,
+%    per chi l'al -- ta ca -- gion del mio gran ma -- le
     Dol -- ce -- men -- te so -- spi -- ra,
     dol -- ce -- men -- te so -- spi -- ra,
-    Per chi l’al -- ta ca -- gion __ del mio gran ma -- le,
+    Per chi l'al -- ta ca -- gion __ del mio gran ma -- le,
         del mio gran ma -- le
     dol -- ce -- men -- te so -- spi -- ra,
     dol -- ce -- men -- te so -- spi -- ra,

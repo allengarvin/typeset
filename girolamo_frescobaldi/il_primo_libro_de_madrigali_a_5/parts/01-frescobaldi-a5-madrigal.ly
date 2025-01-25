@@ -24,7 +24,7 @@
 % saying, “Yes, I love you.”
 % Vision of happiness, feeling of ardent joy,
 % if only heaven would grant me
-% that your heart’s love will endure
+% that your heart's love will endure
 % and your love shall live eternally through mine.
 % 
 

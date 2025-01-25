@@ -1,6 +1,6 @@
 %Ecco, o dolce, o gradita,
 %vita della mia vita:
-%Ecco, mosso a pietà de’ tuoi martiri
+%Ecco, mosso a pietà de' tuoi martiri
 %sospiro e piango, e non han pace o tregua
 %il mio pianto e i sospiri.
 %È forza al fin che la mia morte segua.
@@ -66,8 +66,8 @@ cantoLyricsVI = \lyricmode {
     Ec -- co, o dol -- ce~o gra -- di -- ta,
     Vi -- ta del -- la mia vi -- ta,
     vi -- ta del -- la __ mia vi -- ta:
-    Ec -- co mos -- so~a pie -- tà de’ tuoi mar -- ti -- ri,
-        de’ tuoi mar -- ti -- ri
+    Ec -- co mos -- so~a pie -- tà de' tuoi mar -- ti -- ri,
+        de' tuoi mar -- ti -- ri
     So -- spi -- ro~e pian -- go, e non han pa -- ce~o tre -- gua
     Il mio pian -- to~e~i so -- spi -- ri,
         e~i so -- spi -- ri.
@@ -118,7 +118,7 @@ altoVI = \relative c'' {
 altoLyricsVI = \lyricmode {
     Ec -- co, o dol -- ce~o gra -- di -- ta,
     Vi -- ta del -- la mia vi -- ta:
-    Ec -- co mos -- so~a pie -- tà de’ __ tuoi __ mar -- ti -- ri
+    Ec -- co mos -- so~a pie -- tà de' __ tuoi __ mar -- ti -- ri
     So -- spi -- ro~e pian -- go, e non han pa -- ce~o tre -- gua
     Il mio pian -- to~e~i so -- spi -- ri,
         e~i so -- spi -- ri.
@@ -171,7 +171,7 @@ tenoreVI = \relative c'' {
 tenoreLyricsVI = \lyricmode {
     Ec -- co, o dol -- ce~o gra -- di -- ta,
     Vi -- ta del -- la mia vi -- ta,
-    Ec -- co mos -- so~a pie -- tà de’ tuoi mar -- ti -- ri
+    Ec -- co mos -- so~a pie -- tà de' tuoi mar -- ti -- ri
 %    So -- spi -- ro~e pian -- go, e non han pa -- ce~o tre -- gua
         e pian -- go,
     So -- spi -- ro~e pian -- go, e non han pa -- ce~o tre -- gua
@@ -217,8 +217,8 @@ bassoLyricsVI = \lyricmode {
 %    Ec -- co, o dol -- ce~o gra -- di -- ta,
 %    Vi -- ta del -- la mia vi -- ta,
 %    vi -- ta del -- la mia vi -- ta:
-    Ec -- co mos -- so~a pie -- tà de’ tuoi,
-        de’ tuoi __ mar -- ti -- ri
+    Ec -- co mos -- so~a pie -- tà de' tuoi,
+        de' tuoi __ mar -- ti -- ri
     So -- spi -- ro~e pian -- go, e non han pa -- ce~o tre -- gua
     Il mio pian -- to~e~i so -- spi -- ri.
     È for -- za~al fin,
@@ -268,7 +268,7 @@ quintoLyricsVI = \lyricmode {
     Ec -- co, o dol -- ce~o gra -- di -- ta,
     Vi -- ta del -- la __ mia vi -- ta,
     vi -- ta del -- la mia vi -- ta:
-    Ec -- co mos -- so~a pie -- tà de’ tuoi __ mar -- ti -- ri
+    Ec -- co mos -- so~a pie -- tà de' tuoi __ mar -- ti -- ri
     So -- spi -- ro~e pian -- go, e non han pa -- ce~o tre -- gua
     Il mio pian -- to~e~i so -- spi -- ri,
     il mio pian -- to~e~i so -- spi -- ri.

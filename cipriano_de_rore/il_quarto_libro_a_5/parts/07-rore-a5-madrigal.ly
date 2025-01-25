@@ -1,9 +1,9 @@
 % XLV 37 Come la notte ogni fiammella è viva,
-%        e riman spenta subito ch’aggiorna;
+%        e riman spenta subito ch'aggiorna;
 %        così, quando il mio sol di sé mi priva,
 %        mi leva incontra il rio timor le corna:
-%        ma non sì tosto all’orizzonte arriva,
-%        che ’l timor fugge, e la speranza torna.
+%        ma non sì tosto all'orizzonte arriva,
+%        che 'l timor fugge, e la speranza torna.
 %        Deh torna a me, deh torna, o caro lume,
 %        e scaccia il rio timor che mi consume!
 
@@ -40,11 +40,11 @@ cantoVII = \relative c' {
 
 cantoLyricsVII = \lyricmode {
     Co -- me la not -- te~o -- gni fiam -- mel -- la~è vi -- va, __
-    E __ ri -- man spen -- ta su -- bi -- to ch’ag -- gior -- na;
+    E __ ri -- man spen -- ta su -- bi -- to ch'ag -- gior -- na;
     Co -- sì, quan -- do~il mio sol di sé mi pri -- va, __
     Mi __ le -- va~in -- con -- tra~il rio ti -- mor le cor -- na:
-    Ma non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Che’l __ ti -- mor fug -- ge~e la spe -- ran -- za tor -- na.
+    Ma non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Che'l __ ti -- mor fug -- ge~e la spe -- ran -- za tor -- na.
     Deh tor -- na~a me, __
     Deh __ tor -- na~a me, deh tor -- na, o __ ca -- ro lu -- me,  __
     E scac -- cia~il rio ti -- mor che mi con -- su -- me, 
@@ -86,11 +86,11 @@ altoVII = \relative c' {
 
 altoLyricsVII = \lyricmode {
     Co -- me la not -- te~o -- gni fiam -- mel -- la~è vi -- va, __
-    E __ ri -- man spen -- ta su -- bi -- to ch’ag -- gior -- na;
+    E __ ri -- man spen -- ta su -- bi -- to ch'ag -- gior -- na;
     Co -- sì, quan -- do~il mio sol di sé mi pri -- va, __
     Mi __ le -- va~in -- con -- tra~il rio ti -- mor le cor -- na:
-    Ma non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Che’l __ ti -- mor fug -- ge~e la spe -- ran -- za tor -- na.
+    Ma non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Che'l __ ti -- mor fug -- ge~e la spe -- ran -- za tor -- na.
     Deh tor -- na~a me, __
     Deh __ tor -- na~a me, deh tor -- na, o __ ca -- ro lu -- me, __
     E scac -- cia~il rio ti -- mor che mi con -- su -- me, 
@@ -133,12 +133,12 @@ tenoreVII = \relative c' {
 tenoreLyricsVII = \lyricmode {
     Co -- me la not -- te~o -- gni fiam -- mel -- la~è vi -- va,
     E ri -- man spen -- ta su -- bi -- to,
-        su -- bi -- to ch’ag -- gior -- na;
+        su -- bi -- to ch'ag -- gior -- na;
     Co -- sì, quan -- do~il mio sol di sé __ mi pri -- va,
     Mi le -- va~in -- con -- tra~il rio ti -- mor le cor -- na:
-    Ma __ non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Ma non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Che’l ti -- mor fug -- ge~e la spe -- ran -- za tor -- na.
+    Ma __ non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Ma non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Che'l ti -- mor fug -- ge~e la spe -- ran -- za tor -- na.
     Deh, __ Deh __ tor -- na~a me, 
     Deh, Deh tor -- na~a me, deh tor -- na, o ca -- ro lu -- me, 
         o ca -- ro lu -- me, 
@@ -181,12 +181,12 @@ bassoVII = \relative c {
 
 bassoLyricsVII = \lyricmode {
     Co -- me la not -- te~o -- gni fiam -- mel -- la~è vi -- va,
-    E ri -- man spen -- ta su -- bi -- to ch’ag -- gior -- na;
+    E ri -- man spen -- ta su -- bi -- to ch'ag -- gior -- na;
     Co -- sì, quan -- do~il mio sol di sé mi pri -- va,
     Mi le -- va~in -- con -- tra~il rio ti -- mor le cor -- na:
-    Ma, Ma __ non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Ma non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Che’l ti -- mor fug -- ge e la spe -- ran -- za tor -- na.
+    Ma, Ma __ non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Ma non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Che'l ti -- mor fug -- ge e la spe -- ran -- za tor -- na.
     Deh __ tor -- na~a me, 
     Deh __ tor -- na~a me, deh tor -- na, o ca -- ro lu -- me, 
         o ca -- ro lu -- me, 
@@ -228,13 +228,13 @@ quintoVII = \relative c' {
 quintoLyricsVII = \lyricmode {
     Co -- me la not -- te~o -- gni fiam -- mel -- la~è vi -- va,
     E ri -- man spen -- ta,
-    E __ ri -- man spen -- ta su -- bi -- to ch’ag -- gior -- na;
+    E __ ri -- man spen -- ta su -- bi -- to ch'ag -- gior -- na;
     Co -- sì, quan -- do~il mio sol di sé mi pri -- va,
     Mi le -- va~in -- con -- tra,
     Mi le -- va~in -- con -- tra~il rio ti -- mor le cor -- na:
-    Ma non __ sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Ma non sì to -- sto~al -- l’o -- riz -- zon -- te~ar -- ri -- va,
-    Che’l ti -- mor fug -- ge~e la spe -- ran -- za tor -- na.
+    Ma non __ sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Ma non sì to -- sto~al -- l'o -- riz -- zon -- te~ar -- ri -- va,
+    Che'l ti -- mor fug -- ge~e la spe -- ran -- za tor -- na.
     Deh, Deh tor -- na~a me, 
     Deh, __ Deh __ tor -- na~a me, deh tor -- na, o __ ca -- ro __ lu -- me, __
     E scac -- cia~il rio ti -- mor che mi con -- su -- me, __

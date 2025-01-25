@@ -1,11 +1,11 @@
-%   29 All’apparir che fece all’improviso
-%      de l’acqua l’ombra, ogni pelo arricciossi,
+%   29 All'apparir che fece all'improviso
+%      de l'acqua l'ombra, ogni pelo arricciossi,
 %      e scolorossi al Saracino il viso;
-%      la voce, ch’era per uscir, fermossi.
-%      Udendo poi da l’Argalia, ch’ucciso
-%      quivi avea già (che l’Argalia nomossi),
+%      la voce, ch'era per uscir, fermossi.
+%      Udendo poi da l'Argalia, ch'ucciso
+%      quivi avea già (che l'Argalia nomossi),
 %      la rotta fede così improverarse,
-%      di scorno e d’ira dentro e di fuor arse.
+%      di scorno e d'ira dentro e di fuor arse.
 
 cantoVincipit = \relative c'' {
     \time 4/4
@@ -40,19 +40,19 @@ cantoV = \relative c'' {
 }
 
 cantoLyricsV = \lyricmode {
-    Al -- l’ap -- pa -- rir che fe -- ce~al -- l’im -- pro -- vi -- so
-    De l’ac -- qua l’om -- bra~o -- gni pe -- lo~ar -- ric -- cios -- si,
+    Al -- l'ap -- pa -- rir che fe -- ce~al -- l'im -- pro -- vi -- so
+    De l'ac -- qua l'om -- bra~o -- gni pe -- lo~ar -- ric -- cios -- si,
     E sco -- lo -- ros -- si~al Sa -- ra -- ci -- no~il vi -- so,
     E sco -- lo -- ros -- si~al Sa -- ra -- ci -- no~il vi -- so,
         il __ vi -- so; 
-    La vo -- ce, ch’e -- ra per u -- scir, fer -- mos -- si.
-    U -- den -- do poi da l’Ar -- ga -- lia, ch’uc -- ci -- so
-    Qui -- vi~a -- vea già, che l’Ar -- ga -- lia no -- mos -- si,
+    La vo -- ce, ch'e -- ra per u -- scir, fer -- mos -- si.
+    U -- den -- do poi da l'Ar -- ga -- lia, ch'uc -- ci -- so
+    Qui -- vi~a -- vea già, che l'Ar -- ga -- lia no -- mos -- si,
     La rot -- ta fe -- de,
     La rot -- ta fe -- de co -- sì~im -- pro -- ve -- rar -- se,
-    Di __ scor -- no~e d’i -- ra den -- tro~e di fuor ar -- se,
-    Di scor -- no~e d’i -- ra, 
-    Di __ scor -- no~e d’i -- ra den -- tro~e di fuor ar -- se.
+    Di __ scor -- no~e d'i -- ra den -- tro~e di fuor ar -- se,
+    Di scor -- no~e d'i -- ra, 
+    Di __ scor -- no~e d'i -- ra den -- tro~e di fuor ar -- se.
 }
 
 altoVincipit = \relative c'' {
@@ -85,19 +85,19 @@ altoV = \relative c'' {
 }
 
 altoLyricsV = \lyricmode {
-    Al -- l’ap -- pa -- rir che fe -- ce~al -- l’im -- pro -- vi -- so,
-        al -- l’im -- pro -- vi -- so
-    De l’ac -- qua l’om -- bra~o -- gni pe -- lo~ar -- ric -- cios -- si,
+    Al -- l'ap -- pa -- rir che fe -- ce~al -- l'im -- pro -- vi -- so,
+        al -- l'im -- pro -- vi -- so
+    De l'ac -- qua l'om -- bra~o -- gni pe -- lo~ar -- ric -- cios -- si,
     E sco -- lo -- ros -- si~al Sa -- ra -- ci -- no~il vi -- so,
         il vi -- so,
     E sco -- lo -- ros -- si~al Sa -- ra -- ci -- no~il vi -- so,
-    La vo -- ce, ch’e -- ra per u -- scir, fer -- mos -- si.
-    U -- den -- do poi da l’Ar -- ga -- lia, __ ch’uc -- ci -- so
-    Qui -- vi~a -- vea già, __ che l’Ar -- ga -- lia no -- mos -- si,
+    La vo -- ce, ch'e -- ra per u -- scir, fer -- mos -- si.
+    U -- den -- do poi da l'Ar -- ga -- lia, __ ch'uc -- ci -- so
+    Qui -- vi~a -- vea già, __ che l'Ar -- ga -- lia no -- mos -- si,
     La rot -- ta fe -- de co -- sì~im -- pro -- ve -- rar -- se,
-    Di scor -- no~e d’i -- ra den -- tro~e di fuor ar -- se,
-    Di scor -- no~e d’i -- ra, 
-    Di scor -- no~e d’i -- ra den -- tro~e di fuor ar -- se.
+    Di scor -- no~e d'i -- ra den -- tro~e di fuor ar -- se,
+    Di scor -- no~e d'i -- ra, 
+    Di scor -- no~e d'i -- ra den -- tro~e di fuor ar -- se.
 }
 
 tenoreVincipit = \relative c' {
@@ -130,20 +130,20 @@ tenoreV = \relative c' {
 }
 
 tenoreLyricsV = \lyricmode {
-    Al -- l’ap -- pa -- rir che fe -- ce~al -- l’im -- pro -- vi -- so,
-        al -- l’im -- pro -- vi -- so
-    De l’ac -- qua l’om -- bra~o -- gni pe -- lo~ar -- ric -- cios -- si,
+    Al -- l'ap -- pa -- rir che fe -- ce~al -- l'im -- pro -- vi -- so,
+        al -- l'im -- pro -- vi -- so
+    De l'ac -- qua l'om -- bra~o -- gni pe -- lo~ar -- ric -- cios -- si,
     E sco -- lo -- ros -- si~al Sa -- ra -- ci -- no~il vi -- so,
     E sco -- lo -- ros -- si~al Sa -- ra -- ci -- no~il vi -- so,
         al Sa -- ra -- ci -- no~il vi -- so,
-    La vo -- ce, ch’e -- ra per u -- scir, fer -- mos -- si.
-    U -- den -- do poi da l’Ar -- ga -- lia, ch’uc -- ci -- so
+    La vo -- ce, ch'e -- ra per u -- scir, fer -- mos -- si.
+    U -- den -- do poi da l'Ar -- ga -- lia, ch'uc -- ci -- so
     Qui -- vi~a -- vea già, 
-    Qui -- vi~a -- vea già, che l’Ar -- ga -- lia no -- mos -- si,
+    Qui -- vi~a -- vea già, che l'Ar -- ga -- lia no -- mos -- si,
     La rot -- ta fe -- de co -- sì~im -- pro -- ve -- rar -- se,
-    Di scor -- no~e d’i -- ra, 
-    Di __ scor -- no~e d’i -- ra den -- tro~e di fuor ar -- se,
-    Di scor -- no~e d’i -- ra den -- tro~e di fuor ar -- se.
+    Di scor -- no~e d'i -- ra, 
+    Di __ scor -- no~e d'i -- ra den -- tro~e di fuor ar -- se,
+    Di scor -- no~e d'i -- ra den -- tro~e di fuor ar -- se.
 }
 
 bassoVincipit = \relative c' {
@@ -180,20 +180,20 @@ bassoV = \relative c' {
 }
 
 bassoLyricsV = \lyricmode {
-    Al -- l’ap -- pa -- rir che fe -- ce~al -- l’im -- pro -- vi -- so,
-        al -- l’im -- pro -- vi -- so
-    De l’ac -- qua l’om -- bra~o -- gni pe -- lo~ar -- ric -- cios -- si,
+    Al -- l'ap -- pa -- rir che fe -- ce~al -- l'im -- pro -- vi -- so,
+        al -- l'im -- pro -- vi -- so
+    De l'ac -- qua l'om -- bra~o -- gni pe -- lo~ar -- ric -- cios -- si,
     E sco -- lo -- ros -- si~al Sa -- ra -- ci -- no~il vi -- so,
     E sco -- lo -- ros -- si~al Sa -- ra -- ci -- no~il vi -- so;
-    La vo -- ce, ch’e -- ra per u -- scir, fer -- mos -- si.
-    U -- den -- do poi da l’Ar -- ga -- lia, ch’uc -- ci -- so
+    La vo -- ce, ch'e -- ra per u -- scir, fer -- mos -- si.
+    U -- den -- do poi da l'Ar -- ga -- lia, ch'uc -- ci -- so
     Qui -- vi~a -- vea già, 
-    Qui -- vi~a -- vea già, che l’Ar -- ga -- lia no -- mos -- si,
+    Qui -- vi~a -- vea già, che l'Ar -- ga -- lia no -- mos -- si,
     La rot -- ta fe -- de co -- sì~im -- pro -- ve -- rar -- se,
-    Di scor -- no~e d’i -- ra, 
-    Di scor -- no~e d’i -- ra den -- tro~e di fuor ar -- se,
-    Di scor -- no~e d’i -- ra, 
-    Di __ scor -- no~e d’i -- ra den -- tro~e di fuor ar -- se.
+    Di scor -- no~e d'i -- ra, 
+    Di scor -- no~e d'i -- ra den -- tro~e di fuor ar -- se,
+    Di scor -- no~e d'i -- ra, 
+    Di __ scor -- no~e d'i -- ra den -- tro~e di fuor ar -- se.
 }
 
 cantoVincipitVoice = <<

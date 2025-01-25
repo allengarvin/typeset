@@ -1,6 +1,6 @@
-% Tu godi o bell’amante
-% s’il mio volto rimiri,
-% meta de’ tuoi desiri,
+% Tu godi o bell'amante
+% s'il mio volto rimiri,
+% meta de' tuoi desiri,
 % perché tu solo entro questa alma siedi
 % e ne le luci mie te stesso vedi.
 % Nel mio vagheggi il tuo divin sembiante:
@@ -41,17 +41,17 @@ cantoIX = \relative c'' {
 }
 
 cantoLyricsIX = \lyricmode {
-    Tu go -- di~o bel -- l’a -- man -- te,
+    Tu go -- di~o bel -- l'a -- man -- te,
     \ijLyrics
-    tu go -- di~o bel -- l’a -- man -- te
+    tu go -- di~o bel -- l'a -- man -- te
     \normalLyrics
-    S’il mio vol -- to ri -- mi -- ri,
+    S'il mio vol -- to ri -- mi -- ri,
     \ijLyrics
-    s’il mio vol -- to ri -- mi -- ri,
+    s'il mio vol -- to ri -- mi -- ri,
     \normalLyrics
-    Me -- ta de’ tuoi de -- si -- ri,
-    Per -- ché tu so -- lo~en -- tro que -- st’al -- ma sie -- di,
-    per -- ché tu so -- lo en -- tro que -- st’al -- ma sie -- di
+    Me -- ta de' tuoi de -- si -- ri,
+    Per -- ché tu so -- lo~en -- tro que -- st'al -- ma sie -- di,
+    per -- ché tu so -- lo en -- tro que -- st'al -- ma sie -- di
     E ne le lu -- ci mie,
     e ne le lu -- ci mie te stes -- so ve -- di,
         te stes -- so ve -- di.
@@ -100,17 +100,17 @@ altoIX = \relative c'' {
 }
 
 altoLyricsIX = \lyricmode {
-%    Tu go -- di~o bel -- l’a -- man -- te
-    S’il mio vol -- to ri -- mi -- ri,
+%    Tu go -- di~o bel -- l'a -- man -- te
+    S'il mio vol -- to ri -- mi -- ri,
     \ijLyrics
-    s’il mio vol -- to ri -- mi -- ri,
+    s'il mio vol -- to ri -- mi -- ri,
     \normalLyrics
-    Tu go -- di~o bel -- l’a -- man -- te
-    s’il mio vol -- to ri -- mi -- ri,
-    Me -- ta de’ tuoi de -- si -- ri,
-    Per -- ché tu so -- lo~en -- tro que -- st’al -- ma sie -- di,
-        en -- tro que -- st’al -- ma,
-        en -- tro que -- st’al -- ma sie -- di
+    Tu go -- di~o bel -- l'a -- man -- te
+    s'il mio vol -- to ri -- mi -- ri,
+    Me -- ta de' tuoi de -- si -- ri,
+    Per -- ché tu so -- lo~en -- tro que -- st'al -- ma sie -- di,
+        en -- tro que -- st'al -- ma,
+        en -- tro que -- st'al -- ma sie -- di
     E ne le lu -- ci mie,
     e ne le lu -- ci mie te stes -- so ve -- di,
         te stes -- so ve -- di.
@@ -155,19 +155,19 @@ tenoreIX = \relative c'' {
 }
 
 tenoreLyricsIX = \lyricmode {
-%    Tu go -- di~o bel -- l’a -- man -- te
-    S’il mio vol -- to ri -- mi -- ri,
+%    Tu go -- di~o bel -- l'a -- man -- te
+    S'il mio vol -- to ri -- mi -- ri,
     \ijLyrics
-    s’il mio vol -- to ri -- mi -- ri,
+    s'il mio vol -- to ri -- mi -- ri,
     \normalLyrics
-    Tu go -- di~o bel -- l’a -- man -- te
-    s’il mio vol -- to ri -- mi -- ri,
+    Tu go -- di~o bel -- l'a -- man -- te
+    s'il mio vol -- to ri -- mi -- ri,
         vol -- to ri -- mi -- ri,
-    Me -- ta de’ tuoi de -- si -- ri,
-%    me -- ta de’ tuoi de -- si -- ri,
-    Per -- ché tu so -- lo~en -- tro que -- st’al -- ma sie -- di,
-%        en -- tro que -- st’al -- ma,
-%        en -- tro que -- st’al -- ma sie -- di
+    Me -- ta de' tuoi de -- si -- ri,
+%    me -- ta de' tuoi de -- si -- ri,
+    Per -- ché tu so -- lo~en -- tro que -- st'al -- ma sie -- di,
+%        en -- tro que -- st'al -- ma,
+%        en -- tro que -- st'al -- ma sie -- di
     E ne le lu -- ci mie,
     e ne le lu -- ci mie te stes -- so ve -- di,
         te stes -- so ve -- di.
@@ -210,12 +210,12 @@ bassoIX = \relative c {
 }
 
 bassoLyricsIX = \lyricmode {
-    Tu go -- di~o bel -- l’a -- man -- te
-    S’il mio vol -- to ri -- mi -- ri,
-    s’il mio vol -- to ri -- mi -- ri,
-    s’il mio vol -- to ri -- mi -- ri,
-    Me -- ta de’ tuoi de -- si -- ri,
-    Per -- ché tu so -- lo~en -- tro que -- st’al -- ma sie -- di,
+    Tu go -- di~o bel -- l'a -- man -- te
+    S'il mio vol -- to ri -- mi -- ri,
+    s'il mio vol -- to ri -- mi -- ri,
+    s'il mio vol -- to ri -- mi -- ri,
+    Me -- ta de' tuoi de -- si -- ri,
+    Per -- ché tu so -- lo~en -- tro que -- st'al -- ma sie -- di,
     E ne le lu -- ci mie, te stes -- so ve -- di.
     Nel mio va -- gheg -- gi~il tuo di -- vin sem -- bian -- te:
     nel mio va -- gheg -- gi~il tuo di -- vin sem -- bian -- te:
@@ -258,16 +258,16 @@ quintoIX = \relative c' {
 }
 
 quintoLyricsIX = \lyricmode {
-    Tu go -- di~o bel -- l’a -- man -- te
-    S’il mio vol -- to ri -- mi -- ri,
+    Tu go -- di~o bel -- l'a -- man -- te
+    S'il mio vol -- to ri -- mi -- ri,
     \ijLyrics
-    s’il mio vol -- to ri -- mi -- ri,
+    s'il mio vol -- to ri -- mi -- ri,
     \normalLyrics
-    Me -- ta de’ tuoi de -- si -- ri,
-    me -- ta de’ tuoi de -- si -- ri,
-    Per -- ché tu so -- lo~en -- tro que -- st’al -- ma sie -- di,
-        en -- tro que -- st’al -- ma,
-        en -- tro que -- st’al -- ma sie -- di
+    Me -- ta de' tuoi de -- si -- ri,
+    me -- ta de' tuoi de -- si -- ri,
+    Per -- ché tu so -- lo~en -- tro que -- st'al -- ma sie -- di,
+        en -- tro que -- st'al -- ma,
+        en -- tro que -- st'al -- ma sie -- di
     E ne le lu -- ci mie,
     e ne le lu -- ci mie te stes -- so ve -- di.
     Nel mio va -- gheg -- gi~il tuo di -- vin sem -- bian -- te:

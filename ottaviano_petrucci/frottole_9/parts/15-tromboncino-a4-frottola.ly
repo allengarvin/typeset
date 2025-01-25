@@ -37,7 +37,7 @@ cantusLyricsXV = \lyricmode {
     O -- sti -- na -- to vo' se -- gui -- re
     La ma -- gna -- ni -- ma __ mia~im -- pre -- sa;
     Fa -- me~A -- mor, __ qual voi~of -- fe -- sa,
-    S’io do -- ves -- se __ ben mo -- ri -- re,
+    S'io do -- ves -- se __ ben mo -- ri -- re,
     O -- sti -- na -- to vo' se -- gui -- re
     La ma -- gna -- ni -- ma __ 
         \ijLyrics
@@ -52,9 +52,9 @@ cantusLyricsXV = \lyricmode {
 %Bene o male como a te piace:
 %Né piacer né ingiuria alcuna
 %Per avilirmi o far più audace:
-%Che de l’un non son capace,
-%L’altro più non po’ fuggire.
-%Ostinato vo’ seguire
+%Che de l'un non son capace,
+%L'altro più non po' fuggire.
+%Ostinato vo' seguire
 %La magnanima mia impresa.
 }
 

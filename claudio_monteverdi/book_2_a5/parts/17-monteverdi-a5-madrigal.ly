@@ -1,10 +1,10 @@
 % Crudel, perché mi fuggi?
-% S’hai della morte mia tanto desio?
+% S'hai della morte mia tanto desio?
 % Tu sei pur il cor mio?
 % Creditu per fuggire,
 % crudel farmi morire?
 % Ah! Non si può morir senza dolore
-% e doler non si po’ chi non ha core.
+% e doler non si po' chi non ha core.
 
 cantoXVIIincipit = \relative c'' {
     \time 4/4
@@ -42,14 +42,14 @@ cantoXVII = \relative c'' {
 
 cantoLyricsXVII = \lyricmode {
 %   Cru -- del, per -- ché mi fug -- gi?
-%   S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+%   S'hai del -- la mor -- te mia tan -- to de -- si -- o?
     Tu sei,
     \ijLyrics
     tu sei
     \normalLyrics
         pur il cor mi -- o?
     Cru -- del, per -- ché mi fug -- gi?
-    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    S'hai del -- la mor -- te mia tan -- to de -- si -- o?
     tu sei pur il __ cor mi -- o?
     Cre -- di -- tu per fug -- gi -- re,
     Cru -- del far -- mi mo -- ri -- re?
@@ -57,18 +57,18 @@ cantoLyricsXVII = \lyricmode {
     Ah! non si può mo -- rir,
     ah, non si può mo -- rir sen -- za do -- lo -- re
     E do -- ler,
-    e __ do -- ler non si po’ chi non ha co -- re,
-        non si po’ chi non ha co -- re,
+    e __ do -- ler non si po' chi non ha co -- re,
+        non si po' chi non ha co -- re,
     e __ do -- ler,
-    e __ do -- ler non si po’ chi non ha co -- re,
+    e __ do -- ler non si po' chi non ha co -- re,
     \ijLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \normalLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \ijLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \normalLyrics
-        non si po’ chi __ non ha co -- re.
+        non si po' chi __ non ha co -- re.
 }
 
 altoXVIIincipit = \relative c' {
@@ -107,10 +107,10 @@ altoXVII = \relative c' {
 
 altoLyricsXVII = \lyricmode {
     Cru -- del, per -- ché __ mi fug -- gi?
-    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    S'hai del -- la mor -- te mia tan -- to de -- si -- o?
     Tu sei pur il cor mi -- o?
     cru -- del, per -- ché mi fug -- gi?
-    s’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    s'hai del -- la mor -- te mia tan -- to de -- si -- o?
     tu sei,
     tu sei pur il cor mi -- o? __
     tu sei pur il cor mi -- o?
@@ -120,17 +120,17 @@ altoLyricsXVII = \lyricmode {
     cru -- del far -- mi mo -- ri -- re?
     Ah! non si può mo -- rir,
     ah, non si può mo -- rir sen -- za do -- lo -- re
-    E do -- ler non si po’,
-        non si po’,
-        non si po’ chi non ha co -- re,
+    E do -- ler non si po',
+        non si po',
+        non si po' chi non ha co -- re,
     e do -- ler,
-    e do -- ler non si po’,
+    e do -- ler non si po',
     \ijLyrics
-        non si po’,
+        non si po',
     \normalLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \ijLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \normalLyrics
             chi non ha co -- re.
 }
@@ -173,7 +173,7 @@ tenoreXVII = \relative c' {
 
 tenoreLyricsXVII = \lyricmode {
     Cru -- del, per -- ché mi fug -- gi?
-    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    S'hai del -- la mor -- te mia tan -- to de -- si -- o?
     Tu sei,
     \ijLyrics
     tu sei
@@ -195,16 +195,16 @@ tenoreLyricsXVII = \lyricmode {
     \ijLyrics
     e do -- ler,
     \normalLyrics
-    e do -- ler non si po’ chi non ha co -- re,
-        non si po’ chi non ha co -- re,
+    e do -- ler non si po' chi non ha co -- re,
+        non si po' chi non ha co -- re,
     e __ do -- ler,
-    e do -- ler non si po’ chi non ha co -- re,
+    e do -- ler non si po' chi non ha co -- re,
     \ijLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \normalLyrics
-        non si po’ chi non ha co -- re,
-        non si po’,
-        non si po’ chi __ non ha,
+        non si po' chi non ha co -- re,
+        non si po',
+        non si po' chi __ non ha,
             chi non ha co -- re.
 }
 
@@ -245,7 +245,7 @@ bassoXVII = \relative c' {
 
 bassoLyricsXVII = \lyricmode {
     Cru -- del, per -- ché mi fug -- gi?
-    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    S'hai del -- la mor -- te mia tan -- to de -- si -- o?
     Tu sei,
     \ijLyrics
     tu sei
@@ -263,21 +263,21 @@ bassoLyricsXVII = \lyricmode {
     Ah! non si può mo -- rir,
     ah, non si può mo -- rir sen -- za do -- lo -- re
     E __ do -- ler,
-    e do -- ler non si po’ chi non ha co -- re,
+    e do -- ler non si po' chi non ha co -- re,
     \ijLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \normalLyrics
     e do -- ler,
     \ijLyrics
     e __ do -- ler 
     \normalLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \ijLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \normalLyrics
-        non si po’ chi non ha co -- re,
-        non si po’,
-        non si po’ chi non ha co -- re.
+        non si po' chi non ha co -- re,
+        non si po',
+        non si po' chi non ha co -- re.
 }
 
 quintoXVIIincipit = \relative c'' {
@@ -320,11 +320,11 @@ quintoXVII = \relative c'' {
 
 quintoLyricsXVII = \lyricmode {
 %    Cru -- del, per -- ché mi fug -- gi?
-%    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+%    S'hai del -- la mor -- te mia tan -- to de -- si -- o?
     Tu sei pur il cor mi -- o?
     tu sei pur il cor __ mi -- o?
     Cru -- del, per -- ché mi fug -- gi?
-    S’hai del -- la mor -- te mia tan -- to de -- si -- o?
+    S'hai del -- la mor -- te mia tan -- to de -- si -- o?
     tu sei
     \ijLyrics
     tu sei
@@ -336,18 +336,18 @@ quintoLyricsXVII = \lyricmode {
     Ah! non si può mo -- rir,
     ah, non si può mo -- rir sen -- za do -- lo -- re
     E do -- ler,
-    e do -- ler non si po’ chi non ha co -- re,
+    e do -- ler non si po' chi non ha co -- re,
     \ijLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \normalLyrics
     e __ do -- ler,
-    e __ do -- ler __ non si po’ chi non ha co -- re,
+    e __ do -- ler __ non si po' chi non ha co -- re,
     \ijLyrics
-        non si po’ chi non ha co -- re,
+        non si po' chi non ha co -- re,
     \normalLyrics
-        non si po’ chi non ha co -- re,
-        non si po’,
-        non si po’ chi __ non __ ha co -- re.
+        non si po' chi non ha co -- re,
+        non si po',
+        non si po' chi __ non __ ha co -- re.
 }
 
 cantoXVIIincipitVoice = <<

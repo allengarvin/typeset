@@ -4,7 +4,7 @@
 % volan soavi baci a schiera a schiera.
 % E son più che alle stelle
 % in ciel puro e sereno,
-% più ch’alle gemme della terra in seno.
+% più ch'alle gemme della terra in seno.
 % Motti sonori o d'amorosi o casti,
 % tra tanti un mi negasti,
 % spietato un bacio solo,
@@ -12,9 +12,9 @@
 % Amor, insidiando a baci,
 % sì come augei rapaci
 % che, sol immaginando han già rapita
-% quest’alma e questa vita.
-% Tendi l’insidie, tendi,
-% ed un’almen tra mille ardito prendi.
+% quest'alma e questa vita.
+% Tendi l'insidie, tendi,
+% ed un'almen tra mille ardito prendi.
 
 cantoVIincipit = \relative c' {
     \time 4/4
@@ -76,8 +76,8 @@ cantoLyricsVI = \lyricmode {
     E son più ch'al -- le stel -- le
         più ch'al -- le stel -- le
     In ciel pu -- ro~e se -- re -- no,
-    Più ch’al -- le gem -- me del -- la ter -- ra~in se -- no,
-    più ch’al -- le gem -- me del -- la ter -- ra~in se -- no.
+    Più ch'al -- le gem -- me del -- la ter -- ra~in se -- no,
+    più ch'al -- le gem -- me del -- la ter -- ra~in se -- no.
 
     Mot -- ti so -- no -- ri~o d'a -- mo -- ro -- si~o ca -- sti,
     Tra tan -- ti~un mi ne -- ga -- sti,
@@ -90,15 +90,15 @@ cantoLyricsVI = \lyricmode {
     Sì co -- me~au -- gei ra -- pa -- ci,
     sì co -- me~au -- gei ra -- pa -- ci
     Che sol im -- ma -- gi -- nan -- do~han già ra -- pi -- ta
-    Que -- st’al -- ma~e que -- sta vi -- ta.
+    Que -- st'al -- ma~e que -- sta vi -- ta.
 
-    Ten -- di l’in -- si -- die, ten -- di,
+    Ten -- di l'in -- si -- die, ten -- di,
     \ijLyrics
-    ten -- di l’in -- si -- die, ten -- di,
+    ten -- di l'in -- si -- die, ten -- di,
     \normalLyrics
-    ten -- di l’in -- si -- die, ten -- di,
-        l’in -- si -- die ten -- di,
-    Ed un’ al -- men tra mil -- l'e mil -- le~ar -- di -- to,
+    ten -- di l'in -- si -- die, ten -- di,
+        l'in -- si -- die ten -- di,
+    Ed un' al -- men tra mil -- l'e mil -- le~ar -- di -- to,
     \ijLyrics
         tra mil -- l'e mil -- le~ar -- di -- to,
         tra mil -- l'e mil -- le~ar -- di -- to
@@ -158,8 +158,8 @@ altoLyricsVI = \lyricmode {
     vo -- lan so -- a -- vi ba -- ci~a schie -- r'a schie -- r'a schie -- ra.
     E son più ch'al -- le stel -- le
         più ch'al -- le stel -- le~In ciel __ pu -- ro~e se -- re -- no,
-    Più ch’al -- le gem -- me del -- la ter -- ra~in se -- no,
-    più ch’al -- le gem -- me del -- la ter -- ra~in se -- no.
+    Più ch'al -- le gem -- me del -- la ter -- ra~in se -- no,
+    più ch'al -- le gem -- me del -- la ter -- ra~in se -- no.
 
     Mot -- ti so -- no -- ri~o d'a -- mo -- ro -- si~o ca -- sti,
     Tra tan -- ti~un mi ne -- ga -- sti,
@@ -175,14 +175,14 @@ altoLyricsVI = \lyricmode {
     sì co -- me~au -- gei ra -- pa -- ci
     \normalLyrics
     Che sol im -- ma -- gi -- nan -- do~han già ra -- pi -- ta
-    Que -- st’al -- ma~e que -- sta vi -- ta.
+    Que -- st'al -- ma~e que -- sta vi -- ta.
 
-    Ten -- di l’in -- si -- die, ten -- di,
-    ten -- di l’in -- si -- die, ten -- di,
-    Ed un’ al -- men,
-    ed un’ al -- men,
+    Ten -- di l'in -- si -- die, ten -- di,
+    ten -- di l'in -- si -- die, ten -- di,
+    Ed un' al -- men,
+    ed un' al -- men,
     \ijLyrics
-    ed un’ al -- men
+    ed un' al -- men
     \normalLyrics
         tra mil -- l'e mil -- le~ar -- di -- to,
         tra mil -- l'e mil -- le~ar -- di -- to pren -- di.
@@ -241,7 +241,7 @@ tenoreLyricsVI = \lyricmode {
 %
     E son più ch'al -- le stel -- le
         più ch'al -- le stel -- le~In ciel __ pu -- ro~e __ se -- re -- no,
-    Più ch’al -- le gem -- me del -- la ter -- ra~in se -- no.
+    Più ch'al -- le gem -- me del -- la ter -- ra~in se -- no.
 
 %    Mot -- ti so -- no -- ri~o d'a -- mo -- ro -- si~o ca -- sti,
 %    Tra tan -- ti~un mi ne -- ga -- sti,
@@ -254,15 +254,15 @@ tenoreLyricsVI = \lyricmode {
         a ba -- ci,
     Sì co -- me~au -- gei ra -- pa -- ci
     Che sol im -- ma -- gi -- nan -- do~han già ra -- pi -- ta
-    Que -- st’al -- ma~e que -- sta vi -- ta.
+    Que -- st'al -- ma~e que -- sta vi -- ta.
 
-    Ten -- di l’in -- si -- die, ten -- di,
+    Ten -- di l'in -- si -- die, ten -- di,
     \ijLyrics
-    ten -- di l’in -- si -- die, ten -- di,
+    ten -- di l'in -- si -- die, ten -- di,
     \normalLyrics
-    ten -- di l’in -- si -- die, ten -- di,
-    Ed un’ al -- men,
-    ed un’ al -- men tra mil -- l'e mil -- le~ar -- di -- to,
+    ten -- di l'in -- si -- die, ten -- di,
+    Ed un' al -- men,
+    ed un' al -- men tra mil -- l'e mil -- le~ar -- di -- to,
         tra mil -- l'e mil -- le~ar -- di -- to pren -- di.
 }
 
@@ -315,7 +315,7 @@ bassoLyricsVI = \lyricmode {
 
     E son più ch'al -- le stel -- le
         più ch'al -- le stel -- le~In ciel pu -- ro~e se -- re -- no,
-    Più ch’al -- le gem -- me del -- la ter -- ra~in se -- no.
+    Più ch'al -- le gem -- me del -- la ter -- ra~in se -- no.
 
 %    Mot -- ti so -- no -- ri~o d'a -- mo -- ro -- si~o ca -- sti,
 %    Tra tan -- ti~un mi ne -- ga -- sti,
@@ -328,16 +328,16 @@ bassoLyricsVI = \lyricmode {
         in -- si -- di -- an -- do~a ba -- ci,
     Sì co -- me~au -- gei ra -- pa -- ci
 %    Che sol im -- ma -- gi -- nan -- do~han già ra -- pi -- ta
-%    Que -- st’al -- ma~e que -- sta vi -- ta.
+%    Que -- st'al -- ma~e que -- sta vi -- ta.
 %
-    Ten -- di l’in -- si -- die, ten -- di,
+    Ten -- di l'in -- si -- die, ten -- di,
     \ijLyrics
-    ten -- di l’in -- si -- die, ten -- di,
+    ten -- di l'in -- si -- die, ten -- di,
     \normalLyrics
-    ten -- di l’in -- si -- die, ten -- di,
-    Ed un’ al -- men,
+    ten -- di l'in -- si -- die, ten -- di,
+    Ed un' al -- men,
     \ijLyrics
-    ed un’ al -- men
+    ed un' al -- men
     \normalLyrics
         tra mil -- l'e mil -- le~ar -- di -- to,
         tra mil -- l'e mil -- le~ar -- di -- to pren -- di.
@@ -401,8 +401,8 @@ quintoLyricsVI = \lyricmode {
     E son più ch'al -- le stel -- le
         più ch'al -- le stel -- le
     % In ciel pu -- ro~e se -- re -- no,
-    Più ch’al -- le gem -- me del -- la ter -- ra~in se -- no,
-    più ch’al -- le gem -- me del -- la ter -- ra~in se -- no.
+    Più ch'al -- le gem -- me del -- la ter -- ra~in se -- no,
+    più ch'al -- le gem -- me del -- la ter -- ra~in se -- no.
 
     Mot -- ti so -- no -- ri~o d'a -- mo -- ro -- si~o ca -- sti,
     Tra tan -- ti~un mi ne -- ga -- sti,
@@ -416,14 +416,14 @@ quintoLyricsVI = \lyricmode {
     Sì co -- me~au -- gei ra -- pa -- ci,
     sì co -- me~au -- gei ra -- pa -- ci
     Che sol im -- ma -- gi -- nan -- do~han già ra -- pi -- ta
-    % Que -- st’al -- ma~e que -- sta vi -- ta.
+    % Que -- st'al -- ma~e que -- sta vi -- ta.
 
-    Ten -- di l’in -- si -- die, ten -- di,
+    Ten -- di l'in -- si -- die, ten -- di,
     \ijLyrics
-    ten -- di l’in -- si -- die, ten -- di,
+    ten -- di l'in -- si -- die, ten -- di,
     \normalLyrics
-        l’in -- si -- die ten -- di,
-    Ed un’ al -- men tra mil -- l'e mil -- le~ar -- di -- to,
+        l'in -- si -- die ten -- di,
+    Ed un' al -- men tra mil -- l'e mil -- le~ar -- di -- to,
     \ijLyrics
         tra mil -- l'e mil -- le~ar -- di -- to,
         tra mil -- l'e mil -- le~ar -- di -- to 

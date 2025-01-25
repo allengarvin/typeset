@@ -31,8 +31,8 @@ cantoLyricsVI = \lyricmode {
     Thir -- si mo -- rir vo -- le -- a
         mo -- rir vo -- le -- a
     Gli~oc -- chi mi -- ran -- do
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ro
-    Ond’ el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ro
+    Ond' el -- la che di lui non me -- no~ar -- de -- a
 
     Gli dis -- se: 
     \ijLyrics
@@ -41,7 +41,7 @@ cantoLyricsVI = \lyricmode {
     Ohi -- mè ben mi -- o,
     Ohi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
     Che te -- co bra -- mo,
-    Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò
     Fre -- nò Thir -- si~il de -- si -- o 
     C'ha -- vea di più sua vi -- ta~al -- lor fi -- ni -- re,
@@ -83,8 +83,8 @@ altoLyricsVI = \lyricmode {
     Thir -- si mo -- rir vo -- le -- a
         Thir -- si 
     Thir -- si mo -- rir vo -- le -- a __
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ro
-    Ond’ el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ro
+    Ond' el -- la che di lui non me -- no~ar -- de -- a
 
     Gli dis -- se: 
     \ijLyrics
@@ -93,7 +93,7 @@ altoLyricsVI = \lyricmode {
     Ohi -- mè ben mi -- o,
     Ohi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
     Che te -- co bra -- mo,
-    Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò
     Fre -- nò Thir -- si~il de -- si -- o 
     Fre -- nò Thir -- si~il de -- si -- o 
@@ -139,13 +139,13 @@ tenoreLyricsVI = \lyricmode {
     Thir -- si mo -- rir vo -- le -- a
     Thir -- si mo -- rir vo -- le -- a
     Gli~oc -- chi mi -- ran -- do
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ro
-    Ond’ el -- la che di lui,
-    Ond’ el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ro
+    Ond' el -- la che di lui,
+    Ond' el -- la che di lui non me -- no~ar -- de -- a
 
     Gli dis -- se: 
     Ohi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
-    Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò Thir -- si~il de -- si -- o 
     Fre -- nò Thir -- si~il de -- si -- o 
     C'ha -- vea di più sua vi -- ta~al -- lor
@@ -188,12 +188,12 @@ bassoVI = \relative c' {
 
 bassoLyricsVI = \lyricmode {
     Thir -- si mo -- rir vo -- le -- a
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ro
-    Ond’ el -- la che di lui non me -- no~ar -- de -- a
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ro
+    Ond' el -- la che di lui non me -- no~ar -- de -- a
 
     Gli dis -- se: 
     Ohi -- mè ben mi -- o,
-    Che te -- co bra -- mo di __ mo -- rir an -- ch’i -- o. 
+    Che te -- co bra -- mo di __ mo -- rir an -- ch'i -- o. 
     Fre -- nò
     Fre -- nò Thir -- si~il de -- si -- o 
     C'ha -- vea di più sua vi -- ta~al -- lor __ fi -- ni -- re,
@@ -233,8 +233,8 @@ quintoVI = \relative c'' {
 
 quintoLyricsVI = \lyricmode {
     Thir -- si mo -- rir vo -- le -- a
-    Gli~oc -- chi mi -- ran -- do di co -- lei ch’a -- do -- ro
-    Ond’ el -- la che di lui 
+    Gli~oc -- chi mi -- ran -- do di co -- lei ch'a -- do -- ro
+    Ond' el -- la che di lui 
 
     Gli dis -- se: 
     \ijLyrics
@@ -242,7 +242,7 @@ quintoLyricsVI = \lyricmode {
     \normalLyrics
     Ohi -- mè ben mi -- o,
     Ohi -- mè ben mi -- o, deh non mo -- rir an -- cho -- ra
-    Che te -- co bra -- mo di mo -- rir an -- ch’i -- o.
+    Che te -- co bra -- mo di mo -- rir an -- ch'i -- o.
     Fre -- nò
     Fre -- nò Thir -- si~il de -- si -- o 
     C'ha -- vea di più sua vi -- ta~al -- lor __ fi -- ni -- re,

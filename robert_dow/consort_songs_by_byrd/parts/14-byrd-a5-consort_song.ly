@@ -66,12 +66,12 @@ superiusLyricsXIV = \lyricmode {
         that friend -- ly doth thee __ call.
 
     What un -- ac -- quain -- ted cheer -- ful voice is this that I do hear,
-    Which bids me tri -- umph and re -- joice that erst was drench’d in fear?
+    Which bids me tri -- umph and re -- joice that erst was drench'd in fear?
 
     It is the voice of Christ thy friend that di -- èd for thy __ sake,
     Who for to work thy woes an end thy shape did on him take:
-    And where -- by A -- dam’s grie -- vous guilt 
-        thou wast con -- demn’d to die,
+    And where -- by A -- dam's grie -- vous guilt 
+        thou wast con -- demn'd to die,
     The pre -- cious blood that I have spilt 
         saves thee e -- ter -- nal -- ly.
     Where -- fore re -- joice 

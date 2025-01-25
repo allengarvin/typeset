@@ -1,20 +1,20 @@
 % DI tempo in tempo mi si fa men dura
-% l’angelica figura, e ’l dolce riso;
-% e l’aria del bel viso,
+% l'angelica figura, e 'l dolce riso;
+% e l'aria del bel viso,
 % e degli occhi leggiadri meno oscura.
 % 
 % Che fanno meco omai questi sospiri,
 % che nascean di dolore,
 % e mostravan di fore
 % la mia angosciosa, e disperata vita?
-% S’avven che ’l volto in quella parte giri,
+% S'avven che 'l volto in quella parte giri,
 % per acquetar il core;
 % parmi veder Amore
 % mantener mia ragion, e darmi aita:
 % né però trovo ancor guerra finita,
 % né tranquillo ogni stato del cor mio:
-% ché più m’arde ’l desio,
-% quanto più la speranza m’assicura.
+% ché più m'arde 'l desio,
+% quanto più la speranza m'assicura.
 % 
 % Petrarca 149, canzone
 

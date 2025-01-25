@@ -1,11 +1,11 @@
 % Cantai un tempo e se fu dolce il canto,
-% questo mi tacerò, ch’altri il sentiva.
+% questo mi tacerò, ch'altri il sentiva.
 % Or è ben gionto ogni mia festa a riva
 % ed ogni mio piacer rivolto in pianto.
 % O fortunato chi raffrena in tanto
 % il suo desio: che riposato viva!
 % Di riposo e di pace il mio mi priva:
-% così va ch’in altrui pon fede tanto.
+% così va ch'in altrui pon fede tanto.
 
 cantoXXIincipit = \relative c'' {
     \time 4/4
@@ -59,9 +59,9 @@ cantoXXI = \relative c'' {
 cantoLyricsXXI = \lyricmode {
     Can -- tai __ un tem -- po,
     can -- tai __ un tem -- po e se fu dol -- ce~il can -- to,
-    Que -- sto mi ta -- ce -- rò, ch’al -- tri~il sen -- ti -- va.
-    Or è __ ben gion -- t’o -- gni mia fe -- sta~a ri -- va,
-    or __ è ben gion -- t’o -- gni mia fe -- sta~a ri -- va
+    Que -- sto mi ta -- ce -- rò, ch'al -- tri~il sen -- ti -- va.
+    Or è __ ben gion -- t'o -- gni mia fe -- sta~a ri -- va,
+    or __ è ben gion -- t'o -- gni mia fe -- sta~a ri -- va
     Ed __ o -- gni mio __ pia -- cer __ ri -- vol -- to~in pian -- to,
         ri -- vol -- to~in __ pian -- to.
 
@@ -71,9 +71,9 @@ cantoLyricsXXI = \lyricmode {
 
     Di ri -- po -- so~e di pa -- ce~il mio mi pri -- va,
     di ri -- po -- so~e di pa -- ce~il mio __ mi pri -- va:
-    Co -- sì va ch’in al -- trui pon fe -- de tan -- to,
-    co -- sì va ch’in al -- trui pon fe -- de tan -- to,
-    co -- sì va ch’in al -- trui __ pon fe -- de tan -- to.
+    Co -- sì va ch'in al -- trui pon fe -- de tan -- to,
+    co -- sì va ch'in al -- trui pon fe -- de tan -- to,
+    co -- sì va ch'in al -- trui __ pon fe -- de tan -- to.
 }
 
 altoXXIincipit = \relative c' {
@@ -128,9 +128,9 @@ altoLyricsXXI = \lyricmode {
     Can -- tai un tem -- po,
     can -- tai __ un tem -- po e se fu dol -- ce~il can -- to, __
         e se fu dol -- ce~il can -- to,
-    Que -- sto __ mi ta -- ce -- rò, ch’al -- tri~il sen -- ti -- va.
-    Or è ben gion -- t’o -- gni mia fe -- sta~a ri -- va,
-    or è ben gion -- t’o -- gni mia fe -- sta~a ri -- va
+    Que -- sto __ mi ta -- ce -- rò, ch'al -- tri~il sen -- ti -- va.
+    Or è ben gion -- t'o -- gni mia fe -- sta~a ri -- va,
+    or è ben gion -- t'o -- gni mia fe -- sta~a ri -- va
     Ed o -- gni mio pia -- cer ri -- vol -- to~in pian -- to,
     ed o -- gni mio __ pia -- cer __ ri -- vol -- to~in pian -- to.
 
@@ -139,8 +139,8 @@ altoLyricsXXI = \lyricmode {
 
     Di ri -- po -- so~e di pa -- ce~il mio __ mi pri -- va,
         il mio __ mi pri -- va:
-    Co -- sì va ch’in al -- trui pon fe -- de tan -- to,
-    co -- sì va __ ch’in al -- trui __ pon fe -- de tan -- to,
+    Co -- sì va ch'in al -- trui pon fe -- de tan -- to,
+    co -- sì va __ ch'in al -- trui __ pon fe -- de tan -- to,
         pon __ fe -- de tan -- to.
 }
 
@@ -191,10 +191,10 @@ tenoreXXI = \relative c' {
 tenoreLyricsXXI = \lyricmode {
     Can -- tai __ un tem -- po e se fu dol -- ce~il can -- to,
     Que -- sto mi ta -- ce -- rò,
-    que -- sto mi ta -- ce -- rò, ch’al -- tri~il sen -- ti -- va.
+    que -- sto mi ta -- ce -- rò, ch'al -- tri~il sen -- ti -- va.
     Or è ben gion -- to,
     or è ben gion -- to,
-    or è __ ben gion -- t’o -- gni __ mia fe -- sta~a ri -- va
+    or è __ ben gion -- t'o -- gni __ mia fe -- sta~a ri -- va
     Ed o -- gni mio pia -- cer ri -- vol -- to~in pian -- to,
     ed o -- gni mio pia -- cer ri -- vol -- to~in pian -- to.
 
@@ -204,8 +204,8 @@ tenoreLyricsXXI = \lyricmode {
 
     Di ri -- po -- so~e di pa -- ce~il mio mi pri -- va,
     di ri -- po -- so~e di pa -- ce~il mio __ mi pri -- va:
-    Co -- sì va __ ch’in al -- trui pon fe -- de tan -- to,
-    co -- sì va __ ch’in al -- trui pon fe -- de tan -- to,
+    Co -- sì va __ ch'in al -- trui pon fe -- de tan -- to,
+    co -- sì va __ ch'in al -- trui pon fe -- de tan -- to,
         pon fe -- de tan -- to.
 }
 
@@ -254,8 +254,8 @@ bassoLyricsXXI = \lyricmode {
     \ijLyrics
     que -- sto mi ta -- ce -- rò,
     \normalLyrics
-        ch’al -- tri~il sen -- ti -- va.
-    Or è ben gion -- t’o -- gni mia fe -- sta~a ri -- va
+        ch'al -- tri~il sen -- ti -- va.
+    Or è ben gion -- t'o -- gni mia fe -- sta~a ri -- va
     Ed o -- gni mio pia -- cer ri -- vol -- to~in pian -- to,
     ed o -- gni mio pia -- cer ri -- vol -- to~in __ pian -- to.
 
@@ -265,9 +265,9 @@ bassoLyricsXXI = \lyricmode {
     il suo de -- si -- o: che ri -- po -- sa -- to vi -- va!
 
     Di ri -- po -- so~e di pa -- ce~il mio __ mi pri -- va:
-    Co -- sì va ch’in al -- trui pon fe -- de tan -- to,
-    co -- sì va __ ch’in al -- trui pon fe -- de tan -- to,
-    co -- sì va ch’in al -- trui __ pon fe -- de tan -- to.
+    Co -- sì va ch'in al -- trui pon fe -- de tan -- to,
+    co -- sì va __ ch'in al -- trui pon fe -- de tan -- to,
+    co -- sì va ch'in al -- trui __ pon fe -- de tan -- to.
 }
 
 quintoXXIincipit = \relative c' {
@@ -318,9 +318,9 @@ quintoXXI = \relative c' {
 quintoLyricsXXI = \lyricmode {
     Can -- tai __ un tem -- po e se __ fu dol -- ce~il can -- to,
     Que -- sto mi __ ta -- ce -- rò,
-    que -- sto mi ta -- ce -- rò, ch’al -- tri~il __ sen -- ti -- va.
-    Or è __ ben gion -- t’o -- gni mia fe -- sta~a __ ri -- va,
-    or è ben gion -- t’o -- gni mia fe -- sta~a ri -- va
+    que -- sto mi ta -- ce -- rò, ch'al -- tri~il __ sen -- ti -- va.
+    Or è __ ben gion -- t'o -- gni mia fe -- sta~a __ ri -- va,
+    or è ben gion -- t'o -- gni mia fe -- sta~a ri -- va
     Ed o -- gni __ mio pia -- cer ri -- vol -- to~in pian -- to,
         ri -- vol -- to~in pian -- to,
         ri -- vol -- to~in pian -- to.
@@ -332,10 +332,10 @@ quintoLyricsXXI = \lyricmode {
 
     Di ri -- po -- so~e di pa -- ce~il mio mi pri -- va,
     di ri -- po -- so~e di pa -- ce~il mio mi pri -- va:
-    Co -- sì va __ ch’in al -- trui __ pon __ fe -- de tan -- to,
+    Co -- sì va __ ch'in al -- trui __ pon __ fe -- de tan -- to,
         pon __ fe -- de tan -- to,
     co -- sì va, __
-    co -- sì va ch’in al -- trui __ pon fe -- de tan -- to.
+    co -- sì va ch'in al -- trui __ pon fe -- de tan -- to.
 }
 
 cantoXXIincipitVoice = <<

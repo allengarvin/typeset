@@ -1,45 +1,45 @@
 % A la dolce ombra de le belle frondi
 % corsi fuggendo un dispietato lume
-% che’nfin qua giù m’ardea dal terzo cielo;
+% che'nfin qua giù m'ardea dal terzo cielo;
 % et disgombrava già di neve i poggi
-% l’aura amorosa che rinova il tempo,
-% et fiorian per le piagge l’erbe e i rami.
+% l'aura amorosa che rinova il tempo,
+% et fiorian per le piagge l'erbe e i rami.
 % 
 % Non vide il mondo sí leggiadri rami,
 % né mosse il vento mai sí verdi frondi
 % come a me si mostrâr quel primo tempo:
-% tal che, temendo de l’ardente lume,
+% tal che, temendo de l'ardente lume,
 % non volsi al mio refugio ombra di poggi,
 % ma de la pianta piú gradita in cielo.
 % 
 % Un lauro mi difese allor dal cielo,
-% onde piú volte vago de’ bei rami
-% da po’ son gito per selve et per poggi;
+% onde piú volte vago de' bei rami
+% da po' son gito per selve et per poggi;
 % né già mai ritrovai tronco né frondi
 % tanto honorate dal superno lume
 % che non mutasser qualitate a tempo.
 % 
 % Però piú fermo ognor di tempo in tempo,
-% seguendo ove chiamar m’udia dal cielo
-% e scorto d’un soave et chiaro lume,
+% seguendo ove chiamar m'udia dal cielo
+% e scorto d'un soave et chiaro lume,
 % tornai sempre devoto ai primi rami
 % et quando a terra son sparte le frondi
 % et quando il sol fa verdeggiar i poggi.
 % 
 % Selve, sassi, campagne, fiumi et poggi,
 % quanto è creato, vince et cangia il tempo:
-% ond’io cheggio perdono a queste frondi,
-% se rivolgendo poi molt’anni il cielo
-% fuggir disposi gl’ invescati rami
-% tosto ch’incominciai di veder lume.
+% ond'io cheggio perdono a queste frondi,
+% se rivolgendo poi molt'anni il cielo
+% fuggir disposi gl' invescati rami
+% tosto ch'incominciai di veder lume.
 % 
 % 
 % Tanto mi piacque prima il dolce lume
-% ch’i’ passai con diletto assai gran poggi
+% ch'i' passai con diletto assai gran poggi
 % per poter appressar gli amati rami:
-% ora la vita breve e ’l loco e ’l tempo
+% ora la vita breve e 'l loco e 'l tempo
 % mostranmi altro sentier di gire al cielo
-% et di far frutto, non pur fior’ et frondi.
+% et di far frutto, non pur fior' et frondi.
 
 cantoIincipit = \relative c'' {
     \time 2/2
@@ -77,14 +77,14 @@ cantoLyricsI = \lyricmode {
     A la dol -- ce~om -- bra de le bel -- le fron -- di
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me
-    Che’n fin qua giù m’ar -- dea dal ter -- zo __ cie -- lo;
+    Che'n fin qua giù m'ar -- dea dal ter -- zo __ cie -- lo;
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi
-    L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, __
+    L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, __
         che ri -- no -- va~il tem -- po,
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
-        l’er -- be~e~i ra -- mi, __
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
-        l’er -- be~e~i ra -- mi. __
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
+        l'er -- be~e~i ra -- mi, __
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
+        l'er -- be~e~i ra -- mi. __
 }
 
 altoIincipit = \relative c' {
@@ -123,14 +123,14 @@ altoI = \relative c' {
 altoLyricsI = \lyricmode {
     A la __ dol -- ce~om -- bra de le bel -- le fron -- di
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me
-    Che’n fin qua giù m’ar -- dea __
-        m’ar -- dea __ dal ter -- zo cie -- lo; __
+    Che'n fin qua giù m'ar -- dea __
+        m'ar -- dea __ dal ter -- zo cie -- lo; __
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi
-    L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
+    L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
         che ri -- no -- va~il tem -- po,
     E fio -- rian per le piag -- ge __ 
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi, __
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi.
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi, __
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi.
 }
 
 tenoreIincipit = \relative c' {
@@ -165,14 +165,14 @@ tenoreLyricsI = \lyricmode {
     A la dol -- ce~om -- bra de le bel -- le fron -- di
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me,
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me
-    Che’n fin qua giù m’ar -- dea dal ter -- zo cie -- lo;
+    Che'n fin qua giù m'ar -- dea dal ter -- zo cie -- lo;
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi
-    L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
+    L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
     E fio -- rian per le piag -- ge,
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
-        l’er -- be~e~i ra -- mi,
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi,
-        l’er -- be~e~i ra -- mi.
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
+        l'er -- be~e~i ra -- mi,
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
+        l'er -- be~e~i ra -- mi.
 }
 
 bassoIincipit = \relative c' {
@@ -203,13 +203,13 @@ bassoI = \relative c' {
 bassoLyricsI = \lyricmode {
     A la dol -- ce~om -- bra de le bel -- le fron -- di
     Cor -- si fug -- gen -- do~un di -- spie -- ta -- to lu -- me
-    Che’n fin qua giù,
-    Che’n fin qua giù m’ar -- dea dal ter -- zo cie -- lo;
+    Che'n fin qua giù,
+    Che'n fin qua giù m'ar -- dea dal ter -- zo cie -- lo;
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi
-    L’au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
+    L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
     E fio -- rian per le piag -- ge, __
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi, __
-    E fio -- rian per le piag -- ge l’er -- be~e~i ra -- mi.
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi, __
+    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi.
 }
 
 cantoIincipitVoice = <<

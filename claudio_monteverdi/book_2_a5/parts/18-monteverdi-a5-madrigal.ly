@@ -1,6 +1,6 @@
 % Questo specchio ti dono,
-% rosa tu dammi or che l’età consente,
-% ch’io colga il tuo bel fior primo ridente.
+% rosa tu dammi or che l'età consente,
+% ch'io colga il tuo bel fior primo ridente.
 % Se ciò non voi, te mira,
 % cara fanciulla ivi due volte e poi,
 % o caduchi onor tuoi,
@@ -48,15 +48,15 @@ cantoXVIII = \relative c'' {
 
 cantoLyricsXVIII = \lyricmode {
     Que -- sto spec -- chio ti do -- no,
-    Ro -- sa, tu dam -- m’or che l’e -- tà con -- sen -- te,
+    Ro -- sa, tu dam -- m'or che l'e -- tà con -- sen -- te,
         tu dam -- mi,
-        tu dam -- m’or che l’e -- tà con -- sen -- te,
-    Ch’io col -- ga~il tuo bel fior,
-    ch’io col -- ga~il tuo bel fior pri -- mo ri -- den -- te,
+        tu dam -- m'or che l'e -- tà con -- sen -- te,
+    Ch'io col -- ga~il tuo bel fior,
+    ch'io col -- ga~il tuo bel fior pri -- mo ri -- den -- te,
         pri -- mo ri -- den -- te.
 
     Se ciò non voi, te mi -- ra,
-    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t’e po -- i,
+    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t'e po -- i,
     O ca -- du -- chi~o -- nor tuo -- i,
     \ijLyrics
     o ca -- du -- chi~o -- nor tuo -- i,
@@ -120,20 +120,20 @@ altoXVIII = \relative c' {
 altoLyricsXVIII = \lyricmode {
 %    Que -- sto spec -- chio ti do -- no,
 %    Ro -- sa, 
-        Tu dam -- m’or che l’e -- tà con -- sen -- te,
+        Tu dam -- m'or che l'e -- tà con -- sen -- te,
         tu dam -- m'or, __
         \ijLyrics
-        tu dam -- m’or
+        tu dam -- m'or
         \normalLyrics
-            che l’e -- tà con -- sen -- te,
+            che l'e -- tà con -- sen -- te,
     Que -- sto spec -- chio ti do -- no,
-    Ro -- sa, tu dam -- m’or che l’e -- tà __ con -- sen -- te,
-        tu dam -- m’or che l’e -- tà con -- sen -- te,
-    Ch’io col -- ga~il tuo bel fior, __
-    ch’io col -- ga~il tuo bel fior pri -- mo ri -- den -- te.
+    Ro -- sa, tu dam -- m'or che l'e -- tà __ con -- sen -- te,
+        tu dam -- m'or che l'e -- tà con -- sen -- te,
+    Ch'io col -- ga~il tuo bel fior, __
+    ch'io col -- ga~il tuo bel fior pri -- mo ri -- den -- te.
 
     Se ciò non voi, te mi -- ra,
-    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t’e po -- i,
+    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t'e po -- i,
     O __ ca -- du -- chi~o -- nor tuo -- i,
     o ca -- du -- chi~o -- nor tuo -- i,
     Ver -- mi -- glia~in sul ma -- tin bel -- la~e gen -- ti -- le,
@@ -190,15 +190,15 @@ tenoreXVIII = \relative c' {
 
 tenoreLyricsXVIII = \lyricmode {
 %    Que -- sto spec -- chio ti do -- no,
-%    Ro -- sa, tu dam -- m’or che l’e -- tà con -- sen -- te,
-        Tu dam -- m’or che l’e -- tà con -- sen -- te,
+%    Ro -- sa, tu dam -- m'or che l'e -- tà con -- sen -- te,
+        Tu dam -- m'or che l'e -- tà con -- sen -- te,
     Que -- sto spec -- chio ti do -- no,
-    Ro -- sa, tu dam -- m’or che l’e -- tà con -- sen -- te,
-    Ch’io col -- ga~il tuo bel fior pri -- mo ri -- den -- te,
+    Ro -- sa, tu dam -- m'or che l'e -- tà con -- sen -- te,
+    Ch'io col -- ga~il tuo bel fior pri -- mo ri -- den -- te,
         pri -- mo ri -- den -- te.
 
     Se ciò non voi, te mi -- ra,
-    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t’e po -- i,
+    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t'e po -- i,
     O __ ca -- du -- chi~o -- nor tuo -- i,
     o ca -- du -- chi~o -- nor tuo -- i,
     \ijLyrics
@@ -255,14 +255,14 @@ bassoXVIII = \relative c' {
 
 bassoLyricsXVIII = \lyricmode {
 %    Que -- sto spec -- chio ti do -- no,
-%    Ro -- sa, tu dam -- m’or che l’e -- tà con -- sen -- te,
-        Tu dam -- m’or che l’e -- tà con -- sen -- te,
+%    Ro -- sa, tu dam -- m'or che l'e -- tà con -- sen -- te,
+        Tu dam -- m'or che l'e -- tà con -- sen -- te,
     Que -- sto spec -- chio ti do -- no,
-    Ro -- sa, tu dam -- m’or che l’e -- tà con -- sen -- te,
-    Ch’io col -- ga~il tuo bel fior pri -- mo ri -- den -- te.
+    Ro -- sa, tu dam -- m'or che l'e -- tà con -- sen -- te,
+    Ch'io col -- ga~il tuo bel fior pri -- mo ri -- den -- te.
 
     Se ciò non voi, te mi -- ra,
-    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t’e po -- i,
+    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t'e po -- i,
     O __ ca -- du -- chi~o -- nor tuo -- i,
     o ca -- du -- chi~o -- nor tuo -- i,
     Di se -- ra ti ve -- drai,
@@ -323,19 +323,19 @@ quintoXVIII = \relative c' {
 
 quintoLyricsXVIII = \lyricmode {
     Que -- sto spec -- chio ti do -- no,
-    Ro -- sa, tu dam -- m’or __ che l’e -- tà con -- sen -- te,
-        tu dam -- m’or che l’e -- tà con -- sen -- te,
-        tu dam -- m’or __ che l’e -- tà __ con -- sen -- te,
+    Ro -- sa, tu dam -- m'or __ che l'e -- tà con -- sen -- te,
+        tu dam -- m'or che l'e -- tà con -- sen -- te,
+        tu dam -- m'or __ che l'e -- tà __ con -- sen -- te,
     \ijLyrics
-        tu dam -- m’or che l’e -- tà con -- sen -- te,
+        tu dam -- m'or che l'e -- tà con -- sen -- te,
     \normalLyrics
-    Ch’io col -- ga~il tuo bel fior,
-    ch’io col -- ga~il tuo bel fior pri -- mo ri -- den -- te,
+    Ch'io col -- ga~il tuo bel fior,
+    ch'io col -- ga~il tuo bel fior pri -- mo ri -- den -- te,
         pri -- mo ri -- den -- te.
 
     Se ciò,
     se ciò non voi, te mi -- ra,
-    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t’e po -- i,
+    Ca -- ra fan -- ciul -- la~i -- vi due vol -- t'e po -- i,
     O __ ca -- du -- chi~o -- nor tuo -- i,
     o ca -- du -- chi~o -- nor tuo -- i,
     \ijLyrics

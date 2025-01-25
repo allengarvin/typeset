@@ -1,4 +1,4 @@
-% De vous servir m’est prins envie
+% De vous servir m'est prins envie
 % plus que femme qui soit envie
 % tant au congneu en vous de bien
 % et vouldrois que sceussiez combien
@@ -32,7 +32,7 @@ superiusI = \relative c'' {
 }
 
 superiusLyricsI = \lyricmode {
-    De vous ser -- vir m’est prins en -- vie __
+    De vous ser -- vir m'est prins en -- vie __
     plus que fem -- me qui soit en -- vie __
     tant au con -- gneu en __ vous de __ bien
     et voul -- drois que sceus -- si -- ez com -- bien

@@ -1,20 +1,20 @@
-% Amor m’à posto come segno a strale,
+% Amor m'à posto come segno a strale,
 % come al sol neve, come cera al foco,
 % et come nebbia al vento; et son già roco,
 % donna, mercé chiamando, et voi non cale.
 % 
-% Da gli occhi vostri uscío ’l colpo mortale,
+% Da gli occhi vostri uscío 'l colpo mortale,
 % contra cui non mi val tempo né loco;
 % da voi sola procede, et parvi un gioco,
-% il sole e ’l foco e ’l vento ond’io son tale.
+% il sole e 'l foco e 'l vento ond'io son tale.
 % 
-% I pensier’ son saette, e ’l viso un sole,
-% e ’l desir foco; e ’nseme con quest’arme
-% mi punge Amor, m’abbaglia et mi distrugge;
+% I pensier' son saette, e 'l viso un sole,
+% e 'l desir foco; e 'nseme con quest'arme
+% mi punge Amor, m'abbaglia et mi distrugge;
 % 
-% et l’angelico canto et le parole,
-% col dolce spirto ond’io non posso aitarme,
-% son l’aura inanzi a cui mia vita fugge.
+% et l'angelico canto et le parole,
+% col dolce spirto ond'io non posso aitarme,
+% son l'aura inanzi a cui mia vita fugge.
 
 % Petrarch 133
 
@@ -51,19 +51,19 @@ cantusII = \relative c'' {
 }
 
 cantusLyricsII = \lyricmode {
-    A -- mor m’à po -- sto co -- me se -- gno~a stra -- le,
+    A -- mor m'à po -- sto co -- me se -- gno~a stra -- le,
     Co -- me~al sol ne -- ve, co -- me ce -- ra~al fo -- co,
     Et co -- me neb -- bia~al ven -- to; et son già ro -- co,
     Don -- na, mer -- cé chia -- man -- do, 
         mer -- cé chia -- man -- do, et voi non ca -- le.
  
-    % Da gli~oc -- chi vo -- stri~u -- scío’l col -- po mor -- ta -- le,
+    % Da gli~oc -- chi vo -- stri~u -- scío'l col -- po mor -- ta -- le,
     Con -- tra cui non mi val tem -- po né lo -- co;
     Da voi so -- la pro -- ce -- de, et par -- vi~un gio -- co,
-    Il so -- le e’l fo -- co e’l ven -- to on -- d’io son ta -- le,
-        on -- d’io son ta -- le,
+    Il so -- le e'l fo -- co e'l ven -- to on -- d'io son ta -- le,
+        on -- d'io son ta -- le,
     \ijLyrics
-        on -- d’io son ta -- le.
+        on -- d'io son ta -- le.
     \normalLyrics
 }
 
@@ -99,7 +99,7 @@ altusII = \relative c' {
 }
 
 altusLyricsII = \lyricmode {
-    A -- mor m’à po -- sto co -- me se -- gno~a stra -- le,
+    A -- mor m'à po -- sto co -- me se -- gno~a stra -- le,
         co -- me se -- gno~a stra -- le,
     Co -- me~al sol ne -- ve, 
     \ijLyrics
@@ -109,12 +109,12 @@ altusLyricsII = \lyricmode {
     Et co -- me neb -- bia~al ven -- to; et son già ro -- co,
     Don -- na, mer -- cé __ chia -- man -- do, et voi non ca -- le.
  
-    Da gli~oc -- chi vo -- stri~u -- scío’l col -- po mor -- ta -- le,
+    Da gli~oc -- chi vo -- stri~u -- scío'l col -- po mor -- ta -- le,
         col -- po mor -- ta -- le,
     Con -- tra cui non __ mi val tem -- po né lo -- co;
     Da voi so -- la pro -- ce -- de, et par -- vi~un gio -- co,
-    Il so -- le e’l fo -- co e’l ven -- to on -- d’io son ta -- le,
-        on -- d’io __ son ta -- le.
+    Il so -- le e'l fo -- co e'l ven -- to on -- d'io son ta -- le,
+        on -- d'io __ son ta -- le.
 }
 
 tenorIIincipit = \relative c {
@@ -148,7 +148,7 @@ tenorII = \relative c {
 }
 
 tenorLyricsII = \lyricmode {
-    A -- mor m’à po -- sto co -- me se -- gno~a stra -- le,
+    A -- mor m'à po -- sto co -- me se -- gno~a stra -- le,
     Co -- me~al sol ne -- ve,
     \ijLyrics
     Co -- me~al sol ne -- ve, 
@@ -158,12 +158,12 @@ tenorLyricsII = \lyricmode {
     Et co -- me neb -- bia~al ven -- to; et son già ro -- co,
     Don -- na, mer -- cé chia -- man -- do, et voi non ca -- le.
  
-    Da gli~oc -- chi vo -- stri~u -- scío’l col -- po mor -- ta -- le,
+    Da gli~oc -- chi vo -- stri~u -- scío'l col -- po mor -- ta -- le,
     Con -- tra cui non mi val tem -- po né lo -- co;
     Da voi so -- la pro -- ce -- de, et par -- vi~un gio -- co,
         et par -- vi~un gio -- co,
-    Il so -- le e’l fo -- co e’l ven -- to on -- d’io son ta -- le,
-        on -- d’io son ta -- le.
+    Il so -- le e'l fo -- co e'l ven -- to on -- d'io son ta -- le,
+        on -- d'io son ta -- le.
 }
 
 bassusIIincipit = \relative c {
@@ -195,16 +195,16 @@ bassusII = \relative c {
 }
 
 bassusLyricsII = \lyricmode {
-    A -- mor m’à po -- sto co -- me se -- gno~a stra -- le,
+    A -- mor m'à po -- sto co -- me se -- gno~a stra -- le,
     Co -- me~al sol ne -- ve, co -- me ce -- ra~al fo -- co,
     Et co -- me neb -- bia~al ven -- to; et son già ro -- co,
     Don -- na, mer -- cé chia -- man -- do, et voi non ca -- le.
  
-    Da gli~oc -- chi vo -- stri~u -- scío’l col -- po mor -- ta -- le,
+    Da gli~oc -- chi vo -- stri~u -- scío'l col -- po mor -- ta -- le,
     Con -- tra cui non mi val tem -- po né lo -- co;
     Da __ voi so -- la pro -- ce -- de, et par -- vi~un gio -- co,
-    Il so -- le e’l fo -- co e’l ven -- to on -- d’io son ta -- le,
-        on -- d’io __ son ta -- le.
+    Il so -- le e'l fo -- co e'l ven -- to on -- d'io son ta -- le,
+        on -- d'io __ son ta -- le.
 }
 
 quintusIIincipit = \relative c'' {
@@ -240,16 +240,16 @@ quintusII = \relative c'' {
 }
 
 quintusLyricsII = \lyricmode {
-    A -- mor m’à po -- sto co -- me se -- gno~a stra -- le,
+    A -- mor m'à po -- sto co -- me se -- gno~a stra -- le,
     Co -- me~al sol ne -- ve, co -- me ce -- ra~al fo -- co,
     Et co -- me neb -- bia~al ven -- to; et son già ro -- co,
     Don -- na, mer -- cé chia -- man -- do, et voi non ca -- le.
  
-    Da gli~oc -- chi vo -- stri~u -- scío’l col -- po mor -- ta -- le,
+    Da gli~oc -- chi vo -- stri~u -- scío'l col -- po mor -- ta -- le,
     Con -- tra cui non mi val __ tem -- po né __ lo -- co;
     Da voi so -- la pro -- ce -- de, 
     Da __ voi so -- la pro -- ce -- de, et par -- vi~un gio -- co,
-    Il so -- le e’l fo -- co e’l ven -- to on -- d’io son ta -- le.
+    Il so -- le e'l fo -- co e'l ven -- to on -- d'io son ta -- le.
 }
 
 cantusIIincipitVoice = <<

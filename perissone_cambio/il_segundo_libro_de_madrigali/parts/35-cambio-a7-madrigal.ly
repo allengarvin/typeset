@@ -1,17 +1,17 @@
 % Quando nascesti, Amore? Quando la terra 
-% Si riveste di verd’ et bel colore. 
-% Al’ hor’ di che nascesti? D’ un ardore 
-% Ch’ otio et lascivia in se richiud’ e serra. 
+% Si riveste di verd' et bel colore. 
+% Al' hor' di che nascesti? D' un ardore 
+% Ch' otio et lascivia in se richiud' e serra. 
 % Che ti constrinse a farne tanta guerra? 
 % Calda sperança et gelido timore. 
 % In cui fai la tua stança? In gentil core 
-% Che sotto el mio valor tosto s’ atterra. 
+% Che sotto el mio valor tosto s' atterra. 
 % Chi fu la tua nutrice? Giovineça. 
 % Et le serve che furno a lei dintorno? 
-% Vanità, gelosia, pomp’ et belleça. 
-% Di che ti pasci? D’un parlar’ adorno. 
-% Offendeti la mort’ o’ la vechieça? 
-% No, ch’ io rinasco mille volt’ il giorno. 
+% Vanità, gelosia, pomp' et belleça. 
+% Di che ti pasci? D'un parlar' adorno. 
+% Offendeti la mort' o' la vechieça? 
+% No, ch' io rinasco mille volt' il giorno. 
 cantusXXXVincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-c1"

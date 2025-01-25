@@ -44,7 +44,7 @@ cantusLyricsXXXItwo = \lyricmode {
     Fre -- sche~e bel -- le __ co -- me~un __ _ zi -- glio,
 
     Vi fa -- rà co -- lor ver -- mi -- glio,
-        Se’l gu -- sta -- ti cu -- sì cal -- do,
+        Se'l gu -- sta -- ti cu -- sì cal -- do,
         gu -- sta -- ti cu -- sì cal -- do.
 }
 

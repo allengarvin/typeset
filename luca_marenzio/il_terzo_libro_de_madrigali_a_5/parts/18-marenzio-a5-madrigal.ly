@@ -1,10 +1,10 @@
-% Scaldava il sol di mezzo giorno l’arco
+% Scaldava il sol di mezzo giorno l'arco
 % Nel dorso del Leon suo albergo caro,
-% Sotto ’l boschetto più di frondi carco
-% Dormia ’l pastor con le sue greggi a paro;
-% Giaceva il villanel de l’opra scarco.
+% Sotto 'l boschetto più di frondi carco
+% Dormia 'l pastor con le sue greggi a paro;
+% Giaceva il villanel de l'opra scarco.
 % Vie più di posa che di spighe avaro;
-% Gli augei, le fere, ogni uom s’asconde e tace,
+% Gli augei, le fere, ogni uom s'asconde e tace,
 % Sol la Cicala non si sente in pace.
 
 cantoXVIIIincipit = \relative c'' {
@@ -44,20 +44,20 @@ cantoLyricsXVIII = \lyricmode {
     \ijLyrics
     scal -- da -- va~il sol 
     \normalLyrics
-        di mez -- zo gior -- no l’ar -- co,
-            l’ar -- co
+        di mez -- zo gior -- no l'ar -- co,
+            l'ar -- co
     Nel dor -- so del Le -- on,
     nel dor -- so del Le -- on suo~al -- ber -- go ca -- ro,
-    Sot -- to’l bo -- schet -- to più di fron -- di car -- co,
+    Sot -- to'l bo -- schet -- to più di fron -- di car -- co,
         più di fron -- di car -- co
-    Dor -- mia’l pa -- stor con le sue greg -- gi~a pa -- ro;
+    Dor -- mia'l pa -- stor con le sue greg -- gi~a pa -- ro;
     Gia -- ce -- va il vil -- la -- nel, __
-        il vil -- la -- nel __ de l’o -- pra scar -- co.
+        il vil -- la -- nel __ de l'o -- pra scar -- co.
     Vie più di po -- sa 
         % che di spi -- ghe~a -- va -- ro;
     Gli~au -- gei, __
-    gli~au -- gei, __ le fe -- re, o -- gni~uom s’a -- scon -- de,
-        o -- gni~uom s’a -- scon -- de e ta -- ce,
+    gli~au -- gei, __ le fe -- re, o -- gni~uom s'a -- scon -- de,
+        o -- gni~uom s'a -- scon -- de e ta -- ce,
     Sol la Ci -- ca -- la non si sen -- te~in pa -- ce,
         non si sen -- te~in pa -- ce,
         non si sen -- te~in pa -- ce.
@@ -99,19 +99,19 @@ altoLyricsXVIII = \lyricmode {
     \ijLyrics
     scal -- da -- va~il sol,
     \normalLyrics
-    scal -- da -- va~il sol di mez -- zo gior -- no l’ar -- co,
-            l’ar -- co
+    scal -- da -- va~il sol di mez -- zo gior -- no l'ar -- co,
+            l'ar -- co
     Nel dor -- so del Le -- on suo~al -- ber -- go ca -- ro,
         suo~al -- ber -- go ca -- ro,
-%    Sot -- to’l bo -- schet -- to 
+%    Sot -- to'l bo -- schet -- to 
         più di fron -- di car -- co,
         più di fron -- di car -- co
-    Dor -- mia’l pa -- stor con le sue greg -- gi~a pa -- ro;
+    Dor -- mia'l pa -- stor con le sue greg -- gi~a pa -- ro;
     Gia -- ce -- va~il vil -- la -- nel, __
-        il vil -- la -- nel __ de l’o -- pra scar -- co.
+        il vil -- la -- nel __ de l'o -- pra scar -- co.
     Vie più di po -- sa che di spi -- ghe~a -- va -- ro;
     Gli~au -- gei,
-    gli~au -- gei, __ le fe -- re, o -- gni~uom s’a -- scon -- d'e ta -- ce,
+    gli~au -- gei, __ le fe -- re, o -- gni~uom s'a -- scon -- d'e ta -- ce,
         e ta -- ce,
     Sol la Ci -- ca -- la non si sen -- te~in pa -- ce,
         non si sen -- te~in pa -- ce,
@@ -152,16 +152,16 @@ tenoreLyricsXVIII = \lyricmode {
     \ijLyrics
     scal -- da -- va~il sol
     \normalLyrics
-        di mez -- zo gior -- no __ l’ar -- co,
+        di mez -- zo gior -- no __ l'ar -- co,
     Nel dor -- so del Le -- on suo~al -- ber -- go ca -- ro,
-    Sot -- to’l bo -- schet -- to più di fron -- di car -- co
-    Dor -- mia’l pa -- stor.
+    Sot -- to'l bo -- schet -- to più di fron -- di car -- co
+    Dor -- mia'l pa -- stor.
     Gia -- ce -- va~il vil -- la -- nel, __
-        il vil -- la -- nel __ de l’o -- pra scar -- co.
+        il vil -- la -- nel __ de l'o -- pra scar -- co.
     Vie più di po -- sa che di spi -- ghe~a -- va -- ro;
     Gli~au -- gei, __
     gli~au -- gei, __ le fe -- re, o -- gni~uom,
-        o -- gni~uom s’a -- scon -- d'e ta -- ce,
+        o -- gni~uom s'a -- scon -- d'e ta -- ce,
     Sol,
         non si sen -- te~in pa -- ce,
         non si sen -- te~in pa -- ce,
@@ -196,20 +196,20 @@ bassoXVIII = \relative c {
 }
 
 bassoLyricsXVIII = \lyricmode {
-    Scal -- da -- va~il sol di mez -- zo gior -- no l’ar -- co,
-            l’ar -- co
-            l’ar -- co
+    Scal -- da -- va~il sol di mez -- zo gior -- no l'ar -- co,
+            l'ar -- co
+            l'ar -- co
 %    Nel dor -- so del Le -- on,
 %    nel dor -- so del Le -- on suo~al -- ber -- go ca -- ro,
         suo~al -- ber -- go ca -- ro,
-    Sot -- to’l bo -- schet -- to più di fron -- di car -- co
-    Dor -- mia’l pa -- stor con le sue greg -- gi~a pa -- ro;
+    Sot -- to'l bo -- schet -- to più di fron -- di car -- co
+    Dor -- mia'l pa -- stor con le sue greg -- gi~a pa -- ro;
     Gia -- ce -- va,
     gia -- ce -- va,
-%        il vil -- la -- nel de l’o -- pra scar -- co.
+%        il vil -- la -- nel de l'o -- pra scar -- co.
 %    Vie più di po -- sa
         che di spi -- ghe~a -- va -- ro;
-    Gli~au -- gei, __ le fe -- re, __ o -- gni~uom s’a -- scon -- d'e ta -- ce,
+    Gli~au -- gei, __ le fe -- re, __ o -- gni~uom s'a -- scon -- d'e ta -- ce,
     Sol,
         non si sen -- te~in pa -- ce,
         non si sen -- te~in pa -- ce.
@@ -254,14 +254,14 @@ quintoLyricsXVIII = \lyricmode {
     \ijLyrics
     scal -- da -- va~il sol
     \normalLyrics
-        di mez -- zo gior -- no l’ar -- co,
-            l’ar -- co
+        di mez -- zo gior -- no l'ar -- co,
+            l'ar -- co
     Nel dor -- so del Le -- on suo~al -- ber -- go ca -- ro,
-    Sot -- to’l bo -- schet -- to più di fron -- di car -- co,
+    Sot -- to'l bo -- schet -- to più di fron -- di car -- co,
         più di fron -- di car -- co
-    Dor -- mia’l pa -- stor con le sue greg -- gi~a pa -- ro;
+    Dor -- mia'l pa -- stor con le sue greg -- gi~a pa -- ro;
     Gia -- ce -- va il vil -- la -- nel, __
-        il vil -- la -- nel __ de l’o -- pra scar -- co.
+        il vil -- la -- nel __ de l'o -- pra scar -- co.
     Vie più di po -- sa
         che di spi -- ghe~a -- va -- ro;
     Gli~au -- gei, __
@@ -270,7 +270,7 @@ quintoLyricsXVIII = \lyricmode {
     \ijLyrics
         o -- gni,
     \normalLyrics
-        o -- gni~uom s’a -- scon -- de e ta -- ce,
+        o -- gni~uom s'a -- scon -- de e ta -- ce,
     Sol,
     sol la Ci -- ca -- la non si sen -- te~in pa -- ce,
         non si sen -- te~in pa -- ce.

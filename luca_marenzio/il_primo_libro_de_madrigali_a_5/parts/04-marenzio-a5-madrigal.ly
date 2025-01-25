@@ -1,8 +1,8 @@
-% Quando’l mio vivo sol perch’io non pera
+% Quando'l mio vivo sol perch'io non pera
 % Godi or, mi disse con un dolce riso,
 % Amante fido il premio del tuo ardore.
 % Indi con molti bacci sparse fuore
-% Quante grazie e dolcezze ha’l Paradiso
+% Quante grazie e dolcezze ha'l Paradiso
 % E quant'a odor nei fior la Primavera.
 
 cantoIVincipit = \relative c'' {
@@ -40,20 +40,20 @@ cantoIV = \relative c'' {
 }
 
 cantoLyricsIV = \lyricmode {
-    Quan -- do’l mio vi -- vo sol per -- ch’io non pe -- ra,
-        per -- ch’io non pe -- ra,
+    Quan -- do'l mio vi -- vo sol per -- ch'io non pe -- ra,
+        per -- ch'io non pe -- ra,
     Go -- di~or, 
     Go -- di~or, 
     Go -- di~or, mi dis -- se % con un dol -- ce ri -- so,
     A -- man -- te fi -- do~il pre -- mio del tuo~ar -- do -- re.
     In -- di con mol -- ti bac -- ci,
         con mol -- ti bac -- ci spar -- se fuo -- re
-    Quan -- te gra -- zie e dol -- cez -- ze~ha’l Pa -- ra -- di -- so
+    Quan -- te gra -- zie e dol -- cez -- ze~ha'l Pa -- ra -- di -- so
     Quan -- te gra -- zie,
-    Quan -- te gra -- zie e dol -- cez -- ze ha’l Pa -- ra -- di -- so
-    E quan -- t’a~o -- dor nei fior nei fior __ nei fior __ la 
+    Quan -- te gra -- zie e dol -- cez -- ze ha'l Pa -- ra -- di -- so
+    E quan -- t'a~o -- dor nei fior nei fior __ nei fior __ la 
         Pri -- ma -- ve -- ra,
-    E quan -- t’a~o -- dor nei fior, __
+    E quan -- t'a~o -- dor nei fior, __
         nei fior __ la Pri -- ma -- ve -- ra.
 }
 
@@ -94,8 +94,8 @@ altoIV = \relative c'' {
 }
 
 altoLyricsIV = \lyricmode {
-    Quan -- do’l mio vi -- vo sol __ per -- ch’io non pe -- ra,
-        per -- ch’io non pe -- ra, __
+    Quan -- do'l mio vi -- vo sol __ per -- ch'io non pe -- ra,
+        per -- ch'io non pe -- ra, __
     Go -- di~or, mi dis -- se,
     Go -- di~or, mi dis -- se con un dol -- ce ri -- so,
     A -- man -- te fi -- do~il pre -- mio del tuo~ar -- do -- re.
@@ -103,10 +103,10 @@ altoLyricsIV = \lyricmode {
         con mol -- ti bac -- ci spar -- se fuo -- re
     Quan -- te gra -- zie e dol -- cez -- ze,
     Quan -- te gra -- zie~e dol -- cez -- ze,
-    Quan -- te gra -- zie e dol -- cez -- ze~ha’l Pa -- ra -- di -- so
-        ha’l Pa -- ra -- di -- so
-    E quan -- t’a~o -- dor nei fior nei fior __ nei fior __ 
-    E quan -- t’a~o -- dor nei fior la Pri -- ma -- ve -- ra.
+    Quan -- te gra -- zie e dol -- cez -- ze~ha'l Pa -- ra -- di -- so
+        ha'l Pa -- ra -- di -- so
+    E quan -- t'a~o -- dor nei fior nei fior __ nei fior __ 
+    E quan -- t'a~o -- dor nei fior la Pri -- ma -- ve -- ra.
 }
 
 tenoreIVincipit = \relative c'' {
@@ -146,10 +146,10 @@ tenoreIV = \relative c'' {
 }
 
 tenoreLyricsIV = \lyricmode {
-        Per -- ch’io non pe -- ra,
-        per -- ch’io non pe -- ra,
+        Per -- ch'io non pe -- ra,
+        per -- ch'io non pe -- ra,
     \ijLyrics
-        per -- ch’io non pe -- ra,
+        per -- ch'io non pe -- ra,
     \normalLyrics
     Go -- di~or, 
     Go -- di~or, 
@@ -159,11 +159,11 @@ tenoreLyricsIV = \lyricmode {
         con mol -- ti bac -- ci spar -- se fuo -- re
             e dol -- cez -- ze,
             e dol -- cez -- ze,
-    Quan -- te gra -- zie e dol -- cez -- ze~ha’l Pa -- ra -- di -- so
-        e dol -- cez -- ze~ha’l Pa -- ra -- di -- so
-    E quan -- t’a~o -- dor nei fior __ nei fior __ 
+    Quan -- te gra -- zie e dol -- cez -- ze~ha'l Pa -- ra -- di -- so
+        e dol -- cez -- ze~ha'l Pa -- ra -- di -- so
+    E quan -- t'a~o -- dor nei fior __ nei fior __ 
         la Pri -- ma -- ve -- ra,
-    E quan -- t’a~o -- dor nei fior,
+    E quan -- t'a~o -- dor nei fior,
         nei fior __ nei fior __ la Pri -- ma -- ve -- ra.
 }
 
@@ -197,15 +197,15 @@ bassoIV = \relative c' {
 }
 
 bassoLyricsIV = \lyricmode {
-    Quan -- do’l mio vi -- vo sol per -- ch’io non pe -- ra,
+    Quan -- do'l mio vi -- vo sol per -- ch'io non pe -- ra,
     Go -- di~or, 
     Go -- di~or, 
     Go -- di~or, mi dis -- se % con un dol -- ce ri -- so,
     In -- di con mol -- ti bac -- ci,
         con mol -- ti bac -- ci spar -- se fuo -- re
-    Quan -- te gra -- zie e dol -- cez -- ze~ha’l Pa -- ra -- di -- so
-    E quan -- t’a~o -- dor __ nei fior __ 
-    E quan -- t’a~o -- dor __ nei fior __ la Pri -- ma -- ve -- ra.
+    Quan -- te gra -- zie e dol -- cez -- ze~ha'l Pa -- ra -- di -- so
+    E quan -- t'a~o -- dor __ nei fior __ 
+    E quan -- t'a~o -- dor __ nei fior __ la Pri -- ma -- ve -- ra.
 }
 
 quintoIVincipit = \relative c'' {
@@ -246,8 +246,8 @@ quintoIV = \relative c'' {
 }
 
 quintoLyricsIV = \lyricmode {
-    Quan -- do’l mio vi -- vo sol per -- ch’io non pe -- ra,
-        per -- ch’io non pe -- ra,
+    Quan -- do'l mio vi -- vo sol per -- ch'io non pe -- ra,
+        per -- ch'io non pe -- ra,
     Go -- di~or, 
     Go -- di~or, 
     Go -- di~or, mi dis -- se con un dol -- ce ri -- so,
@@ -258,11 +258,11 @@ quintoLyricsIV = \lyricmode {
     \ijLyrics
     Quan -- te gra -- zie
     \normalLyrics 
-        e dol -- cez -- ze~ha’l Pa -- ra -- di -- so
-    Quan -- te gra -- zie e dol -- cez -- ze ha’l Pa -- ra -- di -- so
-    E quan -- t’a~o -- dor nei fior __ nei fior __ la 
+        e dol -- cez -- ze~ha'l Pa -- ra -- di -- so
+    Quan -- te gra -- zie e dol -- cez -- ze ha'l Pa -- ra -- di -- so
+    E quan -- t'a~o -- dor nei fior __ nei fior __ la 
         Pri -- ma -- ve -- ra,
-    E quan -- t’a~o -- dor nei fior, 
+    E quan -- t'a~o -- dor nei fior, 
         nei fior __ nei fior la Pri -- ma -- ve -- ra.
 }
 

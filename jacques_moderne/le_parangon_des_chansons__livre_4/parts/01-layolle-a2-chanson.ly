@@ -46,7 +46,7 @@ superiusTwoLyricsI = \lyricmode {
     Qui à nous maulx __ a sceut si bien pour -- voir
     Or main -- te -- nant a per -- du son pou -- voir,
     Rom -- pant le but de ma seul -- le es -- pé -- rance
-    Ser -- vant d’e -- xem -- ple à tous pi -- teux à voir
+    Ser -- vant d'e -- xem -- ple à tous pi -- teux à voir
     Fi -- ni le bi -- en, le mal sou -- dain com -- men -- ce,
         \ijLyrics
         com -- men -- ce, __
@@ -101,7 +101,7 @@ superiusOneLyricsI = \lyricmode {
     Qui à nous maulx __ a sceut si bien pour -- voir
     Or main -- te -- nant a per -- du son pou -- voir,
     Rom -- pant __ le but de ma seul -- le es -- pé -- rance __
-    Ser -- vant d’e -- xem -- ple à tous pi -- teux __ à voir
+    Ser -- vant d'e -- xem -- ple à tous pi -- teux __ à voir
     Fi -- ni le bi -- en, le mal __ sou -- dain com -- men -- ce,
         le mal __ sou -- dain com -- men -- ce,
     Fi -- ni le bien

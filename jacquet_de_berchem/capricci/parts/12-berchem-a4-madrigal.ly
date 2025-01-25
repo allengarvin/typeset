@@ -2,10 +2,10 @@
 %      acciò di me ti sazii e ti disfami?
 %      che dar ti posso omai più, se non questa
 %      misera vita? ma tu non la brami;
-%      ch’ora a trarla del mar sei stata presta,
+%      ch'ora a trarla del mar sei stata presta,
 %      quando potea finir suoi giorni grami:
 %      perché ti parve di voler più ancora
-%      vedermi tormentar prima ch’io muora.
+%      vedermi tormentar prima ch'io muora.
 
 cantoXIIincipit = \relative c'' {
     \time 4/4
@@ -41,12 +41,12 @@ cantoLyricsXII = \lyricmode {
     Ac -- ciò di me ti sa -- zii~e ti di -- sfa -- mi?
     Che dar ti pos -- so~o -- mai più, se non que -- sta
     Mi -- se -- ra vi -- ta? ma tu non la bra -- mi;
-    Ch’o -- ra~a trar -- la del mar sei sta -- ta pre -- sta,
+    Ch'o -- ra~a trar -- la del mar sei sta -- ta pre -- sta,
     Quan -- do po -- tea fi -- nir suoi gior -- ni __ gra -- mi,
         suoi gior -- ni __ gra -- mi:
     Per -- ché ti par -- ve di vo -- ler più~an -- co -- ra
-    Ve -- der -- mi tor -- men -- tar pri -- ma ch’io __ muo -- ra,
-    Ve -- der -- mi tor -- men -- tar __ pri -- ma ch’io muo -- ra. __
+    Ve -- der -- mi tor -- men -- tar pri -- ma ch'io __ muo -- ra,
+    Ve -- der -- mi tor -- men -- tar __ pri -- ma ch'io muo -- ra. __
 }
 
 altoXIIincipit = \relative c' {
@@ -82,11 +82,11 @@ altoLyricsXII = \lyricmode {
     Ac -- ciò di me __ ti sa -- zii~e ti di -- sfa -- mi?
     Che dar ti pos -- so~o -- mai più, se non que -- sta
     Mi -- se -- ra vi -- ta? ma tu non la bra -- mi;
-    Ch’o -- ra~a trar -- la del mar sei sta -- ta pre -- sta,
+    Ch'o -- ra~a trar -- la del mar sei sta -- ta pre -- sta,
     Quan -- do po -- tea fi -- nir suoi gior -- ni gra -- mi,
     Per -- ché ti par -- ve di vo -- ler più~an -- co -- ra
-    Ve -- der -- mi tor -- men -- tar pri -- ma ch’io muo -- ra,
-    Ve -- der -- mi tor -- men -- tar pri -- ma ch’io muo -- ra.
+    Ve -- der -- mi tor -- men -- tar pri -- ma ch'io muo -- ra,
+    Ve -- der -- mi tor -- men -- tar pri -- ma ch'io muo -- ra.
 }
 
 tenoreXIIincipit = \relative c' {
@@ -125,11 +125,11 @@ tenoreLyricsXII = \lyricmode {
     Ac -- ciò di me __ ti sa -- zii~e ti di -- sfa -- mi?
     Che dar ti pos -- so~o -- mai più, se non que -- sta
     Mi -- se -- ra vi -- ta? ma tu non __ la bra -- mi;
-    Ch’o -- ra~a trar -- la del mar sei sta -- ta pre -- sta,
+    Ch'o -- ra~a trar -- la del mar sei sta -- ta pre -- sta,
     Quan -- do po -- tea fi -- nir suoi gior -- ni gra -- mi,
     Per -- ché ti par -- ve di vo -- ler più~an -- co -- ra
-    Ve -- der -- mi tor -- men -- tar pri -- ma ch’io muo -- ra,
-    Ve -- der -- mi tor -- men -- tar __ pri -- ma ch’io muo -- ra.
+    Ve -- der -- mi tor -- men -- tar pri -- ma ch'io muo -- ra,
+    Ve -- der -- mi tor -- men -- tar __ pri -- ma ch'io muo -- ra.
 }
 
 bassoXIIincipit = \relative c {
@@ -166,11 +166,11 @@ bassoLyricsXII = \lyricmode {
     Ac -- ciò di me ti sa -- zii~e ti di -- sfa -- mi?
     Che dar ti pos -- so~o -- mai più, se non que -- sta
     Mi -- se -- ra vi -- ta? ma tu non la bra -- mi;
-    Ch’o -- ra~a trar -- la del mar sei sta -- ta pre -- sta,
+    Ch'o -- ra~a trar -- la del mar sei sta -- ta pre -- sta,
     Quan -- do po -- tea fi -- nir suoi gior -- ni gra -- mi,
     Per -- ché ti par -- ve di vo -- ler più~an -- co -- ra
-    Ve -- der -- mi tor -- men -- tar pri -- ma ch’io muo -- ra,
-    Ve -- der -- mi tor -- men -- tar __ pri -- ma ch’io muo -- ra.
+    Ve -- der -- mi tor -- men -- tar pri -- ma ch'io muo -- ra,
+    Ve -- der -- mi tor -- men -- tar __ pri -- ma ch'io muo -- ra.
 }
 
 cantoXIIincipitVoice = <<

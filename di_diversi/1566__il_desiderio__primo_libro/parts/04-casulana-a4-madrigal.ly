@@ -7,7 +7,7 @@
 % 
 % My heart cannot die:
 % to please you, I want to kill it,
-% but it can’t be ripped from your breast
+% but it can't be ripped from your breast
 % where it has lived so long;
 % if I were to kill it, as I want to,
 % I know my death would be your death too.

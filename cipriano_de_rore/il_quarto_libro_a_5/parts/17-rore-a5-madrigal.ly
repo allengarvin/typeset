@@ -1,9 +1,9 @@
-%   62  L’ineffabil bontà del Redentore,
-%       de’ tuoi principi il senno e la iustizia,
+%   62  L'ineffabil bontà del Redentore,
+%       de' tuoi principi il senno e la iustizia,
 %       sempre con pace, sempre con amore
 %       ti tenga in abondanzia et in letizia;
 %       e ti difenda contra ogni furore
-%       de’ tuoi nimici, e scuopra lor malizia:
+%       de' tuoi nimici, e scuopra lor malizia:
 %       del tuo contento ogni vicino arrabbia,
 %       più tosto che tu invidia ad alcuno abbia.
 
@@ -42,13 +42,13 @@ cantusXVII = \relative c' {
 }
 
 cantusLyricsXVII = \lyricmode {
-    L’in -- ef -- fa -- bil bon -- tà __ del __ Re -- den -- to -- re,
-    De’ tuoi prin -- ci -- pi~il sen -- no~e la __ giu -- sti -- tia,
+    L'in -- ef -- fa -- bil bon -- tà __ del __ Re -- den -- to -- re,
+    De' tuoi prin -- ci -- pi~il sen -- no~e la __ giu -- sti -- tia,
     Sem -- pre con pa -- ce, sem -- pre con a -- mo -- re
     Ti ten -- ga~in a -- bon -- dan -- tia~ed in le -- ti -- tia;
     E ti di -- fen -- da,
     e ti di -- fen -- da con -- tra~o -- gni fu -- ro -- re
-    De’ tuoi ni -- mi -- ci~e scuo -- pra lor ma -- li -- tia:
+    De' tuoi ni -- mi -- ci~e scuo -- pra lor ma -- li -- tia:
     Del tuo con -- ten -- to~o -- gni vi -- ci -- no~ar -- rab -- bia,
     Più to -- sto che tu~in -- vi -- dia~ad al -- cu -- no~ab -- bia,
     del tuo con -- ten -- to~o -- gni vi -- ci -- no~ar -- rab -- bia,
@@ -89,13 +89,13 @@ altusXVII = \relative c' {
 }
 
 altusLyricsXVII = \lyricmode {
-    L’in -- ef -- fa -- bil bon -- tà del Re -- den -- to -- re,
-    De’ tuoi prin -- ci -- pi~il sen -- no~e la giu -- sti -- tia,
+    L'in -- ef -- fa -- bil bon -- tà del Re -- den -- to -- re,
+    De' tuoi prin -- ci -- pi~il sen -- no~e la giu -- sti -- tia,
     Sem -- pre con pa -- ce, sem -- pre con a -- mo -- re
     Ti ten -- ga~in a -- bon -- dan -- tia~ed in le -- ti -- tia;
     E ti di -- fen -- da,
     e ti di -- fen -- da con -- tra~o -- gni fu -- ro -- re
-    De’ tuoi ni -- mi -- ci
+    De' tuoi ni -- mi -- ci
     Del tuo con -- ten -- to~o -- gni vi -- ci -- no~ar -- rab -- bia,
     Più to -- sto che tu~in -- vi -- dia~ad al -- cu -- no~ab -- bia,
     del tuo con -- ten -- to~o -- gni vi -- ci -- no~ar -- rab -- bia,
@@ -140,12 +140,12 @@ tenorXVII = \relative c {
 }
 
 tenorLyricsXVII = \lyricmode {
-    L’in -- ef -- fa -- bil bon -- tà del Re -- den -- to -- re,
-    De’ __ tuoi prin -- ci -- pi~il sen -- no e la __ giu -- sti -- tia,
+    L'in -- ef -- fa -- bil bon -- tà del Re -- den -- to -- re,
+    De' __ tuoi prin -- ci -- pi~il sen -- no e la __ giu -- sti -- tia,
     Sem -- pre con pa -- ce, sem -- pre con a -- mo -- re
     Ti ten -- ga~in a -- bon -- dan -- tia~ed in le -- ti -- tia;
     E ti di -- fen -- da con -- tra~o -- gni fu -- ro -- re
-    De’ tuoi ni -- mi -- ci~e scuo -- pra lor ma -- li -- tia:
+    De' tuoi ni -- mi -- ci~e scuo -- pra lor ma -- li -- tia:
     Del tuo con -- ten -- to~o -- gni vi -- ci -- no~ar -- rab -- bia,
     Più to -- sto che tu~in -- vi -- dia~ad al -- cu -- no~ab -- bia,
     del tuo con -- ten -- to o -- gni vi -- ci -- no~ar -- rab -- bia,
@@ -189,12 +189,12 @@ bassusXVII = \relative c {
 }
 
 bassusLyricsXVII = \lyricmode {
-    L’in -- ef -- fa -- bil bon -- tà __ del Re -- den -- to -- re,
-    De’ tuoi prin -- ci -- pi~il sen -- no~e __ la giu -- sti -- tia,
+    L'in -- ef -- fa -- bil bon -- tà __ del Re -- den -- to -- re,
+    De' tuoi prin -- ci -- pi~il sen -- no~e __ la giu -- sti -- tia,
     Sem -- pre con pa -- ce, sem -- pre con a -- mo -- re
     Ti ten -- ga~in a -- bon -- dan -- tia~ed in le -- ti -- tia;
     E ti di -- fen -- da con -- tra~o -- gni fu -- ro -- re
-    De’ tuoi ni -- mi -- ci e scuo -- pra lor ma -- li -- tia:
+    De' tuoi ni -- mi -- ci e scuo -- pra lor ma -- li -- tia:
     Del tuo con -- ten -- to~o -- gni vi -- ci -- no~ar -- rab -- bia,
     Più to -- sto che tu~in -- vi -- dia~ad al -- cu -- no~ab -- bia,
     del tuo con -- ten -- to~o -- gni vi -- ci -- no~ar -- rab -- bia,
@@ -235,14 +235,14 @@ quintusXVII = \relative c' {
 }
 
 quintusLyricsXVII = \lyricmode {
-    L’in -- ef -- fa -- bil bon -- tà del Re -- den -- to -- re,
-    De’ tuoi prin -- ci -- pi~il sen -- no,
-    de’ tuoi prin -- ci -- pi~il sen -- no~e la giu -- sti -- tia,
+    L'in -- ef -- fa -- bil bon -- tà del Re -- den -- to -- re,
+    De' tuoi prin -- ci -- pi~il sen -- no,
+    de' tuoi prin -- ci -- pi~il sen -- no~e la giu -- sti -- tia,
     Sem -- pre con pa -- ce, sem -- pre con a -- mo -- re
     Ti ten -- ga~in a -- bon -- dan -- tia~ed in __ le -- ti -- tia;
     E ti di -- fen -- da,
     e ti di -- fen -- da con -- tra~o -- gni fu -- ro -- re
-    De’ tuoi ni -- mi -- ci~e scuo -- pra lor ma -- li -- tia:
+    De' tuoi ni -- mi -- ci~e scuo -- pra lor ma -- li -- tia:
     Del tuo con -- ten -- to o -- gni vi -- ci -- no~ar -- rab -- bia,
     Più to -- sto che tu~in -- vi -- dia~ad al -- cu -- no~ab -- bia,
     del tuo con -- ten -- to~o -- gni vi -- ci -- no~ar -- rab -- bia,

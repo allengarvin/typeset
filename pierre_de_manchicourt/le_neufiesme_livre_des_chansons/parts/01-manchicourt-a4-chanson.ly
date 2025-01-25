@@ -36,7 +36,7 @@ superiusI = \relative c'' {
 superiusLyricsI = \lyricmode {
     Du fond de ma pen -- sé -- e,
     Au fond de tous en -- nuyctz __
-    Dieu, je t’ai ad -- dres -- sé
+    Dieu, je t'ai ad -- dres -- sé
     Ma cla -- meur jour __ et __ nuyct
     En -- tends ma voix plain -- ti -- fue
     Sei -- gneur, __ il est __ sai -- son __
@@ -90,7 +90,7 @@ contraI = \relative c'' {
 contraLyricsI = \lyricmode {
     Du fond de ma pen -- sé -- e,
     Au fond de tous __ en -- nuyctz 
-    Dieu, je t’ai ad -- dres -- sé __
+    Dieu, je t'ai ad -- dres -- sé __
     Ma cla -- meur,
     \ijLyrics
     Ma cla -- meur
@@ -162,7 +162,7 @@ tenorLyricsI = \lyricmode {
     Au fond de tous en -- nuyctz 
  % vvvvvvvvvvvvvv "A toy c'est" here??
     \ijLyrics
-    Dieu, je t’ai
+    Dieu, je t'ai
     \normalLyrics
         ad -- dres -- sé
     Ma cla -- meur,
@@ -225,7 +225,7 @@ bassusI = \relative c' {
 bassusLyricsI = \lyricmode {
     Du fond de ma pen -- sé -- e,
     Au fond de tous en -- nuyctz 
-    Dieu, je t’ai ad -- dres -- sé
+    Dieu, je t'ai ad -- dres -- sé
     Ma cla -- meur,
     \ijLyrics
     ma cla -- meur 

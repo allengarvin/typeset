@@ -1,5 +1,5 @@
 %Ma voi, caro ben mio,
-%Caso che’l corpo poca terra chiuda,
+%Caso che'l corpo poca terra chiuda,
 %Sarete mai sì cruda
 %Di non darmi un sospir cortese e pio.
 %Fate che la mercede
@@ -37,7 +37,7 @@ cantoIII = \relative c'' {
 
 cantoLyricsIII = \lyricmode {
     Ma voi, ca -- ro ben mi -- o,
-    Ca -- so che’l cor -- po po -- ca ter -- ra chiu -- da,
+    Ca -- so che'l cor -- po po -- ca ter -- ra chiu -- da,
     Sa -- re -- te mai sì cru -- da
     Di non dar -- mi~un so -- spir,
         so -- spir 
@@ -80,7 +80,7 @@ altoIII = \relative c' {
 
 altoLyricsIII = \lyricmode {
     Ma voi, ca -- ro ben mi -- o,
-    Ca -- so che’l cor -- po po -- ca ter -- ra chiu -- da,
+    Ca -- so che'l cor -- po po -- ca ter -- ra chiu -- da,
     Sa -- re -- te mai sì cru -- da
     Di non dar -- mi~un so -- spir,
     Di non dar -- mi,
@@ -127,7 +127,7 @@ tenoreIII = \relative c' {
 
 tenoreLyricsIII = \lyricmode {
     Ma voi, ca -- ro ben mi -- o,
-    Ca -- so che’l cor -- po po -- ca ter -- ra chiu -- da,
+    Ca -- so che'l cor -- po po -- ca ter -- ra chiu -- da,
     Sa -- re -- te mai sì cru -- da
     Di non dar -- mi~un so -- spir,
         so -- spir 
@@ -211,7 +211,7 @@ quintoIII = \relative c'' {
 
 quintoLyricsIII = \lyricmode {
     Ma voi, ca -- ro ben mi -- o,
-    Ca -- so che’l cor -- po po -- ca ter -- ra chiu -- da,
+    Ca -- so che'l cor -- po po -- ca ter -- ra chiu -- da,
     Sa -- re -- te mai sì cru -- da
     Di non dar -- mi~un so -- spir,
         so -- spir 

@@ -34,18 +34,18 @@ cantoV = \relative c'' {
 cantoLyricsV = \lyricmode {
     Sel -- ve, sas -- si, cam -- pa -- gne, __ fiu -- mi~et pog -- gi,
     Quan -- to~è cre -- a -- to, vin -- ce~et can -- gia~il tem -- po: __
-    Ond’ io cheg -- gio per -- do -- no~a que -- ste fron -- di,
-    Se ri -- vol -- gen -- do poi molt’ an -- ni~il cie -- lo
+    Ond' io cheg -- gio per -- do -- no~a que -- ste fron -- di,
+    Se ri -- vol -- gen -- do poi molt' an -- ni~il cie -- lo
     Fug -- gir di -- spo -- si gli~in -- ve -- sca -- ti ra -- mi
         gli~in -- ve -- sca -- ti ra -- mi
-    To -- sto ch’in -- co -- min -- ciai 
+    To -- sto ch'in -- co -- min -- ciai 
     \ijLyrics
-    To -- sto ch’in -- co -- min -- ciai 
+    To -- sto ch'in -- co -- min -- ciai 
     \normalLyrics 
         di ve -- der __ lu -- me,
-    To -- sto ch’in -- co -- min -- ciai 
+    To -- sto ch'in -- co -- min -- ciai 
     \ijLyrics
-    To -- sto ch’in -- co -- min -- ciai 
+    To -- sto ch'in -- co -- min -- ciai 
     \normalLyrics 
         di ve -- der __ lu -- me.
 }
@@ -88,13 +88,13 @@ altoLyricsV = \lyricmode {
     Sel -- ve, sas -- si, cam -- pa -- gne, fiu -- mi~et pog -- gi,
         fiu -- mi~et pog -- gi,
     Quan -- to~è cre -- a -- to, __ vin -- ce~et can -- gia~il tem -- po:
-    Ond’ io cheg -- gio per -- do -- no~a que -- ste fron -- di,
-    Ond’ io __ cheg -- gio per -- do -- no,
-    Se ri -- vol -- gen -- do poi molt’ an -- ni~il cie -- lo
+    Ond' io cheg -- gio per -- do -- no~a que -- ste fron -- di,
+    Ond' io __ cheg -- gio per -- do -- no,
+    Se ri -- vol -- gen -- do poi molt' an -- ni~il cie -- lo
     Fug -- gir di -- spo -- si gli~in -- ve -- sca -- ti ra -- mi
-    To -- sto ch’in -- co -- min -- ciai di ve -- der lu -- me,
+    To -- sto ch'in -- co -- min -- ciai di ve -- der lu -- me,
         di ve -- der lu -- me, __
-    To -- sto ch’in -- co -- min -- ciai di ve -- der lu -- me,
+    To -- sto ch'in -- co -- min -- ciai di ve -- der lu -- me,
         di ve -- der lu -- me.
 }
 
@@ -130,19 +130,19 @@ tenoreLyricsV = \lyricmode {
     Sel -- ve, sas -- si, cam -- pa -- gne, fiu -- mi~et pog -- gi,
     Quan -- to~è cre -- a -- to, __ vin -- ce~et can -- gia~il tem -- po:
         vin -- ce~et can -- gia~il tem -- po:
-    Ond’ io cheg -- gio per -- do -- no,
-    Ond’ io cheg -- gio per -- don' __ a que -- ste fron -- di,
-    Se ri -- vol -- gen -- do poi molt’ an -- ni~il cie -- lo
+    Ond' io cheg -- gio per -- do -- no,
+    Ond' io cheg -- gio per -- don' __ a que -- ste fron -- di,
+    Se ri -- vol -- gen -- do poi molt' an -- ni~il cie -- lo
     \ijLyrics
-    Se ri -- vol -- gen -- do poi molt’ an -- ni~il cie -- lo
+    Se ri -- vol -- gen -- do poi molt' an -- ni~il cie -- lo
     \normalLyrics
     Fug -- gir di -- spo -- si gli~in -- ve -- sca -- ti ra -- mi
-    To -- sto ch’in -- co -- min -- ciai
+    To -- sto ch'in -- co -- min -- ciai
     \ijLyrics
-    To -- sto ch’in -- co -- min -- ciai 
+    To -- sto ch'in -- co -- min -- ciai 
     \normalLyrics
         di ve -- der lu -- me,
-    To -- sto ch’in -- co -- min -- ciai di ve -- der lu -- me.
+    To -- sto ch'in -- co -- min -- ciai di ve -- der lu -- me.
 }
 
 bassoVincipit = \relative c' {
@@ -177,13 +177,13 @@ bassoV = \relative c' {
 bassoLyricsV = \lyricmode {
     Sel -- ve, sas -- si, cam -- pa -- gne, fiu -- mi~et pog -- gi,
     Quan -- to~è cre -- a -- to, __ vin -- ce~et can -- gia~il tem -- po:
-    Ond’ io cheg -- gio per -- do -- no~a que -- ste fron -- di,
-    Ond’ io __ cheg -- gio per -- do -- no~a que -- ste fron -- di,
-    Se ri -- vol -- gen -- do poi molt’ an -- ni~il cie -- lo
+    Ond' io cheg -- gio per -- do -- no~a que -- ste fron -- di,
+    Ond' io __ cheg -- gio per -- do -- no~a que -- ste fron -- di,
+    Se ri -- vol -- gen -- do poi molt' an -- ni~il cie -- lo
     Fug -- gir di -- spo -- si gli~in -- ve -- sca -- ti ra -- mi
         gli~in -- ve -- sca -- ti ra -- mi
-    To -- sto ch’in -- co -- min -- ciai di ve -- der lu -- me,
-    To -- sto ch’in -- co -- min -- ciai di ve -- der lu -- me.
+    To -- sto ch'in -- co -- min -- ciai di ve -- der lu -- me,
+    To -- sto ch'in -- co -- min -- ciai di ve -- der lu -- me.
 }
 
 cantoVincipitVoice = <<

@@ -34,15 +34,15 @@ cantusXXIV = \relative c'' {
 cantusLyricsXXIV = \lyricmode {
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
     la ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
-    Ch’in bel giar -- din su la na -- ti -- va __ spi -- na
+    Ch'in bel giar -- din su la na -- ti -- va __ spi -- na
     Men -- tre so -- la,
     men -- tre so -- la si -- cu -- ra si ri -- po -- sa,
     Né greg -- ge né pa -- stor se le~av -- vi -- ci -- na,
     né greg -- ge né pa -- stor se le~av -- vi -- ci -- na;
 
-    L’au -- ra so -- a -- ve e l’al -- ba ru -- gia -- do -- sa,
-    L’ac -- qua la ter -- ra~al suo fa -- vor s’in -- chi -- na,
-        al suo fa -- vor s’in -- chi -- na;
+    L'au -- ra so -- a -- ve e l'al -- ba ru -- gia -- do -- sa,
+    L'ac -- qua la ter -- ra~al suo fa -- vor s'in -- chi -- na,
+        al suo fa -- vor s'in -- chi -- na;
     Gio -- va -- ni va -- ghi 
         % e don -- ne~in -- na -- mo -- ra -- te,
     A -- ma -- no~a -- ver -- ne~e se -- ni~e tem -- pie~or -- na -- te,
@@ -85,16 +85,16 @@ altusXXIV = \relative c'' {
 altusLyricsXXIV = \lyricmode {
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
     la ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
-    Ch’in bel giar -- din su la na -- ti -- va spi -- na
+    Ch'in bel giar -- din su la na -- ti -- va spi -- na
     Men -- tre so -- la,
     men -- tre so -- la si -- cu -- ra si ri -- po -- sa,
     Né greg -- ge né pa -- stor se le~av -- vi -- ci -- na,
     né greg -- ge né pa -- stor se le~av -- vi -- ci -- na;
 
-    L’au -- ra so -- a -- ve e l’al -- ba ru -- gia -- do -- sa,
-        e l’al -- ba ru -- gia -- do -- sa,
-    L’ac -- qua la ter -- ra~al suo fa -- vor s’in -- chi -- na,
-    l’ac -- qua la ter -- ra~al suo fa -- vor s’in -- chi -- na,
+    L'au -- ra so -- a -- ve e l'al -- ba ru -- gia -- do -- sa,
+        e l'al -- ba ru -- gia -- do -- sa,
+    L'ac -- qua la ter -- ra~al suo fa -- vor s'in -- chi -- na,
+    l'ac -- qua la ter -- ra~al suo fa -- vor s'in -- chi -- na,
     Gio -- va -- ni va -- ghi
 %        % e don -- ne~in -- na -- mo -- ra -- te,
     A -- ma -- no~a -- ver -- ne~e se -- ni~e tem -- pie~or -- na -- te,
@@ -136,15 +136,15 @@ tenorXXIV = \relative c' {
 
 tenorLyricsXXIV = \lyricmode {
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
-    Ch’in bel giar -- din su la na -- ti -- va spi -- na
+    Ch'in bel giar -- din su la na -- ti -- va spi -- na
     Men -- tre so -- la,
     men -- tre so -- la si -- cu -- ra si ri -- po -- sa,
     Né greg -- ge né pa -- stor se le~av -- vi -- ci -- na,
     né greg -- ge né pa -- stor se le~av -- vi -- ci -- na;
 
-    L’au -- ra so -- a -- ve e l’al -- ba ru -- gia -- do -- sa,
-    L’ac -- qua la ter -- ra~al suo fa -- vor s’in -- chi -- na, __
-        al suo fa -- vor s’in -- chi -- na;
+    L'au -- ra so -- a -- ve e l'al -- ba ru -- gia -- do -- sa,
+    L'ac -- qua la ter -- ra~al suo fa -- vor s'in -- chi -- na, __
+        al suo fa -- vor s'in -- chi -- na;
 %    Gio -- va -- ni va -- ghi
         e don -- ne~in -- na -- mo -- ra -- te,
     A -- ma -- no~a -- ver -- ne~e se -- ni~e tem -- pie~or -- na -- te,
@@ -185,13 +185,13 @@ bassusXXIV = \relative c' {
 
 bassusLyricsXXIV = \lyricmode {
     La ver -- gi -- nel -- la~è si -- mi -- le~al -- la ro -- sa,
-    Ch’in bel giar -- din su la na -- ti -- va spi -- na
+    Ch'in bel giar -- din su la na -- ti -- va spi -- na
     Men -- tre so -- la si -- cu -- ra si ri -- po -- sa,
     Né greg -- ge né pa -- stor se le~av -- vi -- ci -- na;
 
-    L’au -- ra so -- a -- ve e l’al -- ba ru -- gia -- do -- sa,
-    L’ac -- qua la ter -- ra~al suo fa -- vor s’in -- chi -- na, __
-        al suo fa -- vor s’in -- chi -- na;
+    L'au -- ra so -- a -- ve e l'al -- ba ru -- gia -- do -- sa,
+    L'ac -- qua la ter -- ra~al suo fa -- vor s'in -- chi -- na, __
+        al suo fa -- vor s'in -- chi -- na;
 %    Gio -- va -- ni va -- ghi
         e don -- ne~in -- na -- mo -- ra -- te,
     A -- ma -- no~a -- ver -- ne~e se -- ni~e tem -- pie~or -- na -- te,

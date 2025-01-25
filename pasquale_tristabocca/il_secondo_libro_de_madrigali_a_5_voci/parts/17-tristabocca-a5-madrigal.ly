@@ -40,11 +40,11 @@ cantoLyricsXVII = \lyricmode {
     Vez -- zo -- si~Au -- gel -- li~in -- fra __ le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
     tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra,
+    Mor -- mo -- ra l'au -- ra,
     \ijLyrics
-    mor -- mo -- ra l’au -- ra 
+    mor -- mo -- ra l'au -- ra 
     \normalLyrics
-        e __ fa le fo -- glie~e l’on -- de
+        e __ fa le fo -- glie~e l'on -- de
     Gar -- rir, % che 
         va -- ri -- a -- men -- te~el -- la per -- co -- te,
         va -- ri -- a -- men -- te~el -- la per -- co -- te
@@ -103,9 +103,9 @@ altoLyricsXVII = \lyricmode {
     Tem -- pra -- no~a pro -- va,
     tem -- pra -- no~a pro -- va,
     tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra,
-    mor -- mo -- ra l’au -- ra
-        e __ fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra,
+    mor -- mo -- ra l'au -- ra
+        e __ fa le fo -- glie~e l'on -- de
     Gar -- rir, % che
         va -- ri -- a -- men -- te,
         va -- ri -- a -- men -- te~el -- la per -- co -- te,
@@ -164,7 +164,7 @@ tenoreLyricsXVII = \lyricmode {
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
     tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
         la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra e __ fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra e __ fa le fo -- glie~e l'on -- de
     Gar -- rir, % che
         va -- ri -- a -- men -- te~el -- la per -- co -- te,
         va -- ri -- a -- men -- te~el -- la per -- co -- te
@@ -222,7 +222,7 @@ bassoLyricsXVII = \lyricmode {
 %    Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di fron -- de
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
     tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra e __ fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra e __ fa le fo -- glie~e l'on -- de
     Gar -- rir, % che
         va -- ri -- a -- men -- te~el -- la per -- co -- te,
         va -- ri -- a -- men -- te~el -- la per -- co -- te
@@ -278,7 +278,7 @@ quintoLyricsXVII = \lyricmode {
     Vez -- zo -- si~Au -- gel -- li~in -- fra le ver -- di fron -- de __
     Tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
     tem -- pra -- no~a pro -- va la -- sci -- vet -- te no -- te,
-    Mor -- mo -- ra l’au -- ra e fa le fo -- glie~e l’on -- de
+    Mor -- mo -- ra l'au -- ra e fa le fo -- glie~e l'on -- de
     Gar -- rir, % che
         va -- ri -- a -- men -- te~el -- la __ per -- co -- te,
         va -- ri -- a -- men -- te~el -- la per -- co -- te

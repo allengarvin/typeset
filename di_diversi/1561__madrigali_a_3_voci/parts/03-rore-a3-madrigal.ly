@@ -1,11 +1,11 @@
-%    2  Io dico e dissi, e dirò fin ch’io viva,
+%    2  Io dico e dissi, e dirò fin ch'io viva,
 %       che chi si truova in degno laccio preso,
 %       se ben di sé vede sua donna schiva,
 %       se in tutto aversa al suo desire acceso;
-%       se bene Amor d’ogni mercede il priva,
-%       poscia che ’l tempo e la fatica ha speso;
-%       pur ch’altamente abbia locato il core,
-%       pianger non de’, se ben languisce e muore.
+%       se bene Amor d'ogni mercede il priva,
+%       poscia che 'l tempo e la fatica ha speso;
+%       pur ch'altamente abbia locato il core,
+%       pianger non de', se ben languisce e muore.
 
 cantoIIIincipit = \relative c' {
     \time 2/2
@@ -39,16 +39,16 @@ cantoIII = \relative c' {
 }
 
 cantoLyricsIII = \lyricmode {
-    Io di -- co e dis -- si, e di -- rò fin ch’io vi -- va,
+    Io di -- co e dis -- si, e di -- rò fin ch'io vi -- va,
     Che chi si truo -- va~in de -- gno lac -- cio pre -- so,
     Se ben di sé ve -- de sua don -- na __ schi -- va,
     Se~in tut -- to~a -- ver -- sa~al suo __ de -- si -- re~ac -- ce -- so;
     Se be -- ne~A -- mor,
-    Se __ be -- ne~A -- mor d’o -- gni mer -- ce -- de~il pri -- va,
-        d’o -- gni mer -- ce -- de~il pri -- va,
-    Po -- scia che’l tem -- po~e la fa -- ti -- ca~ha spe -- so;
-    Pur ch’al -- ta -- men -- te ab -- bia lo -- ca -- to~il co -- re,
-    Pian -- ger non de’ se ben lan -- gui -- sce~e muo -- re,
+    Se __ be -- ne~A -- mor d'o -- gni mer -- ce -- de~il pri -- va,
+        d'o -- gni mer -- ce -- de~il pri -- va,
+    Po -- scia che'l tem -- po~e la fa -- ti -- ca~ha spe -- so;
+    Pur ch'al -- ta -- men -- te ab -- bia lo -- ca -- to~il co -- re,
+    Pian -- ger non de' se ben lan -- gui -- sce~e muo -- re,
         se ben lan -- gui -- sce~e muo -- re,
         se ben lan -- gui -- sce~e muo -- re. __
 }
@@ -85,17 +85,17 @@ tenoreIII = \relative c' {
 }
 
 tenoreLyricsIII = \lyricmode {
-    Io di -- co e dis -- si, e di -- rò fin ch’io vi -- va,
-        e di -- rò fin ch’io vi -- va,
+    Io di -- co e dis -- si, e di -- rò fin ch'io vi -- va,
+        e di -- rò fin ch'io vi -- va,
     Che chi si truo -- va~in de -- gno lac -- cio pre -- so,
     Se ben di sé ve -- de sua don -- na schi -- va,
     Se~in tut -- to~a -- ver -- sa~al suo de -- si -- re~ac -- ce -- so;
     Se be -- ne~A -- mor,
-    Se be -- ne~A -- mor __ d’o -- gni mer -- ce -- de~il pri -- va,
-    Po -- scia che’l tem -- po~e la fa -- ti -- ca~ha spe -- so,
+    Se be -- ne~A -- mor __ d'o -- gni mer -- ce -- de~il pri -- va,
+    Po -- scia che'l tem -- po~e la fa -- ti -- ca~ha spe -- so,
         e la fa -- ti -- ca~ha spe -- so;
-    Pur ch’al -- ta -- men -- te ab -- bia lo -- ca -- to~il co -- re, __
-    Pian -- ger non de’ se ben __ lan -- gui -- sce~e muo -- re,
+    Pur ch'al -- ta -- men -- te ab -- bia lo -- ca -- to~il co -- re, __
+    Pian -- ger non de' se ben __ lan -- gui -- sce~e muo -- re,
         se ben lan -- gui -- sce~e muo -- re,
         se ben __ lan -- gui -- sce~e muo -- re.
 }
@@ -140,17 +140,17 @@ bassoIII = \relative c {
 }
 
 bassoLyricsIII = \lyricmode {
-    Io di -- co e dis -- si, e di -- rò fin ch’io vi -- va,
-        e di -- rò fin ch’io vi -- va,
+    Io di -- co e dis -- si, e di -- rò fin ch'io vi -- va,
+        e di -- rò fin ch'io vi -- va,
     Che chi si truo -- va~in de -- gno lac -- cio pre -- so,
     Se ben di sé ve -- de sua don -- na schi -- va,
     Se~in tut -- to~a -- ver -- sa~al suo de -- si -- re~ac -- ce -- so;
     Se be -- ne~A -- mor,
-    Se be -- ne~A -- mor d’o -- gni mer -- ce -- de~il pri -- va, __
-    Po -- scia che’l tem -- po~e la __ fa -- ti -- ca~ha spe -- so;
-    Pur ch’al -- ta -- men -- te~ab -- bia lo -- ca -- to~il __ co -- re,
+    Se be -- ne~A -- mor d'o -- gni mer -- ce -- de~il pri -- va, __
+    Po -- scia che'l tem -- po~e la __ fa -- ti -- ca~ha spe -- so;
+    Pur ch'al -- ta -- men -- te~ab -- bia lo -- ca -- to~il __ co -- re,
         ab -- bia lo -- ca -- to~il co -- re,
-    Pian -- ger non de’ se ben lan -- gui -- sce~e muo -- re,
+    Pian -- ger non de' se ben lan -- gui -- sce~e muo -- re,
         se ben __ lan -- gui -- sce~e muo -- re. __
 }
 

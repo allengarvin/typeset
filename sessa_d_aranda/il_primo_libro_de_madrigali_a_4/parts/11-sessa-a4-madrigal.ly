@@ -1,11 +1,11 @@
-%   40 Pensoso più d’un’ora a capo basso
+%   40 Pensoso più d'un'ora a capo basso
 %      stette, Signore, il cavallier dolente;
 %      poi cominciò con suono afflitto e lasso
 %      a lamentarsi sì soavemente,
-%      ch’avrebbe di pietà spezzato un sasso,
+%      ch'avrebbe di pietà spezzato un sasso,
 %      una tigre crudel fatta clemente.
-%      Sospirando piangea, tal ch’un ruscello
-%      parean le guancie, e ’l petto un Mongibello.
+%      Sospirando piangea, tal ch'un ruscello
+%      parean le guancie, e 'l petto un Mongibello.
 
 cantoXIincipit = \relative c'' {
     \time 4/4
@@ -38,19 +38,19 @@ cantoXI = \relative c'' {
 }
 
 cantoLyricsXI = \lyricmode {
-    Pen -- so -- so più d’un’ o -- ra,
-    pen -- so -- so più d’un’ o -- ra~a ca -- po bas -- so
+    Pen -- so -- so più d'un' o -- ra,
+    pen -- so -- so più d'un' o -- ra~a ca -- po bas -- so
     Stet -- te, Si -- gno -- re~il ca -- val -- lier do -- len -- te,
         il ca -- val -- lier __ do -- len -- te;
     Poi co -- min -- ciò,
     poi co -- min -- ciò con suo -- no~af -- flit -- to~e las -- so
     A la -- men -- tar -- si sì so -- a -- ve -- men -- te,
-    Ch’a -- vreb -- be di pie -- tà spez -- za -- to~un sas -- so,
+    Ch'a -- vreb -- be di pie -- tà spez -- za -- to~un sas -- so,
     U -- na ti -- gre cru -- del,
     u -- na ti -- gre cru -- del fat -- ta cle -- men -- te. __
-    So -- spi -- ran -- do pian -- gea, __ tal ch’un ru -- scel -- lo
-    Pa -- rean le __ guan -- cie, e’l __ pet -- to~un Mon -- gi -- bel -- lo,
-        e’l pet -- to~un __ Mon -- gi -- bel -- lo.
+    So -- spi -- ran -- do pian -- gea, __ tal ch'un ru -- scel -- lo
+    Pa -- rean le __ guan -- cie, e'l __ pet -- to~un Mon -- gi -- bel -- lo,
+        e'l pet -- to~un __ Mon -- gi -- bel -- lo.
 }
 
 altoXIincipit = \relative c' {
@@ -86,21 +86,21 @@ altoXI = \relative c' {
 }
 
 altoLyricsXI = \lyricmode {
-    Pen -- so -- so più __ d’un’ o -- ra,
-    pen -- so -- so più d’un’ o -- ra~a ca -- po bas -- so
+    Pen -- so -- so più __ d'un' o -- ra,
+    pen -- so -- so più d'un' o -- ra~a ca -- po bas -- so
     Stet -- te, Si -- gno -- re~il ca -- val -- lier do -- len -- te,
         il ca -- val -- lier __ do -- len -- te;
     Poi co -- min -- ciò con suo -- no~af -- flit -- to~e las -- so
     A __ la -- men -- tar -- si sì so -- a -- ve -- men -- te,
-    Ch’a -- vreb -- be di pie -- tà,
-    ch’a -- vreb -- be di pie -- tà spez -- za -- to~un sas -- so,
+    Ch'a -- vreb -- be di pie -- tà,
+    ch'a -- vreb -- be di pie -- tà spez -- za -- to~un sas -- so,
     U -- na ti -- gre,
     u -- na ti -- gre cru -- del fat -- ta cle -- men -- te.
     So -- spi -- ran -- do,
     so -- spi -- ran -- do,
-    so -- spi -- ran -- do pian -- gea, tal ch’un ru -- scel -- lo
-    Pa -- rean le guan -- cie, e’l pet -- to,
-        e’l pet -- to~un Mon -- gi -- bel -- lo,
+    so -- spi -- ran -- do pian -- gea, tal ch'un ru -- scel -- lo
+    Pa -- rean le guan -- cie, e'l pet -- to,
+        e'l pet -- to~un Mon -- gi -- bel -- lo,
             un __ Mon -- gi -- bel -- lo.
 }
 
@@ -134,21 +134,21 @@ tenoreXI = \relative c' {
 }
 
 tenoreLyricsXI = \lyricmode {
-    Pen -- so -- so più d’un’ o -- ra, __
-    pen -- so -- so più d’un’ o -- ra~a ca -- po bas -- so
+    Pen -- so -- so più d'un' o -- ra, __
+    pen -- so -- so più d'un' o -- ra~a ca -- po bas -- so
     Stet -- te, Si -- gno -- re~il ca -- val -- lier do -- len -- te,
         il ca -- val -- lier __ do -- len -- te;
     Poi co -- min -- ciò, __
     poi co -- min -- ciò con suo -- no~af -- flit -- to~e las -- so __
     A la -- men -- tar -- si sì so -- a -- ve -- men -- te,
-    Ch’a -- vreb -- be di pie -- tà spez -- za -- to~un sas -- so,
+    Ch'a -- vreb -- be di pie -- tà spez -- za -- to~un sas -- so,
     U -- na ti -- gre cru -- del,
     u -- na ti -- gre cru -- del,
     u -- na ti -- gre cru -- del fat -- ta cle -- men -- te.
     So -- spi -- ran -- do,
-    so -- spi -- ran -- do pian -- gea, tal ch’un ru -- scel -- lo
-    Pa -- rean le guan -- cie, e’l pet -- to~un Mon -- gi -- bel -- lo,
-        e’l pet -- to~un Mon -- gi -- bel -- lo.
+    so -- spi -- ran -- do pian -- gea, tal ch'un ru -- scel -- lo
+    Pa -- rean le guan -- cie, e'l pet -- to~un Mon -- gi -- bel -- lo,
+        e'l pet -- to~un Mon -- gi -- bel -- lo.
 }
 
 bassoXIincipit = \relative c' {
@@ -181,19 +181,19 @@ bassoXI = \relative c' {
 }
 
 bassoLyricsXI = \lyricmode {
-    Pen -- so -- so più d’un’ o -- ra,
-    pen -- so -- so più d’un’ o -- ra~a ca -- po bas -- so __
+    Pen -- so -- so più d'un' o -- ra,
+    pen -- so -- so più d'un' o -- ra~a ca -- po bas -- so __
     Stet -- te, Si -- gno -- re~il ca -- val -- lier do -- len -- te,
         il ca -- val -- lier __ do -- len -- te;
     Poi co -- min -- ciò con suo -- no~af -- flit -- to~e las -- so
     A la -- men -- tar -- si sì __ so -- a -- ve -- men -- te,
-    Ch’a -- vreb -- be di pie -- tà spez -- za -- to~un sas -- so,
+    Ch'a -- vreb -- be di pie -- tà spez -- za -- to~un sas -- so,
     U -- na ti -- gre cru -- del,
     u -- na ti -- gre cru -- del fat -- ta cle -- men -- te.
     So -- spi -- ran -- do,
-    so -- spi -- ran -- do pian -- gea, tal ch’un ru -- scel -- lo
-    Pa -- rean le guan -- cie, e’l pet -- to~un __ Mon -- gi -- bel -- lo,
-        e’l __ pet -- to~un Mon -- gi -- bel -- lo.
+    so -- spi -- ran -- do pian -- gea, tal ch'un ru -- scel -- lo
+    Pa -- rean le guan -- cie, e'l pet -- to~un __ Mon -- gi -- bel -- lo,
+        e'l __ pet -- to~un Mon -- gi -- bel -- lo.
 }
 
 cantoXIincipitVoice = <<

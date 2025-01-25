@@ -2,8 +2,8 @@
 %       che tiepida aura freschi ognora serba,
 %       sicuri si vedean lepri e conigli,
 %       e cervi con la fronte alta e superba,
-%       senza temer ch’alcun gli uccida o pigli,
-%       pascano o stiansi rominando l’erba;
+%       senza temer ch'alcun gli uccida o pigli,
+%       pascano o stiansi rominando l'erba;
 %       saltano i daini e i capri isnelli e destri,
 %       che sono in copia in quei luoghi campestri.
 
@@ -50,11 +50,11 @@ cantoLyricsIV = \lyricmode {
     Si -- cu -- ri si ve -- dean lep -- ri~e co -- ni -- gli,
     E cer -- vi con la fron -- te,
     E cer -- vi con la fron -- te~al -- ta~e su -- per -- ba,
-    Sen -- za te -- mer ch’al -- cun gli~uc -- ci -- da~o pi -- gli,
+    Sen -- za te -- mer ch'al -- cun gli~uc -- ci -- da~o pi -- gli,
         o pi -- gli,
     Pa -- sca -- no,
-    Pa -- sca -- no, o stian -- si ro -- mi -- nan -- do l’er -- ba,
-        o stian -- si ro -- mi -- nan -- do l’er -- ba;
+    Pa -- sca -- no, o stian -- si ro -- mi -- nan -- do l'er -- ba,
+        o stian -- si ro -- mi -- nan -- do l'er -- ba;
     Sal -- ta -- no,
     Sal -- ta -- no~i dai -- ni, 
     Sal -- ta -- no~i dai -- ni, e~i ca -- pri~i -- snel -- li~e de -- stri,
@@ -109,9 +109,9 @@ altoLyricsIV = \lyricmode {
     E cer -- vi con la fron -- te~al -- ta~e su -- per -- ba,
     E cer -- vi con la fron -- te~al -- ta~e su -- per -- ba,
     Sen -- za te -- mer,
-    Sen -- za te -- mer ch’al -- cun gli~uc -- ci -- da~o pi -- gli,
-    Pa -- sca -- no, o stian -- si ro -- mi -- nan -- do l’er -- ba,
-        o stian -- si ro -- mi -- nan -- do l’er -- ba;
+    Sen -- za te -- mer ch'al -- cun gli~uc -- ci -- da~o pi -- gli,
+    Pa -- sca -- no, o stian -- si ro -- mi -- nan -- do l'er -- ba,
+        o stian -- si ro -- mi -- nan -- do l'er -- ba;
     Sal -- ta -- no,
     Sal -- ta -- no~i dai -- ni, 
     Sal -- ta -- no~i dai -- ni, e~i ca -- pri~i -- snel -- li~e de -- stri,
@@ -161,10 +161,10 @@ tenoreLyricsIV = \lyricmode {
     Si -- cu -- ri si ve -- dean lep -- ri~e co -- ni -- gli,
     E cer -- vi con la fron -- te~al -- ta~e su -- per -- ba,
     Sen -- za te -- mer,
-    Sen -- za te -- mer ch’al -- cun gli~uc -- ci -- da~o pi -- gli,
-    Pa -- sca -- no, o stian -- si ro -- mi -- nan -- do l’er -- ba,
-        o stian -- si ro -- mi -- nan -- do l’er -- ba,
-            ro -- mi -- nan -- do l’er -- ba;
+    Sen -- za te -- mer ch'al -- cun gli~uc -- ci -- da~o pi -- gli,
+    Pa -- sca -- no, o stian -- si ro -- mi -- nan -- do l'er -- ba,
+        o stian -- si ro -- mi -- nan -- do l'er -- ba,
+            ro -- mi -- nan -- do l'er -- ba;
     Sal -- ta -- no,
     Sal -- ta -- no~i dai -- ni, 
     Sal -- ta -- no~i dai -- ni, e~i ca -- pri~i -- snel -- li~e de -- stri,
@@ -210,10 +210,10 @@ bassoLyricsIV = \lyricmode {
     Che tie -- pi -- da~au -- ra fre -- schi~o -- gno -- ra ser -- ba,
     Si -- cu -- ri si ve -- dean lep -- ri~e co -- ni -- gli,
     E cer -- vi con la fron -- te~al -- ta~e su -- per -- ba,
-    Sen -- za te -- mer ch’al -- cun gli~uc -- ci -- da~o pi -- gli,
-    Sen -- za te -- mer ch’al -- cun gli~uc -- ci -- da~o pi -- gli,
+    Sen -- za te -- mer ch'al -- cun gli~uc -- ci -- da~o pi -- gli,
+    Sen -- za te -- mer ch'al -- cun gli~uc -- ci -- da~o pi -- gli,
     Pa -- sca -- no, o stian -- si ro -- mi -- nan -- do,
-        o stian -- si ro -- mi -- nan -- do l’er -- ba;
+        o stian -- si ro -- mi -- nan -- do l'er -- ba;
     Sal -- ta -- no~i dai -- ni, e~i ca -- pri~i -- snel -- li~e de -- stri,
     Che so -- no~in co -- pia~in quei luo -- ghi cam -- pe -- stri,
     Che so -- no~in co -- pia~in quei luo -- ghi cam -- pe -- stri.
@@ -259,10 +259,10 @@ quintoLyricsIV = \lyricmode {
         fre -- schi~o -- gno -- ra ser -- ba,
     Si -- cu -- ri si ve -- dean lep -- ri~e co -- ni -- gli,
     E cer -- vi con la fron -- te~al -- ta~e su -- per -- ba,
-    Sen -- za te -- mer ch’al -- cun gli~uc -- ci -- da~o pi -- gli,
-    Sen -- za te -- mer ch’al -- cun __ gli~uc -- ci -- da~o pi -- gli,
-    Pa -- sca -- no, o stian -- si ro -- mi -- nan -- do l’er -- ba,
-        o stian -- si ro -- mi -- nan -- do l’er -- ba;
+    Sen -- za te -- mer ch'al -- cun gli~uc -- ci -- da~o pi -- gli,
+    Sen -- za te -- mer ch'al -- cun __ gli~uc -- ci -- da~o pi -- gli,
+    Pa -- sca -- no, o stian -- si ro -- mi -- nan -- do l'er -- ba,
+        o stian -- si ro -- mi -- nan -- do l'er -- ba;
     Sal -- ta -- no~i dai -- ni, 
     Sal -- ta -- no~i dai -- ni, e~i ca -- pri~i -- snel -- li~e de -- stri,
     Che so -- no~in co -- pia~in quei luo -- ghi cam -- pe -- stri,

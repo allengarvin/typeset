@@ -4,7 +4,7 @@
 % e se ne viene a far con voi soggiorno;
 % né da voi si diparte
 % giammai la notte e il giorno,
-% perché l’annoia ciascun’altra parte.
+% perché l'annoia ciascun'altra parte.
 % Onde sol per virtù del pensier mio,
 % mentre ne vengo a voi, con voi son io.
 
@@ -61,8 +61,8 @@ cantoLyricsIX = \lyricmode {
     Né da voi si di -- par -- te,
     né da voi si di -- par -- te,
     né da voi si di -- par -- te
-    Giam -- mai la not -- t'e’l gior -- no,
-    Per -- ché l’an -- no -- ia cia -- scu -- n’al -- tra par -- te.
+    Giam -- mai la not -- t'e'l gior -- no,
+    Per -- ché l'an -- no -- ia cia -- scu -- n'al -- tra par -- te.
 
     On -- de sol per vir -- tù,
     on -- de sol per vir -- tù,
@@ -125,9 +125,9 @@ altoLyricsIX = \lyricmode {
     E se ne vie -- n'a far con voi sog -- gior -- no,
     e se ne vie -- n'a far con voi sog -- gior -- no;
     Né da voi si di -- par -- te
-    Giam -- mai la not -- t'e’l gior -- no,
-    giam -- mai la not -- t'e’l gior -- no,
-    Per -- ché l’an -- no -- ia cia -- scu -- n’al -- tra par -- te.
+    Giam -- mai la not -- t'e'l gior -- no,
+    giam -- mai la not -- t'e'l gior -- no,
+    Per -- ché l'an -- no -- ia cia -- scu -- n'al -- tra par -- te.
 
     On -- de sol per vir -- tù,
     on -- de sol,
@@ -190,13 +190,13 @@ tenoreLyricsIX = \lyricmode {
     né da voi
     \normalLyrics
         si di -- par -- te,
-    Giam -- mai la not -- t'e’l gior -- no,
-    giam -- mai la not -- t'e’l gior -- no,
-    Per -- ché l’an -- no -- ia,
+    Giam -- mai la not -- t'e'l gior -- no,
+    giam -- mai la not -- t'e'l gior -- no,
+    Per -- ché l'an -- no -- ia,
     \ijLyrics
-    per -- ché l’an -- no -- ia
+    per -- ché l'an -- no -- ia
     \normalLyrics
-        cia -- scu -- n’al -- tra par -- te.
+        cia -- scu -- n'al -- tra par -- te.
 
     On -- de sol per vir -- tù del pen -- sier mi -- o,
     on -- de sol per vir -- tù __ del pen -- sier mi -- o,
@@ -250,11 +250,11 @@ bassoLyricsIX = \lyricmode {
     Pre -- cor -- re do -- v'il ciel è più se -- re -- no,
     E se ne vie -- n'a far con voi sog -- gior -- no;
     Né da voi si di -- par -- te
-    Giam -- mai la not -- t'e’l gior -- no,
+    Giam -- mai la not -- t'e'l gior -- no,
     \ijLyrics
-    giam -- mai la not -- t'e’l gior -- no,
+    giam -- mai la not -- t'e'l gior -- no,
     \normalLyrics
-    Per -- ché l’an -- no -- ia cia -- scu -- n’al -- tra par -- te.
+    Per -- ché l'an -- no -- ia cia -- scu -- n'al -- tra par -- te.
 
     On -- de sol per vir -- tù del pen -- sier mi -- o,
         del pen -- sier mi -- o,
@@ -320,10 +320,10 @@ quintoLyricsIX = \lyricmode {
     \ijLyrics
     né da voi si di -- par -- te
     \normalLyrics
-    Giam -- mai la not -- t'e’l gior -- no,
-    Per -- ché l’an -- no -- ia cia -- scu -- n’al -- tra par -- te,
+    Giam -- mai la not -- t'e'l gior -- no,
+    Per -- ché l'an -- no -- ia cia -- scu -- n'al -- tra par -- te,
     \ijLyrics
-        cia -- scu -- n’al -- tra par -- te.
+        cia -- scu -- n'al -- tra par -- te.
     \normalLyrics
 
     On -- de sol per vir -- tù del pen -- sier mi -- o,

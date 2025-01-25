@@ -1,10 +1,10 @@
 % Mentre io mirava fisso
 % de la mia Donna gli occhi ardenti e belli,
 % due vaghi spiritelli
-% fiammeggiando n’usciro all’improvviso,
+% fiammeggiando n'usciro all'improvviso,
 % e leggiadretti e snelli,
 % facendo mille scherzi e mille giri,
-% mille fughe d’intorno
+% mille fughe d'intorno
 % e mille agguati dentro al seno adorno,
 % mi trassero dal cor mille sospiri,
 % onde con dolci ed amorosi lai,
@@ -70,15 +70,15 @@ cantoLyricsXII = \lyricmode {
     del -- la mia Don -- na,
     del -- la mia Don -- na gli~oc -- chi~ar -- den -- ti~e bel -- li,
     Due va -- ghi spi -- ri -- tel -- li,
-    Fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    Fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     due va -- ghi spi -- ri -- tel -- li,
     \ijLyrics
     due va -- ghi spi -- ri -- tel -- li
     \normalLyrics
-    fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     due va -- ghi spi -- ri -- tel -- li
-    fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
-    fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
+    fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
 
     E leg -- gia -- dret -- ti~e snel -- li,
     \ijLyrics
@@ -91,8 +91,8 @@ cantoLyricsXII = \lyricmode {
     Fa -- cen -- do mil -- le scher -- zi~e
     \normalLyrics
         mil -- le gi -- ri,
-    Mil -- le fu -- ghe d’in -- tor -- no,
-    mil -- le fu -- ghe d’in -- tor -- no
+    Mil -- le fu -- ghe d'in -- tor -- no,
+    mil -- le fu -- ghe d'in -- tor -- no
     E mil -- le~ag -- gua -- ti den -- tro~al se -- no~a -- dor -- no,
     Mi tras -- se -- ro dal cor mil -- le so -- spi -- ri,
     mi tras -- se -- ro dal cor mil -- le so -- spi -- ri,
@@ -158,15 +158,15 @@ altoLyricsXII = \lyricmode {
     \normalLyrics
     men -- tr'io mi -- ra -- va fis -- so
     del -- la mia Don -- na gli~oc -- chi~ar -- den -- ti~e bel -- li,
-    Fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    Fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     Due va -- ghi spi -- ri -- tel -- li,
     Fiam -- meg -- gian -- do,
     \ijLyrics
     fiam -- meg -- gian -- do
     \normalLyrics
-        n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+        n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     \ijLyrics
-        n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+        n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     \normalLyrics
 
     E leg -- gia -- dret -- ti~e snel -- li,
@@ -175,9 +175,9 @@ altoLyricsXII = \lyricmode {
     \normalLyrics
     Fa -- cen -- do mil -- le scher -- zi~e mil -- le~e mil -- le gi -- ri,
     fa -- cen -- do mil -- le scher -- zi~e mil -- le~e mil -- le gi -- ri,
-    Mil -- le fu -- ghe d’in -- tor -- no,
+    Mil -- le fu -- ghe d'in -- tor -- no,
     \ijLyrics
-    mil -- le fu -- ghe d’in -- tor -- no
+    mil -- le fu -- ghe d'in -- tor -- no
     \normalLyrics
     E mil -- le~ag -- gua -- ti,
     \ijLyrics
@@ -251,19 +251,19 @@ tenoreLyricsXII = \lyricmode {
 %    del -- la mia Don -- na,
 %    del -- la mia Don -- na gli~oc -- chi~ar -- den -- ti~e bel -- li,
     Due va -- ghi spi -- ri -- tel -- li,
-    Fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    Fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     Men -- tr'io mi -- ra -- va fis -- so
     Del -- la mia Don -- na,
     del -- la mia Don -- na gli~oc -- chi~ar -- den -- ti~e bel -- li,
     due va -- ghi spi -- ri -- tel -- li,
     due va -- ghi spi -- ri -- tel -- li,
-    fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
-    fiam -- meg -- gian -- do n’u -- scir,
+    fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
+    fiam -- meg -- gian -- do n'u -- scir,
     fiam -- meg -- gian -- do,
     \ijLyrics
     fiam -- meg -- gian -- do
     \normalLyrics
-        n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+        n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
 
     E leg -- gia -- dret -- ti~e snel -- li,
     \ijLyrics
@@ -274,9 +274,9 @@ tenoreLyricsXII = \lyricmode {
     \ijLyrics
     fa -- cen -- do mil -- le scher -- zi~e mil -- le~e mil -- le gi -- ri,
     \normalLyrics
-    Mil -- le fu -- ghe d’in -- tor -- no,
+    Mil -- le fu -- ghe d'in -- tor -- no,
     \ijLyrics
-    mil -- le fu -- ghe d’in -- tor -- no
+    mil -- le fu -- ghe d'in -- tor -- no
     \normalLyrics
     E mil -- le~ag -- gua -- ti den -- tro~al se -- no~a -- dor -- no,
     Mi tras -- se -- ro dal cor mil -- le so -- spi -- ri,
@@ -343,16 +343,16 @@ bassoLyricsXII = \lyricmode {
 %    del -- la mia Don -- na,
 %    del -- la mia Don -- na gli~oc -- chi~ar -- den -- ti~e bel -- li,
     Due va -- ghi spi -- ri -- tel -- li,
-    Fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    Fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     Men -- tr'io mi -- ra -- va fis -- so
     Del -- la mia Don -- na gli~oc -- chi~ar -- den -- ti~e bel -- li,
     due va -- ghi spi -- ri -- tel -- li,
-    fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
-    fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
+    fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
 
     Fa -- cen -- do mil -- le scher -- zi~e mil -- le gi -- ri,
     fa -- cen -- do mil -- le scher -- zi~e mil -- le~e mil -- le gi -- ri,
-    Mil -- le fu -- ghe d’in -- tor -- no,
+    Mil -- le fu -- ghe d'in -- tor -- no,
     E mil -- le~ag -- gua -- ti den -- tro~al se -- no~a -- dor -- no,
     Mi tras -- se -- ro dal cor mil -- le so -- spi -- ri,
         mil -- le so -- spi -- ri,
@@ -419,12 +419,12 @@ quintoLyricsXII = \lyricmode {
     \normalLyrics
         gli~oc -- chi~ar -- den -- ti~e bel -- li,
     Due va -- ghi spi -- ri -- tel -- li,
-    Fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    Fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     due va -- ghi spi -- ri -- tel -- li,
-    fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
-    fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
+    fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     \ijLyrics
-    fiam -- meg -- gian -- do n’u -- sci -- ro~al -- l’im -- prov -- vi -- so,
+    fiam -- meg -- gian -- do n'u -- sci -- ro~al -- l'im -- prov -- vi -- so,
     \normalLyrics
 
     E leg -- gia -- dret -- ti~e snel -- li,
@@ -435,9 +435,9 @@ quintoLyricsXII = \lyricmode {
     \ijLyrics
     fa -- cen -- do mil -- le scher -- zi~e mil -- le~e mil -- le gi -- ri,
     \normalLyrics
-    Mil -- le fu -- ghe d’in -- tor -- no,
+    Mil -- le fu -- ghe d'in -- tor -- no,
     \ijLyrics
-    mil -- le fu -- ghe d’in -- tor -- no
+    mil -- le fu -- ghe d'in -- tor -- no
     \normalLyrics
     E mil -- le~ag -- gua -- ti den -- tro~al se -- no~a -- dor -- no,
     e mil -- le~ag -- gua -- ti den -- tro~al se -- no~a -- dor -- no,

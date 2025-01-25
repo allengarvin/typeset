@@ -1,15 +1,15 @@
 % % Candida rosa nata in dure spine,
 % Quando fia chi sua pari al mondo trove,
 % Gloria di nostra etate?  O vivo Giove,
-% Manda, prego, il mio in prima che’l suo fine:
+% Manda, prego, il mio in prima che'l suo fine:
 % 
-% Sì ch’io non veggia il gran publico danno,
+% Sì ch'io non veggia il gran publico danno,
 % E il mondo rimaner senza il suo sole,
 % Ne gli occhi miei, che luce altra non ànno;
 % 
-% Ne l’alma, che pensar d’altro non vole,
-% Ne gli orecchie, ch’udir altro non sanno,
-% Senza l’oneste sue dolci parole. 
+% Ne l'alma, che pensar d'altro non vole,
+% Ne gli orecchie, ch'udir altro non sanno,
+% Senza l'oneste sue dolci parole. 
 
 cantoXIincipit = \relative c'' {
     \time 2/2
@@ -59,20 +59,20 @@ cantoLyricsXI = \lyricmode {
     \ijLyrics
     O vi -- vo Gio -- ve,
     \normalLyrics
-    Man -- da, pre -- go,~il mio~in pri -- ma che’l __ suo fi -- ne:
+    Man -- da, pre -- go,~il mio~in pri -- ma che'l __ suo fi -- ne:
 
-    Sì ch’io non veg -- gia~il gran pu -- bli -- co dan -- no,
+    Sì ch'io non veg -- gia~il gran pu -- bli -- co dan -- no,
     E~il mon -- do ri -- ma -- ner sen -- za~il suo so -- le,
     Ne gli~oc -- chi miei, che lu -- ce~al -- tra non àn -- no;
 
-    Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
-    Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
-    Ne gli~o -- rec -- chie, ch’u -- dir al -- tro non san -- no,
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+    Ne l'al -- ma, che pen -- sar d'al -- tro non vo -- le,
+    Ne l'al -- ma, che pen -- sar d'al -- tro non vo -- le,
+    Ne gli~o -- rec -- chie, ch'u -- dir al -- tro non san -- no,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
     \ijLyrics
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
     \normalLyrics 
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le. __
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le. __
 }
 
 % alto: checked against source`
@@ -128,11 +128,11 @@ altoLyricsXI = \lyricmode {
     \ijLyrics
     O vi -- vo Gio -- ve,
     \normalLyrics
-    Man -- da, pre -- go,~il mio~in pri -- ma che’l suo fi -- ne:
+    Man -- da, pre -- go,~il mio~in pri -- ma che'l suo fi -- ne:
 
-    Sì ch’io non veg -- gia,
+    Sì ch'io non veg -- gia,
     \ijLyrics
-    Sì ch’io non veg -- gia
+    Sì ch'io non veg -- gia
     \normalLyrics
         il gran pu -- bli -- co dan -- no,
     E~il mon -- do ri -- ma -- ner sen -- za~il suo so -- le,
@@ -142,16 +142,16 @@ altoLyricsXI = \lyricmode {
     Ne gli~oc -- chi miei, che lu -- ce~al -- tra non àn -- no;
     \normalLyrics
 
-    Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
+    Ne l'al -- ma, che pen -- sar d'al -- tro non vo -- le,
     \ijLyrics
-    Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
+    Ne l'al -- ma, che pen -- sar d'al -- tro non vo -- le,
     \normalLyrics
-    Ne gli~o -- rec -- chie, ch’u -- dir al -- tro non san -- no,
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+    Ne gli~o -- rec -- chie, ch'u -- dir al -- tro non san -- no,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
     \ijLyrics
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
     \normalLyrics 
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
         sue dol -- ci pa -- ro -- le. 
 }
 
@@ -204,23 +204,23 @@ tenoreLyricsXI = \lyricmode {
     \ijLyrics
     O vi -- vo Gio -- ve,
     \normalLyrics
-    Man -- da, pre -- go,~il mio~in pri -- ma che’l suo fi -- ne:
+    Man -- da, pre -- go,~il mio~in pri -- ma che'l suo fi -- ne:
 
-    Sì ch’io non veg -- gia il gran pu -- bli -- co dan -- no,
+    Sì ch'io non veg -- gia il gran pu -- bli -- co dan -- no,
     E~il mon -- do ri -- ma -- ner sen -- za~il suo so -- le,
     Ne gli~oc -- chi miei, che lu -- ce~al -- tra non àn -- no;
 
-    Ne l’al -- ma, che pen -- sar, __
+    Ne l'al -- ma, che pen -- sar, __
     \ijLyrics
-    Ne l’al -- ma, che pen -- sar
+    Ne l'al -- ma, che pen -- sar
     \normalLyrics
-        d’al -- tro non vo -- le,
-    Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
-    Ne __ gli~o -- rec -- chie, ch’u -- dir al -- tro non san -- no,
-    Sen -- za l’o -- ne -- ste sue __ dol -- ci pa -- ro -- le,
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+        d'al -- tro non vo -- le,
+    Ne l'al -- ma, che pen -- sar d'al -- tro non vo -- le,
+    Ne __ gli~o -- rec -- chie, ch'u -- dir al -- tro non san -- no,
+    Sen -- za l'o -- ne -- ste sue __ dol -- ci pa -- ro -- le,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
     \ijLyrics
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le.
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le.
     \normalLyrics 
 }
 
@@ -272,18 +272,18 @@ bassoLyricsXI = \lyricmode {
     \ijLyrics
     O vi -- vo Gio -- ve,
     \normalLyrics
-    Man -- da, pre -- go,~il mio~in pri -- ma che’l __ suo fi -- ne:
+    Man -- da, pre -- go,~il mio~in pri -- ma che'l __ suo fi -- ne:
 
-    Sì ch’io non veg -- gia il gran pu -- bli -- co dan -- no,
+    Sì ch'io non veg -- gia il gran pu -- bli -- co dan -- no,
     E~il mon -- do ri -- ma -- ner sen -- za~il suo so -- le,
     Ne gli~oc -- chi miei, che lu -- ce~al -- tra non __ àn -- no;
 
-    Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
-    Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
-    Ne gli~o -- rec -- chie, ch’u -- dir al -- tro non san -- no,
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+    Ne l'al -- ma, che pen -- sar d'al -- tro non vo -- le,
+    Ne l'al -- ma, che pen -- sar d'al -- tro non vo -- le,
+    Ne gli~o -- rec -- chie, ch'u -- dir al -- tro non san -- no,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
     \ijLyrics
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
     \normalLyrics 
         sue dol -- ci pa -- ro -- le.
 }
@@ -341,11 +341,11 @@ quintoLyricsXI = \lyricmode {
     \ijLyrics
     O vi -- vo Gio -- ve,
     \normalLyrics
-    Man -- da, pre -- go,~il mio~in pri -- ma che’l suo fi -- ne:
+    Man -- da, pre -- go,~il mio~in pri -- ma che'l suo fi -- ne:
 
-    Sì ch’io non veg -- gia,
+    Sì ch'io non veg -- gia,
     \ijLyrics
-    Sì ch’io non veg -- gia~il 
+    Sì ch'io non veg -- gia~il 
     \normalLyrics
         gran __ pu -- bli -- co dan -- no,
     E~il mon -- do,
@@ -355,18 +355,18 @@ quintoLyricsXI = \lyricmode {
         ri -- ma -- ner sen -- za~il suo so -- le,
     Ne gli~oc -- chi miei, che lu -- ce~al -- tra non àn -- no;
 
-    Ne l’al -- ma, che pen -- sar,
+    Ne l'al -- ma, che pen -- sar,
     \ijLyrics
-    Ne l’al -- ma, che pen -- sar
+    Ne l'al -- ma, che pen -- sar
     \normalLyrics
-        d’al -- tro non vo -- le,
-    Ne l’al -- ma, che pen -- sar d’al -- tro non vo -- le,
-    Ne gli~o -- rec -- chie, ch’u -- dir al -- tro non san -- no,
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+        d'al -- tro non vo -- le,
+    Ne l'al -- ma, che pen -- sar d'al -- tro non vo -- le,
+    Ne gli~o -- rec -- chie, ch'u -- dir al -- tro non san -- no,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
     \ijLyrics
-    Sen -- za l’o -- ne -- ste sue dol -- ci pa -- ro -- le,
+    Sen -- za l'o -- ne -- ste sue dol -- ci pa -- ro -- le,
     \normalLyrics 
-    Sen -- za l’o -- ne -- ste sue __ dol -- ci pa -- ro -- le.
+    Sen -- za l'o -- ne -- ste sue __ dol -- ci pa -- ro -- le.
 }
 
 cantoXIincipitVoice = <<

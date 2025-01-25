@@ -1,11 +1,11 @@
 %   76 Deh, dove senza me, dolce mia vita,
 %      rimasa sei sì giovane e sì bella?
 %      come, poi che la luce è dipartita,
-%      riman tra’ boschi la smarrita agnella,
+%      riman tra' boschi la smarrita agnella,
 %      che dal pastor sperando essere udita,
 %      si va lagnando in questa parte e in quella;
-%      tanto che ’l lupo l’ode da lontano,
-%      e ’l misero pastor ne piagne invano.
+%      tanto che 'l lupo l'ode da lontano,
+%      e 'l misero pastor ne piagne invano.
 
 cantoXXIincipit = \relative c'' {
     \time 4/4
@@ -43,12 +43,12 @@ cantoLyricsXXI = \lyricmode {
     Deh, do -- ve sen -- za me, dol -- ce mia vi -- ta,
     Ri -- ma -- sa sei sì gio -- va -- ne~e sì __ bel -- la? __
     Co -- me, poi che __ la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la, __
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la, __
     Che dal pa -- stor __ spe -- ran -- do~es -- se -- re~u -- di -- ta,
     Si va la -- gnan -- do~in que -- sta par -- t'e~in quel -- la;
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor __ ne pia -- gne~in -- va -- no,
-    e’l mi -- se -- ro pa -- stor __ ne pia -- gne~in -- va -- no.
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l mi -- se -- ro pa -- stor __ ne pia -- gne~in -- va -- no,
+    e'l mi -- se -- ro pa -- stor __ ne pia -- gne~in -- va -- no.
 }
 
 altoXXIincipit = \relative c' {
@@ -81,12 +81,12 @@ altoLyricsXXI = \lyricmode {
     Deh, do -- ve sen -- za me, dol -- ce __ mia vi -- ta,
     Ri -- ma -- sa sei sì gio -- va -- ne~e sì bel -- la? __
     Co -- me, poi che __ la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi la __ smar -- ri -- ta~a -- gnel -- la, __
+    Ri -- man tra' bo -- schi la __ smar -- ri -- ta~a -- gnel -- la, __
     Che dal pa -- stor __ spe -- ran -- do~es -- se -- re~u -- di -- ta,
     Si va la -- gnan -- do~in que -- sta par -- t'e~in __ quel -- la;
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor ne pia -- gne~in -- va -- no,
-    e’l mi -- se -- ro pa -- stor __ ne pia -- gne~in -- va -- no.
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l mi -- se -- ro pa -- stor ne pia -- gne~in -- va -- no,
+    e'l mi -- se -- ro pa -- stor __ ne pia -- gne~in -- va -- no.
 }
 
 tenoreXXIincipit = \relative c' {
@@ -119,12 +119,12 @@ tenoreLyricsXXI = \lyricmode {
     Deh, do -- ve sen -- za me, dol -- ce mia vi -- ta,
     Ri -- ma -- sa sei sì gio -- va -- ne~e sì bel -- la? __
     Co -- me, poi che __ la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la, __
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la, __
     Che dal pa -- stor __ spe -- ran -- do~es -- se -- re~u -- di -- ta,
     Si va la -- gnan -- do~in que -- sta par -- t'e~in quel -- la;
-    Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor ne pia -- gne~in -- va -- no,
-    e’l mi -- se -- ro pa -- stor ne pia -- gne~in -- va -- no.
+    Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l mi -- se -- ro pa -- stor ne pia -- gne~in -- va -- no,
+    e'l mi -- se -- ro pa -- stor ne pia -- gne~in -- va -- no.
 }
 
 bassoXXIincipit = \relative c {
@@ -156,12 +156,12 @@ bassoLyricsXXI = \lyricmode {
     Deh, do -- ve sen -- za me, dol -- ce mia vi -- ta,
     Ri -- ma -- sa sei sì gio -- va -- ne~e sì bel -- la? __
     Co -- me, poi che __ la lu -- ce~è di -- par -- ti -- ta,
-    Ri -- man tra’ bo -- schi la smar -- ri -- ta~a -- gnel -- la, __
+    Ri -- man tra' bo -- schi la smar -- ri -- ta~a -- gnel -- la, __
     Che dal pa -- stor __ spe -- ran -- do~es -- se -- re~u -- di -- ta,
     Si va la -- gnan -- do~in que -- sta par -- t'e~in quel -- la;
-    % Tan -- to che’l lu -- po l’o -- de da lon -- ta -- no,
-    E’l mi -- se -- ro pa -- stor ne pia -- gne~in -- va -- no,
-    e’l mi -- se -- ro pa -- stor __ ne pia -- gne~in -- va -- no.
+    % Tan -- to che'l lu -- po l'o -- de da lon -- ta -- no,
+    E'l mi -- se -- ro pa -- stor ne pia -- gne~in -- va -- no,
+    e'l mi -- se -- ro pa -- stor __ ne pia -- gne~in -- va -- no.
 }
 
 cantoXXIincipitVoice = <<

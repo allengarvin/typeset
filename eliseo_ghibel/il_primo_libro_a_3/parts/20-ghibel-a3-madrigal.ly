@@ -1,11 +1,11 @@
 %                                    CANTO VI
 %
 %   1  Miser chi mal oprando si confida
-%      ch’ognor star debbia il maleficio occulto;
-%      che quando ogn’altro taccia, intorno grida
-%      l’aria e la terra istessa in ch’è sepulto:
-%      e Dio fa spesso che ’l peccato guida
-%      il peccator, poi ch’alcun dì gli ha indulto,
+%      ch'ognor star debbia il maleficio occulto;
+%      che quando ogn'altro taccia, intorno grida
+%      l'aria e la terra istessa in ch'è sepulto:
+%      e Dio fa spesso che 'l peccato guida
+%      il peccator, poi ch'alcun dì gli ha indulto,
 %      che se medesmo, senza altrui richiesta,
 %      innavedutamente manifesta.
 
@@ -51,28 +51,28 @@ cantoXX = \relative c' {
 
 cantoLyricsXX = \lyricmode {
     Mi -- ser chi mal o -- pran -- do si con -- fi -- da
-    Ch’o -- gnor star deb -- bia,
+    Ch'o -- gnor star deb -- bia,
     \ijLyrics
-    ch’o -- gnor star deb -- bia 
+    ch'o -- gnor star deb -- bia 
     \normalLyrics
         il ma -- le -- fi -- cio~oc -- cul -- to,
     \ijLyrics
         il ma -- le -- fi -- cio~oc -- cul -- to;
     \normalLyrics
-    Che quan -- do~o -- gn’al -- tro tac -- cia, in -- tor -- no gri -- da,
+    Che quan -- do~o -- gn'al -- tro tac -- cia, in -- tor -- no gri -- da,
     \ijLyrics
         in -- tor -- no gri -- da __
     \normalLyrics
-    L’a -- ria~e la ter -- ra,
-    l’a -- ria~e la ter -- ra~i -- stes -- sa in ch’è __ se -- pul -- to: __
+    L'a -- ria~e la ter -- ra,
+    l'a -- ria~e la ter -- ra~i -- stes -- sa in ch'è __ se -- pul -- to: __
     E Dio fa spes -- so,
         spes -- so,
     e Dio fa spes -- so,
-        spes -- so, che’l pec -- ca -- to gui -- da
+        spes -- so, che'l pec -- ca -- to gui -- da
     Il pec -- ca -- tor, 
             gu -- da
     il pec -- ca -- tor, 
-        poi ch’al -- cun dì gli~ha in -- dul -- to,
+        poi ch'al -- cun dì gli~ha in -- dul -- to,
         gli~ha __ in -- dul -- to,
     Che se me -- de -- smo, 
     che se me -- de -- smo, sen -- za~al -- trui ri -- chie -- sta,
@@ -124,30 +124,30 @@ tenoreXX = \relative c' {
 
 tenoreLyricsXX = \lyricmode {
     Chi mal o -- pran -- do __ si con -- fi -- da
-    Ch’o -- gnor star deb -- bia,
+    Ch'o -- gnor star deb -- bia,
     \ijLyrics
-    ch’o -- gnor star deb -- bia
+    ch'o -- gnor star deb -- bia
     \normalLyrics
         il ma -- le -- fi -- cio~oc -- cul -- to,
     \ijLyrics
         il ma -- le -- fi -- cio~oc -- cul -- to;
     \normalLyrics
-    Che quan -- do~o -- gn’al -- tro tac -- cia, in -- tor -- no gri -- da,
+    Che quan -- do~o -- gn'al -- tro tac -- cia, in -- tor -- no gri -- da,
     \ijLyrics
         in -- tor -- no gri -- da  __
     \normalLyrics
-    L’a -- ria~e la ter -- ra,
-    l’a -- ria~e la ter -- ra i -- stes -- sa __ in ch’è se -- pul -- to:
+    L'a -- ria~e la ter -- ra,
+    l'a -- ria~e la ter -- ra i -- stes -- sa __ in ch'è se -- pul -- to:
     E Dio fa spes -- so,
         spes -- so,
     e Dio fa spes -- so,
-        spes -- so, che’l pec -- ca -- to,
-            che’l pec -- ca -- to gui -- da
+        spes -- so, che'l pec -- ca -- to,
+            che'l pec -- ca -- to gui -- da
     Il pec -- ca -- tor,
             gu -- da
     il pec -- ca -- tor,
-        poi __ ch’al -- cun dì gli~ha in -- dul -- to,
-            ch’al -- cun dì __ gli~ha in -- dul -- to,
+        poi __ ch'al -- cun dì gli~ha in -- dul -- to,
+            ch'al -- cun dì __ gli~ha in -- dul -- to,
     Che se me -- de -- smo,
     che se me -- de -- smo, sen -- za~al -- trui ri -- chie -- sta,
     In -- na -- ve -- du -- ta -- men -- te ma -- ni -- fe -- sta,
@@ -195,27 +195,27 @@ bassoXX = \relative c {
 
 bassoLyricsXX = \lyricmode {
     Chi mal __ o -- pran -- do si con -- fi -- da __
-    Ch’o -- gnor star deb -- bia,
+    Ch'o -- gnor star deb -- bia,
     \ijLyrics
-    ch’o -- gnor star deb -- bia
+    ch'o -- gnor star deb -- bia
     \normalLyrics
         il ma -- le -- fi -- cio~oc -- cul -- to;
-    Che quan -- do~o -- gn’al -- tro tac -- cia, in -- tor -- no gri -- da,
+    Che quan -- do~o -- gn'al -- tro tac -- cia, in -- tor -- no gri -- da,
     \ijLyrics
         in -- tor -- no gri -- da __
     \normalLyrics
-    L’a -- ria~e la ter -- ra,
-    l’a -- ria~e la ter -- ra __ i -- stes -- sa __ in ch’è se -- pul -- to: __
+    L'a -- ria~e la ter -- ra,
+    l'a -- ria~e la ter -- ra __ i -- stes -- sa __ in ch'è se -- pul -- to: __
     E Dio fa spes -- so,
         spes -- so,
     e Dio fa spes -- so,
-        spes -- so, che’l pec -- ca -- to gui -- da __
+        spes -- so, che'l pec -- ca -- to gui -- da __
     Il pec -- ca -- tor,
             gu -- da
     il pec -- ca -- tor,
-        poi __ ch’al -- cun dì gli~ha~in -- dul -- to,
+        poi __ ch'al -- cun dì gli~ha~in -- dul -- to,
     \ijLyrics
-        poi ch’al -- cun dì gli~ha~in -- dul -- to,
+        poi ch'al -- cun dì gli~ha~in -- dul -- to,
     \normalLyrics
     Che se me -- de -- smo,
     che se me -- de -- smo, sen -- za al -- trui ri -- chie -- sta, __

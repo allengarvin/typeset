@@ -49,9 +49,9 @@ cantoLyricsVII = \lyricmode {
     \ijLyrics
     scam -- per
     \normalLyrics
-        vo -- ra -- ve o -- gn’o -- ra,
+        vo -- ra -- ve o -- gn'o -- ra,
         o -- gni mo -- me -- ne -- ne -- ne -- ne -- nen -- to
-    Tan -- t’è‘l fu -- ror che sen -- to,
+    Tan -- t'è‘l fu -- ror che sen -- to,
     Che có -- ro~in -- tor -- no~in -- tor -- no,
     \ijLyrics
     che có -- ro~in -- tor -- no~in -- tor -- no.
@@ -74,7 +74,7 @@ cantoLyricsVII = \lyricmode {
     \ijLyrics
     e qual -- che vol -- ta,
     \normalLyrics
-    e qual -- che vol -- ta~o -- gn’o -- ra,
+    e qual -- che vol -- ta~o -- gn'o -- ra,
     bu -- to per vu,
     bu -- to, bu -- to,
     bu -- to per vu,
@@ -144,9 +144,9 @@ tenoreLyricsVII = \lyricmode {
     \ijLyrics
     scam -- per
     \normalLyrics
-        vo -- ra -- ve o -- gn’o -- ra~o -- gn’o -- ra,
+        vo -- ra -- ve o -- gn'o -- ra~o -- gn'o -- ra,
         o -- gni mo -- me -- ne -- ne -- ne -- ne -- nen -- to
-    Tan -- t’è‘l fu -- ror che sen -- to,
+    Tan -- t'è‘l fu -- ror che sen -- to,
     Che có -- ro~in -- tor -- no~in -- tor -- no,
     \ijLyrics
     che có -- ro~in -- tor -- no~in -- tor -- no.
@@ -163,7 +163,7 @@ tenoreLyricsVII = \lyricmode {
     \normalLyrics
          schi -- to~al zor -- no,
     E qual -- che vol -- ta,
-    e qual -- che vol -- ta~o -- gn’o -- ra,
+    e qual -- che vol -- ta~o -- gn'o -- ra,
     bu -- to per vu,
     bu -- to, bu -- to,
     bu -- to per vu,
@@ -226,9 +226,9 @@ bassoLyricsVII = \lyricmode {
     \ijLyrics
     scam -- per __
     \normalLyrics
-        vo -- ra -- ve~o -- gn’o -- ra,
-        o -- gn’o -- ra~o -- gni __ mo -- me -- ne -- ne -- ne -- nen -- to
-    Tan -- t’è‘l fu -- ror che sen -- to,
+        vo -- ra -- ve~o -- gn'o -- ra,
+        o -- gn'o -- ra~o -- gni __ mo -- me -- ne -- ne -- ne -- nen -- to
+    Tan -- t'è‘l fu -- ror che sen -- to,
     Che có -- ro~in -- tor -- no~in -- tor -- no,
     \ijLyrics
     che có -- ro~in -- tor -- no~in -- tor -- no.
@@ -244,7 +244,7 @@ bassoLyricsVII = \lyricmode {
         \normalLyrics
     schi -- te schi -- to~al zor -- no,
     E qual -- che vol -- ta,
-    e qual -- che vol -- ta~o -- gn’o -- ra,
+    e qual -- che vol -- ta~o -- gn'o -- ra,
     bu -- to per vu,
     \ijLyrics
     bu -- to per vu,

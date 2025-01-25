@@ -1,19 +1,19 @@
 % Io già cantando la mia libertate
 % I lacci rotti, e le faville spente,
-% Di che m’arse, e legò sì fieramente
+% Di che m'arse, e legò sì fieramente
 % Donna gentil, ma nuda di pietate.
 % 
 % E dicea meco: Or qual nova beltate
-% Stringerà me d’un nodo si possente,
+% Stringerà me d'un nodo si possente,
 % Che non mi scioglia? e di che face ardente
 % Strugger potrà le mie voglie gelate?
 % 
-% Allor ch’io senti’l cor dentro, e d’intorno
+% Allor ch'io senti'l cor dentro, e d'intorno
 % Di fiamma viva, e di catene salde
 % Acceso, e cinto, perché pur sempre ami.
 % 
 % Una man bianca, ed un bel viso adorno
-% Vuol che m’allacci Amor, vuol che mi scalde:
+% Vuol che m'allacci Amor, vuol che mi scalde:
 % Dolce mio foco, e miei cari legami!
 
 % Pietro Barignano: Sonetto V
@@ -64,14 +64,14 @@ cantoLyricsI = \lyricmode {
     io già can -- tan -- do la mia li -- ber -- ta -- te
         li -- ber -- ta -- te
     I lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
-%    Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,
+%    Di che m'ar -- se~e le -- gò sì fie -- ra -- men -- te,
 %        sì fie -- ra -- men -- te,
 %        sì fie -- ra -- men -- te
 %    Don -- na gen -- til, ma nu -- da di pie -- ta -- te.
 %
 %    E di -- ceame -- co~or qual no -- va bel -- ta -- te
-%    Strin -- ge -- rà me d’un no -- do,
-%        d’un no -- do si pos -- sen -- te,
+%    Strin -- ge -- rà me d'un no -- do,
+%        d'un no -- do si pos -- sen -- te,
 %    Che non mi scio -- glia~e di che fa -- ce~ar -- den -- te
 %    \ijLyrics
 %    Che non mi scio -- glia~e diche fa -- ce~ar -- den -- te
@@ -127,7 +127,7 @@ altoLyricsI = \lyricmode {
         can -- tan -- do la mia li -- ber -- ta -- te
     I lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
         e le fa -- vil -- le spen -- te,
-    Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,
+    Di che m'ar -- se~e le -- gò sì fie -- ra -- men -- te,
         sì __ fie -- ra -- men -- te,
     \ijLyrics
         sì fie -- ra -- men -- te
@@ -135,8 +135,8 @@ altoLyricsI = \lyricmode {
     Don -- na gen -- til, ma nu -- da di pie -- ta -- te.
 
     E di -- cea me -- co~or qual no -- va bel -- ta -- te
-    Strin -- ge -- rà me d’un no -- do si pos -- sen -- te,
-        d’un no -- do si pos -- sen -- te,
+    Strin -- ge -- rà me d'un no -- do si pos -- sen -- te,
+        d'un no -- do si pos -- sen -- te,
     Che non mi scio -- glia~e di che fa -- ce~ar -- den -- te,
     \ijLyrics
     Che non mi scio -- glia~e di che fa -- ce~ar -- den -- te,
@@ -191,16 +191,16 @@ tenoreLyricsI = \lyricmode {
     Io già can -- tan -- do la mia li -- ber -- ta -- te
     I __ lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
         e le fa -- vil -- le spen -- te,
-    Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,
+    Di che m'ar -- se~e le -- gò sì fie -- ra -- men -- te,
         sì fie -- ra -- men -- te
     Don -- na gen -- til, ma nu -- da
         ma nu -- da di pie -- ta -- te.
 
     E di -- cea me -- co~or qual no -- va bel -- ta -- te
-    Strin -- ge -- rà me d’un no -- do si pos -- sen -- te,
-        d’un no -- do 
+    Strin -- ge -- rà me d'un no -- do si pos -- sen -- te,
+        d'un no -- do 
     \ijLyrics
-        d’un no -- do 
+        d'un no -- do 
     \normalLyrics
         si pos -- sen -- te,
     Che non mi scio -- glia~e di che fa -- ce~ar -- den -- te
@@ -261,13 +261,13 @@ bassoLyricsI = \lyricmode {
     Io già can -- tan -- do la mia li -- ber -- ta -- te
     I lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
         e le fa -- vil -- le spen -- te,
-    Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,
+    Di che m'ar -- se~e le -- gò sì fie -- ra -- men -- te,
         sì fie -- ra -- men -- te
     Don -- na gen -- til, ma nu -- da di pie -- ta -- te.
 
     E di -- cea me -- co~or qual no -- va bel -- ta -- te
-    Strin -- ge -- rà me d’un no -- do,
-        d’un no -- do si pos -- sen -- te,
+    Strin -- ge -- rà me d'un no -- do,
+        d'un no -- do si pos -- sen -- te,
     Che non mi scio -- glia,
     Che non mi scio -- glia~e di __ che fa -- ce~ar -- den -- te
     Strug -- ger po -- trà le mie vo -- glie ge -- la -- te?
@@ -323,7 +323,7 @@ quintoLyricsI = \lyricmode {
     Io già can -- tan -- do la mia li -- ber -- ta -- te
     I lac -- ci rot -- ti~e le fa -- vil -- le spen -- te,
         e le fa -- vil -- le spen -- te,
-    Di che m’ar -- se~e le -- gò sì fie -- ra -- men -- te,
+    Di che m'ar -- se~e le -- gò sì fie -- ra -- men -- te,
         sì fie -- ra -- men -- te,
     \ijLyrics
         sì fie -- ra -- men -- te
@@ -331,7 +331,7 @@ quintoLyricsI = \lyricmode {
     Don -- na gen -- til, ma nu -- da di pie -- ta -- te.
 
     E di -- cea me -- co~or qual no -- va bel -- ta -- te
-    Strin -- ge -- rà me d’un no -- do si pos -- sen -- te,
+    Strin -- ge -- rà me d'un no -- do si pos -- sen -- te,
     Che non mi scio -- glia,
     \ijLyrics
     Che non mi scio -- glia, __

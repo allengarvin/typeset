@@ -1,8 +1,8 @@
 % Apprestateci fede,
 % voi che rivolti in core,
-% pastori avete in servitù d’Amore.
+% pastori avete in servitù d'Amore.
 % Ah non si trova più dolce gioire
-% ch’amar, e amando del suo amor fruire. 
+% ch'amar, e amando del suo amor fruire. 
 
 cantoOneIIIincipit = \relative c'' {
     \time 4/4
@@ -38,14 +38,14 @@ cantoOneIII = \relative c'' {
 cantoOneLyricsIII = \lyricmode {
     Ap -- pre -- sta -- te -- ci fe -- de,
     voi che ri -- vol -- ti~in co -- re,
-    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d’A -- mo -- re.
+    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d'A -- mo -- re.
     ap -- pre -- sta -- te -- ci fe -- de,
     voi che ri -- vol -- ti~in co -- re,
-    pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d’A -- mo -- re.
+    pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d'A -- mo -- re.
     Ah non si tro -- va più dol -- ce gio -- i -- re
-    Ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    Ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
     ah non si tro -- va più dol -- ce gio -- i -- re
-    ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
         del suo~a -- mor fru -- i -- re.
 }
 
@@ -83,14 +83,14 @@ cantoTwoIII = \relative c'' {
 cantoTwoLyricsIII = \lyricmode {
     Ap -- pre -- sta -- te -- ci fe -- de,
     voi che ri -- vol -- ti~in co -- re,
-    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d’A -- mo -- re.
+    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d'A -- mo -- re.
     ap -- pre -- sta -- te -- ci fe -- de,
     voi che ri -- vol -- ti~in co -- re,
-    pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d’A -- mo -- re.
+    pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d'A -- mo -- re.
     Ah non si tro -- va più dol -- ce gio -- i -- re
-    Ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    Ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
     ah non si tro -- va più dol -- ce gio -- i -- re
-    ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
         del suo~a -- mor fru -- i -- re.
 }
 
@@ -129,17 +129,17 @@ altoIII = \relative c'' {
 altoLyricsIII = \lyricmode {
     Ap -- pre -- sta -- te -- ci fe -- de,
     voi che ri -- vol -- ti~in co -- re,
-    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d’A -- mo -- re.
+    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d'A -- mo -- re.
     ap -- pre -- sta -- te -- ci fe -- de,
     voi che ri -- vol -- ti~in co -- re,
-    pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d’A -- mo -- re.
+    pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d'A -- mo -- re.
     Ah non si tro -- va più dol -- ce gio -- i -- re
-    Ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
-    ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    Ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
     ah non si tro -- va più dol -- ce gio -- i -- re
-    ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
     \ijLyrics
-    ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
     \normalLyrics
         del suo~a -- mor fru -- i -- re.
 }
@@ -177,13 +177,13 @@ tenoreIII = \relative c' {
 tenoreLyricsIII = \lyricmode {
     Ap -- pre -- sta -- te -- ci fe -- de,
     voi che ri -- vol -- ti~in co -- re,
-    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d’A -- mo -- re.
+    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d'A -- mo -- re.
     Ah non si tro -- va,
     ah non si tro -- va più dol -- ce gio -- i -- re
-    Ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    Ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
     ah non si tro -- va,
     ah non si tro -- va più dol -- ce gio -- i -- re
-    ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
         del suo~a -- mor fru -- i -- re.
 }
 
@@ -217,11 +217,11 @@ bassoIII = \relative c' {
 bassoLyricsIII = \lyricmode {
     Ap -- pre -- sta -- te -- ci fe -- de,
     voi che ri -- vol -- ti~in co -- re,
-    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d’A -- mo -- re.
+    Pa -- sto -- r~a -- ve -- te~in ser -- vi -- tù d'A -- mo -- re.
     Ah non si tro -- va più dol -- ce gio -- i -- re
-    Ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    Ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
     ah non si tro -- va più dol -- ce gio -- i -- re
-    ch’a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
+    ch'a -- mar, e~a -- man -- do del suo~a -- mor fru -- i -- re,
         del suo~a -- mor fru -- i -- re. 
 }
 

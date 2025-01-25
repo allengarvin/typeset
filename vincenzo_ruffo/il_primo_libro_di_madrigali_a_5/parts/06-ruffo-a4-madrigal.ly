@@ -1,11 +1,11 @@
 % Fiere silvestre
 % che perlati campi
-% vagand’ errate
+% vagand' errate
 % e per acuti fassi
 % udisti mai si dolorosi rime
 % dite ‘l perdio
-% udist’in alcun giorno
-% O pur in quest’over
+% udist'in alcun giorno
+% O pur in quest'over
 % in altra valle
 % con si caldi sospir,
 % sospir si longo pianto. 

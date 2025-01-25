@@ -1,7 +1,7 @@
 % Alla battaglia, o forti cavalieri,
 % Venite tutti meco ardidamente 
-% E de’ nemici nostri audaci e fieri 
-% Domiam col ferro l’orgoliosa mente.
+% E de' nemici nostri audaci e fieri 
+% Domiam col ferro l'orgoliosa mente.
 % Sù, trombette, suonate!. 
 % “Fan fari rari raron fan”.
 % E voi guerrieri ferite ed amazzate la vil gente; 
@@ -56,11 +56,11 @@ cantoLyricsXXIII = \lyricmode {
     Al -- la bat -- ta -- glia, o for -- ti ca -- va -- lie -- ri,
     Ve -- ni -- te tut -- ti me -- co~ar -- di -- da -- men -- te 
         ar -- di -- da -- men -- te 
-    E de’ ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
+    E de' ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
     \ijLyrics
         au -- da -- ci~e fie -- ri 
     \normalLyrics
-    Do -- miam col fer -- ro l’or -- go -- lio -- sa men -- te.
+    Do -- miam col fer -- ro l'or -- go -- lio -- sa men -- te.
     Sù, trom -- bet -- te, suo -- na -- te!
     \ijLyrics
     Sù, trom -- bet -- te, suo -- na -- te!
@@ -148,9 +148,9 @@ altoLyricsXXIII = \lyricmode {
     Al -- la bat -- ta -- glia, o for -- ti ca -- va -- lie -- ri,
     Ve -- ni -- te tut -- ti me -- co~ar -- di -- da -- men -- te 
         ar -- di -- da -- men -- te 
-    E de’ ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
-    Do -- miam col fer -- ro l’or -- go -- lio -- sa men -- te.
-        l’or -- go -- lio -- sa men -- te.
+    E de' ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
+    Do -- miam col fer -- ro l'or -- go -- lio -- sa men -- te.
+        l'or -- go -- lio -- sa men -- te.
     Sù, trom -- bet -- te, suo -- na -- te!
     Sù, trom -- bet -- te, suo -- na -- te!
     Fan fa -- ri ra -- ri ra -- ron 
@@ -237,9 +237,9 @@ tenoreLyricsXXIII = \lyricmode {
     Ve -- ni -- te tut -- ti me -- co~ar -- di -- da -- men -- te 
         ar -- di -- da -- men -- te 
         ar -- di -- da -- men -- te 
-    E de’ ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
+    E de' ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
         au -- da -- ci~e fie -- ri 
-    Do -- miam col fer -- ro l’or -- go -- lio -- sa men -- te.
+    Do -- miam col fer -- ro l'or -- go -- lio -- sa men -- te.
     Sù, trom -- bet -- te, suo -- na -- te!
     \ijLyrics
     Sù, trom -- bet -- te, suo -- na -- te!
@@ -323,10 +323,10 @@ bassoLyricsXXIII = \lyricmode {
     Al -- la bat -- ta -- glia,~o for -- ti ca -- va -- lie -- ri,
     Ve -- ni -- te tut -- ti me -- co~ar -- di -- da -- men -- te 
         ar -- di -- da -- men -- te 
-    E de’ ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
-    Do -- miam col fer -- ro l’or -- go -- lio -- sa men -- te,
+    E de' ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
+    Do -- miam col fer -- ro l'or -- go -- lio -- sa men -- te,
     \ijLyrics
-        l’or -- go -- lio -- sa men -- te.
+        l'or -- go -- lio -- sa men -- te.
     \normalLyrics
     Sù, trom -- bet -- te, suo -- na -- te!
     Sù, trom -- bet -- te, suo -- na -- te!
@@ -412,9 +412,9 @@ quintoLyricsXXIII = \lyricmode {
     \ijLyrics
         ar -- di -- da -- men -- te 
     \normalLyrics
-    E de’ ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
+    E de' ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
         au -- da -- ci~e fie -- ri 
-    Do -- miam col fer -- ro l’or -- go -- lio -- sa men -- te,
+    Do -- miam col fer -- ro l'or -- go -- lio -- sa men -- te,
         men -- te.
     Sù, trom -- bet -- te, suo -- na -- te!
     \ijLyrics
@@ -502,9 +502,9 @@ sestoLyricsXXIII = \lyricmode {
         o for -- ti ca -- va -- lie -- ri,
     Ve -- ni -- te tut -- ti me -- co~ar -- di -- da -- men -- te 
         ar -- di -- da -- men -- te __
-    E de’ ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
+    E de' ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
         au -- da -- ci~e fie -- ri 
-    Do -- miam col fer -- ro l’or -- go -- lio -- sa men -- te.
+    Do -- miam col fer -- ro l'or -- go -- lio -- sa men -- te.
     Sù, trom -- bet -- te, suo -- na -- te!
     Sù, trom -- bet -- te, suo -- na -- te!
         suo -- na -- te!
@@ -588,11 +588,11 @@ settimaLyricsXXIII = \lyricmode {
     Ve -- ni -- te tut -- ti me -- co~ar -- di -- da -- men -- te 
         ar -- di -- da -- men -- te,
         ar -- di -- da -- men -- te 
-    E de’ ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
+    E de' ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
     \ijLyrics
         au -- da -- ci~e fie -- ri 
     \normalLyrics
-    Do -- miam col fer -- ro l’or -- go -- lio -- sa men -- te.
+    Do -- miam col fer -- ro l'or -- go -- lio -- sa men -- te.
     Sù, trom -- bet -- te, suo -- na -- te!
     \ijLyrics
     Sù, trom -- bet -- te, suo -- na -- te!
@@ -684,9 +684,9 @@ ottavaLyricsXXIII = \lyricmode {
         o for -- ti ca -- va -- lie -- ri,
     Ve -- ni -- te tut -- ti me -- co~ar -- di -- da -- men -- te 
         ar -- di -- da -- men -- te 
-    E de’ ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
-    Do -- miam col fer -- ro l’or -- go -- lio -- sa men -- te,
-        l’or -- go -- lio -- sa men -- te.
+    E de' ne -- mi -- ci no -- stri au -- da -- ci~e fie -- ri 
+    Do -- miam col fer -- ro l'or -- go -- lio -- sa men -- te,
+        l'or -- go -- lio -- sa men -- te.
     Sù, __ trom -- bet -- te, suo -- na -- te!
     Sù, trom -- bet -- te, suo -- na -- te!
         suo -- na -- te!

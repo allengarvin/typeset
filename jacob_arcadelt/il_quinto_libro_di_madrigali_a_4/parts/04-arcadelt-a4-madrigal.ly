@@ -28,17 +28,17 @@ cantusIV = \relative c'' {
 }
 
 cantusLyricsIV = \lyricmode {
-    Ec -- co d’o -- ro l’e -- tà pre -- gia -- ta~e bel -- la,
-    Ec -- co di lat -- te pu -- ro col -- mo già’l
-    Teb -- re~e’l mar lie -- to~e si -- cu -- ro. __
+    Ec -- co d'o -- ro l'e -- tà pre -- gia -- ta~e bel -- la,
+    Ec -- co di lat -- te pu -- ro col -- mo già'l
+    Teb -- re~e'l mar lie -- to~e si -- cu -- ro. __
     Poi che be -- ni -- gna stel -- la de per -- la tan -- to ra -- ra
-    Al te -- ne -- re l’au -- gu -- sto~il ca -- po~a -- dor -- na
-    L’an -- ti -- ca pa -- ce~ho -- mai dop -- pia ri -- tor -- na,
+    Al te -- ne -- re l'au -- gu -- sto~il ca -- po~a -- dor -- na
+    L'an -- ti -- ca pa -- ce~ho -- mai dop -- pia ri -- tor -- na,
         dop -- pia ri -- tor -- na __
-    Et in voc’ al -- ta~e chia -- ra
-    Per o -- gni cli -- ma già suon’ il ro -- mo -- re
-    d’Ot -- ta -- vio Mar -- ga -- ri -- ta pac’ __ e~a -- mo -- re 
-    d’Ot -- ta -- vio Mar -- ga -- ri -- ta pac’ __ e~a -- mo -- re.  __
+    Et in voc' al -- ta~e chia -- ra
+    Per o -- gni cli -- ma già suon' il ro -- mo -- re
+    d'Ot -- ta -- vio Mar -- ga -- ri -- ta pac' __ e~a -- mo -- re 
+    d'Ot -- ta -- vio Mar -- ga -- ri -- ta pac' __ e~a -- mo -- re.  __
 }
 
 altusIVincipit = \relative c'' {
@@ -72,21 +72,21 @@ altusIV = \relative c'' {
 }
 
 altusLyricsIV = \lyricmode {
-    Ec -- co d’o -- ro l’e -- tà pre -- gia -- ta~e bel -- la,
-    Ec -- co di lat -- te pu -- ro col -- mo già’l
-    Teb -- re~e’l mar lie -- to~e si -- cu -- ro.
+    Ec -- co d'o -- ro l'e -- tà pre -- gia -- ta~e bel -- la,
+    Ec -- co di lat -- te pu -- ro col -- mo già'l
+    Teb -- re~e'l mar lie -- to~e si -- cu -- ro.
     Poi che be -- ni -- gna stel -- la de per -- la tan -- to ra -- ra,
-    Al te -- ne -- re l’au -- gu -- sto~il ca -- po~a -- dor -- na
-    L’an -- ti -- ca pa -- ce~ho -- mai __
+    Al te -- ne -- re l'au -- gu -- sto~il ca -- po~a -- dor -- na
+    L'an -- ti -- ca pa -- ce~ho -- mai __
         dop -- pia ri -- tor -- na,
         dop -- pia ri -- tor -- na,
-    Et in voc’ al -- ta~e chia -- ra
-    Per o -- gni cli -- ma già suon’ il ro -- mo -- re
-    d’Ot -- ta -- vio Mar -- ga -- ri -- ta pac’ e~a -- mo -- re,
-        pac’ e~a -- mo -- re,
-    d’Ot -- ta -- vio Mar -- ga -- ri -- ta pac’ e~a -- mo -- re,
-        pac’ e~a -- mo -- re,
-        pac’ e~a -- mo -- re.
+    Et in voc' al -- ta~e chia -- ra
+    Per o -- gni cli -- ma già suon' il ro -- mo -- re
+    d'Ot -- ta -- vio Mar -- ga -- ri -- ta pac' e~a -- mo -- re,
+        pac' e~a -- mo -- re,
+    d'Ot -- ta -- vio Mar -- ga -- ri -- ta pac' e~a -- mo -- re,
+        pac' e~a -- mo -- re,
+        pac' e~a -- mo -- re.
 }
 
 tenorIVincipit = \relative c' {
@@ -122,17 +122,17 @@ tenorIV = \relative c' {
 }
 
 tenorLyricsIV = \lyricmode {
-    Ec -- co d’o -- ro l’e -- tà pre -- gia -- ta~e __ bel -- la,
-    Ec -- co di lat -- te pu -- ro col -- mo già’l
-    Teb -- re~e’l mar lie -- to~e si -- cu -- ro.
+    Ec -- co d'o -- ro l'e -- tà pre -- gia -- ta~e __ bel -- la,
+    Ec -- co di lat -- te pu -- ro col -- mo già'l
+    Teb -- re~e'l mar lie -- to~e si -- cu -- ro.
     Poi che be -- ni -- gna stel -- la de per -- la tan -- to ra -- ra,
-    Al te -- ne -- re l’au -- gu -- sto~il ca -- po~a -- dor -- na
-    L’an -- ti -- ca pa -- ce~ho -- mai dop -- pia ri -- tor -- na,
+    Al te -- ne -- re l'au -- gu -- sto~il ca -- po~a -- dor -- na
+    L'an -- ti -- ca pa -- ce~ho -- mai dop -- pia ri -- tor -- na,
         dop -- pia ri -- tor -- na,
-    Et in voc’ al -- ta~e chia -- ra
-    Per o -- gni cli -- ma già suon’ il ro -- mo -- re
-    d’Ot -- ta -- vio Mar -- ga -- ri -- ta pac’ e~a -- mo -- re,
-    d’Ot -- ta -- vio Mar -- ga -- ri -- ta pac’ e~a -- mo -- re,
+    Et in voc' al -- ta~e chia -- ra
+    Per o -- gni cli -- ma già suon' il ro -- mo -- re
+    d'Ot -- ta -- vio Mar -- ga -- ri -- ta pac' e~a -- mo -- re,
+    d'Ot -- ta -- vio Mar -- ga -- ri -- ta pac' e~a -- mo -- re,
         a -- mo -- re.
 }
 
@@ -165,18 +165,18 @@ bassusIV = \relative c' {
 }
 
 bassusLyricsIV = \lyricmode {
-    Ec -- co d’o -- ro l’e -- tà pre -- gia -- ta~e bel -- la,
-    Ec -- co di lat -- te pu -- ro col -- mo già’l
-    Teb -- re~e’l mar lie -- to~e si -- cu -- ro.
+    Ec -- co d'o -- ro l'e -- tà pre -- gia -- ta~e bel -- la,
+    Ec -- co di lat -- te pu -- ro col -- mo già'l
+    Teb -- re~e'l mar lie -- to~e si -- cu -- ro.
     Poi che be -- ni -- gna stel -- la de per -- la tan -- to ra -- ra,
-    Al te -- ne -- re l’au -- gu -- sto~il ca -- po~a -- dor -- na
-    L’an -- ti -- ca pa -- ce~ho -- mai dop -- pia ri -- tor -- na,
+    Al te -- ne -- re l'au -- gu -- sto~il ca -- po~a -- dor -- na
+    L'an -- ti -- ca pa -- ce~ho -- mai dop -- pia ri -- tor -- na,
         dop -- pia ri -- tor -- na,
-    Et in voc’ al -- ta~e chia -- ra
-    Per o -- gni cli -- ma già suon’ il ro -- mo -- re
-    d’Ot -- ta -- vio Mar -- ga -- ri -- ta pac’ e~a -- mo -- re,
-    d’Ot -- ta -- vio Mar -- ga -- ri -- ta pac’ e~a -- mo -- re,
-        pac’ e~a -- mo -- re. __
+    Et in voc' al -- ta~e chia -- ra
+    Per o -- gni cli -- ma già suon' il ro -- mo -- re
+    d'Ot -- ta -- vio Mar -- ga -- ri -- ta pac' e~a -- mo -- re,
+    d'Ot -- ta -- vio Mar -- ga -- ri -- ta pac' e~a -- mo -- re,
+        pac' e~a -- mo -- re. __
 }
 
 cantusIVincipitVoice = <<

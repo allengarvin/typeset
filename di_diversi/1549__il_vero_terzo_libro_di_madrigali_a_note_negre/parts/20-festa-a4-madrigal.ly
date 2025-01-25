@@ -1,33 +1,33 @@
 % Un baciar furioso, un dispogliarsi,
-% un esser nuda e dire: a fatt’in fretta!
+% un esser nuda e dire: a fatt'in fretta!
 % un cavalcar di sopra alla gianetta,
-% un pigliarl’a duo man ed infilzarsi;
-% un volger d’occhi in storta e rimenarsi
-% con una man’aperta e l’altra stretta,
+% un pigliarl'a duo man ed infilzarsi;
+% un volger d'occhi in storta e rimenarsi
+% con una man'aperta e l'altra stretta,
 % un macinar a tempo e dire: aspetta!
-% un correr par’e nel finir scontrarsi;
+% un correr par'e nel finir scontrarsi;
 %
 % un chiamarmi per nome: traditoraccio!
 % un gridar anelando, e tutta calda,
 % vibrar la lingua come i serpenti fanno;
-% Un tutta stanca dir: Or fa, ch’io faccio,
+% Un tutta stanca dir: Or fa, ch'io faccio,
 % e farmi far duo chiodi a una calda:
-% son le catene che legato m’hanno.
+% son le catene che legato m'hanno.
 %
 % Such frantic kissing, then removing clothes,
-% Then standing nude, then saying ‘’t was too quick!’,
-% Then riding horseback o’er the walking stick,
+% Then standing nude, then saying ‘'t was too quick!',
+% Then riding horseback o'er the walking stick,
 % Then grabbing it with both hands, and then piercing;
 %
 % Then turning eyes askew, then jolting back
 % With one hand open and the other clutched
-% Then grinding in time, then saying ‘wait!’,
+% Then grinding in time, then saying ‘wait!',
 % Then running jointly, bumping in the end:
 %
-% Then calling me by name: ‘you rotten traitor!’
+% Then calling me by name: ‘you rotten traitor!'
 % Then shouting breathlessly and, all inflamed,
 % Then vibrating the tongue as snakes are wont,
-% Then saying wearily: ‘come, because I’m coming!’
+% Then saying wearily: ‘come, because I'm coming!'
 % Then having me forge two nails in the kiln:
 % These are the fetters that have kept me chained.
 %
@@ -38,7 +38,7 @@
 % in Honour of
 % Bonnie J. Blackburn
 %
-% ‘Un baciar furioso, un dispogliarsi’:
+% ‘Un baciar furioso, un dispogliarsi':
 % Costanzo Festa and Eroticism
 % Massimo Privitera
 
@@ -82,22 +82,22 @@ cantusXX = \relative c'' {
 
 cantusLyricsXX = \lyricmode {
     Un ba -- ciar fu -- ri -- o -- so~un di -- spo -- gli -- ar -- si,
-    Un es -- ser nu -- da~e di -- r’a fat -- t’in fret -- ta!
-    Un ca -- val -- car di so -- pr’al -- la gia -- net -- ta,
-    Un pi -- gli -- ar -- l’a duo ma -- n'e~in -- fil -- zar -- si;
-    Un vol -- ger d’oc -- ch'in stor -- ta~e ri -- me -- nar -- si
-    Con u -- na ma -- n’a -- per -- ta, e l’al -- tra stret -- ta,
+    Un es -- ser nu -- da~e di -- r'a fat -- t'in fret -- ta!
+    Un ca -- val -- car di so -- pr'al -- la gia -- net -- ta,
+    Un pi -- gli -- ar -- l'a duo ma -- n'e~in -- fil -- zar -- si;
+    Un vol -- ger d'oc -- ch'in stor -- ta~e ri -- me -- nar -- si
+    Con u -- na ma -- n'a -- per -- ta, e l'al -- tra stret -- ta,
     Un ma -- ci -- nar a tem -- po~e dir: a -- spet -- ta!
-    Un cor -- rer pa -- r’e nel fi -- nir scon -- trar -- si;
+    Un cor -- rer pa -- r'e nel fi -- nir scon -- trar -- si;
 
     Un chia -- mar -- mi per no -- me: tra -- di -- to -- rac -- cio!
     Un gri -- dar a -- ne -- lan -- do~e tut -- ta cal -- da,
     Vi -- brar la lin -- gua co -- me~i ser -- pi fan -- no;
-    Un tut -- ta stan -- ca __ dir: __ Or fa ch’io fac -- cio,
+    Un tut -- ta stan -- ca __ dir: __ Or fa ch'io fac -- cio,
     E far -- mi far duo chio -- di~a u -- na cal -- da:
-    Son le ca -- te -- ne che __ le -- ga -- to m’han -- no,
+    Son le ca -- te -- ne che __ le -- ga -- to m'han -- no,
     \ijLyrics
-    son le ca -- te -- ne che le -- ga -- to m’han -- no.
+    son le ca -- te -- ne che le -- ga -- to m'han -- no.
     \normalLyrics
 }
 
@@ -144,23 +144,23 @@ altusXX = \relative c' {
 altusLyricsXX = \lyricmode {
     Un ba -- ciar fu -- ri -- o -- so~un di -- spo -- gli -- ar -- si,
 %    % Un es -- ser nu -- da
-        e di -- r’a fat -- t’in fret -- ta!
-    Un ca -- val -- car di so -- pr’al -- la gia -- net -- ta,
-    Un pi -- gli -- ar -- l’a duo ma -- n'e~in -- fil -- zar -- si;
-    Un vol -- ger d’oc -- chi in stor -- ta~e ri -- me -- nar -- si
-    Con u -- na ma -- n’a -- per -- ta, e l’al -- tra stret -- ta,
+        e di -- r'a fat -- t'in fret -- ta!
+    Un ca -- val -- car di so -- pr'al -- la gia -- net -- ta,
+    Un pi -- gli -- ar -- l'a duo ma -- n'e~in -- fil -- zar -- si;
+    Un vol -- ger d'oc -- chi in stor -- ta~e ri -- me -- nar -- si
+    Con u -- na ma -- n'a -- per -- ta, e l'al -- tra stret -- ta,
     Un ma -- ci -- nar a tem -- po e dir: a -- spet -- ta!
-    Un cor -- rer pa -- r’e nel fi -- nir scon -- trar -- si;
+    Un cor -- rer pa -- r'e nel fi -- nir scon -- trar -- si;
 
 %    % Un chia -- mar -- mi per no -- me: tra -- di -- to -- rac -- cio!
         tra -- di -- to -- rac -- cio!
     Un gri -- dar a -- ne -- lan -- do~e __ tut -- ta cal -- da,
     Vi -- brar la lin -- gua co -- me~i ser -- pi fan -- no;
-    Un tut -- ta stan -- ca dir: Or fa __ ch’io fac -- cio,
+    Un tut -- ta stan -- ca dir: Or fa __ ch'io fac -- cio,
     E far -- mi far duo chio -- di~a u -- na cal -- da:
-    Son le ca -- te -- ne che __ le -- ga -- to m’han -- no,
+    Son le ca -- te -- ne che __ le -- ga -- to m'han -- no,
     \ijLyrics
-    son le ca -- te -- ne che le -- ga -- to m’han -- no.
+    son le ca -- te -- ne che le -- ga -- to m'han -- no.
     \normalLyrics
 }
 
@@ -206,26 +206,26 @@ tenorLyricsXX = \lyricmode {
     Un ba -- ciar fu -- ri -- o -- so,
 %        % un di -- spo -- gli -- ar -- si,
 %    % Un es -- ser nu -- da
-        e di -- r’a fat -- t’in fret -- ta!
-    Un ca -- val -- car di so -- pr’al -- la gia -- net -- ta,
-    Un pi -- gli -- ar -- l’a duo ma -- n'e~in -- fil -- zar -- si;
-    Un vol -- ger d’oc -- chi % in stor -- t’e ri -- me -- nar -- si
+        e di -- r'a fat -- t'in fret -- ta!
+    Un ca -- val -- car di so -- pr'al -- la gia -- net -- ta,
+    Un pi -- gli -- ar -- l'a duo ma -- n'e~in -- fil -- zar -- si;
+    Un vol -- ger d'oc -- chi % in stor -- t'e ri -- me -- nar -- si
         e ri -- me -- nar -- si
-    Con u -- na ma -- n’a -- per -- ta, e l’al -- tra stret -- ta,
+    Con u -- na ma -- n'a -- per -- ta, e l'al -- tra stret -- ta,
     Un ma -- ci -- nar a tem -- po, e dir: a -- spet -- ta!
-    Un cor -- rer pa -- r’e nel fi -- nir scon -- trar -- si;
+    Un cor -- rer pa -- r'e nel fi -- nir scon -- trar -- si;
 
     Un chia -- mar -- mi per no -- me: tra -- di -- to -- rac -- cio!
     Un gri -- dar a -- ne -- lan -- do~e tut -- ta cal -- da,
     Vi -- brar la lin -- gua co -- me~i ser -- pi fan -- no;
-    Un tut -- ta stan -- ca dir: __ Or fa ch’io fac -- cio,
+    Un tut -- ta stan -- ca dir: __ Or fa ch'io fac -- cio,
 %    \ijLyrics
-%        or fa ch’io fac -- cio,
+%        or fa ch'io fac -- cio,
 %    \normalLyrics
 %    % E far -- mi far duo chio -- di a u -- na cal -- da:
-    Son le ca -- te -- ne che le -- ga -- to m’han -- no,
+    Son le ca -- te -- ne che le -- ga -- to m'han -- no,
     \ijLyrics
-    son le ca -- te -- ne che le -- ga -- to m’han -- no.
+    son le ca -- te -- ne che le -- ga -- to m'han -- no.
     \normalLyrics
 }
 
@@ -268,14 +268,14 @@ bassusLyricsXX = \lyricmode {
     Un ba -- ciar fu -- ri -- o -- so,
         % un di -- spo -- gli -- ar -- si,
     % Un es -- ser nu -- da
-        e di -- r’a fat -- t’in fret -- ta!
-    Un ca -- val -- car __ di so -- pr’al -- la gia -- net -- ta,
-    Un pi -- gli -- ar -- l’a duo ma -- n'e~in -- fil -- zar -- si;
-    Un vol -- ger d’oc -- chi % in stor -- t’e ri -- me -- nar -- si
+        e di -- r'a fat -- t'in fret -- ta!
+    Un ca -- val -- car __ di so -- pr'al -- la gia -- net -- ta,
+    Un pi -- gli -- ar -- l'a duo ma -- n'e~in -- fil -- zar -- si;
+    Un vol -- ger d'oc -- chi % in stor -- t'e ri -- me -- nar -- si
         e ri -- me -- nar -- si
-    Con u -- na ma -- n’a -- per -- ta % e l’al -- tra stret -- ta,
+    Con u -- na ma -- n'a -- per -- ta % e l'al -- tra stret -- ta,
     Un ma -- ci -- nar a tem -- po % e dir: a -- spet -- ta!
-    Un cor -- rer pa -- r’e nel fi -- nir __ scon -- trar -- si;
+    Un cor -- rer pa -- r'e nel fi -- nir __ scon -- trar -- si;
 
     % Un chia -- mar -- mi per no -- me: tra -- di -- to -- rac -- cio!
         tra -- di -- to -- rac -- cio! __
@@ -283,14 +283,14 @@ bassusLyricsXX = \lyricmode {
         e tut -- ta cal -- da,
     % Vi -- brar la lin -- gua co -- me~i ser -- pen -- ti fan -- no;
         co -- me~i ser -- pen -- ti __ fan -- no;
-    Un tut -- ta stan -- ca dir: Or fa ch’io fac -- cio,
+    Un tut -- ta stan -- ca dir: Or fa ch'io fac -- cio,
     \ijLyrics
-        or fa ch’io fac -- cio,
+        or fa ch'io fac -- cio,
     \normalLyrics
     % E far -- mi far duo chio -- di a u -- na cal -- da:
-    Son le ca -- te -- ne che le -- ga -- to m’han -- no,
+    Son le ca -- te -- ne che le -- ga -- to m'han -- no,
     \ijLyrics
-    son le ca -- te -- ne che le -- ga -- to m’han -- no.
+    son le ca -- te -- ne che le -- ga -- to m'han -- no.
     \normalLyrics
 }
 

@@ -37,10 +37,10 @@ cantusLyricsXXII = \lyricmode {
     Con quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
     Mi -- ran -- do gli~at -- ti per mio __ mal sì~a -- dor -- ni,
 
-    Piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~Ad
+    Piac -- cia -- ti~o -- mai col tuo lu -- me ch'io tor -- ni~Ad
         al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
-    Sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
-    sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
+    Sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se,
+    sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se,
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
     il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni. __
 }
@@ -85,10 +85,10 @@ altusLyricsXXII = \lyricmode {
     Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
     mi -- ran -- do gli~at -- ti per __ mio mal __ sì~a -- dor -- ni,
 
-    Piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~Ad
+    Piac -- cia -- ti~o -- mai col tuo lu -- me ch'io tor -- ni~Ad
         al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
-    Sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
-    sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
+    Sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se,
+    sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se,
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
     il __ mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
         se __ ne scor -- ni. __
@@ -136,10 +136,10 @@ tenorLyricsXXII = \lyricmode {
     Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
         per mio mal __ sì~a -- dor -- ni,
 
-    Piac -- cia -- ti~o -- mai col tuo lu -- me __ ch’io tor -- ni~Ad
+    Piac -- cia -- ti~o -- mai col tuo lu -- me __ ch'io tor -- ni~Ad
         al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
-    Sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
-    sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
+    Sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se,
+    sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se,
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
     il mio du -- ro~ad -- ver -- sa -- rio se __ ne scor -- ni,
         se ne scor -- ni.
@@ -185,10 +185,10 @@ bassusLyricsXXII = \lyricmode {
     Con quel fe -- ro de -- sio ch'al cor s'ac -- ce -- se,
     Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
 
-    Piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~Ad
+    Piac -- cia -- ti~o -- mai col tuo lu -- me ch'io tor -- ni~Ad
         al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
-    Sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
-    sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se, __
+    Sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se,
+    sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se, __
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
     il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni. __
 }
@@ -233,10 +233,10 @@ quintusLyricsXXII = \lyricmode {
     Mi -- ran -- do gli~at -- ti per mio mal sì~a -- dor -- ni,
     mi -- ran -- do gli~at -- ti per mio mal __ sì~a -- dor -- ni,
 
-    Piac -- cia -- ti~o -- mai col tuo lu -- me ch’io tor -- ni~Ad
+    Piac -- cia -- ti~o -- mai col tuo lu -- me ch'io tor -- ni~Ad
         al -- tra vi -- ta et a più bel -- le~im -- pre -- se,
-    Sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se,
-    sì ch’a -- ven -- do le re -- ti~in -- dar -- no te -- se, __
+    Sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se,
+    sì ch'a -- ven -- do le re -- ti~in -- dar -- no te -- se, __
     Il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
     il mio du -- ro~ad -- ver -- sa -- rio se ne scor -- ni,
         se ne scor -- ni,

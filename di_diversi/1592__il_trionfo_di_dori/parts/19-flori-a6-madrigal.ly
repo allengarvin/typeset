@@ -1,14 +1,14 @@
 %    Più trasparente velo
 %    Non stese mai Giunone,
 %    Ne febo risplendete,
-%    Sorse dall’Oriente,
+%    Sorse dall'Oriente,
 %    Ne dolci canti in cielo;
-%    S’udiro à la novell’alma stagione,
+%    S'udiro à la novell'alma stagione,
 %    Mentre a Dori corone,
 %    Tessean ninfe e pastori,
-%    E danzand’a lor canto
+%    E danzand'a lor canto
 %    Satiri e fauni in tanto
-%    Per colmarla d’onori,
+%    Per colmarla d'onori,
 %    Viva dicean viva la bella Dori.
 cantoXIXincipit = \relative c'' {
     \time 2/2
@@ -49,15 +49,15 @@ cantoLyricsXIX = \lyricmode {
     Più tra -- spa -- ren -- te ve -- lo
     Non ste -- se mai Giu -- no -- ne,
     Ne fe -- bo ri -- splen -- de -- te,
-    Sor -- se dal -- l’O -- ri -- en -- te,
-        dal -- l’O -- ri -- en -- te,
+    Sor -- se dal -- l'O -- ri -- en -- te,
+        dal -- l'O -- ri -- en -- te,
     Ne dol -- ci can -- ti~in cie -- lo;
-    S’u -- di -- ro~à la no -- vel -- l’al -- ma sta -- gio -- ne,
+    S'u -- di -- ro~à la no -- vel -- l'al -- ma sta -- gio -- ne,
     Men -- tre~a Do -- ri co -- ro -- ne,
     Tes -- sean __ nin -- fe~e pa -- sto -- ri,
-    E dan -- zan -- d’a lor can -- to
+    E dan -- zan -- d'a lor can -- to
     Sa -- ti -- ri~e fau -- ni in tan -- to
-    Per __ col -- mar -- la d’o -- no -- ri,
+    Per __ col -- mar -- la d'o -- no -- ri,
     Vi -- va di -- cean vi -- va la bel -- la Do -- ri,
     vi -- va di -- cean vi -- va la bel -- la Do -- ri.
 }
@@ -107,14 +107,14 @@ altoLyricsXIX = \lyricmode {
     \ijLyrics
     ne fe -- bo ri -- splen -- de -- te,
     \normalLyrics
-    Sor -- se dal -- l’O -- ri -- en -- te,
+    Sor -- se dal -- l'O -- ri -- en -- te,
     Ne dol -- ci can -- ti,
     \ijLyrics
     ne dol -- ci can -- ti~in 
     \normalLyrics
         cie -- lo,
     ne dol -- ci __ can -- ti~in cie -- lo;
-    S’u -- di -- ro~à la no -- vel -- l’al -- ma sta -- gio -- ne,
+    S'u -- di -- ro~à la no -- vel -- l'al -- ma sta -- gio -- ne,
     Men -- tre~a Do -- ri co -- ro -- ne,
     \ijLyrics
     men -- tre~a Do -- ri co -- ro -- ne,
@@ -123,12 +123,12 @@ altoLyricsXIX = \lyricmode {
     \ijLyrics
         tes -- sean nin -- fe~e pa -- sto -- ri,
     \normalLyrics
-    E dan -- zan -- d’a lor can -- to
+    E dan -- zan -- d'a lor can -- to
     Sa -- ti -- ri~e fau -- ni~in tan -- to,
         in tan -- to
-    Per col -- mar -- la d’o -- no -- ri,
+    Per col -- mar -- la d'o -- no -- ri,
     \ijLyrics
-    per __ col -- mar -- la d’o -- no -- ri,
+    per __ col -- mar -- la d'o -- no -- ri,
     \normalLyrics
     Vi -- va di -- cean vi -- va la bel -- la Do -- ri,
     vi -- va di -- cean vi -- va la bel -- la Do -- ri,
@@ -173,14 +173,14 @@ tenoreXIX = \relative c' {
 tenoreLyricsXIX = \lyricmode {
     Non ste -- se mai Giu -- no -- ne,
     Ne fe -- bo ri -- splen -- de -- te,
-    Sor -- se dal -- l’O -- ri -- en -- te,
+    Sor -- se dal -- l'O -- ri -- en -- te,
     Ne dol -- ci can -- ti~in cie -- lo;
-    S’u -- di -- ro~à la no -- vel -- l’al -- ma sta -- gio -- ne,
+    S'u -- di -- ro~à la no -- vel -- l'al -- ma sta -- gio -- ne,
     Men -- tre~a Do -- ri co -- ro -- ne,
     Tes -- sean __ nin -- fe~e pa -- sto -- ri,
-    E dan -- zan -- d’a lor can -- to
+    E dan -- zan -- d'a lor can -- to
     Sa -- ti -- ri~e fau -- ni~in tan -- to
-    Per col -- mar -- la d’o -- no -- ri,
+    Per col -- mar -- la d'o -- no -- ri,
     Vi -- va di -- cean vi -- va la bel -- la Do -- ri,
     vi -- va di -- cean vi -- va la bel -- la Do -- ri,
     vi -- va di -- cean vi -- va la bel -- la Do -- ri.
@@ -217,12 +217,12 @@ bassoXIX = \relative c' {
 
 bassoLyricsXIX = \lyricmode {
     Ne fe -- bo ri -- splen -- de -- te,
-    Sor -- se dal -- l’O -- ri -- en -- te,
+    Sor -- se dal -- l'O -- ri -- en -- te,
     Ne dol -- ci can -- ti~in cie -- lo;
     Men -- tre~a Do -- ri co -- ro -- ne,
     Tes -- sean __ nin -- fe~e pa -- sto -- ri,
         in tan -- to
-    Per col -- mar -- la d’o -- no -- ri,
+    Per col -- mar -- la d'o -- no -- ri,
     Vi -- va di -- cean vi -- va la bel -- la Do -- ri,
     vi -- va di -- cean vi -- va la bel -- la Do -- ri.
 }
@@ -259,13 +259,13 @@ quintoXIX = \relative c'' {
 
 quintoLyricsXIX = \lyricmode {
     Ne fe -- bo ri -- splen -- de -- te,
-    Sor -- se dal -- l’O -- ri -- en -- te,
+    Sor -- se dal -- l'O -- ri -- en -- te,
     Ne dol -- ci __ can -- ti~in cie -- lo;
     Men -- tre~a Do -- ri co -- ro -- ne,
     Tes -- sean __ nin -- fe~e pa -- sto -- ri,
         in tan -- to,
         in tan -- to
-    Per col -- mar -- la d’o -- no -- ri,
+    Per col -- mar -- la d'o -- no -- ri,
     Vi -- va di -- cean vi -- va la bel -- la Do -- ri,
     vi -- va di -- cean vi -- va la __ bel -- la Do -- ri.
 }
@@ -316,17 +316,17 @@ sestoLyricsXIX = \lyricmode {
     \ijLyrics
     ne fe -- bo ri -- splen -- de -- te,
     \normalLyrics
-    Sor -- se dal -- l’O -- ri -- en -- te,
+    Sor -- se dal -- l'O -- ri -- en -- te,
     Ne dol -- ci can -- ti~in cie -- lo,
     \ijLyrics
     ne dol -- ci can -- ti~in cie -- lo;
     \normalLyrics
-    S’u -- di -- ro~à la no -- vel -- l’al -- ma sta -- gio -- ne,
+    S'u -- di -- ro~à la no -- vel -- l'al -- ma sta -- gio -- ne,
     Men -- tre~a Do -- ri __ co -- ro -- ne,
     Tes -- sean __ nin -- fe~e pa -- sto -- ri,
-    E dan -- zan -- d’a lor can -- to
+    E dan -- zan -- d'a lor can -- to
     Sa -- ti -- ri~e fau -- ni in tan -- to
-    Per col -- mar -- la d’o -- no -- ri,
+    Per col -- mar -- la d'o -- no -- ri,
     Vi -- va di -- cean vi -- va la bel -- la Do -- ri,
     vi -- va di -- cean vi -- va la bel -- la Do -- ri.
 }

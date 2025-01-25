@@ -1,7 +1,7 @@
 % can't finish until I get the scans from Christ Church
 
 % Basso solo:
-% No, no, ch’io non mi fido
+% No, no, ch'io non mi fido
 % di tue lusinghe e risi,
 % di tuoi vezzi e sorrisi,
 % del tuo parlar infido.
@@ -14,13 +14,13 @@
 % No, no, che più non credo
 % ai detti, ai giuramenti,
 % ai sospiri, ai lamenti,
-% che finti ogn’or li vedo. 
+% che finti ogn'or li vedo. 
 
 % Insieme:
 % Cangia donna pensier etc. 
 
 % Basso solo:
-% Sì, sì, ch’io ti conosco;
+% Sì, sì, ch'io ti conosco;
 % Or sei lupa, or agnella,
 % or sei lampo, or sei stella,
 % col dolce mischi il tosco. 
@@ -29,7 +29,7 @@
 % Cangia donna pensier etc.
 
 % Canto solo:
-% Sì, sì, ch’io t’ho provata,
+% Sì, sì, ch'io t'ho provata,
 % mentitrice, bugiarda,
 % traditrice, infingarda (*),    (*) lusingarda in edizione di 1635.
 % senza fè, sciagurata.
@@ -126,8 +126,8 @@ cantoLyricsIV = \lyricmode {
     No, no, no, no, no,
         che __ più non cre -- do ai det -- ti~ai giu -- ra -- men -- ti,
         ai, ai so -- spi -- ri~ai la -- men -- ti,
-        che fin -- ti~o -- gn’or, __
-            o -- gn’or __ li ve -- do.
+        che fin -- ti~o -- gn'or, __
+            o -- gn'or __ li ve -- do.
 
     No, no, no, no, no, no, no, 
         che più,
@@ -223,7 +223,7 @@ bassoIV = \relative c' {
 
 bassoLyricsIV = \lyricmode {
     No, no, no, no, no, no, no,
-        ch’io non mi fi -- do
+        ch'io non mi fi -- do
     di tue lu -- sin -- ghe~e ri -- si,
     di tuoi vez -- zi~e sor -- ri -- si,
     del tuo par -- lar,
@@ -234,7 +234,7 @@ bassoLyricsIV = \lyricmode {
          in -- fi -- do.
 
     No, no, no, no, no, no, no, no,
-        ch’io non mi fi -- do
+        ch'io non mi fi -- do
 
     Can -- gia don -- na pen -- sier,
     \ijLyrics
@@ -251,13 +251,13 @@ bassoLyricsIV = \lyricmode {
         e fo -- glia~al ven -- to. __
 
     Sì, sì, sì,
-    sì, sì, sì, ch’io ti co -- no -- sco,
-    sì, sì, sì, ch’io ti co -- no -- sco:
+    sì, sì, sì, ch'io ti co -- no -- sco,
+    sì, sì, sì, ch'io ti co -- no -- sco:
     Or sei lu -- pa~or a -- gnel -- la,
     or sei lam -- po~or sei stel -- la,
         col dol -- ce mi -- schi~il to -- sco,
     Sì, sì, sì, sì,
-    sì, sì, sì, ch’io ti co -- no -- sco.
+    sì, sì, sì, ch'io ti co -- no -- sco.
 
     Ne -- ve~al sol, ce -- ra~al fo -- co, e __ fo -- glia~al ven -- to, __
 

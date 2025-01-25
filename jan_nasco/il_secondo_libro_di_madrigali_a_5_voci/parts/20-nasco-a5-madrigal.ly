@@ -34,8 +34,8 @@ cantusLyricsXX = \lyricmode {
     E ca -- va -- lie -- ri~e da -- mi -- gel -- le, e~o -- gnu -- na
     Per -- so -- na, o pa -- e -- sa -- na~o vi -- an -- dan -- te,
     Che qui sua vo -- lon -- tà me -- ni~o For -- tu -- na;
-%    Ch’al -- l’er -- be, al -- l’om -- bre, 
-%        al -- l’an -- tro, al rio, al -- le pian -- te
+%    Ch'al -- l'er -- be, al -- l'om -- bre, 
+%        al -- l'an -- tro, al rio, al -- le pian -- te
 %    Di -- ca: 
         be -- ni -- gno~ab -- bia -- te~e so -- le~e lu -- na,
     E del -- le nin -- fe~il co -- ro, che pro -- veg -- gia
@@ -82,7 +82,7 @@ altusLyricsXX = \lyricmode {
     E ca -- va -- lie -- ri~e da -- mi -- gel -- le, e~o -- gnu -- na
     Per -- so -- na, o pa -- e -- sa -- na~o vi -- an -- dan -- te,
     Che qui sua vo -- lon -- tà me -- ni o For -- tu -- na;
-    Ch’al -- l’er -- be, al -- l’om -- bre~al -- l’an -- tro~al rio~al -- le 
+    Ch'al -- l'er -- be, al -- l'om -- bre~al -- l'an -- tro~al rio~al -- le 
         pian -- te
     Di -- ca:
         be -- ni -- gno~ab -- bia -- te~e so -- le~e lu -- na,
@@ -133,7 +133,7 @@ tenorLyricsXX = \lyricmode {
         e~o -- gnu -- na
     per -- so -- na, o pa -- e -- sa -- na~o vi -- an -- dan -- te,
     Che qui sua vo -- lon -- tà me -- ni~o For -- tu -- na;
-    Ch’al -- l’er -- be~al -- l’om -- bre~al -- l’an -- tro~al ri -- o~al -- le 
+    Ch'al -- l'er -- be~al -- l'om -- bre~al -- l'an -- tro~al ri -- o~al -- le 
         pian -- te
     Di -- ca:
         be -- ni -- gno~ab -- bia -- te~e so -- le~e lu -- na,
@@ -181,7 +181,7 @@ bassusLyricsXX = \lyricmode {
         e~o -- gnu -- na
     per -- so -- na, o pa -- e -- sa -- na~o vi -- an -- dan -- te,
     Che qui sua vo -- lon -- tà me -- ni~o __ For -- tu -- na;
-    Ch’al -- l’er -- be~al -- l’om -- bre~al -- l’an -- tro
+    Ch'al -- l'er -- be~al -- l'om -- bre~al -- l'an -- tro
         al ri -- o~al -- le pian -- te
     Di -- ca:
         be -- ni -- gno~ab -- bia -- te~e so -- le~e lu -- na,
@@ -235,7 +235,7 @@ quintusLyricsXX = \lyricmode {
         o pa -- e -- sa -- na o vi -- an -- dan -- te,
     Che qui sua vo -- lon -- tà me -- ni~o For -- tu -- na,
         o For -- tu -- na;
-    Ch’al -- l’er -- be~al -- l’om -- bre~al -- l’an -- tro~al ri -- o~al -- le pian -- te
+    Ch'al -- l'er -- be~al -- l'om -- bre~al -- l'an -- tro~al ri -- o~al -- le pian -- te
     Di -- ca:
         be -- ni -- gno~ab -- bia -- te~e so -- le~e lu -- na,
     E del -- le nin -- fe~il co -- ro,

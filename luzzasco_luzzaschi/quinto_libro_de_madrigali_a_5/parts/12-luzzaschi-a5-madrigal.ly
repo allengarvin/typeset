@@ -1,11 +1,11 @@
 % Allor fia lieto il core,
-% che ne l’aprir queste mie luci oscure,
+% che ne l'aprir queste mie luci oscure,
 % dal caro oggetto avran chiaro splendore.
-% Ne’ pria che lui ritorni
-% cesserà il pianto de’ miei tristi giorni.
+% Ne' pria che lui ritorni
+% cesserà il pianto de' miei tristi giorni.
 % Ahi, ben son aspre e dure
 % di questo cor le pene,
-% poiché di pianto Amor vivo se’l tiene.
+% poiché di pianto Amor vivo se'l tiene.
 % 
 % Soon the heart shall rejoice,
 % when as my dark eyes open,
@@ -53,25 +53,25 @@ cantoXII = \relative c''' {
 
 cantoLyricsXII = \lyricmode {
     Al -- lor fia lie -- to~il co -- re,
-    Che ne l’a -- prir que -- ste mie lu -- ci,
+    Che ne l'a -- prir que -- ste mie lu -- ci,
         que -- ste mie lu -- ci~o -- scu -- re,
     Dal ca -- ro~og -- get -- to~a -- vran chia -- ro splen -- do -- re;
     al -- lor fia lie -- to~il co -- re,
-    che ne l’a -- prir que -- ste mie lu -- ci~o -- scu -- re,
+    che ne l'a -- prir que -- ste mie lu -- ci~o -- scu -- re,
     dal ca -- ro~og -- get -- to~a -- vran chia -- ro splen -- do -- re.
-    Ne’ pria che lui __ ri -- tor -- ni
-    ne’ pria che lui ri -- tor -- ni
+    Ne' pria che lui __ ri -- tor -- ni
+    ne' pria che lui ri -- tor -- ni
     Ces -- se -- rà~il pian -- to,
-    ces -- se -- rà~il pian -- to de’ miei tri -- sti gior -- ni,
-        de’ miei tri -- sti gior -- ni.
+    ces -- se -- rà~il pian -- to de' miei tri -- sti gior -- ni,
+        de' miei tri -- sti gior -- ni.
     Ahi,
     ahi, __ ben son a -- spre~e du -- re
     Di que -- sto cor le pe -- ne,
     Poi -- ché di pian -- to~A -- mor
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne.
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne.
 }
 
 altoXIIincipit = \relative c'' {
@@ -115,17 +115,17 @@ altoXII = \relative c'' {
 altoLyricsXII = \lyricmode {
     Al -- lor fia lie -- to~il co -- re,
 %        fia lie -- to~il co -- re,
-    Che ne l’a -- prir que -- ste mie lu -- ci,
+    Che ne l'a -- prir que -- ste mie lu -- ci,
         que -- ste mie lu -- ci~o -- scu -- re,
     Dal ca -- ro~og -- get -- to~a -- vran chia -- ro splen -- do -- re;
     al -- lor fia lie -- to~il co -- re,
-    che ne l’a -- prir __ que -- ste mie lu -- ci~o -- scu -- re,
+    che ne l'a -- prir __ que -- ste mie lu -- ci~o -- scu -- re,
     dal ca -- ro~og -- get -- to~a -- vran chia -- ro splen -- do -- re,
         splen -- do -- re.
-    Ne’ pria che __ lui ri -- tor -- ni
+    Ne' pria che __ lui ri -- tor -- ni
 %    Ces -- se -- rà~il pian -- to,
-    Ces -- se -- rà~il pian -- to de’ miei tri -- sti gior -- ni,
-        de’ miei tri -- sti gior -- ni.
+    Ces -- se -- rà~il pian -- to de' miei tri -- sti gior -- ni,
+        de' miei tri -- sti gior -- ni.
     Ahi,
     ahi, ben son a -- spre~e du -- re
     ahi, __ ben son a -- spre~e du -- re
@@ -135,13 +135,13 @@ altoLyricsXII = \lyricmode {
     \ijLyrics
     poi -- ché di pian -- to~A -- mor
     \normalLyrics
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne,
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne,
     \ijLyrics
-        vi -- vo se’l tie -- ne,
+        vi -- vo se'l tie -- ne,
     \normalLyrics
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne.
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne.
 }
 
 tenoreXIIincipit = \relative c'' {
@@ -185,17 +185,17 @@ tenoreXII = \relative c'' {
 tenoreLyricsXII = \lyricmode {
     Al -- lor fia lie -- to~il co -- re,
 %        fia lie -- to~il co -- re,
-    Che ne l’a -- prir que -- ste mie lu -- ci~o -- scu -- re,
+    Che ne l'a -- prir que -- ste mie lu -- ci~o -- scu -- re,
     Dal ca -- ro~og -- get -- to~a -- vran chia -- ro splen -- do -- re.
     al -- lor fia lie -- to~il co -- re,
-    che ne l’a -- prir,
-    che ne l’a -- prir que -- ste mie lu -- ci~o -- scu -- re,
+    che ne l'a -- prir,
+    che ne l'a -- prir que -- ste mie lu -- ci~o -- scu -- re,
     dal ca -- ro~og -- get -- to~a -- vran chia -- ro splen -- do -- re.
-    Ne’ pria che lui __ ri -- tor -- ni
-    ne’ pria __ che lui ri -- tor -- ni
+    Ne' pria che lui __ ri -- tor -- ni
+    ne' pria __ che lui ri -- tor -- ni
     Ces -- se -- rà~il pian -- to,
-    ces -- se -- rà~il pian -- to de’ miei tri -- sti gior -- ni,
-        de’ miei tri -- sti gior -- ni.
+    ces -- se -- rà~il pian -- to de' miei tri -- sti gior -- ni,
+        de' miei tri -- sti gior -- ni.
     Ahi,
     ahi, ben son a -- spre~e du -- re,
     ahi, __ ben son a -- spre~e du -- re
@@ -203,11 +203,11 @@ tenoreLyricsXII = \lyricmode {
     di que -- sto cor le pe -- ne,
     Poi -- ché di pian -- to~A -- mor,
     poi -- ché di pian -- to~A -- mor
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne,
-            se’l tie -- ne,
-        vi -- vo se’l tie -- ne,
-            se’l tie -- ne.
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne,
+            se'l tie -- ne,
+        vi -- vo se'l tie -- ne,
+            se'l tie -- ne.
 }
 
 bassoXIIincipit = \relative c' {
@@ -245,11 +245,11 @@ bassoXII = \relative c' {
 bassoLyricsXII = \lyricmode {
     Al -- lor fia lie -- to~il co -- re,
 %        fia lie -- to~il co -- re,
-    Che ne l’a -- prir que -- ste mie lu -- ci~o -- scu -- re,
+    Che ne l'a -- prir que -- ste mie lu -- ci~o -- scu -- re,
     Dal ca -- ro~og -- get -- to~a -- vran chia -- ro splen -- do -- re.
-    Ne’ pria __ che lui ri -- tor -- ni
+    Ne' pria __ che lui ri -- tor -- ni
     Ces -- se -- rà~il pian -- to,
-    ces -- se -- rà~il pian -- to de’ miei tri -- sti gior -- ni.
+    ces -- se -- rà~il pian -- to de' miei tri -- sti gior -- ni.
     Ahi,
     ahi, ben son a -- spre~e du -- re
     Di que -- sto cor le pe -- ne,
@@ -260,10 +260,10 @@ bassoLyricsXII = \lyricmode {
     \ijLyrics
     poi -- ché di pian -- to~A -- mor
     \normalLyrics
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne.
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne.
 }
 
 quintoXIIincipit = \relative c'' {
@@ -305,13 +305,13 @@ quintoXII = \relative c'' {
 quintoLyricsXII = \lyricmode {
     Al -- lor fia lie -- to~il co -- re,
         fia lie -- to~il co -- re,
-    Che ne l’a -- prir que -- ste mie lu -- ci~o -- scu -- re,
+    Che ne l'a -- prir que -- ste mie lu -- ci~o -- scu -- re,
     Dal ca -- ro~og -- get -- to~a -- vran,
         a -- vran chia -- ro splen -- do -- re.
-    Ne’ pria che lui ri -- tor -- ni
-    ne’ pria che lui ri -- tor -- ni
+    Ne' pria che lui ri -- tor -- ni
+    ne' pria che lui ri -- tor -- ni
     Ces -- se -- rà~il pian -- to,
-    ces -- se -- rà~il pian -- to de’ miei tri -- sti gior -- ni.
+    ces -- se -- rà~il pian -- to de' miei tri -- sti gior -- ni.
     Ahi,
     ahi, ben son a -- spre~e du -- re
     ahi, __ ben son a -- spre~e du -- re
@@ -321,10 +321,10 @@ quintoLyricsXII = \lyricmode {
     \ijLyrics
     poi -- ché di pian -- to~A -- mor
     \normalLyrics
-        vi -- vo se’l tie -- ne,
-        vi -- vo se’l tie -- ne,
-            se’l tie -- ne,
-        vi -- vo se’l tie -- ne.
+        vi -- vo se'l tie -- ne,
+        vi -- vo se'l tie -- ne,
+            se'l tie -- ne,
+        vi -- vo se'l tie -- ne.
 }
 
 cantoXIIincipitVoice = <<

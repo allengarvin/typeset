@@ -1,10 +1,10 @@
 %Con voi giocando Amor, a voi simile,
-%Involast’ all’incauto la faretra:
-%Egli, perché s’arretra
+%Involast' all'incauto la faretra:
+%Egli, perché s'arretra
 %Per poca offesa alle più gravi umile,
-%Scoperto il furto, di ch’al fin s’avvide,
+%Scoperto il furto, di ch'al fin s'avvide,
 %Irossi, e non fu parco
-%A por la mano all’arco
+%A por la mano all'arco
 %Per ferirvi. Ma vide le saette 
 %Dal fianco suo divise,
 %E le due luci fide,
@@ -54,23 +54,23 @@ cantoXXI = \relative c' {
 
 cantoLyricsXXI = \lyricmode {
     Con voi gio -- can -- do~A -- mor, a voi si -- mi -- le,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
     In -- vo -- la -- ste
     \ijLyrics
     In -- vo -- la -- ste~a 
     \normalLyrics 
-        l’in -- cau -- to la fa -- re -- tra,
+        l'in -- cau -- to la fa -- re -- tra,
         la fa -- re -- tra,
     Con voi gio -- can -- do~A -- mor, a voi si -- mi -- le,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la __ fa -- re -- tra,
-    E -- gli, per -- ché s’ar -- re -- tra
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la __ fa -- re -- tra,
+    E -- gli, per -- ché s'ar -- re -- tra
     Per po -- ca of -- fe -- sa~al -- le più __ 
         gra -- vi~u -- mi -- le~al -- le più gra -- vi~u -- mi -- le,
-    Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
+    Sco -- per -- to~il fur -- to, di ch'al fin s'av -- vi -- de,
     I -- ros -- si, e non fu par -- co
-    A por la ma -- no~al -- l’ar -- co
+    A por la ma -- no~al -- l'ar -- co
     Per fe -- rir -- vi. Ma vi -- de le sa -- et -- te 
     Dal fian -- co suo di -- vi -- se,
     Ma vi -- de le sa -- et -- te 
@@ -127,22 +127,22 @@ altoXXI = \relative c' {
 }
 
 altoLyricsXXI = \lyricmode {
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra, __
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra, __
     Con voi gio -- can -- do~A -- mor, a voi si -- mi -- le,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra, __
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra, __
         la fa -- re -- tra,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la __ fa -- re -- tra,
-    E -- gli, per -- ché s’ar -- re -- tra
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la __ fa -- re -- tra,
+    E -- gli, per -- ché s'ar -- re -- tra
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
-    E -- gli, per -- ché s’ar -- re -- tra
+    E -- gli, per -- ché s'ar -- re -- tra
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
-    Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
+    Sco -- per -- to~il fur -- to, di ch'al fin s'av -- vi -- de,
     I -- ros -- si~e non fu par -- co
-    A por la ma -- no~al -- l’ar -- co
+    A por la ma -- no~al -- l'ar -- co
     Per fe -- rir -- vi.
-    A por la ma -- no~al -- l’ar -- co
+    A por la ma -- no~al -- l'ar -- co
     Per fe -- rir -- vi. Ma vi -- de le sa -- et -- te 
     Dal fian -- co suo di -- vi -- se,
     Ma vi -- de le sa -- et -- te 
@@ -195,25 +195,25 @@ tenoreXXI = \relative c' {
 }
 
 tenoreLyricsXXI = \lyricmode {
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
     Con voi gio -- can -- do~A -- mor, a voi si -- mi -- le,
     Con voi gio -- can -- do~A -- mor, a voi si -- mi -- le,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    E -- gli, per -- ché s’ar -- re -- tra
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    E -- gli, per -- ché s'ar -- re -- tra
     \ijLyrics
-    E -- gli, per -- ché s’ar -- re -- tra
+    E -- gli, per -- ché s'ar -- re -- tra
     \normalLyrics
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
-    Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
+    Sco -- per -- to~il fur -- to, di ch'al fin s'av -- vi -- de,
     I -- ros -- si, 
     \ijLyrics
     I -- ros -- si, 
     \normalLyrics
         e non fu par -- co
-    A por la ma -- no~al -- l’ar -- co
+    A por la ma -- no~al -- l'ar -- co
     Per fe -- rir -- vi,
     Per fe -- rir -- vi. 
-    A por la ma -- no~al -- l’ar -- co
+    A por la ma -- no~al -- l'ar -- co
     Per fe -- rir -- vi.  Ma vi -- de le sa -- et -- te 
     Dal fian -- co suo di -- vi -- se,
     Dal fian -- co suo di -- vi -- se,
@@ -271,17 +271,17 @@ bassoXXI = \relative c {
 
 bassoLyricsXXI = \lyricmode {
     Con voi gio -- can -- do~A -- mor, a voi si -- mi -- le,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra, __
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la __ fa -- re -- tra,
-    E -- gli, per -- ché s’ar -- re -- tra
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra, __
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la __ fa -- re -- tra,
+    E -- gli, per -- ché s'ar -- re -- tra
     \ijLyrics
-    E -- gli, per -- ché s’ar -- re -- tra
+    E -- gli, per -- ché s'ar -- re -- tra
     \normalLyrics
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
-    Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
+    Sco -- per -- to~il fur -- to, di ch'al fin s'av -- vi -- de,
     I -- ros -- si, e non fu par -- co
-    A por la ma -- no~al -- l’ar -- co
+    A por la ma -- no~al -- l'ar -- co
     Per fe -- rir -- vi. Ma vi -- de le sa -- et -- te 
     Dal fian -- co suo di -- vi -- se,
     Dal fian -- co suo di -- vi -- se,
@@ -338,22 +338,22 @@ quintoXXI = \relative c' {
 
 quintoLyricsXXI = \lyricmode {
     Con voi gio -- can -- do~A -- mor, a voi si -- mi -- le,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
     Con voi gio -- can -- do~A -- mor, a voi si -- mi -- le,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    In -- vo -- la -- ste~al -- l’in -- cau -- to la fa -- re -- tra,
-    E -- gli, per -- ché s’ar -- re -- tra
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    In -- vo -- la -- ste~al -- l'in -- cau -- to la fa -- re -- tra,
+    E -- gli, per -- ché s'ar -- re -- tra
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
     Per po -- ca~of -- fe -- sa~al -- le più gra -- vi~u -- mi -- le,
-    Sco -- per -- to~il fur -- to, di ch’al fin s’av -- vi -- de,
+    Sco -- per -- to~il fur -- to, di ch'al fin s'av -- vi -- de,
     I -- ros -- si, 
     \ijLyrics
     I -- ros -- si,
     \normalLyrics
         e non fu par -- co
-    A por la ma -- no~al -- l’ar -- co
+    A por la ma -- no~al -- l'ar -- co
     Per fe -- rir -- vi,
     Per fe -- rir -- vi. Ma vi -- de le sa -- et -- te 
     Dal fian -- co suo di -- vi -- se,

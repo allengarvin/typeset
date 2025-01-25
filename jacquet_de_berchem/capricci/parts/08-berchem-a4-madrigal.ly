@@ -1,11 +1,11 @@
-%   48 Mentre costui così s’affligge e duole,
+%   48 Mentre costui così s'affligge e duole,
 %      e fa degli occhi suoi tepida fonte,
 %      e dice queste e molte altre parole,
 %      che non mi par bisogno esser racconte;
-%      l’aventurosa sua fortuna vuole
-%      ch’alle orecchie d’Angelica sian conte:
-%      e così quel ne viene a un’ora, a un punto,
-%      ch’in mille anni o mai più non è raggiunto.
+%      l'aventurosa sua fortuna vuole
+%      ch'alle orecchie d'Angelica sian conte:
+%      e così quel ne viene a un'ora, a un punto,
+%      ch'in mille anni o mai più non è raggiunto.
 
 cantoVIIIincipit = \relative c' {
     \time 2/2
@@ -38,16 +38,16 @@ cantoVIII = \relative c' {
 }
 
 cantoLyricsVIII = \lyricmode {
-    Men -- tre co -- stui co -- sì s’af -- flig -- ge~e duo -- le,
+    Men -- tre co -- stui co -- sì s'af -- flig -- ge~e duo -- le,
     E fa de -- gli~oc -- chi suoi te -- pi -- da fon -- te,
     E di -- ce que -- ste~e mol -- te~al -- tre pa -- ro -- le,
     Che non mi par bi -- so -- gno~es -- ser rac -- con -- te;
-    L’a -- ven -- tu -- ro -- sa sua for -- tu -- na vuo -- le
-    Ch’al -- le~o -- rec -- chie d’An -- ge -- li -- ca sian con -- te:
-    E co -- sì quel ne vie -- ne~a un’o -- ra~a~un pun -- to,
-        a un’o -- ra~a~un pun -- to,
-    Ch’in __ mil -- le~an -- ni~o mai più non è rag -- giun -- to,
-    Ch’in mil -- le~an -- ni~o mai più non __ è rag -- giun -- to,
+    L'a -- ven -- tu -- ro -- sa sua for -- tu -- na vuo -- le
+    Ch'al -- le~o -- rec -- chie d'An -- ge -- li -- ca sian con -- te:
+    E co -- sì quel ne vie -- ne~a un'o -- ra~a~un pun -- to,
+        a un'o -- ra~a~un pun -- to,
+    Ch'in __ mil -- le~an -- ni~o mai più non è rag -- giun -- to,
+    Ch'in mil -- le~an -- ni~o mai più non __ è rag -- giun -- to,
         non è rag -- giun -- to.
 }
 
@@ -84,17 +84,17 @@ altoVIII = \relative c' {
 }
 
 altoLyricsVIII = \lyricmode {
-    Men -- tre co -- stui co -- sì s’af -- flig -- ge~e duo -- le,
+    Men -- tre co -- stui co -- sì s'af -- flig -- ge~e duo -- le,
     E fa de -- gli~oc -- chi suoi te -- pi -- da fon -- te,
         te -- pi -- da fon -- te,
     E di -- ce que -- ste~e mol -- te~al -- tre pa -- ro -- le,
     Che non mi par bi -- so -- gno~es -- ser rac -- con -- te;
-    L’a -- ven -- tu -- ro -- sa sua for -- tu -- na vuo -- le
-    Ch’al -- le~o -- rec -- chie d’An -- ge -- li -- ca sian con -- te:
-    E co -- sì quel ne vie -- ne~a un’o -- ra~a~un pun -- to,
-        ne vie -- ne~a un’o -- ra~a~un pun -- to,
-    Ch’in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
-    Ch’in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
+    L'a -- ven -- tu -- ro -- sa sua for -- tu -- na vuo -- le
+    Ch'al -- le~o -- rec -- chie d'An -- ge -- li -- ca sian con -- te:
+    E co -- sì quel ne vie -- ne~a un'o -- ra~a~un pun -- to,
+        ne vie -- ne~a un'o -- ra~a~un pun -- to,
+    Ch'in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
+    Ch'in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
         non è rag -- giun -- to,
         non è rag -- giun -- to.
 }
@@ -132,18 +132,18 @@ tenoreVIII = \relative c' {
 }
 
 tenoreLyricsVIII = \lyricmode {
-    Men -- tre co -- stui co -- sì s’af -- flig -- ge~e duo -- le,
+    Men -- tre co -- stui co -- sì s'af -- flig -- ge~e duo -- le,
     E fa de -- gli~oc -- chi suoi te -- pi -- da fon -- te,
         te -- pi -- da fon -- te,
     E di -- ce que -- ste~e mol -- te~al -- tre pa -- ro -- le,
     Che non mi par bi -- so -- gno~es -- ser rac -- con -- te;
-    L’a -- ven -- tu -- ro -- sa sua for -- tu -- na vuo -- le
-    Ch’al -- le~o -- rec -- chie d’An -- ge -- li -- ca sian con -- te: __
-    E co -- sì quel ne vie -- ne~a un’o -- ra~a~un pun -- to,
-    E co -- sì quel ne vie -- ne~a un’o -- ra~a~un pun -- to,
-    Ch’in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
+    L'a -- ven -- tu -- ro -- sa sua for -- tu -- na vuo -- le
+    Ch'al -- le~o -- rec -- chie d'An -- ge -- li -- ca sian con -- te: __
+    E co -- sì quel ne vie -- ne~a un'o -- ra~a~un pun -- to,
+    E co -- sì quel ne vie -- ne~a un'o -- ra~a~un pun -- to,
+    Ch'in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
         non è rag -- giun -- to,
-    Ch’in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
+    Ch'in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
         non è rag -- giun -- to.
 }
 
@@ -177,17 +177,17 @@ bassoVIII = \relative c {
 }
 
 bassoLyricsVIII = \lyricmode {
-    Men -- tre co -- stui co -- sì s’af -- flig -- ge~e duo -- le,
+    Men -- tre co -- stui co -- sì s'af -- flig -- ge~e duo -- le,
     E fa de -- gli~oc -- chi suoi te -- pi -- da fon -- te,
     E di -- ce que -- ste~e mol -- te~al -- tre pa -- ro -- le,
     Che non mi par bi -- so -- gno~es -- ser rac -- con -- te;
-    % L’a -- ven -- tu -- ro -- sa sua for -- tu -- na vuo -- le
-    Ch’al -- le~o -- rec -- chie d’An -- ge -- li -- ca sian con -- te:
-    E co -- sì quel ne vien’
-    E co -- sì quel ne vie -- ne~a un’o -- ra~a~un pun -- to,
-    Ch’in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
+    % L'a -- ven -- tu -- ro -- sa sua for -- tu -- na vuo -- le
+    Ch'al -- le~o -- rec -- chie d'An -- ge -- li -- ca sian con -- te:
+    E co -- sì quel ne vien'
+    E co -- sì quel ne vie -- ne~a un'o -- ra~a~un pun -- to,
+    Ch'in mil -- le~an -- ni~o mai più non è rag -- giun -- to,
         non è rag -- giun -- to,
-    Ch’in mil -- le~an -- ni~o mai più __ non è,
+    Ch'in mil -- le~an -- ni~o mai più __ non è,
         non è rag -- giun -- to,
         non è rag -- giun -- to,
         non è rag -- giun -- to.

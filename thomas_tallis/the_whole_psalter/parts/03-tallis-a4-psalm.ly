@@ -6,7 +6,7 @@
 % As smoke is driven, and comes to naught,
 % repulse their tyranny;
 % At face of fire as war doth melt,
-% God’s face the bad might flee.
+% God's face the bad might flee.
 
 % But let the just be glad in this,
 %  and joy in God his sight;
@@ -24,9 +24,9 @@
 % This God, he maketh the desolate
 %  in households great to grow;
 %  he loseth the thrall quite out of bands, 
-%  and bring’th the wicked low.
+%  and bring'th the wicked low.
 % 
-% O God, when thou went’st forth as guide,
+% O God, when thou went'st forth as guide,
 %  before the people, out,
 %  when thou didst walk in wilderness,
 %  which thing thou didst, no doubt,
@@ -35,7 +35,7 @@
 %  Mount Sinai God's face did fear,
 %  God's face of Israël.
 % 
-% Thou pour’dst, O God, thy fruitful showers
+% Thou pour'dst, O God, thy fruitful showers
 %  on thine inheritance,
 %  when faint they were with ease again,
 %  their strength ye didst advance.
@@ -47,7 +47,7 @@
 % Such good effect God gave his word,
 %  to them it shew'd his might;
 %  they did out preach, his armies strong,
-%  how they excell’d in sight.
+%  how they excell'd in sight.
 % How kings with hosts most fiercely set,
 %  yet fled discomfited,
 %  and households whole that kept at home,
@@ -60,7 +60,7 @@
 % When God great kings threw out of land,
 %  though erst his flock was black,
 %  then gan they look as white as snow,
-%  as lieth on salmon’s back
+%  as lieth on salmon's back
 % 
 % God's Hill is fat as Basan Hill,
 %  a mount that stately stand'th,
@@ -76,9 +76,9 @@
 %  of angels millions;
 %  with them is God with his good grace,
 %  as God loved Synai, once.
-% Thou fliedst on high, ye thraldom caught’st,
+% Thou fliedst on high, ye thraldom caught'st,
 %  receiving gifts in men;
-%  yea faithless eke thou took’st to grace,
+%  yea faithless eke thou took'st to grace,
 %  that God might dwell in them.
 % 
 % O blest be God, who day by day
@@ -90,7 +90,7 @@
 %  yea, death is ruled by God the Lord,
 %  whose dint by him we scape.
 % 
-% This God shall wound his enemies’ heads,
+% This God shall wound his enemies' heads,
 %  he shall their worthies quell,
 %  their hairy scalps to pare full nigh,
 %  that still in sin will dwell.
@@ -99,9 +99,9 @@
 %  I will return all mine, as once
 %  from seas most deep I rid.
 % 
-% That dipp’d thy feet in all their blood,
+% That dipp'd thy feet in all their blood,
 %  may read, appear, at eye,
-%  that dogs might lick their enemies’ blood,
+%  that dogs might lick their enemies' blood,
 %  so read to be thereby.
 % Who list did see, O puissant God, 
 %  thy great proceedings high;
@@ -111,10 +111,10 @@
 % When thanks were sung, first singers went,
 %  then minstrels moved their feet;
 %  in midst were set the damsel maids,
-%  who play’d with timbrels sweet.
+%  who play'd with timbrels sweet.
 % When they in one were jointly met,
 %  thus God they praisèd well;
-%  from heart, the ground, they bless’d the Lord,
+%  from heart, the ground, they bless'd the Lord,
 %  who sprang of Israël
 % 
 % Small Benjamin their ruler went,
@@ -130,7 +130,7 @@
 %  make this, thy strength, proceed;
 %  then kings shall bring their offerings
 %  to thee, to praise thy deed.
-% The lance-men's routs once scatter’d wide
+% The lance-men's routs once scatter'd wide
 %  the people's calves, once tamed;
 %  when they shall stoop, and presents bring,
 %  and warring folk, once shamed.
@@ -146,7 +146,7 @@
 % 
 % To him that rideth on heaven of heavens,
 %  as he hath done of old;
-%  lo, he his voice hath utter’d forth,
+%  lo, he his voice hath utter'd forth,
 %  a voice most strong and bold,
 % Ascribe to God all strength and might,
 %  to Israël so showed,
@@ -155,8 +155,8 @@
 % 
 % O God, thou art full terrible,
 %  from out thy Sanctuary;
-%  this, Jacob's God, his people aid’th:
-%  O bless’d be God thereby.
+%  this, Jacob's God, his people aid'th:
+%  O bless'd be God thereby.
 
 meaneIIIincipit = \relative c' {
     \override Staff.TimeSignature.transparent = ##t
@@ -198,7 +198,7 @@ meaneLyricsIII = \lyricmode {
     re -- pulse their ty -- ran -- ny;
     at face of fire
     as war doth melt,
-    God’s face the __ bad might flee.
+    God's face the __ bad might flee.
 }
 
 meaneLyricsIIIa = \lyricmode {
@@ -267,7 +267,7 @@ contratenorLyricsIII = \lyricmode {
     re -- pulse their ty -- ran -- ny;
     at face of fire
     as war doth melt,
-    God’s face the bad might flee.
+    God's face the bad might flee.
 }
 
 contratenorLyricsIIIa = \lyricmode {
@@ -335,7 +335,7 @@ tenorLyricsIII = \lyricmode {
     re -- pulse their ty -- ran -- ny;
     at face of fire
     as war doth melt,
-    God’s face the bad might flee.
+    God's face the bad might flee.
 }
 
 tenorLyricsIIIa = \lyricmode {
@@ -403,7 +403,7 @@ baseLyricsIII = \lyricmode {
     re -- pulse their ty -- ran -- ny;
     at face of fire
     as war doth melt,
-    God’s face the __ bad might flee.
+    God's face the __ bad might flee.
 }
 
 baseLyricsIIIa = \lyricmode {

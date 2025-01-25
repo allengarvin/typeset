@@ -1,7 +1,7 @@
 % Quanta beltà quanta gratia e splendore
 % Si vidde in donna mai,
-% Vaga Angioletta tutt’ il ciel vi diede
-% Quant’ alta cortessia quanto valore
+% Vaga Angioletta tutt' il ciel vi diede
+% Quant' alta cortessia quanto valore
 % Regnò in donna gia mai, giamai
 % Tutt'in voi regna con pietate e sede
 % tal che chiunque vi vede
@@ -9,7 +9,7 @@
 % E costumi santi
 % I divini occhi,
 % il bel volto e le chiome
-% D’Angela sono insieme col bel nome. 
+% D'Angela sono insieme col bel nome. 
 
 cantusXXXIVincipit = \relative c' {
     \time 2/2
@@ -43,8 +43,8 @@ cantusLyricsXXXIV = \lyricmode {
     Quan -- ta bel -- tà quan -- ta gra -- tia~e splen -- do -- re
     Si vid -- de~in don -- na mai,
     Si vid -- de~in don -- na mai,
-    Va -- ga~An -- gio -- let -- ta tut -- t’il ciel vi die -- de
-    Quant’ al -- ta cor -- tes -- si -- a quan -- to va -- lo -- re
+    Va -- ga~An -- gio -- let -- ta tut -- t'il ciel vi die -- de
+    Quant' al -- ta cor -- tes -- si -- a quan -- to va -- lo -- re
     Re -- gnò~in don -- na gia -- ma -- i, 
         gia -- ma -- i, 
     Tut -- t'in voi re -- gna con __ pie -- ta -- te~e __ se -- de __
@@ -53,7 +53,7 @@ cantusLyricsXXXIV = \lyricmode {
     I di -- vi -- ni~oc -- chi,
     I di -- vi -- ni~oc -- chi,
     Il bel vol -- to~e le chio -- me
-    D’An -- ge -- la so -- no~in -- sie -- me col __ bel __ no -- me. __
+    D'An -- ge -- la so -- no~in -- sie -- me col __ bel __ no -- me. __
 }
 
 altusXXXIVincipit = \relative c' {
@@ -89,8 +89,8 @@ altusLyricsXXXIV = \lyricmode {
     Quan -- ta bel -- tà __ quan -- ta gra -- tia~e splen -- do -- re
     Si vid -- de~in don -- na ma -- i,
     Si vid -- de~in don -- na ma -- i,
-    Va -- ga~An -- gio -- let -- ta tut -- t’il ciel vi die -- de
-    Quant’ al -- ta cor -- tes -- si -- a quan -- to va -- lo -- re __
+    Va -- ga~An -- gio -- let -- ta tut -- t'il ciel vi die -- de
+    Quant' al -- ta cor -- tes -- si -- a quan -- to va -- lo -- re __
     Re -- gnò~in don -- na __ gia -- ma -- i, 
         gia -- ma -- i, 
     Tut -- t'in voi __ re -- gna con pie -- ta -- te~e __ se -- de 
@@ -99,7 +99,7 @@ altusLyricsXXXIV = \lyricmode {
     I __ di -- vi -- ni~oc -- chi,
     I di -- vi -- ni~oc -- chi,
     Il bel vol -- to~e le chio -- me
-    D’An -- ge -- la so -- no~in -- sie -- me col bel no -- me,
+    D'An -- ge -- la so -- no~in -- sie -- me col bel no -- me,
         col bel no -- me. 
 }
 
@@ -136,8 +136,8 @@ tenorLyricsXXXIV = \lyricmode {
     Quan -- ta bel -- tà quan -- ta gra -- tia~e splen -- do -- re
     Si vid -- de~in don -- na mai,
     Si vid -- de~in don -- na ma -- i,
-    Va -- ga~An -- gio -- let -- ta tut -- t’il ciel vi die -- de
-    Quant’ al -- ta cor -- tes -- si -- a quan -- to va -- lo -- re
+    Va -- ga~An -- gio -- let -- ta tut -- t'il ciel vi die -- de
+    Quant' al -- ta cor -- tes -- si -- a quan -- to va -- lo -- re
     Re -- gnò~in don -- na gia -- ma -- i, 
     \ijLyrics
     Re -- gnò~in don -- na __ gia -- ma -- i, 
@@ -148,7 +148,7 @@ tenorLyricsXXXIV = \lyricmode {
     I di -- vi -- ni~oc -- chi,
     I di -- vi -- ni~oc -- chi,
     Il bel vol -- to~e le chio -- me __
-    D’An -- ge -- la so -- no~in -- sie -- me col bel no -- me,
+    D'An -- ge -- la so -- no~in -- sie -- me col bel no -- me,
         col bel no -- me. 
 }
 
@@ -187,8 +187,8 @@ bassusLyricsXXXIV = \lyricmode {
     Quan -- ta bel -- tà quan -- ta gra -- tia~e splen -- do -- re
     Si vid -- de~in don -- na mai,
     Si vid -- de~in don -- na ma -- i,
-    Va -- ga~An -- gio -- let -- ta tut -- t’il ciel vi die -- de
-    Quant’ al -- ta cor -- tes -- si -- a quan -- to va -- lo -- re
+    Va -- ga~An -- gio -- let -- ta tut -- t'il ciel vi die -- de
+    Quant' al -- ta cor -- tes -- si -- a quan -- to va -- lo -- re
     Re -- gnò~in don -- na gia -- ma -- i, 
     Tut -- t'in voi re -- gna con __ pie -- ta -- te~e se -- de __
     Tal che chiun -- que vi ve -- de __
@@ -196,7 +196,7 @@ bassusLyricsXXXIV = \lyricmode {
     % Dice chei bei sembienti vostri
     I di -- vi -- ni~oc -- chi,
     Il bel vol -- to~e le chio -- me
-    D’An -- ge -- la so -- no~in -- sie -- me col bel no -- me,
+    D'An -- ge -- la so -- no~in -- sie -- me col bel no -- me,
         col bel no -- me. 
 }
 
