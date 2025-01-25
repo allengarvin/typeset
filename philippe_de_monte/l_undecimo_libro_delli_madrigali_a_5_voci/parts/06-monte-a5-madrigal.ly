@@ -1,19 +1,19 @@
 % Text: http://www.tassomusic.org/poem/?id=Trm0389
 
 % Donna, se ben le chiome ho già ripiene
-% D'algente neve, il cor però non verna,
-% Sàsselo Amor, che tacito il governa,
-% E in lui conserva del suo amor mantiene.
+% d'algente neve, il cor però non verna,
+% sàsselo Amor, che tacito il governa,
+% e in lui conserva del suo amor mantiene.
 % Etna così sul dorso alto sostiene
-% Le brine e 'l gelo e dentro ha fiamma eterna;
-% Selce così gelata è ne l'esterna
-% Parte, e 'l foco nativo ha nelle vene.
+% le brine e 'l gelo e dentro ha fiamma eterna;
+% selce così gelata è ne l'esterna
+% parte, e 'l foco nativo ha nelle vene.
 % Ben, se 'l petto talor mi ripercote
-% Colpo de' tuoi begli occhi, a più d'un segno
-% Vengon le fiamme mie nel mio sembiante:
-% Ma tu rispiarmi i colpi e vuoi ch'ignote
-% Siano: forse è pietà, forse è disdegno
-% Ch'alzi tanto il desio canuto amante.
+% colpo de' tuoi begli occhi, a più d'un segno
+% vengon le fiamme mie nel mio sembiante:
+% ma tu rispiarmi i colpi e vuoi ch'ignote
+% siano: forse è pietà, forse è disdegno
+% ch'alzi tanto il desio canuto amante.
 
 % 10th line: Canto, tenore: Colto
 %            Alto: Colpo
@@ -21,6 +21,7 @@
 
 % CURSES!!!!
 % No quinto parte. From Vogel, it's at Danzig (St. B)
+% found in 2025-01-24! 5 years after I did this originally
 
 cantoVIincipit = \relative c'' {
     \time 4/4
@@ -51,14 +52,15 @@ cantoVI = \relative c'' {
         a a b2 cs d4 d | e2 d4 c b8([ a g f] 
 
     e4) c' | b4 g a2 b b4 b | c2 b4 c d8([ c b a] g2 ~ | 
-        g) g g4.( f16[ e] d4) g | d'1 b\longa*1/2
+    \invisibleTime\time 6/2 s1*0 \raisedSixTwoTime
+        g2) g g4.( f16[ e] d4) g d'1 | \invisibleTime\time 4/2 b\longa*1/2
     \bar "|."
 }
 
 cantoLyricsVI = \lyricmode {
     Don -- na, se ben __ le chio -- m'ho già ri -- pie -- ne
     D'al -- gen -- te ne -- ve, il cor __ pe -- rò non ver -- na,
-    Sàs -- se -- lo~A -- mor, che ta -- ci -- to'l go -- ver -- na,
+    Sas -- se -- lo~A -- mor, che ta -- ci -- to'l go -- ver -- na,
     E~in lui con -- ser -- va del suo~a -- mor man -- tie -- ne.
 
     Et -- na co -- sì sul dor -- so~al -- to so -- stie -- ne
@@ -75,7 +77,7 @@ cantoLyricsVI = \lyricmode {
     Sia -- no: for -- s'è pie -- tà, for -- s'è di -- sde -- gno
     Ch'al -- zi tan -- to~il de -- sio __ ca -- nu -- to~A -- man -- te,
     \ijLyrics
-    ch'al -- zi tan -- to~il de -- sio __ ca -- nu -- to~A -- man -- te.
+    Ch'al -- zi tan -- to~il de -- sio __ ca -- nu -- to~A -- man -- te.
     \normalLyrics
 }
 
@@ -107,15 +109,17 @@ altoVI = \relative c' {
     e2 d | d1 e2 d | d2. d4 e2 a, | r4 d c b a2 g | d'1 e2. f4 | e2 d cs1 |
         r1 r2 g'4 g | c,2 g'4 a g g, c2 | e d 
 
-    g,2 g'4 g | g2. e4 b b c2 | b4 c d8([ c b a] g4) g b c | d1 d\longa*1/2
+    g,2 g'4 g | g2. e4 b b c2 | 
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        b4 c d8([ c b a] g4) g b c d1 | \invisibleTime\time 4/2 d\longa*1/2
     \bar "|."
 }
 
 altoLyricsVI = \lyricmode {
     Don -- na, se ben le chio -- m'ho già ri -- pie -- ne
-    D'al -- gen -- te ne -- ve~il cor pe -- rò non ver -- na,
-    Sàs -- se -- lo~A -- mor, __ che ta -- ci -- to'l go -- ver -- na,
-    E~in lui con -- ser -- va del suo~a -- mor man -- tie -- ne.
+    D'al -- gen -- te ne -- ve~il cor __ pe -- rò non ver -- na,
+    Sas -- se -- lo~A -- mor, __ che ta -- ci -- to'l go -- ver -- na,
+    E~in lui con -- ser -- va del suo~a -- mor __ man -- tie -- ne.
 
 %    Et -- na co -- sì sul dor -- so~al -- to so -- stie -- ne
     Le bri -- n'e'l ge -- lo~e den -- tr'ha fiam -- m'e -- ter -- na,
@@ -130,9 +134,9 @@ altoLyricsVI = \lyricmode {
     Ma tu ri -- spiar -- m'i col -- pi e vuoi ch'i -- gno -- te
     Sia -- no: for -- s'è pie -- tà, 
     Ch'al -- zi tan -- to~il de -- sio ca -- nu -- to~A -- man -- te,
-    ch'al -- zi tan -- to,
+    Ch'al -- zi tan -- to,
     \ijLyrics
-    ch'al -- zi tan -- to~il 
+    Ch'al -- zi tan -- to~il 
     \normalLyrics
         de -- sio __ ca -- nu -- to~A -- man -- te.
 }
@@ -166,14 +170,17 @@ tenoreVI = \relative c' {
     c,2 d | g1 e2 g | f2. f4 e2 e | r4 g e g fs2 g | a b c1 | c2 a a2. a4 |
         d f e2 a, r2 | R\breve | r1 r4 d4. d8 d4 | c2 r 
 
-    d4 d e2 | d4 c b8([ a g f] e4) c' b g | a4.( g8 a2) g\longa*1/2
+    d4 d e2 | 
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        d4 c b8([ a g f] e4) c' b g a4.( g8 a2) |
+        \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsVI = \lyricmode {
     Don -- na, se ben __ le chio -- m'ho già ri -- pie -- ne
     D'al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na,
-    Sàs -- se -- lo~A -- mor, che ta -- ci -- to'l go -- ver -- na,
+    Sas -- se -- lo~A -- mor, che ta -- ci -- to'l go -- ver -- na,
     E~in lui con -- ser -- va del suo~a -- mor man -- tie -- ne.
 
     Et -- na co -- sì sul dor -- so~al -- to so -- stie -- ne
@@ -189,7 +196,7 @@ tenoreLyricsVI = \lyricmode {
     Sia -- no: for -- s'è pie -- tà, for -- s'è di -- sde -- gno
     Ch'al -- zi tan -- to,
     \ijLyrics
-    ch'al -- zi tan -- to~il 
+    Ch'al -- zi tan -- to~il 
     \normalLyrics
         de -- sio __ ca -- nu -- to~A -- man -- te.
 }
@@ -217,14 +224,15 @@ bassoVI = \relative c {
         R\breve R\breve*2 | g,1 c2 g | d'2. d4 a1 | g2 r r4 d' e g | fs2 g
 
     c,2 c4 f | c2 d a1 | R\breve*2 | r1 r2 g'4 g | c,2 g'4 a g2 c,4 c |
-        g2 g4 g c c g' e | d1 g,\longa*1/2
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g2 g4 g c c g' e d1 | \invisibleTime\time 4/2 g,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsVI = \lyricmode {
 %    Don -- na, se ben le chio -- m'ho già ri -- pie -- ne
 %    D'al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na,
-%    Sàs -- se -- lo~A -- mor, che ta -- ci -- to'l go -- ver -- na,
+%    Sas -- se -- lo~A -- mor, che ta -- ci -- to'l go -- ver -- na,
     E~in lui con -- ser -- va del suo~a -- mor man -- tie -- ne.
 
     Et -- na co -- sì sul dor -- so~al -- to so -- stie -- ne
@@ -246,35 +254,64 @@ bassoLyricsVI = \lyricmode {
         ca -- nu -- to~A -- man -- te.
 }
 
-quintoVI = \relative c' {
-    \fourTwoCommonTime
-    \clef alto
+quintoVIincipit = \relative c'' {
+    \time 4/4
+    \clef "petrucci-c1"
     \key c \major
 
+    a1
+}
+
+% quinto: checked against source
+quintoVI = \relative c'' {
+    \fourTwoCommonTime
+    \key c \major
+
+    a1 b4 b g2 ~ | g4 g g a b c d2 ~ | d4\melfi cs8[ b] cs!2\melfiEnd d r4 d |
+        b4. c8 d2 e c ~ | c4 c b c2 b4 c2 | R\breve | r1 a | b2 b
+
+    c2 c | g2. c,4 d d g2 ~ | g\melfi fs\melfiEnd g1 | r2 g g4 f e2 |
+        d c4 c'2 b a4 | gs2 gs r4 e e2 | fs g2. a4 c bf | a g a2 
+
+    a4 d, f4. e8 | d4 d' d2 b1 | R\breve*3 R\breve | r2 g fs4 g4. g8 e4 |
+        d2 r4 a' a b c4.( c8 | b4 a8[ g] a4 b) c a4. g8 a4 | b c a4. d8
+
+    d4 g, a2 | a a4 a8[ a] d4 d d b ~ | b c2 b4 c2 a | b1 c2 b |
+        d4 a d1\melfi cs2\melfiEnd | d2 r2 r1 | R\breve | r1 r2 e, |
+        fs4 a gs2 a b4 b | c2
+
+    b4 c d8([ c b a] g4) a | g g fs2 g d'4 d |
+        e2 d4 c b8([ a g f] e4) c | 
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g'4 e d2 e r4 g fs4 g2 fs4
+        \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 quintoLyricsVI = \lyricmode {
-%    Don -- na, se ben le chio -- m'ho già ri -- pie -- ne
-%    D'al -- gen -- te ne -- ve, il cor pe -- rò non ver -- na,
-%    Sàs -- se -- lo~A -- mor, che ta -- ci -- to'l go -- ver -- na,
-%    E~in lui con -- ser -- va del suo~a -- mor man -- tie -- ne.
-%
-%    Et -- na co -- sì sul dor -- so~al -- to so -- stie -- ne
-%    Le bri -- n'e'l ge -- lo e den -- tr'ha fiam -- m'e -- ter -- na;
+    Don -- na, se ben __ le chio -- m'ho già ri -- pie -- ne
+    D'al -- gen -- te ne -- ve~il cor __ pe -- rò non ver -- na,
+%    Sas -- se -- lo~A -- mor, che ta -- ci -- to'l go -- ver -- na,
+    E~in lui con -- ser -- va del suo~a -- mor man -- tie -- ne.
+
+    Et -- na co -- sì sul dor -- so~al -- to so -- stie -- ne
+    Le bri -- n'e'l ge -- lo~e den -- tr'ha fiam -- m'e -- ter -- na,
+        e den -- tr'ha fiam -- m'e -- ter -- na;
 %    Sel -- ce co -- sì ge -- la -- ta~è ne l'e -- ster -- na
 %    Par -- te, e'l fo -- co na -- ti -- vo~ha nel -- le ve -- ne.
 %
-%    Ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
-%    Col -- po de' tuoi be -- gli~oc -- chi~a più d'un se -- gno
-%    Ven -- gon le fiam -- me mie nel mio sem -- bian -- te:
-%
-%    Ma tu ri -- spiar -- m'i col -- pi e vuoi ch'i -- gno -- te
-%    Sia -- no: for -- s'è pie -- tà, for -- s'è di -- sde -- gno
-%    Ch'al -- zi tan -- to~il de -- sio ca -- nu -- to~A -- man -- te,
-%    \ijLyrics
-%    ch'al -- zi tan -- to~il de -- sio ca -- nu -- to~A -- man -- te.
-%    \normalLyrics
+    Ben, se'l pet -- to ta -- lor mi ri -- per -- co -- te
+    Col -- po de' tuoi be -- gli~oc -- chi~a più d'un se -- gno
+    Ven -- gon le fiam -- me mie nel __ mio sem -- bian -- te:
+
+    Ma tu ri -- spiar -- m'i col -- pi % e vuoi ch'i -- gno -- te
+%    Sia -- no: for -- s'è pie -- tà, 
+        for -- s'è di -- sde -- gno
+    Ch'al -- zi tan -- to~il de -- sio __ ca -- nu -- to~A -- man -- te,
+    \ijLyrics
+    ch'al -- zi tan -- to~il de -- sio __ ca -- nu -- to~A -- man -- te,
+    \normalLyrics
+        ca -- nu -- to~A -- man -- te.
 }
 
 cantoVIincipitVoice = <<
@@ -305,10 +342,10 @@ bassoVIincipitVoice = <<
     >>
 >>
 
-%quintoVIincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \quintoVIincipit
-%    >>
-%>>
-%
+quintoVIincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \quintoVIincipit
+    >>
+>>
+

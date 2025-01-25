@@ -23,9 +23,9 @@
     shorttitle = "bascia_e_ribascia_e_sugge"
     shortcomp = "marenzio"
     composer = "Luca Marenzio (c.1553-1599)"
-    categories = "[]"
-    motifs = "[]"
-    needtranslation = #'t
+    categories = "[madrigal]"
+    motifs = "[kiss,male-pov,amore,pleasure]"
+    needtranslation = #'f
     folio = "Maffio Venier (1550-1586)"
 
     % Unchanging:

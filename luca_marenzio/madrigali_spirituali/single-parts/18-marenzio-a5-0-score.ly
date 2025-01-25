@@ -24,7 +24,7 @@
     shortcomp = "marenzio"
     categories = "[madrigal]"
     motifs = "[arrow,wandering,wind]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Jacopo Sannazaro (1458-1530)"
 
     % Unchanging:

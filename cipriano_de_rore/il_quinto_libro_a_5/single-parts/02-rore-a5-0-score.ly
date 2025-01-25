@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Da le belle contrade d'oriente"
     instrument = "Da le belle contrade d'oriente (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

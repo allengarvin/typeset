@@ -24,7 +24,7 @@
     shortcomp = "marenzio"
     categories = "[madrigal]"
     motifs = "[laurel,beauty,woman,hair,eyes,snow]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} XXX (30) }
 
     % Unchanging:

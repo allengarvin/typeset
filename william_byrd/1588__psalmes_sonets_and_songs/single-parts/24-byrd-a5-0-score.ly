@@ -24,7 +24,7 @@
     shortcomp = "byrd"
     categories = "[furioso]"
     motifs = "[virgin,rose,garden]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto I ottava 42 }
 
     % Unchanging:

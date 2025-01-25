@@ -24,7 +24,7 @@
     shortcomp = "merulo"
     categories = "[madrigal,morte]"
     motifs = "[la-petit-mort,glance,morte,amore]"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"

@@ -99,14 +99,15 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup: 2025-01-24
                 \line { Nasce la pena mia }
-                \line { Non potendo mirar mio vivo sole }
-                \line { E la mia vita e ria qual hor lo miro }
-                \line { Perch’il guard’e tale }
-                \line { Che lasciarmi peggior che morte suole }
-                \line { Ahi vita trist’e frale }
-                \line { Che fia dunque di me che far mi deggio }
-                \line { S’io mir’ho male e s’io non mir’ho peggio.  }
+                \line { non potendo mirar mio vivo sole; }
+                \line { e la mia vita è ria }
+                \line { qualor lo miro, perché il guard'è tale, }
+                \line { che lasciarmi peggior che morte suole. }
+                \line { Ahi vita trist'e frale }
+                \line { che fia dunque di me che farmi deggio? }
+                \line { S'io mir'ho male e s'io non mir'ho peggio.  }
             }
 %            \column {
 %                \line { My pain is born }

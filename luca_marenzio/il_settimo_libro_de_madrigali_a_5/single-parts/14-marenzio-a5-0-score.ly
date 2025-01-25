@@ -24,7 +24,7 @@
     shortcomp = "marenzio"
     categories = "[madrigal,chromatic]"
     motifs = "[morte,sword,blood,amore]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = \markup { Giovanni Battista Guarini, \italic{Il Pastor Fido} Atto I Scena 2 }
 
     % Unchanging:
