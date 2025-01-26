@@ -3,6 +3,7 @@
 
 import os, sys, re, argparse, datetime, glob
 from collections import OrderedDict
+import hashlib
 
 def show_argv(argv):
     s = ""
@@ -118,7 +119,7 @@ def main(argv):
 
     if "-a5-" in args.score:
         args.size = 14.5
-        args.width = 5.5
+        args.width = 4.5
     elif "-a4-" in args.score:
         args.size = 16
     elif "-a6-" in args.score:
@@ -187,9 +188,11 @@ def main(argv):
                 '\\include "../include/macros.ly" ',
                 '\\include "../include/scheme.ly" ',
                 '',
-                '#(set-global-staff-size {0}.0)'.format(args.size),
+                '#(set-global-staff-size {0})'.format(args.size),
                 '',
                 '\\header {',
+                '    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.',
+                '    cksum = "SHA1SUM"',
                 '    lastupdated = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
                 '    originallyset = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
                 '    \\include "include/distribution-header.ly"',
@@ -348,6 +351,10 @@ def main(argv):
     if not args.overwrite and os.path.isfile(args.score):
         print("{0}: already exists (use -o to overwrite)".format(args.score))
         sys.exit(1)
+
+    # Uniq identifier so I can crosslink scores when generating indexes!
+    hash_object = hashlib.sha1(score_str)
+    score_str.replace("SHA1SUM", hash_object.hexdigest().decode("ascii"))
     fd = open(args.score, "w")
     fd.write("\n".join(score_str))
     print("{0}: created".format(args.score))
