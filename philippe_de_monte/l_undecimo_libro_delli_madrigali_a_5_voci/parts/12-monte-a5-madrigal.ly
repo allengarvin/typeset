@@ -1,3 +1,11 @@
+% Ardo sì ma non t'amo
+% perfida e dispietata
+% indegnament'amata
+% da sì leale amante.
+% Né più sarà che del mio amor ti vante,
+% ché ho già sanato il core
+% e s'ardo, ardo di sdegno e non d'amore.
+
 cantoXIIincipit = \relative c'' {
     \clef "petrucci-g"
     \key f \major
@@ -30,6 +38,26 @@ cantoXII = \relative c'' {
 }
 
 cantoLyricsXII = \lyricmode {
+    Ar -- do sì ma __ non t'a -- mo,
+    Ar -- do sì ma non t'a -- mo
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    \ijLyrics
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    \normalLyrics
+    In -- de -- gna -- men -- te~a -- ma -- ta
+    Da sì le -- a -- le~a -- man -- te.
+
+    Né più sa -- rà,
+    \ijLyrics
+    Né più sa -- rà,
+    \normalLyrics
+    Né più sa -- rà che del mio~a -- mor,
+        che del mio~a -- mor ti van -- te,
+    Ch'ho già sa -- na -- to~il co -- re
+    E s'ar -- do, ar -- do di sde -- gn'e non d'a -- mo -- re,
+    E s'ar -- do, ar -- do di sde -- gn'e non d'a -- mo -- re,
+    E s'ar -- do, ar -- do di sde -- gn'e non d'a -- mo -- re.
 }
 
 altoXIIincipit = \relative c' {
@@ -40,8 +68,8 @@ altoXIIincipit = \relative c' {
     e4
 }
 
+% alto: checked against source
 altoXII = \relative c' {
-    \clef mezzosoprano
     \key f \major
     \fourTwoCommonTime
 
@@ -55,13 +83,37 @@ altoXII = \relative c' {
     fs2 r2 | g4 g8[ g] a2 r1 | R\breve | c,4 c8[ d] e4 f d a' b c ~ |
         c b c2 r2 c, | c c' b c | a1 b2 r2 | r2 r4 g a2 g | e4 e8[ f]
 
-    g4 e c' c2 bf4 | c2 r4 g a2 g | r2 e4 e8[ f] g2 g | R\breve |
+    g4 e c' c2\ficta b4\unficta | c2 r4 g a2 g | r2 e4 e8[ f] g2 g | R\breve |
         r2 a4 a8[ bf] c([ bf a g] f4. g8 |
         a[ bf] c4) a f2 f e4 | f\longa*1/2
     \bar "|."
 }
 
 altoLyricsXII = \lyricmode {
+%    Ar -- do sì 
+        Ma non t'a -- mo,
+        ma __ non t'a -- mo,
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    \ijLyrics
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    \normalLyrics
+    In -- de -- gna -- men -- te~a -- ma -- ta
+    Da sì le -- a -- le~a -- man -- te,
+    \ijLyrics
+    Da sì le -- a -- le~a -- man -- te.
+    \normalLyrics
+%
+%    Né più sa -- rà,
+%    \ijLyrics
+%    Né più sa -- rà,
+%    \normalLyrics
+    Né più sa -- rà che del mio~a -- mor __ ti van -- te,
+    Né più sa -- rà,
+    Né più sa -- rà che del mio~a -- mor ti __ van -- te,
+    Ch'ho già sa -- na -- to~il co -- re
+    E s'ar -- do, ar -- do di sde -- gn'e non d'a -- mo -- re,
+    E s'ar -- do, ar -- do di sde -- gno,
+        ar -- do di sde -- gn'e non d'a -- mo -- re.
 }
 
 tenoreXIIincipit = \relative c' {
@@ -72,8 +124,8 @@ tenoreXIIincipit = \relative c' {
     f2
 }
 
+% tenore: checked against source
 tenoreXII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -96,6 +148,28 @@ tenoreXII = \relative c' {
 }
 
 tenoreLyricsXII = \lyricmode {
+    Ar -- do sì ma __ non t'a -- mo
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    \ijLyrics
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    \normalLyrics
+    In -- de -- gna -- men -- te~a -- ma -- ta,
+    \ijLyrics
+    In -- de -- gna -- men -- te~a -- ma -- ta
+    \normalLyrics
+    Da sì le -- a -- le~a -- man -- te.
+
+    Né più sa -- rà,
+    Né più sa -- rà che del mio~a -- mor ti van -- te,
+    Né più sa -- rà che del mio~a -- mor ti van -- te,
+    \ijLyrics
+    Né più sa -- rà che del mio~a -- mor ti van -- te,
+    \normalLyrics
+    Ch'ho già sa -- na -- to~il co -- re
+    E s'ar -- do, ar -- do di sde -- gn'e non d'a -- mo -- re,
+    E s'ar -- do~ar -- do di sde -- gno,
+        ar -- do di sde -- gn'e non d'a -- mo -- re,
+    E s'ar -- do, ar -- do di sde -- gn'e non d'a -- mo -- re.
 }
 
 bassoXIIincipit = \relative c {
@@ -106,8 +180,8 @@ bassoXIIincipit = \relative c {
     f2
 }
 
+% basso: checked against source
 bassoXII = \relative c {
-    \clef varbaritone
     \key f \major
     \fourTwoCommonTime
 
@@ -127,6 +201,29 @@ bassoXII = \relative c {
 }
 
 bassoLyricsXII = \lyricmode {
+%    Ar -- do sì ma non t'a -- mo,
+    Ar -- do sì ma non t'a -- mo
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    In -- de -- gna -- men -- te~a -- ma -- ta
+    Da sì le -- a -- le~a -- man -- te.
+
+    Né più sa -- rà,
+    \ijLyrics
+    Né più sa -- rà che del mio~a -- mor ti van -- te,
+    Né più sa -- rà,
+    \ijLyrics
+    Né più sa -- rà,
+    Né più sa -- rà
+    \normalLyrics
+        che del mio~a -- mor ti van -- te,
+    Ch'ho già sa -- na -- to~il co -- re
+    E s'ar -- do,
+    \ijLyrics
+    E s'ar -- do,
+    \normalLyrics
+    E s'ar -- do,
+        ar -- do di sde -- gno e non d'a -- mo -- re,
+    E s'ar -- do, ar -- do di sde -- gn'e non d'a -- mo -- re.
 }
 
 quintoXIIincipit = \relative c'' {
@@ -137,13 +234,14 @@ quintoXIIincipit = \relative c'' {
     c2
 }
 
+% quinto: checked against source
 quintoXII = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCommonTime
 
-    r1 r4 c2 d4 ~ | d c2 bf4 c a2 g4 | g2 c4 d2 c bf4 | c2 a4 a8[ g] f4 f2 e4 |
-        f2 c'4 c8[ bf] a4 a g2 | f
+    r1 r4 c2 d4 ~ | d c2\melfi b4\melfiEnd c a2 g4 | 
+        g2 c4 d2 c\ficta b4 \unficta | 
+        c2 a4 a8[ g] f4 f2( e4) | f2 c'4 c8[ bf] a4 a g2 | f
 
     c'4 c8[ bf] a4 a g2 | f r2 r2 r4 c' | bf4. a8 g4 f g2 g4 g |
         a4. g8 a([ bf c a] b4) c2 b4 | c2 r2 r1 | r1 g4 g8[ g] a2 |
@@ -163,6 +261,38 @@ quintoXII = \relative c'' {
 }
 
 quintoLyricsXII = \lyricmode {
+%    Ar -- do sì 
+        Ma non __ t'a -- mo,
+    Ar -- do sì ma non t'a -- mo
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    \ijLyrics
+    Per -- fi -- da~e di -- spie -- ta -- ta,
+    \normalLyrics
+    In -- de -- gna -- men -- te~a -- ma -- ta
+    Da sì le -- a -- le~a -- man -- te.
+
+    Né più sa -- rà,
+    \ijLyrics
+    Né più sa -- rà
+    \normalLyrics
+        che del mio~a -- mor ti van -- te,
+    Né più sa -- rà,
+    Né più sa -- rà che del mio~a -- mor ti van -- te,
+    \ijLyrics
+    Né più sa -- rà che del mio~a -- mor ti van -- te,
+    \normalLyrics
+    Ch'ho già sa -- na -- to~il co -- re
+    E s'ar -- do,
+    \ijLyrics
+    E s'ar -- do,
+    \normalLyrics
+        ar -- do di sde -- gn'e non d'a -- mo -- re,
+    \ijLyrics
+    E __ s'ar -- do, ar -- do di sde -- gn'e non d'a -- mo -- re,
+    \normalLyrics
+%    E s'ar -- do, 
+        ar -- do di sde -- gno e non d'a -- mo -- re.
 }
 
 cantoXIIincipitVoice = <<

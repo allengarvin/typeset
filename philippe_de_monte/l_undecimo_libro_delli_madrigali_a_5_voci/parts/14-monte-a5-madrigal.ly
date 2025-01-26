@@ -1,3 +1,19 @@
+% Né ardor né gelo mai
+% potrà amanti sdegnosi
+% far sì che d'amorosi
+% fochi non v'ard'Amore,
+% che s'è ghiaccio la lingua e fiamma il core
+% dia dunque il sdegno loco
+% ché Amor fu sempre Amor e 'l foco foco.
+% 
+% Neither ardent heat or frost shall ever
+% be able to make disdainful lovers
+% such that Love does not burn
+% you with amorous fires,
+% for if the tongue is ice and the heart flame,
+% then let your disdain give way
+% since Love was always Love, and fire, fire.
+
 cantoXIVincipit = \relative c'' {
     \clef "petrucci-g"
     \key f \major
@@ -6,8 +22,8 @@ cantoXIVincipit = \relative c'' {
     f2
 }
 
+% canto: checked against source
 cantoXIV = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCommonTime
 
@@ -26,6 +42,29 @@ cantoXIV = \relative c'' {
 }
 
 cantoLyricsXIV = \lyricmode {
+    Né~ar -- dor né ge -- lo ma -- i,
+    \ijLyrics
+    Né~ar -- dor né ge -- lo ma -- i
+    \normalLyrics
+    Po -- trà~a -- man -- ti sde -- gno -- si
+    Far sì che d'a -- mo -- ro -- si
+    Fo -- chi non v'ar -- d'A -- mo -- re;
+
+    Né~ar -- dor né ge -- lo ma -- i,
+    \ijLyrics
+    Né~ar -- dor né ge -- lo ma -- i
+    \normalLyrics
+    Po -- trà~a -- man -- ti sde -- gno -- si
+    Far sì che d'a -- mo -- ro -- si
+    % Fo -- chi non v'ar -- d'A -- mo -- re;
+
+    Che s'è ghiac -- cio la lin -- gua~e fiam -- ma'l co -- re
+    Dia dun -- que~il sde -- gno lo -- co
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co,
+    \ijLyrics
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co,
+    \normalLyrics
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co.
 }
 
 altoXIVincipit = \relative c'' {
@@ -36,8 +75,8 @@ altoXIVincipit = \relative c'' {
     a4
 }
 
+% alto: checked against source
 altoXIV = \relative c'' {
-    \clef mezzosoprano
     \key f \major
     \fourTwoCommonTime
 
@@ -48,7 +87,7 @@ altoXIV = \relative c'' {
         c4 g a4. g8 f4 e d2 | e4 g g4. f8 f4 d d2 | d
 
     e4 e8[ d] c4 g' g2 | g g a bf ~ | bf4 bf g1 fs2 |
-        g r4 c, d8([ e f g] a[ bf c bf] | a4) f e2 d4 a' bf4. g8 | a4 g f2
+        g r4 c, d8([ e f g] a[ bf c bf] | a4) f e2 d4 a' g4. e8 | f4 e d2
 
     c2 r2 | R\breve | r4 e f4. f8 g4 a bf2 | a4 a g4. g8 g4 f e f |
         d d e2 d4 d f4. g8 | f4 d d d g f e2 | f\longa*1/2
@@ -56,6 +95,32 @@ altoXIV = \relative c'' {
 }
 
 altoLyricsXIV = \lyricmode {
+    Né~ar -- dor né ge -- lo ma -- i,
+    \ijLyrics
+    Né~ar -- dor né ge -- lo ma -- i
+    \normalLyrics
+    Po -- trà~a -- man -- ti __ sde -- gno -- si;
+
+    Né~ar -- dor né ge -- lo ma -- i,
+    \ijLyrics
+    Né~ar -- dor né ge -- lo ma -- i
+    \normalLyrics
+    Po -- trà~a -- man -- ti sde -- gno -- si
+    Far sì che d'a -- mo -- ro -- si,
+    \ijLyrics
+    Far sì che d'a -- mo -- ro -- si
+    \normalLyrics
+    Fo -- chi non v'ar -- d'A -- mo -- re;
+
+    Che s'è ghiac -- cio la lin -- gua e fiam -- ma'l co -- re
+    Dia dun -- que~il sde -- gno lo -- co,
+    \ijLyrics
+    Dia dun -- que~il sde -- gno lo -- co
+    \normalLyrics
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co,
+    \ijLyrics
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co.
+    \normalLyrics
 }
 
 tenoreXIVincipit = \relative c {
@@ -66,13 +131,13 @@ tenoreXIVincipit = \relative c {
     f4
 }
 
+% tenore: checked against source
 tenoreXIV = \relative c {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
     r4 f c'4. a8 bf4 g f2 | c'4 f e4. c8 d4 e f2 | e4 e f c4.( d8[ e f] g2) |
-        f4 e d2 4 c bf4. c8 |
+        f4 e d2 c4 c bf4. c8 |
 
     ef4 f c2 c f,4 f8[ g] | a4 f c'2 f,4 f c'4. a8 | bf4 g f2 c'4 f e4. c8 |
         d4 e f2 e4 e f c  ~| c8([ d e f] g2) f4 e d2 | 
@@ -88,6 +153,29 @@ tenoreXIV = \relative c {
 }
 
 tenoreLyricsXIV = \lyricmode {
+    Né~ar -- dor né ge -- lo ma -- i,
+    \ijLyrics
+    Né~ar -- dor né ge -- lo ma -- i
+    \normalLyrics
+    Po -- trà~a -- man -- ti sde -- gno -- si
+    Far sì che d'a -- mo -- ro -- si
+    Fo -- chi non v'ar -- d'A -- mo -- re;
+
+    Né~ar -- dor né ge -- lo ma -- i,
+    \ijLyrics
+    Né~ar -- dor né ge -- lo ma -- i
+    \normalLyrics
+    Po -- trà~a -- man -- ti sde -- gno -- si
+    Far sì che d'a -- mo -- ro -- si
+    Fo -- chi non v'ar -- d'A -- mo -- re;
+
+    Che s'è ghiac -- cio la lin -- gua e fiam -- ma'l co -- re
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co,
+    Dia dun -- que~il sde -- gno lo -- co
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co,
+    \ijLyrics
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co.
+    \normalLyrics
 }
 
 bassoXIVincipit = \relative c {
@@ -98,8 +186,8 @@ bassoXIVincipit = \relative c {
     f4
 }
 
+% basso: checked against source
 bassoXIV = \relative c {
-    \clef varbaritone
     \key f \major
     \fourTwoCommonTime
 
@@ -107,7 +195,8 @@ bassoXIV = \relative c {
         R\breve*2 | r1 r4 f c'4. a8 | bf4 g f2 c4 c
 
     f8([ g a bf] | c2) c, f4 c g'2 | c,4 c' f,4. g8 bf4 c g2 |
-        g4 g c,4. e8 f4 g d2 | d c4 c8[ d] e4 c g'2 | c,1 r1 | r1 r2 r4 d | 
+        g4 g c,4. d8 f4 g d2 | d c4 c8[ d] e4 c g'2 | 
+        c,1 r1 | r1 r2 r4 d | 
 
     g8([ a bf c] d[ e f e] d2.) c4 | f,4.( g8 a2) d, r2 | R\breve*2 |
         r4 c' bf4. a8 bf4 a g2 | f4 f c'4. b8 c4 d a d, | g4 bf a2
@@ -117,6 +206,24 @@ bassoXIV = \relative c {
 }
 
 bassoLyricsXIV = \lyricmode {
+    Né~ar -- dor né ge -- lo ma -- i
+    Po -- trà~a -- man -- ti sde -- gno -- si;
+
+    Né~ar -- dor né ge -- lo ma -- i
+    Po -- trà~a -- man -- ti sde -- gno -- si
+    Far sì che d'a -- mo -- ro -- si,
+    \ijLyrics
+    Far sì che d'a -- mo -- ro -- si
+    \normalLyrics
+    Fo -- chi non v'ar -- d'A -- mo -- re;
+%
+%    Che s'è ghiac -- cio la lin -- gua~
+        e fiam -- ma'l co -- re
+    Dia dun -- que~il sde -- gno lo -- co
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co,
+    \ijLyrics
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co.
+    \normalLyrics
 }
 
 quintoXIVincipit = \relative c'' {
@@ -127,8 +234,8 @@ quintoXIVincipit = \relative c'' {
     c4
 }
 
+% quinto: checked against source
 quintoXIV = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCommonTime
 
@@ -148,6 +255,31 @@ quintoXIV = \relative c'' {
 }
 
 quintoLyricsXIV = \lyricmode {
+    Né~ar -- dor né ge -- lo ma -- i,
+    \ijLyrics
+    Né~ar -- dor né ge -- lo ma -- i
+    \normalLyrics
+    Po -- trà~a -- man -- ti sde -- gno -- si
+    Far sì che d'a -- mo -- ro -- si
+    Fo -- chi non v'ar -- d'A -- mo -- re;
+
+    Né~ar -- dor né ge -- lo ma -- i,
+    \ijLyrics
+    Né~ar -- dor né ge -- lo ma -- i
+    \normalLyrics
+    Po -- trà~a -- man -- ti sde -- gno -- si
+    Far sì che d'a -- mo -- ro -- si,
+    \ijLyrics
+    Far sì che d'a -- mo -- ro -- si
+    \normalLyrics
+    Fo -- chi non v'ar -- d'A -- mo -- re;
+
+    Che s'è ghiac -- cio la lin -- gua~e fiam -- ma'l co -- re
+    Dia dun -- que~il sde -- gno lo -- co
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co,
+    \ijLyrics
+    Ch'A -- mor fu sem -- pr'A -- mor e'l fo -- co fo -- co.
+    \normalLyrics
 }
 
 cantoXIVincipitVoice = <<
