@@ -19,7 +19,7 @@
     % Unchanging:
     originallyset = "2014-12-07"
     lastupdated = "2014-12-07"
-    rhyme = "AbbcdD"
+    rhyme = "AbbacC"
     flats = 0
     final = "g"
     categories = "[madrigal,morte]"

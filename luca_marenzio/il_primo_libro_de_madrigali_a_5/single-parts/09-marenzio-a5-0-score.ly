@@ -90,9 +90,10 @@
     \markup {
         \fill-line {
             \column {
+                % Italian reviewed 2025-01-25
                 \line { Dolorosi martir, fieri tormenti, } 
                 \line { duri ceppi, empi lacci, aspre catene, } 
-                \line { ov'io la notte i giorni, ore e momenti } 
+                \line { ov'io la notte, i giorni, ore e momenti } 
                 \line { misero piango il mio perduto bene; } 
                 \line { Triste voci, querele, urli, e lamenti, } 
                 \line { lagrime spesse e sempiterne pene } 

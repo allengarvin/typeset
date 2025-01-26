@@ -14,7 +14,6 @@
     instrument = "Che fa oggi il mio sole (score)"
     needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-13"
@@ -23,7 +22,7 @@
     final = "d"
     categories = "[madrigal]"
     rhyme = "abCabC"
-    motifs = "[flowers,amore]"
+    motifs = "[sun,hair,flowers,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -91,9 +90,9 @@
     \markup {
         \fill-line {
             \column {
-                \line { Che fa oggi il mio sole, }
+                \line { Che fa oggi il mio sole? }
                 \line { che fa'l mio canto e'l suono, }
-                \line { che non cantan di lei la gloria e'l nome? }
+                \line { che non cantan di lei, la gloria e'l nome? }
                 \line { Or queste mie viole }
                 \line { e questi fior gli dono, }
                 \line { che ne facci corona alle sue chiome. }
@@ -102,7 +101,7 @@
                 % translation: 2023-11-11
                 \line { What does my sun do today? }
                 \line { What do my song and my sound do, }
-                \line { if they dot nog sing of her, her glory, and her name? }
+                \line { if they do not sing of her, her glory, and her name? }
                 \line { Now these violets of mine }
                 \line { and these flowers I give to her, }
                 \line { that she make a crown of them upon her hair. }

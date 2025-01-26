@@ -14,7 +14,6 @@
     instrument = "Lasso ch'io ardo (score)"
     needtranslation = #'f
     language = "italian"
-    folio = "Anonymous Poet"
 
     % Unchanging:
     originallyset = "2014-12-09"
@@ -22,6 +21,7 @@
     flats = 0
     final = "a"
     categories = "[madrigal]"
+    motifs = "[sun,rays,beauty,amore]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }

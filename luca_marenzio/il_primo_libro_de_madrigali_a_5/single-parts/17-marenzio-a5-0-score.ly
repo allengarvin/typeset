@@ -14,7 +14,6 @@
     instrument = "Partirò dunque (score)"
     needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
 
     % Unchanging:
     originallyset = "2014-12-14"

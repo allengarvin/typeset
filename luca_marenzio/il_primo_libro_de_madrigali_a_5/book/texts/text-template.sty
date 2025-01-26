@@ -1,0 +1,76 @@
+\documentclass[12pt, twocolumn]{article}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{fontspec}
+\usepackage{fancyhdr}
+
+% Set font to Liberation Serif
+\setmainfont{Liberation Serif}
+
+% Custom commands for formatting
+\newcounter{poemcounter} % Counter for poem numbering
+\newcommand{\poemtitle}[1]{\stepcounter{poemcounter}\par\vspace{2\baselineskip}\centerline{\Large\itshape \thepoemcounter.\ #1}\vspace{2\baselineskip}}
+\newcommand{\poemasterisks}{\par\bigskip\centerline{***}\bigskip}
+\newcommand{\poemsection}[1]{\textit{#1:} }
+
+% Title formatting
+\titleformat{\section}[block]{\centering\huge\bfseries}{}{0pt}{}
+\titlespacing*{\section}{0pt}{\baselineskip}{2\baselineskip}
+
+% Indentation rules
+\setlength{\parindent}{0pt}
+\newcommand{\indented}{\setlength{\parindent}{1em}}
+\newcommand{\noindentation}{\setlength{\parindent}{0pt}}
+
+% Fancyhdr settings for roman numerals
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage} % Center page numbers
+\renewcommand{\thepage}{\roman{page}} % Roman numerals for page numbers
+
+% Start page setting
+\setcounter{page}{10} % Adjust to your desired starting page
+
+\begin{document}
+
+% Title, centered for the whole page
+\clearpage
+\onecolumn
+\vspace*{\fill}
+\begin{center}
+    \Large Texts, Translations and Commentaries
+\end{center}
+\vspace*{\fill}
+
+% Transition to two-column format
+\twocolumn
+
+% Preparatory paragraphs
+\noindentation
+% Add your introductory text here. The first paragraph will not be indented.
+
+\indented
+% Subsequent paragraphs will be indented. Add your additional introductory text here.
+
+% Poem Section Template
+% Example usage of the poem structure:
+% \poemtitle{Poem Title}
+% Poem text here.
+%
+% \poemasterisks
+% Translation text here.
+%
+% \poemsection{Notes}
+% Notes about the poem.
+%
+% \poemsection{Commentary}
+% Commentary about the poem.
+%
+% \poemsection{Other settings}
+% \begin{itemize}
+%     \setlength{\itemindent}{1cm}
+%     \item Catalog No. 1
+%     \item Catalog No. 2
+% \end{itemize}
+
+\end{document}

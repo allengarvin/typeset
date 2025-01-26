@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Quando’l mio vivo sol perch’io non pera"
     subtitle = "Seconda parte"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Canto (part 1 of 5)"

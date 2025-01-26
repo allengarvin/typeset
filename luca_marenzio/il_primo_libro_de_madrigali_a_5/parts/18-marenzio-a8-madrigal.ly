@@ -2,7 +2,7 @@
 % Ch'è della vita mia, ch'è del mio Amore?
 % -more- 
 % Dunque, Ninfa gentil, se lei si more,
-% Non vedrò le sue luci a fé giammai?
+% Non vedrò le sue luci a fè giammai?
 % -mai-
 % Che farò dunque in sì noiosa vita?
 % Chi mi sonsolerà nel stato mio?
@@ -10,17 +10,17 @@
 % E tu, come ti chiami, miserella,
 % Che consolarmi voi in questo speco?
 % -eco-
-% Eco gentil che ne gli ultimi accenti
+% Eco gentil che negli ultimi accenti
 % Mi risponde, non son d'amanti esempio?
 % -empio-
 % E perché mi risponde ch'io son empio?
 % Non ho avuto pietà di suoi lamenti?
 % -menti-
 % Mentir non posso che'l ciel e le stelle
-% Ponno far fede s'io gl'ho dato guai!
+% Ponno far fede s'io gli~ho dato guai!
 % -Hai-
 % Or sia come si voglia, a Dio, ti lasso,
-% Spirto c'hai voce e fra gli boschi vivi,
+% Spirto ch'hai voce e fra gli boschi vivi,
 % Or quanto ho detto fra gli tronchi scrivi.
 % Tasso Rime, 299
 
@@ -72,11 +72,11 @@ CIcantoXVIII = \relative c'' {
 }
 
 CIcantoLyricsXVIII = \lyricmode {
-    O tu che fra le sel -- ve~oc -- cul -- ti vi -- vi,
+    O tu che fra le sel -- ve~oc -- cul -- ta vi -- vi,
     Ch'è del -- la vi -- ta mia, ch'è del __ mio~A -- mo -- re?
 % -more- 
     Dun -- que, Nin -- fa gen -- til, se lei si mo -- re,
-    Non ve -- drò le sue lu -- ci~a fé giam -- ma -- i?
+    Non ve -- drò le sue lu -- ci~a fè giam -- ma -- i?
 % -mai-
     Che fa -- rò dun -- que~in __ sì no -- io -- sa vi -- ta?
     Chi mi son -- so -- le -- rà,
@@ -84,9 +84,9 @@ CIcantoLyricsXVIII = \lyricmode {
 % -io-
     E tu, 
     E tu, co -- me ti chia -- mi, mi -- se -- rel -- la,
-    Che con -- so -- lar -- mi voi in que -- sto spe -- co?
+    Che mi con -- so -- la voi in que -- sto spe -- co?
 % -eco-
-    E -- co gen -- til che ne gli~ul -- ti -- mi~ac -- cen -- ti
+    Ec -- co gen -- til che ne -- gli~ul -- ti -- mi~ac -- cen -- ti
     Mi ri -- spon -- de, non son non son
     \ijLyrics
         non son 
@@ -99,10 +99,10 @@ CIcantoLyricsXVIII = \lyricmode {
 % -menti-
     Men -- tir non pos -- so che'l ciel,
         che'l ciel e le stel -- le
-    Pon -- no far fe -- de s'io gl'ho da -- to gua -- i!
+    Pon -- no far fe -- de s'io gli~ho da -- to gua -- i!
 % -guai-
     Or sia co -- me si vo -- glia, a Dio, ti las -- so,
-    Spir -- to c'hai vo -- ce e fra gli bo -- schi vi -- vi,
+    Spir -- to ch'hai vo -- ce e fra gli bo -- schi vi -- vi,
     Or quan -- to~ho det -- to fra gli tron -- chi scri -- vi,
         tron -- chi scri -- vi,
         fra gli tron -- chi scri -- vi,
@@ -155,12 +155,12 @@ CIaltoXVIII = \relative c' {
 }
 
 CIaltoLyricsXVIII = \lyricmode {
-    O tu che fra le sel -- ve~oc -- cul -- ti vi -- vi,
+    O tu che fra le sel -- ve~oc -- cul -- ta vi -- vi,
     Ch'è del -- la vi -- ta mia,
     Ch'è del -- la vi -- ta mia, ch'è del mio~A -- mo -- re?
 % -more- 
     Dun -- que, Nin -- fa gen -- til, se lei si mo -- re,
-    Non ve -- drò le sue lu -- ci~a fé giam -- ma -- i?
+    Non ve -- drò le sue lu -- ci~a fè giam -- ma -- i?
 % -mai-
     Che fa -- rò dun -- que~in __ sì no -- io -- sa vi -- ta?
     Chi mi son -- so -- le -- rà,
@@ -168,9 +168,9 @@ CIaltoLyricsXVIII = \lyricmode {
 % -io-
     E tu, co -- me ti chia -- mi,
         co -- me ti chia -- mi, mi -- se -- rel -- la,
-    Che con -- so -- lar -- mi voi in que -- sto spe -- co?
+    Che mi con -- so -- la voi in que -- sto spe -- co?
 % -eco-
-    E -- co gen -- til che ne gli~ul -- ti -- mi~ac -- cen -- ti
+    Ec -- co gen -- til che ne -- gli~ul -- ti -- mi~ac -- cen -- ti
     Mi ri -- spon -- de, 
     Mi ri -- spon -- de, non son, non son d'a -- man -- ti~e -- sem -- pio?
 % -empio-
@@ -181,10 +181,10 @@ CIaltoLyricsXVIII = \lyricmode {
 % -menti-
     Men -- tir non pos -- so che'l ciel,
         che'l ciel e le stel -- le
-    Pon -- no far fe -- de s'io __ gl'ho da -- to gua -- i!
+    Pon -- no far fe -- de s'io __ gli~ho da -- to gua -- i!
 % -guai-
     Or sia co -- me si vo -- glia, a Dio, ti las -- so,
-    Spir -- to c'hai vo -- ce e fra gli bo -- schi vi -- vi,
+    Spir -- to ch'hai vo -- ce e fra gli bo -- schi vi -- vi,
     Or quan -- to~ho det -- to fra gli tron -- chi scri -- vi,
         tron -- chi scri -- vi,
         fra gli tron -- chi scri -- vi,
@@ -238,7 +238,7 @@ CItenoreXVIII = \relative c' {
 }
 
 CItenoreLyricsXVIII = \lyricmode {
-    O tu che fra le sel -- ve~oc -- cul -- ti vi -- vi,
+    O tu che fra le sel -- ve~oc -- cul -- ta vi -- vi,
     Ch'è del -- la vi -- ta mia, 
     \ijLyrics
     Ch'è del -- la vi -- ta mia, 
@@ -246,7 +246,7 @@ CItenoreLyricsXVIII = \lyricmode {
         ch'è del __ mio~A -- mo -- re?
 % -more- 
     Dun -- que, Nin -- fa gen -- til, se lei si mo -- re,
-    Non ve -- drò le sue lu -- ci~a fé giam -- ma -- i?
+    Non ve -- drò le sue lu -- ci~a fè giam -- ma -- i?
 % -mai-
     Che fa -- rò dun -- que~in sì no -- io -- sa vi -- ta?
     Chi mi son -- so -- le -- rà, __
@@ -254,9 +254,9 @@ CItenoreLyricsXVIII = \lyricmode {
 %% -io-
     E tu, 
     E tu, co -- me ti chia -- mi, mi -- se -- rel -- la,
-    Che con -- so -- lar -- mi voi in que -- sto spe -- co?
+    Che mi con -- so -- la voi in que -- sto spe -- co?
 % -eco-
-    E -- co gen -- til che ne gli~ul -- ti -- mi~ac -- cen -- ti
+    Ec -- co gen -- til che ne -- gli~ul -- ti -- mi~ac -- cen -- ti
     Mi __ ri -- spon -- de, 
     Mi __ ri -- spon -- de, non son non son d'a -- man -- ti~e -- sem -- pio?
 % -empio-
@@ -269,10 +269,10 @@ CItenoreLyricsXVIII = \lyricmode {
     Men -- tir,
     Men -- tir non pos -- so che'l ciel,
         che'l ciel e le stel -- le
-    Pon -- no far fe -- de s'io gl'ho da -- to gua -- i!
+    Pon -- no far fe -- de s'io gli~ho da -- to gua -- i!
 % -guai-
     Or sia co -- me si vo -- glia, a Dio, ti las -- so,
-    Spir -- to c'hai vo -- ce e fra gli bo -- schi vi -- vi,
+    Spir -- to ch'hai vo -- ce e fra gli bo -- schi vi -- vi,
     Or quan -- to~ho det -- to fra gli tron -- chi scri -- vi,
         tron -- chi scri -- vi,
         fra gli tron -- chi scri -- vi,
@@ -332,16 +332,16 @@ CIbassoLyricsXVIII = \lyricmode {
         ch'è del mio~A -- mo -- re?
 % -more- 
     Dun -- que, Nin -- fa gen -- til, se lei si mo -- re,
-    Non ve -- drò le sue lu -- ci~a fé giam -- ma -- i?
+    Non ve -- drò le sue lu -- ci~a fè giam -- ma -- i?
 % -mai-
     Che fa -- rò dun -- que~in __ sì no -- io -- sa vi -- ta?
     Chi mi son -- so -- le -- rà,
     Chi mi son -- so -- le -- rà nel sta -- to mi -- o?
 % -io-
     E tu, co -- me ti chia -- mi, mi -- se -- rel -- la,
-    Che con -- so -- lar -- mi voi in que -- sto spe -- co?
+    Che mi con -- so -- la voi in que -- sto spe -- co?
 % -eco-
-    E -- co gen -- til che ne gli~ul -- ti -- mi~ac -- cen -- ti
+    Ec -- co gen -- til che ne -- gli~ul -- ti -- mi~ac -- cen -- ti
     Mi __ ri -- spon -- de,
     Mi __ ri -- spon -- de, non son non son d'a -- man -- ti~e -- sem -- pio?
 % -empio-
@@ -352,10 +352,10 @@ CIbassoLyricsXVIII = \lyricmode {
 % -menti-
     Men -- tir non pos -- so che'l ciel,
         che'l ciel e le stel -- le
-    Pon -- no far fe -- de s'io __ gl'ho da -- to gua -- i!
+    Pon -- no far fe -- de s'io __ gli~ho da -- to gua -- i!
 % -guai-
     Or sia co -- me si vo -- glia, a Dio, ti las -- so,
-    Spir -- to c'hai vo -- ce e fra gli bo -- schi vi -- vi,
+    Spir -- to ch'hai vo -- ce e fra gli bo -- schi vi -- vi,
     Or quan -- to~ho det -- to fra gli tron -- chi scri -- vi,
     \ijLyrics
         tron -- chi scri -- vi,
@@ -432,7 +432,7 @@ CIIcantoLyricsXVIII = \lyricmode {
     Ha -- i
 
     Or sia co -- me si vo -- glia, a Dio, ti las -- so,
-        c'hai vo -- ce e fra gli bo -- schi vi -- vi,
+        ch'hai vo -- ce e fra gli bo -- schi vi -- vi,
     Or quan -- to~ho det -- to fra gli tron -- chi scri -- vi,
     \ijLyrics
         tron -- chi scri -- vi,
@@ -479,7 +479,7 @@ CIIaltoLyricsXVIII = \lyricmode {
     Ha -- i
 
     Or sia co -- me si vo -- glia, a Dio, ti las -- so,
-        c'hai vo -- ce e fra gli bo -- schi vi -- vi,
+        ch'hai vo -- ce e fra gli bo -- schi vi -- vi,
     Or quan -- to~ho det -- to fra gli tron -- chi scri -- vi,
         tron -- chi scri -- vi,
         fra gli tron -- chi scri -- vi,
@@ -522,7 +522,7 @@ CIItenoreLyricsXVIII = \lyricmode {
     Ha -- i
 
     Or sia co -- me si vo -- glia, a Dio, ti las -- so,
-        c'hai vo -- ce e fra gli bo -- schi vi -- vi,
+        ch'hai vo -- ce e fra gli bo -- schi vi -- vi,
     Or quan -- to~ho det -- to fra gli tron -- chi scri -- vi,
         tron -- chi scri -- vi,
         fra gli tron -- chi scri -- vi,
@@ -566,7 +566,7 @@ CIIbassoLyricsXVIII = \lyricmode {
     Ha -- i
 
     Or sia co -- me si vo -- glia, a Dio, ti las -- so,
-        c'hai vo -- ce e fra gli bo -- schi vi -- vi,
+        ch'hai vo -- ce e fra gli bo -- schi vi -- vi,
     Or quan -- to~ho det -- to fra gli tron -- chi scri -- vi,
         tron -- chi scri -- vi,
         fra gli tron -- chi scri -- vi,

@@ -10,7 +10,6 @@
 \header {
     % Things that change per piece:
     title = "Questa di verdi erbette"
-    folio = "Anonymous poet"
 
     % Things that change per part:
     partname = "Quinto (part 2 of 5)"

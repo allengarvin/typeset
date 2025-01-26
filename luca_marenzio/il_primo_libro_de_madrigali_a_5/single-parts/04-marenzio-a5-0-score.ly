@@ -15,7 +15,6 @@
     instrument = "Quando'l mio vivo (score)"
     needtranslation = #'f
     language = "italian"
-    folio = "Anonymous poet"
     poeticform = "sonnet"
 
     % Unchanging:

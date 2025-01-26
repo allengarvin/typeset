@@ -11,7 +11,6 @@
     % Things that change per piece:
     title = "Spuntavan già per far il mondo adorno"
     subtitle = "Prima parte"
-    folio = "Anonymous poet"
 
 
     % Things that change per part:
