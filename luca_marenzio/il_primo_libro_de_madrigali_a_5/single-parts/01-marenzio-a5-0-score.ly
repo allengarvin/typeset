@@ -102,12 +102,13 @@
             \column {
                 % translation: 2023-05-??
                 % translation update: 2023-11-11 (very slight: bastava to a past tense)
-                \line { Liquid pearls from Love's eyes scattered }
+                % update again: 2025-01-25
+                \line { Love scattered liquid pearls from her eyes }
                 \line { in reward for my ardor, }
                 \line { but, ah, alas! my heart }
                 \line { burns from a fiercer flame; }
                 \line { Ah, it alone sufficed, }
-                \line { that first ardent pain, to bring me death. }
+                \line { my first passionate pain, to bring me death. }
                 \line { \hspace #10 \italic { translation by editor } } 
             }
         }
