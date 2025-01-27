@@ -29,7 +29,7 @@
 \include "../parts/22-wert-a6-madrigal.ly"
     
 \book {
-    \bookOutputName "22-pero_boschi"
+    \bookOutputName "22-wert--pero_boschi"
     \bookOutputSuffix "--4-quinto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -43,7 +43,7 @@
 }
 
 \book {
-    \bookOutputName "22-pero_boschi"
+    \bookOutputName "22-wert--pero_boschi"
     \bookOutputSuffix "--4-quinto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -58,7 +58,7 @@
 
 #(set-global-staff-size 18.2)
 \book {
-    \bookOutputName "22-pero_boschi"
+    \bookOutputName "22-wert--pero_boschi"
     \bookOutputSuffix "--4-quinto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {

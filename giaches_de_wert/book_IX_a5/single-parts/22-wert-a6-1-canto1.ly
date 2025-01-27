@@ -29,7 +29,7 @@
 \include "../parts/22-wert-a6-madrigal.ly"
     
 \book {
-    \bookOutputName "22-pero_boschi"
+    \bookOutputName "22-wert--pero_boschi"
     \bookOutputSuffix "--1-canto-1--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {

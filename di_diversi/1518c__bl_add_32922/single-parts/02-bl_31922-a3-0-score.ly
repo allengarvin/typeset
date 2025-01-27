@@ -68,7 +68,8 @@
                 \addlyrics { \bassusLyricsIIthree }
             >>
         >>
-        \include "../include/layout-score.ly"
+        \include "../include/vocal-layout-score-barring.ly"
+
         \midi {
             \context {
                 \Score

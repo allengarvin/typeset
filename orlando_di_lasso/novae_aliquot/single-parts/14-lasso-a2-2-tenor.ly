@@ -23,7 +23,7 @@
     tagline = #'f
 }
 
-\include "../parts/14-lasso-a2-motet.ly"
+\include "../parts/14-lasso-a2-bicinium.ly"
 
 \book {
     \bookOutputName "14-lasso--bicinimum:_sinu_textu_2"
