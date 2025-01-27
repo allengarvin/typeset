@@ -1,8 +1,7 @@
-% Signori et cavalieri
-% D'ingegno e forza udite la vittoria
-% Del Duca di Milan Francesco Sforza 
+% Signori e cavalieri d'ingegnio e forza
+% udite la vittoria del Duca di Milan Francesco Sforza 
 % Pon pire pon lire pon lire lon
-% AII'armi o trombetti o tamburini
+% all'armi o trombetti o tamburini
 % Li inimici son vicini 
 % Butte selle monta a caval
 % Tutt'alli stendard,
@@ -14,9 +13,9 @@
 % Gli aversari vengon gagliardi
 % Via caval leggieri 
 % Gente state d'armi all'ordinieri in quella prataria 
-% Capitan et buon guerrieri
+% Capitan e buon guerrieri
 % De la nobil fantaria 
-% Da man manc'arditi et fieri
+% Da man manc'arditi e fieri
 % In battaglia ciascun stia 
 % Vivandieri Carriazzi Saccomani
 % Su via non passate quei sentieri
@@ -50,7 +49,8 @@ cantusI = \relative c' {
 
     c4. c8 a4 bf | c2 f, c'2.( bf4 | a2) g2.( f4) f2 ~ | f( e) f r4 a | 
         a2 r4 a a2 r4 a | 
-        a4 a a f \times 2/3 { a1 a2 } | \singleTime\time 3/2 a1 a2 a1 a2 a1 a2 |
+               % vvvvvvvvvvvvvvvvvvvvv 3/2 starts early, squaring it out
+        a4 a a f a2. a4 | \singleTime\time 3/2 a1 a2 a1 a2 a1 a2 |
 
     \fourTwoCutTime a4 a a f g1 | r2 c a bf | g c bf4 a g2 | g c c4 c c bf |
         c c c2 a r4 a | a a a a a2 r4 a | a2
@@ -77,7 +77,8 @@ cantusI = \relative c' {
         a2 r4 a a8[ a a a] a4 c | a2 r4 a 
 
     a8[ a a a ] a4 c4 | a8[ a a a] a4 c a2 c | f c a f | 
-        \invisibleTime\time 2/2 c'1 a\breve |
+        c'1 a ~ |
+        \invisibleTime\time 2/2 a1
         \singleTime\time 3/2 g1 g2 | a1 g2 | 
         \colorBr c2\colorBrBegin d1\colorBrEnd |
         c1 c2 | c1 c2 | c1 bf2 | \colorBr c2\colorBrBegin d1\colorBrEnd |
@@ -111,8 +112,8 @@ cantusI = \relative c' {
 }
 
 cantusLyricsI = \lyricmode {
-    Si -- gno -- ri et Ca -- va -- lie -- ri
-    d'in -- ge -- gno~e __ for -- za 
+    Si -- gno -- ri e Ca -- va -- lie -- ri
+    d'in -- ge -- gn'e __ for -- za 
         u -- di -- te la vit -- to -- ri -- a del Du -- ca,
         u -- di -- te la vit -- to -- ri -- a 
             del Du -- ca di Mi -- lan Fran -- ce -- sco Sfor -- za,
@@ -188,7 +189,7 @@ cantusLyricsI = \lyricmode {
     fan -- fa ri ra ri ra ron fa,
         ri ra ri ra ron 
     \normalLyrics
-    fa, fan fan fan fan fan fan fan.
+    fa, fan fan fan fan fan fan fan. __
 
     
     Gen -- te d'ar -- me~a li sten -- dar -- di 
@@ -237,6 +238,7 @@ altusIincipit = \relative c' {
     c1
 }
 
+% altus: checked 2025-01-26 (6 years later??)
 altusI = \relative c' {
     \fourTwoCutTime
     \clef mezzosoprano
@@ -266,14 +268,15 @@ altusI = \relative c' {
     g2. f8[ g] | a2. g4 f g a f | g1 g2. f8[ g] | a2 c,4 d e f g e |
         f2. e8[ f] g2. f8[ g] | a4 g a bf a1 | a2. g8[ f] g2. f8[ g] |
 
-    a4 g a bf a2. g8[ f] | g2. f8[ g] a1 | f,4 g a bf c d c2 | 
-        f r4 a a2 r4 a | a2 r4 a a a a a | a2 r4 a a2 e | 
+    a4 g a bf a2. g8[ f] | g2. f8[ g] a1 ~ | a f,4 g a bf |
+        c d c2 f r4 a | a2 r4 a a2 r4 a | a a a a a2 r4 a | a2 e 
 
     f4 f f f | f2 a f1 | r2 e f4 f f f | f2 a f1 | r2 e f4 f f f | f2 a f1 |
         r2 e f8[ f f f] f4 a | f2 r4 f f8[ f f f ]
 
     f4 a | f2 r4 f f8[ f f f] f4 a | f2 r4 f f8[ f f f] f4 c |
-        f8[ f f f] f4 c f2 r4 a | a2 f c a | f f' f1 ~ | f
+        f8[ f f f] f4 c f2 r4 a | a2 f c a | f f' f1 ~ |
+        \invisibleTime\time 2/2 f1
 
     \singleTime\time 3/2 e1 e2 | \colorBr f1\colorBrBegin d2\colorBrEnd |
         a'2 bf1 | \colorBr a1\colorBrBegin a2\colorBrEnd | g1 g2 | a1 g2 |
@@ -284,11 +287,11 @@ altusI = \relative c' {
     \fourTwoCutTime a1 r1 | R\breve*3 | r2 f4 f f f f d | e2 f1 f4 g |
         a2 f4 g2 f e4 | f2 f f e | c ef1 d2 | c1 c2 r4 f | f2 d e f ~ | f e
 
-    d1 | e r2 f | g bf a g | b g2.( f4 g8[ f e d] | e1) f4 g a2 |
+    d1 | e r2 f | g bf a g | bf g2.( f4 g8[ f e d] | e1) f4 g a2 |
         f r2 f4 g a2 | \singleTime\time 3/2  f1 f2 | e1 e2 | f1 f2 |
         a1 g2 | bf1 g2 | f1 g2 |
 
-    a2 d2. c4 | f2 g1 | \fourTwoCutTime e2 f1 f2 | d d d c | c c f4 d e d |
+    a2 bf2. a4 | f2 g1 | \fourTwoCutTime e2 f1 f2 | d d d c | c c f4 d e d |
         c d e2 f r | r c4 c f2 f | d f2. e4 d2 | c1
 
     c4 f f f | e2 e e4 e2 e4 | e2 e4 e e e e e8[ e] |
@@ -298,11 +301,141 @@ altusI = \relative c' {
         f1 f2 | f1 e2 | \fourTwoCutTime f4 d e d c d e2 | f r r c4 c |
         f2 f d f ~ | f4 e
 
-    d2 c c4 c | c c8[ c] a4 f | c'\longa*1/2
+    d2 c c4 c | c c8[ c] a4 f c'\longa*1/4
     \bar "|."
 }
 
 altusLyricsI = \lyricmode {
+    Si -- gno -- ri e Ca -- va -- lie -- ri d'in -- ge -- gni -- o~e for -- za
+        u -- di -- te la vit -- to -- ri -- a del Du -- ca,
+        u -- di -- te la vit -- to -- ri -- a
+            del Du -- ca di Mi -- lan Fran -- ce -- sco Sfor -- za,
+            del Du -- ca di Mi -- lan,
+            del Du -- ca di Mi -- lan Fran -- ce -- sco Sfor -- za,
+    al -- l'arm,
+    \ijLyrics
+    al -- l'arm,
+    \normalLyrics
+    al -- l'arm, al -- l'arm, al -- l'arm, al -- l'arm,
+    \ijLyrics
+    al -- l'arm, al -- l'arm, al -- l'arm, 
+    \normalLyrics
+    al -- l'arm, al -- l'arm,
+%        % Pon pire pon lire pon lire lon
+    o trom -- bet -- ti, o tam -- bu -- ri -- ni
+    li i -- ni -- mi -- ci son vi -- ci -- ni,
+    al -- l'arm, al -- l'arm, al -- l'arm,
+    \ijLyrics
+    al -- l'arm, al -- l'arm, al -- l'arm, al -- l'arm, 
+    \normalLyrics
+        al -- l'arm, 
+    but -- te sel -- le a ca -- val,
+    but -- te sel -- le a ca -- val,
+    \ijLyrics
+    but -- te sel -- le a ca -- val,
+    \normalLyrics
+    tut -- t'al -- li sten -- dard,
+    \ijLyrics
+    tut -- t'al -- li sten -- dard,
+    tut -- t'al -- li sten -- dard,
+    \normalLyrics
+    tut -- t'al -- li sten -- dard,
+    \ijLyrics
+    tut -- t'al -- li sten -- dard,
+    \normalLyrics
+    ta -- ra tu -- re lu -- re lu -- re la,
+    \ijLyrics
+        tu -- re lu -- re lu -- re la,
+        tu -- re lu -- re lu -- re la,
+    \normalLyrics
+    ta -- ra tu -- re lu -- re lu -- re la,
+        ta -- ra ra ta -- ra ra,
+    \ijLyrics
+        ta -- ra ra ta -- ra ra,
+    \normalLyrics
+            ta -- ra
+    \ijLyrics
+            ta -- ra
+    \normalLyrics
+            ta -- ra
+            ta -- ra ra
+    Fa ri ra ri ra ri ron,
+%    i -- nant, i -- nant,
+%    tut -- t'al -- li sten -- dar -- di~i -- nant,
+%    i -- nant,
+%    tut -- t'al -- li sten -- dar -- di~i -- nant,
+%    i -- nant' i -- nant,
+%    tut -- t'al -- li sten -- dar -- di~i -- nant,
+%    tut -- t'al -- li sten -- dard,
+%    \ijLyrics
+%    tut -- t'al -- li sten -- dard,
+%    tut -- t'al -- li sten -- dard,
+%    \normalLyrics
+%    Fa ri ra ri ra ri ron fa ri ri ron,
+%    \ijLyrics
+%    fa ri ra ri ra ri ron ri ri ron,
+%    \normalLyrics
+%    fa ra ri ra fa ra ri ron,
+%    fa ra ri ra ri ron fa ri ra \ijLyrics fa ri ra, \normalLyrics
+%    fa ra ri ra, \ijLyrics fa ra ri ra, \normalLyrics
+%    fa ra ri ra ri ron, fa ri ra ri ra ri ron,
+%    fa ra ri ra ri ron,
+%    \ijLyrics
+%    fa ra ri ra ri ra ri ron,
+%    \normalLyrics
+%
+%    Fan -- fa ri ra ri ra ron fa,
+%    \ijLyrics
+%    fan -- fa ri ra ri ra ron fa,
+%    fan -- fa ri ra ri ra ron fa,
+%    \normalLyrics
+%
+%    fan -- fa ri ra ri ra ron fa,
+%    \ijLyrics
+%    fan -- fa ri ra ri ra ron fa,
+%    fan -- fa ri ra ri ra ron fa,
+%    fan -- fa ri ra ri ra ron fa,
+%        ri ra ri ra ron
+%    \normalLyrics
+%    fa, fan fan fan fan fan fan fan.
+%
+%
+%    Gen -- te d'ar -- me~a li sten -- dar -- di
+%    su su fan -- ti~al -- la ban -- die -- re
+%    gli~a -- ver -- sa -- ri ven -- gon ga -- gliar -- di,
+%    vi -- a, vi -- a ca -- vai leg -- gie -- ri,
+%    % Gente state d'armi all'ordinieri in quella prataria
+%    ca -- pi -- tan e buon guer -- rie -- ri
+%    de la no -- bil fan -- ta -- ri -- a,
+%        fan -- ta -- ri -- a,
+%    \ijLyrics
+%        fan -- ta -- ri -- a,
+%    \normalLyrics
+%    da man man -- c'ar -- di -- ti~e fie -- ri
+%    in bat -- ta -- glia cia -- scun sti -- a
+%    car -- ri -- az -- zi,
+%    sac -- co -- ma -- ni,
+%    su vi -- a, vi -- a non pas -- sa -- te quei sen -- tie -- ri,
+%    % Vivandieri Carriazzi Saccomani
+%% Su via non passate quei sentieri
+%    sta -- ti stret -- t'in com -- pa -- gnia
+%    ful -- mi -- na -- te can -- no -- nie -- ri
+%    con la vo -- str'ar -- ti -- glie -- ri -- a,
+%
+%    tric trac tric trac,
+%    \ijLyrics
+%    tric trac tric trac,
+%    \normalLyrics
+%    tif tof,
+%    \ijLyrics
+%    tif tof,
+%    \normalLyrics
+%    tu -- re lu -- re lof tif tof tif tof tu -- re lu -- re lof,
+%    fa ri ra ri ra ron maz -- za maz -- za,
+%    I -- ta -- li -- a, Du -- ca, du -- ca, du -- ca,
+%    maz -- za toc -- ca da -- gli,
+%    ful -- mi -- na -- te can -- no -- nie -- ri,
+%    con la vo -- str'ar -- ti -- glie -- ri -- a.
 }
 
 tenorIincipit = \relative c {
@@ -339,6 +472,122 @@ tenorI = \relative c {
 }
 
 tenorLyricsI = \lyricmode {
+%    Si -- gno -- ri e Ca -- va -- lie -- ri
+%    d'in -- ge -- gn'e for -- za
+%        u -- di -- te la vit -- to -- ri -- a del Du -- ca,
+%        u -- di -- te la vit -- to -- ri -- a
+%            del Du -- ca di Mi -- lan Fran -- ce -- sco Sfor -- za,
+%            del Du -- ca di Mi -- lan,
+%            del Du -- ca di Mi -- lan Fran -- ce -- sco Sfor -- za,
+%    al -- l'arm,
+%    \ijLyrics
+%    al -- l'arm,
+%    \normalLyrics
+%    al -- l'arm, al -- l'arm, al -- l'arm,
+%    \ijLyrics
+%    al -- l'arm, al -- l'arm, al -- l'arm,
+%    al -- l'arm, al -- l'arm, al -- l'arm,
+%    \normalLyrics
+%        % Pon pire pon lire pon lire lon
+%    o trom -- bet -- ti, o tam -- bu -- ri -- ni
+%    li i -- ni -- mi -- ci son vi -- ci -- ni,
+%    al -- l'arm,
+%    \ijLyrics
+%    al -- l'arm, al -- l'arm,
+%    \normalLyrics
+%    al -- l'arm, al -- l'arm,
+%    \ijLyrics
+%    al -- l'arm, al -- l'arm,
+%    \normalLyrics
+%
+%    but -- te sel -- le a ca -- val,
+%    \ijLyrics
+%    but -- te sel -- le a ca -- val,
+%    but -- te sel -- le a ca -- val,
+%    \normalLyrics
+%    tut -- t'al -- li sten -- dard,
+%    tut -- t'al -- li sten -- dard,
+%    \ijLyrics
+%    tut -- t'al -- li sten -- dard,
+%    \normalLyrics
+%    tut -- t'al -- li sten -- dard,
+%    Fa ri ra ri ra ri ron,
+%    i -- nant, i -- nant,
+%    tut -- t'al -- li sten -- dar -- di~i -- nant,
+%    i -- nant,
+%    tut -- t'al -- li sten -- dar -- di~i -- nant,
+%    i -- nant' i -- nant,
+%    tut -- t'al -- li sten -- dar -- di~i -- nant,
+%    tut -- t'al -- li sten -- dard,
+%    \ijLyrics
+%    tut -- t'al -- li sten -- dard,
+%    tut -- t'al -- li sten -- dard,
+%    \normalLyrics
+%    Fa ri ra ri ra ri ron fa ri ri ron,
+%    \ijLyrics
+%    fa ri ra ri ra ri ron ri ri ron,
+%    \normalLyrics
+%    fa ra ri ra fa ra ri ron,
+%    fa ra ri ra ri ron fa ri ra \ijLyrics fa ri ra, \normalLyrics
+%    fa ra ri ra, \ijLyrics fa ra ri ra, \normalLyrics
+%    fa ra ri ra ri ron, fa ri ra ri ra ri ron,
+%    fa ra ri ra ri ron,
+%    \ijLyrics
+%    fa ra ri ra ri ra ri ron,
+%    \normalLyrics
+%
+%    Fan -- fa ri ra ri ra ron fa,
+%    \ijLyrics
+%    fan -- fa ri ra ri ra ron fa,
+%    fan -- fa ri ra ri ra ron fa,
+%    \normalLyrics
+%
+%    fan -- fa ri ra ri ra ron fa,
+%    \ijLyrics
+%    fan -- fa ri ra ri ra ron fa,
+%    fan -- fa ri ra ri ra ron fa,
+%    fan -- fa ri ra ri ra ron fa,
+%        ri ra ri ra ron
+%    \normalLyrics
+%    fa, fan fan fan fan fan fan fan.
+%
+%
+%    Gen -- te d'ar -- me~a li sten -- dar -- di
+%    su su fan -- ti~al -- la ban -- die -- re
+%    gli~a -- ver -- sa -- ri ven -- gon ga -- gliar -- di,
+%    vi -- a, vi -- a ca -- vai leg -- gie -- ri,
+%    % Gente state d'armi all'ordinieri in quella prataria
+%    ca -- pi -- tan e buon guer -- rie -- ri
+%    de la no -- bil fan -- ta -- ri -- a,
+%        fan -- ta -- ri -- a,
+%    \ijLyrics
+%        fan -- ta -- ri -- a,
+%    \normalLyrics
+%    da man man -- c'ar -- di -- ti~e fie -- ri
+%    in bat -- ta -- glia cia -- scun sti -- a
+%    car -- ri -- az -- zi,
+%    sac -- co -- ma -- ni,
+%    su vi -- a, vi -- a non pas -- sa -- te quei sen -- tie -- ri,
+%    % Vivandieri Carriazzi Saccomani
+%% Su via non passate quei sentieri
+%    sta -- ti stret -- t'in com -- pa -- gnia
+%    ful -- mi -- na -- te can -- no -- nie -- ri
+%    con la vo -- str'ar -- ti -- glie -- ri -- a,
+%
+%    tric trac tric trac,
+%    \ijLyrics
+%    tric trac tric trac,
+%    \normalLyrics
+%    tif tof,
+%    \ijLyrics
+%    tif tof,
+%    \normalLyrics
+%    tu -- re lu -- re lof tif tof tif tof tu -- re lu -- re lof,
+%    fa ri ra ri ra ron maz -- za maz -- za,
+%    I -- ta -- li -- a, Du -- ca, du -- ca, du -- ca,
+%    maz -- za toc -- ca da -- gli,
+%    ful -- mi -- na -- te can -- no -- nie -- ri,
+%    con la vo -- str'ar -- ti -- glie -- ri -- a.
 }
 
 bassusIincipit = \relative c {
@@ -376,6 +625,122 @@ bassusI = \relative c {
 }
 
 bassusLyricsI = \lyricmode {
+%    Si -- gno -- ri e Ca -- va -- lie -- ri
+%    d'in -- ge -- gn'e for -- za
+%        u -- di -- te la vit -- to -- ri -- a del Du -- ca,
+%        u -- di -- te la vit -- to -- ri -- a
+%            del Du -- ca di Mi -- lan Fran -- ce -- sco Sfor -- za,
+%            del Du -- ca di Mi -- lan,
+%            del Du -- ca di Mi -- lan Fran -- ce -- sco Sfor -- za,
+%    al -- l'arm,
+%    \ijLyrics
+%    al -- l'arm,
+%    \normalLyrics
+%    al -- l'arm, al -- l'arm, al -- l'arm,
+%    \ijLyrics
+%    al -- l'arm, al -- l'arm, al -- l'arm,
+%    al -- l'arm, al -- l'arm, al -- l'arm,
+%    \normalLyrics
+%        % Pon pire pon lire pon lire lon
+%    o trom -- bet -- ti, o tam -- bu -- ri -- ni
+%    li i -- ni -- mi -- ci son vi -- ci -- ni,
+%    al -- l'arm,
+%    \ijLyrics
+%    al -- l'arm, al -- l'arm,
+%    \normalLyrics
+%    al -- l'arm, al -- l'arm,
+%    \ijLyrics
+%    al -- l'arm, al -- l'arm,
+%    \normalLyrics
+%
+%    but -- te sel -- le a ca -- val,
+%    \ijLyrics
+%    but -- te sel -- le a ca -- val,
+%    but -- te sel -- le a ca -- val,
+%    \normalLyrics
+%    tut -- t'al -- li sten -- dard,
+%    tut -- t'al -- li sten -- dard,
+%    \ijLyrics
+%    tut -- t'al -- li sten -- dard,
+%    \normalLyrics
+%    tut -- t'al -- li sten -- dard,
+%    Fa ri ra ri ra ri ron,
+%    i -- nant, i -- nant,
+%    tut -- t'al -- li sten -- dar -- di~i -- nant,
+%    i -- nant,
+%    tut -- t'al -- li sten -- dar -- di~i -- nant,
+%    i -- nant' i -- nant,
+%    tut -- t'al -- li sten -- dar -- di~i -- nant,
+%    tut -- t'al -- li sten -- dard,
+%    \ijLyrics
+%    tut -- t'al -- li sten -- dard,
+%    tut -- t'al -- li sten -- dard,
+%    \normalLyrics
+%    Fa ri ra ri ra ri ron fa ri ri ron,
+%    \ijLyrics
+%    fa ri ra ri ra ri ron ri ri ron,
+%    \normalLyrics
+%    fa ra ri ra fa ra ri ron,
+%    fa ra ri ra ri ron fa ri ra \ijLyrics fa ri ra, \normalLyrics
+%    fa ra ri ra, \ijLyrics fa ra ri ra, \normalLyrics
+%    fa ra ri ra ri ron, fa ri ra ri ra ri ron,
+%    fa ra ri ra ri ron,
+%    \ijLyrics
+%    fa ra ri ra ri ra ri ron,
+%    \normalLyrics
+%
+%    Fan -- fa ri ra ri ra ron fa,
+%    \ijLyrics
+%    fan -- fa ri ra ri ra ron fa,
+%    fan -- fa ri ra ri ra ron fa,
+%    \normalLyrics
+%
+%    fan -- fa ri ra ri ra ron fa,
+%    \ijLyrics
+%    fan -- fa ri ra ri ra ron fa,
+%    fan -- fa ri ra ri ra ron fa,
+%    fan -- fa ri ra ri ra ron fa,
+%        ri ra ri ra ron
+%    \normalLyrics
+%    fa, fan fan fan fan fan fan fan.
+%
+%
+%    Gen -- te d'ar -- me~a li sten -- dar -- di
+%    su su fan -- ti~al -- la ban -- die -- re
+%    gli~a -- ver -- sa -- ri ven -- gon ga -- gliar -- di,
+%    vi -- a, vi -- a ca -- vai leg -- gie -- ri,
+%    % Gente state d'armi all'ordinieri in quella prataria
+%    ca -- pi -- tan e buon guer -- rie -- ri
+%    de la no -- bil fan -- ta -- ri -- a,
+%        fan -- ta -- ri -- a,
+%    \ijLyrics
+%        fan -- ta -- ri -- a,
+%    \normalLyrics
+%    da man man -- c'ar -- di -- ti~e fie -- ri
+%    in bat -- ta -- glia cia -- scun sti -- a
+%    car -- ri -- az -- zi,
+%    sac -- co -- ma -- ni,
+%    su vi -- a, vi -- a non pas -- sa -- te quei sen -- tie -- ri,
+%    % Vivandieri Carriazzi Saccomani
+%% Su via non passate quei sentieri
+%    sta -- ti stret -- t'in com -- pa -- gnia
+%    ful -- mi -- na -- te can -- no -- nie -- ri
+%    con la vo -- str'ar -- ti -- glie -- ri -- a,
+%
+%    tric trac tric trac,
+%    \ijLyrics
+%    tric trac tric trac,
+%    \normalLyrics
+%    tif tof,
+%    \ijLyrics
+%    tif tof,
+%    \normalLyrics
+%    tu -- re lu -- re lof tif tof tif tof tu -- re lu -- re lof,
+%    fa ri ra ri ra ron maz -- za maz -- za,
+%    I -- ta -- li -- a, Du -- ca, du -- ca, du -- ca,
+%    maz -- za toc -- ca da -- gli,
+%    ful -- mi -- na -- te can -- no -- nie -- ri,
+%    con la vo -- str'ar -- ti -- glie -- ri -- a.
 }
 
 cantusIincipitVoice = <<

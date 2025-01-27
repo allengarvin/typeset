@@ -26,7 +26,7 @@
 \include "../parts/14-lasso-a2-bicinium.ly"
 
 \book {
-    \bookOutputName "14-lasso--bicinimum:_sinu_textu_2"
+    \bookOutputName "14-lasso--bicinimum_sinu_textu_2"
     \bookOutputSuffix "--1-cantus--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {

@@ -31,7 +31,7 @@
     
 \book {
     \bookOutputName "21-wert--ha_ninfe"
-    \bookOutputSuffix "--2-canto-2--tr_clef"
+    \bookOutputSuffix "--2-canto_2--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

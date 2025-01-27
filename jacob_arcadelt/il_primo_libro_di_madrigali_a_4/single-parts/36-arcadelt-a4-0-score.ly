@@ -14,8 +14,8 @@
     folio = "Michelangelo Buonarroti (1475-1564)"
 
     % Unchanging:
-    originallyset = "2013-02-10"
-    lastupdated = "2013-02-10"
+    originallyset = "2013-36-10"
+    lastupdated = "2013-36-10"
     flats = 1
     final = "f"
     shorttitle = "deh_dimmi_amor"
@@ -24,10 +24,10 @@
     tagline = #'f
 }
 
-\include "../parts/02-arcadelt-a4-madrigal.ly"
+\include "../parts/36-arcadelt-a4-madrigal.ly"
     
 \book {
-    \bookOutputName "02-arcadelt--deh_dimmi_amor"
+    \bookOutputName "36-arcadelt--deh_dimmi_amor"
     \bookOutputSuffix "--0-score"
     \score {
          <<
