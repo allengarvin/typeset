@@ -8,6 +8,8 @@
 %    Uscir l'alma d'un core,
 %e separarsi, e non sentir dolore.
 
+% what's left? continuo figures (2025-01-27: Not sure when I set this in the past, maybe 2019?)
+
 cantoXXincipit = \relative c'' {
     \time 4/4
     \clef "petrucci-c1"
@@ -63,7 +65,7 @@ cantoLyricsXX = \lyricmode {
     \ijLyrics
     né vi duo -- le~il par -- ti -- re,
     \normalLyrics
-    Oi -- mé que -- st'è mo -- ri -- re
+    Ohi -- mé que -- st'è mo -- ri -- re
     Cru -- del,
     cru -- del e voi gio -- i -- te?
     cru -- del,
@@ -145,7 +147,7 @@ altoLyricsXX = \lyricmode {
     \ijLyrics
     né vi duo -- le~il par -- ti -- re,
     \normalLyrics
-    Oi -- mé % que -- st'è mo -- ri -- re
+    Ohi -- mé % que -- st'è mo -- ri -- re
     Cru -- del,
     cru -- del e voi gio -- i -- te?
     cru -- del,
@@ -209,7 +211,7 @@ tenoreXX = \relative c' {
         g2 r8 g[ g g] g[ g a bf] c2 ~ |
         c4 bf a( bf2 a4) bf2 | r2 r8 g[ bf g] 
 
-    d'4. c8 d2 | g, r2 r8 g[ g g] g[ g a bf] | c4. bf8 c2 f,8[ f' f e] d4 c |
+    d'4. c8 d2 | g, r2 r8 g[ g g] g[ g a bf] | c4. bf8 c2 f,8[ f' f e] d4 cs |
 
     d8[ a bf c] d2 g,8[ bf bf bf] bf[ bf c d] | 
     \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
@@ -227,8 +229,8 @@ tenoreLyricsXX = \lyricmode {
         a -- ni -- ma du -- ra,
         a -- ni -- ma du -- ra,
         a -- ni -- ma __ du -- ra,
-    Oi -- mé,
-    oi -- mé __ que -- st'è mo -- ri -- re
+    Ohi -- mé,
+    hi -- mé __ que -- st'è mo -- ri -- re
     Cru -- del,
     cru -- del e voi gio -- i -- te?
     cru -- del e voi gio -- i -- te?
@@ -306,7 +308,7 @@ bassoLyricsXX = \lyricmode {
     \ijLyrics
     né vi duo -- le~il par -- ti -- re,
     \normalLyrics
-%    Oi -- mé que -- st'è mo -- ri -- re
+%    Ohi -- mé que -- st'è mo -- ri -- re
     Cru -- del,
     \ijLyrics
     cru -- del

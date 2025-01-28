@@ -1,3 +1,29 @@
+% Dove sorge piacevole,
+% sebeto e dilettevole,
+% v'è un bel ricetto ch'alte piant'adombrano,
+% e da cor mesti ogni gran noia sgombrano,
+% quivi lieta sedea fra l'erbe tenere.
+% Gente amica di Venere,
+% ch'in questi accenti allegri a voce varia,
+% facea risonar l'aria,
+% cantiam ninfe e pastori,
+% viva la bella Dori.
+% 
+% % meter doesn't make any sense!
+%
+%liner-notes:
+%Where the Sebethos stream flows gently,
+%There is a sanctuary shaded by trees,
+%Which removes all cares from sad hearts.
+%Here among the tender plants
+%sit Venus’ friends,
+%Who with happy voices
+%Make the air ring.
+%Let us sing,
+%nymphs and shepherds:
+%“Long live beautiful Dori!”
+
+
 cantoIIincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
@@ -6,8 +32,8 @@ cantoIIincipit = \relative c'' {
     c4
 }
 
+% canto: checked against source
 cantoII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -17,9 +43,11 @@ cantoII = \relative c'' {
     g4. f8 e4 e d4. d8 | d2 r2 r1 | r1 r4 a fs2 ~ | fs4 g a4. a8 d,4 d' d d |
         e1 e | r1 r2 g | e4. f8 g2 c,1 | r2 e
 
-    c4. d8 e2 | d1 r2 r4 a | f4. g8 a2 g r2 | | c8([ d e f] g1) g2 | 
-        \invisibleTime\time 3/2 e2. e4 e2 d1 c2 |
-        \fourTwoCommonTime
+    c4. d8 e2 | d1 r2 r4 a | f4. g8 a2 g r2 | 
+        \invisibleTime\time 6/2 s1*0\raisedSixTwoTime
+        c8([ d e f] g1) g2 e1 |
+        \invisibleTime\time 4/2
+        \times 2/3 { e2. e4 e2 } \times 2/3 { d1 c2 } 
         b2. e4 f e 
 
     d4. d8 | e1 r4 d8[ c] b4 b8[ a] | g2. g4 d'1 ~ | d r4 b b4. c8 | 
@@ -32,12 +60,41 @@ cantoII = \relative c'' {
         d8[ d] c4 b2 a r2 | r1 c4 c8[ c] c4( b8[ a] | 
 
     gs4) a gs2 a2 r2 | r1 e'4 e8[ e] e4( d8[ c] | b4) c b2 c g4 g8[ a] |
-        b4 g g' g8[ g] g4( f8[ e] d4 c) d1
+        b4 g g' g8[ g] g4( f8[ e] d4) c d1
         e\longa*1/2
     \bar "|."
 }
 
 cantoLyricsII = \lyricmode {
+    Do -- ve sor -- ge pia -- ce -- vo -- le,
+        sor -- ge pia -- ce -- vo -- le,
+            pia -- ce -- vo -- le,
+    Se -- be -- to~e di -- let -- te -- vo -- le,
+        e di -- let -- te -- vo -- le,
+    V'è~un bel ri -- cet -- to % ch'al -- te pian -- t'a -- dom -- bra -- no,
+    E da cor me -- sti,
+    \ijLyrics
+    E da cor me -- sti
+    \normalLyrics
+        o -- gni gran noi -- a sgom -- bra -- no,
+    Qui -- vi lie -- ta se -- dea fra l'er -- be te -- ne -- re.
+    Gen -- te~a -- mi -- ca di Ve -- ne -- re, __
+    Ch'in que -- sti~ac -- cen -- ti~al -- le -- gri~a __ vo -- ce va -- ria,
+    Fa -- cea ri -- so -- nar __ l'a -- ria,
+        l'a -- ria,
+    Can -- tiam, __
+    Can -- tiam, __
+    Can -- tiam __ Nin -- f'e Pa -- sto -- ri,
+    \ijLyrics
+        Nin -- f'e Pa -- sto -- ri,
+    \normalLyrics
+    Vi -- va la bel -- la Do -- ri,
+    Vi -- va la bel -- la Do -- ri,
+    Vi -- va la bel -- la,
+    \ijLyrics
+    Vi -- va la bel -- la
+    \normalLyrics
+        Do -- ri.
 }
 
 altoIIincipit = \relative c' {
@@ -56,7 +113,7 @@ altoII = \relative c' {
     r1 c4 c g'2 | e4 e d4. d8 c2 r2 | g a4 c b4. b8 c4 e |
         d4. d8 e2 r2 d | e4 g
 
-    fs2. fs8 g4 e d4. d8 | c2 r2 r2 r4 d | d'4. c8 b4 b a4. a8 g2 | 
+    fs4. fs8 g4 e d4. d8 | c2 r2 r2 r4 d | d'4. c8 b4 b a4. a8 g2 | 
         r2 g fs4. g8 a4 a ~ | a g2 fs4 g g a g | 
 
     g1 g2 c,4. d8 | e8[ f] g2\ficta fs4\unficta g1 ~ | g\breve | R |
@@ -238,7 +295,7 @@ sestoII = \relative c' {
         r4 e e8([ d e f] g[ f e d] c2) | r1 r2 r4 g ~ | g8[ g] a4 e2
 
     e'1 | e4 e8[ e] e4.( d8 c4) a c( d | e1) a,2. d4 | d e d2 c r2 | 
-        R\breve | g'4 g8[ g] g1 g2 | g,1 c\lonnga*1/2
+        R\breve | g'4 g8[ g] g1 g2 | g,1 c\longa*1/2
     \bar "|."
 }
 
