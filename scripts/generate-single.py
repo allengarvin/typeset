@@ -353,10 +353,16 @@ def main(argv):
         sys.exit(1)
 
     # Uniq identifier so I can crosslink scores when generating indexes!
-    hash_object = hashlib.sha1(score_str)
-    score_str.replace("SHA1SUM", hash_object.hexdigest().decode("ascii"))
+    full_score_str = "\n".join(score_str) + "\n"
+
+    hash_object = hashlib.sha1(full_score_str)
+    if not "SHA1SUM" in full_score_str:
+        print("BUGGGGG")
+        sys.exit(1)
+    full_score_str = full_score_str.replace("SHA1SUM", hash_object.hexdigest())
     fd = open(args.score, "w")
-    fd.write("\n".join(score_str))
+    fd.write(full_score_str)
+
     print("{0}: created".format(args.score))
     for i in range(0, len(parts_in_order)):
         fn = "%s-%s-a%d-%s-%s.ly" % (num, composer, pnum, output_num(i+1, pnum), parts_in_order[i])
