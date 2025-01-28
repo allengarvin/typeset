@@ -6,26 +6,29 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 17.0)
+#(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2023-09-08"
-    originallyset = "2023-09-08"
-    flats = 0
-    final = "e"
+    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
+    cksum = "32b67c0115ea6af5265bfbf6d4cf9469e0f9df00"
+    lastupdated = "2025-01-27"
+    originallyset = "2025-01-27"
+    flats = 1
+    final = "d"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Bianca neve è il bel collo"
     subtitle = ""
+    subsubtitle = ""
     instrument = "Bianca neve è il bel collo:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "bianca_neve_e_il_bel_collo"
-    folio = \markup { Ludovico Ariosto, \italic{Orlando Furioso,} canto VII ottava 14 }
-    rhyme = "ABABABCC"
-    shortcomp = "lasso"
-    categories = "[madrigal,furioso]"
-    motifs = "[]"
+    shortcomp = "dorati"
+    composer = "Nicolo Dorati (c.1513-1593)"
+    categories = "[furioso,madrigal]"
+    motifs = "[beauty,breasts]"
     needtranslation = #'f
+    folio = \markup { Ludovico Ariosto, \italic {Orlando Furioso,} canto VII ottava 14 }
 
     % Unchanging:
     language = "italian"
@@ -33,62 +36,70 @@
     tagline = #'f
 }
 
-\include "../parts/22-lasso-a4-madrigal.ly"
+\include "../parts/14-dorati-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "22-lasso--bianca_neve_e_il_bel_collo-"
+    \bookOutputName "14-dorati--bianca_neve_e_il_bel_collo-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #5.0
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
-                    \set Staff.instrumentName = #"Discantus"
-                    \incipit \discantusXXIIincipitVoice
+                    \set Staff.instrumentName = #"Cantus"
+                    \incipit \cantusXIVincipitVoice
                     \clef "treble"
                     \global
-                    \discantusXXII
+                    \cantusXIV
                 >>
-             \addlyrics { \discantusLyricsXXII }
+             \addlyrics { \cantusLyricsXIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusXXIIincipitVoice
+                    \incipit \altusXIVincipitVoice
                     \clef "treble_8"
                     \global
-                    \altusXXII
+                    \altusXIV
                 >>
-             \addlyrics { \altusLyricsXXII }
+             \addlyrics { \altusLyricsXIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXXIIincipitVoice
+                    \incipit \tenorXIVincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorXXII
+                    \tenorXIV
                 >>
-             \addlyrics { \tenorLyricsXXII }
+             \addlyrics { \tenorLyricsXIV }
                 \new Voice <<
-                    \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusXXIIincipitVoice
+                    \set Staff.instrumentName = #"Quintus"
+                    \incipit \quintusXIVincipitVoice
                     \clef "bass"
                     \global
-                    \bassusXXII
+                    \quintusXIV
                 >>
-             \addlyrics { \bassusLyricsXXII }
+             \addlyrics { \quintusLyricsXIV }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Bassus"
+                    \incipit \bassusXIVincipitVoice
+                    \clef "bass"
+                    \global
+                    \bassusXIV
+                >>
+             \addlyrics { \bassusLyricsXIV }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 84 2)
+                tempoWholesPerMinute = #(ly:make-moment 120 2)
             }
         }
     }   
     \markup {
         \fill-line {
             \column {
-                \line { Bianca neve è il bel collo, e 'l petto latte; }
+                \line { Bianca neve è il bel collo, e'l petto latte; }
                 \line { il collo è tondo, il petto colmo e largo: }
                 \line { due pome acerbe, e pur d'avorio fatte, }
                 \line { vengono e van come onda al primo margo, }
@@ -98,9 +109,8 @@
                 \line { a quel ch'appar di fuor quel che s'asconde. }
             }
            \column {
-                % translation mine: 2025-01-27
-                % master copy: #14 in Cipriano III a 5 (Dorati)
-                % SKIP
+               % translation orig date: 2025-01-27
+               % translation updated:
                 \line { Snow-white is her fair neck, and her breast like milk; }
                 \line { her neck is shapely, her bosom full and broad: }
                 \line { like two young apples, fashioned of ivory, }
@@ -113,4 +123,13 @@
            }
         }
     }
+    \markup {
+        \wordwrap {
+            Notes: This section of Canto VII describes the beauty of
+            the sorceress Alcina. Argus of course refers to
+            Argus the all-seeing, often depicted or described as 
+            'the hundred-eyed'.
+        }
+    }
 }
+
