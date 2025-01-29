@@ -99,7 +99,7 @@
                 \line { Morte che nel morire }
                 \line { m'empie di gioia tutto e di desire. }
                 \line { Se nel morir, altro dolor non sento, }
-                \line { di mille morte il dì sarei contento. }
+                \line { di mille morti il dì sarei contento. }
             }
             \column {
                 \line { The white and sweet swan dies singing, }

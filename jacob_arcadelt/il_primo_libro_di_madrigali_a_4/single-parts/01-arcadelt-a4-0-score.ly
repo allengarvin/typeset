@@ -81,6 +81,7 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup 2025-01-28 GAH I had "morte" as plural!
                 \line { Il bianco e dolce cigno cantando more, }
                 \line { ed io piangendo giungo al fin del viver mio. }
                 \line { Strana e diversa sorte, }
@@ -89,7 +90,7 @@
                 \line { Morte che nel morire }
                 \line { m'empie di gioia tutto e di desire. }
                 \line { Se nel morir, altro dolor non sento, }
-                \line { di mille morte il dì sarei contento. }
+                \line { di mille morti il dì sarei contento. }
             }
             \column {
                 \line { The white and sweet swan dies singing, }

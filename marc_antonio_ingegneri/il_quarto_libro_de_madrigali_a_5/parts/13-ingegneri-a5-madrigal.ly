@@ -16,6 +16,19 @@
 % 
 % Guarini
 
+% This is that day, worthy of weeping and honor,
+% that the Father offered his son in sacrifice
+% and immersed in the bath of His blood
+% the pure innocent ...
+% Now upon this sacrid and cruel wood
+% He would could not die suffered death,
+% whereupon the closing of his eyes, heaven opened
+% and restored souls to their once-lost kingdom.
+% 
+% That guilt and those torments were ours:
+% the thorns and the nails and the wicked lashes and the arms,
+    % will finish later 2025-01-28
+
 cantoXIIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
@@ -42,7 +55,7 @@ cantoXIII = \relative c'' {
 
     e4 f g2 c,1 | r1 r2 g' | a4 b c1 g2 | R\breve | g1 b2 c | a1 g ~ |
         g2 e4 f g2 a | f1 e ~ | e\breve | R | r2 g d2. e4 | f1 e |
-        e\breve | e\longa*1/2
+        e\breve | e\breve~e\longa*1/2
     \bar "|."
 }
 
@@ -57,7 +70,7 @@ cantoLyricsXIII = \lyricmode {
     Qui -- vi chiu -- den -- do __ gli~oc -- ch'il ciel a -- per -- se,
         il ciel a -- per -- se
     E ren -- dé l'al -- me~al __ già per -- du -- to re -- gno,
-        al già per -- du -- to re -- gno.
+        al già per -- du -- to re -- gno. __
 }
 
 altoXIIIincipit = \relative c' {
@@ -68,8 +81,8 @@ altoXIIIincipit = \relative c' {
     e\breve
 }
 
+% alto: Checked against source
 altoXIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -91,17 +104,21 @@ altoXIII = \relative c' {
 }
 
 altoLyricsXIII = \lyricmode {
-%    Que -- sto~è quel dì di pian -- to~e d'o -- nor de -- gno,
-%    Che'l Pa -- dre~il fi -- glio~in sa -- cri -- fi -- ci'of -- fer -- se
-%    E nel la -- va -- cro del suo san -- gu'im -- mer -- se
-%    Pu -- ro~in -- no -- cen -- te~al vo -- stro fal -- lo~in -- de -- gno.
-%    Su que -- st'or sa -- cr'al -- lor spie -- ta -- to le -- gno
-%    Chi mo -- rir non po -- tea mor -- te sof -- fer -- se,
-%    Chi mo -- rir non po -- tea mor -- te sof -- fer -- se,
-%    Qui -- vi chiu -- den -- do gli~oc -- ch'il ciel a -- per -- se,
-%        il ciel a -- per -- se
-%    E ren -- dé l'al -- me~al già per -- du -- to re -- gno,
-%        al già per -- du -- to re -- gno.
+    Que -- sto~è quel dì di pian -- to~e d'o -- nor,
+        e d'o -- nor de -- gno,
+    Che'l Pa -- dre~il fi -- glio~in sa -- cri -- fi -- ci'of -- fer -- se
+    E nel la -- va -- cro del __ suo san -- gu'im -- mer -- se,
+        del __ suo san -- gu'im -- mer -- se
+    Pu -- ro~in -- no -- cen -- te~al vo -- stro fal -- lo~in -- de -- gno.
+    Su que -- st'or sa -- cr'al -- lor spie -- ta -- to le -- gno __
+    Chi mo -- rir non __ po -- tea mor -- te sof -- fer -- se,
+    Chi mo -- rir,
+    Chi mo -- rir non __ po -- tea mor -- te sof -- fer -- se,
+        mor -- te sof -- fer -- se,
+    Qui -- vi chiu -- den -- do gli~oc -- ch'il ciel a -- per -- se
+    E ren -- dé l'al -- me~al già per -- du -- to re -- gno,
+    E __ ren -- dé l'al -- me al __ già per -- du -- to,
+        al già per -- du -- to re -- gno.
 }
 
 tenoreXIIIincipit = \relative c' {
@@ -112,8 +129,8 @@ tenoreXIIIincipit = \relative c' {
     b\breve
 }
 
+% tenore: checked against source
 tenoreXIII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
@@ -135,17 +152,16 @@ tenoreXIII = \relative c' {
 }
 
 tenoreLyricsXIII = \lyricmode {
-%    Que -- sto~è quel dì di pian -- to~e d'o -- nor de -- gno,
-%    Che'l Pa -- dre~il fi -- glio~in sa -- cri -- fi -- ci'of -- fer -- se
-%    E nel la -- va -- cro del suo san -- gu'im -- mer -- se
-%    Pu -- ro~in -- no -- cen -- te~al vo -- stro fal -- lo~in -- de -- gno.
-%    Su que -- st'or sa -- cr'al -- lor spie -- ta -- to le -- gno
-%    Chi mo -- rir non po -- tea mor -- te sof -- fer -- se,
-%    Chi mo -- rir non po -- tea mor -- te sof -- fer -- se,
-%    Qui -- vi chiu -- den -- do gli~oc -- ch'il ciel a -- per -- se,
-%        il ciel a -- per -- se
-%    E ren -- dé l'al -- me~al già per -- du -- to re -- gno,
-%        al già per -- du -- to re -- gno.
+    Que -- sto~è quel dì di pian -- to~e d'o -- nor de -- gno,
+    Che'l Pa -- dre~il fi -- glio~in sa -- cri -- fi -- ci'of -- fer -- se
+    E nel la -- va -- cro del suo san -- gu'im -- mer -- se
+    Pu -- ro~in -- no -- cen -- te~al vo -- stro fal -- lo~in -- de -- gno.
+    Su que -- st'or sa -- cr'al -- lor spie -- ta -- to le -- gno
+    Chi __ mo -- rir non po -- tea mor -- te sof -- fer -- se,
+    Chi __ mo -- rir non po -- tea mor -- te sof -- fer -- se,
+    Qui -- vi chiu -- den -- do gli~oc -- ch'il ciel a -- per -- se
+    E ren -- dé l'al -- me~al già per -- du -- to re -- gno, __
+    E ren -- dé l'al -- me~al già __ per -- du -- to re -- gno. 
 }
 
 bassoXIIIincipit = \relative c {
@@ -156,37 +172,38 @@ bassoXIIIincipit = \relative c {
     e\breve
 }
 
+% basso: checked against source
 bassoXIII = \relative c {
-    \clef bass
     \key c \major
     \fourTwoCutTime
 
-    e\breve | a,1 d | c1. e2 | b\breve | e1. c2 | a1 a' ~ | a e | R\breve*5
+    e\breve | a,1 d | c1. e2 | b\breve | e1. c2 | a1 a' ~ | a e | R\breve*2
+        R\breve*3 
         a,1 c2 a | bf1 a | e'2 f d1 ~ | d2 cs d1 | a r1 | R\breve*2 | 
 
     a1 c2 a | bf1 f2 f' ~ | f e d c | d1 c ~ | c r2 c | c c c1 | a2 a'1 g2 |
-        f e a1 | g r1 | R\breve*6 | c,1 a | d c | bf
+        f e a1 | g r1 | R\breve R\breve*5 | c,1 a | d c | bf
 
     a1 | bf\breve | a1 g | a a | R\breve | a'1 g | f2 e1 d2 | c1 a | 
         e'2. f4 g2 g | r2 c,1 e4 f | g\breve | c,1r 1 | R\breve | c1 e2 f |
         d1 c | e2. d4
 
-    c2 a | d1 a | R\breve | a2. b4 c1 ~ | c2 g a1 ~ | a e\longa*1/2
+    c2 a | d1 a | R\breve | d1 a2. b4 | c1. g2 | a\breve | e\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXIII = \lyricmode {
-%    Que -- sto~è quel dì di pian -- to~e d'o -- nor de -- gno,
+    Que -- sto~è quel dì di pian -- to~e d'o -- nor de -- gno,
 %    Che'l Pa -- dre~il fi -- glio~in sa -- cri -- fi -- ci'of -- fer -- se
-%    E nel la -- va -- cro del suo san -- gu'im -- mer -- se
-%    Pu -- ro~in -- no -- cen -- te~al vo -- stro fal -- lo~in -- de -- gno.
-%    Su que -- st'or sa -- cr'al -- lor spie -- ta -- to le -- gno
+    E nel la -- va -- cro del suo san -- gu'im -- mer -- se
+    Pu -- ro~in -- no -- cen -- te~al vo -- stro fal -- lo~in -- de -- gno. __
+    Su que -- st'or sa -- cr'al -- lor spie -- ta -- to le -- gno
 %    Chi mo -- rir non po -- tea mor -- te sof -- fer -- se,
-%    Chi mo -- rir non po -- tea mor -- te sof -- fer -- se,
-%    Qui -- vi chiu -- den -- do gli~oc -- ch'il ciel a -- per -- se,
-%        il ciel a -- per -- se
-%    E ren -- dé l'al -- me~al già per -- du -- to re -- gno,
-%        al già per -- du -- to re -- gno.
+    Chi mo -- rir non po -- tea mor -- te sof -- fer -- se,
+    Qui -- vi chiu -- den -- do gli~oc -- ch'il ciel a -- per -- se,
+        il ciel a -- per -- se
+    E ren -- dé l'al -- me~al già per -- du -- to re -- gno,
+        al già per -- du -- to re -- gno.
 }
 
 quintoXIIIincipit = \relative c {
@@ -197,8 +214,8 @@ quintoXIIIincipit = \relative c {
     e1
 }
 
+% quinto: checked against source
 quintoXIII = \relative c {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
@@ -209,11 +226,11 @@ quintoXIII = \relative c {
         a'2 a c b ~ | b a gs1 | a r1 | R\breve*3 | r2 g g g | g1. e2 |
         a2.( b4 c2) b | 
 
-    a2 b4 c2( b8[ a] c2 ~ | c) b r1 | R\breve*4 | r1 r2 a | fs g1 f2 ~ |
-        f e e1 | R\breve | r1 f ~ | f d | r1 d | c2 f e1 | d d' | c b | 
-        a2 g f1 | e
+    a2 b4 c2( b8[ a] c2 ~ | c) b r1 | R\breve R\breve*3 | r1 r2 a | 
+        fs g1 f2 ~ | f e e1 | R\breve | r1 f ~ | f d | r1 d | c2 f e1 |
+        d d' | c b | a2 g f1 | e
 
-    a4 b c2 | b e c4 d e2 | a, g1 c2 | b c1( b2) | c1 r1 | R\breve*2 |
+    a4 b c2 | b e c4 d e2 | a, g1 c2 | b c1( b2) | c1 r1 | R\breve R |
         r1 r2 e, ~ | e g1 a2 | f1 e | a4 b c1 b2 | d1 c2 a | e2. f4 g2 g |
 
     c2.( b4 a1) | gs\longa*1/2
@@ -221,17 +238,22 @@ quintoXIII = \relative c {
 }
 
 quintoLyricsXIII = \lyricmode {
-%    Que -- sto~è quel dì di pian -- to~e d'o -- nor de -- gno,
-%    Che'l Pa -- dre~il fi -- glio~in sa -- cri -- fi -- ci'of -- fer -- se
-%    E nel la -- va -- cro del suo san -- gu'im -- mer -- se
+    Que -- sto~è quel dì di pian -- to~e __ d'o -- nor,
+        e d'o -- nor de -- gno,
+    Che'l Pa -- dre~il fi -- glio~in sa -- cri -- fi -- ci'of -- fer -- se
+    E nel la -- va -- cro del suo san -- gu'im -- mer -- se,
+    \ijLyrics
+        del suo san -- gu'im -- mer -- se
+    \normalLyrics
 %    Pu -- ro~in -- no -- cen -- te~al vo -- stro fal -- lo~in -- de -- gno.
-%    Su que -- st'or sa -- cr'al -- lor spie -- ta -- to le -- gno
-%    Chi mo -- rir non po -- tea mor -- te sof -- fer -- se,
-%    Chi mo -- rir non po -- tea mor -- te sof -- fer -- se,
-%    Qui -- vi chiu -- den -- do gli~oc -- ch'il ciel a -- per -- se,
-%        il ciel a -- per -- se
-%    E ren -- dé l'al -- me~al già per -- du -- to re -- gno,
-%        al già per -- du -- to re -- gno.
+    Su que -- st'or sa -- cr'al -- lor __ spie -- ta -- to le -- gno
+    Chi mo -- rir non __ po -- tea mor -- te,
+        mor -- te sof -- fer -- se,
+    Qui -- vi chiu -- den -- do gli~oc -- ch'il ciel a -- per -- se,
+        il ciel a -- per -- se,
+        il ciel a -- per -- se
+    E __ ren -- dé l'al -- me~al già per -- du -- to re -- gno,
+        al già per -- du -- to re -- gno.
 }
 
 cantoXIIIincipitVoice = <<
