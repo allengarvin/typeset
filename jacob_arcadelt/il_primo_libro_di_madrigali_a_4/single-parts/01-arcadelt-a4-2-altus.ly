@@ -10,6 +10,7 @@
 \header {
     % Things that change per piece:
     title = "Il bianco e dolce cigno"
+    folio = "Giovanni Guidiccioni (1480-1541)"
 
     % Things that change per part:
     partname = "Altus (part 2 of 4)"

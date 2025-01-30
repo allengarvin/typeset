@@ -12,9 +12,10 @@
     % Things that change per piece:
     title = "Il bianco e dolce cigno"
     instrument = "Il bianco e dolce cigno (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
     composer = "Giovanni Battista Mosto (c.1550-1596)"
+    folio = "Giovanni Guidiccioni (1480-1541)"
 
     % Unchanging:
     originallyset = "2015-01-09"
@@ -23,7 +24,7 @@
     final = "f"
     shorttitle = "il_bianco_e_dolce_cigno"
     categories = "[madrigal,morte]"
-    motifs = "[la-petite-mort]"
+    motifs = "[la-petite-mort,swan]"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -95,15 +96,28 @@
     \markup {
         \fill-line {
             \column {
-                \line { Il bianco e dolce cigno cantando more,  }
-                \line { Et io piangendo giung' al fin del viver mio. }
-                \line { Stran' e diversa sorte, }
-                \line { ch'ei more sconsolato }
-                \line { et io moro beato. }
+                \line { Il bianco e dolce cigno cantando more, }
+                \line { ed io piangendo giungo al fin del viver mio. }
+                \line { Strana e diversa sorte, }
+                \line { che ei more sconsolato }
+                \line { ed io moro beato. }
                 \line { Morte che nel morire }
                 \line { m'empie di gioia tutto e di desire. }
                 \line { Se nel morir, altro dolor non sento, }
-                \line { di mille mort' il di morei contento.  }
+                \line { di mille morti il dì sarei contento. }
+            }
+            \column {
+                % SKIP master copy, vecchio
+                \line { The white and sweet swan dies singing, }
+                \line { and I, weeping, reach the end of my life. }
+                \line { Strange and different fate, }
+                \line { that he dies disconsolate }
+                \line { and I die blessed, }
+                \line { Death that in dying }
+                \line { fills me with total joy and desire. }
+                \line { If in dying, no other pain were I to feel, }
+                \line { I would be happy with a thousand deaths a day.  }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

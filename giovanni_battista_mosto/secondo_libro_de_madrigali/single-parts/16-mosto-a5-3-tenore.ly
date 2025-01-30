@@ -1,6 +1,7 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -f "Giovanni Battista Amalteo (1525-1573)" -t "Tra bei rubini e perle" -p madrigal -l italian -v -m 80 16-mosto-a5-0-score.ly canto:t alto:ta quinto:8a tenore:8a basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,52 +9,56 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2025-01-29"
+    originallyset = "2025-01-29"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Il bianco e dolce cigno"
+    title = "Tra bei rubini e perle"
     subtitle = ""
-    instrument = "Il bianco e dolce cigno:  (tenore)"
+    subsubtitle = ""
+    instrument = "Tra bei rubini e perle:  (tenore)"
     headerspace = \markup { \vspace #2 }
+    shorttitle = "tra_bei_rubini_e_perle"
+    shortcomp = "mosto"
+    folio = "Giovanni Battista Amalteo (1525-1573)"
 
     % Things that change per part:
     partname = "Tenore (part 4 of 5)"
-    instrument = "Il bianco e dolce cigno:  (tenore)"
+    instrument = "Tra bei rubini e perle:  (tenore)"
 
     % Unchanging:
-    lastupdated = "2020-02-05"
-    folio = "Giovanni Guidiccioni (1480-1541)"
-    originallyset = "2020-02-05"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/01-vecchi-a5-madrigal.ly"
+\include "../parts/16-mosto-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "01-vecchi--il_bianco_e_dolce_cigno-"
+    \bookOutputName "16-mosto--tra_bei_rubini_e_perle-"
     \bookOutputSuffix "--4-tenore--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \tenoreI
+            \tenoreXVI
         >>
-                \addlyrics { \tenoreLyricsI }
+                \addlyrics { \tenoreLyricsXVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "01-vecchi--il_bianco_e_dolce_cigno-"
+    \bookOutputName "16-mosto--tra_bei_rubini_e_perle-"
     \bookOutputSuffix "--4-tenore--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \tenoreI
+            \tenoreXVI
         >>
-                \addlyrics { \tenoreLyricsI }
+                \addlyrics { \tenoreLyricsXVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

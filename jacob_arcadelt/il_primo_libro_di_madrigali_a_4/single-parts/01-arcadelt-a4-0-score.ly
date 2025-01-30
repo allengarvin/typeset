@@ -14,6 +14,7 @@
     instrument = "Il bianco e dolce cigno (score)"
     needtranslation = #'f
     language = "italian"
+    folio = "Giovanni Guidiccioni (1480-1541)"
 
     % Unchanging:
     lastupdated = "2012-12-22"

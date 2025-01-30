@@ -41,27 +41,27 @@ cantoLyricsXIX = \lyricmode {
     Il bian -- co~è dol -- ce ci -- gno can -- tan -- do 
         \ijLyrics can -- tan -- do \normalLyrics mo -- re
         can -- tan -- do mo -- re
-    Et io pian -- gen -- do
-    Et io pian -- gen -- do
+    Ed io pian -- gen -- do
+    Ed io pian -- gen -- do
         giung' al fin del vi -- ver __ mi -- o
         giung' al fin del vi -- ver mi -- o
     Stran' e di -- ver -- sa for -- te 
         % ch'ei mo -- re scon -- so -- la -- to
-    et io mo -- ro __ be -- a -- to 
+    Ed io mo -- ro __ be -- a -- to 
     \ijLyrics
-    et io mo -- ro __ be -- a -- to 
+    Ed io mo -- ro __ be -- a -- to 
     \normalLyrics
         mor -- te 
     che nel mo -- ri -- re m'em -- pie tut -- to di gio -- ia~è di di -- si -- re.
     Se nel mo -- rir al -- cun do -- lor __ non sen -- to 
-    di mil -- le mor -- te~il di 
+    di mil -- le mor -- ti'l dì 
     \ijLyrics
-    di mil -- le mor -- te~il di __
+    di mil -- le mor -- ti'l dì __
     \normalLyrics
-    di mil -- le mor -- te~il di __ mo -- rei __ con -- ten -- to,
-    di __ mil -- le __ mor -- te~il di 
+    di mil -- le mor -- ti'l dì __ mo -- rei __ con -- ten -- to,
+    di __ mil -- le __ mor -- ti'l dì 
         mo -- rei __ con -- ten -- to,
-    di mil -- le mor -- te~il di 
+    di mil -- le mor -- ti'l dì 
         mo -- rei con -- ten -- to, con -- ten -- to.
 
 }
@@ -114,9 +114,9 @@ altoLyricsXIX = \lyricmode {
         can -- tan -- do mo -- re
         can -- tan -- do 
         \ijLyrics can -- tan -- do \normalLyrics mo -- re
-    Et io __ pian -- gen -- do
+    Ed io __ pian -- gen -- do
     \ijLyrics
-    Et io pian -- gen -- do
+    Ed io pian -- gen -- do
     \normalLyrics
        giung' al fin del vi -- ver mi -- o,
        giung' al fin del vi -- ver mi -- o,
@@ -124,10 +124,10 @@ altoLyricsXIX = \lyricmode {
        al fin __ del vi -- ver mi -- o,
     Stran' e di -- ver -- sa for -- te 
 %        % ch'ei mo -- re scon -- so -- la -- to
-    et io mo -- ro be -- a -- to 
-        et io mo -- ro
+    Ed io mo -- ro be -- a -- to 
+        Ed io mo -- ro
     \ijLyrics
-        et io mo -- ro
+        Ed io mo -- ro
     \normalLyrics
         mo -- ro be -- a -- to 
     Che nel mo -- ri -- re 
@@ -137,19 +137,19 @@ altoLyricsXIX = \lyricmode {
         m'em -- pie tut -- to di gio -- ia~è di di -- si -- re.
     Se nel mo -- rir al -- cun do -- lor __ non sen -- to 
         al -- cun do -- lor non sen -- to 
-    di mil -- le mor -- te~il di 
+    di mil -- le mor -- ti'l dì 
     \ijLyrics
-    di mil -- le mor -- te~il di __
+    di mil -- le mor -- ti'l dì __
     \normalLyrics
         mo -- rei con -- ten -- to,
-    di mil -- le __ mor -- te~il di mo -- rei con -- ten -- to,
-    di __ mil -- le mor -- te~il di mo -- rei con -- ten -- to, 
+    di mil -- le __ mor -- ti'l dì mo -- rei con -- ten -- to,
+    di __ mil -- le mor -- ti'l dì mo -- rei con -- ten -- to, 
         \ijLyrics
         con -- ten -- to, 
         \normalLyrics
         con -- ten -- to, __
     \ijLyrics
-    di mil -- le mor -- te~il di mo -- rei con -- ten -- to, __
+    di mil -- le mor -- ti'l dì mo -- rei con -- ten -- to, __
     \normalLyrics
         mo -- rei con -- ten -- to.
 }
@@ -196,27 +196,27 @@ tenoreXIX = \relative c {
 tenoreLyricsXIX = \lyricmode {
         Can -- tan -- do mo -- re
         can -- tan -- do __ mo -- re
-    Et io __ pian -- gen -- do giung' al fin del vi -- ver mi -- o,
-    Et io __ pian -- gen -- do giung' al fin del vi -- ver mi -- o,
+    Ed io __ pian -- gen -- do giung' al fin del vi -- ver mi -- o,
+    Ed io __ pian -- gen -- do giung' al fin del vi -- ver mi -- o,
         del vi -- ver mi -- o,
         al fin __ del vi -- ver mi -- o,
     Stran' e di -- ver -- sa for -- te 
         Ch'ei mo -- re scon -- so -- la -- to
-    et io mo -- ro 
+    Ed io mo -- ro 
     \ijLyrics
-    et io mo -- ro
+    Ed io mo -- ro
     \normalLyrics
          be -- a -- to mor -- te
     che nel mo -- ri -- re m'em -- pie tut -- to di gio -- ia~è di di -- si -- re.
     Se nel mo -- rir al -- cun do -- lor __ non sen -- to 
-    di mil -- le mor -- te~il di 
+    di mil -- le mor -- ti'l dì 
     \ijLyrics
-    di mil -- le mor -- te~il di 
-    di mil -- le mor -- te~il di 
-    di mil -- le mor -- te~il di __
+    di mil -- le mor -- ti'l dì 
+    di mil -- le mor -- ti'l dì 
+    di mil -- le mor -- ti'l dì __
     \normalLyrics
         mo -- rei con -- ten -- to,
-    di mil -- le mor -- te~il di __
+    di mil -- le mor -- ti'l dì __
         mo -- rei con -- ten -- to, 
         con -- ten -- to. 
 }
@@ -255,8 +255,8 @@ bassoXIX = \relative c {
 }
 
 bassoLyricsXIX = \lyricmode {
-    Et io __ pian -- gen -- do giung' al fin del vi -- ver mi -- o
-    Et io pian -- gen -- do giung' al fin del vi -- ver mi -- o
+    Ed io __ pian -- gen -- do giung' al fin del vi -- ver mi -- o
+    Ed io pian -- gen -- do giung' al fin del vi -- ver mi -- o
         giung' al fin __ del vi -- ver mi -- o
     Ch'ei mo -- re scon -- so -- la -- to
         mor -- te 
@@ -265,14 +265,14 @@ bassoLyricsXIX = \lyricmode {
     Che nel mo -- ri -- re 
     \normalLyrics
         m'em -- pie tut -- to di gio -- ia~è di di -- si -- re.
-    di mil -- le mor -- te~il di 
-    di mil -- le mor -- te~il di __
+    di mil -- le mor -- ti'l dì 
+    di mil -- le mor -- ti'l dì __
     \ijLyrics
-    di mil -- le mor -- te~il di 
+    di mil -- le mor -- ti'l dì 
     \normalLyrics
-    di mil -- le mor -- te~il di 
+    di mil -- le mor -- ti'l dì 
     \ijLyrics
-    di mil -- le mor -- te~il di __
+    di mil -- le mor -- ti'l dì __
     \normalLyrics
         mo -- rei con -- ten -- to.
 }
@@ -318,13 +318,13 @@ quintoXIX = \relative c {
 
 quintoLyricsXIX = \lyricmode {
         Can -- tan -- do mo -- re
-    Et io pian -- gen -- do giung' al fin del vi -- ver mi -- o
-    Et io __ pian -- gen -- do giung' al fin del vi -- ver mi -- o
+    Ed io pian -- gen -- do giung' al fin del vi -- ver mi -- o
+    Ed io __ pian -- gen -- do giung' al fin del vi -- ver mi -- o
     \ijLyrics
-    Et __ io pian -- gen -- do __ giung' al fin del vi -- ver mi -- o
+    Ed __ io pian -- gen -- do __ giung' al fin del vi -- ver mi -- o
     \normalLyrics
     Ch'ei mo -- re scon -- so -- la -- to
-    et io mo -- ro be -- a -- to 
+    Ed io mo -- ro be -- a -- to 
         Mor -- te 
     Che nel mo -- ri -- re
     \ijLyrics
@@ -332,15 +332,15 @@ quintoLyricsXIX = \lyricmode {
     \normalLyrics
         m'em -- pie tut -- to di gio -- ia~è di di -- si -- re.
     Se nel mo -- rir al -- cun do -- lor __ non sen -- to 
-    di mil -- le mor -- te~il di 
+    di mil -- le mor -- ti'l dì 
     \ijLyrics
-    di mil -- le mor -- te~il di __
+    di mil -- le mor -- ti'l dì __
     \normalLyrics
         mo -- rei con -- ten -- to,
-    di mil -- le mor -- te~il di 
+    di mil -- le mor -- ti'l dì 
     \ijLyrics
-    di mil -- le mor -- te~il di __
-    di mil -- le mor -- te~il di 
+    di mil -- le mor -- ti'l dì __
+    di mil -- le mor -- ti'l dì 
     \normalLyrics
         mo -- rei con -- ten -- to, con -- ten -- to.
 }

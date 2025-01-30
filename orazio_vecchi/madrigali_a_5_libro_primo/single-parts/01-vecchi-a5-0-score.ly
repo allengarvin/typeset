@@ -17,6 +17,8 @@
     needtranslation = #'f
 
     % Unchanging:
+
+    folio = "Giovanni Guidiccioni (1480-1541)"
     language = "italian"
     lastupdated = "2020-02-05"
     originallyset = "2020-02-05"

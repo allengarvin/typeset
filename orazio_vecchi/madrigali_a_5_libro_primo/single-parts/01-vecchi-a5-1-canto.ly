@@ -20,6 +20,7 @@
 
     % Unchanging:
     lastupdated = "2020-02-05"
+    folio = "Giovanni Guidiccioni (1480-1541)"
     originallyset = "2020-02-05"
     \include "include/distribution-header.ly"
     tagline = #'f

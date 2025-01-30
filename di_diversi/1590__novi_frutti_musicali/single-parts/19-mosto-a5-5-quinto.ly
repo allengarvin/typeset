@@ -13,6 +13,7 @@
     % Things that change per piece:
     title = "Il bianco e dolce cigno"
     composer = "Giovanni Battista Mosto (c.1550-1596)"
+    folio = "Giovanni Guidiccioni (1480-1541)"
 
     % Things that change per part:
     partname = "Quinto (part 3 of 5)"
