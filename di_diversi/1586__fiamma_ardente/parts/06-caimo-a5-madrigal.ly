@@ -6,6 +6,15 @@
 % e 'n così dolce ferita
 % vendicata laciar la propria vita.
 
+% looks more like a canzone than a madrigal ... 2025-01-31
+cantoVIincipit = \relative c'' {
+    \clef "petrucci-g"
+    \key c \major
+    \time 4/4
+
+    g2
+}
+
 cantoVI = \relative c'' {
     \clef treble
     \key c \major
@@ -16,7 +25,11 @@ cantoVI = \relative c'' {
     a4 d2 d4 | c b8[ a] c2 d d4 e | d2 c b4 b c2 | c2 r4 c2 g' d4 ~ |
         d f2 c4 e
 
-    e4 d
+    e4 d( c ~ | c b8[ a]) b2 c1 | r2 a c4 c b2 | c r2 r2 r4 e | e d e2 cs
+
+    r4 d | d cs d2 e f ~ | f e d4 d c2 ~ | c4( b8[ a] b2) c r4 e e d | 
+
+    c4 d4.
     \bar "|."
 }
 

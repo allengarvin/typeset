@@ -15,7 +15,7 @@
  
     % Things that change per piece:
     title = "O felice ore"
-    subtitle = ""
+    subtitle = "Prima parte"
     subsubtitle = ""
     instrument = "O felice ore:  (alto)"
     headerspace = \markup { \vspace #2 }

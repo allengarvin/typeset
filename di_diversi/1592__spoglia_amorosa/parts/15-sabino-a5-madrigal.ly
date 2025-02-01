@@ -1,28 +1,28 @@
-From his 1570 work: let me move this to there
-
-Cingetemi le tempie d'ogni intorno
-voi più pregiati e riveriti Allori,
-e'n bella squadra o pargoletti Amori
-ergetemi un colosso e un arco adorno.
-Mal grado ecco del tempo, e biasmo e scorno
-di ria fortuna, i cominciati onori
-m'han posto in cielo, e gli amorosi ardori
-pur si temprar nel dolce d'un bel giorno.
-
-Io duce, io cavallier, io armi, io genti
-all'alta impresa: io senza Torre o Mole
-ho nel mio sen gli amati lumi ardenti.
-Dicea selvaggio un di queste parole:
-E, mentre i venti a udir stavano intenti,
-si fé sereno il ciel, più chiaro il Sole.
-
-Belprato, Giovanni Vincenzo <1549 - 1589>
-
-Image: http://rasta.unipv.it/index.php?page=view_img&idlibro=10&file=36
-biasmo: archaic baisimo (blame, fault)
-Original, 12th line: dice BELPRATO
-fé: archaic passato remote form of "face", 3rd person singular fare
-Mole: ??? Florio is weird. Maybe it is grindstone/millstone
+% From his 1570 work: let me move this to there
+% 
+% Cingetemi le tempie d'ogni intorno
+% voi più pregiati e riveriti Allori,
+% e'n bella squadra o pargoletti Amori
+% ergetemi un colosso e un arco adorno.
+% Mal grado ecco del tempo, e biasmo e scorno
+% di ria fortuna, i cominciati onori
+% m'han posto in cielo, e gli amorosi ardori
+% pur si temprar nel dolce d'un bel giorno.
+% 
+% Io duce, io cavallier, io armi, io genti
+% all'alta impresa: io senza Torre o Mole
+% ho nel mio sen gli amati lumi ardenti.
+% Dicea selvaggio un di queste parole:
+% E, mentre i venti a udir stavano intenti,
+% si fé sereno il ciel, più chiaro il Sole.
+% 
+% Belprato, Giovanni Vincenzo <1549 - 1589>
+% 
+% Image: http://rasta.unipv.it/index.php?page=view_img&idlibro=10&file=36
+% biasmo: archaic baisimo (blame, fault)
+% Original, 12th line: dice BELPRATO
+% fé: archaic passato remote form of "face", 3rd person singular fare
+% Mole: ??? Florio is weird. Maybe it is grindstone/millstone
 
 cantoXVincipit = \relative c'' {
     \clef "petrucci-g"
