@@ -24,6 +24,7 @@
     shorttitle = "gia_avea_l_eterna_mano"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "ed3396667bb5784f05ef28b7dfba096a0094d377"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

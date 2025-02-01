@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "7bd853f8dec571f7aad6f48da756b6574a34cfde"
     % Things that change per piece:
     title = "Ardo sì ma non t'amo"
     subtitle = "Prima parte"
@@ -122,3 +123,4 @@
         }
     }
 }
+

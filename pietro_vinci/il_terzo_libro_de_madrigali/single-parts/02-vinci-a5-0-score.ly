@@ -28,6 +28,7 @@
     categories = "[madrigal]"
     motifs = "[paradox,spring,amore]"
     \include "include/distribution-header.ly"
+    cksum = "28aa6f34ae53c4b086fef343070299209a5c5e8b"
     tagline = #'f
 }
 
@@ -116,3 +117,4 @@
         }
     }
 }
+

@@ -26,6 +26,7 @@
     rhyme = "abbACC"
     motifs = "[pastoral,spring,april,birds,song,amore]"
     \include "include/distribution-header.ly"
+    cksum = "e133acc83773eb268e0c6403f50669318f06de0e"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

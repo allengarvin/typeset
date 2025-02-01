@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "4172aa7453f2c9d039f70db2b417800941a9bd1b"
     % Things that change per piece:
     title = "Non fu mai cervo sì veloce"
     subtitle = "Prima parte"
@@ -110,3 +111,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "999e59afacf7e69219e403f2d80b0a6467d541c9"
     % Things that change per piece:
     title = "Ecco Maggio seren"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

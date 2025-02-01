@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "et_raira_plus_la_lune"
     \include "include/distribution-header.ly"
+    cksum = "c5f39b5af1f2a7bc3488359a42ac970be2582013"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

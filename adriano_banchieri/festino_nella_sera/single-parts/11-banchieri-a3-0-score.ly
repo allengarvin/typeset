@@ -23,6 +23,7 @@
     categories = "[animal]"
     shorttitle = "capriciata"
     \include "include/distribution-header.ly"
+    cksum = "32074c7c436f176aff7d37449a5bc091d4fe3d3b"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
         }
     }
 }
+
 

@@ -25,6 +25,7 @@
     shorttitle = "ma_voi_caro_ben_mio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "0b8fa766ee29822b5cd1649b1b9f751333b1c9b6"
     tagline = #'f
 }
 
@@ -112,4 +113,5 @@
         }
     }
 }
+
 

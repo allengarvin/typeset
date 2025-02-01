@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "f5c7ed107521a09345e6b402582a8ffcb7f459df"
     % Things that change per piece:
     title = "A chi creder degg' io"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

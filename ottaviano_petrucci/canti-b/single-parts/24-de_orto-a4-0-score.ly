@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "d_ung_aultre_amer"
     \include "include/distribution-header.ly"
+    cksum = "f9b622ce739be5b84e8bd8ebfb5b1cdb11b1158f"
     tagline = #'f
 }
 
@@ -83,3 +84,4 @@
         }
     }
 }
+

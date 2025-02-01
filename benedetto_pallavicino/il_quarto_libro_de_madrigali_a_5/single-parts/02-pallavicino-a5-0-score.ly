@@ -12,6 +12,7 @@
     lastupdated = "2023-07-08"
     originallyset = "2023-07-08"
     \include "include/distribution-header.ly"
+    cksum = "0ca3ff1214d1209b9b36907501b4446779929637"
     % Things that change per piece:
     title = "Sì, mi dicesti"
     subtitle = ""
@@ -117,3 +118,4 @@
         }
     }
 }
+

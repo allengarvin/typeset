@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "se_prens_congiet"
     \include "include/distribution-header.ly"
+    cksum = "a5a650fe76e7d66beea05566e70e073ea4f67dc7"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

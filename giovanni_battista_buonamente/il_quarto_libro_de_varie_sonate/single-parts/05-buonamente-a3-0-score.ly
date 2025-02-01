@@ -25,6 +25,7 @@
     lastupdated = "2022-08-07"
     originallyset = "2022-08-07"
     \include "include/distribution-header.ly"
+    cksum = "feeda9d24c0271545ffe6d56b4eecc8e0a5a2368"
     tagline = #'f
 }
 
@@ -70,3 +71,4 @@
         }
     }   
 }
+

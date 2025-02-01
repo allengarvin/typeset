@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "ea10d29c51266fdc573e8710000e5ca08d720171"
     % Things that change per piece:
     title = "Gia to cacòmu tardi"
     subtitle = "Seconda parte"
@@ -106,3 +107,4 @@
         }
     }
 }
+

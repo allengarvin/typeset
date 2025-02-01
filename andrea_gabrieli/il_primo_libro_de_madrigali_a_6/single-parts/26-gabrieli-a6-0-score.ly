@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d57721d4dd26ff273f90a3152287cabb3da93189"
     % Things that change per piece:
     title = "Quand'io talor mi doglio"
     subtitle = ""
@@ -124,3 +125,4 @@
         }
     }
 }
+

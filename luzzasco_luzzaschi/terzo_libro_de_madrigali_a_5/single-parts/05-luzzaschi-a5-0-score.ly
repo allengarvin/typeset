@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "5aa77121566137dd65acc2ecf33a0a107bc4c201"
     % Things that change per piece:
     title = "Quest'è fortuna ria"
     subtitle = ""
@@ -134,3 +135,4 @@
         }
     }
 }
+

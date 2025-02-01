@@ -22,6 +22,7 @@
     shorttitle = "speme_amorosa"
     categories = "[villanella]"
     \include "include/distribution-header.ly"
+    cksum = "30e46fa2703d5763cc097ab9eee6665380bd5a67"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
     }   
 
 }
+
 

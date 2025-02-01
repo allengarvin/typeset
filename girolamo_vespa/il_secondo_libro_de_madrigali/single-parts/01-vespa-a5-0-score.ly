@@ -25,6 +25,7 @@
     shorttitle = "poi_che_lasciand"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "1e8f187bc9571e62c82b3036450a1fe14cb96298"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

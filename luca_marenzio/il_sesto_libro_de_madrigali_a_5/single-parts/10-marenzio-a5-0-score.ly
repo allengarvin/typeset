@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "335966784c4ff3ea0aeef66031c8b0d623540d9c"
     % Things that change per piece:
     title = "Amor se giusto sei"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

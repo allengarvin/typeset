@@ -12,6 +12,7 @@
     lastupdated = "2022-09-24"
     originallyset = "2022-09-24"
     \include "include/distribution-header.ly"
+    cksum = "dcd68230344967753d37ea46f56232264aaa3fdb"
     % Things that change per piece:
     title = "Non può ingegno mortale"
     subtitle = "Seconda parte"
@@ -104,3 +105,4 @@
         }
     }
 }
+

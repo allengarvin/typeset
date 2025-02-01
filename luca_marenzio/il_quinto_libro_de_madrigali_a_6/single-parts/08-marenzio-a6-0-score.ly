@@ -12,6 +12,7 @@
     lastupdated = "2022-12-10"
     originallyset = "2022-12-10"
     \include "include/distribution-header.ly"
+    cksum = "9077c7b9732fd58a176ce08a699de15f1390a02a"
     % Things that change per piece:
     title = "Spiri dolce Favonio Arabi odori"
     subtitle = "Prima e seconda parte"
@@ -120,3 +121,4 @@
         }
     }
 }
+

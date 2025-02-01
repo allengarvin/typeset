@@ -22,6 +22,7 @@
     shorttitle = "ah_dolente_partita"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "dbf88ab27c3b0ab7043dedf235b5c1ca72efa6cb"
     language = "italian"
     tagline = #'f
 }
@@ -112,3 +113,4 @@
         }
     }
 }
+

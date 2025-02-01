@@ -21,6 +21,7 @@
     final = "b"
     shorttitle = "la_sirena"
     \include "include/distribution-header.ly"
+    cksum = "001481ebb47fa31bdc7b2cd0e20e97fe76ebf0b4"
     tagline = #'f
 }
 
@@ -57,4 +58,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

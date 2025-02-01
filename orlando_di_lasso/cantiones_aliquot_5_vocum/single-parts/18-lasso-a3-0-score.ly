@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "resonet_in_laudibus__2p__hodie_apparuit_in_israel"
     \include "include/distribution-header.ly"
+    cksum = "7e6ee0bdb14d2f3be2bf05c7fc543d36679e380f"
     tagline = #'f
 }
 
@@ -71,4 +72,5 @@
         }
     }
 }
+
 

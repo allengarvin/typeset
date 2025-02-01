@@ -25,6 +25,7 @@
     motifs = "[ardor,morte,breath,kiss]"
     rhyme = "abBaCC"
     \include "include/distribution-header.ly"
+    cksum = "f2ee66e2da4cee369502b8d92c9af07d84ebd677"
     tagline = #'f
 }
 
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

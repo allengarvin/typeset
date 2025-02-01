@@ -24,6 +24,7 @@
     final = "b"
     shorttitle = "esnu_sy_que_plus"
     \include "include/distribution-header.ly"
+    cksum = "61bbd467b1a540615b85cabc21fae3803fecc38f"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

@@ -22,6 +22,7 @@
     final = "c"
     shorttitle = "sempre_mi_ride_sta"
     \include "include/distribution-header.ly"
+    cksum = "e4287cb1ecf356f4d94c8fc479a754acada0f609"
     tagline = #'f
 }
 
@@ -84,3 +85,4 @@
         }
     }
 }
+

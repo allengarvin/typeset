@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "b88b7dca15f8a1e594a24b354a3f83aaa44b6afa"
     % Things that change per piece:
     title = "Vergine gloriosa e lieta"
     subtitle = ""
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

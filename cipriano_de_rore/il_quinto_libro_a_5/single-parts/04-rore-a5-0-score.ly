@@ -24,6 +24,7 @@
     shorttitle = "vaghi_pensieri"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "e9e29a5217bc4b05485adc1eafc28d3206beb14f"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

@@ -21,6 +21,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "c31f57e71bd36f1ad764d0ca04a6f0075b622999"
     composer = "Elway Bevin (c.1554-1636)"
     tagline = #'f
 }
@@ -74,3 +75,4 @@
         }
     }
 }
+

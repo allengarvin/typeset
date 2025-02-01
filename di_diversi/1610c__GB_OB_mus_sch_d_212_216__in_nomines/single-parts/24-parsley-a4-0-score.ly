@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "1dac08b5e786f238a2b2b1a3e21a544a701eee12"
     % Things that change per piece:
     title = "In nomine"
     subtitle = ""
@@ -81,3 +82,4 @@
         }
     }   
 }
+

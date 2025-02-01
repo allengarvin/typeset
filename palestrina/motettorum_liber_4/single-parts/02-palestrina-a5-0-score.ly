@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "trahe_me_post_te"
     \include "include/distribution-header.ly"
+    cksum = "d8e1a157d9a4b334413124ebffdf45008bae4d8f"
     tagline = #'f
 }
 
@@ -108,3 +109,4 @@
         }
     }
 }
+

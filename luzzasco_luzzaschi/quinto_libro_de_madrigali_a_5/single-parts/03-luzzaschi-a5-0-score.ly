@@ -12,6 +12,7 @@
     lastupdated = "2022-10-30"
     originallyset = "2022-10-30"
     \include "include/distribution-header.ly"
+    cksum = "ad4538393d29a0170f722ba450d029026858549e"
     % Things that change per piece:
     title = "Lungi da te cor mio"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

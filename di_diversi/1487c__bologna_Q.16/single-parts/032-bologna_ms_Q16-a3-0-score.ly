@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "tu_me_comande"
     \include "include/distribution-header.ly"
+    cksum = "32543962dfcd03ec05250a0b014981c6a8a0e35d"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

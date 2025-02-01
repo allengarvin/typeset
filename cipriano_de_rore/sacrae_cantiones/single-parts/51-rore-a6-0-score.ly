@@ -23,6 +23,7 @@
     final = "e"
     shorttitle = "ad_te_igitur_piisime_deus"
     \include "include/distribution-header.ly"
+    cksum = "b4af472e179a62dcfa8bf3139581e1d11b16772c"
     tagline = #'f
 }
 
@@ -114,3 +115,4 @@
         }
     }
 }
+

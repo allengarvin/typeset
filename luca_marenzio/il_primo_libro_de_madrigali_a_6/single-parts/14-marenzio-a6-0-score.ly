@@ -26,6 +26,7 @@
     rhyme = "AbBCDD"
     motifs = "[nymphs,cupids,amore,fruit,pastoral]"
     \include "include/distribution-header.ly"
+    cksum = "d1ead243c83d33d6241209f4bbfa4432148cf251"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

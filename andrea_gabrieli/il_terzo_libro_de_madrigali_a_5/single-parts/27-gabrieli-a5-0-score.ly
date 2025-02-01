@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "466d072848a627542cbe91fe1476ed6bbc10c162"
     % Things that change per piece:
     title = "S'al discoprir dell'onorata fronte"
     subtitle = "Prima parte"
@@ -112,3 +113,4 @@
         }
     }
 }
+

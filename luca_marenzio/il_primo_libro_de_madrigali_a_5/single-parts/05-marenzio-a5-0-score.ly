@@ -28,6 +28,7 @@
     categories = "[madrigal]"
     motifs = "[veil,paradox]"
     \include "include/distribution-header.ly"
+    cksum = "e0cf075810c973d7aaaa4c4d4572db90f2f72498"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "9830d0373dc309625dd9ecce23da5ae29ffdfc10"
     % Things that change per piece:
     title = "Vaghe erbette e bei fiori"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

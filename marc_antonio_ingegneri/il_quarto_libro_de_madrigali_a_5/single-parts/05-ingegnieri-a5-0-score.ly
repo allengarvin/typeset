@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "6d493f32a88796ed25d9d9d95811e248e5d60060"
     % Things that change per piece:
     title = "Chi mi dipinse il viso"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

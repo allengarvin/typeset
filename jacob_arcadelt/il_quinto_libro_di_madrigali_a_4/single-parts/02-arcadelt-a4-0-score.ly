@@ -28,6 +28,7 @@
 
     rhyme = "ABbACDdC"
     \include "include/distribution-header.ly"
+    cksum = "2adda051b2972612f0a9de361e70a654e3a151ab"
     tagline = #'f
 }
 
@@ -103,6 +104,7 @@
         }
     }
 }
+
 
 
 

@@ -25,6 +25,7 @@
     shorttitle = "io_gia_cantando"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "b52f205f9f831f70cee98e1b8530cd2a1e737dd7"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
         }
     }
 }
+
 

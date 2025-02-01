@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "o_lux_beata_trinitas"
     \include "include/distribution-header.ly"
+    cksum = "64af9c47ec8373501ac67f8df4bed062fd7f323d"
     tagline = #'f
 }
 
@@ -113,3 +114,4 @@
         }
     }
 }
+

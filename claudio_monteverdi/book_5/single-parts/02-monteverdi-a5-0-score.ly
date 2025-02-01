@@ -12,6 +12,7 @@
     lastupdated = "2023-02-08"
     originallyset = "2023-02-08"
     \include "include/distribution-header.ly"
+    cksum = "c921accb92bc8c83721358a057ada87d2e35fe27"
     % Things that change per piece:
     title = "O Mirtillo"
     subtitle = ""
@@ -126,3 +127,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "48dc05dc507e73036841996aefff64858da36fc4"
     % Things that change per piece:
     title = "Santa Madre del ciel"
     subtitle = "Seconda parte"
@@ -101,3 +102,4 @@
         }
     }
 }
+

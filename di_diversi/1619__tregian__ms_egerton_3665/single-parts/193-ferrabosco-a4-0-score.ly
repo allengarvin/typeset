@@ -25,6 +25,7 @@
     categories = "[villanella]"
     shorttitle = "amor_tien_il_suo_regno"
     \include "include/distribution-header.ly"
+    cksum = "3e5f4f9efd7850613ff43a5bc556e97fccd827b3"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

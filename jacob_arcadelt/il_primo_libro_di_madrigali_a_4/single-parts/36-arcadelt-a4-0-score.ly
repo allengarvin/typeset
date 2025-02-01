@@ -21,6 +21,7 @@
     shorttitle = "deh_dimmi_amor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "84c69d712f266f06513044e06b6c94b691f77554"
     tagline = #'f
 }
 
@@ -75,5 +76,6 @@
         }
     }   
 }
+
 
 

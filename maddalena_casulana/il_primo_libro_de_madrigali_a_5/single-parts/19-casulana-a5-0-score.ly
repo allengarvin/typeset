@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "13fdcd7f6462acdbe2fcd4b66b1e10832772b678"
     % Things that change per piece:
     title = "Occhi vaghi e lucenti"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

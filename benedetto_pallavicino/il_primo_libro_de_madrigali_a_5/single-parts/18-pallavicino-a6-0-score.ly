@@ -12,6 +12,7 @@
     lastupdated = "2022-09-22"
     originallyset = "2022-09-22"
     \include "include/distribution-header.ly"
+    cksum = "d0d394ba4f42ee9ef5ebbccd5a9b01885480b711"
     % Things that change per piece:
     title = "Frenò Tirsi il desio"
     subtitle = "Seconda parte"
@@ -132,3 +133,4 @@
         }
     }
 }
+

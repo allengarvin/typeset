@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "e036c7bc9bc48bae7400a0a2a7112539262bb75a"
     % Things that change per piece:
     title = "Ella gli spirti altrui"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

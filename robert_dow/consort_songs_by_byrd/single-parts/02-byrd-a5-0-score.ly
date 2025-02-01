@@ -21,6 +21,7 @@
     final = "a"
     shorttitle = "susanna_faire"
     \include "include/distribution-header.ly"
+    cksum = "54d629c11f2981637b34f13b215bb1f06b54fdad"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }   
 }
+
 

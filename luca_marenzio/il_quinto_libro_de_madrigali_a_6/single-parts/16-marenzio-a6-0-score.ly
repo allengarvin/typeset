@@ -12,6 +12,7 @@
     lastupdated = "2022-12-11"
     originallyset = "2022-12-11"
     \include "include/distribution-header.ly"
+    cksum = "c5915c2c57b3976bde3de6e4a7310fc4007d7741"
     % Things that change per piece:
     title = "Baci soavi e cari"
     subtitle = "Prima parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

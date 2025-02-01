@@ -12,6 +12,7 @@
     lastupdated = "2023-01-06"
     originallyset = "2023-01-06"
     \include "include/distribution-header.ly"
+    cksum = "c0a7000b163341dd8bbc3082ad24052729b9de84"
     % Things that change per piece:
     title = "Filli, l'acerbo caso"
     subtitle = "Prima e seconda parte"
@@ -144,3 +145,4 @@
         }
     }
 }
+

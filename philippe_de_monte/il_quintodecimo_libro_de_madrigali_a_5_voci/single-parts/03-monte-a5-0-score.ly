@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "50653987ff4e11d7afd50dc34773c2cd3f71d7f4"
     % Things that change per piece:
     title = "Baciai ma che mi valse attender frutto"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

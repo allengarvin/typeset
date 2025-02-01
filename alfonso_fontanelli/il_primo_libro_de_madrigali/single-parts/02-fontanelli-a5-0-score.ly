@@ -12,6 +12,7 @@
     lastupdated = "2023-01-23"
     originallyset = "2023-01-23"
     \include "include/distribution-header.ly"
+    cksum = "2d05b0c8da66281f727b0f401a29962addd4a015"
     % Things that change per piece:
     title = "Tra i gigli e le viole"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

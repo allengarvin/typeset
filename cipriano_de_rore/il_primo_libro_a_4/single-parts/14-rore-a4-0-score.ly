@@ -23,6 +23,7 @@
     shorttitle = "amor_ben_mi_credevo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "db7ba31bc486ca848f96d5c56724d7d26a9ffcf2"
     tagline = #'f
 }
 
@@ -95,3 +96,4 @@
         }
     }
 }
+

@@ -22,6 +22,7 @@
     shorttitle = "ragione_e_ben_ch_alcuna"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3c9623e8902ec8933ac5b178b1f85a8157e7fc6d"
     tagline = #'f
 }
 
@@ -106,5 +107,6 @@
         }
     }
 }
+
 
 

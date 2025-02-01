@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "bergerette_savoyene"
     \include "include/distribution-header.ly"
+    cksum = "b73854e8b2f7d74df1826c7761ced840955758df"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

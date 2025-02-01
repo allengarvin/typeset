@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "99942f4ced8ec7852f51771a96b9446c08debcde"
     % Things that change per piece:
     title = "Crudele, acerba, inesorabil morte"
     subtitle = ""
@@ -109,3 +110,4 @@
     }
 
 }
+

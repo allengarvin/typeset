@@ -25,6 +25,7 @@
     shorttitle = "chi_strinse_mai_piu_bello_mano"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "20fb4779050df4bb1c61a7115e71b093c70b6f04"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

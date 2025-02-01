@@ -25,6 +25,7 @@
     shorttitle = "laspetto_sacro"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "1b3c24f5ebbe7d1b9c193119b02939a5267a637f"
     tagline = #'f
 }
 
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

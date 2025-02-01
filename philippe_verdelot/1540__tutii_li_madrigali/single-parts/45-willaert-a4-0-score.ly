@@ -26,6 +26,7 @@
     final = "f"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3b001cfe975d99e1229ffb8d2b81ecd1023f7193"
     composer = "Adrian Willaert (c.1490-1562)"
 
     tagline = #'f
@@ -104,3 +105,4 @@
         }
     }
 }
+

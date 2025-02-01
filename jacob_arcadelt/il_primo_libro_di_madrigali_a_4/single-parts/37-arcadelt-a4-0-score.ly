@@ -24,6 +24,7 @@
     shorttitle = "io_dico"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "6dbfaebaf10f2cf13e81d1850a0e395327ebff52"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

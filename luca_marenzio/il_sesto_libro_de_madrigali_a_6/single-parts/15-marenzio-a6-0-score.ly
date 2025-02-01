@@ -14,6 +14,7 @@
     flats = 1
     final = "bf"
     \include "include/distribution-header.ly"
+    cksum = "05d22f840c29ab745b47c4c9798ed134aeab64b6"
     % Things that change per piece:
     title = "Ma questo, ohimè!"
     subtitle = "Sesta parte"
@@ -133,3 +134,4 @@
         }
     }
 }
+

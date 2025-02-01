@@ -12,6 +12,7 @@
     lastupdated = "2022-11-22"
     originallyset = "2022-11-22"
     \include "include/distribution-header.ly"
+    cksum = "6a0b7c1504194d22c804bfde3f8adbd789f54026"
     % Things that change per piece:
     title = "Vergine saggia"
     subtitle = ""
@@ -126,3 +127,4 @@
         }
     }
 }
+

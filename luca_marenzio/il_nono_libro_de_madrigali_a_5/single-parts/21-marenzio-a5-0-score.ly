@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "b09f8074f9a1bc526d243f4142c175ee77c7d0d4"
     % Things that change per piece:
     title = "La bella man vi stringo"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     shorttitle = "mirami_vita_mia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "58ecb33681512c9b26c980b1efaa56e76cc3d3b1"
     tagline = #'f
 }
 
@@ -101,3 +102,4 @@
         }
     }
 }
+

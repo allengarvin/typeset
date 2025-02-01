@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "f108caba8c488d69bb9c0fe6f2954b8280a0f684"
     % Things that change per piece:
     title = "Piangea Filli"
     subtitle = ""
@@ -132,4 +133,5 @@
         }
     }
 }
+
 

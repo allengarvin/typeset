@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "d97ffefec6c7c4ec89c12e17ae813b00b1bee1c4"
     % Things that change per piece:
     title = "Emulo sei del sole"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

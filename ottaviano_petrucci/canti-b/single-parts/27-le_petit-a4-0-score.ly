@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "et_la_la_la"
     \include "include/distribution-header.ly"
+    cksum = "0e6814a0f5dda6644ec805ae83eea058e0d3894b"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

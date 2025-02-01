@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "see_see_mine_own_sweet_jewel"
     \include "include/distribution-header.ly"
+    cksum = "12671f05c5e56ac231e8a7cdf0e7332b9cf490da"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

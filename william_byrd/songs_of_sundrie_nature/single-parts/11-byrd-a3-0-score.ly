@@ -22,6 +22,7 @@
     final = "c"
     shorttitle = "but_when_by_proof"
     \include "include/distribution-header.ly"
+    cksum = "c3051b8f706dc010bd003a7c39b6f82725a3a26a"
     tagline = #'f
 }
 
@@ -83,4 +84,5 @@
         }
     }
 }
+
 

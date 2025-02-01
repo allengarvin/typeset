@@ -12,6 +12,7 @@
     lastupdated = "2022-10-02"
     originallyset = "2022-10-02"
     \include "include/distribution-header.ly"
+    cksum = "97505183ff59ebbc8f266e81ea8b69980493c51f"
     % Things that change per piece:
     composer = "Alfonso Ferrabosco the Elder (1543-1588)"
     title = "In nomine"
@@ -94,3 +95,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "e"
     shorttitle = "soubz_ce_tumbel"
     \include "include/distribution-header.ly"
+    cksum = "ba6da814fdf602e764f2c4efdca89e96dead636b"
     tagline = #'f
 }
 
@@ -97,4 +98,5 @@
         }
     }
 }
+
 

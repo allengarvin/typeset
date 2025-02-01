@@ -12,6 +12,7 @@
     lastupdated = "2023-01-08"
     originallyset = "2023-01-08"
     \include "include/distribution-header.ly"
+    cksum = "13d5554634498de95e9326b80d2b0a31825053a2"
     % Things that change per piece:
     title = "Padre del cielo"
     subtitle = "Prime e seconda parte"
@@ -112,3 +113,4 @@
         }
     }
 }
+

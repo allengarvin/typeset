@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "missa_super_ich_stund_an_einem_morgen"
     \include "include/distribution-header.ly"
+    cksum = "ccdfec8c36abfe53a784e310f9feff05ed1e0469"
     tagline = #'f
 }
 
@@ -92,3 +93,4 @@
         }
     }
 }
+

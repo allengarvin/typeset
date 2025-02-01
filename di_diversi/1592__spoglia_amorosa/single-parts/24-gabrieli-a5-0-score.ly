@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "f10892ed9ddfca710dba22ac669c3f95fa0c5536"
     % Things that change per piece:
     title = "O ricco mio tesoro"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

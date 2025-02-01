@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "67cfad17b2fc9e5b00e857031d641a30ad26a2e3"
     % Things that change per piece:
     title = "Talor dico, il suo cor"
     subtitle = "Quarta parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "a19513158826e1dfecd08f0b101535cd3dc6f27c"
     % Things that change per piece:
     title = "Io pensai dolce e grato"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

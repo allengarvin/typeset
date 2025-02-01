@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "7a46122447b3d242d17c4405602ba56535c3ec60"
     % Things that change per piece:
     title = "Felici d'Adria"
     subtitle = ""
@@ -169,3 +170,4 @@
         }
     }
 }
+

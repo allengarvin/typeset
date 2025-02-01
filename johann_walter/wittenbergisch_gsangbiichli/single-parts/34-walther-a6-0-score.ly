@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "nun_bitten_wir"
     \include "include/distribution-header.ly"
+    cksum = "7dd1c179aa2966602af62a71b1fddda8e26c205d"
     tagline = #'f
 }
 
@@ -93,4 +94,5 @@
         }
     }
 }
+
 

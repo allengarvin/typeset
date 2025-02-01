@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motif = "[shepherd,troy,myth]"
     \include "include/distribution-header.ly"
+    cksum = "3e4b5d4c0d9b5d39a34b08629cdd5f1164ef9c7b"
     tagline = #'f
 }
 
@@ -128,3 +129,4 @@
         }
     }
 }
+

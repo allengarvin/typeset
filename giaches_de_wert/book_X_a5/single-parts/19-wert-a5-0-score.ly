@@ -12,6 +12,7 @@
     lastupdated = "2023-02-12"
     originallyset = "2023-02-12"
     \include "include/distribution-header.ly"
+    cksum = "f18ee727b8512968b03da3d66caca15a1207cd0b"
     % Things that change per piece:
     title = "Ite ardenti sospiri"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

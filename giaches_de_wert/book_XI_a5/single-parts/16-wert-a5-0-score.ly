@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "2cca073cb4e82d95e0e12adcf9decb8cdd5c29ed"
     % Things that change per piece:
     title = "Felice il bel tacer, che s'impregiona"
     subtitle = "Seconda parte"
@@ -115,3 +116,4 @@
         }
     }
 }
+

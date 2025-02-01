@@ -23,6 +23,7 @@
     originallyset = "2013-05-26"
     lastupdated = "2013-05-26"
     \include "include/distribution-header.ly"
+    cksum = "ce0e1521eeefa563499a734edcb7bb3e651acce6"
     tagline = #'f
 }
 
@@ -66,4 +67,5 @@
         }
     }   
 }
+
 

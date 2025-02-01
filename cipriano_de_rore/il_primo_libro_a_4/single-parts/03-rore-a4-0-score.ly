@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[laurel]"
     \include "include/distribution-header.ly"
+    cksum = "c8ce7d4f3e33708c9c2e04e99d93c1134334849b"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
 
 
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "ada1d4859260d530844f723cd3b89d90a20a1ae0"
     % Things that change per piece:
     title = "Cor mio, non mori?"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "66102b9b23285dd2f1407e94b0347e0b38ac5523"
     % Things that change per piece:
     title = "Senza il mio Sole"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

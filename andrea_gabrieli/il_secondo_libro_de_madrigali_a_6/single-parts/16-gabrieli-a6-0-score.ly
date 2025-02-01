@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "637320b38b2177e0e522ddbfd86b0ca2d9e4fb0e"
     % Things that change per piece:
     title = "Mentre la bella Dori"
     subtitle = ""
@@ -129,3 +130,4 @@
        }
     }
 }
+

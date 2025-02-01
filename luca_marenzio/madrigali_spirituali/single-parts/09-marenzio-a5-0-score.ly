@@ -12,6 +12,7 @@
     lastupdated = "2023-01-08"
     originallyset = "2023-01-08"
     \include "include/distribution-header.ly"
+    cksum = "9d7499cff656a0bfc484ac2f35df18b431a44386"
     % Things that change per piece:
     title = "Sento squarciar del vecchio tempio il velo"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

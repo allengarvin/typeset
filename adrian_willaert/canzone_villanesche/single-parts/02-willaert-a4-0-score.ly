@@ -25,6 +25,7 @@
     final = "d"
     shorttitle = "o_dolce_vita_mia"
     \include "include/distribution-header.ly"
+    cksum = "b5414b30c79e446232a6803047995dafefab469b"
     tagline = #'f
 }
 
@@ -96,4 +97,5 @@
     }
 
 }
+
 

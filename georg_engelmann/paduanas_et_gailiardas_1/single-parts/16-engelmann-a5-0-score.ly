@@ -12,6 +12,7 @@
     lastupdated = "2023-11-22"
     originallyset = "2023-11-22"
     \include "include/distribution-header.ly"
+    cksum = "c40203e113305000edadb16d6d1964f1878cf7b1"
     % Things that change per piece:
     title = "Galliarda Costapo"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

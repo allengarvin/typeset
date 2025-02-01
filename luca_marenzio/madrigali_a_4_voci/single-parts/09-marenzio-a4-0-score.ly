@@ -22,6 +22,7 @@
     shorttitle = "e_per_virtu"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "ea78471b75bf70ba034d041c9d6db554bf70d5b8"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

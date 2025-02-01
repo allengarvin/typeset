@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "26b240099da3e9d017dbf47f8b75470a0dac53d0"
     % Things that change per piece:
     title = "Di lume privo"
     subtitle = "Prima parte"
@@ -120,3 +121,4 @@
         }
     }
 }
+

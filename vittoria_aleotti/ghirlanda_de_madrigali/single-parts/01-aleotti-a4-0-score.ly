@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "8a3bb77832c57bf3172040d6309684a4a92d909e"
     % Things that change per piece:
     title = "Or che la vaga aurora"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

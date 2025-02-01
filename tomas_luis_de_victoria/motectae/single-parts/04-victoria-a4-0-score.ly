@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "o_decus_apostolicum"
     \include "include/distribution-header.ly"
+    cksum = "88cd8e293b06327e417dad89a80e3f0b4dff6dc0"
     tagline = #'f
 }
 
@@ -95,3 +96,4 @@
         }
     }
 }
+

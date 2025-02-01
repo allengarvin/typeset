@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "d6e06797361b87fbedf5bd76205a82ba2964ca1d"
     % Things that change per piece:
     title = "Talor dal cor si move"
     subtitle = "Quinta parte"
@@ -116,3 +117,4 @@
         }
     }
 }
+

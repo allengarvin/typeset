@@ -22,6 +22,7 @@
     shorttitle = "il_grillo"
     categories = "[animal]"
     \include "include/distribution-header.ly"
+    cksum = "fc0daf55cfd5bec7a702ba02d25290d4fef157c3"
     tagline = #'f
 }
 
@@ -58,4 +59,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

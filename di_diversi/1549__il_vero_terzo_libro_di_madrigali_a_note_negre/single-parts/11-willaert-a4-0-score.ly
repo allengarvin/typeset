@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "79351ce1ed5e91e131a68a4b1c444ea73f966e8f"
     % Things that change per piece:
     title = "Quante volte diss'io"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

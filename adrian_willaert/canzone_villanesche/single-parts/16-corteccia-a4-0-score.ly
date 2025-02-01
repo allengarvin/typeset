@@ -26,6 +26,7 @@
     final = "c"
     shorttitle = "le_vecchie_per_invidia"
     \include "include/distribution-header.ly"
+    cksum = "ca3a4eb584609294a400be02d4510a701add4f81"
     tagline = #'f
 }
 
@@ -91,4 +92,5 @@
       }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2022-11-05"
     originallyset = "2022-11-05"
     \include "include/distribution-header.ly"
+    cksum = "0bb6bdd8c3c2087d9ea10c15452fc8454600b25e"
     % Things that change per piece:
     title = "Of gold all burnish'd"
     subtitle = "The first part"
@@ -104,3 +105,4 @@
         }
     }
 }
+

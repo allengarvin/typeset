@@ -24,6 +24,7 @@
     shorttitle = "solo_e_pensoso"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "4e21afb3ceecdb5c13a483e4f204de31ae35ae05"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

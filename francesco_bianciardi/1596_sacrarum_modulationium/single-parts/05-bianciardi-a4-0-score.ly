@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "c0dec2cf5d081c7b39d207f846f3256edf431806"
     % Things that change per piece:
     title = "Sacerdos et Pontifex"
     subtitle = ""
@@ -96,3 +97,4 @@
         }
     }
 }
+

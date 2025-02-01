@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "mon_pere_ma_mariee"
     \include "include/distribution-header.ly"
+    cksum = "2e35482c174846e5de9affbd6101dafd5b29de1f"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

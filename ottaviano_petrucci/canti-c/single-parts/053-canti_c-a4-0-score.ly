@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "je_ne_me_peus"
     \include "include/distribution-header.ly"
+    cksum = "fb28ee834d80df5cc940d0c9844a36799afe9539"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

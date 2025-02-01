@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "856f1262b0385a5c22642632a0c4cdda04d7ac3f"
     % Things that change per piece:
     title = "Crudel, perché mi fuggi"
     subtitle = ""
@@ -125,3 +126,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "tant_que_nostre_argent_durra"
     \include "include/distribution-header.ly"
+    cksum = "fa2269a739c8e3134ec48de7a546cb8e95833264"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

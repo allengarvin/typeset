@@ -30,6 +30,7 @@
     categories = "[madrigal]"
     motifs = "[amore,eyes,joy]"
     \include "include/distribution-header.ly"
+    cksum = "84501df896cf948e205a85f852225fcd04d9849a"
     tagline = #'f
 }
 
@@ -121,3 +122,4 @@
         }
     }
 }
+

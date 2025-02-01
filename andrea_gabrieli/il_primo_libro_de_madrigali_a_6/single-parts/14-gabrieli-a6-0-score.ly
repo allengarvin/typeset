@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "2ac13d0a64ff4680d6ca5a7e8daf7fe709aaccad"
     % Things that change per piece:
     title = "Amor mi strugge'l cor"
     subtitle = ""
@@ -122,3 +123,4 @@
         }
     }
 }
+

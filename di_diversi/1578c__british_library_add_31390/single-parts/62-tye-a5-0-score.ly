@@ -25,6 +25,7 @@
     shorttitle = "in_nomine_a_5_my_death"
     categories = "[in-nomine]"
     \include "include/distribution-header.ly"
+    cksum = "7c260e2079cdaa829aeada4511bd4241959d581a"
     tagline = #'f
 }
 
@@ -84,3 +85,4 @@
         }
     }   
 }
+

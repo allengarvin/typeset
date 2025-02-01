@@ -12,6 +12,7 @@
     lastupdated = "2022-11-06"
     originallyset = "2022-11-06"
     \include "include/distribution-header.ly"
+    cksum = "d94ef5b8bdda6122059a639aafea3e77c27d4f47"
     % Things that change per piece:
     title = "Credete a me"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

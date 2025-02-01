@@ -23,6 +23,7 @@
     shorttitle = "mia_benigna_fortuna"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c27233f8a04fa758a3f193fecd313a09eb374875"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

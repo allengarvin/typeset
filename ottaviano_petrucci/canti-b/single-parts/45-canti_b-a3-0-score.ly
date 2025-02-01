@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "chanter_ne_puis"
     \include "include/distribution-header.ly"
+    cksum = "727b83e203bc202b1b188976f5eb5f27b168a6a5"
     tagline = #'f
 }
 
@@ -69,4 +70,5 @@
         }
     }   
 }
+
 

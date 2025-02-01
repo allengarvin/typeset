@@ -22,6 +22,7 @@
     shorttitle = "apollo_s_ancor_vive"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "715becdc1fde9d6553674051bd3eedcf403dfa8a"
     tagline = #'f
 }
 
@@ -99,4 +100,5 @@
         }
     }
 }
+
 

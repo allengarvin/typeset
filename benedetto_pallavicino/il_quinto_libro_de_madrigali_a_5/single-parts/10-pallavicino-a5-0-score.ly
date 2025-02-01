@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "3c6f7838b87a1f2b101afb9cd66b87aa4c32953e"
     % Things that change per piece:
     title = "Se v'ho donato il core"
     subtitle = ""
@@ -115,5 +116,6 @@
         }
     }
 }
+
 
 

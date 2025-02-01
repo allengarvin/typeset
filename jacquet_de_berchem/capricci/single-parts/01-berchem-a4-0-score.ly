@@ -26,6 +26,7 @@
     shorttitle = "le_donne_i_cavallier"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "a50df496f9ccb0f426f360eef2db277e8ffba1c5"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

@@ -22,6 +22,7 @@
     lastupdated = "2018-10-06"
     shorttitle = "anchor_che_col_partier"
     \include "include/distribution-header.ly"
+    cksum = "bd9765a9c321261d6ce7eeca35abaaf06861c6af"
     tagline = #'f
 }
 
@@ -56,3 +57,4 @@
         }
     }   
 }
+

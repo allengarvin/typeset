@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "quam_pulchra_es"
     \include "include/distribution-header.ly"
+    cksum = "c42026b4549e231c7b0e6f0fc6dc6ba426a87185"
     tagline = #'f
 }
 
@@ -80,4 +81,5 @@
         }
     }
 }
+
 

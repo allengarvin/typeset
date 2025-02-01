@@ -25,6 +25,7 @@
     shorttitle = "ne_spero_i_dolci"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c0329f6e41454c147d32e634ee6aa9d6d88a9ee3"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

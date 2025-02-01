@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "633b749ea4da85af022bac323b1075b05f0445fe"
     % Things that change per piece:
     title = "Io v'amo, anima mia"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

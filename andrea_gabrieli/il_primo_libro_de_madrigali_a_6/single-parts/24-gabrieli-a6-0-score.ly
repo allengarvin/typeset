@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "acc4043b9d7fe480fb949f900e697ecbdfe1d3dc"
     % Things that change per piece:
     title = "E quei begli occhi"
     subtitle = "Seconda parte"
@@ -123,3 +124,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2022-09-25"
     originallyset = "2022-09-25"
     \include "include/distribution-header.ly"
+    cksum = "d9baf0d35ca1b5b7cb667b618e1d631cc228e476"
     % Things that change per piece:
     title = "O di che grato odor i bei giacinti"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

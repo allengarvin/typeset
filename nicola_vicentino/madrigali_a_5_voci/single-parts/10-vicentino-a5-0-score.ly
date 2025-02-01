@@ -24,6 +24,7 @@
     shorttitle = "laura_chel_verde_lauro"
     categories = "[chromatic,madrigal,laura-l'aura-wordplay]"
     \include "include/distribution-header.ly"
+    cksum = "d9f3677d02696bf29cc17be9fd01d49182e4a0e2"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
         }
     }
 }
+
 

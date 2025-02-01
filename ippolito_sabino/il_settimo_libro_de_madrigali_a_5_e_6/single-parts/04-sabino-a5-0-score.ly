@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "00a6aa733a9ad6d82fd26a2e4fba80414f2f1c6c"
     % Things that change per piece:
     title = "Ferrimi Amor il fianco"
     subtitle = ""
@@ -120,3 +121,4 @@
        }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-28"
     originallyset = "2023-01-28"
     \include "include/distribution-header.ly"
+    cksum = "b9d6aa148d21eefa22e280fafb339434d69b60ac"
     % Things that change per piece:
     title = "Molino a le virtù tante"
     subtitle = "Prima parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

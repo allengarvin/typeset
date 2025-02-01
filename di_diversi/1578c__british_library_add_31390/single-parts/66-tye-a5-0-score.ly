@@ -12,6 +12,7 @@
     lastupdated = "2022-10-02"
     originallyset = "2022-10-02"
     \include "include/distribution-header.ly"
+    cksum = "23a96f2bc5092a7ce08432644f11edf2c12d87e0"
     % Things that change per piece:
     title = "In nomine à 5 'Rounde'"
     subtitle = "Weidner #9"
@@ -86,3 +87,4 @@
         }
     }   
 }
+

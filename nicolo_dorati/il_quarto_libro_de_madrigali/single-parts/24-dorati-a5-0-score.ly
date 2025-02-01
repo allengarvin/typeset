@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "992aa5970d79edbbe0bb275f3fe45c5c3816b08c"
     % Things that change per piece:
     title = "Non rumor di tamburi"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

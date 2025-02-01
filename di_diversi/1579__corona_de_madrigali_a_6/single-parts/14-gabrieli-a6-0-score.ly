@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f5853d570a3641daa5c7b5f897af10ae9714003e"
     % Things that change per piece:
     title = "Ben possono i Poeti"
     subtitle = "Seconda parte"
@@ -125,5 +126,6 @@
         }
     }
 }
+
 
 

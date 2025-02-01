@@ -27,6 +27,7 @@
     shorttitle = "mentre_costui"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "2abfa3253dde7d2ab248fdd6a1b0c90712a5b5bd"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

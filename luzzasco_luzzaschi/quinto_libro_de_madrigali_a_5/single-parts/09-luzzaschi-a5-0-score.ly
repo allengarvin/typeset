@@ -12,6 +12,7 @@
     lastupdated = "2022-11-06"
     originallyset = "2022-11-06"
     \include "include/distribution-header.ly"
+    cksum = "f0ea0d9346ef50673a995bcc4587187860aaf9c8"
     % Things that change per piece:
     title = "Tu godi o bell'amante"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

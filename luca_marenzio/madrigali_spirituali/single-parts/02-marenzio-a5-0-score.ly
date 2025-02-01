@@ -12,6 +12,7 @@
     lastupdated = "2023-01-08"
     originallyset = "2023-01-08"
     \include "include/distribution-header.ly"
+    cksum = "89275671e777cdf08a0a761687a5fb712ffe7644"
     % Things that change per piece:
     title = "Le dubbie spemi"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

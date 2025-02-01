@@ -12,6 +12,7 @@
     lastupdated = "2023-01-09"
     originallyset = "2023-01-09"
     \include "include/distribution-header.ly"
+    cksum = "f2dfa3449b014de00e37327917a7811cde71fc9b"
     % Things that change per piece:
     title = "Tra Giove in Cielo"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

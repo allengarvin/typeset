@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "63725ba17bd999cc612d10d88245dd8b285ba466"
     % Things that change per piece:
     title = "Se 'l pensier che mi strugge"
     subtitle = ""
@@ -161,3 +162,4 @@
         }
     }
 }
+

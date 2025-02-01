@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "cueur_langoreulx"
     \include "include/distribution-header.ly"
+    cksum = "471e05db1a336c7378e3caec6761f323020e1d6d"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

@@ -20,6 +20,7 @@
     shorttitle = "sul_carro_della_mente"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c9d94401a4033c5b68cd79474a7cd3f7ff46a7bf"
     language = "italian"
     tagline = #'f
 }
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

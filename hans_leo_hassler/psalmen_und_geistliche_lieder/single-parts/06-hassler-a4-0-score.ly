@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "vom_himmel_hoch"
     \include "include/distribution-header.ly"
+    cksum = "8f3f1025c4db786f03cecc3151907967f3a2c893"
     tagline = #'f
 }
 
@@ -92,4 +93,5 @@
         }
     }
 }
+
 

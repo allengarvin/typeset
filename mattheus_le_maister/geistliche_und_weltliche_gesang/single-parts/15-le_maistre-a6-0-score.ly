@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "nu_bitten_wir_den_heiligen_geist"
     \include "include/distribution-header.ly"
+    cksum = "df221a05d68c97b85b37e57a77b988900fcca79b"
     tagline = #'f
 }
 
@@ -93,3 +94,4 @@
         }
     }   
 }
+

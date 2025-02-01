@@ -12,6 +12,7 @@
     lastupdated = "2022-12-11"
     originallyset = "2022-12-11"
     \include "include/distribution-header.ly"
+    cksum = "25feb00837f837420bbfd590614826de380515ab"
     % Things that change per piece:
     title = "Baci, ohimè non mirate"
     subtitle = "Quinta parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

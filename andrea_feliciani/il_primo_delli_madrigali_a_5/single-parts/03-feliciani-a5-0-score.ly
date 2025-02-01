@@ -12,6 +12,7 @@
     lastupdated = "2023-01-19"
     originallyset = "2023-01-19"
     \include "include/distribution-header.ly"
+    cksum = "8c0671401b1f186e706d0cacd9d9bba93edcf612"
     % Things that change per piece:
     title = "Amor m'ha posto"
     subtitle = "Prima parte"
@@ -121,5 +122,6 @@
         }
     }
 }
+
 
 

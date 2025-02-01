@@ -12,6 +12,7 @@
     lastupdated = "2022-10-02"
     originallyset = "2022-10-02"
     \include "include/distribution-header.ly"
+    cksum = "89db778628b1238ef0a941ecdd8bef5beb9991e2"
     % Things that change per piece:
     title = "Browning my dear"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

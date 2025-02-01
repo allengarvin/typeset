@@ -25,6 +25,7 @@
     final = "f"
     shorttitle = "in_te_domine_speravi"
     \include "include/distribution-header.ly"
+    cksum = "e95f92d083eb0ee5719035e24e1e3f88d31ca3fb"
     tagline = #'f
 }
 
@@ -106,4 +107,5 @@
         }
     }
 }
+
 

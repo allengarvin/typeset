@@ -26,6 +26,7 @@
     final = "c"
     shorttitle = "li_nostri_preti"
     \include "include/distribution-header.ly"
+    cksum = "4eccb04af55f5a1daef2786e37c249000261226e"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

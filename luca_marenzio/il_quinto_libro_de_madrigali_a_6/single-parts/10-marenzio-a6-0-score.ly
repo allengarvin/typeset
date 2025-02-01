@@ -12,6 +12,7 @@
     lastupdated = "2022-12-05"
     originallyset = "2022-12-05"
     \include "include/distribution-header.ly"
+    cksum = "ac447dce3256980b0cd4c166aba3231d8bd6269d"
     % Things that change per piece:
     title = "Giunto a un bel fonte"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

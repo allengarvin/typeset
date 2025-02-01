@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "cingari_sima"
     \include "include/distribution-header.ly"
+    cksum = "e2d4a2a6c1495ebf7fd738d6575a4a0c52afee26"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

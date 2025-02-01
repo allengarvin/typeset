@@ -25,6 +25,7 @@
     shorttitle = "hor_fuggi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "b9fe25f021306b03d9bf698f1348503e7382265e"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

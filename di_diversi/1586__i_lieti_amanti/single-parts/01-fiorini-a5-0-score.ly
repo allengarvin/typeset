@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "213b8dbbab8d6829d0eb0419d8db87b0838fb521"
     % Things that change per piece:
     title = "Tirsi dolente e mesto"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "je_despite_tous"
     \include "include/distribution-header.ly"
+    cksum = "4d2e9c0d36ecb520c2514964e7782926701b708d"
     tagline = #'f
 }
 
@@ -68,3 +69,4 @@
         }
     }   
 }
+

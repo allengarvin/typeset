@@ -25,6 +25,7 @@
     final = "g"
     categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "95dae191d42a82e06f3e1c3eb39663d784fe45a0"
     tagline = #'f
 }
 
@@ -113,3 +114,4 @@
         }
     }   
 }
+

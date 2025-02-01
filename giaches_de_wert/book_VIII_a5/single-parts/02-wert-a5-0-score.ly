@@ -27,6 +27,7 @@
     shorttitle = "rallegrati_mio_cor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "671ddf257c757df65bddce856b8cbe5d987e2075"
     tagline = #'f
 }
 
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

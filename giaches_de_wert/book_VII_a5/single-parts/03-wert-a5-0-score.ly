@@ -23,6 +23,7 @@
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort]"
     \include "include/distribution-header.ly"
+    cksum = "dd0186f73a22f65937ec26ea1fa7be7c60835da5"
     tagline = #'f
 }
 
@@ -99,4 +100,5 @@
         }
     }
 }
+
 

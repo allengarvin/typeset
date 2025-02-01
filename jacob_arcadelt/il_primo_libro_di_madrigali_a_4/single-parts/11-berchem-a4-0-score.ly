@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "8b9a850fe549cf33ff053c47c7f1c8c758413593"
     % Things that change per piece:
     title = "Sapete amanti"
     subtitle = ""
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

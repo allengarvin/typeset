@@ -12,6 +12,7 @@
     lastupdated = "2022-12-07"
     originallyset = "2022-12-07"
     \include "include/distribution-header.ly"
+    cksum = "13db3666470a0049c1504a2b71f447024ee5f05f"
     % Things that change per piece:
     title = "Con la sua man"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

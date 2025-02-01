@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "en_lombre_dung_bussinet"
     \include "include/distribution-header.ly"
+    cksum = "64d74ac916d3c9895e84233e31908e650d80aead"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

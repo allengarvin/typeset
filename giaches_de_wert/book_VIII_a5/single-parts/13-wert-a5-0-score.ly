@@ -27,6 +27,7 @@
     poeticform = "ottava rima"
     categories = "[madrigal,favorite]"
     \include "include/distribution-header.ly"
+    cksum = "bb063effa796e0401da425d3f1b20fea1279a94f"
     tagline = #'f
 }
 
@@ -119,4 +120,5 @@
 
 
 }
+
 

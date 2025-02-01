@@ -25,6 +25,7 @@
     shorttitle = "donna_curtese"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "0ad3d36281ece5bdc32b2e7fcf1506aebbaf0be1"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

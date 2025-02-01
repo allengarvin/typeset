@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "e3a762eb899a20ffd879f8cfadf64b5b7a754ad8"
     % Things that change per piece:
     title = "A piè d'un lauro"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

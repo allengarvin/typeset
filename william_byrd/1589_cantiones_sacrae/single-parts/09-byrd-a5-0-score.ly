@@ -12,6 +12,7 @@
     lastupdated = "2022-11-16"
     originallyset = "2022-11-16"
     \include "include/distribution-header.ly"
+    cksum = "73fe2bc845d6379ff7622253fb77c52bc076a0ce"
     % Things that change per piece:
     title = "Vide, Domine"
     subtitle = "Prima pars"
@@ -110,3 +111,4 @@
         }
     }
 }
+

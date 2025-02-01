@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "46357c57658a34bd6e571c1be69e3c46ca72b334"
     % Things that change per piece:
     composer = "Claudio Merulo (1533-1604)"
 
@@ -111,3 +112,4 @@
         }
     }
 }
+

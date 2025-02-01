@@ -26,6 +26,7 @@
     shorttitle = "se_ne_la_mente_mia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "d066fee87e86d19b5416830c8287b4b09713584b"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-11-23"
     originallyset = "2023-11-23"
     \include "include/distribution-header.ly"
+    cksum = "8b9fc67ddd2771051ce0bf16c38bf0eba6679f9f"
     % Things that change per piece:
     title = "Courante Laraxa"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

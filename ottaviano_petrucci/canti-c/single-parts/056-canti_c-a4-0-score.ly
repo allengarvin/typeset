@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "helas_le_poure_johan"
     \include "include/distribution-header.ly"
+    cksum = "451d5d0fafb06336076ee4bca53da11ef9bf64ae"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

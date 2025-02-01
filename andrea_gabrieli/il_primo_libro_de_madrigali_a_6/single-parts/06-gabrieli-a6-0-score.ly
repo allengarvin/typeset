@@ -24,6 +24,7 @@
     categories = "[madrigal,morte]"
     motifs = "[shadow,darkness]"
     \include "include/distribution-header.ly"
+    cksum = "a405d6fb59d3fc0ed1734b1692bd854fb38d8a63"
     tagline = #'f
 }
 
@@ -117,3 +118,4 @@
         }
     }
 }
+

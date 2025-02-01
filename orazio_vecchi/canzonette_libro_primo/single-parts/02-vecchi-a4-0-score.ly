@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "732aac31ba06b5eebb9eb6a7e4b7640d53d496eb"
     % Things that change per piece:
     title = "Mentre io campai contento"
     subtitle = ""
@@ -132,3 +133,4 @@
         }
     }
 }
+

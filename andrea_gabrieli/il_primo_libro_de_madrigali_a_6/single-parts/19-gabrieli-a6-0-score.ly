@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "ae96210d1a1169d3f2da502915c6170cafe8cc12"
     % Things that change per piece:
     title = "S'a l'amorose mie calde parole"
     subtitle = "Prima parte"
@@ -119,3 +120,4 @@
         }
     }
 }
+

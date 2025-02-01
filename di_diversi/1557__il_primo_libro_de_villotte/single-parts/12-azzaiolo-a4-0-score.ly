@@ -25,6 +25,7 @@
     final = "f"
     shorttitle = "vorrei_chei_tu_cantassi"
     \include "include/distribution-header.ly"
+    cksum = "b0ff5c4797330ca6a7c0f06ef9f20b365a64154a"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

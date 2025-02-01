@@ -12,6 +12,7 @@
     lastupdated = "2022-11-11"
     originallyset = "2022-11-11"
     \include "include/distribution-header.ly"
+    cksum = "7991ffb32a4a7f51c0cf72fe3233848aa9d900d2"
     % Things that change per piece:
     title = "All as a Sea"
     subtitle = ""
@@ -117,3 +118,4 @@
         }
     }
 }
+

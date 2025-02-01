@@ -21,6 +21,7 @@
     lastupdated = "2016-01-02"
     shorttitle = "pavana_1"
     \include "include/distribution-header.ly"
+    cksum = "7fc78aac341b4efc2f6853a3674a1457589ee9f2"
     tagline = #'f
 }
 
@@ -71,4 +72,5 @@
         }
     }   
 }
+
 

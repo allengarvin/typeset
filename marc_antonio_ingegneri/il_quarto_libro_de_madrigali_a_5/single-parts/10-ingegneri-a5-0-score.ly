@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "6d70a24cee02b1482c65cfd18cdfe845b68c211b"
     % Things that change per piece:
     title = "In mar fissa tenea"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

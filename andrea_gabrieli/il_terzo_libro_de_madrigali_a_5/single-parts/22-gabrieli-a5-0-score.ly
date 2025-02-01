@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "88ff3133c29615b3f123bd15bbc19e586938a822"
     % Things that change per piece:
     title = "Amor, senno, valor, pietate, e doglia"
     subtitle = "Seconda parte"
@@ -116,3 +117,4 @@
         }
     }
 }
+

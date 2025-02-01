@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "e01cfe05af68ce2d583eeb292ddf649b976e49f1"
     % Things that change per piece:
     title = "Uscite, uscite ninfe"
     subtitle = ""
@@ -132,3 +133,4 @@
         }
     }
 }
+

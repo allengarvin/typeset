@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "763df6a50af1b421d2f7268e5b8f75d4bcc4aa3f"
     % Things that change per piece:
     title = "Or ch'allegra e ridente"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

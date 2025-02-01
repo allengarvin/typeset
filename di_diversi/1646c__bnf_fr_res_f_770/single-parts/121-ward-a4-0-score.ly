@@ -26,6 +26,7 @@
     lastupdated = "2022-09-01"
     originallyset = "2022-09-01"
     \include "include/distribution-header.ly"
+    cksum = "56ff558e541f680314dab6f195b7a6d6604ab79f"
     composer = "John Ward (c.1589-1638)"
     tagline = #'f
 }
@@ -79,3 +80,4 @@
         }
     }   
 }
+

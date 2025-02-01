@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "023eaefb33055f87e4bebd4a92489d0f9979d36d"
     % Things that change per piece:
     title = "Là ver l'aurora"
     subtitle = "Prima parte"
@@ -115,3 +116,4 @@
         }
     }
 }
+

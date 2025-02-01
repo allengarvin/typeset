@@ -12,6 +12,7 @@
     lastupdated = "2023-05-22"
     originallyset = "2023-05-22"
     \include "include/distribution-header.ly"
+    cksum = "dbc1685f4faf61b412f934fe15f0d8985c59ca85"
     % Things that change per piece:
     title = "O voi de boschi abitatrici Dive"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

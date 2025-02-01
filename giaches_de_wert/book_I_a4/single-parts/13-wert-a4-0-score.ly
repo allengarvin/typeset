@@ -26,6 +26,7 @@
     shorttitle = "ma_di_che_debbo_lamentarmi"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "310e2455398c6b198a29b776a954a5cf0efd8c1b"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

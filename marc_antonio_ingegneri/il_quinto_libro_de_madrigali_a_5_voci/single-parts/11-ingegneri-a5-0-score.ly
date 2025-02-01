@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "3e693d04b39e051e170bc290b44279a193185ec1"
     % Things that change per piece:
     title = "Mentre io mirava fiso"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

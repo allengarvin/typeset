@@ -25,6 +25,7 @@
     shorttitle = "io_partiro"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "4abab3616db9e98ca930c9aa4648b649a10d9d97"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

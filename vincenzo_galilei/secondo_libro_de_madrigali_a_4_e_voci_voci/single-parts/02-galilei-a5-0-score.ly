@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "370aa1df836a94a7ec68c530686f1f046b6532be"
     % Things that change per piece:
     title = "Spirto sovran che di virtù sostegno"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2023-02-04"
     originallyset = "2023-02-04"
     \include "include/distribution-header.ly"
+    cksum = "451230af0abcaf9f4e16ba7c5997682b2e48c31f"
     % Things that change per piece:
     title = "Pur mi dara tanta baldanza Amore"
     subtitle = "Seconda parte"
@@ -105,3 +106,4 @@
         }
     }
 }
+

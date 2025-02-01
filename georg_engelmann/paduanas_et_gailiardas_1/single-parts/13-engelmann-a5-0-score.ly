@@ -12,6 +12,7 @@
     lastupdated = "2023-11-22"
     originallyset = "2023-11-22"
     \include "include/distribution-header.ly"
+    cksum = "751b72e1717ed49cd59cad8aa3d1a677672be458"
     % Things that change per piece:
     title = "Paduana Tremel"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

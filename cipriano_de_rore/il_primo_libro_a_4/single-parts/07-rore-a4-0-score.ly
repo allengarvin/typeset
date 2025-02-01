@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[fate]"
     \include "include/distribution-header.ly"
+    cksum = "ca358c7a889ceb73d7c0547cd5bb55d69750d7fe"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
         }
     }
 }
+
 

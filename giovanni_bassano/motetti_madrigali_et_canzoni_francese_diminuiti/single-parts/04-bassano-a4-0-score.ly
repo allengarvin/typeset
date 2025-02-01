@@ -16,6 +16,7 @@
 
     % Unchanging:
     \include "include/distribution-header.ly"
+    cksum = "a77de94e0b6aba5b387fb24a9103f379e4e8bd47"
     composer = "Cipriano de Rore / Canto parte by Giovanni Bassano (c.1561-1617)"
     originallyset = "2018-10-07"
     lastupdated = "2018-10-07"
@@ -84,3 +85,4 @@
         }
     }
 }
+

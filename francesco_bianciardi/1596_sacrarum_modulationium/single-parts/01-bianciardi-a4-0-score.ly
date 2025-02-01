@@ -12,6 +12,7 @@
     lastupdated = "2022-10-23"
     originallyset = "2022-10-23"
     \include "include/distribution-header.ly"
+    cksum = "6f1f6c39a9a4583483a2af8c37882caeadb4933a"
     % Things that change per piece:
     title = "Exultate Deo adjutori nostro"
     subtitle = ""
@@ -100,3 +101,4 @@
         }
     }
 }
+

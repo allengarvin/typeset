@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "bc83d09c72e7876bd6405c5ab5ba19279b54be2a"
     % Things that change per piece:
     title = "Anima bella"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     shortcomp = "canale"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "0bd6f4227055772451c2cf29555cfe810aafe07a"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
         }
     }
 }
+
 

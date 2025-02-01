@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "quanti_mercenarii"
     \include "include/distribution-header.ly"
+    cksum = "3da9a37fd903ac069072991fd107d5383ccff568"
     tagline = #'f
 }
 
@@ -104,3 +105,4 @@
         }
     }
 }
+

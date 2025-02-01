@@ -25,6 +25,7 @@
     motifs = "[morte,male-pov,amore]"
     rhyme = "AbAbcC"
     \include "include/distribution-header.ly"
+    cksum = "f17bc2e00bbed760f2397cad5dabffabf3581fd1"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

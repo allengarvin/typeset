@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "0543b3b5d89206f2956954b81b276b5f0ce654cd"
     % Things that change per piece:
     title = "In nobil sangue"
     subtitle = "Prima parte"
@@ -128,4 +129,5 @@
         }
     }
 }
+
 

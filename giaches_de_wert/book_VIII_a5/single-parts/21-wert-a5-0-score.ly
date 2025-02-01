@@ -26,6 +26,7 @@
     categories = "[madrigal]"
     motifs = "[cupid,bow,arrows,eyes]"
     \include "include/distribution-header.ly"
+    cksum = "cd5e102194f63961d4e03d35ec92c6f3abb2486c"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

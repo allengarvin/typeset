@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "979babd9f2ecf0c8a735ea5ea077030d195d7048"
     % Things that change per piece:
     title = "Fugge Madonna e crede"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

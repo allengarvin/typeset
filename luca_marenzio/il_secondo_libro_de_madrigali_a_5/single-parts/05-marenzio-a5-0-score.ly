@@ -24,6 +24,7 @@
     shorttitle = "amor_io_non_potrei"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "61a8900bfe2ec2ba6b83fef549d7d6834fedf8b0"
     tagline = #'f
 }
 
@@ -117,5 +118,6 @@
         }
     }
 }
+
 
 

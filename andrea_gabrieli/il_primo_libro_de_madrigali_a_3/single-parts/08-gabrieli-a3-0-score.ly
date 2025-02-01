@@ -27,6 +27,7 @@
     poeticform = "ottava rima"
     rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
+    cksum = "c81c14eb915e72e2efdc40cbdccfe28412d140a7"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

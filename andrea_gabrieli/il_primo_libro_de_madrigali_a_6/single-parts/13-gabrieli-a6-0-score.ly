@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "1e7aa6203b1419df42dd592f23999cf8170831ae"
     % Things that change per piece:
     title = "Volto di mille e mille grazie adorno"
     subtitle = ""
@@ -133,4 +134,5 @@
         }
     }
 }
+
 

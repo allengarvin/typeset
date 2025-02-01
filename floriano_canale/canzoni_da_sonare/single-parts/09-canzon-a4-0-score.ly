@@ -23,6 +23,7 @@
     shorttitle = "la_ugona"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "d100d9a2a00006385776b4f8bb415fb74bd9b94d"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

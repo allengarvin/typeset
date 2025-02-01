@@ -12,6 +12,7 @@
     lastupdated = "2022-10-29"
     originallyset = "2022-10-29"
     \include "include/distribution-header.ly"
+    cksum = "9d76778eeecd15c369af057c07c8af9da0d2d002"
     % Things that change per piece:
     title = "O quam gloriosum est regnum"
     subtitle = ""
@@ -107,3 +108,4 @@
         }
     }
 }
+

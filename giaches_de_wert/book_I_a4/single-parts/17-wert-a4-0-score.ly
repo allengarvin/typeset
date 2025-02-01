@@ -24,6 +24,7 @@
     shorttitle = "dolci_spoglie"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "527b0235cfe7613d08581e120eb917bd6638cb1a"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

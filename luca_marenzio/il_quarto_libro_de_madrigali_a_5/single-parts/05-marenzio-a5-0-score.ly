@@ -12,6 +12,7 @@
     lastupdated = "2022-12-03"
     originallyset = "2022-12-03"
     \include "include/distribution-header.ly"
+    cksum = "0f6719ac67ac74249bbd2b3ad6e5b9896e96da0d"
     % Things that change per piece:
     title = "Mentre il Ciel è sereno"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

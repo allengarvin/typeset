@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "alleva_manum_tuam"
     \include "include/distribution-header.ly"
+    cksum = "89ab304be990b6052080d9e3a2d656bf11b312cb"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

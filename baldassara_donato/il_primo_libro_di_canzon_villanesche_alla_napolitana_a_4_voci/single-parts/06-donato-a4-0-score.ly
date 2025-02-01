@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "no_pulice_m_entrato"
     \include "include/distribution-header.ly"
+    cksum = "a1da9f91482f26ea924aa9dd23561230e422ddf3"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

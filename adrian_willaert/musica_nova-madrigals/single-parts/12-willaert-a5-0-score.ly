@@ -25,6 +25,7 @@
     shorttitle = "ond_io_non_pote"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "66da0b2f4a5dad85a1b03edd445bc508711576de"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

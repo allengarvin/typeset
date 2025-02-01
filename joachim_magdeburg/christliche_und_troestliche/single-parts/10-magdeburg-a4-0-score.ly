@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "von_gott_will_ich_nicht_lassen"
     \include "include/distribution-header.ly"
+    cksum = "a69232825cc305e42419e514baee06d0cc66d090"
     tagline = #'f
 }
 
@@ -199,3 +200,4 @@
         }
     }
 }
+

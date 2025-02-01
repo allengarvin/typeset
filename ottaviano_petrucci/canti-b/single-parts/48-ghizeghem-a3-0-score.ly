@@ -23,6 +23,7 @@
     final = "bf"
     shorttitle = "la_regretee"
     \include "include/distribution-header.ly"
+    cksum = "1ddeb721198182db2bbe38f0718ea9fb9213497c"
     tagline = #'f
 }
 
@@ -68,3 +69,4 @@
         }
     }   
 }
+

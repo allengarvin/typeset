@@ -24,6 +24,7 @@
     shorttitle = "lasso_che_ogni_augeletto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "5f4f9c50a86e7332db2b967bc84261c87a33ac4f"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

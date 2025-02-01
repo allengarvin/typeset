@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "8a8ff059402b031dee6c3d4c3b58c008cf91860c"
     % Things that change per piece:
     title = "Deh, dimmi vita mia"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

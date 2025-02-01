@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "8bc8e5a9b07eb2a4521125ff3f7ec2305d6082c7"
     % Things that change per piece:
     title = "Dolce cantando all'apparir del giorno"
     subtitle = ""
@@ -125,4 +126,5 @@
         }
     }
 }
+
 

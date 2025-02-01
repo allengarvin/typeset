@@ -27,6 +27,7 @@
     categories = "[madrigal,favorite]"
     motifs = "[flowers,cupid,veil]"
     \include "include/distribution-header.ly"
+    cksum = "c89d76a4dce08abc6b40d7587e2595ea03f1ad0a"
     tagline = #'f
 }
 
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

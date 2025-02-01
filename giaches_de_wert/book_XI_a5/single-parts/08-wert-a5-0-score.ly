@@ -12,6 +12,7 @@
     lastupdated = "2023-02-13"
     originallyset = "2023-02-13"
     \include "include/distribution-header.ly"
+    cksum = "9048921134ff4a3a69c1e16794d8b01e9c643f42"
     % Things that change per piece:
     title = "Ancor che l'alto mio nobil pensiero"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

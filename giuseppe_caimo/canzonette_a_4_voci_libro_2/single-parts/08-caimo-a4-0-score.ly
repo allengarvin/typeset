@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "vorria_che_si_facesse"
     \include "include/distribution-header.ly"
+    cksum = "333c29a7e7802252b747be01f956898ab1e0adb0"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

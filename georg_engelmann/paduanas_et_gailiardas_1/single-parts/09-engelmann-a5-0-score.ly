@@ -12,6 +12,7 @@
     lastupdated = "2023-11-22"
     originallyset = "2023-11-22"
     \include "include/distribution-header.ly"
+    cksum = "967dba2eaf40ce36fbfd60508e27d4fe9564e944"
     % Things that change per piece:
     title = "Paduana Tesser"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

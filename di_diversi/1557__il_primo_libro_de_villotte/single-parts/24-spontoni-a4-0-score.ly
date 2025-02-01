@@ -28,6 +28,7 @@
     categories = "[furioso]"
     motifs = "[virgin,shepherd]"
     \include "include/distribution-header.ly"
+    cksum = "231e64c518a55c604cef426bb103d5be650baf79"
     composer = "Bartolomeo Spontone (1530-c.1592)"
     tagline = #'f
 }
@@ -110,3 +111,4 @@
         }
     }
 }
+

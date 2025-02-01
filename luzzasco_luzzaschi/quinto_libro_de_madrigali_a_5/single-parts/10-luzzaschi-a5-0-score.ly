@@ -12,6 +12,7 @@
     lastupdated = "2022-11-06"
     originallyset = "2022-11-06"
     \include "include/distribution-header.ly"
+    cksum = "b46dda6fe716fbf6b24218032ffe588896a92d14"
     % Things that change per piece:
     title = "Io vissi anima mia per darti vita"
     subtitle = ""
@@ -103,3 +104,4 @@
         }
     }
 }
+

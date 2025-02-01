@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "0e0aa618b16dc05b34ab82593d3736f284ef060f"
     % Things that change per piece:
     title = "Ah, dolente partita"
     subtitle = ""
@@ -123,3 +124,4 @@
         }
     }
 }
+

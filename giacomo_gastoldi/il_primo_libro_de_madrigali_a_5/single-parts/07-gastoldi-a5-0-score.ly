@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "cac4f888a35e3dceb5ff94ae3dcd0b6342d36bff"
     % Things that change per piece:
     title = "Acerbo mio dolore"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

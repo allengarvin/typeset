@@ -24,6 +24,7 @@
     shorttitle = "nova_angeletta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "e470d43d7b6e395b7a47103f43a43ee4be33267e"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

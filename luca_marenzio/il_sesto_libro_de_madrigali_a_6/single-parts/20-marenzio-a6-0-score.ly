@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d74fb60d103b2604b6959bf18c1ffb4cd9da0740"
     % Things that change per piece:
     title = "Là dove sono i pargoletti Amori"
     subtitle = ""
@@ -132,3 +133,4 @@
         }
     }
 }
+

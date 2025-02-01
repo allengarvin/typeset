@@ -12,6 +12,7 @@
     lastupdated = "2022-10-23"
     originallyset = "2022-10-23"
     \include "include/distribution-header.ly"
+    cksum = "eca23acdcd6f1e82d29e526b53c2ff42373b243a"
     % Things that change per piece:
     title = "Death hath deprived me"
     subtitle = "A remembrance of my friend, M. Thomas Morley"
@@ -109,3 +110,4 @@
         }
     }
 }
+

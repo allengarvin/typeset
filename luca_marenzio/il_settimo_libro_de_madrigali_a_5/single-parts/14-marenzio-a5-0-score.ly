@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "3ff7d2fb3647f79756ac3943dccc870b6e84e461"
     % Things that change per piece:
     title = "O fido, o caro Aminta"
     subtitle = ""
@@ -129,3 +130,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "b"
     \include "include/distribution-header.ly"
+    cksum = "0a36279bb74839bee8c6dbad0d127f70bb4e980c"
     % Things that change per piece:
     title = "O disavventurosa acerba sorte"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

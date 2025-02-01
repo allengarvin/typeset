@@ -25,6 +25,7 @@
     shorttitle = "quest_arder_mio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "60fd312a6afe2916fed38d8a93fa89f7c702a0db"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

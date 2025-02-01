@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "54f789fd584ac70cbd1f9e3818eb431e079db2c1"
     % Things that change per piece:
     title = "Di persona era tanto ben formata"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

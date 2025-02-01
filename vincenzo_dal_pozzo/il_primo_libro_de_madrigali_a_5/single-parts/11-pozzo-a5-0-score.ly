@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "9cd53599431230943af2485d757b05a490be6eed"
     % Things that change per piece:
     title = "Tirsi morir volea"
     subtitle = ""
@@ -148,3 +149,4 @@
         }
     }
 }
+

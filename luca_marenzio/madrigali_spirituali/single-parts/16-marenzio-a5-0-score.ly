@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "ce29821c308b33a50c1739201c66677f6bf774a1"
     % Things that change per piece:
     title = "Fallace, incerta e momentanea vita"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

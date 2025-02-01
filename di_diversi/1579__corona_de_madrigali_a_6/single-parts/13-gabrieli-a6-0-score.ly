@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "6f40ebe01afbd7d7b83cfaf0e1da8abb36bb1c99"
     % Things that change per piece:
     title = "Fontana d'eloquenza"
     subtitle = "Prima parte"
@@ -139,4 +140,5 @@
         \wordwrap { Febo: Phoebus (Apollo). His largest temple was on the isle of Delos. }
     }
 }
+
 

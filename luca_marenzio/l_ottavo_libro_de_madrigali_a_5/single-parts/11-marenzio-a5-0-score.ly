@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "2dd928ad4fc6231fab4d8e8025c60ae8108f2537"
     % Things that change per piece:
     title = "Quand'io miro le rose"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

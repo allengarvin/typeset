@@ -30,6 +30,7 @@
     motifs = "[cherubs,cupids,kiss,stolen-kiss,sleeping]"
     rhyme = "AbAbcDDEfF"
     \include "include/distribution-header.ly"
+    cksum = "7ea48646b9778d1914d9c093b422aa7641878074"
     tagline = #'f
 }
 
@@ -124,3 +125,4 @@
         }
     }
 }
+

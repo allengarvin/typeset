@@ -26,6 +26,7 @@
     shorttitle = "sassi_palae"
     categories = "[madrigal,favorite]"
     \include "include/distribution-header.ly"
+    cksum = "b043653848ac242ccf4f94cfad6cb19df5b0812e"
     tagline = #'f
 }
 
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

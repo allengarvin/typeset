@@ -24,6 +24,7 @@
     shorttitle = "giovenetta_regal"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c5c6e48b801f79e56bf64283b06c8d171fc15912"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

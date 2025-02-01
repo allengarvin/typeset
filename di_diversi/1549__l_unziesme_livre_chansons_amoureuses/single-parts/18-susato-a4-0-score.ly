@@ -23,6 +23,7 @@
     final = "e"
     shorttitle = "les_miens_aussi"
     \include "include/distribution-header.ly"
+    cksum = "fa3b4cccb5fe25e068ae3e232810f17c583fccd3"
     tagline = #'f
 }
 
@@ -88,4 +89,5 @@
         }
     }
 }
+
 

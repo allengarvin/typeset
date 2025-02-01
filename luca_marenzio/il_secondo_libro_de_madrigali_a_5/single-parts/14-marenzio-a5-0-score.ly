@@ -24,6 +24,7 @@
     shorttitle = "strider_faceva_le_zampogne"
     categories = "[madrigal,pastoral,dawn,birds,bagpipe]"
     \include "include/distribution-header.ly"
+    cksum = "0b20e365d268044aa20715f6d12a9054a9d447aa"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

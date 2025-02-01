@@ -30,6 +30,7 @@
     rhyme = "ABABCB"
     motifs = "[sighing]"
     \include "include/distribution-header.ly"
+    cksum = "e482b519c33fc0a899964be2b5799dc2d736928d"
     tagline = #'f
 }
 
@@ -115,3 +116,4 @@
         }
     }
 }
+

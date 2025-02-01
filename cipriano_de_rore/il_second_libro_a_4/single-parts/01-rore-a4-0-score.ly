@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "87cecb905ef11461e1fd4fa996224202e6f00380"
     % Things that change per piece:
     title = "Un'altra volta la Germania strida"
     subtitle = ""
@@ -150,3 +151,4 @@
 %    }
 
 }
+

@@ -24,6 +24,7 @@
     shorttitle = "fuggi_speme_mia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "abf5c1f3b6734476411f9981719f77268ce540db"
     tagline = #'f
 }
 
@@ -112,4 +113,5 @@
         }
     }
 }
+
 

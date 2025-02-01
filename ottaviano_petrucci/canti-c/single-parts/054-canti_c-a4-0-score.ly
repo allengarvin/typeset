@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "fault_il_que_heur_soy"
     \include "include/distribution-header.ly"
+    cksum = "0af7cee93c64069c4ea8c8a4e54a55832a844512"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

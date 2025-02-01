@@ -22,6 +22,7 @@
     shorttitle = "zefiro_torna"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8c7dd2f484cd55c0a4716211e5edce96b7164ca4"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
         }
     }
 }
+
 

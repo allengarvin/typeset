@@ -26,6 +26,7 @@
     shorttitle = "e_mentre_il_guardo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "ee71785113bee4a8a3cf826480c4c4f2ab3c7597"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[pain,suffering,amore]"
     \include "include/distribution-header.ly"
+    cksum = "e2a625f6528e04f1366cf85df821cace0ac810a8"
     tagline = #'f
 }
 
@@ -122,4 +123,5 @@
         }
     }
 }
+
 

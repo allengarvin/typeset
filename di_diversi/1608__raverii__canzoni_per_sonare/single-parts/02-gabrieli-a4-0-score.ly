@@ -22,6 +22,7 @@
     final = "c"
     categories = "[canzona,favorite]"
     \include "include/distribution-header.ly"
+    cksum = "c38213602e9234433b39c826c41e1c5f25c02924"
     language = "instrumental"
     tagline = #'f
 }
@@ -75,4 +76,5 @@
         }
     }   
 }
+
 

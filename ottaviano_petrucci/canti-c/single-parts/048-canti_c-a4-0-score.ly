@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "jesey_bien_dire"
     \include "include/distribution-header.ly"
+    cksum = "c49ceaada0bc5dbf5ae8eac055dbea6c3d2a749a"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

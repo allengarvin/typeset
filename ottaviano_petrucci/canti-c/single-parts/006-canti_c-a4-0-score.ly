@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "unne_playsante_fillete"
     \include "include/distribution-header.ly"
+    cksum = "b15851c6029578fa6ab93442fb42abcd2aa2c04b"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

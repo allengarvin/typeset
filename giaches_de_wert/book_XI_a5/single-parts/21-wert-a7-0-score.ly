@@ -15,6 +15,7 @@
     final = "g"
     motifs = "[]"
     \include "include/distribution-header.ly"
+    cksum = "08691b255c228ec1cbc4a37632a99080aafc434f"
     % Things that change per piece:
     title = "Che fai alma?"
     subtitle = ""
@@ -151,3 +152,4 @@
         }
     }
 }
+

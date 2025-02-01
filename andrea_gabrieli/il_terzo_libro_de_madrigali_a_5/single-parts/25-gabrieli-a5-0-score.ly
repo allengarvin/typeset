@@ -26,6 +26,7 @@
     shorttitle = "vaghi_amorosi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "62190ba61d02fb8f38dd7f857c839a8367198e15"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

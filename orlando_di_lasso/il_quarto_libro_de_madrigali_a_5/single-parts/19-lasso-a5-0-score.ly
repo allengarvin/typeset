@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "2cf21d8fd92f8049cd33ed4d4970918c204d3d4d"
     % Things that change per piece:
     title = "Ma ben veggio or sì come"
     subtitle = "Seconda parte"
@@ -117,6 +118,7 @@
         }
     }
 }
+
 
 
 

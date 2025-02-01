@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "a94547a9130b69762d0c1602aa5bd697ed9a6f8f"
     % Things that change per piece:
     title = "Cantiam del Mincio sull'erbose rive"
     subtitle = ""
@@ -173,4 +174,5 @@
         }
     }
 }
+
 

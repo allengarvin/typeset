@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "777e81e134c9f10e351c9ec12d0642396819e6a7"
     % Things that change per piece:
     title = "La verginella"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

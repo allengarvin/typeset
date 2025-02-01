@@ -26,6 +26,7 @@
     shorttitle = "che_fatt_ochi_infelici"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "daf8be08d4acb4c26452c8b350f3eb0917dd875e"
     tagline = #'f
 }
 
@@ -97,4 +98,5 @@
         }
     }
 }
+
 

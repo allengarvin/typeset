@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "minuisti_eum_paulo_minus_ab_angelis"
     \include "include/distribution-header.ly"
+    cksum = "d36e0e02f31bd6442d01f498aca1a3f5c04fd995"
     tagline = #'f
 }
 
@@ -111,3 +112,4 @@
         }
     }
 }
+

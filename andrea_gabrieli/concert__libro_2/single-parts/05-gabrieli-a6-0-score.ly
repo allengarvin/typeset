@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "dcc1dd1ba4bc14f54c957884aa8f0ffa2130ee47"
     % Things that change per piece:
     title = "Chiaro sol di virtute"
     subtitle = "Prima parte"
@@ -125,3 +126,4 @@
         }
     }
 }
+

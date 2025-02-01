@@ -12,6 +12,7 @@
     lastupdated = "2022-09-26"
     originallyset = "2022-09-26"
     \include "include/distribution-header.ly"
+    cksum = "aab48f6c1db42f4e8bb8a3f0c26b4d92f0a70294"
     % Things that change per piece:
     title = "How vain the toils"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

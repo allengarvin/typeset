@@ -12,6 +12,7 @@
     lastupdated = "2023-11-23"
     originallyset = "2023-11-23"
     \include "include/distribution-header.ly"
+    cksum = "57ae3747fe45eed78faecba629df23ca3d456645"
     % Things that change per piece:
     title = "Paduana Stepan"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

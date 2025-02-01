@@ -22,6 +22,7 @@
     shorttitle = "se_laura_spira"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "248188ec9378fd0673b56159d055e889e4ab365b"
     tagline = #'f
 }
 
@@ -59,4 +60,5 @@
         \include "../include/vocal-layout-score.ly"
     }   
 }
+
 

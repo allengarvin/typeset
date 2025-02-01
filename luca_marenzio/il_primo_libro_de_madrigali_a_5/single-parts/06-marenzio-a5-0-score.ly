@@ -24,6 +24,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "d3d33a8c715c61f15df05924c49f8a1b611de36c"
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort]"
     tagline = #'f
@@ -262,4 +263,5 @@
         }
     }
 }
+
 

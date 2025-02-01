@@ -26,6 +26,7 @@
     categories = "[madrigal]"
     poeticform = "sonnet"
     \include "include/distribution-header.ly"
+    cksum = "c96a27b21fa90c2343b0830b0cdd3b314e3ce42b"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
 
 
 }
+
 

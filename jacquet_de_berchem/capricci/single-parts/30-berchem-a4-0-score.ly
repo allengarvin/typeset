@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "2273e14bea2a88a2f31b76961fa19bd46f4057d2"
     % Things that change per piece:
     title = "Afflitto e stanco al fin cade"
     subtitle = "Orlando al fin perde il senno"
@@ -114,3 +115,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "fba170e4f0995a63ceb39586c3df05d4eb45c242"
     % Things that change per piece:
     title = "O che soave e non inteso baccio"
     subtitle = ""
@@ -126,3 +127,4 @@
         }
     }
 }
+

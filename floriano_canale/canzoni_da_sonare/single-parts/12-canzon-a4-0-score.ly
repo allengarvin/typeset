@@ -23,6 +23,7 @@
     shorttitle = "la_durante"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "ab488d457f3c4bc5d0b0b748bc10b365479cd190"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

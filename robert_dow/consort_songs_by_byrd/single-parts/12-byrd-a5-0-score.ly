@@ -21,6 +21,7 @@
     lastupdated = "2013-06-05"
     shorttitle = "come_to_me"
     \include "include/distribution-header.ly"
+    cksum = "9580bcfeb26b9d23a9d1d04dfb6fea02d3012658"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }   
 }
+
 

@@ -26,6 +26,7 @@
     rhyme = "abBaccDD"
     motifs = "[eyes,tears,weeping,amore]"
     \include "include/distribution-header.ly"
+    cksum = "a163e407b218941351bcf9e658fa651e139089f3"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

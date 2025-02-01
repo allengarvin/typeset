@@ -12,6 +12,7 @@
     lastupdated = "2022-12-02"
     originallyset = "2022-12-02"
     \include "include/distribution-header.ly"
+    cksum = "3923d7c848bf3f078ef81caf3104e3bc10df4961"
     % Things that change per piece:
     title = "Forse ch'avrete"
     subtitle = "Seconda parte"
@@ -102,3 +103,4 @@
         }
     }
 }
+

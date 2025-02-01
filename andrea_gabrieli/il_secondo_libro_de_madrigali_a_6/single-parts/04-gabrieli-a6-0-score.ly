@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "9d05b22711eace999e7831ef7b1eec5157bcd697"
     % Things that change per piece:
     title = "Clori a Damon dicea"
     subtitle = ""
@@ -123,3 +124,4 @@
         }
     }
 }
+

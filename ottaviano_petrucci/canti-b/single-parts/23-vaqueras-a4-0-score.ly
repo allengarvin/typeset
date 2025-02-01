@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "veci_la_danse_barbari"
     \include "include/distribution-header.ly"
+    cksum = "e55381854dc5da2d19cc59c3f50f5392404f7b71"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

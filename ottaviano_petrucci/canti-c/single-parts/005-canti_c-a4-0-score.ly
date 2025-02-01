@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "lamor_de_moy"
     \include "include/distribution-header.ly"
+    cksum = "b8bfb5bf14da3b37953b814ed026306c8d3e3142"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

@@ -28,6 +28,7 @@
     categories = "[madrigal,furioso]"
     motifs = "[night,hope]"
     \include "include/distribution-header.ly"
+    cksum = "e4c06e4dc1973c27bf642d7acbf5e39773fa7a29"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

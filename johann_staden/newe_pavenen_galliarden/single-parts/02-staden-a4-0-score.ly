@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "pavana_2"
     \include "include/distribution-header.ly"
+    cksum = "67deda71ccdf2a2dd05ab8bb6099a0fb1ad5d73a"
     tagline = #'f
 }
 
@@ -71,4 +72,5 @@
         }
     }   
 }
+
 

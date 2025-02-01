@@ -25,6 +25,7 @@
     shorttitle = "non_vide_il_mondo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "706cf63a13c8213eca1f884f1a2876b0d7fa535d"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

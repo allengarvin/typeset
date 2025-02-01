@@ -12,6 +12,7 @@
     lastupdated = "2022-10-29"
     originallyset = "2022-10-29"
     \include "include/distribution-header.ly"
+    cksum = "430b9cbb973db1812faf03db64e1f62f2a55ecc5"
     % Things that change per piece:
     title = "Plorans ploravit in nocte"
     subtitle = "Secunda pars"
@@ -114,3 +115,4 @@
         }
     }
 }
+

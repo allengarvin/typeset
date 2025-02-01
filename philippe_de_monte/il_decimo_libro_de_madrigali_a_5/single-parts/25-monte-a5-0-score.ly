@@ -24,6 +24,7 @@
     shorttitle = "parea_dicesse"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "f0f35b53512036e8762c868389721c562b58127f"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

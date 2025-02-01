@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "51256b23ae0d8aacbde56f51e613a0f10fde9d1f"
     % Things that change per piece:
     title = "In quel ben nato"
     subtitle = ""
@@ -128,3 +129,4 @@
         }
     }
 }
+

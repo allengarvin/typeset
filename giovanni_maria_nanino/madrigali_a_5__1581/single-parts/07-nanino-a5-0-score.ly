@@ -12,6 +12,7 @@
     lastupdated = "2023-01-28"
     originallyset = "2023-01-28"
     \include "include/distribution-header.ly"
+    cksum = "75ef168ac935d4745269f5e1a4a49ef7a5228a5e"
     % Things that change per piece:
     title = "Giocond'e crudo fato"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

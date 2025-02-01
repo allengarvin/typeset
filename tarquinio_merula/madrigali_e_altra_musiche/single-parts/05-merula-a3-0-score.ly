@@ -12,6 +12,7 @@
     lastupdated = "2022-10-07"
     originallyset = "2022-10-07"
     \include "include/distribution-header.ly"
+    cksum = "14f2a7c059c0e63a79b170b7d1bab10e6e950c78"
     % Things that change per piece:
     title = "Bianca neve ò Bianca"
     subtitle = ""
@@ -94,3 +95,4 @@
         }
     }
 }
+

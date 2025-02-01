@@ -12,6 +12,7 @@
     lastupdated = "2023-01-20"
     originallyset = "2023-01-20"
     \include "include/distribution-header.ly"
+    cksum = "48e569f267cca6adc3449e694eb4065eb5662282"
     % Things that change per piece:
     title = "La bella pargoletta"
     subtitle = ""
@@ -134,3 +135,4 @@
         }
     }
 }
+

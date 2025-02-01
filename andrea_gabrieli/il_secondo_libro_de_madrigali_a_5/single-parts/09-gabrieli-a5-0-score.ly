@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "436761f22e5722ecab6c1e9dd22043502476579c"
     % Things that change per piece:
     title = "Quando spirti divini"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

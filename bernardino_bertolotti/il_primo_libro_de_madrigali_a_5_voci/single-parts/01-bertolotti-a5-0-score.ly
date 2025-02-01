@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f6f4b0a9e79491c0005cc48241c2d75140df31d4"
     % Things that change per piece:
     title = "Come ben nata palma"
     subtitle = ""
@@ -107,3 +108,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     final = "f"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "21056fde92702e9a3040a6cb2d0591ac1b5ee147"
     poeticform = "ottava rima"
     rhyme = "ABABABCC"
     tagline = #'f
@@ -116,3 +117,4 @@
         }
     }
 }
+

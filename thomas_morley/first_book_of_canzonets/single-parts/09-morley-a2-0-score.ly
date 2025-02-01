@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "il_rondinella"
     \include "include/distribution-header.ly"
+    cksum = "c9551e785589e5313962352f92e0fe154e74849d"
     tagline = #'f
 }
 
@@ -57,4 +58,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

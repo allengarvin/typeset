@@ -23,6 +23,7 @@
     shorttitle = "la_solda"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "20cb28f8bafce723bd5e7288c14b8a4f932da5b2"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "sicut_rosa"
     \include "include/distribution-header.ly"
+    cksum = "912eb94c1979a548f141715547cd699bc7696e43"
     tagline = #'f
 }
 
@@ -78,4 +79,5 @@
         }
     }
 }
+
 

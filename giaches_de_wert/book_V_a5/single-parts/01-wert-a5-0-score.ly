@@ -27,6 +27,7 @@
     shorttitle = "avorio_e_gemma"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "42ee1a9a01eab29cd31b01b682acb5383ebf65f4"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

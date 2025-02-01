@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "da7575b321aad648d107e9ff0c8990d9bd5a1f6c"
     % Things that change per piece:
     title = "Questi come del ciel"
     subtitle = "Seconda parte"
@@ -116,3 +117,4 @@
         }
     }
 }
+

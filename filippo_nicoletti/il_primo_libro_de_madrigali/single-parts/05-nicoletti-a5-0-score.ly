@@ -25,6 +25,7 @@
     shorttitle = "osia_perche_l_angelico"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "14599257dcd45a39fdfd5121e255c85d5bbddaec"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

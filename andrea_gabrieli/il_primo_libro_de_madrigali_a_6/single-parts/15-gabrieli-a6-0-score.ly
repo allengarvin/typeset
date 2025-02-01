@@ -26,6 +26,7 @@
     categories = "[madrigal]"
     motifs = "[amore]"
     \include "include/distribution-header.ly"
+    cksum = "3f8975993ae6407cea5d8856f71253ca995039ec"
     tagline = #'f
 }
 
@@ -123,4 +124,5 @@
         }
     }
 }
+
 

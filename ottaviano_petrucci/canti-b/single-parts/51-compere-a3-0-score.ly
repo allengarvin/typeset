@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "le_grant_desir"
     \include "include/distribution-header.ly"
+    cksum = "eba30cbbc8e327cb78be0092f24f7fcff8302064"
     tagline = #'f
 }
 
@@ -68,3 +69,4 @@
         }
     }   
 }
+

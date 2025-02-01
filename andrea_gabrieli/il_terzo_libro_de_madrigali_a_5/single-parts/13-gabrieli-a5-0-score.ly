@@ -12,6 +12,7 @@
     lastupdated = "2023-01-15"
     originallyset = "2023-01-15"
     \include "include/distribution-header.ly"
+    cksum = "6208d2f57515922b9f79b51e8816d18cd7c3ef45"
     % Things that change per piece:
     title = "Ma mentre ch'ella"
     subtitle = "Seconda parte"
@@ -110,3 +111,4 @@
         }
     }
 }
+

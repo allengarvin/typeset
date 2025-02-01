@@ -25,6 +25,7 @@
     shorttitle = "io_chel_suo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "0cf223b671745d294aa7795d3f9fe55f3ec4b94a"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

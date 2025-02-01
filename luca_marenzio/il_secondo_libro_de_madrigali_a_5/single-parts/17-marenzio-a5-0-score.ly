@@ -25,6 +25,7 @@
     shorttitle = "or_tu_gli_cedi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "05f18a872f49eb02fd7735b112178e8afe85aba3"
     tagline = #'f
 }
 
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

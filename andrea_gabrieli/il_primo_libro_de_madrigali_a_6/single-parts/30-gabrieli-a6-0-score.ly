@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[bagpipe]"
     \include "include/distribution-header.ly"
+    cksum = "691d3c1121dfd9a2b6baba604fcc1128c2ba63e4"
     tagline = #'f
 }
 
@@ -136,4 +137,5 @@
         }
     }
 }
+
 

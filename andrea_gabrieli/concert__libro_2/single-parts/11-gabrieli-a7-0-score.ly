@@ -24,6 +24,7 @@
     shorttitle = "dunque_il_consenti_amor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "0eedbccfb282cf551bdf8dc5d90ff5bc03586914"
     tagline = #'f
 }
 
@@ -125,3 +126,4 @@
         }
     }
 }
+

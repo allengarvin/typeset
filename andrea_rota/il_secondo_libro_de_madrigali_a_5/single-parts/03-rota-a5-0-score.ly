@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "15163dea03daafb4243849ecdf2f308a3ff5e1f7"
     % Things that change per piece:
     title = "Fals'Amor, vero inganno"
     subtitle = ""
@@ -122,3 +123,4 @@
        }
     }
 }
+

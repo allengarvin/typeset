@@ -26,6 +26,7 @@
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort,female-pov]"
     \include "include/distribution-header.ly"
+    cksum = "5e9cb0e2478ea7fb77fe7289d1b5049cccd7ca6c"
     tagline = #'f
 }
 
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

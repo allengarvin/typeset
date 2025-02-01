@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "quam_pulchri_sunt"
     \include "include/distribution-header.ly"
+    cksum = "412d19cf6ab0c913dd90d312af877b7240880463"
     tagline = #'f
 }
 
@@ -103,3 +104,4 @@
         }
     }
 }
+

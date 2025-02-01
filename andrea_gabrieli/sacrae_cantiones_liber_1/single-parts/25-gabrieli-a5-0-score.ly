@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "exaudi_deus"
     \include "include/distribution-header.ly"
+    cksum = "605e23fa81ff7415d3e4474f5045671978ce494f"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
     }
 
 }
+
 

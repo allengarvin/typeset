@@ -26,6 +26,7 @@
     categories = "[animal,villanella,favorite]"
     motifs = "[nightingale,cuccoo,parrot]"
     \include "include/distribution-header.ly"
+    cksum = "454dae0fddd056bc501cba35cddc5ed987a9d2b1"
     tagline = #'f
 }
 
@@ -185,4 +186,5 @@
         }
     }
 }
+
 

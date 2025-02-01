@@ -27,6 +27,7 @@
     shorttitle = "danzava_con_maniere"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "aa181ba8bec397ec17fb968311dd615f8097778d"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

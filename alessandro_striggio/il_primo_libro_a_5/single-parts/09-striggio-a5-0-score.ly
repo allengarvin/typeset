@@ -25,6 +25,7 @@
     shorttitle = "o_sopra_laltre"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "e5a8ec6efba69e71b6bf39cf210b953096efb0ad"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

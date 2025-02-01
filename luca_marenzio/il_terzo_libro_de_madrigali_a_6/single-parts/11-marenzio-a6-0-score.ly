@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "774d29eac568f3212c1e8b64e5f6d09c9212f4c0"
     % Things that change per piece:
     title = "Io, che forma celeste in terra scorsi"
     subtitle = "Seconda parte"
@@ -125,3 +126,4 @@
         }
     }
 }
+

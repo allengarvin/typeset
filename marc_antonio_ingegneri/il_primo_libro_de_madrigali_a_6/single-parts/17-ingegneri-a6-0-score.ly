@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "28d28cccd76fe84804a1a2d58d02a86e41b86dd4"
     % Things that change per piece:
     title = "L'ora s'appressa"
     subtitle = "Seconda parte"
@@ -128,3 +129,4 @@
 
 
 }
+

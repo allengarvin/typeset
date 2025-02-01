@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "cfc1565850169084e88862620a919d10e0c2d7df"
     % Things that change per piece:
     title = "Amor crudel infido"
     subtitle = ""
@@ -125,3 +126,4 @@
         }
     }
 }
+

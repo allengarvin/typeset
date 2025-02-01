@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "55cecaef9269b6d95f8f31e5b2272e63680dabd7"
     % Things that change per piece:
     title = "Poiché vuole il ben mio"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

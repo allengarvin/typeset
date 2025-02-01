@@ -21,6 +21,7 @@
     shorttitle = "lasso_che_pur"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "03ab669b933d413ccbecd44e1d357013121fdb6a"
     tagline = #'f
 }
 
@@ -86,4 +87,5 @@
         }
     }
 }
+
 

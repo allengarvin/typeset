@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "fe44e07c9f061008833aac44c50a4fdb3a26fc18"
     % Things that change per piece:
     title = "Che puoi tu farmi Amore"
     subtitle = ""
@@ -117,3 +118,4 @@
     }
 
 }
+

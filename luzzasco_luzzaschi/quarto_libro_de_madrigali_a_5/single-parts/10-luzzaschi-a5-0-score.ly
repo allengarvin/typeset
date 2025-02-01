@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f271a37bd09898354563bdc3baeb89cb5227ff0b"
     % Things that change per piece:
     title = "Vero è ch'Amor"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

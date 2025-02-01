@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "oh_that_most_rare_breast"
     \include "include/distribution-header.ly"
+    cksum = "923e924ede61ab6af833b5228ea78929db6dd328"
     tagline = #'f
 }
 
@@ -80,4 +81,5 @@
         }
     }   
 }
+
 

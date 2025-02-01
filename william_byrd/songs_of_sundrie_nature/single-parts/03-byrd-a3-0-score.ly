@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "lord_in_thy_wrath"
     \include "include/distribution-header.ly"
+    cksum = "52ae4a893f178b66032841252e17132c5d53de9b"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

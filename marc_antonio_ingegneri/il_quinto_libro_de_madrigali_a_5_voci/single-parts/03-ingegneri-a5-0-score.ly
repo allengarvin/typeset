@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "7c7b8d7d595ea322e828d09e374c6cec6dda8f68"
     % Things that change per piece:
     title = "Ahi perché alla tua ardente e ingorda voglia"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

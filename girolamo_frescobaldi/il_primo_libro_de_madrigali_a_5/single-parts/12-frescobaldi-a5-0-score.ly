@@ -12,6 +12,7 @@
     lastupdated = "2022-09-22"
     originallyset = "2022-09-22"
     \include "include/distribution-header.ly"
+    cksum = "9ebdd560b75531fbbe8a4496b3bc282dce20e018"
     % Things that change per piece:
     title = "Ecco l'ora, ecco ch'io"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

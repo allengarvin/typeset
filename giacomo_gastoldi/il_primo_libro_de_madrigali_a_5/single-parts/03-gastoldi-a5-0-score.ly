@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f0fd110d9187bf8f0b9433e55cea15fe34eff478"
     % Things that change per piece:
     title = "O com'è gran martire"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

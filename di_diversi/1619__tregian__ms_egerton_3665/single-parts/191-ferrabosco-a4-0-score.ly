@@ -25,6 +25,7 @@
     shorttitle = "voi_sete_la_mia_stella"
     categories = "[villanella]"
     \include "include/distribution-header.ly"
+    cksum = "3f03f19f6c359b2e05a44069a1d0a4ef5667a57b"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

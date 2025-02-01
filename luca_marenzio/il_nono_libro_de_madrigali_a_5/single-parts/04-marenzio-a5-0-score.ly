@@ -12,6 +12,7 @@
     lastupdated = "2023-01-14"
     originallyset = "2023-01-14"
     \include "include/distribution-header.ly"
+    cksum = "bee97749b22456806f0db93e6497e85a4c7e1bf5"
     % Things that change per piece:
     title = "Dura legge d'Amor"
     subtitle = "Prima parte"
@@ -107,3 +108,4 @@
         }
     }
 }
+

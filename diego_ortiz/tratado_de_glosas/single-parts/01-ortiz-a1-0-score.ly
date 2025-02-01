@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "14f196888ffae1f6a240ed8d1e992630c315279d"
     % Things that change per piece:
     title = "Recercata I"
     subtitle = ""

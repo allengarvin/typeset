@@ -22,6 +22,7 @@
     lastupdated = "2018-09-26"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "21cda75e70f01060824885c3b8689c8375fdcfcb"
     tagline = #'f
 }
 
@@ -96,3 +97,4 @@
         }
     }
 }
+

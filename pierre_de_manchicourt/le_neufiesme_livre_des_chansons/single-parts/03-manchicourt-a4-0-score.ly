@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "voyant_souffrir"
     \include "include/distribution-header.ly"
+    cksum = "e85da0b45dc56d6311e2daad2685638012752907"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

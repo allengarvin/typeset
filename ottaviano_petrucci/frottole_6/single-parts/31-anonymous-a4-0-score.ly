@@ -23,6 +23,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "57f333514296152976544dc6ffaae6bcccc16798"
     composer = "Anonymous"
     tagline = #'f
 }
@@ -161,4 +162,5 @@
         }
     }
 }
+
 

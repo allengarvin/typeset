@@ -20,6 +20,7 @@
     shorttitle = "ahi_dispietata_morte"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "d39c364234de4ec83bad4b2a9159eb3d767c3769"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

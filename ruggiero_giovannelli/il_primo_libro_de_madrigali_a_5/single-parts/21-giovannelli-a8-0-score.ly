@@ -27,6 +27,7 @@
     final = "f"
     categories = "[madrigal,polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "b81747fabb459de095f5fb4fa8f6d8f7b5fa973a"
     tagline = #'f
 }
 
@@ -137,3 +138,4 @@
         }
     }
 }
+

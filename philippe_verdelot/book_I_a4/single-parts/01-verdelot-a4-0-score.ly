@@ -12,6 +12,7 @@
     lastupdated = "2023-01-14"
     originallyset = "2023-01-14"
     \include "include/distribution-header.ly"
+    cksum = "5c475ee77eab90d4678973bf4af2df9c7333a1fa"
     % Things that change per piece:
     title = "Quanto sia lieto il giorno"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "206622006f8b8c65a2731241bc0c24dab88939f4"
     % Things that change per piece:
     title = "O dolce sonno"
     subtitle = "Stanza settima"
@@ -111,3 +112,4 @@
         }
     }
 }
+

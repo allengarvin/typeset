@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "00f2c73fd39a4be11d6a44f38250ff2b3f4612db"
     % Things that change per piece:
     title = "Signor, se la tua grazia"
     subtitle = "Prima parte"
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

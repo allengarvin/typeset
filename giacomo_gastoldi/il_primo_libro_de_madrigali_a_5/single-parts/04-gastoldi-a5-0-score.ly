@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "d6c511f8974c33e071c6b7cfc17a1db2709bed4a"
     % Things that change per piece:
     title = "La bell'Alba sorgea"
     subtitle = "Prima parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

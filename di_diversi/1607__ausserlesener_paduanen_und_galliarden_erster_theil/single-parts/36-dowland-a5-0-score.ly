@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "f44dbba9c31766174206f315eca46321238b521f"
     % Things that change per piece:
     title = "Galliard XVIII"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

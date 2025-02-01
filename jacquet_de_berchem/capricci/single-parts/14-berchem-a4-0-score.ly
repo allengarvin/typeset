@@ -27,6 +27,7 @@
     shorttitle = "ch_aver_puo_donna"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "704b2826b646bf8a82fb8a1c71e714bf6eb131a6"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

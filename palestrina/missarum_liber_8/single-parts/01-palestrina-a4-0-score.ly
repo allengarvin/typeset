@@ -22,6 +22,7 @@
     final = "c"
     shorttitle = "missa_quem_dicunt_homines"
     \include "include/distribution-header.ly"
+    cksum = "12d2d1e284ba5d045174a759f338c8c9a0fb3573"
     tagline = #'f
 }
 
@@ -84,3 +85,4 @@
         }
     }
 }
+

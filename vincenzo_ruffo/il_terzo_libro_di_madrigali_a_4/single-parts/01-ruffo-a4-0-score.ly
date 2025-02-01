@@ -12,6 +12,7 @@
     lastupdated = "2023-05-19"
     originallyset = "2023-05-19"
     \include "include/distribution-header.ly"
+    cksum = "ee05b7dc52e74dc9d707a95776b8f10e54b4149a"
     % Things that change per piece:
     title = "Magnanimo, Gentil, invitto core"
     subtitle = ""
@@ -103,3 +104,4 @@
         }
     }
 }
+

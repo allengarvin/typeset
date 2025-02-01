@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "fuga_la_morie"
     \include "include/distribution-header.ly"
+    cksum = "0eed218cd1a592fec4a8bd84823a87c70f7942f8"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

@@ -27,6 +27,7 @@
     shorttitle = "stupida_e_fissa"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "223e94d44b7fedbcfca7a235ce6a6e7cfd3996cd"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

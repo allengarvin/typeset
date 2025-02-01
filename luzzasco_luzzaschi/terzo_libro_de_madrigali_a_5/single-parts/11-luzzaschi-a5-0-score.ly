@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "3610e613482a2d7e9c399127c2f36f948fe680a5"
     % Things that change per piece:
     title = "Se la mia luce miro"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "je_cuide_se_ce_temps_me_dure"
     \include "include/distribution-header.ly"
+    cksum = "1804532a35c749ae3a0099f9796d4085d84af4b4"
     tagline = #'f
 }
 
@@ -76,3 +77,4 @@
         }
     }   
 }
+

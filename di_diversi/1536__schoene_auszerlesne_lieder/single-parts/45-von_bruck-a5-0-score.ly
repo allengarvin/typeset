@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "so_trinken_wir_alle"
     \include "include/distribution-header.ly"
+    cksum = "d3deae371793fe52f822733e1baacba8c6786964"
     tagline = #'f
 }
 
@@ -110,5 +111,6 @@
     }
 
 }
+
 
 

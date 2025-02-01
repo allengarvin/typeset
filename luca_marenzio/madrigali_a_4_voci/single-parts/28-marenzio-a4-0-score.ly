@@ -22,6 +22,7 @@
     shorttitle = "corbo_malvaggio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "bf80248310b9ceeff00c9866d15f11afd12d32b0"
     language = "italian"
     tagline = #'f
 }
@@ -81,4 +82,5 @@
         }
     }
 }
+
 

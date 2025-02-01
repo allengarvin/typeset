@@ -22,6 +22,7 @@
     final = "g"
     categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "239fe71f7ec57cf722e6ecdb0fe1b3e4d8a46f5d"
 }
 
 \include "../parts/26-gabrieli-a8-canzon.ly"
@@ -109,3 +110,4 @@
         }
     }   
 }
+

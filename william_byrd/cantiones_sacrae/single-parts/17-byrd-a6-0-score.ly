@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "laudate_pueri_dominum"
     \include "include/distribution-header.ly"
+    cksum = "f2dc1f841e6f77bc3173da4a1abdbc13008e24be"
     tagline = #'f
 }
 
@@ -113,3 +114,4 @@
         }
     }
 }
+

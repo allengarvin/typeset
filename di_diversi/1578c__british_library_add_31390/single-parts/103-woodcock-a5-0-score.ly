@@ -12,6 +12,7 @@
     lastupdated = "2022-10-03"
     originallyset = "2022-10-03"
     \include "include/distribution-header.ly"
+    cksum = "1fdccc202c3a21d7ca8bc3fc4cdd77365e58711e"
     % Things that change per piece:
     title = "Hackney"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

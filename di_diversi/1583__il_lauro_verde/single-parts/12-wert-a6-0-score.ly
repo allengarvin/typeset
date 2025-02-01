@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "450a8e2a8ab4283a01973a604b75da16de906c79"
     % Things that change per piece:
     composer = "Giaches de Wert (1535-1596)"
 
@@ -123,3 +124,4 @@
         }
     }
 }
+

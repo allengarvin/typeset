@@ -23,6 +23,7 @@
     categories = "[sonnet]"
     rhyme = "ABCABC"
     \include "include/distribution-header.ly"
+    cksum = "e1b34a007318f73d21aa08cc4c4c4c9917cff1ed"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     shorttitle = "ne_fero_sdegno_mai_donna"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "9b73e9e35b5677980db41e6f72ea8238d6e20202"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

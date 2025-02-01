@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "51a02c68f0fec1922ea06fab3748b33160766f66"
     % Things that change per piece:
     title = "Quando nel cor m'entrasti"
     subtitle = ""
@@ -135,3 +136,4 @@
         }
     }
 }
+

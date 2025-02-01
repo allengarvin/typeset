@@ -12,6 +12,7 @@
     lastupdated = "2022-12-30"
     originallyset = "2022-12-30"
     \include "include/distribution-header.ly"
+    cksum = "6fa2eb307561b7c9c5ba9e4d6c35b9ebb1968fdd"
     % Things that change per piece:
     title = "Alma Redemptoris Mater"
     subtitle = ""
@@ -149,3 +150,4 @@
         }
     }
 }
+

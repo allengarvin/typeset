@@ -12,6 +12,7 @@
     lastupdated = "2023-01-14"
     originallyset = "2023-01-14"
     \include "include/distribution-header.ly"
+    cksum = "fcb98eb1a0808406677f72486fe6ebd899da9778"
     % Things that change per piece:
     title = "Accesa ritornar ne' bei vostri occhi"
     subtitle = "Seconda parte"
@@ -106,3 +107,4 @@
         }
     }
 }
+

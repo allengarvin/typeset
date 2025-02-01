@@ -25,6 +25,7 @@
     shorttitle = "denime_plio_san_protta_cavagliero"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "072621978779c5f253875e503a104350b6c31908"
     tagline = #'f
 }
 
@@ -96,3 +97,4 @@
         }
     }
 }
+

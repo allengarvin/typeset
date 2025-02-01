@@ -24,6 +24,7 @@
     shorttitle = "ecco_chei_giunge"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8cd113d4efe3336199282e83b97f078ae1abcc8f"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

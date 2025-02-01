@@ -25,6 +25,7 @@
     shorttitle = "vener_chun_giorno_avea"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "03867d4544df9668e8ab0b97f4df6966a219929c"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

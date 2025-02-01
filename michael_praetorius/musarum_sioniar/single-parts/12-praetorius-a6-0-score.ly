@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "benedicamus_domino"
     \include "include/distribution-header.ly"
+    cksum = "2225183cd3631e4dd5732112df460d68c7349e10"
     tagline = #'f
 }
 
@@ -106,4 +107,5 @@
         }
     }
 }
+
 

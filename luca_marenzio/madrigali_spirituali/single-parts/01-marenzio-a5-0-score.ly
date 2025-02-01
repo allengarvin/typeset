@@ -12,6 +12,7 @@
     lastupdated = "2023-01-07"
     originallyset = "2023-01-07"
     \include "include/distribution-header.ly"
+    cksum = "934a7aad85137dd601193ccca9d6b401c51a931c"
     % Things that change per piece:
     title = "Grazie renda al Signor"
     subtitle = ""
@@ -103,3 +104,4 @@
         }
     }
 }
+

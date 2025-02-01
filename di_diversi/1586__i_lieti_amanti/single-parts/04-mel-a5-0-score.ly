@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "0ee20916fa8130744e420029513f2d28917051f4"
     % Things that change per piece:
     title = "Tanto, Donna, stim'io"
     subtitle = ""
@@ -124,3 +125,4 @@
         }
     }
 }
+

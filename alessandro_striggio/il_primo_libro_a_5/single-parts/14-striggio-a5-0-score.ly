@@ -24,6 +24,7 @@
     shorttitle = "che_questi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8ecba97288ee8e226829476108e07cae13fd0089"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

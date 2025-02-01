@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "58767f5e48c2c8fa1f349d7b54f295be48255f70"
     % Things that change per piece:
     title = "Il vago e liet'aspetto"
     subtitle = ""
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

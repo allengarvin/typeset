@@ -23,6 +23,7 @@
     lastupdated = "2018-10-28"
     shorttitle = "elle_sen_va_de_moy"
     \include "include/distribution-header.ly"
+    cksum = "8a233785419d345681f206a696c90707a1d98fee"
     tagline = #'f
 }
 
@@ -81,3 +82,4 @@
         }
     }
 }
+

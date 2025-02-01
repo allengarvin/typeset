@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "9662f6ec9dea42332eb436f3a83782f5c77b13be"
     % Things that change per piece:
     title = "Sì dolce è d'amar voi"
     subtitle = ""
@@ -124,3 +125,4 @@
         }
     }
 }
+

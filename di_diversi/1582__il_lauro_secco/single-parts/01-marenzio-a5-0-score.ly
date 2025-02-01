@@ -24,6 +24,7 @@
     shorttitle = "mentre_laura_spiro"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8e959a616a4db11d512b2235c6cb71b7e815c0e8"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

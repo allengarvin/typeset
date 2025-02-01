@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "ave_regina_coelerum"
     \include "include/distribution-header.ly"
+    cksum = "363b3839cbbace5dcf1fdffbf8341dbdb6a2d55e"
     tagline = #'f
 }
 
@@ -118,3 +119,4 @@
         }
     }
 }
+

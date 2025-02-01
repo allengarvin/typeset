@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[hexachord]"
     \include "include/distribution-header.ly"
+    cksum = "f4513524910cfa5e9109538416a7d79ded4f42dc"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

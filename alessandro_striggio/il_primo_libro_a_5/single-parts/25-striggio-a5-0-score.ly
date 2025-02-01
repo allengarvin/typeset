@@ -22,6 +22,7 @@
     shorttitle = "miser_ahime_chi_potra"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "53d8b26cac3d65b914b0b954b0c30f8550e8cb5b"
     tagline = #'f
 }
 
@@ -92,4 +93,5 @@
         }
     }
 }
+
 

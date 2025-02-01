@@ -25,6 +25,7 @@
     final = "d"
     shorttitle = "o_bene_mio"
     \include "include/distribution-header.ly"
+    cksum = "bc9418ad27c6e524f91a2e9eed2448319c921327"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

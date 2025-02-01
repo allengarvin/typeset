@@ -26,6 +26,7 @@
     shorttitle = "segli_e_pur_mio_destino"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "ada4e39a767da1c071d4acf3b9fbc329c7c09ab4"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

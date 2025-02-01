@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "la_sampogna"
     \include "include/distribution-header.ly"
+    cksum = "92c4f608bcfb0a4632a5c6512ef1ba55d1d03297"
     tagline = #'f
 }
 
@@ -57,4 +58,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

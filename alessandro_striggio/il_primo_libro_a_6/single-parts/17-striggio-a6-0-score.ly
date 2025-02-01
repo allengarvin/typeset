@@ -25,6 +25,7 @@
     shorttitle = "sara_che_cessi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "ed3e6e9717bd77da43ab2c2cd4eaf21c0a45278b"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

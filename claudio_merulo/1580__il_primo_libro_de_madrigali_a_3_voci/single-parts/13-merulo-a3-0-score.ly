@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "cad3d7499c5023e0ed9d882fa386e9fa2389dcb3"
     % Things that change per piece:
     title = "Deh, avesse Amor così"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

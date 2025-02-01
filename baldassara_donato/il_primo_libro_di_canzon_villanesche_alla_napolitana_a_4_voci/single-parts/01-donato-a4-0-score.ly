@@ -25,6 +25,7 @@
     final = "f"
     shorttitle = "occhi_lucenti_assai"
     \include "include/distribution-header.ly"
+    cksum = "7eb3554e9e12cfbdff3e1d6485f57c8bc59a81fd"
     tagline = #'f
 }
 
@@ -92,4 +93,5 @@
         }
     }
 }
+
 

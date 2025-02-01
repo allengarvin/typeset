@@ -24,6 +24,7 @@
     final = "d"
     categories = "[in-nomine]"
     \include "include/distribution-header.ly"
+    cksum = "5431d8b78b9328ea7599808bdfb3e30bf80d2eb2"
     tagline = #'f
 }
 
@@ -90,3 +91,4 @@
         }
     }   
 }
+

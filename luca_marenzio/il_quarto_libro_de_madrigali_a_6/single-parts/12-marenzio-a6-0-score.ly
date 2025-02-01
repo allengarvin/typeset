@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "f68371aacc1bf73ed7c71d99fa4ad9cac0301571"
     % Things that change per piece:
     title = "Caro Aminta pur vuoi"
     subtitle = ""
@@ -122,3 +123,4 @@
         }
     }
 }
+

@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "contraponto_bestiale"
     \include "include/distribution-header.ly"
+    cksum = "9c70de606bc8479830939737fcd2e7eb071ff765"
     tagline = #'f
 }
 
@@ -124,4 +125,5 @@
         }
     }
 }
+
 

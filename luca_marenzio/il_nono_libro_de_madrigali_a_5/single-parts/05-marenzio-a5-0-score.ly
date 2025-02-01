@@ -12,6 +12,7 @@
     lastupdated = "2023-01-14"
     originallyset = "2023-01-14"
     \include "include/distribution-header.ly"
+    cksum = "7a09080b39d160361ff02d2f2f8e151312ab0e6a"
     % Things that change per piece:
     title = "E so come in un punto"
     subtitle = "Seconda parte"
@@ -107,3 +108,4 @@
         }
     }
 }
+

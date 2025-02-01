@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "e1998c4ec782bd571ba51859744fd956650827bc"
     % Things that change per piece:
     title = "Quel dolce nodo"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

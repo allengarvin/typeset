@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "d089cb45d71cfae45a23d8da3f4282902c4f485c"
     % Things that change per piece:
     title = "Segno con bianca pietra"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

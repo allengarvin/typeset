@@ -31,6 +31,7 @@
     categories = "[madrigal]"
     motifs = "[bird]"
     \include "include/distribution-header.ly"
+    cksum = "d6ae793b662647cb6e8a4f18611cbd3397821c8b"
     tagline = #'f
 }
 
@@ -103,3 +104,4 @@
         }
     }
 }
+

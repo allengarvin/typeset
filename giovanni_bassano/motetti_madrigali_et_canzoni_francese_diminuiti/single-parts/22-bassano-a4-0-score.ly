@@ -16,6 +16,7 @@
 
     % Unchanging:
     \include "include/distribution-header.ly"
+    cksum = "debed4d5e25b367e64a76203702d48c23002bf47"
     composer = "Cipriano de Rore / Basso parte by Giovanni Bassano (c.1561-1617)"
     originallyset = "2018-10-07"
     lastupdated = "2018-10-07"
@@ -82,3 +83,4 @@
         }
     }
 }
+

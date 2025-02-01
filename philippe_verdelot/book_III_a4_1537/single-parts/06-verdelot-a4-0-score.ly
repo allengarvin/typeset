@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "64b9372482515ef3b4b77488ee55d61a09f6effa"
     % Things that change per piece:
     title = "O dolce notte"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

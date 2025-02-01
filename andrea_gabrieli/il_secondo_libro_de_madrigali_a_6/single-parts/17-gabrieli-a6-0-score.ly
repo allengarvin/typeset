@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "597d5a42969f3469752a2024b910f20537ea96bb"
     % Things that change per piece:
     title = "Non ti sdegnar, o Filli"
     subtitle = ""
@@ -124,4 +125,5 @@
         }
     }
 }
+
 

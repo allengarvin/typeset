@@ -24,6 +24,7 @@
     shorttitle = "si_chio_mi_credo_omai"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "7bc8b80390809f0a66b99418ee6f2bfe2306989f"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

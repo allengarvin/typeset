@@ -23,6 +23,7 @@
     categories = "[villanella]"
     shorttitle = "lamor_e_come_male_destinato"
     \include "include/distribution-header.ly"
+    cksum = "981abf0acaabfb32007eb105d920d805f3cf2148"
     tagline = #'f
 }
 
@@ -93,3 +94,4 @@
         }
     }
 }
+

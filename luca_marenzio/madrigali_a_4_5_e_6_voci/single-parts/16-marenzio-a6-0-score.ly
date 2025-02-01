@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "61bca043ecee56a86e7ca46c35ec10eac87fe725"
     % Things that change per piece:
     title = "Come ogni rio che d'acqua dolci e chiare"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

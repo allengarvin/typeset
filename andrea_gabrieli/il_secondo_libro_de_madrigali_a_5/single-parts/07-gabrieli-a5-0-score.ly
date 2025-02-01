@@ -12,6 +12,7 @@
     lastupdated = "2023-01-28"
     originallyset = "2023-01-28"
     \include "include/distribution-header.ly"
+    cksum = "fe852c523d46a3627e04c067ee42831b589bbbf6"
     % Things that change per piece:
     title = "Amor, che de' mortali ogni cor vede"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

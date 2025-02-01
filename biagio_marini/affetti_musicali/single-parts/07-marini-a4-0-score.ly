@@ -12,6 +12,7 @@
     lastupdated = "2022-09-17"
     originallyset = "2022-09-17"
     \include "include/distribution-header.ly"
+    cksum = "8443f1fc984aa08b9061441bca924ead431bef6c"
     % Things that change per piece:
     title = "La Zozri"
     subtitle = "Sinfonia grave"
@@ -82,3 +83,4 @@
         }
     }   
 }
+

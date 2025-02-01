@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "en_lombre"
     \include "include/distribution-header.ly"
+    cksum = "c2a9e5ffdfa8316e7750f70c642abe705431e2ac"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         }
     }   
 }
+
 

@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "la_bertozza"
     \include "include/distribution-header.ly"
+    cksum = "3e28e5cdb47c903a2abe79c5797c5d111c950d29"
     tagline = #'f
 }
 
@@ -73,3 +74,4 @@
         }
     }   
 }
+

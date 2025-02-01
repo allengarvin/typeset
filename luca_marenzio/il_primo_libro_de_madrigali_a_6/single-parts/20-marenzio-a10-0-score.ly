@@ -23,6 +23,7 @@
     shorttitle = "vieni_clori_gentil"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "bdd2a232c2fbc6ab4766680b18807340ac972739"
     tagline = #'f
 }
 
@@ -157,4 +158,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     final = "e"
     shorttitle = "lisa_dea_damisella"
     \include "include/distribution-header.ly"
+    cksum = "a1730e7fd0f09e23c928479339c3b2c42d176d06"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

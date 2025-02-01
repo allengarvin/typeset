@@ -18,6 +18,7 @@
     lastupdated = "2015-08-24"
     shorttitle = "loves_farewell"
     \include "include/distribution-header.ly"
+    cksum = "c40278491b0d2ce46e1e24fe22cc35ec90b597d7"
     tagline = #'f
 }
 
@@ -43,4 +44,5 @@
         }
     }   
 }
+
 

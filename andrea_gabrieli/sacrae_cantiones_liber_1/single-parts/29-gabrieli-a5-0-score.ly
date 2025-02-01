@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "beata_es_maria"
     \include "include/distribution-header.ly"
+    cksum = "bad9647af2ad71932a8f38236c369dfb76012f85"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

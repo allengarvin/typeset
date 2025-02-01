@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "o_crux_fidelis"
     \include "include/distribution-header.ly"
+    cksum = "b0c25ff29a9848a8c826251f98bcbbb9a23bca44"
     tagline = #'f
 }
 
@@ -99,3 +100,4 @@
         }
     }
 }
+

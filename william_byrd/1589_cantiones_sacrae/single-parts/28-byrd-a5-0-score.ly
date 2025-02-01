@@ -12,6 +12,7 @@
     lastupdated = "2022-11-26"
     originallyset = "2022-11-26"
     \include "include/distribution-header.ly"
+    cksum = "26f1966ce4e6e85ed913ab9f7b8a8ba23ff4fdb9"
     % Things that change per piece:
     title = "Laetentur coeli"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

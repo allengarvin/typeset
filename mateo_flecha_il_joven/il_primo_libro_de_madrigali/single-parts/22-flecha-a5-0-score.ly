@@ -25,6 +25,7 @@
     shorttitle = "o_caduche_speranze"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "206113fe3d4d66d9ad0c92196616f4867a12c898"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

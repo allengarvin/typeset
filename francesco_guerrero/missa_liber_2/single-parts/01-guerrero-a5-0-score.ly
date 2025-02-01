@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "missa_de_la_batalla_escoutez"
     \include "include/distribution-header.ly"
+    cksum = "37765639415e0d67bfed6f85fd51b2bccbed8c22"
     tagline = #'f
 }
 
@@ -93,3 +94,4 @@
         }
     }
 }
+

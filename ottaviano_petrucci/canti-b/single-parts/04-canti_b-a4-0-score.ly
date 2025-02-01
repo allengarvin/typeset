@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "vray_dieu_qui_me_confortera"
     \include "include/distribution-header.ly"
+    cksum = "00cc2dd9790ad482644d5d0dcf9673baef488616"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

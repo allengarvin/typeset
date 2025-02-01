@@ -12,6 +12,7 @@
     lastupdated = "2022-11-07"
     originallyset = "2022-11-07"
     \include "include/distribution-header.ly"
+    cksum = "0559365f53e57f2aef131da90372131b3516ce3b"
     % Things that change per piece:
     title = "Godete anima bella"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

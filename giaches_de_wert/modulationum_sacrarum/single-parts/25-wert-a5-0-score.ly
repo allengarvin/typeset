@@ -22,6 +22,7 @@
     final = "e"
     shorttitle = "vox_in_rama"
     \include "include/distribution-header.ly"
+    cksum = "307703afe3b7738d159a8546e98b9c0cf9f16bd1"
     tagline = #'f
 }
 
@@ -88,4 +89,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "sio_fosse_negromante"
     \include "include/distribution-header.ly"
+    cksum = "2bf26e6fce46505f3775c79c0f1c656a00a02bc2"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

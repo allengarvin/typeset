@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "14f1c4f2556a982abe8d2c52e21097f58da8f2a2"
     % Things that change per piece:
     title = "Quando dalla mia bella empia guerriera"
     subtitle = "Prima parte"
@@ -120,3 +121,4 @@
         }
     }
 }
+

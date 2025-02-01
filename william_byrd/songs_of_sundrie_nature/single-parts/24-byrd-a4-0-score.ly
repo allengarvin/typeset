@@ -12,6 +12,7 @@
     lastupdated = "2022-11-15"
     originallyset = "2022-11-15"
     \include "include/distribution-header.ly"
+    cksum = "5102e564bc75b36eb27b2f143978d6a4ddf90a59"
     % Things that change per piece:
     title = "Rejoice, rejoice"
     subtitle = ""
@@ -89,3 +90,4 @@
         }
     }
 }
+

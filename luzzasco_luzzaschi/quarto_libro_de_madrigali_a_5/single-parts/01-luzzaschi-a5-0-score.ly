@@ -12,6 +12,7 @@
     lastupdated = "2022-10-30"
     originallyset = "2022-10-30"
     \include "include/distribution-header.ly"
+    cksum = "40b4eed772b439fea33d8679548c91e8a1e731b3"
     % Things that change per piece:
     title = "Crudelissima Donna"
     subtitle = ""
@@ -107,3 +108,4 @@
         }
     }
 }
+

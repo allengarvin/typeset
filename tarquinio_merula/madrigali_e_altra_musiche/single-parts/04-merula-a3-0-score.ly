@@ -12,6 +12,7 @@
     lastupdated = "2022-10-06"
     originallyset = "2022-10-06"
     \include "include/distribution-header.ly"
+    cksum = "f04f444167bbe9d1f3e5b37c43ac2fab713d92b5"
     % Things that change per piece:
     title = "No, no, ch'io non mi fido"
     subtitle = "Sopra la ciaconna"
@@ -157,3 +158,4 @@
         }
     }
 }
+

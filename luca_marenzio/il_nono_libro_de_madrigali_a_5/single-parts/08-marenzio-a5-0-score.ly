@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "c1a561abc8f51dae293118434b38f95ec295513d"
     % Things that change per piece:
     title = "L'aura che'l verde lauro"
     subtitle = "Prima e seconda parte"
@@ -137,3 +138,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2022-09-17"
     originallyset = "2022-09-17"
     \include "include/distribution-header.ly"
+    cksum = "057e578e093786b0fb0cdabf1328f0fb25884ed2"
     % Things that change per piece:
     title = "Sonata I"
     subtitle = ""
@@ -71,3 +72,4 @@
         }
     }   
 }
+

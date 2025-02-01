@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "tant_que_vivrai"
     \include "include/distribution-header.ly"
+    cksum = "bf2eb71a9ac108d5caad1a55fb66bcd0c740aff0"
     tagline = #'f
 }
 
@@ -98,3 +99,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     shorttitle = "i_vo_piangendo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "74077265c785e364693575aec96b128b2779b647"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[virgin,mary]"
     \include "include/distribution-header.ly"
+    cksum = "9fdc8e413c153c1022bf2446cdffbd64e17eb738"
     needtranslation = #'f
     tagline = #'f
 }
@@ -125,3 +126,4 @@
         }
     }
 }
+

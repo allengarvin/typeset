@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "b65afb9f1183351174e35c52852020386ed5bf63"
     % Things that change per piece:
     title = "Amor rimanti in sempiterno oblio"
     subtitle = "Seconda parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

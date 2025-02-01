@@ -22,6 +22,7 @@
     final = "e"
     shorttitle = "ricercar_quintus"
     \include "include/distribution-header.ly"
+    cksum = "2c475ee7c9b468a47d2496122fe70b66e90f3609"
     tagline = #'f
 }
 
@@ -74,3 +75,4 @@
         }
     }   
 }
+

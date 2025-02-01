@@ -25,6 +25,7 @@
     shorttitle = "per_divina_bellezza"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "fef6f28173b705b92ddfa01dce396b21dbe73e9e"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

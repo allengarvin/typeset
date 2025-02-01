@@ -26,6 +26,7 @@
     shorttitle = "non_rumor_di_tamburi"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "fee899d14981983de784ed472c442b98f71576df"
     tagline = #'f
 }
 
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

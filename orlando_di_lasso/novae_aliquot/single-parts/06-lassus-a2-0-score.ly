@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "qui_sequitur_me"
     \include "include/distribution-header.ly"
+    cksum = "257fe21c91ad0f050e6ba2442215ed752081bdf3"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         }
     }
 }
+
 

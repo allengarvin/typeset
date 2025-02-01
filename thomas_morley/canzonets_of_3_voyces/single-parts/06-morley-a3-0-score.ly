@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "goodmorrow_fair_ladies"
     \include "include/distribution-header.ly"
+    cksum = "bc66b3db33ada4a43d3c91148a44eb9b5482940a"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

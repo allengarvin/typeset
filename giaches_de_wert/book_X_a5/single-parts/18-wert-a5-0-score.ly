@@ -12,6 +12,7 @@
     lastupdated = "2023-02-12"
     originallyset = "2023-02-12"
     \include "include/distribution-header.ly"
+    cksum = "7ca34b92a3e9f998fa4bb4109ed94f5bd3eba141"
     % Things that change per piece:
     title = "Mi diede anima mia"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

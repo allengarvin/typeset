@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "e54cbc70159a31051e7ab37066e550d8f76b5246"
     % Things that change per piece:
     title = "Filli tu sei più bella"
     subtitle = "Aria"
@@ -158,3 +159,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "9e38a88b3a6bf9c4caa64f98a999024d96321f33"
     % Things that change per piece:
     title = "E questo fium'ognor"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

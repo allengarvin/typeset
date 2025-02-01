@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "cruel_you_pull_away_too_soon"
     \include "include/distribution-header.ly"
+    cksum = "8941dc17884a2244d21092f06adef96ed6cd44e8"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

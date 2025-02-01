@@ -12,6 +12,7 @@
     lastupdated = "2022-10-30"
     originallyset = "2022-10-30"
     \include "include/distribution-header.ly"
+    cksum = "77462cfc4af31cddbdd4a61a52f54a663a281833"
     % Things that change per piece:
     title = "Se la mia vita sete"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

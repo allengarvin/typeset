@@ -24,6 +24,7 @@
     shorttitle = "tanto_mi_piacque"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "f50ac478b151967fb9195d9f4b986605fb1dac33"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

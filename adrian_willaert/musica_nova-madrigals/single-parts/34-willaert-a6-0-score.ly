@@ -25,6 +25,7 @@
     shorttitle = "tengan_dunque"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "d0a4295282f19c264022da1e3d39d8cf32497738"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

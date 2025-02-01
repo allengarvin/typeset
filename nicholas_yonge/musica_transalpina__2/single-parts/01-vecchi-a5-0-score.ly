@@ -25,6 +25,7 @@
     shorttitle = "the_white_delightful_swan"
     categories = "[madrigal,animal]"
     \include "include/distribution-header.ly"
+    cksum = "b71a29563b50cbf5e940db411227f5f4675fe765"
     tagline = #'f
 }
 
@@ -81,4 +82,5 @@
         \include "../include/vocal-layout-score.ly"
     }   
 }
+
 

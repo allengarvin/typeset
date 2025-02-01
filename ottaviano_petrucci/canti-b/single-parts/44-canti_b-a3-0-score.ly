@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "adieu_fillette"
     \include "include/distribution-header.ly"
+    cksum = "7bc61f7144ed3fcf06cee6ef0652d9a71a877111"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         }
     }   
 }
+
 

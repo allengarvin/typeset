@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "merci_vos"
     \include "include/distribution-header.ly"
+    cksum = "bab8de22335a0350a4ebb9902f3a3a9bc025eb02"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

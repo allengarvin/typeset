@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "fd49129d42c1047209a52ba51297e3f106acd54f"
     % Things that change per piece:
     title = "Al chiaro suon d'i dolci accenti"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

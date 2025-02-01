@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "c37c7186b338aef4fe971d31f47cd3ee8fdcd378"
     % Things that change per piece:
     title = "Ardo sì ma non t'amo"
     subtitle = ""
@@ -126,3 +127,4 @@
         }
     }
 }
+

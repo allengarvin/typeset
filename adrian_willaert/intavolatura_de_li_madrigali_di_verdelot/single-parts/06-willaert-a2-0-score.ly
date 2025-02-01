@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[cupid]"
     \include "include/distribution-header.ly"
+    cksum = "4268394e971865ba185424ca7f2caff5070bddcf"
     tagline = #'f
 }
 
@@ -113,3 +114,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "1aaab7bcadf645443d2b512b13ec778e53976c3a"
     % Things that change per piece:
     title = "E se di vero Amor"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

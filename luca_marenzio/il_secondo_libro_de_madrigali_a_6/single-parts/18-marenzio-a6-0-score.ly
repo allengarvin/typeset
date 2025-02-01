@@ -12,6 +12,7 @@
     lastupdated = "2022-12-18"
     originallyset = "2022-12-18"
     \include "include/distribution-header.ly"
+    cksum = "d4f3776e7106ea51dd2330f8fc1783ccf520b792"
     % Things that change per piece:
     title = "Vita della mia vita"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

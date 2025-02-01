@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d676c844765451400cf340138066c0e694e3b96a"
     % Things that change per piece:
     title = "Ahi lasso, ogni or veggio io"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

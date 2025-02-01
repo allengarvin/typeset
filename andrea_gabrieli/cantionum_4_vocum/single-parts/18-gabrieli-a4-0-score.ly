@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "puelle_saltanti_imperavit_mater"
     \include "include/distribution-header.ly"
+    cksum = "f03307abfd0167e5a8b38beb9d3de9a85c45cf40"
     tagline = #'f
 }
 
@@ -95,3 +96,4 @@
         }
     }
 }
+

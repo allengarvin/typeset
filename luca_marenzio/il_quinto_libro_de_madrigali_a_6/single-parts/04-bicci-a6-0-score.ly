@@ -12,6 +12,7 @@
     lastupdated = "2022-12-05"
     originallyset = "2022-12-05"
     \include "include/distribution-header.ly"
+    cksum = "455c169f78016b635484abfd18a0e82dc0530c72"
     % Things that change per piece:
     title = "Candide perle e voi labbra ridenti"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "258ffc68b2f96a4084515c8b739f1b9916209f31"
     % Things that change per piece:
     title = "I' non ho più favella"
     subtitle = "Terza parte"
@@ -110,3 +111,4 @@
         }
     }
 }
+

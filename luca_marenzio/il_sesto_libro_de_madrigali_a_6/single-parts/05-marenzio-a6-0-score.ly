@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "bfda7563bc0c728245b00a7a7a1686f4f66d5823"
     % Things that change per piece:
     title = "Ma perché vola il tempo"
     subtitle = "Terza parte"
@@ -123,3 +124,4 @@
         }
     }
 }
+

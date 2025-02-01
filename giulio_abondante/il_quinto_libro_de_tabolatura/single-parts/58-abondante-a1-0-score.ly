@@ -21,6 +21,7 @@
     lastupdated = "2019-02-23"
     originally_set = "2019-02-23"
     \include "include/distribution-header.ly"
+    cksum = "7ddd3bab1c990cd9282f4affc9655f7ff687db14"
     tagline = #'f
 }
 
@@ -59,3 +60,4 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+

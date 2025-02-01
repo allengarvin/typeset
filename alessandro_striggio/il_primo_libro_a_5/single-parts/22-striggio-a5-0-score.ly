@@ -23,6 +23,7 @@
     shorttitle = "madonna_il_vostro_petto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "4b32c5b1dc03f5c904a3710ea5f7d91d5f09a84a"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

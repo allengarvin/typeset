@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "fortuna_dun_gran_tempo__franch_cor_quas_tu"
     \include "include/distribution-header.ly"
+    cksum = "6c333f1a61eb1848cb435c5a4ee0f940dc0475c3"
     tagline = #'f
 }
 
@@ -82,3 +83,4 @@
         }
     }   
 }
+

@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "en_chambre_polie"
     \include "include/distribution-header.ly"
+    cksum = "371606e4a9aa65db9984533ab18543ba70995591"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

@@ -24,6 +24,7 @@
     shorttitle = "liete_et_pensose"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "d42176e16a89914e16c14ed448034cc0e346606e"
     tagline = #'f
 }
 
@@ -148,3 +149,4 @@
         }
     }
 }
+

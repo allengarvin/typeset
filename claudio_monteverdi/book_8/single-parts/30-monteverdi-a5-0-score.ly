@@ -27,6 +27,7 @@
     originallyset = "2021-09-22"
     categories = "[madrigal,ground]"
     \include "include/distribution-header.ly"
+    cksum = "6b4655c865a55018a00b8b25329f90afddd15fd2"
     tagline = #'f
 }
 
@@ -314,3 +315,4 @@
         }
     }
 }
+

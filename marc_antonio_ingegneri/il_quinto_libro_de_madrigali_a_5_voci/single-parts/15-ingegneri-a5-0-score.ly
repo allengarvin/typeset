@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "6ac3a0a434570c6dc8d351a8a0e4e68969ae50b3"
     % Things that change per piece:
     title = "Quando a ferire a saetar i cori"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

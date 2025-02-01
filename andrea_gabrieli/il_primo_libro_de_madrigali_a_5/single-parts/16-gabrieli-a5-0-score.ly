@@ -30,6 +30,7 @@
     rhyme = "ABABABCC"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
+    cksum = "3c58faacd497f3c2d8f8f7865734b1be61f40158"
     tagline = #'f
 }
 
@@ -119,3 +120,4 @@
         }
     }
 }
+

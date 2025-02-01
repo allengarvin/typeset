@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "carmen_in_la"
     \include "include/distribution-header.ly"
+    cksum = "0eb52bdd2f7e87379b8ddb4c1e6df64395604961"
     tagline = #'f
 }
 
@@ -82,3 +83,4 @@
         }
     }
 } 
+

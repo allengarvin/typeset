@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "aba7e4cb17d8593d14f9cf821a38abb175c935f5"
     % Things that change per piece:
     title = "Coppia di donne altera"
     subtitle = ""
@@ -128,4 +129,5 @@
         }
     }
 }
+
 

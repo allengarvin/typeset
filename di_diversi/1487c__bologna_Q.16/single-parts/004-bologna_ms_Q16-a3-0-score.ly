@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "jai_beau_heur"
     \include "include/distribution-header.ly"
+    cksum = "1cb343c140573834fd71292fd3d3fb7c7b24205c"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

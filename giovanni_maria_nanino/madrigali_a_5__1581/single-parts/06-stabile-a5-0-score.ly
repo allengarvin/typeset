@@ -12,6 +12,7 @@
     lastupdated = "2023-01-27"
     originallyset = "2023-01-27"
     \include "include/distribution-header.ly"
+    cksum = "5dc1158a0ecb5a67ea9ade262a038dfdf2d61c07"
     % Things that change per piece:
     title = "Vaneggio, od'è pur vero"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

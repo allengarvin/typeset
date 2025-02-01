@@ -12,6 +12,7 @@
     lastupdated = "2022-12-17"
     originallyset = "2022-12-17"
     \include "include/distribution-header.ly"
+    cksum = "832d2d23309694eec91530ac4099426dff909bb3"
     % Things that change per piece:
     title = "In un bel bosco"
     subtitle = "Prima e seconda parte"
@@ -122,3 +123,4 @@
         }
     }
 }
+

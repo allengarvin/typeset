@@ -25,6 +25,7 @@
     flats = -1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "82e89092ed00b7b22680f3cbf19b3fa05c829480"
     composer = "R. Golder (fl. 1600)"
     shortcomp = "golder"
     tagline = #'f
@@ -79,3 +80,4 @@
         }
     }   
 }
+

@@ -25,6 +25,7 @@
     shorttitle = "amor_compagno_eterno"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "58247a186829eb1123a5ea7e0dfb20629b0b1c5d"
     tagline = #'f
 }
 
@@ -96,4 +97,5 @@
         }
     }
 }
+
 

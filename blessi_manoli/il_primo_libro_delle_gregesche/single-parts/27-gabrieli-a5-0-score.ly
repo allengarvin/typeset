@@ -25,6 +25,7 @@
     shorttitle = "como_vier_mil_posso"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "21948d5f52e8391371482b5fa3cfeb73acd41482"
     tagline = #'f
 }
 
@@ -99,4 +100,5 @@
         }
     }
 }
+
 

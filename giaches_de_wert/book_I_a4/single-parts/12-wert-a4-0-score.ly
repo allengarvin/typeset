@@ -26,6 +26,7 @@
     shorttitle = "il_dolce_sonno"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "847f0f233d0eb74f6059df852a2bc93f8878eb95"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

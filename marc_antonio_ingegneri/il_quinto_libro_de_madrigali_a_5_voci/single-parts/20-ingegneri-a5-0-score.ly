@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "d6b7233902f33670e279747e48641302af5c3551"
     % Things that change per piece:
     title = "Tu morendo innocente"
     subtitle = "Seconda parte"
@@ -137,6 +138,7 @@
         }
     }
 }
+
 
 
 

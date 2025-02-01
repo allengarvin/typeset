@@ -24,6 +24,7 @@
     shorttitle = "ma_tu_prendi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "4bec9738f4366ce291497a1a667d7e774d5236ae"
     tagline = #'f
 }
 
@@ -112,4 +113,5 @@
         }
     }
 }
+
 

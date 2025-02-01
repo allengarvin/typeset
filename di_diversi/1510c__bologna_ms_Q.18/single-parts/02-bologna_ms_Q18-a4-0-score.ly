@@ -24,6 +24,7 @@
     final = "bf"
     shorttitle = "una_mosche"
     \include "include/distribution-header.ly"
+    cksum = "b253bdb39d525f3a9ba1848c178bb622baa3fe0f"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "fb007ca4db9d550f9155d2596cd13befb59c2bd7"
     % Things that change per piece:
     title = "Giovane bella"
     subtitle = "Prima parte"
@@ -119,3 +120,4 @@
         unfaithfulness.
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "3a6fc807e3d90df5e12816529f2575d29c86bace"
     % Things that change per piece:
     title = "Quando dal proprio sito si rimove"
     subtitle = ""
@@ -143,3 +144,4 @@
     }
     % Todo: explanatory note about the mythology
 }
+

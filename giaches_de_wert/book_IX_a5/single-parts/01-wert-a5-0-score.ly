@@ -27,6 +27,7 @@
     motifs = "[mantova]"
     poeticform = "madrigal"
     \include "include/distribution-header.ly"
+    cksum = "2677a5cb9db191b834a07de1b310af4001af6f11"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "56c8201a94e97c5ee86bc98601fa29de19f63ed2"
     % Things that change per piece:
     title = "Dunque perfido Amante"
     subtitle = ""
@@ -123,3 +124,4 @@
         }
     }
 }
+

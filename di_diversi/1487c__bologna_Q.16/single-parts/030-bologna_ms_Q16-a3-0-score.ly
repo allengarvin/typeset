@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "jamais_dieux"
     \include "include/distribution-header.ly"
+    cksum = "f967f6a9ca66e39f98da638d8f297130777bc4d4"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

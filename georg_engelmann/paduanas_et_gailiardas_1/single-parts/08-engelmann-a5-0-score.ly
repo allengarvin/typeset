@@ -12,6 +12,7 @@
     lastupdated = "2023-11-21"
     originallyset = "2023-11-21"
     \include "include/distribution-header.ly"
+    cksum = "67c930775524ac6b23b2f7f31ac11e443d09eebb"
     % Things that change per piece:
     title = "Galliarda Pracell"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

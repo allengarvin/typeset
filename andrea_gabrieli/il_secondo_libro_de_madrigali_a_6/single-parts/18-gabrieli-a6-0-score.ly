@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "0c95dbb2c83fb829ab2cc1319bd2cd639b0e13c5"
     % Things that change per piece:
     title = "Ché piangi, alma, e sospiri"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

@@ -28,6 +28,7 @@
     categories = "[madrigal]"
     motif = "[laurel,faded-love]"
     \include "include/distribution-header.ly"
+    cksum = "7e0417f370e28211ead341a95eabae390ed0554b"
     tagline = #'f
 }
 
@@ -121,5 +122,6 @@
         }
     }
 }
+
 
 

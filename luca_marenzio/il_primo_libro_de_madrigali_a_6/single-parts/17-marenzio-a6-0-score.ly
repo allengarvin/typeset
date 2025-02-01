@@ -23,6 +23,7 @@
     shorttitle = "mentre_sul_far_del_giorno"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "aa138a87f6e4546ab7a1d520118270e06072f847"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

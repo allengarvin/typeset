@@ -12,6 +12,7 @@
     lastupdated = "2023-02-04"
     originallyset = "2023-02-04"
     \include "include/distribution-header.ly"
+    cksum = "178f6d0ae06990ac05b892f49016d59744a7e374"
     % Things that change per piece:
     title = "Piango, ché Amor con disusato oltraggio"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

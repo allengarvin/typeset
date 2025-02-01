@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "quodlibet_beati_pacifici__de_tous_biens"
     \include "include/distribution-header.ly"
+    cksum = "3d31f918823445ba7e31b95b1f17542d773788ef"
     tagline = #'f
 }
 
@@ -77,4 +78,5 @@
 
     }   
 }
+
 

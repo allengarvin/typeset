@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "il_lamento"
     \include "include/distribution-header.ly"
+    cksum = "fc84b6b0a92cde640161afcbc8a5ef173729f717"
     tagline = #'f
 }
 
@@ -57,4 +58,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

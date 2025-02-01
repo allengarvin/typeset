@@ -29,6 +29,7 @@
     shorttitle = "dunque_basciar_per_me"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "6a302975736addd5c13717f7dce832d5533eab7b"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

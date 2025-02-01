@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "fluminis_impetus"
     \include "include/distribution-header.ly"
+    cksum = "5e00d13d9138a4e61b859aa30dedc4ac5a076fef"
     tagline = #'f
 }
 
@@ -110,3 +111,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2023-11-22"
     originallyset = "2023-11-22"
     \include "include/distribution-header.ly"
+    cksum = "1c88c6dc7f966fce10da640eb888ef410c6d2ea6"
     % Things that change per piece:
     title = "Galliarda Navacar"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

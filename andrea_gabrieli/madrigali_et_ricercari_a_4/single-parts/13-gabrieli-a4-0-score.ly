@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "08a223e0d6a872c97be744b3734381f23c4eae6d"
     % Things that change per piece:
     title = "Asia felice"
     subtitle = "Prima parte"
@@ -102,5 +103,6 @@
         }
     }
 }
+
 
 

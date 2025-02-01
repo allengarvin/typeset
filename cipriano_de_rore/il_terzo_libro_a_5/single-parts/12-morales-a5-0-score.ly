@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "a1001b90738492229b7764e0714ea57093706098"
     % Things that change per piece:
     title = "Quando lieta sperai"
     subtitle = ""
@@ -155,3 +156,4 @@
     }
         
 }
+

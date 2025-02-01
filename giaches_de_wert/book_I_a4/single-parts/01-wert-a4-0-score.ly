@@ -22,6 +22,7 @@
     shorttitle = "che_giova_posseder_cittadi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "708281739de7124e5d7a0b5383bb753b63a08e74"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
 
 
 }
+
 

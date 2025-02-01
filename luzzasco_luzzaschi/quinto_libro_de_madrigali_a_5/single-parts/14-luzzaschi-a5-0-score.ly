@@ -12,6 +12,7 @@
     lastupdated = "2022-11-07"
     originallyset = "2022-11-07"
     \include "include/distribution-header.ly"
+    cksum = "bd92d8090dc89485b62134a150e85ead4189dd0c"
     % Things that change per piece:
     title = "Vivo da voi lontana"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

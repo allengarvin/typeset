@@ -12,6 +12,7 @@
     lastupdated = "2024-12-04"
     originallyset = "2024-12-04"
     \include "include/distribution-header.ly"
+    cksum = "2397ab6d8eca1801dd4e63db15a2ed4df1dc89f5"
     % Things that change per piece:
     title = "Ahi, se si grida: al foco"
     subtitle = ""
@@ -124,4 +125,5 @@
         }
     }
 }
+
 

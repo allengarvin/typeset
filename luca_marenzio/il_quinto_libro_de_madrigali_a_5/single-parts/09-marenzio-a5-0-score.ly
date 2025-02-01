@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f840932edf326686630af58932aaf9f24194530d"
     % Things that change per piece:
     title = "Ohimè, l'antica fiamma"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "pour_quoy_fu_fait"
     \include "include/distribution-header.ly"
+    cksum = "662c6d1d52fcfa31a8fb31508b3dbc2134890519"
     tagline = #'f
 }
 
@@ -69,4 +70,5 @@
         }
     }   
 }
+
 

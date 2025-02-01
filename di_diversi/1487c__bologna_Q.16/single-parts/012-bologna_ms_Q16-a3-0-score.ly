@@ -25,6 +25,7 @@
     final = "b"
     shorttitle = "dieu_damors"
     \include "include/distribution-header.ly"
+    cksum = "59de32c8d67651cdc1de0da0a7a3414fb2e971e8"
     tagline = #'f
 }
 
@@ -69,4 +70,5 @@
 
     }   
 }
+
 

@@ -22,6 +22,7 @@
     shorttitle = "introduttione"
     categories = "[villanella]"
     \include "include/distribution-header.ly"
+    cksum = "cc8ec0de1c56154f7e0349b73499f5e2c5960180"
     tagline = #'f
 }
 
@@ -130,4 +131,5 @@
         }
     }
 }
+
 

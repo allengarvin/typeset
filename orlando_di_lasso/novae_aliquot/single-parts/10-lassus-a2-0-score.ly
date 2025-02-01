@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "serve_bone_et_fidelis"
     \include "include/distribution-header.ly"
+    cksum = "48779c00f99f0e0e17a9d1c0e9815faa833690ab"
     tagline = #'f
 }
 
@@ -78,4 +79,5 @@
         }
     }
 }
+
 

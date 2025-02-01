@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "a1484ee4cb5c37eaf4e44b2242f87294eed8e8ad"
     % Things that change per piece:
     title = "A dio, bella Siringa"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

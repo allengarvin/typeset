@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "bicinium"
     \include "include/distribution-header.ly"
+    cksum = "10d5c49ec060169b315e1a6e42e96316ed54dcd8"
     tagline = #'f
 }
 
@@ -58,4 +59,5 @@
         }
     }   
 }
+
 

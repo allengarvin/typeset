@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "bbded968e08b6fb516376d5da70774adb2ab24d3"
     % Things that change per piece:
     title = "Ferir quel petto, Silvio"
     subtitle = "Terza parte"
@@ -144,3 +145,4 @@
         }
     }
 }
+

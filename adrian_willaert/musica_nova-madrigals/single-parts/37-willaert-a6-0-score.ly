@@ -25,6 +25,7 @@
     shorttitle = "i_vidi_in_terra"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "46f836e9fc50df2e6416be016b7873b6a70a2a16"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

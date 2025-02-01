@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[fate,sighing]"
     \include "include/distribution-header.ly"
+    cksum = "ae815318928169ec20fce1a283506b8c53d770f5"
     tagline = #'f
 }
 
@@ -102,3 +103,4 @@
         }
     }
 }
+

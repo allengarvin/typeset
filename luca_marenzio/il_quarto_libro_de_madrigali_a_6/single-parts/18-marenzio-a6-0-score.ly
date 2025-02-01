@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "349c81aec801b05f354bf3ba4fb433118821985d"
     % Things that change per piece:
     title = "Vaneggio od è pur vero"
     subtitle = ""
@@ -131,3 +132,4 @@
         }
     }
 }
+

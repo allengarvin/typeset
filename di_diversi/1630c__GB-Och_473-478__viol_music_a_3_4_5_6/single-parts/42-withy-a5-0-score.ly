@@ -12,6 +12,7 @@
     lastupdated = "2022-10-08"
     originallyset = "2022-10-08"
     \include "include/distribution-header.ly"
+    cksum = "93ffcabd5b0dc81b9911ac25cb0ad4cb3f8452e5"
     % Things that change per piece:
     title = "In nomine"
     subtitle = ""
@@ -85,3 +86,4 @@
         }
     }   
 }
+

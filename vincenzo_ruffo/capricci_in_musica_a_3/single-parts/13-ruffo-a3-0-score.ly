@@ -20,6 +20,7 @@
     lastupdated = "2013-04-23"
     shorttitle = "la_gamba_in_basso_and_soprano"
     \include "include/distribution-header.ly"
+    cksum = "9da639cdf2c7da529caf8cf858bd785594461694"
     tagline = #'f
 }
 
@@ -63,4 +64,5 @@
         }
     }   
 }
+
 

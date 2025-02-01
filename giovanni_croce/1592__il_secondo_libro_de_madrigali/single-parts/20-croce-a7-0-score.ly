@@ -24,6 +24,7 @@
     shorttitle = "filli_morir_vorrei"
     categories = "[madrigal,polychoral,dialogo]"
     \include "include/distribution-header.ly"
+    cksum = "42b9ae5a5db513ad90be9cb433644e936f485063"
     tagline = #'f
 }
 
@@ -135,3 +136,4 @@
 %        }
 %    }
 }
+

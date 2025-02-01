@@ -12,6 +12,7 @@
     lastupdated = "2023-01-24"
     originallyset = "2023-01-24"
     \include "include/distribution-header.ly"
+    cksum = "e216e50733a286ccaf79354927a75df58c331475"
     % Things that change per piece:
     title = "I' vo piangendo"
     subtitle = ""
@@ -133,3 +134,4 @@
         }
     }
 }
+

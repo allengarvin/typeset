@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "84f56acad9470a661092e3eddd40e8f32f76ab1d"
     % Things that change per piece:
     title = "Da poi che sul fiorire"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

@@ -28,6 +28,7 @@
     categories = "[madrigal]"
     motifs = "[pastoral,parting]"
     \include "include/distribution-header.ly"
+    cksum = "89f8c6dbc6ccf896c1fde07fe5dccdf9f3815bca"
     tagline = #'f
 }
 
@@ -116,3 +117,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "67cc5ec59faf992a34b6de2272fec43a534285f9"
     composer = "John Mundy (c.1555-1630)"
     shortcomp = "j_mundy"
     tagline = #'f
@@ -93,3 +94,4 @@
         }
     }   
 }
+

@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "beatus_vir"
     \include "include/distribution-header.ly"
+    cksum = "75d5dba577e9ef89b1c228cd9d97cade197c3eab"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
 
 
 }
+
 

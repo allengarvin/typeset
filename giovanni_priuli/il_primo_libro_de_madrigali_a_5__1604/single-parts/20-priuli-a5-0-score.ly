@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "9a7fbce07dc58e53b70cac23454be40ddf31e75f"
     % Things that change per piece:
     title = "O Musa, tu che di caduchi allori"
     subtitle = "Prima parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

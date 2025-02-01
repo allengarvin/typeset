@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "19e338269378e3b4427d5b42dd1523ef7d15d52f"
     % Things that change per piece:
     title = "Era il bel viso suo"
     subtitle = "Prima parte"
@@ -113,3 +114,4 @@
         }
     }
 }
+

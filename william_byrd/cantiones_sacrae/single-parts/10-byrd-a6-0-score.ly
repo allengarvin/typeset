@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "aspice_domine"
     \include "include/distribution-header.ly"
+    cksum = "404c9c6af819d27693a552c741e7dcab258eabbf"
     tagline = #'f
 }
 
@@ -111,3 +112,4 @@
     }
 
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "1013758d0f99ec48e7d4c958cf69d1263cfeb9a5"
     % Things that change per piece:
     title = "Falsa credenza avete"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

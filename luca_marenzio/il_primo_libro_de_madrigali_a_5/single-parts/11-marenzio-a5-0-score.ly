@@ -23,6 +23,7 @@
     categories = "[madrigal]"
     motifs = "[sun,rays,beauty,amore]"
     \include "include/distribution-header.ly"
+    cksum = "9c670abadf58db2d8aa99affb26bf1b33f7e7aed"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

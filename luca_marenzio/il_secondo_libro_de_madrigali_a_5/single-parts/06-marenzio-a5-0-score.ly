@@ -25,6 +25,7 @@
     shorttitle = "amor_poi_che_non_vuole"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "ba7bf9245b424877a5b9e95b5837065f94af56bf"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

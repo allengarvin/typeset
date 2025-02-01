@@ -21,6 +21,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "0e93cb1590f440e4e348ee27986f648a2d7f4f38"
     tagline = #'f
 }
 
@@ -67,3 +68,4 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+

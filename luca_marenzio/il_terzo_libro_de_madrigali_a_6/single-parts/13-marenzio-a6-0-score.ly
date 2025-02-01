@@ -29,6 +29,7 @@
     motifs = "[amore,tiger,pain,bacio-mordace]"
     poeticform = "madrigal"
     \include "include/distribution-header.ly"
+    cksum = "eaf63db76e9dd40ccebc2efd8532f8c0f4e3f20b"
     tagline = #'f
 }
 
@@ -131,3 +132,4 @@
         }
     }
 }
+

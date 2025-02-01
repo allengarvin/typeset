@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "fantasia_senza_pause"
     \include "include/distribution-header.ly"
+    cksum = "0bfbf6866ffa08afe732d82f1ddc418141ffbc62"
     tagline = #'f
 }
 
@@ -76,4 +77,5 @@
         }
     }
 }
+
 

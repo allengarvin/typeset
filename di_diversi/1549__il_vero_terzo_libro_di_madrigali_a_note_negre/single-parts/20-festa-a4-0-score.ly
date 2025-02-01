@@ -12,6 +12,7 @@
     lastupdated = "2022-11-24"
     originallyset = "2022-11-24"
     \include "include/distribution-header.ly"
+    cksum = "c0485bc31845239cc0878d1b10efdb66b03eae18"
     % Things that change per piece:
     title = "Un baciar furioso"
     subtitle = ""
@@ -103,3 +104,4 @@
         }
     }
 }
+

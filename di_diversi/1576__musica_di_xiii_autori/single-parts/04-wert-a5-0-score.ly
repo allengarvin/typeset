@@ -26,6 +26,7 @@
     shorttitle = "scorgo_tanto_alto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "fab94f6f703866930518b4bd1cba4e737b0dc7d2"
     tagline = #'f
 }
 
@@ -96,4 +97,5 @@
         }
     }
 }
+
 

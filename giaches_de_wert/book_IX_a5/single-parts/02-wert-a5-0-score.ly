@@ -25,6 +25,7 @@
     shorttitle = "ecco_che_un_altra_volta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "7f233b50c1bf11603ff880b91df9d50f52eb1a3d"
     poeticform = "sonnet"
     tagline = #'f
 }
@@ -96,4 +97,5 @@
         }
     }
 }
+
 

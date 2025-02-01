@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "2e72d68a7295a6c2692753270cd7020e5503f66e"
     % Things that change per piece:
     title = "Amor e il tuo voler ti fanno velo"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

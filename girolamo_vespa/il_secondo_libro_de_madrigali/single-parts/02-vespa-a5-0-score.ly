@@ -25,6 +25,7 @@
     shorttitle = "one_quai_fior"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "94c3e044cee702eb001c43d7f37b358cbba05491"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

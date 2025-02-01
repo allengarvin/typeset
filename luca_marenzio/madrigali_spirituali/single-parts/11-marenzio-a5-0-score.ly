@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "f7b94a6d4c73437c3bfba648a914f3dd8c9b37dc"
     % Things that change per piece:
     title = "È questo il legno"
     subtitle = "Prima parte"
@@ -119,4 +120,5 @@
         }
     }
 }
+
 

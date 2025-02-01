@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "mon_ami"
     \include "include/distribution-header.ly"
+    cksum = "97930fac917c1bc48c23ddc7d10b34c640c93bfa"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

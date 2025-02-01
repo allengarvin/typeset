@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "e7952f3d88538af5db632d120ef795d65321d74d"
     % Things that change per piece:
     title = "Questi leggiadri odorosetti fiori"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

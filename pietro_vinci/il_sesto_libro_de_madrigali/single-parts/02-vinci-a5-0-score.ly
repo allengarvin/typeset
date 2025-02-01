@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "5d35f50b2fa052ca5c90e81fc21ea82dbcf59806"
     % Things that change per piece:
     title = "Donne leggiadre e belle"
     subtitle = ""
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

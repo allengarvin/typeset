@@ -25,6 +25,7 @@
     shorttitle = "nessun_visse_gia_mai"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "bb7fc2cc3655fa98f87b05f73565896afdaf0785"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

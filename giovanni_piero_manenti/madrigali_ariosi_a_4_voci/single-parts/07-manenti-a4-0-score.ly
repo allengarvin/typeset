@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "f8acc591396b50cd6e6af3152ff9870cfc95d8a7"
     % Things that change per piece:
     title = "Mia benigna fortuna"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

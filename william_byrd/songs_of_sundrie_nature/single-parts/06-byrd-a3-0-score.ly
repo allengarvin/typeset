@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "from_depth_of_sin"
     \include "include/distribution-header.ly"
+    cksum = "973447185fd6c7ebaae19dc4cb6c18cc6c80b5e7"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

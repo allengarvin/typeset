@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "f79168372693f9ddadb03fc2e68e81d3892223c2"
     % Things that change per piece:
     title = "Pater noster"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

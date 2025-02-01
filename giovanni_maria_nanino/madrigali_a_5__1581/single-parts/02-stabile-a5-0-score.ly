@@ -12,6 +12,7 @@
     lastupdated = "2023-01-26"
     originallyset = "2023-01-26"
     \include "include/distribution-header.ly"
+    cksum = "6c7cf58f80ad5230691b3a1633381416fe51f468"
     % Things that change per piece:
     title = "Chiari cristalli da begli occhi santi"
     subtitle = ""
@@ -134,3 +135,4 @@
         }
     }
 }
+

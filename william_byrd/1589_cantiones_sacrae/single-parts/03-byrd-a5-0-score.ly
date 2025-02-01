@@ -12,6 +12,7 @@
     lastupdated = "2022-11-26"
     originallyset = "2022-11-26"
     \include "include/distribution-header.ly"
+    cksum = "297a040ec7c6b6ca7ee3e9203c9ed81dd83a96b8"
     % Things that change per piece:
     title = "Domine praestolamur"
     subtitle = ""
@@ -107,3 +108,4 @@
         }
     }
 }
+

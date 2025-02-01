@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "dites_moi_toutes_vos_pensees"
     \include "include/distribution-header.ly"
+    cksum = "ba47ae176a9a239cd5e2e7ebafdb0db3cf9128de"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

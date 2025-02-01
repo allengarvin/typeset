@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "34c266a042b42508be17768e9eb864a21acf2b39"
     % Things that change per piece:
     title = "Piangeranno le grazie"
     subtitle = ""
@@ -124,3 +125,4 @@
         }
     }
 }
+

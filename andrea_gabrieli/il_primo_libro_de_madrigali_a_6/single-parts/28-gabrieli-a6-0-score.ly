@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "381bfecbe92edac57d40b8761cc1934a52711730"
     % Things that change per piece:
     title = "Goda or beato il Po"
     subtitle = "Prima parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

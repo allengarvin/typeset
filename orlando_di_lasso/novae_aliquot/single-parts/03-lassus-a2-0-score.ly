@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "oculus_non_vidit"
     \include "include/distribution-header.ly"
+    cksum = "eee84fcb857976b32d8c68e04c47c32b133d1e7b"
     tagline = #'f
 }
 
@@ -80,4 +81,5 @@
         }
     }
 }
+
 

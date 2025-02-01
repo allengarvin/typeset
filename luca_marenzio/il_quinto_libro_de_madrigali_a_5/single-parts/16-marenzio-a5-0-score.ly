@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "d2fe8495df928fb9801057e29cd989421c471cec"
     % Things that change per piece:
     title = "Chi vuol veder Amore"
     subtitle = ""
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

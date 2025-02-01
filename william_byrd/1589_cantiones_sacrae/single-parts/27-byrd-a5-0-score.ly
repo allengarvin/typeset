@@ -12,6 +12,7 @@
     lastupdated = "2022-12-01"
     originallyset = "2022-12-01"
     \include "include/distribution-header.ly"
+    cksum = "fe3a36a17d4904e5e42352ff0c36a9891b2bc9b2"
     % Things that change per piece:
     title = "Domine, secundum multitudinem"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

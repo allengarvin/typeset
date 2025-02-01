@@ -26,6 +26,7 @@
     final = "d"
     shorttitle = "madonna_mia"
     \include "include/distribution-header.ly"
+    cksum = "51e27a3dafce89c1075b9e412e0b73dd507430c4"
     tagline = #'f
 }
 
@@ -94,4 +95,5 @@
         }
     }
 }
+
 

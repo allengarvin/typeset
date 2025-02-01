@@ -12,6 +12,7 @@
     lastupdated = "2023-11-21"
     originallyset = "2023-11-21"
     \include "include/distribution-header.ly"
+    cksum = "ae855d00cc29a26ad18ad5edc5e18a771ba3f794"
     % Things that change per piece:
     final = "g"
     flats = 0
@@ -86,3 +87,4 @@
         }
     }   
 }
+

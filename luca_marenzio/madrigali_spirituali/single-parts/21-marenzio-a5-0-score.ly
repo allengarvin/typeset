@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "13f8aa512dc941f0d81d755904171d699be39da0"
     % Things that change per piece:
     title = "Dal dì ch'io presi il corso"
     subtitle = "Settima e ultima parte"
@@ -107,3 +108,4 @@
         }
     }
 }
+

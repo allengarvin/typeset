@@ -26,6 +26,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "6aefb1dbc9c4e0c528133ad2cb75d803a8f2af49"
     composer = "Giovanni Gabrieli (c.1547-1612)"
     tagline = #'f
 }
@@ -118,3 +119,4 @@
         }
     }
 }
+

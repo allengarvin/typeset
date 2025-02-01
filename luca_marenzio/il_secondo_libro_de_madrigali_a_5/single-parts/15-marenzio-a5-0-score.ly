@@ -24,6 +24,7 @@
     shorttitle = "i_piango"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "cd8e637e5a23136a97a6713a03b1004662186931"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "b5c41b21b727a6c5a78723d4bf0f3c0aa5d193d3"
     % Things that change per piece:
     title = "Basciami mille volte"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

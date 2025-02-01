@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "en_attendant_la_grace"
     \include "include/distribution-header.ly"
+    cksum = "f33afb097f796cdda48edad1ae9642067bcfa7bc"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

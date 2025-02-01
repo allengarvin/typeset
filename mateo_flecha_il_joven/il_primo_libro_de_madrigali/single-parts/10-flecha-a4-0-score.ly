@@ -24,6 +24,7 @@
     shorttitle = "vago_augelleto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "bf00dca8c80a69b4f603c32d981e5dae55483830"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

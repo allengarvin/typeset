@@ -12,6 +12,7 @@
     lastupdated = "2022-09-22"
     originallyset = "2022-09-22"
     \include "include/distribution-header.ly"
+    cksum = "4b337a6390ca4d2c775e6cea3c312a108cdfc8c1"
     % Things that change per piece:
     title = "Lidia, ti lasso, ahi lasso"
     subtitle = "Terza parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

@@ -26,6 +26,7 @@
     categories = "[madrigal]"
     motifs = "[sighing]"
     \include "include/distribution-header.ly"
+    cksum = "36b8b60b50fe8a096b78008aee8748f94de12dd8"
     tagline = #'f
     composer = "Adrian Willaert (c.1490-1562)"
 }
@@ -114,3 +115,4 @@
         }
     }
 }
+

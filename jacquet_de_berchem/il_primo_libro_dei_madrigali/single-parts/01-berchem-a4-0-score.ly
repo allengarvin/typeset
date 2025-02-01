@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "a11b06c2220c25f98fa4bcd332e718ca334976c8"
     % Things that change per piece:
     title = "A qualunque animale alberga in terra"
     subtitle = "Prima stanza"
@@ -104,3 +105,4 @@
         }
     }
 }
+

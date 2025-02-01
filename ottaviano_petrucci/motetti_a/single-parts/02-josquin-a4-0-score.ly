@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "ave_maria_virgo_serena"
     \include "include/distribution-header.ly"
+    cksum = "a5d5c04e524dd09227171c87c46a5ab48b74ee03"
     tagline = #'f
 }
 
@@ -76,4 +77,5 @@
         }
     }   
 }
+
 

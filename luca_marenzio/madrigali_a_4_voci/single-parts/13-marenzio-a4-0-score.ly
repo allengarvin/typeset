@@ -19,6 +19,7 @@
     shorttitle = "madonna_sua_merce"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8b3a204cef6798e8402b407928e0a648463d8c37"
     language = "italian"
     tagline = #'f
 }
@@ -90,4 +91,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d762a06b5922cf789b8d57216e8d0181cd18426d"
     % Things that change per piece:
     title = "Sì che, s'io vissi in guerra"
     subtitle = "Seconda parte"
@@ -114,3 +115,4 @@
         }
     }
 }
+

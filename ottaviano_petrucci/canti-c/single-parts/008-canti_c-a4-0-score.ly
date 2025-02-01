@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "o_venus_bant"
     \include "include/distribution-header.ly"
+    cksum = "55c220c5d7167829ee323cb8117da0ae575606af"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

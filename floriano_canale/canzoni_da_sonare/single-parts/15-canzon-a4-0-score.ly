@@ -23,6 +23,7 @@
     shorttitle = "la_averolda"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "584a88c6742e6355909a6c1c7fb844cc40ce048b"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

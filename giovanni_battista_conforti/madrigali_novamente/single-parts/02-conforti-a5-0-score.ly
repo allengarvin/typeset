@@ -12,6 +12,7 @@
     lastupdated = "2023-01-29"
     originallyset = "2023-01-29"
     \include "include/distribution-header.ly"
+    cksum = "e25d49be4261b01fe23ca2f4bace91d7fae72394"
     % Things that change per piece:
     title = "Almen per ch'io non mora"
     subtitle = "Seconda parte"
@@ -107,3 +108,4 @@
         }
     }
 }
+

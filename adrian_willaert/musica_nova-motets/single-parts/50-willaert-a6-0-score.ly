@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "pungentem_capiti_dominum"
     \include "include/distribution-header.ly"
+    cksum = "c04e5c8cdfbd81ccf59280774c0fb695d56a9365"
     tagline = #'f
 }
 
@@ -91,4 +92,5 @@
         }
     }
 }
+
 

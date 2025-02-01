@@ -23,6 +23,7 @@
     shorttitle = "non_fia_ch_io_tema"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "5e553dacfdf8f09c7160233c9206c053e0bdffdd"
     tagline = #'f
 }
 
@@ -80,4 +81,5 @@
         }
     }
 }
+
 

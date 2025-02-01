@@ -25,6 +25,7 @@
     categories = "[madrigal,animal]"
     motifs = "[phoenix,marriage,amore]"
     \include "include/distribution-header.ly"
+    cksum = "946bb197ef9ad01c1c8806f1580cbb0a07c78c56"
     tagline = #'f
 }
 
@@ -130,3 +131,4 @@
         }
     }
 }
+

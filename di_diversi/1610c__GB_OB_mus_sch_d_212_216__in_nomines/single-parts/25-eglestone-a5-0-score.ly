@@ -26,6 +26,7 @@
     lastupdated = "2022-09-08"
     originallyset = "2022-09-08"
     \include "include/distribution-header.ly"
+    cksum = "24ef1858e6d4bfb3578dfe567943056dd8bb4950"
     composer = "John Eglestone (fl. late 16c)" 
     tagline = #'f
 }
@@ -86,3 +87,4 @@
         }
     }   
 }
+

@@ -27,6 +27,7 @@
     categories = "[madrigal,animal,favorite]"
     motifs = "[bird,birdsong,breeze,harmony,song]"
     \include "include/distribution-header.ly"
+    cksum = "2b2347ef9c49dae564077f2f274e19d15785927c"
     tagline = #'f
 }
 
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

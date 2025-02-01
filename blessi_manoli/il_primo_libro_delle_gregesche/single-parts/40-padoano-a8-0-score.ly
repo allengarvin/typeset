@@ -27,6 +27,7 @@
     categories = "[madrigal,dialogo]"
     motifs = "[nightingale,bird]"
     \include "include/distribution-header.ly"
+    cksum = "e0e36507f60d2ceb956055bfeeedfbb5f6612a71"
     tagline = #'f
 }
 
@@ -141,4 +142,5 @@
         }
     }
 }
+
 

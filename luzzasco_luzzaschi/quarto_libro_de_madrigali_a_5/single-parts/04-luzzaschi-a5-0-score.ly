@@ -12,6 +12,7 @@
     lastupdated = "2022-11-10"
     originallyset = "2022-11-10"
     \include "include/distribution-header.ly"
+    cksum = "8a82665b0e487ace49da044ab68ea7604ef2a769"
     % Things that change per piece:
     title = "Mentre la notte al suo bel manto il lembo"
     subtitle = ""
@@ -117,3 +118,4 @@
         }
     }
 }
+

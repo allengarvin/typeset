@@ -12,6 +12,7 @@
     lastupdated = "2022-11-12"
     originallyset = "2022-11-12"
     \include "include/distribution-header.ly"
+    cksum = "8a4ec7dcd160099d6e99fbd8298664584884450b"
     % Things that change per piece:
     title = "Help Lord, for wasted are those men"
     subtitle = ""
@@ -160,3 +161,4 @@
         }
     }
 }
+

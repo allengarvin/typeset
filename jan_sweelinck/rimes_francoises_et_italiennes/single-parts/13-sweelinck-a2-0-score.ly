@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "bdd8d58120bae54ec124dcd65c1e115aa8ac1cb1"
     % Things that change per piece:
     title = "Liquide perle"
     subtitle = ""
@@ -95,3 +96,4 @@
     }
 
 }
+

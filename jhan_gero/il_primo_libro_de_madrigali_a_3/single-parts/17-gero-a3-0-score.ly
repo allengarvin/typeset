@@ -24,6 +24,7 @@
     shorttitle = "o_felice_pensier"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c4476cfb78f3e342a83a756f2cff6f75d66c11e8"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

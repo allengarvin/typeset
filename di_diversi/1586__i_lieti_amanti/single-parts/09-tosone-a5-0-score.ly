@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "941bd9df1aa40a1cdef8a87e6b6b4e35e038f4be"
     % Things that change per piece:
     title = "Press' una verde riva"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

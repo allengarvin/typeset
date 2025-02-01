@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "surgam_et_circuibo_civitatem"
     \include "include/distribution-header.ly"
+    cksum = "4ae6bc7c7dc09e94ee29a5098af2cfb8d501f4a4"
     tagline = #'f
 }
 
@@ -104,3 +105,4 @@
         }
     }
 }
+

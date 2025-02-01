@@ -12,6 +12,7 @@
     lastupdated = "2022-09-16"
     originallyset = "2022-09-16"
     \include "include/distribution-header.ly"
+    cksum = "f57fd60cede3739cd413b62dee9f6ccbb16d70dc"
     % Things that change per piece:
     title = "La Zoppa"
     subtitle = "Symfonia alliegra"
@@ -81,3 +82,4 @@
         }
     }   
 }
+

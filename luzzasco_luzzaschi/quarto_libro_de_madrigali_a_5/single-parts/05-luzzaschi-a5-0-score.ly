@@ -12,6 +12,7 @@
     lastupdated = "2022-11-10"
     originallyset = "2022-11-10"
     \include "include/distribution-header.ly"
+    cksum = "e413268033d30f3d10825b2b53f1f973987fcae5"
     % Things that change per piece:
     title = "Io veggio pur pietate"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

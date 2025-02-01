@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "c3437f601f067d613efdac1ccc300d6a3bd39392"
     % Things that change per piece:
     composer = "Giaches de Wert (1535-1596)"
     title = "Vergine e madre"
@@ -107,3 +108,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "e651f7f2dbacfabeb83e418b15608d051c39fd56"
     % Things that change per piece:
     title = "Quel lauro, che fu in me già"
     subtitle = ""
@@ -203,3 +204,4 @@
         }
     }
 }
+

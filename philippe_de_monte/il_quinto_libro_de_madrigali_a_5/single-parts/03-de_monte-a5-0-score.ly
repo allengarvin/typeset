@@ -24,6 +24,7 @@
     shorttitle = "giunto_ma_amor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3de2ef65f66de42158a5e853075d255691d75479"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "5eb6b6cca598f160c25000834371e5c8006f4cd7"
     % Things that change per piece:
     title = "Dilexi, quoniam exaudiet Dominus"
     subtitle = "Prima pars"
@@ -106,3 +107,4 @@
         }
     }
 }
+

@@ -20,6 +20,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f27785f46f89732a86e6a0f38abc9199b0ed2d9d"
     language = "instrumental"
     originally_set = "2019-10-04"
     tagline = #'f
@@ -102,3 +103,4 @@
         }
     }   
 }
+

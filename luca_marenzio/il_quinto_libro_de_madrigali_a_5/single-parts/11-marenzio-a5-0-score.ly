@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "eff98e46df390a621f220ad80f489b1625f3f5de"
     % Things that change per piece:
     title = "Ben puote ella sparire"
     subtitle = "Seconda parte"
@@ -110,3 +111,4 @@
         }
     }
 }
+

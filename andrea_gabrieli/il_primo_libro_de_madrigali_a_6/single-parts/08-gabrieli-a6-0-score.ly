@@ -24,6 +24,7 @@
     categories = "[madrigal,morte]"
     motifs = "[moth,moth-to-a-flame]"
     \include "include/distribution-header.ly"
+    cksum = "a96ee17636722525c08b7ef1646d2623a30752ce"
     tagline = #'f
 }
 
@@ -117,3 +118,4 @@
         }
     }
 }
+

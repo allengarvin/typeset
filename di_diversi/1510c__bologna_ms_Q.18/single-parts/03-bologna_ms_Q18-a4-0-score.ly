@@ -24,6 +24,7 @@
     final = "e"
     shorttitle = "speciosa"
     \include "include/distribution-header.ly"
+    cksum = "ccc18717b71a64d735c3cb45983b1530d2859548"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

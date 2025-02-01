@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "5d86fb601e3167c9084471b856ea11a229d1ba8f"
     % Things that change per piece:
     title = "Per far una leggiadra sua vendetta"
     subtitle = ""
@@ -133,3 +134,4 @@
         }
     }
 }
+

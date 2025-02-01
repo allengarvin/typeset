@@ -12,6 +12,7 @@
     lastupdated = "2022-11-07"
     originallyset = "2022-11-07"
     \include "include/distribution-header.ly"
+    cksum = "492de32c61108e04a64cd0171e5eee076b45f741"
     % Things that change per piece:
     title = "Parte il corpo da voi"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

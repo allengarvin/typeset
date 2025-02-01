@@ -12,6 +12,7 @@
     lastupdated = "2023-01-31"
     originallyset = "2023-01-31"
     \include "include/distribution-header.ly"
+    cksum = "afb3a0cad6ee3125cc3607947cfc3d114b82f178"
     % Things that change per piece:
     title = "Chi vi mira Renea"
     subtitle = ""
@@ -107,3 +108,4 @@
         }
     }
 }
+

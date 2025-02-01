@@ -25,6 +25,7 @@
     shorttitle = "chi_fara_fede_al_cielo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "b638e958dd37ad3ea8ffdbfaf7320ae9856d86d7"
     tagline = #'f
 }
 
@@ -96,4 +97,5 @@
         }
     }
 }
+
 

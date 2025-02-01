@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "sonata_3"
     \include "include/distribution-header.ly"
+    cksum = "458c8c160e721dde4465480440eeb686038fb2c8"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         }
     }   
 }
+
 

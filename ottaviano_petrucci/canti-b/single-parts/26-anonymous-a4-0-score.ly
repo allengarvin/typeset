@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "una_moza_falle_yo"
     \include "include/distribution-header.ly"
+    cksum = "2c051b7e316cfb4d746c9e0ffe34edd33e57beb7"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

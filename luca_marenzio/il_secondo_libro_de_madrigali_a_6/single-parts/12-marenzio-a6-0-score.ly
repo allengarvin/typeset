@@ -25,6 +25,7 @@
     shorttitle = "cantai_gia_lieto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "dd261a8d545b5cc1bda1cbbae9932ead1a65e181"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

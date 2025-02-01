@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "virgo_celesti"
     \include "include/distribution-header.ly"
+    cksum = "4fa24373f677e63145b0461e4ca5a74eb3fe4ff2"
     tagline = #'f
 }
 
@@ -82,4 +83,5 @@
 
     }   
 }
+
 

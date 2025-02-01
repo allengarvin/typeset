@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "57006ab14b380bd018348e0f4e8362bcec04d7fe"
     % Things that change per piece:
     title = "Come al partir del sol"
     subtitle = ""
@@ -127,4 +128,5 @@
 
 %canto 45, ottava 36
 %Ruggiero replaced
+
 

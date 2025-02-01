@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "joy_joy_doth_so_arise"
     \include "include/distribution-header.ly"
+    cksum = "fc315451a0487c1146b06e79702d72ec14c801b5"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

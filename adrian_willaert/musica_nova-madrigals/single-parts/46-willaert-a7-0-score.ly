@@ -25,6 +25,7 @@
     shorttitle = "occhi_piangete"
     categories = "[madrigal,dialogo]"
     \include "include/distribution-header.ly"
+    cksum = "c4a1a58a4b1f4c05b4be6afcc46159d58b6c7728"
     tagline = #'f
 }
 
@@ -151,3 +152,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "5f45c99e760bace1a44056c1f35cc1851f71473f"
     % Things that change per piece:
     title = "All'ultimo bisogno"
     subtitle = "Quinta parte"
@@ -114,3 +115,4 @@
         }
     }
 }
+

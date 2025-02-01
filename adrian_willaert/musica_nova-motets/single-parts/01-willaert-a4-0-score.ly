@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "domine_quid_multiplicati_sunt"
     \include "include/distribution-header.ly"
+    cksum = "e602ef11edbf0db4ab527dce6c011b28d85a5b63"
     tagline = #'f
 }
 
@@ -97,3 +98,4 @@
         }
     }
 }
+

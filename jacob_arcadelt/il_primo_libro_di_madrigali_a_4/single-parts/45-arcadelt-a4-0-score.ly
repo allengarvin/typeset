@@ -23,6 +23,7 @@
     shorttitle = "o_felici_occhi_miei"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c415a24f81e2ae2a36722fec7c14fcba2b91b767"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

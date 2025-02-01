@@ -25,6 +25,7 @@
     shorttitle = "alla_battaglia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "fe3dc40eaf1f3ce80426ac5e750df8c11b0b84d9"
     tagline = #'f
 }
 
@@ -128,4 +129,5 @@
         }
     }
 }
+
 

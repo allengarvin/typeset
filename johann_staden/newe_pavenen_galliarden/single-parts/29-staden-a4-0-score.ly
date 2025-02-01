@@ -22,6 +22,7 @@
     shorttitle = "canzon_prima_toni"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "f408b401ee7b0f5cfb75e63c8604cc9987870b94"
     tagline = #'f
 }
 
@@ -72,4 +73,5 @@
         }
     }   
 }
+
 

@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "en_amours_que_cognoist"
     \include "include/distribution-header.ly"
+    cksum = "63237005b623142a3ab69e75c727ff3ef0df8767"
     tagline = #'f
 }
 
@@ -69,3 +70,4 @@
         }
     }   
 }
+

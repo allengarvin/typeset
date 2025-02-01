@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "d201efa8c659b0d21aa0d238bcd8561a0b789d67"
     % Things that change per piece:
     title = "Sotto due negri e sottilissimi archi"
     rhyme = "ABABABCC"
@@ -110,3 +111,4 @@
         }
     }
 }
+

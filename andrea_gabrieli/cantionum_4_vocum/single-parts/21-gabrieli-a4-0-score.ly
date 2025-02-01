@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "oravit_sanctus_andreas"
     \include "include/distribution-header.ly"
+    cksum = "0b672bbe64862d82669bacd9126b4b93f4df768c"
     tagline = #'f
 }
 
@@ -99,3 +100,4 @@
         }
     }
 }
+

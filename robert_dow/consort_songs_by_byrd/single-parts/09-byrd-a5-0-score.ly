@@ -21,6 +21,7 @@
     lastupdated = "2013-04-17"
     shorttitle = "who_likes_to_love"
     \include "include/distribution-header.ly"
+    cksum = "ce463c23b206a93a8a71b71cbc3c273a4d90c1b5"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }   
 }
+
 

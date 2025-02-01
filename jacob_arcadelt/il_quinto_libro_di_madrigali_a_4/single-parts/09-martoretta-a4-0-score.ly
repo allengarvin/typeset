@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "0f4e1ddb5c2f1e53ffdf7e1bdf5cad9bf50679c9"
     % Things that change per piece:
     title = "O fortunato augello"
     subtitle = ""
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

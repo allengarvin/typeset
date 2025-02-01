@@ -23,6 +23,7 @@
     lastupdated = "2018-10-14"
     shorttitle = "anchore_colparttire"
     \include "include/distribution-header.ly"
+    cksum = "4add470e22c32a94fc16a20bc66298e53347b31e"
     tagline = #'f
 }
 
@@ -57,3 +58,4 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+

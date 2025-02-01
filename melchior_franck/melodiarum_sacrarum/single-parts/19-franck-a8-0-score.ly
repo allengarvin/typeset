@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "09dfd6e62ac600b090974a49dd1564e1f830cce2"
     % Things that change per piece:
     title = "Factum est silentium"
     subtitle = ""
@@ -148,3 +149,4 @@
         }
     }
 }
+

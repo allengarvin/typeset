@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "jusqua_rascon"
     \include "include/distribution-header.ly"
+    cksum = "664bacfb260fe1bb1bb0b33c86ba979bd3b61a01"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

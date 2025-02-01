@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "plaine_de_dueil"
     \include "include/distribution-header.ly"
+    cksum = "239fbfcd55c9c0af75b76c5537badd7733c19802"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

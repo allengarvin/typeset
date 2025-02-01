@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "114018fcb631f29b39d8f1ca417b42ee8c71ab98"
     % Things that change per piece:
     title = "Ed io più allor felice Africa"
     subtitle = "Seconda parte"
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

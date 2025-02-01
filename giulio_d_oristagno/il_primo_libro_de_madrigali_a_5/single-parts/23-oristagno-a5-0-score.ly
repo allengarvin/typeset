@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "35974031ddeac87bd9206f2f14ebcffd27106653"
     % Things that change per piece:
     title = "La dura aspra catena"
     subtitle = "Airo sopra il Pass'e mezo"
@@ -113,3 +114,4 @@
         }
     }
 }
+

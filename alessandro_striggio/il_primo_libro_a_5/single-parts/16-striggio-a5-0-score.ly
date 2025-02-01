@@ -23,6 +23,7 @@
     shorttitle = "pensai_lasso"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "30d913578abcc205f68ee22b32bab4d6c8f9d628"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

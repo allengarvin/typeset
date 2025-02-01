@@ -26,6 +26,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "eedb4ee9abb5ba27d6618e3bfb2a48f4ee2d50b1"
     composer = "John Farmer (c.1570-1605)"
     tagline = #'f
 }
@@ -101,3 +102,4 @@
         }
     }
 }
+

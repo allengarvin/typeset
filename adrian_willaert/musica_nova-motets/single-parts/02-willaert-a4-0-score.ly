@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "ego_dormivi_et_soporatus_sum"
     \include "include/distribution-header.ly"
+    cksum = "4a5d7ba16050dde1ca39c36e2b3231f990b9bb0d"
     tagline = #'f
 }
 
@@ -96,3 +97,4 @@
         }
     }
 }
+

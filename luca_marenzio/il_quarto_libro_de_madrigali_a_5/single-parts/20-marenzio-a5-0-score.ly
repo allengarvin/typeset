@@ -12,6 +12,7 @@
     lastupdated = "2023-01-04"
     originallyset = "2023-01-04"
     \include "include/distribution-header.ly"
+    cksum = "336ee37d3c092ba6d83ff3c52bdd2629b6016505"
     % Things that change per piece:
     title = "Cadde già di Tarquinio"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

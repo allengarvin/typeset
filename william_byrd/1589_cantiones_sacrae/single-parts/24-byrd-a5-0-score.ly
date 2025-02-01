@@ -12,6 +12,7 @@
     lastupdated = "2022-12-01"
     originallyset = "2022-12-01"
     \include "include/distribution-header.ly"
+    cksum = "3a8df53af0fda10f05dafc7eff8533e65fca3b5f"
     % Things that change per piece:
     title = "Tribulationes civitatum"
     subtitle = ""
@@ -122,3 +123,4 @@
         }
     }
 }
+

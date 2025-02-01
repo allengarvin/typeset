@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "upon_a_summers_day"
     \include "include/distribution-header.ly"
+    cksum = "1b058f36c31f229960118e83ad7eb008f1efb934"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

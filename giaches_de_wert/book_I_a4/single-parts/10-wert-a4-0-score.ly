@@ -29,6 +29,7 @@
     shorttitle = "se_tu_m_occidi"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "18477be0ea81c4879df0009c1636bb88ba737026"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

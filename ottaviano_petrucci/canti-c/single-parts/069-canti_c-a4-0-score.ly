@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "la_tourturella"
     \include "include/distribution-header.ly"
+    cksum = "fb1037e3b6d3299797dc4f74e763ca5a6cba0315"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

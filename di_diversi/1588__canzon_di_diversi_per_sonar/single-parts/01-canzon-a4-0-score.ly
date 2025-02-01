@@ -25,6 +25,7 @@
     final = "g"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "62a8035ba24b8e9750401161efbf4ed025246292"
     tagline = #'f
 }
 
@@ -76,3 +77,4 @@
     }   
     \markup { Bars 31-35 in the tenor use Anton Höger's lute arrangement solution to a puzzling mistake in the original. }
 }
+

@@ -25,6 +25,7 @@
     shorttitle = "alma_se_stata_fossi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "1b08dd810b3cef7a48dc71de5de2b113b0461576"
     tagline = #'f
 }
 
@@ -131,4 +132,5 @@
         }
     }
 }
+
 

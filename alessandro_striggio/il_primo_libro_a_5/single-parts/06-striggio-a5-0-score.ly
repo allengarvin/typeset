@@ -23,6 +23,7 @@
     shorttitle = "caro_dolce_ben_mio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3bfcfe88229cbd13948a2a225be6303bfb2d9387"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

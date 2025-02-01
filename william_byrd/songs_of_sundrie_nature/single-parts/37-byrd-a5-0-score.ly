@@ -12,6 +12,7 @@
     lastupdated = "2022-11-05"
     originallyset = "2022-11-05"
     \include "include/distribution-header.ly"
+    cksum = "97fada605596fdfd5fe49a872c6e86d6cb20a71c"
     % Things that change per piece:
     title = "Her breath is more sweet"
     subtitle = "The second part"
@@ -102,3 +103,4 @@
         }
     }
 }
+

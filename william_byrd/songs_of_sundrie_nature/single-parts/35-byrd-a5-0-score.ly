@@ -12,6 +12,7 @@
     lastupdated = "2022-11-15"
     originallyset = "2022-11-15"
     \include "include/distribution-header.ly"
+    cksum = "17c6f9ab3acc4c18c840193450f1c3df5a9e23f0"
     % Things that change per piece:
     title = "From Virgin's womb this day"
     subtitle = "A carol for Christmas day"
@@ -122,3 +123,4 @@
         }
     }
 }
+

@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "ach_ainigs_ain"
     \include "include/distribution-header.ly"
+    cksum = "e7ed1180c42ba9c6a0157ff0be8b4692f617cf69"
     tagline = #'f
 }
 
@@ -74,3 +75,4 @@
         }
     }   
 }
+

@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "laudem_dicite_deo_nostro"
     \include "include/distribution-header.ly"
+    cksum = "89fa9d0dbde32df0c86b3ca6abf8b5e93d391caa"
     tagline = #'f
 }
 
@@ -103,3 +104,4 @@
         }
     }
 }
+

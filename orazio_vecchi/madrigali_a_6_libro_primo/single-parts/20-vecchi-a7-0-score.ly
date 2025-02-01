@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "6e48baf0fd96f094f16b3e31cf95f966de5ee0ca"
     % Things that change per piece:
     title = "Un'altro volta"
     subtitle = "Seconda parte delle ore di ricreazione"
@@ -182,3 +183,4 @@
         }
     }
 }
+

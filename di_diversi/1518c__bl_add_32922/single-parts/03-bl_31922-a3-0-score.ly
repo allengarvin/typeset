@@ -25,6 +25,7 @@
     final = "a"
     shorttitle = "tandernaken"
     \include "include/distribution-header.ly"
+    cksum = "76c5caea971716a63feca88665d38899eb6c3c5f"
     tagline = #'f
 }
 
@@ -69,4 +70,5 @@
 
     }   
 }
+
 

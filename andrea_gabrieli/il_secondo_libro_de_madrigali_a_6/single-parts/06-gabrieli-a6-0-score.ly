@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "5ea222ff61aba25a81a3479c4b46f274430b78ea"
     % Things that change per piece:
     title = "Se tu m'ami"
     subtitle = ""
@@ -125,3 +126,4 @@
         }
     }
 }
+

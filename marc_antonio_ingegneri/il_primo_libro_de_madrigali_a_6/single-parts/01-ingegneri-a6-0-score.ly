@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "7a671666cb5b12ddc82954e4255a461b659ffd0c"
     % Things that change per piece:
     title = "Almo signor ch'ai più canori Cigni"
     subtitle = ""
@@ -130,5 +131,6 @@
         }
     }
 }
+
 
 

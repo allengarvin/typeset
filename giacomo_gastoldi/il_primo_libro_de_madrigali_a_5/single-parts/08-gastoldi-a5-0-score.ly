@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "2261e7088e25f9a486783efdcd3db2383c8ab1f0"
     % Things that change per piece:
     title = "Dolce animetta mia"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

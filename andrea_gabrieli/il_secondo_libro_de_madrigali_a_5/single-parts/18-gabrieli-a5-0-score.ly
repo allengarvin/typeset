@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "8db5b27c1d481fc5d7cf6ec43962a2d49990aeae"
     % Things that change per piece:
     title = "Non vedi o sacr'Apollo"
     subtitle = ""
@@ -137,3 +138,4 @@
         }
     }
 }
+

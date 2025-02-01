@@ -26,6 +26,7 @@
     shorttitle = "amur_se_mi_tel_dao"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "126f0bf9c0b85106eae16c24b1c5e965ba07442f"
     tagline = #'f
 }
 
@@ -96,3 +97,4 @@
         }
     }
 }
+

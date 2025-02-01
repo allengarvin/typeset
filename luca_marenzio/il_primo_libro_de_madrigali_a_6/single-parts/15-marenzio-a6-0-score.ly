@@ -24,6 +24,7 @@
     shorttitle = "non_e_questa_la_mano"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "be8123fcb5c84f8a58717da2c756dc8398d03606"
     tagline = #'f
 }
 
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

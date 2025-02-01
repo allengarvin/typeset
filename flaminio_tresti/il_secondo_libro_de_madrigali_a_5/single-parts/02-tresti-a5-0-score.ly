@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "03d4a5df7b0809d2ba60f3bd3fa1cf097f33bd0f"
     % Things that change per piece:
     title = "Dicea Filli ad Aminta"
     subtitle = ""
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

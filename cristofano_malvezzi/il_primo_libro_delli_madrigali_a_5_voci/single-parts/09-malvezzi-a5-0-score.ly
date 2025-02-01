@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "0e09c27fbea71f65a3604142aee239866205decd"
     % Things that change per piece:
     title = "Crudele, acerba, inesorabil morte"
     subtitle = "Seconda parte"
@@ -115,3 +116,4 @@
         }
     }
 }
+

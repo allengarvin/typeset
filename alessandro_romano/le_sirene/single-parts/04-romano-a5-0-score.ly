@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "db948944f5d5c43d963ffec350baf78ed0c91418"
     % Things that change per piece:
     title = "Di ch'ella mossa"
     subtitle = "Seconda parte"
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

@@ -26,6 +26,7 @@
     final = "g"
     categories = "[polychoral,christmas]"
     \include "include/distribution-header.ly"
+    cksum = "8de1e1ff91c9f0d18d98943667d22de88b2f0950"
     tagline = #'f
 }
 
@@ -144,3 +145,4 @@
         }
     }
 }
+

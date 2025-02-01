@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "beatus_homo"
     \include "include/distribution-header.ly"
+    cksum = "9469a8c1903ae3a03402a2b417bcf1d6926383ec"
     tagline = #'f
 }
 
@@ -81,4 +82,5 @@
 
 
 }
+
 

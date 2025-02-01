@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "fb5bc8107f440233fb45343638ee72ad8b108c28"
     % Things that change per piece:
     title = "Per la dolce cagion"
     subtitle = "Seconda parte"
@@ -117,5 +118,6 @@
         }
     }
 }
+
 
 

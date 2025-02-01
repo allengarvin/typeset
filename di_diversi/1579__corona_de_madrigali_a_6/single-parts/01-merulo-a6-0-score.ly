@@ -26,6 +26,7 @@
     categories = "[madrigal]"
     motifs = "[unrequited-love,male-pov,flame,ice,paradox]"
     \include "include/distribution-header.ly"
+    cksum = "7e1222bc9525c6c5f10ec8305889407f02921312"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

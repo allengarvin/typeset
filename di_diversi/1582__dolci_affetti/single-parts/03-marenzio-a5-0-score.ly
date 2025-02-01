@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f41392d16631fd4893b68fca3d9f00b738b16a95"
     % Things that change per piece:
     title = "Or pien d'alto desio"
     subtitle = "Terza parte"
@@ -126,3 +127,4 @@
         }
     }
 }
+

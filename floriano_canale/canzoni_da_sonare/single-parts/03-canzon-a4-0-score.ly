@@ -23,6 +23,7 @@
     shorttitle = "la_maggia"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "5d315623c0db2cbff3ef691336e8291bf0ba470a"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "809007a18a62c15b949a8bf37561d93ebb01a596"
     % Things that change per piece:
     title = "Cresci, pianta novella"
     subtitle = ""
@@ -126,3 +127,4 @@
         }
     }
 }
+

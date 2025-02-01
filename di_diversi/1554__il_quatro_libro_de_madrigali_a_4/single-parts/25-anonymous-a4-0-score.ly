@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "27987b595dba05d0784d8444a98c400698a7b64d"
     % Things that change per piece:
     title = "Dunque fia ver (ahimè) che mi convegna"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

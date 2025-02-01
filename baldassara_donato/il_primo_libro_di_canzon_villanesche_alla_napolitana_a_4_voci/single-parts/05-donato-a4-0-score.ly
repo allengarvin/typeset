@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "se_sai_chio_tamo"
     \include "include/distribution-header.ly"
+    cksum = "4d127a6befe50a40d6edf47e89e03f41feb0e679"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
         }
     }
 }
+
 

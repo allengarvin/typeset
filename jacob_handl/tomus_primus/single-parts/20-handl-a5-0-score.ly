@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "canite_tuba_in_sion"
     \include "include/distribution-header.ly"
+    cksum = "90ca5caef3794c2e249c4c8688a21f759ef1065e"
     tagline = #'f
 }
 
@@ -89,4 +90,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f7f95960fd6623a7b921732d3d354540e0fa25f6"
     % Things that change per piece:
     title = "Bascia e ribascia e sugge"
     subtitle = ""
@@ -129,4 +130,5 @@
         }
     }
 }
+
 

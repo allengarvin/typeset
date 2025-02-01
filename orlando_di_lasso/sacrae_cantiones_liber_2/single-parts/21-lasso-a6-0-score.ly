@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "exaltabo_te_deus_meus"
     \include "include/distribution-header.ly"
+    cksum = "0e2a1b100513a99eb0f44c800952af81d1242061"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2022-11-11"
     originallyset = "2022-11-11"
     \include "include/distribution-header.ly"
+    cksum = "222ea8ff9cffa2c18bb882f839b7ec0173adf6b8"
     % Things that change per piece:
     title = "O you that hear this voice"
     subtitle = ""
@@ -160,3 +161,4 @@
         }
     }
 }
+

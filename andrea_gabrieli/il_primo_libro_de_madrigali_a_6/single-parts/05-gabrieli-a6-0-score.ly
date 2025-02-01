@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "7b90ce42c6ce18e1a95852b4952c1f03fb1a6439"
     % Things that change per piece:
     title = "Non mi pesa, mio bene"
     subtitle = ""
@@ -125,3 +126,4 @@
         }
     }
 }
+

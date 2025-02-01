@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "whether_away_so_fast"
     \include "include/distribution-header.ly"
+    cksum = "6a41032a8dd85a8a71c0adf4a25277e53ec450db"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

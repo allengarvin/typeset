@@ -12,6 +12,7 @@
     lastupdated = "2022-09-23"
     originallyset = "2022-09-23"
     \include "include/distribution-header.ly"
+    cksum = "15b009076f1315873d419e45839ed921895e8657"
     % Things that change per piece:
     title = "Love cannot dissemble"
     subtitle = ""
@@ -63,3 +64,4 @@
         }
     }   
 }
+

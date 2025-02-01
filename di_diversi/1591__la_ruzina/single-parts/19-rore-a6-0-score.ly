@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "13b3f0d3e7a654bc91e0348b8cfc599593cb53d8"
     % Things that change per piece:
     title = "S'eguale a la mia voglia"
     subtitle = ""
@@ -161,3 +162,4 @@
     }
 }
     
+

@@ -27,6 +27,7 @@
     shorttitle = "o_troppo_cara"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "f37c4864b307e2b2de5965cbf0ead10ec67732aa"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "allons_allons_gay"
     \include "include/distribution-header.ly"
+    cksum = "7be961e219e4fda82a1ec3e635217f2e5e4ca951"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

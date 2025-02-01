@@ -12,6 +12,7 @@
     lastupdated = "2022-09-20"
     originallyset = "2022-09-20"
     \include "include/distribution-header.ly"
+    cksum = "cbf1d297afc905758cf8c0f71cedfc1062c677cb"
     % Things that change per piece:
     title = "O gradite o sprezzate"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

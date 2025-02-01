@@ -25,6 +25,7 @@
     shorttitle = "giovane_illustre"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "d3337a941f3d04fc80979c1e75e6c183b4e74570"
     tagline = #'f
 }
 
@@ -99,4 +100,5 @@
         }
     }
 }
+
 

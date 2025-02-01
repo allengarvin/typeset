@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "o_souverain_pasteur_et_maistre"
     \include "include/distribution-header.ly"
+    cksum = "ff11d79663974600544d7968689ae58513ffdc10"
     tagline = #'f
 }
 
@@ -104,3 +105,4 @@
         }
     }
 }
+

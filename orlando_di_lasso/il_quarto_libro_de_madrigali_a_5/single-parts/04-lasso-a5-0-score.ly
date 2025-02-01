@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "92072f26bc481ec279d5aac8f3895ba12fd06830"
     % Things that change per piece:
     title = "Uomini, e Dei solea vincer"
     subtitle = "Quarta parte"
@@ -114,3 +115,4 @@
         }
     }
 }
+

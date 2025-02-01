@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "86a1ef0f1a6ed5c94805514b758f53fd21a3cb76"
     % Things that change per piece:
     title = "Per farmi Amor"
     subtitle = "Prima parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

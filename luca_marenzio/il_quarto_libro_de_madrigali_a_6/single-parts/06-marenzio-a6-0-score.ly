@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "103e957031115298a51c92631c132031ca901e6e"
     % Things that change per piece:
     title = "Tra l'erbe a piè d'un mirto"
     subtitle = "Prima parte"
@@ -127,3 +128,4 @@
         }
     }
 }
+

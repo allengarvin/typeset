@@ -25,6 +25,7 @@
     shorttitle = "deggio_dunque"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "cd3858a6af09965b98024879f54397234add50ad"
     tagline = #'f
 }
 
@@ -112,4 +113,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-09"
     originallyset = "2023-01-09"
     \include "include/distribution-header.ly"
+    cksum = "c3f5ed0f96871a2d751e1b49be7cf79653125dfb"
     % Things that change per piece:
     title = "Consumando mi vo"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "solus_igitur_deus"
     \include "include/distribution-header.ly"
+    cksum = "52be3e2efb381aec2797aaccea568dfbdf4e1617"
     tagline = #'f
 }
 
@@ -93,3 +94,4 @@
     }
 
 }
+

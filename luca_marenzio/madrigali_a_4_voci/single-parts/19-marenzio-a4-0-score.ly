@@ -19,6 +19,7 @@
     shorttitle = "i_lieti_amanti"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "0697a1794332fa344d437fc1859968a969d9dc79"
     language = "italian"
     tagline = #'f
 }
@@ -84,4 +85,5 @@
         }
     }
 }
+
 

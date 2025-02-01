@@ -15,6 +15,7 @@
     final = "a"
     motifs = "[phoenix,amore]"
     \include "include/distribution-header.ly"
+    cksum = "506a6fcd2e4a339b4648d001a6ec61e5d6b7bef2"
     % Things that change per piece:
     title = "Udite amanti"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

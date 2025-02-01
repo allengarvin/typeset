@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "de_tous_biens_plaine"
     \include "include/distribution-header.ly"
+    cksum = "89814a102a23d08db0bf8eed731f62814dd835ca"
     tagline = #'f
 }
 
@@ -67,3 +68,4 @@
         }
     }   
 }
+

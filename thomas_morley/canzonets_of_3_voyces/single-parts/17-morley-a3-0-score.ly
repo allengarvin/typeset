@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "where_art_thou"
     \include "include/distribution-header.ly"
+    cksum = "b86d845cd57a97b81417cd9a0956e86fb47ff295"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

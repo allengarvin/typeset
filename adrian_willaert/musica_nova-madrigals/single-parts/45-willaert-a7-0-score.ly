@@ -26,6 +26,7 @@
     shorttitle = "che_fai_alma"
     categories = "[madrigal,dialogo]"
     \include "include/distribution-header.ly"
+    cksum = "d3ed697a154b5e458e999a0fd977815f9ccf2131"
     tagline = #'f
 }
 
@@ -150,4 +151,5 @@
         }
     }
 }
+
 

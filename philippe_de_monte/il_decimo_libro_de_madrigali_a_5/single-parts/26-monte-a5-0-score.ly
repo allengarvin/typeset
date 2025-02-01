@@ -24,6 +24,7 @@
     shorttitle = "e_perche_io_torni"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "63af3a5ae7fa23537fc2f25a63287c0fb9dd5b8e"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

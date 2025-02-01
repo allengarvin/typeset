@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "4fbd1606ce02ecc32f5477f05ffc96760a8a3d50"
     % Things that change per piece:
     title = "La pastorella mia"
     subtitle = ""
@@ -117,5 +118,6 @@
         }
     }
 }
+
 
 

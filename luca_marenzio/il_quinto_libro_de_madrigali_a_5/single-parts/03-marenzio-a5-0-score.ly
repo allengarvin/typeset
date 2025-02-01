@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "9a9853860cf3346888c8bb474527fb297f93ba65"
     % Things that change per piece:
     title = "Quand'io ripenso"
     subtitle = "Terza parte"
@@ -108,3 +109,4 @@
         }
     }
 }
+

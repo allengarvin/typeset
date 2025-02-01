@@ -23,6 +23,7 @@
     shorttitle = "da_lestremo_orizzonte"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8894f4cd1bb5f3566dde6dbf9e7e1abe2f7474d9"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

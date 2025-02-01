@@ -24,6 +24,7 @@
     shorttitle = "saranda_volde"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "70d75f30a8f200c855cd0a08fc9c35a165dd8b76"
     tagline = #'f
 }
 
@@ -80,4 +81,5 @@
         }
     }   
 }
+
 

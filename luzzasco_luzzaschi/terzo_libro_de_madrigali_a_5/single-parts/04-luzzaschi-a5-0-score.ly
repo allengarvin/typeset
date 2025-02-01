@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "58aacce2a3b4d562ec36cb618f79ffdb7c4b0fa9"
     % Things that change per piece:
     title = "Arsi già solo"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

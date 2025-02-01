@@ -12,6 +12,7 @@
     lastupdated = "2022-12-04"
     originallyset = "2022-12-04"
     \include "include/distribution-header.ly"
+    cksum = "7879ba474c3f58ce2f803d59d0300c9a4a52e644"
     % Things that change per piece:
     title = "Ecco che mille augei"
     subtitle = "Seconda parte"
@@ -111,3 +112,4 @@
         }
     }
 }
+

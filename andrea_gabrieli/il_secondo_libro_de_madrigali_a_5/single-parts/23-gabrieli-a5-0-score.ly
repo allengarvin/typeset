@@ -25,6 +25,7 @@
     shorttitle = "o_donesta_belta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "6fb728cf4ef418e11404ad73b74ced94a613ce98"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

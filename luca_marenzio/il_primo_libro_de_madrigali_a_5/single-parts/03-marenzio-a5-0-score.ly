@@ -26,6 +26,7 @@
     rhyme = "ABBAABBA"
     motifs = "[pastoral,flowers,spring]"
     \include "include/distribution-header.ly"
+    cksum = "df06e457c568059c70ee7b690529092269ef4d90"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

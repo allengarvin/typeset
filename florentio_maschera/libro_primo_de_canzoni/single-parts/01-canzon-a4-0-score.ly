@@ -25,6 +25,7 @@
     shorttitle = "la_capriola"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "e27759f03d7b11e22c02fb1a37283433eabcb2c2"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

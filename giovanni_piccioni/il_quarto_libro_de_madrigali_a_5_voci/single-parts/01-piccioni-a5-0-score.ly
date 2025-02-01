@@ -12,6 +12,7 @@
     lastupdated = "2023-05-21"
     originallyset = "2023-05-21"
     \include "include/distribution-header.ly"
+    cksum = "de8d0793842923b50eb2798b23d9103e94c8e6ca"
     % Things that change per piece:
     title = "Volesti dir, Amore"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

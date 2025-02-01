@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "aupres_de_vous"
     \include "include/distribution-header.ly"
+    cksum = "e12f83cba698246167dc34d5bda0dc06c74d8a69"
     tagline = #'f
 }
 
@@ -80,3 +81,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "6b098acf3d0bbc4f5d008b08d6f32383be7c44bb"
     % Things that change per piece:
     title = "La rete fu di queste fila d'oro"
     subtitle = "Prima parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

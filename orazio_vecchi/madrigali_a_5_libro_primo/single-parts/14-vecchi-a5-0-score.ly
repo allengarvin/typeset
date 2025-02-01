@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "97708a2023fdce74b96f642c5d43cea154dbe480"
     % Things that change per piece:
     title = "Udisti al centro mai stridi"
     subtitle = "Seconda parte"
@@ -117,5 +118,6 @@
         }
     }
 }
+
 
 

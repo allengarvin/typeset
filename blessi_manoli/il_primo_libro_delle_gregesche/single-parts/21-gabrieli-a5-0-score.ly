@@ -27,6 +27,7 @@
     categories = "[madrigal,favorite]"
     motifs = "[death,river]"
     \include "include/distribution-header.ly"
+    cksum = "e66cfd498db3af93305bd18d37f8c7bd50fa1bc1"
     tagline = #'f
 }
 
@@ -135,4 +136,5 @@
         \line { "Ogio (Oglio): a tributary of the Po in Lombardy." }
     }
 }
+
 

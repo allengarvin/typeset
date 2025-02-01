@@ -24,6 +24,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "8016eb8c11c1d67a4e8ac673166a8a23e509736c"
     composer = "Jacob Regnart (c.1540-1599)"
     tagline = #'f
 }
@@ -95,3 +96,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     lastupdated = "2015-12-13"
     shorttitle = "galliarde"
     \include "include/distribution-header.ly"
+    cksum = "c211ddd1bf8858c5318cc6a24f1801b0b433d0c6"
     tagline = #'f
 }
 
@@ -83,4 +84,5 @@
         }
     }
 }
+
 

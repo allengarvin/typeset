@@ -12,6 +12,7 @@
     lastupdated = "2022-09-16"
     originallyset = "2022-09-16"
     \include "include/distribution-header.ly"
+    cksum = "798e6e0e7bd5f471f1e4a20eb2e5bba5f1cac548"
     % Things that change per piece:
     title = "Il Vendramino"
     subtitle = "Balletto o Sinfonia"
@@ -81,3 +82,4 @@
         }
     }   
 }
+

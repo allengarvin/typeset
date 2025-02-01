@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "mirate_ch_m_ha"
     \include "include/distribution-header.ly"
+    cksum = "468954c8a452617d078465b451dd2682bd225bfd"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

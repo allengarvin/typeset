@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "02bebfbba2c17383c93cf094b3f1650701bf3afb"
     % Things that change per piece:
     title = "O verdi selve, o dolci fonti, o rivi"
     subtitle = ""
@@ -138,4 +139,5 @@
         }
     }
 }
+
 

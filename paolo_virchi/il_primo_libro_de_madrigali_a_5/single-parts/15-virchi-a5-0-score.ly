@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "9c5d19dcd6248a04db217ef3cb41ef90026e18e6"
     % Things that change per piece:
     title = "Devea la fredda neve"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

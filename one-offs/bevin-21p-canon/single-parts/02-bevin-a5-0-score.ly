@@ -22,6 +22,7 @@
     lastupdated = "2018-08-18"
     shorttitle = "four_parts_in_one_to_the_plainsong"
     \include "include/distribution-header.ly"
+    cksum = "c899e17d0101e25f61adcc7fe3b8d343de778f93"
     tagline = #'f
 }
 
@@ -93,3 +94,4 @@
         }
     }
 }
+

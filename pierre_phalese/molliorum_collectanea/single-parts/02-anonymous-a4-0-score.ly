@@ -23,6 +23,7 @@
     lastupdated = "2016-05-18"
     shorttitle = "passamezzo_d_italie"
     \include "include/distribution-header.ly"
+    cksum = "1e536c3f708d7e47deb96257b124afef0ad41748"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-01"
     originallyset = "2023-01-01"
     \include "include/distribution-header.ly"
+    cksum = "96fc10d01de8e98398aa2dbadef5430f94f22f71"
     % Things that change per piece:
     title = "Se sì alto pon gir mie stanche rime"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

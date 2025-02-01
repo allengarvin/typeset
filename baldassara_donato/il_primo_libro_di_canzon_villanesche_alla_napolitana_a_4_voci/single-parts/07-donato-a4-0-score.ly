@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "o_quanto_amore"
     \include "include/distribution-header.ly"
+    cksum = "14eb07ec35f32cde548bd94bd5f56bc7b7b963f9"
     tagline = #'f
 }
 
@@ -106,4 +107,5 @@
         }
     }
 }
+
 

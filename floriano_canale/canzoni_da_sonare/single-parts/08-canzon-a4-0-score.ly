@@ -23,6 +23,7 @@
     shorttitle = "la_furta"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "e01328ac700b4c25e7046a910446cbc9bab10fd2"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

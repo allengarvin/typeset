@@ -26,6 +26,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "85633f43c1543438988a5758beb23c3850dffb2d"
     composer = "Richard Alison (c.1560-c.1610)"
     tagline = #'f
 }
@@ -175,6 +176,7 @@
         }
     }
 }
+
 
 
 

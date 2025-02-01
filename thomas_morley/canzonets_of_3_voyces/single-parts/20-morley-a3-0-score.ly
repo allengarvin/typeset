@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "arise_get_up_my_dear"
     \include "include/distribution-header.ly"
+    cksum = "9a61eb83908630c0efbc00b1a611eb20f4301bb8"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

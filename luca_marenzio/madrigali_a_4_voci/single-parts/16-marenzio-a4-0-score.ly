@@ -19,6 +19,7 @@
     shorttitle = "dolci_son_le_quadrella"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "ecfea64ab9f95fc792e44abdce5c035f81306062"
     language = "italian"
     tagline = #'f
 }
@@ -84,4 +85,5 @@
         }
     }
 }
+
 

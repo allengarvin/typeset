@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "2b71581bfbb717b8f91aa9eda76916634f0e5084"
     % Things that change per piece:
     title = "Se più t'amassi ingrato"
     subtitle = ""
@@ -144,6 +145,7 @@
         }
     }
 }
+
 
 
 

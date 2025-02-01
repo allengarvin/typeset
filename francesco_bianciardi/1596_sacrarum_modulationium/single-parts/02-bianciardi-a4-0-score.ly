@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "b5dcde026da15569a32803b17794520ac09da24a"
     % Things that change per piece:
     title = "Versa est in luctum cythara mea"
     subtitle = ""
@@ -98,3 +99,4 @@
         }
     }
 }
+

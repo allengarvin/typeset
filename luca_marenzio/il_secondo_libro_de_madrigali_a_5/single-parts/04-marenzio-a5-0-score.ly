@@ -24,6 +24,7 @@
     shorttitle = "perche_di_pioggia_il_ciel"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "82d569aa8c8ae294dfe982741be40cff701f316d"
     tagline = #'f
 }
 
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

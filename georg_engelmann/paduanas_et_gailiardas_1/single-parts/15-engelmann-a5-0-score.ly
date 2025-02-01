@@ -12,6 +12,7 @@
     lastupdated = "2023-11-22"
     originallyset = "2023-11-22"
     \include "include/distribution-header.ly"
+    cksum = "c1c4250147ad078b6df0221c457dd97203d8aa22"
     % Things that change per piece:
     title = "Paduana Basse"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

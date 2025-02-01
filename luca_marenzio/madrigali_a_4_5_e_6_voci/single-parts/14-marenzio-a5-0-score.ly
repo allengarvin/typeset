@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "4f67a4f6cf555a4c3259f1795120b20e5e6849b9"
     % Things that change per piece:
     title = "Ecco che un'altra volta"
     subtitle = "Prima parte"
@@ -111,3 +112,4 @@
         }
     }
 }
+

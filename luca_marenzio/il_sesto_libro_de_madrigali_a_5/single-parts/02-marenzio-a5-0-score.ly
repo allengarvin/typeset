@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d8d9f1b63fa04300284e621b2f25484c41a908dc"
     % Things that change per piece:
     title = "Clori nel mio partire"
     subtitle = ""
@@ -127,4 +128,5 @@
         }
     }
 }
+
 

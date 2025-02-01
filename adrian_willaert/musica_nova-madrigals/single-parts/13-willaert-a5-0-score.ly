@@ -25,6 +25,7 @@
     shorttitle = "quando_fra_l_altre_donne"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "19a012c4741f41b90da78b553818df9b1d35f9cd"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

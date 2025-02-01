@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "72b7ca842c2a0540e6abb08126363652c069a9b4"
     % Things that change per piece:
     title = "Non vide il mondo"
     subtitle = "Quinta parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

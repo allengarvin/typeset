@@ -12,6 +12,7 @@
     lastupdated = "2022-12-11"
     originallyset = "2022-12-11"
     \include "include/distribution-header.ly"
+    cksum = "db43add7ee2ca71b506b4b394ad3b2bc3d6bff25"
     % Things that change per piece:
     title = "Cedan l'antiche tue chiare vittorie"
     subtitle = "Prima e seconda parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

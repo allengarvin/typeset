@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "jay_pris_amours"
     \include "include/distribution-header.ly"
+    cksum = "fff5fd7268d2afc88fd92232099acf83ae8f6eb3"
     tagline = #'f
 }
 
@@ -77,3 +78,4 @@
         }
     }   
 }
+

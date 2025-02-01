@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "d68321991695a00c9075a029d62026edbb18cdd0"
     % Things that change per piece:
     title = "Quell'ombra esser vorrei"
     subtitle = ""
@@ -131,3 +132,4 @@
     }
 
 }
+

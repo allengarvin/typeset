@@ -21,6 +21,7 @@
     final = "a"
     shorttitle = "go_ye_my_canzonets"
     \include "include/distribution-header.ly"
+    cksum = "1384e400996ed9220a2183572efb894ac3c6de67"
     tagline = #'f
 }
 
@@ -71,4 +72,5 @@
     }
 
 }
+
 

@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "right_blest_are_they"
     \include "include/distribution-header.ly"
+    cksum = "43e328df3236f87208faced639878611dc2bdded"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

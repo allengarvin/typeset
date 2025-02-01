@@ -30,6 +30,7 @@
     categories = "[madrigal,furioso]"
     motifs = "[palace]"
     \include "include/distribution-header.ly"
+    cksum = "0407b32e5889bc2ee436d9539be30e23ed1034fd"
     tagline = #'f
 }
 
@@ -86,4 +87,5 @@
         }
     }
 }
+
 

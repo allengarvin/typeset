@@ -27,6 +27,7 @@
     categories = "[madrigal,furioso]"
     motifs = "[shepherd,virgin,rose]"
     \include "include/distribution-header.ly"
+    cksum = "d78990b57edba7bc7a9248ce262ae7a197f301fc"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

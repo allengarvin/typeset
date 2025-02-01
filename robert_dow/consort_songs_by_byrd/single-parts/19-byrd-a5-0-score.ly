@@ -22,6 +22,7 @@
     lastupdated = "2015-08-27"
     shorttitle = "prostrate_o_lord"
     \include "include/distribution-header.ly"
+    cksum = "594f4dfbf8354ce160de57d40e0ba1d8a927efd8"
     tagline = #'f
 }
 
@@ -98,4 +99,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d247233b46670660a9b41c86091cf5a6ead3c29c"
     % Things that change per piece:
     title = "Queste contrarie tempre"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

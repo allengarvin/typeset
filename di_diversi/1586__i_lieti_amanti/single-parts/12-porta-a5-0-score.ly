@@ -12,6 +12,7 @@
     lastupdated = "2023-08-23"
     originallyset = "2023-08-23"
     \include "include/distribution-header.ly"
+    cksum = "a10104e8202c37c8164178e9394031376cf9ef42"
     % Things that change per piece:
     title = "Donna, ben v'ingannate"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

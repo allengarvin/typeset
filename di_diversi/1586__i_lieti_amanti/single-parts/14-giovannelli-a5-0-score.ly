@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "e4095f3da8c44ca488b2d1f0ba8b1038d66b1f03"
     % Things that change per piece:
     title = "Se da' tuoi lacci sciolto"
     subtitle = ""
@@ -125,4 +126,5 @@
         }
     }
 }
+
 

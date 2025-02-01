@@ -24,6 +24,7 @@
     rhyme = "abCabC"
     motifs = "[sun,hair,flowers,amore]"
     \include "include/distribution-header.ly"
+    cksum = "7eef36d2566aab9ff4d4edd39288024c0b64cd9a"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

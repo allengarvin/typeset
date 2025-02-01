@@ -25,6 +25,7 @@
     shorttitle = "ma_chi_penso"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "2f8331f243041a2a0593b5d9b813d50e0d809505"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

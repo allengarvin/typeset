@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "3351b6eb04be2ec8f231a0949a3dd4d78b9255c6"
     % Things that change per piece:
     title = "Dimmi cieco ch'avventi e fiamm'e strali"
     subtitle = "Prima parte"
@@ -120,3 +121,4 @@
         }
     }
 }
+

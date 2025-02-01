@@ -24,6 +24,7 @@
     shorttitle = "copra_madonna"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "a2fb06142909e02567eec4dc76de8585ece873ab"
     tagline = #'f
 }
 
@@ -105,3 +106,4 @@
         }
     }
 }
+

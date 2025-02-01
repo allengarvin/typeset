@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "el_chiocho"
     \include "include/distribution-header.ly"
+    cksum = "cb083a5855326de0752f05a3733dee566e5692ef"
     tagline = #'f
 }
 
@@ -64,4 +65,5 @@
         }
     }   
 }
+
 

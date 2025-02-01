@@ -24,6 +24,7 @@
     shorttitle = "stavasi_aminta"
     categories = "[madrigal,polychoral,dialogo]"
     \include "include/distribution-header.ly"
+    cksum = "cbffae01164d710766aefd25ec09f52d493bfea4"
     tagline = #'f
 }
 
@@ -137,3 +138,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2023-05-21"
     originallyset = "2023-05-21"
     \include "include/distribution-header.ly"
+    cksum = "59d6438da0a279958dcd144fe05cc226d5465ccd"
     % Things that change per piece:
     title = "Ardisci animo, ardisci"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

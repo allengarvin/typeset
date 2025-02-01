@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "fa6a73be147ce7450a0e9e81cf45aa4e04e8fc78"
     % Things that change per piece:
     title = "Vegine, tale è terra"
     subtitle = ""
@@ -131,3 +132,4 @@
         }
     }
 }
+

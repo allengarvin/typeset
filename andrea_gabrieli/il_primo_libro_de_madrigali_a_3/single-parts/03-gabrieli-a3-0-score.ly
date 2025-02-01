@@ -27,6 +27,7 @@
     rhyme = "ABABABCC"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "cca20e328e7def63296f0bad09f6308dc07897b9"
     tagline = #'f
 }
 
@@ -89,4 +90,5 @@
         }
     }
 }
+
 

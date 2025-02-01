@@ -25,6 +25,7 @@
     shorttitle = "da_lei_ti_vien_l_amoroso"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "5d006143b47b592ea3aad808b739b791448f189b"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

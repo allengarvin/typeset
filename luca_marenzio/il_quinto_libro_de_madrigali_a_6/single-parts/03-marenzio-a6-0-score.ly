@@ -12,6 +12,7 @@
     lastupdated = "2022-12-05"
     originallyset = "2022-12-05"
     \include "include/distribution-header.ly"
+    cksum = "675450e91917e635f1a58961965e29df5c47ccf6"
     % Things that change per piece:
     title = "Leggiadre ninfe e pastorelli amanti"
     subtitle = ""
@@ -132,3 +133,4 @@
         }
     }
 }
+

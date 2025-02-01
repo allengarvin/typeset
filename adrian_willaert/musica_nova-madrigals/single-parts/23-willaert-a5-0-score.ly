@@ -25,6 +25,7 @@
     shorttitle = "i_begli_occhi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "6766b4f24c4a584dbdac672cdef5429c06df3ed7"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

@@ -20,6 +20,7 @@
     lastupdated = "2013-04-30"
     shorttitle = "author_of_light"
     \include "include/distribution-header.ly"
+    cksum = "998f7c0f1d342ca9ef3310feeb2d08a2ddf707ff"
     tagline = #'f
 }
 
@@ -68,5 +69,6 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 
 

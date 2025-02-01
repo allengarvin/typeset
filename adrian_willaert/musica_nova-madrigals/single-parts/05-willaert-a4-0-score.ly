@@ -25,6 +25,7 @@
     shorttitle = "questa_anima_gentil"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "68f5e44d72ffa81d9f20364c15fe22c568df7c9e"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
         }
     }
 }
+
 

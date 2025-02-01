@@ -12,6 +12,7 @@
     lastupdated = "2022-11-06"
     originallyset = "2022-11-06"
     \include "include/distribution-header.ly"
+    cksum = "a03dfb67d94f9a6766c7272b7c949a576139c31c"
     % Things that change per piece:
     title = "Cinto di neve omai"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

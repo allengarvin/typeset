@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "810f9e3ad12fa055647b7ad7d4bc66610106a740"
     % Things that change per piece:
     title = "O fera voglia"
     subtitle = "Seconda parte"
@@ -110,3 +111,4 @@
         }
     }
 }
+

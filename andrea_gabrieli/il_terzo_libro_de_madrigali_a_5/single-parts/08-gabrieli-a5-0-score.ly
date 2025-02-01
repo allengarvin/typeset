@@ -12,6 +12,7 @@
     lastupdated = "2023-01-14"
     originallyset = "2023-01-14"
     \include "include/distribution-header.ly"
+    cksum = "8dd60c35b06be58655fd45a4bc665fb508c66cfd"
     % Things that change per piece:
     title = "Mentre io vi miro"
     subtitle = "Prima parte"
@@ -108,3 +109,4 @@
         }
     }
 }
+

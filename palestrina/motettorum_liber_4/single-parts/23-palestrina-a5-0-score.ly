@@ -22,6 +22,7 @@
     final = "e"
     shorttitle = "quae_est_ista_quae_progreditur"
     \include "include/distribution-header.ly"
+    cksum = "9faa943f923083eed08e4845478ebc3081ddb99c"
     tagline = #'f
 }
 
@@ -104,3 +105,4 @@
         }
     }
 }
+

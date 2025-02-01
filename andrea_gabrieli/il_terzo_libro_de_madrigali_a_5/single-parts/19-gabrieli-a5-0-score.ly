@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "7d0e1fd12a04ffcdfa959ee6f2373e582b140a5e"
     % Things that change per piece:
     title = "I' vo piangendo"
     subtitle = "Prima parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

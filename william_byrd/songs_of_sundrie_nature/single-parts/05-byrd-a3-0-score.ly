@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "lord_hear_my_prayer"
     \include "include/distribution-header.ly"
+    cksum = "e4b16771d5b7d3b6829fc6b24766758dd4bfa835"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

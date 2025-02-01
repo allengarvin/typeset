@@ -24,6 +24,7 @@
     shorttitle = "leggiadre_donne"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "eb823b3515023ae3927c0ae2cb3be0fbc403afa3"
     tagline = #'f
 }
 
@@ -93,4 +94,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "df29ea4172d9a7648a7de7c1dbca2537808e9228"
     % Things that change per piece:
     title = "Fresch'erbe, vaghi fiori, ombre secrete"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

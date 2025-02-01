@@ -12,6 +12,7 @@
     lastupdated = "2022-10-30"
     originallyset = "2022-10-30"
     \include "include/distribution-header.ly"
+    cksum = "33449b474d42977848f5044b73223decd7f5f5ae"
     % Things that change per piece:
     title = "L'empio folgore ardente"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2022-11-08"
     originallyset = "2022-11-08"
     \include "include/distribution-header.ly"
+    cksum = "4f9f3960eaf2ac40c4ccf2b15ce2682781cd7479"
     % Things that change per piece:
     title = "Può ben fortuna far ch'io m'allontani"
     subtitle = ""
@@ -103,3 +104,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "16565046b36e42a2d98ac531ed8325bc21a6adec"
     % Things that change per piece:
     title = "Per più gradirla"
     subtitle = "Seconda parte"
@@ -123,3 +124,4 @@
         }
     }
 }
+

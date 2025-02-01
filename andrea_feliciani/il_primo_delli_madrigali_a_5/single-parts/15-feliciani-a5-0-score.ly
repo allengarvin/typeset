@@ -12,6 +12,7 @@
     lastupdated = "2023-01-20"
     originallyset = "2023-01-20"
     \include "include/distribution-header.ly"
+    cksum = "b311b70ad270cc59bf2ab331aa7adb9021f61181"
     % Things that change per piece:
     title = "Non era l'andar suo"
     subtitle = "Seconda parte"
@@ -115,3 +116,4 @@
         }
     }
 }
+

@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "sancta_maria_succure_miseris"
     \include "include/distribution-header.ly"
+    cksum = "b7e66c726d08e4742cbba7ef365c030472b1633d"
     tagline = #'f
 }
 
@@ -118,3 +119,4 @@
         }
     }
 }
+

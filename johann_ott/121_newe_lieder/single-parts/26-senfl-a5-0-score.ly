@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "quodlibet_ich_stund_fortuna"
     \include "include/distribution-header.ly"
+    cksum = "84341fec46b8accef15c84ef68f4a6d3c4d58980"
     tagline = #'f
 }
 
@@ -123,4 +124,5 @@
 
 
 }
+
 

@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[male-pov,amore,beauty,grace,roses,face,pearls,gold]"
     \include "include/distribution-header.ly"
+    cksum = "1f0c622adc9d147c92a8d4f74afa6a139530f7b8"
     tagline = #'f
 }
 
@@ -127,4 +128,5 @@
         }
     }
 }
+
 

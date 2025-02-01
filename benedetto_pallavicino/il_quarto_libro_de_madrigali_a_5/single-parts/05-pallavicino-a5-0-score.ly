@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "3d49f873a587565a91ab557461acb257f73b378b"
     % Things that change per piece:
     title = "Tutto eri foco, Amore"
     subtitle = ""
@@ -118,5 +119,6 @@
         }
     }
 }
+
 
 

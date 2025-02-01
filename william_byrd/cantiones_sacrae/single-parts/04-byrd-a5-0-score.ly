@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "emendemus_in_melius"
     \include "include/distribution-header.ly"
+    cksum = "6f5c2c73a3c076d2f4310df43682be5efe88b435"
     tagline = #'f
 }
 
@@ -111,3 +112,4 @@
         }
     }
 }
+

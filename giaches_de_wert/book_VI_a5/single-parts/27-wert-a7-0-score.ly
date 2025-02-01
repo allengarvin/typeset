@@ -24,6 +24,7 @@
     shorttitle = "onde_avviene"
     categories = "[madrigal,polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "db0f406f6db2217231e77901c0493b26c1f8acb2"
     tagline = #'f
 }
 
@@ -143,4 +144,5 @@
         }
     }
 }
+
 

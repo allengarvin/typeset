@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "ce01fb1b3111a0b1b29340bdfae39796fa9396f2"
     % Things that change per piece:
     title = "Il più leggiadro viso"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "e589f035aa0410dbe3b5a00c4442b9288a9f083a"
     % Things that change per piece:
     composer = "Pietro Vinci (c.1525-1584)"
     title = "Ben fu l'ape ingegnosa"
@@ -119,3 +120,4 @@
         }
     }
 }
+

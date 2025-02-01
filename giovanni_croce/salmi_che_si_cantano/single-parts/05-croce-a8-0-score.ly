@@ -27,6 +27,7 @@
     final = "f"
     categories = "[polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "cd44c99bf1cc632374fe9a5fc984269fc1dd9a89"
     tagline = #'f
 }
 
@@ -202,3 +203,4 @@
         }
     }
 }
+

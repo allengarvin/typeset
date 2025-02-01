@@ -25,6 +25,7 @@
     shorttitle = "ella_si_tace"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "e9a956aad6691bafbd348a5da32d25f977fc5d5b"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

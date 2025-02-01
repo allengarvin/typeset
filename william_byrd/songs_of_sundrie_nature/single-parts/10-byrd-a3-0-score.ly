@@ -22,6 +22,7 @@
     final = "c"
     shorttitle = "when_younglings_first"
     \include "include/distribution-header.ly"
+    cksum = "fc57e2f7eb129ec0b1b0a58c6e9b5b4cbf2977b6"
     tagline = #'f
 }
 
@@ -86,4 +87,5 @@
         }
     }
 }
+
 

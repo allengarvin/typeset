@@ -25,6 +25,7 @@
     shorttitle = "si_che_sio_vissi_in_guerra"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "409c4e01743b0def97eec061ad44499b49dd2099"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

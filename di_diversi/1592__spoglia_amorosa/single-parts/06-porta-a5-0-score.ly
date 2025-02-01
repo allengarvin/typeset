@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "0327217ac705c3ec6af292e26e8511d9f95f54e4"
     % Things that change per piece:
     title = "Se morir si potesse di dolore"
     subtitle = ""
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

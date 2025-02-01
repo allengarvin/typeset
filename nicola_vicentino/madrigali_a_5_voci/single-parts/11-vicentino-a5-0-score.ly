@@ -24,6 +24,7 @@
     shorttitle = "candida_rosa_nata"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "0225ea67bd19a963b040218d536259e73ea7742f"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

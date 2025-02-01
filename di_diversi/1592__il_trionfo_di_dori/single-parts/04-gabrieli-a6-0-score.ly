@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "e470de0fb5dbd85df0014cd277fbf6a9f185d2b2"
     % Things that change per piece:
     title = "Se cantano gli augelli"
     subtitle = ""
@@ -134,3 +135,4 @@
         }
     }
 }
+

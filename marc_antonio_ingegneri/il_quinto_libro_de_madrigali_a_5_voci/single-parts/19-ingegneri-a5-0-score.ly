@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "074d397f33f8d34c4beb3ebff0687b465f945899"
     % Things that change per piece:
     title = "Scipio, l'acerbo caso"
     subtitle = "Prima parte"
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

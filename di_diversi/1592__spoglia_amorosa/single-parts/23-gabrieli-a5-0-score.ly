@@ -26,6 +26,7 @@
     motifs = "[jupiter,ganymede,swan,eagle]"
     
     \include "include/distribution-header.ly"
+    cksum = "2b2a49d3ea15c18cff09ec14626345859543ebb6"
     tagline = #'f
 }
 
@@ -114,3 +115,4 @@
         }
     }
 }
+

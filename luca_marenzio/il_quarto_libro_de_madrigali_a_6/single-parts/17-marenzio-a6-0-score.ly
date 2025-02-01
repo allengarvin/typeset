@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "1253581d5e60dffa426d45497d481455ea117fa3"
     % Things that change per piece:
     title = "Questa ordì il laccio"
     subtitle = ""
@@ -124,3 +125,4 @@
         }
     }
 }
+

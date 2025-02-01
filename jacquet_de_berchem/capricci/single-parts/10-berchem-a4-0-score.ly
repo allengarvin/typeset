@@ -27,6 +27,7 @@
     shorttitle = "quando_si_vide"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "55998f2e789c2aac3b08f4c8edc05899ae5b44b7"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

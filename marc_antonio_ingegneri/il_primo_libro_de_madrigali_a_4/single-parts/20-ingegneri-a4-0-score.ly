@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "e741300fff8b994da13f498490b8be1709925cfb"
     % Things that change per piece:
     title = "Se 'l sol si scosta"
     subtitle = ""
@@ -134,4 +135,5 @@
 }
 % 
 % canto 45, ottave 38
+
 

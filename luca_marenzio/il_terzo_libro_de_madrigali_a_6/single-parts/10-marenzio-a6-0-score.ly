@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "fe09679bd62521b051ba58fcaf32f95faad88cc1"
     % Things that change per piece:
     title = "Su l'ampia fronte il crespo oro lucente"
     subtitle = "Prima parte"
@@ -129,3 +130,4 @@
         }
     }
 }
+

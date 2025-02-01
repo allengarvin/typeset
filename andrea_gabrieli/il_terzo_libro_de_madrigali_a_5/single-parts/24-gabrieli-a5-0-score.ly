@@ -12,6 +12,7 @@
     lastupdated = "2023-01-15"
     originallyset = "2023-01-15"
     \include "include/distribution-header.ly"
+    cksum = "ed83975aa4ff75f7224285a641fe69dd825b9008"
     % Things that change per piece:
     title = "Dimmi, dimmi ben mio"
     subtitle = ""
@@ -123,3 +124,4 @@
         }
     }
 }
+

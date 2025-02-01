@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "bdcf7faf1b71847b7dab9f187e760addadddcc7d"
     % Things that change per piece:
     title = "O quante volte in van"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

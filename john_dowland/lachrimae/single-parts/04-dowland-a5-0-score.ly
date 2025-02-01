@@ -21,6 +21,7 @@
     lastupdated = "2013-12-11"
     shorttitle = "lachrimae_tristes"
     \include "include/distribution-header.ly"
+    cksum = "a072b23a28420795ec85e0be073c10d11f382c74"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         \include "../include/layout-score.ly"
     }
 }
+
 

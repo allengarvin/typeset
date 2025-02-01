@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "93a63455217e1247203131d0b4e7347e62591307"
     source = \markup { \italic { Il settimo libro de madrigali a 5 voci di Luca Marenzio} (Gardano press, Venice, 1595) }
     % Things that change per piece:
     title = "Deh dolce anima mia"
@@ -145,3 +146,4 @@
         }
     }
 }
+

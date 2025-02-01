@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "canzona_detta_la_pelegrina"
     \include "include/distribution-header.ly"
+    cksum = "6bf76cafbdae022dea62ca5e26d7eced9789054c"
     tagline = #'f
 }
 
@@ -74,3 +75,4 @@
         }
     }   
 }
+

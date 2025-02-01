@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "vive_le_roy"
     \include "include/distribution-header.ly"
+    cksum = "0a8d049ec7dd398410ad8015f52ac2e1c968b9ed"
     tagline = #'f
 }
 
@@ -90,4 +91,5 @@
         }
     }
 }
+
 

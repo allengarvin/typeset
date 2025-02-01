@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "dce60cbea569e019a799af22dfea34fcfb7b3a27"
     % Things that change per piece:
     title = "Cantiam la bella Clori"
     subtitle = ""
@@ -158,3 +159,4 @@
         }
     }
 }
+

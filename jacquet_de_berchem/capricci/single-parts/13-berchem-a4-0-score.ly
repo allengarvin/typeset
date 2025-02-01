@@ -27,6 +27,7 @@
     shorttitle = "ma_che_mi_possi"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "6ca2e172379a8b0d27d309334568253123c702fa"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

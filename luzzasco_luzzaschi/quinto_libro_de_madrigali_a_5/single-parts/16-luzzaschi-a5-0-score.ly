@@ -12,6 +12,7 @@
     lastupdated = "2022-11-07"
     originallyset = "2022-11-07"
     \include "include/distribution-header.ly"
+    cksum = "1b4dece62282f6c5a0a0ff036fd4edd3e25099ad"
     % Things that change per piece:
     title = "Moro ardendo, e m'è grato"
     subtitle = ""
@@ -102,3 +103,4 @@
         }
     }
 }
+

@@ -23,6 +23,7 @@
     shorttitle = "questa_si_bianca_neve"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "20c4f47d35e9d75042986b2e0e7517043a31d2c7"
     tagline = #'f
 }
 
@@ -99,4 +100,5 @@
         }
     }
 }
+
 

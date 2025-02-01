@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "77e66ffeb51f0451147bdcaf5aa1f801275f530f"
     % Things that change per piece:
     title = "Fallace ardir"
     subtitle = ""
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

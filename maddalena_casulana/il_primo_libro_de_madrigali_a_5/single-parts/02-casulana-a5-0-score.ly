@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "54b3c9d0734d4070d409584e23a9c286ea86c9b5"
     % Things that change per piece:
     title = "Aura che mormorando"
     subtitle = "Prima stanza"
@@ -112,3 +113,4 @@
         }
     }
 }
+

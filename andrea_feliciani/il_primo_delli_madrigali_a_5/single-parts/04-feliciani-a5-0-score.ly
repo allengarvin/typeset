@@ -12,6 +12,7 @@
     lastupdated = "2023-01-19"
     originallyset = "2023-01-19"
     \include "include/distribution-header.ly"
+    cksum = "b4c4e9ee3159ecafda0603562f6d806595d87c51"
     % Things that change per piece:
     title = "L'orgoglio onda"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

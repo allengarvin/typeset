@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "sancti_mei"
     \include "include/distribution-header.ly"
+    cksum = "82dd1b5085affcdc8890c2285a5393dc11f5e6a7"
     tagline = #'f
 }
 
@@ -76,4 +77,5 @@
         }
     }
 }
+
 

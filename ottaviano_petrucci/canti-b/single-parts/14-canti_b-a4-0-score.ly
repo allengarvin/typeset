@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "bon_temps"
     \include "include/distribution-header.ly"
+    cksum = "e48f69089f3c4942c4457de0ad5d69d000a82615"
     tagline = #'f
 }
 
@@ -77,4 +78,5 @@
 
     }   
 }
+
 

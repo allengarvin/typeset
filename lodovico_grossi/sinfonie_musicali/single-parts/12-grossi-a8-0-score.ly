@@ -22,6 +22,7 @@
     shorttitle = "la_bergamasca"
     categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "e1dfc5d22160457aec2649d98b125605d830080b"
     tagline = #'f
 }
 
@@ -110,3 +111,4 @@
         }
     }   
 }
+

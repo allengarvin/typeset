@@ -26,6 +26,7 @@
     rhyme = "ABCCBA"
     motifs = "[spring,flowers,amore,kisses]"
     \include "include/distribution-header.ly"
+    cksum = "8af13434c949efbe95c9f4ec9b2b46dbc30a3714"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

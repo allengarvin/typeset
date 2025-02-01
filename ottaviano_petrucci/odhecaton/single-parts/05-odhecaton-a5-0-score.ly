@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "brunette"
     \include "include/distribution-header.ly"
+    cksum = "310868e99ddf06170caee5887f20d534703585cb"
     tagline = #'f
 }
 
@@ -82,4 +83,5 @@
 
     }   
 }
+
 

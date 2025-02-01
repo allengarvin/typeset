@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "3e07622fd32c3baec9653a1f841bdfd3759c60fb"
     % Things that change per piece:
     title = "Affligger chi per voi"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

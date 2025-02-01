@@ -22,6 +22,7 @@
     final = "c"
     shorttitle = "pater_peccavi"
     \include "include/distribution-header.ly"
+    cksum = "1c45a08f8f64a16fc7f2114b5216e90d8264368a"
     tagline = #'f
 }
 
@@ -102,3 +103,4 @@
         }
     }
 }
+

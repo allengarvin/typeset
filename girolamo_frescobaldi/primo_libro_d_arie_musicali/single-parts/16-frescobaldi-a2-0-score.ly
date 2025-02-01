@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "cosi_mi_disprezzate"
     \include "include/distribution-header.ly"
+    cksum = "358ca27de05f52715800bc10883134835c23bc86"
     tagline = #'f
 }
 
@@ -60,4 +61,5 @@
         \include "../include/vocal-layout-score.ly"
     }   
 }
+
 

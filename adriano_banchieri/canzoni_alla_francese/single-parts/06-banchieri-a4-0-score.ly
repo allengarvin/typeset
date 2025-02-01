@@ -23,6 +23,7 @@
     shorttitle = "canzon_sesta__l_alcenagina"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "bb799ee6fccf5902d4cb6c0b820d59477d8a5b54"
     tagline = #'f
 }
 
@@ -76,4 +77,5 @@
         }
     }   
 }
+
 

@@ -27,6 +27,7 @@
     final = "a"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "498cba5247db5248860da5b2a977d88b22c2a940"
     source = \markup { \italic{ Il primo libro de madrigali à 5 voci di Alessandro Striggio } (Antonio Gardano press, Venice, 1560) }
     composer = "Cipriano de Rore (c.1515-1565)"
     tagline = #'f
@@ -108,3 +109,4 @@
         }
     }
 }
+

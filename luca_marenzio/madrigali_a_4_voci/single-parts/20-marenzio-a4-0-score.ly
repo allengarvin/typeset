@@ -21,6 +21,7 @@
     shorttitle = "tutto_l_di_piango"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "21f3b959ed17afdab24e7ad4e248afcf148247bc"
     tagline = #'f
 }
 
@@ -86,4 +87,5 @@
         }
     }
 }
+
 

@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "blow_shepherds_blow"
     \include "include/distribution-header.ly"
+    cksum = "c402d2fc2f6782620be1c456475b8ec9549084d8"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

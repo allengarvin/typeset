@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "vita_de_la_mia_vita"
     \include "include/distribution-header.ly"
+    cksum = "bd7cac84e1dc2244961abe473d363a5c17f4d09d"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

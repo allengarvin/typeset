@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "35d751b39e6a1a722716a15015c140141fe6ac98"
     % Things that change per piece:
     title = "Non ti sarò signor"
     subtitle = "Seconda parte"
@@ -125,3 +126,4 @@
         }
     }
 }
+

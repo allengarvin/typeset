@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "99c2bfcf9750e49f8ad4cf38254886ddb8629cd3"
     % Things that change per piece:
     title = "Re degli altri superbo"
     subtitle = "Sesta parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

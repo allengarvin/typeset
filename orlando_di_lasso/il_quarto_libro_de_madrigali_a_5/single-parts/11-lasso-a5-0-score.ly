@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "8868a638324fc459e596a0d13750ec4a39eca629"
     % Things that change per piece:
     title = "Il tempo passa"
     subtitle = ""
@@ -135,3 +136,4 @@
         }
     }
 }
+

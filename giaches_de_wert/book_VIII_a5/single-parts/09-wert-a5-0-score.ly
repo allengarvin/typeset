@@ -27,6 +27,7 @@
     shorttitle = "misera_non_credea"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "74080fe8fd50cb2336249b72e6949854c42087dd"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

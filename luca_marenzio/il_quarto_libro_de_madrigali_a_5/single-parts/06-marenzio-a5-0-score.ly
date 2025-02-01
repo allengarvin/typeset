@@ -12,6 +12,7 @@
     lastupdated = "2023-01-01"
     originallyset = "2023-01-01"
     \include "include/distribution-header.ly"
+    cksum = "db2af318e9b50043b29937042566d160f73c8da2"
     % Things that change per piece:
     title = "Disdegno e gelosia"
     subtitle = "Prima e seconda parte"
@@ -113,3 +114,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "je_vous_congnois"
     \include "include/distribution-header.ly"
+    cksum = "8d071a9b0c91837d13a01df35a817accc1e14744"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

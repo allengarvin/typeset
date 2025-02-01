@@ -12,6 +12,7 @@
     lastupdated = "2023-01-03"
     originallyset = "2023-01-03"
     \include "include/distribution-header.ly"
+    cksum = "48a46dcaba2f42118b64ee31c16ae7f60457005c"
     % Things that change per piece:
     title = "Corran di puro latte"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

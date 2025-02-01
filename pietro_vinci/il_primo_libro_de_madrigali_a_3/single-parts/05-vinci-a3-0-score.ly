@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "578da2c046bb5858c0ae88d529b851d53b3e3d88"
     % Things that change per piece:
     title = "Ogni grazia e beltate"
     subtitle = ""
@@ -115,4 +116,5 @@
 }
 % 
 % Angelo Raineri
+
 

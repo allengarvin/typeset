@@ -14,6 +14,7 @@
     flats = 1
     final = "bf"
     \include "include/distribution-header.ly"
+    cksum = "147532391e6ac672d5219ccd444a14c1e71b0454"
     % Things that change per piece:
     title = "Quando si more"
     subtitle = "Seconda parte"
@@ -126,3 +127,4 @@
         }
     }
 }
+

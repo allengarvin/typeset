@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "lomme_arme"
     \include "include/distribution-header.ly"
+    cksum = "d8ff6a9691733c623cb5f27ac473347e98d7ae2f"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         }
     }   
 }
+
 

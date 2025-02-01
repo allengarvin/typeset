@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "0bcb589e25c528a8085bb71a56525416cdc8346a"
     % Things that change per piece:
     title = "Fera leggiadra"
     subtitle = "Prima parte"
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

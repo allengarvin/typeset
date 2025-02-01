@@ -23,6 +23,7 @@
     shorttitle = "madonna_il_tuo_bel_viso"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "19e8aae42160036b79d8fe7e842c113f8ef927d4"
     tagline = #'f
 }
 
@@ -91,5 +92,6 @@
         }
     }
 }
+
 
 

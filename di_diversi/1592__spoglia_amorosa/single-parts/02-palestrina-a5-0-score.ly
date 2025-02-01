@@ -26,6 +26,7 @@
     shorttitle = "cosi_le_chiome_mie"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "01ac86473b572bac54112633e0dfdc7cf9eac453"
     tagline = #'f
 }
 
@@ -100,3 +101,4 @@
         }
     }
 }
+

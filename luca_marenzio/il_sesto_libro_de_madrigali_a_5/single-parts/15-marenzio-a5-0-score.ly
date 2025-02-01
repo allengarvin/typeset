@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "d00de9df7aa937a45c66d2e5118695b0fde7741e"
     % Things that change per piece:
     title = "Mentre qual viva pietra"
     subtitle = ""
@@ -126,3 +127,4 @@
         }
     }
 }
+

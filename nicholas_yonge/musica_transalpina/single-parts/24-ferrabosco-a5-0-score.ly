@@ -25,6 +25,7 @@
     final = "a"
     shorttitle = "like_as_from_heaven"
     \include "include/distribution-header.ly"
+    cksum = "8986275bac724e4a8fb4c0f07c60c3f7fcf46dad"
     tagline = #'f
 }
 
@@ -101,3 +102,4 @@
         }
     }
 }
+

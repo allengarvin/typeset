@@ -24,6 +24,7 @@
     shorttitle = "possa_io_morir"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3b6cb4f023318b5c8f63c5b301c8f3d128685ba3"
     tagline = #'f
 }
 
@@ -91,5 +92,6 @@
         }
     }
 }
+
 
 

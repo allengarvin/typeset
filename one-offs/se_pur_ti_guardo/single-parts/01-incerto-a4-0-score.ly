@@ -22,6 +22,7 @@
     shorttitle = "se_pur_ti_guardo"
     categories = "[villanella]"
     \include "include/distribution-header.ly"
+    cksum = "2555bcf6e0eb1aacfefc834d5450809a99cf4d7c"
     tagline = #'f
 }
 
@@ -80,4 +81,5 @@
         }
     }   
 }
+
 

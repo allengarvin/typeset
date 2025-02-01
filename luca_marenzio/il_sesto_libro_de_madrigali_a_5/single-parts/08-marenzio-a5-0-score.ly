@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "809021de516e90ff6eab57dca517ad78b455967c"
     % Things that change per piece:
     title = "Ben ho del caro oggetto"
     subtitle = "Prima parte"
@@ -111,3 +112,4 @@
         }
     }
 }
+

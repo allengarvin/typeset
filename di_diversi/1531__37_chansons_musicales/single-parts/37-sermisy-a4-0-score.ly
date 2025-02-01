@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "tant_que_vivray"
     \include "include/distribution-header.ly"
+    cksum = "01c42cc53cb91ad3fa82f757738c38e1c64a4cde"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

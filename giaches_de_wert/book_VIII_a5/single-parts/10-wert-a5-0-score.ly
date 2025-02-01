@@ -27,6 +27,7 @@
     shorttitle = "ma_che_squallido"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "51851b7a2a34921b9d4415c4ca03a3d64c78fd7a"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

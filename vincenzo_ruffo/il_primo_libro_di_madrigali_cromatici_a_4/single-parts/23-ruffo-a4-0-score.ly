@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "ed40101359b2c323d6b93872ffb170bd60a61904"
     % Things that change per piece:
     title = "De' cocenti sospir"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

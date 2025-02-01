@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "je_men_vois"
     \include "include/distribution-header.ly"
+    cksum = "d81393153ef2d19e8b9542c8b0af5d74b9cc4c21"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

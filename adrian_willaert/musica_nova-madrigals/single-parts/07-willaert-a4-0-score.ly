@@ -25,6 +25,7 @@
     shorttitle = "lasso_chi_ardo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "2171c7fd4899d882c45dfd28293df65391b238b0"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
         }
     }
 }
+
 

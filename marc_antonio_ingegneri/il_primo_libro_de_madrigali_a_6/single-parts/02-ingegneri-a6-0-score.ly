@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "4576dc1f498380d530e315be573f849828e4227c"
     % Things that change per piece:
     title = "O magnanimo Duce"
     subtitle = ""
@@ -135,4 +136,5 @@
         }
     }
 }
+
 

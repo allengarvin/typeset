@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "45947061be32bfb8b0686b056c2240d68ecd9a81"
     % Things that change per piece:
     title = "Canzon XXIV"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }   
 }
+

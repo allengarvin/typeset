@@ -25,6 +25,7 @@
     shorttitle = "le_quali_ella_spargea"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "524f0c91cebb47116ed7fa58d4dea9b10fa712fa"
     tagline = #'f
 }
 
@@ -119,4 +120,5 @@
         }
     }
 }
+
 

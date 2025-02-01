@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "83e2f8e3f72852eec2a6349b3d6490ab52ff38a9"
     % Things that change per piece:
     title = "Or lieto il pesce a lati"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

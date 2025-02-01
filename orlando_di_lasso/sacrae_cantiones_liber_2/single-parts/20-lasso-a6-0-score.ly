@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "concupiscendo_concupiscit"
     \include "include/distribution-header.ly"
+    cksum = "90eed8eef3c3be5b52264e39f810cf2b9fad8827"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "1f4bec0bada495bd0bb6b15e36028075640c8f5f"
     % Things that change per piece:
     title = "I' temo di cangiar"
     subtitle = "Quinta parte"
@@ -123,3 +124,4 @@
         }
     }
 }
+

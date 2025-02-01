@@ -21,6 +21,7 @@
     shorttitle = "o_bella_man"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "91ba16ecb063b735718c8aee6b31ae643284f46d"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

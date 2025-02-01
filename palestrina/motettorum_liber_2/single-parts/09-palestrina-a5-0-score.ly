@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "ascendo_ad_patrem"
     \include "include/distribution-header.ly"
+    cksum = "036b4e4728cee6c7b1c6566f8c842ab0e6f38e1c"
     tagline = #'f
 }
 
@@ -89,4 +90,5 @@
         }
     }
 }
+
 

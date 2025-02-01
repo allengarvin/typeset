@@ -28,6 +28,7 @@
     poeticform = "sonnet"
     motifs = "[hills,amore]"
     \include "include/distribution-header.ly"
+    cksum = "9ca39731609725ce52e544c866a9eedb7128a65b"
     tagline = #'f
 }
 
@@ -126,4 +127,5 @@
         }
     }
 }
+
 

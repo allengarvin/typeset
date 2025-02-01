@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "memento_homo"
     \include "include/distribution-header.ly"
+    cksum = "abaabd6b1febaa01fb14b143f1738fb7bf74fa1c"
     tagline = #'f
 }
 
@@ -105,3 +106,4 @@
         }
     }
 }
+

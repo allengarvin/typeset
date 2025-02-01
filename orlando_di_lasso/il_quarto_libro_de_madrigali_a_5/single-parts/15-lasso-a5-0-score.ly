@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "56409b010398c43beccd9861c9943b2ff99e49ee"
     % Things that change per piece:
     title = "Ma'l cieco Amor"
     subtitle = "Seconda parte"
@@ -115,3 +116,4 @@
         }
     }
 }
+

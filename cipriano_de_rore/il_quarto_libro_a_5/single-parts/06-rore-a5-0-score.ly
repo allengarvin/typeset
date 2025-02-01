@@ -24,6 +24,7 @@
     shorttitle = "volgi_l_tuo_corso_alla_tua_riva_manca"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c13db6ae94a5ad7e77b7117df037bcfd8c2ea4fc"
     tagline = #'f
 }
 
@@ -112,3 +113,4 @@
         }
     }
 }
+

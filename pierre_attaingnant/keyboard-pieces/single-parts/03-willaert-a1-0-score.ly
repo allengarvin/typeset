@@ -23,6 +23,7 @@
     lastupdated = "2013-06-12"
     shorttitle = "dessus_le_march_darras"
     \include "include/distribution-header.ly"
+    cksum = "b984bcba20e205ecec9bf99a2c20b9405ff3af63"
     tagline = #'f
 }
 
@@ -59,4 +60,5 @@
         }
     }   
 }
+
 

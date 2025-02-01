@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "5ac421ae030fe33d861177812ecf49606d0c315f"
     % Things that change per piece:
     title = "Defecit in dolore vita mea"
     subtitle = "Prima pars"
@@ -108,3 +109,4 @@
         }
     }
 }
+

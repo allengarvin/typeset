@@ -25,6 +25,7 @@
     shorttitle = "onde_tolse_amor_loro"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "926b4a187114134ea24c5b0be0b9d1c82a1c3880"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

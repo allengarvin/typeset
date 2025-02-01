@@ -25,6 +25,7 @@
     flats = -2
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "c58781e4e36ecd8e410d9431ae0a9f67c07f43f0"
     composer = "John Jenkins (1592-1678)"
     tagline = #'f
 }
@@ -80,3 +81,4 @@
         }
     }   
 }
+

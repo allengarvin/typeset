@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "then_for_a_boat"
     \include "include/distribution-header.ly"
+    cksum = "ef583623f7f98ae383b094d9ecfe557448176018"
     tagline = #'f
 }
 
@@ -83,4 +84,5 @@
         }
     }
 }
+
 

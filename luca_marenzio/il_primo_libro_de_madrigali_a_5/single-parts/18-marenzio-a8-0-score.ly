@@ -24,6 +24,7 @@
     lastupdated = "2014-12-14"
     categories = "[madrigal,dialogo]"
     \include "include/distribution-header.ly"
+    cksum = "34242ab3c8dccb5ec4bd945465249524bdf489b4"
     tagline = #'f
 }
 
@@ -173,4 +174,5 @@
         }
     }
 }
+
 

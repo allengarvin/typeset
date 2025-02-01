@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "fulgebunt_justi_sicut_lilium"
     \include "include/distribution-header.ly"
+    cksum = "0b3c457edf7ca5f8604a37ba3ea6737ff4511705"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
         }
     }
 }
+
 

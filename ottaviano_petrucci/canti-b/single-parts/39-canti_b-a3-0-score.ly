@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "ave_ancilla_trinitatis"
     \include "include/distribution-header.ly"
+    cksum = "17030a00c662b6b896604dca818529874550527f"
     tagline = #'f
 }
 
@@ -69,4 +70,5 @@
         }
     }   
 }
+
 

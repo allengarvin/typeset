@@ -28,6 +28,7 @@
     shorttitle = "gravi_pene_in_amor"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "ed2c0294a1a5008e4a95e8bdcd2e1b73d000e2f9"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

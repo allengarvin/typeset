@@ -28,6 +28,7 @@
     categories = "[madrigal,animal]"
     motifs = "[nightingale,bird]"
     \include "include/distribution-header.ly"
+    cksum = "d27ef7653c4a59eb3202ed8fd772c5d9af8dfd7e"
     tagline = #'f
 }
 
@@ -117,3 +118,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     motifs = "[heart,amore]"
     rhyme = "AabbCC"
     \include "include/distribution-header.ly"
+    cksum = "4648b7d44863e35c66da8b02366a4e7ab2590675"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "81c65110a09f082f05796e3b7a10f57893116893"
     % Things that change per piece:
     title = "Non visse la mia vita"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

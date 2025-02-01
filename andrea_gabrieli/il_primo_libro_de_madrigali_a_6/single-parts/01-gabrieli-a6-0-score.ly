@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "d987455bb4cb9af6a1c58952bd1dcfd76baca0b9"
     % Things that change per piece:
     title = "Rendete al Saracini"
     subtitle = ""
@@ -138,3 +139,4 @@
         }
     }
 }
+

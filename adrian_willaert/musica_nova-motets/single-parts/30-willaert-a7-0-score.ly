@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "tua_per_precata_dulcisona"
     \include "include/distribution-header.ly"
+    cksum = "1a41e497ac318d791e9e74ef39b79635b96241ca"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

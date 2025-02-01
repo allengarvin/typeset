@@ -27,6 +27,7 @@
     categories = "[madrigal]"
     motifs = "[virgin,mary]"
     \include "include/distribution-header.ly"
+    cksum = "51193cc3b12c915aad4d27dd66e265607b82f833"
     tagline = #'f
 }
 
@@ -129,3 +130,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-16"
     originallyset = "2023-01-16"
     \include "include/distribution-header.ly"
+    cksum = "60a57192ed7d1f9a3730ac308810f1bcd48c1dfa"
     % Things that change per piece:
     title = "Queste felice erbette"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

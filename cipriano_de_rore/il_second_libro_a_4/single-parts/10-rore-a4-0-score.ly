@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[death,sigh]"
     \include "include/distribution-header.ly"
+    cksum = "0cf527c6a59da1599d6493a0c653e0760cc0fe8c"
     tagline = #'f
 }
 
@@ -101,3 +102,4 @@
         }
     }
 }
+

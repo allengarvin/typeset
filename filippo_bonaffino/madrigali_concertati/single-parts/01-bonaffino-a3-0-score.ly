@@ -12,6 +12,7 @@
     lastupdated = "2022-09-20"
     originallyset = "2022-09-20"
     \include "include/distribution-header.ly"
+    cksum = "5646856715cc1482c904c735cc9eca37cf72c7d4"
     % Things that change per piece:
     title = "Dolcissimo sospiro"
     subtitle = ""
@@ -90,3 +91,4 @@
         }
     }
 }
+

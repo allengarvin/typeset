@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "4e4e9bb7c0485c764b753dfe46281cc4c08d73df"
     % Things that change per piece:
     title = "Interdette speranze"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

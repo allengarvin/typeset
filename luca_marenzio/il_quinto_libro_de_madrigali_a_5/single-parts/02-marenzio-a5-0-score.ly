@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "f543acd9492d36ad7b1a3fe1fcf0fa56d9476416"
     % Things that change per piece:
     title = "Lasso, vedrò io mai"
     subtitle = "Seconda parte"
@@ -108,3 +109,4 @@
         }
     }
 }
+

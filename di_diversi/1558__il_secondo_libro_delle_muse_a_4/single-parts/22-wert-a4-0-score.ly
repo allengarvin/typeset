@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "cf65e4de94346644917d022536ba4f1d01277e2c"
     % Things that change per piece:
     title = "Chi salirà per me"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

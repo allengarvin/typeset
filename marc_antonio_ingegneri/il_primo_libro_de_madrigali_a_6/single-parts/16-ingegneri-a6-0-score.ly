@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "a7cccb88bd1c9be6ff3b298a7196fcf14fd804d1"
     % Things that change per piece:
     title = "Mirate occhi miei lassi"
     subtitle = "Prima parte"
@@ -151,4 +152,5 @@
         }
     }
 }
+
 

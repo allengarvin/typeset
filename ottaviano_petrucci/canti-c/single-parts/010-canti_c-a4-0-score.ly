@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "myn_hert"
     \include "include/distribution-header.ly"
+    cksum = "4e64d0167759afc950c9c0461df7b7fc2d4230c0"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

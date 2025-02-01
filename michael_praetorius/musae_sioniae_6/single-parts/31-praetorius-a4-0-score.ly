@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "3eaa6784a8e5f39f81aed0d2bd326ee1e1c0ad07"
     % Things that change per piece:
     title = "In dulci jubilo"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

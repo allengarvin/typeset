@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "qui_vult_venire"
     \include "include/distribution-header.ly"
+    cksum = "8ec94d6268b7bc0f2c679396db861b41294d50a0"
     tagline = #'f
 }
 
@@ -76,4 +77,5 @@
         }
     }
 }
+
 

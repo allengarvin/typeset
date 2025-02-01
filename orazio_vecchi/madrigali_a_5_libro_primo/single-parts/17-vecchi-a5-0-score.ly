@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "09ee03709256ab005b827b8d812e0ce757c512ed"
     % Things that change per piece:
     title = "Nisa, io per te vivo"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

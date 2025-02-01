@@ -26,6 +26,7 @@
     shorttitle = "all_apparir_che_fece"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "bd908515105da2d603d6676bc3d28299aec41ae3"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

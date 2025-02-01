@@ -12,6 +12,7 @@
     lastupdated = "2022-12-03"
     originallyset = "2022-12-03"
     \include "include/distribution-header.ly"
+    cksum = "839753ac9a13298df7f90dcd834de026176ce963"
     % Things that change per piece:
     title = "Amatemi, ben mio"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

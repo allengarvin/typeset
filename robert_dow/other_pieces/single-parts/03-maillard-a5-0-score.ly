@@ -22,6 +22,7 @@
     lastupdated = "2014-08-30"
     shorttitle = "ascendo"
     \include "include/distribution-header.ly"
+    cksum = "95f537958760ff49a2874f1de52c7177acb5d25c"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }   
 }
+
 

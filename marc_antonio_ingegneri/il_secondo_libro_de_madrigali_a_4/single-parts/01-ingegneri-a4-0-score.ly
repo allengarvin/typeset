@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "cd38be3cfaf6b3f1e8ff29df90216b2dd73e09f3"
     % Things that change per piece:
     title = "Poscia che troppo i miei peccati indegni"
     subtitle = "Prima parte"
@@ -103,3 +104,4 @@
         }
     }
 }
+

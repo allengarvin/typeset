@@ -23,6 +23,7 @@
     final = "e"
     shorttitle = "a_custodia"
     \include "include/distribution-header.ly"
+    cksum = "83c100db1aaaa48e9356d8b4d98cfe075fbfebe2"
     tagline = #'f
 }
 
@@ -77,4 +78,5 @@
         }
     }   
 }
+
 

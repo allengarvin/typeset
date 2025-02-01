@@ -28,6 +28,7 @@
     categories = "[madrigal]"
     motifs = "[amore,hand,dawn,fire,ash]"
     \include "include/distribution-header.ly"
+    cksum = "c9d93cd730186d7deb22bf470b5848bad679d276"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

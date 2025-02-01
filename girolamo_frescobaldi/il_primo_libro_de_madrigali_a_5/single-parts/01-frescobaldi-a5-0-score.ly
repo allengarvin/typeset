@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "d2a0b177c2d29ed5bc10bd4538d8c253330417f0"
     % Things that change per piece:
     title = "Fortunata per me, felice aurora"
     subtitle = ""
@@ -126,3 +127,4 @@
         }
     }
 }
+

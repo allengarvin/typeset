@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "expectatio_justorum"
     \include "include/distribution-header.ly"
+    cksum = "422829b00d4fc5639a8b6e17930df281319d32d3"
     tagline = #'f
 }
 
@@ -78,4 +79,5 @@
         }
     }
 }
+
 

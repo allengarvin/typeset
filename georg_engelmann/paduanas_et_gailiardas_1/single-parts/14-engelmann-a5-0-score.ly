@@ -12,6 +12,7 @@
     lastupdated = "2023-11-22"
     originallyset = "2023-11-22"
     \include "include/distribution-header.ly"
+    cksum = "796915ade1ccde60d0ecd87d28eb483626fbeaae"
     % Things that change per piece:
     title = "Galliarda Belul"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

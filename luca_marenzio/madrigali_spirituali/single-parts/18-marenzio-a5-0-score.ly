@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "ce44930dbd846beff0027c93f9831c07c5f8a86b"
     % Things that change per piece:
     title = "Ma, lasso, io sento che 'l pungente strale"
     subtitle = "Quarta parte"
@@ -116,3 +117,4 @@
         }
     }
 }
+

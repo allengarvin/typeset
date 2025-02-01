@@ -21,6 +21,7 @@
     final = "d"
     shorttitle = "lady_if_i_through_grief"
     \include "include/distribution-header.ly"
+    cksum = "397b3e137ded73c71b5bd36a3091223e26c7a40e"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

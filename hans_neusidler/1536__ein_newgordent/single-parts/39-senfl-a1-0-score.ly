@@ -22,6 +22,7 @@
     lastupdated = "2018-10-16"
     shorttitle = "elslein_liebstes_elslein_mein"
     \include "include/distribution-header.ly"
+    cksum = "5cafce48ec8e0512c27a69709d86dbc7ba023849"
     tagline = #'f
 }
 
@@ -62,3 +63,4 @@
         }
     }   
 }
+

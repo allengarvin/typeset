@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "cc339e31a3abb2040051df7708020ae8c45d49ef"
     % Things that change per piece:
     title = "Parto o non parto"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

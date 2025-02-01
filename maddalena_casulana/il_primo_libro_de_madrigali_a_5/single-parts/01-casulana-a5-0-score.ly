@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "c0506e5af6845023af958b4bfb572c8568f62e6f"
     % Things that change per piece:
     title = "Come fiammeggia e splende"
     subtitle = ""
@@ -142,4 +143,5 @@
         }
     }
 }
+
 

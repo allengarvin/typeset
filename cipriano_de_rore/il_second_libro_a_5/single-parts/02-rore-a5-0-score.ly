@@ -25,6 +25,7 @@
     shorttitle = "la_terra_di_novelli"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c03172e108edad497d6cab458568af96510b6232"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

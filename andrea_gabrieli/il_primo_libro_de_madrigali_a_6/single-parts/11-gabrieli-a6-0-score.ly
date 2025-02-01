@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "cbc75c1a909c76fbaef2cfda1a82b357c31dd70d"
     % Things that change per piece:
     title = "Con che lusinghe Amor"
     subtitle = "Prima parte"
@@ -129,3 +130,4 @@
         }
     }
 }
+

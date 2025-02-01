@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "des_biens"
     \include "include/distribution-header.ly"
+    cksum = "3331a61359cff661fbdd9d36d66f7faeabd34786"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

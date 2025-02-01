@@ -25,6 +25,7 @@
     rhyme = "aBBCdEFDceeAA"
     poeticform = "madrigal"
     \include "include/distribution-header.ly"
+    cksum = "3e47d0a3b0fd1c9a18fbed30112ad74b579956d6"
     tagline = #'f
 }
 
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

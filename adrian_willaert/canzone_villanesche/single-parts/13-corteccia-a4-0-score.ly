@@ -26,6 +26,7 @@
     final = "g"
     shorttitle = "madonna_io_taggi"
     \include "include/distribution-header.ly"
+    cksum = "73b075f0de1da698912f81956c41f543898b9acb"
     tagline = #'f
 }
 
@@ -93,4 +94,5 @@
         }
     }
 }
+
 

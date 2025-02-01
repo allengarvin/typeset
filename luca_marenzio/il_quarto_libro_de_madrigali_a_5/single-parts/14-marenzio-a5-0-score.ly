@@ -12,6 +12,7 @@
     lastupdated = "2023-01-03"
     originallyset = "2023-01-03"
     \include "include/distribution-header.ly"
+    cksum = "35a24e296fe5fe36f27ee8c8fd5e1a033acddca5"
     % Things that change per piece:
     title = "Spirto a cui giova"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

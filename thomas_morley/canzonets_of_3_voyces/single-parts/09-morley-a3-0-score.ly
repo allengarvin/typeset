@@ -21,6 +21,7 @@
     lastupdated = "2013-05-19"
     shorttitle = "deep_lamenting"
     \include "include/distribution-header.ly"
+    cksum = "e5d55032cbe83581d9960e16e4ee78775f789058"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

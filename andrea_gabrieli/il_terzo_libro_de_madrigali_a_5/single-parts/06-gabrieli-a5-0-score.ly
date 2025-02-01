@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "56a43f0f8e85ed19a91a2111dc3597c0c516450d"
     % Things that change per piece:
     title = "Una felice etate"
     subtitle = "Prima parte"
@@ -111,3 +112,4 @@
         }
     }
 }
+

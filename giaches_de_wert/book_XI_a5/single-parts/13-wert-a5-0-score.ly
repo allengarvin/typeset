@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "4f261ac534d429f19594c555a91f7095c2f3e2fb"
     % Things that change per piece:
     title = "Voi nemico crudele"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

@@ -27,6 +27,7 @@
     categories = "[madrigal]"
     motifs = "[po]"
     \include "include/distribution-header.ly"
+    cksum = "8464faacea84ed8fc3bc8f60740944035250068a"
     tagline = #'f
 }
 
@@ -107,3 +108,4 @@
         }
     }
 }
+

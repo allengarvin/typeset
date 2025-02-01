@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "8f7150a87613b792a0c4849f8f47ed27c9960f72"
     % Things that change per piece:
     title = "Vivo in guerra mendico"
     subtitle = ""
@@ -135,3 +136,4 @@
         }
     }
 }
+

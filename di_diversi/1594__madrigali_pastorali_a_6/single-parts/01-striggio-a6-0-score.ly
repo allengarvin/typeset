@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "9a2f20ebe39361362d0daf831c7e7b39cd1e262f"
     % Things that change per piece:
     title = "Siringa al bel Narciso"
     subtitle = ""
@@ -136,3 +137,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     categories = "[villanella,favorite]"
     motifs = "[joy]"
     \include "include/distribution-header.ly"
+    cksum = "682794c627b950e3c3afffd41772f045b42cfe1c"
     tagline = #'f
 }
 
@@ -107,3 +108,4 @@
         }
     }
 }
+

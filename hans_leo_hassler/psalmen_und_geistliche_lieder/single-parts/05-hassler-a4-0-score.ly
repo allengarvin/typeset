@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "in_dulci_jubilo"
     \include "include/distribution-header.ly"
+    cksum = "479ceeb84175858e5c3f306721bf0d84962f3cd1"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

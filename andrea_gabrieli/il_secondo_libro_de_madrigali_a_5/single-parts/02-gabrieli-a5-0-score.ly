@@ -12,6 +12,7 @@
     lastupdated = "2023-01-28"
     originallyset = "2023-01-28"
     \include "include/distribution-header.ly"
+    cksum = "e05ae341d3142d8d36499aaec0231e2d06d7e034"
     % Things that change per piece:
     title = "Felice Antonio"
     subtitle = "Seconda parte"
@@ -107,3 +108,4 @@
         }
     }
 }
+

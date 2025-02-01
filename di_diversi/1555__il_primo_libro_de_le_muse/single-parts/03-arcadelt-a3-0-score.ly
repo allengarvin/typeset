@@ -26,6 +26,7 @@
     shorttitle = "tempo_verra"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "e79e3fd263487717d81d57bf81c50994f1c18df3"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

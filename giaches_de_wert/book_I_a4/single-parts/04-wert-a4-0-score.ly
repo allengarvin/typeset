@@ -22,6 +22,7 @@
     shorttitle = "pero_che_voi_non_siete"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "51effdeb667f4bed359873a90cb5354682097520"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
 
 
 }
+
 

@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "ave_region_coelorum"
     \include "include/distribution-header.ly"
+    cksum = "56f8476f12d3cc99df2d39007dc0ffbb2be1a81b"
     tagline = #'f
 }
 
@@ -120,3 +121,4 @@
         }
     }
 }
+

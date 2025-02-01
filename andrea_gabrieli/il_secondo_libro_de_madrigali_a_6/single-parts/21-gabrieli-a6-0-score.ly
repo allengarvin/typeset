@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "feff2801274bcc1ed3edc082fec90a7b8a563df0"
     % Things that change per piece:
     title = "Così di quanto ebbi già l'alma trista"
     subtitle = "Seconda parte"
@@ -116,3 +117,4 @@
         }
     }
 }
+

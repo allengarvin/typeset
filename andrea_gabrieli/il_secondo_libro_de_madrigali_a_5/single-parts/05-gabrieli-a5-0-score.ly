@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "befc2497db6bb7a4f2af1cc8b2662921e1975917"
     % Things that change per piece:
     title = "Ove son le promesse"
     subtitle = "Seconda parte"
@@ -116,3 +117,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2023-02-11"
     originallyset = "2023-02-11"
     \include "include/distribution-header.ly"
+    cksum = "bd6b0006ed6e3c0e37ddba58b0feac38f74910a2"
     % Things that change per piece:
     title = "Crudelissima doglia"
     subtitle = ""
@@ -107,3 +108,4 @@
         }
     }
 }
+

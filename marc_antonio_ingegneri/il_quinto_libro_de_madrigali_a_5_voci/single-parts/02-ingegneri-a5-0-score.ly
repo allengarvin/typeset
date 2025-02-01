@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "c891581c6c82d64fe02d76ad41edecf162504bb2"
     % Things that change per piece:
     title = "Non vede un simil par d'amanti"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

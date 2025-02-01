@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "b7de9b55489cf359847adb20b28454ac8180001a"
     % Things that change per piece:
     title = "Non porta ghiaccio Aprile"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

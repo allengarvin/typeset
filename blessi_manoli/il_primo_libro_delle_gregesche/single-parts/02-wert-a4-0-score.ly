@@ -25,6 +25,7 @@
     shorttitle = "chel_bello_epithimia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8ddfe48312cd31cf53ee02432644ad8eefff319c"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }   
     }
 }
+
 

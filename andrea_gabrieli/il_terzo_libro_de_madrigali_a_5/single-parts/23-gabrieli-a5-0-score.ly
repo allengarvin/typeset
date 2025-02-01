@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "8917e033a5d0d404df7a6a1329fe2b740d0bc0c5"
     % Things that change per piece:
     title = "Da quei begli occhi"
     subtitle = ""
@@ -127,4 +128,5 @@
         }
     }
 }
+
 

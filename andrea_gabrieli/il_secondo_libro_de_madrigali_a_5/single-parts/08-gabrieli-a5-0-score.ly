@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "21160d4ebd72907aa7b318ec0e16516dc4bfaa86"
     % Things that change per piece:
     title = "Se sol pensando in voi"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

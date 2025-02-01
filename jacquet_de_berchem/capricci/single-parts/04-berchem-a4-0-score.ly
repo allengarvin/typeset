@@ -26,6 +26,7 @@
     shorttitle = "ricordati_pagan"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "5142cab5402d6df6215ea1bc437375ec99a034d5"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

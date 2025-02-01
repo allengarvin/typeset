@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "e04eacc16e03dec612ec5ea1741795789b61ca9b"
     % Things that change per piece:
     title = "Vergine bella"
     subtitle = ""
@@ -141,3 +142,4 @@
         }
     }
 }
+

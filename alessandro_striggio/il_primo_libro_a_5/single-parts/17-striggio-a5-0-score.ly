@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[night,dawn,amore,death]"
     \include "include/distribution-header.ly"
+    cksum = "28a35d0cb080c06a2c6a6bdccf05b08f6e8d0cb4"
     tagline = #'f
 }
 
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

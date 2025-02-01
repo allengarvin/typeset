@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "15240ee3e842bd387f03bd826b22fef8180f2d54"
     % Things that change per piece:
     title = "Non fonte, o fiume, od aura"
     subtitle = ""
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "inviolata_integra_et_casta"
     \include "include/distribution-header.ly"
+    cksum = "cc557bfd5a717f411089217021cc321ed81e2b00"
     tagline = #'f
 }
 
@@ -132,4 +133,5 @@
         }
     }
 }
+
 

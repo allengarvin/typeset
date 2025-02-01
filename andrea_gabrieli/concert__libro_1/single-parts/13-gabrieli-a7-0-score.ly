@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "hodie_christus_natus_est"
     \include "include/distribution-header.ly"
+    cksum = "3b8ad7cb63b422c736c47a5aca42de1bf3ad2003"
     tagline = #'f
 }
 
@@ -126,3 +127,4 @@
         }
     }
 }
+

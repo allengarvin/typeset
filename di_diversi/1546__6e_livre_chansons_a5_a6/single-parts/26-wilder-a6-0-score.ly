@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "du_bon_du_coeur_ma_chiere_dame"
     \include "include/distribution-header.ly"
+    cksum = "6321acc16470feb07f8c9215430cc0408de4aa63"
     tagline = #'f
 }
 
@@ -106,3 +107,4 @@
         }
     }
 }
+

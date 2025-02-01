@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "6e203577b8bacfd48c832c079667a8aa32c1ba5b"
     % Things that change per piece:
     title = "Non tanto il bel palazzo"
     subtitle = ""
@@ -122,3 +123,4 @@
         }
     }
 }
+

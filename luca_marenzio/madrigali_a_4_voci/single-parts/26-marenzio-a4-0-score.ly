@@ -20,6 +20,7 @@
     shorttitle = "lasso_dicea"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "7487c1b26d7b38523854cc469a85cda0fe0a08a8"
     language = "italian"
     tagline = #'f
 }
@@ -91,4 +92,5 @@
         }
     }
 }
+
 

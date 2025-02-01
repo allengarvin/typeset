@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "f9cae533a80beab1fb292d79ced6754c9c45482e"
     % Things that change per piece:
     title = "In longo vern'avea l'oscura notte"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

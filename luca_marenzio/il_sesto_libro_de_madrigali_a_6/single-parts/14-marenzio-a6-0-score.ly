@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "1c177f19555bcf035c9c00ef9f0e31f813503fd6"
     % Things that change per piece:
     title = "O Fortuna"
     subtitle = "Quinta parte"
@@ -133,3 +134,4 @@
         }
     }
 }
+

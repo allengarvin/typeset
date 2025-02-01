@@ -12,6 +12,7 @@
     lastupdated = "2023-02-07"
     originallyset = "2023-02-07"
     \include "include/distribution-header.ly"
+    cksum = "b4675d065afb4c17ebae5b75881de602926b02b1"
     % Things that change per piece:
     title = "Vattene anima mia"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

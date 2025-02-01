@@ -22,6 +22,7 @@
     final = "e"
     shorttitle = "mille_regretz"
     \include "include/distribution-header.ly"
+    cksum = "c925811596ffe675b457d2cec46a7b17c7290cdd"
     tagline = #'f
 }
 
@@ -87,4 +88,5 @@
         }
     }
 }
+
 

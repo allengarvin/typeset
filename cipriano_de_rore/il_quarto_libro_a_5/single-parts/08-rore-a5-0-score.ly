@@ -27,6 +27,7 @@
     categories = "[madrigal]"
     motifs = "[nymph,po,latona]"
     \include "include/distribution-header.ly"
+    cksum = "284908c9bdb3b98f0084a067e467be1acbf61dcb"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

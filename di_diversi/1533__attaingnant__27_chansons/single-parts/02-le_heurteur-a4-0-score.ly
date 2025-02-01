@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "mirelaridon"
     \include "include/distribution-header.ly"
+    cksum = "0c413622553f93a57302f811c57cc0186ccab976"
     tagline = #'f
 }
 
@@ -112,4 +113,5 @@
         }
     }
 }
+
 

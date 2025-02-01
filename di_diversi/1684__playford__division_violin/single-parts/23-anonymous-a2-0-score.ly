@@ -25,6 +25,7 @@
     lastupdated = "2013-05-08"
     shorttitle = "johnny_cock_thy_beaver"
     \include "include/distribution-header.ly"
+    cksum = "863548dc678790912b77e4ccc96528a75c99432d"
     tagline = #'f
 }
 
@@ -45,3 +46,4 @@
         \new Voice << \global \groundbassXXIII >>
     }
 }
+

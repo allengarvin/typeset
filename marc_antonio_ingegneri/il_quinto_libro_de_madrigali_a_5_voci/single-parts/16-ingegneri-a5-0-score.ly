@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "9f6a74e85ba8ca2a66b2d40f1e3aa6ca3c692dec"
     % Things that change per piece:
     title = "Non mirar, non mirare"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2022-12-19"
     originallyset = "2022-12-19"
     \include "include/distribution-header.ly"
+    cksum = "f0d82ed537f1ce06b773c590bd597e84b46070bb"
     % Things that change per piece:
     title = "Se bramate ch'io mora"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

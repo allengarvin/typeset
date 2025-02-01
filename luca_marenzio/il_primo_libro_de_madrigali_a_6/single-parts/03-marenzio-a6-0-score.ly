@@ -23,6 +23,7 @@
     shorttitle = "potro_viver_io_piu"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "dfc9d8f1d478d4c455f98e520df69d44ad627de2"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

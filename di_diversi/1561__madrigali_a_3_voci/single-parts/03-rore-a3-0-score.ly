@@ -28,6 +28,7 @@
     shorttitle = "io_dico_e_dissi"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "c6406f885196877fd21bae6bb051216e96332dd5"
     tagline = #'f
 }
 
@@ -99,4 +100,5 @@
         }
     }
 }
+
 

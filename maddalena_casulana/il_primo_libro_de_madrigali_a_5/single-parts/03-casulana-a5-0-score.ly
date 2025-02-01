@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "c5cfe47c4dd506339ea3f817c5eb16322142e199"
     % Things that change per piece:
     title = "Così non senti mai"
     subtitle = "Seconda stanza"
@@ -112,3 +113,4 @@
         }
     }
 }
+

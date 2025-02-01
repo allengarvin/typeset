@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "49c1369b34706d53aa75f6ef15c38350b50f51ff"
     % Things that change per piece:
     title = "Sol'io quanto più piango"
     subtitle = "Terza parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

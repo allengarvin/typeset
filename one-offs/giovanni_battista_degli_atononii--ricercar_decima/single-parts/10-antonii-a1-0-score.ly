@@ -19,6 +19,7 @@
     lastupdated = "2015-08-24"
     shorttitle = "ricercata"
     \include "include/distribution-header.ly"
+    cksum = "96e9cf18f228d2a03b94b5f742cd19cff27b5c84"
     tagline = #'f
 }
 
@@ -44,4 +45,5 @@
         }
     }   
 }
+
 

@@ -26,6 +26,7 @@
     shorttitle = "ogni_loco"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "d1b2fbc8374904816b6ec77c0e3f38fce6c3b29c"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

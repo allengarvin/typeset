@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "a18585a9b8fd5b771eb171f2edf127990045f498"
     % Things that change per piece:
     title = "Altra aurora bisogna"
     subtitle = "Settima parte"
@@ -125,4 +126,5 @@
         }
     }
 }
+
 

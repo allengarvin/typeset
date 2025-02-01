@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "b10446997a1b118c1bcc909cb424f51697bace14"
     % Things that change per piece:
     title = "Dolci care parole"
     subtitle = ""
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "ami_souffrez"
     \include "include/distribution-header.ly"
+    cksum = "20bc93fdbb36efd8eee83ad3fd05f061077fb76a"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
 
     }   
 }
+
 

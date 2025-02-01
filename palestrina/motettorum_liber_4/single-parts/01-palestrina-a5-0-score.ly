@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "osculetur_me_osculo_oris_sui"
     \include "include/distribution-header.ly"
+    cksum = "54d302d5938e4fa274260cbee72e6d6517834b6a"
     tagline = #'f
 }
 
@@ -106,3 +107,4 @@
         }
     }
 }
+

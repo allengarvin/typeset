@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "09ab491d75e10d657ecdc687b4091bd2700f075f"
     % Things that change per piece:
     title = "Senza il mio vago sol"
     subtitle = "Prima parte"
@@ -111,3 +112,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "cela_sans_plus"
     \include "include/distribution-header.ly"
+    cksum = "7e9391b99d25664eec5dc09f767f51ccea9981be"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         }
     }   
 }
+
 

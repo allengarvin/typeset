@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "adieu_mes_amours"
     \include "include/distribution-header.ly"
+    cksum = "bc459ac0a98e43507c2d05fac0970e35fc598704"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

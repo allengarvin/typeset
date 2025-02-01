@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "7ee681fe29de0511cc0bb2a2e2fdfe8b32318b71"
     % Things that change per piece:
     title = "A poco a poco io sento"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

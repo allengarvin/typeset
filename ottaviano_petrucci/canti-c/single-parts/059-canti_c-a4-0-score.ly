@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "il_est_de_bone_heure_ne"
     \include "include/distribution-header.ly"
+    cksum = "11c20da165a85160df132b0d25b3bf757f6d93e7"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

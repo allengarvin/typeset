@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "20ae154b91a3bec518b9d0453cacf36a0e036216"
     % Things that change per piece:
     title = "Questi nel mio partir"
     subtitle = ""
@@ -133,4 +134,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-30"
     originallyset = "2023-01-30"
     \include "include/distribution-header.ly"
+    cksum = "7fd9f3dd5d4ccdaa993544b66996ad6dbab2d4a3"
     % Things that change per piece:
     title = "O che vezzosa Aurora"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

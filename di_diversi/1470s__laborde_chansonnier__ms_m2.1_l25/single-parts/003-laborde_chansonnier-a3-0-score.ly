@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "tout_a_par_moy"
     \include "include/distribution-header.ly"
+    cksum = "1e31c25601ec2fa7c2fff140ca09fbc4f59fec06"
     tagline = #'f
 }
 
@@ -70,4 +71,5 @@
         }
     }   
 }
+
 

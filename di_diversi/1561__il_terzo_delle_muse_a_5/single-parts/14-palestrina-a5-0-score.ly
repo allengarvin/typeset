@@ -27,6 +27,7 @@
     shorttitle = "se_ben_non_veggon"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "896625170681384b367eea92aca06c61a399299c"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

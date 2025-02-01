@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "de_profundis"
     \include "include/distribution-header.ly"
+    cksum = "80fd33e5701ea86194ee105c6271814b3b6c88f6"
     tagline = #'f
 }
 
@@ -77,4 +78,5 @@
         }
     }   
 }
+
 

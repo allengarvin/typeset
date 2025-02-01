@@ -12,6 +12,7 @@
     lastupdated = "2023-11-22"
     originallyset = "2023-11-22"
     \include "include/distribution-header.ly"
+    cksum = "29e248078563f15e0b9d0d0818f558406909305e"
     % Things that change per piece:
     title = "Paduana Antinos"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

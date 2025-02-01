@@ -12,6 +12,7 @@
     lastupdated = "2022-11-16"
     originallyset = "2022-11-16"
     \include "include/distribution-header.ly"
+    cksum = "d4c7ca509a9e89bfb3f2b182ba2694151838f50d"
     % Things that change per piece:
     title = "O Domine adjuva me"
     subtitle = ""
@@ -117,3 +118,4 @@
         }
     }
 }
+

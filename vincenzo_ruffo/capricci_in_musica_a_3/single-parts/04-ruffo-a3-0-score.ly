@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "la_brava"
     \include "include/distribution-header.ly"
+    cksum = "44513fc71fa08af8aa1a56b486f7c9d4b4f627d9"
     tagline = #'f
 }
 
@@ -64,4 +65,5 @@
         }
     }   
 }
+
 

@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "qui_es_ane"
     \include "include/distribution-header.ly"
+    cksum = "21c06590ae56e393734e83ac715105a88be22494"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

@@ -24,6 +24,7 @@
     categories = "[villanella]"
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "a479a660047f77dd887401895526688b512f3091"
     tagline = #'f
 }
 
@@ -99,3 +100,4 @@
         }
     }
 }
+

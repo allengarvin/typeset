@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "angelus_domini_astitit"
     \include "include/distribution-header.ly"
+    cksum = "22223cf37fb7a55dfc827bee8bed3bb9d1d1cc40"
     tagline = #'f
 }
 
@@ -99,3 +100,4 @@
         }
     }
 }
+

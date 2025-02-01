@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "an_wasserflussen_babylon"
     \include "include/distribution-header.ly"
+    cksum = "d9dcccc2633b52b5c98e8e7be9c8c2a16afc8ca3"
     tagline = #'f
 }
 
@@ -101,3 +102,4 @@
         }
     }
 }
+

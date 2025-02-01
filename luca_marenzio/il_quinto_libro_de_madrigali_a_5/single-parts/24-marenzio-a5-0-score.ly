@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "c389d25eb54574a78b88bebc53a3d73a6f9c2f26"
     % Things that change per piece:
     title = "Liete, verdi, fiorite e fresche valli"
     subtitle = "Prima parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "gaude_virgo_gloriosa"
     \include "include/distribution-header.ly"
+    cksum = "ae6299b935298bcfaefdc90b4890b1e3a3b88d66"
     tagline = #'f
 }
 
@@ -95,3 +96,4 @@
         }
     }
 }
+

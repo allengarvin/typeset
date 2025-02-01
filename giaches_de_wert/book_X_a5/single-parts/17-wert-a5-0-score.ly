@@ -12,6 +12,7 @@
     lastupdated = "2023-02-11"
     originallyset = "2023-02-11"
     \include "include/distribution-header.ly"
+    cksum = "82e202519abbd5fb6c32d26240b1ad56a7e4a3aa"
     % Things that change per piece:
     title = "Felicissima gioia"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

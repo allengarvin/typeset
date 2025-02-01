@@ -12,6 +12,7 @@
     lastupdated = "2023-11-19"
     originallyset = "2023-11-19"
     \include "include/distribution-header.ly"
+    cksum = "5245803e3dfd4898e049a833ecd8884156b489b6"
     % Things that change per piece:
     title = "Galliarda Zingi"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

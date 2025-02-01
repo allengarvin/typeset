@@ -25,6 +25,7 @@
     shorttitle = "anchor_chio_possa_dire"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3415b010d06b72a4394d9f453e35968f89be346a"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

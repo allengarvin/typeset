@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "dd2cd9c6816d7cc2a62742eddf56c3f4c665ed50"
     % Things that change per piece:
     title = "Tu ribello d'Amor"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

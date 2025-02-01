@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "nastu_pas_veu_la_mistondina"
     \include "include/distribution-header.ly"
+    cksum = "3d81f284e90aaae92e41244369e5e4f4ed643c3a"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

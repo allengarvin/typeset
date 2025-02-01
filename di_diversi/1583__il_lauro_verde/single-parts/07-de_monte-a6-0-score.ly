@@ -12,6 +12,7 @@
     lastupdated = "2022-09-26"
     originallyset = "2022-09-26"
     \include "include/distribution-header.ly"
+    cksum = "1d6622eb688bc5c1bcd4b9379a8f154cd03e5d37"
     % Things that change per piece:
     title = "Verde lauro è'l mio core"
     subtitle = ""
@@ -128,3 +129,4 @@
         }
     }
 }
+

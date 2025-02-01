@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "l_autrier_qui_passa"
     \include "include/distribution-header.ly"
+    cksum = "1992dde5222d1b5566f8773ef0d2e699bec74ec5"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

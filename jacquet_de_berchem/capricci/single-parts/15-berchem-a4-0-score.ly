@@ -27,6 +27,7 @@
     shorttitle = "se_l_affogarmi"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "6eb23713f64b3456368c4a58f269ce891e812ab4"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

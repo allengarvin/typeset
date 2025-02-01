@@ -24,6 +24,7 @@
     shorttitle = "e_qual_cervo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3d16c4f4710c401d433fd9e4e17f798cd11a43f4"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

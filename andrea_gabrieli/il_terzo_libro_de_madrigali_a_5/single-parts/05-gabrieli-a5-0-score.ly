@@ -12,6 +12,7 @@
     lastupdated = "2023-01-14"
     originallyset = "2023-01-14"
     \include "include/distribution-header.ly"
+    cksum = "6d47f7da4d1681a10ff1841b5b91aa2239a4a6b5"
     % Things that change per piece:
     title = "Cor mio, se gli è pur vero"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

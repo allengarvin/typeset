@@ -12,6 +12,7 @@
     lastupdated = "2023-01-28"
     originallyset = "2023-01-28"
     \include "include/distribution-header.ly"
+    cksum = "a7eaa3b62b7b814d7a07742815c5eecd15c032dd"
     % Things that change per piece:
     title = "Nasce la doglia mia"
     subtitle = ""
@@ -124,3 +125,4 @@
         }
     }
 }
+

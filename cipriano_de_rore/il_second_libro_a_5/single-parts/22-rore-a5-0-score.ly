@@ -25,6 +25,7 @@
     shorttitle = "padre_del_ciel"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "9a46108a3b3e0c71c9d651e0ebbab93e82065473"
     tagline = #'f
 }
 
@@ -117,3 +118,4 @@
         }
     }
 }
+

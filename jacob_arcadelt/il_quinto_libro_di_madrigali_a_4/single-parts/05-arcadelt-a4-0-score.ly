@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "6403e0afaedbccf9fb04b0fd588ac0f6ac7d2b5d"
     % Things that change per piece:
     title = "Or tregu'avran i miei caldi sospiri"
     subtitle = ""
@@ -112,6 +113,7 @@
         }
     }
 }
+
 
 
 

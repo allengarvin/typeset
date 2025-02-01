@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "4290d5ba5ae5fdee2a31d5049309253ae289e2fc"
     % Things that change per piece:
     title = "Bianca neve è il bel collo"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

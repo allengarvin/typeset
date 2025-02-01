@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "59576c6d840bcd4cac2404b944a5084b01e3940d"
     % Things that change per piece:
     title = "Cinquiesme entrée"
     subtitle = ""
@@ -91,3 +92,4 @@
         }
     }   
 }
+

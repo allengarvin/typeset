@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "justus_cor_suum"
     \include "include/distribution-header.ly"
+    cksum = "e8fc9ae3975f43d808d88c344ea9d7f73f1faa90"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         }
     }
 }
+
 

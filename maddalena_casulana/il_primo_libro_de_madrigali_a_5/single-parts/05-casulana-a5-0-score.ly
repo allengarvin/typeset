@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "0f75faf3ac54a94b5e835d14add9d2d862467cdc"
     % Things that change per piece:
     title = "Se vedrem poi destarsi"
     subtitle = "Quarta e ultima stanza"
@@ -112,3 +113,4 @@
         }
     }
 }
+

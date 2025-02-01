@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "tucto_il_mundo_e_fantasia"
     \include "include/distribution-header.ly"
+    cksum = "e94f6c31132825f75e0c50811bf652340bd05338"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
         }
     }
 }
+
 

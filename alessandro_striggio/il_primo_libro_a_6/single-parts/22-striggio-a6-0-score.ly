@@ -26,6 +26,7 @@
     shorttitle = "fortuna_alata"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8b01ac11d60a3af324df828790f4941af753f64f"
     tagline = #'f
 }
 
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

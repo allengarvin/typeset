@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "47a53c55c51b28fd33b107f76eae950f3bd61e84"
     % Things that change per piece:
     title = "Lucida perla"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

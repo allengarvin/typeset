@@ -26,6 +26,7 @@
     lastupdated = "2020-03-13"
     originallyset = "2020-03-13"
     \include "include/distribution-header.ly"
+    cksum = "bc55b30dde0a3aba461698ef58da62978776f511"
     source = \markup { Munich University MSS 328-331 partbooks (after 1523), vagant from Dk-Kk MS 1872 (1541) }
     tagline = #'f
 }
@@ -93,3 +94,4 @@
         }
     }   
 }
+

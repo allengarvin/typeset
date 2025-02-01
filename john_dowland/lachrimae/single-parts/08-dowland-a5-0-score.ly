@@ -20,6 +20,7 @@
     originallyset = "2018-07-01"
     lastupdated = "2018-07-01"
     \include "include/distribution-header.ly"
+    cksum = "6a95b2684d340cd64edd3965501c8a2f7684553e"
     tagline = #'f
 }
 
@@ -79,3 +80,4 @@
         }
     }   
 }
+

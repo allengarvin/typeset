@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "donna_te_dico_il_vero"
     \include "include/distribution-header.ly"
+    cksum = "4e8b85b18d6694593d69d4e37750e65c899b8c76"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

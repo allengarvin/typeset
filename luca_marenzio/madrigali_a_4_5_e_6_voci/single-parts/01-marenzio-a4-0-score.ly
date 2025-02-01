@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "0bdf22dc9ea5262bec53a6571a538a53e4fdd8a5"
     % Things that change per piece:
     title = "Ove è condutto il mio amoroso stile"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

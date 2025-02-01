@@ -25,6 +25,7 @@
     shorttitle = "o_liete_piante_erbette"
     categories = "[villanella]"
     \include "include/distribution-header.ly"
+    cksum = "4cb38e6f188e3c63678eef9011480cc80c056197"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

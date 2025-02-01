@@ -12,6 +12,7 @@
     lastupdated = "2022-11-10"
     originallyset = "2022-11-10"
     \include "include/distribution-header.ly"
+    cksum = "c4ca3dcb24a5d504d247d2597d1aa00ec4a37033"
     % Things that change per piece:
     title = "Di semplice farfalla"
     subtitle = ""
@@ -103,3 +104,4 @@
         }
     }
 }
+

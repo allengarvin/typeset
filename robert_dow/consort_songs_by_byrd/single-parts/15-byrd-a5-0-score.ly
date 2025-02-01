@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "lullabie"
     \include "include/distribution-header.ly"
+    cksum = "4bd6dd2c40f41d7f9d3a9d651e5db7040877f43f"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }   
 }
+
 

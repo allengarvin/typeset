@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "b4ebb015b5816222679f65a7d2d2993e691f5e48"
     % Things that change per piece:
     title = "Com'avran fin le dolorose tempre"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

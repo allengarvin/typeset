@@ -24,6 +24,7 @@
     categories = "[christmas]"
     shorttitle = "angelus_ad_pastores_ait"
     \include "include/distribution-header.ly"
+    cksum = "f0aa43a911bb6d0982643c95ffa56ad734ddb257"
     tagline = #'f
 }
 
@@ -120,3 +121,4 @@
         }
     }
 }
+

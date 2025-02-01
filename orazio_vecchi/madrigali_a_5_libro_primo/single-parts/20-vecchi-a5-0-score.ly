@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "d34779f4558b3c079595a3f86c01c1935fbeb7f9"
     % Things that change per piece:
     title = "Ite, rime dolenti"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "departes_vous"
     \include "include/distribution-header.ly"
+    cksum = "dacbc2e78b18dd05b34809a7bf16b9a7ecf6517d"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

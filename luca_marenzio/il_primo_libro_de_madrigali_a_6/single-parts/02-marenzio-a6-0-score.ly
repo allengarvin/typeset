@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[venus,cupids,flowers,rose,lily,spring]"
     \include "include/distribution-header.ly"
+    cksum = "194e3964ea2997fe8dad053970367a4a81ffbc27"
     tagline = #'f
 }
 
@@ -123,4 +124,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "mentre_il_cuculo"
     \include "include/distribution-header.ly"
+    cksum = "2c68e57963533acdc97db7a8811934beaf9959f2"
     tagline = #'f
 }
 
@@ -106,4 +107,5 @@
         }
     }
 }
+
 

@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "ascendente_jesu_in_navicula"
     \include "include/distribution-header.ly"
+    cksum = "396197f0bcba10a21b2efe8744ea13c9f7177c03"
     tagline = #'f
 }
 
@@ -119,3 +120,4 @@
         }
     }
 }
+

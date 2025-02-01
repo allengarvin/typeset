@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "67133356497daf6330aecb9ef16c0d1b772549b2"
     % Things that change per piece:
     title = "Basse dance II"
     subtitle = ""
@@ -77,3 +78,4 @@
         }
     }   
 }
+

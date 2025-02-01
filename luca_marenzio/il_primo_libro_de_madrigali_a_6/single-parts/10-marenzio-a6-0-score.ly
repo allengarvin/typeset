@@ -25,6 +25,7 @@
     poeticform = "madrigal"
     motifs = "[morte,la-petite-mort,amore,hell,flame,male-pov,fate]"
     \include "include/distribution-header.ly"
+    cksum = "85e7e4a60e665c2c4136118244d6343435da240b"
     tagline = #'f
 }
 
@@ -123,4 +124,5 @@
         }
     }
 }
+
 

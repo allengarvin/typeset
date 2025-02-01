@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "91decff1a4e68e7e378ecb8b75adbfb9bc80cef4"
     % Things that change per piece:
     title = "Ringrazio e lodo il ciel"
     subtitle = "Prima parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

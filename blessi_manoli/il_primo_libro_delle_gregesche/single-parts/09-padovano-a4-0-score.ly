@@ -25,6 +25,7 @@
     shorttitle = "mi_ho_scritto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c52cd0b82944efb1aa8fe2d7321bf784067ac64d"
     tagline = #'f
 }
 
@@ -96,4 +97,5 @@
         }   
     }
 }
+
 

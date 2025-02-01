@@ -22,6 +22,7 @@
     categories = "[madrigal]"
     motifs = "[laura-l'aura-wordplay,diana]"
     \include "include/distribution-header.ly"
+    cksum = "574488d34a5deda99a435f8c997284f33a69d369"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

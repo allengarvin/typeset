@@ -25,6 +25,7 @@
     shorttitle = "vivo_sol_di_speranza"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "5c34b80bdd45449ee937e4ada8ae8581b1a46b85"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

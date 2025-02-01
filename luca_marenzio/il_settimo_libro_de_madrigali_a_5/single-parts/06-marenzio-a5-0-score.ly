@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "f29d375a072f4f73889b0bfeb47f1c961169230a"
     % Things that change per piece:
     title = "Al lume delle stelle"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     shorttitle = "in_un_lucido_rio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "2fa6e52682dedc1d0dcad02bea7c6cb89a443ce6"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

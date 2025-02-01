@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "ffc5016db6939723dd7a7abcbcc596c9212c46f4"
     % Things that change per piece:
     title = "Amor s'è in lei"
     subtitle = "Seconda parte"
@@ -124,3 +125,4 @@
         }
     }
 }
+

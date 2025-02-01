@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "440aefb413a37963343481e1de813f0c01788b98"
     % Things that change per piece:
     title = "Questi vaghi concenti"
     subtitle = "Prima parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

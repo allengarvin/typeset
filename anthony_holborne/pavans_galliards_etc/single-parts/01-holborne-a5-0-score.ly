@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "bona_speranza"
     \include "include/distribution-header.ly"
+    cksum = "c846ed2ca828a26f5b05336fcbdebdd1581a7021"
     tagline = #'f
 }
 
@@ -80,3 +81,4 @@
         }
     }   
 }
+

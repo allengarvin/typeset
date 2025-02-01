@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "7b7c5fc79366327cf8a262ae227aa8c91c287a2d"
     % Things that change per piece:
     title = "Baci soavi e cari"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "6766b18d732429470a8a09eaa2c9d3ca4a9a4c30"
     % Things that change per piece:
     title = "Tremolavan le frondi"
     subtitle = ""
@@ -138,4 +139,5 @@
         }
     }
 }
+
 

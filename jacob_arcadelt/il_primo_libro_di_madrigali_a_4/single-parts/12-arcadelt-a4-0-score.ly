@@ -24,6 +24,7 @@
     shorttitle = "madonna_sio_voffendo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "f579147f2188f7fe697c1cfb0c6202aea848b7b9"
     tagline = #'f
 }
 
@@ -92,4 +93,5 @@
         }
     }
 }
+
 

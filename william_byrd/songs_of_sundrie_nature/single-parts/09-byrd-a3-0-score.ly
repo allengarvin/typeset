@@ -22,6 +22,7 @@
     shorttitle = "the_nightingale"
     categories = "[animal]"
     \include "include/distribution-header.ly"
+    cksum = "48131010937212c1b9e554546008aa583c18b874"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

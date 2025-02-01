@@ -26,6 +26,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "50941476584ab3eb8ee35ce66d1d4094dd025af5"
     composer = "Clément Janequin (c.1485-1558)/Claude Le Jeune (c.1528-1600)"
     tagline = #'f
 }
@@ -101,3 +102,4 @@
         }
     }
 }
+

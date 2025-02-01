@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "7966455c3da782e1e1f331b7ee96e5c8174b3189"
     % Things that change per piece:
     title = "Dunque da voi convien"
     subtitle = "Terza parte"
@@ -125,4 +126,5 @@
         }
     }
 }
+
 

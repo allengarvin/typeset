@@ -20,6 +20,7 @@
     shorttitle = "dissi_a_l_amata_mia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "bf60c78486583ca3eae1030726451ebabddf0ec4"
     language = "italian"
     tagline = #'f
 }
@@ -101,4 +102,5 @@
     }
 
 }
+
 

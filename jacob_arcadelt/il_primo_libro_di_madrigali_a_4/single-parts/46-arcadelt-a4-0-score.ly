@@ -24,6 +24,7 @@
     shorttitle = "felice_me"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "69692442da750ad106f5feb6cd87d25afecb8fb3"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

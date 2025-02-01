@@ -22,6 +22,7 @@
     final = "g"
     categories = "[dialogo]"
     \include "include/distribution-header.ly"
+    cksum = "294322cbc752ad8504a7edcfb6df61526ef09c30"
     tagline = #'f
     composer = "Michele Varotto (c.1550-c.1599)"
 }
@@ -283,3 +284,4 @@
         }
     }
 }
+

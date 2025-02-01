@@ -25,6 +25,7 @@
     final = "d"
     shorttitle = "a_que_ville__canon"
     \include "include/distribution-header.ly"
+    cksum = "84f21d180b3b30e692dc13729ea020c1349d95f8"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
 
     }   
 }
+
 

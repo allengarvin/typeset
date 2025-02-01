@@ -12,6 +12,7 @@
     lastupdated = "2022-11-25"
     originallyset = "2022-11-25"
     \include "include/distribution-header.ly"
+    cksum = "c3ea52cd195fe4d4c7970a4f008780f564febd4c"
     % Things that change per piece:
     title = "Aspice Domine de sede sancta tua"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

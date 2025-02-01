@@ -12,6 +12,7 @@
     lastupdated = "2023-11-23"
     originallyset = "2023-11-23"
     \include "include/distribution-header.ly"
+    cksum = "142036f68f6d529d9f3330fc1d1e75a40e232e62"
     % Things that change per piece:
     title = "Paduana Marsipar"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

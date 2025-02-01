@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "ricercar_del_sesto_tuono"
     \include "include/distribution-header.ly"
+    cksum = "59f629d3c446460ea3cede6ee58344beebe950b7"
     tagline = #'f
 }
 
@@ -76,4 +77,5 @@
         }
     }   
 }
+
 

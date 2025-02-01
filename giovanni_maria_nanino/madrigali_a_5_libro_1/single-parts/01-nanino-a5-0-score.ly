@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "9a30511f27d79bf1eae7f0aa53e9c2c41be205f8"
     % Things that change per piece:
     title = "Occhi si dè per voi giunger al core"
     subtitle = "Prima parte"
@@ -104,3 +105,4 @@
         }
     }
 }
+

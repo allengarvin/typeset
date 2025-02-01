@@ -22,6 +22,7 @@
     shorttitle = "la_dagoldina"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "77bad1639b9b1bcf808b4961453cd750315af653"
     tagline = #'f
 }
 
@@ -74,3 +75,4 @@
         }
     }   
 }
+

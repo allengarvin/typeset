@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "f87fa9720d1a6f9bd4275d0b598a9e730476594d"
     % Things that change per piece:
     title = "Due rose fresch'e colte"
     subtitle = "Prima parte"
@@ -120,3 +121,4 @@
     }
 }
  
+

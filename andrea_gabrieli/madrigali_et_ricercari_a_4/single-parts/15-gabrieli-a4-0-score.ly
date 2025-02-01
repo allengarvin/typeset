@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "ddfd705722795470f538428763079d39c4a254b4"
     % Things that change per piece:
     title = "Felice Europa anch'io godo non meno"
     subtitle = "Terza parte"
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

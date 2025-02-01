@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "ca2be92ed9c641539916c89aca8c839a945fb2d7"
     % Things that change per piece:
     title = "Quella che lieta del mortal"
     subtitle = "Prima parte"
@@ -112,4 +113,5 @@
         }
     }
 }
+
 

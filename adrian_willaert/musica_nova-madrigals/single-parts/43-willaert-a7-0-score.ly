@@ -25,6 +25,7 @@
     categories = "[madrigal,favorite]"
     motifs = "[amore,paradox,spring]"
     \include "include/distribution-header.ly"
+    cksum = "9e68d40c832df88c2384ca8bc848cc3a1d33767c"
     poeticform = "sonnet"
     tagline = #'f
 }
@@ -145,3 +146,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2023-02-04"
     originallyset = "2023-02-04"
     \include "include/distribution-header.ly"
+    cksum = "f30f788a53381fce47cc0baf92bb514e07c877c0"
     % Things that change per piece:
     title = "Cruda Amarilli"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

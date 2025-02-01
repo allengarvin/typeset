@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "99d73b70c2adc3ee9850f673a3ccd4a891a82c6a"
     % Things that change per piece:
     title = "Filli, volgendo i lumi"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

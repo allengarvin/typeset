@@ -23,6 +23,7 @@
     shorttitle = "missa_fortuna__kyrie_eleison"
     categories = "[fortuna]"
     \include "include/distribution-header.ly"
+    cksum = "5821e84b79d9e8827f4c61e95224dfbd4f414d2f"
     tagline = #'f
 }
 
@@ -152,4 +153,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }
 }
+
 

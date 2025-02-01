@@ -12,6 +12,7 @@
     lastupdated = "2022-09-22"
     originallyset = "2022-09-22"
     \include "include/distribution-header.ly"
+    cksum = "e51db4502ee375d6a77679a23eca2a893ab28647"
     % Things that change per piece:
     title = "Tirsi morir volea"
     folio = "Giovanni Battista Guarini (1538-1612)"
@@ -121,3 +122,4 @@
         }
     }
 }
+

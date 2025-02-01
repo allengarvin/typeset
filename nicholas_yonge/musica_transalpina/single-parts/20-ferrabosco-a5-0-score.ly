@@ -25,6 +25,7 @@
     shorttitle = "susanna_fayre"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "2e4a72430b043e46dd49e1aeff75467088a7940a"
     tagline = #'f
 }
 
@@ -87,4 +88,5 @@
         }
     }   
 }
+
 

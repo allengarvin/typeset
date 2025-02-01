@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "ca4888399a46397f7bb96b0f74e32a471dd6b561"
     % Things that change per piece:
     title = "Division in B-flat"
     subtitle = ""
@@ -57,3 +58,4 @@
         }
     }   
 }
+

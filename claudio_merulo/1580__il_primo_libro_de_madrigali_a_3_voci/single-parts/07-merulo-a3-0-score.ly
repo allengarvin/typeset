@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "19d4e7442223fd2c343569badbc335feb1b0974c"
     % Things that change per piece:
     title = "Deh, perché voglio anco di me dolermi"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

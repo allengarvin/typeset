@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "cest_mal_charche"
     \include "include/distribution-header.ly"
+    cksum = "0531b1f3a7ccf259c84978f613a9dd6ef957386e"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

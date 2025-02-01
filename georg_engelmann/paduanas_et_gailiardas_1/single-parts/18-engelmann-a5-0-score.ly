@@ -12,6 +12,7 @@
     lastupdated = "2023-11-23"
     originallyset = "2023-11-23"
     \include "include/distribution-header.ly"
+    cksum = "93a05268e19236c393c7c0d770ccf33509ef9dc8"
     % Things that change per piece:
     title = "Galliarda Sunon"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

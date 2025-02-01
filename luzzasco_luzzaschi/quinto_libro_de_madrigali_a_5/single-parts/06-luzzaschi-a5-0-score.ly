@@ -12,6 +12,7 @@
     lastupdated = "2022-11-05"
     originallyset = "2022-11-05"
     \include "include/distribution-header.ly"
+    cksum = "b90415c96d43d7c06d964f899271c8f44651f0fa"
     % Things that change per piece:
     title = "Ecco, o dolce, o gradita"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

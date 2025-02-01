@@ -12,6 +12,7 @@
     lastupdated = "2022-10-24"
     originallyset = "2022-10-24"
     \include "include/distribution-header.ly"
+    cksum = "e7d05f60677bb43ebe7eb7524e69e6d0ce350922"
     % Things that change per piece:
     title = "Ego dormivi"
     subtitle = ""
@@ -96,3 +97,4 @@
         }
     }
 }
+

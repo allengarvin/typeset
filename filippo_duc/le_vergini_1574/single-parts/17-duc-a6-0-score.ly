@@ -29,6 +29,7 @@
     poeticform = "sonnet"
     rhyme = "ABBAABBACDECDE"
     \include "include/distribution-header.ly"
+    cksum = "a7613e4605a3f393a89c3dd30a141c7c6bf2d5c2"
     tagline = #'f
 }
 
@@ -121,3 +122,4 @@
         }
     }
 }
+

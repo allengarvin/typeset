@@ -24,6 +24,7 @@
     shorttitle = "se_come_il_biondo_crin"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "912e6d01df48be60e0fc2e6f82a4ac0a6ad6b2cc"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

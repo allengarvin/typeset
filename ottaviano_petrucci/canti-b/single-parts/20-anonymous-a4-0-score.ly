@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "comment_peult"
     \include "include/distribution-header.ly"
+    cksum = "d5e2ce6cedc3e47f5c7014e0b9a47c12b30b2bed"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "laudate_dominum"
     \include "include/distribution-header.ly"
+    cksum = "d158f9ffe84e1cdf4fc2669be1f9281db6e668a6"
     tagline = #'f
 }
 
@@ -88,4 +89,5 @@
         }
     }
 }
+
 

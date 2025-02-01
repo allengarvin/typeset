@@ -21,6 +21,7 @@
     lastupdated = "2016-01-02"
     shorttitle = "galliarda_2"
     \include "include/distribution-header.ly"
+    cksum = "6999b6c9793330304f44eb17428ca74cc584d996"
     tagline = #'f
 }
 
@@ -71,4 +72,5 @@
         }
     }   
 }
+
 

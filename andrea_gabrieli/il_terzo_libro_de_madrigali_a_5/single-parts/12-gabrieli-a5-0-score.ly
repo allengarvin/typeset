@@ -12,6 +12,7 @@
     lastupdated = "2023-01-15"
     originallyset = "2023-01-15"
     \include "include/distribution-header.ly"
+    cksum = "79ee17e1b6edbe4abc6e7c2be327fcea12bc25b5"
     % Things that change per piece:
     title = "Non così bell'appar in Oriente"
     subtitle = "Prima parte"
@@ -110,3 +111,4 @@
         }
     }
 }
+

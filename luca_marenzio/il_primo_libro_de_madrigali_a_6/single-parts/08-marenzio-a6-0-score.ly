@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[male-pov,speaking,amore,wind,sun]"
     \include "include/distribution-header.ly"
+    cksum = "2a6153abc46a91a94a9a9b25451d656498f72b21"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

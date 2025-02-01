@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "600b4fdb968444c332a90bf98813b87e16fc183c"
     % Things that change per piece:
     title = "Capriccio VII"
     subtitle = "sopra l'aria 'Or che noi rimena'"
@@ -77,3 +78,4 @@
         }
     }   
 }
+

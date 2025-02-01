@@ -12,6 +12,7 @@
     lastupdated = "2023-01-16"
     originallyset = "2023-01-16"
     \include "include/distribution-header.ly"
+    cksum = "304516f3fcfdacfe1770c1f37e0d4b24f42a0559"
     % Things that change per piece:
     title = "Vostro fui e sarò"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

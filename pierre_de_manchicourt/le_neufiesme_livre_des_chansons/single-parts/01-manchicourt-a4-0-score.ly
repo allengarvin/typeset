@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "du_fond_de_ma_pense"
     \include "include/distribution-header.ly"
+    cksum = "8e59ba6dae038bd985a7714ba2522e9586c4e209"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

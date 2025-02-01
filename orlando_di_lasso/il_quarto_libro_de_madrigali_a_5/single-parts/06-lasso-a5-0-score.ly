@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "0a0828ce9fe6390edd080aa98b56742dcd7ec36f"
     % Things that change per piece:
     title = "Ridon or per le piagge erbette e fiori"
     subtitle = "Sesta parte"
@@ -120,3 +121,4 @@
         }
     }
 }
+

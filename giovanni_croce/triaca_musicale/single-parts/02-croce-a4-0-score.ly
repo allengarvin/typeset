@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "mascheratta_de_gratiani"
     \include "include/distribution-header.ly"
+    cksum = "73a6ff06704a2be3040772f801329ce1c2064862"
     tagline = #'f
 }
 
@@ -72,4 +73,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

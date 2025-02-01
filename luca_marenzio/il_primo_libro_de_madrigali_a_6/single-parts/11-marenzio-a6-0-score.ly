@@ -24,6 +24,7 @@
     shorttitle = "ahime_tal_fu_d_amore"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "328c4f20f1140297a21a28ea87552746fe090a16"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

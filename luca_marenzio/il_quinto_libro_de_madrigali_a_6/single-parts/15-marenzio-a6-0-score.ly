@@ -12,6 +12,7 @@
     lastupdated = "2022-12-08"
     originallyset = "2022-12-08"
     \include "include/distribution-header.ly"
+    cksum = "861a4021f6c7efdce45a060afb64d3458b8aac00"
     % Things that change per piece:
     title = "S'a veder voi non vengo"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

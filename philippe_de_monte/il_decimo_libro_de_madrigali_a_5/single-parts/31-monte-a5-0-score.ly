@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "1c1f241e97ee514612a82597b25821d2ed9fe13d"
     % Things that change per piece:
     title = "O dolce sonno più di vera vita"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

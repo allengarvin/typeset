@@ -21,6 +21,7 @@
     final = "d"
     shorttitle = "farewell_disdainful"
     \include "include/distribution-header.ly"
+    cksum = "9cf9f05a0e23b5d46e7930b065b8ad23697b6a60"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

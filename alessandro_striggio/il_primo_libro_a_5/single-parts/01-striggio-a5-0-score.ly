@@ -24,6 +24,7 @@
     shorttitle = "o_de_la_bella_etruria"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "1a5bf1c6b30afc8bcfef2fa12a615fdc8b452ace"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

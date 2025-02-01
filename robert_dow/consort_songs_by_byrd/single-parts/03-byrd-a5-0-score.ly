@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "though_amaryllis"
     \include "include/distribution-header.ly"
+    cksum = "8b78b2a656441880eda6b2d1dc098723d9a6e768"
     tagline = #'f
 }
 
@@ -126,4 +127,5 @@
         }
     }
 }
+
 

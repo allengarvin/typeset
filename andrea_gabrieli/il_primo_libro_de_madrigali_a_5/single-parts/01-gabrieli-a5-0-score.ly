@@ -24,6 +24,7 @@
     shorttitle = "la_virtu_la_bonta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "f34b4946bc8429f613bca67ac27a55b11fa29b42"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

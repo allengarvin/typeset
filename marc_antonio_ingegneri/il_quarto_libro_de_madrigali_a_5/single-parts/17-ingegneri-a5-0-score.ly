@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "0f4678f4dd0c58dee425161b0ee7ef449c3b92b4"
     % Things that change per piece:
     title = "Giusta santa severa"
     subtitle = "Prima parte"
@@ -111,3 +112,4 @@
         }
     }
 }
+

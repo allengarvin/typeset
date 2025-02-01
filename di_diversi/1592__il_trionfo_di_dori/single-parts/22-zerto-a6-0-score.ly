@@ -27,6 +27,7 @@
     motifs = "[neptune,graces,honor]"
     rhyme = "aBbaccdDd"
     \include "include/distribution-header.ly"
+    cksum = "0fbaa83c3e624aba16c85440ec230668a24a7717"
     tagline = #'f
 }
 
@@ -128,4 +129,5 @@
     }
 
 }
+
 

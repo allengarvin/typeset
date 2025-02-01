@@ -23,6 +23,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "bad0c63a225c0d5599d26fb82e2169a449a04755"
     categories = "[madrigal]"
     composer = "Francesco Corteccia (1502-1571)"
     tagline = #'f
@@ -108,3 +109,4 @@
         }
     }
 }
+

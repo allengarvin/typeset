@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "laissons_amour"
     \include "include/distribution-header.ly"
+    cksum = "1005a45dcdf188ac5df7a17a2dec2671eb5cb83e"
     tagline = #'f
 }
 
@@ -105,3 +106,4 @@
         }
     }
 }
+

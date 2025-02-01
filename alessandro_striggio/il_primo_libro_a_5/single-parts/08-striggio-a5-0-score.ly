@@ -25,6 +25,7 @@
     shorttitle = "alma_reale"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "306937076f4e81080f8e84ed9f0fa0c96541612b"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

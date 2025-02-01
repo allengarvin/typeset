@@ -12,6 +12,7 @@
     lastupdated = "2023-01-29"
     originallyset = "2023-01-29"
     \include "include/distribution-header.ly"
+    cksum = "801f93880def27e93c2cbdcaa20e5c1dfdec36f4"
     % Things that change per piece:
     title = "O cara e dolce mia fiamma vivace"
     subtitle = "Prima parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

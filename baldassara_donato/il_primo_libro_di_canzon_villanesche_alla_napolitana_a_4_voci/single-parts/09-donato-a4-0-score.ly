@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "non_tho_possuto_mai"
     \include "include/distribution-header.ly"
+    cksum = "cda367716ab0f9a4b5bd2bfe29b57c9271981a9e"
     tagline = #'f
 }
 
@@ -106,4 +107,5 @@
         }
     }
 }
+
 

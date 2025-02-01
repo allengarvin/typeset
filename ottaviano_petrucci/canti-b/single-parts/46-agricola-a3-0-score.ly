@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "je_vous_emprie"
     \include "include/distribution-header.ly"
+    cksum = "50cd91ac067bb31acb1f1f34084d2928b7652778"
     tagline = #'f
 }
 
@@ -69,3 +70,4 @@
         }
     }   
 }
+

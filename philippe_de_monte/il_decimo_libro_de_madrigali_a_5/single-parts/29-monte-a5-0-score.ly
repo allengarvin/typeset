@@ -24,6 +24,7 @@
     shorttitle = "non_sia_pi_meco"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "f214a72ea3ead381b77b9d2e29fadeb7a6ae37c8"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-11-24"
     originallyset = "2023-11-24"
     \include "include/distribution-header.ly"
+    cksum = "b5e25db973b2816a855279a29661b8a24598349e"
     % Things that change per piece:
     title = "Galliarda Sylla"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

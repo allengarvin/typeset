@@ -24,6 +24,7 @@
     shorttitle = "cantai_or_piango"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3207bc6650b63daaf8eba51798582b4517a13b8c"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

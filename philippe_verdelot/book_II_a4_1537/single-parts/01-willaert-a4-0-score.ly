@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "b4af81daf6ca8ee71dbbedbb4ff90f51fda40f56"
     % Things that change per piece:
     title = "Amor mi fa morire"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

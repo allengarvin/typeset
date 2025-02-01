@@ -22,6 +22,7 @@
     shorttitle = "amor_se_non_consenti"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "36bad9f710729615b32221213a27ed33d1a21ccc"
     language = "italian"
     tagline = #'f
 }
@@ -101,3 +102,4 @@
         }
     }
 }
+

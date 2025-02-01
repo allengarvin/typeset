@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "7f2a65a5eebf740777591e1f19aa427f6049f85e"
     % Things that change per piece:
     title = "O quam suavis est, Domine"
     subtitle = "Prima pars"
@@ -109,3 +110,4 @@
         }
     }
 }
+

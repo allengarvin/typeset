@@ -24,6 +24,7 @@
     shorttitle = "laura_soave"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "9b2af577e9cea1e4531577a459d6fa98fc70651f"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

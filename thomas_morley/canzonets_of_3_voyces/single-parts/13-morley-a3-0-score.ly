@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "now_must_i_die"
     \include "include/distribution-header.ly"
+    cksum = "d39a32f96d83134a6acde1b7bbd8cc10902a577e"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

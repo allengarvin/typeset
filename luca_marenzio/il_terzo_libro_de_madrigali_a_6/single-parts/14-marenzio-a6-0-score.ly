@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "b7daacff59d71a29ad220100d74a76d0ddf0eea2"
     % Things that change per piece:
     title = "Donò Cinzia a Damone"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

@@ -26,6 +26,7 @@
     shorttitle = "questi_ch_indizio"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "a8808e912500d2b818c003a3e969ec190a4c106d"
     tagline = #'f
 }
 
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

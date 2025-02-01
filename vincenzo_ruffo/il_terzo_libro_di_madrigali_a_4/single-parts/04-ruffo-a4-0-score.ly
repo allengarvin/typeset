@@ -12,6 +12,7 @@
     lastupdated = "2023-05-19"
     originallyset = "2023-05-19"
     \include "include/distribution-header.ly"
+    cksum = "89c47525594a99c80b1e13fd4948b012f0cbb530"
     % Things that change per piece:
     title = "Ohimè dove è'l mio cor"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

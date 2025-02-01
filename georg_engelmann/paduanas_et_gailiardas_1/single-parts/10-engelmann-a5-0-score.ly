@@ -12,6 +12,7 @@
     lastupdated = "2023-11-22"
     originallyset = "2023-11-22"
     \include "include/distribution-header.ly"
+    cksum = "42c6cafcec70901905e374263320ce1cb9e3cb1f"
     % Things that change per piece:
     title = "Galliarda Volane"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

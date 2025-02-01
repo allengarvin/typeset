@@ -21,6 +21,7 @@
     lastupdated = "2013-06-08"
     shorttitle = "sinfonia_a4"
     \include "include/distribution-header.ly"
+    cksum = "de22b2ff380644c371599cbe4c5fe21fc09d56f8"
     tagline = #'f
 }
 
@@ -71,4 +72,5 @@
         }
     }   
 }
+
 

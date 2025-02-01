@@ -27,6 +27,7 @@
     lastupdated = "2021-11-21"
     originallyset = "2021-11-21"
     \include "include/distribution-header.ly"
+    cksum = "f2a6d2ecf544ec324fbd5ccf280581ef8565b8d2"
     tagline = #'f
 }
 
@@ -135,3 +136,4 @@
         }
     }
 }
+

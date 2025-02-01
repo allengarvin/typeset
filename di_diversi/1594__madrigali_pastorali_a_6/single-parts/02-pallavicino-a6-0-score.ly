@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "418b17ddd339b7fb6e34e6fafd494abc80121ba5"
     % Things that change per piece:
     title = "Sedea fra gigli e rose"
     subtitle = ""
@@ -138,3 +139,4 @@
         }
     }
 }
+

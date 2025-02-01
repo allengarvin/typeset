@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "i_joy_not"
     \include "include/distribution-header.ly"
+    cksum = "133d9d219aac5a51b9b7eb9f1be29715da7d5ada"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }   
 }
+
 

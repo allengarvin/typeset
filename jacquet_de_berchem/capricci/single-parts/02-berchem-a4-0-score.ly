@@ -26,6 +26,7 @@
     shorttitle = "diro_dorlando"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "cd2876da1bbdc341e87cc2fe8027fac038b12d17"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

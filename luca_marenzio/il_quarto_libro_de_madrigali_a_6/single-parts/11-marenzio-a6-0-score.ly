@@ -24,6 +24,7 @@
     shorttitle = "talche_dovunque_vo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "2b2c28823f71e7b3550f7240e2011621edad93db"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

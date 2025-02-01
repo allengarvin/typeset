@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "il_doloroso"
     \include "include/distribution-header.ly"
+    cksum = "7176105760ef83e2d9721329cfaeb432a96164f1"
     tagline = #'f
 }
 
@@ -57,4 +58,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "c32bc4fa037578710adfd57c4b42718d121c7f5f"
     % Things that change per piece:
     title = "Ippolita gentil"
     subtitle = ""
@@ -118,3 +119,4 @@
             }
         }
 }
+

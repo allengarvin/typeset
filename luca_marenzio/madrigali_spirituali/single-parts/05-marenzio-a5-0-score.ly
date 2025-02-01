@@ -12,6 +12,7 @@
     lastupdated = "2023-01-08"
     originallyset = "2023-01-08"
     \include "include/distribution-header.ly"
+    cksum = "7c8cc626ad2ed30507bab74e47d4030ff0674cf4"
     % Things that change per piece:
     title = "Il dì che di pallor la faccia tinse"
     subtitle = ""
@@ -122,3 +123,4 @@
         }
     }
 }
+

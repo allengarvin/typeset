@@ -24,6 +24,7 @@
     shorttitle = "una_celeste_nube"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "4c70990b729b460341f9fe4f420334611113309b"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2013-06-04"
     originallyset = "2013-06-04"
     \include "include/distribution-header.ly"
+    cksum = "82388cdffbb1a9e922092f9358b6e390af74c86f"
     % Things that change per piece:
     title = "Lo schernito"
     subtitle = ""
@@ -129,3 +130,4 @@
         }
     }
 }
+

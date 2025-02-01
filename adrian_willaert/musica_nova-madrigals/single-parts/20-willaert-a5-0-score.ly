@@ -25,6 +25,7 @@
     shorttitle = "da_quali_angeli"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "ce770dd7f1d8c8205d0137dfd388483c2ad20569"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

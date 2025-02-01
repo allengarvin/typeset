@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "deus_noster_refugium"
     \include "include/distribution-header.ly"
+    cksum = "4651ba069636a3e9ac102581e11d6272d234c4b5"
     tagline = #'f
 }
 
@@ -86,4 +87,5 @@
         }
     }
 }
+
 

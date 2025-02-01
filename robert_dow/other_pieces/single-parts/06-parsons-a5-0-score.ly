@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "ave_maria"
     \include "include/distribution-header.ly"
+    cksum = "870c06695fe682a068347d72fc748272461325ad"
     tagline = #'f
 }
 
@@ -86,3 +87,4 @@
         }
     }   
 }
+

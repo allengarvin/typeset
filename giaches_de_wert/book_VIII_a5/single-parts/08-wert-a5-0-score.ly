@@ -27,6 +27,7 @@
     shorttitle = "poscia_dicea_piangendo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "7df60229b65d390efa4b49f2935a1b748557dc25"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

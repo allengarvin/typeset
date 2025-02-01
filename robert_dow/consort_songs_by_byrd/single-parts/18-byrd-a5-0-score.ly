@@ -25,6 +25,7 @@
     lastupdated = "2015-08-25"
     shorttitle = "lord_in_thy_wrath"
     \include "include/distribution-header.ly"
+    cksum = "5e0b8a05b44247cd91ff328be4594f965e8ccbfd"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

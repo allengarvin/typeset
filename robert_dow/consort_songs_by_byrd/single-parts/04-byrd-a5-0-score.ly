@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "in_fields_abroad"
     \include "include/distribution-header.ly"
+    cksum = "6c0ef41883a5b951066d10713968f6d569d819e4"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }   
 }
+
 

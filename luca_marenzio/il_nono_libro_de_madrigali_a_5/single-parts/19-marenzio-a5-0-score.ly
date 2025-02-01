@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "fb4b6f57e2d68f6caa12df153f056664a4029aab"
     % Things that change per piece:
     title = "Credete voi ch'i' viva"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "triumph_with_pleasant_melody"
     \include "include/distribution-header.ly"
+    cksum = "13d2daa589a3e66b7036ddd370c7c15ffc448ac0"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

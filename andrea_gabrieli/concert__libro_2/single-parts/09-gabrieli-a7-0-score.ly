@@ -25,6 +25,7 @@
     shorttitle = "io_mi_sento_morire"
     categories = "[madrigal,dialogo]"
     \include "include/distribution-header.ly"
+    cksum = "434ca6bc5879040dc6ed40b775222233842b05e1"
     tagline = #'f
 }
 
@@ -157,4 +158,5 @@
         }
     }
 }
+
 

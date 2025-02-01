@@ -24,6 +24,7 @@
     shorttitle = "come_holy_ghost"
     categories = "[in-nomine]"
     \include "include/distribution-header.ly"
+    cksum = "c72ce691a1011a2557022ffdde90b1b4e6a964a7"
     tagline = #'f
 }
 
@@ -90,3 +91,4 @@
         }
     }
 }
+

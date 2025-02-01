@@ -23,6 +23,7 @@
     shorttitle = "amor_che_sol"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "a261030a997d3163177ed101c01f83373098a00d"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }
 }
+
 

@@ -25,6 +25,7 @@
     shorttitle = "io_amai_sempre"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "2d3e421906db1c57ca1d170ffe3b91d737de580c"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

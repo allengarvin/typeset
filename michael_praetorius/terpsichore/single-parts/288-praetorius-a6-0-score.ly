@@ -25,6 +25,7 @@
     lastupdated = "2015-12-13"
     shorttitle = "passameze"
     \include "include/distribution-header.ly"
+    cksum = "0004fe268de3274d72bbd1ff8dadeb416a098b40"
     tagline = #'f
 }
 
@@ -91,4 +92,5 @@
         }
     }
 }
+
 

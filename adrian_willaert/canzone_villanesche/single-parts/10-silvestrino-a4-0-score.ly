@@ -26,6 +26,7 @@
     final = "g"
     shorttitle = "si_come_bella"
     \include "include/distribution-header.ly"
+    cksum = "737195ede554e5efe78b92c1888aabd20d637b30"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

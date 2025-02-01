@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "e_qui_le_dira"
     \include "include/distribution-header.ly"
+    cksum = "9c25efc540e72cbb2640aa299449f88b5b910e37"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

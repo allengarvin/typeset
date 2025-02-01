@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "la_disperata"
     \include "include/distribution-header.ly"
+    cksum = "afc0b94c72bdb34a000106cd2b4263b058fd5cc3"
     tagline = #'f
 }
 
@@ -66,4 +67,5 @@
         }
     }   
 }
+
 

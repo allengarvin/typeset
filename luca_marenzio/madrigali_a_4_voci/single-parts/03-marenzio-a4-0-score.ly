@@ -20,6 +20,7 @@
     categories = "[madrigal,morte]"
     motifs = "[la-petite-mort,amore,eyes]"
     \include "include/distribution-header.ly"
+    cksum = "7c2a5da82a36c1e91d86687375b75664eb2a8579"
     language = "italian"
     tagline = #'f
 }
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

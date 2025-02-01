@@ -21,6 +21,7 @@
     lastupdated = "2018-07-01"
     shorttitle = "sir_henry_umptons_funerall"
     \include "include/distribution-header.ly"
+    cksum = "a91e6ecbdb1cf390c2a06beb7dfe781da11f0563"
     tagline = #'f
 }
 
@@ -80,3 +81,4 @@
         }
     }   
 }
+

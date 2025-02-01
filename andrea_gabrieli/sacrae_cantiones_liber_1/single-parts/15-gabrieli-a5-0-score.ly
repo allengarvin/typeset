@@ -12,6 +12,7 @@
     lastupdated = "2023-01-13"
     originallyset = "2023-01-13"
     \include "include/distribution-header.ly"
+    cksum = "45ba541bcc8ac45a62a2051436b33bbe101b1843"
     % Things that change per piece:
     title = "Domine, quid multiplicati"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

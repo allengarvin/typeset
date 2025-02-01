@@ -22,6 +22,7 @@
     shorttitle = "la_fiorentina"
     categories = "[canzona,polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "a1f9eaec2ba8f9799c1168229def78a977e4b575"
     tagline = #'f
 }
 
@@ -117,3 +118,4 @@
         }
     }   
 }
+

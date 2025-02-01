@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "ove_pazzo_che_sei"
     \include "include/distribution-header.ly"
+    cksum = "09703ba27c0a8f8fa388a80d8dade019e8d1ae76"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

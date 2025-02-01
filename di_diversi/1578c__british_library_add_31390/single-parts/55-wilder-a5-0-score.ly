@@ -24,6 +24,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "ddd7565d3cd4595a2f0b82668768c636ab241b37"
     composer = "Philip Van Wilder (c.1500-1553)"
     tagline = #'f
 }
@@ -84,3 +85,4 @@
         }
     }   
 }
+

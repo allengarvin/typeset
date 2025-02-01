@@ -12,6 +12,7 @@
     lastupdated = "2023-11-19"
     originallyset = "2023-11-19"
     \include "include/distribution-header.ly"
+    cksum = "bfff215d27e8e69f2adffc38f1eb80691180638a"
     % Things that change per piece:
     title = "Paduana Doaga"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

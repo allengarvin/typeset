@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "36524408e04bcba693a3b9cd155d3ae827196125"
     % Things that change per piece:
     title = "Mentre l'un polo intorno"
     subtitle = ""
@@ -136,3 +137,4 @@
         }
     }
 }
+

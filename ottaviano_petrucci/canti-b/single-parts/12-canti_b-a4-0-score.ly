@@ -24,6 +24,7 @@
     lastupdated = "2013-08-04"
     shorttitle = "mon_mari_ma_deffamee"
     \include "include/distribution-header.ly"
+    cksum = "ccbf7d6f399c5647569396799d19a903e41d2cfe"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

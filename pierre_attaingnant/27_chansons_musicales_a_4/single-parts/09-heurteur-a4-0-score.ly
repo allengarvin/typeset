@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "allons_ung_peu"
     \include "include/distribution-header.ly"
+    cksum = "70b738828fddaa9e4f4596a64bcfa46cba8beb9d"
     tagline = #'f
 }
 
@@ -78,4 +79,5 @@
         }
     }   
 }
+
 

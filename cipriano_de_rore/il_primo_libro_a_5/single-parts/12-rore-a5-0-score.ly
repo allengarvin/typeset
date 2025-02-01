@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "0f0fe50c55827d8ba797e30aac0265f48ebe72d6"
     % Things that change per piece:
     title = "A guisa d'uom"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

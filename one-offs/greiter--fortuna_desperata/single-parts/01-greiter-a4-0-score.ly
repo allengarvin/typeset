@@ -25,6 +25,7 @@
     shorttitle = "passibus_amgiguis_fortuna"
     categories = "[chromatic,fortuna]"
     \include "include/distribution-header.ly"
+    cksum = "79b10111db5f65b78e988f9cc312e832206f2623"
     tagline = #'f
 }
 
@@ -76,4 +77,5 @@
 
     }   
 }
+
 

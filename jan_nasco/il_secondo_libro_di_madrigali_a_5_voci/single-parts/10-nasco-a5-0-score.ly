@@ -29,6 +29,7 @@
     categories = "[furioso]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
+    cksum = "293e9191e832772adc56ebb9df129ec952481fb9"
     tagline = #'f
 }
 
@@ -118,3 +119,4 @@
         }
     }
 }
+

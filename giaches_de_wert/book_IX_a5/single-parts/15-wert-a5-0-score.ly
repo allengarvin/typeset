@@ -26,6 +26,7 @@
     poeticform = "madrigal"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "a7d8699060650ce5b20099e2ef7203aaefd4a53b"
     tagline = #'f
 }
 
@@ -105,3 +106,4 @@
         }
     }
 }
+

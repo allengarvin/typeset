@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "jayme_par_amours"
     \include "include/distribution-header.ly"
+    cksum = "edfab4e3782ced6a4d7466e91e630ba217ed8749"
     tagline = #'f
 }
 
@@ -81,4 +82,5 @@
         }
     }
 }
+
 

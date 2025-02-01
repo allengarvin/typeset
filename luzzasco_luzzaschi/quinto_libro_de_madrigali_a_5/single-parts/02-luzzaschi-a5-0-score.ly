@@ -12,6 +12,7 @@
     lastupdated = "2022-10-30"
     originallyset = "2022-10-30"
     \include "include/distribution-header.ly"
+    cksum = "ee532520d63146c739fce100a22e577dd1963713"
     % Things that change per piece:
     title = "Itene a volo, o miei sospiri ardenti"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "e208d3444ad5e4c9f021891dda5a5f400e5e198c"
     % Things that change per piece:
     title = "A dio, Titiro disse"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

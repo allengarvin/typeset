@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "da494c73e5ff369294f6d94d564dc5e8d151b931"
     % Things that change per piece:
     title = "Dolce Amaranta, a dio"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

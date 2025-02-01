@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "0582ec02f9880ca9d137a7785a8d7fca61a2d1d1"
     % Things that change per piece:
     title = "Pront'era l'alma mia"
     subtitle = ""
@@ -155,3 +156,4 @@
         }
     }
 }
+

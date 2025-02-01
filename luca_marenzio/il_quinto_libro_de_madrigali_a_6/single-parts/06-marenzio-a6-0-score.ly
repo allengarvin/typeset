@@ -12,6 +12,7 @@
     lastupdated = "2022-12-04"
     originallyset = "2022-12-04"
     \include "include/distribution-header.ly"
+    cksum = "ffc72d39386c48b318d32abe3b748a2b3e8c0bdd"
     % Things that change per piece:
     title = "Ecco che'l ciel a noi chiaro e sereno"
     subtitle = "Prima parte"
@@ -113,3 +114,4 @@
         }
     }
 }
+

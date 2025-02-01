@@ -23,6 +23,7 @@
     lastupdated = "2016-04-06"
     shorttitle = "aria_del_gran_duca"
     \include "include/distribution-header.ly"
+    cksum = "57fda1aff017f0d6dc9135bc68a0cd6a632d0e48"
     tagline = #'f
 }
 
@@ -82,4 +83,5 @@
         }
     }
 }
+
 

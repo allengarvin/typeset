@@ -22,6 +22,7 @@
     lastupdated = "2017-09-15"
     shorttitle = "browning"
     \include "include/distribution-header.ly"
+    cksum = "4b1e5716b58aa3b389b2d8dfae1257860130d585"
     tagline = #'f
 }
 
@@ -81,3 +82,4 @@
         }
     }   
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "2959891f940291a8e4548eec43fb7ffbf899275e"
     % Things that change per piece:
     title = "Bianchi Cigni e canori"
     subtitle = ""
@@ -174,3 +175,4 @@
         }
     }
 }
+

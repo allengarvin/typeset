@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "492c1448358eebb90b97cf9b70368d1dde061893"
     % Things that change per piece:
     title = "Vegine saggia"
     subtitle = ""
@@ -131,3 +132,4 @@
         }
     }
 }
+

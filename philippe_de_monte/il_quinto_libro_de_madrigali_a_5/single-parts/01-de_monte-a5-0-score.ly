@@ -24,6 +24,7 @@
     shorttitle = "veramente_in_amore"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "dc6351c0c22e1ac35adaa1ecd12e0d0d688bac04"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

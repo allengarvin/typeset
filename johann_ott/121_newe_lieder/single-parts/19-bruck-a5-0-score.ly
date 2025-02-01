@@ -26,6 +26,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "76621ab5fabff8e5612a8c6116ee11fc4178140b"
     tagline = #'f
 }
 
@@ -110,3 +111,4 @@
         }
     }
 }
+

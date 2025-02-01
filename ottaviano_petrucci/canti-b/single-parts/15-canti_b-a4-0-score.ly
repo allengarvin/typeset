@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "a_qui_direlle_sa_pense"
     \include "include/distribution-header.ly"
+    cksum = "2b5ac26c0c181d7dbc2aabe63099ccf67c812aad"
     tagline = #'f
 }
 
@@ -77,4 +78,5 @@
 
     }   
 }
+
 

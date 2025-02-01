@@ -12,6 +12,7 @@
     lastupdated = "2023-02-11"
     originallyset = "2023-02-11"
     \include "include/distribution-header.ly"
+    cksum = "e870cb3e46bdebe10ac34ba6c0ba027967a1b4a3"
     % Things that change per piece:
     title = "Qual Cervo errando suole"
     subtitle = ""
@@ -123,3 +124,4 @@
         }
     }
 }
+

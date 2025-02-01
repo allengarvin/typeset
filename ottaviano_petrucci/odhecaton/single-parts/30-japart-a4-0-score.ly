@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "tmeiskin"
     \include "include/distribution-header.ly"
+    cksum = "2ef5a550b5f24d9b143686d53221e0ae7e0b88fe"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

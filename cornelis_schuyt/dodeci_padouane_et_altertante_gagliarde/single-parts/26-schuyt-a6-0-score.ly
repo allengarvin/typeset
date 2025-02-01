@@ -22,6 +22,7 @@
     shorttitle = "canzon_la_barca"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "ea7a3c1e83aaaf40e4cde9046ddb3816f407bbc2"
     tagline = #'f
 }
 
@@ -88,3 +89,4 @@
         }
     }   
 }
+

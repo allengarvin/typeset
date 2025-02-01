@@ -24,6 +24,7 @@
     shorttitle = "canzon_per_sonar_a4"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "fe0f1c92eced69dbba462043ae1d3d48eba084e5"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         }
     }   
 }
+
 

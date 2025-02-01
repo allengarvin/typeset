@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "alma_guidott_amar_colei"
     \include "include/distribution-header.ly"
+    cksum = "12cb37a705cf66cecb32c15f8c968e00047891f1"
     tagline = #'f
 }
 
@@ -118,3 +119,4 @@
 %Works by 
 %
 %
+

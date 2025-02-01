@@ -27,6 +27,7 @@
     categories = "[madrigal]"
     motifs = "[amore,heart,arrow,snare,aurora,titon]"
     \include "include/distribution-header.ly"
+    cksum = "d17a16c5d7b177a1af4102f66042b70d2de5c2ba"
     tagline = #'f
 }
 
@@ -140,4 +141,5 @@
         }
     }
 }
+
 

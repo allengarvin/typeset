@@ -22,6 +22,7 @@
     final = "e"
     shorttitle = "fantasia_sopra_la_sol_fa_mi_fa"
     \include "include/distribution-header.ly"
+    cksum = "489c5a0334d052a2da8f685e3ac76973883f0734"
     tagline = #'f
 }
 
@@ -67,3 +68,4 @@
         }
     }   
 }
+

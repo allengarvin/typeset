@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "gentil_galant_de_gerra"
     \include "include/distribution-header.ly"
+    cksum = "92f28a353d16da82dc746a6b98bc51a8ed75aa53"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

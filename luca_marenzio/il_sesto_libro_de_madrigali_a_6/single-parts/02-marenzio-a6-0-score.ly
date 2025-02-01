@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "63104b32b67aeeada7fd6127c8921c3346201756"
     % Things that change per piece:
     title = "Oda 'l ciel questi voti"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

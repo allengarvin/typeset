@@ -12,6 +12,7 @@
     lastupdated = "2022-10-09"
     originallyset = "2022-10-09"
     \include "include/distribution-header.ly"
+    cksum = "e71e2168207f889e89735dfe290e966a73a6a7c4"
     % Things that change per piece:
     title = "In Nomine à 5 'Hold Fast'"
     subtitle = "Weidner #19"
@@ -86,3 +87,4 @@
         }
     }   
 }
+

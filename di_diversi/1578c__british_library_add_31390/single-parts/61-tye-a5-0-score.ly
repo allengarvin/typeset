@@ -25,6 +25,7 @@
     shorttitle = "in_nomine_a_5_'follow_me'"
     categories = "[in-nomine]"
     \include "include/distribution-header.ly"
+    cksum = "0974829abd4882c557af37cf8c45e2e19eada19a"
     tagline = #'f
 }
 
@@ -84,3 +85,4 @@
         }
     }   
 }
+

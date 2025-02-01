@@ -12,6 +12,7 @@
     lastupdated = "2023-12-03"
     originallyset = "2023-12-03"
     \include "include/distribution-header.ly"
+    cksum = "98c45636df952fe5f7088bfe2267aeae4c3388a7"
     source = \markup { \italic { John Browne partbooks } GB-Ob Mus. MSS 473-478 (c.1630); GB-Och Mus. 212-216 }
     % Things that change per piece:
     title = "In nomine"
@@ -89,3 +90,4 @@
         }
     }   
 }
+

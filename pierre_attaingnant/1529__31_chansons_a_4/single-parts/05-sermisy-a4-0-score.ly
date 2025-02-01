@@ -22,6 +22,7 @@
     final = "c"
     shorttitle = "hau_hau_hau_le_boys"
     \include "include/distribution-header.ly"
+    cksum = "53e4d1638972e370c1d72e267f979b9f559b5059"
     tagline = #'f
 }
 
@@ -100,3 +101,4 @@
         }
     }
 }
+

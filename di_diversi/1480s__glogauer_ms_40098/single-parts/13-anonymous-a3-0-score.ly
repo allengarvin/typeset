@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "die_katzenpfote"
     \include "include/distribution-header.ly"
+    cksum = "34d95e628477cd0842c744cfbb50e0949e8a106b"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
         }
     }   
 }
+
 

@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "dominus_scit"
     \include "include/distribution-header.ly"
+    cksum = "f1810091bde42e43fe651ae0522fe36585f427e9"
     tagline = #'f
 }
 
@@ -86,4 +87,5 @@
         }
     }
 }
+
 

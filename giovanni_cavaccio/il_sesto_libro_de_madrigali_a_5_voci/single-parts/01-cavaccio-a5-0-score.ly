@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "8475784a53eb02050fd0b4808e04464a43016dda"
     % Things that change per piece:
     title = "Io son ferito a morte"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

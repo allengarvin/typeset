@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "m_john_langstons_pavan"
     \include "include/distribution-header.ly"
+    cksum = "9acea5b99d575cc9c90f043d1faeb6c701b0df58"
     tagline = #'f
 }
 
@@ -80,3 +81,4 @@
         }
     }   
 }
+

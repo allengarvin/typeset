@@ -12,6 +12,7 @@
     lastupdated = "2023-02-11"
     originallyset = "2023-02-11"
     \include "include/distribution-header.ly"
+    cksum = "ebb0f4b2e2833db0f610d76ff766f4565d846eea"
     % Things that change per piece:
     title = "Chi vuol veder un Sole"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

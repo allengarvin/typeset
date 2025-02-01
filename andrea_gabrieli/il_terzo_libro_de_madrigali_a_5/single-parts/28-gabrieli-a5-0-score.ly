@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "5d2cd7e03e510e4fca11ae37577a9d02997c5b71"
     % Things that change per piece:
     title = "Le piante allo splendor"
     subtitle = "Seconda parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

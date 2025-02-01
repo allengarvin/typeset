@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "a13b2291fd485fae02f251b53d2b570a0dc6d7fc"
     % Things that change per piece:
     title = "O giorno"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

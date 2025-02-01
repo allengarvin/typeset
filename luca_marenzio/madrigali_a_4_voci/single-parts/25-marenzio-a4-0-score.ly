@@ -20,6 +20,7 @@
     shorttitle = "vedi_ch_egli_ama_il_suon"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "e2421e6e82a0c11322f47e7468423b524f2a2f6a"
     language = "italian"
     tagline = #'f
 }
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

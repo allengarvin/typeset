@@ -23,6 +23,7 @@
     shorttitle = "la_nuvolina"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "5bddaccc5484d0091d6f7f314188eb881485b409"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

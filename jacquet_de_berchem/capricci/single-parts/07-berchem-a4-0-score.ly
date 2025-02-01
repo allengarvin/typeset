@@ -27,6 +27,7 @@
     shorttitle = "sia_vile_agli_altri"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "c47ff613cfff7927955be0322ac648d053eeae18"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     categories = "[madrigal,morte]"
     motifs = "[siren]"
     \include "include/distribution-header.ly"
+    cksum = "32bedc15f7c2118d4f7c90012ec25a7779a7c018"
     tagline = #'f
 }
 
@@ -118,3 +119,4 @@
         }
     }
 }
+

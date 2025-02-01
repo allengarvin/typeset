@@ -12,6 +12,7 @@
     lastupdated = "2022-12-17"
     originallyset = "2022-12-17"
     \include "include/distribution-header.ly"
+    cksum = "37f8ec376b3a6e72770d7407a042d22d8de47870"
     % Things that change per piece:
     title = "Filli mia bella"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

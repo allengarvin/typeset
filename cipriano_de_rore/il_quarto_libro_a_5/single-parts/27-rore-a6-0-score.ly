@@ -26,6 +26,7 @@
     categories = "[madrigal]"
     motifs = "[wound,desire]"
     \include "include/distribution-header.ly"
+    cksum = "ca3644c912c95909f9165057f41d0b463369fa7e"
     tagline = #'f
 }
 
@@ -122,3 +123,4 @@
         }
     }
 }
+

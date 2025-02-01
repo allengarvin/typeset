@@ -23,6 +23,7 @@
     lastupdated = "2013-04-12"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "cae9ec2cf583519875f26a8f837b1d55e4b8462e"
     tagline = #'f
 }
 
@@ -73,3 +74,4 @@
         }
     }   
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "b2d02db66251ba3d86c8dd148f3f911c3b6b04a2"
     % Things that change per piece:
     title = "Se vuoi ch'io muoia"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

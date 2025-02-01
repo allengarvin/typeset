@@ -27,6 +27,7 @@
     motifs = "[nightingale,bird]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
+    cksum = "61676f09874285ec59d1db53d63320b746d82e03"
     tagline = #'f
 }
 
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

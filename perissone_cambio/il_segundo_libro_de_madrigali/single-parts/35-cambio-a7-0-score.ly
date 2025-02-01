@@ -24,6 +24,7 @@
     shorttitle = "quando_nascesti"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "6253db19fb7a5c5d0403e92138b5c436bc845bad"
     tagline = #'f
 }
 
@@ -126,4 +127,5 @@
         }
     }
 }
+
 

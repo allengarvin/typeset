@@ -12,6 +12,7 @@
     lastupdated = "2023-11-23"
     originallyset = "2023-11-23"
     \include "include/distribution-header.ly"
+    cksum = "070884f3b5b244ab885b38972028f2333649d72e"
     % Things that change per piece:
     title = "Galliarda Cabra"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

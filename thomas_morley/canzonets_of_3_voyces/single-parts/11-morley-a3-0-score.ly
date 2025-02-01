@@ -21,6 +21,7 @@
     final = "a"
     shorttitle = "o_fly_not"
     \include "include/distribution-header.ly"
+    cksum = "e294fbd1c965b8d5e9089921d385e607a09d1678"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

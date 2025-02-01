@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "laeve_ejus_sub_capite_meo"
     \include "include/distribution-header.ly"
+    cksum = "58d86cd0dcd0c8ad21b43d6df07b9270e5f1d36a"
     tagline = #'f
 }
 
@@ -108,3 +109,4 @@
         }
     }
 }
+

@@ -26,6 +26,7 @@
     motifs = "[amore,pride]"
     rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
+    cksum = "ea5140c83ee89ec26a9ee39a42bed444eeb2a661"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

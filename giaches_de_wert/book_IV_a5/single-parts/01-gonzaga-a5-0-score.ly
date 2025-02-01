@@ -25,6 +25,7 @@
     shorttitle = "padre_che_el_ciel"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "bc889fe7318250f7517f39acf98825076eb3e990"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

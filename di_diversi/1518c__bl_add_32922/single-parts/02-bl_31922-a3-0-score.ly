@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "pastime"
     \include "include/distribution-header.ly"
+    cksum = "95184b37f71233c3ec1e04b5130c24a497b0fb8b"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
 
     }   
 }
+
 

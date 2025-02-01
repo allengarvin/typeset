@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "81e9dc724283ee1382e04f61c7856b797705720c"
     % Things that change per piece:
     title = "Ardi e gela a tua voglia"
     subtitle = "Seconda parte"
@@ -123,3 +124,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "6d289f105b4c27c6c9b27c02e13f4a1e96aabe90"
     % Things that change per piece:
     title = "Signor, tu vedi quanto è oscuro il bosco"
     subtitle = "Sesta parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

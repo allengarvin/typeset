@@ -12,6 +12,7 @@
     lastupdated = "2022-12-05"
     originallyset = "2022-12-05"
     \include "include/distribution-header.ly"
+    cksum = "1ae10407bdba28978327b6db6781cfd2b739da24"
     % Things that change per piece:
     title = "Come fuggir per selva ombrosa"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

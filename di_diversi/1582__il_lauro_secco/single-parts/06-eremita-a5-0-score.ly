@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "b1b80ed6c98ccf5a99d30073ba62f76359e45663"
     % Things that change per piece:
     title = "M'è pur stato dal core"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

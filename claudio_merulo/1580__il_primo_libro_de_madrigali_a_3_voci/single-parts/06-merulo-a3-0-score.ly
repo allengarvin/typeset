@@ -12,6 +12,7 @@
     lastupdated = "2023-01-29"
     originallyset = "2023-01-29"
     \include "include/distribution-header.ly"
+    cksum = "7ba449dee12ce09d2f97976f3782276cebbec155"
     % Things that change per piece:
     title = "Anzi via più che del disir"
     subtitle = ""
@@ -102,3 +103,4 @@
         }
     }
 }
+

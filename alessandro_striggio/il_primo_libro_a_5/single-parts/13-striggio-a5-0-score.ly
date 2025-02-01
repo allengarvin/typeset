@@ -24,6 +24,7 @@
     shorttitle = "or_mentre_il_bel_pianeta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "eef7d2987c9dde6454155fb4a566dedae26414eb"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

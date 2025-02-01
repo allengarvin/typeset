@@ -25,6 +25,7 @@
     categories = "[villanella]"
     shorttitle = "ancor_che_col_partire"
     \include "include/distribution-header.ly"
+    cksum = "2896e7f6d62722233f746a196dbe2016e6525a2a"
     tagline = #'f
 }
 
@@ -87,3 +88,4 @@
         }
     }
 }
+

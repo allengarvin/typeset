@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "8e7c5a75bb38c677510f9a0d3abe05a40c46960a"
     % Things that change per piece:
     title = "Se non voi, che dell'un Serbando"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

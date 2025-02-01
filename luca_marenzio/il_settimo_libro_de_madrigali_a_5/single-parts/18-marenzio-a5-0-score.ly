@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "2125018fe4b4f96e992faa0b67a9d9ce09439dca"
     % Things that change per piece:
     title = "Care mie selve, addio"
     subtitle = "Prima parte"
@@ -150,3 +151,4 @@
     }
 }
  
+

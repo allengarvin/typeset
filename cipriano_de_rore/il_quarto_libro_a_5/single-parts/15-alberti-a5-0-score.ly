@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "a808d2d3f307fdbae2bd054575f49e0ad981b221"
     % Things that change per piece:
     title = "Che giova saettar"
     subtitle = ""
@@ -134,3 +135,4 @@
         }
     }
 }
+

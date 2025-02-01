@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "4012eab6ae6ff12d5ab8e3d04bc0d81c132bb3e1"
     % Things that change per piece:
     title = "Il vago e bello Armillo"
     subtitle = "Prima e seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

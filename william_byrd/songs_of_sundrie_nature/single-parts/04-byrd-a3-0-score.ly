@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "o_god_which_art_most_merciful"
     \include "include/distribution-header.ly"
+    cksum = "10d35ae538312c134abbcf2c073a38d025b89187"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

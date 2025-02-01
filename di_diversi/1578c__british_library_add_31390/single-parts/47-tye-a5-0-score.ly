@@ -12,6 +12,7 @@
     lastupdated = "2022-10-09"
     originallyset = "2022-10-09"
     \include "include/distribution-header.ly"
+    cksum = "306ff0789ce86e8d2d6aae2ff3c3d3cfe81728ef"
     % Things that change per piece:
     title = "In Nomine à 5 'Blameless'"
     subtitle = "Weidner #6"
@@ -86,3 +87,4 @@
         }
     }   
 }
+

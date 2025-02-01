@@ -24,6 +24,7 @@
     shorttitle = "torbido_il_mincio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "15aa2307cce78f0388b2c0e69315de4ee84170f5"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

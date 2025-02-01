@@ -18,6 +18,7 @@
     originallyset = "2013-04-10"
     lastupdated = "2013-04-10"
     \include "include/distribution-header.ly"
+    cksum = "5049613aefdf1216672ef3b5ff1664d6dba21b15"
     tagline = #'f
 }
 
@@ -103,3 +104,4 @@ scordaturaIncipit =
 %        \new Voice << \global \groundbassI >>
 %    }
 %}
+

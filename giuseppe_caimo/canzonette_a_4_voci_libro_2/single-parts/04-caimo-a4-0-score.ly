@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "f6d3a55d974b8d7d1d36461543b5ae6735550f2c"
     % Things that change per piece:
     title = "Candido Cigno"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

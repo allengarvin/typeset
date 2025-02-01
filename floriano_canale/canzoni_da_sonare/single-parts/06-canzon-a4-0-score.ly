@@ -23,6 +23,7 @@
     shorttitle = "la_gambara"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "c937cb4290bce4071da3648d98a87dcb38878750"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

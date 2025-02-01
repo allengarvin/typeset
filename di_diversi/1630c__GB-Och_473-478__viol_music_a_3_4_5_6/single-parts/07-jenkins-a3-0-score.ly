@@ -12,6 +12,7 @@
     lastupdated = "2022-10-08"
     originallyset = "2022-10-08"
     \include "include/distribution-header.ly"
+    cksum = "9539395ec1246a365a68ed42d29d4ba8bad04a1b"
     % Things that change per piece:
     title = "Phanfazia"
     subtitle = "VdGS à 3 no. 13"
@@ -71,3 +72,4 @@
         }
     }   
 }
+

@@ -25,6 +25,7 @@
     shorttitle = "cando_pinso_al_turmendo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "11de06eb163a09c3893161e1ba188577873574a7"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

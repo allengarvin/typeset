@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "de_me_solus"
     \include "include/distribution-header.ly"
+    cksum = "9e40a080255b9e1dbc5a01a248130a70a7cbd257"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

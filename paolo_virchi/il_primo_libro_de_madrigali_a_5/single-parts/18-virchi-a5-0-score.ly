@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "34f7244b8d878c5204b289ee7f1962ba015fb8f2"
     % Things that change per piece:
     title = "Ape sacra e gentile"
     subtitle = ""
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

@@ -25,6 +25,7 @@
     final = "f"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "43dcc32dfc516e57dc81a46af3727a4c3c6f578f"
     tagline = #'f
 }
 

@@ -23,6 +23,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f700f5594183bae04d3e8f050e8a7625d1b4b95f"
     composer = "Alfonso Ferrabosco I (1543-1588)"
     tagline = #'f
 }
@@ -107,3 +108,4 @@
         }
     }
 }
+

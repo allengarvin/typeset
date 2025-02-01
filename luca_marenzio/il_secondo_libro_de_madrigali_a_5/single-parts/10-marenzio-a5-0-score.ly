@@ -24,6 +24,7 @@
     shorttitle = "al_vago_del_mio_sole_lucido"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "2f6105ef2e7679b70af40659702fdd70f47c2f87"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

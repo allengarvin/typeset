@@ -23,6 +23,7 @@
     shorttitle = "la_barbisona"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "de2975125b700ffa8d5c29c835b9780a58fd55d2"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

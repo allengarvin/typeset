@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "8436672fd44e0f1873571833c5bbc8ca0c2a68e9"
     % Things that change per piece:
     title = "Ma non sì tosto dal materno stelo"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

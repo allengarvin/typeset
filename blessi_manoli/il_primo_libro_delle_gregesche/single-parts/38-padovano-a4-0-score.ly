@@ -25,6 +25,7 @@
     shorttitle = "benedetta_el_gregaria"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "bc91599ac21f0298a166d7469765df86bf32803c"
     tagline = #'f
 }
 
@@ -92,4 +93,5 @@
         }   
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-13"
     originallyset = "2023-01-13"
     \include "include/distribution-header.ly"
+    cksum = "d291057abf738d673f152434892a5c9c9ca8b64d"
     % Things that change per piece:
     title = "Ego dormivi et soporatus sum"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

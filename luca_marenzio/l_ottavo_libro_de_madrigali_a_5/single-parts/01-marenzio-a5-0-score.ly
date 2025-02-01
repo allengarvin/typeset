@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "f22c312a5913c4e7ba3f5243127a09d2c292aa99"
     % Things that change per piece:
     title = "O occhi del mio core"
     subtitle = "Prima parte"
@@ -129,3 +130,4 @@
         }
     }
 }
+

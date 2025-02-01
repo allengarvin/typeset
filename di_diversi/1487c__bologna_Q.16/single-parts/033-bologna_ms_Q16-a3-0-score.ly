@@ -25,6 +25,7 @@
     final = "d"
     shorttitle = "terrible_fortuna"
     \include "include/distribution-header.ly"
+    cksum = "80180b2f2b6a861cb7ea9b7dcea7640d0f3cf93e"
     tagline = #'f
 }
 
@@ -69,4 +70,5 @@
 
     }   
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-01"
     originallyset = "2023-01-01"
     \include "include/distribution-header.ly"
+    cksum = "16897a39b0838421bdc96304cd20a286b54630e4"
     % Things that change per piece:
     title = "Magnum haereditatis mysterium"
     subtitle = ""
@@ -102,3 +103,4 @@
         }
     }
 }
+

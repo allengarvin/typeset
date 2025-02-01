@@ -12,6 +12,7 @@
     lastupdated = "2022-12-11"
     originallyset = "2022-12-11"
     \include "include/distribution-header.ly"
+    cksum = "937cbce6e228777361970aefb9c176f8893e8701"
     % Things that change per piece:
     title = "Baci cortesi e grati"
     subtitle = "Quarta parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "ma_se_tempo_gia_mai_verra"
     \include "include/distribution-header.ly"
+    cksum = "5b2a1a2684ff7d4d644fe47a70cc1c1a909a1574"
     tagline = #'f
 }
 
@@ -108,3 +109,4 @@
 %Works by 
 %
 %
+

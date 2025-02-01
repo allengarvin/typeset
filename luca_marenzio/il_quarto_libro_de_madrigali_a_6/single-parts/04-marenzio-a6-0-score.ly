@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "9d9737b25a4c0db1b2c90ec7bd7b45384f073694"
     % Things that change per piece:
     title = "La dipartita è amara"
     subtitle = ""
@@ -125,3 +126,4 @@
         }
     }
 }
+

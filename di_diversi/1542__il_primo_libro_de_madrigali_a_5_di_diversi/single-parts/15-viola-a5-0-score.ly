@@ -27,6 +27,7 @@
     shorttitle = "ingiustissimo_amor"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "e4d8b49718b7bfa6955fbde67c8d2898df422709"
     tagline = #'f
 }
 
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     shorttitle = "a_i_gigli"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "0b51843de201f6d91d97f35b94a8a4aa79df7248"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

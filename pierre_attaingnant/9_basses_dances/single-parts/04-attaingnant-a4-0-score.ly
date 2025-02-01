@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "88e69555e1adcae2d3be8943103a894c9bf78243"
     % Things that change per piece:
     title = "Basse dance IV"
     subtitle = "La gatta en italien"
@@ -77,3 +78,4 @@
         }
     }   
 }
+

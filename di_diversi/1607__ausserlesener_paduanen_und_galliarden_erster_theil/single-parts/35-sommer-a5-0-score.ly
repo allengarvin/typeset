@@ -12,6 +12,7 @@
     lastupdated = "2022-09-19"
     originallyset = "2022-09-19"
     \include "include/distribution-header.ly"
+    cksum = "c7f3a6397acdd9d04acd45f9952f8efa9b0221a5"
     % Things that change per piece:
     title = "Paduana XVIII"
     subtitle = "sopra Susanne un jour"
@@ -85,3 +86,4 @@
         }
     }   
 }
+

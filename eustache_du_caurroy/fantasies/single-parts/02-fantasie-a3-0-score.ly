@@ -20,6 +20,7 @@
     originallyset = "2013-06-19"
     lastupdated = "2013-06-19"
     \include "include/distribution-header.ly"
+    cksum = "42be2b8177b2bfb4c17ead930d65331f0eed5efd"
     tagline = #'f
 }
 
@@ -57,4 +58,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

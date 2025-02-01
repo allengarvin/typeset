@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "bfb7ffd8f3b6177b520cdc89af44319c8fc98cb6"
     % Things that change per piece:
     title = "Vegine pura"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

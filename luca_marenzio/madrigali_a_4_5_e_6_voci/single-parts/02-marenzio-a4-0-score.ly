@@ -12,6 +12,7 @@
     lastupdated = "2023-02-04"
     originallyset = "2023-02-04"
     \include "include/distribution-header.ly"
+    cksum = "24c702fcc3b622a2d4548a6175a77a15ddc72a9e"
     % Things that change per piece:
     title = "Se la mia vita"
     subtitle = "Prima parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

@@ -26,6 +26,7 @@
     poeticform = "madrigal"
     motifs = "[burning,salamander,amore,flame]"
     \include "include/distribution-header.ly"
+    cksum = "bb0561fb0488731d659b47816ec24bb01c433ee3"
     tagline = #'f
 }
 
@@ -123,4 +124,5 @@
         }
     }
 }
+
 

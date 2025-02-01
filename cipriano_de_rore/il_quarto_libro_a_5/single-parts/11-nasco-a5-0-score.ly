@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "bbf12eeaa4433f843fdbf74f0825dec4213b0e86"
     % Things that change per piece:
     title = "Talor m'assale in mezzo"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

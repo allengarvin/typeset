@@ -21,6 +21,7 @@
     originallyset = "2020-03-07"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "9021799bc3045f12062540e61b93940f876a4373"
     final = "f"
     flats = 1
     tagline = #'f
@@ -75,3 +76,4 @@
         }
     }   
 }
+

@@ -24,6 +24,7 @@
     shorttitle = "mentre_che_la_mia_donna"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "990e4d5bddf5bd0db3cd1dd092336ef297e61925"
     tagline = #'f
 }
 
@@ -81,4 +82,5 @@
         }
     }
 }
+
 

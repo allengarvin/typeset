@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "4ac5358ca6688fd9166b3a699edbb37e225df094"
     % Things that change per piece:
     title = "Donna, più d'altra adorna di beltate"
     subtitle = ""
@@ -130,4 +131,5 @@
     }
 }
  
+
 

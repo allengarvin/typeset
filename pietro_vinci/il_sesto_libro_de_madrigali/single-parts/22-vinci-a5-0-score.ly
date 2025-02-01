@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "1a6062e408a2e2d0295c34df9535014a26d83c93"
     % Things that change per piece:
     title = "Un'ape esser vorrei"
     subtitle = ""
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

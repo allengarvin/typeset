@@ -12,6 +12,7 @@
     lastupdated = "2023-01-29"
     originallyset = "2023-01-29"
     \include "include/distribution-header.ly"
+    cksum = "87ee27cdc3d0ab8fc5abd455c70705a641c6260b"
     % Things that change per piece:
     title = "Quando dagli occhi del divin mio sole"
     subtitle = ""
@@ -101,3 +102,4 @@
         }
     }
 }
+

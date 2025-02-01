@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "0a2147f94e118a3bfbba18a4a4598b2f79aaee3b"
     % Things that change per piece:
     title = "Dice la mia bellissima Licori"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

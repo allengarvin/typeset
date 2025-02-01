@@ -23,6 +23,7 @@
     shorttitle = "levo_con_la_suo_mano"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "d75939aa8ca3c5aec808edb7b31e312e8064e8a0"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

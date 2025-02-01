@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "34459260e0e1d659006bb20e1c40ef8cafc54cc8"
     % Things that change per piece:
     title = "Due pallidetti amanti"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

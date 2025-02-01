@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "c8b9f4547c0b6b38a2b9f63f6b48a20fcfb3e6c5"
     % Things that change per piece:
     title = "S'io t'ho ferito, non t'ho però morto"
     subtitle = ""
@@ -128,3 +129,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "6f4b7da138ec8de0256a2d3ee6f9e29ff528d309"
     % Things that change per piece:
     title = "Già primavera di vari colori"
     subtitle = ""
@@ -134,4 +135,5 @@
         }
     }
 }
+
 

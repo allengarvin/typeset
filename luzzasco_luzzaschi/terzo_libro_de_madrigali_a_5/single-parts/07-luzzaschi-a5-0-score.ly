@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "72bbcd130e807154ead95dc23e51d753e5514642"
     % Things that change per piece:
     title = "Fuggiti dal mio raggio"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[beauty,eyes,paradise-on-earth,amore]"
     \include "include/distribution-header.ly"
+    cksum = "fc8462bf170503295fb08a98e26f2b0bc6506269"
     tagline = #'f
 }
 
@@ -127,4 +128,5 @@
         }
     }
 }
+
 

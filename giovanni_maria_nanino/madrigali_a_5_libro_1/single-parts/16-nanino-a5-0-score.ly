@@ -25,6 +25,7 @@
     shorttitle = "morir_non_puo_l_mio_core"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "1e47012c3b0f6cae1dedc6aa94c671514833b8c4"
     tagline = #'f
 }
 
@@ -98,4 +99,5 @@
         }
     }
 }
+
 

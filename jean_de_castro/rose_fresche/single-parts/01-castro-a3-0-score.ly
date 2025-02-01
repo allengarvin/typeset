@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[nymph,sea,music]"
     \include "include/distribution-header.ly"
+    cksum = "1c6d0d7ef45c282c23bea4959add9f05011da2c4"
     tagline = #'f
 }
 
@@ -93,3 +94,4 @@
         }
     }
 }
+

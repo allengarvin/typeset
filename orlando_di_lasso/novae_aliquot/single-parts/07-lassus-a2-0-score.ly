@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "iusti_tulerunt_spolia"
     \include "include/distribution-header.ly"
+    cksum = "97f27a1dc5ffeedfe89e4135e9d6abf4c47a8889"
     tagline = #'f
 }
 
@@ -78,4 +79,5 @@
         }
     }
 }
+
 

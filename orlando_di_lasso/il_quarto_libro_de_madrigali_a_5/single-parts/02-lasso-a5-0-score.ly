@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "51859ca2194089728fa2460ac61598016a5666af"
     % Things that change per piece:
     title = "Temprar potess'io"
     subtitle = "Seconda parte"
@@ -114,3 +115,4 @@
         }
     }
 }
+

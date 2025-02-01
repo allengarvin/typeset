@@ -24,6 +24,7 @@
     categories = "[villanella]"
     shorttitle = "venimo_tre_soldati"
     \include "include/distribution-header.ly"
+    cksum = "74e421fed6f3e03036a9f2702fc270543c79fe0a"
     tagline = #'f
 }
 
@@ -101,3 +102,4 @@
         }
     }
 }
+

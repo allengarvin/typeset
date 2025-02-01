@@ -12,6 +12,7 @@
     lastupdated = "2023-01-14"
     originallyset = "2023-01-14"
     \include "include/distribution-header.ly"
+    cksum = "badfcc0c3a79e0ff4eb582087fcbac4e7aad50c6"
     % Things that change per piece:
     title = "Se mai degnasti, Amore"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

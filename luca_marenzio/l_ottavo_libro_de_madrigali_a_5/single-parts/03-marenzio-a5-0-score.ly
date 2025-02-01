@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "95d20cdae309e0048c7154067a52ab408e349bec"
     % Things that change per piece:
     title = "Dunque romper la fé"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

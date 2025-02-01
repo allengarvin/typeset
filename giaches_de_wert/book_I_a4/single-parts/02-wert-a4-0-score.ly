@@ -22,6 +22,7 @@
     shorttitle = "ma_che_non_giova"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "beb7bfc697bcb1ce7c8b5e48b381496ef4d4d81b"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
 
 
 }
+
 

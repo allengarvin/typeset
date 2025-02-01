@@ -25,6 +25,7 @@
     shorttitle = "donna_se_locchio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3479e3ed9c927d98df1f033501083c9ec9ee58e5"
     tagline = #'f
 }
 
@@ -92,4 +93,5 @@
         }   
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2022-10-29"
     originallyset = "2022-10-29"
     \include "include/distribution-header.ly"
+    cksum = "c8bb406ef22524af29de5da155a892545f9263d7"
     % Things that change per piece:
     title = "Aspice Domine quia facta est"
     subtitle = "Prima pars"
@@ -113,3 +114,4 @@
         }
     }
 }
+

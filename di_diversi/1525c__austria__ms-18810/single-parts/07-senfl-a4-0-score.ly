@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "carmen_lamentacio"
     \include "include/distribution-header.ly"
+    cksum = "4cc1a2f49d499a02f1d2a61c76dd1973cff007a4"
     tagline = #'f
 }
 
@@ -74,3 +75,4 @@
         }
     }   
 }
+

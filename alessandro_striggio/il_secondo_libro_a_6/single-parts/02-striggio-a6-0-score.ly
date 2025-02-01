@@ -24,6 +24,7 @@
     shorttitle = "sciolta_Bella"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "a723b887fbd19fc01a3e752769750a1908624187"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

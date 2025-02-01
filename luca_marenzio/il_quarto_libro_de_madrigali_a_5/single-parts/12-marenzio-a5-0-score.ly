@@ -12,6 +12,7 @@
     lastupdated = "2023-01-07"
     originallyset = "2023-01-07"
     \include "include/distribution-header.ly"
+    cksum = "33e4bdbe18e10508c12343f5149ba765f7e55da5"
     % Things that change per piece:
     title = "Real natura, angelico intelletto"
     subtitle = "Prima e seconda parte"
@@ -114,3 +115,4 @@
         }
     }
 }
+

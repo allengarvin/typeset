@@ -26,6 +26,7 @@
     categories = "[madrigal]"
     motifs = "[laura-l'aura-wordplay,shadow]"
     \include "include/distribution-header.ly"
+    cksum = "439177dca36323a6bb424d364f06ada806c87d9b"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

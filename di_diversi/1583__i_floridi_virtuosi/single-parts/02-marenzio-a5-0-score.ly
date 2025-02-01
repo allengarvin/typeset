@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "36c250d9d43fcafb879ec7e98a138376fb5fed43"
     % Things that change per piece:
     title = "Se tu mi lasci, perfido"
     subtitle = ""
@@ -129,3 +130,4 @@
         }
     }
 }
+

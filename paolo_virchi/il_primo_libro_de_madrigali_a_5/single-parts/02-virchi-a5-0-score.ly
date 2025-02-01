@@ -12,6 +12,7 @@
     lastupdated = "2023-02-15"
     originallyset = "2023-02-15"
     \include "include/distribution-header.ly"
+    cksum = "d3352e7b5ab5ca55f488f9f35071f37318903e92"
     % Things that change per piece:
     title = "Nei più lucenti albori"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

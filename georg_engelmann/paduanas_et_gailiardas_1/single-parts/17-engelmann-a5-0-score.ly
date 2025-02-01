@@ -12,6 +12,7 @@
     lastupdated = "2023-11-22"
     originallyset = "2023-11-22"
     \include "include/distribution-header.ly"
+    cksum = "331a24b6fac2a4402ec883ee27ecfd386f1fba96"
     % Things that change per piece:
     title = "Paduana Sire"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "c00a1932651ab28b6c99fa82a57292f19faf5fc7"
     % Things that change per piece:
     title = "Fuggito è 'l sonno"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

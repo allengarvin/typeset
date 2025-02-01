@@ -23,6 +23,7 @@
     shorttitle = "la_canobbia"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "f6ab85d6a635584a746163a25dc1a8d4ef9b594a"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "9cc4fb2bc9c3ab6eb1102a8ae442905a495ecc5e"
     % Things that change per piece:
     title = "Qui pur vedrolla al suon de' miei sospiri"
     subtitle = "Seconda parte"
@@ -135,3 +136,4 @@
         }
     }
 }
+

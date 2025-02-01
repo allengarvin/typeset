@@ -12,6 +12,7 @@
     lastupdated = "2022-09-23"
     originallyset = "2022-09-23"
     \include "include/distribution-header.ly"
+    cksum = "6136a1262d172184aaf614e5d98d1b1210374319"
     % Things that change per piece:
     title = "Così moriro i fortunati amanti"
     subtitle = "Terza parte"
@@ -114,3 +115,4 @@
         }
     }
 }
+

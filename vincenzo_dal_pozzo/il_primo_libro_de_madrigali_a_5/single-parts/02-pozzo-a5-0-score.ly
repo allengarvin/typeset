@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f8ae5e5704af2073bf84b831ed7fbe45c5c0309c"
     % Things that change per piece:
     title = "Donna la bella mano"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

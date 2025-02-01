@@ -12,6 +12,7 @@
     lastupdated = "2022-11-27"
     originallyset = "2022-11-27"
     \include "include/distribution-header.ly"
+    cksum = "2517b9796f99a91bfa421318016fac5fda85c9c3"
     % Things that change per piece:
     title = "Ne irascaris Domine satis"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

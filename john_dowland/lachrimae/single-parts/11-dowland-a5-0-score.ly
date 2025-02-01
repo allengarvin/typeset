@@ -21,6 +21,7 @@
     lastupdated = "2018-07-02"
     shorttitle = "the_king_of_denmarks_galiard"
     \include "include/distribution-header.ly"
+    cksum = "310d1c64418add7074f38c11d742691e63972a03"
     tagline = #'f
 }
 
@@ -80,3 +81,4 @@
         }
     }   
 }
+

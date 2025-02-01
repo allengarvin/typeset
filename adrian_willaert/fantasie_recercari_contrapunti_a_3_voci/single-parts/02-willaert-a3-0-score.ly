@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "recercar"
     \include "include/distribution-header.ly"
+    cksum = "05bddbf347b01145f90aa62716c89cd04d9454ce"
     tagline = #'f
 }
 
@@ -60,4 +61,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "lady_those_eyes_of_yours"
     \include "include/distribution-header.ly"
+    cksum = "74fa4b0942043aa952daa993b9a6de5a81d6ecf9"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

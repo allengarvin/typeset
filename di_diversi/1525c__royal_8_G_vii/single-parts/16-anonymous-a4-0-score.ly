@@ -24,6 +24,7 @@
     final = "e"
     shorttitle = "dulcissimo_virgo_maria"
     \include "include/distribution-header.ly"
+    cksum = "be299c0ee70b1659197bdedc4758653b95d4df2e"
     tagline = #'f
 }
 
@@ -88,4 +89,5 @@
         }
     }
 }
+
 

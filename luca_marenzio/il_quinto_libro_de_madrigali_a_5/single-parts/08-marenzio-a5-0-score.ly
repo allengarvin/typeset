@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "3dd776c5269ae9f230090c08a649a831bc0294db"
     % Things that change per piece:
     title = "Il suo vago gioioso"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

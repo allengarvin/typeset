@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "87a7487c3512942d8c2314469cafb63a6ee8d46b"
     % Things that change per piece:
     title = "Ahimè! tal fu d'Amore"
     subtitle = ""
@@ -122,4 +123,5 @@
         }
     }
 }
+
 

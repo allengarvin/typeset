@@ -25,6 +25,7 @@
     shorttitle = "di_questa_bionde"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "f90b45b4a413b355103e5faf0924b76af1f4d32d"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

@@ -23,6 +23,7 @@
     lastupdated = "2013-05-25"
     shorttitle = "prelude"
     \include "include/distribution-header.ly"
+    cksum = "18bc8c120780e2b8687886580268404bf5410830"
     tagline = #'f
 }
 
@@ -58,4 +59,5 @@
         >>
     }
 }
+
 

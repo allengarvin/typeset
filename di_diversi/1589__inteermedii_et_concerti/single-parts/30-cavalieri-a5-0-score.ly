@@ -29,6 +29,7 @@
     originallyset = "2020-07-25"
     categories = "[polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "50176159551b012213497e60e182903167e762d2"
     tagline = #'f
 }
 
@@ -692,3 +693,4 @@
         }
     }
 }
+

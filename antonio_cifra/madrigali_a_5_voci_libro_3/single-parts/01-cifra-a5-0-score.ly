@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "0ca6f2d698eb637bff0836a73c89d300a80ea0e0"
     % Things that change per piece:
     title = "Baci amorosi e cari"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

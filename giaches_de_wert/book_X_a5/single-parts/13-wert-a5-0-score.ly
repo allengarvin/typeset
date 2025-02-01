@@ -12,6 +12,7 @@
     lastupdated = "2023-02-08"
     originallyset = "2023-02-08"
     \include "include/distribution-header.ly"
+    cksum = "ed05ed342717c5e1ef56d672d92f7d9bc579f2b7"
     % Things that change per piece:
     title = "Misera, quanto tempo indarno ho speso"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

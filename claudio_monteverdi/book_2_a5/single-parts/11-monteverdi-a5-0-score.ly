@@ -24,6 +24,7 @@
     shorttitle = "sandasse_amore"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "246ccbe1c9cb45047e2da976c1dec949ea9f1bd4"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

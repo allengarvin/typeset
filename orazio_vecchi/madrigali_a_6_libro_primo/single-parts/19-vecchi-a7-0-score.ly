@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "1ed20994cb437de2f2a484a3359b74540e6f19ff"
     % Things that change per piece:
     title = "Or che le piaggie ridon"
     subtitle = "Prima parte delle ore di ricreazione"
@@ -160,3 +161,4 @@
         }
     }
 }
+

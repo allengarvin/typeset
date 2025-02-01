@@ -25,6 +25,7 @@
     final = "f"
     shorttitle = "chi_la_gagliarda"
     \include "include/distribution-header.ly"
+    cksum = "534ffd9a2196923707e0352d89696ff5b62abf1a"
     tagline = #'f
 }
 
@@ -137,5 +138,6 @@
         }
     }
 }
+
 
 

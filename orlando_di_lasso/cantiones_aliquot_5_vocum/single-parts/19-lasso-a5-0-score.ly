@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "resonet_in_laudibus__3p__magnum_nomen"
     \include "include/distribution-header.ly"
+    cksum = "e3cf9f59bba8b3f6ea8552b5bb43ff78cf0aaf87"
     tagline = #'f
 }
 
@@ -87,4 +88,5 @@
         }
     }
 }
+
 

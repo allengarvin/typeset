@@ -25,6 +25,7 @@
     categories = "[madrigal,polychoral]"
     motifs = "[pastoral,nymph]"
     \include "include/distribution-header.ly"
+    cksum = "b20299d40b60be106e80f6dd82db11139c1c2ab4"
     tagline = #'f
 }
 
@@ -173,3 +174,4 @@
         }
     }
 }
+

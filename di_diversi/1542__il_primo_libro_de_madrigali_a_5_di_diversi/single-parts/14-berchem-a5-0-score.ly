@@ -26,6 +26,7 @@
     shorttitle = "qual_iniqua_mia_sorte"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "dae6d70a5acef0cdb63c91c73c1ed849f56e7fe6"
     tagline = #'f
 }
 
@@ -104,3 +105,4 @@
         }
     }
 }
+

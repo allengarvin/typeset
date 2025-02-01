@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "015a57a1584114f58380c7f6329113d6c0af5cf6"
     % Things that change per piece:
     title = "Sotto l'ombra de' tuoi pregiati rami"
     subtitle = ""
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

@@ -21,6 +21,7 @@
     lastupdated = "2013-12-14"
     shorttitle = "lachrimae_amantis"
     \include "include/distribution-header.ly"
+    cksum = "3739e7fbf34720430974af47afef49146e5a5e7d"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         \include "../include/layout-score.ly"
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2022-09-18"
     originallyset = "2022-09-18"
     \include "include/distribution-header.ly"
+    cksum = "6ca14d6fe2e47ca99816398af1d914b4f0ce7a2c"
     % Things that change per piece:
     title = "Nel bel giardin' entrate"
     subtitle = "Prima parte"
@@ -129,3 +130,4 @@
         }
     }
 }
+

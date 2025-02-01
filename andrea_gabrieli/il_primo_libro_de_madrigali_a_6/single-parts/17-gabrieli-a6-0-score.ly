@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "18f3de26673a8deda64d1769ea7434abb4ff59c4"
     % Things that change per piece:
     title = "Donna, la vostra ingiusta crudeltade"
     subtitle = ""
@@ -125,3 +126,4 @@
         }
     }
 }
+

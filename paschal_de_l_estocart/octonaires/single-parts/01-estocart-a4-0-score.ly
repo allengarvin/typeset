@@ -12,6 +12,7 @@
     lastupdated = "2022-09-22"
     originallyset = "2022-09-22"
     \include "include/distribution-header.ly"
+    cksum = "d3599ae67219206dff0b96c3cd10b4cddb4f0042"
     % Things that change per piece:
     title = "L'Eau vaviste en s'escoulant"
     subtitle = ""
@@ -97,3 +98,4 @@
         }
     }
 }
+

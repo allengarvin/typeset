@@ -24,6 +24,7 @@
     shorttitle = "o_sogno_mio_felice"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c12a6793fb25221f8b922a1ff866d6f8df92b99b"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

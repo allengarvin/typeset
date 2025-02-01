@@ -24,6 +24,7 @@
     shorttitle = "quanta_belta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "b6c1f63db94a0864005f468b014805e7c6ded7cf"
     tagline = #'f
 }
 
@@ -97,4 +98,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-16"
     originallyset = "2023-01-16"
     \include "include/distribution-header.ly"
+    cksum = "d2bdfbdc81d5e14f4d7c865f1e81a51be751b3d7"
     % Things that change per piece:
     title = "Alma serena e bella"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

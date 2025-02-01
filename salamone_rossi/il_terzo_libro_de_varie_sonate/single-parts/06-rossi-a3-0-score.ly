@@ -24,6 +24,7 @@
     lastupdated = "2013-05-26"
     shorttitle = "sonata_6"
     \include "include/distribution-header.ly"
+    cksum = "c4a434c91cc9702ca786da7b4f1100156354fc02"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         }
     }   
 }
+
 

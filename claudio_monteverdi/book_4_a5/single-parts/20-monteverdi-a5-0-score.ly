@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "d571fa8340325dfc9af2cd91ba564c6f9a5dddea"
     % Things that change per piece:
     title = "Piagne e sospira"
     subtitle = ""
@@ -142,3 +143,4 @@
         }
     }
 }
+

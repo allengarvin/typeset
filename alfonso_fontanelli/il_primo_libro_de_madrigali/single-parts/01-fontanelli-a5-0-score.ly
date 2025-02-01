@@ -12,6 +12,7 @@
     lastupdated = "2023-01-23"
     originallyset = "2023-01-23"
     \include "include/distribution-header.ly"
+    cksum = "bae2c26f88fad02fa26b49155b426329b3593375"
     % Things that change per piece:
     title = "Amor, che rider suole"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

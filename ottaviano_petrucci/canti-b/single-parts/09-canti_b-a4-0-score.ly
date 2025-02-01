@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "reuellies_vous"
     \include "include/distribution-header.ly"
+    cksum = "dfe368249c64bee2e063ec034ec478dea6a134b8"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

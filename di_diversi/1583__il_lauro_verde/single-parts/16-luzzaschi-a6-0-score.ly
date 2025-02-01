@@ -29,6 +29,7 @@
     categories = "[madrigal]"
     motifs = "[weeping,amore,bird]"
     \include "include/distribution-header.ly"
+    cksum = "71156c7ba842678ad83e7cc6a97cbeb2173e36f3"
     tagline = #'f
 }
 
@@ -133,3 +134,4 @@
         }
     }
 }
+

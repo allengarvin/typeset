@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "ego_flos_campi"
     \include "include/distribution-header.ly"
+    cksum = "d5be809c999fd313e25c3cc9d75e28796ba2d9e0"
     tagline = #'f
 }
 
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

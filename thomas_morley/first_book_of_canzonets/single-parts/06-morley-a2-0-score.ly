@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "il_girandola"
     \include "include/distribution-header.ly"
+    cksum = "7359d69d6529e6a6b33b03d24135d93174e29f9e"
     tagline = #'f
 }
 
@@ -57,4 +58,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

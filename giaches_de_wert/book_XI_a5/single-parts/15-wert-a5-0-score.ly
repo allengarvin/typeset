@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "47ac18f3351d1e4bb82a06abdf378f37e4a425b7"
     % Things that change per piece:
     title = "Felice l'alma, che per voi respira"
     subtitle = "Prima parte"
@@ -119,3 +120,4 @@
         }
     }
 }
+

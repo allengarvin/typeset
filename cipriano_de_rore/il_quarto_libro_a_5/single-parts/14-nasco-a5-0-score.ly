@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "68da6674af2fa3e98fa699617455de2d0027b37d"
     % Things that change per piece:
     title = "In suo ruscello amato"
     subtitle = ""
@@ -139,4 +140,5 @@
         }
     }
 }
+
 

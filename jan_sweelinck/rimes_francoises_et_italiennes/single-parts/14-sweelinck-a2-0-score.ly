@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "259876e54c37b304048692c62664e99412029590"
     % Things that change per piece:
     title = "Io mi son giovinetta"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

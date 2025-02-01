@@ -24,6 +24,7 @@
     shorttitle = "or_che_lucente"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "194059a1594f9f594d2db7d81533c78eebdb1082"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

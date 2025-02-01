@@ -12,6 +12,7 @@
     lastupdated = "2023-01-04"
     originallyset = "2023-01-04"
     \include "include/distribution-header.ly"
+    cksum = "a4f2e4807c073dcf0cdcbf8c8ba95e16f4a235a9"
     % Things that change per piece:
     title = "Vaghi augelletti"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

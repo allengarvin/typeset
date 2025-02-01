@@ -12,6 +12,7 @@
     lastupdated = "2022-11-06"
     originallyset = "2022-11-06"
     \include "include/distribution-header.ly"
+    cksum = "0ccdfbcf12e1d0966f899574fd5dd8095a0db404"
     % Things that change per piece:
     title = "Allor fia lieto il core"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

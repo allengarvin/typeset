@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "2d96c9ef9dea8ab174c4ca2e2dd1039a5eb2711c"
     % Things that change per piece:
     title = "Vergine il cui sembiant'umil simiglia"
     subtitle = ""
@@ -133,3 +134,4 @@
         }
     }
 }
+

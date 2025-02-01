@@ -22,6 +22,7 @@
     shorttitle = "vienne_montan"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "5d9e08073bd760c4dd26b0466053ce579bad664e"
     language = "italian"
     tagline = #'f
 }
@@ -81,4 +82,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "095f3bf2133a4b0b96dece87a56743b9008d4a62"
     % Things that change per piece:
     title = "Fiere silvestre"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

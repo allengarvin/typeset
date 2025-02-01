@@ -12,6 +12,7 @@
     lastupdated = "2022-12-11"
     originallyset = "2022-12-11"
     \include "include/distribution-header.ly"
+    cksum = "cb9b8d5141d71106765fff698a0f7377082e94f5"
     % Things that change per piece:
     title = "E s'io mi doglio"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

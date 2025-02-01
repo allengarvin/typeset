@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "6fce951d4a6a911fbf74205a24d4466fbaf0762b"
     % Things that change per piece:
     title = "La verginella è simile alla rosa"
     subtitle = ""
@@ -123,3 +124,4 @@
         }
     }
 }
+

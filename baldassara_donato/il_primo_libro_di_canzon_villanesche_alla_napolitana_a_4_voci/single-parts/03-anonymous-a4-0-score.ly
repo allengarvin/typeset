@@ -26,6 +26,7 @@
     shorttitle = "la_canzon_della_gallino"
     categories = "[animal,villanella]"
     \include "include/distribution-header.ly"
+    cksum = "a0766de87c88432977f39e93bb05b7b48ab0ecd8"
     tagline = #'f
 }
 
@@ -89,4 +90,5 @@
         }
     }
 }
+
 

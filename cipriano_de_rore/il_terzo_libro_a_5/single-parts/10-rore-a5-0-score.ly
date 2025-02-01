@@ -12,6 +12,7 @@
     lastupdated = "2023-06-17"
     originallyset = "2023-06-17"
     \include "include/distribution-header.ly"
+    cksum = "979776c1829e0501b2456ac1cbe0ccf9a96882a1"
     % Things that change per piece:
     title = "Vegine umana"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

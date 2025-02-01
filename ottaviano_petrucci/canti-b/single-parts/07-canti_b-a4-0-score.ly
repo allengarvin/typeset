@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "ce_nest_pas"
     \include "include/distribution-header.ly"
+    cksum = "f244518e8624dac0ef444b1ae4fc7adefbd932d5"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

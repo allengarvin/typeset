@@ -12,6 +12,7 @@
     lastupdated = "2022-11-12"
     originallyset = "2022-11-12"
     \include "include/distribution-header.ly"
+    cksum = "2e6d72350b6d229eb736dce4384679d8bcd5328a"
     % Things that change per piece:
     title = "What pleasure have great princes"
     subtitle = ""
@@ -133,3 +134,4 @@
         }
     }
 }
+

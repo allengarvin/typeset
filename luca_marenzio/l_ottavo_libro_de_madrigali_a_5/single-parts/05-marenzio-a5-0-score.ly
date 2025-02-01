@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "87722719866a0c2fdfa225e583a0b0d68ac7102d"
     % Things that change per piece:
     title = "Vita soave e di dolcezza piena"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

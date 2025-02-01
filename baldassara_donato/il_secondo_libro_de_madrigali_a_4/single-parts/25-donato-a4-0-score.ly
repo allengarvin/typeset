@@ -27,6 +27,7 @@
     motifs = "[virgin,shepherd]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
+    cksum = "bce571f933a6602dc7c077f30e2501ab7c954af8"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

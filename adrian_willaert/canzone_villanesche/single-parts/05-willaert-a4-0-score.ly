@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "vecchie_letrose"
     \include "include/distribution-header.ly"
+    cksum = "a30c0f5f04aa2dab29db1633a5226012e8d7a10e"
     tagline = #'f
 }
 
@@ -78,4 +79,5 @@
         }
     }   
 }
+
 

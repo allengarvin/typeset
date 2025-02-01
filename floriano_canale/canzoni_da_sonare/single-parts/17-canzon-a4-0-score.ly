@@ -23,6 +23,7 @@
     shorttitle = "la_robbata"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "848e3d0706a0127f39c57b0f1af3ffd45646568f"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

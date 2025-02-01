@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "675b15f3708d86b93c5b2743edfb9e576b07ea0a"
     % Things that change per piece:
     title = "Deh, Tirsi mio gentil"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

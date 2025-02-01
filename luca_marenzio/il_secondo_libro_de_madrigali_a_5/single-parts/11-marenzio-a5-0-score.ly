@@ -26,6 +26,7 @@
     shorttitle = "itene_a_lombra"
     categories = "[madrigal,pastoral]"
     \include "include/distribution-header.ly"
+    cksum = "e794d60da1cc0ffea8075963e2163c6340499e52"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

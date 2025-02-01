@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "aime_le_plus_bella"
     \include "include/distribution-header.ly"
+    cksum = "3cb92158f4e80efdc53d31d851510845b51bc5f3"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

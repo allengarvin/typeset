@@ -24,6 +24,7 @@
     shorttitle = "gia_feb_il_tuo_splendor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "1791a55149da2d5e5bb2e0e05d6ee25867e33d4b"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

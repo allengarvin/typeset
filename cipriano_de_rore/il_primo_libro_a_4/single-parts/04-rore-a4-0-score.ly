@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[seasons]"
     \include "include/distribution-header.ly"
+    cksum = "c9f229c07c6e1a77ee513b8bc8b6518f47710953"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

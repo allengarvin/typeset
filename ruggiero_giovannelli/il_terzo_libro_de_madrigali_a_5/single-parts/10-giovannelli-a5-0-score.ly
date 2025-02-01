@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "9362dbe9999a06f8604562f1d1be338b525edbfc"
     % Things that change per piece:
     title = "Ut re mi fa sol la"
     subtitle = ""
@@ -124,3 +125,4 @@
         }
     }
 }
+

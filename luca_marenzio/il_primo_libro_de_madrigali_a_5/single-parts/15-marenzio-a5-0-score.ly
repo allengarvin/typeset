@@ -24,6 +24,7 @@
     motifs = "[pastoral,flowers,shepherdess,flowers]"
     rhyme = "AbBAAbCC"
     \include "include/distribution-header.ly"
+    cksum = "ccf60932c5b67f1b6986720add113ce83e50778a"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

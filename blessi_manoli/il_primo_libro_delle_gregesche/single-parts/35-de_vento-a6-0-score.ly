@@ -25,6 +25,7 @@
     shorttitle = "cando_la_bun_caval"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "de7d5498a869c0c93576e9caa741daa281ab0800"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }   
 }
+
 

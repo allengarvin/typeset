@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "6ce180253f5482e8c655fda93518994837135c64"
     % Things that change per piece:
     title = "Donna, s'io son il sole"
     subtitle = ""
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

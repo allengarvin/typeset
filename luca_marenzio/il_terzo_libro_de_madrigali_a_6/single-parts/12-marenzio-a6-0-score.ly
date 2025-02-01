@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "a95c974ac05b63f7dfd3c099e884c5113e8859cf"
     % Things that change per piece:
     title = "Posso cor mio partire"
     subtitle = ""
@@ -128,4 +129,5 @@
         }
     }
 }
+
 

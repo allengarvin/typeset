@@ -12,6 +12,7 @@
     lastupdated = "2022-09-18"
     originallyset = "2022-09-18"
     \include "include/distribution-header.ly"
+    cksum = "1d480f9c5bd137bb628df552f1c8748e476378cd"
     % Things that change per piece:
     title = "O flos campi"
     subtitle = "Prima pars"
@@ -115,3 +116,4 @@
         }
     }
 }
+

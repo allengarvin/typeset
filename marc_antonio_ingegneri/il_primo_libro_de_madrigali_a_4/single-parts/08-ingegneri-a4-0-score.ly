@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "953f90a7582749f0a32529b040b4b9b9977a31ab"
     % Things that change per piece:
     title = "Qual grazia o qual beltate"
     subtitle = ""
@@ -112,4 +113,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "dittez_moy"
     \include "include/distribution-header.ly"
+    cksum = "ccdfccefbe672e3c0f9471c841a1de1281d2fa3f"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

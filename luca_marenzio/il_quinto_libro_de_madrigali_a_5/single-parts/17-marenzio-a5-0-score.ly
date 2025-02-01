@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "547507164d285ccda7ff2c85c98019ae880a55b7"
     % Things that change per piece:
     title = "L'alto e nobil pensier"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

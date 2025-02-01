@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "aqui_dirage_mes_pensees"
     \include "include/distribution-header.ly"
+    cksum = "5c69655a04f17a88eee973dcf7cc0eef417d931a"
     tagline = #'f
 }
 
@@ -69,3 +70,4 @@
         }
     }   
 }
+

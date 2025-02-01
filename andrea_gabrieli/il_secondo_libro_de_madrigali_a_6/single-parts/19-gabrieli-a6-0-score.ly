@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "d2a05c5a1c15dc11a848457f3cb0b00446c739f0"
     % Things that change per piece:
     title = "Tu vuoi, lasso, ch'io pera"
     subtitle = ""
@@ -117,3 +118,4 @@
         }
     }
 }
+

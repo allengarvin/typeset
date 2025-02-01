@@ -12,6 +12,7 @@
     lastupdated = "2023-02-12"
     originallyset = "2023-02-12"
     \include "include/distribution-header.ly"
+    cksum = "18fbbcc0882a16762471da62e789659a71e35722"
     % Things that change per piece:
     title = "Non mi conosci tu"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

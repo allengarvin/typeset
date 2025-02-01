@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "4a662dc1491597ed6d934df13b0ad248d15e2592"
     % Things that change per piece:
     title = "Dentro pur foco"
     subtitle = "Sesta parte"
@@ -123,3 +124,4 @@
         }
     }
 }
+

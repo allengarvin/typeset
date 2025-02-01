@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "792495d6ea25769fa825c8ffb24858f27c6cbf04"
     % Things that change per piece:
     title = "A cui d'intorno i pargoletti amori"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

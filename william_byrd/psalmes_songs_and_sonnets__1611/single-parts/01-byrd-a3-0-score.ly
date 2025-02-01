@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "the_eagles_force"
     \include "include/distribution-header.ly"
+    cksum = "27e910c309e2710cceccb195553e2cedfe2ded59"
     tagline = #'f
 }
 
@@ -83,4 +84,5 @@
         }
     }
 }
+
 

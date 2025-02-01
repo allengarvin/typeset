@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "et_dunt_revenis_vous"
     \include "include/distribution-header.ly"
+    cksum = "c6a099e515f80207160b58ba302b21b4c095bf52"
     tagline = #'f
 }
 
@@ -76,3 +77,4 @@
         }
     }   
 }
+

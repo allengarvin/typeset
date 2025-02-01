@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "in_aeternum"
     \include "include/distribution-header.ly"
+    cksum = "2ff1ecde7db885ad598058e7e45d7e994510fdd3"
     tagline = #'f
 }
 
@@ -97,3 +98,4 @@
         }
     }
 }
+

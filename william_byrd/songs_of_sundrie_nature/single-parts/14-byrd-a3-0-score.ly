@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "the_greedy_hawk"
     \include "include/distribution-header.ly"
+    cksum = "3663d961d208b05573880c8a099d1a609c89b399"
     tagline = #'f
 }
 
@@ -84,4 +85,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "0fb246781debf02ab533b429e069a992ac5d0c19"
     % Things that change per piece:
     title = "Signor cui piacque ornare"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

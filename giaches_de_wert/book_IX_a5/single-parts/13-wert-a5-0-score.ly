@@ -25,6 +25,7 @@
     poeticform = "sestina"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "efd36183e48b26c471865aabf92dda948c33ee1f"
     tagline = #'f
 }
 
@@ -111,3 +112,4 @@
         }
     }
 }
+

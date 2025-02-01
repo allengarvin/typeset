@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "e720d400d6bb6323e1dbbc93fb863f47d55257e8"
     % Things that change per piece:
     title = "O pietà somma"
     subtitle = "Seconda parte"
@@ -110,3 +111,4 @@
         }
     }
 }
+

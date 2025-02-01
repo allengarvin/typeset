@@ -12,6 +12,7 @@
     lastupdated = "2022-09-24"
     originallyset = "2022-09-24"
     \include "include/distribution-header.ly"
+    cksum = "c30e8fb6d2de656570ec14bd99d92fb2420c1e39"
     % Things that change per piece:
     title = "Quante volte volgete"
     subtitle = ""
@@ -102,3 +103,4 @@
         }
     }
 }
+

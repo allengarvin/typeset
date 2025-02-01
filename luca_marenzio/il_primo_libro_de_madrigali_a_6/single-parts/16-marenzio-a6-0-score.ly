@@ -23,6 +23,7 @@
     shorttitle = "strinse_amarilli"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "7e2a883ce73298a40045444f3b9366d785987a0c"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

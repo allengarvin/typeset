@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "de_tous_biens"
     \include "include/distribution-header.ly"
+    cksum = "1e84a4823089832264530dbb8c401d2dfe8a5024"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

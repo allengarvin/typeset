@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "70d661f8cf67991c2672b0be529abb66ee9eec21"
     folio = "Giovanni Battista Strozzi il vecchio (1505-1571)"
     % Things that change per piece:
     title = "Or chi, Clori beata"
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

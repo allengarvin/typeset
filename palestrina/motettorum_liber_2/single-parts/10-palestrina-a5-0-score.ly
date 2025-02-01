@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "ego_rogabo_patrem"
     \include "include/distribution-header.ly"
+    cksum = "322c229ec8666cdd57f5e87303edb4c21f924333"
     tagline = #'f
 }
 
@@ -89,4 +90,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "498debf016adcb4dc728cf27160b5b455489a3ea"
     % Things that change per piece:
     title = "S'io vissi cieco"
     subtitle = "Prima parte"
@@ -112,4 +113,5 @@
         }
     }
 }
+
 

@@ -25,6 +25,7 @@
     shorttitle = "questi_on_que_begli_occhi"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c5f9ac55aab3d02ee8ccdaeebba3a8acb958fda5"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

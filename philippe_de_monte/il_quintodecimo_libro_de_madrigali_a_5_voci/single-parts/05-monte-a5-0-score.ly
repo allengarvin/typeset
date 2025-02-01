@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "bcbaa42e47d4cf93656add79d4ae80a37ed99e4e"
     % Things that change per piece:
     title = "Fece da voi partita"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

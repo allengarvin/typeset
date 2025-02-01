@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "4c0d7bfdac3e1730e5695bf837d0c54f7082433b"
     % Things that change per piece:
     title = "Questi tuoi dolci sguardi"
     subtitle = ""
@@ -119,4 +120,5 @@
         }
     }
 }
+
 

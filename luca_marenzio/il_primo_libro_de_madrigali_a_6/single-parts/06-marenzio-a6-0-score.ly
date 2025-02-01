@@ -24,6 +24,7 @@
     shorttitle = "ben_mi_credetti"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "1863ca040f88b63df4e5e96531eb92327b00ef52"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

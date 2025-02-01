@@ -28,6 +28,7 @@
     categories = "[madrigal]"
     motifs = "[sighing]"
     \include "include/distribution-header.ly"
+    cksum = "6ce0da09cd9a4466938df70e02dd516154bc47cd"
     tagline = #'f
 }
 
@@ -113,3 +114,4 @@
         }
     }
 }
+

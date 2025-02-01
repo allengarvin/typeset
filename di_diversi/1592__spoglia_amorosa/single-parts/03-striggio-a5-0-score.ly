@@ -24,6 +24,7 @@
     shorttitle = "allor_che_lieta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "7b83b3537256809f2d29defb30891b6bb32128da"
     tagline = #'f
 }
 
@@ -98,3 +99,4 @@
         }
     }
 }
+

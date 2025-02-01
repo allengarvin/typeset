@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "4cd49110e4e88642e0f953f4257343ebb731c52a"
     % Things that change per piece:
     title = "Sospir, nato di fuoco"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

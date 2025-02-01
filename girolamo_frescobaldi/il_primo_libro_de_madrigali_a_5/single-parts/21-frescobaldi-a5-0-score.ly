@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "ff81df152fc07a6aab526c066cd18cbade43ec61"
     % Things that change per piece:
     title = "Come perder poss'io"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

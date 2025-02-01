@@ -28,6 +28,7 @@
     categories = "[madrigal,furioso]"
     motifs = "[amore,speech]"
     \include "include/distribution-header.ly"
+    cksum = "1504e540a7f193c6b66a45560aab779c395e78c4"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

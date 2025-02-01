@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "e00bb1422cbf17f55c2a0d6d40b5e104d905b04b"
     % Things that change per piece:
     title = "Anima cruda sì"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

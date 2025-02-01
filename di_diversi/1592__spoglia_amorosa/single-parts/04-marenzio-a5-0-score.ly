@@ -26,6 +26,7 @@
     motifs = "[laurel,rivers]"
     poeticform = "sestina"
     \include "include/distribution-header.ly"
+    cksum = "cb020c637ff500b2916b6eee940f36c213f968c5"
     tagline = #'f
 }
 
@@ -113,3 +114,4 @@
         }
     }
 }
+

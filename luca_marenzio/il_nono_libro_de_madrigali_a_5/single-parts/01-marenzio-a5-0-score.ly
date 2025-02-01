@@ -12,6 +12,7 @@
     lastupdated = "2023-01-01"
     originallyset = "2023-01-01"
     \include "include/distribution-header.ly"
+    cksum = "4be0b534d4908101fcb704d39801ed328c860ccc"
     % Things that change per piece:
     title = "Così nel mio parlar"
     subtitle = "Prima parte"
@@ -116,3 +117,4 @@
         }
     }
 }
+

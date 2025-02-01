@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "658a50ef067b01165d6f67f51834024ad0fbb0b8"
     % Things that change per piece:
     title = "Talor parmi la luce"
     subtitle = "Quinta parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "par_ung_jour"
     \include "include/distribution-header.ly"
+    cksum = "8186ec0622d880c23803212581834d420d3d48c1"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

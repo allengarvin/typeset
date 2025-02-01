@@ -26,6 +26,7 @@
     final = "g"
     categories = "[favorite]"
     \include "include/distribution-header.ly"
+    cksum = "ba0b037288a3730eba93102e7ce0ff6ae8266968"
     tagline = #'f
 }
 
@@ -85,3 +86,4 @@
         }
     }   
 }
+

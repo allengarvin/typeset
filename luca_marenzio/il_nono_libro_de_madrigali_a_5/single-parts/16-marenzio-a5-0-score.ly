@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "33fc5669bffa0f570f79d062c32e4f305368c5a9"
     % Things that change per piece:
     title = "Fiume ch'a l'onde tue"
     subtitle = "Prima e seconda parte"
@@ -133,3 +134,4 @@
         }
     }
 }
+

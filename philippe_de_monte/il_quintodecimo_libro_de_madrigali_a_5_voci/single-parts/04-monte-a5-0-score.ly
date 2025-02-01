@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "d1df96ab2f018895664b618cef5254ac70065e46"
     % Things that change per piece:
     title = "Care lagrime mie"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

@@ -21,6 +21,7 @@
     originallyset = "2019-01-03"
     lastupdated = "2019-01-03"
     \include "include/distribution-header.ly"
+    cksum = "54f52fde4c645b3715db5799ca9a8580f5ca80d4"
     tagline = #'f
 }
 
@@ -59,3 +60,4 @@
         }
     }   
 }
+

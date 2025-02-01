@@ -25,6 +25,7 @@
     shorttitle = "ne_pero"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "9a27871ff4c8bb4fbcc6dd1c04ff07eb21e7583e"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

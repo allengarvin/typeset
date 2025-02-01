@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "lord_in_thy_rage"
     \include "include/distribution-header.ly"
+    cksum = "4d2687059c104fd07c08ddf1ef912f9c8afa85a1"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

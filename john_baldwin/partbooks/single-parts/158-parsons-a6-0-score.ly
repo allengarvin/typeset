@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "songe_called_trumpets"
     \include "include/distribution-header.ly"
+    cksum = "61b4e56d4f196a6ad634242c1f7b0611308836cb"
     tagline = #'f
 }
 
@@ -94,4 +95,5 @@
         }
     }
 }
+
 

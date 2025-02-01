@@ -23,6 +23,7 @@
     shorttitle = "ave_regina_coelorum"
     categories = "[polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "db1590167639f335c629c0e88c994c50687ec041"
     tagline = #'f
 }
 
@@ -143,3 +144,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     shorttitle = "cantiamo_lieti"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "202c8fec8b8be7ae2737bbd34effe7c2200e8559"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

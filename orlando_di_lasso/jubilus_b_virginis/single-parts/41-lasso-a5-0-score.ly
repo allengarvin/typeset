@@ -24,6 +24,7 @@
     final = "e"
     shorttitle = "magnificat_xli"
     \include "include/distribution-header.ly"
+    cksum = "8f08bc0a83f5387775ff4dd36e31d68802bbc8b7"
     tagline = #'f
 }
 
@@ -445,3 +446,4 @@
 
 
 }
+

@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "ricercar_tertius"
     \include "include/distribution-header.ly"
+    cksum = "12cdd604f4bf641573703517122ed43234999e76"
     tagline = #'f
 }
 
@@ -74,3 +75,4 @@
         }
     }   
 }
+

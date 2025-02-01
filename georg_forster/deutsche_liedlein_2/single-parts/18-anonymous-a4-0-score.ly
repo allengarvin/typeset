@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "wolauff_gut_gsell_von_hinnen"
     \include "include/distribution-header.ly"
+    cksum = "34a3c4cef97d9d4760a6293c2d27210e92809b5e"
     tagline = #'f
 }
 
@@ -91,3 +92,4 @@
         }
     }
 }
+

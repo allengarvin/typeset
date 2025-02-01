@@ -25,6 +25,7 @@
     shorttitle = "or_volge_signor_mio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "b0aae95032c6e9e12196b02806edda7c02ad2c7a"
     tagline = #'f
 }
 
@@ -113,3 +114,4 @@
         }
     }
 }
+

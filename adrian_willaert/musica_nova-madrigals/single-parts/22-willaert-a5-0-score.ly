@@ -25,6 +25,7 @@
     shorttitle = "nulla_posso_levar"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "424f619293be6ffc16e1b639e8516c54f4fa86a6"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

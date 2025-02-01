@@ -26,6 +26,7 @@
     categories = "[madrigal]"
     motifs = "[italy,po]"
     \include "include/distribution-header.ly"
+    cksum = "ba7e780dd6f67e5cc120bf457e1adbfb6ba26bf6"
     tagline = #'f
 }
 
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

@@ -25,6 +25,7 @@
     shorttitle = "vestiva_i_colli"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "00bcee6b543fdc181cae921fc9c6b1b7036fd949"
     tagline = #'f
 }
 
@@ -101,3 +102,4 @@
         }
     }
 }
+

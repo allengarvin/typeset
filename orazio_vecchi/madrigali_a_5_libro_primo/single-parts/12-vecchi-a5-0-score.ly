@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "4639dd72f458207c141af89765baf6af34e337b9"
     % Things that change per piece:
     title = "Pastorella graziosella"
     subtitle = ""
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

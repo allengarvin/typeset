@@ -12,6 +12,7 @@
     lastupdated = "2023-02-11"
     originallyset = "2023-02-11"
     \include "include/distribution-header.ly"
+    cksum = "9172e6dba5637bec5fc362752494db35ff3ae66f"
     % Things that change per piece:
     title = "La bella cacciatrice"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

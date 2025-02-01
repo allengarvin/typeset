@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "susann_un_jour"
     \include "include/distribution-header.ly"
+    cksum = "83610fa88012bc00165e1665a9223122254d9156"
     tagline = #'f
 }
 
@@ -117,3 +118,4 @@
         }
     }
 }
+

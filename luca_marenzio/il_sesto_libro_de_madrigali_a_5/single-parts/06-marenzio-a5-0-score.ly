@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[pastoral,morte,tears,amore,kiss]"
     \include "include/distribution-header.ly"
+    cksum = "ab82ae178e777d1548b4de6b97af05f7a5683cd3"
     tagline = #'f
 }
 
@@ -127,4 +128,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "ile_fantazies_de_joskin"
     \include "include/distribution-header.ly"
+    cksum = "c3648b08fdb1e427235436243b8a4fe848927bca"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-02-06"
     originallyset = "2023-02-06"
     \include "include/distribution-header.ly"
+    cksum = "42062ac3e9b1dd0f97e5fbba1bed8e197c61f1d9"
     % Things that change per piece:
     title = "Ben mi credeva"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

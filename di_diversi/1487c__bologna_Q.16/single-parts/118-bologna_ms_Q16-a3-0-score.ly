@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "le_souvenir"
     \include "include/distribution-header.ly"
+    cksum = "c506c0520d70e38b34b1379f78cce2fe30cb5652"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

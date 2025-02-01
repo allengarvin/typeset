@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "0e9071f14c3e19ff8d5bc2f312387d28f93a4a56"
     % Things that change per piece:
     title = "O fere stelle"
     subtitle = ""
@@ -124,3 +125,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     shorttitle = "sento_un_rumor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "b21163aa8befe5e83284a582e3ebe785a3f67ee6"
     tagline = #'f
 }
 
@@ -127,4 +128,5 @@
         }
     }
 }
+
 

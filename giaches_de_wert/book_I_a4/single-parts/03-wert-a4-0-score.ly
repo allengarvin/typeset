@@ -22,6 +22,7 @@
     shorttitle = "quant_esser_vi_dee_car_un_huom"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "b9cae26e47328f6ade623d4eb998127e5a9d72c0"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
 
 
 }
+
 

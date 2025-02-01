@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "b5447fc250783549450a65d976683b70a91fc87e"
     % Things that change per piece:
     title = "Signor, nell'altro canto io vi dicea"
     subtitle = "Della pazzia d'Orlando"
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

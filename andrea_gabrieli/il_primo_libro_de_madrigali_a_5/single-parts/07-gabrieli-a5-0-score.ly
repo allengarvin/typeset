@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "a940b918dec1428d1a519643585b95c473dab7c1"
     % Things that change per piece:
     title = "Perché non vide mai"
     subtitle = "Seconda parte"
@@ -114,3 +115,4 @@
         Cythera in the Ionian sea.
     }
 }
+

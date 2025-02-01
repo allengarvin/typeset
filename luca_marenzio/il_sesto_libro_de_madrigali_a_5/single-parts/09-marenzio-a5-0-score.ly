@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "4851f1bc38b52a8520294e2d28f75e5a0020520c"
     % Things that change per piece:
     title = "Dille la mia speranza"
     subtitle = "Seconda parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

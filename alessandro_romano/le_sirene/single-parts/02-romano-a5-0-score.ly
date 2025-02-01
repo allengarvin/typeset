@@ -25,6 +25,7 @@
     shorttitle = "allor_chio_senti"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "4a22002bcc99e0a3f0d0a0c9aab290be19394054"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

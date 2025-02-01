@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "angeli_archangeli"
     \include "include/distribution-header.ly"
+    cksum = "88c0c0cdd37419453335fdc92d9b575579a80d1a"
     tagline = #'f
 }
 
@@ -100,3 +101,4 @@
         }
     }
 }
+

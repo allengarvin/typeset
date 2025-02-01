@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "28c27b312097488d232bc8682f4a70ca290d81f4"
     % Things that change per piece:
     title = "Quivi mentre io tenea le luci fisse"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

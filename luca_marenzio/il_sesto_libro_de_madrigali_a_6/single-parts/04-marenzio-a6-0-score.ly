@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "9d8b93b6e42df13ccd1e0477353df0236307afd5"
     % Things that change per piece:
     title = "Allor saranno i miei pensier"
     subtitle = "Seconda parte"
@@ -123,3 +124,4 @@
         }
     }
 }
+

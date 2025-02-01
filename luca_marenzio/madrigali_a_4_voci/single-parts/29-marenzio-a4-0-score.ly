@@ -22,6 +22,7 @@
     shorttitle = "la_sante_pale"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c2c7362211f5a64ecd84a1938c74468532a00d19"
     language = "italian"
     tagline = #'f
 }
@@ -81,4 +82,5 @@
         }
     }
 }
+
 

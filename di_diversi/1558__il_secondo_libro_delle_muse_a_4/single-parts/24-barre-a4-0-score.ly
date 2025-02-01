@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "3a1cbf2d5fffca2b91b496f79789449d707b9448"
     % Things that change per piece:
     title = "E nella face de' begli occhi"
     subtitle = "Seconda parte"
@@ -112,3 +113,4 @@
         }
     }
 }
+

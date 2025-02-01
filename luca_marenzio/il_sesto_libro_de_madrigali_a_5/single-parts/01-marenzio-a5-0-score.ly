@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "afca0c057e1f640edfe7ecf9308c1fbf0850b208"
     % Things that change per piece:
     title = "S'io parto, i' moro"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

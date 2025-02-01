@@ -21,6 +21,7 @@
     lastupdated = "2013-12-13"
     shorttitle = "lachrimae_coactae"
     \include "include/distribution-header.ly"
+    cksum = "5480919923ebb2813be5b557c02ec13438fff52c"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         \include "../include/layout-score.ly"
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-17"
     originallyset = "2023-01-17"
     \include "include/distribution-header.ly"
+    cksum = "19466926f5dba7eb4466e7139a4985610483a91b"
     % Things that change per piece:
     title = "Invide siepi"
     subtitle = ""
@@ -107,3 +108,4 @@
         }
     }
 }
+

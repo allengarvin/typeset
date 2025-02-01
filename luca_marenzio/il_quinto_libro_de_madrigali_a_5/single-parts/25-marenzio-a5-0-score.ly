@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "ddd30e9c3f0c3fc587100e871d8ee6fe3285ab1f"
     % Things that change per piece:
     title = "Ché, se'l gridar questo signor"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

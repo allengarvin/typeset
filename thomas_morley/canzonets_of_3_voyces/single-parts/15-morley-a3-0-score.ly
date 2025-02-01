@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "cease_mine_eyes"
     \include "include/distribution-header.ly"
+    cksum = "dc3a58fb0abff390de56b7beff3442977ea4ddf3"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

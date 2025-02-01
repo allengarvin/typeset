@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d0c572594bb4d503230d5fb591dda6c6c8a4f543"
     % Things that change per piece:
     title = "Non sol, dissi, tu puoi, anima fera"
     subtitle = ""
@@ -136,3 +137,4 @@
         }
     }
 }
+

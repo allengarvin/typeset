@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[rose]"
     \include "include/distribution-header.ly"
+    cksum = "0542ed3d680fe0f6df26bb144dd3cd9f46e27b6d"
     tagline = #'f
 }
 
@@ -123,3 +124,4 @@
         }
     }
 }
+

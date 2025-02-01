@@ -12,6 +12,7 @@
     lastupdated = "2022-12-10"
     originallyset = "2022-12-10"
     \include "include/distribution-header.ly"
+    cksum = "b81c98e1598fec4a766cbc21ec9fb17d4a4d6354"
     % Things that change per piece:
     title = "Vivrò dunque lontano"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

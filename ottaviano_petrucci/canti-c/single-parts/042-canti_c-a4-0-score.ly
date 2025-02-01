@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "berzeretta_sauoyena"
     \include "include/distribution-header.ly"
+    cksum = "69f0f6a31f6c188210a4f56c05db1f6967084c71"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

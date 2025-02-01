@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "resonet_in_laudibus"
     \include "include/distribution-header.ly"
+    cksum = "7ebb7de56569ddd9ce8ec9f402a31c7a44fa87b1"
     tagline = #'f
 }
 
@@ -91,4 +92,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "tu_ridi_sempre_mai"
     \include "include/distribution-header.ly"
+    cksum = "29833513ae0b4a3b813a7e09e77286ad4e79a8a5"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

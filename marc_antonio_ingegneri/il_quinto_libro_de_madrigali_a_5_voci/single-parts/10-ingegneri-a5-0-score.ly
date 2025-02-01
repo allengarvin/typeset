@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "2ffed7b261eacb7def3c4687b61be1cc6f298100"
     % Things that change per piece:
     title = "Cogli la vaga rosa"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

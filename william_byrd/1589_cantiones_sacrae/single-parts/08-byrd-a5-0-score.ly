@@ -12,6 +12,7 @@
     lastupdated = "2022-11-25"
     originallyset = "2022-11-25"
     \include "include/distribution-header.ly"
+    cksum = "7b5c823eb9ed2b5a6180a24fabf64b140a8077f7"
     % Things that change per piece:
     title = "Memento Domine"
     subtitle = ""
@@ -106,3 +107,4 @@
         }
     }
 }
+

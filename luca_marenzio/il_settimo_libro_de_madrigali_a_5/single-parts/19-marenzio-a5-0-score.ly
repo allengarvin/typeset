@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "b948f12ac17c6bba3fa523470b896a887a901e2a"
     % Things that change per piece:
     title = "Così, chi'l crederia?"
     subtitle = "Seconda parte"
@@ -130,3 +131,4 @@
         }
     }
 }
+

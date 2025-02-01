@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "111f097af5633ce7958f873d5cda5f78229158c7"
     % Things that change per piece:
     title = "Cura gelata, e ria"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2023-11-21"
     originallyset = "2023-11-21"
     \include "include/distribution-header.ly"
+    cksum = "6c3176b84105914c62f0559e3abda3666910c390"
     % Things that change per piece:
     title = "Paduana Seose"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

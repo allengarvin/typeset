@@ -25,6 +25,7 @@
     shorttitle = "pungente_dardo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "6dd2b4e3ab1c07bdd21e13c4936f958e3f218ee2"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
         }
     }
 }
+
 

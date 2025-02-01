@@ -23,6 +23,7 @@
     shorttitle = "la_fenarola"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "a9753e17d7fa5c9017bd5eeb3baf0efb863e75ef"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

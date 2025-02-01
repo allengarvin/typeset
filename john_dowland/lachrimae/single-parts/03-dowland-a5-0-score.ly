@@ -21,6 +21,7 @@
     lastupdated = "2013-12-09"
     shorttitle = "lachrimae_gementes"
     \include "include/distribution-header.ly"
+    cksum = "9706b5bf581765199f1d6029690e4d57044c8417"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         \include "../include/layout-score.ly"
     }
 }
+
 

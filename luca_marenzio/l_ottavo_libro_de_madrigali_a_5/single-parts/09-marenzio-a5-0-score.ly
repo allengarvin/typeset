@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "d93d3691e0d2bf6f7fb3a95c22f0ff8ca82cded0"
     % Things that change per piece:
     title = "Ite, amari sospiri"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

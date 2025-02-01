@@ -24,6 +24,7 @@
     shorttitle = "deh_se_lo_sdegno_altiero"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3e4e4265eea4d0f20dfe1d67b0d70d0bb671e4e2"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

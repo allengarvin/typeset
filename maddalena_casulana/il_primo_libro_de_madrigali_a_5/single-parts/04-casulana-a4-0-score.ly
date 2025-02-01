@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "7a259ca09fb44273a50bc7f7021ff8805ea676fc"
     % Things that change per piece:
     title = "Io d'odorate frondi"
     subtitle = "Terza stanza"
@@ -104,3 +105,4 @@
         }
     }
 }
+

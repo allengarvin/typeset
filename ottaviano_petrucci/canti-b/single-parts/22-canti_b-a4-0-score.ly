@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "tous_les_regrets"
     \include "include/distribution-header.ly"
+    cksum = "773b32ab92655eefad1b01888cf8a866b1ef9b3e"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

@@ -25,6 +25,7 @@
     shorttitle = "io_mi_rivolgo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "aa0734a28ba6645642fcd77f4951c7b010d6ec76"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

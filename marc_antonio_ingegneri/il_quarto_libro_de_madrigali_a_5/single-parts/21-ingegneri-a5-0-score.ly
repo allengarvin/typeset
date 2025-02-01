@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "89a7d94cbbc0b88c0c3883924c213a384fa7bcd8"
     % Things that change per piece:
     title = "Ah tu Signor"
     subtitle = "Seconda parte"
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

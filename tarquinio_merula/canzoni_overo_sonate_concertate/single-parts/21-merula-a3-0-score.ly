@@ -22,6 +22,7 @@
     lastupdated = "2013-04-16"
     shorttitle = "chiacona"
     \include "include/distribution-header.ly"
+    cksum = "c6841e7f7dab298140d4e793f307ebffbb970fdf"
     tagline = #'f
 }
 
@@ -65,4 +66,5 @@
         }
     }   
 }
+
 

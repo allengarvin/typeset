@@ -19,6 +19,7 @@
     shorttitle = "come_doglia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "9df852e6ded61137d6ec51cedd57250f106c219d"
     language = "italian"
     tagline = #'f
 }
@@ -84,4 +85,5 @@
         }
     }
 }
+
 

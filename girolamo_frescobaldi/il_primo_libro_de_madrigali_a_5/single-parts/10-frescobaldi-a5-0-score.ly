@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "dbffad97656abb70dc364d1b4ed970e6a92db95f"
     % Things that change per piece:
     title = "Perché fuggi tra' salci"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

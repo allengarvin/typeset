@@ -23,6 +23,7 @@
     shorttitle = "fiera_stella"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "7131617954898416fc12b3ac133e6fb8de1a5d42"
     tagline = #'f
 }
 
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

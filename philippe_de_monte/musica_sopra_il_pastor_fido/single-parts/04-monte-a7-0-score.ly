@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "a76d64912757f2b544727a48368d1c7ebc7e5daf"
     % Things that change per piece:
     title = "Udite, lagrimosi Spirti d'Averno"
     subtitle = ""
@@ -146,3 +147,4 @@
         }
     }
 }
+

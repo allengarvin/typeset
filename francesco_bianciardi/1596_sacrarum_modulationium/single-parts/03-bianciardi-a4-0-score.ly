@@ -12,6 +12,7 @@
     lastupdated = "2022-10-24"
     originallyset = "2022-10-24"
     \include "include/distribution-header.ly"
+    cksum = "dafd71dca0b3d665be0fdcfa169203de50ee0c40"
     % Things that change per piece:
     title = "Pulcra facie sed pulcrior es fide"
     subtitle = ""
@@ -92,3 +93,4 @@
         }
     }
 }
+

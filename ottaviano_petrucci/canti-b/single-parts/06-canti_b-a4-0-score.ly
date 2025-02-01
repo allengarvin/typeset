@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "se_suis_trop_ionette"
     \include "include/distribution-header.ly"
+    cksum = "f74fe3c8f7b02d0ffabaa2c9e62b033e5a1cbc30"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "a03dc5a3018c8e77dcabfa1ddce08724282e20a6"
     % Things that change per piece:
     title = "O bella ninfa mia"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

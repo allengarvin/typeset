@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "ca8e3b4ad3a89857bd8079d677540711db260d69"
     % Things that change per piece:
     title = "Da' bei rami scendea"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

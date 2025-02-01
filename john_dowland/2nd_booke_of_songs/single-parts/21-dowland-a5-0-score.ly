@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "clear_or_cloudy"
     \include "include/distribution-header.ly"
+    cksum = "5bc01c1d4c618f487ba23ce182b9cc149db7ad1c"
     tagline = #'f
 }
 
@@ -106,4 +107,5 @@
 
 
 }
+
 

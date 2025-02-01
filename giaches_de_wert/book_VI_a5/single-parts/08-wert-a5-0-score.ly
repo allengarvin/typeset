@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "5d10168836ff162dde95b300e1d1466e7f3388af"
     % Things that change per piece:
     title = "Valli nemiche al sol"
     subtitle = ""
@@ -135,3 +136,4 @@
         }
     }
 }
+

@@ -28,6 +28,7 @@
     motifs = "[sleeping,cupid,nymphs,amore,flame]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
+    cksum = "e7d19998d4119ba10166fcb44849fa436a9818bc"
     tagline = #'f
 }
 
@@ -90,3 +91,4 @@
         }
     }
 }
+

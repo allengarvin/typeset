@@ -26,6 +26,7 @@
     shorttitle = "la_bella_ninfa_mia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "abace7b3fdf22f85ff4a93afb0a29bf90c0b242b"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

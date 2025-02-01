@@ -21,6 +21,7 @@
     lastupdated = "2013-12-14"
     shorttitle = "lachrimae_verae"
     \include "include/distribution-header.ly"
+    cksum = "0f4585fcfa0e3d151cf402f557bb7b58cab0dd48"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         \include "../include/layout-score.ly"
     }
 }
+
 

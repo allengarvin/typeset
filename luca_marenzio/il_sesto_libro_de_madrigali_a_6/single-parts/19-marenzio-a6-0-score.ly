@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "18f35b0cb05aece7c99d5c329c4d487b7061e1fa"
     % Things that change per piece:
     title = "Una pur chiederò"
     subtitle = "Decima e ultima parte"
@@ -129,3 +130,4 @@
         }
     }
 }
+

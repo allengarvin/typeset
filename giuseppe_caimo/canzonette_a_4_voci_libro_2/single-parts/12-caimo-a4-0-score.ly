@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "quando_dal_primo_amore"
     \include "include/distribution-header.ly"
+    cksum = "50e0396860bfce28dc0c5a108fc30da66433acc8"
     tagline = #'f
 }
 
@@ -97,4 +98,5 @@
         }
     }
 }
+
 

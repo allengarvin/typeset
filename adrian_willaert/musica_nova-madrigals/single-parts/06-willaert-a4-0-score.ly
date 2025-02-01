@@ -25,6 +25,7 @@
     shorttitle = "se_si_posasse"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "caf5dc00bee8b1653edd8a44929dbb023eaa908e"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

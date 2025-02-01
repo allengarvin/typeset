@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "1301caf38061ad86377e3f284d7a26cea6a30e88"
     % Things that change per piece:
     title = "Giovane donna sotto un verde lauro"
     subtitle = "Prima parte"
@@ -124,3 +125,4 @@
         }
     }
 }
+

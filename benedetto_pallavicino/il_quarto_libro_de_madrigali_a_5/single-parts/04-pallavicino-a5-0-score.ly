@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "3cb3c3f7b1d1a251cc3a7b54ca1b2e310bd89cba"
     % Things that change per piece:
     title = "Non mi ferir più Amore"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

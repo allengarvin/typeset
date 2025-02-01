@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "403932c10be429179567a8d51238a369f2dc5992"
     % Things that change per piece:
     title = "Tenera pianta ancor"
     subtitle = "Prima parte"
@@ -112,3 +113,4 @@
         }
     }
 }
+

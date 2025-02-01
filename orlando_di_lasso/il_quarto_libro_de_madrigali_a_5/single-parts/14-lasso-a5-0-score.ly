@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "802f91708a1d34c12e50a91eafac440660910274"
     % Things that change per piece:
     title = "Come va 'l mondo"
     subtitle = "Prima parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

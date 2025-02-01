@@ -23,6 +23,7 @@
     originallyset = "2013-09-28"
     lastupdated = "2013-09-28"
     \include "include/distribution-header.ly"
+    cksum = "2c3ea059720509df2132dd783d268ae12b93091f"
     tagline = #'f
 }
 
@@ -89,4 +90,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

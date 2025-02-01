@@ -26,6 +26,7 @@
     motifs = "[amore,arrow,snare]"
     rhyme = "aBcAcB"
     \include "include/distribution-header.ly"
+    cksum = "c64aca9ecc7dd0d7ec2457cfb385ca48144343bf"
     poeticform = "madrigal"
     tagline = #'f
 }
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

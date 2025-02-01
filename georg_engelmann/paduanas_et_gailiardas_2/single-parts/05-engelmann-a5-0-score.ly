@@ -12,6 +12,7 @@
     lastupdated = "2023-11-24"
     originallyset = "2023-11-24"
     \include "include/distribution-header.ly"
+    cksum = "db8c5218c1686254f26e4a05d357fa5f41973383"
     % Things that change per piece:
     title = "Paduana Odia"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

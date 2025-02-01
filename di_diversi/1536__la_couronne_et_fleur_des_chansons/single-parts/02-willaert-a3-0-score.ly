@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "or_suis_je_bien"
     \include "include/distribution-header.ly"
+    cksum = "4a6e978d5fffdb5b78c8b6251b49ee7221be9a66"
     tagline = #'f
 }
 
@@ -82,4 +83,5 @@
         }
     }
 }
+
 

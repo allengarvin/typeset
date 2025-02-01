@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "5a548a44a40ddb2dee0e445f055a38325fb719cb"
     % Things that change per piece:
     title = "Gli augelletti diversi"
     subtitle = ""
@@ -125,5 +126,6 @@
         }
     }
 }
+
 
 

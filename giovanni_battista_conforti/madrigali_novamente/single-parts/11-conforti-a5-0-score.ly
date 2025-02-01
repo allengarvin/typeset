@@ -12,6 +12,7 @@
     lastupdated = "2023-01-30"
     originallyset = "2023-01-30"
     \include "include/distribution-header.ly"
+    cksum = "fb51cb49658eacf54ea6c1a06ac5587510af4d2a"
     % Things that change per piece:
     title = "Tiranno Amor"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

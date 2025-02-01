@@ -21,6 +21,7 @@
     shorttitle = "o_souverain"
     needtranslation = #'t
     \include "include/distribution-header.ly"
+    cksum = "d1174305e505330e0ae6413655b75f5b31a2d724"
     tagline = #'f
 }
 
@@ -92,4 +93,5 @@
     }
 
 }
+
 

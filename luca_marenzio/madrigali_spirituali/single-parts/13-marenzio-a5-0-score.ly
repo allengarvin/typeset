@@ -12,6 +12,7 @@
     lastupdated = "2023-01-08"
     originallyset = "2023-01-08"
     \include "include/distribution-header.ly"
+    cksum = "a811e64e59d7dfeac55370c1621b6f0375cb8943"
     % Things that change per piece:
     title = "Signor cui già fu poco"
     subtitle = ""
@@ -103,3 +104,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2022-11-07"
     originallyset = "2022-11-07"
     \include "include/distribution-header.ly"
+    cksum = "7c69e2ce22f8619d5aa4d54eaf0a6b2a4d6138fa"
     % Things that change per piece:
     title = "Come viva il mio core"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

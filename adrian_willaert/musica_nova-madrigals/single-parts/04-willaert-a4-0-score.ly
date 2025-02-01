@@ -25,6 +25,7 @@
     shorttitle = "ne_spero"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "fca1309e0bdd8b9e6fbda950e07a31ba80f3081a"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

@@ -25,6 +25,7 @@
     shorttitle = "o_invidia_nemica"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "77ae3f238a71f5c29352e79b621f46f2db776d02"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

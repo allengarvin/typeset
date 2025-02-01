@@ -27,6 +27,7 @@
     shorttitle = "chi_narrera_l_angosci"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "723d0f1056ab2a71e147664a53a6a5eeab76ae93"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

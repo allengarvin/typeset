@@ -26,6 +26,7 @@
     final = "c"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "580c229dd4dd59f150ec4854563f643606cc7d1b"
     tagline = #'f
 }
 
@@ -104,3 +105,4 @@
         }
     }
 }
+

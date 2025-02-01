@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "un_tempo_sospirava"
     \include "include/distribution-header.ly"
+    cksum = "68c66307a41ae52aa666e3b34978cfbe9a987cc6"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

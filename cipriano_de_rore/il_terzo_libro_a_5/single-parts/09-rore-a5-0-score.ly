@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "33b38cb877989c13506099349bcd021f65832895"
     % Things that change per piece:
     title = "Vegine, in cui ho tutta mia speranza"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

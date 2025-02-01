@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "068d7ff45f4c5fc9801b174b746346f90757f50f"
     % Things that change per piece:
     title = "Scherza nel canto e piace"
     subtitle = ""
@@ -120,3 +121,4 @@
         }
     }
 }
+

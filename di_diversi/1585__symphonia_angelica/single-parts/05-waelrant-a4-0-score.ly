@@ -24,6 +24,7 @@
     shorttitle = "vorria_morire"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "ae829f1c88ec6211fce6d286bb36138327559b94"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

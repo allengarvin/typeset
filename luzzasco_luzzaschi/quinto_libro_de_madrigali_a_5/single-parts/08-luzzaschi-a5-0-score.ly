@@ -12,6 +12,7 @@
     lastupdated = "2022-11-06"
     originallyset = "2022-11-06"
     \include "include/distribution-header.ly"
+    cksum = "e32d83c26cbfe74872602d10e44afe10a1b70935"
     % Things that change per piece:
     title = "Se parti i' moro"
     subtitle = ""
@@ -103,3 +104,4 @@
         }
     }
 }
+

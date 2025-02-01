@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d5b1052195d41205dc33a83169830005ead8ba23"
     % Things that change per piece:
     title = "Quell'acqua esser vorrei"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

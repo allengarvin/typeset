@@ -19,6 +19,7 @@
     shorttitle = "vedi_le_valli"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "098c7458d09e2f6d76110c0a09693d4ae2eb1cfd"
     language = "italian"
     tagline = #'f
 }
@@ -78,4 +79,5 @@
         }
     }
 }
+
 

@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "huc_me_sidereo"
     \include "include/distribution-header.ly"
+    cksum = "d18342ba199a2aa1e090674fa2a14a9f3db86286"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

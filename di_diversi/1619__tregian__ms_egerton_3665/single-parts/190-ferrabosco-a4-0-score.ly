@@ -25,6 +25,7 @@
     shorttitle = "or_chio_son_giunto_quivi"
     categories = "[villanella]"
     \include "include/distribution-header.ly"
+    cksum = "470f8ec09120d011252d3d30ea93fce29e52340c"
     tagline = #'f
 }
 
@@ -92,4 +93,5 @@
         }
     }
 }
+
 

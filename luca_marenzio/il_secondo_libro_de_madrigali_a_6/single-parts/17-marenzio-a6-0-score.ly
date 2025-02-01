@@ -12,6 +12,7 @@
     lastupdated = "2022-12-19"
     originallyset = "2022-12-19"
     \include "include/distribution-header.ly"
+    cksum = "2eb320be2fbc8436f5f809ef051fd4016c6ee5f0"
     % Things that change per piece:
     title = "Io vidi già sotto l'ardente sole"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

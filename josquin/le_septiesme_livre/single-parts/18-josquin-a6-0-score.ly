@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "petite_camusette"
     \include "include/distribution-header.ly"
+    cksum = "1017c14c5c9269e3601b4e5669d4471a6372dd2b"
     tagline = #'f
 }
 
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

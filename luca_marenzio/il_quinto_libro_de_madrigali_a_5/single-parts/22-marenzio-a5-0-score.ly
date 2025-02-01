@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f681de80f59910be93d85be77e12677e3652ecc6"
     % Things that change per piece:
     title = "Se voi sete cor mio"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

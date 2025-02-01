@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "6b14c2b654fc65405dff6e311ab8ead83e7b361d"
     % Things that change per piece:
     title = "Leggiadretto Clorino"
     subtitle = ""
@@ -132,3 +133,4 @@
         }
     }
 }
+

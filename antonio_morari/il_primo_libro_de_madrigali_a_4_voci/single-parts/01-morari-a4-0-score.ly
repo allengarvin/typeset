@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "c87f1d6dd04685917ad9aae62da357d428b1186d"
     % Things that change per piece:
     title = "Che giova aver d'ogni bellezza"
     subtitle = ""
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

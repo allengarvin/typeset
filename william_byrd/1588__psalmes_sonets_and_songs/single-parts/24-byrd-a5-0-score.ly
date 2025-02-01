@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f3810699e43fe5839ac966cc41b54aef9240c116"
     % Things that change per piece:
     title = "La virginella"
     subtitle = ""
@@ -140,3 +141,4 @@
         }
     }
 }
+

@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "fantasia_sopra_fa_re_mi_re_sol_mi_fa_mi"
     \include "include/distribution-header.ly"
+    cksum = "1a20911b97c68f2cf5525e384182cec7b00caef5"
     tagline = #'f
 }
 
@@ -67,3 +68,4 @@
         }
     }   
 }
+

@@ -26,6 +26,7 @@
     categories = "[madrigal,favorite]"
     motifs = "[female-pov]"
     \include "include/distribution-header.ly"
+    cksum = "807edbbb5d3ebab444843bb12e0d0b83fe398689"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

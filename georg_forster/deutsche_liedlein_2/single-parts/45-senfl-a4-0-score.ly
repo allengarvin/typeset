@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "im_meyen"
     \include "include/distribution-header.ly"
+    cksum = "142f820c9bbad984fb45b3f67d7c7e3f57687857"
     tagline = #'f
 }
 
@@ -82,3 +83,4 @@
 
     }   
 }
+

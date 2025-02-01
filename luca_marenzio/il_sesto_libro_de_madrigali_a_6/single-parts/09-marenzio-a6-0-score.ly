@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "091549e0f0c30a4353c77c199c9ee3cbc945de31"
     % Things that change per piece:
     title = "L'auro e i topaci al sol"
     subtitle = "Settima e ultima parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

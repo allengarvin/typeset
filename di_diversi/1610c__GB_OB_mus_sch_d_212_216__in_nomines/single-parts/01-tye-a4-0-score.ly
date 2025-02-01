@@ -12,6 +12,7 @@
     lastupdated = "2022-10-01"
     originallyset = "2022-10-01"
     \include "include/distribution-header.ly"
+    cksum = "32dcec42492521ecd237441b93b594e634207fe1"
     % Things that change per piece:
     title = "In nomine"
     subtitle = "Weidner #1"
@@ -79,3 +80,4 @@
         }
     }   
 }
+

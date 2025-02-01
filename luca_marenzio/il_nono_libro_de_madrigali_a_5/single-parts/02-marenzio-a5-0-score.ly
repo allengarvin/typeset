@@ -12,6 +12,7 @@
     lastupdated = "2023-01-01"
     originallyset = "2023-01-01"
     \include "include/distribution-header.ly"
+    cksum = "6ec218b21dfc5da0408d5078abf0fbf9a8688e01"
     % Things that change per piece:
     title = "Ed ella ancide"
     subtitle = "Seconda parte"
@@ -110,3 +111,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "la_bernardina"
     \include "include/distribution-header.ly"
+    cksum = "04baaea369a96ea36ef54c7e595a9b7093857ee3"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

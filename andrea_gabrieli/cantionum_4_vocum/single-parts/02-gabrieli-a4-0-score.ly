@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "angelus_ad_pastores_ait"
     \include "include/distribution-header.ly"
+    cksum = "7680c6c67791dfd5fbcf92badac7eba28980862f"
     tagline = #'f
 }
 
@@ -95,3 +96,4 @@
         }
     }
 }
+

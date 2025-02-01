@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "domine_deus_meus"
     \include "include/distribution-header.ly"
+    cksum = "bce69358b24a30ded34150e169afe2cb406d7299"
     tagline = #'f
 }
 
@@ -130,3 +131,4 @@
         }
     }
 }
+

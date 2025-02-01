@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "a_solfinge_songe"
     \include "include/distribution-header.ly"
+    cksum = "1b9b897eca30e671b2510e1bdcd2cb2b771c84c8"
     tagline = #'f
 }
 
@@ -82,3 +83,4 @@
         }
     }   
 }
+

@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "en_dieu_me_consolle"
     \include "include/distribution-header.ly"
+    cksum = "bfa4b0e0b58a5dd34f85cd867b94f8b3c6857b14"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

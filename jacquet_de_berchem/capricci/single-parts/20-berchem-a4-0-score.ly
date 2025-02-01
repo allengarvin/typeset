@@ -26,6 +26,7 @@
     final = "d"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "e6cc78c5be88646ad40c05b64800ceece9004dda"
     tagline = #'f
 }
 
@@ -107,3 +108,4 @@
         }
     }
 }
+

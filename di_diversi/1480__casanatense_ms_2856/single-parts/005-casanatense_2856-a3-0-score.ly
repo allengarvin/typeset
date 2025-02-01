@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "a_que_ville__fuga"
     \include "include/distribution-header.ly"
+    cksum = "11614d04a2fca46bd7e4674ae2ea9f2c7a9e917a"
     tagline = #'f
 }
 
@@ -69,4 +70,5 @@
 
     }   
 }
+
 

@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "aa709a48fd9c075e713e0d64b025afdc753f4e51"
     % Things that change per piece:
     title = "O di rare eccellenza"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

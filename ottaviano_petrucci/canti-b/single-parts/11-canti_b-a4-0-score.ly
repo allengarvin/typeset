@@ -27,6 +27,7 @@
     final = "g"
     shorttitle = "je_suis_amie_du_forier"
     \include "include/distribution-header.ly"
+    cksum = "36010db6e3183731e1536f0a7f9db68d5ff81aa6"
     tagline = #'f
 }
 
@@ -78,4 +79,5 @@
 
     }   
 }
+
 

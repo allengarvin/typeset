@@ -12,6 +12,7 @@
     lastupdated = "2022-12-17"
     originallyset = "2022-12-17"
     \include "include/distribution-header.ly"
+    cksum = "0d860ddd70f62d86e9bf4af0347f7405ca81e861"
     % Things that change per piece:
     title = "Del cibo onde'l signor"
     subtitle = "Prima e seconda parte"
@@ -143,3 +144,4 @@
         }
     }
 }
+

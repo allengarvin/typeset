@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "bccabcf6b80c5ba208c4f63f5761ee4c7fa69dd7"
     % Things that change per piece:
     title = "Ancidetemi pur grievi martiri"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

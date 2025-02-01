@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "allegez_moy"
     \include "include/distribution-header.ly"
+    cksum = "50f5d6136f71c14597056dc74347577c7a033245"
     tagline = #'f
 }
 
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[nature]"
     \include "include/distribution-header.ly"
+    cksum = "e976b78cbdd4cf8380cb38c6012ac1b5095b69e3"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

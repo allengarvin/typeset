@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "quella_bella"
     \include "include/distribution-header.ly"
+    cksum = "5d5606ecc34525021c4acee717e5af4a65600847"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

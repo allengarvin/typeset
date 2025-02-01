@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "lourdault_lourdault"
     \include "include/distribution-header.ly"
+    cksum = "09cceb74f8b5f8411f7946edffc874282038d98b"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-10"
     originallyset = "2023-01-10"
     \include "include/distribution-header.ly"
+    cksum = "cb31d2403a3a61ccbb149ee27186c371e84f0f2c"
     % Things that change per piece:
     title = "Draw on Sweet Night"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "se_congie_pris"
     \include "include/distribution-header.ly"
+    cksum = "ab96d29cb7b25ae0d6ba4cc9cb1742c2e7d28296"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

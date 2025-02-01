@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "4d059378c517c34ec8ba69fa0d4646f02fa7b00d"
     % Things that change per piece:
     title = "Ben credo c'ancor tu sospiri"
     subtitle = "Sesta parte"
@@ -113,3 +114,4 @@
         }
     }
 }
+

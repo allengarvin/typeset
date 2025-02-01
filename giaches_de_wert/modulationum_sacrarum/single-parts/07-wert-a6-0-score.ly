@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "domine_salva_nos_perimus"
     \include "include/distribution-header.ly"
+    cksum = "cfa5c832e7999e404ff40f74e86dd537629a2943"
     tagline = #'f
 }
 
@@ -115,3 +116,4 @@
         }
     }
 }
+

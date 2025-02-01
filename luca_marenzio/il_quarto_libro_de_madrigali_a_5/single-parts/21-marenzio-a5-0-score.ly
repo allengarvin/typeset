@@ -12,6 +12,7 @@
     lastupdated = "2023-01-04"
     originallyset = "2023-01-04"
     \include "include/distribution-header.ly"
+    cksum = "5f9305542902cd54dbaf2a80d40eb19f31cdaa38"
     % Things that change per piece:
     title = "A che tormi'l ben mio"
     subtitle = ""
@@ -101,3 +102,4 @@
         }
     }
 }
+

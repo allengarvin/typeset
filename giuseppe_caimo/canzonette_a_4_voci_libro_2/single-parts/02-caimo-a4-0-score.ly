@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "parmi_di_star_la_notte"
     \include "include/distribution-header.ly"
+    cksum = "3b0dd123b2e0af8eb29a7473dfec2d606e51d032"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

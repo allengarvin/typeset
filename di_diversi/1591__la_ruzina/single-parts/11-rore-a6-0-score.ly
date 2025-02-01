@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "19845fc0d4c262f9ae4e0855ecb5f175d36844e8"
     % Things that change per piece:
     title = "Lieta vivo e contenta"
     subtitle = ""
@@ -125,3 +126,4 @@
         }
     }
 }
+

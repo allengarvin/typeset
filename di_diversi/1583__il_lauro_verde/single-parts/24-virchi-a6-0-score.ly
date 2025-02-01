@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "e86782513d6070aa68bb11ea4a9016a72ea3fedd"
     % Things that change per piece:
     title = "Felice primavera"
     subtitle = ""
@@ -133,4 +134,5 @@
         }
     }
 }
+
 

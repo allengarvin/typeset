@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "christ_rising_again"
     \include "include/distribution-header.ly"
+    cksum = "1abd42920fe040b94545c5d7c6ff65561877d8d7"
     tagline = #'f
 }
 
@@ -100,3 +101,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2022-12-06"
     originallyset = "2022-12-06"
     \include "include/distribution-header.ly"
+    cksum = "5a745b37b41db794ea08b1b9ab929ed1c052d9c8"
     % Things that change per piece:
     title = "Nel dolce seno della bella Clori"
     subtitle = "Prima e seconda parte"
@@ -127,3 +128,4 @@
         }
     }
 }
+

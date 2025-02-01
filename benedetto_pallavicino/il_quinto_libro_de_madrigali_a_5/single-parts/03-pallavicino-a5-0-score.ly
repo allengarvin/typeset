@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "15c910bbb26a960acc76f4173373328d29268d7b"
     % Things that change per piece:
     title = "Mia Filli, s'egli è vero"
     subtitle = ""
@@ -129,3 +130,4 @@
         }
     }
 }
+

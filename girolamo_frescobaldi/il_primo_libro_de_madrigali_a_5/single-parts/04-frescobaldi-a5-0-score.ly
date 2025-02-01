@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "e5a909151c397e2d16706380d23d525ae06e607a"
     % Things that change per piece:
     title = "Da quel sfera del ciel fra noi discese"
     subtitle = ""
@@ -127,4 +128,5 @@
         }
     }
 }
+
 

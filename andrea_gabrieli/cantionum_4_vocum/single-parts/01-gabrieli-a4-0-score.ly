@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "diligam_te_domine"
     \include "include/distribution-header.ly"
+    cksum = "88f1319f80acad2a55a4181b665d1c6d29cc24d5"
     tagline = #'f
 }
 
@@ -98,3 +99,4 @@
         }
     }
 }
+

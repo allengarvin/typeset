@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "fbf0f016448c7046a56a9dddc19ede8b1e4ed631"
     % Things that change per piece:
     title = "Io credea che'l morire"
     subtitle = ""
@@ -123,3 +124,4 @@
         }
     }
 }
+

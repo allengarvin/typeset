@@ -27,6 +27,7 @@
     motifs = "[virgin,mary,judgment-day]"
     poeticform = "canzone"
     \include "include/distribution-header.ly"
+    cksum = "752d6795e8e0eb62826ebc33e34d56445d7cd1a4"
     tagline = #'f
 }
 
@@ -114,3 +115,4 @@
         }
     }
 }
+

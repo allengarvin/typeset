@@ -32,6 +32,7 @@
     categories = "[madrigal,furioso]"
     motifs = "[envy,amore,angelica,tardiness]"
     \include "include/distribution-header.ly"
+    cksum = "218b20544999c81afc93d5835dd305bdfbb24847"
     tagline = #'f
 }
 
@@ -124,3 +125,4 @@
         }
     }
 }
+

@@ -29,6 +29,7 @@
     rhyme = "ABABABCC"
     motifs = "[sleep,amore]"
     \include "include/distribution-header.ly"
+    cksum = "3f81cf56823fd9c160d403a2a86bb30c6203dd09"
     tagline = #'f
 }
 
@@ -126,3 +127,4 @@
         }
     }
 }
+

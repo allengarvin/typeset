@@ -12,6 +12,7 @@
     lastupdated = "2022-12-07"
     originallyset = "2022-12-07"
     \include "include/distribution-header.ly"
+    cksum = "7639f95747064170a35796b91379ac140abfa735"
     % Things that change per piece:
     title = "Leggiadrissima eterna Primavera"
     subtitle = "Prima e seconda parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

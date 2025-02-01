@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "b9486a2f1903f16f6dfac006e3394e8f40612bc6"
     % Things that change per piece:
     composer = "Luca Marenzio (c.1553-1599)"
 
@@ -121,3 +122,4 @@
         }
     }
 }
+

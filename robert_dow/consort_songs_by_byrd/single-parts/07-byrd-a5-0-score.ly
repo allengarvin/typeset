@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "where_fancy_fond"
     \include "include/distribution-header.ly"
+    cksum = "85f4285d3a30027ad724b9956af0ad610e271b4e"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }   
 }
+
 

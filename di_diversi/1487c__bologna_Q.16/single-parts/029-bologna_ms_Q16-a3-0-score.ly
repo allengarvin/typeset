@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "pour_vous_servir"
     \include "include/distribution-header.ly"
+    cksum = "87b750971e6e85be1801e37b30fb0db5ed72c861"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

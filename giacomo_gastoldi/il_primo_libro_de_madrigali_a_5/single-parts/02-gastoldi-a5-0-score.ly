@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "be2d98722478d367728335247df78b553f3f23d3"
     % Things that change per piece:
     title = "Signor, la vostra fiamma"
     subtitle = "Risposta"
@@ -118,3 +119,4 @@
         }
     }
 }
+

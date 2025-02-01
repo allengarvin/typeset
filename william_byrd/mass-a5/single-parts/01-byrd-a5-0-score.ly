@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "mass_for_five_voices__kyrie"
     \include "include/distribution-header.ly"
+    cksum = "19cf5f0b6097227b0b1d6072be85e338f643d6c7"
     tagline = #'f
 }
 
@@ -101,3 +102,4 @@
         }
     }
 }
+

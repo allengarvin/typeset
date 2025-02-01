@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "pour_passer_temps"
     \include "include/distribution-header.ly"
+    cksum = "3b730227557023b3f10c328784f6f75f19929fcc"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

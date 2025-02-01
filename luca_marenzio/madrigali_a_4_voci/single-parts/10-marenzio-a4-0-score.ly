@@ -20,6 +20,7 @@
     shorttitle = "nuova_angioletta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "dab27c76cb3387076e2c00731c74c44bfd7c3d27"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }
 }
+
 

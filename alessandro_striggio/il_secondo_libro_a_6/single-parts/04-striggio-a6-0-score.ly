@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "5d64d14cc51037d770d028ab4b76e7f4ce534d87"
     % Things that change per piece:
     title = "Dolce ritorna amor"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

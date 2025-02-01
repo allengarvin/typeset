@@ -23,6 +23,7 @@
     shorttitle = "la_avogadra"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "53de0b80d11fb1c700321853779709b9525dc3d0"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

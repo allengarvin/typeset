@@ -19,6 +19,7 @@
     shorttitle = "vezzosi_augelli"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "be895a89bd1082c61e5dec313940f048ee51aa7c"
     language = "italian"
     tagline = #'f
 }
@@ -78,4 +79,5 @@
         }
     }
 }
+
 

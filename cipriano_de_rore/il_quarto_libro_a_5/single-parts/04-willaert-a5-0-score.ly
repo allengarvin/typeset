@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[male-pov,ungrateful,amore]"
     \include "include/distribution-header.ly"
+    cksum = "0a67ba43c70318af8af3c2ab9e1d575535711526"
     composer = "Adrian Willaert (c.1490-1562)"
     tagline = #'f
 }
@@ -127,3 +128,4 @@
         }
     }
 }
+

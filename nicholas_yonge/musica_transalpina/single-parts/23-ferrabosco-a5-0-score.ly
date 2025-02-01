@@ -25,6 +25,7 @@
     shorttitle = "i_saw_my_lady_weeping"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "919950da9a5b1adaa329c8b81aadeec4f766b830"
     tagline = #'f
 }
 
@@ -103,3 +104,4 @@
         }
     }
 }
+

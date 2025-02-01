@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "fantasie_viii_a_4"
     \include "include/distribution-header.ly"
+    cksum = "b4d85e3603e74b7482d8fe09131949240d626b32"
     tagline = #'f
 }
 
@@ -73,3 +74,4 @@
         }
     }   
 }
+

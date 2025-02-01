@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "je_cuide__de_tous_biens"
     \include "include/distribution-header.ly"
+    cksum = "2352bbb5e99402fb15aba1ef5df7000e099bb226"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

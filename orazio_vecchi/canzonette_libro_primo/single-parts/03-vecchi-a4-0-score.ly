@@ -23,6 +23,7 @@
     shorttitle = "occhi_ridenti"
     categories = "[villanella]"
     \include "include/distribution-header.ly"
+    cksum = "2aa52a062f8b7e545d022792547586f06fbfe03e"
     tagline = #'f
 }
 
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

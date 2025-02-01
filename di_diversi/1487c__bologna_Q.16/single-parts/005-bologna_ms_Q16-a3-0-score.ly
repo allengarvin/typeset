@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "loysot_denisot"
     \include "include/distribution-header.ly"
+    cksum = "03f55da8e42dba3efe91c31628ad33b979355c56"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

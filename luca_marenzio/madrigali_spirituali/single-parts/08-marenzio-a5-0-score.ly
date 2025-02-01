@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "ee676f7201cac46f69e79c47c7b106c4de7d0d1e"
     % Things that change per piece:
     title = "Quasi vermiglia rosa"
     subtitle = ""
@@ -123,4 +124,5 @@
         }
     }
 }
+
 

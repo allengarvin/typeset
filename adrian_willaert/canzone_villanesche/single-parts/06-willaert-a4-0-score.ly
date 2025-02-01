@@ -25,6 +25,7 @@
     final = "f"
     shorttitle = "madonna_mia_famme"
     \include "include/distribution-header.ly"
+    cksum = "c64c7949fe9b9e529d8b9504701449a8b588f064"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

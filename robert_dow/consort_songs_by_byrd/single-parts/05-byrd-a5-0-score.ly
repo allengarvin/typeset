@@ -21,6 +21,7 @@
     final = "d"
     shorttitle = "while_phoebus"
     \include "include/distribution-header.ly"
+    cksum = "68086a4dae8d1733543596f583df880b1e946f93"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

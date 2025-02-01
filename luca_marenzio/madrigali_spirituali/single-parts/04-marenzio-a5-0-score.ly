@@ -12,6 +12,7 @@
     lastupdated = "2023-01-08"
     originallyset = "2023-01-08"
     \include "include/distribution-header.ly"
+    cksum = "1ccfe851e1d69cb55d4c71316471b641aa91bff8"
     % Things that change per piece:
     title = "Qual mormorio soave"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

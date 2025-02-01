@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "58cc120ff07e202afb9561e219cee95dad4ae777"
     % Things that change per piece:
     title = "La mia sete amorosa"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

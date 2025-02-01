@@ -12,6 +12,7 @@
     lastupdated = "2022-09-24"
     originallyset = "2022-09-24"
     \include "include/distribution-header.ly"
+    cksum = "21f8f7abe5f10ece201f01e408edc3bc0e2a045b"
     % Things that change per piece:
     title = "Illustre alma gentile"
     subtitle = "Prima parte"
@@ -99,3 +100,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "457da6f204ac20267a9e21d6c6c650e07097e0f9"
     % Things that change per piece:
     title = "Voi ch'ascoltate in rime sparse"
     subtitle = "Prima parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

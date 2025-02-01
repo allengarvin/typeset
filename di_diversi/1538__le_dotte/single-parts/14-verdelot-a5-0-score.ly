@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "613ceb1eab01d29a827b12180b84fc40f341b6de"
     % Things that change per piece:
     title = "Donna se fiera stella"
     subtitle = ""
@@ -126,3 +127,4 @@
         }
     }
 }
+

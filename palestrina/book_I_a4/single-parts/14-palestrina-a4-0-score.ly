@@ -25,6 +25,7 @@
     shorttitle = "amor_fortuna"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "b7f2a686b8ea12b163b610013966502fa09a8217"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

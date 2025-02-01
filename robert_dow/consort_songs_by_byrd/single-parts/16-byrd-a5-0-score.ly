@@ -22,6 +22,7 @@
     lastupdated = "2015-08-03"
     shorttitle = "why_do_i_use"
     \include "include/distribution-header.ly"
+    cksum = "b0148dbfb0b58aa3deacadb0407b4e21e6f2e381"
     tagline = #'f
 }
 
@@ -81,4 +82,5 @@
         }
     }   
 }
+
 

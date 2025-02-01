@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "5b5699e15ccc4578e937a3e0b472273bbe5d6e18"
     % Things that change per piece:
     title = "Intesi, venni e vidi"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "o_altitudo_divitiarum"
     \include "include/distribution-header.ly"
+    cksum = "6958d6a2c42266eef7024bb158f90b87d0e9057a"
     tagline = #'f
 }
 
@@ -114,3 +115,4 @@
     }
             
 }
+

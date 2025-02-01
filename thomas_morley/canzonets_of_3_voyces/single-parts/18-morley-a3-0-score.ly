@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "what_ails_my_darling"
     \include "include/distribution-header.ly"
+    cksum = "256ce4f067d33c651a07263df8fe48f5e4df49db"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "de_la_bonne_chiere"
     \include "include/distribution-header.ly"
+    cksum = "2a7d29a5f86f5306446caecc2a0b856e3e553bd9"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

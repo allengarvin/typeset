@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "quis_enim_cognovit_sensum_domini"
     \include "include/distribution-header.ly"
+    cksum = "4bd8cd479f8449e0d3ec85682511cc6550aee153"
     tagline = #'f
 }
 
@@ -116,3 +117,4 @@
         }
     }
 }
+

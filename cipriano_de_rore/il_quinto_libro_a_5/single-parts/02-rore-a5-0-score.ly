@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[amore,parting,sorrow,east,ivy,acanthus,embrace]"
     \include "include/distribution-header.ly"
+    cksum = "326e271363b99174f96897641507815951c1b235"
     tagline = #'f
 }
 
@@ -127,4 +128,5 @@
         }
     }
 }
+
 

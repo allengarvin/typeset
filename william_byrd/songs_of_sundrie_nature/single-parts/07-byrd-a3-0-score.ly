@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "attend_mine_humble_prayer"
     \include "include/distribution-header.ly"
+    cksum = "58499499135c69d0a1f7b736bc65305f930a624f"
     tagline = #'f
 }
 
@@ -85,4 +86,5 @@
         }
     }
 }
+
 

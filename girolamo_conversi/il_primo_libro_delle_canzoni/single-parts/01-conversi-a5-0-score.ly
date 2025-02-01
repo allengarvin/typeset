@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "io_vo_gridando"
     \include "include/distribution-header.ly"
+    cksum = "7604ad3f747efe448743e9a3d9c621b5b7b27f34"
     tagline = #'f
 }
 
@@ -90,3 +91,4 @@
 %Works by 
 %
 %
+

@@ -23,6 +23,7 @@
     lastupdated = "2013-06-11"
     shorttitle = "amy_souffrez"
     \include "include/distribution-header.ly"
+    cksum = "9557ba5d28668a69a3e6c1944b59f6f5ab851c62"
     tagline = #'f
 }
 
@@ -59,4 +60,5 @@
         }
     }   
 }
+
 

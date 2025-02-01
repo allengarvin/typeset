@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "18235468be862a826d4115d64f77d8a3e5510e26"
     % Things that change per piece:
     title = "Poiché dal mio bel sol"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

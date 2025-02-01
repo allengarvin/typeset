@@ -24,6 +24,7 @@
     shorttitle = "credei_mentre_io_dormia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c060ab3e7f9e3d568d554b7bf3f86a4a326612f2"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

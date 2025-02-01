@@ -20,6 +20,7 @@
     categories = "[madrigal]"
     motifs = "[sighing]"
     \include "include/distribution-header.ly"
+    cksum = "dbd62ee711bd8410b3de7628f3a258c867d29c08"
     language = "italian"
     tagline = #'f
 }
@@ -92,4 +93,5 @@
     }
     
 }
+
 

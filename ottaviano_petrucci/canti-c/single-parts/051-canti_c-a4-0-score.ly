@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "la_fleur_de_biaulte"
     \include "include/distribution-header.ly"
+    cksum = "dda7a935ce432b3787ab591cfb7c3573dd49c86c"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

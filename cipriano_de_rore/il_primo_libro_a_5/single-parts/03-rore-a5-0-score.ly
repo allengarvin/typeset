@@ -25,6 +25,7 @@
     categories = "[madrigal]"
     motifs = "[fountain]"
     \include "include/distribution-header.ly"
+    cksum = "c1468d102c9dee2bff19c73d0fce467458082ce0"
     tagline = #'f
 }
 
@@ -112,3 +113,4 @@
         }
     }
 }
+

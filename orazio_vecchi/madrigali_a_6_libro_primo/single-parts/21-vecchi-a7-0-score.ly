@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "f69389af5227cb20b1d251189d657b00626d4fac"
     % Things that change per piece:
     title = "Ormai poniamo fine al nostro canto"
     subtitle = "Terza parte delle ore di ricreazione"
@@ -192,4 +193,5 @@
         both is 'battere'.
     }
 }
+
 

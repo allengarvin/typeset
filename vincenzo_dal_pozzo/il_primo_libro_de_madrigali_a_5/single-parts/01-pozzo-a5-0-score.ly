@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "a4d94e3a552b7beea08af62cfb8c2b43b9ffbe04"
     % Things that change per piece:
     title = "Occhi miei belli"
     subtitle = ""
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

@@ -21,6 +21,7 @@
     final = "d"
     shorttitle = "doulce_memoire"
     \include "include/distribution-header.ly"
+    cksum = "2c8c0591b97f6bf689f74392ddbb64c585dbd318"
     tagline = #'f
 }
 
@@ -59,4 +60,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

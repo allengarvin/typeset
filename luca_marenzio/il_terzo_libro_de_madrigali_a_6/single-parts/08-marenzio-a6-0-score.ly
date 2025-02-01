@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "4647935e0b445065af3fcfedb464bb7b4f4fc516"
     % Things that change per piece:
     title = "Qual per ombrose e verdeggianti valli"
     subtitle = "Prima e seconda parte"
@@ -126,3 +127,4 @@
         }
     }
 }
+

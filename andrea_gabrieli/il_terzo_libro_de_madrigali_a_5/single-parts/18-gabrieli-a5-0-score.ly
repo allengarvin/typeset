@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "007110b63de05574fc1933f8c5967013c7729052"
     % Things that change per piece:
     title = "Piangete occhi miei"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

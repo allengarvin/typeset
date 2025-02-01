@@ -23,6 +23,7 @@
     final = "d"
     shorttitle = "o_dio_se_vede_chiaro_cha_te_moro"
     \include "include/distribution-header.ly"
+    cksum = "69e6aabde7fead8235f1ea7d09c8a67e230a3cfe"
     tagline = #'f
 }
 
@@ -97,3 +98,4 @@
         }
     }
 }
+

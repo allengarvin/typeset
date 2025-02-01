@@ -24,6 +24,7 @@
     shorttitle = "dogni_gratia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "4fe250b98e8472fc60e1094d5e006c2849d97a6a"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

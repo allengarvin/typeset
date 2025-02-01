@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "70cc9863e6978749c6cfbffbbb66276485bd0378"
     % Things that change per piece:
     title = "Se fosse dolce il canto"
     subtitle = ""
@@ -117,3 +118,4 @@
         }
     }
 }
+

@@ -23,6 +23,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "97404109256bb3cb37d63bcfe12b3765a7746446"
     composer = "Perissone Cambio (c.1520-c.1562)"
     shortcomp = "cambio"
     tagline = #'f
@@ -103,3 +104,4 @@
         }
     }
 }
+

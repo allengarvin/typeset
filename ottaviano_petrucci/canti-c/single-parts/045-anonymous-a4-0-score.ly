@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "sur_le_pont_davignon"
     \include "include/distribution-header.ly"
+    cksum = "71371882d08569d23703d587974d871d5d7d4d51"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

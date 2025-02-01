@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "27a718a1fcf4bbf3f8d1fec09aaa87b24f52e495"
     % Things that change per piece:
     title = "Sdegno la fiamma estinse"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

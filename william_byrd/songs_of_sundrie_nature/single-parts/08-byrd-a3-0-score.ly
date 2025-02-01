@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "susanna_fayre"
     \include "include/distribution-header.ly"
+    cksum = "22f323e1ff079b5331f7c6b5a75e58f556a34245"
     tagline = #'f
 }
 
@@ -89,4 +90,5 @@
         }
     }
 }
+
 

@@ -12,6 +12,7 @@
     lastupdated = "2023-01-04"
     originallyset = "2023-01-04"
     \include "include/distribution-header.ly"
+    cksum = "1ff5ce81ad2bc0f937c55b62e6e1ad9cd4dac8dd"
     % Things that change per piece:
     title = "Sapete amanti perché ignudo sia"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

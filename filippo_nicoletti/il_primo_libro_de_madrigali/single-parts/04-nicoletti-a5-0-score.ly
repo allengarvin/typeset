@@ -25,6 +25,7 @@
     shorttitle = "arder_dunque"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "2430e3b9709c19fcbebd42341a164f3448820312"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

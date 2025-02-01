@@ -25,6 +25,7 @@
     shorttitle = "talor_massale_in_mezzo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "98d1afda0ff8d197c284125a226a3119f1bbddec"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "cor_meum_conturbatum"
     \include "include/distribution-header.ly"
+    cksum = "e6c21d2f96c1cf54b7792f0c1f066964e68f3293"
     tagline = #'f
 }
 
@@ -105,4 +106,5 @@
     }
 
 }
+
 

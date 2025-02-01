@@ -12,6 +12,7 @@
     lastupdated = "2022-11-25"
     originallyset = "2022-11-25"
     \include "include/distribution-header.ly"
+    cksum = "5542093c4ee8f3584ca73d9321bd0106b8ba7d6f"
     % Things that change per piece:
     title = "In resurrectione tua Domine"
     subtitle = ""
@@ -102,3 +103,4 @@
         }
     }
 }
+

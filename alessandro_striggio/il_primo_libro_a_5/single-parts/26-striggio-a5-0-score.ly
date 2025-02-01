@@ -23,6 +23,7 @@
     shorttitle = "misero_piu_d'ogni_uom"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "584131cf3f98f36432f54d129450268f50e0ec93"
     tagline = #'f
 }
 
@@ -104,3 +105,4 @@
         }
     }
 }
+

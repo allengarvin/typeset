@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "2d5c83fb792ee8eaf5822ea9e174928515da8fd8"
     % Things that change per piece:
     title = "Morir non può'l mio core"
     subtitle = ""
@@ -109,3 +110,4 @@
         }
     }
 }
+

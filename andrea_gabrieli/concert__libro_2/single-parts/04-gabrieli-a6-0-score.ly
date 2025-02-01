@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "1de1aba20b2577d806f5d7b5f2ec460893310ab1"
     % Things that change per piece:
     title = "Ma pria odorate il vicin spico"
     subtitle = "Seconda parte"
@@ -122,3 +123,4 @@
         }
     }
 }
+

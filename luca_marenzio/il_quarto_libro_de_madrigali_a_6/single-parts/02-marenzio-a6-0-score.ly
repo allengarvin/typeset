@@ -12,6 +12,7 @@
     lastupdated = "2022-12-20"
     originallyset = "2022-12-20"
     \include "include/distribution-header.ly"
+    cksum = "6aaa0fe50211a0721fb0a507e786d056971efb3c"
     % Things that change per piece:
     title = "Di nettare amoroso ebro la mente"
     subtitle = ""
@@ -143,3 +144,4 @@
         }
     }
 }
+

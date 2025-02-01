@@ -12,6 +12,7 @@
     lastupdated = "2022-11-10"
     originallyset = "2022-11-10"
     \include "include/distribution-header.ly"
+    cksum = "f88509e4586240f9e5089b8d134438379d027441"
     % Things that change per piece:
     title = "Tra le dolcezze e l'ire"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

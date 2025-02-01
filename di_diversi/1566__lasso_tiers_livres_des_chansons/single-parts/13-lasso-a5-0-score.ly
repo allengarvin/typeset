@@ -23,6 +23,7 @@
     final = "f"
     shorttitle = "elle_sen_va_de_moy"
     \include "include/distribution-header.ly"
+    cksum = "8227e1a62b0e778a95657b0925a5a53c5ab6e0da"
     tagline = #'f
 }
 
@@ -97,3 +98,4 @@
         }
     }
 }
+

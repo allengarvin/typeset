@@ -12,6 +12,7 @@
     lastupdated = "2022-11-09"
     originallyset = "2022-11-09"
     \include "include/distribution-header.ly"
+    cksum = "574da1311eb3b41bb3ba310398e858f5eaae922f"
     % Things that change per piece:
     title = "Non guardar, che se guardi"
     subtitle = ""
@@ -104,3 +105,4 @@
         }
     }
 }
+

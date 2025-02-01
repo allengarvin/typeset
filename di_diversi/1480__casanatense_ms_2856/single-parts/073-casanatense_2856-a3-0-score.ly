@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "sy_dedero"
     \include "include/distribution-header.ly"
+    cksum = "05ed32c0cf551ece887be4baff966754479751fb"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "afba5f43eaad9aa5fab9cc4ae074438dd5e7ad60"
     % Things that change per piece:
     title = "Occhi miei che miraste"
     subtitle = ""
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

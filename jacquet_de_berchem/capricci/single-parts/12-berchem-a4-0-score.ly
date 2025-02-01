@@ -27,6 +27,7 @@
     shorttitle = "dicea_fortuna"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "a411256a5eb73f30ddd7b6b76c5d43c59fabbed7"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

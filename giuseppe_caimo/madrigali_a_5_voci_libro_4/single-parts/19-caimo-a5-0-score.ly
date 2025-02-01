@@ -25,6 +25,7 @@
     categories = "[chromatic,madrigal]"
     rhyme = "ABABABBA"
     \include "include/distribution-header.ly"
+    cksum = "8be2b3e2234d85502926ea0ad02e7f43f235dbfa"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

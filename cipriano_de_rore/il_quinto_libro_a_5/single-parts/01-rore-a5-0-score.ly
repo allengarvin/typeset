@@ -24,6 +24,7 @@
     shorttitle = "mentre_lumi_maggior"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "b270ee27b9612619de68adc04df24a8123080621"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

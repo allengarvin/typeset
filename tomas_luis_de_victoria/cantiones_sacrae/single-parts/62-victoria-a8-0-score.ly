@@ -22,6 +22,7 @@
     shorttitle = "ave_maria_gratia_plena"
     categories = "[polychoral]"
     \include "include/distribution-header.ly"
+    cksum = "51392ddc88e424621879a5d247fc5e7dec5b9122"
     tagline = #'f
 }
 
@@ -142,3 +143,4 @@
         }
     }
 }
+

@@ -21,6 +21,7 @@
     shorttitle = "or_vedi_amor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "c06a91c670c18f55282116cb597488b7e204f746"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

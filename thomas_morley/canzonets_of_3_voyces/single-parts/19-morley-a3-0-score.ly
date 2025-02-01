@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "say_dear_will_you_not"
     \include "include/distribution-header.ly"
+    cksum = "088e81e3ab98d250bf4b7384ecaa7e9cdcc43911"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

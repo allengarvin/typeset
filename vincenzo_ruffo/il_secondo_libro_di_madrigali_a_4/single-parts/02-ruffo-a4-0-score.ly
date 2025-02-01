@@ -12,6 +12,7 @@
     lastupdated = "2023-05-19"
     originallyset = "2023-05-19"
     \include "include/distribution-header.ly"
+    cksum = "f5256e4631fb6e7f77d3eefd23ea456dba3aa56c"
     % Things that change per piece:
     title = "Leggiadre piante"
     subtitle = ""
@@ -101,3 +102,4 @@
         }
     }
 }
+

@@ -12,6 +12,7 @@
     lastupdated = "2022-10-30"
     originallyset = "2022-10-30"
     \include "include/distribution-header.ly"
+    cksum = "c0731c08bcedc10f95b2025f11039fe879f7c63a"
     % Things that change per piece:
     title = "Aura, che errando intorno"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

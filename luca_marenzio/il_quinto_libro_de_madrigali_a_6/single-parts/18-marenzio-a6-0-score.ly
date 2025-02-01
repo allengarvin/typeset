@@ -12,6 +12,7 @@
     lastupdated = "2022-12-11"
     originallyset = "2022-12-11"
     \include "include/distribution-header.ly"
+    cksum = "60487d72722a7b68522abb9ecfb6b600a4550074"
     % Things that change per piece:
     title = "Baci affamati e ingordi"
     subtitle = "Terza parte"
@@ -118,3 +119,4 @@
         }
     }
 }
+

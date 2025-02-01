@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "37f6bd0c521bacdbe101d206a51d1736fbbaa52c"
     % Things that change per piece:
     title = "Stringeami Galatea"
     subtitle = "Prima e seconda parte"
@@ -136,3 +137,4 @@
         }
     }
 }
+

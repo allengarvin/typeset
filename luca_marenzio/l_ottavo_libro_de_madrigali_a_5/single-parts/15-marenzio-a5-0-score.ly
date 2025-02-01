@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f532b4c3546fdd28e2bf5c1bee6b4b20c9f3d38b"
     % Things that change per piece:
     title = "La mia Clori è brunetta"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

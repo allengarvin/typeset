@@ -14,6 +14,7 @@
     flats = 1
     final = "bf"
     \include "include/distribution-header.ly"
+    cksum = "0af94a96fec0b69527bf95b2e6767e5da19df4f4"
     % Things that change per piece:
     title = "Occhi de' miei desiri"
     subtitle = "Nona parte"
@@ -125,4 +126,5 @@
         }
     }
 }
+
 

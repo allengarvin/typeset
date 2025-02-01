@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "e3d577a607276069cc2cb1e9b4b8b0c5b7302b16"
     % Things that change per piece:
     title = "Amor, l'arco e la rete"
     subtitle = ""
@@ -135,4 +136,5 @@
         }
     }
 }
+
 

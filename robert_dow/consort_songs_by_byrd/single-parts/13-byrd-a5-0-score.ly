@@ -21,6 +21,7 @@
     lastupdated = "2015-08-03"
     shorttitle = "when_i_was_otherwise"
     \include "include/distribution-header.ly"
+    cksum = "aa33b92465929045694e1bbd34fdc8b78feba6d7"
     tagline = #'f
 }
 
@@ -91,4 +92,5 @@
         }
     }
 }
+
 

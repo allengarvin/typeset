@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "4a25640671101ac27667d6b1b47952e0800bf25e"
     % Things that change per piece:
     title = "Mordimi questa lingua"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

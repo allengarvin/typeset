@@ -19,6 +19,7 @@
     shorttitle = "menando_un_giorno"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "4868cb23e2849d325fe88bc8da9dfb69b1d8b005"
     language = "italian"
     tagline = #'f
 }
@@ -84,4 +85,5 @@
         }
     }
 }
+
 

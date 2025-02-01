@@ -27,6 +27,7 @@
     poeticform = "sonnet"
     motifs = "[nightingale,bird]"
     \include "include/distribution-header.ly"
+    cksum = "381b3b9a25df48cbeede6261740a8d6c3c501899"
     tagline = #'f
 }
 
@@ -127,3 +128,4 @@
         }
     }
 }
+

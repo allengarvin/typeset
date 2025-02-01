@@ -21,6 +21,7 @@
     final = "g"
     shorttitle = "la_torello"
     \include "include/distribution-header.ly"
+    cksum = "3defea010f56bb231863634bf0c789efdff93647"
     tagline = #'f
 }
 
@@ -57,4 +58,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

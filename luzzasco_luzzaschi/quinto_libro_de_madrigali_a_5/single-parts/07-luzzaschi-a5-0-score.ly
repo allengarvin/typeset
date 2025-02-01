@@ -12,6 +12,7 @@
     lastupdated = "2022-11-06"
     originallyset = "2022-11-06"
     \include "include/distribution-header.ly"
+    cksum = "3ff3b586ea8d7fb76308f45ee8023136cc5aa619"
     % Things that change per piece:
     title = "Ahi cruda sorte mia"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

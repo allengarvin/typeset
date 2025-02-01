@@ -30,6 +30,7 @@
     motifs = "[hopelessness,thoughts]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
+    cksum = "57d8d7b228d764eab1a86830ac57d40c6275c6da"
     tagline = #'f
 }
 
@@ -124,3 +125,4 @@
         }
     }
 }
+

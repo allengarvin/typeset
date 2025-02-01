@@ -23,6 +23,7 @@
     lastupdated = "2015-12-13"
     shorttitle = "galliarde"
     \include "include/distribution-header.ly"
+    cksum = "bb7b74edd813d119d15f5960a4a41258c8c28d67"
     tagline = #'f
 }
 
@@ -82,4 +83,5 @@
         }
     }
 }
+
 

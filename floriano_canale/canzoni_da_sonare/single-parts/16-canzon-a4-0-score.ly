@@ -23,6 +23,7 @@
     shorttitle = "la_stella"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "a1b6e521022f38a7baa3406f2c4562382cf530ba"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }
 }
+
 

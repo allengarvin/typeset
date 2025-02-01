@@ -23,6 +23,7 @@
     shorttitle = "chi_brama_al_maggior"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "600eef7ce5eb5076e7272603f77ec2f73bce7a0a"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

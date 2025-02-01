@@ -12,6 +12,7 @@
     lastupdated = "2022-12-03"
     originallyset = "2022-12-03"
     \include "include/distribution-header.ly"
+    cksum = "11601f02286f431c40bebff34c99a8d18492374e"
     % Things that change per piece:
     title = "Non era l'andar suo cosa mortale"
     subtitle = "Seconda parte"
@@ -114,3 +115,4 @@
         }
     }
 }
+

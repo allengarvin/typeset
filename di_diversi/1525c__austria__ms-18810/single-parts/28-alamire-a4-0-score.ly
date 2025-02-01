@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "tandernack"
     \include "include/distribution-header.ly"
+    cksum = "6b74c2d40bd99cff8c6b490406b5733dd82a2ad5"
     tagline = #'f
 }
 
@@ -74,3 +75,4 @@
         }
     }   
 }
+

@@ -23,6 +23,7 @@
     categories = "[fortuna]"
     shorttitle = "fortuna_disperata"
     \include "include/distribution-header.ly"
+    cksum = "ab24dc03da499dfa82047a59aac8770482321b83"
     tagline = #'f
 }
 
@@ -86,4 +87,5 @@
         }
     }   
 }
+
 

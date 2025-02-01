@@ -24,6 +24,7 @@
     shorttitle = "nasce_il_gran_piacer_mio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "18cb1966303bba5b047880cd777883fcac09b4f0"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

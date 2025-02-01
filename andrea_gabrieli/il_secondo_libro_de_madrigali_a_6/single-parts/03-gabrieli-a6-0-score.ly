@@ -12,6 +12,7 @@
     lastupdated = "2023-01-20"
     originallyset = "2023-01-20"
     \include "include/distribution-header.ly"
+    cksum = "a2698409cefd9a7cf9e97f4834e7e044735b142e"
     % Things that change per piece:
     title = "Come vuoi tu ch'io viva"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

@@ -21,6 +21,7 @@
     lastupdated = "2013-06-08"
     shorttitle = "gagliarda_a4"
     \include "include/distribution-header.ly"
+    cksum = "827203c00aa222c865139d796150a6181189c456"
     tagline = #'f
 }
 
@@ -71,4 +72,5 @@
         }
     }   
 }
+
 

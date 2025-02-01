@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "si_sumpsero"
     \include "include/distribution-header.ly"
+    cksum = "0270d9378118f2aa19581963d61a50882529b7ae"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         }
     }   
 }
+
 

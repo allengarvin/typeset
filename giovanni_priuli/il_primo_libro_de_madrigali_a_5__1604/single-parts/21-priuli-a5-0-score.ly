@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "dace3d4e3350f0eb6edac424829c094030cfa9b3"
     % Things that change per piece:
     title = "Sai che là corre il mondo"
     subtitle = "Seconda parte"
@@ -120,3 +121,4 @@
         }
     }
 }
+

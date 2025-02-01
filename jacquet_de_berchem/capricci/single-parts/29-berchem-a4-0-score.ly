@@ -12,6 +12,7 @@
     lastupdated = "2022-09-26"
     originallyset = "2022-09-26"
     \include "include/distribution-header.ly"
+    cksum = "3580636d7042f3f7076839c422bd90b12a94e69c"
     % Things that change per piece:
     title = "Che rami e ceppi e tronchi e sassi e zolle"
     subtitle = "Orlando al fin perde il Senno"
@@ -110,3 +111,4 @@
         }
     }
 }
+

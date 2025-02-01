@@ -12,6 +12,7 @@
     lastupdated = "2023-11-23"
     originallyset = "2023-11-23"
     \include "include/distribution-header.ly"
+    cksum = "b986fce92f6ee88488498e6e34ded4460b92d3d0"
     % Things that change per piece:
     title = "Galliarda Apussi"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

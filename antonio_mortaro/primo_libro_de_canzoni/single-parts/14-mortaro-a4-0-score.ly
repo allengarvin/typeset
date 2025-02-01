@@ -22,6 +22,7 @@
     final = "g"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "1297143b7b0c7f1957ddd799fef5e9d6e2fb2326"
     tagline = #'f
 }
 
@@ -74,3 +75,4 @@
         }
     }   
 }
+

@@ -21,6 +21,7 @@
     final = "a"
     shorttitle = "thirsis"
     \include "include/distribution-header.ly"
+    cksum = "5c6795c2aec8b7328fb4853a1ea246e8b8658150"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

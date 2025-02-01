@@ -22,6 +22,7 @@
     shorttitle = "la_porta"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "26890bf6884b6432f9c3423f2712bb80ea0e3ceb"
     tagline = #'f
 }
 
@@ -74,3 +75,4 @@
         }
     }   
 }
+

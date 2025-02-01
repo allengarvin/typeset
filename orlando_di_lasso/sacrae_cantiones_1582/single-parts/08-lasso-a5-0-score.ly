@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "o_sacrum_convivium"
     \include "include/distribution-header.ly"
+    cksum = "dff81ec6d9333d0b1511ce9715fbf3fd1a9b01b4"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
     }
 
 }
+
 

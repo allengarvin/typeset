@@ -22,6 +22,7 @@
     final = "g"
     shorttitle = "missa_ad_imitationem_moduli_mamie_un_jour"
     \include "include/distribution-header.ly"
+    cksum = "f72fdab762d912b86750029193d09be09dd1e6e8"
     tagline = #'f
 }
 
@@ -84,3 +85,4 @@
         }
     }
 }
+

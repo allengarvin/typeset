@@ -24,6 +24,7 @@
     categories = "[dialogo,madrigal]"
     motifs = "[eagle]"
     \include "include/distribution-header.ly"
+    cksum = "286dd827353f4ffe7ad6252ff3906954e61efc3c"
     tagline = #'f
 }
 
@@ -129,3 +130,4 @@
         }
     }
 }
+

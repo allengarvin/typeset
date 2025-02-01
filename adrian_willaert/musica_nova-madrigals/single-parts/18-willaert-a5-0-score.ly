@@ -25,6 +25,7 @@
     shorttitle = "quel_foco_e_morto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8c768b7033b08398ca76e21143948cd6ec4fabbe"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

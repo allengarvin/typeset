@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "o_magnum_mysterium"
     \include "include/distribution-header.ly"
+    cksum = "f5be36675981a7dfea8ac15f8002c10530c26045"
     tagline = #'f
 }
 
@@ -102,3 +103,4 @@
         }
     }
 }
+

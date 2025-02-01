@@ -23,6 +23,7 @@
     shorttitle = "canzon_prima__la_rovattina"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "618e9a3eb92c87e6751d29428f1f8e7240eda44e"
     tagline = #'f
 }
 
@@ -73,4 +74,5 @@
         }
     }   
 }
+
 

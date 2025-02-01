@@ -25,6 +25,7 @@
     categories = "[madrigal,morte]"
     motifs = "[morte,amore,tears,la-petite-mort]"
     \include "include/distribution-header.ly"
+    cksum = "5a41ce3cb4fa4cdc47a1d578c97ed02176cee6f3"
     tagline = #'f
 }
 
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

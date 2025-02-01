@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "b039ae60c8db843f5c1652a69755e7cc6eb59a36"
     % Things that change per piece:
     title = "Ahi dispietato Amor"
     subtitle = ""
@@ -129,3 +130,4 @@
         }
     }
 }
+

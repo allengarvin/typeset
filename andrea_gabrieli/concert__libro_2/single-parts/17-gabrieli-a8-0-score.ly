@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "9370e02322e5b3c789c692a40a67b9aa07d3cbdf"
     % Things that change per piece:
     title = "Tirsi, che fai così dolente"
     subtitle = ""
@@ -149,3 +150,4 @@
         }
     }
 }
+

@@ -24,6 +24,7 @@
     shorttitle = "fillida_mia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "4fe5ca444f9b4bc92b63bfbada2bd8d20354d0bc"
     tagline = #'f
 }
 
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

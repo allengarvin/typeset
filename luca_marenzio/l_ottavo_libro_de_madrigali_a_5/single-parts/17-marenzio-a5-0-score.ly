@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "e638879cf7e2ca70a4b74bb65f232e738bad965d"
     % Things that change per piece:
     title = "Se tu dolce mio ben mi saettasti"
     subtitle = "Prima parte"
@@ -143,3 +144,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "fe2df771601d7983d0fd9a243c731d3494aea6cc"
     % Things that change per piece:
     title = "Oh qual grazia senti"
     subtitle = "Quarta parte"
@@ -108,3 +109,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "86d011de8dca19e15afd0de942cd6ce56a4323ca"
     % Things that change per piece:
     title = "Precipitose rupi"
     subtitle = "Prima parte"
@@ -129,3 +130,4 @@
         }
     }
 }
+

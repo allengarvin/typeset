@@ -21,6 +21,7 @@
     final = "d"
     shorttitle = "do_you_not_know"
     \include "include/distribution-header.ly"
+    cksum = "8eba07a72d04c73dfa7462035e017992397dcbe8"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

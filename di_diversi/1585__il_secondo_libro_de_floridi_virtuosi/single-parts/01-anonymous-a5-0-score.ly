@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "6b30557260d220aa694f3726fa9374d4b59ed907"
     % Things that change per piece:
     title = "Chiare e lucenti stelle"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

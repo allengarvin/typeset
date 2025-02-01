@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "4b447c03f8e8c3db5cba5757fec0d7e97f4bfbaf"
     % Things that change per piece:
     title = "Ahi chi ti insidia al boscareccio nido"
     subtitle = "Prima parte"
@@ -119,4 +120,5 @@
         }
     }
 }
+
 

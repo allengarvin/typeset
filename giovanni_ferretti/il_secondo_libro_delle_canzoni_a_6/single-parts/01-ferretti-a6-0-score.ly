@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "com_al_primo_apparir"
     \include "include/distribution-header.ly"
+    cksum = "8a35092a7f3f810f9f6d3874427130b0035bbc0e"
     tagline = #'f
 }
 
@@ -119,4 +120,5 @@
         }
     }
 }
+
 

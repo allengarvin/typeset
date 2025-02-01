@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "8be2693b8cc129aaee46b0d31e8291ed3f4ad281"
     % Things that change per piece:
     title = "Laura se pur sei l'aura"
     subtitle = "Prima parte"
@@ -119,3 +120,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     shorttitle = "la_bertozza"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "680fa4677e6cb13b69bdf5f0e2659ad886c4fe09"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

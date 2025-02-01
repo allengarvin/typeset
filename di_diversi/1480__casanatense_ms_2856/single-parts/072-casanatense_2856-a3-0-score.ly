@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "tant_que_dieu_vosdra"
     \include "include/distribution-header.ly"
+    cksum = "2b9d620786b9837ac9621923fa1c62b6303da8a4"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

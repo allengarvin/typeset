@@ -26,6 +26,7 @@
     shorttitle = "o_gran_bonta_de_cavallieri"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "2f3e030011ed59ca43521db74fab54a4ef457744"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

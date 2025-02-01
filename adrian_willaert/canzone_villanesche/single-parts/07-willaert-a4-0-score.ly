@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "se_mille_volte"
     \include "include/distribution-header.ly"
+    cksum = "6ec146cf55fb4931c02de57edd9a62f07fff5266"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

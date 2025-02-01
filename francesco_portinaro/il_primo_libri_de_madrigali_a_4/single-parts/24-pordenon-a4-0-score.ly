@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "7e31224bbd05d084df4b70e9c79ced5da8ebca89"
     % Things that change per piece:
     title = "Già mi trovai di Maggio"
     subtitle = ""
@@ -126,4 +127,5 @@
         }
     }
 }
+
 

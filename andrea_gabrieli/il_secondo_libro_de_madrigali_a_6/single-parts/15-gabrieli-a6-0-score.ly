@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "fe8e358761c08ae7abedbd0062e33676ec2eebd4"
     % Things that change per piece:
     title = "Come esser può che non sei stanco"
     subtitle = ""
@@ -128,3 +129,4 @@
         }
     }
 }
+

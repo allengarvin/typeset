@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "fors_seulement"
     \include "include/distribution-header.ly"
+    cksum = "60f7e5ab878afd34ea94cafc542e14f89634f525"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

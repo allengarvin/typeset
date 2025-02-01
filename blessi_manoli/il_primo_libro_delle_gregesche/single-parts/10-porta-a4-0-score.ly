@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "4c208a6f882a8d24d2e6e08e8f8df372bc2ba7d5"
     % Things that change per piece:
     title = "O chyrazza glicchi"
     subtitle = "Prima parte"
@@ -104,3 +105,4 @@
         }
     }
 }
+

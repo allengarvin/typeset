@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "d901680b07937ef5817599b99565f61361edf91c"
     % Things that change per piece:
     title = "O di saggio e grand'avo"
     subtitle = "Prima parte"
@@ -111,3 +112,4 @@
         }
     }
 }
+

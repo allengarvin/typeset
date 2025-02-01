@@ -23,6 +23,7 @@
     final = "a"
     shorttitle = "infelix_ego"
     \include "include/distribution-header.ly"
+    cksum = "53d76c9eba05559034315696f61f87081bc1c6a9"
     tagline = #'f
 }
 
@@ -120,3 +121,4 @@
         }
     }
 }
+

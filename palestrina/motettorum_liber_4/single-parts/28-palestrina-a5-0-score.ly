@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "guttur_tuum_sicut_vinum_optimum"
     \include "include/distribution-header.ly"
+    cksum = "b2b680b30d64d9479a62aac990d206413290c56d"
     tagline = #'f
 }
 
@@ -104,3 +105,4 @@
         }
     }
 }
+

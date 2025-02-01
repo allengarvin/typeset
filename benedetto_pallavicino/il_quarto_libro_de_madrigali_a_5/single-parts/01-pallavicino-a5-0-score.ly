@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d27221c6489034314eac59db968ab7aa461410ad"
     % Things that change per piece:
     title = "Mentre che qui d'intorno"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

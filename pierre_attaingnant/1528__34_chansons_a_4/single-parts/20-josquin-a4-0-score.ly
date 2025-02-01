@@ -22,6 +22,7 @@
     final = "a"
     shorttitle = "cueurs_desolez"
     \include "include/distribution-header.ly"
+    cksum = "f0e215882b253d70315a11e31a4d5a03c8a2274e"
     tagline = #'f
 }
 
@@ -78,4 +79,5 @@
         }
     }   
 }
+
 

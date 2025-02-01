@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "094074797f9a30516875a61514d48425f0b3ce3b"
     % Things that change per piece:
     title = "Tra sospiri e querele"
     subtitle = ""
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

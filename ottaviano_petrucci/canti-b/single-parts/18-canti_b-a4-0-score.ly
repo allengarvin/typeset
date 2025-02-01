@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "myn_morghen"
     \include "include/distribution-header.ly"
+    cksum = "b0d8977ac2d30a0e327e730ad1c4c7c3f0b4fda3"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

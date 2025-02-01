@@ -12,6 +12,7 @@
     lastupdated = "2023-11-19"
     originallyset = "2023-11-19"
     \include "include/distribution-header.ly"
+    cksum = "e99261be57c447cf4f16212ff999719ac7f76a52"
     % Things that change per piece:
     title = "Galliarda Zibotte"
     subtitle = ""
@@ -86,3 +87,4 @@
         }
     }   
 }
+

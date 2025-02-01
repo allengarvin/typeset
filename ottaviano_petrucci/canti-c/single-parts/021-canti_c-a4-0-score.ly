@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "chescun_me_crie"
     \include "include/distribution-header.ly"
+    cksum = "25c9e745f5e249ab0b37cc881256dbb851cc323f"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

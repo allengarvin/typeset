@@ -29,6 +29,7 @@
     categories = "[madrigal,furioso]"
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
+    cksum = "a5ce60eff298fe55f6f473bf4a4ee8f0ff1b9e01"
     tagline = #'f
 }
 
@@ -103,3 +104,4 @@
         }
     }
 }
+

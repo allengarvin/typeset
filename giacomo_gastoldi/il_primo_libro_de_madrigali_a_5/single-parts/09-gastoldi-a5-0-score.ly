@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "3151049853e6bd206eb56f58844f15d1faf9c2bb"
     % Things that change per piece:
     title = "Non fu volubil sorte"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

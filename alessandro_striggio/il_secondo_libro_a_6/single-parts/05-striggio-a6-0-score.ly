@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "f37f4f57fea2eb5e528fa87b0c201484a51f96da"
     % Things that change per piece:
     title = "Qual tu ti sia, qui vieni"
     subtitle = ""
@@ -119,3 +120,4 @@
         }
     }
 }
+

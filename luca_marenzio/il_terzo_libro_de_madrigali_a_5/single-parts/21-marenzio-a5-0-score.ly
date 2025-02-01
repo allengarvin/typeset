@@ -24,6 +24,7 @@
     shorttitle = "o_dolce_anima_mia"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "f8d7d0c3a61fce8ebd11e117690d881b2e9bc7a3"
     tagline = #'f
 }
 
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

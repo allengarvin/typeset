@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "maria_stabat_ad_monumentum_foris"
     \include "include/distribution-header.ly"
+    cksum = "10679fe88ee71f423f34280f9ab9b147fa008a0a"
     tagline = #'f
 }
 
@@ -107,3 +108,4 @@
         }
     }
 }
+

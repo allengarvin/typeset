@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "dc40321091b85907e9b1f3b7c885196428fda368"
     % Things that change per piece:
     title = "Tu mi piagasti a morte"
     subtitle = ""
@@ -128,4 +129,5 @@
         }
     }
 }
+
 

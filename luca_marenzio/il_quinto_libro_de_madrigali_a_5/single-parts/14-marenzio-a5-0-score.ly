@@ -14,6 +14,7 @@
     flats = 0
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "0eb74f8f08fb9686eb0cbc030bf80812c6a442a7"
     % Things that change per piece:
     title = "Dolor tant'è la gioia che mi dai"
     subtitle = ""
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

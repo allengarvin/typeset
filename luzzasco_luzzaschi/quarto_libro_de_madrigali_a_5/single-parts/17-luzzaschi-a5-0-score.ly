@@ -14,6 +14,7 @@
     flats = 0
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "9e7f580d8b852aa810745a51e539a295b3f1e2b4"
     % Things that change per piece:
     title = "Là dove par ch'ogni altro si conforte"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

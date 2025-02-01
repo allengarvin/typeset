@@ -27,6 +27,7 @@
     shorttitle = "pieno_di_dolce"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "5270f705fb3c97bf48b35d0c28c49158a5e0d8e5"
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

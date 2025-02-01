@@ -25,6 +25,7 @@
     folio = "Pompeo Pace (fl.1560s)"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "00305f246d91dc2352854415b61704490306fc77"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 

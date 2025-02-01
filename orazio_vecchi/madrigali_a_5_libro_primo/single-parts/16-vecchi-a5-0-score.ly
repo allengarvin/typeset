@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "167205c3da6763a387f105e3828667f70783c2aa"
     % Things that change per piece:
     title = "Troppo lo stringe l'amorosa rete"
     subtitle = "Seconda parte"
@@ -113,3 +114,4 @@
         }
     }
 }
+

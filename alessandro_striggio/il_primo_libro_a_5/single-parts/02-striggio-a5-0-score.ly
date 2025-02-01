@@ -24,6 +24,7 @@
     shorttitle = "degno_che_dotte_istorie"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "8c7f28794db21ec8b80e2d12be55cc9c4e003285"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

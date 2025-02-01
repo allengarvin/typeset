@@ -27,6 +27,7 @@
     rhyme = "aBBacddcEE"
     repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F106980000010101_000000256900C"
     \include "include/distribution-header.ly"
+    cksum = "594632aa61a8a53c0f81ae1aa4ab41e5a05e8a66"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

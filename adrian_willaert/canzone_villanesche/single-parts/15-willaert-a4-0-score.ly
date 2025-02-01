@@ -26,6 +26,7 @@
     final = "g"
     shorttitle = "sospiri_miei"
     \include "include/distribution-header.ly"
+    cksum = "522559c59734ec89587f5fc8dacad5ab3904ca9e"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

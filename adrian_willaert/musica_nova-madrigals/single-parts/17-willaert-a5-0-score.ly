@@ -25,6 +25,7 @@
     shorttitle = "mentre_chel_cor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "390c6fddfb252d53f21425a6692f624374df9b2a"
     tagline = #'f
 }
 
@@ -114,4 +115,5 @@
         }
     }
 }
+
 

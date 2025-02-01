@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "hor_oires_une_chanson"
     \include "include/distribution-header.ly"
+    cksum = "7737340c79c086627685e486a01f5f11e55da00d"
     tagline = #'f
 }
 
@@ -83,3 +84,4 @@
         }
     }   
 }
+

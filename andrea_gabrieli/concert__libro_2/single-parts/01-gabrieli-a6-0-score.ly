@@ -25,6 +25,7 @@
     final = "a"
     categories = "[chromatic,madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "e93772d90d0031c567918015c4eb2dea8b40b74d"
     tagline = #'f
 }
 
@@ -123,3 +124,4 @@
         }
     }
 }
+

@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "04bd0572954694176537f4a5a84c9205132444eb"
     % Things that change per piece:
     title = "Pur venisti, cor mio"
     subtitle = ""
@@ -116,3 +117,4 @@
         }
     }
 }
+

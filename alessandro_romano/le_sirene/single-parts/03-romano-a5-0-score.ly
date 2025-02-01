@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "1657d18d90f9e59b977250e2ec84eadc75efbf9d"
     % Things that change per piece:
     title = "Ahi, chi mi rompe'l sonno"
     subtitle = "Prima parte"
@@ -119,4 +120,5 @@
         }
     }
 }
+
 

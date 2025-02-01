@@ -25,6 +25,7 @@
     shorttitle = "in_nomine_a_5"
     categories = "[in-nomine]"
     \include "include/distribution-header.ly"
+    cksum = "9a92b9dc2508cf67094e48fe16f22743f10b7969"
     tagline = #'f
 }
 
@@ -84,3 +85,4 @@
         }
     }   
 }
+

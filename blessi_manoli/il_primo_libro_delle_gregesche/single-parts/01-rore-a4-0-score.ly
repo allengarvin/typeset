@@ -25,6 +25,7 @@
     shorttitle = "madonna_hormai"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "075b14b2aa42b1ec46b4af6f976af68c4e37d4b1"
     tagline = #'f
 }
 
@@ -99,4 +100,5 @@
         }   
     }
 }
+
 

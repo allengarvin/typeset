@@ -20,6 +20,7 @@
     shorttitle = "ecco_d_oro_l_eta"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "fe4b32323aa6bd8e05c55d2bee85dc405953c291"
     tagline = #'f
 }
 
@@ -68,5 +69,6 @@
         \include "../include/vocal-layout-score.ly"
     }   
 }
+
 
 

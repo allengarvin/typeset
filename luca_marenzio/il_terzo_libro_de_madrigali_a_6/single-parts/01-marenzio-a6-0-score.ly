@@ -23,6 +23,7 @@
     shorttitle = "io_moriro_d_amore"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "2a62ea5f1ae5a5d3837e48648e52b60fc1bd47cd"
     tagline = #'f
 }
 
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

@@ -29,12 +29,13 @@
 
     poeticform = "madrigal"
     categories = "[madrigal,morte]"
-    motifs = "[morte,prison,life]"
+    motifs = "[morte,prison,life,la-petit-mort]"
     rhyme = "abcddcefF"
     repim = "https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/128560000010101_000000256900C"
 
     shorttitle = "io_non_son_pero_morto"
     \include "include/distribution-header.ly"
+    cksum = "6175762941e6890d3226a7ecdf1b2bddc98cdd20"
     tagline = #'f
     tags = "{5vv,italian,madrigal,mode g-1}"
 }
@@ -128,3 +129,4 @@
         }
     }
 }
+

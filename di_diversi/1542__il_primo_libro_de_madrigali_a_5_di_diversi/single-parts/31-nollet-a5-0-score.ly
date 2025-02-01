@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "ff7bbe5e40b3648a3b8dbe49560002769a7644aa"
     % Things that change per piece:
     title = "Le donne antique hanno mirabil cose"
     subtitle = ""
@@ -141,4 +142,5 @@
 %    Camillas worth is eke well knowne to men,
 %    Corinnas praise, and Saphos are discerned,
 %    Aboue the rest, because they both were lerned.
+
 

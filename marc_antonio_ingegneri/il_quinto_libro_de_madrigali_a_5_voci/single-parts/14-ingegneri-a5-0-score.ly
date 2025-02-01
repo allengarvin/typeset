@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "1cf2599c46a5662ae183f51f1819296bbfc0890d"
     % Things that change per piece:
     title = "Or la spinge, or ritiene"
     subtitle = ""
@@ -110,3 +111,4 @@
         }
     }
 }
+

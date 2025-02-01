@@ -21,6 +21,7 @@
     lastupdated = "2013-12-09"
     shorttitle = "lachrimae_antiquae_novae"
     \include "include/distribution-header.ly"
+    cksum = "ed18093ef59aa891538be717b3f001b87590e747"
     tagline = #'f
 }
 
@@ -74,4 +75,5 @@
         \include "../include/layout-score.ly"
     }
 }
+
 

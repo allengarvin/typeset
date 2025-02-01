@@ -22,6 +22,7 @@
     shorttitle = "canzon_duodecimi_toni_i_a_10"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "2f86ec347181c6ae4bc3f853a5d47943d168c6b0"
     tagline = #'f
 }
 
@@ -116,3 +117,4 @@
         }
     }   
 }
+

@@ -21,6 +21,7 @@
     final = "f"
     shorttitle = "la_caccia"
     \include "include/distribution-header.ly"
+    cksum = "67a006f7d0e38917d085d84329f40f23460fdd04"
     tagline = #'f
 }
 
@@ -57,4 +58,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

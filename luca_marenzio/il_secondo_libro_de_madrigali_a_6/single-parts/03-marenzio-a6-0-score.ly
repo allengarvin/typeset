@@ -24,6 +24,7 @@
     shorttitle = "vaghi_e_lieti_fanciulli"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "3937d9b5670add345131caa42a29127e7952de42"
     tagline = #'f
 }
 
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

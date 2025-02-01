@@ -12,6 +12,7 @@
     lastupdated = "2022-11-15"
     originallyset = "2022-11-15"
     \include "include/distribution-header.ly"
+    cksum = "258991d4e7cdae6bfd109f0a0664c20034bf8a06"
     % Things that change per piece:
     title = "Compel the Hawk to sit"
     subtitle = ""
@@ -103,3 +104,4 @@
         }
     }
 }
+

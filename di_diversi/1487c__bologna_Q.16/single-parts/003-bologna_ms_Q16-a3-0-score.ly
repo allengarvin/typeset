@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "vostre_amour"
     \include "include/distribution-header.ly"
+    cksum = "1768128831c9f2a3f54496951bae674b36cb41a2"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

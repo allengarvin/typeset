@@ -25,6 +25,7 @@
     shorttitle = "amor_senno"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "717114ecaa89539c2bc77304b6a5d6fb825cee4c"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

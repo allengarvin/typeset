@@ -26,6 +26,7 @@
     shorttitle = "s_alzin_l_onde_signor"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "1dc307f2bd3fdbfb89bff000f6cab48a2c7105d3"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

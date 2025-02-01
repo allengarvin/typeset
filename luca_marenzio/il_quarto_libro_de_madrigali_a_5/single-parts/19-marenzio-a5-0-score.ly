@@ -12,6 +12,7 @@
     lastupdated = "2023-01-04"
     originallyset = "2023-01-04"
     \include "include/distribution-header.ly"
+    cksum = "2893224b2890ce2ab4eefef5b6601947054bd739"
     % Things that change per piece:
     title = "Senza cor, senza luce"
     subtitle = ""
@@ -107,3 +108,4 @@
         }
     }
 }
+

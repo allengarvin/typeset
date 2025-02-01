@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "et_marion_la_brune"
     \include "include/distribution-header.ly"
+    cksum = "2c85aa6ce8f6bcf81bade0f92d04f4878722dd0d"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

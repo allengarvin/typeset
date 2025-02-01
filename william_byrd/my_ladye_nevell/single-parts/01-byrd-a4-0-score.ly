@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "pavan_1"
     \include "include/distribution-header.ly"
+    cksum = "00718035e051cdb88ce97db8c7b5dae01f5c77f4"
     tagline = #'f
 }
 
@@ -71,4 +72,5 @@
         }
     }   
 }
+
 

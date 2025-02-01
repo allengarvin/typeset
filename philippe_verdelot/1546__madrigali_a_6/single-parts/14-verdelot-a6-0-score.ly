@@ -12,6 +12,7 @@
     lastupdated = "2022-09-25"
     originallyset = "2022-09-25"
     \include "include/distribution-header.ly"
+    cksum = "ed28adac82b690381f8f7765cc5954249b92a41c"
     % Things that change per piece:
     title = "Queste non son più lacrime che fuore"
     subtitle = ""
@@ -126,3 +127,4 @@
         }
     }
 }
+

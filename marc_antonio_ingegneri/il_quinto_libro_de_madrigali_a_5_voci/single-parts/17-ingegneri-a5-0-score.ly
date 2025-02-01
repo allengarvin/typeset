@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "18ee329c47c6365d78e71d792d5f8be3a39d4d18"
     % Things that change per piece:
     title = "Tacquer le nostre muse"
     subtitle = ""
@@ -128,3 +129,4 @@
         }
     }
 }
+

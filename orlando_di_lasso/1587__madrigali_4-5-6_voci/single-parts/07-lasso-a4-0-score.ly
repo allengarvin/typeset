@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "bfb9ec99cb7d5c2e958b2cacd2e54f414e236853"
     % Things that change per piece:
     title = "Così, cor mio, vogliate"
     subtitle = ""
@@ -122,3 +123,4 @@
         }
     }
 }
+

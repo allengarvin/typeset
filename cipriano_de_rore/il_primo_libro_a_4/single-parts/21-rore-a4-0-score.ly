@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "7a372155fb769cdaca06f9f65bccfcc8c7f5168c"
     % Things that change per piece:
     title = "Se 'l mio sempre per voi"
     subtitle = ""
@@ -105,3 +106,4 @@
         }
     }
 }
+

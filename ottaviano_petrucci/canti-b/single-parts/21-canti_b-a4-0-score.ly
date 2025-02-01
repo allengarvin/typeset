@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "helas_helas_helas"
     \include "include/distribution-header.ly"
+    cksum = "3fe7204c284d8e4b3061dc7ff1a7fa333dea67ea"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

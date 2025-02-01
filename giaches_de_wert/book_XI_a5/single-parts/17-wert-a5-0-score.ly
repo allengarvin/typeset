@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "b1579aa59766b2618feca51e7c73522c99ef8f6c"
     % Things that change per piece:
     title = "Anima del cor mio"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

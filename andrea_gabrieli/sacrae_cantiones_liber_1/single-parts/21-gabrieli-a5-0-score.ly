@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "sic_deus_dilexit_mundum"
     \include "include/distribution-header.ly"
+    cksum = "a74db6a666f3c550e61e2f27f209f29a35b3fc0a"
     tagline = #'f
 }
 
@@ -100,3 +101,4 @@
         }
     }
 }
+

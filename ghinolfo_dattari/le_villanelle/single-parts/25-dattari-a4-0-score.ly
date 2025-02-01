@@ -12,6 +12,7 @@
     lastupdated = "2023-02-02"
     originallyset = "2023-02-02"
     \include "include/distribution-header.ly"
+    cksum = "1810b7b52e93da0090b0b43c973efa368a9bc59f"
     % Things that change per piece:
     title = "Amore l'altro giorno se n'andava"
     subtitle = ""
@@ -148,3 +149,4 @@
         }
     }
 }
+

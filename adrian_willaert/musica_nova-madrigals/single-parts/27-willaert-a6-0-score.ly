@@ -25,6 +25,7 @@
     shorttitle = "aspro_core_et_selvaggio"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "d4380d90f27f88a8e419357c202ff457e39fa63d"
     tagline = #'f
 }
 
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

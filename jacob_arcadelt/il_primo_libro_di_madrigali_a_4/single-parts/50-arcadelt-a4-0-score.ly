@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "96ee35017771b9fa7926f11e5c21255b9de9120e"
     % Things that change per piece:
     title = "Se per colpa del vostro fiero sdegno"
     subtitle = ""
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

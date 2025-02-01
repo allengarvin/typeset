@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "_caecus_non_judicat"
     \include "include/distribution-header.ly"
+    cksum = "dbfad58b1ef89a27d833b655269948317e36e2dc"
     tagline = #'f
 }
 
@@ -69,4 +70,5 @@
         }
     }   
 }
+
 

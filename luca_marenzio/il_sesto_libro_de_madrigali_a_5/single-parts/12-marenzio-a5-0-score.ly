@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "f98419c4632f6476435ca4c96d01f4490ac3f1ca"
     % Things that change per piece:
     title = "Deh Tirsi, Tirsi, anima mia"
     subtitle = "Prima e seconda parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

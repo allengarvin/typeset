@@ -26,6 +26,7 @@
     shorttitle = "queste_non_son_pie_lagrime"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "04fc922b5f2c962ba5540a3d7ff59e5627771a0a"
     tagline = #'f
 }
 
@@ -123,4 +124,5 @@
         }
     }
 }
+
 

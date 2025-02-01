@@ -27,6 +27,7 @@
     poeticform = "ottava rima"
     motifs = "[morte,habor,prison,amore]"
     \include "include/distribution-header.ly"
+    cksum = "40b2cea6a5a11655a7ec85948ff5fa56819461ec"
     tagline = #'f
 }
 
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

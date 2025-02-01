@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "cbd87062155eff5787b632f39b415027df30ddb5"
     % Things that change per piece:
     title = "Vegine sola"
     subtitle = ""
@@ -130,3 +131,4 @@
         }
     }
 }
+

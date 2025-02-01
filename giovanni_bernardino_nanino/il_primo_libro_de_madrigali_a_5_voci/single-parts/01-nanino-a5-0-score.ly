@@ -12,6 +12,7 @@
     lastupdated = "2022-10-30"
     originallyset = "2022-10-30"
     \include "include/distribution-header.ly"
+    cksum = "55f56f3c7000e5ab36dacaa3e0391999dd3194c5"
     % Things that change per piece:
     title = "Chi vuol perle e coralli"
     subtitle = ""
@@ -101,3 +102,4 @@
         }
     }
 }
+

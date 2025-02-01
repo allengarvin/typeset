@@ -24,6 +24,7 @@
     shorttitle = "vergine_bella"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "818e5d7b40dc9f4982b72ce6f2d98a90d966a7cd"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
         }
     }
 }
+
 

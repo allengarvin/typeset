@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "quella_che_gli_occhi"
     \include "include/distribution-header.ly"
+    cksum = "99c5470faaa23999e3844083e2166994e10a6d03"
     tagline = #'f
 }
 
@@ -88,3 +89,4 @@
 %Works by 
 %
 %
+

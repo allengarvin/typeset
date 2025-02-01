@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "fortune_esperee"
     \include "include/distribution-header.ly"
+    cksum = "2d494e7c8029c8545defdb7f1a54ff1d3ef546fe"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

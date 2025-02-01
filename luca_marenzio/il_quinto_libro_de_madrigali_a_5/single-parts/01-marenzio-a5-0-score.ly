@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "d0c32ba322f460da435f794f8285331e12b87cb9"
     % Things that change per piece:
     title = "Sola angeletta starsi"
     subtitle = "Prima parte"
@@ -108,3 +109,4 @@
         }
     }
 }
+

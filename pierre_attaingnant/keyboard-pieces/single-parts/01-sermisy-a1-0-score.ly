@@ -23,6 +23,7 @@
     lastupdated = "2013-04-16"
     shorttitle = "tant_que_vivray"
     \include "include/distribution-header.ly"
+    cksum = "dc537270146851a486cbe842ec8839ef8a4fc4c1"
     tagline = #'f
 }
 
@@ -59,4 +60,5 @@
         }
     }   
 }
+
 

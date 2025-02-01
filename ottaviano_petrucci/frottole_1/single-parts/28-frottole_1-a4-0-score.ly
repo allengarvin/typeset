@@ -26,6 +26,7 @@
     final = "c"
     shorttitle = "dal_lecto_me_levava"
     \include "include/distribution-header.ly"
+    cksum = "56b515dc74f71ebd64d3160baa749c41b49f4d33"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

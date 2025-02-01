@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "noe_noe_noe"
     \include "include/distribution-header.ly"
+    cksum = "e0154a255456bc8e525a654ded4184cdeab9d4a7"
     tagline = #'f
 }
 
@@ -77,3 +78,4 @@
         }
     }   
 }
+

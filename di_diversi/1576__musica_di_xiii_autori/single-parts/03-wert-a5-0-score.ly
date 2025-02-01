@@ -26,6 +26,7 @@
     shorttitle = "dun_si_bel_foco"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "0d811743581d4b9e671cb0912decdab3257aec2f"
     tagline = #'f
 }
 
@@ -99,4 +100,5 @@
         }
     }
 }
+
 

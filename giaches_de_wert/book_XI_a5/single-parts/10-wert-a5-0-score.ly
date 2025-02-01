@@ -12,6 +12,7 @@
     lastupdated = "2023-02-01"
     originallyset = "2023-02-01"
     \include "include/distribution-header.ly"
+    cksum = "b7264e660d760f81a8b334956c3005f191896cf2"
     % Things that change per piece:
     title = "Udite, lagrimosi Spirti d'Averno"
     subtitle = ""
@@ -127,3 +128,4 @@
         }
     }
 }
+

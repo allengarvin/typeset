@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "be7b087bfe14d1be5cff8ba4f024f8416d2325a2"
     % Things that change per piece:
     title = "Donna, l'ardente fiamma"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

@@ -25,6 +25,7 @@
     shorttitle = "quasi_improvisa_desiata"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "255274636bf5773d22bdfcb6ceb4a37c2fb870fb"
     tagline = #'f
 }
 
@@ -115,4 +116,5 @@
         }
     }
 }
+
 

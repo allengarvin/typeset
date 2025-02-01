@@ -22,6 +22,7 @@
     final = "f"
     shorttitle = "chantons_sonnons_trompetes"
     \include "include/distribution-header.ly"
+    cksum = "822c7475371abea88102439bc397412cd511bef1"
     tagline = #'f
 }
 
@@ -95,3 +96,4 @@
         }
     }
 }
+

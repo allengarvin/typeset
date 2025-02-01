@@ -12,6 +12,7 @@
     lastupdated = "2022-11-12"
     originallyset = "2022-11-12"
     \include "include/distribution-header.ly"
+    cksum = "870ac0f402bb17101e8f1424a212ee51fd323660"
     % Things that change per piece:
     title = "O God give ear and do apply"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

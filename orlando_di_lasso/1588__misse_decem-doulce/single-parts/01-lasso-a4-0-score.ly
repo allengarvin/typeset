@@ -19,6 +19,7 @@
     final = "d"
     language = "latin"
     \include "include/distribution-header.ly"
+    cksum = "5688e70f60f7beccb443e78ea037088ad4a5259f"
     lastupdated = "2018-11-11"
     tagline = #'f
 }
@@ -82,3 +83,4 @@
         }
     }
 }
+

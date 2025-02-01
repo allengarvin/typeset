@@ -21,6 +21,7 @@
     lastupdated = "2015-08-25"
     shorttitle = "care_for_thy_soul"
     \include "include/distribution-header.ly"
+    cksum = "26c2e8d3c18143648347e4dcf21649fcd95367bd"
     tagline = #'f
 }
 
@@ -95,4 +96,5 @@
         }
     }
 }
+
 

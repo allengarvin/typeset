@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "16a86c444a539ceba7b6d592480a89bd98ce91bb"
     % Things that change per piece:
     title = "Donna, se ben le chiome ho già ripiene"
     subtitle = ""
@@ -118,3 +119,4 @@
         }
     }
 }
+

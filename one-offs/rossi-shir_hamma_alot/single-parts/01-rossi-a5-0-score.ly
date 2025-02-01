@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "shir_hamma_alot"
     \include "include/distribution-header.ly"
+    cksum = "e32bd8f68d45494849be636f66550ae3e9cc2b92"
     tagline = #'f
 }
 
@@ -89,3 +90,4 @@
         }
     }   
 }
+

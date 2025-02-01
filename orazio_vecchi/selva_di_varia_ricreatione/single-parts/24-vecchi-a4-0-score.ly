@@ -15,6 +15,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "314208e3fd3357155229d391a8f42a410941284d"
     % Things that change per piece:
     title = "So ben mi ch'ha bon tempo"
     subtitle = ""
@@ -188,3 +189,4 @@
         }
     }
 }
+

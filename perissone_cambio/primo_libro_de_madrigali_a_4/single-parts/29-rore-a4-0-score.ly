@@ -26,6 +26,7 @@
     final = "g"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "27b855f54662af3bb9e30251031c36c110de92d7"
     composer = "Cipriano de Rore (c.1515-1565)"
     tagline = #'f
 }
@@ -98,3 +99,4 @@
         }
     }
 }
+

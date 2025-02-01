@@ -24,6 +24,7 @@
     shorttitle = "alza_doglioso_canto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "60ff2de7ca3e07e75917ed600401a3a80a0ee15f"
     tagline = #'f
 }
 
@@ -94,4 +95,5 @@
         }
     }
 }
+
 

@@ -24,6 +24,7 @@
     shorttitle = "chie_val_cu_la_candari"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "23e0d4a700f42172e4acd65ce3b8079ca143a277"
     tagline = #'f
 }
 
@@ -82,4 +83,5 @@
         }
     }   
 }
+
 

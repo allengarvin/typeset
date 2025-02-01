@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "e216d6823d80281b2b25e7b3941a261f76cea834"
     % Things that change per piece:
     title = "Movi il tuo plettro Apollo"
     subtitle = ""
@@ -120,5 +121,6 @@
         }
     }
 }
+
 
 

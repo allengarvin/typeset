@@ -26,6 +26,7 @@
     shorttitle = "poscia_che_per_mio_mal"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "be83b4fd9c89ea3f69294044eb878d7434145d33"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

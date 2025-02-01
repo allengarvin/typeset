@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "la_spagna"
     \include "include/distribution-header.ly"
+    cksum = "b59aa3abb119dff85137fc6bdae74d5e9852bd0f"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

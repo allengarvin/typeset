@@ -22,6 +22,7 @@
     lastupdated = "2013-05-08"
     shorttitle = "john_come_kiss"
     \include "include/distribution-header.ly"
+    cksum = "50565af70106864a68b4452234cb4affd17a9d77"
     tagline = #'f
 }
 
@@ -72,3 +73,4 @@
     >>
     }
 }
+

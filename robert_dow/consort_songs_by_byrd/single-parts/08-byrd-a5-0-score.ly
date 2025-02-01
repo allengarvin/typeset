@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "if_women"
     \include "include/distribution-header.ly"
+    cksum = "58f0a2e4cb295b77847cd0fdbedc7fb85ce24206"
     tagline = #'f
 }
 
@@ -79,4 +80,5 @@
         }
     }   
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "8a5348560326d215e9058d67990c615ec7407988"
     % Things that change per piece:
     title = "Guarda il mio stato"
     subtitle = ""
@@ -114,3 +115,4 @@
         }
     }
 }
+

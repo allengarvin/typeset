@@ -12,6 +12,7 @@
     lastupdated = "2023-01-01"
     originallyset = "2023-01-01"
     \include "include/distribution-header.ly"
+    cksum = "bcf9096aa51ed352980e7aff6f9799fcc979aa90"
     % Things that change per piece:
     title = "Chiaro segno Amor"
     subtitle = ""
@@ -111,3 +112,4 @@
         }
     }
 }
+

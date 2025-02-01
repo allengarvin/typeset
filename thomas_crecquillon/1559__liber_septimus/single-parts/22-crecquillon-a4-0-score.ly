@@ -12,6 +12,7 @@
     lastupdated = "2022-09-18"
     originallyset = "2022-09-18"
     \include "include/distribution-header.ly"
+    cksum = "3a6c8f795e500993c060c1cd61db98cb598ec50b"
     % Things that change per piece:
     title = "Ingemuit Susanna"
     subtitle = "Prima pars"
@@ -89,3 +90,4 @@
         }
     }
 }
+

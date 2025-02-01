@@ -14,6 +14,7 @@
     flats = 0
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "bcdcab45ead53f12d5fd554d822d8f9c4945b95e"
     % Things that change per piece:
     title = "Perfida pur potesti"
     subtitle = "Seconda parte"
@@ -117,3 +118,4 @@
         }
     }
 }
+

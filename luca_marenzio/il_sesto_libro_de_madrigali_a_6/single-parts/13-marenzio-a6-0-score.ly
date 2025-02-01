@@ -14,6 +14,7 @@
     flats = 1
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "446cf8cedb1887ca1137e2fe8fb10be9ad33cf4e"
     % Things that change per piece:
     title = "Dammi, pietosa morte"
     subtitle = "Quarta parte"
@@ -125,5 +126,6 @@
         }
     }
 }
+
 
 

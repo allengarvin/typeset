@@ -23,6 +23,7 @@
     shorttitle = "non_vidi_mai_dopo"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "0b123fcb81edd6ce8f3912df7a9a99be84ed4cfd"
     tagline = #'f
 }
 
@@ -107,4 +108,5 @@
         }
     }
 }
+
 

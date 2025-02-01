@@ -25,6 +25,7 @@
     shorttitle = "gira_lunga_stagion"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "a339bfd66a123e944addf8bc7514c6bca9ca984b"
     tagline = #'f
 }
 
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

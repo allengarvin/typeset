@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "8c1094bb1738ec60804b69d4eabb018c8352b9c0"
     % Things that change per piece:
     title = "Voi ch'ascoltate in rime sparse"
     subtitle = ""
@@ -113,3 +114,4 @@
         }
     }
 }
+

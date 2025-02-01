@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "9037f162e7500b590d7836288399f6b04611e304"
     % Things that change per piece:
     title = "Dolorosi martir, fieri tormenti"
     subtitle = ""
@@ -121,3 +122,4 @@
         }
     }
 }
+

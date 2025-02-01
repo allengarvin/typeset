@@ -14,6 +14,7 @@
     flats = 0
     final = "d"
     \include "include/distribution-header.ly"
+    cksum = "6e68b3aaa30eb8f48e9518f9c5800873127c25d1"
     % Things that change per piece:
     title = "Io dissi donn'il vero"
     subtitle = ""
@@ -112,3 +113,4 @@
         }
     }
 }
+

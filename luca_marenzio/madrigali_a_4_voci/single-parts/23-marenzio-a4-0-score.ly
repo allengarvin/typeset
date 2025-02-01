@@ -22,6 +22,7 @@
     shorttitle = "ma_per_me_lasso"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "94ee23100ba2fefa251bfac2425e2bc5a56fd9bc"
     tagline = #'f
 }
 
@@ -102,4 +103,5 @@
         }
     }
 }
+
 

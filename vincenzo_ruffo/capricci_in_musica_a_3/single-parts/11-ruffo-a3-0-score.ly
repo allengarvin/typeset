@@ -21,6 +21,7 @@
     final = "d"
     shorttitle = "dormendo_un_giorno"
     \include "include/distribution-header.ly"
+    cksum = "8490df0757a3bc60138f345abb1fefe5d9a9a20f"
     tagline = #'f
 }
 
@@ -66,4 +67,5 @@
         }
     }   
 }
+
 

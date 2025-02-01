@@ -25,6 +25,7 @@
     final = "g"
     shorttitle = "now_that_any_creature"
     \include "include/distribution-header.ly"
+    cksum = "5500529989a1a4532510641524ace4a65accf367"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
         \include "../include/vocal-layout-score-barring.ly"
     }   
 }
+
 

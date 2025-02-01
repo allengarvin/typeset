@@ -24,6 +24,7 @@
     shorttitle = "donna_felice"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "9a19077bc457f711ae0348ce331c26c07a6a4fb3"
     tagline = #'f
 }
 
@@ -98,4 +99,5 @@
         }
     }
 }
+
 

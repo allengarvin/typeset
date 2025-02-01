@@ -21,6 +21,7 @@
     final = "c"
     shorttitle = "hold_out_my_heart"
     \include "include/distribution-header.ly"
+    cksum = "ecfcbe19c11be6cb464ff6655fbece82a33fd9d2"
     tagline = #'f
 }
 
@@ -67,4 +68,5 @@
         \include "../include/layout-score.ly"
     }   
 }
+
 

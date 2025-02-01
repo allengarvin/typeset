@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "c753bd9f17952278e614c57724222202340a4e5e"
     % Things that change per piece:
     title = "Missa Salvum me fac"
     subtitle = "Kyrie"
@@ -104,3 +105,4 @@
         }
     }
 }
+

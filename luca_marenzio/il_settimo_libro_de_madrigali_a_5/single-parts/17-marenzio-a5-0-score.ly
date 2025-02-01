@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "e02090f5792e365c6f493473d12a6baeadbd5e26"
     % Things that change per piece:
     title = "Com'è dolce il gioire"
     subtitle = ""
@@ -148,3 +149,4 @@
         }
     }
 }
+

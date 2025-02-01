@@ -12,6 +12,7 @@
     lastupdated = "2023-05-20"
     originallyset = "2023-05-20"
     \include "include/distribution-header.ly"
+    cksum = "474df0ed4b00ed8237c770a194780d11927343c3"
     % Things that change per piece:
     title = "O quante volte in van"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

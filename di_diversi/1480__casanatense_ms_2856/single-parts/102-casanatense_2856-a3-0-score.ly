@@ -24,6 +24,7 @@
     final = "g"
     shorttitle = "tous_jours_me_souviendra"
     \include "include/distribution-header.ly"
+    cksum = "8fcf4b0e21380d619caa8728d5c424e5fb19fd1b"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

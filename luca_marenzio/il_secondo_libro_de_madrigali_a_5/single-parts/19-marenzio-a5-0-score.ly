@@ -24,6 +24,7 @@
     shorttitle = "gia_torna_a_rallegrar"
     categories = "[madrigal,spring,pastoral]"
     \include "include/distribution-header.ly"
+    cksum = "0b7e631782df9d817f91494650d3dd7a8a539ea4"
     tagline = #'f
 }
 
@@ -126,3 +127,4 @@
 %                \line { ch'io piango, e rido, e non la scorgo appena, }
 %                \line { ch'io scopro in lei mille vaghezze ascose, }
 %                \line { ed entro a l'alma un bel giardin di rose. }
+

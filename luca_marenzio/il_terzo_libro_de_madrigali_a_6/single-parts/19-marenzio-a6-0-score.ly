@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "c53d2421046b18fae8a8daa3e57ebadb55af9849"
     % Things that change per piece:
     title = "Con dolce sguardo"
     subtitle = "Prima e seconda parte"
@@ -130,3 +131,4 @@
         }
     }
 }
+

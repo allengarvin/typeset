@@ -25,6 +25,7 @@
     shorttitle = "la_martinenga"
     categories = "[canzona]"
     \include "include/distribution-header.ly"
+    cksum = "e947f61fd3ef182f1a5aa20fd303a432453d9013"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

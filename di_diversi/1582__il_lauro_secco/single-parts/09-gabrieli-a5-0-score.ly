@@ -26,6 +26,7 @@
     motifs = "[tree,winter,amore,frost,faded-love]"
     poeticform = "madrigal"
     \include "include/distribution-header.ly"
+    cksum = "ffe482c59b15c3ebf12ce9fd3f21e42f490761d8"
     tagline = #'f
 }
 
@@ -117,4 +118,5 @@
 
 
 }
+
 

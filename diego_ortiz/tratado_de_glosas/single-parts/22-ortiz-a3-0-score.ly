@@ -12,6 +12,7 @@
     lastupdated = "2015-09-27"
     originallyset = "2015-09-27"
     \include "include/distribution-header.ly"
+    cksum = "de60430478530e5db0fb4832fa0934675d4e3a39"
     % Things that change per piece:
     title = "Recercata I"
     subtitle = "sopra i tenori Italani"
@@ -68,3 +69,4 @@
         }
     }   
 }
+

@@ -24,6 +24,7 @@
     final = "a"
     shorttitle = "parce_domine"
     \include "include/distribution-header.ly"
+    cksum = "35cbefd88325da3b31b2bb4f81886fad704e132d"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

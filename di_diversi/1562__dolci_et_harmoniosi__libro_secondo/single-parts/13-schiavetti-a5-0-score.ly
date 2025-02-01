@@ -27,6 +27,7 @@
     shorttitle = "era_il_bel_viso_suo"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "37e1b41f285a74bd9cff7fe27ba33e6a9196b2a8"
     tagline = #'f
 }
 
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

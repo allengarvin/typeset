@@ -12,6 +12,7 @@
     lastupdated = "2023-02-05"
     originallyset = "2023-02-05"
     \include "include/distribution-header.ly"
+    cksum = "b815222de328d728ec65b90574c6379239a9830a"
     % Things that change per piece:
     title = "Basti fin qui le pene"
     subtitle = ""
@@ -159,3 +160,4 @@
         }
     }
 }
+

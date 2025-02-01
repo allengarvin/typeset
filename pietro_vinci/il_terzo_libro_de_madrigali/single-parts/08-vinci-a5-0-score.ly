@@ -14,6 +14,7 @@
     flats = 0
     final = "e"
     \include "include/distribution-header.ly"
+    cksum = "ed0d7cb59766914a9d11446c9d78982a94a5c3ae"
     % Things that change per piece:
     title = "Sappi, signor, che Lidia son io"
     subtitle = ""
@@ -122,3 +123,4 @@
         }
     }
 }
+

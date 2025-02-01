@@ -23,6 +23,7 @@
     final = "c"
     shorttitle = "miserere_nostri"
     \include "include/distribution-header.ly"
+    cksum = "7b8d064eeeff74db21b49e6f5919c67b491fc508"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

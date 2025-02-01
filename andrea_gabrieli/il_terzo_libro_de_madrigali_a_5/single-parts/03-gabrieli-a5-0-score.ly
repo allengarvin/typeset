@@ -12,6 +12,7 @@
     lastupdated = "2023-01-14"
     originallyset = "2023-01-14"
     \include "include/distribution-header.ly"
+    cksum = "94251f792b50de423a4d7be813e35a06e68fb22c"
     % Things that change per piece:
     title = "Voi siete in grand'errore"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

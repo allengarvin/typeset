@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "17e582bb3628c405bccf662a73eb5e9be3f58a08"
     % Things that change per piece:
     title = "Io mi rivolgo"
     subtitle = "Prima parte"
@@ -121,3 +122,4 @@
         }
     }
 }
+

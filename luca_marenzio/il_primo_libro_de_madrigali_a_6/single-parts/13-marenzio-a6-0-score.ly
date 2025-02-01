@@ -24,6 +24,7 @@
     categories = "[madrigal]"
     motifs = "[eyes,weeping,heart,amore]"
     \include "include/distribution-header.ly"
+    cksum = "369e6a2fb141912955a1d4a48bc53d8af3e8eeb3"
     tagline = #'f
 }
 
@@ -111,4 +112,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "748fff12cd6d862d4a413c62ab6936b8c46f4de8"
     % Things that change per piece:
     title = "A lieta vita Amor ci invita"
     subtitle = "L'innamorato"
@@ -176,4 +177,5 @@
         }
     }
 }
+
 

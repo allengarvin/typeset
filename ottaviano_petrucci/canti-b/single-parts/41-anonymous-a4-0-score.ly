@@ -23,6 +23,7 @@
     final = "g"
     shorttitle = "mon_pere_ma_dona_mari"
     \include "include/distribution-header.ly"
+    cksum = "d1d0e78aa5da2b6aabda8b5da3f489c0ab54bff4"
     tagline = #'f
 }
 
@@ -75,3 +76,4 @@
         }
     }   
 }
+

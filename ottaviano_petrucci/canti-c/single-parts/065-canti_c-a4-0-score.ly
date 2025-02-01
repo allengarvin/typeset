@@ -24,6 +24,7 @@
     final = "d"
     shorttitle = "quant_vostre_ymage"
     \include "include/distribution-header.ly"
+    cksum = "5ccffcd578874ac5912dd61bb724c8698ef76542"
     tagline = #'f
 }
 
@@ -75,4 +76,5 @@
 
     }   
 }
+
 

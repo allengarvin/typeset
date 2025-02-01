@@ -12,6 +12,7 @@
     lastupdated = "2023-01-15"
     originallyset = "2023-01-15"
     \include "include/distribution-header.ly"
+    cksum = "69041342b132eb6da6d6967743af938e0aec5ead"
     % Things that change per piece:
     title = "Al dolce volo di Cillenio apriva"
     subtitle = ""
@@ -115,3 +116,4 @@
         }
     }
 }
+

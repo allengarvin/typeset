@@ -24,6 +24,7 @@
     final = "c"
     shorttitle = "je_remerchi_dieu"
     \include "include/distribution-header.ly"
+    cksum = "9edf5386a3c6470f6db5a183a2090112f3efc102"
     tagline = #'f
 }
 
@@ -68,4 +69,5 @@
 
     }   
 }
+
 

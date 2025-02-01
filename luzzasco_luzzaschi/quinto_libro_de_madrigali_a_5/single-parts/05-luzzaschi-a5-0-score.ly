@@ -12,6 +12,7 @@
     lastupdated = "2022-11-05"
     originallyset = "2022-11-05"
     \include "include/distribution-header.ly"
+    cksum = "2ac7c3416281c8242823033faee101df9d8cd3e3"
     % Things that change per piece:
     title = "O miracol d'Amore"
     subtitle = ""
@@ -108,3 +109,4 @@
         }
     }
 }
+

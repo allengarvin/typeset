@@ -12,6 +12,7 @@
     lastupdated = "2022-10-07"
     originallyset = "2022-10-07"
     \include "include/distribution-header.ly"
+    cksum = "1161e7e2e6e95d518764fe0e7792a98b83f7ee52"
     % Things that change per piece:
     title = "Chi prende amor a gioco"
     subtitle = ""
@@ -124,3 +125,4 @@
         }
     }
 }
+

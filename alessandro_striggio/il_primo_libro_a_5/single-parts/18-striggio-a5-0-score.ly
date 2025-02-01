@@ -23,6 +23,7 @@
     shorttitle = "era_la_mia_virtu"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "a91f3cbc9506e8b0486e3f618b6c4da4ed8991de"
     tagline = #'f
 }
 
@@ -100,4 +101,5 @@
         }
     }
 }
+
 

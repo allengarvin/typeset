@@ -14,6 +14,7 @@
     flats = 1
     final = "a"
     \include "include/distribution-header.ly"
+    cksum = "3b50705fcb94abd0e85f3ed6099a8501b5d3a387"
     % Things that change per piece:
     title = "Un tempo, io mi credea"
     subtitle = "Ottava parte"
@@ -134,3 +135,4 @@
         }
     }
 }
+

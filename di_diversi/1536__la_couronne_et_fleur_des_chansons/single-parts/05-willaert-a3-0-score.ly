@@ -22,6 +22,7 @@
     final = "d"
     shorttitle = "qui_la_dira_la_peine"
     \include "include/distribution-header.ly"
+    cksum = "3fd04caaf7c2a21413b733b25d8266fe98b5ae00"
     tagline = #'f
 }
 
@@ -76,4 +77,5 @@
         }
     }
 }
+
 

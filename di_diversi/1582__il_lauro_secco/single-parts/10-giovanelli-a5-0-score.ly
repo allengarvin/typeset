@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "bf8ffcd6194d7750ca6eeaca8662cf9f14b8ee79"
     % Things that change per piece:
     title = "Nel foco d'un bel lauro"
     subtitle = ""
@@ -122,3 +123,4 @@
         }
     }
 }
+

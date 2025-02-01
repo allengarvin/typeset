@@ -23,6 +23,7 @@
     lastupdated = "2018-10-05"
     shorttitle = "ricercar_anchor_che_col_partire"
     \include "include/distribution-header.ly"
+    cksum = "322790383fe61d30bcec1faf54066b449572164b"
     tagline = #'f
     composer = \markup { \italic { tabulato da } Andrea Gabrieli (c.1532-1585) }
 }
@@ -62,3 +63,4 @@
         }
     }   
 }
+

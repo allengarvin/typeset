@@ -14,6 +14,7 @@
     flats = 0
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "4c911a09a62af4a216b54756a730477539edcb1f"
     % Things that change per piece:
     title = "Though Amaryllis daunce in green"
     subtitle = ""
@@ -141,3 +142,4 @@
         }
     }
 }
+

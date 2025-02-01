@@ -14,6 +14,7 @@
     flats = 1
     final = "c"
     \include "include/distribution-header.ly"
+    cksum = "6e36ae60ad375bb10153c9d3640a300d52b6bee5"
     % Things that change per piece:
     title = "Se s'acquetasse l'amorosa pioggia"
     subtitle = "Terza parte"
@@ -109,3 +110,4 @@
         }
     }
 }
+

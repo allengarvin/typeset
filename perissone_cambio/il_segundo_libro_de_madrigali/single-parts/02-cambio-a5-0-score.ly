@@ -25,6 +25,7 @@
     shorttitle = "amor_ma_posto"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "f4f31bc101ba88b023cef956a923aeff4b8c540c"
     tagline = #'f
 }
 
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

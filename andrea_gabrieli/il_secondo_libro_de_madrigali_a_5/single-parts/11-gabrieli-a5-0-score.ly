@@ -24,6 +24,7 @@
     shorttitle = "vaghi_augelletti"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    cksum = "d9ca5ffaa13a48bf9952585de1ddbcd089f4e536"
     tagline = #'f
 }
 
@@ -101,4 +102,5 @@
         }
     }
 }
+
 

@@ -14,6 +14,7 @@
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "fa6c946fe3023a355d76ba98f487d5034717f7b4"
     % Things that change per piece:
     title = "Ombrose e care selve"
     subtitle = ""
@@ -140,4 +141,5 @@
 }
 % 
 % Guarini, Il pastor fido, atto V, scena 8
+
 

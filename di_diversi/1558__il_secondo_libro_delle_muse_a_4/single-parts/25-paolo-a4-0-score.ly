@@ -14,6 +14,7 @@
     flats = 1
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "dea3ce2ea909f66b9e2958ff4f9e28b522114d8c"
     % Things that change per piece:
     title = "Pensier, dicea, che'l cor m'aggiacci ed ardi"
     subtitle = ""
@@ -123,4 +124,5 @@
         }
     }
 }
+
 

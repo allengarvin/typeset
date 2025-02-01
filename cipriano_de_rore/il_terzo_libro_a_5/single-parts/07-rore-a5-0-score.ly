@@ -14,6 +14,7 @@
     flats = 0
     final = "f"
     \include "include/distribution-header.ly"
+    cksum = "4f8544694b571b371279e02a45085220c632f555"
     % Things that change per piece:
     title = "Vegine, quante lagrime"
     subtitle = ""
@@ -131,3 +132,4 @@
         }
     }
 }
+

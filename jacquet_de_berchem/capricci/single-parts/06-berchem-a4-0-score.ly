@@ -27,6 +27,7 @@
     shorttitle = "che_debbo_far"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "0acd8f211b08ed9d324034b1bec2d58a4aaffff7"
     tagline = #'f
 }
 
@@ -104,4 +105,5 @@
         }
     }
 }
+
 

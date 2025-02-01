@@ -14,6 +14,7 @@
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"
+    cksum = "764c9df09e5782fe18b68cac46641e20d4fdbeaf"
     % Things that change per piece:
     title = "Dorinda, ah! dirò mia"
     subtitle = "Seconda parte"
@@ -139,3 +140,4 @@
         }
     }
 }
+

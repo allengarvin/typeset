@@ -28,6 +28,7 @@
     shorttitle = "chi_mette_il_pie"
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
+    cksum = "2ff14544090e75b1fd98337f2e8c2cc2118f5a69"
     tagline = #'f
 }
 
@@ -109,4 +110,5 @@
         }
     }
 }
+
 
