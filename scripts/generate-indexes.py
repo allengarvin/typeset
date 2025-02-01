@@ -377,6 +377,23 @@ def write_pieces(coll):
 
         if len(preview) == 1:
             p_html += "    " * 2 + '\n\n<center><img src="{}" alt="preview of first system of score" \/></center><p>\n\n'.format(basename(preview[0]))
+
+        # Added 2025-02-01:
+        if "high-clefs" in p.path:
+            normal_clef_path = p.path + "/../../single-parts/" + basename(p.path) 
+            if os.path.isdir(normal_clef_path) and len(glob.glob(normal_clef_path + "/*score.pdf")):
+                p_html += "<p>This is a transposition from the printed clefs due to <a href='https://en.wikipedia.org/wiki/Chiavette'>high clefs</a>. The original cleffing is <a href='{}'>available here.</a><p>\n\n".format("../../single-parts/" + basename(p.path))
+        else:
+            high_clef_path = p.path + "/../../high-clefs/" + basename(p.path)
+            if os.path.isdir(high_clef_path) and len(glob.glob(high_clef_path + "/*transposed*score.pdf")):
+                p_html += "<p>Due to the use of <a href='https://en.wikipedia.org/wiki/Chiavette'>high clefs</a> a transposition of this piece is <a href='{}'>available here.</a><p>\n\n".format("../../high-clefs/" + basename(p.path))
+#            print("HIGH CLEF TEST", high_clef_path)
+#            if os.path.isdir(high_clef_path):
+#                print("HIGH CLEF TEST", high_clef_path)
+#                print("isdir = ", os.path.isdir(high_clef_path))
+#                print("glob", glob.glob(high_clef_path + "/*transposed*score.pdf"))
+#                sys.exit(1)
+        
         score_files = sorted(glob.glob(p.path + "/*-score.pdf"))
         if len(score_files) == 0:
             print("NO SCORE FILE")
