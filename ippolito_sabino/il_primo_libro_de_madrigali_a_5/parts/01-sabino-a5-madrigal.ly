@@ -1,17 +1,17 @@
-Quand'il soave mio fido conforto
-per dar riposo a la mia vita stanca
-ponsi del letto in su la sponda manca
-con quel suo dolce ragionar accorto,
-tutto di pieta e di paura smorto
-dico: «Onde vien tu ora, o felice alma?»
-Un ramoscel di palma
-ed un di lauro trae dal suo bel seno,
-e dice: «Dal sereno
-ciel empireo e di quelle sante parti
-mi mossi e vengo sol per consolarti».
-
-#359
-Petrarca
+%Quand'il soave mio fido conforto
+%per dar riposo a la mia vita stanca
+%ponsi del letto in su la sponda manca
+%con quel suo dolce ragionar accorto,
+%tutto di pieta e di paura smorto
+%dico: «Onde vien tu ora, o felice alma?»
+%Un ramoscel di palma
+%ed un di lauro trae dal suo bel seno,
+%e dice: «Dal sereno
+%ciel empireo e di quelle sante parti
+%mi mossi e vengo sol per consolarti».
+%
+%#359
+%Petrarca
 cantoI = \relative c'' {
     \clef soprano
     \key c \major
