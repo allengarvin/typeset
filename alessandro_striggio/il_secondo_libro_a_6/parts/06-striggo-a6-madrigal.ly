@@ -1,3 +1,16 @@
+% Partirò dunque [ohimè mi manca il core
+% porgimi aita Amore]
+% ------------------------
+% 
+% Partirò dunque e perché mi s'asconde
+% il chiarissimo lampo
+% de' duo begl'occhi e delle trecce bionde
+% ond'io sì dentr'avampo
+% mi s'apparecchia campo acerb'e forte
+% di guerra anzi di morte
+% oh tristi pensier miei deh perch'almeno
+% non vede voi chi di reg'il freno.
+
 cantoVIincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major

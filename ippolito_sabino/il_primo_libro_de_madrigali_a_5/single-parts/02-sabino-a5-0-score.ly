@@ -13,6 +13,8 @@
     cksum = "cf9b835d6c6126c7d585fbedf49c02814fee2a37"
     lastupdated = "2025-02-01"
     originallyset = "2025-02-01"
+    flats = 0
+    final = "e"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "In atto ed in parole la ringrazio"

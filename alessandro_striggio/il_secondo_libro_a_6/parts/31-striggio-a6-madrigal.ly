@@ -171,22 +171,86 @@ tenoreXXXI = \relative c' {
 tenoreLyricsXXXI = \lyricmode {
 }
 
-bassoXXXI = \relative c {
-    \fourTwoCommonTime
-    \clef varbaritone
+bassoXXXIincipit = \relative c {
+    \time 4/4
+    \clef "petrucci-c4"
     \key c \major
 
+    a1
+}
+
+bassoXXXI = \relative c {
+    \fourTwoCommonTime
+    \clef tenor
+    \key c \major
+
+    a1 a2 d, | a' d c2. g4 | a2 d,
+
+    e1 | a r1 | R\breve*2 | r2 a d, c4 f ~ |F  d a'2 e
+
+    e2 | e4 a2 f d4 a'2 | d,1 r1 | R\breve*3 | r1 e2 e4 e | a2 a d,1 |
+        a'4 a d, d
+
+    g2 e4 c | f f d2 g r4 c, ~ | c8[ c] c4 f c e1 | a r1 | R\breve*2 |
+        r2 a
+
+    d2 c ~ | c4 c g2 a g | c d bf1 | a r1 | r2 r4 a d, g f c | d2
+
+    a'4 a d2 a | r4 d, g2 e4 c f2 | d4 d a'2 e a ~ | a d, a'1 | d,
+
+    % -- page --
+    d2 g | e a4.( g8 f4. e8 d4) d | g4.( f8 e4. d8 c2) g | r2 c, g'4 a
+
+    g2 | c, r4 d g g e e | a1 a | d,2 f4 c g'2 c, | f c4 f2 a4
+
+    e2 | \singleTime\time 3/2
+        a1 r2 | \colorBr d,1\colorBrBegin f2\colorBrEnd | c2 g'1 |
+        c2, f c | \colorBr f1 \colorBrBegin a2 ~ | a e1\colorBrEnd 
+        a1 r2 | \fourTwoCommonTime d,1 f
+
+    c,1 g' | c, f | c f | a e | a\longa*1/2
     \bar "|."
 }
 
 bassoLyricsXXXI = \lyricmode {
 }
 
-quintoXXXI = \relative c' {
-    \fourTwoCommonTime
-    \clef alto
+quintoXXXIincipit = \relative c' {
+    \time 4/4
+    \clef "petrucci-c4"
     \key c \major
 
+    a2
+}
+
+quintoXXXI = \relative c' {
+    \fourTwoCommonTime
+    \clef tenor
+    \key c \major
+
+    R\breve*3 | r2 a a d, | a' d c2. g4 | a2 d,
+
+    e1 | a2 r4 a2 f4 g a ~ | a a c2 b b |
+
+    b4 c2 c f4 e2 | d1 r1 | R\breve*3 | r1 b2 b4 b | a2 e' d1 | 
+        e4 e d d 
+
+    d2 g, | r4 a4. a8 a4 b b c2 | g r2 r1 | r2 a d c ~ | c4 c g2 a g |
+
+    c2 d bf1 | a r1 | R\breve*2 | r2 a d,4 g f c | d2 a'4 a a b c c |
+
+    a2 a r2 r4 a | d2 b4 g2 c a4 | r4 a2 e' e4 e e | a,2 a r1 | 
+    
+    r2 r4 a2 d b4 ~ | b e4.( d8 c4. b8 a4) a d ~ | d8([ c] b4. a8 g2 c b4) |
+    % --- page ---
+    c2 c d4 c c b | c2 r4 a b b b b | cs1 cs | r4 a a g
+
+    g2. e4 | a2 g4 a2 a4 b2 |\singleTime\time 3/2
+        cs1 r2 \colorBr a1\colorBrBegin a2\colorBrEnd |
+        g2 g1 e2 a g |
+
+    a2.( b4 c2) a b1 | cs r2
+        
     \bar "|."
 }
 
