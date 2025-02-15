@@ -3,7 +3,7 @@
 % Che'l cor m'han arso, e gli occhi volt'in fiumi
 % Si che d'estrema pena ogni'or mi vanto
 % Ahime! lume fulgente, dolce e santo
-% Che il mar la terra el ciel adorni e allumi,
+% Che il mar, la terra e'l ciel adorni e allumi,
 % Veggio in tua vece sassi, sterpi e dumi
 % Che noioso non è l'inferno tanto.
 
@@ -51,10 +51,10 @@ cantoLyricsIV = \lyricmode {
     Che'l cor m'han -- n'ar -- so, __
     \normalLyrics
     e gli~oc -- chi vol -- t'in fiu -- mi
-    Si che d'e -- stre -- ma pe -- na __ o -- gni~or mi __ van -- to
+    Si che d'e -- stre -- ma pe -- na __ o -- gnor mi __ van -- to
     Ahi -- me! 
     Ahi -- me! lu -- me ful -- gen -- te, dol -- ce~e san -- to
-    Che~il mar la ter -- ra~el ciel __ a -- dor -- ni~e~al -- lu -- mi, __
+    Che~il mar, la ter -- ra~el ciel __ a -- dor -- ni~e~al -- lu -- mi: __
     Veg -- gio~in tua ve -- ce sas -- si, ster -- pi~e du -- mi,
         sas -- si, ster -- pi~e du -- mi,
     Che no -- io -- so non è l'in -- fer -- no __ tan -- to,
@@ -104,11 +104,11 @@ altoLyricsIV = \lyricmode {
     \normalLyrics
     e gli~oc -- chi,
     e gli~oc -- chi vol -- t'in fiu -- mi __
-    Si che d'e -- stre -- ma pe -- na o -- gni~or mi van -- to
-        o -- gni~or mi van -- to
+    Si che d'e -- stre -- ma pe -- na o -- gnor mi van -- to
+        o -- gnor mi van -- to
     Ahi -- me! 
     Ahi -- me! lu -- me ful -- gen -- te, dol -- ce~e san -- to
-    Che~il mar la ter -- ra el ciel a -- dor -- ni~e~al -- lu -- mi, 
+    Che~il mar, la ter -- ra e'l ciel a -- dor -- ni~e~al -- lu -- mi: 
     Veg -- gio~in tua ve -- ce sas -- si, ster -- pi~e du -- mi,
         sas -- si, ster -- pi~e du -- mi,
     Che __ no -- io -- so non è,
@@ -153,14 +153,14 @@ tenoreLyricsIV = \lyricmode {
     O -- ve~io non veg -- gio, quei ful -- gen -- ti lu -- mi
     Che'l cor m'han -- n'ar -- so, e gli~oc -- chi vol -- t'in fiu -- mi
         in fiu -- mi
-    Si che d'e -- stre -- ma pe -- na o -- gni~or mi van -- to
+    Si che d'e -- stre -- ma pe -- na o -- gnor mi van -- to
     \ijLyrics
-        o -- gni~or mi van -- to
+        o -- gnor mi van -- to
     \normalLyrics
     Ahi -- me! 
     Ahi -- me! lu -- me ful -- gen -- te, dol -- ce~e san -- to
-    Che~il mar la ter -- ra~el ciel a -- dor -- ni,
-        a -- dor -- ni~e~al -- lu -- mi, 
+    Che~il mar, la ter -- ra~el ciel a -- dor -- ni,
+        a -- dor -- ni~e~al -- lu -- mi: 
     Veg -- gio~in tua ve -- ce sas -- si, ster -- pi~e du -- mi,
         sas -- si, ster -- pi~e du -- mi,
     \ijLyrics
@@ -207,10 +207,10 @@ bassoLyricsIV = \lyricmode {
     O -- ve~io non veg -- gio,
     O -- ve~io non veg -- gio, quei ful -- gen -- ti lu -- mi __
     Che'l cor m'han -- n'ar -- so, e gli~oc -- chi vol -- t'in fiu -- mi
-    Si che d'e -- stre -- ma pe -- na o -- gni~or mi van -- to,
-        o -- gni~or mi van -- to __
+    Si che d'e -- stre -- ma pe -- na o -- gnor mi van -- to,
+        o -- gnor mi van -- to __
     Ahi -- me! lu -- me ful -- gen -- te, 
-    Che~il mar la ter -- ra~el ciel __ a -- dor -- ni~e~al -- lu -- mi, 
+    Che~il mar, la ter -- ra~el ciel __ a -- dor -- ni~e~al -- lu -- mi: 
     Veg -- gio~in tua ve -- ce __ sas -- si, ster -- pi~e du -- mi,
         sas -- si, ster -- pi~e du -- mi,
     Che no -- io -- so non è,
@@ -255,11 +255,11 @@ quintoLyricsIV = \lyricmode {
     O -- ve~io non veg -- gio, quei ful -- gen -- ti lu -- mi
     Che'l cor m'han -- n'ar -- so, e gli~oc -- chi vol -- t'in fiu -- mi
     Si che d'e -- stre -- ma pe -- na,
-        d'e -- stre -- ma pe -- na o -- gni~or mi __ van -- to
-        o -- gni~or mi van -- to
+        d'e -- stre -- ma pe -- na o -- gnor mi __ van -- to
+        o -- gnor mi van -- to
     Ahi -- me! 
     Ahi -- me! lu -- me ful -- gen -- te, dol -- ce~e san -- to
-    Che~il mar la ter -- ra el __ ciel a -- dor -- ni~e~al -- lu -- mi, 
+    Che~il mar, la ter -- ra e'l __ ciel a -- dor -- ni~e~al -- lu -- mi: 
     Veg -- gio~in tua ve -- ce,
     Veg -- gio~in tua ve -- ce sas -- si, ster -- pi,
         sas -- si, ster -- pi~e du -- mi,

@@ -1,7 +1,7 @@
 %    Così le chiome mie, soavemente
 %    Parlando, cinse e in sì dolci legami
 %    Mi strinse il cor, ch'altro piacer non sente:
-%    Onde non fia giàmai che più non l'ami
+%    Onde non fia giamai che più non l'ami
 %    Degli occhi miei, né fia che la mia mente
 %    Altri sospiri o desiando io chiami.
 
@@ -48,7 +48,7 @@ cantoLyricsII = \lyricmode {
     \normalLyrics
         ch'al -- tro pia -- cer non sen -- te:
         ch'al -- tro pia -- cer
-    On -- de non fia già -- mai che più non l'a -- mi
+    On -- de non fia gia -- mai che più non l'a -- mi
         che più non l'a -- mi~as -- sai
     De -- gli~oc -- chi mie -- i, % né fia che la mia mente
     Al -- tri so -- spi -- ri~o de -- si -- an -- do~io chia -- mi,
@@ -100,8 +100,8 @@ altoLyricsII = \lyricmode {
     Par -- lan -- do, cin -- se e~in sì dol -- ci le -- ga -- mi,
         dol -- ci le -- ga -- mi
     Mi strin -- se~il cor, ch'al -- tro pia -- cer non sen -- te:
-    On -- de non fia già -- mai,
-    On -- de non fia già -- mai che più non l'a -- mi
+    On -- de non fia gia -- mai,
+    On -- de non fia gia -- mai che più non l'a -- mi
     De -- gli~oc -- chi mie -- i, né fia che la __ mia men -- te
     Al -- tri so -- spi -- ri~o de -- si -- an -- do~io chia -- mi,
     Al -- tri so -- spi -- ri~o de -- si -- an -- do~io __ chia -- mi,
@@ -156,8 +156,8 @@ tenoreLyricsII = \lyricmode {
         dol -- ci le -- ga -- mi
     Mi strin -- se~il cor,
     Mi strin -- se~il cor, ch'al -- tro pia -- cer non sen -- te:
-    On -- de non fia già -- mai che più non l'a -- mi,
-        non fia già -- mai che più non l'a -- mi
+    On -- de non fia gia -- mai che più non l'a -- mi,
+        non fia gia -- mai che più non l'a -- mi
         né fia che la mia men -- te,
             che la mia men -- te
     Al -- tri so -- spi -- ri~o de -- si -- an -- do~io chia -- mi,
@@ -206,7 +206,7 @@ bassoLyricsII = \lyricmode {
     Mi strin -- se~il cor, 
     \normalLyrics
         ch'al -- tro pia -- cer non sen -- te:
-    On -- de non fia già -- mai che più non l'a -- mi
+    On -- de non fia gia -- mai che più non l'a -- mi
     De -- gli~oc -- chi mie -- i, né fia che la mia men -- te
     Al -- tri so -- spi -- ri~o de -- si -- an -- do,
     Al -- tri so -- spi -- ri~o de -- si -- an -- do~io chia -- mi,
@@ -260,7 +260,7 @@ quintoLyricsII = \lyricmode {
     \normalLyrics
         ch'al -- tro pia -- cer non sen -- te,
         ch'al -- tro pia -- cer non sen -- te:
-    On -- de non fia già -- mai che più non l'a -- mi
+    On -- de non fia gia -- mai che più non l'a -- mi
     De -- gli~oc -- chi mie -- i, né fia che la mia men -- te
     Al -- tri so -- spi -- ri~o de -- si -- an -- do~io chia -- mi,
         de -- si -- an -- do~io chia -- mi, __

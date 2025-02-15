@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "tu_canti_e_canto_anchio"
     shortcomp = "wert"
-    needtranslation = #'t
+    needtranslation = #'f
 
     % Unchanging:
     language = "italian"
@@ -24,7 +24,7 @@
     originallyset = "2020-09-16"
     flats = 1
     final = "g"
-    categories = "[madrigal]"
+    categories = "[madrigal,singing,bird,torment,oxymoron]"
     \include "include/distribution-header.ly"
     cksum = "eeeea7f26dbe89275003e4407c03d0eeb5bee611"
     tagline = #'f
@@ -93,14 +93,26 @@
     \markup {
         \fill-line {
             \column {
+                % teensy touchup: 2025-02-14
                 \line { Tu canti e canto anch'io, }
                 \line { augelletto soave, }
                 \line { ma il tuo cantar e'l mio }
-                \line { una stessa cagion lassa non ave. }
+                \line { una stessa cagion, lassa, non ave. }
                 \line { D'allegrezza il tuo canto }
                 \line { nasce: il mio di desire }
                 \line { di celare il martire }
                 \line { che mi consuma e l'angoscioso pianto. }
+            }
+            \column {
+                \line { You sing and I also sing, }
+                \line { sweet little bird, }
+                \line { but your song and mine }
+                \line { alas, do not have the same cause. }
+                \line { From joy your song }
+                \line { is born: mine of longing }
+                \line { to conceal the torment }
+                \line { and the anguished weeping that consumes me.  }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

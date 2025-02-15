@@ -1,5 +1,5 @@
-% Poscia che per mio mal vi son si lunge
-% Non sia ceca la vista de la mente
+% Poscia ché per mio mal vi son sì lunge
+% Non sia ceca la vista del -- la mente
 % Ch'ogn'or mi rende la gentil sembianza
 % M'ascicura e spaventa sana'e punge
 % Talor spem'e timor cosi sovente
@@ -36,13 +36,13 @@ cantoV = \relative c' {
 }
 
 cantoLyricsV = \lyricmode {
-    Po -- scia che per mio mal __ vi son si lun -- ge
-    Non sia ce -- ca la vi -- sta de la men -- te __
-        la vi -- sta de la men -- te, __
-    Ch'o -- gni~or mi ren -- de la __ gen -- til sem -- bian -- za,
+    Po -- scia ché per mio mal __ vi son sì lun -- ge
+    Non sia ce -- ca la vi -- sta del -- la men -- te __
+        la vi -- sta del -- la men -- te, __
+    Ch'o -- gnor mi ren -- de la __ gen -- til sem -- bian -- za,
         la gen -- til sem -- bian -- za,
-    M'a -- sci -- cu -- ra~e spa -- ven -- ta sa -- na~e pun -- ge
-    Ta -- lor spe -- m'e ti -- mor co -- si so -- ven -- te,
+    M'a -- sci -- cu -- ra~e spa -- ven -- ta, sa -- na~e pun -- ge,
+    Ta -- lor spe -- m'e ti -- mor co -- sì so -- ven -- te,
         so -- ven -- te,
     Cre -- sce~il pian -- to,
     Cre -- sce~il pian -- to~e'l do -- lo -- re  __
@@ -79,14 +79,14 @@ altoV = \relative c' {
 }
 
 altoLyricsV = \lyricmode {
-    Po -- scia che per mio mal vi son __ si lun -- ge
-    Non sia ce -- ca la vi -- sta de la men -- te 
+    Po -- scia ché per mio mal vi son __ sì lun -- ge
+    Non sia ce -- ca la vi -- sta del -- la men -- te 
     Non sia ce -- ca,
-    Ch'o -- gni~or mi ren -- de la gen -- til sem -- bian -- za,
+    Ch'o -- gnor mi ren -- de la gen -- til sem -- bian -- za,
         la __ gen -- til sem -- bian -- za,
-    M'a -- sci -- cu -- ra~e spa -- ven -- ta sa -- na~e pun -- ge
-    Ta -- lor spe -- m'e ti -- mor co -- si so -- ven -- te,
-        co -- si so -- ven -- te,
+    M'a -- sci -- cu -- ra~e spa -- ven -- ta, sa -- na~e pun -- ge,
+    Ta -- lor spe -- m'e ti -- mor co -- sì so -- ven -- te,
+        co -- sì so -- ven -- te,
     Cre -- sce~il pian -- to,
     Cre -- sce~il pian -- to~e'l do -- lo -- re  
         ch'o -- gni~al -- tro~a -- van -- za, 
@@ -123,13 +123,13 @@ tenoreV = \relative c' {
 }
 
 tenoreLyricsV = \lyricmode {
-    Po -- scia che per mio mal vi son si lun -- ge
-    Non __ sia ce -- ca la vi -- sta de la men -- te 
-    Non __ sia ce -- ca la vi -- sta de la men -- te 
-    Ch'o -- gni~or mi ren -- de la gen -- til sem -- bian -- za,
+    Po -- scia ché per mio mal vi son sì lun -- ge
+    Non __ sia ce -- ca la vi -- sta del -- la men -- te 
+    Non __ sia ce -- ca la vi -- sta del -- la men -- te 
+    Ch'o -- gnor mi ren -- de la gen -- til sem -- bian -- za,
         la gen -- til sem -- bian -- za,
-    M'a -- sci -- cu -- ra~e spa -- ven -- ta sa -- na~e pun -- ge
-    Ta -- lor spe -- m'e ti -- mo -- re co -- si so -- ven -- te,
+    M'a -- sci -- cu -- ra~e spa -- ven -- ta, sa -- na~e pun -- ge,
+    Ta -- lor spe -- m'e ti -- mo -- re co -- sì so -- ven -- te,
     Cre -- sce~il pian -- to,
     Cre -- sce~il pian -- to e'l do -- lo -- re  
         ch'o -- gni~al -- tro~a -- van -- za, 
@@ -162,13 +162,13 @@ bassoV = \relative c {
 }
 
 bassoLyricsV = \lyricmode {
-    Po -- scia che per mio mal vi son si lun -- ge,
-        vi son si lun -- ge __
-    Non __ sia ce -- ca la vi -- sta de la men -- te 
-    Ch'o -- gni~or mi ren -- de,
-    Ch'o -- gni~or mi ren -- de la gen -- til sem -- bian -- za,
-    Ta -- lor spe -- m'e ti -- mor co -- si so -- ven -- te,
-        co -- si so -- ven -- te,
+    Po -- scia ché per mio mal vi son sì lun -- ge,
+        vi son sì lun -- ge __
+    Non __ sia ce -- ca la vi -- sta del -- la men -- te 
+    Ch'o -- gnor mi ren -- de,
+    Ch'o -- gnor mi ren -- de la gen -- til sem -- bian -- za,
+    Ta -- lor spe -- m'e ti -- mor co -- sì so -- ven -- te,
+        co -- sì so -- ven -- te,
     Cre -- sce~il pian -- to __ e'l __ do -- lo -- re   __
         ch'o -- gni~al -- tro~a -- van -- za, 
         ch'o -- gni~al -- tro~a -- van -- za, 
@@ -207,17 +207,17 @@ quintoV = \relative c' {
 }
 
 quintoLyricsV = \lyricmode {
-    Po -- scia che per mio ma -- le vi son si lun -- ge,
+    Po -- scia ché per mio ma -- le vi son sì lun -- ge,
     \ijLyrics
-        vi son si lun -- ge
+        vi son sì lun -- ge
     \normalLyrics
-    Non sia ce -- ca la vi -- sta de la men -- te 
-    Non sia ce -- ca la vi -- sta de la men -- te __
-    Ch'o -- gni~or mi ren -- de la __ gen -- til sem -- bian -- za,
+    Non sia ce -- ca la vi -- sta del -- la men -- te 
+    Non sia ce -- ca la vi -- sta del -- la men -- te __
+    Ch'o -- gnor mi ren -- de la __ gen -- til sem -- bian -- za,
         gen -- til sem -- bian -- za,
-    M'a -- sci -- cu -- ra~e spa -- ven -- ta sa -- na~e pun -- ge
-    Ta -- lor spe -- m'e ti -- mo -- re co -- si so -- ven -- te,
-        co -- si so -- ven -- te,
+    M'a -- sci -- cu -- ra~e spa -- ven -- ta, sa -- na~e pun -- ge,
+    Ta -- lor spe -- m'e ti -- mo -- re co -- sì so -- ven -- te,
+        co -- sì so -- ven -- te,
     Cre -- sce~il pian -- to,
     Cre -- sce~il pian -- to~e'l do -- lo -- re  
         ch'o -- gni~al -- tro~a -- van -- za, 

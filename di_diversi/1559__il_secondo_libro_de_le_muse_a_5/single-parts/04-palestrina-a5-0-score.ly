@@ -93,14 +93,27 @@
     \markup {
         \fill-line {
             \column {
+                % italian touchup: 2025-02-14
                 \line { Ogni loco mi porge doglia e pianto, }
-                \line { Ov'io non veggio quei fulgenti lumi }
-                \line { Che'l cor m'han arso, e gli occhi volt'in fiumi }
-                \line { Si che d'estrema pena ogni'or mi vanto }
+                \line { ov'io non veggio quei fulgenti lumi }
+                \line { che'l cor m'han arso, e gli occhi volt'in fiumi }
+                \line { sì che d'estrema pena ognor mi vanto. }
                 \line { Ahime! lume fulgente, dolce e santo }
-                \line { Che il mar la terra el ciel adorni e allumi, }
-                \line { Veggio in tua vece sassi, sterpi e dumi }
-                \line { Che noioso non è l'inferno tanto. }
+                \line { che il mar, la terra e'l ciel adorni e allumi: }
+                \line { veggio in tua 'vece sassi, sterpi e dumi }
+                \line { che noioso non è l'inferno tanto. }
+            }
+            \column {
+                % translation: 2025-02-14
+                \line { Every place brings me sorrow and weeping }
+                \line { where I do not see those shining lights }
+                \line { that have burned my heart and turned my eyes into rivers, }
+                \line { such that I always boast of my extreme pain. }
+                \line { Alas! Shining light, sweet and holy, }
+                \line { that adorns the sea, the earth and the sky: }
+                \line { I see in your stead rocks, brush and thorns, }
+                \line { so that hell itself is not so tormenting. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }

@@ -93,12 +93,24 @@
     \markup {
         \fill-line {
             \column {
-                \line { Poscia che per mio mal vi son si lunge }
-                \line { Non sia ceca la vista de la mente }
-                \line { Ch'ogn'or mi rende la gentil sembianza }
-                \line { M'ascicura e spaventa sana'e punge }
-                \line { Talor spem'e timor cosi sovente }
-                \line { Cresce'il pianto e'l dolore ch'ogn'altro avanza. }
+                % Italian touchup: 2025-02-15
+                % several mistakes!
+                \line { Poscia ché per mio mal vi son sì lunge }
+                \line { non sia ceca la vista della mente, }
+                \line { ch'ognor mi rende la gentil sembianza, }
+                \line { m'ascicura e spaventa, sana e punge, }
+                \line { talor speme e timor così sovente }
+                \line { cresce il pianto e'l dolore ch'ogn'altro avanza. }
+            }
+            \column {
+                % translation: 2025-02-15
+                \line { Since in my suffering I am so far from you }
+                \line { let not the vision of my mind be blind, }
+                \line { for it always brings back your lovely countenance, }
+                \line { assures and fightens me, heals and wounds, }
+                \line { at times hope and fear so frequently }
+                \line { grow that my weeping and pain surpass all else. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

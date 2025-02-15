@@ -23,7 +23,9 @@
     originallyset = "2013-09-22"
     lastupdated = "2013-09-22"
     shorttitle = "vestiva_i_colli"
+    folio = "Ippolito Capilupi (1511-1580)"
     \include "include/distribution-header.ly"
+    source = \markup { \italic { Il desiderio, secondo libro de' madrigali a 5 voci di diverse } (Scotto press, Venice, 1566) }
     tagline = #'f
 }
 

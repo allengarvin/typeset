@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 15.5)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -15,7 +15,7 @@
     composer = "Giovanni Pierluigi da Palestrina (1525-1594)"
     folio = "Lelio Capilupi (1497-1560)"
     instrument = "Così le chiome mie (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -24,8 +24,10 @@
     flats = 0
     final = "a"
     shorttitle = "cosi_le_chiome_mie"
+    folio = "Ippolito Capilupi (1511-1580)"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    source = \markup { \italic { Il desiderio, secondo libro de' madrigali a 5 voci di diverse } (Scotto press, Venice, 1566) }
     cksum = "01ac86473b572bac54112633e0dfdc7cf9eac453"
     tagline = #'f
 }
@@ -37,7 +39,9 @@
     \bookOutputSuffix "--0-score"
     \score {
         <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #4.8
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoIIincipitVoice
@@ -91,12 +95,24 @@
     \markup {
         \fill-line {
             \column {
+                % itlaian touchup (minor): 2025-02-15
                 \line { Così le chiome mie, soavemente } 
-                \line { Parlando, cinse e in sì dolci legami } 
-                \line { Mi strinse il cor, ch'altro piacer non sente: } 
-                \line { Onde non fia giàmai che più non l'ami } 
-                \line { Degli occhi miei, né fia che la mia mente } 
-                \line { Altri sospiri o desiando io chiami. } 
+                \line { parlando, cinse e in sì dolci legami } 
+                \line { mi strinse il cor, ch'altro piacer non sente. } 
+                \line { Onde non fia giamai che più non l'ami } 
+                \line { degli occhi miei, né fia che la mia mente } 
+                \line { altri sospiri o desiando io chiami. } 
+            }
+            \column {
+                % translation: 2024-02-15
+                % not certain about last two lines
+                \line { Thus, speaking softly, }
+                \line { he garlanded my tresses and with such sweet ties }
+                \line { bound my heart, that no other joy do I feel. }
+                \line { Thus never shall I I love him less }
+                \line { in my eyes, nor shall my mind }
+                \line { call out, desiring, for sighs other than his. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

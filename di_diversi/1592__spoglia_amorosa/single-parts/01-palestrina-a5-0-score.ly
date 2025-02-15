@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.5)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
@@ -14,7 +14,8 @@
     subtitle = "Prima parte"
     composer = "Giovanni Pierluigi da Palestrina (1525-1594)"
     instrument = "Vestiva i colli (score)"
-    needtranslation = #'t
+    needtranslation = #'f
+    folio = "Ippolito Capilupi (1511-1580)"
     language = "italian"
 
     % Unchanging:
@@ -25,6 +26,8 @@
     shorttitle = "vestiva_i_colli"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
+    % I set it here but I want to make it clear it's from an older source
+    source = \markup { \italic { Il desiderio, secondo libro de' madrigali a 5 voci di diverse } (Scotto press, Venice, 1566) }
     cksum = "00bcee6b543fdc181cae921fc9c6b1b7036fd949"
     tagline = #'f
 }
@@ -36,7 +39,9 @@
     \bookOutputSuffix "--0-score"
     \score {
         <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #4.8
+            } <<
                 \new Voice << 
                     \set Staff.instrumentName = #"Canto"
                     \incipit \cantoIincipitVoice
@@ -97,7 +102,18 @@
                 \line { quando Licori, a l'apparir del giorno, }
                 \line { cogliendo di sua man purpurei fiori, }
                 \line { mi disse in guidardon di tanti ardori: }
-                \line { A te li colgo ed ecco, io te n'adorno. }
+                \line { «A te li colgo ed ecco, io te n'adorno.» }
+            }
+            \column {
+                \line { Spring clothed the hills and the fields around }
+                \line { with new splendor, }
+                \line { and breathed sweet Arabian fragrances, }
+                \line { encircled with herbs, its locks adorned by leaves, }
+                \line { when Licori, at the appearance of dawn, }
+                \line { gathering by his hand purple flowers, }
+                \line { said to me, in reward for such ardor: }
+                \line { 'For you I pick these, and look, I adorn you with them.' }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

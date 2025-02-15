@@ -101,7 +101,7 @@
                 \line { uscian cantando mille vaghi augelli. }
             }
             \column {
-                \line { The Shepherd wailed his bagpipes in the wind, }
+                \line { The Shepherd skirled his bagpipes in the wind, }
                 \line { for Filli or [perhaps] for Ne, }
                 \line { while more honoring he who gave to Laura }
                 \line { virtuous love and perpetual and true praise1 }
