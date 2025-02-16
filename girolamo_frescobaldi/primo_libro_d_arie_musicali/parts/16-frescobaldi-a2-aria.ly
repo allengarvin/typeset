@@ -21,10 +21,10 @@ cantoXVI = \relative c'' {
     bf a bf c d e f2 ) f, g | g1 g2 r2 a( bf) |
         c g( a) f( e f ) | g1. r2 a1 |
         b1 cs2 d g,2. f4 |
-    e1. | \time 4/4 d1 | r4 d'2 d8 d | ef4. f8 c4 c |
-        r8 a c8. c16 c8 d bf8. bf16 | r8 bf bf8. c16 af8. g16 g4 |
-    g2 r4 a8 a | a8 a16 g a8 a r8 b b b | b4. fs8 gs4 gs |
-        r8 b b c c8. d16 b4 |
+    e1. | \time 4/4 d1 | r4 d'2 d8[ d] | ef4. f8 c4 c |
+        r8 a c8.[ c16] c8[ d] bf8.[ bf16] | r8 bf bf8.[ c16] af8.[ g16] g4 |
+    g2 r4 a8[ a] | a8[ a16 g] a8[ a] r8 b b[ b] | b4. fs8 gs4 gs |
+        r8 b b[ c] c8.[ d16] b4 |
     \key c \major
     \time 3/2
     a1. | r2 g1 | e2 c'1 | a2 d4 ( c d ) a | b1 b2 |
@@ -35,14 +35,14 @@ cantoXVI = \relative c'' {
     r2 d1 g1 g2 | a1 a2 | b1. ~ | b1. ~ | b1. ~ |
         b2 ( a2. b4 g a fs1)  | e1 b'2 | d1. |
     e,2 a g | fs1. |
-    \time 4/4 e2 r8 b' b8. b16 | r8 c4 d8 b4 b |
-        r8 d d8. a16 a8. g16 b4 | b2 r8 c c4 |
-    r8 g g f a4 a | r8 a a8. b16 c[ a b c] d8. a16 |
-        b4 b r8 gs gs gs | gs8. a16 b4 b2 | r4 cs8 cs cs4 ds8 e |
+    \time 4/4 e2 r8 b' b8.[ b16] | r8 c4 d8 b4 b |
+        r8 d d8.[ a16] a8.[ g16] b4 | b2 r8 c c4 |
+    r8 g g[ f] a4 a | r8 a a8.[ b16] c([ a b c] d8.)[ a16] |
+        b4 b r8 gs gs[ gs] | gs8.[ a16] b4 b2 | r4 cs8[ cs] cs4 ds8[ e] |
     a,1 ~ | a1 ~ | a4. ( g16[ f] e2) |
     \key f \major
     \time 3/2
-        d1. | R1.*3 |
+        d1. | R1.*2 | R1.
     r2 a'1 | a a2 | d fs, g a1 a2 | r2 f4 ( g a bf ) |
         c1 d2 | d1 d2 d1 cs2 |
         r2 a4 ( g a bf ) | c ( d e c f e |
@@ -62,37 +62,42 @@ cantoXVI = \relative c'' {
 
 
 cantoLyricsXVI = \lyricmode {
-    Co -- sì mi di -- sprez -- za -- "te?"
-    Co -- sì voi voi mi bur -- la -- "te?"
-    Tem -- po ver -- ra ch'a -- mo __ re
-    Fa -- ra di __ vo -- stro __ co -- re
+    Co -- sì mi di -- sprez -- za -- te?
+    Co -- sì voi voi mi bur -- la -- te?
+    Tem -- po ve -- rà ch'A -- mo -- re
+    Fa -- rà di __ vo -- stro __ co -- re
+    Quel, quel, quel che fa -- te del mi -- o!
 
-    Quel, quel, quel che fa -- te del mi -- o,
-    Non più pa -- ro -- le, ad -- di -- o ad -- di -- o "'di" -- o
+    Non __ più pa -- ro -- le, ad -- di -- o ad -- di -- o 'di -- o!
     Da -- te -- mi pur mar -- ti -- ri,
     Bur -- la -- te~i miei sos -- pi -- ri,
     Ne -- ga -- te mi mer -- ce -- de,
-    Ol -- trag -- già -- te mia fe -- de,
-    Ch'in voi ve dre -- te po -- i
-    Quel che mi fa -- te vo -- i
+    Ol -- trag -- gia -- te mia fe -- de:
+    Ch'in voi ve -- dre -- te po -- i
+    Quel che mi fa -- te vo -- i.
+
     Bel -- tà sem -- pre non __ re -- gna,
     E s'el -- la pur v'in -- se -- gna
     A dis -- pre -- giar mi -- a __ fé,
-    Cre -- de -- te pur a __ me,
+    Cre -- de -- te pur a __ me:
     Che s'og -- gi m'an -- ci -- de -- te,
     Do -- man vi pen -- ti -- re -- te.
-    No ne -- go gi -- à, ch'in voi
-    A -- mor ha i pre -- gi suoi
+
+    No ne -- go già, ch'in vo -- i
+    A -- mor ha~i pre -- gi suo -- i
     Ma so, ch'il tem -- po cas -- sa
-    Bel -- tà, che fug -- ge e pas -- sa
+    Bel -- tà, che fug -- g'e pas -- sa.
     Se non vo -- le -- te~a -- ma -- re,
-    Io non vo -- glio pa -- na -- re,
+    Io non vo -- glio pe -- na -- re.
+
     Il vo -- stro bi -- on -- do cri -- ne,
     Le __ guan -- ce pur -- pu -- ri -- ne
     Ve -- lo -- ci più __ che mag -- gio
     To -- sto sa -- ran pas -- sag -- gio,
-    prez -- za -- te -- gli prez -- za -- te -- gli pur vo -- i,
-    ch'io ri -- de -- rò ch'io ri --  de -- rò __ ben __  po -- i.
+    Prez -- za -- te -- gli,
+        prez -- za -- te -- gli pur vo -- i,
+    Ch'io ri -- de -- rò,
+        Ch'io ri -- de -- rò __ ben __  po -- i.
 }
 
 

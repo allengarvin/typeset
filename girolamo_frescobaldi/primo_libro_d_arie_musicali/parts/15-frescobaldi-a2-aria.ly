@@ -17,7 +17,7 @@ cantoXV = \relative c'' {
     d'2^\markup "Seconda Parte" bf g | fs d d' |
         bf2 bf4\melisma a bf g\melismaEnd | a\melisma g a bf\melismaEnd c2 |
         c f ef | d bf a | a1 g2 | a1.
-    d2 a bf | fs fs4 g\melisma a fs\melismaEnd |
+    d2 a bf | fs fs4\melisma g a fs\melismaEnd |
         bf2 g4\melisma a bf g\melismaEnd | c1 c2 | a g f |
         e2. f4 g2 | g1 fs2 | g\longa*3/8 \bar "||"
 
@@ -56,17 +56,17 @@ cantoLyricsXV = \lyricmode {
     Se l'Au -- ro spi -- ra tut -- ta vez -- zo -- sa,
     La fre -- sca ro -- sa ri -- den -- te __ sta,
     La sie -- pe~om -- bro -- sa di bei sme -- ral -- di,
-    D'e -- sti -- vi cal -- di ti -- mor non hà.
+    D'e -- sti -- vi cal -- di ti -- mor non ha.
 
     A bal -- li~a bal -- li lie -- te ve -- ni -- te
-    Nin -- fe gra di -- te fior di bel -- tà,
-    Or, che sì chia -- ro il __ va -- go fon -- te
-    Dall 'al -- to mon -- te al mar sen' và.
+    Nin -- fe gra -- di -- te, fior di bel -- tà.
+    Or, che sì chia -- ro~il __ va -- go __ fon -- te
+    Dal -- l'al -- to mon -- te al mar sen' va.
 
     Suoi dol -- ci ver -- si spie -- ga l'Au -- gel -- lo,
-    E __ l'Ar -- bo -- scel -- lo fio -- ri -- to __ stà,
+    E __ l'Ar -- bo -- scel -- lo fio -- ri -- to __ sta,
     Un vol -- to bel -- lo~al l'om -- bra ac -- can -- to,
-    Sol si dia van -- to d'ha -- ver pie -- ta,
+    Sol si dia van -- to d'a -- ver pie -- ta,
     Al __ can -- to, al can -- to Nin -- fe ri -- den -- ti,
     Scac -- cia -- te~i ven -- ti di cru -- del -- tà.
 }

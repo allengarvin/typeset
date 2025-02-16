@@ -5,7 +5,7 @@
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
-\include "../include/vocal-layout-parts.ly"
+\include "../include/vocal-layout-parts-barring.ly"
 
 #(set-global-staff-size 19.2)
 
