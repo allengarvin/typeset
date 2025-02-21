@@ -7,11 +7,12 @@
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
-#(set-global-staff-size 19.2)
+% #(set-global-staff-size 25.0)
 
 \header {
     % Things that change per piece:
     title = "Though Amaryllis Dance in Green"
+    headerspace = \markup { \vspace #2 }
 
     % Things that change per part:
     partname = "Bassus (part 5 of 5)"
