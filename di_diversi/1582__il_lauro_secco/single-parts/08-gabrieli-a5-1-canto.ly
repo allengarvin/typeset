@@ -16,8 +16,8 @@
     folio = "Anonymous"
 
     % Things that change per part:
-    partname = "Alto (part 3 of 5)"
-    instrument = "O in primavera eterna (alto)"
+    partname = "Canto (part 1 of 5)"
+    instrument = "O in primavera eterna (canto)"
 
     % Unchanging:
     originallyset = "2013-10-27"
@@ -27,34 +27,19 @@
     tagline = #'f
 }
 
-\include "../parts/09-gabrieli-a5-madrigal.ly"
+\include "../parts/08-gabrieli-a5-madrigal.ly"
     
 \book {
-    \bookOutputName "09-gabrieli--o_in_primavera_eterna"
-    \bookOutputSuffix "--3-alto--tr_clef"
+    \bookOutputName "08-gabrieli--o_in_primavera_eterna"
+    \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef treble
             \global 
-            \altoIX
+            \cantoVIII
         >>
-        \addlyrics { \altoLyricsIX }
-     %   \include "../include/vocal-layout-parts-barring.ly"
-    }
-}
-
-\book {
-    \bookOutputName "09-gabrieli--o_in_primavera_eterna"
-    \bookOutputSuffix "--3-alto--al_clef"
-    \include "../include/paper-1-part.ly"
-    \score {
-        \new Voice << 
-            \clef alto
-            \global 
-            \altoIX
-        >>
-        \addlyrics { \altoLyricsIX }
+        \addlyrics { \cantoLyricsVIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

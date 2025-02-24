@@ -27,49 +27,49 @@
     tagline = #'f
 }
 
-\include "../parts/09-gabrieli-a5-madrigal.ly"
+\include "../parts/08-gabrieli-a5-madrigal.ly"
     
 \book {
-    \bookOutputName "09-gabrieli--o_in_primavera_eterna"
+    \bookOutputName "08-gabrieli--o_in_primavera_eterna"
     \bookOutputSuffix "--4-tenore--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \tenoreIX
+            \tenoreVIII
         >>
-        \addlyrics { \tenoreLyricsIX }
+        \addlyrics { \tenoreLyricsVIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "09-gabrieli--o_in_primavera_eterna"
+    \bookOutputName "08-gabrieli--o_in_primavera_eterna"
     \bookOutputSuffix "--4-tenore--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \tenoreIX
+            \tenoreVIII
         >>
-        \addlyrics { \tenoreLyricsIX }
+        \addlyrics { \tenoreLyricsVIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "09-gabrieli--o_in_primavera_eterna"
+    \bookOutputName "08-gabrieli--o_in_primavera_eterna"
     \bookOutputSuffix "--4-tenore--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef alto
             \global 
-            \tenoreIX 
+            \tenoreVIII 
         >>
-        \addlyrics { \tenoreLyricsIX }
+        \addlyrics { \tenoreLyricsVIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

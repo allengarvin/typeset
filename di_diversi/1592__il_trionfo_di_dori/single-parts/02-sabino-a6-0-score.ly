@@ -120,7 +120,7 @@
             }
            \column {
                % translation orig date: 2025-01-28
-               % translation updated:
+               % translation updated: 2025-02-23 <to provide parallel final lines>
                 \line { Where the Sebeto rises, pleasant }
                 \line { and delightful, }
                 \line { there is a fair bower that tall plants shade }
@@ -130,7 +130,7 @@
                 \line { who with these cheerful tones in various voices }
                 \line { make the air resound: }
                 \line { 'Let us sing, Nymphs and Shepherds, }
-                \line { long live beautiful Dori!' }
+                \line { long live fair Dori!' }
                 \line { \hspace #10 \italic { translation by editor } } 
            }
         }

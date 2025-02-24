@@ -27,19 +27,19 @@
     tagline = #'f
 }
 
-\include "../parts/09-gabrieli-a5-madrigal.ly"
+\include "../parts/08-gabrieli-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "09-gabrieli--o_in_primavera_eterna"
+    \bookOutputName "08-gabrieli--o_in_primavera_eterna"
     \bookOutputSuffix "--5-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef bass
             \global 
-            \bassoIX 
+            \bassoVIII 
         >>
-        \addlyrics { \bassoLyricsIX }
+        \addlyrics { \bassoLyricsVIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
