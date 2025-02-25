@@ -150,6 +150,9 @@ bassusIII = \relative c {
     c g2 | c,1. | R1. | r2 r d | e c4 a d2 | g e4 c d2 | r r d' |
         b4 g c a g2 | r r g | e4 c f2 d | c1 r4 g' | c2 a f |
         g4. a8 b4 c g2 | c,1 r2 | f g1 | c,\longa*3/8\fermata
+
+        % for our concert:
+         % c,1 f2 e g1 | c,\longa*3/8\fermata
     \bar "|."
 }
 

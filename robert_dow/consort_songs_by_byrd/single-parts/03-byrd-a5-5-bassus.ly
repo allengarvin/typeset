@@ -7,7 +7,7 @@
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
-% #(set-global-staff-size 25.0)
+#(set-global-staff-size 25.0)
 
 \header {
     % Things that change per piece:
