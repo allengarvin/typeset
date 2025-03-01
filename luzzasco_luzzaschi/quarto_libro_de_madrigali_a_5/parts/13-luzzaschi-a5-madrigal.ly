@@ -9,6 +9,19 @@
 % ma ver me suoni tua paterna voce,
 % quall'udì già il buon ladrone in croce.
 
+% spene: alternate speme
+
+% If now, in its every error,
+% my soul, O Lord, penitent,
+% asks you for pardon, and asks you at once for aid:
+% you, fount of pity, you, sea of hope,
+% by whom surely is upheld
+% in this miserable valley of the cruel world.
+% Ah, do not turn your back on my prayers!
+% Ah, no, sweet Lord,
+% but may your fatherly voice sound toward me,
+% that which was once heard by the good thief upon the cross.
+
 cantoXIIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key f \major
@@ -82,8 +95,8 @@ altoXIIIincipit = \relative c' {
     d1
 }
 
+% alto: checked against source
 altoXIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
@@ -114,27 +127,31 @@ altoXIII = \relative c' {
 }
 
 altoLyricsXIII = \lyricmode {
-%    S'o -- mai d'o -- gni su'er -- ro -- re
-%    L'al -- ma, Si -- gnor, pen -- ti -- ta,
-%    L'al -- ma, Si -- gnor, pen -- ti -- ta,
+    S'o -- mai d'o -- gni su'er -- ro -- re
+    L'al -- ma, Si -- gnor, pen -- ti -- ta,
+    L'al -- ma, Si -- gnor, pen -- ti -- ta,
 %    Per -- don,
-%    Per -- don ti chie -- de e~in un ti chie -- de~a -- i -- ta,
-%        e~in un ti chie -- de~a -- i -- ta:
-%    Tu fon -- te di pie -- tà,
-%    Tu fon -- te di pie -- tà, tu mar di spe -- ne,
-%    Per cui pur si man -- tie -- ne
-%    Que -- sta del mon -- do rio mi -- se -- ra val -- le.
-%        deh, non vol -- tar le spal -- le,
-%    A' prie -- ghi miei, deh, non vol -- tar le spal -- le,
-%        deh, non vol -- tar le spal -- le!
-%    Deh no,
-%    Deh no, dol -- ce Si -- gno -- re,
-%        dol -- ce Si -- gno -- re,
-%    Ma ver me suo -- ni tua pa -- ter -- na vo -- ce,
-%    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
-%    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
-%        il buon la -- dro -- ne~in cro -- ce,
-%        il buon la -- dro -- ne~in cro -- ce.
+    Per -- don ti chie -- de,
+    \ijLyrics
+    Per -- don ti chie -- de
+    \normalLyrics
+        e~in __ un ti chie -- de~a -- i -- ta:
+    Tu fon -- te di pie -- tà,
+    Tu fon -- te di pie -- tà, tu mar __ di spe -- ne,
+        tu mar di spe -- ne,
+    Per cui pur si __ man -- tie -- ne,
+        pur si man -- tie -- ne
+    Que -- sta del mon -- do rio mi -- se -- ra val -- le.
+    A' prie -- ghi miei, deh, non vol -- tar le spal -- le,
+        deh, non vol -- tar le spal -- le!
+    Deh no,
+    Deh no, dol -- ce Si -- gno -- re,
+        dol -- ce Si -- gno -- re,
+    Ma ver me suo -- ni tua pa -- ter -- na vo -- ce,
+    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
+    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
+        il buon la -- dro -- ne~in cro -- ce,
+            in cro -- ce.
 }
 
 tenoreXIIIincipit = \relative c' {
@@ -145,13 +162,13 @@ tenoreXIIIincipit = \relative c' {
     g1
 }
 
+% tenore: checked against source
 tenoreXIII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCutTime
 
-    g1 g2 g ~ | g4 g bf2 fs1 | g d'2 d4 d | e2 c bf( a4 g | d'1) g, | 
-        R\breve*2 | 
+    g1 g2 g ~ | g4 g bf2 fs1 | g d'2 d4 d | \ficta ef2\unficta c bf( a4 g | 
+        d'1) g, | R\breve*2 | 
 
     r1 a2 a4 a | bf2 g f( e4 d | g1) d | R\breve | r2 d f d | g( f1 e2) |
         f r4 a bf2 g | d'4 \ficta ef\unficta
@@ -171,34 +188,32 @@ tenoreXIII = \relative c' {
     g2 fs | g d1 r2 | R\breve | r2 d'2. d4 d2 | f1 r1 | R\breve | 
         r2 bf,2. bf4 bf2 | g g bf f | f2. g4
 
-    a1 | d,\breve | r2 bf' a d |
-        d1. bf2 a1
+    a1 | d,\breve ~ | d1 r2 bf' | a d d1 ~ | d2 bf2 a1 
         g\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsXIII = \lyricmode {
-%    S'o -- mai d'o -- gni su'er -- ro -- re
-%    L'al -- ma, Si -- gnor, pen -- ti -- ta,
-%    L'al -- ma, Si -- gnor, pen -- ti -- ta,
+    S'o -- mai d'o -- gni su'er -- ro -- re
+    L'al -- ma, Si -- gnor, pen -- ti -- ta,
+    L'al -- ma, Si -- gnor, pen -- ti -- ta,
 %    Per -- don,
-%    Per -- don ti chie -- de e~in un ti chie -- de~a -- i -- ta,
-%        e~in un ti chie -- de~a -- i -- ta:
-%    Tu fon -- te di pie -- tà,
-%    Tu fon -- te di pie -- tà, tu mar di spe -- ne,
-%    Per cui pur si man -- tie -- ne
-%    Que -- sta del mon -- do rio mi -- se -- ra val -- le.
-%        deh, non vol -- tar le spal -- le,
-%    A' prie -- ghi miei, deh, non vol -- tar le spal -- le,
-%        deh, non vol -- tar le spal -- le!
+    Per -- don ti chie -- de e~in un ti chie -- de~a -- i -- ta,
+        e~in un ti chie -- de~a -- i -- ta:
+    Tu fon -- te di pie -- tà,
+    Tu fon -- te di pie -- tà, tu mar di spe -- ne,
+    Per cui pur si __ man -- tie -- ne
+    Que -- sta del mon -- do rio mi -- se -- ra val -- le.
+        deh, non vol -- tar le spal -- le,
+    A' prie -- ghi miei, deh, non vol -- tar le spal -- le!
 %    Deh no,
-%    Deh no, dol -- ce Si -- gno -- re,
-%        dol -- ce Si -- gno -- re,
-%    Ma ver me suo -- ni tua pa -- ter -- na vo -- ce,
-%    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
+    Deh no, dol -- ce Si -- gno -- re,
+    Ma ver me suo -- ni tua pa -- ter -- na vo -- ce,
+    Qual -- l'u -- dì già,
+    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce, __
 %    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
 %        il buon la -- dro -- ne~in cro -- ce,
-%        il buon la -- dro -- ne~in cro -- ce.
+        il buon la -- dro -- ne~in cro -- ce.
 }
 
 bassoXIIIincipit = \relative c' {
@@ -209,8 +224,8 @@ bassoXIIIincipit = \relative c' {
     g1
 }
 
+% basso: checked against source
 bassoXIII = \relative c' {
-    \clef bass
     \key f \major
     \fourTwoCutTime
 
@@ -220,14 +235,15 @@ bassoXIII = \relative c' {
     a1 | r2 bf a bf | g\breve | f1 r1 | R\breve*2 | r1 r2 b | c2. c4 c2 d |
         g,1 r2 d' | c2. c4 c2 a | bf1 r1 | 
 
-    r4 bf bf8([ c d e] f4) g f2 | bf, bf' bf1 | bf2 f g1 | g c, | d1 r1 |
+    r4 bf bf8([ c d e] f4) g f2 | bf, bf' bf1 ~| bf2 f g1 | g c, | d1 r1 |
         R\breve*2 | r2 d b4 b 
 
-    c2 ~ | c bf a a ~ | a4 g g2 f e | R\breve*2 | g2 a1 a2 | bf a c4. bf8 a4 a |
+                                % vv e2 to d2 (parallel to alto)
+    c2 ~ | c bf a a ~ | a4 g g2 f d | R\breve*2 | g2 a1 a2 | bf a c4. bf8 a4 a |
         bf2 a r1 | R\breve*3 | r1 r4 d4. d8
 
     g,4 | d'2 d r2 a | d c bf4 bf a a | g2 fs g d' | R\breve | r1 r2 bf' ~ |
-        bf4 bf bf2 g1 | R\breve | g2 g2. g4 
+        bf4 bf bf2 g1 | R\breve | r2 g2. g4 
 
     g2 | ef1 r1 | R\breve*2 | r1 r2 d | f bf, bf2. c4 | d\breve | 
         g,\longa*1/2
@@ -235,25 +251,22 @@ bassoXIII = \relative c' {
 }
 
 bassoLyricsXIII = \lyricmode {
-%    S'o -- mai d'o -- gni su'er -- ro -- re
+    S'o -- mai d'o -- gni su'er -- ro -- re
 %    L'al -- ma, Si -- gnor, pen -- ti -- ta,
-%    L'al -- ma, Si -- gnor, pen -- ti -- ta,
+    L'al -- ma, Si -- gnor, pen -- ti -- ta,
 %    Per -- don,
-%    Per -- don ti chie -- de e~in un ti chie -- de~a -- i -- ta,
-%        e~in un ti chie -- de~a -- i -- ta:
-%    Tu fon -- te di pie -- tà,
-%    Tu fon -- te di pie -- tà, tu mar di spe -- ne,
-%    Per cui pur si man -- tie -- ne
-%    Que -- sta del mon -- do rio mi -- se -- ra val -- le.
-%        deh, non vol -- tar le spal -- le,
-%    A' prie -- ghi miei, deh, non vol -- tar le spal -- le,
-%        deh, non vol -- tar le spal -- le!
+    Per -- don ti chie -- de
+    Tu fon -- te di pie -- tà,
+    Tu fon -- te di pie -- tà, tu mar __ di spe -- ne,
+    Per cui __ pur si man -- tie -- ne
+    Que -- sta del mon -- do rio mi -- se -- ra val -- le.
+    A' prie -- ghi miei, deh, non vol -- tar le spal -- le!
 %    Deh no,
 %    Deh no, dol -- ce Si -- gno -- re,
-%        dol -- ce Si -- gno -- re,
-%    Ma ver me suo -- ni tua pa -- ter -- na vo -- ce,
-%    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
-%    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
+        dol -- ce Si -- gno -- re,
+    Ma ver me suo -- ni tua pa -- ter -- na vo -- ce,
+    Qual -- l'u -- dì già,
+    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce.
 %        il buon la -- dro -- ne~in cro -- ce,
 %        il buon la -- dro -- ne~in cro -- ce.
 }
@@ -266,8 +279,8 @@ quintoXIIIincipit = \relative c'' {
     d1
 }
 
+% quinto: checked against source
 quintoXIII = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCutTime
 
@@ -278,9 +291,9 @@ quintoXIII = \relative c'' {
         fs g a2 b r4 c ~ | c a2 a4 a g a2 | a1 r2 d | c2. c4 
 
     c2 a | bf1 r1 | R\breve | r4 bf d2 c4 bf2( a4) | bf f f2. d4 f2 | f1 r1 |
-        R\breve*2 | r2 d' b4 b c2 ~ | c bf a a ~ | a4 g
+        R\breve R | r2 d' b4 b c2 ~ | c bf a a ~ | a4 g
 
-    g2 f d | R\breve*2 | r2 g a a | bf a c4. bf8 a4 a | d2 c r1 |
+    g2 f d | R\breve R | r2 g a a | bf a c4. bf8 a4 a | d2 c r1 |
         r2 c, e4. d8 c4 c | d2 c r1 | 
 
     r1 r4 bf' g4. a8 | bf4 bf a2 b1 | r2 c a1 | R\breve | r1 r4 a4. a8 bf4 |
@@ -295,27 +308,24 @@ quintoXIII = \relative c'' {
 }
 
 quintoLyricsXIII = \lyricmode {
-%    S'o -- mai d'o -- gni su'er -- ro -- re
-%    L'al -- ma, Si -- gnor, pen -- ti -- ta,
-%    L'al -- ma, Si -- gnor, pen -- ti -- ta,
-%    Per -- don,
-%    Per -- don ti chie -- de e~in un ti chie -- de~a -- i -- ta,
-%        e~in un ti chie -- de~a -- i -- ta:
-%    Tu fon -- te di pie -- tà,
-%    Tu fon -- te di pie -- tà, tu mar di spe -- ne,
-%    Per cui pur si man -- tie -- ne
-%    Que -- sta del mon -- do rio mi -- se -- ra val -- le.
-%        deh, non vol -- tar le spal -- le,
-%    A' prie -- ghi miei, deh, non vol -- tar le spal -- le,
-%        deh, non vol -- tar le spal -- le!
-%    Deh no,
-%    Deh no, dol -- ce Si -- gno -- re,
-%        dol -- ce Si -- gno -- re,
-%    Ma ver me suo -- ni tua pa -- ter -- na vo -- ce,
-%    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
-%    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
-%        il buon la -- dro -- ne~in cro -- ce,
-%        il buon la -- dro -- ne~in cro -- ce.
+    S'o -- mai d'o -- gni su'er -- ro -- re
+    L'al -- ma, Si -- gnor, __ pen -- ti -- ta,
+    Per -- don ti chie -- de __ e~in un ti chie -- de~a -- i -- ta,
+    \ijLyrics
+        e~in un ti chie -- de~a -- i -- ta:
+    \normalLyrics
+    Tu fon -- te di pie -- tà, tu mar di spe -- ne,
+        tu mar di spe -- ne,
+    Que -- sta del mon -- do rio mi -- se -- ra val -- le.
+    A' prie -- ghi miei, deh, non vol -- tar le spal -- le,
+        deh, non vol -- tar le spal -- le,
+        deh, non vol -- tar le spal -- le!
+    Deh no, dol -- ce Si -- gno -- re,
+    Ma ver me suo -- ni tua pa -- ter -- na vo -- ce,
+    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
+    Qual -- l'u -- dì già il buon la -- dro -- ne~in cro -- ce,
+        il buon la -- dro -- ne~in cro -- ce,
+        il buon la -- dro -- ne~in cro -- ce.
 }
 
 cantoXIIIincipitVoice = <<
