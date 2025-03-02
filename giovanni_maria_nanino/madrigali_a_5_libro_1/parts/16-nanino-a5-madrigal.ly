@@ -1,7 +1,7 @@
 % Morir non può'l mio core
 
 %    Morir non può 'l mi core
-%    E ucciderlo vorrei poi che vi piaci
+%    E ucciderlo vorrei poi -- ché vi piaci
 %    Ma trar non il può fuori
 %    Del petto vostr' ove gran tempo giace
 %    E uccidendol' io come desio,
@@ -41,7 +41,7 @@ cantoLyricsXVI = \lyricmode {
     Mo -- rir non può'l mi co -- re
     E~uc -- ci -- der -- lo, 
     e~uc -- ci -- der -- lo vor -- rei,
-    e~uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
+    e~uc -- ci -- der -- lo vor -- rei poi -- ché vi pia -- ce;
     Ma trar non il può fuo -- ri,
     ma trar non il può fuo -- ri,
     del pet -- to vo -- stro o -- ve gran tem -- po gia -- ce
@@ -84,7 +84,7 @@ altoXVI = \relative c'' {
 altoLyricsXVI = \lyricmode {
     Mo -- rir non può'l mi co -- re
     E~uc -- ci -- der -- lo vor -- rei,
-    e~uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
+    e~uc -- ci -- der -- lo vor -- rei poi -- ché vi pia -- ce;
     Ma trar non il può fuo -- ri,
     ma trar non il può fuo -- ri,
     Del pet -- to vo -- stro~o -- ve gran tem -- po gia -- ce
@@ -131,7 +131,7 @@ tenoreXVI = \relative c' {
 tenoreLyricsXVI = \lyricmode {
     Mo -- rir __ non può'l mi co -- re
     E~uc -- ci -- der -- lo vor -- rei,
-    e~uc -- ci -- der -- lo vor -- rei __ poi che vi pia -- ci,
+    e~uc -- ci -- der -- lo vor -- rei __ poi -- ché vi pia -- ce;
     Ma trar non il può fuo -- ri,
     ma trar non il può fuo -- ri,
     Del pet -- to vo -- stro o -- ve gran tem -- po gia -- ce
@@ -171,7 +171,7 @@ bassoXVI = \relative c' {
 bassoLyricsXVI = \lyricmode {
     Mo -- rir non può'l mi co -- re
     E~uc -- ci -- der -- lo vor -- rei,
-    e~uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
+    e~uc -- ci -- der -- lo vor -- rei poi -- ché vi pia -- ce;
     Ma trar non il può fuo -- ri,
     Del pet -- to vo -- stro~o -- ve gran tem -- po gia -- ce
     So che mo -- re -- ste voi __ mo -- ren -- d'an -- ch'i -- o,
@@ -211,8 +211,8 @@ quintoLyricsXVI = \lyricmode {
     Mo -- rir non può'l mi co -- re
     E~uc -- ci -- der -- lo, 
     e~uc -- ci -- der -- lo vor -- rei,
-    e~uc -- ci -- der -- lo vor -- rei poi che vi pia -- ci,
-        poi che vi pia -- ci,
+    e~uc -- ci -- der -- lo vor -- rei poi -- ché vi pia -- ce,
+        poi -- ché vi pia -- ce;
     Ma trar non il può fuo -- ri,
     ma trar non il può fuo -- ri,
     Del pet -- to vo -- stro~o -- ve gran tem -- po gia -- ce

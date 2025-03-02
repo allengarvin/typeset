@@ -26,7 +26,7 @@
     shortcomp = "gabrieli"
     categories = "[madrigal,morte]"
     motifs = "[amore,morte,flight,la-petit-mort]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Girolamo Parabosco (c.1524-1557)"
 
     % Unchanging:

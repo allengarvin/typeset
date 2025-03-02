@@ -12,7 +12,7 @@
     % Things that change per piece:
     title = "Morir non può'l mio core"
     instrument = "Morir non può'l mio core (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:
@@ -24,8 +24,8 @@
     rhyme = "aBaBCC"
     shorttitle = "morir_non_puo_l_mio_core"
     categories = "[madrigal]"
+    motifs = "[amore,heart,morte]"
     \include "include/distribution-header.ly"
-    cksum = "1e47012c3b0f6cae1dedc6aa94c671514833b8c4"
     tagline = #'f
 }
 
@@ -87,15 +87,24 @@
         \fill-line {
             \column {
                 % Italian fix-up: 2023-05-12
+                % touched up again: 2025-03-01 (mistake: piaci inveci piace)
                 \line { Morir non può 'l mi core } 
-                \line { e ucciderlo vorrei poi che vi piaci } 
+                \line { e ucciderlo vorrei poiché vi piace; } 
                 \line { ma trar non il può fuori } 
                 \line { del petto vostr' ove gran tempo giace } 
                 \line { ed uccidendol' io come desio, } 
                 \line { so che moreste voi morendo anch'io. } 
             }
-%            \column {
-%            }
+            \column {
+                % translation: 2025-03-01
+                \line { My heart cannot die }
+                \line { and I would like to slay it, since that pleases you; }
+                \line { but it cannot be pulled out }
+                \line { from your breast, where it has long lain }
+                \line { and killing it as I desire, }
+                \line { I know you would die, in dying with me. }
+                \line { \hspace #10 \italic { translation by editor } }
+            }
         }
     }
 }

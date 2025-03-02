@@ -1,13 +1,27 @@
-% Se come il biondo crin de la mia Filli
-% E la fronte chiarissima e quei lumi
-% C'hanno forza tal ora
-% Da far mover i monti e star i fiumi,
-% Se come il latt' e le vermiglie rose,
-% Le perle e'l minio e la candida mano
-% Che'l terzo ciel onora,
-% Si vedesser ancor le parti ascose
-% Ch'io sì sospiro in vano:
-% Ogni uom come io diventarebbe insano.
+% Se come il biondo crin della mia Filli,
+% e la fronte chiarissima, e quei lumi
+% ch'hanno forza talora
+% da far mover i monti e star i fiumi;
+% se come il latte e le vermiglie rose,
+% le perle e'l minio e la candida mano
+% che'l terzo ciel onora,
+% si vedessero ancor le parti ascose
+% ch'io sì sospiro in vano:
+% ogni uom, come io, diventarebbe insano.
+% 
+% If, like the blond tresses of my Filli,
+% and her brightest brow, and those eyes
+% that oft have the force
+% to move mountains and still rivers;
+% if like milk, and crimson roses,
+% the pearls and minium and her pure-white hand
+% which the third heaven honors,
+% her hidden parts yet might be seen,
+% for which I so sigh in vain,
+% every man, like me, would go mad.
+
+% add note about minium
+% https://en.wikipedia.org/wiki/Minium_(pigment)
 
 cantoIIIincipit = \relative c' {
     \time 4/4
@@ -40,16 +54,16 @@ cantoIII = \relative c' {
 }
 
 cantoLyricsIII = \lyricmode {
-    Se co -- me~il bion -- do crin __ de la mia Fil -- li
+    Se co -- me~il bion -- do crin __ del -- la mia Fil -- li
     % E la fron -- te chia -- ris -- si -- ma 
         e __ quei lu -- mi
-    C'han -- no for -- za tal o -- ra
+    Ch'han -- no for -- za ta -- lo -- ra
     Da far mo -- ver' i mon -- ti e star i fiu -- mi,
     Se co -- me~il lat -- t'e le ver -- mi -- glie ro -- se,
     Se co -- me~il lat -- t'e le ver -- mi -- glie ro -- se,
     Le per -- le~e'l mi -- nio e la can -- di -- da ma -- no
     Che'l ter -- zo ciel o -- no -- ra,
-    Si ve -- des -- ser an -- cor le par -- ti~a -- sco -- se
+    Si ve -- des -- se -- r'an -- cor le par -- ti~a -- sco -- se
     Ch'io sì so -- spi -- ro~in va -- no,
     Ch'io sì so -- spi -- ro~in va -- no: __
     O -- gni~uom __ co -- me~io, 
@@ -94,9 +108,9 @@ altoIII = \relative c' {
 }
 
 altoLyricsIII = \lyricmode {
-    Se co -- me~il bion -- do crin de la mia Fil -- li
+    Se co -- me~il bion -- do crin del -- la mia Fil -- li
     E la fron -- te chia -- ris -- si -- ma e __ quei lu -- mi
-    C'han -- no for -- za __ tal o -- ra
+    Ch'han -- no for -- za __ ta -- lo -- ra
     Da far mo -- ver' i mon -- ti,
     Da far mo -- ver' i mon -- ti~e star i fiu -- mi,
     Se co -- me~il lat -- t'e le ver -- mi -- glie ro -- se,
@@ -137,19 +151,20 @@ tenoreIII = \relative c {
     f2) e r1 | r2 a bf r4 c | c2 a g g | r1 r2 a | bf r4 c c2 a | 
         g g r a ~ | a bf1 d2 | c1 r2 f, ~ | f bf g c ~ | c c bf4 c d bf |
 
-    c2 c4 c d e f f | d2 d r a | c bf a4 a a g | bf2 bf g1 | g\longa*1/2
+                               % vv c2 to d2
+    c2 c4 c d e f f | d2 d r a | d bf a4 a a g | bf2 bf g1 | g\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsIII = \lyricmode {
     E la fron -- te chia -- ris -- si -- ma e __ quei lu -- mi
-    C'han -- no for -- za __ tal o -- ra
+    Ch'han -- no for -- za __ ta -- lo -- ra
     Da far mo -- ver' i mon -- ti~e star i fiu -- mi,
     Se co -- me~il lat -- t'e le ver -- mi -- glie ro -- se,
         e __ le ver -- mi -- glie ro -- se,
         e la can -- di -- da ma -- no
     Che'l ter -- zo ciel __ o -- no -- ra,
-    Si __ ve -- des -- ser an -- cor le par -- ti~a -- sco -- se
+    Si __ ve -- des -- se -- r'an -- cor le par -- ti~a -- sco -- se
     Ch'io sì so -- spi -- ro~in va -- no,
     Ch'io sì so -- spi -- ro~in va -- no: 
     O -- gni~uom co -- me~io, 
@@ -186,12 +201,12 @@ bassoIII = \relative c {
 }
 
 bassoLyricsIII = \lyricmode {
-    Se co -- me~il bion -- do crin de la mia Fil -- li
+    Se co -- me~il bion -- do crin del -- la mia Fil -- li
     E la fron -- te chia -- ris -- si -- ma e __ quei lu -- mi
-    C'han -- no for -- za tal o -- ra
+    Ch'han -- no for -- za ta -- lo -- ra
     Da far mo -- ver' i mon -- ti e star i fiu -- mi,
     Se co -- me~il lat -- t'e le ver -- mi -- glie ro -- se,
-    Si ve -- des -- ser an -- cor le par -- ti~a -- sco -- se
+    Si ve -- des -- se -- r'an -- cor le par -- ti~a -- sco -- se
     Ch'io sì so -- spi -- ro~in va -- no,
     Ch'io sì so -- spi -- ro~in va -- no: 
     O -- gni~uom co -- me~io, 
@@ -232,13 +247,13 @@ quintoIII = \relative c {
 quintoLyricsIII = \lyricmode {
     E la fron -- te chia -- ris -- si -- ma 
         e quei lu -- mi
-    C'han -- no for -- za tal o -- ra
+    Ch'han -- no for -- za ta -- lo -- ra
     Da far mo -- ver' i mon -- ti,
     Da far __ mo -- ver' i mon -- ti~e star i fiu -- mi,
     Se co -- me~il lat -- t'e le ver -- mi -- glie ro -- se,
     Le per -- le~e'l mi -- nio e la can -- di -- da ma -- no
     Che'l ter -- zo ciel o -- no -- ra,
-    Si ve -- des -- ser an -- cor le par -- ti~a -- sco -- se
+    Si ve -- des -- se -- r'an -- cor le par -- ti~a -- sco -- se
     Ch'io sì so -- spi -- ro~in va -- no: 
     O -- gni~uom co -- me~io, 
     O -- gni~uom co -- me~io di -- ven -- ta -- reb -- be~in -- sa -- no,

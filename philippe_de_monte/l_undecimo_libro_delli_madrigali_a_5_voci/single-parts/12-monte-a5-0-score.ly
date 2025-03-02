@@ -25,7 +25,7 @@
     shortcomp = "monte"
     categories = "[madrigal]"
     motifs = "[passion,disdain,amore]"
-    needtranslation = #'t
+    needtranslation = #'f
     folio = "Giovanni Battista Guarini (1536-1612)"
 
     % Unchanging:

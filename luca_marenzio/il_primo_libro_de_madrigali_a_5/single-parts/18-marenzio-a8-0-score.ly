@@ -16,7 +16,7 @@
     flats = 1
     folio = \markup { Torquato Tasso, \italic{Rime} 299 }
     instrument = "O tu che fra le selve (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

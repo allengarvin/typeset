@@ -29,6 +29,8 @@
     motifs = "[sighing]"
     \include "include/distribution-header.ly"
     cksum = "6ce0da09cd9a4466938df70e02dd516154bc47cd"
+    sametext = #'( "e482b519c33fc0a899964be2b5799dc2d736928d" "6ce0da09cd9a4466938df70e02dd516154bc47cd" "42f888e2fbad4f9d14786f026595dc757fc523d6" "b0f1518bf6d1ac255daaefd5bfb28b57601d472d" "438f03e79097f7370fc1a9d3c82a0fce6461c433" )
+
     tagline = #'f
 }
 

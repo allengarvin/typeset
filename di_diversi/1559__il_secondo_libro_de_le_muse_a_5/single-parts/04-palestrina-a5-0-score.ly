@@ -15,7 +15,7 @@
     composer = "Giovanni Pierluigi da Palestrina (c.1525-1594)"
     folio = "Anonymous poet"
     instrument = "Ogni loco (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
 
     % Unchanging:

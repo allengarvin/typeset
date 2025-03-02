@@ -6,15 +6,14 @@
 \include "../include/macros.ly"
 \include "../include/scheme.ly"
 
-#(set-global-staff-size 15.0)
+#(set-global-staff-size 14.5)
 
 \header {
     % Things that change per piece:
     title = "Se come il biondo crin de la mia Filli"
     instrument = "Se come il biondo crin (score)"
-    needtranslation = #'t
+    needtranslation = #'f
     language = "italian"
-    folio = "Anonymous madrigal"
 
     % Unchanging:
     originallyset = "2014-12-27"
@@ -23,6 +22,7 @@
     final = "c"
     shorttitle = "se_come_il_biondo_crin"
     categories = "[madrigal]"
+    motifs = "[hair,beauty,roses]"
     \include "include/distribution-header.ly"
     cksum = "912e6d01df48be60e0fc2e6f82a4ac0a6ad6b2cc"
     tagline = #'f
@@ -91,19 +91,36 @@
     \markup {
         \fill-line {
             \column {
-                \line { Se come il biondo crin de la mia Filli }
-                \line { E la fronte chiarissima e quei lumi }
-                \line { C'hanno forza tal ora }
-                \line { Da far mover i monti e star i fiumi, }
-                \line { Se come il latt' e le vermiglie rose, }
-                \line { Le perle e'l minio e la candida mano }
-                \line { Che'l terzo ciel onora, }
-                \line { Si vedesser ancor le parti ascose }
-                \line { Ch'io sì sospiro in vano: }
-                \line { Ogni uom come io diventarebbe insano. }
+                % Italian touchup: 2025-03-01
+                \line { Se come il biondo crin della mia Filli, }
+                \line { e la fronte chiarissima, e quei lumi }
+                \line { ch'hanno forza talora }
+                \line { da far mover i monti e star i fiumi; }
+                \line { se come il latte e le vermiglie rose, }
+                \line { le perle e'l minio e la candida mano }
+                \line { che'l terzo ciel onora, }
+                \line { si vedessero ancor le parti ascose }
+                \line { ch'io sì sospiro in vano: }
+                \line { ogni uom, come io, diventarebbe insano. }
+            }
+            \column {
+                % translation: 2025-03-01
+                \line { If, like the blond tresses of my Filli, }
+                \line { and her brightest brow, and those eyes }
+                \line { that oft have the force }
+                \line { to move mountains and still rivers; }
+                \line { if like milk, and crimson roses, }
+                \line { the pearls and \auto-footnote "minium" \italic " minium: red lead oxide, used as a bright reddish-orange pigment for painting and manuscript illumination" and her pure-white hand }
+                \line { which the third heaven honors, }
+                \line { her hidden parts yet might be seen, }
+                \line { for which I so sigh in vain, }
+                \line { every man, like me, would go mad. }
+                \line { \hspace #10 \italic { translation by editor }  }
             }
         }
     }
 }
+
+
 
 
