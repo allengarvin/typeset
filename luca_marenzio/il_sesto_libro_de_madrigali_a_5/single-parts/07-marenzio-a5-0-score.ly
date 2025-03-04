@@ -15,6 +15,7 @@
     final = "a"
     \include "include/distribution-header.ly"
     cksum = "0e0aa618b16dc05b34ab82593d3736f284ef060f"
+    sametext = #'(  "dbf88ab27c3b0ab7043dedf235b5c1ca72efa6cb" "0e0aa618b16dc05b34ab82593d3736f284ef060f" "e555ab2704fc64101c42d24597a018a2b5b2e49f" )
     % Things that change per piece:
     title = "Ah, dolente partita"
     subtitle = ""
@@ -124,4 +125,5 @@
         }
     }
 }
+
 

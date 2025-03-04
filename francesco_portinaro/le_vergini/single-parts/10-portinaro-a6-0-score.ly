@@ -15,6 +15,7 @@
     final = "d"
     \include "include/distribution-header.ly"
     cksum = "9f4f7d125b0c5a3adacbfebe26cabc30d573b99a"
+    sametext = #'(  "f9e086c69d8e7b3247f311f1ea6838eab3c3db8b" "51193cc3b12c915aad4d27dd66e265607b82f833" "e29879e396bfaed655fa379f30255944920ee683" "bf35360d1f66112f5dc34ee2105614f7477b60fb" "9f4f7d125b0c5a3adacbfebe26cabc30d573b99a" "12284e715aa583ffbd3f1091c3fce0a9214805e2" "e51571039b96184769a9caaa6aff0b442f6a9b04" "e04eacc16e03dec612ec5ea1741795789b61ca9b" "818e5d7b40dc9f4982b72ce6f2d98a90d966a7cd" "7cb860b75d426bbc61b6670b174fe34a4350cfc7" )
     % Things that change per piece:
     title = "Vergine bella"
     subtitle = ""
@@ -140,4 +141,5 @@
         }
     }
 }
+
 

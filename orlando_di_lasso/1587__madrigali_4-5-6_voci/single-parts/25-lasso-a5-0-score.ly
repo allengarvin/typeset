@@ -31,6 +31,7 @@
     poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     cksum = "57d8d7b228d764eab1a86830ac57d40c6275c6da"
+    sametext = #'(  "dea3ce2ea909f66b9e2958ff4f9e28b522114d8c" "218b20544999c81afc93d5835dd305bdfbb24847" "57d8d7b228d764eab1a86830ac57d40c6275c6da" )
     tagline = #'f
 }
 
@@ -125,4 +126,5 @@
         }
     }
 }
+
 

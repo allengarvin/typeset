@@ -13,6 +13,7 @@
     originallyset = "2023-01-30"
     \include "include/distribution-header.ly"
     cksum = "a80cac0f12873ea272b94c0cdb155d7102c61189"
+    sametext = #'(  "a80cac0f12873ea272b94c0cdb155d7102c61189" "cefa7abd5c8273ef666a1c7f2b0b1b853dbe0841" )
     % Things that change per piece:
     title = "Dunque baciar"
     subtitle = ""
@@ -119,4 +120,5 @@
         }
     }
 }
+
 

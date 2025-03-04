@@ -31,6 +31,7 @@
     categories = "[madrigal,furioso]"
     \include "include/distribution-header.ly"
     cksum = "5c8cd32f5f545ce230eb6c5328fa60fb4eec1785"
+    sametext = #'(  "5c8cd32f5f545ce230eb6c5328fa60fb4eec1785" "f04fbbaa7f0dfb2c8d959f92271c92fe93b86dea" "811c48032174f030de52d44bbd285c09aed723c3" )
     tagline = #'f
 }
 
@@ -112,4 +113,5 @@
         }
     }
 }
+
 

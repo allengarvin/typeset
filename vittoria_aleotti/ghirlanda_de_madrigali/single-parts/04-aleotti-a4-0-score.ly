@@ -13,6 +13,7 @@
     originallyset = "2023-05-20"
     \include "include/distribution-header.ly"
     cksum = "d51b905ce8122a324bbe1092f0668a53fc5e75d1"
+    sametext = #'(  "78cfa4a00eaa2909ad64f06269ee0da188fc5bf5" "d51b905ce8122a324bbe1092f0668a53fc5e75d1" )
     % Things that change per piece:
     title = "T'amo, mia vita"
     subtitle = ""
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

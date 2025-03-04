@@ -29,6 +29,7 @@
     repim = "https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F042630004010101_000000107500"
     \include "include/distribution-header.ly"
     cksum = "37d29abd1058134d9b5534a56b5110531cb771f1"
+    sametext = #'(  "51effdeb667f4bed359873a90cb5354682097520" "37d29abd1058134d9b5534a56b5110531cb771f1" )
     tagline = #'f
 }
 
@@ -92,5 +93,6 @@
         }
     }
 }
+
 
 

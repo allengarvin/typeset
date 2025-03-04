@@ -15,6 +15,7 @@
     final = "g"
     \include "include/distribution-header.ly"
     cksum = "b98538286bbd6dec89bc43142decd028cd83a9e1"
+    sametext = #'(  "2d5c83fb792ee8eaf5822ea9e174928515da8fd8" "b98538286bbd6dec89bc43142decd028cd83a9e1" )
     % Things that change per piece:
     title = "Morir non può'l mio core"
     subtitle = ""
@@ -110,4 +111,5 @@
         }
     }
 }
+
 

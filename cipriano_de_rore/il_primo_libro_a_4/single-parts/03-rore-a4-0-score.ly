@@ -26,6 +26,7 @@
     motifs = "[laurel]"
     \include "include/distribution-header.ly"
     cksum = "c8ce7d4f3e33708c9c2e04e99d93c1134334849b"
+    sametext = #'(  "c8ce7d4f3e33708c9c2e04e99d93c1134334849b" "e226222a7a749bdfd53b8e0770454067eca3620c" )
     tagline = #'f
 }
 
@@ -105,5 +106,6 @@
 
 
 }
+
 
 

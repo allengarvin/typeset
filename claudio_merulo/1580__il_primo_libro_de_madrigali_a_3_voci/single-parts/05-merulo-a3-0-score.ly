@@ -13,6 +13,7 @@
     originallyset = "2023-01-28"
     \include "include/distribution-header.ly"
     cksum = "939011f147bff665df1ceb85a4452e8705b69d7d"
+    sametext = #'(  "939011f147bff665df1ceb85a4452e8705b69d7d" "77454a206c4eb20ea8162292141fb9ca25a7c218" )
     % Things that change per piece:
     title = "Ma di che debbo lamentarmi"
     subtitle = ""
@@ -103,4 +104,5 @@
         }
     }
 }
+
 

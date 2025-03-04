@@ -13,6 +13,7 @@
     originallyset = "2023-02-08"
     \include "include/distribution-header.ly"
     cksum = "c921accb92bc8c83721358a057ada87d2e35fe27"
+    sametext = #'(  "0c6850c9cee6b6988162cd73774d515021867226" "c921accb92bc8c83721358a057ada87d2e35fe27" )
     % Things that change per piece:
     title = "O Mirtillo"
     subtitle = ""
@@ -127,4 +128,5 @@
         }
     }
 }
+
 

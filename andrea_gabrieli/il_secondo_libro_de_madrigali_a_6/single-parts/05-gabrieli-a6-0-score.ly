@@ -28,6 +28,7 @@
     final = "g"
     \include "include/distribution-header.ly"
     cksum = "7ac4457b8fa1cae6b6889152e6210363222d6a81"
+    sametext = #'(  "5f3bc23a0267962578a853351f43d60069f6558e" "7ac4457b8fa1cae6b6889152e6210363222d6a81" "48e569f267cca6adc3449e694eb4065eb5662282" )
     tagline = #'f
 }
 
@@ -133,4 +134,5 @@
         }
     }
 }
+
 

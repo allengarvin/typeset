@@ -27,6 +27,7 @@
     motifs = "[nightingale,bird]"
     \include "include/distribution-header.ly"
     cksum = "cd6957e248482311f04f25ec4dc44a5272cd81a8"
+    sametext = #'(  "cd6957e248482311f04f25ec4dc44a5272cd81a8" "61676f09874285ec59d1db53d63320b746d82e03" "da8c192911e4307f84c577b6b5e4b5a55880ce6b" )
     tagline = #'f
 }
 
@@ -116,5 +117,6 @@
         }
     }
 }
+
 
 

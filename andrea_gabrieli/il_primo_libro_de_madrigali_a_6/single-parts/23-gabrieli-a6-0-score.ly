@@ -15,6 +15,7 @@
     final = "e"
     \include "include/distribution-header.ly"
     cksum = "e22fba7a9e3335930297c6c24e07b821bfa2ab73"
+    sametext = #'(  "b50ed7c8c09e7e3eae1b9f471566a94ac2b39d0d" "e22fba7a9e3335930297c6c24e07b821bfa2ab73" )
     % Things that change per piece:
     title = "Grazie ch'a pochi"
     subtitle = "Prima parte"
@@ -130,4 +131,5 @@
         }
     }
 }
+
 

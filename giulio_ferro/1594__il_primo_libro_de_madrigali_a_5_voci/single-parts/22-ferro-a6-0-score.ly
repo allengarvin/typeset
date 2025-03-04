@@ -13,6 +13,7 @@
     originallyset = "2023-01-20"
     \include "include/distribution-header.ly"
     cksum = "48e569f267cca6adc3449e694eb4065eb5662282"
+    sametext = #'(  "5f3bc23a0267962578a853351f43d60069f6558e" "7ac4457b8fa1cae6b6889152e6210363222d6a81" "48e569f267cca6adc3449e694eb4065eb5662282" )
     % Things that change per piece:
     title = "La bella pargoletta"
     subtitle = ""
@@ -135,4 +136,5 @@
         }
     }
 }
+
 

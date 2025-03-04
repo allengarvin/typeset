@@ -15,6 +15,7 @@
     final = "d"
     \include "include/distribution-header.ly"
     cksum = "7b7c5fc79366327cf8a262ae227aa8c91c287a2d"
+    sametext = #'(  "c5915c2c57b3976bde3de6e4a7310fc4007d7741" "7b7c5fc79366327cf8a262ae227aa8c91c287a2d" )
     % Things that change per piece:
     title = "Baci soavi e cari"
     subtitle = ""
@@ -131,4 +132,5 @@
         }
     }
 }
+
 

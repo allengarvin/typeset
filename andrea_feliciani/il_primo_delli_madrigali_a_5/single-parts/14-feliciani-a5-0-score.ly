@@ -13,6 +13,7 @@
     originallyset = "2023-01-20"
     \include "include/distribution-header.ly"
     cksum = "5b5a9ff1d7220378d48b912666f4971117b7caed"
+    sametext = #'(  "5b5a9ff1d7220378d48b912666f4971117b7caed" "177305005037b06b6b5373f50425fa412b95f293" )
     % Things that change per piece:
     title = "Erano i capei d'oro"
     subtitle = "Prima parte"
@@ -122,4 +123,5 @@
         }
     }
 }
+
 

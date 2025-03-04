@@ -28,6 +28,7 @@
     motifs = "[fortune,friendship,faithfulness]"
     \include "include/distribution-header.ly"
     cksum = "4ea003b35efffbed1e07f567992e812384c24549"
+    sametext = #'(  "4ea003b35efffbed1e07f567992e812384c24549" "82df0d1062d0b7da2c0d0f1a85286ca3d9b1b7ef" )
     tagline = #'f
 }
 
@@ -118,5 +119,6 @@
         }
     }
 }
+
 
 

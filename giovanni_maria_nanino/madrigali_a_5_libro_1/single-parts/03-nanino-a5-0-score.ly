@@ -13,6 +13,7 @@
     originallyset = "2022-12-03"
     \include "include/distribution-header.ly"
     cksum = "177305005037b06b6b5373f50425fa412b95f293"
+    sametext = #'(  "5b5a9ff1d7220378d48b912666f4971117b7caed" "177305005037b06b6b5373f50425fa412b95f293" )
     % Things that change per piece:
     title = "Erano i capei d'oro a l'aura sparsi"
     subtitle = "Prima parte"
@@ -120,4 +121,5 @@
         }
     }
 }
+
 

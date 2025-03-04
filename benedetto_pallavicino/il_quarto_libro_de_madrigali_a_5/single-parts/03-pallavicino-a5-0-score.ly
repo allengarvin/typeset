@@ -15,6 +15,7 @@
     final = "g"
     \include "include/distribution-header.ly"
     cksum = "aa9f90ecc80526434d33ee005c9377e1cd9c3203"
+    sametext = #'(  "aa9f90ecc80526434d33ee005c9377e1cd9c3203" "9f6a74e85ba8ca2a66b2d40f1e3aa6ca3c692dec" )
     % Things that change per piece:
     title = "Non mirar, non mirare"
     subtitle = ""
@@ -113,4 +114,5 @@
         }
     }
 }
+
 

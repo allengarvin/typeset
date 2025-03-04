@@ -26,6 +26,7 @@
     motifs = "[laura-l'aura-wordplay,shadow]"
     \include "include/distribution-header.ly"
     cksum = "752597b2d72c3adc378982b2b99333fd3b7f15ef"
+    sametext = #'(  "752597b2d72c3adc378982b2b99333fd3b7f15ef" "439177dca36323a6bb424d364f06ada806c87d9b" )
     tagline = #'f
 }
 
@@ -105,5 +106,6 @@
 
 
 }
+
 
 

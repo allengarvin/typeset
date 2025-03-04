@@ -29,6 +29,7 @@
     originallyset = "2022-08-31"
     \include "include/distribution-header.ly"
     cksum = "f5ba7e72bfc01532868035adef96c9961bcb91dc"
+    sametext = #'(  "3f249f9ca464940d96700b11b79c804c724f0542" "f5ba7e72bfc01532868035adef96c9961bcb91dc" "0ad519ed7eb8dc173ad3fb3dedb1fe9311e9c958" )
     tagline = #'f
 }
 
@@ -108,4 +109,5 @@
         }
     }
 }
+
 

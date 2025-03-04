@@ -28,6 +28,7 @@
     rhyme = "ABABABCC"
     \include "include/distribution-header.ly"
     cksum = "8604c3cd52bd88bce91ac763b8e4fa7cd9b0572b"
+    sametext = #'(  "beb7bfc697bcb1ce7c8b5e48b381496ef4d4d81b" "8604c3cd52bd88bce91ac763b8e4fa7cd9b0572b" )
     tagline = #'f
 }
 
@@ -90,5 +91,6 @@
         }
     }
 }
+
 
 

@@ -15,6 +15,7 @@
     final = "g"
     \include "include/distribution-header.ly"
     cksum = "bbf12eeaa4433f843fdbf74f0825dec4213b0e86"
+    sametext = #'(  "bbf12eeaa4433f843fdbf74f0825dec4213b0e86" "98d1afda0ff8d197c284125a226a3119f1bbddec" )
     % Things that change per piece:
     title = "Talor m'assale in mezzo"
     subtitle = "Seconda parte"
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

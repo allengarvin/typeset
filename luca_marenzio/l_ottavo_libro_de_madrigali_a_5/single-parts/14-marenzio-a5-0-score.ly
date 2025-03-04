@@ -15,6 +15,7 @@
     final = "a"
     \include "include/distribution-header.ly"
     cksum = "8e4803967ce01631cfdcf24fbdd65339d15175f4"
+    sametext = #'(  "8e4803967ce01631cfdcf24fbdd65339d15175f4" "d1df96ab2f018895664b618cef5254ac70065e46" )
     % Things that change per piece:
     title = "Care lagrime mie"
     subtitle = ""
@@ -133,4 +134,5 @@
         }
     }
 }
+
 

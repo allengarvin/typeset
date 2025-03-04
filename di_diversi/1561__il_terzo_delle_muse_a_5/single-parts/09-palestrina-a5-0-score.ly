@@ -15,6 +15,7 @@
     final = "a"
     \include "include/distribution-header.ly"
     cksum = "b5997c2ae1a19b77e6bbf74c2ffb0d5799c12fcd"
+    sametext = #'(  "b5997c2ae1a19b77e6bbf74c2ffb0d5799c12fcd" "aea3ffbe58a5ae902622069c8b71ce2f2160013d" )
     % Things that change per piece:
     title = "Io son ferito, ahi lasso"
     subtitle = ""
@@ -123,5 +124,6 @@
         }
     }
 }
+
 
 

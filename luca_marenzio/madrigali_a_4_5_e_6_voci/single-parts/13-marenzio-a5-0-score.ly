@@ -15,6 +15,7 @@
     final = "a"
     \include "include/distribution-header.ly"
     cksum = "095f3bf2133a4b0b96dece87a56743b9008d4a62"
+    sametext = #'(  "095f3bf2133a4b0b96dece87a56743b9008d4a62" "abca39521bbc22aad57e81daf5d988528cc917aa" )
     % Things that change per piece:
     title = "Fiere silvestre"
     subtitle = ""
@@ -116,4 +117,5 @@
         }
     }
 }
+
 

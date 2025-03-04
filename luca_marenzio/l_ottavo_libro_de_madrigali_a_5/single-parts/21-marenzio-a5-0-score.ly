@@ -15,6 +15,7 @@
     final = "a"
     \include "include/distribution-header.ly"
     cksum = "bcdcab45ead53f12d5fd554d822d8f9c4945b95e"
+    sametext = #'(  "bcdcab45ead53f12d5fd554d822d8f9c4945b95e" "78bd0cf317404de172a12ce1a83e25fcf65b48b7" )
     % Things that change per piece:
     title = "Perfida pur potesti"
     subtitle = "Seconda parte"
@@ -118,4 +119,5 @@
         }
     }
 }
+
 

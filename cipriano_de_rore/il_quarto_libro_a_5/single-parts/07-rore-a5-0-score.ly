@@ -29,6 +29,7 @@
     motifs = "[night,hope]"
     \include "include/distribution-header.ly"
     cksum = "e4c06e4dc1973c27bf642d7acbf5e39773fa7a29"
+    sametext = #'(  "e4c06e4dc1973c27bf642d7acbf5e39773fa7a29" "3d526efc87227cb24ef5c23aa2491ba3d2283f53" )
     tagline = #'f
 }
 
@@ -118,5 +119,6 @@
         }
     }
 }
+
 
 

@@ -15,6 +15,7 @@
     final = "d"
     \include "include/distribution-header.ly"
     cksum = "a13dd640851feda9e691eea8104311bbcaaeffed"
+    sametext = #'(  "46f836e9fc50df2e6416be016b7873b6a70a2a16" "a13dd640851feda9e691eea8104311bbcaaeffed" )
     % Things that change per piece:
     title = "I' vidi in terra angelici costumi"
     subtitle = "Prima parte"
@@ -121,4 +122,5 @@
         }
     }
 }
+
 

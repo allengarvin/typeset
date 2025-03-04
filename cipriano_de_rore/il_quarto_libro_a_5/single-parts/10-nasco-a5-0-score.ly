@@ -15,6 +15,7 @@
     final = "c"
     \include "include/distribution-header.ly"
     cksum = "17e582bb3628c405bccf662a73eb5e9be3f58a08"
+    sametext = #'(  "17e582bb3628c405bccf662a73eb5e9be3f58a08" "aa0734a28ba6645642fcd77f4951c7b010d6ec76" )
     % Things that change per piece:
     title = "Io mi rivolgo"
     subtitle = "Prima parte"
@@ -122,4 +123,5 @@
         }
     }
 }
+
 

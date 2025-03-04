@@ -15,6 +15,7 @@
     final = "c"
     \include "include/distribution-header.ly"
     cksum = "0c6850c9cee6b6988162cd73774d515021867226"
+    sametext = #'(  "0c6850c9cee6b6988162cd73774d515021867226" "c921accb92bc8c83721358a057ada87d2e35fe27" )
     % Things that change per piece:
     title = "O Mirtillo, Mirtillo, anima mia"
     subtitle = ""
@@ -132,4 +133,5 @@
         }
     }
 }
+
 

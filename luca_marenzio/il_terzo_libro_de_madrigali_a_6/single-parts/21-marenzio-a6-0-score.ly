@@ -15,6 +15,7 @@
     final = "g"
     \include "include/distribution-header.ly"
     cksum = "bdcf7faf1b71847b7dab9f187e760addadddcc7d"
+    sametext = #'(  "bdcf7faf1b71847b7dab9f187e760addadddcc7d" "474df0ed4b00ed8237c770a194780d11927343c3" )
     % Things that change per piece:
     title = "O quante volte in van"
     subtitle = ""
@@ -131,4 +132,5 @@
         }
     }
 }
+
 

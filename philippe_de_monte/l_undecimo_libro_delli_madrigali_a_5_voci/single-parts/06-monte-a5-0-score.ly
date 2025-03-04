@@ -15,6 +15,7 @@
     final = "g"
     \include "include/distribution-header.ly"
     cksum = "16a86c444a539ceba7b6d592480a89bd98ce91bb"
+    sametext = #'(  "27072dc68a1dc9f877d0fbd2c821b8d9e2cd52e7" "16a86c444a539ceba7b6d592480a89bd98ce91bb" )
     % Things that change per piece:
     title = "Donna, se ben le chiome ho già ripiene"
     subtitle = ""
@@ -119,4 +120,5 @@
         }
     }
 }
+
 

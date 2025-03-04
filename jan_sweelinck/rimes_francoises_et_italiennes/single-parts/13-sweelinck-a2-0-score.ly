@@ -15,6 +15,7 @@
     final = "g"
     \include "include/distribution-header.ly"
     cksum = "bdd8d58120bae54ec124dcd65c1e115aa8ac1cb1"
+    sametext = #'(  "bdd8d58120bae54ec124dcd65c1e115aa8ac1cb1" "5a41ce3cb4fa4cdc47a1d578c97ed02176cee6f3" )
     % Things that change per piece:
     title = "Liquide perle"
     subtitle = ""
@@ -96,4 +97,5 @@
     }
 
 }
+
 

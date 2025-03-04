@@ -27,6 +27,7 @@
     poeticform = "sonnet"
     \include "include/distribution-header.ly"
     cksum = "c96a27b21fa90c2343b0830b0cdd3b314e3ce42b"
+    sametext = #'(  "c96a27b21fa90c2343b0830b0cdd3b314e3ce42b" "bf00dca8c80a69b4f603c32d981e5dae55483830" )
     tagline = #'f
 }
 
@@ -111,5 +112,6 @@
 
 
 }
+
 
 

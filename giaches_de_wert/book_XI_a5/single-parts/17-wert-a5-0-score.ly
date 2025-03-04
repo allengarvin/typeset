@@ -15,6 +15,7 @@
     final = "e"
     \include "include/distribution-header.ly"
     cksum = "b1579aa59766b2618feca51e7c73522c99ef8f6c"
+    sametext = #'(  "b1579aa59766b2618feca51e7c73522c99ef8f6c" "51b96f7ddaef985ca1916c87fcb9792c0a6a53f9" )
     % Things that change per piece:
     title = "Anima del cor mio"
     subtitle = ""
@@ -119,4 +120,5 @@
         }
     }
 }
+
 
