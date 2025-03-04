@@ -13,6 +13,7 @@
     originallyset = "2022-12-18"
     \include "include/distribution-header.ly"
     cksum = "d4f3776e7106ea51dd2330f8fc1783ccf520b792"
+    sametext = #'(  "15107947d6c4b118d09067885d04f6164c9485be" "0687a5de9a2bde090a98637f8f42f19f32bbcd5d" )
     % Things that change per piece:
     title = "Vita della mia vita"
     subtitle = ""

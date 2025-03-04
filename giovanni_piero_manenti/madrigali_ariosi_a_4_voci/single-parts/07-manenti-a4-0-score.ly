@@ -15,6 +15,7 @@
     final = "a"
     \include "include/distribution-header.ly"
     cksum = "f8acc591396b50cd6e6af3152ff9870cfc95d8a7"
+    sametext = #'(  "f8acc591396b50cd6e6af3152ff9870cfc95d8a7" "ae815318928169ec20fce1a283506b8c53d770f5" "f4f175ecf969b03299be6dfe4c9238097cff3764" "927cc2a2d7826e5c62453e8888fa37fce167166c" "c27233f8a04fa758a3f193fecd313a09eb374875" )
     % Things that change per piece:
     title = "Mia benigna fortuna"
     subtitle = ""

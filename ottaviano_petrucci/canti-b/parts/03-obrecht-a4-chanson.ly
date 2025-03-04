@@ -1,5 +1,5 @@
 cantusIIIincipit = \relative c'' {
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c1"
 
     a\breve
@@ -8,6 +8,7 @@ cantusIIIincipit = \relative c'' {
 % cantus: checked up until double bar
 % cantus: checked 2nd part
 cantusIII = \relative c'' {
+    \key c \major
     \fourTwoCutTime
 
     \ficta s1*0 _\markup "Jay pris amours"
@@ -83,7 +84,7 @@ cantusIII = \relative c'' {
 
 
 altusIIIincipit = \relative c'' {
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c2"
     
     a\breve
@@ -92,6 +93,7 @@ altusIIIincipit = \relative c'' {
 % altus: checked against source
 altusIII = \relative c'' {
     \fourTwoCutTime
+    \key c \major
     
     \ficta
     s1*0_\markup "Jay pris amours" 
@@ -163,7 +165,7 @@ altusIII = \relative c'' {
 
 % tenor: checked against source
 tenorIIIincipit = \relative c' {
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-c4"
 
     d\breve
@@ -171,6 +173,7 @@ tenorIIIincipit = \relative c' {
 
 tenorIII = \relative c' {
     \fourTwoCutTime
+    \key c \major
 
     \ficta
     d1 c2 a | b d1 cs2 | d b c4 a2 gs4 | a2 g4. f8 e4 d r d'4 ~ | 
@@ -239,7 +242,7 @@ tenorIII = \relative c' {
 
 
 bassusIIIincipit = \relative c {
-    \fourTwoCutTime
+    \time 2/2
     \clef "petrucci-f4"
 
     d\breve
@@ -247,6 +250,7 @@ bassusIIIincipit = \relative c {
 
 bassusIII = \relative c {
     \fourTwoCutTime
+    \key c \major
 
     d1 a'2 f | g b a1 | d,2 e4. d8 c4 d b2 | a r4 c2 d4 e g4 ~ | 
     g8[ a8] f4 e2 a, r | r1 a'4. g8 f4 e | f d e2 a,4. b8 c4 d4 ~| 

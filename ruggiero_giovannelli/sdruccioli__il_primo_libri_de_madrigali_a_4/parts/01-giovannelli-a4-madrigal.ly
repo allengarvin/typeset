@@ -1,10 +1,10 @@
 % <Barcinio>
 % Qui cantò Meliseo, qui proprio assisimi,
-% quand'ei scrisse in quel faggio: — Vidi, io misero,
-% vidi Filli morire, e non uccisimi. —
+% quand'ei scrisse in quel faggio: «vidi, io misero,
+% vidi Filli morire, e non uccisimi.» 
 % <Summonzio>
-% Oh pietà grande! E quali Dii permisero
-% a Meliseo venir fato tant'aspero?
+% O pietà grande! E quali Dii permisero
+% a Meliseo venir fatto tant'aspero?
 % perché di vita pria non lo divisero?
 % 
 % <Summonzio>
@@ -33,6 +33,7 @@
 % — Filli, deh non fuggir, ch'io seguo; aspettami,
 % portane il cor, che qui lasciando accorilo. —
 
+% ecologa XII
 
 cantoIincipit = \relative c'' {
     \clef "petrucci-g"
@@ -42,8 +43,8 @@ cantoIincipit = \relative c'' {
     g2
 }
 
+% canto: checked against source
 cantoI = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCommonTime
 
@@ -65,15 +66,34 @@ cantoI = \relative c'' {
     r4 d2 c8[ bf] a4. a8 g4 d' | d e f d e4. e8 e4 e | f e d d c1 | 
 
     r4 c2 bf8[ bf] a4. a8 a2 | r2 r4 a bf bf bf c | 
-        d d2 c8[ bf] a4. g8 fs4. fs8 | g1
+        d d2 c8[ bf] a4.( g8 fs4.) fs8 | g1
 
     r2 bf | a c c bf | 
+        \invisibleTime\time 6/2 s1*0 \raisedSixTwoTime
         a1 \times 2/3 { a2 a g } g2. g4
-        g\longa*1/2
+        \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 cantoLyricsI = \lyricmode {
+    Qui can -- tò Me -- li -- seo, qui pro -- prio~as -- si -- si -- mi,
+        qui pro -- prio~as -- si -- si -- mi,
+    Qui __ can -- tò Me -- li -- seo, qui pro -- prio~as -- si -- si -- mi,
+        qui pro -- prio~as -- si -- si -- mi,
+        qui pro -- prio~as -- si -- si -- mi,
+    Quan -- d'ei scris -- se~in quel fag -- gio: vi -- d'io mi -- se -- ro,
+%    Vi -- di Fil -- li mo -- ri -- re,
+    Vi -- di Fil -- li mo -- ri -- re~e non __ uc -- ci -- si -- mi,
+    Vi -- di Fil -- li mo -- ri -- re~e non uc -- ci -- si -- mi.
+
+    O pie -- tà gran -- de! e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+        e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+        e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro?
+    Per -- ché di vi -- ta pria non lo di -- vi -- se -- ro?
 }
 
 altoIincipit = \relative c'' {
@@ -84,8 +104,8 @@ altoIincipit = \relative c'' {
     g4
 }
 
+% alto: checked against source
 altoI = \relative c'' {
-    \clef mezzosoprano
     \key f \major
     \fourTwoCommonTime
 
@@ -93,7 +113,7 @@ altoI = \relative c'' {
 
     a2 a4 a g2 c, | g'4. f8 e4. e8 d2 r4 d | a'4. g8 f4. e8 d2 r2 | 
 
-    r2 a1 b2 | c c4 a bf1 | a4 a2 g4 e2. e4 | e1 e4 fs g2 |
+    r2 a'1 b2 | c c4 a bf1 | a4 a2 g4 e2. e4 | e1 e4 fs g2 |
         g4 g g2 f g4 a ~ | a4 g2
 
     fs4 g b2 c4 | c2 c4 c bf1 | a2. g2 f4 e4. e8 | fs1 g ~ | g2 g g1 |
@@ -108,13 +128,31 @@ altoI = \relative c'' {
         f a2 a8[ g] f4. d8 d2 ~ | d1
 
     r2 g | fs g a g |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         e1 \times 2/3 { f2 f d } ef2. ef4
-        d\longa*1/2
+        \invisibleTime\time 4/2 d\longa*1/2
     
     \bar "|."
 }
 
 altoLyricsI = \lyricmode {
+    Qui can -- tò Me -- li -- seo, qui pro -- prio~as -- si -- si -- mi,
+        qui pro -- prio~as -- si -- si -- mi,
+        qui pro -- prio~as -- si -- si -- mi,
+        qui pro -- prio~as -- si -- si -- mi,
+    Quan -- d'ei scris -- se~in quel fag -- gio: vi -- d'io mi -- se -- ro,
+%    Vi -- di Fil -- li mo -- ri -- re,
+    Vi -- di Fil -- li mo -- ri -- re~e non uc -- ci -- si -- mi,
+    Vi -- di Fil -- li mo -- ri -- re~e non uc -- ci -- si -- mi.
+
+    O __ pie -- tà gran -- de! e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+        e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+        e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro? __
+    Per -- ché di vi -- ta pria non lo di -- vi -- se -- ro?
 }
 
 tenoreIincipit = \relative c' {
@@ -125,8 +163,8 @@ tenoreIincipit = \relative c' {
     g2
 }
 
+% tenore: checked against source
 tenoreI = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -135,10 +173,10 @@ tenoreI = \relative c' {
     f2 g4 g a2 | d, a'4. g8 f4. e8 d2 | r4 e a4. g8 f4. f8 
 
     e2 | r2 fs1 g2 | g g4 f f1 | f4 f2 d4 cs2. cs4 |
-        cs1 c4 d d2 | d4 d ef2 d bf4 c | 
+        cs1\ficta c4\unficta d d2 | d4 d ef2 d bf4 c | 
 
     d2. d4 g,2 g'4 g | a2 a4 a f1 | f4 c d e2 d cs4 | d1 b | b2 d1 c2 ~ |
-        c b c
+        c( b) c
 
     r4 c | d4. e8 f4 d e4. e8 e4 e | f f f d c2 f ~ | f4 e8[ d] c4. c8 d2 r4 d |
         d4. d8
@@ -150,12 +188,33 @@ tenoreI = \relative c' {
         g1 r2 d' | d
 
     e2 f d |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         cs1 \times 2/3 { d2 c b } c2. c4
-        b\longa*1/2
+        \invisibleTime\time 4/2 b\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsI = \lyricmode {
+    Qui can -- tò Me -- li -- seo, qui pro -- prio~as -- si -- si -- mi,
+    Qui can -- tò Me -- li -- seo, qui pro -- prio~as -- si -- si -- mi,
+        qui pro -- prio~as -- si -- si -- mi,
+    Quan -- d'ei scris -- se~in quel fag -- gio: vi -- d'io mi -- se -- ro,
+%    Vi -- di Fil -- li mo -- ri -- re,
+    Vi -- di Fil -- li mo -- ri -- re~e non uc -- ci -- si -- mi,
+    Vi -- di Fil -- li mo -- ri -- re e non uc -- ci -- si -- mi.
+
+    O pie -- tà gran -- de! e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+        e qua -- li Dii per -- mi -- se -- ro
+%    A Me -- li -- seo ve -- nir 
+        fat -- to tan -- t'a -- spe -- ro,
+        e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+        fat -- to tan -- t'a -- spe -- ro,
+    \ijLyrics
+        fat -- to tan -- t'a -- spe -- ro?
+    \normalLyrics
+    Per -- ché di vi -- ta pria non lo di -- vi -- se -- ro?
 }
 
 bassoIincipit = \relative c' {
@@ -166,8 +225,8 @@ bassoIincipit = \relative c' {
     g2
 }
 
+% basso: checked against source
 bassoI = \relative c' {
-    \clef varbaritone
     \key f \major
     \fourTwoCommonTime
 
@@ -188,14 +247,30 @@ bassoI = \relative c' {
         f,4 f 
     
     f4 g a2 d ~ | d4 c8[ bf] a4. a8 g4 g2 f8[ e] | d2 d d1 | r1 g | d2 c f g |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         a1
 
-    \times 2/3 { d2 f g } c,2. c4
-        g'\longa*1/2
+    \times 2/3 { d,2 f g } c,2. c4
+        \invisibleTime\time 4/2 g'\longa*1/2
     \bar "|."
 }
 
 bassoLyricsI = \lyricmode {
+    Qui can -- tò Me -- li -- seo, qui pro -- prio~as -- si -- si -- mi,
+        qui pro -- prio~as -- si -- si -- mi,
+        qui pro -- prio~as -- si -- si -- mi,
+    Quan -- d'ei scris -- se~in quel fag -- gio: vi -- d'io mi -- se -- ro,
+    Vi -- di Fil -- li mo -- ri -- re,
+    Vi -- di Fil -- li mo -- ri -- re~e non uc -- ci -- si -- mi.
+
+    O __ pie -- tà gran -- de! e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+        e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+        e qua -- li Dii per -- mi -- se -- ro
+    A Me -- li -- seo ve -- nir fat -- to tan -- t'a -- spe -- ro,
+        fat -- to tan -- t'a -- spe -- ro?
+    Per -- ché di vi -- ta pria non lo di -- vi -- se -- ro?
 }
 
 cantoIincipitVoice = <<

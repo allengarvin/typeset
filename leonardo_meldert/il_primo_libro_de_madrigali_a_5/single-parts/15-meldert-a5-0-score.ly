@@ -26,6 +26,7 @@
     motifs = "[la-petite-mort]"
     \include "include/distribution-header.ly"
     cksum = "ad2924d5acae14af26ee1d11907a3fe02453a5c9"
+    sametext = #'(  "d3d33a8c715c61f15df05924c49f8a1b611de36c" "e51db4502ee375d6a77679a23eca2a893ab28647" "a4271b0c1d8c399279fa4e3aac9653999921903c" "ad2924d5acae14af26ee1d11907a3fe02453a5c9" "34e9ac3d4aaaf0988c1c0851da061489960238f0" "9cd53599431230943af2485d757b05a490be6eed" )
     tagline = #'f
 }
 

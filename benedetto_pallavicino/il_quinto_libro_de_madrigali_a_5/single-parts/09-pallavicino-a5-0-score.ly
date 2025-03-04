@@ -31,6 +31,7 @@
     rhyme = "AbAbcDDEfF"
     \include "include/distribution-header.ly"
     cksum = "7ea48646b9778d1914d9c093b422aa7641878074"
+    sametext = #'(  "ad92deafa7093f8f0b48ab3b7d214db53b512c19" "eb1a773618c7672e65fe92924364c0512ea85181" "7ea48646b9778d1914d9c093b422aa7641878074" "96c36afb1514da05bd62697f9bd786c1a5620737" )
     tagline = #'f
 }
 

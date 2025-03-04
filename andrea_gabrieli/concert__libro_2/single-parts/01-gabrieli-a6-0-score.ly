@@ -26,6 +26,7 @@
     categories = "[chromatic,madrigal]"
     \include "include/distribution-header.ly"
     cksum = "e93772d90d0031c567918015c4eb2dea8b40b74d"
+    sametext = #'(  "e216e50733a286ccaf79354927a75df58c331475" "74077265c785e364693575aec96b128b2779b647" "dbb32909b741e00334b2f50acb58ec8be1ae079d" "6cc7efcd4379e3128f5e52d582a4aa1003c88562" "5a2766bbd6a6f485647aa4228061ee5f4e674526" "1d147a4a1bcbbfb07b38ebd76cfa36acdefb6c34" "7d0e1fd12a04ffcdfa959ee6f2373e582b140a5e" "e93772d90d0031c567918015c4eb2dea8b40b74d" "c988da420a45ed600896333112f2391b21e711f3" )
     tagline = #'f
 }
 

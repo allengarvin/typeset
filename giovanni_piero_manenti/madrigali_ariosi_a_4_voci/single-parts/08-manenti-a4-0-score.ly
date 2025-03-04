@@ -15,6 +15,7 @@
     final = "a"
     \include "include/distribution-header.ly"
     cksum = "99942f4ced8ec7852f51771a96b9446c08debcde"
+    sametext = #'(  "99942f4ced8ec7852f51771a96b9446c08debcde" "0cf527c6a59da1599d6493a0c653e0760cc0fe8c" "0e09c27fbea71f65a3604142aee239866205decd" "efd36183e48b26c471865aabf92dda948c33ee1f" "5326fb505639e39bdcbb40bd65b009a068f00a48" )
     % Things that change per piece:
     title = "Crudele, acerba, inesorabil morte"
     subtitle = ""

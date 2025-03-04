@@ -28,6 +28,8 @@
     motifs = "[shepherd,virgin,rose]"
     \include "include/distribution-header.ly"
     cksum = "d78990b57edba7bc7a9248ce262ae7a197f301fc"
+    sametext = #'( "d78990b57edba7bc7a9248ce262ae7a197f301fc" "c1ab0223e1eed1800a8f03aa7b9b6848ea55eef1" "777e81e134c9f10e351c9ec12d0642396819e6a7" "bce571f933a6602dc7c077f30e2501ab7c954af8" "4c8d5169c5ed70c9dbc0a9b268d8e0c3cdcd93ca" "48d455c79ccf8c0307fe5f3eb88f77d2da6b57e4" "6fce951d4a6a911fbf74205a24d4466fbaf0762b" "8678869a932fb7ddf5395c1be8fb5df8adeea89a" "9a1a30cee87387883c32ba37bdfc0923912d3fe8" )
+
     tagline = #'f
 }
 

@@ -16,8 +16,8 @@
     composer = "Obrecht, Jacob (c.1452-1505)"
 
     % Things that change per part:
-    partname = "Tenor (part 3 of 4)"
-    instrument = "Jay pris amours (tenor)"
+    partname = "Altus (part 2 of 4)"
+    instrument = "Jay pris amours (altus)"
 
     % Unchanging:
     originallyset = "2013-04-13"
@@ -28,35 +28,32 @@
 }
 
 \include "../parts/03-obrecht-a4-chanson.ly"
-
+    
 \book {
-    \bookOutputName "03-canti_b--jay_pris_amours"
-    \bookOutputSuffix "--3-tenor--tr8_clef"
+    \bookOutputName "03-obrecht--jay_pris_amours"
+    \bookOutputSuffix "--2-altus--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble_8"
+            \clef treble
             \global 
-            \tenorIII 
+            \altusIII
         >>
-        \header {
-            partname = "Bassus"
-        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "03-canti_b--jay_pris_amours"
-    \bookOutputSuffix "--3-tenor--al_clef"
+    \bookOutputName "03-obrecht--jay_pris_amours"
+    \bookOutputSuffix "--2-altus--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef alto
             \global 
-            \tenorIII 
+            \altusIII 
         >>
-        \header {
-            partname = "Bassus"
-        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+

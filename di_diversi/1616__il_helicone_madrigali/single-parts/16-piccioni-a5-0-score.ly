@@ -15,6 +15,7 @@
     final = "c"
     \include "include/distribution-header.ly"
     cksum = "284dc01cec8a2bbb76049c83d0b991bf8bcc2e43"
+    sametext = #'(  "748a9a39552e548c7e9c84cbeca8e8ad77b7d4dc" "284dc01cec8a2bbb76049c83d0b991bf8bcc2e43" "9362dbe9999a06f8604562f1d1be338b525edbfc" "2b29158def6c3e43492a26f0402aea6d7b078b3d" )
     % Things that change per piece:
     title = "Ut re me fa so la"
     subtitle = ""

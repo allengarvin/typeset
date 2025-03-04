@@ -6,7 +6,7 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.5)
+#(set-global-staff-size 17.0)
 
 \header {
     % Things that change per piece:
@@ -31,11 +31,14 @@
 \include "../parts/03-obrecht-a4-chanson.ly"
     
 \book {
-    \bookOutputName "03-canti_b--jay_pris_amours"
+    \bookOutputName "03-obrecht--jay_pris_amours"
     \bookOutputSuffix "--0-score"
     \score {
          <<
-            \new ChoirStaff = choirStaff <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+            } <<
+
                 \new Voice << 
                     \set Staff.instrumentName = #"[Cantus]"
                     \incipit \cantusIIIincipitVoice

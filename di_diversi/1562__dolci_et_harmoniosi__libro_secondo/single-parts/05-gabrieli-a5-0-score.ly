@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "Sì che, s'io vissi in guerra ed in tempesta"
+    title = "Sì che, s'io vissi in guerra"
     subtitle = "Seconda parte"
     composer = "Andrea Gabrieli (c.1532-1585)"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXV (365) }
@@ -26,6 +26,7 @@
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
     cksum = "409c4e01743b0def97eec061ad44499b49dd2099"
+    sametext = #'(  "409c4e01743b0def97eec061ad44499b49dd2099" "dd9d2516fcdd5ab00b495d5ffa59f2843a8a67c5" "eb5d98b5506172fe48b7f83e6b216346c2c01643" "13eec4ca932780e3f6bd8dd809c253ffddcdf1fe" "2581a49948a2d82efba1ea3c50406bfad1953a33" "d762a06b5922cf789b8d57216e8d0181cd18426d" "cb74bb48400f6588eae1d1200d9a22563ea17730" "98fba83d6f4b1ab2b1642eca1fbd0a9c6324bc15" )
     tagline = #'f
 }
 
