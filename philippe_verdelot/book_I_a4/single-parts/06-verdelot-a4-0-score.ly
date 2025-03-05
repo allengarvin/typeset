@@ -21,6 +21,7 @@
     flats = 1
     final = "f"
     categories = "[madrigal]"
+    motifs = "[cupid,amore,deceit]"
     \include "include/distribution-header.ly"
     cksum = "0062feb2e1e11b72597ad1b80fb470570935c474"
     tagline = #'f

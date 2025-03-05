@@ -24,6 +24,7 @@
     final = "f"
     shorttitle = "ne_spero_i_dolci"
     categories = "[madrigal]"
+    motifs = "[hope,hope-lost]"
     \include "include/distribution-header.ly"
     cksum = "049299778dae1549d3c1e38b56ea7d2a0a236dc7"
     sametext = #'(  "fca1309e0bdd8b9e6fbda950e07a31ba80f3081a" "049299778dae1549d3c1e38b56ea7d2a0a236dc7" )

@@ -23,6 +23,7 @@
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
     shortcomp = "palestrina"
     categories = "[madrigal]"
+    motifs = "[virgin,wisdom,paradox]"
     needtranslation = #'f
     final = "a"
     flats = 0

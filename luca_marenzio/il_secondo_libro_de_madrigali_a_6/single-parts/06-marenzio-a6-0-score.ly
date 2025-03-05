@@ -19,6 +19,7 @@
     % Unchanging:
     originallyset = "2015-07-08"
     lastupdated = "2015-07-08"
+    motifs = "[hope,escape,blindness,hell]"
     flats = 0
     final = "d"
     categories = "[madrigal]"
@@ -99,7 +100,6 @@
     \markup {
         \fill-line {
             \column {
-                \vspace #4
                 % Reviewed 2020-01-31
                 \line { Fuggi, speme mia, fuggi }
                 \line { E fuggi per non far mai più ritorno; }
@@ -110,7 +110,6 @@
                 \line { Ove l'aspro martir mio viva eterno. }
             }
             \column {
-                \vspace #4
                 \line { Flee, my hope, flee, }
                 \line { and flee to never return; }
                 \line { You alone, who destroy  }

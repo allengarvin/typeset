@@ -15,6 +15,7 @@
     final = "g"
     \include "include/distribution-header.ly"
     cksum = "3e1acb07f4ee3101c0a9a1ca339fa5481e7460ca"
+    sametext = #'( "16770c7fb3f3ee933a3ac9b20d89f9282b23cd23" "3e1acb07f4ee3101c0a9a1ca339fa5481e7460ca" "81e9dc724283ee1382e04f61c7856b797705720c" "47760582d1d1f9666266546246558d0093bc8ce6" "42d54dc7f79c7f7b3020d1bc8e03cf38ff1bce38" )
     % Things that change per piece:
     title = "Ardi e gela a tua voglia"
     subtitle = "Risposta"
@@ -23,7 +24,7 @@
     shorttitle = "ardi_e_gela_a_tua_voglia"
     shortcomp = "vecchi"
     categories = "[madrigal]"
-    motifs = "[]"
+    motifs = "[paradox,fire,ice,female-pov,scorn,disdain]"
     needtranslation = #'f
     folio = "Torquato Tasso (1544-1595)"
 

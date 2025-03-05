@@ -21,6 +21,7 @@
     shorttitle = "sapete_amanti_perche_ignudo_sia"
     shortcomp = "marenzio"
     categories = "[madrigal]"
+    motifs = "[cupid,amore,naked]"
     final = "f"
     flats = 1
     needtranslation = #'f

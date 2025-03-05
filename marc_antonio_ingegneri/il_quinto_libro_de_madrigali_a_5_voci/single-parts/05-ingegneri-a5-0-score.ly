@@ -15,6 +15,7 @@
     final = "f"
     \include "include/distribution-header.ly"
     cksum = "533d7657f4fd029fee7aca7d6a5a06042f20e5c0"
+    sametext = #'(  "c37c7186b338aef4fe971d31f47cd3ee8fdcd378" "7bd853f8dec571f7aad6f48da756b6574a34cfde" "5afb64aec2e740d3c59d643c0fa5c3694b5f4232" "533d7657f4fd029fee7aca7d6a5a06042f20e5c0" "ea102c599937dffcda61dea549d81592f6718a7d" )
     % Things that change per piece:
     title = "Ardo sì ma non t'amo"
     subtitle = ""
@@ -24,7 +25,7 @@
     shorttitle = "ardo_si_ma_non_tamo"
     shortcomp = "ingegneri"
     categories = "[madrigal]"
-    motifs = "[passion,disdain,amore]"
+    motifs = "[passion,disdain,amore,bitterness]"
     needtranslation = #'f
     poeticform = "madrigal"
     folio = "Giovanni Battista Guarini (1536-1612)"

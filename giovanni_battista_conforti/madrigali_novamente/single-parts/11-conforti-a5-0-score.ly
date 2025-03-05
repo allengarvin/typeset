@@ -21,6 +21,7 @@
     shorttitle = "tiranno_amor"
     shortcomp = "conforti"
     categories = "[madrigal]"
+    motifs = "[amore,cupid,arrows,deceit]"
     final = "g"
     flats = 1
     needtranslation = #'f

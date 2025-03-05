@@ -15,7 +15,7 @@
     final = "f"
     \include "include/distribution-header.ly"
     cksum = "5afb64aec2e740d3c59d643c0fa5c3694b5f4232"
-    sametext = #'(  "ad92deafa7093f8f0b48ab3b7d214db53b512c19" "eb1a773618c7672e65fe92924364c0512ea85181" "7ea48646b9778d1914d9c093b422aa7641878074" "96c36afb1514da05bd62697f9bd786c1a5620737" )
+    sametext = #'(  "c37c7186b338aef4fe971d31f47cd3ee8fdcd378" "7bd853f8dec571f7aad6f48da756b6574a34cfde" "5afb64aec2e740d3c59d643c0fa5c3694b5f4232" "533d7657f4fd029fee7aca7d6a5a06042f20e5c0" "ea102c599937dffcda61dea549d81592f6718a7d" )
     % Things that change per piece:
     title = "Ardo sì ma non t'amo"
     subtitle = ""
@@ -25,7 +25,7 @@
     shorttitle = "ardo_si_ma_non_tamo"
     shortcomp = "monteverdi"
     categories = "[madrigal]"
-    motifs = "[passion,disdain,amore]"
+    motifs = "[passion,disdain,amore,bitterness]"
     needtranslation = #'f
     folio = "Giovanni Battista Guarini (1536-1612)"
 

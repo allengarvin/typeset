@@ -15,6 +15,8 @@
 
     lastupdated = "2025-03-04"
     originallyset = "2025-03-04"
+    flats = 0
+    final = "a"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Ardi e gela a tua voglia"

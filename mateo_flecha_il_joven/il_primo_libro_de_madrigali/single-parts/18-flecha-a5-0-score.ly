@@ -24,6 +24,7 @@
     % Attribution via https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2FOPR00000617
     folio = "Malipiero Girolamo (1490-1547)"
     shortcomp = "flecha"
+    motifs = "[amore,sighs]"
     categories = "[madrigals]"
     needtranslation = #'t
 

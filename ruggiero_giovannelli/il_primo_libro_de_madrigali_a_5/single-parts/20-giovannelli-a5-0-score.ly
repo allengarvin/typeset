@@ -13,6 +13,8 @@
     cksum = "90563259910951f80ddde1ceecd1fe6c7770e3c3"
     lastupdated = "2025-03-04"
     originallyset = "2025-03-04"
+    flats = 1
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Donò Licori a Tirsi"

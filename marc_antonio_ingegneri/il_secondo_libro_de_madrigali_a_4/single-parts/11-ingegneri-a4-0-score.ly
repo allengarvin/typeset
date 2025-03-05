@@ -25,6 +25,7 @@
     flats = 1
     final = "f"
     categories = "[madrigal]"
+    poeticform = "ottava rima"
     \include "include/distribution-header.ly"
     cksum = "a6fa2562beda66c31556368cb3d123145afa3a6b"
     tagline = #'f
