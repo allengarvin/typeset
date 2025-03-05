@@ -127,7 +127,7 @@
         \fill-line {
             \column {
                 \line { Donne, la pura luce }
-                \line { de bei vostri occhi chiari, }
+                \line { dei bei vostri occhi chiari, }
                 \line { ch'è a noi felice tramontan'e duce, }
                 \line { mentre solchiam d'Amor gli ondosi mari, }
                 \line { suole i petti ferir; né però chiama, }
