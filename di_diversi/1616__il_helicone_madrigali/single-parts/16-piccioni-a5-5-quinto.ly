@@ -13,9 +13,9 @@
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Ut re me fa so la"
+    title = "Ut re mi fa so la"
     subtitle = ""
-    instrument = "Ut re me fa so la:  (quinto)"
+    instrument = "Ut re mi fa so la:  (quinto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "ut_re_me_fa_so_la"
     shortcomp = "piccioni"
@@ -24,7 +24,7 @@
 
     % Things that change per part:
     partname = "Quinto (part 3 of 5)"
-    instrument = "Ut re me fa so la:  (quinto)"
+    instrument = "Ut re mi fa so la:  (quinto)"
 
     % Unchanging:
     tagline = #'f
