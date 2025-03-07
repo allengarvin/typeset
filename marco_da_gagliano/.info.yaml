@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /marco_da_gagliano
+biography:
+    name: Marco da Gagliano
+    last_name: Gagliano
+    nationality: Italian
+    born_year: 1582
+    born_date: 1582-05-01
+    died_year: 1643
+    died_date: 1643-02-25
+    born_location:
+        region: Florence
+        country: Italy
+    died_location:
+        region: Florence
+        country: Italy

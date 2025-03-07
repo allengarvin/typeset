@@ -1,0 +1,16 @@
+---
+top:
+    type: composer
+    path: /antonio_morari
+biography:
+    name: Antonio Morari
+    last_name: Morari
+    nationality: Italian
+    born_year: 1540s
+    died_year: 1597
+    born_location:
+        region: Bergamo
+        country: Italy
+    died_location:
+        region: Munich
+        country: Germany

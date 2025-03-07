@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /giovanni_piero_manenti
+biography:
+    name: Giovanni Piero Manenti
+    last_name: Manenti
+    nationality: Italian
+    born_year: 1535
+    born_circa: true
+    died_year: 1597
+    died_date: 1597-07-18
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Florence
+        country: Italy

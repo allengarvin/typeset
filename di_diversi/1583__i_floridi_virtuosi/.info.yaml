@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: 1583__de_floridi_virtuosi__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: di_diversi/1583__i_floridi_virtuosi
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenzi e Amadino press
+    print: true
+    title: Il primo libro de madrigali a 5 voci de floridi virtuosi d'Italia
+    year: 1583

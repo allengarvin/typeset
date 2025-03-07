@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1565__corfini_jacopo__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: jacopo_corfini/1565__il_primo_libro_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Antonio Gardano press
+    print: true
+    title: Il primo libro di madrigali a 5 voci
+    year: 1565
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

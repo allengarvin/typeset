@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /cristofano_malvezzi
+biography:
+    name: Cristofano Malvezzi
+    last_name: Malvezzi
+    nationality: Italian
+    born_year: 1547
+    born_date: 1547-06-28
+    died_year: 1599
+    died_date: 1599-01-22
+    born_location:
+        region: Lucca
+        country: Italy
+    died_location:
+        region: Florence
+        country: Italy

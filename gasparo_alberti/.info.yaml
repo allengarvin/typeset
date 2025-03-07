@@ -1,0 +1,12 @@
+---
+top:
+    type: composer
+    path: /gasparo_alberti
+biography:
+    name: Gasparo Alberti
+    last_name: Alberti
+    nationality: Italian
+    born_year: 1480
+    born_cira: true
+    died_year: 1560
+    died_circa: true

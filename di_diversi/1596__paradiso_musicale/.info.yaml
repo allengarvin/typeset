@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1596__di_diversi__paradiso_musicale__madrigali_a_5__phalese/
+    typeset_directory: di_diversi/1596__paradiso_musicale
+source:
+    city: Antwerp
+    date_exact: true
+    manuscript: false
+    press: Phalèse press
+    print: true
+    title: Paradiso musicale
+    year: 1596

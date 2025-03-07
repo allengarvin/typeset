@@ -1,0 +1,10 @@
+---
+local:
+    facsimile_directory: complete/1612__sweelinck_jan_pieterszoon__rimes_francoises_et_italiennes
+    typeset_directory: jan_sweelinck/rimes_francoises_et_italiennes
+source:
+    city: Antwerp
+    date_exact: true
+    title: Rimes françoise et italiennes
+    press: Plantinienne press
+    year: 1612

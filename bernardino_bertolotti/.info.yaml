@@ -1,7 +1,7 @@
 ---
 top:
     type: composer
-    path: bernardino_bertolotti
+    path: /bernardino_bertolotti
 biography:
     name: Bernardino Bertolotti
     last_name: Bertolotti

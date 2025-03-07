@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1586__manenti_giovanni_piero__madrigali_ariosoi_a_4_voci_con_alcuni_capricci
+    typeset_directory: giaches_de_wert/book_VII_a5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Madrigali ariosi a 4 con alcuni capricci
+    year: 1586
+contents:
+    type: madrigal
+    parts: 4
+    language: italian

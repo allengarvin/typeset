@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1563__portinaro_francesco__il_primo_libro_de_madrigali_a_4_voci__scotto_press
+    typeset_directory: francesco_portinaro/il_primo_libri_de_madrigali_a_4
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Girolamo Scotto press
+    print: true
+    title: 'Il primo libro de madrigali a 4 voci di Francesco Portenaro'
+    year: 1563
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

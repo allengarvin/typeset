@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1561__jachet_von_mantua__messe_del_fiore_a_5__libro_2
+    typeset_directory: jacquet_de_mantua/messe_del_fiore-missa_chiare_fresche
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: Messe del fiore a 5 voci, libro 2
+    year: 1561

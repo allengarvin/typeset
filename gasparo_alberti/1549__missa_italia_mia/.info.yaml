@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1549__alberti_gasparo__il_primo_libro_delle_messe
+    typeset_directory: gasparo_alberti/1549__missa_italia_mia
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: Il primo libro delle messe
+    year: 1549

@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /fra_mauro
+biography:
+    name: Fra Mauro di Fiorenza
+    last_name: Mauro
+    nationality: Italian
+    born_year: 1545
+    born_circa: true
+    died_year: 1621
+    died_date: 1621-01-31
+    born_location:
+        region: Florence
+        country: Italy
+    died_location:
+        region: Florence
+        country: Italy

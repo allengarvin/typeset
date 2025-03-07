@@ -1,0 +1,20 @@
+---
+top:
+    type: composer
+    path: /jacopo_corfini
+biography:
+    name: Jacopo Corfini
+    name_variants:
+        - Jacopo Corsini
+        - Giacopo Corsini
+    last_name: Corfini
+    nationality: Italian
+    born_year: 1540
+    born_circa: true
+    died_year: 1591
+    born_location:
+        region: Padua
+        country: Italy
+    died_location:
+        region: Lucca
+        country: Italy

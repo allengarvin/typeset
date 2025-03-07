@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1582__dolci_affetti_madrigali_a_5_voci_de_diversi_eccellenti_musici_di_roma
+    typeset_directory: di_diversi/1582__dolci_affetti
+source:
+    city: Venice
+    date_exact: true
+    title: Dolci Affetti de diversi eccellenti musici di Roma
+    press: Scotto press
+    year: 1582
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

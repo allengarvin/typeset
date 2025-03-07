@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1586__di_diversi__corona_di_dodici_sonetti__gardano_press
+    typeset_directory: di_diversi/1586__corona_di_dodici_sonetti
+source:
+    city: Venice
+    date_exact: true
+    title: Corona di dodici sonetti di Battista Zuccarini
+    press: Angelo Gardano press
+    year: 1586
+contents:
+    type: madrigal
+    parts: 5
+    part_names: canto, alto, tenore, basso, quinto
+    language: italian

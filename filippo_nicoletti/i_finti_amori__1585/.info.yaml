@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1585__nicoletti_filippo__i_finti_amori_musica_a_5_voci
+    typeset_directory: filippo_nicoletti/i_finti_amori__1585
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Vincenzi press
+    print: true
+    title: I finti amori, musica a 5 voci, opera II
+    year: 1585

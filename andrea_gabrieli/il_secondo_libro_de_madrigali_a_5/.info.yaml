@@ -1,6 +1,6 @@
 ---
 local:
-    facsimile_directory: complete/1572__gabrieli_andrea__il_secondo_libro_di_madrigali_a_5_voci
+    facsimile_directory: complete/1570__gabrieli_andrea__il_secondo_libro_di_madrigali_a_5_voci
     typeset_directory: andrea_gabrieli/il_secondo_libro_de_madrigali_a_5
 source:
     city: Venice
@@ -8,5 +8,5 @@ source:
     manuscript: false
     press: Gardano press
     print: true
-    title: 'Il secondo libro de madrigali à 5 voci'
-    year: 1572
+    title: 'Il secondo libro de madrigali a 5 voci'
+    year: 1570

@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1587__ruggiero_giovannelli__il_primo_libro_de_madrigali_a_4_voci
+    typeset_directory: ruggiero_giovannelli/sdruccioli__il_primo_libri_de_madrigali_a_4
+source:
+    city: Rome
+    date_exact: true
+    title: Sdruccioli, il primo libro de madrigali a 4 voci
+    press: Alessandro Gardano press
+    year: 1585
+contents:
+    type: madrigal
+    parts: 4
+    part_names: canto, alto, tenore, basso
+    language: italian

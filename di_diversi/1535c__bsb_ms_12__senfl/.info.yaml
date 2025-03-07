@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1530s__senfl_josquin__motetten__bsb_mus_ms_12
+    typeset_directory: di_diversi/1535c__bsb_ms_12__senfl
+source:
+    date_exact: false
+    manuscript: true
+    press: Amadino press
+    title: BSB Mus Ms 12
+    print: true
+    year: 1535
+    

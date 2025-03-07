@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1550__portinaro_francesco__il_primo_libro_de_madrigali_a_5_voci__gardano
+    typeset_directory: francesco_portinaro/il_primo_libro_de_madrigali_a_5_voci
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Gardano press
+    print: true
+    title: 'Il primo libro de madrigali a 5 voci'
+    year: 1550
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

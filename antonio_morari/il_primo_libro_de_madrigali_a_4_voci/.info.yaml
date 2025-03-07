@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1587__morari_antonio__il_primo_libro_de_madrigali_a_4_voci__gardano
+    typeset_directory: antonio_morari/il_primo_libro_de_madrigali_a_4_voci
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il primo libro de' madrigali a 4 voci
+    year: 1587
+contents:
+    type: madrigal
+    parts: 4
+    language: italian

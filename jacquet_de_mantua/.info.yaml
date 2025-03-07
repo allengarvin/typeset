@@ -1,0 +1,14 @@
+---
+top:
+    type: composer
+    path: /jacquet_de_mantua
+biography:
+    name: Jacquet de Mantua
+    last_name: Mantua
+    nationality: French
+    born_year: 1483
+    died_year: 1559
+    died_date: 1559-10-02
+    born_location:
+        region: Illet-et-Vilaine
+        country: France

@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1583__malvezzi_cristoforo__il_primo_libro_delli_madrigali_a__voci__scotto
+    typeset_directory: cristofano_malvezzi/il_primo_libro_delli_madrigali_a_5_voci
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Scotto press
+    print: true
+    title: Il primo libro delli madrigali a 5 voci
+    year: 1583
+contents:
+    type: madrigal
+    parts: 5
+    language: italian
