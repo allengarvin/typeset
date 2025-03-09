@@ -98,7 +98,7 @@ cantusLyricsII = \lyricmode {
     Qui tol -- lis pec -- ca -- ta mun -- di,
         mi -- se -- re -- re __ no -- bis,
     Qui tol -- lis pec -- ca -- ta mun -- di,
-        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
+        su -- sci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
     Qui __ se -- des ad dex -- te -- ram Pa -- tris,
         mi -- se -- re -- re no -- bis,
 %%    Quo -- ni -- am tu so -- lus San -- ctus.
@@ -212,8 +212,8 @@ altusLyricsII = \lyricmode {
     Qui tol -- lis pec -- ca -- ta mun -- di,
         mi -- se -- re -- re no -- bis,
     Qui tol -- lis pec -- ca -- ta mun -- di,
-        sus -- ci -- pe,
-        sus -- ci -- pe __ de -- pre -- ca -- ti -- o -- nem no -- stram,
+        su -- sci -- pe,
+        su -- sci -- pe __ de -- pre -- ca -- ti -- o -- nem no -- stram,
     Qui se -- des ad dex -- te -- ram Pa -- tris,
         mi -- se -- re -- re __ no -- bis,
 %%%    Quo -- ni -- am tu so -- lus San -- ctus.
@@ -324,7 +324,7 @@ tenorLyricsII = \lyricmode {
         mi -- se -- re -- re,
         mi -- se -- re -- re no -- bis,
     Qui tol -- lis pec -- ca -- ta mun -- di,
-        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
+        su -- sci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
     Qui se -- des ad dex -- te -- ram Pa -- tris,
         mi -- se -- re -- re no -- bis,
     Quo -- ni -- am tu so -- lus San -- ctus.
@@ -438,7 +438,7 @@ bassusLyricsII = \lyricmode {
         mi -- se -- re -- re no -- bis,
         mi -- se -- re -- re no -- bis,
     Qui tol -- lis pec -- ca -- ta mun -- di,
-        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
+        su -- sci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
     Qui se -- des ad dex -- te -- ram Pa -- tris,
         mi -- se -- re -- re no -- bis,
     Quo -- ni -- am tu so -- lus San -- ctus.

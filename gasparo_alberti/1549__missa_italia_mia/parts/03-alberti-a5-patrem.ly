@@ -190,43 +190,77 @@ quintusIIIincipit = \relative c' {
     a\breve
 }
 
+% quintus: checked against source
 quintusIII = \relative c' {
-    \clef varbaritone
     \key f \major
     \fourTwoCutTime
 
-    a\breve | d,2 g1 f2 | g g d d | f1. f2 | g1 a | bf2 g c2. bf8[ a] |
-        g4 f g2 f1 | r1 e2. f4 | g2 a g f4 e | d2 d c1 | f1. e2 | d
+    a\breve | d,2 g1 f2 | g g d d | f1. f2 | g1 a | bf2 g( c2. bf8[ a] |
+        g4 f g2) f1 | r1 e2. f4 | g2 a g f4 e | d2 d c1 | f1.( e2 | d)
 
-    f2 f e | f1 r2 f | e c d g ~ | g4 f e2 f d | c2. bf4 a1 | f'2. g4 a2 f |
-        f f c1 | g'2. f4 e2 g | f e d1 | c r2 f | a bf c2. bf4 | a2 g a
+    f2 f e | f1 r2 f | e c d g ~ | g4( f e2 f d) | e2.( d4) c1 | f2. g4 a2 f |
+        f f c1 | g'2.( f4 e2) g | f( e d1) | c r2 f | a bf c2. bf4 | a2 g a
 
-    g2 | f1 r2 g ~ | g g g g | a f1 bf2 | a g c a | bf2. a4 g2 c ~ | 
-        c4 bf a g f2 g ~ | g f g d | e2. f4 g2 g | f e d1 | r2 g g g |
+    g2 | f1 r2 g ~ | g g g g | a f1 bf2 | a g c a | bf2.( a4 g2) c ~ | 
+        c4( bf a g f2 g ~ | g f) g d | e2. f4 g2 g | f e d1 | r2 g g g |
         a\breve | 
 
-    g1 r1 | r1 r2 g | g g a a | g1 r2 c, ~ | c c d g ~ | g4 f f1 e2 |
-        f c' c f, | g1 a2. g4 | f2 e d1 | c r1 | r2 f bf1 ~ | bf2 a bf c |
-        bf1. a4 g |
+    g1 r1 | r1 r2 g | g g a a | g1 r2 c, ~ | c c d g ~ | g4( f f1) e2 |
+        f c' c f, | g1 a2.( g4) | f2 e d1 | c r1 | r2 f bf1 ~ | bf2 a bf( c |
+        bf1. a4 g) |
 
-    f2 f g2. f4 | e2 e d1 | c r1 | R\breve | r2 e f2. e4 | d2 d f e |
-        d1 c ~ | c r2 d ~ | d bf c c | g'2. f4 e2 f | e c d1 | c r1 |
+    f2 f g2.( f4) | e2 e d1 | c r1 | R\breve | r2 e f2. e4 | d2 d f( e) |
+        d1 c ~ | c r2 d ~ | d bf( c) c | g'2. f4 e2( f | e c) d1 | c r1 |
         r1 r2 bf | 
 
-    ef2 ef d f | c2. bf8[ c] bf2 c | bf2. c4 d1 | R\breve |
+    ef2 ef d f | c2.( bf8[ c] bf2) c | bf2.( c4 d1) | R\breve |
         r2 f1 f2 | d d f2. g4 | a2 f f f | bf bf c1 | d c2 a ~ |
-        a4 g f e d2 
+        a4( g f e) d2
 
     % --- page ---
-    f2 ~ | f4 e d c bf2 f' ~ | f e4 d e1 | d1. d2 | e\breve | c2 c c'2. bf4 |
-        a1 g | f2 f bf f | bf g f g | a f g1 | a2. f4 g1 | f2 d e1 | f2
+    f2 ~ | f4( e d c) bf2 f' ~ | f( e4 d e1) | d1. d2 | e\breve | 
+        c2 c c'2.( bf4 | a1 g) | f2 f bf f | bf g f g | a f g1 | 
+        a2.( f4 g1) | f2 d e1 | f2
 
-    d e g ~ | g4 f f1 e2 | f f c e | f d e e | f d e2. d8[ e] |
-        f2 d e2. d4 | c1 f | r2 d a'2. g4 | f2. e4 d2 d | c\longa*1/2
+    d e g ~ | g4( f f1 e2) | f f c e | f d e e | f d e2.( d8[ e] |
+        f2 d) e2.( d4 | c1) f | r2 d a'2. g4 | f2.( e4 d2) d | c\longa*1/2
     \bar "|."
 }
 
 quintusLyricsIII = \lyricmode {
+    Pa -- trem om -- ni -- po -- ten -- tem,
+    fa -- cto -- rem cæ -- li et ter -- ræ,
+    vi -- si -- bi -- li -- um om -- ni -- um
+        et in -- vi -- si -- bi -- li -- um,
+    \ijLyrics
+        et in -- vi -- si -- bi -- li -- um.
+    \normalLyrics
+    Et in u -- num Do -- mi -- num Je -- sum Chri -- stum,
+    Fi -- li -- um De -- i u -- ni -- ge -- ni -- tum,
+    et __ ex Pa -- tre na -- tum
+        an -- te om -- ni -- a sæ -- cu -- la,
+        an -- te om -- ni -- a sæ -- cu -- la.
+    De -- um de De -- o,
+        lu -- men de lu -- mi -- ne, 
+        lu -- men de lu -- mi -- ne, 
+    De -- um ve -- rum
+        de __ De -- o ve -- ro,
+        de De -- o ve -- ro,
+    Ge -- ni -- tum, non fa -- ctum,
+        con -- sub -- stan -- ti -- a -- lem Pa -- tri: __
+    per __ quem __ om -- ni -- a fa -- cta sunt, 
+    per quem om -- ni -- a fa -- cta sunt, __
+
+    Qui pro -- pter nos ho -- mi -- nes
+    et pro -- pter no -- stram sa -- lu -- tem
+    de -- scen -- dit __ de cæ -- lis,
+    de -- scen -- dit de cæ -- lis.
+
+    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
+    ex Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est, 
+    et ho -- mo fa -- ctus __ est, 
+    et ho -- mo fa -- ctus est.
 }
 
 cantusIIIincipitVoice = <<

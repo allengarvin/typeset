@@ -104,7 +104,7 @@ cantusLyricsII = \lyricmode {
         mi -- se -- re -- re no -- bis,
         mi -- se -- re -- re no -- bis.
     Qui tol -- lis pec -- ca -- ta __ mun -- di,
-        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
+        su -- sci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
             de -- pre -- ca -- ti -- o -- nem no -- stram. __
     Qui se -- des ad dex -- te -- ram Pa -- tris,
         mi -- se -- re -- re no -- bis,
@@ -234,7 +234,7 @@ altusLyricsII = \lyricmode {
         mi -- se -- re -- re no -- bis,
         mi -- se -- re -- re __ no -- bis.
     Qui tol -- lis pec -- ca -- ta __ mun -- di, __
-        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
+        su -- sci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
             de -- pre -- ca -- ti -- o -- nem no -- stram.
     Qui se -- des ad dex -- te -- ram __ Pa -- tris,
         mi -- se -- re -- re no -- bis,
@@ -368,7 +368,7 @@ tenorLyricsII = \lyricmode {
         mi -- se -- re -- re no -- bis,
         mi -- se -- re -- re no -- bis.
     Qui tol -- lis pec -- ca -- ta mun -- di,
-        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem __ no -- stram,
+        su -- sci -- pe de -- pre -- ca -- ti -- o -- nem __ no -- stram,
             de -- pre -- ca -- ti -- o -- nem __ no -- stram.
     Qui se -- des ad dex -- te -- ram Pa -- tris, __
         mi -- se -- re -- re no -- bis,
@@ -500,7 +500,7 @@ bassusLyricsII = \lyricmode {
         mi -- se -- re -- re no -- bis,
         mi -- se -- re -- re no -- bis.
     Qui tol -- lis pec -- ca -- ta mun -- di,
-        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
+        su -- sci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram,
             de -- pre -- ca -- ti -- o -- nem no -- stram.
     Qui se -- des ad dex -- te -- ram Pa -- tris,
     qui se -- des ad dex -- te -- ram Pa -- tris,
@@ -630,7 +630,7 @@ quintusLyricsII = \lyricmode {
         mi -- se -- re -- re no -- bis,
         mi -- se -- re -- re no -- bis.
     Qui tol -- lis pec -- ca -- ta mun -- di,
-        sus -- ci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram.
+        su -- sci -- pe de -- pre -- ca -- ti -- o -- nem no -- stram.
     Qui se -- des ad dex -- te -- ram __ Pa -- tris,
         mi -- se -- re -- re no -- bis, 
         mi -- se -- re -- re no -- bis,
