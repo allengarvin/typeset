@@ -36,6 +36,7 @@
 \include "../parts/06-alberti-a5-sanctus.ly"
 \include "../parts/07-alberti-a3-pleni.ly"
 \include "../parts/08-alberti-a5-hosanna.ly"
+\include "../parts/09-alberti-a3-benedictus.ly"
 
 \book {
     \bookOutputName "06-alberti--missa_sopra_italia_mia-sanctus"
@@ -195,6 +196,48 @@
             piece = "Osanna in excelsis"
         }
     }   
+    \score {
+         <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+            } <<
+                \new Voice <<
+                    \set Staff.instrumentName = #"Cantus"
+                    \incipit \cantusIXincipitVoice
+                    \clef "treble"
+                    \global
+                    \cantusIX
+                >>
+             \addlyrics { \cantusLyricsIX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Altus"
+                    \incipit \altusIXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \altusIX
+                >>
+             \addlyrics { \altusLyricsIX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenor"
+                    \incipit \tenorIXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenorIX
+                >>
+             \addlyrics { \tenorLyricsIX }
+             >>
+         >>
+        \include "../include/vocal-layout-score-barring.ly"
+        \midi {
+            \context {
+                \Score
+                tempoWholesPerMinute = #(ly:make-moment 112 2)
+            }
+        }
+        \header {
+            piece = "Benedictus qui venit [Quintus et Bassus tacet]"
+        }
+    }   
     \markup {
         \fill-line {
             \column {
@@ -209,7 +252,6 @@
                 \line { \vspace #1 }
                 \line { Benedictus qui venit }
                 \line { in nomine Domini. }
-                \line { Hosanna in excelsis. }
             }
             \column {
                 \line { Holy, holy, holy }
@@ -223,8 +265,10 @@
                 \line { \vspace #1 }
                 \line { Blessed is he who comes }
                 \line { in the name of the Lord. }
-                \line { Hosanna in the highest. }
             }
         }
     }
 }
+
+% midisox --combine concatenate 06-alberti--missa_sopra_italia_mia-sanctus---0-score.midi 06-alberti--missa_sopra_italia_mia-sanctus---0-score-1.midi 06-alberti--missa_sopra_italia_mia-sanctus---0-score-2.midi 06-alberti--missa_sopra_italia_mia-sanctus---0-score-3.midi 06-alberti--missa_sopra_italia_mia-sanctus---0-score_complete.midi
+% rm 06-alberti--missa_sopra_italia_mia-sanctus---0-score-1.midi 06-alberti--missa_sopra_italia_mia-sanctus---0-score-2.midi 06-alberti--missa_sopra_italia_mia-sanctus---0-score-3.midi 06-alberti--missa_sopra_italia_mia-sanctus---0-score.midi

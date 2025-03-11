@@ -33,6 +33,7 @@
 \include "../parts/06-alberti-a5-sanctus.ly"
 \include "../parts/07-alberti-a3-pleni.ly"
 \include "../parts/08-alberti-a5-hosanna.ly"
+\include "../parts/09-alberti-a3-benedictus.ly"
 
 \book {
     \bookOutputName "06-alberti--missa_sopra_italia_mia-sanctus"
@@ -46,5 +47,46 @@
         >>
                 \addlyrics { \cantusLyricsVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \relative c' {
+                \clef treble
+                \key f \major 
+                \time 4/2
+                R\breve*23
+                \bar "|."
+            }
+        >>
+        \header {
+            piece = "Pleni sunt [Cantus et Altus tacet]"
+        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \cantusVIII
+        >>
+                \addlyrics { \cantusLyricsVIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Osanna in excelsis"
+        }
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \cantusIX
+        >>
+                \addlyrics { \cantusLyricsIX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Benedictus qui venit"
+        }
     }
 }

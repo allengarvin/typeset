@@ -33,6 +33,7 @@
 \include "../parts/06-alberti-a5-sanctus.ly"
 \include "../parts/07-alberti-a3-pleni.ly"
 \include "../parts/08-alberti-a5-hosanna.ly"
+\include "../parts/09-alberti-a3-benedictus.ly"
 
 \book {
     \bookOutputName "06-alberti--missa_sopra_italia_mia-sanctus"
@@ -46,6 +47,42 @@
         >>
                 \addlyrics { \tenorLyricsVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenorVII
+        >>
+                \addlyrics { \tenorLyricsVII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Pleni sunt"
+        }
+    }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenorVIII
+        >>
+                \addlyrics { \tenorLyricsVIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Osanna in excelsis"
+        }
+    }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenorIX
+        >>
+                \addlyrics { \tenorLyricsIX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Benedictus qui venit"
+        }
     }
 }
 
@@ -61,5 +98,41 @@
         >>
                 \addlyrics { \tenorLyricsVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenorVII
+        >>
+                \addlyrics { \tenorLyricsVII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Pleni sunt"
+        }
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenorVIII
+        >>
+                \addlyrics { \tenorLyricsVIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Osanna in excelsis"
+        }
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenorIX
+        >>
+                \addlyrics { \tenorLyricsIX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Benedictus qui venit"
+        }
     }
 }

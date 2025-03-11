@@ -47,4 +47,45 @@
                 \addlyrics { \bassusLyricsVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \bassusVII
+        >>
+                \addlyrics { \bassusLyricsVII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Pleni sunt"
+        }
+    }
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \bassusVIII
+        >>
+                \addlyrics { \bassusLyricsVIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Osanna in excelsis"
+        }
+    }
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \relative c' {
+                \clef treble
+                \key f \major 
+                \time 4/2
+                R\breve*51
+                \bar "|."
+            }
+        >>
+        \header {
+            piece = "Benedictus qui venit [Quintus et Bassus tacet]"
+        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
 }
