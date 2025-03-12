@@ -45,4 +45,16 @@
                 \addlyrics { \cantusLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \cantusX
+        >>
+                \addlyrics { \cantusLyricsX }
+        \header {
+            piece = "Agnus Dei II"
+        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
 }

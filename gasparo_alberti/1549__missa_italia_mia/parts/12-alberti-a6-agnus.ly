@@ -1,12 +1,56 @@
-cantusXII = \relative c'' {
+cantusXIIincipit = \relative c' {
+    \clef "petrucci-c1"
+    \key f \major
+    \time 2/2
+    
+    f\breve
+}
+
+cantusXII = \relative c' {
     \clef soprano
     \key f \major
     \fourTwoCutTime
 
+    R\breve*3 | f\breve | f | g | a | r2 g g g | 
+        a c2.\melfi b8[ a] b!2\melfiEnd | c\breve | r2 g c1 ~ | c2 bf a g |
+        f1 bf | a\breve | R | r1 r2 g | g1. g2 | a
+
+    bf2. a4 a2 ~ | a4( g8[ f] g2) a1 ~ | a r1 | r1 g | c1. bf2 |
+        a g f2. e4 | d1 c | r1 r2 f | g f g a | bf bf a g ~ |
+        g4 f f1 e2 | f\breve | r2 g g g | 
+
+    % --- page ---
+    c1 f,2 a | g1 e2 e | f1. g2 ~ | g4 f e d c2 c' ~ | c a a d ~ |
+        d4 c bf a g1 | r2 c c c | a c2.\melfi b8[ a] b!2\melfiEnd |
+        c2 g g g | a a
+
+    bf1 | g a2 a | bf1 g | a1. a2 | a1 bf | g2 g c1 | c f, | g\breve | a |
+        r2 g a f | a a g2. f4 | e2 f2. e4 d c | d1 c | R\breve | 
+        r1 g' | a
+
+    a1 | g2 g a2. g4 | f2 e d1 | c r1 | r1 g' | a1. g2 | a bf a1 |
+        c bf2 a ~ | a g a1 | R\breve*4 | r2 g a f | a a g2. f4 |
+        e2 f2. e4 d c | d1
+
+    c1 | r1 r2 d | e c d e | f f e a ~ | a4( g8[ f] g2) a1 | R\breve*3 |
+        r2 f f2. g4 | a2 f bf1 | a r2 f | f2. g4 a2 f | bf1 a | r2 a a a |
+        a\breve | 
+
+    g | f1 f | e e | a a | g r2 g | a g a bf | c1 c | R\breve | r1 g |
+        f2 f e c' | a bf g a ~ | a4 g f1 e2 | f1 r2 g | f f e c' |  
+        a bf g a ~ | a4 g f1 e2 | f\breve~f~f~f\longa*1/2
     \bar "|."
 }
 
 cantusLyricsXII = \lyricmode {
+}
+
+altusXIIincipit = \relative c' {
+    \clef "petrucci-c3"
+    \key f \major
+    \time 2/2
+
+    c1
 }
 
 altusXII = \relative c' {
@@ -14,50 +58,235 @@ altusXII = \relative c' {
     \key f \major
     \fourTwoCutTime
 
+    c1 a2 c ~ | c bf \[ a1( | bf) \] c2. bf4 | a g a2. bf4 c2 ~ |
+        c4 a d2. c4 c2 ~ | c bf \ficta ef2.\unficta d4 | c2 c f1 |
+        r1 r2 e | e e g d | e c c1 | r2 g a4 
+
+    g4 c2 | d bf c c | bf f g1 | a1. g2 | f e f2. g4 | a bf c1 bf2 |
+        c2. d4 e c d e | f2 g c, f ~ | f e f f | c1 bf2 c | d1. c4 bf |
+        a2 c
+
+    f1 ~ | f2 e d2. c4 | bf2 f'1 e2 | f c d2. c4 | bf2 a g4 f f'2 ~ |
+        f e f e | d1 c | a2. bf4 c2 f, | bf bf c g | a2. bf4 c1 | r1 r2 a ~ |
+        a bf f bf ~ | bf g1 c2 | a
+
+    f2 r2 f' ~ | f d d g ~ | g4 f e d c2 c | d e f1 | e2 e e e | f f d f |
+        e1 r1 | r2 d e1 | c f | f2 f d1 | \[ e1( f) \] | R\breve*2 | 
+        r2 f1 e2 | e c e d ~ | d4 c
+
+    c1\melfi b2\melfiEnd | c1 r1 | r2 g a c | bf2. a4 g2 a |
+        bf c2. bf4 bf a8[ bf] | c2 a r1 | R\breve | r1 r2 g ~ | g c c c ~ |
+        c bf c c | f1 e2 e | f d r1 | r1 r2 f | e d1 d2 | bf2 c 
+
+    r2 d | \colorBr d4 \colorBrBegin d d2\colorBrEnd d2 c | R\breve |
+        d2. d4 c2 bf | a g f f' | f f d e ~ | e a, d4 c bf a | bf2 f' r1 |
+        r2 e d1 | c2 e d c | d1 c | R\breve | r2 g bf bf | 
+
+    % --- page --
+    g2 c bf bf | c a1 c2 ~ | c4 bf a g f2 bf | c d1 c4 bf | c2 c c c |
+        d1 r2 f ~ | f4 e8[ d] e2 f1 | r2 e d c ~ | c4 f, f'2 e1 ~ | e d ~ |
+        d c | a2 c2. d4 e2 ~ | e4 d
+
+    c4 bf a2 d ~ | d4 c bf a g1 | r1 r2 g | c2. bf4 a2 g | f c' d e |
+        f d e1 | d c2 e | f2 f e1 | c c | r2 f1 e2 | d d c
+
+    c2 | r2 f1 e2 | d d c2. bf4 | a2 g f1 | c' bf2 c | d1 d | 
+        c\longa*1/2
     \bar "|."
 }
 
 altusLyricsXII = \lyricmode {
 }
 
-tenorXII = \relative c' {
+tenorXIIincipit = \relative c {
+    \clef "petrucci-c4"
+    \key f \major
+    \time 2/2
+
+    f\breve
+}
+
+tenorXII = \relative c {
     \clef tenor
     \key f \major
     \fourTwoCutTime
 
+    f\breve | f2 f f f | g\breve | a | R\breve*4 | r1 r2 g | g g a c ~ |
+        c4 bf bf a c1 | R\breve | r1 g | c1. bf2 | a g f1 ~ | f2 e d1 | c r1 |
+        r2 g' c1 ~ | c2 bf a1 ~ | a2 g
+
+    f4 bf2 a4 | bf2 f1 e2 | f\breve | R | r1 c' | a f2 bf | d d c r2 |
+        R\breve | r1 r2 c ~ | c a a d ~ | d4 c bf a g2 c | c c a c ~ |
+        c4\melfi b8[ a] b!2\melfiEnd c2. bf4 | a g f2 r1 | R\breve*2 |
+        r2 bf1 g2 | g c2. bf4 a
+
+    g | f2 g1 f2 | g1 c | c2 c d d | c1 c2 c | bf1 c |
+        a2. bf4 c2 d ~ | d4 c c1\melfi b2\melfiEnd | c1. f,2 | g a bf f ~ |
+        f e4 d e1 | f2 a c1 | g2 g c bf | a1 r2 g ~ | g c d c | c
+
+    bf2 c c | bf bf c2. f,4 | g2 a r1 | r1 r2 c | c d c a | bf c1 bf2 |
+        c1 a | R\breve | r1 r2 c | c bf c d | c2. a4 bf2 f | g1 d2 f |
+        g2. g4 g1 | a g | r1 r2 a | bf g a
+
+    bf2 | c1 a ~ | a2 a bf g | a2. g4 f2 g ~ | g4 f f e8[ d] e1 | d2 a' a g |
+        c a bf c | r1 r2 e | d d c e | d c d1 | c r1 | R\breve*3 |
+        f,1. f2 | bf1 a2. bf4 | g1 f ~ | f r2 c' | c\breve | c1 bf | bf2
+
+    bf2 a1 ~ | a g2 c ~ | c a a a | bf2. bf4 c1 | R\breve | r2 g c1 ~ |
+        c2 bf a g ~ | g4 f f1 e2 | f1 r1 | d'1 c2. bf4 | a2 a g1 | f r1 |
+        R\breve | d'1 c2. bf4 | a2 bf g1 | f\breve~f~\longa*1/2
     \bar "|."
 }
 
 tenorLyricsXII = \lyricmode {
 }
 
-bassusXII = \relative c {
+bassusXIIincipit = \relative c, {
+    \clef "petrucci-f4"
+    \key f \major
+    \time 2/2
+
+    f2.
+}
+
+bassusXII = \relative c, {
     \clef bass
     \key f \major
     \fourTwoCutTime
 
+    r1 f2. g4 | a2 bf f a | g1 c | f,\breve | R\breve*2 | r1 r2 f | 
+        c'1 c2 c | a1 g | c2. bf4 a1 | g r1 | r2 g a a | bf2. a4 g2 g |
+                                                          % VV cut off..unsure
+        f\breve | R | r1 g | c1. bf2 | a g f1 | c f' ~ | f2 e2
+
+    d2 c | bf2. a4 g1 | f\breve | R | r1 r2 c' | d a bf2. a4 | g2 d' e d |
+        g1 f2 c | d bf c1 | f,1. bf2 ~ | bf g c2. bf4 | a g f1 f2 | 
+                                                       %vvv guess??
+        g g a1 | f2 bf1 g2 | g c2. bf4 a g | f2 f'1 d2 | c2
+    % --- page ---
+    g'2. f4 e d | c2. bf4 a2 a | f' e f f | e\breve | r2 f, bf bf |
+        c c a a | g g c c | f,1 r1 | r1 r2 g | c c f,1 | c' bf2 a | g\breve |
+        f1
+
+    r2 a | c c a bf | f1 r2 g | c f, bf a | g1 r1 | r2 g c f, | bf a g1 |
+        r2 a d a | c bf a1 | r1 r2 g | c c f, a | g g c
+
+    c2 | f,1 r1 | R\breve*2 | r1 r2 d' | ef c ef ef | d2. c4 bf2 c ~ |
+        c4 bf a g a1 | g2. bf4 a2 g | a c f,1 | f' g2 e | c d1 g,2 |
+        r2 bf c a | bf c
+
+    d2 bf | a1 r2 c | bf bf c a | bf bf a1 | r2 c bf bf | c a bf bf |
+        a1 f ~ | f bf | a2 bf g1 | f\breve | R | r1 d'2. c4 | bf2 a d a |
+        r2 f a2. bf4 | c2 c
+
+    g2. a4 | bf1 f2 f | a2. bf4 c1 | a2 a d1 | g,2 g c4 bf c2 | 
+        f,4 f'2 e4 f2 g | c,1 r2 c | f,1 f'2 e | d1 c | r1 r2 c | 
+        d bf c c | f,4 g a bf c1 | 
+
+    r1 r2 c | d bf c1 | f2 d r2 a | d2. bf4 c2 c | f, f f'1 ~ | f2 e d c |
+        bf\breve | f\longa*1/2
+    
     \bar "|."
 }
 
 bassusLyricsXII = \lyricmode {
 }
 
-quintusXII = \relative c' {
-    \clef alto
+quintusXIIincipit = \relative c {
+    \clef "petrucci-f3"
+    \key f \major
+    \time 2/2
+
+    c2.
+}
+
+quintusXII = \relative c {
+    \clef varbaritone
     \key f \major
     \fourTwoCutTime
 
-    \bar "|."
+    r1 c2. bf4 | c2 d c f ~ | f e4 d e1 | f2. e4 c2 f ~ | f bf,4 c d e f2 |
+        ef2. d4 c1 | f2. f4 e d f2 ~ | f 
+
+    e4 d e1 ~ | e2 c g'2. f4 | e d g2. f4 f8[ e d c] | d2 g f2. e4 |
+        d1 c2 c | f4 e d c bf2 bf | c1 c | c'1. bf2 | a1 g ~ | g2 f
+
+    e2 d | c4 f2 e4 f2 f | g g d2. e4 | f1. e2 | d2. c4 bf1 | c\breve |
+        r2 c d bf | bf'2. bf4 a2 g | f e d1 ~ | d r2 a' | g g a e | f 
+
+    d e1 | c2 f1 d2 | d g2. f4 e d | c2 f f f | d d c1 | f2. g4 d1 |
+        g2. f4 e d c2 | f2. g4 a2 bf | a g r2 c, | g' g 
+
+    a2 e | f e d1 | r1 r2 c | f2. f4 f2 d | e g2. f8[ e] f2 | g1 r2 c, |
+        f1 f2 d | f f g1 | c,\breve | r2 c d c | bf1 bf | c r1 | r1 r2 d | 
+
+    f c e d | c1 r2 e | g d f e | d1 r1 | r2 e g d | e e d r2 | R\breve |
+        r1 r2 d | e e f c | d d c1 ~ | c r2 c | f g a d, | a'1
+    % --- page ---
+    r1 | R\breve | r1 r2 g ~| g4 f f1 e4 d | e d g2. f4 f e8[ d] | 
+        g2 d f g | c,1 f2 f ~ | f d g c, | e d r2 d | d d g a | f e f
+
+    d2 | r2 d g e | d d e c | d d e c | d e f f | e a2. g8[ f] g2 |
+        a e f f | c f1 e4 d | e2 d d1 | r2 c
+
+    c2 c | bf4 c d e f2 d | r1 r2 d | d c d e | f1 r2 c | e2. f4 g2 g |
+        d2. e4 f1 | c2 e2. f4 g2 | c, e f1 | r2 d e4 
+
+    d4 c2 | d e r1 | r2 e f e | c f1 g2 | a f g c, | d bf c1 | f2 d r1 |
+        r1 r2 c | d bf c1 | f2 d r2 c | d bf c e | f2
+
+    d2 e e | c1 r1 | f1. e2 | d2 c bf1 | c\longa*1/2
+
+
+       \bar "|."
 }
 
 quintusLyricsXII = \lyricmode {
 }
 
-sextusXII = \relative c' {
-    \clef alto
+sextusXIIincipit = \relative c {
+    \clef "petrucci-c4"
+    \key f \major
+    \time 2/2
+
+    f2.
+}
+
+sextusXII = \relative c {
+    \clef tenor
     \key f \major
     \fourTwoCutTime
 
+    R\breve*3 | r1 f2. g4 | a2 bf f a | g1 c2. bf4 | a2. g4 f2 f | g1 r2 c |
+        c c d1 | c r2 f, | g bf a2. g4 | f2
+
+    g2 e2. c4 | d c f2. e4 e d | f\breve | r1 r2 f | c' c d d, | e2. f4 g1 |
+        r1 r2 c, ~ | c g' f2. g4 | a bf c2 r2 c, | f1 g | a2. bf4 c2
+
+    c2 | c1 a2 bf ~ | bf4 g bf2 c1 | R\breve | r1 r2 f, | bf bf c2. bf4 |
+        a2 bf g1 | f\breve | r2 d e c | e f c c | g'1 r2 c ~ | c d bf1 |
+        g c | c2. bf4
+
+    a4 g f2 | R\breve*3 | r2 e g1 | f2 a d, d | g4 f e d c1 | d2 g g g |
+        f2 a2. f4 f2 | r1 r2 g | g g f f | e1 r2 a | bf bf 
+
+    g2 bf | a\breve | r1 r2 f ~ | f4 g a bf c2 d | g, a bf c | r1 r2 a |
+        g2. f4 e2 f ~ | f4 e d c d1 | c2 c' d4 a2 e4 ~ | e g4. f8[ e d] e1 |
+
+    d2 c g1 | g f | R\breve | f1 c'2. bf4 | a2 g f f' ~ | f e d2. c4 |
+        bf1 a | R\breve | r2 a bf g | a bf c1 | R\breve | r2 c c c |
+        c d1 c2 ~ | c a bf1 | 
+
+    % --- page ---
+    r1 r2 c | d c a bf | c1 r2 g | bf1 g2 c | bf bf c a | r1 r2 d |
+        e c d d | c1. a2 | a c d d | c bf2. c4 d e | f1
+
+    r1 | r2 d c d | bf2. c4 d2 a | bf c a1 | f2 a2. bf4 c2 | c g2. a4 bf2 ~ |
+        bf f2. g4 a bf | c1 r2 g | a2. g4 f2 d ~ | d g r1 | r2 g 
+
+    c2. bf4 | a2 g f g | a2. g4 a bf c2 ~ | c bf c c | a bf g g | f1 r1 |
+        R\breve | d'1 c2. bf4 | a2 bf g1 | f r1 | R\breve | c'1. bf2 |
+        a g f1 | bf\breve | a\longa*1/2
     \bar "|."
 }
 

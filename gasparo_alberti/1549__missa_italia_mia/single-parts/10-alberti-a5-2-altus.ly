@@ -45,6 +45,18 @@
                 \addlyrics { \altusLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \altusXI
+        >>
+                \addlyrics { \altusLyricsXI }
+        \header {
+            piece = "Agnus Dei II"
+        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
 }
 
 \book {
@@ -59,5 +71,17 @@
         >>
                 \addlyrics { \altusLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \altusXI
+        >>
+                \addlyrics { \altusLyricsXI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Agnus Dei II"
+        }
     }
 }

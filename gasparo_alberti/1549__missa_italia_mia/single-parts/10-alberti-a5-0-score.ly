@@ -93,6 +93,64 @@
             }
         }
     }   
+    \score {
+         <<
+            \new ChoirStaff = choirStaff \with {
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+            } <<
+                \new Voice <<
+                    \set Staff.instrumentName = #"Cantus"
+                    \incipit \cantusXincipitVoice
+                    \clef "treble"
+                    \global
+                    \cantusX
+                >>
+             \addlyrics { \cantusLyricsX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Altus"
+                    \incipit \altusXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \altusX
+                >>
+             \addlyrics { \altusLyricsX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenor"
+                    \incipit \tenorXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenorX
+                >>
+             \addlyrics { \tenorLyricsX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quintus"
+                    \incipit \quintusXincipitVoice
+                    \clef "bass"
+                    \global
+                    \quintusX
+                >>
+             \addlyrics { \quintusLyricsX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Bassus"
+                    \incipit \bassusXincipitVoice
+                    \clef "bass"
+                    \global
+                    \bassusX
+                >>
+             \addlyrics { \bassusLyricsX }
+             >>
+         >>
+        \include "../include/vocal-layout-score-barring.ly"
+        \midi {
+            \context {
+                \Score
+                tempoWholesPerMinute = #(ly:make-moment 112 2)
+            }
+        }
+        \header {
+            piece = "Agnus Dei II"
+        }
+    }   
     \markup {
         \fill-line {
             \column {

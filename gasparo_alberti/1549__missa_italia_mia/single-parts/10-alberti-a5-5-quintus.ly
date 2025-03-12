@@ -45,4 +45,16 @@
                 \addlyrics { \quintusLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \quintusXI
+        >>
+                \addlyrics { \quintusLyricsXI }
+        \header {
+            piece = "Agnus Dei II"
+        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
 }

@@ -45,4 +45,16 @@
                 \addlyrics { \bassusLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \bassusXI
+        >>
+                \addlyrics { \bassusLyricsXI }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+        \header {
+            piece = "Agnus Dei II"
+        }
+    }
 }

@@ -45,6 +45,18 @@
                 \addlyrics { \tenorLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenorXI
+        >>
+                \addlyrics { \tenorLyricsXI }
+        \header {
+            piece = "Agnus Dei II"
+        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
 }
 
 \book {
@@ -58,6 +70,18 @@
             \tenorX
         >>
                 \addlyrics { \tenorLyricsX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenorXI
+        >>
+                \addlyrics { \tenorLyricsXI }
+        \header {
+            piece = "Agnus Dei II"
+        }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
