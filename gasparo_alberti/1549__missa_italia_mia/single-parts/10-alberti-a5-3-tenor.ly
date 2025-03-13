@@ -23,7 +23,7 @@
     shortcomp = "alberti"
 
     % Things that change per part:
-    partname = "Tenor (part 3 of 5)"
+    partname = "Tenor (part 3 of 5, 4 of 6 for Agnus Dei III)"
     instrument = "Missa sopra Italia mia: Agnus Dei (tenor)"
 
     % Unchanging:
@@ -31,6 +31,8 @@
 }
 
 \include "../parts/10-alberti-a5-agnus.ly"
+\include "../parts/11-alberti-a5-agnus.ly"
+\include "../parts/12-alberti-a6-agnus.ly"
 
 \book {
     \bookOutputName "10-alberti--missa_sopra_italia_mia-agnus_dei"
@@ -54,6 +56,18 @@
                 \addlyrics { \tenorLyricsXI }
         \header {
             piece = "Agnus Dei II"
+        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenorXII
+        >>
+                \addlyrics { \tenorLyricsXII }
+        \header {
+            piece = "Agnus Dei III [cantus firmus]"
         }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
@@ -81,6 +95,18 @@
                 \addlyrics { \tenorLyricsXI }
         \header {
             piece = "Agnus Dei II"
+        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenorXII
+        >>
+                \addlyrics { \tenorLyricsXII }
+        \header {
+            piece = "Agnus Dei III [cantus firmus]"
         }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

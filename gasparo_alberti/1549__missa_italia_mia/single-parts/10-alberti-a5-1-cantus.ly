@@ -23,7 +23,7 @@
     shortcomp = "alberti"
 
     % Things that change per part:
-    partname = "Cantus (part 1 of 5)"
+    partname = "Cantus (part 1 of 5, 1 of 6 for Agnus Dei III)"
     instrument = "Missa sopra Italia mia: Agnus Dei (cantus)"
 
     % Unchanging:
@@ -31,6 +31,8 @@
 }
 
 \include "../parts/10-alberti-a5-agnus.ly"
+\include "../parts/11-alberti-a5-agnus.ly"
+\include "../parts/12-alberti-a6-agnus.ly"
 
 \book {
     \bookOutputName "10-alberti--missa_sopra_italia_mia-agnus_dei"
@@ -49,11 +51,23 @@
         \new Voice << 
             \clef "treble"
             \global 
-            \cantusX
+            \cantusXI
         >>
-                \addlyrics { \cantusLyricsX }
+                \addlyrics { \cantusLyricsXI }
         \header {
             piece = "Agnus Dei II"
+        }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \cantusXII
+        >>
+                \addlyrics { \cantusLyricsXII }
+        \header {
+            piece = "Agnus Dei III"
         }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

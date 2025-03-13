@@ -1,7 +1,7 @@
 \version "2.22.1"
 \include "english.ly"
 
-% Invocation: /usr/local/bin/generate-single.py -t "Missa sopra Italia mia" -u "Agnus Dei" -m 112 -l latin -v 10-alberti-a5-0-score.ly cantus:t altus:8a tenor:8a quintus:b bassus:b
+% Invocation: /usr/local/bin/generate-single.py -t "Missa sopra Italia mia" -u "Agnus Dei" -m 112 -l latin -v 10-alberti-a5-0-score.ly cantus:t altus:8a sextus:8a quintus:b bassus:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -17,43 +17,51 @@
     title = "Missa sopra Italia mia"
     subtitle = "Agnus Dei"
     subsubtitle = ""
-    instrument = "Missa sopra Italia mia: Agnus Dei (altus)"
+    instrument = "Missa sopra Italia mia: Agnus Dei (sextus)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "missa_sopra_italia_mia"
     shortcomp = "alberti"
 
     % Things that change per part:
-    partname = "Altus (part 2 of 5, 2 of 6 for Agnus Dei III)"
-    instrument = "Missa sopra Italia mia: Agnus Dei (altus)"
+    partname = "Sextus (3 of 6 for Agnus Dei III)"
+    instrument = "Missa sopra Italia mia: Agnus Dei (sextus)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/10-alberti-a5-agnus.ly"
-\include "../parts/11-alberti-a5-agnus.ly"
 \include "../parts/12-alberti-a6-agnus.ly"
 
 \book {
     \bookOutputName "10-alberti--missa_sopra_italia_mia-agnus_dei"
-    \bookOutputSuffix "--2-altus--tr8_clef"
+    \bookOutputSuffix "--6-sextus--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \altusX
+            \relative c' {
+                \clef "treble_8"
+                \key f \major 
+                \time 4/2
+                R\breve*41
+                \bar "|."
+            }
         >>
-                \addlyrics { \altusLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \altusXI
+            \relative c' {
+                \clef "treble_8"
+                \key f \major 
+                \time 4/2
+                R\breve*57
+                \bar "|."
+            }
         >>
-                \addlyrics { \altusLyricsXI }
         \header {
             piece = "Agnus Dei II"
         }
@@ -63,9 +71,9 @@
         \new Voice << 
             \clef "treble_8"
             \global 
-            \altusXII
+            \sextusXII
         >>
-                \addlyrics { \altusLyricsXII }
+                \addlyrics { \sextusLyricsXII }
         \header {
             piece = "Agnus Dei III"
         }
@@ -75,39 +83,49 @@
 
 \book {
     \bookOutputName "10-alberti--missa_sopra_italia_mia-agnus_dei"
-    \bookOutputSuffix "--2-altus--al_clef"
+    \bookOutputSuffix "--6-sextus--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altusX
+            \relative c' {
+                \clef alto
+                \key f \major 
+                \time 4/2
+                R\breve*41
+                \bar "|."
+            }
         >>
-                \addlyrics { \altusLyricsX }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altusXI
+            \relative c' {
+                \clef "alto"
+                \key f \major 
+                \time 4/2
+                R\breve*57
+                \bar "|."
+            }
         >>
-                \addlyrics { \altusLyricsXI }
-     %   \include "../include/vocal-layout-parts-barring.ly"
         \header {
             piece = "Agnus Dei II"
         }
+     %   \include "../include/vocal-layout-parts-barring.ly"
     }
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \altusXII
+            \sextusXII
         >>
-                \addlyrics { \altusLyricsXII }
-     %   \include "../include/vocal-layout-parts-barring.ly"
+                \addlyrics { \sextusLyricsXII }
         \header {
             piece = "Agnus Dei III"
         }
+     %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
