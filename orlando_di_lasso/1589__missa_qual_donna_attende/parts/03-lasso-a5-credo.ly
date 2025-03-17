@@ -142,7 +142,7 @@ cantusLyricsIII = \lyricmode {
     pas -- sus, __ et __ se -- pul -- tus __ est.
 
 %    Et re -- sur -- re -- xit 
-        ter -- ti -- a di -- e,
+        ter -- ti -- a di -- e, __
         se -- cun -- dum scri -- ptu -- ras.
 
     % Et a -- scen -- dit in cæ -- lum:
@@ -159,7 +159,7 @@ cantusLyricsIII = \lyricmode {
 %    Qui cum Pa -- tre, et Fi -- li -- o 
         si -- mul a -- do -- ra -- tur
     et con -- glo -- ri -- fi -- ca -- tur:
-    qui lo -- cu -- tus est % per Pro -- phe -- tas.
+    qui __ lo -- cu -- tus est % per Pro -- phe -- tas.
     Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
     \ijLyrics
         Ca -- tho -- li -- cam
@@ -186,7 +186,6 @@ bassusIIIincipit = \relative c {
 
 % bassus: checked against source
 bassusIII = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCutTime
 
@@ -238,7 +237,7 @@ bassusIII = \relative c {
 
     g1) | \[ d'1( c) \]  f r1 | R\breve | r1 r2 bf, | d2. d4 c2 a | bf c f,1 |
     % --- page ---
-    r1 \[ c'( | g') \] \[ d( | g,) \] d' | d2. d4 g,1 ~ | g c1 | 
+    r1 \[ c'( | g') \] \[ d( | a) \] d | d2. d4 g,1 ~ | g c1 | 
         c2 f2.( e4 d c |
 
     bf2) c f1 | c1 a2 bf4( c | d e f2) bf,1 | R\breve*4 | 
@@ -347,8 +346,8 @@ altusIIIincipit = \relative c' {
     c\breve
 }
 
+% altus: checked against source
 altusIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
@@ -360,7 +359,8 @@ altusIII = \relative c' {
     c1 | d2 d2.( e4
 
     % --- page ---
-    f2) | e f1 e2 | f1 d | d2 d2.( c8[ bf] c2) |
+    f2) | e f1 e2 | f1 d | 
+        d2 d2.\melfi cs8[ b] cs!2\melfiEnd |
         d1\colorBr b2.\colorBrBegin b4\colorBrEnd | 
 
     c2 c1 a2 | d c bf g | a2.( bf4 c1 ~ | c) r2 f ~ | f e f d | c bf
@@ -398,11 +398,11 @@ altusIII = \relative c' {
         r1 r2 c |
 
     % --- page ---
-    b2 c e f ~ | f4( e8[ d] e2) f1 | R\breve*3 | r1 r2 f ~ | f4( e
+    b2 c e f ~ | f4( e8[ d] e2) f1 | R\breve*2 R\breve | r1 r2 f ~ | f4( e
 
     \colorBr d2.\colorBrBegin c8[ bf]\colorBrEnd c2) | 
         d e f1 ~ | f2 f g d ~ | d( c4 bf c1) |
-        d2 d \colorBr d2.\colorBrBegin f4\colorBrEnd |
+        c2 c \colorBr d2.\colorBrBegin f4\colorBrEnd |
 
     e2 d c e | f1. d2 | f2. f4 e2 c | d e f \[ c ~ |
         c( \colorBr f2.\colorBrBegin \] 
@@ -442,74 +442,76 @@ altusIII = \relative c' {
 }
 
 altusLyricsIII = \lyricmode {
-%    Pa -- trem om -- ni -- po -- ten -- tem,
-%    fa -- cto -- rem cæ -- li et ter -- ræ,
-%    vi -- si -- bi -- li -- um om -- ni -- um
-%        et in -- vi -- si -- bi -- li -- um.
-%    Et in u -- num Do -- mi -- num
-%        Je -- sum Chri -- stum,
-%    Fi -- li -- um De -- i u -- ni -- ge -- ni -- tum,
-%    et ex Pa -- tre na -- tum
-%        an -- te om -- ni -- a sæ -- cu -- la.
-%    De -- um de De -- o,
-%    \ijLyrics
-%    De -- um de De -- o,
-%    \normalLyrics
-%        lu -- men de lu -- mi -- ne,
-%    De -- um ve -- rum
-%        de De -- o ve -- ro,
-%    Ge -- ni -- tum, non fa -- ctum,
-%        con -- sub -- stan -- ti -- a -- lem Pa -- tri:
-%    per quem om -- ni -- a fa -- cta sunt.
-%
-%    Qui pro -- pter nos ho -- mi -- nes
-%    et pro -- pter no -- stram,
-%    \ijLyrics
-%    et pro -- pter no -- stram
-%    \normalLyrics
-%        sa -- lu -- tem de -- scen -- dit de cæ -- lis.
-%
-%    % ---
-%    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
-%    ex Ma -- ri -- a Vir -- gi -- ne:
-%    et ho -- mo fa -- ctus est.
-%
-%    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
-%        sub Pon -- ti -- o Pi -- la -- to:
-%    pas -- sus, et se -- pul -- tus est.
-%
+    Pa -- trem om -- ni -- po -- ten -- tem,
+    fa -- cto -- rem cæ -- li et ter -- ræ,
+    vi -- si -- bi -- li -- um om -- ni -- um
+        et in -- vi -- si -- bi -- li -- um.
+    Et in u -- num Do -- mi -- num
+        Je -- sum Chri -- stum,
+    Fi -- li -- um De -- i u -- ni -- ge -- ni -- tum, __
+    et __ ex Pa -- tre na -- tum
+        an -- te om -- ni -- a __ sæ -- cu -- la. __
+    De -- um de De -- o,
+    \ijLyrics
+    De -- um de De -- o,
+    \normalLyrics
+        lu -- men de lu -- mi -- ne,
+    De -- um ve -- rum
+        de De -- o ve -- ro, __
+    Ge -- ni -- tum, non fa -- ctum,
+        con -- sub -- stan -- ti -- a -- lem Pa -- tri:
+    per quem om -- ni -- a fa -- cta sunt. __
+
+    % Qui pro -- pter nos ho -- mi -- nes
+    et pro -- pter no -- stram,
+    \ijLyrics
+    et pro -- pter no -- stram
+    \normalLyrics
+        sa -- lu -- tem de -- scen -- dit de cæ -- lis,
+            de -- scen -- dit de cæ -- lis.
+
+    % ---
+    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
+    ex Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est.
+
+    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
+        sub Pon -- ti -- o Pi -- la -- to: __
+    pas -- sus, et __ se -- pul -- tus est.
+
 %    Et re -- sur -- re -- xit
-%        ter -- ti -- a di -- e,
-%        se -- cun -- dum scri -- ptu -- ras.
-%
+        ter -- ti -- a __ di -- e, __
+        se -- cun -- dum scri -- ptu -- ras.
+
 %    Et a -- scen -- dit in cæ -- lum:
-%    se -- det ad dex -- te -- ram Pa -- tris.
-%
-%    Et i -- te -- rum ven -- tu -- rus est
-%    cum glo -- ri -- a ju -- di -- ca -- re vi -- vos et mor -- tu -- os:
-%    cu -- jus Re -- gni non e -- rit fi -- nis.
-%
-%    Et in Spi -- ri -- tum san -- ctum Do -- mi -- num,
-%        et vi -- vi -- fi -- can -- tem:
-%    qui ex Pa -- tre, Fi -- li -- o -- que pro -- ce -- dit.
+    se -- det ad dex -- te -- ram Pa -- tris.
+
+    Et i -- te -- rum ven -- tu -- rus est
+    cum glo -- ri -- a ju -- di -- ca -- re vi -- vos,
+        vi -- vos et mor -- tu -- os: __
+    cu -- jus Re -- gni non e -- rit fi -- nis.
+
+    Et __ in Spi -- ri -- tum san -- ctum __ Do -- mi -- num,
+        et vi -- vi -- fi -- can -- tem:
+    qui ex Pa -- tre, Fi -- li -- o -- que pro -- ce -- dit.
 %
 %    Qui cum Pa -- tre, et Fi -- li -- o
-%        si -- mul a -- do -- ra -- tur
-%    et con -- glo -- ri -- fi -- ca -- tur:
-%    qui lo -- cu -- tus est per Pro -- phe -- tas.
-%    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
-%    \ijLyrics
-%        Ca -- tho -- li -- cam
-%    \normalLyrics
-%        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
-%
-%    Con -- fi -- te -- or u -- num ba -- pti -- sma,
-%        in re -- mis -- si -- o -- nem pec -- ca -- to -- rum.
-%    Et ex -- pe -- cto
-%        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum,
-%    et vi -- tam ven -- tu -- ri sæ -- cu -- li.
-%    A -- men.
-%    A -- men.
+        si -- mul a -- do -- ra -- tur
+    et con -- glo -- ri -- fi -- ca -- tur:
+    qui __ lo -- cu -- tus est __ per Pro -- phe -- tas.
+    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
+    \ijLyrics
+        Ca -- tho -- li -- cam
+    \normalLyrics
+        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
+
+    Con -- fi -- te -- or u -- num ba -- pti -- sma,
+        in re -- mis -- si -- o -- nem pec -- ca -- to -- rum.
+    Et __ ex -- pe -- cto
+        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum, __
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li. __
+    A -- men. __
+    A -- men.
 }
 
 quintusIIIincipit = \relative c {
@@ -520,8 +522,8 @@ quintusIIIincipit = \relative c {
     f1.
 }
 
+% quintus: checked against source
 quintusIII = \relative c {
-    \clef tenor
     \key f \major
     \fourTwoCutTime
 
@@ -555,7 +557,10 @@ quintusIII = \relative c {
         a\longa*1/2
     \bar "||"
     % --- page ---
-    R\breve*2 R\breve*5 R\breve*5
+    r1 g | bf2 bf a \colorBr d\colorBrBegin ~ |
+        d4( c8[ bf] \colorBrEnd c2) d1 | b c | c2 d c1 | bf
+
+    f1 ~ | f2 d f c | g'2.( f4 ef2) ef | d d g1 | e a | f\breve | g\longa*1/2
     \bar "||"
     % --- page ---
     R\breve*5 R\breve*5 R\breve*5 R\breve*5
@@ -565,15 +570,15 @@ quintusIII = \relative c {
     R\breve*5 R\breve*5
     R\breve*5 R\breve*5 R\breve*3
     % --- page ---
-    r2 d1 d2 | ef d c1 | bf2 bf f1 ~| f2 g bf a |
+    r2 d'1 d2 | ef d c1 | bf2 bf f1 ~| f2 g bf a |
     % --- page ---
     g1 f | a2. a4 a2 a | g1 f ~ | f2 d g1 | c,2 c' b c | 
 
     d1 c | c c2 b | c g bf a | b c c d | 
     % --- page ---
-    bf2. c4 d2 c | c b c1 | R\breve*3 | r1 f, | bf2 bf2. bf4 g2 | 
+    bf2. c4 d2 c | c b c1 | R\breve*2 R\breve | r1 f, | bf2 bf2. bf4 g2 | 
 
-    ef1 bf'2 a | \colorBr bf2.\colorBrBegin a4\colorBrEnd g1 |
+    ef1 bf'2 a | \colorBr bf2.\colorBrBegin ( a4\colorBrEnd g1) |
         f a2. a4 | a1 g | r2 c4 c a a f2 ~ | f
 
     % --- pag e---
@@ -585,37 +590,33 @@ quintusIII = \relative c {
 }
 
 quintusLyricsIII = \lyricmode {
-%    Pa -- trem om -- ni -- po -- ten -- tem,
+    Pa -- trem om -- ni -- po -- ten -- tem,
 %    fa -- cto -- rem cæ -- li et ter -- ræ,
-%    vi -- si -- bi -- li -- um om -- ni -- um
-%        et in -- vi -- si -- bi -- li -- um.
-%    Et in u -- num Do -- mi -- num
-%        Je -- sum Chri -- stum,
-%    Fi -- li -- um De -- i u -- ni -- ge -- ni -- tum,
-%    et ex Pa -- tre na -- tum
-%        an -- te om -- ni -- a sæ -- cu -- la.
-%    De -- um de De -- o,
-%    \ijLyrics
-%    De -- um de De -- o,
-%    \normalLyrics
-%        lu -- men de lu -- mi -- ne,
-%    De -- um ve -- rum
-%        de De -- o ve -- ro,
+    vi -- si -- bi -- li -- um om -- ni -- um
+        et in -- vi -- si -- bi -- li -- um.
+    Et __ in u -- num Do -- mi -- num
+        Je -- sum Chri -- stum,
+    Fi -- li -- um __ De -- i u -- ni -- ge -- ni -- tum 
+    et __ ex Pa -- tre na -- tum __
+        an -- te om -- ni -- a sæ -- cu -- la.
+    De -- um de De -- o,
+    De -- um de De -- o,
+        lu -- men de lu -- mi -- ne,
+    De -- um ve -- rum
+        de De -- o ve -- ro,
 %    Ge -- ni -- tum, non fa -- ctum,
 %        con -- sub -- stan -- ti -- a -- lem Pa -- tri:
-%    per quem om -- ni -- a fa -- cta sunt.
-%
-%    Qui pro -- pter nos ho -- mi -- nes
-%    et pro -- pter no -- stram,
-%    \ijLyrics
-%    et pro -- pter no -- stram
-%    \normalLyrics
-%        sa -- lu -- tem de -- scen -- dit de cæ -- lis.
+    per quem om -- ni -- a __ fa -- cta __ sunt.
+
+    Qui pro -- pter nos ho -- mi -- nes
+    et pro -- pter no -- stram
+        sa -- lu -- tem de -- scen -- dit de __ cæ -- lis,
+            de cæ -- lis.
 %
 %    % ---
-%    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
-%    ex Ma -- ri -- a Vir -- gi -- ne:
-%    et ho -- mo fa -- ctus est.
+    Et in -- car -- na -- tus __ est de Spi -- ri -- tu San -- cto
+    ex __ Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est.
 %
 %    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
 %        sub Pon -- ti -- o Pi -- la -- to:
@@ -637,22 +638,20 @@ quintusLyricsIII = \lyricmode {
 %    qui ex Pa -- tre, Fi -- li -- o -- que pro -- ce -- dit.
 %
 %    Qui cum Pa -- tre, et Fi -- li -- o
-%        si -- mul a -- do -- ra -- tur
-%    et con -- glo -- ri -- fi -- ca -- tur:
-%    qui lo -- cu -- tus est per Pro -- phe -- tas.
-%    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
-%    \ijLyrics
-%        Ca -- tho -- li -- cam
-%    \normalLyrics
-%        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
-%
+        Si -- mul a -- do -- ra -- tur
+    et con -- glo -- ri -- fi -- ca -- tur:
+    qui lo -- cu -- tus est per __ Pro -- phe -- tas.
+    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
+        Ca -- tho -- li -- cam
+        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
+
 %    Con -- fi -- te -- or u -- num ba -- pti -- sma,
-%        in re -- mis -- si -- o -- nem pec -- ca -- to -- rum.
-%    Et ex -- pe -- cto
-%        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum,
-%    et vi -- tam ven -- tu -- ri sæ -- cu -- li.
-%    A -- men.
-%    A -- men.
+        in re -- mis -- si -- o -- nem pec -- ca -- to -- rum.
+    Et ex -- pe -- cto
+        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum, __
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li.
+    A -- men.
+    A -- men.
 }
 
 tenorIIIincipit = \relative c' {
@@ -801,7 +800,7 @@ tenorLyricsIII = \lyricmode {
         se -- cun -- dum scri -- ptu -- ras.
 
     Et a -- scen -- dit in cæ -- lum:
-    se -- det ad dex -- te -- ram Pa -- tris.
+    se -- det ad __ dex -- te -- ram Pa -- tris.
 
     Et i -- te -- rum ven -- tu -- rus est
     cum glo -- ri -- a ju -- di -- ca -- re __ vi -- vos et __ mor -- tu -- os:
