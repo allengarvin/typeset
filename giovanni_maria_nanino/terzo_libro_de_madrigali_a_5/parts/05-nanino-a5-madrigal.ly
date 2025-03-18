@@ -1,7 +1,7 @@
 % Amor mi fa morire,
 % e pur il vo' seguire.
 % Non è gran duol il mio, gravoso e forte,
-% conoscer, ch'io vo' dietr'alla mia morte?
+% conoscer ch'io vo' dietr'alla mia morte?
 % Sotto ch'acerba sorte
 % nacque nel mondo, che morir mi sento,
 % et abbracciar mi piace il mio tormento?
@@ -21,8 +21,8 @@ cantoVincipit = \relative c'' {
     g2
 }
 
+% canto: checked against source
 cantoV = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -50,43 +50,34 @@ cantoV = \relative c'' {
 
     c4 d ~ | 
         \invisibleTime\time 6/2 s1*0 \raisedSixTwoTime
-        d8([ c b a] g4 f8[ e] fs4. g8 a4) gs2 fs8([ e] fs2)
+        d8([ c b a] g4 fs8[ e] fs4. g8 a4) g2 fs8([ e] fs2)
         \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 cantoLyricsV = \lyricmode {
-%    A -- mor mi fa mo -- ri -- re,
-%    \ijLyrics
-%    A -- mor mi fa mo -- ri -- re,
-%    \normalLyrics
-%    E pur il vo' se -- gui -- re,
-%    E pur il vo' se -- gui -- re.
-%    Non è gran duol il mio, gra -- vo -- so~e for -- te,
-%    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te,
-%    \ijLyrics
-%    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te?
-%    \normalLyrics
-%    Sot -- to ch'a -- cer -- ba sor -- te
-%    Nac -- que nel mon -- do, che mo -- rir mi sen -- to,
-%    \ijLyrics
-%        che mo -- rir mi sen -- to,
-%    \normalLyrics
-%    Ed ab -- brac -- ciar mi pia -- ce~il mio tor -- men -- to,
-%        il mio tor -- men -- to?
-%    Deh, voi, ch'u -- di -- te il mio tri -- sto la -- men -- to,
-%    Di -- tel se'l dir a voi non v'è mo -- le -- sto,
-%    Di -- tel se'l dir a voi non v'è mo -- le -- sto:
+    A -- mor mi fa mo -- ri -- re,
+    A -- mor mi fa mo -- ri -- re,
+    E pur il vo' __ se -- gui -- re,
+    E pur il vo' se -- gui -- re.
+    Non è gran duol il mio, gra -- vo -- so~e for -- te,
+    Co -- no -- scer ch'io vo' die -- tr'al -- la mia mor -- te,
+    Co -- no -- scer ch'io vo' die -- tr'al -- la mia mor -- te?
+    Sot -- to ch'a -- cer -- ba sor -- te
+    Nac -- que nel mon -- do, che mo -- rir mi sen -- to,
+    Ed ab -- brac -- ciar mi pia -- ce~il mio tor -- men -- to?
+    Deh, voi, __ ch'u -- di -- te~il mio tri -- sto la -- men -- to,
+    Di -- tel se'l dir a voi non v'è mo -- le -- sto:
 %    Non è mi -- ra -- col que -- sto,
-%    Non è mi -- ra -- col que -- sto:
-%    Ch'a -- mor mi fa mo -- ri -- re,
-%    Ch'a -- mor mi fa mo -- ri -- re
-%    E pur il vo' se -- gui -- re,
-%    E pur il vo' se -- gui -- re,
-%    \ijLyrics
-%    E pur il vo' se -- gui -- re,
-%    \normalLyrics
-%    E pur il vo' se -- gui -- re?
+    Non è mi -- ra -- col que -- sto:
+    Ch'a -- mor mi fa mo -- ri -- re,
+    Ch'a -- mor mi fa mo -- ri -- re
+    E pur il vo' __ se -- gui -- re,
+    E __ pur il vo' se -- gui -- re,
+    \ijLyrics
+    E pur il vo' se -- gui -- re,
+    \normalLyrics
+    E pur il vo' __ se -- gui -- re?
 }
 
 altoVincipit = \relative c' {
@@ -97,8 +88,8 @@ altoVincipit = \relative c' {
     d1
 }
 
+% alto: checked against source
 altoV = \relative c' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -125,44 +116,45 @@ altoV = \relative c' {
     e4 a2 b4 | g a4.( g8[ g f16 e] fs4) g fs2 | g4 b c4. a8 b4 g fs2 |
         g r2 r4 g a f | g e d2 g,4 b c a |
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        b2. a8[ g] a2 d d1
+        b2.( a8[ g] a2) d d1
         \invisibleTime\time 4/2 d\longa*1/2
 
     \bar "|."
 }
 
 altoLyricsV = \lyricmode {
-%    A -- mor mi fa mo -- ri -- re,
-%    \ijLyrics
-%    A -- mor mi fa mo -- ri -- re,
-%    \normalLyrics
-%    E pur il vo' se -- gui -- re,
-%    E pur il vo' se -- gui -- re.
-%    Non è gran duol il mio, gra -- vo -- so~e for -- te,
-%    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te,
-%    \ijLyrics
-%    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te?
-%    \normalLyrics
-%    Sot -- to ch'a -- cer -- ba sor -- te
-%    Nac -- que nel mon -- do, che mo -- rir mi sen -- to,
-%    \ijLyrics
-%        che mo -- rir mi sen -- to,
-%    \normalLyrics
-%    Ed ab -- brac -- ciar mi pia -- ce~il mio tor -- men -- to,
-%        il mio tor -- men -- to?
-%    Deh, voi, ch'u -- di -- te il mio tri -- sto la -- men -- to,
-%    Di -- tel se'l dir a voi non v'è mo -- le -- sto,
-%    Di -- tel se'l dir a voi non v'è mo -- le -- sto:
-%    Non è mi -- ra -- col que -- sto,
-%    Non è mi -- ra -- col que -- sto:
-%    Ch'a -- mor mi fa mo -- ri -- re,
-%    Ch'a -- mor mi fa mo -- ri -- re
-%    E pur il vo' se -- gui -- re,
-%    E pur il vo' se -- gui -- re,
-%    \ijLyrics
-%    E pur il vo' se -- gui -- re,
-%    \normalLyrics
-%    E pur il vo' se -- gui -- re?
+    A -- mor mi fa mo -- ri -- re,
+    \ijLyrics
+    A -- mor mi fa mo -- ri -- re,
+    \normalLyrics
+        mi fa mo -- ri -- re,
+        mi fa mo -- ri -- re,
+    E pur il vo', __ 
+    E pur il vo' se -- gui -- re,
+    E pur il vo' __ se -- gui -- re.
+    Non è gran duol il mio, gra -- vo -- so~e for -- te,
+    Co -- no -- scer ch'io vo' die -- tr'al -- la mia mor -- te,
+    Co -- no -- scer ch'io vo' die -- tr'al -- la mia mor -- te?
+    Sot -- to ch'a -- cer -- ba sor -- te
+    Nac -- que nel mon -- do, che mo -- rir mi sen -- to,
+    Ed ab -- brac -- ciar mi pia -- ce~il mio tor -- men -- to? __
+    Deh, voi, __ ch'u -- di -- te~il mio tri -- sto la -- men -- to,
+    Di -- tel se'l dir a voi non v'è __ mo -- le -- sto:
+    Non __ è mi -- ra -- col que -- sto:
+    Ch'a -- mor mi fa mo -- ri -- re,
+    \ijLyrics
+    Ch'a -- mor mi fa mo -- ri -- re,
+    \normalLyrics
+        mi fa mo -- ri -- re,
+        mi fa mo -- ri -- re
+    E pur __ il vo', __
+    E pur il vo' se -- gui -- re,
+    E pur il vo' __ se -- gui -- re,
+    E pur il vo' se -- gui -- re,
+    \ijLyrics
+    E pur il vo' se -- gui -- re,
+    E pur il vo' __ se -- gui -- re?
+    \normalLyrics
 }
 
 tenoreVincipit = \relative c' {
@@ -173,8 +165,8 @@ tenoreVincipit = \relative c' {
     d2
 }
 
+% tenore: checked against source
 tenoreV = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -207,37 +199,32 @@ tenoreV = \relative c' {
 }
 
 tenoreLyricsV = \lyricmode {
-%    A -- mor mi fa mo -- ri -- re,
-%    \ijLyrics
-%    A -- mor mi fa mo -- ri -- re,
-%    \normalLyrics
-%    E pur il vo' se -- gui -- re,
-%    E pur il vo' se -- gui -- re.
-%    Non è gran duol il mio, gra -- vo -- so~e for -- te,
-%    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te,
-%    \ijLyrics
-%    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te?
-%    \normalLyrics
-%    Sot -- to ch'a -- cer -- ba sor -- te
-%    Nac -- que nel mon -- do, che mo -- rir mi sen -- to,
-%    \ijLyrics
-%        che mo -- rir mi sen -- to,
-%    \normalLyrics
-%    Ed ab -- brac -- ciar mi pia -- ce~il mio tor -- men -- to,
-%        il mio tor -- men -- to?
-%    Deh, voi, ch'u -- di -- te il mio tri -- sto la -- men -- to,
-%    Di -- tel se'l dir a voi non v'è mo -- le -- sto,
-%    Di -- tel se'l dir a voi non v'è mo -- le -- sto:
-%    Non è mi -- ra -- col que -- sto,
-%    Non è mi -- ra -- col que -- sto:
-%    Ch'a -- mor mi fa mo -- ri -- re,
-%    Ch'a -- mor mi fa mo -- ri -- re
-%    E pur il vo' se -- gui -- re,
-%    E pur il vo' se -- gui -- re,
-%    \ijLyrics
-%    E pur il vo' se -- gui -- re,
-%    \normalLyrics
-%    E pur il vo' se -- gui -- re?
+    A -- mor mi fa mo -- ri -- re,
+    \ijLyrics
+    A -- mor mi fa __ mo -- ri -- re,
+    \normalLyrics
+    E pur il vo' se -- gui -- re,
+    E pur il vo' se -- gui -- re.
+    Non è gran duol il mio,
+    Non è gran duol il mio, gra -- vo -- so~e for -- te,
+    Co -- no -- scer ch'io vo' die -- tr'al -- la mia mor -- te?
+    Sot -- to ch'a -- cer -- ba sor -- te
+    Nac -- que nel mon -- do, che __ mo -- rir mi __ sen -- to,
+    Ed ab -- brac -- ciar mi pia -- ce~il mio tor -- men -- to?
+    Deh, voi, ch'u -- di -- te~il mio tri -- sto la -- men -- to,
+    Di -- tel se'l dir a voi non v'è __ mo -- le -- sto:
+    Non è mi -- ra -- col que -- sto:
+    Ch'a -- mor mi fa mo -- ri -- re,
+    \ijLyrics
+    Ch'a -- mor mi fa mo -- ri -- re
+    \normalLyrics
+    E pur il vo' se -- gui -- re,
+    E pur __ il vo' __ se -- gui -- re,
+    \ijLyrics
+    E pur il vo' se -- gui -- re,
+    E pur il vo' se -- gui -- re, __
+    \normalLyrics
+    E pur il vo' se -- gui -- re?
 }
 
 bassoVincipit = \relative c {
@@ -248,15 +235,15 @@ bassoVincipit = \relative c {
     d1
 }
 
+% basso: checked against source
 bassoV = \relative c {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
     R\breve*3 | d1 g2. e4 | fs2 g e1 | d r1 | R\breve | r2 g a f4 g ~ |
-        g f e2 d1 | r2 g fs g | f e d1 | R\breve | r2 a'1 f2 ~ | f d
+        g f e2 d1 | r2 g fs g | f e d1 | R\breve | r2 a'1 f2 ~ | f c
 
-    g1 ~ | g2 g r1 | r1 c2 c4 d | c b a g f e d2 | c1 r2 c | 
+    g'1 ~ | g2 g r1 | r1 c2 c4 d | c b a g f e d2 | c1 r2 c | 
         c d e e | f1 e2 a ~ | a4 a b2 c4.( b8 a4. g8 | f4. e8 d2) a'1 |
 
     R\breve*2 | g2. a4 g2 f | e d r1 | R\breve | r1 r2 r4 c |
@@ -265,7 +252,7 @@ bassoV = \relative c {
 
     e2 a d,1 | a' r1 | R\breve | r2 d1 c2 | b4 c2 a4 bf2 g4 a ~ |
         a fs g2 c,1 | R\breve | r2 c1 f2 | g4 a2 f4 g2 c, | 
-        R\breve*2 | d1 g2. e4 | fs2 g
+        R\breve R | d1 g2. e4 | fs2 g
 
     e1 | d r1 | R\breve | r2 g a f4 g ~ | g f e2 d1 | r1 r2 r4 d' ~ |
         d e2 c4 d b a2 | g1 r4 g a f |
@@ -276,37 +263,22 @@ bassoV = \relative c {
 }
 
 bassoLyricsV = \lyricmode {
-%    A -- mor mi fa mo -- ri -- re,
-%    \ijLyrics
-%    A -- mor mi fa mo -- ri -- re,
-%    \normalLyrics
-%    E pur il vo' se -- gui -- re,
-%    E pur il vo' se -- gui -- re.
-%    Non è gran duol il mio, gra -- vo -- so~e for -- te,
-%    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te,
-%    \ijLyrics
-%    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te?
-%    \normalLyrics
-%    Sot -- to ch'a -- cer -- ba sor -- te
-%    Nac -- que nel mon -- do, che mo -- rir mi sen -- to,
-%    \ijLyrics
-%        che mo -- rir mi sen -- to,
-%    \normalLyrics
-%    Ed ab -- brac -- ciar mi pia -- ce~il mio tor -- men -- to,
-%        il mio tor -- men -- to?
-%    Deh, voi, ch'u -- di -- te il mio tri -- sto la -- men -- to,
-%    Di -- tel se'l dir a voi non v'è mo -- le -- sto,
-%    Di -- tel se'l dir a voi non v'è mo -- le -- sto:
-%    Non è mi -- ra -- col que -- sto,
-%    Non è mi -- ra -- col que -- sto:
-%    Ch'a -- mor mi fa mo -- ri -- re,
-%    Ch'a -- mor mi fa mo -- ri -- re
-%    E pur il vo' se -- gui -- re,
-%    E pur il vo' se -- gui -- re,
-%    \ijLyrics
-%    E pur il vo' se -- gui -- re,
-%    \normalLyrics
-%    E pur il vo' se -- gui -- re?
+    A -- mor mi fa mo -- ri -- re,
+    E pur il vo' __ se -- gui -- re.
+    Non è gran duol il mio, gra -- vo -- so~e for -- te,
+    Co -- no -- scer ch'io vo' die -- tr'al -- la mia mor -- te,
+    Sot -- to ch'a -- cer -- ba sor -- te
+    Nac -- que nel mon -- do, che mo -- rir mi sen -- to,
+    Ed ab -- brac -- ciar mi pia -- ce~il mio tor -- men -- to?
+    Deh, voi, __ ch'u -- di -- te~il mio tri -- sto la -- men -- to,
+    Di -- tel se'l dir a voi non v'è __ mo -- le -- sto:
+    Non è mi -- ra -- col que -- sto:
+    Ch'a -- mor mi fa mo -- ri -- re
+    E pur il vo' se -- gui -- re,
+    \ijLyrics
+    E __ pur il vo' se -- gui -- re,
+    \normalLyrics
+    E pur il vo' se -- gui -- re?
 }
 
 quintoVincipit = \relative c' {
@@ -357,9 +329,9 @@ quintoLyricsV = \lyricmode {
     E pur il vo' se -- gui -- re,
     E pur __ il vo' __ se -- gui -- re.
     Non è gran __ duol il mio, gra -- vo -- so~e for -- te,
-    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te,
+    Co -- no -- scer ch'io vo' die -- tr'al -- la mia mor -- te,
     \ijLyrics
-    Co -- no -- scer, ch'io vo' die -- tr'al -- la mia mor -- te?
+    Co -- no -- scer ch'io vo' die -- tr'al -- la mia mor -- te?
     \normalLyrics
     Sot -- to ch'a -- cer -- ba sor -- te
     Nac -- que nel mon -- do, che mo -- rir mi __ sen -- to,
