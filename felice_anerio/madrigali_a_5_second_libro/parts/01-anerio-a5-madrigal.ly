@@ -1,4 +1,4 @@
-% Amor se l'amoroso mio pensiero
+% Amor, se l'amoroso mio pensiero
 % spiegò troppo alto il volo
 % per arrivar a sì bel sol accanto,
 % colpa fu di te solo,
@@ -6,6 +6,18 @@
 % onde precipitando a terra io pero.
 % Lasso ben sapevo io che con quest'ale
 % a cader va chi troppo in alto sale.
+
+% Love, if my loving thought
+% took flight too high
+% to reach near such a lovely sun,
+% the fault was your alone,
+% for you gave me such boldness,
+% so that, plunging to the earth I perish.
+% Alas, I knew well that with these wings,
+% he who rises too high will surely fall.
+
+% pero: poetic variation perisco (perire)
+% desti: probably passato remote "Dare", not indicative of destare
 
 
 cantoIincipit = \relative c'' {
@@ -51,7 +63,7 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    A -- mor se l'a -- mo -- ro -- so mio pen -- sie -- ro
+    A -- mor, se l'a -- mo -- ro -- so mio pen -- sie -- ro
     Spie -- gò trop -- po~al -- to~il vo -- lo,
     Spie -- gò trop -- po~al -- to~il vo -- lo
     Per ar -- ri -- var a sì __ bel sol ac -- can -- to,
@@ -81,8 +93,8 @@ altoIincipit = \relative c' {
     f2
 }
 
+% alto: checked against source
 altoI = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -105,33 +117,41 @@ altoI = \relative c' {
     f'4 f g g a f r4 c | c2 g' c, f | d c g4 g' e e | c c d d 
 
     f4 f e2 ~ | e g r2 f | d c f, r4 c' ~ | c f2 f4 g g bf f |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         r2 r4 f e4. d8 c4 f
 
-    g4 a g g a1 | a\longa*1/2
+    g4 a g g |\invisibleTime\time 4/2  a1 a\longa*1/4
     \bar "|."
 }
 
 altoLyricsI = \lyricmode {
-%    A -- mor se l'a -- mo -- ro -- so mio pen -- sie -- ro
-%    Spie -- gò trop -- po~al -- to~il vo -- lo,
-%    Spie -- gò trop -- po~al -- to~il vo -- lo
-%    Per ar -- ri -- var a sì bel sol ac -- can -- to,
-%    Col -- pa fu di te so -- lo,
-%    Che de -- sti~ar -- dir co -- tan -- to,
-%    Che de -- sti~ar -- dir co -- tan -- to,
-%    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro,
-%    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro.
-%
+    A -- mor, se l'a -- mo -- ro -- so mio pen -- sie -- ro
+    Spie -- gò trop -- po~al -- to~il vo -- lo,
+    Spie -- gò trop -- po~al -- to~il vo -- lo
+    Per ar -- ri -- var a sì bel sol ac -- can -- to,
+    Col -- pa fu di te so -- lo,
+    Col -- pa fu di te so -- lo,
+        fu di te so -- lo,
+    Che de -- sti~ar -- dir co -- tan -- to,
+    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro,
+    \ijLyrics
+    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro,
+    \normalLyrics
+    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro.
+
 %    Las -- so ben sa -- pe -- v'io,
 %    \ijLyrics
-%    Las -- so ben sa -- pe -- v'io
-%    \normalLyrics
-%        che con que -- st'a -- le
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    Las -- so ben sa -- pe -- v'io,
+    Las -- so ben sa -- pe -- v'io che con que -- st'a -- le __
+    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    A ca -- der va,
+    \ijLyrics
+    A ca -- der va,
+    \normalLyrics
 %    A ca -- der va chi trop -- po~in al -- to,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le.
+    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    A ca -- der va chi __ trop -- po~in al -- to sa -- le,
+    A ca -- der va chi trop -- po~in al -- to sa -- le.
 }
 
 tenoreIincipit = \relative c' {
@@ -142,8 +162,8 @@ tenoreIincipit = \relative c' {
     f2
 }
 
+% tenore:" checked against source
 tenoreI = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
@@ -166,32 +186,37 @@ tenoreI = \relative c' {
     f,4 f g g | a a bf2 a1 | r1 r2 c | a g f r4 g | a a bf bf c2 c |
         r2 f, d c |
 
-    f2 r2 c' d4 d e e f2
-        c\longa*1/2
+    f2 r2 c' d4 d |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        e4 e f2 c\breve~
+        \invisibleTime\time 4/2 c\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsI = \lyricmode {
-%    A -- mor se l'a -- mo -- ro -- so mio pen -- sie -- ro
+    A -- mor, se l'a -- mo -- ro -- so mio pen -- sie -- ro
 %    Spie -- gò trop -- po~al -- to~il vo -- lo,
-%    Spie -- gò trop -- po~al -- to~il vo -- lo
-%    Per ar -- ri -- var a sì bel sol ac -- can -- to,
-%    Col -- pa fu di te so -- lo,
-%    Che de -- sti~ar -- dir co -- tan -- to,
-%    Che de -- sti~ar -- dir co -- tan -- to,
-%    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro,
-%    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro.
-%
-%    Las -- so ben sa -- pe -- v'io,
-%    \ijLyrics
-%    Las -- so ben sa -- pe -- v'io
-%    \normalLyrics
-%        che con que -- st'a -- le
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le.
+    Spie -- gò trop -- po~al -- to~il vo -- lo
+    Per ar -- ri -- var a sì __ bel sol ac -- can -- to,
+    Col -- pa fu __ di te so -- lo,
+    \ijLyrics
+    Col -- pa fu di te so -- lo,
+    \normalLyrics
+        fu di te so -- lo,
+    Che de -- sti~ar -- dir co -- tan -- to,
+    Che de -- sti~ar -- dir co -- tan -- to,
+    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro,
+    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro.
+
+    Las -- so ben sa -- pe -- v'io,
+    \ijLyrics
+    Las -- so ben sa -- pe -- v'io
+    \normalLyrics
+        che con que -- st'a -- le
+        chi trop -- po~in al -- to sa -- le,
+    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    A ca -- der va chi trop -- po~in al -- to sa -- le. __
 }
 
 bassoIincipit = \relative c {
@@ -202,8 +227,8 @@ bassoIincipit = \relative c {
     c2
 }
 
+% basso: checked against source
 bassoI = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCommonTime
 
@@ -216,37 +241,39 @@ bassoI = \relative c {
         f, r2 r4 c'' a f |
 
     a4 c f, c f, f c'2 | f, r2 r1 | r1 d' ~ | d c2 bf | a g d'1 | 
-        R\breve*2 | r2 d g c, | g'1 c,2 c' |
+        R\breve R | r2 d g c, | g'1 c,2 c' |
 
     a g f r4 c | d d e e f2 f | r1 r2 c | a g f f' | g4 g a a b2 c | 
 
     r1 r2 c, | a g f f' | g4 g a a b2 c | r4 f, d2 c bf | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         r4 c d d e2 f c'1
-        f,\longa*1/2
+        \invisibleTime\time 4/2 f,\longa*1/2
     \bar "|."
 }
 
 bassoLyricsI = \lyricmode {
-%    A -- mor se l'a -- mo -- ro -- so mio pen -- sie -- ro
-%    Spie -- gò trop -- po~al -- to~il vo -- lo,
-%    Spie -- gò trop -- po~al -- to~il vo -- lo
-%    Per ar -- ri -- var a sì bel sol ac -- can -- to,
-%    Col -- pa fu di te so -- lo,
+%    A -- mor, se l'a -- mo -- ro -- so mio pen -- sie -- ro
+    Spie -- gò trop -- po~al -- to~il vo -- lo,
+    \ijLyrics
+    Spie -- gò trop -- po~al -- to~il vo -- lo
+    \normalLyrics
+    Per ar -- ri -- var a sì bel sol ac -- can -- to,
+    Col -- pa __ fu di te so -- lo,
 %    Che de -- sti~ar -- dir co -- tan -- to,
-%    Che de -- sti~ar -- dir co -- tan -- to,
-%    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro,
-%    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro.
+    Che de -- sti~ar -- dir co -- tan -- to,
+    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro,
+    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro.
 %
 %    Las -- so ben sa -- pe -- v'io,
 %    \ijLyrics
-%    Las -- so ben sa -- pe -- v'io
-%    \normalLyrics
-%        che con que -- st'a -- le
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le.
+    Las -- so ben sa -- pe -- v'io che con que -- st'a -- le
+    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    \ijLyrics
+    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    \normalLyrics
+    A ca -- der va chi trop -- po~in al -- to sa -- le.
 }
 
 quintoIincipit = \relative c'' {
@@ -258,8 +285,8 @@ quintoIincipit = \relative c'' {
 }
 
 
+% quinto: checked against source
 quintoI = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCommonTime
 
@@ -272,7 +299,7 @@ quintoI = \relative c'' {
 
     d4) f e2 f r4 c' | a g f e c f g e | f1 g2 r4 c | a g f e c f g g |
 
-    a2. g8[ f] e4 d e2 | f d2.( e4 f g | a2) d, r1 | R\breve | d'\breve |
+    a2.( g8[ f] e4 d e2) | f d2.( e4 f g | a2) d, r1 | R\breve | d'\breve |
         c2 bf a g | d' r4 a 
 
     b4 b c2 ~ | c4( b8[ a] b2) c r2 | c bf a g | R\breve | r2 c a g |
@@ -280,32 +307,35 @@ quintoI = \relative c'' {
 
     bf2 a d, r4 g | a a b b c2 g | r1 c2 a | g e4 c' d d e e | f2 f
 
-    r2 bf, | g4 g f2 r4 c' c d e f2 e4
-        f\longa*1/2
+    r2 bf, | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g4 g f2 r4 c' c d e f2 e4
+        \invisibleTime\time 4/2 f\longa*1/2
     \bar "|."
 }
 
 quintoLyricsI = \lyricmode {
-%    A -- mor se l'a -- mo -- ro -- so mio pen -- sie -- ro
-%    Spie -- gò trop -- po~al -- to~il vo -- lo,
-%    Spie -- gò trop -- po~al -- to~il vo -- lo
-%    Per ar -- ri -- var a sì bel sol ac -- can -- to,
-%    Col -- pa fu di te so -- lo,
-%    Che de -- sti~ar -- dir co -- tan -- to,
-%    Che de -- sti~ar -- dir co -- tan -- to,
-%    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro,
-%    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro.
-%
-%    Las -- so ben sa -- pe -- v'io,
-%    \ijLyrics
-%    Las -- so ben sa -- pe -- v'io
-%    \normalLyrics
-%        che con que -- st'a -- le
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le,
-%    A ca -- der va chi trop -- po~in al -- to sa -- le.
+    A -- mor, se l'a -- mo -- ro -- so mio __ pen -- sie -- ro
+    Spie -- gò trop -- po~al -- to~il vo -- lo,
+    \ijLyrics
+    Spie -- gò trop -- po~al -- to~il vo -- lo
+    \normalLyrics
+    Per ar -- ri -- var a sì bel sol ac -- can -- to, __
+    Col -- pa fu di te so -- lo,
+    Che de -- sti~ar -- dir co -- tan -- to,
+    Che de -- sti~ar -- dir __ co -- tan -- to,
+    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro,
+    \ijLyrics
+    On -- de pre -- ci -- pi -- tan -- do~a ter -- ra~io pe -- ro.
+    \normalLyrics
+
+    Las -- so
+    Las -- so ben sa -- pe -- v'io che con que -- st'a -- le
+    A ca -- der va,
+    A ca -- der va chi trop -- po~in al -- to,
+    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    A ca -- der va chi trop -- po~in al -- to sa -- le,
+    A ca -- der va chi trop -- po~in al -- to sa -- le.
 }
 
 cantoIincipitVoice = <<
