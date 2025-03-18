@@ -1,0 +1,17 @@
+---
+top:
+    type: composer
+    path: /felice_anerio
+biography:
+    name: Felice Anerio
+    last_name: Anerio
+    nationality: Italian
+    born_year: 1560
+    died_year: 1614
+    died_date: 1614-10-27
+    born_location:
+        region: Rome
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

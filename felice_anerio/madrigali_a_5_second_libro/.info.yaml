@@ -1,0 +1,16 @@
+---
+local:
+    facsimile_directory: complete/1585__anerio_felice__madrigali_a_5_voci
+    typeset_directory: felice_anerio/madrigali_a_5_second_libro
+source:
+    city: Rome
+    date_exact: true
+    manuscript: false
+    press: Alessandro Gardano press
+    print: true
+    title: Madrigali a 5 voci, secondo libro
+    year: 1585
+contents:
+    type: madrigal
+    parts: 5
+    language: italian

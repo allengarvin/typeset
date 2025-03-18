@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1586__nanino__il_terzo_libro_de_madrigali_a_5_voci__gardano_press
+    typeset_directory: giovanni_maria_nanino/terzo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il terzo libro de madrigali a 5 voci
+    year: 1586

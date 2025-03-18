@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1589__lasso_orlando_di__patrocinum_musices_5_vocum/missa_io_son_ferito
+    typeset_directory: orlando_di_lasso/1589__missa_io_son_ferito
+source:
+    city: Munich
+    date_exact: true
+    manuscript: false
+    press: Adam Berg press
+    print: true
+    title: Missæ aliquot 5 vocum
+    year: 1589
