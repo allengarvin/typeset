@@ -13,6 +13,8 @@
     cksum = "2ead76507068a49231cf200988ee62d151ee4a3e"
     lastupdated = "2025-03-18"
     originallyset = "2025-03-18"
+    flats = 0
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Amor mi fa morire"

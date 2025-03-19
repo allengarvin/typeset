@@ -33,8 +33,9 @@ cantoVI = \relative c'' {
 
                 % vv b4 to b2
     d2.( c4 | b a b2) a2 a ~ | 
+    \invisibleTime\time 6/2 s1*0 \raisedSixTwoTime
         a2 b1 a( gs2)
-        a\longa*1/2
+        \invisibleTime\time 4/2 a\longa*1/2
     \bar "|."
 }
 
@@ -97,8 +98,9 @@ altoVI = \relative c' {
 
     a4 a' a gs a2 ~ | a a r2 r4 a | f e f2 e r4 e | e f e2 e r4 c |
         bf g a2 a a' | 
-        a2 gs a2.( g4 f1)
-        e\longa*1/2
+        a2 gs a2.( g4 | 
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        f1) e\breve ~ | \invisibleTime\time 4/2 e\longa*1/2
     \bar "|."
 }
 
@@ -137,10 +139,10 @@ altoLyricsVI = \lyricmode {
     Glo -- ria~ed o -- no -- re,
     \normalLyrics
     Glo -- ria~ed o -- no -- re,
-    Glo -- ria~ed o -- no -- re.
+    Glo -- ria~ed o -- no -- re. __
 }
 
-tenoreVIincipit = \relative c' {
+tenoreVIincipit = \relative c' { 
     \clef "petrucci-c4"
     \key c \major
     \time 2/2
@@ -166,8 +168,9 @@ tenoreVI = \relative c' {
         a4 a a a a2 e | r2 r4 a a gs a2 |
 
     d,2 r4 a' f2 d | e1 e2 e' ~ | 
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         e2 d1 c2 b1
-        a\longa*1/2
+        \invisibleTime\time 4/2 a\longa*1/2
     \bar "|."
 }
 
@@ -233,8 +236,9 @@ bassoVI = \relative c {
         a'2 d, r2 r4 d | d cs d2 a r4 e' | a d, a'2 
 
     e2 r4 a, | g bf a2 d1 | r2 e cs1 |
-        d e\breve
-        a,\longa*1/2
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        d1 e\breve
+        \invisibleTime\time 4/2 a,\longa*1/2
     \bar "|."
 }
 
@@ -297,8 +301,9 @@ quintoVI = \relative c' {
 
     r4 e' c a e'2 a,4 d | d cs d2 a r2 | r2 r4 d d c b2 |
         cs4 d c a b2 e4 e, | g d e2 d1 | r1 r2 a' | 
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         a2 f g4( e e'2. d4 b2)
-    cs\longa*1/2
+    \invisibleTime\time 4/2 cs\longa*1/2
     \bar "|."
 }
 

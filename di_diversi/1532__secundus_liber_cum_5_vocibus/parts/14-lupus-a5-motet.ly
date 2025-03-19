@@ -1,4 +1,4 @@
-superiusXIVincipit = \relative c'' {
+superiusOneXIVincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-g"
     \key c \major
@@ -6,8 +6,9 @@ superiusXIVincipit = \relative c'' {
     c1
 }
 
-% superius: checked against source
-superiusXIV = \relative c'' {
+% superiusOne: checked against source
+% CHECKED CAREFULLY 2025-03-18
+superiusOneXIV = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
@@ -19,29 +20,29 @@ superiusXIV = \relative c'' {
         d2 c1( b2) | c1 r1 | R\breve*2 | r2 g a c ~ |
         c b a g ~ | g\ficta fs\unficta g1 ~ 
         g r1 | r2 g1 g2 | 
-        a g1\melisma\ficta fs2\unficta\melismaEnd | g1 r1 | 
-        R\breve*2 | r2 d'1 d2 | e d 
+        a g1\melisma\ficta f2\unficta\melismaEnd | g1 r1 | 
+        R\breve R | r2 d'1 d2 | e d 
 
     b4( c) d b | c2( d e1) | d\breve | R\breve*3 | r1 r2 g, | d' d e1 | 
         d2 f e( c) |
         d1 c | r2 d e f | d1 c1 ~ | c r1 | R\breve*2 | r2 c e e | d a c1( |
         b2 g a1) | g\breve | R\breve | r2 d' 
 
-    b2 c | a2.( b4 c1) | r\breve | r2 g1 \ficta fs2\unficta |
+    b2 c | a2.( b4 c1) | R\breve | r2 g1 \ficta f2\unficta |
         g2.( f8[ e] d2) d' ~ | d c2( d) b | a1 r2 g ~ | 
-        g\melisma \ficta fs2\unficta \melismaEnd g1( |
+        g\melisma \ficta f2\unficta \melismaEnd g1( |
         a) d,2 d'( | e d1 c2) | d1( e) | d2( e2. d8[ c] d2) | g,1 r2 g ~ | 
         g g2 e f | g1( a) |
 
-    g2( f g1) | c, r2 c' ~ | c c2 c g | c2. d4 e\longa*1/2
+    g2( f g1) | c, r2 c' ~ | c c2 c g | c2. d4 e\longa*1/4
     \bar "|."
 }
 
-superiusLyricsXIV = \lyricmode {
+superiusOneLyricsXIV = \lyricmode {
     In te Do -- mi -- ne spe -- ra -- vi,
         non con -- fun -- dar in æ -- ter -- num.
             in __ æ -- ter -- num. __
-    In ju -- sti -- ti -- a tu -- a
+    In __ ju -- sti -- ti -- a tu -- a
         li -- be -- ra me, Do -- mi -- ne.
     \ijLyrics
         li -- be -- ra __ me,
@@ -60,7 +61,7 @@ superiusLyricsXIV = \lyricmode {
 %    e -- sto mi -- hi 
 %    \normalLyrics
 %        in De -- um 
-        pro -- tec -- to -- rem __
+        pro -- te -- cto -- rem __
         in lo -- cum __ re -- fu -- gi -- i 
         ut __ sal -- vum me __ fa -- ci -- as,
         ut __ sal -- vum me fa -- ci -- as,
@@ -77,7 +78,7 @@ superiusTwoXIVincipit = \relative c'' {
     c1
 }
 
-% superius II: checked against source
+% superiusOne II: checked against source
 superiusTwoXIV = \relative c'' {
     \fourTwoCutTime
     \key c \major
@@ -88,22 +89,22 @@ superiusTwoXIV = \relative c'' {
 
     d2( e ~ | e c) d1 | r2 g, a b | e,2.( f4 g1 ~ | g) r2 d' | e1 f2( e ~ |
         e d4 c) d2 c ~ | c b g e' | f e1( d4 c) | d1 r1 | r2 g,( a c ~ | 
-        c b2 a) g ~ | g\ficta fs2\unficta g1 ~ | | g\breve | r1 r2 g( |
+        c b2 a) g ~ | g\ficta f2\unficta g1 ~ | g\breve | r1 r2 g( |
         a c1 b2 |
 
-    a2) g1\ficta fs2\unficta | g1 r1 | R\breve | r2 d'1 d2 | e d b4( c d b) |
+    a2) g1\ficta f2\unficta | g1 r1 | R\breve | r2 d'1 d2 | e d b4( c d b) |
         c2 d e1 | d\breve |  R\breve*2 | r2 d c a | b b1( g2 ~ |
         g4 a4 b c d1) | r2 g,1 g2 | 
-        a\melisma g1\ficta fs2\unficta\melismaEnd | g1 r1 |
-        R\breve*3 | r2 g g f |
+        a\melisma g1\ficta f2\unficta\melismaEnd | g\breve |
+        R\breve*3 | r1 r2 g | g f 
 
-    g2.( a4) b2 a ~ | a4( b c a b c d b | c2 a bf g ~ | g) f1 e2 | f f' e c |
-        d1 c2 c ~ | c( b c1) | g2.( a4 b2 c) | a1 g | r2 c e e | d b c1 |
-        b2 g a1 | g r2 c ~ | c c( 
+    g2.( a4) | b2 a2.( b4 c a | b c d b c2 a | b g1) f2 ~ | f e2 f f' |
+        e c d1 | c2 c1( b2 | c1) g2.( a4 | b2 c) a1 | g r2 c | e e d b |
+        c1 b2 g | a1 g | r2 c1 c2( |
 
-    b2 a ~| a g4 f) g1 | d' e2( c | d b) a1 | r2 d2. e4 f2 | d( e f1) |
-        e1.( d4 c) | d1 g, | r2 c1 b2 | c g b c | g d'( e d ~ | d4 c c1) b2 |
-        c\longa*1/2
+    b2 a1 g4 f) | g1 d' | e2( c d b) | a1 r2 d2 ~ | d4 e4 f2 d( e | 
+        f1) e1 ~ | e2( d4 c) d1 | g, r2 c ~ | c b2 c g | b c g d'( |
+        e2 d2. c4 c2 ~ | c) b2 c1 ~ | c\breve~c~c~c~c\longa*1/2
     \bar "|."
 }
 
@@ -121,13 +122,13 @@ superiusTwoLyricsXIV = \lyricmode {
     In -- cli -- na ad me __ au -- rem tu -- am,
         ac -- cel -- le -- ra __ ut e -- ru -- as me, 
         ac -- cel -- le -- ra ut e -- ru -- as me.
-    E -- sto mi -- hi in De -- um ptec -- to -- rem,
-        ptec -- to -- rem,
+    E -- sto mi -- hi in De -- um pte -- cto -- rem,
+        pte -- cto -- rem,
     \ijLyrics
-        ptec -- to -- rem,
+        pte -- cto -- rem,
     \normalLyrics
-        et in lo -- cum __ re -- fu -- gii 
-        ut sal -- vum me fa -- ci -- as, fa -- ci -- as.
+        et __ in lo -- cum __ re -- fu -- gii 
+        ut __ sal -- vum me fa -- ci -- as, fa -- ci -- as. __
 }
 
 altusXIVincipit = \relative c' {
@@ -160,7 +161,7 @@ altusXIV = \relative c' {
         g f) e c | d1 c2( a | b c) a1 | r2 e'
 
     f2 g( | e1) d | r2 a b c | a2.( b4) c1 | a g | R\breve*4 | r2 g a f |   
-        c'1 f,4( g a b | c2) a g1 | r2 c1 a2 | c1 g\longa*1/2
+        c'1 f,4( g a b | c2) a g1 | r2 c1 a2 | c1 g ~ g\longa*1/2
     \bar "|."
 }
 
@@ -197,11 +198,11 @@ altusLyricsXIV = \lyricmode {
 %            e -- ru -- as me, 
 %        % et salva me.
     E -- sto mi -- hi in De -- um,
-        in De -- um pro -- tec -- to -- rem,
-            pro -- tec -- to -- rem % et 
+        in De -- um pro -- te -- cto -- rem,
+            pro -- te -- cto -- rem % et 
         in lo -- cum re -- fu -- gi -- i 
         ut sal -- vum me fa -- ci -- as,
-            me fa -- ci -- as.
+            me fa -- ci -- as. __
 %    \ijLyrics
 %        ut sal -- vum me fa -- ci -- as,
 %    \normalLyrics
@@ -219,69 +220,82 @@ tenorXIVincipit = \relative c' {
 % tenor: checked against source
 tenorXIV = \relative c' {
     \fourTwoCutTime
-    \clef alto
+    %\clef alto
     \key c \major
 
     f1 f2 f ~ | f f e d | f1 c | r2 c d f ~ | f4( e c d e f) e2 ~ |
         e4( d c b) a2.( b4 | c d e f g2) c, | e2.( f4 d1) |
 
-    c1 r1 | R\breve*2 | r2 c d f ~ | f4 e c d e f e2 ~ | e4 d c b a2. b4 |
-        c d e f g2 c, | e1 d2 g | f e d1 | c2 e2. d4 g2 ~ | g4 f e2 d1 | c r1 |
-        % r1 
-        r2 g' ~ | g g
+    c1 r1 | R\breve*2 | r2 c d f ~ | f4( e c d e f) e2 ~ | e4( d c b) a2.( b4 |
+        c d e f g2) c, | e1( d2 g) | f e d1 | c2 e2. d4 g2 ~ | g4( f e2) d1 |
+        c r1 | r2 g'1 g2 |
 
-    f2 g | e1 r2 g ~ | g g f g | e2. f4 g1 | r2 c, d e | f r r d | 
-        e g2. f4 e2 | d1 c2. b8[ a] | g1 r2 c | d e f g, | a b c1 | r1 r2 d |
-        e c d1 ~ | d 
+    f2 g e1 | r2 g1 g2 | f g e2. f4 | g1 r2 c, | d e f r | r d e g2 ~ |
+        g4( f4) e2 d1 | c2.( b8[ a]) g1 | r2 c d e | f g, a b | c1 r1 | 
+        r2 d e c | d\breve 
 
-    r2 g ~ | g g a g | e1 f2 g | a1 g ~ | g r2 g ~ | g g a g | e f g1 ~ |
-        g r2 g ~ | g g a g | e1 f2 g | a1 g | r1 r2 g ~ | g g a g | e f g a ~|
-        a4 g e2 f1 | e r1 | R\breve |
+    r2 g1 g2 | a g e1 | f2 g a1 | g\breve | r2 g1 g2 | a g e f | g\breve |
+        r2 g1 g2 | a g e1 | f2 g a1 | g r1 | r2 g1 g2 | a g e f | 
+        g a2.( g4 e2 | f1) e | R\breve | r1 
 
-    r2 c g' f | a1 g2 \ficta bf\unficta | a2. g8[ f] g1 | f2. e8[ d] c1 |
-        r2 c2. d4 e f | g1 g2 e | e1 r2 f | a a g e | f1 e2 c | d1 c2 e ~ |
-        e4 d g1 \ficta fs2\unficta | g2 c, d
+    r2 c | g' f a1 | g2 \ficta b\unficta a2.( g8[ f] | g1) f2.( e8[ d]) |
+        c1 r2 c2 ~ | c4( d4 e f) g1 | g2 e e1 | r2 f a a | g e f1( | e2 c) d1 |
+        c2 e2.( d4 g2 ~ | g) \ficta fs2\unficta g2 c, | d
 
     % --- page ---
-    a4 b | c d e f g2 f2 ~ | f4 e4 c2 e1 | d2 a c1 | b2 g a1 | b2 g d'1 ~ |
-        d2 c d1 | g,2 g'1 f2 | g2. f4 e d g2 ~ | g4 f e2 d1 | 
-        c2. b4 g2 g' ~ | g g e g | f e d1|
+    a4( b c d) e( f) | g2 f2.( e4 c2) | e1 d2 a | c1 b2 g | a1 b2 g | 
+        d'1.( c2) | d1 g,2 g' ~ | g( f2) g2.( f4) | 
+        e( d) g2.( f4 e2) | d1 c2.( b4) | g2 g'1 g2 | e g f e | d1
 
-    c2 f1 e2 | f c e f | c g' a g2 ~| g4 f4 f1 e4 d | e\longa*1/2
+    c2 f ~ | f e2 f c | e f c g' | a g2. f4 f2 ~ | f( e4 d) e1 ~ |
+        e\longa*1/2
     \bar "|."
 }
 
 tenorLyricsXIV = \lyricmode {
     In te Do -- mi -- ne spe -- ra -- vi,
-        non con -- fun -- dar in __ æ -- ter -- num.
-%    In ju -- sti -- ti -- a tu -- a
-%        li -- be -- ra me,
-%    \ijLyrics
-%        li -- be -- ra me,
-%    \normalLyrics
-%        li -- be -- ra me Do -- mi -- ne, 
-%    \ijLyrics
-%        li -- be -- ra me Do -- mi -- ne, 
-%    \normalLyrics
-%    % et e -- ri -- pe me. 
-%        In -- cli -- na ad me au -- rem tu -- am,
-%    \ijLyrics
-%        In -- cli -- na ad me au -- rem tu -- am 
-%    \normalLyrics
-%        ac -- cel -- le -- ra ut e -- ru -- as me, 
-%            e -- ru -- as me, 
-%        % et salva me.
-%    E -- sto mi -- hi,
-%    \ijLyrics
-%    e -- sto mi -- hi 
-%    \normalLyrics
-%        in De -- um pro -- tec -- to -- rem % et 
-%        in lo -- cum re -- fu -- gii 
-%        ut sal -- vum me fa -- ci -- as,
-%    \ijLyrics
-%        ut sal -- vum me fa -- ci -- as,
-%    \normalLyrics
-%        ut sal -- vum me fa -- ci -- as.
+        non con -- fun -- dar __ in __ æ -- ter -- num,
+        non con -- fun -- dar __ in __ æ -- ter -- num,
+    \ijLyrics
+        non con -- fun -- dar in æ -- ter -- num.
+    \normalLyrics
+        % non con -- fun -- dar in æ -- ter -- num.
+    In ju -- sti -- ti -- a,
+    \ijLyrics
+    In ju -- sti -- ti -- a
+    \normalLyrics
+        tu -- a
+        li -- be -- ra me,
+    \ijLyrics
+        li -- be -- ra __ me
+    \normalLyrics
+            Do -- mi -- ne, 
+        li -- be -- ra me,
+    \ijLyrics
+        li -- be -- ra me,
+        li -- be -- ra me,
+    \ijLyrics
+        In -- cli -- na ad me au -- rem tu -- am,
+    \ijLyrics
+        In -- cli -- na ad me au -- rem,
+        In -- cli -- na ad me au -- rem tu -- am,
+    \normalLyrics
+        In -- cli -- na ad me au -- rem tu -- am 
+        ac -- cel -- le -- ra ut e -- ru -- as __ me, 
+            ut __ e -- ru -- as me, 
+    E -- sto mi -- hi in De -- um pro -- te -- cto -- rem,
+    \ijLyrics
+    E -- sto mi -- hi __ in De -- um pro -- te -- cto -- rem,
+    \normalLyrics
+        in lo -- cum re -- fu -- gi -- i,
+    \ijLyrics
+        in __ lo -- cum re -- fu -- gi -- i 
+    \normalLyrics
+        ut sal -- vum me fa -- ci -- as,
+    \ijLyrics
+        ut sal -- vum me fa -- ci -- as,
+        ut sal -- vum me fa -- ci -- as. __
+    \normalLyrics
 }
 
 bassusXIVincipit = \relative c {
@@ -315,7 +329,7 @@ bassusXIV = \relative c {
         r2 c'1 b2 | c g b c |
 
     g1 r1 | r2 c1 b2 | c g b c | g1 r1 | R\breve | r2 f1 e2 | f c d f |
-        c\longa*1/2
+        c\breve~c\longa*1/2
     \bar "|."
 }
 
@@ -346,19 +360,19 @@ bassusLyricsXIV = \lyricmode {
     \ijLyrics
     e -- sto mi -- hi 
     \normalLyrics
-        in De -- um pro -- tec -- to -- rem % et 
+        in De -- um pro -- te -- cto -- rem % et 
         in __ lo -- cum re -- fu -- gii 
         ut sal -- vum me fa -- ci -- as,
     \ijLyrics
         ut sal -- vum me fa -- ci -- as,
     \normalLyrics
-        ut sal -- vum me fa -- ci -- as.
+        ut sal -- vum me fa -- ci -- as. __
 }
 
-superiusXIVincipitVoice = <<
+superiusOneXIVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \superiusXIVincipit
+        \superiusOneXIVincipit
     >>
 >>
 
