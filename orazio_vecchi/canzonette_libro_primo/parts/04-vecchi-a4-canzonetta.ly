@@ -1,19 +1,37 @@
 % Son questi i crespi crini è questo il viso
-% ond'io rimango ucciso.
+% ond'io rimango ucciso?
 % Deh, dimmilo ben mio
 % che questo sol desio.
 % 
 % Questi son gli occhi che mirand'io fiso
-% tutto restai conquiso.
+% tutto restai conquiso?
 % 
 % Questa è la bocca e questo il dolce riso
-% ch'allegra il paradiso.
+% ch'allegra il paradiso?
 % 
 % Ma se questo è che non mi par bugia
 % godianci anima mia.
 % 
 % E l'alma al duolo avezza
 % mora della dolcezza.
+
+% Are these the curly locks, and this the face
+% whereby I am slain?
+% Ah, tell me my dear
+% that only this do I desire.
+% 
+% Are these the eyes that completed conquered me
+% when I gazing, stared intently upon?
+% 
+% Is this the mouth, and this the sweet smile
+% that cheers heaven?
+% 
+% But if this is so, that seems to me not a lie,
+% let us rejoice, my soul.
+% 
+% And let the soul inclined to sorrow
+% die of sweetness.
+
 
 cantoIVincipit = \relative c'' {
     \time 4/4
@@ -28,7 +46,7 @@ cantoIV = \relative c'' {
     \key f \major
     \fourTwoCommonTime
 
-    \repeat volta 2 { 
+    \repeat volta 4 { 
     d2 d4 f ef ef d d | c bf c2 d4 f ef4. ef8 |
 
     d4 c d2 d1 | d2 d4 f ef ef d d | c bf c2 d4 f
@@ -48,45 +66,42 @@ cantoIV = \relative c'' {
 
 cantoLyricsIV = \lyricmode {
     Son que -- st'i cre -- spi cri -- ni~è que -- sto~il vi -- so
-    On -- d'io ri -- man -- go~uc -- ci -- so;
+    On -- d'io ri -- man -- go~uc -- ci -- so?
     Son que -- st'i cre -- spi cri -- ni~è que -- sto~il vi -- so
-    On -- d'io ri -- man -- go~uc -- ci -- so.
+    On -- d'io ri -- man -- go~uc -- ci -- so?
     Deh! dim -- mi -- lo ben mi -- o
     Che que -- sto sol de -- si -- o,
         de -- si -- o;
     Deh! dim -- mi -- lo ben mi -- o
     Che que -- sto sol de -- si -- o,
-       de -- si -- o.
        de -- si -- o.
 }
 
 cantoLyricsIVa = \lyricmode {
     Que -- sti son gli~oc -- chi che mi -- ran -- d'io fi -- so
-    Tut -- to re -- stai con -- qui -- so;
+    Tut -- to re -- stai con -- qui -- so?
     Que -- sti son gli~oc -- chi che mi -- ran -- d'io fi -- so
-    Tut -- to re -- stai con -- qui -- so.
+    Tut -- to re -- stai con -- qui -- so?
 
     Deh! dim -- mi -- lo ben mi -- o
     Che que -- sto sol de -- si -- o,
         de -- si -- o;
     Deh! dim -- mi -- lo ben mi -- o
     Che que -- sto sol de -- si -- o,
-       de -- si -- o.
        de -- si -- o.
 }
 
 cantoLyricsIVb = \lyricmode {
     Que -- sta~è la boc -- ca~e que -- sto~il dol -- ce ri -- so
-    Ch'al -- le -- gra~il pa -- ra -- di -- so;
+    Ch'al -- le -- gra~il pa -- ra -- di -- so?
     Que -- sta~è la boc -- ca~e que -- sto~il dol -- ce ri -- so
-    Ch'al -- le -- gra~il pa -- ra -- di -- so.
+    Ch'al -- le -- gra~il pa -- ra -- di -- so?
 
     Deh! dim -- mi -- lo ben mi -- o
     Che que -- sto sol de -- si -- o,
         de -- si -- o;
     Deh! dim -- mi -- lo ben mi -- o
     Che que -- sto sol de -- si -- o,
-       de -- si -- o.
        de -- si -- o.
 }
 
@@ -100,7 +115,7 @@ cantoLyricsIVc = \lyricmode {
         dol -- cez -- za;
     E l'al -- ma~al duo -- lo~av -- vez -- za
     Mo -- ra del -- la dol -- cez -- za,
-        dol -- cez -- za.
+       _ _ _ 
         dol -- cez -- za.
 }
 
@@ -120,7 +135,7 @@ altoIV = \relative c'' {
     \repeat volta 2 { 
     a2 a4 b c c f, f' | f e f2 f4 d c4. c8 
 
-    a4 g a2 g1 | a2 a4 bf c c f, f' | f e f2 f4 d
+    a4 g a2 g1 | a2 a4 \ficta b\unficta c c f, f' | f e f2 f4 d
 
     c4. c8 | a4 g a2 b1 | d c8[ c c d] bf2 | a r4 f' ef d c bf | a g
 
