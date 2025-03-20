@@ -11,11 +11,12 @@ discantusXLV = \relative c' {
     \fourTwoCutTime
     \key f \major
 
-    R\breve*2 | f\breve | c'1 c | a r2 f | e c e f ~ | f4 e d c d2 d | 
-        c c'2. bf4 a2 ~ | a4 g f e d c d2 |
+    R\breve*2 | f\breve | c'1 c | a r2 f | e( c) e f ~ | f4( e d c d2) d | 
+        c( c'2. bf4 a2 ~ | a4 g f e d c d2) |
 
-    e2 f2. g4 a2 ~ | a4 g f e f2 a ~ | a4 g g2 r a | g c1 bf2 |
-        c g2. f4 e2 | d e d c ~ | c4 d e2 c2. d4 | e c c'1\ficta b2\unficta |
+    e2 f2.( g4 a2 ~ | a4 g f e f2 a ~ | a4 g g2) r a | g c1 bf2 |
+        c g2.( f4 e2) | d( e) d c ~ | c4( d e2) c2.\melfi d4 | 
+        e c c'1 b2\unficta\melfiEnd |
        
 
     c\breve ~ | c1 r1 | e, a ~ | a2 g f e | d c e f | e d g1 | c, e | 
@@ -38,6 +39,22 @@ discantusXLV = \relative c' {
 }
 
 discantusLyricsXLV = \lyricmode {
+    Was wird es doch,
+   \ijLyrics
+%    Was wird __ es doch __
+%    des Wun -- ders noch, __
+%    des Wun -- ders noch __
+%    so -- gar ein sel -- tsams __ Le -- ben. __
+%    so -- gar __ ein sel -- tsams Le -- ben.
+%    Gut Wort arg Tück,
+%    viel Grüß bös Blick,
+%    \ijLyrics
+%    viel Grüß bös Blick
+%    \normalLyrics
+%    das ist der sit auff Er -- den
+%    es günd Fei -- ner mer
+%    dem an -- dern eer,
+%    Was will noch da -- raus wer -- den?
 }
 
 contratenorXLVincipit = \relative c {
@@ -79,6 +96,19 @@ contratenorXLV = \relative c {
 }
 
 contratenorLyricsXLV = \lyricmode {
+    Was wird es doch
+%   \ijLyrics
+%    des Wun -- ders noch
+%    so -- gar ein sel -- tsams Le -- ben.
+%    Gut Wort arg Tück,
+%    viel Grüß bös Blick,
+%    \ijLyrics
+%    viel Grüß bös Blick
+%    \normalLyrics
+%    das ist der sit auff Er -- den
+%    es günd Fei -- ner mer
+%    dem an -- dern eer,
+%    Was will noch da -- raus wer -- den?
 }
 
 tenorXLVincipit = \relative c {
@@ -95,14 +125,16 @@ tenorXLV = \relative c {
     \key f \major
 
     R\breve*4 R\breve*4 | f\breve | c'1 c | a r2 f' e( c e f | c1) d | c\breve |
-        r1 r2 f | e( c) e f | c1 d | c\breve~c~c | R\breve*4 R\breve*3 | r1 a |
+        r1 r2 f | e( c e f | c1) d | c\breve~c~c | R\breve*4 R\breve*3 | r1 a |
 
-    d1. c2 | bf a g f | a bf g1 | f\breve~f | R\breve R\breve*5 R\breve*2 | 
+    d1.( c2) | bf( a) g f | a( bf g1) | f\breve~f | 
+        R\breve R\breve*5 R\breve*2 | 
         r1 a | a a |
-        g\breve | r1 bf | bf bf | a\breve | r1 c | d e | f f2 g ~ | g f4 e d1 |
+        g\breve | r1 bf | bf bf | a\breve | r1 c | d e | f f2 g ~ | g( f4 e d1) |
 
-    c\breve | R | r1 f | f1. e2 | d c bf1 | r2 c c1 ~ | c2 bf a g | f1 r2 a |
-        bf1 g | c e | d2. c4 d e f2 ~ | f4 e d c d1 |
+    c\breve | R | r1 f | f1.( e2) | d( c) bf1 | r2 c c1 ~ | c2( bf) a( g) |
+        f1 r2 a |
+        bf1 g | c e | d2.( c4 d e f2 ~ | f4 e d c d1) |
         c\breve~c~c~c~c\longa*1/2
     \bar "|."
 }
@@ -110,13 +142,28 @@ tenorXLV = \relative c {
 tenorLyricsXLV = \lyricmode {
 %    Was wird es doch
 %    des Wun -- ders noch
-%    so -- gar __ ein sel -- tsams Le -- ben. __
+%    so -- gar ein sel -- tsams Le -- ben.
 %    Gut Wort arg Tück,
+%    viel Grüß bös Blick,
+%    \ijLyrics
 %    viel Grüß bös Blick
+%    \normalLyrics
 %    das ist der sit auff Er -- den
 %    es günd Fei -- ner mer
 %    dem an -- dern eer,
-%    Was will noch da -- raus wer -- den? 
+%    Was will noch da -- raus wer -- den?
+    Was wird es doch
+    des Wun -- ders noch
+    des Wun -- ders noch __
+    so -- gar __ ein __ sel -- tsams Le -- ben. __
+    als je -- tzund ist die Welt voll List,
+    mit Un -- treu gar um -- ge -- ben!
+    Gut Wort __ arg __ Tück, 
+    viel Grüß __ bös __ Blick,
+    das ist der sit auff Er -- den. __
+%    es günd Fei -- ner mer
+%    dem an -- dern eer,
+%    Was will noch da -- raus wer -- den?  
 }
 
 bassusXLVincipit = \relative c {
@@ -158,6 +205,19 @@ bassusXLV = \relative c {
 }
 
 bassusLyricsXLV = \lyricmode {
+    Was wird es doch
+%   \ijLyrics
+%    des Wun -- ders noch
+%    so -- gar ein sel -- tsams Le -- ben.
+%    Gut Wort arg Tück,
+%    viel Grüß bös Blick,
+%    \ijLyrics
+%    viel Grüß bös Blick
+%    \normalLyrics
+%    das ist der sit auff Er -- den
+%    es günd Fei -- ner mer
+%    dem an -- dern eer,
+%    Was will noch da -- raus wer -- den?
 }
 
 vagansXLVincipit = \relative c' {
@@ -190,6 +250,19 @@ vagansXLV = \relative c' {
 }
 
 vagansLyricsXLV = \lyricmode {
+%    Was wird es doch
+%   \ijLyrics
+%    des Wun -- ders noch
+%    so -- gar ein sel -- tsams Le -- ben.
+%    Gut Wort arg Tück,
+%    viel Grüß bös Blick,
+%    \ijLyrics
+%    viel Grüß bös Blick
+%    \normalLyrics
+%    das ist der sit auff Er -- den
+%    es günd Fei -- ner mer
+%    dem an -- dern eer,
+%    Was will noch da -- raus wer -- den?
 }
 
 discantusXLVincipitVoice = <<

@@ -6,9 +6,9 @@ cantusOneVIIIincipit = \relative c''' {
     g2.
 }
 
+% cantus I: checked against source
 cantusOneVIII = \relative c''' {
     \fourTwoCommonTime
-    \clef treble
     \key f \major
 
     \repeat volta 2 {
@@ -16,14 +16,23 @@ cantusOneVIII = \relative c''' {
         r4 d8[ e] 
 
     f8[ d] a'4. f8[ e d] cs[ f] e4 | 
-        d8[ g f e] d[ c b a] g[ f] bf4. a8[ g c16 bf] | a8[ g] fs4. g8 a4 |
+        d8[ g f e] d[ c bf a] g[ f] bf4. a8[ g c16 bf] \bar "!"
+
+        \invisibleTime\time 2/2
+            s1*0 \raisedTwoTwoTime
+        a8[ g] fs4. g8 a4 |
+        \invisibleTime\time 4/2
         b\breve
     }
     \repeat volta 2 {
     g2. a4 
 
-    bf4 g ef'2 ~| ef c1 b2 ~ | bf a8[ g] a2 bf1 | r1 r4 d bf d ~ |
-        d8[ c a bf] c[ a] c4. bf8[ g a] bf[ g] bf4 a1 | a\breve
+    bf4 g ef'2 ~| ef c1 bf2 ~ | bf4 a8[ g] a2 bf1 | r1 r4 d bf d ~ |
+        d8[ c a bf] c[ a] c4. bf8[ g a] bf[ g] bf4 \bar "!"
+        \invisibleTime\time 2/2 
+            s1*0 \raisedTwoTwoTime
+        a1 |
+        \invisibleTime\time 4/2 a\breve
     }
     \repeat volta 2 {
     r8 bf g4. d'8[ bf c] 
@@ -51,15 +60,23 @@ cantusTwoVIII = \relative c''' {
     \repeat volta 2 {
     r1 g2. f8[ g] | ef2 d c r4 ef | c4. d8[ ef c] g'4. ef8[ d c] b[ c d e] | 
         f8[ d] a'4. f8[ e d] cs[ d cs f] e d4 cs8 | 
-        d8 r r g f[ e d c] bf[ a g f] ef4. ef'8
+        d8 r r g f[ e d c] bf[ a g f] ef4. ef'8 \bar "!"
 
-    d4. c16[ bf] a8 g4 fs8 | g\breve
+        \invisibleTime\time 2/2
+            s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+    d4. c16[ bf] a8 g4 fs8 | 
+        \invisibleTime\time 4/2
+        g\breve
     }
     \repeat volta 2 {
     r1 g2. a4 | bf g ef'1 d2 | c1 bf4 d bf d ~ | 
         d8[ c a bf] c[ a] c4. bf8[ g a] bf[ g] bf4 |
 
-    a1 g4 bf g2. f4 e2 |
+    a1 g4 bf g2 ~ \bar "!" | 
+        \invisibleTime\time 2/2
+            s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        g4 f4 e2 |
+        \invisibleTime\time 4/2
         fs\breve
     }
     \repeat volta 2 {
@@ -80,22 +97,30 @@ altusVIIIincipit = \relative c' {
     d2
 }
 
+% altus: checked against source
 altusVIII = \relative c' {
     \fourTwoCommonTime
-    \clef mezzosoprano
     \key f \major
 
     \repeat volta 2 {
     d2 ef4 f g1 ~ | g2 g ef2. c4 | g'1. g2 | 
         f4. e8 d4 e8[ f] e8[ f16 g a8 f] a4. a16[ g] |
 
-    f8[ e d c] d[ e] f4 d2 r4 g fs8[ g] a4 d,2 | 
+    f8[ e d c] d[ e] f4 d2 r4 g \bar "!"
+        \invisibleTime\time 2/2
+            s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        fs8[ g] a4 d,2 | 
+        \invisibleTime\time 4/2
         d\breve
     }
     \repeat volta 2 {
     ef1. bf'2 ~ | bf2 g f1 ~ | f f2 d | a'1 d, | r2 r4 a 
 
-    d2. d8[ e] cs4 d2 cs2 |
+    d2. d8[ e] \bar "!" 
+        \invisibleTime\time 2/2
+            s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        cs4 d2 cs4 |
+        \invisibleTime\time 4/2
         d\breve
     }
     \repeat volta 2 {
@@ -113,22 +138,30 @@ tenorVIIIincipit = \relative c' {
     b2
 }
 
+% tenor: checked against source
 tenorVIII = \relative c' {
     \fourTwoCommonTime
-    \clef tenor
     \key f \major
 
     \repeat volta 2 {
     b2 c1 b2 | c d g,1 | r4 ef' ef2 d8[ c b c] d[ ef]\ficta bf4\unficta | 
         a1. a2 |
 
-    d,8[ e f g16 a] bf8[ c] d2 d4 c c4. bf8 a4. bf8 a4 | 
+    d,8[ e f g16 a] bf8[ c] d2 d4 c c4 ~ \bar "!"
+        \invisibleTime\time 2/2
+            s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        c8[ bf8] a4. bf8 a4 | 
+        \invisibleTime\time 4/2
         g\breve
     }
     \repeat volta 2 {
     bf2. a4 g1 ~ | g2 g a bf | c1 d2 g, ~ | g fs
 
-    g4 bf g2 | a1 d,2 g e4 d e a | 
+    g4 bf g2 | a1 d,2 g \bar "!"
+        \invisibleTime\time 2/2
+            s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        e4 d e a | 
+        \invisibleTime\time 4/2
         a\breve
     }
     \repeat volta 2 {
@@ -146,22 +179,31 @@ bassusVIIIincipit = \relative c' {
     g\breve
 }
 
+% bassus: checked against source
 bassusVIII = \relative c' {
     \fourTwoCommonTime
-    \clef bass
     \key f \major
 
     \repeat volta 2 {
-    g\breve | c,2 b c1 ~ | c2 c g'1 | d2. cs8[ d] a2. a4 | bf1. c2 d1 |
+    g\breve | c,2 b c1 ~ | c2 c g'1 | d2. cs8[ d] a2. a4 | bf1. c2 \bar "!"
+        \invisibleTime\time 2/2
+            s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        d1 |
+        \invisibleTime\time 4/2
         g,\breve
     }
     \repeat volta 2 {
     ef'\breve ~ | ef1 f ~ | f bf, | 
 
-    a1 g | fs g a | d\breve
+    a1 g | fs g \bar "!"
+        \invisibleTime\time 2/2
+            s1*0 #(if *is-parts* #{<>\raisedTwoTwoTime #})
+        a1 | 
+        \invisibleTime\time 4/2
+        d\breve
     }
     \repeat volta 2 {
-    g1 a | bf2. c4 d2 e | fs4 g g,2 d' b | c1. d2 ~ | d g4 fs 
+    g,1 a | bf2. c4 d2 e | fs4 g g,2 d' b | c1. d2 ~ | d g4 fs 
 
     g2 c, | b c d1 | g,\breve
     }
