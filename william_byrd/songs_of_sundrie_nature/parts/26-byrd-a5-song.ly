@@ -10,7 +10,7 @@
 % So fair a dame to be so full of sorrow;
 % No wonder, quoth a Nymph, she wanteth pleasure,
 % her tears and sighs ne cease from eve to morrow.
-% This lady, rich is of the gifts of beauty
+% This lady, Rich is of the gifts of beauty
 % but unto her are gifts of fortune dainty.
 
 superiusXXVIincipit = \relative c'' {
@@ -66,7 +66,6 @@ superiusXXVI = \relative c'' {
 
     r2 e g a | f1 e | e1. e2
     }
-    \bar "|."
 }
 
 superiusLyricsXXVI = \lyricmode {
@@ -117,7 +116,7 @@ superiusLyricsXXVI = \lyricmode {
     \ijLyrics
     this la -- dy,
     \normalLyrics
-        rich __ is of the gifts of beau -- ty
+        Rich __ is of the gifts of beau -- ty
     but un -- to her are gifts of for -- tune dain -- ty,
         are gifts of for -- tune dain -- ty.
 }
@@ -185,7 +184,6 @@ mediusXXVI = \relative c'' {
         r2 e g a | f1 e | fs2( gs) a1 | r1 r2 e | d b c c | b4 a a1 gs2 |
         a1. a2 
     }
-    \bar "|."
 }
 
 mediusLyricsXXVI = \lyricmode {
@@ -248,7 +246,7 @@ mediusLyricsXXVI = \lyricmode {
         ne cease from eve to mor -- row,
         ne cease from eve to mor -- row.
     This la -- dy,
-    this __ la -- dy, rich is of the gifts of beau -- ty,
+    this __ la -- dy, Rich is of the gifts of beau -- ty,
         the gifts of beau -- ty
     but un -- to her are gifts of for -- tune dain -- ty,
     but un -- to her are gifts of for -- tune dain -- ty.
@@ -317,7 +315,6 @@ contratenorXXVI = \relative c' {
 
         cs1. cs2 | 
     }
-    \bar "|."
 }
 
 contratenorLyricsXXVI = \lyricmode {
@@ -379,9 +376,9 @@ contratenorLyricsXXVI = \lyricmode {
     \normalLyrics
         ne cease from eve __ to mor -- row,
         ne cease from eve to __ mor -- row.
-    This la -- dy, rich __ is,
-        rich __ is of the gifts of beau -- ty,
-        rich is of the gifts of __ beau -- ty
+    This la -- dy, Rich __ is,
+        Rich __ is of the gifts of beau -- ty,
+        Rich is of the gifts of __ beau -- ty
     but un -- to her,
     \ijLyrics
     but un -- to her
@@ -393,65 +390,134 @@ contratenorLyricsXXVI = \lyricmode {
         are gifts of __ for -- tune dain -- ty.
 }
 
+tenorXXVIincipit = \relative c' {
+    \clef "petrucci-c4"
+    \key c \major
+    \time 2/2
+
+    c1
+}
+
+% tenor: checked against source
 tenorXXVI = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
-    \bar "|."
+    c1 c2 a | a b2.( a4 b c | b a) a2. gs8([ fs] gs2) | a1 c | c2
+
+    a2.( gs8[ fs] gs2) | a a a2. g4( | f d) a'2 a2.( b4) | cs( d e2) d1 | 
+
+    g,1 c2 d | b b r b | c d e2. b4 | d2 e d c ~ | c4( b8[ a] b2 a1) | 
+        g2 g r1 | r2 c b4 g a b |
+
+    c2 b c4 d2 c4 ~ | c b8([ a] b2) c g4 g | a2 d, f2. d4 | a'2 a r1 | 
+        r1 r4 d f2 | e d
+
+    r2 r4 g, | fs4. g8 a4 b d2 d | r2 r4 g, fs g a b | a2 g r1 | 
+        r2 r4 a c d e a, | 
+
+    c2( b) a1 | c c2 a | a b2.( a4 b4 c | b a) a2. gs8([ fs] gs2) |
+        a1 c | c2 a2.( gs8[ fs] gs2) | a
+
+    a a2. g4 | f d( a'2) a2.( b4 | cs d e2) d d | g,2. g4 c2 d | b b r b | c
+
+    d2 e2. b4 | d2 e d c ~ | c4( b8[ a] b2 a1) | g2 g r1 | r2 c b4 g a b |
+        c2 b c4
+
+    d2 c4 ~ | c b8([ a] b2) c g4 g | a2 d, f2. d4 | a'2 a r1 | r1 r4 d f2 | e
+
+    % --- page --
+    d2 r2 r4 g, | fs4. g8 a4 b d2 d | r2 r4 g, f g a b | a2 g r1 |
+        r2 r4 a c d e a, | c2( b) a1 |
+
+    a1 gs2 a | a2. f4( g2) a | d1 c2 d | b1 a | g2 a a fs | g1 d2 a' ~ | 
+        a g2 a1 | d, 
+
+    r2 e | gs2 b a1 | r2 a g2. c4 | a2 b1 c2 ~ | c( b4 a) b1 | c1 b2 e | 
+        c a r2 e | c'2. a4 d2 
+
+    
+    b | a1 r2 b | a1 b2 c4.( b8 | a4 d c1 b2) | c c g a |
+        c2. d4( e2) a, | r2 c g a | e'1 r2 e | 
+        b4. c8 d4. c8 b1 | a2 c g a | 
+
+    \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+    f2 d g4 e e2 e e 
+    \invisibleTime\time 4/2
+
+    \repeat volta 2 {
+        r2 a b g | r1 c | b a2. g4 | f2 g a( b) | c1 r1 | 
+        r2 c b4 b c e ~ | e d( c2. b8[ a]
+
+        b2) | c g r2 g | 
+        g a gs1 | r1 r2 e' | d c b a | d2. c4 b1 ~ | b2 b a a |
+        r2 e f4 g a2 ~ | a 
+
+        g e e | r2 d g e | e1. e2
+    }
 }
 
 tenorLyricsXXVI = \lyricmode {
-%    Wee -- ping full sore,
-%    \ijLyrics
-%    wee -- ping full sore
-%    \normalLyrics
-%        with face as fair as sil -- ver,
-%    not wan -- ting rose nor li -- ly white to paint it,
+    Wee -- ping full sore,
+    \ijLyrics
+    wee -- ping full __ sore
+    \normalLyrics
+    wee -- ping full __ sore
+        with face as __ fair as sil -- ver,
+            as fair as sil -- ver,
+    not wan -- ting rose nor li -- ly white to __ paint it,
 %    I saw a la -- dy walk,
-%    \ijLyrics
-%    I saw a la -- dy walk
-%    \normalLyrics
-%        fast by a ri -- ver
-%    u -- pon whose banks Di -- a -- na's Nymphs all dan -- ced,
-%    \ijLyrics
-%        Di -- a -- na's Nymphs all dan -- ced.
-%    \normalLyrics
-%
-%    Her beau -- ty great,
-%    \ijLyrics
-%    her beau -- ty great
-%    \normalLyrics
-%        had di -- verse gods en -- chan -- ted,
-%    a -- mong the which Love was the first trans -- for -- med,
-%    who un -- to her his bow,
+    I saw a la -- dy walk fast by,
+        fast __ by __ a ri -- ver,
+        fast by,
+        fast by a ri -- ver
+    u -- pon whose banks Di -- a -- na's Nymphs all dan -- ced,
+    \ijLyrics
+        Di -- a -- na's Nymphs all dan -- ced,
+    \normalLyrics
+        Di -- a -- na's Nymphs all dan -- ced.
+
+    Her beau -- ty great,
+    \ijLyrics
+    her __ beau -- ty __ great,
+    \normalLyrics
+    her beau -- ty __ great
+        had di -- verse gods en -- chan -- ted,
+        had di -- verse gods en -- chan -- ted,
+    a -- mong the which Love was the first trans -- for -- med,
+    who un -- to her his bow,
 %    \ijLyrics
 %    who un -- to her his bow
 %    \normalLyrics
-%        and shafts had gran -- ted,
-%    and by her sight to a -- da -- mant was tur -- ned,
-%    \ijLyrics
-%        to a -- da -- mant was tur -- ned.
-%    \normalLyrics
-%    A -- las quoth I,
-%    a -- las quoth I, what mea -- neth this de -- mea -- nor
-%    So fair a dame to be so full of sor -- row;
-%    No won -- der, quoth a Nymph, she wan -- teth plea -- sure,
-%    \ijLyrics
-%        she wan -- teth plea -- sure,
-%    \normalLyrics
-%    her tears and sighs,
-%    \ijLyrics
-%    her tears and sighs
-%    \normalLyrics
-%        ne cease from eve to mor -- row.
+        his bow and shafts __ had __ gran -- ted,
+        his bow and shafts had gran -- ted,
+    and by her sight to a -- da -- mant was tur -- ned,
+    \ijLyrics
+        to a -- da -- mant was tur -- ned,
+    \normalLyrics
+        to a -- da -- mant was tur -- ned.
+    A -- las quoth __ I,
+        quoth I,
+    a -- las quoth I, what mea -- neth this de -- mea -- nor,
+        this __ de -- mea -- nor
+    So fair a dame to be so full of sor -- row,
+        so full of sor -- row;
+    No won -- der, quoth a Nymph, she wan -- teth plea -- sure,
+    her tears and sighs,
+        and __ sighs,
+    her tears and sighs
+        ne cease from eve to mor -- row,
+        ne cease from eve to mor -- row,
+            to mor -- row.
 %    This la -- dy,
 %    \ijLyrics
-%    this la -- dy,
-%    \normalLyrics
-%        rich is of the gifts of beau -- ty
-%    but un -- to her are gifts of for -- tune dain -- ty,
-%        are gifts of for -- tune dain -- ty.
+    this la -- dy,
+        Rich is of the gifts of beau -- ty,
+        Rich is of the gifts __ of __ beau -- ty
+    but un -- to her,
+    but un -- to her are gifts of for -- tune dain -- ty,
+        are gifts of for -- tune dain -- ty,
+            of for -- tune dain -- ty.
 }
 
 bassusXXVIincipit = \relative c' {
@@ -508,7 +574,6 @@ bassusXXVI = \relative c' {
 
         r1 a,2 a' ~ | a gs a r4 a, | d2 e c1 | \[ d1( e) \] | a,1. a2 |
     }
-    \bar "|."
 }
 
 bassusLyricsXXVI = \lyricmode {
@@ -566,8 +631,8 @@ bassusLyricsXXVI = \lyricmode {
     \normalLyrics
         ne cease from eve to mor -- row,
             from eve to mor -- row.
-    This la -- dy, rich is of the gifts of beau -- ty,
-        rich is of the gifts of beau -- ty
+    This la -- dy, Rich is of the gifts of beau -- ty,
+        Rich is of the gifts of beau -- ty
     but un -- to her are gifts of for -- tune dain -- ty,
     but un -- to her are gifts of for -- tune __ dain -- ty.
 }
@@ -593,12 +658,12 @@ contratenorXXVIincipitVoice = <<
     >>
 >>
 
-%tenorXXVIincipitVoice = <<
-%    \new MensuralVoice <<
-%        { s1 \noBreak }
-%        \tenorXXVIincipit
-%    >>
-%>>
+tenorXXVIincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \tenorXXVIincipit
+    >>
+>>
 
 bassusXXVIincipitVoice = <<
     \new MensuralVoice <<
