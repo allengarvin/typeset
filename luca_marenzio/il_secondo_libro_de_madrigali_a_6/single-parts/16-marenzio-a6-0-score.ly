@@ -21,8 +21,10 @@
     shorttitle = "filli_mia_bella"
     shortcomp = "marenzio"
     categories = "[madrigal]"
+    motifs = "[parting,pastoral]"
     final = "f"
     flats = 1
+    folio = "Alessandro Spinola (fl.1579)"
     needtranslation = #'t
 
     % Unchanging:
@@ -101,8 +103,8 @@
     \markup {
         \fill-line {
             \column {
-               \line { Filli mia bella, addio, }
-               \line { Caro mio Tirsi, addio, poi che'l ciel vuole, }
+               \line { «Filli mia bella, addio!» }
+               \line { «Caro mio Tirsi, addio, poiché'l ciel vuole.» }
                \line { dicea sovra Arno all'apparir del sole }
                \line { pastor afflitto, afflitta pastorella: }
                \line { piangeva ei, piangeva ella, }

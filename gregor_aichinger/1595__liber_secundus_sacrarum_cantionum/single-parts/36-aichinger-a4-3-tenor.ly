@@ -1,6 +1,7 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -t "Ricercar per sonare e cantare" -m 104 -l instrumental 36-aichinger-a4-0-score.ly cantus:t altus:8a tenor:8a bassus:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,55 +9,53 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2022-12-17"
-    originallyset = "2022-12-17"
+    lastupdated = "2025-03-23"
+    originallyset = "2025-03-23"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Filli mia bella"
+    title = "Ricercar per sonare e cantare"
     subtitle = ""
-    instrument = "Filli mia bella:  (sesto)"
+    subsubtitle = ""
+    instrument = "Ricercar per sonare e cantare:  (tenor)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "filli_mia_bella"
-    shortcomp = "marenzio"
-    folio = "Alessandro Spinola (fl.1579)"
+    shorttitle = "ricercar_per_sonare_e_cantare"
+    shortcomp = "aichinger"
 
     % Things that change per part:
-    partname = "Sesto (part 4 of 6)"
-    instrument = "Filli mia bella:  (sesto)"
+    partname = "Tenor (part 3 of 4)"
+    instrument = "Ricercar per sonare e cantare:  (tenor)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/16-marenzio-a6-madrigal.ly"
+\include "../parts/36-aichinger-a4-ricercar.ly"
 
 \book {
-    \bookOutputName "16-marenzio--filli_mia_bella-"
-    \bookOutputSuffix "--4-sesto--tr8_clef"
+    \bookOutputName "36-aichinger--ricercar_per_sonare_e_cantare-"
+    \bookOutputSuffix "--3-tenor--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \sestoXVI
+            \tenorXXXVI
         >>
-                \addlyrics { \sestoLyricsXVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "16-marenzio--filli_mia_bella-"
-    \bookOutputSuffix "--4-sesto--al_clef"
+    \bookOutputName "36-aichinger--ricercar_per_sonare_e_cantare-"
+    \bookOutputSuffix "--3-tenor--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \sestoXVI
+            \tenorXXXVI
         >>
-                \addlyrics { \sestoLyricsXVI }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
