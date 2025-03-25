@@ -5,7 +5,7 @@
 % Titiro e Lidia, pieni di desio.
 % Volavan d'ogni intorno
 % lieti scherzando i pargoletti Amori,
-% e in sulle labbia, lor s'uniro i cori.
+% e in sulle labbia lor, s'uniro i cori.
 % 
 % «Addio Lidia mia bella.»
 % «Titiro caro, addio poiché'l ciel vuole,»
@@ -17,122 +17,10 @@
 % second part: Scelta di rime di diversi, 1579, Genova
 %  ALESSANDRO SPINOLA. See https://diraas.unige.it/sites/diraas.unige.it/files/pagine/Testo_scelta_rime_1579.pdf
 
-% “Ben venga il pastor mio/la mia nimpha
-% anzi il mio Sole,” dicea sul vago lito
-% al fin del giorno con soavi parole
-% Lidia e Meri, ambi pieni di desio:
-% vola van d’ogni intorno
-% lieti scherzando i pargoletti Amori,
-% e in su le labbia lor s’uniro[no] i cori.
-% “Welcome, my shepherd/my nymph,
-% and my Sun,” they said on the lovely shore
-% at the end of the day, with sweet words,
-% Lidia and Meri, both full of desire:
-% flying around everywhere,
-% happy and frolicking were infant Cupids,
-% and above their lips their hearts united.
-%  Seconda parte | Part II
-% “Addio, Lidia mia bella,”
-% “Caro mio Meri, addio, poich’el ciel vole,”
-% dicea sovra Arno a l’apparir del sole
-% Pastor afflitto, afflitta pastorella.
-% Piangeva ei, piangeva ella,
-% piangea con essi Amore:
-% e quinci e quindi si divise il core.
-% “Farewell, Lidia, my beauty!”
-% “My dear Meri, farewell, because Heaven wishes [it],”
-% they said—upon the Arno at the rising of the sun—
-% the stricken shepherd and shepherdess.
-% He wept, she wept,
-% and Love wept with them,
-% and so henceforth, the heart was broken in two.
 
 % https://inmulieribus.org/wp-content/uploads/2024/10/Casulana-Program-October-2024.pdf
 
- Also: https://www.clausura.org/copy-of-psalms-requiems-translations
-
-%
-%"Ben venga"
-%Composed by Madalena Casulana
-%"Ben venga la mia nimph'
-%
-%Ben venga il pastor
-%
-%anz' il mio sole",
-%
-%dicea sul vago lit'
-%
-%al fin del giorno,
-%
-%con soavi parole
-%
-%Lidia ambi pieni di desio,
-%
-%vola van d'ogn'intorni Lieti
-%
-%scherzand' i pargolett' amori,
-%
-%e in su le labbia lor s'uniro 'i cori.
-%
-%Adio Lidia mia bella,
-%
-%Caro mio Meri adio,
-%
-%poi ch'el ciel vole
-%
-%Dicea scura arn' al Apparir del sole
-%
-%Pastor afflitto,
-%
-%aflitta pastorella,
-%
-%Piangev' el, piangev' ella
-%
-%Piangea con essi amore
-%
-%E quinc'e quindi
-%
-%si divis' il core.
-%
-%“Welcome to my nymph,
-%
-%Welcome to the shepherd
-%
-%Or better, my sun”,
-%
-%Lidia was saying at the end of the day,
-%
-%with sweet words,
-%
-%both of them full of desire,
-%
-%the cupids flying around
-%
-%with cheerful joy
-%
-%and on their lips their hearts
-%
-%joined in a kiss.
-%
-%Good bye, my beautiful Lidia
-%
-%Good bye, my beloved Meri
-%
-%since the heaven wants it,
-%
-%She said as the sun was rising,
-%
-%Shepherd brokenhearted,
-%
-%brokenhearted shepherdess,
-%
-%He was crying, she was crying,
-%
-%And Love crying with them
-%
-%And then and there
-%
-%their heart broke.
+% Also: https://www.clausura.org/copy-of-psalms-requiems-translations
 
 % See Marenzio, book 2 a 6
 cantoIincipit = \relative c'' {
@@ -143,8 +31,8 @@ cantoIincipit = \relative c'' {
     bf2
 }
 
+% canto: checked against source
 cantoI = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCommonTime
 
@@ -165,6 +53,20 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
+    Ben ven -- ga~il pa -- stor mi -- o.
+    % Ben ven -- ga, la mia nin -- fa: 
+        an -- zi'l mio so -- le!
+    Di -- cea sul va -- go li -- to~al fin del gior -- no,
+    Con so -- a -- vi pa -- ro -- le,
+    Con so -- a -- vi pa -- ro -- le
+    Ti -- ti -- ro~e Li -- dia,
+    Ti -- ti -- ro~e Li -- dia, pie -- ni di de -- si -- o,
+        pie -- ni di de -- si -- o.
+    Vo -- la -- van,
+    Vo -- la -- van,
+    Vo -- la -- van d'o -- gn'in -- tor -- no
+    Lie -- ti scher -- zan -- do~i par -- go -- let -- ti~A -- mo -- ri,
+    E~in sul -- le lab -- bia lor, s'u -- ni -- ro~i co -- ri.
 }
 
 altoIincipit = \relative c' {
@@ -175,8 +77,8 @@ altoIincipit = \relative c' {
     g2
 }
 
+% alto: checked against source
 altoI = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -198,6 +100,20 @@ altoI = \relative c' {
 }
 
 altoLyricsI = \lyricmode {
+    Ben ven -- ga~il pa -- stor mi -- o.
+    Ben ven -- ga, la mia nin -- fa: an -- z'il mio so -- le!
+    Di -- cea sul va -- go li -- to~al fin del gior -- no,
+    Con so -- a -- vi pa -- ro -- le,
+    Con so -- a -- vi pa -- ro -- le
+%    Ti -- ti -- ro~e Li -- dia,
+    Ti -- ti -- ro~e Li -- dia, pie -- ni di de -- si -- o, __
+    Ti -- ti -- ro~e Li -- dia, pie -- ni di de -- si -- o.
+%    Vo -- la -- van,
+%    Vo -- la -- van,
+    Vo -- la -- van d'o -- gn'in -- tor -- no
+    Lie -- ti scher -- zan -- do~i par -- go -- let -- ti~A -- mo -- ri,
+    E~in sul -- le lab -- bia lor,
+    E~in sul -- le lab -- bia lor, s'u -- ni -- ro~i co -- ri.
 }
 
 tenoreIincipit = \relative c' {
@@ -208,8 +124,8 @@ tenoreIincipit = \relative c' {
     bf2
 }
 
+% tenore: checked against source
 tenoreI = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
@@ -229,6 +145,24 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
+%    Ben ven -- ga~il pa -- stor mi -- o.
+    Ben ven -- ga, la mia nin -- fa: an -- z'il mio so -- le! __
+    Di -- cea sul va -- go li -- to~al fin del gior -- no,
+        del gior -- no,
+    Con so -- a -- vi pa -- ro -- le,
+    \ijLyrics
+    Con so -- a -- vi pa -- ro -- le
+    \normalLyrics
+%    Ti -- ti -- ro~e Li -- dia,
+    Ti -- ti -- ro~e Li -- dia, pie -- ni di de -- si -- o,
+        pie -- ni di de -- si -- o,
+        pie -- ni di de -- si -- o.
+%    Vo -- la -- van,
+    Vo -- la -- van,
+    Vo -- la -- van d'o -- gn'in -- tor -- no
+%    Lie -- ti scher -- zan -- do~i par -- go -- let -- ti~A -- mo -- ri,
+    E~in sul -- le lab -- bia lor,
+    E~in sul -- le lab -- bia lor, s'u -- ni -- ro~i co -- ri.
 }
 
 bassoIincipit = \relative c' {
@@ -239,8 +173,8 @@ bassoIincipit = \relative c' {
     g2
 }
 
+% basso: checked against source
 bassoI = \relative c' {
-    \clef bass
     \key f \major
     \fourTwoCommonTime
 
@@ -251,13 +185,29 @@ bassoI = \relative c' {
         d bf'4 a g f | ef1 d | g,4 a bf c
 
     d2 g, | R\breve | r4 bf' a8([ bf g a] f4) d f ef | f2 bf, r2 r4 bf |
-        f'8([ d ef c] d4) bf f'8([ d ef c)] d2 | g,1 r1 | R\breve | r1 r2 g' |
+                            %vvvvvvvvvvv yes, has to be like this
+        f'8([ d ef c] d4) bf f'8([ d ef) c] d2 | g,1 r1 | R\breve | r1 r2 g' |
 
     bf4. a8 bf4 g f1 | r4 bf, f'4. e8 f4 d c2 | bf4 bf2 bf4 g1 | d'\longa*1/2
     \bar "|."
 }
 
 bassoLyricsI = \lyricmode {
+%    Ben ven -- ga~il pa -- stor mi -- o.
+    Ben ven -- ga, la mia nin -- fa: an -- z'il mio so -- le!
+    Di -- cea sul va -- go li -- to~al fin del gior -- no,
+%    Con so -- a -- vi pa -- ro -- le,
+    Con so -- a -- vi pa -- ro -- le
+%    Ti -- ti -- ro~e Li -- dia,
+    Ti -- ti -- ro~e Li -- dia, pie -- ni di de -- si -- o,
+        pie -- ni di de -- si -- o.
+%    Vo -- la -- van,
+%    Vo -- la -- van,
+    Vo -- la -- van d'o -- gn'in -- tor -- no,
+    Vo -- la -- van d'o -- gn'in -- tor -- no
+%    Lie -- ti scher -- zan -- do~i par -- go -- let -- ti~A -- mo -- ri,
+    E~in sul -- le lab -- bia lor,
+    E~in sul -- le lab -- bia lor, s'u -- ni -- ro~i co -- ri.
 }
 
 quintoIincipit = \relative c'' {
@@ -268,8 +218,8 @@ quintoIincipit = \relative c'' {
     g2
 }
 
+% quinto: checked against source
 quintoI = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCommonTime
 
@@ -290,6 +240,25 @@ quintoI = \relative c'' {
 }
 
 quintoLyricsI = \lyricmode {
+    Ben ven -- ga~il pa -- stor mi -- o.
+%    Ben ven -- ga, la mia nin -- fa: 
+        an -- z'il mio so -- le!
+    Di -- cea sul va -- go li -- to~al fin,
+        al fin del gior -- no,
+%    Con so -- a -- vi pa -- ro -- le,
+    Con so -- a -- vi pa -- ro -- le
+%    Ti -- ti -- ro~e Li -- dia,
+    Ti -- ti -- ro~e Li -- dia, pie -- ni di de -- si -- o,
+        pie -- ni di de -- si -- o,
+        pie -- ni di de -- si -- o.
+%    Vo -- la -- van,
+%    Vo -- la -- van,
+    Vo -- la -- van d'o -- gn'in -- tor -- no,
+    Vo -- la -- van d'o -- gn'in -- tor -- no
+    Lie -- ti scher -- zan -- do,
+    Lie -- ti scher -- zan -- do~i par -- go -- let -- ti~A -- mo -- ri,
+    E~in sul -- le lab -- bia lor, __
+    E~in sul -- le lab -- bia lor, s'u -- ni -- ro~i co -- ri.
 }
 
 cantoIincipitVoice = <<

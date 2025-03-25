@@ -24,7 +24,7 @@
     shortcomp = "occa"
     composer = "Alberto dall'Occa (fl.1580s-90s)"
     categories = "[madrigal,shepherd,shepherdess]"
-    motifs = "[parting]"
+    motifs = "[parting,aubade]"
     needtranslation = #'f
 
     % Unchanging:
@@ -116,7 +116,7 @@
                 \line { he sighing, and she as well. }
                 \line { And their separation alone }
                 \line { was the cause of their sorrow, }
-                \line { because both in parting amidst the springtime trees, }
+                \line { because both in parting, amidst the springtime trees, }
                 \line { their passionate hearts were divided asunder.  }
                 \line { \hspace #10 \italic { translation by editor } }
            }

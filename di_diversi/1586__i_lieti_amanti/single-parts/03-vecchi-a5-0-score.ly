@@ -24,7 +24,7 @@
     shortcomp = "vecchi"
     composer = "Orazio Vecchi (1550-1605)"
     categories = "[madrigal]"
-    motifs = "[pastoral,parting]"
+    motifs = "[pastoral,parting,aubade]"
     needtranslation = #'t
 
     % Unchanging:

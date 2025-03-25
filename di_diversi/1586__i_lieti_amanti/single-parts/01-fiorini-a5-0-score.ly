@@ -24,7 +24,7 @@
     shortcomp = "fiorini"
     composer = "Ippolito Fiorini (c.1549-1621)"
     categories = "[madrigal]"
-    motifs = "[pastoral,parting]"
+    motifs = "[pastoral,parting,aubade]"
     needtranslation = #'t
 
     % Unchanging:

@@ -24,7 +24,7 @@
     shortcomp = "agostini"
     composer = "Lodovico Agostini (1534-1590)"
     categories = "[madrigal]"
-    motifs = "[parting]"
+    motifs = "[parting,aubade]"
     needtranslation = #'t
 
     % Unchanging:
