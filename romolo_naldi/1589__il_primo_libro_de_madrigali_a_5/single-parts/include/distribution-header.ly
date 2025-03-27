@@ -1,4 +1,4 @@
-    composer = "Romolo Naldi (15??-1612)"
+    composer = "Romolo Naldi (c.1560-1612)"
     source = \markup { \italic { Il primo libro de' madrigali a 5 voci } (Angelo Gardano press, Venice, 1589) }
     style = "Renaissance"
     
