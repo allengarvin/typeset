@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1589__naldi_romolo__il_primo_libro_de_madrigali_a_5_voci
+    typeset_directory: romolo_naldi/1589__il_primo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il primo libro de' madrigali a 5 voci
+    year: 1589
+contents:
+    type: madrigal
+    language: italian

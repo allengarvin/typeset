@@ -1,0 +1,18 @@
+---
+top:
+    type: composer
+    path: /romolo_naldi
+biography:
+    name: Romolo Naldi
+    last_name: Naldi
+    nationality: Italian
+    born_year: 1550
+    born_circa: true
+    died_year: 1612
+    died_date: 2016-05-12
+    born_location:
+        region: Bologna
+        country: Italy
+    died_location:
+        region: Rome
+        country: Italy

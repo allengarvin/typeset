@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1617__brade_wilhelm__newe_ausserlessene_liebliche_branden_intraden_etc
+    typeset_directory: wilhelm_brade/1617__newe_auserlesen_branden_et_all
+source:
+    city: Hamburg
+    date_exact: true
+    manuscript: false
+    press: Hering press
+    print: true
+    title: Newe ausserlesene liebliche Branden, Intraden, Mascharaden, Balletten
+    year: 1617

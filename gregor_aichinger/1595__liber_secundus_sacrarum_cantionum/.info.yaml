@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1595__aichinger_gregorio__liber_secundus_sacrarum_cantionum__gardano
+    typeset_directory: gregor_aichinger/1595__liber_secundus_sacrarum_cantionum
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Liber secundus sacrarum cantionum
+    year: 1595

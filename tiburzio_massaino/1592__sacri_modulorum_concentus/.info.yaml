@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: complete/1592__massaino_tiburtio__sacri_modulorum_concentus__gardano
+    typeset_directory: tiburzio_massaino/1592__sacri_modulorum_concentus
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Sacri modulorum concentus
+    year: 1594
+contents:
+    type: motet
+    language: latin

@@ -1,0 +1,16 @@
+top:
+    type: composer
+    path: /wilhelm_brade
+biography:
+    name: William Brade
+    nationality: English
+    born_year: 1560
+    born_circa: true
+    died_year: 1630
+    died_date: 1630-02-26
+    born_location:
+        country: England
+    died_location:
+        region: Hamburg
+        country: Germany
+    

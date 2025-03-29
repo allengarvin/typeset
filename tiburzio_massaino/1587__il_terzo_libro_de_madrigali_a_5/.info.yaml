@@ -1,0 +1,15 @@
+---
+local:
+    facsimile_directory: /complete/1587__massaino_tiburtio__il_terzo_libro_de_madrigali_a_5_voci__gardano/
+    typeset_directory: tiburzio_massaino/1587__il_terzo_libro_de_madrigali_a_5
+source:
+    city: Venice
+    date_exact: true
+    manuscript: false
+    press: Angelo Gardano press
+    print: true
+    title: Il terzo libro de' madrigali a 5 voci
+    year: 1587
+contents:
+    type: madrigal
+    language: italian

@@ -1,0 +1,12 @@
+---
+local:
+    facsimile_directory: complete/1561__willaert_adrian__moteta_cum_6_et_7_vocibus__liber_secundus
+    typeset_directory: adrian_willaert/1561__moteta_cum_6_e_7_vocibus
+source:
+    city: Louvain
+    date_exact: true
+    manuscript: false
+    press: Phalèse press
+    print: true
+    title: Moteta cum 6 et 7 vocibus, liber secundus
+    year: 1561
