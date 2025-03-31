@@ -16,6 +16,7 @@
     final = "d"
     flats = 0
     headerspace = \markup { \vspace #2 }
+    categories = "[ag-dance]"
 
     % Unchanging:
     language = "instrumental"

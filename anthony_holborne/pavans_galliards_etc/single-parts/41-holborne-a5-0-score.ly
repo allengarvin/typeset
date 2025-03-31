@@ -17,6 +17,7 @@
     % Unchanging:
     originallyset = "2018-06-30"
     lastupdated = "2018-06-30"
+    categories = "[ag-dance]"
     flats = 0
     final = "g"
     \include "include/distribution-header.ly"

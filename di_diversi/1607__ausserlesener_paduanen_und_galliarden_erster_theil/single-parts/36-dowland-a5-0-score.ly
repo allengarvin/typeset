@@ -20,7 +20,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "galliard_xviii"
     shortcomp = "dowland"
-    categories = "[]"
+    categories = "[ag-dance]"
     final = "g"
     flats = 1
     composer = "John Dowland (c.1563-1626)"

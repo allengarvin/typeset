@@ -17,6 +17,7 @@
     instrument = "Lachrimæ Antiquæ (score)"
 
     % Unchanging:
+    categories = "[ag-dance]"
     originallyset = "2013-12-08"
     lastupdated = "2013-12-08"
     shorttitle = "lachrimae_antiquae"

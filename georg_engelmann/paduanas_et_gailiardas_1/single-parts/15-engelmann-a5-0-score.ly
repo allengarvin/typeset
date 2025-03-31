@@ -21,7 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "paduana_basse"
     shortcomp = "engelmann"
-    categories = "[]"
+    categories = "[ag-dance]"
     motifs = "[]"
     final = "e"
     flats = 0

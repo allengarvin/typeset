@@ -15,6 +15,7 @@
     final = "d"
     flats = 0
     instrument = "Paduana I:  (score)"
+    categories = "[ag-dance]"
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:

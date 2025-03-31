@@ -17,6 +17,7 @@
     instrument = "Lachrimæ Gementes (score)"
 
     % Unchanging:
+    categories = "[ag-dance]"
     originallyset = "2013-12-09"
     lastupdated = "2013-12-09"
     shorttitle = "lachrimae_gementes"

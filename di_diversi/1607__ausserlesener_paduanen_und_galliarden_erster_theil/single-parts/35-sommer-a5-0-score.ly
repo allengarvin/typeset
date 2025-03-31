@@ -20,7 +20,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "paduana_xviii"
     shortcomp = "sommer"
-    categories = "[]"
+    categories = "[ag-dance]"
     final = "g"
     flats = 1
     composer = "Johann Sommer (c.1570-1627)"

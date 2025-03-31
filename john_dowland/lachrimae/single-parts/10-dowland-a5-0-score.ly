@@ -13,6 +13,7 @@
     title = "M. John Langstons Pavan"
     language = "instrumental"
     instrument = "M. John Langstons Pavan (score)"
+    categories = "[ag-dance]"
 
     % Unchanging:
     originallyset = "2018-07-01"

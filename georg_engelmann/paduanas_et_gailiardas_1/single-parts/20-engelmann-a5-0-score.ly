@@ -21,7 +21,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "galliarda_cabra"
     shortcomp = "engelmann"
-    categories = "[]"
+    categories = "[ag-dance]"
     final = "c"
     flats = 0
     motifs = "[]"

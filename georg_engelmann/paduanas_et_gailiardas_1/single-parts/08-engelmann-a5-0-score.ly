@@ -23,7 +23,7 @@
     shortcomp = "engelmann"
     final = "c"
     flats = 0
-    categories = "[]"
+    categories = "[ag-dance]"
     motifs = "[]"
 
     % Unchanging:

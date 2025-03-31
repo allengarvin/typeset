@@ -15,6 +15,7 @@
     flats = 0
     language = "instrumental"
     instrument = "Lachrimæ Amantis (score)"
+    categories = "[ag-dance]"
 
     % Unchanging:
     originallyset = "2013-12-14"

@@ -15,6 +15,7 @@
     instrument = "The King of Denmarks Galiard (score)"
     final = "d"
     flats = 1
+    categories = "[ag-dance]"
 
     % Unchanging:
     originallyset = "2018-07-02"

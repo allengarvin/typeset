@@ -15,6 +15,7 @@
     title = "Galliarda I"
     subtitle = ""
     instrument = "Galliarda I:  (score)"
+    categories = "[ag-dance]"
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:

@@ -19,6 +19,7 @@
 
     % Unchanging:
     language = "instrumental"
+    categories = "[ag-dance]"
     lastupdated = "2022-01-28"
     originallyset = "2022-01-28"
     flats = 0

@@ -15,6 +15,7 @@
     final = "d"
     flats = 0
     instrument = "Semper Dowland semper dolens (score)"
+    categories = "[ag-dance]"
 
     % Unchanging:
     originallyset = "2018-07-01"

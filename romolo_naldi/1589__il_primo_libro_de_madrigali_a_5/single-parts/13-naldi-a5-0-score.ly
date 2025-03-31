@@ -13,6 +13,8 @@
     cksum = "61c5c1a59c1f8632cfc0c741bdb6d7ebf3268550"
     lastupdated = "2025-03-29"
     originallyset = "2025-03-29"
+    flats = 1
+    final = "f"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "La giovinetta scorza"

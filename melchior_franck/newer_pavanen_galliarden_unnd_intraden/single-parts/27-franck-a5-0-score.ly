@@ -16,7 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "galliarda_7"
     shortcomp = "franck"
-    categories = "[]"
+    categories = "[ag-dance]"
 
     % Unchanging:
     language = "instrumental"

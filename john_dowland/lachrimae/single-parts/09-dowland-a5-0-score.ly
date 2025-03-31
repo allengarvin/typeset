@@ -15,6 +15,7 @@
     instrument = "Sir Henry Umptons Funerall (score)"
     final = "g"
     flats = 1
+    categories = "[ag-dance]"
 
     % Unchanging:
     originallyset = "2018-07-01"
