@@ -1,3 +1,16 @@
+% Silen di rose ha il volto
+% e'l sen di neve Eurilla
+% che sol per lui d'amor arde e sfavilla.
+% Onde un giorno li dice,
+% «Deh, dimmi donde il bon bacio s'elice?»
+% «Di Cipro» egli risponde.
+% «Anzi.» dice la Ninfa al bel Pastore.
+% «da queste labbra tue nido d'amore.»
+% Indi il bacia e s'asconde.
+% Così riman Sileno
+% di piacer e d'amor arso e ripieno.
+
+
 cantoIIIincipit = \relative c''' {
     \clef "petrucci-g"
     \key c \major
@@ -6,18 +19,19 @@ cantoIIIincipit = \relative c''' {
     g2.
 }
 
+% canto: checked against source
 cantoIII = \relative c''' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 
-    R\breve*2 | r2 g2. g4 e2 | c4 c a2.( g8[ f] g2) | a a a b | c c f1 |
+    R\breve*2 | r2 g2. g4 e2 | 
+        c4 c a2.\melfi gs8[ fs] gs!2\melfiEnd | a a a b | c c f1 |
 
     r2 r4 d e e d d | r2 b4 b cs d4.( cs16[ b] cs4) | d1 r1 | r1 r2 e |
         cs d e4 g2 f4 | e2 e
 
     r4 d d2 | cs1 r1 | r1 r2 d | b4 c4. c8 b4 d2. d4 |
-        g4 g a2.\melfi gs8[ fs] gs!2\melfiEnd | a2 a bf4 bf a d |
+        g,4 g a2.\melfi g8[ f] g2\melfiEnd | a2 a bf4 bf a d |
 
     c1 r4 g'2 e4 ~ | e f2( e8[ d] cs4) d2( cs4) | d a b d e e r2 |
         r1 cs2. cs4 | d1 e2. c4 | b a r4 b 
@@ -31,6 +45,31 @@ cantoIII = \relative c''' {
 }
 
 cantoLyricsIII = \lyricmode {
+%    Si -- len di ro -- se~ha~il vol -- to
+    E'l sen di ne -- ve~Eu -- ril -- la
+    Che sol per lui d'a -- mor ar -- de~e sfa -- vil -- la,
+    \ijLyrics
+        ar -- de~e sfa -- vil -- la.
+    \normalLyrics
+
+%    On -- de~un gior -- no li di -- ce,
+    Deh, dim -- mi don -- d'il bon ba -- cio s'e -- li -- ce?
+%    Di Ci -- pro~e -- gli ri -- spon -- de,
+    An -- zi, di -- ce la Nin -- fa'l bel Pa -- sto -- re,
+    Da que -- ste lab -- bra tue ni -- do __ d'a -- mo -- re,
+        ni -- do d'a -- mo -- re
+    In -- di~il ba -- cia~e s'a -- scon -- de.
+    Co -- sì ri -- man Si -- le -- no
+    Di pia -- cer,
+    Di pia -- cer e d'a -- mor,
+    \ijLyrics
+    Di pia -- cer e d'a -- mor,
+    \normalLyrics
+    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+%    Di pia -- cer e d'a -- mor ar -- so,
+%    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+        ar -- so~e ri -- pie -- no,
+        ar -- so~e ri -- pie -- no.
 }
 
 altoIIIincipit = \relative c' {
@@ -41,8 +80,8 @@ altoIIIincipit = \relative c' {
     fs2
 }
 
+% alto: checked against source
 altoIII = \relative c' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCutTime
 
@@ -68,6 +107,24 @@ altoIII = \relative c' {
 }
 
 altoLyricsIII = \lyricmode {
+    Si -- len di ro -- se~ha~il vol -- to
+    E'l sen di ne -- ve~Eu -- ril -- la
+    Che sol per lui d'a -- mor ar -- de~e sfa -- vil -- la,
+        ar -- de~e sfa -- vil -- la.
+
+    On -- de~un gior -- no li di -- ce,
+    Deh, dim -- mi don -- d'il bon ba -- cio s'e -- li -- ce?
+    Di Ci -- pro~e -- gli ri -- spon -- de,
+    An -- zi, di -- ce la Nin -- fa'l bel Pa -- sto -- re,
+    Da que -- ste lab -- bra tue ni -- do d'a -- mo -- re,
+        ni -- do d'a -- mo -- re
+    In -- di~il __ ba -- cia~e s'a -- scon -- de.
+    Co -- sì ri -- man Si -- le -- no
+    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+    Di pia -- cer e d'a -- mor,
+    Di pia -- cer,
+    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+        ar -- so~e ri -- pie -- no.
 }
 
 tenoreIIIincipit = \relative c' {
@@ -78,8 +135,8 @@ tenoreIIIincipit = \relative c' {
     a2
 }
 
+% tenore: checked against source
 tenoreIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -98,11 +155,36 @@ tenoreIII = \relative c' {
     a2 a c2. e8[ d] | c2 c c4 g r4 d'8[ c] | b4 g8[ a] b4.( a16[ g] a2) r2 |
         r2 c8[ d] e4 f f g2 |
 
-    c8[ d] e4 f4. c8 c4 g2 g'4 ~ | g8[ g] e4 c4. a8 b4 c b2 | a\longa*1/2
+    c,8[ d] e4 f4. c8 c4 g2 g'4 ~ | g8[ g] e4 c4. a8 b4 c b2 | a\breve~
+        a\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsIII = \lyricmode {
+    Si -- len di ro -- se~ha~il vol -- to
+    E'l sen di ne -- ve~Eu -- ril -- la
+    Che sol per __ lui d'a -- mor ar -- de~e sfa -- vil -- la,
+        ar -- de~e sfa -- vil -- la.
+
+    On -- de~un gior -- no li di -- ce,
+    Deh, dim -- mi don -- d'il bon ba -- cio s'e -- li -- ce?
+    Di Ci -- pro~e -- gli ri -- spon -- de,
+%    An -- zi, di -- ce la Nin -- fa'l bel Pa -- sto -- re,
+    Da que -- ste lab -- bra tue ni -- do d'a -- mo -- re,
+    \ijLyrics
+        ni -- do d'a -- mo -- re
+    \normalLyrics
+    In -- di~il ba -- cia~e s'a -- scon -- de.
+    Co -- sì ri -- man Si -- le -- no
+%    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+    Di pia -- cer e d'a -- mor,
+    Di pia -- cer e d'a -- mor,
+    \ijLyrics
+    Di pia -- cer e d'a -- mor,
+    \normalLyrics
+%    Di pia -- cer e d'a -- mor ar -- so,
+    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+        ar -- so~e ri -- pie -- no. __
 }
 
 bassoIIIincipit = \relative c {
@@ -113,8 +195,8 @@ bassoIIIincipit = \relative c {
     d2
 }
 
+% basso: checked against source
 bassoIII = \relative c {
-    \clef varbaritone
     \key c \major
     \fourTwoCutTime
 
@@ -134,6 +216,24 @@ bassoIII = \relative c {
 }
 
 bassoLyricsIII = \lyricmode {
+    Si -- len di ro -- se~ha~il vol -- to
+%    E'l sen di ne -- ve~Eu -- ril -- la
+    Che sol per lui d'a -- mor ar -- de~e sfa -- vil -- la,
+    \ijLyrics
+        ar -- de~e sfa -- vil -- la.
+    \normalLyrics
+
+    On -- de~un gior -- no li di -- ce,
+%    Deh, dim -- mi don -- d'il bon ba -- cio s'e -- li -- ce?
+    Di Ci -- pro~e -- gli ri -- spon -- de,
+%    An -- zi, di -- ce la Nin -- fa'l bel Pa -- sto -- re,
+    Da que -- ste lab -- bra tue ni -- do d'a -- mo -- re
+%    In -- di~il ba -- cia~e s'a -- scon -- de.
+    Co -- sì ri -- man Si -- le -- no
+    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+        ar -- so~e ri -- pie -- no,
+        ar -- so~e ri -- pie -- no.
 }
 
 quintoIIIincipit = \relative c' {
@@ -144,8 +244,8 @@ quintoIIIincipit = \relative c' {
     a2
 }
 
+% quinto: checked against source
 quintoIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -161,7 +261,7 @@ quintoIII = \relative c' {
     a2 bf a1 | d r2 a | b4 c b2 a1 | R\breve | r2 r4 e' e e e2 |
         e d g e8[ d] c4 | a8[ b] c4 f2
 
-    e4 c d g| r4 b8[ c] d2 d4 d d2 | e8[ f] g4 a a,8[ b] c2 c |
+    e4 c d g, | r4 b8[ c] d2 d4 d d2 | e8[ f] g4 a a,8[ b] c2 c |
         r4 c8[ b] a4 f'8[ f] 
 
     e4 c d d | c c r4 c e2. e4 | \[ e1( d) \] | e\longa*1/2 
@@ -169,6 +269,24 @@ quintoIII = \relative c' {
 }
 
 quintoLyricsIII = \lyricmode {
+    Si -- len di ro -- se~ha~il vol -- to
+%    E'l sen di ne -- ve~Eu -- ril -- la
+    Che sol per lui d'a -- mor ar -- de~e sfa -- vil -- la, 
+        ar -- de~e sfa -- vil -- la. 
+
+    On -- de~un gior -- no li __ di -- ce,
+%    Deh, dim -- mi don -- d'il bon ba -- cio s'e -- li -- ce?
+    Di Ci -- pro~e -- gli ri -- spon -- de,
+    An -- zi, di -- ce la Nin -- fa'l bel Pa -- sto -- re,
+    Da que -- ste __ lab -- bra tue ni -- do d'a -- mo -- re,
+        ni -- do d'a -- mo -- re
+%    In -- di~il ba -- cia~e s'a -- scon -- de.
+    Co -- sì ri -- man Si -- le -- no
+    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+    Di pia -- cer e d'a -- mor,
+    Di pia -- cer e d'a -- mor ar -- so,
+    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+        ar -- so~e ri -- pie -- no.
 }
 
 sestoIIIincipit = \relative c'' {
@@ -179,8 +297,8 @@ sestoIIIincipit = \relative c'' {
     d1
 }
 
+% sesto: checked against source
 sestoIII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 
@@ -203,6 +321,27 @@ sestoIII = \relative c'' {
 }
 
 sestoLyricsIII = \lyricmode {
+    % Si -- len di ro -- se~ha~il vol -- to
+    E'l sen di ne -- ve~Eu -- ril -- la
+    Che sol per lui d'a -- mor ar -- de~e sfa -- vil -- la, __
+        ar -- de~e sfa -- vil -- la. __ 
+
+    % On -- de un gior -- no li di -- ce,
+    Deh, dim -- mi don -- d'il bon ba -- cio s'e -- li -- ce?
+    An -- zi, di -- ce la Nin -- fa'l bel Pa -- sto -- re,
+    Da que -- ste lab -- bra tue ni -- do d'a -- mo -- re,
+        ni -- do d'a -- mo -- re
+    % Di Ci -- pro e -- gli ri -- spon -- de,
+    % In -- di~il ba -- cia~e s'a -- scon -- de.
+    Co -- sì ri -- man Si -- le -- no
+    Di pia -- cer e d'a -- mor,
+    Di pia -- cer e d'a -- mor,
+    Di pia -- cer e d'a -- mor,
+    \ijLyrics
+    Di pia -- cer e d'a -- mor,
+    \normalLyrics
+    Di pia -- cer e d'a -- mor ar -- so~e ri -- pie -- no,
+        ar -- so~e ri -- pie -- no.
 }
 
 cantoIIIincipitVoice = <<
