@@ -123,6 +123,7 @@
                 \line { that my soul, bit by bit, }
                 \line { in the little time it has left to live, }
                 \line { joyfully is consumed in an amorous fire. }
+                \line { \hspace #10 \italic { translation by editor } }
            }
         }
     }
