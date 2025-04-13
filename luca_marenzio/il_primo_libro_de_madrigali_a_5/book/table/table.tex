@@ -1,0 +1,73 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage[margin=1in]{geometry}
+\usepackage{caption}
+\usepackage{lmodern}
+\usepackage{array} % For better column formatting
+\usepackage{fontspec}
+\newfontfamily\musicsymbols{Bravura} 
+
+\newcommand{\commonTime}{\raisebox{0.9ex}{{\musicsymbols\Large\symbol{"1D134}}}}
+\newcommand{\cutTime}{\raisebox{0.9ex}{{\musicsymbols\Large\symbol{"1D135}}}}
+\newcommand{\commonTimeThreeTwo}{%
+  \raisebox{0.9ex}{{\musicsymbols\Large\symbol{"1D134}}}%
+  \hspace{0.3em}%
+  \raisebox{0.0ex}{\shortstack[c]{\scriptsize\textbf{3}\\\scriptsize\textbf{2}}}%
+}
+
+% Define a helper column type for multi-line headers
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\begin{document}
+
+\vspace{1em}
+
+% Centered Table Title with Large First Letter
+\noindent\centering
+\textsc{\Large T}ABLE 1\\[0.5ex]
+Overall layout for \textit{Il primo libro de' madrigali a cinque voci}
+\par
+
+\vspace{0.5ex}
+\noindent\rule{\linewidth}{0.4pt}
+
+% Table with fixed column widths and multi-line headers
+\begin{tabularx}{\textwidth}{@{}L{0.9cm} L{4.2cm} L{1cm} L{1.0cm} L{1cm} L{2.4cm} L{2.2cm} L{2cm}@{}}
+\textbf{No.} &
+\textbf{Cleffing} &
+\textbf{Key} \newline \textbf{sig} &
+\textbf{Final} &
+\textbf{Meter} &
+\textbf{Length} \newline \textbf{in breves}\textsuperscript{a} &
+\textbf{Number of} \newline \textbf{poetic lines}\textsuperscript{b} &
+\textbf{Poetic} \newline \textbf{Form} \\
+\midrule
+1 & G2,G2,C2,C3,F3 & \textemdash & G & \commonTime & 29 & 6 & madrigal \\
+2 & G2,C2,C3,C3,F3 & \textemdash & C & \commonTime & 37 & 8 & ottava rima \\
+3-4 & G2,G2,C2,C3,F3 & \textemdash & D & \commonTime & 74 (36+38) & 14 (8+6) & sonnet \\
+5 & G2,C2,C3,C3,C4 & \textemdash & A & \commonTime & 38 & 8 & ottava rima \\
+6-8 & C1,C3,C4,C4,F4 & \textemdash & E & \commonTime & 75 (29+30+16) & 20 & madrigal \\
+9 & C1,C3,C4,C4,F4 & \textemdash & E & \cutTime & 63 & 8 & ottava rima \\
+10 & C1,C1,C3,C4,F4 & \textemdash & D & \commonTime & 26 & 6 & madrigal \\
+11 & C1,C3,C4,C4,F4 & \textemdash & A & \commonTime & 30 & 6 & madrigal \\
+12-13 & G2,C2,C3,C3,F3 & \textemdash & C & \cutTime & 77 (41+36) & 15 (10+5) & canzone \\
+14 & G2,C1,C2,C3,C4 & $\flat$ & G & \commonTime & 27 & 6 & madrigal \\
+15 & G2,G2,C2,C3,F3 & $\flat$ & G & \commonTime & 37 & 8 & madrigal \\
+16 & C1,C1,C3,C4,F4 & $\flat$ & G & \commonTime & 45 & 8 & madrigal \\
+17 & C1,C1,C3,C4,F4 & $\flat$ & G & $\commonTimeThreeTwo$ & 36 & 10 & madrigal \\
+18 & C1,C1,C3,C3,C4,C4,F4,F4 & $\flat$ & G & \commonTime & 64 & 17 & villanella \\
+\bottomrule
+\end{tabularx}
+
+\vspace{1em}
+
+% Footnotes
+\raggedright
+\noindent\textit{a.} With multipart madrigals, the total length is given first followed by the length of each \textit{parte}.\\
+\noindent\textit{b.} For multipart madrigals, the total lines is given first followed by the no. of poetic lines in each \textit{parte}. 
+
+\vspace{0.5em}
+\noindent\rule{\textwidth}{0.4pt}
+
+\end{document}
