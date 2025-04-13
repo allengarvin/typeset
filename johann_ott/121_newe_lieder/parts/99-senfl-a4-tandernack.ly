@@ -1,12 +1,12 @@
 discantusXCIXincipit = \relative c'' {
-    \time 3/2
+    \time 3/4
     \clef "petrucci-c1"
     \key c \major
 
     b1.
 }
 
-% discantus: checked against source
+% discantus: checked against source, + modern source
 discantusXCIX = \relative c'' {
     \time 3/1
     \key c \major
@@ -47,13 +47,13 @@ discantusXCIX = \relative c'' {
         c b a g f2 c' d c | b c b g a1 | 
 
     r2 e g1 a | g\breve r2 b | b b g1 r2 g ~ | g e e\breve | r2 g g g d' b |
-        a1 b1. a2 | b c a d e d | b a2. g4 g1\ficta fs2\unficta | g\breve 
+        a1 b1. a2 | b c a d e d | b a2. g4 g1\ficta f2\unficta | g\breve 
 
     r2 e | e e f1 e2 f | d d g\breve | g1 r1 r2 f | f f e f g1 |
         r2 d' b c d1 | c2 c, d e f g | a b e, a1 \ficta gs2\unficta |
     % --- page ---
     a\breve r2 e' | d b r1 r2 d | e b c1 b2 e | d b c e1 d2 |
-        e1 \[ c a \] | g2. a4 b c b1 a2 | b1 r2 b c1 | 
+        e1 \[ c b \] | g2. a4 b c b1 a2 | b1 r2 b c1 | 
         \colorBr b1\colorBrBegin a\breve | g\breve. ~ |
         g1 \colorBrEnd r2 g a b | g\breve r1 | g\breve f1 | 
         d2 d'2. c4 b a g1 ~ |
@@ -65,15 +65,16 @@ discantusXCIX = \relative c'' {
     \bar "|."
 }
 
-contratenorXCIXincipit = \relative c {
-    \time 3/2
+altusXCIXincipit = \relative c {
+    \time 3/4
     \clef "petrucci-c3"
     \key c \major
 
     e\breve
 }
 
-contratenorXCIX = \relative c {
+% altus: checked against source + modern ed
+altusXCIX = \relative c {
     \time 3/1
     \key c \major
 
@@ -85,7 +86,8 @@ contratenorXCIX = \relative c {
     \[ \colorBr b1 \colorBrBegin a \colorBrEnd \] r2 a |
         b c2. b4 c b c2 b | e1 r2 e2. d4 e f | g2 d g2. f4 e1 |
     % --- page ---
-    d r2 g2. f4 e d | c2. d4 e2 c c1 | r2 c g c b1 | r2 e b e d1 |
+                                                        % vv b2 to c2
+    d r2 g2. f4 e d | c2. d4 e2 c c1 | r2 c g c b1 | r2 e c e d1 |
         c2 b1 e2 a, d | g, c2. b4 a1 g2 | 
 
     a1 e2 e' c f | g g, r2 b c g | g'1 r1 r2 e | a, a b g a1 |
@@ -113,7 +115,8 @@ contratenorXCIX = \relative c {
     e2 e a1 r2 a | g a e r4 e f2 c | d a e' b r2 a | b1 g g' ~ | g r2 e e e |
         c1 r2 c c c | g' e d e d
     % --- page ---
-    g2 ~ | g4 f f2 g1 e2 f | d g f1 e2 f | g c, e1 d2 c | d e d b r2 c ~ |
+    g2 ~ | g4\ficta fs fs!2 \unficta g1 e2 f | d g f1 e2 f | g c, e1 d2 c |
+        d e d b r2 c ~ |
         c4 b a g f d d'2 c d | 
 
     r2 d4 c b a g f e f g a | b2 g d' r4 d c b a g | f d d'2 r2 d b e ~ |
@@ -137,7 +140,7 @@ contratenorXCIX = \relative c {
 }
 
 tenorXCIXincipit = \relative c' {
-    \time 3/2
+    \time 3/4
     \clef "petrucci-c4"
     \key c \major
 
@@ -175,7 +178,7 @@ tenorXCIX = \relative c' {
     e1 r2 b b b | g\breve. ~ | g\breve r1 | r1 r2 g g g | d'1 r1 r2 d ~ | 
         d c d b c a | g a b c a1 | g r2 g g g | a1 r2 a a a | b\breve b1 |
 
-    r2 b b b a1 | r2 a a a g1 | a2 b e, a1 \ficta gs2\unficta | a1 r1 r1 |
+    r2 b b b a1 | r2 a a a g1 | a2 b e, a1 \ficta g2\unficta | a1 r1 r1 |
         R\breve.*3 R\breve.*3| e'\breve d1 | b\breve r1 | r1 r1 d | e b c |
         b\breve r1 | e\breve d1 | b\breve r1 | d\breve e1 | 
     % --- page ---
@@ -187,7 +190,7 @@ tenorXCIX = \relative c' {
 }
 
 bassusXCIXincipit = \relative c {
-    \time 3/2
+    \time 3/4
     \clef "petrucci-f4"
     \key c \major
     
@@ -209,7 +212,7 @@ bassusXCIX = \relative c {
     r1 r2 c d a | b1 a r1 | R\breve.*2 | r2 c2. d4 e f g1 ~ |
         g2 f4 e f2. g4 e2 f | d c2. d4 b c a2 f | g\breve g1 | 
 
-    r2 g' g g e1 | r1 r2 e f f | e1 r2 a1 \ficta gs2\unficta |
+    r2 g' g g e1 | r1 r2 e f f | e1 r2 a1 \ficta g2\unficta |
         a e f1 e | R\breve. | r1 r1 r2 a ~ | a g a e f1 | e2 g a1 e ~ |
         e r2 e e e | 
     % --- page ---
@@ -222,7 +225,7 @@ bassusXCIX = \relative c {
     e1 ~ | e r2 e e e | f1 r2 f f f | e\breve. ~ | e1 r2 e e e |
         a1 r2 a g a | e a r1 r2 a | g a e1 f | e\breve e1 | r2 e e e c1 ~ | c
     % --- page ---
-    c1 r2 c | c c g'1 r1 | r1 r2 g1\ficta fs2\unficta | g e f d c d |
+    c1 r2 c | c c g'1 r1 | r1 r2 g1\ficta f2\unficta | g e f d c d |
         e f e c d a | b c g1 r2 c | c c d1 r2 d | d d e1
 
     r2 e | e e d1 r2 d | d d c d e1 | c2 d e a, b1 | a r1 r1 | 
@@ -243,10 +246,10 @@ discantusXCIXincipitVoice = <<
     >>
 >>
 
-contratenorXCIXincipitVoice = <<
+altusXCIXincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \contratenorXCIXincipit
+        \altusXCIXincipit
     >>
 >>
 
