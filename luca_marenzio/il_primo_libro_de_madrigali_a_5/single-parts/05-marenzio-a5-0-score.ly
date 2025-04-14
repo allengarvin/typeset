@@ -17,7 +17,7 @@
     folio = "Jacopo Sannazaro (1458-1530)"
 
     % is this a madrigal or something else??
-    poeticform = "madrigal"
+    poeticform = "ottava rima"
     rhyme = "ABCABCDD"
 
     % Unchanging:

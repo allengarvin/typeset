@@ -15,6 +15,7 @@
     instrument = "In tanto il sonno (score)"
     needtranslation = #'f
     language = "italian"
+    poeticform = "canzone"
     folio = "Jacopo Sannazaro (1458-1530)"
 
     % Unchanging:

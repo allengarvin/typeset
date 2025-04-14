@@ -14,6 +14,7 @@
     instrument = "Lasso ch'io ardo (score)"
     needtranslation = #'f
     language = "italian"
+    poeticform = "madrigal"
 
     % Unchanging:
     originallyset = "2014-12-09"

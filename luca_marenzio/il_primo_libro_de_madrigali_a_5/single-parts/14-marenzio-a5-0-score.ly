@@ -13,6 +13,7 @@
     title = "Madonna mia gentil, ringrazio Amore"
     instrument = "Madonna mia gentil (score)"
     needtranslation = #'f
+    poeticform = "madrigal"
     language = "italian"
 
     % Unchanging:

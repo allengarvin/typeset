@@ -13,6 +13,7 @@
     title = "Cantava la più vaga pastorella"
     instrument = "Cantava la più vaga pastorella (score)"
     needtranslation = #'f
+    poeticform = "madrigal"
     language = "italian"
 
     % Unchanging:

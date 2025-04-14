@@ -1,7 +1,7 @@
 %Or ch'a noi torna la stagion novella
 %Gli augei, le fiere e tutti gli animali
 %Senton d'amor i dolci acuti strali,
-%Te sola Amor non punge, ò d'ogni fiera
+%Te sola Amor non punge, o d'ogni fiera
 %Più cruda in ciascun tempo e più superba;
 %Così dicea Damon tra fiori e l'erba
 %Dolcemente cantando a primavera.
@@ -60,25 +60,25 @@ cantoXIII = \relative c' {
 
 cantoLyricsXIII = \lyricmode {
     Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
-    or ch'a noi tor -- na,
-    or ch'a noi tor -- na la sta -- gion no -- vel -- la
+    Or ch'a noi tor -- na,
+    Or ch'a noi tor -- na la sta -- gion no -- vel -- la
     Gli~au -- gei, le fie -- re e tut -- ti gli~a -- ni -- ma -- li
     Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
-    sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
+    Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
         i dol -- ci~a -- cu -- ti stra -- li,
-    Te so -- la~A -- mor non pun -- ge, ò d'o -- gni fie -- ra
+    Te so -- la~A -- mor non pun -- ge, o d'o -- gni fie -- ra
     Più cru -- da~in cia -- scun tem -- po __ e più su -- per -- ba;
     Co -- sì,
-    co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
+    Co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
         tra fio -- ri~e l'er -- ba
     Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra;
 
     Co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
         tra fio -- ri~e l'er -- ba
-    dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
-    dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
+    Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
+    Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
     \ijLyrics
-    dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra.
+    Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra.
     \normalLyrics
 
 }
@@ -128,19 +128,19 @@ altoXIII = \relative c' {
 
 altoLyricsXIII = \lyricmode {
     Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
-    or ch'a noi tor -- na la sta -- gion no -- vel -- la
+    Or ch'a noi tor -- na la sta -- gion no -- vel -- la
     Gli~au -- gei, le fie -- re e tut -- ti gli~a -- ni -- ma -- li
     Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
-    sen -- ton d'a -- mor,
+    Sen -- ton d'a -- mor,
     \ijLyrics
-    sen -- ton d'a -- mor
+    Sen -- ton d'a -- mor
     \normalLyrics
-    sen -- ton d'a -- mor i dol -- ci,
+    Sen -- ton d'a -- mor i dol -- ci,
         i dol -- ci~a -- cu -- ti stra -- li,
-    Te so -- la~A -- mor non pun -- ge, ò d'o -- gni fie -- ra
+    Te so -- la~A -- mor non pun -- ge, o d'o -- gni fie -- ra
     Più cru -- da~in cia -- scun tem -- po~e più su -- per -- ba;
     Co -- sì di -- cea Da -- mon,
-    co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
+    Co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
         tra fio -- ri~e l'er -- ba,
     \ijLyrics
         tra fio -- ri~e l'er -- ba
@@ -149,16 +149,16 @@ altoLyricsXIII = \lyricmode {
 
     Co -- sì di -- cea Da -- mon,
     \ijLyrics
-    co -- sì di -- cea Da -- mon 
+    Co -- sì di -- cea Da -- mon 
     \normalLyrics
         tra fio -- ri~e l'er -- ba,
     \ijLyrics
         tra fio -- ri~e l'er -- ba,
     \normalLyrics
         tra fio -- ri~e l'er -- ba
-    dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
-    dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
-    dol -- ce -- men -- te can -- tan -- do,
+    Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
+    Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
+    Dol -- ce -- men -- te can -- tan -- do,
         can -- tan -- do~a pri -- ma -- ve -- ra.
 }
 
@@ -205,25 +205,25 @@ tenoreXIII = \relative c {
 
 tenoreLyricsXIII = \lyricmode {
     Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
-    or,
-    or ch'a noi tor -- na la sta -- gion __ no -- vel -- la,
-    or ch'a noi tor -- na la sta -- gion no -- vel -- la,
+    Or,
+    Or ch'a noi tor -- na la sta -- gion __ no -- vel -- la,
+    Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
         la sta -- gion no -- vel -- la
     Gli~au -- gei, le fie -- re e tut -- ti gli~a -- ni -- ma -- li
     Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
-    sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
-    sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
+    Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
+    Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
     Te so -- la~A -- mor non pun -- ge, 
         e più su -- per -- ba,
         e più su -- per -- ba;
     Co -- sì di -- cea Da -- mon,
-    co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
+    Co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
     \ijLyrics
         tra fio -- ri~e l'er -- ba,
     \normalLyrics
-    co -- sì di -- cea Da -- mon,
+    Co -- sì di -- cea Da -- mon,
     \ijLyrics
-    co -- sì di -- cea Da -- mon
+    Co -- sì di -- cea Da -- mon
     \normalLyrics
         tra fio -- ri~e l'er -- ba,
     \ijLyrics
@@ -232,8 +232,8 @@ tenoreLyricsXIII = \lyricmode {
         a pri -- ma -- ve -- ra,
     Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
         a pri -- ma -- ve -- ra,
-    dol -- ce -- men -- te can -- tan -- do,
-    dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra.
+    Dol -- ce -- men -- te can -- tan -- do,
+    Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra.
 }
 
 bassoXIIIincipit = \relative c, {
@@ -275,31 +275,31 @@ bassoXIII = \relative c, {
 bassoLyricsXIII = \lyricmode {
     Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
         la sta -- gion no -- vel -- la,
-    or ch'a noi tor -- na la sta -- gion no -- vel -- la,
+    Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
         la sta -- gion no -- vel -- la
     Gli~au -- gei, le fie -- re e tut -- ti gli~a -- ni -- ma -- li
     Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
-    sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
+    Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
     Te so -- la~A -- mor non pun -- ge,
 %    Più cru -- da~in cia -- scun tem -- po e più su -- per -- ba;
     Co -- sì di -- cea Da -- mon,
     \ijLyrics
-    co -- sì di -- cea Da -- mon 
+    Co -- sì di -- cea Da -- mon 
     \normalLyrics
         tra fio -- ri~e l'er -- ba,
     \ijLyrics
         tra fio -- ri~e l'er -- ba,
     \normalLyrics
         tra fio -- ri~e l'er -- ba
-    co -- sì di -- cea Da -- mon,
-    co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
+    Co -- sì di -- cea Da -- mon,
+    Co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
         tra fio -- ri~e l'er -- ba,
     \ijLyrics
         tra fio -- ri~e l'er -- ba
     \normalLyrics
 
     Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
-    dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
+    Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
         a pri -- ma -- ve -- ra.
 }
 
@@ -345,12 +345,12 @@ quintoLyricsXIII = \lyricmode {
     Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
         la sta -- gion no -- vel -- la
     Gli~au -- gei, le fie -- re,
-    gli~au -- gei, le fie -- re e tut -- ti gli~a -- ni -- ma -- li
+    Gli~au -- gei, le fie -- re e tut -- ti gli~a -- ni -- ma -- li
     Sen -- ton d'a -- mor,
-    sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
+    Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
         i dol -- ci a -- cu -- ti stra -- li,
     Te so -- la~A -- mor non pun -- ge, 
-    te so -- la~A -- mor non pun -- ge, 
+    Te so -- la~A -- mor non pun -- ge, 
         e più su -- per -- ba;
     Co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
         tra fio -- ri~e l'er -- ba,
@@ -358,14 +358,14 @@ quintoLyricsXIII = \lyricmode {
         tra fio -- ri~e l'er -- ba
     \normalLyrics
             a pri -- ma -- ve -- ra;
-    co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
+    Co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
         tra fio -- ri~e l'er -- ba,
     \ijLyrics
         tra fio -- ri~e l'er -- ba
     \normalLyrics
     Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra;
         a pri -- ma -- ve -- ra;
-    dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra;
+    Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra;
         can -- tan -- do~a pri -- ma -- ve -- ra.
 }
 
@@ -413,16 +413,16 @@ sestoXIII = \relative c' {
 
 sestoLyricsXIII = \lyricmode {
     Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
-    or ch'a noi tor -- na la sta -- gion no -- vel -- la,
+    Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
     \ijLyrics
-    or ch'a noi tor -- na la sta -- gion no -- vel -- la,
+    Or ch'a noi tor -- na la sta -- gion no -- vel -- la,
     \normalLyrics
     Gli~au -- gei, le fie -- re e tut -- ti gli~a -- ni -- ma -- li
     Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti,
-    sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
+    Sen -- ton d'a -- mor i dol -- ci~a -- cu -- ti stra -- li,
         i dol -- ci~a -- cu -- ti stra -- li,
-%    Te so -- la~A -- mor non pun -- ge, ò d'o -- gni fie -- ra
-        ò d'o -- gni fie -- ra
+%    Te so -- la~A -- mor non pun -- ge, o d'o -- gni fie -- ra
+        o d'o -- gni fie -- ra
     Più cru -- da~in cia -- scun tem -- po e più su -- per -- ba,
     Co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
         tra fio -- ri~e l'er -- ba
@@ -430,9 +430,9 @@ sestoLyricsXIII = \lyricmode {
 
     Co -- sì di -- cea Da -- mon tra fio -- ri~e l'er -- ba,
         tra fio -- ri~e l'er -- ba
-    dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
+    Dol -- ce -- men -- te can -- tan -- do~a pri -- ma -- ve -- ra,
         a pri -- ma -- ve -- ra,
-    dol -- ce -- men -- te can -- tan -- do,
+    Dol -- ce -- men -- te can -- tan -- do,
         can -- tan -- do~a pri -- ma -- ve -- ra.
 }
 

@@ -15,7 +15,7 @@
     needtranslation = #'f
     language = "italian"
     folio = "Bernardo Tasso (1493-1569)"
-    poeticform = "ottava_rima"
+    poeticform = "ottava rima"
 
     % Unchanging:
     originallyset = "2014-12-09"

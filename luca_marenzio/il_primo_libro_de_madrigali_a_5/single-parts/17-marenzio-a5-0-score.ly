@@ -13,6 +13,7 @@
     title = "Partirò dunque, ohimè mi manca il core"
     instrument = "Partirò dunque (score)"
     needtranslation = #'f
+    poeticform = "madrigal"
     language = "italian"
 
     % Unchanging:

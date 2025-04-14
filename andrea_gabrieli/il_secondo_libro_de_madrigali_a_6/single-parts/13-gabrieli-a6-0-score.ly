@@ -14,7 +14,7 @@
     subtitle = ""
     instrument = "Or ch'a noi torna la stagion novella:  (score)"
     categories = "[madrigal]"
-    motifs = "[pastoral,cupid]"
+    motifs = "[pastoral,cupid,amore,disdain]"
     needtranslation = #'f
     language = "italian"
     shortcomp = "a_gabrieli"
@@ -103,19 +103,20 @@
                 \line { Or ch'a noi torna la stagion novella }
                 \line { gli augei, le fiere e tutti gli animali }
                 \line { senton d'amor i dolci acuti strali, }
-                \line { te sola Amor non punge, ò d'ogni fiera }
+                \line { te sola Amor non punge, o d'ogni fiera }
                 \line { più cruda in ciascun tempo e più superba; }
                 \line { Così dicea Damon tra fiori e l'erba }
                 \line { dolcemente cantando a primavera. }
             }
             \column {
                 % modified 2023-06-17
+                % modified again 2025-04-13 (wrong tense)
                 \line { Now that the new season returns to us, }
                 \line { the birds, the beasts and all the animals }
                 \line { feel the sweet and sharp darts of Cupid; }
                 \line { To only you Love does not strike, of each beast }
                 \line { the most cruel of any ever, and the most disdainful; }
-                \line { So says Damon among flowers and the grass }
+                \line { So said Damon among flowers and the grass }
                 \line { sweetly singing in spring. }
                 \line { \hspace #10 \italic { translation by editor } }
             }

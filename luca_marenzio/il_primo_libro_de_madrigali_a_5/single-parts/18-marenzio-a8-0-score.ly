@@ -18,6 +18,7 @@
     instrument = "O tu che fra le selve (score)"
     needtranslation = #'f
     language = "italian"
+    poeticform = "villanella"
 
     % Unchanging:
     originallyset = "2014-12-14"

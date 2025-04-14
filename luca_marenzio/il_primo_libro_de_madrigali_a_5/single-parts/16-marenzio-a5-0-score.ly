@@ -13,6 +13,7 @@
     title = "Questa di verdi erbette"
     instrument = "Questa di verdi erbette (score)"
     needtranslation = #'f
+    poeticform = "madrigal"
     language = "italian"
 
     % Unchanging:

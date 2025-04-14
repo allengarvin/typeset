@@ -14,6 +14,7 @@
     instrument = "Che fa oggi il mio sole (score)"
     needtranslation = #'f
     language = "italian"
+    poeticform = "madrigal"
 
     % Unchanging:
     originallyset = "2014-12-13"
