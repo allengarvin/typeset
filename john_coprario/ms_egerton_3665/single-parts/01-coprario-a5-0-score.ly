@@ -84,5 +84,13 @@
             }
         }
     }   
+    \markup { 
+        \wordwrap {
+            Note: No texts exists for this piece. It is possible the title refers to the Battista Guarini poem
+            \italic { Crudel perché mi fuggi } (set by Marenzio, Monteverde, Pallavicino and several others), or another
+            Guarini poem \italic { Crudel perché non v'ami } (set by Pallavicino). Coprario was familiar with
+            Guarini and set at least one madrigal fantasia with a text from \italic { Il pastor fide. }
+        }
+    }
 }
 

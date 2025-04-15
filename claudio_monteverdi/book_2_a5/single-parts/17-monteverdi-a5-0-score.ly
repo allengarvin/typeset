@@ -17,6 +17,7 @@
     shorttitle = "crudel_perche_mi_fuggi"
     shortcomp = "monteverdi"
     needtranslation = #'f
+    sametext = #'( "856f1262b0385a5c22642632a0c4cdda04d7ac3f" "856f1262b0385a5c22642632a0c4cdda04d7ac3f" "8bd035a2c9312546fff1e8ffd3dd91b12d74fab6" )
     folio = "Giovanni Battista Guarini (1538-1612)"
 
     % Unchanging:
@@ -94,24 +95,26 @@
     \markup {
         \fill-line {
             \column {
-                \line { Crudel, perché mi fuggi? }
-                \line { S'hai della morte mia tanto desio? }
+                \line { Crudel, perché mi fuggi, }
+                \line { s'hai della morte mia tanto desio? }
                 \line { Tu sei pur il cor mio? }
-                \line { Creditu per fuggire, }
-                \line { crudel farmi morire? }
-                \line { Ah! Non si può morir senza dolore }
-                \line { e doler non si po' chi non ha core. }
+                \line { Credi tu, per fuggire, }
+                \line { crudel, farmi morire? }
+                \line { Ah, non si può morir senza dolore, }
+                \line { e doler non si può, chi non ha core. }
             }
-            \column {
-                \line { Heartless woman, why do you avoid me }
-                \line { if so strongly you desire my death? }
-                \line { Aren't you, after all, my heart? }
-                \line { Do you think, cruel one, }
-                \line { that by avoiding me you'll make me die? }
-                \line { Ha! One cannot die without pain, }
-                \line { and he who has no heart, can feel no pain. }
-                \line { \hspace #10 -translation by Campelli (CPDL license) }
-            }
+          \column {
+              % translation orig date: 2023-04-11
+              % translation updated:
+                \line { Cruel one, why do you flee from me, }
+                \line { if you desire my death so much? }
+                \line { Are you not indeed my heart? }
+                \line { Do you believe, by fleeing, }
+                \line { cruel one, to make me die? }
+                \line { Ah, one cannot die without pain, }
+                \line { nor can one feel pain, who has not a heart. }
+                \line { \hspace #10 \italic { translation by editor } }
+          }
         }
     }
 }

@@ -1,6 +1,7 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -m 108 -l italian -p cantata -v 06-bassani-a2-0-score.ly canto:t basso:b -t "Che mi giova dir"
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,39 +9,40 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2022-10-06"
-    originallyset = "2022-10-06"
+    lastupdated = "2025-04-14"
+    originallyset = "2025-04-14"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "No, no, ch'io non mi fido"
-    subtitle = "Sopra la ciaccona"
-    instrument = "No, no, ch'io non mi fido: Sopra la ciaccona (basso)"
+    title = "Che mi giova dir"
+    subtitle = "Aria sopra la Chiacona"
+    subsubtitle = ""
+    instrument = "Che mi giova dir:  (basso)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "no_no_chio_non_mi_fido"
-    shortcomp = "merula"
+    shorttitle = "che_mi_giova_dir"
+    shortcomp = "bassani"
+    folio = "Giovanni Battista Neri (1660-1726)"
 
     % Things that change per part:
-    partname = "Basso (part 2 of 3)"
-    instrument = "No, no, ch'io non mi fido: Sopra la ciaccona (basso)"
+    partname = "Continuo (part 2 of 2)"
+    instrument = "Che mi giova dir:  (basso)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/04-merula-a3-madrigal.ly"
+\include "../parts/06-bassani-a2-aria.ly"
 
 \book {
-    \bookOutputName "04-merula--no_no_chio_non_mi_fido-sopra_la_ciaccona"
+    \bookOutputName "06-bassani--che_mi_giova_dir-"
     \bookOutputSuffix "--2-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "bass"
             \global 
-            \bassoIV
+            \bassoVI
         >>
-                \addlyrics { \bassoLyricsIV }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

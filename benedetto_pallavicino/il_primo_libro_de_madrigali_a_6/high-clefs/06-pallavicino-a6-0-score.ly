@@ -6,26 +6,25 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 17.0)
+#(set-global-staff-size 17)
 
 \header {
-    lastupdated = "2023-04-11"
-    originallyset = "2023-04-11"
-    flats = 0
-    final = "a"
+    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
+    cksum = "4dff408e9b29d8bc17fc02792e57f92a898c72e6"
+    lastupdated = "2025-04-14"
+    originallyset = "2025-04-14"
     \include "include/distribution-header.ly"
-    cksum = "856f1262b0385a5c22642632a0c4cdda04d7ac3f"
     % Things that change per piece:
-    title = "Crudel, perché mi fuggi"
+    title = "Crudel perché mi fuggi"
     subtitle = ""
-    instrument = "Crudel, perché mi fuggi:  (score)"
+    subsubtitle = "transposed down"
+    instrument = "Crudel perché mi fuggi:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "crudel_perche_mi_fuggi"
-    shortcomp = "marenzio"
-    categories = "[madrigal]"
-    motifs = "[amore,cruel,heart]"
-    needtranslation = #'f
-    sametext = #'( "856f1262b0385a5c22642632a0c4cdda04d7ac3f" "856f1262b0385a5c22642632a0c4cdda04d7ac3f" "8bd035a2c9312546fff1e8ffd3dd91b12d74fab6" )
+    shortcomp = "pallavicino"
+    categories = "[]"
+    motifs = "[]"
+    needtranslation = #'t
     folio = "Giovanni Battista Guarini (1538-1612)"
 
     % Unchanging:
@@ -34,71 +33,71 @@
     tagline = #'f
 }
 
-\include "../parts/08-marenzio-a6-madrigal.ly"
+\include "../parts/06-pallavicino-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "08-marenzio--crudel_perche_mi_fuggi-"
-    \bookOutputSuffix "--0-score"
+    \bookOutputName "06-pallavicino--crudel_perche_mi_fuggi-"
+    \bookOutputSuffix "transposed--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #5.0
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoVIIIincipitVoice
+                    \incipit \cantoVIincipitVoice
                     \clef "treble"
-                    \global
-                    \cantoVIII
+                    \global\transpose f c
+                    \cantoVI
                 >>
-             \addlyrics { \cantoLyricsVIII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoVIIIincipitVoice
-                    \clef "treble"
-                    \global
-                    \quintoVIII
-                >>
-             \addlyrics { \quintoLyricsVIII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Alto"
-                    \incipit \altoVIIIincipitVoice
-                    \clef "treble"
-                    \global
-                    \altoVIII
-                >>
-             \addlyrics { \altoLyricsVIII }
+             \addlyrics { \cantoLyricsVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Sesto"
-                    \incipit \sestoVIIIincipitVoice
+                    \incipit \sestoVIincipitVoice
                     \clef "treble"
-                    \global
-                    \sestoVIII
+                    \global\transpose f c
+                    \sestoVI
                 >>
-             \addlyrics { \sestoLyricsVIII }
+             \addlyrics { \sestoLyricsVI }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Alto"
+                    \incipit \altoVIincipitVoice
+                    \clef "treble_8"
+                    \global\transpose f c
+                    \altoVI
+                >>
+             \addlyrics { \altoLyricsVI }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quinto"
+                    \incipit \quintoVIincipitVoice
+                    \clef "treble_8"
+                    \global\transpose f c
+                    \quintoVI
+                >>
+             \addlyrics { \quintoLyricsVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreVIIIincipitVoice
+                    \incipit \tenoreVIincipitVoice
                     \clef "treble_8"
-                    \global
-                    \tenoreVIII
+                    \global\transpose f c
+                    \tenoreVI
                 >>
-             \addlyrics { \tenoreLyricsVIII }
+             \addlyrics { \tenoreLyricsVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoVIIIincipitVoice
+                    \incipit \bassoVIincipitVoice
                     \clef "bass"
-                    \global
-                    \bassoVIII
+                    \global\transpose f c
+                    \bassoVI
                 >>
-             \addlyrics { \bassoLyricsVIII }
+             \addlyrics { \bassoLyricsVI }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 84 2)
+                tempoWholesPerMinute = #(ly:make-moment 86 2)
             }
         }
     }   
@@ -114,8 +113,8 @@
                 \line { e doler non si può, chi non ha core. }
             }
           \column {
-              % translation orig date: 2023-04-11
-              % translation updated:
+              % Master copy: Marenzio book IV
+              % SKIP
                 \line { Cruel one, why do you flee from me, }
                 \line { if you desire my death so much? }
                 \line { Are you not indeed my heart? }
@@ -128,4 +127,3 @@
         }
     }
 }
-

@@ -15,8 +15,8 @@
     cksum = "f04f444167bbe9d1f3e5b37c43ac2fab713d92b5"
     % Things that change per piece:
     title = "No, no, ch'io non mi fido"
-    subtitle = "Sopra la ciaconna"
-    instrument = "No, no, ch'io non mi fido: Sopra la ciaconna (score)"
+    subtitle = "Sopra la ciaccona"
+    instrument = "No, no, ch'io non mi fido: Sopra la ciaccona (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "no_no_chio_non_mi_fido"
     shortcomp = "merula"
@@ -33,7 +33,7 @@
 \include "../parts/04-merula-a3-madrigal.ly"
 
 \book {
-    \bookOutputName "04-merula--no_no_chio_non_mi_fido-sopra_la_ciaconna"
+    \bookOutputName "04-merula--no_no_chio_non_mi_fido-sopra_la_ciaccona"
     \bookOutputSuffix "--0-score"
     \score {
          <<
