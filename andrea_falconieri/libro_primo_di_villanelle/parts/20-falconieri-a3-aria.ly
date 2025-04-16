@@ -22,9 +22,9 @@
 % Volgimi il viso, ormai dolce e pietoso,
 % E da' riposo al mio grave martire—
 % O bella figlia non mi far morire!
-
+% 
 % volgimi: volgere
-
+% 
 % O pretty little one with the tresses of gold,
 % sweet relief for my every torment,
 % ah, grant contentment to my heavy suffering—
@@ -60,11 +60,11 @@ tenoreXXincipit = \relative c' {
 }
 
 %uniMark = #(define-music-function
-%  (letter) (markup?)
-%  #{
-%    <>^\markup
-%      \translate #'(0 . 2) #letter
-%  #})
+% (letter) (markup?)
+% #{
+%   <>^\markup
+%     \translate #'(0 . 2) #letter
+% #})
 
 uniMark = #(define-music-function
   (letter) (markup?)
@@ -72,7 +72,7 @@ uniMark = #(define-music-function
     ^\markup \translate #'(0 . 2) #letter
   #})
 
-% tenire: checked against source
+tenire: checked against source
 tenoreXX = \relative c' {
     \key f \major
     \time 3/2
@@ -132,7 +132,7 @@ bassoXXincipit = \relative c {
     f4
 }
 
-% basso: checked against source
+basso: checked against source
 bassoXX = \relative c {
     \key f \major
     \time 3/2
@@ -176,7 +176,7 @@ chitarraXX = \relative c' {
     \set Staff.midiMaximumVolume = #0.5
 
    %         g            b
-    s4 <c f a c f>2. <c e g c e>2
+    r4 <c f a c f>2. <c e g c e>2
    %    e              h                 b
     <a d a' d f>2 <bf f' bf d f> <a e' a c e> |
    %    g            b
