@@ -1,7 +1,7 @@
 % Usurpator tiranno
 % della tua libertà sia Lilla altrui
-% che da gli imperi sui non riceve
-% il mio amor perdita o danno.
+% che dagli imperi sui
+% non riceve il mio amor perdita o danno.
 % 
 % Faccia'l geloso amante
 % che non t'oda ben mio che non ti miri.
@@ -13,10 +13,10 @@
 % che non farà d'amore
 % abandoni già mai l'anima mia. 
 % 
-% Di sdegno in frà gli ardori
+% Di sdegno in fra gli ardori
 % armi la voce a strati miei rivolto;
 % non potrà far il stolto,
-% che se ben tù non m'ami, io non t'adori. 
+% che se ben tu non m'ami, io non t'adori. 
 % 
 % Ma che val ch'il rival
 % non mi possa impedir ch'io non ti brami,
@@ -43,11 +43,11 @@ cantoIIincipit = \relative c'' {
     \key c \major
     \time 9/4\doubleTimeSig \override Staff.TimeSignature #'style = #'modern \time 3/1
 
-    e1
+    e1*2
 }
 
+% canto: checked against source
 cantoII = \relative c'' {
-    \clef soprano
     \key c \major
     \time 3/1
 
@@ -57,7 +57,7 @@ cantoII = \relative c'' {
         \colorBr a1 \colorBrBegin ( b\breve \colorBrEnd ) | gs\breve. | 
         e1 e f | 
 
-    g\breve g1 | a( gs1. a2) | b\breve. | r1 r1 c | d d1. e2 | a,1 b c |
+    g\breve g1 | a( gs1. a2 | b\breve.) | r1 r1 c | d d1. e2 | a,1 b c |
         \slurOn \colorBr c1 \colorBrBegin ( b\breve\colorBrEnd ) |
         a\breve c1 | 
 
@@ -81,13 +81,13 @@ cantoII = \relative c'' {
         c1) a c | 
 
     b1( g b | a\breve) a1 | a\breve \slurOn gs1( | a\breve.) | 
-        R\breve.*6 | r1 r e' | 
+        R\breve.*3 R\breve.*3 | r1 r e' | 
     % --- page --- |
     \colorBr c1 \colorBrBegin a\breve\colorBrEnd | e\breve e1 | 
         \slurOn e\breve d1( | e\breve.) | c'1. b2 a1 | \slurOff
-        \[ b1( c) \] b1 | a b1. a2 | gs\breve b1 | 
+        \[ b1( c) \] b1 | a b1.( a2 | gs\breve) b1 | 
 
-    c1 b1.( c2 | d\breve. ~ | d\breve) a1 | 
+    c1( b1. c2 | d\breve. ~ | d\breve) a1 | 
         \colorBr c1 \colorBrBegin( b\breve \colorBrEnd ) | a\breve e'1 |
         e\breve b1 | \colorBr c1 \colorBrBegin d\breve |
         e1 b\breve \colorBrEnd | r1 e, e | 
@@ -95,13 +95,14 @@ cantoII = \relative c'' {
     e1 e e | e\breve fs1 | gs\breve. | r1 a a | b a b | c\breve d1 | 
         gs,\breve. | 
 
-    b\breve. | b | b | b | a | R\breve.*3 | r1 r1 c | b2( a g a b c |
+    b\breve. | b | b | b | a | R\breve.*2 | R\breve. | r1 r1 c |
+        b2( a g a b c |
     % --- page ---
-    a2 g2 f g a b | gs1) e e' | c2( b c d e f | g\breve) g,1 |
+    a2 g f g a b | gs1) e e' | c2( b c d e f | g\breve) g,1 |
         a\breve a1 | b1. a2 b1 | 
 
     c1. c2 c c | d\breve e1 | e\breve d1 | e\breve. | r1 f e | 
-        e e1. d2 | d1 c1. d2 | gs,\breve. | 
+        e e1. d2 | d1 c1.( d2 | gs,\breve.) | 
 
     r1 c a | b g b | a fs1.( a2 | gs\breve ) e1 | e e f | g g g |
 
@@ -126,12 +127,12 @@ cantoII = \relative c'' {
     R\breve.*3 | a1 e f | g\breve g1 \slurOn | a\breve( b1) \slurOff |
         gs1 gs gs | a gs1. a2 | b1 b( c |
 
-    d) a b | \colorBr c\colorBrBegin b\breve\colorBrEnd | a\breve c1 | 
+    d a) b | \colorBr c\colorBrBegin b\breve\colorBrEnd | a\breve c1 | 
         b\breve c1 | a\breve gs1 | b1 b2 b b b | c\breve b1 | 
         d1. g,2 g g | 
 
     a\breve gs1 | b\breve. | c1( b1. c2 | d\breve. ~ | d1) a b |
-        \colorBr c1\colorBrBegin b\breve\colorBrEnd | \time 2/2
+        \colorBr c1\colorBrBegin b\breve\colorBrEnd | \time 4/4
         \tempo 4 = 76
 
         a2 a4 a8[ a] a4. b8 g4 g | 
@@ -157,6 +158,67 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
+    U -- sur -- pa -- tor __ ti -- ran -- no
+    del -- la tua li -- ber -- tà __ sia Lil -- la,
+        sia Lil -- la al -- tru -- i
+    che da -- gli~im -- pe -- ri su -- i
+    non ri -- ce -- ve'l mio~a -- mor, __
+    non ri -- ce -- ve'l mio~a -- mor __ per -- di -- ta~o dan -- no.
+ 
+    Fac -- cia'l ge -- lo -- so~a -- man -- te __
+    che non t'o -- da,
+        non t'o -- da ben mio che __ non __ ti __ mi -- ri.
+    Sa -- ran -- no~i miei so -- spi -- ri,
+    sa -- ran -- no~i miei so -- spi -- ri
+    a suo di -- spet -- to, __
+    a suo di -- spet -- to __ d'a -- ma -- tor, __
+        d'a -- ma -- tor __ co -- stan -- te. __
+ 
+    Pro -- cu -- ri pur ch'io si -- a __
+    e -- su -- le dal __ tuo af -- fet -- to~e dal __ tuo co -- re,
+    che non fa -- rà d'a -- mo -- re
+    a -- ban -- do -- ni giam -- mai,
+        giam -- mai,
+    a -- ban -- do -- ni giam -- mai,
+        giam -- mai l'a -- ni -- ma mi -- a. 
+ 
+    Di sde -- gno in fra gli~ar -- do -- ri
+    ar -- mi la vo -- ce a stra -- ti miei ri -- vol -- to; 
+    non po -- trà far il stol -- to, __
+    che se ben tu non m'a -- mi, __
+        se ben tu non m'a -- mi, 
+        se ben tu non m'a -- mi, i -- o non t'a -- do -- ri. 
+
+    Ma che val,
+    \ijLyrics
+    Ma che val
+    \normalLyrics
+        ch'il ri -- val
+    non mi pos -- sa~im -- pe -- dir,
+    non mi pos -- sa~im -- pe -- dir ch'io non ti bra -- mi,
+    se per far ch'io non a -- mi __
+    l'a -- do -- rar gio -- va po -- co __ a -- mar __ non va -- le. __
+ 
+    Me -- ta de tuoi di -- let -- ti
+    fat -- to~e no -- vo~a -- ma -- tor va -- go~e fe -- li -- ce
+    a cui con -- ce -- de~e li -- ce
+    il tuo vo -- ler del cor,
+    il tuo vo -- ler del cor gli~ul -- ti -- mi a -- cen -- ti. 
+
+    Se -- gua -- ne ciò che vuo -- le;
+    a -- do -- re -- rò co -- m'a -- do -- rai'l tuo no -- me,
+    le lu -- ci tue, le chio -- me
+    sa -- ran -- no del mio cor ca -- te -- na~e so -- le.
+ 
+    Si pur Lil -- la cru -- de -- le;
+    ten -- ti per tor -- men -- tar -- mi~an -- go -- sc'e~af -- fan -- ni;
+    non mi da -- ran -- no gli~an -- ni
+    al -- tro ti -- to -- lo ma -- i, __
+    al -- tro ti -- to -- lo ma -- i, __
+        mai,
+        mai,
+        che di fe -- de -- le, __
+    al -- tro ti -- to -- lo ma -- i __ che __ di fe -- de -- le. __
 }
 
 bassoIIincipit = \relative c' {
@@ -167,8 +229,8 @@ bassoIIincipit = \relative c' {
     a\breve.*1/2
 }
 
+% basso: checked against source
 bassoII = \relative c' {
-    \clef bass
     \key c \major
     \time 3/1
 
@@ -218,7 +280,7 @@ bassoII = \relative c' {
     g\breve. f e | a g f e | a g
 
     f e | a g f e | a g f e | a g f e | 
-        \time 2/2 a,2 a | a e' |
+        \time 4/4 a,2 a | a e' |
 
         e1 e2 a, | b1 | e | a2 g | d
 
