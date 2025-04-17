@@ -1,4 +1,4 @@
-% Accenti queruli,
+% Accenti queruli
 % spiegate all'aure,
 % o augelletti garruli,
 % com'io lamenti,
@@ -23,7 +23,7 @@
 % vi darà vita;
 % né più sì audace
 % dirà: «non merta aita,
-% ma all'audace in amor dò pace e vita.»
+% ma all'audace in amor do pace e vita.»
 % 
 % Ch'in sguardo rigido
 % bellezze angeliche
@@ -37,9 +37,52 @@
 % Dirà così la misera,
 % e voi sospiri, rispondete a lei:
 % «Lidia: se taci, ancor vergine sei,
-% ché quando sfogai teco l'ardor mio,
+% che quando sfogai teco l'ardor mio,
 % altri non fu che Lidia, Amor ed io.»
 
+% Querulous notes
+% spread on the breezes,
+% O chattering little birds,
+% like me, my laments,
+% hot sighs,
+% vital breaths of my heart
+% I send from my breast to the winds.
+% My sighs, my breaths, o my laments:
+% 
+% Go, languid [sighs, breaths, laments]
+% in sorrowful requests
+% to my Lydia;
+% say that I expire,
+% say that I die
+% full of torment,
+% without fatal relief,
+% that I expire with lovesick suffering, say that I die.
+% 
+% For perhaps pleasant
+% her, who before was cold
+% to my weeping, to my moans,
+% she will give you [laments, etc] peace,
+% she will give you life,
+% no longer so bold
+% she shall say: 'He does not deserve help,
+% but to the bold in love I give peace and life.'
+% 
+% For in her stern glance,
+% angelic beauties
+% he seized from her soul,
+% he drew from her passion,
+% he tore her fair veil,
+% he stole her honor
+% with feigned zeal.
+% 'O my passion! O my honor! My torn veil!'
+% 
+% So shall the miserable one say,
+% and you, sighs, will respond to her:
+% 'Lydia, if you be silent, you will still be a virgin,
+% for when I poured out my ardor with you,
+% there were no others there but Lydia, Love, and I.
+
+% furò: furare (archaic form of rubare)
 cantoIVincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
@@ -125,7 +168,7 @@ cantoIV = \relative c'' {
 }
 
 cantoLyricsIV = \lyricmode {
-    Ac -- cen -- ti que -- ru -- li,
+    Ac -- cen -- ti que -- ru -- li
     spie -- ga -- te~al -- l'au -- re, __
     O au -- gel -- let -- ti,
     O au -- gel -- let -- ti gar -- ru -- li,
@@ -173,19 +216,19 @@ cantoLyricsIV = \lyricmode {
     di -- rà,
     di -- rà: non mer -- ta~a -- i -- ta,
     ma,
-    ma al -- l'au -- da -- ce~in a -- mor dò pa -- ce,
-        al -- l'au -- da -- ce~in a -- mor dò pa -- ce,
-            dò pa -- c'e vi -- ta.
+    ma al -- l'au -- da -- ce~in a -- mor do pa -- ce,
+        al -- l'au -- da -- ce~in a -- mor do pa -- ce,
+            do pa -- c'e vi -- ta.
 
     Ch'in sguar -- do ri -- gi -- do
     bel -- lez -- ze~an -- ge -- li -- che
     fu -- rò del -- l'a -- ni -- ma,
     tras -- se l'ar -- do -- re,
     squar -- ciò'l bel ve -- lo,
-    ru -- bò l'o -- no -- re __
-    con fin -- to ze -- lo.
+    ru -- bò l'o -- no -- re. __
+    Con fin -- to ze -- lo,
     \ijLyrics
-    con fin -- to ze -- lo.
+    con fin -- to ze -- lo:
     \normalLyrics
     O mio~ar -- dor! o mio~o -- nor! squar -- cia -- to __ ve -- lo!
     O mio~ar -- dor! o __ mio~o -- nor! squar -- cia -- to ve -- lo!
@@ -195,7 +238,7 @@ cantoLyricsIV = \lyricmode {
     Li -- dia,
     Li -- dia: se ta -- ci~an -- cor,
     Li -- dia: se ta -- ci~an -- cor ver -- gi -- ne se -- i,
-    ché quan -- do sfo -- gai te -- co l'ar -- dor mi -- o,
+    che quan -- do sfo -- gai te -- co l'ar -- dor mi -- o,
     al -- tri non fu che Li -- dia,
         che Li -- dia, A -- mor ed i -- o.
 }
@@ -208,6 +251,7 @@ bassoIVincipit = \relative c' {
     c1.*1/3
 }
 
+% basso + continuo: checked against source
 bassoIV = \relative c' {
     \clef bass
     \key c \major
@@ -255,6 +299,12 @@ bassoIV = \relative c' {
 
     c2 f, | f c' | c1 | a | e' | a2 g | g4. e8 d4 e | g1 | c,\fermata
     \bar "|."
+}
+
+continuoIV = \figuremode {
+    \override Staff.BassFigureAlignmentPositioning.direction = #DOWN
+    s\breve.*94
+    s1*7 | <_+>1 | s1*2 | s2 <_-> |
 }
 
 cantoIVincipitVoice = <<
