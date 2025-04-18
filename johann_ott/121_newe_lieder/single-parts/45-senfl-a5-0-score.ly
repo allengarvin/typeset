@@ -1,10 +1,10 @@
 \version "2.22.1"
 \include "english.ly"
 
-\include "../include/paper-1-score.ly" 
-\include "../include/global-score.ly" 
-\include "../include/macros.ly" 
-\include "../include/scheme.ly" 
+\include "../include/paper-1-score.ly"
+\include "../include/global-score.ly"
+\include "../include/macros.ly"
+\include "../include/scheme.ly"
 
 #(set-global-staff-size 14.5)
 
@@ -25,7 +25,7 @@
     shorttitle = "was_wird_es_doch"
     shortcomp = "senfl"
     composer = "Ludwig Senfl (c.1486-c.1543)"
-    categories = "[]"
+    categories = "[favorite]"
     motifs = "[]"
     needtranslation = #'t
 
@@ -93,10 +93,18 @@
                 tempoWholesPerMinute = #(ly:make-moment 144 2)
             }
         }
-    }   
+    }
     \markup {
         \fill-line {
             \column {
+                \line { Was wird es doch }
+                \line { so gar ein seltsams Leben. }
+                \line { Gut Wort arg Tück, }
+                \line { viel Grüß bös Blick, }
+                \line { ist jetz der Sitt' auff Erden. }
+                \line { Es günd Keiner mer }
+                \line { dem andern eer, }
+                \line { Was will noch daraus werden? }
             }
         }
     }

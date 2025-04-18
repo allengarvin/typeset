@@ -13,6 +13,8 @@
     cksum = "19d957473a72a15be53504089b0bb4cb503203b0"
     lastupdated = "2025-04-17"
     originallyset = "2025-04-17"
+    flats = 0
+    final = "a"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Usurpator tiranno"
