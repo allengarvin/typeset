@@ -13,6 +13,8 @@
     cksum = "48c6f5c48727f007eae3c97157bec8b49d4e0fdf"
     lastupdated = "2025-04-19"
     originallyset = "2025-04-19"
+    flats = 0
+    final = "c"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Will niemand singen"

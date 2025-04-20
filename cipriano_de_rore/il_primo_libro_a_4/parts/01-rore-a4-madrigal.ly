@@ -81,10 +81,10 @@ cantoLyricsI = \lyricmode {
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi
     L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po, __
         che ri -- no -- va~il tem -- po,
-    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
-        l'er -- be~e~i ra -- mi, __
-    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
-        l'er -- be~e~i ra -- mi. __
+    E fio -- rian per le piag -- ge l'er -- b'e~i ra -- mi,
+        l'er -- b'e~i ra -- mi, __
+    E fio -- rian per le piag -- ge l'er -- b'e~i ra -- mi,
+        l'er -- b'e~i ra -- mi. __
 }
 
 altoIincipit = \relative c' {
@@ -129,8 +129,8 @@ altoLyricsI = \lyricmode {
     L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
         che ri -- no -- va~il tem -- po,
     E fio -- rian per le piag -- ge __ 
-    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi, __
-    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi.
+    E fio -- rian per le piag -- ge l'er -- b'e~i ra -- mi, __
+    E fio -- rian per le piag -- ge l'er -- b'e~i ra -- mi.
 }
 
 tenoreIincipit = \relative c' {
@@ -169,10 +169,10 @@ tenoreLyricsI = \lyricmode {
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi
     L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
     E fio -- rian per le piag -- ge,
-    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
-        l'er -- be~e~i ra -- mi,
-    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi,
-        l'er -- be~e~i ra -- mi.
+    E fio -- rian per le piag -- ge l'er -- b'e~i ra -- mi,
+        l'er -- b'e~i ra -- mi,
+    E fio -- rian per le piag -- ge l'er -- b'e~i ra -- mi,
+        l'er -- b'e~i ra -- mi.
 }
 
 bassoIincipit = \relative c' {
@@ -208,8 +208,8 @@ bassoLyricsI = \lyricmode {
     E di -- sgom -- bra -- va già di ne -- ve~i pog -- gi
     L'au -- ra~a -- mo -- ro -- sa che ri -- no -- va~il tem -- po,
     E fio -- rian per le piag -- ge, __
-    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi, __
-    E fio -- rian per le piag -- ge l'er -- be~e~i ra -- mi.
+    E fio -- rian per le piag -- ge l'er -- b'e~i ra -- mi, __
+    E fio -- rian per le piag -- ge l'er -- b'e~i ra -- mi.
 }
 
 cantoIincipitVoice = <<
