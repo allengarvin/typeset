@@ -23,6 +23,7 @@
     lastupdated = "2016-03-12"
     flats = 1
     final = "d"
+    categories = "[canon]"
     shorttitle = "a_que_ville__canon"
     \include "include/distribution-header.ly"
     cksum = "84f21d180b3b30e692dc13729ea020c1349d95f8"

@@ -22,7 +22,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "la_bella_man_vi_stringo"
     shortcomp = "marenzio"
-    categories = "[madrigal]"
+    categories = "[madrigal,canon]"
     needtranslation = #'f
     folio = "Giovanni Battista Guarini (1538-1612)"
 

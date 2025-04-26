@@ -19,6 +19,7 @@
     needtranslation = #'t
 
     % Unchanging:
+    categories = "[canon]"
     language = "latin"
     lastupdated = "2021-09-13"
     originallyset = "2021-09-13"

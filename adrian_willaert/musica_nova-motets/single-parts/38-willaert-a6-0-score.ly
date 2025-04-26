@@ -20,7 +20,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "aspice_domine_quia_facta_est"
     shortcomp = "willaert"
-    categories = "[]"
+    categories = "[canon]"
     needtranslation = #'f
     final = "c"
     flats = 2

@@ -16,6 +16,7 @@
 
     % Things that change per part:
     instrument = "L'Homme Armé (score)"
+    categories = "[canon]"
 
     % Unchanging:
     originallyset = "2012-12-27"

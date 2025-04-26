@@ -20,6 +20,7 @@
     lastupdated = "2016-02-20"
     flats = 1
     final = "f"
+    categories = "[canon]"
     shorttitle = "regina_coeli_letare"
     \include "include/distribution-header.ly"
     cksum = "6b2d19b9543d8b7d87474173c6ee5e5eea937d7e"

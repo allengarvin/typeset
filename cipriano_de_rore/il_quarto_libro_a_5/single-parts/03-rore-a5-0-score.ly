@@ -24,7 +24,7 @@
     final = "c"
     rhyme = "ABABABCC"
     shorttitle = "alcun_non_puo_saper"
-    categories = "[madrigal,furioso]"
+    categories = "[madrigal,furioso,canon]"
     motifs = "[fortune,friendship,faithfulness]"
     \include "include/distribution-header.ly"
     cksum = "4ea003b35efffbed1e07f567992e812384c24549"

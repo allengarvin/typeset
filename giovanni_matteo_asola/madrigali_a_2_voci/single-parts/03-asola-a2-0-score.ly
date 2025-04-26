@@ -20,7 +20,7 @@
     flats = 1
     final = "g"
     shorttitle = "or_che_la_terra_di_fioretti_e_fronde"
-    categories = "[madrigal]"
+    categories = "[madrigal,canon]"
     \include "include/distribution-header.ly"
     cksum = "cb71aa8cca4904a34fc4a3615aef58051fa2b3b1"
     tagline = #'f

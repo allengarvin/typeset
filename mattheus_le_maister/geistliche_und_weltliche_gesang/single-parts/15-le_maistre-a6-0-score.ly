@@ -15,6 +15,7 @@
     instrument = "Nu bitten wir den heiligen Geist (score)"
 
     % Unchanging:
+    categories = "[canon]"
     originallyset = "2017-09-17"
     lastupdated = "2017-09-17"
     flats = 1

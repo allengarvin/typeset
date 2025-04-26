@@ -14,6 +14,7 @@
     language = "instrumental"
     composer = "Anonymous"
     instrument = "O venus pandt (score)"
+    categories = "[canon]"
 
     % Unchanging:
     originallyset = "2018-09-22"

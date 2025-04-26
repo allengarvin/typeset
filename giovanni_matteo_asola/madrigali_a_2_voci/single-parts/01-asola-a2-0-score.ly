@@ -27,7 +27,7 @@
     flats = 1
     final = "f"
     shorttitle = "cantan_fra_rami"
-    categories = "[madrigal,furioso]"
+    categories = "[madrigal,furioso,canon]"
     motifs = "[bird]"
     \include "include/distribution-header.ly"
     cksum = "051211af79b8d0568bd6fbf63b71c24129277ef5"

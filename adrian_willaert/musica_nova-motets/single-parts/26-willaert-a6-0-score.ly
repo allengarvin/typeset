@@ -24,7 +24,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "veni_sancte_spiritus"
     shortcomp = "willaert"
-    categories = "[]"
+    categories = "[canon]"
     motifs = "[]"
     needtranslation = #'t
     folio = "Sequence to the Holy Spirit. Attr. Stephen Langton (c.1160-1228)"

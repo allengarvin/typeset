@@ -22,6 +22,7 @@
     lastupdated = "2017-08-28"
     shorttitle = "jay_pris_amours"
     \include "include/distribution-header.ly"
+    categories = "[canon]"
     cksum = "57fa8e74fddf123361b87e47adced8dd56f6960c"
     tagline = #'f
 }

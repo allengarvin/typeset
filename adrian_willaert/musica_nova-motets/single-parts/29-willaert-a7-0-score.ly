@@ -16,6 +16,7 @@
     instrument = "Inviolata, integra et casta (score)"
 
     % Unchanging:
+    categories = "[canon]"
     originallyset = "2016-07-09"
     lastupdated = "2016-07-09"
     flats = 1

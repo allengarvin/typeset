@@ -21,6 +21,7 @@
     flats = 0
     final = "d"
     shorttitle = "canon"
+    categories = "[canon]"
     \include "include/distribution-header.ly"
     cksum = "afcfccb9577763cbe61e667f4a6134e3b9a9cd71"
     tagline = #'f

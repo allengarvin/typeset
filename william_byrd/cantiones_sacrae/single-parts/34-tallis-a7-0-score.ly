@@ -18,6 +18,7 @@
     shortcomp = "tallis"
     composer = "Thomas Tallis (c.1505-1585)"
     needtranslation = #'f
+    categories = "[canon]"
 
     % Unchanging:
     language = "latin"

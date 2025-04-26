@@ -14,6 +14,7 @@
     language = "latin"
     subtitle = "Secunda pars"
     instrument = "Tua per precata dulcisona (score)"
+    categories = "[canon]"
 
     % Unchanging:
     originallyset = "2016-07-09"

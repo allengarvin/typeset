@@ -15,6 +15,7 @@
     instrument = "O lux beata Trinitas (score)"
     composer = "William Byrd (c.1540-1623)"
     folio = "Vespers hymn for Trinity Sunday" 
+    categories = "[canon]"
 
     % Unchanging:
     originallyset = "2017-08-14"

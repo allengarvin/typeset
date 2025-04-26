@@ -17,6 +17,8 @@
     flats = 0
     folio = "A canon of 21 voices set against the chant Miserere"
 
+    categories = "[canon]"
+
     % Unchanging:
     originallyset = "2018-08-18"
     lastupdated = "2018-08-18"

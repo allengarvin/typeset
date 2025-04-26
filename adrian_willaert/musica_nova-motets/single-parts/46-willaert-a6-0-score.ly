@@ -15,6 +15,7 @@
     language = "latin"
     instrument = "Quanti mercenarii (score)"
     folio = "Responsory for 2nd Saturday of Lent"
+    categories = "[canon]"
 
     % Unchanging:
     originallyset = "2017-09-09"

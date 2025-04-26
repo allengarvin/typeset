@@ -15,6 +15,7 @@
     instrument = "O lux beata Trinitas (score)"
     composer = "Alfonso Ferrabosco, Sr. (1543-1588)"
 
+    categories = "[canon]"
     folio = "Vespers hymn for Trinity Sunday"
 
     % Unchanging:

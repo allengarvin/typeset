@@ -27,7 +27,7 @@
     flats = 1
     final = "c"
     shorttitle = "e_quella_a_fiori"
-    categories = "[madrigal,furioso]"
+    categories = "[madrigal,furioso,canon]"
     motifs = "[palace]"
     \include "include/distribution-header.ly"
     cksum = "0407b32e5889bc2ee436d9539be30e23ed1034fd"

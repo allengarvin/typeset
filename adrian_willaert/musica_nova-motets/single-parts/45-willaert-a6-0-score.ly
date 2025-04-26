@@ -15,6 +15,7 @@
     language = "latin"
     instrument = "Pater peccavi (score)"
     folio = "Responsory for 2nd Saturday of Lent"
+    categories = "[canon]"
 
 
     % Unchanging:
