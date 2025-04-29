@@ -46,3 +46,17 @@
     }
 }
 
+\book {
+    \bookOutputName "01-palestrina--vestiva_i_colli"
+    \bookOutputSuffix "--2-alto--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef alto
+            \global 
+            \altoI
+        >>
+        \addlyrics { \altoLyricsI }
+     %   \include "../include/vocal-layout-parts.ly"
+    }
+}

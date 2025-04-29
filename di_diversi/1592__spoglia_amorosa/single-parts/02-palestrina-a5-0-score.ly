@@ -109,7 +109,7 @@
                 \line { Thus, speaking softly, }
                 \line { he garlanded my tresses and with such sweet ties }
                 \line { bound my heart, that no other joy do I feel. }
-                \line { Thus never shall I I love him less }
+                \line { Thus never shall I love him less }
                 \line { in my eyes, nor shall my mind }
                 \line { call out, desiring, for sighs other than his. }
                 \line { \hspace #10 \italic { translation by editor } }

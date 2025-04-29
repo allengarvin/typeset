@@ -47,3 +47,18 @@
     }
 }
 
+\book {
+    \bookOutputName "02-palestrina--cosi_le_chiome_mie"
+    \bookOutputSuffix "--2-alto--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef alto
+            \global 
+            \altoII
+        >>
+        \addlyrics { \altoLyricsII }
+     %   \include "../include/vocal-layout-parts.ly"
+    }
+}
+

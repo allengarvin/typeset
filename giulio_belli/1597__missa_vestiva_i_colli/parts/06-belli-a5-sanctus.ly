@@ -11,7 +11,7 @@ cantusVI = \relative c'' {
     \key c \major
     \fourTwoCommonTime
 
-    \tempo 2 = 88
+    %\tempo 2 = 88
     a1 d ~ | d r2 d( | c4 a c d e2. d8[ c] | b4 a b2 cs4 d e2 ~ | e d) e1 ~|
         e 
 
@@ -25,8 +25,9 @@ cantusVI = \relative c'' {
     a2. gs8[ fs] gs2) | a1 r2 e' | f d1 cs2 | d\longa*1/2
     \bar "||"
     
-    \time 3/1
-        \tempo 2 = 268
+    \time 3/1 \threeWholeFromWhole
+    
+        %\tempo 2 = 268
         
 %         r1 r1 d | \colorBr f\colorBrBegin e d ~ | d cs \[ d ~ |
 %         d( bf\breve) \] | a\breve. \colorBrEnd | r1 r d | f e d ~ |
@@ -110,7 +111,7 @@ altusVI = \relative c' {
     f1) | e2 a2. a4 g2 | a2.( g4 f e e2 ~ | e d) e1 | r2 a d, e |
         a,( a'2. g4 e2) | fs\longa*1/2
     \bar "||"
-    \time 3/1
+    \time 3/1 \threeWholeFromWhole
         a1 c b | \colorBr a1\colorBrBegin g\breve\colorBrEnd | a\breve a1 |
         g e fs | a\breve g1 | a\breve a1 | r1 r1 d, | f e fs2( g |
 
@@ -175,7 +176,7 @@ tenorVI = \relative c' {
 
     f4 g a2 ~ | a4 g f2 e1) | d\longa*1/2
     \bar "||"
-    \time 3/1
+    \time 3/1 \threeWholeFromWhole
     R\breve. | r1 r1 d | f e d ~ | d cs d ~ | d a r1 | r1 r1 d |
         \colorBr f\colorBrBegin e d ~ | d cs d\colorBrEnd | a\breve r1 |
         R\breve. |
@@ -232,7 +233,7 @@ bassusVI = \relative c {
     a1 r1 | r2 a c bf | a1.( g2 | \[ f1 e \] | d1. cs2 | \[ d1 a') \] |
         d,\longa*1/2
     \bar "||"
-    \time 3/1
+    \time 3/1 \threeWholeFromWhole
         R\breve. | a'1 c b | a1.( g2 fs1) | g a d, | d' c b | a1. g2 f e |
         d1 a' b | a\breve r1 | 
 
@@ -287,7 +288,7 @@ quintusVI = \relative c'' {
     r2 a'2. a4 a2 ~ | a e1( d2) | e e a, b | c a r2 e' | f1. e2 | d1( e2 a,) |
         a\longa*1/2
     \bar "||"
-    \time 3/1
+    \time 3/1 \threeWholeFromWhole
     R\breve.*3 | r1 r d | \colorBr f1\colorBrBegin e d ~ | d cs d |
         a\breve\colorBrEnd r1 | r1 r1 d | f d e | f \[ d( e) \] |
         a,\breve r1 | 
