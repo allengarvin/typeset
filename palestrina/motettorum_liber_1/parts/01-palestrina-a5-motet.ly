@@ -16,8 +16,8 @@ cantusIincipit = \relative c'' {
     d\longa
 }
 
+% cantus: checked against source
 cantusI = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 
@@ -35,7 +35,7 @@ cantusI = \relative c'' {
     e1.( d4 c | d c c b8[ a] b2) b | a1 r1 | r2 d1 d2 | e1. e2 | d1 r2 d |
         e1 fs | g e | d\breve | R\breve*2 | r1
 
-    e1 ~ | e2 d c b | a1 b | R\breve*4 | d1 e | fs g | e d | r1 e ~ |
+    e1 ~ | e2 d c b | a1 b | R\breve*3 R\breve | d1 e | fs g | e d | r1 e ~ |
         e2 d c b | a1 g | R\breve | d'\breve | b2.( c4
 
     d1) | e d | c\breve | d\longa*1/2
@@ -43,21 +43,21 @@ cantusI = \relative c'' {
 }
 
 cantusLyricsI = \lyricmode {
-%    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um,
-%    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um!
-%    Cre -- a -- tor ge -- ne -- ris hu -- ma -- ni,
-%    Cre -- a -- tor ge -- ne -- ris hu -- ma -- ni,
+    O __ ad -- mi -- ra -- bi -- le com -- mer -- ci -- um,
+    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um!
+    Cre -- a -- tor ge -- ne -- ris hu -- ma -- ni,
+        ge -- ne -- ris hu -- ma -- ni,
 %    a -- ni -- ma -- tum cor -- pus su -- mens,
-%    a -- ni -- ma -- tum cor -- pus su -- mens
-%    de Vir -- gi -- ne na -- sci di -- gna -- tus est,
-%    de Vir -- gi -- ne na -- sci di -- gna -- tus est:
-%    et pro -- ce -- dens ho -- mo si -- ne se -- mi -- ne,
-%        si -- ne se -- mi -- ne,
+    a -- ni -- ma -- tum cor -- pus su -- mens __
+    de Vir -- gi -- ne na -- sci di -- gna -- tus __ est,
+        di -- gna -- tus est: __
+    et __ pro -- ce -- dens ho -- mo __ si -- ne se -- mi -- ne,
+        si -- ne se -- mi -- ne,
 %    lar -- gi -- tus est no -- bis,
+    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
 %    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
-%    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
-%    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
-%        su -- am De -- i -- ta -- tem.
+    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
+        su -- am __ De -- i -- ta -- tem.
 }
 
 altusIincipit = \relative c'' {
@@ -68,12 +68,12 @@ altusIincipit = \relative c'' {
     b\breve
 }
 
+% altus: checked against source
 altusI = \relative c'' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCutTime
 
-    b\breve | a | b1 b | c1. b2 | a1 b | g2.( a8[ b] c2) c | a\breve |
+    b\breve | a | b1 b | c1. b2 | a1 b( | g2. a8[ b] c2) c | a\breve |
         r1 d, | g e | 
 
     a4( g a b c2) c | b1 g | a1. a2 | g1 r2 b | c1 b2 c ~ | c b
@@ -94,26 +94,26 @@ altusI = \relative c'' {
     a1 | b c ~ | c2 b a g | f1 e2 g | a1 b | c r2 g | g4( f e d c2) c' ~ |
         c b a g ~ | g f g
 
-    e4( f | g e f g a2) g ~ | g\melfi fs4 e fs!1\melfiEnd | g\longa*1/2
+    e4( f | g e f g a2) g ~ | g\ficta fs4\melisma e fs!1\melfiEnd | 
+        g\breve~g~g~g\longa*1/2
     \bar "|."
 }
 
 altusLyricsI = \lyricmode {
-%    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um,
-%    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um!
-%    Cre -- a -- tor ge -- ne -- ris hu -- ma -- ni,
-%    Cre -- a -- tor ge -- ne -- ris hu -- ma -- ni,
-%    a -- ni -- ma -- tum cor -- pus su -- mens,
-%    a -- ni -- ma -- tum cor -- pus su -- mens
-%    de Vir -- gi -- ne na -- sci di -- gna -- tus est,
-%    de Vir -- gi -- ne na -- sci di -- gna -- tus est:
-%    et pro -- ce -- dens ho -- mo si -- ne se -- mi -- ne,
-%        si -- ne se -- mi -- ne,
+    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um,
+    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um!
+    Cre -- a -- tor ge -- ne -- ris hu -- ma -- ni,
+    a -- ni -- ma -- tum cor -- pus su -- mens __
+    de Vir -- gi -- ne na -- sci __ di -- gna -- tus est, __
+    de __ Vir -- gi -- ne na -- sci di -- gna -- tus __ est:
+    et pro -- ce -- dens ho -- mo si -- ne se -- mi -- ne,
+        si -- ne se -- mi -- ne,
 %    lar -- gi -- tus est no -- bis,
+    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
+            est no -- bis su -- am De -- i -- ta -- tem,
 %    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
-%    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
-%    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
-%        su -- am De -- i -- ta -- tem.
+    lar -- gi -- tus est no -- bis __ su -- am De -- i -- ta -- tem,
+        De -- i -- ta -- tem. __
 }
 
 tenorIincipit = \relative c' {
@@ -124,25 +124,25 @@ tenorIincipit = \relative c' {
     \[ g\breve d' \]
 }
 
+% tenor: checked against source
 tenorI = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
-    g\breve | d' | g, g | c1. g2 | d'1 g, | c1. c2 | d\breve | b | c1 c |
-        c1. c2 | d1
+    \[ g\breve( | d') \] | g,1 g | c1. g2 | d'1 g, | c1. c2 | d\breve | 
+        b | c1 c | c1. c2 | d1
 
-    c1 | a2.( b4 c2) a | b\breve | R\breve*2 | r1 r2 b | c1 b2 c ~ |
+    c1 | a2.( b4 c2) a | b\breve | R\breve R | r1 r2 b | c1 b2 c ~ |
         c b a g | a( b) c1 ~ | c r1 | R\breve | r1
 
-    r2 d ~ | d d e c | d e f1 | e c | f1. c2 | c1 d | a2 a b c | \[ a1( g) \]|
-        c1 r2 c | e1. d2 | d1
+    r2 d ~ | d d e c | d e f1 | e c | f1. c2 | c1 d | a2 a b c | \[ a1( g \]|
+        c1) r2 c | e1. d2 | d1
 
-    c1 | b2 c1 b2 | \[ g1( a) \] | g r2 g' ~ | g fs g e | f( g1 f2) |
-        e1 d | r2 b1 a2 | b c d e ~ | e4\melfi d d1 cs2\melfiEnd | 
+    c1 | b2 c1 b2 | \[ g1( a) \] | g r2 g' ~ | g fs g e | f( g1 f2 |
+        e1) d | r2 b1 a2 | b c d\melfi e ~ | e4 d d1 cs2\melfiEnd | 
     
     d1 r1 | R\breve*2 | r2 f1( e4 d | e2 f) g1 | e2.( f4 g2) g | g1 r1 |
-        R\breve*2 | r1 r2 b, | c1 a | g c | b r1 | R\breve | r1 r2 b |
+        R\breve R | r1 r2 b, | c1 a | g c | b r1 | R\breve | r1 r2 b |
 
     c1 g | g' c, | d2 e2.( d4 c b | a2) b c c | d1 g, | R\breve |
         r1 d' | e1. f2 | g1 c, | d e ~ | e2 d
@@ -152,21 +152,20 @@ tenorI = \relative c' {
 }
 
 tenorLyricsI = \lyricmode {
-%    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um,
-%    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um!
-%    Cre -- a -- tor ge -- ne -- ris hu -- ma -- ni,
-%    Cre -- a -- tor ge -- ne -- ris hu -- ma -- ni,
+    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um,
+    O ad -- mi -- ra -- bi -- le com -- mer -- ci -- um!
+    Cre -- a -- tor ge -- ne -- ris hu -- ma -- ni, __
 %    a -- ni -- ma -- tum cor -- pus su -- mens,
-%    a -- ni -- ma -- tum cor -- pus su -- mens
-%    de Vir -- gi -- ne na -- sci di -- gna -- tus est,
-%    de Vir -- gi -- ne na -- sci di -- gna -- tus est:
-%    et pro -- ce -- dens ho -- mo si -- ne se -- mi -- ne,
-%        si -- ne se -- mi -- ne,
-%    lar -- gi -- tus est no -- bis,
+    a -- ni -- ma -- tum cor -- pus su -- mens
+    de Vir -- gi -- ne na -- sci di -- gna -- tus est, __
+    de Vir -- gi -- ne na -- sci di -- gna -- tus __ est:
+    et __ pro -- ce -- dens ho -- mo,
+    et pro -- ce -- dens ho -- mo si -- ne se -- mi -- ne,
+    lar -- gi -- tus est no -- bis,
+    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
 %    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
-%    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
-%    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
-%        su -- am De -- i -- ta -- tem.
+    lar -- gi -- tus est no -- bis su -- am De -- i -- ta -- tem,
+        su -- am De -- i -- ta -- tem.
 }
 
 bassusIincipit = \relative c {
@@ -237,7 +236,7 @@ quintusI = \relative c'' {
     g'2 c, ~ | c g a b | c( d) g, g' | e1 e2 e ~ | e e f g | f2.( g4 a2) g |
         r2 c,1 c2 | g' e f d | 
 
-    c1 g' | g2. g4 g2 a | f g a1 | g g | a1. g2 | f1 e | e2 a g4( f e d |
+    c1 g' | g2. g4 g2 a | f g a1 | g g | a1. g2 | g1 f | e2 a g4( f e d |
         c1) d | e r2 e | 
 
     g1. g2 | g1 e ~ | e d | r2 g, d' d | b2.( c4 d1 ~ | d) r1 | R\breve |
