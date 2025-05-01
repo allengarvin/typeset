@@ -6,8 +6,8 @@ cantusIIIincipit = \relative c'' {
     c2
 }
 
+% cantus: checked against source
 cantusIII = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCutTime
 
@@ -15,7 +15,7 @@ cantusIII = \relative c'' {
         c2. c4 c2 a | 
 
     g2( f1) e2 | f c'1 a2 | d2.( c4 b2) c | c1. d2 | c1 c | bf2 a1( g2) |
-        a1 r1 | R\breve*2 | r2 g1 g2 | a2.( bf4
+        a1 r1 | R\breve R | r2 g1 g2 | a2.( bf4
 
     c2) d | f\breve | e2 f1 c2 | d2. d4 d2 c ~ | c c c1 | R\breve*2 |
         f1. e2 ~ | e d e e | f1 r1 | r1 r2 c ~ | c( b4 a
@@ -39,6 +39,35 @@ cantusIII = \relative c'' {
 }
 
 cantusLyricsIII = \lyricmode {
+%    Pa -- trem om -- ni -- po -- ten -- tem,
+%        om -- ni -- po -- ten -- tem,
+    Fa -- cto -- rem cæ -- li et ter -- ræ,
+%    vi -- si -- bi -- li -- um om -- ni -- um
+        et in -- vi -- si -- bi -- li -- um.
+    Et in u -- num Do -- mi -- num
+        Je -- sum Chri -- stum,
+%    Fi -- li -- um De -- i u -- ni -- ge -- ni -- tum,
+    et ex Pa -- tre na -- tum
+        an -- te om -- ni -- a sæ -- cu -- la.
+%    De -- um de De -- o, 
+        lu -- men __ de lu -- mi -- ne,
+    De -- um ve -- rum % de De -- o ve -- ro,
+    Ge -- ni -- tum, non fa -- ctum,
+        con -- sub -- stan -- ti -- a -- lem Pa -- tri:
+    per quem om -- ni -- a fa -- cta sunt.
+
+%    Qui pro -- pter nos ho -- mi -- nes
+    et pro -- pter no -- stram
+        sa -- lu -- tem de -- scen -- dit de cæ -- lis.
+
+    Et in -- car -- na -- tus est
+        de Spi -- ri -- tu San -- cto
+%    ex Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est.
+
+    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
+        sub Pon -- ti -- o Pi -- la -- to:
+    pas -- sus, et se -- pul -- tus est.
 }
 
 altusIIIincipit = \relative c' {
@@ -49,8 +78,8 @@ altusIIIincipit = \relative c' {
     f\breve
 }
 
+% altus: checked against source
 altusIII = \relative c' {
-    \clef mezzosoprano
     \key f \major
     \fourTwoCutTime
 
@@ -83,6 +112,35 @@ altusIII = \relative c' {
 }
 
 altusLyricsIII = \lyricmode {
+    Pa -- trem om -- ni -- po -- ten -- tem,
+%        om -- ni -- po -- ten -- tem,
+%    Fa -- cto -- rem cæ -- li et ter -- ræ,
+    vi -- si -- bi -- li -- um om -- ni -- um
+        et in -- vi -- si -- bi -- li -- um.
+    Et in u -- num Do -- mi -- num
+        Je -- sum Chri -- stum,
+    Fi -- li -- um De -- i u -- ni -- ge -- ni -- tum,
+    et ex Pa -- tre na -- tum
+        an -- te om -- ni -- a sæ -- cu -- la.
+%    De -- um de De -- o, 
+        lu -- men de lu -- mi -- ne,
+    De -- um ve -- rum de De -- o ve -- ro,
+%    Ge -- ni -- tum, non fa -- ctum,
+        con -- sub -- stan -- ti -- a -- lem Pa -- tri:
+    per quem om -- ni -- a fa -- cta sunt.
+
+    Qui pro -- pter nos ho -- mi -- nes
+    et pro -- pter no -- stram
+        sa -- lu -- tem de -- scen -- dit de cæ -- lis.
+
+    Et in -- car -- na -- tus est
+        de Spi -- ri -- tu San -- cto
+%    ex Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est.
+
+    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
+        sub Pon -- ti -- o Pi -- la -- to:
+    pas -- sus, et se -- pul -- tus est.
 }
 
 tenorIIIincipit = \relative c' {
@@ -93,16 +151,16 @@ tenorIIIincipit = \relative c' {
     c\breve
 }
 
+% tenor: checked against source
 tenorIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
     c\breve | a1. c2 | bf a bf( d | c2. bf4 a2 g4 f | g1) a | R\breve*2 |
         r2 c1 a2 | d2. d4 c1 | 
 
-    d1. e2 | f1 c2. c4 | c2 a c2. g4 | a1 r1 | R\breve*4 | r2 c2. c4 d2 |
-        e1 f2 f ~ | f d a4( bf c2 ~ | c) b c c ~ | c d
+    d1. e2 | f1 c2. c4 | c2 a c2. g4 | a1 r1 | R\breve R\breve*3 | 
+        r2 c2. c4 d2 | e1 f2 f ~ | f d a4( bf c2 ~ | c) b c c ~ | c d
 
     e2 f | d\breve | c2 f1 f2 | f2. f4 f2 f ~ | f e e g ~ | g e f d ~ |
         d4( e f1 e2) | f1 r1 | R\breve | r1 r2 c ~ | c( b4 a
@@ -119,12 +177,39 @@ tenorIII = \relative c' {
     e\breve | f1. g2 | f2.( e4 d2) d | c1 c | bf1. a2 | bf1 c | f, r1 | 
         f' d2 g ~ | g a f2. c4 | d1 r2 e |
 
-    f1. c2 | f2.( e4 d1 ~ | d) d | d r1 | R\breve*2 | r1 r2 c | a d c a |
+    f1. c2 | f2.( e4 d1 ~ | d) d | d r1 | R\breve R | r1 r2 c | a d c a |
         c1.( d2 | c1) c | r1 f ~ | f2 c d2. d4 | g,1 g | g\longa*1/2
     \bar "|."
 }
 
 tenorLyricsIII = \lyricmode {
+    Pa -- trem om -- ni -- po -- ten -- tem,
+%    Fa -- cto -- rem cæ -- li et ter -- ræ,
+    vi -- si -- bi -- li -- um om -- ni -- um
+        et in -- vi -- si -- bi -- li -- um.
+%    Et in u -- num Do -- mi -- num
+%        Je -- sum Chri -- stum,
+    Fi -- li -- um De -- i u -- ni -- ge -- ni -- tum,
+    et __ ex Pa -- tre na -- tum
+        an -- te om -- ni -- a sæ -- cu -- la.
+    De -- um de De -- o, % lu -- men de lu -- mi -- ne,
+    De -- um ve -- rum de De -- o ve -- ro,
+    Ge -- ni -- tum, non fa -- ctum,
+%        con -- sub -- stan -- ti -- a -- lem Pa -- tri:
+    per quem om -- ni -- a fa -- cta sunt.
+
+    Qui pro -- pter nos ho -- mi -- nes
+    et pro -- pter no -- stram
+        sa -- lu -- tem de -- scen -- dit de cæ -- lis.
+
+    Et in -- car -- na -- tus est
+        de Spi -- ri -- tu San -- cto
+    ex Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est.
+
+%    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
+        sub Pon -- ti -- o Pi -- la -- to:
+    pas -- sus, et se -- pul -- tus est.
 }
 
 bassusIIIincipit = \relative c {
@@ -135,13 +220,13 @@ bassusIIIincipit = \relative c {
     f\breve 
 }
 
+% bassus: checked against source
 bassusIII = \relative c {
-    \clef varbaritone
     \key f \major
     \fourTwoCutTime
 
-    R\breve | f | a1 d2 c ~ | c bf c( a | g1) c2 c | c c g'1 | f2 e d1 | 
-        g, r1 | R\breve*2 |
+    R\breve | f | d1 g2 f ~ | f e f( d | c1) f2 f | f f c'1 | bf2 a g1 | 
+        c, r1 | R\breve R |
 
     r2 f1 f2 | c d c2. c4 | f1 f | d2 g1 c,2 | f2.( g4 a2) bf | f f1 c'2 |
         d2.( c4 bf1) | a2 f2. f4 d2 | 
@@ -149,11 +234,11 @@ bassusIII = \relative c {
     c1 f | d1. e2 | f g c,1 | R\breve*2 | r2 f1 f2 | bf,2. bf4 bf2 f' ~ |
         f c c1 | c' a2 bf | bf2.( a4 g1) | f r2 c' ~ | c g
 
-    c2 a ~ | a bf f1 | g1. a2 | g\breve | g1 r1 | r2 c,1 c2 | f1 d |
+    c2 a ~ | a bf f1 | g1. a2 | g\breve | g1 r1 | R\breve | r2 c,1 c2 | f1 d |
         bf' a2 f ~ | f e f d | c1 f | \[ g( a) \] | 
 
-    d,2 bf1 bf2 | f'2. f4 f1 | c1. c'2 | d d g,1 | f2 bf, f' g | c1 r1 |
-        R\breve*2 | r1 r2 c | c4( bf a g
+    d,2 bf1 bf2 | f'2. f4 f1 | c1. g'2 | d d g1 | f2 bf, f' g | c,1 r1 |
+        R\breve*2 | r1 r2 c' | c4( bf a g
 
     f1) | f2 f f4( e d c | bf\breve) | f'\longa*1/2
     \bar "||"
@@ -167,6 +252,34 @@ bassusIII = \relative c {
 }
 
 bassusLyricsIII = \lyricmode {
+    Pa -- trem om -- ni -- po -- ten -- tem,
+    fa -- cto -- rem cæ -- li et ter -- ræ,
+%    vi -- si -- bi -- li -- um om -- ni -- um
+        et in -- vi -- si -- bi -- li -- um.
+    Et in u -- num Do -- mi -- num
+        Je -- sum Chri -- stum,
+    Fi -- li -- um De -- i u -- ni -- ge -- ni -- tum,
+%    et ex Pa -- tre na -- tum
+        an -- te om -- ni -- a sæ -- cu -- la.
+    De -- um de De -- o, lu -- men de lu -- mi -- ne,
+    De -- um ve -- rum % de De -- o ve -- ro,
+    Ge -- ni -- tum, non fa -- ctum,
+        con -- sub -- stan -- ti -- a -- lem Pa -- tri:
+    per quem om -- ni -- a fa -- cta sunt.
+
+    Qui pro -- pter nos ho -- mi -- nes
+%    et pro -- pter no -- stram
+%        sa -- lu -- tem 
+        de -- scen -- dit de cæ -- lis. 
+
+    Et in -- car -- na -- tus est
+%        De Spi -- ri -- tu San -- cto
+    ex __ Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est.
+%
+%    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
+        sub Pon -- ti -- o Pi -- la -- to:
+    pas -- sus, et se -- pul -- tus est.
 }
 
 quintusIIIincipit = \relative c' {
@@ -177,8 +290,8 @@ quintusIIIincipit = \relative c' {
     c2
 }
 
+% quintus: checked against source
 quintusIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
@@ -209,17 +322,7 @@ quintusIII = \relative c' {
 
     f' ~ | f bf, | c a2 d ~ | d4( c c1) b2 | c\longa*1/2
     \bar "||"
-%    R\breve*2 | r1 c | a2 c bf4( a bf c | d c c1 b2) | c 
-%    ,f1 bf2 | g1 a2.( bf4 | c1) f,2 f' | d1 d2 f | f1 g2 c, ~ | c b c2.( a4 |
-%        d1) c2 e | f2.( d4 g1) | f1 r1 | r1 
-%
-%    c1 | a2 d c2. bf4 | a1 g | f r2 f | c' c b c | 
-%        \[ a1( \colorBr d2.\colorBrBegin \] d4 \colorBrEnd | 
-%        c2 c f f | e f1 c2 | d4( e f1 e2 ) |
-%
-%    f f1 d2 ~ | d a bf1 ~ | bf2( a g2.) g4 | f1 r1 | R\breve | r2 f'1 d2 |
-%        g1 d2 d | c1 d | bf\breve | a\longa*1/2
-%    \bar "||"
+
 %    R\breve*2 | c1. c2 | d2. d4 e1 | f1. f2 | d2. d4 e2 c ~ | c4 c d1 c2 |
 %        g'1 c,2 f ~ | f d c b | 
 %
@@ -243,6 +346,35 @@ quintusIII = \relative c' {
 }
 
 quintusLyricsIII = \lyricmode {
+%    Pa -- trem om -- ni -- po -- ten -- tem,
+%        om -- ni -- po -- ten -- tem, 
+    Fa -- cto -- rem cæ -- li et ter -- ræ,
+    vi -- si -- bi -- li -- um om -- ni -- um
+%        et in -- vi -- si -- bi -- li -- um. 
+    Et in u -- num Do -- mi -- num
+        Je -- sum Chri -- stum, 
+    Fi -- li -- um De -- i u -- ni -- ge -- ni -- tum,
+%    et ex Pa -- tre na -- tum
+        an -- te om -- ni -- a sæ -- cu -- la.
+    De -- um de De -- o, lu -- men __ de lu -- mi -- ne,
+    De -- um ve -- rum de De -- o ve -- ro,
+    Ge -- ni -- tum, non fa -- ctum,
+        con -- sub -- stan -- ti -- a -- lem Pa -- tri:
+    per quem om -- ni -- a fa -- cta sunt.
+
+    Qui pro -- pter nos ho -- mi -- nes
+    et pro -- pter no -- stram
+        sa -- lu -- tem de -- scen -- dit de cæ -- lis.
+
+%    Et in -- car -- na -- tus est 
+        De Spi -- ri -- tu San -- cto
+    ex Ma -- ri -- a Vir -- gi -- ne: 
+    et ho -- mo fa -- ctus est.
+
+    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
+%        sub Pon -- ti -- o Pi -- la -- to:
+    pas -- sus, et se -- pul -- tus est.
+
 }
 
 cantusIIIincipitVoice = <<
