@@ -1,3 +1,20 @@
+% What is the polyphonic model?
+% Versions:
+% https://repim.itatti.harvard.edu/resource/repim:formSearch?semanticSearch=N4IgZiBcDaC6A0IBOBTAzgVwDYBcrAF9EATAQx1LRRzSjkVKwEsBzAOwFsU29JQAVKCAAi5UgDoAsqQCeAIxQhEANXwEiIFklIAHABYBlAMYB7HSgMpSSI3vwhBkEWKmyFSkKr7qCQA
+% NOT 1565 Cipriano/76 Ingegneri a4 (same piece, different attributions)
+% Not 1568 Anniable Come a5
+% somewhat similar to castro a3 (see 1582 print) but I don't think it is
+% note cornet a3 1574 in fleur de chansons--but that might be interesting)
+% I don't have Author: Moscaglia Giovanni Battista <1559-1590>
+%   Title: Il *Primo libro de madrigali a 4-6 v ... intitolati Gl'Amorosi Gigli con dua dialoghi a 8
+%   Edition: prima edizione
+% Not califano 1584 
+% The pordenone in RePIM is actually ingegneri
+% Not gesualdo
+% Marinis in 1604 is scanned and I have a copy. That's not it. 
+% Not Cifra 1621
+% Guess I can't know?
+
 cantusIincipit = \relative c'' {
     \clef "petrucci-g"
     \key f \major

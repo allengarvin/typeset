@@ -14,8 +14,8 @@
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Agnus Dei"
-    subtitle = "Missa vestiva i colli"
+    subtitle = "Agnus Dei"
+    title = "Missa vestiva i colli"
     subsubtitle = ""
     instrument = "Agnus Dei: Missa vestiva i colli (bassus)"
     headerspace = \markup { \vspace #2 }
