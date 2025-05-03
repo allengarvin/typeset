@@ -42,7 +42,7 @@ cantoLyricsXIV = \lyricmode {
     Te per -- se -- guii, te pre -- si, 
     \normalLyrics
         e te lon -- ta -- no
-    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    Dal -- l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 altoXIVincipit = \relative c'' {
@@ -89,7 +89,7 @@ altoLyricsXIV = \lyricmode {
     Te per -- se -- guii, te pre -- si~e 
     \normalLyrics
         te lon -- ta -- no
-    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    Dal -- l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 tenoreXIVincipit = \relative c' {
@@ -131,7 +131,7 @@ tenoreLyricsXIV = \lyricmode {
     Che per me fos -- se~il vo -- stro~im -- pe -- rio~o -- pres -- so;
     Te per -- se -- guii, te pre -- si, 
         e __ te lon -- ta -- no
-    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    Dal -- l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 bassoXIVincipit = \relative c' {
@@ -171,7 +171,7 @@ bassoLyricsXIV = \lyricmode {
     Che per me fos -- se~il vo -- stro~im -- pe -- rio~o -- pres -- so;
     Te per -- se -- guii, te pre -- si, 
         e te lon -- ta -- no
-    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    Dal -- l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 quintoXIVincipit = \relative c' {
@@ -216,7 +216,7 @@ quintoLyricsXIV = \lyricmode {
     Te per -- se -- guii, te pre -- si~e
     \normalLyrics
         te lon -- ta -- no
-    da l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
+    Dal -- l'ar -- mi tras -- si~in lo -- co~i -- gno -- to~e stra -- no.
 }
 
 cantoXIVincipitVoice = <<

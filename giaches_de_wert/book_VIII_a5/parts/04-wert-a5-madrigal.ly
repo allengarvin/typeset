@@ -48,7 +48,7 @@ cantoLyricsIV = \lyricmode {
     Mor -- mo -- ra l'au -- ra~e fa le fo -- glie~e l'on -- de
     Gar -- rir, Gar -- rir, \ijLyrics Gar -- rir, Gar -- rir, \normalLyrics
     Gar -- rir, che va -- ria -- men -- te~el -- la per -- co -- te
-    che va -- ria -- men -- te~el -- la per -- co -- te
+        che va -- ria -- men -- te~el -- la per -- co -- te
     Quan -- do tac -- cion gli~au -- gel -- li, al -- to ri -- spon -- de,
     Quan -- do can -- tan gli~au -- gei più lie -- ve sco -- te,
         più lie -- ve sco -- te.
@@ -109,9 +109,9 @@ altoLyricsIV = \lyricmode {
     Gar -- rir, \ijLyrics Gar -- rir, Gar -- rir, Gar -- rir, \normalLyrics
     Gar -- rir Gar -- rir, che va -- ria -- men -- te~el -- la per -- co -- te,
         che va -- ria -- men -- te~el -- la per -- co -- te per -- co -- te,
-    al -- to ri -- spon -- de,
-    \ijLyrics al -- to ri -- spon -- de, \normalLyrics
-    al -- to ri -- spon -- de,
+        al -- to ri -- spon -- de,
+        \ijLyrics al -- to ri -- spon -- de, \normalLyrics
+        al -- to ri -- spon -- de,
     Quan -- do can -- tan gli~au -- gei più lie -- ve sco -- te,
         più lie -- ve sco -- te,
         più lie -- ve sco -- te,
@@ -173,7 +173,7 @@ tenoreLyricsIV = \lyricmode {
     Gar -- rir, che va -- ria -- men -- te~el -- la per -- co -- te,
         che va -- ria -- men -- te~el -- la per -- co -- te,
 
-    al -- to ri -- spon -- de,
+        al -- to ri -- spon -- de,
     \ijLyrics al -- to ri -- spon -- de, \normalLyrics ri -- spon -- de,
     Quan -- do can -- tan gli~au -- gei più lie -- ve sco -- te,
         \ijLyrics più lie -- ve sco -- te, \normalLyrics
@@ -236,10 +236,10 @@ bassoLyricsIV = \lyricmode {
     Mor -- mo -- ra l'au -- ra e fa le fo -- glie~e l'on -- de
     Gar -- rir Gar -- rir, e fa le fo -- glie~e l'on -- de Gar -- rir,
 
-    che va -- ria -- men -- te~el -- la per -- co -- te,
-    al -- to ri -- spon -- de,
+        che va -- ria -- men -- te~el -- la per -- co -- te,
+        al -- to ri -- spon -- de,
     \ijLyrics al -- to ri -- spon -- de, \normalLyrics
-    al -- to ri -- spon -- de,
+        al -- to ri -- spon -- de,
     Quan -- do can -- tan gli~au -- gei più lie -- ve sco -- te,
     Sia ca -- so~od' ar -- te, or ac -- com -- pa -- gna~ed o  -- ra
         \ijLyrics or ac -- com -- pa -- gna~ed o  -- ra, \normalLyrics
@@ -312,7 +312,7 @@ quintoLyricsIV = \lyricmode {
         \ijLyrics 
         che va -- ria -- men -- te~el -- la per -- co -- te, 
         \normalLyrics
-    al -- to ri -- spon -- de,
+        al -- to ri -- spon -- de,
     Quan -- do can -- tan gli~au -- gei __ più lie -- ve sco -- te
     Quan -- do can -- tan gli~au -- gei più __ lie -- ve sco -- te
     Sia ca -- so~od' ar -- te, or ac -- com -- pa -- gna~ed o  -- ra

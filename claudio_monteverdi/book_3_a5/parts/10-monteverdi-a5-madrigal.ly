@@ -1,4 +1,4 @@
-% Poi ch'ella in se tornò, deserto e muto
+% Poi -- ch'ella in se tornò, deserto e muto
 % quanto mirar poté d'intorno scorse.
 % Ito se n'è pur, disse, ed ha potuto
 % me qui lasciar de la mia vita in forse?
@@ -49,30 +49,30 @@ cantoX = \relative c'' {
 }
 
 cantoLyricsX = \lyricmode {
-    Poi ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
+    Poi -- ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
     Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se,
 
-    poi ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
-    quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
+    Poi -- ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
+    Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
 
     I -- to se n'è pur, dis -- se~ed ha po -- tu -- to
     Me qui la -- sciar __ del -- la mia vi -- ta,
-    me qui la -- sciar del -- la mia vi -- ta~in for -- se?
+    Me qui la -- sciar del -- la mia vi -- ta~in for -- se?
 
     I -- to se n'è pur, dis -- se~ed ha po -- tu -- to
-    me qui la -- sciar __ del -- la mia vi -- ta~in for -- se?
+    Me qui la -- sciar __ del -- la mia vi -- ta~in for -- se?
 
     Né~un mo -- men -- to~in -- du -- giò, né~un bre -- ve~a -- iu -- to
     Nel ca -- so~e -- stre -- mo~il tra -- di -- tor mi por -- se?
     Ed io pur an -- co l'a -- mo,
-    ed io pur an -- co l'a -- mo, e~in que -- sto li -- do
+    Ed io pur an -- co l'a -- mo, e~in que -- sto li -- do
     In -- ven -- di -- ca -- ta~an -- cor,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor __ pian -- go~e m'as -- si -- do,
+    In -- ven -- di -- ca -- ta~an -- cor __ pian -- go~e m'as -- si -- do,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do,
+    In -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do?
+    In -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do?
 
 }
 
@@ -120,34 +120,34 @@ altoX = \relative c'' {
 }
 
 altoLyricsX = \lyricmode {
-    Poi ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
+    Poi -- ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
     Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se,
 
-    poi ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to,
-    poi ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
+    Poi -- ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to,
+    Poi -- ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
         de -- ser -- to~e mu -- to
-    quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
+    Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
 
     I -- to se n'è pur, dis -- se~ed ha po -- tu -- to
     Me qui la -- sciar __ del -- la mia vi -- ta~in for -- se,
-    i -- to se n'è pur, dis -- se~ed ha po -- tu -- to
-    me qui la -- sciar del -- la mia vi -- ta~in for -- se?
+    I -- to se n'è pur, dis -- se~ed ha po -- tu -- to
+    Me qui la -- sciar del -- la mia vi -- ta~in for -- se?
 
     Né~un mo -- men -- to~in -- du -- giò, né~un bre -- ve~a -- iu -- to
     Nel ca -- so~e -- stre -- mo~il tra -- di -- tor mi por -- se?
     Ed io pur an -- co l'a -- mo,
-    ed io pur an -- co l'a -- mo,
+    Ed io pur an -- co l'a -- mo,
     \ijLyrics
-    ed io pur an -- co l'a -- mo,
+    Ed io pur an -- co l'a -- mo,
     \normalLyrics
         e~in que -- sto li -- do
     In -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do,
-    ed io pur an -- co l'a -- mo, e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor, __
+    Ed io pur an -- co l'a -- mo, e~in que -- sto li -- do
+    In -- ven -- di -- ca -- ta~an -- cor, __
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor,
+    In -- ven -- di -- ca -- ta~an -- cor,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do?
+    In -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do?
 }
 
 tenoreXincipit = \relative c' {
@@ -189,28 +189,28 @@ tenoreX = \relative c' {
 }
 
 tenoreLyricsX = \lyricmode {
-%    Poi ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
+%    Poi -- ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
         De -- ser -- to~e mu -- to
     Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se,
         de -- ser -- to~e mu -- to,
         de -- ser -- to~e mu -- to
-    quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
+    Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
 
     I -- to se n'è pur, dis -- se~ed ha po -- tu -- to,
-    i -- to se n'è pur, dis -- se~ed ha po -- tu -- to
+    I -- to se n'è pur, dis -- se~ed ha po -- tu -- to
     Me qui la -- sciar __ del -- la mia vi -- ta~in for -- se?
     Né~un mo -- men -- to~in -- du -- giò, né~un bre -- ve~a -- iu -- to
     Nel ca -- so~e -- stre -- mo~il tra -- di -- tor __ mi por -- se?
     Ed io pur an -- co l'a -- mo,
-    ed io pur an -- co l'a -- mo,
+    Ed io pur an -- co l'a -- mo,
     \ijLyrics
-    ed io pur an -- co l'a -- mo,
+    Ed io pur an -- co l'a -- mo,
     \normalLyrics
         pian -- go~e m'as -- si -- do,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor pian -- go~e __ m'as -- si -- do,
+    In -- ven -- di -- ca -- ta~an -- cor pian -- go~e __ m'as -- si -- do,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do,
+    In -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do,
         m'as -- si -- do?
 }
 
@@ -248,11 +248,11 @@ bassoX = \relative c {
 }
 
 bassoLyricsX = \lyricmode {
-%    Poi ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
+%    Poi -- ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
         De -- ser -- to~e mu -- to
     Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se,
         de -- ser -- to~e mu -- to
-    quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
+    Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
     I -- to se n'è pur, dis -- se~ed ha po -- tu -- to,
         ed ha po -- tu -- to
     Me qui la -- sciar del -- la mia vi -- ta~in for -- se?
@@ -265,9 +265,9 @@ bassoLyricsX = \lyricmode {
     In -- ven -- di -- ca -- ta~an -- cor,
     Ed io pur an -- co l'a -- mo,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor pian -- go~e __ m'as -- si -- do,
+    In -- ven -- di -- ca -- ta~an -- cor pian -- go~e __ m'as -- si -- do,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do?
+    In -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do?
 }
 
 quintoXincipit = \relative c'' {
@@ -313,28 +313,28 @@ quintoX = \relative c'' {
 }
 
 quintoLyricsX = \lyricmode {
-    Poi ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
+    Poi -- ch'el -- la~in se tor -- nò, de -- ser -- to~e mu -- to
     Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se,
         de -- ser -- to~e mu -- to
-    quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
+    Quan -- to mi -- rar po -- té d'in -- tor -- no scor -- se.
 
     I -- to se n'è pur, dis -- se~ed ha po -- tu -- to
     Me qui la -- sciar del -- la mia vi -- ta~in for -- se?
     I -- to se n'è pur, dis -- se,
-    i -- to se n'è pur, dis -- se~ed ha po -- tu -- to __
-    me qui la -- sciar del -- la mia vi -- ta~in for -- se?
+    I -- to se n'è pur, dis -- se~ed ha po -- tu -- to __
+    Me qui la -- sciar del -- la mia vi -- ta~in for -- se?
     Ed io pur an -- co l'a -- mo, e~in que -- sto li -- do
     In -- ven -- di -- ca -- ta~an -- cor,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do, __
+    In -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do, __
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor,
+    In -- ven -- di -- ca -- ta~an -- cor,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor,
+    In -- ven -- di -- ca -- ta~an -- cor,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor __ pian -- go~e m'as -- si -- do,
+    In -- ven -- di -- ca -- ta~an -- cor __ pian -- go~e m'as -- si -- do,
         e~in que -- sto li -- do
-    in -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do?
+    In -- ven -- di -- ca -- ta~an -- cor pian -- go~e m'as -- si -- do?
 }
 
 cantoXincipitVoice = <<

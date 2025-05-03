@@ -49,15 +49,15 @@ cantoLyricsIII = \lyricmode {
         là sù non si rac -- co -- glie.
 
     Per -- do -- na,
-    per -- do -- na~el -- la~il mio fal -- lo; e __ sol re -- spi -- ra
+    Per -- do -- na~el -- la~il mio fal -- lo; e __ sol re -- spi -- ra
     In que -- sta spe -- me~il cor fra tan -- te do -- glie,
         fra tan -- te do -- glie.
 
     Sa __ ch'em -- pia~è sol la ma -- no, e non l'è no -- ia
     Che s'a -- man -- do lei vis -- si,
-    che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia,
-    che s'a -- man -- do lei vis -- si~a -- man -- do,
-    che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia.
+    Che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia,
+    Che s'a -- man -- do lei vis -- si~a -- man -- do,
+    Che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia.
 }
 
 altoIIIincipit = \relative c' {
@@ -96,19 +96,19 @@ altoLyricsIII = \lyricmode {
     L'a -- ni -- ma bel -- l'a le sue bel -- le spo -- glie,
     Tua pie -- ta -- de e mio~ar -- dir non a -- vrà~in i -- ra,
     Ch'o -- dio~o sde -- gno là sù,
-    ch'o -- dio~o sde -- gno là sù non si rac -- co -- glie.
+    Ch'o -- dio~o sde -- gno là sù non si rac -- co -- glie.
 
     Per -- do -- na~el -- la~il mio fal -- lo; e sol re -- spi -- ra
     In que -- sta spe -- me~il cor,
     \ijLyrics
-    in que -- sta spe -- me~il cor 
+    In que -- sta spe -- me~il cor 
     \normalLyrics
         fra tan -- te do -- glie.
 
     Sa ch'em -- pia~è sol la ma -- no~e non l'è no -- ia __
     Che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia, __
     Che s'a -- man -- do lei vis -- si,
-    che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia.
+    Che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia.
 }
 
 tenoreIIIincipit = \relative c' {
@@ -151,7 +151,7 @@ tenoreLyricsIII = \lyricmode {
     Sa ch'em -- pia~è sol la ma -- no~e non l'è no -- ia
         a -- man -- do
     Che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia,
-    che __ s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia.
+    Che __ s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia.
 }
 
 bassoIIIincipit = \relative c {
@@ -189,12 +189,12 @@ bassoLyricsIII = \lyricmode {
     Ch'o -- dio~o sde -- gno là sù non si rac -- co -- glie.
 
     Per -- do -- na~el -- la,
-    per -- do -- na~el -- la~il mio fal -- lo; e sol __ re -- spi -- ra
+    Per -- do -- na~el -- la~il mio fal -- lo; e sol __ re -- spi -- ra
     In que -- sta spe -- me~il cor fra tan -- te do -- glie.
 
     Sa,
     Che s'a -- man -- do lei vis -- si a -- man -- do~i' muo -- ia,
-    che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia,
+    Che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia,
         a -- man -- do~i' muo -- ia.
 }
 
@@ -239,12 +239,12 @@ quintoLyricsIII = \lyricmode {
 
     Sa.
     Che s'a -- man -- do lei vis -- si,
-    che __ s'a -- man -- do lei vis -- si,
+    Che __ s'a -- man -- do lei vis -- si,
     \ijLyrics
-    che s'a -- man -- do lei vis -- si,
+    Che s'a -- man -- do lei vis -- si,
     \normalLyrics
-    che s'a -- man -- do lei vis -- si,
-    che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia.
+    Che s'a -- man -- do lei vis -- si,
+    Che s'a -- man -- do lei vis -- si~a -- man -- do~i' muo -- ia.
 }
 
 cantoIIIincipitVoice = <<

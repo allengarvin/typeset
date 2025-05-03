@@ -1,4 +1,4 @@
-% Et amando morrò: felice giorno,
+% Ed amando morrò: felice giorno,
 % quando che sia, ma più felice molto,
 % se come or vado errante a te d'intorno,
 % all'or sarò dentro al tuo grembo accolto.
@@ -38,17 +38,17 @@ cantoIV = \relative c' {
 }
 
 cantoLyricsIV = \lyricmode {
-    Et a -- man -- do mor -- rò: fe -- li -- ce gior -- no,
+    Ed a -- man -- do mor -- rò: fe -- li -- ce gior -- no,
         fe -- li -- ce gior -- no,
     Quan -- do che sia, ma più fe -- li -- ce mol -- to,
     Se co -- me~or va -- do~er -- ran -- te~a te d'in -- tor -- no,
-    se co -- me~or va -- do~er -- ran -- te~a te d'in -- tor -- no,
+    Se co -- me~or va -- do~er -- ran -- te~a te d'in -- tor -- no,
     Al -- l'or sa -- rò den -- tr'al tuo grem -- bo~ac -- col -- to.
     Fac -- cian l'a -- ni -- me~a -- mi -- che~in __ Ciel sog -- gior -- no:
     Sia l'un spi -- ri -- to e l'al -- tro~in un se -- pol -- to: __
     Ciò che'l vi -- ver non eb -- be,
-    ciò che'l vi -- ver non eb -- be,
-    ciò che'l vi -- ver non eb -- be~ab -- bia la mor -- te.
+    Ciò che'l vi -- ver non eb -- be,
+    Ciò che'l vi -- ver non eb -- be~ab -- bia la mor -- te.
     O, al -- te -- ra sor -- te,
     O, se spe -- rar ciò li -- ce~al -- te -- ra sor -- te,
     O, __ se spe -- rar ciò li -- ce~al -- te -- ra sor -- te!
@@ -85,17 +85,17 @@ altoIV = \relative c' {
 }
 
 altoLyricsIV = \lyricmode {
-    Et a -- man -- do mor -- rò: fe -- li -- ce gior -- no,
+    Ed a -- man -- do mor -- rò: fe -- li -- ce gior -- no,
         fe -- li -- ce gior -- no,
     Quan -- do che sia, ma più fe -- li -- ce mol -- to,
     Se co -- me~or va -- do~er -- ran -- te~a te d'in -- tor -- no,
-    se co -- me~or va -- do~er -- ran -- te~a te d'in -- tor -- no,
+    Se co -- me~or va -- do~er -- ran -- te~a te d'in -- tor -- no,
     Al -- l'or sa -- rò den -- tr'al tuo grem -- bo~ac -- col -- to.
     Fac -- cian l'a -- ni -- me~a -- mi -- che~in Ciel sog -- gior -- no:
     Sia __ l'un spi -- ri -- to,
-    sia __ l'un spi -- ri -- to~e l'al -- tro~in un se -- pol -- to:
+    Sia __ l'un spi -- ri -- to~e l'al -- tro~in un se -- pol -- to:
     Ciò che'l vi -- ver non eb -- be,
-    ciò che'l vi -- ver non eb -- be~ab -- bia la mor -- te.
+    Ciò che'l vi -- ver non eb -- be~ab -- bia la mor -- te.
     O, __ 
     O, __ se spe -- rar ciò li -- ce~al -- te -- ra sor -- te,
     O, se spe -- rar ciò li -- ce,
@@ -131,7 +131,7 @@ tenoreIV = \relative c' {
 }
 
 tenoreLyricsIV = \lyricmode {
-%    Et a -- man -- do mor -- rò: 
+%    Ed a -- man -- do mor -- rò: 
         Fe -- li -- ce gior -- no,
         fe -- li -- ce gior -- no,
     Quan -- do che sia, ma più fe -- li -- ce mol -- to,
@@ -140,7 +140,7 @@ tenoreLyricsIV = \lyricmode {
     Fac -- cian l'a -- ni -- me~a -- mi -- che~in Ciel sog -- gior -- no:
     Sia __ l'un spi -- ri -- to e l'al -- tro~in un __ se -- pol -- to:
     Ciò che'l vi -- ver non eb -- be,
-    ciò che'l vi -- ver non eb -- be ab -- bia __ la mor -- te.
+    Ciò che'l vi -- ver non eb -- be ab -- bia __ la mor -- te.
     O, __
     O, se spe -- rar ciò li -- ce~al -- te -- ra __ sor -- te,
         al -- te -- ra sor -- te!
@@ -174,7 +174,7 @@ bassoIV = \relative c' {
 }
 
 bassoLyricsIV = \lyricmode {
-    Et a -- man -- do mor -- rò: fe -- li -- ce gior -- no,
+    Ed a -- man -- do mor -- rò: fe -- li -- ce gior -- no,
         fe -- li -- ce gior -- no,
     Quan -- do che sia, ma più fe -- li -- ce mol -- to,
     Se co -- me~or va -- do~er -- ran -- te~a te d'in -- tor -- no,
@@ -222,7 +222,7 @@ quintoIV = \relative c' {
 }
 
 quintoLyricsIV = \lyricmode {
-    Et a -- man -- do mor -- rò: fe -- li -- ce gior -- no,
+    Ed a -- man -- do mor -- rò: fe -- li -- ce gior -- no,
         fe -- li -- ce gior -- no,
     Quan -- do che sia, ma più fe -- li -- ce mol -- to,
     Se co -- me~or va -- do~er -- ran -- te~a te d'in -- tor -- no,
@@ -230,7 +230,7 @@ quintoLyricsIV = \lyricmode {
     Fac -- cian l'a -- ni -- me~a -- mi -- che~in Ciel __ sog -- gior -- no:
     Sia l'un spi -- ri -- to e l'al -- tro~in un se -- pol -- to:
     Ciò che'l vi -- ver non eb -- be ab -- bia la mor -- te.
-    ciò che'l vi -- ver non eb -- be~ab -- bia la mor -- te.
+    Ciò che'l vi -- ver non eb -- be~ab -- bia la mor -- te.
     O, __
     O, __ se spe -- rar ciò li -- ce~al -- te -- ra sor -- te,
         al -- te -- ra sor -- te,

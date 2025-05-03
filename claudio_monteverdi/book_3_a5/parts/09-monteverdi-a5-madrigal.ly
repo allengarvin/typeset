@@ -45,7 +45,7 @@ cantoLyricsIX = \lyricmode {
             chia -- me -- rai so -- ven -- te
     Ne -- gli~ul -- ti -- mi sin -- gul -- ti~u -- dir ciò spe -- ro.
     Or qui man -- cò lo spir -- to,
-    or qui man -- cò lo spir -- to~a la __ do -- len -- te,
+    Or qui man -- cò lo spir -- to~a la __ do -- len -- te,
     Né __ que -- st'ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
     E cad -- de tra -- mor -- ti -- ta e si dif -- fu -- se
     Di ge -- la -- to su -- do -- r'e~i lu -- mi chiu -- se.
@@ -189,7 +189,7 @@ bassoLyricsIX = \lyricmode {
         Ar -- mi -- da chia -- me -- rai so -- ven -- te
     Ne -- gli~ul -- ti -- mi sin -- gul -- ti~u -- dir ciò spe -- ro.
     Or qui man -- cò lo spir -- to~a la do -- len -- te,
-    or qui man -- cò lo spir -- to~a __ la do -- len -- te,
+    Or qui man -- cò lo spir -- to~a __ la do -- len -- te,
     Né que -- st'ul -- ti -- mo suo -- no e -- spres -- se~in -- te -- ro;
     E cad -- de tra -- mor -- ti -- ta e si dif -- fu -- se
     Di ge -- la -- to su -- do -- r'e~i lu -- mi chiu -- se.

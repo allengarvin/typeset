@@ -69,21 +69,21 @@ cantoVIII = \relative c'' {
 cantoLyricsVIII = \lyricmode {
     Vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
     Che la -- sci~a me,
-    vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
-    che la -- sci~a me; vat -- te -- ne,
+    Vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
+    Che la -- sci~a me; vat -- te -- ne,
         vat -- te -- ne~i -- ni -- quo~o -- ma -- i.
     Me to -- sto~i -- gnu -- do spir -- to~om -- bra se -- gua -- ce
     In -- di -- vi -- si -- bil -- men -- te~a ter -- go~a -- vra -- i.
     No -- va fu -- ria, co' ser -- pi~e con la fa -- ce,
-    no -- va fu -- ria, co' ser -- pi~e con la fa -- ce
+    No -- va fu -- ria, co' ser -- pi~e con la fa -- ce
     Tan -- to t'a -- gi -- te -- rò quan -- to __ t'a -- ma -- i;
-    no -- va fu -- ria, co' ser -- pi~e con la fa -- ce
-    tan -- to t'a -- gi -- te -- rò quan -- to __ t'a -- ma -- i.
+    No -- va fu -- ria, co' ser -- pi~e con la fa -- ce
+    Tan -- to t'a -- gi -- te -- rò quan -- to __ t'a -- ma -- i.
 
     E s'è de -- stin ch'e -- sca del mar, che schi -- vi
     Gli sco -- gli~e l'on -- de,
         che schi -- vi
-    gli sco -- gli~e l'on -- de
+    Gli sco -- gli~e l'on -- de
         e che~a la pu -- gna~ar -- ri -- vi.
 }
 
@@ -133,13 +133,13 @@ altoLyricsVIII = \lyricmode {
 %    no -- va fu -- ria, co' ser -- pi~e con la fa -- ce
     Tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i;
     No -- va fu -- ria, co' ser -- pi~e con la fa -- ce
-    tan -- to t'a -- gi -- te -- rò quan -- to,
+    Tan -- to t'a -- gi -- te -- rò quan -- to,
         quan -- to t'a -- ma -- i.
 
     E s'è de -- stin ch'e -- sca del mar, che schi -- vi
     Gli sco -- gli~e l'on -- de,
         che schi -- vi
-    gli sco -- gli~e l'on -- de
+    Gli sco -- gli~e l'on -- de
         e che~a la pu -- gna~ar -- ri -- vi.
 }
 
@@ -184,13 +184,13 @@ tenoreLyricsVIII = \lyricmode {
     In -- di -- vi -- si -- bil -- men -- te~a ter -- go~a -- vra -- i.
     No -- va fu -- ria, co' ser -- pi~e con la fa -- ce,
     Tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i,
-    tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i,
-    tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i.
+    Tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i,
+    Tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i.
 
     E s'è de -- stin __ ch'e -- sca del mar, che schi -- vi
     Gli sco -- gli~e l'on -- de,
         che schi -- vi
-    gli sco -- gli~e l'on -- de
+    Gli sco -- gli~e l'on -- de
         e che~a la pu -- gna~ar -- ri -- vi.
 }
 
@@ -235,12 +235,12 @@ bassoLyricsVIII = \lyricmode {
     In -- di -- vi -- si -- bil -- men -- te~a ter -- go~a -- vra -- i.
     No -- va fu -- ria, co' ser -- pi~e con la fa -- ce,
     Tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i,
-    tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i.
+    Tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i.
 
     E s'è de -- stin ch'e -- sca del mar, che schi -- vi
     Gli sco -- gli~e l'on -- de,
         che schi -- vi
-    gli sco -- gli~e l'on -- de
+    Gli sco -- gli~e l'on -- de
         e che~a la pu -- gna~ar -- ri -- vi.
 }
 
@@ -284,20 +284,20 @@ quintoVIII = \relative c'' {
 
 quintoLyricsVIII = \lyricmode {
     Vat -- te -- ne pur, cru -- del, con quel -- la pa -- ce
-    che la -- sci~a me; vat -- te -- ne,
+    Che la -- sci~a me; vat -- te -- ne,
         vat -- te -- ne~i -- ni -- quo~o -- ma -- i.
     Me to -- sto~i -- gnu -- do spir -- to~om -- bra se -- gua -- ce
     In -- di -- vi -- si -- bil -- men -- te~a ter -- go~a -- vra -- i.
     No -- va fu -- ria, co' ser -- pi~e con la fa -- ce,
-    no -- va fu -- ria, co' ser -- pi~e con la fa -- ce
+    No -- va fu -- ria, co' ser -- pi~e con la fa -- ce
     Tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i,
-    tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i,
-    tan -- to t'a -- gi -- te -- rò __ quan -- to t'a -- ma -- i.
+    Tan -- to t'a -- gi -- te -- rò quan -- to t'a -- ma -- i,
+    Tan -- to t'a -- gi -- te -- rò __ quan -- to t'a -- ma -- i.
 
     E s'è de -- stin ch'e -- sca del mar, che schi -- vi
     Gli sco -- gli~e l'on -- de,
         che schi -- vi
-    gli sco -- gli~e l'on -- de
+    Gli sco -- gli~e l'on -- de
         e che~a la pu -- gna~ar -- ri -- vi.
 }
 

@@ -49,7 +49,7 @@ cantoLyricsI = \lyricmode {
     Di __ co -- lor, __ di ca -- lor, di mo -- to pri -- vo,
     Già fred -- do mar -- mo al mar -- mo il vol -- to~af -- fis -- se.
     Al fin,
-    al fin sgor -- gan -- do,
+    Al fin sgor -- gan -- do,
         sgor -- gan -- do,
         sgor -- gan -- do~un la -- gri -- mo -- so ri -- vo,
     In __ un lan -- gui -- do ohi -- mè, pro -- rup -- pe,
@@ -59,8 +59,8 @@ cantoLyricsI = \lyricmode {
 
     O __ sas -- so~a -- ma -- to tan -- to~a -- ma -- ro tan -- to,
     Che den -- tro~hai le mie fiam -- me e fuo -- ri~il pian -- to,
-    che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to,
-    che den -- tro~hai le mie fiam -- m'e fuo -- ri~il __ pian -- to.
+    Che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to,
+    Che den -- tro~hai le mie fiam -- m'e fuo -- ri~il __ pian -- to.
 }
 
 altoIincipit = \relative c' {
@@ -99,7 +99,7 @@ altoI = \relative c' {
 
 altoLyricsI = \lyricmode {
     Giun -- to,
-    giun -- to~al -- la tom -- ba~o -- ve~al suo spir -- to vi -- vo
+    Giun -- to~al -- la tom -- ba~o -- ve~al suo spir -- to vi -- vo
     Do -- lo -- ro -- sa pri -- gion il ciel,
         il ciel pre -- scris -- se, __
             pre -- scris -- se,
@@ -109,7 +109,7 @@ altoLyricsI = \lyricmode {
         al mar -- mo il vol -- to~af -- fis -- se.
     Al fin,
     \ijLyrics
-    al fin 
+    Al fin 
     \normalLyrics
         sgor -- gan -- do,
         sgor -- gan -- do,
@@ -121,7 +121,7 @@ altoLyricsI = \lyricmode {
 
     O __ sas -- so~a -- ma -- to tan -- to~a -- ma -- ro tan -- to,
     Che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to,
-    che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to,
+    Che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to,
         e fuo -- ri~il pian -- to.
 }
 
@@ -170,9 +170,9 @@ tenoreLyricsI = \lyricmode {
         il vol -- to~af -- fis -- se.
     Al fin,
     \ijLyrics
-    al fin,
+    Al fin,
     \normalLyrics
-    al fin sgor -- gan -- do,
+    Al fin sgor -- gan -- do,
         sgor -- gan -- do~un la -- gri -- mo -- so ri -- vo, __
 %    In un lan -- gui -- do ohi -- mè, pro -- rup -- pe,
         pro -- rup -- pe,
@@ -182,7 +182,7 @@ tenoreLyricsI = \lyricmode {
     O __ sas -- so~a -- ma -- to tan -- to~a -- ma -- ro tan -- to,
     Che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to, __
         e fuo -- ri~il pian -- to,
-    che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to.
+    Che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to.
 }
 
 bassoIincipit = \relative c {
@@ -225,16 +225,16 @@ bassoLyricsI = \lyricmode {
     Già fred -- do mar -- mo~al mar -- mo il vol -- to~af -- fis -- se.
     Al fin,
     \ijLyrics
-    al fin,
+    Al fin,
     \normalLyrics
-    al fin sgor -- gan -- do,
+    Al fin sgor -- gan -- do,
         sgor -- gan -- do~un la -- gri -- mo -- so ri -- vo, __
         pro -- rup -- pe,
     In __ un lan -- gui -- do~ohi -- mè, pro -- rup -- pe~e dis -- se:
 
 %    O sas -- so~a -- ma -- to tan -- to~a -- ma -- ro tan -- to,
     Che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to,
-    che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to,
+    Che den -- tro~hai le mie fiam -- m'e fuo -- ri~il pian -- to,
         e fuo -- ri~il pian -- to.
 }
 
@@ -279,18 +279,18 @@ quintoLyricsI = \lyricmode {
         il vol -- to~af -- fis -- se.
     Al fin,
     \ijLyrics
-    al fin 
+    Al fin 
     \normalLyrics
         sgor -- gan -- do,
         sgor -- gan -- do,
 %        sgor -- gan -- do~un la -- gri -- mo -- so ri -- vo,
     In un lan -- gui -- do ohi -- mè, pro -- rup -- pe,
-    in un lan -- gui -- do ohi -- mè,
+    In un lan -- gui -- do ohi -- mè,
         ohi -- mè, pro -- rup -- pe~e dis -- se:
 
     O __ sas -- so~a -- ma -- to tan -- to a -- ma -- ro tan -- to,
     Che den -- tro~hai le mie fiam -- me,
-    che den -- tro~hai le mie fiam -- m'e fuo -- ri~il __ pian -- to,
+    Che den -- tro~hai le mie fiam -- m'e fuo -- ri~il __ pian -- to,
         e fuo -- ri~il pian -- to.
 }
 

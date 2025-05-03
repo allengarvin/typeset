@@ -39,7 +39,7 @@ cantoLyricsXV = \lyricmode {
     Far de le sue bel -- lez -- ze~al -- trui ti -- ran -- no,
     Quel -- le ch'a mil -- le~an -- ti -- chi~in pre -- mio so -- no
     Ne -- ga -- te, of -- fri -- re~a no -- vo~a -- man -- te,
-    of -- fri -- re~a no -- vo~a -- man -- te~in __ do -- no!
+        of -- fri -- re~a no -- vo~a -- man -- te~in __ do -- no!
 }
 
 altoXVincipit = \relative c' {
@@ -91,8 +91,8 @@ altoLyricsXV = \lyricmode {
         al -- trui ti -- ran -- no,
     Quel -- le ch'a mil -- le~an -- ti -- chi~in pre -- mio so -- no
     Ne -- ga -- te, of -- fri -- re~a no -- vo~a -- man -- te~in do -- no,
-    of -- fri -- re~a no -- vo~a -- man -- te,
-    of -- fri -- re~a no -- vo~a -- man -- te~in do -- no!
+        of -- fri -- re~a no -- vo~a -- man -- te,
+        of -- fri -- re~a no -- vo~a -- man -- te~in do -- no!
 }
 
 tenoreXVincipit = \relative c' {
@@ -133,9 +133,9 @@ tenoreLyricsXV = \lyricmode {
     La -- sciar -- si cor -- re~il vir -- gi -- nal suo fio -- re,
     Far de le sue bel -- lez -- ze~al -- trui ti -- ran -- no,
         al -- trui ti -- ran -- no,
-    of -- fri -- re~a no -- vo~a -- man -- te~in do -- no,
+        of -- fri -- re~a no -- vo~a -- man -- te~in do -- no,
         in do -- no,
-    of -- fri -- re~a no -- vo~a -- man -- te~in do -- no!
+        of -- fri -- re~a no -- vo~a -- man -- te~in do -- no!
 }
 
 bassoXVincipit = \relative c {
@@ -177,7 +177,7 @@ bassoLyricsXV = \lyricmode {
         al -- trui ti -- ran -- no,
     Quel -- le ch'a mil -- le~an -- ti -- chi~in pre -- mio so -- no
     Ne -- ga -- te, of -- fri -- re~a no -- vo~a -- man -- te~in do -- no,
-    of -- fri -- re~a no -- vo~a -- man -- te~in do -- no!
+        of -- fri -- re~a no -- vo~a -- man -- te~in do -- no!
 }
 
 quintoXVincipit = \relative c' {
@@ -223,7 +223,7 @@ quintoLyricsXV = \lyricmode {
     Far de le sue bel -- lez -- ze~al -- trui ti -- ran -- no,
     Quel -- le ch'a mil -- le~an -- ti -- chi~in pre -- mio so -- no
     Ne -- ga -- te, of -- fri -- re~a no -- vo~a -- man -- te~in do -- no
-    of -- fri -- re~a no -- vo~a -- man -- te~in do -- no! __
+        of -- fri -- re~a no -- vo~a -- man -- te~in do -- no! __
 }
 
 cantoXVincipitVoice = <<
