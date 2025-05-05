@@ -11,7 +11,7 @@ cantusV = \relative c'' {
     \key f \major
     \fourTwoCutTime
 
-    \tempo 2 = 108
+    %\tempo 2 = 108
     R\breve | r1 c ~ | c2 c a2. a4 | f1 c' ~ | c2 a d2.( c4 | b2) b c1 |
         R\breve | r1 r2 c ~ | c f e d | e2. e4 f2
 
@@ -25,13 +25,13 @@ cantusV = \relative c'' {
         f1 c2 d ~ | d4( c c1 b2) | c1 c | 
 
     a2 d1( c2 | bf1) a |
-        \time 3/1
-    \tempo 2 = 168
+        \time 3/1 \threeWholeFromBreve
+    %\tempo 2 = 168
         R\breve. | d\breve d1 | e\breve f1 | 
         c\breve c1 |
-        \fourTwoCutTime 
+        \fourTwoCutTime\breveFromThreeWhole 
 
-    \tempo 2 = 108
+    %\tempo 2 = 108
     c2. bf4 a1 | g2 c c1 | f2 f e1 | d2 e2.( d4
 
     c2 ~ | c) b c1 | r2 c c1 | c2 c d a | c1. c2 | a1 r1 | 
@@ -88,8 +88,8 @@ altusV = \relative c' {
         e2 a1 a2 | g f
 
     g1 | a2 a1 a2 | g\breve | g1 r1 | f d2 f ~ | f( e) f1 | 
-        \time 3/1 | g\breve a1 | a\breve bf1 | g\breve a1 | a\breve g1 |
-        \fourTwoCutTime f\breve | e2 g
+        \time 3/1 \threeWholeFromBreve | g\breve a1 | a\breve bf1 | g\breve a1 | a\breve g1 |
+        \fourTwoCutTime\breveFromThreeWhole f\breve | e2 g
 
     a2.( bf4 | c2) c c g ~ | g g a e | g\breve | r2 g a2.( bf4 |
         c2) a4 a bf2 f | g( f1) e2 | f f2.( e8[ d] c2) |
@@ -146,9 +146,9 @@ tenorV = \relative c' {
     c2. c4 a1 | a1. a2 | d f2.( e4 d2) | c c1 f,2 | c' a c c | 
         c2.( bf4 a g f2) | g g'2.( f8[ e] d2) | e\breve | R\breve R |
 
-    \time 3/1
+    \time 3/1 \threeWholeFromBreve
         e\breve e1 | f\breve g1 | e\breve c1 | c\breve c1 |
-        \fourTwoCutTime
+        \fourTwoCutTime\breveFromThreeWhole
         c\breve | c2 e f2.( g4 | a1) g2 e | g4( f e d c2) c | d2. d4 c1 ~ |
         c
 
@@ -203,9 +203,9 @@ bassusV = \relative c {
         a2 f1 f2 | c d c1 | 
 
     f2 f1 d2 | e2.( f4 g1) | c, r1 | R\breve R | 
-        \time 3/1
+        \time 3/1 \threeWholeFromBreve
         c'\breve a1 | d\breve bf1 | c\breve f,1 | f\breve e1 | 
-        \fourTwoCutTime f\breve | c1 r2 f | f1
+        \fourTwoCutTime\breveFromThreeWhole f\breve | c1 r2 f | f1
 
     % --- page ---
     c'2 c | b c a2. a4 | g1 r2 c, | c1 f2 f | e f d2. d4 | c\breve | 
@@ -260,9 +260,9 @@ quintusV = \relative c' {
     a2 bf | c d e2. f4 | g2( e d2.) d4 | c\breve | R\breve*2 | r2 f1 f2 |
         e2 d e1 | f2 f1 f2 | \[ e1( d) \] | c2 c1 a2 | d2.( c4
 
-    bf2 a | g1) f | \time 3/1
+    bf2 a | g1) f | \time 3/1 \threeWholeFromBreve
         R\breve. f'\breve d1 | g\breve f1 | f\breve c1 |
-        \fourTwoCutTime a2. g4 f1 | g r1 | R\breve*2 | r2 d' e2.( f4 |
+        \fourTwoCutTime\breveFromThreeWhole a2. g4 f1 | g r1 | R\breve*2 | r2 d' e2.( f4 |
         g2) e4 e f1 |
 
     g2 c, d d | g,( a g2.) g4 | f1 r2 f' ~ | f( e4 d e c f2~ |

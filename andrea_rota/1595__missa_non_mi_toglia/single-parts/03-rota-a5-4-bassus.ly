@@ -47,4 +47,33 @@
                 \addlyrics { \bassusLyricsIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \relative c' {
+                \clef bass
+                \key f \major
+                \time 4/2
+                R\breve*33
+                \bar "|."
+            }
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et resurrexit a 3 [bassus et quintus tacet]"
+            }
+    }
+    \score {
+        \new Voice << 
+            \clef "bass"
+            \global 
+            \bassusV
+        >>
+                \addlyrics { \bassusLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et in spiritum a 5"
+            }
+    }
 }

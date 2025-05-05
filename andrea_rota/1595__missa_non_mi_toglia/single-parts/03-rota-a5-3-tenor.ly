@@ -47,6 +47,30 @@
                 \addlyrics { \tenorLyricsIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenorIV
+        >>
+                \addlyrics { \tenorLyricsIV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et resurrexit a 3 [bassus et quintus tacet]"
+            }
+    }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \tenorV
+        >>
+                \addlyrics { \tenorLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et in spiritum a 5"
+            }
+    }
 }
 
 \book {
@@ -62,6 +86,30 @@
                 \addlyrics { \tenorLyricsIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenorIV
+        >>
+                \addlyrics { \tenorLyricsIV }
+            \header {
+                piece = "Et resurrexit a 3 [bassus et quintus tacet]"
+            }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \tenorV
+        >>
+                \addlyrics { \tenorLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et in spiritum a 5"
+            }
+    }
 }
 
 \book {
@@ -76,5 +124,29 @@
         >>
                 \addlyrics { \tenorLyricsIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \tenorIV
+        >>
+                \addlyrics { \tenorLyricsIV }
+            \header {
+                piece = "Et resurrexit a 3 [bassus et quintus tacet]"
+            }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \tenorV
+        >>
+                \addlyrics { \tenorLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et in spiritum a 5"
+            }
     }
 }

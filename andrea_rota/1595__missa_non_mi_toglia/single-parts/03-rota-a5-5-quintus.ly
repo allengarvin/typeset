@@ -47,6 +47,32 @@
                 \addlyrics { \quintusLyricsIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \relative c' {
+                \clef treble
+                \key f \major
+                \time 4/2
+                R\breve*33
+                \bar "|."
+            }
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et resurrexit a 3 [bassus et quintus tacet]"
+            }
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \quintusV
+        >>
+                \addlyrics { \quintusLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
 }
 
 \book {
@@ -61,6 +87,38 @@
         >>
                 \addlyrics { \quintusLyricsIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et in spiritum a 5"
+            }
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \relative c' {
+                \clef alto
+                \key f \major
+                \time 4/2
+                R\breve*33
+                \bar "|."
+            }
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et resurrexit a 3 [bassus et quintus tacet]"
+            }
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \quintusV
+        >>
+                \addlyrics { \quintusLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et in spiritum a 5"
+            }
     }
 }
 
@@ -76,5 +134,34 @@
         >>
                 \addlyrics { \quintusLyricsIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \relative c' {
+                \clef "treble_8"
+                \key f \major
+                \time 4/2
+                R\breve*33
+                \bar "|."
+            }
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et resurrexit a 3 [bassus et quintus tacet]"
+            }
+    }
+    \score {
+        \new Voice << 
+            \clef "treble_8"
+            \global 
+            \quintusV
+        >>
+                \addlyrics { \quintusLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et in spiritum a 5"
+            }
     }
 }

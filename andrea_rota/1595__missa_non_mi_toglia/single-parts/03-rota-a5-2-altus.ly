@@ -47,6 +47,30 @@
                 \addlyrics { \altusLyricsIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \altusIV
+        >>
+                \addlyrics { \altusLyricsIV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et resurrexit a 3 [bassus et quintus tacet]"
+            }
+    }
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \altusV
+        >>
+                \addlyrics { \altusLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et in spiritum a 5"
+            }
+    }
 }
 
 \book {
@@ -61,5 +85,29 @@
         >>
                 \addlyrics { \altusLyricsIII }
      %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \altusIV
+        >>
+                \addlyrics { \altusLyricsIV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et resurrexit a 3 [bassus et quintus tacet]"
+            }
+    }
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \altusV
+        >>
+                \addlyrics { \altusLyricsV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+            \header {
+                piece = "Et in spiritum a 5"
+            }
     }
 }
