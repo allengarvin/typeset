@@ -1,6 +1,7 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -t "Chaconne I" -l instrumental -m 68 -s 18 09-lully-a3-0-score.ly violinoOne:t violinoTwo:t basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,35 +9,38 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2025-05-06"
+    originallyset = "2025-05-06"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Capriccio sopra 7 note"
+    title = "Chaconne I"
     subtitle = ""
-    instrument = "Capriccio sopra 7 note:  (violino I)"
+    subsubtitle = ""
+    instrument = "Chaconne I:  (violino I)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "capriccio_sopra_sette_note"
-    shortcomp = "cazzati"
+    shorttitle = "chaconne_i"
+    shortcomp = "lully"
 
     % Things that change per part:
     partname = "Violino I (part 1 of 3)"
+    instrument = "Chaconne I:  (violino I)"
 
     % Unchanging:
-    lastupdated = "2020-05-09"
-    originallyset = "2020-05-09"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/29-cazzati-a3-capriccio.ly"
+\include "../parts/09-lully-a3-chaconne.ly"
 
 \book {
-    \bookOutputName "29-cazzati--capriccio_sopra_sette_note-"
-    \bookOutputSuffix "--1-violino_primo--tr_clef"
+    \bookOutputName "09-lully--chaconne_i-"
+    \bookOutputSuffix "--1-violino_1-tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \violinoPrimoXXIX
+            \violinoOneIX
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

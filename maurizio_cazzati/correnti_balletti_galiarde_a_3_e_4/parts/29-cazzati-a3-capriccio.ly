@@ -6,6 +6,8 @@ violinoPrimoXXIXincipit = \relative c'' {
     c8.
 }
 
+ttrill = \markup { \fontsize #3 "t." }
+
 % violino I: completely checked! Everything checked!
 violinoPrimoXXIX = \relative c'' {
     \time 4/4
@@ -22,8 +24,8 @@ violinoPrimoXXIX = \relative c'' {
         e[ c g c] a[ d b g'] | e4 e16[ d e f] 
 
     g4 d16[ c d e] | c4 e16[ d e f] e8[ d] d4 | 
-        c4 c'8[ c] c[ c] c8.\trill [ b16] |
-        a4 a8[ a] a8[ a] g8.\trill [ f16] | 
+        c4 c'8[ c] c[ c] c8.^\ttrill [ b16] |
+        a4 a8[ a] a8[ a] g8.^\ttrill [ f16] | 
 
     % interrim check
 
@@ -34,10 +36,10 @@ violinoPrimoXXIX = \relative c'' {
     d8[ d d e] | e[ e e d] d[ d] d8.[ c16] | c4 e8[ f] d[ g f g] |
         e[ c b c] a[ d b e] | c[ d e f]
 
-    g[ d d e] | c[ e] d8.\trill [ c16] d8[ c] c8.\trill [ b16] |
+    g[ d d e] | c[ e] d8.^\ttrill [ c16] d8[ c] c8.^\ttrill [ b16] |
         c8[ e] e16[ d e f] e8[ e] e16[ d e f] | e8[ e] e16[ d e f] 
 
-    e8[ d] d8.\trill [ c16] | c8 \p[ e] e16[ d e f] e8[ e] e16[ d e f] |
+    e8[ d] d8.^\ttrill [ c16] | c8 \p[ e] e16[ d e f] e8[ e] e16[ d e f] |
         e8[ e] e16[ d e f] e8[ d] d8.[ c16] | c8[ c' g c,] 
 
     % interrim check
@@ -126,7 +128,7 @@ violinoPrimoXXIX = \relative c'' {
     % interrim check
     % ---- page ---
     e8[ c16 d] e[ f g a] b8[ d,16 e] f[ g a b] | 
-        c8[ c,16 d] e[ f g a] d,2\trill 
+        c8[ c,16 d] e[ f g a] d,2^\ttrill 
         % \bar "||" << not in violino II
         c4 e r b | r g
 

@@ -58,7 +58,7 @@ cantoLyricsIII = \lyricmode {
     Più se -- re -- nar, più ral -- le -- grar non cu -- ri;
     Di -- rò mio cor, mia vi -- ta? ahi che non vuo -- le
     Né può dol -- ci pa -- ro -- le
-    For -- mar lin -- gua do -- len -- te.
+    For -- mar lin -- gua do -- len -- te,
     Di -- rò ve -- ra -- ce -- men -- te
     Fo -- co del -- l'al -- ma mia che m'ar -- di~e fug -- ge
     Ri -- splen -- d'a -- gli~oc -- chi~al -- men se'l cor __ di -- strug -- ge,
@@ -117,7 +117,7 @@ altoLyricsIII = \lyricmode {
     Più se -- re -- nar, più ral -- le -- grar non cu -- ri;
     Di -- rò mio cor, __ mia vi -- ta? ahi __ che non vuo -- le
     Né può dol -- ci pa -- ro -- le
-    For -- mar lin -- gua do -- len -- te.
+    For -- mar lin -- gua do -- len -- te,
     Di -- rò ve -- ra -- ce -- men -- te
     Fo -- co del -- l'al -- ma mia che m'ar -- di~e fug -- ge,
         del -- l'al -- ma mia che m'ar -- di~e fug -- ge
@@ -180,7 +180,7 @@ tenoreLyricsIII = \lyricmode {
         non cu -- ri;
     Di -- rò mio cor, __ mia vi -- ta? ahi che non vuo -- le
     Né può dol -- ci pa -- ro -- le
-    For -- mar lin -- gua do -- len -- te.
+    For -- mar lin -- gua do -- len -- te,
     Di -- rò ve -- ra -- ce -- men -- te
     Fo -- co del -- l'al -- ma mia che m'ar -- di~e fug -- ge
     Ri -- splen -- d'a -- gli~oc -- chi~al -- men,
@@ -238,7 +238,7 @@ bassoLyricsIII = \lyricmode {
     Più se -- re -- nar, più ral -- le -- grar non cu -- ri;
     Di -- rò mio cor, mia vi -- ta? ahi che non vuo -- le
     Né può dol -- ci pa -- ro -- le
-    For -- mar lin -- gua do -- len -- te.
+    For -- mar lin -- gua do -- len -- te,
     Di -- rò ve -- ra -- ce -- men -- te
     Fo -- co del -- l'al -- ma mia che m'ar -- di~e fug -- ge
     Ri -- splen -- d'a -- gli~oc -- chi~al -- men,
@@ -295,7 +295,7 @@ quintoLyricsIII = \lyricmode {
         più ral -- le -- grar non cu -- ri;
     Di -- rò mio cor, mia vi -- ta? ahi che non vuo -- le
     Né può dol -- ci pa -- ro -- le
-    For -- mar lin -- gua do -- len -- te.
+    For -- mar lin -- gua do -- len -- te,
     Di -- rò ve -- ra -- ce -- men -- te
     Fo -- co del -- l'al -- ma mia che m'ar -- di~e fug -- ge
     Ri -- splen -- d'a -- gli~oc -- chi~al -- men,

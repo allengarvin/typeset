@@ -9,16 +9,16 @@
 
 \header {
     % Things that change per piece:
-    title = "Capriccio sopra sette note"
+    title = "Capriccio sopra 7 note"
     subtitle = ""
-    instrument = "Capriccio sopra sette note:  (violone)"
+    instrument = "Capriccio sopra 7 note:  (violone)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "capriccio_sopra_sette_note"
     shortcomp = "cazzati"
 
     % Things that change per part:
     partname = "Violone (part 3 of 3)"
-    instrument = "Capriccio sopra sette note:  (violone)"
+    instrument = "Capriccio sopra 7 note:  (violone)"
 
     % Unchanging:
     lastupdated = "2020-05-09"

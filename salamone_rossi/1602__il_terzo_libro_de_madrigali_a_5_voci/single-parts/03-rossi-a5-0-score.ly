@@ -103,8 +103,8 @@
                 \line { più serenar, più rallegrar non curi; }
                 \line { dirò «mio cor, mia vita»? ahi ché non vuole }
                 \line { né può dolci parole }
-                \line { formar lingua dolente. }
-                \line { Dirò veracemente: }
+                \line { formar lingua dolente, }
+                \line { dirò veracemente: }
                 \line { «foco dell'alma mia che m'ardi e fugge }
                 \line { risplend'agli occhi almen se 'l cor distrugge.» }
             }
@@ -114,11 +114,11 @@
                 \line { My Amaryllis, shall I say 'my sun'? }
                 \line { No, for my dark days }
                 \line { you care no more to brighten [or] to cheer; }
-                \line { shall I say 'my heart, my life'? Ah, since her sorrowful tongue }
-                \line { does not wish to nor can form sweet words. }
+                \line { shall I say 'my heart, my life'? Ah, since my sorrowful tongue }
+                \line { does not wish to nor can form sweet words, }
                 \line { I will say truly: }
                 \line { 'Flame of my soul, who sets me aflame, and flees, }
-                \line { at least may you shine upon my eyes, if you destroy my heart.' }
+                \line { at least dazzle upon my eyes, if you destroy my heart.' }
                 \line { \hspace #10 \italic { translation by editor } }
 
            }

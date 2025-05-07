@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -6,59 +6,60 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.0)
+#(set-global-staff-size 19.5)
 
 \header {
+    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
+    cksum = "2869c3eb5918f3ff5028181be3095c032c103533"
+    lastupdated = "2025-05-06"
+    originallyset = "2025-05-06"
+    \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Capriccio sopra 7 note"
+    title = "Chaconne I"
     subtitle = ""
-    instrument = "Capriccio sopra 7 note:  (score)"
+    subsubtitle = ""
+    instrument = "Chaconne I:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "capriccio_sopra_sette_note"
+    shorttitle = "chaconne_i"
+    shortcomp = "lully"
     categories = "[ground,trio]"
-    shortcomp = "cazzati"
+    motifs = "[]"
 
     % Unchanging:
     language = "instrumental"
-    lastupdated = "2020-05-09"
-    originallyset = "2020-05-09"
-    flats = 0
-    final = "c"
-    \include "include/distribution-header.ly"
-    cksum = "17e4e852dbb584b77124019aa071c4d0016195e8"
     tagline = #'f
 }
 
-\include "../parts/29-cazzati-a3-capriccio.ly"
+\include "../parts/09-lully-a3-chaconne.ly"
 
 \book {
-    \bookOutputName "29-cazzati--capriccio_sopra_sette_note-"
+    \bookOutputName "09-lully--chaconne_i-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Violino I"
-                    \incipit \violinoPrimoXXIXincipitVoice
+                    \incipit \violinoOneIXincipitVoice
                     \clef "treble"
                     \global
-                    \violinoPrimoXXIX
+                    \violinoOneIX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Violino II"
-                    \incipit \violinoSecondoXXIXincipitVoice
+                    \incipit \violinoTwoIXincipitVoice
                     \clef "treble"
                     \global
-                    \violinoSecondoXXIX
+                    \violinoTwoIX
                 >>
                 \new Voice <<
-                    \set Staff.instrumentName = #"Violone"
-                    \incipit \violoneXXIXincipitVoice
+                    \set Staff.instrumentName = #"Basso"
+                    \incipit \bassoIXincipitVoice
                     \clef "bass"
                     \global
-                    \violoneXXIX
+                    \bassoIX
                 >>
              >>
          >>
@@ -66,9 +67,8 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 54 2)
+                tempoWholesPerMinute = #(ly:make-moment 68 2)
             }
         }
     }   
 }
-

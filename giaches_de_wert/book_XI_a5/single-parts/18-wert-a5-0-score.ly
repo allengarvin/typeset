@@ -94,7 +94,7 @@
         \fill-line {
             \column {
                 \line { Cruda Amarilli che col nome ancora }
-                \line { d'amar, ahi lasso, amaramennte insegni; }
+                \line { d'amar, ahi lasso, amaramente insegni; }
                 \line { Amarilli, del candido ligustro }
                 \line { più candida e più bella, }
                 \line { ma da l'aspido sordo }
