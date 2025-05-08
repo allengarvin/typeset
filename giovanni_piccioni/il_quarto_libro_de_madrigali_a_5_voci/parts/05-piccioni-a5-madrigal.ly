@@ -12,6 +12,20 @@
 % Ma il tuo già non perd'io,
 % perché non fu mai mio.
 
+% If you leave me, perfidious one, [it is] your loss:
+% Don't imagine to yourself that
+% my life would be miserable without you.
+% I would truly be miserable
+% if I considered it misery (and not fortune)
+% to lose she who cares not for me,
+% and to recover what of myself I lost.
+% 
+% You are the miserable one, who for a new Love
+% you lose that faithful heart
+% which was more yours than you are yourself.
+% But yours I now do not lose,
+% since it was never mine.
+
 cantoVincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
@@ -44,25 +58,31 @@ cantoV = \relative c'' {
 }
 
 cantoLyricsV = \lyricmode {
-%    Se tu mi la -- sci,
-%    \ijLyrics
-%    se tu mi la -- sci
-%    \normalLyrics
-%        per -- fi -- da, tuo dan -- no,
-%        per -- fi -- da, tuo dan -- no:
-%    Non ti pen -- sar che si -- a,
-%        che si -- a
-%    Mi -- se -- ro sen -- za te la vi -- ta mi -- a.
-%    Mi -- se -- ro ben sa -- re -- i,
-%    Se mis -- e -- ria sti -- mas -- si e non ven -- tu -- ra,
-%    \ijLyrics
-%        e non ven -- tu -- ra,
-%    \normalLyrics
-%        e non ven -- tu -- ra
-%    Per -- der chi non mi cu -- ra,
-%    E ri -- co -- vrar quel che di me per -- de -- i,
-%        quel che di me,
-%        quel che di me per -- de -- i.
+    Se tu mi la -- sci,
+    \ijLyrics
+    Se __ tu mi la -- sci
+    \normalLyrics
+        per -- fi -- da, tuo dan -- no:
+    Non ti pen -- sar che si -- a,
+    Non ti pen -- sar che si -- a
+    Mi -- se -- ro sen -- za te,
+    \ijLyrics
+    Mi -- se -- ro sen -- za te
+    \normalLyrics
+        la vi -- ta mi -- a.
+    Mi -- se -- ro ben __ sa -- re -- i,
+    Se __ mis -- e -- ria sti -- mas -- si~e non ven -- tu -- ra,
+        e non ven -- tu -- ra,
+    \ijLyrics
+        e non ven -- tu -- ra
+    \normalLyrics
+    Per -- der chi non mi cu -- ra,
+    \ijLyrics
+    Per -- der chi non mi cu -- ra,
+    \normalLyrics
+    E ri -- co -- vrar,
+    E ri -- co -- vrar quel che di me __ per -- de -- i,
+        quel che di me per -- de -- i.
 }
 
 altoVincipit = \relative c'' {
@@ -73,8 +93,8 @@ altoVincipit = \relative c'' {
     a4
 }
 
+% alto: checked against source
 altoV = \relative c'' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -83,7 +103,7 @@ altoV = \relative c'' {
     e4( d8[ c] d4 e2 d4) | e2 r2 g4. f8 e4 d | e4.( f8 g2) g4 a g4. g8 |
 
     a2. a4 a1 | a2 r2 r4 c2 b8[ a] | g4 a g e2 d8[ c] b4 c |
-        g2 r2 r4 g'2 f8[ e] | d4 g gs2 a a4\melfi g8[ fs] \melfiEnd| 
+        g2 r2 r4 g'2 f8[ e] | d4 g gs2 a a4\melfi g!8[ fs] \melfiEnd| 
 
     gs4 a2( gs4) a1 ~ | a r4 a2 a4 | a a2( g8[ f] a2) e | f1 e2 r4 a ~ |
         a a g2 a a | g g f4 e f d | r1 
@@ -100,23 +120,25 @@ altoV = \relative c'' {
 altoLyricsV = \lyricmode {
 %    Se tu mi la -- sci,
 %    \ijLyrics
-%    se tu mi la -- sci
-%    \normalLyrics
-%        per -- fi -- da, tuo dan -- no,
-%        per -- fi -- da, tuo dan -- no:
-%    Non ti pen -- sar che si -- a,
-%        che si -- a
-%    Mi -- se -- ro sen -- za te la vi -- ta mi -- a.
-%    Mi -- se -- ro ben sa -- re -- i,
-%    Se mis -- e -- ria sti -- mas -- si e non ven -- tu -- ra,
-%    \ijLyrics
-%        e non ven -- tu -- ra,
-%    \normalLyrics
-%        e non ven -- tu -- ra
-%    Per -- der chi non mi cu -- ra,
-%    E ri -- co -- vrar quel che di me per -- de -- i,
-%        quel che di me,
-%        quel che di me per -- de -- i.
+    Se tu mi la -- sci
+        per -- fi -- da, tuo dan -- no,
+        per -- fi -- da, tuo dan -- no:
+    Non ti pen -- sar che si -- a
+    Mi -- se -- ro sen -- za te,
+    \ijLyrics
+    Mi -- se -- ro sen -- za te,
+    Mi -- se -- ro sen -- za te
+    \normalLyrics
+        la vi -- ta mi -- a. __
+    Mi -- se -- ro ben __ sa -- re -- i,
+    Se __ mis -- e -- ria sti -- mas -- si~e non ven -- tu -- ra,
+        e __ non ven -- tu -- ra
+    Per -- der chi non mi cu -- ra,
+    \ijLyrics
+    Per -- der chi non mi cu -- ra,
+    \normalLyrics
+    E ri -- co -- vrar quel che di me per -- de -- i,
+    E ri -- co -- vrar __ quel che di me per -- de -- i.
 }
 
 tenoreVincipit = \relative c' {
@@ -127,12 +149,12 @@ tenoreVincipit = \relative c' {
     e2
 }
 
+% tenore: checked against source
 tenoreV = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
-    r1 r2 r4 e ~ | e a,2 gs4 a2 b | c b4 b a8[ b c a] b2) | a1 
+    r1 r2 r4 e ~ | e a,2 gs4 a2 b | c b4 b a8([ b c a] b2) | a1 
 
     r2 a'2 ~ | a4 g g2 r2 r4 g ~ | g c, d d e1 | a, r2 a | d4. d8 b4 b 
 
@@ -143,33 +165,39 @@ tenoreV = \relative c' {
         b4 c2 b4 c c d d | c2 g4 g' 
 
     f4 e2 d4 | e2 r2 r2 r4 c ~ | c8[ c] g4 a f g2 g4 g' ~ |
-        g4. g8 f4 g e e2 e | r1 r2 r4 c | a b c2 
+        g8[ g8] f4 g e e2 e | r1 r2 r4 c | a b c2 
 
-    r2 c d4 e a, d ~ | d cs d c b4. b8 a4 c | d e a,2 r4 e'2 ds4 ~ |
-        ds\ficta cs\unficta ds e \[ f1( | e) \] d\longa*1/2
+    r2 c | d4 e a, d2 cs4 d c | b4. b8 a4 c d e a,2 |
+                  % vvvv ds to d (# went on wrong note)
+        r4 e'2 d cs4 d e | \[ f1( e) \] | d\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsV = \lyricmode {
-%    Se tu mi la -- sci,
-%    \ijLyrics
-%    se tu mi la -- sci
-%    \normalLyrics
-%        per -- fi -- da, tuo dan -- no,
-%        per -- fi -- da, tuo dan -- no:
-%    Non ti pen -- sar che si -- a,
-%        che si -- a
-%    Mi -- se -- ro sen -- za te la vi -- ta mi -- a.
-%    Mi -- se -- ro ben sa -- re -- i,
-%    Se mis -- e -- ria sti -- mas -- si e non ven -- tu -- ra,
-%    \ijLyrics
-%        e non ven -- tu -- ra,
-%    \normalLyrics
-%        e non ven -- tu -- ra
-%    Per -- der chi non mi cu -- ra,
-%    E ri -- co -- vrar quel che di me per -- de -- i,
-%        quel che di me,
-%        quel che di me per -- de -- i.
+    Se __ tu mi la -- sci,
+    \ijLyrics
+    Se tu mi la -- sci
+    \normalLyrics
+        per -- fi -- da,
+        per -- fi -- da, tuo dan -- no:
+    Non ti pen -- sar che si -- a
+    Mi -- se -- ro sen -- za te,
+    \ijLyrics
+    Mi -- se -- ro sen -- za te
+    \normalLyrics
+        la vi -- ta mi -- a,
+        la vi -- ta mi -- a.
+    Mi -- se -- ro ben sa -- re -- i,
+    Se mis -- e -- ria sti -- mas -- si~e non ven -- tu -- ra,
+        e non ven -- tu -- ra,
+        e non ven -- tu -- ra
+    Per -- der chi non mi cu -- ra,
+    \ijLyrics
+    Per -- der chi non mi cu -- ra,
+    \normalLyrics
+    E ri -- co -- vrar quel che di me per -- de -- i,
+    E ri -- co -- vrar quel che di me,
+        quel che di me per -- de -- i.
 }
 
 bassoVincipit = \relative c' {
@@ -180,8 +208,8 @@ bassoVincipit = \relative c' {
     a2
 }
 
+% basso: checked against source
 bassoV = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -204,25 +232,28 @@ bassoV = \relative c' {
 }
 
 bassoLyricsV = \lyricmode {
-%    Se tu mi la -- sci,
-%    \ijLyrics
-%    se tu mi la -- sci
-%    \normalLyrics
-%        per -- fi -- da, tuo dan -- no,
-%        per -- fi -- da, tuo dan -- no:
-%    Non ti pen -- sar che si -- a,
-%        che si -- a
-%    Mi -- se -- ro sen -- za te la vi -- ta mi -- a.
-%    Mi -- se -- ro ben sa -- re -- i,
-%    Se mis -- e -- ria sti -- mas -- si e non ven -- tu -- ra,
-%    \ijLyrics
-%        e non ven -- tu -- ra,
-%    \normalLyrics
-%        e non ven -- tu -- ra
-%    Per -- der chi non mi cu -- ra,
-%    E ri -- co -- vrar quel che di me per -- de -- i,
-%        quel che di me,
-%        quel che di me per -- de -- i.
+    Se tu mi la -- sci,
+    \ijLyrics
+    Se tu mi la -- sci
+    \normalLyrics
+        per -- fi -- da, tuo dan -- no,
+    \ijLyrics
+        per -- fi -- da, tuo dan -- no:
+    \normalLyrics
+    Non ti pen -- sar,
+    Non ti pen -- sar che si -- a
+    Mi -- se -- ro sen -- za te,
+    \ijLyrics
+    Mi -- se -- ro sen -- za te
+    \normalLyrics
+        la vi -- ta mi -- a.
+    Mi -- se -- ro ben sa -- re -- i,
+    Se mis -- e -- ria sti -- mas -- si~e non ven -- tu -- ra,
+        e non ven -- tu -- ra
+    Per -- der chi non mi cu -- ra,
+    E ri -- co -- vrar,
+    E ri -- co -- vrar quel che di me per -- de -- i,
+        quel che di me per -- de -- i.
 }
 
 quintoVincipit = \relative c'' {
@@ -258,7 +289,7 @@ quintoV = \relative c'' {
 quintoLyricsV = \lyricmode {
     Se tu mi la -- sci,
     \ijLyrics
-    se tu mi la -- sci
+    Se tu mi la -- sci
     \normalLyrics
         per -- fi -- da, tuo dan -- no,
         per -- fi -- da, tuo dan -- no:
