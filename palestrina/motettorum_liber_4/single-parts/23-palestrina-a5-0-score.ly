@@ -13,7 +13,7 @@
     title = "Quæ est ista quæ progreditur"
     language = "latin"
     instrument = "Quæ est ista quæ progreditur (score)"
-    folio = \markup { \italic { Song of Songs } 6:10 (antiphon of the assumption) }
+    folio = "Song of Songs 6:10 (antiphon of the assumption)"
 
     % Unchanging:
     originallyset = "2016-10-02"

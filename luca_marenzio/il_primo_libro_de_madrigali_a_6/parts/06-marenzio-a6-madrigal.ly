@@ -283,7 +283,7 @@ sestoVI = \relative c' {
     R\breve*2 | a\breve | fs1 g | a2 bf a1 ~ | a r | r1 d ~ | d b | 
         cs2 d1 cs2 | d\breve | r1
 
-    r2r4 a ~ | a f'2 c4 ef2 d | R\breve | r2 r4 a2 c g4 ~ | g d'2 a4 r a c c |
+    r2 r4 a ~ | a f'2 c4 ef2 d | R\breve | r2 r4 a2 c g4 ~ | g d'2 a4 r a c c |
 
     bf4 bf a1 e2 | a d1 c2 | d4( c bf2) bf1 | r1 r2 r4 g' ~ | 
         g e2 c a f4 ~ | f d2 bf' d bf4 ~ | bf4 g2 ef c4 r2 |

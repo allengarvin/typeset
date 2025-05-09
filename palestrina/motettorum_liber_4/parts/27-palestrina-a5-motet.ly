@@ -13,7 +13,6 @@ cantusXXVIIincipit = \relative c'' {
 % cantus: checked against source
 cantusXXVII = \relative c'' {
     \fourTwoCutTime
-    \clef treble
     \key f \major
 
     c\breve | d1 b | c1. a2 | bf c d2.( c4 | bf2 a g1) | a\breve | r2 g

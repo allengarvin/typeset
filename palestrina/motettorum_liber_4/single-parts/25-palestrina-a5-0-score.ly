@@ -88,7 +88,6 @@
     }   
     \markup {
         \fill-line {
-                \vspace #2
             \column {
                 \line { Quam pulchri sunt gressus tui in calciamentis filia principis. }
                 \line { Junctura femorum tuorum sicut monilia quae fabricata sunt manu artificis. }

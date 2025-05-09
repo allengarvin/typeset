@@ -13,7 +13,7 @@
     title = "Trahe me post te"
     language = "latin"
     instrument = "Trahe me post te (score)"
-    folio = \markup { \italic { Song of Songs } 1:3 }
+    folio = "Song of Songs 1:3"
 
     % Unchanging:
     originallyset = "2018-08-17"

@@ -13,7 +13,7 @@
     title = "Læve ejus sub capite meo"
     language = "latin"
     instrument = "Læve ejus sub capite meo (score)"
-    folio = \markup { \italic { Song of Songs } 2:6-7 }
+    folio = "Song of Songs 2:6-7"
 
     % Unchanging:
     originallyset = "2016-09-27"

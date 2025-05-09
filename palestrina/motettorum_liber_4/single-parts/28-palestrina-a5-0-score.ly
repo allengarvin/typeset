@@ -13,7 +13,7 @@
     title = "Guttur tuum sicut vinum optimum"
     language = "latin"
     instrument = "Guttur tuum sicut vinum optimum (score)"
-    folio = \markup { \italic { Song of Songs } 7:9-10 }
+    folio = "Song of Songs 7:9-10"
 
     % Unchanging:
     originallyset = "2016-10-04"

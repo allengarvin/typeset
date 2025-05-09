@@ -13,7 +13,7 @@
     title = "Surgam et circuibo civitatem"
     language = "latin"
     instrument = "Surgam et circuibo civitatem (score)"
-    folio = \markup { \italic { Song of Songs } 3:2 }
+    folio = "Song of Songs 3:2"
 
     % Unchanging:
     originallyset = "2016-09-26"

@@ -93,11 +93,10 @@
     \markup {
         \fill-line {
             \column {
-                \line { 9 Vulnerasti cor meum, soror mea, sponsa; } 
+                \line { Vulnerasti cor meum, soror mea, sponsa; } 
                 \line { vulnerasti cor meum in uno oculorum tuorum, } 
                 \line { et in uno crine colli tui. } 
-                \line {  } 
-                \line { 10 Quam pulchræ sunt mammæ tuæ, soror mea sponsa! } 
+                \line { Quam pulchræ sunt mammæ tuæ, soror mea sponsa! } 
                 \line { pulchriora sunt ubera tua vino, } 
                 \line { et odor unguentorum tuorum super omnia aromata. } 
             }
