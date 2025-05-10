@@ -57,7 +57,7 @@ cantoOneXVII = \relative c' {
 }
 
 cantoOneLyricsXVII = \lyricmode {
-    Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne, __
+    Quel ros -- si -- gnol, che sì so -- a -- ve pia -- gne, __
     For -- se suoi fi -- gli, ho __ sua ca -- ra con -- sor -- te,
     Di dol -- cez -- za~em -- pie~il cie -- lo e le cam -- pa -- gne
     Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te,
@@ -119,7 +119,7 @@ cantoTwoXVII = \relative c' {
 }
 
 cantoTwoLyricsXVII = \lyricmode {
-    Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne,
+    Quel ros -- si -- gnol, che sì so -- a -- ve pia -- gne,
     For -- se suoi fi -- gli, ho __ sua ca -- ra con -- sor -- te,
     Di dol -- cez -- za~em -- pie~il cie -- lo~e le cam -- pa -- gne
     Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te, __
@@ -177,8 +177,8 @@ altoXVII = \relative c' {
 }
 
 altoLyricsXVII = \lyricmode {
-    Quel ro -- si -- gnol, __ che sì so -- a -- ve pia -- gne,
-    Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne, __
+    Quel ros -- si -- gnol, __ che sì so -- a -- ve pia -- gne,
+    Quel ros -- si -- gnol, che sì so -- a -- ve pia -- gne, __
     For -- se suoi fi -- gli~ho __ sua ca -- ra con -- sor -- te,
     Di __ dol -- cez -- za~em -- pie~il cie -- lo~e le __ cam -- pa -- gne
     Con tan -- te no -- te,
@@ -240,7 +240,7 @@ tenoreXVII = \relative c {
 }
 
 tenoreLyricsXVII = \lyricmode {
-    Quel ro -- si -- gnol, __ che sì so -- a -- ve pia -- gne,
+    Quel ros -- si -- gnol, __ che sì so -- a -- ve pia -- gne,
     For -- se suoi fi -- gli~ho sua ca -- ra con -- sor -- te,
     Di __ dol -- cez -- za~em -- pie~il cie -- lo e le __ cam -- pa -- gne
     Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te,
@@ -297,7 +297,7 @@ bassoXVII = \relative c {
 }
 
 bassoLyricsXVII = \lyricmode {
-    Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne,
+    Quel ros -- si -- gnol, che sì so -- a -- ve pia -- gne,
     For -- se suoi fi -- gli~ho sua ca -- ra con -- sor -- te,
     Di dol -- cez -- za~em -- pie~il cie -- lo~e le __ cam -- pa -- gne
     Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te,
@@ -354,8 +354,8 @@ quintoXVII = \relative c' {
 }
 
 quintoLyricsXVII = \lyricmode {
-    Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne,
-    Quel ro -- si -- gnol, che sì so -- a -- ve pia -- gne,
+    Quel ros -- si -- gnol, che sì so -- a -- ve pia -- gne,
+    Quel ros -- si -- gnol, che sì so -- a -- ve pia -- gne,
     For -- se suoi fi -- gli~ho sua ca -- ra con -- sor -- te,
     Di dol -- cez -- za~em -- pie~il cie -- lo e le __ cam -- pa -- gne
     Con tan -- te no -- te sì __ pie -- to -- se~e scor -- te,

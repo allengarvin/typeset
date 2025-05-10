@@ -9,19 +9,19 @@
 
 \header {
     % Things that change per piece:
-    title = "Quel rosignol"
+    title = "Quel rossignol"
     subtitle = "Prima parte"
-    instrument = "Quel rosignol (quinto)"
+    instrument = "Quel rossignol (quinto)"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCXI (311) }
 
     % Things that change per part:
     partname = "Quinto (part 4 of 6)"
-    instrument = "Quel rosignol (quinto)"
+    instrument = "Quel rossignol (quinto)"
 
     % Unchanging:
     originallyset = "2018-09-03"
     lastupdated = "2018-09-03"
-    shorttitle = "quel_rosignol"
+    shorttitle = "quel_rossignol"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
@@ -29,7 +29,7 @@
 \include "../parts/17-wert-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "17-wert--quel_rosignol"
+    \bookOutputName "17-wert--quel_rossignol"
     \bookOutputSuffix "--4-quinto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -45,7 +45,7 @@
 
 
 \book {
-    \bookOutputName "17-wert--quel_rosignol"
+    \bookOutputName "17-wert--quel_rossignol"
     \bookOutputSuffix "--4-quinto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

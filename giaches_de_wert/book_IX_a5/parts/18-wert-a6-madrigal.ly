@@ -29,9 +29,9 @@ cantoOneXVIII = \relative c'' {
 }
 
 cantoOneLyricsXVIII = \lyricmode {
-    O che lie -- ve~in -- ga -- nar chi s'as -- se -- cu -- ra,
+    O che lie -- ve~in -- ga -- nar chi s'as -- si -- cu -- ra,
     Que' duo bei lu -- mi,
-    Que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
+    Que' duo bei lu -- mi as -- sai più che'l sol chia -- ri
     Chi pen -- sò mai ve -- der far ter -- ra~o -- scu -- ra?
 
     Or co -- gno -- sco~io,
@@ -43,7 +43,7 @@ cantoOneLyricsXVIII = \lyricmode {
     Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
         e la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta,
+    Co -- me nul -- la quag -- giù di -- let -- ta,
         di -- let -- ta,
         di -- let -- ta~e du -- ra.
 
@@ -81,9 +81,9 @@ cantoTwoXVIII = \relative c'' {
 }
 
 cantoTwoLyricsXVIII = \lyricmode {
-    O che lie -- ve~in -- ga -- nar chi s'as -- se -- cu -- ra,
+    O che lie -- ve~in -- ga -- nar chi s'as -- si -- cu -- ra,
     Que' duo bei lu -- mi,
-    Que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
+    Que' duo bei lu -- mi as -- sai più che'l sol chia -- ri
     Chi pen -- sò mai ve -- der far ter -- ra~o -- scu -- ra?
 
     Or co -- gno -- sco~io,
@@ -94,7 +94,7 @@ cantoTwoLyricsXVIII = \lyricmode {
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
     Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta,
+    Co -- me nul -- la quag -- giù di -- let -- ta,
         di -- let -- ta,
         di -- let -- ta~e du -- ra.
 }
@@ -130,9 +130,9 @@ altoXVIII = \relative c' {
 }
 
 altoLyricsXVIII = \lyricmode {
-    O che lie -- ve~in -- ga -- nar chi s'as -- se -- cu -- ra,
+    O che lie -- ve~in -- ga -- nar chi s'as -- si -- cu -- ra,
     Que' duo bei lu -- mi,
-    Que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
+    Que' duo bei lu -- mi as -- sai più che'l sol chia -- ri
     Chi pen -- sò mai ve -- der far ter -- ra~o -- scu -- ra?
 
     Or co -- gno -- sco~io,
@@ -144,7 +144,7 @@ altoLyricsXVIII = \lyricmode {
     Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta,
+    Co -- me nul -- la quag -- giù di -- let -- ta,
         di -- let -- ta,
         di -- let -- ta, __
         di -- let -- ta~e du -- ra.
@@ -176,18 +176,18 @@ tenoreXVIII = \relative c' {
 }
 
 tenoreLyricsXVIII = \lyricmode {
-%    O che lie -- ve~in -- ga -- nar chi s'as -- se -- cu -- ra,
+%    O che lie -- ve~in -- ga -- nar chi s'as -- si -- cu -- ra,
 %    Que' duo bei lu -- mi,
-%    que' duo bei lu -- mi as -- sai piú che'l sol chia -- ri
+%    que' duo bei lu -- mi as -- sai più che'l sol chia -- ri
 %    Chi pen -- sò mai ve -- der far ter -- ra~o -- scu -- ra?
 %
 
     Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta~e du -- ra,
+    Co -- me nul -- la quag -- giù di -- let -- ta~e du -- ra,
     Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta, __
+    Co -- me nul -- la quag -- giù di -- let -- ta, __
         di -- let -- ta,
         di -- let -- ta~e du -- ra.
 }
@@ -222,7 +222,7 @@ bassoXVIII = \relative c' {
 bassoLyricsXVIII = \lyricmode {
     Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta~e du -- ra,
+    Co -- me nul -- la quag -- giù di -- let -- ta~e du -- ra,
     Or co -- gno -- sco~io,
     \ijLyrics
     Or co -- gno -- sco~io
@@ -230,7 +230,7 @@ bassoLyricsXVIII = \lyricmode {
         che mia fe -- ra ven -- tu -- ra
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
         e la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta, 
+    Co -- me nul -- la quag -- giù di -- let -- ta, 
         di -- let -- ta~e du -- ra.
 }
 
@@ -263,11 +263,11 @@ quintoXVIII = \relative c' {
 quintoLyricsXVIII = \lyricmode {
     Or co -- gno -- sco~io __ che mia fe -- ra ven -- tu -- ra
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta~e du -- ra,
+    Co -- me nul -- la quag -- giù di -- let -- ta~e du -- ra,
     Or co -- gno -- sco~io che mia fe -- ra ven -- tu -- ra
     Vuol che vi -- ven -- do~e la -- gri -- man -- do~im -- pa -- ri,
         e la -- gri -- man -- do~im -- pa -- ri,
-    Co -- me nul -- la quag -- giú di -- let -- ta,
+    Co -- me nul -- la quag -- giù di -- let -- ta,
         di -- let -- ta,
         di -- let -- ta~e du -- ra.
 }

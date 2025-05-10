@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Quel rosignol"
+    title = "Quel rossignol"
     subtitle = "Prima parte"
-    instrument = "Quel rosignol (score)"
+    instrument = "Quel rossignol (score)"
     language = "italian"
     needtranslation = #'f
     folio = \markup { Petrarca, \italic{Canzoniere} CCCXI (311) }
@@ -22,7 +22,7 @@
     lastupdated = "2018-09-03"
     flats = 1
     final = "d"
-    shorttitle = "quel_rosignol"
+    shorttitle = "quel_rossignol"
     categories = "[madrigal,animal]"
     poeticform = "sonnet"
     motifs = "[nightingale,bird]"
@@ -34,7 +34,7 @@
 \include "../parts/17-wert-a6-madrigal.ly"
 
 \book {
-    \bookOutputName "17-wert--quel_rosignol"
+    \bookOutputName "17-wert--quel_rossignol"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -102,14 +102,15 @@
     \markup {
         \fill-line {
             \column {
-                \line { Quel rosignol, che sí soave piagne, }
+                % Italian touchup: 2025-05-10
+                \line { Quel rossignol, che sí soave piagne, }
                 \line { forse suoi figli, o sua cara consorte, }
-                \line { di dolcezza empie il cielo et le campagne }
-                \line { con tante note sí pietose et scorte, }
+                \line { di dolcezza empie il cielo e le campagne }
+                \line { con tante note sì pietose e scorte, }
                 \line { \vspace #1 }
                 \line { et tutta notte par che m'accompagne, }
                 \line { et mi ramente la mia dura sorte: }
-                \line { ch'altri che me non ò di cui mi lagne, }
+                \line { ch'altri che me non ho di cui mi lagne, }
                 \line { ché 'n dee non credev'io regnasse Morte. }
                 \line { \hspace #12 Petrarca, \italic{Canzoniere} CCCXI (311) }
             }
