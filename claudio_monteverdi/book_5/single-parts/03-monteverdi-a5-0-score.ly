@@ -9,34 +9,38 @@
 #(set-global-staff-size 14.5)
 
 \header {
+    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
+    cksum = "d969f897b1ba450c1e206b1141ba8de920755512"
+    lastupdated = "2025-05-10"
+    originallyset = "2025-05-10"
+    flats = 1
+    final = "d"
+    \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Era l'anima mia"
     subtitle = ""
+    subsubtitle = ""
     instrument = "Era l'anima mia:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "era_lanima_mia"
-    shortcomp = "pallavicino"
+    shortcomp = "monteverdi"
+    categories = "[madrigal,morte]"
+    motifs = "[la-petite-mort,amore,morte]"
     needtranslation = #'f
     folio = "Giovanni Battista Guarini (1538-1612)"
+    sametext = #'( "4a8cf14f81d334c01797084d55587bc7b626ed5f" "d969f897b1ba450c1e206b1141ba8de920755512" )
+
 
     % Unchanging:
     language = "italian"
-    lastupdated = "2022-04-03"
-    originallyset = "2022-04-03"
-    flats = 0
-    final = "a"
-    categories = "[madrigal,viol-madrigal,morte]"
-    motifs = "[la-petite-mort,amore,morte]"
-    \include "include/distribution-header.ly"
-    cksum = "4a8cf14f81d334c01797084d55587bc7b626ed5f"
-    sametext = #'( "4a8cf14f81d334c01797084d55587bc7b626ed5f" "d969f897b1ba450c1e206b1141ba8de920755512" )
+    poeticform = "madrigal"
     tagline = #'f
 }
 
-\include "../parts/13-pallavicino-a5-madrigal.ly"
+\include "../parts/03-monteverdi-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "13-pallavicino--era_lanima_mia-"
+    \bookOutputName "03-monteverdi--era_lanima_mia-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -45,51 +49,51 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXIIIincipitVoice
+                    \incipit \cantoIIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoXIII
+                    \cantoIII
                 >>
-             \addlyrics { \cantoLyricsXIII }
+             \addlyrics { \cantoLyricsIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXIIIincipitVoice
+                    \incipit \altoIIIincipitVoice
                     \clef "treble"
                     \global
-                    \altoXIII
+                    \altoIII
                 >>
-             \addlyrics { \altoLyricsXIII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXIIIincipitVoice
-                    \clef "treble"
-                    \global
-                    \tenoreXIII
-                >>
-             \addlyrics { \tenoreLyricsXIII }
+             \addlyrics { \altoLyricsIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoXIIIincipitVoice
+                    \incipit \quintoIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintoXIII
+                    \quintoIII
                 >>
-             \addlyrics { \quintoLyricsXIII }
+             \addlyrics { \quintoLyricsIII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenore"
+                    \incipit \tenoreIIIincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenoreIII
+                >>
+             \addlyrics { \tenoreLyricsIII }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXIIIincipitVoice
+                    \incipit \bassoIIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoXIII
+                    \bassoIII
                 >>
-             \addlyrics { \bassoLyricsXIII }
+             \addlyrics { \bassoLyricsIII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 82 2)
+                tempoWholesPerMinute = #(ly:make-moment 68 2)
             }
         }
     }   
@@ -125,4 +129,3 @@
         }
     }
 }
-

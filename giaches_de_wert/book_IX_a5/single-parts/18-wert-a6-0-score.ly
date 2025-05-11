@@ -23,10 +23,8 @@
     flats = 1
     final = "g"
     shorttitle = "o_che_lieve_e_inganar"
-    poeticform = "sonnet"
     categories = "[madrigal]"
     \include "include/distribution-header.ly"
-    cksum = "628d9c860e4fb6e6044861ab4c3a8dc0499f26c8"
     tagline = #'f
 }
 
@@ -101,13 +99,13 @@
     \markup {
         \fill-line {
             \column {
-                \line { O che lieve è inganar chi s'assecura! }
-                \line { Que' duo bei lumi assai piú che 'l sol chiari }
+                \line { O che lieve è inganar chi s'assicura! }
+                \line { Que' duo bei lumi assai più che 'l sol chiari }
                 \line { chi pensò mai veder far terra oscura? }
                 \line { \vspace #1 }
                 \line { Or cognosco io che mia fera ventura }
                 \line { vuol che vivendo et lagrimando impari }
-                \line { come nulla qua giú diletta, et dura. }
+                \line { come nulla quaggiù diletta, et dura. }
                 \line { \hspace #12 Petrarca, \italic{Canzoniere} CCCXI (311) }
             }
             \column {
@@ -123,4 +121,3 @@
         }
     }
 }
-

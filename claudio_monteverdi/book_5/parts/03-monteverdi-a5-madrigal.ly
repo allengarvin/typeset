@@ -18,8 +18,8 @@ cantoIIIincipit = \relative c'' {
     d4
 }
 
+% canto:c hecked against source
 cantoIII = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCommonTime
 
@@ -32,7 +32,7 @@ cantoIII = \relative c'' {
         a d,8[ d d d]
 
     e1 | d4 f8[ g] a2 r1 | r1 r2 r4 d8[ e] | f2. ef8[ d] c2 d |
-        R\breve*2 | d1. f,8[ f f f] | e1
+        R\breve R | d1. f,8[ f f f] | e1
 
     d2 r4 a' | a4. a8 a4 bf c4. c8 d4 ef | c2 bf r4 a8[ bf] c4 d ~ |
         d a a2 a1 | r4 a
@@ -41,8 +41,9 @@ cantoIII = \relative c'' {
         c g a r4 e | fs g a1 r2 | 
 
     R\breve | r4 a b c d1 | 
+        \invisibleTime\time 6/2 s1*0 \raisedSixTwoTime
         r4 f, g a bf1 r4 d, e2
-        fs\longa*1/2
+        \invisibleTime\time 4/2 fs\longa*1/2
     \bar "|."
 }
 
@@ -51,52 +52,49 @@ cantoLyricsIII = \lyricmode {
 %    Già pres -- so al -- l'ul -- ti -- m'o -- re,
 %    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
 %    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
-%    Quan -- d'a -- ni -- ma più bel -- la~e più gra -- di -- ta
-%    Vol -- se lo sguar -- d'in sì pie -- to -- so gi -- ro
-%    % Che mi man -- ten -- n'in vi -- ta.
-%    Pa -- rean dir,
-%    Pa -- rean dir quei bei lu -- mi:
+    Quan -- d'a -- ni -- ma più bel -- la~e più gra -- di -- ta
+    Vol -- se lo sguar -- d'in sì pie -- to -- so gi -- ro
+    Che mi man -- ten -- n'in vi -- ta.
+    Pa -- rean dir,
+    Pa -- rean dir quei bei lu -- mi:
+    Deh, per -- ché ti con -- su -- mi,
+    Deh, __ per -- ché ti con -- su -- mi?
+
+    Pa -- rean dir,
+    Pa -- rean dir quei bei lu -- mi:
 %    Deh, per -- ché ti con -- su -- mi,
-%    Deh, per -- ché ti con -- su -- mi?
-%
-%    Pa -- rean dir,
-%    Pa -- rean dir quei bei lu -- mi,
-%    Pa -- rean dir quei bei lu -- mi:
-%    Deh, per -- ché ti con -- su -- mi,
-%    Deh, per -- ché ti con -- su -- mi?
-%
-%    Non m'è sì ca -- ro~il cor on -- d'io re -- spi -- ro
-%    Co -- me se' tu, cor mi -- o.
-%    Se mo -- ri~ohi -- mè,
-%    \ijLyrics
-%    Se mo -- ri~ohi -- mè,
-%    \normalLyrics
-%        non mo -- ri tu, mo -- r'i -- o,
-%    Se mo -- ri~ohi -- mè, non mo -- ri tu,
-%        non mo -- ri tu, mo -- r'i -- o,
-%        non mo -- ri tu, mo -- r'i -- o.
+    Deh, per -- ché ti con -- su -- mi?
+
+    Non m'è sì ca -- ro~il cor on -- d'io re -- spi -- ro
+    Co -- me se' tu, __ cor mi -- o.
+    Se mo -- ri~ohi -- mè,
+    Se mo -- ri~ohi -- mè,
+        non mo -- ri tu,
+    Se mo -- ri~ohi -- mè, non mo -- ri tu,
+        non mo -- ri tu,
+        non mo -- ri tu, mo -- r'i -- o.
 }
 
 altoIIIincipit = \relative c'' {
-    \clef "petrucci-c3"
+    \clef "petrucci-c1"
     \key f \major
     \time 4/4
 
     bf4
 }
 
+% alto: checked against source
 altoIII = \relative c'' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
     R\breve*4 R\breve*2 | r4 bf bf4. bf8 bf4 c d4. c8 | bf4 bf a2 bf
 
     d ~ | d4 c8[ bf] a[ g a bf] c4 a b( c ~ | c b) c2 r8 bf[ a g] fs4 g |
-        fs2 g r1 | R\breve*5 |
+        fs2 g r1 | R\breve*3 R\breve*2 |
 
-    r1 r2 r4 bf8[ c] | d2. c8[ bf] a2 bf | R\breve*2 | bf1 f8[ f f e] d2  ~|
-        d cs2 d r4 fs | fs4. fs8 
+    r1 r2 r4 bf8[ c] | d2. c8[ bf] a2 bf | R\breve R | bf1 f8[ f f e] d2  ~|
+        d( cs2) d r4 fs | fs4. fs8 
 
     fs4 g a4. a8 bf4 bf | a2 bf r4 f8[ g] a2 | 
         g4 g fs2 fs2. \ficta f4\unficta
@@ -106,8 +104,9 @@ altoIII = \relative c'' {
         a b cs1 ~ | cs r4 e, f g | a1
 
     r4 e e2 | d4 fs g a bf1 |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         r4 a bf c d1 r4 fs, g2
-        a\longa*1/2
+        \invisibleTime\time 4/2 a\longa*1/2
 
     \bar "|."
 }
@@ -117,13 +116,12 @@ altoLyricsIII = \lyricmode {
 %    Già pres -- so al -- l'ul -- ti -- m'o -- re,
 %    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
 %    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
-%    Quan -- d'a -- ni -- ma più bel -- la~e più gra -- di -- ta
-%    Vol -- se lo sguar -- d'in sì pie -- to -- so gi -- ro
-%    % Che mi man -- ten -- n'in vi -- ta.
+    Quan -- d'a -- ni -- ma più bel -- la~e più gra -- di -- ta
+    Vol -- se lo sguar -- d'in sì pie -- to -- so gi -- ro
+    Che mi man -- ten -- n'in vi -- ta.
 %    Pa -- rean dir,
-%    Pa -- rean dir quei bei lu -- mi:
-%    Deh, per -- ché ti con -- su -- mi,
-%    Deh, per -- ché ti con -- su -- mi?
+    Pa -- rean dir quei bei lu -- mi:
+    Deh, per -- ché ti con -- su -- mi?
 %
 %    Pa -- rean dir,
 %    Pa -- rean dir quei bei lu -- mi,
@@ -131,16 +129,16 @@ altoLyricsIII = \lyricmode {
 %    Deh, per -- ché ti con -- su -- mi,
 %    Deh, per -- ché ti con -- su -- mi?
 %
-%    Non m'è sì ca -- ro~il cor on -- d'io re -- spi -- ro
-%    Co -- me se' tu, cor mi -- o.
-%    Se mo -- ri~ohi -- mè,
-%    \ijLyrics
-%    Se mo -- ri~ohi -- mè,
-%    \normalLyrics
-%        non mo -- ri tu, mo -- r'i -- o,
-%    Se mo -- ri~ohi -- mè, non mo -- ri tu,
-%        non mo -- ri tu, mo -- r'i -- o,
-%        non mo -- ri tu, mo -- r'i -- o.
+    Non m'è sì ca -- ro~il cor on -- d'io re -- spi -- ro
+    Co -- me se' tu, cor mi -- o.
+    Se mo -- ri~ohi -- mè,
+    Se mo -- ri~ohi -- mè,
+        non mo -- ri tu,
+    Se mo -- ri~ohi -- mè,
+    Se mo -- ri~ohi -- mè, __
+        non mo -- ri tu, mo -- r'i -- o,
+        non mo -- ri tu,
+        non mo -- ri tu, mo -- r'i -- o.
 }
 
 tenoreIIIincipit = \relative c {
@@ -151,15 +149,16 @@ tenoreIIIincipit = \relative c {
     f2.
 }
 
+% tenore: checked against source
 tenoreIII = \relative c {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
     r2 f2. f4 f f8[ f] | f2 f4 f f4. f8 f2 ~ | f4 d d2 e4 f
 
-    e4 f | d e cs d4. d8 d4 cs2 | d4 bf' a bf g as fs g ~ | g8[ g] g4 fs2 g1 |
-        R\breve*4 | 
+                                              % vv as to a
+    e4 f | d e cs d4. d8 d4 cs2 | d4 bf' a bf g a fs g ~ | g8[ g] g4 fs2 g1 |
+        R\breve*3 R\breve | 
 
     r1 r4 d' d4. c8 | bf4 g f4. g8 a4 bf c2 | f, f'2. e8[ d] c[ bf c d] |
         ef4 ef
@@ -177,23 +176,24 @@ tenoreIII = \relative c {
         r4 e fs g a1 ~ | a2 a a1 | d,
 
     r4 fs g a | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         bf1 r4 d, e f g d g2
-        d\longa*1/2
+        \invisibleTime\time 4/2 d\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsIII = \lyricmode {
-%    E -- ra l'a -- ni -- ma mia
-%    Già pres -- so al -- l'ul -- ti -- m'o -- re,
-%    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
-%    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
-%    Quan -- d'a -- ni -- ma più bel -- la~e più gra -- di -- ta
-%    Vol -- se lo sguar -- d'in sì pie -- to -- so gi -- ro
-%    % Che mi man -- ten -- n'in vi -- ta.
+    E -- ra l'a -- ni -- ma mia
+    Già pres -- so al -- l'ul -- ti -- m'o -- re,
+    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
+    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
+    Quan -- d'a -- ni -- ma più bel -- la~e più gra -- di -- ta
+    Vol -- se lo sguar -- d'in sì pie -- to -- so gi -- ro
+    Che mi man -- ten -- n'in vi -- ta.
 %    Pa -- rean dir,
-%    Pa -- rean dir quei bei lu -- mi:
-%    Deh, per -- ché ti con -- su -- mi,
-%    Deh, per -- ché ti con -- su -- mi?
+    Pa -- rean dir quei bei lu -- mi:
+    Deh, per -- ché ti con -- su -- mi, __
+    Deh, per -- ché ti con -- su -- mi?
 %
 %    Pa -- rean dir,
 %    Pa -- rean dir quei bei lu -- mi,
@@ -201,16 +201,14 @@ tenoreLyricsIII = \lyricmode {
 %    Deh, per -- ché ti con -- su -- mi,
 %    Deh, per -- ché ti con -- su -- mi?
 %
-%    Non m'è sì ca -- ro~il cor on -- d'io re -- spi -- ro
-%    Co -- me se' tu, cor mi -- o.
-%    Se mo -- ri~ohi -- mè,
-%    \ijLyrics
-%    Se mo -- ri~ohi -- mè,
-%    \normalLyrics
-%        non mo -- ri tu, mo -- r'i -- o,
-%    Se mo -- ri~ohi -- mè, non mo -- ri tu,
-%        non mo -- ri tu, mo -- r'i -- o,
-%        non mo -- ri tu, mo -- r'i -- o.
+    Non m'è sì ca -- ro~il cor on -- d'io re -- spi -- ro
+    Co -- me se' tu, __ cor mi -- o.
+    Se mo -- ri~ohi -- mè,
+    Se mo -- ri~ohi -- mè,
+        non mo -- ri tu, mo -- r'i -- o,
+    Se mo -- ri~ohi -- mè, non mo -- ri tu, __ mo -- r'i -- o,
+        non mo -- ri tu,
+        non mo -- ri tu, mo -- r'i -- o.
 }
 
 bassoIIIincipit = \relative c {
@@ -221,8 +219,8 @@ bassoIIIincipit = \relative c {
     d2.
 }
 
+% basso: checked against source
 bassoIII = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCommonTime
 
@@ -231,7 +229,7 @@ bassoIII = \relative c {
     r4 g g4. f8 ef4 c bf4. c8 | d4 ef f2 bf, bf' ~ |
         bf4 a8[ g] f[ e f g] a4 a
 
-    g2 ~ | g c,8[ c bf a] g4 g d'2 ~ | d g, r1 | R\breve*4 |
+    g2 ~ | g c,8[ c bf a] g4 g d'2 ~ | d g, r1 | R\breve*3 R\breve |
         r2 r4 d'8[ e] f2. e8[ d] | c1 f4 g8[ a]
 
     bf2 ~ | bf4 a8[ g] f1 bf,2 | bf'1. ef,8[ ef ef ef] |
@@ -242,37 +240,32 @@ bassoIII = \relative c {
 
     g,1 | d' r4 g g2 | e1 g ~ | g\breve | r1 r4 c, c2 ~ | c bf a1 ~ |
         a\breve ~ | a1 r1 | R\breve | r1 r4 d e f |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         g1 g, g 
-        d'\longa*1/2
+        \invisibleTime\time 4/2 d'\longa*1/2
     \bar "|."
 }
 
 bassoLyricsIII = \lyricmode {
-%    E -- ra l'a -- ni -- ma mia
-%    Già pres -- so al -- l'ul -- ti -- m'o -- re,
+    E -- ra l'a -- ni -- ma mia
+    Già pres -- so al -- l'ul -- ti -- m'o -- re,
 %    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
 %    E lan -- guia co -- me lan -- gue~al -- ma che mo -- re,
-%    Quan -- d'a -- ni -- ma più bel -- la~e più gra -- di -- ta
-%    Vol -- se lo sguar -- d'in sì pie -- to -- so gi -- ro
-%    % Che mi man -- ten -- n'in vi -- ta.
+    Quan -- d'a -- ni -- ma più bel -- la~e più gra -- di -- ta
+    Vol -- se lo sguar -- d'in sì pie -- to -- so gi -- ro
+    Che mi man -- ten -- n'in vi -- ta.
 %    Pa -- rean dir,
-%    Pa -- rean dir quei bei lu -- mi:
-%    Deh, per -- ché ti con -- su -- mi,
-%    Deh, per -- ché ti con -- su -- mi?
-%
-%    Pa -- rean dir,
-%    Pa -- rean dir quei bei lu -- mi,
-%    Pa -- rean dir quei bei lu -- mi:
-%    Deh, per -- ché ti con -- su -- mi,
-%    Deh, per -- ché ti con -- su -- mi?
-%
-%    Non m'è sì ca -- ro~il cor on -- d'io re -- spi -- ro
-%    Co -- me se' tu, cor mi -- o.
-%    Se mo -- ri~ohi -- mè,
-%    \ijLyrics
-%    Se mo -- ri~ohi -- mè,
-%    \normalLyrics
-%        non mo -- ri tu, mo -- r'i -- o,
+    Pa -- rean dir quei bei lu -- mi,
+    Pa -- rean dir __ quei bei lu -- mi:
+    Deh, per -- ché ti con -- su -- mi,
+    Deh, __ per -- ché ti con -- su -- mi?
+
+    Non m'è sì ca -- ro~il cor on -- d'io re -- spi -- ro
+    Co -- me se' tu, cor mi -- o.
+    Se mo -- ri~ohi -- mè,
+    Se mo -- ri~ohi -- mè, __
+    Se mo -- ri~ohi -- mè, __
+        non mo -- ri tu, mo -- r'i -- o.
 %    Se mo -- ri~ohi -- mè, non mo -- ri tu,
 %        non mo -- ri tu, mo -- r'i -- o,
 %        non mo -- ri tu, mo -- r'i -- o.
@@ -311,8 +304,9 @@ quintoIII = \relative c' {
         g ef d1 | r4 d ef f g1 | r4 ef d2 c2. e4 | 
 
     e2 d e1 ~ | e r4 e fs g | a2 r2 r4 cs, d e | f1 cs4 d2( cs4) | d\breve ~ |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         d1 r4 fs, g a bf a bf2
-        a\longa*1/2
+        \invisibleTime\time 4/2 a\longa*1/2
         
     \bar "|."
 }
