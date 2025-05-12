@@ -6,8 +6,8 @@ cantoIIIincipit = \relative c' {
     e2.
 }
 
+% canto: checked against source
 cantoIII = \relative c' {
-    \clef soprano
     \key c \major
     \fourTwoCommonTime
 
@@ -43,6 +43,30 @@ cantoIII = \relative c' {
 }
 
 cantoLyricsIII = \lyricmode {
+    Ver -- gi -- ne pu -- ra, d'o -- gni par -- te~in -- te -- ra,
+        d'o -- gni par -- te~in -- te -- ra, __
+    Del __ tuo par -- to gen -- til fi -- glio -- la~e ma -- dre,
+%    Ch'al -- lu -- mi que -- sta,
+    Ch'al -- lu -- mi que -- sta vi -- t'e __ l'al -- tr'a -- dor -- ni,
+    Per te~il tuo fi -- glio~e quel __ del som -- mo Pa -- dre,
+        e quel del som -- mo Pa -- dre, __
+    O __ fe -- ne -- stra del ciel lu -- cen -- te~al -- te -- ra,
+%    Ven -- ne~a sal -- var -- ne,
+    Ven -- ne~a sal -- var -- n'in su gli~e -- stre -- mi gior -- ni; __
+%    E fra tut -- t'i ter -- re -- ni~al -- tri sog -- gior -- ni
+    So -- la tu fo -- sti~e -- let -- ta,
+    So -- la tu __ fo -- sti~e -- let -- ta,
+
+    Ver -- gi -- ne be -- ne -- det -- ta,
+    Che'l pian -- to d'E -- va in al -- le -- grez -- za tor -- ni.
+    Fam -- mi, ché puoi, del -- la Sua gra -- zia de -- gno,
+        del -- la Sua gra -- zia de -- gno,
+    Sen -- za fi -- ne~o Be -- a -- ta,
+    Sen -- za fi -- ne~o Be -- a -- ta,
+    Sen -- za fi -- ne~o __ Be -- a -- ta,
+    Già co -- ro -- na -- ta,
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno, __
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno.
 }
 
 altoIIIincipit = \relative c' {
@@ -53,12 +77,12 @@ altoIIIincipit = \relative c' {
     e2.
 }
 
+% alto: checked against source
 altoIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
-    R\breve*2 | r1 e2. e4 | e2 a1 g2 | g1 c,2 d | e d c8[\melfi d e f] g2 ~ |
+    R\breve*2 | r1 e2. e4 | e2 a1 g2 | g1 c,2 d | e d\melfi c8[ d e f] g2 ~ |
         g4 fs8[ e] fs!2\melfiEnd
 
     g2 g ~ | g g e2.( f4 | g1) e2 g ~ | g4( f8[ e] f2) e e | f g f1 | e2 g
@@ -92,6 +116,26 @@ altoIII = \relative c' {
 }
 
 altoLyricsIII = \lyricmode {
+    Ver -- gi -- ne pu -- ra, d'o -- gni par -- te~in -- te -- ra,
+    Del __ tuo par -- to gen -- til fi -- glio -- la~e ma -- dre,
+%    Ch'al -- lu -- mi que -- sta,
+    Ch'al -- lu -- mi que -- sta vi -- t'e l'al -- tr'a -- dor -- ni,
+    Per te~il tuo fi -- glio~e quel del som -- mo Pa -- dre,
+    O __ fe -- ne -- stra del __ ciel lu -- cen -- te~al -- te -- ra,
+    Ven -- ne~a sal -- var -- n'in su __ gli~e -- stre -- mi gior -- ni;
+    E __ fra tut -- t'i ter -- re -- ni~al -- tri sog -- gior -- ni
+    So -- la tu __ fo -- sti~e -- let -- ta,
+    Ver -- gi -- ne be -- ne -- det -- ta, __
+    Che'l pian -- to d'E -- va in al -- le -- grez -- za tor -- ni,
+        in al -- le -- grez -- za tor -- ni. __
+%    Fam -- mi, ché puo -- i,
+    Fam -- mi, ché puoi, del -- la Sua gra -- zia de -- gno,
+    Sen -- za fi -- ne~o __ Be -- a -- ta,
+    Sen -- za fi -- ne~o __ Be -- a -- ta,
+    Sen -- za fi -- ne~o Be -- a -- ta, __
+    Già co -- ro -- na -- ta nel su -- per -- no,
+        nel __ su -- per -- no re -- gno,
+    Già co -- ro -- na -- ta nel __ su -- per -- no re -- gno.
 }
 
 tenoreIIIincipit = \relative c' {
@@ -102,12 +146,12 @@ tenoreIIIincipit = \relative c' {
     b2.
 }
 
+% tenore: checked against source (twice! oops!)
 tenoreIII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
-    r1 b2. b4 | c2 1 b2 | a e c' b | a4( b c d e1) | e2 c1 b2 | c d
+    r1 b2. b4 | b2 c1 b2 | a e c' b | a4( b c d e1) | e2 c1 b2 | c d
 
     e2.( d4 | c1) d2 e ~ | e d c1 | b2. a4 g1 | r1 r2 c | a g a( g4 f |
         g2) c, r1 | r2 r4 c' b2 a | gs a
@@ -119,7 +163,7 @@ tenoreIII = \relative c' {
         r1 r2 c | a g a( g4 f | g2) c, r1 | 
 
     % --- page ---
-    r2 c b a | gs a e e' ~ | e4( d c2) b a | b1 a | r2 a2. a4 a2 | b b c e |
+    r2 c' b a | gs a e e' ~ | e4( d c2) b a | b1 a | r2 a2. a4 a2 | b b c e |
         d4.( c8 b4) e 
 
     d1 | c2 e f d | c e d1 | g, r2 d' | e c c b | a1 g4( a b a8[ b] | c1) r2 d|
@@ -135,14 +179,40 @@ tenoreIII = \relative c' {
         r2 d' c b | e d c2. b4 | a2 g f1 | e
 
     r1 | a c2 b | a( gs) a1 | r2 b c e ~ | e b c4( b a g | f d a'2) d, d' |
-        c b d
+        c b d(
     
-    e2 ~ | e4( d8[ c] d2) e1 | r2 b c e ~ | e d c2.( b8[ a] | \[ b1 a) \] | 
+    e2 ~ | e4 d8[ c] d2) e1 | r2 b c e ~ | e d c2.( b8[ a] | \[ b1 a) \] | 
         gs\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsIII = \lyricmode {
+    Ver -- gi -- ne pu -- ra, d'o -- gni par -- te~in -- te -- ra,
+        d'o -- gni par -- te~in -- te -- ra,
+    Del __ tuo par -- to gen -- til fi -- glio -- la~e ma -- dre,
+%    Ch'al -- lu -- mi que -- sta,
+    Ch'al -- lu -- mi que -- sta vi -- t'e __ l'al -- tr'a -- dor -- ni,
+    Per te~il tuo fi -- glio~e quel del som -- mo Pa -- dre,
+        e __ quel del som -- mo Pa -- dre,
+    O __ fe -- ne -- stra del ciel lu -- cen -- te~al -- te -- ra,
+%    Ven -- ne~a sal -- var -- ne,
+    Ven -- ne~a sal -- var -- n'in su gli~e -- stre -- mi gior -- ni;
+    E fra tut -- t'i ter -- re -- ni~al -- tri __ sog -- gior -- ni
+    So -- la tu fo -- sti~e -- let -- ta,
+    So -- la tu fo -- sti~e -- let -- ta, __
+
+    Ver -- gi -- ne be -- ne -- det -- ta,
+    Che'l pian -- to d'E -- va in al -- le -- grez -- za tor -- ni.
+%    Fam -- mi, ché puo -- i,
+    Fam -- mi, ché puoi, del -- la Sua gra -- zia de -- gno,
+        del -- la Sua gra -- zia de -- gno,
+    Sen -- za fi -- ne~o __ Be -- a -- ta,
+    Sen -- za fi -- ne~o __ Be -- a -- ta,
+        o Be -- a -- ta, __
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno,
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno,
+%    Già co -- ro -- na -- ta,
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno.
 }
 
 bassoIIIincipit = \relative c {
@@ -153,8 +223,8 @@ bassoIIIincipit = \relative c {
     e2.
 }
 
+% basso: checked against source
 bassoIII = \relative c {
-    \clef varbaritone
     \key c \major
     \fourTwoCommonTime
 
@@ -180,7 +250,7 @@ bassoIII = \relative c {
 
     c,4 c f4. f8 | f4 f d2 c1 | r2 c b c | g' a g c, | e1 d | g c,2.( d4 |
 
-    e4 f g2) c,1 | r2 g' f e | g1 d | a' g | a2.( g4 f2) c | \[ g'1( a) \] |
+    e4 f g2 c,1) | r2 g' f e | g1 d | a' g | a2.( g4 f2) c | \[ g'1( a) \] |
         g1 r1 | c,1. b2 | a a'1 g2 | 
 
     f1 c | e2 g c,1 | g'1 r1 | R\breve*2 | r2 e d c | f1 e | r2 e a c ~ |
@@ -192,6 +262,28 @@ bassoIII = \relative c {
 }
 
 bassoLyricsIII = \lyricmode {
+    Ver -- gi -- ne pu -- ra, d'o -- gni par -- te~in -- te -- ra, __
+    Del __ tuo par -- to gen -- til fi -- glio -- la~e ma -- dre,
+    Ch'al -- lu -- mi que -- sta vi -- t'e l'al -- tra~e
+       l'al -- tr'a -- dor -- ni, __
+    Per te~il tuo fi -- glio~e quel del som -- mo Pa -- dre, __
+    O __ fe -- ne -- stra del ciel lu -- cen -- te~al -- te -- ra,
+    Ven -- ne~a sal -- var -- n'in su,
+        in su gli~e -- stre -- mi gior -- ni;
+    E __ fra tut -- t'i ter -- re -- ni~al -- tri sog -- gior -- ni
+    So -- la tu fo -- sti~e -- let -- ta,
+
+    Ver -- gi -- ne be -- ne -- det -- ta,
+    Che'l pian -- to d'E -- va in al -- le -- grez -- za tor -- ni,
+        in al -- le -- grez -- za tor -- ni.
+%    Fam -- mi, ché puo -- i,
+    Fam -- mi, ché puoi, del -- la Sua gra -- zia de -- gno, __
+    Sen -- za fi -- ne~o Be -- a -- ta,
+        o __ Be -- a -- ta,
+    Sen -- za fi -- ne~o Be -- a -- ta,
+        o Be -- a -- ta,
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno,
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno. __
 }
 
 quintoIIIincipit = \relative c' {
@@ -202,8 +294,8 @@ quintoIIIincipit = \relative c' {
     b2.
 }
 
+% quinto: checked against source
 quintoIII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCommonTime
 
@@ -234,12 +326,37 @@ quintoIII = \relative c' {
     c2 e ~ | e d c2.( b8[ a] | b1) a2 c | f e d1 | a2 g a4( b c2 ~ |
         c b4 a c2) b | a( gs) a1 | 
 
-    r2 c c e ~ | e b c1 | b\longa*1/2
+    r2 b c e ~ | e b c1 | b\longa*1/2
         
     \bar "|."
 }
 
 quintoLyricsIII = \lyricmode {
+    Ver -- gi -- ne pu -- ra, d'o -- gni par -- te~in -- te -- ra, __
+    Del __ tuo par -- to gen -- til fi -- glio -- la~e ma -- dre,
+    Ch'al -- lu -- mi que -- sta,
+    Ch'al -- lu -- mi que -- sta vi -- t'e l'al -- tr'a -- dor -- ni,
+    Per te~il tuo fi -- glio~e quel del som -- mo Pa -- dre,
+    \ijLyrics
+    Per te~il tuo fi -- glio~e quel del som -- mo Pa -- dre, __
+    \normalLyrics
+    O __ fe -- ne -- stra del ciel lu -- cen -- te~al -- te -- ra,
+    Ven -- ne~a sal -- var -- ne,
+    Ven -- ne~a sal -- var -- n'in su gli~e -- stre -- mi gior -- ni; 
+    E __ fra tut -- t'i ter -- re -- ni~al -- tri __ sog -- gior -- ni
+    So -- la tu fo -- sti~e -- let -- ta,
+
+    Ver -- gi -- ne be -- ne -- det -- ta,
+    Che'l __ pian -- to d'E -- va in al -- le -- grez -- za tor -- ni. 
+    Fam -- mi, ché puo -- i,
+    Fam -- mi, ché puoi, del -- la Sua gra -- zia de -- gno,
+    Sen -- za fi -- ne~o Be -- a -- ta,
+    Sen -- za fi -- ne~o Be -- a -- ta,
+    Sen -- za fi -- ne~o Be -- a -- ta,
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno,
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno,
+    Già co -- ro -- na -- ta,
+    Già co -- ro -- na -- ta nel su -- per -- no re -- gno.
 }
 
 cantoIIIincipitVoice = <<

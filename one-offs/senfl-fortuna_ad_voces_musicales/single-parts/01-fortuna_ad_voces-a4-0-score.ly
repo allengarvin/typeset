@@ -18,6 +18,7 @@
     % Unchanging:
     originallyset = "2013-05-25"
     lastupdated = "2013-05-25"
+    categories = "[fortuna]"
     flats = 1
     final = "f"
     \include "include/distribution-header.ly"

@@ -9,24 +9,27 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2023-06-16"
-    originallyset = "2023-06-16"
-    flats = 0
-    final = "c"
-    \include "include/distribution-header.ly"
-    cksum = "bfb7ffd8f3b6177b520cdc89af44319c8fc98cb6"
+    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
+    cksum = "e7cd8bb0adaa6b230d597d049ba62e3eb68ad6a9"
     sametext = #'( "bfb7ffd8f3b6177b520cdc89af44319c8fc98cb6" "e7cd8bb0adaa6b230d597d049ba62e3eb68ad6a9" )
+
+    lastupdated = "2025-05-12"
+    originallyset = "2025-05-12"
+    flats = 0
+    final = "e"
+    \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Vergine pura"
     subtitle = ""
+    subsubtitle = ""
     instrument = "Vergine pura:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "vergine_pura"
-    shortcomp = "rore"
-    folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
+    shortcomp = "palestrina"
     categories = "[madrigal]"
-    motifs = "[virgin,mary]"
+    motifs = "[virgin,mary,purity]"
     needtranslation = #'f
+    folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
 
     % Unchanging:
     language = "italian"
@@ -34,63 +37,63 @@
     tagline = #'f
 }
 
-\include "../parts/03-rore-a5-madrigal.ly"
+\include "../parts/03-palestrina-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "03-rore--vergine_pura-"
+    \bookOutputName "03-palestrina--vergine_pura-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.7
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
-                    \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusIIIincipitVoice
+                    \set Staff.instrumentName = #"Canto"
+                    \incipit \cantoIIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantusIII
+                    \cantoIII
                 >>
-             \addlyrics { \cantusLyricsIII }
+             \addlyrics { \cantoLyricsIII }
                 \new Voice <<
-                    \set Staff.instrumentName = #"Altus"
-                    \incipit \altusIIIincipitVoice
+                    \set Staff.instrumentName = #"Alto"
+                    \incipit \altoIIIincipitVoice
+                    \clef "treble"
+                    \global
+                    \altoIII
+                >>
+             \addlyrics { \altoLyricsIII }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenore"
+                    \incipit \tenoreIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \altusIII
+                    \tenoreIII
                 >>
-             \addlyrics { \altusLyricsIII }
+             \addlyrics { \tenoreLyricsIII }
                 \new Voice <<
-                    \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorIIIincipitVoice
+                    \set Staff.instrumentName = #"Quinto"
+                    \incipit \quintoIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorIII
+                    \quintoIII
                 >>
-             \addlyrics { \tenorLyricsIII }
+             \addlyrics { \quintoLyricsIII }
                 \new Voice <<
-                    \set Staff.instrumentName = #"Quintus"
-                    \incipit \quintusIIIincipitVoice
-                    \clef "treble_8"
-                    \global
-                    \quintusIII
-                >>
-             \addlyrics { \quintusLyricsIII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusIIIincipitVoice
+                    \set Staff.instrumentName = #"Basso"
+                    \incipit \bassoIIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusIII
+                    \bassoIII
                 >>
-             \addlyrics { \bassusLyricsIII }
+             \addlyrics { \bassoLyricsIII }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 108 2)
+                tempoWholesPerMinute = #(ly:make-moment 92 2)
             }
         }
     }   
@@ -132,4 +135,3 @@
         }
     }
 }
-
