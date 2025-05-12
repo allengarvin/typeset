@@ -24,7 +24,7 @@ cantusVIII = \relative c' {
     \key f \major
     \fourTwoCutTime
 
-    \tempo 2 = 108
+    %\tempo 2 = 108
     R\breve*2 | f1 f2 f | g1 a | R\breve | r1 f | f2 f g1 | a\breve | 
         r1 a | a2 a b1 | c2 g
 
@@ -43,8 +43,8 @@ cantusVIII = \relative c' {
     r2 d,2. d4 e2 | f d r2 a' ~ | a4 a b2 c1 | a2 d1 c2 | 
         d c1\melfi b2\melfiEnd | c1 r1 | R\breve*2 | r1 r2 c | c bf a1 | g r1 |
 
-    \time 3/1
-    \tempo 2 = 168
+    \singleTime \time 3/1 \threeWholeFromBreve
+    %\tempo 2 = 168
         R\breve.*2 | c1 c a | bf1. bf2 g1 | a\breve f1 | g\breve. | f |
         c'1 c c | bf1. bf2 bf1 | a\breve a1 | g\breve g1 | bf bf bf |
 
@@ -53,8 +53,8 @@ cantusVIII = \relative c' {
         bf1. bf2 bf1 | 
 
     a\breve a1 | g\breve g1 | bf bf bf | a1.( bf4 c d1) | a c\breve |
-        \fourTwoCutTime
-        \tempo 2 = 108
+        \fourTwoCutTime\breveFromThreeWhole
+        %\tempo 2 = 108
         c2 a a a | bf\breve | a | d | c\longa*1/2
     \bar "|."
 }
@@ -127,7 +127,7 @@ altusVIII = \relative c' {
         d2. d4 e2 f ~ | f d f1 | f2. e4 d1 | c r1 | R\breve*2 R\breve |
         r1 r2 f | f e d1 | 
 
-    \time 3/1
+    \singleTime \time 3/1 \threeWholeFromBreve
         e\breve r1 | R\breve. R\breve.*2 | f1 f f | ef1. ef2 ef1 | d\breve d1 | 
         c\breve c1 | r1 f f | f c1.( d2 | e f g1) e | d\breve d1 | 
 
@@ -135,7 +135,7 @@ altusVIII = \relative c' {
         ef1. ef2 ef1 | d\breve d1 | c\breve c1 | r1 f f | f c1.( d2 |
         e f g1) e | 
 
-    d\breve d1 | d d d | c1. c2 c1 | \fourTwoCutTime
+    d\breve d1 | d d d | c1. c2 c1 | \fourTwoCutTime\breveFromThreeWhole
         c2 f f c d2.( e4 f2. e4 | d2) a1 d2 ~ | d4( c d e f1) |
         f\longa*1/2
     \bar "|."
@@ -204,7 +204,7 @@ tenorVIII = \relative c {
         R\breve*2 | r2 a2. a4 b2 | c1 a2 d ~ | d c d c ~ | 
         c\melfi b\melfiEnd c1 | R\breve*2 | 
 
-    \time 3/1
+    \singleTime \time 3/1 \threeWholeFromBreve
         c1 c c | bf1. bf2 bf1 | a\breve a1 | g\breve g1 | c c d | bf1. bf2 c1 |
         a\breve bf1 | g1.( a4 bf c1) | f,\breve. | f1 f f |
 
@@ -214,7 +214,7 @@ tenorVIII = \relative c {
 
     g1.( a4 bf c1) | f,\breve. | f1 f f | c1.( d2 e f | g\breve) g1 |
         f1.( e2 d1 | f g\breve) |
-        \fourTwoCutTime a2 c c c | bf1.( a4 g | f2. g4 a2) d, f\breve |
+        \fourTwoCutTime\breveFromThreeWhole a2 c c c | bf1.( a4 g | f2. g4 a2) d, f\breve |
         f\longa*1/2
     \bar "|."
 }
@@ -280,7 +280,7 @@ bassusVIII = \relative c, {
     f2.( g4 a bf | c\breve) | f,1 bf2. bf4 | c2 d1 g,2 | d'1 d2 c | bf1 a |
         R\breve R\breve*2 | r1 d2. d4 | e2 f1 d2 | f1 f2 e | 
 
-    d1 c | R\breve*2 | \time 3/1 c1 c a | bf1. bf2 g1 | a\breve f1 | 
+    d1 c | R\breve*2 | \singleTime \time 3/1 \threeWholeFromBreve c1 c a | bf1. bf2 g1 | a\breve f1 | 
         g\breve. | f\breve r1 | R\breve. | f'1 f d | ef1. ef2 c1 | 
         d\breve bf1 | 
 
@@ -290,7 +290,7 @@ bassusVIII = \relative c, {
     g\breve. | f\breve r1 | R\breve. | f'1 f d | ef1. ef2 c1 | d\breve bf1 | 
         c\breve f,1 | c' c c | g1.( a2 bf c | d1. c2 bf1) | f c'\breve | 
 
-    \fourTwoCutTime
+    \fourTwoCutTime\breveFromThreeWhole
 
     f,1 r2 f' | f f bf,4( a bf c | d2. e4 f g f e | d2.) c4 bf1 | f\longa*1/2
     \bar "|."
@@ -359,7 +359,7 @@ quintusVIII = \relative c {
 
     a1 d, | R\breve | r2 f2. f4 g2 | a f r2 c | f g a2.\melisma b4 |
         \ficta
-        c d c1 b2\melfiEnd | \time 3/1
+        c d c1 b2\melfiEnd | \singleTime \time 3/1 \threeWholeFromBreve
         c\breve r1 | R\breve. | c1 c c | bf1. bf2 bf1 | 
 
     a\breve a1 | g\breve g1 | d d d | g\breve a1 | d,1.( e2 f g | a\breve.) |
@@ -369,7 +369,7 @@ quintusVIII = \relative c {
         a\breve a1 | g\breve g1 | d d d | g\breve a1 | 
 
     d,1.( e2 f g | a\breve.) | r1 g g | g d1.( e2 | f g a1) bf | 
-        c1.( bf4 a g1) | \fourTwoCutTime
+        c1.( bf4 a g1) | \fourTwoCutTime\breveFromThreeWhole
         f\breve | r2 f f d ~ | d d'1 a2 | bf\breve | a\longa*1/2
     \bar "|."
 }
@@ -445,7 +445,7 @@ sextusVIII = \relative c {
     c1) | c d2. d4 | e2 f1 d2 | f1 f2 e | d2.( e4 f2 e) | d1 r1 | 
         R\breve*2 | r1 f2. f4 | g2 a1 f2 | a1 a2 g | 
 
-    f2.( g4 a2) g | R\breve*2 | \time 3/1
+    f2.( g4 a2) g | R\breve*2 | \singleTime \time 3/1 \threeWholeFromBreve
         g1 g a | d,1. d2 d1 | c\breve c1 | R\breve. | f1 f d | ef1. ef2 c1 |
         d\breve bf1 | c\breve a1 | 
 
@@ -458,7 +458,7 @@ sextusVIII = \relative c {
         g1) g,\breve\colorBrEnd | d'1.( e2
 
     \colorBr f1 \colorBrBegin ~ | f1 c\breve\colorBrEnd) |
-        \fourTwoCutTime
+        \fourTwoCutTime\breveFromThreeWhole
         f2 f f f | bf,4( a bf c d2. e4 | f g f 2 d2.) c4 | bf\breve | 
         f'\longa*1/2
     \bar "|."
@@ -524,7 +524,7 @@ septimusVIII = \relative c' {
         bf bf4( c d e f2) | f f, f2.( g4 | a bf c2. bf8[ a] g2) | 
 
     c1 r1 | R\breve*3 | f2. f4 g2 a ~ | a f a1 | a1. g2 | e1 d | R\breve*2 |
-        r2 f f e | d1 c ~ | c r1 | \time 3/1
+        r2 f f e | d1 c ~ | c r1 | \singleTime \time 3/1 \threeWholeFromBreve
         R\breve.*2 | e1 e f | d\breve e1 | 
 
     f\breve r1 | R\breve. | f1 f f | ef1. ef2 f1 | d1. d2 d1 | c r1 c |
@@ -534,7 +534,7 @@ septimusVIII = \relative c' {
         R\breve. | f1 f f | ef1. ef2 f1 | d1. d2 d1 | c1 r1 c | 
 
     c1 c g ~ | g2( a bf c d1 ~ | d2 e f1) f | f\breve( e1) | 
-        \fourTwoCutTime f1 r2 f | f2.( e4 d2) bf | f'1. f2 | f2.( e4 d2 bf) |
+        \fourTwoCutTime\breveFromThreeWhole f1 r2 f | f2.( e4 d2) bf | f'1. f2 | f2.( e4 d2 bf) |
         c\longa*1/2
     \bar "|."
 }
