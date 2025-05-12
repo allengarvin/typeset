@@ -13,17 +13,17 @@
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Vegine, tale è terra"
+    title = "Vergine, tale è terra"
     subtitle = ""
-    instrument = "Vegine, tale è terra:  (altus)"
+    instrument = "Vergine, tale è terra:  (altus)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "vegine_tale_e_terra"
+    shorttitle = "vergine_tale_e_terra"
     shortcomp = "rore"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
 
     % Things that change per part:
     partname = "Altus (part 2 of 5)"
-    instrument = "Vegine, tale è terra:  (altus)"
+    instrument = "Vergine, tale è terra:  (altus)"
 
     % Unchanging:
     tagline = #'f
@@ -32,7 +32,7 @@
 \include "../parts/08-rore-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "08-rore--vegine_tale_e_terra-"
+    \bookOutputName "08-rore--vergine_tale_e_terra-"
     \bookOutputSuffix "--2-altus--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -47,7 +47,7 @@
 }
 
 \book {
-    \bookOutputName "08-rore--vegine_tale_e_terra-"
+    \bookOutputName "08-rore--vergine_tale_e_terra-"
     \bookOutputSuffix "--2-altus--al_clef"
     \include "../include/paper-1-part.ly"
     \score {

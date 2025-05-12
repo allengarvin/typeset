@@ -16,11 +16,11 @@
     \include "include/distribution-header.ly"
     cksum = "4f8544694b571b371279e02a45085220c632f555"
     % Things that change per piece:
-    title = "Vegine, quante lagrime"
+    title = "Vergine, quante lagrime"
     subtitle = ""
-    instrument = "Vegine, quante lagrime:  (score)"
+    instrument = "Vergine, quante lagrime:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "vegine_quante_lagrime"
+    shorttitle = "vergine_quante_lagrime"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
     shortcomp = "rore"
     categories = "[madrigal]"
@@ -37,7 +37,7 @@
 \include "../parts/07-rore-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "07-rore--vegine_quante_lagrime-"
+    \bookOutputName "07-rore--vergine_quante_lagrime-"
     \bookOutputSuffix "--0-score"
     \score {
          <<

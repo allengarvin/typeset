@@ -17,11 +17,11 @@
     cksum = "492c1448358eebb90b97cf9b70368d1dde061893"
     sametext = #'(  "492c1448358eebb90b97cf9b70368d1dde061893" "6a0b7c1504194d22c804bfde3f8adbd789f54026" )
     % Things that change per piece:
-    title = "Vegine saggia"
+    title = "Vergine saggia"
     subtitle = ""
-    instrument = "Vegine saggia:  (score)"
+    instrument = "Vergine saggia:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "vegine_saggia"
+    shorttitle = "vergine_saggia"
     shortcomp = "rore"
     categories = "[madrigal]"
     motifs = "[virgin,mary,wisdom]"
@@ -37,7 +37,7 @@
 \include "../parts/02-rore-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "02-rore--vegine_saggia-"
+    \bookOutputName "02-rore--vergine_saggia-"
     \bookOutputSuffix "--0-score"
     \score {
          <<

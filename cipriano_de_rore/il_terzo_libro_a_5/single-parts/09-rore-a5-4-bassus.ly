@@ -13,17 +13,17 @@
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Vegine, in cui ho tutta mia speranza"
+    title = "Vergine, in cui ho tutta mia speranza"
     subtitle = ""
-    instrument = "Vegine, in cui ho tutta mia speranza:  (bassus)"
+    instrument = "Vergine, in cui ho tutta mia speranza:  (bassus)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "vegine_in_cui_ho_tutta_mia_speranza"
+    shorttitle = "vergine_in_cui_ho_tutta_mia_speranza"
     shortcomp = "rore"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCLXVI (366) }
 
     % Things that change per part:
     partname = "Bassus (part 5 of 5)"
-    instrument = "Vegine, in cui ho tutta mia speranza:  (bassus)"
+    instrument = "Vergine, in cui ho tutta mia speranza:  (bassus)"
 
     % Unchanging:
     tagline = #'f
@@ -32,7 +32,7 @@
 \include "../parts/09-rore-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "09-rore--vegine_in_cui_ho_tutta_mia_speranza-"
+    \bookOutputName "09-rore--vergine_in_cui_ho_tutta_mia_speranza-"
     \bookOutputSuffix "--5-bassus--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
