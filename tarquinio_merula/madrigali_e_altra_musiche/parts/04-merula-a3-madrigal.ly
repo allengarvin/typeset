@@ -51,6 +51,7 @@ cantoIV = \relative c'' {
     \key c \major
     \time 6/2
 
+    \tempo 2 = 88
     R\breve.*4 R\breve.*5 | r4 e2. d2 c1 b4 a |
 
                                                  % vvv c1 to c2
@@ -103,6 +104,7 @@ cantoIV = \relative c'' {
         \colorBr g1\colorBrBegin f\colorBrEnd  e4 d d2 |
 
     c4 g'2 c4 b2 r2 a4 a g2 | \time 4/4
+    \tempo 4 = 68
         e2 g16([ e f g] a[ b c g]) | a8.([ g16] a[ e f d] 
 
     e[ c d e] f[ g a e] | f8.[ c16] d[ e f d] e[ c d e] f[ g a b] |

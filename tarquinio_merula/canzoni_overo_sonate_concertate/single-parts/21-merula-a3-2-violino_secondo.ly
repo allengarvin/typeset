@@ -12,10 +12,10 @@
 \header {
     % Things that change per piece:
     title = "Chiacona"
-    instrument = "Chiacona (violino secondo)"
+    instrument = "Chiacona (violino II)"
 
     % Things that change per part:
-    partname = "Violino Secondo (part 2 of 3)"
+    partname = "Violino II (part 2 of 3)"
 
     % Unchanging:
     originallyset = "2013-04-16"
@@ -29,7 +29,7 @@
     
 \book {
     \bookOutputName "21-merula--chiacona"
-    \bookOutputSuffix "--2-violino-secondo"
+    \bookOutputSuffix "--2-violino_2--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

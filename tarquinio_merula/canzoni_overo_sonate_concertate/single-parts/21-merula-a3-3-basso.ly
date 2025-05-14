@@ -29,7 +29,7 @@
     
 \book {
     \bookOutputName "21-merula--chiacona"
-    \bookOutputSuffix "--3-violone"
+    \bookOutputSuffix "--3-violone--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
