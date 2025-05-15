@@ -48,8 +48,9 @@ cantusII = \relative c'' {
         b1 d2 | c2. b4 c2 | b1 g2 | a2. g4
 
     a2 | g1 b2 | a2. g4 a2 | 
-    \fourTwoCutTime \tempo 2 = 132
+    \fourTwoCutTime \tempo 2 = 80
         g1 gs2. gs4 | gs\breve\fermata
+        \tempo 2 = 132
         e2 e4 e2 e4 e e | e2 e e e | a c2. c4 b2 |
 
     a1 g | r4 b b2 b4 d2 d4 | a b c2 b r4 b ~ | b b d d a b c2 | b r r1 | 
@@ -405,7 +406,7 @@ altusII = \relative c' {
 
     r4 a' \ficta bf2 | bf4\unficta a g f g2 g | g1 g2 g | g g a1 | 
         r1 e4 e f e |
-        d c d d g4. g8 g4 f | e a2( g4) a1 |
+        d c d d g4. g8 g4 f | e a2\melfi gs4\melfiEnd a1 |
 
     R\breve | r2 r4 e a2 a4 a | g2. f4 e e a2 | a4 g f e d2 d4 d |
         g2. f4 e d e2 ~ | e( d) e1 | R\breve*2 | r1 r2 a4 a | a2 a
@@ -652,7 +653,7 @@ altusLyricsII = \lyricmode {
     A ta -- ñer con tu gui -- tar -- ra
     Y no -- so -- tros te~a -- yu -- da -- re -- mos.
 
-    E -- spe -- rad que~e -- sté tem -- pla -- da.
+    E -- spe -- rad que~e -- sté __ tem -- pla -- da.
 
     Den den,
     \ijLyrics
@@ -667,7 +668,7 @@ altusLyricsII = \lyricmode {
     Su -- be, su -- be~un po -- co más.
     Den den den den den.
 
-    Din din din din di -- rin \ijLyrics din din din\normalLyrics
+    Din din din din di -- rin \ijLyrics din din __ din\normalLyrics
         din din din.
     ¡Muy bien e -- stá!
 
@@ -762,7 +763,7 @@ tenorII = \relative c' {
     \fourTwoCutTime
     \key c \major
 
-    e1. a,2 | e' a, e' f | g1 c, | r2 c4 c c2 a | b( g) a1 | b r2 e4 e |
+    e1. a,2 | e' a, e' f | g1 c, | r2 c4 c c2 a( | b) g a1 | b r2 e4 e |
         e2 e e e |
 
     c1 f2. f4 | e2 a, e' f | g e1( d2) | e1 r2 b4 b | b2 b b b | a\breve |
@@ -992,7 +993,7 @@ tenorLyricsII = \lyricmode {
 
 %    Can -- te -- mos con a -- le -- grí -- a
     To -- dos hoy por su ser -- vi -- cio. __
-    ¡E -- a, e -- a, sus, % em -- pe -- ce -- mos!
+    ¡E -- a, e -- a, sus! % em -- pe -- ce -- mos!
     Em -- pie -- ça tú, Gil Pi -- çar -- ra,
     A ta -- ñer con tu gui -- tar -- ra
     Y __ no -- so -- tros te~a -- yu -- da -- re -- mos.
@@ -1327,7 +1328,7 @@ bassusLyricsII = \lyricmode {
 
 %    Can -- te -- mos con a -- le -- grí -- a
     To -- dos hoy __ por su ser -- vi -- cio. __
-    ¡E -- a, e -- a, sus, % em -- pe -- ce -- mos!
+    ¡E -- a, e -- a, sus! % em -- pe -- ce -- mos!
     Em -- pie -- ça tú, Gil Pi -- çar -- ra,
     A ta -- ñer con tu gui -- tar -- ra
     Y __ no -- so -- tros te~a -- yu -- da -- re -- mos.
