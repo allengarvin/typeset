@@ -11,7 +11,7 @@ cantusII = \relative c'' {
     \fourTwoCutTime
     \key c \major
 
-    \tempo 2 = 132
+    % \tempo 2 = 132
 
     R\breve*3 | c2. c4 c2 c | b1 a | g r2 g4 g | g2 g g g | a1 c2. c4 |
         c2 c c c |
@@ -30,17 +30,17 @@ cantusII = \relative c'' {
         R\breve*2 | r1 r2 c'4 c | c2 c r2 c4 c |
         \invisibleTime\time 2/2 s1*0\raisedTwoTwoTime c2 c | 
 
-    \singleTime\time 3/2 \tempo 2 = 198
+    \singleTime\time 3/2 % \tempo 2 = 198
         R1.*4 | b1 b2
 
     % --- page --- 5
     c1 b2 | c d1 | 
-        \fourTwoCutTime \tempo 2 = 132
+        \fourTwoCutTime % \tempo 2 = 132
         e2 e e1 | e2 e d c | c b( c) r4 g |
         a g a2 g4 e f2 | e1 r1 | \invisibleTime\time 2/2 
         s1*0\raisedTwoTwoTime
         R1 | 
-        \singleTime\time 3/2 \tempo 2 = 198
+        \singleTime\time 3/2 % \tempo 2 = 198
         e'2
 
     e2 d | e1 r2 | c b1 | a r2 | c b a |\ficta gs1 r2 |
@@ -48,18 +48,18 @@ cantusII = \relative c'' {
         b1 d2 | c2. b4 c2 | b1 g2 | a2. g4
 
     a2 | g1 b2 | a2. g4 a2 | 
-    \fourTwoCutTime \tempo 2 = 80
+    \fourTwoCutTime % \tempo 2 = 80
         g1 gs2. gs4 | gs\breve\fermata
-        \tempo 2 = 132
+        % \tempo 2 = 132
         e2 e4 e2 e4 e e | e2 e e e | a c2. c4 b2 |
 
     a1 g | r4 b b2 b4 d2 d4 | a b c2 b r4 b ~ | b b d d a b c2 | b r r1 | 
         R\breve*4 | 
-    \singleTime\time 3/2 \tempo 2 = 198
+    \singleTime\time 3/2 % \tempo 2 = 198
         r2 r e | e2. d4
 
     c2 | c b1 | c e2 | e2. d4 c2 | c b1 | 
-    \fourTwoCutTime \tempo 2 = 108
+    \fourTwoCutTime % \tempo 2 = 108
         c1 r1 | 
         r2 c4 d e e f d | e2 r r1 | r4 b8[ b] c4 g r4 b8[ b] 
     % --- page --
@@ -75,7 +75,7 @@ cantusII = \relative c'' {
     a4 g r b a g r b8[ b] | a4 g r g g g8[ g] g[ g g g ] |
     \invisibleTime\time 2/2 s1*0\raisedTwoTwoTime
         g8[ g] g4 r c 
-        \time 6/2 \tempo 2 = 198
+        \time 6/2 % \tempo 2 = 198
         c2 b1 c1 g2 | 
         %write the repeat out
         c1 d2 e1 c2 | d1 e2 f1 e2 | c1 d2 e1 d2 |
@@ -93,7 +93,7 @@ cantusII = \relative c'' {
 
         
          \bar "||"
-    \fourTwoCutTime \tempo 2 = 132
+    \fourTwoCutTime % \tempo 2 = 132
         R\breve*5 R\breve | f\breve | e1 d |
         d c | d\breve | r2 a1 a2 | a1.
 
@@ -113,7 +113,7 @@ cantusII = \relative c'' {
     c2 r1 | c4 b8[ a] g4 a8[ b] c1 | R\breve | r1 r2 g | a b c r | 
         r1 r2 r4 b | c2 b c4 c8[ c] c4 c ~ | \invisibleTime\time 2/2
         s1*0\raisedTwoTwoTime c4 c c b8[ a] |
-    \singleTime\time 3/2 \tempo 2 = 198
+    \singleTime\time 3/2 % \tempo 2 = 198
         b1
 
     c2 | c b1 | c r2 | R1.*2 | c1 d2 | e1 e2 | f1 f2 | e1 c2 | R1. |
@@ -121,7 +121,7 @@ cantusII = \relative c'' {
 
     % --- page ---
     c1 c2 | b1 b2 | c a1 | g g2 | c1 d2 | e1 d2 | c1 b2 |
-    \fourTwoCutTime \tempo 2 = 128
+    \fourTwoCutTime % \tempo 2 = 128
         c1 c | r1 c2 d | e2. e4 e2 f | e c r1 |
         e4 f g 
 
@@ -143,7 +143,7 @@ cantusII = \relative c'' {
 
     g4. g8 g4 g | g g a2 g1 | r1 g4. g8 g4 g | a g a b c2 r |
         r4 g a b c1 |
-    \singleTime\time 3/2 \tempo 2 = 198
+    \singleTime\time 3/2 % \tempo 2 = 198
         g1 g2 | a2. a4 c2 |
 
     b2 a2. g4 | g1 b2 | b1 c2 | a b1 | a b2 | b1 c2 | a b1 |
@@ -154,7 +154,7 @@ cantusII = \relative c'' {
         fs1. | e ~ | e | \repeat volta 2 {
         \colorBr e2.\colorBrBegin e4\colorBrEnd g2 ~| 
         g a1 | b1.~b } | 
-    \fourTwoCutTime \tempo 2 = 128
+    \fourTwoCutTime % \tempo 2 = 128
         e2. e4 e e 
 
                  % vvv d1 to c1
@@ -682,13 +682,13 @@ altusLyricsII = \lyricmode {
     \normalLyrics
 
     Din di -- rin
-    din di -- rin
+    din din din
     \ijLyrics
     din di -- rin
-        di -- rin,
-        di -- rin,
-        din din di -- rin din di -- rin din din din.
-    din di -- rin di -- rin din di -- rin di -- rin di -- rin din din.
+        din din,
+        din din,
+        din din din din din di -- rin din din din.
+    din din din din __ din din di -- rin din din din __ din din din.
     \normalLyrics
 
     Y ben -- di -- to sea e -- ste dí -- a
@@ -699,9 +699,9 @@ altusLyricsII = \lyricmode {
     Re -- me -- dió su~ad -- ve -- ni -- mien -- to mil e -- no -- jos.
     Din 
     \ijLyrics
-    din di -- rin din din di -- rin di -- rin din din
-    di -- rin din di -- rin din din din
-    din din din di -- rin din din di -- rin di -- rin din din din
+    din di -- rin din din din din din din din din
+    din din din di -- rin din din din
+    din din din din din din din din din din din din din din
     din __ din din din din din di -- rin
     din din din din din din di -- rin.
 
@@ -743,9 +743,9 @@ altusLyricsII = \lyricmode {
 
     ¡A Dios, __ se -- ño -- res!
     ¡La ve -- la!
-    Nam si pe -- ri -- cu -- la __ sunt in ma -- ri,
+    Nam si pe -- ri -- cu -- la sunt in ma -- ri,
         pe -- ri -- cu -- la sunt in ter -- ra
-    y pe -- ri -- cu -- la in fal -- sis fra -- tri -- bus, __
+    y pe -- ri -- cu -- la __ in fal -- sis fra -- tri -- bus, __
         in fal -- sis fra -- tri -- bus.
 }
 
@@ -1205,7 +1205,7 @@ bassusII = \relative c' {
     c4 c c c a2 a4 a ~ | a a a2 g g4 g ~ | g g g2 c,1 | c2 d e2. e4 | 
         e2 f e c | f g a2. a4 | a2 a g1 | g2 g4 g 
 
-    c2. c4 | c2 f, c' c | bf2. c4 g a g2 | c, r4 c' c c8[ c] g4 g |
+    c2. c4 | c2 f, c' c | bf2. c4 g( a g2) | c, r4 c' c c8[ c] g4 g |
         c2 c4 c2 c4 f, f | c'2 c4 c2
     % --- page ---
     c4 f, f | c'2 r4 c, f2 c4 c' ~ | c c c c a2 a4 a ~ | a a a2 g g4 g ~|
@@ -1215,7 +1215,7 @@ bassusII = \relative c' {
         c'2 c4 c2 c4 f, f | c'2 r4 c, f2 c4
 
     c' ~ | c c c c a2 a4 a ~ | a a a2 g1 | r2 g4 g c2 c4 c | c2 f, c' c |
-        bf2. c4 g a g2 | c,\breve | r1 e4. e8 e4
+        bf2. c4 g( a g2) | c,\breve | r1 e4. e8 e4
 
     e4 | f e f g c,1 | r1 r4 c f g | c,2 r r1 | \singleTime\time 3/2 
         c'1 c2 | f,2. f4 a2 | g f2. f4 | e1. | R1.*5 R1. | 
@@ -1233,7 +1233,7 @@ bassusII = \relative c' {
     c4 c c c | c2 c4 c f1 | e a2 e4 e | a2 e4 e a a e e | a a e e a1 |
         e\breve | R\breve*2 | r2 e1 e2 | f e f
 
-    g2 | a1 e | R\breve | r1 r2 e | g1 a2 g | a( f) e1 | R\breve |
+    g2 | a1 e | R\breve | r1 r2 e | g1 a2 g | a f e1 | R\breve |
         r1 r2 c' ~ | c b a g | a f e1 | 
         \repeat volta 2 { \times 2/3 { a2 a a } \times 2/3 { g g e }
             \times 2/3 { a a a } \times 2/3 { g1 e2 } 
@@ -1327,109 +1327,113 @@ bassusLyricsII = \lyricmode {
     re -- çe -- bi -- do~en e -- ste __ di -- a. __
 
 %    Can -- te -- mos con a -- le -- grí -- a
-    To -- dos hoy __ por su ser -- vi -- cio. __
+    To -- dos hoy por su ser -- vi -- cio. __
     ¡E -- a, e -- a, sus! % em -- pe -- ce -- mos!
     Em -- pie -- ça tú, Gil Pi -- çar -- ra,
     A ta -- ñer con tu gui -- tar -- ra
     Y __ no -- so -- tros te~a -- yu -- da -- re -- mos.
 
     E -- spe -- rad que~e -- sté __ tem -- pla -- da.
-%    Tiem -- pla -- la bien, hi de ru -- in.
-%
-%    Din di -- rin din, din di -- rin din,
-%    ¡A -- ca -- ba, mal -- di -- to, ya!
-%    Din di -- rin din di -- rin din,
-%    Den den de -- dén,
-%    Din din din
-%    \ijLyrics
-%    din di -- rin din din din din di -- rin
-%    \normalLyrics
-%        din.
-%%¡Oh, como está destemplada!
-%%¡Acaba, maldito, ya!
-%%Dendén, dendén, dindirindín.
-%%¡Es por demás!
-%%Sube, sube un poco más.
-%%Dendén, dendén, dindirindín.
-%    ¡Muy bien e -- stá!
-%%
-%    An -- de pues, nue -- stro~a -- pel -- li -- do,
-%    el ta -- ñer con el can -- tar
-%    con -- cor -- des en a -- la -- bar
-%    % --- page ---
-%    a Je -- sús re -- zién na -- ci -- do,
-%    a Je -- sús re -- zién na -- ci -- do.
-%%
-%%Dindirindín, dindirindín.
-%    Ben -- di -- to~el que hoy~a ve -- ni -- do
-%    A li -- brar -- nos de~a -- go -- nía,
-%    \ijLyrics
-%    a li -- brar -- nos de~a -- go -- nía.
-%    \normalLyrics
-%    Din din din di -- rin
-%    \ijLyrics
-%    din din di -- rin din din di -- rin din di -- rin den de -- dén,
-%    \normalLyrics
-%
-%    din din din di -- rin din din din din din di -- rin din,
-%%%bendito sea este día
-%%%que nasció el contentamiento.
-%    Re -- me -- dió su~ad -- ve -- ni -- mien -- to mil e -- no -- jos.
-%    Din din din din
-%    \ijLyrics
-%    din di -- rin din din din din
-%    din din din din din din din din din di -- rin din din din din din din din din
-%
-%    din di -- rin din din din di -- rin din din din din din din di -- rin.
-%    \normalLyrics
-%    Ben -- di -- tos sean los o -- jos
-%    Que con pie -- dad nos mi -- ra -- ron,
-%    \ijLyrics
-%        con pie -- dad nos mi -- ra -- ron
-%    \normalLyrics
-%    Y ben -- di -- tos, que~an -- sí~a -- man -- sa -- ron
-%    tal for -- tu -- na.
+
+    Din din din din din din.
+    ¡A -- ca -- ba, mal -- di -- to, ya!
+
+    Din din din.
+    Den den den den den den.
+    \ijLyrics
+    Den den den den den den __ den den
+    \normalLyrics
+    den.
+    ¡Muy bien e -- stá!
+
+    An -- de pues, nue -- stro~a -- pel -- li -- do,
+    el ta -- ñer con el can -- tar
+    con -- cor -- des en a -- la -- bar
+    % --- page ---
+    a Je -- sús re -- zién na -- ci -- do,
+    a Je -- sús,
+    a Je -- sús,
+    a Je -- sús re -- zién na -- ci -- do.
+
+    Din din
+    \ijLyrics
+        din din din din din din din din din din din din
+    \normalLyrics
+        din.
+     Don don don \ijLyrics
+        don __
+
+    don don don don don don __ don don don don don __ don don
+    \normalLyrics
+    don.
+
+    ben -- di -- to sea e -- ste dí -- a
+    que na -- sció~el con -- ten -- ta -- mien -- to,
+    Re -- me -- dió su~ad -- ve -- ni -- mien -- to mil e -- no -- jos.
+
+    Din din din di -- rin din
+        \ijLyrics
+            din din din din din din din din din 
+    % --- page --- (recto of 6)
+    din din din din
+    \normalLyrics
+        Don don don 
+    \ijLyrics
+        don __ don don don don don don __ don don don don don __
+        don don don don 
+        don do -- ron don don don don
+
+    don don don don don don
+        don don do -- ron don don odn don don don don don don
+        don don don don don don % rest
+
+        don don don
+
+    don __ don don don don don don __ don don
+    \normalLyrics
+        don.
+
+    Y ben -- di -- tos, que~an -- sí~a -- man -- sa -- ron
+    tal for -- tu -- na.
 %%
 %    No que -- de con -- go -- xa~al -- gu -- na,
-%    De -- mos pris -- sa,
-%        pris -- sa~al na -- ve -- gar,
-%            al na -- ve -- gar
-%    poys o ven -- to nos ha del le -- var.
+    De -- mos pris -- sa,
+        pris -- sa~al na -- ve -- gar,
+            al na -- ve -- gar
+    poys o ven -- to nos ha del le -- var.
 %    ¡Gar -- ri -- do ven -- da -- val!
 %    \ijLyrics
 %    ¡Gar -- ri -- do ven -- da -- val!
 %    \normalLyrics
-%    No se vio bo -- nan -- ça~i -- gual
-%    so -- bre tan gran de -- sa -- tien -- to.
-%    Bien a -- yas tú, vien -- to,
-%    que~an -- sí me a -- yu -- das con -- tra for -- tu -- na.
-%%
-%    Gri -- tá, gri -- tá,
-%    \ijLyrics
-%        gri -- tá,
-%    \normalLyrics
-%        to -- dos a u -- na gri -- tá:
-%    ¡Bo -- nan -- ça, bo -- nan -- ça, sal -- va -- men -- to,
-%        sal -- va -- men -- to!
-%    Mie -- do~o -- vi -- stes al tor -- men -- to,
-%    % --- page ---
-%%no tuviendo ya sperança.
-%%
-%    ¡O mo -- di -- ce fi -- de -- i!
-%    El -- lo~e -- stá muy bien an -- sí.
-%    Ga -- la es to -- do a na -- die hoy due -- la
-%    la ga -- la chi -- ne -- la,
-%    de la chi -- na ga -- la, la ga -- la chi -- ne -- la,
-%    Mu -- cho pro -- me -- te -- mos en tor -- men -- ta fie -- ra
-%    mas, lue -- go~o -- fre -- ce -- mos in -- fi -- ni -- ta çe -- ra.
-%    De la chi -- na ga -- la, la ga -- la chi -- ne -- la.
-%
+    No se vio bo -- nan -- ça~i -- gual
+    so -- bre tan gran de -- sa -- tien -- to.
+    Bien a -- yas tú, vien -- to,
+    que~an -- sí me a -- yu -- das __ con -- tra for -- tu -- na. __
+
+    Gri -- tá, 
+    \ijLyrics
+        gri -- tá,
+        gri -- tá,
+    \normalLyrics
+        to -- dos a u -- na gri -- tá:
+    ¡Bo -- nan -- ça, bo -- nan -- ça, sal -- va -- men -- to,
+        sal -- va -- men -- to!
+    no tu -- vien -- do ya spe -- ran -- ça.
+    ¡O mo -- di -- ce fi -- de -- i!
+    El -- lo~e -- stá muy bien an -- sí.
+    Ga -- la es to -- do a na -- die hoy due -- la
+    la ga -- la chi -- ne -- la,
+    de la chi -- na ga -- la, la ga -- la chi -- ne -- la,
+    Mu -- cho pro -- me -- te -- mos en tor -- men -- ta fie -- ra
+    mas, lue -- go~o -- fre -- ce -- mos in -- fi -- ni -- ta çe -- ra.
+    De la chi -- na ga -- la, la ga -- la chi -- ne -- la.
+
 %%¡A Dios, señores!
 %%¡A la vela!
-%    Nam si pe -- ri -- cu -- la sunt in ma -- ri,
-%        pe -- ri -- cu -- la sunt in ter -- ra
-%    y pe -- ri -- cu -- la in fal -- sis fra -- tri -- bus,
-%        in fal -- sis fra -- tri -- bus.
+    Nam si pe -- ri -- cu -- la sunt in ma -- ri,
+        pe -- ri -- cu -- la sunt in ter -- ra
+    y pe -- ri -- cu -- la __ in fal -- sis fra -- tri -- bus, __
+        in fal -- sis fra -- tri -- bus.
 }
 cantusIIincipitVoice = <<
     \new MensuralVoice <<
