@@ -1,3 +1,27 @@
+% Al primo vostro sguardo
+% fui d'amoroso dardo
+% ferito così forte
+% ch'io grido: "o dolci lumi,
+% fate ch'io non consumi!"
+% 
+% Poi mirando le trezze
+% vidi tante bellezze,
+% e tanto fu l'ardore,
+% ch'io grido: "O chiome d'oro,
+% per voi abbrugio e moro!"
+% 
+% La bocca e le parole,
+% uniche, al mondo sole,
+% son sì potenti e forti,
+% ch'io grido: "O bocca sola,
+% ov'Amor scherza e vola.
+% 
+% Al fin la leggiadria
+% di voi, signora mia,
+% è così grande e forte,
+% che basta solamente
+% a innamorar la gente.
+
 cantoI = \relative c'' {
     \time 4/2
     \key c \major
@@ -20,10 +44,7 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    Don- na da vostri sgar- di 
-    E- scon pun- gen- ti dar- di
 
-    E da beg- li 
 }
 
 tenoreI = \relative c' {

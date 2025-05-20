@@ -25,6 +25,8 @@
     categories = "[]"
     motifs = "[]"
     needtranslation = #'f
+    final = "e"
+    flats = 0
     folio = "2nd Responsory of Tenebrae on Maundy Thursday"
 
     % Unchanging:
