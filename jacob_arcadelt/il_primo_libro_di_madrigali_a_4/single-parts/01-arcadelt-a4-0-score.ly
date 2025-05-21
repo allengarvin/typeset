@@ -85,13 +85,14 @@
         \fill-line {
             \column {
                 % italian touchup 2025-01-28 GAH I had "morte" as plural!
+                % 2025-05-20 arg I had tutto instead of tutta
                 \line { Il bianco e dolce cigno cantando more, }
                 \line { ed io piangendo giungo al fin del viver mio. }
                 \line { Strana e diversa sorte, }
                 \line { che ei more sconsolato }
                 \line { ed io moro beato. }
                 \line { Morte che nel morire }
-                \line { m'empie di gioia tutto e di desire. }
+                \line { m'empie di gioia tutta e di desire. }
                 \line { Se nel morir, altro dolor non sento, }
                 \line { di mille morti il dì sarei contento. }
             }

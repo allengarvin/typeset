@@ -1,46 +1,29 @@
-% Al primo vostro sguardo
-% fui d'amoroso dardo
-% ferito così forte
-% ch'io grido: "o dolci lumi,
-% fate ch'io non consumi!"
-% 
-% Poi mirando le trezze
-% vidi tante bellezze,
-% e tanto fu l'ardore,
-% ch'io grido: "O chiome d'oro,
-% per voi abbrugio e moro!"
-% 
-% La bocca e le parole,
-% uniche, al mondo sole,
-% son sì potenti e forti,
-% ch'io grido: "O bocca sola,
-% ov'Amor scherza e vola.
-% 
-% Al fin la leggiadria
-% di voi, signora mia,
-% è così grande e forte,
-% che basta solamente
-% a innamorar la gente.
+
+cantoIincipit = \relative c'' {
+    \time 4/4
+    \key c \major
+    \clef "petrucci-c1"
+    
+    b1
+}
 
 cantoI = \relative c'' {
-    \time 4/2
+    \time 4/4
     \key c \major
     \clef soprano
     
     \repeat volta 2 {
-        b1 b4. a8 b4 c | b2 b c4. d8 e4 f ~ | f e d2 c1 
+        b1 | b4. a8 b4 c | b2 b |  c4. d8 e4 f ~ | f e d2 |
+        c1 
     }
-    \repeat volta 2 {
-        e2 d c4 c8[ b] a2 | b4 g8[ a] b4 c g e8[ fs] gs4 a |
-        \invisibleTime \time 2/2 c a8[ b] cs4 d | 
-        \invisibleTime \time 4/2
-        b2. b4 a2. a4 | g1 c2. c4 | b2. g4 a1 
+    e2 d | c4 c8[ b] a2 | b4 g8[ a]
+
+    b4 c | g e8[ fs] gs4 a | c a8[ b] cs4 d | 
+    \repeat volta 2 { 
+        b2. b4 |
+
+    a2. a4 | g1 | c2. c4 | b2. g4 | a1 g | 
     }
-    \alternative { 
-        { \invisibleTime \time 2/2 g1 }
-        { \invisibleTime \time 4/2 g\longa*1/2 }
-    }
-    \bar "|."
 }
 
 cantoLyricsI = \lyricmode {
@@ -48,15 +31,22 @@ cantoLyricsI = \lyricmode {
 }
 
 tenoreI = \relative c' {
-    \time 2/2
+    \time 4/4
     \key f \major
     \clef mezzosoprano
-    \bar "|."
+
+    \repeat volta 2 { 
+        gs1 | gs4. fs8 gs4 a | gs2 gs | a4. g8
+
+        e4 a ~ | a c2 b4 | c1
+    }
+    c4 b2 g4 | a g fs2 | r2 g4 e8[ f] |
+
+    g4 g e c8[ d] | e4 a, a' fs8[ fs] | 
 }
 
 bassoI = \relative c {
-    \time 2/2
+    \time 4/4
     \key f \major
     \clef tenor
-    \bar "|."
 }
