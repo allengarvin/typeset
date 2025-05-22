@@ -27,7 +27,8 @@
     motifs = "[la-petite-mort,swan]"
     \include "include/distribution-header.ly"
     cksum = "76ac9250895e8cd21cfa71a5ecc1d10b3ac45156"
-    sametext = #'(  "76ac9250895e8cd21cfa71a5ecc1d10b3ac45156" "5ff4d2534b0b03f398ced986064ddc3714f44fd3" "d7e89ff88fdb7d0e829f1033dfdd1c0f325e8c06" )
+    sametext = #'(  "76ac9250895e8cd21cfa71a5ecc1d10b3ac45156" "5ff4d2534b0b03f398ced986064ddc3714f44fd3" "d7e89ff88fdb7d0e829f1033dfdd1c0f325e8c06" "fb5816cfab80c7066e7e76e1238fec960d2169a7" )
+
     tagline = #'f
 }
 
