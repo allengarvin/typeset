@@ -1,5 +1,13 @@
+% checked against source
+luteXXXIincipit = \relative c'' {
+    \clef "petrucci-c3"
+    \key c \major
+    \time 4/4
+
+    c2
+}
+
 luteXXXI = \relative c'' {
-    \clef alto
     \key c \major
     \time 4/4
 
@@ -23,19 +31,19 @@ luteXXXI = \relative c'' {
     <e c'>4 <f c' f>8 e' <g, b d>4 <e c' g'> |
     <f a f'> <g b d> <c, c' e> g'' |
     g <c, g'> <c e>8 f <c g'> e |
-    <a, f'> <b> <c e> a <bf d> e <a, f'> <bf g'> |
-    <c a'> <d f> <e g> <f a> <d bf> e <f a> d |
+    <a, f'> bf <c e> a <bf d> e <a, f'> <bf g'> |
+    <c a'> <d bf'> <e g> <f a> <d bf'> e <f a> d |
     <e g> c <a f'> bf <c e> 
 
     c, <d f'> <e g'> |
            % VVVV symbol I don't recognize... for a bass string?? 
     <f a'> c <g g''> a <bf f''> d' <a, f''> <g g''>
-    <c a''> g'' <f, a'> bf' <f, c''> bf' <f, a> c'' |
+    <c a''> g'' <f, a'> bf' <f, c''> bf' <f, a'> c'' |
     <d,, bf''> e <a a'> d, <e g'> c <d f'> f |
     <g e'> a <bf d> g <a\4 c> f <g bf> e |
     <f a>8. b16 c8 e, d c 
 
-    <d bf'>4 | <c c'> g g g | c c8 d' <c, e'> f' <c, g''> e' |
+    <d b'>4 | <c c'> g' g g | c, c8 d' <c, e'> f' <c, g''> e' |
     <f, f'> g' a g, a <bf g'> c <a f'> |
     bf <c e> <d\3 f> <e g> <f a>4 c,8 <e' g> |
 
@@ -51,11 +59,43 @@ luteXXXI = \relative c'' {
     <c,, g''> f' <c, g' e'> d' <f,\5 a\4 c>4 f'8 <e, g> |
     <d a'> <c e'> <bf bf' d> g <a a'\4 c> c <a a' f> bf |
     <c g' e'>4 <d f f'> <c g'> <e' c'> |
+    <c, a' f' c'> <f c''>8 bf <f c' a'>4 <f c'>8 g' |
+    <d, d'\3 f>4 a'8 <c, e'> <bf bf' d>4 <a c'> |
+    <bf d'>8 bf' bf d, c bf a g |
+    <c f a> c'' a
+
+    f c d c bf |
+    <c, f a> f' f g a16 g a bf c8 d |
+    <c,, f a f' c'>1
+
+    
     
     \bar "|."
 }
 
 rhythmXXXI = \relative c' {
+    \override NoteHead.style = #'mensural
+    \override Stem.length = #4.5
+
+    c2 c4 s | s1*3 | s4 c8 s c4 s | s1 | s1 | s4 c8 s c4 s | s1
+        s2 c8 
+
+    s s s | c4 s c8 s s s | c4 c8 s c4 s | s1*2 | s4 c8 s c4 s | s1 | s2. c8 s | c4 s s s |
+
+    % --- page ---
+    s4 s s c8 s | c4 c8 s c4 s | s1 | s2 c8 s s s | s1*3 |
+
+    s1*4 | c8. c16 c8 s s s 
+
+    c4 | s1 | s4 c8 s s s s s | s1 | s2 c4 c8 s | 
+        s4 c4 s c8 s | s2 c4 c8 s | 
+
+    c4 s c8 s s s | s1 | s2 c4 c8 s | s2 c4 c8 s | c4 s s c8 s | s1 |
+
+    s2 c4 c8 s | s1 | c4 s s s | s c8 s c4 c8 s |
+        c4 c8 s c4 s | c8 s s2. | s1 |
+
+    s2 c16 s s s c8 s | c1
 %    b8*4 s | s g16*4 s | s s g8*4 | s s | s g16*4 s | g8*4 s | s s | s s | 
 %    s s | s s | g16*4 s g8*4 | s s | s s | g8.*4 g16*4 | g8*4 s | s g16*4 s | 
 %    g8*4 g16*4 s | s s s s |
