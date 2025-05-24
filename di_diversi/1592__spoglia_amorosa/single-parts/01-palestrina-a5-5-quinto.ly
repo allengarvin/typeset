@@ -65,7 +65,7 @@
     
 \book {
     \bookOutputName "01-palestrina--vestiva_i_colli"
-    \bookOutputSuffix "--3-quinto--tr_clef"
+    \bookOutputSuffix "--3-quinto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
