@@ -10,16 +10,16 @@
 #(set-global-staff-size 19.0)
 \header {
     % Things that change per piece:
-    title = "Ricercar secondo"
+    title = "Ricercar II"
     subtitle = ""
-    instrument = "Ricercar secondo:  (alto)"
+    instrument = "Ricercar II:  (alto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "ricercar_secondo"
     shortcomp = "cima"
 
     % Things that change per part:
     partname = "Alto (part 2 of 4)"
-    instrument = "Ricercar secondo:  (alto)"
+    instrument = "Ricercar II:  (alto)"
 
     % Unchanging:
     lastupdated = "2022-05-24"

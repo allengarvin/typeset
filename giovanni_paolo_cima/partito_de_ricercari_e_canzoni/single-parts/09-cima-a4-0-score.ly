@@ -6,33 +6,34 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 16.5)
+#(set-global-staff-size 16)
 
 \header {
+    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
+    cksum = "d3cbd04aeada9424ac4f8b7456410f09cab68086"
+    lastupdated = "2025-06-01"
+    originallyset = "2025-06-01"
+    \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Ricercar II"
+    title = "Canzon II 'La valeria'"
     subtitle = ""
-    instrument = "Ricercar II:  (score)"
+    subsubtitle = ""
+    instrument = "Canzon II 'La valeria':  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "ricercar_secondo"
+    shorttitle = "canzon_ii_la_valeria"
     shortcomp = "cima"
-    categories = "[canzona]"
+    categories = "[]"
+    motifs = "[]"
 
     % Unchanging:
     language = "instrumental"
-    lastupdated = "2022-05-24"
-    originallyset = "2022-05-24"
-    flats = 0
-    final = "d"
-    \include "include/distribution-header.ly"
-    cksum = "b5549f9e4b185d01d99079008ad7c8e83abb57fa"
     tagline = #'f
 }
 
-\include "../parts/02-cima-a4-ricercar.ly"
+\include "../parts/09-cima-a4-canzona.ly"
 
 \book {
-    \bookOutputName "02-cima--ricercar_secondo-"
+    \bookOutputName "09-cima--canzon_ii_la_valeria-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -41,31 +42,31 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoIIincipitVoice
+                    \incipit \cantoIXincipitVoice
                     \clef "treble"
                     \global
-                    \cantoII
+                    \cantoIX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoIIincipitVoice
-                    \clef "treble_8"
+                    \incipit \altoIXincipitVoice
+                    \clef "treble"
                     \global
-                    \altoII
+                    \altoIX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreIIincipitVoice
+                    \incipit \tenoreIXincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreII
+                    \tenoreIX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoIIincipitVoice
+                    \incipit \bassoIXincipitVoice
                     \clef "bass"
                     \global
-                    \bassoII
+                    \bassoIX
                 >>
              >>
          >>
@@ -73,9 +74,8 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 112 2)
+                tempoWholesPerMinute = #(ly:make-moment 68 2)
             }
         }
     }   
 }
-

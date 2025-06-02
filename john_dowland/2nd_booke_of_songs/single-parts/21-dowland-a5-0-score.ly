@@ -90,7 +90,7 @@
                 \line { In best attire of compleat beauties height,  }
                 \line { Hir love againe like sommers daies bee dimde,  }
                 \line { With little cloudes of doubtfull constant faith,  }
-                \line { Hir trust hir doubt, like raine and head in Skies,  }
+                \line { Hir trust hir doubt, like raine and heat in Skies,  }
                 \line { Gently thundring, she lightning to my eies.  }
             }
             \column {

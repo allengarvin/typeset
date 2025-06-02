@@ -6,7 +6,7 @@
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
-\include "../include/vocal-layout-score-italian_lute_mensural.ly"
+\include "../include/vocal-layout-score-french_lute_mensural.ly"
 
 #(set-global-staff-size 26)
 \header {
@@ -24,7 +24,7 @@
     shortcomp = "molinaro"
 
     % Things that change per part:
-    partname = "Lute tablature"
+    partname = "French lute tablature"
     instrument = "Fantasia I:  (lute)"
 
     % Unchanging:
@@ -35,7 +35,7 @@
 
 \book {
     \bookOutputName "31-molinaro--fantasia_i-"
-    \bookOutputSuffix "--1-lute--tablature"
+    \bookOutputSuffix "--2-french_lute--tablature"
     \include "../include/paper-1-part.ly"
     \score {
         <<
@@ -49,15 +49,17 @@
             }
             \new TabStaff {
                 \revert TabStaff.Script.stencil
+                \override TabNoteHead.font-size = #6
 
                 \override Staff.Clef.color = #white
                 \override Staff.Clef.layer = #-1
-                \set Score.stringOneTopmost = ##f
+%                \set Score.stringOneTopmost = ##f
                 \set Staff.stringTunings = \stringTuning <g, c f a d' g'>
+
                 \luteXXXI
             }
         >>
-        \include "../include/vocal-layout-score-italian_lute_mensural.ly"
+        \include "../include/vocal-layout-score-french_lute_mensural.ly"
     }
 }
 

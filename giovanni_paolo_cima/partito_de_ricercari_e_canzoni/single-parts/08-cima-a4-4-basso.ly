@@ -1,6 +1,7 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -t "Canzon I 'La morosa'" -l instrumental -m 78 08-cima-a4-0-score.ly canto:t alto:ta tenore:8at basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,36 +9,38 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2025-06-01"
+    originallyset = "2025-06-01"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Ricercar I"
+    title = "Canzon I 'La morosa'"
     subtitle = ""
-    instrument = "Ricercar I:  (basso)"
+    subsubtitle = ""
+    instrument = "Canzon I 'La morosa':  (basso)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "ricercar_primo"
+    shorttitle = "canzon_i_la_morosa"
     shortcomp = "cima"
 
     % Things that change per part:
     partname = "Basso (part 4 of 4)"
-    instrument = "Ricercar I:  (basso)"
+    instrument = "Canzon I 'La morosa':  (basso)"
 
     % Unchanging:
-    lastupdated = "2022-03-26"
-    originallyset = "2022-03-26"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/01-cima-a4-ricercar.ly"
+\include "../parts/08-cima-a4-canzona.ly"
 
 \book {
-    \bookOutputName "01-cima--ricercar_primo-"
+    \bookOutputName "08-cima--canzon_i_la_morosa-"
     \bookOutputSuffix "--4-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "bass"
             \global 
-            \bassoI
+            \bassoVIII
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

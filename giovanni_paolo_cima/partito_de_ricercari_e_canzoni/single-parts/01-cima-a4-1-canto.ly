@@ -9,16 +9,16 @@
 
 \header {
     % Things that change per piece:
-    title = "Ricercar primo"
+    title = "Ricercar I"
     subtitle = ""
-    instrument = "Ricercar primo:  (canto)"
+    instrument = "Ricercar I:  (canto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "ricercar_primo"
     shortcomp = "cima"
 
     % Things that change per part:
     partname = "Canto (part 1 of 4)"
-    instrument = "Ricercar primo:  (canto)"
+    instrument = "Ricercar I:  (canto)"
 
     % Unchanging:
     lastupdated = "2022-03-26"

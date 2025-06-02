@@ -1,58 +1,60 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -t "Canzon I 'La morosa'" -l instrumental -m 78 08-cima-a4-0-score.ly canto:t alto:ta tenore:8at basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
-#(set-global-staff-size 19.0)
 \header {
+    lastupdated = "2025-06-01"
+    originallyset = "2025-06-01"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Ricercar II"
+    title = "Canzon I 'La morosa'"
     subtitle = ""
-    instrument = "Ricercar II:  (tenore)"
+    subsubtitle = ""
+    instrument = "Canzon I 'La morosa':  (alto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "ricercar_secondo"
+    shorttitle = "canzon_i_la_morosa"
     shortcomp = "cima"
 
     % Things that change per part:
-    partname = "Tenore (part 3 of 4)"
-    instrument = "Ricercar II:  (tenore)"
+    partname = "Alto (part 2 of 4)"
+    instrument = "Canzon I 'La morosa':  (alto)"
 
     % Unchanging:
-    lastupdated = "2022-05-24"
-    originallyset = "2022-05-24"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/02-cima-a4-ricercar.ly"
+\include "../parts/08-cima-a4-canzona.ly"
 
 \book {
-    \bookOutputName "02-cima--ricercar_secondo-"
-    \bookOutputSuffix "--3-tenore--tr8_clef"
+    \bookOutputName "08-cima--canzon_i_la_morosa-"
+    \bookOutputSuffix "--2-alto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble_8"
+            \clef "treble"
             \global 
-            \tenoreII
+            \altoVIII
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "02-cima--ricercar_secondo-"
-    \bookOutputSuffix "--3-tenore--al_clef"
+    \bookOutputName "08-cima--canzon_i_la_morosa-"
+    \bookOutputSuffix "--2-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \tenoreII
+            \altoVIII
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

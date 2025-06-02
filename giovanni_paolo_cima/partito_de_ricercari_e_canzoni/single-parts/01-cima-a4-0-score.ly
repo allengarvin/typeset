@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Ricercar primo"
+    title = "Ricercar I"
     subtitle = ""
-    instrument = "Ricercar primo:  (score)"
+    instrument = "Ricercar I:  (score)"
     shorttitle = "ricercar_primo"
     shortcomp = "cima"
 

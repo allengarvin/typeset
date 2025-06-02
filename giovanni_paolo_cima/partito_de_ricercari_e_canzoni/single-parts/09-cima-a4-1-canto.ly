@@ -1,6 +1,7 @@
-\version "2.18.2"
+\version "2.22.1"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -t "Canzon II 'La valeria'" -m 68 -l instrumental 09-cima-a4-0-score.ly canto:t alto:ta tenore:8ta basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,36 +9,38 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2025-06-01"
+    originallyset = "2025-06-01"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Ricercar II"
+    title = "Canzon II 'La valeria'"
     subtitle = ""
-    instrument = "Ricercar II:  (canto)"
+    subsubtitle = ""
+    instrument = "Canzon II 'La valeria':  (canto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "ricercar_secondo"
+    shorttitle = "canzon_ii_la_valeria"
     shortcomp = "cima"
 
     % Things that change per part:
     partname = "Canto (part 1 of 4)"
-    instrument = "Ricercar II:  (canto)"
+    instrument = "Canzon II 'La valeria':  (canto)"
 
     % Unchanging:
-    lastupdated = "2022-05-24"
-    originallyset = "2022-05-24"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/02-cima-a4-ricercar.ly"
+\include "../parts/09-cima-a4-canzona.ly"
 
 \book {
-    \bookOutputName "02-cima--ricercar_secondo-"
+    \bookOutputName "09-cima--canzon_ii_la_valeria-"
     \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \cantoII
+            \cantoIX
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
