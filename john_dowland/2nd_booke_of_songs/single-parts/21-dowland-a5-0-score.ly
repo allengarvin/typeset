@@ -41,6 +41,8 @@
                     \cantoXXI 
                 >>
                 \addlyrics { \cantoLyricsXXI }
+                \addlyrics { \cantoLyricsXXIa }
+                \addlyrics { \cantoLyricsXXIb }
                 \new Voice << 
                     \set Staff.instrumentName = #"Alto"
                     \incipit \altoXXIincipitVoice
@@ -74,8 +76,30 @@
                 >>
                 \addlyrics { \bassoLyricsXXI }
             >>
+           \new RhythmicStaff \with {
+                \override VerticalAxisGroup.default-staff-staff-spacing =
+                #'((basic-distance . 5.5)
+                (padding . 0))
+            } {
+                \rhythmXXI
+            }
+
+            \new TabStaff {
+                    \set Staff.instrumentName = #"Lute"
+                \revert TabStaff.Script.stencil
+                \override TabNoteHead.font-size = #6
+
+                \override Staff.Clef.color = #white
+                \override Staff.Clef.layer = #-1
+                \set Score.stringOneTopmost = ##t
+
+                \set Staff.additionalBassStrings = \stringTuning <d,>
+                \set Staff.stringTunings = \stringTuning <g, c f a d' g'>
+
+                \luteXXI
+            }
         >>
-        \include "../include/vocal-layout-score-barring.ly"
+        \include "../include/vocal-layout-score-french_lute_tab.ly"
         \midi {
             \context {
                 \Score
@@ -86,26 +110,23 @@
     \markup {
         \fill-line {
             \column {
-                \line { Hir grace like June, when earth and trees bee trimde,  }
-                \line { In best attire of compleat beauties height,  }
-                \line { Hir love againe like sommers daies bee dimde,  }
-                \line { With little cloudes of doubtfull constant faith,  }
-                \line { Hir trust hir doubt, like raine and heat in Skies,  }
-                \line { Gently thundring, she lightning to my eies.  }
+                \line { Her grace like June, when earth and trees be trim'd  }
+                \line { In best attire of compleat beauty's height.  }
+                \line { Her love again like summer's days be dim'd  }
+                \line { With little clouds of doubtful constant faith.  }
+                \line { Her trust, her doubt, like rain and heat in skies  }
+                \line { Gently thund'ring, she lightning to mine eyes.  }
             }
             \column {
-                \line { Sweet sommer spring that breatheth life and growing,  }
-                \line { In weedes as into hearbs and flowers,  }
+                \line { Sweet summer spring that breatheth life and growing  }
+                \line { In weeds as into herbs and flowers,  }
                 \line { And sees of service divers sorts in sowing,  }
-                \line { Some haply seeming and some being yours,  }
-                \line { Raine on your hearbs and flowers that truely serve,  }
-                \line { And let your weeds lack dew and duely starve.  }
+                \line { Some haply seeming and some being yours.  }
+                \line { Rain on your herbs and flowers that truly serve,  }
+                \line { And let your weeds lack dew and duly starve.  }
             }
         }
     }
-
-
-
 }
 
 

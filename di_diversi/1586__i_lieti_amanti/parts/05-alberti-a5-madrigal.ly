@@ -55,7 +55,7 @@ cantoLyricsV = \lyricmode {
 %    Ad -- di -- o, bel -- la Si -- rin -- ga,
 %    Bel -- la Si -- rin -- ga, ad -- di -- o;
         Clo -- rin -- do~ad -- di -- o,
-    Ad -- di -- o, Clo -- rin -- da mi -- o,
+    Ad -- di -- o, Clo -- rin -- do mi -- o,
     Di -- cean pres -- s'u -- na fon -- te
     Con fron -- te~as -- sai tur -- ba -- ta
     Pa -- stor a -- man -- te, pa -- sto -- rel -- la~a -- ma -- ta,
@@ -118,7 +118,7 @@ altoLyricsV = \lyricmode {
     ad -- di -- o, bel -- la Si -- rin -- ga,
     Bel -- la Si -- rin -- ga~ad -- di -- o;
 %        Clo -- rin -- do, ad -- di -- o,
-%    Ad -- di -- o, Clo -- rin -- da mi -- o,
+%    Ad -- di -- o, Clo -- rin -- do mi -- o,
     Di -- cean pres -- s'u -- na fon -- te
     Con fron -- te~as -- sai tur -- ba -- ta
     Pa -- stor a -- man -- te, pa -- sto -- rel -- la~a -- ma -- ta,
@@ -181,7 +181,7 @@ tenoreLyricsV = \lyricmode {
     ad -- di -- o, bel -- la Si -- rin -- ga,
     Bel -- la Si -- rin -- ga~ad -- di -- o;
         Clo -- rin -- do~ad -- di -- o,
-    Ad -- di -- o, Clo -- rin -- da mi -- o,
+    Ad -- di -- o, Clo -- rin -- do mi -- o,
 %    Di -- cean pres -- s'u -- na fon -- te
     Con fron -- te~as -- sai tur -- ba -- ta
     Pa -- stor a -- man -- te, pa -- sto -- rel -- la~a -- ma -- ta,
@@ -239,7 +239,7 @@ bassoLyricsV = \lyricmode {
     Ad -- di -- o, bel -- la Si -- rin -- ga,
     Bel -- la Si -- rin -- ga~ad -- di -- o;
 %        Clo -- rin -- do, ad -- di -- o,
-%    Ad -- dio, Clo -- rin -- da mi -- o,
+%    Ad -- dio, Clo -- rin -- do mi -- o,
     Di -- cean pres -- s'u -- na fon -- te
     Con fron -- te~as -- sai tur -- ba -- ta
     Pa -- stor a -- man -- te, pa -- sto -- rel -- la~a -- ma -- ta,
@@ -297,7 +297,7 @@ quintoLyricsV = \lyricmode {
 %    Ad -- dio, bel -- la Si -- rin -- ga,
 %    Bel -- la Si -- rin -- ga, ad -- dio; 
         Clo -- rin -- do, ad -- di -- o,
-    Ad -- dio, Clo -- rin -- da mi -- o,
+    Ad -- dio, Clo -- rin -- do mi -- o,
     Di -- cean pres -- s'u -- na fon -- te
     Con fron -- te~as -- sai tur -- ba -- ta
     % Pa -- stor a -- man -- te, 

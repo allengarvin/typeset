@@ -99,7 +99,7 @@
             \column {
               \line { Addio, bella Siringa, }
               \line { bella Siringa, addio; Clorindo, addio, }
-              \line { addio, Clorinda mio, }
+              \line { addio, Clorindo mio, }
               \line { dicean press'una fonte }
               \line { con fronte assai turbata }
               \line { pastor amante, pastorella amata, }

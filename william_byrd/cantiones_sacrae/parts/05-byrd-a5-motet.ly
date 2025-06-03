@@ -407,18 +407,20 @@ tenorV = \relative c {
         a'2. bf4 c a bf2) | a\breve~a | g1 fs2 fs | g c1 b2 | c2 d bf c |
         d2 d2. c4( a2) | bf4( a g f
 
-    ef4 d c2 | f g a) d, ~ | d c( e1) | d\breve | 
-        r2 \ficta ef1 ef!2\unficta | c c f1 |
-        d2 \ficta ef1\unficta bf4.( c8 | d4 e! f g a) f( bf2 ~ |
-        bf) a( g1) | c,2 f1 e2 | g a g1 | r2 a1 a2 | a a bf1 |
+    % \key bf \major
+    ef4 d c2 | f g a) d, ~ | d c( ef1) | d\breve | 
+        r2 ef1 ef2 | c c f1 |
+        d2 ef1 bf4.( c8 | d4 ef f g a) f( bf2 ~ |
+        bf) a( g1) | c,2 f1 e?2 | g a g1 | r2 a1 a2 | a a bf1 |
 
-    g1 r1 | R\breve | r2 f2.( e4 d c) | bf2 d( g2.) f4( | e1) d |
-        r2 e( c2. d4 | e f g1) fs2 | g a( g4 f g a) | bf2 f2. g4( a bf |
+    g1 r1 | R\breve | r2 f2.( ef4 d c) | bf2 d( g2.) f4( | ef1) d |
+        r2 ef( c2. d4 | ef f g1) fs2 | g a( g4 f g a) | bf2 f2. g4( a bf |
         c2. bf4 a1) | \invisibleTime\time 6/2
          s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        g2 g1 d2 \ficta ef ef!\unficta | \invisibleTime\time 4/2
+        g2 g1 d2 ef ef | \invisibleTime\time 4/2
         d\longa*1/2 \bar "||"
     
+    % \key f \major
     R\breve | r1 g ~ | g2 f bf1 | a2 a2. g4 a( bf | c1 g2 d' | bf c) d1 |
         r r2 a ~ | a g2 bf1 | g2 d'2. c4 d( e | f2 f,2. e4 f g | a1) g ~ |
         g r2 g2 ~ | g4 f4 g( a 
@@ -468,9 +470,9 @@ tenorLyricsV = \lyricmode {
     et po -- ne me jux -- ta __ te, __
     \normalLyrics
         jux -- ta __ te:
-    et cu -- jus -- vis ma -- nus pu -- gnet __ con -- tra me,
+    et cu -- jus -- vis ma -- nus pu -- gnet __ con -- tra __ me,
     \ijLyrics
-        pu -- gnet con -- tra __ me,
+        pu -- gnet con -- tra me,
     \normalLyrics
     et cu -- jus -- vis ma -- nus pu -- gnet con -- tra me,
         pu -- gnet con -- tra __ me,
