@@ -23,8 +23,8 @@ cantoVIincipit = \relative c'' {
     a4
 }
 
+% canto: checked against source
 cantoVI = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCommonTime
 
@@ -48,15 +48,25 @@ cantoVI = \relative c'' {
 }
 
 cantoLyricsVI = \lyricmode {
-%    Dal tem -- po che can -- ta~il Cuc -- co
-%    E gli~è da far per tut -- to,
-%    Dal tem -- po che can -- ta~il Cuc -- co
-%    E gli~è da far per tut -- to:
-%    Can -- tar o non can -- tar?
-%    Per tut -- to gli~è da far.
-%    E quan -- do~e -- gli~ha can -- ta -- to~E gli~è
-%        da far in o -- gni sta -- to,
-%    E gli~è da far in o -- gni sta -- to,
+    Dal tem -- po che can -- ta~il Cuc -- co
+    E gli~è da far per tut -- to,
+    Dal tem -- po che can -- ta~il Cuc -- co
+    E gli~è da far per tut -- to:
+    Can -- tar o non can -- tar,
+        o non can -- tar?
+    Per tut -- to gli~è da far.
+    E __ quan -- do~e -- gli~ha can -- ta -- to~E gli~è
+        da far,
+    E gli~è da far in o -- gni sta -- to,
+    E gli~è da far in o -- gni sta -- to;
+
+    Can -- tar o non can -- tar,
+        o non can -- tar?
+    Per tut -- to gli~è da far.
+    E quan -- do~e -- gli~ha can -- ta -- to~E gli~è
+        da far,
+    E gli~è da far in o -- gni sta -- to,
+    E gli~è da far in o -- gni sta -- to.
 %
 %    Can -- tar o non can -- tar?
 %    Per tut -- to gli~è da far.
@@ -73,8 +83,8 @@ altoVIincipit = \relative c' {
     fs2
 }
 
+% alto: checked against source
 altoVI = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -100,21 +110,25 @@ altoVI = \relative c' {
 }
 
 altoLyricsVI = \lyricmode {
-%    Dal tem -- po che can -- ta~il Cuc -- co
-%    E gli~è da far per tut -- to,
-%    Dal tem -- po che can -- ta~il Cuc -- co
-%    E gli~è da far per tut -- to:
-%    Can -- tar o non can -- tar?
-%    Per tut -- to gli~è da far.
-%    E quan -- do~e -- gli~ha can -- ta -- to~E gli~è
-%        da far in o -- gni sta -- to,
-%    E gli~è da far in o -- gni sta -- to,
-%
-%    Can -- tar o non can -- tar?
-%    Per tut -- to gli~è da far.
-%    E quan -- do~e -- gli~ha can -- ta -- to~E gli~è
-%        da far in o -- gni sta -- to,
-%    E gli~è da far in o -- gni sta -- to.
+    Dal tem -- po che can -- ta~il Cuc -- co
+    E gli~è da far per tut -- to,
+    Dal tem -- po che can -- ta~il Cuc -- co
+    E gli~è da far per tut -- to:
+    Can -- tar o non can -- tar, __
+        o non can -- tar?
+    Per tut -- to gli~è da far. __
+    E __ quan -- do~e -- gli~ha can -- ta -- to~E gli~è
+        da far in o -- gni sta -- to,
+    E gli~è da far __ in o -- gni sta -- to,
+        in o -- gni sta -- to;
+
+    Can -- tar o non can -- tar, __
+        o non can -- tar?
+    Per tut -- to gli~è da far.
+    E quan -- do~e -- gli~ha can -- ta -- to~E gli~è
+        da far in o -- gni sta -- to,
+    E gli~è da far in o -- gni sta -- to,
+        in o -- gni sta -- to.
 }
 
 tenoreVIincipit = \relative c' {
@@ -157,7 +171,7 @@ tenoreLyricsVI = \lyricmode {
     Can -- tar o non can -- tar?
     Per tut -- to gli~è da far.
     E __ quan -- do~e -- gli~ha can -- ta -- to~E gli~è da far in o -- gni sta -- to,
-    E gli~è da far in o -- gni sta -- to,
+    E gli~è da far in o -- gni sta -- to;
 
     Can -- tar o non can -- tar,
     Can -- tar o non can -- tar?
@@ -192,7 +206,9 @@ bassoVI = \relative c {
     g4 c, f2 g | c, c'2. b8[ a] g4 f | e2 c c d | e2. e4 e2( d4 c | b1.) a2 |
         b1 a2
 
-    f'2 | f g a2. a4 | a2( g4 f e1 ~ | e2) e g( f4 e | d\breve) | g,\longa*1/2
+    f'2 | f g a2. a4 | a2( g4 f e1 ~ | 
+          % vv e2 changed to f2 (see above)
+        e2) f g( f4 e | d\breve) | g,\longa*1/2
     \bar "|."
 }
 
@@ -205,7 +221,7 @@ bassoLyricsVI = \lyricmode {
     Per tut -- to gli~è da far.
     E __ quan -- do~e -- gli~ha can -- ta -- to~E -- gli~è 
         da far in o -- gni sta -- to,
-    E gli~è da far in o -- gni sta -- to,
+    E gli~è da far in o -- gni sta -- to;
 
     Can -- tar o non can -- tar?
     Per tut -- to gli~è da far.
