@@ -21,12 +21,12 @@ HOW-TO:
 0) prior to generating, you need to create symlinks in each collection page for the include files.
     Thus, like:
         cd luca_marenzio/il_primo_libro_de_madrigali_a_6
-        ln -s ../../include-2.22 include
+        ln -s ../../include-2.24 include
 
-    As of 2024, I'm still mostly using Lilypond 2.22. There is an "indclude-2.24" available that will work
-    with MOST scores and parts. If you're using a newer Lilypond, try that. There are a few pieces where I
-    have done something custom that it does not yet work on.
-
+    In May 2025, I've switched to Lilypond 2.24.4, after making a few modifications to the include
+    files. There are a bare handful of older pieces where I did something custom that will not work
+    in 2.24. If you get a guile error, try using the include-2.22 folder. 
+ 
 1) Generates scores and parts
    cd single-parts
    lilypond *ly
