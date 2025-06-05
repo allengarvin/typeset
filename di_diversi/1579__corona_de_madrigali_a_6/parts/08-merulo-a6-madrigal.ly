@@ -6,8 +6,8 @@ cantoVIIIincipit = \relative c'' {
     d2
 }
 
+% canto: checked against source
 cantoVIII = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCommonTime
 
@@ -19,7 +19,7 @@ cantoVIII = \relative c'' {
     e2 | f4 f d2.\melfi cs8[ b] cs!2\melfiEnd | d1 r1 | r1 r2 r4 a | 
         d a d e f2 f4 d ~ | d c d2
 
-    d2 c | d2.( c4 b2) c | R\breve | r4 d2 c4 bf2 a4 g | fs2 g4 d'2 d4 c2 |
+    d2 c | d2.( c4 bf2) c | R\breve | r4 d2 c4 bf2 a4 g | fs2 g4 d'2 d4 c2 |
         bf4 bf
 
     a2 a r4 f' ~ | f f d2 f ef | d1 d | R\breve | r1 g2 g4 g | f2 f e d ~ |
@@ -32,6 +32,25 @@ cantoVIII = \relative c'' {
 }
 
 cantoLyricsVIII = \lyricmode {
+    Men -- tre mia stel -- la mi -- ri,
+    \ijLyrics
+    Men -- tre mia stel -- la mi -- ri
+    \normalLyrics
+    I bei ce -- le -- sti gi -- ri,
+    I bei ce -- le -- sti gi -- ri,
+    Il ciel es -- ser vor -- re -- i,
+    Per -- ché tu ri -- vol -- ges -- si
+    Fis -- so ne' lu -- mi mie -- i
+    Le tue dol -- ci fa -- vil -- le,
+    \ijLyrics
+    Le tue dol -- ci fa -- vil -- le,
+    \normalLyrics
+    Le __ tue dol -- ci fa -- vil -- le:
+    Io va -- gheg -- giar po -- tes -- si, __
+    Io va -- gheg -- giar po -- tes -- si
+    Mil -- le bel -- lez -- ze tue,
+    Mil -- le bel -- lez -- ze tue,
+    Mil -- le bel -- lez -- ze tue con oc -- chi mil -- le.
 }
 
 altoVIIIincipit = \relative c'' {
@@ -42,8 +61,8 @@ altoVIIIincipit = \relative c'' {
     g2
 }
 
+% alto: checked against source
 altoVIII = \relative c'' {
-    \clef mezzosoprano
     \key f \major
     \fourTwoCommonTime
 
@@ -68,6 +87,34 @@ altoVIII = \relative c'' {
 }
 
 altoLyricsVIII = \lyricmode {
+    Men -- tre mia stel -- la mi -- ri,
+    \ijLyrics
+    Men -- tre mia stel -- la mi -- ri,
+    \normalLyrics
+    Men -- tre mia stel -- la mi -- ri
+    I bei ce -- le -- sti gi -- ri,
+    Il ciel es -- ser vor -- re -- i, __
+    Per -- ché tu ri -- vol -- ges -- si
+    Fis -- so ne' lu -- mi mie -- i,
+    Per -- ché tu ri -- vol -- ges -- si
+    Fis -- so ne' lu -- mi mie -- i,
+        ne' lu -- mi mie -- i
+    Le tue dol -- ci fa -- vil -- le,
+    Le tue dol -- ci fa -- vil -- le,
+    Le tue dol -- ci fa -- vil -- le:
+    Io va -- gheg -- giar,
+    Io va -- gheg -- giar po -- tes -- si,
+    \ijLyrics
+    Io va -- gheg -- giar po -- tes -- si,
+    \normalLyrics
+    Io va -- gheg -- giar po -- tes -- si
+    Mil -- le bel -- lez -- ze tue,
+    Mil -- le bel -- lez -- ze tue,
+    Mil -- le bel -- lez -- ze tue, __
+    \ijLyrics
+    Mil -- le bel -- lez -- ze tue
+    \normalLyrics
+        con oc -- chi mil -- le.
 }
 
 tenoreVIIIincipit = \relative c' {
@@ -78,8 +125,8 @@ tenoreVIIIincipit = \relative c' {
     d2
 }
 
+% tenore: checked against source
 tenoreVIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -105,6 +152,33 @@ tenoreVIII = \relative c' {
 }
 
 tenoreLyricsVIII = \lyricmode {
+    Men -- tre mia stel -- la mi -- ri,
+    \ijLyrics
+    Men -- tre mia stel -- la mi -- ri,
+    \normalLyrics
+    Men -- tre mia stel -- la mi -- ri
+    I bei ce -- le -- sti gi -- ri,
+    I bei ce -- le -- sti gi -- ri,
+    Il ciel es -- ser vor -- re -- i, __
+    Per -- ché tu ri -- vol -- ges -- si
+    Fis -- so,
+    Per -- ché tu ri -- vol -- ges -- si
+    Fis -- so ne' lu -- mi mie -- i,
+        ne' lu -- mi mie -- i
+    Le tue dol -- ci fa -- vil -- le,
+    Le tue dol -- ci fa -- vil -- le:
+    Io va -- gheg -- giar po -- tes -- si,
+    Io va -- gheg -- giar po -- tes -- si,
+    \ijLyrics
+    Io va -- gheg -- giar po -- tes -- si
+    \normalLyrics
+    Mil -- le bel -- lez -- ze tue,
+    Mil -- le bel -- lez -- ze tue, __
+    Mil -- le bel -- lez -- ze tue,
+    \ijLyrics
+    Mil -- le bel -- lez -- ze tue
+    \normalLyrics
+        con oc -- chi mil -- le.
 }
 
 bassoVIIIincipit = \relative c' {
@@ -115,8 +189,8 @@ bassoVIIIincipit = \relative c' {
     g2
 }
 
+% basso: checked against source
 bassoVIII = \relative c' {
-    \clef varbaritone
     \key f \major
     \fourTwoCommonTime
 
@@ -127,15 +201,33 @@ bassoVIII = \relative c' {
     d4 d, f g a1 | d,\breve | R | r2 g d'4 d, f g | a2 d, d' a4 a | g2. a4
 
     bf2 f | R\breve | r4 d2 a'4 bf2 f4 g | d2 g r1 | r1 r2 bf, | f' g f c |
-        d1 g | R\breve*3 |
+        d1 g | R\breve R\breve*2 |
 
     bf,2 bf4 bf f'2 c | g' d r1 | R\breve | r1 r4 bf' bf bf | a2 g bf4 bf f f |
 
-    g2 bf f r2 | R\breve | r4 d d d c2 bf | f' f d g | d1 g\longa*1/2
+    g2 bf f r2 | R\breve | r1 r4 d d d | c2 bf f' f | d g d1 | g\longa*1/2
     \bar "|."
 }
 
 bassoLyricsVIII = \lyricmode {
+    Men -- tre mia stel -- la mi -- ri,
+    Men -- tre mia stel -- la mi -- ri
+    I bei ce -- le -- sti gi -- ri,
+    Il ciel es -- ser vor -- re -- i,
+    Il ciel es -- ser vor -- re -- i,
+    Per -- ché tu ri -- vol -- ges -- si
+    Fis -- so ne' lu -- mi mie -- i
+    Le tue dol -- ci fa -- vil -- le,
+    Le tue dol -- ci fa -- vil -- le:
+%    Io va -- gheg -- giar po -- tes -- si,
+%    Io va -- gheg -- giar po -- tes -- si,
+    Io va -- gheg -- giar po -- tes -- si
+    Mil -- le bel -- lez -- ze tue,
+    Mil -- le bel -- lez -- ze tue,
+    \ijLyrics
+    Mil -- le bel -- lez -- ze tue
+    \normalLyrics
+        con oc -- chi mil -- le.
 }
 
 quintoVIIIincipit = \relative c' {
@@ -146,8 +238,8 @@ quintoVIIIincipit = \relative c' {
     d2
 }
 
+% quinto: checked against source
 quintoVIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -172,6 +264,28 @@ quintoVIII = \relative c' {
 }
 
 quintoLyricsVIII = \lyricmode {
+    Men -- tre mia stel -- la mi -- ri,
+    Men -- tre mia stel -- la mi -- ri
+    I bei ce -- le -- sti gi -- ri,
+    Il ciel es -- ser vor -- re -- i,
+    \ijLyrics
+    Il ciel es -- ser vor -- re -- i,
+    \normalLyrics
+    Per -- ché tu ri -- vol -- ges -- si
+    Fis -- so ne' lu -- mi mie -- i,
+        ne' lu -- mi mie -- i
+    Le tue dol -- ci fa -- vil -- le,
+    Le tue dol -- ci __ fa -- vil -- le:
+    Io va -- gheg -- giar po -- tes -- si,
+    Io va -- gheg -- giar po -- tes -- si,
+    Io va -- gheg -- giar po -- tes -- si
+    Mil -- le bel -- lez -- ze tue,
+    Mil -- le bel -- lez -- ze tue,
+    Mil -- le bel -- lez -- ze tue,
+    \ijLyrics
+    Mil -- le bel -- lez -- ze tue
+    \normalLyrics
+        con oc -- chi mil -- le.
 }
 
 sestoVIIIincipit = \relative c'' {
@@ -182,8 +296,8 @@ sestoVIIIincipit = \relative c'' {
     d2
 }
 
+% sesto: checked against source
 sestoVIII = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCommonTime
 
@@ -209,6 +323,25 @@ sestoVIII = \relative c'' {
 }
 
 sestoLyricsVIII = \lyricmode {
+    Men -- tre mia stel -- la mi -- ri,
+    Men -- tre mia stel -- la mi -- ri
+    I bei ce -- le -- sti gi -- ri,
+    \ijLyrics
+    I bei ce -- le -- sti gi -- ri,
+    \normalLyrics
+    Il ciel es -- ser vor -- re -- i,
+    Il ciel es -- ser vor -- re -- i,
+    Per -- ché tu ri -- vol -- ges -- si
+    Fis -- so ne' lu -- mi mie -- i,
+    Per -- ché tu ri -- vol -- ges -- si
+    Fis -- so ne' lu -- mi mie -- i
+    Le tue dol -- ci fa -- vil -- le,
+    Le __ tue dol -- ci fa -- vil -- le:
+    Io va -- gheg -- giar po -- tes -- si,
+    Io va -- gheg -- giar po -- tes -- si,
+    Io va -- gheg -- giar po -- tes -- si __
+    Mil -- le bel -- lez -- ze tue,
+    Mil -- le bel -- lez -- ze tue __ con oc -- chi mil -- le.
 }
 
 cantoVIIIincipitVoice = <<

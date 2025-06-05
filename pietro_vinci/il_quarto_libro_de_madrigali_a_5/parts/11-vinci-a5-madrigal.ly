@@ -38,7 +38,7 @@ cantoLyricsXI = \lyricmode {
     Il ciel __ es -- ser vor -- re -- i,
     Il ciel es -- ser vor -- re -- i,
     Per -- ché tu ri -- vol -- ges -- si
-    Fis -- so ne' lu -- mi mie -- i
+    Fi -- so ne' lu -- mi mie -- i
     Le tue dol -- ci fa -- vil -- le,
     Le tue dol -- ci fa -- vil -- le:
     Io va -- gheg -- giar po -- tes -- si,
@@ -86,7 +86,7 @@ altoLyricsXI = \lyricmode {
     Il ciel, __
     Il ciel es -- ser vor -- re -- i,
     Per -- ché tu ri -- vol -- ges -- si
-    Fis -- so ne' lu -- mi mie -- i
+    Fi -- so ne' lu -- mi mie -- i
     Le tue dol -- ci fa -- vil -- le,
     Le tue dol -- ci fa -- vil -- le:
     Io va -- gheg -- giar po -- tes -- si,
@@ -140,9 +140,9 @@ tenoreLyricsXI = \lyricmode {
     Il ciel es -- ser vor -- re -- i,
     Il ciel __ es -- ser vor -- re -- i,
     Per -- ché tu ri -- vol -- ges -- si
-    Fis -- so,
+    Fi -- so,
     Per -- ché __ tu ri -- vol -- ges -- si
-    Fis -- so 
+    Fi -- so 
 %    Le tue dol -- ci fa -- vil -- le,
     Le tue dol -- ci fa -- vil -- le:
     Io va -- gheg -- gia -- re,
@@ -191,7 +191,7 @@ bassoLyricsXI = \lyricmode {
     I bei ce -- le -- sti gi -- ri,
     Il ciel __ es -- ser vor -- re -- i,
     Per -- ché tu ri -- vol -- ges -- si
-    Fis -- so % ne' lu -- mi mie -- i
+    Fi -- so % ne' lu -- mi mie -- i
     Le tue dol -- ci fa -- vil -- le,
     Le tue dol -- ci fa -- vil -- le:
     Io va -- gheg -- giar po -- tes -- si
@@ -237,9 +237,9 @@ quintoLyricsXI = \lyricmode {
     I bei ce -- le -- sti gi -- ri,
     Il ciel es -- ser __ vor -- re -- i,
     Per -- ché tu ri -- vol -- ges -- si
-    Fis -- so,
+    Fi -- so,
     Per -- ché __ tu ri -- vol -- ges -- si
-    Fis -- so ne' lu -- mi mie -- i
+    Fi -- so ne' lu -- mi mie -- i
 %    Le tue dol -- ci fa -- vil -- le,
     Le tue dol -- ci fa -- vil -- le:
     Io va -- gheg -- gia -- re po -- tes -- si
