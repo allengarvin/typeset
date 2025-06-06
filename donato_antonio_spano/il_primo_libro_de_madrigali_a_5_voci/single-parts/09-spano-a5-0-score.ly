@@ -6,15 +6,15 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 17)
+#(set-global-staff-size 14.5)
 
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
-    cksum = "13aa4e97548a633045b1837c3966cf8db802632f"
+    cksum = "8e006cab050b2a3399e3ef7eb52f6da15576196f"
     sametext = #'( "353974f62d355386200ece4abde15ef641b2dc10" "13aa4e97548a633045b1837c3966cf8db802632f" "8e006cab050b2a3399e3ef7eb52f6da15576196f" "ebb1c557d6dfe188ae144c733f64aaf8627328df" "bc56ea976dfac8cf1f15c461b6ae599051ebf167" )
-    lastupdated = "2025-06-04"
-    originallyset = "2025-06-04"
-    flats = 1
+    lastupdated = "2025-06-05"
+    originallyset = "2025-06-05"
+    flats = 0
     final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
@@ -24,11 +24,10 @@
     instrument = "Mentre mia stella miri:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "mentre_mia_stella_miri"
-    shortcomp = "merulo"
+    shortcomp = "spano"
     categories = "[madrigal]"
+    rhyme = "aabbcdcD"
     motifs = "[star,sky,beauty,eyes,heavens]"
-    needtranslation = #'f
-    composer = "Claudio Merulo (1533-1604)"
     folio = "Torquato Tasso (1544-1595)"
 
     % Unchanging:
@@ -37,71 +36,63 @@
     tagline = #'f
 }
 
-\include "../parts/08-merulo-a6-madrigal.ly"
+\include "../parts/09-spano-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "08-merulo--mentre_mia_stella_miri-"
+    \bookOutputName "09-spano--mentre_mia_stella_miri-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #5.5
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoVIIIincipitVoice
+                    \incipit \cantoIXincipitVoice
                     \clef "treble"
                     \global
-                    \cantoVIII
+                    \cantoIX
                 >>
-             \addlyrics { \cantoLyricsVIII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Sesto"
-                    \incipit \sestoVIIIincipitVoice
-                    \clef "treble"
-                    \global
-                    \sestoVIII
-                >>
-             \addlyrics { \sestoLyricsVIII }
+             \addlyrics { \cantoLyricsIX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoVIIIincipitVoice
+                    \incipit \altoIXincipitVoice
                     \clef "treble"
                     \global
-                    \altoVIII
+                    \altoIX
                 >>
-             \addlyrics { \altoLyricsVIII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreVIIIincipitVoice
-                    \clef "treble_8"
-                    \global
-                    \tenoreVIII
-                >>
-             \addlyrics { \tenoreLyricsVIII }
+             \addlyrics { \altoLyricsIX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoVIIIincipitVoice
+                    \incipit \quintoIXincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintoVIII
+                    \quintoIX
                 >>
-             \addlyrics { \quintoLyricsVIII }
+             \addlyrics { \quintoLyricsIX }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenore"
+                    \incipit \tenoreIXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenoreIX
+                >>
+             \addlyrics { \tenoreLyricsIX }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoVIIIincipitVoice
+                    \incipit \bassoIXincipitVoice
                     \clef "bass"
                     \global
-                    \bassoVIII
+                    \bassoIX
                 >>
-             \addlyrics { \bassoLyricsVIII }
+             \addlyrics { \bassoLyricsIX }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 86 2)
+                tempoWholesPerMinute = #(ly:make-moment 74 2)
             }
         }
     }   
@@ -110,25 +101,24 @@
             \column {
                  \line { Mentre mia stella miri }
                  \line { i bei celesti giri, }
-                 \line { il ciel esser vorrei, }
-                 \line { perché tu rivolgessi }
-                 \line { fiso ne' lumi miei }
+                 \line { il cielo esser vorrei, }
+                 \line { perché negli occhi miei }
+                 \line { fisso tu rivolgessi }
                  \line { le tue dolci faville: }
                  \line { io vagheggiar potessi }
-                 \line { mille bellezze tue con occhi mille. }
+                 \line { mille bellezze tue con luci mille. }
             }
            \column {
-               % SKIP master: Giovanni Cavaccio. Variant on pietro vinci
                % translation orig date: 2025-06-03
-               % translation updated: 2025-06-03 later [for variant]
+               % translation updated:
                  \line { While, my star, you gaze upon }
                  \line { the lovely celestial turnings, }
                  \line { I would like to be the sky, }
-                 \line { so that you turned }
-                 \line { intently into my own eyes (lights) }
+                 \line { so that into my eyes }
+                 \line { you would intently turn }
                  \line { your sweet sparks: }
                  \line { I could admire }
-                 \line { your thousand beauties with a thousand eyes. }
+                 \line { your thousand beauties with a thousand eyes [lights]. }
            }
         }
     }

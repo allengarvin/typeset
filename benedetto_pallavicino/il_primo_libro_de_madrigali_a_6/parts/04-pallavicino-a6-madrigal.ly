@@ -1,4 +1,4 @@
-cantoI = \relative c'' {
+cantoIV = \relative c'' {
     \clef treble
     \key c \major
     \fourTwoCommonTime
@@ -6,10 +6,10 @@ cantoI = \relative c'' {
     \bar "|."
 }
 
-cantoLyricsI = \lyricmode {
+cantoLyricsIV = \lyricmode {
 }
 
-altoI = \relative c' {
+altoIV = \relative c' {
     \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
@@ -17,10 +17,10 @@ altoI = \relative c' {
     \bar "|."
 }
 
-altoLyricsI = \lyricmode {
+altoLyricsIV = \lyricmode {
 }
 
-tenoreI = \relative c' {
+tenoreIV = \relative c' {
     \clef alto
     \key c \major
     \fourTwoCommonTime
@@ -28,10 +28,10 @@ tenoreI = \relative c' {
     \bar "|."
 }
 
-tenoreLyricsI = \lyricmode {
+tenoreLyricsIV = \lyricmode {
 }
 
-bassoI = \relative c {
+bassoIV = \relative c {
     \clef varbaritone
     \key c \major
     \fourTwoCommonTime
@@ -39,10 +39,10 @@ bassoI = \relative c {
     \bar "|."
 }
 
-bassoLyricsI = \lyricmode {
+bassoLyricsIV = \lyricmode {
 }
 
-quintoI = \relative c' {
+quintoIV = \relative c' {
     \clef alto
     \key c \major
     \fourTwoCommonTime
@@ -50,10 +50,10 @@ quintoI = \relative c' {
     \bar "|."
 }
 
-quintoLyricsI = \lyricmode {
+quintoLyricsIV = \lyricmode {
 }
 
-sestoI = \relative c' {
+sestoIV = \relative c' {
     \clef alto
     \key c \major
     \fourTwoCommonTime
@@ -61,48 +61,48 @@ sestoI = \relative c' {
     \bar "|."
 }
 
-sestoLyricsI = \lyricmode {
+sestoLyricsIV = \lyricmode {
 }
 
-cantoIincipitVoice = <<
+cantoIVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoIincipit
+        \cantoIVincipit
     >>
 >>
 
-altoIincipitVoice = <<
+altoIVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altoIincipit
+        \altoIVincipit
     >>
 >>
 
-tenoreIincipitVoice = <<
+tenoreIVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreIincipit
+        \tenoreIVincipit
     >>
 >>
 
-bassoIincipitVoice = <<
+bassoIVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassoIincipit
+        \bassoIVincipit
     >>
 >>
 
-quintoIincipitVoice = <<
+quintoIVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \quintoIincipit
+        \quintoIVincipit
     >>
 >>
 
-sestoIincipitVoice = <<
+sestoIVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \sestoIincipit
+        \sestoIVincipit
     >>
 >>
 

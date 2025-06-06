@@ -1,108 +1,108 @@
-cantoI = \relative c'' {
+cantoV = \relative c'' {
     \clef treble
-    \key c \major
+    \key f \major
     \fourTwoCommonTime
 
     \bar "|."
 }
 
-cantoLyricsI = \lyricmode {
+cantoLyricsV = \lyricmode {
 }
 
-altoI = \relative c' {
+altoV = \relative c' {
     \clef mezzosoprano
-    \key c \major
+    \key f \major
     \fourTwoCommonTime
 
     \bar "|."
 }
 
-altoLyricsI = \lyricmode {
+altoLyricsV = \lyricmode {
 }
 
-tenoreI = \relative c' {
+tenoreV = \relative c' {
     \clef alto
-    \key c \major
+    \key f \major
     \fourTwoCommonTime
 
     \bar "|."
 }
 
-tenoreLyricsI = \lyricmode {
+tenoreLyricsV = \lyricmode {
 }
 
-bassoI = \relative c {
+bassoV = \relative c {
     \clef varbaritone
-    \key c \major
+    \key f \major
     \fourTwoCommonTime
 
     \bar "|."
 }
 
-bassoLyricsI = \lyricmode {
+bassoLyricsV = \lyricmode {
 }
 
-quintoI = \relative c' {
+quintoV = \relative c' {
     \clef alto
-    \key c \major
+    \key f \major
     \fourTwoCommonTime
 
     \bar "|."
 }
 
-quintoLyricsI = \lyricmode {
+quintoLyricsV = \lyricmode {
 }
 
-sestoI = \relative c' {
+sestoV = \relative c' {
     \clef alto
-    \key c \major
+    \key f \major
     \fourTwoCommonTime
 
     \bar "|."
 }
 
-sestoLyricsI = \lyricmode {
+sestoLyricsV = \lyricmode {
 }
 
-cantoIincipitVoice = <<
+cantoVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \cantoIincipit
+        \cantoVincipit
     >>
 >>
 
-altoIincipitVoice = <<
+altoVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \altoIincipit
+        \altoVincipit
     >>
 >>
 
-tenoreIincipitVoice = <<
+tenoreVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \tenoreIincipit
+        \tenoreVincipit
     >>
 >>
 
-bassoIincipitVoice = <<
+bassoVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \bassoIincipit
+        \bassoVincipit
     >>
 >>
 
-quintoIincipitVoice = <<
+quintoVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \quintoIincipit
+        \quintoVincipit
     >>
 >>
 
-sestoIincipitVoice = <<
+sestoVincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
-        \sestoIincipit
+        \sestoVincipit
     >>
 >>
 

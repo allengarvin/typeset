@@ -11,6 +11,7 @@
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
     cksum = "ebb1c557d6dfe188ae144c733f64aaf8627328df"
+    sametext = #'( "353974f62d355386200ece4abde15ef641b2dc10" "13aa4e97548a633045b1837c3966cf8db802632f" "8e006cab050b2a3399e3ef7eb52f6da15576196f" "ebb1c557d6dfe188ae144c733f64aaf8627328df" "bc56ea976dfac8cf1f15c461b6ae599051ebf167" )
     lastupdated = "2025-06-03"
     originallyset = "2025-06-03"
     flats = 0
