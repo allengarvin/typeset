@@ -11,11 +11,11 @@
     % Things that change per piece:
     title = "Passacaglio"
     subtitle = ""
-    instrument = "Passacaglio:  (violinoSecondo)"
+    instrument = "Passacaglio: (violino II)"
 
     % Things that change per part:
-    partname = "Violino secondo (part 2 of 4)"
-    instrument = "Passacaglio:  (violinoSecondo)"
+    partname = "Violino II (part 2 of 4)"
+    instrument = "Passacaglio: (violino II)"
 
     % Unchanging:
     lastupdated = "2019-03-09"

@@ -1,6 +1,7 @@
-\version "2.18.2"
+\version "2.24.4"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -t "Fantasia II" -u "sopra un soggetto solo" -m 78 -l instrumental 02-frescobaldi-a4-0-score.ly canto:t alto:8a tenore:8a basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,48 +9,52 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2025-06-06"
+    originallyset = "2025-06-06"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Fantasia 11"
-    subtitle = "sopra quattro soggetti"
-    instrument = "Fantasia 11: sopra quattro soggetti (tenore)"
+    title = "Fantasia II"
+    subtitle = "sopra un soggetto solo"
+    subsubtitle = ""
+    instrument = "Fantasia II: sopra un soggetto solo (tenore)"
     headerspace = \markup { \vspace #2 }
+    shorttitle = "fantasia_ii"
+    shortcomp = "frescobaldi"
 
     % Things that change per part:
     partname = "Tenore (part 3 of 4)"
-    instrument = "Fantasia 11: sopra quattro soggetti (tenore)"
+    instrument = "Fantasia II: sopra un soggetto solo (tenore)"
 
     % Unchanging:
-    lastupdated = "2020-02-26"
-    originallyset = "2020-02-26"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/11-frescobaldi-a4-fantasia.ly"
+\include "../parts/02-frescobaldi-a4-fantasia.ly"
 
 \book {
-    \bookOutputName "11-frescobaldi--fantasia_11-sopra_quattro_soggetti"
+    \bookOutputName "02-frescobaldi--fantasia_ii-sopra_un_soggetto_solo"
     \bookOutputSuffix "--3-tenore--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \tenoreXI
+            \tenoreII
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "11-frescobaldi--fantasia_11-sopra_quattro_soggetti"
+    \bookOutputName "02-frescobaldi--fantasia_ii-sopra_un_soggetto_solo"
     \bookOutputSuffix "--3-tenore--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \tenoreXI
+            \tenoreII
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

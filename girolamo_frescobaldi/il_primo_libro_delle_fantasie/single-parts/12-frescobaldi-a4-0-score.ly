@@ -11,8 +11,8 @@
 \header {
     % Things that change per piece:
     title = "Fantasia 12"
-    subtitle = "sopra quattro soggietti"
-    instrument = "Fantasia 12: sopra quattro soggietti (score)"
+    subtitle = "sopra quattro soggetti"
+    instrument = "Fantasia 12: sopra quattro soggetti (score)"
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:
@@ -30,7 +30,7 @@
 \include "../parts/12-frescobaldi-a4-fantasia.ly"
 
 \book {
-    \bookOutputName "12-frescobaldi--fantasia_12-sopra_quattro_soggietti"
+    \bookOutputName "12-frescobaldi--fantasia_12-sopra_quattro_soggetti"
     \bookOutputSuffix "--0-score"
     \score {
          <<

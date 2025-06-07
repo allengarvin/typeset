@@ -63,7 +63,7 @@
                     \clef "bass"
                     \global
                     \bassoXXV
-                    \continuoFiguresXXV
+                    \new FiguredBass { \continuoFiguresXXV }
                 >>
              >>
          >>

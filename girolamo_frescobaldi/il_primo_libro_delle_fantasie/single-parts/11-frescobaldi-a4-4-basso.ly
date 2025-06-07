@@ -10,13 +10,13 @@
 \header {
     % Things that change per piece:
     title = "Fantasia 11"
-    subtitle = "sopra quattro soggietti"
-    instrument = "Fantasia 11: sopra quattro soggietti (basso)"
+    subtitle = "sopra quattro soggetti"
+    instrument = "Fantasia 11: sopra quattro soggetti (basso)"
     headerspace = \markup { \vspace #2 }
 
     % Things that change per part:
     partname = "Basso (part 4 of 4)"
-    instrument = "Fantasia 11: sopra quattro soggietti (basso)"
+    instrument = "Fantasia 11: sopra quattro soggetti (basso)"
 
     % Unchanging:
     lastupdated = "2020-02-26"
@@ -28,7 +28,7 @@
 \include "../parts/11-frescobaldi-a4-fantasia.ly"
 
 \book {
-    \bookOutputName "11-frescobaldi--fantasia_11-sopra_quattro_soggietti"
+    \bookOutputName "11-frescobaldi--fantasia_11-sopra_quattro_soggetti"
     \bookOutputSuffix "--4-basso--bs_clef"
     \include "../include/paper-1-part.ly"
     \score {

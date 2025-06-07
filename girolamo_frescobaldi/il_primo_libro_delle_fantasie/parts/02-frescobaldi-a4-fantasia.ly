@@ -6,10 +6,11 @@ cantoIIincipit = \relative c'' {
     d2.
 }
 
+% canto: checked against source
 cantoII = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCommonTime
+    \globalEditorialCommonTime
 
     R\breve*4 | R\breve | r1 d2. c8[ bf] | a4 bf c a bf2 a4 g | a2 bf c a ~ |
 
@@ -25,12 +26,12 @@ cantoII = \relative c'' {
         r4 c2 bf4 a2. g4 | bf a2 g4. f16[ e] d8[ e] f2 |
         d4 e4. fs8 g4 a f e g ~ | g fs g4. a8 bf2 a |
     % --- page ---
-    \time 6/4
-        r2 r4 g2 f4 | a g4. a8 bf4 f g | a2 r4 g f a ~ | 
-        a g bf a4. bf8 c4 ~ | c d a c2 e,4 | d f4. e8 
+    \time 3/4\globalEditorialThreeTime
+        r2 r4 | g2 f4 | a g4. a8 | bf4 f g | a2 r4 | g f a ~ | 
+        a g bf | a4. bf8 c4 ~ | c d a | c2 e,4 | d f4. e8 |
     % -- mid --
-    g4 a2 | r2 c4 bf a2 | g fs4 g4. a8 bf4 | a c2 bf4 a2 |
-        \fourTwoCutTime
+    g4 a2 | r2 c4 | bf a2 | g fs4 | g4. a8 bf4 | a c2 | bf4 a2 |
+        \fourTwoCutTime \globalEditorialCutTime
         g2 r2 r8 d'[ c bf] a[ bf c g] | a4 e f8[ d e f] d4 c2 b4 | 
     % -- ret --
     c2 r8 c'[ bf a] g[ a bf g] a4. bf8 | c[ g] a4 bf g a2 r2 | 
@@ -40,13 +41,15 @@ cantoII = \relative c'' {
     % -- mid --
     bf2 r2 r8 d[ c bf] a[ bf c a] | bf4 g a d,2 c4 d d' ~ | d c2 bf a g4 ~ |
         g a bf2. a2 g4 | a4 c4. bf8 a4 g a bf a8[ g] |
-        a1 d |
+        a1 \editorialThreeTime d1   
+            |
 
     % --- page ---
     c1 bf | \times 2/3 { a2. bf4 c a } \times 2/3 { bf2 c d4 g, } |
         \times 2/3 { a2. a4 b2 } \times 2/3 { c g1 } |
         \times 2/3 { f2 a d,4 d' } \times 2/3 { bf2 c a } |
     \fourTwoCommonTime
+    \globalEditorialCommonTime
         bf1 r4 d c bf |
     % -- mid --
     a8 bf4 a g8 a4 d,2 r2 | r2 d'4 c bf4. a8 b c4 b8 |
@@ -71,9 +74,10 @@ altoIIincipit = \relative c'' {
     g2.
 }
 
+% alto: checked against source
 altoII = \relative c'' {
-    \clef alto
     \key f \major
+     #(if *is-parts* #{\globalEditorialCommonTime #})
     \fourTwoCommonTime
 
     R\breve*4 | g2. f8[ e] d4 e f d | ef2 d4 c d1 | R\breve |
@@ -93,24 +97,30 @@ altoII = \relative c'' {
         e8[ d] c4 f2. d4 e2 | f2. e4 d2 r2 | 
         r2 r4 d4. c16[ bf] a8[ bf c a] bf4 ~ | bf a g1 fs2 | 
     % --- page ---
-    \time 6/4 r4 d' c e d4. e8 | f2 e4 d2. | r4 c bf d4. e8 f4 |
-        ef2 r4 f2 e4 | g2 f4 a a, g | bf4. a8 c4 
+    \time 3/4 #(if *is-parts* #{\globalEditorialThreeTime #})
+        r4 d' c | e d4. e8 | f2 e4 | d2. | r4 c bf | d4. e8 f4 |
+        ef2 r4 | f2 e4 | g2 f4 | a a, g | bf4. a8 c4 |
     % -- mid --
-    bf4 d c | d4. e8 f4 r4 r4 c | bf d2 g,4 ef' d | f2 c4 d2 a4 | 
-        \fourTwoCutTime b2 r2 r2 r8 d[ c bf] | 
+    bf4 d c | d4. e8 f4 | r2 c4 | bf d2 | g,4 ef' d | f2 c4 | d2 a4 | 
+        \fourTwoCutTime #(if *is-parts* #{\globalEditorialCutTime #})
+    b2 r2 r2 r8 d[ c bf] | 
         a[ bf c g] a2 r8 g'[ f e] d[ e f d] | 
     % -- ret --
     e4 f e d4. c8[ d e] f2 | r1 c4 bf a g | a4. bf8 c4 a d e f2 |
         r2 r8 g[ f e] d[ e f d] ef4. d8 | c4 ef d2 c r2 | 
     % -- mid --
     r8 d[ c bf] a[ bf c a] bf2 r2 | d4 c4. bf8 a4 a'4. g8 f4 g ~ |
-        g8[ f] e4 d2 r1 | r1 d1 | c bf |
+        g8[ f] e4 d2 r1 | r1 \editorialThreeTime d1 | c bf |
         \times 2/3 { a2. bf4 c a } \times 2/3 { bf2 a2. g4 } |
     % --- page ---
+    \editorialCommonTime
     a4 g e f g1 | r1 g'4 f8[ e] d4 e | 
+        \editorialThreeTime
         \times 2/3 { f2 c d } \times 2/3 { e1 d4 c } |
         \times 2/3 { d4 e f g a f } \times 2/3 { g1 fs2 } |
-        \fourTwoCommonTime g1 r1 
+        \fourTwoCommonTime 
+     #(if *is-parts* #{\globalEditorialCommonTime #})
+        g1 r1 
 
     % -- mid --
     r2 d4 c2 bf4 a b8[ c] ~ | c[ a] a'4. g4 f e8 f4 g8[ c,] d4 |
@@ -134,10 +144,11 @@ tenoreIIincipit = \relative c' {
     d2.
 }
 
+% tenore: checked against source
 tenoreII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
+     #(if *is-parts* #{\globalEditorialCommonTime #})
 
     R\breve | r1 d2. c8[ bf] | a4 bf c a bf2 a4 g | f g a bf c a d2 |
         g,2. a4 bf g a bf ~ | bf a8[ g] a1 g2 ~ | g f4 f'2 e8[ d] e2 | 
@@ -155,11 +166,13 @@ tenoreII = \relative c' {
         g4 a4. g8[ f g] a[ f a bf] c2 | d c2. bf2 a4 ~ |
         a8[ bf c g] c4 bf f2 g4. d8 | d'2. c4 d1 | 
     % --- page ---
-    \time 6/4 R1. | r2 g,4 f a g | f4. e8 d4 bf'2 a4 | r4 c bf d c4. d8 | 
-        ef4 d2 c r4 | r2 r4 
+    \time 3/4 #(if *is-parts* #{\globalEditorialThreeTime #})
+        R2.*2 | r2 g,4 | f a g | f4. e8 d4 | bf'2 a4 | r4 c bf | d c4. d8 | 
+        ef4 d2 | c r4 | r2 r4 
     % -- mid --
-    g4 bf c | bf g c f,2 e4 | g bf a d c bf | c f, e g2 fs4 |
-        \fourTwoCutTime g2 d'4 c8[ bf] a[ bf c e,] f2 ~ | 
+    g4 f a | bf g c | f,2 e4 | g bf a | d c bf | c f, e | g2 fs4 |
+        \fourTwoCutTime #(if *is-parts* #{\globalEditorialCutTime #})
+        g2 d'4 c8[ bf] a[ bf c e,] f2 ~ | 
         f4 g c, c' bf g f2 | 
     % -- ret --
     g8[ c bf a] g[ a bf f] g2 r4 f' | e d8[ c] d4. e8 f2. c4 | 
@@ -170,10 +183,13 @@ tenoreII = \relative c' {
         e d8[ c] d2 r8 g,[ f e] d4. e8 | f4 e8[ d] e4 f g2 d'4 e |
         f4 e8[ d] e2 d1 |
     % --- page ---
-    r1 \times 2/3 { g2. f8[ e] d4 e } | \times 2/3 { f2. d4 e f } bf,1 |
+    r1 \editorialThreeTime \times 2/3 { g2. f8[ e] d4 e } | 
+        \times 2/3 { f2. d4 e f } bf,1 |
         \times 2/3 { a1 g4 f } \times 2/3 { g2. f4 g a } |
         \times 2/3 { bf2 a1 } \times 2/3 { g2 ef' d } |
-    \fourTwoCommonTime d2 r4 d c4. bf4 a g8 |
+    \fourTwoCommonTime 
+     #(if *is-parts* #{\globalEditorialCommonTime #})
+        d2 r4 d c4. bf4 a g8 |
     % -- mid --
     g8[ f g a] d,4 e f d2 g4 | a4. d,8 bf'4 a bf c g f | e2 d r2 r4 a' ~ |
         a8 g4 f e8 f[ d] a'4 f c' f, ~ |
@@ -196,10 +212,11 @@ bassoIIincipit = \relative c' {
     g2.
 }
 
+% basso: checked against source
 bassoII = \relative c' {
-    \clef bass
     \key f \major
     \fourTwoCommonTime
+     #(if *is-parts* #{\globalEditorialCommonTime #})
 
     g2. f8[ e] d4 e f d | ef2 d4 c bf c d e | f d e f g g, c2 | d c4 bf a2 bf~|
         bf c d1 | c bf2 bf' | c a g f4 e | d2 g1 f2 | 
@@ -213,14 +230,15 @@ bassoII = \relative c' {
     % -- mid --
     d'4 c2 bf4 a4. bf8 c[ a] bf4 | a2 r2 r4 g'2 f4 | f2 e4 d2. r4 c ~ |
         c8[ bf] a2 d4 f2 e | d4. c16[ bf] a8[ bf] c4 g2 d'4. e8 |
-        f4 c a f d'2 c4 bf ~ | bf8[ c] d4 ef2 d1 | 
+        f4 c a g d'2 c4 bf ~ | bf8[ c] d4 ef2 d1 | 
     % --- page ---
-    \time 6/4
-        g4 f a g4. a8 bf4 | a c c, d4. c8 bf4 | a2 r4 r r d4 |
-        c ef d4. e8 f4 c ~ | c bf d a4. bf8 c4 | d2 r4 
+    \time 3/4 #(if *is-parts* #{\globalEditorialThreeTime #})
+        g4 f a | g4. a8 bf4 | a c c, | d4. c8 bf4 | a2 r4 | r2 d4 |
+        c ef d4 ~ | d8[ e8] f4 c ~ | c bf d | a4. bf8 c4 | d2 r4 |
     % -- mid --
-    r4 r a | g bf a d2 c4 | ef d4. c8 b4 c g | f a2 g4 d'2 |
+    r2 a4 | g bf a | d2 c4 | ef d4. c8 | b4 c g | f a2 | g4 d'2 |
         \fourTwoCutTime
+     #(if *is-parts* #{\globalEditorialCutTime #})
         g,1 r1 | r8 d'[ c bf] a[ bf c a] bf4 c d2 | 
     % -- ret --
     c2 r2 r2 r8 f[ e d] | c[ c' bf a] g[ a bf g] f[ e d e] f[ d] ef4 |
@@ -231,9 +249,10 @@ bassoII = \relative c' {
         c[ c, bf a] g[ a bf g] bf1 | a r1 | r1 d2 c4 bf |
 
     % --- page ---
-    a4 bf c a bf g g'2 | f4 d a'2 g1 | f e | 
+    a4 bf c a bf g g'2 | f4 d a'2 \editorialThreeTime g1 | f e | 
         \times 2/3 { d2. e4 f d } \times 2/3 { ef2 d4 c d2 } |
     \fourTwoCommonTime
+     #(if *is-parts* #{\globalEditorialCommonTime #})
         g1 r2 r4 d ~ |
     % -- mid --
     d4 c bf a a'4. g4 f e8 | f2 r2 g4 f4. e8 d4 | a c'2 bf4. a4 g8 a2 |

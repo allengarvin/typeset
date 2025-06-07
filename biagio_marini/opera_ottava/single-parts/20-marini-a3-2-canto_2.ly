@@ -9,33 +9,36 @@
 
 \header {
     % Things that change per piece:
-    title = "Passacaglio"
+    title = "Balletto I"
     subtitle = ""
-    instrument = "Passacaglio:  (basso)"
+    instrument = "Balletto I:  (canto II)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "balletto_i"
+    categories = "[trio]"
+    shortcomp = "marini"
 
     % Things that change per part:
-    partname = "Basso (part 4 of 4)"
-    instrument = "Passacaglio:  (basso)"
+    partname = "Canto II (part 2 of 4)"
+    instrument = "Balletto I:  (canto II)"
 
     % Unchanging:
-    lastupdated = "2019-03-09"
-    originally_set = "2019-03-09"
+    lastupdated = "2022-07-18"
+    originallyset = "2022-07-18"
     \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/25-marini-a4-passacaglio.ly"
+\include "../parts/20-marini-a3-balletto.ly"
 
 \book {
-    \bookOutputName "25-marini--passacaglio-"
-    \bookOutputSuffix "--4-basso--bs_clef"
+    \bookOutputName "20-marini--balletto_i-"
+    \bookOutputSuffix "--2-canto_2-tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "bass"
+            \clef "treble"
             \global 
-            \bassoXXV
-            \new FiguredBass { \continuoFiguresXXV }
+            \cantoTwoXX
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
