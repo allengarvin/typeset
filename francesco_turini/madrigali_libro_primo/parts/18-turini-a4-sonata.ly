@@ -11,6 +11,8 @@ violinoOneXVIII = \relative c'' {
     \key f \major
     \time 4/4
 
+    \override Score.MetronomeMark.stencil = ##f
+
     \tempo 2 = 54
     d1 | ef | d2. c8[ bf] | c2 d | c1 | bf | a2 d | 
         bf8[ g16 a] bf[ c d e] f8[ c] f4 ~ | f ef d2 |
