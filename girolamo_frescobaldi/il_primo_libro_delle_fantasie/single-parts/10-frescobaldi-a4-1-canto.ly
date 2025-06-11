@@ -9,16 +9,16 @@
 
 \header {
     % Things that change per piece:
-    title = "Fantasia 12"
+    title = "Fantasia X"
     subtitle = "sopra quattro soggetti"
-    instrument = "Fantasia 12: sopra quattro soggetti (canto)"
+    instrument = "Fantasia X: sopra quattro soggetti (canto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "fantasia_12"
+    shorttitle = "fantasia_10"
     shortcomp = "frescobaldi"
 
     % Things that change per part:
     partname = "Canto (part 1 of 4)"
-    instrument = "Fantasia 12: sopra quattro soggetti (canto)"
+    instrument = "Fantasia X: sopra quattro soggetti (canto)"
 
     % Unchanging:
     lastupdated = "2022-05-27"
@@ -30,7 +30,7 @@
 \include "../parts/10-frescobaldi-a4-fantasia.ly"
 
 \book {
-    \bookOutputName "10-frescobaldi--fantasia_12-sopra_quattro_soggetti"
+    \bookOutputName "10-frescobaldi--fantasia_10-sopra_quattro_soggetti"
     \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {

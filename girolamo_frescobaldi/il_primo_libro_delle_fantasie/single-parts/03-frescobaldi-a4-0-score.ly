@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.24.4"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -6,64 +6,69 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 14.6)
+#(set-global-staff-size 17)
 
 \header {
+    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
+    cksum = "5c85b28796ae1fa585f89769f0d69c507e4d2bf8"
+    lastupdated = "2025-06-10"
+    originallyset = "2025-06-10"
+    flats = 0
+    final = "e"
+    \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Fantasia XII"
-    subtitle = "sopra quattro soggetti"
-    instrument = "Fantasia XII: sopra quattro soggetti (score)"
+    title = "Fantasia III"
+    subtitle = "sopra un soggetto solo"
+    subsubtitle = ""
+    instrument = "Fantasia III: sopra un soggetto solo (score)"
     headerspace = \markup { \vspace #2 }
+    shorttitle = "fantasia_iii"
+    shortcomp = "frescobaldi"
+    categories = "[]"
+    motifs = "[]"
 
     % Unchanging:
     language = "instrumental"
-    categories = "[canzona]"
-    lastupdated = "2020-02-25"
-    originallyset = "2020-02-25"
-    flats = 1
-    final = "f"
-    \include "include/distribution-header.ly"
-    cksum = "db99fab32d21f899b760c14489111447d56a8d6e"
     tagline = #'f
 }
 
-\include "../parts/12-frescobaldi-a4-fantasia.ly"
+\include "../parts/03-frescobaldi-a4-fantasia.ly"
 
 \book {
-    \bookOutputName "12-frescobaldi--fantasia_12-sopra_quattro_soggetti"
+    \bookOutputName "03-frescobaldi--fantasia_iii-sopra_un_soggetto_solo"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.0
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoXIIincipitVoice
+                    \incipit \cantoIIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantoXII
+                    \cantoIII
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoXIIincipitVoice
+                    \incipit \altoIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \altoXII
+                    \altoIII
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreXIIincipitVoice
+                    \incipit \tenoreIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreXII
+                    \tenoreIII
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoXIIincipitVoice
+                    \incipit \bassoIIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassoXII
+                    \bassoIII
                 >>
              >>
          >>
@@ -71,9 +76,8 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 88 2)
+                tempoWholesPerMinute = #(ly:make-moment 94 2)
             }
         }
     }   
 }
-

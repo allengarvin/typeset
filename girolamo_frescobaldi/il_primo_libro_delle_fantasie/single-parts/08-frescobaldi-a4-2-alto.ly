@@ -9,16 +9,16 @@
 
 \header {
     % Things that change per piece:
-    title = "Fantasia 8"
+    title = "Fantasia VIII"
     subtitle = "sopra tre soggetti"
-    instrument = "Fantasia 8: sopra tre soggetti (alto)"
+    instrument = "Fantasia VIII: sopra tre soggetti (alto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "fantasia_8"
     shortcomp = "frescobaldi"
 
     % Things that change per part:
     partname = "Alto (part 2 of 4)"
-    instrument = "Fantasia 8: sopra tre soggetti (alto)"
+    instrument = "Fantasia VIII: sopra tre soggetti (alto)"
 
     % Unchanging:
     lastupdated = "2022-05-27"

@@ -1,6 +1,7 @@
-\version "2.18.2"
+\version "2.24.4"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -t "Fantasia V" -u "sopra due soggetti" -m 94 -l instrumental 05-frescobaldi-a4-0-score.ly canto:t alto:t8a tenore:8a basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,36 +9,38 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2025-06-10"
+    originallyset = "2025-06-10"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Fantasia VIII"
-    subtitle = "sopra tre soggetti"
-    instrument = "Fantasia VIII: sopra tre soggetti (canto)"
+    title = "Fantasia V"
+    subtitle = "sopra due soggetti"
+    subsubtitle = ""
+    instrument = "Fantasia V: sopra due soggetti (canto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "fantasia_8"
+    shorttitle = "fantasia_v"
     shortcomp = "frescobaldi"
 
     % Things that change per part:
     partname = "Canto (part 1 of 4)"
-    instrument = "Fantasia VIII: sopra tre soggetti (canto)"
+    instrument = "Fantasia V: sopra due soggetti (canto)"
 
     % Unchanging:
-    lastupdated = "2022-05-27"
-    originallyset = "2022-05-27"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/08-frescobaldi-a4-fantasia.ly"
+\include "../parts/05-frescobaldi-a4-fantasia.ly"
 
 \book {
-    \bookOutputName "08-frescobaldi--fantasia_8-sopra_tre_soggetti"
+    \bookOutputName "05-frescobaldi--fantasia_v-sopra_due_soggetti"
     \bookOutputSuffix "--1-canto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble"
             \global 
-            \cantoVIII
+            \cantoV
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

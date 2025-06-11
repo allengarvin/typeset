@@ -1,7 +1,7 @@
 % Non veggio ove scampar mi poss'omai
 % sì longa guerra i begli occhi mi fanno
 % ch'io temo (lasso) nol soverchio affanno
-% distrugga il cor, che triega non ha mai.
+% distrugga il cor, che tregua non ha mai.
 % 
 % Petrarca
 
@@ -13,8 +13,8 @@ cantoVIIincipit = \relative c'' {
     e1
 }
 
+% canto: checked against source
 cantoVII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 
@@ -40,6 +40,22 @@ cantoVII = \relative c'' {
 }
 
 cantoLyricsVII = \lyricmode {
+%    Non veg -- gi'o -- ve scam -- par mi pos -- s'o -- ma -- i,
+    Non veg -- gio o -- ve scam -- par mi pos -- s'o -- ma -- i,
+    Non veg -- gio,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+        i be -- gli~oc -- chi mi fan -- no
+    Ch'io te -- mo (las -- so) __ nol so -- ver -- chio~af -- fan -- no
+    Di -- strug -- ga~il cor,
+    Di -- strug -- ga~il cor, che tre -- gua,
+        che tre -- gua __ non ha ma -- i,
+        che __ tre -- gua non ha ma -- i,
+    Ch'io te -- mo (las -- so) __ nol so -- ver -- chio~af -- fan -- no
+    Di -- strug -- ga~il cor,
+    Di -- strug -- ga~il cor, che tre -- gua,
+        che __ tre -- gua non ha ma -- i,
+        che tre -- gua non ha ma -- i.
 }
 
 altoVIIincipit = \relative c'' {
@@ -50,8 +66,8 @@ altoVIIincipit = \relative c'' {
     cs1
 }
 
+% alto: checked against source
 altoVII = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCutTime
 
@@ -79,6 +95,28 @@ altoVII = \relative c'' {
 }
 
 altoLyricsVII = \lyricmode {
+%    Non veg -- gio,
+    Non veg -- gi'o -- ve scam -- par mi pos -- s'o -- ma -- i, __
+        o -- ve scam -- par mi pos -- s'o -- ma -- i,
+        o -- ve scam -- par mi pos -- s'o -- ma -- i
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+        i be -- gli~oc -- chi mi fan -- no,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no
+    Ch'io te -- mo (las -- so) nol __ so -- ver -- chio~af -- fan -- no __
+%    Di -- strug -- ga~il cor,
+%    \ijLyrics
+    Di -- strug -- ga~il cor, __
+        che __ tre -- gua,
+        che tre -- gua non ha ma -- i,
+        che tre -- gua non ha ma -- i,
+    Ch'io te -- mo (las -- so) nol so -- ver -- chio~af -- fan -- no
+%    Di -- strug -- ga~il cor,
+%    \ijLyrics
+    Di -- strug -- ga~il cor, __
+        che tre -- gua,
+        che tre -- gua non ha ma -- i,
+        che tre -- gua non ha ma -- i.
 }
 
 tenoreVIIincipit = \relative c' {
@@ -89,8 +127,8 @@ tenoreVIIincipit = \relative c' {
     e1
 }
 
+% tenore: checked against source
 tenoreVII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -111,25 +149,45 @@ tenoreVII = \relative c' {
         r2 r4 e e2 f | e1
 
     r1 | r1 r4 d f2 ~ | f4 c e4. f8 g2 g4 d | f2 e r4 c b2 | 
-        a4 a4.( b8[ c a] b4) c b | a\longa*1/2
+        a4 a4.( b8[ c a] b4) c b2 | a\longa*1/2
 
    
     \bar "|."
 }
 
 tenoreLyricsVII = \lyricmode {
+    Non veg -- gio,
+    Non veg -- gio o -- ve scam -- par mi pos -- s'o -- ma -- i,
+        mi pos -- s'o -- ma -- i
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+        mi fan -- no
+        nol so -- ver -- chio~af -- fan -- no,
+        nol so -- ver -- chio~af -- fan -- no
+    Di -- strug -- ga~il cor,
+    Di -- strug -- ga~il cor, che tre -- gua non __ ha ma -- i,
+        che tre -- gua non ha ma -- i,
+    Ch'io te -- mo (las -- so) nol so -- ver -- chio~af -- fan -- no,
+        so -- ver -- chio~af -- fan -- no
+    Di -- strug -- ga~il cor,
+%    \ijLyrics
+%    Di -- strug -- ga~il cor,
+%    \normalLyrics
+        che tre -- gua non ha ma -- i,
+        che tre -- gua,
+        che tre -- gua non __ ha ma -- i.
 }
 
 bassoVIIincipit = \relative c' {
-    \clef "petrucci-c3"
+    \clef "petrucci-f3"
     \key c \major
     \time 2/2
 
     a1
 }
 
+% basso: checked against source
 bassoVII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -143,13 +201,13 @@ bassoVII = \relative c' {
     r4 a' | d, a' g4 g8[ g] d4 d8[ d] a'2 | e1 r2 a | g1. g2 | d1 e ~ |
         e a ~ | a2 g f e | 
 
-    d1. cs2 | d\breve | a1 r2 e' | cs d e r4 a | fs2 g a e | g d4 d f2 c |
+    d1.( cs2| d\breve) | a1 r2 e' | cs d e r4 a | fs2 g a e | g d4 d f2 c |
         e4. f8
 
     g2 d r4 a' | c2 g d8([ e f g] a4) a, | e'1 a, | a' g ~ | g2 g d1 | e\breve|
         a1. g2 | f e
 
-    d1 ~ | d2 cs d1 ~ | d a | r2 e' cs d | e r4 a fs2 g | a e g d4 d |
+    d1 ~ | d2( cs d1 ~ | d) a | r2 e' cs d | e r4 a fs2 g | a e g d4 d |
         f2 c e4. f8
 
     g2 | d r4 a' c2 g | d8([ e f g] a4) a, e'1 | a,\longa*1/2
@@ -157,6 +215,22 @@ bassoVII = \relative c' {
 }
 
 bassoLyricsVII = \lyricmode {
+%    Non veg -- gio,
+    Non veg -- gio o -- ve scam -- par mi pos -- s'o -- ma -- i,
+    Non veg -- gio o -- ve scam -- par mi pos -- s'o -- ma -- i
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no
+    Ch'io te -- mo (las -- so) __ nol __ so -- ver -- chio~af -- fan -- no
+    Di -- strug -- ga~il cor,
+    Di -- strug -- ga~il cor, che tre -- gua,
+        che tre -- gua non ha ma -- i,
+        che tre -- gua non ha ma -- i,
+    Ch'io te -- mo (las -- so) nol so -- ver -- chio~af -- fan -- no
+    Di -- strug -- ga~il cor,
+    Di -- strug -- ga~il cor, che tre -- gua,
+        che tre -- gua non ha ma -- i,
+        che tre -- gua non __ ha ma -- i.
 }
 
 quintoVIIincipit = \relative c' {
@@ -167,8 +241,8 @@ quintoVIIincipit = \relative c' {
     cs2
 }
 
+% quinto: checked against source
 quintoVII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -196,6 +270,26 @@ quintoVII = \relative c' {
 }
 
 quintoLyricsVII = \lyricmode {
+%    Non veg -- gio,
+    Non veg -- gio o -- ve scam -- par mi pos -- s'o -- ma -- i,
+        o -- ve scam -- par mi pos -- s'o -- ma -- i
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no
+    Ch'io te -- mo (las -- so) nol __ so -- ver -- chio~af -- fan -- no, __
+        so -- ver -- chio~af -- fan -- no
+%    Di -- strug -- ga~il cor,
+%    \ijLyrics
+    Di -- strug -- ga~il cor,
+        che tre -- gua non ha ma -- i,
+        che tre -- gua,
+        che tre -- gua non __ ha ma -- i,
+%    Ch'io te -- mo (las -- so) 
+        nol __ so -- ver -- chio~af -- fan -- no,
+        nol so -- ver -- chio~af -- fan -- no
+    Di -- strug -- ga~il cor,
+    Di -- strug -- ga~il cor, che tre -- gua non __ ha ma -- i,
+        che tre -- gua non ha ma -- i.
 }
 
 sestoVIIincipit = \relative c'' {
@@ -206,8 +300,8 @@ sestoVIIincipit = \relative c'' {
     a1
 }
 
+% sesto: checked against source
 sestoVII = \relative c'' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCutTime
 
@@ -218,14 +312,14 @@ sestoVII = \relative c'' {
     fs4. fs8 g4 e8[ e] d4 d8[ d] | a'4 e r2 r1 | r2 r4 a fs4. g8 a4 a8[ a] |
         a4 a8[ a] bf2
 
-    a1 | r1 a, | d\breve | d1 \[ c( | b) \] a | a'1. g2 | f e d e |
+    a1 | r1 a, | d\breve | d1 \[ c( | b) \] a | a'1. g2 | f e d( e) |
         a,\breve | r4 e' cs2 d e | r4 e d2 b a | r1
 
     r4 e' g2 ~ | g a r4 f g e | e2 d4 d4.( e8[ f g] a2) | 
         g r4 g f8([ g a b] c4) c | 
 
     b4 e, e2 e1 | r2 a, d1 ~ | d d | \[ c1( b) \] | a a' ~ | a2 g f e |
-        d e a,1 ~ | a r4 e' cs2 | d e
+        d( e) a,1 ~ | a r4 e' cs2 | d e
 
     r4 e d2 | b a r1 | r4 e' g1 a2 | r4 f g e e2 d4 d ~ |
         d8([ e f g] a2) g r4 g |
@@ -237,6 +331,27 @@ sestoVII = \relative c'' {
 }
 
 sestoLyricsVII = \lyricmode {
+    Non veg -- gio,
+    Non veg -- gi'o -- ve scam -- par mi pos -- s'o -- ma -- i,
+    Non veg -- gio o -- ve scam -- par mi pos -- s'o -- ma -- i
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no,
+    Sì lon -- ga guer -- ra~i be -- gli~oc -- chi mi fan -- no
+    Ch'io te -- mo (las -- so) nol so -- ver -- chio~af -- fan -- no
+    Di -- strug -- ga~il cor,
+    \ijLyrics
+    Di -- strug -- ga~il cor, 
+    \normalLyrics
+        che tre -- gua,
+        che tre -- gua non ha ma -- i,
+        che tre -- gua non ha ma -- i,
+    Ch'io te -- mo (las -- so) nol __ so -- ver -- chio~af -- fan -- no __
+    Di -- strug -- ga~il cor,
+    \ijLyrics
+    Di -- strug -- ga~il cor, 
+    \normalLyrics
+        che tre -- gua,
+        che tre -- gua non ha ma -- i,
+        che tre -- gua non ha ma -- i.
 }
 
 cantoVIIincipitVoice = <<

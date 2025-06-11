@@ -10,16 +10,16 @@
 #(set-global-staff-size 19.5)
 \header {
     % Things that change per piece:
-    title = "Fantasia 1"
+    title = "Fantasia I"
     subtitle = "sopra un soggetto"
-    instrument = "Fantasia 1: sopra un soggetto (alto)"
+    instrument = "Fantasia I: sopra un soggetto (alto)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "fantasia_1"
     shortcomp = "frescobaldi"
 
     % Things that change per part:
     partname = "Alto (part 2 of 4)"
-    instrument = "Fantasia 1: sopra un soggetto (alto)"
+    instrument = "Fantasia I: sopra un soggetto (alto)"
 
     % Unchanging:
     lastupdated = "2022-05-25"

@@ -24,8 +24,8 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "fantasia_ii"
     shortcomp = "frescobaldi"
-    categories = "[]"
-    motifs = "[]"
+    categories = "[canzona]"
+    motifs = "[canzona]"
 
     % Unchanging:
     language = "instrumental"

@@ -1,6 +1,7 @@
-\version "2.18.2"
+\version "2.24.4"
 \include "english.ly"
 
+% Invocation: /usr/local/bin/generate-single.py -t "Fantasia V" -u "sopra due soggetti" -m 94 -l instrumental 05-frescobaldi-a4-0-score.ly canto:t alto:t8a tenore:8a basso:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -8,64 +9,66 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
+    lastupdated = "2025-06-10"
+    originallyset = "2025-06-10"
+    \include "include/distribution-header.ly"
+ 
     % Things that change per piece:
-    title = "Fantasia IX"
-    subtitle = "sopra tre soggetti"
-    instrument = "Fantasia IX: sopra tre soggetti (basso)"
+    title = "Fantasia V"
+    subtitle = "sopra due soggetti"
+    subsubtitle = ""
+    instrument = "Fantasia V: sopra due soggetti (alto)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "fantasia_9"
+    shorttitle = "fantasia_v"
     shortcomp = "frescobaldi"
 
     % Things that change per part:
-    partname = "Basso (part 4 of 4)"
-    instrument = "Fantasia IX: sopra tre soggetti (basso)"
+    partname = "Alto (part 2 of 4)"
+    instrument = "Fantasia V: sopra due soggetti (alto)"
 
     % Unchanging:
-    lastupdated = "2021-11-11"
-    originallyset = "2021-11-11"
-    \include "include/distribution-header.ly"
     tagline = #'f
 }
 
-\include "../parts/09-frescobaldi-a4-fantasia.ly"
+\include "../parts/05-frescobaldi-a4-fantasia.ly"
 
 \book {
-    \bookOutputName "09-frescobaldi--fantasia_9-sopra_tre_soggetti"
-    \bookOutputSuffix "--4-basso--bs_clef"
+    \bookOutputName "05-frescobaldi--fantasia_v-sopra_due_soggetti"
+    \bookOutputSuffix "--2-alto--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "bass"
+            \clef "treble"
             \global 
-            \bassoIX
+            \altoV
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "09-frescobaldi--fantasia_9-sopra_tre_soggetti"
-    \bookOutputSuffix "--4-basso--tr8_clef"
+    \bookOutputName "05-frescobaldi--fantasia_v-sopra_due_soggetti"
+    \bookOutputSuffix "--2-alto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "treble_8"
             \global 
-            \bassoIX
+            \altoV
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "09-frescobaldi--fantasia_9-sopra_tre_soggetti"
-    \bookOutputSuffix "--4-basso--al_clef"
+    \bookOutputName "05-frescobaldi--fantasia_v-sopra_due_soggetti"
+    \bookOutputSuffix "--2-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "alto"
             \global 
-            \bassoIX
+            \altoV
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

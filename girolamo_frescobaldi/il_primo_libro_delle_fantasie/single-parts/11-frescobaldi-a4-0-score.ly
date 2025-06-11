@@ -10,9 +10,9 @@
 
 \header {
     % Things that change per piece:
-    title = "Fantasia 11"
+    title = "Fantasia XI"
     subtitle = "sopra quattro soggetti"
-    instrument = "Fantasia 11: sopra quattro soggetti (score)"
+    instrument = "Fantasia XI: sopra quattro soggetti (score)"
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:
