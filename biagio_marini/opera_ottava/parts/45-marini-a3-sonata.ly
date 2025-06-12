@@ -7,6 +7,7 @@ cantoOneXLVincipit = \relative c''' {
 }
 
 % canto: checked against source
+%        checked twice, carefully
 cantoOneXLV = \relative c''' {
     \key f \major
     \fourTwoCommonTime
@@ -197,10 +198,12 @@ bassoXLV = \relative c' {
         c2 a bf g | a f g4 d
 
     a'4 a, | d4. d'8 d[ d d d] g,2 a4. g8 | 
-        f8[ g a f] g4 f8[ e] d[ e f g] a8[ g a a,] | 
+     % vvvvvvvvvvvvvvv changed (see previous section a few measures before
+        fs8[ g a fs] g4 f8[ e] d[ e f g] a8[ g a a,] | 
         d2. d4 d16[ e f d] e4 f16[ g a f] g4 |
         a16[ bf c a] bf4 c16[ d e c] a4 
 
+    % checked carefully thru here
     g8[ f e d] a'4 a, | d2. d4 d16[ e f g] e4 f16[ g a bf] g4 |
         a16[ bf c d] bf4 c16[ d e f] a,4 g8[ f e d] a'4 a, |
         d1 d'2 d4 g,16[ a bf c] | f4 f,16[ g a g] 

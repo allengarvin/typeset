@@ -122,7 +122,7 @@
                % translation orig date: 2025-04-16
                % translation updated:
                 \line { Tearful beauty, }
-                \line { for which once, night and day, }
+                \line { for whom once, night and day, }
                 \line { I sighed so much, }
                 \line { how did you become like this? }
                 \line { \vspace #0.5 }

@@ -81,7 +81,7 @@
 cantoOneXVIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
-    \time 9/4\doubleTimeSig \override Staff.TimeSignature #'style = #'modern \time 3/1
+    \time 9/4\doubleTimeSig \override Staff.TimeSignature.style = #'modern \time 3/1
 
     d2
 }
@@ -253,7 +253,7 @@ cantoOneLyricsXVII = \lyricmode {
 cantoTwoXVIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
-    \time 9/4\doubleTimeSig \override Staff.TimeSignature #'style = #'modern \time 3/1
+    \time 9/4\doubleTimeSig \override Staff.TimeSignature.style = #'modern \time 3/1
 
     d2
 }
@@ -341,7 +341,7 @@ cantoTwoLyricsXVII = \lyricmode {
     La -- gri -- mo -- sa bel -- tà
     per cui già not -- t'e dì
     co -- tan -- to so -- spi -- ra -- i, __
-    co -- me se -- i tu __ di -- ve -- nu -- ta co -- sì?
+    co -- me se -- i tu __ di -- ve -- nu -- ta __ co -- sì?
 %    Il bar -- ba -- ro chi fu?
     qual cor,
     \ijLyrics
@@ -424,7 +424,7 @@ cantoTwoLyricsXVII = \lyricmode {
 bassoXVIIincipit = \relative c' {
     \clef "petrucci-f4"
     \key c \major
-    \time 9/4\doubleTimeSig \override Staff.TimeSignature #'style = #'modern \time 3/1
+    \time 9/4\doubleTimeSig \override Staff.TimeSignature.style = #'modern \time 3/1
 
     g1.
 }
