@@ -21,7 +21,7 @@
     instrument = "S'io t'ho ferito, non t'ho però morto:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "sio_tho_ferito_non_tho_pero_morto"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     composer = "Giovanni Gabrieli (c.1554-1612)"
     categories = "[madrigal,favorite]"
     motifs = "[amore]"

@@ -1,7 +1,8 @@
     composer = "Ludwig Senfl (c.1486-1543)"
     source = \markup { \italic { 115 newer liedlein } (Nuremberg, 1544) }
+    year = 1544
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

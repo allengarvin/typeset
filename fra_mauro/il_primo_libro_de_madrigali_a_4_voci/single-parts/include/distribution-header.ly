@@ -1,7 +1,8 @@
     composer = "Fra Mauro di Fiorenza (c.1545-1621)"
     source = \markup { \italic { Il primo libro de madrigali a 4 voci } (Figliuoli di Antonio Gardano press, Venice, 1571) }
+    year = 1571
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

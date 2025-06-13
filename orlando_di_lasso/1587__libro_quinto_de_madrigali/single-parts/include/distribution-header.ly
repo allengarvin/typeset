@@ -1,7 +1,8 @@
     composer = "Orlande de Lassus (c.1532-1594)"
     source = \markup { \italic { Libro quinto de madrigali a 5 voci } (Angelo Gardano press, Venice, 1587) }
+    year = 1587
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

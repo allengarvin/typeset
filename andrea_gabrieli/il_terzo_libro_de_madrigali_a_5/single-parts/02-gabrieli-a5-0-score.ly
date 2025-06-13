@@ -15,7 +15,7 @@
     instrument = "Mentre la greggia errando:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "mentre_la_greggia_errando"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     needtranslation = #'f
 
     % Unchanging:

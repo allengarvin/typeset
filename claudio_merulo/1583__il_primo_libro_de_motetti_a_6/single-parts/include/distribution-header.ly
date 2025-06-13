@@ -1,7 +1,8 @@
     composer = "Claudio Merulo (1533-1604)"
     source = \markup { \italic { Il primo libro de mottetti a 6 voci } (Angelo Gardano press, Venice, 1583) }
+    year = 1583
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

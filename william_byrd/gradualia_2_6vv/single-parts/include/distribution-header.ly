@@ -1,4 +1,5 @@
     composer = "William Byrd (c.1540-1623)"
+    year = 1610
     source = \markup { \italic { Gradualia cantionum sacrarum, liber secundus } (Ricardi Redmeri press, London, 1610) }
     style = "Renaissance"
     

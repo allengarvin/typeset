@@ -1,7 +1,8 @@
     composer = "Philippe de Monte (1521-1603)"
     source = \markup { \italic { Il secondo libro de' madrigali spirituali a 6 e 7 voci } (Angelo Gardano press, Venice, 1589) }
+    year = 1589
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

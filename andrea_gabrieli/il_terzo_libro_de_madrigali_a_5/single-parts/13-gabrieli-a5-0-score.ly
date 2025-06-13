@@ -19,7 +19,7 @@
     instrument = "Ma mentre ch'ella: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "ma_mentre_chella"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[madrigal]"
     final = "g"
     flats = 0

@@ -15,7 +15,7 @@
     instrument = "Cinto m'havea tra belle e nude braccia:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "cinto_mhavea_tra_belle_e_nude_braccia"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[madrigal]"
     poeticform = "madrigal"
     motifs = "[amore,embrace]"

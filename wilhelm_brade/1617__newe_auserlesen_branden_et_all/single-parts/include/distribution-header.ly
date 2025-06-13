@@ -1,7 +1,8 @@
     composer = "William Brade (c.1560-1630)"
     source = \markup { \italic { Newe ausserlesene liebliche Branden, Intraden, Mascharaden, Balletten } (Hering press, Hamburg, 1617) }
+    year = 1617
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

@@ -1,7 +1,8 @@
     composer = "Ascanio Mayone (c.1565-1627)"
     source = \markup { \italic { Il primo libro di madrigali a 5 voci } (Sottile press, Naples, 1604) }
+    year = 1604
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

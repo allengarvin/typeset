@@ -1,7 +1,8 @@
     composer = "Domenico Maria Ferrabosco (1513-1574)"
     source = \markup { \italic { Il primo libro de madrigali a 4 voci } (Gardano press, Venice, 1542) }
+    year = 1542
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

@@ -15,7 +15,7 @@
     instrument = "Canzon I:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "canzon_i"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     folio = "[Charteris 195]"
 
     % Unchanging:

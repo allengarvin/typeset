@@ -1,4 +1,5 @@
     source = \markup { \italic { Recercari et canzoni franzese, libro primo } (Zannetti press, Rome, 1615) }
+    year = 1615
     composer = "Girolamo Frescobaldi (1583-1643)"
 
     style = "Baroque"

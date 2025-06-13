@@ -1,7 +1,8 @@
     composer = "Gregor Aichinger (1565-1628)"
     source = \markup { \italic { Liber secundus sacrarum cantionum } (Angelo Gardano press, Venice, 1595) }
+    year = 1595
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

@@ -17,7 +17,7 @@
     motifs = "[pastoral,cupid,amore,disdain]"
     needtranslation = #'f
     language = "italian"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
 
     % Unchanging:
     lastupdated = "2019-11-11"

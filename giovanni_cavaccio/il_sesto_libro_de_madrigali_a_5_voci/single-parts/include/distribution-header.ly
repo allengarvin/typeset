@@ -1,7 +1,8 @@
     composer = "Giovanni Cavaccio (c.1556-1626)"
     source = \markup { \italic { Il sesto libro de madrigali a 5 voci } (Angelo Gardano press, Venice, 1599) }
+    year = 1599
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

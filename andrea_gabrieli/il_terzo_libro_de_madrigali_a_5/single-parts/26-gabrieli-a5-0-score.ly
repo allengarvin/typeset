@@ -19,7 +19,7 @@
     instrument = "Queste felice erbette:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "queste_felice_erbette"
-    shortcomp = "g_gabrieli"
+    shortcomp = "gabrieli_g"
     categories = "[madrigal]"
     final = "a"
     flats = 0

@@ -21,7 +21,7 @@
     instrument = "Ego dixi, Domine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "ego_dixi_domine"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     composer = "Giovanni Gabrieli (c.1547-1612)"
     categories = "[]"
     motifs = "[]"

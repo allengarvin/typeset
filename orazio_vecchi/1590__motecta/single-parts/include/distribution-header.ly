@@ -1,7 +1,8 @@
     composer = "Orazio Vecchi (1550-1605)"
     source = \markup { \italic { Motecta conicus corigiensis 4, 5, 6, et 8 vocibus } (Angelo Gardano press, Venice, 1590) }
+    year = 1590
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

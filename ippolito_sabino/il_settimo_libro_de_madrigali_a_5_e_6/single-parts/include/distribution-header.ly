@@ -1,7 +1,8 @@
     composer = "Ippolito Sabino (c.1550-1593)"
     source = \markup { \italic { Il settimo libro de madrigali a 5 e 6 voci } (Giacomo Vincenti press, Venice, 1589) }
+    year = 1589
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

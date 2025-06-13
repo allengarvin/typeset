@@ -15,7 +15,7 @@
     instrument = "Voi non volete, donna:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "voi_non_volete_donna"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[madrigal]"
     needtranslation = #'t
     folio = "Francesco Veggio (fl. 1560-1570)"

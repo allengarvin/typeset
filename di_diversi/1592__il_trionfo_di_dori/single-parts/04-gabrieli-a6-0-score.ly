@@ -22,7 +22,7 @@
     instrument = "Se cantano gli augelli:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "se_cantano_gli_augelli"
-    shortcomp = "g_gabrieli"
+    shortcomp = "gabrieli_g"
     composer = "Giovanni Gabrieli (c.1547-1612)"
     categories = "[madrigal,animal]"
     motifs = "[pastoral,birds,animals,fish]"

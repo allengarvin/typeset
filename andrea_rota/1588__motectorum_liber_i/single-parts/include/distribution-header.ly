@@ -1,7 +1,8 @@
     composer = "Andrea Rota (c.1553-1597)"
     source = \markup { \italic { Motectorum, liber primus } (Angelo Gardano press, Venice, 1584) }
+    year = 1584
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

@@ -23,11 +23,11 @@
     instrument = "Benedixisti Domine:  (score)"
     headerspace = \markup { \vspace #1 }
     shorttitle = "benedixisti_domine"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     categories = "[christmas]"
     motifs = "[]"
     needtranslation = #'f
-    folio = "Offertory for Advent III (Psalm 84/85:2-3"
+    folio = "Offertory for Advent III (Psalm 84/85:2-3)"
 
     % Unchanging:
     language = "latin"

@@ -18,7 +18,7 @@
     motifs = "[amore,reward,kiss]"
     needtranslation = #'f
     language = "italian"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     headerspace = \markup { \vspace #2 }
 
     % Unchanging:

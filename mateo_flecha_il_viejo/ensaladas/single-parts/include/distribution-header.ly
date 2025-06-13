@@ -1,7 +1,8 @@
     composer = "Matteo Flecha il viejo (c.1481-c.1553)"
     source = \markup { \italic { Las ensaladas de Flecha } (Jorge Negrino, Prague, 1581) }
+    year = 1581
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

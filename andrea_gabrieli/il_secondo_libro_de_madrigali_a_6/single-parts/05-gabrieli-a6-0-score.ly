@@ -15,7 +15,7 @@
     instrument = "La bella pargoletta:  (score)"
     needtranslation = #'f
     language = "italian"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     folio = "Torquato Tasso (1544-1595)"
 
     % Unchanging:

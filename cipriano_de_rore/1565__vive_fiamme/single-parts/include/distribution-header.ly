@@ -1,7 +1,8 @@
     composer = "Cipriano de Rore (1515/16-1565)"
     source = \markup { \italic { le vive fiamme de' vaghi e dilettevoli madrigali } (Girolamo Scott press, Venice, 1565) }
+    year = 1565
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

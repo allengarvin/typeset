@@ -1,4 +1,5 @@
     style = "Renaissance"
+    year = 1612
     folio = "Adapted for 4 viols"
     source = \markup { \italic { Parthenia or the Maydenhead } (London, 1612) }
     composer = "William Byrd (c.1540-1623)"

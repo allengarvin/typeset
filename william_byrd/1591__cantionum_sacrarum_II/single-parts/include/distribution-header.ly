@@ -1,4 +1,5 @@
     composer = "William Byrd (c.1540-1623)"
+    year = 1591
     source = \markup { \italic { Liber secundus sacrarum cantionum } (Thomas East press, London, 1591) }
     style = "Renaissance"
     

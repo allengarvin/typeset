@@ -1,7 +1,8 @@
     composer = "Gasparo Alberti (1480-c.1560)"
     source = \markup { \italic { Il primo libro delle messe } (Scotto press, Venice, 1549) }
+    year = 1549
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

@@ -1,7 +1,8 @@
     composer = "Orlande de Lassus (c.1532-1594)"
     source = \markup { \italic { Missæ aliquot 5 vocum } (Adam Berg press, Munich, 1589) }
+    year = 1589
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

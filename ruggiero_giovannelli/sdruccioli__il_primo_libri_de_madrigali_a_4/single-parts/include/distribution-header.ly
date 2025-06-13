@@ -1,7 +1,8 @@
     composer = "Ruggiero Giovannelli (c.1560-1625)"
     source = \markup { \italic { Sdruccioli, il primo libro de madrigali a 4 voci } (Alessandro Gardano press, Rome, 1585) }
+    year = 1585
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

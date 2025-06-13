@@ -1,7 +1,8 @@
     composer = "Claudio Merulo (1533-1604)"
     source = \markup { \italic { Sacrorum concentuum a 8, 10, 12, et 16 vocibus } (Angelo Gardano press, Venice, 1594) }
+    year = 1594
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

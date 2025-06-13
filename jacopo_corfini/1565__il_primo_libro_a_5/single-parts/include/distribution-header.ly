@@ -1,7 +1,8 @@
     composer = "Jacopo Corfini (c.1540-1591)"
     source = \markup { \italic { Il primo libro di madrigali a 5 voci } (Antonio Gardano press, Venice, 1565) }
+    year = 1565
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

@@ -19,7 +19,7 @@
     instrument = "Accesa ritornar ne' bei vostri occhi: Seconda parte (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "accesa_ritornar_ne_bei_vostri_occhi"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[madrigal]"
     flats = 0
     final = "d"

@@ -1,7 +1,8 @@
     composer = "Pietro Vinci (c.1525-1584)"
     source = \markup { \italic { Il quarto libro de' madrigali a 5 voci } (Girolamo Scotto press, Venice, 1573) }
+    year = 1573
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

@@ -13,7 +13,7 @@
     % THIS FILE IS JUST A PLACEHOLDER TO PROPERLY GENERATE
     % INDEX FILES AND SCRIPTS
 
-    title = "13 Correnti"
+    title = "Correnti"
     instrument = "13 Correnti (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "13_correnti"

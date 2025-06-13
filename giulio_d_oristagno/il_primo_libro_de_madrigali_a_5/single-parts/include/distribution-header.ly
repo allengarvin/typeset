@@ -1,7 +1,8 @@
     composer = "Giulio d'Oristagno (1543-1623)"
     source = \markup { \italic { Il primo libro de madrigali a 5 voci } (Angelo Gardano press, Venice, 1588) }
+    year = 1588
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

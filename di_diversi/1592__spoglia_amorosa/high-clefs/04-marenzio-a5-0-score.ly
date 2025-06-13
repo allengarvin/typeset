@@ -20,6 +20,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "rivi_fontane_e_fiumi_a_laura_al_cielo"
     shortcomp = "marenzio"
+    composer = "Luca Marenzio (c.1553-1599)"
     categories = "[]"
     motifs = "[]"
     needtranslation = #'f
@@ -34,7 +35,7 @@
 
 \book {
     \bookOutputName "04-marenzio--rivi_fontane_e_fiumi_a_laura_al_cielo-"
-    \bookOutputSuffix "--0-score"
+    \bookOutputSuffix "transposed--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
@@ -102,11 +103,12 @@
             }
             \column {
                 % translation: 2023-11-12
-                \line { Streams, fountains and rivers, to the breeze, to heaven, }
-                \line { so dear and so pleasing to my voice, }
+                % touchup: 2024-08-07
+                \line { Streams, fountains and rivers, to the breeze, to the heavens, }
+                \line { so dear and so welcome to my voice, }
                 \line { cease your flows; and from fresh shade, }
                 \line { beloved laurel with your verdure foliage, }
-                \line { in remembrance of this happy day, }
+                \line { in remembrance of this blessed day, }
                 \line { show yourself more courteous to my joy. }
                 \line { \hspace #10 \italic { translation by editor } }
             }

@@ -15,7 +15,7 @@
     instrument = "Dolce nemica mia: Dialogo (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "dolce_nemica_mia"
-    shortcomp = "g_gabrieli"
+    shortcomp = "gabrieli_g"
     composer = "Giovanni Gabrieli (c.1554-1612)"
     needtranslation = #'t
 

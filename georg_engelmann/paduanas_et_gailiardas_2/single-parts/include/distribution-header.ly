@@ -1,7 +1,8 @@
     composer = "George Engelmann (c.1570-1632)"
     source = \markup { \italic { Paduanas et Galliardas, fasciculus 2 } (Schüreri press, Leipzig, 1617) }
+    year = 1617
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

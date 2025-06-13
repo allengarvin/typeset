@@ -1,7 +1,8 @@
     composer = "Orazio Vecchi (1550-1605)"
     source = \markup { \italic { Canzonette a 6 voci } (Angelo Gardano press, Venice, 1597) }
+    year = 1597
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

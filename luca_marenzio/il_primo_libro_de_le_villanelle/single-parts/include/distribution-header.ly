@@ -1,7 +1,8 @@
     composer = "Luca Marenzio (c.1553-1599)"
     source = \markup { \italic { Il primo libro delle villanelle a 3 voci } (Vincenzi e Amadino press, Venice, 1584) }
+    year = 1584
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

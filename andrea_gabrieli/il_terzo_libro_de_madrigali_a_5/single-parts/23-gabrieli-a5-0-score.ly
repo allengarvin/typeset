@@ -22,7 +22,7 @@
     instrument = "Da quei begli occhi:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "da_quei_begli_occhi"
-    shortcomp = "g_gabrieli"
+    shortcomp = "gabrieli_g"
     composer = "Giovanni Gabrieli (c.1554-1612)"
     categories = "[madrigal,favorite]"
     motifs = "[amore,flame,humarism]"

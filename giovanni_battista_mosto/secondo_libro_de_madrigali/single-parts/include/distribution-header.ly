@@ -1,4 +1,5 @@
     source = \markup { \italic { Il secondo libro de madrigali a5 voci } (Vincenci press, Venice, 1584) }
+    year = 1584
     composer = "Giovanni Battista Mosto (c.1550-1596)"
 
     style = "Renaissance"

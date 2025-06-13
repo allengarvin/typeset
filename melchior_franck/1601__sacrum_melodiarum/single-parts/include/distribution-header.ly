@@ -1,7 +1,8 @@
     composer = "Melchior Franck (c.1579-1639)"
     source = \markup { \italic { Sacrarum melodiarum, tomus I } (Schönigian press, Augsburg, 1601) }
+    year = 1601
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

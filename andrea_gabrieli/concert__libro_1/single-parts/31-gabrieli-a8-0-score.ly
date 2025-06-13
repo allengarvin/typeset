@@ -15,7 +15,7 @@
     instrument = "Jubilate Deo:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "jubilate_deo"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[polychoral]"
     needtranslation = #'f
     folio = "Psalm 99/100"

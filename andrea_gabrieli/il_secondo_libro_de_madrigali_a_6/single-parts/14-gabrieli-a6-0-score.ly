@@ -17,7 +17,7 @@
     motifs = "[flora,spring]"
     needtranslation = #'f
     language = "italian"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
 
     % Unchanging:
     lastupdated = "2019-11-13"

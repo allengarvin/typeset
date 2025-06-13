@@ -15,7 +15,7 @@
     instrument = "Inclina Domine aurem tuam:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "inclina_domine_aurem_tuam"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     needtranslation = #'t
     folio = "Psalm 85/86:1-2"
 

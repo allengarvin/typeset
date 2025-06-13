@@ -16,7 +16,7 @@
     categories = "[madrigal]"
     needtranslation = #'t
     language = "italian"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     headerspace = \markup { \vspace #2 } 
 
     % Unchanging:

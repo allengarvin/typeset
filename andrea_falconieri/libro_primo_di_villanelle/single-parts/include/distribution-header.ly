@@ -1,7 +1,8 @@
     composer = "Andrea Falconieri (1585/6-1656)"
     source = \markup { \italic { Libro primo di villanelle a 1, 2 e 3 voci } (Gio. Battista Robletti press, Rome, 1616) }
+    year = 1616
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

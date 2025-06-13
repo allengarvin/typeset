@@ -19,7 +19,7 @@
     instrument = "Mentre io vi miro: Prima parte (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "mentre_io_vi_miro"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[madrigal]"
     flats = 0
     final = "a"

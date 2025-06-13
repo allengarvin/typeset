@@ -1,4 +1,5 @@
     composer = "William Byrd (c.1540-1623)"
+    year = 1588
     source = \markup { \italic { Psalmes, sonets and songs of sadnes and pietie } (Thomas East press, London, 1588) }
     style = "Renaissance"
     

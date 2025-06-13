@@ -19,7 +19,7 @@
     instrument = "Voi siete in grand'errore:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "voi_siete_in_granderrore"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[madrigal]"
     final = "d"
     flats = 0

@@ -21,7 +21,7 @@
     instrument = "O ricco mio tesoro:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_ricco_mio_tesoro"
-    shortcomp = "g_gabrieli"
+    shortcomp = "gabrieli_g"
     categories = "[madrigal]"
     motifs = "[]"
     rhyme = "aaBBccdeE"

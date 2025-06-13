@@ -1,4 +1,5 @@
     source = \markup { \italic { Primo libro d'arie musicali per cantarsi } (Florence, 1630) }
+    year = 1630
     composer = "Girolamo Frescobaldi (1583-1643)"
 
     style = "Baroque"

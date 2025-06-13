@@ -23,7 +23,7 @@
     instrument = "Sancta Maria, succurre miseris:  (score)"
     headerspace = \markup { \vspace #1 }
     shorttitle = "sancta_maria_succurre_miseris"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     categories = "[favorite]"
     motifs = "[]"
     needtranslation = #'f

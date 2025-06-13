@@ -19,7 +19,7 @@
     instrument = "Dimmi, dimmi ben mio:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "dimmi_dimmi_ben_mio"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     categories = "[madrigal]"
     needtranslation = #'f
     final = "a"

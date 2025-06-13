@@ -1,4 +1,5 @@
     composer = "Stefano Felis (c.1550-c.1603)"
+    year = 1596
     source = \markup { \italic { Liber quartus motectorum } (Girolamo Vincenzi press, Venice, 1596) }
     style = "Renaissance"
     

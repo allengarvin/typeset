@@ -19,7 +19,7 @@
     instrument = "Se mai degnasti, Amore:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "se_mai_degnasti_amore"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[madrigal]"
     final = "d"
     flats = 0

@@ -23,7 +23,7 @@
     instrument = "Cantate Domino canticum novum:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "cantate_domino_canticum_novum"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     categories = "[]"
     motifs = "[]"
     needtranslation = #'f

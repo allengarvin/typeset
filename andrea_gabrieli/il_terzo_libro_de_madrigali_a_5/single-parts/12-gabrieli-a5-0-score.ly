@@ -19,7 +19,7 @@
     instrument = "Non così bell'appar in Oriente: Prima parte (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "non_cosi_bellappar_in_oriente"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[madrigal]"
     final = "d"
     flats = 0

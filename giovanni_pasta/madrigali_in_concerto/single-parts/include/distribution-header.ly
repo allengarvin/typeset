@@ -1,7 +1,8 @@
     composer = "Giovanni Pasta (1604-1663/4)"
     source = \markup { \italic { Affetti d'Erato, madrigali in concerto a 2, 3 e 4 voci } (Alessandro Vincenti press, Venice, 1626) }
+    year = 1626
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

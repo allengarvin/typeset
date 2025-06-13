@@ -1,4 +1,5 @@
     composer = "Lodovico Balbi (c.1545-1604)"
+    year = 1578
     source = \markup { \italic { Ecclesiasticarum cantionum 4 vocum } (Angelo Gardano press, Venice, 1578) }
     style = "Renaissance"
     

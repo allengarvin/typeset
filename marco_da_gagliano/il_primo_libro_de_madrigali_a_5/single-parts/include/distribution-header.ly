@@ -1,7 +1,8 @@
     composer = "Marco da Gagliano (1582-1643)"
     source = \markup { \italic { Il primo libro de' madrigali a 5 voci } (Gardano press, Venice, 1602) }
+    year = 1602
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

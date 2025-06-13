@@ -1,7 +1,8 @@
     composer = "Benedetto Ferrari (c.1603-1681)"
     source = \markup { \italic { Muische varie a voce sola, libro secondo } (Bartholomeo Magni, Venice, 1637) }
+    year = 1637
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "41. Pavan"
+    title = "Pavan"
     language = "instrumental"
     instrument = "41. Pavan (score)"
 

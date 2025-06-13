@@ -22,7 +22,7 @@
     instrument = "Alma cortese e bella:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "alma_cortese_e_bella"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     composer = "Giovanni Gabrieli (c.1557-1612)"
     categories = "[madrigal]"
     rhyme = "abbACcDd"

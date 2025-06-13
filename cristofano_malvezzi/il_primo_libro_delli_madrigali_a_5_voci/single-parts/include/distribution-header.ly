@@ -1,7 +1,8 @@
     composer = "Cristofano Malvezzi (1547-1599)"
     source = \markup { \italic { Il primo libro delli madrigali a 5 voci } (Scotto press, Venice, 1583) }
+    year = 1583
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"

@@ -1,4 +1,5 @@
     composer = "Lodovico Balbi (c.1545-1604)"
+    year = 1589
     source = \markup { \italic { Musicale Esercizio a 5 voci } (Angelo Gardano press, Venice, 1589) }
     style = "Renaissance"
     

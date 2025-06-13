@@ -15,7 +15,7 @@
     instrument = "Vita della vita mia:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "vita_della_vita_mia"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     needtranslation = #'f
     rhyme = "ABABCC"
 

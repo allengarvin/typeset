@@ -10,7 +10,7 @@
 
 \header {
     % Things that change per piece:
-    title = "13. [Untitled]"
+    title = "Bicinium 13"
     language = "instrumental"
     instrument = "Bicinium 13 (score)"
 

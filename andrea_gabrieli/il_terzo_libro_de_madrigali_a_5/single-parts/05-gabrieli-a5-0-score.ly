@@ -19,7 +19,7 @@
     instrument = "Cor mio, se gli è pur vero:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "cor_mio_se_gli_e_pur_vero"
-    shortcomp = "a_gabrieli"
+    shortcomp = "gabrieli"
     categories = "[madrigal]"
     final = "a"
     flats = 0

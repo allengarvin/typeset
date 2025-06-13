@@ -1,7 +1,8 @@
     composer = "Salamone Rossi (1570-c.1630)"
     source = \markup { \italic { Il secondo libro de' madrigali a 5 voci } (Ricciardo Amadino press, Venice, 1602) }
+    year = 1602
     style = "Renaissance"
-    
+
     % These are legacy fields for mutopia. Not sure if anyone uses them anymore?
     maintainer = "Allen Garvin"
     maintainerEmail = "aurvondel@gmail.com"
