@@ -1,4 +1,5 @@
     composer = "Thomas Campion (1567-1620)"
+    year = 1613
 
     source = \markup { \italic { Two Bookes of Ayres } (c.1613) }
     style = "Renaissance"

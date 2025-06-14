@@ -17,6 +17,7 @@
     shorttitle = "qui_au_conseil_des_malings_na_este"
     shortcomp = "goudimel"
     composer = "Claude Goudimel (c.1514-1572)"
+    year = 1560
     categories = "[]"
     needtranslation = #'t
     folio = "Clément Marot (1496-1544), Psalm 1"

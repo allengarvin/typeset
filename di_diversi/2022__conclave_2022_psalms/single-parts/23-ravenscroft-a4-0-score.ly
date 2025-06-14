@@ -17,6 +17,7 @@
     shorttitle = "lord_to_thee_i_make_my_moan"
     shortcomp = "ravenscroft"
     composer = "Thomas Ravenscroft (c.1592-c.1635)"
+    year = 1620
     categories = "[]"
     folio = "Psalm 130"
 

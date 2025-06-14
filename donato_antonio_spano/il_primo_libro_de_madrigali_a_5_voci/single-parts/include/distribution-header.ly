@@ -1,4 +1,5 @@
     composer = "Donato Antonio Spano (c.1585-c.1609)"
+    year = 1608
     source = \markup { \italic { Il primo libro de' madrigali a 5 voci } (Sottile press, Naples, 1608) [NV 2630]}
     style = "Renaissance"
     

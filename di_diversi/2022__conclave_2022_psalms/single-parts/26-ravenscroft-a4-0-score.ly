@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #5 }
     shorttitle = "give_peace_in_these_our_days_o_lord"
     shortcomp = "ravenscroft"
+    year = 1620
     composer = "Thomas Ravenscroft (c.1592-c.1635)"
     categories = "[]"
     folio = "Da pacem Domine"

@@ -15,7 +15,7 @@
     instrument = "Sonata a 22:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "sonata_a_22"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
 
     % Unchanging:
     language = "instrumental"

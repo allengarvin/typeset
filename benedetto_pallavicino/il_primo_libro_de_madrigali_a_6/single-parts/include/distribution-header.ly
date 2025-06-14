@@ -1,4 +1,5 @@
     composer = "Benedetto Pallavicino (c.1551-1601)"
+    year = 1587
     source = \markup { \italic { Il primo libro de' madrigali a 6 voci } (Vincenti press, Venice, 1587) (1606 Phalese ed. used)}
     style = "Renaissance"
     

@@ -1,4 +1,5 @@
     composer = "Riccardo Rognoni"
+    year = 1592
     source = "Passagi per potersi essercitare (Vicenti press, Venice, 1592)"
 
     style = "Baroque"

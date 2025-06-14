@@ -1,4 +1,5 @@
     composer = "Giovanni Battista degli Antonii (1660-c.1696)"
+    year = 1687
     source = "Ricercate sopra il violoncello o clavicemalo (1687)"
 
     style = "Baroque"

@@ -1,4 +1,5 @@
     composer = "Elway Bevin (1554-1638)"
+    year = 1631
     source = "A briefe and short instruction of the art of Musicke (Young press, London, 1631)"
 
     style = "Baroque"

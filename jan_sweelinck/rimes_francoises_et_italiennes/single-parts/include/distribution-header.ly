@@ -1,4 +1,5 @@
     composer = "Jan Pieterszoon Sweelinck (1562-1621)"
+    year = 1612
     source = \markup { \italic { Rimes françoise et italiennes } (Plantinienne press, Antwerp, Leiden) }
     style = "Renaissance"
     

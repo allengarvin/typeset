@@ -15,6 +15,7 @@
     instrument = "Ancor che col partire"
 
     % Unchanging:
+    language = "instrumental"
     originallyset = "2015-09-07"
     lastupdated = "2015-09-07"
     flats = 0

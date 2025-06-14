@@ -1,4 +1,5 @@
     style = "Baroque"
+    year = 1690
     composer = "Jean-Baptiste Lully (1632-1687)"
     source = \markup { Ballet du \italic { Bourgeois Gentilhomme } (Philidor MS, c.1690) }
     

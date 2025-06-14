@@ -17,6 +17,7 @@
     shorttitle = "the_man_is_blest_that_hath_not_bent"
     shortcomp = "morley"
     composer = "Thomas Morley (c.1557-1602)"
+    year = 1600
     
     categories = "[]"
     folio = "Psalm 1"

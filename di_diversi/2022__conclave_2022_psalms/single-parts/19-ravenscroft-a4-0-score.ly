@@ -18,6 +18,7 @@
     shortcomp = "ravenscroft"
     composer = "Thomas Ravenscroft (c.1592-c.1635)"
     categories = "[]"
+    year = 1620
     folio = "Nunc dimittis (The Canticle of Simeon, Luke 2:29-32)"
 
     % Unchanging:

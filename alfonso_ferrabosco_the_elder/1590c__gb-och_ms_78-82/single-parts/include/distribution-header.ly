@@ -1,4 +1,5 @@
     composer = "Alfonso Ferrabosco I (1543-1588)"
+    year = 1590
     source = \markup { \italic { GB-Och mus ms 78-82 } (c.1590s) }
     style = "Renaissance"
     

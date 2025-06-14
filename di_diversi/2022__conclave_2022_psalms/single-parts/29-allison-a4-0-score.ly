@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "o_lord_turn_not_away_thy_face"
     shortcomp = "allison"
+    year = 1600
     composer = "Richard Allison (c.1560-c.1610)"
     categories = "[]"
     folio = "Lamentation"

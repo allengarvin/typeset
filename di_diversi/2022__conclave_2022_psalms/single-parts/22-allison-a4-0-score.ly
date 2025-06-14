@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "be_light_and_glad_in_god_rejoice"
     shortcomp = "allison"
+    year = 1600
     categories = "[]"
     folio = "Psalm 81"
 

@@ -1,4 +1,5 @@
     composer = "Ottaviano Petrucci (1466-1539)"
+    year = 1506
     source = \markup { \italic { Frottole libro sexto } (Ottaviano Petrucci press, Venice, 1505/6) }
     style = "Renaissance"
     

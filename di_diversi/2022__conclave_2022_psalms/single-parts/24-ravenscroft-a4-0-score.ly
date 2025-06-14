@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #4 }
     shorttitle = "when_as_we_at_in_babylon"
     shortcomp = "ravenscroft"
+    year = 1620
     composer = "Thomas Ravenscroft (c.1592-c.1635)"
     categories = "[]"
     folio = "Psalm 137"

@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #4 }
     shorttitle = "why_fumeth_in_sight"
     shortcomp = "tallis"
+    year = 1567
     source = "The Whole Psalter translated into English Metre (John Daye press, London, 1567)"
     composer = "Thomas Tallis (c.1505-1585)"
     categories = "[]"

@@ -15,6 +15,7 @@
     source = "'The Sadler Partbooks' GB-Ob MS. Mus. e. 1-5"
     instrument = "John Sadler - In nomine (score)"
     composer = "John Sadler (fl.1565-1585)"
+    year = 1580
 
     % Unchanging:
     originallyset = "2015-12-06"

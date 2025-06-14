@@ -1,4 +1,5 @@
     composer = "Alessandro Romano (c.1533-1592)"
+    year = 1554
     source = \markup { \italic { Le virgini } (Antonio Gardano press, Venice, 1562 (1e: 1554)) }
     style = "Renaissance"
     

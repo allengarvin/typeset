@@ -18,6 +18,7 @@
     shortcomp = "farmer"
     categories = "[]"
     folio = "The Lord's Prayer"
+    year = 1620
 
     % Unchanging:
     language = "english"

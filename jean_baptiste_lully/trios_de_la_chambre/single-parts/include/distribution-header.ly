@@ -1,4 +1,5 @@
     composer = "Jean-Baptiste Lully (1632-1687)"
+    year = 1705
     source = \markup { \italic { Trio de la chambre, Fr-BN MS Res. 1397 } [LWV 35/1] (Paris?, c.1705) }
     style = "Renaissance"
     

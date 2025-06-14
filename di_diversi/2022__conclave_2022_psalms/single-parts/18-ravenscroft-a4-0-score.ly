@@ -20,6 +20,7 @@
     composer = "Thomas Ravenscroft (c.1592-c.1635)"
     categories = "[]"
     folio = \markup { Rabanus Maurus (c.780-856), \italic { Venit Creator Spiritus } }
+    year = 1620
 
     % Unchanging:
     language = "english"

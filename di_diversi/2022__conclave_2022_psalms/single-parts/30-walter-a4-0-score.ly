@@ -16,6 +16,7 @@
     headerspace = \markup { \vspace #2 }
     shorttitle = "ein_feste_burg_ist_unser_gott"
     shortcomp = "walter"
+    year = 1535
     categories = "[]"
     needtranslation = #'t
     composer = "Johann Walter (1496-1570)"
