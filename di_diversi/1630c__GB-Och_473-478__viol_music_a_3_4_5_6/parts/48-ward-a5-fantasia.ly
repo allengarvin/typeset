@@ -1,15 +1,24 @@
+%Cor mio deh non languire
+%che teco fai languir l'anima mia.
+%Odi i caldi sospiri; a te gli invia
+%la pietade e 'l desire.
+%S'io ti potessi dar morendo aita
+%morrei per darti vita.
+%Ma vivi, ohimè, ch'ingiustamente more
+%chi vivo tien ne l'altrui petto il core.
+
 % cor mio
 
 cantusXLVIIIincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     a1
 }
 
+% cantus: checked against source
 cantusXLVIII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCommonTime
 
@@ -41,16 +50,16 @@ cantusXLVIII = \relative c'' {
     \bar "|."
 }
 
-quintusXLVIIIincipit = \relative c' {
-    \clef "petrucci-c3"
+quintusXLVIIIincipit = \relative c'' {
+    \clef "petrucci-g2"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     c1
 }
 
-quintusXLVIII = \relative c' {
-    \clef alto
+% quintus: checked against source
+quintusXLVIII = \relative c'' {
     \key c \major
     \fourTwoCommonTime
 
@@ -64,14 +73,14 @@ quintusXLVIII = \relative c' {
     
     a8[ b c] d4. c8 b2 | r8 b[ c d] e4. d8 c2 r8 a[ c d] | e4 d8[ c] b4
 
-    e4 d1 | e2 r4 a r4 gs8[ fs] gs2 | a r4 c b2 b4 e | d c2 b4 c
+    e4 d1 | e2 r4 a, r4 gs8[ fs] gs2 | a r4 c b2 b4 e | d c2 b4 c
 
     e2 e8[ e] | e2 e4 b8[ b] c2 b | r2 b2. b8[ b] cs2 | d4. c8 b4 a gs
 
     a2 gs4 | a\breve | r2 e'2. gs,8[ gs] gs4 a | b2. c8[ d] e1 | b r2 b2 ~ |
         b4 ds,8[ ds] 
 
-    ds4 e fs2. g8[ a] | b1. fs2 | r2 r4 e' cs1 | b1. a2 ~ | a gs4 a gs1 |
+    ds4 e fs2. g8[ a] | b1. fs2 | r2 r4 e' cs1 | b1. a2 ~ | a gs4 fs gs1 |
         R\breve*3 | r4
 
     % --- page --
@@ -80,7 +89,7 @@ quintusXLVIII = \relative c' {
     e2. d4 | c8[ b c d] e2 d4 c2 b4 | c1 r1 | r1 r2 e2 ~ | 
         e4 e8[ e] e2 e1 | r4 c e
 
-    f4 g2. fs8[ e] | d4 g, b c d2. cs8[ b] | a4 a a b cs2. d4 | e2 fs d
+    f4 g2. fs8[ e] | d4 g, b c d2. cs8[ b] | a4 a a b cs2. d4 | e2 fs e
 
     e2 ~ | e d1 cs2 | b1 a2 fs' | e1. b2 | a\longa*1/2
     \bar "|."
@@ -89,13 +98,15 @@ quintusXLVIII = \relative c' {
 altusXLVIIIincipit = \relative c' {
     \clef "petrucci-c2"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     c1
 }
 
+% altus: scan 0255
+
+% altus: checked against source
 altusXLVIII = \relative c' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCommonTime
 
@@ -103,10 +114,10 @@ altusXLVIII = \relative c' {
 
     d4 | e2 b a r4 e' | e2 r4 g f2. e4 | d c d2 c4 e2 b4 | e1 e | r1 r8 c[
 
-    d8 e] f4 e | d2 r2 | r8 e[ f g] a4 g8[ f] e2 r2 | r8 e[ f g] a4. g8 fs8[ a,
+    d8 e] f4 e | d2 r2 r8 e[ f g] a4 g8[ f] | e2 r2 r8 e[ f g] a4. g8 | fs8[ a,
 
-    b8 c] d2 | d1 r1 | r8 a[ c d] e2 e2. g4 | g1 g2 r4 e | e2. d4 cs2 r2 | 
-        R\breve | r4 gs'2
+    b8 c] d2 d1 | r1 r8 a[ c d] e2 | e2. g4 g1 | g2 r4 e e2. d4 | 
+        cs2 r2 r1 | r1 r4 gs'2
 
     gs8[ gs] | a2 gs4 d8[ d] e2 d | r2 gs2. gs8[ gs] e2 | d4. e8 f4. f8 e1 |
         e2 a2. cs,8[ cs] 
@@ -133,13 +144,15 @@ altusXLVIII = \relative c' {
 tenorXLVIIIincipit = \relative c' {
     \clef "petrucci-c3"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     e1.
 }
 
+% scan 0213
+
+% tenor: checked against source
 tenorXLVIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCommonTime
 
@@ -148,7 +161,10 @@ tenorXLVIII = \relative c' {
 
     e1 e2 r4 a, | b2. b4 a b c2 | g1 g2 gs ~ | gs4 b a2 b1 | r1 r8 a[ b c] 
 
-    d4 c | b1 r8 c[ d e] f4 e8[ d] | cs2 r8 a[ c d] e[ c] d4 a2 | a1 r2 r8 b[
+                                             % vvv from 3665
+
+    d4 c | b1 r8 c[ d e] f4 e8[ d] | cs2 r8 a[ cs d] e[\ficta cs!] d4 a2 |
+        \unficta a1 r2 r8 b[
 
     c8 d] | e1. a,2 | b2. c4 d1 | c2 r4 c b1 | a2 r4 a e'2 e4 c | g'1 c,4 b2
 
@@ -157,7 +173,7 @@ tenorXLVIII = \relative c' {
     a1 r1 | R\breve | r2 e'2. gs,8[ gs] gs4 a | b2. a8[ g] fs2. g4 | 
         fs1 r2 b'2 ~ | b4 ds,8[ ds] ds4 
 
-    e4 fs1 | r1 r2 fs ~ | fs4 e b2 b cs | e b b1 | r2 e ds2. cs4 | b2 r4 cs
+    e4 fs1 | r1 r2 fs ~ | fs4 e b2 b cs | e b b1 | r2 e ds2. cs4 | b2 r4 cs2
 
     b4 a2 | gs1 b1 | e,2 fs4 gs a2 e' ~ | e d4. cs8 b2 a | b1 a | R\breve*2 |
         r1 r4
@@ -172,25 +188,34 @@ tenorXLVIII = \relative c' {
     \bar "|."
 }
 
+tenorLyricsXLVIII = \lyricmode {
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+            a te gli in -- vi -- a
+}
+
 bassusXLVIIIincipit = \relative c' {
     \clef "petrucci-f3"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     a1
 }
 
+% checked against source (GB-Och, plus some 3665)
 bassusXLVIII = \relative c' {
-%    \clef varbaritone
     \key c \major
     \fourTwoCommonTime
 
-    a1 e | r4 c2 r4 g'1 | d a' | a2 a, f'1 ~ | f2 e4 d e1 | e a,2 r4 a | 
+                                                        % vvv 3665 tie
+    a1 e | r4 c2 r4 g'1 | d a' | a2 a, f'1 ~ | f2( e4 d) e1 ~ | e a,2 r4 a | 
 
     e'2. e4 f1 | g c,2 e ~ | e4 e a2 e1 | e f | g a ~ | a\breve | d,1 r8
 
-    d8[ e fs] g4. fs8 | e2 r8 e[ fs g] a2. gs8[ fs] | e2. c4 g'1 | c, r1 |
-        r1 r4 e2
+    d8[ e fs] g4.( fs8) | e2 r8 e[ fs g] a2.( gs8[ fs]) | e2. c4 g'1 | 
+     % vvvvvvvvvvvvvvvvvvvvvvv inserted via egerton 3665
+        c,2 r4 c e1 | a, r1 |
+        r1 r4 e'2
 
     e8[ e] | a2 e4 g8[ g] c2 g | e2. fs8[ fs] gs2 a | d,2. d4 e1 | a,1.
 
@@ -200,17 +225,63 @@ bassusXLVIII = \relative c' {
     b1. b'2 ~ | b4 ds,8[ ds] ds4 e fs2. gs8[ a] | b1 e,2 a | e\breve | 
         r2 e b'2. a4 |
 
-    gs2 r4 a2 gs4 fs2 | e1 e2. d4 | cs2 b a gs | a d e1 ~ | e a,1 |
+    gs2 r4 a2 gs4 fs2 | e1 e2.( d4 | cs2) b a gs | a d e1 ~ | e a,1 |
         R\breve*2 
 
-    r1 r2 r4 g' | c2. b8[ b] a4 g f e | d c g'2 c,1 | r2 c2. c8[ c] c2 |
+    r1 r2 r4 g' | c2. b8[ b] a4( g f e) | d c g'2 c,1 | r2 c2. c8[ c] c2 |
 
     % --- page ---
     c1 r4 c e f | g2. fs8[ e] d1 | d2. cs8[ b] a1 | r4 a a b cs1 |
 
-    d2. d4 e1 | e2. d4 cs2 d | e\breve | a,\longa*1/2
+    d2. d4 e1 | e2.( d4 cs2) d | e\breve | a,\longa*1/2
     \bar "|."
 }
+
+bassusLyricsXLVIII = \lyricmode {
+    Cor mio, deh, non lan -- gui -- re,
+        non lan -- gui -- re
+    Che te -- co fai lan -- guir l'a -- ni -- ma mi -- a.
+    O -- d'i cal -- di,
+    O -- di i cal -- di,
+    \ijLyrics
+    O -- di i cal -- di
+    \normalLyrics
+        so -- spi -- ri,
+    \ijLyrics
+        so -- spi -- ri;
+    \normalLyrics
+ %           a te gli~in -- vi -- a
+    La pi -- e -- ta -- de,
+    \ijLyrics
+        pi -- e -- ta -- de,
+    La pi -- e -- ta -- de,
+%        pi -- e -- ta -- de
+%    La __ pi -- e -- ta -- de,
+    \normalLyrics
+            e'l de -- si -- re.
+
+    S'io __ ti po -- tes -- si dar mo -- ren -- do,
+    \ijLyrics
+    S'io __ ti po -- tes -- si dar mo -- ren -- do,
+    S'io __ ti po -- tes -- si dar 
+    \normalLyrics
+        mo -- ren -- do a -- i -- ta
+    Mor -- re -- i per dar -- ti vi -- ta,
+    \ijLyrics
+    Mor -- re -- i per dar -- ti vi -- ta.
+    \normalLyrics
+    % Ma vi -- vi, 
+        ohi -- mè! ch'in -- giu -- sta -- men -- te mo -- re
+    Chi vi -- vo tien ne,
+    \ijLyrics
+    Chi vi -- vo,
+    Chi vi -- vo tien,
+    Chi vi -- vo tien,
+    Chi vi -- vo tien
+    \normalLyrics
+        nel -- l'al -- trui pet -- to~il co -- re,
+}
+
 
 cantusXLVIIIincipitVoice = <<
     \new MensuralVoice <<
