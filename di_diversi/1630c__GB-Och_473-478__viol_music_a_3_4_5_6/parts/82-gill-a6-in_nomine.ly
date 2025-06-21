@@ -265,7 +265,7 @@ bassusOneLXXXII = \relative c' {
         g[ a] bf2 a4 g4. f8 e[ d] c4 | f c8[ bf] a[ g] f2
 
     f'8[ g] a[ g] a4 ~  | a a,4 fs'4. g8 a[ g] a2 a,4 | cs d a2 d, r4 d' |
-        a'8[ bf c d] e4 a, r2 r4 a | bf8[ g]
+        a'8[ bf c d] e4 a, r2 r4 a | \ficta b8[ g]\unficta
 
     d'4 g,2 r4 g, d'8[ e f g] | \clef alto
         a[ bf c d] e[ f] g4 f f, c'2 ~ | c a1 f'2 ~ | f d1 g2 | e4 d8[ e]
