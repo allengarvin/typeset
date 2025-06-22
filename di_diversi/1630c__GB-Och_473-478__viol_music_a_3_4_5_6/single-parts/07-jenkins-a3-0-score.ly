@@ -14,11 +14,11 @@
     \include "include/distribution-header.ly"
     cksum = "9539395ec1246a365a68ed42d29d4ba8bad04a1b"
     % Things that change per piece:
-    title = "Phanfazia"
+    title = "Phantazia"
     subtitle = "VdGS à 3 no. 13"
-    instrument = "Phanfazia: VdGS à 3 no. 13 (score)"
+    instrument = "Phantazia: VdGS à 3 no. 13 (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "phanfazia"
+    shorttitle = "phantazia"
     shortcomp = "jenkins"
     categories = "[trio]"
     composer = "John Jenkins (1592-1678)"
@@ -33,7 +33,7 @@
 \include "../parts/07-jenkins-a3-fantasia.ly"
 
 \book {
-    \bookOutputName "07-jenkins--phanfazia-vdgs_a_3_no_13"
+    \bookOutputName "07-jenkins--phantazia-vdgs_a_3_no_13"
     \bookOutputSuffix "--0-score"
     \score {
          <<
