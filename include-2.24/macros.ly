@@ -238,6 +238,42 @@ raisedTwoFourTime = ^\markup {
     }
 }
 
+globalEditorialCommonTime = {
+    \once \override Score.RehearsalMark.direction = #UP
+    \once \override Score.RehearsalMark.self-alignment-X = #-2
+    \mark \markup { \musicglyph "timesig.C44" }
+}
+
+globalEditorialCutTime = {
+    \once \override Score.RehearsalMark.direction = #UP
+    \once \override Score.RehearsalMark.self-alignment-X = #-2
+    \mark \markup { \musicglyph "timesig.C22" }
+}
+
+globalEditorialThreeTime = {
+    \once \override Score.RehearsalMark.direction = #UP
+    \once \override Score.RehearsalMark.self-alignment-X = #-2
+    \mark \markup { \musicglyph "three" }
+}
+
+editorialCommonTime = {
+    \once \override Score.RehearsalMark.direction = #UP
+    \once \override Score.RehearsalMark.self-alignment-X = #-2
+    s1*0^\markup { \musicglyph "timesig.C44" }
+}
+
+editorialCutTime = {
+    \once \override Score.RehearsalMark.direction = #UP
+    \once \override Score.RehearsalMark.self-alignment-X = #-2
+    s1*0^\markup { \musicglyph "timesig.C22" }
+}
+
+editorialThreeTime = {
+    \once \override Score.RehearsalMark.direction = #UP
+    \once \override Score.RehearsalMark.self-alignment-X = #-2
+    s1*0^\markup { \musicglyph "three" }
+}
+
 % right out of lilypond manual:
 incipit =
 #(define-music-function (parser location incipit-music) (ly:music?)
@@ -306,17 +342,23 @@ normalLyrics = {
   \revert Lyrics.LyricText.font-shape
 }
 
-#(define-public (bracket-stencils grob)
-  (let ((lp (grob-interpret-markup grob (markup #:fontsize 3.5 #:translate (cons -0.3 -0.5) "[")))
-        (rp (grob-interpret-markup grob (markup #:fontsize 3.5 #:translate (cons -0.3 -0.5) "]"))))
-    (list lp rp)))
+% this works like shit, since Lilypond 24 broke it all, but it works
+bracketify =
+#(define-music-function (parser location note) (ly:music?)
+   #{
+     \once \override NoteHead.parenthesize-stencil =
+       #(lambda (grob)
+           (let* ((default (ly:parenthesize-interface::print grob))
+                  (brackets (ly:stencil-in-brackets default)))
+             (ly:stencil-scale brackets 1.3 1.3)))
+     \parenthesize $note
+   #})
 
-bracketify = #(define-music-function (parser loc arg) (ly:music?)
-   (_i "Tag @var{arg} to be parenthesized.")
-#{
-  \once \override ParenthesesItem.stencils = #bracket-stencils
-  \parenthesize $arg
-#})
+% #(define-public (bracket-stencils grob)
+%   (let ((lp (grob-interpret-markup grob (markup #:fontsize 3.5 #:translate (cons -0.3 -0.5) "[")))
+%         (rp (grob-interpret-markup grob (markup #:fontsize 3.5 #:translate (cons -0.3 -0.5) "]"))))
+%     (list lp rp)))
+
 
 
 % The number next to "th" in (th 0.2) controls thickness of the brackets. 

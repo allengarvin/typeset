@@ -1,4 +1,4 @@
-\version "2.22.1"
+\version "2.24.2"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 

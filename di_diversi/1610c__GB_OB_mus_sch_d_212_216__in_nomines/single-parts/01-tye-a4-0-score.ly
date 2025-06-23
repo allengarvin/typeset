@@ -15,8 +15,8 @@
     cksum = "32dcec42492521ecd237441b93b594e634207fe1"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = "VdGS a4 #1"
-    instrument = "In nomine: VdGS a4 #1 (score)"
+    subtitle = "VdGS In nomine a4 #1"
+    instrument = "In nomine: VdGS In nomine a4 #1 (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
     composer = "Christopher Tye (c.1505-c.1573)"
