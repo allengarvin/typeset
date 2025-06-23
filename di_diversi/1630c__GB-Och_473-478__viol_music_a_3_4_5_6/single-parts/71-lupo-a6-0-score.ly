@@ -10,21 +10,21 @@
 
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
-    cksum = "b10837730a5cb08799178600403d6da179078efb"
+    cksum = "358c7a344c72dfd7c3b8549d3d44a71c1f06085d"
     lastupdated = "2025-06-22"
     originallyset = "2025-06-22"
-    flats = 1
-    final = "c"
+    flats = 0
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Fantasia"
-    subtitle = "VdGS a6 #2"
+    title = "Fantasia I for division basses"
+    subtitle = "VdGS a6 #9"
     subsubtitle = ""
-    instrument = "Fantasia: VdGS a6 #2 (score)"
+    instrument = "Fantasia I for division basses: VdGS a6 #9 (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "fantasia"
-    shortcomp = "coleman"
-    composer = "Charles Coleman (before 1600-1664)"
+    shorttitle = "fantasia_i_for_division_basses"
+    shortcomp = "lupo"
+    composer = "Thomas Lupo (1571-1627)"
     categories = "[]"
     motifs = "[]"
 
@@ -33,10 +33,10 @@
     tagline = #'f
 }
 
-\include "../parts/67-coleman-a6-fantasia.ly"
+\include "../parts/71-lupo-a6-fantasia.ly"
 
 \book {
-    \bookOutputName "67-coleman--fantasia-vdgs_a6_no_2"
+    \bookOutputName "71-lupo--fantasia_i_for_division_basses-vdgs_a6_no_9"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -45,45 +45,45 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus I"
-                    \incipit \cantusOneLXVIIincipitVoice
+                    \incipit \cantusOneLXXIincipitVoice
                     \clef "treble"
                     \global
-                    \cantusOneLXVII
+                    \cantusOneLXXI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus II"
-                    \incipit \cantusTwoLXVIIincipitVoice
+                    \incipit \cantusTwoLXXIincipitVoice
                     \clef "treble"
                     \global
-                    \cantusTwoLXVII
+                    \cantusTwoLXXI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusLXVIIincipitVoice
-                    \clef "treble_8"
+                    \incipit \altusLXXIincipitVoice
+                    \clef "treble"
                     \global
-                    \altusLXVII
+                    \altusLXXI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorLXVIIincipitVoice
+                    \incipit \tenorLXXIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorLXVII
+                    \tenorLXXI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus I"
-                    \incipit \bassusOneLXVIIincipitVoice
+                    \incipit \bassusOneLXXIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusOneLXVII
+                    \bassusOneLXXI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus II"
-                    \incipit \bassusTwoLXVIIincipitVoice
+                    \incipit \bassusTwoLXXIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusTwoLXVII
+                    \bassusTwoLXXI
                 >>
              >>
          >>
@@ -91,7 +91,7 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 78 2)
+                tempoWholesPerMinute = #(ly:make-moment 70 2)
             }
         }
     }   

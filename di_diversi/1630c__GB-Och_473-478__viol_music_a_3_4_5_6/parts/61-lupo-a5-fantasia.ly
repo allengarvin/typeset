@@ -1,7 +1,37 @@
+% 32nd notes!
+
+cantusOneLXIincipit = \relative c'' {
+    \clef "petrucci-g"
+    \key c \major
+    \time 2/2
+
+    a8
+}
+
 cantusOneLXI = \relative c'' {
     \clef treble
     \key c \major
     \fourTwoCutTime
+    
+    R\breve*3 | r1 r8 a a4. b16[ c] d[ e f8] |
+        e[ a,] a'4. g16[ f] e16[ f g8] c,4 f8.[ e16] d[ c d8] c8[ b] |
+        a4 f'
+
+    e2 d1 | R\breve*2 | r2 r4 d4. b16[ c] d[ c b a] b[ a g a] b[ g a b] |
+        a[ b c a] c32[ b c b] a[ b a b] d8[ a'] ~ a16[ g f e] |
+
+    e8[ c] ~ c16[ bf a g] a4 a'2 g4 f8 f4 e8[ f] |
+        e8 e4 d16[ e] d8 d4 c16[ d] c8.[ c16] bf8.[ bf16] a[ b c d] | e[ c
+
+    f d] g[ e] a4 g2 f | a,4 d2 cs4 d f e2 | a,8[ b] c4 d2. e4 f g |
+        g8[ d] f4 e8[ d cs b] 
+
+    a2. d2 c4 | f2 e4 f4. g8 a4 g a | r4 c,2 c c4 c2 ~ | 
+        c4 d e2 g1 | f2 f2. d4 cs d8[ e] |
+
+    f4 e2 cs4 e f d2 | e4 c2 d4 r4 g4. f8[ e d] |
+        cs4 d2 cs4 d2
+        
 
     \bar "|."
 }
