@@ -8,6 +8,7 @@
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
+#(set-global-staff-size 19.5)
 \header {
     lastupdated = "2025-06-22"
     originallyset = "2025-06-22"
@@ -18,7 +19,6 @@
     subtitle = "VdGS a5 #1"
     subsubtitle = ""
     instrument = "Fantasia: VdGS a5 #1 (tenor)"
-    headerspace = \markup { \vspace #2 }
     shorttitle = "fantasia"
     shortcomp = "coleman"
     composer = "Charles Coleman (before 1600-1664)"
