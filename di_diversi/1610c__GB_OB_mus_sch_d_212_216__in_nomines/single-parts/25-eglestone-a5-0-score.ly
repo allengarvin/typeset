@@ -11,7 +11,6 @@
 \header {
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -19,7 +18,7 @@
     categories = "[in-nomine]"
     final = "a"
     flats = 0
-    folio = "VdGS no. 1"
+    subtitle = "VdGS #1"
 
     % Unchanging:
     language = "instrumental"

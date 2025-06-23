@@ -14,13 +14,12 @@
  
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
     instrument = "In nomine:  (contratenor)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
     composer = "Thomas Tallis (c.1505-1585)"
     shortcomp = "tallis"
-    folio = "VdGS à 4 no. 1"
+    subtitle = "VdGS a4 #1"
 
     % Things that change per part:
     partname = "Contratenor (part 2 of 4)"

@@ -17,8 +17,6 @@
     cksum = "daaa2c6969e4a27dba3a1ffd60bcb36181d1ae90"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "John Ward (c.1589-1638)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 5"
+    subtitle = "VdGS a5"
 
     % Unchanging:
     language = "instrumental"

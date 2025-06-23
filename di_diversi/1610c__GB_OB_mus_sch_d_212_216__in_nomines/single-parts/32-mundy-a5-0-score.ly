@@ -17,8 +17,6 @@
     cksum = "e603f54d348db85cf82e802fdeac74d46a04d53f"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "John Mundy (c.1555-1630)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à5 no. 1"
+    subtitle = "VdGS a5 #1"
 
     % Unchanging:
     language = "instrumental"

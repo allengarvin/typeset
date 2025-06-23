@@ -17,8 +17,6 @@
     cksum = "759d4848ae28ee9e0994ba092a947d8eb0376759"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "Elway Bevin (c.1554-1636)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à5 no. 2"
+    subtitle = "VdGS a5 #2"
 
     % Unchanging:
     language = "instrumental"

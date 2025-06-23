@@ -17,8 +17,6 @@
     cksum = "cfae57fbc6a382b992d001e6e15670df81708e50"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "Henry Stonings (fl.1570-1600)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 4"
+    subtitle = "VdGS a4"
 
     % Unchanging:
     language = "instrumental"

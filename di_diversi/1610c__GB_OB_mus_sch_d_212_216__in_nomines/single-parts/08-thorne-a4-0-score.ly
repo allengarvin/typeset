@@ -17,8 +17,6 @@
     cksum = "ab03591ebe74115fbca7f5040a29c17170814b14"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "John Thorne (c.1519-1573)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 4"
+    subtitle = "VdGS a4"
 
     % Unchanging:
     language = "instrumental"

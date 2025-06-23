@@ -17,8 +17,6 @@
     cksum = "768cd1ebfad4054088144269e04696be313d9617"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "Henry Mudd (d.c.1588)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 4"
+    subtitle = "VdGS a4"
 
     % Unchanging:
     language = "instrumental"

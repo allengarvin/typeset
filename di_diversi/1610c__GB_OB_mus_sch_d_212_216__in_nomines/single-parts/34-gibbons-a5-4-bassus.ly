@@ -14,7 +14,6 @@
  
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
     instrument = "In nomine:  (bassus)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"

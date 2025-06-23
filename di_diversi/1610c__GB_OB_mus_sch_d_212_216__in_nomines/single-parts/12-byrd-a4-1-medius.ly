@@ -14,14 +14,12 @@
  
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (medius)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
     shortcomp = "byrd"
     composer = "William Byrd (c.1540-1623)"
-    folio = "VdGS à 4 no. 1"
+    subtitle = "VdGS a4 #1"
 
     % Things that change per part:
     partname = "Medius (part 1 of 4)"

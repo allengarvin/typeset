@@ -17,8 +17,6 @@
     cksum = "d42cc1d2442e91b1d38171c84cd6169b7f9bd587"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "William Byrd (c.1540-1623)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 4 no. 2"
+    subtitle = "VdGS a4 #2"
 
     % Unchanging:
     language = "instrumental"

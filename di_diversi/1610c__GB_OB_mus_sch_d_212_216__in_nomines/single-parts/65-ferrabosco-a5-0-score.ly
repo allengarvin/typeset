@@ -17,8 +17,6 @@
     cksum = "22c74ddb5136c9e4aca603977bf772c8a3f1bb85"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "Alfonso Ferrabosco II (c.1575-1628)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 5 no. 2"
+    subtitle = "VdGS a5 #2"
 
     % Unchanging:
     language = "instrumental"

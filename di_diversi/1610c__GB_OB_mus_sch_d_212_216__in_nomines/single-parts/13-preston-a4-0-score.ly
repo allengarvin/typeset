@@ -17,8 +17,6 @@
     cksum = "22b7a1316be133626adf330de7135b85d08e9a62"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "Thomas Preston (early 16c-c.1563)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 4"
+    subtitle = "VdGS a4"
 
     % Unchanging:
     language = "instrumental"

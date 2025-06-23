@@ -17,8 +17,6 @@
     cksum = "0897ab926d02b1ff8637230cacccf12aca1644d2"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "Orlando Gibbons (1583-1625)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 5 no. 1"
+    subtitle = "VdGS a5 #1"
 
     % Unchanging:
     language = "instrumental"

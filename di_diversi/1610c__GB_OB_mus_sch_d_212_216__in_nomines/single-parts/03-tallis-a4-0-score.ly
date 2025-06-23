@@ -15,7 +15,6 @@
     cksum = "0ad76fbff1941200dc2cc8d85fe6cccb26ce11ad"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -24,7 +23,7 @@
     composer = "Thomas Tallis (c.1505-1585)"
     final = "g"
     flats = 1
-    folio = "VdGS à 4 no. 1"
+    subtitle = "VdGS a4 #1"
 
     % Unchanging:
     language = "instrumental"

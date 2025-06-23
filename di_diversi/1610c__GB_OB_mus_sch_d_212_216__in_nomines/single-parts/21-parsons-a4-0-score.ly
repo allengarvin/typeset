@@ -17,8 +17,6 @@
     cksum = "9afd30db876d5ec1ce73970f3c24b3ca3f164928"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "Robert Parsons (c.1535-1572)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 4 no. 2"
+    subtitle = "VdGS a4 #2"
 
     % Unchanging:
     language = "instrumental"

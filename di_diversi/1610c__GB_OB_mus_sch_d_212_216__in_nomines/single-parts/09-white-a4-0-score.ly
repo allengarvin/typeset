@@ -17,8 +17,6 @@
     cksum = "e73e0d0d381d861ff66cecd91e0554fe47532e4f"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "Robert White (c.1538-1574)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à 4 no. 2"
+    subtitle = "VdGS a4 #2"
 
     % Unchanging:
     language = "instrumental"

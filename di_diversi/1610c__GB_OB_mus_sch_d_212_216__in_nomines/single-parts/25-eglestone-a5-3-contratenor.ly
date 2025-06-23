@@ -10,12 +10,11 @@
 \header {
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
     instrument = "In nomine:  (contratenor)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
     shortcomp = "eglestone"
-    folio = "VdGS no. 1"
+    subtitle = "VdGS #1"
 
     % Things that change per part:
     partname = "Contratenor (part 3 of 5)"

@@ -17,8 +17,6 @@
     cksum = "1cc2dccc6ff35740223423334d4a4fb3469170b6"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -26,7 +24,7 @@
     composer = "Thomas Weelkes (1576-1623)"
     categories = "[in-nomine]"
     motifs = "[]"
-    folio = "VdGS à5 no. 2"
+    subtitle = "VdGS a5 #2"
 
     % Unchanging:
     language = "instrumental"

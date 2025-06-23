@@ -15,7 +15,6 @@
     cksum = "8e6a8713889427b7d7a6335b291fd8ea2dcb66c9"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"

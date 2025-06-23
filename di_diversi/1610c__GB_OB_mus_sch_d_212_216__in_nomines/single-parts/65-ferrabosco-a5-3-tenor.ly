@@ -15,13 +15,11 @@
  
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
-    subsubtitle = ""
     instrument = "In nomine:  (tenor)"
     shorttitle = "in_nomine"
     shortcomp = "ferrabosco"
     composer = "Alfonso Ferrabosco II (c.1575-1628)"
-    folio = "VdGS à 5 no. 2"
+    subtitle = "VdGS a5 #2"
 
     % Things that change per part:
     partname = "Tenor (part 3 of 5)"

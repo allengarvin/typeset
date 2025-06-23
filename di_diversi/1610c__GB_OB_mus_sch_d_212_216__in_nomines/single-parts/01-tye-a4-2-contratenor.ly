@@ -14,8 +14,8 @@
  
     % Things that change per piece:
     title = "In nomine"
-    subtitle = "Weidner #1"
-    instrument = "In nomine: Weidner #1 (contratenor)"
+    subtitle = "VdGS a4 #1"
+    instrument = "In nomine: VdGS a4 #1 (contratenor)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
     composer = "Christopher Tye (c.1505-c.1573)"
@@ -23,7 +23,7 @@
 
     % Things that change per part:
     partname = "Contratenor (part 2 of 4)"
-    instrument = "In nomine: Weidner #1 (contratenor)"
+    instrument = "In nomine: VdGS a4 #1 (contratenor)"
 
     % Unchanging:
     tagline = #'f

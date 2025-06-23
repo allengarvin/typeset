@@ -15,7 +15,6 @@
     cksum = "5a342b111c929027733ef84d038f82c6ac400120"
     % Things that change per piece:
     title = "In nomine"
-    subtitle = ""
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
@@ -25,7 +24,7 @@
     categories = "[in-nomine]"
     final = "g"
     flats = 1
-    folio = "VdGS à5 no. 2"
+    subtitle = "VdGS a5 #2"
 
     % Unchanging:
     language = "instrumental"
