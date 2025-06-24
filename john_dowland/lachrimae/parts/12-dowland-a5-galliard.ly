@@ -31,6 +31,31 @@ cantusXII = \relative c'' {
     }
 }
 
+cantoLyricsXII = \lyricmode { 
+    \ijLyrics
+    Can _ she _ ex -- cuse my wrongs with vir -- tue's cloak?
+    Shall I call her good _ when _ _ she _ proves _ un -- kind?
+        _
+
+    No where shadows do for bo - dies _ stand _ _ _
+    thou may'st be a -- bused _ if thy "sight be" dim.
+    "Wilt thou be thus" a -- bused still,
+    "seeing that she" will "right thee" never?
+
+    "If thou canst not" "o'er" -- "come her" "will, thy"
+    love will be thus fruit -- less e -- ver.
+}
+
+cantoLyricsXIIa = \lyricmode { 
+    \ijLyrics
+    Are _ those _ clears fire which va -- nish in -- to smoke?
+    Must I praise the leaves _ where _ _ no _ fruit _ I _ find?
+
+    Cold "love is" "like to" words writ -- ten _ on _ sand, _ _ _
+    or to bub -- bles which _ on the water swim.
+    
+}
+
 altusXIIincipit = \relative c'' {
     \clef "petrucci-c2"
     \key f \major
@@ -187,7 +212,7 @@ rhythmXII = \relative c' {
     s s s s g8*4
 }
 
-
+% checked against source
 luteXII = \relative c {
     \singleTime \time 3/2
     \key f \major
@@ -217,7 +242,7 @@ luteXII = \relative c {
         <f c' f a>4. a'8 <bf,, bf' d bf'>4 f'' <ef, g'> c' |
         <d, d'\3 fs a>2 <d,\8>4 g''\2 fs2
                                     % vv bf to c
-        <d, d'\3 f a>2 <g d' bf'>4 <c, c' g'\2 c>4. b''8 <f, c' a'>4 |
+        <d, d'\3 f a>2 <g d' bf'>4 <c, c' g'\2 c>4. bf''8 <f, c' a'>4 |
         <bf, d'\3 f bf>4. c''8
 
             d4 bf,, <c c' e g> c'' |
@@ -225,6 +250,7 @@ luteXII = \relative c {
                              % vv f to d
         <d,,,\8>4 <fs'' d'> a,\4 d,,\8 <fs'' d'>2
     }
+    % checked thru here!
     \repeat volta 2 {
         <bf,, bf' d>4. e'8 f4 g bf,, f'' |
         <bf,, bf' d bf'>2 a''4 g bf,, f'' |

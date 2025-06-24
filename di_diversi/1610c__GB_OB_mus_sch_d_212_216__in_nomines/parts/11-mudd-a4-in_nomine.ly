@@ -54,7 +54,9 @@ contratenorXI = \relative c' {
     \key f \major
     \fourTwoCutTime
 
-    d\breve f d d d c f g f g a a a a c a a g f g \bracketify g a
+    d\breve f d d d c f g f g a a a a c a a g f g 
+    \bracketify
+        g a
 
     a a c d c a bf a a a a g a g f g a f g a g 
 
