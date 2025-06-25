@@ -23,6 +23,7 @@
     shorttitle = "lachrimae_antiquae"
     \include "include/distribution-header.ly"
     cksum = "308ad923795fa0faf7024c32a339edd3a8634611"
+    related = #'( "308ad923795fa0faf7024c32a339edd3a8634611" "6fd3dbe9006305736b66dcfcb1077e02c1ed8d12" )
     tagline = #'f
 }
 

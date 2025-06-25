@@ -24,7 +24,7 @@ cantusOneLXVI = \relative c''' {
     g2 r4 af df1 | c af2 c | f,4 g a!2 bf1 | g2. af4 ef'1 |
         c2 ef af,4. bf8 c2 | 
 
-    f4 ef df c bf c bf af | g ef' d c bf c bf af | g2 af4 bf r4 c bf
+    f4 ef df c bf c bf af | g ef' df c bf c bf af | g2 af4 bf r4 c bf
 
     af4 | g af bf af g f g2 | f1 r4 f' c8[ df ef f] |
         df2 ~ df8[ ef] f4 r4 c bf
