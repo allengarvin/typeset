@@ -94,7 +94,7 @@ cantusLyricsXIVfour = \lyricmode {
     A chi è prin -- ci
     A chi è prin -- ci -- pian -- te li vo da - re, 
 
-    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- ni, 
+    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- no, 
         no -- me Mar -- tin',
         no -- me Mar -- tin',
 %    Che di se -- ra~e "..."
@@ -184,7 +184,7 @@ altusLyricsXIVfour = \lyricmode {
     A chi è prin -- ci
     A chi è prin -- ci -- pian -- te li vo da -- re, 
 
-    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- ni, 
+    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- no, 
         no -- me Mar -- tin',
         no -- me Mar -- tin',
 %    Che di se -- ra~e "..."
@@ -275,7 +275,7 @@ tenorLyricsXIVfour = \lyricmode {
     A chi è prin -- ci
     A chi è prin -- ci -- pian -- te li vo da -- re, 
 
-    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- ni, 
+    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- no, 
         no -- me Mar -- tin',
         no -- me Mar -- tin',
 %    Che di se -- ra~e "..."
@@ -365,7 +365,7 @@ bassusLyricsXIVfour = \lyricmode {
     A chi è prin -- ci
     A chi è prin -- ci -- pian -- te li vo da -- re, 
 
-    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- ni, 
+    Que -- sto com -- pa -- gno ch'ha no -- me Mar -- ti -- no, 
         no -- me Mar -- tin',
         no -- me Mar -- tin',
 %    Che di se -- ra~e "..."

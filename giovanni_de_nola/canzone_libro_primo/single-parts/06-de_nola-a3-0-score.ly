@@ -24,6 +24,7 @@
     final = "d"
     \include "include/distribution-header.ly"
     cksum = "841620adba8dbb481ffd0a1bebe460b86dc03b85"
+    sametext = #'( "534ffd9a2196923707e0352d89696ff5b62abf1a" "841620adba8dbb481ffd0a1bebe460b86dc03b85" )
     tagline = #'f
 }
 
@@ -100,6 +101,27 @@
                 \line { 4. A che e principiante li vo dare, }
                 \line { Questo compagnio ch'a nome Martino. }
                 \line { Che de ser' ... }
+            }
+            % SKIP
+            \column {
+                \line { 1. Who wants to learn the Galliard, lady, }
+                \line { come to us as we are experienced masters. }
+                \line { From the night till the morning }
+                \line { we never lack for playing: }
+                \line { Tan tan tan tarira, rira, rira.  }
+                \line {     \vspace #1 }
+                \line { 2.  Try a little dance, you'll want to cry out }
+                \line { At ten steps we jump. }
+                \line { From the night ... }
+                \line {     \vspace #1 }
+                \line { 3. If the Galliard you wish to learn }
+                \line { under the master you have to stay. }
+                \line { From the night ... }
+                \line {     \vspace #1 }
+                \line { 4. To whom is the beginner we'll give to them }
+                \line { this partner who has the name Martino. }
+                \line { From the night ... }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }
