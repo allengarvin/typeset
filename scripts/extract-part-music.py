@@ -4,6 +4,134 @@
 import os, sys, argparse, re
 from collections import OrderedDict
 
+lilypond_to_piano_key = [
+    "a,,",
+    "as,,",
+    "bf,,",
+    "b,,",
+    "c,,",
+    "cs,,",
+    "df,,",
+    "d,,",
+    "ds,,",
+    "ef,,",
+    "e,,",
+    "f,,",
+    "fs,,",
+
+    "gf,",
+    "g,",
+    "gs,",
+    "af,",
+    "a,",
+    "as,",
+    "bf,",
+    "b,",
+    "c,",
+    "cs,",
+    "df,",
+    "d,",
+    "ds,",
+    "ef,",
+    "e,",
+    "f,",
+    "fs,",
+
+    "gf",
+    "g",
+    "gs",
+    "af",
+    "a",
+    "as",
+    "bf",
+    "b",
+    "c",
+    "cs",
+    "df",
+    "d",
+    "ds",
+    "ef",
+    "e",
+    "f",
+    "fs",
+
+    "gf'",
+    "g'",
+    "gs'",
+    "af'",
+    "a'",
+    "as'",
+    "bf'",
+    "b'",
+    "c'",
+    "cs'",
+    "df'",
+    "d'",
+    "ds'",
+    "ef'",
+    "e'",
+    "f'",
+    "fs'",
+
+    "gf''",
+    "g''",
+    "gs''",
+    "af''",
+    "a''",
+    "as''",
+    "bf''",
+    "b''",
+    "c''",
+    "cs''",
+    "df''",
+    "d''",
+    "ds''",
+    "ef''",
+    "e''",
+    "f''",
+    "fs''",
+
+    "gf'''",
+    "g'''",
+    "gs'''",
+    "af'''",
+    "a'''",
+    "as'''",
+    "bf'''",
+    "b'''",
+    "c'''",
+    "cs'''",
+    "df'''",
+    "d'''",
+    "ds'''",
+    "ef'''",
+    "e'''",
+    "f'''",
+    "fs'''",
+
+    "gf''''",
+    "g''''",
+    "gs''''",
+    "af''''",
+    "a''''",
+    "as''''",
+    "bf''''",
+    "b''''",
+    "c''''",
+    "cs''''",
+    "df''''",
+    "d''''",
+    "ds''''",
+    "ef''''",
+    "e''''",
+    "f''''",
+    "fs''''",
+
+]
+
+# Create a dictionary for reverse lookup (note name to integer)
+lilypond_note_to_index = {note: idx for idx, note in enumerate(lilypond_to_piano_key)}
+
 def display_note(n, o):
     if o < 0:
         return n + "," * o
@@ -12,6 +140,8 @@ def display_note(n, o):
     return n
 
 def extract_range(s, pn, args):
+    global lilypond_note_to_index
+
     diatonic = [ "g", "a", "b", "c", "d", "e", "f", ]
     notes = [ "gf", "g", "gs", "af", "a", "as", "bf", "b", "bs", "cf", "c", "cs", "df", "d", "ds", "ef", "e", "es", "ff", "f", "fs", ]
     full_range = [ x + ",," for x in notes ] + \
@@ -93,7 +223,12 @@ def extract_range(s, pn, args):
         if args.verbose:
             print("  after action: current: {} (low: {} :: high: {})".format(display_note(previous, octave), lowest, highest))
                         
-    print("{} range: {} <-> {}".format(pn, lowest, highest))
+    if args.numerical:
+        print(f"{lilypond_note_to_index[lowest]} {lilypond_note_to_index[highest]}")
+    elif args.brief:
+        print("{} {}".format(lowest, highest))
+    else:
+        print("{} range: {} <-> {}".format(pn, lowest, highest))
         
 
 def strip_quotes(s):
@@ -256,5 +391,7 @@ if __name__ == "__main__":
     ap.add_argument("partsfile", help="path to parts file")
     ap.add_argument("partname", help="part name (e.g., 'canto')")
     ap.add_argument("-v", "--verbose", action="store_true", help="Verbose")
+    ap.add_argument("--brief", "-b", action="store_true", help="Brief")
+    ap.add_argument("-n", "--numerical", action="store_true", help="Numerical")
     args = ap.parse_args()
     main(args.partsfile, args.partname)

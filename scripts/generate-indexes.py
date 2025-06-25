@@ -5,6 +5,7 @@ import datetime
 import glob
 import json
 import os
+import pickle
 import re
 import shutil
 import sys
@@ -14,6 +15,10 @@ composer_dirs = []
 collect_dirs = []
 piece_dirs = []
 browse_indexes = []
+
+# map of cksum to pieces
+piece_map = {}
+old_piece_map = {}
 
 composers = []
 
@@ -56,9 +61,16 @@ class Piece:
     pparent = None
     path = None
     num = None
+    filename, h_title, h_subtitle = None, None, None
 
     def __init__(self):
         self.lilypond_files = []
+
+    def __str__(self):
+        return f"Piece({self.h_title}:{self.h_subtitle} / {self.filename})"
+
+    def __repr__(self):
+        return f"Piece({self.h_title}:{self.h_subtitle} / {self.filename}) {self.h_sametext}"
 
 def check_catalog(coll):
     if "catalog" not in coll.yaml or type(coll.yaml["catalog"]) != dict:
@@ -214,7 +226,9 @@ def get_header_field(header, field):
     for l in header:
         if ("%s =" % field in l or " %s=" % field in l) and l.index("%s" % field) == 0:
             l = "=".join(l.split("=")[1:]).lstrip()
-            if "markup" not in l:
+            if "#'(" in l and l[-1] == ")":
+                data = [x.strip('"') for x in l[l.index("#'(")+3:l.index(")")].split(" ") if x]
+            elif "markup" not in l:
                 data = eval(l)
             else:
                 data = parse_markup(l)
@@ -230,6 +244,8 @@ def match_clef(s):
               "mz_clef" : "mezzosoprano clef",
               "tn_clef" : "tenor clef",
               "br_clef" : "baritone clef",
+              "french_tab_clef" : "Lute part in French/English tablature",
+              "italian_tab_clef" : "Lute part in Italian tablature",
             }
     if s in clefs:
         return clefs[s]
@@ -281,6 +297,8 @@ def read_link(path):
     return s
     
 def write_pieces(coll):
+    global piece_map, old_piece_map
+
     score_re = re.compile("^[0-9]+-[A-Za-z0-9_]+-a[0-9]+-0+-score.ly$")
 
     def sort_by_num(p):
@@ -307,6 +325,15 @@ def write_pieces(coll):
             header = find_header(lines, sf, False)
             header_with_dist = find_header(lines, sf, True)
 
+        cksum = get_header_field(header, "cksum")
+        sametext = get_header_field(header, "sametext")
+        if type(sametext) == list:
+            sametext = [x for x in sametext if x != cksum]
+
+        related = get_header_field(header, "related")
+        if type(related) == list:
+            related = [x for x in related if x != cksum]
+
         title = get_header_field(header, "title")
         subtitle = get_header_field(header, "subtitle")
         folio = get_header_field(header, "folio")
@@ -323,8 +350,15 @@ def write_pieces(coll):
         p.h_title = title
         p.h_subtitle = subtitle
         p.h_folio = folio
-        p.h_composer = composer
+        p.h_composer = composer or definite_composer
         p.h_shortcomp = shortcomp
+        p.h_sametext = sametext
+        p.h_related = related
+        p.collection = coll.title
+        p.filename = sf
+        if cksum and "high-clefs" not in sf:
+            p.h_cksum = cksum
+            piece_map[cksum] = p
         
 
         #print(shortcomp)
@@ -394,7 +428,7 @@ def write_pieces(coll):
 #                print("glob", glob.glob(high_clef_path + "/*transposed*score.pdf"))
 #                sys.exit(1)
         
-        score_files = sorted(glob.glob(p.path + "/*-score.pdf"))
+        score_files = sorted(glob.glob(p.path + "/*score.pdf"))
         if len(score_files) == 0:
             print("NO SCORE FILE")
             print(p.path)
@@ -452,6 +486,51 @@ def write_pieces(coll):
             p_html += "    " * 2 + "</ul><p>\n"
                 
                 
+        def make_filename(f):
+            f = f.replace("/home/agarvin/typeset.new/", "/typeset/")
+            return f
+
+        sametexts_used = []
+
+        if p.h_sametext:
+            st_html = '<hr style="width: 40%; margin: auto;"><br>\n'
+            st_html += "<font size='+1'>The following pieces set the same text</font>\n"
+            st_html += "<ul>\n"
+            for ck in p.h_sametext:
+                sametexts_used.append(ck)
+                if ck in old_piece_map:
+                    other_piece = old_piece_map[ck]
+                else:
+                    print("[SKIPPING", ck, "this should be fixed next time]")
+                    continue
+                url = make_filename(other_piece.filename)
+                url = dirname(url) + "/" + basename(url)[:basename(url).index("-")] + "-output"
+                
+                st_html += f"<li> <a href='{url}'>{other_piece.h_title}</a> by {other_piece.h_composer} from <i>{other_piece.collection}</i> </li>\n"
+            st_html += "</ul><p>\n"
+            st_html += '<hr style="width: 40%; margin: auto;"><br>\n\n'
+
+            p_html += st_html
+
+        if p.h_related:
+            rt_html = '<hr style="width: 40%; margin: auto;"><br>\n'
+            rt_html += "<font size='+1'>The following pieces relate in some other way</font>\n"
+            rt_html += "<ul>\n"
+            for ck in p.h_related:
+                if ck in sametexts_used:
+                    continue
+                if ck in old_piece_map:
+                    other_piece = old_piece_map[ck]
+                else:
+                    print("[SKIPPING", ck, "this should be fixed next time]")
+                    continue
+                url = make_filename(other_piece.filename)
+                url = dirname(url) + "/" + basename(url)[:basename(url).index("-")] + "-output"
+                
+                rt_html += f"<li> <a href='{url}'>{other_piece.h_title}</a> by {other_piece.h_composer} from <i>{other_piece.collection}</i> </li>\n"
+            rt_html += "</ul><p>\n"
+            rt_html += '<hr style="width: 40%; margin: auto;"><br>\n\n'
+            p_html += rt_html
 
         if os.path.exists(p.path + "/cpdl.link"):
             p_html += "    " * 2 + 'CPDL link: <a href="{link}">{link}</a><br>\n'.format(link=read_link(p.path + "/cpdl.link"))
@@ -517,6 +596,11 @@ def write_composer_index(args):
         c.short_name = "{name} ({dates})".format(name=query_name(bio), dates=query_date(bio))
         c.name_alone = query_name(bio)
             
+        if os.path.isfile(c.path + "/biography.html"):
+            with open(c.path + "/biography.html", "r") as bio_fd:
+                biography = bio_fd.read()
+        else:
+            biography = "{name} ({dates})".format(name=query_name(bio), dates=query_date(bio))
         html = """
 <html>
     <head> 
@@ -525,14 +609,14 @@ def write_composer_index(args):
     </head>
     <body>
         <a href="../index.html">TOP</a> / {path} <p>
-        {name} ({dates})
+        {biography}
 
         <p>
         {clinks}
     </body>
     <!-- generate_index.py ran at {isotime} -->
 </html>
-""".format(name=query_name(bio), path=basename(top["path"]), dates=query_date(bio), clinks=coll_links, isotime=datetime.datetime.now().isoformat())
+""".format(name=query_name(bio), path=basename(top["path"]), dates=query_date(bio), clinks=coll_links, isotime=datetime.datetime.now().isoformat(),biography=biography)
               
 
         fd = open(c.path + "/index.html", "w")
@@ -630,7 +714,7 @@ def build_data(args):
 
     for dn, sd_list, filelist in os.walk("/home/agarvin/typeset.new"):
         dir_parts = dn.split("/")
-        if "christmas" in dir_parts:
+        if "christmas" in dir_parts or "booklet" in dir_parts or "flute" in dir_parts or "concertina" in dir_parts:
             continue
         if output_re.match(dir_parts[-1]) and len(dir_parts) == 8 and (dir_parts[-2] == "high-clefs" or dir_parts[-2] == "single-parts"):
             piece, collect, composer = dn, "/".join(dir_parts[:-2]), "/".join(dir_parts[:-3])
@@ -644,7 +728,7 @@ def build_data(args):
     piece_dirs = sorted(piece_dirs)
 
 def build_composers(args):
-    global composer_dirs, composers
+    global composer_dirs, composers, piece_map
 
     for cd in composer_dirs:
         comp = Composer()
@@ -728,10 +812,20 @@ def build_composers(args):
         
 
 def main(args):
+    global piece_map, old_piece_map
+
+    with open("/home/agarvin/typeset.new/piece_map.py", "rb") as pmap_fd:
+        old_piece_map = pickle.load(pmap_fd)
+#    print(old_piece_map)
+#    return 1
     build_data(args)
     build_composers(args)
 
     write_composer_index(args)
+
+    with open("/home/agarvin/typeset.new/piece_map.py", "wb") as pmap_fd:
+        pickle.dump(piece_map, pmap_fd)
+    
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description="Generate composer/collection/piece index.html files")

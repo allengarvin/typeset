@@ -7,8 +7,13 @@
 import argparse
 import sys
 
-sample = """
-"""
+sample = """*{{PostedDate|2025-06-24}} {{CPDLno|85604}} [[Media:02-dowland--flow_my_tears-lacrime--keyboard_reduction--0_1-score.pdf|{{pdf}}]] 
+{{Editor|Allen Garvin|2025-06-24}}{{ScoreInfo|Letter|3|65}}{{Copy|Creative Commons Attribution Non-Commercial}}
+:{{EdNotes|With simple keyboard reduction of lute part.}}
+
+*{{PostedDate|2025-06-24}} {{CPDLno|85603}} [[Media:02-dowland--flow_my_tears-lacrime---0-score.pdf|{{pdf}}]] [[Media:02-dowland--flow_my_tears-lacrime---0-score.midi|{{mid}}]] 
+{{Editor|Allen Garvin|2025-06-24}}{{ScoreInfo|Letter|2|135}}{{Copy|Creative Commons Attribution Non-Commercial}}
+:{{EdNotes|With French/English lute tablature.}}"""
 
 def main(args):
     posted_date, ed_str, cpdl_num = None, None, None
@@ -26,6 +31,7 @@ def main(args):
         if not posted_date and "PostedDate|" in line:
             ndx = line.index("PostedDate|")
             posted_date = line[ndx-2:line[ndx:].index("}}") + ndx+2]
+            actual_date = posted_date.split("|")[1].rstrip("}")
         if not cpdl_num and "CPDLno|" in line:
             ndx = line.index("CPDLno|")
             cpdl_num = line[ndx-2:line[ndx:].index("}}") + ndx+2]
@@ -49,7 +55,7 @@ def main(args):
         if "EdNotes|" in line:
             ndx = line.index("EdNotes|")
             ed_str = line[ndx-2:line[ndx:].index("}}") + ndx]
-            ed_notes.append(ed_str.split("|")[1])
+            ed_notes.append(ed_str.split("|")[1].rstrip("."))
     
 #    print(posted_date)
 #    print(cpdl_num)
@@ -64,10 +70,10 @@ def main(args):
         
     print("--------------------------------- CUT HERE ---------------------")
     print(f"*{posted_date} {cpdl_num}")
-    print("{{Editor|Allen Garvin|2024-12-22}}{{Copy|Creative Commons Attribution Non-Commercial}}")
     for i in range(len(media)):
-        print(f":&bull; {ed_notes[i]} {media[i]} {score_info[i]}")
-    print(":{{EdNotes|}}")
+        print(f":&bull; '''{ed_notes[i]}:''' {media[i]} {score_info[i]}")
+    print("{{Editor|Allen Garvin|"+actual_date+"}}{{Copy|Creative Commons Attribution Non-Commercial}}")
+    print(":{{EdNotes| Source files may be found on my github, and parts are available on my own site (both linked from my CPDL profile).}}")
 
 # goal, something like:
 # *{{PostedDate|2024-12-22}} {{CPDLno|83178}}

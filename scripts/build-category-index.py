@@ -4,7 +4,7 @@ import argparse
 import os
 import re
 import sys
-import composers
+import composerList
 import categories_class
 import datetime
 
@@ -127,7 +127,7 @@ class Score:
             print(hlines)
             sys.exit(1)
         if not self.shortcomp:
-            self.shortcomp = composers.composers[self.composer]
+            self.shortcomp = composerList.composers[self.composer]
 
         self.output = "/".join(self.full_path.split("/")[4:7]) + "/" + self.filename.split("-")[0] + "-output"
         
@@ -146,6 +146,9 @@ def find_all_scores(args):
 
     scores = []
     for dn, sd_list, files in os.walk("/home/agarvin/typeset.new"):
+        dir_parts = dn.split("/")
+        if "christmas" in dir_parts or "booklet" in dir_parts or "flute" in dir_parts or "concertina" in dir_parts:
+            continue
         if not dn.endswith("/single-parts") or len(dn.split("/")) != 7:
             continue
         for f in files:

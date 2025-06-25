@@ -1,9 +1,0 @@
----
-top:
-    type: composer
-    path: /del_martoretta
-biography:
-    name: Giandominico La Martoretta
-    last_name: Martoretta
-    nationality: Italian
-    flourished: 1544-66

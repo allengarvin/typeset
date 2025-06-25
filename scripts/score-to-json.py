@@ -86,7 +86,7 @@ class ParseScore:
             return
 
         self.sub_collection_path = "/".join(parts[:3])+"/"
-        self.output_link = "/" + self.sub_collection_path.replace("typeset.new", "typeset") + bn_split[0] + "-output/"
+        self.output_link = "/" + self.sub_collection_path.replace("typeset.new", "typeset") + "single-parts/" + bn_split[0] + "-output/"
 
         for pattern in git_ignore:
             if fnmatch.fnmatch(self.sub_collection_path, "typeset.new/" + pattern):

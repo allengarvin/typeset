@@ -26,6 +26,7 @@
     shorttitle = "chi_la_gagliarda"
     \include "include/distribution-header.ly"
     cksum = "534ffd9a2196923707e0352d89696ff5b62abf1a"
+    sametext = #'( "534ffd9a2196923707e0352d89696ff5b62abf1a" "841620adba8dbb481ffd0a1bebe460b86dc03b85" )
     tagline = #'f
 }
 
@@ -96,6 +97,7 @@
     }   
     \markup {
         \fill-line {
+            % touchup 2025-06-25: Martino spelled wrong
             \column {
                 \line { 1. Chi la \auto-footnote "gagliarda" \italic "'gagliarda' could be the dance that's the direct object of 'imparare' or an adjective modifying 'donna': robust, vigorous." donna vo' imparare,  }
                 \line { Venite a nui che siamo mastri fini,  }
@@ -112,7 +114,7 @@
                 \line { Che di sera ... }
                 \line {     \vspace #1 }
                 \line { 4. A chi è principiante li vo dare,  }
-                \line { Questo compagno ch'ha nome Martini,  }
+                \line { Questo compagno ch'ha nome Martino,  }
                 \line { Che di sera ... }
             }
             \column {
@@ -131,7 +133,7 @@
                 \line { From the night ... }
                 \line {     \vspace #1 }
                 \line { 4. To whom is the beginner we'll give to them }
-                \line { this partner who has the name Martini. }
+                \line { this partner who has the name Martino. }
                 \line { From the night ... }
                 \line { \hspace #10 \italic { translation by editor } }
             }

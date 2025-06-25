@@ -82,6 +82,7 @@ def generate_zip(single_parts_path, part_num, zipfn):
         glob.glob(single_parts_path + "/" + part_num + "-*.midi") + \
         glob.glob(single_parts_path + "/" + part_num + "-output/"+ part_num + "-*.midi") + \
         glob.glob(dirname(single_parts_path) + "/high-clefs/" + part_num + "-*.ly") + \
+        glob.glob(dirname(single_parts_path) + "/low-clefs/" + part_num + "-*.ly") + \
         glob.glob(dirname(single_parts_path) + "/include/*.ly") + \
         glob.glob(dirname(single_parts_path) + "/transposed/"+part_num+"-*.ly") + \
         glob.glob(dirname(single_parts_path) + "/transpose/"+part_num+"-*.ly") + \
@@ -108,6 +109,13 @@ def generate_zip(single_parts_path, part_num, zipfn):
                 fd.write(f)
         print outdir + "/" + zipfn
         print outdir.replace("single-parts", "high-clefs") + "/" + zipfn.replace("-source", "-transposed-source")
+    if os.path.isdir(outdir.replace("single-parts", "low-clefs")):
+        with zipfile.ZipFile(outdir.replace("single-parts", "low-clefs") + "/" + zipfn.replace("-source", "-transposed_up-source"), "w") as fd:
+            for f in files:
+                f = f.replace(dirname(single_parts_path) + "/", "")
+                fd.write(f)
+        print outdir + "/" + zipfn
+        print outdir.replace("single-parts", "low-clefs") + "/" + zipfn.replace("-source", "-transposed_up-source")
 
 # Takes an arg like 01, or for really big collects 075, the leading string-num
 def check_score(pn):

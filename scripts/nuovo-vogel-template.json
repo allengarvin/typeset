@@ -1,0 +1,58 @@
+{
+    "$schema" : "https://dfwviols.com/nv/schema",
+    "$id" : "https://dfwviols.com/nv/schema",
+    "title" : "Nuovo Vogel entry",
+    "description" : "Single entry replacement for Nuovo Vogel",
+    "type" : "object",
+    "properties" : {
+        "nvId" : {
+            "description" : "Unique NV entry",
+            "type" : "integer"
+        },
+        "page" : {
+            "description" : "Original page number in NV",
+            "type" : "integer"
+        },
+        "year" : {
+            "description" : "Year of publication",
+            "type" : "integer"
+        },
+        "titleDesc" : {
+            "description" : "Title summary from NV",
+            "type" : "string"
+        },
+        "dedicationTo" : {
+            "description": "Short desc of who is the dedicee",
+            "type" : "string"
+        },
+        "dedicationDesc" : {
+            "description" : "Dedication summary from NV",
+            "type" : "string"
+        },
+        "titleShort" : {
+            "description" : "Short description (not in NV)",
+            "type" : "string"
+        },
+        "titleAbbr" : {
+            "description" : "Very short desciption (not in NV). Example: "IIIa5",
+            "type" : "string"
+        },
+        "fascicles" : {
+            "description" : "Partbooks identified by short name",
+            "type" : "array"
+        },
+        "folds" : {
+            "description" : "quarto, ottavo, etc, in form 4°, 8°, etc",
+            "type" : "string"
+        },
+        "pagine" : {
+            "description" : "Pages per partbook (sometimes accompanied by partbook designator, like: C.: 21",
+            "type" : "string"
+        },
+        "emendations" : {
+            "description" : "Corrections made from NV entry (no particular format)",
+            "type" : "string"
+        }
+    }
+    "required" : [ "nvId", "page", "year", "titleDesc", "titleShort", "titleAbbr" ]
+}

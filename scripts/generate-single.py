@@ -23,6 +23,7 @@ def output_num(a, num):
 def valid_poetic_form(p):
     forms = ["sonnet", "madrigal", "ottava rima", "canzone", "eclogue",
         "ballata", "terza rima", "villanesca", "greghesca", "sestina",
+        "cantata", "aria",
         "capitolo", "verso sciolto", "villanella", "canzonetta" ]
     if p in forms:
         return True
@@ -98,16 +99,23 @@ def write_roman(num):
 
     return "".join([a for a in roman_num(num)])
 
+def get_date(args):
+    if args.date:
+        return args.date
+    return datetime.date.today().strftime("%Y-%m-%d")
+
 def main(argv):
     p = argparse.ArgumentParser(description="Generate lilypond single parts")
+    p.add_argument("--choirs", type=int, help="number of choirs")
     p.add_argument("-c", "--composer", help="Composer field")
     p.add_argument("-o", "--overwrite", action="store_true", help="overwrite existing file")
     p.add_argument("-a", "--addlyrics", help="Addition lyrics (a, b, c...final)")
-    p.add_argument("-t", "--title", help="title of piece")
+    p.add_argument("-t", "--title", help="title of piece", required=True)
     p.add_argument("-l", "--language", help="For language tag")
     p.add_argument("-u", "--subtitle", help="subtitle of piece")
     p.add_argument("-s", "--size", help="size of score", default=16)
     p.add_argument("-p", "--poem", type=str, help="poetic form (sonnet, etc)")
+    p.add_argument("-d", "--date", type=str, help="arbitrary date")
     p.add_argument("-v", "--vocal", action="store_true", help="add lyrics sections")
     p.add_argument("-m", "--midi", type=int, help="midi beats per minute", default=88)
     p.add_argument("-f", "--folio", help="folio (lyricist, pagination, etc)")
@@ -167,8 +175,19 @@ def main(argv):
     for i in range(0, len(args.parts)):
         p = args.parts[i]
         if ":" in p:
-            c = parse_clefs(p.split(":")[1])
-            p = p.split(":")[0]     
+            if p.count(":") == 1:
+                c = parse_clefs(p.split(":")[1])
+                p = p.split(":")[0]     
+                if args.choirs:
+                    print("Error: --choir given but part %s has no choir (usage example: tenorTwo:8a:2)" % p)
+                    sys.exit(1)
+            elif p.count(":") == 2:
+                if not args.choirs:
+                    print("Error: choir specified in part %s but no --choirs option given")
+                    sys.exit(1)
+                c = parse_clefs(p.split(":")[1])
+                p = p.split(":")[0]     
+                choir_num = int(p.split(":")[2])
         else:
             print("No clef given for part '%s', assuming alto/treble8" % p)
             c = [ "a", "8" ]
@@ -180,7 +199,7 @@ def main(argv):
     subsubtitle = args.subsubtitle if args.subsubtitle else ""
 
     score_str = [
-                '\\version "2.22.1"',
+                '\\version "2.24.4"',
                 '\\include "english.ly"',
                 '',
                 '\\include "../include/paper-1-score.ly" ',
@@ -193,8 +212,8 @@ def main(argv):
                 '\\header {',
                 '    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.',
                 '    cksum = "SHA1SUM"',
-                '    lastupdated = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
-                '    originallyset = "{0}"'.format(datetime.date.today().strftime("%Y-%m-%d")),
+                '    lastupdated = "{0}"'.format(get_date(args)),
+                '    originallyset = "{0}"'.format(get_date(args)),
                 '    \\include "include/distribution-header.ly"',
                 '    % Things that change per piece:',
                 '    title = "{0}"'.format(title),
@@ -369,7 +388,7 @@ def main(argv):
         ndx = parts.index(parts_in_order[i])
 
         part_str = [
-                '\\version "2.22.1"',
+                '\\version "2.24.4"',
                 '\\include "english.ly"',
                 '',
                 "% Invocation: " + show_argv(argv), 

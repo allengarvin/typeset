@@ -154,7 +154,7 @@ def main(args):
     parts_file_str = ""
     parts_trail = ""
 
-    score_file_str = """\\version "2.21.1"
+    score_file_str = """\\version "2.24.4"
 \\include "english.ly"
 
 \\include "../../include/paper-1-score.ly"

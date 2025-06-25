@@ -10,8 +10,10 @@ category_list = {
     "dialogo" : "Madrigali dialoghi",
     "fortuna" : "Settings of Fortuna Desperata",
     "in-nomine" : "In nomines, consort pieces around a plainchant",
+    "ag-dance" : "Anglo-German dance music c.1590-1630",
     "viol-madrigal" : "Madrigals found in English viol partbooks",
     "morte" : "Death as a metaphor for...",
+    "canon" : "Pieces featuring a canon in 2 or more parts",
     "penitential" : "The 7 penitential psalms",
     "christmas" : "Christmas: Motets, hymns, and carols, from Advent to Epiphany",
     "chromatic" : "Fairly to highly chromatic pieces",
@@ -28,8 +30,15 @@ category_list = {
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description="Category helper")
     ap.add_argument("-l", "--list", action="store_true", help="Full list")
+    ap.add_argument("-a", "--asciidoc", action="store_true", help="ASCIIDOC format")
+
     args = ap.parse_args()
-    if args.list:
+    if args.asciidoc:
+        print(".Themed collections")
+        for k,v in category_list.items():
+            print(f"* link:cat-{k}.html[{v}]")
+        print("\n")
+    elif args.list:
         print("Themed collections:<p>")
         print("  <ul>")
         for k,v in category_list.items():

@@ -4,7 +4,7 @@
 import os
 import sys
 import argparse
-import composers
+import composerList
 import subprocess
 
 def basename(s):
@@ -149,7 +149,7 @@ class Score:
         if self.attributes["shorttitle"] == None:
             self.attributes["shorttitle"] = shorten(self.attributes["title"])
         if self.attributes["shortcomp"] == None:
-            self.attributes["shortcomp"] = composers.composers[self.attributes["composer"]]
+            self.attributes["shortcomp"] = composerList.composers[self.attributes["composer"]]
         self.attributes["directory"] = dirname(fn)
         self.attributes["number"] = basename(fn).split("-")[0]
         
@@ -307,8 +307,9 @@ translations into period English. With a search engine! I've also got a physical
 <li> <a href="https://en.wiktionary.org/wiki">Wiktionary</a> where you can search for just about any word, including already conjugated, pluralized, gender-modified word. </li>
 </ul>
 <p>
-As of May 2023, I've done about 120 translation, and I've got 570 to go (!!).<br>
-May 2024: more than 250!
+As of May 2023, I've done about 120 translations, and I've got 570 to go (!!).<br>
+May 2024: more than 250!<br>
+31 Dec 2024: 394 (fell short of my goal), 660 to go.
 <ol>
 """)
     for i, fn in enumerate(my_scores):
