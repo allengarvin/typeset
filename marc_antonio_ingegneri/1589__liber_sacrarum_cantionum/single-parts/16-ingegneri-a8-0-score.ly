@@ -13,6 +13,8 @@
     cksum = "4dfcadd081f0b8c3255184221ffc9d9de5a0484a"
     lastupdated = "2025-06-25"
     originallyset = "2025-06-25"
+    flats = 0
+    final = "d"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Super flumina Babylonis"
