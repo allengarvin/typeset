@@ -18,6 +18,8 @@
     title = "Padovana del modo III"
     subtitle = ""
     subsubtitle = ""
+    final = "e"
+    flats = 0
     instrument = "Padovana del modo III:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "padovana_del_modo_iii"

@@ -16,6 +16,8 @@
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Gagliarda del modo II"
+    final = "g"
+    flats = 1
     subtitle = ""
     subsubtitle = ""
     instrument = "Gagliarda del modo II:  (score)"

@@ -1,4 +1,4 @@
-\version "2.22.1"
+\version "2.24.4"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -10,32 +10,32 @@
 
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
-    cksum = "443ddd7195e8da32fde150a4a10238b43c121507"
-    lastupdated = "2025-03-31"
-    originallyset = "2025-03-31"
+    cksum = "3e9d08269266f4f515337926a1216956bc193415"
+    lastupdated = "2025-06-26"
+    originallyset = "2025-06-26"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Padovana del modo IV"
+    title = "Padovana del modo V"
     subtitle = ""
     subsubtitle = ""
-    instrument = "Padovana del modo IV:  (score)"
+    instrument = "Padovana del modo V:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "padovana_del_modo_iv"
+    shorttitle = "padovana_del_modo_v"
     shortcomp = "schuyt"
     categories = "[ag-dance]"
-    final = "e"
-    flats = 0
     motifs = "[]"
 
     % Unchanging:
+    final = "f"
+    flats = 0
     language = "instrumental"
     tagline = #'f
 }
 
-\include "../parts/08-schuyt-a6-pavan.ly"
+\include "../parts/10-schuyt-a6-pavan.ly"
 
 \book {
-    \bookOutputName "08-schuyt--padovana_del_modo_iv-"
+    \bookOutputName "10-schuyt--padovana_del_modo_v-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -44,45 +44,45 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoVIIIincipitVoice
+                    \incipit \cantoXincipitVoice
                     \clef "treble"
                     \global
-                    \cantoVIII
+                    \cantoX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Sesto"
-                    \incipit \sestoVIIIincipitVoice
+                    \incipit \sestoXincipitVoice
                     \clef "treble"
                     \global
-                    \sestoVIII
+                    \sestoX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoVIIIincipitVoice
+                    \incipit \altoXincipitVoice
                     \clef "treble"
                     \global
-                    \altoVIII
-                >>
-                \new Voice <<
-                    \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoVIIIincipitVoice
-                    \clef "treble_8"
-                    \global
-                    \quintoVIII
+                    \altoX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreVIIIincipitVoice
+                    \incipit \tenoreXincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenoreVIII
+                    \tenoreX
+                >>
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quinto"
+                    \incipit \quintoXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \quintoX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoVIIIincipitVoice
+                    \incipit \bassoXincipitVoice
                     \clef "bass"
                     \global
-                    \bassoVIII
+                    \bassoX
                 >>
              >>
          >>
@@ -90,7 +90,7 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 86 2)
+                tempoWholesPerMinute = #(ly:make-moment 90 2)
             }
         }
     }   

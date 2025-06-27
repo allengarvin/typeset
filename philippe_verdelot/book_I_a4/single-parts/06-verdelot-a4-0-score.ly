@@ -24,6 +24,7 @@
     motifs = "[cupid,amore,deceit]"
     \include "include/distribution-header.ly"
     cksum = "0062feb2e1e11b72597ad1b80fb470570935c474"
+    sametext = #'( "4268394e971865ba185424ca7f2caff5070bddcf" "0062feb2e1e11b72597ad1b80fb470570935c474" )
     tagline = #'f
 }
 

@@ -18,6 +18,8 @@
     title = "Gagliarda del modo III"
     subtitle = ""
     subsubtitle = ""
+    final = "e"
+    flats = 0
     instrument = "Gagliarda del modo III:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "gagliarda_del_modo_iii"

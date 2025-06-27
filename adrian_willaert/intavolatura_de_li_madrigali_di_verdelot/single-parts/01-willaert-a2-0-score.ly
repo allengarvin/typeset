@@ -120,5 +120,11 @@
            }
         }
     }
+    \markup {
+        \wordwrap {
+            \vspace #2
+            Note: The piece has the rubric \italic {El Canto a tre Tasti della sottana, } meaning the canto part's first note sounds at the 3rd fret of the second string: thus the second string is tuned to an E and you know it is a lute in A. 
+        }
+    }
 
 }
