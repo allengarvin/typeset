@@ -21,7 +21,7 @@
     instrument = "Exaudi Domine justitiam meam:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "exaudi_domine_justitiam_meam"
-    shortcomp = "gabrieli"
+    shortcomp = "gabrieli_g"
     categories = "[]"
     motifs = "[]"
     needtranslation = #'t
