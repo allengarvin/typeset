@@ -30,7 +30,6 @@ cantusII = \relative c'' {
 
         g2. fs8[ e] fs2 | g1. ~ | g
     }
-    \bar "|."
 }
 
 altusIIincipit = \relative c' {
@@ -62,7 +61,6 @@ altusII = \relative c' {
 
         r2 d g, | c a d | b1. | b | 
     }
-    \bar "|."
 }
 
 tenorIIincipit = \relative c' {
@@ -96,7 +94,6 @@ tenorII = \relative c' {
         f,2. g4 a2 | d,1 ef2 | f1 g2 | a4 g a bf c bf | a g a g a2 | 
         g1. | g1.
     }
-    \bar "|."
 }
 
 bassusIIincipit = \relative c' {
@@ -129,7 +126,6 @@ bassusII = \relative c' {
         bf1 f'2 | bf,1. | f'2 d c | bf1 f'2 | d1 a2 | bf1 c2 | d f ef |
         d1 c2 | ef d1 | g,1. | g | 
     }
-    \bar "|."
 }
 
 quintusIIincipit = \relative c' {
@@ -161,7 +157,6 @@ quintusII = \relative c' {
         f2 ~ | f4 ef d c d2 | f f g4 a | bf1 a2 | bf a4 bf c2 |
         bf2. a4 g2 | f1 c2 | d1 ef2 | c d1 | d1. | d | 
     }
-    \bar "|."
 }
 
 cantusIIincipitVoice = <<

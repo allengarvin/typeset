@@ -30,7 +30,6 @@ cantusI = \relative c'' {
         g4 f f2 | g2. a4 bf c d2 | c bf c1 | bf2. c4 d1 | c c2 bf4 c8[ bf] |
         a2 g f4 e f g | a2 g1 fs2 | g\longa*1/2
     }
-    \bar "|."
 }
 
 altusIincipit = \relative c' {
@@ -68,7 +67,6 @@ altusI = \relative c' {
         c,2. d4 ef f g g, | a f g a bf c a bf |
         c4 bf a g a1 | g\longa*1/2 
     }
-    \bar "|."
 }
 
 tenorIincipit = \relative c' {
@@ -106,7 +104,6 @@ tenorI = \relative c' {
         a bf c2. g4 bf2 | ef,4 f g ef f1 | ef4 f g2 d' d, | 
         d\longa*1/2
     }
-    \bar "|."
 }
 
 bassusIincipit = \relative c' {
@@ -141,7 +138,6 @@ bassusI = \relative c' {
 
         d1 | c4 d ef2 d1 | g,\longa*1/2
     }
-    \bar "|."
 }
 
 quintusIincipit = \relative c'' {
@@ -177,7 +173,6 @@ quintusI = \relative c'' {
         f1 d2 f ~ | f ef d4 ef f g | a2 f g f |
         f d bf'1 | a g2. f4 | ef d2 c4 d1 | ef2 c d2. c4 | b\breve
     }
-    \bar "|."
 }
 
 cantusIincipitVoice = <<
