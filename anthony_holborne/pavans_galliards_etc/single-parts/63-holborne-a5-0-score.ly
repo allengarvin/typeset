@@ -10,17 +10,17 @@
 
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
-    cksum = "c2075f8743ea8d7981d440919564fdd4c267175e"
-    lastupdated = "2025-06-30"
-    originallyset = "2025-06-30"
+    cksum = "cee1746dfc771fac4b6b5c70288b03fa1a969f56"
+    lastupdated = "2025-07-03"
+    originallyset = "2025-07-03"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "The New-year's gift"
+    title = "The Fairie-round"
     subtitle = ""
     subsubtitle = ""
-    instrument = "The New-year's gift:  (score)"
+    instrument = "The Fairie-round:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "the_new-years_gift"
+    shorttitle = "the_fairie-round"
     shortcomp = "holborne"
     categories = "[ag-dance]"
     motifs = "[]"
@@ -30,10 +30,10 @@
     tagline = #'f
 }
 
-\include "../parts/06-holborne-a5-galliard.ly"
+\include "../parts/63-holborne-a5-galliard.ly"
 
 \book {
-    \bookOutputName "06-holborne--the_new-years_gift-"
+    \bookOutputName "63-holborne--the_fairie-round-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -42,38 +42,38 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusVIincipitVoice
+                    \incipit \cantusLXIIIincipitVoice
                     \clef "treble"
                     \global
-                    \cantusVI
-                >>
-                \new Voice <<
-                    \set Staff.instrumentName = #"Quintus"
-                    \incipit \quintusVIincipitVoice
-                    \clef "treble"
-                    \global
-                    \quintusVI
+                    \cantusLXIII
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusVIincipitVoice
+                    \incipit \altusLXIIIincipitVoice
                     \clef "treble"
                     \global
-                    \altusVI
+                    \altusLXIII
+                >>
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quintus"
+                    \incipit \quintusLXIIIincipitVoice
+                    \clef "treble"
+                    \global
+                    \quintusLXIII
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorVIincipitVoice
+                    \incipit \tenorLXIIIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorVI
+                    \tenorLXIII
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusVIincipitVoice
+                    \incipit \bassusLXIIIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusVI
+                    \bassusLXIII
                 >>
              >>
          >>
@@ -81,8 +81,16 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 112 2)
+                tempoWholesPerMinute = #(ly:make-moment 94 2)
             }
         }
     }   
+    \markup {
+        \wordwrap {
+            Note: Both Voyager space craft, launched in 1977, included a
+            "golden record" (16 2/3 rpm phonograph disc made of copper and plated with gold) which
+            had a recording of the Fairie-round performed by David Munroe's 
+            Early Music Consort of London. As of July 2025, Voyager 1 is just shy of 25 billion km from the earth.
+        }
+    }
 }
