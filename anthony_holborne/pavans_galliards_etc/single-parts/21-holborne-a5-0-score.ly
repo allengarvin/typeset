@@ -28,6 +28,8 @@
     % Unchanging:
     language = "instrumental"
     tagline = #'f
+    final = "c"
+    flats = 0
 }
 
 \include "../parts/21-holborne-a5-pavan.ly"

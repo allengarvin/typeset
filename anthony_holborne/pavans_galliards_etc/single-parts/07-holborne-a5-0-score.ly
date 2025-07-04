@@ -24,6 +24,8 @@
     shortcomp = "holborne"
     categories = "[ag-dance]"
     motifs = "[]"
+    final = "d"
+    flats = 1
 
     % Unchanging:
     language = "instrumental"
