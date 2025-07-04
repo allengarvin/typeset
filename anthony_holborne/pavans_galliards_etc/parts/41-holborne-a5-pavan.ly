@@ -15,7 +15,7 @@ cantusXLI = \relative c'' {
         g2. a4 b g d'2 ~ | d d c b | a1 g2. a4 | b c d1 d2 | 
         c2. b4 a g g2 | a1 d2. c4 | b a g1 c2 ~ | c4 b a g2 fs8[ e] 
 
-        \ficta fs!2 \unficta | g4 a b g a b c a | b2 a4 b c2 b4 cs |
+        fs2 | g4 a b g a b c a | b2 a4 b c2 b4 cs |
         d2 b4 cs d2. c4 | b\breve 
     }
     \repeat volta 2 {
@@ -55,7 +55,7 @@ quintusXLI = \relative c' {
     \repeat volta 2 {
         c1 c2 b | c2. b8[ a] g4 a b g8[ f] | a2 a g d' ~ | d4 e fs g
 
-        a2. g8[ f] | e2 c b4 c d2 ~ | d4 \ficta cs8[ b] \unficta cs!2 d1 |
+        a2. g8[ f] | e2 c b4 c d2 ~ | d4 cs8[ b] cs2 d1 |
         d2 c d1 | d\breve
     }
     \repeat volta 2 {
