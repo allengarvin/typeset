@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.24.4"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -6,69 +6,74 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 14.5)
+#(set-global-staff-size 15.0)
 
 \header {
+    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
+    cksum = "3513af5a32c3a78d5cd312d2f394ff084237f2a6"
+    lastupdated = "2025-07-04"
+    originallyset = "2025-07-04"
+    \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Pavan"
-    language = "instrumental"
-    instrument = "Pavan (score)"
+    title = "Infernum"
+    subtitle = ""
+    subsubtitle = ""
+    instrument = "Infernum:  (score)"
+    headerspace = \markup { \vspace #2 }
+    shorttitle = "infernum"
+    shortcomp = "holborne"
+    categories = "[ag-dance,favorite]"
+    motifs = "[]"
 
     % Unchanging:
-    originallyset = "2018-06-30"
-    lastupdated = "2018-06-30"
-    categories = "[ag-dance]"
-    flats = 0
-    final = "g"
-    \include "include/distribution-header.ly"
-    cksum = "4eb85076a76cb67fc8caf2ed0243efd4d3eb9ecd"
+    language = "instrumental"
     tagline = #'f
 }
 
-\include "../parts/41-holborne-a5-pavan.ly"
+\include "../parts/21-holborne-a5-pavan.ly"
 
 \book {
-    \bookOutputName "41-holborne--pavan"
+    \bookOutputName "21-holborne--infernum-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #3
+                \override StaffGrouper.staff-staff-spacing.padding = #4.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusXLIincipitVoice
+                    \incipit \cantusXXIincipitVoice
                     \clef "treble"
                     \global
-                    \cantusXLI
+                    \cantusXXI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusXLIincipitVoice
+                    \incipit \altusXXIincipitVoice
                     \clef "treble"
                     \global
-                    \altusXLI
+                    \altusXXI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Quintus"
-                    \incipit \quintusXLIincipitVoice
+                    \incipit \quintusXXIincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintusXLI
+                    \quintusXXI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXLIincipitVoice
+                    \incipit \tenorXXIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorXLI
+                    \tenorXXI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusXLIincipitVoice
+                    \incipit \bassusXXIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusXLI
+                    \bassusXXI
                 >>
              >>
          >>
@@ -81,4 +86,3 @@
         }
     }   
 }
-

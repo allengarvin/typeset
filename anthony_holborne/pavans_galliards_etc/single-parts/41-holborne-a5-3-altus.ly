@@ -9,12 +9,12 @@
 
 \header {
     % Things that change per piece:
-    title = "41. Pavan"
-    instrument = "41. Pavan (altus)"
+    title = "Pavan"
+    instrument = "Pavan (altus)"
 
     % Things that change per part:
     partname = "Altus (part 2 of 5)"
-    instrument = "41. Pavan (altus)"
+    instrument = "Pavan (altus)"
 
     % Unchanging:
     originallyset = "2018-06-30"
