@@ -62,7 +62,7 @@ altusXIX = \relative c' {
 tenorXIXincipit = \relative c' {
     \clef "petrucci-c4"
     \key c \major
-    \time 4/4
+    \time 2/2
 
     g1
 }

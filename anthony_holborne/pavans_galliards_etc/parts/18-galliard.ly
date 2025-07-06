@@ -18,7 +18,6 @@ cantusXVIII = \relative c'' {
         d1 e2 ~ | e d2. c4 | b1 e2 | c1 f2 | d1 g2 | e2. g4 fs4 |
         g2. f4 e2 | f2. e4 d2 | c1 b2 | c1. | c1. 
     }
-    \bar "|."
 }
 
 quintusXVIII = \relative c' {
@@ -33,7 +32,6 @@ quintusXVIII = \relative c' {
     \repeat volta 2 {
     }
 
-    \bar "|."
 }
 
 altusXVIII = \relative c' {
@@ -47,7 +45,6 @@ altusXVIII = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 tenorXVIII = \relative c' {
@@ -61,12 +58,10 @@ tenorXVIII = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 bassusXVIII = \relative c' {
     \singleTime \time 3/2
-    \clef varbaritone
     \key c \major
 
     \repeat volta 2 {
@@ -75,7 +70,6 @@ bassusXVIII = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 cantusXVIIIincipitVoice = <<

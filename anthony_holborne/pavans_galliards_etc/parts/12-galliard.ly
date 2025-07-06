@@ -12,7 +12,6 @@ cantusXII = \relative c'' {
 
         e2 e2. d4 | c d e2 d | c1 b2 | a1 gs2 | a1.
     }
-    \bar "|."
 }
 
 quintusXII = \relative c' {
@@ -27,7 +26,6 @@ quintusXII = \relative c' {
     \repeat volta 2 {
     }
 
-    \bar "|."
 }
 
 altusXII = \relative c' {
@@ -41,7 +39,6 @@ altusXII = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 tenorXII = \relative c' {
@@ -55,12 +52,10 @@ tenorXII = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 bassusXII = \relative c' {
     \singleTime \time 3/2
-    \clef varbaritone
     \key c \major
 
     \repeat volta 2 {
@@ -69,7 +64,6 @@ bassusXII = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 cantusXIIincipitVoice = <<

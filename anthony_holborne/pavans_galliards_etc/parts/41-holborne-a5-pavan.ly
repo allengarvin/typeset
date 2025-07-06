@@ -30,7 +30,6 @@ cantusXLI = \relative c'' {
         d2. e8[ fs] g2 ~ | g4 f e d2 cs8[ b] cs2 | d2. c4 b2 d | c b a1 |
         b\longa*1/2 |
     }
-    \bar "|."
 }
 
 quintusXLIincipit = \relative c' {
@@ -63,7 +62,6 @@ quintusXLI = \relative c' {
 
         c4 a e'1 | a,2 d2. c4 b a | g2 g a1 | g\longa*1/2 |
     }
-    \bar "|."
 }
 
 altusXLIincipit = \relative c' {
@@ -96,7 +94,6 @@ altusXLI = \relative c' {
         g2 a2. g4 g2 ~ | g4 fs8[ e] fs2 g2. f4 | e f g e fs g2 fs4 | 
         g\longa*1/2
     }
-    \bar "|."
 }
 
 tenorXLIincipit = \relative c' {
@@ -131,7 +128,6 @@ tenorXLI = \relative c' {
         fs4 g a2 b2. c8[ d] | e2 e,4 fs g1 | a2 a g1 | a2 d d1 | 
         d\longa*1/2
     }
-    \bar "|."
 }
 
 bassusXLIincipit = \relative c {
@@ -161,7 +157,6 @@ bassusXLI = \relative c {
         g1 d | c g | a2 b c g | d'1 b2 g | c2. c4 e1 | d g,2 b | c g d'1 | 
         g,\longa*1/2
     }
-    \bar "|."
 }
 
 cantusXLIincipitVoice = <<

@@ -17,7 +17,6 @@ cantusX = \relative c'' {
 
         f'2 ef c | d2. c4 bf a | g1 fs2 | g1.     
     }
-    \bar "|."
 }
 
 quintusX = \relative c' {
@@ -32,7 +31,6 @@ quintusX = \relative c' {
     \repeat volta 2 {
     }
 
-    \bar "|."
 }
 
 altusX = \relative c' {
@@ -46,7 +44,6 @@ altusX = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 tenorX = \relative c' {
@@ -60,12 +57,10 @@ tenorX = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 bassusX = \relative c' {
     \singleTime \time 3/2
-    \clef varbaritone
     \key f \major
 
     \repeat volta 2 {
@@ -74,7 +69,6 @@ bassusX = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 cantusXincipitVoice = <<

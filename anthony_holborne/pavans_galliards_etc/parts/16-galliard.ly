@@ -21,7 +21,6 @@ cantusXVI = \relative c'' {
 
         d c | bf2. c4 a bf | c2. bf4 bf a | g f g1 | f1.
     }
-    \bar "|."
 }
 
 quintusXVI = \relative c' {
@@ -36,7 +35,6 @@ quintusXVI = \relative c' {
     \repeat volta 2 {
     }
 
-    \bar "|."
 }
 
 altusXVI = \relative c' {
@@ -50,7 +48,6 @@ altusXVI = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 tenorXVI = \relative c' {
@@ -64,12 +61,10 @@ tenorXVI = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 bassusXVI = \relative c' {
     \singleTime \time 3/2
-    \clef varbaritone
     \key f \major
 
     \repeat volta 2 {
@@ -78,7 +73,6 @@ bassusXVI = \relative c' {
     }
     \repeat volta 2 {
     }
-    \bar "|."
 }
 
 cantusXVIincipitVoice = <<
