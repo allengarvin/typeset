@@ -5,7 +5,7 @@
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
-\include "../include/layout-parts.ly"
+\include "../include/vocal-layout-parts-barring.ly"
 
 #(set-global-staff-size 19.2)
 
@@ -15,7 +15,7 @@
     instrument = "Passacaille (violin II)"
 
     % Things that change per part:
-    partname = "Violin I (part 2 of 5)"
+    partname = "Violin II (part 2 of 5)"
 
     % Unchanging:
     originallyset = "2013-04-16"
@@ -31,8 +31,8 @@
 \include "../parts/05-basse.ly"
     
 \book {
-    \bookOutputName "01-passacaille"
-    \bookOutputSuffix "--2-violin-1-tr_clef"
+    \bookOutputName "01-lully--passacaille"
+    \bookOutputSuffix "--2-violin-2-tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
@@ -43,6 +43,6 @@
         \header {
             partname = "Violin II"
         }
-     %   \include "../include/layout-parts.ly"
+     %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }

@@ -32,7 +32,7 @@
 \include "../parts/05-basse.ly"
     
 \book {
-    \bookOutputName "01-passacaille"
+    \bookOutputName "01-lully--passacaille"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -75,7 +75,7 @@
                 >>
             >>
         >>
-        \include "../include/layout-score.ly"
+        \include "../include/vocal-layout-score-barring.ly"
         \midi {
             \context {
                 \Score

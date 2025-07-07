@@ -5,7 +5,7 @@
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
-\include "../include/layout-parts.ly"
+\include "../include/vocal-layout-parts-barring.ly"
 
 #(set-global-staff-size 19.2)
 
@@ -31,7 +31,7 @@
 \include "../parts/05-basse.ly"
     
 \book {
-    \bookOutputName "01-passacaille"
+    \bookOutputName "01-lully--passacaille"
     \bookOutputSuffix "--4-viola-2-tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -43,12 +43,12 @@
         \header {
             partname = "Viola II"
         }
-     %   \include "../include/layout-parts.ly"
+     %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
 
 \book {
-    \bookOutputName "01-passacaille"
+    \bookOutputName "01-lully--passacaille"
     \bookOutputSuffix "--4-viola-2-al_clef"
     \include "../include/paper-1-part.ly"
     \score {
@@ -60,6 +60,6 @@
         \header {
             partname = "Viola II"
         }
-     %   \include "../include/layout-parts.ly"
+     %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
