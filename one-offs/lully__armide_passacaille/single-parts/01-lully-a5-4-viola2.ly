@@ -32,7 +32,7 @@
     
 \book {
     \bookOutputName "01-lully--passacaille"
-    \bookOutputSuffix "--4-viola-2-tr8_clef"
+    \bookOutputSuffix "--4-viola_2-tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
@@ -49,7 +49,7 @@
 
 \book {
     \bookOutputName "01-lully--passacaille"
-    \bookOutputSuffix "--4-viola-2-al_clef"
+    \bookOutputSuffix "--4-viola_2-al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
