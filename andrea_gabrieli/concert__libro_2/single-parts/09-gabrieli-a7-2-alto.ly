@@ -43,4 +43,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
-
+    
+\book {
+    \bookOutputName "09-gabrieli--io_mi_sento_morire"
+    \bookOutputSuffix "--3-alto--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef alto
+            \global 
+            \altoIX
+        >>
+        \addlyrics { \altoLyricsIX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

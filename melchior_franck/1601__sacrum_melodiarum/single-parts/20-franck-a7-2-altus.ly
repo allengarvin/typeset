@@ -35,6 +35,21 @@
 
 \book {
     \bookOutputName "20-franck--tristis_est_anima_mea-"
+    \bookOutputSuffix "--2-altus--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \altusXX
+        >>
+                \addlyrics { \altusLyricsXX }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "20-franck--tristis_est_anima_mea-"
     \bookOutputSuffix "--2-altus--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {

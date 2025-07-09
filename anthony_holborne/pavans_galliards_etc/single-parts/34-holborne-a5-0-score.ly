@@ -10,21 +10,21 @@
 
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
-    cksum = "56f1998636985cc0f292748252bb4c13cb3e4607"
+    cksum = "291ad1041a817bcc137d6fa7be737fd9408f595a"
     lastupdated = "2025-07-08"
     originallyset = "2025-07-08"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Galliard"
+    title = "Muy linda"
     subtitle = ""
     subsubtitle = ""
-    instrument = "Galliard:  (score)"
+    instrument = "Muy linda:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "galliard"
+    shorttitle = "muy_linda"
     shortcomp = "holborne"
+    categories = "[ag-dance]"
     final = "g"
     flats = 1
-    categories = "[ag-dance]"
     motifs = "[]"
 
     % Unchanging:
@@ -32,10 +32,10 @@
     tagline = #'f
 }
 
-\include "../parts/32-holborne-a5-galliard.ly"
+\include "../parts/34-holborne-a5-galliard.ly"
 
 \book {
-    \bookOutputName "32-holborne--galliard-"
+    \bookOutputName "34-holborne--muy_linda-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -44,38 +44,38 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusXXXIIincipitVoice
+                    \incipit \cantusXXXIVincipitVoice
                     \clef "treble"
                     \global
-                    \cantusXXXII
+                    \cantusXXXIV
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusXXXIIincipitVoice
+                    \incipit \altusXXXIVincipitVoice
                     \clef "treble"
                     \global
-                    \altusXXXII
+                    \altusXXXIV
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Quintus"
-                    \incipit \quintusXXXIIincipitVoice
+                    \incipit \quintusXXXIVincipitVoice
                     \clef "treble"
                     \global
-                    \quintusXXXII
+                    \quintusXXXIV
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXXXIIincipitVoice
+                    \incipit \tenorXXXIVincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorXXXII
+                    \tenorXXXIV
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusXXXIIincipitVoice
+                    \incipit \bassusXXXIVincipitVoice
                     \clef "bass"
                     \global
-                    \bassusXXXII
+                    \bassusXXXIV
                 >>
              >>
          >>
