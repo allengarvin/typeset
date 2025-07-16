@@ -60,3 +60,19 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "43-willaert--quando_nascesti_amor-"
+    \bookOutputSuffix "--2-sesta--tr_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "treble"
+            \global 
+            \sestaXLIII
+        >>
+                \addlyrics { \sestaLyricsXLIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
