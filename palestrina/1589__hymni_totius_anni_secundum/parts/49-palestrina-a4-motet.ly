@@ -33,6 +33,110 @@
 % spiritui Sancto,
 % tribus honor unus. Amen.
 
+chantXLIX = \relative c' {
+    \key f \major
+  \omit Staff.TimeSignature
+  \omit Staff.BarLine
+  \omit Score.BarNumber
+  \set Score.proportionalNotationDuration = #(ly:make-moment 1/4)
+  \set Score.skipBars = ##t
+  \slurOff
+  \stemOff
+    g4 d'( e) c d( e) e( f g f e d c) d4.
+  \undo \omit Staff.BarLine
+    \bar "||"
+}
+
+amenXLIX = \relative c' {
+    \key f \major
+  \omit Staff.TimeSignature
+  \omit Staff.BarLine
+  \omit Score.BarNumber
+  \set Score.proportionalNotationDuration = #(ly:make-moment 1/4)
+  \set Score.skipBars = ##t
+  \slurOff
+  \stemOff
+    g4( a g) f( g4.)
+  \undo \omit Staff.BarLine
+    \bar "||"
+}
+
+amenLyricsXLIX = \lyricmode {
+    A -- men. __
+}
+
+cadenzaMeasure = {
+  \cadenzaOff
+  \partial 1024 s1024
+  \cadenzaOn
+}
+
+fullChantXLIX = \relative c' {
+    \key f \major
+  \omit Staff.TimeSignature
+  \omit Score.BarNumber
+  \set Score.proportionalNotationDuration = #(ly:make-moment 1/4)
+  \set Score.skipBars = ##t
+  \slurOff
+  \stemOff
+    \cadenzaOn
+    g4 d'( e) c d( e) e( f g f e d c) d4.
+        \cadenzaMeasure
+  %\undo \omit Staff.BarLine \bar "|" \omit Staff.BarLine
+    d4 d g,( a) c bf( a) g4.
+        \cadenzaMeasure
+    bf4 a c d d g,( a bf a g f) 
+        \cadenzaMeasure
+    a4 c a bf a g4.
+   \bar "||"
+}
+
+% extra syllable on monstra te
+fullChantXLIXb = \relative c' { 
+    \key f \major
+  \omit Staff.TimeSignature
+  \omit Score.BarNumber
+  \set Score.proportionalNotationDuration = #(ly:make-moment 1/4)
+  \set Score.skipBars = ##t
+  \slurOff
+  \stemOff
+    \cadenzaOn
+    g4 d'( e) c c d( e) e( f g f e d c) d4.
+        \cadenzaMeasure
+  %\undo \omit Staff.BarLine \bar "|" \omit Staff.BarLine
+    d4 d g,( a) c bf( a) g4.
+        \cadenzaMeasure
+    bf4 a c d d g,( a bf a g f) 
+        \cadenzaMeasure
+    a4 c a bf a g4.
+   \bar "||"
+}
+
+chantLyricsXLIX = \lyricmode {
+    A -- ve __ má -- ris __ stél -- la.
+}
+
+chantLyricsXLIXa = \lyricmode {
+    Sú -- mens __ il -- lud __ A -- ve 
+    Ga -- bri -- è -- lis o -- re,
+    fún -- da nos in pá -- ce, __
+    mú -- tans Hé -- væ no -- men.
+}
+
+chantLyricsXLIXb = \lyricmode {
+    Món -- stra __ te és -- se __ má -- trem
+    sú -- mat per te pre -- ces,
+    qui pro nó -- bis ná -- tus __
+    tú -- lit és -- se tú -- us.
+}
+
+chantLyricsXLIXc = \lyricmode {
+    Ví -- tam __ præ -- sta __ pú -- ram,
+    i -- ter pá -- ra tú -- tum,
+    ut vi -- dén -- tes Jé -- sum, __
+    sem -- per col -- læ -- té -- mur.
+}
+
 cantusXLIXincipit = \relative c'' {
     \clef "petrucci-g"
     \key f \major

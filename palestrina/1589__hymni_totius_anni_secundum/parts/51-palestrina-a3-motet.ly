@@ -32,7 +32,7 @@ cantusLI = \relative c'' {
 }
 
 cantusLyricsLI = \lyricmode {
-    Vir -- go sin -- gu -- la -- ris,
+    Vir -- go __ sin -- gu -- la -- ris,
     in -- ter __ om -- nes mi -- tis,
     nos cul -- pis so -- lu -- tos, __
     mi -- tes fac et ca -- stos,
