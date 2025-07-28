@@ -13,7 +13,6 @@ superiusXXincipit = \relative c'' {
 
 superiusXX = \relative c'' {
     \time 6/2
-    \clef soprano
     \key f \major
 
     r1 r2 g2 bf g | g1 a2 bf1 g2 | g1 r2 r1 r2 | g g a bf1( a2) | 
@@ -33,7 +32,6 @@ superiusLyricsXX = \lyricmode {
 
 superiusXXa = \relative c'' {
     \time 6/2
-    \clef soprano
     \key f \major
 
     g2 bf bf bf1 bf2 | c1 bf2 a1 r2 | g g g g1 a2 | a1 g2 fs1 r2 |
@@ -57,7 +55,6 @@ discantusXXincipit = \relative c' {
 
 discantusXX = \relative c' {
     \time 6/2
-    \clef alto
     \key bf \major
 
     c2 ef c c d ef ~ | ef4( d ef bf c2 d1) c2 | b1 r2 c c d | 
@@ -75,7 +72,6 @@ discantusLyricsXX = \lyricmode {
 
 discantusXXa = \relative c' {
     \time 6/2
-    \clef alto
     \key bf \major
 
     d2 d ef ef1 d2 | c2. a4( d2) d1 r2 | d ef ef d1 d2 | d2. c4( bf2) a1 r2 |
@@ -99,7 +95,6 @@ contratenorXXincipit = \relative c' {
 
 contratenorXX = \relative c' {
     \time 6/2
-    \clef alto
     \key f \major
 
     r1 r2 g g g | c bf2. a4( g f g2) g | g1 r2 g g f | ef g c bf2. g4( d') c |
@@ -116,7 +111,6 @@ contratenorLyricsXX = \lyricmode {
 
 contratenorXXa = \relative c' {
     \time 6/2
-    \clef alto
     \key f \major
 
     bf2 bf bf bf1 bf2 | a1 g2 a1 r2 | bf bf g2. a4( bf2) a | a1 d2 d1 r2 |
@@ -140,7 +134,6 @@ tenorXXincipit = \relative c {
 
 tenorXX = \relative c {
     \time 6/2
-    \clef tenor
     \key bf \major
 
     r1 r2 ef d c | g'2. f4 ef2 d1 ef2 | d1 r2 ef g a | bf1( a2) g1( f2) |
@@ -156,7 +149,6 @@ tenorLyricsXX = \lyricmode {
 
 tenorXXa = \relative c' {
     \time 6/2
-    \clef tenor
     \key f \major
 
     g2 g g g1 f2 | f1 d2 fs1 r2 | g g bf bf4.( a8 g2) d | f1 d2 d1 r2 |
@@ -180,7 +172,6 @@ bassusXXincipit = \relative c {
 
 bassusXX = \relative c {
     \time 6/2
-    \clef bass
     \key bf \major
 
     r1. c2 g c | ef2. d4 c2 bf g c | g1 r2 c ef f | g ef f g1 d2 |
@@ -196,7 +187,6 @@ bassusLyricsXX = \lyricmode {
 
 bassusXXa = \relative c {
     \time 6/2
-    \clef bass
     \key bf \major
 
     g'2 g ef ef1 bf2 | f1 g2 d'1 r2 | g ef ef g1 fs2 | d1 g,2 d'1 r2 | 

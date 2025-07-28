@@ -4,8 +4,8 @@
 % tuoi santi piedi, e mia durezza frango.
 % Non consentir, che tra le spine e 'l fango
 % della palude, in ch'io m'affondo e pungo,
-% m'annotti: ohimè, quant'egli è stato lungo
-% quest'error mio, né pur me ne rimango!
+% mi giungan l'ombre: ohimè, quanto egli è lungo
+% questo error mio, né pur me ne rimango!
 % 
 % Sin qui non trovo, ch'orma delle mie
 % stampi la strada tua, che par sì alpestra,
@@ -24,8 +24,8 @@ cantoIincipit = \relative c'' {
     g1
 }
 
+% canto: checked against source
 cantoI = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 
@@ -38,7 +38,7 @@ cantoI = \relative c'' {
     a2 bf1 a2 | r1 r2 r4 e' | d2 c d1 ~ | d2 e c1 ~ | c2 b b cs | d e c1 |
         a2. a4 c1 | c r1 | 
 
-    R\breve*2 | r1 g'  | g2 f1 e2 ~ | e d1 c2 | f1 e | r1 a, | bf2 d cs1 |
+    R\breve*2 | r1 g' ~ | g2 f1 e2 ~ | e d1 c2 | f1 e | r1 a, | bf2 d cs1 |
         r1 r2 a | g bf a r4 e' | e2 f e 
 
     e2 | d1 e2 r2 | r4 a, a2 g f2 ~ | f4( e8[ d] e2) f r4 c' ~ | 
@@ -47,16 +47,30 @@ cantoI = \relative c'' {
     e1 | r1 r4 g g2 | e \colorBr d2.\colorBrBegin c4\colorBrEnd c2 |
         d e2. f4 g2 | c,1 r1 | r1 r2 e ~ | e f cs d ~ | d c a f | 
 
-    fs2 fs d1 ~ | d d | R\breve | c'1. gs2 | b1 c | d2 e1 e2 | e1 e2 c ~ |
-        c b c c | 
-        e2 d
+    fs2 fs d1 ~ | d d | R\breve | c'1. gs2 b1 c | d2 e1 e2 | e1 e2 c ~ | 
+        c( b2) c c | 
+        \invisibleTime\time 6/2 s1*0 \raisedSixTwoTime
+        e2 d 
 
-    c2 c c1
-        c\longa*1/2
+    c2 c c1 
+        \invisibleTime\time 4/2 c\longa*1/2
     \bar "|."
 }
 
 cantoLyricsI = \lyricmode {
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go,
+    Che trop -- po dal tuo re -- gno mi di -- lun -- go,
+    Gra -- di -- sci~il pian -- to,
+    Gra -- di -- sci~il pian -- to,
+    Gra -- di -- sci~il pian -- t'on -- d'og -- g'io la -- vo~ed un -- go
+    Tuoi san -- ti pie -- di, e __ mia du -- rez -- za fran -- go.
+    Non con -- sen -- tir,
+    Non con -- sen -- tir, che tra le spi -- n'e'l fan -- go
+    Del -- la pa -- lu -- de, in __ ch'io m'af -- fon -- do~e pun -- go,
+    Mi giun -- gan l'om -- bre~ohi -- mè, quan -- to~e -- gli~è lun -- go
+    Que -- sto~er -- ror mio, __ né pur me ne ri -- man -- go,
+    Que -- sto~er -- ror mio, né pur me ne ri -- man -- go,
+        né pur me ne ri -- man -- go!
 }
 
 altoIincipit = \relative c' {
@@ -67,15 +81,16 @@ altoIincipit = \relative c' {
     e1.
 }
 
+% alto: checked against source
 altoI = \relative c' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCutTime
 
     e1. f2 | d1 \ficta bf'\unficta | R\breve | r1 r2 a, | a a c1 ~ | 
         c2 c \[ c1( | d) \] e2 g | g4 f
 
-    e4 d e2. f4 | g2 g a1 ~ | a g ~ | g2 e a a | a1 g2 g ~ | g d f d | d1 c |
+                                                            % vv d2 to e2
+    e4 d e2. f4 | g2 g a1 ~ | a g ~ | g2 e a a | a1 g2 g ~ | g e f d | d1 c |
         R\breve | r2 c g'1 | 
 
     fs2 g1 fs2 | R\breve*2 | r2 g a a | d,1 e | a2. a4 a2 g | f1 e2. e4 |
@@ -84,18 +99,33 @@ altoI = \relative c' {
     f1 e | d1. c2 | f1 e | r1 a | g2 bf a r4 a | d,2 g fs r4 c' | 
         cs2 d g, g | g1
 
-    g2 g | f4 e f2 d r2 | R\breve*3 | r2 g g e | 
+    g2 g | f4 e f2 d r2 | R\breve*2 R\breve | r2 g g e | 
         \colorBr d2.\colorBrBegin d4\colorBrEnd e2 c | e4. f8 g1 e2 |
-        R\breve*2 | r1 a |
+        R\breve R | r1 a |
 
-    cs,2 d e d | e2. e4 e2 bf' | a1 g | R\breve*2 | r2 e gs1 | a1. g2 ~ |
-        g4( f e d e1 ~ | e2) f d1 | 
+    cs,2 d e d | e2. e4 e2 bf' | a1 g | R\breve*2 | r1 r2 e | gs1 a1 ~ | 
+        a2 g2.( f4 e d | e1.) f2 | d1 
 
-    c2 g'1 g2 | \[ g1( a) \] | g\longa*1/2
+    c2 g' ~ | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g2 g2 \[ g1( a) \] 
+        \invisibleTime\time 4/2 g\longa*1/2
     \bar "|."
 }
 
 altoLyricsI = \lyricmode {
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go,
+    Che trop -- po dal tuo re -- gno mi di -- lun -- go, __
+    Che trop -- po dal tuo re -- gno mi di -- lun -- go,
+    Gra -- di -- sci~il pian -- to,
+    Gra -- di -- sci~il pian -- t'on -- d'og -- g'io la -- vo~ed un -- go
+    Tuoi san -- ti pie -- di, e mia du -- rez -- za fran -- go.
+    Non con -- sen -- tir,
+    Non con -- sen -- tir, che tra le spi -- n'e'l fan -- go
+    Del -- la pa -- lu -- de, % in ch'io m'af -- fon -- do~e pun -- go,
+    Mi giun -- gan l'om -- bre~ohi -- mè, quan -- to~e -- gli~è lun -- go
+    Que -- sto~er -- ror mio, né pur me ne ri -- man -- go,
+    Que -- sto~er -- ror __ mio, __ né pur me ne __ ri -- man -- go!
 }
 
 tenoreIincipit = \relative c' {
@@ -106,8 +136,8 @@ tenoreIincipit = \relative c' {
     g1.
 }
 
+% tenore: checked against source
 tenoreI = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -132,12 +162,27 @@ tenoreI = \relative c' {
         R\breve | a1 cs,2 d | cs2. d4 bf1 | a2 g a1 | 
     
     bf1 a | R\breve | r1 c | f2 e2.( d8[ c] b2) | gs1 a2 a' | d, g2.( f4 e d |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         c2) g c\breve
-        c\longa*1/2
+        \invisibleTime\time 4/2 c\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsI = \lyricmode {
+    Pa -- dre __ del ciel, 
+    Pa -- dre del ciel, __ poi -- ch'io m'av -- veg -- gio~e pian -- go,
+    Che trop -- po dal tuo re -- gno mi di -- lun -- go,
+    Che trop -- po dal tuo re -- gno mi di -- lun -- go,
+    Gra -- di -- sci~il pian -- to,
+    Gra -- di -- sci~il pian -- t'on -- d'og -- g'io la -- vo~ed un -- go
+    Tuoi san -- ti pie -- di, e mia __ du -- rez -- za fran -- go.
+    Non con -- sen -- tir,
+    Non con -- sen -- tir, che tra le spi -- n'e'l fan -- go
+    Del -- la pa -- lu -- de, in ch'io m'af -- fon -- do~e pun -- go,
+    Mi giun -- gan l'om -- bre~ohi -- mè, quan -- to~e -- gli~è lun -- go
+    Que -- sto~er -- ror mio, né pur me ne ri -- man -- go,
+    Que -- sto~er -- ror __ mio, né pur me ne __ ri -- man -- go!
+%        né pur me ne ri -- man -- go!
 }
 
 bassoIincipit = \relative c {
@@ -148,8 +193,8 @@ bassoIincipit = \relative c {
     c1.
 }
 
+% basso: checked against source
 bassoI = \relative c {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
@@ -172,12 +217,28 @@ bassoI = \relative c {
         g2 c, c' b | a\breve ~ a | a | a1. bf2 | fs1 g | d\breve | g2. g4 
 
     f2 d | a'1 e | r1 f1 ~ | f2 c2 e1 ~ | e a1 | g c1 ~ | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         c2 b2 c c, f1 
-        c\longa*1/2
+        \invisibleTime\time 4/2 c\longa*1/2
     \bar "|."
 }
 
 bassoLyricsI = \lyricmode {
+    Pa -- dre __ del ciel, 
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go, __
+    Che trop -- po dal tuo re -- gno,
+    Che trop -- po dal tuo re -- gno mi di -- lun -- go,
+    Gra -- di -- sci~il pian -- to,
+    Gra -- di -- sci~il pian -- to,
+    Gra -- di -- sci~il pian -- t'on -- d'og -- g'io la -- vo~ed un -- go
+    Tuoi san -- ti pie -- di, e mia du -- rez -- za fran -- go.
+    Non con -- sen -- tir,
+    Non con -- sen -- tir, che tra le spi -- n'e'l fan -- go
+    Del -- la pa -- lu -- de, in ch'io m'af -- fon -- do~e pun -- go,
+    Mi giun -- gan l'om -- bre~ohi -- mè, quan -- to~e -- gli~è lun -- go
+    Que -- sto~er -- ror mio, né pur me ne ri -- man -- go,
+    Que -- sto~er -- ror __ mio, né pur __ me ne ri -- man -- go!
+%        né pur me ne ri -- man -- go!
 }
 
 quintoIincipit = \relative c' {
@@ -188,8 +249,8 @@ quintoIincipit = \relative c' {
     c\breve
 }
 
+% quinto: checked against source
 quintoI = \relative c' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCutTime
 
@@ -211,15 +272,32 @@ quintoI = \relative c' {
         e4 c\colorBrEnd d2 e4.( f8 g4) a | d,2 g2.( c,4 d e |
 
     f4 g a1.) | a1 r1 | R\breve*2 | r2 a bf1 | fs2 g1 f2 | d e f f |
-        e\breve | e1 r1 | R\breve | c2. c4 g'2 g ~ | g2 g
+        e\breve | e1 r1 | R\breve | r1 c2. c4 | g'2 g1 g2 |
 
-    e4 c d2 | e1 a, | e'\longa*1/2
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+    e4 c d2 e1 a, 
+        \invisibleTime\time 4/2 e'\longa*1/2
 
         
     \bar "|."
 }
 
 quintoLyricsI = \lyricmode {
+    Pa -- dre del ciel,
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go,
+    Che trop -- po dal tuo re -- gno,
+    Che trop -- po dal tuo re -- gno mi di -- lun -- go,
+    Che trop -- po dal tuo re -- gno mi di -- lun -- go,
+%    Gra -- di -- sci~il pian -- to,
+%    Gra -- di -- sci~il pian -- to,
+    Gra -- di -- sci~il pian -- to on -- d'og -- g'io la -- vo~ed un -- go
+    Tuoi san -- ti pie -- di, e mia du -- rez -- za fran -- go.
+%    Non con -- sen -- tir,
+    Non con -- sen -- tir, che tra le spi -- n'e'l fan -- go
+    Del -- la pa -- lu -- de, in ch'io m'af -- fon -- do~e pun -- go,
+    Mi giun -- gan l'om -- bre~ohi -- mè, quan -- to~e -- gli~è lun -- go
+    Que -- sto~er -- ror mio, né pur me ne ri -- man -- go,
+    Que -- sto~er -- ror mio, né pur me ne ri -- man -- go!
 }
 
 sestoIincipit = \relative c'' {
@@ -230,13 +308,13 @@ sestoIincipit = \relative c'' {
     g1
 }
 
+% sesto: checked against source
 sestoI = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 
     R\breve | r1 g | c2 a d1 | d2 d1 c2 | a1 g | f4( g a b c1 ~ | c2 b) c1 ~ |
-        c r1 | R\breve*2 | 
+        c r1 | R\breve R | 
 
     r2 c1 f2 ~ | f4 e d2 d g ~ | g e f2.( e4 | d2) d \[ e1( | d) \] c ~ | 
         c r1 | r2 d d1 | e2 f1 e2 | r1 r2 g | 
@@ -255,12 +333,27 @@ sestoI = \relative c'' {
 
     r1 r2 g, | a bf a1 ~ | a2 g a1 | a r1 | R\breve | r2 c1 gs2 | 
         b1 c | d e2. f4 |
-        g2. e4 f1
-        e\longa*1/2
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g1. e2 f1
+        \invisibleTime\time 4/2 e\longa*1/2
     \bar "|."
 }
 
 sestoLyricsI = \lyricmode {
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go, __
+    Che trop -- po dal tuo re -- gno mi __ di -- lun -- go, __
+    Gra -- di -- sci~il pian -- to,
+%    Gra -- di -- sci~il pian -- to,
+    Gra -- di -- sci~il pian -- t'on -- d'og -- g'io la -- vo~ed un -- go
+    Tuoi san -- ti pie -- di, e __ mia du -- rez -- za fran -- go,
+        e mia du -- rez -- za fran -- go.
+%    Non con -- sen -- tir,
+    Non con -- sen -- tir, che tra le spi -- n'e'l fan -- go
+    Del -- la __ pa -- lu -- de~in ch'io m'af -- fon -- do~e pun -- go,
+    Mi giun -- gan l'om -- bre~ohi -- mè, quan -- to~e -- gli~è lun -- go
+    Que -- sto~er -- ror mio, né pur me ne ri -- man -- go,
+        né pur me ne __ ri -- man -- go,
+    Que -- sto~er -- ror mio, né pur me ne ri -- man -- go!
 }
 
 cantoIincipitVoice = <<
