@@ -1,3 +1,9 @@
+% Sin qui non trovo ch'orma delle mie
+% stampi la strada tua, che par sì alpestra,
+% e son del giorno omai più in là, che a terza.
+% Prima ch'asseri o più lontan travie,
+% rimenami al cammin della man destra,
+% col raggio, Signor mio, non con la sferza.
 cantoIIincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
@@ -6,8 +12,8 @@ cantoIIincipit = \relative c'' {
     g1.
 }
 
+% canto: checked against source
 cantoII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 
@@ -28,6 +34,16 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
+    Sin qui non tro -- vo ch'or -- ma del -- le mi -- e
+    Stam -- pi la stra -- da tua, che __ par sì~al -- pe -- stra,
+    E son del gior -- no~o -- mai più'n là, ch'a ter -- za.
+    Pri -- ma ch'as -- ser -- ri o più lon -- tan tra -- vi -- e,
+    Ri -- me -- na -- mi~al cam -- min,
+    Ri -- me -- na -- mi~al cam -- min del -- la man de -- stra
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+        non con la sfer -- za,
+        non con la sfer -- za.
 }
 
 altoIIincipit = \relative c' {
@@ -38,8 +54,8 @@ altoIIincipit = \relative c' {
     d1
 }
 
+% alto: checked against source
 altoII = \relative c' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCutTime
 
@@ -55,13 +71,26 @@ altoII = \relative c' {
         r2 r4 c d e g2 | 
 
     g2 g a4. g8 a4 b | c1 r1 | R\breve | r2 c c b | c g r1 | r1 r2 d | 
-        e4 g g2 g 
+        e4 f g2 g 
 
     g2 ~ | g a1 g2 | a\breve | g\longa*1/2
     \bar "|."
 }
 
 altoLyricsII = \lyricmode {
+    Sin qui,
+    Sin qui non tro -- vo ch'or -- ma del -- le mi -- e
+    Stam -- pi la stra -- da tua, che par sì~al -- pe -- stra,
+        che par __ sì~al -- pe -- stra,
+    E son del gior -- no~o -- mai più'n là, ch'a ter -- za.
+    Pri -- ma ch'as -- ser -- ri~o più lon -- tan tra -- vi -- e,
+    Ri -- me -- na -- mi~al cam -- min,
+%    Ri -- me -- na -- mi~al cam -- min del -- la man de -- stra
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+        non con la sfer -- za,
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+        non con la sfer -- za,
+        non __ con la sfer -- za.
 }
 
 tenoreIIincipit = \relative c' {
@@ -72,8 +101,8 @@ tenoreIIincipit = \relative c' {
     c1
 }
 
+% tenore: checked against source
 tenoreII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -97,6 +126,20 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
+    Sin __ qui non tro -- vo ch'or -- ma del -- le mi -- e
+    Stam -- pi la stra -- da tua, che par sì~al -- pe -- stra,
+    E son del gior -- no~o -- mai più'n là, ch'a ter -- za.
+%    Pri -- ma ch'as -- ser -- ri 
+        o più lon -- tan tra -- vi -- e,
+    Ri -- me -- na -- mi~al cam -- min,
+    Ri -- me -- na -- mi~al cam -- min,
+    Ri -- me -- na -- mi~al cam -- min del -- la man de -- stra
+    Col rag -- gio, Si -- gnor mio, non con __ la sfer -- za,
+    Col rag -- gio, Si -- gnor mio,
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+        non con la sfer -- za,
+        non con la sfer -- za,
+        non con __ la sfer -- za.
 }
 
 bassoIIincipit = \relative c' {
@@ -107,15 +150,15 @@ bassoIIincipit = \relative c' {
     g1
 }
 
+% basso: checked against source
 bassoII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
     g1 c2 a | d1 c2 c, | f d g1 | d e2. e4 | e2 e a1 | e r1 | r1 
 
     r2 f | c'1. d2 | \[ e1( d) \] | e1 r1 | r1 g, | f1. g2 | a1 g |
-        R\breve*3 | g1 c,2 f | d d a'2. g4 | f2 f
+        R\breve R\breve*2 | g1 c,2 f | d d a'2. g4 | f2 f
 
     c'2.( b4 | a g a2) e1 ~ | e r2 a | d cs d e | f r2 r1 | r1 r2 d, |
         g fs g a | b c d e |
@@ -129,6 +172,19 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
+    Sin qui non tro -- vo,
+    Sin qui non tro -- vo ch'or -- ma del -- le mi -- e
+%    Stam -- pi la stra -- da tua, 
+        che par sì~al -- pe -- stra,
+        che par sì~al -- pe -- stra,
+%    E son del gior -- no~o -- mai più'n là, ch'a ter -- za.
+    Pri -- ma ch'as -- ser -- ri~o più lon -- tan tra -- vi -- e, __
+    Ri -- me -- na -- mi~al cam -- min,
+    Ri -- me -- na -- mi~al cam -- min del -- la man de -- stra
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+        non con la sfer -- za,
+        non con la sfer -- za.
 }
 
 quintoIIincipit = \relative c'' {
@@ -139,8 +195,8 @@ quintoIIincipit = \relative c'' {
     g2
 }
 
+% quinto: checked against source
 quintoII = \relative c'' {
-    \clef mezzosoprano
     \key c \major
     \fourTwoCutTime
 
@@ -148,7 +204,7 @@ quintoII = \relative c'' {
         a4 gs8[ fs] gs!2\melfiEnd a1 | 
 
     r1 r2 a ~ | a g1 f2 | g\breve | a1 r2 d, | f1 d | a'1. b2 | c1. b2 |
-        R\breve*2 | r1 r2 c, ~ | c4 b b2 c1 | d2 d1 c2 | 
+        R\breve R | r1 r2 c, ~ | c4 b b2 c1 | d2 d1 c2 | 
 
     f2 f e2.( d4 | c2) c r2 e | e2. e4 e2 e | f e r1 | r2 a, d cs | 
         d e fs2. fs4 | 
@@ -158,11 +214,26 @@ quintoII = \relative c'' {
     g4 c, d2 | e1 r1 | r2 e f4. g8 f4 f | g2 e e c | \[ e1( d) \] |
         c2 r4 g' g2 g | g1
 
-    g2 g | g e d1 | c2 c d e | \[ a,1. f'2 ~ | f( e4 d) e\longa*1/2
+    g2 g | g e d1 | c2 c d e | \[ a,1.( f'2 ~ | f \] e4 d) e\longa*1/4
     \bar "|."
 }
 
 quintoLyricsII = \lyricmode {
+    Sin qui non tro -- vo ch'or -- ma del -- le mi -- e
+%    Stam -- pi la stra -- da tua, 
+        che __ par sì~al -- pe -- stra,
+        che par,
+        che par sì~al -- pe -- stra,
+%    E son del gior -- no~o -- mai più'n là, ch'a ter -- za.
+    Pri -- ma ch'as -- ser -- ri~o più lon -- tan tra -- vi -- e,
+        o più lon -- tan tra -- vi -- e,
+    Ri -- me -- na -- mi~al cam -- min,
+    Ri -- me -- na -- mi~al cam -- min del -- la man de -- stra
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+        non con la sfer -- za,
+        non con la sfer -- za,
+        non con la sfer -- za.
 }
 
 sestoIIincipit = \relative c'' {
@@ -173,8 +244,8 @@ sestoIIincipit = \relative c'' {
     b1
 }
 
+% sesto: checked against source
 sestoII = \relative c'' {
-    \clef treble
     \key c \major
     \fourTwoCutTime
 
@@ -199,6 +270,20 @@ sestoII = \relative c'' {
 }
 
 sestoLyricsII = \lyricmode {
+    Sin qui non tro -- vo,
+    Sin qui non tro -- vo ch'or -- ma del -- le mi -- e
+    Stam -- pi la stra -- da tua, che __ par sì~al -- pe -- stra,
+    E son del gior -- no~o -- mai più'n là, ch'a ter -- za.
+    Pri -- ma ch'as -- ser -- ri~o più lon -- tan tra -- vi -- e, __
+        o più lon -- tan tra -- vi -- e,
+    Ri -- me -- na -- mi~al cam -- min,
+    Ri -- me -- na -- mi~al cam -- min del -- la man de -- stra
+    Col rag -- gio, Si -- gnor mio,
+    Col rag -- gio, Si -- gnor mio, non con __ la sfer -- za,
+    Col rag -- gio, Si -- gnor mio, non con la sfer -- za,
+        non con la sfer -- za,
+        non con la sfer -- za,
+        non con la sfer -- za.
 }
 
 cantoIIincipitVoice = <<

@@ -1,4 +1,4 @@
-% Padre del ciel, poiché io m'avveggio e piango,
+% Padre del ciel, poiché io m'avveggio e piango
 % che troppo dal tuo regno mi dilungo,
 % gradisci il pianto, ond'oggi io lavo ed ungo
 % tuoi santi piedi, e mia durezza frango.
@@ -7,14 +7,51 @@
 % mi giungan l'ombre: ohimè, quanto egli è lungo
 % questo error mio, né pur me ne rimango!
 % 
-% Sin qui non trovo, ch'orma delle mie
+% Sin qui non trovo ch'orma delle mie
 % stampi la strada tua, che par sì alpestra,
 % e son del giorno omai più in là, che a terza.
-% Prima ch'asseri o più lontan travie,
-% rimenami al cammin della man destra,
+% Prima ch'asserri o più lontan travie,
+% rimenami al cammin della man destra
 % col raggio, Signor mio, non con la sferza.
 % 
 % Luigi Tansillo
+
+% Avveggio: probably an alternative veggiare, which is alternative vegliare
+% (to watch over, to take care of)
+%       OOPS wrong. GDLI says avvedersi (florio avedere: perceive, be aware)
+% dilungo: dilungare (archaic) to extend, stretch out
+%    Florio (dilongare): to lengthen; to send far off, or to prolongue
+% ungo: ungere (usually to oil or lubricate), but here "annoint"
+% frango (frangere): 
+% 1)   to break, to press, to crush
+% 2) to transgress
+% 3) to weaken
+% fango: mud, mire
+% palude: marsh, fen, swamp, bog
+% affondo (affondare) to sink, to submerge, to founder
+% pungo (pungere): to prick, to sting, to prickle or scratch
+% 
+% alpestra: rocky, mountainous
+% 
+% travie: might be a variant of traviare (to detour, to lead astray)
+% rimenami: imperative rimenare (to lead, bring back) + mi
+% sferza: lash, whip
+
+% Heavenly Father, now that I perceive and weep
+% how far from your kingdom I have wandered,
+% accept my tears, with which today I cleanse and annoint
+% your sacred feet, and [with which] I break my stubbornness.
+% Do not let me, here amidst the thorns and the mire
+% of the swamp, in which I founder and which prick me,
+% reach the darkness: Alas! how long it has endured,
+% this error of mine, nor yet have I turned from it.
+% 
+% Out here I find no tracks of my
+% steps on your road, which seems so mountainously steep,
+% and I am now past the hour of day that is terce.
+% Before I become entrenched, or stray yet further,
+% lead me back to your right-hand path
+% with your radiance, my Lord, not with your lash.
 
 cantoIincipit = \relative c'' {
     \clef "petrucci-g"
@@ -58,7 +95,7 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go,
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go
     Che trop -- po dal tuo re -- gno mi di -- lun -- go,
     Gra -- di -- sci~il pian -- to,
     Gra -- di -- sci~il pian -- to,
@@ -114,7 +151,7 @@ altoI = \relative c' {
 }
 
 altoLyricsI = \lyricmode {
-    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go,
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go
     Che trop -- po dal tuo re -- gno mi di -- lun -- go, __
     Che trop -- po dal tuo re -- gno mi di -- lun -- go,
     Gra -- di -- sci~il pian -- to,
@@ -170,7 +207,7 @@ tenoreI = \relative c' {
 
 tenoreLyricsI = \lyricmode {
     Pa -- dre __ del ciel, 
-    Pa -- dre del ciel, __ poi -- ch'io m'av -- veg -- gio~e pian -- go,
+    Pa -- dre del ciel, __ poi -- ch'io m'av -- veg -- gio~e pian -- go
     Che trop -- po dal tuo re -- gno mi di -- lun -- go,
     Che trop -- po dal tuo re -- gno mi di -- lun -- go,
     Gra -- di -- sci~il pian -- to,
@@ -225,7 +262,7 @@ bassoI = \relative c {
 
 bassoLyricsI = \lyricmode {
     Pa -- dre __ del ciel, 
-    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go, __
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go __
     Che trop -- po dal tuo re -- gno,
     Che trop -- po dal tuo re -- gno mi di -- lun -- go,
     Gra -- di -- sci~il pian -- to,
@@ -284,7 +321,7 @@ quintoI = \relative c' {
 
 quintoLyricsI = \lyricmode {
     Pa -- dre del ciel,
-    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go,
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go
     Che trop -- po dal tuo re -- gno,
     Che trop -- po dal tuo re -- gno mi di -- lun -- go,
     Che trop -- po dal tuo re -- gno mi di -- lun -- go,
@@ -340,7 +377,7 @@ sestoI = \relative c'' {
 }
 
 sestoLyricsI = \lyricmode {
-    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go, __
+    Pa -- dre del ciel, poi -- ch'io m'av -- veg -- gio~e pian -- go __
     Che trop -- po dal tuo re -- gno mi __ di -- lun -- go, __
     Gra -- di -- sci~il pian -- to,
 %    Gra -- di -- sci~il pian -- to,
