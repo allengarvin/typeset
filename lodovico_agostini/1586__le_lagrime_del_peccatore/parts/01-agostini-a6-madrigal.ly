@@ -20,8 +20,8 @@
 % (to watch over, to take care of)
 %       OOPS wrong. GDLI says avvedersi (florio avedere: perceive, be aware)
 % dilungo: dilungare (archaic) to extend, stretch out
-%    Florio (dilongare): to lengthen; to send far off, or to prolongue
-% ungo: ungere (usually to oil or lubricate), but here "annoint"
+%    Florio (dilongare): to lengthen; to send far off, or to prolong
+% ungo: ungere (usually to oil or lubricate), but here "anoint"
 % frango (frangere): 
 % 1)   to break, to press, to crush
 % 2) to transgress
