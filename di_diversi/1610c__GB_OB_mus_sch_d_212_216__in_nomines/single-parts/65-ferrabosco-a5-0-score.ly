@@ -20,7 +20,7 @@
     instrument = "In nomine:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_younger"
     composer = "Alfonso Ferrabosco II (c.1575-1628)"
     categories = "[in-nomine]"
     motifs = "[]"

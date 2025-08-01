@@ -15,7 +15,7 @@
     instrument = "Donna se voi m'odiate:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "donna_se_voi_modiate"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_elder"
     needtranslation = #'f
     folio = "Cesare Rinaldi (1559-1636)"
 

@@ -20,7 +20,7 @@
     instrument = "In nomine: VdGS a5 #3 (bassus I)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_younger"
     composer = "Alfonso Ferrabosco II (c.1575-1628)"
 
     % Things that change per part:

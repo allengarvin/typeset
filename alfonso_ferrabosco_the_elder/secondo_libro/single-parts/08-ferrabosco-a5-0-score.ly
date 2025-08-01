@@ -15,7 +15,7 @@
     instrument = "Signor, la vostra fiamma: Seconda parte: risposta (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "signor_la_vostra_fiamma"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_elder"
     needtranslation = #'t
 
     % Unchanging:

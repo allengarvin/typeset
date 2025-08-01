@@ -21,7 +21,7 @@
     instrument = "Ingemuit Susanna:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "ingemuit_susanna"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_elder"
     categories = "[]"
     motifs = "[]"
     needtranslation = #'t

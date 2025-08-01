@@ -15,7 +15,7 @@
     instrument = "Donna, l'ardente fiamma: Prima parte (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "donna_lardente_fiamma"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_elder"
     needtranslation = #'t
 
     % Unchanging:

@@ -7,14 +7,13 @@ cantusOneLXXVIIIincipit = \relative c'' {
 }
 
 cantusOneLXXVIII = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCutTime
 
     R\breve*2 | r1 r2 g ~ | g f g2. f4 | ef1 d2 d' | b c g'1 | r1 c, |
         d g,2 ef' ~ | ef4 d c2 f
 
-    f2 ~ | f ef d1 | c c2. bf4 | a g f2 g ef' | d1 r2 f | g2. c,4 d1 | 
+    f2 ~ | f ef d1 | c c2. bf4 | af g f2 g ef' | d1 r2 f | g2. c,4 d1 | 
         c c2 c ~ | c 
     
     bf2 a1 | g r2 g' ~ | g f g c, ~ | c a d1 | d2 d2. c4 g'2 ~ | 
@@ -49,8 +48,9 @@ cantusOneLXXVIII = \relative c'' {
     c2 b4 | a2 g r2 g'4. f8 | e4 d c2 g'4 f8[ e] d2 | e8[ d e f] e1 d4 c |
 
     d1 g4 g g8[ f g a] | g2 r4 g2 f8[ d] e2 ~ |
+        e4 d8[ c] d2. c4 c2 ~ | 
         \invisibleTime\time 6/2 s1*0\raisedSixTwoTime
-        e4 d8[ c] d2. c4 c1 b2 |
+        c2 b2 c\breve ~ 
         \invisibleTime\time 4/2 c\longa*1/2
 
     \bar "|."
@@ -64,8 +64,8 @@ cantusTwoLXXVIIIincipit = \relative c'' {
     g1
 }
 
+% cantus 2: checked against source
 cantusTwoLXXVIII = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCutTime
 
@@ -92,7 +92,7 @@ cantusTwoLXXVIII = \relative c'' {
         R\breve*2 | r1 r2
 
     g'4 g | g8[ f g a] g4 g2 f8[ c] d2 ~ | d4 c2 b4 c2 e2 ~ | 
-        e4 e4 d[ c] d4 e8[ d e f] 
+        e4 e4 d8[ c] d4 e8[ d e f] 
 
     e2 | f8[ e f g] f4 c d bf' a2 | g4 e g4. f8 e2 d8[ c] d4 | e8[ d e f]
 
@@ -115,7 +115,9 @@ cantusTwoLXXVIII = \relative c'' {
     e2 e4 e | e8[ d e f] d2 r2 g ~ | g4 f8[ e] f1 e4 c | 
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         d2 g4 g g8[ f g a] g2
-        \invsibleTime\time 4/2
+
+    a8[ g a bf] a2
+        \invisibleTime\time 4/2
         g\longa*1/2
 
     
@@ -130,8 +132,8 @@ tenorOneLXXVIIIincipit = \relative c' {
     c1
 }
 
+% tenor I: checked against source
 tenorOneLXXVIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
@@ -168,7 +170,7 @@ tenorOneLXXVIII = \relative c' {
         d4. e8 f4 f2 ef8[ c] d2 | 
 
     c4 c2 g4 a4. b8 c[ d e f] | g4 g a2 g4 g, g8[ a b c] |
-        d[ e fs d] g4 g2 f[ d]
+        d8[ e fs d] g4 g2 f8[ d]
 
     e2 ~ | e4 d8[ c] d2 cs4 d2 cs4 | d d d8[ e d c] b2 c |
         d1 g,2 g'4 g | g8[ f g a] g4 
@@ -179,8 +181,11 @@ tenorOneLXXVIII = \relative c' {
     d4 c b4. a8 | g1 a4 b c2 ~ | c b2 c g'4 g | g8[ f g a] g2 g2. f8[ e] |
         c2 f d 
 
-    g2 | g1 e8[ d e f] e2 | f8[ e f g] f2. e8[ f] e4 d
-        e\breve
+    g2 | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g1 e8[ d e f] e2 f8[ e f g] f2 ~ |
+        \invisibleTime\time 4/2
+        f4 e8[ f] e4 d e\longa*1/4
     \bar "|."
 }
 
@@ -193,8 +198,8 @@ tenorTwoLXXVIIIincipit = \relative c' {
 }
 
 % scan 0304
+% tenor II: checked against source
 tenorTwoLXXVIII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCutTime
 
@@ -211,39 +216,43 @@ tenorTwoLXXVIII = \relative c' {
     d,1 a'2 e | a bf g1 | R\breve | r2 bf2. a4 g2 | af4 g f2 r2 d' |
         c4 bf af bf c1 | r2
 
-    c1 b2 | c2. d4 ef1 | f2 f2. ef4 d4. c8 | bf1 c2. d4 ~ | d g, ef'1 d1 |
+    c1 b2 | c2. d4 ef1 | f2 f2. ef4 d4. c8 | bf1 c2. d4 ~ | d g, ef'2 d1 |
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         c\breve.
         \invisibleTime\time 4/2 c\breve \bar "||"
-    c\breve \bar "||" e4 e e8[ d e f] e2 d8[ c] d4 | 
+        e4 e e8[ d e f] e2 d8[ c] d4 | 
         e8[ d e f] e2 d4. b8
 
-    c4 c ~ | c b8[ g] a2 b[ a b c] b4. a8 | g2 g4 c2 f8[ e] d4 c8[ a] | b4 c
+    c4 c ~ | c b8[ g] a2 b8[ a b c] b4. a8 | g2 g4 c2 f8[ e] d4 c8[ a] | b4 c
 
     % --- page ---
     g'4. f8 e[ d e f] e4. d8 | c2 b4 g r1 | R\breve |
         r2 g'4 g g8[ f g a] g4 d | c1 r1 | 
 
-    c4 c c2 f,8[ g a b] c[ d] e4 | d2 e a,4 f' e c g' g, c a | b c
+    c4 c c2 f,8[ g a b] c[ d] e4 | d2 e a,4 f' e c | g' g, c a b c
 
-    g4. f8 e[ d e f] e4. d8 | c2 c4 c4. b8 d2 d8[ c] | b[ a b c] d2 r1 |
-        R\breve*3 | r1 r2 g'4
+    g'4. f8 | e[ d e f] e4. d8 c2 c4 c4 ~ | c8[ b8] d2 d8[ c] b[ a b c] d2 |
+        R\breve*2 R\breve*2 | r2 g4
 
-    g4 | g8[ f g a] g2 a gs4 a4 ~ | a8[ g] g2 fs4 g e8[ c] d4 e ~ |
-        e8[ d e d] c4 a b8[ c]
+    g4 g8[ f g a] g2 | a gs4 a4. g8 g2 fs4 | g e8[ c] d4 e4. d8 e d] c4 a |
+        b8[ c]
 
-    d4 r2 | r1 r4 d2 c8[ a] | b4 c2 b4 c1 | b4 c d2 c c ~ | c4 b a g f e d2 |
-        e8[ d e f] 
+    d4 r2 r1 | r4 d2 c8[ a] b4 c2 b4 | c1 b4 c d2 | c c2. b4 a g |
+        f e d2 e8[ d e f] 
 
-    g1 b8[ c] d4 | d2 c4. d8 e2 a, | b c4 e d1 | c\breve | c\longa*1/2
+    g2 ~ | g b8[ c] d4 d2 c4. d8 | e2 a, b c4 e | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        d1 c\breve | 
+        \invisibleTime\time 4/2
+        c\longa*1/2
 
 
         
     \bar "|."
 }
 
-bassusOneLXXVIIIincipit = \relative c {
-    \clef "petrucci-f3"
+bassusTwoLXXVIIIincipit = \relative c {
+    \clef "petrucci-f4"
     \key f \major
     \time 2/2
 
@@ -251,8 +260,8 @@ bassusOneLXXVIIIincipit = \relative c {
 }
 
 % Scan 0239
-bassusOneLXXVIII = \relative c {
-    \clef varbaritone
+% bassus I: checked against source
+bassusTwoLXXVIII = \relative c {
     \key f \major
     \fourTwoCutTime
 
@@ -267,7 +276,7 @@ bassusOneLXXVIII = \relative c {
         d'1 g, ~ | g r1 | r2 g'1 fs2 | g c, g'1 | ef d2. c4 | bf1 a |
         R\breve*2 | bf1
 
-    c2 | f,2 af g1 | r2 f'1 e2 | f2. ef4 d c d2 | ef4 d c2. bf4 af g | f1
+    c | f,2 af g1 | r2 f'1 e2 | f2. ef4 d c d2 | ef4 d c2. bf4 af g | f1
 
     bf4 c d bf | ef2. d4 c1 | b2 c d g, | 
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
@@ -279,7 +288,7 @@ bassusOneLXXVIII = \relative c {
     c''4 c c2 c,8[ d e f] g[ a b g] | c2 r4 c2 bf8[ g] a2 |
         fs4 g d2
 
-    g,2 d' | e1 f | g c, | R\breve*3 | c4 c c2 f,8[ g a b] c[ d e c] | 
+    g,2 d' | e1 f | g c, | R\breve*2 R\breve | c4 c c2 f,8[ g a b] c[ d e c] | 
 
     % --- page ---
     f2. e4 d2 c | g'4. f8 e2 d c4 c ~ | c bf8[ g] a4. f8 g1 | c2 e f c | g
@@ -292,16 +301,68 @@ bassusOneLXXVIII = \relative c {
 
     c,4 d e f g a b g | c2. b4 a g f e | d1 c | c2 g'1 g'2 | c,
 
-    a2 d e | g4 f8[ e] d4 g g1 f
+    a2 d e | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g4 f8[ e] d4 g g1 f
+        \invisibleTime\time 4/2
         g\longa*1/2
     \bar "|."
 }
 
-bassusTwoLXXVIII = \relative c {
-    \clef varbaritone
+bassusOneLXXVIIIincipit = \relative c {
+    \clef "petrucci-f4"
+    \key f \major
+    \time 2/2
+
+    c1
+}
+
+% bassus 2: checked against source
+bassusOneLXXVIII = \relative c {
     \key f \major
     \fourTwoCutTime
 
+    R\breve*4 | c1 d | g,2 ef' d1 | ef4 d c2 f2. ef4 | d c bf1 c2 ~ |
+        c4 d ef2 d1 | c r1
+
+    r2 f1 e2 | f2. ef8[ d] c4 d ef c | g'2. f4 e2 f | c1 g | c, r1 |
+        r2 g''1
+
+    fs2 | g1 g, | c2 f, c'1 | a g2 g' ~ | g fs g1 | r2 g a1 | d,2 bf' a1 |
+       
+    g1 r1 | R\breve | r1 a | fs2 g1 f4 ef | bf'1 af | bf2. a4 g a8[ bf] c2 ~ |
+        c
+
+    c,2 r2 g' | e f c1 | r1 f | g c,2 af' ~ | af4 g f ef d c bf4. a8 |
+        g4 f ef2 af4 g f2 | g\breve |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        c2 c'2. bf4 g2 af f ~ |
+        \invisibleTime\time 4/2
+        f2 e4 d e1 \bar "||" % checked thru here
+        R\breve*4 | r1
+
+    c'4 c c2 | c,8[ d e f] g[ a b g] c4 c4. d8[ e c] | f4 f,4. g8[ a f] bf4. c8 
+
+    d2 | g,4 c2 b4 c2 g | r4 g4. f8 e4 a2 g4 c8[ bf] | a[ g f g] a[ b]
+
+    % --- page ---
+    c4 d2 g, | R\breve | r1 r2 g4 g | g8[ f g a] g4 c2 a8[ f] g4 e8[ c] |
+        d4 b8[ g] d'2 
+
+    d1 | R\breve*3 | r1 g,4 g g2 | c,8[ d e f] g[ a b g] c2 r4 g' ~ |
+        g f8[ d] e2 d4
+
+    b8[ g] c4 d | e c f g a2 a, | g1 g'2 g4 g ~ | g f8[ d] e2 d4 e
+
+    d2 | c g'1 g4. f8 | e2 c r1 | r1 r4 c' c,8[ d e f] | 
+        g4 c, b8[ a g a] b2 
+
+    c2 | a2. g8[ f] g1 ~ | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g1 c,4 c' c8[ d e c] f4. f,8 f[ g a f] 
+        \invisibleTime\time 4/2
+        c'\longa*1/2
+        
     \bar "|."
 }
 
@@ -333,17 +394,17 @@ tenorTwoLXXVIIIincipitVoice = <<
     >>
 >>
 
-bassusOneLXXVIIIincipitVoice = <<
-    \new MensuralVoice <<
-        { s1 \noBreak }
-        \bassusOneLXXVIIIincipit
-    >>
->>
-
 bassusTwoLXXVIIIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
         \bassusTwoLXXVIIIincipit
+    >>
+>>
+
+bassusOneLXXVIIIincipitVoice = <<
+    \new MensuralVoice <<
+        { s1 \noBreak }
+        \bassusOneLXXVIIIincipit
     >>
 >>
 

@@ -1,7 +1,7 @@
 \version "2.24.4"
 \include "english.ly"
 
-% Invocation: /usr/local/bin/generate-single.py -t "In nomine" -u "VdGS a5 #3" -l instrumental -c "Alfonso Ferrabosco II (c.1575-1628)" 43-ferrabosco-a5-0-score.ly cantus:t altus:ta tenor:8a bassusOne:b bassusTwo:b
+% Invocation: /usr/local/bin/generate-single.py -c "Alfonso Ferrabosco II (c.1575-1628)" -t "In nomine" -u "VdGS In nomine a6 #1" -m 84 -l instrumental 80-ferrabosco-a6-0-score.ly cantusOne:t cantusTwo:t tenorOne:8a tenorTwo:8a bassusOne:b bassusTwo:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -9,39 +9,40 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2025-06-18"
-    originallyset = "2025-06-18"
+    lastupdated = "2025-07-31"
+    originallyset = "2025-07-31"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
     title = "In nomine"
-    subtitle = "VdGS a5 #3"
+    subtitle = "VdGS In nomine a6 #1"
     subsubtitle = ""
-    instrument = "In nomine: VdGS a5 #3 (bassus II)"
+    instrument = "In nomine: VdGS In nomine a6 #1 (bassus II)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
-    shortcomp = "ferrabosco_younger"
+    shortcomp = "ferrabosco"
     composer = "Alfonso Ferrabosco II (c.1575-1628)"
+    folio = "Low C required"
 
     % Things that change per part:
-    partname = "Bassus II (part 5 of 5)"
-    instrument = "In nomine: VdGS a5 #3 (bassus II)"
+    partname = "Bassus II (part 6 of 6)"
+    instrument = "In nomine: VdGS In nomine a6 #1 (bassus II)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/43-ferrabosco-a5-in_nomine.ly"
+\include "../parts/80-ferrabosco-a6-in_nomine.ly"
 
 \book {
-    \bookOutputName "43-ferrabosco--in_nomine-vdgs_a5_no_3"
-    \bookOutputSuffix "--5-bassus_2-bs_clef"
+    \bookOutputName "80-ferrabosco--in_nomine-vdgs_in_nomine_a6_no_1"
+    \bookOutputSuffix "--6-bassus_2-bs_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
             \clef "bass"
             \global 
-            \bassusTwoXLIII
+            \bassusTwoLXXX
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

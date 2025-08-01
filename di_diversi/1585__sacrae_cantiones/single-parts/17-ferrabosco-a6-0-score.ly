@@ -15,7 +15,7 @@
     instrument = "In monte Oliveti:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_monte_oliveti"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_elder"
     composer = "Alfonso Ferrabosco, Sr. (1543-1588)"
     needtranslation = #'f
     folio = "Responsory for Maundy Thursday"

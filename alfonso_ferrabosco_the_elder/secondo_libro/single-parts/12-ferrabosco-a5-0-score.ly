@@ -15,7 +15,7 @@
     instrument = "Zefiro torna:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "zefiro_torna"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_elder"
     folio = \markup { Petrarca, \italic{Canzoniere} CCCX (310) }
     needtranslation = #'f
 

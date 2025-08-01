@@ -23,7 +23,7 @@
     instrument = "Io son ferito, ahi lasso:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "io_son_ferito_ahi_lasso"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_elder"
     categories = "[madrigal]"
     motifs = "[amore,wound,battle,enemy]"
     rhyme = "ABABABCC"

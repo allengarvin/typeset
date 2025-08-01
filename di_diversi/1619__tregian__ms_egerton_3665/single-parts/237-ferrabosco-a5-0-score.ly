@@ -20,7 +20,7 @@
     instrument = "In nomine: VdGS à 5 #1 (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "in_nomine"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_elder"
     categories = "[in-nomine]"
     final = "g"
     flats = 1

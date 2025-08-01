@@ -1,7 +1,7 @@
 \version "2.24.4"
 \include "english.ly"
 
-% Invocation: /usr/local/bin/generate-single.py -t "In nomine" -u "VdGS a5 #3" -l instrumental -c "Alfonso Ferrabosco II (c.1575-1628)" 43-ferrabosco-a5-0-score.ly cantus:t altus:ta tenor:8a bassusOne:b bassusTwo:b
+% Invocation: /usr/local/bin/generate-single.py -c "Alfonso Ferrabosco II (c.1575-1628)" -t Fantasia -u "VdGS a6 #2" -m 84 -l instrumental 78-ferrabosco-a6-0-score.ly cantusOne:t cantusTwo:t tenorOne:8a tenorTwo:8a bassusOne:b bassusTwo:b
 \include "../include/paper-1-part.ly" 
 \include "../include/global-parts.ly" 
 \include "../include/macros.ly" 
@@ -9,39 +9,39 @@
 \include "../include/vocal-layout-parts-barring.ly"
 
 \header {
-    lastupdated = "2025-06-18"
-    originallyset = "2025-06-18"
+    lastupdated = "2025-07-31"
+    originallyset = "2025-07-31"
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "In nomine"
-    subtitle = "VdGS a5 #3"
+    title = "Fantasia"
+    subtitle = "VdGS a6 #2"
     subsubtitle = ""
-    instrument = "In nomine: VdGS a5 #3 (bassus II)"
+    instrument = "Fantasia: VdGS a6 #2 (cantus I)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "in_nomine"
+    shorttitle = "fantasia"
     shortcomp = "ferrabosco_younger"
     composer = "Alfonso Ferrabosco II (c.1575-1628)"
 
     % Things that change per part:
-    partname = "Bassus II (part 5 of 5)"
-    instrument = "In nomine: VdGS a5 #3 (bassus II)"
+    partname = "Cantus I (part 1 of 6)"
+    instrument = "Fantasia: VdGS a6 #2 (cantus I)"
 
     % Unchanging:
     tagline = #'f
 }
 
-\include "../parts/43-ferrabosco-a5-in_nomine.ly"
+\include "../parts/78-ferrabosco-a6-fantasia.ly"
 
 \book {
-    \bookOutputName "43-ferrabosco--in_nomine-vdgs_a5_no_3"
-    \bookOutputSuffix "--5-bassus_2-bs_clef"
+    \bookOutputName "78-ferrabosco--fantasia-vdgs_a6_no_2"
+    \bookOutputSuffix "--1-cantus_1-tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "bass"
+            \clef "treble"
             \global 
-            \bassusTwoXLIII
+            \cantusOneLXXVIII
         >>
      %   \include "../include/vocal-layout-parts-barring.ly"
     }

@@ -15,7 +15,7 @@
     instrument = "Godea Tirsi gli amori:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "godea_tirsi_gli_amori"
-    shortcomp = "ferrabosco"
+    shortcomp = "ferrabosco_elder"
     needtranslation = #'t
 
     % Unchanging:

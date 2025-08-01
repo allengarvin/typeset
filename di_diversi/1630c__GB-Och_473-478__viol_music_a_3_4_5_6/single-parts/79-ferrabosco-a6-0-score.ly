@@ -6,26 +6,26 @@
 \include "../include/macros.ly" 
 \include "../include/scheme.ly" 
 
-#(set-global-staff-size 14.5)
+#(set-global-staff-size 17)
 
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
-    cksum = "26721896afa258d1ced12e16bd78770acf997972"
-    lastupdated = "2025-06-18"
-    originallyset = "2025-06-18"
+    cksum = "5e2e9dbe964da0d530f1f5da9029c68421a94aea"
+    lastupdated = "2025-07-31"
+    originallyset = "2025-07-31"
     flats = 1
-    final = "g"
+    final = "d"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "In nomine"
-    subtitle = "VdGS a5 #3"
+    title = "Fantasia"
+    subtitle = "VdGS a6 #1"
     subsubtitle = ""
-    instrument = "In nomine: VdGS a5 #3 (score)"
+    instrument = "Fantasia: VdGS a6 #1 (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "in_nomine"
+    shorttitle = "fantasia"
     shortcomp = "ferrabosco_younger"
     composer = "Alfonso Ferrabosco II (c.1575-1628)"
-    categories = "[in-nomine]"
+    categories = "[]"
     motifs = "[]"
 
     % Unchanging:
@@ -33,50 +33,57 @@
     tagline = #'f
 }
 
-\include "../parts/43-ferrabosco-a5-in_nomine.ly"
+\include "../parts/79-ferrabosco-a6-fantasia.ly"
 
 \book {
-    \bookOutputName "43-ferrabosco--in_nomine-vdgs_a5_no_3"
+    \bookOutputName "79-ferrabosco--fantasia-vdgs_a6_no_1"
     \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #4.5
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
                 \new Voice <<
-                    \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusXLIIIincipitVoice
+                    \set Staff.instrumentName = #"Cantus I"
+                    \incipit \cantusOneLXXIXincipitVoice
                     \clef "treble"
                     \global
-                    \cantusXLIII
+                    \cantusOneLXXIX
                 >>
                 \new Voice <<
-                    \set Staff.instrumentName = #"Altus"
-                    \incipit \altusXLIIIincipitVoice
+                    \set Staff.instrumentName = #"Cantus II"
+                    \incipit \cantusTwoLXXIXincipitVoice
                     \clef "treble"
                     \global
-                    \altusXLIII
+                    \cantusTwoLXXIX
                 >>
                 \new Voice <<
-                    \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorXLIIIincipitVoice
+                    \set Staff.instrumentName = #"Tenor I"
+                    \incipit \tenorOneLXXIXincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorXLIII
+                    \tenorOneLXXIX
+                >>
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenor II"
+                    \incipit \tenorTwoLXXIXincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenorTwoLXXIX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus I"
-                    \incipit \bassusOneXLIIIincipitVoice
+                    \incipit \bassusOneLXXIXincipitVoice
                     \clef "bass"
                     \global
-                    \bassusOneXLIII
+                    \bassusOneLXXIX
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus II"
-                    \incipit \bassusTwoXLIIIincipitVoice
+                    \incipit \bassusTwoLXXIXincipitVoice
                     \clef "bass"
                     \global
-                    \bassusTwoXLIII
+                    \bassusTwoLXXIX
                 >>
              >>
          >>
@@ -84,12 +91,8 @@
         \midi {
             \context {
                 \Score
-                tempoWholesPerMinute = #(ly:make-moment 88 2)
+                tempoWholesPerMinute = #(ly:make-moment 80 2)
             }
         }
     }   
-    \markup {
-        \wordwrap { Note: GB-Och MS 212-216 was consulted for issues in the
-        cantus part, and checked against the other parts. }
-    }
 }
