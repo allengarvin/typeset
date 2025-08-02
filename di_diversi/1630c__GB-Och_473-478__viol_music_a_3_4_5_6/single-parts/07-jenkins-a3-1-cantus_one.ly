@@ -13,17 +13,17 @@
     \include "include/distribution-header.ly"
  
     % Things that change per piece:
-    title = "Phantazia"
-    subtitle = "VdGS à 3 no. 13"
-    instrument = "Phantazia: VdGS à 3 no. 13 (cantus I)"
+    title = "Fantasia"
+    subtitle = "VdGS a3 #13"
+    instrument = "Fantasia: VdGS a3 #13 (cantus I)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "phantazia"
+    shorttitle = "fantasia"
     composer = "John Jenkins (1592-1678)"
     shortcomp = "jenkins"
 
     % Things that change per part:
     partname = "Cantus I (part 1 of 3)"
-    instrument = "Phantazia: VdGS à 3 no. 13 (cantus I)"
+    instrument = "Fantasia: VdGS a3 #13 (cantus I)"
 
     % Unchanging:
     tagline = #'f
@@ -32,7 +32,7 @@
 \include "../parts/07-jenkins-a3-fantasia.ly"
 
 \book {
-    \bookOutputName "07-jenkins--phantazia-vdgs_a_3_no_13"
+    \bookOutputName "07-jenkins--fantasia-vdgs_a_3_no_13"
     \bookOutputSuffix "--1-cantus_1--tr_clef"
     \include "../include/paper-1-part.ly"
     \score {
