@@ -13,6 +13,8 @@
     cksum = "e55b9c2efddf855ed42baf228de20b25de24eb46"
     lastupdated = "2025-08-02"
     originallyset = "2025-08-02"
+    flats = 1
+    final = "c"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Fantasia"
