@@ -47,7 +47,7 @@ cantusLyricsXXXI = \lyricmode {
     Ho -- di -- e in __ ter -- ra.
     Ca -- nunt __ An -- ge -- li, __
     ca -- nunt an -- gel -- i,
-    læ -- tan -- tur Ar -- chan -- ge -- li, __
+    læ -- tan -- tur __ Ar -- chan -- ge -- li, __
     læ -- tan -- tur Ar -- chan -- ge -- li  __
     Ho -- di -- e ex -- sul -- tant ju -- sti, di -- cen -- tes: __
     Glo -- ri -- a in ex -- cel -- sis __ De -- o. __

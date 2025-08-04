@@ -128,7 +128,8 @@ tenorXXXII = \relative c' {
     d2 d e1 | c f | e4\melisma d c bf c a d2 ~ | 
         d4 c c1\ficta b2\unficta |
         c bf \[ c1 | d \]\melismaEnd c ~ | c r2 a | bf c a( g4 f | g2 g) f1 |
-        c'1. bf2 | a g f f | bf1 a | r1 g | a f2 bf ~ | bf
+                       % vv f to g at Mick Swithinbank's recommendation
+        c'1. bf2 | a g f g | bf1 a | r1 g | a f2 bf ~ | bf
 
     a2 f\melisma c' ~ | c\ficta b\unficta\melismaEnd c1 | R\breve R\breve*4 | 
         r1 r2 c ~ | c bf a g | a4( bf c a) bf( a g f | g2) g f bf ~ |
