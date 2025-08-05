@@ -94,7 +94,7 @@
                 \line { in languidito ha'l sen, }
                 \line { ha scolorito l'or del tuo bel crin. }
                 \line { \vspace #0.5 }
-                \line { Mirate, donne, il fin— }
+                \line { Mirate, donne, il fin: }
                 \line { mirate che vien men ogni cosa mortal! }
                 \line { Col tempo, arte non val: }
                 \line { questo è colpo comun, }
@@ -130,7 +130,7 @@
                 \line { What heart, so pitiless, }
                 \line { could have been so cruel toward you? }
                 \line { \vspace #0.5 }
-                \line { Wretch, I know well— }
+                \line { Wretch, I know well: }
                 \line { nor by faith can you deny it— }
                 \line { it was time, [and] age }
                 \line { that, so strong, could have }

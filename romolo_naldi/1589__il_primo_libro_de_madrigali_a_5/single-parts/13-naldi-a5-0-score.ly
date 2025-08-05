@@ -116,7 +116,7 @@
                % translation updated:
                 \line { The youthful bark, }
                 \line { that wraps the trunk and branches }
-                \line { of a green laurel—Love wills that I always love it; }
+                \line { of a green laurel: Love wills that I always love it; }
                 \line { and the tender fronds }
                 \line { among which the little birds }
                 \line { make charming harmonies to the murmur of the breezes; }
