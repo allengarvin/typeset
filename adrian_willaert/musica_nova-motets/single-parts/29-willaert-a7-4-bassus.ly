@@ -7,6 +7,7 @@
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
+#(set-global-staff-size 17.5)
 \header {
     % Things that change per piece:
     title = "Inviolata, integra et casta"

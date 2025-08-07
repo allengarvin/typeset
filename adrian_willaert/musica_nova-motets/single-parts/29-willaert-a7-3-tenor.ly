@@ -7,6 +7,8 @@
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
+#(set-global-staff-size 18.0)
+
 \header {
     % Things that change per piece:
     title = "Inviolata, integra et casta"
@@ -41,6 +43,7 @@
     }
 }
 
+#(set-global-staff-size 17.0)
 \book {
     \bookOutputName "29-willaert--inviolata_integra_et_casta"
     \bookOutputSuffix "--6-tenor--al_clef"

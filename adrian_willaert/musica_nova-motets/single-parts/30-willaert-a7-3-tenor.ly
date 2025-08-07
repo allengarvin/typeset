@@ -7,6 +7,7 @@
 \include "../include/scheme.ly" 
 \include "../include/vocal-layout-parts-barring.ly"
 
+#(set-global-staff-size 18.0)
 \header {
     % Things that change per piece:
     title = "Tua per precata dulcisona"
@@ -41,6 +42,7 @@
     }
 }
 
+#(set-global-staff-size 16.0)
 \book {
     \bookOutputName "30-willaert--tua_per_precata_dulcisona"
     \bookOutputSuffix "--6-tenor--al_clef"
