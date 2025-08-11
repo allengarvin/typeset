@@ -41,7 +41,7 @@
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
                     \incipit \cantusXXincipitVoice
-                    \clef "treble_8"
+                    \clef "treble"
                     \global
                     \cantusXX
                 >>
