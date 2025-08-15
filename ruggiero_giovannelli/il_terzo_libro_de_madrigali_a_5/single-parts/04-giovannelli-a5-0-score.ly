@@ -97,7 +97,7 @@
     \markup {
         \fill-line {
             \column {
-                \line { Cor mio, benché lontana, }
+                \line { Cor mio, benché lontana }
                 \line { pur quest'alma t'adora }
                 \line { e spera rivederti anzi che mora; }
                 \line { or col pensier ti mira, }
@@ -108,7 +108,7 @@
            \column {
                % translation orig date: 2025-08-13
                % translation updated:
-                \line { My heart, although [you are] distant, }
+                \line { My heart, although at a distance }
                 \line { yet this soul still adores you }
                 \line { and hopes to see you again ere it perishes; }
                 \line { now in thought it gazes on you, }
