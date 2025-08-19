@@ -13,6 +13,8 @@
     cksum = "9df8b15edb8c90d1662e4fb457eb61154998992b"
     lastupdated = "2025-08-18"
     originallyset = "2025-08-18"
+    flats = 0
+    final = "c"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Consolamini populi"

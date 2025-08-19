@@ -10,33 +10,34 @@
 
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
-    cksum = "94c3631438fa17088e074f99528e3fcf6692663f"
+    cksum = "f1ce6e06e1624d2303b90ef98f635196c4fbe740"
     lastupdated = "2025-08-18"
     originallyset = "2025-08-18"
     flats = 0
-    final = "c"
+    final = "d"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Consolamini"
+    title = "Surrexit pastor bonus"
     subtitle = ""
     subsubtitle = ""
-    instrument = "Consolamini:  (score)"
+    instrument = "Surrexit pastor bonus:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "consolamini"
+    shorttitle = "surrexit_pastor_bonus"
     shortcomp = "ingegneri"
     categories = "[]"
     motifs = "[]"
     needtranslation = #'f
+    folio = "Second responsory at matins on Easter Monday"
 
     % Unchanging:
     language = "latin"
     tagline = #'f
 }
 
-\include "../parts/02-ingegneri-a5-motet.ly"
+\include "../parts/06-ingegneri-a5-motet.ly"
 
 \book {
-    \bookOutputName "02-ingegneri--consolamini-"
+    \bookOutputName "06-ingegneri--surrexit_pastor_bonus-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -45,44 +46,44 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusIIincipitVoice
+                    \incipit \cantusVIincipitVoice
                     \clef "treble"
                     \global
-                    \cantusII
+                    \cantusVI
                 >>
-             \addlyrics { \cantusLyricsII }
+             \addlyrics { \cantusLyricsVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusIIincipitVoice
+                    \incipit \altusVIincipitVoice
                     \clef "treble"
                     \global
-                    \altusII
+                    \altusVI
                 >>
-             \addlyrics { \altusLyricsII }
+             \addlyrics { \altusLyricsVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quintus"
-                    \incipit \quintusIIincipitVoice
+                    \incipit \quintusVIincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintusII
+                    \quintusVI
                 >>
-             \addlyrics { \quintusLyricsII }
+             \addlyrics { \quintusLyricsVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorIIincipitVoice
+                    \incipit \tenorVIincipitVoice
                     \clef "treble_8"
                     \global
-                    \tenorII
+                    \tenorVI
                 >>
-             \addlyrics { \tenorLyricsII }
+             \addlyrics { \tenorLyricsVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusIIincipitVoice
+                    \incipit \bassusVIincipitVoice
                     \clef "bass"
                     \global
-                    \bassusII
+                    \bassusVI
                 >>
-             \addlyrics { \bassusLyricsII }
+             \addlyrics { \bassusLyricsVI }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -96,23 +97,17 @@
     \markup {
         \fill-line {
             \column {
-                \line { Consolamini. }
-                \line { Pastor bonus amat oves suas, non dimittit,  }
-                \line { non fugit, non timet lupum venientem. }
-                \line { Pascit eas et tuetur. Consolamini. }
-                \line { Sic ducet in pascua semper uberrima,  }
-                \line { in pascua semper virentia. Consolamini. }
+                 \line { Surrexit pastor bonus }
+                 \line { qui animam suam posuit pro ovibus suis, }
+                 \line { et pro grege suo mori dignatus est. }
+                 \line { Alleluia. }
             }
             \column {
-                \line { Be consoled. }
-                \line { The good shepherd loves his sheep. He forsakes them not, }
-                \line { nor does he flee, nor does he fear the coming wolf; }
-                \line { He feeds and protects them. Be consoled. }
-                \line { Thus he leads [them] into pastures eternally abundant, }
-                \line { into pastures eternally green. Be consoled. }
-                \line { \hspace #10 \italic { translation by editor } } 
+                 \line { The good shepherd has risen, }
+                 \line { who laid down his life for his sheep, }
+                 \line { and for his flock deigned to die. Alleluia. }
+                 \line { \hspace #10 \italic { CPDL translation } }
             }
-
         }
     }
 }
