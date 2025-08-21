@@ -37,8 +37,8 @@ cantoIincipit = \relative c'' {
     a1
 }
 
+% canto: checked against source
 cantoI = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCutTime
 
@@ -61,23 +61,24 @@ cantoI = \relative c'' {
 }
 
 cantoLyricsI = \lyricmode {
-%    L'al -- ba, cui dol -- ci~e par -- go -- let -- ti~a -- mo -- ri
-%    Di li -- gu -- stri, di gi -- gli~e bian -- chi fio -- ri
-%    Cin -- gean il crin d'in -- tor -- no,
-%    Lie -- ta por -- tan -- do~al -- le cam -- pa -- gne~il gior -- no;
-%
-%    L'al -- ba, ch'il pu -- ro lat -- te
-%    Can -- di -- da vin -- se con le ne -- vi~in -- tat -- te;
-%
-%    L'al -- ba con ca -- pei d'o -- ro e che le stel -- le
-%    Vin -- cea di lu -- me e fea pa -- rer men bel -- le,
-%        e fea pa -- rer men bel -- le;
-%
-%    L'al -- ba, di ghiac -- cio e bian -- co mar -- mo fuo -- re,
-%    Ma den -- tro tut -- ta fo -- co,
-%    Ma den -- tro tut -- ta fo -- co~e tut -- t'ar -- do -- re,
-%    Con gli~occhi di za -- fi -- ro, an -- zi di so -- le,
-%    Di -- cea que -- ste pa -- ro -- le:
+    L'al -- ba, cui dol -- ci~e par -- go -- let -- ti~a -- mo -- ri
+    Di __ li -- gu -- stri, di gi -- gli~e bian -- chi fio -- ri
+    Cin -- gean il crin d'in -- tor -- no,
+    Lie -- ta por -- tan -- do~al -- le cam -- pa -- gne~il gior -- no,
+        al -- le cam -- pa -- gne~il gior -- no;
+
+    L'al -- ba, ch'il pu -- ro lat -- te
+    Can -- di -- da vin -- se con le ne -- vi~in -- tat -- te;
+
+    L'al -- ba con ca -- pei d'o -- ro e che le stel -- le
+    Vin -- cea di lu -- me e __ fea pa -- rer,
+        e fea pa -- rer men bel -- le;
+
+    L'al -- ba, di ghiac -- cio e bian -- co mar -- mo fuo -- re,
+    Ma den -- tro tut -- ta fo -- co,
+    Ma den -- tro tut -- ta fo -- co~e tut -- t'ar -- do -- re,
+    Con gli~oc -- chi di za -- fi -- ro, an -- zi di so -- le,
+    Di -- cea que -- ste pa -- ro -- le:
 }
 
 altoIincipit = \relative c' {
@@ -88,8 +89,8 @@ altoIincipit = \relative c' {
     d1
 }
 
+% alto: checked against source
 altoI = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -111,23 +112,26 @@ altoI = \relative c' {
 }
 
 altoLyricsI = \lyricmode {
-%    L'al -- ba, cui dol -- ci~e par -- go -- let -- ti~a -- mo -- ri
-%    Di li -- gu -- stri, di gi -- gli~e bian -- chi fio -- ri
-%    Cin -- gean il crin d'in -- tor -- no,
-%    Lie -- ta por -- tan -- do~al -- le cam -- pa -- gne~il gior -- no;
-%
-%    L'al -- ba, ch'il pu -- ro lat -- te
-%    Can -- di -- da vin -- se con le ne -- vi~in -- tat -- te;
-%
-%    L'al -- ba con ca -- pei d'o -- ro e che le stel -- le
-%    Vin -- cea di lu -- me e fea pa -- rer men bel -- le,
-%        e fea pa -- rer men bel -- le;
-%
-%    L'al -- ba, di ghiac -- cio e bian -- co mar -- mo fuo -- re,
+    L'al -- ba, cui dol -- ci~e par -- go -- let -- ti~a -- mo -- ri
+    Di __ li -- gu -- stri, di gi -- gli~e bian -- chi fio -- ri
+    Cin -- gean il crin d'in -- tor -- no,
+    Lie -- ta por -- tan -- do~al -- le cam -- pa -- gne~il gior -- no,
+        al -- le cam -- pa -- gne~il gior -- no;
+
+    L'al -- ba, ch'il pu -- ro lat -- te
+    Can -- di -- da vin -- se con le ne -- vi,
+        con le ne -- vi~in -- tat -- te;
+
+    L'al -- ba con ca -- pei d'o -- ro e che le stel -- le
+    Vin -- cea di lu -- me e fea pa -- rer men bel -- le,
+        e fea pa -- rer men bel -- le;
+
+    L'al -- ba, di ghiac -- cio e bian -- co mar -- mo fuo -- re,
 %    Ma den -- tro tut -- ta fo -- co,
-%    Ma den -- tro tut -- ta fo -- co~e tut -- t'ar -- do -- re,
-%    Con gli~occhi di za -- fi -- ro, an -- zi di so -- le,
-%    Di -- cea que -- ste pa -- ro -- le:
+    Ma den -- tro tut -- ta fo -- co e __ tut -- t'ar -- do -- re,
+    Con gli~oc -- chi di za -- fi -- ro, an -- zi,
+        an -- zi di so -- le,
+    Di -- cea que -- ste pa -- ro -- le:
 }
 
 tenoreIincipit = \relative c' {
@@ -138,8 +142,8 @@ tenoreIincipit = \relative c' {
     a1
 }
 
+% tenore: checked against source
 tenoreI = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
@@ -156,29 +160,29 @@ tenoreI = \relative c' {
     d2. d4 | cs2 d r2 a | b cs d d | e1 a, | r2 f e a | g f e1 | d r1 |
         c' b2. c4 | d2 d r2 e | d2. d4 c2. a4 | g1 g | r2 d'
 
-    e2 b4 c | d e2 d4 e1 | d2.( e4 f2) c | d1 e | r2 d d d | cs d a a |
+    e2 b4 c | d e2( d4) e1 | d2.( e4 f2) c | d1 e | r2 d d d | cs d a a |
         d cs4 d bf2 a | r2 d d d | cs d bf1 | a\longa*1/2
     \bar "|."
 }
 
 tenoreLyricsI = \lyricmode {
-%    L'al -- ba, cui dol -- ci~e par -- go -- let -- ti~a -- mo -- ri
-%    Di li -- gu -- stri, di gi -- gli~e bian -- chi fio -- ri
-%    Cin -- gean il crin d'in -- tor -- no,
-%    Lie -- ta por -- tan -- do~al -- le cam -- pa -- gne~il gior -- no;
-%
-%    L'al -- ba, ch'il pu -- ro lat -- te
-%    Can -- di -- da vin -- se con le ne -- vi~in -- tat -- te;
-%
-%    L'al -- ba con ca -- pei d'o -- ro e che le stel -- le
-%    Vin -- cea di lu -- me e fea pa -- rer men bel -- le,
-%        e fea pa -- rer men bel -- le;
-%
-%    L'al -- ba, di ghiac -- cio e bian -- co mar -- mo fuo -- re,
-%    Ma den -- tro tut -- ta fo -- co,
-%    Ma den -- tro tut -- ta fo -- co~e tut -- t'ar -- do -- re,
-%    Con gli~occhi di za -- fi -- ro, an -- zi di so -- le,
-%    Di -- cea que -- ste pa -- ro -- le:
+    L'al -- ba, cui dol -- ci~e par -- go -- let -- ti~a -- mo -- ri
+    Di li -- gu -- stri, di gi -- gli~e bian -- chi fio -- ri
+    Cin -- gean il crin __ d'in -- tor -- no,
+    Lie -- ta por -- tan -- do,
+    Lie -- ta por -- tan -- do~al -- le cam -- pa -- gne~il gior -- no;
+
+    L'al -- ba, ch'il pu -- ro lat -- te
+    Can -- di -- da vin -- se con le ne -- vi~in -- tat -- te;
+
+    L'al -- ba con ca -- pei d'o -- ro e che le stel -- le
+    Vin -- cea di lu -- me e fea pa -- rer men bel -- le,
+        e fea pa -- rer men bel -- le;
+
+    L'al -- ba, di ghiac -- cio e bian -- co mar -- mo fuo -- re,
+    Ma den -- tro tut -- ta fo -- co~e tut -- t'ar -- do -- re,
+    Con gli~oc -- chi di za -- fi -- ro, an -- zi di so -- le,
+    Di -- cea que -- ste pa -- ro -- le:
 }
 
 bassoIincipit = \relative c {
@@ -226,7 +230,7 @@ bassoLyricsI = \lyricmode {
     L'al -- ba, di ghiac -- cio e bian -- co mar -- mo fuo -- re,
     Ma den -- tro tut -- ta fo -- co,
     Ma den -- tro tut -- ta fo -- co~e tut -- t'ar -- do -- re,
-    % Con gli~occhi di za -- fi -- ro, an -- zi di so -- le,
+    % Con gli~oc -- chi di za -- fi -- ro, an -- zi di so -- le,
     Di -- cea que -- ste pa -- ro -- le:
 }
 
