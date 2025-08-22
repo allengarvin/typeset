@@ -14,12 +14,12 @@
 % Almo pastor, mentre la gregge errando
 % sen va, lieto a me, quando
 % più n'arde il ciel fra queste piagge amene,
-% vieni a goder le mie luci serene;
-% qui te di dolce nodo amore stringa,
+% vieni a goder le mie luci serene.
+% Qui te di dolce nodo amore stringa,
 % e le guancie dipinga
 % dolce vergogna, che selvaggia e dura
-% ninfa già t'impedì tanta ventura;
-% qui d'ardente desio,
+% ninfa già t'impedì tanta ventura.
+% Qui, d'ardente desio,
 % che sembra in parte il molto fuoco mio,
 % ripieno e intento a tua dolce salute,
 % godi tanta beltà tanta virtute.
