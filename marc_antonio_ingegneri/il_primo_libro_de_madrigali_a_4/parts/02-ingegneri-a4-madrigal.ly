@@ -21,8 +21,8 @@ cantoIIincipit = \relative c'' {
     a1
 }
 
+% canto: checked against source
 cantoII = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCutTime
 
@@ -37,7 +37,7 @@ cantoII = \relative c'' {
     a4 a a c4. c8 a4 gs2 | a1 r2 a ~ | a g2. f4 g a | bf2 a a g ~ | g f e e |
         r4 f2 f4 e2 e4 d | cs2 cs r2 d ~ | d c bf bf ~ | bf a
 
-    a'2 f | g a b1 ~ | b b | R\breve | a2 f4 a g f e2 | a1 g2 f |
+    a'2 f | g a b!1 ~ | b b! | R\breve | a2 f4 a g f e2 | a1 g2 f |
         e e f1 | e2 d a' d, | f4 g a( g8[ f] e2) e |
         \time 6/2
         \tempo 2 = 132
@@ -47,35 +47,41 @@ cantoII = \relative c'' {
     b2 b c | a a g g g a | d,4( e f g a b c1 b2) | c1 g2 c1 c2 | 
         d1 d2 a1 a2 | g1 f2 f e1 | f1 a1 a2 r2 | b1 b2 b b c |
 
-    a1 a1 f2 f | d2.( c8[ b] c2) d1 a'2 ~ | a a r2 b1 b2 |
+    a1 a1 f2 f | d2.\melfi cs8[ b] cs!2\melfiEnd d1 a'2 ~ | a a r2 b1 b2 |
         b b c a1 a2 ~ | a f f d2.\melfi cs8[ b] cs!2 \colorBrEnd\melfiEnd |
         d\longa*3/4
     \bar "|."
 }
 
 cantoLyricsII = \lyricmode {
-%    Al -- mo pa -- stor, men -- tre la greg -- ge~er -- ran -- do
-%    Se'n va, lie -- t'a me, quan -- do
-%    Più n'ar -- de~il ciel fra que -- ste piag -- ge~a -- me -- ne,
-%    Più n'ar -- de~il ciel fra que -- ste piag -- ge~a -- me -- ne,
-%    Vie -- ni~a go -- der,
-%    Vie -- ni~a go -- der le mie lu -- ci se -- re -- ne,
-%        le mie lu -- ci se -- re -- ne.
-%
-%    Qui te di dol -- ce no -- do~a -- mo -- re strin -- ga,
-%    E le guan -- cie di -- pin -- ga
-%    Dol -- ce ver -- go -- gna, che sel -- vag -- gia~e du -- ra
-%    Nin -- fa già t'im -- pe -- dì,
-%        già t'im -- pe -- dì tan -- ta ven -- tu -- ra,
-%            tan -- ta ven -- tu -- ra.
-%
-%    Qui, d'ar -- den -- te de -- sio,
-%    Che sem -- bra~in par -- te~il mol -- to fo -- co mi -- o,
-%    Ri -- pie -- n'in -- ten -- to a tua dol -- ce sa -- lu -- te,
-%    Go -- di,
-%    Go -- di tan -- ta bel -- tà tan -- ta vir -- tu -- te,
-%    Go -- di,
-%    Go -- di tan -- ta bel -- tà tan -- ta vir -- tu -- te.
+    Al -- mo pa -- stor, men -- tre la greg -- ge~er -- ran -- do
+    Se'n va, lie -- t'a me, quan -- do
+    Più n'ar -- de~il ciel,
+    Più n'ar -- de~il ciel fra que -- ste piag -- ge~a -- me -- ne,
+    Vie -- ni~a go -- der,
+    \ijLyrics
+    Vie -- ni~a go -- der,
+    \normalLyrics
+    Vie -- ni~a go -- der,
+    \ijLyrics
+    Vie -- ni~a go -- der
+    \normalLyrics
+        le mie lu -- ci se -- re -- ne,
+        le mie lu -- ci se -- re -- ne.
+
+    Qui __ te di dol -- ce no -- do a -- mo -- re strin -- ga,
+    E le guan -- cie di -- pin -- ga
+    Dol -- ce ver -- go -- gna, che sel -- vag -- gia~e du -- ra
+    Nin -- fa già t'im -- pe -- dì tan -- ta ven -- tu -- ra,
+        già t'im -- pe -- dì tan -- ta ven -- tu -- ra.
+
+    Qui, d'ar -- den -- te de -- sio,
+    Che sem -- bra~in par -- te~il mol -- to fo -- co mi -- o,
+    Ri -- pie -- n'in -- ten -- to a tua dol -- ce sa -- lu -- te,
+    Go -- di,
+    Go -- di tan -- ta bel -- tà tan -- ta vir -- tu -- te,
+    Go -- di,
+    Go -- di tan -- ta bel -- tà tan -- ta vir -- tu -- te.
 }
 
 altoIIincipit = \relative c' {
@@ -86,8 +92,8 @@ altoIIincipit = \relative c' {
     d1
 }
 
+% alto: checked against source
 altoII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -112,34 +118,37 @@ altoII = \relative c' {
 
     \colorBr
     d2 \colorBrBegin g1 g2 g g | c, f1 f d2 | a a1 \colorBrEnd a1. | 
-        \colorBr f' \colorBrBegin d2 g1 | g2 g g c, f1 |
+        f'  \colorBr d2\colorBrBegin g1 | g2 g g c, f1 |
         f1 d2 a a1 \colorBrEnd| a\longa*3/4
     \bar "|."
 }
 
 altoLyricsII = \lyricmode {
-%    Al -- mo pa -- stor, men -- tre la greg -- ge~er -- ran -- do
-%    Se'n va, lie -- t'a me, quan -- do
-%    Più n'ar -- de~il ciel fra que -- ste piag -- ge~a -- me -- ne,
-%    Più n'ar -- de~il ciel fra que -- ste piag -- ge~a -- me -- ne,
-%    Vie -- ni~a go -- der,
-%    Vie -- ni~a go -- der le mie lu -- ci se -- re -- ne,
-%        le mie lu -- ci se -- re -- ne.
-%
-%    Qui te di dol -- ce no -- do~a -- mo -- re strin -- ga,
-%    E le guan -- cie di -- pin -- ga
-%    Dol -- ce ver -- go -- gna, che sel -- vag -- gia~e du -- ra
-%    Nin -- fa già t'im -- pe -- dì,
-%        già t'im -- pe -- dì tan -- ta ven -- tu -- ra,
-%            tan -- ta ven -- tu -- ra.
-%
-%    Qui, d'ar -- den -- te de -- sio,
-%    Che sem -- bra~in par -- te~il mol -- to fo -- co mi -- o,
-%    Ri -- pie -- n'in -- ten -- to a tua dol -- ce sa -- lu -- te,
-%    Go -- di,
-%    Go -- di tan -- ta bel -- tà tan -- ta vir -- tu -- te,
-%    Go -- di,
-%    Go -- di tan -- ta bel -- tà tan -- ta vir -- tu -- te.
+    Al -- mo pa -- stor, men -- tre la greg -- ge~er -- ran -- do
+    Se'n va, lie -- t'a me, quan -- do
+    Più n'ar -- de~il ciel fra que -- ste piag -- ge~a -- me -- ne,
+    Più n'ar -- de~il ciel fra que -- ste piag -- ge~a -- me -- ne,
+    Vie -- ni~a go -- der,
+    \ijLyrics
+    Vie -- ni~a go -- der,
+    \normalLyrics
+    Vie -- ni~a go -- der le mie lu -- ci se -- re -- ne,
+        le mie lu -- ci se -- re -- ne.
+
+    Qui te di dol -- ce no -- do a -- mo -- re strin -- ga,
+    E le guan -- cie di -- pin -- ga
+    Dol -- ce ver -- go -- gna, che __ sel -- vag -- gia~e du -- ra
+    Nin -- fa già t'im -- pe -- dì tan -- ta ven -- tu -- ra,
+        già t'im -- pe -- dì tan -- ta ven -- tu -- ra,
+            tan -- ta ven -- tu -- ra.
+
+    Qui, d'ar -- den -- te de -- sio,
+    Che sem -- bra~in par -- te~il mol -- to fo -- co mi -- o,
+    Ri -- pie -- n'in -- ten -- to a tua dol -- ce sa -- lu -- te,
+    Go -- di,
+    Go -- di tan -- ta bel -- tà tan -- ta vir -- tu -- te,
+    Go -- di,
+    Go -- di tan -- ta bel -- tà tan -- ta vir -- tu -- te.
 }
 
 tenoreIIincipit = \relative c' {

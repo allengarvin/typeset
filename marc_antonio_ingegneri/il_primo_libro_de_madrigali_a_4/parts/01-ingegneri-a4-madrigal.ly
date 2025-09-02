@@ -26,7 +26,8 @@
 
 % The dawn, [for] whom sweet and amourous little cupids
 % wreathed her hair all around
-% with privets, with lilies and white flowers.
+% with privets, with lilies and white flowers,
+% happily bringing day to the fields.
 
 
 cantoIincipit = \relative c'' {

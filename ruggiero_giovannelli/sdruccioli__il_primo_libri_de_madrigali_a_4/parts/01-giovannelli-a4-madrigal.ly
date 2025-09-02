@@ -2,6 +2,7 @@
 % Qui cantò Meliseo, qui proprio assisimi,
 % quand'ei scrisse in quel faggio: «vidi, io misero,
 % vidi Filli morire, e non uccisimi.» 
+% 
 % <Summonzio>
 % O pietà grande! E quali Dii permisero
 % a Meliseo venir fatto tant'aspero?
@@ -11,6 +12,7 @@
 % Questa pianta vorrei che tu mostrassimi,
 % per poter a mia posta in quella piangere;
 % forse a dir le mie pene oggi incitassimi!
+% 
 % <Barcinio>
 % Mille ne son, che qui vedere e tangere
 % a tua posta potrai; cerca in quel nespilo;
@@ -34,6 +36,33 @@
 % portane il cor, che qui lasciando accorilo. —
 
 % ecologa XII
+
+% Barcinio:
+% Here Meliseo sang, here I stationed myself
+% when he carved into that beech: «I saw, O wretched me,
+% I saw Phyllis die, and did not slay myself.»
+% 
+% Summonzio:
+% O great pity! And which Gods permitted
+% Meliseo to come to such bitterness?
+% Why did they not part him from his life sooner?
+% 
+% Summonzio:
+% That tree I wish you would show me,
+% so that I may myself weep upon it;
+% perhaps today it would cause me to speak my pains!
+% 
+% Barcinio:
+% A thousand there are here that you yourself
+% may see and touch: look upon that medlar,
+% but be careful in touching, watch that you not break it.
+% 
+% nespilo: used today for loquat, but it had not arrived yet in Italia
+% used metaphorically in late medieval and early modern contexts for premature death
+
+% assasimi:
+%     https://en.wiktionary.org/wiki/assideo#Latin
+%     assidere (2nd conjugation)
 
 cantoIincipit = \relative c'' {
     \clef "petrucci-g"
