@@ -1,13 +1,26 @@
 % Dalle labbia rosate
 % spira dolce aura di celesti odori,
 % tra le perl'escon fuori
-% l'angeliche parole entro formate.
-% Così soave e grate
+% l'angeliche parole entro formate,
+% così soave e grate
 % che con lor dolce accenti
-% ponno fermar il sol placare i venti.
+% ponno fermar il sol, placare i venti.
 % Quivi infiammato di lucent'ardore,
-% dolce raggiona e dolce ride Amore.
+% dolce ragiona e dolce ride Amore.
 
+% From rosy lips
+% breaths a sweet breeze of heavenly scents,
+% there amidst the pearls that exit forth
+% the angelic words therein formed,
+% so sweet and pleasant
+% that with their sweet accents
+% can halt the sun, calm the winds.
+% There inflamed by bright ardor,
+% Love speaks and smiles with sweetness.
+
+
+
+% ponno: archaic form of possono
 cantoVincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
@@ -53,12 +66,12 @@ cantoLyricsV = \lyricmode {
     Spi -- ra dol -- ce~au -- ra di ce -- le -- sti~o -- do -- ri,
     Tra le per -- l'e -- scon fuo -- ri
     L'an -- ge -- li -- che pa -- ro -- le,
-    L'an -- ge -- li -- che pa -- ro -- le~en -- tro for -- ma -- te.
+    L'an -- ge -- li -- che pa -- ro -- le~en -- tro for -- ma -- te,
     Co -- sì so -- a -- v'e gra -- te
     Che __ con lor dol -- ce~ac -- cen -- ti
-    Pon -- no fer -- mar il sol, __
+    Pon -- no fer -- mar il sol,, __
     \ijLyrics
-    Pon -- no fer -- mar il sol __
+    Pon -- no fer -- mar il sol, __
     \normalLyrics
         pla -- ca -- re~i ven -- ti.
 %    Qui -- vi~in -- fiam -- ma -- to,
@@ -71,10 +84,10 @@ cantoLyricsV = \lyricmode {
     \ijLyrics
         di lu -- cen -- t'ar -- do -- re,
     \normalLyrics
-    Dol -- ce rag -- gio -- na,
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
-    Dol -- ce rag -- gio -- na,
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+    Dol -- ce ra -- gio -- na,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+    Dol -- ce ra -- gio -- na,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
         e dol -- ce ri -- d'A -- mo -- re.
 }
 
@@ -122,12 +135,12 @@ altoLyricsV = \lyricmode {
     Spi -- ra dol -- ce~au -- ra di ce -- le -- sti~o -- do -- ri,
     Tra le per -- l'e -- scon fuo -- ri
     L'an -- ge -- li -- che pa -- ro -- le~en -- tro for -- ma -- te,
-        pa -- ro -- le~en -- tro for -- ma -- te.
+        pa -- ro -- le~en -- tro for -- ma -- te,
     Co -- sì so -- a -- v'e gra -- te
     Che con lor dol -- ce~ac -- cen -- ti
-    Pon -- no fer -- mar il sol,
+    Pon -- no fer -- mar il sol,,
     \ijLyrics
-    Pon -- no fer -- mar il sol
+    Pon -- no fer -- mar il sol,
     \normalLyrics
         pla -- ca -- re~i ven -- ti,
             i ven -- ti.
@@ -138,12 +151,12 @@ altoLyricsV = \lyricmode {
         di lu -- cen -- t'ar -- do -- re,
     \normalLyrics
         di lu -- cen -- t'ar -- do -- re,
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
-    Dol -- ce rag -- gio -- na,
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
-    Dol -- ce rag -- gio -- na,
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
-%    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+    Dol -- ce ra -- gio -- na,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+    Dol -- ce ra -- gio -- na,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+%    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
         ri -- d'A -- mo -- re.
 }
 
@@ -191,12 +204,12 @@ tenoreLyricsV = \lyricmode {
     Spi -- ra dol -- ce~au -- ra di ce -- le -- sti~o -- do -- ri,
     Tra le per -- l'e -- scon fuo -- ri
     L'an -- ge -- li -- che pa -- ro -- le~en -- tro for -- ma -- te,
-        pa -- ro -- le~en -- tro for -- ma -- te.
+        pa -- ro -- le~en -- tro for -- ma -- te,
     Co -- sì so -- a -- v'e gra -- te
     Che con lor dol -- ce~ac -- cen -- ti
-    Pon -- no fer -- mar il sol,
+    Pon -- no fer -- mar il sol,,
     \ijLyrics
-    Pon -- no fer -- mar il sol __
+    Pon -- no fer -- mar il sol, __
     \normalLyrics
         pla -- ca -- re~i ven -- ti.
 %    Qui -- vi~in -- fiam -- ma -- to,
@@ -206,11 +219,11 @@ tenoreLyricsV = \lyricmode {
         di lu -- cen -- t'ar -- do -- re,
     \normalLyrics
         di lu -- cen -- t'ar -- do -- re,
-    Dol -- ce rag -- gio -- na,
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
-    Dol -- ce rag -- gio -- na,
-    Dol -- ce rag -- gio -- na,
-    Dol -- ce rag -- gio -- na e dol -- ce ri -- d'A -- mo -- re.
+    Dol -- ce ra -- gio -- na,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+    Dol -- ce ra -- gio -- na,
+    Dol -- ce ra -- gio -- na,
+    Dol -- ce ra -- gio -- na e dol -- ce ri -- d'A -- mo -- re.
 }
 
 bassoVincipit = \relative c {
@@ -251,12 +264,12 @@ bassoLyricsV = \lyricmode {
     Spi -- ra dol -- ce~au -- ra di ce -- le -- sti~o -- do -- ri,
 %    Tra le per -- l'e -- scon fuo -- ri,
 %        e -- scon fuo -- ri
-    L'an -- ge -- li -- che pa -- ro -- le~en -- tro __ for -- ma -- te.
+    L'an -- ge -- li -- che pa -- ro -- le~en -- tro __ for -- ma -- te,
     Co -- sì so -- a -- v'e gra -- te
 %    Che con lor dol -- ce~ac -- cen -- ti
-%    Pon -- no fer -- mar il sol,
+%    Pon -- no fer -- mar il sol,,
 %    \ijLyrics
-    Pon -- no fer -- mar il sol pla -- ca -- re~i ven -- ti.
+    Pon -- no fer -- mar il sol, pla -- ca -- re~i ven -- ti.
 %    Qui -- vi~in -- fiam -- ma -- to,
 %    \ijLyrics
     Qui -- vi~in -- fiam -- ma -- to di lu -- cen -- t'ar -- do -- re,
@@ -264,9 +277,9 @@ bassoLyricsV = \lyricmode {
         di lu -- cen -- t'ar -- do -- re,
         di lu -- cen -- t'ar -- do -- re,
     \normalLyrics
-%    Dol -- ce rag -- gio -- na,
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re.
+%    Dol -- ce ra -- gio -- na,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re.
 }
 
 quintoVincipit = \relative c'' {
@@ -311,12 +324,12 @@ quintoLyricsV = \lyricmode {
     Spi -- ra dol -- ce~au -- ra di ce -- le -- sti~o -- do -- ri,
     Tra le per -- l'e -- scon fuo -- ri,
         e -- scon fuo -- ri
-    L'an -- ge -- li -- che pa -- ro -- le en -- tro for -- ma -- te.
+    L'an -- ge -- li -- che pa -- ro -- le en -- tro for -- ma -- te,
     Co -- sì so -- a -- v'e gra -- te
     % Che con lor dol -- ce~ac -- cen -- ti
-    Pon -- no fer -- mar il sol,
+    Pon -- no fer -- mar il sol,,
     \ijLyrics
-    Pon -- no fer -- mar il sol
+    Pon -- no fer -- mar il sol,
     \normalLyrics
         pla -- ca -- re~i ven -- ti,
             i ven -- ti.
@@ -332,13 +345,13 @@ quintoLyricsV = \lyricmode {
     \ijLyrics
         di lu -- cen -- t'ar -- do -- re,
     \normalLyrics
-    Dol -- ce rag -- gio -- na,
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
-    Dol -- ce rag -- gio -- na,
+    Dol -- ce ra -- gio -- na,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+    Dol -- ce ra -- gio -- na,
     \ijLyrics
-    Dol -- ce rag -- gio -- na,
+    Dol -- ce ra -- gio -- na,
     \normalLyrics
-    Dol -- ce rag -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
+    Dol -- ce ra -- gio -- na~e dol -- ce ri -- d'A -- mo -- re,
         e dol -- ce ri -- d'A -- mo -- re.
 
 }

@@ -17,7 +17,7 @@
     shorttitle = "crudel_perche_mi_fuggi"
     shortcomp = "monteverdi"
     needtranslation = #'f
-    sametext = #'( "856f1262b0385a5c22642632a0c4cdda04d7ac3f" "856f1262b0385a5c22642632a0c4cdda04d7ac3f" "8bd035a2c9312546fff1e8ffd3dd91b12d74fab6" )
+    sametext = #'( "856f1262b0385a5c22642632a0c4cdda04d7ac3f" "856f1262b0385a5c22642632a0c4cdda04d7ac3f" "8bd035a2c9312546fff1e8ffd3dd91b12d74fab6" "7953aaf7dfe7646f1e97433fa24d1acb7dbdd675")
     folio = "Giovanni Battista Guarini (1538-1612)"
 
     % Unchanging:
@@ -27,6 +27,7 @@
     flats = 1
     final = "g"
     categories = "[madrigal]"
+    motifs = "[amore,cruel,heart,flee,morte,paradox]"
     \include "include/distribution-header.ly"
     cksum = "8bd035a2c9312546fff1e8ffd3dd91b12d74fab6"
     tagline = #'f
@@ -105,6 +106,7 @@
             }
           \column {
               % translation orig date: 2023-04-11
+              % SKIP master: Marenzio
               % translation updated:
                 \line { Cruel one, why do you flee from me, }
                 \line { if you desire my death so much? }
