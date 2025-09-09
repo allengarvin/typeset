@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.24.2"
 \include "english.ly"
 
 \include "../include/paper-1-part.ly" 
@@ -12,7 +12,6 @@
     title = "Morirò di dolor prima ch'io veggia"
     subtitle = ""
     instrument = "Morirò di dolor prima ch'io veggia:  (tenore)"
-    folio = "Anonymous madrigal"
 
     % Things that change per part:
     partname = "Tenore (part 4 of 5)"

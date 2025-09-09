@@ -1,4 +1,4 @@
-\version "2.22.1"
+\version "2.24.4"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -9,25 +9,22 @@
 #(set-global-staff-size 14.5)
 
 \header {
-    lastupdated = "2024-09-16"
-    originallyset = "2024-09-16"
-    flats = 0
-    final = "g"
+    % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
+    cksum = "950a43e12a4dc7e3f42e716f2b21e02f9583791a"
+    lastupdated = "2025-09-08"
+    originallyset = "2025-09-08"
     \include "include/distribution-header.ly"
-    cksum = "f8ae5e5704af2073bf84b831ed7fbe45c5c0309c"
-    sametext = #'( "d7748bf7fd01349a5ce090f6f44e89b2f4c7c2bb" "f8ae5e5704af2073bf84b831ed7fbe45c5c0309c" )
-
     % Things that change per piece:
     title = "Donna la bella mano"
     subtitle = ""
-    subsubtitle = ""
+    subsubtitle = "transposed down"
     instrument = "Donna la bella mano:  (score)"
     headerspace = \markup { \vspace #2 }
     shorttitle = "donna_la_bella_mano"
-    shortcomp = "pozzo"
-    categories = "[madrigal]"
-    motifs = "[beauty,amore,thief,theft,kidnapping,heart]"
-    needtranslation = #'f
+    shortcomp = "giovannelli"
+    categories = "[]"
+    motifs = "[]"
+    needtranslation = #'t
     folio = "Francesco Panigarola (1548-1594)"
 
     % Unchanging:
@@ -36,11 +33,11 @@
     tagline = #'f
 }
 
-\include "../parts/02-pozzo-a5-madrigal.ly"
+\include "../parts/16-giovannelli-a5-madrigal.ly"
 
 \book {
-    \bookOutputName "02-pozzo--donna_la_bella_mano-"
-    \bookOutputSuffix "--0-score"
+    \bookOutputName "16-giovannelli--donna_la_bella_mano-"
+    \bookOutputSuffix "transposed--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
@@ -48,44 +45,44 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoIIincipitVoice
+                    \incipit \cantoXVIincipitVoice
                     \clef "treble"
-                    \global
-                    \cantoII
+                    \global\transpose f c
+                    \cantoXVI
                 >>
-             \addlyrics { \cantoLyricsII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Quinto"
-                    \incipit \quintoIIincipitVoice
-                    \clef "treble"
-                    \global
-                    \quintoII
-                >>
-             \addlyrics { \quintoLyricsII }
+             \addlyrics { \cantoLyricsXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoIIincipitVoice
-                    \clef "treble"
-                    \global
-                    \altoII
+                    \incipit \altoXVIincipitVoice
+                    \clef "treble_8"
+                    \global\transpose f c
+                    \altoXVI
                 >>
-             \addlyrics { \altoLyricsII }
+             \addlyrics { \altoLyricsXVI }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Quinto"
+                    \incipit \quintoXVIincipitVoice
+                    \clef "treble_8"
+                    \global\transpose f c
+                    \quintoXVI
+                >>
+             \addlyrics { \quintoLyricsXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreIIincipitVoice
+                    \incipit \tenoreXVIincipitVoice
                     \clef "treble_8"
-                    \global
-                    \tenoreII
+                    \global\transpose f c
+                    \tenoreXVI
                 >>
-             \addlyrics { \tenoreLyricsII }
+             \addlyrics { \tenoreLyricsXVI }
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoIIincipitVoice
+                    \incipit \bassoXVIincipitVoice
                     \clef "bass"
-                    \global
-                    \bassoII
+                    \global\transpose f c
+                    \bassoXVI
                 >>
-             \addlyrics { \bassoLyricsII }
+             \addlyrics { \bassoLyricsXVI }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -99,23 +96,22 @@
     \markup {
         \fill-line {
             \column {
-                \line { Donna la bella mano }
-                \line { che per donar porgeste }
-                \line { rapì mentre voi deste }
-                \line { cara ladra d'amore. }
-                \line { Rubando che farete }
-                \line { se nel donar togliete? }
+                \line { Donna la bella mano, }
+                \line { che nel donar porgesti, }
+                \line { rapì mentre voi desti }
+                \line { il mio misero core. }
+                \line { Cara ladra d'Amore }
+                \line { se nel donar togliete }
+                \line { rubando: che farete? }
                 \line { Ma certo voi donate }
-                \line { per poter più rubar di quel che date, }
-                \line { e se 'l rapito core }
-                \line { talor pur mi rendete, }
+                \line { per poter poi rubar quel che voi date. }
+                \line { E se 'l rapito cor voi mi rendete, }
                 \line { nol fate ad altro fine }
                 \line { che per poterne far nove rapine. }
             }
            \column {
                % translation orig date: 2025-09-08
                % translation updated:
-                % SKIP master copy: giovannelli
                 \line { Lady, the beautiful hand, }
                 \line { that you held out to give, }
                 \line { seized, while you gave, }
@@ -128,7 +124,6 @@
                 \line { And if you return to me my ravished heart, }
                 \line { you do it for no other end }
                 \line { than to be able to commit new abductions. }
-                \line { \hspace #10 \italic { translation by editor } }
            }
         }
     }

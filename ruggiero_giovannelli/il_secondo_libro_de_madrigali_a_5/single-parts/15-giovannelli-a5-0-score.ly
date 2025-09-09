@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.24.2"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -15,7 +15,6 @@
     instrument = "Morirò di dolor prima ch'io veggia:  (score)"
     needtranslation = #'t
     language = "italian"
-    folio = "Anonymous madrigal"
 
     % Unchanging:
     lastupdated = "2019-10-24"
@@ -23,6 +22,7 @@
     flats = 1
     final = "g"
     categories = "[madrigal]"
+    motifs = "[amore,disdain,pity,morte]"
     \include "include/distribution-header.ly"
     cksum = "8f3eb10829dfe598a23c41ff33cb57eee649722f"
     tagline = #'f
@@ -91,12 +91,25 @@
     \markup {
         \fill-line {
             \column {
+                % italian touch-up 2025-09-08
                 \line { Morirò di dolor prima ch'io veggia }
-                \line { Ne bei vostri occhi di pietade un segno }
-                \line { Tant'in voi può lo sdegno  }
-                \line { Nè so che far mi deggia }
-                \line { Se non mostrar di fuore }
-                \line { Che dentro sol per voi languisce il core. }
+                \line { ne' bei vostri occhi di pietade un segno, }
+                \line { tant'in voi può lo sdegno,  }
+                \line { né so che far mi deggia, }
+                \line { se non mostrar di fuore }
+                \line { che dentro sol per voi languisce il core. }
+            }
+            % deggia: archaic congiuntivo singulare of dovere (debba)
+            \column {
+                % translation: 2025-09-08
+                \line { I shall die of sorrow before I behold }
+                \line { in those lovely eyes of yours a sign of pity, }
+                \line { so great is the disdain in you, }
+                \line { nor do I know what I should do, }
+                \line { if I cannot demonstrate outwardly }
+                \line { that inside my heart languishes only for you. }
+                \line { \hspace #10 \italic { translation by editor } }
+
             }
         }
     }

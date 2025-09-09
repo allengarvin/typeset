@@ -1,7 +1,7 @@
 % Morirò di dolor prima ch'io veggia
-% Ne bei vostri occhi di pietade un segno
+% Ne' bei vostri occhi di pietade un segno
 % Tant'in voi può lo sdegno 
-% Nè so che far mi deggia
+% Né so che far mi deggia
 % Se non mostrar di fuore
 % Che dentro sol per voi languisce il core.
 
@@ -41,29 +41,29 @@ cantoXV = \relative c'' {
 
 cantoLyricsXV = \lyricmode {
     Mo -- ri -- rò di do -- lor pri -- ma ch'io veg -- gia
-    Ne bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
-    mo -- ri -- rò di do -- lor pri -- ma ch'io veg -- gia
-    ne bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno
+    Ne' bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
+    Mo -- ri -- rò di do -- lor pri -- ma ch'io veg -- gia
+    Ne' bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
     Tan -- t'in voi può lo sde -- gno,
-    tan -- t'in voi può lo sde -- gno, 
+    Tan -- t'in voi può lo sde -- gno, 
     \ijLyrics
-    tan -- t'in voi può lo sde -- gno 
+    Tan -- t'in voi può lo sde -- gno 
     \normalLyrics
-    Nè so che far mi deg -- gia,
+    Né so che far mi deg -- gia,
     \ijLyrics
-    nè so che far mi deg -- gia
+    Né so che far mi deg -- gia
     \normalLyrics
     Se non mo -- strar di fuo -- re
     Che den -- tro sol per voi,
-    che den -- tro sol per voi lan -- gui -- sce~il __ co -- re;
+    Che den -- tro sol per voi lan -- gui -- sce~il __ co -- re;
 
 
-    Nè so che far mi deg -- gia,
-    nè so che far mi deg -- gia
+    Né so che far mi deg -- gia,
+    Né so che far mi deg -- gia
     Se non mo -- strar di fuo -- re
     Che den -- tro sol per voi,
-    che den -- tro sol per voi lan -- gui -- sce~il co -- re,
-    che den -- tro sol per voi lan -- gui -- sce~il co -- re,
+    Che den -- tro sol per voi lan -- gui -- sce~il co -- re,
+    Che den -- tro sol per voi lan -- gui -- sce~il co -- re,
         il co -- re.
 }
 
@@ -106,35 +106,35 @@ altoXV = \relative c'' {
 
 altoLyricsXV = \lyricmode {
     Mo -- ri -- rò di do -- lor __ pri -- ma ch'io veg -- gia
-    Ne bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
-    mo -- ri -- rò di do -- lor pri -- ma ch'io veg -- gia
-    ne bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno
+    Ne' bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
+    Mo -- ri -- rò di do -- lor pri -- ma ch'io veg -- gia
+    Ne' bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
     Tan -- t'in voi può __ lo sde -- gno,
-    tan -- t'in voi può __ lo sde -- gno,
+    Tan -- t'in voi può __ lo sde -- gno,
     \ijLyrics
-    tan -- t'in voi può lo sde -- gno
+    Tan -- t'in voi può lo sde -- gno,
     \normalLyrics
-    Nè so che far mi deg -- gia,
+    Né so che far mi deg -- gia,
     \ijLyrics
-    nè so che far mi deg -- gia
+    Né so che far mi deg -- gia
     \normalLyrics
     Se non mo -- strar di fuo -- re
     Che den -- tro sol per voi,
     \ijLyrics
-    che den -- tro sol per voi 
+    Che den -- tro sol per voi 
     \normalLyrics
         lan -- gui -- sce~il co -- re;
 
 
-    Nè so che far mi deg -- gia,
-    nè so che far mi deg -- gia
+    Né so che far mi deg -- gia,
+    Né so che far mi deg -- gia
     Se non mo -- strar di fuo -- re
     Che den -- tro sol per voi,
     \ijLyrics
-    che den -- tro sol per voi 
+    Che den -- tro sol per voi 
     \normalLyrics
         lan -- gui -- sce~il co -- re,
-    che den -- tro sol per voi lan -- gui -- sce~il co -- re.
+    Che den -- tro sol per voi lan -- gui -- sce~il co -- re.
 }
 
 tenoreXVincipit = \relative c' {
@@ -170,26 +170,26 @@ tenoreXV = \relative c' {
 
 tenoreLyricsXV = \lyricmode {
     Mo -- ri -- rò di do -- lor __ pri -- ma ch'io veg -- gia
-    Ne bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
-    mo -- ri -- rò di __ do -- lor pri -- ma ch'io veg -- gia
-    ne bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno
+    Ne' bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
+    Mo -- ri -- rò di __ do -- lor pri -- ma ch'io veg -- gia
+    Ne' bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
     Tan -- t'in voi può lo sde -- gno,
     \ijLyrics
-    tan -- t'in voi può lo sde -- gno
+    Tan -- t'in voi può lo sde -- gno,
     \normalLyrics
-    Nè so che far mi deg -- gia,
+    Né so che far mi deg -- gia,
     Se non mo -- strar di fuo -- re
     Che den -- tro sol per voi,
     \ijLyrics
-    che den -- tro sol per voi
+    Che den -- tro sol per voi
     \normalLyrics
         lan -- gui -- sce~il co -- re;
     Che den -- tro sol per voi,
     \ijLyrics
-    che den -- tro sol per voi 
+    Che den -- tro sol per voi 
     \normalLyrics
         lan -- gui -- sce~il co -- re,
-    che den -- tro sol per voi lan -- gui -- sce~il co -- re.
+    Che den -- tro sol per voi lan -- gui -- sce~il co -- re.
 }
 
 bassoXVincipit = \relative c' {
@@ -224,22 +224,22 @@ bassoXV = \relative c' {
 
 bassoLyricsXV = \lyricmode {
     Mo -- ri -- rò di do -- lor pri -- ma ch'io veg -- gia
-    Ne bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
+    Ne' bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
     Tan -- t'in voi può lo sde -- gno,
-    tan -- t'in voi può lo sde -- gno
-    Nè so che far mi deg -- gia,
-    nè so che far mi deg -- gia
+    Tan -- t'in voi può lo sde -- gno,
+    Né so che far mi deg -- gia,
+    Né so che far mi deg -- gia
     Se non mo -- strar di fuo -- re
     Che den -- tro sol per voi;
 
-    Nè so che far mi deg -- gia,
+    Né so che far mi deg -- gia,
     \ijLyrics
-    nè so che far mi deg -- gia
+    Né so che far mi deg -- gia
     \normalLyrics
     Se non mo -- strar di fuo -- re
     Che den -- tro sol per voi,
-    che den -- tro sol per voi lan -- gui -- sce~il co -- re,
-    che den -- tro sol per voi lan -- gui -- sce~il co -- re.
+    Che den -- tro sol per voi lan -- gui -- sce~il co -- re,
+    Che den -- tro sol per voi lan -- gui -- sce~il co -- re.
 }
 
 quintoXVincipit = \relative c' {
@@ -277,20 +277,20 @@ quintoXV = \relative c' {
 
 quintoLyricsXV = \lyricmode {
     Mo -- ri -- rò __ di do -- lor pri -- ma ch'io veg -- gia
-    Ne bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
-    mo -- ri -- rò di do -- lor,
-    ne bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno
+    Ne' bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
+    Mo -- ri -- rò di do -- lor,
+    Ne' bei vo -- stri~oc -- chi di pie -- ta -- de~un se -- gno,
     Tan -- t'in voi può __ lo sde -- gno,
-    tan -- t'in voi può lo sde -- gno,
+    Tan -- t'in voi può lo sde -- gno,
     \ijLyrics
-    tan -- t'in voi può __ lo sde -- gno
+    Tan -- t'in voi può __ lo sde -- gno,
     \normalLyrics
-    Nè so che far mi deg -- gia,
-    che den -- tro sol per voi lan -- gui -- sce~il co -- re;
+    Né so che far mi deg -- gia,
+    Che den -- tro sol per voi lan -- gui -- sce~il co -- re;
 
 
-    Nè so che far mi deg -- gia,
-    nè so che far mi deg -- gia
+    Né so che far mi deg -- gia,
+    Né so che far mi deg -- gia
     Se non mo -- strar di fuo -- re
         lan -- gui -- sce~il co -- re,
         lan -- gui -- sce~il co -- re.
