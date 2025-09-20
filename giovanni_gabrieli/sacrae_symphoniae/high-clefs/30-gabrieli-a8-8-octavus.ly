@@ -42,6 +42,20 @@
 
 \book {
     \bookOutputName "30-gabrieli--canzon_duodecimi_toni-"
+    \bookOutputSuffix "transposed--choir-2-3-tenor--tn_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "tenor"
+            \global\transpose f c 
+            \octavusXXX
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
+
+\book {
+    \bookOutputName "30-gabrieli--canzon_duodecimi_toni-"
     \bookOutputSuffix "transposed--choir-2-3-tenor--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
