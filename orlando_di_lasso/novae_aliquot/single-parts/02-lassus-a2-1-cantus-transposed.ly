@@ -56,4 +56,3 @@
      %   \include "../include/layout-parts.ly"
     }
 }
-

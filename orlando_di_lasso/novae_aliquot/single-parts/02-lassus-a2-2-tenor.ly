@@ -54,3 +54,17 @@
     }
 }
 
+\book {
+    \bookOutputName "02-lassus--beatus_homo"
+    \bookOutputSuffix "--2-altus--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef bass
+            \global 
+            \altusII 
+        >>
+        \addlyrics { \altusLyricsII }
+    }
+}
+
