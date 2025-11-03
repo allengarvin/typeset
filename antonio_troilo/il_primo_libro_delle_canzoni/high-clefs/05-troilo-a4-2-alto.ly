@@ -34,7 +34,7 @@
 
 \book {
     \bookOutputName "05-troilo--canzon_v-"
-    \bookOutputSuffix "--2-alto--tr8_clef"
+    \bookOutputSuffix "transposed--2-alto--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
@@ -48,7 +48,7 @@
 
 \book {
     \bookOutputName "05-troilo--canzon_v-"
-    \bookOutputSuffix "--2-alto--al_clef"
+    \bookOutputSuffix "transposed--2-alto--al_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 

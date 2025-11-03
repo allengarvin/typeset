@@ -10,19 +10,21 @@
 
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
-    cksum = "bdf693ac18ec63d9d0f938ffade9dfdac078b8e4"
-    lastupdated = "2025-11-01"
-    originallyset = "2025-11-01"
+    cksum = "fe152524afe6629eab1a4324612ff3ef7cef0e1c"
+    lastupdated = "2025-11-02"
+    originallyset = "2025-11-02"
+    flats = 1
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "Canzon V"
+    title = "Canzon VI"
     subtitle = ""
-    subsubtitle = "transposed down"
-    instrument = "Canzon V:  (score)"
+    subsubtitle = ""
+    instrument = "Canzon VI:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "canzon_v"
+    shorttitle = "canzon_vi"
     shortcomp = "troilo"
-    categories = "[]"
+    categories = "[canzona]"
     motifs = "[]"
 
     % Unchanging:
@@ -30,43 +32,43 @@
     tagline = #'f
 }
 
-\include "../parts/05-troilo-a4-canzon.ly"
+\include "../parts/06-troilo-a4-canzon.ly"
 
 \book {
-    \bookOutputName "05-troilo--canzon_v-"
-    \bookOutputSuffix "transposed--0-score"
+    \bookOutputName "06-troilo--canzon_vi-"
+    \bookOutputSuffix "--0-score"
     \score {
          <<
             \new ChoirStaff = choirStaff \with {
-                \override StaffGrouper.staff-staff-spacing.padding = #5.0
+                \override StaffGrouper.staff-staff-spacing.padding = #5.5
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Canto"
-                    \incipit \cantoVincipitVoice
+                    \incipit \cantoVIincipitVoice
                     \clef "treble"
-                    \global\transpose f c
-                    \cantoV
+                    \global
+                    \cantoVI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Alto"
-                    \incipit \altoVincipitVoice
-                    \clef "treble_8"
-                    \global\transpose f c
-                    \altoV
+                    \incipit \altoVIincipitVoice
+                    \clef "treble"
+                    \global
+                    \altoVI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Tenore"
-                    \incipit \tenoreVincipitVoice
+                    \incipit \tenoreVIincipitVoice
                     \clef "treble_8"
-                    \global\transpose f c
-                    \tenoreV
+                    \global
+                    \tenoreVI
                 >>
                 \new Voice <<
                     \set Staff.instrumentName = #"Basso"
-                    \incipit \bassoVincipitVoice
+                    \incipit \bassoVIincipitVoice
                     \clef "bass"
-                    \global\transpose f c
-                    \bassoV
+                    \global
+                    \bassoVI
                 >>
              >>
          >>
