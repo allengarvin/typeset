@@ -1,3 +1,21 @@
+chantIII = \relative c {
+    \key bf \major
+    \clef "treble_8"
+
+    \stemOff
+    \override Staff.TimeSignature.stencil = ##f
+    \override Score.BarLine.stencil = ##f
+    \override Slur.transparent = ##t
+
+    f4 d ef c d f g\fermata
+    \override Score.BarLine.stencil = ##t
+        \bar "||"
+}
+
+chantLyricsIII = \lyricmode {
+    Cre -- dō in ū -- num De -- um.
+}
+
 cantusIIIincipit = \relative c'' {
     \clef "petrucci-g"
     \key bf \major
@@ -20,10 +38,10 @@ cantusIII = \relative c'' {
     bf2 c d2. d4 | bf2 ef2. d4 d2 ~ | d( c) bf f' ~ | f4 f ef2
 
     d1 ~ | d2 c ef d ~ | d c1 bf2 | g1 bf2 a ~ | a g1 fs2 | g\breve |
-        R\breve*3 | r1 r2 c ~ | c a bf d ~ | d c d1 | R\breve | d1 c2 ef ~ |
+        R\breve*3 | r1 r2 c ~ | c a bf d ~ | d( c) d1 | R\breve | d1 c2 ef ~ |
         ef2 d r2 c |
 
-    g2 bf c4( d ef2 ~ | ef) d c4( bf bf a8[ g] | a1) r1 | r1 d2. c4 |
+    g2 bf c4( d ef2 ~ | ef) d c4( bf bf a8[ g]) | a1 r1 | r1 d2. c4 |
         d2 ef f1 | bf,2 bf2. a4 bf c | d2 a
 
     bf1 | a2 d2. c4 d ef | f2 bf, ef1 | d\breve | R | bf2 c d2. d4 |
@@ -120,7 +138,7 @@ cantusLyricsIII = \lyricmode {
     et pro -- pter no -- stram sa -- lu -- tem
     de -- scen -- dit de cæ -- lis.
 
-    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
+    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto __
     ex __ Ma -- ri -- a Vir -- gi -- ne:
     et ho -- mo fa -- ctus est.
 
@@ -184,7 +202,6 @@ altusIIIincipit = \relative c'' {
 
 % altus: checked against source
 altusIII = \relative c'' {
-    \clef mezzosoprano
     \key bf \major
     \fourTwoCutTime
 
@@ -228,15 +245,15 @@ altusIII = \relative c'' {
     g2 a f4 a g2 | c,4.( d8 ef4. f8 g4 a bf a | g1) f | R\breve |
         g2 c, d4 f4. f8 f4 | g( bf a4. g8
 
-    f4 g8[ a] bf4 a) | g2 f d1 | d r2 d | bf'2. bf4 a2 bf | g f bf r4 f |
-        a2. a4 g2 bf ~ | bf4 a( bf2) g1 | f
+    f4 g8[ a] bf4 a) | g2 f( d1) | d r2 d | bf'2. bf4 a2 bf | g f bf r4 f |
+        a2. a4 g2 bf ~ | bf4 a bf2( g1) | f
 
-    r2 bf, | f'2. f4 ef2 d ~ | d4 c d2 bf1 | a2 d g g | bf2. bf4 f1 |
+    r2 bf, | f'2. f4 ef2 d ~ | d4 c d2( bf1) | a2 d g g | bf2. bf4 f1 |
         r1 g2. a4 | bf1. bf,2 | r2 g'2. a4 bf2 ~ | bf f r2 c' | a2 bf
 
     % --- page ---
     g2( f ~ | f4 g a1 g4 a) | bf2 g f1 | d2 ef1 d2 | r2 g1 g2 | 
-        a2. a4 bf2 bf ~ | bf a bf1 | g2. g4 a2 f | g a4 c bf2 g |
+        a2. a4 bf2 bf ~ | bf( a) bf1 | g2. g4 a2 f | g a4 c bf2 g |
 
     g2 f4 ef d( c bf2) | f'1 a2. g4 | a( bf c2) f, bf | a g1 f2 | 
         d1 f2( g4. a8 | bf4 g a g) f2. c4 | 
@@ -244,7 +261,7 @@ altusIII = \relative c'' {
     d4.( ef8 f2) f1 | r2 d1 f2 | g1 f | g2 bf1 a2 | bf bf1 g2 | a f g1 | 
         f r2 c' | bf g2 g2. a4 | bf1
 
-    a2 bf | a2. f4 g2. a4 | bf2. c4 d2. c8[ bf] | a4 g a2 b1 | r2 bf!1 bf2 |
+    a2 bf | a2. f4 g2. a4 | bf2.( c4 d2. c8[ bf] | a4 g a2) b1 | r2 bf!1 bf2 |
         g2 bf f1 | bf f2 g ~ |
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         g2 d f2. c4 f1
@@ -270,7 +287,7 @@ altusIII = \relative c'' {
 altusLyricsIII = \lyricmode {
     Pa -- trem om -- ni -- po -- ten -- tem,
     fa -- cto -- rem cæ -- li et ter -- ræ,
-        cæ -- li et ter -- ræ, __
+        cæ -- li et __ ter -- ræ, __
     vi -- si -- bi -- li -- um om -- ni -- um
         et in -- vi -- si -- bi -- li -- um.
 
@@ -299,58 +316,76 @@ altusLyricsIII = \lyricmode {
 %    et pro -- pter no -- stram sa -- lu -- tem
 %    de -- scen -- dit de cæ -- lis.
 %
-%    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
-%    ex Ma -- ri -- a Vir -- gi -- ne:
-%    et ho -- mo fa -- ctus est.
-%
-%    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
-%        sub Pon -- ti -- o Pi -- la -- to:
-%    pas -- sus, et se -- pul -- tus est.
-%
-%    Et re -- sur -- re -- xit ter -- ti -- a di -- e,
-%        se -- cun -- dum scri -- ptu -- ras,
-%            scri -- ptu -- ras.
-%
-%    Et a -- scen -- dit in cæ -- lum:
-%    se -- det ad dex -- te -- ram Pa -- tris,
-%    se -- det ad dex -- te -- ram Pa -- tris,
-%        ad dex -- te -- ram Pa -- tris.
-%
-%    Et i -- te -- rum ven -- tu -- rus est
-%    cum glo -- ri -- a ju -- di -- ca -- re vi -- vos et mor -- tu -- os:
-%    cu -- jus re -- gni non e -- rit fi -- nis,
-%    cu -- jus re -- gni non e -- rit fi -- nis.
-%
-%    Et in Spi -- ri -- tum san -- ctum Do -- mi -- num,
-%        et vi -- vi -- fi -- can -- tem,
-%    \ijLyrics
-%        et vi -- vi -- fi -- can -- tem:
-%    \normalLyrics
-%    qui ex Pa -- tre, Fi -- li -- o -- que pro -- ce -- dit.
-%    Qui cum Pa -- tre, et Fi -- li -- o si -- mul a -- do -- ra -- tur,
-%    et con -- glo -- ri -- fi -- ca -- tur:
-%    qui lo -- cu -- tus est per Pro -- phe -- tas,
-%    \ijLyrics
-%        per Pro -- phe -- tas.
-%    \normalLyrics
-%
-%    % -- part #3 --
-%
-%    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
-%        Ca -- tho -- li -- cam
-%        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
-%
-%    Con -- fi -- te -- or u -- num ba -- pti -- sma,
-%        in re -- mis -- si -- o -- nem pec -- ca -- to -- rum.
-%    Et ex -- pe -- cto
-%        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum,
-%            mor -- tu -- o -- rum,
-%            mor -- tu -- o -- rum,
-%    et vi -- tam ven -- tu -- ri sæ -- cu -- li,
-%    et vi -- tam ven -- tu -- ri,
-%    et vi -- tam ven -- tu -- ri sæ -- cu -- li.
-%    A -- men.
-%    A -- men.
+    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
+    ex Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est,
+        fa -- ctus est,
+    et ho -- mo fa -- ctus est,
+        fa -- ctus est.
+
+    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
+        sub Pon -- ti -- o Pi -- la -- to:
+    pas -- sus, et se -- pul -- tus est,
+        se -- pul -- tus est.
+
+    Et re -- sur -- re -- xit ter -- ti -- a di -- e,
+            ter -- ti -- a di -- e,
+        se -- cun -- dum scri -- ptu -- ras.
+
+    Et a -- scen -- dit in cæ -- lum:
+    se -- det ad dex -- te -- ram Pa -- tris,
+    se -- det ad dex -- te -- ram Pa -- tris,
+        Pa -- tris.
+
+    Et i -- te -- rum ven -- tu -- rus est
+    cum glo -- ri -- a ju -- di -- ca -- re,
+    \ijLyrics
+    cum glo -- ri -- a ju -- di -- ca -- re
+    \normalLyrics
+        vi -- vos et mor -- tu -- os:
+    cu -- jus re -- gni,
+    \ijLyrics
+    cu -- jus re -- gni
+    \normalLyrics
+        non e -- rit fi -- nis,
+    \ijLyrics
+        non e -- rit fi -- nis.
+    \normalLyrics
+
+    Et in Spi -- ri -- tum san -- ctum Do -- mi -- num,
+        et vi -- vi -- fi -- can -- tem,
+        vi -- vi -- fi -- can -- tem:
+    qui ex Pa -- tre, Fi -- li -- o -- que pro -- ce -- dit,
+        pro -- ce -- dit.
+    Qui cum Pa -- tre, et Fi -- li -- o si -- mul a -- do -- ra -- tur,
+    et con -- glo -- ri -- fi -- ca -- tur,
+    \ijLyrics
+    et con -- glo -- ri -- fi -- ca -- tur:
+    \normalLyrics
+    qui lo -- cu -- tus est per Pro -- phe -- tas,
+    \ijLyrics
+        per Pro -- phe -- tas.
+    \normalLyrics
+
+    % -- part #3 --
+
+    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
+        Ca -- tho -- li -- cam
+        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
+
+    Con -- fi -- te -- or u -- num __ ba -- pti -- sma,
+        in __ re -- mis -- si -- o -- nem pec -- ca -- to -- rum.
+    Et ex -- pe -- cto
+        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum, __
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li,
+    \ijLyrics
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li,
+    \normalLyrics
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li,
+    \ijLyrics
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li.
+    \normalLyrics
+    A -- men.
 }
 
 tenorIIIincipit = \relative c' {
@@ -361,9 +396,8 @@ tenorIIIincipit = \relative c' {
     g2
 }
 
-% tenor: part 1 checked 
+% tenor: part 1 checked . All checked
 tenorIII = \relative c' {
-    \clef alto
     \key bf \major
     \fourTwoCutTime
 
@@ -388,7 +422,60 @@ tenorIII = \relative c' {
         f4 ef4 c2 d2.( c4 | bf a) bf2 c r2 | f
 
     g a2.  g4 | f1 d2. e4 | fs\longa*1/2
+    \bar "||"
+    r1 f? | f2 ef f g ~ | g4 f d2 r2 f | d bf d1 | bf2 g a1 | g\breve | 
+        r2 bf g1 | f
 
+    r1 | c'2 g'2.( f4 f2 ~ | f4 e8[ d] e2) f1 ~ | f r1 | r2 bf, f' d |
+        ef2. g4 f1 | r2 c ef2. f4 | g2 bf2.( a4 g2 ~ | g4 f ef2) d1 | 
+
+    r2 d1 c2 | ef d c2. c4 | bf1 r2 c | ef d f2.( ef4 | d c) bf2 d r4 d |
+        ef2 d f2.( ef4 | d c ef2. d4 d2 ~ | d) c
+
+    d1 | r2 d1 d2 | bf a bf2. a4 | f2 bf a1 | d,2 g fs2. g4 | d2 d' c1 |
+        f, r1 | bf2. a4 g2 bf | ef( d1) c2 | 
+
+    b1 r1 | r1 r2 d | e fs g bf | a2. f4 g2 f ~ | f4 f d2 f( d) | d\breve | 
+        r2 a d bf4 g | d'2. ( a4
+
+    bf2 g4. a8 | bf4 c a2) b b | c1 g | r1 c2. d4 | ef2 f4 g a2( b) |
+        c g c, d | ef2. ef4 d4. c8( a4 bf |
+
+    c4 ef d2) g,1 | r1 r2 d' | g, a bf4. a8 g4 f( | ef2 f) bf1 |
+        r2 d f2. f4 | ef2 d c bf( | c d) bf1 | r1 r2 bf | f'2. f4 
+
+    % --- page ---
+    ef2 d ~ | d4 c d2( bf1) | a r2 bf | f' f g2. g4 | f2 bf, c2. c4 |
+        bf1 r2 bf ~ | bf4 c d1 g,2 | r2 g g'2. f4 | ef2 c r1 | 
+
+    r2 d2. ef4 f2 ~ | f bf,1 d2 | bf a c1 | g2 ef' d1 | bf2 g'1 f2 |
+        r2 ef1 d2 | f2. f4 f1 | g2( f4 ef) f2 f ~ | f e 
+
+    f1 | r2 f bf, c4 ef | d2 c r2 d ~ | d4 c d( ef f2) c | f ef d1 ~ |
+        d2 bf r2 bf | bf4.( c8 d4 bf) c2 ef | d c2. bf4 a2 | 
+
+    bf4.( c8 d4 bf) c1 | r2 bf1 d2 | ef1 d | r2 bf ef f | 
+        bf,4 bf2 c4 d2 ef | f2.( c4 ef1) | d r1 | r2 r4 g ef2 c | 
+
+    d4. ef8 f1 bf,2 | r2 f' ef c | bf4. c8 d2.( g,4 g'2 ~ | g fs) g1 |
+        r2 f1 d2 | ef d d1 | r1 r2 ef ~ | 
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        ef2 bf d2.( ef4 d2 c) 
+        \invisibleTime\time 4/2 d\longa*1/2 \bar "||"
+
+    r1 f | f2 f r2 d ~ | d4( ef f2) d d | c2. bf4 f'2 c | ef2. d4 c2 f |
+        d ef d4( ef f2 ~ | f4) f c1
+
+    d2 | g2.( a4 bf2) a | g1 r2 e | f2. f4 c2 d ~ | d g, bf1 | ef d |
+        c2 c ef2. f4 | g1 f2 d ~ | d c ef( d4 c | 
+
+    bf2. c4) d1 | d2 d ef1 | c bf2. c4 | d ef f1 bf,2 | d4. ef8 f4 d g1 ~ |
+        g2 d r2 bf ~ | bf4 c ef1( d2 | c1) 
+
+    bf | R\breve | r2 ef f ef4 f | g a bf1 a2 | bf1 r1 | r2 d, f c4 ef |
+        d2 bf c2. c4 | bf1. bf2 | f'2 d4 f
+    % --- page ---
+    ef2 d ~ | d bf1 g2 | a bf1( c2 | d2. c8[ bf] a4 d, d'2) | d\longa*1/2
     \bar "|."
 }
 
@@ -419,63 +506,67 @@ tenorLyricsIII = \lyricmode {
     per quem om -- ni -- a fa -- cta sunt.
     \normalLyrics
 
-%    % -- part #2 --
-%    Qui pro -- pter nos ho -- mi -- nes
-%    et pro -- pter no -- stram sa -- lu -- tem
-%    de -- scen -- dit de cæ -- lis.
-%
-%    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
-%    ex Ma -- ri -- a Vir -- gi -- ne:
-%    et ho -- mo fa -- ctus est.
-%
-%    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
-%        sub Pon -- ti -- o Pi -- la -- to:
-%    pas -- sus, et se -- pul -- tus est.
-%
-%    Et re -- sur -- re -- xit ter -- ti -- a di -- e,
-%        se -- cun -- dum scri -- ptu -- ras,
-%            scri -- ptu -- ras.
-%
-%    Et a -- scen -- dit in cæ -- lum:
-%    se -- det ad dex -- te -- ram Pa -- tris,
-%    se -- det ad dex -- te -- ram Pa -- tris,
-%        ad dex -- te -- ram Pa -- tris.
-%
-%    Et i -- te -- rum ven -- tu -- rus est
-%    cum glo -- ri -- a ju -- di -- ca -- re vi -- vos et mor -- tu -- os:
-%    cu -- jus re -- gni non e -- rit fi -- nis,
-%    cu -- jus re -- gni non e -- rit fi -- nis.
-%
-%    Et in Spi -- ri -- tum san -- ctum Do -- mi -- num,
-%        et vi -- vi -- fi -- can -- tem,
-%    \ijLyrics
-%        et vi -- vi -- fi -- can -- tem:
-%    \normalLyrics
-%    qui ex Pa -- tre, Fi -- li -- o -- que pro -- ce -- dit.
-%    Qui cum Pa -- tre, et Fi -- li -- o si -- mul a -- do -- ra -- tur,
-%    et con -- glo -- ri -- fi -- ca -- tur:
-%    qui lo -- cu -- tus est per Pro -- phe -- tas,
-%    \ijLyrics
-%        per Pro -- phe -- tas.
-%    \normalLyrics
-%
-%    % -- part #3 --
-%
-%    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
-%        Ca -- tho -- li -- cam
-%        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
-%
-%    Con -- fi -- te -- or u -- num ba -- pti -- sma,
-%        in re -- mis -- si -- o -- nem pec -- ca -- to -- rum.
-%    Et ex -- pe -- cto
-%        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum,
-%            mor -- tu -- o -- rum,
-%            mor -- tu -- o -- rum,
-%    et vi -- tam ven -- tu -- ri sæ -- cu -- li,
-%    et vi -- tam ven -- tu -- ri,
-%    et vi -- tam ven -- tu -- ri sæ -- cu -- li.
-%    A -- men.
-%    A -- men.
+    % -- part #2 --
+    Qui pro -- pter nos ho -- mi -- nes
+    et pro -- pter no -- stram sa -- lu -- tem
+    de -- scen -- dit de cæ -- lis. __
+
+    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
+    ex Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est,
+    \ijLyrics
+    et ho -- mo fa -- ctus est.
+    \normalLyrics
+
+    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
+        sub Pon -- ti -- o Pi -- la -- to:
+    pas -- sus, et se -- pul -- tus est.
+
+    Et re -- sur -- re -- xit ter -- ti -- a,
+        ter -- ti -- a di -- e,
+        se -- cun -- dum scri -- ptu -- ras,
+            scri -- ptu -- ras.
+
+    Et a -- scen -- dit in cæ -- lum:
+    se -- det ad dex -- te -- ram Pa -- tris,
+    \ijLyrics
+    se -- det ad dex -- te -- ram Pa -- tris.
+    \normalLyrics
+
+    Et i -- te -- rum ven -- tu -- rus __ est
+    cum glo -- ri -- a ju -- di -- ca -- re vi -- vos et mor -- tu -- os,
+        et mor -- tu -- os:
+    cu -- jus re -- gni non e -- rit fi -- nis,
+    cu -- jus re -- gni non e -- rit fi -- nis,
+        non e -- rit fi -- nis.
+
+    Et in Spi -- ri -- tum san -- ctum Do -- mi -- num,
+        et vi -- vi -- fi -- can -- tem:
+    qui __ ex Pa -- tre, Fi -- li -- o -- que pro -- ce -- dit,
+        Fi -- li -- o -- que pro -- ce -- dit.
+    Qui cum Pa -- tre, et Fi -- li -- o si -- mul a -- do -- ra -- tur,
+    et con -- glo -- ri -- fi -- ca -- tur,
+    \ijLyrics
+    et con -- glo -- ri -- fi -- ca -- tur:
+    \normalLyrics
+    qui lo -- cu -- tus est per __ Pro -- phe -- tas.
+    % -- part #3 --
+
+    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
+        Ca -- tho -- li -- cam
+        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
+
+    Con -- fi -- te -- or u -- num ba -- pti -- sma,
+        in re -- mis -- si -- o -- nem pec -- ca -- to -- rum.
+    Et ex -- pe -- cto
+        re -- sur -- re -- cti -- o -- nem,
+        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum,
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li,
+    \ijLyrics
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li,
+    \normalLyrics
+    et vi -- tam ven -- tu -- ri __ sæ -- cu -- li.
+    A -- men.
 }
 
 bassusIIIincipit = \relative c' {
@@ -486,9 +577,8 @@ bassusIIIincipit = \relative c' {
     g1
 }
 
-% bassus: part 1 checked
+% bassus: part 1 checked. Checekd against sall
 bassusIII = \relative c' {
-    \clef tenor
     \key bf \major
     \fourTwoCutTime
 
@@ -507,6 +597,58 @@ bassusIII = \relative c' {
     c1 | bf1 r2 g | a bf2. a4 f2 | g ef d1 | r1 g2 a | bf2. a4 g2 f ~ |
         f ef d1 | g f2 bf ~ | bf4 a g2 f1 ~ | f g | d\longa*1/2
 
+    \bar "||"
+    bf'1 bf2 a | bf c2. bf4 g2 | r2 bf a f | g1 f2 d | ef1 d | r2 ef c1 |
+        bf r2 bf' | 
+
+    f'2.( ef4 c d ef2 ~ | ef4 d8[ c] bf4 c d1) | c r2 f, | 
+        bf a bf2. c4 | bf1 r1 | r2 ef, bf'2. c4 | d2 ef2.( d4 c2) | g1
+    % --- page ---
+    r2 c, | ef2. f4 g2 bf ~ | bf4( a g2) f1 | R\breve | r2 g1 f2 | 
+        g bf a2. g4( | f2 g) d1 | r1 r2 d | f ef g2.( f4 | ef2) ef 
+
+    d1 ~ | d r1 | R\breve*2 R\breve*5 | r2 g a b | c d g,2. g4 | c2 d( bf) g |
+        R\breve | bf2. bf4 f2 g | d d bf' g4 bf | 
+
+    a2( fs) g1 | r2 d g ef4 c | d1 g | R\breve R\breve*3 | g2. a4 bf2 c4 d |
+        ef2( f) g d | g, a bf2. a4 | bf2 c4( ef 
+
+    d4. c8 bf4 c8[ d] | ef4 d) c2 r2 g | bf2. bf4 a2 bf | g bf f2 r2 |
+        r1 r2 d' | f2. f4 ef2 d ~ | d bf
+
+    c2( bf ~ | bf4 a bf2 g1) | f2 d g2. bf4 | f2 d( ef g) | d1 r1 |
+        r2 bf'2. c4 d2 ~ | d g,1 bf2 ~ | bf ef1 d2 | c1 bf2 g ~ |
+        g4 a bf1 f2 | 
+
+    r1 r2 d ~ | d4 ef f1 c2 | r2 g' bf f | g1. bf2 | r2 ef,1 g2 |
+        f2. f4 bf2 d( | c1) bf | c2. c4 f,1 | r1 r2 c' | 
+
+    g2 a4 c bf1 | f\breve | r1 r2 g ~ | g4 f g( a bf2) bf, |
+        r2 bf' a g ~ | g c, d f4.( ef8 | d4. c8 bf2) f'1 | r2 g1 f2 | 
+
+    ef4.( f8 g4 a bf1) | ef, r1 | r2 g bf c | f,1 r1 | r2 bf1 c2 | d ef c1 |
+        bf r1 | r1 r2 ef | d g, bf2. c4 | d1 g, | 
+
+    r2 bf1 bf2 | c bf bf1 | r2 bf1 ef,2 |
+        \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
+        g1( f\breve)
+        \invisibleTime\time 4/2
+        bf\longa*1/2
+    \bar "||"
+    r1 bf | d2 bf r2 bf ~ | bf4( c d2) bf1 | r1 r2 f | g2. bf4 f2 f |
+        g ef bf'2. bf4 | f1 c'2 bf ~ | bf ef d1 | 
+
+    r2 g, c2. c4 | f,2 f2. f4 f2 | g\breve | c,1 g'2 g | a2. bf4 c1 |
+    g bf ~ | bf2 f g1 ~ | g d ~ | d r1 | f1 g2 bf ~ | bf a
+
+    bf4. c8 d4 ef | f2 d c1 | g2 bf2.( a4 g f | ef1) f ~ | f r2 g |
+        bf a4 bf c2 d | ef c bf1 | r1 r2 f |
+
+    bf2 g4 bf a2 f | g2. g4 f1 | bf2( g) f1 | r2 ef bf' g4 bf |
+        a2 bf g2. g4 | d1 ef | d2 g(
+
+    ef c | \[ g'1 d) \] | g\longa*1/2
+        
 
     \bar "|."
 }
@@ -539,63 +681,65 @@ bassusLyricsIII = \lyricmode {
     \normalLyrics
     per quem om -- ni -- a fa -- cta sunt.
 
-%    % -- part #2 --
-%    Qui pro -- pter nos ho -- mi -- nes
-%    et pro -- pter no -- stram sa -- lu -- tem
-%    de -- scen -- dit de cæ -- lis.
-%
-%    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
-%    ex Ma -- ri -- a Vir -- gi -- ne:
-%    et ho -- mo fa -- ctus est.
-%
+    % -- part #2 --
+    Qui pro -- pter nos ho -- mi -- nes
+    et pro -- pter no -- stram sa -- lu -- tem
+    de -- scen -- dit de cæ -- lis,
+    \ijLyrics
+    de -- scen -- dit de cæ -- lis.
+    \normalLyrics
+
+    Et in -- car -- na -- tus est de Spi -- ri -- tu San -- cto
+    ex Ma -- ri -- a Vir -- gi -- ne:
+    et ho -- mo fa -- ctus est. __
+
 %    Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis
 %        sub Pon -- ti -- o Pi -- la -- to:
 %    pas -- sus, et se -- pul -- tus est.
 %
-%    Et re -- sur -- re -- xit ter -- ti -- a di -- e,
-%        se -- cun -- dum scri -- ptu -- ras,
-%            scri -- ptu -- ras.
-%
-%    Et a -- scen -- dit in cæ -- lum:
-%    se -- det ad dex -- te -- ram Pa -- tris,
-%    se -- det ad dex -- te -- ram Pa -- tris,
-%        ad dex -- te -- ram Pa -- tris.
-%
-%    Et i -- te -- rum ven -- tu -- rus est
-%    cum glo -- ri -- a ju -- di -- ca -- re vi -- vos et mor -- tu -- os:
-%    cu -- jus re -- gni non e -- rit fi -- nis,
-%    cu -- jus re -- gni non e -- rit fi -- nis.
-%
-%    Et in Spi -- ri -- tum san -- ctum Do -- mi -- num,
-%        et vi -- vi -- fi -- can -- tem,
-%    \ijLyrics
-%        et vi -- vi -- fi -- can -- tem:
-%    \normalLyrics
-%    qui ex Pa -- tre, Fi -- li -- o -- que pro -- ce -- dit.
-%    Qui cum Pa -- tre, et Fi -- li -- o si -- mul a -- do -- ra -- tur,
-%    et con -- glo -- ri -- fi -- ca -- tur:
-%    qui lo -- cu -- tus est per Pro -- phe -- tas,
-%    \ijLyrics
-%        per Pro -- phe -- tas.
-%    \normalLyrics
-%
-%    % -- part #3 --
-%
-%    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
-%        Ca -- tho -- li -- cam
-%        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
-%
-%    Con -- fi -- te -- or u -- num ba -- pti -- sma,
-%        in re -- mis -- si -- o -- nem pec -- ca -- to -- rum.
-%    Et ex -- pe -- cto
-%        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum,
-%            mor -- tu -- o -- rum,
-%            mor -- tu -- o -- rum,
-%    et vi -- tam ven -- tu -- ri sæ -- cu -- li,
-%    et vi -- tam ven -- tu -- ri,
-%    et vi -- tam ven -- tu -- ri sæ -- cu -- li.
-%    A -- men.
-%    A -- men.
+    Et re -- sur -- re -- xit ter -- ti -- a di -- e,
+            ter -- ti -- a di -- e,
+        se -- cun -- dum scri -- ptu -- ras,
+    \ijLyrics
+        se -- cun -- dum scri -- ptu -- ras.
+    \normalLyrics
+
+    Et a -- scen -- dit in cæ -- lum:
+    se -- det ad dex -- te -- ram Pa -- tris.
+
+    Et i -- te -- rum ven -- tu -- rus est
+    cum glo -- ri -- a ju -- di -- ca -- re vi -- vos et mor -- tu -- os:
+    cu -- jus re -- gni non __ e -- rit fi -- nis,
+    cu -- jus re -- gni,
+    \ijLyrics
+    cu -- jus re -- gni
+    \normalLyrics
+        non e -- rit fi -- nis.
+
+    Et in Spi -- ri -- tum san -- ctum Do -- mi -- num,
+        et vi -- vi -- fi -- can -- tem:
+    qui __ ex Pa -- tre, Fi -- li -- o -- que pro -- ce -- dit.
+    Qui cum Pa -- tre, et Fi -- li -- o si -- mul a -- do -- ra -- tur,
+    et con -- glo -- ri -- fi -- ca -- tur:
+    qui lo -- cu -- tus est per Pro -- phe -- tas.
+
+    % -- part #3 --
+
+    Et u -- nam, san -- ctam, Ca -- tho -- li -- cam,
+        et a -- po -- sto -- li -- cam Ec -- cle -- si -- am.
+
+    Con -- fi -- te -- or u -- num ba -- pti -- sma,
+        in re -- mis -- si -- o -- nem pec -- ca -- to -- rum. __
+    Et ex -- pe -- cto
+        re -- sur -- re -- cti -- o -- nem mor -- tu -- o -- rum, __
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li,
+    \ijLyrics
+    et vi -- tam ven -- tu -- ri sæ -- cu -- li;
+    \normalLyrics
+    A -- men.
+    Et vi -- tam ven -- tu -- ri sæ -- cu -- li.
+    A -- men.
+    A -- men.
 }
 
 cantusIIIincipitVoice = <<

@@ -38,7 +38,7 @@
     \score {
         \new Voice <<
             \clef treble
-            \chantII
+            \transpose f c\chantII
         >>
         \addlyrics { \chantLyricsII }
         \layout {
