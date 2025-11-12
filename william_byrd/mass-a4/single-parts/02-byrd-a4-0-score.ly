@@ -135,4 +135,12 @@
             }
         }
     }
+    \markup {
+        \wordwrap {
+            \vspace #2
+            Plainsong incipit supplied editorially, transposed.
+            Any appropriate Gloria/Credo intonation of the Roman Kyriale may
+            be substituted.
+        }
+    }
 }

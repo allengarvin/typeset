@@ -7,7 +7,11 @@ chantII = \relative c {
     \override Score.BarLine.stencil = ##f
     \override Slur.transparent = ##t
 
-    f4( g bf) bf bf a bf c a c( bf a) a\fermata 
+%   Gloria XI (orbis):
+%    c4( f) ef( d) ef( f) ef( d) c d ef d4 c\fermata
+% David's
+   f4( g bf) bf bf a bf c a c( bf a) a\fermata 
+
     \override Score.BarLine.stencil = ##t
         \bar "||"
 }

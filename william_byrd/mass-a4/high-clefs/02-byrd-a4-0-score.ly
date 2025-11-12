@@ -38,7 +38,7 @@
     \score {
         \new Voice <<
             \clef treble
-            \transpose f c\chantII
+            \transpose f c'\chantII
         >>
         \addlyrics { \chantLyricsII }
         \layout {
@@ -130,6 +130,14 @@
                 \line { art most high in the glory of God the Father. }
                 \line { Amen. }
             }
+        }
+    }
+    \markup {
+        \wordwrap {
+            \vspace #2
+            Plainsong incipit supplied editorially, transposed.
+            Any appropriate Gloria/Credo intonation of the Roman Kyriale may
+            be substituted.
         }
     }
 }
