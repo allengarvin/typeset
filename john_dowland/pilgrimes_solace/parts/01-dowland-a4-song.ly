@@ -257,6 +257,79 @@ bassusLyricsIa = \lyricmode {
 %    \normalLyrics
 }
 
+rhythmI = \relative c' {
+    \invisibleTime\singleTime \time 4/2
+
+    \set Staff.midiMinimumVolume = #0.0
+    \set Staff.midiMaximumVolume = #0.0
+
+    g4*4 g16*4 s g32*4 s g16*4 |
+    s s s g32*4 s g4*4 |
+    g8*4 g16*4 s g32.*4 g64*4 g16*4 s g32.*4 g64*4 |
+    g16*4 g32*4 s s s g16*4 g32*4 s g16*4 g32*4 s g16*4 | 
+    g4*4 g16.*4 g32*4 g16*4 g32*4 s |
+    g8.*4 g16*4 s s s g32*4 s |
+    g4*4 g8*4 g16*4 g32*4 s |
+    g16.*4 g32*4 g16*4 g32*4 s g16*4 s g32*4 s s s |
+        \invisibleTime\time 2/2
+        g4*4
+        \invisibleTime\time 4/2
+
+    % repeat:
+    g8.*4 g16*4 s s s s |
+    s g32*4 s g16*4 s s s s s |
+    s s g32*4 s g16*4 g32*4 s s s s s s s |
+    g16*4 s s s s s g8*4 |
+    s s g16*4 s g8*4 |
+
+    s8*4 g16.*4 g32*4 g16.*4 g32*4 g16*4 s |
+    s s g32*4 s s s g16*4 s s g32*4 s | g4*4
+}
+
+luteI = \relative c {
+    \fourTwoCommonTime
+    \key g \major
+
+    \set Staff.midiMaximumVolume = #0.5
+
+    <g d' g b d g>1 <g' b g'>4 d' fs,8 e' fs4 |
+    <e, g g'> <d d'\3 fs> <e b' g'> g8 e' <d, a'\4 d\3 fs>1 |
+
+    <d a'\4 d\3 fs>2 <d'\3 fs>4 <d, a'\4>
+        <a e''>8. b'16 c4 e a8. b,,16 |
+    <c c' g'>4 <g b'>8 f'' <a,, e''> a' <f a d>4
+        <e gs>8 d' <a\4 c>4 e8 a\4 <gs e'>4 |
+    <a, e' a\4 cs>1 <d fs a d>4. g8 a4 d8 e |
+
+    <d, d'\3 fs>2. <d a'\4 d\3 fs>4 
+        <g, b' d g> <a e''> <b g' g'> g8 g'' |
+        
+    <d, a'\4 d\3 fs>1 <c g' c e>2 <c g' c e>4 c'8 d |
+    <c, g' c e>4. fs'8 g4 <g,, d''>8 g'' 
+        <d, d'\3 fs>4 <b g' d'> <d d'>8 g fs c' \bar "!"
+        \invisibleTime\time 2/2
+    <g, d' g b>1
+        \invisibleTime\time 4/2
+    % checked thru here
+        
+    \repeat volta 2 {
+                                               % vv ds to e
+        <e' b' e g>2. <d b' fs'>4 <c e'> <b' ds> e a, |
+
+        b, ds'8\3 cs ds4\3 <b, b'\4> <a cs'> e'' <d, fs'> d'\3 |
+        <g, g'> e' b8 d g4 a,8\4 g'\2 fs a a,, a'' <e g> a |
+
+        <d,, d'\3 fs>4 a'\4 <g, e'' g> <g' d'> g' c, <g, b'>2 |
+        <e'' g> <g,, d''> g''4 c, <g b>2 |
+        <e' g> <g,, d''>4. c'8 <g b g'>4. a8 <e g>4 <e' g> |
+
+        <d, a' fs'> b' g'8 b, a g <d fs a'>4 <g d'> d' fs,8 d' |
+
+        <g,, d' g b d>1
+    }
+       
+}
+
 cantusIincipitVoice = <<
     \new MensuralVoice <<
         { s1 \noBreak }
