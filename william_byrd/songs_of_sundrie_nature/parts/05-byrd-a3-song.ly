@@ -89,7 +89,7 @@ tenorV = \relative c' {
     f2 ~ | f4 e( d c) bf2 bf | a f c'2. bf4 | a g( f g) a2 a | 
         c2.( d4 e) d f2 ~ | f4( e) d1( cs2) | 
 
-    d2 d c a | c2. bf4( a f c' bf) | a2 d f2.( g4 | a) f bf2.( a4) f2 |
+    d2 d c a | c2. bf4( a f c' bf) | a2 d f2.( g4 | a) g bf2.( a4) f2 |
         e2 a g a | d,1 e | fs\longa*1/2
     \bar "|."
 }
