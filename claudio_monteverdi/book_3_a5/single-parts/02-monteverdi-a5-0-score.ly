@@ -94,7 +94,8 @@
     \markup {
         \fill-line {
             \column {
-                \line { O come è gran martíre }
+                % italian touchup: 2025-11-16
+                \line { O come è gran martire }
                 \line { a celar suo desire }
                 \line { quando con pura fede }
                 \line { s'ama chi non se'l crede. }
@@ -106,17 +107,19 @@
                 \line { quando sarà che viver più non brami. }
             }
             \column {
-                \line { O what great martyrdom it is }
+                % adjusted Campelli's translation a lot, 2025-11-16
+                % martire, fia, some other things
+                \line { O what great torment it is }
                 \line { to conceal your desire }
                 \line { when, with pure faith, }
-                \line { you love someone who does not believe you. }
-                \line { You, exquisite ardour of mine! }
-                \line { You, rightful desire of mine! }
-                \line { If each doth love his heart's passion }
-                \line { and you are my heart's indeed, }
-                \line { then may I only stop loving you }
-                \line { when I no longer long to live. }
-                \line { \hspace #6 translation by Campelli (CPDL license) }
+                \line { you love someone who does not believe you! }
+                \line { O my sweet ardor! }
+                \line { O just desire of mine! }
+                \line { If each loves their own heart }
+                \line { and you are my heart, }
+                \line { then it shall not be that I may not love you}
+                \line { until I shall no longer long to live. }
+                \line { \hspace #10 \italic { translation by editor } }
             }
         }
     }

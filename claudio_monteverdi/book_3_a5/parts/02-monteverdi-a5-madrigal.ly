@@ -1,4 +1,4 @@
-% O come è gran martíre
+% O come è gran martire
 % a celar suo desire
 % quando con pura fede
 % s'ama chi non se'l crede.
@@ -49,27 +49,27 @@ cantoII = \relative c'' {
 }
 
 cantoLyricsII = \lyricmode {
-    O co -- m'è gran mar -- tí -- re,
-    o co -- m'è gran mar -- tí -- re
+    O co -- m'è gran mar -- ti -- re,
+    O co -- m'è gran mar -- ti -- re
     A ce -- lar suo de -- si -- re
     Quan -- do con pu -- ra fe -- de
     S'a -- ma chi non __ se'l cre -- de,
     quan -- do con pu -- ra fe -- de
-    s'a -- ma chi non se'l cre -- de.
+    S'a -- ma chi non se'l cre -- de!
 
     O so -- a -- ve mio~ar -- do -- re,
     O giu -- sto mio de -- si -- o,
-    o so -- a -- ve mio~ar -- do -- re,
-    o giu -- sto mio de -- si -- o,
-    o giu -- sto mio de -- si -- o,
-    o giu -- sto mio de -- si -- o,
+    O so -- a -- ve mio~ar -- do -- re,
+    O giu -- sto mio de -- si -- o,
+    O giu -- sto mio de -- si -- o,
+    O giu -- sto mio de -- si -- o,
     S'o -- gn'un a -- ma~il suo co -- re,
-    s'o -- gn'un a -- ma~il suo co -- re
+    S'o -- gn'un a -- ma~il suo co -- re
     E voi sie -- te~il cor mi -- o,
-    e voi sie -- te~il cor mi -- o,
+    E voi sie -- te~il cor mi -- o,
     Al -- lor non fia ch'io v'a -- mi
     Quan -- do sa -- rà che vi -- ver più non bra -- mi,
-    al -- lor non fia ch'io v'a -- mi
+    Al -- lor non fia ch'io v'a -- mi
     quan -- do sa -- rà che vi -- ver più non bra -- mi.
 }
 
@@ -107,26 +107,26 @@ altoII = \relative c'' {
 }
 
 altoLyricsII = \lyricmode {
-    O co -- m'è gran mar -- tí -- re,
+    O co -- m'è gran mar -- ti -- re,
     A ce -- lar suo de -- si -- re
     Quan -- do con pu -- ra fe -- de
     S'a -- ma chi non se'l cre -- de,
     quan -- do con pu -- ra fe -- de
-    s'a -- ma chi non se'l cre -- de.
+    S'a -- ma chi non se'l cre -- de!
 
     O so -- a -- ve mio~ar -- do -- re, __
-    o so -- a -- ve mio~ar -- do -- re,
+    O so -- a -- ve mio~ar -- do -- re,
     O giu -- sto mio,
     O giu -- sto mio de -- si -- o,
 %    S'o -- gn'un a -- ma~il suo co -- re,
 %    s'o -- gn'un a -- ma~il suo co -- re
     E voi sie -- te~il cor mi -- o,
-    e voi sie -- te~il cor mi -- o, __
+    E voi sie -- te~il cor mi -- o, __
     Al -- lor non fia ch'io v'a -- mi
-    al -- lor non fia __ ch'io v'a -- mi
-    al -- lor non fia ch'io v'a -- mi
+    Al -- lor non fia __ ch'io v'a -- mi
+    Al -- lor non fia ch'io v'a -- mi
     Quan -- do sa -- rà che vi -- ver più,
-    quan -- do sa -- rà che vi -- ver più non bra -- mi,
+    Quan -- do sa -- rà che vi -- ver più non bra -- mi,
         non bra -- mi.
 }
 
@@ -163,8 +163,8 @@ tenoreII = \relative c' {
 }
 
 tenoreLyricsII = \lyricmode {
-%    O co -- m'è gran mar -- tí -- re,
-%    o co -- m'è gran mar -- tí -- re
+%    O co -- m'è gran mar -- ti -- re,
+%    o co -- m'è gran mar -- ti -- re
 %    A ce -- lar suo de -- si -- re
 %    Quan -- do con pu -- ra fe -- de
 %    S'a -- ma chi non se'l cre -- de,
@@ -173,16 +173,16 @@ tenoreLyricsII = \lyricmode {
 %
     O so -- a -- ve mio~ar -- do -- re,
     O giu -- sto mio de -- si -- o,
-    o so -- a -- ve mio~ar -- do -- re,
-    o giu -- sto mio de -- si -- o,
+    O so -- a -- ve mio~ar -- do -- re,
+    O giu -- sto mio de -- si -- o,
     E voi sie -- te~il cor mi -- o,
     S'o -- gn'un a -- ma~il suo co -- re,
-    e voi sie -- te~il cor mi -- o,
+    E voi sie -- te~il cor mi -- o,
     Al -- lor non fia ch'io v'a -- mi
     Quan -- do sa -- rà che vi -- ver più non bra -- mi,
-    al -- lor non fia,
-    al -- lor non fia ch'io v'a -- mi
-    quan -- do sa -- rà che vi -- ver più __ non bra -- mi,
+    Al -- lor non fia,
+    Al -- lor non fia ch'io v'a -- mi
+    Quan -- do sa -- rà che vi -- ver più __ non bra -- mi,
         non bra -- mi.
 }
 
@@ -220,8 +220,8 @@ bassoII = \relative c' {
 }
 
 bassoLyricsII = \lyricmode {
-%    O co -- m'è gran mar -- tí -- re,
-%    o co -- m'è gran mar -- tí -- re
+%    O co -- m'è gran mar -- ti -- re,
+%    o co -- m'è gran mar -- ti -- re
 %    A ce -- lar suo de -- si -- re
 %    Quan -- do con pu -- ra fe -- de
 %    S'a -- ma chi non se'l cre -- de,
@@ -229,17 +229,17 @@ bassoLyricsII = \lyricmode {
 %    s'a -- ma chi non se'l cre -- de.
 %
     O so -- a -- ve mio~ar -- do -- re,
-    o so -- a -- ve mio~ar -- do -- re,
+    O so -- a -- ve mio~ar -- do -- re,
     O giu -- sto mio de -- si -- o,
-    o giu -- sto mio de -- si -- o,
+    O giu -- sto mio de -- si -- o,
     E voi sie -- te~il cor mi -- o,
     S'o -- gn'un a -- ma~il suo co -- re,
-    e voi sie -- te~il cor mi -- o,
+    E voi sie -- te~il cor mi -- o,
     Al -- lor non fia ch'io v'a -- mi
     Quan -- do sa -- rà che vi -- ver più non bra -- mi,
-    al -- lor non fia ch'io v'a -- mi
-    quan -- do sa -- rà che vi -- ver più non bra -- mi,
-    quan -- do sa -- rà che vi -- ver più non bra -- mi.
+    Al -- lor non fia ch'io v'a -- mi
+    Quan -- do sa -- rà che vi -- ver più non bra -- mi,
+    Quan -- do sa -- rà che vi -- ver più non bra -- mi.
 }
 
 quintoIIincipit = \relative c'' {
@@ -282,30 +282,30 @@ quintoII = \relative c'' {
 }
 
 quintoLyricsII = \lyricmode {
-    O co -- m'è gran mar -- tí -- re,
+    O co -- m'è gran mar -- ti -- re,
     A ce -- lar suo de -- si -- re,
-    a ce -- lar suo de -- si -- re
+    A ce -- lar suo de -- si -- re
     Quan -- do con pu -- ra fe -- de
     S'a -- ma chi non se'l cre -- de,
-    quan -- do con pu -- ra fe -- de
-    s'a -- ma chi non se'l cre -- de.
+    Quan -- do con pu -- ra fe -- de
+    S'a -- ma chi non se'l cre -- de.
 
     O so -- a -- ve mio~ar -- do -- re,
     O giu -- sto mio de -- si -- o,
-    o so -- a -- ve mio~ar -- do -- re,
-    o giu -- sto mio de -- si -- o,
-    o giu -- sto mio,
-    o giu -- sto mio de -- si -- o,
+    O so -- a -- ve mio~ar -- do -- re,
+    O giu -- sto mio de -- si -- o,
+    O giu -- sto mio,
+    O giu -- sto mio de -- si -- o,
     S'o -- gn'un a -- ma~il suo co -- re,
     \ijLyrics
-    s'o -- gn'un a -- ma~il suo co -- re,
+    S'o -- gn'un a -- ma~il suo co -- re,
     \normalLyrics
     E voi sie -- te~il cor mi -- o,
-    e voi sie -- te~il cor mi -- o,
+    E voi sie -- te~il cor mi -- o,
     Al -- lor non fia ch'io v'a -- mi
     Quan -- do sa -- rà che vi -- ver più non bra -- mi,
-    al -- lor non fia ch'io v'a -- mi
-    quan -- do sa -- rà che vi -- ver più non bra -- mi.
+    Al -- lor non fia ch'io v'a -- mi
+    Quan -- do sa -- rà che vi -- ver più non bra -- mi.
 }
 
 cantoIIincipitVoice = <<
