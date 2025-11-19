@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Annotated Orlando Furioso</title>
+<style>
+  body {
+    font-family: "Garamond", "Georgia", serif;
+    line-height: 1.6;
+    margin: 2em auto;
+    max-width: 900px;
+    counter-reset: octave;
+  }
+
+  .octave-wrapper {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1.8em;
+  }
+
+  .margin-note {
+    flex: 0 0 180px;         /* width of margin column */
+    font-size: 0.9em;
+    color: #666;
+    padding-right: 1em;
+    border-right: 1px solid #ddd;
+    margin-right: 1em;
+  }
+
+  .octave {
+    flex: 1;
+    counter-increment: octave;
+  }
+
+  .octave::before {
+    content: "Ottava " counter(octave);
+    display: block;
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 0.3em;
+  }
+
+  .annotated {
+    color: #0044cc;
+    cursor: pointer;
+    position: relative;
+  }
+
+  /* tooltip styling */
+  .tooltip {
+    position: absolute;
+    background: #fff8c6;
+    border: 1px solid #e0d97a;
+    padding: 6px 10px;
+    border-radius: 6px;
+    box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.2);
+    font-size: 0.9em;
+    width: 250px;
+    max-width: 500px;
+    z-index: 100;
+    display: none;
+    white-space: normal; /* allows wrapping */
+
+  }
+</style>
+</head>
+<body>
+<table>
+<tr><td><h1><center>Orlando Furioso: Canto XIX (annotato)</center></h1></td></tr>
+<td><br></td>
+<tr><td><table>
+<tr><td align="left"><h2><a href="orlando-18.html">Prev. (Canto XVIII)</a></h2></td><td align="right"><h2><a href="orlando-20.html">Next. (Canto XX)</h2></a></td></tr>
+</table></td></tr>
+</table>
+   1.  Ritorna il topos della modestia affettata, più ampiamente svolto<br />
+   nel proemio del c. I (ott. 3). Questo esordio, rivolto direttamente al<br />
+   cardinale Ippolito (v. 1, Magnanimo Signore), ha intonazione encomiastica,<br />
+   ma tocca anche, discretamente, un problema concreto nell’ amministrazione<br />
+   del tempo, spesso affidata a funzionari inetti e disonesti.<br />
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll('.annotated').forEach(function(el) {
+    const tooltip = document.createElement('div');
+    tooltip.className = 'tooltip';
+    tooltip.innerText = el.dataset.annotation;
+    el.appendChild(tooltip);
+
+    el.addEventListener('mouseenter', function() {
+      tooltip.style.display = 'block';
+      const rect = el.getBoundingClientRect();
+      tooltip.style.left = (el.offsetWidth / 2) + 'px';
+      tooltip.style.top = '1.5em';
+    });
+
+    el.addEventListener('mouseleave', function() {
+      tooltip.style.display = 'none';
+    });
+  });
+</script>
+
+</body>
+</html>
+
