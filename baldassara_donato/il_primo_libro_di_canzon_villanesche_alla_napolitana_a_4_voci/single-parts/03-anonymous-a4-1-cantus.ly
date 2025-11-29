@@ -17,7 +17,7 @@
     instrument = "E quando a fato (cantus)"
 
     % Unchanging:
-    composer = "Anonymous (Tiberio Fabrianese, attr. from RISM 1550/20" 
+    composer = "Anonymous (Tiberio Fabrianese, attr. from RISM 1550/20)" 
     originallyset = "2015-08-31"
     lastupdated = "2015-08-31"
     shorttitle = "la_canzon_della_gallino"

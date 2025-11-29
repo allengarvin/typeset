@@ -21,7 +21,7 @@
     flats = 1
     final = "f"
     shorttitle = "chi_chi_li_chi"
-    categories = "[madrigal]"
+    categories = "[madrigal,animal]"
     motifs = "[bagpipe]"
     \include "include/distribution-header.ly"
     cksum = "691d3c1121dfd9a2b6baba604fcc1128c2ba63e4"

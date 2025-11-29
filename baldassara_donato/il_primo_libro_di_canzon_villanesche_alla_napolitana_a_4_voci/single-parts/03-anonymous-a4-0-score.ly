@@ -18,7 +18,7 @@
     instrument = "E quando a fato (score)"
 
     % Unchanging:
-    composer = "Anonymous (Tiberio Fabrianese, attr. from RISM 1550/20" 
+    composer = "Anonymous (Tiberio Fabrianese, attr. from RISM 1550/20)" 
     originallyset = "2015-08-31"
     lastupdated = "2015-08-31"
     flats = 1
