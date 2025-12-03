@@ -106,13 +106,13 @@
             }
             \column {
                 % translation modified: 2024-11-14
-                \line { Stubbornly I wish to follow }
+                \line { Stubbornly I shall follow }
                 \line { my noblest venture; }
                 \line { Do to me, Love, what offends you, }
                 \line { if I must die well. }
                 \line { \hspace #10 Stubbornly... }
                 \line { \vspace #2 }
-                \line { Do me, Heavens, do me, O Fortune, }
+                \line { Do to me, Heavens, do to me, O Fortune, }
                 \line { good or ill as pleases you: }
                 \line { neither pleasure nor any injury }
                 \line { will dishearten me or make me more foolhardy. }
