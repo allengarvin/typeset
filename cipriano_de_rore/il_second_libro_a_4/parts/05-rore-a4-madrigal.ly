@@ -13,8 +13,8 @@
 % E i lievi sogni, che con non secure 
 % vestigia di seguirti han' per costume? 
 % Lasso, che' nvan te chiamo, e queste oscure 
-% e gelide ombre invan lusingo. O piume 
-% d'asprezza colme! O notti acerbe & dure!
+% e gelide ombre invan lusingo: o piume 
+% d'asprezza colme! o notti acerbe e dure!
 
 
 cantoVincipit = \relative c'' {
@@ -60,6 +60,23 @@ cantoV = \relative c'' {
 }
 
 cantoLyricsV = \lyricmode {
+%    O son -- no, o del -- la que -- ta~u -- mi -- da~om -- bro -- sa
+%    Not -- te pla -- ci -- do fi -- glio; o de' mor -- ta -- li~E -- gri
+%        con -- for -- to, o -- blio dol -- ce de ma -- li
+%    Sì gra -- vi, on -- d'è la vi -- ta~a -- spra~e noi -- o -- sa;
+%    Soc -- cor -- ri~al cor o -- mai,
+%    Soc -- cor -- ri~al cor o -- mai,
+%        che lan -- gu'e po -- sa
+%    Non a -- ve, e que -- ste mem -- bra stan -- ch'e fra -- li
+%    Sol -- le -- va: a me t'en vo -- la~o son -- no,
+%        a me t'en vo -- la~o son -- no, e l'a -- li
+%    Tue bru -- ne so -- vra me di -- sten -- di~e po -- sa.
+%    O -- v'è'l si -- len -- zio, che'l dì fug -- ge, e'l lu -- me?
+%    E~i lie -- vi so -- gni, che con non se -- cu -- re
+%    Ve -- sti -- gia di se -- guir -- ti~han' per co -- stu -- me?
+%    Las -- so, che'n -- van te chia -- m'e que -- ste~o -- scu -- r'E
+%        ge -- li -- de~om -- bre in -- van lu -- sin -- go: o piu -- me
+%    D'a -- sprez -- za col -- me! o not -- ti~a -- cer -- b'e du -- re!
 }
 
 altoVincipit = \relative c'' {
@@ -106,6 +123,23 @@ altoV = \relative c'' {
 }
 
 altoLyricsV = \lyricmode {
+%    O son -- no, o del -- la que -- ta~u -- mi -- da~om -- bro -- sa
+%    Not -- te pla -- ci -- do fi -- glio; o de' mor -- ta -- li~E -- gri
+%        con -- for -- to, o -- blio dol -- ce de ma -- li
+%    Sì gra -- vi, on -- d'è la vi -- ta~a -- spra~e noi -- o -- sa;
+%    Soc -- cor -- ri~al cor o -- mai,
+%    Soc -- cor -- ri~al cor o -- mai,
+%        che lan -- gu'e po -- sa
+%    Non a -- ve, e que -- ste mem -- bra stan -- ch'e fra -- li
+%    Sol -- le -- va: a me t'en vo -- la~o son -- no,
+%        a me t'en vo -- la~o son -- no, e l'a -- li
+%    Tue bru -- ne so -- vra me di -- sten -- di~e po -- sa.
+%    O -- v'è'l si -- len -- zio, che'l dì fug -- ge, e'l lu -- me?
+%    E~i lie -- vi so -- gni, che con non se -- cu -- re
+%    Ve -- sti -- gia di se -- guir -- ti~han' per co -- stu -- me?
+%    Las -- so, che'n -- van te chia -- m'e que -- ste~o -- scu -- r'E
+%        ge -- li -- de~om -- bre in -- van lu -- sin -- go: o piu -- me
+%    D'a -- sprez -- za col -- me! o not -- ti~a -- cer -- b'e du -- re!
 }
 
 tenoreVincipit = \relative c' {
@@ -133,10 +167,10 @@ tenoreV = \relative c' {
         c d e1 | r1 cs | cs2 cs d1 | f d | e r1 | cs1 cs2 cs | d1 f | d e |
         r2 d
 
-    f1 | f2 d d1 | cs e2 e | e e1 | cs d ~ | d1 d\longa*1/4
+    f1 | f2 d d1 | cs e2 e | e e e1 | cs d ~ | d1 d\longa*1/4
         \bar "||"
         \time 3/1
-        b\breve c1 | b c\breve | bf\breve. ~ | b\breve r1 |
+        b\breve c1 | b c\breve | \ficta b\breve. ~ | b\breve r1 \unficta |
         \fourTwoCutTime
         \ficta b1.\unficta c2 | e2.( d8[ c] b2) c | r1 g | b b2 b | c b
 
@@ -151,6 +185,23 @@ tenoreV = \relative c' {
 }
 
 tenoreLyricsV = \lyricmode {
+%    O son -- no, o del -- la que -- ta~u -- mi -- da~om -- bro -- sa
+%    Not -- te pla -- ci -- do fi -- glio; o de' mor -- ta -- li~E -- gri
+%        con -- for -- to, o -- blio dol -- ce de ma -- li
+%    Sì gra -- vi, on -- d'è la vi -- ta~a -- spra~e noi -- o -- sa;
+%    Soc -- cor -- ri~al cor o -- mai,
+%    Soc -- cor -- ri~al cor o -- mai,
+%        che lan -- gu'e po -- sa
+%    Non a -- ve, e que -- ste mem -- bra stan -- ch'e fra -- li
+%    Sol -- le -- va: a me t'en vo -- la~o son -- no,
+%        a me t'en vo -- la~o son -- no, e l'a -- li
+%    Tue bru -- ne so -- vra me di -- sten -- di~e po -- sa.
+%    O -- v'è'l si -- len -- zio, che'l dì fug -- ge, e'l lu -- me?
+%    E~i lie -- vi so -- gni, che con non se -- cu -- re
+%    Ve -- sti -- gia di se -- guir -- ti~han' per co -- stu -- me?
+%    Las -- so, che'n -- van te chia -- m'e que -- ste~o -- scu -- r'E
+%        ge -- li -- de~om -- bre in -- van lu -- sin -- go: o piu -- me
+%    D'a -- sprez -- za col -- me! o not -- ti~a -- cer -- b'e du -- re!
 }
 
 bassoVincipit = \relative c {
@@ -203,14 +254,14 @@ bassoLyricsV = \lyricmode {
     % Non a -- ve, 
         e que -- ste mem -- bra stan -- ch'e fra -- li 
     Sol -- le -- va: a me t'en vo -- la~o __ son -- no,
-        a me t'en vo -- la~o son -- no, e l'a -- li 
+        a me t'en vo -- la~o __ son -- no, e l'a -- li 
     Tue bru -- ne so -- vra me di -- sten -- di~e po -- sa. 
-% Ov'è'l silenzio, che'l dì fugge, e'l lume?
-% E i lievi sogni, che con non secure 
-% Vestigia di seguirti han' per costume? 
-% Lasso, che' nvan te chiamo, e queste oscure 
-% E gelide ombre invan lusingo. O piume 
-% D'asprezza colme! O notti acerbe & dure!
+    O -- v'è'l si -- len -- zio, che'l dì fug -- ge, e'l lu -- me?
+    E~i lie -- vi so -- gni, che con non se -- cu -- re 
+    Ve -- sti -- gia di se -- guir -- ti~han' per co -- stu -- me? __
+    Las -- so, che'n -- van te chia -- m'e que -- ste~o -- scu -- r'E 
+        ge -- li -- de~om -- bre in -- van lu -- sin -- go: o piu -- me 
+    D'a -- sprez -- za col -- me! o not -- ti~a -- cer -- b'e du -- re!
 }
 
 cantoVincipitVoice = <<
