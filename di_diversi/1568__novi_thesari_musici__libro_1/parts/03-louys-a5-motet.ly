@@ -3,6 +3,10 @@
 % Aperiatur terra
 % et germinet salvatorem.
 
+% Exspectetur sicut pluvia eloquium Domini
+% Aperiatur terra
+% et germinet salvatorem.
+
 cantusIIIincipit = \relative c'' {
     \time 2/2
     \clef "petrucci-g"
