@@ -14,8 +14,8 @@ cantusVIIIincipit = \relative c'' {
     g\breve
 }
 
+% cantus: checked against source
 cantusVIII = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCutTime
 
@@ -42,6 +42,25 @@ cantusVIII = \relative c'' {
 }
 
 cantusLyricsVIII = \lyricmode {
+    Heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi,
+        qui -- a pec -- ca -- vi ni -- mis,
+    heu __ mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis,
+    heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis in vi -- ta me -- a,
+            in __ vi -- ta me -- a.
+    Quid fa -- ci -- am mi -- ser?
+        U -- bi fu -- gi -- am,
+        u -- bi fu -- gi -- am,
+        u -- bi fu -- gi -- am, ni -- si ad te, De -- us me -- us?
+    Mi -- se -- re -- re me -- i, __
+    mi -- se -- re -- re me -- i,
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e,
+            in no -- vis -- si -- mo di -- e,
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e,
+        dum __ ve -- ne -- ris in no -- vis -- si -- mo,
+            in no -- vis -- si -- mo di -- e.
 }
 
 altusVIIIincipit = \relative c' {
@@ -52,8 +71,8 @@ altusVIIIincipit = \relative c' {
     d\breve
 }
 
+% altus: checked against source
 altusVIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
@@ -74,11 +93,33 @@ altusVIII = \relative c' {
 
     f1 | R\breve | r1 d | e2. e4 f1 | r2 d1 c2 | bf a f' d ~ | 
         d4( c bf c d2) c | R\breve | r2 c d2. d4 | d2 f ef d ~ | d4 d g1 f2 |
-        e f1 d2 | f g f c | d\longa*1/2
+        e f1 d2 | f g f c | d\breve~d\longa*1/2
     \bar "|."
 }
 
 altusLyricsVIII = \lyricmode {
+    Heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi,
+        qui -- a pec -- ca -- vi ni -- mis,
+        qui -- a pec -- ca -- vi __ ni -- mis,
+    heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis,
+    heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis in vi -- ta me -- a,
+            in __ vi -- ta me -- a.
+    Quid fa -- ci -- am __ mi -- ser,
+    quid fa -- ci -- am mi -- ser?
+        U -- bi fu -- gi -- am,
+        u -- bi fu -- gi -- am,
+        u -- bi fu -- gi -- am, 
+    Mi -- se -- re -- re me -- i,
+    mi -- se -- re -- re me -- i,
+    mi -- se -- re -- re me -- i,
+        dum ve -- ne -- ris in __ no -- vis -- si -- mo di -- e,
+        dum ve -- ne -- ris,
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e,
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e,
+            in no -- vis -- si -- mo di -- e. __
 }
 
 tenorVIIIincipit = \relative c' {
@@ -89,8 +130,8 @@ tenorVIIIincipit = \relative c' {
     g\breve
 }
 
+% tenor: checked against source
 tenorVIII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCutTime
 
@@ -116,6 +157,26 @@ tenorVIII = \relative c' {
 }
 
 tenorLyricsVIII = \lyricmode {
+    Heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi 
+        qui -- a pec -- ca -- vi ni -- mis,
+        qui -- a pec -- ca -- vi ni -- mis,
+    heu __ mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis,
+    heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis in vi -- ta me -- a,
+            in vi -- ta me -- a.
+    Quid fa -- ci -- am mi -- ser, __
+    quid __ fa -- ci -- am mi -- ser? __
+        U -- bi fu -- gi -- am,
+        u -- bi fu -- gi -- am,
+        u -- bi fu -- gi -- am, ni -- si ad te, De -- us me -- us?
+    Mi -- se -- re -- re me -- i,
+    mi -- se -- re -- re me -- i, __
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e,
+            in no -- vis -- si -- mo di -- e,
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e,
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e.
 }
 
 bassusVIIIincipit = \relative c {
@@ -126,8 +187,8 @@ bassusVIIIincipit = \relative c {
     d\breve
 }
 
+% bassus: checked against source
 bassusVIII = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCutTime
 
@@ -142,15 +203,28 @@ bassusVIII = \relative c {
         R\breve | r2 bf2. c4 d g, | a1 r2 d | d g f bf, | c1 d | g, r2 g' ~ |
         g g g g | ef1 bf | R\breve | bf1. bf2 | bf bf
 
-    g1 ~ | g d' | R\breve*2 | r2 a d2. d4 | bf2 bf'1 a2 | g fs g c, | d1 r2 g |
+    g1 ~ | g d' | R\breve*3 | r2 a d2. d4 | bf2 bf'1 a2 | g fs g c, | d1 r2 g |
         c,2. c4 f1 | R\breve*2 | bf1. a2 | g fs g ef ~ | ef4( d c2) bf1 |
-        r2 g d'2. d4 | 
+        R\breve r2 g d'2. d4 | 
 
     a2 a'1 g2 | f e f1 | bf,2.( c4 d1) | g,\longa*1/2
     \bar "|."
 }
 
 bassusLyricsVIII = \lyricmode {
+    Heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi __ ni -- mis,
+        qui -- a pec -- ca -- vi,
+        qui -- a pec -- ca -- vi ni -- mis,
+    heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis in vi -- ta me -- a.
+    Quid fa -- ci -- am mi -- ser? __
+        U -- bi fu -- gi -- am, ni -- si ad te, De -- us me -- us?
+    Mi -- se -- re -- re me -- i,
+    mi -- se -- re -- re me -- i,
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e,
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e,
+        dum ve -- ne -- ris in no -- vis -- si -- mo di -- e. 
 }
 
 quintusVIIIincipit = \relative c' {
@@ -161,8 +235,8 @@ quintusVIIIincipit = \relative c' {
     d\breve
 }
 
+% quintus: checked against source
 quintusVIII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCutTime
 
@@ -189,6 +263,24 @@ quintusVIII = \relative c' {
 }
 
 quintusLyricsVIII = \lyricmode {
+    Heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis,
+        qui -- a pec -- ca -- vi ni -- mis, __
+    heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis,
+    heu mi -- hi, Do -- mi -- ne,
+        qui -- a pec -- ca -- vi ni -- mis in vi -- ta me -- a,
+            in vi -- ta me -- a.
+    Quid fa -- ci -- am mi -- ser, __
+    quid __ fa -- ci -- am mi -- ser?
+        U -- bi fu -- gi -- am, ni -- si ad te, De -- us me -- us?
+    Mi -- se -- re -- re me -- i,
+    mi -- se -- re -- re me -- i,
+        dum ve -- ne -- ris in __ no -- vis -- si -- mo,
+            in no -- vis -- si -- mo di -- e,
+        dum __ ve -- ne -- ris in no -- vis -- si -- mo di -- e,
+        dum ve -- ne -- ris in __ no -- vis -- si -- mo di -- e,
+        dum ve -- ne -- ris in no -- vis -- si -- mo __ di -- e.
 }
 
 cantusVIIIincipitVoice = <<
