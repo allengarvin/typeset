@@ -1,8 +1,12 @@
-% Confitemini Domino, et invocate nomen ejus; annuntiate inter gentes opera ejus.
-% Cantate ei, et psallite ei; narrate omnia mirabilia ejus.
-% Laudamini in nomine sancto ejus; laetetur cor quaerentium Dominum.
+% Confitemini Domino et invocate nomen ejus,
+% annuntiate inter gentes opera ejus,
+% cantate ei et psallite ei.
 % 
-% Psalm 104:1-3
+% Narrate omnia mirabilia ejus,
+% laudamini in nomine sancto ejus,
+% laetetur cor quaerentium Dominum.
+% 
+% (Ps. 104;1-3)
 
 cantusIincipit = \relative c'' {
     \clef "petrucci-g"
@@ -12,16 +16,18 @@ cantusIincipit = \relative c'' {
     d1
 }
 
+% cantus: checked against source
 cantusI = \relative c'' {
-    \clef treble
     \key f \major
     \fourTwoCutTime
 
     r1 d | d2 d2. d4 d2 | bf bf a d | d d2. d4 d2 | bf bf g d' | d d1 d2 | 
         a d1\ficta cs2\unficta | d\breve | r1 d | d2 d
 
-    c1 ~ | c2 bf a1 | f2 f'2.( e8[ d] e2) | f d d a | c1 d ~ | d\breve |
-        r2 f f f | ef1 d ~ | d r1 | g g2 g | f1 ef | d c | c b2 b | b b c1 ~ |
+                                                       % vvvvvvv d\breve. to d\breve
+    c1 ~ | c2 bf a1 | f2 f'2.( e8[ d] e2) | f d d a | c1 d ~ | d r2 f |
+                % vvvvvvvvvvvv d\breve to d\breve. 
+        f f ef1 | d\breve ~ d1 r1 | g g2 g | f1 ef | d c | c b2 b | b b c1 ~ |
         c
 
     d2.( e4 | f1) d | d d | c r2 a ~ | a4( bf c d e2) a, | g1 d'2 d ~ | 
@@ -36,6 +42,20 @@ cantusI = \relative c'' {
 }
 
 cantusLyricsI = \lyricmode {
+    Con -- fi -- te -- mi -- ni Do -- mi -- no,
+    con -- fi -- te -- mi -- ni Do -- mi -- no,
+    con -- fi -- te -- mi -- ni Do -- mi -- no
+        et in -- vo -- ca -- te no -- men e -- jus,
+        et in -- vo -- ca -- te, __
+        et in -- vo -- ca -- te, __
+        et in -- vo -- ca -- te no -- men e -- jus,
+    an -- nun -- ti -- a -- te __ in -- ter gen -- tes,
+        in -- ter gen -- tes,
+        in -- ter gen -- tes __ o -- pe -- ra e -- jus,
+            o -- pe -- ra e -- jus.
+    Can -- ta -- te,
+    can -- ta -- te e -- i et psal -- li -- te e -- i.
+%        et psal -- li -- te e -- i.
 }
 
 altusIincipit = \relative c'' {
@@ -46,8 +66,8 @@ altusIincipit = \relative c'' {
     g1
 }
 
+% altus: checked against source
 altusI = \relative c'' {
-    \clef mezzosoprano
     \key f \major
     \fourTwoCutTime
 
@@ -58,20 +78,31 @@ altusI = \relative c'' {
         bf2 bf1 a2 | \[ bf1( \colorBr c2.\colorBrBegin \] bf4\colorBrEnd |
         a g a2) \[ d,1( | g) \] r1 | bf1 bf2 bf | 
 
-    bf2 f c' g ~ | g4( f d2) e4\melfi c g'2 ~ | g4 fs8[ e] fs!2\melfiEnd g1 |
+    bf2 f c' g ~ | g4( f d2) e4\melfi c g'2 ~ | g4 f8[ e] f2\melfiEnd g1 |
         g g2 g | a1 bf ~ | bf bf | bf a | a2.( g8[ f] e1) | a2.( bf4 c2) c |
         c1 bf | g g | g
 
     f2 f2 ~ | f f2 f2.( e4 | d bf bf'2) a1 ~ | a bf1 | f2. f4 a2 g2 ~ |
         g4\melfi fs8[ e] fs!2\melfiEnd g2.( a4 | bf1) r1 | r2 g g4( f ef d |
-        c2) c g'1 | a2 a1 a2 ~ | a a1 g2 | bf
+        c2) c g'1 | a2 a1 a2 ~ | a g2 bf
 
-    bf1 f2 | r2 a1 c2 ~ | c c bf1 ~ | bf a\breve 
-        fs\longa*1/2
+    bf ~ | bf f2 r2 a ~ | a c1 c2 | bf\breve a\breve fs\longa*1/2
     \bar "|."
 }
 
 altusLyricsI = \lyricmode {
+    Con -- fi -- te -- mi -- ni __ Do -- mi -- no,
+    con -- fi -- te -- mi -- ni Do -- mi -- no
+        et in -- vo -- ca -- te no -- men e -- jus,
+            no -- men e -- jus,
+        et in -- vo -- ca -- te no -- men e -- jus,
+        et in -- vo -- ca -- te no -- men __ e -- jus,
+    an -- nun -- ti -- a -- te __ in -- ter gen -- tes, __
+        in -- ter gen -- tes,
+        in -- ter gen -- tes o -- pe -- ra __ e -- jus,
+            o -- pe -- ra e -- jus. __
+    Can -- ta -- te e -- i et psal -- li -- te e -- i,
+        et __ psal -- li -- te e -- i.
 }
 
 tenorIincipit = \relative c' {
@@ -82,8 +113,8 @@ tenorIincipit = \relative c' {
     d1
 }
 
+% tenor: checked against source
 tenorI = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
@@ -107,6 +138,18 @@ tenorI = \relative c' {
 }
 
 tenorLyricsI = \lyricmode {
+    Con -- fi -- te -- mi -- ni Do -- mi -- no,
+    con -- fi -- te -- mi -- ni Do -- mi -- no
+        et in -- vo -- ca -- te no -- men e -- jus,
+        et in -- vo -- ca -- te no -- men e -- jus,
+        et in -- vo -- ca -- te no -- men __ e -- jus,
+        et in -- vo -- ca -- te no -- men e -- jus,
+    an -- nun -- ti -- a -- te __ in -- ter gen -- tes,
+        in -- ter gen -- tes, __
+        in -- ter gen -- tes o -- pe -- ra e -- jus.
+    Can -- ta -- te e -- i et psal -- li -- te e -- i,
+        et psal -- li -- te e -- i,
+        et psal -- li -- te e -- i.
 }
 
 bassusIincipit = \relative c' {
@@ -117,8 +160,8 @@ bassusIincipit = \relative c' {
     g1
 }
 
+% bassus: checked against source
 bassusI = \relative c' {
-    \clef varbaritone
     \key f \major
     \fourTwoCutTime
 
@@ -141,6 +184,15 @@ bassusI = \relative c' {
 }
 
 bassusLyricsI = \lyricmode {
+    Con -- fi -- te -- mi -- ni Do -- mi -- no,
+    con -- fi -- te -- mi -- ni Do -- mi -- no
+        et in -- vo -- ca -- te no -- men e -- jus,
+        et in -- vo -- ca -- te no -- men e -- jus,
+        et in -- vo -- ca -- te no -- men e -- jus,
+    an -- nun -- ti -- a -- te in -- ter gen -- tes,
+        in -- ter gen -- tes,
+        in -- ter gen -- tes o -- pe -- ra e -- jus.
+    Can -- ta -- te e -- i et psal -- li -- te __ e -- i.
 }
 
 quintusIincipit = \relative c' {
@@ -151,8 +203,8 @@ quintusIincipit = \relative c' {
     d1
 }
 
+% quintus: checked against source
 quintusI = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
@@ -172,12 +224,24 @@ quintusI = \relative c' {
     f4( e d c d e f2) | d1 r1 | r2 d d4( c bf a | g2) g g'( d) | d1 r2 g |
         g4( f ef d c1~ | c) d2 c | c1 r2 d | d2.( e4 f2) d |
 
-    e1 e | d2 d d2. d4 c2 a
+    e1 e | d2 d d2. d4 | c2 a a1 ~ 
         a\longa*1/2
     \bar "|."
 }
 
 quintusLyricsI = \lyricmode {
+    Con -- fi -- te -- mi -- ni Do -- mi -- no,
+    con -- fi -- te -- mi -- ni Do -- mi -- no
+        et in -- vo -- ca -- te no -- men e -- jus,
+        et in -- vo -- ca -- te no -- men e -- jus, __
+        et in -- vo -- ca -- te no -- men e -- jus,
+            no -- men e -- jus, __
+    an -- nun -- ti -- a -- te __ in -- ter gen -- tes,
+        in -- ter gen -- tes, 
+        in -- ter gen -- tes __ o -- pe -- ra e -- jus.
+    Can -- ta -- te e -- i,
+    can -- ta -- te e -- i et psal -- li -- te e -- i,
+        et psal -- li -- te e -- i. __
 }
 
 cantusIincipitVoice = <<

@@ -1,10 +1,10 @@
-%Heroum soboles, amor orbis: Carole nostri,
+%Heroum soboles, amor orbis: Carole nostri
 %solus es afflicto Musarum tempore alumnos
 %qui colis et facili largiris munera dextra.
 %
-%Propterea celebrat Musica diva libenter,
+%Propterea celebrat te Musica diva libenter,
 %laudibus et meritis ad sidera tollere gestit.
-%vive diu, Austriacæ spes optima maxima gentis!
+%Vive diu, Austriacæ spes optima maxima gentis!
 
 cantusXXIIIincipit = \relative c' {
     \clef "petrucci-c1"
@@ -14,8 +14,8 @@ cantusXXIIIincipit = \relative c' {
     f1
 }
 
+% cantus: checked against source
 cantusXXIII = \relative c' {
-    \clef soprano
     \key f \major
     \fourTwoCutTime
 
@@ -34,12 +34,31 @@ cantusXXIII = \relative c' {
         g a a a ~ | a g
 
     g1 | R\breve | r1 d' | d1. cs2 | cs1 d ~ | d2 b b1 | c a | c c ~ |
-        c2 b b1 | c1. c2 | c\breve | f, | f\longa*1/2
+        c2 b b1 | c1. c2 | c\breve | f, | f\breve~f\longa*1/2
 
     \bar "|."
 }
 
 cantusLyricsXXIII = \lyricmode {
+    He -- ro -- um so -- bo -- les,
+    he -- ro -- um so -- bo -- les, a -- mor or -- bis:
+        Ca -- ro -- le no -- stri
+    so -- lus es,
+        Ca -- ro -- le no -- stri
+    so -- lus es __ af -- fli -- cto Mu -- sa -- rum,
+        af -- fli -- cto Mu -- sa -- rum tem -- po -- re a -- lum -- nos
+    qui co -- lis et fa -- ci -- li lar -- gi -- ris mu -- ne -- ra dex -- tra.
+
+    Pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    lau -- di -- bus et me -- ri -- tis
+        ad si -- de -- ra tol -- le -- re ge -- stit.
+    Vi -- ve di -- u,
+    vi -- ve di -- u, Au -- stri -- a -- cæ
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis,
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis. __
 }
 
 altusXXIIIincipit = \relative c' {
@@ -50,8 +69,8 @@ altusXXIIIincipit = \relative c' {
     c1
 }
 
+% altus: checked against source
 altusXXIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
@@ -72,11 +91,31 @@ altusXXIII = \relative c' {
 
     r1 c | a2 c bf g | d'1. e2 | e1 d | d1. e2 | e1 d ~ | d2 d d1 |
         c c | c g' ~ | g2 g g1 | g1. a2 | f1. f2 ~ | f4( e d c bf1) |
-        c\longa*1/2
+        c\breve~c\longa*1/2
     \bar "|."
 }
 
 altusLyricsXXIII = \lyricmode {
+    He -- ro -- um so -- bo -- les,
+    he -- ro -- um so -- bo -- les, a -- mor or -- bis:
+        Ca -- ro -- le no -- stri
+    so -- lus es,
+        Ca -- ro -- le no -- stri
+    so -- lus es __ af -- fli -- cto Mu -- sa -- rum,
+        af -- fli -- cto __ Mu -- sa -- rum tem -- po -- re,
+            tem -- po -- re __ a -- lum -- nos
+    qui __ co -- lis et fa -- ci -- li lar -- gi -- ris mu -- ne -- ra dex -- tra.
+
+    Pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    lau -- di -- bus et me -- ri -- tis
+        ad __ si -- de -- ra __ tol -- le -- re ge -- stit.
+    Vi -- ve di -- u,
+    vi -- ve di -- u, Au -- stri -- a -- cæ
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis,
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis. __
 }
 
 tenorXXIIIincipit = \relative c' {
@@ -87,8 +126,8 @@ tenorXXIIIincipit = \relative c' {
     a1
 }
 
+% tenor: checked against source
 tenorXXIII = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCutTime
 
@@ -104,17 +143,39 @@ tenorXXIII = \relative c' {
         a4 a a2 g1 ~ | g g2 g | d'2. c4 c2 bf ~ | bf4 g g2 a f ~ |
         f4 c c2 g'1 | f2 c' d1 | c2 c
 
-    f,2. a4 | a2 g2. g4 a2 | a bf2. a4 a2 | g c, d1 | \[ a'1( g) \] |
+    f,2. a4 | a2 g2. g4 g2 | a bf2. a4 a2 | g c, d1 | \[ a'1( g) \] |
         f1 a ~ | a2 g g1 | a f2. f4 | g1 g | a2. a4 f2 bf ~ |
         bf4 bf g1 c2 ~ | c4 c a2 \[ a1( | g) \] c, | 
 
-    c'1 a2 c ~ | c g c1 ~ | c2 a f1 | f2 g g1 ~ | g2 g g1 ~ | g f ~ |
-        f2 e e1 | r1 d | d2 g1 c,2 ~ | c c r2 c' ~ | c g1 g2 | 
-        g g1 c2 | c2.( bf4 a g a2) | f\breve ~ | f1 f\longa*1/2
+    c'1 a2 c ~ | c g c1 ~ | c2 a f1 | f2 g g1 ~ | g2 g g1 ~ | g g |
+        f1. e2 | e1 r1 | d d2 g ~ | g c,1 c2 | r2 c'1 g2 ~ | g g2 g g ~ |
+        g c2 c2.( bf4 | a g a2) f1 ~ f\breve | f\breve~f\longa*1/2
     \bar "|."
 }
 
 tenorLyricsXXIII = \lyricmode {
+    He -- ro -- um so -- bo -- les,
+    he -- ro -- um so -- bo -- les, a -- mor or -- bis:
+        Ca -- ro -- le no -- stri
+    so -- lus es,
+        Ca -- ro -- le no -- stri
+    so -- lus es __ af -- fli -- cto Mu -- sa -- rum,
+        af -- fli -- cto Mu -- sa -- rum __ tem -- po -- re a -- lum -- nos,
+            tem -- po -- re a -- lum -- nos
+%    qui co -- lis,
+    qui __ co -- lis et fa -- ci -- li lar -- gi -- ris mu -- ne -- ra dex -- tra.
+
+    Pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    lau -- di -- bus et me -- ri -- tis
+        ad si -- de -- ra tol -- le -- re,
+            tol -- le -- re ge -- stit.
+    Vi -- ve di -- u,
+    vi -- ve di -- u, Au -- stri -- a -- cæ __
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis,
+        spes o -- pti -- ma ma -- xi -- ma __ gen -- tis. __
 }
 
 bassusXXIIIincipit = \relative c {
@@ -125,8 +186,8 @@ bassusXXIIIincipit = \relative c {
     f1
 }
 
+% bassus: checked against source
 bassusXXIII = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCutTime
 
@@ -146,11 +207,29 @@ bassusXXIII = \relative c {
         c c, r2 c | g1. c2 | c1 g | d'1. a2 | a1 d ~ | d2 g, g1 | c f, |
         f' c ~ | c2 g
 
-    g1 | c1. f,2 | f\breve | bf | f\longa*1/2
+    g1 | c1. f,2 | f\breve | bf | f\breve ~ f\longa*1/2
     \bar "|."
 }
 
 bassusLyricsXXIII = \lyricmode {
+    He -- ro -- um so -- bo -- les,
+    he -- ro -- um so -- bo -- les, a -- mor or -- bis:
+        Ca -- ro -- le no -- stri
+    so -- lus es __ af -- fli -- cto Mu -- sa -- rum,
+        af -- fli -- cto Mu -- sa -- rum tem -- po -- re,
+            tem -- po -- re a -- lum -- nos
+%    qui co -- lis,
+    qui co -- lis et fa -- ci -- li lar -- gi -- ris mu -- ne -- ra dex -- tra.
+
+    Pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    lau -- di -- bus et me -- ri -- tis
+%        ad si -- de -- ra,
+        ad si -- de -- ra tol -- le -- re ge -- stit.
+    Vi -- ve di -- u,
+    vi -- ve di -- u, Au -- stri -- a -- cæ
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis,
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis. __
 }
 
 quintusXXIIIincipit = \relative c {
@@ -161,8 +240,8 @@ quintusXXIIIincipit = \relative c {
     f1
 }
 
+% quintus: checked against source
 quintusXXIII = \relative c {
-    \clef tenor
     \key f \major
     \fourTwoCutTime
 
@@ -184,11 +263,39 @@ quintusXXIII = \relative c {
     e2 e ~ | e4 e c2 f c | r1 c' | a f2 f | g1 e2 g | c, c'1 a2 | c1 d2 c |
         b1. c2 | c1 bf | a1. a2 | a1 a ~ | a2 g g1 | g f | a g2.( f4 |
 
-    e2) d d1 | r2 g1 f2 | f2.( g4 a1) | d,\breve | c\longa*1/2
+    e2) d d1 | r2 g1 f2 | f2.( g4 a1) | d,\breve | c\breve~c\longa*1/2
     \bar "|."
 }
 
 quintusLyricsXXIII = \lyricmode {
+    He -- ro -- um so -- bo -- les,
+    he -- ro -- um so -- bo -- les, a -- mor or -- bis:
+        Ca -- ro -- le no -- stri
+    so -- lus es,
+        Ca -- ro -- le no -- stri
+    so -- lus es __ af -- fli -- cto Mu -- sa -- rum,
+        af -- fli -- cto Mu -- sa -- rum,
+    \ijLyrics
+        af -- fli -- cto Mu -- sa -- rum
+    \normalLyrics
+        tem -- po -- re,
+            tem -- po -- re a -- lum -- nos
+    qui co -- lis et fa -- ci -- li lar -- gi -- ris mu -- ne -- ra dex -- tra,
+            mu -- ne -- ra dex -- tra.
+
+    Pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    lau -- di -- bus et me -- ri -- tis
+        ad si -- de -- ra,
+        ad si -- de -- ra tol -- le -- re ge -- stit.
+    Vi -- ve di -- u,
+    vi -- ve di -- u,
+    vi -- ve di -- u, Au -- stri -- a -- cæ
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis,
+        spes o -- pti -- ma ma -- xi -- ma __ gen -- tis. __
+%            ma -- xi -- ma gen -- tis.
 }
 
 sextusXXIIIincipit = \relative c' {
@@ -199,8 +306,8 @@ sextusXXIIIincipit = \relative c' {
     f1
 }
 
+% sextux: checked against source
 sextusXXIII = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCutTime
 
@@ -226,6 +333,25 @@ sextusXXIII = \relative c' {
 }
 
 sextusLyricsXXIII = \lyricmode {
+    He -- ro -- um so -- bo -- les,
+    he -- ro -- um so -- bo -- les, a -- mor or -- bis:
+        Ca -- ro -- le no -- stri
+    so -- lus es __ af -- fli -- cto Mu -- sa -- rum,
+        af -- fli -- cto Mu -- sa -- rum tem -- po -- re,
+            tem -- po -- re a -- lum -- nos
+    qui co -- lis,
+    qui co -- lis et fa -- ci -- li lar -- gi -- ris mu -- ne -- ra dex -- tra.
+
+    Pro -- pte -- re -- a ce -- le -- brat te
+        Mu -- si -- ca di -- va li -- ben -- ter,
+    lau -- di -- bus et me -- ri -- tis 
+        ad si -- de -- ra,
+        ad si -- de -- ra tol -- le -- re ge -- stit.
+    Vi -- ve di -- u,
+    vi -- ve di -- u, Au -- stri -- a -- cæ 
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis,
+        spes o -- pti -- ma ma -- xi -- ma gen -- tis,
+            ma -- xi -- ma __ gen -- tis.
 }
 
 cantusXXIIIincipitVoice = <<
