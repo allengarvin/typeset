@@ -1,3 +1,6 @@
+% O beatum hominem cui tu protector es, Domine.
+% Spes ejus in te, Domino Deo ipsius, qui cælum et terram fecisti.
+
 cantusXIIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
@@ -6,8 +9,8 @@ cantusXIIincipit = \relative c'' {
     b\breve
 }
 
+% cantus: checked against source
 cantusXII = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCutTime
 
@@ -18,8 +21,8 @@ cantusXII = \relative c'' {
     g4( a b a8[ b] | c2) a a a ~ | a a g1 | R\breve*2 | r1 b | e,2 a1 a2 |
         fs fs g4( f e d | e2) c'2. c4 a2 | r1 d | g,2 c2. c4 a2 | g g f2. f4 |
 
-    e2 e'1 a,2 | a a a2.( b4 | c1.) g2 | g c2.( b4 b2 ~ | 
-        b4 a a1) \ficta gs2\unficta | a1 r1 | R\breve*3 | r2 e g1 ~ | 
+    e2 e'1 a,2 | a a a2.( b4 | c1.) g2 | g c2.( b4 b2 ~ |
+        b4 a a1) \ficta gs2\unficta | a1 r1 | R\breve*3 | r2 e g1 ~ |
         g fs2 g ~ | g g g e | g a1 g2 | a g g1 | r2 g
 
     b4( a b c | d1) d | r2 d, a'4( g a b | c b c d e1) | e2 a, g c ~ |
@@ -28,6 +31,17 @@ cantusXII = \relative c'' {
 }
 
 cantusLyricsXII = \lyricmode {
+    O be -- a -- tum,
+    o __ be -- a -- tum __ ho -- mi -- nem,
+    o be -- a -- tum ho -- mi -- nem
+        cu -- i tu __ pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu pro -- te -- ctor es, __ Do -- mi -- ne,
+        cu -- i tu pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu pro -- te -- ctor es, Do -- mi -- ne.
+    Spes e -- jus in __ te, Do -- mi -- no De -- o i -- psi -- us,
+        qui cæ -- lum,
+        qui cæ -- lum,
+        qui cæ -- lum __ et ter -- ram fe -- ci -- sti.
 }
 
 altusXIIincipit = \relative c' {
@@ -38,13 +52,13 @@ altusXIIincipit = \relative c' {
     e\breve
 }
 
+% altus: checked against source
 altusXII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
     R\breve | e | e1 d2 d | b2. b4 a1 | d1. b2 | g'1 g2 g ~ | g g c,2.( d4 |
-        e2) e cs1 | d d | d2. d4 e2 e | f f1 f2 | 
+        e2) e cs1 | d d | d2. d4 e2 e | f f1 f2 |
 
     f2. f4 e1 | g c,2 g' | e f2.( e8[ d] e2) | f f d2. d4 | e2 f f1 | e d |
         d1. d2 | cs\breve | r2 d1 g,2 | g'( f4 e f2) e | g\breve | e2 e f2.( e4|
@@ -58,6 +72,19 @@ altusXII = \relative c' {
 }
 
 altusLyricsXII = \lyricmode {
+%    O be -- a -- tum,
+    O be -- a -- tum ho -- mi -- nem,
+    o be -- a -- tum ho -- mi -- nem, __
+    o be -- a -- tum ho -- mi -- nem,
+    o be -- a -- tum ho -- mi -- nem
+        cu -- i tu pro -- te -- ctor es, Do -- mi -- ne,
+            pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu __ pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu __ pro -- te -- ctor __ es, Do -- mi -- ne.
+    Spes e -- jus in te, Do -- mi -- no De -- o i -- psi -- us,
+    spes e -- jus in te, Do -- mi -- no De -- o i -- psi -- us,
+        qui cæ -- lum __ et ter -- ram fe -- ci -- sti,
+        qui cæ -- lum __ et ter -- ram fe -- ci -- sti.
 }
 
 tenorXIIincipit = \relative c' {
@@ -68,8 +95,8 @@ tenorXIIincipit = \relative c' {
     b\breve
 }
 
+% tenor: checked against source
 tenorXII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
@@ -77,19 +104,32 @@ tenorXII = \relative c' {
         a,1 r2 d, ~ | d d' c1 | c2 c2.( b4 a g | f2) f g1 | R\breve | r1 a |
 
     d,2 d'1 b2 | c2.( b4 a g a2 ~ | a) g g1 | f2.( e4 d2) d | e1 e' |
-        a,2 a b c | g a c2. c4 | d2 d1 g,2 | g g a c | b4\melfi a g a 
+        a,2 a b c | g a c2. c4 | d2 d1 g,2 | g g a c | b4( a g a
 
     bf4 a a2 ~ | a4 g8[ f] g2) c2. c4 | a1 r2 e' ~ | e a, g g | g1 g2 g |
         a f e1 | c' c | b2 c1 c2 | c a c c ~ | c c a b | c g1
 
     c2 ~ | c4( b8[ a] b2) a b ~ | b b b a | b c1 c2 | c b c( b4 a |
-        b a b c d1) | r2 g, b4( a b c | d1) d2 d, | a'4( g a b c2) c | 
+        b a b c d1) | r2 g, b4( a b c | d1) d2 d, | a'4( g a b c2) c |
 
-    r1 e | f2 f e c ~ | c4( b8[ a] b2) a a | a1 e\longa*1/2
+    r1 e | f2 f e c ~ | c4( b8[ a] b2) a a | a1 e ~ e\longa*1/2
     \bar "|."
 }
 
 tenorLyricsXII = \lyricmode {
+%    O be -- a -- tum,
+    O __ be -- a -- tum ho -- mi -- nem,
+    o be -- a -- tum ho -- mi -- nem,
+    o __ be -- a -- tum ho -- mi -- nem
+        cu -- i tu pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu pro -- te -- ctor es, __ Do -- mi -- ne,
+        cu -- i tu pro -- te -- ctor es, Do -- mi -- ne.
+    Spes e -- jus in te, Do -- mi -- no De -- o i -- psi -- us,
+    spes e -- jus in __ te, Do -- mi -- no De -- o i -- psi -- us, __
+        qui cæ -- lum,
+        qui cæ -- lum,
+        qui cæ -- lum et ter -- ram fe -- ci -- sti. __
 }
 
 bassusXIIincipit = \relative c {
@@ -100,26 +140,37 @@ bassusXIIincipit = \relative c {
     e\breve
 }
 
+% bassus: checked against source
 bassusXII = \relative c {
-    \clef bass
     \key c \major
     \fourTwoCutTime
 
     R\breve | e | cs1 d | g,2 g'1( fs4 e | fs2) fs g1 | R\breve*3 |
         d\breve | b1 c | f, f'2.( e4 | d2) d c1 | R\breve*2 | r1 g' |
-        c,2 f1 d2 | a c 
+        c,2 f1 d2 | a c
 
     g1 | d'2.( c4 b2) b | a1 r1 | d g,2 c ~ | c a a' a  | g1 g,2. g4 | c1 r1 |
         R\breve | e1 a,2 f'  ~ | f d a'1 | e2 f c2.( d4 | e2) c g1 |
-        R\breve | a1 c | g2 c1 c2 | 
+        R\breve | a1 c | g2 c1 c2 |
 
     c2 d c f ~ | f c d g, | c\breve | R\breve*3 | r2 g c4( d e f | g\breve) |
-        g | g1 d | a r2 a | a'4( g a b c2) c | f1 c | g d' | a,\breve |
+        g | g1 d | a r2 a | a'4( g a b c2) c | f,1 c | g d' | a\breve |
         e'\longa*1/2
     \bar "|."
 }
 
 bassusLyricsXII = \lyricmode {
+%    O be -- a -- tum,
+    O be -- a -- tum ho -- mi -- nem,
+    o be -- a -- tum ho -- mi -- nem
+        cu -- i tu pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu __ pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu __ pro -- te -- ctor es, Do -- mi -- ne.
+    Spes e -- jus in te, Do -- mi -- no De -- o i -- psi -- us,
+%        qui cæ -- lum,
+%        qui cæ -- lum,
+        qui cæ -- lum et ter -- ram,
+        qui cæ -- lum et ter -- ram fe -- ci -- sti.
 }
 
 quintusXIIincipit = \relative c {
@@ -130,8 +181,8 @@ quintusXIIincipit = \relative c {
     e\breve
 }
 
+% quintus: checked against source
 quintusXII = \relative c {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
@@ -139,13 +190,13 @@ quintusXII = \relative c {
         e1 a,2.( b4 | c2) b a a | fs1 a | g\breve | f2.( g4 a b c2 ~ |
         c) b c1 |
 
-    e\breve | a,2 d1 cs2 | d2.( c4 b a g2 ~ | g a c | d2.( c4 c2. b4 |
-        b2. a4 a1)\ficta gs2\unficta | a\breve | R | c1 f,2 c' ~ |
+    e\breve | a,2 d1 cs2 | d2.( c4 b a g2 ~ | g) a c d ~ | d4( c4 c2. b4 b2 ~ |
+        b4 a4 a1)\ficta gs2\unficta | a\breve | R | c1 f,2 c' ~ |
         c( b4 a b2) b | c1 f,2 f | g e d1 | r1 a' |
 
     d,2 d'1 c2 | c\breve | b2 e2.( d8[ c] d2) | c2( b4 a b2) b |
         a a g1 | g2 g1 g2 | g fs g a ~ | a g fs g | e1 r2 e | g1 d2 g ~ |
-        g g g a | 
+        g g g a |
 
     g2 f1 c2 | f g g1 | r1 r2 g | b4( a b c d2. c4 | b a b2) a1 |
         r2 e a4( g a b | c2) c r2 c, | c'1 c2 e | d\breve | c2 c c1 |
@@ -154,6 +205,17 @@ quintusXII = \relative c {
 }
 
 quintusLyricsXII = \lyricmode {
+    O __ be -- a -- tum, __
+    o be -- a -- tum ho -- mi -- nem,
+    o be -- a -- tum ho -- mi -- nem
+        cu -- i tu pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu __ pro -- te -- ctor es, Do -- mi -- ne,
+        cu -- i tu pro -- te -- ctor es, __ Do -- mi -- ne.
+    Spes e -- jus in te, Do -- mi -- no De -- o i -- psi -- us, 
+    spes e -- jus in __ te, Do -- mi -- no De -- o i -- psi -- us, 
+        qui cæ -- lum,
+        qui cæ -- lum,
+        qui cæ -- lum et ter -- ram fe -- ci -- sti.
 }
 
 cantusXIIincipitVoice = <<

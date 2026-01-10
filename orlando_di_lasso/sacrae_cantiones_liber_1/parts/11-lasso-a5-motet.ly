@@ -1,3 +1,24 @@
+% Quam benignus es, o Domine Deus, 
+% omnibus in te sperantibus
+% et animabus te timentibus.
+% Quantum bonum est in silentio præstolari salutare tuum.
+% 
+% O beatum hominem cui tu protector es, Domine.
+% Spes ejus in te, Domino Deo ipsius,
+% qui cælum et terram fecisti.
+% 
+% 
+% How good you are, O Lord God,
+% to all who hope in you and
+% to all the souls who fear you.
+% How good it is to await your salvation in silence.
+% 
+% O blessed man to whom you are the protector, Lord.
+% His hope is in you, his Lord God, who made heaven and earth.
+
+% Lamentations 3:25-26 and Psalm 30:20, 145:5-6, paraphrased
+
+
 cantusXIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key c \major
@@ -6,8 +27,8 @@ cantusXIincipit = \relative c'' {
     g1.
 }
 
+% cantus: checked against source
 cantusXI = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCutTime
 
@@ -23,11 +44,20 @@ cantusXI = \relative c'' {
         a1 a | r2 e'1 d2 | c b a1 | a r2 e' ~ | e d c b | a1 a ~ | a r2 e' ~|
         e d c b ~ | b4\melfi a
 
-    a2. gs8[ fs] gs!2\melfiEnd | a\breve | a\longa*1/2
+    a2. gs8[ fs] gs!2\melfiEnd | a\breve | a\breve~a\longa*1/2
     \bar "|."
 }
 
 cantusLyricsXI = \lyricmode {
+    Quam be -- ni -- gnus es, o Do -- mi -- ne,
+    quam __ be -- ni -- gnus es, __ o __ Do -- mi -- ne __ De -- us,
+    om -- ni -- bus in __ te __ spe -- ran -- ti -- bus
+        et a -- ni -- ma -- bus te __ ti -- men -- ti -- bus.
+
+    Quan -- tum __ bo -- num est in __ si -- len -- ti -- o
+        præ -- sto -- la -- ri sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um, __
+            sa -- lu -- ta -- re __ tu -- um. __
 }
 
 altusXIincipit = \relative c'' {
@@ -38,8 +68,8 @@ altusXIincipit = \relative c'' {
     g1.
 }
 
+% altus: checked against source
 altusXI = \relative c'' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -54,11 +84,24 @@ altusXI = \relative c'' {
         c2 d e2.( d4 | c2) f e1 | c c2.( d4 | e2) e f1 ~ | f2 f e1 |
         c2 g'2. g4 f2 | e d b
 
-    e2 ~ | e d c1 | d2 e f1 | e\longa*1/2
+    e2 ~ | e d c1 | d2( e) f1 | e\longa*1/2
     \bar "|."
 }
 
 altusLyricsXI = \lyricmode {
+    Quam be -- ni -- gnus es, o Do -- mi -- ne,
+    quam be -- ni -- gnus es,
+    quam be -- ni -- gnus es, o Do -- mi -- ne De -- us,
+    om -- ni -- bus in __ te spe -- ran -- ti -- bus,
+    om -- ni -- bus in te spe -- ran -- ti -- bus
+        et a -- ni -- ma -- bus te ti -- men -- ti -- bus,
+            te __ ti -- men -- ti -- bus.
+
+    Quan -- tum bo -- num est in si -- len -- ti -- o __
+        præ -- sto -- la -- ri sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re __ tu -- um.
 }
 
 tenorXIincipit = \relative c' {
@@ -69,8 +112,8 @@ tenorXIincipit = \relative c' {
     b1.
 }
 
+% tenor: checked against source
 tenorXI = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
@@ -90,6 +133,18 @@ tenorXI = \relative c' {
 }
 
 tenorLyricsXI = \lyricmode {
+    Quam be -- ni -- gnus es, o __ Do -- mi -- ne,
+    quam be -- ni -- gnus es,
+    quam __ be -- ni -- gnus es, o __ Do -- mi -- ne De -- us,
+    om -- ni -- bus,
+    om -- ni -- bus in te spe -- ran -- ti -- bus
+        et a -- ni -- ma -- bus te __ ti -- men -- ti -- bus. __
+
+    Quan -- tum bo -- num est __ in si -- len -- ti -- o __
+        præ -- sto -- la -- ri sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um.
 }
 
 bassusXIincipit = \relative c {
@@ -100,8 +155,8 @@ bassusXIincipit = \relative c {
     e1.
 }
 
+% bassus: checked against source
 bassusXI = \relative c {
-    \clef bass
     \key c \major
     \fourTwoCutTime
 
@@ -120,6 +175,18 @@ bassusXI = \relative c {
 }
 
 bassusLyricsXI = \lyricmode {
+    Quam be -- ni -- gnus es, __
+    quam __ be -- ni -- gnus es, __
+    quam be -- ni -- gnus es, o __ Do -- mi -- ne De -- us,
+    om -- ni -- bus,
+    om -- ni -- bus in te __ spe -- ran -- ti -- bus
+        et a -- ni -- ma -- bus __ te ti -- men -- ti -- bus.
+
+    Quan -- tum bo -- num est in si -- len -- ti -- o __
+        præ -- sto -- la -- ri sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um.
 }
 
 quintusXIincipit = \relative c' {
@@ -130,8 +197,8 @@ quintusXIincipit = \relative c' {
     b1.
 }
 
+% quintus: checked against source
 quintusXI = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
@@ -151,6 +218,17 @@ quintusXI = \relative c' {
 }
 
 quintusLyricsXI = \lyricmode {
+    Quam be -- ni -- gnus __ es, o Do -- mi -- ne,
+    quam be -- ni -- gnus es, __ o Do -- mi -- ne,
+        o __ Do -- mi -- ne De -- us,
+    om -- ni -- bus in __ te __ spe -- ran -- ti -- bus __
+        et a -- ni -- ma -- bus,
+        et a -- ni -- ma -- bus te ti -- men -- ti -- bus. __
+
+    Quan -- tum bo -- num est in si -- len -- ti -- o __
+        præ -- sto -- la -- ri sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um,
+            sa -- lu -- ta -- re tu -- um.
 }
 
 cantusXIincipitVoice = <<
