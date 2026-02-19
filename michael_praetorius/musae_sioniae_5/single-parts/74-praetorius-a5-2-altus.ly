@@ -45,3 +45,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "74-praetorius--vom_himmel_hoch_da_komm_ich_her-"
+    \bookOutputSuffix "--3-altus--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \altusLXXIV
+        >>
+                \addlyrics { \altusLyricsLXXIV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
