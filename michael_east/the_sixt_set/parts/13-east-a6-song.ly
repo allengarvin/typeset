@@ -73,8 +73,8 @@ altusXIIIincipit = \relative c' {
     d1
 }
 
+% altus: checked against source
 altusXIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
@@ -105,34 +105,30 @@ altusXIII = \relative c' {
 }
 
 altusLyricsXIII = \lyricmode {
-%    A -- wake, a -- wake!
-%    A -- wake, a -- wake, a -- wake!
-%        and stand up,
-%        and stand up to judge,
-%        and stand up to judge my quar -- rel,
-%        and stand up to judge my quar -- rel,
-%            to judge my quar -- rel,
-%        and stand up,
-%        and stand up to judge my quar -- rel.
-%    A -- venge thou my cause in thy strength,
-%            thy strength,
-%    a -- venge thou my cause in thy strength,
-%        in thy strength,
-%            thy strength,
-%        in thy strength,
-%        in thy strength,
-%            thy strength,
-%
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%        and my lord.
-%    A -- men,
-%    A -- men,
-%    A -- men,
-%    A -- men.
+    A -- wake, __ a -- wake, a -- wake!
+        and stand up __ to judge my quar -- rel,
+        and stand up to judge,
+        and stand up __ to judge my __ quar -- rel,
+        and stand up __ to judge my quar -- rel,
+        and stand up to __ judge my quar -- rel,
+        and stand up to judge __ my quar -- rel.
+    A -- venge thou my __ cause in __ thy strength,
+    a -- venge thou my __ cause,
+        my __ cause in thy strength,
+            in thy strength,
+            in __ thy strength,
+
+    my God,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord.
+    A -- men,
+    A -- men,
+    A -- men,
+    A -- men,
+    A -- men.
 }
 
 tenorXIIIincipit = \relative c' {
@@ -143,22 +139,22 @@ tenorXIIIincipit = \relative c' {
     g1
 }
 
+% tenor: checked against source
 tenorXIII = \relative c' {
-    \clef tenor
     \key c \major
     \fourTwoCutTime
 
-    g1 c ~ | c2 g g1 ~ | g2 fs g1 | r2 g4 g d'1~ | d r1 | r2 a1 b4 g | a2
+    g1 c ~ | c2 g g1 | r2 fs g1 | r2 g4 g d'1~ | d r1 | r2 a1 b4 g | a2
 
     d,2 r1 | R\breve | r2 g4 g c1 ~ | c2 b c e | d g, r2 g4 g | c1 r2 e,4 e |
         e'1 r1 | r2 e,4 e
 
-    a1 ~ | a2 d fs g | d1 g | r2 g4 g d'1 ~ | d2 c c b | a1 g | r2 c1 b2 ~ |
+    a1 ~ | a2 d, fs g | d1 g | r2 g4 g d'1 ~ | d2 c c b | a1 g | r2 c1 b2 ~ |
         b c a1 | g
 
-    a1 ~ | a2 a d,1 | r2 f f1 | f2 bf2.( a4 g2) | c, g1 f2( | e1) d | r2 b'4 c
+    a1 ~ | a2 a d,1 | r2 f f1 | f2 bf2.( a4 g2) | c, g'1 f2( | e1) d | r2 b'4 c
 
-    d2 d,4 e | fs g d1 | d'2 g, a1 | r2 g2 e4 c g'2 | c, r4 g'
+    d2 d,4 e | fs2 g d1 | d'2 g, a1 | r2 g2 e4 c g'2 | c, r4 g'
 
     e4 c g'2 | c, r4 g' e c g'2 | g r4 d' b g d'2 | g, r4 d' b g 
 
@@ -173,34 +169,32 @@ tenorXIII = \relative c' {
 }
 
 tenorLyricsXIII = \lyricmode {
-%    A -- wake, a -- wake!
-%    A -- wake, a -- wake, a -- wake!
-%        and stand up,
-%        and stand up to judge,
-%        and stand up to judge my quar -- rel,
-%        and stand up to judge my quar -- rel,
-%            to judge my quar -- rel,
-%        and stand up,
-%        and stand up to judge my quar -- rel.
-%    A -- venge thou my cause in thy strength,
-%            thy strength,
-%    a -- venge thou my cause in thy strength,
-%        in thy strength,
-%            thy strength,
-%        in thy strength,
-%        in thy strength,
-%            thy strength,
-%
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%        and my lord.
-%    A -- men,
-%    A -- men,
-%    A -- men,
-%    A -- men.
+    A -- wake, __ a -- wake, a -- wake!
+        and stand up __ to judge my quar -- rel,
+        and stand up __ to judge my quar -- rel,
+        and stand up,
+        and stand up,
+        and stand up __ to judge my quar -- rel,
+        and stand up __ to judge my quar -- rel.
+    A -- venge __ thou my cause in __ thy strength,
+    A -- venge thou my __ cause, in thy strength,
+        in thy strength,
+        in thy strength,
+            thy strength,
+        in thy strength,
+
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord.
+    A -- men,
+    A -- men,
+    A -- men,
+    A -- men,
+    A -- men,
+    A -- men.
 }
 
 bassusXIIIincipit = \relative c' {
@@ -211,8 +205,8 @@ bassusXIIIincipit = \relative c' {
     g1
 }
 
+% bassus: checked against source
 bassusXIII = \relative c' {
-    \clef bass
     \key c \major
     \fourTwoCutTime
 
@@ -238,34 +232,28 @@ bassusXIII = \relative c' {
 }
 
 bassusLyricsXIII = \lyricmode {
-%    A -- wake, a -- wake!
-%    A -- wake, a -- wake, a -- wake!
-%        and stand up,
-%        and stand up to judge,
-%        and stand up to judge my quar -- rel,
-%        and stand up to judge my quar -- rel,
-%            to judge my quar -- rel,
-%        and stand up,
-%        and stand up to judge my quar -- rel.
-%    A -- venge thou my cause in thy strength,
-%            thy strength,
-%    a -- venge thou my cause in thy strength,
-%        in thy strength,
-%            thy strength,
-%        in thy strength,
-%        in thy strength,
-%            thy strength,
-%
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%        and my lord.
-%    A -- men,
-%    A -- men,
-%    A -- men,
-%    A -- men.
+    A -- wake, __ a -- wake!
+    A -- wake, a -- wake!
+        and stand up to judge my quar -- rel,
+        and stand up,
+        and stand up to judge my quar -- rel,
+        and stand up,
+        and stand up to judge my quar -- rel.
+    A -- venge thou my cause in thy __ strength,
+        in thy strength,
+            thy strength,
+        in thy strength,
+            thy strength,
+
+    my God,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord.
+    A -- men,
+    A -- men,
+    A -- men.
 }
 
 quintusXIIIincipit = \relative c'' {
@@ -276,8 +264,8 @@ quintusXIIIincipit = \relative c'' {
     b1
 }
 
+% quintus: checked against source
 quintusXIII = \relative c'' {
-    \clef soprano
     \key c \major
     \fourTwoCutTime
 
@@ -297,7 +285,7 @@ quintusXIII = \relative c'' {
 
     r4 g | g c a2 g r4 a | b4 b a2 g r4 a | 
         \invisibleTime\time 6/2 
-        b1 a2 g2.( fs8[ g] gs2) | 
+        b1 a2 g2.( fs8[ e] fs2) | 
         \invisibleTime\time 4/2 g\breve \bar "||"
     g\breve | g1 r1 | r4 e( g a b c d2) | g,1 g ~ | g g | r4 g2( a4 g1) |
         g\longa*1/2
@@ -305,34 +293,33 @@ quintusXIII = \relative c'' {
 }
 
 quintusLyricsXIII = \lyricmode {
-%    A -- wake, a -- wake!
-%    A -- wake, a -- wake, a -- wake!
-%        and stand up,
-%        and stand up to judge,
-%        and stand up to judge my quar -- rel,
-%        and stand up to judge my quar -- rel,
-%            to judge my quar -- rel,
-%        and stand up,
-%        and stand up to judge my quar -- rel.
-%    A -- venge thou my cause in thy strength,
-%            thy strength,
-%    a -- venge thou my cause in thy strength,
-%        in thy strength,
-%            thy strength,
-%        in thy strength,
-%        in thy strength,
-%            thy strength,
-%
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%        and my lord.
-%    A -- men,
-%    A -- men,
-%    A -- men,
-%    A -- men.
+    A -- wake, __ a -- wake!
+    A -- wake, a -- wake, a -- wake!
+        and stand up to judge my quar -- rel,
+        and stand up to judge my quar -- rel,
+        and stand up __ to judge,
+        and stand up __ to judge my quar -- rel,
+        and stand up to judge my quar -- rel,
+        and stand up to judge my __ quar -- rel.
+    A -- venge thou my cause in thy strength,
+    a -- venge thou my cause in thy strength,
+        in thy strength,
+        in thy strength,
+        in thy strength,
+        in thy strength,
+            thy strength,
+        in thy strength,
+
+    my God,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my __ Lord.
+    A -- men,
+    A -- men,
+    A -- men,
+    A -- men.
 }
 
 sextusXIIIincipit = \relative c' {
@@ -343,15 +330,15 @@ sextusXIIIincipit = \relative c' {
     b1
 }
 
+% sextus: checked against source
 sextusXIII = \relative c' {
-    \clef alto
     \key c \major
     \fourTwoCutTime
 
     b1 g ~ | g2 g b1 | r2 a d d | d1 r1 | R\breve | r2 e4 e fs2 g | d2. d4
 
-    b2 g | R\breve*2 | r2 b4 b e1 | r2 g,2 g4 g'2 g4 | e c g' e r1 |
-        r2 a4 a e'1 ~ | e r2 c4 c |
+    d2 b | R\breve*2 | r2 b4 b e1 | r2 g,2 g4 g'2 g4 | e c g' e r1 |
+        r2 a,4 a e'1 ~ | e r2 c4 c |
 
     e1 r2 b4 b | d1 r1 | r1 r2 a4 a | b2 c4 c2 a4 b( g | d'2. c4) b1 | 
         R\breve*4 | r2 d1 f2 ~ | f f1
@@ -373,34 +360,32 @@ sextusXIII = \relative c' {
 }
 
 sextusLyricsXIII = \lyricmode {
-%    A -- wake, a -- wake!
-%    A -- wake, a -- wake, a -- wake!
-%        and stand up,
-%        and stand up to judge,
-%        and stand up to judge my quar -- rel,
-%        and stand up to judge my quar -- rel,
-%            to judge my quar -- rel,
-%        and stand up,
-%        and stand up to judge my quar -- rel.
-%    A -- venge thou my cause in thy strength,
-%            thy strength,
-%    a -- venge thou my cause in thy strength,
-%        in thy strength,
-%            thy strength,
-%        in thy strength,
-%        in thy strength,
-%            thy strength,
-%
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%    my God and my Lord,
-%        and my lord.
-%    A -- men,
-%    A -- men,
-%    A -- men,
-%    A -- men.
+    A -- wake, __ a -- wake!
+    A -- wake, a -- wake!
+        and stand up to judge my quar -- rel,
+        and stand up,
+        and stand up to judge my quar -- rel,
+        and stand up, __
+        and stand up,
+        and stand up,
+        and stand up to judge my quar -- rel.
+    A -- venge thou my cause in thy strength,
+        in __ thy strength,
+        in thy strength,
+        in __ thy strength,
+        in thy strength,
+
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+    my God and my Lord,
+        and my __ lord.
+    A -- men,
+    A -- men,
+    A -- men, __
+    A -- men,
+    A -- men.
 }
 
 cantusXIIIincipitVoice = <<
