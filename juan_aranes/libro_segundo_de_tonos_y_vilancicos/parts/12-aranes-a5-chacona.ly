@@ -59,7 +59,7 @@ sopranoOneLyricsXII = \lyricmode {
     vi -- da, vá -- mo -- nos a cha -- co -- na,
     vi -- da vá -- mo -- nos a cha -- co -- na.
 
-    Por -- que se ca -- so~Al -- ma -- dán, __
+    Por -- que se ca -- só~Al -- ma -- dán, __
     se hi -- zo~un bra -- vo sa -- rao,
 
     Un sue -- gro de Don Bel -- trán
@@ -262,6 +262,50 @@ bassoXII = \relative c {
 }
 
 bassoLyricsXII = \lyricmode {
+}
+
+rTrebleXII = \relative c' {
+    \key f \major
+    \time 6/2 
+
+    \repeat volta 2 { 
+        <c f>1 <c f>2 <c f> <c e>1 |
+        <a f'>2 <c e> <c f>1 <c e> |
+        r2 <c f>1 d2 e <d f> ~ | <d f> <e g> <e g> <f a>1 <f a>2
+    }
+    r2 <f a> <e g> <c f>1 <c f>2 | <c f> <e g>1 <f a>2 <f bf>1 |
+    r2 <a c> <a c> <a c> <g c>1 | <f a>2 <e a> <f bf>1 <e g> |
+    r2 { c'1 } \\ { f2. e4 } 
+}
+
+rBassXII = \relative c {
+    \key f \major
+    \time 6/2 
+
+    \repeat volta 2 {
+        <f a>1 <f a> 2 <f a>2 <c g'>1 | <d f>2 <c g'> <bf bf'>1 <c g'> |
+        r2 <a f'>1 <bf bf'>2 c <d a'>~ | <d a'> <c  c'> <c c'> <f c'>1 <f c'>2 
+    }
+
+%    r2 #(if *is-parts* #{<>\segno #}) d2 e f1 f2 | f c1 f2 bf,1 | r2 f' f 
+%
+%    f2 c1 |  d2  c bf1 c | r2 a a bf c d |
+%         bf2  c1 f1 f2 |
+%
+%    #(if *is-parts* #{<> ^\markup \italic "Fine" #})
+%    \repeat volta 2 {
+%        f1 f2 f c1 |  d2  c bf1 c |
+%        r2 a1 bf2 c d ~ | d c c f1. 
+%    }
+%        r2 c1 f2 c d |  bf2 c1 f1. |
+%        r2 f f f c'1 |
+%
+%     d2  c bf1 c | 
+%        r2 d,2 e  f1.  ~ | f2 c1 f1 bf,2 |
+%        c1 c2 d a1 |  bf2 c1 d1 d2 |
+%        r2 a a  bf2  c d ~ | d c1 f1 f2 
+%        
+%    #(if *is-parts* #{<> ^\markup \italic "D. S. al fine" #})
 }
 
 sopranoOneXIIincipitVoice = <<
