@@ -21,13 +21,21 @@ cantoI = \relative c''' {
     d2. | b8 c d e d c | b8.( c16) d8 r4 a8 | b c d e d([ c)] |
 
     b8.([ c16 d8)] r4 a8 | b8.([ c16)] d8 e \ficta fs\unficta g |
-        fs8. e16 d8. c16 b4 ~ | b8 a g4. fs8 | g2.\fermata
+        fs8.[ e16] d8.[ c16] b4 ~ | b8 a g4. fs8 | g2.\fermata
+        ^\markup { \italic { Fine } }
     \bar "||"
 
-    r4 d'8 e8. f16 g8 | g f e d8.([ c16)] d8 | r4 d8 e d c | b4 c8 d4. |
+        %^\markup { \italic { Coplas } }
+
+    r4 ^\markup { \italic { Coplas } } d'8 e8. f16 g8 | g f e d8.([ c16)] d8 | r4 d8 e d c | b4 c8 d4. |
 
     r4 r8 a8. b16 c8 | b8. a16 g8 fs8. g16 a8 ~ | a b4 ~ b8 a g |
         g4 fs8 g4.\fermata
+
+    ^\markup {
+        \italic "D. C. al fine"
+    }
+
     \bar "|."
 }
 
@@ -54,6 +62,14 @@ cantoLyricsIa = \lyricmode {
     Dos a -- mas que Dios me ha da -- do,
     nes que da las a -- mas Dios,
     que no~es por cuen -- ta del cie -- lo el __ mal __ que me bus -- co yo.
+}
+
+trebleIincipit = \relative c'' {
+    \clef "petrucci-g"
+    \key c \major
+    \time 3/4
+
+    g4
 }
 
 trebleI = \relative c'' {
@@ -96,6 +112,14 @@ trebleI = \relative c'' {
     >>
 
     \bar "|."
+}
+
+bassIincipit = \relative c' {
+    \clef "petrucci-f4"
+    \key c \major
+    \time 3/4
+
+    g4
 }
 
 bassI = \relative c' {
