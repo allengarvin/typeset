@@ -102,23 +102,24 @@
         \fill-line {
             \column {
                 \line { Non rumor di tamburi o suon di trombe }
-                \line { furon principio all'amoroso assalto, }
+                \line { furon principio all'amoroso assalto; }
                 \line { ma baci ch'imitavan le colombe, }
                 \line { davan segno or di gire, or di fare alto. }
                 \line { Usammo altr'arme che saette o frombe. }
-                \line { Io senza scale in su la rocca salto }
+                \line { Io senza scale in sulla rocca salto }
                 \line { e lo stendardo piantovi di botto, }
                 \line { e la nimica mia mi caccio sotto. }
             }
             \column {
-                \line { No roll of drums, no sound of trumpets }
-                \line { Heralded the amorous assault }
-                \line { But kisses like the billing of doves }
-                \line { Gave the signal now to advance, now to stand firm. }
-                \line { We used arms other than arrows or slings; }
-                \line { I, without ladders, onto the battlements leapt }
-                \line { And planted my pennant with one stroke, }
-                \line { And drove my enemy beneath me. }
+                \line { No noise of drums, no sound of trumpets }
+                \line { heralded the amorous assault; }
+                \line { but kisses like the billing of doves }
+                \line { gave the signal now to advance, now to stand firm. }
+                \line { We used arms other than arrows or slings. }
+                \line { I, without ladder, onto the battlements leapt }
+                \line { and planted my pennant with one stroke, }
+                \line { and drove my enemy (female) beneath me. }
+                \line { \hspace #10 \italic { translation by editor } } 
             }
         }
     }
