@@ -1,3 +1,29 @@
+% Queste amorose note,
+% concento d'armonia che dolce in voi
+% infuse il ciel dalle stellate rote,
+% vi sacra il Vinci, e dona,
+% Magnanimo Arcimboldo,
+% invitto e saggio,
+% splendor d'Insubria e lume d'Elicona;
+% piacciavi di gradirle e vedrem poi,
+% da propizia virtù,
+% illustre raggio uscir luce
+% ond'avran perpetua vita.
+% 
+% % mistakenly labeled "notte" in contents
+% 
+% These devoted notes,
+% a harmonious concord that Heaven sweetly
+% pours into you, from the starry wheels,
+% Vinci dedicates and gives to you,
+% O Magnaminous Arcimboldi,
+% indominable and wise,
+% splendor of Insubria and light of Helicon;
+% may it please you to accept them and then to see,
+% with your propitious virtue, 
+% an illustrious ray issue light
+% whereby they shall have unending life.
+
 cantoIincipit = \relative c'' {
     \clef "petrucci-c1"
     \key f \major
