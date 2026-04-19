@@ -2,8 +2,7 @@
 % concento d'armonia che dolce in voi
 % infuse il ciel dalle stellate rote,
 % vi sacra il Vinci, e dona,
-% Magnanimo Arcimboldo,
-% invitto e saggio,
+% Magnanimo Arcimboldo, invitto e saggio,
 % splendor d'Insubria e lume d'Elicona;
 % piacciavi di gradirle e vedrem poi,
 % da propizia virtù,
@@ -16,8 +15,7 @@
 % a harmonious concord that Heaven sweetly
 % pours into you, from the starry wheels,
 % Vinci dedicates and gives to you,
-% O Magnaminous Arcimboldi,
-% indominable and wise,
+% O Magnaminous Arcimboldi, indominable and wise,
 % splendor of Insubria and light of Helicon;
 % may it please you to accept them and then to see,
 % with your propitious virtue, 
@@ -32,8 +30,8 @@ cantoIincipit = \relative c'' {
     bf2
 }
 
+% canto: checked against source
 cantoI = \relative c'' {
-    \clef soprano
     \key f \major
     \fourTwoCommonTime
 
@@ -49,20 +47,35 @@ cantoI = \relative c'' {
     d'2 c | r2 r4 c a8([ bf c a] bf4) a | c2. a4 r4 g bf a | f g e2 d r2 |
         R\breve | r2 r4 c'2 a4
 
-    g4 a ~ | a a d bf4. bf8 c2 bf4 ~ | bf8[ bf] c2 bf4.( a8 a4) bf4 d ~ |
-        d8[ d] c4 bf8[ a] g4 r1 | r1 r2 r4 a | a2
+    g4 a ~ | a a d bf4. bf8 c2 bf4 ~ | bf8([ a] a4) bf4 d4. d8 c4 bf8[ a] g4 |
+        R\breve | r2 r4 a a2 
 
-    bf8([ c d c] bf[ a g f] g2 ~ | g4) g r2 r4 d'2 c4 |
-        bf4.( a8 g4) f g a d,8([ e f g] | a4) d, r2 d'2. c4 |
+    bf8([ c d c] | bf[ a g f] g2.) g4 r2 | r4 d'2 c4 bf4.( a8 g4) f |
+        g a d,8([ e f g] a4) d, r2 | d'2. c4 
 
-    bf4 f g a d, d r4 f | 
-        g4 a d,8([ e f g] a4) d,8[ d'] c4 a 
-        bf8([ a] g4. fs8 fs4)
+    bf4 f g a | d, d r4 f g4 a d,8([ e f g] | 
+        a4) d,8[ d'] c4 a bf8([ a] g4. fs8 fs4) |
         g\longa*1/2
     \bar "|."
 }
 
 cantoLyricsI = \lyricmode {
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    Con -- cen -- to d'ar -- mo -- nia che dol -- ce~in vo -- i,
+        che dol -- ce~in vo -- i
+    In -- fu -- se~il ciel dal -- le stel -- la -- te ro -- te,
+        dal -- le stel -- la -- te ro -- te,
+    Vi sa -- cra~il Vin -- ci~e do -- na,
+    Mag -- na -- ni -- mo~Ar -- cim -- bol -- do, in -- vit -- to~e sag -- gio,
+    Splen -- dor __ d'In -- su -- bria e lu -- me d'E -- li -- co -- na;
+    Piac -- cia -- vi di __ gra -- dir -- l'e ve -- drem po -- i,
+    Da pro -- pi -- zia vir -- tù,
+    % Il -- lu -- stre rag -- gio~u -- scir lu -- ce
+        u -- scir lu -- ce
+    On -- d'a -- vran __ per -- pe -- tua vi -- ta,
+    On -- d'a -- vran per -- pe -- tua vi -- ta,
+        per -- pe -- tua vi -- ta,
+        per -- pe -- tua vi -- ta.
 }
 
 altoIincipit = \relative c' {
@@ -73,8 +86,8 @@ altoIincipit = \relative c' {
     f4
 }
 
+% alto: checked against source
 altoI = \relative c' {
-    \clef alto
     \key f \major
     \fourTwoCommonTime
 
@@ -102,6 +115,24 @@ altoI = \relative c' {
 }
 
 altoLyricsI = \lyricmode {
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    \ijLyrics
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    \normalLyrics
+    Con -- cen -- to d'ar -- mo -- nia che dol -- ce~in vo -- i,
+        che dol -- ce~in vo -- i
+    In -- fu -- se~il ciel __ dal -- le stel -- la -- te ro -- te,
+    Vi sa -- cra~il Vin -- ci~e do -- na,
+    Mag -- na -- ni -- mo~Ar -- cim -- bol -- do~in -- vit -- to~e sag -- gio,
+    Splen -- dor __ d'In -- su -- bria~e lu -- me d'E -- li -- co -- na;
+    Piac -- cia -- vi di gra -- dir -- le,
+        di gra -- dir -- l'e ve -- drem po -- i,
+    Da pro -- pi -- zia vir -- tù,
+    Il -- lu -- stre rag -- gio u -- scir lu -- ce
+    On -- d'a -- vran __ per -- pe -- tua vi -- ta,
+    On -- d'a -- vran __ per -- pe -- tua vi -- ta,
+    On -- d'a -- vran per -- pe -- tua vi -- ta,
+        per -- pe -- tua vi -- ta.
 }
 
 tenoreIincipit = \relative c' {
@@ -112,8 +143,8 @@ tenoreIincipit = \relative c' {
     bf2
 }
 
+% tenore: checked against source
 tenoreI = \relative c' {
-    \clef varbaritone
     \key f \major
     \fourTwoCommonTime
 
@@ -143,6 +174,25 @@ tenoreI = \relative c' {
 }
 
 tenoreLyricsI = \lyricmode {
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    \ijLyrics
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    \normalLyrics
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    Con -- cen -- to d'ar -- mo -- nia che dol -- ce~in vo -- i,
+        che dol -- ce~in vo -- i
+    In -- fu -- se~il ciel,
+    In -- fu -- se~il ciel dal -- le __ stel -- la -- te ro -- te,
+    Vi sa -- cra~il Vin -- ci~e do -- na,
+%    Mag -- na -- ni -- mo~Ar -- cim -- bol -- do, 
+        in -- vit -- to~e sag -- gio,
+    Splen -- dor __ d'In -- su -- bria % e lu -- me d'E -- li -- co -- na;
+    Piac -- cia -- vi di __ gra -- dir -- l'e ve -- drem po -- i,
+        e ve -- drem po -- i,
+    Da pro -- pi -- zia vir -- tù,
+    Il -- lu -- stre rag -- gio u -- scir lu -- ce
+    On -- d'a -- vran __ per -- pe -- tua vi -- ta,
+        vi -- ta.
 }
 
 bassoIincipit = \relative c {
@@ -153,8 +203,8 @@ bassoIincipit = \relative c {
     f4
 }
 
+% basso: checked against source
 bassoI = \relative c {
-    \clef bass
     \key f \major
     \fourTwoCommonTime
 
@@ -170,10 +220,10 @@ bassoI = \relative c {
     f'4 c | r4 d f c bf2 f'4 a | bf a g f r2 r4 f |
         c8([ bf a bf] c4) f 
 
-    ef2 d | R\breve*2 | c2. a4 a d e f ~ | f8([ e d c] bf4) g r1 | 
+    ef2 d | R\breve R | c2. a4 a d e f ~ | f8([ e d c] bf4) g r1 | 
         r2 r4 bf4. bf8 f'4 d e |
 
-    f( e8[ d] g4) c, d ef d2 | g,4 g' f d8([ d] f[ e d c] bf[ a] bf4) |
+    f( e8[ d] g4) c, d ef d2 | g,4 g' f d8([ e] f[ e d c] bf[ a] bf4) |
         g2 r2 r4 bf'2 a4 | g4.( f8 
 
     d8[ e] f4) g ef2 d4 | g d r2 r1 | r1 r4 bf2 a4 |
@@ -182,6 +232,20 @@ bassoI = \relative c {
 }
 
 bassoLyricsI = \lyricmode {
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    Con -- cen -- to d'ar -- mo -- nia che dol -- ce~in vo -- i,
+        che dol -- ce~in vo -- i
+    In -- fu -- se~il __ ciel __ dal -- le stel -- la -- te ro -- te,
+    Vi sa -- cra~il Vin -- ci~e do -- na,
+    Mag -- na -- ni -- mo~Ar -- cim -- bol -- do~in -- vit -- to~e sag -- gio,
+        in -- vit -- to~e sag -- gio,
+    Splen -- dor d'In -- su -- bria,
+    Splen -- dor d'In -- su -- bria
+    Piac -- cia -- vi di gra -- dir -- le
+    Da pro -- pi -- zia vir -- tù, __
+    Il -- lu -- stre rag -- gio u -- scir lu -- ce
+    On -- d'a -- vran __ per -- pe -- tua vi -- ta,
+    On -- d'a -- vran __ per -- pe -- tua vi -- ta.
 }
 
 quintoIincipit = \relative c' {
@@ -192,8 +256,8 @@ quintoIincipit = \relative c' {
     d2
 }
 
+% quinto: checked against source
 quintoI = \relative c' {
-    \clef tenor
     \key f \major
     \fourTwoCommonTime
 
@@ -213,7 +277,7 @@ quintoI = \relative c' {
     r2 r4 f2 d4 e f ~ | f e4 g a4. a8 f4 c'2 | a r4 d ef2. d4 | 
         c2 bf4 bf4. bf8 a4 f g |
 
-    a4 a bf( a8[ g] f4 g) a2 | g4. g8 c4 d2 d4 r4 d, |
+    a4 a bf( a8[ g] f4) g a2 | g4. g8 c4 d2 d4 r4 d, |
         d g8([ a] bf[ a16 bf] c4) c d2 c4 | bf4.( a8
 
     f4) a d g, g a | r4 f g a d, g d' c | 
@@ -223,6 +287,25 @@ quintoI = \relative c' {
 }
 
 quintoLyricsI = \lyricmode {
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    Que -- ste~a -- mo -- ro -- se no -- te,
+    Con -- cen -- to d'ar -- mo -- nia che dol -- ce~in vo -- i
+    In -- fu -- se~il ciel dal -- le stel -- la -- te ro -- te,
+    In -- fu -- se~il ciel, __ 
+    Vi sa -- cra~il Vin -- ci~e do -- na,
+    Vi sa -- cra~il Vin -- ci~e do -- na,
+    Mag -- na -- ni -- mo~Ar -- cim -- bol -- do, in -- vit -- to~e sag -- gio,
+    Splen -- dor __ d'In -- su -- bria~e lu -- me d'E -- li -- co -- na;
+    Piac -- cia -- vi di gra -- dir -- l'e ve -- drem po -- i,
+        e ve -- drem po -- i,
+    Da pro -- pi -- zia vir -- tù,
+    Il -- lu -- stre rag -- gio u -- scir lu -- ce,
+        u -- scir lu -- ce
+    On -- d'a -- vran per -- pe -- tua vi -- ta,
+        per -- pe -- tua vi -- ta,
+    On -- d'a -- vran __ per -- pe -- tua vi -- ta,
+        per -- pe -- tua vi -- ta.
 }
 
 cantoIincipitVoice = <<

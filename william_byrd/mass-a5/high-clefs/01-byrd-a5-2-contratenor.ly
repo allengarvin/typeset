@@ -30,11 +30,11 @@
 
 \book {
     \bookOutputName "01-byrd--mass_for_five_voices"
-    \bookOutputSuffix "transposed--2-contratenor--tr_clef"
+    \bookOutputSuffix "transposed--2-contratenor--tr8_clef"
     \include "../include/paper-1-part.ly"
     \score {
         \new Voice << 
-            \clef "treble"
+            \clef "treble_8"
             \global\transpose f c 
             \contratenorI
         >>
