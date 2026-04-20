@@ -10,34 +10,34 @@
 
 \header {
     % NEVER EVER CHANGE checksum. Other files depend on this being invariant.
-    cksum = "b6f1580b38e0f9f29539eb2ab0e7cf256e56960b"
+    cksum = "3be0410c530168966adfdf56167afc9f38efd52d"
     lastupdated = "2026-04-19"
     originallyset = "2026-04-19"
     flats = 1
-    final = "f"
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
-    title = "O quam suavis est, Domine"
+    title = "Jesum quem quæritis non est hic"
     subtitle = ""
     subsubtitle = ""
-    instrument = "O quam suavis est, Domine:  (score)"
+    instrument = "Jesum quem quæritis non est hic:  (score)"
     headerspace = \markup { \vspace #2 }
-    shorttitle = "o_quam_suavis_est_domine"
+    shorttitle = "jesum_quem_quaeritis_non_est_hic"
     shortcomp = "merulo"
-    categories = "[]"
+    categories = "[easter]"
     motifs = "[]"
     needtranslation = #'f
-    folio = "Corpus Christi, First Vespers, Antiphon (Paraphrase of Wisdom 12:1,16:20-21)"
+    folio = "Antiphon for Easter Sunday (paraphrase of Luke 25:5-6)"
 
     % Unchanging:
     language = "latin"
     tagline = #'f
 }
 
-\include "../parts/02-merulo-a6-motet.ly"
+\include "../parts/04-merulo-a6-motet.ly"
 
 \book {
-    \bookOutputName "02-merulo--o_quam_suavis_est_domine-"
+    \bookOutputName "04-merulo--jesum_quem_quaeritis_non_est_hic-"
     \bookOutputSuffix "--0-score"
     \score {
          <<
@@ -46,52 +46,52 @@
             } <<
                 \new Voice <<
                     \set Staff.instrumentName = #"Cantus"
-                    \incipit \cantusIIincipitVoice
+                    \incipit \cantusIVincipitVoice
                     \clef "treble"
                     \global
-                    \cantusII
+                    \cantusIV
                 >>
-             \addlyrics { \cantusLyricsII }
+             \addlyrics { \cantusLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Altus"
-                    \incipit \altusIIincipitVoice
+                    \incipit \altusIVincipitVoice
                     \clef "treble_8"
                     \global
-                    \altusII
+                    \altusIV
                 >>
-             \addlyrics { \altusLyricsII }
+             \addlyrics { \altusLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Sextus"
-                    \incipit \sextusIIincipitVoice
+                    \incipit \sextusIVincipitVoice
                     \clef "treble_8"
                     \global
-                    \sextusII
+                    \sextusIV
                 >>
-             \addlyrics { \sextusLyricsII }
-                \new Voice <<
-                    \set Staff.instrumentName = #"Tenor"
-                    \incipit \tenorIIincipitVoice
-                    \clef "treble_8"
-                    \global
-                    \tenorII
-                >>
-             \addlyrics { \tenorLyricsII }
+             \addlyrics { \sextusLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Quintus"
-                    \incipit \quintusIIincipitVoice
+                    \incipit \quintusIVincipitVoice
                     \clef "treble_8"
                     \global
-                    \quintusII
+                    \quintusIV
                 >>
-             \addlyrics { \quintusLyricsII }
+             \addlyrics { \quintusLyricsIV }
+                \new Voice <<
+                    \set Staff.instrumentName = #"Tenor"
+                    \incipit \tenorIVincipitVoice
+                    \clef "treble_8"
+                    \global
+                    \tenorIV
+                >>
+             \addlyrics { \tenorLyricsIV }
                 \new Voice <<
                     \set Staff.instrumentName = #"Bassus"
-                    \incipit \bassusIIincipitVoice
+                    \incipit \bassusIVincipitVoice
                     \clef "bass"
                     \global
-                    \bassusII
+                    \bassusIV
                 >>
-             \addlyrics { \bassusLyricsII }
+             \addlyrics { \bassusLyricsIV }
              >>
          >>
         \include "../include/vocal-layout-score-barring.ly"
@@ -105,21 +105,26 @@
     \markup {
         \fill-line {
             \column {
-                \line { O quam suavis est, Domine, spiritus tuus, }
-                \line { qui ut dulcedinem tuam in filios demonstrares, }
-                \line { pane suavissimo de cælo præstito }
-                \line { esurientes reples bonis, }
-                \line { fastidiosos divites dimittens inanes. }
+                 \line { Jesum quem quæritis non est hic, sed surrexit! }
+                 \line { Recordamini qualiter locutus est vobis, }
+                 \line { dum adhuc in Galilæa esset. }
+                 \line { Alleluia. }
             }
             \column {
-                % translation: 2026-04-16
-                \line { O how gracious is thy spirit, Lord, }
-                \line { who, so as to reveal thy sweetness to thy children, }
-                \line { with the most delicious bread bestowed from heaven }
-                \line { fill the hungry with good things, }
-                \line { sending the scornful rich away empty-handed. }
-                \line { \hspace #10 \italic { translation by editor } }
+                 \line { Jesus whom you seek is not here, but has risen! }
+                 \line { Remember how he told you,  }
+                 \line { while he was still in Galilee. }
+                 \line { Alleluia. }
+                \line { \hspace #10 \italic { NIV translation (modified slightly) } }
             }
+        }
+    }
+    \markup {
+        \wordwrap {
+            \vspace #2
+            Note: This is not tied to a particular Easter liturgy but should
+            be understood as belonging to the Office tradition of Easter
+            Sunday rather than to the Mass itself. See Cantus ID 003483.
         }
     }
 }
