@@ -13,6 +13,8 @@
     cksum = "399e974a3df00ff51f8df7316a581929e908a55d"
     lastupdated = "2026-04-19"
     originallyset = "2026-04-19"
+    flats = 1
+    final = "g"
     \include "include/distribution-header.ly"
     % Things that change per piece:
     title = "Iudica me, Domine"
