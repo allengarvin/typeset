@@ -11,6 +11,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Rallegrati mio cor"
 
     % Things that change per part:

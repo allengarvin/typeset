@@ -11,6 +11,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Non è sì denso velo"
 
     % Things that change per part:

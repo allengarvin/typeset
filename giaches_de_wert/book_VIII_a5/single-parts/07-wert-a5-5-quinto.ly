@@ -12,6 +12,7 @@
 \header {
     % Things that change per piece:
     title = "Sovente all'hor che sù gli estivi ardori"
+    subsubtitle = ""
     subtitle = "Prima parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Quinto VII ottava 19 }
 

@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Qual musico gentil prima che chiara"
+    subsubtitle = ""
     subtitle = "Prima parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XVI ottava 43 }
     instrument = "Qual musico gentil (score)"

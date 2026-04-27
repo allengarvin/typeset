@@ -10,6 +10,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Vener, ch'un giorno avea"
     instrument = "Vener, ch'un giorno avea (score)"
     needtranslation = #'t

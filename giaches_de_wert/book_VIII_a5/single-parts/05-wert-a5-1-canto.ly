@@ -11,6 +11,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Fra le dorate chiome"
 
     % Things that change per part:

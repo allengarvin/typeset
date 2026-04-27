@@ -10,6 +10,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Io non son però morto"
 
     % RePIM lists this as anonymous.

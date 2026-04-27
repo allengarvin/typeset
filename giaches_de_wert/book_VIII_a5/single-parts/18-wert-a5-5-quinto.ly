@@ -11,6 +11,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Non sospirar, Pastor"
     folio = \markup { Torquato Tasso, \italic{Ecloghe} Quinto XVIII ottava 20 }
 

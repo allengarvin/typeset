@@ -10,6 +10,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Usciva homai del molle e fresco grembo"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XIV ottava I }
     instrument = "Usciva homai (score)"

@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Poscia dicea piangendo"
+    subsubtitle = ""
     subtitle = "Seconda parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto VII ottava 20 }
     instrument = "Poscia dicea piangendo (score)"

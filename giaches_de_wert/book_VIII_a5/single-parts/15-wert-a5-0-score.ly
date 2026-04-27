@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Aggiungi a questo ancor"
+    subsubtitle = ""
     subtitle = "Quarta parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XV ottava 46 }
     instrument = "Aggiungi a questo ancor (score)"

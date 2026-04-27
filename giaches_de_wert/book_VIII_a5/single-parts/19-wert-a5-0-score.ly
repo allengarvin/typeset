@@ -10,6 +10,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Questi odorati fiori"
     needtranslation = #'f
     instrument = "Questi odorati fiori (score)"

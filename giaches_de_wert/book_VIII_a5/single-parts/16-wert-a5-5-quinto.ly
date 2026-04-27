@@ -11,6 +11,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Sia questa pur tra le mie frodi"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Quinto XVI ottava 47 }
 

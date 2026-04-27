@@ -12,6 +12,7 @@
 \header {
     % Things that change per piece:
     title = "Se m’odii, e in ciò diletto alcun tu senti"
+    subsubtitle = ""
     subtitle = "Terza parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XVI ottava 45 }
 

@@ -11,6 +11,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Io non son però morto"
     folio = "Girolamo Romanino (c.1485-c.1566)"
 

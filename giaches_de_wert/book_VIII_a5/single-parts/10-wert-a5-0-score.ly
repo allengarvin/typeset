@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Ma che? squallido e scuro"
+    subsubtitle = ""
     subtitle = "Seconda parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto XIX ottava 107 }
     instrument = "Ma che? squallido e scuro (score)"

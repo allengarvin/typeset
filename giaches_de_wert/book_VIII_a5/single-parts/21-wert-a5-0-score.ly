@@ -10,6 +10,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Con voi giocando Amor"
     folio = "Giovan Battista Nicolucci, detto il Pigna (1529-1575)"
     instrument = "Con voi giocando Amor (score)"

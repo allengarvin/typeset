@@ -10,6 +10,7 @@
 
 \header {
     % Things that change per piece:
+    subsubtitle = ""
     title = "Forsennata gridava"
     instrument = "Forsennata gridava (score)"
     needtranslation = #'t

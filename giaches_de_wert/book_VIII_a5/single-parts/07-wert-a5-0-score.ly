@@ -11,6 +11,7 @@
 \header {
     % Things that change per piece:
     title = "Sovente all'hor che sù gli estivi ardori"
+    subsubtitle = ""
     subtitle = "Prima parte"
     folio = \markup { Torquato Tasso, \italic{Gerusalemme Liberata} Canto VII ottava 19 }
     instrument = "Sovente all'hor (score)"
