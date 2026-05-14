@@ -42,3 +42,17 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "08-cavaccio--la_foresta-"
+    \bookOutputSuffix "--2-alto--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \altoVIII
+        >>
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}
