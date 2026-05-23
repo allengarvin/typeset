@@ -103,7 +103,7 @@ tenorXVII = \relative c {
 
     b\breve | R | r1 e | d1. c2 | 
         b a\ficta gs1\unficta | \[ a\breve( | g) \] | r1 b | d d |
-        a\breve | r1 d | b2 c b c ~ | c4( b a1 g2) | a1 r2 a | g e f d |
+        a\breve | r1 d | b2 c b c ~ | c4\melfi b a1 gs2\melfiEnd | a1 r2 a | g e f d |
         a' a c c | c1
 
     a2.( b4) | c2 a c c | c1 a2.( b4) | c2 a g a | g1 a | g\longa*1/2
