@@ -48,3 +48,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "14-palestrina--per_mostrar_gioia_del_connubio-"
+    \bookOutputSuffix "--2-alto--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \altoXIV
+        >>
+                \addlyrics { \altoLyricsXIV }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

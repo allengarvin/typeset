@@ -48,3 +48,18 @@
      %   \include "../include/vocal-layout-parts-barring.ly"
     }
 }
+
+\book {
+    \bookOutputName "13-palestrina--o_felice_ore-"
+    \bookOutputSuffix "--2-alto--al_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef "alto"
+            \global 
+            \altoXIII
+        >>
+                \addlyrics { \altoLyricsXIII }
+     %   \include "../include/vocal-layout-parts-barring.ly"
+    }
+}

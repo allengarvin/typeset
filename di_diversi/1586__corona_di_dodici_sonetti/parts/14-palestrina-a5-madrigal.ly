@@ -7,7 +7,7 @@
 cantoXIVincipit = \relative c'' {
     \clef "petrucci-g"
     \key c \major
-    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature #'style = #'modern \time 3/2
+    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature.style = #'modern \time 3/2
 
 
     c2
@@ -63,7 +63,7 @@ cantoLyricsXIV = \lyricmode {
 altoXIVincipit = \relative c' {
     \clef "petrucci-c2"
     \key c \major
-    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature #'style = #'modern \time 3/2
+    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature.style = #'modern \time 3/2
 
     c2
 }
@@ -124,7 +124,7 @@ altoLyricsXIV = \lyricmode {
 tenoreXIVincipit = \relative c' {
     \clef "petrucci-c3"
     \key c \major
-    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature #'style = #'modern \time 3/2
+    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature.style = #'modern \time 3/2
 
     g2
 }
@@ -178,7 +178,7 @@ tenoreLyricsXIV = \lyricmode {
 bassoXIVincipit = \relative c' {
     \clef "petrucci-c4"
     \key c \major
-    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature #'style = #'modern \time 3/2
+    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature.style = #'modern \time 3/2
 
     g2
 }
@@ -226,7 +226,7 @@ bassoLyricsXIV = \lyricmode {
 quintoXIVincipit = \relative c' {
     \clef "petrucci-c3"
     \key c \major
-    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature #'style = #'modern \time 3/2
+    \time 4/4\doubleTimeSig \once  \override Staff.TimeSignature.style = #'modern \time 3/2
 
     c2
 }
