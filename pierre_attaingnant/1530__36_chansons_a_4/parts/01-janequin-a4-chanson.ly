@@ -11,6 +11,7 @@ superiusI = \relative c' {
     \fourTwoCutTime
     \key f \major
 
+    % \tempo 2 = 108
     f1 a2 c | a f c'1 | f, r2 a | a g a2. g4 | a2 bf c1 ~ | c\breve | 
         r1 r2 a | a a bf4( a bf) c | f,2 g a c | c4 bf a g
 
@@ -25,7 +26,8 @@ superiusI = \relative c' {
         g2 f1 e2 | f1 r2 g ~ | g e f d | e1 r | R\breve | r1 c' ~ | 
         c2 a bf g | \invisibleTime\time 6/2 s1*0\raisedSixTwoTime a1 
 
-    g2 f1 e2 | \singleTime\time 3/1 
+    g2 f1 e2 | \time 3/1 
+        % \tempo 2 = 162
         f\breve r1 | c' c c | f,2( e f g a1) | 
         bf bf a | g g r | a a a | d,2( c d e f1) | g g f | g g r | a a g | 
         f a g | 
@@ -33,6 +35,7 @@ superiusI = \relative c' {
     r1 r c | c bf a | c g r | a a a | d,\breve f1 | g g f | g g r | R\breve. | c1 c c |
         f,\breve a1 | bf bf a | \[ g1( bf1. \] a2 | a\breve g1) | 
         \fourTwoCutTime 
+        % \tempo 2 = 108
         a1 a 
 
     bf1. a2 | g1 f | e\breve | r1 c' ~ | c2 bf a g | f a g f | e2. f4 g1 ~ |
@@ -106,7 +109,7 @@ contratenorI = \relative c {
 
     r2 g'1 e2 | f d e1 | r2 f1 g2 | \invisibleTime\time 6/2 
         s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        e2 f e c d c | \singleTime\time 3/1
+        e2 f e c d c | \time 3/1
         a\breve. | R | d1 d f | g d f | e\breve r1 | R\breve. | f1 f f | bf,2( a bf c d1) | 
         \ficta ef ef!\unficta d |
 
@@ -193,7 +196,7 @@ tenorI = \relative c {
 
     c1 | r2 d1 bf2 | \invisibleTime\time 6/2
         s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
-        c2 f, g a bf g | \singleTime\time 3/2 
+        c2 f, g a bf g | \time 3/1 
         f\breve. ~ | f | 
         R\breve. | R | c'1 c c | f,2( e f g a1) | bf bf a | g g r | c c bf | a c g | 
         r1 c c | bf a c | 
@@ -286,7 +289,7 @@ bassusI = \relative c {
         \invisibleTime\time 6/2 s1*0 #(if *is-parts* #{<>\raisedSixTwoTime #})
         c2 d e f bf, c | 
 
-    \singleTime\time 3/1
+    \time 3/1
         c'1 c c | f,2( e f g a1) | bf bf a | g g f | c\breve r1 |
         f1 f f | bf,2( a bf c d1) | \ficta ef ef! d\unficta | c c r1 | f f e | 
         d f c | r1 f f |
@@ -308,7 +311,7 @@ bassusI = \relative c {
 %    \colorBr c \colorBrBegin c c \colorBrEnd  | f\breve a1 | g g f |
 %        g\breve f1 | 
         
-%    \singleTime\time 3/1 
+%    \time 3/1 
 %        c'1 c c | f,2( e f g a1) | bf bf a | g g f | c\breve r1 |
 %        f1 f f | bf,2 a bf c d1 | \ficta ef ef! d\unficta | c c r | f f e |
 %        d f c | r f f |
