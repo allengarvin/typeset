@@ -243,7 +243,7 @@
                     \set Staff.instrumentName = #"Resolutio"
                     \clef "treble_8"
                     \global\transpose f c
-                    \tenorLII
+                    \resolutioLII
                 >>
              \addlyrics { \resolutioLyricsLII }
                 \new Voice <<
