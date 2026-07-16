@@ -345,7 +345,7 @@ quintoLyricsIII = \lyricmode {
 
 sestoIIIincipit = \relative c {
     \time 2/2
-    \clef "petrucci-c3"
+    \clef "petrucci-c4"
     \key c \major
 
     f2.
@@ -356,7 +356,7 @@ sestoIII = \relative c {
     \fourTwoCutTime
     \key c \major
 
-    R\breve | r2 d2. d4 d2 | c2.( d4 e f g2 ~ | g4 a b1) b2 |
+    R\breve | r2 d2. d4 e2 | c2.( d4 e f g2 ~ | g4 a b1) b2 |
         c1 b | a2. a4 a2 e | e g r4 a f d | a'2 d,4 d' d c
 
     d4.( c8 | b2) c r r4 a | a2 c a4 bf a2 | a r r g | g2. g4 d'2 g, |
