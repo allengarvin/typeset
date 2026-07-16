@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.24.2"
 \include "english.ly"
 
 \include "../include/paper-1-score.ly" 
@@ -104,12 +104,29 @@
                 \line { Nasce la pena mia }
                 \line { non potendo mirar mio vivo sole; }
                 \line { e la mia vita è ria }
-                \line { qualor lo miro, perché il guard'è tale, }
+                \line { qualor lo miro, perché il guard'è tale }
                 \line { che lasciarmi peggior che morte suole. }
-                \line { Ahi vita trist'e frale }
-                \line { che fia dunque di me che farmi deggio? }
+                \line { Ahi vita trist'e frale! }
+                \line { Che fia dunque di me, che farmi deggio? }
                 \line { S'io mir'ho male e s'io non mir'ho peggio.  }
             }
+            \column {
+                % translation: 2026-07-16
+                \line { My pain is born }
+                \line { not being able to gaze upon my living son; }
+                \line { and my life is abject }
+                \line { for when I contemplate it, its expression is such }
+                \line { that it commonly leaves me worse than death. }
+                \line { Ah, sad and frail life! }
+                \line { What shall thus happen to me, what must I do? }
+                \line { If I look, I suffer and if I do not look, I am worse. }
+                \line { \hspace #10 \italic { translation by editor } }
+            }
+        }
+    }
+}
+
+% this was not good. I don't know when I wrote it or if it came from elsewhere
 %            \column {
 %                \line { My pain is born }
 %                \line { When I am unable to gaze upon my living sun }
@@ -119,9 +136,4 @@
 %                \line { Ah, sad and frail life, }
 %                \line { What can be, therefore, that to me I must do }
 %                \line { If look, it is bad, and if I do not, it is worse. }
-%            }
-        }
-    }
-}
-
-
+% }
