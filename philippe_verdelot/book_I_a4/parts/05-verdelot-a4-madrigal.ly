@@ -47,14 +47,6 @@ altusVincipit = \relative c' {
     f\breve
 }
 
-altusVincipit = \relative c' {
-    \time 2/2
-    \clef "petrucci-c2"
-    \key f \major
-
-    f\breve
-}
-
 % altus: checked against source
 altusV = \relative c' {
     \fourTwoCutTime

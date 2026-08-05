@@ -64,14 +64,6 @@ altusXLVincipit = \relative c' {
     d2
 }
 
-altusXLVincipit = \relative c' {
-    \time 2/2
-    \clef "petrucci-c3"
-    \key f \major
-
-    d2
-}
-
 % altus: checked against source
 altusXLV = \relative c' {
     \fourTwoCutTime

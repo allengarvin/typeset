@@ -71,14 +71,6 @@ altoXincipit = \relative c' {
     c2
 }
 
-altoXincipit = \relative c' {
-    \time 4/4
-    \clef "petrucci-c3"
-    \key f \major
-
-    c2
-}
-
 % alto: checked against source
 altoX = \relative c' {
     \fourTwoCommonTime

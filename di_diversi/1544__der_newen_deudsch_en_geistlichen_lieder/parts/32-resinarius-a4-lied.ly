@@ -62,13 +62,6 @@ altusXXXII = \relative c' {
 altusLyricsXXXII = \lyricmode {
 }
 
-tenorXXXIIincipit = \relative c' {
-    \time 2/2
-    \clef "petrucci-c4"
-    \key f \major
-
-}
-
 tenorXXXIIincipit = \relative c {
     \time 2/2
     \clef "petrucci-c4"

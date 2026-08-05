@@ -149,14 +149,6 @@ bassoIXincipit = \relative c' {
     g1
 }
 
-bassoIXincipit = \relative c' {
-    \time 4/4
-    \key f \major
-    \clef "petrucci-f4"
-
-    g1
-}
-
 % basso: checked against source
 bassoIX = \relative c' {
     \fourTwoCommonTime

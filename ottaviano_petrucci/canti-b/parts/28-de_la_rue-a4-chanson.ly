@@ -61,14 +61,6 @@ tenorXXVIIIincipit = \relative c'' {
     a\breve
 }
 
-tenorXXVIIIincipit = \relative c'' {
-    \time 2/2
-    \clef "petrucci-c1"
-    \key c \major
-
-    a\breve
-}
-
 % tenor: checked against source
 tenorXXVIII = \relative c'' {
     \fourTwoCutTime

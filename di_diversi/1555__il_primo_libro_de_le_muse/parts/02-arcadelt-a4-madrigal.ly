@@ -80,14 +80,6 @@ tenorIIincipit = \relative c' {
     c1
 }
 
-tenorIIincipit = \relative c' {
-    \time 4/4
-    \clef "petrucci-c3"
-    \key c \major
-
-    c1
-}
-
 % tenor: checked against source
 tenorII = \relative c' {
     \fourTwoCommonTime

@@ -47,7 +47,6 @@ altoXIVincipit = \relative c' {
 }
     
 altoXIV = \relative c' {
-    %\clef "petrucci-c3"
     \key c \major
     
     r2 d g4 f8[ e] fs4 g | c,8[ d e c] d2 e4 f g2 ~ | g4 g f2 e2. c4 | 

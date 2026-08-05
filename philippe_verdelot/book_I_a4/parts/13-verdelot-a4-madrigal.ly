@@ -86,14 +86,6 @@ cantusLyricsXIII = \lyricmode {
     \normalLyrics
 }
 
-altusXIIIincipit = \relative c' {
-    \time 2/2
-    \clef "petrucci-c3"
-    \key c \major
-
-    d\breve
-}
-
 % altus: checked against source
 altusXIIIincipit = \relative c' {
     \time 2/2

@@ -94,7 +94,6 @@ tenoreXIIIincipit = \relative c'' {
 }
 
 tenoreXIII = \relative c'' {
-    %\clef "petrucci-c3"
     \fourTwoCommonTime
     \key c \major
 
@@ -139,7 +138,6 @@ bassoXIIIincipit = \relative c' {
 }
     
 bassoXIII = \relative c' {
-    %\clef "petrucci-c4"
     \fourTwoCommonTime
     \key c \major
     
