@@ -89,7 +89,7 @@ altoLyricsXXI = \lyricmode {
     Cu'l dul -- ce can -- to chie rum -- pe~o -- gni sco -- gio.
     O __ me -- gà -- las, cor -- do -- gio del mun -- do tut -- to, 
     O __ me -- gà -- las, cor -- do -- gio del mun -- do tut -- to, 
-    Chy sa -- rà mo chel -- lo?
+    Chy __ sa -- rà mo chel -- lo?
     Chy sa -- rà mo chel -- lo?
     Chie~in ar -- mo -- nia del par va -- ga cun el -- lo,
     Chy __ sa -- rà mo chel -- lo?
