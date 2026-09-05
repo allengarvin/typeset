@@ -43,7 +43,7 @@ cantusLyricsV = \lyricmode {
     Pia -- ce -- mi~al -- men __  ch'i miei so -- spir sien __ qua -- li
     Spe -- ra'l Te -- ver e l'Ar -- no
     E'l Po do -- ve do -- glio -- so~e gra -- ve~or seg -- gio.
-    Rec -- tor del ciel, io cheg -- gio 
+    Ret -- tor del ciel, io cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
     Ti vol -- ga~al tuo di -- let -- t'al -- mo pae -- se:
     Ve -- di, Si -- gnor cor -- te -- se, 
@@ -52,8 +52,8 @@ cantusLyricsV = \lyricmode {
     Mar -- te su -- per -- b'e fe -- ro
     A -- pri tu, pa -- dre~e'n -- te -- ne -- ri -- sci~e sno -- da;
     I -- vi fa ch'el tuo ve -- ro
-    Qual' io mi sia per la mia lin -- gua __ s'o -- da, 
-    Qual' io mi sia per la mia lin -- gua __ s'o -- da. __
+    Qua -- l'io mi sia per la mia lin -- gua __ s'o -- da, 
+    Qua -- l'io mi sia per la mia lin -- gua __ s'o -- da. __
 }
 
 altusVincipit = \relative c' {
@@ -104,7 +104,7 @@ altusLyricsV = \lyricmode {
     \normalLyrics
     Spe -- ra'l Te -- ver e l'Ar -- no
     E'l Po do -- ve __ do -- glio -- so~e gra -- ve or seg -- gio.
-    Rec -- tor del ciel, io cheg -- gio 
+    Ret -- tor del ciel, io cheg -- gio 
         io __ cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
     Ti vol -- ga~al tuo di -- let -- t'al -- mo pae -- se:
@@ -115,8 +115,8 @@ altusLyricsV = \lyricmode {
     Mar -- te su -- per -- b'e fe -- ro
     A -- pri tu, pa -- dre e'n -- te -- ne -- ri -- sci~e sno -- da;
     I -- vi fa ch'el tuo ve -- ro
-    Qual' io mi sia per la mia lin -- gua s'o -- da, 
-    Qual' io mi sia per la mia lin -- gua s'o -- da, 
+    Qua -- l'io mi sia per la mia lin -- gua s'o -- da, 
+    Qua -- l'io mi sia per la mia lin -- gua s'o -- da, 
         per la mia lin -- gua s'o -- da. 
 }
 
@@ -169,7 +169,7 @@ tenorLyricsV = \lyricmode {
     Pia -- ce -- mi~al -- men __ ch'i miei so -- spir sien qua -- li
     Spe -- ra'l Te -- ver e l'Ar -- no
     E'l Po do -- ve do -- glio -- so~e gra -- ve or __ seg -- gio.
-    Rec -- tor del ciel, io cheg -- gio 
+    Ret -- tor del ciel, io cheg -- gio 
         io __ cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
         che ti con -- dus -- s'in ter -- ra
@@ -183,9 +183,9 @@ tenorLyricsV = \lyricmode {
     Mar -- te su -- per -- b'e fe -- ro
     A -- pri tu, pa -- dre~e'n -- te -- ne -- ri -- sci~e sno -- da; __
     I -- vi fa ch'el tuo ve -- ro
-    Qual' io mi sia per la mia lin -- gua s'o -- da, 
+    Qua -- l'io mi sia per la mia lin -- gua s'o -- da, 
     \ijLyrics
-    Qual' io mi sia per la mia lin -- gua __ s'o -- da. __
+    Qua -- l'io mi sia per la mia lin -- gua __ s'o -- da. __
     \normalLyrics
 }
 
@@ -234,7 +234,7 @@ bassusLyricsV = \lyricmode {
         ch'i miei so -- spir sien qua -- li
     Spe -- ra'l Te -- ver e l'Ar -- no
     E'l Po do -- ve do -- glio -- so e gra -- ve or seg -- gio.
-    Rec -- tor del ciel, io cheg -- gio 
+    Ret -- tor del ciel, io cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
     Ti vol -- ga~al tuo di -- let -- t'al -- mo pae -- se:
     Ve -- di, Si -- gnor cor -- te -- se, 
@@ -243,9 +243,9 @@ bassusLyricsV = \lyricmode {
     Mar -- te su -- per -- b'e fe -- ro
     A -- pri tu, pa -- dre~e'n -- te -- ne -- ri -- sci~e sno -- da;
     I -- vi fa ch'el tuo ve -- ro
-    Qual' io mi sia per la mia lin -- gua s'o -- da, 
+    Qua -- l'io mi sia per la mia lin -- gua s'o -- da, 
     \ijLyrics
-    Qual' io mi sia per la mia lin -- gua s'o -- da,
+    Qua -- l'io mi sia per la mia lin -- gua s'o -- da,
     \normalLyrics
         per la mia lin -- gua s'o -- da. 
 }
@@ -300,7 +300,7 @@ quintusLyricsV = \lyricmode {
     \normalLyrics
     Spe -- ra'l Te -- ver e l'Ar -- no
     E'l __ Po do -- ve do -- glio -- so~e gra -- ve~or seg -- gio.
-    Rec -- tor del ciel, io cheg -- gio 
+    Ret -- tor del ciel, io cheg -- gio 
     Che la pie -- ta che ti con -- dus -- s'in ter -- ra
     Ti vol -- ga~al tuo di -- let -- t'al -- mo pae -- se:
     Ve -- di, Si -- gnor cor -- te -- se, 
@@ -309,8 +309,8 @@ quintusLyricsV = \lyricmode {
     Mar -- te su -- per -- b'e fe -- ro
     A -- pri tu, pa -- dre~e'n -- te -- ne -- ri -- sci~e sno -- da;
     I -- vi fa ch'el tuo ve -- ro
-    Qual' io mi sia per la mia lin -- gua __ s'o -- da, 
-    Qual' io mi sia per la mia lin -- gua 
+    Qua -- l'io mi sia per la mia lin -- gua __ s'o -- da, 
+    Qua -- l'io mi sia per la mia lin -- gua 
     \ijLyrics
     per la mia lin -- gua 
     \normalLyrics s'o -- da. 

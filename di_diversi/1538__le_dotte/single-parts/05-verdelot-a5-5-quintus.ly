@@ -63,3 +63,21 @@
     }
 }
 
+\book {
+    \bookOutputName "05-verdelot--italia_mia"
+    \bookOutputSuffix "--4-quintus--bs_clef"
+    \include "../include/paper-1-part.ly"
+    \score {
+        \new Voice << 
+            \clef bass
+            \global 
+            \quintusV
+        >>
+        \addlyrics { \quintusLyricsV }
+        \header {
+            partname = "Quintus"
+        }
+     %   \include "../include/vocal-layout-parts.ly"
+    }
+}
+
