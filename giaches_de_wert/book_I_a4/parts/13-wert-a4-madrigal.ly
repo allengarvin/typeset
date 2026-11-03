@@ -37,10 +37,10 @@ cantoLyricsXIII = \lyricmode {
     Ch'ar -- ri -- va~in par -- te~o -- ve s'ab -- bru -- cia l'a -- le;
     Poi non po -- ten -- do so -- ste -- ner, mi las -- sa
     Dal ciel ca -- der, né qui fi -- ni -- sce~il ma -- le;
-    Che le ri -- met -- te~e di nuo -- vo~ar -- de: ond' i -- o
-        ond' i -- o
+    Che le ri -- met -- te~e di nuo -- vo~ar -- de: on -- d'i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o,
-        ond' i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o.
 
 }
@@ -79,10 +79,10 @@ altoLyricsXIII = \lyricmode {
     Ch'ar -- ri -- va~in par -- te~o -- ve s'ab -- bru -- cia l'a -- le;
     Poi non po -- ten -- do so -- ste -- ner, mi las -- sa
     Dal ciel ca -- der, né qui fi -- ni -- sce~il ma -- le;
-    Che le ri -- met -- te~e di nuo -- vo~ar -- de: ond' i -- o
-        ond' i -- o
+    Che le ri -- met -- te~e di nuo -- vo~ar -- de: on -- d'i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o,
-        ond' i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o.
 }
 
@@ -120,10 +120,10 @@ tenoreLyricsXIII = \lyricmode {
     Ch'ar -- ri -- va~in par -- te~o -- ve s'ab -- bru -- cia l'a -- le;
     Poi non po -- ten -- do so -- ste -- ner, mi las -- sa
     Dal ciel ca -- der, né qui fi -- ni -- sce~il ma -- le;
-    Che le ri -- met -- te~e di nuo -- vo~ar -- de: ond' i -- o
-        ond' i -- o
+    Che le ri -- met -- te~e di nuo -- vo~ar -- de: on -- d'i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o,
-        ond' i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o.
 }
 
@@ -161,10 +161,10 @@ bassoLyricsXIII = \lyricmode {
     Ch'ar -- ri -- va~in par -- te~o -- ve s'ab -- bru -- cia l'a -- le;
     Poi non po -- ten -- do so -- ste -- ner, mi las -- sa
     Dal ciel ca -- der, né qui fi -- ni -- sce~il ma -- le;
-    Che le ri -- met -- te~e di nuo -- vo~ar -- de: ond' i -- o
-        ond' i -- o
+    Che le ri -- met -- te~e di nuo -- vo~ar -- de: on -- d'i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o,
-        ond' i -- o
+        on -- d'i -- o
     Non ho mai fi -- ne~al pre -- ci -- pi -- zio mi -- o.
 }
 
