@@ -16,7 +16,8 @@ cantusXXXIV = \relative c'' {
         d c) | d r1 | R\breve*2 | r1 f | f2 f1( e4 d |
 
     c2 d1 c2 | d2. c4 b2 a ~ | a4 g g1)\ficta fs2\unficta | 
-        g1 d' | e d | \[ d( c) \] | r1 r2 a |
+                    % vvvvvvvv thanks Sam Bradley for correction!
+        g1 d' | e d | \[ c( bf) \] | r1 r2 a |
 
     b2.( a8[ b] c2 g) | a1 g | r1 \[ g( | a) \] a\melisma | g2 c2. b4 a g | 
         f2 g1 \ficta fs2\unficta\melismaEnd | g\breve | r1 a | f a | c( a | c)
