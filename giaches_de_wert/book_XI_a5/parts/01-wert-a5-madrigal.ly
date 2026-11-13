@@ -111,7 +111,8 @@ tenoreI = \relative c' {
     R\breve*2 | r1 r2 d~ | d d d1 ~ | d2 c4 bf a2( g | a1) g | R\breve*2 |
         r2 g1 bf2 ~ | bf c d ef | d1 d | r2 bf4 bf bf2 a4 b |
 
-    c2 b r g | c4 f, bf2.( a8[ g] f2) | bf1 r1 | R\breve*2 | f1 f'2 e |
+                                % vv f2 to a2, correction from Mariano Valdezate Gonzalez 
+    c2 b r g | c4 f, bf2.( a8[ g] a2) | bf1 r1 | R\breve*2 | f1 f'2 e |
         d c bf1 | bf r1 | R\breve | r2 f2 f4. f8 f4 f |
 
     d2 d r4 d2 d4 | d'2 bf4 bf a1 | a r2 a | a f g1 | g a ~ | a a | 
