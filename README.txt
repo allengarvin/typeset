@@ -26,6 +26,10 @@ HOW-TO:
     In May 2025, I've switched to Lilypond 2.24.4, after making a few modifications to the include
     files. There are a bare handful of older pieces where I did something custom that will not work
     in 2.24. If you get a guile error, try using the include-2.22 folder. 
+
+    For LilyPond 2.25/2.26, use `ln -s ../../include-2.26 include` instead. The include-2.26
+    folder is include-2.24 with the font-tree setting removed (make-pango-font-tree no longer
+    exists) and one renamed time signature style. include-2.24 remains the choice for 2.24.x.
  
 1) Generates scores and parts
    cd single-parts
